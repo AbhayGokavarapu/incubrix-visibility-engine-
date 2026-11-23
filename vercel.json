@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/visibility/dashboard/index.html"
+    },
+    {
+      "source": "/progress",
+      "destination": "/visibility/dashboard/collection_progress.html"
+    }
+  ]
+}
