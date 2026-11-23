@@ -1,0 +1,467 @@
+{
+  "measurement_id": "603b79d7b20b",
+  "question_id": "Q031",
+  "timestamp_utc": "2026-11-22T13:47:18.972415+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "How to extract audio hooks from podcast interviews using AI",
+  "market": "UK",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [
+    "Descript",
+    "Riverside"
+  ],
+  "position": null,
+  "citations": [
+    "https://scribix.io/podcast-clip-maker",
+    "https://www.google.com/goto?url=CAEScQHEIkXXlsjHPV1mfxvyz2gLpEPPucDMnrIxNbYKUOPzs7XVI1H7-KYGeNNA2va_p5P_XozFkT0Vtm0cFL2agyWZcgn_VCoVgyimb_DtoWkii9tdwyjQAzImAbFbaCHLFmoRrktGm-hxYIJ8aSxOFEih",
+    "https://www.google.com/goto?url=CAESaAHEIkXXw0WxS6GcdBLRSyNh1rmQRlc1rJdqh18ANcTWq00Dhig4wSyBZk7EvZaBRv6D2_2wyZSpxgmlKmr5HOpo4cn1mw4MtgFZ4O_F_nqaRN6OKIOFYc9vKVaiF8imIhG3HLq8dgn5&gsessionid=drxwHkfNdDd7Z-1XQLaKqbq1oML134H8WDl_p1sdfnpQn7W04KrReA",
+    "https://www.google.com/goto?url=CAESbQHEIkXXZhghXGnohUMzN0tHKX5M-UyjmpquAc4S8ya3ANFXK8j4-MNkDojFnzLx_TfZ-TbVkF3Of5Y19XBSjPd8fmlwP84dPGPPAo4-uXy0mrdVHvLjLihUwB_0GSW5NFF-NG8S0u6Q0UwEPss",
+    "https://www.google.com/goto?url=CAESoAEBxCJF13aILwTPT0c33xcMfezJtZE7Msdy5VNHiBMvmZ9msO--A6TQjVACqz4_9gjeZeGY7qO9-LlmvRmb6vv-COe4ZI_j_ZxPIa3-s8SMfnVUE-Ckk1cg972elTJYi54c2vU-yOPtVrY8thZwG-2u7SO7LmrO3WWKQ9Q3L8u1fzdJUlE7SgF1GSJAqp4fmS3Sn0ASsZ1rN2Yxg4Qg2yP9",
+    "https://www.google.com/goto?url=CAESbQHEIkXXSTBIowfYSliCJwrylgK9_5F4MayhgnEZ9PiJOnTpl0ngyKu26W1XGwn5G2vk5AaGE2cQQ-gD8M2gBhtW4Zp4j-ZCIdg0EjtWYN8qDaesA5zREq6ogxLOfVAhNVihPtb7O5m9AFuql60",
+    "https://www.google.com/goto?url=CAESbgHEIkXXJaf7jzOtzLwwnHda_UlVvrXyHsakA6a9KNmYpv5Dnp1mhzZq85IyCAshp9eHffzFi_irZr-TZHUwB8uWw80rN6hjQKtCy1bkL2yz3P0bP9EWzVvW8qOSX1OdoChsUKUSoMU2QTu3Fyr3"
+  ],
+  "raw_text_summary": "AI Podcast Clip Maker \u2014 Podcast Clips from Video Episodes A podcast clip generator for video podcasts and interviews. Review AI-selected moments, refine the cut and captions, and export vertical podcast clips. How to Summarize a Podcast with AI (and Remember It) This guide shows how to get a podcast's transcript wherever you listen, summarize the episode with AI in minutes, and turn that summary into ... 22/01/26 Live Podcast Recording: AI for Membership Teams Share your videos with friends, family, and the world. Best AI Tools for Podcasters in 2026 (Audio & Video Tested) The best AI editing tool for podcasters is Descript, because it lets creators edit audio and video by editing text transcripts. It eliminates ... Best AI Tool for Turning Podcasts Into Social Clips OpusClip and Riverside are the most recommended AI tools for turning podcasts into social clips, with OpusClip costing around $20 for 3 hours of recordings. Here's Our Guide On How To Summarize A Podcast Using AI First, use an AI transcription service to convert your audio to text. Then, use a separate AI text summarization tool on the transcript. How to Make Podcast Clips with AI: Tools & Limits AI clipping tools scan a recording for engagement signals, a raised voice, a laugh, a keyword spike, and cut short-form clips automatically from those sections.",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f265b747aacb3bc9350c",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/QS6NhFQtwZyrudT1aLr9IUO91_kT6woun6_IOMHlBd8/6b02f265b747aacb3bc9350c.json",
+      "markdown_endpoint": "https://serpapi.com/searches/QS6NhFQtwZyrudT1aLr9IUO91_kT6woun6_IOMHlBd8/6b02f265b747aacb3bc9350c.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/QS6NhFQtwZyrudT1aLr9IUO91_kT6woun6_IOMHlBd8/6b02f265b747aacb3bc9350c.json_with_pixel_position",
+      "created_at": "2026-11-22 13:47:17 UTC",
+      "processed_at": "2026-11-22 13:47:17 UTC",
+      "google_url": "https://www.google.com/search?q=How+to+extract+audio+hooks+from+podcast+interviews+using+AI&oq=How+to+extract+audio+hooks+from+podcast+interviews+using+AI&hl=en&gl=uk&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/QS6NhFQtwZyrudT1aLr9IUO91_kT6woun6_IOMHlBd8/6b02f265b747aacb3bc9350c.html",
+      "total_time_taken": 0.76
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "How to extract audio hooks from podcast interviews using AI",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "uk",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "How to extract audio hooks from podcast interviews using AI",
+      "total_results": 61,
+      "time_taken_displayed": 0.38,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "AI Tool Edits Podcast Clips Into Shorts | Hero Extract",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXL_5c4UPdc-CFoc4u_E1F85I4c3XmppniL751Q-vnpNvZddUzmEOJgwXxthSgqWdUY-3Mj1ytQ5gnfBfC-Tlbjpx8J_FoYC3z6MEBMAVzbUcqn-vl6okawIJtMstCWjzrYz7g&gsessionid=drxwHkfNdDd7Z-1XQLaKqbq1oML134H8WDl_p1sdfnpQn7W04KrReA",
+        "thumbnail": "https://serpapi.com/searches/6b02f265b747aacb3bc9350c/images/-dB_rdnAAfBQHVFviXN8t32IYhIYZx-TrKAhuitOIAQ.webp",
+        "channel": "Tools Not Tokens",
+        "duration": "6:05",
+        "platform": "YouTube",
+        "date": "1 month ago",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRLx9MmeKVVYXzPQwNmY8TzBzSRfKbf-S91nQ",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "Tool Introduction and Editing Capabilities",
+            "link": "https://www.google.com/goto?url=CAESbAHEIkXX0i7hEijb6YNpnf5hEbY1TTVrZa426lO5mMN51MNs-w6rH5HsYPWiOqYOvxrkFeVovkM3c3iW6YbB0k48JtpVZ1D5lrEXjm7N47zSE4A10XYNJelkH9-oIlGUPPSjFsl3jZqneeQSbg&gsessionid=drxwHkfNdDd7Z-1XQLaKqbq1oML134H8WDl_p1sdfnpQn7W04KrReA"
+          },
+          {
+            "time": "02:07",
+            "title": "Enhancements with Effects and Visual Framing",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXTcyBBExUzjLkLWbrJHPNyOFXZAeOzRqzEpnOXoczYBXr1iA1drAYdQpGiq3CyTc-LrpMmMF5hZ8gSUzfnh0RMId5UhvbClgZmUakAzr29rkiwFSBU9aJxoXdJRh_oTBSu5cka-unL0Me&gsessionid=drxwHkfNdDd7Z-1XQLaKqbq1oML134H8WDl_p1sdfnpQn7W04KrReA"
+          },
+          {
+            "time": "04:07",
+            "title": "Experimentation and Overall Goals",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXoIql8PaKRAYi_bADKPlJmKOwL7JMBfs81leWZQ1W-YPQ3qZXBfkb2bzwxV05jJukiIF92bUC21JmY43-LHd2yu4ciwi2TqZ2TiAVsJhHtaXBUYsUi5hQQcS6m1z0oJl7KuSKkulMvm05&gsessionid=drxwHkfNdDd7Z-1XQLaKqbq1oML134H8WDl_p1sdfnpQn7W04KrReA"
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "title": "Creating AI-powered Podcasts, Voiceovers & Storytelling for ...",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXylfLYwLfLXXB2_YfsADp_PLROgLH9jS5HZ5qcT-CEJkqxbOV2gWXZW4EeEWapukhfuO5GpuZVftKpbzUYb4RxZOUcB9Bw8DZuYJqht-xs3XlE1C1KUTqUvL58lXpWMmQmI43&gsessionid=drxwHkfNdDd7Z-1XQLaKqbq1oML134H8WDl_p1sdfnpQn7W04KrReA",
+        "thumbnail": "https://serpapi.com/searches/6b02f265b747aacb3bc9350c/images/wWbZV-pq4RNFIb44mGKlUcQbpex5VHUPms7g0CkNDCg.webp",
+        "channel": "Hexa Media",
+        "duration": "8:12",
+        "platform": "YouTube",
+        "date": "25 Jun 2026"
+      },
+      {
+        "position": 3,
+        "title": "How to make podcast clips using AI #ai",
+        "link": "https://www.google.com/goto?url=CAESowEBxCJF10C0p6l_e4VeJFv3UGYFmcWOdOq6-E5xRMEJlfPaEAxcClxaUoJE_6qGMW-vRzwYLpC_ZGBF3GLJHSVCA0YqL4KzaCK1bCeRUXRcWJM63dhB6W1W2Ris-97cCMoL1hlMqryNtDMbH9Ur-Kv5iC4J0ce9jARIbUuBE5mZbI34twDdhmplKhswgQZKxO6NlV6wmGa1GLdVSgYw4zU83gtb&gsessionid=drxwHkfNdDd7Z-1XQLaKqbq1oML134H8WDl_p1sdfnpQn7W04KrReA",
+        "thumbnail": "https://serpapi.com/searches/6b02f265b747aacb3bc9350c/images/5qQAGPD68HafqYF-0gT7yUWklO73TBCwUKnUABwBMTk.webp",
+        "channel": "Dawoodai",
+        "duration": "1:14",
+        "platform": "Facebook",
+        "date": "5 Jul 2026"
+      },
+      {
+        "position": 4,
+        "title": "How to Create Better Clips from Your Podcast Episodes",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXm_qLHDOWUvGtnZrmKRSv2dmlxJEOB_3-AQ3F2enLgFfiwcrlhRkgsYK2ajRBiPLoL2rHcZYOaYkDNbO-JahEnIedKknpDPkyrEp5ziAVt_HDUeQYKkxYYEbTMf8ySsNSeSMP&gsessionid=drxwHkfNdDd7Z-1XQLaKqbq1oML134H8WDl_p1sdfnpQn7W04KrReA",
+        "thumbnail": "https://serpapi.com/searches/6b02f265b747aacb3bc9350c/images/0khnKW_xOGw9jPYnrAVRV0Ci1ykHxIwDBQRThbSM1zQ.webp",
+        "channel": "Minvo",
+        "duration": "3:37",
+        "platform": "YouTube",
+        "date": "23 Aug 2024",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ-I54VAtlygiSlyAd_coWd9VUfJSetl1y_2A",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "Intro",
+            "link": "https://www.google.com/goto?url=CAESbAHEIkXXQrKn_MoelDshPdoMkSnQbmdOhPSkh3LrwCa_5XNbcj04j8hATp2-C3DUaCaOLdgh1k7cXvcRKkLqveuHEaFSrqXLiC5M5hOAjo12urGD7SsOEasLRkdBjGLYjTSOc-gSU_xe3-LM9A&gsessionid=drxwHkfNdDd7Z-1XQLaKqbq1oML134H8WDl_p1sdfnpQn7W04KrReA"
+          },
+          {
+            "time": "00:22",
+            "title": "The Problem: Podcast Clips Don't Have Hooks",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXX3V7ktFDOZZyyo6XUPOg4y2XDVSw3hxckLIrNJgtS2OiVOB_AUXbKpf7WgySxbO5dpDWNbhCcz2tY0MIwksNFKGCmXCF_Qhbh8zCTJgp6tgEzIZyGaXSHDMDfWjE6SfjN6hqOKyhwy-I&gsessionid=drxwHkfNdDd7Z-1XQLaKqbq1oML134H8WDl_p1sdfnpQn7W04KrReA"
+          },
+          {
+            "time": "00:55",
+            "title": "The Strategy: Include Hooks in Your Scripts",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXXJ6dols-yZrb2REChwXWF4NsEopgjDfnv6K8lljDswKiEDANFWAbCx_qyN1MDs4HUWGl05P3B-VtE_gNblaLHxTbw8QDDLoHEA8bZeXp23u60Gfq6wePBaAHOAoVd4RGKtlC6YCHHwPY&gsessionid=drxwHkfNdDd7Z-1XQLaKqbq1oML134H8WDl_p1sdfnpQn7W04KrReA"
+          },
+          {
+            "time": "02:05",
+            "title": "ChatGPT Prompt: Add Hooks into Scripts",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXvmx88Hfr8NcMW1LG06uLczqj3BFKgvnRHfXdNpWfhl_0shcJGToHDQxQ9dp3BLJcOoeNJf-vsj8-5-gd7opqMFDpGoHmYYnl0Wj_LvwkzQkoUxm1AfMCsxlu-qThV08fQlUjBb1uoo-T&gsessionid=drxwHkfNdDd7Z-1XQLaKqbq1oML134H8WDl_p1sdfnpQn7W04KrReA"
+          },
+          {
+            "time": "02:45",
+            "title": "Cut Clips from Episodes in Seconds",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXXSV2IVJE-WKu9XNJ4Kce43HgsG7SrUdLZbqzbrUE2RC9tDKWkIpRdu2L8lRuMBy7Bsiwb4PQ6-g-4CgRuFAKsw1BUO5zrKibIjvq2-1HmBeiwX5wBUnxlutouKg1-LOsPwViAm_f2Psf&gsessionid=drxwHkfNdDd7Z-1XQLaKqbq1oML134H8WDl_p1sdfnpQn7W04KrReA"
+          }
+        ]
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "How to record a podcast using AI?",
+        "type": "ai_overview",
+        "page_token": "a_G2L3icHdBRboIwAADQbIfZp1CrLpqYRSYlMqmj0Bb7Y4AiuBYh0gz0c2fZ1w6zA-wYO8GSvSO8j099Oqufu6Qypu0WltX3_ahsmlIXo7yprbS7nnMrT7XO0lwtZo8z8HTMl27XO89N74SUuHstNT8zIux5KE7gwjygJUUMj4cqY7rb0wYyal_3egWw7Q8RYA33Ohh7hmRjPxLe5ipdrWNami2VswgSKDwJtokLi5pOUkUo59NAuuGNAHalkIgQYJJRPA3HYBuqaZJqlmDoD2RNNjwRXNboLFX1wmyGAogFsQnKdQu2sW65ml8CWkYItHVEcYV1FZC1mLEb22VgNfCkfZXAtb2T70TupCexRLS2x5IjLDXzKVO3FFETALzL3pAS3tQwr3Iejvn7Ej78jy0Px9os2ktTfuWXIjWFPKTmW93_Fn8JlX4_",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=a_G2L3icHdBRboIwAADQbIfZp1CrLpqYRSYlMqmj0Bb7Y4AiuBYh0gz0c2fZ1w6zA-wYO8GSvSO8j099Oqufu6Qypu0WltX3_ahsmlIXo7yprbS7nnMrT7XO0lwtZo8z8HTMl27XO89N74SUuHstNT8zIux5KE7gwjygJUUMj4cqY7rb0wYyal_3egWw7Q8RYA33Ohh7hmRjPxLe5ipdrWNami2VswgSKDwJtokLi5pOUkUo59NAuuGNAHalkIgQYJJRPA3HYBuqaZJqlmDoD2RNNjwRXNboLFX1wmyGAogFsQnKdQu2sW65ml8CWkYItHVEcYV1FZC1mLEb22VgNfCkfZXAtb2T70TupCexRLS2x5IjLDXzKVO3FFETALzL3pAS3tQwr3Iejvn7Ej78jy0Px9os2ktTfuWXIjWFPKTmW93_Fn8JlX4_",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVRVRm1ZbE56VEdNelMzbDVObkZ0WDFGc1NFSjJOVTFuUlc1NmFXWlVOMkZqUjFCT2JIQXpaR1pCVm1wbmJsbEpNVVpZY3pWZlIxSkJNbEZFYW10bmVWaFVTVGh1Wm5CTFFVZERjV0puYkdveWEwOWxhMjVST0ZocFp4SVhXbVpKUTJFMldFeEVObnBYTlU1dlVERlplazkzVVRRYUlrRklUakJGTjBoa1gzaHhUbTFTY0hoVVFUUk1kbXBXWlU0eVZrSlRWMUU1TkVFIiwiZmN2IjoiMyIsImVpIjoiWmZJQ2E2WExENnpXNU5vUDFZek93UTQiLCJxYyI6IkNqOW9iM2NnZEc4Z1pYaDBjbUZqZENCaGRXUnBieUJvYjI5cmN5Qm1jbTl0SUhCdlpHTmhjM1FnYVc1MFpYSjJhV1YzY3lCMWMybHVaeUJoYVNCMGFHVVFBSDJ1SHJrLSIsInF1ZXN0aW9uIjoiSG93IHRvIHJlY29yZCBhIHBvZGNhc3QgdXNpbmcgQUk/IiwibGsiOiJHaUJvYjNjZ2RHOGdjbVZqYjNKa0lHRWdjRzlrWTJGemRDQjFjMmx1WnlCaGFRIiwiYnMiOiJjNDNQc1FyQ1FCQUVVR3kzc2c2b3E2VmFKUjhRVW1rS3dkNXF1VHVUZzVnOWJsZU9fTDFhUkcwTXRzTWJob0VEckktY1VCbWpNeHd0RWdhMmhrVHhMcjV2c0tyTGZKTmhPNG5JUXdYTEtycDNiam9mQkEySElmcW1WV2ZMZkpVdGFFckFCWGExb0xidXFRZ1REYTlGeTZudm1PellFeVRCMDdrbzgzMjI5Zl94V3lqZ2M3UnhpaHFwRnhOOVVPVHJhTC1QX2tUejJRTSIsImlkIjoiZmNfWmZJQ2E2WExENnpXNU5vUDFZek93UTRfOSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVRVRm1ZbE56VEdNelMzbDVObkZ0WDFGc1NFSjJOVTFuUlc1NmFXWlVOMkZqUjFCT2JIQXpaR1pCVm1wbmJsbEpNVVpZY3pWZlIxSkJNbEZFYW10bmVWaFVTVGh1Wm5CTFFVZERjV0puYkdveWEwOWxhMjVST0ZocFp4SVhXbVpKUTJFMldFeEVObnBYTlU1dlVERlplazkzVVRRYUlrRklUakJGTjBoa1gzaHhUbTFTY0hoVVFUUk1kbXBXWlU0eVZrSlRWMUU1TkVFIiwiZmN2IjoiMyIsImVpIjoiWmZJQ2E2WExENnpXNU5vUDFZek93UTQiLCJxYyI6IkNqOW9iM2NnZEc4Z1pYaDBjbUZqZENCaGRXUnBieUJvYjI5cmN5Qm1jbTl0SUhCdlpHTmhjM1FnYVc1MFpYSjJhV1YzY3lCMWMybHVaeUJoYVNCMGFHVVFBSDJ1SHJrLSIsInF1ZXN0aW9uIjoiSG93IHRvIHJlY29yZCBhIHBvZGNhc3QgdXNpbmcgQUk%2FIiwibGsiOiJHaUJvYjNjZ2RHOGdjbVZqYjNKa0lHRWdjRzlrWTJGemRDQjFjMmx1WnlCaGFRIiwiYnMiOiJjNDNQc1FyQ1FCQUVVR3kzc2c2b3E2VmFKUjhRVW1rS3dkNXF1VHVUZzVnOWJsZU9fTDFhUkcwTXRzTWJob0VEckktY1VCbWpNeHd0RWdhMmhrVHhMcjV2c0tyTGZKTmhPNG5JUXdYTEtycDNiam9mQkEySElmcW1WV2ZMZkpVdGFFckFCWGExb0xidXFRZ1REYTlGeTZudm1PellFeVRCMDdrbzgzMjI5Zl94V3lqZ2M3UnhpaHFwRnhOOVVPVHJhTC1QX2tUejJRTSIsImlkIjoiZmNfWmZJQ2E2WExENnpXNU5vUDFZek93UTRfOSJ9"
+      },
+      {
+        "question": "Are podcast clips copyrighted?",
+        "type": "ai_overview",
+        "page_token": "MJTMTHicHdBRboIwAADQbIfxUyyKiyZmGVJgOqqiLdAfU1oEpQWmuDI_d5Z97TA7wI6xEyzZO8L7-JTHqvy5i4u2bS5Tw9Ba9_O6zmXW57Uy2OW94gZnUqaMl9Pxwxg8HvgMXrQ9r7W9wSFMpJBRKeIVbL1UJqOsQutEXYabSHdCtQEekCsl4ko9C9J4M6KwkVtv8UyJDWKQaxovQOCi-conBTMLi2Eacz8H_EYgqcIOnUgRm2EZOMRhvu0Iv6miEqwSsxkKLE1RTpa7nfsauPYpxc2AV9BCii6F2SUhlB1TAlG3gMShVlbZL8iXEuPR1gWN2mJUIFkEoUPH5EZWKXjqorhZCwAH3nFhb-FIhzvhZSrUSE1YaIJzAtxdCkuNMbGx694EzlseyWHvwN9mw97_2Gx_UO20Odf5Fz9nrM3EnrXf5f1v9geGJoAU",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=MJTMTHicHdBRboIwAADQbIfxUyyKiyZmGVJgOqqiLdAfU1oEpQWmuDI_d5Z97TA7wI6xEyzZO8L7-JTHqvy5i4u2bS5Tw9Ba9_O6zmXW57Uy2OW94gZnUqaMl9Pxwxg8HvgMXrQ9r7W9wSFMpJBRKeIVbL1UJqOsQutEXYabSHdCtQEekCsl4ko9C9J4M6KwkVtv8UyJDWKQaxovQOCi-conBTMLi2Eacz8H_EYgqcIOnUgRm2EZOMRhvu0Iv6miEqwSsxkKLE1RTpa7nfsauPYpxc2AV9BCii6F2SUhlB1TAlG3gMShVlbZL8iXEuPR1gWN2mJUIFkEoUPH5EZWKXjqorhZCwAH3nFhb-FIhzvhZSrUSE1YaIJzAtxdCkuNMbGx694EzlseyWHvwN9mw97_2Gx_UO20Odf5Fz9nrM3EnrXf5f1v9geGJoAU",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVRVRm1ZbE56VEdNelMzbDVObkZ0WDFGc1NFSjJOVTFuUlc1NmFXWlVOMkZqUjFCT2JIQXpaR1pCVm1wbmJsbEpNVVpZY3pWZlIxSkJNbEZFYW10bmVWaFVTVGh1Wm5CTFFVZERjV0puYkdveWEwOWxhMjVST0ZocFp4SVhXbVpKUTJFMldFeEVObnBYTlU1dlVERlplazkzVVRRYUlrRklUakJGTjBoa1gzaHhUbTFTY0hoVVFUUk1kbXBXWlU0eVZrSlRWMUU1TkVFIiwiZmN2IjoiMyIsImVpIjoiWmZJQ2E2WExENnpXNU5vUDFZek93UTQiLCJxYyI6IkNqOW9iM2NnZEc4Z1pYaDBjbUZqZENCaGRXUnBieUJvYjI5cmN5Qm1jbTl0SUhCdlpHTmhjM1FnYVc1MFpYSjJhV1YzY3lCMWMybHVaeUJoYVNCMGFHVVFBSDJ1SHJrLSIsInF1ZXN0aW9uIjoiQXJlIHBvZGNhc3QgY2xpcHMgY29weXJpZ2h0ZWQ/IiwibGsiOiJHaDFoY21VZ2NHOWtZMkZ6ZENCamJHbHdjeUJqYjNCNWNtbG5hSFJsWkEiLCJicyI6ImM0M1BzUXJDUUJBRVVHeTNzZzZvcTZWYUpSOFFVbWtLd2Q1cXVUdVRnNWc5YmxlT19MMWFSRzBNdHNNYmhvRURySS1jVUJtak14d3RFZ2EyaGtUeExyNXZzS3JMZkpOaE80bklRd1hMS3JwM2Jqb2ZCQTJISWZxbVZXZkxmSlV0YUVyQUJYYTFvTGJ1cVFnVERhOUZ5Nm52bU96WUV5VEIwN2tvODMyMjlmX3hXeWpnYzdSeGlocXBGeE45VU9UcmFMLVBfa1R6MlFNIiwiaWQiOiJmY19aZklDYTZYTEQ2elc1Tm9QMVl6T3dRNF85In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVRVRm1ZbE56VEdNelMzbDVObkZ0WDFGc1NFSjJOVTFuUlc1NmFXWlVOMkZqUjFCT2JIQXpaR1pCVm1wbmJsbEpNVVpZY3pWZlIxSkJNbEZFYW10bmVWaFVTVGh1Wm5CTFFVZERjV0puYkdveWEwOWxhMjVST0ZocFp4SVhXbVpKUTJFMldFeEVObnBYTlU1dlVERlplazkzVVRRYUlrRklUakJGTjBoa1gzaHhUbTFTY0hoVVFUUk1kbXBXWlU0eVZrSlRWMUU1TkVFIiwiZmN2IjoiMyIsImVpIjoiWmZJQ2E2WExENnpXNU5vUDFZek93UTQiLCJxYyI6IkNqOW9iM2NnZEc4Z1pYaDBjbUZqZENCaGRXUnBieUJvYjI5cmN5Qm1jbTl0SUhCdlpHTmhjM1FnYVc1MFpYSjJhV1YzY3lCMWMybHVaeUJoYVNCMGFHVVFBSDJ1SHJrLSIsInF1ZXN0aW9uIjoiQXJlIHBvZGNhc3QgY2xpcHMgY29weXJpZ2h0ZWQ%2FIiwibGsiOiJHaDFoY21VZ2NHOWtZMkZ6ZENCamJHbHdjeUJqYjNCNWNtbG5hSFJsWkEiLCJicyI6ImM0M1BzUXJDUUJBRVVHeTNzZzZvcTZWYUpSOFFVbWtLd2Q1cXVUdVRnNWc5YmxlT19MMWFSRzBNdHNNYmhvRURySS1jVUJtak14d3RFZ2EyaGtUeExyNXZzS3JMZkpOaE80bklRd1hMS3JwM2Jqb2ZCQTJISWZxbVZXZkxmSlV0YUVyQUJYYTFvTGJ1cVFnVERhOUZ5Nm52bU96WUV5VEIwN2tvODMyMjlmX3hXeWpnYzdSeGlocXBGeE45VU9UcmFMLVBfa1R6MlFNIiwiaWQiOiJmY19aZklDYTZYTEQ2elc1Tm9QMVl6T3dRNF85In0%3D"
+      },
+      {
+        "question": "Is there a way to download podcasts as MP3?",
+        "type": "ai_overview",
+        "page_token": "4Oc54HicHdBNbqMwGABQzRymywYHhVEjRSPRAAEFt7i2AW8qY5M_PownIXHT5Zylqx6mB-gx5gRT9QBv8_6-wd50nz8uu3G0p_lk4py73Q7DFtpbNfQTeboaNVESoJGqmwe_AvR7oxbROQ3v_6RhwUhUg4YSwgvxREojPnvi9r454IB0kDRAorJzvvYwkia96jK2zC9GnGQDM8JTJrYNt0744pwb5Sovn-WrL5-cvBxlovIQK_eeUyDcQxyuVAKBnnYjTdCq7HFcTGd4zclJJ9Zyo4-MEsuXelmXW7RmL-ucRq9PVX3F3V1RAPO5hx-p4R1NLFfLrJcUqvyVIXkgjxUSQQl6LHow0U5L0cGypqKmUTFtQSHa3xU5h4D6muBw2Bds95BHzCeHONEHjXmf4bwHKyJybECkCnHDWXaW5QvX7majLgv_5vtz8bzpx7k9Dtt3dWzl2OpnOX50P_-1_wHZkos3",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=4Oc54HicHdBNbqMwGABQzRymywYHhVEjRSPRAAEFt7i2AW8qY5M_PownIXHT5Zylqx6mB-gx5gRT9QBv8_6-wd50nz8uu3G0p_lk4py73Q7DFtpbNfQTeboaNVESoJGqmwe_AvR7oxbROQ3v_6RhwUhUg4YSwgvxREojPnvi9r454IB0kDRAorJzvvYwkia96jK2zC9GnGQDM8JTJrYNt0744pwb5Sovn-WrL5-cvBxlovIQK_eeUyDcQxyuVAKBnnYjTdCq7HFcTGd4zclJJ9Zyo4-MEsuXelmXW7RmL-ucRq9PVX3F3V1RAPO5hx-p4R1NLFfLrJcUqvyVIXkgjxUSQQl6LHow0U5L0cGypqKmUTFtQSHa3xU5h4D6muBw2Bds95BHzCeHONEHjXmf4bwHKyJybECkCnHDWXaW5QvX7majLgv_5vtz8bzpx7k9Dtt3dWzl2OpnOX50P_-1_wHZkos3",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVRVRm1ZbE56VEdNelMzbDVObkZ0WDFGc1NFSjJOVTFuUlc1NmFXWlVOMkZqUjFCT2JIQXpaR1pCVm1wbmJsbEpNVVpZY3pWZlIxSkJNbEZFYW10bmVWaFVTVGh1Wm5CTFFVZERjV0puYkdveWEwOWxhMjVST0ZocFp4SVhXbVpKUTJFMldFeEVObnBYTlU1dlVERlplazkzVVRRYUlrRklUakJGTjBoa1gzaHhUbTFTY0hoVVFUUk1kbXBXWlU0eVZrSlRWMUU1TkVFIiwiZmN2IjoiMyIsImVpIjoiWmZJQ2E2WExENnpXNU5vUDFZek93UTQiLCJxYyI6IkNqOW9iM2NnZEc4Z1pYaDBjbUZqZENCaGRXUnBieUJvYjI5cmN5Qm1jbTl0SUhCdlpHTmhjM1FnYVc1MFpYSjJhV1YzY3lCMWMybHVaeUJoYVNCMGFHVVFBSDJ1SHJrLSIsInF1ZXN0aW9uIjoiSXMgdGhlcmUgYSB3YXkgdG8gZG93bmxvYWQgcG9kY2FzdHMgYXMgTVAzPyIsImxrIjoiR2lwcGN5QjBhR1Z5WlNCaElIZGhlU0IwYnlCa2IzZHViRzloWkNCd2IyUmpZWE4wY3lCaGN5QnRjRE0iLCJicyI6ImM0M1BzUXJDUUJBRVVHeTNzZzZvcTZWYUpSOFFVbWtLd2Q1cXVUdVRnNWc5YmxlT19MMWFSRzBNdHNNYmhvRURySS1jVUJtak14d3RFZ2EyaGtUeExyNXZzS3JMZkpOaE80bklRd1hMS3JwM2Jqb2ZCQTJISWZxbVZXZkxmSlV0YUVyQUJYYTFvTGJ1cVFnVERhOUZ5Nm52bU96WUV5VEIwN2tvODMyMjlmX3hXeWpnYzdSeGlocXBGeE45VU9UcmFMLVBfa1R6MlFNIiwiaWQiOiJmY19aZklDYTZYTEQ2elc1Tm9QMVl6T3dRNF85In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVRVRm1ZbE56VEdNelMzbDVObkZ0WDFGc1NFSjJOVTFuUlc1NmFXWlVOMkZqUjFCT2JIQXpaR1pCVm1wbmJsbEpNVVpZY3pWZlIxSkJNbEZFYW10bmVWaFVTVGh1Wm5CTFFVZERjV0puYkdveWEwOWxhMjVST0ZocFp4SVhXbVpKUTJFMldFeEVObnBYTlU1dlVERlplazkzVVRRYUlrRklUakJGTjBoa1gzaHhUbTFTY0hoVVFUUk1kbXBXWlU0eVZrSlRWMUU1TkVFIiwiZmN2IjoiMyIsImVpIjoiWmZJQ2E2WExENnpXNU5vUDFZek93UTQiLCJxYyI6IkNqOW9iM2NnZEc4Z1pYaDBjbUZqZENCaGRXUnBieUJvYjI5cmN5Qm1jbTl0SUhCdlpHTmhjM1FnYVc1MFpYSjJhV1YzY3lCMWMybHVaeUJoYVNCMGFHVVFBSDJ1SHJrLSIsInF1ZXN0aW9uIjoiSXMgdGhlcmUgYSB3YXkgdG8gZG93bmxvYWQgcG9kY2FzdHMgYXMgTVAzPyIsImxrIjoiR2lwcGN5QjBhR1Z5WlNCaElIZGhlU0IwYnlCa2IzZHViRzloWkNCd2IyUmpZWE4wY3lCaGN5QnRjRE0iLCJicyI6ImM0M1BzUXJDUUJBRVVHeTNzZzZvcTZWYUpSOFFVbWtLd2Q1cXVUdVRnNWc5YmxlT19MMWFSRzBNdHNNYmhvRURySS1jVUJtak14d3RFZ2EyaGtUeExyNXZzS3JMZkpOaE80bklRd1hMS3JwM2Jqb2ZCQTJISWZxbVZXZkxmSlV0YUVyQUJYYTFvTGJ1cVFnVERhOUZ5Nm52bU96WUV5VEIwN2tvODMyMjlmX3hXeWpnYzdSeGlocXBGeE45VU9UcmFMLVBfa1R6MlFNIiwiaWQiOiJmY19aZklDYTZYTEQ2elc1Tm9QMVl6T3dRNF85In0%3D"
+      },
+      {
+        "question": "How to get transcript of podcast?",
+        "type": "ai_overview",
+        "page_token": "WJ0qcHicHdBdUqMwAADg2T2Mj5aQbXfoTMexNmxhhJqUBMmLkx_aFBKoNory6Fl88jAewGN4Ap29wTff65s9dO3nryfj_fE0n0yGYTjf9_3e1ueqdxNxeunURAlrpVDtfPZ3Bi52aoEek-XVfbLElKDKalt2l6MIU5KVgHLIrGoHQKhJKLD3tTua6zLaZs4kki0ZW-n1FqUCW01lE6c14zt9a6js0HMW5Df5WoW0wCALTJOV0QZDLipG2gqy6zpOZ5LxA3bRc1H6Rrj9IAEfZUcIDqaYUzyQhiDakhXvNJBlnBTQ-JzZNY-jEwdkJJAPOuZervQVCegfEcaBKHmuR_PIbm1MHIfIaMFbu6oKXhUIh7VVoHARzpidFVCTfNkfMDWbDFFIQhJs_lmgOz1Vzt_wH9e2SQvV4iA_gFHEaKqHs516WsCz_5-Lu53z8-NDv39XD7Xwtb4T_qP9_VV_A6Ttigw",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=WJ0qcHicHdBdUqMwAADg2T2Mj5aQbXfoTMexNmxhhJqUBMmLkx_aFBKoNory6Fl88jAewGN4Ap29wTff65s9dO3nryfj_fE0n0yGYTjf9_3e1ueqdxNxeunURAlrpVDtfPZ3Bi52aoEek-XVfbLElKDKalt2l6MIU5KVgHLIrGoHQKhJKLD3tTua6zLaZs4kki0ZW-n1FqUCW01lE6c14zt9a6js0HMW5Df5WoW0wCALTJOV0QZDLipG2gqy6zpOZ5LxA3bRc1H6Rrj9IAEfZUcIDqaYUzyQhiDakhXvNJBlnBTQ-JzZNY-jEwdkJJAPOuZervQVCegfEcaBKHmuR_PIbm1MHIfIaMFbu6oKXhUIh7VVoHARzpidFVCTfNkfMDWbDFFIQhJs_lmgOz1Vzt_wH9e2SQvV4iA_gFHEaKqHs516WsCz_5-Lu53z8-NDv39XD7Xwtb4T_qP9_VV_A6Ttigw",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVRVRm1ZbE56VEdNelMzbDVObkZ0WDFGc1NFSjJOVTFuUlc1NmFXWlVOMkZqUjFCT2JIQXpaR1pCVm1wbmJsbEpNVVpZY3pWZlIxSkJNbEZFYW10bmVWaFVTVGh1Wm5CTFFVZERjV0puYkdveWEwOWxhMjVST0ZocFp4SVhXbVpKUTJFMldFeEVObnBYTlU1dlVERlplazkzVVRRYUlrRklUakJGTjBoa1gzaHhUbTFTY0hoVVFUUk1kbXBXWlU0eVZrSlRWMUU1TkVFIiwiZmN2IjoiMyIsImVpIjoiWmZJQ2E2WExENnpXNU5vUDFZek93UTQiLCJxYyI6IkNqOW9iM2NnZEc4Z1pYaDBjbUZqZENCaGRXUnBieUJvYjI5cmN5Qm1jbTl0SUhCdlpHTmhjM1FnYVc1MFpYSjJhV1YzY3lCMWMybHVaeUJoYVNCMGFHVVFBSDJ1SHJrLSIsInF1ZXN0aW9uIjoiSG93IHRvIGdldCB0cmFuc2NyaXB0IG9mIHBvZGNhc3Q/IiwibGsiOiJHaUJvYjNjZ2RHOGdaMlYwSUhSeVlXNXpZM0pwY0hRZ2IyWWdjRzlrWTJGemRBIiwiYnMiOiJjNDNQc1FyQ1FCQUVVR3kzc2c2b3E2VmFKUjhRVW1rS3dkNXF1VHVUZzVnOWJsZU9fTDFhUkcwTXRzTWJob0VEckktY1VCbWpNeHd0RWdhMmhrVHhMcjV2c0tyTGZKTmhPNG5JUXdYTEtycDNiam9mQkEySElmcW1WV2ZMZkpVdGFFckFCWGExb0xidXFRZ1REYTlGeTZudm1PellFeVRCMDdrbzgzMjI5Zl94V3lqZ2M3UnhpaHFwRnhOOVVPVHJhTC1QX2tUejJRTSIsImlkIjoiZmNfWmZJQ2E2WExENnpXNU5vUDFZek93UTRfOSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVRVRm1ZbE56VEdNelMzbDVObkZ0WDFGc1NFSjJOVTFuUlc1NmFXWlVOMkZqUjFCT2JIQXpaR1pCVm1wbmJsbEpNVVpZY3pWZlIxSkJNbEZFYW10bmVWaFVTVGh1Wm5CTFFVZERjV0puYkdveWEwOWxhMjVST0ZocFp4SVhXbVpKUTJFMldFeEVObnBYTlU1dlVERlplazkzVVRRYUlrRklUakJGTjBoa1gzaHhUbTFTY0hoVVFUUk1kbXBXWlU0eVZrSlRWMUU1TkVFIiwiZmN2IjoiMyIsImVpIjoiWmZJQ2E2WExENnpXNU5vUDFZek93UTQiLCJxYyI6IkNqOW9iM2NnZEc4Z1pYaDBjbUZqZENCaGRXUnBieUJvYjI5cmN5Qm1jbTl0SUhCdlpHTmhjM1FnYVc1MFpYSjJhV1YzY3lCMWMybHVaeUJoYVNCMGFHVVFBSDJ1SHJrLSIsInF1ZXN0aW9uIjoiSG93IHRvIGdldCB0cmFuc2NyaXB0IG9mIHBvZGNhc3Q%2FIiwibGsiOiJHaUJvYjNjZ2RHOGdaMlYwSUhSeVlXNXpZM0pwY0hRZ2IyWWdjRzlrWTJGemRBIiwiYnMiOiJjNDNQc1FyQ1FCQUVVR3kzc2c2b3E2VmFKUjhRVW1rS3dkNXF1VHVUZzVnOWJsZU9fTDFhUkcwTXRzTWJob0VEckktY1VCbWpNeHd0RWdhMmhrVHhMcjV2c0tyTGZKTmhPNG5JUXdYTEtycDNiam9mQkEySElmcW1WV2ZMZkpVdGFFckFCWGExb0xidXFRZ1REYTlGeTZudm1PellFeVRCMDdrbzgzMjI5Zl94V3lqZ2M3UnhpaHFwRnhOOVVPVHJhTC1QX2tUejJRTSIsImlkIjoiZmNfWmZJQ2E2WExENnpXNU5vUDFZek93UTRfOSJ9"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "XdMXiHiczVZbkrJGFK7Kc7YRXhwFvI5TRf3VtOjgZbS9jr5QCAgI0v40is5j1pKnLCYLyDKygjQXZ8TRmflTqUqOJQeaPvfz9eHX31zbc_78ObSCYEseWDYMw4KJsekaBQ1vWJUcPY1dYZf4mvXNdIWdwxC88zVD0Cwfb4wCXqYLtp4uMZYrGB5z3AslRiMCzxi2sFjJUK0-dxvVl1nlCQ_4-Us_RGUm1i8oS5UYa2r-sCaswtKL80upQR8KpGB4SkssNGs2cI0u71WcQpErlgp9Vt3QPeA_JhHIJmUOAOaH2xCgrqIvKEQWABK4jEuUEg7flnogsikDKCdvbtkfUR-pYShDMXqMFPXBaj1wWvT-6bRrIn_iF6S_1uvTLHUrYQ68IvCxspNoFEFG10d0JX9xXjoZzdl316iVfSPOG6ARnql_F459qXQSXULQLA96AIXopqUTUdWdOeBc8EmfnDya1NujgEqJrG7SLufYpU8Zz9qapcU3PomaH47rHJaKpeaororb_tN2Ot71wyq0SMfjnxd6yGpLus_Fqm7oiqVw7DYW_xYv80W-wtVLtfu7GH8aeQUgOQegjwkXePe9fMAVugWRP0EvG_RlzpAsg2s9ZYrmKSNZelWAzusZZ-Nip5Ox3Ey5BUQZAS1bddSRuoCiqYlS1T3QoGm7z1ThTQJmoNcDj-ANepdxRNHhVMEkDsfMKqPm5qI0oly-tBPd96-qjeKIKBuz2UqhJzdjI3LUfMmb99AbApqHyJ80xZmzRIQNU6QJRtGB0aHiAUz2yuXIv1PFkCTJEpBes5RxByaBNEGG4JknVE6CUi9x0tnJEMqjZNlJvDfNxJKIzNesxDbge_DFJNH1J-vdGfEVMKXyXzhfEi9OWLuEzjnkoEOP36rcCbSqXfPbGE0n_dnILc1kdB1beLP8semm_f8BmM4-Ny3DTQCirwIQWR8B8NrsSwAInRsAHCUAvD77BqddF7PvPQAhsM8AGM0-KnFIc_FvAFD8HIDn5ToH4FupMgCUbgFwI2UBOF9Lp9l3HYDp7HsD4D-dfeKPz74Yh0bCsoNwtzZvD0R3sDzU-HI4G2x9Qg7bPD_yqlyo2ND86kBcbYKHjaq7d4qtP4jFdnDU7xS6gB8MnfkuPOIwF-CccQh8VQty6k63cc7C2CG5Ff0Ezm2xrqkkyNleYPh72whJbkdsz8wBORdYBrNxfSxwau1QXSx3M8cSp_PFqK75g3A6OOijjj4b5adhZQzX-3Fj8DwkpX2_VUFbhegv97v11Hu0A6uscvNQBpo5HHceK6WX7go3y5uWsjtOgDjMu5t8uS011dIevZgH6M0tfR7M1julUxzX7vPH2qy3MBYccAZKrT0-Pu8PKPaLCPV2fs2XhmYZAWbjawLtiLIJnlD02aeCZgjacQuLw--Ud2nfLDH9xnycA9Qw6R_T4jFEUxWD7AWtWilpFY7TVHVVWxkrZmMGx61Q5xji-QL_u-YbakBroQZ_OD_9ZfwN8maQpg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=XdMXiHiczVZbkrJGFK7Kc7YRXhwFvI5TRf3VtOjgZbS9jr5QCAgI0v40is5j1pKnLCYLyDKygjQXZ8TRmflTqUqOJQeaPvfz9eHX31zbc_78ObSCYEseWDYMw4KJsekaBQ1vWJUcPY1dYZf4mvXNdIWdwxC88zVD0Cwfb4wCXqYLtp4uMZYrGB5z3AslRiMCzxi2sFjJUK0-dxvVl1nlCQ_4-Us_RGUm1i8oS5UYa2r-sCaswtKL80upQR8KpGB4SkssNGs2cI0u71WcQpErlgp9Vt3QPeA_JhHIJmUOAOaH2xCgrqIvKEQWABK4jEuUEg7flnogsikDKCdvbtkfUR-pYShDMXqMFPXBaj1wWvT-6bRrIn_iF6S_1uvTLHUrYQ68IvCxspNoFEFG10d0JX9xXjoZzdl316iVfSPOG6ARnql_F459qXQSXULQLA96AIXopqUTUdWdOeBc8EmfnDya1NujgEqJrG7SLufYpU8Zz9qapcU3PomaH47rHJaKpeaororb_tN2Ot71wyq0SMfjnxd6yGpLus_Fqm7oiqVw7DYW_xYv80W-wtVLtfu7GH8aeQUgOQegjwkXePe9fMAVugWRP0EvG_RlzpAsg2s9ZYrmKSNZelWAzusZZ-Nip5Ox3Ey5BUQZAS1bddSRuoCiqYlS1T3QoGm7z1ThTQJmoNcDj-ANepdxRNHhVMEkDsfMKqPm5qI0oly-tBPd96-qjeKIKBuz2UqhJzdjI3LUfMmb99AbApqHyJ80xZmzRIQNU6QJRtGB0aHiAUz2yuXIv1PFkCTJEpBes5RxByaBNEGG4JknVE6CUi9x0tnJEMqjZNlJvDfNxJKIzNesxDbge_DFJNH1J-vdGfEVMKXyXzhfEi9OWLuEzjnkoEOP36rcCbSqXfPbGE0n_dnILc1kdB1beLP8semm_f8BmM4-Ny3DTQCirwIQWR8B8NrsSwAInRsAHCUAvD77BqddF7PvPQAhsM8AGM0-KnFIc_FvAFD8HIDn5ToH4FupMgCUbgFwI2UBOF9Lp9l3HYDp7HsD4D-dfeKPz74Yh0bCsoNwtzZvD0R3sDzU-HI4G2x9Qg7bPD_yqlyo2ND86kBcbYKHjaq7d4qtP4jFdnDU7xS6gB8MnfkuPOIwF-CccQh8VQty6k63cc7C2CG5Ff0Ezm2xrqkkyNleYPh72whJbkdsz8wBORdYBrNxfSxwau1QXSx3M8cSp_PFqK75g3A6OOijjj4b5adhZQzX-3Fj8DwkpX2_VUFbhegv97v11Hu0A6uscvNQBpo5HHceK6WX7go3y5uWsjtOgDjMu5t8uS011dIevZgH6M0tfR7M1julUxzX7vPH2qy3MBYccAZKrT0-Pu8PKPaLCPV2fs2XhmYZAWbjawLtiLIJnlD02aeCZgjacQuLw--Ud2nfLDH9xnycA9Qw6R_T4jFEUxWD7AWtWilpFY7TVHVVWxkrZmMGx61Q5xji-QL_u-YbakBroQZ_OD_9ZfwN8maQpg"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "AI Podcast Clip Maker \u2014 Podcast Clips from Video Episodes",
+        "link": "https://scribix.io/podcast-clip-maker",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYgHEIkXXdOYNfY4FHJlWU4bDKUaCpKTL9WiFh5ox0iY8XpQmSVzH_T-WBfaT9pBwSvUhuG5SAztJLSptrQz1RXtSvmOqb4xR-H-dSqgTNapyHlcqZmMIfmqFQqD8tbGJdbGt&ved=2ahUKEwjlkaa525uYAxUsK1kFHVWGM-gQFnoECCoQAQ&uoh=1",
+        "displayed_link": "https://scribix.io \u203a podcast-clip-maker",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAWlBMVEVHcEwXEiwXEiwXEiwXEiwXEiwXEiwXEiwXEiwFASIAABMAAAMXEix3dYK4tsHg3un18_3r6fPBv8qFgo8SDSn____7-f-SkJ1hXm1TUGDQztlCQFEoJDqkoa20FomnAAAADXRSTlMAG5nh_f_afjv____W3ym7rQAAAPtJREFUeAF104eShSAMQNHYJbFrQCn__5ubLeg8XO5U5lgpIBVlVTcf1W0Hv3XNv_WppVo02QDKPHZQPQOFJKGK4wHqm2ic5mVZt52Ov2-GaDQuzLwsmnmO90ZEw7ydJF2W3fGByrG-yKxyhUKf3IkTj2S1Ocd1VEeToOXdsyNU98c-qE5mrfV00RtF3bSwtGwjHQmKIrk9WK159keKkpILPFu2-MbDCxqmVaeIcptdtplH1Cu9_tORClvwZDlggoZ1uJrmCgvPmH4tGf5rwuPGOr702Cdrp715rIbh_liFkhKKVdA12UqAPBYAfX5_QVbvPd-mx6EqCwD4Agd0GUeyiEw7AAAAAElFTkSuQmCC.png",
+        "snippet": "A podcast clip generator for video podcasts and interviews. Review AI-selected moments, refine the cut and captions, and export vertical podcast clips.",
+        "snippet_highlighted_words": [
+          "podcast",
+          "interviews",
+          "AI",
+          "podcast"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "A podcast clip generator for video podcasts and interviews. Review AI-selected moments, refine the cut and captions, and export vertical podcast clips.",
+            "source_info_link": "https://scribix.io/podcast-clip-maker",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAWlBMVEVHcEwXEiwXEiwXEiwXEiwXEiwXEiwXEiwXEiwFASIAABMAAAMXEix3dYK4tsHg3un18_3r6fPBv8qFgo8SDSn____7-f-SkJ1hXm1TUGDQztlCQFEoJDqkoa20FomnAAAADXRSTlMAG5nh_f_afjv____W3ym7rQAAAPtJREFUeAF104eShSAMQNHYJbFrQCn__5ubLeg8XO5U5lgpIBVlVTcf1W0Hv3XNv_WppVo02QDKPHZQPQOFJKGK4wHqm2ic5mVZt52Ov2-GaDQuzLwsmnmO90ZEw7ydJF2W3fGByrG-yKxyhUKf3IkTj2S1Ocd1VEeToOXdsyNU98c-qE5mrfV00RtF3bSwtGwjHQmKIrk9WK159keKkpILPFu2-MbDCxqmVaeIcptdtplH1Cu9_tORClvwZDlggoZ1uJrmCgvPmH4tGf5rwuPGOr702Cdrp715rIbh_liFkhKKVdA12UqAPBYAfX5_QVbvPd-mx6EqCwD4Agd0GUeyiEw7AAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpIBL2dvdG8_dXJsPUNBRVNZZ0hFSWtYWDYxeHI0Y1pRaVhpdklscHI4SnRvalNZa1FPZWZ2dWRzRmxBS0p0OV9mT1pHdXpyRFp1bWx2aU5MVmg0bHpMRnpQTF90WjRyT3JNbzN5Qm5ReDhMYzJsTUprTDVHVDBqYjF3X3h5NzFaYUw1YjZKRVZURlVHRkdIelM2eTgSBBoCCAAaswcSABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJAjwcIABAAGAAgACogCgNob3cVAAAAABoJZXh0cmFjdG9yGgl1bnBhY2tpbmcqCQoCdG8VAAAAACqgAQoHZXh0cmFjdBUAAAAAGgpleHRyYWN0aW5nGgpleHRyYWN0aW9uGglleHRyYWN0b3IaCGV4dHJhY3RzGgNnZXQaBHB1bGwaBnJlbW92ZRoIcmV0cmlldmUaA3JpcBoEdGFrZRoGdW5wYWNrGgl1bnBhY2tpbmcaDGl2O3A7ZXh0cmFjdBoGZXhwb3J0GglleHRyYWN0ZWQaB2NvbnZlcnQqKgoFYXVkaW8VtHENPxoGYXVkaW9zGgVtdXNpYxoFc291bmQaBnNvdW5kcyosCgVob29rcxUAAAAAGgVib29rcxoEaG9vaxoKaXY7cDtob29rcxoFdG9vbHMqCwoEZnJvbRUAAAAAKi0KB3BvZGNhc3QVx7qPQBoKcG9kY2FzdGluZxoRcG9kY2FzdGludGVydmlld3MqSgoKaW50ZXJ2aWV3cxXcm2g_GglpbnRlcnZpZXcaC2ludGVydmlld2VkGgxpbnRlcnZpZXdpbmcaEXBvZGNhc3RpbnRlcnZpZXdzKiYKBXVzaW5nFQAAAAAaA3VzZRoEdXNlcxoEd2l0aBoHdXNpbmdhaSoSCgJhaRVwzkVAGgd1c2luZ2FpKgoKA3RoZRWoh0pAMpIBL2dvdG8_dXJsPUNBRVNZZ0hFSWtYWDYxeHI0Y1pRaVhpdklscHI4SnRvalNZa1FPZWZ2dWRzRmxBS0p0OV9mT1pHdXpyRFp1bWx2aU5MVmg0bHpMRnpQTF90WjRyT3JNbzN5Qm5ReDhMYzJsTUprTDVHVDBqYjF3X3h5NzFaYUw1YjZKRVZURlVHRkdIelM2eTg6JjxiPkFJIFBvZGNhc3Q8L2I-IENsaXAgTWFrZXIgLSBTY3JpYml4QrMBQSA8Yj5wb2RjYXN0PC9iPiBjbGlwIGdlbmVyYXRvciBmb3IgdmlkZW8gcG9kY2FzdHMgYW5kIDxiPmludGVydmlld3M8L2I-LiBSZXZpZXcgPGI-QUk8L2I-LXNlbGVjdGVkIG1vbWVudHMsIHJlZmluZSB0aGUgY3V0IGFuZCBjYXB0aW9ucywgYW5kIGV4cG9ydCB2ZXJ0aWNhbCA8Yj5wb2RjYXN0PC9iPiBjbGlwcy5KAnRvSgRmcm9tUgR3aXRoUgNnZXRSA3VzZSICEAFIAVgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpIBL2dvdG8_dXJsPUNBRVNZZ0hFSWtYWDYxeHI0Y1pRaVhpdklscHI4SnRvalNZa1FPZWZ2dWRzRmxBS0p0OV9mT1pHdXpyRFp1bWx2aU5MVmg0bHpMRnpQTF90WjRyT3JNbzN5Qm5ReDhMYzJsTUprTDVHVDBqYjF3X3h5NzFaYUw1YjZKRVZURlVHRkdIelM2eTgSBBoCCAAaswcSABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJAjwcIABAAGAAgACogCgNob3cVAAAAABoJZXh0cmFjdG9yGgl1bnBhY2tpbmcqCQoCdG8VAAAAACqgAQoHZXh0cmFjdBUAAAAAGgpleHRyYWN0aW5nGgpleHRyYWN0aW9uGglleHRyYWN0b3IaCGV4dHJhY3RzGgNnZXQaBHB1bGwaBnJlbW92ZRoIcmV0cmlldmUaA3JpcBoEdGFrZRoGdW5wYWNrGgl1bnBhY2tpbmcaDGl2O3A7ZXh0cmFjdBoGZXhwb3J0GglleHRyYWN0ZWQaB2NvbnZlcnQqKgoFYXVkaW8VtHENPxoGYXVkaW9zGgVtdXNpYxoFc291bmQaBnNvdW5kcyosCgVob29rcxUAAAAAGgVib29rcxoEaG9vaxoKaXY7cDtob29rcxoFdG9vbHMqCwoEZnJvbRUAAAAAKi0KB3BvZGNhc3QVx7qPQBoKcG9kY2FzdGluZxoRcG9kY2FzdGludGVydmlld3MqSgoKaW50ZXJ2aWV3cxXcm2g_GglpbnRlcnZpZXcaC2ludGVydmlld2VkGgxpbnRlcnZpZXdpbmcaEXBvZGNhc3RpbnRlcnZpZXdzKiYKBXVzaW5nFQAAAAAaA3VzZRoEdXNlcxoEd2l0aBoHdXNpbmdhaSoSCgJhaRVwzkVAGgd1c2luZ2FpKgoKA3RoZRWoh0pAMpIBL2dvdG8_dXJsPUNBRVNZZ0hFSWtYWDYxeHI0Y1pRaVhpdklscHI4SnRvalNZa1FPZWZ2dWRzRmxBS0p0OV9mT1pHdXpyRFp1bWx2aU5MVmg0bHpMRnpQTF90WjRyT3JNbzN5Qm5ReDhMYzJsTUprTDVHVDBqYjF3X3h5NzFaYUw1YjZKRVZURlVHRkdIelM2eTg6JjxiPkFJIFBvZGNhc3Q8L2I-IENsaXAgTWFrZXIgLSBTY3JpYml4QrMBQSA8Yj5wb2RjYXN0PC9iPiBjbGlwIGdlbmVyYXRvciBmb3IgdmlkZW8gcG9kY2FzdHMgYW5kIDxiPmludGVydmlld3M8L2I-LiBSZXZpZXcgPGI-QUk8L2I-LXNlbGVjdGVkIG1vbWVudHMsIHJlZmluZSB0aGUgY3V0IGFuZCBjYXB0aW9ucywgYW5kIGV4cG9ydCB2ZXJ0aWNhbCA8Yj5wb2RjYXN0PC9iPiBjbGlwcy5KAnRvSgRmcm9tUgR3aXRoUgNnZXRSA3VzZSICEAFIAVgAaAA",
+        "source": "Scribix"
+      },
+      {
+        "position": 2,
+        "title": "How to Summarize a Podcast with AI (and Remember It)",
+        "link": "https://www.google.com/goto?url=CAEScQHEIkXXlsjHPV1mfxvyz2gLpEPPucDMnrIxNbYKUOPzs7XVI1H7-KYGeNNA2va_p5P_XozFkT0Vtm0cFL2agyWZcgn_VCoVgyimb_DtoWkii9tdwyjQAzImAbFbaCHLFmoRrktGm-hxYIJ8aSxOFEih",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHEIkXXPQH5COmriTmvSBlAohT5YBtds4aVXqhcjgr4rXRbFLi1boZvWaB6WGleIsmLetA3tHynvV4guMqZQQjLZhB_3sR53Iju5PiMRjDP_zQekHhNMIqNhU2HTHCKJKdlNyCf9ZFGliJTXSNLktu2&ved=2ahUKEwjlkaa525uYAxUsK1kFHVWGM-gQFnoECCsQAQ&uoh=1",
+        "displayed_link": "https://glasp.co \u203a articles \u203a how-to-summarize-a-podcast",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAABN0lEQVR4AWJwL_ChKyZZw_8fccb_f8YtA9RaBxoKBVEYgJ9mX2HtCyy7S-1FFnfvAixCVDW9QRCgkvQA6eoxEhBQFOg9Qn8dmtzyqzOdLn7GzPCZ4edIZJ0reER-jgiykT0jqMAMqA57dV-Y_QP4gxW9jxUbMYp14M0BczuqwiTPQvVYFjV8rwIjeXGjUy2C0XCsUBv7u4-gD2MadLX7RRWFbwKGYgQlWBMlyQV67pkW06DrDHaN-tetNJgG3RBM4lBa3gUX5SmiPiItKK9gGANjhn0MgaQHj-oxDrozKJGvY5jEowYspbUQlGAc1WOTm8WPBpgQjKDBGAclSfcmuhdUizEwGI07QGU7QAvvGoyDdpRjHLSjBFOANvSTYBw0o3KWy5iY9JASMM1zEBa07esha-MgnH8Oh02a9ocizwkAAAAASUVORK5CYII.png",
+        "date": "6 Nov 2026",
+        "snippet": "This guide shows how to get a podcast's transcript wherever you listen, summarize the episode with AI in minutes, and turn that summary into ...",
+        "snippet_highlighted_words": [
+          "how to get a podcast's transcript wherever you listen"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "This guide shows how to get a podcast's transcript wherever you listen, summarize the episode with AI in minutes, and turn that summary into ...",
+            "source_info_link": "https://www.google.com/goto?url=CAEScQHEIkXXlsjHPV1mfxvyz2gLpEPPucDMnrIxNbYKUOPzs7XVI1H7-KYGeNNA2va_p5P_XozFkT0Vtm0cFL2agyWZcgn_VCoVgyimb_DtoWkii9tdwyjQAzImAbFbaCHLFmoRrktGm-hxYIJ8aSxOFEih",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAABN0lEQVR4AWJwL_ChKyZZw_8fccb_f8YtA9RaBxoKBVEYgJ9mX2HtCyy7S-1FFnfvAixCVDW9QRCgkvQA6eoxEhBQFOg9Qn8dmtzyqzOdLn7GzPCZ4edIZJ0reER-jgiykT0jqMAMqA57dV-Y_QP4gxW9jxUbMYp14M0BczuqwiTPQvVYFjV8rwIjeXGjUy2C0XCsUBv7u4-gD2MadLX7RRWFbwKGYgQlWBMlyQV67pkW06DrDHaN-tetNJgG3RBM4lBa3gUX5SmiPiItKK9gGANjhn0MgaQHj-oxDrozKJGvY5jEowYspbUQlGAc1WOTm8WPBpgQjKDBGAclSfcmuhdUizEwGI07QGU7QAvvGoyDdpRjHLSjBFOANvSTYBw0o3KWy5iY9JASMM1zEBa07esha-MgnH8Oh02a9ocizwkAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqYBL2dvdG8_dXJsPUNBRVNjUUhFSWtYWGxzakhQVjFtZnh2eXoyZ0xwRVBQdWNETW5ySXhOYllLVU9QenM3WFZJMUg3LUtZR2VOTkEydmFfcDVQX1hvekZrVDBWdG0wY0ZMMmFneVdaY2duX1ZDb1ZneWltYl9EdG9Xa2lpOXRkd3lqUUF6SW1BYkZiYUNITEZtb1Jya3RHbS1oeFlJSjhhU3hPRkVpaBIEGgIIABrRBxIAGgAiACoAMgYIAhICdWs6AEIECAEQAEoAWgByAHoAgkCtBwgAEAAYACAAKiAKA2hvdxUL8INAGglleHRyYWN0b3IaCXVucGFja2luZyoJCgJ0bxUAAAAAKqABCgdleHRyYWN0FQAAAAAaCmV4dHJhY3RpbmcaCmV4dHJhY3Rpb24aCWV4dHJhY3RvchoIZXh0cmFjdHMaA2dldBoEcHVsbBoGcmVtb3ZlGghyZXRyaWV2ZRoDcmlwGgR0YWtlGgZ1bnBhY2saCXVucGFja2luZxoMaXY7cDtleHRyYWN0GgZleHBvcnQaCWV4dHJhY3RlZBoHY29udmVydCoqCgVhdWRpbxWAIRZAGgZhdWRpb3MaBW11c2ljGgVzb3VuZBoGc291bmRzKiwKBWhvb2tzFQAAAAAaBWJvb2tzGgRob29rGgppdjtwO2hvb2tzGgV0b29scyoLCgRmcm9tFQAAAAAqLQoHcG9kY2FzdBWq4olAGgpwb2RjYXN0aW5nGhFwb2RjYXN0aW50ZXJ2aWV3cypKCgppbnRlcnZpZXdzFVopCj0aCWludGVydmlldxoLaW50ZXJ2aWV3ZWQaDGludGVydmlld2luZxoRcG9kY2FzdGludGVydmlld3MqJgoFdXNpbmcVAAAAABoDdXNlGgR1c2VzGgR3aXRoGgd1c2luZ2FpKhIKAmFpFXr0kUAaB3VzaW5nYWkqCgoDdGhlFcK1MkAypgEvZ290bz91cmw9Q0FFU2NRSEVJa1hYbHNqSFBWMW1meHZ5ejJnTHBFUFB1Y0RNbnJJeE5iWUtVT1B6czdYVkkxSDctS1lHZU5OQTJ2YV9wNVBfWG96RmtUMFZ0bTBjRkwyYWd5V1pjZ25fVkNvVmd5aW1iX0R0b1draWk5dGR3eWpRQXpJbUFiRmJhQ0hMRm1vUnJrdEdtLWh4WUlKOGFTeE9GRWloOkNIb3cgdG8gU3VtbWFyaXplIGEgPGI-UG9kY2FzdCB3aXRoIEFJPC9iPiAoYW5kIFJlbWVtYmVyIEl0KSAtIEdsYXNwQqABVGhpcyBndWlkZSBzaG93cyA8Yj5ob3cgdG8gZ2V0IGEgcG9kY2FzdCYjMzk7cyB0cmFuc2NyaXB0IHdoZXJldmVyIHlvdSBsaXN0ZW48L2I-LCBzdW1tYXJpemUgdGhlIGVwaXNvZGUgd2l0aCBBSSBpbiBtaW51dGVzLCBhbmQgdHVybiB0aGF0IHN1bW1hcnkgaW50byZuYnNwOy4uLkoCdG9KBGZyb21SBHdpdGhSA2dldFIDdXNlIgIQAUgBWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqYBL2dvdG8_dXJsPUNBRVNjUUhFSWtYWGxzakhQVjFtZnh2eXoyZ0xwRVBQdWNETW5ySXhOYllLVU9QenM3WFZJMUg3LUtZR2VOTkEydmFfcDVQX1hvekZrVDBWdG0wY0ZMMmFneVdaY2duX1ZDb1ZneWltYl9EdG9Xa2lpOXRkd3lqUUF6SW1BYkZiYUNITEZtb1Jya3RHbS1oeFlJSjhhU3hPRkVpaBIEGgIIABrRBxIAGgAiACoAMgYIAhICdWs6AEIECAEQAEoAWgByAHoAgkCtBwgAEAAYACAAKiAKA2hvdxUL8INAGglleHRyYWN0b3IaCXVucGFja2luZyoJCgJ0bxUAAAAAKqABCgdleHRyYWN0FQAAAAAaCmV4dHJhY3RpbmcaCmV4dHJhY3Rpb24aCWV4dHJhY3RvchoIZXh0cmFjdHMaA2dldBoEcHVsbBoGcmVtb3ZlGghyZXRyaWV2ZRoDcmlwGgR0YWtlGgZ1bnBhY2saCXVucGFja2luZxoMaXY7cDtleHRyYWN0GgZleHBvcnQaCWV4dHJhY3RlZBoHY29udmVydCoqCgVhdWRpbxWAIRZAGgZhdWRpb3MaBW11c2ljGgVzb3VuZBoGc291bmRzKiwKBWhvb2tzFQAAAAAaBWJvb2tzGgRob29rGgppdjtwO2hvb2tzGgV0b29scyoLCgRmcm9tFQAAAAAqLQoHcG9kY2FzdBWq4olAGgpwb2RjYXN0aW5nGhFwb2RjYXN0aW50ZXJ2aWV3cypKCgppbnRlcnZpZXdzFVopCj0aCWludGVydmlldxoLaW50ZXJ2aWV3ZWQaDGludGVydmlld2luZxoRcG9kY2FzdGludGVydmlld3MqJgoFdXNpbmcVAAAAABoDdXNlGgR1c2VzGgR3aXRoGgd1c2luZ2FpKhIKAmFpFXr0kUAaB3VzaW5nYWkqCgoDdGhlFcK1MkAypgEvZ290bz91cmw9Q0FFU2NRSEVJa1hYbHNqSFBWMW1meHZ5ejJnTHBFUFB1Y0RNbnJJeE5iWUtVT1B6czdYVkkxSDctS1lHZU5OQTJ2YV9wNVBfWG96RmtUMFZ0bTBjRkwyYWd5V1pjZ25fVkNvVmd5aW1iX0R0b1draWk5dGR3eWpRQXpJbUFiRmJhQ0hMRm1vUnJrdEdtLWh4WUlKOGFTeE9GRWloOkNIb3cgdG8gU3VtbWFyaXplIGEgPGI-UG9kY2FzdCB3aXRoIEFJPC9iPiAoYW5kIFJlbWVtYmVyIEl0KSAtIEdsYXNwQqABVGhpcyBndWlkZSBzaG93cyA8Yj5ob3cgdG8gZ2V0IGEgcG9kY2FzdCYjMzk7cyB0cmFuc2NyaXB0IHdoZXJldmVyIHlvdSBsaXN0ZW48L2I-LCBzdW1tYXJpemUgdGhlIGVwaXNvZGUgd2l0aCBBSSBpbiBtaW51dGVzLCBhbmQgdHVybiB0aGF0IHN1bW1hcnkgaW50byZuYnNwOy4uLkoCdG9KBGZyb21SBHdpdGhSA2dldFIDdXNlIgIQAUgBWABoAA",
+        "source": "Glasp"
+      },
+      {
+        "position": 3,
+        "title": "22/01/26 Live Podcast Recording: AI for Membership Teams",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXw0WxS6GcdBLRSyNh1rmQRlc1rJdqh18ANcTWq00Dhig4wSyBZk7EvZaBRv6D2_2wyZSpxgmlKmr5HOpo4cn1mw4MtgFZ4O_F_nqaRN6OKIOFYc9vKVaiF8imIhG3HLq8dgn5&gsessionid=drxwHkfNdDd7Z-1XQLaKqbq1oML134H8WDl_p1sdfnpQn7W04KrReA",
+        "displayed_link": "40+ views",
+        "date": "9 months ago",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9zkDPMqc6CceX9PwPjTnzx8TrD5jUJARpSyNCM38W5SECmPfTyVuAiA&s",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "Share your videos with friends, family, and the world.",
+        "duration": "57:57",
+        "about_this_result": {
+          "source": {
+            "description": "Share your videos with friends, family, and the world.",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWHcwV3hTNkdjZEJMUlN5Tmgxcm1RUmxjMXJKZHFoMThBTmNUV3EwMERoaWc0d1N5QlprN0V2WmFCUnY2RDJfMnd5WlNweGdtbEttcjVIT3BvNGNuMW13NE10Z0ZaNE9fRl9ucWFSTjZPS0lPRlljOXZLVmFpRjhpbUloRzNITHE4ZGduNRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAVgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWHcwV3hTNkdjZEJMUlN5Tmgxcm1RUmxjMXJKZHFoMThBTmNUV3EwMERoaWc0d1N5QlprN0V2WmFCUnY2RDJfMnd5WlNweGdtbEttcjVIT3BvNGNuMW13NE10Z0ZaNE9fRl9ucWFSTjZPS0lPRlljOXZLVmFpRjhpbUloRzNITHE4ZGduNRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAVgAaAA",
+        "source": "YouTube \u00b7 PropFuel"
+      },
+      {
+        "position": 4,
+        "title": "Best AI Tools for Podcasters in 2026 (Audio & Video Tested)",
+        "link": "https://www.google.com/goto?url=CAESbQHEIkXXZhghXGnohUMzN0tHKX5M-UyjmpquAc4S8ya3ANFXK8j4-MNkDojFnzLx_TfZ-TbVkF3Of5Y19XBSjPd8fmlwP84dPGPPAo4-uXy0mrdVHvLjLihUwB_0GSW5NFF-NG8S0u6Q0UwEPss",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHEIkXXYQINXCpPd5w9X5TqeOZOUChjcbbvyx9CoiaBEVcEq9j5stskacaH6jtPunbZaJEQ8J3NI-vsBV116apnDOvPeJkyDj8D9Gz9baYgAG6l_xWLjQwl-qqHOPBhS7KoZGmfs-ycszp0A2I&ved=2ahUKEwjlkaa525uYAxUsK1kFHVWGM-gQFnoECCgQAQ&uoh=1",
+        "displayed_link": "https://browsing.ai \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAeklEQVR4AWOAgVEgH_7iP5XwfYXwl_MVIp4r0NsBmA4JuC8wkA74Lxf2sn5AHSAf9vw9nR2AiQfcAUMqG-6nJVYIe9EPzJoO9I4CzJwR8byBzg7AxAphzwro6gBM_PL8ADsAkTtGHTDqgFEHjDpg1AGjDhh1wKgDRgEAwE6Q_L1f-G4AAAAASUVORK5CYII.png",
+        "date": "12 Sept 2026",
+        "snippet": "The best AI editing tool for podcasters is Descript, because it lets creators edit audio and video by editing text transcripts. It eliminates ...",
+        "snippet_highlighted_words": [
+          "Descript"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The best AI editing tool for podcasters is Descript, because it lets creators edit audio and video by editing text transcripts. It eliminates ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESbQHEIkXXZhghXGnohUMzN0tHKX5M-UyjmpquAc4S8ya3ANFXK8j4-MNkDojFnzLx_TfZ-TbVkF3Of5Y19XBSjPd8fmlwP84dPGPPAo4-uXy0mrdVHvLjLihUwB_0GSW5NFF-NG8S0u6Q0UwEPss",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAeklEQVR4AWOAgVEgH_7iP5XwfYXwl_MVIp4r0NsBmA4JuC8wkA74Lxf2sn5AHSAf9vw9nR2AiQfcAUMqG-6nJVYIe9EPzJoO9I4CzJwR8byBzg7AxAphzwro6gBM_PL8ADsAkTtGHTDqgFEHjDpg1AGjDhh1wKgDRgEAwE6Q_L1f-G4AAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqEBL2dvdG8_dXJsPUNBRVNiUUhFSWtYWFpoZ2hYR25vaFVNek4wdEhLWDVNLVV5am1wcXVBYzRTOHlhM0FORlhLOGo0LU1Oa0RvakZuekx4X1RmWi1UYlZrRjNPZjVZMTlYQlNqUGQ4Zm1sd1A4NGRQR1BQQW80LXVYeTBtcmRWSHZMakxpaFV3Ql8wR1NXNU5GRi1ORzhTMHU2UTBVd0VQc3MSBBoCCAAa0wcSABoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJArwcIABAAGAAgACogCgNob3cVMXXrPhoJZXh0cmFjdG9yGgl1bnBhY2tpbmcqCQoCdG8VAAAAACqgAQoHZXh0cmFjdBUqs4g9GgpleHRyYWN0aW5nGgpleHRyYWN0aW9uGglleHRyYWN0b3IaCGV4dHJhY3RzGgNnZXQaBHB1bGwaBnJlbW92ZRoIcmV0cmlldmUaA3JpcBoEdGFrZRoGdW5wYWNrGgl1bnBhY2tpbmcaDGl2O3A7ZXh0cmFjdBoGZXhwb3J0GglleHRyYWN0ZWQaB2NvbnZlcnQqKgoFYXVkaW8V8EeYQBoGYXVkaW9zGgVtdXNpYxoFc291bmQaBnNvdW5kcyosCgVob29rcxUAAAAAGgVib29rcxoEaG9vaxoKaXY7cDtob29rcxoFdG9vbHMqCwoEZnJvbRUAAAAAKi0KB3BvZGNhc3QV4gQoQBoKcG9kY2FzdGluZxoRcG9kY2FzdGludGVydmlld3MqSgoKaW50ZXJ2aWV3cxVNMaQ_GglpbnRlcnZpZXcaC2ludGVydmlld2VkGgxpbnRlcnZpZXdpbmcaEXBvZGNhc3RpbnRlcnZpZXdzKiYKBXVzaW5nFUXPpj4aA3VzZRoEdXNlcxoEd2l0aBoHdXNpbmdhaSoSCgJhaRX_BcBAGgd1c2luZ2FpKgoKA3RoZRUyEURAMqEBL2dvdG8_dXJsPUNBRVNiUUhFSWtYWFpoZ2hYR25vaFVNek4wdEhLWDVNLVV5am1wcXVBYzRTOHlhM0FORlhLOGo0LU1Oa0RvakZuekx4X1RmWi1UYlZrRjNPZjVZMTlYQlNqUGQ4Zm1sd1A4NGRQR1BQQW80LXVYeTBtcmRWSHZMakxpaFV3Ql8wR1NXNU5GRi1ORzhTMHU2UTBVd0VQc3M6TUJlc3QgPGI-QUkgVG9vbHM8L2I-IGZvciBQb2RjYXN0ZXJzIGluIDIwMjYgKDxiPkF1ZGlvPC9iPiAmYW1wOyBWaWRlbyBUZXN0ZWQpQp0BVGhlIGJlc3QgQUkgZWRpdGluZyB0b29sIGZvciBwb2RjYXN0ZXJzIGlzIDxiPkRlc2NyaXB0PC9iPiwgYmVjYXVzZSBpdCBsZXRzIGNyZWF0b3JzIGVkaXQgYXVkaW8gYW5kIHZpZGVvIGJ5IGVkaXRpbmcgdGV4dCB0cmFuc2NyaXB0cy4gSXQgZWxpbWluYXRlcyZuYnNwOy4uLkoCdG9KBGZyb21SBHdpdGhSA2dldFIDdXNlIgIQAUgBWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqEBL2dvdG8_dXJsPUNBRVNiUUhFSWtYWFpoZ2hYR25vaFVNek4wdEhLWDVNLVV5am1wcXVBYzRTOHlhM0FORlhLOGo0LU1Oa0RvakZuekx4X1RmWi1UYlZrRjNPZjVZMTlYQlNqUGQ4Zm1sd1A4NGRQR1BQQW80LXVYeTBtcmRWSHZMakxpaFV3Ql8wR1NXNU5GRi1ORzhTMHU2UTBVd0VQc3MSBBoCCAAa0wcSABoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJArwcIABAAGAAgACogCgNob3cVMXXrPhoJZXh0cmFjdG9yGgl1bnBhY2tpbmcqCQoCdG8VAAAAACqgAQoHZXh0cmFjdBUqs4g9GgpleHRyYWN0aW5nGgpleHRyYWN0aW9uGglleHRyYWN0b3IaCGV4dHJhY3RzGgNnZXQaBHB1bGwaBnJlbW92ZRoIcmV0cmlldmUaA3JpcBoEdGFrZRoGdW5wYWNrGgl1bnBhY2tpbmcaDGl2O3A7ZXh0cmFjdBoGZXhwb3J0GglleHRyYWN0ZWQaB2NvbnZlcnQqKgoFYXVkaW8V8EeYQBoGYXVkaW9zGgVtdXNpYxoFc291bmQaBnNvdW5kcyosCgVob29rcxUAAAAAGgVib29rcxoEaG9vaxoKaXY7cDtob29rcxoFdG9vbHMqCwoEZnJvbRUAAAAAKi0KB3BvZGNhc3QV4gQoQBoKcG9kY2FzdGluZxoRcG9kY2FzdGludGVydmlld3MqSgoKaW50ZXJ2aWV3cxVNMaQ_GglpbnRlcnZpZXcaC2ludGVydmlld2VkGgxpbnRlcnZpZXdpbmcaEXBvZGNhc3RpbnRlcnZpZXdzKiYKBXVzaW5nFUXPpj4aA3VzZRoEdXNlcxoEd2l0aBoHdXNpbmdhaSoSCgJhaRX_BcBAGgd1c2luZ2FpKgoKA3RoZRUyEURAMqEBL2dvdG8_dXJsPUNBRVNiUUhFSWtYWFpoZ2hYR25vaFVNek4wdEhLWDVNLVV5am1wcXVBYzRTOHlhM0FORlhLOGo0LU1Oa0RvakZuekx4X1RmWi1UYlZrRjNPZjVZMTlYQlNqUGQ4Zm1sd1A4NGRQR1BQQW80LXVYeTBtcmRWSHZMakxpaFV3Ql8wR1NXNU5GRi1ORzhTMHU2UTBVd0VQc3M6TUJlc3QgPGI-QUkgVG9vbHM8L2I-IGZvciBQb2RjYXN0ZXJzIGluIDIwMjYgKDxiPkF1ZGlvPC9iPiAmYW1wOyBWaWRlbyBUZXN0ZWQpQp0BVGhlIGJlc3QgQUkgZWRpdGluZyB0b29sIGZvciBwb2RjYXN0ZXJzIGlzIDxiPkRlc2NyaXB0PC9iPiwgYmVjYXVzZSBpdCBsZXRzIGNyZWF0b3JzIGVkaXQgYXVkaW8gYW5kIHZpZGVvIGJ5IGVkaXRpbmcgdGV4dCB0cmFuc2NyaXB0cy4gSXQgZWxpbWluYXRlcyZuYnNwOy4uLkoCdG9KBGZyb21SBHdpdGhSA2dldFIDdXNlIgIQAUgBWABoAA",
+        "source": "browsing.ai",
+        "read_more_link": "https://www.google.com/goto?url=CAESxwEBxCJF17HrILDkTpvdW90Wwd5V6lxP295g_tEvCWehS4HJIeBT65XSgJ1dv3vCDiDwwj1Nibo8d8Dqu3RuOHbXiR_KtMWOjNsYh-P_hKQfmBGasnYjhnFopKKonq8DelrLgx6nls4hwURPUjr8AbCRWl3ozm6Jd_JPm39Q-cFCs9s_ZMFUT7HsVaFBbaIgyCY1uqV1llGZQbDZ3Rp74rvRXTSQekWDfFZkjjLRFYEqmR2wqI7nXzJnpQA11ZW2thYXj3OgH3Se&gsessionid=drxwHkfNdDd7Z-1XQLaKqbq1oML134H8WDl_p1sdfnpQn7W04KrReA"
+      },
+      {
+        "position": 5,
+        "title": "Best AI Tool for Turning Podcasts Into Social Clips",
+        "link": "https://www.google.com/goto?url=CAESoAEBxCJF13aILwTPT0c33xcMfezJtZE7Msdy5VNHiBMvmZ9msO--A6TQjVACqz4_9gjeZeGY7qO9-LlmvRmb6vv-COe4ZI_j_ZxPIa3-s8SMfnVUE-Ckk1cg972elTJYi54c2vU-yOPtVrY8thZwG-2u7SO7LmrO3WWKQ9Q3L8u1fzdJUlE7SgF1GSJAqp4fmS3Sn0ASsZ1rN2Yxg4Qg2yP9",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoAEBxCJF13lVMdvndt3Gr2btZJ2t2MlfunIY98d-bpy8sle80CWNU7-ga5WwNvQ9usy1Fld0M3H2s8Mx2qhvrvghLx_5e8bvdpFJydLp1NDZ5yGvnQxg7NvTYeYBvS-L9IolAo5Gv8IJDBW8TtptMTYqy8RLtBfRIcoz8CJNq5wXawNRZN9eFz5yLCwYHIT5JbZA30cmJDJ-OuvAkVum9L_x&ved=2ahUKEwjlkaa525uYAxUsK1kFHVWGM-gQFnoECCcQAQ&uoh=1",
+        "displayed_link": "https://www.facebook.com \u203a fb-answers \u203a what-s-the-b...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+        "snippet": "OpusClip and Riverside are the most recommended AI tools for turning podcasts into social clips, with OpusClip costing around $20 for 3 hours of recordings.",
+        "snippet_highlighted_words": [
+          "OpusClip and Riverside are the most recommended AI tools"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "OpusClip and Riverside are the most recommended AI tools for turning podcasts into social clips, with OpusClip costing around $20 for 3 hours of recordings.",
+            "source_info_link": "https://www.google.com/goto?url=CAESoAEBxCJF13aILwTPT0c33xcMfezJtZE7Msdy5VNHiBMvmZ9msO--A6TQjVACqz4_9gjeZeGY7qO9-LlmvRmb6vv-COe4ZI_j_ZxPIa3-s8SMfnVUE-Ckk1cg972elTJYi54c2vU-yOPtVrY8thZwG-2u7SO7LmrO3WWKQ9Q3L8u1fzdJUlE7SgF1GSJAqp4fmS3Sn0ASsZ1rN2Yxg4Qg2yP9",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuYBL2dvdG8_dXJsPUNBRVNvQUVCeENKRjEzYUlMd1RQVDBjMzN4Y01mZXpKdFpFN01zZHk1Vk5IaUJNdm1aOW1zTy0tQTZUUWpWQUNxejRfOWdqZVplR1k3cU85LUxsbXZSbWI2dnYtQ09lNFpJX2pfWnhQSWEzLXM4U01mblZVRS1Da2sxY2c5NzJlbFRKWWk1NGMydlUteU9QdFZyWTh0aFp3Ry0ydTdTTzdMbXJPM1dXS1E5UTNMOHUxZnpkSlVsRTdTZ0YxR1NKQXFwNGZtUzNTbjBBU3NaMXJOMll4ZzRRZzJ5UDkSBBoCCAAalggSABoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJA8gcIABAAGAAgACogCgNob3cVl6RRPhoJZXh0cmFjdG9yGgl1bnBhY2tpbmcqCQoCdG8VAAAAACqgAQoHZXh0cmFjdBUeDbs9GgpleHRyYWN0aW5nGgpleHRyYWN0aW9uGglleHRyYWN0b3IaCGV4dHJhY3RzGgNnZXQaBHB1bGwaBnJlbW92ZRoIcmV0cmlldmUaA3JpcBoEdGFrZRoGdW5wYWNrGgl1bnBhY2tpbmcaDGl2O3A7ZXh0cmFjdBoGZXhwb3J0GglleHRyYWN0ZWQaB2NvbnZlcnQqKgoFYXVkaW8VSG4tPxoGYXVkaW9zGgVtdXNpYxoFc291bmQaBnNvdW5kcyosCgVob29rcxUDiuE8GgVib29rcxoEaG9vaxoKaXY7cDtob29rcxoFdG9vbHMqCwoEZnJvbRUAAAAAKi0KB3BvZGNhc3QVMAFQPxoKcG9kY2FzdGluZxoRcG9kY2FzdGludGVydmlld3MqSgoKaW50ZXJ2aWV3cxUZ53U-GglpbnRlcnZpZXcaC2ludGVydmlld2VkGgxpbnRlcnZpZXdpbmcaEXBvZGNhc3RpbnRlcnZpZXdzKiYKBXVzaW5nFfp6XD8aA3VzZRoEdXNlcxoEd2l0aBoHdXNpbmdhaSoSCgJhaRUhxaRAGgd1c2luZ2FpKgoKA3RoZRV6ajhAMuYBL2dvdG8_dXJsPUNBRVNvQUVCeENKRjEzYUlMd1RQVDBjMzN4Y01mZXpKdFpFN01zZHk1Vk5IaUJNdm1aOW1zTy0tQTZUUWpWQUNxejRfOWdqZVplR1k3cU85LUxsbXZSbWI2dnYtQ09lNFpJX2pfWnhQSWEzLXM4U01mblZVRS1Da2sxY2c5NzJlbFRKWWk1NGMydlUteU9QdFZyWTh0aFp3Ry0ydTdTTzdMbXJPM1dXS1E5UTNMOHUxZnpkSlVsRTdTZ0YxR1NKQXFwNGZtUzNTbjBBU3NaMXJOMll4ZzRRZzJ5UDk6RUJlc3QgPGI-QUk8L2I-IFRvb2wgZm9yIFR1cm5pbmcgUG9kY2FzdHMgSW50byBTb2NpYWwgQ2xpcHMgLSBGYWNlYm9va0KjATxiPk9wdXNDbGlwIGFuZCBSaXZlcnNpZGUgYXJlIHRoZSBtb3N0IHJlY29tbWVuZGVkIEFJIHRvb2xzPC9iPiBmb3IgdHVybmluZyBwb2RjYXN0cyBpbnRvIHNvY2lhbCBjbGlwcywgd2l0aCBPcHVzQ2xpcCBjb3N0aW5nIGFyb3VuZCAkMjAgZm9yIDMgaG91cnMgb2YgcmVjb3JkaW5ncy5KBGZyb21KAnRvUgN1c2VSA2dldFIEd2l0aCICEAFIAVgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuYBL2dvdG8_dXJsPUNBRVNvQUVCeENKRjEzYUlMd1RQVDBjMzN4Y01mZXpKdFpFN01zZHk1Vk5IaUJNdm1aOW1zTy0tQTZUUWpWQUNxejRfOWdqZVplR1k3cU85LUxsbXZSbWI2dnYtQ09lNFpJX2pfWnhQSWEzLXM4U01mblZVRS1Da2sxY2c5NzJlbFRKWWk1NGMydlUteU9QdFZyWTh0aFp3Ry0ydTdTTzdMbXJPM1dXS1E5UTNMOHUxZnpkSlVsRTdTZ0YxR1NKQXFwNGZtUzNTbjBBU3NaMXJOMll4ZzRRZzJ5UDkSBBoCCAAalggSABoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJA8gcIABAAGAAgACogCgNob3cVl6RRPhoJZXh0cmFjdG9yGgl1bnBhY2tpbmcqCQoCdG8VAAAAACqgAQoHZXh0cmFjdBUeDbs9GgpleHRyYWN0aW5nGgpleHRyYWN0aW9uGglleHRyYWN0b3IaCGV4dHJhY3RzGgNnZXQaBHB1bGwaBnJlbW92ZRoIcmV0cmlldmUaA3JpcBoEdGFrZRoGdW5wYWNrGgl1bnBhY2tpbmcaDGl2O3A7ZXh0cmFjdBoGZXhwb3J0GglleHRyYWN0ZWQaB2NvbnZlcnQqKgoFYXVkaW8VSG4tPxoGYXVkaW9zGgVtdXNpYxoFc291bmQaBnNvdW5kcyosCgVob29rcxUDiuE8GgVib29rcxoEaG9vaxoKaXY7cDtob29rcxoFdG9vbHMqCwoEZnJvbRUAAAAAKi0KB3BvZGNhc3QVMAFQPxoKcG9kY2FzdGluZxoRcG9kY2FzdGludGVydmlld3MqSgoKaW50ZXJ2aWV3cxUZ53U-GglpbnRlcnZpZXcaC2ludGVydmlld2VkGgxpbnRlcnZpZXdpbmcaEXBvZGNhc3RpbnRlcnZpZXdzKiYKBXVzaW5nFfp6XD8aA3VzZRoEdXNlcxoEd2l0aBoHdXNpbmdhaSoSCgJhaRUhxaRAGgd1c2luZ2FpKgoKA3RoZRV6ajhAMuYBL2dvdG8_dXJsPUNBRVNvQUVCeENKRjEzYUlMd1RQVDBjMzN4Y01mZXpKdFpFN01zZHk1Vk5IaUJNdm1aOW1zTy0tQTZUUWpWQUNxejRfOWdqZVplR1k3cU85LUxsbXZSbWI2dnYtQ09lNFpJX2pfWnhQSWEzLXM4U01mblZVRS1Da2sxY2c5NzJlbFRKWWk1NGMydlUteU9QdFZyWTh0aFp3Ry0ydTdTTzdMbXJPM1dXS1E5UTNMOHUxZnpkSlVsRTdTZ0YxR1NKQXFwNGZtUzNTbjBBU3NaMXJOMll4ZzRRZzJ5UDk6RUJlc3QgPGI-QUk8L2I-IFRvb2wgZm9yIFR1cm5pbmcgUG9kY2FzdHMgSW50byBTb2NpYWwgQ2xpcHMgLSBGYWNlYm9va0KjATxiPk9wdXNDbGlwIGFuZCBSaXZlcnNpZGUgYXJlIHRoZSBtb3N0IHJlY29tbWVuZGVkIEFJIHRvb2xzPC9iPiBmb3IgdHVybmluZyBwb2RjYXN0cyBpbnRvIHNvY2lhbCBjbGlwcywgd2l0aCBPcHVzQ2xpcCBjb3N0aW5nIGFyb3VuZCAkMjAgZm9yIDMgaG91cnMgb2YgcmVjb3JkaW5ncy5KBGZyb21KAnRvUgN1c2VSA2dldFIEd2l0aCICEAFIAVgAaAA",
+        "source": "Facebook",
+        "read_more_link": "https://www.google.com/goto?url=CAES8wEBxCJF17log70NZt7nEPg4glOTAv4r9PyWHm13krIktyPUymaJZ5pKBinklFJn4ZPd3ESaiQLod4boz88JoaJ_jhkhCaTL2DqLcT5ZpmaC3ZNoIb3QXan-FvF65Rd5_hVFkK0xZpvuxe4wtdS9HVRXRxjmIwSVW5aWscj5sQ2s_yybISfXNWr0_v6HNoxrWUFTBNtbXa8-86XltWH9RX42TvBIJ--Wp3dCWVeJZKojs3OY_Pg6ZnA41XRP5R1RfanrRtUx6HZ9xP4zddeo75YUflnR0Z-GHa8WwHlaflr_e8FFhOCGwX7wCt1AfWnGZdOE7Is&gsessionid=drxwHkfNdDd7Z-1XQLaKqbq1oML134H8WDl_p1sdfnpQn7W04KrReA"
+      },
+      {
+        "position": 6,
+        "title": "Here's Our Guide On How To Summarize A Podcast Using AI",
+        "link": "https://www.google.com/goto?url=CAESbQHEIkXXSTBIowfYSliCJwrylgK9_5F4MayhgnEZ9PiJOnTpl0ngyKu26W1XGwn5G2vk5AaGE2cQQ-gD8M2gBhtW4Zp4j-ZCIdg0EjtWYN8qDaesA5zREq6ogxLOfVAhNVihPtb7O5m9AFuql60",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHEIkXXYmp6k92VtZuDEHyrIeT2xSePwW7vyEozq5oEhKFhxj6Gv_x93B_KAQOi3OhbVjTks5G3H_ds763o2p9Dt5ajCFkL_7b1ri_1e8GXRrDv3D3UFyor0UAi2OmI3D8xY8JcoEyCe-VZR50&ved=2ahUKEwjlkaa525uYAxUsK1kFHVWGM-gQFnoECC0QAQ&uoh=1",
+        "displayed_link": "https://cleanvoice.ai \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAWlBMVEX____4-P6Xl_isrPnV1fyNjffZ2fy4uPohIfMUFPPn5_1VVfUqKvNbW_UvL_QoKPM2NvRiYvX6-v_Jyfv29v7Pz_t7e_ccHPNOTvVzc_ZBQfTu7v4xMfSiovkNznXsAAAAaElEQVR4AdVRgxHAQBCMbbP_MsM3h8ENzto1fimmZUPTcT0m6QdhBMw4SdlklsNkWpQ4XtUNTEYtSrZ3bdcPINmEoQ-SdhhWZ3IsJpCc88UGyXXJG1XSfCHZaF-RgaCHTw98xVD2Q9kBjkkMXC_d17QAAAAASUVORK5CYII.png",
+        "snippet": "First, use an AI transcription service to convert your audio to text. Then, use a separate AI text summarization tool on the transcript.",
+        "snippet_highlighted_words": [
+          "use an AI transcription service to convert your audio to text"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "First, use an AI transcription service to convert your audio to text. Then, use a separate AI text summarization tool on the transcript.",
+            "source_info_link": "https://www.google.com/goto?url=CAESbQHEIkXXSTBIowfYSliCJwrylgK9_5F4MayhgnEZ9PiJOnTpl0ngyKu26W1XGwn5G2vk5AaGE2cQQ-gD8M2gBhtW4Zp4j-ZCIdg0EjtWYN8qDaesA5zREq6ogxLOfVAhNVihPtb7O5m9AFuql60",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAWlBMVEX____4-P6Xl_isrPnV1fyNjffZ2fy4uPohIfMUFPPn5_1VVfUqKvNbW_UvL_QoKPM2NvRiYvX6-v_Jyfv29v7Pz_t7e_ccHPNOTvVzc_ZBQfTu7v4xMfSiovkNznXsAAAAaElEQVR4AdVRgxHAQBCMbbP_MsM3h8ENzto1fimmZUPTcT0m6QdhBMw4SdlklsNkWpQ4XtUNTEYtSrZ3bdcPINmEoQ-SdhhWZ3IsJpCc88UGyXXJG1XSfCHZaF-RgaCHTw98xVD2Q9kBjkkMXC_d17QAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqEBL2dvdG8_dXJsPUNBRVNiUUhFSWtYWFNUQklvd2ZZU2xpQ0p3cnlsZ0s5XzVGNE1heWhnbkVaOVBpSk9uVHBsMG5neUt1MjZXMVhHd241RzJ2azVBYUdFMmNRUS1nRDhNMmdCaHRXNFpwNGotWkNJZGcwRWp0V1lOOHFEYWVzQTV6UkVxNm9neExPZlZBaE5WaWhQdGI3TzVtOUFGdXFsNjASBBoCCAAarwcSABoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJAiwcIABAAGAAgACogCgNob3cVoIh5QBoJZXh0cmFjdG9yGgl1bnBhY2tpbmcqCQoCdG8VAAAAACqgAQoHZXh0cmFjdBXhfx4_GgpleHRyYWN0aW5nGgpleHRyYWN0aW9uGglleHRyYWN0b3IaCGV4dHJhY3RzGgNnZXQaBHB1bGwaBnJlbW92ZRoIcmV0cmlldmUaA3JpcBoEdGFrZRoGdW5wYWNrGgl1bnBhY2tpbmcaDGl2O3A7ZXh0cmFjdBoGZXhwb3J0GglleHRyYWN0ZWQaB2NvbnZlcnQqKgoFYXVkaW8Va8EdQBoGYXVkaW9zGgVtdXNpYxoFc291bmQaBnNvdW5kcyosCgVob29rcxUAAAAAGgVib29rcxoEaG9vaxoKaXY7cDtob29rcxoFdG9vbHMqCwoEZnJvbRUAAAAAKi0KB3BvZGNhc3QVcd3HQBoKcG9kY2FzdGluZxoRcG9kY2FzdGludGVydmlld3MqSgoKaW50ZXJ2aWV3cxX3k189GglpbnRlcnZpZXcaC2ludGVydmlld2VkGgxpbnRlcnZpZXdpbmcaEXBvZGNhc3RpbnRlcnZpZXdzKiYKBXVzaW5nFRsQP0AaA3VzZRoEdXNlcxoEd2l0aBoHdXNpbmdhaSoSCgJhaRWhcsZAGgd1c2luZ2FpKgoKA3RoZRX2QzpAMqEBL2dvdG8_dXJsPUNBRVNiUUhFSWtYWFNUQklvd2ZZU2xpQ0p3cnlsZ0s5XzVGNE1heWhnbkVaOVBpSk9uVHBsMG5neUt1MjZXMVhHd241RzJ2azVBYUdFMmNRUS1nRDhNMmdCaHRXNFpwNGotWkNJZGcwRWp0V1lOOHFEYWVzQTV6UkVxNm9neExPZlZBaE5WaWhQdGI3TzVtOUFGdXFsNjA6N0hvdyB0byBTdW1tYXJpemUgPGI-UG9kY2FzdCBXaXRoIEFJPC9iPiAtIENsZWFudm9pY2UgQUlCjwFGaXJzdCwgPGI-dXNlIGFuIEFJIHRyYW5zY3JpcHRpb24gc2VydmljZSB0byBjb252ZXJ0IHlvdXIgYXVkaW8gdG8gdGV4dDwvYj4uIFRoZW4sIHVzZSBhIHNlcGFyYXRlIEFJIHRleHQgc3VtbWFyaXphdGlvbiB0b29sIG9uIHRoZSB0cmFuc2NyaXB0LkoCdG9KBGZyb21SA3VzZVIDZ2V0UgR3aXRoIgIQAUgBWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqEBL2dvdG8_dXJsPUNBRVNiUUhFSWtYWFNUQklvd2ZZU2xpQ0p3cnlsZ0s5XzVGNE1heWhnbkVaOVBpSk9uVHBsMG5neUt1MjZXMVhHd241RzJ2azVBYUdFMmNRUS1nRDhNMmdCaHRXNFpwNGotWkNJZGcwRWp0V1lOOHFEYWVzQTV6UkVxNm9neExPZlZBaE5WaWhQdGI3TzVtOUFGdXFsNjASBBoCCAAarwcSABoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJAiwcIABAAGAAgACogCgNob3cVoIh5QBoJZXh0cmFjdG9yGgl1bnBhY2tpbmcqCQoCdG8VAAAAACqgAQoHZXh0cmFjdBXhfx4_GgpleHRyYWN0aW5nGgpleHRyYWN0aW9uGglleHRyYWN0b3IaCGV4dHJhY3RzGgNnZXQaBHB1bGwaBnJlbW92ZRoIcmV0cmlldmUaA3JpcBoEdGFrZRoGdW5wYWNrGgl1bnBhY2tpbmcaDGl2O3A7ZXh0cmFjdBoGZXhwb3J0GglleHRyYWN0ZWQaB2NvbnZlcnQqKgoFYXVkaW8Va8EdQBoGYXVkaW9zGgVtdXNpYxoFc291bmQaBnNvdW5kcyosCgVob29rcxUAAAAAGgVib29rcxoEaG9vaxoKaXY7cDtob29rcxoFdG9vbHMqCwoEZnJvbRUAAAAAKi0KB3BvZGNhc3QVcd3HQBoKcG9kY2FzdGluZxoRcG9kY2FzdGludGVydmlld3MqSgoKaW50ZXJ2aWV3cxX3k189GglpbnRlcnZpZXcaC2ludGVydmlld2VkGgxpbnRlcnZpZXdpbmcaEXBvZGNhc3RpbnRlcnZpZXdzKiYKBXVzaW5nFRsQP0AaA3VzZRoEdXNlcxoEd2l0aBoHdXNpbmdhaSoSCgJhaRWhcsZAGgd1c2luZ2FpKgoKA3RoZRX2QzpAMqEBL2dvdG8_dXJsPUNBRVNiUUhFSWtYWFNUQklvd2ZZU2xpQ0p3cnlsZ0s5XzVGNE1heWhnbkVaOVBpSk9uVHBsMG5neUt1MjZXMVhHd241RzJ2azVBYUdFMmNRUS1nRDhNMmdCaHRXNFpwNGotWkNJZGcwRWp0V1lOOHFEYWVzQTV6UkVxNm9neExPZlZBaE5WaWhQdGI3TzVtOUFGdXFsNjA6N0hvdyB0byBTdW1tYXJpemUgPGI-UG9kY2FzdCBXaXRoIEFJPC9iPiAtIENsZWFudm9pY2UgQUlCjwFGaXJzdCwgPGI-dXNlIGFuIEFJIHRyYW5zY3JpcHRpb24gc2VydmljZSB0byBjb252ZXJ0IHlvdXIgYXVkaW8gdG8gdGV4dDwvYj4uIFRoZW4sIHVzZSBhIHNlcGFyYXRlIEFJIHRleHQgc3VtbWFyaXphdGlvbiB0b29sIG9uIHRoZSB0cmFuc2NyaXB0LkoCdG9KBGZyb21SA3VzZVIDZ2V0UgR3aXRoIgIQAUgBWABoAA",
+        "source": "Cleanvoice AI"
+      },
+      {
+        "position": 7,
+        "title": "How to Make Podcast Clips with AI: Tools & Limits",
+        "link": "https://www.google.com/goto?url=CAESbgHEIkXXJaf7jzOtzLwwnHda_UlVvrXyHsakA6a9KNmYpv5Dnp1mhzZq85IyCAshp9eHffzFi_irZr-TZHUwB8uWw80rN6hjQKtCy1bkL2yz3P0bP9EWzVvW8qOSX1OdoChsUKUSoMU2QTu3Fyr3",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHEIkXX1qdKSzc-DIP8Ff04uouRyESmEOBesZF-i5FqlrMP1PAYeqyARnJAIkZs8eoGbE3DseA0W4pe4z9OEaOUzmK5mcGyFCQaFH929NhfN5h57oBdtR7Vr_HOYGNSbIb4NFKTdhRSWXvuTxk3&ved=2ahUKEwjlkaa525uYAxUsK1kFHVWGM-gQFnoECCkQAQ&uoh=1",
+        "displayed_link": "https://clipfluence.com \u203a insights-ai-podcast-clips",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAABL1BMVEUMDAoKCwcAAAAAAwAACABrZX2ZjbqrmdmrlOCpj-WkhOWifumheeygdO-jcvijbf0nHDo9PT-sqLywqsqsocypm9CkcvxHMWwzNDG2ubewr7mro8dGMmiosZuzua2vsbOomNKnktiliOOmfPRHNmZPLIGKROhcLJpRVkS8x6Wzu6awq8deO5OVWPGdV_-ZUP9_P9WJlG23xZW0vaJTPHyZWfibqXW5yI-1wZuuj_JDNl2UbNx_RtKfsGy5yY6ioqlmZG9oX39nWYaTcNaCT9C7zYiWmZa90IKZnpKVeNCitWHB13yao4eXgcmEV86mulfD2m--03vF3W9qcF5sb2qHZMjH4GNHRFKbjMSVqUTL5WNXUGuLbcYAAAVYYyfS7lpMTE9nVI8-RRuAkTm1zFfOdviDAAABTklEQVR4AWKgHDDCAKYMoDZ6WmwoiKIwnK7aim3bZWzbzvs_Q2efE9_3v_3Gg23nuDgx4PLq-ub27v7h8en55Vjx-vYuFG1ULDlCSGXyN8VWn5TntM8FLnhUqTWkWt2N_u7eYDwXnJ3DZLaQwmqzM3Vs1XgOOF1uj_ec0OcP8CrS6m7190YExc-ukNsLwnAkSvrGlG378YmvJ9JvDn9-_dGAWhaLX14mEskkkGIXeg6lecxwmgXfGVIPpBvMZSJM89herXBPymOxRGorbxEV7jGqHNbqDdIy-BjqmT5tsFkijbZa7XY8fglUbukxOjx266UGdyi7TPP23kP_hl33gcfBsLlVNXvlHkbXpGPCyXTWZZrb6hxAQnd7x5CF4ZApbcvpHPT3ycKCw8lytle7miEL2NwMS5pb4jRgZ3jUZLJa076kNum54CQcJPjv_gDgBkKIMLgtPQAAAABJRU5ErkJggg.png",
+        "snippet": "AI clipping tools scan a recording for engagement signals, a raised voice, a laugh, a keyword spike, and cut short-form clips automatically from those sections.",
+        "snippet_highlighted_words": [
+          "AI clipping tools"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "AI clipping tools scan a recording for engagement signals, a raised voice, a laugh, a keyword spike, and cut short-form clips automatically from those sections.",
+            "source_info_link": "https://www.google.com/goto?url=CAESbgHEIkXXJaf7jzOtzLwwnHda_UlVvrXyHsakA6a9KNmYpv5Dnp1mhzZq85IyCAshp9eHffzFi_irZr-TZHUwB8uWw80rN6hjQKtCy1bkL2yz3P0bP9EWzVvW8qOSX1OdoChsUKUSoMU2QTu3Fyr3",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAABL1BMVEUMDAoKCwcAAAAAAwAACABrZX2ZjbqrmdmrlOCpj-WkhOWifumheeygdO-jcvijbf0nHDo9PT-sqLywqsqsocypm9CkcvxHMWwzNDG2ubewr7mro8dGMmiosZuzua2vsbOomNKnktiliOOmfPRHNmZPLIGKROhcLJpRVkS8x6Wzu6awq8deO5OVWPGdV_-ZUP9_P9WJlG23xZW0vaJTPHyZWfibqXW5yI-1wZuuj_JDNl2UbNx_RtKfsGy5yY6ioqlmZG9oX39nWYaTcNaCT9C7zYiWmZa90IKZnpKVeNCitWHB13yao4eXgcmEV86mulfD2m--03vF3W9qcF5sb2qHZMjH4GNHRFKbjMSVqUTL5WNXUGuLbcYAAAVYYyfS7lpMTE9nVI8-RRuAkTm1zFfOdviDAAABTklEQVR4AWKgHDDCAKYMoDZ6WmwoiKIwnK7aim3bZWzbzvs_Q2efE9_3v_3Gg23nuDgx4PLq-ub27v7h8en55Vjx-vYuFG1ULDlCSGXyN8VWn5TntM8FLnhUqTWkWt2N_u7eYDwXnJ3DZLaQwmqzM3Vs1XgOOF1uj_ec0OcP8CrS6m7190YExc-ukNsLwnAkSvrGlG378YmvJ9JvDn9-_dGAWhaLX14mEskkkGIXeg6lecxwmgXfGVIPpBvMZSJM89herXBPymOxRGorbxEV7jGqHNbqDdIy-BjqmT5tsFkijbZa7XY8fglUbukxOjx266UGdyi7TPP23kP_hl33gcfBsLlVNXvlHkbXpGPCyXTWZZrb6hxAQnd7x5CF4ZApbcvpHPT3ycKCw8lytle7miEL2NwMS5pb4jRgZ3jUZLJa076kNum54CQcJPjv_gDgBkKIMLgtPQAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hFSWtYWEphZjdqek90ekx3d25IZGFfVWxWdnJYeUhzYWtBNmE5S05tWXB2NURucDFtaHpacTg1SXlDQXNocDllSGZmekZpX2lyWnItVFpIVXdCOHVXdzgwck42aGpRS3RDeTFia0wyeXozUDBiUDlFV3pWdlc4cU9TWDFPZG9DaHNVS1VTb01VMlFUdTNGeXIzEgQaAggAGukHEgAaACIAKgAyBggDEgJ1azoAQgQIARAASgBaAHIAegCCQMUHCAAQABgAIAAqIAoDaG93FaR6Y0AaCWV4dHJhY3RvchoJdW5wYWNraW5nKgkKAnRvFQAAAAAqoAEKB2V4dHJhY3QVAAAAABoKZXh0cmFjdGluZxoKZXh0cmFjdGlvbhoJZXh0cmFjdG9yGghleHRyYWN0cxoDZ2V0GgRwdWxsGgZyZW1vdmUaCHJldHJpZXZlGgNyaXAaBHRha2UaBnVucGFjaxoJdW5wYWNraW5nGgxpdjtwO2V4dHJhY3QaBmV4cG9ydBoJZXh0cmFjdGVkGgdjb252ZXJ0KioKBWF1ZGlvFUd6uT0aBmF1ZGlvcxoFbXVzaWMaBXNvdW5kGgZzb3VuZHMqLAoFaG9va3MVwkwDPxoFYm9va3MaBGhvb2saCml2O3A7aG9va3MaBXRvb2xzKgsKBGZyb20VAAAAACotCgdwb2RjYXN0FepxtEAaCnBvZGNhc3RpbmcaEXBvZGNhc3RpbnRlcnZpZXdzKkoKCmludGVydmlld3MVAAAAABoJaW50ZXJ2aWV3GgtpbnRlcnZpZXdlZBoMaW50ZXJ2aWV3aW5nGhFwb2RjYXN0aW50ZXJ2aWV3cyomCgV1c2luZxXuWho_GgN1c2UaBHVzZXMaBHdpdGgaB3VzaW5nYWkqEgoCYWkVmpqtQBoHdXNpbmdhaSoKCgN0aGUVWFAEQDKiAS9nb3RvP3VybD1DQUVTYmdIRUlrWFhKYWY3anpPdHpMd3duSGRhX1VsVnZyWHlIc2FrQTZhOUtObVlwdjVEbnAxbWh6WnE4NUl5Q0FzaHA5ZUhmZnpGaV9pclpyLVRaSFV3Qjh1V3c4MHJONmhqUUt0Q3kxYmtMMnl6M1AwYlA5RVd6VnZXOHFPU1gxT2RvQ2hzVUtVU29NVTJRVHUzRnlyMzpYSG93IHRvIE1ha2UgPGI-UG9kY2FzdDwvYj4gQ2xpcHMgPGI-d2l0aCBBSTwvYj46IDxiPlRvb2xzPC9iPiAmYW1wOyBMaW1pdHMgfCBDbGlwZmx1ZW5jZUKnATxiPkFJIGNsaXBwaW5nIHRvb2xzPC9iPiBzY2FuIGEgcmVjb3JkaW5nIGZvciBlbmdhZ2VtZW50IHNpZ25hbHMsIGEgcmFpc2VkIHZvaWNlLCBhIGxhdWdoLCBhIGtleXdvcmQgc3Bpa2UsIGFuZCBjdXQgc2hvcnQtZm9ybSBjbGlwcyBhdXRvbWF0aWNhbGx5IGZyb20gdGhvc2Ugc2VjdGlvbnMuSgJ0b0oEZnJvbVIDdXNlUgNnZXRSBHdpdGgiAhABSAFYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hFSWtYWEphZjdqek90ekx3d25IZGFfVWxWdnJYeUhzYWtBNmE5S05tWXB2NURucDFtaHpacTg1SXlDQXNocDllSGZmekZpX2lyWnItVFpIVXdCOHVXdzgwck42aGpRS3RDeTFia0wyeXozUDBiUDlFV3pWdlc4cU9TWDFPZG9DaHNVS1VTb01VMlFUdTNGeXIzEgQaAggAGukHEgAaACIAKgAyBggDEgJ1azoAQgQIARAASgBaAHIAegCCQMUHCAAQABgAIAAqIAoDaG93FaR6Y0AaCWV4dHJhY3RvchoJdW5wYWNraW5nKgkKAnRvFQAAAAAqoAEKB2V4dHJhY3QVAAAAABoKZXh0cmFjdGluZxoKZXh0cmFjdGlvbhoJZXh0cmFjdG9yGghleHRyYWN0cxoDZ2V0GgRwdWxsGgZyZW1vdmUaCHJldHJpZXZlGgNyaXAaBHRha2UaBnVucGFjaxoJdW5wYWNraW5nGgxpdjtwO2V4dHJhY3QaBmV4cG9ydBoJZXh0cmFjdGVkGgdjb252ZXJ0KioKBWF1ZGlvFUd6uT0aBmF1ZGlvcxoFbXVzaWMaBXNvdW5kGgZzb3VuZHMqLAoFaG9va3MVwkwDPxoFYm9va3MaBGhvb2saCml2O3A7aG9va3MaBXRvb2xzKgsKBGZyb20VAAAAACotCgdwb2RjYXN0FepxtEAaCnBvZGNhc3RpbmcaEXBvZGNhc3RpbnRlcnZpZXdzKkoKCmludGVydmlld3MVAAAAABoJaW50ZXJ2aWV3GgtpbnRlcnZpZXdlZBoMaW50ZXJ2aWV3aW5nGhFwb2RjYXN0aW50ZXJ2aWV3cyomCgV1c2luZxXuWho_GgN1c2UaBHVzZXMaBHdpdGgaB3VzaW5nYWkqEgoCYWkVmpqtQBoHdXNpbmdhaSoKCgN0aGUVWFAEQDKiAS9nb3RvP3VybD1DQUVTYmdIRUlrWFhKYWY3anpPdHpMd3duSGRhX1VsVnZyWHlIc2FrQTZhOUtObVlwdjVEbnAxbWh6WnE4NUl5Q0FzaHA5ZUhmZnpGaV9pclpyLVRaSFV3Qjh1V3c4MHJONmhqUUt0Q3kxYmtMMnl6M1AwYlA5RVd6VnZXOHFPU1gxT2RvQ2hzVUtVU29NVTJRVHUzRnlyMzpYSG93IHRvIE1ha2UgPGI-UG9kY2FzdDwvYj4gQ2xpcHMgPGI-d2l0aCBBSTwvYj46IDxiPlRvb2xzPC9iPiAmYW1wOyBMaW1pdHMgfCBDbGlwZmx1ZW5jZUKnATxiPkFJIGNsaXBwaW5nIHRvb2xzPC9iPiBzY2FuIGEgcmVjb3JkaW5nIGZvciBlbmdhZ2VtZW50IHNpZ25hbHMsIGEgcmFpc2VkIHZvaWNlLCBhIGxhdWdoLCBhIGtleXdvcmQgc3Bpa2UsIGFuZCBjdXQgc2hvcnQtZm9ybSBjbGlwcyBhdXRvbWF0aWNhbGx5IGZyb20gdGhvc2Ugc2VjdGlvbnMuSgJ0b0oEZnJvbVIDdXNlUgNnZXRSBHdpdGgiAhABSAFYAGgA",
+        "source": "Clipfluence"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "I built an AI that finds the best moments in podcasts \u2014 and I'm not sure if it ...",
+        "link": "https://www.google.com/goto?url=CAESoAEBxCJF16xVpVtlwsCovXC_aP7Qw9HAi_kBhxyWNo9ZPtTt6KKK7OGH-WNkZ8p6zXK8CvxAWd12RT8WvbvUdQQPMGyMJBv5jnJu9jkdpa6-5kZMIcZBlJQUoqvoZWYvFXflAJiTctJpDM-eYhV1BbZzbvM8MyeqAFg2RlSwVsSfdHYBqMsCMGVu1bl86amhY2i_ia8PhbsojQ2KsFqd73m6&gsessionid=drxwHkfNdDd7Z-1XQLaKqbq1oML134H8WDl_p1sdfnpQn7W04KrReA",
+        "date": "3 months ago",
+        "extensions": [
+          "r/SideProject"
+        ],
+        "source": "Reddit",
+        "answers": [
+          {
+            "link": "https://www.google.com/goto?url=CAESoAEBxCJF16xVpVtlwsCovXC_aP7Qw9HAi_kBhxyWNo9ZPtTt6KKK7OGH-WNkZ8p6zXK8CvxAWd12RT8WvbvUdQQPMGyMJBv5jnJu9jkdpa6-5kZMIcZBlJQUoqvoZWYvFXflAJiTctJpDM-eYhV1BbZzbvM8MyeqAFg2RlSwVsSfdHYBqMsCMGVu1bl86amhY2i_ia8PhbsojQ2KsFqd73m6&gsessionid=drxwHkfNdDd7Z-1XQLaKqbq1oML134H8WDl_p1sdfnpQn7W04KrReA"
+          }
+        ]
+      },
+      {
+        "title": "What tools can be used to create audio extracts from podcasts for social ...",
+        "link": "https://www.google.com/goto?url=CAESiAEBxCJF1xWSFjBSMUNN0qTuVnCVZffPpjzCWDoeg6lc_eJJGsuop__xVfLC3hXyQbcDy362uDJo2B6Fbo7uh47kCZVGyORe4LqBuxHlUBsCejHqHhitKfxut7sUZI8HceO6seQmCYTLcG4UkBJcfUmdYdgCEnL62jccPGAtcOy69TDflS_bJ5lx&gsessionid=drxwHkfNdDd7Z-1XQLaKqbq1oML134H8WDl_p1sdfnpQn7W04KrReA",
+        "date": "2 years ago",
+        "extensions": [
+          "Buzzsprout Podcast Community",
+          "9 comments"
+        ],
+        "source": "Facebook",
+        "answers": [
+          {
+            "link": "https://www.google.com/goto?url=CAESiAEBxCJF1xWSFjBSMUNN0qTuVnCVZffPpjzCWDoeg6lc_eJJGsuop__xVfLC3hXyQbcDy362uDJo2B6Fbo7uh47kCZVGyORe4LqBuxHlUBsCejHqHhitKfxut7sUZI8HceO6seQmCYTLcG4UkBJcfUmdYdgCEnL62jccPGAtcOy69TDflS_bJ5lx&gsessionid=drxwHkfNdDd7Z-1XQLaKqbq1oML134H8WDl_p1sdfnpQn7W04KrReA",
+            "extensions": [
+              "Top answer",
+              "2 votes",
+              "2 years ago"
+            ]
+          },
+          {
+            "link": "https://www.google.com/goto?url=CAESiAEBxCJF1xWSFjBSMUNN0qTuVnCVZffPpjzCWDoeg6lc_eJJGsuop__xVfLC3hXyQbcDy362uDJo2B6Fbo7uh47kCZVGyORe4LqBuxHlUBsCejHqHhitKfxut7sUZI8HceO6seQmCYTLcG4UkBJcfUmdYdgCEnL62jccPGAtcOy69TDflS_bJ5lx&gsessionid=drxwHkfNdDd7Z-1XQLaKqbq1oML134H8WDl_p1sdfnpQn7W04KrReA",
+            "extensions": [
+              "2 votes",
+              "2 years ago"
+            ]
+          },
+          {
+            "link": "https://www.google.com/goto?url=CAESiAEBxCJF1xWSFjBSMUNN0qTuVnCVZffPpjzCWDoeg6lc_eJJGsuop__xVfLC3hXyQbcDy362uDJo2B6Fbo7uh47kCZVGyORe4LqBuxHlUBsCejHqHhitKfxut7sUZI8HceO6seQmCYTLcG4UkBJcfUmdYdgCEnL62jccPGAtcOy69TDflS_bJ5lx&gsessionid=drxwHkfNdDd7Z-1XQLaKqbq1oML134H8WDl_p1sdfnpQn7W04KrReA",
+            "extensions": [
+              "2 votes",
+              "2 years ago"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "How can podcasters simplify clip extraction with AI tools?",
+        "link": "https://www.google.com/goto?url=CAEShQEBxCJF1zpcbBxPEYgmUK3ifU7nSozDAypg03Y1gtCoeKl3pNwWk4zs3TlO6GalxTqI6CngZM8pPLcos-femFfo3qGmgWDvg5e2gE36c0HQGyI1SKd3rmTB6itlNCP_RyXuMuD7Q1BIl4AEm6NqPvN_OwNG8aoLl-cmr1pmzmtBP5AKIxwn&gsessionid=drxwHkfNdDd7Z-1XQLaKqbq1oML134H8WDl_p1sdfnpQn7W04KrReA",
+        "date": "2 years ago",
+        "extensions": [
+          "Podcast Community",
+          "10+ comments"
+        ],
+        "source": "Facebook",
+        "answers": [
+          {
+            "link": "https://www.google.com/goto?url=CAEShQEBxCJF1zpcbBxPEYgmUK3ifU7nSozDAypg03Y1gtCoeKl3pNwWk4zs3TlO6GalxTqI6CngZM8pPLcos-femFfo3qGmgWDvg5e2gE36c0HQGyI1SKd3rmTB6itlNCP_RyXuMuD7Q1BIl4AEm6NqPvN_OwNG8aoLl-cmr1pmzmtBP5AKIxwn&gsessionid=drxwHkfNdDd7Z-1XQLaKqbq1oML134H8WDl_p1sdfnpQn7W04KrReA"
+          }
+        ]
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=How+to+extract+audio+hooks+from+podcast+interviews+using+AI&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDhAHo_IfXwVH2z6_FoyBt-qAcgcfA:1795355237262&ei=ZfICa6XLD6zW5NoP1YzOwQ4&start=10&sa=N&sstk=AYl2yk-k0gMnjhEsz_Fc_Cfbx28LXgDgdnkDaWh8h1cij_oo5CWr9l4G99BGuyJGvfwpb5EBSGyxCpZCnQ5y4mLLAvJl2_9WHuSyeg&ved=2ahUKEwjlkaa525uYAxUsK1kFHVWGM-gQ8NMDegQIQhAO",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=How+to+extract+audio+hooks+from+podcast+interviews+using+AI&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDhAHo_IfXwVH2z6_FoyBt-qAcgcfA:1795355237262&ei=ZfICa6XLD6zW5NoP1YzOwQ4&start=10&sa=N&sstk=AYl2yk-k0gMnjhEsz_Fc_Cfbx28LXgDgdnkDaWh8h1cij_oo5CWr9l4G99BGuyJGvfwpb5EBSGyxCpZCnQ5y4mLLAvJl2_9WHuSyeg&ved=2ahUKEwjlkaa525uYAxUsK1kFHVWGM-gQ8tMDegQIQhAE",
+        "3": "https://www.google.com/search?q=How+to+extract+audio+hooks+from+podcast+interviews+using+AI&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDhAHo_IfXwVH2z6_FoyBt-qAcgcfA:1795355237262&ei=ZfICa6XLD6zW5NoP1YzOwQ4&start=20&sa=N&sstk=AYl2yk-k0gMnjhEsz_Fc_Cfbx28LXgDgdnkDaWh8h1cij_oo5CWr9l4G99BGuyJGvfwpb5EBSGyxCpZCnQ5y4mLLAvJl2_9WHuSyeg&ved=2ahUKEwjlkaa525uYAxUsK1kFHVWGM-gQ8tMDegQIQhAG",
+        "4": "https://www.google.com/search?q=How+to+extract+audio+hooks+from+podcast+interviews+using+AI&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDhAHo_IfXwVH2z6_FoyBt-qAcgcfA:1795355237262&ei=ZfICa6XLD6zW5NoP1YzOwQ4&start=30&sa=N&sstk=AYl2yk-k0gMnjhEsz_Fc_Cfbx28LXgDgdnkDaWh8h1cij_oo5CWr9l4G99BGuyJGvfwpb5EBSGyxCpZCnQ5y4mLLAvJl2_9WHuSyeg&ved=2ahUKEwjlkaa525uYAxUsK1kFHVWGM-gQ8tMDegQIQhAI",
+        "5": "https://www.google.com/search?q=How+to+extract+audio+hooks+from+podcast+interviews+using+AI&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDhAHo_IfXwVH2z6_FoyBt-qAcgcfA:1795355237262&ei=ZfICa6XLD6zW5NoP1YzOwQ4&start=40&sa=N&sstk=AYl2yk-k0gMnjhEsz_Fc_Cfbx28LXgDgdnkDaWh8h1cij_oo5CWr9l4G99BGuyJGvfwpb5EBSGyxCpZCnQ5y4mLLAvJl2_9WHuSyeg&ved=2ahUKEwjlkaa525uYAxUsK1kFHVWGM-gQ8tMDegQIQhAK",
+        "6": "https://www.google.com/search?q=How+to+extract+audio+hooks+from+podcast+interviews+using+AI&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDhAHo_IfXwVH2z6_FoyBt-qAcgcfA:1795355237262&ei=ZfICa6XLD6zW5NoP1YzOwQ4&start=50&sa=N&sstk=AYl2yk-k0gMnjhEsz_Fc_Cfbx28LXgDgdnkDaWh8h1cij_oo5CWr9l4G99BGuyJGvfwpb5EBSGyxCpZCnQ5y4mLLAvJl2_9WHuSyeg&ved=2ahUKEwjlkaa525uYAxUsK1kFHVWGM-gQ8tMDegQIQhAM"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+extract+audio+hooks+from+podcast+interviews+using+AI&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+extract+audio+hooks+from+podcast+interviews+using+AI&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+extract+audio+hooks+from+podcast+interviews+using+AI&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+extract+audio+hooks+from+podcast+interviews+using+AI&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+extract+audio+hooks+from+podcast+interviews+using+AI&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+extract+audio+hooks+from+podcast+interviews+using+AI&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+extract+audio+hooks+from+podcast+interviews+using+AI&start=50"
+      }
+    }
+  },
+  "error_details": null
+}

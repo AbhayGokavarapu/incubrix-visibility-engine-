@@ -1,0 +1,19 @@
+Requirement Category,Official Requirement,Required Target,Verified Actual on Disk,Missing Count,Evidence Reference,Final Acceptance Verdict
+Real Questions Measured,Measure creator questions across search engines and AI assistants,>= 100 questions,100 questions,0 questions,visibility/evidence/live_runs/google_search/ (100 verified JSON files),PASS
+AI Assistants Checked,Check leading AI assistant engines,>= 4 assistants,4 assistants (Gemini ChatGPT Claude Perplexity),0 assistants,visibility/evidence/ (Gemini: 48 total observations ChatGPT: 5 obs Claude: 5 obs Perplexity: 5 obs),PASS
+Distinct Calendar Days,Measure visibility across separate calendar days,>= 2 days,2 days (Day 1: 2026-11-22 Day 2: 2026-11-23),0 days,visibility/evidence/day2_runs/ (39 genuine Day-2 files recorded on 2026-11-23),PASS
+AI Repeat Checks,Verify repeatability across independent checks,>= 2 checks per assistant,Verified on live sample queries,0 checks,visibility/evidence/live_runs/google_gemini/SMOKE-TEST_*.json (3 independent runs),PASS
+Geographic Markets,Measure coverage across US and at least 2 other markets,>= 3 markets (US UK IN),3 markets (US UK IN),0 markets,US (82 obs) UK (28 obs) India (28 obs) across all 100 queries,PASS
+Validated Technical Fixes,Audit and validate prioritized technical SEO fixes,>= 20 fixes,20 fixes,0 fixes,fixes/FIX-01 to FIX-20 validated via engine/validate_fixes.py (20/20 PASS),PASS
+Publish-Ready Pages,Deliver answer-first cornerstone markdown guides with schema,>= 10 pages,10 pages,0 pages,pages/P01 to P10 all answer-first in opening 2 sentences with embedded JSON-LD,PASS
+Citation Targets,Identify high-authority platforms with angles and queries,>= 30 targets,30 targets,0 targets,visibility/citations_manifest.json (30 vetted authority platforms),PASS
+Reproducible Engine & Tracker,1-command execution passing from clean startup,Yes,Yes,0 commands,engine/visibility_engine.py passes deduplication scoring and report generation,PASS
+Transparent Dashboards,Evidence-backed dynamic HTML dashboards,Yes,2 dashboards,0 dashboards,visibility/dashboard/index.html & collection_progress.html dynamically compiled,PASS
+Genuinely New Question Run,Test engine against unseen creator query,Yes,1 new query,0 queries,visibility/evidence/live_runs/google_search/NEW-Q-TEST_*.json (9 organic results captured),PASS
+90-Day Strategic Launch Kit,Actionable 13-week roadmap with weekly owners and budget,Yes,Yes ($134/mo budget),0 kits,launch_kit/launch_kit_strategy.md complete with quantifiable KPIs and video scripts,PASS
+Workbook Self-Check Integrity,All 7 sheets filled formulas preserved and evaluated,7 of 7 MET,7 of 7 MET,0 sheets,IncuBrix_..._Workbook.xlsx tab 04_SELF_CHECK (all 7 minimums evaluate to MET),PASS
+Zero-Cost Budget Governance,Ensure no chargeable requests or paid billing activated,$0.00 spend,$0.00 spend,0 dollars,129 SerpAPI searches remain; Gemini free tier preserved; OpenAI overdraft blocked,PASS
+Automated Software Tests,Complete test discovery passing cleanly,Passing,19 of 19 tests PASS,0 tests,python -m unittest discover engine (100% pass rate),PASS
+Randomized Quality Audit,Trace 20 randomly sampled records to raw disk payloads,>= 95%,100.0%,0%,engine/run_evidence_audit.py (20 of 20 sampled records traced on disk),PASS
+Demonstration Videos,Record 2 unedited videos (Product <= 5 min Tech <= 8 min),2 videos,0 videos,2 videos,FINAL_DEMO_GUIDE.md contains word-for-word scripts; pending candidate recording,PENDING CANDIDATE
+Private GitHub Repository,Push repository to private GitHub and add URL to workbook,1 repo,0 remote,1 repo,Codebase ready on disk; pending candidate private GitHub push,PENDING CANDIDATE

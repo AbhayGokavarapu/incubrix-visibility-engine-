@@ -1,0 +1,433 @@
+{
+  "measurement_id": "7a57d2f668fd",
+  "question_id": "Q039",
+  "timestamp_utc": "2026-11-22T13:47:41.502969+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "How to avoid copyright claims when repurposing podcast content",
+  "market": "UK",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://creators.spotify.com/resources/copyright-creator-education",
+    "https://copyrightalliance.org/how-to-avoid-copyright-infringement-on-podcasts/",
+    "https://www.google.com/goto?url=CAESkwEBxCJF1_nKKCBgkHb3WDCwE3u37r7_PJeC5EFfgMPrrMihpdOKU5xA1kIKncmNoJSX4iUqRgYB2bQTmnRS3Jjl5cDBw5zr5RcpdvQ85ro9espMj0ztj0KEGTi7LGDG5JRaZvUDCEyiAeWJQj_y-zeii5LRKkMjnTpiC3dRj5Ta7yT7Kp1cSfksU6JtYqtjpqN1M00",
+    "https://www.google.com/goto?url=CAESiAEBxCJF14SyARX1PXilCAeO-FG2T3MgHWyq_rHhFAdQYH2-8i41gQHPObnefyqNjd9hmXl0v2UCFqxng4wXBcA0VdmV-K91oeIg4020nXIUalptG03u44dVrSaZy0OfLlFLzSES9JbtWjrLtKjW_sN3Tb0bhmYRGzX6BUj9o11d4kyNkfE1HtPv",
+    "https://www.google.com/goto?url=CAESdQHEIkXXHruZvUjnbFl5PJFJ5Jp2WP8Flj-Z1JJOpnhhG5k305pGkhiMAAg9Wo1pt4Cc5dvkB74fmX3nAjAEJC3OhUU4w0ntFrem4Idg_2IW3CGQU16oriKLGI-TH8ja3a7CtWnXcEK3a0BDKsXgjFUgPSm1uw",
+    "https://www.google.com/goto?url=CAESjQEBxCJF16ZZZenHbWdakmj2IU9fJXTeoeqTv4B_B299xcRGTH7pJeZq_U_2beyGrAcKO9XBo3e_9s374KD5jNCmKpXCgWz-R3PYGFl2giXimVgiavtegrSC5UsRnouQkQ4AzNhyuP6HGy9TVjDW42ID2T893SM_kdwLQlFT81_KyUkMvtUvjSGK2EzoHeU",
+    "https://www.google.com/goto?url=CAESeQHEIkXXI7QFdxbk5HopZpqlRg53uA6JTe2oiNSPbB-1YqqsGuKfwOoDkY3uLPBdb1YcIPIrNRWCCkbgrNageG4PzVU1wKfuf_yDjtP03XagO-vLzGPDZ2xcSppfFCi-gMqYy1kUFXK6ocavWAdJU7XetTVlrFnE8XA",
+    "https://www.google.com/goto?url=CAESvwEBxCJF176R2IG2FNOKSoni3jo8PVfYcZYYp0VS4m1ajqXZIvDcon_JNwxl3KtzyZDFlSY2HY5jicvsk8gnxYHQ6IujIQYgZjGAO_rp800OEwWpxSqxtb83Blbf0WiiwDOgxxi91cET0Wj5fvJMBiEruYrD2BxxOw5WqcQ6qPC6D4ICAHWn00Du0BNhvp7s7Xz-BPpk0DW-Dy1ME1ehhYZHBMPSO6oQAg0-Iwaxzhaffv4Rt-DIKSW5EyQ7mM_PLA"
+  ],
+  "raw_text_summary": "Respecting everyone's rights: Podcasts and copyrighted ... The best way to avoid copyright issues is to understand what you can and can't use before you publish. Let's clear up a few common copyright ... How to Avoid Copyright Infringement on a Podcast Wondering how to avoid copyright infringement on your podcast? In this blog, we go over common myths about podcast content and how to avoid ... Protecting copyright of episodes? : r/podcasting I have an historical podcast about San Francisco, wherein I do the research, the writing, the recording, and the editing, including adding background music ... Copyright rules for podcast clips? Hello community! \ud83d\ude0e ***Is anyone aware of the copyright rules with playing a short movie or song clip on your podcast?*** From what I can tell ... Podcasts: using copyrighted material - Library guides Video: use only short extracts of copyrighted material, and make sure it is directly relevant to your topic. Don't circumvent any digital ... Podcast Clips on Social Media: The Hidden Copyright Trap Treat podcast clips as a new copyright clearance item, not a simple content reuse; Add \"music clearance for podcast-derived clips\" to your ... Podcasting Legal Guide - CC Public Wiki If the work contains recognizable third-party content, it may be advisable to independently verify that it has been authorized for reuse under a Creative ... If I use 10 minutes of a podcast adding music to it , stock ... If I use 10 minutes of a podcast adding music to it , stock videos and subtitles will I get a copyright claim?",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f27bc0714ebd075b60c6",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/KNXB_TnsbqIBkJ76_BuFsnY3id_1LGkHHa31JzN_Nh4/6b02f27bc0714ebd075b60c6.json",
+      "markdown_endpoint": "https://serpapi.com/searches/KNXB_TnsbqIBkJ76_BuFsnY3id_1LGkHHa31JzN_Nh4/6b02f27bc0714ebd075b60c6.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/KNXB_TnsbqIBkJ76_BuFsnY3id_1LGkHHa31JzN_Nh4/6b02f27bc0714ebd075b60c6.json_with_pixel_position",
+      "created_at": "2026-11-22 13:47:39 UTC",
+      "processed_at": "2026-11-22 13:47:39 UTC",
+      "google_url": "https://www.google.com/search?q=How+to+avoid+copyright+claims+when+repurposing+podcast+content&oq=How+to+avoid+copyright+claims+when+repurposing+podcast+content&hl=en&gl=uk&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/KNXB_TnsbqIBkJ76_BuFsnY3id_1LGkHHa31JzN_Nh4/6b02f27bc0714ebd075b60c6.html",
+      "total_time_taken": 0.98
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "How to avoid copyright claims when repurposing podcast content",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "uk",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "How to avoid copyright claims when repurposing podcast content",
+      "total_results": 62700000,
+      "time_taken_displayed": 0.29,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "Podcaster's Ultimate Guide to Copyright & Fair Use",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXsS2ztbHaCL8OETk1HUot1h3vMjUoAK9cWLNd7CEDbuBJNIuJ06NQznn0hhtpw-Fj532ntP-GV5G8xCizC7HhHmvH13IBQ7rCDlvuqshOdS-SQu4Pmndol45a8YDP7wdDocbQ&gsessionid=XABai0GgkHmaaURdnZJtfR1cvLmNDpwByZSf_761aiXVsRLcqF9Z7A",
+        "thumbnail": "https://serpapi.com/searches/6b02f27bc0714ebd075b60c6/images/SX0rhBI6Wyw1EC112ENalTojVg8JnSAX5egjS2M1koo.jpg",
+        "channel": "Gordon Firemark",
+        "duration": "10:12",
+        "platform": "YouTube",
+        "date": "28 Feb 2025",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQMy7mp1kJVXNIXokYrUKr_NGpoBOQZWCL0DA"
+      },
+      {
+        "position": 2,
+        "title": "Fair Use 101 \u2013 What Every Creator Needs to Know",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXIdlHkepAi3a7ykDRBUskc2gkdcHM06D8efODj1RhuZCuV5RqVxztZQ53jDlxQA_2-fIJYhcWe-89glubjKUiJ8pvglV6UKKI3XOwFdI2epu1iQ9nd4PVoklnnWObiuTrDbfN&gsessionid=XABai0GgkHmaaURdnZJtfR1cvLmNDpwByZSf_761aiXVsRLcqF9Z7A",
+        "thumbnail": "https://serpapi.com/searches/6b02f27bc0714ebd075b60c6/images/vCfUx3x18RykQSRjjldMc5q3odNKztXAxhEDN9QNnLI.jpg",
+        "channel": "Gordon Firemark",
+        "duration": "14:32",
+        "platform": "YouTube",
+        "date": "13 Sept 2024",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQc2qEjcprCOs1aHob8ERjTPaJRM2B7bqPjlQ"
+      },
+      {
+        "position": 3,
+        "title": "Should your podcast be copyrighted? Pros, Con's & How-To",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXpAMfUG3JovZrIQCC5uQ8gWQkjGVECdgE_0XdIlb__WT1XuMGDBYhDwIdnbXO7iWwQe25_DGTwPxdI8uyX-LvCNLgLqi19hpmbC-wbQ-lqpS3oEVrTAYIITF4t9I-kuOmopqK&gsessionid=XABai0GgkHmaaURdnZJtfR1cvLmNDpwByZSf_761aiXVsRLcqF9Z7A",
+        "thumbnail": "https://serpapi.com/searches/6b02f27bc0714ebd075b60c6/images/-WivcI6N2DOMaaFb10hrKjHls1MGASHj7u1UF6uYxl4.jpg",
+        "channel": "Gordon Firemark",
+        "duration": "14:32",
+        "platform": "YouTube",
+        "date": "6 Sept 2024"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "Does Joe Rogan allow clipping?",
+        "type": "ai_overview",
+        "page_token": "lNpSbXicHdBdToMwAADg6GF8HH-icclixkZR4kBW2tK-LLXA2CgUt8ay-eZZfPIwHsBjeAITvyN8H59y17c_F0Wj9XCcWpYxZrJVaiuriVCdxY-nXliCS_nCRTu9ub1x7msxC48mWCgTZGgdUllKUpQ6s4FKsDzl3uCxPmFQKp0uqZei8kSJs0Qhc6CLDHmI7VVovCfkLyopdy9F80qJz6ETHHiL7cxdjXxf8twdFG3HHIbUXy-cB9qacdVdm4T4Xk4yV8jhMYmcJpdxBjvjpsiPyT7ohK0J7Vo_XYJRgOaZIGkoYT128TOzYyUcxsrzHAIX1xAlTYruWF6AuiI6g3g-JnnyWGHAol0cwPDarPMywj2IMGiKEvlkDbIRQecNhbLDLQjQXp4Zjr2rWrzNvKv_sdmm7vR0OKjtlzhUXFflhuvv9vL3_Q9KRIAb",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=lNpSbXicHdBdToMwAADg6GF8HH-icclixkZR4kBW2tK-LLXA2CgUt8ay-eZZfPIwHsBjeAITvyN8H59y17c_F0Wj9XCcWpYxZrJVaiuriVCdxY-nXliCS_nCRTu9ub1x7msxC48mWCgTZGgdUllKUpQ6s4FKsDzl3uCxPmFQKp0uqZei8kSJs0Qhc6CLDHmI7VVovCfkLyopdy9F80qJz6ETHHiL7cxdjXxf8twdFG3HHIbUXy-cB9qacdVdm4T4Xk4yV8jhMYmcJpdxBjvjpsiPyT7ohK0J7Vo_XYJRgOaZIGkoYT128TOzYyUcxsrzHAIX1xAlTYruWF6AuiI6g3g-JnnyWGHAol0cwPDarPMywj2IMGiKEvlkDbIRQecNhbLDLQjQXp4Zjr2rWrzNvKv_sdmm7vR0OKjtlzhUXFflhuvv9vL3_Q9KRIAb",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVQzVnZOMmwzVm0xQ1RGUklkMW8wWmpKWWVtTnlNa1pVTTJWc1VIZFFSa3hRUmtoamJqTTFRazFqTFU1cVNHSjNlblJSVFhkclZIQnpWVlZHVG1NdFJrcFBVa0ZGTmxWSFprczJOazFQY1d4SlJrZE1SekppWkhSblVSSVhaVjlKUTJFNVQxbE5jVjk1YTFCSlVERTFNMGg1VVZrYUlrRklUakJGTjBkNWN6Wm9OVFZJYVhkUWFYaFpNRVZEWkVGaU5FbHhVbFpNU0djIiwiZmN2IjoiMyIsImVpIjoiZV9JQ2E5T1lNcV95a1BJUDE1M0h5UVkiLCJxYyI6IkNqNW9iM2NnZEc4Z1lYWnZhV1FnWTI5d2VYSnBaMmgwSUdOc1lXbHRjeUIzYUdWdUlISmxjSFZ5Y0c5emFXNW5JSEJ2WkdOaGMzUWdZMjl1ZEdWdWRCQUFmV1lxQ1Q4IiwicXVlc3Rpb24iOiJEb2VzIEpvZSBSb2dhbiBhbGxvdyBjbGlwcGluZz8iLCJsayI6IkdoMWtiMlZ6SUdwdlpTQnliMmRoYmlCaGJHeHZkeUJqYkdsd2NHbHVadyIsImJzIjoiYzUzUHNVN0RNQlNGWWJGNllvNEVuQWNvVlVocDF3akJVQmhaR05IRnVjUnVIZF9JZGdsNWUyNlprRUFJc2YtZmRJNjVNZWQzd2hrUHduaVVuaUlvQkpsZ2d4OUhIX3UydWFqT3VtT3gweUw5VUJneDZ5ZEhCVDZqT01ZTDU0S0paaFFCdlludllHV2NrLS1kSnZFMUtlR0JZMm1iVFhVOV9RT2FuVmx0ZGNCd3NBNmYwd2lqZEphTzNCZUhkYjJvNnhyQjU4S1JVOFpBZTI2YlZYWGxmbWZmbFhrMmw3ZDYtUjZIekY5QXBJRjF0STZua0ppNkdmeXVNTGZOc2xwWUJmNlA0UFRrQXciLCJpZCI6ImZjX2VfSUNhOU9ZTXFfeWtQSVAxNTNIeVFZXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVQzVnZOMmwzVm0xQ1RGUklkMW8wWmpKWWVtTnlNa1pVTTJWc1VIZFFSa3hRUmtoamJqTTFRazFqTFU1cVNHSjNlblJSVFhkclZIQnpWVlZHVG1NdFJrcFBVa0ZGTmxWSFprczJOazFQY1d4SlJrZE1SekppWkhSblVSSVhaVjlKUTJFNVQxbE5jVjk1YTFCSlVERTFNMGg1VVZrYUlrRklUakJGTjBkNWN6Wm9OVFZJYVhkUWFYaFpNRVZEWkVGaU5FbHhVbFpNU0djIiwiZmN2IjoiMyIsImVpIjoiZV9JQ2E5T1lNcV95a1BJUDE1M0h5UVkiLCJxYyI6IkNqNW9iM2NnZEc4Z1lYWnZhV1FnWTI5d2VYSnBaMmgwSUdOc1lXbHRjeUIzYUdWdUlISmxjSFZ5Y0c5emFXNW5JSEJ2WkdOaGMzUWdZMjl1ZEdWdWRCQUFmV1lxQ1Q4IiwicXVlc3Rpb24iOiJEb2VzIEpvZSBSb2dhbiBhbGxvdyBjbGlwcGluZz8iLCJsayI6IkdoMWtiMlZ6SUdwdlpTQnliMmRoYmlCaGJHeHZkeUJqYkdsd2NHbHVadyIsImJzIjoiYzUzUHNVN0RNQlNGWWJGNllvNEVuQWNvVlVocDF3akJVQmhaR05IRnVjUnVIZF9JZGdsNWUyNlprRUFJc2YtZmRJNjVNZWQzd2hrUHduaVVuaUlvQkpsZ2d4OUhIX3UydWFqT3VtT3gweUw5VUJneDZ5ZEhCVDZqT01ZTDU0S0paaFFCdlludllHV2NrLS1kSnZFMUtlR0JZMm1iVFhVOV9RT2FuVmx0ZGNCd3NBNmYwd2lqZEphTzNCZUhkYjJvNnhyQjU4S1JVOFpBZTI2YlZYWGxmbWZmbFhrMmw3ZDYtUjZIekY5QXBJRjF0STZua0ppNkdmeXVNTGZOc2xwWUJmNlA0UFRrQXciLCJpZCI6ImZjX2VfSUNhOU9ZTXFfeWtQSVAxNTNIeVFZXzUifQ%3D%3D"
+      },
+      {
+        "question": "What is the best way to avoid copyright infringement?",
+        "type": "ai_overview",
+        "page_token": "1tm4BHicHdBNcpswGADQaQ-TZSzApI1nPJ1xLbDdQILQD2iTERI2mA9BMYNpuusReoascpgeoMfoCdrp4l3g_XiF2ja_3_2sxrG_rBaL6_V6e-q6E5S3umsX6vLN6oVWAIXSzeruw53z6ajXeNKbz4PeJIzgHAzklOeiMVNp-5EEcjCcqBL7X3InWJbbzV7ieY65mZhrEP-nsNUDO1cha_ULRbPlW7jQXTAXLXfy88Evz5DHzUdP7MAp0BKpUNYF9qOIVw-UGyrAECHiPBIy1yxmqYddkXGa8N5yNO9MGKPYqWqC_QOxUioIDima68cAWsKDLHNHVqBqn4LMYnQPJcZ-bHsuA9NS0H7c8Cm1MlQ2VvRM2hSSOaGkl-29xZWBDME2p_AkmDNnHgwMQxJR9pLugAjS1QmrHiPMvDQ4tATP-wgvHYGdKUE8ikLi5hzSzHW-Fhwieb056mnt3fy_Xj8f23HVD93pTQ-lGkvzrMZfzfs_3_8C1wWUAA",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=1tm4BHicHdBNcpswGADQaQ-TZSzApI1nPJ1xLbDdQILQD2iTERI2mA9BMYNpuusReoascpgeoMfoCdrp4l3g_XiF2ja_3_2sxrG_rBaL6_V6e-q6E5S3umsX6vLN6oVWAIXSzeruw53z6ajXeNKbz4PeJIzgHAzklOeiMVNp-5EEcjCcqBL7X3InWJbbzV7ieY65mZhrEP-nsNUDO1cha_ULRbPlW7jQXTAXLXfy88Evz5DHzUdP7MAp0BKpUNYF9qOIVw-UGyrAECHiPBIy1yxmqYddkXGa8N5yNO9MGKPYqWqC_QOxUioIDima68cAWsKDLHNHVqBqn4LMYnQPJcZ-bHsuA9NS0H7c8Cm1MlQ2VvRM2hSSOaGkl-29xZWBDME2p_AkmDNnHgwMQxJR9pLugAjS1QmrHiPMvDQ4tATP-wgvHYGdKUE8ikLi5hzSzHW-Fhwieb056mnt3fy_Xj8f23HVD93pTQ-lGkvzrMZfzfs_3_8C1wWUAA",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVQzVnZOMmwzVm0xQ1RGUklkMW8wWmpKWWVtTnlNa1pVTTJWc1VIZFFSa3hRUmtoamJqTTFRazFqTFU1cVNHSjNlblJSVFhkclZIQnpWVlZHVG1NdFJrcFBVa0ZGTmxWSFprczJOazFQY1d4SlJrZE1SekppWkhSblVSSVhaVjlKUTJFNVQxbE5jVjk1YTFCSlVERTFNMGg1VVZrYUlrRklUakJGTjBkNWN6Wm9OVFZJYVhkUWFYaFpNRVZEWkVGaU5FbHhVbFpNU0djIiwiZmN2IjoiMyIsImVpIjoiZV9JQ2E5T1lNcV95a1BJUDE1M0h5UVkiLCJxYyI6IkNqNW9iM2NnZEc4Z1lYWnZhV1FnWTI5d2VYSnBaMmgwSUdOc1lXbHRjeUIzYUdWdUlISmxjSFZ5Y0c5emFXNW5JSEJ2WkdOaGMzUWdZMjl1ZEdWdWRCQUFmV1lxQ1Q4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IHdheSB0byBhdm9pZCBjb3B5cmlnaHQgaW5mcmluZ2VtZW50PyIsImxrIjoiR2pSM2FHRjBJR2x6SUhSb1pTQmlaWE4wSUhkaGVTQjBieUJoZG05cFpDQmpiM0I1Y21sbmFIUWdhVzVtY21sdVoyVnRaVzUwIiwiYnMiOiJjNTNQc1U3RE1CU0ZZYkY2WW80RW5BY29WVWhwMXdqQlVCaFpHTkhGdWNSdUhkX0lkZ2w1ZTI2WmtFQUlzZi1mZEk2NU1lZDN3aGtQd25pVW5pSW9CSmxnZ3g5SEhfdTJ1YWpPdW1PeDB5TDlVQmd4NnlkSEJUNmpPTVlMNTRLSlpoUUJ2WW52WUdXY2stLWRKdkUxS2VHQlkybWJUWFU5X1FPYW5WbHRkY0J3c0E2ZjB3aWpkSmFPM0JlSGRiMm82eHJCNThLUlU4WkFlMjZiVlhYbGZtZmZsWGsybDdkNi1SNkh6RjlBcElGMXRJNm5rSmk2R2Z5dU1MZk5zbHBZQmY2UDRQVGtBdyIsImlkIjoiZmNfZV9JQ2E5T1lNcV95a1BJUDE1M0h5UVlfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVQzVnZOMmwzVm0xQ1RGUklkMW8wWmpKWWVtTnlNa1pVTTJWc1VIZFFSa3hRUmtoamJqTTFRazFqTFU1cVNHSjNlblJSVFhkclZIQnpWVlZHVG1NdFJrcFBVa0ZGTmxWSFprczJOazFQY1d4SlJrZE1SekppWkhSblVSSVhaVjlKUTJFNVQxbE5jVjk1YTFCSlVERTFNMGg1VVZrYUlrRklUakJGTjBkNWN6Wm9OVFZJYVhkUWFYaFpNRVZEWkVGaU5FbHhVbFpNU0djIiwiZmN2IjoiMyIsImVpIjoiZV9JQ2E5T1lNcV95a1BJUDE1M0h5UVkiLCJxYyI6IkNqNW9iM2NnZEc4Z1lYWnZhV1FnWTI5d2VYSnBaMmgwSUdOc1lXbHRjeUIzYUdWdUlISmxjSFZ5Y0c5emFXNW5JSEJ2WkdOaGMzUWdZMjl1ZEdWdWRCQUFmV1lxQ1Q4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IHdheSB0byBhdm9pZCBjb3B5cmlnaHQgaW5mcmluZ2VtZW50PyIsImxrIjoiR2pSM2FHRjBJR2x6SUhSb1pTQmlaWE4wSUhkaGVTQjBieUJoZG05cFpDQmpiM0I1Y21sbmFIUWdhVzVtY21sdVoyVnRaVzUwIiwiYnMiOiJjNTNQc1U3RE1CU0ZZYkY2WW80RW5BY29WVWhwMXdqQlVCaFpHTkhGdWNSdUhkX0lkZ2w1ZTI2WmtFQUlzZi1mZEk2NU1lZDN3aGtQd25pVW5pSW9CSmxnZ3g5SEhfdTJ1YWpPdW1PeDB5TDlVQmd4NnlkSEJUNmpPTVlMNTRLSlpoUUJ2WW52WUdXY2stLWRKdkUxS2VHQlkybWJUWFU5X1FPYW5WbHRkY0J3c0E2ZjB3aWpkSmFPM0JlSGRiMm82eHJCNThLUlU4WkFlMjZiVlhYbGZtZmZsWGsybDdkNi1SNkh6RjlBcElGMXRJNm5rSmk2R2Z5dU1MZk5zbHBZQmY2UDRQVGtBdyIsImlkIjoiZmNfZV9JQ2E5T1lNcV95a1BJUDE1M0h5UVlfNSJ9"
+      },
+      {
+        "question": "How much does a podcast with 50,000 listeners make?",
+        "type": "ai_overview",
+        "page_token": "ql0W-HicHdBLbptAGABgtYfJMmYguJIlqxLOUAvFJDPMA2YTDTNgDD-PYmKCu-sReoascpgeoMfoCRr1CN_38w1OXfPn069qmobzZrWa5_n22PdHKG5N3670eenMymiAXJtms_6yRl9Ls8UXE-xGExBOcQYWsjoqJQ5LFYbUumePXGNtUPw9cauHgzM1tK0E68yci2rNQlVLPuEHyWe7Q3cCi7GQyKPcH4p728Xt8BI708JB1QSpXY4UTRaEKeOuujbu4YQuBEKmIaD2qprHHVoSDHPRRU3Oohcth5LUVWvDqjShcoTjZxoFJGFRapngthOplgIRER84UgsDtVcNZTFQz0qfFaBIVld-vqe1wNET8UQsu95R-6HRrRpxZSF14D5j8CQ5ek09GDkGcmD8muyBStqfCK8eD5h7SShq1jiuai3naeB_HPgfiruijqP8W4gyiHxCbkpz2Xo3_6-3z2U7bYaxP76bsdBTYZ_19Lv5_PfHP1qUlIA",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ql0W-HicHdBLbptAGABgtYfJMmYguJIlqxLOUAvFJDPMA2YTDTNgDD-PYmKCu-sReoascpgeoMfoCRr1CN_38w1OXfPn069qmobzZrWa5_n22PdHKG5N3670eenMymiAXJtms_6yRl9Ls8UXE-xGExBOcQYWsjoqJQ5LFYbUumePXGNtUPw9cauHgzM1tK0E68yci2rNQlVLPuEHyWe7Q3cCi7GQyKPcH4p728Xt8BI708JB1QSpXY4UTRaEKeOuujbu4YQuBEKmIaD2qprHHVoSDHPRRU3Oohcth5LUVWvDqjShcoTjZxoFJGFRapngthOplgIRER84UgsDtVcNZTFQz0qfFaBIVld-vqe1wNET8UQsu95R-6HRrRpxZSF14D5j8CQ5ek09GDkGcmD8muyBStqfCK8eD5h7SShq1jiuai3naeB_HPgfiruijqP8W4gyiHxCbkpz2Xo3_6-3z2U7bYaxP76bsdBTYZ_19Lv5_PfHP1qUlIA",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVQzVnZOMmwzVm0xQ1RGUklkMW8wWmpKWWVtTnlNa1pVTTJWc1VIZFFSa3hRUmtoamJqTTFRazFqTFU1cVNHSjNlblJSVFhkclZIQnpWVlZHVG1NdFJrcFBVa0ZGTmxWSFprczJOazFQY1d4SlJrZE1SekppWkhSblVSSVhaVjlKUTJFNVQxbE5jVjk1YTFCSlVERTFNMGg1VVZrYUlrRklUakJGTjBkNWN6Wm9OVFZJYVhkUWFYaFpNRVZEWkVGaU5FbHhVbFpNU0djIiwiZmN2IjoiMyIsImVpIjoiZV9JQ2E5T1lNcV95a1BJUDE1M0h5UVkiLCJxYyI6IkNqNW9iM2NnZEc4Z1lYWnZhV1FnWTI5d2VYSnBaMmgwSUdOc1lXbHRjeUIzYUdWdUlISmxjSFZ5Y0c5emFXNW5JSEJ2WkdOaGMzUWdZMjl1ZEdWdWRCQUFmV1lxQ1Q4IiwicXVlc3Rpb24iOiJIb3cgbXVjaCBkb2VzIGEgcG9kY2FzdCB3aXRoIDUwLDAwMCBsaXN0ZW5lcnMgbWFrZT8iLCJsayI6IkdqRm9iM2NnYlhWamFDQmtiMlZ6SUdFZ2NHOWtZMkZ6ZENCM2FYUm9JRFV3TURBd0lHeHBjM1JsYm1WeWN5QnRZV3RsIiwiYnMiOiJjNTNQc1U3RE1CU0ZZYkY2WW80RW5BY29WVWhwMXdqQlVCaFpHTkhGdWNSdUhkX0lkZ2w1ZTI2WmtFQUlzZi1mZEk2NU1lZDN3aGtQd25pVW5pSW9CSmxnZ3g5SEhfdTJ1YWpPdW1PeDB5TDlVQmd4NnlkSEJUNmpPTVlMNTRLSlpoUUJ2WW52WUdXY2stLWRKdkUxS2VHQlkybWJUWFU5X1FPYW5WbHRkY0J3c0E2ZjB3aWpkSmFPM0JlSGRiMm82eHJCNThLUlU4WkFlMjZiVlhYbGZtZmZsWGsybDdkNi1SNkh6RjlBcElGMXRJNm5rSmk2R2Z5dU1MZk5zbHBZQmY2UDRQVGtBdyIsImlkIjoiZmNfZV9JQ2E5T1lNcV95a1BJUDE1M0h5UVlfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVQzVnZOMmwzVm0xQ1RGUklkMW8wWmpKWWVtTnlNa1pVTTJWc1VIZFFSa3hRUmtoamJqTTFRazFqTFU1cVNHSjNlblJSVFhkclZIQnpWVlZHVG1NdFJrcFBVa0ZGTmxWSFprczJOazFQY1d4SlJrZE1SekppWkhSblVSSVhaVjlKUTJFNVQxbE5jVjk1YTFCSlVERTFNMGg1VVZrYUlrRklUakJGTjBkNWN6Wm9OVFZJYVhkUWFYaFpNRVZEWkVGaU5FbHhVbFpNU0djIiwiZmN2IjoiMyIsImVpIjoiZV9JQ2E5T1lNcV95a1BJUDE1M0h5UVkiLCJxYyI6IkNqNW9iM2NnZEc4Z1lYWnZhV1FnWTI5d2VYSnBaMmgwSUdOc1lXbHRjeUIzYUdWdUlISmxjSFZ5Y0c5emFXNW5JSEJ2WkdOaGMzUWdZMjl1ZEdWdWRCQUFmV1lxQ1Q4IiwicXVlc3Rpb24iOiJIb3cgbXVjaCBkb2VzIGEgcG9kY2FzdCB3aXRoIDUwLDAwMCBsaXN0ZW5lcnMgbWFrZT8iLCJsayI6IkdqRm9iM2NnYlhWamFDQmtiMlZ6SUdFZ2NHOWtZMkZ6ZENCM2FYUm9JRFV3TURBd0lHeHBjM1JsYm1WeWN5QnRZV3RsIiwiYnMiOiJjNTNQc1U3RE1CU0ZZYkY2WW80RW5BY29WVWhwMXdqQlVCaFpHTkhGdWNSdUhkX0lkZ2w1ZTI2WmtFQUlzZi1mZEk2NU1lZDN3aGtQd25pVW5pSW9CSmxnZ3g5SEhfdTJ1YWpPdW1PeDB5TDlVQmd4NnlkSEJUNmpPTVlMNTRLSlpoUUJ2WW52WUdXY2stLWRKdkUxS2VHQlkybWJUWFU5X1FPYW5WbHRkY0J3c0E2ZjB3aWpkSmFPM0JlSGRiMm82eHJCNThLUlU4WkFlMjZiVlhYbGZtZmZsWGsybDdkNi1SNkh6RjlBcElGMXRJNm5rSmk2R2Z5dU1MZk5zbHBZQmY2UDRQVGtBdyIsImlkIjoiZmNfZV9JQ2E5T1lNcV95a1BJUDE1M0h5UVlfNSJ9"
+      },
+      {
+        "question": "Can I use a podcast name that already exists?",
+        "type": "ai_overview",
+        "page_token": "6070-HicHdBLbptAGABgtYfJMubhpKolqyoBZJDBnmEezGwizGCTzD9ACDaY7HqWrnqYHqDH6AkS5Qafvl-_4anR_75c6mHoXleLxTiOt6e2PUF1W7ZmUbxem3JRFgCHotSr-2_39o9juQ7OkffwEnmI4kCAAt54goZoTtyOVTzM6DNYytTLg1tvqwafDz7zilxJARAT-LmkVO2kGw2kwS-MTx1vYi_hdU9m1W8ZTMgkcxrgQc7hRWg7Lq16l7B0wmEH1QYnWQ6EWOlZ8O9acBvJnD1s89RRduoXprsKk0pCPCfxmchs2B_0aWIAUcqonei7szCyIRv5XFp2xHXYqiCOlJGO4miZNMoNagW5Bb4gsOfUnnIXehoASgidsw1gjtsnRD9MAXXxTK_UZrsdnXxm4n3BYMyCdCSOxNhhndShh9DNsbys3ZvPz_Xj0Qyrrm9Pf8q-KoZKPRbDX_31_9s7Uv-MCg",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=6070-HicHdBLbptAGABgtYfJMubhpKolqyoBZJDBnmEezGwizGCTzD9ACDaY7HqWrnqYHqDH6AkS5Qafvl-_4anR_75c6mHoXleLxTiOt6e2PUF1W7ZmUbxem3JRFgCHotSr-2_39o9juQ7OkffwEnmI4kCAAt54goZoTtyOVTzM6DNYytTLg1tvqwafDz7zilxJARAT-LmkVO2kGw2kwS-MTx1vYi_hdU9m1W8ZTMgkcxrgQc7hRWg7Lq16l7B0wmEH1QYnWQ6EWOlZ8O9acBvJnD1s89RRduoXprsKk0pCPCfxmchs2B_0aWIAUcqonei7szCyIRv5XFp2xHXYqiCOlJGO4miZNMoNagW5Bb4gsOfUnnIXehoASgidsw1gjtsnRD9MAXXxTK_UZrsdnXxm4n3BYMyCdCSOxNhhndShh9DNsbys3ZvPz_Xj0Qyrrm9Pf8q-KoZKPRbDX_31_9s7Uv-MCg",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVQzVnZOMmwzVm0xQ1RGUklkMW8wWmpKWWVtTnlNa1pVTTJWc1VIZFFSa3hRUmtoamJqTTFRazFqTFU1cVNHSjNlblJSVFhkclZIQnpWVlZHVG1NdFJrcFBVa0ZGTmxWSFprczJOazFQY1d4SlJrZE1SekppWkhSblVSSVhaVjlKUTJFNVQxbE5jVjk1YTFCSlVERTFNMGg1VVZrYUlrRklUakJGTjBkNWN6Wm9OVFZJYVhkUWFYaFpNRVZEWkVGaU5FbHhVbFpNU0djIiwiZmN2IjoiMyIsImVpIjoiZV9JQ2E5T1lNcV95a1BJUDE1M0h5UVkiLCJxYyI6IkNqNW9iM2NnZEc4Z1lYWnZhV1FnWTI5d2VYSnBaMmgwSUdOc1lXbHRjeUIzYUdWdUlISmxjSFZ5Y0c5emFXNW5JSEJ2WkdOaGMzUWdZMjl1ZEdWdWRCQUFmV1lxQ1Q4IiwicXVlc3Rpb24iOiJDYW4gSSB1c2UgYSBwb2RjYXN0IG5hbWUgdGhhdCBhbHJlYWR5IGV4aXN0cz8iLCJsayI6IkdpeGpZVzRnYVNCMWMyVWdZU0J3YjJSallYTjBJRzVoYldVZ2RHaGhkQ0JoYkhKbFlXUjVJR1Y0YVhOMGN3IiwiYnMiOiJjNTNQc1U3RE1CU0ZZYkY2WW80RW5BY29WVWhwMXdqQlVCaFpHTkhGdWNSdUhkX0lkZ2w1ZTI2WmtFQUlzZi1mZEk2NU1lZDN3aGtQd25pVW5pSW9CSmxnZ3g5SEhfdTJ1YWpPdW1PeDB5TDlVQmd4NnlkSEJUNmpPTVlMNTRLSlpoUUJ2WW52WUdXY2stLWRKdkUxS2VHQlkybWJUWFU5X1FPYW5WbHRkY0J3c0E2ZjB3aWpkSmFPM0JlSGRiMm82eHJCNThLUlU4WkFlMjZiVlhYbGZtZmZsWGsybDdkNi1SNkh6RjlBcElGMXRJNm5rSmk2R2Z5dU1MZk5zbHBZQmY2UDRQVGtBdyIsImlkIjoiZmNfZV9JQ2E5T1lNcV95a1BJUDE1M0h5UVlfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVQzVnZOMmwzVm0xQ1RGUklkMW8wWmpKWWVtTnlNa1pVTTJWc1VIZFFSa3hRUmtoamJqTTFRazFqTFU1cVNHSjNlblJSVFhkclZIQnpWVlZHVG1NdFJrcFBVa0ZGTmxWSFprczJOazFQY1d4SlJrZE1SekppWkhSblVSSVhaVjlKUTJFNVQxbE5jVjk1YTFCSlVERTFNMGg1VVZrYUlrRklUakJGTjBkNWN6Wm9OVFZJYVhkUWFYaFpNRVZEWkVGaU5FbHhVbFpNU0djIiwiZmN2IjoiMyIsImVpIjoiZV9JQ2E5T1lNcV95a1BJUDE1M0h5UVkiLCJxYyI6IkNqNW9iM2NnZEc4Z1lYWnZhV1FnWTI5d2VYSnBaMmgwSUdOc1lXbHRjeUIzYUdWdUlISmxjSFZ5Y0c5emFXNW5JSEJ2WkdOaGMzUWdZMjl1ZEdWdWRCQUFmV1lxQ1Q4IiwicXVlc3Rpb24iOiJDYW4gSSB1c2UgYSBwb2RjYXN0IG5hbWUgdGhhdCBhbHJlYWR5IGV4aXN0cz8iLCJsayI6IkdpeGpZVzRnYVNCMWMyVWdZU0J3YjJSallYTjBJRzVoYldVZ2RHaGhkQ0JoYkhKbFlXUjVJR1Y0YVhOMGN3IiwiYnMiOiJjNTNQc1U3RE1CU0ZZYkY2WW80RW5BY29WVWhwMXdqQlVCaFpHTkhGdWNSdUhkX0lkZ2w1ZTI2WmtFQUlzZi1mZEk2NU1lZDN3aGtQd25pVW5pSW9CSmxnZ3g5SEhfdTJ1YWpPdW1PeDB5TDlVQmd4NnlkSEJUNmpPTVlMNTRLSlpoUUJ2WW52WUdXY2stLWRKdkUxS2VHQlkybWJUWFU5X1FPYW5WbHRkY0J3c0E2ZjB3aWpkSmFPM0JlSGRiMm82eHJCNThLUlU4WkFlMjZiVlhYbGZtZmZsWGsybDdkNi1SNkh6RjlBcElGMXRJNm5rSmk2R2Z5dU1MZk5zbHBZQmY2UDRQVGtBdyIsImlkIjoiZmNfZV9JQ2E5T1lNcV95a1BJUDE1M0h5UVlfNSJ9"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "oqH6BXiczZbdcuo2EIBnet3XqG84AQMhQGY8Z2RHgAMmUQhJyEU9Rjay8Y_AMnHIueuz9KoP0wfoY_QJKttAbAL56U27MyAsrXZXq_28_Pa75wTuXz__akfRgp1XKnEclwmlxLPKmPoVg60DXJlRj4XY_s7oKsSWhO2Q-laZTgXbk6xAyKYdc7MgEE9aucL6SaoLmEmiYDmSpauK0b6aaEt97V6r19VGvbdGEyG1L-lTg1lz7v55zip6hX-5v9Qv-EOZla1A78rlTtMBnjWoBg23XBNr9fJVxfC5DvhvBcpAJXx0ASDv6cnosxaRza0CZX8_zMbcvAYSnypQ1GzlmP9RYjTZqchpxPxzBWbza7fLfw-3WmP1g7j4ftDdPd1vwsoGdz_cj0TZbU1OULD1nhxIYpqXfsFyce2QdIsr8uQCXMQ582-Ok3OQbR0nXzHonF5rACF01NNWuOn-BIge-KBOthGN25ejiO-SKybhVS5WpiEfqhUH2zj9EbKk-JXbtkh7-l3DrT0YPfIyRl6rt9RxNWjBe4QeSAVPuZ5HDdMydVsXv6fP1Vq1Ibbrzda3FDzMduSxPHkhZWIUtLSTSCwPynJ1y1zxtPvJQqoKDhUTkck2FUXZGUD5PKdp2NN0C547m9EGsooALl436sNBXonjcsHz1SL59MNdPMo7zO2fA6gQ0I2B8WYKFKsNTQAcvR4gvwQ5fYfFzrwWnXU3zKkdkqypSdUlViB5y9wN4HlAYJfiwstRVhQi8wSj5E3RB0SJlExXPU3i294YgpAfD-6yVAhHyQ7SAQVRcpHwfTDRigGBwF2pUFGdzTRInRCSeZIR2WUl9aG8pS6V5F469sGlTwn8zIsli2IL2R4zedbgsPliPCx7uvkYPPbcZn9-0ndq3ro5bMSH2aL-9GttDf_vAdw2PW9T-UcBTDx9CkBkvwfg26YHlQxAxT0C4CgDUJEPNb3rrdZe03sLoAKcHID3GYDPqUV4oOl9HUD5YwDz15UH8PWqCgDCYwB2YRHAyRxum95hADcOXgH8t01P_nrTSzm0sqHYAVdzcrQTdqpqu8ti52rQNWaBgTVAaTBHCkM4_rATzvzo3DdM75vumOdy7TJam990PkHPLVNYSj0alyJaMp6oY5YwXaxDh9hRCXuG47NSbFtBKbQWq3BBmROQ0oKa2GB8nQaRFUSC74VUEo2z1kkwOZ0PaXgVjp2Gv9Jmkyi4vHuxTyfNxvyELbXlfeN2MdREJ36JVXHgX_Xt4eKu65_MqporTm_ZbPXY0Vuo6l5OaYTZtQZ7Zw0trtdH-mxUX76YYzu8adOhBcwqmmHtZjm08VocQeQbctxgo0kaDZNOzi5aXTh9xoQIfoglfv-nBAxR8u_OAHIMLtOClW-WfBzwKplSGaDeBKALwj-UX5XAsKFb7EnCZ406bogiNoxZc2bNBJ9E64XUFgUWhFL1DxxaRsQzb0R_uj_9_eMf9AKKRQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=oqH6BXiczZbdcuo2EIBnet3XqG84AQMhQGY8Z2RHgAMmUQhJyEU9Rjay8Y_AMnHIueuz9KoP0wfoY_QJKttAbAL56U27MyAsrXZXq_28_Pa75wTuXz__akfRgp1XKnEclwmlxLPKmPoVg60DXJlRj4XY_s7oKsSWhO2Q-laZTgXbk6xAyKYdc7MgEE9aucL6SaoLmEmiYDmSpauK0b6aaEt97V6r19VGvbdGEyG1L-lTg1lz7v55zip6hX-5v9Qv-EOZla1A78rlTtMBnjWoBg23XBNr9fJVxfC5DvhvBcpAJXx0ASDv6cnosxaRza0CZX8_zMbcvAYSnypQ1GzlmP9RYjTZqchpxPxzBWbza7fLfw-3WmP1g7j4ftDdPd1vwsoGdz_cj0TZbU1OULD1nhxIYpqXfsFyce2QdIsr8uQCXMQ582-Ok3OQbR0nXzHonF5rACF01NNWuOn-BIge-KBOthGN25ejiO-SKybhVS5WpiEfqhUH2zj9EbKk-JXbtkh7-l3DrT0YPfIyRl6rt9RxNWjBe4QeSAVPuZ5HDdMydVsXv6fP1Vq1Ibbrzda3FDzMduSxPHkhZWIUtLSTSCwPynJ1y1zxtPvJQqoKDhUTkck2FUXZGUD5PKdp2NN0C547m9EGsooALl436sNBXonjcsHz1SL59MNdPMo7zO2fA6gQ0I2B8WYKFKsNTQAcvR4gvwQ5fYfFzrwWnXU3zKkdkqypSdUlViB5y9wN4HlAYJfiwstRVhQi8wSj5E3RB0SJlExXPU3i294YgpAfD-6yVAhHyQ7SAQVRcpHwfTDRigGBwF2pUFGdzTRInRCSeZIR2WUl9aG8pS6V5F469sGlTwn8zIsli2IL2R4zedbgsPliPCx7uvkYPPbcZn9-0ndq3ro5bMSH2aL-9GttDf_vAdw2PW9T-UcBTDx9CkBkvwfg26YHlQxAxT0C4CgDUJEPNb3rrdZe03sLoAKcHID3GYDPqUV4oOl9HUD5YwDz15UH8PWqCgDCYwB2YRHAyRxum95hADcOXgH8t01P_nrTSzm0sqHYAVdzcrQTdqpqu8ti52rQNWaBgTVAaTBHCkM4_rATzvzo3DdM75vumOdy7TJam990PkHPLVNYSj0alyJaMp6oY5YwXaxDh9hRCXuG47NSbFtBKbQWq3BBmROQ0oKa2GB8nQaRFUSC74VUEo2z1kkwOZ0PaXgVjp2Gv9Jmkyi4vHuxTyfNxvyELbXlfeN2MdREJ36JVXHgX_Xt4eKu65_MqporTm_ZbPXY0Vuo6l5OaYTZtQZ7Zw0trtdH-mxUX76YYzu8adOhBcwqmmHtZjm08VocQeQbctxgo0kaDZNOzi5aXTh9xoQIfoglfv-nBAxR8u_OAHIMLtOClW-WfBzwKplSGaDeBKALwj-UX5XAsKFb7EnCZ406bogiNoxZc2bNBJ9E64XUFgUWhFL1DxxaRsQzb0R_uj_9_eMf9AKKRQ"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Respecting everyone's rights: Podcasts and copyrighted ...",
+        "link": "https://creators.spotify.com/resources/copyright-creator-education",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHEIkXXWLLfzIFrQoszsVbG4TQiskQb6p1UvOFv-jNd3P6YiYdGq7v3xYOSDC2MbSV0P6OCWd0_RMHplQW1p7NVRY7BLPxylXhD4au50bhilRXZuHhl9BA-bXaHip6fayhLJCOITgOQeKH2aTJNcVbQ2e8pQYPLEp4c5udMm3g&ved=2ahUKEwiTwofE25uYAxUvOUQIHdfOMWkQFnoECA8QAQ&uoh=1",
+        "displayed_link": "https://creators.spotify.com \u203a copyright-creator-education",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAATlBMVEVHcEyXjv-Xkf-Wkf-Xkf-Xkf-Wkf-Wkf-Wkf-Wkf-Wkf-Xkv-Wkf-Wkf-Mh-55dcxgXqBTUIhFQ29tareBfdoiITACAgCalf8TExIzMk_RuQV2AAAADXRSTlMACxwsJV6YzPH46me1XNQBKAAAAQlJREFUeAGNkkWCwzAQBNckHqFF___otsKc1NEld4_g70emeQHr9ELNG-NCSsXZtj46bSSd4fo-kV0VkGy6dTR4bR8dYJc--SzlqXflRNb5EAc-7dYSMPNBbkQulys5JFtJbqdpamo5huB9CLE3-JjQOp1SyTlk1Yr83SX4bomP3EVBVko-AD8SreueSCxDShq5SAOt5Z6wFMiL9K1j0ORjz1jlr1IQrB2Fo9ammMtORGrImRPAHN6j0uF7CnYc_3o52FzQhszWgzt2Ho93k4TV-Ae4FFv2NNiO12zoBruHRMfUbwcP2LNj7y97THPlwzMBml-VQd89K56mklLgac6vHvW6gBmJP_EPHh0bpXUyxWwAAAAASUVORK5CYII.png",
+        "date": "16 Sept 2026",
+        "snippet": "The best way to avoid copyright issues is to understand what you can and can't use before you publish. Let's clear up a few common copyright ...",
+        "snippet_highlighted_words": [
+          "understand what you can and can't use"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The best way to avoid copyright issues is to understand what you can and can't use before you publish. Let's clear up a few common copyright ...",
+            "source_info_link": "https://creators.spotify.com/resources/copyright-creator-education",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAATlBMVEVHcEyXjv-Xkf-Wkf-Xkf-Xkf-Wkf-Wkf-Wkf-Wkf-Wkf-Xkv-Wkf-Wkf-Mh-55dcxgXqBTUIhFQ29tareBfdoiITACAgCalf8TExIzMk_RuQV2AAAADXRSTlMACxwsJV6YzPH46me1XNQBKAAAAQlJREFUeAGNkkWCwzAQBNckHqFF___otsKc1NEld4_g70emeQHr9ELNG-NCSsXZtj46bSSd4fo-kV0VkGy6dTR4bR8dYJc--SzlqXflRNb5EAc-7dYSMPNBbkQulys5JFtJbqdpamo5huB9CLE3-JjQOp1SyTlk1Yr83SX4bomP3EVBVko-AD8SreueSCxDShq5SAOt5Z6wFMiL9K1j0ORjz1jlr1IQrB2Fo9ammMtORGrImRPAHN6j0uF7CnYc_3o52FzQhszWgzt2Ho93k4TV-Ae4FFv2NNiO12zoBruHRMfUbwcP2LNj7y97THPlwzMBml-VQd89K56mklLgac6vHvW6gBmJP_EPHh0bpXUyxWwAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrkBL2dvdG8_dXJsPUNBRVNmd0hFSWtYWC1ZY1hXZWVZaWM1WHpJUkF0UFZEenVZYmxSNEtYaUZwbGdiUFFRdGd0WmVOYkZhdlR3RGIxLVBJeVU2bUtKOU1tRkRxMXR4MDJDMVlyOFhqWFpqWjU1OExBbUdNYTU1cnZZUVlWV0JjdXloTC15V0pXWGpGMGZKUzNqaWk3cXo4UzFsamhCZWxqSnoybGxlVjQ0V1lXSUJPcDIxMzdPWGVZYUUSBBoCCAAaqgcSAggBGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkCEBwgAEAAYACAAKikKA2hvdxWaw8s_GgdwcmV2ZW50GgpwcmV2ZW50aW5nGghzdG9wcGluZyoJCgJ0bxUAAAAAKlYKBWF2b2lkFY_bsj8aB2F2b2lkZWQaCGF2b2lkaW5nGgNub3QaC3ByZXZlbnQgdGhlGgdwcmV2ZW50GgpwcmV2ZW50aW5nGgRzdG9wGghzdG9wcGluZyopCgljb3B5cmlnaHQVz7yDQBoLY29weXJpZ2h0ZWQaCmNvcHlyaWdodHMqQQoGY2xhaW1zFaTslD8aBWNsYWltGgdjbGFpbWVkGghjbGFpbWluZxoMaW5mcmluZ2VtZW50GgppbmZyaW5naW5nKgsKBHdoZW4VAAAAACpXCgtyZXB1cnBvc2luZxUAAAAAGglyZXB1cnBvc2UaCnJlcHVycG9zZWQaBXJldXNlGhBpdjtwO3JlcHVycG9zaW5nGglyZWNvcmRpbmcaCHNlY3VyaW5nKjQKB3BvZGNhc3QVhjcOQBoKcG9kY2FzdGluZxoIcG9kY2FzdHMaDnBvZGNhc3Rjb250ZW50Kh4KB2NvbnRlbnQV7o2pQBoOcG9kY2FzdGNvbnRlbnQyuQEvZ290bz91cmw9Q0FFU2Z3SEVJa1hYLVljWFdlZVlpYzVYeklSQXRQVkR6dVlibFI0S1hpRnBsZ2JQUVF0Z3RaZU5iRmF2VHdEYjEtUEl5VTZtS0o5TW1GRHExdHgwMkMxWXI4WGpYWmpaNTU4TEFtR01hNTVydllRWVZXQmN1eWhMLXlXSldYakYwZkpTM2ppaTdxejhTMWxqaEJlbGpKejJsbGVWNDRXWVdJQk9wMjEzN09YZVlhRTpQUmVzcGVjdGluZyBldmVyeW9uZSYjMzk7cyByaWdodHM6IDxiPlBvZGNhc3RzPC9iPiBhbmQgPGI-Y29weXJpZ2h0ZWQgY29udGVudDwvYj5CpAFUaGUgYmVzdCB3YXkgdG8gYXZvaWQgY29weXJpZ2h0IGlzc3VlcyBpcyB0byA8Yj51bmRlcnN0YW5kIHdoYXQgeW91IGNhbiBhbmQgY2FuJiMzOTt0IHVzZTwvYj4gYmVmb3JlIHlvdSBwdWJsaXNoLiBMZXQmIzM5O3MgY2xlYXIgdXAgYSBmZXcgY29tbW9uIGNvcHlyaWdodCZuYnNwOy4uLkoEd2hlbkoCdG9SA25vdCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrkBL2dvdG8_dXJsPUNBRVNmd0hFSWtYWC1ZY1hXZWVZaWM1WHpJUkF0UFZEenVZYmxSNEtYaUZwbGdiUFFRdGd0WmVOYkZhdlR3RGIxLVBJeVU2bUtKOU1tRkRxMXR4MDJDMVlyOFhqWFpqWjU1OExBbUdNYTU1cnZZUVlWV0JjdXloTC15V0pXWGpGMGZKUzNqaWk3cXo4UzFsamhCZWxqSnoybGxlVjQ0V1lXSUJPcDIxMzdPWGVZYUUSBBoCCAAaqgcSAggBGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkCEBwgAEAAYACAAKikKA2hvdxWaw8s_GgdwcmV2ZW50GgpwcmV2ZW50aW5nGghzdG9wcGluZyoJCgJ0bxUAAAAAKlYKBWF2b2lkFY_bsj8aB2F2b2lkZWQaCGF2b2lkaW5nGgNub3QaC3ByZXZlbnQgdGhlGgdwcmV2ZW50GgpwcmV2ZW50aW5nGgRzdG9wGghzdG9wcGluZyopCgljb3B5cmlnaHQVz7yDQBoLY29weXJpZ2h0ZWQaCmNvcHlyaWdodHMqQQoGY2xhaW1zFaTslD8aBWNsYWltGgdjbGFpbWVkGghjbGFpbWluZxoMaW5mcmluZ2VtZW50GgppbmZyaW5naW5nKgsKBHdoZW4VAAAAACpXCgtyZXB1cnBvc2luZxUAAAAAGglyZXB1cnBvc2UaCnJlcHVycG9zZWQaBXJldXNlGhBpdjtwO3JlcHVycG9zaW5nGglyZWNvcmRpbmcaCHNlY3VyaW5nKjQKB3BvZGNhc3QVhjcOQBoKcG9kY2FzdGluZxoIcG9kY2FzdHMaDnBvZGNhc3Rjb250ZW50Kh4KB2NvbnRlbnQV7o2pQBoOcG9kY2FzdGNvbnRlbnQyuQEvZ290bz91cmw9Q0FFU2Z3SEVJa1hYLVljWFdlZVlpYzVYeklSQXRQVkR6dVlibFI0S1hpRnBsZ2JQUVF0Z3RaZU5iRmF2VHdEYjEtUEl5VTZtS0o5TW1GRHExdHgwMkMxWXI4WGpYWmpaNTU4TEFtR01hNTVydllRWVZXQmN1eWhMLXlXSldYakYwZkpTM2ppaTdxejhTMWxqaEJlbGpKejJsbGVWNDRXWVdJQk9wMjEzN09YZVlhRTpQUmVzcGVjdGluZyBldmVyeW9uZSYjMzk7cyByaWdodHM6IDxiPlBvZGNhc3RzPC9iPiBhbmQgPGI-Y29weXJpZ2h0ZWQgY29udGVudDwvYj5CpAFUaGUgYmVzdCB3YXkgdG8gYXZvaWQgY29weXJpZ2h0IGlzc3VlcyBpcyB0byA8Yj51bmRlcnN0YW5kIHdoYXQgeW91IGNhbiBhbmQgY2FuJiMzOTt0IHVzZTwvYj4gYmVmb3JlIHlvdSBwdWJsaXNoLiBMZXQmIzM5O3MgY2xlYXIgdXAgYSBmZXcgY29tbW9uIGNvcHlyaWdodCZuYnNwOy4uLkoEd2hlbkoCdG9SA25vdCICEAFIAFgAaAA",
+        "source": "Spotify for Creators",
+        "read_more_link": "https://www.google.com/goto?url=CAES2wEBxCJF1_s7xZ5X0yQ_XAYUmFa8RKsSkGsxwb7o0C-AzFNr5mNNXf7HeazvSQTeduAs1L5_plfSTpmxegYUZMfiuLpGTcVH1ajqZW7FKl1o5v_7LmOJrpWeJ7tY4sLY4jU5SnvihY8pOx3Ia8UheRk-lrH6kUOFtPHnDYPTKTlb5iPqjRvuTUzHCRkDNPCxOKgwpCyH-ISYUpRiAvb9KPY_klBAWJtmq0brDWmRzVBKlTrzlwCzrutW3vEDohcGCzL9xkR9FdSzb12K5Gm1o3B_Nb2BDNYisyrZhjU&gsessionid=XABai0GgkHmaaURdnZJtfR1cvLmNDpwByZSf_761aiXVsRLcqF9Z7A"
+      },
+      {
+        "position": 2,
+        "title": "How to Avoid Copyright Infringement on a Podcast",
+        "link": "https://copyrightalliance.org/how-to-avoid-copyright-infringement-on-podcasts/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiwEBxCJF1_VMG3nkld-ZM-ra4YrCmNTmvsensl7IIzNAmDER7p98FS1lTUHNW-vebgKf1veBg_Vke7k3oAEa7kPcQVY4O2OctKJTHluUK7SP3dA3WmVdzfK4-cQ0imUTaoP2508CbULDRpHU_3UtaJ6l5KroONw-9d_gy9ScnIIW42zSS61WRgUaiGGN&ved=2ahUKEwiTwofE25uYAxUvOUQIHdfOMWkQFnoECA4QAQ&uoh=1",
+        "displayed_link": "https://copyrightalliance.org \u203a Blogs",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAABD0lEQVR4AWJwL_AhiCU8evWBuBHQax0BMQxDYRyfzCr1qw1GdXerxOcO07nFdc6VYifD6DAWp-69u0Du3bd-18GDv-yW_i5J20aapSxttVx_e-h_zDgYg4IBWFmaCAihXkoUwK0ctMvHZ7HW8n8gx5IUdpZ-khICr8_PAEFdRoiRPbEwAF-KIjABrGcIScFFKi2o2MQwc5FOOwBu0q0Fs8HCj8FRB5viJb7PFKyzRDdKAoMGANlGAmqjgnc2O4rVdKYEjArOLWgH2WUkRQIudv8yGFAo1ETActrbP50tA0AdBGtmhg6g95K63zSHHwtSR8Do_uC7vtrcX97enyf_D7D_EcP_EOV_TPQ_CLsf9b-_5fTZf-gb6QAAAABJRU5ErkJggg.png",
+        "date": "30 Mar 2021",
+        "snippet": "Wondering how to avoid copyright infringement on your podcast? In this blog, we go over common myths about podcast content and how to avoid ...",
+        "snippet_highlighted_words": [
+          "how to avoid copyright infringement on your podcast"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Wondering how to avoid copyright infringement on your podcast? In this blog, we go over common myths about podcast content and how to avoid ...",
+            "source_info_link": "https://copyrightalliance.org/how-to-avoid-copyright-infringement-on-podcasts/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAABD0lEQVR4AWJwL_AhiCU8evWBuBHQax0BMQxDYRyfzCr1qw1GdXerxOcO07nFdc6VYifD6DAWp-69u0Du3bd-18GDv-yW_i5J20aapSxttVx_e-h_zDgYg4IBWFmaCAihXkoUwK0ctMvHZ7HW8n8gx5IUdpZ-khICr8_PAEFdRoiRPbEwAF-KIjABrGcIScFFKi2o2MQwc5FOOwBu0q0Fs8HCj8FRB5viJb7PFKyzRDdKAoMGANlGAmqjgnc2O4rVdKYEjArOLWgH2WUkRQIudv8yGFAo1ETActrbP50tA0AdBGtmhg6g95K63zSHHwtSR8Do_uC7vtrcX97enyf_D7D_EcP_EOV_TPQ_CLsf9b-_5fTZf-gb6QAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsoBL2dvdG8_dXJsPUNBRVNpd0VCeENKRjE1Vy16TGxxUWJva3ZfTGJwZFl4S20tN3dtT0hmQmVYLU5HNVQyRk5TZXpZbVZmN0Z6Tk0wYjlvTDlnZEItUlY3UzVMZ2Q3X0VxSmdhUm1RNFdTOHR6ZVhSMFJ1LWRsYk9Oa25GVUhya2dPaFgzVGd0UFloVVcxdVNpbzhpYlNJRnlKc0p4YWl4bUpwYUMzdHh0ZklhQjllQldfRUlTSl9EOTVKd1ZXZW9KX1B5aFJEanBsSBIEGgIIABqgBxICCAEaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQPoGCAAQABgAIAAqKQoDaG93FQyNc0AaB3ByZXZlbnQaCnByZXZlbnRpbmcaCHN0b3BwaW5nKgkKAnRvFQAAAAAqVgoFYXZvaWQVsKSJQBoHYXZvaWRlZBoIYXZvaWRpbmcaA25vdBoLcHJldmVudCB0aGUaB3ByZXZlbnQaCnByZXZlbnRpbmcaBHN0b3AaCHN0b3BwaW5nKikKCWNvcHlyaWdodBWytO9AGgtjb3B5cmlnaHRlZBoKY29weXJpZ2h0cypBCgZjbGFpbXMVAAAAABoFY2xhaW0aB2NsYWltZWQaCGNsYWltaW5nGgxpbmZyaW5nZW1lbnQaCmluZnJpbmdpbmcqCwoEd2hlbhUAAAAAKlcKC3JlcHVycG9zaW5nFQAAAAAaCXJlcHVycG9zZRoKcmVwdXJwb3NlZBoFcmV1c2UaEGl2O3A7cmVwdXJwb3NpbmcaCXJlY29yZGluZxoIc2VjdXJpbmcqNAoHcG9kY2FzdBWnV6pAGgpwb2RjYXN0aW5nGghwb2RjYXN0cxoOcG9kY2FzdGNvbnRlbnQqHgoHY29udGVudBX6bDk_Gg5wb2RjYXN0Y29udGVudDLKAS9nb3RvP3VybD1DQUVTaXdFQnhDSkYxNVctekxscVFib2t2X0xicGRZeEttLTd3bU9IZkJlWC1ORzVUMkZOU2V6WW1WZjdGek5NMGI5b0w5Z2RCLVJWN1M1TGdkN19FcUpnYVJtUTRXUzh0emVYUjBSdS1kbGJPTmtuRlVIcmtnT2hYM1RndFBZaFVXMXVTaW84aWJTSUZ5SnNKeGFpeG1KcGFDM3R4dGZJYUI5ZUJXX0VJU0pfRDk1SndWV2VvSl9QeWhSRGpwbEg6PjxiPkhvdyB0byBBdm9pZCBDb3B5cmlnaHQgSW5mcmluZ2VtZW50PC9iPiBvbiBhIDxiPlBvZGNhc3Q8L2I-QpsBV29uZGVyaW5nIDxiPmhvdyB0byBhdm9pZCBjb3B5cmlnaHQgaW5mcmluZ2VtZW50IG9uIHlvdXIgcG9kY2FzdDwvYj4_IEluIHRoaXMgYmxvZywgd2UgZ28gb3ZlciBjb21tb24gbXl0aHMgYWJvdXQgcG9kY2FzdCBjb250ZW50IGFuZCBob3cgdG8gYXZvaWQmbmJzcDsuLi5KAnRvSgR3aGVuUgNub3QiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsoBL2dvdG8_dXJsPUNBRVNpd0VCeENKRjE1Vy16TGxxUWJva3ZfTGJwZFl4S20tN3dtT0hmQmVYLU5HNVQyRk5TZXpZbVZmN0Z6Tk0wYjlvTDlnZEItUlY3UzVMZ2Q3X0VxSmdhUm1RNFdTOHR6ZVhSMFJ1LWRsYk9Oa25GVUhya2dPaFgzVGd0UFloVVcxdVNpbzhpYlNJRnlKc0p4YWl4bUpwYUMzdHh0ZklhQjllQldfRUlTSl9EOTVKd1ZXZW9KX1B5aFJEanBsSBIEGgIIABqgBxICCAEaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQPoGCAAQABgAIAAqKQoDaG93FQyNc0AaB3ByZXZlbnQaCnByZXZlbnRpbmcaCHN0b3BwaW5nKgkKAnRvFQAAAAAqVgoFYXZvaWQVsKSJQBoHYXZvaWRlZBoIYXZvaWRpbmcaA25vdBoLcHJldmVudCB0aGUaB3ByZXZlbnQaCnByZXZlbnRpbmcaBHN0b3AaCHN0b3BwaW5nKikKCWNvcHlyaWdodBWytO9AGgtjb3B5cmlnaHRlZBoKY29weXJpZ2h0cypBCgZjbGFpbXMVAAAAABoFY2xhaW0aB2NsYWltZWQaCGNsYWltaW5nGgxpbmZyaW5nZW1lbnQaCmluZnJpbmdpbmcqCwoEd2hlbhUAAAAAKlcKC3JlcHVycG9zaW5nFQAAAAAaCXJlcHVycG9zZRoKcmVwdXJwb3NlZBoFcmV1c2UaEGl2O3A7cmVwdXJwb3NpbmcaCXJlY29yZGluZxoIc2VjdXJpbmcqNAoHcG9kY2FzdBWnV6pAGgpwb2RjYXN0aW5nGghwb2RjYXN0cxoOcG9kY2FzdGNvbnRlbnQqHgoHY29udGVudBX6bDk_Gg5wb2RjYXN0Y29udGVudDLKAS9nb3RvP3VybD1DQUVTaXdFQnhDSkYxNVctekxscVFib2t2X0xicGRZeEttLTd3bU9IZkJlWC1ORzVUMkZOU2V6WW1WZjdGek5NMGI5b0w5Z2RCLVJWN1M1TGdkN19FcUpnYVJtUTRXUzh0emVYUjBSdS1kbGJPTmtuRlVIcmtnT2hYM1RndFBZaFVXMXVTaW84aWJTSUZ5SnNKeGFpeG1KcGFDM3R4dGZJYUI5ZUJXX0VJU0pfRDk1SndWV2VvSl9QeWhSRGpwbEg6PjxiPkhvdyB0byBBdm9pZCBDb3B5cmlnaHQgSW5mcmluZ2VtZW50PC9iPiBvbiBhIDxiPlBvZGNhc3Q8L2I-QpsBV29uZGVyaW5nIDxiPmhvdyB0byBhdm9pZCBjb3B5cmlnaHQgaW5mcmluZ2VtZW50IG9uIHlvdXIgcG9kY2FzdDwvYj4_IEluIHRoaXMgYmxvZywgd2UgZ28gb3ZlciBjb21tb24gbXl0aHMgYWJvdXQgcG9kY2FzdCBjb250ZW50IGFuZCBob3cgdG8gYXZvaWQmbmJzcDsuLi5KAnRvSgR3aGVuUgNub3QiAhABSABYAGgA",
+        "source": "Copyright Alliance"
+      },
+      {
+        "position": 3,
+        "title": "Protecting copyright of episodes? : r/podcasting",
+        "link": "https://www.google.com/goto?url=CAESkwEBxCJF1_nKKCBgkHb3WDCwE3u37r7_PJeC5EFfgMPrrMihpdOKU5xA1kIKncmNoJSX4iUqRgYB2bQTmnRS3Jjl5cDBw5zr5RcpdvQ85ro9espMj0ztj0KEGTi7LGDG5JRaZvUDCEyiAeWJQj_y-zeii5LRKkMjnTpiC3dRj5Ta7yT7Kp1cSfksU6JtYqtjpqN1M00",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkwEBxCJF19eV4aOf2K_UJCeLSJszuoIs4exZIZNaE7CVL6sOzSytk32GzazvK5JuQqQTPHb-76TF-kj3LG5UigayS5Svbn8ahbgo_kfPcJnx9R1PDLK9LmNADKRMRr0aAN4AtX9NrkgFmWcrFre2aJQM5q7heD8UvuAJxeylsGEwGSi7oAV-xN4HiDKEdKs4592o-1E&ved=2ahUKEwiTwofE25uYAxUvOUQIHdfOMWkQFnoECBsQAQ&uoh=1",
+        "displayed_link": "30+ comments",
+        "date": "6 months ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+        "snippet": "I have an historical podcast about San Francisco, wherein I do the research, the writing, the recording, and the editing, including adding background music ...",
+        "sitelinks": {
+          "list": [
+            {
+              "title": "Fair use of copyrighted material in a podcast - Reddit",
+              "link": "https://www.google.com/goto?url=CAESoAEBxCJF16cQgF8YGSBZWlDti96LYuZQePPLPQD5K0f5dr47ncRug5quVZ1m4fVeZBSwxYI8G1CjBGeMgLxP2vAld7PmwoAeIvNYv-5jAsZLtCqlP0-m8n1IJuuKaSuE9Xdc4HX4UyCDMLv11s_m_mksveeiKUC78frG5WNQ_wx4UcKgKQxZmIrL7UVQ9Zc7ICfYC5qgdUkJjogt4bSKjtCx&gsessionid=XABai0GgkHmaaURdnZJtfR1cvLmNDpwByZSf_761aiXVsRLcqF9Z7A",
+              "answer_count": 28,
+              "date": "17 May 2024"
+            },
+            {
+              "title": "Ok, but is everyone who uses clips of movies/tv in ...",
+              "link": "https://www.google.com/goto?url=CAESowEBxCJF1_RSJ57PPWzNeGs9eausDFC9-J-CEyV-oR7PvaBUOmxp9TTITMiM6_4p6OEi7pgCpuJM4tdH1zDm--G69xT-SMmhhPQTcNN_LeI2msichWpF-fFAtgB4U4ciTh7aIVqLreNRZjKVNt0PDA5Yd72pH0B0hvQsTkWa3QZZMMk2dGVyM5t3sJaoJi5OWrh60m0ErlVobf5FaXLTSGP2eXjG&gsessionid=XABai0GgkHmaaURdnZJtfR1cvLmNDpwByZSf_761aiXVsRLcqF9Z7A",
+              "answer_count": 11,
+              "date": "8 May 2023"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Podcast titles, like book and movie titles, are almost impossible to copyright but can sometimes be protected with trademark registration.",
+            "source_info_link": "https://www.google.com/goto?url=CAESkwEBxCJF1_nKKCBgkHb3WDCwE3u37r7_PJeC5EFfgMPrrMihpdOKU5xA1kIKncmNoJSX4iUqRgYB2bQTmnRS3Jjl5cDBw5zr5RcpdvQ85ro9espMj0ztj0KEGTi7LGDG5JRaZvUDCEyiAeWJQj_y-zeii5LRKkMjnTpiC3dRj5Ta7yT7Kp1cSfksU6JtYqtjpqN1M00",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtUBL2dvdG8_dXJsPUNBRVNrd0VCeENKRjFfbktLQ0Jna0hiM1dEQ3dFM3UzN3I3X1BKZUM1RUZmZ01QcnJNaWhwZE9LVTV4QTFrSUtuY21Ob0pTWDRpVXFSZ1lCMmJRVG1uUlMzSmpsNWNEQnc1enI1UmNwZHZRODVybzllc3BNajB6dGowS0VHVGk3TEdERzVKUmFadlVEQ0V5aUFlV0pRal95LXplaWk1TFJLa01qblRwaUMzZFJqNVRhN3lUN0twMWNTZmtzVTZKdFlxdGpwcU4xTTAwEgQaAggAGqgHEgAaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQIQHCAAQABgAIAAqKQoDaG93FehtmD8aB3ByZXZlbnQaCnByZXZlbnRpbmcaCHN0b3BwaW5nKgkKAnRvFQAAAAAqVgoFYXZvaWQVjg3zPhoHYXZvaWRlZBoIYXZvaWRpbmcaA25vdBoLcHJldmVudCB0aGUaB3ByZXZlbnQaCnByZXZlbnRpbmcaBHN0b3AaCHN0b3BwaW5nKikKCWNvcHlyaWdodBUqbotAGgtjb3B5cmlnaHRlZBoKY29weXJpZ2h0cypBCgZjbGFpbXMVSrnpPhoFY2xhaW0aB2NsYWltZWQaCGNsYWltaW5nGgxpbmZyaW5nZW1lbnQaCmluZnJpbmdpbmcqCwoEd2hlbhUAAAAAKlcKC3JlcHVycG9zaW5nFdhN8jwaCXJlcHVycG9zZRoKcmVwdXJwb3NlZBoFcmV1c2UaEGl2O3A7cmVwdXJwb3NpbmcaCXJlY29yZGluZxoIc2VjdXJpbmcqNAoHcG9kY2FzdBU5Fh1AGgpwb2RjYXN0aW5nGghwb2RjYXN0cxoOcG9kY2FzdGNvbnRlbnQqHgoHY29udGVudBXJxZ8_Gg5wb2RjYXN0Y29udGVudDLVAS9nb3RvP3VybD1DQUVTa3dFQnhDSkYxX25LS0NCZ2tIYjNXREN3RTN1MzdyN19QSmVDNUVGZmdNUHJyTWlocGRPS1U1eEExa0lLbmNtTm9KU1g0aVVxUmdZQjJiUVRtblJTM0pqbDVjREJ3NXpyNVJjcGR2UTg1cm85ZXNwTWowenRqMEtFR1RpN0xHREc1SlJhWnZVRENFeWlBZVdKUWpfeS16ZWlpNUxSS2tNam5UcGlDM2RSajVUYTd5VDdLcDFjU2Zrc1U2SnRZcXRqcHFOMU0wMDpHUHJvdGVjdGluZyA8Yj5jb3B5cmlnaHQ8L2I-IG9mIGVwaXNvZGVzPyA6IHIvPGI-cG9kY2FzdGluZzwvYj4gLSBSZWRkaXRCkQE8Yj5Qb2RjYXN0IHRpdGxlcywgbGlrZSBib29rIGFuZCBtb3ZpZSB0aXRsZXMsIGFyZSBhbG1vc3QgaW1wb3NzaWJsZSB0byBjb3B5cmlnaHQ8L2I-IGJ1dCBjYW4gc29tZXRpbWVzIGJlIHByb3RlY3RlZCB3aXRoIHRyYWRlbWFyayByZWdpc3RyYXRpb24uSgR3aGVuSgJ0b1IDbm90IgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtUBL2dvdG8_dXJsPUNBRVNrd0VCeENKRjFfbktLQ0Jna0hiM1dEQ3dFM3UzN3I3X1BKZUM1RUZmZ01QcnJNaWhwZE9LVTV4QTFrSUtuY21Ob0pTWDRpVXFSZ1lCMmJRVG1uUlMzSmpsNWNEQnc1enI1UmNwZHZRODVybzllc3BNajB6dGowS0VHVGk3TEdERzVKUmFadlVEQ0V5aUFlV0pRal95LXplaWk1TFJLa01qblRwaUMzZFJqNVRhN3lUN0twMWNTZmtzVTZKdFlxdGpwcU4xTTAwEgQaAggAGqgHEgAaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQIQHCAAQABgAIAAqKQoDaG93FehtmD8aB3ByZXZlbnQaCnByZXZlbnRpbmcaCHN0b3BwaW5nKgkKAnRvFQAAAAAqVgoFYXZvaWQVjg3zPhoHYXZvaWRlZBoIYXZvaWRpbmcaA25vdBoLcHJldmVudCB0aGUaB3ByZXZlbnQaCnByZXZlbnRpbmcaBHN0b3AaCHN0b3BwaW5nKikKCWNvcHlyaWdodBUqbotAGgtjb3B5cmlnaHRlZBoKY29weXJpZ2h0cypBCgZjbGFpbXMVSrnpPhoFY2xhaW0aB2NsYWltZWQaCGNsYWltaW5nGgxpbmZyaW5nZW1lbnQaCmluZnJpbmdpbmcqCwoEd2hlbhUAAAAAKlcKC3JlcHVycG9zaW5nFdhN8jwaCXJlcHVycG9zZRoKcmVwdXJwb3NlZBoFcmV1c2UaEGl2O3A7cmVwdXJwb3NpbmcaCXJlY29yZGluZxoIc2VjdXJpbmcqNAoHcG9kY2FzdBU5Fh1AGgpwb2RjYXN0aW5nGghwb2RjYXN0cxoOcG9kY2FzdGNvbnRlbnQqHgoHY29udGVudBXJxZ8_Gg5wb2RjYXN0Y29udGVudDLVAS9nb3RvP3VybD1DQUVTa3dFQnhDSkYxX25LS0NCZ2tIYjNXREN3RTN1MzdyN19QSmVDNUVGZmdNUHJyTWlocGRPS1U1eEExa0lLbmNtTm9KU1g0aVVxUmdZQjJiUVRtblJTM0pqbDVjREJ3NXpyNVJjcGR2UTg1cm85ZXNwTWowenRqMEtFR1RpN0xHREc1SlJhWnZVRENFeWlBZVdKUWpfeS16ZWlpNUxSS2tNam5UcGlDM2RSajVUYTd5VDdLcDFjU2Zrc1U2SnRZcXRqcHFOMU0wMDpHUHJvdGVjdGluZyA8Yj5jb3B5cmlnaHQ8L2I-IG9mIGVwaXNvZGVzPyA6IHIvPGI-cG9kY2FzdGluZzwvYj4gLSBSZWRkaXRCkQE8Yj5Qb2RjYXN0IHRpdGxlcywgbGlrZSBib29rIGFuZCBtb3ZpZSB0aXRsZXMsIGFyZSBhbG1vc3QgaW1wb3NzaWJsZSB0byBjb3B5cmlnaHQ8L2I-IGJ1dCBjYW4gc29tZXRpbWVzIGJlIHByb3RlY3RlZCB3aXRoIHRyYWRlbWFyayByZWdpc3RyYXRpb24uSgR3aGVuSgJ0b1IDbm90IgIQAUgAWABoAA",
+        "source": "Reddit \u00b7 r/podcasting"
+      },
+      {
+        "position": 4,
+        "title": "Copyright rules for podcast clips?",
+        "link": "https://www.google.com/goto?url=CAESiAEBxCJF14SyARX1PXilCAeO-FG2T3MgHWyq_rHhFAdQYH2-8i41gQHPObnefyqNjd9hmXl0v2UCFqxng4wXBcA0VdmV-K91oeIg4020nXIUalptG03u44dVrSaZy0OfLlFLzSES9JbtWjrLtKjW_sN3Tb0bhmYRGzX6BUj9o11d4kyNkfE1HtPv",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiAEBxCJF1z4VjXtW_zaE9DA3Gcwv9YPjOYVqYpJcEYrSe3tdUoj3jhExqs8NH-by7z-i5i8EXC3_4KRJSz-iixESWdCc4kIBuNZNXzla6B1K8nAckaDFo9vNIIiuLpMb6yjK3dmOO7bNKqity16SsK1BKkkUv_57UqBujgEdb5ecJeGPCINHby_7&ved=2ahUKEwiTwofE25uYAxUvOUQIHdfOMWkQFnoECBoQAQ&uoh=1",
+        "displayed_link": "50+ comments",
+        "date": "3 years ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+        "snippet": "Hello community! \ud83d\ude0e ***Is anyone aware of the copyright rules with playing a short movie or song clip on your podcast?*** From what I can tell ...",
+        "sitelinks": {
+          "list": [
+            {
+              "title": "How to handle a podcast using your blog content without ...",
+              "link": "https://www.google.com/goto?url=CAESiAEBxCJF1xFxxK7K6u8hWvpmrbY_8Jut6KiFSxa6Bs7KBv1Mxzal44X7CqBTZXbconUW3XBap0Z0r_wtInO53m-QJYg-Ual52s70IoxTX5HLlYgjScGJ8bPctT3eq5kzFByjeYIbcCmbjHElfAMg_BQ8S5cRCUEsfq8n7nr6hGauVskpOh8afM01&gsessionid=XABai0GgkHmaaURdnZJtfR1cvLmNDpwByZSf_761aiXVsRLcqF9Z7A",
+              "date": "8 Sept 2020"
+            },
+            {
+              "title": "How to copyright a podcast to avoid infringement - Facebook",
+              "link": "https://www.google.com/goto?url=CAEShAEBxCJF1-7R11iIsVOH98giVDUh28yGwtUczIInyQpV-W1J78D4pPwLfsbRkP2zAi73-beb2QFUr9HqCCvRS2wN3p2qO01TtCqUKUfR5MKzBB2bk9kddix2Zd2hw5g25VStIQ6jhUcqnkszYJkbSsr7tOR7buXpkAaMUXQMz-H8Ej9bvFk&gsessionid=XABai0GgkHmaaURdnZJtfR1cvLmNDpwByZSf_761aiXVsRLcqF9Z7A",
+              "date": "11 Nov 2022"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Using copyrighted music without permission can lead to copyright infringement claims, even if you're not monetizing your podcast.",
+            "source_info_link": "https://www.google.com/goto?url=CAESiAEBxCJF14SyARX1PXilCAeO-FG2T3MgHWyq_rHhFAdQYH2-8i41gQHPObnefyqNjd9hmXl0v2UCFqxng4wXBcA0VdmV-K91oeIg4020nXIUalptG03u44dVrSaZy0OfLlFLzSES9JbtWjrLtKjW_sN3Tb0bhmYRGzX6BUj9o11d4kyNkfE1HtPv",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsYBL2dvdG8_dXJsPUNBRVNpQUVCeENKRjE0U3lBUlgxUFhpbENBZU8tRkcyVDNNZ0hXeXFfckhoRkFkUVlIMi04aTQxZ1FIUE9ibmVmeXFOamQ5aG1YbDB2MlVDRnF4bmc0d1hCY0EwVmRtVi1LOTFvZUlnNDAyMG5YSVVhbHB0RzAzdTQ0ZFZyU2FaeTBPZkxsRkx6U0VTOUpidFdqckx0S2pXX3NOM1RiMGJobVlSR3pYNkJVajlvMTFkNGt5TmtmRTFIdFB2EgQaAggAGp0HEgAaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQPkGCAAQABgAIAAqKQoDaG93FVAnNz8aB3ByZXZlbnQaCnByZXZlbnRpbmcaCHN0b3BwaW5nKgkKAnRvFQAAAAAqVgoFYXZvaWQVoLxsPxoHYXZvaWRlZBoIYXZvaWRpbmcaA25vdBoLcHJldmVudCB0aGUaB3ByZXZlbnQaCnByZXZlbnRpbmcaBHN0b3AaCHN0b3BwaW5nKikKCWNvcHlyaWdodBUEy51AGgtjb3B5cmlnaHRlZBoKY29weXJpZ2h0cypBCgZjbGFpbXMV6U4IPhoFY2xhaW0aB2NsYWltZWQaCGNsYWltaW5nGgxpbmZyaW5nZW1lbnQaCmluZnJpbmdpbmcqCwoEd2hlbhUAAAAAKlcKC3JlcHVycG9zaW5nFQAAAAAaCXJlcHVycG9zZRoKcmVwdXJwb3NlZBoFcmV1c2UaEGl2O3A7cmVwdXJwb3NpbmcaCXJlY29yZGluZxoIc2VjdXJpbmcqNAoHcG9kY2FzdBWqpKBAGgpwb2RjYXN0aW5nGghwb2RjYXN0cxoOcG9kY2FzdGNvbnRlbnQqHgoHY29udGVudBW0tu0-Gg5wb2RjYXN0Y29udGVudDLGAS9nb3RvP3VybD1DQUVTaUFFQnhDSkYxNFN5QVJYMVBYaWxDQWVPLUZHMlQzTWdIV3lxX3JIaEZBZFFZSDItOGk0MWdRSFBPYm5lZnlxTmpkOWhtWGwwdjJVQ0ZxeG5nNHdYQmNBMFZkbVYtSzkxb2VJZzQwMjBuWElVYWxwdEcwM3U0NGRWclNhWnkwT2ZMbEZMelNFUzlKYnRXanJMdEtqV19zTjNUYjBiaG1ZUkd6WDZCVWo5bzExZDRreU5rZkUxSHRQdjo7PGI-Q29weXJpZ2h0PC9iPiBydWxlcyBmb3IgPGI-cG9kY2FzdDwvYj4gY2xpcHM_IC0gRmFjZWJvb2tCoQFVc2luZyA8Yj5jb3B5cmlnaHRlZDwvYj4gbXVzaWMgd2l0aG91dCBwZXJtaXNzaW9uIGNhbiBsZWFkIHRvIDxiPmNvcHlyaWdodCBpbmZyaW5nZW1lbnQgY2xhaW1zPC9iPiwgZXZlbiBpZiB5b3UmIzM5O3JlIDxiPm5vdDwvYj4gbW9uZXRpemluZyB5b3VyIDxiPnBvZGNhc3Q8L2I-LkoEd2hlbkoCdG9SA25vdCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsYBL2dvdG8_dXJsPUNBRVNpQUVCeENKRjE0U3lBUlgxUFhpbENBZU8tRkcyVDNNZ0hXeXFfckhoRkFkUVlIMi04aTQxZ1FIUE9ibmVmeXFOamQ5aG1YbDB2MlVDRnF4bmc0d1hCY0EwVmRtVi1LOTFvZUlnNDAyMG5YSVVhbHB0RzAzdTQ0ZFZyU2FaeTBPZkxsRkx6U0VTOUpidFdqckx0S2pXX3NOM1RiMGJobVlSR3pYNkJVajlvMTFkNGt5TmtmRTFIdFB2EgQaAggAGp0HEgAaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQPkGCAAQABgAIAAqKQoDaG93FVAnNz8aB3ByZXZlbnQaCnByZXZlbnRpbmcaCHN0b3BwaW5nKgkKAnRvFQAAAAAqVgoFYXZvaWQVoLxsPxoHYXZvaWRlZBoIYXZvaWRpbmcaA25vdBoLcHJldmVudCB0aGUaB3ByZXZlbnQaCnByZXZlbnRpbmcaBHN0b3AaCHN0b3BwaW5nKikKCWNvcHlyaWdodBUEy51AGgtjb3B5cmlnaHRlZBoKY29weXJpZ2h0cypBCgZjbGFpbXMV6U4IPhoFY2xhaW0aB2NsYWltZWQaCGNsYWltaW5nGgxpbmZyaW5nZW1lbnQaCmluZnJpbmdpbmcqCwoEd2hlbhUAAAAAKlcKC3JlcHVycG9zaW5nFQAAAAAaCXJlcHVycG9zZRoKcmVwdXJwb3NlZBoFcmV1c2UaEGl2O3A7cmVwdXJwb3NpbmcaCXJlY29yZGluZxoIc2VjdXJpbmcqNAoHcG9kY2FzdBWqpKBAGgpwb2RjYXN0aW5nGghwb2RjYXN0cxoOcG9kY2FzdGNvbnRlbnQqHgoHY29udGVudBW0tu0-Gg5wb2RjYXN0Y29udGVudDLGAS9nb3RvP3VybD1DQUVTaUFFQnhDSkYxNFN5QVJYMVBYaWxDQWVPLUZHMlQzTWdIV3lxX3JIaEZBZFFZSDItOGk0MWdRSFBPYm5lZnlxTmpkOWhtWGwwdjJVQ0ZxeG5nNHdYQmNBMFZkbVYtSzkxb2VJZzQwMjBuWElVYWxwdEcwM3U0NGRWclNhWnkwT2ZMbEZMelNFUzlKYnRXanJMdEtqV19zTjNUYjBiaG1ZUkd6WDZCVWo5bzExZDRreU5rZkUxSHRQdjo7PGI-Q29weXJpZ2h0PC9iPiBydWxlcyBmb3IgPGI-cG9kY2FzdDwvYj4gY2xpcHM_IC0gRmFjZWJvb2tCoQFVc2luZyA8Yj5jb3B5cmlnaHRlZDwvYj4gbXVzaWMgd2l0aG91dCBwZXJtaXNzaW9uIGNhbiBsZWFkIHRvIDxiPmNvcHlyaWdodCBpbmZyaW5nZW1lbnQgY2xhaW1zPC9iPiwgZXZlbiBpZiB5b3UmIzM5O3JlIDxiPm5vdDwvYj4gbW9uZXRpemluZyB5b3VyIDxiPnBvZGNhc3Q8L2I-LkoEd2hlbkoCdG9SA25vdCICEAFIAFgAaAA",
+        "source": "Facebook \u00b7 Buzzsprout Podcast Community"
+      },
+      {
+        "position": 5,
+        "title": "Podcasts: using copyrighted material - Library guides",
+        "link": "https://www.google.com/goto?url=CAESdQHEIkXXHruZvUjnbFl5PJFJ5Jp2WP8Flj-Z1JJOpnhhG5k305pGkhiMAAg9Wo1pt4Cc5dvkB74fmX3nAjAEJC3OhUU4w0ntFrem4Idg_2IW3CGQU16oriKLGI-TH8ja3a7CtWnXcEK3a0BDKsXgjFUgPSm1uw",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHEIkXXSWwsmPgvsAHj22hBx32YnDwbkl7Xz50iFlAGDp3Y6EeFP9Hx4G0_NFPwNAOM1o7ZyxLzSNm1EfvThwl6PDB5aP6A1cnR65kLZWlmeaOzhvIp4kVHW96ZshDy5KGX6I5l7ZoEve7lDmrWtDyOCYoyzQ&ved=2ahUKEwiTwofE25uYAxUvOUQIHdfOMWkQFnoECBAQAQ&uoh=1",
+        "displayed_link": "https://libguides.citystgeorges.ac.uk \u203a copyright \u203a podcasts",
+        "date": "1 Oct 2026",
+        "snippet": "Video: use only short extracts of copyrighted material, and make sure it is directly relevant to your topic. Don't circumvent any digital ...",
+        "snippet_highlighted_words": [
+          "use only short extracts of copyrighted material"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Video: use only short extracts of copyrighted material, and make sure it is directly relevant to your topic. Don't circumvent any digital ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESdQHEIkXXHruZvUjnbFl5PJFJ5Jp2WP8Flj-Z1JJOpnhhG5k305pGkhiMAAg9Wo1pt4Cc5dvkB74fmX3nAjAEJC3OhUU4w0ntFrem4Idg_2IW3CGQU16oriKLGI-TH8ja3a7CtWnXcEK3a0BDKsXgjFUgPSm1uw"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqwBL2dvdG8_dXJsPUNBRVNkUUhFSWtYWEhydVp2VWpuYkZsNVBKRko1SnAyV1A4RmxqLVoxSkpPcG5oaEc1azMwNXBHa2hpTUFBZzlXbzFwdDRDYzVkdmtCNzRmbVgzbkFqQUVKQzNPaFVVNHcwbnRGcmVtNElkZ18ySVczQ0dRVTE2b3JpS0xHSS1USDhqYTNhN0N0V25YY0VLM2EwQkRLc1hnakZVZ1BTbTF1dxIEGgIIABqHBxIAGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkDjBggAEAAYACAAKikKA2hvdxU_cIY_GgdwcmV2ZW50GgpwcmV2ZW50aW5nGghzdG9wcGluZyoJCgJ0bxUAAAAAKlYKBWF2b2lkFT8jXz4aB2F2b2lkZWQaCGF2b2lkaW5nGgNub3QaC3ByZXZlbnQgdGhlGgdwcmV2ZW50GgpwcmV2ZW50aW5nGgRzdG9wGghzdG9wcGluZyopCgljb3B5cmlnaHQVJPh-QBoLY29weXJpZ2h0ZWQaCmNvcHlyaWdodHMqQQoGY2xhaW1zFQAAAAAaBWNsYWltGgdjbGFpbWVkGghjbGFpbWluZxoMaW5mcmluZ2VtZW50GgppbmZyaW5naW5nKgsKBHdoZW4VAAAAACpXCgtyZXB1cnBvc2luZxUAAAAAGglyZXB1cnBvc2UaCnJlcHVycG9zZWQaBXJldXNlGhBpdjtwO3JlcHVycG9zaW5nGglyZWNvcmRpbmcaCHNlY3VyaW5nKjQKB3BvZGNhc3QVpK0hPxoKcG9kY2FzdGluZxoIcG9kY2FzdHMaDnBvZGNhc3Rjb250ZW50Kh4KB2NvbnRlbnQVhEecPBoOcG9kY2FzdGNvbnRlbnQyrAEvZ290bz91cmw9Q0FFU2RRSEVJa1hYSHJ1WnZVam5iRmw1UEpGSjVKcDJXUDhGbGotWjFKSk9wbmhoRzVrMzA1cEdraGlNQUFnOVdvMXB0NENjNWR2a0I3NGZtWDNuQWpBRUpDM09oVVU0dzBudEZyZW00SWRnXzJJVzNDR1FVMTZvcmlLTEdJLVRIOGphM2E3Q3RXblhjRUszYTBCREtzWGdqRlVnUFNtMXV3OkM8Yj5Qb2RjYXN0czwvYj46IHVzaW5nIDxiPmNvcHlyaWdodGVkPC9iPiBtYXRlcmlhbCAtIExpYnJhcnkgZ3VpZGVzQp0BVmlkZW86IDxiPnVzZSBvbmx5IHNob3J0IGV4dHJhY3RzIG9mIGNvcHlyaWdodGVkIG1hdGVyaWFsPC9iPiwgYW5kIG1ha2Ugc3VyZSBpdCBpcyBkaXJlY3RseSByZWxldmFudCB0byB5b3VyIHRvcGljLiBEb24mIzM5O3QgY2lyY3VtdmVudCBhbnkgZGlnaXRhbCZuYnNwOy4uLkoCdG9KBHdoZW5SA25vdCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqwBL2dvdG8_dXJsPUNBRVNkUUhFSWtYWEhydVp2VWpuYkZsNVBKRko1SnAyV1A4RmxqLVoxSkpPcG5oaEc1azMwNXBHa2hpTUFBZzlXbzFwdDRDYzVkdmtCNzRmbVgzbkFqQUVKQzNPaFVVNHcwbnRGcmVtNElkZ18ySVczQ0dRVTE2b3JpS0xHSS1USDhqYTNhN0N0V25YY0VLM2EwQkRLc1hnakZVZ1BTbTF1dxIEGgIIABqHBxIAGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkDjBggAEAAYACAAKikKA2hvdxU_cIY_GgdwcmV2ZW50GgpwcmV2ZW50aW5nGghzdG9wcGluZyoJCgJ0bxUAAAAAKlYKBWF2b2lkFT8jXz4aB2F2b2lkZWQaCGF2b2lkaW5nGgNub3QaC3ByZXZlbnQgdGhlGgdwcmV2ZW50GgpwcmV2ZW50aW5nGgRzdG9wGghzdG9wcGluZyopCgljb3B5cmlnaHQVJPh-QBoLY29weXJpZ2h0ZWQaCmNvcHlyaWdodHMqQQoGY2xhaW1zFQAAAAAaBWNsYWltGgdjbGFpbWVkGghjbGFpbWluZxoMaW5mcmluZ2VtZW50GgppbmZyaW5naW5nKgsKBHdoZW4VAAAAACpXCgtyZXB1cnBvc2luZxUAAAAAGglyZXB1cnBvc2UaCnJlcHVycG9zZWQaBXJldXNlGhBpdjtwO3JlcHVycG9zaW5nGglyZWNvcmRpbmcaCHNlY3VyaW5nKjQKB3BvZGNhc3QVpK0hPxoKcG9kY2FzdGluZxoIcG9kY2FzdHMaDnBvZGNhc3Rjb250ZW50Kh4KB2NvbnRlbnQVhEecPBoOcG9kY2FzdGNvbnRlbnQyrAEvZ290bz91cmw9Q0FFU2RRSEVJa1hYSHJ1WnZVam5iRmw1UEpGSjVKcDJXUDhGbGotWjFKSk9wbmhoRzVrMzA1cEdraGlNQUFnOVdvMXB0NENjNWR2a0I3NGZtWDNuQWpBRUpDM09oVVU0dzBudEZyZW00SWRnXzJJVzNDR1FVMTZvcmlLTEdJLVRIOGphM2E3Q3RXblhjRUszYTBCREtzWGdqRlVnUFNtMXV3OkM8Yj5Qb2RjYXN0czwvYj46IHVzaW5nIDxiPmNvcHlyaWdodGVkPC9iPiBtYXRlcmlhbCAtIExpYnJhcnkgZ3VpZGVzQp0BVmlkZW86IDxiPnVzZSBvbmx5IHNob3J0IGV4dHJhY3RzIG9mIGNvcHlyaWdodGVkIG1hdGVyaWFsPC9iPiwgYW5kIG1ha2Ugc3VyZSBpdCBpcyBkaXJlY3RseSByZWxldmFudCB0byB5b3VyIHRvcGljLiBEb24mIzM5O3QgY2lyY3VtdmVudCBhbnkgZGlnaXRhbCZuYnNwOy4uLkoCdG9KBHdoZW5SA25vdCICEAFIAFgAaAA",
+        "source": "City St George's, University of London"
+      },
+      {
+        "position": 6,
+        "title": "Podcast Clips on Social Media: The Hidden Copyright Trap",
+        "link": "https://www.google.com/goto?url=CAESjQEBxCJF16ZZZenHbWdakmj2IU9fJXTeoeqTv4B_B299xcRGTH7pJeZq_U_2beyGrAcKO9XBo3e_9s374KD5jNCmKpXCgWz-R3PYGFl2giXimVgiavtegrSC5UsRnouQkQ4AzNhyuP6HGy9TVjDW42ID2T893SM_kdwLQlFT81_KyUkMvtUvjSGK2EzoHeU",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjQEBxCJF14KYDQ-22y4AV27vhHw7WqOcfeqLjn4tOfcsC1NTw6ngwxfOvv-az0G-bWZjf6b-IKulLULyFZ7-n_0LoOHMpDpC-iqUiIR06YgSAFKRRKxfLKW2BIuGXZu2Im5hbsIOb3I3MwFdWUrNmAPUj8CCFI8eTHWXO5KnCMSbXwOb9bCQVi1LYUk9jOs&ved=2ahUKEwiTwofE25uYAxUvOUQIHdfOMWkQFnoECBMQAQ&uoh=1",
+        "displayed_link": "https://sriplaw.com \u203a blog \u203a why-your-podcast-clips-mi...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAALVBMVEVHcEzxVznxVznxVznxVznxVznxVznxVznxVznxVznxVznxVznxVznxVznxVzkVbDB7AAAAD3RSTlMAMX224__tV2oRziFJnY6kPLgSAAAA6UlEQVR4AUXPIUjEYBjG8UcOthtbWHD9QISzGISLgmX9ZPvPc25iWbddvWJP1y2LwoEI2g7hms0qtiv2jtv23b5f-8P7hketo5M4uwhluDFAtlLHq-mkG7UijKJ7ZLCVtGZxTO9OUs2zSy-VXLgdYazkYPGgCItrnZL-nnM5zZd7KDUj2QR86GyqmlwVlAFozZUDwuSMwsVmxb1gOIZEFaqxGefaD1mKUpHJmoVPIadJF7RjPmKuMemP943_noZPTKQ4-Vp-4hd6JZP0Rss7zA9sPqqxO-SNWn4FCLJQnXGfExnBX6aXrRr_nidoQDY1D44AAAAASUVORK5CYII.png",
+        "date": "4 Aug 2026",
+        "snippet": "Treat podcast clips as a new copyright clearance item, not a simple content reuse; Add \"music clearance for podcast-derived clips\" to your ...",
+        "snippet_highlighted_words": [
+          "Treat podcast clips as a new copyright clearance item"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Treat podcast clips as a new copyright clearance item, not a simple content reuse; Add \"music clearance for podcast-derived clips\" to your ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESjQEBxCJF16ZZZenHbWdakmj2IU9fJXTeoeqTv4B_B299xcRGTH7pJeZq_U_2beyGrAcKO9XBo3e_9s374KD5jNCmKpXCgWz-R3PYGFl2giXimVgiavtegrSC5UsRnouQkQ4AzNhyuP6HGy9TVjDW42ID2T893SM_kdwLQlFT81_KyUkMvtUvjSGK2EzoHeU",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAALVBMVEVHcEzxVznxVznxVznxVznxVznxVznxVznxVznxVznxVznxVznxVznxVznxVzkVbDB7AAAAD3RSTlMAMX224__tV2oRziFJnY6kPLgSAAAA6UlEQVR4AUXPIUjEYBjG8UcOthtbWHD9QISzGISLgmX9ZPvPc25iWbddvWJP1y2LwoEI2g7hms0qtiv2jtv23b5f-8P7hketo5M4uwhluDFAtlLHq-mkG7UijKJ7ZLCVtGZxTO9OUs2zSy-VXLgdYazkYPGgCItrnZL-nnM5zZd7KDUj2QR86GyqmlwVlAFozZUDwuSMwsVmxb1gOIZEFaqxGefaD1mKUpHJmoVPIadJF7RjPmKuMemP943_noZPTKQ4-Vp-4hd6JZP0Rss7zA9sPqqxO-SNWn4FCLJQnXGfExnBX6aXrRr_nidoQDY1D44AAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cs0BL2dvdG8_dXJsPUNBRVNqUUVCeENKRjE2WlpaZW5IYldkYWttajJJVTlmSlhUZW9lcVR2NEJfQjI5OXhjUkdUSDdwSmVacV9VXzJiZXlHckFjS085WEJvM2VfOXMzNzRLRDVqTkNtS3BYQ2dXei1SM1BZR0ZsMmdpWGltVmdpYXZ0ZWdyU0M1VXNSbm91UWtRNEF6Tmh5dVA2SEd5OVRWakRXNDJJRDJUODkzU01fa2R3TFFsRlQ4MV9LeVVrTXZ0VXZqU0dLMkV6b0hlVRIEGgIIABq0BxICCAAaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQI4HCAAQABgAIAAqKQoDaG93FQAAAAAaB3ByZXZlbnQaCnByZXZlbnRpbmcaCHN0b3BwaW5nKgkKAnRvFQAAAAAqVgoFYXZvaWQVAAAAABoHYXZvaWRlZBoIYXZvaWRpbmcaA25vdBoLcHJldmVudCB0aGUaB3ByZXZlbnQaCnByZXZlbnRpbmcaBHN0b3AaCHN0b3BwaW5nKikKCWNvcHlyaWdodBWEFKJAGgtjb3B5cmlnaHRlZBoKY29weXJpZ2h0cypBCgZjbGFpbXMV3TjkPhoFY2xhaW0aB2NsYWltZWQaCGNsYWltaW5nGgxpbmZyaW5nZW1lbnQaCmluZnJpbmdpbmcqCwoEd2hlbhUAAAAAKlcKC3JlcHVycG9zaW5nFZGJyj8aCXJlcHVycG9zZRoKcmVwdXJwb3NlZBoFcmV1c2UaEGl2O3A7cmVwdXJwb3NpbmcaCXJlY29yZGluZxoIc2VjdXJpbmcqNAoHcG9kY2FzdBWq_NJAGgpwb2RjYXN0aW5nGghwb2RjYXN0cxoOcG9kY2FzdGNvbnRlbnQqHgoHY29udGVudBVTXh1AGg5wb2RjYXN0Y29udGVudDLNAS9nb3RvP3VybD1DQUVTalFFQnhDSkYxNlpaWmVuSGJXZGFrbWoySVU5ZkpYVGVvZXFUdjRCX0IyOTl4Y1JHVEg3cEplWnFfVV8yYmV5R3JBY0tPOVhCbzNlXzlzMzc0S0Q1ak5DbUtwWENnV3otUjNQWUdGbDJnaVhpbVZnaWF2dGVnclNDNVVzUm5vdVFrUTRBek5oeXVQNkhHeTlUVmpEVzQySUQyVDg5M1NNX2tkd0xRbEZUODFfS3lVa012dFV2alNHSzJFem9IZVU6RjxiPlBvZGNhc3Q8L2I-IENsaXBzIG9uIFNvY2lhbCBNZWRpYTogVGhlIEhpZGRlbiA8Yj5Db3B5cmlnaHQ8L2I-IFRyYXBCpAE8Yj5UcmVhdCBwb2RjYXN0IGNsaXBzIGFzIGEgbmV3IGNvcHlyaWdodCBjbGVhcmFuY2UgaXRlbTwvYj4sIG5vdCBhIHNpbXBsZSBjb250ZW50IHJldXNlOyBBZGQgJnF1b3Q7bXVzaWMgY2xlYXJhbmNlIGZvciBwb2RjYXN0LWRlcml2ZWQgY2xpcHMmcXVvdDsgdG8geW91ciZuYnNwOy4uLkoEd2hlbkoCdG9SA25vdCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs0BL2dvdG8_dXJsPUNBRVNqUUVCeENKRjE2WlpaZW5IYldkYWttajJJVTlmSlhUZW9lcVR2NEJfQjI5OXhjUkdUSDdwSmVacV9VXzJiZXlHckFjS085WEJvM2VfOXMzNzRLRDVqTkNtS3BYQ2dXei1SM1BZR0ZsMmdpWGltVmdpYXZ0ZWdyU0M1VXNSbm91UWtRNEF6Tmh5dVA2SEd5OVRWakRXNDJJRDJUODkzU01fa2R3TFFsRlQ4MV9LeVVrTXZ0VXZqU0dLMkV6b0hlVRIEGgIIABq0BxICCAAaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQI4HCAAQABgAIAAqKQoDaG93FQAAAAAaB3ByZXZlbnQaCnByZXZlbnRpbmcaCHN0b3BwaW5nKgkKAnRvFQAAAAAqVgoFYXZvaWQVAAAAABoHYXZvaWRlZBoIYXZvaWRpbmcaA25vdBoLcHJldmVudCB0aGUaB3ByZXZlbnQaCnByZXZlbnRpbmcaBHN0b3AaCHN0b3BwaW5nKikKCWNvcHlyaWdodBWEFKJAGgtjb3B5cmlnaHRlZBoKY29weXJpZ2h0cypBCgZjbGFpbXMV3TjkPhoFY2xhaW0aB2NsYWltZWQaCGNsYWltaW5nGgxpbmZyaW5nZW1lbnQaCmluZnJpbmdpbmcqCwoEd2hlbhUAAAAAKlcKC3JlcHVycG9zaW5nFZGJyj8aCXJlcHVycG9zZRoKcmVwdXJwb3NlZBoFcmV1c2UaEGl2O3A7cmVwdXJwb3NpbmcaCXJlY29yZGluZxoIc2VjdXJpbmcqNAoHcG9kY2FzdBWq_NJAGgpwb2RjYXN0aW5nGghwb2RjYXN0cxoOcG9kY2FzdGNvbnRlbnQqHgoHY29udGVudBVTXh1AGg5wb2RjYXN0Y29udGVudDLNAS9nb3RvP3VybD1DQUVTalFFQnhDSkYxNlpaWmVuSGJXZGFrbWoySVU5ZkpYVGVvZXFUdjRCX0IyOTl4Y1JHVEg3cEplWnFfVV8yYmV5R3JBY0tPOVhCbzNlXzlzMzc0S0Q1ak5DbUtwWENnV3otUjNQWUdGbDJnaVhpbVZnaWF2dGVnclNDNVVzUm5vdVFrUTRBek5oeXVQNkhHeTlUVmpEVzQySUQyVDg5M1NNX2tkd0xRbEZUODFfS3lVa012dFV2alNHSzJFem9IZVU6RjxiPlBvZGNhc3Q8L2I-IENsaXBzIG9uIFNvY2lhbCBNZWRpYTogVGhlIEhpZGRlbiA8Yj5Db3B5cmlnaHQ8L2I-IFRyYXBCpAE8Yj5UcmVhdCBwb2RjYXN0IGNsaXBzIGFzIGEgbmV3IGNvcHlyaWdodCBjbGVhcmFuY2UgaXRlbTwvYj4sIG5vdCBhIHNpbXBsZSBjb250ZW50IHJldXNlOyBBZGQgJnF1b3Q7bXVzaWMgY2xlYXJhbmNlIGZvciBwb2RjYXN0LWRlcml2ZWQgY2xpcHMmcXVvdDsgdG8geW91ciZuYnNwOy4uLkoEd2hlbkoCdG9SA25vdCICEAFIAFgAaAA",
+        "source": "SRIPLAW",
+        "read_more_link": "https://www.google.com/goto?url=CAES4gEBxCJF17ylL8sXF3OlcT59VrDrgLgYAPnKJdR6z4Kqj1N0xryhFtUS49MEoFRQx_kRvQpHH9wU_gp7BeQnT74C9k1Ab3mpkcjU3DZU8bfKYM7ozByVjJ-mQQVPXfJKBRZeIVwe5qVv2VAbaX8dwf9iC2RWmmrkQ3LQ0QyqSrYTLVNTegCUxBKhDjeTRePS20wY0C5lj_nN0KGlZnKfV0VPJdg56g6H1Xf9sa8NCoJAhJy6TFMMSv6ZzD3dDGyhZCR50lDEe0k-kUsjtXfiq-93-rx1c7sZR2XrFClxAcuNMxpC&gsessionid=XABai0GgkHmaaURdnZJtfR1cvLmNDpwByZSf_761aiXVsRLcqF9Z7A"
+      },
+      {
+        "position": 7,
+        "title": "Podcasting Legal Guide - CC Public Wiki",
+        "link": "https://www.google.com/goto?url=CAESeQHEIkXXI7QFdxbk5HopZpqlRg53uA6JTe2oiNSPbB-1YqqsGuKfwOoDkY3uLPBdb1YcIPIrNRWCCkbgrNageG4PzVU1wKfuf_yDjtP03XagO-vLzGPDZ2xcSppfFCi-gMqYy1kUFXK6ocavWAdJU7XetTVlrFnE8XA",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHEIkXXf4n80YMq8Z28hxq7U6jxNLt7R2cH2IZX2JlhXXzNzbthd9MHUUzOa10Bi5DknMT9ZUAehfC4LQUJFGtjQud9ZWUfvsGpKkj-2oVoKV5-CP5I2x8mwQ2CkARhXhevzcqLK9R_kxeU5Z9Gjzo2_mUse_44ONA&ved=2ahUKEwiTwofE25uYAxUvOUQIHdfOMWkQFnoECA0QAQ&uoh=1",
+        "displayed_link": "https://wiki.creativecommons.org \u203a wiki \u203a Podcasting_Le...",
+        "favicon": "https://serpapi.com/searches/6b02f27bc0714ebd075b60c6/images/7kDD0mrGHDzRlrLtNBZOprNG0h6D9pxWkLTf2OOtZlc.png",
+        "snippet": "If the work contains recognizable third-party content, it may be advisable to independently verify that it has been authorized for reuse under a Creative ...",
+        "snippet_highlighted_words": [
+          "content",
+          "reuse"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "If the work contains recognizable third-party content, it may be advisable to independently verify that it has been authorized for reuse under a Creative ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESeQHEIkXXI7QFdxbk5HopZpqlRg53uA6JTe2oiNSPbB-1YqqsGuKfwOoDkY3uLPBdb1YcIPIrNRWCCkbgrNageG4PzVU1wKfuf_yDjtP03XagO-vLzGPDZ2xcSppfFCi-gMqYy1kUFXK6ocavWAdJU7XetTVlrFnE8XA",
+            "icon": "https://serpapi.com/searches/6b02f27bc0714ebd075b60c6/images/7kDD0mrGHDzRlrLtNBZOpqK1ZG2kkKq80igNTXPK463X1hgNEYWD5_RZYKL0llFM.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhFSWtYWEk3UUZkeGJrNUhvcFpwcWxSZzUzdUE2SlRlMm9pTlNQYkItMVlxcXNHdUtmd09vRGtZM3VMUEJkYjFZY0lQSXJOUldDQ2tiZ3JOYWdlRzRQelZVMXdLZnVmX3lEanRQMDNYYWdPLXZMekdQRFoyeGNTcHBmRkNpLWdNcVl5MWtVRlhLNm9jYXZXQWRKVTdYZXRUVmxyRm5FOFhBEgQaAggAGowHEgIIABoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJA5gYIABAAGAAgACopCgNob3cVCo2lPxoHcHJldmVudBoKcHJldmVudGluZxoIc3RvcHBpbmcqCQoCdG8VAAAAACpWCgVhdm9pZBVKxUQ9Ggdhdm9pZGVkGghhdm9pZGluZxoDbm90GgtwcmV2ZW50IHRoZRoHcHJldmVudBoKcHJldmVudGluZxoEc3RvcBoIc3RvcHBpbmcqKQoJY29weXJpZ2h0FdlVzz8aC2NvcHlyaWdodGVkGgpjb3B5cmlnaHRzKkEKBmNsYWltcxVHbWk9GgVjbGFpbRoHY2xhaW1lZBoIY2xhaW1pbmcaDGluZnJpbmdlbWVudBoKaW5mcmluZ2luZyoLCgR3aGVuFQAAAAAqVwoLcmVwdXJwb3NpbmcVAAAAABoJcmVwdXJwb3NlGgpyZXB1cnBvc2VkGgVyZXVzZRoQaXY7cDtyZXB1cnBvc2luZxoJcmVjb3JkaW5nGghzZWN1cmluZyo0Cgdwb2RjYXN0Fc_zBkAaCnBvZGNhc3RpbmcaCHBvZGNhc3RzGg5wb2RjYXN0Y29udGVudCoeCgdjb250ZW50FVch3D8aDnBvZGNhc3Rjb250ZW50MrEBL2dvdG8_dXJsPUNBRVNlUUhFSWtYWEk3UUZkeGJrNUhvcFpwcWxSZzUzdUE2SlRlMm9pTlNQYkItMVlxcXNHdUtmd09vRGtZM3VMUEJkYjFZY0lQSXJOUldDQ2tiZ3JOYWdlRzRQelZVMXdLZnVmX3lEanRQMDNYYWdPLXZMekdQRFoyeGNTcHBmRkNpLWdNcVl5MWtVRlhLNm9jYXZXQWRKVTdYZXRUVmxyRm5FOFhBOi48Yj5Qb2RjYXN0aW5nPC9iPiBMZWdhbCBHdWlkZSAtIENDIFB1YmxpYyBXaWtpQrABSWYgdGhlIHdvcmsgY29udGFpbnMgcmVjb2duaXphYmxlIHRoaXJkLXBhcnR5IDxiPmNvbnRlbnQ8L2I-LCBpdCBtYXkgYmUgYWR2aXNhYmxlIHRvIGluZGVwZW5kZW50bHkgdmVyaWZ5IHRoYXQgaXQgaGFzIGJlZW4gYXV0aG9yaXplZCBmb3IgPGI-cmV1c2U8L2I-IHVuZGVyIGEgQ3JlYXRpdmUmbmJzcDsuLi5KBHdoZW5KAnRvUgNub3QiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhFSWtYWEk3UUZkeGJrNUhvcFpwcWxSZzUzdUE2SlRlMm9pTlNQYkItMVlxcXNHdUtmd09vRGtZM3VMUEJkYjFZY0lQSXJOUldDQ2tiZ3JOYWdlRzRQelZVMXdLZnVmX3lEanRQMDNYYWdPLXZMekdQRFoyeGNTcHBmRkNpLWdNcVl5MWtVRlhLNm9jYXZXQWRKVTdYZXRUVmxyRm5FOFhBEgQaAggAGowHEgIIABoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJA5gYIABAAGAAgACopCgNob3cVCo2lPxoHcHJldmVudBoKcHJldmVudGluZxoIc3RvcHBpbmcqCQoCdG8VAAAAACpWCgVhdm9pZBVKxUQ9Ggdhdm9pZGVkGghhdm9pZGluZxoDbm90GgtwcmV2ZW50IHRoZRoHcHJldmVudBoKcHJldmVudGluZxoEc3RvcBoIc3RvcHBpbmcqKQoJY29weXJpZ2h0FdlVzz8aC2NvcHlyaWdodGVkGgpjb3B5cmlnaHRzKkEKBmNsYWltcxVHbWk9GgVjbGFpbRoHY2xhaW1lZBoIY2xhaW1pbmcaDGluZnJpbmdlbWVudBoKaW5mcmluZ2luZyoLCgR3aGVuFQAAAAAqVwoLcmVwdXJwb3NpbmcVAAAAABoJcmVwdXJwb3NlGgpyZXB1cnBvc2VkGgVyZXVzZRoQaXY7cDtyZXB1cnBvc2luZxoJcmVjb3JkaW5nGghzZWN1cmluZyo0Cgdwb2RjYXN0Fc_zBkAaCnBvZGNhc3RpbmcaCHBvZGNhc3RzGg5wb2RjYXN0Y29udGVudCoeCgdjb250ZW50FVch3D8aDnBvZGNhc3Rjb250ZW50MrEBL2dvdG8_dXJsPUNBRVNlUUhFSWtYWEk3UUZkeGJrNUhvcFpwcWxSZzUzdUE2SlRlMm9pTlNQYkItMVlxcXNHdUtmd09vRGtZM3VMUEJkYjFZY0lQSXJOUldDQ2tiZ3JOYWdlRzRQelZVMXdLZnVmX3lEanRQMDNYYWdPLXZMekdQRFoyeGNTcHBmRkNpLWdNcVl5MWtVRlhLNm9jYXZXQWRKVTdYZXRUVmxyRm5FOFhBOi48Yj5Qb2RjYXN0aW5nPC9iPiBMZWdhbCBHdWlkZSAtIENDIFB1YmxpYyBXaWtpQrABSWYgdGhlIHdvcmsgY29udGFpbnMgcmVjb2duaXphYmxlIHRoaXJkLXBhcnR5IDxiPmNvbnRlbnQ8L2I-LCBpdCBtYXkgYmUgYWR2aXNhYmxlIHRvIGluZGVwZW5kZW50bHkgdmVyaWZ5IHRoYXQgaXQgaGFzIGJlZW4gYXV0aG9yaXplZCBmb3IgPGI-cmV1c2U8L2I-IHVuZGVyIGEgQ3JlYXRpdmUmbmJzcDsuLi5KBHdoZW5KAnRvUgNub3QiAhABSABYAGgA",
+        "source": "WIKI Creative Commons",
+        "read_more_link": "https://www.google.com/goto?url=CAES1gEBxCJF18RmvZ7ywJm2X59H53gJsA_mkzRuklhnjW4f0HH7vsyazHo1HPGW4kw2tf9SlRkKAWj5ssoPQdcdvGPySMfvWj9vtbKUDsjsE6DdgWmmvQ90Gx43kfIu8-A9jKsM61OGCnfSe2zv5WZiGo4XJCgkX7r6bGnd6gfsZofv5Rfvl_UY0GyHDIUrUIOq_8KpJQrF5hw47n6Hqips1MMiysMvPtXCagJ-ofaYC1YM2Q3M0UOcCLd8LmD_Mvljtn0LAxPOrTQ7ER-oaY08Ih8A4LIe4rVG&gsessionid=XABai0GgkHmaaURdnZJtfR1cvLmNDpwByZSf_761aiXVsRLcqF9Z7A"
+      },
+      {
+        "position": 8,
+        "title": "If I use 10 minutes of a podcast adding music to it , stock ...",
+        "link": "https://www.google.com/goto?url=CAESvwEBxCJF176R2IG2FNOKSoni3jo8PVfYcZYYp0VS4m1ajqXZIvDcon_JNwxl3KtzyZDFlSY2HY5jicvsk8gnxYHQ6IujIQYgZjGAO_rp800OEwWpxSqxtb83Blbf0WiiwDOgxxi91cET0Wj5fvJMBiEruYrD2BxxOw5WqcQ6qPC6D4ICAHWn00Du0BNhvp7s7Xz-BPpk0DW-Dy1ME1ehhYZHBMPSO6oQAg0-Iwaxzhaffv4Rt-DIKSW5EyQ7mM_PLA",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvwEBxCJF17RFTgfmqwQkA7hmMnLxo3oAuKpBoLblzWothEWpDxuNN7hQz5w_wchEB_M-Naf9Mr4pMNET2T28Bdkkbb3NsN-Mg88jXECoUIkrrkLAhwQ2wOPqKT3-_BxaATHxb7IQuOcY4RfMncx3sva0_LoAReMSY7lbXZewjqtTa1EelxRBZhzZgopu8fOFzldnP5OBgjMXomzZ7_IySPWj4cCxFDgcxKsasWl7B8hETEgrYSuv6SkMbnLIP1P97w&ved=2ahUKEwiTwofE25uYAxUvOUQIHdfOMWkQFnoECFsQAQ&uoh=1",
+        "displayed_link": "30+ answers",
+        "date": "3 years ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png",
+        "snippet": "If I use 10 minutes of a podcast adding music to it , stock videos and subtitles will I get a copyright claim?",
+        "about_this_result": {
+          "source": {
+            "description": "If I use 10 minutes of a podcast adding music to it , stock videos and subtitles will I get a copyright claim? ... Yes\u2014Using copyrighted material ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESvwEBxCJF176R2IG2FNOKSoni3jo8PVfYcZYYp0VS4m1ajqXZIvDcon_JNwxl3KtzyZDFlSY2HY5jicvsk8gnxYHQ6IujIQYgZjGAO_rp800OEwWpxSqxtb83Blbf0WiiwDOgxxi91cET0Wj5fvJMBiEruYrD2BxxOw5WqcQ6qPC6D4ICAHWn00Du0BNhvp7s7Xz-BPpk0DW-Dy1ME1ehhYZHBMPSO6oQAg0-Iwaxzhaffv4Rt-DIKSW5EyQ7mM_PLA",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpACL2dvdG8_dXJsPUNBRVN2d0VCeENKRjE3NlIySUcyRk5PS1Nvbmkzam84UFZmWWNaWVlwMFZTNG0xYWpxWFpJdkRjb25fSk53eGwzS3R6eVpERmxTWTJIWTVqaWN2c2s4Z254WUhRNkl1aklRWWdaakdBT19ycDgwME9Fd1dweFNxeHRiODNCbGJmMFdpaXdET2d4eGk5MWNFVDBXajVmdkpNQmlFcnVZckQyQnh4T3c1V3FjUTZxUEM2RDRJQ0FIV24wMER1MEJOaHZwN3M3WHotQlBwazBEVy1EeTFNRTFlaGhZWkhCTVBTTzZvUUFnMC1Jd2F4emhhZmZ2NFJ0LURJS1NXNUV5UTdtTV9QTEESBBoCCAAagggSABoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJA3gcIABAAGAAgACopCgNob3cVej6TPxoHcHJldmVudBoKcHJldmVudGluZxoIc3RvcHBpbmcqCQoCdG8VAAAAACpWCgVhdm9pZBUoERY_Ggdhdm9pZGVkGghhdm9pZGluZxoDbm90GgtwcmV2ZW50IHRoZRoHcHJldmVudBoKcHJldmVudGluZxoEc3RvcBoIc3RvcHBpbmcqKQoJY29weXJpZ2h0FbUOH0AaC2NvcHlyaWdodGVkGgpjb3B5cmlnaHRzKkEKBmNsYWltcxVHTYw9GgVjbGFpbRoHY2xhaW1lZBoIY2xhaW1pbmcaDGluZnJpbmdlbWVudBoKaW5mcmluZ2luZyoLCgR3aGVuFQAAAAAqVwoLcmVwdXJwb3NpbmcV2lyOOxoJcmVwdXJwb3NlGgpyZXB1cnBvc2VkGgVyZXVzZRoQaXY7cDtyZXB1cnBvc2luZxoJcmVjb3JkaW5nGghzZWN1cmluZyo0Cgdwb2RjYXN0FRbKMEAaCnBvZGNhc3RpbmcaCHBvZGNhc3RzGg5wb2RjYXN0Y29udGVudCoeCgdjb250ZW50FbiTDj8aDnBvZGNhc3Rjb250ZW50MpACL2dvdG8_dXJsPUNBRVN2d0VCeENKRjE3NlIySUcyRk5PS1Nvbmkzam84UFZmWWNaWVlwMFZTNG0xYWpxWFpJdkRjb25fSk53eGwzS3R6eVpERmxTWTJIWTVqaWN2c2s4Z254WUhRNkl1aklRWWdaakdBT19ycDgwME9Fd1dweFNxeHRiODNCbGJmMFdpaXdET2d4eGk5MWNFVDBXajVmdkpNQmlFcnVZckQyQnh4T3c1V3FjUTZxUEM2RDRJQ0FIV24wMER1MEJOaHZwN3M3WHotQlBwazBEVy1EeTFNRTFlaGhZWkhCTVBTTzZvUUFnMC1Jd2F4emhhZmZ2NFJ0LURJS1NXNUV5UTdtTV9QTEE6RklmIEkgdXNlIDEwIG1pbnV0ZXMgb2YgYSA8Yj5wb2RjYXN0PC9iPiBhZGRpbmcgbXVzaWMgdG8gaXQgLCBzdG9jayAuLi5CsQFJZiBJIHVzZSAxMCBtaW51dGVzIG9mIGEgPGI-cG9kY2FzdDwvYj4gYWRkaW5nIG11c2ljIHRvIGl0ICwgc3RvY2sgdmlkZW9zIGFuZCBzdWJ0aXRsZXMgd2lsbCBJIGdldCBhIDxiPmNvcHlyaWdodCBjbGFpbTwvYj4_IC4uLiBZZXPigJRVc2luZyA8Yj5jb3B5cmlnaHRlZDwvYj4gbWF0ZXJpYWwmbmJzcDsuLi5KBHdoZW5KAnRvUgNub3QiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpACL2dvdG8_dXJsPUNBRVN2d0VCeENKRjE3NlIySUcyRk5PS1Nvbmkzam84UFZmWWNaWVlwMFZTNG0xYWpxWFpJdkRjb25fSk53eGwzS3R6eVpERmxTWTJIWTVqaWN2c2s4Z254WUhRNkl1aklRWWdaakdBT19ycDgwME9Fd1dweFNxeHRiODNCbGJmMFdpaXdET2d4eGk5MWNFVDBXajVmdkpNQmlFcnVZckQyQnh4T3c1V3FjUTZxUEM2RDRJQ0FIV24wMER1MEJOaHZwN3M3WHotQlBwazBEVy1EeTFNRTFlaGhZWkhCTVBTTzZvUUFnMC1Jd2F4emhhZmZ2NFJ0LURJS1NXNUV5UTdtTV9QTEESBBoCCAAagggSABoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJA3gcIABAAGAAgACopCgNob3cVej6TPxoHcHJldmVudBoKcHJldmVudGluZxoIc3RvcHBpbmcqCQoCdG8VAAAAACpWCgVhdm9pZBUoERY_Ggdhdm9pZGVkGghhdm9pZGluZxoDbm90GgtwcmV2ZW50IHRoZRoHcHJldmVudBoKcHJldmVudGluZxoEc3RvcBoIc3RvcHBpbmcqKQoJY29weXJpZ2h0FbUOH0AaC2NvcHlyaWdodGVkGgpjb3B5cmlnaHRzKkEKBmNsYWltcxVHTYw9GgVjbGFpbRoHY2xhaW1lZBoIY2xhaW1pbmcaDGluZnJpbmdlbWVudBoKaW5mcmluZ2luZyoLCgR3aGVuFQAAAAAqVwoLcmVwdXJwb3NpbmcV2lyOOxoJcmVwdXJwb3NlGgpyZXB1cnBvc2VkGgVyZXVzZRoQaXY7cDtyZXB1cnBvc2luZxoJcmVjb3JkaW5nGghzZWN1cmluZyo0Cgdwb2RjYXN0FRbKMEAaCnBvZGNhc3RpbmcaCHBvZGNhc3RzGg5wb2RjYXN0Y29udGVudCoeCgdjb250ZW50FbiTDj8aDnBvZGNhc3Rjb250ZW50MpACL2dvdG8_dXJsPUNBRVN2d0VCeENKRjE3NlIySUcyRk5PS1Nvbmkzam84UFZmWWNaWVlwMFZTNG0xYWpxWFpJdkRjb25fSk53eGwzS3R6eVpERmxTWTJIWTVqaWN2c2s4Z254WUhRNkl1aklRWWdaakdBT19ycDgwME9Fd1dweFNxeHRiODNCbGJmMFdpaXdET2d4eGk5MWNFVDBXajVmdkpNQmlFcnVZckQyQnh4T3c1V3FjUTZxUEM2RDRJQ0FIV24wMER1MEJOaHZwN3M3WHotQlBwazBEVy1EeTFNRTFlaGhZWkhCTVBTTzZvUUFnMC1Jd2F4emhhZmZ2NFJ0LURJS1NXNUV5UTdtTV9QTEE6RklmIEkgdXNlIDEwIG1pbnV0ZXMgb2YgYSA8Yj5wb2RjYXN0PC9iPiBhZGRpbmcgbXVzaWMgdG8gaXQgLCBzdG9jayAuLi5CsQFJZiBJIHVzZSAxMCBtaW51dGVzIG9mIGEgPGI-cG9kY2FzdDwvYj4gYWRkaW5nIG11c2ljIHRvIGl0ICwgc3RvY2sgdmlkZW9zIGFuZCBzdWJ0aXRsZXMgd2lsbCBJIGdldCBhIDxiPmNvcHlyaWdodCBjbGFpbTwvYj4_IC4uLiBZZXPigJRVc2luZyA8Yj5jb3B5cmlnaHRlZDwvYj4gbWF0ZXJpYWwmbmJzcDsuLi5KBHdoZW5KAnRvUgNub3QiAhABSABYAGgA",
+        "source": "Quora"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "How to avoid copyright claims when repurposing podcast content youtube",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDhcR2EjFMCfutaN4XLn5K_jY888fw:1795355259829&q=How+to+avoid+copyright+claims+when+repurposing+podcast+content+youtube&sa=X&ved=2ahUKEwiTwofE25uYAxUvOUQIHdfOMWkQ1QJ6BAhZEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+avoid+copyright+claims+when+repurposing+podcast+content+youtube"
+      },
+      {
+        "block_position": 1,
+        "query": "Royalty free music",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDhcR2EjFMCfutaN4XLn5K_jY888fw:1795355259829&q=Royalty+free+music&sa=X&ved=2ahUKEwiTwofE25uYAxUvOUQIHdfOMWkQ1QJ6BAhXEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Royalty+free+music"
+      },
+      {
+        "block_position": 1,
+        "query": "Epidemic Sound",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDhcR2EjFMCfutaN4XLn5K_jY888fw:1795355259829&q=Epidemic+Sound&sa=X&ved=2ahUKEwiTwofE25uYAxUvOUQIHdfOMWkQ1QJ6BAhYEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Epidemic+Sound"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=How+to+avoid+copyright+claims+when+repurposing+podcast+content&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDhcR2EjFMCfutaN4XLn5K_jY888fw:1795355259829&ei=e_ICa9OYMq_ykPIP153HyQY&start=10&sa=N&sstk=AYl2yk87wXVEEJEg0dCK3ga_VIKToPAr4FXLw_JHLE05Io54ka9U-e2B8CWRExFYj3NrudJJ1Kv5HISOcvdGMS1VmgsHi76qldsY7w&ved=2ahUKEwiTwofE25uYAxUvOUQIHdfOMWkQ8NMDegQIVRAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=How+to+avoid+copyright+claims+when+repurposing+podcast+content&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDhcR2EjFMCfutaN4XLn5K_jY888fw:1795355259829&ei=e_ICa9OYMq_ykPIP153HyQY&start=10&sa=N&sstk=AYl2yk87wXVEEJEg0dCK3ga_VIKToPAr4FXLw_JHLE05Io54ka9U-e2B8CWRExFYj3NrudJJ1Kv5HISOcvdGMS1VmgsHi76qldsY7w&ved=2ahUKEwiTwofE25uYAxUvOUQIHdfOMWkQ8tMDegQIVRAE",
+        "3": "https://www.google.com/search?q=How+to+avoid+copyright+claims+when+repurposing+podcast+content&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDhcR2EjFMCfutaN4XLn5K_jY888fw:1795355259829&ei=e_ICa9OYMq_ykPIP153HyQY&start=20&sa=N&sstk=AYl2yk87wXVEEJEg0dCK3ga_VIKToPAr4FXLw_JHLE05Io54ka9U-e2B8CWRExFYj3NrudJJ1Kv5HISOcvdGMS1VmgsHi76qldsY7w&ved=2ahUKEwiTwofE25uYAxUvOUQIHdfOMWkQ8tMDegQIVRAG",
+        "4": "https://www.google.com/search?q=How+to+avoid+copyright+claims+when+repurposing+podcast+content&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDhcR2EjFMCfutaN4XLn5K_jY888fw:1795355259829&ei=e_ICa9OYMq_ykPIP153HyQY&start=30&sa=N&sstk=AYl2yk87wXVEEJEg0dCK3ga_VIKToPAr4FXLw_JHLE05Io54ka9U-e2B8CWRExFYj3NrudJJ1Kv5HISOcvdGMS1VmgsHi76qldsY7w&ved=2ahUKEwiTwofE25uYAxUvOUQIHdfOMWkQ8tMDegQIVRAI",
+        "5": "https://www.google.com/search?q=How+to+avoid+copyright+claims+when+repurposing+podcast+content&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDhcR2EjFMCfutaN4XLn5K_jY888fw:1795355259829&ei=e_ICa9OYMq_ykPIP153HyQY&start=40&sa=N&sstk=AYl2yk87wXVEEJEg0dCK3ga_VIKToPAr4FXLw_JHLE05Io54ka9U-e2B8CWRExFYj3NrudJJ1Kv5HISOcvdGMS1VmgsHi76qldsY7w&ved=2ahUKEwiTwofE25uYAxUvOUQIHdfOMWkQ8tMDegQIVRAK",
+        "6": "https://www.google.com/search?q=How+to+avoid+copyright+claims+when+repurposing+podcast+content&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDhcR2EjFMCfutaN4XLn5K_jY888fw:1795355259829&ei=e_ICa9OYMq_ykPIP153HyQY&start=50&sa=N&sstk=AYl2yk87wXVEEJEg0dCK3ga_VIKToPAr4FXLw_JHLE05Io54ka9U-e2B8CWRExFYj3NrudJJ1Kv5HISOcvdGMS1VmgsHi76qldsY7w&ved=2ahUKEwiTwofE25uYAxUvOUQIHdfOMWkQ8tMDegQIVRAM",
+        "7": "https://www.google.com/search?q=How+to+avoid+copyright+claims+when+repurposing+podcast+content&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDhcR2EjFMCfutaN4XLn5K_jY888fw:1795355259829&ei=e_ICa9OYMq_ykPIP153HyQY&start=60&sa=N&sstk=AYl2yk87wXVEEJEg0dCK3ga_VIKToPAr4FXLw_JHLE05Io54ka9U-e2B8CWRExFYj3NrudJJ1Kv5HISOcvdGMS1VmgsHi76qldsY7w&ved=2ahUKEwiTwofE25uYAxUvOUQIHdfOMWkQ8tMDegQIVRAO",
+        "8": "https://www.google.com/search?q=How+to+avoid+copyright+claims+when+repurposing+podcast+content&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDhcR2EjFMCfutaN4XLn5K_jY888fw:1795355259829&ei=e_ICa9OYMq_ykPIP153HyQY&start=70&sa=N&sstk=AYl2yk87wXVEEJEg0dCK3ga_VIKToPAr4FXLw_JHLE05Io54ka9U-e2B8CWRExFYj3NrudJJ1Kv5HISOcvdGMS1VmgsHi76qldsY7w&ved=2ahUKEwiTwofE25uYAxUvOUQIHdfOMWkQ8tMDegQIVRAQ",
+        "9": "https://www.google.com/search?q=How+to+avoid+copyright+claims+when+repurposing+podcast+content&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDhcR2EjFMCfutaN4XLn5K_jY888fw:1795355259829&ei=e_ICa9OYMq_ykPIP153HyQY&start=80&sa=N&sstk=AYl2yk87wXVEEJEg0dCK3ga_VIKToPAr4FXLw_JHLE05Io54ka9U-e2B8CWRExFYj3NrudJJ1Kv5HISOcvdGMS1VmgsHi76qldsY7w&ved=2ahUKEwiTwofE25uYAxUvOUQIHdfOMWkQ8tMDegQIVRAS",
+        "10": "https://www.google.com/search?q=How+to+avoid+copyright+claims+when+repurposing+podcast+content&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDhcR2EjFMCfutaN4XLn5K_jY888fw:1795355259829&ei=e_ICa9OYMq_ykPIP153HyQY&start=90&sa=N&sstk=AYl2yk87wXVEEJEg0dCK3ga_VIKToPAr4FXLw_JHLE05Io54ka9U-e2B8CWRExFYj3NrudJJ1Kv5HISOcvdGMS1VmgsHi76qldsY7w&ved=2ahUKEwiTwofE25uYAxUvOUQIHdfOMWkQ8tMDegQIVRAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+avoid+copyright+claims+when+repurposing+podcast+content&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+avoid+copyright+claims+when+repurposing+podcast+content&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+avoid+copyright+claims+when+repurposing+podcast+content&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+avoid+copyright+claims+when+repurposing+podcast+content&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+avoid+copyright+claims+when+repurposing+podcast+content&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+avoid+copyright+claims+when+repurposing+podcast+content&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+avoid+copyright+claims+when+repurposing+podcast+content&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+avoid+copyright+claims+when+repurposing+podcast+content&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+avoid+copyright+claims+when+repurposing+podcast+content&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+avoid+copyright+claims+when+repurposing+podcast+content&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+avoid+copyright+claims+when+repurposing+podcast+content&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

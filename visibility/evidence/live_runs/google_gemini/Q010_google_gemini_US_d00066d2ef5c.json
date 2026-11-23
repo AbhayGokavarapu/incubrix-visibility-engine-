@@ -1,0 +1,175 @@
+{
+  "measurement_id": "d00066d2ef5c",
+  "question_id": "Q010",
+  "timestamp_utc": "2026-11-22T13:38:22.244699+00:00",
+  "provider_name": "Google Gemini",
+  "model_identifier": "gemini-2.5-flash",
+  "question": "Can AI find the most viral moments in a long video automatically?",
+  "market": "US",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3ncjqqOlUcL_79f9BOldbnX6zB8xgjvcLq8LnrXJIW4Gu9heUTCTi3VP1b9zr2KRv2859B_KgdIROj60viOfNud8JWzgnnV-xEhP5CBTFxhVP1ruCJKjhr_-cToLc7HHUggt3fW4qN0oUCeTrX5MG2h4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCr7Nj2BMH5pm1QzS4NPNt92-K_hkcgNI046wUq5bviJJ4xm_J2KW4xUXQVhM8aW45Tqw1Nea3pJTmoTig_qRE-9z5dc6zSQpjY5taw7IIBNTB8nU5o5PI_uMmHrxV3VI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYsGSIJvDy1uAfmXaCabNT8XRhQoAKhcIniiYlHSKApN-97ShhCDaGMh0fjFIQExrDBs7cBoQ4RP61SXrgDPvEi8YBHZVPJO3nYt7FiZ3umD1FNQwFx210Hj7dtYuiCGgPCL5ypesdV5wD",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBAODtLszIQbZUaVlddKHPinWlx6o6hjuDZkvRUJGqqqNjjkBcunRsx1sJ9SPgyPWGejwty0uIAiY2pvKdsZFhe8k378-KnQ0eZQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP6rGs1n2bL0VJYpKHV66zqP5P-JPV1-OuYJnZnf4j1_XkNV_oaCJqeZRDX66a17vSfnd_hNJY8O6JKjCk59ShBhD8amzDv0Loed6A0zLbfhvZhL19H6gqo_sR4aXN-zRLU6Vp0Ls9k5s6Rwn7",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqJeIp3HUYd-gr4uLDytze5OzpQQxodJ7yE3xdnyvIMWtvwx54pG2gj9EC_jNryaqwrU4FoJklq7qvsZik1rruh56Mdg4_7LYPmWLuqkUk8elCSUsmt3eDe83eZVV72XBru5UQWRshP6GU5Hbl6PrlZss55Q==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETyEkRTOWS-XYua4b16IuLCA6v6_dtEIbTsdnyeGAPpu-fH5Bgj0ofFgkBCMqNODjGo8LGvkPTyPQ7bslebIxoRREN-oCCnw23rbNV6RI5TDKqXPIG-kn9GENF5wMvyYUeat4mhOZ8rp2e-DA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKU1Jtb78TMpFbSo7nMaIh2OCljyX6TF1Bx2ygxwSx27lqzxqh-nt5tOeuXbeA4g_V1UFMRY3ry0A24ZFHoVyNd_N0f95dL1U4DmG00h2P2wrZFcKRKqg6JRv9fZYCeg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTopXK1d7ElB3qDiV0Re99yrBKJX3wXNRU896AqH7JFhrb8h0jTt_aqUsSDaVkjFcO2rYHNnEBh1DOyvCyIy4NdN-coWRFqN68RYffv62ieOmpf2xUrcubRqaPlKVb7Id_xEGyDhheG2E4oYliLxv6TF80Di1pxS_upASSgfPgkvsnhKluyVi1p7g=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHINKlTdE8Nq0VoOyOlcZTczjjgTaPKj41kOMSnRnZA_39aHvkR9A7yz32NvBT8fqOWepBNouvrHeD0ZXFomfYTdaPlL7Eo5RH7GAPXFTnfxWR8ESieFloyWM7EYHfuyfnloxVKUXZCAK0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw4AfJVD-Ew7hg8OeRpciPdRAuKRWsXOP63WMuZMWfniQ3xLjVG-rur5upQMWcQ6yfKvKTyTh1fuQ27nf4E02sf39NYjJSLmqss3KMXR-hHWklYWvzPyjErpCXsmosMY6gonZRmRfcyqEU",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8DiVQsCnwQt3frD9EDdgTZ5vU4tjjKuJRMzl9x7KiBZhDx5982D_zyilW0TzO8RHhKUaF0YbgGgRWC1SDQqc44Ujy9qIWp2WN3O-DHSJzJgJ33xCE1UiYsrCWeaekY2tocpyf0R7gzJL1nO406aCjwp2Pc-0LV_ytKRQQ6AdDOsxYb4RWsqgOttcHpYHyfVwwUo-dMcmMV_QGXlQXTtqnazZS7doy52z6AneOHE5hXw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSFv8_YYeipletFPYpW7hZGnIUpRTygnYET5DrXgeZpHdlPLs8DiDfwYJqWBmtbZ36fIzp2y5iwYyihMVK9MPE3IxxZCoCJbVrkyAY9HAS3nCv5vzJJ5l8CBueeDPsxuOGfur90m1hIEu5R-alNt0gDy72PzeqPutZJN6rzxdXKPMekanDwUs4DxoEJ1iLefqCMrdeHDnMs_NXq2EmB1_1zOEKnGqlrzvirLd1bZ4zzt_QDQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfONRiOTJilzQQSYG3oTp0KeIFttWmhgonFGP44hQoZ8LCg_uHpgCThfpg6-l0eJ3_EUMB4Ldl8Xy8OofLjQ-zj92dSBOd3vWveKbudeUfQLVl0QOoRxgObls4eRBWgDqGH85lFMp5NwEozE6UrVZg-XKRuI-GGfaVrPnndAxsRLA19eWG3FWX2A3wH4D6-3J3KD_pN_zhzSVdduJIXmL0KWYhbNIprkd3Rmt9",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRg9O63e3k-JY2DRftCtnnlUZj7WNjcIBo97N_dlgcj4IlRCQqj2ALRnVUPsZZ-nHj3KchuUUzKoIHLSVbYqGQN2GpPb94p1whRuw0YkId9dXbGLEZPsb633iPe5_iJr_Z2WpjWS_mRmDupMalpZYae_yvJnaemujte16MnUk-TtY6mQy_8s8rJghyOJgIXNqHUpRH6J2BoEeEtp4qHd--fiazr-JdGYtClOqD7ia_"
+  ],
+  "raw_text_summary": "Yes, Artificial Intelligence (AI) can automatically identify potentially viral moments within long videos. A growing number of AI-powered tools are designed to streamline the process of content repurposing by analyzing video content and extracting segments with high viral potential.\n\nThese tools typically operate by:\n*   **Transcribing Audio:** The AI first converts the spoken words in the video into a text transcript. [cite: 1, 2, 3, 6, 7, Yes, Artificial Intelligence (AI) can automatically identify potentially viral moments within long videos. A growing number of AI-powered tools are designed to streamline the process of content repurposing by analyzing video content and extracting segments with high viral potential. [cite: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12]\n\nThese tools typically operate by:\n*   **Transcribing Audio:** The AI first converts the spoken words in the video into a text transcript. [cite: 1, 2, 3, 6, 7,",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "Yes, Artificial Intelligence (AI) can automatically identify potentially viral moments within long videos. A growing number of AI-powered tools are designed to streamline the process of content repurposing by analyzing video content and extracting segments with high viral potential.\n\nThese tools typically operate by:\n*   **Transcribing Audio:** The AI first converts the spoken words in the video into a text transcript. [cite: 1, 2, 3, 6, 7,"
+            },
+            {
+              "text": "Yes, Artificial Intelligence (AI) can automatically identify potentially viral moments within long videos. A growing number of AI-powered tools are designed to streamline the process of content repurposing by analyzing video content and extracting segments with high viral potential. [cite: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12]\n\nThese tools typically operate by:\n*   **Transcribing Audio:** The AI first converts the spoken words in the video into a text transcript. [cite: 1, 2, 3, 6, 7,"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8DiVQsCnwQt3frD9EDdgTZ5vU4tjjKuJRMzl9x7KiBZhDx5982D_zyilW0TzO8RHhKUaF0YbgGgRWC1SDQqc44Ujy9qIWp2WN3O-DHSJzJgJ33xCE1UiYsrCWeaekY2tocpyf0R7gzJL1nO406aCjwp2Pc-0LV_ytKRQQ6AdDOsxYb4RWsqgOttcHpYHyfVwwUo-dMcmMV_QGXlQXTtqnazZS7doy52z6AneOHE5hXw==\">AI automatic video summarization viral content</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSFv8_YYeipletFPYpW7hZGnIUpRTygnYET5DrXgeZpHdlPLs8DiDfwYJqWBmtbZ36fIzp2y5iwYyihMVK9MPE3IxxZCoCJbVrkyAY9HAS3nCv5vzJJ5l8CBueeDPsxuOGfur90m1hIEu5R-alNt0gDy72PzeqPutZJN6rzxdXKPMekanDwUs4DxoEJ1iLefqCMrdeHDnMs_NXq2EmB1_1zOEKnGqlrzvirLd1bZ4zzt_QDQ==\">AI find viral moments in long video automatically</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfONRiOTJilzQQSYG3oTp0KeIFttWmhgonFGP44hQoZ8LCg_uHpgCThfpg6-l0eJ3_EUMB4Ldl8Xy8OofLjQ-zj92dSBOd3vWveKbudeUfQLVl0QOoRxgObls4eRBWgDqGH85lFMp5NwEozE6UrVZg-XKRuI-GGfaVrPnndAxsRLA19eWG3FWX2A3wH4D6-3J3KD_pN_zhzSVdduJIXmL0KWYhbNIprkd3Rmt9\">AI video highlight detection viral moments</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRg9O63e3k-JY2DRftCtnnlUZj7WNjcIBo97N_dlgcj4IlRCQqj2ALRnVUPsZZ-nHj3KchuUUzKoIHLSVbYqGQN2GpPb94p1whRuw0YkId9dXbGLEZPsb633iPe5_iJr_Z2WpjWS_mRmDupMalpZYae_yvJnaemujte16MnUk-TtY6mQy_8s8rJghyOJgIXNqHUpRH6J2BoEeEtp4qHd--fiazr-JdGYtClOqD7ia_\">AI tools for identifying viral video segments</a>\n  </div>\n</div>\n"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3ncjqqOlUcL_79f9BOldbnX6zB8xgjvcLq8LnrXJIW4Gu9heUTCTi3VP1b9zr2KRv2859B_KgdIROj60viOfNud8JWzgnnV-xEhP5CBTFxhVP1ruCJKjhr_-cToLc7HHUggt3fW4qN0oUCeTrX5MG2h4=",
+                "title": "openclip.app"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCr7Nj2BMH5pm1QzS4NPNt92-K_hkcgNI046wUq5bviJJ4xm_J2KW4xUXQVhM8aW45Tqw1Nea3pJTmoTig_qRE-9z5dc6zSQpjY5taw7IIBNTB8nU5o5PI_uMmHrxV3VI=",
+                "title": "exemplary.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYsGSIJvDy1uAfmXaCabNT8XRhQoAKhcIniiYlHSKApN-97ShhCDaGMh0fjFIQExrDBs7cBoQ4RP61SXrgDPvEi8YBHZVPJO3nYt7FiZ3umD1FNQwFx210Hj7dtYuiCGgPCL5ypesdV5wD",
+                "title": "transcriptr.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBAODtLszIQbZUaVlddKHPinWlx6o6hjuDZkvRUJGqqqNjjkBcunRsx1sJ9SPgyPWGejwty0uIAiY2pvKdsZFhe8k378-KnQ0eZQ==",
+                "title": "quso.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP6rGs1n2bL0VJYpKHV66zqP5P-JPV1-OuYJnZnf4j1_XkNV_oaCJqeZRDX66a17vSfnd_hNJY8O6JKjCk59ShBhD8amzDv0Loed6A0zLbfhvZhL19H6gqo_sR4aXN-zRLU6Vp0Ls9k5s6Rwn7",
+                "title": "voicecreator.pro"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqJeIp3HUYd-gr4uLDytze5OzpQQxodJ7yE3xdnyvIMWtvwx54pG2gj9EC_jNryaqwrU4FoJklq7qvsZik1rruh56Mdg4_7LYPmWLuqkUk8elCSUsmt3eDe83eZVV72XBru5UQWRshP6GU5Hbl6PrlZss55Q==",
+                "title": "streamyard.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETyEkRTOWS-XYua4b16IuLCA6v6_dtEIbTsdnyeGAPpu-fH5Bgj0ofFgkBCMqNODjGo8LGvkPTyPQ7bslebIxoRREN-oCCnw23rbNV6RI5TDKqXPIG-kn9GENF5wMvyYUeat4mhOZ8rp2e-DA=",
+                "title": "choppity.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKU1Jtb78TMpFbSo7nMaIh2OCljyX6TF1Bx2ygxwSx27lqzxqh-nt5tOeuXbeA4g_V1UFMRY3ry0A24ZFHoVyNd_N0f95dL1U4DmG00h2P2wrZFcKRKqg6JRv9fZYCeg==",
+                "title": "vizard.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTopXK1d7ElB3qDiV0Re99yrBKJX3wXNRU896AqH7JFhrb8h0jTt_aqUsSDaVkjFcO2rYHNnEBh1DOyvCyIy4NdN-coWRFqN68RYffv62ieOmpf2xUrcubRqaPlKVb7Id_xEGyDhheG2E4oYliLxv6TF80Di1pxS_upASSgfPgkvsnhKluyVi1p7g=",
+                "title": "subclip.app"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHINKlTdE8Nq0VoOyOlcZTczjjgTaPKj41kOMSnRnZA_39aHvkR9A7yz32NvBT8fqOWepBNouvrHeD0ZXFomfYTdaPlL7Eo5RH7GAPXFTnfxWR8ESieFloyWM7EYHfuyfnloxVKUXZCAK0=",
+                "title": "screenapp.io"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw4AfJVD-Ew7hg8OeRpciPdRAuKRWsXOP63WMuZMWfniQ3xLjVG-rur5upQMWcQ6yfKvKTyTh1fuQ27nf4E02sf39NYjJSLmqss3KMXR-hHWklYWvzPyjErpCXsmosMY6gonZRmRfcyqEU",
+                "title": "openclip.app"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 107,
+                "endIndex": 283,
+                "text": "A growing number of AI-powered tools are designed to streamline the process of content repurposing by analyzing video content and extracting segments with high viral potential."
+              },
+              "groundingChunkIndices": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "AI find viral moments in long video automatically",
+            "AI video highlight detection viral moments",
+            "AI automatic video summarization viral content",
+            "AI tools for identifying viral video segments"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 38,
+      "candidatesTokenCount": 273,
+      "totalTokenCount": 1549,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 38
+        }
+      ],
+      "toolUsePromptTokenCount": 217,
+      "toolUsePromptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 217
+        }
+      ],
+      "thoughtsTokenCount": 1021,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-2.5-flash",
+    "responseId": "RfACa_EN8_PctQ_WovXgCg"
+  },
+  "error_details": null
+}

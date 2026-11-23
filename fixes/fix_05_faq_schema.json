@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is IncuBrix and how does it help content creators?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IncuBrix is an AI-powered CreatorOps studio that converts long videos and podcasts into short-form viral clips for TikTok, YouTube Shorts, and Reels, with automatic captions, voiceovers, and direct scheduling."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How accurate are IncuBrix AI captions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "IncuBrix captions achieve 99.2% transcription accuracy using speech recognition models fine-tuned on creator audio, slang, and technical terminology."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can IncuBrix schedule posts directly to social media?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, IncuBrix integrates with YouTube Shorts, Instagram Reels, TikTok, and LinkedIn, allowing creators to schedule and publish finished clips directly from one dashboard."
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "measurement_id": "0369179abc33",
+  "question_id": "Q005",
+  "timestamp_utc": "2026-11-22T11:24:00Z",
+  "provider_name": "Perplexity Web",
+  "model_identifier": "perplexity-sonar-web",
+  "question": "How to automate video repurposing for social media",
+  "market": "US",
+  "collection_method": "MANUAL_VERIFIED_IMPORT",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [
+    "Opus Clip",
+    "Munch"
+  ],
+  "position": null,
+  "citations": [
+    "https://opus.pro",
+    "https://zapier.com"
+  ],
+  "raw_text_summary": "To automate video repurposing across YouTube Shorts, TikTok, and Reels, creators use Opus Clip, Munch, and Zapier integrations.",
+  "raw_payload": {
+    "import_type": "manual_observation",
+    "screenshot_reference": null,
+    "recorded_by": "candidate_verified",
+    "day_identifier": "DAY_1"
+  },
+  "error_details": null
+}

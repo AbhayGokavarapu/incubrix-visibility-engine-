@@ -1,0 +1,481 @@
+{
+  "measurement_id": "08ef59f1ed89",
+  "question_id": "Q072",
+  "timestamp_utc": "2026-11-22T13:49:34.427541+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "How to export 4K 60fps vertical videos from an AI video editor",
+  "market": "IN",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://www.heyeddie.ai/learn/video-marketing/video-export-settings-by-platform",
+    "https://www.kapwing.com/video-editor/4k",
+    "https://www.google.com/goto?url=CAESmgEBxCJF17lx4fQ0aBF3c3dk34J9na7MFK4NyJ0vC54G5Evny-ryZlTIrxGKg1HwtFg1ZEtZ40sOVvTIU4QtB4FkN67zi-phg5-KEnX6bFXDUAyFT8ZYYpVd9f_XzdxLTSTzY_kjX8DudhuY8rDu5DELIrKw7bqaJWcfDCu3w94HFLgyimOj7H5crggqVazwx1PjqLrGctrYSCBW",
+    "https://www.google.com/goto?url=CAEScQHEIkXXsXy5HGEfC2m6lzAtomywyW0ddshYXjpjL80FEZBLzAF1GHX-uayRy9T5ppBS7phCU5nsajVRG8ItfspKtHBAyjKS-5jXqu1TRYBTwPpc3BMmmp4E7zvJ2TZvqaCg_w5XjK_tS2l8JRuU7my4",
+    "https://www.google.com/goto?url=CAESYwHEIkXXJVoMSQC69MSCFfIztpUN4ErrJdqxDS22Qc7Tqc79ZOAe-5TsL6DANWYPCEx_qwG-Y-NUDvO_6KNO_x_fjXLgZHcF0-xpuW3KZqUESukG2Kysyg-QmT9FvD9AvZwYRg",
+    "https://www.google.com/goto?url=CAESYwHEIkXXedadVmWceDKysVjH2Pt9Z_T5Cuk1lq99CFAw-dRZJgtDcl59sgM2MLHmHBNjEMLPrrzdInUGDGxnoLwts8dza8wGv5AVaZmw5LSjbS9IfJcgC4S54gObleSmKVZhZA",
+    "https://www.google.com/goto?url=CAESsAEBxCJF12ycS70N8-hm7H2iQfQBBv9T4nJGj3siWzvEjTSMQGNWz_V7R1PDxiVSJ4lfGcylI_urDTWT7sPOFrTCHGvcELfj18AUgAdG2ka7XYtspYeWj4m_v1ryMToajJ1sG1K0oAPotW-kWqK2yGKPMb0PSEH7gYCcpGd6Aor784SoxWnMghBkPj9j4Fajt2CBbkmTF_U5ictIddIXH6fD2lGAMoUnmOWs6GnXRPZBwA",
+    "https://www.google.com/goto?url=CAESbgHEIkXXjibH_3kZ3gW40zY2NYUMj93P4quvz6jwRiqDXaUlllRmM-Qzmwj1RLjYQ18Vjqm3wvc05NxcmrUPAL7D1-eD0o6LEndt903f6oVlogQo_TX3x8VZ5zmfBXe6-Nm9EqmYDmAsacIUxW5v&gsessionid=l30QYWCTcgUMnedixmp_EZX-du_s_Vxs_lxfLdltwQVSGtjEfW8vsQ"
+  ],
+  "raw_text_summary": "Video Export Settings by Platform: The Official Specs In Summary Export an MP4 at the frame rate you shot, framed for where the video is going: 16:9 for YouTube, square or vertical for Shorts, 9:16 ... 4K Video Editor: Make 4K Videos Online Click \"Export Project\" When you're ready, click \"Export project\" and select 4K from the resolution dropdown. Then download your video in 4K to share anywhere. How do you export a 4K vertical video? : r/VideoEditing I have been trying my hand at video editing for fun. I have access to premiere pro and was messing with some 4K clips of movies/ songs etc downloaded ... Free 4K Video Editing Apps: What Really Works in 2026 VN exports up to 4K at 60fps. InShot lets you export 4K at up to 60fps for free, Export a 10-second sample. 2. Open the file details and ... Award Winning AI Video Editor: Free & Online After editing it on Vmaker AI, select the export quality as 4k in the final pop-up. Your video will then be exported at the highest quality. Free Online Video Editor - Drag & Drop, Easy to Use VEED is an AI video creation platform that lets you generate videos with AI, clean your audio, add captions, and export in up to 4K quality. 4K Video Converter - Make Any Video 4K Online Instead of simply stretching the video, our 4K video converter tool uses advanced AI models to intelligently recreate your video pixel by pixel. Not only does ... Best Export Settings for 4K Video on VN App. \u2728 Upload through the **Edits** app and select **4K** in the top-right corner before posting. \u2728 These settings work best for shorter videos\u2014I'd ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f2ece85e6e1e6b9602b7",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/D1MmsWujNGWfp5fl2aSw9sDU2XU2QuHHazK6qcEMSaA/6b02f2ece85e6e1e6b9602b7.json",
+      "markdown_endpoint": "https://serpapi.com/searches/D1MmsWujNGWfp5fl2aSw9sDU2XU2QuHHazK6qcEMSaA/6b02f2ece85e6e1e6b9602b7.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/D1MmsWujNGWfp5fl2aSw9sDU2XU2QuHHazK6qcEMSaA/6b02f2ece85e6e1e6b9602b7.json_with_pixel_position",
+      "created_at": "2026-11-22 13:49:32 UTC",
+      "processed_at": "2026-11-22 13:49:32 UTC",
+      "google_url": "https://www.google.com/search?q=How+to+export+4K+60fps+vertical+videos+from+an+AI+video+editor&oq=How+to+export+4K+60fps+vertical+videos+from+an+AI+video+editor&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/D1MmsWujNGWfp5fl2aSw9sDU2XU2QuHHazK6qcEMSaA/6b02f2ece85e6e1e6b9602b7.html",
+      "total_time_taken": 0.96
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "How to export 4K 60fps vertical videos from an AI video editor",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "in",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "How to export 4K 60fps vertical videos from an AI video editor",
+      "total_results": 583000,
+      "time_taken_displayed": 0.23,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "How to Export in 4K Quality | VEED AI Video Editing Tutorial 2026",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXtW5neZerJ_g56rfgSGBeL0C54rFD8Z31jooYYSyOeKAwoHKSRbWHK75NeJ6508gOG5sHaF8NB3TK7l1sRRbIZIQLIIb-nRY7r_DsuD097I_dSUD6sb7Yddu5DT0GT6aavAs1&gsessionid=l30QYWCTcgUMnedixmp_EZX-du_s_Vxs_lxfLdltwQVSGtjEfW8vsQ",
+        "thumbnail": "https://serpapi.com/searches/6b02f2ece85e6e1e6b9602b7/images/P6MsSLKjfA4aQEaF6GH-FRL-sznOESRhR_uTGamrQas.jpg",
+        "channel": "HowToHarbor",
+        "duration": "1:58",
+        "platform": "YouTube",
+        "date": "3 May 2026",
+        "snippet": "Export VEED projects in 4K by selecting 4K or YouTube 4K from the export options. Upgrade your plan for 4K export."
+      },
+      {
+        "position": 2,
+        "title": "Best 4K Export Settings For DaVinci Resolve 2026",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXmZ-jdW_4eHJu_0ub4NobKIUOe5wLExDWfJS03PvKhfUUsydYKQQ7-IuQ_XETD3Upr7yWAztGN9qtJmsIkaP1s2B9aT726gj9YYT9-xmeJeGcKtYSKZiD1kIMBFeqjkBgCFY9&gsessionid=l30QYWCTcgUMnedixmp_EZX-du_s_Vxs_lxfLdltwQVSGtjEfW8vsQ",
+        "thumbnail": "https://serpapi.com/searches/6b02f2ece85e6e1e6b9602b7/images/uCHheQ6mZD4BNGTobAOm0THB73L4BokVFyd6NzSc1O4.jpg",
+        "channel": "Matt WhoisMatt Johnson",
+        "duration": "6:12",
+        "platform": "YouTube",
+        "date": "2 Jun 2026",
+        "snippet": "Export 4K videos in DaVinci Resolve with MP4 format, H.264 codec, 3840x2160 resolution, and 50,000 kbps bitrate.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSl_IDY2Yueisz4PkCWwXpvtyJHsluJKZjzSw"
+      },
+      {
+        "position": 3,
+        "title": "How I Edit Vertical Videos FAST (DaVinci Resolve AI Workflow)",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXUXBazGQ5HwKi9Qzxq6eRoiCfP-jiGRh40_44Zc2RuQN6N-8tenE3bd6VZgRiV91LjmGO74BSqCKjG8ZLkeWxjttiO9JwfOmZXc_sOVL9ik2FnlaJ_zFXg5qt6A4NjduOOCIp&gsessionid=l30QYWCTcgUMnedixmp_EZX-du_s_Vxs_lxfLdltwQVSGtjEfW8vsQ",
+        "thumbnail": "https://serpapi.com/searches/6b02f2ece85e6e1e6b9602b7/images/MdJuvE1i8hU5WOLkDSIdLhgwR9hphTMGfbjK0XhAyxM.jpg",
+        "channel": "DieselD | Dan Thompson",
+        "duration": "5:53",
+        "platform": "YouTube",
+        "date": "1 Apr 2026",
+        "snippet": "Edit vertical videos fast in DaVinci Resolve using AI tools for audio transcription, silent portion removal, and audio mixing."
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "How can I convert a video to 4K 60 fps?",
+        "type": "ai_overview",
+        "page_token": "XuKMLXicHdDBTsIwAADQ6MdwZOtgqCTEMGwJ6kY61nbbhZR2ULqyDTcc7Oi3ePJj_AC_wZNfoPH4ru_t3eyL_OuKqaap6rFltW3b35XlzmR9UR4sXl8KYQluzIaLfDy6GYH7rZjAuvZmZethEsLESMMOLkriau8bfyDjqcPzM_szpsR2I6gizsL5M71DRHsgAoFOIjT0oeLLh8SReToMgTf0Ox8s40oRQjVmaMTmgZMWQbFCCC7nIcS5atPBY5kU6MTR7Rlrug2pqhnNXe60dmIjtupCQEnqCdjYvq1IqINT6kiCqXQoVEdsdi63zXGjFyukJV6RQMWO3UUFdnwmfUKngGk5CAHkixwtIu2hwBYu1uaJwHPB5-kwY9Uo7kSXkEDLA4joBcwYgr2teJ0Mev9hk_X20Iyrl3L3IV4y3mRyzZvP_Prn-xdlf357",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=XuKMLXicHdDBTsIwAADQ6MdwZOtgqCTEMGwJ6kY61nbbhZR2ULqyDTcc7Oi3ePJj_AC_wZNfoPH4ru_t3eyL_OuKqaap6rFltW3b35XlzmR9UR4sXl8KYQluzIaLfDy6GYH7rZjAuvZmZethEsLESMMOLkriau8bfyDjqcPzM_szpsR2I6gizsL5M71DRHsgAoFOIjT0oeLLh8SReToMgTf0Ox8s40oRQjVmaMTmgZMWQbFCCC7nIcS5atPBY5kU6MTR7Rlrug2pqhnNXe60dmIjtupCQEnqCdjYvq1IqINT6kiCqXQoVEdsdi63zXGjFyukJV6RQMWO3UUFdnwmfUKngGk5CAHkixwtIu2hwBYu1uaJwHPB5-kwY9Uo7kSXkEDLA4joBcwYgr2teJ0Mev9hk_X20Iyrl3L3IV4y3mRyzZvP_Prn-xdlf357",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU9YRTFRVFY0VGxsVVpHMHhaMGRxYUhodGVWUjFaMlpHUjBJeWRVa3djRVZ6TkdGckxWVjZabDkwYTA5SmNGTXRRMHBTYkhONU1XVjZhM2hDV1c1elYzQnBlbFV0YzJreWNEaFRZemh2V1c1WmIyVXpVRmR0VlhGUmR4SVdOMUJKUTJGZmJUTk9kRFl4WjB4UlVEVmFOM2RIVVJvaVFVaE9NRVUzU0U0M1RHNU9WRGRhTlc1Q2RGRndRVzF0U2tWSk1FYzRTbVF4WnciLCJmY3YiOiIzIiwiZWkiOiI3UElDYV9tM050NjFnTFFQNVo3d0dRIiwicWMiOiJjLU95eThndlZ5akpWMGl0S01ndktsRXd5Vll3TTBncktGWW9TeTBxeVV4T3pGRW95MHhKelM5V1NDdkt6MVZJekZOSXpJU0lLS1NtWkpia0Z3a3cxSjdPRmJNSEFBIiwicXVlc3Rpb24iOiJIb3cgY2FuIEkgY29udmVydCBhIHZpZGVvIHRvIDRLIDYwIGZwcz8iLCJsayI6IkdocGpiMjUyWlhKMElIWnBaR1Z2SUhSdklEUnJJRFl3SUdad2N3IiwiYnMiOiJjMVhQdXctQ01CZ0U4TGgyY3RUR3hIUHlNUmswT2hJMEJvbHhjWEd1VUtBaHRJU1g4Yi0zdkVUbS05MjFIN0hKOHFyZWNKbUVBMWZKa3FjNUdFcmhjWVZjWVhfRFlRc195VXhqUm1rSC1qaHFZM0lrMDdNZXNSd2txZklLbDFmVjJ1a3FwWlBxQlNiNk1HcEQ4aVJySjhQT2dIM0N3N3FEUzFVRUlYeVZfaGJBUFpFTEdaakdocTVFallNWFVoWVBjRFRFNUVKUW5SWXotYW0yZFk4MTUtanZOdFEwRm5RZWRrWlBOaWI2Ti1QUkZ3IiwiaWQiOiJmY183UElDYV9tM050NjFnTFFQNVo3d0dRXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU9YRTFRVFY0VGxsVVpHMHhaMGRxYUhodGVWUjFaMlpHUjBJeWRVa3djRVZ6TkdGckxWVjZabDkwYTA5SmNGTXRRMHBTYkhONU1XVjZhM2hDV1c1elYzQnBlbFV0YzJreWNEaFRZemh2V1c1WmIyVXpVRmR0VlhGUmR4SVdOMUJKUTJGZmJUTk9kRFl4WjB4UlVEVmFOM2RIVVJvaVFVaE9NRVUzU0U0M1RHNU9WRGRhTlc1Q2RGRndRVzF0U2tWSk1FYzRTbVF4WnciLCJmY3YiOiIzIiwiZWkiOiI3UElDYV9tM050NjFnTFFQNVo3d0dRIiwicWMiOiJjLU95eThndlZ5akpWMGl0S01ndktsRXd5Vll3TTBncktGWW9TeTBxeVV4T3pGRW95MHhKelM5V1NDdkt6MVZJekZOSXpJU0lLS1NtWkpia0Z3a3cxSjdPRmJNSEFBIiwicXVlc3Rpb24iOiJIb3cgY2FuIEkgY29udmVydCBhIHZpZGVvIHRvIDRLIDYwIGZwcz8iLCJsayI6IkdocGpiMjUyWlhKMElIWnBaR1Z2SUhSdklEUnJJRFl3SUdad2N3IiwiYnMiOiJjMVhQdXctQ01CZ0U4TGgyY3RUR3hIUHlNUmswT2hJMEJvbHhjWEd1VUtBaHRJU1g4Yi0zdkVUbS05MjFIN0hKOHFyZWNKbUVBMWZKa3FjNUdFcmhjWVZjWVhfRFlRc195VXhqUm1rSC1qaHFZM0lrMDdNZXNSd2txZklLbDFmVjJ1a3FwWlBxQlNiNk1HcEQ4aVJySjhQT2dIM0N3N3FEUzFVRUlYeVZfaGJBUFpFTEdaakdocTVFallNWFVoWVBjRFRFNUVKUW5SWXotYW0yZFk4MTUtanZOdFEwRm5RZWRrWlBOaWI2Ti1QUkZ3IiwiaWQiOiJmY183UElDYV9tM050NjFnTFFQNVo3d0dRXzUifQ%3D%3D"
+      },
+      {
+        "question": "Can AI produce 4K videos?",
+        "type": "ai_overview",
+        "page_token": "79swBXicHdBLTsJAGADg6GFYSlsoRhJiQFsosRM6nUfphkz_AUpn-ggdqXbpWVx5GA_gGVx5Ao0n-JLv7V2fKvV1xXNjmnY6HHZdd3Os66Pe30BdDkX7WsEQhNaZADWd3E7s-wPMvLZdPNTdIqLY22qpOdVPaWksXs0N8aTBPcp5wTDowICWal-tA768C5CKnEi5Du2pLVV-EclasdgyGUEd9Awhf51seb4UK_2c-ahNbZYgwsYx346wjTa4n_dZaS-hl6FU4CaOHtMif2QrnBIfK2y9-NuR34VkfWK0cQU7WrHnurBsRFjphhepBYoRRKPYL2QUU5QnjtWTKnJCLkPK5jYv5J_liUD5ASkWPrLyltn5Jluhi2CsRrypgaTnqISOrnDJK_YSJTA4wGU2GvyHzXaH0kybc338gPNemL3cCfOprn--fwEIcoHJ",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=79swBXicHdBLTsJAGADg6GFYSlsoRhJiQFsosRM6nUfphkz_AUpn-ggdqXbpWVx5GA_gGVx5Ao0n-JLv7V2fKvV1xXNjmnY6HHZdd3Os66Pe30BdDkX7WsEQhNaZADWd3E7s-wPMvLZdPNTdIqLY22qpOdVPaWksXs0N8aTBPcp5wTDowICWal-tA768C5CKnEi5Du2pLVV-EclasdgyGUEd9Awhf51seb4UK_2c-ahNbZYgwsYx346wjTa4n_dZaS-hl6FU4CaOHtMif2QrnBIfK2y9-NuR34VkfWK0cQU7WrHnurBsRFjphhepBYoRRKPYL2QUU5QnjtWTKnJCLkPK5jYv5J_liUD5ASkWPrLyltn5Jluhi2CsRrypgaTnqISOrnDJK_YSJTA4wGU2GvyHzXaH0kybc338gPNemL3cCfOprn--fwEIcoHJ",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU9YRTFRVFY0VGxsVVpHMHhaMGRxYUhodGVWUjFaMlpHUjBJeWRVa3djRVZ6TkdGckxWVjZabDkwYTA5SmNGTXRRMHBTYkhONU1XVjZhM2hDV1c1elYzQnBlbFV0YzJreWNEaFRZemh2V1c1WmIyVXpVRmR0VlhGUmR4SVdOMUJKUTJGZmJUTk9kRFl4WjB4UlVEVmFOM2RIVVJvaVFVaE9NRVUzU0U0M1RHNU9WRGRhTlc1Q2RGRndRVzF0U2tWSk1FYzRTbVF4WnciLCJmY3YiOiIzIiwiZWkiOiI3UElDYV9tM050NjFnTFFQNVo3d0dRIiwicWMiOiJjLU95eThndlZ5akpWMGl0S01ndktsRXd5Vll3TTBncktGWW9TeTBxeVV4T3pGRW95MHhKelM5V1NDdkt6MVZJekZOSXpJU0lLS1NtWkpia0Z3a3cxSjdPRmJNSEFBIiwicXVlc3Rpb24iOiJDYW4gQUkgcHJvZHVjZSA0SyB2aWRlb3M/IiwibGsiOiJHaGhqWVc0Z1lXa2djSEp2WkhWalpTQTBheUIyYVdSbGIzTSIsImJzIjoiYzFYUHV3LUNNQmdFOExoMmN0VEd4SFB5TVJrME9oSTBCb2x4Y1hHdVVLQWh0SVNYOGItM3ZFVG0tOTIxSDdISjhxcmVjSm1FQTFmSmtxYzVHRXJoY1lWY1lYX0RZUXNfeVV4alJta0gtamhxWTNJazA3TWVzUndrcWZJS2wxZlYydWtxcFpQcUJTYjZNR3BEOGlScko4UE9nSDNDdzdxRFMxVUVJWHlWX2hiQVBaRUxHWmpHaHE1RWpZTVhVaFlQY0RURTVFSlFuUll6LWFtMmRZODE1LWp2TnRRMEZuUWVka1pQTmliNk4tUFJGdyIsImlkIjoiZmNfN1BJQ2FfbTNOdDYxZ0xRUDVaN3dHUV81In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU9YRTFRVFY0VGxsVVpHMHhaMGRxYUhodGVWUjFaMlpHUjBJeWRVa3djRVZ6TkdGckxWVjZabDkwYTA5SmNGTXRRMHBTYkhONU1XVjZhM2hDV1c1elYzQnBlbFV0YzJreWNEaFRZemh2V1c1WmIyVXpVRmR0VlhGUmR4SVdOMUJKUTJGZmJUTk9kRFl4WjB4UlVEVmFOM2RIVVJvaVFVaE9NRVUzU0U0M1RHNU9WRGRhTlc1Q2RGRndRVzF0U2tWSk1FYzRTbVF4WnciLCJmY3YiOiIzIiwiZWkiOiI3UElDYV9tM050NjFnTFFQNVo3d0dRIiwicWMiOiJjLU95eThndlZ5akpWMGl0S01ndktsRXd5Vll3TTBncktGWW9TeTBxeVV4T3pGRW95MHhKelM5V1NDdkt6MVZJekZOSXpJU0lLS1NtWkpia0Z3a3cxSjdPRmJNSEFBIiwicXVlc3Rpb24iOiJDYW4gQUkgcHJvZHVjZSA0SyB2aWRlb3M%2FIiwibGsiOiJHaGhqWVc0Z1lXa2djSEp2WkhWalpTQTBheUIyYVdSbGIzTSIsImJzIjoiYzFYUHV3LUNNQmdFOExoMmN0VEd4SFB5TVJrME9oSTBCb2x4Y1hHdVVLQWh0SVNYOGItM3ZFVG0tOTIxSDdISjhxcmVjSm1FQTFmSmtxYzVHRXJoY1lWY1lYX0RZUXNfeVV4alJta0gtamhxWTNJazA3TWVzUndrcWZJS2wxZlYydWtxcFpQcUJTYjZNR3BEOGlScko4UE9nSDNDdzdxRFMxVUVJWHlWX2hiQVBaRUxHWmpHaHE1RWpZTVhVaFlQY0RURTVFSlFuUll6LWFtMmRZODE1LWp2TnRRMEZuUWVka1pQTmliNk4tUFJGdyIsImlkIjoiZmNfN1BJQ2FfbTNOdDYxZ0xRUDVaN3dHUV81In0%3D"
+      },
+      {
+        "question": "Is 32 GB RAM enough for 4K video editing?",
+        "type": "ai_overview",
+        "page_token": "gUSiOHicHdBRbpswAABQbYfpZwMmdCJSNInFkKDhKMaG2j-VMQQSG-MGryT53Fn2tcPsADtDv3qCSXtHeD9_6ZNRfz-53jk7rRaLeZ4fu3HsdPsox2EhppuRCym0roVUq6cvT_7Xo1zDHzD-9rqLDxRDphtdmew7u3eOp2zOgcU1yIGA4VRr24skclUSwTrJqn3qMma6e0Vt3sAr3G-xX4PyFT_vAuZnY5FCgAYVNgZzRDQXpqechhukJrAnmW0JWxYakaLknCv_VIKI8-pacGOfpbZLoaK0OscYBWhT0cZSEHrM80EzOCMDTg6ApwXlZ7m1b-KuL8iP87ayN-r1u3KbZYVSNwyRgT0LKNQbVkYu90IPnRNDkuSAyjFovAanpywu4HLGpEkkwZqmV0W8MBW0H0swAaY4IQPfNKaHVYrih6N8WwcP_zfXL8fBrexl7H7LSytc27wI90d9_nj_BzcyiS4",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=gUSiOHicHdBRbpswAABQbYfpZwMmdCJSNInFkKDhKMaG2j-VMQQSG-MGryT53Fn2tcPsADtDv3qCSXtHeD9_6ZNRfz-53jk7rRaLeZ4fu3HsdPsox2EhppuRCym0roVUq6cvT_7Xo1zDHzD-9rqLDxRDphtdmew7u3eOp2zOgcU1yIGA4VRr24skclUSwTrJqn3qMma6e0Vt3sAr3G-xX4PyFT_vAuZnY5FCgAYVNgZzRDQXpqechhukJrAnmW0JWxYakaLknCv_VIKI8-pacGOfpbZLoaK0OscYBWhT0cZSEHrM80EzOCMDTg6ApwXlZ7m1b-KuL8iP87ayN-r1u3KbZYVSNwyRgT0LKNQbVkYu90IPnRNDkuSAyjFovAanpywu4HLGpEkkwZqmV0W8MBW0H0swAaY4IQPfNKaHVYrih6N8WwcP_zfXL8fBrexl7H7LSytc27wI90d9_nj_BzcyiS4",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU9YRTFRVFY0VGxsVVpHMHhaMGRxYUhodGVWUjFaMlpHUjBJeWRVa3djRVZ6TkdGckxWVjZabDkwYTA5SmNGTXRRMHBTYkhONU1XVjZhM2hDV1c1elYzQnBlbFV0YzJreWNEaFRZemh2V1c1WmIyVXpVRmR0VlhGUmR4SVdOMUJKUTJGZmJUTk9kRFl4WjB4UlVEVmFOM2RIVVJvaVFVaE9NRVUzU0U0M1RHNU9WRGRhTlc1Q2RGRndRVzF0U2tWSk1FYzRTbVF4WnciLCJmY3YiOiIzIiwiZWkiOiI3UElDYV9tM050NjFnTFFQNVo3d0dRIiwicWMiOiJjLU95eThndlZ5akpWMGl0S01ndktsRXd5Vll3TTBncktGWW9TeTBxeVV4T3pGRW95MHhKelM5V1NDdkt6MVZJekZOSXpJU0lLS1NtWkpia0Z3a3cxSjdPRmJNSEFBIiwicXVlc3Rpb24iOiJJcyAzMiBHQiBSQU0gZW5vdWdoIGZvciA0SyB2aWRlbyBlZGl0aW5nPyIsImxrIjoiR2locGN5QXpNaUJuWWlCeVlXMGdaVzV2ZFdkb0lHWnZjaUEwYXlCMmFXUmxieUJsWkdsMGFXNW4iLCJicyI6ImMxWFB1dy1DTUJnRThMaDJjdFRHeEhQeU1SazBPaEkwQm9seGNYR3VVS0FodElTWDhiLTN2RVRtLTkyMUg3SEo4cXJlY0ptRUExZkprcWM1R0VyaGNZVmNZWF9EWVFzX3lVeGpSbWtILWpocVkzSWswN01lc1J3a3FmSUtsMWZWMnVrcXBaUHFCU2I2TUdwRDhpUnJKOFBPZ0gzQ3c3cURTMVVFSVh5Vl9oYkFQWkVMR1pqR2hxNUVqWU1YVWhZUGNEVEU1RUpRblJZei1hbTJkWTgxNS1qdk50UTBGblFlZGtaUE5pYjZOLVBSRnciLCJpZCI6ImZjXzdQSUNhX20zTnQ2MWdMUVA1Wjd3R1FfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU9YRTFRVFY0VGxsVVpHMHhaMGRxYUhodGVWUjFaMlpHUjBJeWRVa3djRVZ6TkdGckxWVjZabDkwYTA5SmNGTXRRMHBTYkhONU1XVjZhM2hDV1c1elYzQnBlbFV0YzJreWNEaFRZemh2V1c1WmIyVXpVRmR0VlhGUmR4SVdOMUJKUTJGZmJUTk9kRFl4WjB4UlVEVmFOM2RIVVJvaVFVaE9NRVUzU0U0M1RHNU9WRGRhTlc1Q2RGRndRVzF0U2tWSk1FYzRTbVF4WnciLCJmY3YiOiIzIiwiZWkiOiI3UElDYV9tM050NjFnTFFQNVo3d0dRIiwicWMiOiJjLU95eThndlZ5akpWMGl0S01ndktsRXd5Vll3TTBncktGWW9TeTBxeVV4T3pGRW95MHhKelM5V1NDdkt6MVZJekZOSXpJU0lLS1NtWkpia0Z3a3cxSjdPRmJNSEFBIiwicXVlc3Rpb24iOiJJcyAzMiBHQiBSQU0gZW5vdWdoIGZvciA0SyB2aWRlbyBlZGl0aW5nPyIsImxrIjoiR2locGN5QXpNaUJuWWlCeVlXMGdaVzV2ZFdkb0lHWnZjaUEwYXlCMmFXUmxieUJsWkdsMGFXNW4iLCJicyI6ImMxWFB1dy1DTUJnRThMaDJjdFRHeEhQeU1SazBPaEkwQm9seGNYR3VVS0FodElTWDhiLTN2RVRtLTkyMUg3SEo4cXJlY0ptRUExZkprcWM1R0VyaGNZVmNZWF9EWVFzX3lVeGpSbWtILWpocVkzSWswN01lc1J3a3FmSUtsMWZWMnVrcXBaUHFCU2I2TUdwRDhpUnJKOFBPZ0gzQ3c3cURTMVVFSVh5Vl9oYkFQWkVMR1pqR2hxNUVqWU1YVWhZUGNEVEU1RUpRblJZei1hbTJkWTgxNS1qdk50UTBGblFlZGtaUE5pYjZOLVBSRnciLCJpZCI6ImZjXzdQSUNhX20zTnQ2MWdMUVA1Wjd3R1FfNSJ9"
+      },
+      {
+        "question": "How many GB is a 4K 60fps video?",
+        "type": "ai_overview",
+        "page_token": "h5mOBnicHdBLjtowAABQtYeZJTgOMBMkVClgmwbFNMZxSDbIsUN-DqEzHgJZ9ixd9TA9QM_QVU_Qqjd4et--m_rS_vpgK2uvb8vpdBiGSdn3pSkmqu-m8u1xUVMljcmlapeL54Xz6axW6B3566-f_ShmKDXapO09KWK2poZC7WiZNMYcoeNQEs4kDFzlBntKqk3W4DpH83MUZybE3k22Xp9zuktIYIquukpiRdxU_AgymIqXMeSs2WMRccBSOUYjM5jSlvqZ01vJzbzA-J4RWmfEqRicPTQox0PDdrTFlm18wCB1c146EXSSeKtAgsQXAUVHNxpI6C0K5CWcqCGMA7HH5cg7LKkJfFSlbozMJhWeDcEc0AZfOMYRFb2rgWakDvwDmg2M663YirUaafvPXudHZdM4SPTI9pGLAwY8kkPmPp3VbeU-_d9cnc6dXV5f-_KHei2kLfRJ2p_txz-__wKa64bI",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=h5mOBnicHdBLjtowAABQtYeZJTgOMBMkVClgmwbFNMZxSDbIsUN-DqEzHgJZ9ixd9TA9QM_QVU_Qqjd4et--m_rS_vpgK2uvb8vpdBiGSdn3pSkmqu-m8u1xUVMljcmlapeL54Xz6axW6B3566-f_ShmKDXapO09KWK2poZC7WiZNMYcoeNQEs4kDFzlBntKqk3W4DpH83MUZybE3k22Xp9zuktIYIquukpiRdxU_AgymIqXMeSs2WMRccBSOUYjM5jSlvqZ01vJzbzA-J4RWmfEqRicPTQox0PDdrTFlm18wCB1c146EXSSeKtAgsQXAUVHNxpI6C0K5CWcqCGMA7HH5cg7LKkJfFSlbozMJhWeDcEc0AZfOMYRFb2rgWakDvwDmg2M663YirUaafvPXudHZdM4SPTI9pGLAwY8kkPmPp3VbeU-_d9cnc6dXV5f-_KHei2kLfRJ2p_txz-__wKa64bI",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU9YRTFRVFY0VGxsVVpHMHhaMGRxYUhodGVWUjFaMlpHUjBJeWRVa3djRVZ6TkdGckxWVjZabDkwYTA5SmNGTXRRMHBTYkhONU1XVjZhM2hDV1c1elYzQnBlbFV0YzJreWNEaFRZemh2V1c1WmIyVXpVRmR0VlhGUmR4SVdOMUJKUTJGZmJUTk9kRFl4WjB4UlVEVmFOM2RIVVJvaVFVaE9NRVUzU0U0M1RHNU9WRGRhTlc1Q2RGRndRVzF0U2tWSk1FYzRTbVF4WnciLCJmY3YiOiIzIiwiZWkiOiI3UElDYV9tM050NjFnTFFQNVo3d0dRIiwicWMiOiJjLU95eThndlZ5akpWMGl0S01ndktsRXd5Vll3TTBncktGWW9TeTBxeVV4T3pGRW95MHhKelM5V1NDdkt6MVZJekZOSXpJU0lLS1NtWkpia0Z3a3cxSjdPRmJNSEFBIiwicXVlc3Rpb24iOiJIb3cgbWFueSBHQiBpcyBhIDRLIDYwZnBzIHZpZGVvPyIsImxrIjoiR2g5b2IzY2diV0Z1ZVNCbllpQnBjeUJoSURScklEWXdabkJ6SUhacFpHVnYiLCJicyI6ImMxWFB1dy1DTUJnRThMaDJjdFRHeEhQeU1SazBPaEkwQm9seGNYR3VVS0FodElTWDhiLTN2RVRtLTkyMUg3SEo4cXJlY0ptRUExZkprcWM1R0VyaGNZVmNZWF9EWVFzX3lVeGpSbWtILWpocVkzSWswN01lc1J3a3FmSUtsMWZWMnVrcXBaUHFCU2I2TUdwRDhpUnJKOFBPZ0gzQ3c3cURTMVVFSVh5Vl9oYkFQWkVMR1pqR2hxNUVqWU1YVWhZUGNEVEU1RUpRblJZei1hbTJkWTgxNS1qdk50UTBGblFlZGtaUE5pYjZOLVBSRnciLCJpZCI6ImZjXzdQSUNhX20zTnQ2MWdMUVA1Wjd3R1FfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU9YRTFRVFY0VGxsVVpHMHhaMGRxYUhodGVWUjFaMlpHUjBJeWRVa3djRVZ6TkdGckxWVjZabDkwYTA5SmNGTXRRMHBTYkhONU1XVjZhM2hDV1c1elYzQnBlbFV0YzJreWNEaFRZemh2V1c1WmIyVXpVRmR0VlhGUmR4SVdOMUJKUTJGZmJUTk9kRFl4WjB4UlVEVmFOM2RIVVJvaVFVaE9NRVUzU0U0M1RHNU9WRGRhTlc1Q2RGRndRVzF0U2tWSk1FYzRTbVF4WnciLCJmY3YiOiIzIiwiZWkiOiI3UElDYV9tM050NjFnTFFQNVo3d0dRIiwicWMiOiJjLU95eThndlZ5akpWMGl0S01ndktsRXd5Vll3TTBncktGWW9TeTBxeVV4T3pGRW95MHhKelM5V1NDdkt6MVZJekZOSXpJU0lLS1NtWkpia0Z3a3cxSjdPRmJNSEFBIiwicXVlc3Rpb24iOiJIb3cgbWFueSBHQiBpcyBhIDRLIDYwZnBzIHZpZGVvPyIsImxrIjoiR2g5b2IzY2diV0Z1ZVNCbllpQnBjeUJoSURScklEWXdabkJ6SUhacFpHVnYiLCJicyI6ImMxWFB1dy1DTUJnRThMaDJjdFRHeEhQeU1SazBPaEkwQm9seGNYR3VVS0FodElTWDhiLTN2RVRtLTkyMUg3SEo4cXJlY0ptRUExZkprcWM1R0VyaGNZVmNZWF9EWVFzX3lVeGpSbWtILWpocVkzSWswN01lc1J3a3FmSUtsMWZWMnVrcXBaUHFCU2I2TUdwRDhpUnJKOFBPZ0gzQ3c3cURTMVVFSVh5Vl9oYkFQWkVMR1pqR2hxNUVqWU1YVWhZUGNEVEU1RUpRblJZei1hbTJkWTgxNS1qdk50UTBGblFlZGtaUE5pYjZOLVBSRnciLCJpZCI6ImZjXzdQSUNhX20zTnQ2MWdMUVA1Wjd3R1FfNSJ9"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "Gt3-sHiczVbdcrJGGJ7pcW-jnJgoiMaYGeabBRfFv4jGJHrCIOCCgKuAweTwu5Ye9WJ6Ab2GHvUKuvwlYDDJ1-lM-87Asrvv_77Pvnz_1bG29h8_IzMIdv5NrRaGYRVhjByjqmG3pvrPW622xo7vaeY3Hx88zbB0TjM97BpUMk9nVbyiTIczthRyOGtLPT9xLKX5HE0ZFteaSIKquOw4uGLQUJ40l62wK1Oxek5Zqb6xIdaPG7-m1MjL_oXtkEnVrxpbpctXxZYFHGPIbJt2tU7X2eptTXUJD_hvCfJAQmS0AUAf8fHyVzXKJtEKhFN5mIy59RGIbEpAkJKdc_ZnkdJIUuBjj8lzC9abid0lX-OMay594pdQ8OkhdSsZ7FN3v0CpaBRBYeEjKklinJfB21w43SujbnGHX3RAJ8ypfxdOzkAiOo9eIRAbkxGQZfmspYyI6sEC0A74pE4yj-bt_iwgUnxNR6TK6drKIwNTszRTiz88Pyp-4a5N4x4Ed8ZIH4_uaDEc-OLj_X5pjfqHQaiCmrYifA5WdUNXTIX-Fs-ZOtOk22zr-iIGnua_Is_PI8_DPh1sr0eXAV0dVnkmw1wx2tNkyZIEyooJ8ShLRZFeFUzzeY7TkHtHZBcsi-loAh7JRG1hUx7AYZ6JwKVD8nWN8ul_kxA-wNxpHFF0OFUwT5dAsdrkBYCzMjsR3ZaqjeKIrRaNdTObYuZ4mO68x9wUSHKc3jTFhcuRJzcETxIsRzfFgIgHQsIrNSL_shOTIZQggOVFKsCScICQ84TIwYgrBAgC-yBBQbLSZRAbQSixxMvoVU0csvAedakxAYhm6daXCH7lYkm8yEB2gpk81sTrunBY6rJubSwFHk2safXJeDSCUwmUYwu7qx9ra9r_HoBZ03PSyj8LwMjSlwAomx8BsKzpJQAU7DMAnCUALG96k4zrpOm9B6AArBwA06Z3THPxbwCQ_xyA-ePKA_DtqAoAhOcA2IVFAC42MGt65QBMDbwB8J82Pf7Hm16MQyMZih3wsEFnO6G4ticIzei5wCzrrNfRrLo7etkq4778eSdcu8GNq-rOhWLpN3y9HzzrFwpZwDeGTu25Hg4rAa4Yxx32gkpjULmi1zu_8mR4gaWpTuXJ0g3sV9bkR7iibitASlYqhm4F2KNcx8McrbZ2bXRk4Qytnkft_QKtNvbR7hxUvztf3cNDA_PMy-7eWBqKfHgBq16n2bYwMOu-Md813UOvJ_L4QYFSCzyOh63hsnHPs7fLxYMwXF6L--G2-fhgLtjBdPPiMaDvB6wUOAdmebt4ml46C55_FNwmO70EsT8-1wtnffgIj7NQpkiovsExlOtpHKmEBgJjOfrPU4EYgn5cuvx0T8YhqZcV5oHcWwC5g8iDyaFRvqYqhv_EaVdNVmvStKaq69baWFMuCp53XJum_K3HMb9pnqEG5AzU4Hf7p7_-_BsUVYn8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Gt3-sHiczVbdcrJGGJ7pcW-jnJgoiMaYGeabBRfFv4jGJHrCIOCCgKuAweTwu5Ye9WJ6Ab2GHvUKuvwlYDDJ1-lM-87Asrvv_77Pvnz_1bG29h8_IzMIdv5NrRaGYRVhjByjqmG3pvrPW622xo7vaeY3Hx88zbB0TjM97BpUMk9nVbyiTIczthRyOGtLPT9xLKX5HE0ZFteaSIKquOw4uGLQUJ40l62wK1Oxek5Zqb6xIdaPG7-m1MjL_oXtkEnVrxpbpctXxZYFHGPIbJt2tU7X2eptTXUJD_hvCfJAQmS0AUAf8fHyVzXKJtEKhFN5mIy59RGIbEpAkJKdc_ZnkdJIUuBjj8lzC9abid0lX-OMay594pdQ8OkhdSsZ7FN3v0CpaBRBYeEjKklinJfB21w43SujbnGHX3RAJ8ypfxdOzkAiOo9eIRAbkxGQZfmspYyI6sEC0A74pE4yj-bt_iwgUnxNR6TK6drKIwNTszRTiz88Pyp-4a5N4x4Ed8ZIH4_uaDEc-OLj_X5pjfqHQaiCmrYifA5WdUNXTIX-Fs-ZOtOk22zr-iIGnua_Is_PI8_DPh1sr0eXAV0dVnkmw1wx2tNkyZIEyooJ8ShLRZFeFUzzeY7TkHtHZBcsi-loAh7JRG1hUx7AYZ6JwKVD8nWN8ul_kxA-wNxpHFF0OFUwT5dAsdrkBYCzMjsR3ZaqjeKIrRaNdTObYuZ4mO68x9wUSHKc3jTFhcuRJzcETxIsRzfFgIgHQsIrNSL_shOTIZQggOVFKsCScICQ84TIwYgrBAgC-yBBQbLSZRAbQSixxMvoVU0csvAedakxAYhm6daXCH7lYkm8yEB2gpk81sTrunBY6rJubSwFHk2safXJeDSCUwmUYwu7qx9ra9r_HoBZ03PSyj8LwMjSlwAomx8BsKzpJQAU7DMAnCUALG96k4zrpOm9B6AArBwA06Z3THPxbwCQ_xyA-ePKA_DtqAoAhOcA2IVFAC42MGt65QBMDbwB8J82Pf7Hm16MQyMZih3wsEFnO6G4ticIzei5wCzrrNfRrLo7etkq4778eSdcu8GNq-rOhWLpN3y9HzzrFwpZwDeGTu25Hg4rAa4Yxx32gkpjULmi1zu_8mR4gaWpTuXJ0g3sV9bkR7iibitASlYqhm4F2KNcx8McrbZ2bXRk4Qytnkft_QKtNvbR7hxUvztf3cNDA_PMy-7eWBqKfHgBq16n2bYwMOu-Md813UOvJ_L4QYFSCzyOh63hsnHPs7fLxYMwXF6L--G2-fhgLtjBdPPiMaDvB6wUOAdmebt4ml46C55_FNwmO70EsT8-1wtnffgIj7NQpkiovsExlOtpHKmEBgJjOfrPU4EYgn5cuvx0T8YhqZcV5oHcWwC5g8iDyaFRvqYqhv_EaVdNVmvStKaq69baWFMuCp53XJum_K3HMb9pnqEG5AzU4Hf7p7_-_BsUVYn8"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Video Export Settings by Platform: The Official Specs",
+        "link": "https://www.heyeddie.ai/learn/video-marketing/video-export-settings-by-platform",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjAEBxCJF1y4QQOb4j0WqVNhyd5gpFbYEyq6oWnVyIEdDr7_YoKo-gcrtYx2pXyXVTGiSBP-zUwLXylJj89R7oIOJaBjT6cfepQye2yjj2csK76VdmUs_QJ9agAENiFOLy7EMJo8pcVOePdy4wHWl64VHJ0CUlsyJinwFfNT-DX1HJpJu1JLFPcwj5zXyng&ved=2ahUKEwj53fz525uYAxXeGoAAHWUPPAMQFnoECB4QAQ&uoh=1",
+        "displayed_link": "https://www.heyeddie.ai \u203a Learn \u203a Video marketing",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAolBMVEVHcEx0z5gvqqiF0I1U06y_yGQ7vq0-w69EyrC1yWsjmqUyr6pZ0qiM0Ih5zJNZyaMuqanKx120ymxq05_Gx183uKw6va0jmaVp05_OxlrRxVfRxledzXynzHVd1ag_ybGdzXyH0Ita16pp1aBN1rI3uKxFzrJ90pN005nTxVYlnaaRz4S3yWmpy3Swym6_yGTHx14uq6kxsKoqpKgglaQrpag4UUgjAAAAIHRSTlMAPiC5uiQ1_URWnLXPyxOScy7a5AzuxONij3nl6cLuDfSLmC0AAAEGSURBVCiRddHreoIwDAbgFGmhAjqOOk8TBEFFQLfd_62t7QOjLfr9fZ-kSQowxjDgTear6-_jGS8XU_r4uXIrCstaTspGO5_dqX0PluembESuy_MsW0u4Uuqy7FRJG0ysQuOkwuw-B2blOPGcWwyEEwKXWeoBopRGDB3RE1ze88CwTG8e7O5NHfRoWWDy90LwmDEMmrr9fHfNflaHkCQx-8x49gjvfYHJ0ybDDif2Xno7HimuW4FxYRPN7hS3nUDHYqhaQ3G37W9gIM1qGm2iYSZbs5ZKAyPNOhm_NLv48q6hYt1FOcS6KkvJtLOFsqmFAAvZfNB192_4xQfQgNt284JEsF70BxYANyOSN_wOAAAAAElFTkSuQmCC.png",
+        "date": "10 Nov 2026",
+        "snippet": "In Summary Export an MP4 at the frame rate you shot, framed for where the video is going: 16:9 for YouTube, square or vertical for Shorts, 9:16 ...",
+        "snippet_highlighted_words": [
+          "Export",
+          "video",
+          "vertical"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "In Summary Export an MP4 at the frame rate you shot, framed for where the video is going: 16:9 for YouTube, square or vertical for Shorts, 9:16 ...",
+            "source_info_link": "https://www.heyeddie.ai/learn/video-marketing/video-export-settings-by-platform",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAolBMVEVHcEx0z5gvqqiF0I1U06y_yGQ7vq0-w69EyrC1yWsjmqUyr6pZ0qiM0Ih5zJNZyaMuqanKx120ymxq05_Gx183uKw6va0jmaVp05_OxlrRxVfRxledzXynzHVd1ag_ybGdzXyH0Ita16pp1aBN1rI3uKxFzrJ90pN005nTxVYlnaaRz4S3yWmpy3Swym6_yGTHx14uq6kxsKoqpKgglaQrpag4UUgjAAAAIHRSTlMAPiC5uiQ1_URWnLXPyxOScy7a5AzuxONij3nl6cLuDfSLmC0AAAEGSURBVCiRddHreoIwDAbgFGmhAjqOOk8TBEFFQLfd_62t7QOjLfr9fZ-kSQowxjDgTear6-_jGS8XU_r4uXIrCstaTspGO5_dqX0PluembESuy_MsW0u4Uuqy7FRJG0ysQuOkwuw-B2blOPGcWwyEEwKXWeoBopRGDB3RE1ze88CwTG8e7O5NHfRoWWDy90LwmDEMmrr9fHfNflaHkCQx-8x49gjvfYHJ0ybDDif2Xno7HimuW4FxYRPN7hS3nUDHYqhaQ3G37W9gIM1qGm2iYSZbs5ZKAyPNOhm_NLv48q6hYt1FOcS6KkvJtLOFsqmFAAvZfNB192_4xQfQgNt284JEsF70BxYANyOSN_wOAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CswBL2dvdG8_dXJsPUNBRVNqQUVCeENKRjE0NlhIbXp1X0JhR01xWVd6Z0Y2OWc2SzhFbm1aaEJtemp6VjRDRmhrVVVqeE0zZWc1TWZ1ZnpPNXFsZnFYajU4dm03Uy1TQjUyUWtHbjMtMUdIVlk2SEFvaFA5bGpSQXBsWXo3N3FkNFZ1eXY3aU9tdHl0NDV6V01lUElRYV9JajFhTnExTWc4cUJHR1lESkxlUHBZV2FQNFloNlpHU1M2di1lTzN5bjltOUpnWVN0ZGpVSmZ3EgQaAggAGuIHEgAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQL4HCAAQABgAIAAqFQoDaG93FUCD-j0aCWltcG9ydGluZyoJCgJ0bxUAAAAAKiUKBmV4cG9ydBXmzJJAGglpbXBvcnRpbmcaC2l2O3A7ZXhwb3J0KhcKAjRrFeZIhD4aA3VoZBoHNGs2MGZwcyopCgU2MGZwcxXAv4M_GgY2MCBmcHMaBzRrNjBmcHMaCml2O3A7NjBmcHMqSQoIdmVydGljYWwVZ7TrPxoIcG9ydHJhaXQaB3VwcmlnaHQaCnZlcnRpY2FsbHkaDWl2O3A7dmVydGljYWwaCmhvcml6b250YWwqHgoGdmlkZW9zFRDHJz8aBXZlZGlvGgh2aWRlbyBvbioLCgRmcm9tFQAAAAAqCQoCYW4VAAAAACo9CgJhaRWwiktAGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoBaRoHYWl2aWRlbxoNYWl2aWRlb2VkaXRvcioxCgV2aWRlbxUdQqNAGgdhaXZpZGVvGg1haXZpZGVvZWRpdG9yGgt2aWRlb2VkaXRvcipICgZlZGl0b3IVdhKBPxoEZWRpdBoHZWRpdGluZxoHZWRpdG9ycxoFbWFrZXIaDWFpdmlkZW9lZGl0b3IaC3ZpZGVvZWRpdG9yMswBL2dvdG8_dXJsPUNBRVNqQUVCeENKRjE0NlhIbXp1X0JhR01xWVd6Z0Y2OWc2SzhFbm1aaEJtemp6VjRDRmhrVVVqeE0zZWc1TWZ1ZnpPNXFsZnFYajU4dm03Uy1TQjUyUWtHbjMtMUdIVlk2SEFvaFA5bGpSQXBsWXo3N3FkNFZ1eXY3aU9tdHl0NDV6V01lUElRYV9JajFhTnExTWc4cUJHR1lESkxlUHBZV2FQNFloNlpHU1M2di1lTzN5bjltOUpnWVN0ZGpVSmZ3Ok48Yj5WaWRlbyBFeHBvcnQ8L2I-IFNldHRpbmdzIGJ5IFBsYXRmb3JtOiBUaGUgT2ZmaWNpYWwgU3BlY3MgfCBFZGRpZSA8Yj5BSTwvYj5CrQFJbiBTdW1tYXJ5IDxiPkV4cG9ydDwvYj4gYW4gTVA0IGF0IHRoZSBmcmFtZSByYXRlIHlvdSBzaG90LCBmcmFtZWQgZm9yIHdoZXJlIHRoZSA8Yj52aWRlbzwvYj4gaXMgZ29pbmc6IDE2OjkgZm9yIFlvdVR1YmUsIHNxdWFyZSBvciA8Yj52ZXJ0aWNhbDwvYj4gZm9yIFNob3J0cywgOToxNiZuYnNwOy4uLkoCYW5KAnRvSgRmcm9tUgFpUgh2aWRlbyBvbiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CswBL2dvdG8_dXJsPUNBRVNqQUVCeENKRjE0NlhIbXp1X0JhR01xWVd6Z0Y2OWc2SzhFbm1aaEJtemp6VjRDRmhrVVVqeE0zZWc1TWZ1ZnpPNXFsZnFYajU4dm03Uy1TQjUyUWtHbjMtMUdIVlk2SEFvaFA5bGpSQXBsWXo3N3FkNFZ1eXY3aU9tdHl0NDV6V01lUElRYV9JajFhTnExTWc4cUJHR1lESkxlUHBZV2FQNFloNlpHU1M2di1lTzN5bjltOUpnWVN0ZGpVSmZ3EgQaAggAGuIHEgAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQL4HCAAQABgAIAAqFQoDaG93FUCD-j0aCWltcG9ydGluZyoJCgJ0bxUAAAAAKiUKBmV4cG9ydBXmzJJAGglpbXBvcnRpbmcaC2l2O3A7ZXhwb3J0KhcKAjRrFeZIhD4aA3VoZBoHNGs2MGZwcyopCgU2MGZwcxXAv4M_GgY2MCBmcHMaBzRrNjBmcHMaCml2O3A7NjBmcHMqSQoIdmVydGljYWwVZ7TrPxoIcG9ydHJhaXQaB3VwcmlnaHQaCnZlcnRpY2FsbHkaDWl2O3A7dmVydGljYWwaCmhvcml6b250YWwqHgoGdmlkZW9zFRDHJz8aBXZlZGlvGgh2aWRlbyBvbioLCgRmcm9tFQAAAAAqCQoCYW4VAAAAACo9CgJhaRWwiktAGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoBaRoHYWl2aWRlbxoNYWl2aWRlb2VkaXRvcioxCgV2aWRlbxUdQqNAGgdhaXZpZGVvGg1haXZpZGVvZWRpdG9yGgt2aWRlb2VkaXRvcipICgZlZGl0b3IVdhKBPxoEZWRpdBoHZWRpdGluZxoHZWRpdG9ycxoFbWFrZXIaDWFpdmlkZW9lZGl0b3IaC3ZpZGVvZWRpdG9yMswBL2dvdG8_dXJsPUNBRVNqQUVCeENKRjE0NlhIbXp1X0JhR01xWVd6Z0Y2OWc2SzhFbm1aaEJtemp6VjRDRmhrVVVqeE0zZWc1TWZ1ZnpPNXFsZnFYajU4dm03Uy1TQjUyUWtHbjMtMUdIVlk2SEFvaFA5bGpSQXBsWXo3N3FkNFZ1eXY3aU9tdHl0NDV6V01lUElRYV9JajFhTnExTWc4cUJHR1lESkxlUHBZV2FQNFloNlpHU1M2di1lTzN5bjltOUpnWVN0ZGpVSmZ3Ok48Yj5WaWRlbyBFeHBvcnQ8L2I-IFNldHRpbmdzIGJ5IFBsYXRmb3JtOiBUaGUgT2ZmaWNpYWwgU3BlY3MgfCBFZGRpZSA8Yj5BSTwvYj5CrQFJbiBTdW1tYXJ5IDxiPkV4cG9ydDwvYj4gYW4gTVA0IGF0IHRoZSBmcmFtZSByYXRlIHlvdSBzaG90LCBmcmFtZWQgZm9yIHdoZXJlIHRoZSA8Yj52aWRlbzwvYj4gaXMgZ29pbmc6IDE2OjkgZm9yIFlvdVR1YmUsIHNxdWFyZSBvciA8Yj52ZXJ0aWNhbDwvYj4gZm9yIFNob3J0cywgOToxNiZuYnNwOy4uLkoCYW5KAnRvSgRmcm9tUgFpUgh2aWRlbyBvbiICEAFIAFgAaAA",
+        "source": "Eddie AI",
+        "read_more_link": "https://www.google.com/goto?url=CAES3AEBxCJF1zFo79k7LPRHKV1jJgeqY2R6JO4UDL4Bxfb7vvt92Oj4FaHbcLmtE4dxouEFzefwSqneyAqNeFAgGjx4b16sd7gXkharPDKeMLiNHg4fWftWcAALpuRh4WDeKTfsVs8_afnGvW-QdyDPocSUvVZz3bEDmJguAZvDnl5WjK7iAC6k0rZRTWeWLxqKd7V9NOjatqvIrtZTot-7biVtHyB5pydY7GkkOYY3Cp9y_oXhRufYI7k7A9gdO2Oj3bwIU8fACmSR0INNIzcavvr3SjrhJN9HEHovLg-Z&gsessionid=l30QYWCTcgUMnedixmp_EZX-du_s_Vxs_lxfLdltwQVSGtjEfW8vsQ"
+      },
+      {
+        "position": 2,
+        "title": "4K Video Editor: Make 4K Videos Online",
+        "link": "https://www.kapwing.com/video-editor/4k",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHEIkXXpqoQtZIbrwZycF8l-tSmM8lNOQC2zo49RsdTEdux_Xd2mb89LFwfCt-nZ8t0Iza33ubO9x1oZOiP78HM7J_I-aH5hwSySEotheeVHfxElsZ_2TqALoERI4HyEgdwvyg&ved=2ahUKEwj53fz525uYAxXeGoAAHWUPPAMQFnoECBsQAQ&uoh=1",
+        "displayed_link": "https://www.kapwing.com \u203a video-editor \u203a 4k",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAxlBMVEX____-___3vd_3g773iLH4iav4iqD3ipT3iYr4ioH3jHj2h2r63dr3bb3_L5v_OYj_OXn_O2f_PFP_PUH_Piz_QRb_NwD3sZv_OJ7_PY3_QX3_Qjb-SCL2isX-O6L3OWn4wrT5zej7U6z7XK78XaD6XJT5XYX4Xn35X3X5YGr5YV_6YVf8YUv7YkL4XCf40L_1rdj_Lab9PJr_PYP_P3T_QF7_QVH_Qwz7XnD3PEb669v5KYb3Txv_RTv44dD4o9r53e73m4nzh0s_AAAAwklEQVR4AdWQgwHEQBBFN2fbVmxb_Td1sRvIDxZvDNouKBCAQE2dbq8_GI7Gk-ms7jNfLFfrzXa3Pxwb4Ol8CeD11gDB_bG8PCPPV7GEdBe8sTL4_ny_PxhGUAzHCZKkaJphM8jxD-EsXqS1rCjb6-62V4OcZSg1QigPqxEESZXChvnTX7hGZeWDCXqX9ev-YHDmU99ZxWIBtwh61-3bwXFNSdmpMUph6hnAwLMMvXDe4biNd7c_HPvlmYI0CRR_rdQfjP8XrUUdD_wAAAAASUVORK5CYII.png",
+        "snippet": "Click \"Export Project\" When you're ready, click \"Export project\" and select 4K from the resolution dropdown. Then download your video in 4K to share anywhere.",
+        "snippet_highlighted_words": [
+          "select 4K from the resolution dropdown"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.9,
+              "reviews": 5231
+            },
+            "extensions": [
+              "4.9(5,231)"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Click \"Export Project\" When you're ready, click \"Export project\" and select 4K from the resolution dropdown. Then download your video in 4K to share anywhere.",
+            "source_info_link": "https://www.kapwing.com/video-editor/4k",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAxlBMVEX____-___3vd_3g773iLH4iav4iqD3ipT3iYr4ioH3jHj2h2r63dr3bb3_L5v_OYj_OXn_O2f_PFP_PUH_Piz_QRb_NwD3sZv_OJ7_PY3_QX3_Qjb-SCL2isX-O6L3OWn4wrT5zej7U6z7XK78XaD6XJT5XYX4Xn35X3X5YGr5YV_6YVf8YUv7YkL4XCf40L_1rdj_Lab9PJr_PYP_P3T_QF7_QVH_Qwz7XnD3PEb669v5KYb3Txv_RTv44dD4o9r53e73m4nzh0s_AAAAwklEQVR4AdWQgwHEQBBFN2fbVmxb_Td1sRvIDxZvDNouKBCAQE2dbq8_GI7Gk-ms7jNfLFfrzXa3Pxwb4Ol8CeD11gDB_bG8PCPPV7GEdBe8sTL4_ny_PxhGUAzHCZKkaJphM8jxD-EsXqS1rCjb6-62V4OcZSg1QigPqxEESZXChvnTX7hGZeWDCXqX9ev-YHDmU99ZxWIBtwh61-3bwXFNSdmpMUph6hnAwLMMvXDe4biNd7c_HPvlmYI0CRR_rdQfjP8XrUUdD_wAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpUBL2dvdG8_dXJsPUNBRVNaQUhFSWtYWFVhc3V5c1pkQzJkY3RxOUQyRUpEVnZDZUtndVBhTF9FTUdReUc3eFlvT2IxaWtwdkUtS0Q5VktrS2tEbDBwNXN5akN3SEhJTlB1ZUxDcmdrRkFxWllBWWZ0a2RvQkZldzBmWG9YbzVYMnVTNnVkcWFybEdmM2VoNm9iUmtjdkkSBBoCCAAarQcSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCHBwgAEAAYACAAKhUKA2hvdxXyMqg_GglpbXBvcnRpbmcqCQoCdG8VAAAAAColCgZleHBvcnQVyP4dQBoJaW1wb3J0aW5nGgtpdjtwO2V4cG9ydCoXCgI0axWxu-RAGgN1aGQaBzRrNjBmcHMqKQoFNjBmcHMVAAAAABoGNjAgZnBzGgc0azYwZnBzGgppdjtwOzYwZnBzKkkKCHZlcnRpY2FsFacx8T0aCHBvcnRyYWl0Ggd1cHJpZ2h0Ggp2ZXJ0aWNhbGx5Gg1pdjtwO3ZlcnRpY2FsGgpob3Jpem9udGFsKh4KBnZpZGVvcxWYy85AGgV2ZWRpbxoIdmlkZW8gb24qCwoEZnJvbRUAAAAAKgkKAmFuFQAAAAAqPQoCYWkVCaJbQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaAWkaB2FpdmlkZW8aDWFpdmlkZW9lZGl0b3IqMQoFdmlkZW8VIin7QBoHYWl2aWRlbxoNYWl2aWRlb2VkaXRvchoLdmlkZW9lZGl0b3IqSAoGZWRpdG9yFV4ZwUAaBGVkaXQaB2VkaXRpbmcaB2VkaXRvcnMaBW1ha2VyGg1haXZpZGVvZWRpdG9yGgt2aWRlb2VkaXRvcjKVAS9nb3RvP3VybD1DQUVTWkFIRUlrWFhVYXN1eXNaZEMyZGN0cTlEMkVKRFZ2Q2VLZ3VQYUxfRU1HUXlHN3hZb09iMWlrcHZFLUtEOVZLa0trRGwwcDVzeWpDd0hISU5QdWVMQ3Jna0ZBcVpZQVlmdGtkb0JGZXcwZlhvWG81WDJ1UzZ1ZHFhcmxHZjNlaDZvYlJrY3ZJOj48Yj40SyBWaWRlbyBFZGl0b3I8L2I-OiBNYWtlIDxiPjRLIFZpZGVvczwvYj4gT25saW5lIC0gS2Fwd2luZ0K9AUNsaWNrICZxdW90O0V4cG9ydCBQcm9qZWN0JnF1b3Q7IFdoZW4geW91JiMzOTtyZSByZWFkeSwgY2xpY2sgJnF1b3Q7RXhwb3J0IHByb2plY3QmcXVvdDsgYW5kIDxiPnNlbGVjdCA0SyBmcm9tIHRoZSByZXNvbHV0aW9uIGRyb3Bkb3duPC9iPi4gVGhlbiBkb3dubG9hZCB5b3VyIHZpZGVvIGluIDRLIHRvIHNoYXJlIGFueXdoZXJlLkoCYW5KAnRvSgRmcm9tUgFpUgh2aWRlbyBvbiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpUBL2dvdG8_dXJsPUNBRVNaQUhFSWtYWFVhc3V5c1pkQzJkY3RxOUQyRUpEVnZDZUtndVBhTF9FTUdReUc3eFlvT2IxaWtwdkUtS0Q5VktrS2tEbDBwNXN5akN3SEhJTlB1ZUxDcmdrRkFxWllBWWZ0a2RvQkZldzBmWG9YbzVYMnVTNnVkcWFybEdmM2VoNm9iUmtjdkkSBBoCCAAarQcSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCHBwgAEAAYACAAKhUKA2hvdxXyMqg_GglpbXBvcnRpbmcqCQoCdG8VAAAAAColCgZleHBvcnQVyP4dQBoJaW1wb3J0aW5nGgtpdjtwO2V4cG9ydCoXCgI0axWxu-RAGgN1aGQaBzRrNjBmcHMqKQoFNjBmcHMVAAAAABoGNjAgZnBzGgc0azYwZnBzGgppdjtwOzYwZnBzKkkKCHZlcnRpY2FsFacx8T0aCHBvcnRyYWl0Ggd1cHJpZ2h0Ggp2ZXJ0aWNhbGx5Gg1pdjtwO3ZlcnRpY2FsGgpob3Jpem9udGFsKh4KBnZpZGVvcxWYy85AGgV2ZWRpbxoIdmlkZW8gb24qCwoEZnJvbRUAAAAAKgkKAmFuFQAAAAAqPQoCYWkVCaJbQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaAWkaB2FpdmlkZW8aDWFpdmlkZW9lZGl0b3IqMQoFdmlkZW8VIin7QBoHYWl2aWRlbxoNYWl2aWRlb2VkaXRvchoLdmlkZW9lZGl0b3IqSAoGZWRpdG9yFV4ZwUAaBGVkaXQaB2VkaXRpbmcaB2VkaXRvcnMaBW1ha2VyGg1haXZpZGVvZWRpdG9yGgt2aWRlb2VkaXRvcjKVAS9nb3RvP3VybD1DQUVTWkFIRUlrWFhVYXN1eXNaZEMyZGN0cTlEMkVKRFZ2Q2VLZ3VQYUxfRU1HUXlHN3hZb09iMWlrcHZFLUtEOVZLa0trRGwwcDVzeWpDd0hISU5QdWVMQ3Jna0ZBcVpZQVlmdGtkb0JGZXcwZlhvWG81WDJ1UzZ1ZHFhcmxHZjNlaDZvYlJrY3ZJOj48Yj40SyBWaWRlbyBFZGl0b3I8L2I-OiBNYWtlIDxiPjRLIFZpZGVvczwvYj4gT25saW5lIC0gS2Fwd2luZ0K9AUNsaWNrICZxdW90O0V4cG9ydCBQcm9qZWN0JnF1b3Q7IFdoZW4geW91JiMzOTtyZSByZWFkeSwgY2xpY2sgJnF1b3Q7RXhwb3J0IHByb2plY3QmcXVvdDsgYW5kIDxiPnNlbGVjdCA0SyBmcm9tIHRoZSByZXNvbHV0aW9uIGRyb3Bkb3duPC9iPi4gVGhlbiBkb3dubG9hZCB5b3VyIHZpZGVvIGluIDRLIHRvIHNoYXJlIGFueXdoZXJlLkoCYW5KAnRvSgRmcm9tUgFpUgh2aWRlbyBvbiICEAFIAFgAaAA",
+        "source": "Kapwing"
+      },
+      {
+        "position": 3,
+        "title": "How do you export a 4K vertical video? : r/VideoEditing",
+        "link": "https://www.google.com/goto?url=CAESmgEBxCJF17lx4fQ0aBF3c3dk34J9na7MFK4NyJ0vC54G5Evny-ryZlTIrxGKg1HwtFg1ZEtZ40sOVvTIU4QtB4FkN67zi-phg5-KEnX6bFXDUAyFT8ZYYpVd9f_XzdxLTSTzY_kjX8DudhuY8rDu5DELIrKw7bqaJWcfDCu3w94HFLgyimOj7H5crggqVazwx1PjqLrGctrYSCBW",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmgEBxCJF16Mfj5IHt3XCj50KQdSwDWzJYhQQv8ycW2Rlq7TUfRkJXqllR9t7a-3JDIaRNqbNLbhDAs5_BCLNbDnGqWD9aQtlfiVFUertIH0OcqWQYONO8apgbC6adS13VBXeF520aabwJxOwxYQkRhNRSAyyEQbIXNL7Pux7aCZEPrf5sClJWqMF_Jnw-2jFylBAvRIHDtzVyUoS&ved=2ahUKEwj53fz525uYAxXeGoAAHWUPPAMQFnoECCsQAQ&uoh=1",
+        "displayed_link": "10+ comments",
+        "date": "3 years ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+        "snippet": "I have been trying my hand at video editing for fun. I have access to premiere pro and was messing with some 4K clips of movies/ songs etc downloaded ...",
+        "sitelinks": {
+          "list": [
+            {
+              "title": "Shoot in 4k then export at 1080p or just shoot at 1080p?",
+              "link": "https://www.google.com/goto?url=CAESpQEBxCJF1yQC_j3VB_GTurkp-8c-G0p8uphKL_MAGrY-9SnYv_8YwOl9RdMPz8_bRLU-UomqDuhfSsBrNHRmOLXcBQbIBltSGxIhPYy4WFoflv6Bmpy4JOCGCKSfjTuDS3xaWwVkAJZDyhlYmQB8YIk1_Um9syOdAn9GjWxxSot-NrgSgPxUK5D-divtjfUKGflVNjdNoqj0qJ3RmyQx6_0AnQML3XA&gsessionid=l30QYWCTcgUMnedixmp_EZX-du_s_Vxs_lxfLdltwQVSGtjEfW8vsQ",
+              "answer_count": 74,
+              "date": "12 Jul 2024"
+            },
+            {
+              "title": "4K Videos export as 1080p : r/premiere",
+              "link": "https://www.google.com/goto?url=CAESigEBxCJF16swOVSTUwHolTRR4_Y1J7k9vQ7ibBelWICqnO7Ic0dQR2ESCvOj-xQxkOKU_BRl0naOw6QF4I-jlrFIW4zsmiN78lEXedrCzdHPw2uljY2eCb4evoCXfNhh1GqQRjUvtoQDSIo6rHAxpkFNfqHqhIQRpcEiEEu-rxDxrZnvxkkQIr3TJ04&gsessionid=l30QYWCTcgUMnedixmp_EZX-du_s_Vxs_lxfLdltwQVSGtjEfW8vsQ",
+              "answer_count": 8,
+              "date": "30 Dec 2023"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "How do you export a 4K vertical video? to export 4K clips as vertical videos. select Render at Maximum Depth and Use Maximum Render Quality ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESmgEBxCJF17lx4fQ0aBF3c3dk34J9na7MFK4NyJ0vC54G5Evny-ryZlTIrxGKg1HwtFg1ZEtZ40sOVvTIU4QtB4FkN67zi-phg5-KEnX6bFXDUAyFT8ZYYpVd9f_XzdxLTSTzY_kjX8DudhuY8rDu5DELIrKw7bqaJWcfDCu3w94HFLgyimOj7H5crggqVazwx1PjqLrGctrYSCBW",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCeENKRjE3bHg0ZlEwYUJGM2MzZGszNEo5bmE3TUZLNE55SjB2QzU0RzVFdm55LXJ5WmxUSXJ4R0tnMUh3dEZnMVpFdFo0MHNPVnZUSVU0UXRCNEZrTjY3emktcGhnNS1LRW5YNmJGWERVQXlGVDhaWVlwVmQ5Zl9YemR4TFRTVHpZX2tqWDhEdWRodVk4ckR1NURFTElyS3c3YnFhSldjZkRDdTN3OTRIRkxneWltT2o3SDVjcmdncVZhend4MVBqcUxyR2N0cllTQ0JXEgQaAggAGuIHEgAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQL4HCAAQABgAIAAqFQoDaG93FaaqoUAaCWltcG9ydGluZyoJCgJ0bxUAAAAAKiUKBmV4cG9ydBWmobhAGglpbXBvcnRpbmcaC2l2O3A7ZXhwb3J0KhcKAjRrFUhr4UAaA3VoZBoHNGs2MGZwcyopCgU2MGZwcxUAAAAAGgY2MCBmcHMaBzRrNjBmcHMaCml2O3A7NjBmcHMqSQoIdmVydGljYWwV5X7NQBoIcG9ydHJhaXQaB3VwcmlnaHQaCnZlcnRpY2FsbHkaDWl2O3A7dmVydGljYWwaCmhvcml6b250YWwqHgoGdmlkZW9zFcOOJUAaBXZlZGlvGgh2aWRlbyBvbioLCgRmcm9tFQAAAAAqCQoCYW4VAAAAACo9CgJhaRUAAAAAGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoBaRoHYWl2aWRlbxoNYWl2aWRlb2VkaXRvcioxCgV2aWRlbxXGHbVAGgdhaXZpZGVvGg1haXZpZGVvZWRpdG9yGgt2aWRlb2VkaXRvcipICgZlZGl0b3IVAAAAABoEZWRpdBoHZWRpdGluZxoHZWRpdG9ycxoFbWFrZXIaDWFpdmlkZW9lZGl0b3IaC3ZpZGVvZWRpdG9yMt4BL2dvdG8_dXJsPUNBRVNtZ0VCeENKRjE3bHg0ZlEwYUJGM2MzZGszNEo5bmE3TUZLNE55SjB2QzU0RzVFdm55LXJ5WmxUSXJ4R0tnMUh3dEZnMVpFdFo0MHNPVnZUSVU0UXRCNEZrTjY3emktcGhnNS1LRW5YNmJGWERVQXlGVDhaWVlwVmQ5Zl9YemR4TFRTVHpZX2tqWDhEdWRodVk4ckR1NURFTElyS3c3YnFhSldjZkRDdTN3OTRIRkxneWltT2o3SDVjcmdncVZhend4MVBqcUxyR2N0cllTQ0JXOk5Ib3cgZG8geW91IDxiPmV4cG9ydDwvYj4gYSA8Yj40SyB2ZXJ0aWNhbCB2aWRlbzwvYj4_IDogci9WaWRlb0VkaXRpbmcgLSBSZWRkaXRCmwFIb3cgZG8geW91IGV4cG9ydCBhIDRLIHZlcnRpY2FsIHZpZGVvPyB0byBleHBvcnQgNEsgY2xpcHMgYXMgdmVydGljYWwgdmlkZW9zLiA8Yj5zZWxlY3QgUmVuZGVyIGF0IE1heGltdW0gRGVwdGggYW5kIFVzZSBNYXhpbXVtIFJlbmRlciBRdWFsaXR5PC9iPiZuYnNwOy4uLkoCYW5KAnRvSgRmcm9tUgFpUgh2aWRlbyBvbiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCeENKRjE3bHg0ZlEwYUJGM2MzZGszNEo5bmE3TUZLNE55SjB2QzU0RzVFdm55LXJ5WmxUSXJ4R0tnMUh3dEZnMVpFdFo0MHNPVnZUSVU0UXRCNEZrTjY3emktcGhnNS1LRW5YNmJGWERVQXlGVDhaWVlwVmQ5Zl9YemR4TFRTVHpZX2tqWDhEdWRodVk4ckR1NURFTElyS3c3YnFhSldjZkRDdTN3OTRIRkxneWltT2o3SDVjcmdncVZhend4MVBqcUxyR2N0cllTQ0JXEgQaAggAGuIHEgAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQL4HCAAQABgAIAAqFQoDaG93FaaqoUAaCWltcG9ydGluZyoJCgJ0bxUAAAAAKiUKBmV4cG9ydBWmobhAGglpbXBvcnRpbmcaC2l2O3A7ZXhwb3J0KhcKAjRrFUhr4UAaA3VoZBoHNGs2MGZwcyopCgU2MGZwcxUAAAAAGgY2MCBmcHMaBzRrNjBmcHMaCml2O3A7NjBmcHMqSQoIdmVydGljYWwV5X7NQBoIcG9ydHJhaXQaB3VwcmlnaHQaCnZlcnRpY2FsbHkaDWl2O3A7dmVydGljYWwaCmhvcml6b250YWwqHgoGdmlkZW9zFcOOJUAaBXZlZGlvGgh2aWRlbyBvbioLCgRmcm9tFQAAAAAqCQoCYW4VAAAAACo9CgJhaRUAAAAAGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoBaRoHYWl2aWRlbxoNYWl2aWRlb2VkaXRvcioxCgV2aWRlbxXGHbVAGgdhaXZpZGVvGg1haXZpZGVvZWRpdG9yGgt2aWRlb2VkaXRvcipICgZlZGl0b3IVAAAAABoEZWRpdBoHZWRpdGluZxoHZWRpdG9ycxoFbWFrZXIaDWFpdmlkZW9lZGl0b3IaC3ZpZGVvZWRpdG9yMt4BL2dvdG8_dXJsPUNBRVNtZ0VCeENKRjE3bHg0ZlEwYUJGM2MzZGszNEo5bmE3TUZLNE55SjB2QzU0RzVFdm55LXJ5WmxUSXJ4R0tnMUh3dEZnMVpFdFo0MHNPVnZUSVU0UXRCNEZrTjY3emktcGhnNS1LRW5YNmJGWERVQXlGVDhaWVlwVmQ5Zl9YemR4TFRTVHpZX2tqWDhEdWRodVk4ckR1NURFTElyS3c3YnFhSldjZkRDdTN3OTRIRkxneWltT2o3SDVjcmdncVZhend4MVBqcUxyR2N0cllTQ0JXOk5Ib3cgZG8geW91IDxiPmV4cG9ydDwvYj4gYSA8Yj40SyB2ZXJ0aWNhbCB2aWRlbzwvYj4_IDogci9WaWRlb0VkaXRpbmcgLSBSZWRkaXRCmwFIb3cgZG8geW91IGV4cG9ydCBhIDRLIHZlcnRpY2FsIHZpZGVvPyB0byBleHBvcnQgNEsgY2xpcHMgYXMgdmVydGljYWwgdmlkZW9zLiA8Yj5zZWxlY3QgUmVuZGVyIGF0IE1heGltdW0gRGVwdGggYW5kIFVzZSBNYXhpbXVtIFJlbmRlciBRdWFsaXR5PC9iPiZuYnNwOy4uLkoCYW5KAnRvSgRmcm9tUgFpUgh2aWRlbyBvbiICEAFIAFgAaAA",
+        "source": "Reddit \u00b7 r/VideoEditing"
+      },
+      {
+        "position": 4,
+        "title": "Free 4K Video Editing Apps: What Really Works in 2026",
+        "link": "https://www.google.com/goto?url=CAEScQHEIkXXsXy5HGEfC2m6lzAtomywyW0ddshYXjpjL80FEZBLzAF1GHX-uayRy9T5ppBS7phCU5nsajVRG8ItfspKtHBAyjKS-5jXqu1TRYBTwPpc3BMmmp4E7zvJ2TZvqaCg_w5XjK_tS2l8JRuU7my4",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHEIkXXYiP6tzfoDuBkNbcScsQMC7IMTJ2i2UOeZbc1rGstvXYz69IfDoG8ra0CNq53dpHGcD_cXXbe2LpDTD07JwQyS4Rl1t93w4_9vSBlKKW5CV_UXvsLUNFLpRyXznDJMMiNkteoNvSytSICEfLE&ved=2ahUKEwj53fz525uYAxXeGoAAHWUPPAMQFnoECB8QAQ&uoh=1",
+        "displayed_link": "https://vastvikfilms.com \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA3NzdPT08_Pz9XV1dubm7-_v4pKSlFRUUaGhojIyO9vb2YmJiPj48LCwuEhIQwMDDz8_N6enpoaGjQ0NDIyMhhYWHY2NiysrKlpaXo6Oji4uKjyyDFAAAAC3RSTlMAGoCURWDV6_oxwaDKbZwAAAGYSURBVCiRZVLrmqsgDLS2W21DAEEuouK97_-IC7ja9px8_sAMZCaTZNkRj_xZlGXxzB_Zv_FTwBnFzxd0uYdcXQOhrSIS4H55Y494vyYtpUQI5PHv9oUBQUF7JgSh8IFe4pkSyduWYUsO5r1y5AMrCZetUJQAaUSSlXSme41vJoaEUUVrKlMqaj56CILE5NkkKdtZy0MNUN5SopAiToSIJuUeWb6DTV2jUqCCoFbIHbxmz0OdoCHVkFMtlPfsbRthHhnW8aj-SNMjty6L4YFzz0rbDVorSCCft24cu6rq5sWxBvpK62EESGX5-KqoRWusW4Zw5zUM2phQ9glyMyEzzsb33mlHrfGmm_WA99CKqowe5nHYqvCmmwe7gu5Gx-prNGELVOuCoT66dYx3turl0mAKqUNYMMSHNsLHifc8-FBG41NnfQ-GTtIisxJtaijPTudd31jLe9cjmuYc2T5sUK4HnDww7tSf7Sluu31-xd5Phu_WnRt4O91lh-8f23n52NrE973YefmGyvy_nb9d72Uc4vVc2ewX4hYoIjEQJSkAAAAASUVORK5CYII.png",
+        "date": "15 Oct 2026",
+        "snippet": "VN exports up to 4K at 60fps. InShot lets you export 4K at up to 60fps for free, Export a 10-second sample. 2. Open the file details and ...",
+        "snippet_highlighted_words": [
+          "VN exports up to 4K at 60fps"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "VN exports up to 4K at 60fps. InShot lets you export 4K at up to 60fps for free, Export a 10-second sample. 2. Open the file details and ...",
+            "source_info_link": "https://www.google.com/goto?url=CAEScQHEIkXXsXy5HGEfC2m6lzAtomywyW0ddshYXjpjL80FEZBLzAF1GHX-uayRy9T5ppBS7phCU5nsajVRG8ItfspKtHBAyjKS-5jXqu1TRYBTwPpc3BMmmp4E7zvJ2TZvqaCg_w5XjK_tS2l8JRuU7my4",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA3NzdPT08_Pz9XV1dubm7-_v4pKSlFRUUaGhojIyO9vb2YmJiPj48LCwuEhIQwMDDz8_N6enpoaGjQ0NDIyMhhYWHY2NiysrKlpaXo6Oji4uKjyyDFAAAAC3RSTlMAGoCURWDV6_oxwaDKbZwAAAGYSURBVCiRZVLrmqsgDLS2W21DAEEuouK97_-IC7ja9px8_sAMZCaTZNkRj_xZlGXxzB_Zv_FTwBnFzxd0uYdcXQOhrSIS4H55Y494vyYtpUQI5PHv9oUBQUF7JgSh8IFe4pkSyduWYUsO5r1y5AMrCZetUJQAaUSSlXSme41vJoaEUUVrKlMqaj56CILE5NkkKdtZy0MNUN5SopAiToSIJuUeWb6DTV2jUqCCoFbIHbxmz0OdoCHVkFMtlPfsbRthHhnW8aj-SNMjty6L4YFzz0rbDVorSCCft24cu6rq5sWxBvpK62EESGX5-KqoRWusW4Zw5zUM2phQ9glyMyEzzsb33mlHrfGmm_WA99CKqowe5nHYqvCmmwe7gu5Gx-prNGELVOuCoT66dYx3turl0mAKqUNYMMSHNsLHifc8-FBG41NnfQ-GTtIisxJtaijPTudd31jLe9cjmuYc2T5sUK4HnDww7tSf7Sluu31-xd5Phu_WnRt4O91lh-8f23n52NrE973YefmGyvy_nb9d72Uc4vVc2ewX4hYoIjEQJSkAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqYBL2dvdG8_dXJsPUNBRVNjUUhFSWtYWHNYeTVIR0VmQzJtNmx6QXRvbXl3eVcwZGRzaFlYanBqTDgwRkVaQkx6QUYxR0hYLXVheVJ5OVQ1cHBCUzdwaENVNW5zYWpWUkc4SXRmc3BLdEhCQXlqS1MtNWpYcXUxVFJZQlR3UHBjM0JNbW1wNEU3enZKMlRadnFhQ2dfdzVYaktfdFMybDhKUnVVN215NBIEGgIIABqXBxICCAAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQPEGCAAQABgAIAAqFQoDaG93FecXMz8aCWltcG9ydGluZyoJCgJ0bxUAAAAAKiUKBmV4cG9ydBUXVjRAGglpbXBvcnRpbmcaC2l2O3A7ZXhwb3J0KhcKAjRrFdDSz0AaA3VoZBoHNGs2MGZwcyopCgU2MGZwcxWUipo_GgY2MCBmcHMaBzRrNjBmcHMaCml2O3A7NjBmcHMqSQoIdmVydGljYWwV-kE_PhoIcG9ydHJhaXQaB3VwcmlnaHQaCnZlcnRpY2FsbHkaDWl2O3A7dmVydGljYWwaCmhvcml6b250YWwqHgoGdmlkZW9zFSx-A0AaBXZlZGlvGgh2aWRlbyBvbioLCgRmcm9tFQAAAAAqCQoCYW4VAAAAACo9CgJhaRVnpko_GhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoBaRoHYWl2aWRlbxoNYWl2aWRlb2VkaXRvcioxCgV2aWRlbxW2UMdAGgdhaXZpZGVvGg1haXZpZGVvZWRpdG9yGgt2aWRlb2VkaXRvcipICgZlZGl0b3IVxXl5PxoEZWRpdBoHZWRpdGluZxoHZWRpdG9ycxoFbWFrZXIaDWFpdmlkZW9lZGl0b3IaC3ZpZGVvZWRpdG9yMqYBL2dvdG8_dXJsPUNBRVNjUUhFSWtYWHNYeTVIR0VmQzJtNmx6QXRvbXl3eVcwZGRzaFlYanBqTDgwRkVaQkx6QUYxR0hYLXVheVJ5OVQ1cHBCUzdwaENVNW5zYWpWUkc4SXRmc3BLdEhCQXlqS1MtNWpYcXUxVFJZQlR3UHBjM0JNbW1wNEU3enZKMlRadnFhQ2dfdzVYaktfdFMybDhKUnVVN215NDo8RnJlZSA8Yj40SyBWaWRlbyBFZGl0aW5nPC9iPiBBcHBzOiBXaGF0IFJlYWxseSBXb3JrcyBpbiAyMDI2QpgBPGI-Vk4gZXhwb3J0cyB1cCB0byA0SyBhdCA2MGZwczwvYj4uIEluU2hvdCBsZXRzIHlvdSBleHBvcnQgNEsgYXQgdXAgdG8gNjBmcHMgZm9yIGZyZWUsIEV4cG9ydCBhIDEwLXNlY29uZCBzYW1wbGUuIDIuIE9wZW4gdGhlIGZpbGUgZGV0YWlscyBhbmQmbmJzcDsuLi5KBGZyb21KAnRvSgJhblIIdmlkZW8gb25SAWkiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqYBL2dvdG8_dXJsPUNBRVNjUUhFSWtYWHNYeTVIR0VmQzJtNmx6QXRvbXl3eVcwZGRzaFlYanBqTDgwRkVaQkx6QUYxR0hYLXVheVJ5OVQ1cHBCUzdwaENVNW5zYWpWUkc4SXRmc3BLdEhCQXlqS1MtNWpYcXUxVFJZQlR3UHBjM0JNbW1wNEU3enZKMlRadnFhQ2dfdzVYaktfdFMybDhKUnVVN215NBIEGgIIABqXBxICCAAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQPEGCAAQABgAIAAqFQoDaG93FecXMz8aCWltcG9ydGluZyoJCgJ0bxUAAAAAKiUKBmV4cG9ydBUXVjRAGglpbXBvcnRpbmcaC2l2O3A7ZXhwb3J0KhcKAjRrFdDSz0AaA3VoZBoHNGs2MGZwcyopCgU2MGZwcxWUipo_GgY2MCBmcHMaBzRrNjBmcHMaCml2O3A7NjBmcHMqSQoIdmVydGljYWwV-kE_PhoIcG9ydHJhaXQaB3VwcmlnaHQaCnZlcnRpY2FsbHkaDWl2O3A7dmVydGljYWwaCmhvcml6b250YWwqHgoGdmlkZW9zFSx-A0AaBXZlZGlvGgh2aWRlbyBvbioLCgRmcm9tFQAAAAAqCQoCYW4VAAAAACo9CgJhaRVnpko_GhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoBaRoHYWl2aWRlbxoNYWl2aWRlb2VkaXRvcioxCgV2aWRlbxW2UMdAGgdhaXZpZGVvGg1haXZpZGVvZWRpdG9yGgt2aWRlb2VkaXRvcipICgZlZGl0b3IVxXl5PxoEZWRpdBoHZWRpdGluZxoHZWRpdG9ycxoFbWFrZXIaDWFpdmlkZW9lZGl0b3IaC3ZpZGVvZWRpdG9yMqYBL2dvdG8_dXJsPUNBRVNjUUhFSWtYWHNYeTVIR0VmQzJtNmx6QXRvbXl3eVcwZGRzaFlYanBqTDgwRkVaQkx6QUYxR0hYLXVheVJ5OVQ1cHBCUzdwaENVNW5zYWpWUkc4SXRmc3BLdEhCQXlqS1MtNWpYcXUxVFJZQlR3UHBjM0JNbW1wNEU3enZKMlRadnFhQ2dfdzVYaktfdFMybDhKUnVVN215NDo8RnJlZSA8Yj40SyBWaWRlbyBFZGl0aW5nPC9iPiBBcHBzOiBXaGF0IFJlYWxseSBXb3JrcyBpbiAyMDI2QpgBPGI-Vk4gZXhwb3J0cyB1cCB0byA0SyBhdCA2MGZwczwvYj4uIEluU2hvdCBsZXRzIHlvdSBleHBvcnQgNEsgYXQgdXAgdG8gNjBmcHMgZm9yIGZyZWUsIEV4cG9ydCBhIDEwLXNlY29uZCBzYW1wbGUuIDIuIE9wZW4gdGhlIGZpbGUgZGV0YWlscyBhbmQmbmJzcDsuLi5KBGZyb21KAnRvSgJhblIIdmlkZW8gb25SAWkiAhABSABYAGgA",
+        "source": "Vastvik Films"
+      },
+      {
+        "position": 5,
+        "title": "Award Winning AI Video Editor: Free & Online",
+        "link": "https://www.google.com/goto?url=CAESYwHEIkXXJVoMSQC69MSCFfIztpUN4ErrJdqxDS22Qc7Tqc79ZOAe-5TsL6DANWYPCEx_qwG-Y-NUDvO_6KNO_x_fjXLgZHcF0-xpuW3KZqUESukG2Kysyg-QmT9FvD9AvZwYRg",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHEIkXXB1Msxtsr7ww06evaHjEHdTLsbVahZb2tbyxteSyMGNWC-JGVfQ78iKLnBeqf-GSkTzRKo2kdtTkNtdtcz_mKuSgunjzMGb88-nXkIpue1V54nf5IXen6ushF-pdmBA&ved=2ahUKEwj53fz525uYAxXeGoAAHWUPPAMQFnoECB0QAQ&uoh=1",
+        "displayed_link": "https://www.vmaker.com \u203a ai-video-editor",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAVFBMVEVHcExh1rYKtOQNteNHzMQ6xc06xc0Tt-Bb07otwdJj1rX___8YutxU0bwOteIivtdf1bdEy8JOzsU_yckrwtA2xc3s-fkEutad3-XJ7u9w1NW26OuxpBlcAAAAC3RSTlMA5uZxgE0rhH2Amhq4Z40AAADLSURBVCiRtdLbDsIgDIDhqWwTQZAWGJvv_56WjUNd4qV_uPsgoYRh-HPTvSeEGBmNl9feMwcATnR7nMgxZHYQYsPxdAopWfGyk6sRhVBxyratkVoT7tTxTsc2VXoTeFoMXVSpKPgtec8QQKm1YMKovLcVBThQrUS7vO3ozmg5IjIMUVmt54qIPjbEBdLCMYQ2SlqsJtO3gjKPBu_9EbYMWhszdaS72yVXyFzr00qamZCqZMzI8ESmXofQ_rYDu5jr1_-ZpZxbt2n4cx9Tmxkbl-3EugAAAABJRU5ErkJggg.png",
+        "snippet": "After editing it on Vmaker AI, select the export quality as 4k in the final pop-up. Your video will then be exported at the highest quality.",
+        "snippet_highlighted_words": [
+          "select the export quality as 4k in the final pop-up"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "After editing it on Vmaker AI, select the export quality as 4k in the final pop-up. Your video will then be exported at the highest quality.",
+            "source_info_link": "https://www.google.com/goto?url=CAESYwHEIkXXJVoMSQC69MSCFfIztpUN4ErrJdqxDS22Qc7Tqc79ZOAe-5TsL6DANWYPCEx_qwG-Y-NUDvO_6KNO_x_fjXLgZHcF0-xpuW3KZqUESukG2Kysyg-QmT9FvD9AvZwYRg",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAVFBMVEVHcExh1rYKtOQNteNHzMQ6xc06xc0Tt-Bb07otwdJj1rX___8YutxU0bwOteIivtdf1bdEy8JOzsU_yckrwtA2xc3s-fkEutad3-XJ7u9w1NW26OuxpBlcAAAAC3RSTlMA5uZxgE0rhH2Amhq4Z40AAADLSURBVCiRtdLbDsIgDIDhqWwTQZAWGJvv_56WjUNd4qV_uPsgoYRh-HPTvSeEGBmNl9feMwcATnR7nMgxZHYQYsPxdAopWfGyk6sRhVBxyratkVoT7tTxTsc2VXoTeFoMXVSpKPgtec8QQKm1YMKovLcVBThQrUS7vO3ozmg5IjIMUVmt54qIPjbEBdLCMYQ2SlqsJtO3gjKPBu_9EbYMWhszdaS72yVXyFzr00qamZCqZMzI8ESmXofQ_rYDu5jr1_-ZpZxbt2n4cx9Tmxkbl-3EugAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hFSWtYWEpWb01TUUM2OU1TQ0ZmSXp0cFVONEVyckpkcXhEUzIyUWM3VHFjNzlaT0FlLTVUc0w2REFOV1lQQ0V4X3F3Ry1ZLU5VRHZPXzZLTk9feF9malhMZ1pIY0YwLXhwdVczS1pxVUVTdWtHMkt5c3lnLVFtVDlGdkQ5QXZad1lSZxIEGgIIABqOBxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQOgGCAAQABgAIAAqFQoDaG93FW_SfT8aCWltcG9ydGluZyoJCgJ0bxUAAAAAKiUKBmV4cG9ydBXlUUk_GglpbXBvcnRpbmcaC2l2O3A7ZXhwb3J0KhcKAjRrFTUcJj8aA3VoZBoHNGs2MGZwcyopCgU2MGZwcxUAAAAAGgY2MCBmcHMaBzRrNjBmcHMaCml2O3A7NjBmcHMqSQoIdmVydGljYWwVA-0NPRoIcG9ydHJhaXQaB3VwcmlnaHQaCnZlcnRpY2FsbHkaDWl2O3A7dmVydGljYWwaCmhvcml6b250YWwqHgoGdmlkZW9zFSivd0AaBXZlZGlvGgh2aWRlbyBvbioLCgRmcm9tFQAAAAAqCQoCYW4VAAAAACo9CgJhaRWQEvBAGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoBaRoHYWl2aWRlbxoNYWl2aWRlb2VkaXRvcioxCgV2aWRlbxVEMexAGgdhaXZpZGVvGg1haXZpZGVvZWRpdG9yGgt2aWRlb2VkaXRvcipICgZlZGl0b3IVjr63QBoEZWRpdBoHZWRpdGluZxoHZWRpdG9ycxoFbWFrZXIaDWFpdmlkZW9lZGl0b3IaC3ZpZGVvZWRpdG9yMpQBL2dvdG8_dXJsPUNBRVNZd0hFSWtYWEpWb01TUUM2OU1TQ0ZmSXp0cFVONEVyckpkcXhEUzIyUWM3VHFjNzlaT0FlLTVUc0w2REFOV1lQQ0V4X3F3Ry1ZLU5VRHZPXzZLTk9feF9malhMZ1pIY0YwLXhwdVczS1pxVUVTdWtHMkt5c3lnLVFtVDlGdkQ5QXZad1lSZzpKQXdhcmQgV2lubmluZyA8Yj5BSSBWaWRlbyBFZGl0b3I8L2I-OiBGcmVlICZhbXA7IE9ubGluZSAtIFZtYWtlciA8Yj5BSTwvYj5CkwFBZnRlciBlZGl0aW5nIGl0IG9uIFZtYWtlciBBSSwgPGI-c2VsZWN0IHRoZSBleHBvcnQgcXVhbGl0eSBhcyA0ayBpbiB0aGUgZmluYWwgcG9wLXVwPC9iPi4gWW91ciB2aWRlbyB3aWxsIHRoZW4gYmUgZXhwb3J0ZWQgYXQgdGhlIGhpZ2hlc3QgcXVhbGl0eS5KBGZyb21KAnRvSgJhblIBaVIIdmlkZW8gb24iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hFSWtYWEpWb01TUUM2OU1TQ0ZmSXp0cFVONEVyckpkcXhEUzIyUWM3VHFjNzlaT0FlLTVUc0w2REFOV1lQQ0V4X3F3Ry1ZLU5VRHZPXzZLTk9feF9malhMZ1pIY0YwLXhwdVczS1pxVUVTdWtHMkt5c3lnLVFtVDlGdkQ5QXZad1lSZxIEGgIIABqOBxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQOgGCAAQABgAIAAqFQoDaG93FW_SfT8aCWltcG9ydGluZyoJCgJ0bxUAAAAAKiUKBmV4cG9ydBXlUUk_GglpbXBvcnRpbmcaC2l2O3A7ZXhwb3J0KhcKAjRrFTUcJj8aA3VoZBoHNGs2MGZwcyopCgU2MGZwcxUAAAAAGgY2MCBmcHMaBzRrNjBmcHMaCml2O3A7NjBmcHMqSQoIdmVydGljYWwVA-0NPRoIcG9ydHJhaXQaB3VwcmlnaHQaCnZlcnRpY2FsbHkaDWl2O3A7dmVydGljYWwaCmhvcml6b250YWwqHgoGdmlkZW9zFSivd0AaBXZlZGlvGgh2aWRlbyBvbioLCgRmcm9tFQAAAAAqCQoCYW4VAAAAACo9CgJhaRWQEvBAGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoBaRoHYWl2aWRlbxoNYWl2aWRlb2VkaXRvcioxCgV2aWRlbxVEMexAGgdhaXZpZGVvGg1haXZpZGVvZWRpdG9yGgt2aWRlb2VkaXRvcipICgZlZGl0b3IVjr63QBoEZWRpdBoHZWRpdGluZxoHZWRpdG9ycxoFbWFrZXIaDWFpdmlkZW9lZGl0b3IaC3ZpZGVvZWRpdG9yMpQBL2dvdG8_dXJsPUNBRVNZd0hFSWtYWEpWb01TUUM2OU1TQ0ZmSXp0cFVONEVyckpkcXhEUzIyUWM3VHFjNzlaT0FlLTVUc0w2REFOV1lQQ0V4X3F3Ry1ZLU5VRHZPXzZLTk9feF9malhMZ1pIY0YwLXhwdVczS1pxVUVTdWtHMkt5c3lnLVFtVDlGdkQ5QXZad1lSZzpKQXdhcmQgV2lubmluZyA8Yj5BSSBWaWRlbyBFZGl0b3I8L2I-OiBGcmVlICZhbXA7IE9ubGluZSAtIFZtYWtlciA8Yj5BSTwvYj5CkwFBZnRlciBlZGl0aW5nIGl0IG9uIFZtYWtlciBBSSwgPGI-c2VsZWN0IHRoZSBleHBvcnQgcXVhbGl0eSBhcyA0ayBpbiB0aGUgZmluYWwgcG9wLXVwPC9iPi4gWW91ciB2aWRlbyB3aWxsIHRoZW4gYmUgZXhwb3J0ZWQgYXQgdGhlIGhpZ2hlc3QgcXVhbGl0eS5KBGZyb21KAnRvSgJhblIBaVIIdmlkZW8gb24iAhABSABYAGgA",
+        "source": "Vmaker AI"
+      },
+      {
+        "position": 6,
+        "title": "Free Online Video Editor - Drag & Drop, Easy to Use",
+        "link": "https://www.google.com/goto?url=CAESYwHEIkXXedadVmWceDKysVjH2Pt9Z_T5Cuk1lq99CFAw-dRZJgtDcl59sgM2MLHmHBNjEMLPrrzdInUGDGxnoLwts8dza8wGv5AVaZmw5LSjbS9IfJcgC4S54gObleSmKVZhZA",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHEIkXX6DrQy8R2VqbMyuAnfOztHlA587oOmTEsV0R4jpgjArb44PZxYV7CwhA4_VWEApCQBaA39NGXrDm1myPikuINVR9_zT0sNervouGHEKNobMGKgMYYzeujFgo8bKXBkw&ved=2ahUKEwj53fz525uYAxXeGoAAHWUPPAMQFnoECBwQAQ&uoh=1",
+        "displayed_link": "https://www.veed.io \u203a VEED Tools",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACF0lEQVR4AcVXNWwdQRD9lVP_3eMwMzPWYWZOyjBTGWZO2kDfhLkMm3qZuTMzjHfMcE93ss_ald7HgTeo21iXM0gIcSwej_9RqFCfKUqwTbatPh9lXwqdRwgxWCEVG4gcKeyzM3LgfKBJtGSC065AmnAkpuryVxcB5fs3EyjXSKA8xh90oheBG3kuPSfPF4t2GYEGWQbpX891gwlse2BBA8c-OoEEjn1yoP72B3YwgdEzJT1r9DfwpM6loWMldD5ktKTHtf4ZfNbk0ZjZMpgA4-QPHMWKsyYksPKcCfVOfvfLHiCwZA-u46VEXIZLSZj44t1GeAKGJehmAW7GcfN6p3LsHMlp9pW_VeSSacvwBBhbbuNm3HLH6iW_9S6W33yrUz40gRFTJD1tAOOU45KUnbL8-Wqmf8bYxqjpMoAAHCkbRjVrVWdNZ63GPcNjGbyIABZux1198FXnTB98jYku3Gb2nYA0BF3L9k_t_VKXLE-Q5Qq6X-LCzWeYYVcxwMZruLmW7jdp2QGcpQ1XcfOFJjBsguANiOoL--RpvUfDJ8n-E2Acfuug1QzJsQ7rRkJg3kbc5QhzNxjREeA5v5LuhnZ-JcPhBo6OAGP1JTM0AZYVImICliN53ulxNXb8qMqjAy9ttPcxAZ3Q_VBaqv-xnO9qOi8m7VezFE1Xs4Sul9MUPZfTzpPAKeG6DERjttn8pXCkJfK20wyWcxHqVWHJ7gAAAABJRU5ErkJggg.png",
+        "snippet": "VEED is an AI video creation platform that lets you generate videos with AI, clean your audio, add captions, and export in up to 4K quality.",
+        "snippet_highlighted_words": [
+          "export in up to 4K quality"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.6,
+              "reviews": 2139
+            },
+            "extensions": [
+              "4.6(2,139)",
+              "Free"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "VEED is an AI video creation platform that lets you generate videos with AI, clean your audio, add captions, and export in up to 4K quality.",
+            "source_info_link": "https://www.google.com/goto?url=CAESYwHEIkXXedadVmWceDKysVjH2Pt9Z_T5Cuk1lq99CFAw-dRZJgtDcl59sgM2MLHmHBNjEMLPrrzdInUGDGxnoLwts8dza8wGv5AVaZmw5LSjbS9IfJcgC4S54gObleSmKVZhZA",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACF0lEQVR4AcVXNWwdQRD9lVP_3eMwMzPWYWZOyjBTGWZO2kDfhLkMm3qZuTMzjHfMcE93ss_ald7HgTeo21iXM0gIcSwej_9RqFCfKUqwTbatPh9lXwqdRwgxWCEVG4gcKeyzM3LgfKBJtGSC065AmnAkpuryVxcB5fs3EyjXSKA8xh90oheBG3kuPSfPF4t2GYEGWQbpX891gwlse2BBA8c-OoEEjn1yoP72B3YwgdEzJT1r9DfwpM6loWMldD5ktKTHtf4ZfNbk0ZjZMpgA4-QPHMWKsyYksPKcCfVOfvfLHiCwZA-u46VEXIZLSZj44t1GeAKGJehmAW7GcfN6p3LsHMlp9pW_VeSSacvwBBhbbuNm3HLH6iW_9S6W33yrUz40gRFTJD1tAOOU45KUnbL8-Wqmf8bYxqjpMoAAHCkbRjVrVWdNZ63GPcNjGbyIABZux1198FXnTB98jYku3Gb2nYA0BF3L9k_t_VKXLE-Q5Qq6X-LCzWeYYVcxwMZruLmW7jdp2QGcpQ1XcfOFJjBsguANiOoL--RpvUfDJ8n-E2Acfuug1QzJsQ7rRkJg3kbc5QhzNxjREeA5v5LuhnZ-JcPhBo6OAGP1JTM0AZYVImICliN53ulxNXb8qMqjAy9ttPcxAZ3Q_VBaqv-xnO9qOi8m7VezFE1Xs4Sul9MUPZfTzpPAKeG6DERjttn8pXCkJfK20wyWcxHqVWHJ7gAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hFSWtYWGVkYWRWbVdjZURLeXNWakgyUHQ5Wl9UNUN1azFscTk5Q0ZBdy1kUlpKZ3REY2w1OXNnTTJNTEhtSEJOakVNTFBycnpkSW5VR0RHeG5vTHd0czhkemE4d0d2NUFWYVptdzVMU2piUzlJZkpjZ0M0UzU0Z09ibGVTbUtWWmhaQRIEGgIIABqJBxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQOMGCAAQABgAIAAqFQoDaG93FT_Ngj4aCWltcG9ydGluZyoJCgJ0bxUAAAAAKiUKBmV4cG9ydBXCogo_GglpbXBvcnRpbmcaC2l2O3A7ZXhwb3J0KhcKAjRrFYao9z4aA3VoZBoHNGs2MGZwcyopCgU2MGZwcxUAAAAAGgY2MCBmcHMaBzRrNjBmcHMaCml2O3A7NjBmcHMqSQoIdmVydGljYWwVAAAAABoIcG9ydHJhaXQaB3VwcmlnaHQaCnZlcnRpY2FsbHkaDWl2O3A7dmVydGljYWwaCmhvcml6b250YWwqHgoGdmlkZW9zFVvhJ0AaBXZlZGlvGgh2aWRlbyBvbioLCgRmcm9tFQAAAAAqCQoCYW4VAAAAACo9CgJhaRXtm4NAGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoBaRoHYWl2aWRlbxoNYWl2aWRlb2VkaXRvcioxCgV2aWRlbxXdzclAGgdhaXZpZGVvGg1haXZpZGVvZWRpdG9yGgt2aWRlb2VkaXRvcipICgZlZGl0b3IVLr2VQBoEZWRpdBoHZWRpdGluZxoHZWRpdG9ycxoFbWFrZXIaDWFpdmlkZW9lZGl0b3IaC3ZpZGVvZWRpdG9yMpQBL2dvdG8_dXJsPUNBRVNZd0hFSWtYWGVkYWRWbVdjZURLeXNWakgyUHQ5Wl9UNUN1azFscTk5Q0ZBdy1kUlpKZ3REY2w1OXNnTTJNTEhtSEJOakVNTFBycnpkSW5VR0RHeG5vTHd0czhkemE4d0d2NUFWYVptdzVMU2piUzlJZkpjZ0M0UzU0Z09ibGVTbUtWWmhaQTpFRnJlZSBPbmxpbmUgPGI-VmlkZW8gRWRpdG9yPC9iPiAtIERyYWcgJmFtcDsgRHJvcCwgRWFzeSB0byBVc2UgLSBWRUVEQpMBVkVFRCBpcyBhbiBBSSB2aWRlbyBjcmVhdGlvbiBwbGF0Zm9ybSB0aGF0IGxldHMgeW91IGdlbmVyYXRlIHZpZGVvcyB3aXRoIEFJLCBjbGVhbiB5b3VyIGF1ZGlvLCBhZGQgY2FwdGlvbnMsIGFuZCA8Yj5leHBvcnQgaW4gdXAgdG8gNEsgcXVhbGl0eTwvYj4uSgRmcm9tSgJ0b0oCYW5SCHZpZGVvIG9uUgFpIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hFSWtYWGVkYWRWbVdjZURLeXNWakgyUHQ5Wl9UNUN1azFscTk5Q0ZBdy1kUlpKZ3REY2w1OXNnTTJNTEhtSEJOakVNTFBycnpkSW5VR0RHeG5vTHd0czhkemE4d0d2NUFWYVptdzVMU2piUzlJZkpjZ0M0UzU0Z09ibGVTbUtWWmhaQRIEGgIIABqJBxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQOMGCAAQABgAIAAqFQoDaG93FT_Ngj4aCWltcG9ydGluZyoJCgJ0bxUAAAAAKiUKBmV4cG9ydBXCogo_GglpbXBvcnRpbmcaC2l2O3A7ZXhwb3J0KhcKAjRrFYao9z4aA3VoZBoHNGs2MGZwcyopCgU2MGZwcxUAAAAAGgY2MCBmcHMaBzRrNjBmcHMaCml2O3A7NjBmcHMqSQoIdmVydGljYWwVAAAAABoIcG9ydHJhaXQaB3VwcmlnaHQaCnZlcnRpY2FsbHkaDWl2O3A7dmVydGljYWwaCmhvcml6b250YWwqHgoGdmlkZW9zFVvhJ0AaBXZlZGlvGgh2aWRlbyBvbioLCgRmcm9tFQAAAAAqCQoCYW4VAAAAACo9CgJhaRXtm4NAGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoBaRoHYWl2aWRlbxoNYWl2aWRlb2VkaXRvcioxCgV2aWRlbxXdzclAGgdhaXZpZGVvGg1haXZpZGVvZWRpdG9yGgt2aWRlb2VkaXRvcipICgZlZGl0b3IVLr2VQBoEZWRpdBoHZWRpdGluZxoHZWRpdG9ycxoFbWFrZXIaDWFpdmlkZW9lZGl0b3IaC3ZpZGVvZWRpdG9yMpQBL2dvdG8_dXJsPUNBRVNZd0hFSWtYWGVkYWRWbVdjZURLeXNWakgyUHQ5Wl9UNUN1azFscTk5Q0ZBdy1kUlpKZ3REY2w1OXNnTTJNTEhtSEJOakVNTFBycnpkSW5VR0RHeG5vTHd0czhkemE4d0d2NUFWYVptdzVMU2piUzlJZkpjZ0M0UzU0Z09ibGVTbUtWWmhaQTpFRnJlZSBPbmxpbmUgPGI-VmlkZW8gRWRpdG9yPC9iPiAtIERyYWcgJmFtcDsgRHJvcCwgRWFzeSB0byBVc2UgLSBWRUVEQpMBVkVFRCBpcyBhbiBBSSB2aWRlbyBjcmVhdGlvbiBwbGF0Zm9ybSB0aGF0IGxldHMgeW91IGdlbmVyYXRlIHZpZGVvcyB3aXRoIEFJLCBjbGVhbiB5b3VyIGF1ZGlvLCBhZGQgY2FwdGlvbnMsIGFuZCA8Yj5leHBvcnQgaW4gdXAgdG8gNEsgcXVhbGl0eTwvYj4uSgRmcm9tSgJ0b0oCYW5SCHZpZGVvIG9uUgFpIgIQAUgAWABoAA",
+        "source": "VEED"
+      },
+      {
+        "position": 7,
+        "title": "4K Video Converter - Make Any Video 4K Online",
+        "link": "https://www.google.com/goto?url=CAESsAEBxCJF12ycS70N8-hm7H2iQfQBBv9T4nJGj3siWzvEjTSMQGNWz_V7R1PDxiVSJ4lfGcylI_urDTWT7sPOFrTCHGvcELfj18AUgAdG2ka7XYtspYeWj4m_v1ryMToajJ1sG1K0oAPotW-kWqK2yGKPMb0PSEH7gYCcpGd6Aor784SoxWnMghBkPj9j4Fajt2CBbkmTF_U5ictIddIXH6fD2lGAMoUnmOWs6GnXRPZBwA",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESsAEBxCJF10nr12CpIYhdmlDlWDLWgPDF6Y8yR0as42kAr5QsRCEhwrpWTgJTKGi6Dtbte6VJerj7ne4-yfZPy5RkKNF9o8D6RFu45VJHPRS3PIY2VR4bIfHqq22Vy7O3PHOojNdIMlxjQaFLYCPYmFo8lBS7jGhjxsAgV_VhHRyCvbrNN-q4_BNALdeWHTWgJU0zEW6ki-iYzr6BeGMY9U0UMVqsmlnP08AyEdS08s5_0A&ved=2ahUKEwj53fz525uYAxXeGoAAHWUPPAMQFnoECFMQAQ&uoh=1",
+        "displayed_link": "https://www.topazlabs.com \u203a Tools",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEUhICAgHx8WFRUAAAASERF-fX3___8KCAh8e3ulpaXCwsKcnJxzcnJ2dXXa2tq5ubnQ0NAODAxhYWFoaGhDYtlCAAAAX0lEQVR4Ac3StQEDQRAEwWPmyz9X7Zhi6bncdptdAgf2mpDwuiptQB4VrSTudbQ-kJhIFo9RFkOqVEqhvY4Mfo1ckTeRc5dzTrWR2B-jMDAkQXsVp2BwRESVIBa8cawb2B0EcHlASeQAAAAASUVORK5CYII.png",
+        "snippet": "Instead of simply stretching the video, our 4K video converter tool uses advanced AI models to intelligently recreate your video pixel by pixel. Not only does ...",
+        "snippet_highlighted_words": [
+          "intelligently recreate your video pixel by pixel"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.8,
+              "reviews": 5423
+            },
+            "extensions": [
+              "4.8(5,423)"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Instead of simply stretching the video, our 4K video converter tool uses advanced AI models to intelligently recreate your video pixel by pixel. Not only does ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESsAEBxCJF12ycS70N8-hm7H2iQfQBBv9T4nJGj3siWzvEjTSMQGNWz_V7R1PDxiVSJ4lfGcylI_urDTWT7sPOFrTCHGvcELfj18AUgAdG2ka7XYtspYeWj4m_v1ryMToajJ1sG1K0oAPotW-kWqK2yGKPMb0PSEH7gYCcpGd6Aor784SoxWnMghBkPj9j4Fajt2CBbkmTF_U5ictIddIXH6fD2lGAMoUnmOWs6GnXRPZBwA",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEUhICAgHx8WFRUAAAASERF-fX3___8KCAh8e3ulpaXCwsKcnJxzcnJ2dXXa2tq5ubnQ0NAODAxhYWFoaGhDYtlCAAAAX0lEQVR4Ac3StQEDQRAEwWPmyz9X7Zhi6bncdptdAgf2mpDwuiptQB4VrSTudbQ-kJhIFo9RFkOqVEqhvY4Mfo1ckTeRc5dzTrWR2B-jMDAkQXsVp2BwRESVIBa8cawb2B0EcHlASeQAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvwBL2dvdG8_dXJsPUNBRVNzQUVCeENKRjEyeWNTNzBOOC1obTdIMmlRZlFCQnY5VDRuSkdqM3NpV3p2RWpUU01RR05Xel9WN1IxUER4aVZTSjRsZkdjeWxJX3VyRFRXVDdzUE9GclRDSEd2Y0VMZmoxOEFVZ0FkRzJrYTdYWXRzcFllV2o0bV92MXJ5TVRvYWpKMXNHMUswb0FQb3RXLWtXcUsyeUdLUE1iMFBTRUg3Z1lDY3BHZDZBb3I3ODRTb3hXbk1naEJrUGo5ajRGYWp0MkNCYmttVEZfVTVpY3RJZGRJWEg2ZkQybEdBTW9Vbm1PV3M2R25YUlBaQndBEgQaAggAGrcHEgIIABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJAkQcIABAAGAAgACoVCgNob3cVdlgUPxoJaW1wb3J0aW5nKgkKAnRvFQAAAAAqJQoGZXhwb3J0FQAAAAAaCWltcG9ydGluZxoLaXY7cDtleHBvcnQqFwoCNGsVXa-uQBoDdWhkGgc0azYwZnBzKikKBTYwZnBzFWEfBz8aBjYwIGZwcxoHNGs2MGZwcxoKaXY7cDs2MGZwcypJCgh2ZXJ0aWNhbBUAAAAAGghwb3J0cmFpdBoHdXByaWdodBoKdmVydGljYWxseRoNaXY7cDt2ZXJ0aWNhbBoKaG9yaXpvbnRhbCoeCgZ2aWRlb3MVt2flPxoFdmVkaW8aCHZpZGVvIG9uKgsKBGZyb20VAAAAACoJCgJhbhUAAAAAKj0KAmFpFesDR0AaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgFpGgdhaXZpZGVvGg1haXZpZGVvZWRpdG9yKjEKBXZpZGVvFSbrwEAaB2FpdmlkZW8aDWFpdmlkZW9lZGl0b3IaC3ZpZGVvZWRpdG9yKkgKBmVkaXRvchUAAAAAGgRlZGl0GgdlZGl0aW5nGgdlZGl0b3JzGgVtYWtlchoNYWl2aWRlb2VkaXRvchoLdmlkZW9lZGl0b3IypAEvZ290bz91cmw9Q0FFU2J3SEVJa1hYckRQdG1xaVVVTHY1Ym1lZjZHU29oSEZtTkdrbFNsX0I4UGlXWnhlUGRUb2EweVM0Wjg0X3dfSE03VzBfUllkT3ktU0xncWhzcE5Cd0ZKZWpadzNtMHVfVW1hbW5oOEVaNWZibkFlcnNabDJrWGFpR1g5RTFabHlvWHV3ZjI1aGpoZjAxSDFUM1dwSnRwZzpIPGI-NEsgVmlkZW88L2I-IENvbnZlcnRlciAtIE1ha2UgQW55IDxiPlZpZGVvIDRLPC9iPiBPbmxpbmUgLSBUb3BheiBMYWJzQq4BSW5zdGVhZCBvZiBzaW1wbHkgc3RyZXRjaGluZyB0aGUgdmlkZW8sIG91ciA0SyB2aWRlbyBjb252ZXJ0ZXIgdG9vbCB1c2VzIGFkdmFuY2VkIEFJIG1vZGVscyB0byA8Yj5pbnRlbGxpZ2VudGx5IHJlY3JlYXRlIHlvdXIgdmlkZW8gcGl4ZWwgYnkgcGl4ZWw8L2I-LiBOb3Qgb25seSBkb2VzJm5ic3A7Li4uSgRmcm9tSgJ0b0oCYW5SCHZpZGVvIG9uUgFpIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvwBL2dvdG8_dXJsPUNBRVNzQUVCeENKRjEyeWNTNzBOOC1obTdIMmlRZlFCQnY5VDRuSkdqM3NpV3p2RWpUU01RR05Xel9WN1IxUER4aVZTSjRsZkdjeWxJX3VyRFRXVDdzUE9GclRDSEd2Y0VMZmoxOEFVZ0FkRzJrYTdYWXRzcFllV2o0bV92MXJ5TVRvYWpKMXNHMUswb0FQb3RXLWtXcUsyeUdLUE1iMFBTRUg3Z1lDY3BHZDZBb3I3ODRTb3hXbk1naEJrUGo5ajRGYWp0MkNCYmttVEZfVTVpY3RJZGRJWEg2ZkQybEdBTW9Vbm1PV3M2R25YUlBaQndBEgQaAggAGrcHEgIIABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJAkQcIABAAGAAgACoVCgNob3cVdlgUPxoJaW1wb3J0aW5nKgkKAnRvFQAAAAAqJQoGZXhwb3J0FQAAAAAaCWltcG9ydGluZxoLaXY7cDtleHBvcnQqFwoCNGsVXa-uQBoDdWhkGgc0azYwZnBzKikKBTYwZnBzFWEfBz8aBjYwIGZwcxoHNGs2MGZwcxoKaXY7cDs2MGZwcypJCgh2ZXJ0aWNhbBUAAAAAGghwb3J0cmFpdBoHdXByaWdodBoKdmVydGljYWxseRoNaXY7cDt2ZXJ0aWNhbBoKaG9yaXpvbnRhbCoeCgZ2aWRlb3MVt2flPxoFdmVkaW8aCHZpZGVvIG9uKgsKBGZyb20VAAAAACoJCgJhbhUAAAAAKj0KAmFpFesDR0AaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgFpGgdhaXZpZGVvGg1haXZpZGVvZWRpdG9yKjEKBXZpZGVvFSbrwEAaB2FpdmlkZW8aDWFpdmlkZW9lZGl0b3IaC3ZpZGVvZWRpdG9yKkgKBmVkaXRvchUAAAAAGgRlZGl0GgdlZGl0aW5nGgdlZGl0b3JzGgVtYWtlchoNYWl2aWRlb2VkaXRvchoLdmlkZW9lZGl0b3IypAEvZ290bz91cmw9Q0FFU2J3SEVJa1hYckRQdG1xaVVVTHY1Ym1lZjZHU29oSEZtTkdrbFNsX0I4UGlXWnhlUGRUb2EweVM0Wjg0X3dfSE03VzBfUllkT3ktU0xncWhzcE5Cd0ZKZWpadzNtMHVfVW1hbW5oOEVaNWZibkFlcnNabDJrWGFpR1g5RTFabHlvWHV3ZjI1aGpoZjAxSDFUM1dwSnRwZzpIPGI-NEsgVmlkZW88L2I-IENvbnZlcnRlciAtIE1ha2UgQW55IDxiPlZpZGVvIDRLPC9iPiBPbmxpbmUgLSBUb3BheiBMYWJzQq4BSW5zdGVhZCBvZiBzaW1wbHkgc3RyZXRjaGluZyB0aGUgdmlkZW8sIG91ciA0SyB2aWRlbyBjb252ZXJ0ZXIgdG9vbCB1c2VzIGFkdmFuY2VkIEFJIG1vZGVscyB0byA8Yj5pbnRlbGxpZ2VudGx5IHJlY3JlYXRlIHlvdXIgdmlkZW8gcGl4ZWwgYnkgcGl4ZWw8L2I-LiBOb3Qgb25seSBkb2VzJm5ic3A7Li4uSgRmcm9tSgJ0b0oCYW5SCHZpZGVvIG9uUgFpIgIQAUgAWABoAA",
+        "source": "Topaz Labs",
+        "read_more_link": "https://www.google.com/goto?url=CAESlQIBxCJF1-x1WUVUGueMldwzG7xVmvy8nWRSZedwKimWn4z8Y3AI0DOk0lJD30DgNsTSKzBjhpMHD9W2Sm1GsI1_9dK75lVuEKypBJBSV0OXcssrPm6mg7Suq6tKtbF26Y9JDh-l_FE-nh3SEs6OeQBdy_6PG98fZx3hE8P5EODF3EYbkb3O5P16GwMBeNduKrZwVtfMOVki-bPfW9RC-CxHer8TXaDy5OjIcTHSvYoUkygdixlh9pS22Bn-wuxcBdnarg7fLwRM-R_qe3jSdveSjFgap0GXR2RIGHahSokEi7KH5hmZWuvLTRx65tgOyhMdNE1V7z184iwXAzlO8oDbzqo0PGCK6dlePYbHt4DSyW8YVrx1&gsessionid=l30QYWCTcgUMnedixmp_EZX-du_s_Vxs_lxfLdltwQVSGtjEfW8vsQ"
+      },
+      {
+        "position": 8,
+        "title": "Best Export Settings for 4K Video on VN App.",
+        "link": "https://www.google.com/goto?url=CAESbgHEIkXXjibH_3kZ3gW40zY2NYUMj93P4quvz6jwRiqDXaUlllRmM-Qzmwj1RLjYQ18Vjqm3wvc05NxcmrUPAL7D1-eD0o6LEndt903f6oVlogQo_TX3x8VZ5zmfBXe6-Nm9EqmYDmAsacIUxW5v&gsessionid=l30QYWCTcgUMnedixmp_EZX-du_s_Vxs_lxfLdltwQVSGtjEfW8vsQ",
+        "displayed_link": "9.3K+ likes",
+        "date": "1 year ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f2ece85e6e1e6b9602b7/images/mDC56ehijY7MlrWRWXmoXSBpz0U0bM2YHupNmwoycyA.jpg",
+        "favicon": "https://serpapi.com/searches/6b02f2ece85e6e1e6b9602b7/images/mDC56ehijY7MlrWRWXmoXXBvQcJrf_IyKKk_AcqHa2c.png",
+        "snippet": "\u2728 Upload through the **Edits** app and select **4K** in the top-right corner before posting. \u2728 These settings work best for shorter videos\u2014I'd ...",
+        "duration": "1:22",
+        "about_this_result": {
+          "source": {
+            "description": "\u2728 Upload through the **Edits** app and select **4K** in the top-right corner before posting. \u2728 These settings work best for shorter videos\u2014I'd ...",
+            "icon": "https://serpapi.com/searches/6b02f2ece85e6e1e6b9602b7/images/mDC56ehijY7MlrWRWXmoXZMgZmQbRZoySNrVyD22VE5VGUMblgt8mcnywHCwV1nx.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hFSWtYWGppYkhfM2taM2dXNDB6WTJOWVVNajkzUDRxdXZ6Nmp3UmlxRFhhVWxsbFJtTS1Rem13ajFSTGpZUTE4VmpxbTN3dmMwNU54Y21yVVBBTDdEMS1lRDBvNkxFbmR0OTAzZjZvVmxvZ1FvX1RYM3g4Vlo1em1mQlhlNi1ObTlFcW1ZRG1Bc2FjSVV4VzV2EhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hFSWtYWGppYkhfM2taM2dXNDB6WTJOWVVNajkzUDRxdXZ6Nmp3UmlxRFhhVWxsbFJtTS1Rem13ajFSTGpZUTE4VmpxbTN3dmMwNU54Y21yVVBBTDdEMS1lRDBvNkxFbmR0OTAzZjZvVmxvZ1FvX1RYM3g4Vlo1em1mQlhlNi1ObTlFcW1ZRG1Bc2FjSVV4VzV2EhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "source": "Instagram \u00b7 xploringlight"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "4K video editorAI",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDhm9fwqm2GEYky20FAypTlvadt1bA:1795355372898&q=4K+video+editorAI&sa=X&ved=2ahUKEwj53fz525uYAxXeGoAAHWUPPAMQ1QJ6BAhJEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=4K+video+editorAI"
+      },
+      {
+        "block_position": 1,
+        "query": "4K video editor AI free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDhm9fwqm2GEYky20FAypTlvadt1bA:1795355372898&q=4K+video+editor+AI+free&sa=X&ved=2ahUKEwj53fz525uYAxXeGoAAHWUPPAMQ1QJ6BAhREAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=4K+video+editor+AI+free"
+      },
+      {
+        "block_position": 1,
+        "query": "4K Ultra HD video editor online free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDhm9fwqm2GEYky20FAypTlvadt1bA:1795355372898&q=4K+Ultra+HD+video+editor+online+free&sa=X&ved=2ahUKEwj53fz525uYAxXeGoAAHWUPPAMQ1QJ6BAhQEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=4K+Ultra+HD+video+editor+online+free"
+      },
+      {
+        "block_position": 1,
+        "query": "4K Ultra HD video editor free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDhm9fwqm2GEYky20FAypTlvadt1bA:1795355372898&q=4K+Ultra+HD+video+editor+free&sa=X&ved=2ahUKEwj53fz525uYAxXeGoAAHWUPPAMQ1QJ6BAhPEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=4K+Ultra+HD+video+editor+free"
+      },
+      {
+        "block_position": 1,
+        "query": "4K ultra HD video editor free download",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDhm9fwqm2GEYky20FAypTlvadt1bA:1795355372898&q=4K+ultra+HD+video+editor+free+download&sa=X&ved=2ahUKEwj53fz525uYAxXeGoAAHWUPPAMQ1QJ6BAhLEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=4K+ultra+HD+video+editor+free+download"
+      },
+      {
+        "block_position": 1,
+        "query": "4K ultra HD video editor online free download",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDhm9fwqm2GEYky20FAypTlvadt1bA:1795355372898&q=4K+ultra+HD+video+editor+online+free+download&sa=X&ved=2ahUKEwj53fz525uYAxXeGoAAHWUPPAMQ1QJ6BAhNEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=4K+ultra+HD+video+editor+online+free+download"
+      },
+      {
+        "block_position": 1,
+        "query": "4K video editor online",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDhm9fwqm2GEYky20FAypTlvadt1bA:1795355372898&q=4K+video+editor+online&sa=X&ved=2ahUKEwj53fz525uYAxXeGoAAHWUPPAMQ1QJ6BAhKEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=4K+video+editor+online"
+      },
+      {
+        "block_position": 1,
+        "query": "Video editing online free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDhm9fwqm2GEYky20FAypTlvadt1bA:1795355372898&q=Video+editing+online+free&sa=X&ved=2ahUKEwj53fz525uYAxXeGoAAHWUPPAMQ1QJ6BAhMEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Video+editing+online+free"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=How+to+export+4K+60fps+vertical+videos+from+an+AI+video+editor&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDhm9fwqm2GEYky20FAypTlvadt1bA:1795355372898&ei=7PICa_m3Nt61gLQP5Z7wGQ&start=10&sa=N&sstk=AYl2yk-4fzVFbYiaqnJY4CSfHP_SWo4YEPoMdCOXQy7cH37JZUQU2T_qKp-zS_uIikMTXrqrRLaulkpXPlVjopkOx1JBomklEfowyQ&ved=2ahUKEwj53fz525uYAxXeGoAAHWUPPAMQ8NMDegQIRxAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=How+to+export+4K+60fps+vertical+videos+from+an+AI+video+editor&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDhm9fwqm2GEYky20FAypTlvadt1bA:1795355372898&ei=7PICa_m3Nt61gLQP5Z7wGQ&start=10&sa=N&sstk=AYl2yk-4fzVFbYiaqnJY4CSfHP_SWo4YEPoMdCOXQy7cH37JZUQU2T_qKp-zS_uIikMTXrqrRLaulkpXPlVjopkOx1JBomklEfowyQ&ved=2ahUKEwj53fz525uYAxXeGoAAHWUPPAMQ8tMDegQIRxAE",
+        "3": "https://www.google.com/search?q=How+to+export+4K+60fps+vertical+videos+from+an+AI+video+editor&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDhm9fwqm2GEYky20FAypTlvadt1bA:1795355372898&ei=7PICa_m3Nt61gLQP5Z7wGQ&start=20&sa=N&sstk=AYl2yk-4fzVFbYiaqnJY4CSfHP_SWo4YEPoMdCOXQy7cH37JZUQU2T_qKp-zS_uIikMTXrqrRLaulkpXPlVjopkOx1JBomklEfowyQ&ved=2ahUKEwj53fz525uYAxXeGoAAHWUPPAMQ8tMDegQIRxAG",
+        "4": "https://www.google.com/search?q=How+to+export+4K+60fps+vertical+videos+from+an+AI+video+editor&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDhm9fwqm2GEYky20FAypTlvadt1bA:1795355372898&ei=7PICa_m3Nt61gLQP5Z7wGQ&start=30&sa=N&sstk=AYl2yk-4fzVFbYiaqnJY4CSfHP_SWo4YEPoMdCOXQy7cH37JZUQU2T_qKp-zS_uIikMTXrqrRLaulkpXPlVjopkOx1JBomklEfowyQ&ved=2ahUKEwj53fz525uYAxXeGoAAHWUPPAMQ8tMDegQIRxAI",
+        "5": "https://www.google.com/search?q=How+to+export+4K+60fps+vertical+videos+from+an+AI+video+editor&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDhm9fwqm2GEYky20FAypTlvadt1bA:1795355372898&ei=7PICa_m3Nt61gLQP5Z7wGQ&start=40&sa=N&sstk=AYl2yk-4fzVFbYiaqnJY4CSfHP_SWo4YEPoMdCOXQy7cH37JZUQU2T_qKp-zS_uIikMTXrqrRLaulkpXPlVjopkOx1JBomklEfowyQ&ved=2ahUKEwj53fz525uYAxXeGoAAHWUPPAMQ8tMDegQIRxAK",
+        "6": "https://www.google.com/search?q=How+to+export+4K+60fps+vertical+videos+from+an+AI+video+editor&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDhm9fwqm2GEYky20FAypTlvadt1bA:1795355372898&ei=7PICa_m3Nt61gLQP5Z7wGQ&start=50&sa=N&sstk=AYl2yk-4fzVFbYiaqnJY4CSfHP_SWo4YEPoMdCOXQy7cH37JZUQU2T_qKp-zS_uIikMTXrqrRLaulkpXPlVjopkOx1JBomklEfowyQ&ved=2ahUKEwj53fz525uYAxXeGoAAHWUPPAMQ8tMDegQIRxAM",
+        "7": "https://www.google.com/search?q=How+to+export+4K+60fps+vertical+videos+from+an+AI+video+editor&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDhm9fwqm2GEYky20FAypTlvadt1bA:1795355372898&ei=7PICa_m3Nt61gLQP5Z7wGQ&start=60&sa=N&sstk=AYl2yk-4fzVFbYiaqnJY4CSfHP_SWo4YEPoMdCOXQy7cH37JZUQU2T_qKp-zS_uIikMTXrqrRLaulkpXPlVjopkOx1JBomklEfowyQ&ved=2ahUKEwj53fz525uYAxXeGoAAHWUPPAMQ8tMDegQIRxAO",
+        "8": "https://www.google.com/search?q=How+to+export+4K+60fps+vertical+videos+from+an+AI+video+editor&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDhm9fwqm2GEYky20FAypTlvadt1bA:1795355372898&ei=7PICa_m3Nt61gLQP5Z7wGQ&start=70&sa=N&sstk=AYl2yk-4fzVFbYiaqnJY4CSfHP_SWo4YEPoMdCOXQy7cH37JZUQU2T_qKp-zS_uIikMTXrqrRLaulkpXPlVjopkOx1JBomklEfowyQ&ved=2ahUKEwj53fz525uYAxXeGoAAHWUPPAMQ8tMDegQIRxAQ",
+        "9": "https://www.google.com/search?q=How+to+export+4K+60fps+vertical+videos+from+an+AI+video+editor&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDhm9fwqm2GEYky20FAypTlvadt1bA:1795355372898&ei=7PICa_m3Nt61gLQP5Z7wGQ&start=80&sa=N&sstk=AYl2yk-4fzVFbYiaqnJY4CSfHP_SWo4YEPoMdCOXQy7cH37JZUQU2T_qKp-zS_uIikMTXrqrRLaulkpXPlVjopkOx1JBomklEfowyQ&ved=2ahUKEwj53fz525uYAxXeGoAAHWUPPAMQ8tMDegQIRxAS",
+        "10": "https://www.google.com/search?q=How+to+export+4K+60fps+vertical+videos+from+an+AI+video+editor&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDhm9fwqm2GEYky20FAypTlvadt1bA:1795355372898&ei=7PICa_m3Nt61gLQP5Z7wGQ&start=90&sa=N&sstk=AYl2yk-4fzVFbYiaqnJY4CSfHP_SWo4YEPoMdCOXQy7cH37JZUQU2T_qKp-zS_uIikMTXrqrRLaulkpXPlVjopkOx1JBomklEfowyQ&ved=2ahUKEwj53fz525uYAxXeGoAAHWUPPAMQ8tMDegQIRxAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+export+4K+60fps+vertical+videos+from+an+AI+video+editor&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+export+4K+60fps+vertical+videos+from+an+AI+video+editor&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+export+4K+60fps+vertical+videos+from+an+AI+video+editor&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+export+4K+60fps+vertical+videos+from+an+AI+video+editor&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+export+4K+60fps+vertical+videos+from+an+AI+video+editor&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+export+4K+60fps+vertical+videos+from+an+AI+video+editor&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+export+4K+60fps+vertical+videos+from+an+AI+video+editor&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+export+4K+60fps+vertical+videos+from+an+AI+video+editor&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+export+4K+60fps+vertical+videos+from+an+AI+video+editor&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+export+4K+60fps+vertical+videos+from+an+AI+video+editor&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+export+4K+60fps+vertical+videos+from+an+AI+video+editor&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

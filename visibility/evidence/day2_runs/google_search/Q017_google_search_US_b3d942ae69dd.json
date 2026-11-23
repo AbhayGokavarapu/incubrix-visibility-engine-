@@ -1,0 +1,539 @@
+{
+  "measurement_id": "b3d942ae69dd",
+  "question_id": "Q017",
+  "timestamp_utc": "2026-11-23T09:00:44.760840+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "Does posting AI generated shorts hurt channel reach or get demonetized?",
+  "market": "US",
+  "collection_method": "DAY_2_AUTOMATED_API",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://www.reddit.com/r/aitubers/comments/1r11iix/does_youtube_penalize_you_for_using_only_ai_in/",
+    "https://www.youtube.com/watch?v=m647KpdNTDg&vl=en-US",
+    "https://www.facebook.com/sikthygames/posts/youtubes-new-monetization-guidelinesthis-probably-to-knock-down-the-amount-of-ai/1668236125227337/",
+    "https://async.com/blog/youtube-monetization-update/",
+    "https://support.google.com/youtube/answer/1311392?hl=en",
+    "https://www.quora.com/What-are-the-risks-of-getting-YouTube-Shorts-demonetised-as-a-result-of-being-repetitive-content",
+    "https://miraflow.ai/blog/can-ai-shorts-be-monetized-2026-original-content"
+  ],
+  "raw_text_summary": "Does Youtube penalize you for using only AI in Shorts? New creator here, hi all. I generate aesthetic videos, telling historical facts on ancient times. These are contemplative and I make sure to give ... YouTube's NEW Rules for AI Videos (How to Make Money Now) In this guide to making money with AI videos, you will learn: The truth about YouTube's new AI monetization rules. it is economically not ... Youtube's new monetization guideline's This probably to ... And no, your AI-generated videos won't get demonetized directly. Or you are using AI is a problem for YouTube. YouTube targets unoriginal content in latest policy update Reaction videos, compilations, and AI-generated Shorts aren't automatically penalized. Unoriginal content could hurt both your views and ... YouTube channel monetization policies To protect viewers who may be confused or otherwise negatively impacted by this content, channels uploading this content will not be allowed to monetize. What are the risks of getting YouTube Shorts demonetised ... What are the risks of getting YouTube Shorts demonetised as a result of being repetitive content? Can AI Shorts Be Monetized in 2026? What Counts as ... AI Shorts can be monetized in 2026, but only if they pass YouTube's originality test. Here is exactly what counts as original content and ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b0400ba35db2b7a137e8ec3",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/diwCX0uok6bLE0aCalz3n4GkaJprRS2Psvm-2BOxTW8/6b0400ba35db2b7a137e8ec3.json",
+      "markdown_endpoint": "https://serpapi.com/searches/diwCX0uok6bLE0aCalz3n4GkaJprRS2Psvm-2BOxTW8/6b0400ba35db2b7a137e8ec3.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/diwCX0uok6bLE0aCalz3n4GkaJprRS2Psvm-2BOxTW8/6b0400ba35db2b7a137e8ec3.json_with_pixel_position",
+      "created_at": "2026-11-23 09:00:42 UTC",
+      "processed_at": "2026-11-23 09:00:42 UTC",
+      "google_url": "https://www.google.com/search?q=Does+posting+AI+generated+shorts+hurt+channel+reach+or+get+demonetized%3F&oq=Does+posting+AI+generated+shorts+hurt+channel+reach+or+get+demonetized%3F&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/diwCX0uok6bLE0aCalz3n4GkaJprRS2Psvm-2BOxTW8/6b0400ba35db2b7a137e8ec3.html",
+      "total_time_taken": 0.95
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "Does posting AI generated shorts hurt channel reach or get demonetized?",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "Does posting AI generated shorts hurt channel reach or get demonetized?",
+      "total_results": 47500,
+      "time_taken_displayed": 0.22,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "Why YouTube Is Demonetizing AI Channels (And How to Fix It)",
+        "link": "https://www.youtube.com/watch?v=l7NQYDpvGz8",
+        "thumbnail": "https://serpapi.com/searches/6b0400ba35db2b7a137e8ec3/images/1yrKP73VgE9v3wmEUAqVyteZmUkv164NdHuAEF_HjL0.webp",
+        "channel": "RANAsVFX",
+        "duration": "8:37",
+        "platform": "YouTube",
+        "date": "3 days ago",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTp9kqaVTeRyBWmBeuiPWvZpT1-_aHsLWD8qg"
+      },
+      {
+        "position": 2,
+        "title": "If you post Ai videos on YouTube, you must watch this to avoid ...",
+        "link": "https://www.youtube.com/shorts/xywWpq1bKvE",
+        "thumbnail": "https://serpapi.com/searches/6b0400ba35db2b7a137e8ec3/images/NXHrT5u7ZI7Tjb-dKIPdKO98-_srgonxLDI5mFBtNkA.webp",
+        "channel": "Blessing Ezikeanyi",
+        "duration": "2:59",
+        "platform": "YouTube",
+        "date": "Jul 25, 2026",
+        "snippet": "To avoid demonetization for AI videos, don't copy content, avoid lazy AI tools, make valuable shorts, and don't re-upload videos.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSkiYvQG2si571567EoE4rnzAKVjlAX0H4CaQ"
+      },
+      {
+        "position": 3,
+        "title": "AI Channels Are Getting Demonetized Again, Here's How to ...",
+        "link": "https://www.youtube.com/watch?v=8UW7TNr2S5A",
+        "thumbnail": "https://serpapi.com/searches/6b0400ba35db2b7a137e8ec3/images/afjixZ3yYUsp0xOPywNCyt4jE_WYF6g5cEl_F5QHQig.webp",
+        "channel": "Eddie Eizner",
+        "duration": "25:36",
+        "platform": "YouTube",
+        "date": "Feb 17, 2026",
+        "snippet": "AI channels are demonetized for reused thumbnails, similar titles, and slideshow-style videos, not AI content itself.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTL4id8QPw2JaFVLtnU3qCXwCblzHXTu8kbPw"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "Do AI videos get monetized on YouTube Shorts?",
+        "type": "ai_overview",
+        "page_token": "J_Oge3icHdBdbpswAADgTdpZ-thgSLsmUjTNjYFmwwyDAfulMjbEic1PE1QojzvCzrCnHWGH2AF2mkn7jvB9_2lPnfn7_ocex-G6Xa2mabo99v3R1reyb1fi-tbJlRTWVkKa7f3He_CpkTv0KuHjRcKEEsSssgWNvLQd9nUOOaEby8CDl5ZyrFyyqL1mKsu_VcFwjRF_xI4zV2ijGd18qawP-R4GubGjLKHGoV1KAAUJcSedmVdUs8yQgpl-KRD5mtLxpc5sTjMdYYdDgbCISv_COsLrwCZRSJc4xy-J--RKy6fC988F6kfs4w5n8BB53MTBneatflIGnzh4mDHondSdW1XyXlhVJAudBBrOVZc31LcBbXmDQ79MnGEtDFsjrYByfJ-lYCSGx1HHZxXiRIZoSTtMMOxPCdVxhKhHKIgSAxJmD5HMP3vKPRSkhGt5NncpgHlOD5omN4183Xk3_693z007bodLf_wlL7UYa_Usxj_mw7vf_wDGyZMr",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=J_Oge3icHdBdbpswAADgTdpZ-thgSLsmUjTNjYFmwwyDAfulMjbEic1PE1QojzvCzrCnHWGH2AF2mkn7jvB9_2lPnfn7_ocex-G6Xa2mabo99v3R1reyb1fi-tbJlRTWVkKa7f3He_CpkTv0KuHjRcKEEsSssgWNvLQd9nUOOaEby8CDl5ZyrFyyqL1mKsu_VcFwjRF_xI4zV2ijGd18qawP-R4GubGjLKHGoV1KAAUJcSedmVdUs8yQgpl-KRD5mtLxpc5sTjMdYYdDgbCISv_COsLrwCZRSJc4xy-J--RKy6fC988F6kfs4w5n8BB53MTBneatflIGnzh4mDHondSdW1XyXlhVJAudBBrOVZc31LcBbXmDQ79MnGEtDFsjrYByfJ-lYCSGx1HHZxXiRIZoSTtMMOxPCdVxhKhHKIgSAxJmD5HMP3vKPRSkhGt5NncpgHlOD5omN4183Xk3_693z007bodLf_wlL7UYa_Usxj_mw7vf_wDGyZMr",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVdISm9jMVZMWkU5b2NqbFlObXgyYlVkWUxUZDVla05OWlhwR1ZVSmFXVVJOZGs1T09YTmhjV3A0Ym5GTk1WZHVWbkZ0UVUxUWJYRXRVSEp1YTIxbFJXdHpTalp4T0ZWU04wTkZaamxOZDA1UWVWRkhVVkoyWWxZd1p4SVhkWGRCUldFdGJVWkdUakoyY1hSelVIQnhNMHB6VVRRYUlrRklUakJGTjBac2FGRmlSR3BKV1RaRWVGZFlielJNYlVkRlNqbGxlVU5hVjFFIiwiZmN2IjoiMyIsImVpIjoidXdBRWEtbUZGTjJ2cXRzUHBxM0pzUTQiLCJxYyI6ImN3M0tzUTJBTUF3RVFHb3FSdmhKS05ramlsOUpKTENSWXhva2xtRWFGcUtIcTI5Y3hOaXhXNC1tQmFtaFVPa3BLT2pWUERycTRZRmNreXBYT0ZPdU1QOWJRTGlaTXRwSm1ZYnJ1ZF81QXciLCJxdWVzdGlvbiI6IkRvIEFJIHZpZGVvcyBnZXQgbW9uZXRpemVkIG9uIFlvdVR1YmUgU2hvcnRzPyIsImxrIjoiR2k1a2IyVnpJR0ZwSUhacFpHVnZjeUJuWlhRZ2JXOXVaWFJwZW1Wa0lHOXVJSGx2ZFhSMVltVWdjMmh2Y25SeiIsImJzIjoiYzRXUXNRckNNQkNHY2MzazNPa0dkVktKR2FWUTFBNTJjdERGTWRyREZEVUhUV0twLUFhLXRLazRTSUs0SHZfMzMzZkhKSnZrQklzQ2JsV0paT0NFRnE2azBWWjNMSUUwN01udDNBRmhxNmkySmhNOG1aYUVCbVQxRTJuSjJRNHhiNFE5V0xxbUJxNVN0eDdCeGtCSlVJQkduN2JrNTJlRXdZeVBPZWNndXlhcnZoWm5JazNtS3VLcmlBX3dqd1Ric09GS2htZUFjclh0SWpVY2xkUWFMNWtZSllPakRPWGpJSHYyMkNxNEozcFRaLWlod0ZGOEtXWWlUNVlxcWdtMl82M3A5MTQiLCJpZCI6ImZjX3V3QUVhLW1GRk4ydnF0c1BwcTNKc1E0XzYifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVdISm9jMVZMWkU5b2NqbFlObXgyYlVkWUxUZDVla05OWlhwR1ZVSmFXVVJOZGs1T09YTmhjV3A0Ym5GTk1WZHVWbkZ0UVUxUWJYRXRVSEp1YTIxbFJXdHpTalp4T0ZWU04wTkZaamxOZDA1UWVWRkhVVkoyWWxZd1p4SVhkWGRCUldFdGJVWkdUakoyY1hSelVIQnhNMHB6VVRRYUlrRklUakJGTjBac2FGRmlSR3BKV1RaRWVGZFlielJNYlVkRlNqbGxlVU5hVjFFIiwiZmN2IjoiMyIsImVpIjoidXdBRWEtbUZGTjJ2cXRzUHBxM0pzUTQiLCJxYyI6ImN3M0tzUTJBTUF3RVFHb3FSdmhKS05ramlsOUpKTENSWXhva2xtRWFGcUtIcTI5Y3hOaXhXNC1tQmFtaFVPa3BLT2pWUERycTRZRmNreXBYT0ZPdU1QOWJRTGlaTXRwSm1ZYnJ1ZF81QXciLCJxdWVzdGlvbiI6IkRvIEFJIHZpZGVvcyBnZXQgbW9uZXRpemVkIG9uIFlvdVR1YmUgU2hvcnRzPyIsImxrIjoiR2k1a2IyVnpJR0ZwSUhacFpHVnZjeUJuWlhRZ2JXOXVaWFJwZW1Wa0lHOXVJSGx2ZFhSMVltVWdjMmh2Y25SeiIsImJzIjoiYzRXUXNRckNNQkNHY2MzazNPa0dkVktKR2FWUTFBNTJjdERGTWRyREZEVUhUV0twLUFhLXRLazRTSUs0SHZfMzMzZkhKSnZrQklzQ2JsV0paT0NFRnE2azBWWjNMSUUwN01udDNBRmhxNmkySmhNOG1aYUVCbVQxRTJuSjJRNHhiNFE5V0xxbUJxNVN0eDdCeGtCSlVJQkduN2JrNTJlRXdZeVBPZWNndXlhcnZoWm5JazNtS3VLcmlBX3dqd1Ric09GS2htZUFjclh0SWpVY2xkUWFMNWtZSllPakRPWGpJSHYyMkNxNEozcFRaLWlod0ZGOEtXWWlUNVlxcWdtMl82M3A5MTQiLCJpZCI6ImZjX3V3QUVhLW1GRk4ydnF0c1BwcTNKc1E0XzYifQ%3D%3D"
+      },
+      {
+        "question": "How many views do I need to make $10,000 a month on YouTube?",
+        "type": "ai_overview",
+        "page_token": "SLh0k3icHdBRbpswHIDxTdpZ-tjYSciWSNFUVnskG_8IjA34paKGBLAxaWKFksceYWfYU4_QQ-wAO82q3eD7fS-_TWP134-_aueO59VkMgzD7aHvD6a6VX03Kc6jVRNVGPNYKL1afF7gr3u1JhflfzspP-IxyU1p8vbOg26JIdu2QrsENGy4EE3E5SVt9XN5pS4RMLLkDsXZ0QM0HxkVWYjBFgmkabAdOTIX4AJVnXeOMN2xBjch9_wM1YvCmiew22mpPZ7ruZM2ZiHXYzbFM5nBQmRSC05QSORQInwfdSatOrCCGiJpPuQY9pH2tmFH5jGO4dFSE3chZvoLClNnFZYuSvzvUbpsCyR-JhrbBC85TI8Bo_QpnopTQese9GFO6hKXiNKcYRdruQutfC4DiFRArsxCDH7_7q53IeEzdk9rdSXDjtL3Fn_DAvmDd2RIGtwKW29gKiyPbvbqsp7d_H-9fth3bnU89YdXdaoKV5UPhfujP314-wdAvJGY",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=SLh0k3icHdBRbpswHIDxTdpZ-tjYSciWSNFUVnskG_8IjA34paKGBLAxaWKFksceYWfYU4_QQ-wAO82q3eD7fS-_TWP134-_aueO59VkMgzD7aHvD6a6VX03Kc6jVRNVGPNYKL1afF7gr3u1JhflfzspP-IxyU1p8vbOg26JIdu2QrsENGy4EE3E5SVt9XN5pS4RMLLkDsXZ0QM0HxkVWYjBFgmkabAdOTIX4AJVnXeOMN2xBjch9_wM1YvCmiew22mpPZ7ruZM2ZiHXYzbFM5nBQmRSC05QSORQInwfdSatOrCCGiJpPuQY9pH2tmFH5jGO4dFSE3chZvoLClNnFZYuSvzvUbpsCyR-JhrbBC85TI8Bo_QpnopTQese9GFO6hKXiNKcYRdruQutfC4DiFRArsxCDH7_7q53IeEzdk9rdSXDjtL3Fn_DAvmDd2RIGtwKW29gKiyPbvbqsp7d_H-9fth3bnU89YdXdaoKV5UPhfujP314-wdAvJGY",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVdISm9jMVZMWkU5b2NqbFlObXgyYlVkWUxUZDVla05OWlhwR1ZVSmFXVVJOZGs1T09YTmhjV3A0Ym5GTk1WZHVWbkZ0UVUxUWJYRXRVSEp1YTIxbFJXdHpTalp4T0ZWU04wTkZaamxOZDA1UWVWRkhVVkoyWWxZd1p4SVhkWGRCUldFdGJVWkdUakoyY1hSelVIQnhNMHB6VVRRYUlrRklUakJGTjBac2FGRmlSR3BKV1RaRWVGZFlielJNYlVkRlNqbGxlVU5hVjFFIiwiZmN2IjoiMyIsImVpIjoidXdBRWEtbUZGTjJ2cXRzUHBxM0pzUTQiLCJxYyI6ImN3M0tzUTJBTUF3RVFHb3FSdmhKS05ramlsOUpKTENSWXhva2xtRWFGcUtIcTI5Y3hOaXhXNC1tQmFtaFVPa3BLT2pWUERycTRZRmNreXBYT0ZPdU1QOWJRTGlaTXRwSm1ZYnJ1ZF81QXciLCJxdWVzdGlvbiI6IkhvdyBtYW55IHZpZXdzIGRvIEkgbmVlZCB0byBtYWtlICQxMCwwMDAgYSBtb250aCBvbiBZb3VUdWJlPyIsImxrIjoiYzVPeXlzZ3ZWOGhOekt0VUtNdE1MUzlXU01sWHlGVElTMDFOVVNqSkI0cG5weXFvR0JvQWdVS2lRbTUtWGttR1FuNmVRbVYtYVVscFVpb0EiLCJicyI6ImM0V1FzUXJDTUJDR2NjM2szT2tHZFZLSkdhVlExQTUyY3RERk1kckRGRFVIVFdLcC1BYS10S2s0U0lLNEh2XzMzM2ZISkp2a0JJc0NibFdKWk9DRUZxNmswVlozTElFMDdNbnQzQUZocTZpMkpoTThtWmFFQm1UMUUybkoyUTR4YjRROVdMcW1CcTVTdHg3QnhrQkpVSUJHbjdiazUyZUV3WXlQT2VjZ3V5YXJ2aFpuSWszbUt1S3JpQV93andUYnNPRktobWVBY3JYdElqVWNsZFFhTDVrWUpZT2pET1hqSUh2MjJDcTRKM3BUWi1paHdGRjhLV1lpVDVZcXFnbTJfNjNwOTE0IiwiaWQiOiJmY191d0FFYS1tRkZOMnZxdHNQcHEzSnNRNF82In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVdISm9jMVZMWkU5b2NqbFlObXgyYlVkWUxUZDVla05OWlhwR1ZVSmFXVVJOZGs1T09YTmhjV3A0Ym5GTk1WZHVWbkZ0UVUxUWJYRXRVSEp1YTIxbFJXdHpTalp4T0ZWU04wTkZaamxOZDA1UWVWRkhVVkoyWWxZd1p4SVhkWGRCUldFdGJVWkdUakoyY1hSelVIQnhNMHB6VVRRYUlrRklUakJGTjBac2FGRmlSR3BKV1RaRWVGZFlielJNYlVkRlNqbGxlVU5hVjFFIiwiZmN2IjoiMyIsImVpIjoidXdBRWEtbUZGTjJ2cXRzUHBxM0pzUTQiLCJxYyI6ImN3M0tzUTJBTUF3RVFHb3FSdmhKS05ramlsOUpKTENSWXhva2xtRWFGcUtIcTI5Y3hOaXhXNC1tQmFtaFVPa3BLT2pWUERycTRZRmNreXBYT0ZPdU1QOWJRTGlaTXRwSm1ZYnJ1ZF81QXciLCJxdWVzdGlvbiI6IkhvdyBtYW55IHZpZXdzIGRvIEkgbmVlZCB0byBtYWtlICQxMCwwMDAgYSBtb250aCBvbiBZb3VUdWJlPyIsImxrIjoiYzVPeXlzZ3ZWOGhOekt0VUtNdE1MUzlXU01sWHlGVElTMDFOVVNqSkI0cG5weXFvR0JvQWdVS2lRbTUtWGttR1FuNmVRbVYtYVVscFVpb0EiLCJicyI6ImM0V1FzUXJDTUJDR2NjM2szT2tHZFZLSkdhVlExQTUyY3RERk1kckRGRFVIVFdLcC1BYS10S2s0U0lLNEh2XzMzM2ZISkp2a0JJc0NibFdKWk9DRUZxNmswVlozTElFMDdNbnQzQUZocTZpMkpoTThtWmFFQm1UMUUybkoyUTR4YjRROVdMcW1CcTVTdHg3QnhrQkpVSUJHbjdiazUyZUV3WXlQT2VjZ3V5YXJ2aFpuSWszbUt1S3JpQV93andUYnNPRktobWVBY3JYdElqVWNsZFFhTDVrWUpZT2pET1hqSUh2MjJDcTRKM3BUWi1paHdGRjhLV1lpVDVZcXFnbTJfNjNwOTE0IiwiaWQiOiJmY191d0FFYS1tRkZOMnZxdHNQcHEzSnNRNF82In0%3D"
+      },
+      {
+        "question": "Can YouTube Shorts hurt your channel?",
+        "type": "ai_overview",
+        "page_token": "LsjSHXicHdBRbpswAADQTdpZ-tlA6DI1UjSJ1oZasjMMNtg_lWOTEHDACW5I-exZ9rUj7BA7wE4zae8I7-OnPfbd38_Xxns3rheLaZruD8NwsPW9Hk4LNb73eqGVtTulu_Xq2yr8vtcb8PYSP51f4oxRIKyxJWv4LnFSRfG5TBpXcjNiEF6KUj7loetJhS6UySsGiIljyFUVY9HydwnjKk_Gm5jxVx11Dwx4lz9LznsUsJSIGrpVEfizCMabbMk2P3mHQzGplgJs4YOxzVgXOJAQgS14RHyWDYGuUWUw4dn8oDOqSM87WXBZzVlUPsuWF6g1EFaYoYHM2BfLIdhBHInATCqh5zppYtCY0AQQijz0tJNb3MubSUmmUzDnPaEkHo4Za7YYsCiHj6diaTveWYWXiPLQpKxHmKbZsprlW11xz7K7vb5uorv_n5vX_cmv3WU4_NKXWvnavCr_p_vy6fc_fvmKfA",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=LsjSHXicHdBRbpswAADQTdpZ-tlA6DI1UjSJ1oZasjMMNtg_lWOTEHDACW5I-exZ9rUj7BA7wE4zae8I7-OnPfbd38_Xxns3rheLaZruD8NwsPW9Hk4LNb73eqGVtTulu_Xq2yr8vtcb8PYSP51f4oxRIKyxJWv4LnFSRfG5TBpXcjNiEF6KUj7loetJhS6UySsGiIljyFUVY9HydwnjKk_Gm5jxVx11Dwx4lz9LznsUsJSIGrpVEfizCMabbMk2P3mHQzGplgJs4YOxzVgXOJAQgS14RHyWDYGuUWUw4dn8oDOqSM87WXBZzVlUPsuWF6g1EFaYoYHM2BfLIdhBHInATCqh5zppYtCY0AQQijz0tJNb3MubSUmmUzDnPaEkHo4Za7YYsCiHj6diaTveWYWXiPLQpKxHmKbZsprlW11xz7K7vb5uorv_n5vX_cmv3WU4_NKXWvnavCr_p_vy6fc_fvmKfA",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVdISm9jMVZMWkU5b2NqbFlObXgyYlVkWUxUZDVla05OWlhwR1ZVSmFXVVJOZGs1T09YTmhjV3A0Ym5GTk1WZHVWbkZ0UVUxUWJYRXRVSEp1YTIxbFJXdHpTalp4T0ZWU04wTkZaamxOZDA1UWVWRkhVVkoyWWxZd1p4SVhkWGRCUldFdGJVWkdUakoyY1hSelVIQnhNMHB6VVRRYUlrRklUakJGTjBac2FGRmlSR3BKV1RaRWVGZFlielJNYlVkRlNqbGxlVU5hVjFFIiwiZmN2IjoiMyIsImVpIjoidXdBRWEtbUZGTjJ2cXRzUHBxM0pzUTQiLCJxYyI6ImN3M0tzUTJBTUF3RVFHb3FSdmhKS05ramlsOUpKTENSWXhva2xtRWFGcUtIcTI5Y3hOaXhXNC1tQmFtaFVPa3BLT2pWUERycTRZRmNreXBYT0ZPdU1QOWJRTGlaTXRwSm1ZYnJ1ZF81QXciLCJxdWVzdGlvbiI6IkNhbiBZb3VUdWJlIFNob3J0cyBodXJ0IHlvdXIgY2hhbm5lbD8iLCJsayI6IkdpUmpZVzRnZVc5MWRIVmlaU0J6YUc5eWRITWdhSFZ5ZENCNWIzVnlJR05vWVc1dVpXdyIsImJzIjoiYzRXUXNRckNNQkNHY2MzazNPa0dkVktKR2FWUTFBNTJjdERGTWRyREZEVUhUV0twLUFhLXRLazRTSUs0SHZfMzMzZkhKSnZrQklzQ2JsV0paT0NFRnE2azBWWjNMSUUwN01udDNBRmhxNmkySmhNOG1aYUVCbVQxRTJuSjJRNHhiNFE5V0xxbUJxNVN0eDdCeGtCSlVJQkduN2JrNTJlRXdZeVBPZWNndXlhcnZoWm5JazNtS3VLcmlBX3dqd1Ric09GS2htZUFjclh0SWpVY2xkUWFMNWtZSllPakRPWGpJSHYyMkNxNEozcFRaLWlod0ZGOEtXWWlUNVlxcWdtMl82M3A5MTQiLCJpZCI6ImZjX3V3QUVhLW1GRk4ydnF0c1BwcTNKc1E0XzYifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVdISm9jMVZMWkU5b2NqbFlObXgyYlVkWUxUZDVla05OWlhwR1ZVSmFXVVJOZGs1T09YTmhjV3A0Ym5GTk1WZHVWbkZ0UVUxUWJYRXRVSEp1YTIxbFJXdHpTalp4T0ZWU04wTkZaamxOZDA1UWVWRkhVVkoyWWxZd1p4SVhkWGRCUldFdGJVWkdUakoyY1hSelVIQnhNMHB6VVRRYUlrRklUakJGTjBac2FGRmlSR3BKV1RaRWVGZFlielJNYlVkRlNqbGxlVU5hVjFFIiwiZmN2IjoiMyIsImVpIjoidXdBRWEtbUZGTjJ2cXRzUHBxM0pzUTQiLCJxYyI6ImN3M0tzUTJBTUF3RVFHb3FSdmhKS05ramlsOUpKTENSWXhva2xtRWFGcUtIcTI5Y3hOaXhXNC1tQmFtaFVPa3BLT2pWUERycTRZRmNreXBYT0ZPdU1QOWJRTGlaTXRwSm1ZYnJ1ZF81QXciLCJxdWVzdGlvbiI6IkNhbiBZb3VUdWJlIFNob3J0cyBodXJ0IHlvdXIgY2hhbm5lbD8iLCJsayI6IkdpUmpZVzRnZVc5MWRIVmlaU0J6YUc5eWRITWdhSFZ5ZENCNWIzVnlJR05vWVc1dVpXdyIsImJzIjoiYzRXUXNRckNNQkNHY2MzazNPa0dkVktKR2FWUTFBNTJjdERGTWRyREZEVUhUV0twLUFhLXRLazRTSUs0SHZfMzMzZkhKSnZrQklzQ2JsV0paT0NFRnE2azBWWjNMSUUwN01udDNBRmhxNmkySmhNOG1aYUVCbVQxRTJuSjJRNHhiNFE5V0xxbUJxNVN0eDdCeGtCSlVJQkduN2JrNTJlRXdZeVBPZWNndXlhcnZoWm5JazNtS3VLcmlBX3dqd1Ric09GS2htZUFjclh0SWpVY2xkUWFMNWtZSllPakRPWGpJSHYyMkNxNEozcFRaLWlod0ZGOEtXWWlUNVlxcWdtMl82M3A5MTQiLCJpZCI6ImZjX3V3QUVhLW1GRk4ydnF0c1BwcTNKc1E0XzYifQ%3D%3D"
+      },
+      {
+        "question": "How many views on YouTube Shorts do you need to make $2000 a month?",
+        "type": "ai_overview",
+        "page_token": "-ljOGnicHZFNjtMwAEZB4iyznNrpdCCVKqS0dsIIu2PHP4o3o4zTJh07iWmjySRLzsKKBQfgEByA01Cx_qSn9_R9_-FPnfv7_lczDOGyXizGcbyt-772h1vbt4vyMnV2YUvvn0vr1vcf7-Hno92gftxuL2PCJEeFr3zRGX_oKm6cnWREZ90asldc2ij2FlCiBU_si0p1ht9IFBw7gTuLVCJwwy2yUHtstHhwJaykEDzjkSFlay5FDma145EQBhrkAAXDuUzhZGUsWRseyK4eLTAvxAFoQBAcNojOyaPUavWsEmDTEASOU6a-jAyiZRUFQRS9-yrjrcnhWXYh1YKaa8XE5mLFPN-rK0u39VS4T0OZsonsOMyj5ptU8StJi4mAC-AKk1wFImTQ132iAstCYIyaClYA4yKHA3dmTzrzVmWU2QzNeUc5TfoTk82eILnkkd9RleRc8VU105N0HBI9pCKTK7oMVzc2mPHmaF83y5v_P2yeju2wDue-_mnPh3I4VE_l8Md9ePf7H7B0mu0",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-ljOGnicHZFNjtMwAEZB4iyznNrpdCCVKqS0dsIIu2PHP4o3o4zTJh07iWmjySRLzsKKBQfgEByA01Cx_qSn9_R9_-FPnfv7_lczDOGyXizGcbyt-772h1vbt4vyMnV2YUvvn0vr1vcf7-Hno92gftxuL2PCJEeFr3zRGX_oKm6cnWREZ90asldc2ij2FlCiBU_si0p1ht9IFBw7gTuLVCJwwy2yUHtstHhwJaykEDzjkSFlay5FDma145EQBhrkAAXDuUzhZGUsWRseyK4eLTAvxAFoQBAcNojOyaPUavWsEmDTEASOU6a-jAyiZRUFQRS9-yrjrcnhWXYh1YKaa8XE5mLFPN-rK0u39VS4T0OZsonsOMyj5ptU8StJi4mAC-AKk1wFImTQ132iAstCYIyaClYA4yKHA3dmTzrzVmWU2QzNeUc5TfoTk82eILnkkd9RleRc8VU105N0HBI9pCKTK7oMVzc2mPHmaF83y5v_P2yeju2wDue-_mnPh3I4VE_l8Md9ePf7H7B0mu0",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVdISm9jMVZMWkU5b2NqbFlObXgyYlVkWUxUZDVla05OWlhwR1ZVSmFXVVJOZGs1T09YTmhjV3A0Ym5GTk1WZHVWbkZ0UVUxUWJYRXRVSEp1YTIxbFJXdHpTalp4T0ZWU04wTkZaamxOZDA1UWVWRkhVVkoyWWxZd1p4SVhkWGRCUldFdGJVWkdUakoyY1hSelVIQnhNMHB6VVRRYUlrRklUakJGTjBac2FGRmlSR3BKV1RaRWVGZFlielJNYlVkRlNqbGxlVU5hVjFFIiwiZmN2IjoiMyIsImVpIjoidXdBRWEtbUZGTjJ2cXRzUHBxM0pzUTQiLCJxYyI6ImN3M0tzUTJBTUF3RVFHb3FSdmhKS05ramlsOUpKTENSWXhva2xtRWFGcUtIcTI5Y3hOaXhXNC1tQmFtaFVPa3BLT2pWUERycTRZRmNreXBYT0ZPdU1QOWJRTGlaTXRwSm1ZYnJ1ZF81QXciLCJxdWVzdGlvbiI6IkhvdyBtYW55IHZpZXdzIG9uIFlvdVR1YmUgU2hvcnRzIGRvIHlvdSBuZWVkIHRvIG1ha2UgJDIwMDAgYSBtb250aD8iLCJsayI6ImN4WEt3UW1BTUF3RjBEMDhfWU1EQkVkd2swb0RFV2stbU5UUzdkWHI0eTI3Y2FBVm4zaE9IUUU2Sm52MlF4SEdPd09WdjhCVks1TGZ2UlRySmlJb2FQUzBGdyIsImJzIjoiYzRXUXNRckNNQkNHY2MzazNPa0dkVktKR2FWUTFBNTJjdERGTWRyREZEVUhUV0twLUFhLXRLazRTSUs0SHZfMzMzZkhKSnZrQklzQ2JsV0paT0NFRnE2azBWWjNMSUUwN01udDNBRmhxNmkySmhNOG1aYUVCbVQxRTJuSjJRNHhiNFE5V0xxbUJxNVN0eDdCeGtCSlVJQkduN2JrNTJlRXdZeVBPZWNndXlhcnZoWm5JazNtS3VLcmlBX3dqd1Ric09GS2htZUFjclh0SWpVY2xkUWFMNWtZSllPakRPWGpJSHYyMkNxNEozcFRaLWlod0ZGOEtXWWlUNVlxcWdtMl82M3A5MTQiLCJpZCI6ImZjX3V3QUVhLW1GRk4ydnF0c1BwcTNKc1E0XzYifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVdISm9jMVZMWkU5b2NqbFlObXgyYlVkWUxUZDVla05OWlhwR1ZVSmFXVVJOZGs1T09YTmhjV3A0Ym5GTk1WZHVWbkZ0UVUxUWJYRXRVSEp1YTIxbFJXdHpTalp4T0ZWU04wTkZaamxOZDA1UWVWRkhVVkoyWWxZd1p4SVhkWGRCUldFdGJVWkdUakoyY1hSelVIQnhNMHB6VVRRYUlrRklUakJGTjBac2FGRmlSR3BKV1RaRWVGZFlielJNYlVkRlNqbGxlVU5hVjFFIiwiZmN2IjoiMyIsImVpIjoidXdBRWEtbUZGTjJ2cXRzUHBxM0pzUTQiLCJxYyI6ImN3M0tzUTJBTUF3RVFHb3FSdmhKS05ramlsOUpKTENSWXhva2xtRWFGcUtIcTI5Y3hOaXhXNC1tQmFtaFVPa3BLT2pWUERycTRZRmNreXBYT0ZPdU1QOWJRTGlaTXRwSm1ZYnJ1ZF81QXciLCJxdWVzdGlvbiI6IkhvdyBtYW55IHZpZXdzIG9uIFlvdVR1YmUgU2hvcnRzIGRvIHlvdSBuZWVkIHRvIG1ha2UgJDIwMDAgYSBtb250aD8iLCJsayI6ImN4WEt3UW1BTUF3RjBEMDhfWU1EQkVkd2swb0RFV2stbU5UUzdkWHI0eTI3Y2FBVm4zaE9IUUU2Sm52MlF4SEdPd09WdjhCVks1TGZ2UlRySmlJb2FQUzBGdyIsImJzIjoiYzRXUXNRckNNQkNHY2MzazNPa0dkVktKR2FWUTFBNTJjdERGTWRyREZEVUhUV0twLUFhLXRLazRTSUs0SHZfMzMzZkhKSnZrQklzQ2JsV0paT0NFRnE2azBWWjNMSUUwN01udDNBRmhxNmkySmhNOG1aYUVCbVQxRTJuSjJRNHhiNFE5V0xxbUJxNVN0eDdCeGtCSlVJQkduN2JrNTJlRXdZeVBPZWNndXlhcnZoWm5JazNtS3VLcmlBX3dqd1Ric09GS2htZUFjclh0SWpVY2xkUWFMNWtZSllPakRPWGpJSHYyMkNxNEozcFRaLWlod0ZGOEtXWWlUNVlxcWdtMl82M3A5MTQiLCJpZCI6ImZjX3V3QUVhLW1GRk4ydnF0c1BwcTNKc1E0XzYifQ%3D%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "o3qgNHiczVXNcuo2FO6iy75GvSGAsUkImfFkJKMk4t8JhEs2jLEVGbAtsAwOWfZZuuoj9CH6AH2aCpsfwzU3STftmTFC0vnX-c757Xd34s_-_sV0wnDOb4rFKIoKlDHqkoLFvKLJ175VfGUuDyznlrNlYBHNcgLmkQIbS8nBxN4eSY6rEV-irrbk0nqlqZLFNVkiE20ZAWTmvbu7trJahLw7X6h1bpSlWL82GpucTIX5tykvjoriZ_arWhObAi8Qv-CrpefVqkPMJ15QZEUtdIqmJxjAf0sIAkzFOgOA_ogPGp_VaAg9COin8gjFa-q8BTY2MdBxcnPO_tNG6UZSh7HH4uuAV5hctndcffyBXwig1I6DlDsQJya-RPtI-qcH5ykjRJz4Bnd7dHqXRS18xKJTHT5EKfXoVMA4xJeIssSdbkQwcDz6UfI2qo0IXjbAwdMfkc6udHcMIqAXbSqqXC6OA7GUihPLseI_Ad8Uv96ryuyuP-0-18La1DPk6kul3Jyqr24JvuCgHBWtseBzmWkTe-SM5Nt4X1IU5VqtVpSLGHUW38OOp2HXRlFtuODrR31YaBYGO8gdZ-f02QyMMxNPId2l8iTWvSRoHN-cpmp2ZPluuzoAMkMIH10aDdRMmLb2WqAm0nVN0yV0kNAzIZcRRQK55Pn3CuixMmF9CNBTlp0NdTLVZtYFjEEea9w1uiSLOOY-SeVk0zso2NfxffpSF1sd9cUdiiH3TFDC-xhtAtqpohgbx2IpQsm7nrwuOoS38QoLLkhFWwT1Vr8u-iMEj3shCLeNRncOamIbqfZyqh80v28N99-dnCH8mb6SeLHD2Alk0lC7l1tzOd_qESUfYNd_H7W9jofu8mbTBdnQYt74CyPN-r-Dbzfv3G2VnQXfxtKnwGfQbPCdn3cJ-PTZNrS0sg09JeDLnnfdHdfxvMsAH4IoBb5k3sHJ5hdnzbuvg0__GHxH-UqB7zDvjsCHz4EvmXcp8On13bzLBt9-3u3A92_nnf71eRdjkCTL8fBbTunZIYgUt9q7N1uXgA0Bkfvho3mloo5qXI8_HoKvXnjjmbZ7MZrYN1Cph2v7YiQO2A2xpYVWY4Tn5oyHE5_mAM5R4pPADImd4w4LQp5zlkGYsxzT94mbC4hpOTkWCLYwZxOP-SScvBP7VvLcgGmyWRm05DmNRA289bE8huOazEaNl-pLe3EZut3mc_5FXeNyyQ2WtjJ8WMwrD-iSmGDQXS1DtfVuYCvUp_abrbS8pfnNayzfl0T27TxSZ3R9RVBfVyeDwaQzQIvKHK9mvVJp3eMu-6Zgx3qaPuTnPeVBp7E_XFu1llBdtdusFEleYGnivcsUtA0wAMAEMAJ1UVANAB8XYm2K9xwzCIyHoYAFFR8TlSJxyxwRvtIuy0pZVhTLLFXKpFQhkkfD9VyryhL3A630hyWSI_I2MsO_Zj__9Oc_Wq-JLA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=o3qgNHiczVXNcuo2FO6iy75GvSGAsUkImfFkJKMk4t8JhEs2jLEVGbAtsAwOWfZZuuoj9CH6AH2aCpsfwzU3STftmTFC0vnX-c757Xd34s_-_sV0wnDOb4rFKIoKlDHqkoLFvKLJ175VfGUuDyznlrNlYBHNcgLmkQIbS8nBxN4eSY6rEV-irrbk0nqlqZLFNVkiE20ZAWTmvbu7trJahLw7X6h1bpSlWL82GpucTIX5tykvjoriZ_arWhObAi8Qv-CrpefVqkPMJ15QZEUtdIqmJxjAf0sIAkzFOgOA_ogPGp_VaAg9COin8gjFa-q8BTY2MdBxcnPO_tNG6UZSh7HH4uuAV5hctndcffyBXwig1I6DlDsQJya-RPtI-qcH5ykjRJz4Bnd7dHqXRS18xKJTHT5EKfXoVMA4xJeIssSdbkQwcDz6UfI2qo0IXjbAwdMfkc6udHcMIqAXbSqqXC6OA7GUihPLseI_Ad8Uv96ryuyuP-0-18La1DPk6kul3Jyqr24JvuCgHBWtseBzmWkTe-SM5Nt4X1IU5VqtVpSLGHUW38OOp2HXRlFtuODrR31YaBYGO8gdZ-f02QyMMxNPId2l8iTWvSRoHN-cpmp2ZPluuzoAMkMIH10aDdRMmLb2WqAm0nVN0yV0kNAzIZcRRQK55Pn3CuixMmF9CNBTlp0NdTLVZtYFjEEea9w1uiSLOOY-SeVk0zso2NfxffpSF1sd9cUdiiH3TFDC-xhtAtqpohgbx2IpQsm7nrwuOoS38QoLLkhFWwT1Vr8u-iMEj3shCLeNRncOamIbqfZyqh80v28N99-dnCH8mb6SeLHD2Alk0lC7l1tzOd_qESUfYNd_H7W9jofu8mbTBdnQYt74CyPN-r-Dbzfv3G2VnQXfxtKnwGfQbPCdn3cJ-PTZNrS0sg09JeDLnnfdHdfxvMsAH4IoBb5k3sHJ5hdnzbuvg0__GHxH-UqB7zDvjsCHz4EvmXcp8On13bzLBt9-3u3A92_nnf71eRdjkCTL8fBbTunZIYgUt9q7N1uXgA0Bkfvho3mloo5qXI8_HoKvXnjjmbZ7MZrYN1Cph2v7YiQO2A2xpYVWY4Tn5oyHE5_mAM5R4pPADImd4w4LQp5zlkGYsxzT94mbC4hpOTkWCLYwZxOP-SScvBP7VvLcgGmyWRm05DmNRA289bE8huOazEaNl-pLe3EZut3mc_5FXeNyyQ2WtjJ8WMwrD-iSmGDQXS1DtfVuYCvUp_abrbS8pfnNayzfl0T27TxSZ3R9RVBfVyeDwaQzQIvKHK9mvVJp3eMu-6Zgx3qaPuTnPeVBp7E_XFu1llBdtdusFEleYGnivcsUtA0wAMAEMAJ1UVANAB8XYm2K9xwzCIyHoYAFFR8TlSJxyxwRvtIuy0pZVhTLLFXKpFQhkkfD9VyryhL3A630hyWSI_I2MsO_Zj__9Oc_Wq-JLA"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Does Youtube penalize you for using only AI in Shorts?",
+        "link": "https://www.reddit.com/r/aitubers/comments/1r11iix/does_youtube_penalize_you_for_using_only_ai_in/",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.reddit.com/r/aitubers/comments/1r11iix/does_youtube_penalize_you_for_using_only_ai_in/&usg=AOvVaw2s7Y1855SpvD7HFc1izeWV",
+        "displayed_link": "20+ comments",
+        "date": "9 months ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+        "snippet": "New creator here, hi all. I generate aesthetic videos, telling historical facts on ancient times. These are contemplative and I make sure to give ...",
+        "sitelinks": {
+          "list": [
+            {
+              "title": "Is AI content allowed for monetization on YouTube ...",
+              "link": "https://www.reddit.com/r/aitubers/comments/1sm5d6i/is_ai_content_allowed_for_monetization_on_youtube/",
+              "answer_count": 48,
+              "date": "Apr 15, 2026"
+            },
+            {
+              "title": "YouTube is demonetizing AI channels. How do you ...",
+              "link": "https://www.reddit.com/r/PartneredYoutube/comments/1qnjihw/youtube_is_demonetizing_ai_channels_how_do_you/",
+              "answer_count": 174,
+              "date": "Jan 26, 2026"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "no youtube doesnt penalize AI shorts specifically. if your views got stuck after switching to AI visuals its more likely a CTR/retention issue ...",
+            "source_info_link": "https://www.reddit.com/r/aitubers/comments/1r11iix/does_youtube_penalize_you_for_using_only_ai_in/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CmJodHRwczovL3d3dy5yZWRkaXQuY29tL3IvYWl0dWJlcnMvY29tbWVudHMvMXIxMWlpeC9kb2VzX3lvdXR1YmVfcGVuYWxpemVfeW91X2Zvcl91c2luZ19vbmx5X2FpX2luLxIEGgIIABrvBxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMkHCAAQABgAIAAqHgoEZG9lcxWCyWZAGgNjYW4aAmRvGgJpcxoEd2lsbCotCgdwb3N0aW5nFe1A0D4aBHBvc3QaBnBvc3RlZBoIcG9zdGluZ3MaBXBvc3RzKi8KAmFpFZqOtkAaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgthaWdlbmVyYXRlZCpGCglnZW5lcmF0ZWQVb_HLPxoHY3JlYXRlZBoIZ2VuZXJhdGUaCmdlbmVyYXRpbmcaCHByb2R1Y2VkGgthaWdlbmVyYXRlZCoUCgZzaG9ydHMVVomhQBoFc2hvcnQqeAoEaHVydBUAAAAAGgRhY2hlGgRoYXJtGgdodXJ0aW5nGgVodXJ0cxoGaW5qdXJlGgdpbmp1cmVkGgZpbmp1cnkaBHBhaW4aB3BhaW5mdWwaBHNvcmUaCWl2O3A7aHVydBoGYWZmZWN0GgZkYW1hZ2UaBnNob3J0cyohCgdjaGFubmVsFeEW7z4aCGNoYW5uZWxzGgdzdGF0aW9uKh8KBXJlYWNoFRl1sz0aB2FjaGlldmUaCHJlYWNoaW5nKgkKAm9yFQAAAAAqNQoDZ2V0FTQ6vT8aBmJlY29tZRoEZ2V0cxoHZ2V0dGluZxoEaGF2ZRoGb2J0YWluGgR0YWtlKmkKC2RlbW9uZXRpemVkFdBM7T4aDGRlIG1vbmV0aXplZBoOZGVtb25ldGl6YXRpb24aCmRlbW9uZXRpemUaC2RlbW9uZXRpemVzGgxkZW1vbmV0aXppbmcaEGl2O3A7ZGVtb25ldGl6ZWQyYmh0dHBzOi8vd3d3LnJlZGRpdC5jb20vci9haXR1YmVycy9jb21tZW50cy8xcjExaWl4L2RvZXNfeW91dHViZV9wZW5hbGl6ZV95b3VfZm9yX3VzaW5nX29ubHlfYWlfaW4vOlQ8Yj5Eb2VzPC9iPiBZb3V0dWJlIHBlbmFsaXplIHlvdSBmb3IgdXNpbmcgb25seSA8Yj5BSTwvYj4gaW4gPGI-U2hvcnRzPC9iPj8gLSBSZWRkaXRCngE8Yj5ubyB5b3V0dWJlIGRvZXNudCBwZW5hbGl6ZSBBSSBzaG9ydHM8L2I-IHNwZWNpZmljYWxseS4gaWYgeW91ciB2aWV3cyBnb3Qgc3R1Y2sgYWZ0ZXIgc3dpdGNoaW5nIHRvIEFJIHZpc3VhbHMgaXRzIG1vcmUgbGlrZWx5IGEgQ1RSL3JldGVudGlvbiBpc3N1ZSZuYnNwOy4uLkoCb3JSBHdpbGxSAmlzUgNjYW5SAmRvUgRoYXZlIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CmJodHRwczovL3d3dy5yZWRkaXQuY29tL3IvYWl0dWJlcnMvY29tbWVudHMvMXIxMWlpeC9kb2VzX3lvdXR1YmVfcGVuYWxpemVfeW91X2Zvcl91c2luZ19vbmx5X2FpX2luLxIEGgIIABrvBxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMkHCAAQABgAIAAqHgoEZG9lcxWCyWZAGgNjYW4aAmRvGgJpcxoEd2lsbCotCgdwb3N0aW5nFe1A0D4aBHBvc3QaBnBvc3RlZBoIcG9zdGluZ3MaBXBvc3RzKi8KAmFpFZqOtkAaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgthaWdlbmVyYXRlZCpGCglnZW5lcmF0ZWQVb_HLPxoHY3JlYXRlZBoIZ2VuZXJhdGUaCmdlbmVyYXRpbmcaCHByb2R1Y2VkGgthaWdlbmVyYXRlZCoUCgZzaG9ydHMVVomhQBoFc2hvcnQqeAoEaHVydBUAAAAAGgRhY2hlGgRoYXJtGgdodXJ0aW5nGgVodXJ0cxoGaW5qdXJlGgdpbmp1cmVkGgZpbmp1cnkaBHBhaW4aB3BhaW5mdWwaBHNvcmUaCWl2O3A7aHVydBoGYWZmZWN0GgZkYW1hZ2UaBnNob3J0cyohCgdjaGFubmVsFeEW7z4aCGNoYW5uZWxzGgdzdGF0aW9uKh8KBXJlYWNoFRl1sz0aB2FjaGlldmUaCHJlYWNoaW5nKgkKAm9yFQAAAAAqNQoDZ2V0FTQ6vT8aBmJlY29tZRoEZ2V0cxoHZ2V0dGluZxoEaGF2ZRoGb2J0YWluGgR0YWtlKmkKC2RlbW9uZXRpemVkFdBM7T4aDGRlIG1vbmV0aXplZBoOZGVtb25ldGl6YXRpb24aCmRlbW9uZXRpemUaC2RlbW9uZXRpemVzGgxkZW1vbmV0aXppbmcaEGl2O3A7ZGVtb25ldGl6ZWQyYmh0dHBzOi8vd3d3LnJlZGRpdC5jb20vci9haXR1YmVycy9jb21tZW50cy8xcjExaWl4L2RvZXNfeW91dHViZV9wZW5hbGl6ZV95b3VfZm9yX3VzaW5nX29ubHlfYWlfaW4vOlQ8Yj5Eb2VzPC9iPiBZb3V0dWJlIHBlbmFsaXplIHlvdSBmb3IgdXNpbmcgb25seSA8Yj5BSTwvYj4gaW4gPGI-U2hvcnRzPC9iPj8gLSBSZWRkaXRCngE8Yj5ubyB5b3V0dWJlIGRvZXNudCBwZW5hbGl6ZSBBSSBzaG9ydHM8L2I-IHNwZWNpZmljYWxseS4gaWYgeW91ciB2aWV3cyBnb3Qgc3R1Y2sgYWZ0ZXIgc3dpdGNoaW5nIHRvIEFJIHZpc3VhbHMgaXRzIG1vcmUgbGlrZWx5IGEgQ1RSL3JldGVudGlvbiBpc3N1ZSZuYnNwOy4uLkoCb3JSBHdpbGxSAmlzUgNjYW5SAmRvUgRoYXZlIgIQAUgAWABoAA",
+        "source": "Reddit \u00b7 r/aitubers"
+      },
+      {
+        "position": 2,
+        "title": "YouTube's NEW Rules for AI Videos (How to Make Money Now)",
+        "link": "https://www.youtube.com/watch?v=m647KpdNTDg&vl=en-US",
+        "displayed_link": "450.4K+ views",
+        "date": "1 year ago",
+        "thumbnail": "https://serpapi.com/searches/6b0400ba35db2b7a137e8ec3/images/o2pnYBBlnYPMnU8Dvq2eWACsg8ukMXwnuW_a50l1_kU.webp",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "In this guide to making money with AI videos, you will learn: The truth about YouTube's new AI monetization rules. it is economically not ...",
+        "duration": "13:11",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "I Cloned Myself with AI & Made Money on YouTube",
+            "link": "https://www.youtube.com/watch?v=m647KpdNTDg&vl=en-US&t=0"
+          },
+          {
+            "time": "00:41",
+            "title": "Is YouTube Banning AI Videos? (The Real Answer)",
+            "link": "https://www.youtube.com/watch?v=m647KpdNTDg&vl=en-US&t=41"
+          },
+          {
+            "time": "02:23",
+            "title": "AI Slop vs. AI Craft: Why Most AI Videos Fail",
+            "link": "https://www.youtube.com/watch?v=m647KpdNTDg&vl=en-US&t=143"
+          },
+          {
+            "time": "03:48",
+            "title": "The Easiest AI Tool for Creating Videos (InVideo AI)",
+            "link": "https://www.youtube.com/watch?v=m647KpdNTDg&vl=en-US&t=228"
+          },
+          {
+            "time": "04:11",
+            "title": "TUTORIAL: Step-by-Step: How to Create Your AI Twin",
+            "link": "https://www.youtube.com/watch?v=m647KpdNTDg&vl=en-US&t=251"
+          },
+          {
+            "time": "06:06",
+            "title": "How to Edit Your Video with Simple Prompts",
+            "link": "https://www.youtube.com/watch?v=m647KpdNTDg&vl=en-US&t=366"
+          },
+          {
+            "time": "06:52",
+            "title": "CASE STUDY: My Faceless AI Channel Got 11,000 Views Overnight",
+            "link": "https://www.youtube.com/watch?v=m647KpdNTDg&vl=en-US&t=412"
+          },
+          {
+            "time": "08:22",
+            "title": "Another Opportunity: Using AI Actors for UGC & TikTok Shop",
+            "link": "https://www.youtube.com/watch?v=m647KpdNTDg&vl=en-US&t=502"
+          },
+          {
+            "time": "10:23",
+            "title": "The 4-Step Checklist for SUCCESSFUL AI Videos",
+            "link": "https://www.youtube.com/watch?v=m647KpdNTDg&vl=en-US&t=623"
+          },
+          {
+            "time": "10:41",
+            "title": "Step 1: Find a Strong Idea",
+            "link": "https://www.youtube.com/watch?v=m647KpdNTDg&vl=en-US&t=641"
+          },
+          {
+            "time": "11:03",
+            "title": "Step 2: Nail the Hook",
+            "link": "https://www.youtube.com/watch?v=m647KpdNTDg&vl=en-US&t=663"
+          },
+          {
+            "time": "11:18",
+            "title": "Step 3: Write & Shape the Script Yourself",
+            "link": "https://www.youtube.com/watch?v=m647KpdNTDg&vl=en-US&t=678"
+          },
+          {
+            "time": "11:52",
+            "title": "Step 4: Optimize Your Video Packaging (Title & SEO)",
+            "link": "https://www.youtube.com/watch?v=m647KpdNTDg&vl=en-US&t=712"
+          },
+          {
+            "time": "12:57",
+            "title": "Your Next Step",
+            "link": "https://www.youtube.com/watch?v=m647KpdNTDg&vl=en-US&t=777"
+          }
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "In this guide to making money with AI videos, you will learn: The truth about YouTube's new AI monetization rules. it is economically not ...",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CjRodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PW02NDdLcGROVERnJnZsPWVuLVVTEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CjRodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PW02NDdLcGROVERnJnZsPWVuLVVTEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRN5OFM98U8fkd-GNKdOVwdcsv2_h60lRLaEg",
+        "source": "YouTube \u00b7 Think Media"
+      },
+      {
+        "position": 3,
+        "title": "Youtube's new monetization guideline's This probably to ...",
+        "link": "https://www.facebook.com/sikthygames/posts/youtubes-new-monetization-guidelinesthis-probably-to-knock-down-the-amount-of-ai/1668236125227337/",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.facebook.com/sikthygames/posts/youtubes-new-monetization-guidelinesthis-probably-to-knock-down-the-amount-of-ai/1668236125227337/&usg=AOvVaw1zRgAB8xQDxeCF9I_7OkhL",
+        "displayed_link": "8 reactions",
+        "date": "3 months ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+        "snippet": "And no, your AI-generated videos won't get demonetized directly. Or you are using AI is a problem for YouTube.",
+        "snippet_highlighted_words": [
+          "AI",
+          "generated",
+          "get demonetized",
+          "AI is"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "And no, your AI-generated videos won't get demonetized directly. Or you are using AI is a problem for YouTube.",
+            "source_info_link": "https://www.facebook.com/sikthygames/posts/youtubes-new-monetization-guidelinesthis-probably-to-knock-down-the-amount-of-ai/1668236125227337/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co0BaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3Npa3RoeWdhbWVzL3Bvc3RzL3lvdXR1YmVzLW5ldy1tb25ldGl6YXRpb24tZ3VpZGVsaW5lc3RoaXMtcHJvYmFibHktdG8ta25vY2stZG93bi10aGUtYW1vdW50LW9mLWFpLzE2NjgyMzYxMjUyMjczMzcvEgQaAggAGvgHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNQHCAAQABgAIAAqHgoEZG9lcxUYcaA-GgNjYW4aAmRvGgJpcxoEd2lsbCotCgdwb3N0aW5nFQHqjz4aBHBvc3QaBnBvc3RlZBoIcG9zdGluZ3MaBXBvc3RzKi8KAmFpFZwLWEAaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgthaWdlbmVyYXRlZCpGCglnZW5lcmF0ZWQVGHEgPxoHY3JlYXRlZBoIZ2VuZXJhdGUaCmdlbmVyYXRpbmcaCHByb2R1Y2VkGgthaWdlbmVyYXRlZCoUCgZzaG9ydHMVCxqkPxoFc2hvcnQqeAoEaHVydBWjrO08GgRhY2hlGgRoYXJtGgdodXJ0aW5nGgVodXJ0cxoGaW5qdXJlGgdpbmp1cmVkGgZpbmp1cnkaBHBhaW4aB3BhaW5mdWwaBHNvcmUaCWl2O3A7aHVydBoGYWZmZWN0GgZkYW1hZ2UaBnNob3J0cyohCgdjaGFubmVsFQzaCj8aCGNoYW5uZWxzGgdzdGF0aW9uKh8KBXJlYWNoFWmwGz4aB2FjaGlldmUaCHJlYWNoaW5nKgkKAm9yFQAAAAAqNQoDZ2V0FRoXEEAaBmJlY29tZRoEZ2V0cxoHZ2V0dGluZxoEaGF2ZRoGb2J0YWluGgR0YWtlKmkKC2RlbW9uZXRpemVkFRhxID8aDGRlIG1vbmV0aXplZBoOZGVtb25ldGl6YXRpb24aCmRlbW9uZXRpemUaC2RlbW9uZXRpemVzGgxkZW1vbmV0aXppbmcaEGl2O3A7ZGVtb25ldGl6ZWQyjQFodHRwczovL3d3dy5mYWNlYm9vay5jb20vc2lrdGh5Z2FtZXMvcG9zdHMveW91dHViZXMtbmV3LW1vbmV0aXphdGlvbi1ndWlkZWxpbmVzdGhpcy1wcm9iYWJseS10by1rbm9jay1kb3duLXRoZS1hbW91bnQtb2YtYWkvMTY2ODIzNjEyNTIyNzMzNy86Q1lvdXR1YmUmIzM5O3MgbmV3IG1vbmV0aXphdGlvbiBndWlkZWxpbmUmIzM5O3MgVGhpcyBwcm9iYWJseSB0byAuLi5CjgFBbmQgbm8sIHlvdXIgPGI-QUk8L2I-LTxiPmdlbmVyYXRlZDwvYj4gdmlkZW9zIHdvbiYjMzk7dCA8Yj5nZXQgZGVtb25ldGl6ZWQ8L2I-IGRpcmVjdGx5LiBPciB5b3UgYXJlIHVzaW5nIDxiPkFJIGlzPC9iPiBhIHByb2JsZW0gZm9yIFlvdVR1YmUuSgJvclICaXNSA2NhblICZG9SBGhhdmVSBHdpbGwiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co0BaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3Npa3RoeWdhbWVzL3Bvc3RzL3lvdXR1YmVzLW5ldy1tb25ldGl6YXRpb24tZ3VpZGVsaW5lc3RoaXMtcHJvYmFibHktdG8ta25vY2stZG93bi10aGUtYW1vdW50LW9mLWFpLzE2NjgyMzYxMjUyMjczMzcvEgQaAggAGvgHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNQHCAAQABgAIAAqHgoEZG9lcxUYcaA-GgNjYW4aAmRvGgJpcxoEd2lsbCotCgdwb3N0aW5nFQHqjz4aBHBvc3QaBnBvc3RlZBoIcG9zdGluZ3MaBXBvc3RzKi8KAmFpFZwLWEAaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgthaWdlbmVyYXRlZCpGCglnZW5lcmF0ZWQVGHEgPxoHY3JlYXRlZBoIZ2VuZXJhdGUaCmdlbmVyYXRpbmcaCHByb2R1Y2VkGgthaWdlbmVyYXRlZCoUCgZzaG9ydHMVCxqkPxoFc2hvcnQqeAoEaHVydBWjrO08GgRhY2hlGgRoYXJtGgdodXJ0aW5nGgVodXJ0cxoGaW5qdXJlGgdpbmp1cmVkGgZpbmp1cnkaBHBhaW4aB3BhaW5mdWwaBHNvcmUaCWl2O3A7aHVydBoGYWZmZWN0GgZkYW1hZ2UaBnNob3J0cyohCgdjaGFubmVsFQzaCj8aCGNoYW5uZWxzGgdzdGF0aW9uKh8KBXJlYWNoFWmwGz4aB2FjaGlldmUaCHJlYWNoaW5nKgkKAm9yFQAAAAAqNQoDZ2V0FRoXEEAaBmJlY29tZRoEZ2V0cxoHZ2V0dGluZxoEaGF2ZRoGb2J0YWluGgR0YWtlKmkKC2RlbW9uZXRpemVkFRhxID8aDGRlIG1vbmV0aXplZBoOZGVtb25ldGl6YXRpb24aCmRlbW9uZXRpemUaC2RlbW9uZXRpemVzGgxkZW1vbmV0aXppbmcaEGl2O3A7ZGVtb25ldGl6ZWQyjQFodHRwczovL3d3dy5mYWNlYm9vay5jb20vc2lrdGh5Z2FtZXMvcG9zdHMveW91dHViZXMtbmV3LW1vbmV0aXphdGlvbi1ndWlkZWxpbmVzdGhpcy1wcm9iYWJseS10by1rbm9jay1kb3duLXRoZS1hbW91bnQtb2YtYWkvMTY2ODIzNjEyNTIyNzMzNy86Q1lvdXR1YmUmIzM5O3MgbmV3IG1vbmV0aXphdGlvbiBndWlkZWxpbmUmIzM5O3MgVGhpcyBwcm9iYWJseSB0byAuLi5CjgFBbmQgbm8sIHlvdXIgPGI-QUk8L2I-LTxiPmdlbmVyYXRlZDwvYj4gdmlkZW9zIHdvbiYjMzk7dCA8Yj5nZXQgZGVtb25ldGl6ZWQ8L2I-IGRpcmVjdGx5LiBPciB5b3UgYXJlIHVzaW5nIDxiPkFJIGlzPC9iPiBhIHByb2JsZW0gZm9yIFlvdVR1YmUuSgJvclICaXNSA2NhblICZG9SBGhhdmVSBHdpbGwiAhABSABYAGgA",
+        "source": "Facebook \u00b7 SikthyGames"
+      },
+      {
+        "position": 4,
+        "title": "YouTube targets unoriginal content in latest policy update",
+        "link": "https://async.com/blog/youtube-monetization-update/",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://async.com/blog/youtube-monetization-update/&usg=AOvVaw2w20QmUcb6IIkkHbkyFvQz",
+        "displayed_link": "https://async.com \u203a blog \u203a youtube-monetization-update",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAk1BMVEX_____7Of_n4P_bzv_YyX_y73_TwD_Xhj_ZCX_ZibzXiPhVyHoWiJ_MRIAAACGNBOPNxVmZmaEhISGhoZmJw8nKCjLy8vS0tI1NTVeJQ6sQxlXV1dfX1-6urpUIQzLTx2qqqpFRUWVOhby8vK_v7_e3t4nJyfk5ORvKxBGRkZ8fHygoKAMAACvr69AGAceHh4REhJizaWhAAABDUlEQVR4AXXTBRLDIAAF0a37r7u7y_1P1xBsprKj4cUBIJPN5b_KZTMkFYqlTzGVigXIFONAOSkeFTNkS14qlWqtVq1UvJey-OdV6g2lNesV_1y8tSS1O922pJZXnPXUH5A2HGnsFGsTTQnNrAaUSJp3OnOSpEUlYGWpFbBWUh9YGQ240RZ2StvBXlYtjrVerw8Wj7CVVYsnmc6X624PBq3iv0RXQhbVs1i-6WiHB6tBQOE-8w7szkpafeJJwEBpw098GOzK9OQTFwaH_ks-cKMBsO9eVvCJ5ape-OYfaF73NcA00AqIGOZ6dplJej2fT4-5qJ89yZb-6iUuzW89hkX9rXPCdrCfG3pejvAGn8gg6dL8VDYAAAAASUVORK5CYII.png",
+        "date": "Oct 15, 2026",
+        "snippet": "Reaction videos, compilations, and AI-generated Shorts aren't automatically penalized. Unoriginal content could hurt both your views and ...",
+        "snippet_highlighted_words": [
+          "AI-generated Shorts aren't automatically penalized"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Reaction videos, compilations, and AI-generated Shorts aren't automatically penalized. Unoriginal content could hurt both your views and ...",
+            "source_info_link": "https://async.com/blog/youtube-monetization-update/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAk1BMVEX_____7Of_n4P_bzv_YyX_y73_TwD_Xhj_ZCX_ZibzXiPhVyHoWiJ_MRIAAACGNBOPNxVmZmaEhISGhoZmJw8nKCjLy8vS0tI1NTVeJQ6sQxlXV1dfX1-6urpUIQzLTx2qqqpFRUWVOhby8vK_v7_e3t4nJyfk5ORvKxBGRkZ8fHygoKAMAACvr69AGAceHh4REhJizaWhAAABDUlEQVR4AXXTBRLDIAAF0a37r7u7y_1P1xBsprKj4cUBIJPN5b_KZTMkFYqlTzGVigXIFONAOSkeFTNkS14qlWqtVq1UvJey-OdV6g2lNesV_1y8tSS1O922pJZXnPXUH5A2HGnsFGsTTQnNrAaUSJp3OnOSpEUlYGWpFbBWUh9YGQ240RZ2StvBXlYtjrVerw8Wj7CVVYsnmc6X624PBq3iv0RXQhbVs1i-6WiHB6tBQOE-8w7szkpafeJJwEBpw098GOzK9OQTFwaH_ks-cKMBsO9eVvCJ5ape-OYfaF73NcA00AqIGOZ6dplJej2fT4-5qJ89yZb-6iUuzW89hkX9rXPCdrCfG3pejvAGn8gg6dL8VDYAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CjNodHRwczovL2FzeW5jLmNvbS9ibG9nL3lvdXR1YmUtbW9uZXRpemF0aW9uLXVwZGF0ZS8SBBoCCAAapAcSAggAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkD-BggAEAAYACAAKh4KBGRvZXMVGfChPhoDY2FuGgJkbxoCaXMaBHdpbGwqLQoHcG9zdGluZxUAAAAAGgRwb3N0GgZwb3N0ZWQaCHBvc3RpbmdzGgVwb3N0cyovCgJhaRXI2HFAGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoLYWlnZW5lcmF0ZWQqRgoJZ2VuZXJhdGVkFTlpkT8aB2NyZWF0ZWQaCGdlbmVyYXRlGgpnZW5lcmF0aW5nGghwcm9kdWNlZBoLYWlnZW5lcmF0ZWQqFAoGc2hvcnRzFdleKUAaBXNob3J0KngKBGh1cnQV7hEoPhoEYWNoZRoEaGFybRoHaHVydGluZxoFaHVydHMaBmluanVyZRoHaW5qdXJlZBoGaW5qdXJ5GgRwYWluGgdwYWluZnVsGgRzb3JlGglpdjtwO2h1cnQaBmFmZmVjdBoGZGFtYWdlGgZzaG9ydHMqIQoHY2hhbm5lbBX4uTg_GghjaGFubmVscxoHc3RhdGlvbiofCgVyZWFjaBWzSGA_GgdhY2hpZXZlGghyZWFjaGluZyoJCgJvchUAAAAAKjUKA2dldBXefqo_GgZiZWNvbWUaBGdldHMaB2dldHRpbmcaBGhhdmUaBm9idGFpbhoEdGFrZSppCgtkZW1vbmV0aXplZBVCLNk-GgxkZSBtb25ldGl6ZWQaDmRlbW9uZXRpemF0aW9uGgpkZW1vbmV0aXplGgtkZW1vbmV0aXplcxoMZGVtb25ldGl6aW5nGhBpdjtwO2RlbW9uZXRpemVkMjNodHRwczovL2FzeW5jLmNvbS9ibG9nL3lvdXR1YmUtbW9uZXRpemF0aW9uLXVwZGF0ZS86OllvdVR1YmUgdGFyZ2V0cyB1bm9yaWdpbmFsIGNvbnRlbnQgaW4gbGF0ZXN0IHBvbGljeSB1cGRhdGVCnAFSZWFjdGlvbiB2aWRlb3MsIGNvbXBpbGF0aW9ucywgYW5kIDxiPkFJLWdlbmVyYXRlZCBTaG9ydHMgYXJlbiYjMzk7dCBhdXRvbWF0aWNhbGx5IHBlbmFsaXplZDwvYj4uIFVub3JpZ2luYWwgY29udGVudCBjb3VsZCBodXJ0IGJvdGggeW91ciB2aWV3cyBhbmQmbmJzcDsuLi5KAm9yUgJpc1IDY2FuUgJkb1IEaGF2ZVIEd2lsbCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CjNodHRwczovL2FzeW5jLmNvbS9ibG9nL3lvdXR1YmUtbW9uZXRpemF0aW9uLXVwZGF0ZS8SBBoCCAAapAcSAggAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkD-BggAEAAYACAAKh4KBGRvZXMVGfChPhoDY2FuGgJkbxoCaXMaBHdpbGwqLQoHcG9zdGluZxUAAAAAGgRwb3N0GgZwb3N0ZWQaCHBvc3RpbmdzGgVwb3N0cyovCgJhaRXI2HFAGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoLYWlnZW5lcmF0ZWQqRgoJZ2VuZXJhdGVkFTlpkT8aB2NyZWF0ZWQaCGdlbmVyYXRlGgpnZW5lcmF0aW5nGghwcm9kdWNlZBoLYWlnZW5lcmF0ZWQqFAoGc2hvcnRzFdleKUAaBXNob3J0KngKBGh1cnQV7hEoPhoEYWNoZRoEaGFybRoHaHVydGluZxoFaHVydHMaBmluanVyZRoHaW5qdXJlZBoGaW5qdXJ5GgRwYWluGgdwYWluZnVsGgRzb3JlGglpdjtwO2h1cnQaBmFmZmVjdBoGZGFtYWdlGgZzaG9ydHMqIQoHY2hhbm5lbBX4uTg_GghjaGFubmVscxoHc3RhdGlvbiofCgVyZWFjaBWzSGA_GgdhY2hpZXZlGghyZWFjaGluZyoJCgJvchUAAAAAKjUKA2dldBXefqo_GgZiZWNvbWUaBGdldHMaB2dldHRpbmcaBGhhdmUaBm9idGFpbhoEdGFrZSppCgtkZW1vbmV0aXplZBVCLNk-GgxkZSBtb25ldGl6ZWQaDmRlbW9uZXRpemF0aW9uGgpkZW1vbmV0aXplGgtkZW1vbmV0aXplcxoMZGVtb25ldGl6aW5nGhBpdjtwO2RlbW9uZXRpemVkMjNodHRwczovL2FzeW5jLmNvbS9ibG9nL3lvdXR1YmUtbW9uZXRpemF0aW9uLXVwZGF0ZS86OllvdVR1YmUgdGFyZ2V0cyB1bm9yaWdpbmFsIGNvbnRlbnQgaW4gbGF0ZXN0IHBvbGljeSB1cGRhdGVCnAFSZWFjdGlvbiB2aWRlb3MsIGNvbXBpbGF0aW9ucywgYW5kIDxiPkFJLWdlbmVyYXRlZCBTaG9ydHMgYXJlbiYjMzk7dCBhdXRvbWF0aWNhbGx5IHBlbmFsaXplZDwvYj4uIFVub3JpZ2luYWwgY29udGVudCBjb3VsZCBodXJ0IGJvdGggeW91ciB2aWV3cyBhbmQmbmJzcDsuLi5KAm9yUgJpc1IDY2FuUgJkb1IEaGF2ZVIEd2lsbCICEAFIAFgAaAA",
+        "source": "Async"
+      },
+      {
+        "position": 5,
+        "title": "YouTube channel monetization policies",
+        "link": "https://support.google.com/youtube/answer/1311392?hl=en",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://support.google.com/youtube/answer/1311392?hl=en&usg=AOvVaw0W5xIf9iehyPrloK6O-4-n",
+        "displayed_link": "https://support.google.com \u203a youtube \u203a answer",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAB70lEQVR4AZWSQ2AgQQAE52zbtm3b_JyNz9m2bRuxbdu284ntZDvp2HjU7qhrKFacXFsKOq1uJK1dOgHrlz2QVq7zxfIVeVi2OIVltrEvc-vSRuUzZeEXXbpzEDbOApYvqghFazYgb81WgKItGzqX5MrCVwf9w5GxwJ5JoKSygGGSu367TQUBYkQjKLe5jW9dgDMji9g1JQRrlu3B8sXDCcvcBikfJiLFtvk46LUGKHjRB7gy7Dc7KnPv7rUm1bULOLe-Izm0BCiR7xjNxoYg8lya2cO1DShJsWp1sfKAifchW8DXyky4j59T7uWuF3nOTeIpINxOZUHBQKkmKKogkFzbzmmAgPws3AKXn-jYtMoW-GjGPsw-W8KE-9LRifcln3IruCMyHBvdYdjDvhGc7JvWeYijH2bGlwgKz4D7ZljZpjHBXauWv2oK934T8LT3m1AMeh4Ninq_Deld-JC0bcXtj1ZNcMWyJXZZdMN80wlBA4xX7OtqtHUkaa59ZU0LuV_Wrf6qo8NXB_R7FQluqfQpP7IS3Y9btPvH8DTTiehptIGgo-Gu3Lb6RyTSSu0BWip8AiXtv1vJc_ZSAVlp3r37ErNBdygoCZcXtNG8WiSQ-_2mJEyqPFcuuYP-oVcdDPe4l0hYZlsr1ZczKz_pfOcR3y8E3ot2AAAAAElFTkSuQmCC.png",
+        "snippet": "To protect viewers who may be confused or otherwise negatively impacted by this content, channels uploading this content will not be allowed to monetize.",
+        "snippet_highlighted_words": [
+          "channels",
+          "will"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "To protect viewers who may be confused or otherwise negatively impacted by this content, channels uploading this content will not be allowed to monetize.",
+            "source_info_link": "https://support.google.com/youtube/answer/1311392?hl=en",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAB70lEQVR4AZWSQ2AgQQAE52zbtm3b_JyNz9m2bRuxbdu284ntZDvp2HjU7qhrKFacXFsKOq1uJK1dOgHrlz2QVq7zxfIVeVi2OIVltrEvc-vSRuUzZeEXXbpzEDbOApYvqghFazYgb81WgKItGzqX5MrCVwf9w5GxwJ5JoKSygGGSu367TQUBYkQjKLe5jW9dgDMji9g1JQRrlu3B8sXDCcvcBikfJiLFtvk46LUGKHjRB7gy7Dc7KnPv7rUm1bULOLe-Izm0BCiR7xjNxoYg8lya2cO1DShJsWp1sfKAifchW8DXyky4j59T7uWuF3nOTeIpINxOZUHBQKkmKKogkFzbzmmAgPws3AKXn-jYtMoW-GjGPsw-W8KE-9LRifcln3IruCMyHBvdYdjDvhGc7JvWeYijH2bGlwgKz4D7ZljZpjHBXauWv2oK934T8LT3m1AMeh4Ninq_Deld-JC0bcXtj1ZNcMWyJXZZdMN80wlBA4xX7OtqtHUkaa59ZU0LuV_Wrf6qo8NXB_R7FQluqfQpP7IS3Y9btPvH8DTTiehptIGgo-Gu3Lb6RyTSSu0BWip8AiXtv1vJc_ZSAVlp3r37ErNBdygoCZcXtNG8WiSQ-_2mJEyqPFcuuYP-oVcdDPe4l0hYZlsr1ZczKz_pfOcR3y8E3ot2AAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CjdodHRwczovL3N1cHBvcnQuZ29vZ2xlLmNvbS95b3V0dWJlL2Fuc3dlci8xMzExMzkyP2hsPWVuEgQaAggAGrMHEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAjQcIABAAGAAgACoeCgRkb2VzFdPoiz0aA2NhbhoCZG8aAmlzGgR3aWxsKi0KB3Bvc3RpbmcVAAAAABoEcG9zdBoGcG9zdGVkGghwb3N0aW5ncxoFcG9zdHMqLwoCYWkVTti5PhoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaC2FpZ2VuZXJhdGVkKkYKCWdlbmVyYXRlZBX3SJU-GgdjcmVhdGVkGghnZW5lcmF0ZRoKZ2VuZXJhdGluZxoIcHJvZHVjZWQaC2FpZ2VuZXJhdGVkKhQKBnNob3J0cxWPFCQ_GgVzaG9ydCp4CgRodXJ0FQAAAAAaBGFjaGUaBGhhcm0aB2h1cnRpbmcaBWh1cnRzGgZpbmp1cmUaB2luanVyZWQaBmluanVyeRoEcGFpbhoHcGFpbmZ1bBoEc29yZRoJaXY7cDtodXJ0GgZhZmZlY3QaBmRhbWFnZRoGc2hvcnRzKiEKB2NoYW5uZWwVI6pFQBoIY2hhbm5lbHMaB3N0YXRpb24qHwoFcmVhY2gVAAAAABoHYWNoaWV2ZRoIcmVhY2hpbmcqCQoCb3IVAAAAACo1CgNnZXQVN1XuPhoGYmVjb21lGgRnZXRzGgdnZXR0aW5nGgRoYXZlGgZvYnRhaW4aBHRha2UqaQoLZGVtb25ldGl6ZWQV6R86PRoMZGUgbW9uZXRpemVkGg5kZW1vbmV0aXphdGlvbhoKZGVtb25ldGl6ZRoLZGVtb25ldGl6ZXMaDGRlbW9uZXRpemluZxoQaXY7cDtkZW1vbmV0aXplZDI3aHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20veW91dHViZS9hbnN3ZXIvMTMxMTM5Mj9obD1lbjo6WW91VHViZSA8Yj5jaGFubmVsPC9iPiBtb25ldGl6YXRpb24gcG9saWNpZXMgLSBHb29nbGUgSGVscEKnAVRvIHByb3RlY3Qgdmlld2VycyB3aG8gbWF5IGJlIGNvbmZ1c2VkIG9yIG90aGVyd2lzZSBuZWdhdGl2ZWx5IGltcGFjdGVkIGJ5IHRoaXMgY29udGVudCwgPGI-Y2hhbm5lbHM8L2I-IHVwbG9hZGluZyB0aGlzIGNvbnRlbnQgPGI-d2lsbDwvYj4gbm90IGJlIGFsbG93ZWQgdG8gbW9uZXRpemUuSgJvclIEaGF2ZVICaXNSA2NhblICZG9SBHdpbGwiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CjdodHRwczovL3N1cHBvcnQuZ29vZ2xlLmNvbS95b3V0dWJlL2Fuc3dlci8xMzExMzkyP2hsPWVuEgQaAggAGrMHEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAjQcIABAAGAAgACoeCgRkb2VzFdPoiz0aA2NhbhoCZG8aAmlzGgR3aWxsKi0KB3Bvc3RpbmcVAAAAABoEcG9zdBoGcG9zdGVkGghwb3N0aW5ncxoFcG9zdHMqLwoCYWkVTti5PhoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaC2FpZ2VuZXJhdGVkKkYKCWdlbmVyYXRlZBX3SJU-GgdjcmVhdGVkGghnZW5lcmF0ZRoKZ2VuZXJhdGluZxoIcHJvZHVjZWQaC2FpZ2VuZXJhdGVkKhQKBnNob3J0cxWPFCQ_GgVzaG9ydCp4CgRodXJ0FQAAAAAaBGFjaGUaBGhhcm0aB2h1cnRpbmcaBWh1cnRzGgZpbmp1cmUaB2luanVyZWQaBmluanVyeRoEcGFpbhoHcGFpbmZ1bBoEc29yZRoJaXY7cDtodXJ0GgZhZmZlY3QaBmRhbWFnZRoGc2hvcnRzKiEKB2NoYW5uZWwVI6pFQBoIY2hhbm5lbHMaB3N0YXRpb24qHwoFcmVhY2gVAAAAABoHYWNoaWV2ZRoIcmVhY2hpbmcqCQoCb3IVAAAAACo1CgNnZXQVN1XuPhoGYmVjb21lGgRnZXRzGgdnZXR0aW5nGgRoYXZlGgZvYnRhaW4aBHRha2UqaQoLZGVtb25ldGl6ZWQV6R86PRoMZGUgbW9uZXRpemVkGg5kZW1vbmV0aXphdGlvbhoKZGVtb25ldGl6ZRoLZGVtb25ldGl6ZXMaDGRlbW9uZXRpemluZxoQaXY7cDtkZW1vbmV0aXplZDI3aHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20veW91dHViZS9hbnN3ZXIvMTMxMTM5Mj9obD1lbjo6WW91VHViZSA8Yj5jaGFubmVsPC9iPiBtb25ldGl6YXRpb24gcG9saWNpZXMgLSBHb29nbGUgSGVscEKnAVRvIHByb3RlY3Qgdmlld2VycyB3aG8gbWF5IGJlIGNvbmZ1c2VkIG9yIG90aGVyd2lzZSBuZWdhdGl2ZWx5IGltcGFjdGVkIGJ5IHRoaXMgY29udGVudCwgPGI-Y2hhbm5lbHM8L2I-IHVwbG9hZGluZyB0aGlzIGNvbnRlbnQgPGI-d2lsbDwvYj4gbm90IGJlIGFsbG93ZWQgdG8gbW9uZXRpemUuSgJvclIEaGF2ZVICaXNSA2NhblICZG9SBHdpbGwiAhABSABYAGgA",
+        "source": "Google Help",
+        "read_more_link": "https://support.google.com/youtube/answer/1311392?hl=en#:~:text=Quality%20principles%20for%20kids%20and"
+      },
+      {
+        "position": 6,
+        "title": "What are the risks of getting YouTube Shorts demonetised ...",
+        "link": "https://www.quora.com/What-are-the-risks-of-getting-YouTube-Shorts-demonetised-as-a-result-of-being-repetitive-content",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.quora.com/What-are-the-risks-of-getting-YouTube-Shorts-demonetised-as-a-result-of-being-repetitive-content&usg=AOvVaw3JfgOU8WLXtQCOX-y53VDs",
+        "displayed_link": "30+ answers",
+        "date": "3 years ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png",
+        "snippet": "What are the risks of getting YouTube Shorts demonetised as a result of being repetitive content?",
+        "about_this_result": {
+          "source": {
+            "description": "If you are talking about the newly introduced YouTube \u201cShorts\u201d, then the answer is NO. YouTube may monetize them in the future, but for now, ads ...",
+            "source_info_link": "https://www.quora.com/What-are-the-risks-of-getting-YouTube-Shorts-demonetised-as-a-result-of-being-repetitive-content",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CnZodHRwczovL3d3dy5xdW9yYS5jb20vV2hhdC1hcmUtdGhlLXJpc2tzLW9mLWdldHRpbmctWW91VHViZS1TaG9ydHMtZGVtb25ldGlzZWQtYXMtYS1yZXN1bHQtb2YtYmVpbmctcmVwZXRpdGl2ZS1jb250ZW50EgQaAggAGocIEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOMHCAAQABgAIAAqHgoEZG9lcxUaRAI_GgNjYW4aAmRvGgJpcxoEd2lsbCotCgdwb3N0aW5nFQAAAAAaBHBvc3QaBnBvc3RlZBoIcG9zdGluZ3MaBXBvc3RzKi8KAmFpFXefMz0aF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgthaWdlbmVyYXRlZCpGCglnZW5lcmF0ZWQVAAAAABoHY3JlYXRlZBoIZ2VuZXJhdGUaCmdlbmVyYXRpbmcaCHByb2R1Y2VkGgthaWdlbmVyYXRlZCoUCgZzaG9ydHMVB8upQBoFc2hvcnQqeAoEaHVydBXIqlw_GgRhY2hlGgRoYXJtGgdodXJ0aW5nGgVodXJ0cxoGaW5qdXJlGgdpbmp1cmVkGgZpbmp1cnkaBHBhaW4aB3BhaW5mdWwaBHNvcmUaCWl2O3A7aHVydBoGYWZmZWN0GgZkYW1hZ2UaBnNob3J0cyohCgdjaGFubmVsFQl9zT8aCGNoYW5uZWxzGgdzdGF0aW9uKh8KBXJlYWNoFQAAAAAaB2FjaGlldmUaCHJlYWNoaW5nKgkKAm9yFQAAAAAqNQoDZ2V0FYmVjz8aBmJlY29tZRoEZ2V0cxoHZ2V0dGluZxoEaGF2ZRoGb2J0YWluGgR0YWtlKmkKC2RlbW9uZXRpemVkFRhRVj0aDGRlIG1vbmV0aXplZBoOZGVtb25ldGl6YXRpb24aCmRlbW9uZXRpemUaC2RlbW9uZXRpemVzGgxkZW1vbmV0aXppbmcaEGl2O3A7ZGVtb25ldGl6ZWQydmh0dHBzOi8vd3d3LnF1b3JhLmNvbS9XaGF0LWFyZS10aGUtcmlza3Mtb2YtZ2V0dGluZy1Zb3VUdWJlLVNob3J0cy1kZW1vbmV0aXNlZC1hcy1hLXJlc3VsdC1vZi1iZWluZy1yZXBldGl0aXZlLWNvbnRlbnQ6TVdoYXQgYXJlIHRoZSByaXNrcyBvZiA8Yj5nZXR0aW5nPC9iPiBZb3VUdWJlIDxiPlNob3J0czwvYj4gZGVtb25ldGlzZWQgYXMgLi4uQqsBSWYgeW91IGFyZSB0YWxraW5nIGFib3V0IHRoZSBuZXdseSBpbnRyb2R1Y2VkIFlvdVR1YmUg4oCcPGI-U2hvcnRzPC9iPuKAnSwgdGhlbiB0aGUgYW5zd2VyIDxiPmlzPC9iPiBOTy4gWW91VHViZSBtYXkgbW9uZXRpemUgdGhlbSBpbiB0aGUgZnV0dXJlLCBidXQgZm9yIG5vdywgYWRzJm5ic3A7Li4uSgJvclICZG9SA2NhblICaXNSBGhhdmVSBHdpbGwiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CnZodHRwczovL3d3dy5xdW9yYS5jb20vV2hhdC1hcmUtdGhlLXJpc2tzLW9mLWdldHRpbmctWW91VHViZS1TaG9ydHMtZGVtb25ldGlzZWQtYXMtYS1yZXN1bHQtb2YtYmVpbmctcmVwZXRpdGl2ZS1jb250ZW50EgQaAggAGocIEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOMHCAAQABgAIAAqHgoEZG9lcxUaRAI_GgNjYW4aAmRvGgJpcxoEd2lsbCotCgdwb3N0aW5nFQAAAAAaBHBvc3QaBnBvc3RlZBoIcG9zdGluZ3MaBXBvc3RzKi8KAmFpFXefMz0aF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgthaWdlbmVyYXRlZCpGCglnZW5lcmF0ZWQVAAAAABoHY3JlYXRlZBoIZ2VuZXJhdGUaCmdlbmVyYXRpbmcaCHByb2R1Y2VkGgthaWdlbmVyYXRlZCoUCgZzaG9ydHMVB8upQBoFc2hvcnQqeAoEaHVydBXIqlw_GgRhY2hlGgRoYXJtGgdodXJ0aW5nGgVodXJ0cxoGaW5qdXJlGgdpbmp1cmVkGgZpbmp1cnkaBHBhaW4aB3BhaW5mdWwaBHNvcmUaCWl2O3A7aHVydBoGYWZmZWN0GgZkYW1hZ2UaBnNob3J0cyohCgdjaGFubmVsFQl9zT8aCGNoYW5uZWxzGgdzdGF0aW9uKh8KBXJlYWNoFQAAAAAaB2FjaGlldmUaCHJlYWNoaW5nKgkKAm9yFQAAAAAqNQoDZ2V0FYmVjz8aBmJlY29tZRoEZ2V0cxoHZ2V0dGluZxoEaGF2ZRoGb2J0YWluGgR0YWtlKmkKC2RlbW9uZXRpemVkFRhRVj0aDGRlIG1vbmV0aXplZBoOZGVtb25ldGl6YXRpb24aCmRlbW9uZXRpemUaC2RlbW9uZXRpemVzGgxkZW1vbmV0aXppbmcaEGl2O3A7ZGVtb25ldGl6ZWQydmh0dHBzOi8vd3d3LnF1b3JhLmNvbS9XaGF0LWFyZS10aGUtcmlza3Mtb2YtZ2V0dGluZy1Zb3VUdWJlLVNob3J0cy1kZW1vbmV0aXNlZC1hcy1hLXJlc3VsdC1vZi1iZWluZy1yZXBldGl0aXZlLWNvbnRlbnQ6TVdoYXQgYXJlIHRoZSByaXNrcyBvZiA8Yj5nZXR0aW5nPC9iPiBZb3VUdWJlIDxiPlNob3J0czwvYj4gZGVtb25ldGlzZWQgYXMgLi4uQqsBSWYgeW91IGFyZSB0YWxraW5nIGFib3V0IHRoZSBuZXdseSBpbnRyb2R1Y2VkIFlvdVR1YmUg4oCcPGI-U2hvcnRzPC9iPuKAnSwgdGhlbiB0aGUgYW5zd2VyIDxiPmlzPC9iPiBOTy4gWW91VHViZSBtYXkgbW9uZXRpemUgdGhlbSBpbiB0aGUgZnV0dXJlLCBidXQgZm9yIG5vdywgYWRzJm5ic3A7Li4uSgJvclICZG9SA2NhblICaXNSBGhhdmVSBHdpbGwiAhABSABYAGgA",
+        "source": "Quora"
+      },
+      {
+        "position": 7,
+        "title": "Can AI Shorts Be Monetized in 2026? What Counts as ...",
+        "link": "https://miraflow.ai/blog/can-ai-shorts-be-monetized-2026-original-content",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://miraflow.ai/blog/can-ai-shorts-be-monetized-2026-original-content&usg=AOvVaw38GgrXGi5JvX0u_GCJtuNu",
+        "displayed_link": "https://miraflow.ai \u203a blog \u203a can-ai-shorts-be-monetized-...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAq1BMVEX____85OX0mZ34wsT73-DzkZb4xsnyhoz60tT-8vPufIDkAAD1rLDsaWz3vcDpTlLoCBTtZGjrWFzlAATlAAnmEx7pRkrnMjnlCRTcSEvUAAbXCxL61dfLAADMUVLptrbCUFC0AAC1DAzADA7mTVL35OTQCxKxAADbl5e1Dg7uzc3LZWX1oqbANjblrKy-LS3FW1vqwsLBSUnBPz_x3Nz9-PjWhoa9IyPQc3MM0k-bAAAA0UlEQVR4AWIYXgBAtFzgMAzEQBQtU5gZvGUI0_1vVjso-tI8zXqz7bvbH4YeT7OdLxzHUwWOE6kSJ2_no8LJtO5UTTe2WFPXrcOCtm6IhLZubQltzTwtSOta1bDmae24nsdJ_oK48oqGDcIoBna9Brc14V3gZFy5i6LJD8aerxje7zeDT49feHj4_CkBe78hSRHRsvuIuGXRPX_ilhT3ErAVHgckW9U5tipWdQkMSrIB4V1gc4CEWsJsq-YFWUFtn92H-p-FurEJIvxMVDHoEQUAbNYbFOih7esAAAAASUVORK5CYII.png",
+        "date": "Apr 5, 2026",
+        "snippet": "AI Shorts can be monetized in 2026, but only if they pass YouTube's originality test. Here is exactly what counts as original content and ...",
+        "snippet_highlighted_words": [
+          "AI Shorts can be monetized in 2026"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "AI Shorts can be monetized in 2026, but only if they pass YouTube's originality test. Here is exactly what counts as original content and ...",
+            "source_info_link": "https://miraflow.ai/blog/can-ai-shorts-be-monetized-2026-original-content",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAq1BMVEX____85OX0mZ34wsT73-DzkZb4xsnyhoz60tT-8vPufIDkAAD1rLDsaWz3vcDpTlLoCBTtZGjrWFzlAATlAAnmEx7pRkrnMjnlCRTcSEvUAAbXCxL61dfLAADMUVLptrbCUFC0AAC1DAzADA7mTVL35OTQCxKxAADbl5e1Dg7uzc3LZWX1oqbANjblrKy-LS3FW1vqwsLBSUnBPz_x3Nz9-PjWhoa9IyPQc3MM0k-bAAAA0UlEQVR4AWIYXgBAtFzgMAzEQBQtU5gZvGUI0_1vVjso-tI8zXqz7bvbH4YeT7OdLxzHUwWOE6kSJ2_no8LJtO5UTTe2WFPXrcOCtm6IhLZubQltzTwtSOta1bDmae24nsdJ_oK48oqGDcIoBna9Brc14V3gZFy5i6LJD8aerxje7zeDT49feHj4_CkBe78hSRHRsvuIuGXRPX_ilhT3ErAVHgckW9U5tipWdQkMSrIB4V1gc4CEWsJsq-YFWUFtn92H-p-FurEJIvxMVDHoEQUAbNYbFOih7esAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CklodHRwczovL21pcmFmbG93LmFpL2Jsb2cvY2FuLWFpLXNob3J0cy1iZS1tb25ldGl6ZWQtMjAyNi1vcmlnaW5hbC1jb250ZW50EgQaAggAGr4HEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAmAcIABAAGAAgACoeCgRkb2VzFU61uT8aA2NhbhoCZG8aAmlzGgR3aWxsKi0KB3Bvc3RpbmcVAAAAABoEcG9zdBoGcG9zdGVkGghwb3N0aW5ncxoFcG9zdHMqLwoCYWkVWM3hQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaC2FpZ2VuZXJhdGVkKkYKCWdlbmVyYXRlZBWMvi1AGgdjcmVhdGVkGghnZW5lcmF0ZRoKZ2VuZXJhdGluZxoIcHJvZHVjZWQaC2FpZ2VuZXJhdGVkKhQKBnNob3J0cxUk0sVAGgVzaG9ydCp4CgRodXJ0FQAAAAAaBGFjaGUaBGhhcm0aB2h1cnRpbmcaBWh1cnRzGgZpbmp1cmUaB2luanVyZWQaBmluanVyeRoEcGFpbhoHcGFpbmZ1bBoEc29yZRoJaXY7cDtodXJ0GgZhZmZlY3QaBmRhbWFnZRoGc2hvcnRzKiEKB2NoYW5uZWwVbqsRQBoIY2hhbm5lbHMaB3N0YXRpb24qHwoFcmVhY2gVOIpePRoHYWNoaWV2ZRoIcmVhY2hpbmcqCQoCb3IVAAAAACo1CgNnZXQVNXnMPxoGYmVjb21lGgRnZXRzGgdnZXR0aW5nGgRoYXZlGgZvYnRhaW4aBHRha2UqaQoLZGVtb25ldGl6ZWQVZSfbPxoMZGUgbW9uZXRpemVkGg5kZW1vbmV0aXphdGlvbhoKZGVtb25ldGl6ZRoLZGVtb25ldGl6ZXMaDGRlbW9uZXRpemluZxoQaXY7cDtkZW1vbmV0aXplZDJJaHR0cHM6Ly9taXJhZmxvdy5haS9ibG9nL2Nhbi1haS1zaG9ydHMtYmUtbW9uZXRpemVkLTIwMjYtb3JpZ2luYWwtY29udGVudDo9PGI-Q2FuIEFJIFNob3J0czwvYj4gQmUgTW9uZXRpemVkIGluIDIwMjY_IFdoYXQgQ291bnRzIGFzIC4uLkKdATxiPkFJIFNob3J0cyBjYW4gYmUgbW9uZXRpemVkIGluIDIwMjY8L2I-LCBidXQgb25seSBpZiB0aGV5IHBhc3MgWW91VHViZSYjMzk7cyBvcmlnaW5hbGl0eSB0ZXN0LiBIZXJlIGlzIGV4YWN0bHkgd2hhdCBjb3VudHMgYXMgb3JpZ2luYWwgY29udGVudCBhbmQmbmJzcDsuLi5KAm9yUgJpc1IDY2FuUgJkb1IEaGF2ZVIEd2lsbCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CklodHRwczovL21pcmFmbG93LmFpL2Jsb2cvY2FuLWFpLXNob3J0cy1iZS1tb25ldGl6ZWQtMjAyNi1vcmlnaW5hbC1jb250ZW50EgQaAggAGr4HEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAmAcIABAAGAAgACoeCgRkb2VzFU61uT8aA2NhbhoCZG8aAmlzGgR3aWxsKi0KB3Bvc3RpbmcVAAAAABoEcG9zdBoGcG9zdGVkGghwb3N0aW5ncxoFcG9zdHMqLwoCYWkVWM3hQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaC2FpZ2VuZXJhdGVkKkYKCWdlbmVyYXRlZBWMvi1AGgdjcmVhdGVkGghnZW5lcmF0ZRoKZ2VuZXJhdGluZxoIcHJvZHVjZWQaC2FpZ2VuZXJhdGVkKhQKBnNob3J0cxUk0sVAGgVzaG9ydCp4CgRodXJ0FQAAAAAaBGFjaGUaBGhhcm0aB2h1cnRpbmcaBWh1cnRzGgZpbmp1cmUaB2luanVyZWQaBmluanVyeRoEcGFpbhoHcGFpbmZ1bBoEc29yZRoJaXY7cDtodXJ0GgZhZmZlY3QaBmRhbWFnZRoGc2hvcnRzKiEKB2NoYW5uZWwVbqsRQBoIY2hhbm5lbHMaB3N0YXRpb24qHwoFcmVhY2gVOIpePRoHYWNoaWV2ZRoIcmVhY2hpbmcqCQoCb3IVAAAAACo1CgNnZXQVNXnMPxoGYmVjb21lGgRnZXRzGgdnZXR0aW5nGgRoYXZlGgZvYnRhaW4aBHRha2UqaQoLZGVtb25ldGl6ZWQVZSfbPxoMZGUgbW9uZXRpemVkGg5kZW1vbmV0aXphdGlvbhoKZGVtb25ldGl6ZRoLZGVtb25ldGl6ZXMaDGRlbW9uZXRpemluZxoQaXY7cDtkZW1vbmV0aXplZDJJaHR0cHM6Ly9taXJhZmxvdy5haS9ibG9nL2Nhbi1haS1zaG9ydHMtYmUtbW9uZXRpemVkLTIwMjYtb3JpZ2luYWwtY29udGVudDo9PGI-Q2FuIEFJIFNob3J0czwvYj4gQmUgTW9uZXRpemVkIGluIDIwMjY_IFdoYXQgQ291bnRzIGFzIC4uLkKdATxiPkFJIFNob3J0cyBjYW4gYmUgbW9uZXRpemVkIGluIDIwMjY8L2I-LCBidXQgb25seSBpZiB0aGV5IHBhc3MgWW91VHViZSYjMzk7cyBvcmlnaW5hbGl0eSB0ZXN0LiBIZXJlIGlzIGV4YWN0bHkgd2hhdCBjb3VudHMgYXMgb3JpZ2luYWwgY29udGVudCBhbmQmbmJzcDsuLi5KAm9yUgJpc1IDY2FuUgJkb1IEaGF2ZVIEd2lsbCICEAFIAFgAaAA",
+        "source": "miraflow.ai"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "Does YouTube pay for AI-generated shorts",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDipyiU8reGjiJer9ssuLAX73WdOcA:1795424443335&q=Does+YouTube+pay+for+AI-generated+shorts&sa=X&ved=2ahUKEwipz6mh3Z2YAxXdl2oFHaZWMuYQ1QJ6BAhBEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Does+YouTube+pay+for+AI-generated+shorts"
+      },
+      {
+        "block_position": 1,
+        "query": "Does YouTube allow AI-generated videos for monetization",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDipyiU8reGjiJer9ssuLAX73WdOcA:1795424443335&q=Does+YouTube+allow+AI-generated+videos+for+monetization&sa=X&ved=2ahUKEwipz6mh3Z2YAxXdl2oFHaZWMuYQ1QJ6BAhEEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Does+YouTube+allow+AI-generated+videos+for+monetization"
+      },
+      {
+        "block_position": 1,
+        "query": "YouTube AI monetization policy",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDipyiU8reGjiJer9ssuLAX73WdOcA:1795424443335&q=YouTube+AI+monetization+policy&sa=X&ved=2ahUKEwipz6mh3Z2YAxXdl2oFHaZWMuYQ1QJ6BAhIEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=YouTube+AI+monetization+policy"
+      },
+      {
+        "block_position": 1,
+        "query": "YouTube AI monetization policy 2026",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDipyiU8reGjiJer9ssuLAX73WdOcA:1795424443335&q=YouTube+AI+monetization+policy+2026&sa=X&ved=2ahUKEwipz6mh3Z2YAxXdl2oFHaZWMuYQ1QJ6BAhGEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=YouTube+AI+monetization+policy+2026"
+      },
+      {
+        "block_position": 1,
+        "query": "Does AI videos get monetized on Instagram",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDipyiU8reGjiJer9ssuLAX73WdOcA:1795424443335&q=Does+AI+videos+get+monetized+on+Instagram&sa=X&ved=2ahUKEwipz6mh3Z2YAxXdl2oFHaZWMuYQ1QJ6BAhDEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Does+AI+videos+get+monetized+on+Instagram"
+      },
+      {
+        "block_position": 1,
+        "query": "Does AI videos get monetized on Facebook",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDipyiU8reGjiJer9ssuLAX73WdOcA:1795424443335&q=Does+AI+videos+get+monetized+on+Facebook&sa=X&ved=2ahUKEwipz6mh3Z2YAxXdl2oFHaZWMuYQ1QJ6BAhHEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Does+AI+videos+get+monetized+on+Facebook"
+      },
+      {
+        "block_position": 1,
+        "query": "Does YouTube monetize AI videos reddit",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDipyiU8reGjiJer9ssuLAX73WdOcA:1795424443335&q=Does+YouTube+monetize+AI+videos+reddit&sa=X&ved=2ahUKEwipz6mh3Z2YAxXdl2oFHaZWMuYQ1QJ6BAhFEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Does+YouTube+monetize+AI+videos+reddit"
+      },
+      {
+        "block_position": 1,
+        "query": "Is YouTube demonetizing channels",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDipyiU8reGjiJer9ssuLAX73WdOcA:1795424443335&q=Is+YouTube+demonetizing+channels&sa=X&ved=2ahUKEwipz6mh3Z2YAxXdl2oFHaZWMuYQ1QJ6BAhCEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Is+YouTube+demonetizing+channels"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "Demonetized for \"Mass Produced\" AI content... while only posting twice a ...",
+        "link": "https://www.reddit.com/r/aitubers/comments/1rijrac/demonetized_for_mass_produced_ai_content_while/",
+        "date": "8 months ago",
+        "extensions": [
+          "r/aitubers",
+          "70+ comments"
+        ],
+        "source": "Reddit",
+        "answers": [
+          {
+            "link": "https://www.reddit.com/r/aitubers/comments/1rijrac/demonetized_for_mass_produced_ai_content_while/"
+          }
+        ]
+      },
+      {
+        "title": "Detailed Clarification About AI-Generated Content and Monetization ...",
+        "link": "https://support.google.com/youtube/thread/413713611/detailed-clarification-about-ai-generated-content-and-monetization-eligibility?hl=en",
+        "date": "8 months ago",
+        "source": "Google Help",
+        "answers": [
+          {
+            "link": "https://support.google.com/youtube/thread/413713611/detailed-clarification-about-ai-generated-content-and-monetization-eligibility?hl=en"
+          }
+        ]
+      },
+      {
+        "title": "Can I upload Ai videos on YouTube",
+        "link": "https://support.google.com/youtube/thread/295137637/can-i-upload-ai-videos-on-youtube?hl=en",
+        "date": "2 years ago",
+        "extensions": [
+          "1 answer"
+        ],
+        "source": "Google Help",
+        "answers": [
+          {
+            "link": "https://support.google.com/youtube/thread/295137637?hl=en&msgid=295504622",
+            "extensions": [
+              "Top answer",
+              "87 votes",
+              "2 years ago"
+            ]
+          }
+        ]
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=Does+posting+AI+generated+shorts+hurt+channel+reach+or+get+demonetized?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDipyiU8reGjiJer9ssuLAX73WdOcA:1795424443335&ei=uwAEa-mFFN2vqtsPpq3JsQ4&start=10&sa=N&sstk=AYl2yk8BMrPQbyIAj6hEjFBMh9Tt0SoLK956WNizyf38_yMA-CPkn82TZkGH8lYHfN6w7IJjXEFToaZo5cbKTJTXUuvOVD8gWDRNvg&ved=2ahUKEwipz6mh3Z2YAxXdl2oFHaZWMuYQ8NMDegQIPBAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=Does+posting+AI+generated+shorts+hurt+channel+reach+or+get+demonetized?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDipyiU8reGjiJer9ssuLAX73WdOcA:1795424443335&ei=uwAEa-mFFN2vqtsPpq3JsQ4&start=10&sa=N&sstk=AYl2yk8BMrPQbyIAj6hEjFBMh9Tt0SoLK956WNizyf38_yMA-CPkn82TZkGH8lYHfN6w7IJjXEFToaZo5cbKTJTXUuvOVD8gWDRNvg&ved=2ahUKEwipz6mh3Z2YAxXdl2oFHaZWMuYQ8tMDegQIPBAE",
+        "3": "https://www.google.com/search?q=Does+posting+AI+generated+shorts+hurt+channel+reach+or+get+demonetized?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDipyiU8reGjiJer9ssuLAX73WdOcA:1795424443335&ei=uwAEa-mFFN2vqtsPpq3JsQ4&start=20&sa=N&sstk=AYl2yk8BMrPQbyIAj6hEjFBMh9Tt0SoLK956WNizyf38_yMA-CPkn82TZkGH8lYHfN6w7IJjXEFToaZo5cbKTJTXUuvOVD8gWDRNvg&ved=2ahUKEwipz6mh3Z2YAxXdl2oFHaZWMuYQ8tMDegQIPBAG",
+        "4": "https://www.google.com/search?q=Does+posting+AI+generated+shorts+hurt+channel+reach+or+get+demonetized?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDipyiU8reGjiJer9ssuLAX73WdOcA:1795424443335&ei=uwAEa-mFFN2vqtsPpq3JsQ4&start=30&sa=N&sstk=AYl2yk8BMrPQbyIAj6hEjFBMh9Tt0SoLK956WNizyf38_yMA-CPkn82TZkGH8lYHfN6w7IJjXEFToaZo5cbKTJTXUuvOVD8gWDRNvg&ved=2ahUKEwipz6mh3Z2YAxXdl2oFHaZWMuYQ8tMDegQIPBAI",
+        "5": "https://www.google.com/search?q=Does+posting+AI+generated+shorts+hurt+channel+reach+or+get+demonetized?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDipyiU8reGjiJer9ssuLAX73WdOcA:1795424443335&ei=uwAEa-mFFN2vqtsPpq3JsQ4&start=40&sa=N&sstk=AYl2yk8BMrPQbyIAj6hEjFBMh9Tt0SoLK956WNizyf38_yMA-CPkn82TZkGH8lYHfN6w7IJjXEFToaZo5cbKTJTXUuvOVD8gWDRNvg&ved=2ahUKEwipz6mh3Z2YAxXdl2oFHaZWMuYQ8tMDegQIPBAK",
+        "6": "https://www.google.com/search?q=Does+posting+AI+generated+shorts+hurt+channel+reach+or+get+demonetized?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDipyiU8reGjiJer9ssuLAX73WdOcA:1795424443335&ei=uwAEa-mFFN2vqtsPpq3JsQ4&start=50&sa=N&sstk=AYl2yk8BMrPQbyIAj6hEjFBMh9Tt0SoLK956WNizyf38_yMA-CPkn82TZkGH8lYHfN6w7IJjXEFToaZo5cbKTJTXUuvOVD8gWDRNvg&ved=2ahUKEwipz6mh3Z2YAxXdl2oFHaZWMuYQ8tMDegQIPBAM",
+        "7": "https://www.google.com/search?q=Does+posting+AI+generated+shorts+hurt+channel+reach+or+get+demonetized?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDipyiU8reGjiJer9ssuLAX73WdOcA:1795424443335&ei=uwAEa-mFFN2vqtsPpq3JsQ4&start=60&sa=N&sstk=AYl2yk8BMrPQbyIAj6hEjFBMh9Tt0SoLK956WNizyf38_yMA-CPkn82TZkGH8lYHfN6w7IJjXEFToaZo5cbKTJTXUuvOVD8gWDRNvg&ved=2ahUKEwipz6mh3Z2YAxXdl2oFHaZWMuYQ8tMDegQIPBAO",
+        "8": "https://www.google.com/search?q=Does+posting+AI+generated+shorts+hurt+channel+reach+or+get+demonetized?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDipyiU8reGjiJer9ssuLAX73WdOcA:1795424443335&ei=uwAEa-mFFN2vqtsPpq3JsQ4&start=70&sa=N&sstk=AYl2yk8BMrPQbyIAj6hEjFBMh9Tt0SoLK956WNizyf38_yMA-CPkn82TZkGH8lYHfN6w7IJjXEFToaZo5cbKTJTXUuvOVD8gWDRNvg&ved=2ahUKEwipz6mh3Z2YAxXdl2oFHaZWMuYQ8tMDegQIPBAQ",
+        "9": "https://www.google.com/search?q=Does+posting+AI+generated+shorts+hurt+channel+reach+or+get+demonetized?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDipyiU8reGjiJer9ssuLAX73WdOcA:1795424443335&ei=uwAEa-mFFN2vqtsPpq3JsQ4&start=80&sa=N&sstk=AYl2yk8BMrPQbyIAj6hEjFBMh9Tt0SoLK956WNizyf38_yMA-CPkn82TZkGH8lYHfN6w7IJjXEFToaZo5cbKTJTXUuvOVD8gWDRNvg&ved=2ahUKEwipz6mh3Z2YAxXdl2oFHaZWMuYQ8tMDegQIPBAS",
+        "10": "https://www.google.com/search?q=Does+posting+AI+generated+shorts+hurt+channel+reach+or+get+demonetized?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDipyiU8reGjiJer9ssuLAX73WdOcA:1795424443335&ei=uwAEa-mFFN2vqtsPpq3JsQ4&start=90&sa=N&sstk=AYl2yk8BMrPQbyIAj6hEjFBMh9Tt0SoLK956WNizyf38_yMA-CPkn82TZkGH8lYHfN6w7IJjXEFToaZo5cbKTJTXUuvOVD8gWDRNvg&ved=2ahUKEwipz6mh3Z2YAxXdl2oFHaZWMuYQ8tMDegQIPBAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Does+posting+AI+generated+shorts+hurt+channel+reach+or+get+demonetized%3F&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Does+posting+AI+generated+shorts+hurt+channel+reach+or+get+demonetized%3F&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Does+posting+AI+generated+shorts+hurt+channel+reach+or+get+demonetized%3F&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Does+posting+AI+generated+shorts+hurt+channel+reach+or+get+demonetized%3F&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Does+posting+AI+generated+shorts+hurt+channel+reach+or+get+demonetized%3F&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Does+posting+AI+generated+shorts+hurt+channel+reach+or+get+demonetized%3F&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Does+posting+AI+generated+shorts+hurt+channel+reach+or+get+demonetized%3F&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Does+posting+AI+generated+shorts+hurt+channel+reach+or+get+demonetized%3F&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Does+posting+AI+generated+shorts+hurt+channel+reach+or+get+demonetized%3F&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Does+posting+AI+generated+shorts+hurt+channel+reach+or+get+demonetized%3F&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Does+posting+AI+generated+shorts+hurt+channel+reach+or+get+demonetized%3F&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

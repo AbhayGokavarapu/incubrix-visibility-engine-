@@ -1,0 +1,30 @@
+{
+  "measurement_id": "519e020926fa",
+  "question_id": "Q001",
+  "timestamp_utc": "2026-11-22T11:00:00Z",
+  "provider_name": "ChatGPT Web",
+  "model_identifier": "chatgpt-free-web",
+  "question": "How to automatically turn long YouTube videos into viral TikToks with AI?",
+  "market": "US",
+  "collection_method": "MANUAL_VERIFIED_IMPORT",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [
+    "Opus Clip",
+    "Descript",
+    "CapCut"
+  ],
+  "position": null,
+  "citations": [
+    "https://opus.pro",
+    "https://descript.com"
+  ],
+  "raw_text_summary": "Top AI tools for turning long YouTube videos into TikToks include Opus Clip, Descript, and CapCut.",
+  "raw_payload": {
+    "import_type": "manual_observation",
+    "screenshot_reference": null,
+    "recorded_by": "candidate_verified",
+    "day_identifier": "DAY_1"
+  },
+  "error_details": null
+}

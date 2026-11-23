@@ -1,0 +1,558 @@
+{
+  "measurement_id": "255d6c7a7c2d",
+  "question_id": "Q057",
+  "timestamp_utc": "2026-11-22T13:48:47.356467+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "How do media houses repurpose live news broadcasts into reels?",
+  "market": "IN",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://www.nimcj.org/blog-detail/from-radio-to-reels-how-media-consumption-is-changing-in-india.php",
+    "https://localmedia.org/2026/03/why-reels-represent-a-major-opportunity-for-local-media/",
+    "https://www.google.com/goto?url=CAESfgHEIkXXKUWyOWRlaJEUq64ZBFfgkcjnqPw3DKwHHCEaNuZpJjMcq-Ft6AmWGaAh7mgdAbTgvlZwmnKJorwlwreecrryHVLIv5JFY546hL-Q0PVTM4SBewSHbPmBpKn_Lq7zKs5Xkq6qLER-riY6opG7bJCjqKxbuvmXy0UYIg",
+    "https://www.google.com/goto?url=CAES2gEBxCJF1wSmN_8YeizDiyrMs1vcCJ-CRFxsj3ww_fcw4moKXeuIZdd6LkEqfpG1UmU8M8fKz0vo5VfTsfHfKZfZ_eCCLZCmxGsxaxZXxLMLpuTMsbAYPEqia3Rb-C1uEk2HkwGXHQLdi9iaOqP1dzQQbCvq0GaMVXjgbCkddkmjeN37K5UxNycFPntpBqhL8cFwI4Qjn1jykwjv8jFxJmnJ1o3JWXN8j9V0mKSXbsnfEVo1epuHhQ_HeLDm_tNPvtZPkBoppfbbJWRCxLjn_u49YpQAm_QDNtu_PA",
+    "https://www.google.com/goto?url=CAESfAHEIkXXGNT7qZ-IBWAfFQ-GhKfK2961tQj3mFAxIt6Rs0QUiFOOJDfInpAkHrVFU27bWcWtUiZLOx8AktjhQgEZeBHwa1lRuAJlO-DR28cPGe6eQKjmBvBolUB4mN4iPF0SBOg7gHRPLTyace4bQC0xEgSYVJi7ixy0dQU",
+    "https://www.google.com/goto?url=CAESlgEBxCJF17I0nNiI8ALtpst8rLwwS00bktk12K8vKIiasDODrgTDcwX62uPXP4vgAh2Wx-wBGdYjseDT5fz3hy8jIxY0gY70k4-56i7NNc34s__KeOWK9SAVB9qDDFx75ufgh4F4h3g9R79n6xvKgqCcTcy-s_8OdvwdvWk9fPU9ktYGFjyjjy2YPcHdFiIlIZeMaoR9Zvs&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA",
+    "https://www.google.com/goto?url=CAESiwEBxCJF14DPoyzfhTspPRVe6hJGqB8CfiEl7f1EP-IAc4_kLK1ayI5u_7BgjJib_mBpmJAT0M8m46yjP3HCFUQRgeR-OmHKjDUSMG60alMQmb76SQUfvmbmtoA0sY6kP6gvecne7FvzfDVVBZfmASEwGrEQm_II3W3_c5Jx0_9LQKaidi2NKTvd59GX",
+    "https://www.google.com/goto?url=CAESbgHEIkXXC7-wLAxs-e37jz3FXKYjDy831m66lgGfmF5HhE9I7CMMhT1kHUePz18cDo_pC_bSv8qeD0PmpCp8gQxMYFtL8BgscTDi0Jcc-yu8ZAtHjGJkDaur0fQA4VZxbXhjs_RqRk5wrL4kGFHF&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+  ],
+  "raw_text_summary": "From Radio to Reels - How Media Consumption Is ... Explore how media consumption in India is changing from radio and TV to Instagram Reels, YouTube and digital platforms, reshaping news and ... Why Reels represent a major opportunity for local media Platforms like Instagram Reels, Facebook Reels, and YouTube Shorts allow publishers to repurpose existing reporting in formats audiences ... 5 Creative Ways to Repurpose Live Streams 1. Create Teaser Videos to Generate Interest \u00b7 2. Repurpose Live Streams Into Videos for Your Email Campaigns \u00b7 3. Use Short Videos as Lead ... HOW TO CREATE VIDEO NEWS THAT ROCKS IN SOCIAL ... HuffPost reports impressive success simply offering the live signal from a camera operator standing in the middle of the crowd, with no ... Instagram Reels for Journalists: Format, Hook & UK ... Establishing a visual template (fonts, colour palette, caption style) for your journalism Reels builds audience recognition over time. How to Make Social-First Videos That Reach New Audiences By the end of this session, you will be better prepared to create your own short-form videos that engage and grow new audiences on social media. The Reels strategy helping one TV news anchor grow her ... How to repurpose newscast content for Reels. Taylor says one of the easiest ways for television journalists to create social content is by ... How can journalists use short-form videos to tell stories? Hear ... How can journalists use short-form videos to tell stories? Hear from our new Nieman Storyboard editor, Mark Armstrong on why journalists are ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f2bd391b389d7b8d5469",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/75dFPFkUwfEaInzJaaIcncdc3LXGei906f4HeNCeqxk/6b02f2bd391b389d7b8d5469.json",
+      "markdown_endpoint": "https://serpapi.com/searches/75dFPFkUwfEaInzJaaIcncdc3LXGei906f4HeNCeqxk/6b02f2bd391b389d7b8d5469.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/75dFPFkUwfEaInzJaaIcncdc3LXGei906f4HeNCeqxk/6b02f2bd391b389d7b8d5469.json_with_pixel_position",
+      "created_at": "2026-11-22 13:48:45 UTC",
+      "processed_at": "2026-11-22 13:48:45 UTC",
+      "google_url": "https://www.google.com/search?q=How+do+media+houses+repurpose+live+news+broadcasts+into+reels%3F&oq=How+do+media+houses+repurpose+live+news+broadcasts+into+reels%3F&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/75dFPFkUwfEaInzJaaIcncdc3LXGei906f4HeNCeqxk/6b02f2bd391b389d7b8d5469.html",
+      "total_time_taken": 1.29
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "How do media houses repurpose live news broadcasts into reels?",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "in",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "How do media houses repurpose live news broadcasts into reels?",
+      "total_results": 1250000,
+      "time_taken_displayed": 0.33,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "Repurpose Your Live Stream into Reels and TikToks SUPER ...",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXV6PkMKUSlNVjjtEgR2mf2Tad86zw3BdXukbsdbPmfSi97W6F1AQ-YmNdQOeyZGRF40LToTuYThzFG1XUZPvSUOg8bJGnlKqAf4wciEBP-yUfdVmhVy7JjLDWR91C_MwTyU67&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA",
+        "thumbnail": "https://serpapi.com/searches/6b02f2bd391b389d7b8d5469/images/--SmP6oWZnjnJ9neVc-uP3ydOLQvRI_KuhWTG1urBQ8.jpg",
+        "channel": "Desiree Martinez",
+        "duration": "7:11",
+        "platform": "YouTube",
+        "date": "25 Feb 2022",
+        "snippet": "Learn to repurpose live streams into vertical videos for Reels, TikTok, and Shorts using StreamYard and CapCut."
+      },
+      {
+        "position": 2,
+        "title": "Repurpose Live Streams Like a Pro: Easy AI Tools for Creators",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXDaum1ztR9-TvikMyTGnR4pJNomlnJBTqgeTnnTqCM4o4Ik8XuqC11Q8rCNKlYA_CJjgwpnfj7la9PuBenJaUme5pew23fa9OqFGpEseGSu--ZlTyyBuKm9nQz6OkulCsc9Lq&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA",
+        "thumbnail": "https://serpapi.com/searches/6b02f2bd391b389d7b8d5469/images/FvMjs-dlIeJ1UlD47st0CsysFv-fsc-IxeWeeWtWaLQ.jpg",
+        "channel": "Ecamm",
+        "duration": "1:02:10",
+        "platform": "YouTube",
+        "date": "11 Apr 2025",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQPKDNAbm2R2lbNvlWwLZV5vJEox6o3Zic4MQ",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "What We Learned at NAB",
+            "link": "https://www.google.com/goto?url=CAESbAHEIkXXyHHpyrAb9XuQSmuHEy3LuAL_GGpo9N10Mc3kFzc4Xn9h_f_zJbBwb5s1drz9zaHwlWwsrEXCyiaurNMW7CPXI4RXwjEsPlH-a6Zh79SsN0nli0jlZ-G_ONxbwuUxMb_Gae5uBppaAg&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+          },
+          {
+            "time": "04:09",
+            "title": "Brand Search Insights",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXBt08ZpPJA30umJ4ExuU7tHvaHm7UkkHgGXX1QIvzO9u2C4Ry_OHOwkz1UC5zTb_42iJuqii_6LB9rZ2I6X97VMJ3qLoCSYL4ElSdfxW9DH5RczFKChIRTh52ABkq6UjfVE71pwOWIFo0&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+          },
+          {
+            "time": "05:40",
+            "title": "Repurposing Live Content Platforms",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXXFdRDb4RLw7-ldkZ5UhGAv7iAFxq1LR9c9kYTMQKEvp6Y0ccqHFJYOstmiqAu6bg2JUrRD5AT4rIXhoOsxXsdYRVjJ3aux9dfrbUkbUo8b8jxXvbV8OEH-Fao_RG0XAcLIQmk6eZKICX&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+          },
+          {
+            "time": "14:09",
+            "title": "Benefits of Content Repurposing",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXQKI3nyB8L2p821mJPFcE6GixNEDnnS1UaN-k407Ssu_Mb7_yQeh_y3dKMffQPfY41kwJabhA34pR7tIDdALDx2uv8UznfvgCbNsj0T2pEJ_A4g4U8N1R0_KyYGHqQE6ZpmRiSKPS_60L&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+          },
+          {
+            "time": "17:30",
+            "title": "Transforming Your Content Strategy",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXZpfx7ANB7_WMO0D8sgavFQba7eTQ3jko5Ybe0bUKvo-7SjEhrdFWG5lZUJpkS7MDgN4JfZzQrRWqW3uvqaKg9jfwamHUm_Med8tkJEmscjMCUoQqrtFB0ry-LgOEnqFBDijsCYu4k_mJxw&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+          },
+          {
+            "time": "19:04",
+            "title": "Audience Engagement Q&A",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXYcK8EGsJeiM45RLRt3XuypCYnTgQBkL25Q7YPLoqWsGD5UQLdU15CxnKjGBpQDaldvMbD3iLI-AVOmoBg6hqaqQm0Aj84LWn_h0UGRfoEELDMxwIKC4pHuPDIL2iuFCqDmwNLzSe_ENDSQ&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+          },
+          {
+            "time": "23:35",
+            "title": "Opus Clips & Ecamm Integration",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXxZDroCr7xYySwQWs2VzXgtaSPWtivsUNUdFLUha-MUpf6JZ66Abyga5EtEakQr9LvlcsBXCnUD-VaOXSto_htc9YTJ8PK8NLYdv6jZDzB9DyB6uj17daTZ9Q12DM5YjMVNvYAJQUtfzhcg&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+          },
+          {
+            "time": "25:42",
+            "title": "Analyzing YouTube Metrics",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXy2p3-XR4LtwXh3olFGE9Equ3g-3gYx940VO5G2pv4TUDYqc-IY00YAWzBd2szWuU_-XOuCRebWKpEJ1waYdUHAeNjUMdpsZIaq_tUTImjlGVdKN637q5-rfRDR9KPjplOB9Uyk-nH1zJMA&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+          },
+          {
+            "time": "30:13",
+            "title": "Significance of Content Repurposing",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXIgC_378Qu_k7wf1IFtxbMostaMgMUdRmka4Jy6JeSrR7EFxDPnaElXvAje8r3pylipuSYbrgBkaCdYKPyicPuEJUFXsIzNDSYGTa7e9nk9tmt5AkiwBNEqX71Q6GKBgtNw5dBljshOX3cQ&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+          },
+          {
+            "time": "33:59",
+            "title": "Importance of Video Clips",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXEL7IOYi6QKC2WNpPZMJtiZBcAMk0E_Rhlk7TdqWOBiv70pFONDrKmk3XltUjUOLNVN4pijra3JoU_8jhP2oKejDG-_TR8y5SM4peUOaelExCY4MSUoEnxVX6mvIxQaFFGK_F4l7bQ3TwtQ&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+          },
+          {
+            "time": "38:35",
+            "title": "Testing Clips with Opus",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXvzd41ppG0FbyBMwmYbmf6DGyuenf85OEND5XjdC8orG0UAnQZVug0aY2oXXMhVMGf1EkRgsLpiwHtkXnekygUBn3stMrrCzxz6R6AGMPD43gnDdq4OZ0XafUe5WMoNCO8RpSqCThlnQiVg&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+          },
+          {
+            "time": "41:10",
+            "title": "Growing Your Audience with Clips",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXDoC9IpkRg18n8AUqO50ioln0Sg4LTVDypIVaxma0bS3He7TPedESn8qBiO-o8-PYf8Eqd2CywigYrs_hijgQSIJg2UFgyCxjGefQQV6rgIYIR1kqgouEXTIv8IBja9SZrDslNx5CGIm8SQ&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+          },
+          {
+            "time": "44:10",
+            "title": "Audience Care Strategies",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXU_z6ccsZU8E2-PcqlT2HC6hbsDQWJ9ySE_ys6NqQDR6thtpgeNl5nNPg5UJh1I8tut9pcG60FM_IMzOFdaWoI4HvlzPv4nuyFc6uqQcrLBsnIoou-mqFQqZuyiQ5GrebxCycCp8iMUrxAA&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+          },
+          {
+            "time": "47:01",
+            "title": "Clips vs. Shorts Comparison",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXEaIp8YqxBtL9e_ZhOQXBfsn1NeivTRw-riGAPyRwitGucnx1tD0DUjxqkZ-nTSBlZcnh1cuuIYEGdXf6eCkraa2y3d21I8vhCOOeBm5mLA7pxWbCsGFl71P2ud56_W2vS5l7qKnjO3a6sw&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+          },
+          {
+            "time": "49:38",
+            "title": "Analyzing Opus Results",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXodA-c422USA7dLirKHPKHI9210C6IKFKvLH-lv_7f3LuUl7dFCutOUhrVx4PRCL_bieWqkxoQbhMib6tzxzT1PPCSNG8h-CPw0EXCs3fRXJtBFnrtras6DTrUyDbDITkoB7o209pzgsPCg&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+          },
+          {
+            "time": "51:07",
+            "title": "Creating Effective Playlists",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXxx9icykQGR5p-7uJ_LIs2ocyp76LS-4-8PnG8vc20ldA8oGHZveTW1fdS_y3bGUt9A77M2rj5L6wtlE5z5fm227ugod55QOUhNzV-3GF55R6J8sKBItErZddsB97OauSD20qnGnI2PWXcw&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+          },
+          {
+            "time": "54:50",
+            "title": "Impact of Multistreaming on Channels",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXX4Oe31O4NEEH9hIVzy8FFKcgaHXNJy34wbMgrtmccCrIW3YEpzxKuU5w6cihrRfzkt3CRH7pfpIYKOD7NNIFIesNcJwS03usBh_gXfvFMI9ciMS--LE5ysTa2PXltDeqenpoRuJkTPwqwrA&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+          },
+          {
+            "time": "55:40",
+            "title": "Clips and Shorts Relationship",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXvAvNb75Sa3DROyI1g-1qiXP2asrokIH7zl00L17ZfhhPWHQYc28IYCbbywUOEz0hne2cdk2zqFbENE74pmB6NM1xDaLvT-IaqMsC8TzAiIPNi4K1swKId-ulqSeI9VQvYhGddpbKnYe5QA&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+          },
+          {
+            "time": "57:51",
+            "title": "Opus vs. Descript Comparison",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXd8r3lLrGJhBayfyXhxqYMZ8MQ_YR9apX4mjbNB6svZnWlQzyka2eur-jF23n0DMkf0n6VKKiCXaWy4ISzyvFddy2kpnpnEABcDd4neNL2VhEhI6WoyXh9jWIGG1LP-wBANAmDTZmzt-jzg&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+          },
+          {
+            "time": "59:36",
+            "title": "Wrapping Up Content Insights",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXSswB3_x6hs0X2NLCohEc-bKHb9ZnWKaKydmdsWqJVCnjIsbi4NuYuxqKNc4OTzdWxZ0bPXvFrGBfm7Qa_CntbAEdx25TMUqafvyNS4ERQfKt_WUIYmISnEZnAfXYWPfTyifdqcSjZpnlFQ&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "title": "How to repurpose your live stream content to Instagram",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXwek-OrhrHTnNbC0nhe3mWbdvmt8mw1j6Bz_4bDPs6RCBZjcuHg-pIGBU3BQNOdnfV9Tzk1fdcPVT7Pt8BRUONiL2APdXYo3Rk15mCRUfzHejFpFffyw6Um3_j6ZqHrxQgE0x&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA",
+        "thumbnail": "https://serpapi.com/searches/6b02f2bd391b389d7b8d5469/images/zdAoJDpEcKYnB6eNPFIUSyqdIi65s_jkALmz3JoGfTw.jpg",
+        "channel": "Anita Wong",
+        "duration": "26:41",
+        "platform": "YouTube",
+        "date": "15 Apr 2021",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTI8vdQrx2wfzURcxXrLepLM_lxVNwJovUGeg",
+        "key_moments": [
+          {
+            "time": "02:10",
+            "title": "Why repurpose live streams to Instagram?",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXWUO2RVEmwUhucCAd1X3TLfLEIwaYIh4HHhUl6d0Lhf2IuhNe6x7C0NQY4rBbqlEIvhdvStA4hRgc9aWSwU5URBVAwVpVG2h_l8VHoPz6OVdPwIBXjDI4jgfkgtWUXJIowtnxUB187GC6&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+          },
+          {
+            "time": "03:26",
+            "title": "Restream chat features",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXflH9V55BwgzwV6c8D0nfM6-M9SQ5OxZI5MDiBCi6i0mfzCcAH8koUH3TDrCYoo88Q_BDepxhCG0x-Ql7rOMhjQ_ftTUkPCpDFJdzx3emKBe6c3ZBVWTNiyfBhXjiVaohvaD5W11Y43Og&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+          },
+          {
+            "time": "05:11",
+            "title": "What is IGTV?",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXkbVmbaEhWVDzvCFq_2kLKgNFwDwZkAR8-qC4mxuRX3qaDFZjgc6NmphYqzKjatqSV5OyO0D35nnbePz5LOGHuoDUFkwgKbZ2QydYf4tBLA0jHoIoHNqnN-y00eIeEZ1eS7pATfSLooG5&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+          },
+          {
+            "time": "07:38",
+            "title": "Restream dashboard",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXTxLKnuqwHJLMjAKRQgtWCKcKKuxl6CwseyihkftUN-9nyEkmn-eupzaImhKZ8d98RtRoW4tWK4Bdbvu7YwUEDswRHf3PZe1MrOntlwCHDF0KxgFxTSNCQUQjKDjJNTTZVfJ3DtdiQ1Cf&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+          },
+          {
+            "time": "09:46",
+            "title": "How to upload your live stream to IGTV",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXX7jL4d-P_ndZKY82EOZOHSKdTlWWBPYKiuik26eoxHaCodd6YBZeBOQW94XTqyfLL3HxSIffuP6E0oBeXpmJY4Eq4XwmpyFZrTphdqewskD8K-SD3ZRCp6clbu1ErU-kGBXiXnN96T-4s&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+          },
+          {
+            "time": "13:08",
+            "title": "How to create an IGTV thumbnail",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXArsl_VfD1magaYteSBUZXTpLnmzysi3Bb2rQMYUFn3_7widefJYvSNlb91sVfTRKTVk4Ce4RHMUHpR1YaBfJHd6EkQiL9DeUwnJYIEQp9kRDwQ0mRhMlQcM0CM6NUtGzm2crKb4bgSLh&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+          },
+          {
+            "time": "16:46",
+            "title": "Adding hashtags",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXX_FGF7DO1VMJrq4e-XB2hnEvSHyihUi4Qq4cLgMcBS6ZSFiqWvNZmlQqse1jhEvhrto1IwNbXmGdZj-WmGyN_cCWGn7sMAzqp5ioo47n2AEbY_fLNapSx-2tnZ7EMr_lBN_TLzzwL0rui_Q&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+          },
+          {
+            "time": "19:27",
+            "title": "How to post your video",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXhffzLeaiktDCFD3eA2RWxSN4uwXqJf8vQMM8_6IK4Gkk_WsqAzPMC_rB2-mnC_JfAkHoatAZZtHISfECZ6DnU2f7P-j4BsN4EBm-p6XvDPisOqXo_u_tA_vWJBDSFeGf-ohERF9W0k2Nyw&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+          },
+          {
+            "time": "21:17",
+            "title": "Benefits of Restream",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXJH_4_F4hnwaCjCQONbhOgwNjCO1Z8kIwrtQloscBv7L8fXdZpv6wLJnB9jdpHGic3ahQ8hDM1D7_UZe8Buab3I2-XnqSs3oJHIucuKlXAwrZWAplmGWpJ0SnUFSQESFFDThUzq308MH7Vw&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+          },
+          {
+            "time": "25:12",
+            "title": "Conclusion",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXMYtvi3-dXUHmmjPOVNB8qc74XsSNT6pxjjxtkb5gAXAiD7b9FVen6LC9dZAgqzHOrYiU89wf10JR63rHwNLuFjUqNjtCdx4POBKpSyD8AbCvpXipozOZmyNAATYqWwzjOiHMrjC649dY0w&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "title": "Transform Your Live Stream Into Shorts, Blogs, Posts, and More!",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXIlsRjYK_rJXTWU2pYstdnHO-Kfaiw4jruGXy1dfVHiO-RPo3BrePAMDUAai0vs4TGCesg42pEt_H9qMJ8_3mRWjaMreMmTEoKsYhIMuFeYXIphDSsun25dbTAYR6NXmqjHN6&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA",
+        "thumbnail": "https://serpapi.com/searches/6b02f2bd391b389d7b8d5469/images/sZsdvjZBhb8n5kxvQXSRYIO4j2dmzZlfc68CBiNg1YQ.jpg",
+        "channel": "Riverside",
+        "duration": "9:20",
+        "platform": "YouTube",
+        "date": "7 Aug 2024",
+        "snippet": "Transform one live stream into weeks of content: shorts, blogs, podcasts, and social media posts using Riverside's AI tools.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQkK6NDMeGL2wbzRelrTC587tgFm97LBdKF9g"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "How to repurpose content for social media?",
+        "type": "ai_overview",
+        "page_token": "x7xRXnicHdBRbpswAABQrYfpZwNYpEukqBIBlrBgigET_FM5NsTIxtDEK5TPnmVfu0OvsAPsGD1Bq93g6b39Vq2W_769CGOG63qxGMfx7tz3Z1Xfsb5b0OurZgtGlTpRJtfL-6X90LBN8GvvbZ_3XlqgoFJcVccwQQU5sB-rLfKjrjySBknxWOLBrQCEDPBnbrEJyfBIbbSt_dhwLNKTMyzj7vvMJf9JLNGWJUyzozckIXSZwvsY4JlZrohz5UHlJZmGmsgph8HKrjv3FQbEcB2CHHhRqcmhkjz58niwsJ28wwfsEIda-7EOVlntkwu0hx12oqkMjEu1AhwjQ-YoTa0QVFq0vHPnvJxAILhDpPKrnLdYjiYHcOI7mNKZ7NDW9grUt2khkjgoQOaLa7JTNutQRBwhT0A91rq3mDMUXx9WNsOmSG8b9rIBt_8_N09NZ9bDpT__YZeampo_UfNX3ny8fwIMBooI",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=x7xRXnicHdBRbpswAABQrYfpZwNYpEukqBIBlrBgigET_FM5NsTIxtDEK5TPnmVfu0OvsAPsGD1Bq93g6b39Vq2W_769CGOG63qxGMfx7tz3Z1Xfsb5b0OurZgtGlTpRJtfL-6X90LBN8GvvbZ_3XlqgoFJcVccwQQU5sB-rLfKjrjySBknxWOLBrQCEDPBnbrEJyfBIbbSt_dhwLNKTMyzj7vvMJf9JLNGWJUyzozckIXSZwvsY4JlZrohz5UHlJZmGmsgph8HKrjv3FQbEcB2CHHhRqcmhkjz58niwsJ28wwfsEIda-7EOVlntkwu0hx12oqkMjEu1AhwjQ-YoTa0QVFq0vHPnvJxAILhDpPKrnLdYjiYHcOI7mNKZ7NDW9grUt2khkjgoQOaLa7JTNutQRBwhT0A91rq3mDMUXx9WNsOmSG8b9rIBt_8_N09NZ9bDpT__YZeampo_UfNX3ny8fwIMBooI",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGFuaE5VVEkxUlV4cVMxRkpRa0ZVYlVWU05XdDBiRGxrUkRRdFFWcGpkVzVLTVZwQ1ZHeHVkbTB5WldwMU9WbzFlbXhMYkd0UFUzWkpkbXBWV0RGTE9IZE9hMDFRUTFsMlprSXdjMlZRVnpONGFEbG1SMlp0U2pCbFVSSVhkbVpKUTJFM1lsWk1MVTl6Y1hSelVHczJSMFF0UVZFYUlrRklUakJGTjBZelltWXpWMmxJUlVOWFJqQkpVVkJMWm5sNVlVWlFNVVkyVG5jIiwiZmN2IjoiMyIsImVpIjoidmZJQ2E3YlZMLU9zcXRzUGs2R0QtQVEiLCJxYyI6IkNqMW9iM2NnWkc4Z2JXVmthV0VnYUc5MWMyVnpJSEpsY0hWeWNHOXpaU0JzYVhabElHNWxkM01nWW5KdllXUmpZWE4wY3lCcGJuUnZJSEpsWld4ekVBQjlyVW9VUHciLCJxdWVzdGlvbiI6IkhvdyB0byByZXB1cnBvc2UgY29udGVudCBmb3Igc29jaWFsIG1lZGlhPyIsImxrIjoiR2lsb2IzY2dkRzhnY21Wd2RYSndiM05sSUdOdmJuUmxiblFnWm05eUlITnZZMmxoYkNCdFpXUnBZUSIsImJzIjoiYzUyUHNRb0NNUkJFc1UwbHFNMVZJOXFvMkJ5bzViV0NIeUNXYTdKZWdtZHlKdkdDZi04cFdvZ1dZcmZNdkhtd1lpZW1hNWNRSFR6WEYxLTd3SkRPUnJZUkItY1JuRFJVNGNUS1VKSFBzb24tbFJabnNieXJOUVVvVTVyNEtpQTEyWklWb21Za3VpSnhxNU5zR29ibEZJcDhsUzMwUDBzeEZfMnRwZ2p5ak9xZWV1YXFGUTZ5WHZyTXhVYU1uODlMenhRWmhIMTdISTB0SHo0MFJyRXI4bEUyMUdfY0Y2cmJ1UUUiLCJpZCI6ImZjX3ZmSUNhN2JWTC1Pc3F0c1BrNkdELUFRXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGFuaE5VVEkxUlV4cVMxRkpRa0ZVYlVWU05XdDBiRGxrUkRRdFFWcGpkVzVLTVZwQ1ZHeHVkbTB5WldwMU9WbzFlbXhMYkd0UFUzWkpkbXBWV0RGTE9IZE9hMDFRUTFsMlprSXdjMlZRVnpONGFEbG1SMlp0U2pCbFVSSVhkbVpKUTJFM1lsWk1MVTl6Y1hSelVHczJSMFF0UVZFYUlrRklUakJGTjBZelltWXpWMmxJUlVOWFJqQkpVVkJMWm5sNVlVWlFNVVkyVG5jIiwiZmN2IjoiMyIsImVpIjoidmZJQ2E3YlZMLU9zcXRzUGs2R0QtQVEiLCJxYyI6IkNqMW9iM2NnWkc4Z2JXVmthV0VnYUc5MWMyVnpJSEpsY0hWeWNHOXpaU0JzYVhabElHNWxkM01nWW5KdllXUmpZWE4wY3lCcGJuUnZJSEpsWld4ekVBQjlyVW9VUHciLCJxdWVzdGlvbiI6IkhvdyB0byByZXB1cnBvc2UgY29udGVudCBmb3Igc29jaWFsIG1lZGlhPyIsImxrIjoiR2lsb2IzY2dkRzhnY21Wd2RYSndiM05sSUdOdmJuUmxiblFnWm05eUlITnZZMmxoYkNCdFpXUnBZUSIsImJzIjoiYzUyUHNRb0NNUkJFc1UwbHFNMVZJOXFvMkJ5bzViV0NIeUNXYTdKZWdtZHlKdkdDZi04cFdvZ1dZcmZNdkhtd1lpZW1hNWNRSFR6WEYxLTd3SkRPUnJZUkItY1JuRFJVNGNUS1VKSFBzb24tbFJabnNieXJOUVVvVTVyNEtpQTEyWklWb21Za3VpSnhxNU5zR29ibEZJcDhsUzMwUDBzeEZfMnRwZ2p5ak9xZWV1YXFGUTZ5WHZyTXhVYU1uODlMenhRWmhIMTdISTB0SHo0MFJyRXI4bEUyMUdfY0Y2cmJ1UUUiLCJpZCI6ImZjX3ZmSUNhN2JWTC1Pc3F0c1BrNkdELUFRXzUifQ%3D%3D"
+      },
+      {
+        "question": "How has digital media changed the way we receive news?",
+        "type": "ai_overview",
+        "page_token": "XXlPu3icHdBLjpswAABQtYeZ5YRPJ20iRZVIDJQJRnZsE3szMnYCBPNJwgTCskfoGbrqHeYKc4Aeoydo1f1bve8_TdlUvz_8KPq-uy5ns2EYHvO2zc3hUbX1TF7vjZopaUwmVbWcf57bX49qBW7KW1-UhygG3GjD9_qMwYgzJxq26cKmLLd0LU6Y5HfOojo1fJIOGpFt4iR9es6ajh8Cy0GnqNyS6K4qcZYAfIrXNo9TzHi1GAXwn6DP-t3EEgxgzCZg6308YBduuSlK7Hp7bGOBT3Cuqf2sAjhQJl7FFFFkVVbsQCDAeCRE3EXYbaHpsAiiDQ51IhmTzPdKaOmzACbO6KLeueYbPfm2rP2AEM_KNiZSTbfjRLR046WoHj0SdD4otCMqs-FEl6waeuLCUYcQyUmEeG17FLclokUSA-ruQrZTBFiKdW6SQvefaahbXDUY9yxgN0q_TAg9HNVt5T78v169HOt-2V3a_Je6HGR_0C-yf68-_nn7C0FHlAo",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=XXlPu3icHdBLjpswAABQtYeZ5YRPJ20iRZVIDJQJRnZsE3szMnYCBPNJwgTCskfoGbrqHeYKc4Aeoydo1f1bve8_TdlUvz_8KPq-uy5ns2EYHvO2zc3hUbX1TF7vjZopaUwmVbWcf57bX49qBW7KW1-UhygG3GjD9_qMwYgzJxq26cKmLLd0LU6Y5HfOojo1fJIOGpFt4iR9es6ajh8Cy0GnqNyS6K4qcZYAfIrXNo9TzHi1GAXwn6DP-t3EEgxgzCZg6308YBduuSlK7Hp7bGOBT3Cuqf2sAjhQJl7FFFFkVVbsQCDAeCRE3EXYbaHpsAiiDQ51IhmTzPdKaOmzACbO6KLeueYbPfm2rP2AEM_KNiZSTbfjRLR046WoHj0SdD4otCMqs-FEl6waeuLCUYcQyUmEeG17FLclokUSA-ruQrZTBFiKdW6SQvefaahbXDUY9yxgN0q_TAg9HNVt5T78v169HOt-2V3a_Je6HGR_0C-yf68-_nn7C0FHlAo",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGFuaE5VVEkxUlV4cVMxRkpRa0ZVYlVWU05XdDBiRGxrUkRRdFFWcGpkVzVLTVZwQ1ZHeHVkbTB5WldwMU9WbzFlbXhMYkd0UFUzWkpkbXBWV0RGTE9IZE9hMDFRUTFsMlprSXdjMlZRVnpONGFEbG1SMlp0U2pCbFVSSVhkbVpKUTJFM1lsWk1MVTl6Y1hSelVHczJSMFF0UVZFYUlrRklUakJGTjBZelltWXpWMmxJUlVOWFJqQkpVVkJMWm5sNVlVWlFNVVkyVG5jIiwiZmN2IjoiMyIsImVpIjoidmZJQ2E3YlZMLU9zcXRzUGs2R0QtQVEiLCJxYyI6IkNqMW9iM2NnWkc4Z2JXVmthV0VnYUc5MWMyVnpJSEpsY0hWeWNHOXpaU0JzYVhabElHNWxkM01nWW5KdllXUmpZWE4wY3lCcGJuUnZJSEpsWld4ekVBQjlyVW9VUHciLCJxdWVzdGlvbiI6IkhvdyBoYXMgZGlnaXRhbCBtZWRpYSBjaGFuZ2VkIHRoZSB3YXkgd2UgcmVjZWl2ZSBuZXdzPyIsImxrIjoiY3dYQjBRbkFJQXdFMEQzOHVpVWM2RENIQ2JRS0tvWnUzX2RLOVpsd2JsajBPSHp3eW9Kb3p0RmxPQzRrUDZTdzFCUlhHTXI5QXciLCJicyI6ImM1MlBzUW9DTVJCRXNVMGxxTTFWSTlxbzJCeW81YldDSHlDV2E3SmVnbWR5SnZHQ2YtOHBXb2dXWXJmTXZIbXdZaWVtYTVjUUhUelhGMS03d0pET1JyWVJCLWNSbkRSVTRjVEtVSkhQc29uLWxSWm5zYnlyTlFVb1U1cjRLaUExMlpJVm9tWWt1aUp4cTVOc0dvYmxGSXA4bFMzMFAwc3hGXzJ0cGdqeWpPcWVldWFxRlE2eVh2ck14VWFNbjg5THp4UVpoSDE3SEkwdEh6NDBSckVyOGxFMjFHX2NGNnJidVFFIiwiaWQiOiJmY192ZklDYTdiVkwtT3NxdHNQazZHRC1BUV81In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGFuaE5VVEkxUlV4cVMxRkpRa0ZVYlVWU05XdDBiRGxrUkRRdFFWcGpkVzVLTVZwQ1ZHeHVkbTB5WldwMU9WbzFlbXhMYkd0UFUzWkpkbXBWV0RGTE9IZE9hMDFRUTFsMlprSXdjMlZRVnpONGFEbG1SMlp0U2pCbFVSSVhkbVpKUTJFM1lsWk1MVTl6Y1hSelVHczJSMFF0UVZFYUlrRklUakJGTjBZelltWXpWMmxJUlVOWFJqQkpVVkJMWm5sNVlVWlFNVVkyVG5jIiwiZmN2IjoiMyIsImVpIjoidmZJQ2E3YlZMLU9zcXRzUGs2R0QtQVEiLCJxYyI6IkNqMW9iM2NnWkc4Z2JXVmthV0VnYUc5MWMyVnpJSEpsY0hWeWNHOXpaU0JzYVhabElHNWxkM01nWW5KdllXUmpZWE4wY3lCcGJuUnZJSEpsWld4ekVBQjlyVW9VUHciLCJxdWVzdGlvbiI6IkhvdyBoYXMgZGlnaXRhbCBtZWRpYSBjaGFuZ2VkIHRoZSB3YXkgd2UgcmVjZWl2ZSBuZXdzPyIsImxrIjoiY3dYQjBRbkFJQXdFMEQzOHVpVWM2RENIQ2JRS0tvWnUzX2RLOVpsd2JsajBPSHp3eW9Kb3p0RmxPQzRrUDZTdzFCUlhHTXI5QXciLCJicyI6ImM1MlBzUW9DTVJCRXNVMGxxTTFWSTlxbzJCeW81YldDSHlDV2E3SmVnbWR5SnZHQ2YtOHBXb2dXWXJmTXZIbXdZaWVtYTVjUUhUelhGMS03d0pET1JyWVJCLWNSbkRSVTRjVEtVSkhQc29uLWxSWm5zYnlyTlFVb1U1cjRLaUExMlpJVm9tWWt1aUp4cTVOc0dvYmxGSXA4bFMzMFAwc3hGXzJ0cGdqeWpPcWVldWFxRlE2eVh2ck14VWFNbjg5THp4UVpoSDE3SEkwdEh6NDBSckVyOGxFMjFHX2NGNnJidVFFIiwiaWQiOiJmY192ZklDYTdiVkwtT3NxdHNQazZHRC1BUV81In0%3D"
+      },
+      {
+        "question": "What are live reels?",
+        "type": "ai_overview",
+        "page_token": "NUdhp3icHdBfboIwHADgbIfxUQXUJSZmCYbimFTtH4p9Mdgian-IgUbUx51lT7vDrrAD7Bg7wZad4Eu-t3c4nMz3Q7q39tyMe722bbtFVRWQd1VV9rLmdlI9lQFsM2XGo6eR87xTk6Bp_WnV-itOgjVoEKKwa7e5YUeK7A4pS7UlofXiMMIYkTt1pVlwBBnSLyqEU-LBBSNc5yEyCYuYcgub3qVZ9a_TBR--avAxZ_KIXQl6BkM6gypzdapOEcTuVeTUoQsWXbbGlorr-faI2Io67doM-rEgSwGJZEdyIVwi6mkzZ39eOCzjflTHRuKcG4o8WVKO99iNBJs6S-WhvnL8GhsdzDki4SHyaTBoCdOhmvmAU70SCWlic04XoSMTXt0EN3cK0rAy8jo7dZl4nf-xyWZX2vG5rooPVeeZzfUms1_m8efzF0PegVs",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=NUdhp3icHdBfboIwHADgbIfxUQXUJSZmCYbimFTtH4p9Mdgian-IgUbUx51lT7vDrrAD7Bg7wZad4Eu-t3c4nMz3Q7q39tyMe722bbtFVRWQd1VV9rLmdlI9lQFsM2XGo6eR87xTk6Bp_WnV-itOgjVoEKKwa7e5YUeK7A4pS7UlofXiMMIYkTt1pVlwBBnSLyqEU-LBBSNc5yEyCYuYcgub3qVZ9a_TBR--avAxZ_KIXQl6BkM6gypzdapOEcTuVeTUoQsWXbbGlorr-faI2Io67doM-rEgSwGJZEdyIVwi6mkzZ39eOCzjflTHRuKcG4o8WVKO99iNBJs6S-WhvnL8GhsdzDki4SHyaTBoCdOhmvmAU70SCWlic04XoSMTXt0EN3cK0rAy8jo7dZl4nf-xyWZX2vG5rooPVeeZzfUms1_m8efzF0PegVs",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGFuaE5VVEkxUlV4cVMxRkpRa0ZVYlVWU05XdDBiRGxrUkRRdFFWcGpkVzVLTVZwQ1ZHeHVkbTB5WldwMU9WbzFlbXhMYkd0UFUzWkpkbXBWV0RGTE9IZE9hMDFRUTFsMlprSXdjMlZRVnpONGFEbG1SMlp0U2pCbFVSSVhkbVpKUTJFM1lsWk1MVTl6Y1hSelVHczJSMFF0UVZFYUlrRklUakJGTjBZelltWXpWMmxJUlVOWFJqQkpVVkJMWm5sNVlVWlFNVVkyVG5jIiwiZmN2IjoiMyIsImVpIjoidmZJQ2E3YlZMLU9zcXRzUGs2R0QtQVEiLCJxYyI6IkNqMW9iM2NnWkc4Z2JXVmthV0VnYUc5MWMyVnpJSEpsY0hWeWNHOXpaU0JzYVhabElHNWxkM01nWW5KdllXUmpZWE4wY3lCcGJuUnZJSEpsWld4ekVBQjlyVW9VUHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIGxpdmUgcmVlbHM/IiwibGsiOiJHaE4zYUdGMElHRnlaU0JzYVhabElISmxaV3h6IiwiYnMiOiJjNTJQc1FvQ01SQkVzVTBscU0xVkk5cW8yQnlvNWJXQ0h5Q1dhN0plZ21keUp2R0NmLThwV29nV1lyZk12SG13WWllbWE1Y1FIVHpYRjEtN3dKRE9ScllSQi1jUm5EUlU0Y1RLVUpIUHNvbi1sUlpuc2J5ck5RVW9VNXI0S2lBMTJaSVZvbVlrdWlKeHE1TnNHb2JsRklwOGxTMzBQMHN4Rl8ydHBnanlqT3FlZXVhcUZRNnlYdnJNeFVhTW44OUx6eFFaaEgxN0hJMHRIejQwUnJFcjhsRTIxR19jRjZyYnVRRSIsImlkIjoiZmNfdmZJQ2E3YlZMLU9zcXRzUGs2R0QtQVFfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGFuaE5VVEkxUlV4cVMxRkpRa0ZVYlVWU05XdDBiRGxrUkRRdFFWcGpkVzVLTVZwQ1ZHeHVkbTB5WldwMU9WbzFlbXhMYkd0UFUzWkpkbXBWV0RGTE9IZE9hMDFRUTFsMlprSXdjMlZRVnpONGFEbG1SMlp0U2pCbFVSSVhkbVpKUTJFM1lsWk1MVTl6Y1hSelVHczJSMFF0UVZFYUlrRklUakJGTjBZelltWXpWMmxJUlVOWFJqQkpVVkJMWm5sNVlVWlFNVVkyVG5jIiwiZmN2IjoiMyIsImVpIjoidmZJQ2E3YlZMLU9zcXRzUGs2R0QtQVEiLCJxYyI6IkNqMW9iM2NnWkc4Z2JXVmthV0VnYUc5MWMyVnpJSEpsY0hWeWNHOXpaU0JzYVhabElHNWxkM01nWW5KdllXUmpZWE4wY3lCcGJuUnZJSEpsWld4ekVBQjlyVW9VUHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIGxpdmUgcmVlbHM%2FIiwibGsiOiJHaE4zYUdGMElHRnlaU0JzYVhabElISmxaV3h6IiwiYnMiOiJjNTJQc1FvQ01SQkVzVTBscU0xVkk5cW8yQnlvNWJXQ0h5Q1dhN0plZ21keUp2R0NmLThwV29nV1lyZk12SG13WWllbWE1Y1FIVHpYRjEtN3dKRE9ScllSQi1jUm5EUlU0Y1RLVUpIUHNvbi1sUlpuc2J5ck5RVW9VNXI0S2lBMTJaSVZvbVlrdWlKeHE1TnNHb2JsRklwOGxTMzBQMHN4Rl8ydHBnanlqT3FlZXVhcUZRNnlYdnJNeFVhTW44OUx6eFFaaEgxN0hJMHRIejQwUnJFcjhsRTIxR19jRjZyYnVRRSIsImlkIjoiZmNfdmZJQ2E3YlZMLU9zcXRzUGs2R0QtQVFfNSJ9"
+      },
+      {
+        "question": "How to create a breaking news video?",
+        "type": "ai_overview",
+        "page_token": "7LX3IHicHdBLjtMwAABQwWFmOc1nKKJShZq2aVJNwvibxJuRa6d1sJuYxq07WXIWVtyBK3AAjsEJkHhHeN9_mK7Xf97dlHN2XMxm3vvH0zCcTPsohvOMj2-9mAluzIELvZh_nIefj2K5vebJ-lueAAK3jZGm0VSjKQ_IlMASr54IsUEdUlelNkVYWa6BQxN8IdXd0s0qYpkq2g3tIC1zQMux0eF0-KpUQVcRjo2XmbkjTOeIplHThUOZwbTF5RMItOPTXuHg044F5bXVcg3PeUyJvYHIR2inMI9pUtXEP9cwY-cxfK5lAWp2hdiElWYfCDFUkPQiYqOQMfe2tjuI98MhkpUgNEG97bdKRkybTYNlR7V3OC7vMisBn1gG12FC4NABor4UWxKjHctpcHJQMwOq_bUJjQK9eCtq60VsjyIYPfMPR3Fbxg__P5evx7Nb2Mtw-ikuLXetfOXut37_99c_hLCMqQ",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=7LX3IHicHdBLjtMwAABQwWFmOc1nKKJShZq2aVJNwvibxJuRa6d1sJuYxq07WXIWVtyBK3AAjsEJkHhHeN9_mK7Xf97dlHN2XMxm3vvH0zCcTPsohvOMj2-9mAluzIELvZh_nIefj2K5vebJ-lueAAK3jZGm0VSjKQ_IlMASr54IsUEdUlelNkVYWa6BQxN8IdXd0s0qYpkq2g3tIC1zQMux0eF0-KpUQVcRjo2XmbkjTOeIplHThUOZwbTF5RMItOPTXuHg044F5bXVcg3PeUyJvYHIR2inMI9pUtXEP9cwY-cxfK5lAWp2hdiElWYfCDFUkPQiYqOQMfe2tjuI98MhkpUgNEG97bdKRkybTYNlR7V3OC7vMisBn1gG12FC4NABor4UWxKjHctpcHJQMwOq_bUJjQK9eCtq60VsjyIYPfMPR3Fbxg__P5evx7Nb2Mtw-ikuLXetfOXut37_99c_hLCMqQ",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGFuaE5VVEkxUlV4cVMxRkpRa0ZVYlVWU05XdDBiRGxrUkRRdFFWcGpkVzVLTVZwQ1ZHeHVkbTB5WldwMU9WbzFlbXhMYkd0UFUzWkpkbXBWV0RGTE9IZE9hMDFRUTFsMlprSXdjMlZRVnpONGFEbG1SMlp0U2pCbFVSSVhkbVpKUTJFM1lsWk1MVTl6Y1hSelVHczJSMFF0UVZFYUlrRklUakJGTjBZelltWXpWMmxJUlVOWFJqQkpVVkJMWm5sNVlVWlFNVVkyVG5jIiwiZmN2IjoiMyIsImVpIjoidmZJQ2E3YlZMLU9zcXRzUGs2R0QtQVEiLCJxYyI6IkNqMW9iM2NnWkc4Z2JXVmthV0VnYUc5MWMyVnpJSEpsY0hWeWNHOXpaU0JzYVhabElHNWxkM01nWW5KdllXUmpZWE4wY3lCcGJuUnZJSEpsWld4ekVBQjlyVW9VUHciLCJxdWVzdGlvbiI6IkhvdyB0byBjcmVhdGUgYSBicmVha2luZyBuZXdzIHZpZGVvPyIsImxrIjoiR2lGb2IzY2dkRzhnWTNKbFlYUmxJR0p5WldGcmFXNW5JRzVsZDNNZ2RtbGtaVzgiLCJicyI6ImM1MlBzUW9DTVJCRXNVMGxxTTFWSTlxbzJCeW81YldDSHlDV2E3SmVnbWR5SnZHQ2YtOHBXb2dXWXJmTXZIbXdZaWVtYTVjUUhUelhGMS03d0pET1JyWVJCLWNSbkRSVTRjVEtVSkhQc29uLWxSWm5zYnlyTlFVb1U1cjRLaUExMlpJVm9tWWt1aUp4cTVOc0dvYmxGSXA4bFMzMFAwc3hGXzJ0cGdqeWpPcWVldWFxRlE2eVh2ck14VWFNbjg5THp4UVpoSDE3SEkwdEh6NDBSckVyOGxFMjFHX2NGNnJidVFFIiwiaWQiOiJmY192ZklDYTdiVkwtT3NxdHNQazZHRC1BUV81In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGFuaE5VVEkxUlV4cVMxRkpRa0ZVYlVWU05XdDBiRGxrUkRRdFFWcGpkVzVLTVZwQ1ZHeHVkbTB5WldwMU9WbzFlbXhMYkd0UFUzWkpkbXBWV0RGTE9IZE9hMDFRUTFsMlprSXdjMlZRVnpONGFEbG1SMlp0U2pCbFVSSVhkbVpKUTJFM1lsWk1MVTl6Y1hSelVHczJSMFF0UVZFYUlrRklUakJGTjBZelltWXpWMmxJUlVOWFJqQkpVVkJMWm5sNVlVWlFNVVkyVG5jIiwiZmN2IjoiMyIsImVpIjoidmZJQ2E3YlZMLU9zcXRzUGs2R0QtQVEiLCJxYyI6IkNqMW9iM2NnWkc4Z2JXVmthV0VnYUc5MWMyVnpJSEpsY0hWeWNHOXpaU0JzYVhabElHNWxkM01nWW5KdllXUmpZWE4wY3lCcGJuUnZJSEpsWld4ekVBQjlyVW9VUHciLCJxdWVzdGlvbiI6IkhvdyB0byBjcmVhdGUgYSBicmVha2luZyBuZXdzIHZpZGVvPyIsImxrIjoiR2lGb2IzY2dkRzhnWTNKbFlYUmxJR0p5WldGcmFXNW5JRzVsZDNNZ2RtbGtaVzgiLCJicyI6ImM1MlBzUW9DTVJCRXNVMGxxTTFWSTlxbzJCeW81YldDSHlDV2E3SmVnbWR5SnZHQ2YtOHBXb2dXWXJmTXZIbXdZaWVtYTVjUUhUelhGMS03d0pET1JyWVJCLWNSbkRSVTRjVEtVSkhQc29uLWxSWm5zYnlyTlFVb1U1cjRLaUExMlpJVm9tWWt1aUp4cTVOc0dvYmxGSXA4bFMzMFAwc3hGXzJ0cGdqeWpPcWVldWFxRlE2eVh2ck14VWFNbjg5THp4UVpoSDE3SEkwdEh6NDBSckVyOGxFMjFHX2NGNnJidVFFIiwiaWQiOiJmY192ZklDYTdiVkwtT3NxdHNQazZHRC1BUV81In0%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "GykgXHiczVbbcrpGGJ_pdV-j3BgVz5oZJrMcJChGN-o_MTcMwnJQEGVRYi77LL3qO_QV-gB9jD5BF5AEDObQm_abgWV3v_N-v_349TfH3qz_-tmwgmCLr6vVMAwrpueZDqponltV8XGjVQ3Pwb5m3WBv72vI1hnN8j0XUcn8NKt4S8p0GHtDWQ6DNtTxwDQoDTM0hWzmYEic2ln-kMtjvAvwZN0W-TKAVKyfUZYqRiti_nmFq0qVvNa_NHgyqeAK2igiW-l3bOAgubZprSt1ut6ojKuqS3jAf0sCCySTjGsAzI_4WPhVjdAiWgF3Li8kY2Z9BCKbEuCkZOeS_WmkNJLk2Nhj8oyBsZqsRfJ1l3LNpU_84nI-PZzcSob1ubtfoJNoFEFu4SMqSGKcl-HbnDvfKyIxv8MueMCHGfXvwskYSETn0SsE_eZkBCCEFy2lRFQPF4B2wCd1kno07w2mAZFiq7pJqpyuLn0y1Kq2Zmnxh4-j4udmPdq7FcAMjfS70Yzuh0Pcf_yxe7JHg_0wVEFVWxI-x1N1pCuWQt_E81q91qJ7jU73Kgaehl-Rh7PI8z1MB5vuqBzQFbnC1lLM5aM9TxaUJFBUTCZrpqnI06sCmM1znIYzznXOcv80WoA1IRHObcKhIGeZCFx4kq-umU3_mwT3AebOKK5Y76RgfloC-WqDCyBM3wLIKxoXqo3iAOA8ZlNMbfZTx8NEo_kec_dAgnF6TynOXY4suSFYkmAY3RRDIh5wCa_UjPxLTwwKgiQAobhIOaEgHMBlPCFyQsQVAlMA670kcJKdLsdGTDOxxELzVU0cMvcedSdjHOhbhVtfIuErF0viRQqyM8xksda30JPCG25zBHdig-uyRkvpSceG4qqwGFueu_xeW9P-9wBMm55zqvyLAIwsfQmA0PoIgEVNLwEgt74AwGkCQI4tanqTlOus6b0HIAfsDABPTe850VjQ9L4PQPZzAGaPKwvAt6PKAVC4BEBRzANwsRLSplcMwJOBNwD-26bHfr_pxThEyZDvgPuVebETinKDXoznzlSRD709NrSZsfYf2sJAvAs_7YSGG1y7qu5cKbZ-zdYHwVG_IrDWvWukUzvm1gtLuldykW6rJcvbY4RLPtru_a2HUcmxD6i0QSEuLX1iQlNxgEv2JvAID3LwDeU6vsfQaqfGz6zWaL-ZPpQVeVGXX25XIj8ZCqOgLcvdpvS0Dxate7572-odgvZwt8dEiDMOx_ng8U6659AEGuPZvrew6rfD-UtnOuuWW-QfoN4eH8v2i36AvRp8Ggw1qbbdmlN3rMrzZ70bHodYHe9cYfwodszYG8w04RwoPF_2kECRQDFiapTrawypg6YJ7mD0l6eCfggGceGy9zsyyqRalh4L4O0CQN4kj0eOjMKaqiB8YLR2q6G1aFpTVaNjIINyzeC4ZXo0hTc-U_td85EakBNQgz_XP_39xz8iUYm5",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=GykgXHiczVbbcrpGGJ_pdV-j3BgVz5oZJrMcJChGN-o_MTcMwnJQEGVRYi77LL3qO_QV-gB9jD5BF5AEDObQm_abgWV3v_N-v_349TfH3qz_-tmwgmCLr6vVMAwrpueZDqponltV8XGjVQ3Pwb5m3WBv72vI1hnN8j0XUcn8NKt4S8p0GHtDWQ6DNtTxwDQoDTM0hWzmYEic2ln-kMtjvAvwZN0W-TKAVKyfUZYqRiti_nmFq0qVvNa_NHgyqeAK2igiW-l3bOAgubZprSt1ut6ojKuqS3jAf0sCCySTjGsAzI_4WPhVjdAiWgF3Li8kY2Z9BCKbEuCkZOeS_WmkNJLk2Nhj8oyBsZqsRfJ1l3LNpU_84nI-PZzcSob1ubtfoJNoFEFu4SMqSGKcl-HbnDvfKyIxv8MueMCHGfXvwskYSETn0SsE_eZkBCCEFy2lRFQPF4B2wCd1kno07w2mAZFiq7pJqpyuLn0y1Kq2Zmnxh4-j4udmPdq7FcAMjfS70Yzuh0Pcf_yxe7JHg_0wVEFVWxI-x1N1pCuWQt_E81q91qJ7jU73Kgaehl-Rh7PI8z1MB5vuqBzQFbnC1lLM5aM9TxaUJFBUTCZrpqnI06sCmM1znIYzznXOcv80WoA1IRHObcKhIGeZCFx4kq-umU3_mwT3AebOKK5Y76RgfloC-WqDCyBM3wLIKxoXqo3iAOA8ZlNMbfZTx8NEo_kec_dAgnF6TynOXY4suSFYkmAY3RRDIh5wCa_UjPxLTwwKgiQAobhIOaEgHMBlPCFyQsQVAlMA670kcJKdLsdGTDOxxELzVU0cMvcedSdjHOhbhVtfIuErF0viRQqyM8xksda30JPCG25zBHdig-uyRkvpSceG4qqwGFueu_xeW9P-9wBMm55zqvyLAIwsfQmA0PoIgEVNLwEgt74AwGkCQI4tanqTlOus6b0HIAfsDABPTe850VjQ9L4PQPZzAGaPKwvAt6PKAVC4BEBRzANwsRLSplcMwJOBNwD-26bHfr_pxThEyZDvgPuVebETinKDXoznzlSRD709NrSZsfYf2sJAvAs_7YSGG1y7qu5cKbZ-zdYHwVG_IrDWvWukUzvm1gtLuldykW6rJcvbY4RLPtru_a2HUcmxD6i0QSEuLX1iQlNxgEv2JvAID3LwDeU6vsfQaqfGz6zWaL-ZPpQVeVGXX25XIj8ZCqOgLcvdpvS0Dxate7572-odgvZwt8dEiDMOx_ng8U6659AEGuPZvrew6rfD-UtnOuuWW-QfoN4eH8v2i36AvRp8Ggw1qbbdmlN3rMrzZ70bHodYHe9cYfwodszYG8w04RwoPF_2kECRQDFiapTrawypg6YJ7mD0l6eCfggGceGy9zsyyqRalh4L4O0CQN4kj0eOjMKaqiB8YLR2q6G1aFpTVaNjIINyzeC4ZXo0hTc-U_td85EakBNQgz_XP_39xz8iUYm5"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "From Radio to Reels - How Media Consumption Is ...",
+        "link": "https://www.nimcj.org/blog-detail/from-radio-to-reels-how-media-consumption-is-changing-in-india.php",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoQEBxCJF14mul_en4Os0Aq_KvBHjPXxfnJyT7-shsTO-mtfcv-Myy7Uq2vY6yoafHmwSmH7R_xuPvqENItlmzRigR2zeNEa3aXgZT-tdPmMs3j6VCa7905ubkHnpEXwHRh0CK3WslkVOoAI3FZ_K1QSOEtaOGHrukvLCecj95AAm-EjaxjckdgqNezz-MIfF3jUCIqK4KxOGn9VYzg2_8LUQMA&ved=2ahUKEwj2p8Hj25uYAxVjlmoFHZPQAE8QFnoECBcQAQ&uoh=1",
+        "displayed_link": "https://www.nimcj.org \u203a blog-detail \u203a from-radio-to-ree...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEVHcEybm7CqqLCdmqmal5qRjZOQjpSmpKqCgIJ0boCKh4xOP3p1c3draWpubHB_fYZ3dXV_fIRta2x2c3ZkYmHo6PZva2yAfYVdWVhkYWBraGlycHF8eXphXVxqZ2ZzcHGKiI1ZVVRhX11iXl18e3tbTCMWAAAAJXRSTlMAAhkMLUIkEW2oNmG5q3grpxiIPOkGl2P-ys1Qkv28ZlH_8Nh-fH31BAAAALRJREFUeAFiIAMwMuKRYwLUPRdHEMRAEARrmZmZ5L-Lhz8pJt8D3Q4ix0Xm-YiCEFkUI0pSZFmOqCgrRHVu6bULh784bdA0bc5P1_cOmmGc_sWbeUG3jlsOEGRZgG4ex90HlvZAF2ztvB0QzJON7ryy5d4rwjHH0F9hsG9Ndz_mYvdsLseWrZfCEI8z-NM43uYi6jrByrdRYcpaAPfZzEWc6V_uODDFZcCPhek8LURugEzaewPC-gm-ZvqhGwAAAABJRU5ErkJggg.png",
+        "date": "3 Nov 2026",
+        "snippet": "Explore how media consumption in India is changing from radio and TV to Instagram Reels, YouTube and digital platforms, reshaping news and ...",
+        "snippet_highlighted_words": [
+          "is"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Explore how media consumption in India is changing from radio and TV to Instagram Reels, YouTube and digital platforms, reshaping news and ...",
+            "source_info_link": "https://www.nimcj.org/blog-detail/from-radio-to-reels-how-media-consumption-is-changing-in-india.php",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEVHcEybm7CqqLCdmqmal5qRjZOQjpSmpKqCgIJ0boCKh4xOP3p1c3draWpubHB_fYZ3dXV_fIRta2x2c3ZkYmHo6PZva2yAfYVdWVhkYWBraGlycHF8eXphXVxqZ2ZzcHGKiI1ZVVRhX11iXl18e3tbTCMWAAAAJXRSTlMAAhkMLUIkEW2oNmG5q3grpxiIPOkGl2P-ys1Qkv28ZlH_8Nh-fH31BAAAALRJREFUeAFiIAMwMuKRYwLUPRdHEMRAEARrmZmZ5L-Lhz8pJt8D3Q4ix0Xm-YiCEFkUI0pSZFmOqCgrRHVu6bULh784bdA0bc5P1_cOmmGc_sWbeUG3jlsOEGRZgG4ex90HlvZAF2ztvB0QzJON7ryy5d4rwjHH0F9hsG9Ndz_mYvdsLseWrZfCEI8z-NM43uYi6jrByrdRYcpaAPfZzEWc6V_uODDFZcCPhek8LURugEzaewPC-gm-ZvqhGwAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CugBL2dvdG8_dXJsPUNBRVNvUUVCeENKRjEwLWtuM0lYR1dhXzRsYkpOeERSLTJjWTNnSlF4UmNjT1o3Tk93U01OWnJJVVE0UGZGNjRQS25BY1kxVkVVbXZXQnZoRXNydkFPR1dKTExwUlRVaVdSeXMxaC1telJOY1NSV3ZVMGh1U0s0dktZemdkU1RwZ05UcEt4S0JLOHh0UUNjYmJnQ3F6c2JfalRWcHRvVm9MaDU3cnhfSjVIanlWdkxIcHRBRnhoQVZadjJZampKNFV6eGxEWFc1VEhobDFrRTFWcDNTR1loWjVRS0tPURIEGgIIABqlCBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCBCAgAEAAYACAAKgoKA2hvdxVEn75AKjkKAmRvFQAAAAAaA2FyZRoDY2FuGgVjb3VsZBoEZG9lcxoEbWFrZRoCdG8aBHdpbGwaB2RvbWVkaWEqIgoFbWVkaWEVvtDXQBoHZG9tZWRpYRoLbWVkaWFob3VzZXMqPQoGaG91c2VzFQAAAAAaCGFnZW5jaWVzGgljb21wYW5pZXMaBWhvbWVzGgVob3VzZRoLbWVkaWFob3VzZXMqSQoJcmVwdXJwb3NlFQAAAAAaCnJlIHB1cnBvc2UaB3JlY3ljbGUaC3JlcHVycG9zaW5nGgVyZXVzZRoOaXY7cDtyZXB1cnBvc2UqJwoEbGl2ZRXfFkA-GghicmVha2luZxoGbGF0ZXN0GghsaXZlbmV3cyoqCgRuZXdzFSHVWkAaCG5ld3NjYXN0GgluZXdzY2FzdHMaCGxpdmVuZXdzKpABCgpicm9hZGNhc3RzFQAAAAAaCWJyb2FkY2FzdBoMYnJvYWRjYXN0aW5nGghuZXdzY2FzdBoJbmV3c2Nhc3RzGghwcm9ncmFtcxoJcmVwb3J0aW5nGgdyZXBvcnRzGgVzaG93cxoGc3RyZWFtGgdzdHJlYW1zGg9pdjtwO2Jyb2FkY2FzdHMaCGNvdmVyYWdlKhcKBGludG8VAAAAABoCaW4aAm9uGgJ0byoSCgVyZWVscxUIcqpAGgRyZWVsMugBL2dvdG8_dXJsPUNBRVNvUUVCeENKRjEwLWtuM0lYR1dhXzRsYkpOeERSLTJjWTNnSlF4UmNjT1o3Tk93U01OWnJJVVE0UGZGNjRQS25BY1kxVkVVbXZXQnZoRXNydkFPR1dKTExwUlRVaVdSeXMxaC1telJOY1NSV3ZVMGh1U0s0dktZemdkU1RwZ05UcEt4S0JLOHh0UUNjYmJnQ3F6c2JfalRWcHRvVm9MaDU3cnhfSjVIanlWdkxIcHRBRnhoQVZadjJZampKNFV6eGxEWFc1VEhobDFrRTFWcDNTR1loWjVRS0tPUTpJRnJvbSBSYWRpbyA8Yj50byBSZWVsczwvYj4gLSBIb3cgPGI-TWVkaWE8L2I-IENvbnN1bXB0aW9uIElzIENoYW5naW5nIC4uLkKaAUV4cGxvcmUgaG93IG1lZGlhIGNvbnN1bXB0aW9uIGluIEluZGlhIDxiPmlzPC9iPiBjaGFuZ2luZyBmcm9tIHJhZGlvIGFuZCBUViB0byBJbnN0YWdyYW0gUmVlbHMsIFlvdVR1YmUgYW5kIGRpZ2l0YWwgcGxhdGZvcm1zLCByZXNoYXBpbmcgbmV3cyBhbmQmbmJzcDsuLi5SAmluUgJ0b1IDYXJlUgNjYW5SAm9uUgR3aWxsIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CugBL2dvdG8_dXJsPUNBRVNvUUVCeENKRjEwLWtuM0lYR1dhXzRsYkpOeERSLTJjWTNnSlF4UmNjT1o3Tk93U01OWnJJVVE0UGZGNjRQS25BY1kxVkVVbXZXQnZoRXNydkFPR1dKTExwUlRVaVdSeXMxaC1telJOY1NSV3ZVMGh1U0s0dktZemdkU1RwZ05UcEt4S0JLOHh0UUNjYmJnQ3F6c2JfalRWcHRvVm9MaDU3cnhfSjVIanlWdkxIcHRBRnhoQVZadjJZampKNFV6eGxEWFc1VEhobDFrRTFWcDNTR1loWjVRS0tPURIEGgIIABqlCBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCBCAgAEAAYACAAKgoKA2hvdxVEn75AKjkKAmRvFQAAAAAaA2FyZRoDY2FuGgVjb3VsZBoEZG9lcxoEbWFrZRoCdG8aBHdpbGwaB2RvbWVkaWEqIgoFbWVkaWEVvtDXQBoHZG9tZWRpYRoLbWVkaWFob3VzZXMqPQoGaG91c2VzFQAAAAAaCGFnZW5jaWVzGgljb21wYW5pZXMaBWhvbWVzGgVob3VzZRoLbWVkaWFob3VzZXMqSQoJcmVwdXJwb3NlFQAAAAAaCnJlIHB1cnBvc2UaB3JlY3ljbGUaC3JlcHVycG9zaW5nGgVyZXVzZRoOaXY7cDtyZXB1cnBvc2UqJwoEbGl2ZRXfFkA-GghicmVha2luZxoGbGF0ZXN0GghsaXZlbmV3cyoqCgRuZXdzFSHVWkAaCG5ld3NjYXN0GgluZXdzY2FzdHMaCGxpdmVuZXdzKpABCgpicm9hZGNhc3RzFQAAAAAaCWJyb2FkY2FzdBoMYnJvYWRjYXN0aW5nGghuZXdzY2FzdBoJbmV3c2Nhc3RzGghwcm9ncmFtcxoJcmVwb3J0aW5nGgdyZXBvcnRzGgVzaG93cxoGc3RyZWFtGgdzdHJlYW1zGg9pdjtwO2Jyb2FkY2FzdHMaCGNvdmVyYWdlKhcKBGludG8VAAAAABoCaW4aAm9uGgJ0byoSCgVyZWVscxUIcqpAGgRyZWVsMugBL2dvdG8_dXJsPUNBRVNvUUVCeENKRjEwLWtuM0lYR1dhXzRsYkpOeERSLTJjWTNnSlF4UmNjT1o3Tk93U01OWnJJVVE0UGZGNjRQS25BY1kxVkVVbXZXQnZoRXNydkFPR1dKTExwUlRVaVdSeXMxaC1telJOY1NSV3ZVMGh1U0s0dktZemdkU1RwZ05UcEt4S0JLOHh0UUNjYmJnQ3F6c2JfalRWcHRvVm9MaDU3cnhfSjVIanlWdkxIcHRBRnhoQVZadjJZampKNFV6eGxEWFc1VEhobDFrRTFWcDNTR1loWjVRS0tPUTpJRnJvbSBSYWRpbyA8Yj50byBSZWVsczwvYj4gLSBIb3cgPGI-TWVkaWE8L2I-IENvbnN1bXB0aW9uIElzIENoYW5naW5nIC4uLkKaAUV4cGxvcmUgaG93IG1lZGlhIGNvbnN1bXB0aW9uIGluIEluZGlhIDxiPmlzPC9iPiBjaGFuZ2luZyBmcm9tIHJhZGlvIGFuZCBUViB0byBJbnN0YWdyYW0gUmVlbHMsIFlvdVR1YmUgYW5kIGRpZ2l0YWwgcGxhdGZvcm1zLCByZXNoYXBpbmcgbmV3cyBhbmQmbmJzcDsuLi5SAmluUgJ0b1IDYXJlUgNjYW5SAm9uUgR3aWxsIgIQAUgAWABoAA",
+        "source": "NIMCJ"
+      },
+      {
+        "position": 2,
+        "title": "Why Reels represent a major opportunity for local media",
+        "link": "https://localmedia.org/2026/03/why-reels-represent-a-major-opportunity-for-local-media/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlAEBxCJF14MkmD3othQ0TGnAT3W54N5Pri-asidhaKdyE4VJYHry9PgV9LuVZCSQpCbzeuXVrber5ofB3fvnJ9g8IZhD147DANg0080AC_SRWzNYot4YsOeUfelKBgtO1uq5fQPAxooGDw3eGRNMfb_uqun-s8VrzGYECvF_XfS3d-IORY0hZMN0aSSyy8loHdyUyViv&ved=2ahUKEwj2p8Hj25uYAxVjlmoFHZPQAE8QFnoECB8QAQ&uoh=1",
+        "displayed_link": "https://localmedia.org \u203a 2026/03 \u203a why-reels-represent-...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEUAAABxTh5QNxU7OztxcXFqbG4ZGRlBQkT_t0e4fzGKior___8lJSWUlJSZm57_sESyezCGhoaenp7m5uZ6fH6Vl5ptbnHJycnu7u_X19f4-PgfHyBPT0-qqqr8_PxkZmhaW125ubmxsbHOzs7fmzy0eSTQspExMTH_tD7_1Z5ISEhQQTASEhO4pWBdAAAAz0lEQVR4AeXOBYLCAAxE0VmoT0k1FHeH-59vE_wMu7-avhr-Sz892_WDIIQXBUEAK47hJantMpK5TwOSfrPIfSxK21Uka5-aB7aqwy_sOPInOJ4YTqXN9AvrhjNgznZhGEq8lNUH5xnXgD1GQ1XkMvjgBlxgxc5xJUu7JPEXbrlcc-mYST-frqT6woDdYgLDWFUslfyBrSEW5Nyx0mBptRqi2JXp_uC4IY-OqvCOoiiSJDmd_VcvbOAoQ9zLBD3vuurbNDv6bna8PXDq41_pF_WfD37KHqYbAAAAAElFTkSuQmCC.png",
+        "date": "16 Mar 2026",
+        "snippet": "Platforms like Instagram Reels, Facebook Reels, and YouTube Shorts allow publishers to repurpose existing reporting in formats audiences ...",
+        "snippet_highlighted_words": [
+          "Reels",
+          "Reels",
+          "to repurpose",
+          "reporting in"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Platforms like Instagram Reels, Facebook Reels, and YouTube Shorts allow publishers to repurpose existing reporting in formats audiences ...",
+            "source_info_link": "https://localmedia.org/2026/03/why-reels-represent-a-major-opportunity-for-local-media/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEUAAABxTh5QNxU7OztxcXFqbG4ZGRlBQkT_t0e4fzGKior___8lJSWUlJSZm57_sESyezCGhoaenp7m5uZ6fH6Vl5ptbnHJycnu7u_X19f4-PgfHyBPT0-qqqr8_PxkZmhaW125ubmxsbHOzs7fmzy0eSTQspExMTH_tD7_1Z5ISEhQQTASEhO4pWBdAAAAz0lEQVR4AeXOBYLCAAxE0VmoT0k1FHeH-59vE_wMu7-avhr-Sz892_WDIIQXBUEAK47hJantMpK5TwOSfrPIfSxK21Uka5-aB7aqwy_sOPInOJ4YTqXN9AvrhjNgznZhGEq8lNUH5xnXgD1GQ1XkMvjgBlxgxc5xJUu7JPEXbrlcc-mYST-frqT6woDdYgLDWFUslfyBrSEW5Nyx0mBptRqi2JXp_uC4IY-OqvCOoiiSJDmd_VcvbOAoQ9zLBD3vuurbNDv6bna8PXDq41_pF_WfD37KHqYbAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtYBL2dvdG8_dXJsPUNBRVNsQUVCeENKRjEzVHR3ZUhmT1FraUdKb3JnUUhGY0M2Wmpzd01SVDVFTUdBR1pQLUwtWWszMmZ2bFdRcU9ldWt3a0V5c3NSR3JMS3JSOEtDMFM1Z1o1WEwtbU1oRnpmMjduNXhsYWI1dFFMbnM2UENmbDB5NXo4N19ZblEwUEdDRWlrQjdJa01JSmljM2hpX19wOG1QQTBXT1BOV3JTcHBHNmgwckN4aW5ka096NldoNGRyUUdzSHpnelJjN3RnNUh0T0xxeTVScRIEGgIIABqkCBICCAAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQP4HCAAQABgAIAAqCgoDaG93FcDGnD8qOQoCZG8VVN-GPhoDYXJlGgNjYW4aBWNvdWxkGgRkb2VzGgRtYWtlGgJ0bxoEd2lsbBoHZG9tZWRpYSoiCgVtZWRpYRVvhQhBGgdkb21lZGlhGgttZWRpYWhvdXNlcyo9CgZob3VzZXMVAAAAABoIYWdlbmNpZXMaCWNvbXBhbmllcxoFaG9tZXMaBWhvdXNlGgttZWRpYWhvdXNlcypJCglyZXB1cnBvc2UVTgjdPhoKcmUgcHVycG9zZRoHcmVjeWNsZRoLcmVwdXJwb3NpbmcaBXJldXNlGg5pdjtwO3JlcHVycG9zZSonCgRsaXZlFQAAAAAaCGJyZWFraW5nGgZsYXRlc3QaCGxpdmVuZXdzKioKBG5ld3MV0mL5PxoIbmV3c2Nhc3QaCW5ld3NjYXN0cxoIbGl2ZW5ld3MqkAEKCmJyb2FkY2FzdHMVAAAAABoJYnJvYWRjYXN0Ggxicm9hZGNhc3RpbmcaCG5ld3NjYXN0GgluZXdzY2FzdHMaCHByb2dyYW1zGglyZXBvcnRpbmcaB3JlcG9ydHMaBXNob3dzGgZzdHJlYW0aB3N0cmVhbXMaD2l2O3A7YnJvYWRjYXN0cxoIY292ZXJhZ2UqFwoEaW50bxW80sQ-GgJpbhoCb24aAnRvKhIKBXJlZWxzFX9Zr0AaBHJlZWwy1gEvZ290bz91cmw9Q0FFU2xBRUJ4Q0pGMTNUdHdlSGZPUWtpR0pvcmdRSEZjQzZaanN3TVJUNUVNR0FHWlAtTC1ZazMyZnZsV1FxT2V1a3drRXlzc1JHckxLclI4S0MwUzVnWjVYTC1tTWhGemYyN241eGxhYjV0UUxuczZQQ2ZsMHk1ejg3X1luUTBQR0NFaWtCN0lrTUlKaWMzaGlfX3A4bVBBMFdPUE5XclNwcEc2aDByQ3hpbmRrT3o2V2g0ZHJRR3NIemd6UmM3dGc1SHRPTHF5NVJxOkVXaHkgPGI-UmVlbHM8L2I-IHJlcHJlc2VudCBhIG1ham9yIG9wcG9ydHVuaXR5IGZvciBsb2NhbCA8Yj5tZWRpYTwvYj5CrQFQbGF0Zm9ybXMgbGlrZSBJbnN0YWdyYW0gPGI-UmVlbHM8L2I-LCBGYWNlYm9vayA8Yj5SZWVsczwvYj4sIGFuZCBZb3VUdWJlIFNob3J0cyBhbGxvdyBwdWJsaXNoZXJzIDxiPnRvIHJlcHVycG9zZTwvYj4gZXhpc3RpbmcgPGI-cmVwb3J0aW5nIGluPC9iPiBmb3JtYXRzIGF1ZGllbmNlcyZuYnNwOy4uLlIDY2FuUgNhcmVSAnRvUgJpblICb25SBHdpbGwiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtYBL2dvdG8_dXJsPUNBRVNsQUVCeENKRjEzVHR3ZUhmT1FraUdKb3JnUUhGY0M2Wmpzd01SVDVFTUdBR1pQLUwtWWszMmZ2bFdRcU9ldWt3a0V5c3NSR3JMS3JSOEtDMFM1Z1o1WEwtbU1oRnpmMjduNXhsYWI1dFFMbnM2UENmbDB5NXo4N19ZblEwUEdDRWlrQjdJa01JSmljM2hpX19wOG1QQTBXT1BOV3JTcHBHNmgwckN4aW5ka096NldoNGRyUUdzSHpnelJjN3RnNUh0T0xxeTVScRIEGgIIABqkCBICCAAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQP4HCAAQABgAIAAqCgoDaG93FcDGnD8qOQoCZG8VVN-GPhoDYXJlGgNjYW4aBWNvdWxkGgRkb2VzGgRtYWtlGgJ0bxoEd2lsbBoHZG9tZWRpYSoiCgVtZWRpYRVvhQhBGgdkb21lZGlhGgttZWRpYWhvdXNlcyo9CgZob3VzZXMVAAAAABoIYWdlbmNpZXMaCWNvbXBhbmllcxoFaG9tZXMaBWhvdXNlGgttZWRpYWhvdXNlcypJCglyZXB1cnBvc2UVTgjdPhoKcmUgcHVycG9zZRoHcmVjeWNsZRoLcmVwdXJwb3NpbmcaBXJldXNlGg5pdjtwO3JlcHVycG9zZSonCgRsaXZlFQAAAAAaCGJyZWFraW5nGgZsYXRlc3QaCGxpdmVuZXdzKioKBG5ld3MV0mL5PxoIbmV3c2Nhc3QaCW5ld3NjYXN0cxoIbGl2ZW5ld3MqkAEKCmJyb2FkY2FzdHMVAAAAABoJYnJvYWRjYXN0Ggxicm9hZGNhc3RpbmcaCG5ld3NjYXN0GgluZXdzY2FzdHMaCHByb2dyYW1zGglyZXBvcnRpbmcaB3JlcG9ydHMaBXNob3dzGgZzdHJlYW0aB3N0cmVhbXMaD2l2O3A7YnJvYWRjYXN0cxoIY292ZXJhZ2UqFwoEaW50bxW80sQ-GgJpbhoCb24aAnRvKhIKBXJlZWxzFX9Zr0AaBHJlZWwy1gEvZ290bz91cmw9Q0FFU2xBRUJ4Q0pGMTNUdHdlSGZPUWtpR0pvcmdRSEZjQzZaanN3TVJUNUVNR0FHWlAtTC1ZazMyZnZsV1FxT2V1a3drRXlzc1JHckxLclI4S0MwUzVnWjVYTC1tTWhGemYyN241eGxhYjV0UUxuczZQQ2ZsMHk1ejg3X1luUTBQR0NFaWtCN0lrTUlKaWMzaGlfX3A4bVBBMFdPUE5XclNwcEc2aDByQ3hpbmRrT3o2V2g0ZHJRR3NIemd6UmM3dGc1SHRPTHF5NVJxOkVXaHkgPGI-UmVlbHM8L2I-IHJlcHJlc2VudCBhIG1ham9yIG9wcG9ydHVuaXR5IGZvciBsb2NhbCA8Yj5tZWRpYTwvYj5CrQFQbGF0Zm9ybXMgbGlrZSBJbnN0YWdyYW0gPGI-UmVlbHM8L2I-LCBGYWNlYm9vayA8Yj5SZWVsczwvYj4sIGFuZCBZb3VUdWJlIFNob3J0cyBhbGxvdyBwdWJsaXNoZXJzIDxiPnRvIHJlcHVycG9zZTwvYj4gZXhpc3RpbmcgPGI-cmVwb3J0aW5nIGluPC9iPiBmb3JtYXRzIGF1ZGllbmNlcyZuYnNwOy4uLlIDY2FuUgNhcmVSAnRvUgJpblICb25SBHdpbGwiAhABSABYAGgA",
+        "source": "Local Media Association + Local Media Foundation",
+        "read_more_link": "https://www.google.com/goto?url=CAES9QEBxCJF16svPvX110vfpiFjPdrh1SEoYkhr6iVW7_dgnQYc434fYu8gmzs7PKUjAqVlbp-tuFL9TMs_OgITjZ2eaoklhzJGNJdNoVBTHFytLG4HYyM2sVEvg4FSSjZ5WBZIutT7HUUFpp1xbZI2zGSqgETV1X-7Td7GyCysNuVzNaDsMiNloshcgvcSyA60oL6TaA4qRWaMk8I73kq8Jd79-ob3-W7g_7Pd_NhsCBh4jpFbMdYguMP9xllk-KQR0VfaPJiWzsXAWFPXOJHLx-O7CL8R1LI3roG-o_M7LRulT4Xv07n6iLNhW5mDicb2cvKqVBibtw&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+      },
+      {
+        "position": 3,
+        "title": "5 Creative Ways to Repurpose Live Streams",
+        "link": "https://www.google.com/goto?url=CAESfgHEIkXXKUWyOWRlaJEUq64ZBFfgkcjnqPw3DKwHHCEaNuZpJjMcq-Ft6AmWGaAh7mgdAbTgvlZwmnKJorwlwreecrryHVLIv5JFY546hL-Q0PVTM4SBewSHbPmBpKn_Lq7zKs5Xkq6qLER-riY6opG7bJCjqKxbuvmXy0UYIg",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHEIkXXjIkYml9rHHqGelX80wL9Ud2NVDGSD-KzaDhqwNKl_Id9tOq5tiImgTWFYZWhDAqSF5Y_-yDR6zDtWE9YaCZKD55Pb57sFIilIoul5iBBPjVIEjHK0nCzFlK2aUcpp-lynoqToVmg2E3JNOrx31zMYYpB4gHHSAjGIQ&ved=2ahUKEwj2p8Hj25uYAxVjlmoFHZPQAE8QFnoECBsQAQ&uoh=1",
+        "displayed_link": "https://ecamm.com \u203a blog \u203a 5-creative-ways-to-repurpo...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEX_____-fL_7uL_6t7__fj_07j-mmH-eir-bQD-aAD_1rv___z-YQD-XgD-YwD-fS7_3sv_rHz-oGv_8eb-nGb-wZ3_9uz-jEv-vZr_vJb90LX_9O7-o3P_sof-pnr-hDv-jlX-iUX_18L_yKn-eBT_5tT-mWj-lVz-XAD-gCr_xqf-cwD-cBL_7en_tpH_08NKb16wAAABDUlEQVR4Ab3QRYLDQAwEwDZ7nJYcNIeZ__-6MCfX3bqKhX9g2Y5t4RfX84PQhIEf1fApCkgRFSHjOt41RLUZtaxW1KZKB6-aQt_CVZKqZHjKqDmAVtHxSgAV9dnZMewCZaVCMT0LSLVfezRlfIrF1HgQK4cuWsoIV61QRkCb4ciFOzZsnBtXuCpkAkxFRzgbq5YoZPY4owc0OMdFLRYP9uIenEkGLLkC7JNWKiuUfAQXHSDkCNbizNCD86is9BRcn4Lu5sKU8B7BcmsBQ-6A7RXQYxMvcnnejfLc-kVL-XzoQOMaXu2EncfHuMc7n9KPLLTGEzLHp4ZSaIQ0Y3ybNjfGhHHDxk-J7dgu_tgRlpIUar0uHDUAAAAASUVORK5CYII.png",
+        "date": "10 Aug 2021",
+        "snippet": "1. Create Teaser Videos to Generate Interest \u00b7 2. Repurpose Live Streams Into Videos for Your Email Campaigns \u00b7 3. Use Short Videos as Lead ...",
+        "snippet_highlighted_words": [
+          "Create Teaser Videos to Generate Interest"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "1. Create Teaser Videos to Generate Interest \u00b7 2. Repurpose Live Streams Into Videos for Your Email Campaigns \u00b7 3. Use Short Videos as Lead ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESfgHEIkXXKUWyOWRlaJEUq64ZBFfgkcjnqPw3DKwHHCEaNuZpJjMcq-Ft6AmWGaAh7mgdAbTgvlZwmnKJorwlwreecrryHVLIv5JFY546hL-Q0PVTM4SBewSHbPmBpKn_Lq7zKs5Xkq6qLER-riY6opG7bJCjqKxbuvmXy0UYIg",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEX_____-fL_7uL_6t7__fj_07j-mmH-eir-bQD-aAD_1rv___z-YQD-XgD-YwD-fS7_3sv_rHz-oGv_8eb-nGb-wZ3_9uz-jEv-vZr_vJb90LX_9O7-o3P_sof-pnr-hDv-jlX-iUX_18L_yKn-eBT_5tT-mWj-lVz-XAD-gCr_xqf-cwD-cBL_7en_tpH_08NKb16wAAABDUlEQVR4Ab3QRYLDQAwEwDZ7nJYcNIeZ__-6MCfX3bqKhX9g2Y5t4RfX84PQhIEf1fApCkgRFSHjOt41RLUZtaxW1KZKB6-aQt_CVZKqZHjKqDmAVtHxSgAV9dnZMewCZaVCMT0LSLVfezRlfIrF1HgQK4cuWsoIV61QRkCb4ciFOzZsnBtXuCpkAkxFRzgbq5YoZPY4owc0OMdFLRYP9uIenEkGLLkC7JNWKiuUfAQXHSDkCNbizNCD86is9BRcn4Lu5sKU8B7BcmsBQ-6A7RXQYxMvcnnejfLc-kVL-XzoQOMaXu2EncfHuMc7n9KPLLTGEzLHp4ZSaIQ0Y3ybNjfGhHHDxk-J7dgu_tgRlpIUar0uHDUAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrgBL2dvdG8_dXJsPUNBRVNmZ0hFSWtYWEtVV3lPV1JsYUpFVXE2NFpCRmZna2NqbnFQdzNES3dISENFYU51WnBKak1jcS1GdDZBbVdHYUFoN21nZEFiVGd2bFp3bW5LSm9yd2x3cmVlY3JyeUhWTEl2NUpGWTU0NmhMLVEwUFZUTTRTQmV3U0hiUG1CcEtuX0xxN3pLczVYa3E2cUxFUi1yaVk2b3BHN2JKQ2pxS3hidXZtWHkwVVlJZxIEGgIIABr1BxICCAAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQM8HCAAQABgAIAAqCgoDaG93FagfDkAqOQoCZG8V6La8PxoDYXJlGgNjYW4aBWNvdWxkGgRkb2VzGgRtYWtlGgJ0bxoEd2lsbBoHZG9tZWRpYSoiCgVtZWRpYRXgezk_Ggdkb21lZGlhGgttZWRpYWhvdXNlcyo9CgZob3VzZXMVAAAAABoIYWdlbmNpZXMaCWNvbXBhbmllcxoFaG9tZXMaBWhvdXNlGgttZWRpYWhvdXNlcypJCglyZXB1cnBvc2UVKebUQBoKcmUgcHVycG9zZRoHcmVjeWNsZRoLcmVwdXJwb3NpbmcaBXJldXNlGg5pdjtwO3JlcHVycG9zZSonCgRsaXZlFVF3_0AaCGJyZWFraW5nGgZsYXRlc3QaCGxpdmVuZXdzKioKBG5ld3MVwAW1PhoIbmV3c2Nhc3QaCW5ld3NjYXN0cxoIbGl2ZW5ld3MqkAEKCmJyb2FkY2FzdHMVAAAAABoJYnJvYWRjYXN0Ggxicm9hZGNhc3RpbmcaCG5ld3NjYXN0GgluZXdzY2FzdHMaCHByb2dyYW1zGglyZXBvcnRpbmcaB3JlcG9ydHMaBXNob3dzGgZzdHJlYW0aB3N0cmVhbXMaD2l2O3A7YnJvYWRjYXN0cxoIY292ZXJhZ2UqFwoEaW50bxV_NRVAGgJpbhoCb24aAnRvKhIKBXJlZWxzFQAAAAAaBHJlZWwyuAEvZ290bz91cmw9Q0FFU2ZnSEVJa1hYS1VXeU9XUmxhSkVVcTY0WkJGZmdrY2pucVB3M0RLd0hIQ0VhTnVacEpqTWNxLUZ0NkFtV0dhQWg3bWdkQWJUZ3ZsWndtbktKb3J3bHdyZWVjcnJ5SFZMSXY1SkZZNTQ2aEwtUTBQVlRNNFNCZXdTSGJQbUJwS25fTHE3ektzNVhrcTZxTEVSLXJpWTZvcEc3YkpDanFLeGJ1dm1YeTBVWUlnOjg1IENyZWF0aXZlIFdheXMgPGI-dG8gUmVwdXJwb3NlIExpdmUgU3RyZWFtczwvYj4gLSBFY2FtbUKpATEuIDxiPkNyZWF0ZSBUZWFzZXIgVmlkZW9zIHRvIEdlbmVyYXRlIEludGVyZXN0PC9iPiAmbWlkZG90OyAyLiBSZXB1cnBvc2UgTGl2ZSBTdHJlYW1zIEludG8gVmlkZW9zIGZvciBZb3VyIEVtYWlsIENhbXBhaWducyAmbWlkZG90OyAzLiBVc2UgU2hvcnQgVmlkZW9zIGFzIExlYWQmbmJzcDsuLi5SAmluUgNjYW5SA2FyZVICdG9SAm9uUgR3aWxsIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrgBL2dvdG8_dXJsPUNBRVNmZ0hFSWtYWEtVV3lPV1JsYUpFVXE2NFpCRmZna2NqbnFQdzNES3dISENFYU51WnBKak1jcS1GdDZBbVdHYUFoN21nZEFiVGd2bFp3bW5LSm9yd2x3cmVlY3JyeUhWTEl2NUpGWTU0NmhMLVEwUFZUTTRTQmV3U0hiUG1CcEtuX0xxN3pLczVYa3E2cUxFUi1yaVk2b3BHN2JKQ2pxS3hidXZtWHkwVVlJZxIEGgIIABr1BxICCAAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQM8HCAAQABgAIAAqCgoDaG93FagfDkAqOQoCZG8V6La8PxoDYXJlGgNjYW4aBWNvdWxkGgRkb2VzGgRtYWtlGgJ0bxoEd2lsbBoHZG9tZWRpYSoiCgVtZWRpYRXgezk_Ggdkb21lZGlhGgttZWRpYWhvdXNlcyo9CgZob3VzZXMVAAAAABoIYWdlbmNpZXMaCWNvbXBhbmllcxoFaG9tZXMaBWhvdXNlGgttZWRpYWhvdXNlcypJCglyZXB1cnBvc2UVKebUQBoKcmUgcHVycG9zZRoHcmVjeWNsZRoLcmVwdXJwb3NpbmcaBXJldXNlGg5pdjtwO3JlcHVycG9zZSonCgRsaXZlFVF3_0AaCGJyZWFraW5nGgZsYXRlc3QaCGxpdmVuZXdzKioKBG5ld3MVwAW1PhoIbmV3c2Nhc3QaCW5ld3NjYXN0cxoIbGl2ZW5ld3MqkAEKCmJyb2FkY2FzdHMVAAAAABoJYnJvYWRjYXN0Ggxicm9hZGNhc3RpbmcaCG5ld3NjYXN0GgluZXdzY2FzdHMaCHByb2dyYW1zGglyZXBvcnRpbmcaB3JlcG9ydHMaBXNob3dzGgZzdHJlYW0aB3N0cmVhbXMaD2l2O3A7YnJvYWRjYXN0cxoIY292ZXJhZ2UqFwoEaW50bxV_NRVAGgJpbhoCb24aAnRvKhIKBXJlZWxzFQAAAAAaBHJlZWwyuAEvZ290bz91cmw9Q0FFU2ZnSEVJa1hYS1VXeU9XUmxhSkVVcTY0WkJGZmdrY2pucVB3M0RLd0hIQ0VhTnVacEpqTWNxLUZ0NkFtV0dhQWg3bWdkQWJUZ3ZsWndtbktKb3J3bHdyZWVjcnJ5SFZMSXY1SkZZNTQ2aEwtUTBQVlRNNFNCZXdTSGJQbUJwS25fTHE3ektzNVhrcTZxTEVSLXJpWTZvcEc3YkpDanFLeGJ1dm1YeTBVWUlnOjg1IENyZWF0aXZlIFdheXMgPGI-dG8gUmVwdXJwb3NlIExpdmUgU3RyZWFtczwvYj4gLSBFY2FtbUKpATEuIDxiPkNyZWF0ZSBUZWFzZXIgVmlkZW9zIHRvIEdlbmVyYXRlIEludGVyZXN0PC9iPiAmbWlkZG90OyAyLiBSZXB1cnBvc2UgTGl2ZSBTdHJlYW1zIEludG8gVmlkZW9zIGZvciBZb3VyIEVtYWlsIENhbXBhaWducyAmbWlkZG90OyAzLiBVc2UgU2hvcnQgVmlkZW9zIGFzIExlYWQmbmJzcDsuLi5SAmluUgNjYW5SA2FyZVICdG9SAm9uUgR3aWxsIgIQAUgAWABoAA",
+        "source": "Ecamm",
+        "read_more_link": "https://www.google.com/goto?url=CAES3AIBxCJF1yy4vjrDZq1IFKFN4Zq9P8uMuKhjx7eloHwlFV3BuXtADb_xxbRoyP3esGR98sj6UZca2THmeHsqymjOH_3sN-12wu1QOg2dhJauPRBlT0nP71Vkx052rXGIPDXJ6nDBiSnXiAfbAqyqcHPBbu-Ikzg_0UMO4kUqUU-DB291fRFhHPURUx1dLUkIzdXqVR_ls83TCHZ4wWdIvHgy6V3iMbBx6VOPuT0WxeLCHWTwlzhfLhicRtLRiIhrhg8nMPTzQLaL2kXv8WSRk_PZQ8howa23yFYo7c8_V2Z3ZjiOnysuDfnrQzqWK-GjQDjKtQh53hqjMGYiloLGxUkHK97N1ya43rJXfV_AGgU48398CTHWJhZEjLqFYRuIPAi9nvt2vG_6q2whnKJzxYdF6mvQc-qgHvnKlrz4fnXSnHYk-rt0pAnvH5wjH9C0AzgLDsGw2yObT3B1v2Q&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+      },
+      {
+        "position": 4,
+        "title": "HOW TO CREATE VIDEO NEWS THAT ROCKS IN SOCIAL ...",
+        "link": "https://www.google.com/goto?url=CAES2gEBxCJF1wSmN_8YeizDiyrMs1vcCJ-CRFxsj3ww_fcw4moKXeuIZdd6LkEqfpG1UmU8M8fKz0vo5VfTsfHfKZfZ_eCCLZCmxGsxaxZXxLMLpuTMsbAYPEqia3Rb-C1uEk2HkwGXHQLdi9iaOqP1dzQQbCvq0GaMVXjgbCkddkmjeN37K5UxNycFPntpBqhL8cFwI4Qjn1jykwjv8jFxJmnJ1o3JWXN8j9V0mKSXbsnfEVo1epuHhQ_HeLDm_tNPvtZPkBoppfbbJWRCxLjn_u49YpQAm_QDNtu_PA",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES2gEBxCJF1wrotXuAYmBDfmIsJdx_NjviwUtlmASJ5fN85IwbkE-kw8UfS1EcZnxs6qBhapUy0-EQrTuClnHKkr8cwGn9u6LlKLbhe-0Rd9YEeOudeVJ2x1IZV8rjTWP_HZf6xBOzzG0gOm1XGGNwZT_1L3W4uG2QpRRwRWQcnYwlGQeRsjjHiNpDB6iygd7s53IqZ9MiDNpy0tIi-GDKen_Y72SD7zWGX76RoTdh0KbDS4r90CEkzUVrBeMeo9I0rwMfxX9Bd7WXX8-bUF1FSfsYxv7D30mHtAi-5Q&ved=2ahUKEwj2p8Hj25uYAxVjlmoFHZPQAE8QFnoECBgQAQ&uoh=1",
+        "displayed_link": "https://reutersinstitute.politics.ox.ac.uk \u203a sites \u203a files",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAfCAMAAACxiD--AAAAsVBMVEVHcEz9aRR7ys4LsL0Xr7vYTC_9aQC_DUm0F161DloBsr4duMWwC1izEF6xDlxEucVnzdj7aAz-ZwABsr4Bs7-xEV_1Zxjndkfc1urh0-Xc0eP-aQD9aQH-aQCyDl6yE1-yE1_h1OcBs77j1-nh0uXh0uXm2Or-aAABs78Ks7_h1Of4ZRz-aACyD16yE1_9aQGyEl8ws74Csr7n2u7h1OXg0uTNts3ceUW7fpP9aQH9aQHP9_-ZAAAAO3RSTlMADAQ2JQPjCDslzxsVrnMPCjdEk2xRIRQgmoi9_1rD_JBZs0Lkwy6bV4InL3Wfi4nZSP8Wcf9FSkXMssiTzHkAAAGvSURBVHgBddEFgqNAAETRasM9oSG-eNyTkfsfbBni9nD4OJ4Qgk8o44BQFKFqOt7hhmGqRFGIZTuA6-Ge8APittqhrcsI4Axxp-vijuz1BwCGo3-IEy813Cwvyoeg6gUA6isgKTCeuCTLBOM4syxEMk5iQAXoFMBsLsGNNkVDXywtIMkTXPkrH2abReIUjNY6FdNkiitBoFuQ8-i0FYastcEjdbmwiK_hhKdb46moz4pKuT4XbmubcjzbbKLQAtDtAOaY4RlNJ95uDySHQxcgeCFMD_tDDBR5LHsVwatqzqeo7UjV76_wQviy3SxV4Ss9iVfJDrYFazhah5GkFC_2sTXU4YxGoyHNOt3yJWGbiOIUHPPDoZjiSXvyNQC09WjtZIfDIc_wSNUhJOrCCZH9XaHEI33xnVA0-KZbFAmeA-fY8U4fPTUmx-lsvloNBK7IXLrx5VdtDeb3-v2-sroPZsy7BZuq3_BxEidHXTUpGiw12vUFGnM0XLP8Di1cmJz6P6fgdA9vMoFqCdyRv6dgAJDBTDO_gwgPxKA5rggwroa2CiHwJKhvUglgzB8O_gdUZCjTx8VWRgAAAABJRU5ErkJggg.png",
+        "author": "by J Argila",
+        "snippet": "HuffPost reports impressive success simply offering the live signal from a camera operator standing in the middle of the crowd, with no ...",
+        "snippet_highlighted_words": [
+          "reports",
+          "live",
+          "in"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "pages": 43
+            },
+            "extensions": [
+              "43 pages"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "HuffPost reports impressive success simply offering the live signal from a camera operator standing in the middle of the crowd, with no ...",
+            "source_info_link": "https://www.google.com/goto?url=CAES2gEBxCJF1wSmN_8YeizDiyrMs1vcCJ-CRFxsj3ww_fcw4moKXeuIZdd6LkEqfpG1UmU8M8fKz0vo5VfTsfHfKZfZ_eCCLZCmxGsxaxZXxLMLpuTMsbAYPEqia3Rb-C1uEk2HkwGXHQLdi9iaOqP1dzQQbCvq0GaMVXjgbCkddkmjeN37K5UxNycFPntpBqhL8cFwI4Qjn1jykwjv8jFxJmnJ1o3JWXN8j9V0mKSXbsnfEVo1epuHhQ_HeLDm_tNPvtZPkBoppfbbJWRCxLjn_u49YpQAm_QDNtu_PA",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAfCAMAAACxiD--AAAAsVBMVEVHcEz9aRR7ys4LsL0Xr7vYTC_9aQC_DUm0F161DloBsr4duMWwC1izEF6xDlxEucVnzdj7aAz-ZwABsr4Bs7-xEV_1Zxjndkfc1urh0-Xc0eP-aQD9aQH-aQCyDl6yE1-yE1_h1OcBs77j1-nh0uXh0uXm2Or-aAABs78Ks7_h1Of4ZRz-aACyD16yE1_9aQGyEl8ws74Csr7n2u7h1OXg0uTNts3ceUW7fpP9aQH9aQHP9_-ZAAAAO3RSTlMADAQ2JQPjCDslzxsVrnMPCjdEk2xRIRQgmoi9_1rD_JBZs0Lkwy6bV4InL3Wfi4nZSP8Wcf9FSkXMssiTzHkAAAGvSURBVHgBddEFgqNAAETRasM9oSG-eNyTkfsfbBni9nD4OJ4Qgk8o44BQFKFqOt7hhmGqRFGIZTuA6-Ge8APittqhrcsI4Axxp-vijuz1BwCGo3-IEy813Cwvyoeg6gUA6isgKTCeuCTLBOM4syxEMk5iQAXoFMBsLsGNNkVDXywtIMkTXPkrH2abReIUjNY6FdNkiitBoFuQ8-i0FYastcEjdbmwiK_hhKdb46moz4pKuT4XbmubcjzbbKLQAtDtAOaY4RlNJ95uDySHQxcgeCFMD_tDDBR5LHsVwatqzqeo7UjV76_wQviy3SxV4Ss9iVfJDrYFazhah5GkFC_2sTXU4YxGoyHNOt3yJWGbiOIUHPPDoZjiSXvyNQC09WjtZIfDIc_wSNUhJOrCCZH9XaHEI33xnVA0-KZbFAmeA-fY8U4fPTUmx-lsvloNBK7IXLrx5VdtDeb3-v2-sroPZsy7BZuq3_BxEidHXTUpGiw12vUFGnM0XLP8Di1cmJz6P6fgdA9vMoFqCdyRv6dgAJDBTDO_gwgPxKA5rggwroa2CiHwJKhvUglgzB8O_gdUZCjTx8VWRgAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrQCL2dvdG8_dXJsPUNBRVMyZ0VCeENKRjF3U21OXzhZZWl6RGl5ck1zMXZjQ0otQ1JGeHNqM3d3X2ZjdzRtb0tYZXVJWmRkNkxrRXFmcEcxVW1VOE04Zkt6MHZvNVZmVHNmSGZLWmZaX2VDQ0xaQ214R3N4YXhaWHhMTUxwdVRNc2JBWVBFcWlhM1JiLUMxdUVrMkhrd0dYSFFMZGk5aWFPcVAxZHpRUWJDdnEwR2FNVlhqZ2JDa2Rka21qZU4zN0s1VXhOeWNGUG50cEJxaEw4Y0Z3STRRam4xanlrd2p2OGpGeEptbkoxbzNKV1hOOGo5VjBtS1NYYnNuZkVWbzFlcHVIaFFfSGVMRG1fdE5QdnRaUGtCb3BwZmJiSldSQ3hMam5fdTQ5WXBRQW1fUUROdHVfUEESBBoCCAAa-wgSAggAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkDVCAgAEAAYACAAKgoKA2hvdxWwG1pAKjkKAmRvFSlAoT8aA2FyZRoDY2FuGgVjb3VsZBoEZG9lcxoEbWFrZRoCdG8aBHdpbGwaB2RvbWVkaWEqIgoFbWVkaWEVfQCBQBoHZG9tZWRpYRoLbWVkaWFob3VzZXMqPQoGaG91c2VzFQAAAAAaCGFnZW5jaWVzGgljb21wYW5pZXMaBWhvbWVzGgVob3VzZRoLbWVkaWFob3VzZXMqSQoJcmVwdXJwb3NlFQAAAAAaCnJlIHB1cnBvc2UaB3JlY3ljbGUaC3JlcHVycG9zaW5nGgVyZXVzZRoOaXY7cDtyZXB1cnBvc2UqJwoEbGl2ZRUJEmc_GghicmVha2luZxoGbGF0ZXN0GghsaXZlbmV3cyoqCgRuZXdzFZ4UiEAaCG5ld3NjYXN0GgluZXdzY2FzdHMaCGxpdmVuZXdzKpABCgpicm9hZGNhc3RzFdXfiD0aCWJyb2FkY2FzdBoMYnJvYWRjYXN0aW5nGghuZXdzY2FzdBoJbmV3c2Nhc3RzGghwcm9ncmFtcxoJcmVwb3J0aW5nGgdyZXBvcnRzGgVzaG93cxoGc3RyZWFtGgdzdHJlYW1zGg9pdjtwO2Jyb2FkY2FzdHMaCGNvdmVyYWdlKhcKBGludG8V03vGPRoCaW4aAm9uGgJ0byoSCgVyZWVscxUAAAAAGgRyZWVsMrQCL2dvdG8_dXJsPUNBRVMyZ0VCeENKRjF3U21OXzhZZWl6RGl5ck1zMXZjQ0otQ1JGeHNqM3d3X2ZjdzRtb0tYZXVJWmRkNkxrRXFmcEcxVW1VOE04Zkt6MHZvNVZmVHNmSGZLWmZaX2VDQ0xaQ214R3N4YXhaWHhMTUxwdVRNc2JBWVBFcWlhM1JiLUMxdUVrMkhrd0dYSFFMZGk5aWFPcVAxZHpRUWJDdnEwR2FNVlhqZ2JDa2Rka21qZU4zN0s1VXhOeWNGUG50cEJxaEw4Y0Z3STRRam4xanlrd2p2OGpGeEptbkoxbzNKV1hOOGo5VjBtS1NYYnNuZkVWbzFlcHVIaFFfSGVMRG1fdE5QdnRaUGtCb3BwZmJiSldSQ3hMam5fdTQ5WXBRQW1fUUROdHVfUEE6RkhPVyA8Yj5UTzwvYj4gQ1JFQVRFIFZJREVPIDxiPk5FV1M8L2I-IFRIQVQgUk9DS1MgPGI-SU48L2I-IFNPQ0lBTCAuLi5CpQFIdWZmUG9zdCA8Yj5yZXBvcnRzPC9iPiBpbXByZXNzaXZlIHN1Y2Nlc3Mgc2ltcGx5IG9mZmVyaW5nIHRoZSA8Yj5saXZlPC9iPiBzaWduYWwgZnJvbSBhIGNhbWVyYSBvcGVyYXRvciBzdGFuZGluZyA8Yj5pbjwvYj4gdGhlIG1pZGRsZSBvZiB0aGUgY3Jvd2QsIHdpdGggbm8mbmJzcDsuLi5SBHdpbGxSA2NhblIDYXJlUgJ0b1ICb25SAmluIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrQCL2dvdG8_dXJsPUNBRVMyZ0VCeENKRjF3U21OXzhZZWl6RGl5ck1zMXZjQ0otQ1JGeHNqM3d3X2ZjdzRtb0tYZXVJWmRkNkxrRXFmcEcxVW1VOE04Zkt6MHZvNVZmVHNmSGZLWmZaX2VDQ0xaQ214R3N4YXhaWHhMTUxwdVRNc2JBWVBFcWlhM1JiLUMxdUVrMkhrd0dYSFFMZGk5aWFPcVAxZHpRUWJDdnEwR2FNVlhqZ2JDa2Rka21qZU4zN0s1VXhOeWNGUG50cEJxaEw4Y0Z3STRRam4xanlrd2p2OGpGeEptbkoxbzNKV1hOOGo5VjBtS1NYYnNuZkVWbzFlcHVIaFFfSGVMRG1fdE5QdnRaUGtCb3BwZmJiSldSQ3hMam5fdTQ5WXBRQW1fUUROdHVfUEESBBoCCAAa-wgSAggAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkDVCAgAEAAYACAAKgoKA2hvdxWwG1pAKjkKAmRvFSlAoT8aA2FyZRoDY2FuGgVjb3VsZBoEZG9lcxoEbWFrZRoCdG8aBHdpbGwaB2RvbWVkaWEqIgoFbWVkaWEVfQCBQBoHZG9tZWRpYRoLbWVkaWFob3VzZXMqPQoGaG91c2VzFQAAAAAaCGFnZW5jaWVzGgljb21wYW5pZXMaBWhvbWVzGgVob3VzZRoLbWVkaWFob3VzZXMqSQoJcmVwdXJwb3NlFQAAAAAaCnJlIHB1cnBvc2UaB3JlY3ljbGUaC3JlcHVycG9zaW5nGgVyZXVzZRoOaXY7cDtyZXB1cnBvc2UqJwoEbGl2ZRUJEmc_GghicmVha2luZxoGbGF0ZXN0GghsaXZlbmV3cyoqCgRuZXdzFZ4UiEAaCG5ld3NjYXN0GgluZXdzY2FzdHMaCGxpdmVuZXdzKpABCgpicm9hZGNhc3RzFdXfiD0aCWJyb2FkY2FzdBoMYnJvYWRjYXN0aW5nGghuZXdzY2FzdBoJbmV3c2Nhc3RzGghwcm9ncmFtcxoJcmVwb3J0aW5nGgdyZXBvcnRzGgVzaG93cxoGc3RyZWFtGgdzdHJlYW1zGg9pdjtwO2Jyb2FkY2FzdHMaCGNvdmVyYWdlKhcKBGludG8V03vGPRoCaW4aAm9uGgJ0byoSCgVyZWVscxUAAAAAGgRyZWVsMrQCL2dvdG8_dXJsPUNBRVMyZ0VCeENKRjF3U21OXzhZZWl6RGl5ck1zMXZjQ0otQ1JGeHNqM3d3X2ZjdzRtb0tYZXVJWmRkNkxrRXFmcEcxVW1VOE04Zkt6MHZvNVZmVHNmSGZLWmZaX2VDQ0xaQ214R3N4YXhaWHhMTUxwdVRNc2JBWVBFcWlhM1JiLUMxdUVrMkhrd0dYSFFMZGk5aWFPcVAxZHpRUWJDdnEwR2FNVlhqZ2JDa2Rka21qZU4zN0s1VXhOeWNGUG50cEJxaEw4Y0Z3STRRam4xanlrd2p2OGpGeEptbkoxbzNKV1hOOGo5VjBtS1NYYnNuZkVWbzFlcHVIaFFfSGVMRG1fdE5QdnRaUGtCb3BwZmJiSldSQ3hMam5fdTQ5WXBRQW1fUUROdHVfUEE6RkhPVyA8Yj5UTzwvYj4gQ1JFQVRFIFZJREVPIDxiPk5FV1M8L2I-IFRIQVQgUk9DS1MgPGI-SU48L2I-IFNPQ0lBTCAuLi5CpQFIdWZmUG9zdCA8Yj5yZXBvcnRzPC9iPiBpbXByZXNzaXZlIHN1Y2Nlc3Mgc2ltcGx5IG9mZmVyaW5nIHRoZSA8Yj5saXZlPC9iPiBzaWduYWwgZnJvbSBhIGNhbWVyYSBvcGVyYXRvciBzdGFuZGluZyA8Yj5pbjwvYj4gdGhlIG1pZGRsZSBvZiB0aGUgY3Jvd2QsIHdpdGggbm8mbmJzcDsuLi5SBHdpbGxSA2NhblIDYXJlUgJ0b1ICb25SAmluIgIQAUgAWABoAA",
+        "source": "reutersinstitute.politics.ox.ac.uk"
+      },
+      {
+        "position": 5,
+        "title": "Instagram Reels for Journalists: Format, Hook & UK ...",
+        "link": "https://www.google.com/goto?url=CAESfAHEIkXXGNT7qZ-IBWAfFQ-GhKfK2961tQj3mFAxIt6Rs0QUiFOOJDfInpAkHrVFU27bWcWtUiZLOx8AktjhQgEZeBHwa1lRuAJlO-DR28cPGe6eQKjmBvBolUB4mN4iPF0SBOg7gHRPLTyace4bQC0xEgSYVJi7ixy0dQU",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHEIkXXLvKaFvg4b4jmBa-JEk0Iqmm95pH9wlr0prYXV8j3HSPSbx7yQsLwsRBnUeyW3nhigrRgc5o_YbcsW_qv69WUHJG8hNn_KrvDkgS4XDShTCC9mRAHdujqTkbNWcCUN7PoWrmii7uI8jlRlt-4CjyyUP-5PLNn93c&ved=2ahUKEwj2p8Hj25uYAxVjlmoFHZPQAE8QFnoECB4QAQ&uoh=1",
+        "displayed_link": "https://www.ukjournohub.com \u203a Audience",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABo0lEQVR4Ac3XAWcCcRgG8Au2PkGxJoCyDgj6BgnM1AAEkAB9g4umJIDtU1T6HAWmL5A7LBLchUqePea10Wr_3urmHn6Q3t435727v6XMDdn0TA59CEc-s-U7V88Dteid1oQj1vKdltRcnHt6JZ-g5EvtPZ2VJ5oRLjST31KlQVvClWypoWmOcJiHeNT_c5Wt9DiYO3IJIfMoRb_yRtDI5_OoVqvQD8Fee8lQQNAYjUZYLBZIJpPaAVaUpe-8EDSKxSJ2ux0Y9Ho9Ta1gT8ktTTXF8Xgc4_EYkARBANu2tQNMpbeVo42muFarYT_D4RCxWEwzwEZ6WxVN80QiAdd1sR9eDpRKJc0AxN6Moynqdrs4lslkAl4ezQBNsuanFuRyOfi-j79Sr9c1A8xVA_T7fZjieR64lqoBmpq1M0S7lg5ZFcXaGaJey4p5DWXttBkMBieuoeFGlE6nsVwucU7K5bL5RmS6FRcKha_Va7fbKp1Ox_SgYs-fZGlF-CcBZQyP4zCx14GkyCOEzKVUJF_JIvFSGv5refQPJhE6mkXicBr68fwTVWYuwEfZOWcAAAAASUVORK5CYII.png",
+        "date": "13 Jun 2026",
+        "snippet": "Establishing a visual template (fonts, colour palette, caption style) for your journalism Reels builds audience recognition over time.",
+        "snippet_highlighted_words": [
+          "Reels"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Establishing a visual template (fonts, colour palette, caption style) for your journalism Reels builds audience recognition over time.",
+            "source_info_link": "https://www.google.com/goto?url=CAESfAHEIkXXGNT7qZ-IBWAfFQ-GhKfK2961tQj3mFAxIt6Rs0QUiFOOJDfInpAkHrVFU27bWcWtUiZLOx8AktjhQgEZeBHwa1lRuAJlO-DR28cPGe6eQKjmBvBolUB4mN4iPF0SBOg7gHRPLTyace4bQC0xEgSYVJi7ixy0dQU",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABo0lEQVR4Ac3XAWcCcRgG8Au2PkGxJoCyDgj6BgnM1AAEkAB9g4umJIDtU1T6HAWmL5A7LBLchUqePea10Wr_3urmHn6Q3t435727v6XMDdn0TA59CEc-s-U7V88Dteid1oQj1vKdltRcnHt6JZ-g5EvtPZ2VJ5oRLjST31KlQVvClWypoWmOcJiHeNT_c5Wt9DiYO3IJIfMoRb_yRtDI5_OoVqvQD8Fee8lQQNAYjUZYLBZIJpPaAVaUpe-8EDSKxSJ2ux0Y9Ho9Ta1gT8ktTTXF8Xgc4_EYkARBANu2tQNMpbeVo42muFarYT_D4RCxWEwzwEZ6WxVN80QiAdd1sR9eDpRKJc0AxN6Moynqdrs4lslkAl4ezQBNsuanFuRyOfi-j79Sr9c1A8xVA_T7fZjieR64lqoBmpq1M0S7lg5ZFcXaGaJey4p5DWXttBkMBieuoeFGlE6nsVwucU7K5bL5RmS6FRcKha_Va7fbKp1Ox_SgYs-fZGlF-CcBZQyP4zCx14GkyCOEzKVUJF_JIvFSGv5refQPJhE6mkXicBr68fwTVWYuwEfZOWcAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhFSWtYWEdOVDdxWi1JQldBZkZRLUdoS2ZLMjk2MXRRajNtRkF4SXQ2UnMwUVVpRk9PSkRmSW5wQWtIclZGVTI3YldjV3RVaVpMT3g4QWt0amhRZ0VaZUJId2ExbFJ1QUpsTy1EUjI4Y1BHZTZlUUtqbUJ2Qm9sVUI0bU40aVBGMFNCT2c3Z0hSUExUeWFjZTRiUUMweEVnU1lWSmk3aXh5MGRRVRIEGgIIABrdBxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkC5BwgAEAAYACAAKgoKA2hvdxV4a6I_KjkKAmRvFblSgz8aA2FyZRoDY2FuGgVjb3VsZBoEZG9lcxoEbWFrZRoCdG8aBHdpbGwaB2RvbWVkaWEqIgoFbWVkaWEVHhdWPhoHZG9tZWRpYRoLbWVkaWFob3VzZXMqPQoGaG91c2VzFQAAAAAaCGFnZW5jaWVzGgljb21wYW5pZXMaBWhvbWVzGgVob3VzZRoLbWVkaWFob3VzZXMqSQoJcmVwdXJwb3NlFQAAAAAaCnJlIHB1cnBvc2UaB3JlY3ljbGUaC3JlcHVycG9zaW5nGgVyZXVzZRoOaXY7cDtyZXB1cnBvc2UqJwoEbGl2ZRUAAAAAGghicmVha2luZxoGbGF0ZXN0GghsaXZlbmV3cyoqCgRuZXdzFb_1DEAaCG5ld3NjYXN0GgluZXdzY2FzdHMaCGxpdmVuZXdzKpABCgpicm9hZGNhc3RzFQAAAAAaCWJyb2FkY2FzdBoMYnJvYWRjYXN0aW5nGghuZXdzY2FzdBoJbmV3c2Nhc3RzGghwcm9ncmFtcxoJcmVwb3J0aW5nGgdyZXBvcnRzGgVzaG93cxoGc3RyZWFtGgdzdHJlYW1zGg9pdjtwO2Jyb2FkY2FzdHMaCGNvdmVyYWdlKhcKBGludG8VAAAAABoCaW4aAm9uGgJ0byoSCgVyZWVscxUvuMVAGgRyZWVsMrUBL2dvdG8_dXJsPUNBRVNmQUhFSWtYWEdOVDdxWi1JQldBZkZRLUdoS2ZLMjk2MXRRajNtRkF4SXQ2UnMwUVVpRk9PSkRmSW5wQWtIclZGVTI3YldjV3RVaVpMT3g4QWt0amhRZ0VaZUJId2ExbFJ1QUpsTy1EUjI4Y1BHZTZlUUtqbUJ2Qm9sVUI0bU40aVBGMFNCT2c3Z0hSUExUeWFjZTRiUUMweEVnU1lWSmk3aXh5MGRRVTpBSW5zdGFncmFtIDxiPlJlZWxzPC9iPiBmb3IgSm91cm5hbGlzdHM6IEZvcm1hdCwgSG9vayAmYW1wOyBVSyAuLi5CjQFFc3RhYmxpc2hpbmcgYSB2aXN1YWwgdGVtcGxhdGUgKGZvbnRzLCBjb2xvdXIgcGFsZXR0ZSwgY2FwdGlvbiBzdHlsZSkgZm9yIHlvdXIgam91cm5hbGlzbSA8Yj5SZWVsczwvYj4gYnVpbGRzIGF1ZGllbmNlIHJlY29nbml0aW9uIG92ZXIgdGltZS5SBHdpbGxSAnRvUgNhcmVSA2NhblICaW5SAm9uIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhFSWtYWEdOVDdxWi1JQldBZkZRLUdoS2ZLMjk2MXRRajNtRkF4SXQ2UnMwUVVpRk9PSkRmSW5wQWtIclZGVTI3YldjV3RVaVpMT3g4QWt0amhRZ0VaZUJId2ExbFJ1QUpsTy1EUjI4Y1BHZTZlUUtqbUJ2Qm9sVUI0bU40aVBGMFNCT2c3Z0hSUExUeWFjZTRiUUMweEVnU1lWSmk3aXh5MGRRVRIEGgIIABrdBxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkC5BwgAEAAYACAAKgoKA2hvdxV4a6I_KjkKAmRvFblSgz8aA2FyZRoDY2FuGgVjb3VsZBoEZG9lcxoEbWFrZRoCdG8aBHdpbGwaB2RvbWVkaWEqIgoFbWVkaWEVHhdWPhoHZG9tZWRpYRoLbWVkaWFob3VzZXMqPQoGaG91c2VzFQAAAAAaCGFnZW5jaWVzGgljb21wYW5pZXMaBWhvbWVzGgVob3VzZRoLbWVkaWFob3VzZXMqSQoJcmVwdXJwb3NlFQAAAAAaCnJlIHB1cnBvc2UaB3JlY3ljbGUaC3JlcHVycG9zaW5nGgVyZXVzZRoOaXY7cDtyZXB1cnBvc2UqJwoEbGl2ZRUAAAAAGghicmVha2luZxoGbGF0ZXN0GghsaXZlbmV3cyoqCgRuZXdzFb_1DEAaCG5ld3NjYXN0GgluZXdzY2FzdHMaCGxpdmVuZXdzKpABCgpicm9hZGNhc3RzFQAAAAAaCWJyb2FkY2FzdBoMYnJvYWRjYXN0aW5nGghuZXdzY2FzdBoJbmV3c2Nhc3RzGghwcm9ncmFtcxoJcmVwb3J0aW5nGgdyZXBvcnRzGgVzaG93cxoGc3RyZWFtGgdzdHJlYW1zGg9pdjtwO2Jyb2FkY2FzdHMaCGNvdmVyYWdlKhcKBGludG8VAAAAABoCaW4aAm9uGgJ0byoSCgVyZWVscxUvuMVAGgRyZWVsMrUBL2dvdG8_dXJsPUNBRVNmQUhFSWtYWEdOVDdxWi1JQldBZkZRLUdoS2ZLMjk2MXRRajNtRkF4SXQ2UnMwUVVpRk9PSkRmSW5wQWtIclZGVTI3YldjV3RVaVpMT3g4QWt0amhRZ0VaZUJId2ExbFJ1QUpsTy1EUjI4Y1BHZTZlUUtqbUJ2Qm9sVUI0bU40aVBGMFNCT2c3Z0hSUExUeWFjZTRiUUMweEVnU1lWSmk3aXh5MGRRVTpBSW5zdGFncmFtIDxiPlJlZWxzPC9iPiBmb3IgSm91cm5hbGlzdHM6IEZvcm1hdCwgSG9vayAmYW1wOyBVSyAuLi5CjQFFc3RhYmxpc2hpbmcgYSB2aXN1YWwgdGVtcGxhdGUgKGZvbnRzLCBjb2xvdXIgcGFsZXR0ZSwgY2FwdGlvbiBzdHlsZSkgZm9yIHlvdXIgam91cm5hbGlzbSA8Yj5SZWVsczwvYj4gYnVpbGRzIGF1ZGllbmNlIHJlY29nbml0aW9uIG92ZXIgdGltZS5SBHdpbGxSAnRvUgNhcmVSA2NhblICaW5SAm9uIgIQAUgAWABoAA",
+        "source": "ukjournohub.com"
+      },
+      {
+        "position": 6,
+        "title": "How to Make Social-First Videos That Reach New Audiences",
+        "link": "https://www.google.com/goto?url=CAESlgEBxCJF17I0nNiI8ALtpst8rLwwS00bktk12K8vKIiasDODrgTDcwX62uPXP4vgAh2Wx-wBGdYjseDT5fz3hy8jIxY0gY70k4-56i7NNc34s__KeOWK9SAVB9qDDFx75ufgh4F4h3g9R79n6xvKgqCcTcy-s_8OdvwdvWk9fPU9ktYGFjyjjy2YPcHdFiIlIZeMaoR9Zvs&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA",
+        "displayed_link": "https://www.journalists.org",
+        "date": "12 May 2026",
+        "thumbnail": "https://serpapi.com/searches/6b02f2bd391b389d7b8d5469/images/pYrfWy_MApIGtco60Vnyvpr6-9VzhPy0ozh5H_ZLcps.jpg",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAWlBMVEVHcEz________7_Pz________________________3-Prr7fHm6O0JKVvFydQdNWK2vMkAGFTM0NmvtcPX2uKqsL3w8fTS1t6gqLl4gZje4OaHj6NbZ4Q6S3D-fp7IAAAACnRSTlMAxP__xayt9t5EtkZYyAAAARJJREFUKJGFk4uOhCAMRVkZRy0VeT_U-f_fXAIYxcy6TUwoJ23ay5UQQqb3ONxi7CeS49V9jdcDy3S6pDTFJZ3I-zgCUAoufXDc9GSsRUARHYBDTMdyN5KhNmSMKW-MV-lQmw-kMgSOSguhOXLASgsEllgwNkZrQqIMTgiUcRRazimkFcgZhRMiw6DlkkPagIgnpEwpk-vmZV7kyhWjB6TUeW1l9NFuH7_MVnuXRyJ5fTAiSv5RndhZnKMwSY2jEsAXaDurhGwglLY73-MWliCbtnmgVaZZ8kTtQGUVcawi2lWKCKKIIG4iVPlWvW16vcv3p_CPT_b42I1NHLQ2uRkMLun0YM2f_0ydrNuPQwvq7_ALhWoYCMKcQucAAAAASUVORK5CYII.png",
+        "snippet": "By the end of this session, you will be better prepared to create your own short-form videos that engage and grow new audiences on social media.",
+        "duration": "1:00:25",
+        "about_this_result": {
+          "source": {
+            "description": "By the end of this session, you will be better prepared to create your own short-form videos that engage and grow new audiences on social media.",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAWlBMVEVHcEz________7_Pz________________________3-Prr7fHm6O0JKVvFydQdNWK2vMkAGFTM0NmvtcPX2uKqsL3w8fTS1t6gqLl4gZje4OaHj6NbZ4Q6S3D-fp7IAAAACnRSTlMAxP__xayt9t5EtkZYyAAAARJJREFUKJGFk4uOhCAMRVkZRy0VeT_U-f_fXAIYxcy6TUwoJ23ay5UQQqb3ONxi7CeS49V9jdcDy3S6pDTFJZ3I-zgCUAoufXDc9GSsRUARHYBDTMdyN5KhNmSMKW-MV-lQmw-kMgSOSguhOXLASgsEllgwNkZrQqIMTgiUcRRazimkFcgZhRMiw6DlkkPagIgnpEwpk-vmZV7kyhWjB6TUeW1l9NFuH7_MVnuXRyJ5fTAiSv5RndhZnKMwSY2jEsAXaDurhGwglLY73-MWliCbtnmgVaZZ8kTtQGUVcawi2lWKCKKIIG4iVPlWvW16vcv3p_CPT_b42I1NHLQ2uRkMLun0YM2f_0ydrNuPQwvq7_ALhWoYCMKcQucAAAAASUVORK5CYII.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCeENKRjE3STBuTmlJOEFMdHBzdDhyTHd3UzAwYmt0azEySzh2S0lpYXNET0RyZ1REY3dYNjJ1UFhQNHZnQWgyV3gtd0JHZFlqc2VEVDVmejNoeThqSXhZMGdZNzBrNC01Nmk3Tk5jMzRzX19LZU9XSzlTQVZCOXFEREZ4NzV1ZmdoNEY0aDNnOVI3OW42eHZLZ3FDY1RjeS1zXzhPZHZ3ZHZXazlmUFU5a3RZR0ZqeWpqeTJZUGNIZEZpSWxJWmVNYW9SOVp2cxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCeENKRjE3STBuTmlJOEFMdHBzdDhyTHd3UzAwYmt0azEySzh2S0lpYXNET0RyZ1REY3dYNjJ1UFhQNHZnQWgyV3gtd0JHZFlqc2VEVDVmejNoeThqSXhZMGdZNzBrNC01Nmk3Tk5jMzRzX19LZU9XSzlTQVZCOXFEREZ4NzV1ZmdoNEY0aDNnOVI3OW42eHZLZ3FDY1RjeS1zXzhPZHZ3ZHZXazlmUFU5a3RZR0ZqeWpqeTJZUGNIZEZpSWxJWmVNYW9SOVp2cxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "source": "Online News Association"
+      },
+      {
+        "position": 7,
+        "title": "The Reels strategy helping one TV news anchor grow her ...",
+        "link": "https://www.google.com/goto?url=CAESiwEBxCJF14DPoyzfhTspPRVe6hJGqB8CfiEl7f1EP-IAc4_kLK1ayI5u_7BgjJib_mBpmJAT0M8m46yjP3HCFUQRgeR-OmHKjDUSMG60alMQmb76SQUfvmbmtoA0sY6kP6gvecne7FvzfDVVBZfmASEwGrEQm_II3W3_c5Jx0_9LQKaidi2NKTvd59GX",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiwEBxCJF1zk0rQgtS9sFFk5iArFFW6-Rm-HvKj-w5svcCMJ5Z6A-pEOuwJW3qlmBVeIbozrfmOfGTZJyzk7gWHYiaZVvct3uXT759Rwl00MqgNa19vdgEC6vptjKoZVpX50N1g-379BmqkMUTEt4SHoRSXDbwyXU84YVp-x3QDB3M_FeRrgJBvvhIqsy&ved=2ahUKEwj2p8Hj25uYAxVjlmoFHZPQAE8QFnoECEIQAQ&uoh=1",
+        "displayed_link": "https://www.davidarkinconsulting.com \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAllBMVEX___-_zOZ9lMpefsFVd76HoNH29_jR1NjHys_h4-bv8_k1Y7YAOKgAQaoARKtEbrx1fYkAAjAABzAAEDMAACtNWGkMT68ASa0APqokNUwAGjkTKUINJkAVK0VXYnFvi8euvt8AHjsAFTZCUGIzQlajtNqkqbHp7veaoKjb4vEeV7KAiJOBms2RqNY7SVzo6uwANqessbjUpkh4AAAA4UlEQVR4Ac3QVYKDMBRA0VfFEhwS3N33v7kJNt7_HpyLBt7S5Xpb3R_w5PiDsCdRQlhmkPJUNd04mBasbJnIlFLWHNfz_EPghqxdKUFRzICVBGmQ7XI_MJ8AlNACVpwZGCWcAk8XoEIE74e167MnVY9vsUGk3Q-7xK1BlPtXsRRt-ngZB4p_3UnOaJQDxtf_o57By6iOwOKLx5ZskWRc7Eepp01H3IkRJnN1fIDnAzxnQugByYRGz44Z3cCoASBC5Au6s9FPksQPUgtWPZpPbfH0DZdJTRUO4gmgrDfLBO_oA61SH8r7qdznAAAAAElFTkSuQmCC.png",
+        "date": "5 Jul 2026",
+        "snippet": "How to repurpose newscast content for Reels. Taylor says one of the easiest ways for television journalists to create social content is by ...",
+        "snippet_highlighted_words": [
+          "How to repurpose newscast content for Reels"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "How to repurpose newscast content for Reels. Taylor says one of the easiest ways for television journalists to create social content is by ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESiwEBxCJF14DPoyzfhTspPRVe6hJGqB8CfiEl7f1EP-IAc4_kLK1ayI5u_7BgjJib_mBpmJAT0M8m46yjP3HCFUQRgeR-OmHKjDUSMG60alMQmb76SQUfvmbmtoA0sY6kP6gvecne7FvzfDVVBZfmASEwGrEQm_II3W3_c5Jx0_9LQKaidi2NKTvd59GX",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAllBMVEX___-_zOZ9lMpefsFVd76HoNH29_jR1NjHys_h4-bv8_k1Y7YAOKgAQaoARKtEbrx1fYkAAjAABzAAEDMAACtNWGkMT68ASa0APqokNUwAGjkTKUINJkAVK0VXYnFvi8euvt8AHjsAFTZCUGIzQlajtNqkqbHp7veaoKjb4vEeV7KAiJOBms2RqNY7SVzo6uwANqessbjUpkh4AAAA4UlEQVR4Ac3QVYKDMBRA0VfFEhwS3N33v7kJNt7_HpyLBt7S5Xpb3R_w5PiDsCdRQlhmkPJUNd04mBasbJnIlFLWHNfz_EPghqxdKUFRzICVBGmQ7XI_MJ8AlNACVpwZGCWcAk8XoEIE74e167MnVY9vsUGk3Q-7xK1BlPtXsRRt-ngZB4p_3UnOaJQDxtf_o57By6iOwOKLx5ZskWRc7Eepp01H3IkRJnN1fIDnAzxnQugByYRGz44Z3cCoASBC5Au6s9FPksQPUgtWPZpPbfH0DZdJTRUO4gmgrDfLBO_oA61SH8r7qdznAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsoBL2dvdG8_dXJsPUNBRVNpd0VCeENKRjE0RFBveXpmaFRzcFBSVmU2aEpHcUI4Q2ZpRWw3ZjFFUC1JQWM0X2tMSzFheUk1dV83QmdqSmliX21CcG1KQVQwTThtNDZ5alAzSENGVVFSZ2VSLU9tSEtqRFVTTUc2MGFsTVFtYjc2U1FVZnZtYm10b0Ewc1k2a1A2Z3ZlY25lN0Z2emZEVlZCWmZtQVNFd0dyRVFtX0lJM1czX2M1SngwXzlMUUthaWRpMk5LVHZkNTlHWBIEGgIIABqGCBIAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkDiBwgAEAAYACAAKgoKA2hvdxXJTBdAKjkKAmRvFYlt-z8aA2FyZRoDY2FuGgVjb3VsZBoEZG9lcxoEbWFrZRoCdG8aBHdpbGwaB2RvbWVkaWEqIgoFbWVkaWEVkmlTQBoHZG9tZWRpYRoLbWVkaWFob3VzZXMqPQoGaG91c2VzFQAAAAAaCGFnZW5jaWVzGgljb21wYW5pZXMaBWhvbWVzGgVob3VzZRoLbWVkaWFob3VzZXMqSQoJcmVwdXJwb3NlFS7iND4aCnJlIHB1cnBvc2UaB3JlY3ljbGUaC3JlcHVycG9zaW5nGgVyZXVzZRoOaXY7cDtyZXB1cnBvc2UqJwoEbGl2ZRUAAAAAGghicmVha2luZxoGbGF0ZXN0GghsaXZlbmV3cyoqCgRuZXdzFSC6vkAaCG5ld3NjYXN0GgluZXdzY2FzdHMaCGxpdmVuZXdzKpABCgpicm9hZGNhc3RzFQAAAAAaCWJyb2FkY2FzdBoMYnJvYWRjYXN0aW5nGghuZXdzY2FzdBoJbmV3c2Nhc3RzGghwcm9ncmFtcxoJcmVwb3J0aW5nGgdyZXBvcnRzGgVzaG93cxoGc3RyZWFtGgdzdHJlYW1zGg9pdjtwO2Jyb2FkY2FzdHMaCGNvdmVyYWdlKhcKBGludG8VSJOzPhoCaW4aAm9uGgJ0byoSCgVyZWVscxVT8aRAGgRyZWVsMsoBL2dvdG8_dXJsPUNBRVNpd0VCeENKRjE0RFBveXpmaFRzcFBSVmU2aEpHcUI4Q2ZpRWw3ZjFFUC1JQWM0X2tMSzFheUk1dV83QmdqSmliX21CcG1KQVQwTThtNDZ5alAzSENGVVFSZ2VSLU9tSEtqRFVTTUc2MGFsTVFtYjc2U1FVZnZtYm10b0Ewc1k2a1A2Z3ZlY25lN0Z2emZEVlZCWmZtQVNFd0dyRVFtX0lJM1czX2M1SngwXzlMUUthaWRpMk5LVHZkNTlHWDpIVGhlIDxiPlJlZWxzPC9iPiBzdHJhdGVneSBoZWxwaW5nIG9uZSBUViA8Yj5uZXdzPC9iPiBhbmNob3IgZ3JvdyBoZXIgLi4uQpoBPGI-SG93IHRvIHJlcHVycG9zZSBuZXdzY2FzdCBjb250ZW50IGZvciBSZWVsczwvYj4uIFRheWxvciBzYXlzIG9uZSBvZiB0aGUgZWFzaWVzdCB3YXlzIGZvciB0ZWxldmlzaW9uIGpvdXJuYWxpc3RzIHRvIGNyZWF0ZSBzb2NpYWwgY29udGVudCBpcyBieSZuYnNwOy4uLlICaW5SA2NhblIDYXJlUgJ0b1ICb25SBHdpbGwiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsoBL2dvdG8_dXJsPUNBRVNpd0VCeENKRjE0RFBveXpmaFRzcFBSVmU2aEpHcUI4Q2ZpRWw3ZjFFUC1JQWM0X2tMSzFheUk1dV83QmdqSmliX21CcG1KQVQwTThtNDZ5alAzSENGVVFSZ2VSLU9tSEtqRFVTTUc2MGFsTVFtYjc2U1FVZnZtYm10b0Ewc1k2a1A2Z3ZlY25lN0Z2emZEVlZCWmZtQVNFd0dyRVFtX0lJM1czX2M1SngwXzlMUUthaWRpMk5LVHZkNTlHWBIEGgIIABqGCBIAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkDiBwgAEAAYACAAKgoKA2hvdxXJTBdAKjkKAmRvFYlt-z8aA2FyZRoDY2FuGgVjb3VsZBoEZG9lcxoEbWFrZRoCdG8aBHdpbGwaB2RvbWVkaWEqIgoFbWVkaWEVkmlTQBoHZG9tZWRpYRoLbWVkaWFob3VzZXMqPQoGaG91c2VzFQAAAAAaCGFnZW5jaWVzGgljb21wYW5pZXMaBWhvbWVzGgVob3VzZRoLbWVkaWFob3VzZXMqSQoJcmVwdXJwb3NlFS7iND4aCnJlIHB1cnBvc2UaB3JlY3ljbGUaC3JlcHVycG9zaW5nGgVyZXVzZRoOaXY7cDtyZXB1cnBvc2UqJwoEbGl2ZRUAAAAAGghicmVha2luZxoGbGF0ZXN0GghsaXZlbmV3cyoqCgRuZXdzFSC6vkAaCG5ld3NjYXN0GgluZXdzY2FzdHMaCGxpdmVuZXdzKpABCgpicm9hZGNhc3RzFQAAAAAaCWJyb2FkY2FzdBoMYnJvYWRjYXN0aW5nGghuZXdzY2FzdBoJbmV3c2Nhc3RzGghwcm9ncmFtcxoJcmVwb3J0aW5nGgdyZXBvcnRzGgVzaG93cxoGc3RyZWFtGgdzdHJlYW1zGg9pdjtwO2Jyb2FkY2FzdHMaCGNvdmVyYWdlKhcKBGludG8VSJOzPhoCaW4aAm9uGgJ0byoSCgVyZWVscxVT8aRAGgRyZWVsMsoBL2dvdG8_dXJsPUNBRVNpd0VCeENKRjE0RFBveXpmaFRzcFBSVmU2aEpHcUI4Q2ZpRWw3ZjFFUC1JQWM0X2tMSzFheUk1dV83QmdqSmliX21CcG1KQVQwTThtNDZ5alAzSENGVVFSZ2VSLU9tSEtqRFVTTUc2MGFsTVFtYjc2U1FVZnZtYm10b0Ewc1k2a1A2Z3ZlY25lN0Z2emZEVlZCWmZtQVNFd0dyRVFtX0lJM1czX2M1SngwXzlMUUthaWRpMk5LVHZkNTlHWDpIVGhlIDxiPlJlZWxzPC9iPiBzdHJhdGVneSBoZWxwaW5nIG9uZSBUViA8Yj5uZXdzPC9iPiBhbmNob3IgZ3JvdyBoZXIgLi4uQpoBPGI-SG93IHRvIHJlcHVycG9zZSBuZXdzY2FzdCBjb250ZW50IGZvciBSZWVsczwvYj4uIFRheWxvciBzYXlzIG9uZSBvZiB0aGUgZWFzaWVzdCB3YXlzIGZvciB0ZWxldmlzaW9uIGpvdXJuYWxpc3RzIHRvIGNyZWF0ZSBzb2NpYWwgY29udGVudCBpcyBieSZuYnNwOy4uLlICaW5SA2NhblIDYXJlUgJ0b1ICb25SBHdpbGwiAhABSABYAGgA",
+        "source": "David Arkin Consulting",
+        "read_more_link": "https://www.google.com/goto?url=CAES6wEBxCJF169elvZ_OJAwTf38kIg-uPOV6gmwC6SSJcqqTNEZjnSB_o0MR0a08Gn4N7VVfjfQqe45aaFeKOGI6YpJfPOLAu6X0b0yseTShPo-ERlLHzhn9CL8mAIno3_prbk8pxxgedTyey_pb0iaz9JIFnAsOVkVg2LiCBv_afCKDyt9Nk53ptPVwUizxPNNYZpkRVHNZ_x1ChAK6xyYY00WGex__J2RnJyW9g2M4--Emt2RViP-VYFCeBjLQiUatZbobFD0_SRcL0Dam8V4GrJZ0Zwq-jbjIDoHBVJ4b7JO9QQ1DAaxB7_PyuZW&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA"
+      },
+      {
+        "position": 8,
+        "title": "How can journalists use short-form videos to tell stories? Hear ...",
+        "link": "https://www.google.com/goto?url=CAESbgHEIkXXC7-wLAxs-e37jz3FXKYjDy831m66lgGfmF5HhE9I7CMMhT1kHUePz18cDo_pC_bSv8qeD0PmpCp8gQxMYFtL8BgscTDi0Jcc-yu8ZAtHjGJkDaur0fQA4VZxbXhjs_RqRk5wrL4kGFHF&gsessionid=bcAXtRI6pt_AfGslJAvhebDCc06BXLDa7ehKkhp_ztJZhReqvjcDJA",
+        "displayed_link": "210+ likes",
+        "date": "1 year ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f2bd391b389d7b8d5469/images/pYrfWy_MApIGtco60Vnyvt9iijIXuGPZhPIY6ZlXo30.jpg",
+        "favicon": "https://serpapi.com/searches/6b02f2bd391b389d7b8d5469/images/pYrfWy_MApIGtco60Vnyvm_Y1yp8bog2cD6tCF6gGMw.png",
+        "snippet": "How can journalists use short-form videos to tell stories? Hear from our new Nieman Storyboard editor, Mark Armstrong on why journalists are ...",
+        "duration": "1:03",
+        "about_this_result": {
+          "source": {
+            "description": "How can journalists use short-form videos to tell stories? Hear from our new Nieman Storyboard editor, Mark Armstrong on why journalists are ...",
+            "icon": "https://serpapi.com/searches/6b02f2bd391b389d7b8d5469/images/pYrfWy_MApIGtco60VnyvpdO_x81zZh_LDoNsu9_0l4ammPpZjtkZi_Wz-Mou04N.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hFSWtYWEM3LXdMQXhzLWUzN2p6M0ZYS1lqRHk4MzFtNjZsZ0dmbUY1SGhFOUk3Q01NaFQxa0hVZVB6MThjRG9fcENfYlN2OHFlRDBQbXBDcDhnUXhNWUZ0TDhCZ3NjVERpMEpjYy15dThaQXRIakdKa0RhdXIwZlFBNFZaeGJYaGpzX1JxUms1d3JMNGtHRkhGEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hFSWtYWEM3LXdMQXhzLWUzN2p6M0ZYS1lqRHk4MzFtNjZsZ0dmbUY1SGhFOUk3Q01NaFQxa0hVZVB6MThjRG9fcENfYlN2OHFlRDBQbXBDcDhnUXhNWUZ0TDhCZ3NjVERpMEpjYy15dThaQXRIakdKa0RhdXIwZlFBNFZaeGJYaGpzX1JxUms1d3JMNGtHRkhGEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "source": "Instagram \u00b7 niemanfoundation"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=How+do+media+houses+repurpose+live+news+broadcasts+into+reels?&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDjTAepe-fGti1c1Nw1dsRrdtMMEjg:1795355325787&ei=vfICa7bVL-OsqtsPk6GD-AQ&start=10&sa=N&sstk=AYl2yk807NaTha5rb3-eSNVFDz5Zs190C2xD8TmOZo6SCVMi4igIsYxYmgXyfx_NLT0VqmiE_U0ZfdGM806f3WUJEFaVabuemqAK_Q&ved=2ahUKEwj2p8Hj25uYAxVjlmoFHZPQAE8Q8NMDegQIPxAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=How+do+media+houses+repurpose+live+news+broadcasts+into+reels?&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDjTAepe-fGti1c1Nw1dsRrdtMMEjg:1795355325787&ei=vfICa7bVL-OsqtsPk6GD-AQ&start=10&sa=N&sstk=AYl2yk807NaTha5rb3-eSNVFDz5Zs190C2xD8TmOZo6SCVMi4igIsYxYmgXyfx_NLT0VqmiE_U0ZfdGM806f3WUJEFaVabuemqAK_Q&ved=2ahUKEwj2p8Hj25uYAxVjlmoFHZPQAE8Q8tMDegQIPxAE",
+        "3": "https://www.google.com/search?q=How+do+media+houses+repurpose+live+news+broadcasts+into+reels?&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDjTAepe-fGti1c1Nw1dsRrdtMMEjg:1795355325787&ei=vfICa7bVL-OsqtsPk6GD-AQ&start=20&sa=N&sstk=AYl2yk807NaTha5rb3-eSNVFDz5Zs190C2xD8TmOZo6SCVMi4igIsYxYmgXyfx_NLT0VqmiE_U0ZfdGM806f3WUJEFaVabuemqAK_Q&ved=2ahUKEwj2p8Hj25uYAxVjlmoFHZPQAE8Q8tMDegQIPxAG",
+        "4": "https://www.google.com/search?q=How+do+media+houses+repurpose+live+news+broadcasts+into+reels?&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDjTAepe-fGti1c1Nw1dsRrdtMMEjg:1795355325787&ei=vfICa7bVL-OsqtsPk6GD-AQ&start=30&sa=N&sstk=AYl2yk807NaTha5rb3-eSNVFDz5Zs190C2xD8TmOZo6SCVMi4igIsYxYmgXyfx_NLT0VqmiE_U0ZfdGM806f3WUJEFaVabuemqAK_Q&ved=2ahUKEwj2p8Hj25uYAxVjlmoFHZPQAE8Q8tMDegQIPxAI",
+        "5": "https://www.google.com/search?q=How+do+media+houses+repurpose+live+news+broadcasts+into+reels?&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDjTAepe-fGti1c1Nw1dsRrdtMMEjg:1795355325787&ei=vfICa7bVL-OsqtsPk6GD-AQ&start=40&sa=N&sstk=AYl2yk807NaTha5rb3-eSNVFDz5Zs190C2xD8TmOZo6SCVMi4igIsYxYmgXyfx_NLT0VqmiE_U0ZfdGM806f3WUJEFaVabuemqAK_Q&ved=2ahUKEwj2p8Hj25uYAxVjlmoFHZPQAE8Q8tMDegQIPxAK",
+        "6": "https://www.google.com/search?q=How+do+media+houses+repurpose+live+news+broadcasts+into+reels?&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDjTAepe-fGti1c1Nw1dsRrdtMMEjg:1795355325787&ei=vfICa7bVL-OsqtsPk6GD-AQ&start=50&sa=N&sstk=AYl2yk807NaTha5rb3-eSNVFDz5Zs190C2xD8TmOZo6SCVMi4igIsYxYmgXyfx_NLT0VqmiE_U0ZfdGM806f3WUJEFaVabuemqAK_Q&ved=2ahUKEwj2p8Hj25uYAxVjlmoFHZPQAE8Q8tMDegQIPxAM",
+        "7": "https://www.google.com/search?q=How+do+media+houses+repurpose+live+news+broadcasts+into+reels?&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDjTAepe-fGti1c1Nw1dsRrdtMMEjg:1795355325787&ei=vfICa7bVL-OsqtsPk6GD-AQ&start=60&sa=N&sstk=AYl2yk807NaTha5rb3-eSNVFDz5Zs190C2xD8TmOZo6SCVMi4igIsYxYmgXyfx_NLT0VqmiE_U0ZfdGM806f3WUJEFaVabuemqAK_Q&ved=2ahUKEwj2p8Hj25uYAxVjlmoFHZPQAE8Q8tMDegQIPxAO",
+        "8": "https://www.google.com/search?q=How+do+media+houses+repurpose+live+news+broadcasts+into+reels?&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDjTAepe-fGti1c1Nw1dsRrdtMMEjg:1795355325787&ei=vfICa7bVL-OsqtsPk6GD-AQ&start=70&sa=N&sstk=AYl2yk807NaTha5rb3-eSNVFDz5Zs190C2xD8TmOZo6SCVMi4igIsYxYmgXyfx_NLT0VqmiE_U0ZfdGM806f3WUJEFaVabuemqAK_Q&ved=2ahUKEwj2p8Hj25uYAxVjlmoFHZPQAE8Q8tMDegQIPxAQ",
+        "9": "https://www.google.com/search?q=How+do+media+houses+repurpose+live+news+broadcasts+into+reels?&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDjTAepe-fGti1c1Nw1dsRrdtMMEjg:1795355325787&ei=vfICa7bVL-OsqtsPk6GD-AQ&start=80&sa=N&sstk=AYl2yk807NaTha5rb3-eSNVFDz5Zs190C2xD8TmOZo6SCVMi4igIsYxYmgXyfx_NLT0VqmiE_U0ZfdGM806f3WUJEFaVabuemqAK_Q&ved=2ahUKEwj2p8Hj25uYAxVjlmoFHZPQAE8Q8tMDegQIPxAS",
+        "10": "https://www.google.com/search?q=How+do+media+houses+repurpose+live+news+broadcasts+into+reels?&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDjTAepe-fGti1c1Nw1dsRrdtMMEjg:1795355325787&ei=vfICa7bVL-OsqtsPk6GD-AQ&start=90&sa=N&sstk=AYl2yk807NaTha5rb3-eSNVFDz5Zs190C2xD8TmOZo6SCVMi4igIsYxYmgXyfx_NLT0VqmiE_U0ZfdGM806f3WUJEFaVabuemqAK_Q&ved=2ahUKEwj2p8Hj25uYAxVjlmoFHZPQAE8Q8tMDegQIPxAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+do+media+houses+repurpose+live+news+broadcasts+into+reels%3F&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+do+media+houses+repurpose+live+news+broadcasts+into+reels%3F&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+do+media+houses+repurpose+live+news+broadcasts+into+reels%3F&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+do+media+houses+repurpose+live+news+broadcasts+into+reels%3F&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+do+media+houses+repurpose+live+news+broadcasts+into+reels%3F&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+do+media+houses+repurpose+live+news+broadcasts+into+reels%3F&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+do+media+houses+repurpose+live+news+broadcasts+into+reels%3F&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+do+media+houses+repurpose+live+news+broadcasts+into+reels%3F&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+do+media+houses+repurpose+live+news+broadcasts+into+reels%3F&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+do+media+houses+repurpose+live+news+broadcasts+into+reels%3F&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+do+media+houses+repurpose+live+news+broadcasts+into+reels%3F&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

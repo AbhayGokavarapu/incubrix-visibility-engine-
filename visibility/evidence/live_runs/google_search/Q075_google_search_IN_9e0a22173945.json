@@ -1,0 +1,379 @@
+{
+  "measurement_id": "9e0a22173945",
+  "question_id": "Q075",
+  "timestamp_utc": "2026-11-22T13:49:57.337406+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "IncuBrix free trial features and export limits explained",
+  "market": "IN",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": true,
+  "competitors_mentioned": [],
+  "position": 1,
+  "citations": [
+    "https://incubrix.com/faq",
+    "https://incubrix.com/pricing",
+    "https://www.google.com/goto?url=CAESUgHEIkXXHI564RenVgNTdAsOXJdVGcNlIpjYWsEOeArKq8QDBFYhQKAUr_Sb1Vc4ZUD-EOETSyi-LcYN1MoAgiPcbf8gUDlx9nAoh8gccSDZSq0",
+    "https://www.google.com/goto?url=CAESpQEBxCJF1_VcC5EXuhvosZb76Hz95MnBVQyOJbjTFs9nBjjYq5kgY8RrcIQzKwU8VSdt68-3tyDbQvX3lt4JPzxvG5ltgPKfb0cWFnMXhX0_WHFFhXmHbmUcyLfJ5B_hxkTyEpHfdCCvvMe7Z07lIsmSNFUOACguc9ZfPdoykAAXAPB2IMmF0DZi-yCGc5OQFQvERZwdVMzBEreHmzERtdCZRnH-BHI",
+    "https://docs.cloud.google.com/free/docs/free-cloud-features",
+    "https://www.google.com/goto?url=CAESjAEBxCJF1yClmb1GWlccIuZqYGkeYeyXRYstK4rWRraWGyumWyQ7zGFO7rx_HeUGbTfkndILaI2EIyLpUeq3LvKTywtlDnXaaNSrLfzDyCdKQUwLtHMLtlJ4s-m_Tt0JED1-q_qU4FEmHZWDUodharw6xBA3eENoMW42dkk0qJyVT_UFu8ErFEQxTqGR3A",
+    "https://www.google.com/goto?url=CAEScwHEIkXX4Fcm8_52g-73wwVZBq3OLOTVX9FjrA5xBZ05oW_rFvN_eOO-tv469ReQmwyuLltl0W1S6ca1Kmu6mBdktg14HGeja7cthhJQDG0ksNoLJvxWeB28sy1XCPd_VB49m99lAus05EapQgnSyYuyZPk",
+    "https://www.google.com/goto?url=CAESXgHEIkXXZe-nVTx_YCR5Dez1tWq5V-s8pK2w3OuFjImPPrgDlRtunpptofyyCfc8tRxg4SDPxtIGTbqtqa42baqNjOrn-gLmo7RMNUmcQ-45_JqXCP9NHZM5UI3O7Oc",
+    "https://www.google.com/goto?url=CAESlwEBxCJF1xSZmWpmEwWznGTlzMQyIG6IxjayZUXkDSYD-NlWV3dZDaUjcH6xugowYZJowwJBvo9wFLzLSox7anLD98QviQQBP9w8Tu0yqPelSnPXoVGdAqIa3p8pfKgz0GObs_TGcFnDbScBbKoqUhlUB5hxGwhnCfhY0iD_2XeBG2HURO2WOKDAi7Lm6nGn-Q6A-42nmoPY"
+  ],
+  "raw_text_summary": "FAQ | IncuBrix | Frequently Asked Questions There's no time-limited trial. Instead, there's a permanent Free plan for exploring the platform. You can export all your content, analytics, and account data ... Pricing | IncuBrix Creator Studio Plans We do not offer free trials for paid plans. However, we offer a Free plan for exploring the platform. There are no monthly limits. limits provided in each plan ... IncuBrix | Create With Purpose. Publish Without Limits. IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform, then publishes and tracks it all from one screen. Comparing BioRender Basic and the Free Trial BioRender offers two ways to get started: BioRender Basic, a permanently free account. Permanent free account. No credit card required. Free Google Cloud features and trial offer The Free Trial gets you a $300 Welcome credit to spend over 90 days on various Google Cloud products and you won't be billed. \"Free Trials for AI Products: What Changes\" Most AI trials fall into four formats. Each controls cost in a different way. Which AI Trial Format Fits the Product?: Choose a time limit, ... How Does a Free Trial Work? 4 Trial Models & How to ... With free trials, teams discuss about length, credit cards, or models. Let's talk about the principles that make free trials convert users: How IncuBrix Works | From Idea to Impact Input your idea or content and let the platform transform it into multiple formats (original or enhanced) while preserving your unique voice and perspective ... How to Optimize Your Free Trial Length: A Data-Driven ... Learn why your free trial length matters, get real trial length benchmarks and explore strategy optimizations to apply to your app.",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f302136b1a826838f8fa",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/1clhNi4E2QZO8nMx3cxpslSS3AGRWFNP6GRcaDSkJx0/6b02f302136b1a826838f8fa.json",
+      "markdown_endpoint": "https://serpapi.com/searches/1clhNi4E2QZO8nMx3cxpslSS3AGRWFNP6GRcaDSkJx0/6b02f302136b1a826838f8fa.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/1clhNi4E2QZO8nMx3cxpslSS3AGRWFNP6GRcaDSkJx0/6b02f302136b1a826838f8fa.json_with_pixel_position",
+      "created_at": "2026-11-22 13:49:54 UTC",
+      "processed_at": "2026-11-22 13:49:54 UTC",
+      "google_url": "https://www.google.com/search?q=IncuBrix+free+trial+features+and+export+limits+explained&oq=IncuBrix+free+trial+features+and+export+limits+explained&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/1clhNi4E2QZO8nMx3cxpslSS3AGRWFNP6GRcaDSkJx0/6b02f302136b1a826838f8fa.html",
+      "total_time_taken": 1.39
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "IncuBrix free trial features and export limits explained",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "in",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "IncuBrix free trial features and export limits explained",
+      "total_results": 356,
+      "time_taken_displayed": 0.2,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "ai_overview": {
+      "page_token": "MQM4yniczVbbbuI4GJbmel9jc0Mh4dRCpWjknCCcTUtHcBOZJCQhJ4hDA1zOs-zVPsw-wL7GvMA4IWkTCm1ntdLuL2HH9n_2__nn-x-O5dl__7Y0w3CD72k6iqKK4fuGo1dU36URPngqvfIdHKjmV-zvAlVnVTPwXb3iLynTYXWPOm1bWnpAGQ5redThma1TKmYZSrdYoAx5dHvoDnd11Bz5k1Z7ObShTCX6WWWJsL4m5vdrTCs0Gezf6wJZVHBF95QOV5HuLODog6rXtCs1plavjGnkEh7wHxMHZINMNgDGu2zwswqhCYAI-HN58TTn9ocgtikDXj6dXLP_ECuNJXkuXsaKxmC1ntgd8jXKuGbyB37xBZ--pW6dJvvc3U9QKhpHUNh4jy4kMclL_3XNn59dok7xhJsLQIhy6t-EY716dxKdxUMEpMZkCCCEVy1lRFT354BxwAd1knk0a_ceQiLF0ZpBqpyhlwGZqrSlmmryEeC4-PnHNuN30Ki3Vaq3ii4w7pofTFTolGt3UkvsAVpdEj7HR5quKabCfE3W1Vq1ybTrd62bBHgqfkEeziMv8DETeq1hOWQqgwpXzTBXjPY8WVCWwaViMjgjS0WRXhTA_EUmaciNMdkFy1I6m4AzIBEuHMK-OMgzEbgIJF8tI5_-Vwn-HcydxwFkEfipglm6BYrVBudAfLhkJ6bxRbVxHInVorFOZlPKHI_Sk7eYmwIZJulNU1x4HDnyQnAkwTB-KfpEPOSNhFduxP5lNwZFkYQnXi5SXrwQDuBznhA5MeaKgCECeyeLvGyl2yAxYhgnSxw0XtQkIfNvUZca44FkXjz6FImfeVhOXmQgO8NMHmvSU0-ajvbgeTDajNVjty0_ovFyi6GH4GVs-e7y19qa-v8HYNr0nLTyrwIwtvQpAELzPQC-bXoifwIgb18B4MMJgJeb3iTjOmt6bwHIAysHwLTp7dNc_BsA5D4GYP668gB8vaoCAMVrAOyIRQDO12LW9C4DMG16rwD8p02P-_Wml-BQP03FDrhbG9c74XD99DST563yFm5wYzpoGuWj05o2jqvow064csN7F2nOjWJp91ytFx60G4Vs-Pe6Rm1Z2VN3XGDtS6tA10thYCGntNJRuAt0XEKeVtL3Gz8IS47lWiGOVw6yPCLqOoHPMqhxKI8fR12xsfYWq3b5-Czs5prg4nB36IXPT_JGNsuw351N8XaxC2ALYS6oTfpPkr7Zmz1_P1LUjrjfNryBY02-DY_ozu-EUmtUE3qet4i65b21QNJBkNrT7WrRMNB0emx3mgtRCwS7ie3b7aHctqUo8Qezyq3wsAfaUKm3KBIk1tkq5QYqS2qgYYARjP_hIcBFoJcULTfdknlAKmLpcwB25wAKBvn55LoorCJFx8-setusq02GURFa3a30FeUa4WHDNhoU9gK2-qcakHyR7KPwL_vLjy8_AYO3ilM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=MQM4yniczVbbbuI4GJbmel9jc0Mh4dRCpWjknCCcTUtHcBOZJCQhJ4hDA1zOs-zVPsw-wL7GvMA4IWkTCm1ntdLuL2HH9n_2__nn-x-O5dl__7Y0w3CD72k6iqKK4fuGo1dU36URPngqvfIdHKjmV-zvAlVnVTPwXb3iLynTYXWPOm1bWnpAGQ5redThma1TKmYZSrdYoAx5dHvoDnd11Bz5k1Z7ObShTCX6WWWJsL4m5vdrTCs0Gezf6wJZVHBF95QOV5HuLODog6rXtCs1plavjGnkEh7wHxMHZINMNgDGu2zwswqhCYAI-HN58TTn9ocgtikDXj6dXLP_ECuNJXkuXsaKxmC1ntgd8jXKuGbyB37xBZ--pW6dJvvc3U9QKhpHUNh4jy4kMclL_3XNn59dok7xhJsLQIhy6t-EY716dxKdxUMEpMZkCCCEVy1lRFT354BxwAd1knk0a_ceQiLF0ZpBqpyhlwGZqrSlmmryEeC4-PnHNuN30Ki3Vaq3ii4w7pofTFTolGt3UkvsAVpdEj7HR5quKabCfE3W1Vq1ybTrd62bBHgqfkEeziMv8DETeq1hOWQqgwpXzTBXjPY8WVCWwaViMjgjS0WRXhTA_EUmaciNMdkFy1I6m4AzIBEuHMK-OMgzEbgIJF8tI5_-Vwn-HcydxwFkEfipglm6BYrVBudAfLhkJ6bxRbVxHInVorFOZlPKHI_Sk7eYmwIZJulNU1x4HDnyQnAkwTB-KfpEPOSNhFduxP5lNwZFkYQnXi5SXrwQDuBznhA5MeaKgCECeyeLvGyl2yAxYhgnSxw0XtQkIfNvUZca44FkXjz6FImfeVhOXmQgO8NMHmvSU0-ajvbgeTDajNVjty0_ovFyi6GH4GVs-e7y19qa-v8HYNr0nLTyrwIwtvQpAELzPQC-bXoifwIgb18B4MMJgJeb3iTjOmt6bwHIAysHwLTp7dNc_BsA5D4GYP668gB8vaoCAMVrAOyIRQDO12LW9C4DMG16rwD8p02P-_Wml-BQP03FDrhbG9c74XD99DST563yFm5wYzpoGuWj05o2jqvow064csN7F2nOjWJp91ytFx60G4Vs-Pe6Rm1Z2VN3XGDtS6tA10thYCGntNJRuAt0XEKeVtL3Gz8IS47lWiGOVw6yPCLqOoHPMqhxKI8fR12xsfYWq3b5-Czs5prg4nB36IXPT_JGNsuw351N8XaxC2ALYS6oTfpPkr7Zmz1_P1LUjrjfNryBY02-DY_ozu-EUmtUE3qet4i65b21QNJBkNrT7WrRMNB0emx3mgtRCwS7ie3b7aHctqUo8Qezyq3wsAfaUKm3KBIk1tkq5QYqS2qgYYARjP_hIcBFoJcULTfdknlAKmLpcwB25wAKBvn55LoorCJFx8-setusq02GURFa3a30FeUa4WHDNhoU9gK2-qcakHyR7KPwL_vLjy8_AYO3ilM"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "FAQ | IncuBrix | Frequently Asked Questions",
+        "link": "https://incubrix.com/faq",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVQHEIkXXzjV1NU0BPkqZB6610dngUWjVYdXBfo6qYKNDWE3lu3PT1wZ0PpPdNMo-DEBHANhqOjlj0yi0UkqIXClLXHRNF5z0vG8d9cIzOTI0OQ1kR5M&ved=2ahUKEwjslPSE3JuYAxVtLVkFHXMrMyIQFnoECBcQAQ&uoh=1",
+        "displayed_link": "https://incubrix.com \u203a faq",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAwFBMVEUMFjoNFTsOETgMFjsKDDYZP1cGADERHkFL8eRQ__xDz8otiIxR__hO_-8YR1gVOlJJ6N8MCDYLFzknf4UJFz4LDi8MDCkMBiIAACcAABkHACwKJlkLZ9kIb-YIQ5Q9wr9P__Ewm54Af_8Bev0OM3IAff8Aev8AX9Iwi5oAVcIrc3gGXMI4q6oZQ1cEXcJE490jYG8AACELADURKUcAABAXNVA4r6UESqosjIkKVrQKLmYOBCckaHUWW34acqYURGOXfEyzAAABIklEQVR4AYSSVWLEIBBAByaNTlbja2xYd63L_W9V2t8y6UvwhwN_EFIgNOA4D64AHun5QegCjxtRHLQcXpBtok7XMgear4cm7bb7ngQLSZrlKUAPirICG2IwHI1zgGqipjYDs1Gt69Es7weK2pY5enK-WCx0vVyRIususoX-NdYb32zTcpapaTfMt3l3t68ELxwyUR6jwuVHyERxpOPp7GCDoBSF7Uo0CbGivit4IY5j5Vfwj1Bgg6DIP3V7vKDU9OIiMwWabU6uFSAnOOWkVUj-oG73cO_aLksbY67rwyNZ3ySmc73Qev70HMRkFfJhPZ8fkjIiRujhy_b1DdyIezAJpGmK4L4HpO7S_ux_IlF9fH51oQHhDCQCD5pP9OB7JAAAP88opKC7C0YAAAAASUVORK5CYII.png",
+        "snippet": "There's no time-limited trial. Instead, there's a permanent Free plan for exploring the platform. You can export all your content, analytics, and account data ...",
+        "snippet_highlighted_words": [
+          "There's no time-limited trial"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "There's no time-limited trial. Instead, there's a permanent Free plan for exploring the platform. You can export all your content, analytics, and account data ...",
+            "source_info_link": "https://incubrix.com/faq",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAwFBMVEUMFjoNFTsOETgMFjsKDDYZP1cGADERHkFL8eRQ__xDz8otiIxR__hO_-8YR1gVOlJJ6N8MCDYLFzknf4UJFz4LDi8MDCkMBiIAACcAABkHACwKJlkLZ9kIb-YIQ5Q9wr9P__Ewm54Af_8Bev0OM3IAff8Aev8AX9Iwi5oAVcIrc3gGXMI4q6oZQ1cEXcJE490jYG8AACELADURKUcAABAXNVA4r6UESqosjIkKVrQKLmYOBCckaHUWW34acqYURGOXfEyzAAABIklEQVR4AYSSVWLEIBBAByaNTlbja2xYd63L_W9V2t8y6UvwhwN_EFIgNOA4D64AHun5QegCjxtRHLQcXpBtok7XMgear4cm7bb7ngQLSZrlKUAPirICG2IwHI1zgGqipjYDs1Gt69Es7weK2pY5enK-WCx0vVyRIususoX-NdYb32zTcpapaTfMt3l3t68ELxwyUR6jwuVHyERxpOPp7GCDoBSF7Uo0CbGivit4IY5j5Vfwj1Bgg6DIP3V7vKDU9OIiMwWabU6uFSAnOOWkVUj-oG73cO_aLksbY67rwyNZ3ySmc73Qev70HMRkFfJhPZ8fkjIiRujhy_b1DdyIezAJpGmK4L4HpO7S_ux_IlF9fH51oQHhDCQCD5pP9OB7JAAAP88opKC7C0YAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoEBL2dvdG8_dXJsPUNBRVNWUUhFSWtYWEFDckQ4UE9RUzRUa0stZVZBV1dXRDZ4aXN2aV96bHZ3MXZObVIwX241ZTg3SnBQMGRQVzRaT1pFZXFFYkpXZjJlX0YzR0pzZjBVYldMYTR6aUgwVnJlcENid0ZGRmNWR2pmb1dmSzNtOTkwEgQaAggAGt0GEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaEAgBEgxpbmN1YnJpeC5jb21yAHoAgkCpBggAEAAYACAAKj8KCGluY3Vicml4FUHVDkEaCWluIGN1YnJpeBoJaW5jdSBicml4GglpbmN1YiByaXgaDWl2O3A7aW5jdWJyaXgqFgoEZnJlZRWlwoo_GglmcmVldHJpYWwqHQoFdHJpYWwVDV9CPxoEZGVtbxoJZnJlZXRyaWFsKhgKCGZlYXR1cmVzFRwzTT4aB2ZlYXR1cmUqCgoDYW5kFQAAAAAqRQoGZXhwb3J0FVNe-j0aC2V4cG9ydGF0aW9uGghleHBvcnRlZBoJZXhwb3J0aW5nGgdleHBvcnRzGgtpdjtwO2V4cG9ydCpQCgZsaW1pdHMVAAAAABoKYm91bmRhcmllcxoFbGltaXQaCmxpbWl0YXRpb24aC2xpbWl0YXRpb25zGgxyZXN0cmljdGlvbnMaB21heGltdW0qcgoJZXhwbGFpbmVkFQAAAAAaCGFuYWx5c2lzGgdkZWZpbmVkGgpkZWZpbml0aW9uGgdleHBsYWluGgpleHBsYWluaW5nGgtleHBsYW5hdGlvbhoHbWVhbmluZxoHc3VtbWFyeRoNdW5kZXJzdGFuZGluZzKBAS9nb3RvP3VybD1DQUVTVlFIRUlrWFhBQ3JEOFBPUVM0VGtLLWVWQVdXV0Q2eGlzdmlfemx2dzF2Tm1SMF9uNWU4N0pwUDBkUFc0Wk9aRWVxRWJKV2YyZV9GM0dKc2YwVWJXTGE0emlIMFZyZXBDYndGRkZjVkdqZm9XZkszbTk5MDoyRkFRIHwgPGI-SW5jdUJyaXg8L2I-IHwgRnJlcXVlbnRseSBBc2tlZCBRdWVzdGlvbnNCtgE8Yj5UaGVyZSYjMzk7cyBubyB0aW1lLWxpbWl0ZWQgdHJpYWw8L2I-LiBJbnN0ZWFkLCB0aGVyZSYjMzk7cyBhIHBlcm1hbmVudCBGcmVlIHBsYW4gZm9yIGV4cGxvcmluZyB0aGUgcGxhdGZvcm0uIFlvdSBjYW4gZXhwb3J0IGFsbCB5b3VyIGNvbnRlbnQsIGFuYWx5dGljcywgYW5kIGFjY291bnQgZGF0YSZuYnNwOy4uLkoDYW5kIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoEBL2dvdG8_dXJsPUNBRVNWUUhFSWtYWEFDckQ4UE9RUzRUa0stZVZBV1dXRDZ4aXN2aV96bHZ3MXZObVIwX241ZTg3SnBQMGRQVzRaT1pFZXFFYkpXZjJlX0YzR0pzZjBVYldMYTR6aUgwVnJlcENid0ZGRmNWR2pmb1dmSzNtOTkwEgQaAggAGt0GEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaEAgBEgxpbmN1YnJpeC5jb21yAHoAgkCpBggAEAAYACAAKj8KCGluY3Vicml4FUHVDkEaCWluIGN1YnJpeBoJaW5jdSBicml4GglpbmN1YiByaXgaDWl2O3A7aW5jdWJyaXgqFgoEZnJlZRWlwoo_GglmcmVldHJpYWwqHQoFdHJpYWwVDV9CPxoEZGVtbxoJZnJlZXRyaWFsKhgKCGZlYXR1cmVzFRwzTT4aB2ZlYXR1cmUqCgoDYW5kFQAAAAAqRQoGZXhwb3J0FVNe-j0aC2V4cG9ydGF0aW9uGghleHBvcnRlZBoJZXhwb3J0aW5nGgdleHBvcnRzGgtpdjtwO2V4cG9ydCpQCgZsaW1pdHMVAAAAABoKYm91bmRhcmllcxoFbGltaXQaCmxpbWl0YXRpb24aC2xpbWl0YXRpb25zGgxyZXN0cmljdGlvbnMaB21heGltdW0qcgoJZXhwbGFpbmVkFQAAAAAaCGFuYWx5c2lzGgdkZWZpbmVkGgpkZWZpbml0aW9uGgdleHBsYWluGgpleHBsYWluaW5nGgtleHBsYW5hdGlvbhoHbWVhbmluZxoHc3VtbWFyeRoNdW5kZXJzdGFuZGluZzKBAS9nb3RvP3VybD1DQUVTVlFIRUlrWFhBQ3JEOFBPUVM0VGtLLWVWQVdXV0Q2eGlzdmlfemx2dzF2Tm1SMF9uNWU4N0pwUDBkUFc0Wk9aRWVxRWJKV2YyZV9GM0dKc2YwVWJXTGE0emlIMFZyZXBDYndGRkZjVkdqZm9XZkszbTk5MDoyRkFRIHwgPGI-SW5jdUJyaXg8L2I-IHwgRnJlcXVlbnRseSBBc2tlZCBRdWVzdGlvbnNCtgE8Yj5UaGVyZSYjMzk7cyBubyB0aW1lLWxpbWl0ZWQgdHJpYWw8L2I-LiBJbnN0ZWFkLCB0aGVyZSYjMzk7cyBhIHBlcm1hbmVudCBGcmVlIHBsYW4gZm9yIGV4cGxvcmluZyB0aGUgcGxhdGZvcm0uIFlvdSBjYW4gZXhwb3J0IGFsbCB5b3VyIGNvbnRlbnQsIGFuYWx5dGljcywgYW5kIGFjY291bnQgZGF0YSZuYnNwOy4uLkoDYW5kIgIQAUgAWABoAA",
+        "source": "IncuBrix"
+      },
+      {
+        "position": 2,
+        "title": "Pricing | IncuBrix Creator Studio Plans",
+        "link": "https://incubrix.com/pricing",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWQHEIkXX9B7dHcnvQYmDFFLHF15sjE0mkennhyIjRX2K5t3_kmu9IYhWpEY80vC42LVGgeu2tos_iVg1HVz2C7Gsqa6Oi05N1gkOag5_6na0Qt_YGOlfh4Wh&ved=2ahUKEwjslPSE3JuYAxVtLVkFHXMrMyIQFnoECBIQAQ&uoh=1",
+        "displayed_link": "https://incubrix.com \u203a pricing",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAwFBMVEUMFjoNFTsOETgMFjsKDDYZP1cGADERHkFL8eRQ__xDz8otiIxR__hO_-8YR1gVOlJJ6N8MCDYLFzknf4UJFz4LDi8MDCkMBiIAACcAABkHACwKJlkLZ9kIb-YIQ5Q9wr9P__Ewm54Af_8Bev0OM3IAff8Aev8AX9Iwi5oAVcIrc3gGXMI4q6oZQ1cEXcJE490jYG8AACELADURKUcAABAXNVA4r6UESqosjIkKVrQKLmYOBCckaHUWW34acqYURGOXfEyzAAABIklEQVR4AYSSVWLEIBBAByaNTlbja2xYd63L_W9V2t8y6UvwhwN_EFIgNOA4D64AHun5QegCjxtRHLQcXpBtok7XMgear4cm7bb7ngQLSZrlKUAPirICG2IwHI1zgGqipjYDs1Gt69Es7weK2pY5enK-WCx0vVyRIususoX-NdYb32zTcpapaTfMt3l3t68ELxwyUR6jwuVHyERxpOPp7GCDoBSF7Uo0CbGivit4IY5j5Vfwj1Bgg6DIP3V7vKDU9OIiMwWabU6uFSAnOOWkVUj-oG73cO_aLksbY67rwyNZ3ySmc73Qev70HMRkFfJhPZ8fkjIiRujhy_b1DdyIezAJpGmK4L4HpO7S_ux_IlF9fH51oQHhDCQCD5pP9OB7JAAAP88opKC7C0YAAAAASUVORK5CYII.png",
+        "snippet": "We do not offer free trials for paid plans. However, we offer a Free plan for exploring the platform. There are no monthly limits. limits provided in each plan ...",
+        "snippet_highlighted_words": [
+          "free",
+          "Free",
+          "limits",
+          "limits"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "We do not offer free trials for paid plans. However, we offer a Free plan for exploring the platform. There are no monthly limits. limits provided in each plan ...",
+            "source_info_link": "https://incubrix.com/pricing",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAwFBMVEUMFjoNFTsOETgMFjsKDDYZP1cGADERHkFL8eRQ__xDz8otiIxR__hO_-8YR1gVOlJJ6N8MCDYLFzknf4UJFz4LDi8MDCkMBiIAACcAABkHACwKJlkLZ9kIb-YIQ5Q9wr9P__Ewm54Af_8Bev0OM3IAff8Aev8AX9Iwi5oAVcIrc3gGXMI4q6oZQ1cEXcJE490jYG8AACELADURKUcAABAXNVA4r6UESqosjIkKVrQKLmYOBCckaHUWW34acqYURGOXfEyzAAABIklEQVR4AYSSVWLEIBBAByaNTlbja2xYd63L_W9V2t8y6UvwhwN_EFIgNOA4D64AHun5QegCjxtRHLQcXpBtok7XMgear4cm7bb7ngQLSZrlKUAPirICG2IwHI1zgGqipjYDs1Gt69Es7weK2pY5enK-WCx0vVyRIususoX-NdYb32zTcpapaTfMt3l3t68ELxwyUR6jwuVHyERxpOPp7GCDoBSF7Uo0CbGivit4IY5j5Vfwj1Bgg6DIP3V7vKDU9OIiMwWabU6uFSAnOOWkVUj-oG73cO_aLksbY67rwyNZ3ySmc73Qev70HMRkFfJhPZ8fkjIiRujhy_b1DdyIezAJpGmK4L4HpO7S_ux_IlF9fH51oQHhDCQCD5pP9OB7JAAAP88opKC7C0YAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoYBL2dvdG8_dXJsPUNBRVNXUUhFSWtYWGVwQmRtend5RGp1Vm1IM1l0YU52NlJuNGxWQUFsNFZncjd4ZXVVb1FNNTAzYjNHc3FtSTludGtveTB1eVplaWl0U1NPaERtTFJlbWFaYi00QUxHZ1lEQ3RtNEN0T3lTY1MtYVJGN3NaZ3RuRmN2V1ESBBoCCAAa7AYSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoQCAESDGluY3Vicml4LmNvbXIAegCCQLgGCAAQABgAIAAqPwoIaW5jdWJyaXgVjIv9QBoJaW4gY3Vicml4GglpbmN1IGJyaXgaCWluY3ViIHJpeBoNaXY7cDtpbmN1YnJpeCoWCgRmcmVlFQTvuT8aCWZyZWV0cmlhbCodCgV0cmlhbBXjTyg_GgRkZW1vGglmcmVldHJpYWwqGAoIZmVhdHVyZXMVAAAAABoHZmVhdHVyZSoKCgNhbmQVAAAAACpFCgZleHBvcnQVAAAAABoLZXhwb3J0YXRpb24aCGV4cG9ydGVkGglleHBvcnRpbmcaB2V4cG9ydHMaC2l2O3A7ZXhwb3J0KlAKBmxpbWl0cxVHZvo-Ggpib3VuZGFyaWVzGgVsaW1pdBoKbGltaXRhdGlvbhoLbGltaXRhdGlvbnMaDHJlc3RyaWN0aW9ucxoHbWF4aW11bSpyCglleHBsYWluZWQVAAAAABoIYW5hbHlzaXMaB2RlZmluZWQaCmRlZmluaXRpb24aB2V4cGxhaW4aCmV4cGxhaW5pbmcaC2V4cGxhbmF0aW9uGgdtZWFuaW5nGgdzdW1tYXJ5Gg11bmRlcnN0YW5kaW5nMoYBL2dvdG8_dXJsPUNBRVNXUUhFSWtYWGVwQmRtend5RGp1Vm1IM1l0YU52NlJuNGxWQUFsNFZncjd4ZXVVb1FNNTAzYjNHc3FtSTludGtveTB1eVplaWl0U1NPaERtTFJlbWFaYi00QUxHZ1lEQ3RtNEN0T3lTY1MtYVJGN3NaZ3RuRmN2V1E6LlByaWNpbmcgfCA8Yj5JbmN1QnJpeDwvYj4gQ3JlYXRvciBTdHVkaW8gUGxhbnNCxAFXZSBkbyBub3Qgb2ZmZXIgPGI-ZnJlZTwvYj4gdHJpYWxzIGZvciBwYWlkIHBsYW5zLiBIb3dldmVyLCB3ZSBvZmZlciBhIDxiPkZyZWU8L2I-IHBsYW4gZm9yIGV4cGxvcmluZyB0aGUgcGxhdGZvcm0uIFRoZXJlIGFyZSBubyBtb250aGx5IDxiPmxpbWl0czwvYj4uIDxiPmxpbWl0czwvYj4gcHJvdmlkZWQgaW4gZWFjaCBwbGFuJm5ic3A7Li4uSgNhbmQiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoYBL2dvdG8_dXJsPUNBRVNXUUhFSWtYWGVwQmRtend5RGp1Vm1IM1l0YU52NlJuNGxWQUFsNFZncjd4ZXVVb1FNNTAzYjNHc3FtSTludGtveTB1eVplaWl0U1NPaERtTFJlbWFaYi00QUxHZ1lEQ3RtNEN0T3lTY1MtYVJGN3NaZ3RuRmN2V1ESBBoCCAAa7AYSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoQCAESDGluY3Vicml4LmNvbXIAegCCQLgGCAAQABgAIAAqPwoIaW5jdWJyaXgVjIv9QBoJaW4gY3Vicml4GglpbmN1IGJyaXgaCWluY3ViIHJpeBoNaXY7cDtpbmN1YnJpeCoWCgRmcmVlFQTvuT8aCWZyZWV0cmlhbCodCgV0cmlhbBXjTyg_GgRkZW1vGglmcmVldHJpYWwqGAoIZmVhdHVyZXMVAAAAABoHZmVhdHVyZSoKCgNhbmQVAAAAACpFCgZleHBvcnQVAAAAABoLZXhwb3J0YXRpb24aCGV4cG9ydGVkGglleHBvcnRpbmcaB2V4cG9ydHMaC2l2O3A7ZXhwb3J0KlAKBmxpbWl0cxVHZvo-Ggpib3VuZGFyaWVzGgVsaW1pdBoKbGltaXRhdGlvbhoLbGltaXRhdGlvbnMaDHJlc3RyaWN0aW9ucxoHbWF4aW11bSpyCglleHBsYWluZWQVAAAAABoIYW5hbHlzaXMaB2RlZmluZWQaCmRlZmluaXRpb24aB2V4cGxhaW4aCmV4cGxhaW5pbmcaC2V4cGxhbmF0aW9uGgdtZWFuaW5nGgdzdW1tYXJ5Gg11bmRlcnN0YW5kaW5nMoYBL2dvdG8_dXJsPUNBRVNXUUhFSWtYWGVwQmRtend5RGp1Vm1IM1l0YU52NlJuNGxWQUFsNFZncjd4ZXVVb1FNNTAzYjNHc3FtSTludGtveTB1eVplaWl0U1NPaERtTFJlbWFaYi00QUxHZ1lEQ3RtNEN0T3lTY1MtYVJGN3NaZ3RuRmN2V1E6LlByaWNpbmcgfCA8Yj5JbmN1QnJpeDwvYj4gQ3JlYXRvciBTdHVkaW8gUGxhbnNCxAFXZSBkbyBub3Qgb2ZmZXIgPGI-ZnJlZTwvYj4gdHJpYWxzIGZvciBwYWlkIHBsYW5zLiBIb3dldmVyLCB3ZSBvZmZlciBhIDxiPkZyZWU8L2I-IHBsYW4gZm9yIGV4cGxvcmluZyB0aGUgcGxhdGZvcm0uIFRoZXJlIGFyZSBubyBtb250aGx5IDxiPmxpbWl0czwvYj4uIDxiPmxpbWl0czwvYj4gcHJvdmlkZWQgaW4gZWFjaCBwbGFuJm5ic3A7Li4uSgNhbmQiAhABSABYAGgA",
+        "source": "IncuBrix"
+      },
+      {
+        "position": 3,
+        "title": "IncuBrix | Create With Purpose. Publish Without Limits.",
+        "link": "https://www.google.com/goto?url=CAESUgHEIkXXHI564RenVgNTdAsOXJdVGcNlIpjYWsEOeArKq8QDBFYhQKAUr_Sb1Vc4ZUD-EOETSyi-LcYN1MoAgiPcbf8gUDlx9nAoh8gccSDZSq0",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUgHEIkXXkJ6QHajtzOxi7VagqebNgMHX-2llrbn8ncyg52ZQO6JbviEVH4tHFHs2FWj9ZVygxFXvDlILH5NgaQaR_UmI2LZF9f1BvhsHZhKM41Q&ved=2ahUKEwjslPSE3JuYAxVtLVkFHXMrMyIQFnoECBQQAQ&uoh=1",
+        "displayed_link": "https://incubrix.com",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAwFBMVEUMFjoNFTsOETgMFjsKDDYZP1cGADERHkFL8eRQ__xDz8otiIxR__hO_-8YR1gVOlJJ6N8MCDYLFzknf4UJFz4LDi8MDCkMBiIAACcAABkHACwKJlkLZ9kIb-YIQ5Q9wr9P__Ewm54Af_8Bev0OM3IAff8Aev8AX9Iwi5oAVcIrc3gGXMI4q6oZQ1cEXcJE490jYG8AACELADURKUcAABAXNVA4r6UESqosjIkKVrQKLmYOBCckaHUWW34acqYURGOXfEyzAAABIklEQVR4AYSSVWLEIBBAByaNTlbja2xYd63L_W9V2t8y6UvwhwN_EFIgNOA4D64AHun5QegCjxtRHLQcXpBtok7XMgear4cm7bb7ngQLSZrlKUAPirICG2IwHI1zgGqipjYDs1Gt69Es7weK2pY5enK-WCx0vVyRIususoX-NdYb32zTcpapaTfMt3l3t68ELxwyUR6jwuVHyERxpOPp7GCDoBSF7Uo0CbGivit4IY5j5Vfwj1Bgg6DIP3V7vKDU9OIiMwWabU6uFSAnOOWkVUj-oG73cO_aLksbY67rwyNZ3ySmc73Qev70HMRkFfJhPZ8fkjIiRujhy_b1DdyIezAJpGmK4L4HpO7S_ux_IlF9fH51oQHhDCQCD5pP9OB7JAAAP88opKC7C0YAAAAASUVORK5CYII.png",
+        "snippet": "IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform, then publishes and tracks it all from one screen.",
+        "snippet_highlighted_words": [
+          "IncuBrix turns one content into clips, captions, voiceovers, and posts"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "IncuBrix turns one content into clips, captions, voiceovers, and posts for every platform, then publishes and tracks it all from one screen.",
+            "source_info_link": "https://www.google.com/goto?url=CAESUgHEIkXXHI564RenVgNTdAsOXJdVGcNlIpjYWsEOeArKq8QDBFYhQKAUr_Sb1Vc4ZUD-EOETSyi-LcYN1MoAgiPcbf8gUDlx9nAoh8gccSDZSq0",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAwFBMVEUMFjoNFTsOETgMFjsKDDYZP1cGADERHkFL8eRQ__xDz8otiIxR__hO_-8YR1gVOlJJ6N8MCDYLFzknf4UJFz4LDi8MDCkMBiIAACcAABkHACwKJlkLZ9kIb-YIQ5Q9wr9P__Ewm54Af_8Bev0OM3IAff8Aev8AX9Iwi5oAVcIrc3gGXMI4q6oZQ1cEXcJE490jYG8AACELADURKUcAABAXNVA4r6UESqosjIkKVrQKLmYOBCckaHUWW34acqYURGOXfEyzAAABIklEQVR4AYSSVWLEIBBAByaNTlbja2xYd63L_W9V2t8y6UvwhwN_EFIgNOA4D64AHun5QegCjxtRHLQcXpBtok7XMgear4cm7bb7ngQLSZrlKUAPirICG2IwHI1zgGqipjYDs1Gt69Es7weK2pY5enK-WCx0vVyRIususoX-NdYb32zTcpapaTfMt3l3t68ELxwyUR6jwuVHyERxpOPp7GCDoBSF7Uo0CbGivit4IY5j5Vfwj1Bgg6DIP3V7vKDU9OIiMwWabU6uFSAnOOWkVUj-oG73cO_aLksbY67rwyNZ3ySmc73Qev70HMRkFfJhPZ8fkjIiRujhy_b1DdyIezAJpGmK4L4HpO7S_ux_IlF9fH51oQHhDCQCD5pP9OB7JAAAP88opKC7C0YAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cn0vZ290bz91cmw9Q0FFU1VnSEVJa1hYSEk1NjRSZW5WZ05UZEFzT1hKZFZHY05sSXBqWVdzRU9lQXJLcThRREJGWWhRS0FVcl9TYjFWYzRaVUQtRU9FVFN5aS1MY1lOMU1vQWdpUGNiZjhnVURseDluQW9oOGdjY1NEWlNxMBIEGgIIABrKBhICCAAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaEAgBEgxpbmN1YnJpeC5jb21yAHoAgkCUBggAEAAYACAAKj8KCGluY3Vicml4FfwEBkEaCWluIGN1YnJpeBoJaW5jdSBicml4GglpbmN1YiByaXgaDWl2O3A7aW5jdWJyaXgqFgoEZnJlZRVv5x8_GglmcmVldHJpYWwqHQoFdHJpYWwVAAAAABoEZGVtbxoJZnJlZXRyaWFsKhgKCGZlYXR1cmVzFQAAAAAaB2ZlYXR1cmUqCgoDYW5kFQAAAAAqRQoGZXhwb3J0FYyGNz0aC2V4cG9ydGF0aW9uGghleHBvcnRlZBoJZXhwb3J0aW5nGgdleHBvcnRzGgtpdjtwO2V4cG9ydCpQCgZsaW1pdHMVwq4JQBoKYm91bmRhcmllcxoFbGltaXQaCmxpbWl0YXRpb24aC2xpbWl0YXRpb25zGgxyZXN0cmljdGlvbnMaB21heGltdW0qcgoJZXhwbGFpbmVkFQAAAAAaCGFuYWx5c2lzGgdkZWZpbmVkGgpkZWZpbml0aW9uGgdleHBsYWluGgpleHBsYWluaW5nGgtleHBsYW5hdGlvbhoHbWVhbmluZxoHc3VtbWFyeRoNdW5kZXJzdGFuZGluZzJ9L2dvdG8_dXJsPUNBRVNVZ0hFSWtYWEhJNTY0UmVuVmdOVGRBc09YSmRWR2NObElwallXc0VPZUFyS3E4UURCRlloUUtBVXJfU2IxVmM0WlVELUVPRVRTeWktTGNZTjFNb0FnaVBjYmY4Z1VEbHg5bkFvaDhnY2NTRFpTcTA6RTxiPkluY3VCcml4PC9iPiB8IENyZWF0ZSBXaXRoIFB1cnBvc2UuIFB1Ymxpc2ggV2l0aG91dCA8Yj5MaW1pdHM8L2I-LkKTATxiPkluY3VCcml4IHR1cm5zIG9uZSBjb250ZW50IGludG8gY2xpcHMsIGNhcHRpb25zLCB2b2ljZW92ZXJzLCBhbmQgcG9zdHM8L2I-IGZvciBldmVyeSBwbGF0Zm9ybSwgdGhlbiBwdWJsaXNoZXMgYW5kIHRyYWNrcyBpdCBhbGwgZnJvbSBvbmUgc2NyZWVuLkoDYW5kIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cn0vZ290bz91cmw9Q0FFU1VnSEVJa1hYSEk1NjRSZW5WZ05UZEFzT1hKZFZHY05sSXBqWVdzRU9lQXJLcThRREJGWWhRS0FVcl9TYjFWYzRaVUQtRU9FVFN5aS1MY1lOMU1vQWdpUGNiZjhnVURseDluQW9oOGdjY1NEWlNxMBIEGgIIABrKBhICCAAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaEAgBEgxpbmN1YnJpeC5jb21yAHoAgkCUBggAEAAYACAAKj8KCGluY3Vicml4FfwEBkEaCWluIGN1YnJpeBoJaW5jdSBicml4GglpbmN1YiByaXgaDWl2O3A7aW5jdWJyaXgqFgoEZnJlZRVv5x8_GglmcmVldHJpYWwqHQoFdHJpYWwVAAAAABoEZGVtbxoJZnJlZXRyaWFsKhgKCGZlYXR1cmVzFQAAAAAaB2ZlYXR1cmUqCgoDYW5kFQAAAAAqRQoGZXhwb3J0FYyGNz0aC2V4cG9ydGF0aW9uGghleHBvcnRlZBoJZXhwb3J0aW5nGgdleHBvcnRzGgtpdjtwO2V4cG9ydCpQCgZsaW1pdHMVwq4JQBoKYm91bmRhcmllcxoFbGltaXQaCmxpbWl0YXRpb24aC2xpbWl0YXRpb25zGgxyZXN0cmljdGlvbnMaB21heGltdW0qcgoJZXhwbGFpbmVkFQAAAAAaCGFuYWx5c2lzGgdkZWZpbmVkGgpkZWZpbml0aW9uGgdleHBsYWluGgpleHBsYWluaW5nGgtleHBsYW5hdGlvbhoHbWVhbmluZxoHc3VtbWFyeRoNdW5kZXJzdGFuZGluZzJ9L2dvdG8_dXJsPUNBRVNVZ0hFSWtYWEhJNTY0UmVuVmdOVGRBc09YSmRWR2NObElwallXc0VPZUFyS3E4UURCRlloUUtBVXJfU2IxVmM0WlVELUVPRVRTeWktTGNZTjFNb0FnaVBjYmY4Z1VEbHg5bkFvaDhnY2NTRFpTcTA6RTxiPkluY3VCcml4PC9iPiB8IENyZWF0ZSBXaXRoIFB1cnBvc2UuIFB1Ymxpc2ggV2l0aG91dCA8Yj5MaW1pdHM8L2I-LkKTATxiPkluY3VCcml4IHR1cm5zIG9uZSBjb250ZW50IGludG8gY2xpcHMsIGNhcHRpb25zLCB2b2ljZW92ZXJzLCBhbmQgcG9zdHM8L2I-IGZvciBldmVyeSBwbGF0Zm9ybSwgdGhlbiBwdWJsaXNoZXMgYW5kIHRyYWNrcyBpdCBhbGwgZnJvbSBvbmUgc2NyZWVuLkoDYW5kIgIQAUgAWABoAA",
+        "source": "IncuBrix"
+      },
+      {
+        "position": 4,
+        "title": "Comparing BioRender Basic and the Free Trial",
+        "link": "https://www.google.com/goto?url=CAESpQEBxCJF1_VcC5EXuhvosZb76Hz95MnBVQyOJbjTFs9nBjjYq5kgY8RrcIQzKwU8VSdt68-3tyDbQvX3lt4JPzxvG5ltgPKfb0cWFnMXhX0_WHFFhXmHbmUcyLfJ5B_hxkTyEpHfdCCvvMe7Z07lIsmSNFUOACguc9ZfPdoykAAXAPB2IMmF0DZi-yCGc5OQFQvERZwdVMzBEreHmzERtdCZRnH-BHI",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpQEBxCJF181G65SpDbYQnrR1GNDZhDi8m689TtzEV-xOqaAd-15iELXcK7qAaViCUAV6spLe4BWP8GhDQPUeV1kLPJ54ksK-_2tIccPcMdGu9G8KasVlfc71qqy2v0rqqNFTzvObOKGwZiR0KaTJNSMOnoZ-M0gelLVA-iIVDN_qYHKlSOLCzREks09ha5us77Ygy9RpfgclgSrPrlpRBvg9DnWaWYg&ved=2ahUKEwjslPSE3JuYAxVtLVkFHXMrMyIQFnoECBoQAQ&uoh=1",
+        "displayed_link": "https://help.biorender.com \u203a en-gb \u203a articles \u203a 2748055...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAYCAMAAADeQm2wAAAAY1BMVEX____Y4_Dh6fPh6vMKb7hckccAYrMAZLQwe71omMqyyOIgdLq4zOSNrtXl7PXv8_mhvNyBp9HG1ukAbLcAaLUzfL5FhMEAXbH3-fxMiMMAWq_J2OvT3u2UtNinwd9wnc2DqdPlkuHqAAAAlElEQVR4AdXQxQEDIRAAwOXcFff-mzz7IQUkOAwOfxlQ8ZZlkcWqfsumzWLXv-UwTnkc5gWKdd62_UjwPHELhAJrMRsSBM4mUS9sAtolyNfmEPUqHyQRjrhpz3fbnjXsiPBAx8bhUE9rSx6r1xUVUCzoaWkeoaiN7Y3z20aPfo-Q7g9O9MPkJ4qi0AhQqUEtq4YfDTcuWggR_7KEcQAAAABJRU5ErkJggg.png",
+        "date": "4 Nov 2026",
+        "snippet": "BioRender offers two ways to get started: BioRender Basic, a permanently free account. Permanent free account. No credit card required.",
+        "snippet_highlighted_words": [
+          "BioRender Basic, a permanently free account"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "BioRender offers two ways to get started: BioRender Basic, a permanently free account. Permanent free account. No credit card required.",
+            "source_info_link": "https://www.google.com/goto?url=CAESpQEBxCJF1_VcC5EXuhvosZb76Hz95MnBVQyOJbjTFs9nBjjYq5kgY8RrcIQzKwU8VSdt68-3tyDbQvX3lt4JPzxvG5ltgPKfb0cWFnMXhX0_WHFFhXmHbmUcyLfJ5B_hxkTyEpHfdCCvvMe7Z07lIsmSNFUOACguc9ZfPdoykAAXAPB2IMmF0DZi-yCGc5OQFQvERZwdVMzBEreHmzERtdCZRnH-BHI",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAYCAMAAADeQm2wAAAAY1BMVEX____Y4_Dh6fPh6vMKb7hckccAYrMAZLQwe71omMqyyOIgdLq4zOSNrtXl7PXv8_mhvNyBp9HG1ukAbLcAaLUzfL5FhMEAXbH3-fxMiMMAWq_J2OvT3u2UtNinwd9wnc2DqdPlkuHqAAAAlElEQVR4AdXQxQEDIRAAwOXcFff-mzz7IQUkOAwOfxlQ8ZZlkcWqfsumzWLXv-UwTnkc5gWKdd62_UjwPHELhAJrMRsSBM4mUS9sAtolyNfmEPUqHyQRjrhpz3fbnjXsiPBAx8bhUE9rSx6r1xUVUCzoaWkeoaiN7Y3z20aPfo-Q7g9O9MPkJ4qi0AhQqUEtq4YfDTcuWggR_7KEcQAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cu0BL2dvdG8_dXJsPUNBRVNwUUVCeENKRjFfVmNDNUVYdWh2b3NaYjc2SHo5NU1uQlZReU9KYmpURnM5bkJqallxNWtnWThScmNJUXpLd1U4VlNkdDY4LTN0eURiUXZYM2x0NEpQenh2RzVsdGdQS2ZiMGNXRm5NWGhYMF9XSEZGaFhtSGJtVWN5TGZKNUJfaHhrVHlFcEhmZENDdnZNZTdaMDdsSXNtU05GVU9BQ2d1YzlaZlBkb3lrQUFYQVBCMklNbUYwRFppLXlDR2M1T1FGUXZFUlp3ZFZNekJFcmVIbXpFUnRkQ1pSbkgtQkhJEgQaAggAGpIHEgAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQO4GCAAQABgAIAAqPwoIaW5jdWJyaXgVAAAAABoJaW4gY3Vicml4GglpbmN1IGJyaXgaCWluY3ViIHJpeBoNaXY7cDtpbmN1YnJpeCoWCgRmcmVlFe7KvkAaCWZyZWV0cmlhbCodCgV0cmlhbBXQ2LFAGgRkZW1vGglmcmVldHJpYWwqGAoIZmVhdHVyZXMVR1EIQBoHZmVhdHVyZSoKCgNhbmQVAAAAACpFCgZleHBvcnQVAAAAABoLZXhwb3J0YXRpb24aCGV4cG9ydGVkGglleHBvcnRpbmcaB2V4cG9ydHMaC2l2O3A7ZXhwb3J0KlAKBmxpbWl0cxUAAAAAGgpib3VuZGFyaWVzGgVsaW1pdBoKbGltaXRhdGlvbhoLbGltaXRhdGlvbnMaDHJlc3RyaWN0aW9ucxoHbWF4aW11bSpyCglleHBsYWluZWQVAAAAABoIYW5hbHlzaXMaB2RlZmluZWQaCmRlZmluaXRpb24aB2V4cGxhaW4aCmV4cGxhaW5pbmcaC2V4cGxhbmF0aW9uGgdtZWFuaW5nGgdzdW1tYXJ5Gg11bmRlcnN0YW5kaW5nMu0BL2dvdG8_dXJsPUNBRVNwUUVCeENKRjFfVmNDNUVYdWh2b3NaYjc2SHo5NU1uQlZReU9KYmpURnM5bkJqallxNWtnWThScmNJUXpLd1U4VlNkdDY4LTN0eURiUXZYM2x0NEpQenh2RzVsdGdQS2ZiMGNXRm5NWGhYMF9XSEZGaFhtSGJtVWN5TGZKNUJfaHhrVHlFcEhmZENDdnZNZTdaMDdsSXNtU05GVU9BQ2d1YzlaZlBkb3lrQUFYQVBCMklNbUYwRFppLXlDR2M1T1FGUXZFUlp3ZFZNekJFcmVIbXpFUnRkQ1pSbkgtQkhJOjNDb21wYXJpbmcgQmlvUmVuZGVyIEJhc2ljIGFuZCB0aGUgPGI-RnJlZSBUcmlhbDwvYj5CjgFCaW9SZW5kZXIgb2ZmZXJzIHR3byB3YXlzIHRvIGdldCBzdGFydGVkOiA8Yj5CaW9SZW5kZXIgQmFzaWMsIGEgcGVybWFuZW50bHkgZnJlZSBhY2NvdW50PC9iPi4gUGVybWFuZW50IGZyZWUgYWNjb3VudC4gTm8gY3JlZGl0IGNhcmQgcmVxdWlyZWQuSgNhbmQiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cu0BL2dvdG8_dXJsPUNBRVNwUUVCeENKRjFfVmNDNUVYdWh2b3NaYjc2SHo5NU1uQlZReU9KYmpURnM5bkJqallxNWtnWThScmNJUXpLd1U4VlNkdDY4LTN0eURiUXZYM2x0NEpQenh2RzVsdGdQS2ZiMGNXRm5NWGhYMF9XSEZGaFhtSGJtVWN5TGZKNUJfaHhrVHlFcEhmZENDdnZNZTdaMDdsSXNtU05GVU9BQ2d1YzlaZlBkb3lrQUFYQVBCMklNbUYwRFppLXlDR2M1T1FGUXZFUlp3ZFZNekJFcmVIbXpFUnRkQ1pSbkgtQkhJEgQaAggAGpIHEgAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQO4GCAAQABgAIAAqPwoIaW5jdWJyaXgVAAAAABoJaW4gY3Vicml4GglpbmN1IGJyaXgaCWluY3ViIHJpeBoNaXY7cDtpbmN1YnJpeCoWCgRmcmVlFe7KvkAaCWZyZWV0cmlhbCodCgV0cmlhbBXQ2LFAGgRkZW1vGglmcmVldHJpYWwqGAoIZmVhdHVyZXMVR1EIQBoHZmVhdHVyZSoKCgNhbmQVAAAAACpFCgZleHBvcnQVAAAAABoLZXhwb3J0YXRpb24aCGV4cG9ydGVkGglleHBvcnRpbmcaB2V4cG9ydHMaC2l2O3A7ZXhwb3J0KlAKBmxpbWl0cxUAAAAAGgpib3VuZGFyaWVzGgVsaW1pdBoKbGltaXRhdGlvbhoLbGltaXRhdGlvbnMaDHJlc3RyaWN0aW9ucxoHbWF4aW11bSpyCglleHBsYWluZWQVAAAAABoIYW5hbHlzaXMaB2RlZmluZWQaCmRlZmluaXRpb24aB2V4cGxhaW4aCmV4cGxhaW5pbmcaC2V4cGxhbmF0aW9uGgdtZWFuaW5nGgdzdW1tYXJ5Gg11bmRlcnN0YW5kaW5nMu0BL2dvdG8_dXJsPUNBRVNwUUVCeENKRjFfVmNDNUVYdWh2b3NaYjc2SHo5NU1uQlZReU9KYmpURnM5bkJqallxNWtnWThScmNJUXpLd1U4VlNkdDY4LTN0eURiUXZYM2x0NEpQenh2RzVsdGdQS2ZiMGNXRm5NWGhYMF9XSEZGaFhtSGJtVWN5TGZKNUJfaHhrVHlFcEhmZENDdnZNZTdaMDdsSXNtU05GVU9BQ2d1YzlaZlBkb3lrQUFYQVBCMklNbUYwRFppLXlDR2M1T1FGUXZFUlp3ZFZNekJFcmVIbXpFUnRkQ1pSbkgtQkhJOjNDb21wYXJpbmcgQmlvUmVuZGVyIEJhc2ljIGFuZCB0aGUgPGI-RnJlZSBUcmlhbDwvYj5CjgFCaW9SZW5kZXIgb2ZmZXJzIHR3byB3YXlzIHRvIGdldCBzdGFydGVkOiA8Yj5CaW9SZW5kZXIgQmFzaWMsIGEgcGVybWFuZW50bHkgZnJlZSBhY2NvdW50PC9iPi4gUGVybWFuZW50IGZyZWUgYWNjb3VudC4gTm8gY3JlZGl0IGNhcmQgcmVxdWlyZWQuSgNhbmQiAhABSABYAGgA",
+        "source": "BioRender Help",
+        "read_more_link": "https://www.google.com/goto?url=CAES8QEBxCJF16Vz2GOJrzKSdoC571Qpfo75ti-QtZoS7YNvxTc07XtGGVjWTqvJJJcdfm2lUhLTxuutyJxiNsks9y88awje7vkoHXhYnobFWiGGRPXsjeizkVR-bVkJAi_JnlZrrcMFu2hXrLrSAEAXN8rWFMeRJz9SWVr2reDqSPF1g1nDfNpN-6uWrzSMZ5HJAavrGQtD_oKM4VkmhE1bNE3dTQgOm_sLS9LC9UhycWlkg5t5N__1FoOjG8CGxAIBzltZiqBEcMh0bdxkF9y2bOvhuNBR6_uHYnS50eFBMAGemG9zFhKFQ5Y9rYIROBrPVlmc&gsessionid=-KDxvwJvLcbeIUOaVw32fapkbbm0FrDQcMnWXazosnHGjmcIRoIMfw"
+      },
+      {
+        "position": 5,
+        "title": "Free Google Cloud features and trial offer",
+        "link": "https://docs.cloud.google.com/free/docs/free-cloud-features",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://docs.cloud.google.com/free/docs/free-cloud-features&ved=2ahUKEwjslPSE3JuYAxVtLVkFHXMrMyIQFnoECBMQAQ",
+        "displayed_link": "https://docs.cloud.google.com \u203a free \u203a docs \u203a free-clou...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAABpklEQVR4AWJwLwCUVw8LtUUBGMevNby2h5fZtu2eI7smGeMzyy-Q7XqExrlR9mp_cbX7jjIG_4ON9dvefhfa9QCnXc2foLMDOZA-5WY1qnwLOUzDPEM3wBCsQgL0VXEqkO2RvrCOgeDpMRSQNSOc8xYnjQKVFRt17QEOHcJvNeaSt7iTU95iKwUJZr8zsK3FkcYd7EcW0969UC-PaZgnYVILznpBrDwb9U_MF3zdWNa8FQi_N7ofWOs6N9gjAg5zUNpaABudd4613voQzSt5aEOBEPQFBZWBfioJA0vXAmZydOkrA4UxcXDBFABLBoFpjMHYxYOwJxxEC1UyKEgaae89dGBsT0sYugPi6tOFqdCPFOFoFbtNMFC8GiS3gNFhcALGMxB5nBdID-li67O-MwCHCWhKL5qt1js76LfqKEezusAvLFyRvAVT9tRB8lWaLmP49qwPEL9rw4RZbeixTOvdhGvOGgYxpswDECl7NEmx04PS60oCRfedx0ApxkEjMRmUUrASFXAKcKHE4Dc-Lhhl8ESz2qAMFs4JbyGRvQc5eIbdXnAbNGUsQJt7QJ8AAAAASUVORK5CYII.png",
+        "snippet": "The Free Trial gets you a $300 Welcome credit to spend over 90 days on various Google Cloud products and you won't be billed.",
+        "snippet_highlighted_words": [
+          "Free Trial"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The Free Trial gets you a $300 Welcome credit to spend over 90 days on various Google Cloud products and you won't be billed.",
+            "source_info_link": "https://docs.cloud.google.com/free/docs/free-cloud-features",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAABpklEQVR4AWJwLwCUVw8LtUUBGMevNby2h5fZtu2eI7smGeMzyy-Q7XqExrlR9mp_cbX7jjIG_4ON9dvefhfa9QCnXc2foLMDOZA-5WY1qnwLOUzDPEM3wBCsQgL0VXEqkO2RvrCOgeDpMRSQNSOc8xYnjQKVFRt17QEOHcJvNeaSt7iTU95iKwUJZr8zsK3FkcYd7EcW0969UC-PaZgnYVILznpBrDwb9U_MF3zdWNa8FQi_N7ofWOs6N9gjAg5zUNpaABudd4613voQzSt5aEOBEPQFBZWBfioJA0vXAmZydOkrA4UxcXDBFABLBoFpjMHYxYOwJxxEC1UyKEgaae89dGBsT0sYugPi6tOFqdCPFOFoFbtNMFC8GiS3gNFhcALGMxB5nBdID-li67O-MwCHCWhKL5qt1js76LfqKEezusAvLFyRvAVT9tRB8lWaLmP49qwPEL9rw4RZbeixTOvdhGvOGgYxpswDECl7NEmx04PS60oCRfedx0ApxkEjMRmUUrASFXAKcKHE4Dc-Lhhl8ESz2qAMFs4JbyGRvQc5eIbdXnAbNGUsQJt7QJ8AAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CjtodHRwczovL2RvY3MuY2xvdWQuZ29vZ2xlLmNvbS9mcmVlL2RvY3MvZnJlZS1jbG91ZC1mZWF0dXJlcxIEGgIIABrnBRICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQMEFCAAQABgAIAAqPwoIaW5jdWJyaXgVAAAAABoJaW4gY3Vicml4GglpbmN1IGJyaXgaCWluY3ViIHJpeBoNaXY7cDtpbmN1YnJpeCoWCgRmcmVlFVDIqkAaCWZyZWV0cmlhbCodCgV0cmlhbBWoRXxAGgRkZW1vGglmcmVldHJpYWwqGAoIZmVhdHVyZXMVBlw7QBoHZmVhdHVyZSoKCgNhbmQVAAAAACpFCgZleHBvcnQVAAAAABoLZXhwb3J0YXRpb24aCGV4cG9ydGVkGglleHBvcnRpbmcaB2V4cG9ydHMaC2l2O3A7ZXhwb3J0KlAKBmxpbWl0cxU3ViM_Ggpib3VuZGFyaWVzGgVsaW1pdBoKbGltaXRhdGlvbhoLbGltaXRhdGlvbnMaDHJlc3RyaWN0aW9ucxoHbWF4aW11bSpyCglleHBsYWluZWQVAAAAABoIYW5hbHlzaXMaB2RlZmluZWQaCmRlZmluaXRpb24aB2V4cGxhaW4aCmV4cGxhaW5pbmcaC2V4cGxhbmF0aW9uGgdtZWFuaW5nGgdzdW1tYXJ5Gg11bmRlcnN0YW5kaW5nMjtodHRwczovL2RvY3MuY2xvdWQuZ29vZ2xlLmNvbS9mcmVlL2RvY3MvZnJlZS1jbG91ZC1mZWF0dXJlczo_PGI-RnJlZTwvYj4gR29vZ2xlIENsb3VkIDxiPmZlYXR1cmVzPC9iPiBhbmQgPGI-dHJpYWw8L2I-IG9mZmVyQogBVGhlIDxiPkZyZWUgVHJpYWw8L2I-IGdldHMgeW91IGEgJDMwMCBXZWxjb21lIGNyZWRpdCB0byBzcGVuZCBvdmVyIDkwIGRheXMgb24gdmFyaW91cyBHb29nbGUgQ2xvdWQgcHJvZHVjdHMgYW5kIHlvdSB3b24mIzM5O3QgYmUgYmlsbGVkLkoDYW5kIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CjtodHRwczovL2RvY3MuY2xvdWQuZ29vZ2xlLmNvbS9mcmVlL2RvY3MvZnJlZS1jbG91ZC1mZWF0dXJlcxIEGgIIABrnBRICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQMEFCAAQABgAIAAqPwoIaW5jdWJyaXgVAAAAABoJaW4gY3Vicml4GglpbmN1IGJyaXgaCWluY3ViIHJpeBoNaXY7cDtpbmN1YnJpeCoWCgRmcmVlFVDIqkAaCWZyZWV0cmlhbCodCgV0cmlhbBWoRXxAGgRkZW1vGglmcmVldHJpYWwqGAoIZmVhdHVyZXMVBlw7QBoHZmVhdHVyZSoKCgNhbmQVAAAAACpFCgZleHBvcnQVAAAAABoLZXhwb3J0YXRpb24aCGV4cG9ydGVkGglleHBvcnRpbmcaB2V4cG9ydHMaC2l2O3A7ZXhwb3J0KlAKBmxpbWl0cxU3ViM_Ggpib3VuZGFyaWVzGgVsaW1pdBoKbGltaXRhdGlvbhoLbGltaXRhdGlvbnMaDHJlc3RyaWN0aW9ucxoHbWF4aW11bSpyCglleHBsYWluZWQVAAAAABoIYW5hbHlzaXMaB2RlZmluZWQaCmRlZmluaXRpb24aB2V4cGxhaW4aCmV4cGxhaW5pbmcaC2V4cGxhbmF0aW9uGgdtZWFuaW5nGgdzdW1tYXJ5Gg11bmRlcnN0YW5kaW5nMjtodHRwczovL2RvY3MuY2xvdWQuZ29vZ2xlLmNvbS9mcmVlL2RvY3MvZnJlZS1jbG91ZC1mZWF0dXJlczo_PGI-RnJlZTwvYj4gR29vZ2xlIENsb3VkIDxiPmZlYXR1cmVzPC9iPiBhbmQgPGI-dHJpYWw8L2I-IG9mZmVyQogBVGhlIDxiPkZyZWUgVHJpYWw8L2I-IGdldHMgeW91IGEgJDMwMCBXZWxjb21lIGNyZWRpdCB0byBzcGVuZCBvdmVyIDkwIGRheXMgb24gdmFyaW91cyBHb29nbGUgQ2xvdWQgcHJvZHVjdHMgYW5kIHlvdSB3b24mIzM5O3QgYmUgYmlsbGVkLkoDYW5kIgIQAUgAWABoAA",
+        "source": "Google Cloud Documentation"
+      },
+      {
+        "position": 6,
+        "title": "\"Free Trials for AI Products: What Changes\"",
+        "link": "https://www.google.com/goto?url=CAESjAEBxCJF1yClmb1GWlccIuZqYGkeYeyXRYstK4rWRraWGyumWyQ7zGFO7rx_HeUGbTfkndILaI2EIyLpUeq3LvKTywtlDnXaaNSrLfzDyCdKQUwLtHMLtlJ4s-m_Tt0JED1-q_qU4FEmHZWDUodharw6xBA3eENoMW42dkk0qJyVT_UFu8ErFEQxTqGR3A",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjAEBxCJF1wwFoZDVje0nYeF1_xsycKeLiHf_iVEPFLiB762sWzG_nvJTIYDjGiKUVPXduR1JmutxOGysC8ZTW_-aEJEU0-rHG61ybF6rogn8CvZYYxugFpGDHwY7Dmi7rWhWRcr3tmGJrOqRvkJB0vwXeXvB38XxWXH3WXE54NkWoEJp6v1hTDZhbWNqpg&ved=2ahUKEwjslPSE3JuYAxVtLVkFHXMrMyIQFnoECBkQAQ&uoh=1",
+        "displayed_link": "https://resources.rework.com \u203a ... \u203a Ai Startup Growth",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAKlBMVEVHcEwRcrcRcrcRcbcRcbYRcrcPcLYRcbcRcrcQcbYQcLYQcbYQcLYScrdpIt4vAAAADXRSTlMAvPJvUskJi9pFGTQip3-cQgAAAONJREFUOI2NU1sCgyAMa8uroL3_dQcoWMCN5UtNbPoEaEg2IJMIMQabYIK3LnMPyNmBj04WuOPhzUoXmA3fFfEbL1Jd_It_z6MI7HdeJGbBGgCNwfYIcNLIcjhL1-43SqMDheivxrXfIgQV2vpW-dm-GehuprO6dARuygE9LsNlRn4UtLhCIG8RPPfEQCbUUKp2mNpQe6fGQ8CTwIzz5SedG2HIMZcZJgGXJEjpl2GmIUcLac7y0BuQhzWPm1D1sW7M4oFqR-vyzxujPN1fS7tf-_3hAByb0yvHiz-PtyBF83b-H2ZtI-JId6RQAAAAAElFTkSuQmCC.png",
+        "date": "5 Oct 2026",
+        "snippet": "Most AI trials fall into four formats. Each controls cost in a different way. Which AI Trial Format Fits the Product?: Choose a time limit, ...",
+        "snippet_highlighted_words": [
+          "Trial",
+          "limit"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Most AI trials fall into four formats. Each controls cost in a different way. Which AI Trial Format Fits the Product?: Choose a time limit, ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESjAEBxCJF1yClmb1GWlccIuZqYGkeYeyXRYstK4rWRraWGyumWyQ7zGFO7rx_HeUGbTfkndILaI2EIyLpUeq3LvKTywtlDnXaaNSrLfzDyCdKQUwLtHMLtlJ4s-m_Tt0JED1-q_qU4FEmHZWDUodharw6xBA3eENoMW42dkk0qJyVT_UFu8ErFEQxTqGR3A",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAKlBMVEVHcEwRcrcRcrcRcbcRcbYRcrcPcLYRcbcRcrcQcbYQcLYQcbYQcLYScrdpIt4vAAAADXRSTlMAvPJvUskJi9pFGTQip3-cQgAAAONJREFUOI2NU1sCgyAMa8uroL3_dQcoWMCN5UtNbPoEaEg2IJMIMQabYIK3LnMPyNmBj04WuOPhzUoXmA3fFfEbL1Jd_It_z6MI7HdeJGbBGgCNwfYIcNLIcjhL1-43SqMDheivxrXfIgQV2vpW-dm-GehuprO6dARuygE9LsNlRn4UtLhCIG8RPPfEQCbUUKp2mNpQe6fGQ8CTwIzz5SedG2HIMZcZJgGXJEjpl2GmIUcLac7y0BuQhzWPm1D1sW7M4oFqR-vyzxujPN1fS7tf-_3hAByb0yvHiz-PtyBF83b-H2ZtI-JId6RQAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CswBL2dvdG8_dXJsPUNBRVNqQUVCeENKRjF5Q2xtYjFHV2xjY0l1WnFZR2tlWWV5WFJZc3RLNHJXUnJhV0d5dW1XeVE3ekdGTzdyeF9IZVVHYlRma25kSUxhSTJFSXlMcFVlcTNMdktUeXd0bERuWGFhTlNyTGZ6RHlDZEtRVXdMdEhNTHRsSjRzLW1fVHQwSkVEMS1xX3FVNEZFbUhaV0RVb2RoYXJ3NnhCQTNlRU5vTVc0MmRrazBxSnlWVF9VRnU4RXJGRVF4VHFHUjNBEgQaAggAGpcHEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQPMGCAAQABgAIAAqPwoIaW5jdWJyaXgVAAAAABoJaW4gY3Vicml4GglpbmN1IGJyaXgaCWluY3ViIHJpeBoNaXY7cDtpbmN1YnJpeCoWCgRmcmVlFUhqh0AaCWZyZWV0cmlhbCodCgV0cmlhbBVxNB9AGgRkZW1vGglmcmVldHJpYWwqGAoIZmVhdHVyZXMV4DcgPxoHZmVhdHVyZSoKCgNhbmQVAAAAACpFCgZleHBvcnQVxti9PBoLZXhwb3J0YXRpb24aCGV4cG9ydGVkGglleHBvcnRpbmcaB2V4cG9ydHMaC2l2O3A7ZXhwb3J0KlAKBmxpbWl0cxU4CJc9Ggpib3VuZGFyaWVzGgVsaW1pdBoKbGltaXRhdGlvbhoLbGltaXRhdGlvbnMaDHJlc3RyaWN0aW9ucxoHbWF4aW11bSpyCglleHBsYWluZWQVbt9LPxoIYW5hbHlzaXMaB2RlZmluZWQaCmRlZmluaXRpb24aB2V4cGxhaW4aCmV4cGxhaW5pbmcaC2V4cGxhbmF0aW9uGgdtZWFuaW5nGgdzdW1tYXJ5Gg11bmRlcnN0YW5kaW5nMswBL2dvdG8_dXJsPUNBRVNqQUVCeENKRjF5Q2xtYjFHV2xjY0l1WnFZR2tlWWV5WFJZc3RLNHJXUnJhV0d5dW1XeVE3ekdGTzdyeF9IZVVHYlRma25kSUxhSTJFSXlMcFVlcTNMdktUeXd0bERuWGFhTlNyTGZ6RHlDZEtRVXdMdEhNTHRsSjRzLW1fVHQwSkVEMS1xX3FVNEZFbUhaV0RVb2RoYXJ3NnhCQTNlRU5vTVc0MmRrazBxSnlWVF9VRnU4RXJGRVF4VHFHUjNBOkUmcXVvdDs8Yj5GcmVlPC9iPiBUcmlhbHMgZm9yIEFJIFByb2R1Y3RzOiBXaGF0IENoYW5nZXMmcXVvdDsgLSBSZXdvcmtCogFNb3N0IEFJIHRyaWFscyBmYWxsIGludG8gZm91ciBmb3JtYXRzLiBFYWNoIGNvbnRyb2xzIGNvc3QgaW4gYSBkaWZmZXJlbnQgd2F5LiBXaGljaCBBSSA8Yj5UcmlhbDwvYj4gRm9ybWF0IEZpdHMgdGhlIFByb2R1Y3Q_OiBDaG9vc2UgYSB0aW1lIDxiPmxpbWl0PC9iPiwmbmJzcDsuLi5KA2FuZCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CswBL2dvdG8_dXJsPUNBRVNqQUVCeENKRjF5Q2xtYjFHV2xjY0l1WnFZR2tlWWV5WFJZc3RLNHJXUnJhV0d5dW1XeVE3ekdGTzdyeF9IZVVHYlRma25kSUxhSTJFSXlMcFVlcTNMdktUeXd0bERuWGFhTlNyTGZ6RHlDZEtRVXdMdEhNTHRsSjRzLW1fVHQwSkVEMS1xX3FVNEZFbUhaV0RVb2RoYXJ3NnhCQTNlRU5vTVc0MmRrazBxSnlWVF9VRnU4RXJGRVF4VHFHUjNBEgQaAggAGpcHEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQPMGCAAQABgAIAAqPwoIaW5jdWJyaXgVAAAAABoJaW4gY3Vicml4GglpbmN1IGJyaXgaCWluY3ViIHJpeBoNaXY7cDtpbmN1YnJpeCoWCgRmcmVlFUhqh0AaCWZyZWV0cmlhbCodCgV0cmlhbBVxNB9AGgRkZW1vGglmcmVldHJpYWwqGAoIZmVhdHVyZXMV4DcgPxoHZmVhdHVyZSoKCgNhbmQVAAAAACpFCgZleHBvcnQVxti9PBoLZXhwb3J0YXRpb24aCGV4cG9ydGVkGglleHBvcnRpbmcaB2V4cG9ydHMaC2l2O3A7ZXhwb3J0KlAKBmxpbWl0cxU4CJc9Ggpib3VuZGFyaWVzGgVsaW1pdBoKbGltaXRhdGlvbhoLbGltaXRhdGlvbnMaDHJlc3RyaWN0aW9ucxoHbWF4aW11bSpyCglleHBsYWluZWQVbt9LPxoIYW5hbHlzaXMaB2RlZmluZWQaCmRlZmluaXRpb24aB2V4cGxhaW4aCmV4cGxhaW5pbmcaC2V4cGxhbmF0aW9uGgdtZWFuaW5nGgdzdW1tYXJ5Gg11bmRlcnN0YW5kaW5nMswBL2dvdG8_dXJsPUNBRVNqQUVCeENKRjF5Q2xtYjFHV2xjY0l1WnFZR2tlWWV5WFJZc3RLNHJXUnJhV0d5dW1XeVE3ekdGTzdyeF9IZVVHYlRma25kSUxhSTJFSXlMcFVlcTNMdktUeXd0bERuWGFhTlNyTGZ6RHlDZEtRVXdMdEhNTHRsSjRzLW1fVHQwSkVEMS1xX3FVNEZFbUhaV0RVb2RoYXJ3NnhCQTNlRU5vTVc0MmRrazBxSnlWVF9VRnU4RXJGRVF4VHFHUjNBOkUmcXVvdDs8Yj5GcmVlPC9iPiBUcmlhbHMgZm9yIEFJIFByb2R1Y3RzOiBXaGF0IENoYW5nZXMmcXVvdDsgLSBSZXdvcmtCogFNb3N0IEFJIHRyaWFscyBmYWxsIGludG8gZm91ciBmb3JtYXRzLiBFYWNoIGNvbnRyb2xzIGNvc3QgaW4gYSBkaWZmZXJlbnQgd2F5LiBXaGljaCBBSSA8Yj5UcmlhbDwvYj4gRm9ybWF0IEZpdHMgdGhlIFByb2R1Y3Q_OiBDaG9vc2UgYSB0aW1lIDxiPmxpbWl0PC9iPiwmbmJzcDsuLi5KA2FuZCICEAFIAFgAaAA",
+        "source": "Rework",
+        "read_more_link": "https://www.google.com/goto?url=CAES1wEBxCJF1zt8i8UbKVuO3O0VKgoHDUvdVwyEKchYOClCnnQnB4Ss8vEjvADPioMd5A9vswsbs9q4UnCE-tvPwmjrUYNUu59huAy9ZGcMoXyH_DGqxGnh-g-bxhQrVYdV684FwUGkOhi8zjJ7_c8VL1U6K72wMukfiFrzCqCMyK5z_QuRAfkitvFG3AMaaEbVtq7j6zi4xXN1RVtuOY1H8SdCQUg0ZoQS1YruqWw1EUhItiHqXCIqWb-bMQifT0yZpZJaeAV75hyV9P_WVXsmv0sw2wz68K-77w&gsessionid=-KDxvwJvLcbeIUOaVw32fapkbbm0FrDQcMnWXazosnHGjmcIRoIMfw"
+      },
+      {
+        "position": 7,
+        "title": "How Does a Free Trial Work? 4 Trial Models & How to ...",
+        "link": "https://www.google.com/goto?url=CAEScwHEIkXX4Fcm8_52g-73wwVZBq3OLOTVX9FjrA5xBZ05oW_rFvN_eOO-tv469ReQmwyuLltl0W1S6ca1Kmu6mBdktg14HGeja7cthhJQDG0ksNoLJvxWeB28sy1XCPd_VB49m99lAus05EapQgnSyYuyZPk",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHEIkXXRjybthAIj0dm3R1cGCIHiT7LuKophPBazlGwIJiSKGU_ALhRg2G8BREtscjipo2Jbl6wExl8rUBgIS9V_JXSMvAzYEUtOR5ZJGqtyWfl35qcbkk_3YWTtIyxPFVueWS3LD5-D4MQ7CP1yWityaA&ved=2ahUKEwjslPSE3JuYAxVtLVkFHXMrMyIQFnoECBYQAQ&uoh=1",
+        "displayed_link": "https://userpilot.com \u203a blog \u203a how-does-a-free-trial-work",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUOCEEAADgAADYAAD0NBkEAACx2dYmdnKlFQ2IAADtQTmojIEvw8PL___8dGUgHAD9iYXnS0dcAAC8AADT39_l9fI6LiprJydAAABxtbIEAADqtrLc0MlYAACY-PF5SUWza2t-mpbHBwMkpJk-dnKq7u8QAACAUD0S58eVZAAAAuklEQVR4AdWPRQICMQxFUx_7YzXc5f43hMJqwgl41XhCf4qQqjy6PAxlrKvqYnON4ra2A9APVI-Y5qVN-4DYwQqSCZkZRUK_mrDekN9i65fGYdds9h0OiuYJURCzqkEDe6I9cKyJsxlxMlQ3gBqI410p5s8Ie-J8i-l9KPE_7AMq5VOHy6z9hk8KSHPFDff945LE0jgDF4e7RVhn8IbnO_Cu9wSA6Ikxx7M1Q906t2O2gvj0MUip6C95AX6MC6oPuzYcAAAAAElFTkSuQmCC.png",
+        "date": "5 Nov 2026",
+        "snippet": "With free trials, teams discuss about length, credit cards, or models. Let's talk about the principles that make free trials convert users:",
+        "snippet_highlighted_words": [
+          "free",
+          "free"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "With free trials, teams discuss about length, credit cards, or models. Let's talk about the principles that make free trials convert users",
+            "source_info_link": "https://www.google.com/goto?url=CAEScwHEIkXX4Fcm8_52g-73wwVZBq3OLOTVX9FjrA5xBZ05oW_rFvN_eOO-tv469ReQmwyuLltl0W1S6ca1Kmu6mBdktg14HGeja7cthhJQDG0ksNoLJvxWeB28sy1XCPd_VB49m99lAus05EapQgnSyYuyZPk",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEUOCEEAADgAADYAAD0NBkEAACx2dYmdnKlFQ2IAADtQTmojIEvw8PL___8dGUgHAD9iYXnS0dcAAC8AADT39_l9fI6LiprJydAAABxtbIEAADqtrLc0MlYAACY-PF5SUWza2t-mpbHBwMkpJk-dnKq7u8QAACAUD0S58eVZAAAAuklEQVR4AdWPRQICMQxFUx_7YzXc5f43hMJqwgl41XhCf4qQqjy6PAxlrKvqYnON4ra2A9APVI-Y5qVN-4DYwQqSCZkZRUK_mrDekN9i65fGYdds9h0OiuYJURCzqkEDe6I9cKyJsxlxMlQ3gBqI410p5s8Ie-J8i-l9KPE_7AMq5VOHy6z9hk8KSHPFDff945LE0jgDF4e7RVhn8IbnO_Cu9wSA6Ikxx7M1Q906t2O2gvj0MUip6C95AX6MC6oPuzYcAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqkBL2dvdG8_dXJsPUNBRVNjd0hFSWtYWDRGY204XzUyZy03M3d3VlpCcTNPTE9UVlg5RmpyQTV4QlowNW9XX3JGdk5fZU9PLXR2NDY5UmVRbXd5dUxsdGwwVzFTNmNhMUttdTZtQmRrdGcxNEhHZWphN2N0aGhKUURHMGtzTm9MSnZ4V2VCMjhzeTFYQ1BkX1ZCNDltOTlsQXVzMDVFYXBRZ25TeVl1eVpQaxIEGgIIABryBhICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQMwGCAAQABgAIAAqPwoIaW5jdWJyaXgVAAAAABoJaW4gY3Vicml4GglpbmN1IGJyaXgaCWluY3ViIHJpeBoNaXY7cDtpbmN1YnJpeCoWCgRmcmVlFcivnEAaCWZyZWV0cmlhbCodCgV0cmlhbBU8qKNAGgRkZW1vGglmcmVldHJpYWwqGAoIZmVhdHVyZXMVsTiGPxoHZmVhdHVyZSoKCgNhbmQVAAAAACpFCgZleHBvcnQVSL8IPhoLZXhwb3J0YXRpb24aCGV4cG9ydGVkGglleHBvcnRpbmcaB2V4cG9ydHMaC2l2O3A7ZXhwb3J0KlAKBmxpbWl0cxV1jaw-Ggpib3VuZGFyaWVzGgVsaW1pdBoKbGltaXRhdGlvbhoLbGltaXRhdGlvbnMaDHJlc3RyaWN0aW9ucxoHbWF4aW11bSpyCglleHBsYWluZWQVAAAAABoIYW5hbHlzaXMaB2RlZmluZWQaCmRlZmluaXRpb24aB2V4cGxhaW4aCmV4cGxhaW5pbmcaC2V4cGxhbmF0aW9uGgdtZWFuaW5nGgdzdW1tYXJ5Gg11bmRlcnN0YW5kaW5nMqkBL2dvdG8_dXJsPUNBRVNjd0hFSWtYWDRGY204XzUyZy03M3d3VlpCcTNPTE9UVlg5RmpyQTV4QlowNW9XX3JGdk5fZU9PLXR2NDY5UmVRbXd5dUxsdGwwVzFTNmNhMUttdTZtQmRrdGcxNEhHZWphN2N0aGhKUURHMGtzTm9MSnZ4V2VCMjhzeTFYQ1BkX1ZCNDltOTlsQXVzMDVFYXBRZ25TeVl1eVpQazpGSG93IERvZXMgYSA8Yj5GcmVlIFRyaWFsPC9iPiBXb3JrPyA0IFRyaWFsIE1vZGVscyAmYW1wOyBIb3cgdG8gQ29udmVydEKdAVdpdGggPGI-ZnJlZTwvYj4gdHJpYWxzLCB0ZWFtcyBkaXNjdXNzIGFib3V0IGxlbmd0aCwgY3JlZGl0IGNhcmRzLCBvciBtb2RlbHMuIExldCYjMzk7cyB0YWxrIGFib3V0IHRoZSBwcmluY2lwbGVzIHRoYXQgbWFrZSA8Yj5mcmVlPC9iPiB0cmlhbHMgY29udmVydCB1c2VyczpKA2FuZCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqkBL2dvdG8_dXJsPUNBRVNjd0hFSWtYWDRGY204XzUyZy03M3d3VlpCcTNPTE9UVlg5RmpyQTV4QlowNW9XX3JGdk5fZU9PLXR2NDY5UmVRbXd5dUxsdGwwVzFTNmNhMUttdTZtQmRrdGcxNEhHZWphN2N0aGhKUURHMGtzTm9MSnZ4V2VCMjhzeTFYQ1BkX1ZCNDltOTlsQXVzMDVFYXBRZ25TeVl1eVpQaxIEGgIIABryBhICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQMwGCAAQABgAIAAqPwoIaW5jdWJyaXgVAAAAABoJaW4gY3Vicml4GglpbmN1IGJyaXgaCWluY3ViIHJpeBoNaXY7cDtpbmN1YnJpeCoWCgRmcmVlFcivnEAaCWZyZWV0cmlhbCodCgV0cmlhbBU8qKNAGgRkZW1vGglmcmVldHJpYWwqGAoIZmVhdHVyZXMVsTiGPxoHZmVhdHVyZSoKCgNhbmQVAAAAACpFCgZleHBvcnQVSL8IPhoLZXhwb3J0YXRpb24aCGV4cG9ydGVkGglleHBvcnRpbmcaB2V4cG9ydHMaC2l2O3A7ZXhwb3J0KlAKBmxpbWl0cxV1jaw-Ggpib3VuZGFyaWVzGgVsaW1pdBoKbGltaXRhdGlvbhoLbGltaXRhdGlvbnMaDHJlc3RyaWN0aW9ucxoHbWF4aW11bSpyCglleHBsYWluZWQVAAAAABoIYW5hbHlzaXMaB2RlZmluZWQaCmRlZmluaXRpb24aB2V4cGxhaW4aCmV4cGxhaW5pbmcaC2V4cGxhbmF0aW9uGgdtZWFuaW5nGgdzdW1tYXJ5Gg11bmRlcnN0YW5kaW5nMqkBL2dvdG8_dXJsPUNBRVNjd0hFSWtYWDRGY204XzUyZy03M3d3VlpCcTNPTE9UVlg5RmpyQTV4QlowNW9XX3JGdk5fZU9PLXR2NDY5UmVRbXd5dUxsdGwwVzFTNmNhMUttdTZtQmRrdGcxNEhHZWphN2N0aGhKUURHMGtzTm9MSnZ4V2VCMjhzeTFYQ1BkX1ZCNDltOTlsQXVzMDVFYXBRZ25TeVl1eVpQazpGSG93IERvZXMgYSA8Yj5GcmVlIFRyaWFsPC9iPiBXb3JrPyA0IFRyaWFsIE1vZGVscyAmYW1wOyBIb3cgdG8gQ29udmVydEKdAVdpdGggPGI-ZnJlZTwvYj4gdHJpYWxzLCB0ZWFtcyBkaXNjdXNzIGFib3V0IGxlbmd0aCwgY3JlZGl0IGNhcmRzLCBvciBtb2RlbHMuIExldCYjMzk7cyB0YWxrIGFib3V0IHRoZSBwcmluY2lwbGVzIHRoYXQgbWFrZSA8Yj5mcmVlPC9iPiB0cmlhbHMgY29udmVydCB1c2VyczpKA2FuZCICEAFIAFgAaAA",
+        "source": "Userpilot"
+      },
+      {
+        "position": 8,
+        "title": "How IncuBrix Works | From Idea to Impact",
+        "link": "https://www.google.com/goto?url=CAESXgHEIkXXZe-nVTx_YCR5Dez1tWq5V-s8pK2w3OuFjImPPrgDlRtunpptofyyCfc8tRxg4SDPxtIGTbqtqa42baqNjOrn-gLmo7RMNUmcQ-45_JqXCP9NHZM5UI3O7Oc",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHEIkXXnVbNFUs69SP1OqffvicX7FCqXF95XXKq7Egb9BjPyMbMpOl33uuqBzC1pD0AXElk8un9L-4JCmHsgiRlfmYVoS_V5oKAYPIDwPB8-pWnfslC80A2s7_sF94&ved=2ahUKEwjslPSE3JuYAxVtLVkFHXMrMyIQFnoECBEQAQ&uoh=1",
+        "displayed_link": "https://incubrix.com \u203a how-it-works",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAwFBMVEUMFjoNFTsOETgMFjsKDDYZP1cGADERHkFL8eRQ__xDz8otiIxR__hO_-8YR1gVOlJJ6N8MCDYLFzknf4UJFz4LDi8MDCkMBiIAACcAABkHACwKJlkLZ9kIb-YIQ5Q9wr9P__Ewm54Af_8Bev0OM3IAff8Aev8AX9Iwi5oAVcIrc3gGXMI4q6oZQ1cEXcJE490jYG8AACELADURKUcAABAXNVA4r6UESqosjIkKVrQKLmYOBCckaHUWW34acqYURGOXfEyzAAABIklEQVR4AYSSVWLEIBBAByaNTlbja2xYd63L_W9V2t8y6UvwhwN_EFIgNOA4D64AHun5QegCjxtRHLQcXpBtok7XMgear4cm7bb7ngQLSZrlKUAPirICG2IwHI1zgGqipjYDs1Gt69Es7weK2pY5enK-WCx0vVyRIususoX-NdYb32zTcpapaTfMt3l3t68ELxwyUR6jwuVHyERxpOPp7GCDoBSF7Uo0CbGivit4IY5j5Vfwj1Bgg6DIP3V7vKDU9OIiMwWabU6uFSAnOOWkVUj-oG73cO_aLksbY67rwyNZ3ySmc73Qev70HMRkFfJhPZ8fkjIiRujhy_b1DdyIezAJpGmK4L4HpO7S_ux_IlF9fH51oQHhDCQCD5pP9OB7JAAAP88opKC7C0YAAAAASUVORK5CYII.png",
+        "snippet": "Input your idea or content and let the platform transform it into multiple formats (original or enhanced) while preserving your unique voice and perspective ...",
+        "about_this_result": {
+          "source": {
+            "description": "Input your idea or content and let the platform transform it into multiple formats (original or enhanced) while preserving your unique voice and perspective ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESXgHEIkXXZe-nVTx_YCR5Dez1tWq5V-s8pK2w3OuFjImPPrgDlRtunpptofyyCfc8tRxg4SDPxtIGTbqtqa42baqNjOrn-gLmo7RMNUmcQ-45_JqXCP9NHZM5UI3O7Oc",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAwFBMVEUMFjoNFTsOETgMFjsKDDYZP1cGADERHkFL8eRQ__xDz8otiIxR__hO_-8YR1gVOlJJ6N8MCDYLFzknf4UJFz4LDi8MDCkMBiIAACcAABkHACwKJlkLZ9kIb-YIQ5Q9wr9P__Ewm54Af_8Bev0OM3IAff8Aev8AX9Iwi5oAVcIrc3gGXMI4q6oZQ1cEXcJE490jYG8AACELADURKUcAABAXNVA4r6UESqosjIkKVrQKLmYOBCckaHUWW34acqYURGOXfEyzAAABIklEQVR4AYSSVWLEIBBAByaNTlbja2xYd63L_W9V2t8y6UvwhwN_EFIgNOA4D64AHun5QegCjxtRHLQcXpBtok7XMgear4cm7bb7ngQLSZrlKUAPirICG2IwHI1zgGqipjYDs1Gt69Es7weK2pY5enK-WCx0vVyRIususoX-NdYb32zTcpapaTfMt3l3t68ELxwyUR6jwuVHyERxpOPp7GCDoBSF7Uo0CbGivit4IY5j5Vfwj1Bgg6DIP3V7vKDU9OIiMwWabU6uFSAnOOWkVUj-oG73cO_aLksbY67rwyNZ3ySmc73Qev70HMRkFfJhPZ8fkjIiRujhy_b1DdyIezAJpGmK4L4HpO7S_ux_IlF9fH51oQHhDCQCD5pP9OB7JAAAP88opKC7C0YAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co0BL2dvdG8_dXJsPUNBRVNYZ0hFSWtYWFplLW5WVHhfWUNSNURlejF0V3E1Vi1zOHBLMnczT3VGakltUFByZ0RsUnR1bnBwdG9meXlDZmM4dFJ4ZzRTRFB4dElHVGJxdHFhNDJiYXFOak9ybi1nTG1vN1JNTlVtY1EtNDVfSnFYQ1A5TkhaTTVVSTNPN09jEgQaAggAGtUGEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaEAgBEgxpbmN1YnJpeC5jb21yAHoAgkChBggAEAAYACAAKj8KCGluY3Vicml4FY-kBkEaCWluIGN1YnJpeBoJaW5jdSBicml4GglpbmN1YiByaXgaDWl2O3A7aW5jdWJyaXgqFgoEZnJlZRVBoqQ-GglmcmVldHJpYWwqHQoFdHJpYWwVAAAAABoEZGVtbxoJZnJlZXRyaWFsKhgKCGZlYXR1cmVzFQAAAAAaB2ZlYXR1cmUqCgoDYW5kFQAAAAAqRQoGZXhwb3J0FQAAAAAaC2V4cG9ydGF0aW9uGghleHBvcnRlZBoJZXhwb3J0aW5nGgdleHBvcnRzGgtpdjtwO2V4cG9ydCpQCgZsaW1pdHMVAAAAABoKYm91bmRhcmllcxoFbGltaXQaCmxpbWl0YXRpb24aC2xpbWl0YXRpb25zGgxyZXN0cmljdGlvbnMaB21heGltdW0qcgoJZXhwbGFpbmVkFQAAAAAaCGFuYWx5c2lzGgdkZWZpbmVkGgpkZWZpbml0aW9uGgdleHBsYWluGgpleHBsYWluaW5nGgtleHBsYW5hdGlvbhoHbWVhbmluZxoHc3VtbWFyeRoNdW5kZXJzdGFuZGluZzKNAS9nb3RvP3VybD1DQUVTWGdIRUlrWFhaZS1uVlR4X1lDUjVEZXoxdFdxNVYtczhwSzJ3M091RmpJbVBQcmdEbFJ0dW5wcHRvZnl5Q2ZjOHRSeGc0U0RQeHRJR1RicXRxYTQyYmFxTmpPcm4tZ0xtbzdSTU5VbWNRLTQ1X0pxWENQOU5IWk01VUkzTzdPYzovSG93IDxiPkluY3VCcml4PC9iPiBXb3JrcyB8IEZyb20gSWRlYSB0byBJbXBhY3RCpQFJbnB1dCB5b3VyIGlkZWEgb3IgY29udGVudCBhbmQgbGV0IHRoZSBwbGF0Zm9ybSB0cmFuc2Zvcm0gaXQgaW50byBtdWx0aXBsZSBmb3JtYXRzIChvcmlnaW5hbCBvciBlbmhhbmNlZCkgd2hpbGUgcHJlc2VydmluZyB5b3VyIHVuaXF1ZSB2b2ljZSBhbmQgcGVyc3BlY3RpdmUmbmJzcDsuLi5KA2FuZCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co0BL2dvdG8_dXJsPUNBRVNYZ0hFSWtYWFplLW5WVHhfWUNSNURlejF0V3E1Vi1zOHBLMnczT3VGakltUFByZ0RsUnR1bnBwdG9meXlDZmM4dFJ4ZzRTRFB4dElHVGJxdHFhNDJiYXFOak9ybi1nTG1vN1JNTlVtY1EtNDVfSnFYQ1A5TkhaTTVVSTNPN09jEgQaAggAGtUGEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaEAgBEgxpbmN1YnJpeC5jb21yAHoAgkChBggAEAAYACAAKj8KCGluY3Vicml4FY-kBkEaCWluIGN1YnJpeBoJaW5jdSBicml4GglpbmN1YiByaXgaDWl2O3A7aW5jdWJyaXgqFgoEZnJlZRVBoqQ-GglmcmVldHJpYWwqHQoFdHJpYWwVAAAAABoEZGVtbxoJZnJlZXRyaWFsKhgKCGZlYXR1cmVzFQAAAAAaB2ZlYXR1cmUqCgoDYW5kFQAAAAAqRQoGZXhwb3J0FQAAAAAaC2V4cG9ydGF0aW9uGghleHBvcnRlZBoJZXhwb3J0aW5nGgdleHBvcnRzGgtpdjtwO2V4cG9ydCpQCgZsaW1pdHMVAAAAABoKYm91bmRhcmllcxoFbGltaXQaCmxpbWl0YXRpb24aC2xpbWl0YXRpb25zGgxyZXN0cmljdGlvbnMaB21heGltdW0qcgoJZXhwbGFpbmVkFQAAAAAaCGFuYWx5c2lzGgdkZWZpbmVkGgpkZWZpbml0aW9uGgdleHBsYWluGgpleHBsYWluaW5nGgtleHBsYW5hdGlvbhoHbWVhbmluZxoHc3VtbWFyeRoNdW5kZXJzdGFuZGluZzKNAS9nb3RvP3VybD1DQUVTWGdIRUlrWFhaZS1uVlR4X1lDUjVEZXoxdFdxNVYtczhwSzJ3M091RmpJbVBQcmdEbFJ0dW5wcHRvZnl5Q2ZjOHRSeGc0U0RQeHRJR1RicXRxYTQyYmFxTmpPcm4tZ0xtbzdSTU5VbWNRLTQ1X0pxWENQOU5IWk01VUkzTzdPYzovSG93IDxiPkluY3VCcml4PC9iPiBXb3JrcyB8IEZyb20gSWRlYSB0byBJbXBhY3RCpQFJbnB1dCB5b3VyIGlkZWEgb3IgY29udGVudCBhbmQgbGV0IHRoZSBwbGF0Zm9ybSB0cmFuc2Zvcm0gaXQgaW50byBtdWx0aXBsZSBmb3JtYXRzIChvcmlnaW5hbCBvciBlbmhhbmNlZCkgd2hpbGUgcHJlc2VydmluZyB5b3VyIHVuaXF1ZSB2b2ljZSBhbmQgcGVyc3BlY3RpdmUmbmJzcDsuLi5KA2FuZCICEAFIAFgAaAA",
+        "source": "IncuBrix",
+        "read_more_link": "https://www.google.com/goto?url=CAEStAEBxCJF1_gUb8c82P7rW_Nnh0rMmU6H8EtIdBervED2FfpPrFNAK3LZjLg605Ye9DCB8xCNmF2N01Qn-0J7avMQcC2Shj2lVyXQ69hD18YQxkx9WynNKX7U5yWoVLH0JUvzbC9ISqH5CjWfDhgFKMFwrrUotcaJkz2WjMzHZJVqyBZKSAKTGH-Mwi4lfMpvgHfdZXMt0AnsuSEb6UjaK8eVR6tupm-1kG1-A7_-pDy06RWF7cA&gsessionid=-KDxvwJvLcbeIUOaVw32fapkbbm0FrDQcMnWXazosnHGjmcIRoIMfw"
+      },
+      {
+        "position": 9,
+        "title": "How to Optimize Your Free Trial Length: A Data-Driven ...",
+        "link": "https://www.google.com/goto?url=CAESlwEBxCJF1xSZmWpmEwWznGTlzMQyIG6IxjayZUXkDSYD-NlWV3dZDaUjcH6xugowYZJowwJBvo9wFLzLSox7anLD98QviQQBP9w8Tu0yqPelSnPXoVGdAqIa3p8pfKgz0GObs_TGcFnDbScBbKoqUhlUB5hxGwhnCfhY0iD_2XeBG2HURO2WOKDAi7Lm6nGn-Q6A-42nmoPY",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlwEBxCJF16mEiN55_J145zYq1eiVySoCetrWnwlcAk9a2bufbZHMWNkvTe8L0BVoJ1GhYVoH5kw2QpnpcIUSs2q-BLIqWvkJpjORXUvjjqlM1AIhjIVAVf2aAtP13_TNyhbtoyp9uY7GoHab2oA0_P21qA542Fj_UT6AnQ0Mm8IX3lS4aCFhXREClkF_rZ40_TiZsdxzilDp&ved=2ahUKEwjslPSE3JuYAxVtLVkFHXMrMyIQFnoECBgQAQ&uoh=1",
+        "displayed_link": "https://phiture.com \u203a Mobile Growth Stack",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAJ1BMVEUo74____8i740A7oU28JTv_vaw-NDz_vgT7oqp98ym98u2-NSf9saLuIFFAAAAdElEQVQokcXSwQ6AIAgAUEQTzP7_e0Ox5oZyLA5e3hABAf4ORMdS2iricexyxULYaLeNDlvqawudzOhj5bKKSS3HeKpO_Q7MEUB1Rr1WjLmrKUpisVY5CpnngiRlTV-NgXMvzFZaUENamzd4f2X-sv1v8lHcjqACS-DDXvcAAAAASUVORK5CYII.png",
+        "date": "20 Nov 2025",
+        "snippet": "Learn why your free trial length matters, get real trial length benchmarks and explore strategy optimizations to apply to your app.",
+        "snippet_highlighted_words": [
+          "Learn why your free trial length matters"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Learn why your free trial length matters, get real trial length benchmarks and explore strategy optimizations to apply to your app.",
+            "source_info_link": "https://www.google.com/goto?url=CAESlwEBxCJF1xSZmWpmEwWznGTlzMQyIG6IxjayZUXkDSYD-NlWV3dZDaUjcH6xugowYZJowwJBvo9wFLzLSox7anLD98QviQQBP9w8Tu0yqPelSnPXoVGdAqIa3p8pfKgz0GObs_TGcFnDbScBbKoqUhlUB5hxGwhnCfhY0iD_2XeBG2HURO2WOKDAi7Lm6nGn-Q6A-42nmoPY",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAJ1BMVEUo74____8i740A7oU28JTv_vaw-NDz_vgT7oqp98ym98u2-NSf9saLuIFFAAAAdElEQVQokcXSwQ6AIAgAUEQTzP7_e0Ox5oZyLA5e3hABAf4ORMdS2iricexyxULYaLeNDlvqawudzOhj5bKKSS3HeKpO_Q7MEUB1Rr1WjLmrKUpisVY5CpnngiRlTV-NgXMvzFZaUENamzd4f2X-sv1v8lHcjqACS-DDXvcAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtoBL2dvdG8_dXJsPUNBRVNsd0VCeENKRjF4U1ptV3BtRXdXem5HVGx6TVF5SUc2SXhqYXlaVVhrRFNZRC1ObFdWM2RaRGFVamNINnh1Z293WVpKb3d3SkJ2bzl3Rkx6TFNveDdhbkxEOThRdmlRUUJQOXc4VHUweXFQZWxTblBYb1ZHZEFxSWEzcDhwZktnejBHT2JzX1RHY0ZuRGJTY0JiS29xVWhsVUI1aHhHd2huQ2ZoWTBpRF8yWGVCRzJIVVJPMldPS0RBaTdMbTZuR24tUTZBLTQybm1vUFkSBBoCCAAaigcSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDkBggAEAAYACAAKj8KCGluY3Vicml4FQAAAAAaCWluIGN1YnJpeBoJaW5jdSBicml4GglpbmN1YiByaXgaDWl2O3A7aW5jdWJyaXgqFgoEZnJlZRU8LXZAGglmcmVldHJpYWwqHQoFdHJpYWwV50GWQBoEZGVtbxoJZnJlZXRyaWFsKhgKCGZlYXR1cmVzFdWf9j4aB2ZlYXR1cmUqCgoDYW5kFQAAAAAqRQoGZXhwb3J0FQAAAAAaC2V4cG9ydGF0aW9uGghleHBvcnRlZBoJZXhwb3J0aW5nGgdleHBvcnRzGgtpdjtwO2V4cG9ydCpQCgZsaW1pdHMVAAAAABoKYm91bmRhcmllcxoFbGltaXQaCmxpbWl0YXRpb24aC2xpbWl0YXRpb25zGgxyZXN0cmljdGlvbnMaB21heGltdW0qcgoJZXhwbGFpbmVkFbdSmz4aCGFuYWx5c2lzGgdkZWZpbmVkGgpkZWZpbml0aW9uGgdleHBsYWluGgpleHBsYWluaW5nGgtleHBsYW5hdGlvbhoHbWVhbmluZxoHc3VtbWFyeRoNdW5kZXJzdGFuZGluZzLaAS9nb3RvP3VybD1DQUVTbHdFQnhDSkYxeFNabVdwbUV3V3puR1Rsek1ReUlHNkl4amF5WlVYa0RTWUQtTmxXVjNkWkRhVWpjSDZ4dWdvd1laSm93d0pCdm85d0ZMekxTb3g3YW5MRDk4UXZpUVFCUDl3OFR1MHlxUGVsU25QWG9WR2RBcUlhM3A4cGZLZ3owR09ic19UR2NGbkRiU2NCYktvcVVobFVCNWh4R3dobkNmaFkwaURfMlhlQkcySFVSTzJXT0tEQWk3TG02bkduLVE2QS00Mm5tb1BZOkBIb3cgdG8gT3B0aW1pemUgWW91ciA8Yj5GcmVlIFRyaWFsPC9iPiBMZW5ndGg6IEEgRGF0YS1Ecml2ZW4gLi4uQooBPGI-TGVhcm4gd2h5IHlvdXIgZnJlZSB0cmlhbCBsZW5ndGggbWF0dGVyczwvYj4sIGdldCByZWFsIHRyaWFsIGxlbmd0aCBiZW5jaG1hcmtzIGFuZCBleHBsb3JlIHN0cmF0ZWd5IG9wdGltaXphdGlvbnMgdG8gYXBwbHkgdG8geW91ciBhcHAuSgNhbmQiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtoBL2dvdG8_dXJsPUNBRVNsd0VCeENKRjF4U1ptV3BtRXdXem5HVGx6TVF5SUc2SXhqYXlaVVhrRFNZRC1ObFdWM2RaRGFVamNINnh1Z293WVpKb3d3SkJ2bzl3Rkx6TFNveDdhbkxEOThRdmlRUUJQOXc4VHUweXFQZWxTblBYb1ZHZEFxSWEzcDhwZktnejBHT2JzX1RHY0ZuRGJTY0JiS29xVWhsVUI1aHhHd2huQ2ZoWTBpRF8yWGVCRzJIVVJPMldPS0RBaTdMbTZuR24tUTZBLTQybm1vUFkSBBoCCAAaigcSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDkBggAEAAYACAAKj8KCGluY3Vicml4FQAAAAAaCWluIGN1YnJpeBoJaW5jdSBicml4GglpbmN1YiByaXgaDWl2O3A7aW5jdWJyaXgqFgoEZnJlZRU8LXZAGglmcmVldHJpYWwqHQoFdHJpYWwV50GWQBoEZGVtbxoJZnJlZXRyaWFsKhgKCGZlYXR1cmVzFdWf9j4aB2ZlYXR1cmUqCgoDYW5kFQAAAAAqRQoGZXhwb3J0FQAAAAAaC2V4cG9ydGF0aW9uGghleHBvcnRlZBoJZXhwb3J0aW5nGgdleHBvcnRzGgtpdjtwO2V4cG9ydCpQCgZsaW1pdHMVAAAAABoKYm91bmRhcmllcxoFbGltaXQaCmxpbWl0YXRpb24aC2xpbWl0YXRpb25zGgxyZXN0cmljdGlvbnMaB21heGltdW0qcgoJZXhwbGFpbmVkFbdSmz4aCGFuYWx5c2lzGgdkZWZpbmVkGgpkZWZpbml0aW9uGgdleHBsYWluGgpleHBsYWluaW5nGgtleHBsYW5hdGlvbhoHbWVhbmluZxoHc3VtbWFyeRoNdW5kZXJzdGFuZGluZzLaAS9nb3RvP3VybD1DQUVTbHdFQnhDSkYxeFNabVdwbUV3V3puR1Rsek1ReUlHNkl4amF5WlVYa0RTWUQtTmxXVjNkWkRhVWpjSDZ4dWdvd1laSm93d0pCdm85d0ZMekxTb3g3YW5MRDk4UXZpUVFCUDl3OFR1MHlxUGVsU25QWG9WR2RBcUlhM3A4cGZLZ3owR09ic19UR2NGbkRiU2NCYktvcVVobFVCNWh4R3dobkNmaFkwaURfMlhlQkcySFVSTzJXT0tEQWk3TG02bkduLVE2QS00Mm5tb1BZOkBIb3cgdG8gT3B0aW1pemUgWW91ciA8Yj5GcmVlIFRyaWFsPC9iPiBMZW5ndGg6IEEgRGF0YS1Ecml2ZW4gLi4uQooBPGI-TGVhcm4gd2h5IHlvdXIgZnJlZSB0cmlhbCBsZW5ndGggbWF0dGVyczwvYj4sIGdldCByZWFsIHRyaWFsIGxlbmd0aCBiZW5jaG1hcmtzIGFuZCBleHBsb3JlIHN0cmF0ZWd5IG9wdGltaXphdGlvbnMgdG8gYXBwbHkgdG8geW91ciBhcHAuSgNhbmQiAhABSABYAGgA",
+        "source": "Phiture"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "IncuBrix bangalore",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDh1ubKxzYE5CSTrrQlDDfM1-eMqxQ:1795355395828&q=IncuBrix+bangalore&sa=X&ved=2ahUKEwjslPSE3JuYAxVtLVkFHXMrMyIQ1QJ6BAgLEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=IncuBrix+bangalore"
+      },
+      {
+        "block_position": 1,
+        "query": "IncuBrix trichy",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDh1ubKxzYE5CSTrrQlDDfM1-eMqxQ:1795355395828&q=IncuBrix+trichy&sa=X&ved=2ahUKEwjslPSE3JuYAxVtLVkFHXMrMyIQ1QJ6BAgOEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=IncuBrix+trichy"
+      },
+      {
+        "block_position": 1,
+        "query": "IncuBrix company",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDh1ubKxzYE5CSTrrQlDDfM1-eMqxQ:1795355395828&q=IncuBrix+company&sa=X&ved=2ahUKEwjslPSE3JuYAxVtLVkFHXMrMyIQ1QJ6BAgNEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=IncuBrix+company"
+      },
+      {
+        "block_position": 1,
+        "query": "IncuBrix private limited",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDh1ubKxzYE5CSTrrQlDDfM1-eMqxQ:1795355395828&q=IncuBrix+private+limited&sa=X&ved=2ahUKEwjslPSE3JuYAxVtLVkFHXMrMyIQ1QJ6BAgMEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=IncuBrix+private+limited"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=IncuBrix+free+trial+features+and+export+limits+explained&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDh1ubKxzYE5CSTrrQlDDfM1-eMqxQ:1795355395828&ei=A_MCa6yHMu3a5NoP89bMkQI&start=10&sa=N&sstk=AYl2yk9mAAzYPEScEbihixCpqs-iNzFV2h06Ze9jS2AIci0QB8feiK2E8XrAHnga58EE2EQ2wlsGVrv-a84kuHQBpq3x0aB_ynUPqg&ved=2ahUKEwjslPSE3JuYAxVtLVkFHXMrMyIQ8NMDegQIRBAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=IncuBrix+free+trial+features+and+export+limits+explained&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDh1ubKxzYE5CSTrrQlDDfM1-eMqxQ:1795355395828&ei=A_MCa6yHMu3a5NoP89bMkQI&start=10&sa=N&sstk=AYl2yk9mAAzYPEScEbihixCpqs-iNzFV2h06Ze9jS2AIci0QB8feiK2E8XrAHnga58EE2EQ2wlsGVrv-a84kuHQBpq3x0aB_ynUPqg&ved=2ahUKEwjslPSE3JuYAxVtLVkFHXMrMyIQ8tMDegQIRBAE",
+        "3": "https://www.google.com/search?q=IncuBrix+free+trial+features+and+export+limits+explained&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDh1ubKxzYE5CSTrrQlDDfM1-eMqxQ:1795355395828&ei=A_MCa6yHMu3a5NoP89bMkQI&start=20&sa=N&sstk=AYl2yk9mAAzYPEScEbihixCpqs-iNzFV2h06Ze9jS2AIci0QB8feiK2E8XrAHnga58EE2EQ2wlsGVrv-a84kuHQBpq3x0aB_ynUPqg&ved=2ahUKEwjslPSE3JuYAxVtLVkFHXMrMyIQ8tMDegQIRBAG",
+        "4": "https://www.google.com/search?q=IncuBrix+free+trial+features+and+export+limits+explained&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDh1ubKxzYE5CSTrrQlDDfM1-eMqxQ:1795355395828&ei=A_MCa6yHMu3a5NoP89bMkQI&start=30&sa=N&sstk=AYl2yk9mAAzYPEScEbihixCpqs-iNzFV2h06Ze9jS2AIci0QB8feiK2E8XrAHnga58EE2EQ2wlsGVrv-a84kuHQBpq3x0aB_ynUPqg&ved=2ahUKEwjslPSE3JuYAxVtLVkFHXMrMyIQ8tMDegQIRBAI",
+        "5": "https://www.google.com/search?q=IncuBrix+free+trial+features+and+export+limits+explained&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDh1ubKxzYE5CSTrrQlDDfM1-eMqxQ:1795355395828&ei=A_MCa6yHMu3a5NoP89bMkQI&start=40&sa=N&sstk=AYl2yk9mAAzYPEScEbihixCpqs-iNzFV2h06Ze9jS2AIci0QB8feiK2E8XrAHnga58EE2EQ2wlsGVrv-a84kuHQBpq3x0aB_ynUPqg&ved=2ahUKEwjslPSE3JuYAxVtLVkFHXMrMyIQ8tMDegQIRBAK",
+        "6": "https://www.google.com/search?q=IncuBrix+free+trial+features+and+export+limits+explained&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDh1ubKxzYE5CSTrrQlDDfM1-eMqxQ:1795355395828&ei=A_MCa6yHMu3a5NoP89bMkQI&start=50&sa=N&sstk=AYl2yk9mAAzYPEScEbihixCpqs-iNzFV2h06Ze9jS2AIci0QB8feiK2E8XrAHnga58EE2EQ2wlsGVrv-a84kuHQBpq3x0aB_ynUPqg&ved=2ahUKEwjslPSE3JuYAxVtLVkFHXMrMyIQ8tMDegQIRBAM",
+        "7": "https://www.google.com/search?q=IncuBrix+free+trial+features+and+export+limits+explained&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDh1ubKxzYE5CSTrrQlDDfM1-eMqxQ:1795355395828&ei=A_MCa6yHMu3a5NoP89bMkQI&start=60&sa=N&sstk=AYl2yk9mAAzYPEScEbihixCpqs-iNzFV2h06Ze9jS2AIci0QB8feiK2E8XrAHnga58EE2EQ2wlsGVrv-a84kuHQBpq3x0aB_ynUPqg&ved=2ahUKEwjslPSE3JuYAxVtLVkFHXMrMyIQ8tMDegQIRBAO",
+        "8": "https://www.google.com/search?q=IncuBrix+free+trial+features+and+export+limits+explained&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDh1ubKxzYE5CSTrrQlDDfM1-eMqxQ:1795355395828&ei=A_MCa6yHMu3a5NoP89bMkQI&start=70&sa=N&sstk=AYl2yk9mAAzYPEScEbihixCpqs-iNzFV2h06Ze9jS2AIci0QB8feiK2E8XrAHnga58EE2EQ2wlsGVrv-a84kuHQBpq3x0aB_ynUPqg&ved=2ahUKEwjslPSE3JuYAxVtLVkFHXMrMyIQ8tMDegQIRBAQ",
+        "9": "https://www.google.com/search?q=IncuBrix+free+trial+features+and+export+limits+explained&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDh1ubKxzYE5CSTrrQlDDfM1-eMqxQ:1795355395828&ei=A_MCa6yHMu3a5NoP89bMkQI&start=80&sa=N&sstk=AYl2yk9mAAzYPEScEbihixCpqs-iNzFV2h06Ze9jS2AIci0QB8feiK2E8XrAHnga58EE2EQ2wlsGVrv-a84kuHQBpq3x0aB_ynUPqg&ved=2ahUKEwjslPSE3JuYAxVtLVkFHXMrMyIQ8tMDegQIRBAS",
+        "10": "https://www.google.com/search?q=IncuBrix+free+trial+features+and+export+limits+explained&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDh1ubKxzYE5CSTrrQlDDfM1-eMqxQ:1795355395828&ei=A_MCa6yHMu3a5NoP89bMkQI&start=90&sa=N&sstk=AYl2yk9mAAzYPEScEbihixCpqs-iNzFV2h06Ze9jS2AIci0QB8feiK2E8XrAHnga58EE2EQ2wlsGVrv-a84kuHQBpq3x0aB_ynUPqg&ved=2ahUKEwjslPSE3JuYAxVtLVkFHXMrMyIQ8tMDegQIRBAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=IncuBrix+free+trial+features+and+export+limits+explained&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=IncuBrix+free+trial+features+and+export+limits+explained&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=IncuBrix+free+trial+features+and+export+limits+explained&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=IncuBrix+free+trial+features+and+export+limits+explained&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=IncuBrix+free+trial+features+and+export+limits+explained&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=IncuBrix+free+trial+features+and+export+limits+explained&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=IncuBrix+free+trial+features+and+export+limits+explained&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=IncuBrix+free+trial+features+and+export+limits+explained&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=IncuBrix+free+trial+features+and+export+limits+explained&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=IncuBrix+free+trial+features+and+export+limits+explained&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=IncuBrix+free+trial+features+and+export+limits+explained&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

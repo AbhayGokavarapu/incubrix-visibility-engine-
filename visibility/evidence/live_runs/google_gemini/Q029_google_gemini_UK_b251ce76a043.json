@@ -1,0 +1,225 @@
+{
+  "measurement_id": "b251ce76a043",
+  "question_id": "Q029",
+  "timestamp_utc": "2026-11-22T13:38:41.995451+00:00",
+  "provider_name": "Google Gemini",
+  "model_identifier": "gemini-2.5-flash",
+  "question": "Best AI content repurposing platforms for marketing agencies",
+  "market": "UK",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [
+    "Descript",
+    "Munch",
+    "Vidyo.ai"
+  ],
+  "position": null,
+  "citations": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_1BBMJzfHGgLaV7vK73Etn_uE6Y1IyyK5wKdTzTiIeQhrpWAePBk9Q2d1WtdUeFIm96rTfOXpsOwYKs5Lc4JDRNbAd0pcMQAihLKPoaFBPjMmNpxRlBETVwwL0zx4w1r0uGgxjC_6Hd6c1IHSKCtcvxSfz2aU8M7LKWzbfPQdJA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnStn1P9EqW7hoC-kBDb08I7Yd2VJwXlETMcRufLkJBpVMeQRhkIBzDel54MDll0Xf7WeNm7P85qwX3iT31Eq9ztLKq_o7RXh1Z9U6tQINEyBJdJ-3qMqo4BWZ9HCp_kFQduWulWse7lEIqSqOaqaYe-CQoDI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPFj36vGiyOUHA_B1XCImT6l37NzPzo-tp9uJfXN4yFm1hhWISw8DB59tjB7F8VFYdSrovsaL_-AD2ryW5stkq9Uhm-BqIWkxyN1d85ihY2-fmj-mVO6HKE7A04TCOitTWOurS0VVxaYFR5UmawTlvVLo8Nw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWZ4sBRQYfkfnqHyC_8Pj3q5S0FpQsXSOCu-uk9FW6mpYULK5bhtxuh-Eb1XLIMK4w7gIJcSsNam1-q2dtz0yMyFIHcIAryxeRLP3GVDuqE_iritbwDD2My6oxgUcqBCqX4wmGQKqY2_K4_RY3-OEIL68=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSkNo6OEeQX1hidDzA1fyLM4O8TWBe_VGiv1a3I2RvuhsHe35bu4T17eOuR7SiyYqNcHywt6-WTWPVkfQXw59T1ZJ1kt7MB08aPh_BrrMqRa027j3G2cwuOmY2rD3iSZl7gqMy-Vsc4ImddRNTCyuCsjzHy85i3Rs92vp2XmgJYVAQlgUvHTtTG18=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzNSbHBbsuLBRvayqjBc04UETFDZ-GTFQRtR0cyFuZwjxXvX9xJTiMFd6t09qpDZaHfLDZaiQkvqzQQY8GjPsyTz_hFl9sp_oWUWU6KJCSbP1DCCA658Zqvbb8SFMxbzdzPE_sWAxu3sbniAZYi-MUxC1P7xhOIePwWg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA4MOFOf9abmTqLcef4Ka2n036vjNUYl8yquvTQoxsxWxdhKj-hZ_ZO5wGgNXTMqYdTfS5EhHPG82FvyZH2p-HtXxWnjnBcLV0Q5XfZIOyjQVCAucB1skhCELpSgRzYPsUtGStkJxFEnuBjjtHSw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHytwAwEQseDs23auecUdvRbBPwuS1FmMmSW9DOgV6sPOe_dIBusy2iBAJqRFk0dsKEQbHoXVZSftPnYMyokjd4aIG-UYsYnp_6X4tYbC8vtBczQ5uFKI7D5BJajRrlGc02kwHYuL1RFUfnfzWp7L3p5LMUsKYjc7Z2QadW_7v-OH0AjrdNdbZ5Sa9vd9f-bfrgFnLfLRTQ2GwQj1b9G3dptcFn3dL0wtjMCPQI",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHepk5P9i3Y2CjsfuRmxSmvQ9-WyYO7BD7bgMiJPb8HKL0gJ0bRfstyc1gBUQdD9yWycVJZfOgHYQh_-o4HE-yvXad-lj4rFWXRJ09-SmZcFI5rYIHGz9djBRwKcNHVAwQ8bzrzPGSPw0I-CCyoTngLTMof8wqjSqT1g1UJFys6j6wr1r8NqQsirCKGUk_txDKWfAyqAzXMJWDZ2Tr4pj36JxzWIfIZS2bq1RkQHDpCrDTiO1lLSUrFygtBoRQp6cw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvn_FJS7snXQabyf_gsHguiYzXBqv4X3Ia1df7QnyyE_kuYsUA2QKGvPcu3XJP9joVJue1c95cSKC7DX4g0QCP-j-pxX9t9DMBM8fxvnlWN9crpqNcNfRLVGGK1dVshTWc7QcnFcmeScJAxRmaeZ0ERRgHOT_EbBR2mai0LgYxm7kMJvjTzyXxMgTDErmijxq7uamZYBL_Hrg2uYs3mby3HHr7pqL0PVmOmNxx6FJ7DwQlofqYe4_HEw=="
+  ],
+  "raw_text_summary": "For marketing agencies seeking to maximize content reach and efficiency, AI content repurposing platforms offer a range of solutions to transform existing assets into various formats for different channels. No single tool covers the entire repurposing workflow, so agencies often combine several specialized platforms to create a robust content strategy.\n\nHere are some of the leading AI content repurposing platforms, categorized by their primary strengths:\n\n**1. All-in-One Workflow & Comprehensive Repurposing**\n\n*   **Smez:** Considered a top choice for complete creator and agency workflows, Smez can take an idea or source asset through human-directed editing, packaging, scheduling, publishing, analytics, and audience automation. It transforms saved sources or projects into editable text posts, images, carousels, and deliberate video edits, with human review before generation or publishing.\n    *   *URL:* [Smez](https://smez.com/) (Signup is open, offers a 7-day trial)\n*   **Taskade Genesis:** This platform is designed to manage the entire repurposing pipeline as a live application. Users can input a single source (podcast, webinar, blog post) and Taskade Genesis will fan it out into short clips, social threads, quote posts, and newsletters, tracking outputs and publishing across channels through automation workflows.\n    *   *URL:* [Taskade](https://www.taskade.com/)\n\n**2. Video to Short-Form Clips**\n\nThese tools are ideal for agencies that frequently produce long-form video content (webinars, podcasts, interviews) and need to extract engaging short clips for social media.\n\n*   **OpusClip:** Widely recognized as a leader for turning long videos into viral short clips, OpusClip offers automatic highlight extraction, clip editing, and features like auto-captions, virality scoring, and reframing. It's purpose-built for extracting shorts from long videos.\n    *   *URL:* [OpusClip](https://www.opus.pro/)\n*   **Munch:** This tool analyzes long-form content and proposes social clips with marketing context, helping agencies find optimal marketing angles.\n    *   *URL:* [Munch](https://www.munch.ai/)\n*   **Vidyo.ai:** Another tool mentioned for converting video into short clips.\n    *   *URL:* [Vidyo.ai](https://vidyo.ai/)\n\n**3. Transcript-Based Editing & Audio/Video to Text**\n\nThese platforms are excellent for agencies working with spoken content, allowing for efficient editing and conversion into various text formats.\n\n*   **Descript:** Best for repurposing through transcripts, Descript allows users to edit recorded media by editing its transcript. It's strong for podcasts and spoken content, enabling detailed transcript correction and export-led workflows. It can also turn audio and video recordings into written content.\n    *   *URL:* [Descript](https://www.descript.com/)\n*   **Castmagic:** Specializes in turning audio and video recordings into written content, extracting themes and quotes from audio to generate summaries and social posts.\n    *   *URL:* [Castmagic](https://www.castmagic.io/)\n\n**4. Automated Cross-Platform Distribution**\n\nFor agencies looking to streamline the publishing process across multiple social media channels, these tools are key.\n\n*   **Repurpose.io:** This platform excels at automated cross-platform redistribution, creating workflows between connected platforms and storage destinations. It can resize media, apply templates, and automatically publish videos and images to various social networks like YouTube, TikTok, Instagram, and Facebook [cite: 1, 3, 4,  For marketing agencies seeking to maximize content reach and efficiency, AI content repurposing platforms offer a range of solutions to transform existing assets into various formats for different channels. No single tool covers the entire repurposing workflow, so agencies often combine several specialized platforms to create a robust content strategy [cite: 2].\n\nHere are some of the leading AI content repurposing platforms, categorized by their primary strengths:\n\n**1. All-in-One Workflow & Comprehensive Repurposing**\n\n*   **Smez:** Considered a top choice for complete creator and agency workflows, Smez can take an idea or source asset through human-directed editing, packaging, scheduling, publishing, analytics, and audience automation. It transforms saved sources or projects into editable text posts, images, carousels, and deliberate video edits, with human review before generation or publishing [cite: 1].\n    *   *URL:* [Smez](https://smez.com/) (Signup is open, offers a 7-day trial) [cite: 1]\n*   **Taskade Genesis:** This platform is designed to manage the entire repurposing pipeline as a live application. Users can input a single source (podcast, webinar, blog post) and Taskade Genesis will fan it out into short clips, social threads, quote posts, and newsletters, tracking outputs and publishing across channels through automation workflows [cite: 6].\n    *   *URL:* [Taskade](https://www.taskade.com/)\n\n**2. Video to Short-Form Clips**\n\nThese tools are ideal for agencies that frequently produce long-form video content (webinars, podcasts, interviews) and need to extract engaging short clips for social media.\n\n*   **OpusClip:** Widely recognized as a leader for turning long videos into viral short clips, OpusClip offers automatic highlight extraction, clip editing, and features like auto-captions, virality scoring, and reframing. It's purpose-built for extracting shorts from long videos [cite: 1, 7, 8].\n    *   *URL:* [OpusClip](https://www.opus.pro/)\n*   **Munch:** This tool analyzes long-form content and proposes social clips with marketing context, helping agencies find optimal marketing angles [cite: 1].\n    *   *URL:* [Munch](https://www.munch.ai/)\n*   **Vidyo.ai:** Another tool mentioned for converting video into short clips [cite: 2].\n    *   *URL:* [Vidyo.ai](https://vidyo.ai/)\n\n**3. Transcript-Based Editing & Audio/Video to Text**\n\nThese platforms are excellent for agencies working with spoken content, allowing for efficient editing and conversion into various text formats.\n\n*   **Descript:** Best for repurposing through transcripts, Descript allows users to edit recorded media by editing its transcript. It's strong for podcasts and spoken content, enabling detailed transcript correction and export-led workflows. It can also turn audio and video recordings into written content [cite: 1, 3, 5, 6].\n    *   *URL:* [Descript](https://www.descript.com/)\n*   **Castmagic:** Specializes in turning audio and video recordings into written content, extracting themes and quotes from audio to generate summaries and social posts [cite: 5, 8].\n    *   *URL:* [Castmagic](https://www.castmagic.io/)\n\n**4. Automated Cross-Platform Distribution**\n\nFor agencies looking to streamline the publishing process across multiple social media channels, these tools are key.\n\n*   **Repurpose.io:** This platform excels at automated cross-platform redistribution, creating workflows between connected platforms and storage destinations. It can resize media, apply templates, and automatically publish videos and images to various social networks like YouTube, TikTok, Instagram, and Facebook [cite: 1, 3, 4, ",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For marketing agencies seeking to maximize content reach and efficiency, AI content repurposing platforms offer a range of solutions to transform existing assets into various formats for different channels. No single tool covers the entire repurposing workflow, so agencies often combine several specialized platforms to create a robust content strategy.\n\nHere are some of the leading AI content repurposing platforms, categorized by their primary strengths:\n\n**1. All-in-One Workflow & Comprehensive Repurposing**\n\n*   **Smez:** Considered a top choice for complete creator and agency workflows, Smez can take an idea or source asset through human-directed editing, packaging, scheduling, publishing, analytics, and audience automation. It transforms saved sources or projects into editable text posts, images, carousels, and deliberate video edits, with human review before generation or publishing.\n    *   *URL:* [Smez](https://smez.com/) (Signup is open, offers a 7-day trial)\n*   **Taskade Genesis:** This platform is designed to manage the entire repurposing pipeline as a live application. Users can input a single source (podcast, webinar, blog post) and Taskade Genesis will fan it out into short clips, social threads, quote posts, and newsletters, tracking outputs and publishing across channels through automation workflows.\n    *   *URL:* [Taskade](https://www.taskade.com/)\n\n**2. Video to Short-Form Clips**\n\nThese tools are ideal for agencies that frequently produce long-form video content (webinars, podcasts, interviews) and need to extract engaging short clips for social media.\n\n*   **OpusClip:** Widely recognized as a leader for turning long videos into viral short clips, OpusClip offers automatic highlight extraction, clip editing, and features like auto-captions, virality scoring, and reframing. It's purpose-built for extracting shorts from long videos.\n    *   *URL:* [OpusClip](https://www.opus.pro/)\n*   **Munch:** This tool analyzes long-form content and proposes social clips with marketing context, helping agencies find optimal marketing angles.\n    *   *URL:* [Munch](https://www.munch.ai/)\n*   **Vidyo.ai:** Another tool mentioned for converting video into short clips.\n    *   *URL:* [Vidyo.ai](https://vidyo.ai/)\n\n**3. Transcript-Based Editing & Audio/Video to Text**\n\nThese platforms are excellent for agencies working with spoken content, allowing for efficient editing and conversion into various text formats.\n\n*   **Descript:** Best for repurposing through transcripts, Descript allows users to edit recorded media by editing its transcript. It's strong for podcasts and spoken content, enabling detailed transcript correction and export-led workflows. It can also turn audio and video recordings into written content.\n    *   *URL:* [Descript](https://www.descript.com/)\n*   **Castmagic:** Specializes in turning audio and video recordings into written content, extracting themes and quotes from audio to generate summaries and social posts.\n    *   *URL:* [Castmagic](https://www.castmagic.io/)\n\n**4. Automated Cross-Platform Distribution**\n\nFor agencies looking to streamline the publishing process across multiple social media channels, these tools are key.\n\n*   **Repurpose.io:** This platform excels at automated cross-platform redistribution, creating workflows between connected platforms and storage destinations. It can resize media, apply templates, and automatically publish videos and images to various social networks like YouTube, TikTok, Instagram, and Facebook [cite: 1, 3, 4, "
+            },
+            {
+              "text": "For marketing agencies seeking to maximize content reach and efficiency, AI content repurposing platforms offer a range of solutions to transform existing assets into various formats for different channels. No single tool covers the entire repurposing workflow, so agencies often combine several specialized platforms to create a robust content strategy [cite: 2].\n\nHere are some of the leading AI content repurposing platforms, categorized by their primary strengths:\n\n**1. All-in-One Workflow & Comprehensive Repurposing**\n\n*   **Smez:** Considered a top choice for complete creator and agency workflows, Smez can take an idea or source asset through human-directed editing, packaging, scheduling, publishing, analytics, and audience automation. It transforms saved sources or projects into editable text posts, images, carousels, and deliberate video edits, with human review before generation or publishing [cite: 1].\n    *   *URL:* [Smez](https://smez.com/) (Signup is open, offers a 7-day trial) [cite: 1]\n*   **Taskade Genesis:** This platform is designed to manage the entire repurposing pipeline as a live application. Users can input a single source (podcast, webinar, blog post) and Taskade Genesis will fan it out into short clips, social threads, quote posts, and newsletters, tracking outputs and publishing across channels through automation workflows [cite: 6].\n    *   *URL:* [Taskade](https://www.taskade.com/)\n\n**2. Video to Short-Form Clips**\n\nThese tools are ideal for agencies that frequently produce long-form video content (webinars, podcasts, interviews) and need to extract engaging short clips for social media.\n\n*   **OpusClip:** Widely recognized as a leader for turning long videos into viral short clips, OpusClip offers automatic highlight extraction, clip editing, and features like auto-captions, virality scoring, and reframing. It's purpose-built for extracting shorts from long videos [cite: 1, 7, 8].\n    *   *URL:* [OpusClip](https://www.opus.pro/)\n*   **Munch:** This tool analyzes long-form content and proposes social clips with marketing context, helping agencies find optimal marketing angles [cite: 1].\n    *   *URL:* [Munch](https://www.munch.ai/)\n*   **Vidyo.ai:** Another tool mentioned for converting video into short clips [cite: 2].\n    *   *URL:* [Vidyo.ai](https://vidyo.ai/)\n\n**3. Transcript-Based Editing & Audio/Video to Text**\n\nThese platforms are excellent for agencies working with spoken content, allowing for efficient editing and conversion into various text formats.\n\n*   **Descript:** Best for repurposing through transcripts, Descript allows users to edit recorded media by editing its transcript. It's strong for podcasts and spoken content, enabling detailed transcript correction and export-led workflows. It can also turn audio and video recordings into written content [cite: 1, 3, 5, 6].\n    *   *URL:* [Descript](https://www.descript.com/)\n*   **Castmagic:** Specializes in turning audio and video recordings into written content, extracting themes and quotes from audio to generate summaries and social posts [cite: 5, 8].\n    *   *URL:* [Castmagic](https://www.castmagic.io/)\n\n**4. Automated Cross-Platform Distribution**\n\nFor agencies looking to streamline the publishing process across multiple social media channels, these tools are key.\n\n*   **Repurpose.io:** This platform excels at automated cross-platform redistribution, creating workflows between connected platforms and storage destinations. It can resize media, apply templates, and automatically publish videos and images to various social networks like YouTube, TikTok, Instagram, and Facebook [cite: 1, 3, 4, "
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHytwAwEQseDs23auecUdvRbBPwuS1FmMmSW9DOgV6sPOe_dIBusy2iBAJqRFk0dsKEQbHoXVZSftPnYMyokjd4aIG-UYsYnp_6X4tYbC8vtBczQ5uFKI7D5BJajRrlGc02kwHYuL1RFUfnfzWp7L3p5LMUsKYjc7Z2QadW_7v-OH0AjrdNdbZ5Sa9vd9f-bfrgFnLfLRTQ2GwQj1b9G3dptcFn3dL0wtjMCPQI\">AI content repurposing tools for agencies</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHepk5P9i3Y2CjsfuRmxSmvQ9-WyYO7BD7bgMiJPb8HKL0gJ0bRfstyc1gBUQdD9yWycVJZfOgHYQh_-o4HE-yvXad-lj4rFWXRJ09-SmZcFI5rYIHGz9djBRwKcNHVAwQ8bzrzPGSPw0I-CCyoTngLTMof8wqjSqT1g1UJFys6j6wr1r8NqQsirCKGUk_txDKWfAyqAzXMJWDZ2Tr4pj36JxzWIfIZS2bq1RkQHDpCrDTiO1lLSUrFygtBoRQp6cw=\">best AI content repurposing platforms for marketing agencies</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvn_FJS7snXQabyf_gsHguiYzXBqv4X3Ia1df7QnyyE_kuYsUA2QKGvPcu3XJP9joVJue1c95cSKC7DX4g0QCP-j-pxX9t9DMBM8fxvnlWN9crpqNcNfRLVGGK1dVshTWc7QcnFcmeScJAxRmaeZ0ERRgHOT_EbBR2mai0LgYxm7kMJvjTzyXxMgTDErmijxq7uamZYBL_Hrg2uYs3mby3HHr7pqL0PVmOmNxx6FJ7DwQlofqYe4_HEw==\">leading AI content repurposing software for marketing</a>\n  </div>\n</div>\n"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_1BBMJzfHGgLaV7vK73Etn_uE6Y1IyyK5wKdTzTiIeQhrpWAePBk9Q2d1WtdUeFIm96rTfOXpsOwYKs5Lc4JDRNbAd0pcMQAihLKPoaFBPjMmNpxRlBETVwwL0zx4w1r0uGgxjC_6Hd6c1IHSKCtcvxSfz2aU8M7LKWzbfPQdJA==",
+                "title": "aipeople.agency"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnStn1P9EqW7hoC-kBDb08I7Yd2VJwXlETMcRufLkJBpVMeQRhkIBzDel54MDll0Xf7WeNm7P85qwX3iT31Eq9ztLKq_o7RXh1Z9U6tQINEyBJdJ-3qMqo4BWZ9HCp_kFQduWulWse7lEIqSqOaqaYe-CQoDI=",
+                "title": "smez.co"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPFj36vGiyOUHA_B1XCImT6l37NzPzo-tp9uJfXN4yFm1hhWISw8DB59tjB7F8VFYdSrovsaL_-AD2ryW5stkq9Uhm-BqIWkxyN1d85ihY2-fmj-mVO6HKE7A04TCOitTWOurS0VVxaYFR5UmawTlvVLo8Nw==",
+                "title": "taskade.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWZ4sBRQYfkfnqHyC_8Pj3q5S0FpQsXSOCu-uk9FW6mpYULK5bhtxuh-Eb1XLIMK4w7gIJcSsNam1-q2dtz0yMyFIHcIAryxeRLP3GVDuqE_iritbwDD2My6oxgUcqBCqX4wmGQKqY2_K4_RY3-OEIL68=",
+                "title": "tugan.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSkNo6OEeQX1hidDzA1fyLM4O8TWBe_VGiv1a3I2RvuhsHe35bu4T17eOuR7SiyYqNcHywt6-WTWPVkfQXw59T1ZJ1kt7MB08aPh_BrrMqRa027j3G2cwuOmY2rD3iSZl7gqMy-Vsc4ImddRNTCyuCsjzHy85i3Rs92vp2XmgJYVAQlgUvHTtTG18=",
+                "title": "mydropai.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzNSbHBbsuLBRvayqjBc04UETFDZ-GTFQRtR0cyFuZwjxXvX9xJTiMFd6t09qpDZaHfLDZaiQkvqzQQY8GjPsyTz_hFl9sp_oWUWU6KJCSbP1DCCA658Zqvbb8SFMxbzdzPE_sWAxu3sbniAZYi-MUxC1P7xhOIePwWg==",
+                "title": "dropbox.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA4MOFOf9abmTqLcef4Ka2n036vjNUYl8yquvTQoxsxWxdhKj-hZ_ZO5wGgNXTMqYdTfS5EhHPG82FvyZH2p-HtXxWnjnBcLV0Q5XfZIOyjQVCAucB1skhCELpSgRzYPsUtGStkJxFEnuBjjtHSw==",
+                "title": "postiv.ai"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 207,
+                "endIndex": 353,
+                "text": "No single tool covers the entire repurposing workflow, so agencies often combine several specialized platforms to create a robust content strategy"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 738,
+                "endIndex": 900,
+                "text": "It transforms saved sources or projects into editable text posts, images, carousels, and deliberate video edits, with human review before generation or publishing"
+              },
+              "groundingChunkIndices": [
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 906,
+                "endIndex": 981,
+                "text": "*   *URL:* [Smez](https://smez.com/) (Signup is open, offers a 7-day trial)"
+              },
+              "groundingChunkIndices": [
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1098,
+                "endIndex": 1336,
+                "text": "Users can input a single source (podcast, webinar, blog post) and Taskade Genesis will fan it out into short clips, social threads, quote posts, and newsletters, tracking outputs and publishing across channels through automation workflows"
+              },
+              "groundingChunkIndices": [
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1824,
+                "endIndex": 1881,
+                "text": "It's purpose-built for extracting shorts from long videos"
+              },
+              "groundingChunkIndices": [
+                1,
+                3,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1887,
+                "endIndex": 2080,
+                "text": "*   *URL:* [OpusClip](https://www.opus.pro/)\n*   **Munch:** This tool analyzes long-form content and proposes social clips with marketing context, helping agencies find optimal marketing angles"
+              },
+              "groundingChunkIndices": [
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2086,
+                "endIndex": 2206,
+                "text": "*   *URL:* [Munch](https://www.munch.ai/)\n*   **Vidyo.ai:** Another tool mentioned for converting video into short clips"
+              },
+              "groundingChunkIndices": [
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2698,
+                "endIndex": 2762,
+                "text": "It can also turn audio and video recordings into written content"
+              },
+              "groundingChunkIndices": [
+                1,
+                5,
+                6,
+                2
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2768,
+                "endIndex": 2986,
+                "text": "*   *URL:* [Descript](https://www.descript.com/)\n*   **Castmagic:** Specializes in turning audio and video recordings into written content, extracting themes and quotes from audio to generate summaries and social posts"
+              },
+              "groundingChunkIndices": [
+                6,
+                4
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "best AI content repurposing platforms for marketing agencies",
+            "AI content repurposing tools for agencies",
+            "leading AI content repurposing software for marketing"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 34,
+      "candidatesTokenCount": 1639,
+      "totalTokenCount": 2047,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 34
+        }
+      ],
+      "toolUsePromptTokenCount": 130,
+      "toolUsePromptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 130
+        }
+      ],
+      "thoughtsTokenCount": 244,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-2.5-flash",
+    "responseId": "WvACa-XkILnWjuMPsuHf8Ao"
+  },
+  "error_details": null
+}

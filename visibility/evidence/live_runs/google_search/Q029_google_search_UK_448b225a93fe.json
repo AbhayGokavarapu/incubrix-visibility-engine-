@@ -1,0 +1,511 @@
+{
+  "measurement_id": "448b225a93fe",
+  "question_id": "Q029",
+  "timestamp_utc": "2026-11-22T13:38:45.567823+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "Best AI content repurposing platforms for marketing agencies",
+  "market": "UK",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [
+    "Opus Clip",
+    "Descript"
+  ],
+  "position": null,
+  "citations": [
+    "https://postiv.ai/blog/content-repurposing-software",
+    "https://www.reddit.com/r/GrowthHacking/comments/1rzo7j2/what_content_repurposing_tool_do_marketers/",
+    "https://www.google.com/goto?url=CAESeQHEIkXXWT_GqWcFlajtb1tnkWsy0E3nxr79AjiE2rPHHp4zk_B4buvP3wpqzz89llJK4df0hhGOdnMyUbLXHsneRHCPyhWU8p53rlemNEHQneI4XBW8E5lkA9hE7YbHIS6reYKyvQRGRbveXmjL1uEL_VsEdcG97Vw",
+    "https://www.google.com/goto?url=CAESdAHEIkXXROLBmlgikZzAJgclubHEP0yg4tsBYFrvK17Q9F08UiYx10K1B3vlYgEA98DRoh2oeWoFgll8TyjasYl5novtMS9W5_SqnC2-1X0bLS02eMuajdAhkBZxvkM8nVR_8XabHqp0vZdTp_85839_M6GZ",
+    "https://www.google.com/goto?url=CAESfAHEIkXX6jcu6GtlwO2uvGxK35D60Iyd8CxmAVFwIkOn4a1IBTXXU4Nx7Q_TurqjNmxdcL9_wFVXu1RtfUK5yZ7f4AIupzWv7EfaKsRK9kMOSbp9qFBNvTyFlW232SukBFhiKwQYT5AxOvAsh2f3_eB0hlXG0ibeQxYaoXU",
+    "https://www.google.com/goto?url=CAEScAHEIkXXcrdZN7HGaJNLv8uXk3-vRffMAAK49ft5vjW0f1jNXiDJfvm-JsU4EZjfNH3Ba82Lb-yoRVlcHctoNkd8nCbrSWgA8qgJnsC01UHFE_8-Xdrl7hz_QJlQVisep4pagl0Yu1gWFz27ouZGDnY",
+    "https://www.google.com/goto?url=CAESbgHEIkXXXBx6_Ac1YGjezNQYPm6d1A-TcKKfkR1UbTvX_LgFsOf7GXue1QzoR75x3Vi0j08We30fW5rxmE69_hq4I1D4SZCIOO8xuojMs7rwe3o8kIWHh-ZyxnGO0hMC1jd7RGXLFa2XA_BoS-8C&gsessionid=OMCPYX8T5rSEyplDsezFnlbSTZ7xjP9p6pKzh2Vx_zdrAAlASOfNjA",
+    "https://www.google.com/goto?url=CAESggEBxCJF1x1gRzT6x48fGHF_dXl8lYR_DXcHqV4WIbVepbGH7IZAlCjTNxo7we3mGodHqo6uxYSABhMNI1FI05cemguBYA1WQ7sJ1cTxkx4D8xktqdV3nnat9mXLNbKV3RSlS5JV-r5YgI_1Po8pfc3eds7VmGMHHyRyUNvT-j-t7QRz",
+    "https://www.google.com/goto?url=CAESdgHEIkXX2M0recX7OLmjyUBTdVsWGLP_LVUZAXfcQGPpA8xKX4slTufj03Hd_VCTc1hHry_rf7e2uY0UV7VAlFKjymGkk-Cvg_gOhhCyI1hx4nbpnw6br_KJiLa8HAOOUcjFJreClJk_0tKU4ulAAJwx1Qs8bvk"
+  ],
+  "raw_text_summary": "Content Repurposing Tools: 9 Best for 2026 (Free and ... Compare 9 content repurposing tools by price, free plan, and best use: Postiv, Repurpose.io, Opus Clip, Castmagic, Descript and more. What content repurposing tool do marketers actually use ... I'm a marketing manager and everyone talks about content repurposing but when I ask what tools they use I get vague answers or just manual ... 17 Best AI Content Repurposing Tools teams are using to ship ... Top AI content repurposing tools (including Metaflow AI, Repurpose.io, Jasper, and Copy.ai) offer features like brand voice consistency, ... Best AI Content Repurposing Tools in 2026 (Compared) There is no single best AI content repurposing tool, because the category splits in three. To turn long videos into short clips, pick OpusClip. 5 best AI content repurposing tools and strategies 1. Jasper ... \u200dBest for: Repurposing blog content into short-form copy\u2014like ads, email snippets, and social posts. Why it works for repurposing:. 14 Best Content Repurposing Tools To Help You Reach ... Jasper AI. Jasper AI. Best for: Marketing teams, agencies, enterprises needing brand consistency. Pricing: Pro $59/seat/month annually | Business (custom ... How I Built a Content Repurposing AI Agent (Step-by-Step) Airia is a no-code AI automation platform that helps you turn one piece of content into an entire week of usable posts. In this video, I ... Best Content Repurposing Tools for Marketers in 2026 The best content repurposing tools for marketers depend on your content format. Use Opus Clip or Descript for video, ChatGPT or Claude for text, ... 9 Best AI Content Repurposing Tools in 2026 The best AI content repurposing tool in 2026 is Taskade Genesis, the only one that runs the whole one-to-many pipeline as a live app you own ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f063d114df6b6a05d87f",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/H2Hkgaz4IG86DBK58hVcXk2nQO5nGJykDXp8q9xp1Po/6b02f063d114df6b6a05d87f.json",
+      "markdown_endpoint": "https://serpapi.com/searches/H2Hkgaz4IG86DBK58hVcXk2nQO5nGJykDXp8q9xp1Po/6b02f063d114df6b6a05d87f.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/H2Hkgaz4IG86DBK58hVcXk2nQO5nGJykDXp8q9xp1Po/6b02f063d114df6b6a05d87f.json_with_pixel_position",
+      "created_at": "2026-11-22 13:38:43 UTC",
+      "processed_at": "2026-11-22 13:38:43 UTC",
+      "google_url": "https://www.google.com/search?q=Best+AI+content+repurposing+platforms+for+marketing+agencies&oq=Best+AI+content+repurposing+platforms+for+marketing+agencies&hl=en&gl=uk&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/H2Hkgaz4IG86DBK58hVcXk2nQO5nGJykDXp8q9xp1Po/6b02f063d114df6b6a05d87f.html",
+      "total_time_taken": 0.67
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "Best AI content repurposing platforms for marketing agencies",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "uk",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "Best AI content repurposing platforms for marketing agencies",
+      "total_results": 106,
+      "time_taken_displayed": 0.15,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+      {
+        "question": "Which AI platform is best for content creation?",
+        "type": "ai_overview",
+        "page_token": "hc1bVHicHdBRkpMwHIDx0cPs45aArW5nOs5gw1YsqYQkkLzshH-g0KTAtNjSPnoEz-CTh_EAnsIjuOMJvt9833-6trN_3vxoxnE4L2ez6_X6uO_7vaseoT_O9PnWwQy0c6UGu1y8X6CPNazwBcJPJwhTTrF0xuUsZsx6dyJiUbbIU0xsKZ5rbYXNivjCgibc4WmSvrAEx1Tl9Fk_j3dxIInB74Kyw0Hqk68pioXZqK7wogD81M8YiZKDy0p_CCWf19Q-SUBPQcUNAtuQbU63uWi6Mh826SEuRKc6WjidBiSnryUShbLC6KY6fns1tlsxnHP-GUFnRrCRYryR8p56DCu2w2aTCPINIteojVrzI2LCqZx4igKKWNJ6nvFViBujOY7WklGcczKRgM6lP6bK-zBKH4Uw9W3Km12CeUCP6Et2Nz3YCZcubCAYLoXn6lIIpf1pka1jra4PNVxWwcP_16uX-jguh1O__wWnSo-VedHjb_v2L_wDzSWSSw",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=hc1bVHicHdBRkpMwHIDx0cPs45aArW5nOs5gw1YsqYQkkLzshH-g0KTAtNjSPnoEz-CTh_EAnsIjuOMJvt9833-6trN_3vxoxnE4L2ez6_X6uO_7vaseoT_O9PnWwQy0c6UGu1y8X6CPNazwBcJPJwhTTrF0xuUsZsx6dyJiUbbIU0xsKZ5rbYXNivjCgibc4WmSvrAEx1Tl9Fk_j3dxIInB74Kyw0Hqk68pioXZqK7wogD81M8YiZKDy0p_CCWf19Q-SUBPQcUNAtuQbU63uWi6Mh826SEuRKc6WjidBiSnryUShbLC6KY6fns1tlsxnHP-GUFnRrCRYryR8p56DCu2w2aTCPINIteojVrzI2LCqZx4igKKWNJ6nvFViBujOY7WklGcczKRgM6lP6bK-zBKH4Uw9W3Km12CeUCP6Et2Nz3YCZcubCAYLoXn6lIIpf1pka1jra4PNVxWwcP_16uX-jguh1O__wWnSo-VedHjb_v2L_wDzSWSSw",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlJqazJPRWhWVjI1aWNTMVBPV294WjFWclVIVXhSR3QyWDI1TE9GaExWelkxTFZJMlpIYzFPWGx0ZUZSS05DMW9PSEJOY0VwcFVqaDNRazVsVW5JM01qZFdRemRDYlVNNGFqUXpiMVJNTjNORVZrTnNUSG8yWm5OWlp4SVhXbEJCUTJFMFJGbERjVGQwZVdOclVHZFBMV050UVhNYUlrRklUakJGTjBWTloyZFpaWGsyT1RaaFpGWTRhV0o2VURCMlkzcFNhRFJ4WW1jIiwiZmN2IjoiMyIsImVpIjoiWlBBQ2E0RFlDcTd0eWNrUGdPLWNtQXMiLCJxYyI6ImMtT3lTVW90TGxGSXpGUkl6czhyU2MwclVTaEtMU2d0S3NndnpzeExWeWpJU1N4Snl5X0tMVllBa2dxNWlVWFpxU1VnOGNUMDFMemt6TlJpQVliYWZpY09ld0EiLCJxdWVzdGlvbiI6IldoaWNoIEFJIHBsYXRmb3JtIGlzIGJlc3QgZm9yIGNvbnRlbnQgY3JlYXRpb24/IiwibGsiOiJHaTUzYUdsamFDQmhhU0J3YkdGMFptOXliU0JwY3lCaVpYTjBJR1p2Y2lCamIyNTBaVzUwSUdOeVpXRjBhVzl1IiwiYnMiOiJjNDJRTVFzQ01ReUZjZTNrSUE1RkpKUGdDYWNjT0o5dUN1NkhZejJqTFY2YjB2YTR2Ml9zZWlJT0daSzg3NUVYMFlwdG8wMnI0WGdHMzZuMG9HREJSTGhoVE1BTnRPUVN1Z1J0UUpVTXVicmF5WExJaURMX0llSXFpaE1OWUh1RzdvUVJBdm8tZUlwWUdtSTVjeDREV09aMFhXM2tXbjlYdzBndExxSm90RXFnQWtMU1hPUmhQN3FBeDlURnVsckt4Uy1CT0loVmR1TTBIN09jaUItanZNX0JyQW92VE1ZOTYyb3VaeHhfdEpoTzNnIiwiaWQiOiJmY19aUEFDYTREWUNxN3R5Y2tQZ08tY21Bc181In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlJqazJPRWhWVjI1aWNTMVBPV294WjFWclVIVXhSR3QyWDI1TE9GaExWelkxTFZJMlpIYzFPWGx0ZUZSS05DMW9PSEJOY0VwcFVqaDNRazVsVW5JM01qZFdRemRDYlVNNGFqUXpiMVJNTjNORVZrTnNUSG8yWm5OWlp4SVhXbEJCUTJFMFJGbERjVGQwZVdOclVHZFBMV050UVhNYUlrRklUakJGTjBWTloyZFpaWGsyT1RaaFpGWTRhV0o2VURCMlkzcFNhRFJ4WW1jIiwiZmN2IjoiMyIsImVpIjoiWlBBQ2E0RFlDcTd0eWNrUGdPLWNtQXMiLCJxYyI6ImMtT3lTVW90TGxGSXpGUkl6czhyU2MwclVTaEtMU2d0S3NndnpzeExWeWpJU1N4Snl5X0tMVllBa2dxNWlVWFpxU1VnOGNUMDFMemt6TlJpQVliYWZpY09ld0EiLCJxdWVzdGlvbiI6IldoaWNoIEFJIHBsYXRmb3JtIGlzIGJlc3QgZm9yIGNvbnRlbnQgY3JlYXRpb24%2FIiwibGsiOiJHaTUzYUdsamFDQmhhU0J3YkdGMFptOXliU0JwY3lCaVpYTjBJR1p2Y2lCamIyNTBaVzUwSUdOeVpXRjBhVzl1IiwiYnMiOiJjNDJRTVFzQ01ReUZjZTNrSUE1RkpKUGdDYWNjT0o5dUN1NkhZejJqTFY2YjB2YTR2Ml9zZWlJT0daSzg3NUVYMFlwdG8wMnI0WGdHMzZuMG9HREJSTGhoVE1BTnRPUVN1Z1J0UUpVTXVicmF5WExJaURMX0llSXFpaE1OWUh1RzdvUVJBdm8tZUlwWUdtSTVjeDREV09aMFhXM2tXbjlYdzBndExxSm90RXFnQWtMU1hPUmhQN3FBeDlURnVsckt4Uy1CT0loVmR1TTBIN09jaUItanZNX0JyQW92VE1ZOTYyb3VaeHhfdEpoTzNnIiwiaWQiOiJmY19aUEFDYTREWUNxN3R5Y2tQZ08tY21Bc181In0%3D"
+      },
+      {
+        "question": "How much does repurpose.io cost per month?",
+        "type": "ai_overview",
+        "page_token": "JE0-I3icHdBdbtowAABgbYfpY4kTYC0SmkRxRlhjZAf_hJfKsUNMbJK0uJDkcWfZ0w6zA_QUPcKkfUf4fv12p8Z-fLka77vLYjK53W73VdtWrrxX7XkiL0OjJko6V0hlF_Nvc_D9qJbwPVk9vSYrTAnMnXa86XgBq6lkytNNPN-vDVPC7Mp11bMmHbglV94cSMovgAiS4ToNtPVJFgCmad_yBr3iiJlUdBslul3xI0Yl1SEawJWNGJQQPDGR9CogqBBkpQCSJXsEpD5MKXuI9NnM0xBhGh6OWGxPsmaOb7aGcJJncTuwPTk_02QoxnRW1lv8nAWh5tgjkU4zOGOU2zGjutNcI1pvCTRaUhiv8z2BnKIeRWSWhx4fggefh2Cl-vaEqdmlkEaksQEZzSW3jxs2OidC1WfW7SWPf-Y1E1mDI4rvjuq6jO7-fy5fjme_6N7a6o96K6Uv9Yv0f-3XT_UPHtSKkQ",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=JE0-I3icHdBdbtowAABgbYfpY4kTYC0SmkRxRlhjZAf_hJfKsUNMbJK0uJDkcWfZ0w6zA_QUPcKkfUf4fv12p8Z-fLka77vLYjK53W73VdtWrrxX7XkiL0OjJko6V0hlF_Nvc_D9qJbwPVk9vSYrTAnMnXa86XgBq6lkytNNPN-vDVPC7Mp11bMmHbglV94cSMovgAiS4ToNtPVJFgCmad_yBr3iiJlUdBslul3xI0Yl1SEawJWNGJQQPDGR9CogqBBkpQCSJXsEpD5MKXuI9NnM0xBhGh6OWGxPsmaOb7aGcJJncTuwPTk_02QoxnRW1lv8nAWh5tgjkU4zOGOU2zGjutNcI1pvCTRaUhiv8z2BnKIeRWSWhx4fggefh2Cl-vaEqdmlkEaksQEZzSW3jxs2OidC1WfW7SWPf-Y1E1mDI4rvjuq6jO7-fy5fjme_6N7a6o96K6Uv9Yv0f-3XT_UPHtSKkQ",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlJqazJPRWhWVjI1aWNTMVBPV294WjFWclVIVXhSR3QyWDI1TE9GaExWelkxTFZJMlpIYzFPWGx0ZUZSS05DMW9PSEJOY0VwcFVqaDNRazVsVW5JM01qZFdRemRDYlVNNGFqUXpiMVJNTjNORVZrTnNUSG8yWm5OWlp4SVhXbEJCUTJFMFJGbERjVGQwZVdOclVHZFBMV050UVhNYUlrRklUakJGTjBWTloyZFpaWGsyT1RaaFpGWTRhV0o2VURCMlkzcFNhRFJ4WW1jIiwiZmN2IjoiMyIsImVpIjoiWlBBQ2E0RFlDcTd0eWNrUGdPLWNtQXMiLCJxYyI6ImMtT3lTVW90TGxGSXpGUkl6czhyU2MwclVTaEtMU2d0S3NndnpzeExWeWpJU1N4Snl5X0tMVllBa2dxNWlVWFpxU1VnOGNUMDFMemt6TlJpQVliYWZpY09ld0EiLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGRvZXMgcmVwdXJwb3NlLmlvIGNvc3QgcGVyIG1vbnRoPyIsImxrIjoiR2lsb2IzY2diWFZqYUNCa2IyVnpJSEpsY0hWeWNHOXpaU0JwYnlCamIzTjBJSEJsY2lCdGIyNTBhQSIsImJzIjoiYzQyUU1Rc0NNUXlGY2Uza0lBNUZKSlBnQ2FjY09KOXVDdTZIWXoyakxWNmIwdmE0djJfc2VpSU9HWks4NzVFWDBZcHRvMDJyNFhnRzM2bjBvR0RCUkxoaFRNQU50T1FTdWdSdFFKVU11YnJheVhMSWlETF9JZUlxaWhNTllIdUc3b1FSQXZvLWVJcFlHbUk1Y3g0RFdPWjBYVzNrV245WHcwZ3RMcUpvdEVxZ0FrTFNYT1JoUDdxQXg5VEZ1bHJLeFMtQk9JaFZkdU0wSDdPY2lCLWp2TV9CckFvdlRNWTk2Mm91Wnh4X3RKaE8zZyIsImlkIjoiZmNfWlBBQ2E0RFlDcTd0eWNrUGdPLWNtQXNfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlJqazJPRWhWVjI1aWNTMVBPV294WjFWclVIVXhSR3QyWDI1TE9GaExWelkxTFZJMlpIYzFPWGx0ZUZSS05DMW9PSEJOY0VwcFVqaDNRazVsVW5JM01qZFdRemRDYlVNNGFqUXpiMVJNTjNORVZrTnNUSG8yWm5OWlp4SVhXbEJCUTJFMFJGbERjVGQwZVdOclVHZFBMV050UVhNYUlrRklUakJGTjBWTloyZFpaWGsyT1RaaFpGWTRhV0o2VURCMlkzcFNhRFJ4WW1jIiwiZmN2IjoiMyIsImVpIjoiWlBBQ2E0RFlDcTd0eWNrUGdPLWNtQXMiLCJxYyI6ImMtT3lTVW90TGxGSXpGUkl6czhyU2MwclVTaEtMU2d0S3NndnpzeExWeWpJU1N4Snl5X0tMVllBa2dxNWlVWFpxU1VnOGNUMDFMemt6TlJpQVliYWZpY09ld0EiLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGRvZXMgcmVwdXJwb3NlLmlvIGNvc3QgcGVyIG1vbnRoPyIsImxrIjoiR2lsb2IzY2diWFZqYUNCa2IyVnpJSEpsY0hWeWNHOXpaU0JwYnlCamIzTjBJSEJsY2lCdGIyNTBhQSIsImJzIjoiYzQyUU1Rc0NNUXlGY2Uza0lBNUZKSlBnQ2FjY09KOXVDdTZIWXoyakxWNmIwdmE0djJfc2VpSU9HWks4NzVFWDBZcHRvMDJyNFhnRzM2bjBvR0RCUkxoaFRNQU50T1FTdWdSdFFKVU11YnJheVhMSWlETF9JZUlxaWhNTllIdUc3b1FSQXZvLWVJcFlHbUk1Y3g0RFdPWjBYVzNrV245WHcwZ3RMcUpvdEVxZ0FrTFNYT1JoUDdxQXg5VEZ1bHJLeFMtQk9JaFZkdU0wSDdPY2lCLWp2TV9CckFvdlRNWTk2Mm91Wnh4X3RKaE8zZyIsImlkIjoiZmNfWlBBQ2E0RFlDcTd0eWNrUGdPLWNtQXNfNSJ9"
+      },
+      {
+        "question": "What are the top 5 content creation tools?",
+        "type": "ai_overview",
+        "page_token": "r9irD3icHdBRToMwAADQ6GH2ua0Dp1mymOCKDl2XlrZAf5bSsrG1QHVEGJ-exS8P4wE8hUcw8R3hfXzaY21-rtKybd15MZl0XTc-NM3BFmPVVBN5vtRqoqS1uVRmMb-dg_u9WsJzFzw0XYAZgZnVNqHh8SW1VQzLLTUCqlU2ozX0NwMpt5D7ea2ZsuENqqOSpVHMUo5FjTA_RT2yPCAzd8wHYQTgvuYuyCrWCy-aJkb7SYKB5OiiQOS2lF2yqsWCuWdmo7JghCbmPN3EINVVH6GTkNlgh22IXqlFLl8FXM0skLBlsb3zEhjKhJUDW6k4BA5jhkoEicAe9PSTPUkQ1PQCTjkLh8djFMTQ7wjV68w6T6frmTTdQFPVFSZ0dMUxMSQTSe_Q1JHRXr0vvdH_2HK3r9qFe2sOX-qtkG2hd7L9Nte_6g9z6IHy",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=r9irD3icHdBRToMwAADQ6GH2ua0Dp1mymOCKDl2XlrZAf5bSsrG1QHVEGJ-exS8P4wE8hUcw8R3hfXzaY21-rtKybd15MZl0XTc-NM3BFmPVVBN5vtRqoqS1uVRmMb-dg_u9WsJzFzw0XYAZgZnVNqHh8SW1VQzLLTUCqlU2ozX0NwMpt5D7ea2ZsuENqqOSpVHMUo5FjTA_RT2yPCAzd8wHYQTgvuYuyCrWCy-aJkb7SYKB5OiiQOS2lF2yqsWCuWdmo7JghCbmPN3EINVVH6GTkNlgh22IXqlFLl8FXM0skLBlsb3zEhjKhJUDW6k4BA5jhkoEicAe9PSTPUkQ1PQCTjkLh8djFMTQ7wjV68w6T6frmTTdQFPVFSZ0dMUxMSQTSe_Q1JHRXr0vvdH_2HK3r9qFe2sOX-qtkG2hd7L9Nte_6g9z6IHy",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlJqazJPRWhWVjI1aWNTMVBPV294WjFWclVIVXhSR3QyWDI1TE9GaExWelkxTFZJMlpIYzFPWGx0ZUZSS05DMW9PSEJOY0VwcFVqaDNRazVsVW5JM01qZFdRemRDYlVNNGFqUXpiMVJNTjNORVZrTnNUSG8yWm5OWlp4SVhXbEJCUTJFMFJGbERjVGQwZVdOclVHZFBMV050UVhNYUlrRklUakJGTjBWTloyZFpaWGsyT1RaaFpGWTRhV0o2VURCMlkzcFNhRFJ4WW1jIiwiZmN2IjoiMyIsImVpIjoiWlBBQ2E0RFlDcTd0eWNrUGdPLWNtQXMiLCJxYyI6ImMtT3lTVW90TGxGSXpGUkl6czhyU2MwclVTaEtMU2d0S3NndnpzeExWeWpJU1N4Snl5X0tMVllBa2dxNWlVWFpxU1VnOGNUMDFMemt6TlJpQVliYWZpY09ld0EiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSB0b3AgNSBjb250ZW50IGNyZWF0aW9uIHRvb2xzPyIsImxrIjoiR2h4MGIzQWdOU0JqYjI1MFpXNTBJR055WldGMGFXOXVJSFJ2YjJ4eiIsImJzIjoiYzQyUU1Rc0NNUXlGY2Uza0lBNUZKSlBnQ2FjY09KOXVDdTZIWXoyakxWNmIwdmE0djJfc2VpSU9HWks4NzVFWDBZcHRvMDJyNFhnRzM2bjBvR0RCUkxoaFRNQU50T1FTdWdSdFFKVU11YnJheVhMSWlETF9JZUlxaWhNTllIdUc3b1FSQXZvLWVJcFlHbUk1Y3g0RFdPWjBYVzNrV245WHcwZ3RMcUpvdEVxZ0FrTFNYT1JoUDdxQXg5VEZ1bHJLeFMtQk9JaFZkdU0wSDdPY2lCLWp2TV9CckFvdlRNWTk2Mm91Wnh4X3RKaE8zZyIsImlkIjoiZmNfWlBBQ2E0RFlDcTd0eWNrUGdPLWNtQXNfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlJqazJPRWhWVjI1aWNTMVBPV294WjFWclVIVXhSR3QyWDI1TE9GaExWelkxTFZJMlpIYzFPWGx0ZUZSS05DMW9PSEJOY0VwcFVqaDNRazVsVW5JM01qZFdRemRDYlVNNGFqUXpiMVJNTjNORVZrTnNUSG8yWm5OWlp4SVhXbEJCUTJFMFJGbERjVGQwZVdOclVHZFBMV050UVhNYUlrRklUakJGTjBWTloyZFpaWGsyT1RaaFpGWTRhV0o2VURCMlkzcFNhRFJ4WW1jIiwiZmN2IjoiMyIsImVpIjoiWlBBQ2E0RFlDcTd0eWNrUGdPLWNtQXMiLCJxYyI6ImMtT3lTVW90TGxGSXpGUkl6czhyU2MwclVTaEtMU2d0S3NndnpzeExWeWpJU1N4Snl5X0tMVllBa2dxNWlVWFpxU1VnOGNUMDFMemt6TlJpQVliYWZpY09ld0EiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSB0b3AgNSBjb250ZW50IGNyZWF0aW9uIHRvb2xzPyIsImxrIjoiR2h4MGIzQWdOU0JqYjI1MFpXNTBJR055WldGMGFXOXVJSFJ2YjJ4eiIsImJzIjoiYzQyUU1Rc0NNUXlGY2Uza0lBNUZKSlBnQ2FjY09KOXVDdTZIWXoyakxWNmIwdmE0djJfc2VpSU9HWks4NzVFWDBZcHRvMDJyNFhnRzM2bjBvR0RCUkxoaFRNQU50T1FTdWdSdFFKVU11YnJheVhMSWlETF9JZUlxaWhNTllIdUc3b1FSQXZvLWVJcFlHbUk1Y3g0RFdPWjBYVzNrV245WHcwZ3RMcUpvdEVxZ0FrTFNYT1JoUDdxQXg5VEZ1bHJLeFMtQk9JaFZkdU0wSDdPY2lCLWp2TV9CckFvdlRNWTk2Mm91Wnh4X3RKaE8zZyIsImlkIjoiZmNfWlBBQ2E0RFlDcTd0eWNrUGdPLWNtQXNfNSJ9"
+      },
+      {
+        "question": "What is the best AI app for marketing?",
+        "type": "ai_overview",
+        "page_token": "F_nB8nicHdDNboIwAADgbA_jUfmZLJiYJcwC1tiF0pafi4EWRCmC0g3luGfZaQ-zB9hT7BG27P6dvvcPeTjV33dxpVTXL2azYRim-7bdy2LK22aW9bcTn_FMyjzj9cJ6tPSnki9BPzjP7eAEFINECpkQFxVHZx2CwMhq7AUa1JDLtVxCJ2HsgBtlcddOGIEx8RBDtMJM03HQuFZKEjP02DUxUMZ9OYaROkSkSvORWTm1N4iikflVTCNcbsH8hAjQeXM9i4al4YqtQwOuGYBlQW1P1FUQ0F6LokQJDxiCwgT5UAtr2G81daVjuhKaCwpGQ1fv_iyqEMBpYAJT-PKY6c6J3PRjTt3RO0AnBA8DJsLPmf2KjriLR1mnEYYksjeYplLo6FzQav5CBZ6U_G1pTv7HlruyUYvu0u4_-aXIVCF2mfqq73_4LyzLfvI",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=F_nB8nicHdDNboIwAADgbA_jUfmZLJiYJcwC1tiF0pafi4EWRCmC0g3luGfZaQ-zB9hT7BG27P6dvvcPeTjV33dxpVTXL2azYRim-7bdy2LK22aW9bcTn_FMyjzj9cJ6tPSnki9BPzjP7eAEFINECpkQFxVHZx2CwMhq7AUa1JDLtVxCJ2HsgBtlcddOGIEx8RBDtMJM03HQuFZKEjP02DUxUMZ9OYaROkSkSvORWTm1N4iikflVTCNcbsH8hAjQeXM9i4al4YqtQwOuGYBlQW1P1FUQ0F6LokQJDxiCwgT5UAtr2G81daVjuhKaCwpGQ1fv_iyqEMBpYAJT-PKY6c6J3PRjTt3RO0AnBA8DJsLPmf2KjriLR1mnEYYksjeYplLo6FzQav5CBZ6U_G1pTv7HlruyUYvu0u4_-aXIVCF2mfqq73_4LyzLfvI",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlJqazJPRWhWVjI1aWNTMVBPV294WjFWclVIVXhSR3QyWDI1TE9GaExWelkxTFZJMlpIYzFPWGx0ZUZSS05DMW9PSEJOY0VwcFVqaDNRazVsVW5JM01qZFdRemRDYlVNNGFqUXpiMVJNTjNORVZrTnNUSG8yWm5OWlp4SVhXbEJCUTJFMFJGbERjVGQwZVdOclVHZFBMV050UVhNYUlrRklUakJGTjBWTloyZFpaWGsyT1RaaFpGWTRhV0o2VURCMlkzcFNhRFJ4WW1jIiwiZmN2IjoiMyIsImVpIjoiWlBBQ2E0RFlDcTd0eWNrUGdPLWNtQXMiLCJxYyI6ImMtT3lTVW90TGxGSXpGUkl6czhyU2MwclVTaEtMU2d0S3NndnpzeExWeWpJU1N4Snl5X0tMVllBa2dxNWlVWFpxU1VnOGNUMDFMemt6TlJpQVliYWZpY09ld0EiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgQUkgYXBwIGZvciBtYXJrZXRpbmc/IiwibGsiOiJHaFJoYVNCaGNIQWdabTl5SUcxaGNtdGxkR2x1WnciLCJicyI6ImM0MlFNUXNDTVF5RmNlM2tJQTVGSkpQZ0NhY2NPSjl1Q3U2SFl6MmpMVjZiMHZhNHYyX3NlaUlPR1pLODc1RVgwWXB0bzAycjRYZ0czNm4wb0dEQlJMaGhUTUFOdE9RU3VnUnRRSlVNdWJyYXlYTElpRExfSWVJcWloTU5ZSHVHN29RUkF2by1lSXBZR21JNWN4NERXT1owWFcza1duOVh3MGd0THFKb3RFcWdBa0xTWE9SaFA3cUF4OVRGdWxyS3hTLUJPSWhWZHVNMEg3T2NpQi1qdk1fQnJBb3ZUTVk5NjJvdVp4eF90SmhPM2ciLCJpZCI6ImZjX1pQQUNhNERZQ3E3dHlja1BnTy1jbUFzXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlJqazJPRWhWVjI1aWNTMVBPV294WjFWclVIVXhSR3QyWDI1TE9GaExWelkxTFZJMlpIYzFPWGx0ZUZSS05DMW9PSEJOY0VwcFVqaDNRazVsVW5JM01qZFdRemRDYlVNNGFqUXpiMVJNTjNORVZrTnNUSG8yWm5OWlp4SVhXbEJCUTJFMFJGbERjVGQwZVdOclVHZFBMV050UVhNYUlrRklUakJGTjBWTloyZFpaWGsyT1RaaFpGWTRhV0o2VURCMlkzcFNhRFJ4WW1jIiwiZmN2IjoiMyIsImVpIjoiWlBBQ2E0RFlDcTd0eWNrUGdPLWNtQXMiLCJxYyI6ImMtT3lTVW90TGxGSXpGUkl6czhyU2MwclVTaEtMU2d0S3NndnpzeExWeWpJU1N4Snl5X0tMVllBa2dxNWlVWFpxU1VnOGNUMDFMemt6TlJpQVliYWZpY09ld0EiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgQUkgYXBwIGZvciBtYXJrZXRpbmc%2FIiwibGsiOiJHaFJoYVNCaGNIQWdabTl5SUcxaGNtdGxkR2x1WnciLCJicyI6ImM0MlFNUXNDTVF5RmNlM2tJQTVGSkpQZ0NhY2NPSjl1Q3U2SFl6MmpMVjZiMHZhNHYyX3NlaUlPR1pLODc1RVgwWXB0bzAycjRYZ0czNm4wb0dEQlJMaGhUTUFOdE9RU3VnUnRRSlVNdWJyYXlYTElpRExfSWVJcWloTU5ZSHVHN29RUkF2by1lSXBZR21JNWN4NERXT1owWFcza1duOVh3MGd0THFKb3RFcWdBa0xTWE9SaFA3cUF4OVRGdWxyS3hTLUJPSWhWZHVNMEg3T2NpQi1qdk1fQnJBb3ZUTVk5NjJvdVp4eF90SmhPM2ciLCJpZCI6ImZjX1pQQUNhNERZQ3E3dHlja1BnTy1jbUFzXzUifQ%3D%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "ukldl3iczVZLcrNGEK7KOtcIG9sSekuuov4aBpAxlqWRotj6F1GhEQyIx0iAjOVlzpJVDpMD5BQ5QoaHZJAlP7JJugoGevo13f3R_Pa7a_vOXz_-akXROryuVuM4rhBKiWtUMPWqerjzcdWkbhhg61tItwE27KWArYB6BkdcYetwGTfnVeiCs1zB8Lndk9DgcCjwnGEL30cA6k1pBjedaIedERleYQ-EXGpfmC_00Fgx98-rsDqvspvzU0NiL5WwYvjzvlhROjZwjbua33Iqdb7eqAyrusdkwH9LsghUwlYHAPKenIg-axFZzCqAx_pythb4A5D4VAFUs51z_ieJ0UQTimnE7BoCczVy-uz5fi81VT-Ii-mD_uHtIQ8rW5zjcD8ieFBNTlCy9R6dSGKaF61kubx3ivrlHXEmASkumH9znIKDTHWa3GKgNEcDgBA662lPzLQ2A7wLPuiTfUTT3u0kYlpidUlYl_PVRcCWWtXGFk4fgjBpfvhzj6c3819aTv1RvyEvU-R2bzZzXPO78gNCj6SKF0zOpfrSWM6tOf8tfa_V6_VOh-80L1Pg4fCAvLCIvICGfOR3B1cRX7mriLU95sqnPU4WUlVwqpmISPapKNPBACrmOU3DkaRT8qzkqwVEFQFcLjfS5LuiEIOLxKrcJcX0v2rAdzB3RKxjZUBzA9OcBcrdhmZAnrweoLglM_SdJivzWnbWzzGnKqkTNem61Ax5i7kxYHlI0punuPRxFCEkIkswSr4UGiAwgiSVVZuWAkheMRnJMjuefMhSKRyYHUQBJYKFSJienEjFgMjA2aqypNo5O4ue5J5ERA5ZSX3At6jLImJ8xTq59SmSP_NhyaLYg-wIM0WsKcpkrFntmmTbzfWL3YPzzvCeGrWQ1ek0tqi3-NpYw_97AO6Hnpt3_lkAJp4-BUBkvQfAt0NPhhkAoXMGgJMMgFA8NfRGe6mjofcWgBDYBQAmQ49pPGehnxh6Xweg-DEAi-UqAvC1VCUAyucAmAy9IgBnK3k_9E4DMHfwCsB_O_TErw-9FIdGtpQn4HZFzk5ChSw3dKDcDrTA09VHcyEZMvXQtrHT0IeT0PSia09fupdze3kt1m-j3fJyzhj02lhyG0E0wugCqBeY-pHhRxeBsd4GaxraPrlYu3pk0sALL9j9wtMDx4gSvk4MH9tGyHluQAVeb73cxK2eunt4mI7aqOkDzX7qDifK93arvRg9j-H4ubsaaHwt1mryutEze7bU2fhTHq3uF1vzaqzdzRqzXcBvZo-TyKfDri0tuqaEB1O11SbjZd9rrJ77Qcwv4ct9HbtGvwtnftOZMIVOeyzB3nowmcRpPKEgaa2gG5iTOEacF2CB1b-5A2OU_N3pQIzBbdqw4njD1jvWJQsqAnQzA0gi7KKsVFyI9bkRPgm43WrgFs9jXTc7pmFyHol2a6HHc6EfCLU_cGDoEcu8Hv3p_PA3_geFDYig",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ukldl3iczVZLcrNGEK7KOtcIG9sSekuuov4aBpAxlqWRotj6F1GhEQyIx0iAjOVlzpJVDpMD5BQ5QoaHZJAlP7JJugoGevo13f3R_Pa7a_vOXz_-akXROryuVuM4rhBKiWtUMPWqerjzcdWkbhhg61tItwE27KWArYB6BkdcYetwGTfnVeiCs1zB8Lndk9DgcCjwnGEL30cA6k1pBjedaIedERleYQ-EXGpfmC_00Fgx98-rsDqvspvzU0NiL5WwYvjzvlhROjZwjbua33Iqdb7eqAyrusdkwH9LsghUwlYHAPKenIg-axFZzCqAx_pythb4A5D4VAFUs51z_ieJ0UQTimnE7BoCczVy-uz5fi81VT-Ii-mD_uHtIQ8rW5zjcD8ieFBNTlCy9R6dSGKaF61kubx3ivrlHXEmASkumH9znIKDTHWa3GKgNEcDgBA662lPzLQ2A7wLPuiTfUTT3u0kYlpidUlYl_PVRcCWWtXGFk4fgjBpfvhzj6c3819aTv1RvyEvU-R2bzZzXPO78gNCj6SKF0zOpfrSWM6tOf8tfa_V6_VOh-80L1Pg4fCAvLCIvICGfOR3B1cRX7mriLU95sqnPU4WUlVwqpmISPapKNPBACrmOU3DkaRT8qzkqwVEFQFcLjfS5LuiEIOLxKrcJcX0v2rAdzB3RKxjZUBzA9OcBcrdhmZAnrweoLglM_SdJivzWnbWzzGnKqkTNem61Ax5i7kxYHlI0punuPRxFCEkIkswSr4UGiAwgiSVVZuWAkheMRnJMjuefMhSKRyYHUQBJYKFSJienEjFgMjA2aqypNo5O4ue5J5ERA5ZSX3At6jLImJ8xTq59SmSP_NhyaLYg-wIM0WsKcpkrFntmmTbzfWL3YPzzvCeGrWQ1ek0tqi3-NpYw_97AO6Hnpt3_lkAJp4-BUBkvQfAt0NPhhkAoXMGgJMMgFA8NfRGe6mjofcWgBDYBQAmQ49pPGehnxh6Xweg-DEAi-UqAvC1VCUAyucAmAy9IgBnK3k_9E4DMHfwCsB_O_TErw-9FIdGtpQn4HZFzk5ChSw3dKDcDrTA09VHcyEZMvXQtrHT0IeT0PSia09fupdze3kt1m-j3fJyzhj02lhyG0E0wugCqBeY-pHhRxeBsd4GaxraPrlYu3pk0sALL9j9wtMDx4gSvk4MH9tGyHluQAVeb73cxK2eunt4mI7aqOkDzX7qDifK93arvRg9j-H4ubsaaHwt1mryutEze7bU2fhTHq3uF1vzaqzdzRqzXcBvZo-TyKfDri0tuqaEB1O11SbjZd9rrJ77Qcwv4ct9HbtGvwtnftOZMIVOeyzB3nowmcRpPKEgaa2gG5iTOEacF2CB1b-5A2OU_N3pQIzBbdqw4njD1jvWJQsqAnQzA0gi7KKsVFyI9bkRPgm43WrgFs9jXTc7pmFyHol2a6HHc6EfCLU_cGDoEcu8Hv3p_PA3_geFDYig"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Content Repurposing Tools: 9 Best for 2026 (Free and ...",
+        "link": "https://postiv.ai/blog/content-repurposing-software",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHEIkXXFF-eS6Co-nX2iYfCOwlkGpeUKtMAgVcyYRzhsaDItegL2N-DQalIb4dMXXnsYlulkD6SiMeiFQ9Xvd6FX-3hAnqEvONE1Gri9h4sNBNdvWKSCa0rvO4x5PNC3TmvIG_l4Ih6F-P-0hXpvx4&ved=2ahUKEwiAmtLE2ZuYAxWudjIDHYA3B7MQFnoECBgQAQ&uoh=1",
+        "displayed_link": "https://postiv.ai \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBxAHBgkIBwgKCgkLFxYPDQwMDRsUFRAWIBgiIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD04Qyg5OjcBCgoKDQwNGhAPGjclHyE3LTE3Nzc3Nys4NTcrNzc3Ny4rODc3NzI1Nzc3LTc3Ny8wNzgtNzc4Nzg4LTcsNTc1N__AABEIABwAHAMBEQACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAADBAUGBwL_xAAoEAACAQEFBwUAAAAAAAAAAAABAgMABAUREjEGISNBUWGBBxMiMlL_xAAaAQACAwEBAAAAAAAAAAAAAAABAgAEBQMG_8QAIhEAAgEDAwUBAAAAAAAAAAAAAAERAgQTAxIxIjJhgeEF_9oADAMBAAIRAxEAPwCFZq9SZxzkZxikbsOoUmpKRBdm3kcxr2phQZamIMs1IE1LZKS1R-m-e4olmvAO3tI2XA8b5akD6486x7habu41XFPwtUbsXTyRHq0iCzXRLaUhS93U--IvzlGPgNpj3712_NbmtLtFuIhTyZsWrWKoyzUgxYINr3suyD3DZ4JIpS2cWyOcqy8QPgAB0GGvOqztFVr5W_UeIHyNUbUViedp5GknkeSRtXdixPk1bppSUI5tyBLUwBljShBMaIAbGiQGTvpgH__Z.jpg",
+        "date": "13 Feb 2026",
+        "snippet": "Compare 9 content repurposing tools by price, free plan, and best use: Postiv, Repurpose.io, Opus Clip, Castmagic, Descript and more.",
+        "snippet_highlighted_words": [
+          "Postiv"
+        ],
+        "sitelinks": {
+          "inline": [
+            {
+              "title": "What to Look For in Content...",
+              "link": "https://www.google.com/goto?url=CAESoQEBxCJF12KvbvAi1vvjf2w3C0_ovq7xXN2_j29_A2cBAVRHZ0YS9Ys8erfmQyFIO7pIe-qzxjy2atHTEKXk0vhgqOddYS9J4AXcakhHK6zI1VJjAVXLPJGIV0-B88gKi-cl2tmuqVVPqYHwjMqtJUeeVWHNYtS_6tANcBIgPvGluWZnTDp7Si4pJeS7OgL8M4i2_JLYjLPbL__hqyZfRx4w4A&gsessionid=OMCPYX8T5rSEyplDsezFnlbSTZ7xjP9p6pKzh2Vx_zdrAAlASOfNjA"
+            },
+            {
+              "title": "Best AI Content Repurposing...",
+              "link": "https://www.google.com/goto?url=CAESnQEBxCJF19cnPo8GF9aFGD5jNj0EGQB4Zn__75QhGIfg6ZT_YaztXAi-_pe9i7FYfXNCNwz1jTbFwIKt1qEgo3hULuZs65jaCkNlNxJqG0QH5epxbvIYo01bMG0FV15lyM3Dl0QB_JiK2_TnfKuz_zUEnP_6uYm-Hkf7P-s_nVnZtP1thQpKUFKpNWj6VTfYdVqQWATNGZaDXbG2rx61&gsessionid=OMCPYX8T5rSEyplDsezFnlbSTZ7xjP9p6pKzh2Vx_zdrAAlASOfNjA"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Compare 9 content repurposing tools by price, free plan, and best use: Postiv, Repurpose.io, Opus Clip, Castmagic, Descript and more.",
+            "source_info_link": "https://postiv.ai/blog/content-repurposing-software",
+            "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBxAHBgkIBwgKCgkLFxYPDQwMDRsUFRAWIBgiIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD04Qyg5OjcBCgoKDQwNGhAPGjclHyE3LTE3Nzc3Nys4NTcrNzc3Ny4rODc3NzI1Nzc3LTc3Ny8wNzgtNzc4Nzg4LTcsNTc1N__AABEIABwAHAMBEQACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAADBAUGBwL_xAAoEAACAQEFBwUAAAAAAAAAAAABAgMABAUREjEGISNBUWGBBxMiMlL_xAAaAQACAwEBAAAAAAAAAAAAAAABAgAEBQMG_8QAIhEAAgEDAwUBAAAAAAAAAAAAAAERAgQTAxIxIjJhgeEF_9oADAMBAAIRAxEAPwCFZq9SZxzkZxikbsOoUmpKRBdm3kcxr2phQZamIMs1IE1LZKS1R-m-e4olmvAO3tI2XA8b5akD6486x7habu41XFPwtUbsXTyRHq0iCzXRLaUhS93U--IvzlGPgNpj3712_NbmtLtFuIhTyZsWrWKoyzUgxYINr3suyD3DZ4JIpS2cWyOcqy8QPgAB0GGvOqztFVr5W_UeIHyNUbUViedp5GknkeSRtXdixPk1bppSUI5tyBLUwBljShBMaIAbGiQGTvpgH__Z.jpg"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUBL2dvdG8_dXJsPUNBRVNjQUhFSWtYWGZncnFMa0xSVkRGTS1uWUZVX0daa1FoRzB4TzJSaE5aZ3R5V0c5UldDM3MxOWZ3YUZVTnpJVmo3NldrbGRxUHhYZ0dMTUVvcVI5R1BtU2ZFd0dVVG1MSTFzMGF0RWtvLWl2T3oyRU9lbFVGeDQtOXhCQnpjZ1RtclpicF92M3lwMlZDR0ZYeHBtVnpFM2FzEgQaAggAGtoGEgIIABoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJAtAYIABAAGAAgACooCgRiZXN0FeUZj0AaBGdvb2QaCGdyZWF0ZXN0GgN0b3AaBmJlc3RhaSpECgJhaRXitVZAGg1hbGwgaW5jbHVzaXZlGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoGYmVzdGFpGglhaWNvbnRlbnQqNwoHY29udGVudBUchMtAGghjb250ZW50cxoJYWljb250ZW50GhJjb250ZW50cmVwdXJwb3NpbmcqOAoLcmVwdXJwb3NpbmcVGcy3QBoSY29udGVudHJlcHVycG9zaW5nGhBpdjtwO3JlcHVycG9zaW5nKiEKCXBsYXRmb3JtcxUGzOU_GghwbGF0Zm9ybRoFc2l0ZXMqCgoDZm9yFQAAAAAqMAoJbWFya2V0aW5nFSZoRT8aC2FkdmVydGlzaW5nGhFtYXJrZXRpbmdhZ2VuY2llcypYCghhZ2VuY2llcxVqux8_GgZhZ2VuY3kaCWNvbXBhbmllcxoHY29tcGFueRoLZGVwYXJ0bWVudHMaBGZpcm0aBWZpcm1zGhFtYXJrZXRpbmdhZ2VuY2llczKlAS9nb3RvP3VybD1DQUVTY0FIRUlrWFhmZ3JxTGtMUlZERk0tbllGVV9HWmtRaEcweE8yUmhOWmd0eVdHOVJXQzNzMTlmd2FGVU56SVZqNzZXa2xkcVB4WGdHTE1Fb3FSOUdQbVNmRXdHVVRtTEkxczBhdEVrby1pdk96MkVPZWxVRng0LTl4QkJ6Y2dUbXJaYnBfdjN5cDJWQ0dGWHhwbVZ6RTNhczpLPGI-Q29udGVudCBSZXB1cnBvc2luZzwvYj4gVG9vbHM6IDkgPGI-QmVzdDwvYj4gZm9yIDIwMjYgKEZyZWUgYW5kIFBhaWQgLi4uQowBQ29tcGFyZSA5IGNvbnRlbnQgcmVwdXJwb3NpbmcgdG9vbHMgYnkgcHJpY2UsIGZyZWUgcGxhbiwgYW5kIGJlc3QgdXNlOiA8Yj5Qb3N0aXY8L2I-LCBSZXB1cnBvc2UuaW8sIE9wdXMgQ2xpcCwgQ2FzdG1hZ2ljLCBEZXNjcmlwdCBhbmQgbW9yZS5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUBL2dvdG8_dXJsPUNBRVNjQUhFSWtYWGZncnFMa0xSVkRGTS1uWUZVX0daa1FoRzB4TzJSaE5aZ3R5V0c5UldDM3MxOWZ3YUZVTnpJVmo3NldrbGRxUHhYZ0dMTUVvcVI5R1BtU2ZFd0dVVG1MSTFzMGF0RWtvLWl2T3oyRU9lbFVGeDQtOXhCQnpjZ1RtclpicF92M3lwMlZDR0ZYeHBtVnpFM2FzEgQaAggAGtoGEgIIABoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJAtAYIABAAGAAgACooCgRiZXN0FeUZj0AaBGdvb2QaCGdyZWF0ZXN0GgN0b3AaBmJlc3RhaSpECgJhaRXitVZAGg1hbGwgaW5jbHVzaXZlGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoGYmVzdGFpGglhaWNvbnRlbnQqNwoHY29udGVudBUchMtAGghjb250ZW50cxoJYWljb250ZW50GhJjb250ZW50cmVwdXJwb3NpbmcqOAoLcmVwdXJwb3NpbmcVGcy3QBoSY29udGVudHJlcHVycG9zaW5nGhBpdjtwO3JlcHVycG9zaW5nKiEKCXBsYXRmb3JtcxUGzOU_GghwbGF0Zm9ybRoFc2l0ZXMqCgoDZm9yFQAAAAAqMAoJbWFya2V0aW5nFSZoRT8aC2FkdmVydGlzaW5nGhFtYXJrZXRpbmdhZ2VuY2llcypYCghhZ2VuY2llcxVqux8_GgZhZ2VuY3kaCWNvbXBhbmllcxoHY29tcGFueRoLZGVwYXJ0bWVudHMaBGZpcm0aBWZpcm1zGhFtYXJrZXRpbmdhZ2VuY2llczKlAS9nb3RvP3VybD1DQUVTY0FIRUlrWFhmZ3JxTGtMUlZERk0tbllGVV9HWmtRaEcweE8yUmhOWmd0eVdHOVJXQzNzMTlmd2FGVU56SVZqNzZXa2xkcVB4WGdHTE1Fb3FSOUdQbVNmRXdHVVRtTEkxczBhdEVrby1pdk96MkVPZWxVRng0LTl4QkJ6Y2dUbXJaYnBfdjN5cDJWQ0dGWHhwbVZ6RTNhczpLPGI-Q29udGVudCBSZXB1cnBvc2luZzwvYj4gVG9vbHM6IDkgPGI-QmVzdDwvYj4gZm9yIDIwMjYgKEZyZWUgYW5kIFBhaWQgLi4uQowBQ29tcGFyZSA5IGNvbnRlbnQgcmVwdXJwb3NpbmcgdG9vbHMgYnkgcHJpY2UsIGZyZWUgcGxhbiwgYW5kIGJlc3QgdXNlOiA8Yj5Qb3N0aXY8L2I-LCBSZXB1cnBvc2UuaW8sIE9wdXMgQ2xpcCwgQ2FzdG1hZ2ljLCBEZXNjcmlwdCBhbmQgbW9yZS5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+        "source": "Postiv AI",
+        "read_more_link": "https://www.google.com/goto?url=CAESzAEBxCJF1y2_4Ma33I2PCsTEfooIpRJ7q5K-mkhMMOGjsDmR7FcjG1EdWzpnSgWyFcic36PcmPnkz1eTx5v7g6wypxDgG6pwzId0cOlkdrjehzBwa37GKUY0D5M3lSxzvjS8bzDaH05H-jKZZanyvsRLgVd_GyG_qPC5sooBSmq0ZldD0JWZ2P-qCPpeyOpLd_z03avaWpNEtr3NOdJc-rgxK5Vv47ftWztSMyG4NaKetdEaVj-R8IzoOVOWQodtG4gAWHSnjP-DgVWnT8o&gsessionid=OMCPYX8T5rSEyplDsezFnlbSTZ7xjP9p6pKzh2Vx_zdrAAlASOfNjA"
+      },
+      {
+        "position": 2,
+        "title": "What content repurposing tool do marketers actually use ...",
+        "link": "https://www.reddit.com/r/GrowthHacking/comments/1rzo7j2/what_content_repurposing_tool_do_marketers/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoAEBxCJF1_R-YYJ88uWkANTbsGr4JSGO5CrB9zH039HCdXBlGa9yXMk9SgXvyx4SPBQ0oZK1i759ts7AvbFF3ksPprlPv-L4Ndk0QPqeXVTAtpceWxWYKRbdCh3tTJdO1QILagswrs08bev6xwAtX8lGHC4ADabYCq9t3UWYE_S1hom-oIi7VIvI7VCpY-cfvGgkU-JSMpBwPe9acNafO6NW&ved=2ahUKEwiAmtLE2ZuYAxWudjIDHYA3B7MQFnoECBkQAQ&uoh=1",
+        "displayed_link": "30+ comments",
+        "date": "8 months ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+        "snippet": "I'm a marketing manager and everyone talks about content repurposing but when I ask what tools they use I get vague answers or just manual ...",
+        "about_this_result": {
+          "source": {
+            "description": "For distribution, Repurpose.io is what a lot of people rely on to push content across platforms without manually uploading everywhere. For text, ...",
+            "source_info_link": "https://www.reddit.com/r/GrowthHacking/comments/1rzo7j2/what_content_repurposing_tool_do_marketers/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuYBL2dvdG8_dXJsPUNBRVNvQUVCeENKRjExblhOcDVFLUQ1QTRXZVVqR0t4dWs5VmRGYzQwQnBhMF93N3FMN2hJXy14TWV4cVZpd2Z2OGF5WGVtOWRnSVBjTkVSMDBGREFFbWtJcnVDVEN5M3NKYlVGTHBWUVhtaExwUW5hekJFOUZad1k1TEpDd1puRGJ6NDZvcFY5ZnA5RkVYNjZMZENEdFNzMTNOZnMzTzg5V1l0SlpwVGM3N1g2akFjSE9HVE5GaXoyREhZMXIxeS1PdlNOZ3lERnB3RXp5R3A3N29LUmRfNU16Y0oSBBoCCAAapgcSAggAGgAiACoAMgYIAhICdWs6AEIECAEQAEoAWgByAHoAgkCABwgAEAAYACAAKigKBGJlc3QV97S8PxoEZ29vZBoIZ3JlYXRlc3QaA3RvcBoGYmVzdGFpKkQKAmFpFQmXrD8aDWFsbCBpbmNsdXNpdmUaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgZiZXN0YWkaCWFpY29udGVudCo3Cgdjb250ZW50FQqhk0AaCGNvbnRlbnRzGglhaWNvbnRlbnQaEmNvbnRlbnRyZXB1cnBvc2luZyo4CgtyZXB1cnBvc2luZxW-24xAGhJjb250ZW50cmVwdXJwb3NpbmcaEGl2O3A7cmVwdXJwb3NpbmcqIQoJcGxhdGZvcm1zFT8Unz8aCHBsYXRmb3JtGgVzaXRlcyoKCgNmb3IVAAAAACowCgltYXJrZXRpbmcVpmyAPxoLYWR2ZXJ0aXNpbmcaEW1hcmtldGluZ2FnZW5jaWVzKlgKCGFnZW5jaWVzFQAAAAAaBmFnZW5jeRoJY29tcGFuaWVzGgdjb21wYW55GgtkZXBhcnRtZW50cxoEZmlybRoFZmlybXMaEW1hcmtldGluZ2FnZW5jaWVzMuYBL2dvdG8_dXJsPUNBRVNvQUVCeENKRjExblhOcDVFLUQ1QTRXZVVqR0t4dWs5VmRGYzQwQnBhMF93N3FMN2hJXy14TWV4cVZpd2Z2OGF5WGVtOWRnSVBjTkVSMDBGREFFbWtJcnVDVEN5M3NKYlVGTHBWUVhtaExwUW5hekJFOUZad1k1TEpDd1puRGJ6NDZvcFY5ZnA5RkVYNjZMZENEdFNzMTNOZnMzTzg5V1l0SlpwVGM3N1g2akFjSE9HVE5GaXoyREhZMXIxeS1PdlNOZ3lERnB3RXp5R3A3N29LUmRfNU16Y0o6QldoYXQgPGI-Y29udGVudCByZXB1cnBvc2luZzwvYj4gdG9vbCBkbyBtYXJrZXRlcnMgYWN0dWFsbHkgdXNlIC4uLkKgAUZvciBkaXN0cmlidXRpb24sIDxiPlJlcHVycG9zZS5pbzwvYj4gaXMgd2hhdCBhIGxvdCBvZiBwZW9wbGUgcmVseSBvbiB0byBwdXNoIGNvbnRlbnQgYWNyb3NzIHBsYXRmb3JtcyB3aXRob3V0IG1hbnVhbGx5IHVwbG9hZGluZyBldmVyeXdoZXJlLiBGb3IgdGV4dCwmbmJzcDsuLi5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuYBL2dvdG8_dXJsPUNBRVNvQUVCeENKRjExblhOcDVFLUQ1QTRXZVVqR0t4dWs5VmRGYzQwQnBhMF93N3FMN2hJXy14TWV4cVZpd2Z2OGF5WGVtOWRnSVBjTkVSMDBGREFFbWtJcnVDVEN5M3NKYlVGTHBWUVhtaExwUW5hekJFOUZad1k1TEpDd1puRGJ6NDZvcFY5ZnA5RkVYNjZMZENEdFNzMTNOZnMzTzg5V1l0SlpwVGM3N1g2akFjSE9HVE5GaXoyREhZMXIxeS1PdlNOZ3lERnB3RXp5R3A3N29LUmRfNU16Y0oSBBoCCAAapgcSAggAGgAiACoAMgYIAhICdWs6AEIECAEQAEoAWgByAHoAgkCABwgAEAAYACAAKigKBGJlc3QV97S8PxoEZ29vZBoIZ3JlYXRlc3QaA3RvcBoGYmVzdGFpKkQKAmFpFQmXrD8aDWFsbCBpbmNsdXNpdmUaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgZiZXN0YWkaCWFpY29udGVudCo3Cgdjb250ZW50FQqhk0AaCGNvbnRlbnRzGglhaWNvbnRlbnQaEmNvbnRlbnRyZXB1cnBvc2luZyo4CgtyZXB1cnBvc2luZxW-24xAGhJjb250ZW50cmVwdXJwb3NpbmcaEGl2O3A7cmVwdXJwb3NpbmcqIQoJcGxhdGZvcm1zFT8Unz8aCHBsYXRmb3JtGgVzaXRlcyoKCgNmb3IVAAAAACowCgltYXJrZXRpbmcVpmyAPxoLYWR2ZXJ0aXNpbmcaEW1hcmtldGluZ2FnZW5jaWVzKlgKCGFnZW5jaWVzFQAAAAAaBmFnZW5jeRoJY29tcGFuaWVzGgdjb21wYW55GgtkZXBhcnRtZW50cxoEZmlybRoFZmlybXMaEW1hcmtldGluZ2FnZW5jaWVzMuYBL2dvdG8_dXJsPUNBRVNvQUVCeENKRjExblhOcDVFLUQ1QTRXZVVqR0t4dWs5VmRGYzQwQnBhMF93N3FMN2hJXy14TWV4cVZpd2Z2OGF5WGVtOWRnSVBjTkVSMDBGREFFbWtJcnVDVEN5M3NKYlVGTHBWUVhtaExwUW5hekJFOUZad1k1TEpDd1puRGJ6NDZvcFY5ZnA5RkVYNjZMZENEdFNzMTNOZnMzTzg5V1l0SlpwVGM3N1g2akFjSE9HVE5GaXoyREhZMXIxeS1PdlNOZ3lERnB3RXp5R3A3N29LUmRfNU16Y0o6QldoYXQgPGI-Y29udGVudCByZXB1cnBvc2luZzwvYj4gdG9vbCBkbyBtYXJrZXRlcnMgYWN0dWFsbHkgdXNlIC4uLkKgAUZvciBkaXN0cmlidXRpb24sIDxiPlJlcHVycG9zZS5pbzwvYj4gaXMgd2hhdCBhIGxvdCBvZiBwZW9wbGUgcmVseSBvbiB0byBwdXNoIGNvbnRlbnQgYWNyb3NzIHBsYXRmb3JtcyB3aXRob3V0IG1hbnVhbGx5IHVwbG9hZGluZyBldmVyeXdoZXJlLiBGb3IgdGV4dCwmbmJzcDsuLi5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+        "source": "Reddit \u00b7 r/GrowthHacking"
+      },
+      {
+        "position": 3,
+        "title": "17 Best AI Content Repurposing Tools teams are using to ship ...",
+        "link": "https://www.google.com/goto?url=CAESeQHEIkXXWT_GqWcFlajtb1tnkWsy0E3nxr79AjiE2rPHHp4zk_B4buvP3wpqzz89llJK4df0hhGOdnMyUbLXHsneRHCPyhWU8p53rlemNEHQneI4XBW8E5lkA9hE7YbHIS6reYKyvQRGRbveXmjL1uEL_VsEdcG97Vw",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHEIkXXMyGoxmmK9jQ9zSyCG-bv0e7o07exufoN-wVvSGOBKpavt0v3iAZIuHgSlfyqQImf7QUyxhtFmZJr2cAQR7rO3E-yZu34plqcd2vU-sk45Exukd2fs3hCamm5Mzcnt5_7igM6mKx5DpNJElv9T442LSI73dE&ved=2ahUKEwiAmtLE2ZuYAxWudjIDHYA3B7MQFnoECBIQAQ&uoh=1",
+        "displayed_link": "https://metaflow.life \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAzUlEQVR4AcTQIQyDMBRF0WsRCNKkPnMz88nUvESi8Jgp7BwSiawXOHxQ2PlkjgRvECi20t-MkHR2NW16XtO-sv4Y_8USTAgXFMGTBh5B1AljCAei1O_NR0wjBpdKgVOzx4kk2RYVERBz2WElPXo0RdugyL-IYrHzNd5CE5rJYwulK6vdxh1aj-eEl7taad-6FnwS31ZBjphDL3drtpZZROdwdnmJFfYNNuSwhkZwREGq0RipAjbmvxFA0nzSxnRCto0pssJM71GcTOgvCQCU3JFEjUNEvgAAAABJRU5ErkJggg.png",
+        "date": "18 Apr 2026",
+        "snippet": "Top AI content repurposing tools (including Metaflow AI, Repurpose.io, Jasper, and Copy.ai) offer features like brand voice consistency, ...",
+        "snippet_highlighted_words": [
+          "Metaflow AI"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Top AI content repurposing tools (including Metaflow AI, Repurpose.io, Jasper, and Copy.ai) offer features like brand voice consistency, ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESeQHEIkXXWT_GqWcFlajtb1tnkWsy0E3nxr79AjiE2rPHHp4zk_B4buvP3wpqzz89llJK4df0hhGOdnMyUbLXHsneRHCPyhWU8p53rlemNEHQneI4XBW8E5lkA9hE7YbHIS6reYKyvQRGRbveXmjL1uEL_VsEdcG97Vw",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAzUlEQVR4AcTQIQyDMBRF0WsRCNKkPnMz88nUvESi8Jgp7BwSiawXOHxQ2PlkjgRvECi20t-MkHR2NW16XtO-sv4Y_8USTAgXFMGTBh5B1AljCAei1O_NR0wjBpdKgVOzx4kk2RYVERBz2WElPXo0RdugyL-IYrHzNd5CE5rJYwulK6vdxh1aj-eEl7taad-6FnwS31ZBjphDL3drtpZZROdwdnmJFfYNNuSwhkZwREGq0RipAjbmvxFA0nzSxnRCto0pssJM71GcTOgvCQCU3JFEjUNEvgAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhFSWtYWFdUX0dxV2NGbGFqdGIxdG5rV3N5MEUzbnhyNzlBamlFMnJQSEhwNHprX0I0YnV2UDN3cHF6ejg5bGxKSzRkZjBoaEdPZG5NeVViTFhIc25lUkhDUHloV1U4cDUzcmxlbU5FSFFuZUk0WEJXOEU1bGtBOWhFN1liSElTNnJlWUt5dlFSR1JidmVYbWpMMXVFTF9Wc0VkY0c5N1Z3EgQaAggAGu4GEgIIABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJAyAYIABAAGAAgACooCgRiZXN0FXJWzkAaBGdvb2QaCGdyZWF0ZXN0GgN0b3AaBmJlc3RhaSpECgJhaRVg7-5AGg1hbGwgaW5jbHVzaXZlGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoGYmVzdGFpGglhaWNvbnRlbnQqNwoHY29udGVudBUt_OxAGghjb250ZW50cxoJYWljb250ZW50GhJjb250ZW50cmVwdXJwb3NpbmcqOAoLcmVwdXJwb3NpbmcVisjXQBoSY29udGVudHJlcHVycG9zaW5nGhBpdjtwO3JlcHVycG9zaW5nKiEKCXBsYXRmb3JtcxU9LOQ_GghwbGF0Zm9ybRoFc2l0ZXMqCgoDZm9yFQAAAAAqMAoJbWFya2V0aW5nFcHqJEAaC2FkdmVydGlzaW5nGhFtYXJrZXRpbmdhZ2VuY2llcypYCghhZ2VuY2llcxXnb7U9GgZhZ2VuY3kaCWNvbXBhbmllcxoHY29tcGFueRoLZGVwYXJ0bWVudHMaBGZpcm0aBWZpcm1zGhFtYXJrZXRpbmdhZ2VuY2llczKxAS9nb3RvP3VybD1DQUVTZVFIRUlrWFhXVF9HcVdjRmxhanRiMXRua1dzeTBFM254cjc5QWppRTJyUEhIcDR6a19CNGJ1dlAzd3Bxeno4OWxsSks0ZGYwaGhHT2RuTXlVYkxYSHNuZVJIQ1B5aFdVOHA1M3JsZW1ORUhRbmVJNFhCVzhFNWxrQTloRTdZYkhJUzZyZVlLeXZRUkdSYnZlWG1qTDF1RUxfVnNFZGNHOTdWdzpHMTcgPGI-QmVzdCBBSSBDb250ZW50IFJlcHVycG9zaW5nPC9iPiBUb29scyB0ZWFtcyBhcmUgdXNpbmcgdG8gc2hpcCAuLi5CmAFUb3AgQUkgY29udGVudCByZXB1cnBvc2luZyB0b29scyAoaW5jbHVkaW5nIDxiPk1ldGFmbG93IEFJPC9iPiwgUmVwdXJwb3NlLmlvLCBKYXNwZXIsIGFuZCBDb3B5LmFpKSBvZmZlciBmZWF0dXJlcyBsaWtlIGJyYW5kIHZvaWNlIGNvbnNpc3RlbmN5LCZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhFSWtYWFdUX0dxV2NGbGFqdGIxdG5rV3N5MEUzbnhyNzlBamlFMnJQSEhwNHprX0I0YnV2UDN3cHF6ejg5bGxKSzRkZjBoaEdPZG5NeVViTFhIc25lUkhDUHloV1U4cDUzcmxlbU5FSFFuZUk0WEJXOEU1bGtBOWhFN1liSElTNnJlWUt5dlFSR1JidmVYbWpMMXVFTF9Wc0VkY0c5N1Z3EgQaAggAGu4GEgIIABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJAyAYIABAAGAAgACooCgRiZXN0FXJWzkAaBGdvb2QaCGdyZWF0ZXN0GgN0b3AaBmJlc3RhaSpECgJhaRVg7-5AGg1hbGwgaW5jbHVzaXZlGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoGYmVzdGFpGglhaWNvbnRlbnQqNwoHY29udGVudBUt_OxAGghjb250ZW50cxoJYWljb250ZW50GhJjb250ZW50cmVwdXJwb3NpbmcqOAoLcmVwdXJwb3NpbmcVisjXQBoSY29udGVudHJlcHVycG9zaW5nGhBpdjtwO3JlcHVycG9zaW5nKiEKCXBsYXRmb3JtcxU9LOQ_GghwbGF0Zm9ybRoFc2l0ZXMqCgoDZm9yFQAAAAAqMAoJbWFya2V0aW5nFcHqJEAaC2FkdmVydGlzaW5nGhFtYXJrZXRpbmdhZ2VuY2llcypYCghhZ2VuY2llcxXnb7U9GgZhZ2VuY3kaCWNvbXBhbmllcxoHY29tcGFueRoLZGVwYXJ0bWVudHMaBGZpcm0aBWZpcm1zGhFtYXJrZXRpbmdhZ2VuY2llczKxAS9nb3RvP3VybD1DQUVTZVFIRUlrWFhXVF9HcVdjRmxhanRiMXRua1dzeTBFM254cjc5QWppRTJyUEhIcDR6a19CNGJ1dlAzd3Bxeno4OWxsSks0ZGYwaGhHT2RuTXlVYkxYSHNuZVJIQ1B5aFdVOHA1M3JsZW1ORUhRbmVJNFhCVzhFNWxrQTloRTdZYkhJUzZyZVlLeXZRUkdSYnZlWG1qTDF1RUxfVnNFZGNHOTdWdzpHMTcgPGI-QmVzdCBBSSBDb250ZW50IFJlcHVycG9zaW5nPC9iPiBUb29scyB0ZWFtcyBhcmUgdXNpbmcgdG8gc2hpcCAuLi5CmAFUb3AgQUkgY29udGVudCByZXB1cnBvc2luZyB0b29scyAoaW5jbHVkaW5nIDxiPk1ldGFmbG93IEFJPC9iPiwgUmVwdXJwb3NlLmlvLCBKYXNwZXIsIGFuZCBDb3B5LmFpKSBvZmZlciBmZWF0dXJlcyBsaWtlIGJyYW5kIHZvaWNlIGNvbnNpc3RlbmN5LCZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+        "source": "metaflow.life",
+        "read_more_link": "https://www.google.com/goto?url=CAES4AEBxCJF172Au5_R3UkL12ZsqmPhZKURkkxJ2Nq75NjTJoQvMJiCuUP5ihBUQIZqa6GB5cBu9ngtGjWfv2ZnRkOMQsd7ZV-EvKbrVzSofQ6gv8Wd5FAhtLzjnXqSff2_zE7IXWeRcNeUPWCQliM2z9l0wbjPw21xanD5bJeGnuxTllukOheLfHt16OaGtoejRWvbGFKSnpLLHLEJsK9CQQuQ_1EDLeK0_rUskY4jPcfEzxOp32aq4K-uHh4TwGp2JhV8VkLB6-T7-z49SSebYiTPvwKHbOnXO0Qy0XETOzcO9w&gsessionid=OMCPYX8T5rSEyplDsezFnlbSTZ7xjP9p6pKzh2Vx_zdrAAlASOfNjA"
+      },
+      {
+        "position": 4,
+        "title": "Best AI Content Repurposing Tools in 2026 (Compared)",
+        "link": "https://www.google.com/goto?url=CAESdAHEIkXXROLBmlgikZzAJgclubHEP0yg4tsBYFrvK17Q9F08UiYx10K1B3vlYgEA98DRoh2oeWoFgll8TyjasYl5novtMS9W5_SqnC2-1X0bLS02eMuajdAhkBZxvkM8nVR_8XabHqp0vZdTp_85839_M6GZ",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHEIkXXwXtltw9hvQkZa3u4OsnQup-o6xiHPPPPkkP6vaa7toCSholGslcQD4cHlk3ZFbdvV4TnLQodj0U-UieqG8ZAz2RZRB4oEty6sf7iMU-ObBGLVsiUf5gl17UclY96_HEjg38U0MqB3Kp9Kt0gYSUp&ved=2ahUKEwiAmtLE2ZuYAxWudjIDHYA3B7MQFnoECBAQAQ&uoh=1",
+        "displayed_link": "https://tugan.ai \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAANlBMVEVHcEwAwv8Awv8Awv8Awv8Awv8Awv8Awv8Awv8Awv8Awv8Awv8Awv8Awv8Awv8Awv8Awv8Awv-XMeP5AAAAEnRSTlMAI3uw0u1R4_8MLqaMvmT3QBi01jMbAAAAv0lEQVR4AW2Rhw0DMQgAce9t_2Vj7AgRnFNB_CE_BQiljXXOGq1A4kMkggdOsmQONgGR40N-3WvTzST3ZftfWnSeUgH2jDOUZzKcCEBhUZVS355O0FLW-7Vh6FKefbVvKBtzSgoy7hoB44Yejwwu-yMDG0xItxsi5naLyQaa7VocofJsbTl_D-MoEZt2O-1cYsabp34HLfUQAFk8q7wDZLLrFjYXtw02jRyx6OL2_mEBp7srsWp0kMwJG2crxssHQnMQ71aVS4AAAAAASUVORK5CYII.png",
+        "date": "22 Jun 2026",
+        "snippet": "There is no single best AI content repurposing tool, because the category splits in three. To turn long videos into short clips, pick OpusClip.",
+        "snippet_highlighted_words": [
+          "OpusClip"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "There is no single best AI content repurposing tool, because the category splits in three. To turn long videos into short clips, pick OpusClip.",
+            "source_info_link": "https://www.google.com/goto?url=CAESdAHEIkXXROLBmlgikZzAJgclubHEP0yg4tsBYFrvK17Q9F08UiYx10K1B3vlYgEA98DRoh2oeWoFgll8TyjasYl5novtMS9W5_SqnC2-1X0bLS02eMuajdAhkBZxvkM8nVR_8XabHqp0vZdTp_85839_M6GZ",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAANlBMVEVHcEwAwv8Awv8Awv8Awv8Awv8Awv8Awv8Awv8Awv8Awv8Awv8Awv8Awv8Awv8Awv8Awv8Awv-XMeP5AAAAEnRSTlMAI3uw0u1R4_8MLqaMvmT3QBi01jMbAAAAv0lEQVR4AW2Rhw0DMQgAce9t_2Vj7AgRnFNB_CE_BQiljXXOGq1A4kMkggdOsmQONgGR40N-3WvTzST3ZftfWnSeUgH2jDOUZzKcCEBhUZVS355O0FLW-7Vh6FKefbVvKBtzSgoy7hoB44Yejwwu-yMDG0xItxsi5naLyQaa7VocofJsbTl_D-MoEZt2O-1cYsabp34HLfUQAFk8q7wDZLLrFjYXtw02jRyx6OL2_mEBp7srsWp0kMwJG2crxssHQnMQ71aVS4AAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqoBL2dvdG8_dXJsPUNBRVNkQUhFSWtYWFJPTEJtbGdpa1p6QUpnY2x1YkhFUDB5ZzR0c0JZRnJ2SzE3UTlGMDhVaVl4MTBLMUIzdmxZZ0VBOThEUm9oMm9lV29GZ2xsOFR5amFzWWw1bm92dE1TOVc1X1NxbkMyLTFYMGJMUzAyZU11YWpkQWhrQlp4dmtNOG5WUl84WGFiSHFwMHZaZFRwXzg1ODM5X002R1oSBBoCCAAa2QYSAggAGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkCzBggAEAAYACAAKigKBGJlc3QVlNnRQBoEZ29vZBoIZ3JlYXRlc3QaA3RvcBoGYmVzdGFpKkQKAmFpFeriwkAaDWFsbCBpbmNsdXNpdmUaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgZiZXN0YWkaCWFpY29udGVudCo3Cgdjb250ZW50FfyjwkAaCGNvbnRlbnRzGglhaWNvbnRlbnQaEmNvbnRlbnRyZXB1cnBvc2luZyo4CgtyZXB1cnBvc2luZxUwWMhAGhJjb250ZW50cmVwdXJwb3NpbmcaEGl2O3A7cmVwdXJwb3NpbmcqIQoJcGxhdGZvcm1zFQAAAAAaCHBsYXRmb3JtGgVzaXRlcyoKCgNmb3IVAAAAACowCgltYXJrZXRpbmcV8sIBQBoLYWR2ZXJ0aXNpbmcaEW1hcmtldGluZ2FnZW5jaWVzKlgKCGFnZW5jaWVzFbYWQj4aBmFnZW5jeRoJY29tcGFuaWVzGgdjb21wYW55GgtkZXBhcnRtZW50cxoEZmlybRoFZmlybXMaEW1hcmtldGluZ2FnZW5jaWVzMqoBL2dvdG8_dXJsPUNBRVNkQUhFSWtYWFJPTEJtbGdpa1p6QUpnY2x1YkhFUDB5ZzR0c0JZRnJ2SzE3UTlGMDhVaVl4MTBLMUIzdmxZZ0VBOThEUm9oMm9lV29GZ2xsOFR5amFzWWw1bm92dE1TOVc1X1NxbkMyLTFYMGJMUzAyZU11YWpkQWhrQlp4dmtNOG5WUl84WGFiSHFwMHZaZFRwXzg1ODM5X002R1o6OzxiPkJlc3QgQUkgQ29udGVudCBSZXB1cnBvc2luZzwvYj4gVG9vbHMgaW4gMjAyNiAoQ29tcGFyZWQpQpYBVGhlcmUgaXMgbm8gc2luZ2xlIGJlc3QgQUkgY29udGVudCByZXB1cnBvc2luZyB0b29sLCBiZWNhdXNlIHRoZSBjYXRlZ29yeSBzcGxpdHMgaW4gdGhyZWUuIFRvIHR1cm4gbG9uZyB2aWRlb3MgaW50byBzaG9ydCBjbGlwcywgcGljayA8Yj5PcHVzQ2xpcDwvYj4uSgNmb3JSA3RvcCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqoBL2dvdG8_dXJsPUNBRVNkQUhFSWtYWFJPTEJtbGdpa1p6QUpnY2x1YkhFUDB5ZzR0c0JZRnJ2SzE3UTlGMDhVaVl4MTBLMUIzdmxZZ0VBOThEUm9oMm9lV29GZ2xsOFR5amFzWWw1bm92dE1TOVc1X1NxbkMyLTFYMGJMUzAyZU11YWpkQWhrQlp4dmtNOG5WUl84WGFiSHFwMHZaZFRwXzg1ODM5X002R1oSBBoCCAAa2QYSAggAGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkCzBggAEAAYACAAKigKBGJlc3QVlNnRQBoEZ29vZBoIZ3JlYXRlc3QaA3RvcBoGYmVzdGFpKkQKAmFpFeriwkAaDWFsbCBpbmNsdXNpdmUaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgZiZXN0YWkaCWFpY29udGVudCo3Cgdjb250ZW50FfyjwkAaCGNvbnRlbnRzGglhaWNvbnRlbnQaEmNvbnRlbnRyZXB1cnBvc2luZyo4CgtyZXB1cnBvc2luZxUwWMhAGhJjb250ZW50cmVwdXJwb3NpbmcaEGl2O3A7cmVwdXJwb3NpbmcqIQoJcGxhdGZvcm1zFQAAAAAaCHBsYXRmb3JtGgVzaXRlcyoKCgNmb3IVAAAAACowCgltYXJrZXRpbmcV8sIBQBoLYWR2ZXJ0aXNpbmcaEW1hcmtldGluZ2FnZW5jaWVzKlgKCGFnZW5jaWVzFbYWQj4aBmFnZW5jeRoJY29tcGFuaWVzGgdjb21wYW55GgtkZXBhcnRtZW50cxoEZmlybRoFZmlybXMaEW1hcmtldGluZ2FnZW5jaWVzMqoBL2dvdG8_dXJsPUNBRVNkQUhFSWtYWFJPTEJtbGdpa1p6QUpnY2x1YkhFUDB5ZzR0c0JZRnJ2SzE3UTlGMDhVaVl4MTBLMUIzdmxZZ0VBOThEUm9oMm9lV29GZ2xsOFR5amFzWWw1bm92dE1TOVc1X1NxbkMyLTFYMGJMUzAyZU11YWpkQWhrQlp4dmtNOG5WUl84WGFiSHFwMHZaZFRwXzg1ODM5X002R1o6OzxiPkJlc3QgQUkgQ29udGVudCBSZXB1cnBvc2luZzwvYj4gVG9vbHMgaW4gMjAyNiAoQ29tcGFyZWQpQpYBVGhlcmUgaXMgbm8gc2luZ2xlIGJlc3QgQUkgY29udGVudCByZXB1cnBvc2luZyB0b29sLCBiZWNhdXNlIHRoZSBjYXRlZ29yeSBzcGxpdHMgaW4gdGhyZWUuIFRvIHR1cm4gbG9uZyB2aWRlb3MgaW50byBzaG9ydCBjbGlwcywgcGljayA8Yj5PcHVzQ2xpcDwvYj4uSgNmb3JSA3RvcCICEAFIAFgAaAA",
+        "source": "Tugan.ai",
+        "read_more_link": "https://www.google.com/goto?url=CAESyAEBxCJF17AeHu68NwTb9ZX7NdZ0sbzqERMPHZDkklfK7zdPgjc1iOeAGfobOpRIHFT1BBpo0hSMVMjn5r1ZYi6xjdIuvXLGSGEm162evTDkNBMPzyOAde49CZavSWPtHppA9TTfzOg3jZmhcqXtUljuXBfctm7JeJd-h2DYk7bcW-hWybdHfUyzm5qE7ft0CxfQOHVSgjdoh222iiLu7vhBwLg697lMB_OP-8adE0zmRJfEPAQaHGM6DRWkS9VyTWRxZYmwmD4jzw&gsessionid=OMCPYX8T5rSEyplDsezFnlbSTZ7xjP9p6pKzh2Vx_zdrAAlASOfNjA"
+      },
+      {
+        "position": 5,
+        "title": "5 best AI content repurposing tools and strategies",
+        "link": "https://www.google.com/goto?url=CAESfAHEIkXX6jcu6GtlwO2uvGxK35D60Iyd8CxmAVFwIkOn4a1IBTXXU4Nx7Q_TurqjNmxdcL9_wFVXu1RtfUK5yZ7f4AIupzWv7EfaKsRK9kMOSbp9qFBNvTyFlW232SukBFhiKwQYT5AxOvAsh2f3_eB0hlXG0ibeQxYaoXU",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHEIkXX6yqrw0MrPGfKfWuzccxKts9mMQYr7RcU9T5OKcMBGlsgu1n6Elt5FtezvKXRBts4hVArA97dFhFwFUmEnu2U0LYV9N4gKEWZK6moVQjjIqFcGsrwsglca4JAUehrUTHgQz7DFoUMuv95L_mHp2Ljkv3gtQhOBg0&ved=2ahUKEwiAmtLE2ZuYAxWudjIDHYA3B7MQFnoECBQQAQ&uoh=1",
+        "displayed_link": "https://dash.dropbox.com \u203a resources \u203a ai-content-repur...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcEz39fL39fL49vP39fL8-vfs6uf___ydm5kCAAAxLi3X1dIdGBgYEhJ1cnH08u9hXl2xr61RTk18engRCgpFQkGFg4HHxcPiVq9iAAAABXRSTlMAS9v_2vqAxeQAAADtSURBVHgBjZIHEsMwCAQlYyTh3v3_n-ZU0xMzjWHpoJSu6KPUGoy-ilb1d1gp-iGXIBvmpEF9gmydNK31qm0bcTbDZOh6GUbmcZC-844ZmgkGiMg8i0DxjiZHJpMsbbtIcitpeVyll222xHbeJBQo0FfdDwoGpmP3FR-hmZzl1PhkHiGzk02aEzZ7NlAdc4YMQ2rRDKFxOHIeZQeDIAIZgip7GcW3CANqoTa00HiGvkXpTywKqzl7SY0D5lmIMGwvK1FrX0_Gs-Tl8Ps975De4BgOUjb39gmxoS9v4mP4-g9V31n9-6mV_vLWlVY3R1QRroLtivwAAAAASUVORK5CYII.png",
+        "date": "5 Oct 2025",
+        "snippet": "1. Jasper ... \u200dBest for: Repurposing blog content into short-form copy\u2014like ads, email snippets, and social posts. Why it works for repurposing:.",
+        "snippet_highlighted_words": [
+          "Jasper"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.7,
+              "reviews": 7
+            },
+            "extensions": [
+              "4.7(7)"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "1. Jasper ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESfAHEIkXX6jcu6GtlwO2uvGxK35D60Iyd8CxmAVFwIkOn4a1IBTXXU4Nx7Q_TurqjNmxdcL9_wFVXu1RtfUK5yZ7f4AIupzWv7EfaKsRK9kMOSbp9qFBNvTyFlW232SukBFhiKwQYT5AxOvAsh2f3_eB0hlXG0ibeQxYaoXU",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcEz39fL39fL49vP39fL8-vfs6uf___ydm5kCAAAxLi3X1dIdGBgYEhJ1cnH08u9hXl2xr61RTk18engRCgpFQkGFg4HHxcPiVq9iAAAABXRSTlMAS9v_2vqAxeQAAADtSURBVHgBjZIHEsMwCAQlYyTh3v3_n-ZU0xMzjWHpoJSu6KPUGoy-ilb1d1gp-iGXIBvmpEF9gmydNK31qm0bcTbDZOh6GUbmcZC-844ZmgkGiMg8i0DxjiZHJpMsbbtIcitpeVyll222xHbeJBQo0FfdDwoGpmP3FR-hmZzl1PhkHiGzk02aEzZ7NlAdc4YMQ2rRDKFxOHIeZQeDIAIZgip7GcW3CANqoTa00HiGvkXpTywKqzl7SY0D5lmIMGwvK1FrX0_Gs-Tl8Ps975De4BgOUjb39gmxoS9v4mP4-g9V31n9-6mV_vLWlVY3R1QRroLtivwAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhFSWtYWDZqY3U2R3Rsd08ydXZHeEszNUQ2MEl5ZDhDeG1BVkZ3SWtPbjRhMUlCVFhYVTROeDdRX1R1cnFqTm14ZGNMOV93RlZYdTFSdGZVSzV5WjdmNEFJdXB6V3Y3RWZhS3NSSzlrTU9TYnA5cUZCTnZUeUZsVzIzMlN1a0JGaGlLd1FZVDVBeE92QXNoMmYzX2VCMGhsWEcwaWJlUXhZYW9YVRIEGgIIABryBhICCAAaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQMwGCAAQABgAIAAqKAoEYmVzdBVMYxNAGgRnb29kGghncmVhdGVzdBoDdG9wGgZiZXN0YWkqRAoCYWkV4mWmQBoNYWxsIGluY2x1c2l2ZRoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaBmJlc3RhaRoJYWljb250ZW50KjcKB2NvbnRlbnQVyhXeQBoIY29udGVudHMaCWFpY29udGVudBoSY29udGVudHJlcHVycG9zaW5nKjgKC3JlcHVycG9zaW5nFWr2ykAaEmNvbnRlbnRyZXB1cnBvc2luZxoQaXY7cDtyZXB1cnBvc2luZyohCglwbGF0Zm9ybXMVYegRPxoIcGxhdGZvcm0aBXNpdGVzKgoKA2ZvchUAAAAAKjAKCW1hcmtldGluZxUjoek9GgthZHZlcnRpc2luZxoRbWFya2V0aW5nYWdlbmNpZXMqWAoIYWdlbmNpZXMV4CutPRoGYWdlbmN5Ggljb21wYW5pZXMaB2NvbXBhbnkaC2RlcGFydG1lbnRzGgRmaXJtGgVmaXJtcxoRbWFya2V0aW5nYWdlbmNpZXMytQEvZ290bz91cmw9Q0FFU2ZBSEVJa1hYNmpjdTZHdGx3TzJ1dkd4SzM1RDYwSXlkOEN4bUFWRndJa09uNGExSUJUWFhVNE54N1FfVHVycWpObXhkY0w5X3dGVlh1MVJ0ZlVLNXlaN2Y0QUl1cHpXdjdFZmFLc1JLOWtNT1NicDlxRkJOdlR5RmxXMjMyU3VrQkZoaUt3UVlUNUF4T3ZBc2gyZjNfZUIwaGxYRzBpYmVReFlhb1hVOkM1IDxiPkFJIENvbnRlbnQgUmVwdXJwb3Npbmc8L2I-IFRvb2xzIGFuZCBTdHJhdGVnaWVzIC0gRHJvcGJveCBEYXNoQpwBMS4gPGI-SmFzcGVyPC9iPiAuLi4g4oCNQmVzdCBmb3I6IFJlcHVycG9zaW5nIGJsb2cgY29udGVudCBpbnRvIHNob3J0LWZvcm0gY29weeKAlGxpa2UgYWRzLCBlbWFpbCBzbmlwcGV0cywgYW5kIHNvY2lhbCBwb3N0cy4gV2h5IGl0IHdvcmtzIGZvciByZXB1cnBvc2luZzouSgNmb3JSA3RvcCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhFSWtYWDZqY3U2R3Rsd08ydXZHeEszNUQ2MEl5ZDhDeG1BVkZ3SWtPbjRhMUlCVFhYVTROeDdRX1R1cnFqTm14ZGNMOV93RlZYdTFSdGZVSzV5WjdmNEFJdXB6V3Y3RWZhS3NSSzlrTU9TYnA5cUZCTnZUeUZsVzIzMlN1a0JGaGlLd1FZVDVBeE92QXNoMmYzX2VCMGhsWEcwaWJlUXhZYW9YVRIEGgIIABryBhICCAAaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQMwGCAAQABgAIAAqKAoEYmVzdBVMYxNAGgRnb29kGghncmVhdGVzdBoDdG9wGgZiZXN0YWkqRAoCYWkV4mWmQBoNYWxsIGluY2x1c2l2ZRoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaBmJlc3RhaRoJYWljb250ZW50KjcKB2NvbnRlbnQVyhXeQBoIY29udGVudHMaCWFpY29udGVudBoSY29udGVudHJlcHVycG9zaW5nKjgKC3JlcHVycG9zaW5nFWr2ykAaEmNvbnRlbnRyZXB1cnBvc2luZxoQaXY7cDtyZXB1cnBvc2luZyohCglwbGF0Zm9ybXMVYegRPxoIcGxhdGZvcm0aBXNpdGVzKgoKA2ZvchUAAAAAKjAKCW1hcmtldGluZxUjoek9GgthZHZlcnRpc2luZxoRbWFya2V0aW5nYWdlbmNpZXMqWAoIYWdlbmNpZXMV4CutPRoGYWdlbmN5Ggljb21wYW5pZXMaB2NvbXBhbnkaC2RlcGFydG1lbnRzGgRmaXJtGgVmaXJtcxoRbWFya2V0aW5nYWdlbmNpZXMytQEvZ290bz91cmw9Q0FFU2ZBSEVJa1hYNmpjdTZHdGx3TzJ1dkd4SzM1RDYwSXlkOEN4bUFWRndJa09uNGExSUJUWFhVNE54N1FfVHVycWpObXhkY0w5X3dGVlh1MVJ0ZlVLNXlaN2Y0QUl1cHpXdjdFZmFLc1JLOWtNT1NicDlxRkJOdlR5RmxXMjMyU3VrQkZoaUt3UVlUNUF4T3ZBc2gyZjNfZUIwaGxYRzBpYmVReFlhb1hVOkM1IDxiPkFJIENvbnRlbnQgUmVwdXJwb3Npbmc8L2I-IFRvb2xzIGFuZCBTdHJhdGVnaWVzIC0gRHJvcGJveCBEYXNoQpwBMS4gPGI-SmFzcGVyPC9iPiAuLi4g4oCNQmVzdCBmb3I6IFJlcHVycG9zaW5nIGJsb2cgY29udGVudCBpbnRvIHNob3J0LWZvcm0gY29weeKAlGxpa2UgYWRzLCBlbWFpbCBzbmlwcGV0cywgYW5kIHNvY2lhbCBwb3N0cy4gV2h5IGl0IHdvcmtzIGZvciByZXB1cnBvc2luZzouSgNmb3JSA3RvcCICEAFIAFgAaAA",
+        "source": "Dropbox Dash",
+        "read_more_link": "https://www.google.com/goto?url=CAES9AEBxCJF165HNzhbhUfJNjM7KUjOOHNDiErgXgAzN1EizfHMq4EDRNDu_kLPgfdvT-pDzoI3kk4QdTMQAmWwe5aiWAJ0GUDRCGW26rruR6-rdkMJq9795IO100SRszKcKV5HzkVY7ahMLQGvQ_FU21Wd_AModM5tl9aHzSZs7QINEgRIxBYvlqZwrE3HFaDaJYFJ2WNtoxgidT4qUqhOPG2hIwzqd-w0l8Wx5SmjPIeKX-jeTZ6wxiGYAK_hcS6kdybB8pTTtfC2a9IelqJ9XXWAw6LmTUXCPxAoxfqRMVJ-zA8FfnkwKQpbMi7PCZytG3xEOMwn&gsessionid=OMCPYX8T5rSEyplDsezFnlbSTZ7xjP9p6pKzh2Vx_zdrAAlASOfNjA"
+      },
+      {
+        "position": 6,
+        "title": "14 Best Content Repurposing Tools To Help You Reach ...",
+        "link": "https://www.google.com/goto?url=CAEScAHEIkXXcrdZN7HGaJNLv8uXk3-vRffMAAK49ft5vjW0f1jNXiDJfvm-JsU4EZjfNH3Ba82Lb-yoRVlcHctoNkd8nCbrSWgA8qgJnsC01UHFE_8-Xdrl7hz_QJlQVisep4pagl0Yu1gWFz27ouZGDnY",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHEIkXXtH145FfJexfKK7K-2Mlu59p9AHMZhMDPZf7DZT7LIQp_qCQotnBcMxA4dxQPnKQfpBSRd9Kn5OX1rQ1mFzNIaA1EVRriSzLe25YDjG9QSnMyg9FvP-cvRtvNLbQPENeV2mJ2z7MPk5_xDz4&ved=2ahUKEwiAmtLE2ZuYAxWudjIDHYA3B7MQFnoECA8QAQ&uoh=1",
+        "displayed_link": "https://designrr.io \u203a Blog \u203a Content Marketing",
+        "favicon": "https://serpapi.com/searches/6b02f063d114df6b6a05d87f/images/pGSbhmLVg6jaqLESKNtJcGJ2_372M-eJC60CDcYTneA.png",
+        "snippet": "Jasper AI. Jasper AI. Best for: Marketing teams, agencies, enterprises needing brand consistency. Pricing: Pro $59/seat/month annually | Business (custom ...",
+        "snippet_highlighted_words": [
+          "Jasper AI"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Jasper AI. Jasper AI. Best for: Marketing teams, agencies, enterprises needing brand consistency. Pricing: Pro $59/seat/month annually | Business (custom ...",
+            "source_info_link": "https://www.google.com/goto?url=CAEScAHEIkXXcrdZN7HGaJNLv8uXk3-vRffMAAK49ft5vjW0f1jNXiDJfvm-JsU4EZjfNH3Ba82Lb-yoRVlcHctoNkd8nCbrSWgA8qgJnsC01UHFE_8-Xdrl7hz_QJlQVisep4pagl0Yu1gWFz27ouZGDnY",
+            "icon": "https://serpapi.com/searches/6b02f063d114df6b6a05d87f/images/pGSbhmLVg6jaqLESKNtJcJbdQOBLmyDnvnrUaiaIB8mWTdadaMQh9mqcPIPtZnqi.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUBL2dvdG8_dXJsPUNBRVNjQUhFSWtYWGNyZFpON0hHYUpOTHY4dVhrMy12UmZmTUFBSzQ5ZnQ1dmpXMGYxak5YaURKZnZtLUpzVTRFWmpmTkgzQmE4MkxiLXlvUlZsY0hjdG9Oa2Q4bkNiclNXZ0E4cWdKbnNDMDFVSEZFXzgtWGRybDdoel9RSmxRVmlzZXA0cGFnbDBZdTFnV0Z6MjdvdVpHRG5ZEgQaAggAGu8GEgIIABoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJAyQYIABAAGAAgACooCgRiZXN0FXm7g0AaBGdvb2QaCGdyZWF0ZXN0GgN0b3AaBmJlc3RhaSpECgJhaRW78ek_Gg1hbGwgaW5jbHVzaXZlGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoGYmVzdGFpGglhaWNvbnRlbnQqNwoHY29udGVudBVqfbpAGghjb250ZW50cxoJYWljb250ZW50GhJjb250ZW50cmVwdXJwb3NpbmcqOAoLcmVwdXJwb3NpbmcVr3aZQBoSY29udGVudHJlcHVycG9zaW5nGhBpdjtwO3JlcHVycG9zaW5nKiEKCXBsYXRmb3JtcxUO88Q_GghwbGF0Zm9ybRoFc2l0ZXMqCgoDZm9yFQAAAAAqMAoJbWFya2V0aW5nFX360z8aC2FkdmVydGlzaW5nGhFtYXJrZXRpbmdhZ2VuY2llcypYCghhZ2VuY2llcxXVdE8_GgZhZ2VuY3kaCWNvbXBhbmllcxoHY29tcGFueRoLZGVwYXJ0bWVudHMaBGZpcm0aBWZpcm1zGhFtYXJrZXRpbmdhZ2VuY2llczKlAS9nb3RvP3VybD1DQUVTY0FIRUlrWFhjcmRaTjdIR2FKTkx2OHVYazMtdlJmZk1BQUs0OWZ0NXZqVzBmMWpOWGlESmZ2bS1Kc1U0RVpqZk5IM0JhODJMYi15b1JWbGNIY3RvTmtkOG5DYnJTV2dBOHFnSm5zQzAxVUhGRV84LVhkcmw3aHpfUUpsUVZpc2VwNHBhZ2wwWXUxZ1dGejI3b3VaR0RuWTpDMTQgPGI-QmVzdCBDb250ZW50IFJlcHVycG9zaW5nPC9iPiBUb29scyBUbyBIZWxwIFlvdSBSZWFjaCBNb3JlIC4uLkKpATxiPkphc3BlciBBSTwvYj4uIEphc3BlciBBSS4gQmVzdCBmb3I6IE1hcmtldGluZyB0ZWFtcywgYWdlbmNpZXMsIGVudGVycHJpc2VzIG5lZWRpbmcgYnJhbmQgY29uc2lzdGVuY3kuIFByaWNpbmc6IFBybyAkNTkvc2VhdC9tb250aCBhbm51YWxseSB8IEJ1c2luZXNzIChjdXN0b20mbmJzcDsuLi5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUBL2dvdG8_dXJsPUNBRVNjQUhFSWtYWGNyZFpON0hHYUpOTHY4dVhrMy12UmZmTUFBSzQ5ZnQ1dmpXMGYxak5YaURKZnZtLUpzVTRFWmpmTkgzQmE4MkxiLXlvUlZsY0hjdG9Oa2Q4bkNiclNXZ0E4cWdKbnNDMDFVSEZFXzgtWGRybDdoel9RSmxRVmlzZXA0cGFnbDBZdTFnV0Z6MjdvdVpHRG5ZEgQaAggAGu8GEgIIABoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJAyQYIABAAGAAgACooCgRiZXN0FXm7g0AaBGdvb2QaCGdyZWF0ZXN0GgN0b3AaBmJlc3RhaSpECgJhaRW78ek_Gg1hbGwgaW5jbHVzaXZlGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoGYmVzdGFpGglhaWNvbnRlbnQqNwoHY29udGVudBVqfbpAGghjb250ZW50cxoJYWljb250ZW50GhJjb250ZW50cmVwdXJwb3NpbmcqOAoLcmVwdXJwb3NpbmcVr3aZQBoSY29udGVudHJlcHVycG9zaW5nGhBpdjtwO3JlcHVycG9zaW5nKiEKCXBsYXRmb3JtcxUO88Q_GghwbGF0Zm9ybRoFc2l0ZXMqCgoDZm9yFQAAAAAqMAoJbWFya2V0aW5nFX360z8aC2FkdmVydGlzaW5nGhFtYXJrZXRpbmdhZ2VuY2llcypYCghhZ2VuY2llcxXVdE8_GgZhZ2VuY3kaCWNvbXBhbmllcxoHY29tcGFueRoLZGVwYXJ0bWVudHMaBGZpcm0aBWZpcm1zGhFtYXJrZXRpbmdhZ2VuY2llczKlAS9nb3RvP3VybD1DQUVTY0FIRUlrWFhjcmRaTjdIR2FKTkx2OHVYazMtdlJmZk1BQUs0OWZ0NXZqVzBmMWpOWGlESmZ2bS1Kc1U0RVpqZk5IM0JhODJMYi15b1JWbGNIY3RvTmtkOG5DYnJTV2dBOHFnSm5zQzAxVUhGRV84LVhkcmw3aHpfUUpsUVZpc2VwNHBhZ2wwWXUxZ1dGejI3b3VaR0RuWTpDMTQgPGI-QmVzdCBDb250ZW50IFJlcHVycG9zaW5nPC9iPiBUb29scyBUbyBIZWxwIFlvdSBSZWFjaCBNb3JlIC4uLkKpATxiPkphc3BlciBBSTwvYj4uIEphc3BlciBBSS4gQmVzdCBmb3I6IE1hcmtldGluZyB0ZWFtcywgYWdlbmNpZXMsIGVudGVycHJpc2VzIG5lZWRpbmcgYnJhbmQgY29uc2lzdGVuY3kuIFByaWNpbmc6IFBybyAkNTkvc2VhdC9tb250aCBhbm51YWxseSB8IEJ1c2luZXNzIChjdXN0b20mbmJzcDsuLi5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+        "source": "Designrr",
+        "read_more_link": "https://www.google.com/goto?url=CAESswEBxCJF15RZ2KE5KE-qRW7FaX6XEFCBcZHEkpUqSAu8Vo3bJRKQ1_8tRot_rImVHVhY8xCRbyaXsZkGxbej5nxdJhbDmTnSE3gAwhkdC4KMde8W3MbWhYjqzKeZrWSLvW4QdvHuo5eosbE0g4y7CQaeef1LNbl0M0Ei_o6cuvlELO0rADpABfKHCYgDVAc1vIzEK7OeS71t1B7jCTn0lZHeF4xsF4us4myNiu689cTDXd2B_g&gsessionid=OMCPYX8T5rSEyplDsezFnlbSTZ7xjP9p6pKzh2Vx_zdrAAlASOfNjA"
+      },
+      {
+        "position": 7,
+        "title": "How I Built a Content Repurposing AI Agent (Step-by-Step)",
+        "link": "https://www.google.com/goto?url=CAESbgHEIkXXXBx6_Ac1YGjezNQYPm6d1A-TcKKfkR1UbTvX_LgFsOf7GXue1QzoR75x3Vi0j08We30fW5rxmE69_hq4I1D4SZCIOO8xuojMs7rwe3o8kIWHh-ZyxnGO0hMC1jd7RGXLFa2XA_BoS-8C&gsessionid=OMCPYX8T5rSEyplDsezFnlbSTZ7xjP9p6pKzh2Vx_zdrAAlASOfNjA",
+        "displayed_link": "7k+ views",
+        "date": "10 months ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f063d114df6b6a05d87f/images/pGSbhmLVg6jaqLESKNtJcHKlNccbTRQphpJ3REYU2Wo.jpg",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "Airia is a no-code AI automation platform that helps you turn one piece of content into an entire week of usable posts. In this video, I ...",
+        "duration": "8:27",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "The Content Repurposing Problem",
+            "link": "https://www.google.com/goto?url=CAEScgHEIkXXg81VY5VdWMKnm3gHh7nWcEbHAB5gACHli09PGR9DutOA3Uu1c-P7Fej9QEF-q7VPSJE7itrmXCzODRbTm_6DbiExpGc8eN9S320VlgFNVmZj-RX2k2On_UVaiUzdXPg40X4QZ699GbUnqaeQXA&gsessionid=OMCPYX8T5rSEyplDsezFnlbSTZ7xjP9p6pKzh2Vx_zdrAAlASOfNjA"
+          },
+          {
+            "time": "01:07",
+            "title": "Building an AI Agent with Plain Language",
+            "link": "https://www.google.com/goto?url=CAEScwHEIkXXDk8GeuRpANt4KYJ540g5cZe9n3s7eW3CLGwMblkQAqs4ttB19DcyGbKcAhgrJRPJdEz93pEGYEZQEP8webyyzo6FMz_I801m0bHfyzWl-gT1_xekqXSzjlhgRy07aueqRuddW5rV22S6m56wu84&gsessionid=OMCPYX8T5rSEyplDsezFnlbSTZ7xjP9p6pKzh2Vx_zdrAAlASOfNjA"
+          },
+          {
+            "time": "02:24",
+            "title": "Setting Up the Visual Workflow (No-Code)",
+            "link": "https://www.google.com/goto?url=CAESdAHEIkXXJTrdf0PdyFZDSES-HPDslFuiWKpMRlyRYJpjVHa0P8vZVaGpJ6wdYs_KrtoppGf-g4CU-MXqd8NQsKJDt90_HzBtsrLNeEGeK0uct91--bk3tdWyv13DYm2p-0wc9zDidNBSHz1eHzAo-qQ-ov_f&gsessionid=OMCPYX8T5rSEyplDsezFnlbSTZ7xjP9p6pKzh2Vx_zdrAAlASOfNjA"
+          },
+          {
+            "time": "03:58",
+            "title": "Choosing AI Models and Custom Outputs",
+            "link": "https://www.google.com/goto?url=CAESdAHEIkXXbHAHOD2vxy27puvKsx_PMHHGP4d_MgbUBP0r6IoOjxAQ0GnfM7zvDc7UW_6Ia5AXEBp0SxSXWffAJE9sNPIr7rU6ORUqHVaKXz3fF7MwubQvrJFNcbb3h22ieqoDazmMOURejDXth3TF72iMHCTZ&gsessionid=OMCPYX8T5rSEyplDsezFnlbSTZ7xjP9p6pKzh2Vx_zdrAAlASOfNjA"
+          },
+          {
+            "time": "04:15",
+            "title": "Testing the Agent with Real Content",
+            "link": "https://www.google.com/goto?url=CAESdAHEIkXXW-p36BB-g9vw4SbcKxCbYKgLfeIwNu6OadD-E5RhCy-1_nkugrzMH-nOdJpr9tNooDsHhCjCdGDocbbxliYIw60324GSMYend3XPt_qzwABuGFGf85ZpKPYSlxKmT4Q4ZEU-Wddvaet_OiqkbKxe&gsessionid=OMCPYX8T5rSEyplDsezFnlbSTZ7xjP9p6pKzh2Vx_zdrAAlASOfNjA"
+          },
+          {
+            "time": "05:10",
+            "title": "Generating Multi-Platform Posts in One Pass",
+            "link": "https://www.google.com/goto?url=CAESdAHEIkXXyeQxWHWRoxbxVCTcrVqGwzGmZKn-tEdF2Vg20Eh6yaNPcP08_xeHQFg5B3gnx-a7Mr4N2RmbTkVc9rEG-4RGXtuE8uiuoOS7PCrjAASBZnV6j9C4ZqlGu728flbvz-QnU1SeSRuBOcJninvKCBmB&gsessionid=OMCPYX8T5rSEyplDsezFnlbSTZ7xjP9p6pKzh2Vx_zdrAAlASOfNjA"
+          },
+          {
+            "time": "06:28",
+            "title": "Publishing and Sharing Your AI Agent",
+            "link": "https://www.google.com/goto?url=CAESdAHEIkXX_1deS5HV047JO89wisXp7Kuz7MzGsnW2S4NKj_wKb6fd7XPba4x0klpDgkSzXY97mQythHjp_ibakT2vGlQjugtVh4Wokij5NIEzJCEPmE-fv1UEPvhddgd5zKrO2ICAKWxoIsWyNJUOXAUSXVck&gsessionid=OMCPYX8T5rSEyplDsezFnlbSTZ7xjP9p6pKzh2Vx_zdrAAlASOfNjA"
+          },
+          {
+            "time": "07:42",
+            "title": "Why Every Creator Needs a Reliable Workflow",
+            "link": "https://www.google.com/goto?url=CAESdAHEIkXXZ6oVBE3n24t1R9P9TOKG3PE35lRm1uPw--DpJqpc68yVGlQBq986sS03Q0piiReFo1MMWeQzedYZIZXMrQXs6E1_t3twYC91bRVLSMRnxV2Sk66b78Qqi9tKlLbpsHeZ8Jr-KTJES8nzvd7P_u1o&gsessionid=OMCPYX8T5rSEyplDsezFnlbSTZ7xjP9p6pKzh2Vx_zdrAAlASOfNjA"
+          }
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Airia is a no-code AI automation platform that helps you turn one piece of content into an entire week of usable posts. In this video, I ...",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hFSWtYWFhCeDZfQWMxWUdqZXpOUVlQbTZkMUEtVGNLS2ZrUjFVYlR2WF9MZ0ZzT2Y3R1h1ZTFRem9SNzV4M1ZpMGowOFdlMzBmVzVyeG1FNjlfaHE0STFENFNaQ0lPTzh4dW9qTXM3cndlM284a0lXSGgtWnl4bkdPMGhNQzFqZDdSR1hMRmEyWEFfQm9TLThDEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hFSWtYWFhCeDZfQWMxWUdqZXpOUVlQbTZkMUEtVGNLS2ZrUjFVYlR2WF9MZ0ZzT2Y3R1h1ZTFRem9SNzV4M1ZpMGowOFdlMzBmVzVyeG1FNjlfaHE0STFENFNaQ0lPTzh4dW9qTXM3cndlM284a0lXSGgtWnl4bkdPMGhNQzFqZDdSR1hMRmEyWEFfQm9TLThDEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTP-rDKFHJBNweW28R9Ka3CsbPXXqoA4ZR8Hg",
+        "source": "YouTube \u00b7 Phil Pallen"
+      },
+      {
+        "position": 8,
+        "title": "Best Content Repurposing Tools for Marketers in 2026",
+        "link": "https://www.google.com/goto?url=CAESggEBxCJF1x1gRzT6x48fGHF_dXl8lYR_DXcHqV4WIbVepbGH7IZAlCjTNxo7we3mGodHqo6uxYSABhMNI1FI05cemguBYA1WQ7sJ1cTxkx4D8xktqdV3nnat9mXLNbKV3RSlS5JV-r5YgI_1Po8pfc3eds7VmGMHHyRyUNvT-j-t7QRz",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESggEBxCJF14zXYh3LUYSjB4Gwowts0mp6rV1KiVae50no1dw4itYdur1CiyQQDgI62gUIBDM13K2ReNxY0VVOf5PdP6U9kaV2xtk4Q1i1kzeyx-zy-aLMpY38zNoijeOH0RRkQdKiyiQjjN3oHP6nHr8XmzxQIg_FV6bbM7fkYQ4HNARu&ved=2ahUKEwiAmtLE2ZuYAxWudjIDHYA3B7MQFnoECBUQAQ&uoh=1",
+        "displayed_link": "https://aipeople.agency \u203a best-content-repurposing-tools...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA1VBMVEVHcEyHSfOMVPuOIvdgptuRHPqWHO6FMPyOHPmMVv-LWP-DYP5yav5qc_1fe_1Xg_xXi_tPl_hTufONVv6CNP2MUv-SVP92aP5hef1Tj_p3Tv2DMv2WGu6XOe6LTP6DRulDy_FUpPx0af6DMf2iFt6vEsquE81kf_yNS_R5Tf2DNP2WJO2MU_99YP6MU_-OH_iNU_-MU_-MU_-OHvg24uw06eqOVf-NU_-PLcyMU_434uyGXfxgf_1MqPg72e424ew24uxKpvZFtvNCv_I80O9tcvlYn_Y3OEK2AAAAR3RSTlMACBCMAznQuv-V8fzw_Pr6_PoLVv-o_4yPi____yNpATvB____5o9NF7fuT_87tu-Bv-Cea_9Q1gXLcUQ7O0r_zf____8WF8TdRGIAAAD7SURBVHgBldJVloNAFEXRixN3d7cXd_fMf0hdxIOuPr8byvHvOBvjBWsTJRnWKerXuC63x-v1-vz-QDAUBiJR9fNrLO5KsJKsVApIpDNqVs49MZ5HoSAWwBKLpUA5XVGz1Wqt_sDI12LEhveO9SZ0-KjFhs0B5oi22oEOOeqC5eoh34ceBzQEazhCc4yiDmlE_AML0mT6izMqkOuBgB7nPbjIApuUw4Ii5uii5XJJc3OkYSwW61HODPMELXfMDOcuaOUJvbkBua_Xo0d9trh649y97rI2WltWsbjbH55W4EceT7nse7yh4_F0vlwOYaDwdL7Juj66sRg59wfZESRqZhNhLAAAAABJRU5ErkJggg.png",
+        "date": "9 Jul 2026",
+        "snippet": "The best content repurposing tools for marketers depend on your content format. Use Opus Clip or Descript for video, ChatGPT or Claude for text, ...",
+        "snippet_highlighted_words": [
+          "Use Opus Clip or Descript for video"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The best content repurposing tools for marketers depend on your content format. Use Opus Clip or Descript for video, ChatGPT or Claude for text, ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESggEBxCJF1x1gRzT6x48fGHF_dXl8lYR_DXcHqV4WIbVepbGH7IZAlCjTNxo7we3mGodHqo6uxYSABhMNI1FI05cemguBYA1WQ7sJ1cTxkx4D8xktqdV3nnat9mXLNbKV3RSlS5JV-r5YgI_1Po8pfc3eds7VmGMHHyRyUNvT-j-t7QRz",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA1VBMVEVHcEyHSfOMVPuOIvdgptuRHPqWHO6FMPyOHPmMVv-LWP-DYP5yav5qc_1fe_1Xg_xXi_tPl_hTufONVv6CNP2MUv-SVP92aP5hef1Tj_p3Tv2DMv2WGu6XOe6LTP6DRulDy_FUpPx0af6DMf2iFt6vEsquE81kf_yNS_R5Tf2DNP2WJO2MU_99YP6MU_-OH_iNU_-MU_-MU_-OHvg24uw06eqOVf-NU_-PLcyMU_434uyGXfxgf_1MqPg72e424ew24uxKpvZFtvNCv_I80O9tcvlYn_Y3OEK2AAAAR3RSTlMACBCMAznQuv-V8fzw_Pr6_PoLVv-o_4yPi____yNpATvB____5o9NF7fuT_87tu-Bv-Cea_9Q1gXLcUQ7O0r_zf____8WF8TdRGIAAAD7SURBVHgBldJVloNAFEXRixN3d7cXd_fMf0hdxIOuPr8byvHvOBvjBWsTJRnWKerXuC63x-v1-vz-QDAUBiJR9fNrLO5KsJKsVApIpDNqVs49MZ5HoSAWwBKLpUA5XVGz1Wqt_sDI12LEhveO9SZ0-KjFhs0B5oi22oEOOeqC5eoh34ceBzQEazhCc4yiDmlE_AML0mT6izMqkOuBgB7nPbjIApuUw4Ii5uii5XJJc3OkYSwW61HODPMELXfMDOcuaOUJvbkBua_Xo0d9trh649y97rI2WltWsbjbH55W4EceT7nse7yh4_F0vlwOYaDwdL7Juj66sRg59wfZESRqZhNhLAAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCeENKRjF4MWdSelQ2eDQ4ZkdIRl9kWGw4bFlSX0RYY0hxVjRXSWJWZXBiR0g3SVpBbENqVE54bzd3ZTNtR29kSHFvNnV4WVNBQmhNTkkxRkkwNWNlbWd1QllBMVdRN3NKMWNUeGt4NEQ4eGt0cWRWM25uYXQ5bVhMTmJLVjNSU2xTNUpWLXI1WWdJXzFQbzhwZmMzZWRzN1ZtR01ISHlSeVVOdlQtai10N1FSehIEGgIIABr1BhIAGgAiACoAMgYIAhICdWs6AEIECAEQAEoAWgByAHoAgkDRBggAEAAYACAAKigKBGJlc3QVtf6lQBoEZ29vZBoIZ3JlYXRlc3QaA3RvcBoGYmVzdGFpKkQKAmFpFdk7CUEaDWFsbCBpbmNsdXNpdmUaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgZiZXN0YWkaCWFpY29udGVudCo3Cgdjb250ZW50FYY21kAaCGNvbnRlbnRzGglhaWNvbnRlbnQaEmNvbnRlbnRyZXB1cnBvc2luZyo4CgtyZXB1cnBvc2luZxU32sNAGhJjb250ZW50cmVwdXJwb3NpbmcaEGl2O3A7cmVwdXJwb3NpbmcqIQoJcGxhdGZvcm1zFRvvxTwaCHBsYXRmb3JtGgVzaXRlcyoKCgNmb3IVAAAAACowCgltYXJrZXRpbmcV2E5xPxoLYWR2ZXJ0aXNpbmcaEW1hcmtldGluZ2FnZW5jaWVzKlgKCGFnZW5jaWVzFSXKdj8aBmFnZW5jeRoJY29tcGFuaWVzGgdjb21wYW55GgtkZXBhcnRtZW50cxoEZmlybRoFZmlybXMaEW1hcmtldGluZ2FnZW5jaWVzMr4BL2dvdG8_dXJsPUNBRVNnZ0VCeENKRjF4MWdSelQ2eDQ4ZkdIRl9kWGw4bFlSX0RYY0hxVjRXSWJWZXBiR0g3SVpBbENqVE54bzd3ZTNtR29kSHFvNnV4WVNBQmhNTkkxRkkwNWNlbWd1QllBMVdRN3NKMWNUeGt4NEQ4eGt0cWRWM25uYXQ5bVhMTmJLVjNSU2xTNUpWLXI1WWdJXzFQbzhwZmMzZWRzN1ZtR01ISHlSeVVOdlQtai10N1FSejo7PGI-QmVzdCBDb250ZW50IFJlcHVycG9zaW5nPC9iPiBUb29scyBmb3IgTWFya2V0ZXJzIGluIDIwMjZCoAFUaGUgYmVzdCBjb250ZW50IHJlcHVycG9zaW5nIHRvb2xzIGZvciBtYXJrZXRlcnMgZGVwZW5kIG9uIHlvdXIgY29udGVudCBmb3JtYXQuIDxiPlVzZSBPcHVzIENsaXAgb3IgRGVzY3JpcHQgZm9yIHZpZGVvPC9iPiwgQ2hhdEdQVCBvciBDbGF1ZGUgZm9yIHRleHQsJm5ic3A7Li4uSgNmb3JSA3RvcCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCeENKRjF4MWdSelQ2eDQ4ZkdIRl9kWGw4bFlSX0RYY0hxVjRXSWJWZXBiR0g3SVpBbENqVE54bzd3ZTNtR29kSHFvNnV4WVNBQmhNTkkxRkkwNWNlbWd1QllBMVdRN3NKMWNUeGt4NEQ4eGt0cWRWM25uYXQ5bVhMTmJLVjNSU2xTNUpWLXI1WWdJXzFQbzhwZmMzZWRzN1ZtR01ISHlSeVVOdlQtai10N1FSehIEGgIIABr1BhIAGgAiACoAMgYIAhICdWs6AEIECAEQAEoAWgByAHoAgkDRBggAEAAYACAAKigKBGJlc3QVtf6lQBoEZ29vZBoIZ3JlYXRlc3QaA3RvcBoGYmVzdGFpKkQKAmFpFdk7CUEaDWFsbCBpbmNsdXNpdmUaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgZiZXN0YWkaCWFpY29udGVudCo3Cgdjb250ZW50FYY21kAaCGNvbnRlbnRzGglhaWNvbnRlbnQaEmNvbnRlbnRyZXB1cnBvc2luZyo4CgtyZXB1cnBvc2luZxU32sNAGhJjb250ZW50cmVwdXJwb3NpbmcaEGl2O3A7cmVwdXJwb3NpbmcqIQoJcGxhdGZvcm1zFRvvxTwaCHBsYXRmb3JtGgVzaXRlcyoKCgNmb3IVAAAAACowCgltYXJrZXRpbmcV2E5xPxoLYWR2ZXJ0aXNpbmcaEW1hcmtldGluZ2FnZW5jaWVzKlgKCGFnZW5jaWVzFSXKdj8aBmFnZW5jeRoJY29tcGFuaWVzGgdjb21wYW55GgtkZXBhcnRtZW50cxoEZmlybRoFZmlybXMaEW1hcmtldGluZ2FnZW5jaWVzMr4BL2dvdG8_dXJsPUNBRVNnZ0VCeENKRjF4MWdSelQ2eDQ4ZkdIRl9kWGw4bFlSX0RYY0hxVjRXSWJWZXBiR0g3SVpBbENqVE54bzd3ZTNtR29kSHFvNnV4WVNBQmhNTkkxRkkwNWNlbWd1QllBMVdRN3NKMWNUeGt4NEQ4eGt0cWRWM25uYXQ5bVhMTmJLVjNSU2xTNUpWLXI1WWdJXzFQbzhwZmMzZWRzN1ZtR01ISHlSeVVOdlQtai10N1FSejo7PGI-QmVzdCBDb250ZW50IFJlcHVycG9zaW5nPC9iPiBUb29scyBmb3IgTWFya2V0ZXJzIGluIDIwMjZCoAFUaGUgYmVzdCBjb250ZW50IHJlcHVycG9zaW5nIHRvb2xzIGZvciBtYXJrZXRlcnMgZGVwZW5kIG9uIHlvdXIgY29udGVudCBmb3JtYXQuIDxiPlVzZSBPcHVzIENsaXAgb3IgRGVzY3JpcHQgZm9yIHZpZGVvPC9iPiwgQ2hhdEdQVCBvciBDbGF1ZGUgZm9yIHRleHQsJm5ic3A7Li4uSgNmb3JSA3RvcCICEAFIAFgAaAA",
+        "source": "AI People Agency",
+        "read_more_link": "https://www.google.com/goto?url=CAES3AEBxCJF11hxBXzYlg9PoQqLKLgKtN5RVSyPJ2Y7z4FE3DK3I4sz0AzkOzsDDLE-3_Gofq-SHqHZTnpF6w6FXFq85fd-pI91A7XfGr88OfFUeNVA7xtxaj3oeqmhxPRGU6iV-hbKlqUOkvIEjErdV4lxHM8IDAKWNiecvXzEw26iKQAa3nSTf_VbsSe-9ZyQ3CPvWjEU55zcno46rDP3M12KZJHlZbyBgfL_EYVn5cK5Bs0_OLECVcBUR6qfQT0VhXdkheHkBOxmhLdlbXV7IZu1IWnBRR6N9QmFcuAX&gsessionid=OMCPYX8T5rSEyplDsezFnlbSTZ7xjP9p6pKzh2Vx_zdrAAlASOfNjA"
+      },
+      {
+        "position": 9,
+        "title": "9 Best AI Content Repurposing Tools in 2026",
+        "link": "https://www.google.com/goto?url=CAESdgHEIkXX2M0recX7OLmjyUBTdVsWGLP_LVUZAXfcQGPpA8xKX4slTufj03Hd_VCTc1hHry_rf7e2uY0UV7VAlFKjymGkk-Cvg_gOhhCyI1hx4nbpnw6br_KJiLa8HAOOUcjFJreClJk_0tKU4ulAAJwx1Qs8bvk",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHEIkXXCfdVdsJ1yA0g4Eea9IBRaPpo3l1EUxoDKV5YJhohtvOT7yh9L3_1pecqjD3tnVIKTeHbdtgniBaICtZiM9RFnRQhoYslI186oObNY_JzSApF-CzaZi4RpnAFAoEqEVmRxgoUrAyo19OpIDiD8OHQrS0&ved=2ahUKEwiAmtLE2ZuYAxWudjIDHYA3B7MQFnoECBEQAQ&uoh=1",
+        "displayed_link": "https://www.taskade.com \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAllBMVEUpKCItLCYlJB47ODEwLyg1My0eHRVOS0IXFg49OzNEQTm3saPo4tTRy73t59jb1ce8t6xlYVbx69wgIB6UkIcAAACbl45EQz9zbmJPTEJ3c2hkYVwqKScjIyEKCgpqaGJWU0nBu63GwLJhXVKEf3SmophtaFzX0cPNx7l7eHA-PDldW1WOiHv_--wZGBedl4mpo5VwbWa8V9OhAAABjUlEQVR4AW3PBYKDMBAF0FSxCJ0ywSUUq9P7X26nxlp_fB7KGJvNqb2W-a8TWywXy9VqSct6vV5Y9nxNp1eROe7CdWlaMo8LyYXy3ZnzKjKXYrnORoG_DRB1qKWIiKjostiKLctJIM1yRCxolClsnNiisIpiGaXv8gzdzmu3quKY7Xa7KuEvmVg1FdXv2IAm-6UtJASs2-z6lOyPpqrqNqzrOij_Ywa7rmPRZtBkfzH3TRcR8hA_JOddwpJI0Z37Oj_0x6Jti2N_yId9gUEfNaw5cczPIOHRXwucLyhPd5QFYiv5j8gWEfnpxK4nFfxDjagV4Xjl2zvKPxjy65WNo_BzbKFWb-preNz5wCtkGABW8DQIEQIsYRxHNnojTzEDX_BXhA9bTPkdPc8zoPEG8o0SStTSENzRqwXiwQBICoBZIXIyQuMb4ymuES-3oG2D2_2vhaKi8VhtHk2mJT6zzVIQj6Jh9TOCgw41FsHWBzm8im80puacK86lMvU7bBgEdTEtlOnEetUrofqPyxdeBkRppMg3qwAAAABJRU5ErkJggg.png",
+        "date": "27 Jun 2026",
+        "snippet": "The best AI content repurposing tool in 2026 is Taskade Genesis, the only one that runs the whole one-to-many pipeline as a live app you own ...",
+        "snippet_highlighted_words": [
+          "Taskade Genesis"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.7,
+              "reviews": 175
+            },
+            "extensions": [
+              "4.7(175)"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "The best AI content repurposing tool in 2026 is Taskade Genesis, the only one that runs the whole one-to-many pipeline as a live app you own ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESdgHEIkXX2M0recX7OLmjyUBTdVsWGLP_LVUZAXfcQGPpA8xKX4slTufj03Hd_VCTc1hHry_rf7e2uY0UV7VAlFKjymGkk-Cvg_gOhhCyI1hx4nbpnw6br_KJiLa8HAOOUcjFJreClJk_0tKU4ulAAJwx1Qs8bvk",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAllBMVEUpKCItLCYlJB47ODEwLyg1My0eHRVOS0IXFg49OzNEQTm3saPo4tTRy73t59jb1ce8t6xlYVbx69wgIB6UkIcAAACbl45EQz9zbmJPTEJ3c2hkYVwqKScjIyEKCgpqaGJWU0nBu63GwLJhXVKEf3SmophtaFzX0cPNx7l7eHA-PDldW1WOiHv_--wZGBedl4mpo5VwbWa8V9OhAAABjUlEQVR4AW3PBYKDMBAF0FSxCJ0ywSUUq9P7X26nxlp_fB7KGJvNqb2W-a8TWywXy9VqSct6vV5Y9nxNp1eROe7CdWlaMo8LyYXy3ZnzKjKXYrnORoG_DRB1qKWIiKjostiKLctJIM1yRCxolClsnNiisIpiGaXv8gzdzmu3quKY7Xa7KuEvmVg1FdXv2IAm-6UtJASs2-z6lOyPpqrqNqzrOij_Ywa7rmPRZtBkfzH3TRcR8hA_JOddwpJI0Z37Oj_0x6Jti2N_yId9gUEfNaw5cczPIOHRXwucLyhPd5QFYiv5j8gWEfnpxK4nFfxDjagV4Xjl2zvKPxjy65WNo_BzbKFWb-preNz5wCtkGABW8DQIEQIsYRxHNnojTzEDX_BXhA9bTPkdPc8zoPEG8o0SStTSENzRqwXiwQBICoBZIXIyQuMb4ymuES-3oG2D2_2vhaKi8VhtHk2mJT6zzVIQj6Jh9TOCgw41FsHWBzm8im80puacK86lMvU7bBgEdTEtlOnEetUrofqPyxdeBkRppMg3qwAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hFSWtYWDJNMHJlY1g3T0xtanlVQlRkVnNXR0xQX0xWVVpBWGZjUUdQcEE4eEtYNHNsVHVmajAzSGRfVkNUYzFoSHJ5X3JmN2UydVkwVVY3VkFsRktqeW1Ha2stQ3ZnX2dPaGhDeUkxaHg0bmJwbnc2YnJfS0ppTGE4SEFPT1VjakZKcmVDbEprXzB0S1U0dWxBQUp3eDFRczhidmsSBBoCCAAa6AYSAggAGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkDCBggAEAAYACAAKigKBGJlc3QV56ulQBoEZ29vZBoIZ3JlYXRlc3QaA3RvcBoGYmVzdGFpKkQKAmFpFWpavUAaDWFsbCBpbmNsdXNpdmUaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgZiZXN0YWkaCWFpY29udGVudCo3Cgdjb250ZW50FRIZr0AaCGNvbnRlbnRzGglhaWNvbnRlbnQaEmNvbnRlbnRyZXB1cnBvc2luZyo4CgtyZXB1cnBvc2luZxUPKalAGhJjb250ZW50cmVwdXJwb3NpbmcaEGl2O3A7cmVwdXJwb3NpbmcqIQoJcGxhdGZvcm1zFRDZvj4aCHBsYXRmb3JtGgVzaXRlcyoKCgNmb3IVAAAAACowCgltYXJrZXRpbmcV9riZPxoLYWR2ZXJ0aXNpbmcaEW1hcmtldGluZ2FnZW5jaWVzKlgKCGFnZW5jaWVzFQAAAAAaBmFnZW5jeRoJY29tcGFuaWVzGgdjb21wYW55GgtkZXBhcnRtZW50cxoEZmlybRoFZmlybXMaEW1hcmtldGluZ2FnZW5jaWVzMq0BL2dvdG8_dXJsPUNBRVNkZ0hFSWtYWDJNMHJlY1g3T0xtanlVQlRkVnNXR0xQX0xWVVpBWGZjUUdQcEE4eEtYNHNsVHVmajAzSGRfVkNUYzFoSHJ5X3JmN2UydVkwVVY3VkFsRktqeW1Ha2stQ3ZnX2dPaGhDeUkxaHg0bmJwbnc2YnJfS0ppTGE4SEFPT1VjakZKcmVDbEprXzB0S1U0dWxBQUp3eDFRczhidms6QTkgPGI-QmVzdCBBSSBDb250ZW50IFJlcHVycG9zaW5nPC9iPiBUb29scyBpbiAyMDI2IHwgVGFza2FkZSBCbG9nQpwBVGhlIGJlc3QgQUkgY29udGVudCByZXB1cnBvc2luZyB0b29sIGluIDIwMjYgaXMgPGI-VGFza2FkZSBHZW5lc2lzPC9iPiwgdGhlIG9ubHkgb25lIHRoYXQgcnVucyB0aGUgd2hvbGUgb25lLXRvLW1hbnkgcGlwZWxpbmUgYXMgYSBsaXZlIGFwcCB5b3Ugb3duJm5ic3A7Li4uSgNmb3JSA3RvcCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hFSWtYWDJNMHJlY1g3T0xtanlVQlRkVnNXR0xQX0xWVVpBWGZjUUdQcEE4eEtYNHNsVHVmajAzSGRfVkNUYzFoSHJ5X3JmN2UydVkwVVY3VkFsRktqeW1Ha2stQ3ZnX2dPaGhDeUkxaHg0bmJwbnc2YnJfS0ppTGE4SEFPT1VjakZKcmVDbEprXzB0S1U0dWxBQUp3eDFRczhidmsSBBoCCAAa6AYSAggAGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkDCBggAEAAYACAAKigKBGJlc3QV56ulQBoEZ29vZBoIZ3JlYXRlc3QaA3RvcBoGYmVzdGFpKkQKAmFpFWpavUAaDWFsbCBpbmNsdXNpdmUaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgZiZXN0YWkaCWFpY29udGVudCo3Cgdjb250ZW50FRIZr0AaCGNvbnRlbnRzGglhaWNvbnRlbnQaEmNvbnRlbnRyZXB1cnBvc2luZyo4CgtyZXB1cnBvc2luZxUPKalAGhJjb250ZW50cmVwdXJwb3NpbmcaEGl2O3A7cmVwdXJwb3NpbmcqIQoJcGxhdGZvcm1zFRDZvj4aCHBsYXRmb3JtGgVzaXRlcyoKCgNmb3IVAAAAACowCgltYXJrZXRpbmcV9riZPxoLYWR2ZXJ0aXNpbmcaEW1hcmtldGluZ2FnZW5jaWVzKlgKCGFnZW5jaWVzFQAAAAAaBmFnZW5jeRoJY29tcGFuaWVzGgdjb21wYW55GgtkZXBhcnRtZW50cxoEZmlybRoFZmlybXMaEW1hcmtldGluZ2FnZW5jaWVzMq0BL2dvdG8_dXJsPUNBRVNkZ0hFSWtYWDJNMHJlY1g3T0xtanlVQlRkVnNXR0xQX0xWVVpBWGZjUUdQcEE4eEtYNHNsVHVmajAzSGRfVkNUYzFoSHJ5X3JmN2UydVkwVVY3VkFsRktqeW1Ha2stQ3ZnX2dPaGhDeUkxaHg0bmJwbnc2YnJfS0ppTGE4SEFPT1VjakZKcmVDbEprXzB0S1U0dWxBQUp3eDFRczhidms6QTkgPGI-QmVzdCBBSSBDb250ZW50IFJlcHVycG9zaW5nPC9iPiBUb29scyBpbiAyMDI2IHwgVGFza2FkZSBCbG9nQpwBVGhlIGJlc3QgQUkgY29udGVudCByZXB1cnBvc2luZyB0b29sIGluIDIwMjYgaXMgPGI-VGFza2FkZSBHZW5lc2lzPC9iPiwgdGhlIG9ubHkgb25lIHRoYXQgcnVucyB0aGUgd2hvbGUgb25lLXRvLW1hbnkgcGlwZWxpbmUgYXMgYSBsaXZlIGFwcCB5b3Ugb3duJm5ic3A7Li4uSgNmb3JSA3RvcCICEAFIAFgAaAA",
+        "source": "Taskade",
+        "read_more_link": "https://www.google.com/goto?url=CAESwwEBxCJF13oNvHYc3s_xxxetnSx-x9aBthf4FR6uwIuHrhrM_cs_4v-K3Wax8ThLjpVb8rxF0FBUjggc4uKPI41spJHf6bNQNWkIAMYA528ApyTUcorUsYpJQw-oEG8sItgkdOeefWLdmGPmUwo5RqZXBNl3aXtvF8-yLnus0luce5TAsB-zAPBvZdEYOBsfJIpbicgd0Rw676wxRpGj7ReO-fpOZ1ejzIXsKqW2bGHqKfepwFsPYLq4eZDNz6oJ-nQxv-o&gsessionid=OMCPYX8T5rSEyplDsezFnlbSTZ7xjP9p6pKzh2Vx_zdrAAlASOfNjA"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "Best ai content repurposing platforms for marketing agencies free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDjEv0_Khlj-mH9LUJeqDBAI56xZRA:1795354724182&q=Best+ai+content+repurposing+platforms+for+marketing+agencies+free&sa=X&ved=2ahUKEwiAmtLE2ZuYAxWudjIDHYA3B7MQ1QJ6BAhSEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Best+ai+content+repurposing+platforms+for+marketing+agencies+free"
+      },
+      {
+        "block_position": 1,
+        "query": "AI content repurposing jobs",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDjEv0_Khlj-mH9LUJeqDBAI56xZRA:1795354724182&q=AI+content+repurposing+jobs&sa=X&ved=2ahUKEwiAmtLE2ZuYAxWudjIDHYA3B7MQ1QJ6BAhTEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=AI+content+repurposing+jobs"
+      },
+      {
+        "block_position": 1,
+        "query": "Content repurposing agency",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDjEv0_Khlj-mH9LUJeqDBAI56xZRA:1795354724182&q=Content+repurposing+agency&sa=X&ved=2ahUKEwiAmtLE2ZuYAxWudjIDHYA3B7MQ1QJ6BAhOEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Content+repurposing+agency"
+      },
+      {
+        "block_position": 1,
+        "query": "Opus Clip",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDjEv0_Khlj-mH9LUJeqDBAI56xZRA:1795354724182&q=Opus+Clip&sa=X&ved=2ahUKEwiAmtLE2ZuYAxWudjIDHYA3B7MQ1QJ6BAhPEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Opus+Clip"
+      },
+      {
+        "block_position": 1,
+        "query": "Repurpose io",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDjEv0_Khlj-mH9LUJeqDBAI56xZRA:1795354724182&q=Repurpose+io&sa=X&ved=2ahUKEwiAmtLE2ZuYAxWudjIDHYA3B7MQ1QJ6BAhREAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Repurpose+io"
+      },
+      {
+        "block_position": 1,
+        "query": "Content repurposing tool",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDjEv0_Khlj-mH9LUJeqDBAI56xZRA:1795354724182&q=Content+repurposing+tool&sa=X&ved=2ahUKEwiAmtLE2ZuYAxWudjIDHYA3B7MQ1QJ6BAhQEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Content+repurposing+tool"
+      },
+      {
+        "block_position": 1,
+        "query": "Jasper AI",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDjEv0_Khlj-mH9LUJeqDBAI56xZRA:1795354724182&q=Jasper+AI&sa=X&ved=2ahUKEwiAmtLE2ZuYAxWudjIDHYA3B7MQ1QJ6BAhMEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Jasper+AI"
+      },
+      {
+        "block_position": 1,
+        "query": "Postiv AI",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDjEv0_Khlj-mH9LUJeqDBAI56xZRA:1795354724182&q=Postiv+AI&sa=X&ved=2ahUKEwiAmtLE2ZuYAxWudjIDHYA3B7MQ1QJ6BAhNEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Postiv+AI"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=Best+AI+content+repurposing+platforms+for+marketing+agencies&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDjEv0_Khlj-mH9LUJeqDBAI56xZRA:1795354724182&ei=ZPACa4DYCq7tyckPgO-cmAs&start=10&sa=N&sstk=AYl2yk8252b3kBpedCuMmCjRDaruvKMk-Gym15Ao3TcVgjPFFqtYk1HBgozmIrwd67m-Ft-a5g1ty5Nu7U_Njtc7ZezqrsgVrXJ7yA&ved=2ahUKEwiAmtLE2ZuYAxWudjIDHYA3B7MQ8NMDegQIShAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=Best+AI+content+repurposing+platforms+for+marketing+agencies&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDjEv0_Khlj-mH9LUJeqDBAI56xZRA:1795354724182&ei=ZPACa4DYCq7tyckPgO-cmAs&start=10&sa=N&sstk=AYl2yk8252b3kBpedCuMmCjRDaruvKMk-Gym15Ao3TcVgjPFFqtYk1HBgozmIrwd67m-Ft-a5g1ty5Nu7U_Njtc7ZezqrsgVrXJ7yA&ved=2ahUKEwiAmtLE2ZuYAxWudjIDHYA3B7MQ8tMDegQIShAE",
+        "3": "https://www.google.com/search?q=Best+AI+content+repurposing+platforms+for+marketing+agencies&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDjEv0_Khlj-mH9LUJeqDBAI56xZRA:1795354724182&ei=ZPACa4DYCq7tyckPgO-cmAs&start=20&sa=N&sstk=AYl2yk8252b3kBpedCuMmCjRDaruvKMk-Gym15Ao3TcVgjPFFqtYk1HBgozmIrwd67m-Ft-a5g1ty5Nu7U_Njtc7ZezqrsgVrXJ7yA&ved=2ahUKEwiAmtLE2ZuYAxWudjIDHYA3B7MQ8tMDegQIShAG",
+        "4": "https://www.google.com/search?q=Best+AI+content+repurposing+platforms+for+marketing+agencies&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDjEv0_Khlj-mH9LUJeqDBAI56xZRA:1795354724182&ei=ZPACa4DYCq7tyckPgO-cmAs&start=30&sa=N&sstk=AYl2yk8252b3kBpedCuMmCjRDaruvKMk-Gym15Ao3TcVgjPFFqtYk1HBgozmIrwd67m-Ft-a5g1ty5Nu7U_Njtc7ZezqrsgVrXJ7yA&ved=2ahUKEwiAmtLE2ZuYAxWudjIDHYA3B7MQ8tMDegQIShAI",
+        "5": "https://www.google.com/search?q=Best+AI+content+repurposing+platforms+for+marketing+agencies&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDjEv0_Khlj-mH9LUJeqDBAI56xZRA:1795354724182&ei=ZPACa4DYCq7tyckPgO-cmAs&start=40&sa=N&sstk=AYl2yk8252b3kBpedCuMmCjRDaruvKMk-Gym15Ao3TcVgjPFFqtYk1HBgozmIrwd67m-Ft-a5g1ty5Nu7U_Njtc7ZezqrsgVrXJ7yA&ved=2ahUKEwiAmtLE2ZuYAxWudjIDHYA3B7MQ8tMDegQIShAK",
+        "6": "https://www.google.com/search?q=Best+AI+content+repurposing+platforms+for+marketing+agencies&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDjEv0_Khlj-mH9LUJeqDBAI56xZRA:1795354724182&ei=ZPACa4DYCq7tyckPgO-cmAs&start=50&sa=N&sstk=AYl2yk8252b3kBpedCuMmCjRDaruvKMk-Gym15Ao3TcVgjPFFqtYk1HBgozmIrwd67m-Ft-a5g1ty5Nu7U_Njtc7ZezqrsgVrXJ7yA&ved=2ahUKEwiAmtLE2ZuYAxWudjIDHYA3B7MQ8tMDegQIShAM",
+        "7": "https://www.google.com/search?q=Best+AI+content+repurposing+platforms+for+marketing+agencies&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDjEv0_Khlj-mH9LUJeqDBAI56xZRA:1795354724182&ei=ZPACa4DYCq7tyckPgO-cmAs&start=60&sa=N&sstk=AYl2yk8252b3kBpedCuMmCjRDaruvKMk-Gym15Ao3TcVgjPFFqtYk1HBgozmIrwd67m-Ft-a5g1ty5Nu7U_Njtc7ZezqrsgVrXJ7yA&ved=2ahUKEwiAmtLE2ZuYAxWudjIDHYA3B7MQ8tMDegQIShAO",
+        "8": "https://www.google.com/search?q=Best+AI+content+repurposing+platforms+for+marketing+agencies&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDjEv0_Khlj-mH9LUJeqDBAI56xZRA:1795354724182&ei=ZPACa4DYCq7tyckPgO-cmAs&start=70&sa=N&sstk=AYl2yk8252b3kBpedCuMmCjRDaruvKMk-Gym15Ao3TcVgjPFFqtYk1HBgozmIrwd67m-Ft-a5g1ty5Nu7U_Njtc7ZezqrsgVrXJ7yA&ved=2ahUKEwiAmtLE2ZuYAxWudjIDHYA3B7MQ8tMDegQIShAQ",
+        "9": "https://www.google.com/search?q=Best+AI+content+repurposing+platforms+for+marketing+agencies&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDjEv0_Khlj-mH9LUJeqDBAI56xZRA:1795354724182&ei=ZPACa4DYCq7tyckPgO-cmAs&start=80&sa=N&sstk=AYl2yk8252b3kBpedCuMmCjRDaruvKMk-Gym15Ao3TcVgjPFFqtYk1HBgozmIrwd67m-Ft-a5g1ty5Nu7U_Njtc7ZezqrsgVrXJ7yA&ved=2ahUKEwiAmtLE2ZuYAxWudjIDHYA3B7MQ8tMDegQIShAS",
+        "10": "https://www.google.com/search?q=Best+AI+content+repurposing+platforms+for+marketing+agencies&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDjEv0_Khlj-mH9LUJeqDBAI56xZRA:1795354724182&ei=ZPACa4DYCq7tyckPgO-cmAs&start=90&sa=N&sstk=AYl2yk8252b3kBpedCuMmCjRDaruvKMk-Gym15Ao3TcVgjPFFqtYk1HBgozmIrwd67m-Ft-a5g1ty5Nu7U_Njtc7ZezqrsgVrXJ7yA&ved=2ahUKEwiAmtLE2ZuYAxWudjIDHYA3B7MQ8tMDegQIShAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Best+AI+content+repurposing+platforms+for+marketing+agencies&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Best+AI+content+repurposing+platforms+for+marketing+agencies&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Best+AI+content+repurposing+platforms+for+marketing+agencies&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Best+AI+content+repurposing+platforms+for+marketing+agencies&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Best+AI+content+repurposing+platforms+for+marketing+agencies&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Best+AI+content+repurposing+platforms+for+marketing+agencies&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Best+AI+content+repurposing+platforms+for+marketing+agencies&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Best+AI+content+repurposing+platforms+for+marketing+agencies&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Best+AI+content+repurposing+platforms+for+marketing+agencies&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Best+AI+content+repurposing+platforms+for+marketing+agencies&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Best+AI+content+repurposing+platforms+for+marketing+agencies&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

@@ -1,0 +1,422 @@
+{
+  "measurement_id": "63e2afad4323",
+  "question_id": "Q054",
+  "timestamp_utc": "2026-11-22T14:00:06.755257+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "How to repurpose conference recordings into social video snippets",
+  "market": "IN",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://livestorm.co/blog/repurpose-webinars-into-social-clips",
+    "https://www.youtube.com/watch?v=E5MNV515Tgo",
+    "https://www.google.com/goto?url=CAESdgHEIkXXHukrD1zUUgjmlbbTsbiBwiRLtoyv-_n-wVSM-gyf5_Z44tfh3odiPYeTuYxVYr7sof_eC69vRaZ6XBIbpWd4L4iCccJWEufsYBkmDnW-E79Q2dLNAlaFFrmvc17C_O72AuPBNvDMA8XkfTmT8dorFro",
+    "https://www.google.com/goto?url=CAESdQHEIkXX_c8XJbAurJ2nzg6OvYtelsXDOQIF4KaEMsRHJqWrO6wmLSceV4fplcwj0fo_JCvK1NI2vAZECFX_bg15NLMAdYtNJ9f14MnNeWE-Tupb2A_k98QXjR4sRx6n6c2EdYJFKx3VEKheMGx_b4TKOaVd3g",
+    "https://www.google.com/goto?url=CAEScQHEIkXXzRo2EAmE2SerK7cj-0PPA-thIzlA6Q-U31Qk3vz_v9OqwcveSOuZ9Tej3_KF8hBWCeqJ7u3ZhoQ1ROOqERZJzWfcXHY4S0iscQct6dJg0OfP1XY5pziw_QDYkJWxZEj6ARx-eolr-kYjMffH",
+    "https://www.google.com/goto?url=CAESgQEBxCJF160uEDGuknM9SYRMnJIqXjk_z5SIs5qz5xrjo0SJiZglDd90vmkv4tSf2fmQ_8slamHVRNXs-hgtY3bMWyR7bWu5PrAJu6jWa0g1AlVx6bV-Xc94is0CkJqnV6QkBzcC7m4IgsForCAfk2poCtFUG4PL2beeW4jF-twijpQ",
+    "https://www.google.com/goto?url=CAESjAEBxCJF17PwQ4ve-pr4RHpLghuOT0idxgoPtGPMU5Wf1K-3ZsxeywOWgGGb0fmDMFGJEov_d1sJhGf6HdOUdtU9VIckzfhyDxgKR3093BdpuyC7MoBZb7ALI4d7vGRgHEv0Oif8xhor8Jwn99rlszB03o3wmR-twQMABOGKJA06RJLzwjg0YubzJsULDg",
+    "https://www.google.com/goto?url=CAESdAHEIkXXlFZwywg3KBe4iqXXo7YJPdnlwgczuhCR37jvae-s2U4yQK3kfBsuGpEcd_0gdenuxBRYQBbBAuo3civTTNLJWY2wxqgziGGREpAJoB48qwOcXd0oy6gp-Y4Mmj8NNFCev1Ym0uLBu3IF-r52ZrJf"
+  ],
+  "raw_text_summary": "How to repurpose webinars into social clips (with AI) To repurpose a webinar into social clips, you cut the recording into short, standalone videos (usually 15 to 90 seconds each) that make one ... How to repurpose your webinar content In this video, Livestorm and Chopcast experts share their proven framework on how to repurpose long-form content effectively. How to Repurpose Event Recordings with AI Learn how to repurpose one event recording into 100+ content pieces using AI. Turn event videos into short clips, social posts, blogs, ... How to Repurpose Webinar Content Into Clips That Work This guide covers the six-step pipeline: audit, select, cut by clip type (proof, teaching, quote, objection and narrative), edit with AI plus ... 6 ways to use AI to repurpose event recordings 1. Write a blog post \u00b7 2. Expand with an in-depth eBook \u00b7 3. Distribute an on-demand recording \u00b7 4. Break the event into smaller videos \u00b7 5. 11 Genius Ways to Repurpose Your Event Content Like a Pro 1. Create short video snippets for social media We extracted the most impactful turned them into short videos. Try hosts share personal stories ... How to Repurpose Webinar Recordings Into Video Content Step 1: Get a clean transcript immediately after the webinar \u00b7 Step 2: Identify the best moments for short clips \u00b7 Step 3: Produce the full on- ... How to repurpose conference content: 7 ways to get year- ... Here are 7 proven ways to repurpose sessions, photos, and speaker insights into year-round marketing ... Three to five short-form video clips (30\u2013 ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f081e140f0766c4cf495",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/f9YeRwP7uF3eQFCdvb-jeeDhFHFBTM2PW5a35F3HWrQ/6b02f081e140f0766c4cf495.json",
+      "markdown_endpoint": "https://serpapi.com/searches/f9YeRwP7uF3eQFCdvb-jeeDhFHFBTM2PW5a35F3HWrQ/6b02f081e140f0766c4cf495.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/f9YeRwP7uF3eQFCdvb-jeeDhFHFBTM2PW5a35F3HWrQ/6b02f081e140f0766c4cf495.json_with_pixel_position",
+      "created_at": "2026-11-22 13:39:13 UTC",
+      "processed_at": "2026-11-22 13:39:13 UTC",
+      "google_url": "https://www.google.com/search?q=How+to+repurpose+conference+recordings+into+social+video+snippets&oq=How+to+repurpose+conference+recordings+into+social+video+snippets&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/f9YeRwP7uF3eQFCdvb-jeeDhFHFBTM2PW5a35F3HWrQ/6b02f081e140f0766c4cf495.html",
+      "total_time_taken": 1.3
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "How to repurpose conference recordings into social video snippets",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "in",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "How to repurpose conference recordings into social video snippets",
+      "total_results": 106,
+      "time_taken_displayed": 0.21,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "Repurpose Conference Recordings into Short-Form Video Clips",
+        "link": "https://www.google.com/goto?url=CAESwQEBxCJF16_e_6lSE0X6WrOv4j2ObUWlYfBtGhNZYliKfbRKn35Dh2tK95wB9oGHs6O7-oaSv-NJOm0xKYtZ5s2jx5wnkvqGSNhJn8i_Y3I4gjm3Is0_N-soN_IuWBmVUE8yoQsIyOnAmZ7z86ZxvPXFCpJrz8RxrBtk2J8eMZdbMWRpfZbkcBLdm-Ab4uzr3i7ESPKjMtn68gCPmLYGJHrh3Fs6_vr5p6zYN_4GnIVUueHpAOliCf5tmrzCsXp86ddp&gsessionid=mKOKQ8A0ZW3wG1d28mRnYjcKxIcBR_UB_eB8WiXZLsh57feoE2jgaw",
+        "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAJQAAABTCAMAAABOD97qAAAAY1BMVEUAjMn___8Ah8cAisgAfcN6tduMvd_6_v4AhMbh7vbr9PkAf8Td6_UAgcT1-_1iqtYsksxCmc6AudwAeMFpqdZbo9OTwuGEt9wwls3F3-_F2-3R4_GdxuO61-tFndCmzOZusNla6fUmAAABxklEQVRoge2XYY-jIBCG6YxMsZaKCMjtWcr__5UL2-5eYi-XXHZN-TCPhuCLhic4MSgEwzAMwzAMwzAMw_yLodswvNpIYLwcNpziq6WAtk6Hg4QWpH717Ukt3XBuTmqC4a05qd9GHpuT-sOxHSmJ2J8EhHXo1LUZKYAihUIrRN23JQX0llDd2pLyh8NZ3a-bkYKxSAFYlmKp70vleT6fhrkW-jznRqQul8ujubdNSDW3nxKxP27oDb5aSujtHl2_3olhvgU-1_BTsgn-8sgPY-LXJ-gxF8a0mTXWa_OZYjLP3j8JmtWtERQIABgBARBVGlGAwhoJdB7RYbkjyjJWE-0ma-rYflJyiC7ToqydrtkQGR9WjyBJAlmCKgU1l0bGMRKJkW5GCrJht9VCc7MUpfYuoLaaJp_DMDn0o87edtZ8SAWTu2Bk0GEax6BdlBh0nvayKiulYcoqOU2j1Wvy0erkwDvlvdUfUqDIZEXiShhSilSlBCm5o5QtVRKWVdDis02rNJbK6ytREFZVqRulskpVDEtvEWG5GSuC2m-lyg9LaUqB1xKvhVzPUuP3qLQClbp36_EYF_eAYRiGYRiGYRiGYZj_5R0FDRoWzEYjsAAAAABJRU5ErkJggg.png",
+        "channel": "Promote Productions",
+        "duration": "1:38",
+        "platform": "LinkedIn",
+        "date": "8 Aug 2026"
+      },
+      {
+        "position": 2,
+        "title": "How to Turn Your Event or Podcast Recordings into Multiple ...",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXX8VkJLI6i9Kyg5y2tJhpEJGAzRTEicuYK4erI8xu5bs_laiqLGNqjZDExYcVzevh46wLlHAI4reyesV8DhvTgSrH01ie7TPtiDVYwSQeOrAzm71tXU-87zS9aPkYSdcYW5WEO&gsessionid=mKOKQ8A0ZW3wG1d28mRnYjcKxIcBR_UB_eB8WiXZLsh57feoE2jgaw",
+        "thumbnail": "https://serpapi.com/searches/6b02f081e140f0766c4cf495/images/QFlGYMiE-DKJjD8PjssEJE2wCO9fBck7-JyX5bL8ZGQ.jpg",
+        "channel": "Sarah Cordiner",
+        "duration": "11:50",
+        "platform": "YouTube",
+        "date": "22 Oct 2025",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTGFRCkNf1lBoetxREhJFbByQKOBf2xHkbDTg"
+      },
+      {
+        "position": 3,
+        "title": "How To Record & Repurpose Webinars (Social Media Clips ...",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXg3FTvQHlkOeJTDQ1lPMp5LQ4BJ8UmH305mH0krb39NV-ODXbbnS1TQWBz-sFHoq_JGuJzC446j2i1dv8RL8_BR_FoILQsf_TR8Ndg87m2XRZk8gSZc-plc78nG5tF26mqPOI&gsessionid=mKOKQ8A0ZW3wG1d28mRnYjcKxIcBR_UB_eB8WiXZLsh57feoE2jgaw",
+        "thumbnail": "https://serpapi.com/searches/6b02f081e140f0766c4cf495/images/9ZQI6_T27LkzvPB5zXrVyyaVBj1jfgDGp1o_qV5vPog.jpg",
+        "channel": "Riverside",
+        "duration": "6:57",
+        "platform": "YouTube",
+        "date": "21 Dec 2024",
+        "snippet": "Learn to record webinars using Riverside.fm, then repurpose them into YouTube videos, podcasts, social media clips, and blog posts.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSLgQkpk_RkTikYY31R4DmWW6wHshNNp7pWsw"
+      },
+      {
+        "position": 4,
+        "title": "How to turn webinars into weeks of content",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXpFdetqWkcOWJyIeEFfxABbkjZKGZewj1_nfUVsBxrGbN3JzAuZSNWuniyud5BXe3v12TEClM-k4g_D5CyGjMVipkqSikTyLUbUDMCR_lNm2lpe-lV54vN-Uevse3z_EVnGqR&gsessionid=mKOKQ8A0ZW3wG1d28mRnYjcKxIcBR_UB_eB8WiXZLsh57feoE2jgaw",
+        "thumbnail": "https://serpapi.com/searches/6b02f081e140f0766c4cf495/images/0H7InroLxJeLr8zBRIuZChfAs3nZnO1EHrn6GnyGppk.jpg",
+        "channel": "Descript",
+        "duration": "1:12:08",
+        "platform": "YouTube",
+        "date": "22 Jan 2026",
+        "snippet": "Learn to repurpose long-form content like webinars into social clips, podcasts, and articles using a \"source, slice, shape, and ship\" system.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRTYxhnQyY7cBBdmia0sHM6Yf02pRGUQoCcYQ"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "How to repurpose content for social media?",
+        "type": "ai_overview",
+        "page_token": "mclhSHicHdBdToMwAADg6GF83LohGpcsJmhhLIKh0Jb2xfQHhlIozjocb3oWnzyMB_AUHsHE7wjfx6d57Nufk0Pj3PCyms_HcZztrN2ZaqZsNxcvx17NlTBGCtWuLi4vFte1WsPXOLh5joMMI8iMNswMSQbUMu3SAwHbmlM3oQktik1jGXVOtmmIinSoIjvl3nYpjenEgkSJx7nu0ZGEBCJs3_imGZXRtepjwDBciqjpEs8wbbJRgPOxonxQ-IqIYncuqR_fFWmQmybhXhDlG85zioBccltFLkmAHwsvLFmpcYqhn_V2kgQR2qeQAP-AOnMnomziJICkRFxGxPHWHBFwAWx0r9vwlhW8lK1OcxjuMTSZ7EO_mAJEkX3McHOfQOyhMnFVEWyl1_CiBY5Rn5In9MoACcsp7AjWvh7PanVYe2f_n-uHunOrYW93X2pfCVfpB-G-29Pf9z_IuIud",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=mclhSHicHdBdToMwAADg6GF83LohGpcsJmhhLIKh0Jb2xfQHhlIozjocb3oWnzyMB_AUHsHE7wjfx6d57Nufk0Pj3PCyms_HcZztrN2ZaqZsNxcvx17NlTBGCtWuLi4vFte1WsPXOLh5joMMI8iMNswMSQbUMu3SAwHbmlM3oQktik1jGXVOtmmIinSoIjvl3nYpjenEgkSJx7nu0ZGEBCJs3_imGZXRtepjwDBciqjpEs8wbbJRgPOxonxQ-IqIYncuqR_fFWmQmybhXhDlG85zioBccltFLkmAHwsvLFmpcYqhn_V2kgQR2qeQAP-AOnMnomziJICkRFxGxPHWHBFwAWx0r9vwlhW8lK1OcxjuMTSZ7EO_mAJEkX3McHOfQOyhMnFVEWyl1_CiBY5Rn5In9MoACcsp7AjWvh7PanVYe2f_n-uHunOrYW93X2pfCVfpB-G-29Pf9z_IuIud",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWJrRXdWVFJGTm5WNU9WRXlhVmhVUTNBNVVYWm5XRTF1TldSck0yOW5hMWxxVGpoSVZXbzFVVGhqUWt0c1QyNHlOazlOWnpjMWJHOXRSbk5SZDJoMkxXSkhTMnRGZUd0ZmRXZDNUbTVWYkVnMVRqTkdRekF5TlZaQlVSSVhaM1pCUTJFMlYyNUhUVWhCYTFCSlVHNXhlVTh3VVZrYUlrRklUakJGTjBWU2JVSjRUak5OYjFSTlMyOU1VVEJrUTFocWMwcERVMjFZVWtFIiwiZmN2IjoiMyIsImVpIjoiZ3ZBQ2E2V25HTUhBa1BJUG5xeU8wUVkiLCJxYyI6ImMtTnl6TWd2VnlqSlZ5aEtMU2d0S3NndlRsVkl6czlMU3kxS3pVdE9CUW9tNXhlbFpPYWxGeXRrNWdFVkZlY25aeWJtS0pSbHBxUUNPWG1aQlFXcEpjVUNETFdfUDJyYUF3QSIsInF1ZXN0aW9uIjoiSG93IHRvIHJlcHVycG9zZSBjb250ZW50IGZvciBzb2NpYWwgbWVkaWE/IiwibGsiOiJHaWxvYjNjZ2RHOGdjbVZ3ZFhKd2IzTmxJR052Ym5SbGJuUWdabTl5SUhOdlkybGhiQ0J0WldScFlRIiwiYnMiOiJjNDJPTVF2Q01CQ0ZjYjNKU1RTRDNtanJGbkRPNE9JX0VNZVFwdWF3N1lYa2F2SGZLMXFuZ25SOTczdVBENjVRbm5sQVlVdy05aWx5OXVpNEU5OEoxcHd3c3lQYllPc3Jza1lmVkJIbTBuQ0MzWGpkMnJ2SDNGR01Yakp5alEtcVBHZWpVVzNEWHdTT3NKbjQyVzlwOUZxdEpqcWZDaTVRakxQLWw2RnJLR1ljU0FMMzh0YU96MFMzSUVhWGFoOW13c3ZGQ3ciLCJpZCI6ImZjX2d2QUNhNlduR01IQWtQSVBucXlPMFFZXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWJrRXdWVFJGTm5WNU9WRXlhVmhVUTNBNVVYWm5XRTF1TldSck0yOW5hMWxxVGpoSVZXbzFVVGhqUWt0c1QyNHlOazlOWnpjMWJHOXRSbk5SZDJoMkxXSkhTMnRGZUd0ZmRXZDNUbTVWYkVnMVRqTkdRekF5TlZaQlVSSVhaM1pCUTJFMlYyNUhUVWhCYTFCSlVHNXhlVTh3VVZrYUlrRklUakJGTjBWU2JVSjRUak5OYjFSTlMyOU1VVEJrUTFocWMwcERVMjFZVWtFIiwiZmN2IjoiMyIsImVpIjoiZ3ZBQ2E2V25HTUhBa1BJUG5xeU8wUVkiLCJxYyI6ImMtTnl6TWd2VnlqSlZ5aEtMU2d0S3NndlRsVkl6czlMU3kxS3pVdE9CUW9tNXhlbFpPYWxGeXRrNWdFVkZlY25aeWJtS0pSbHBxUUNPWG1aQlFXcEpjVUNETFdfUDJyYUF3QSIsInF1ZXN0aW9uIjoiSG93IHRvIHJlcHVycG9zZSBjb250ZW50IGZvciBzb2NpYWwgbWVkaWE%2FIiwibGsiOiJHaWxvYjNjZ2RHOGdjbVZ3ZFhKd2IzTmxJR052Ym5SbGJuUWdabTl5SUhOdlkybGhiQ0J0WldScFlRIiwiYnMiOiJjNDJPTVF2Q01CQ0ZjYjNKU1RTRDNtanJGbkRPNE9JX0VNZVFwdWF3N1lYa2F2SGZLMXFuZ25SOTczdVBENjVRbm5sQVlVdy05aWx5OXVpNEU5OEoxcHd3c3lQYllPc3Jza1lmVkJIbTBuQ0MzWGpkMnJ2SDNGR01Yakp5alEtcVBHZWpVVzNEWHdTT3NKbjQyVzlwOUZxdEpqcWZDaTVRakxQLWw2RnJLR1ljU0FMMzh0YU96MFMzSUVhWGFoOW13c3ZGQ3ciLCJpZCI6ImZjX2d2QUNhNlduR01IQWtQSVBucXlPMFFZXzUifQ%3D%3D"
+      },
+      {
+        "question": "How to make snippets of videos?",
+        "type": "ai_overview",
+        "page_token": "CpWlEXicHdBdToMwAADg6GF8dANkxiWLCdqy4YAB_YOXpbRszHZQJxuTNz2LTx7GA3gKj2Did4Tv41PvGvVzcaq7zrxOR6O-76-3bbvV1bVo9yP--taIkeBal1yo6eR2Yt1vxAwcF97Dy8JLcApyLTXVdRcxry53FuWDpJHC51BDIOdpJueGlKweYkhWXMkNadoxAmYpUBDGuFhGyixy7Z0qFIDMvxvCPcEZW9gCnFlpRVGIvFUGxZn7oqf4zpdYqnhuimQgcWgRuCTpsnCwWzqhTawACAxBsYcwH9-4aCzd3N7azCYn2gRI0nrg2msSm7RcuYr68iH0z36lzUthwaeIAVco44FaNlLBxxwVrFQyygA8YKCTsoEuGryUpu0uwXUcAuykz3CVoaCnRHWYmDx1oixjxZhZ-pjj4MDtGhb91UacZs7V_-dsvdl3U3Not1_iUPGukmvefavL3_c_EvWKhA",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=CpWlEXicHdBdToMwAADg6GF8dANkxiWLCdqy4YAB_YOXpbRszHZQJxuTNz2LTx7GA3gKj2Did4Tv41PvGvVzcaq7zrxOR6O-76-3bbvV1bVo9yP--taIkeBal1yo6eR2Yt1vxAwcF97Dy8JLcApyLTXVdRcxry53FuWDpJHC51BDIOdpJueGlKweYkhWXMkNadoxAmYpUBDGuFhGyixy7Z0qFIDMvxvCPcEZW9gCnFlpRVGIvFUGxZn7oqf4zpdYqnhuimQgcWgRuCTpsnCwWzqhTawACAxBsYcwH9-4aCzd3N7azCYn2gRI0nrg2msSm7RcuYr68iH0z36lzUthwaeIAVco44FaNlLBxxwVrFQyygA8YKCTsoEuGryUpu0uwXUcAuykz3CVoaCnRHWYmDx1oixjxZhZ-pjj4MDtGhb91UacZs7V_-dsvdl3U3Not1_iUPGukmvefavL3_c_EvWKhA",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWJrRXdWVFJGTm5WNU9WRXlhVmhVUTNBNVVYWm5XRTF1TldSck0yOW5hMWxxVGpoSVZXbzFVVGhqUWt0c1QyNHlOazlOWnpjMWJHOXRSbk5SZDJoMkxXSkhTMnRGZUd0ZmRXZDNUbTVWYkVnMVRqTkdRekF5TlZaQlVSSVhaM1pCUTJFMlYyNUhUVWhCYTFCSlVHNXhlVTh3VVZrYUlrRklUakJGTjBWU2JVSjRUak5OYjFSTlMyOU1VVEJrUTFocWMwcERVMjFZVWtFIiwiZmN2IjoiMyIsImVpIjoiZ3ZBQ2E2V25HTUhBa1BJUG5xeU8wUVkiLCJxYyI6ImMtTnl6TWd2VnlqSlZ5aEtMU2d0S3NndlRsVkl6czlMU3kxS3pVdE9CUW9tNXhlbFpPYWxGeXRrNWdFVkZlY25aeWJtS0pSbHBxUUNPWG1aQlFXcEpjVUNETFdfUDJyYUF3QSIsInF1ZXN0aW9uIjoiSG93IHRvIG1ha2Ugc25pcHBldHMgb2YgdmlkZW9zPyIsImxrIjoiR2g1b2IzY2dkRzhnYldGclpTQnpibWx3Y0dWMGN5QnZaaUIyYVdSbGIzTSIsImJzIjoiYzQyT01RdkNNQkNGY2IzSlNUU0QzbWpyRm5ETzRPSV9FTWVRcHVhdzdZWGthdkhmSzFxbmduUjk3M3VQRDY1UW5ubEFZVXctOWlseTl1aTRFOThKMXB3d3N5UGJZT3Nyc2tZZlZCSG0wbkNDM1hqZDJydkgzRkdNWGpKeWpRLXFQR2VqVVczRFh3U09zSm40Mlc5cDlGcXRKanFmQ2k1UWpMUC1sNkZyS0dZY1NBTDM4dGFPejBTM0lFYVhhaDltd3N2RkN3IiwiaWQiOiJmY19ndkFDYTZXbkdNSEFrUElQbnF5TzBRWV81In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWJrRXdWVFJGTm5WNU9WRXlhVmhVUTNBNVVYWm5XRTF1TldSck0yOW5hMWxxVGpoSVZXbzFVVGhqUWt0c1QyNHlOazlOWnpjMWJHOXRSbk5SZDJoMkxXSkhTMnRGZUd0ZmRXZDNUbTVWYkVnMVRqTkdRekF5TlZaQlVSSVhaM1pCUTJFMlYyNUhUVWhCYTFCSlVHNXhlVTh3VVZrYUlrRklUakJGTjBWU2JVSjRUak5OYjFSTlMyOU1VVEJrUTFocWMwcERVMjFZVWtFIiwiZmN2IjoiMyIsImVpIjoiZ3ZBQ2E2V25HTUhBa1BJUG5xeU8wUVkiLCJxYyI6ImMtTnl6TWd2VnlqSlZ5aEtMU2d0S3NndlRsVkl6czlMU3kxS3pVdE9CUW9tNXhlbFpPYWxGeXRrNWdFVkZlY25aeWJtS0pSbHBxUUNPWG1aQlFXcEpjVUNETFdfUDJyYUF3QSIsInF1ZXN0aW9uIjoiSG93IHRvIG1ha2Ugc25pcHBldHMgb2YgdmlkZW9zPyIsImxrIjoiR2g1b2IzY2dkRzhnYldGclpTQnpibWx3Y0dWMGN5QnZaaUIyYVdSbGIzTSIsImJzIjoiYzQyT01RdkNNQkNGY2IzSlNUU0QzbWpyRm5ETzRPSV9FTWVRcHVhdzdZWGthdkhmSzFxbmduUjk3M3VQRDY1UW5ubEFZVXctOWlseTl1aTRFOThKMXB3d3N5UGJZT3Nyc2tZZlZCSG0wbkNDM1hqZDJydkgzRkdNWGpKeWpRLXFQR2VqVVczRFh3U09zSm40Mlc5cDlGcXRKanFmQ2k1UWpMUC1sNkZyS0dZY1NBTDM4dGFPejBTM0lFYVhhaDltd3N2RkN3IiwiaWQiOiJmY19ndkFDYTZXbkdNSEFrUElQbnF5TzBRWV81In0%3D"
+      },
+      {
+        "question": "How to repurpose a video?",
+        "type": "ai_overview",
+        "page_token": "s4-m1nicHdBRbtowAABQbYfpZyEJ6QQSmuTaaUDEzE5sk_xUiU1wZeNkOMWDv-0s-9phdoCdYkeYtHeE9-OnfXPmz4ernqbRr2azEMLjaRhO9vgoh_Os9TcnZ7K1tmulWT19eoo-93KN3jfg-esGEEZRbZUV5-Wty5b57qBjjqwv0LYsHfZ1Ge2oiYwy9h0beu3izCs7kvKsIZkrUVvKD3FYcE4NY9uxMlEtHUgLRhcCWiyNeuZxU7cxDoqhQGOlhRk31JBvXbX1LM96fud7freBJ9oxOy6YG3OGSMDC32SudpVYIjnHexqnkBwsbDPQNxDEBVKRShqnIEnLFzWpBHspphcy1xRp5ZTJYF01h84oXKLswpAlncvS6g6ooMMbYXpfIJZQ4-8dHwGFGlauKQuDr0pYQB2Ijij9gvNm04SHXl7XycP_z_Vrf55W42U4_ZKXYzsd1Ws7_TYf_37_B4zSi2M",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=s4-m1nicHdBRbtowAABQbYfpZyEJ6QQSmuTaaUDEzE5sk_xUiU1wZeNkOMWDv-0s-9phdoCdYkeYtHeE9-OnfXPmz4ernqbRr2azEMLjaRhO9vgoh_Os9TcnZ7K1tmulWT19eoo-93KN3jfg-esGEEZRbZUV5-Wty5b57qBjjqwv0LYsHfZ1Ge2oiYwy9h0beu3izCs7kvKsIZkrUVvKD3FYcE4NY9uxMlEtHUgLRhcCWiyNeuZxU7cxDoqhQGOlhRk31JBvXbX1LM96fud7freBJ9oxOy6YG3OGSMDC32SudpVYIjnHexqnkBwsbDPQNxDEBVKRShqnIEnLFzWpBHspphcy1xRp5ZTJYF01h84oXKLswpAlncvS6g6ooMMbYXpfIJZQ4-8dHwGFGlauKQuDr0pYQB2Ijij9gvNm04SHXl7XycP_z_Vrf55W42U4_ZKXYzsd1Ws7_TYf_37_B4zSi2M",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWJrRXdWVFJGTm5WNU9WRXlhVmhVUTNBNVVYWm5XRTF1TldSck0yOW5hMWxxVGpoSVZXbzFVVGhqUWt0c1QyNHlOazlOWnpjMWJHOXRSbk5SZDJoMkxXSkhTMnRGZUd0ZmRXZDNUbTVWYkVnMVRqTkdRekF5TlZaQlVSSVhaM1pCUTJFMlYyNUhUVWhCYTFCSlVHNXhlVTh3VVZrYUlrRklUakJGTjBWU2JVSjRUak5OYjFSTlMyOU1VVEJrUTFocWMwcERVMjFZVWtFIiwiZmN2IjoiMyIsImVpIjoiZ3ZBQ2E2V25HTUhBa1BJUG5xeU8wUVkiLCJxYyI6ImMtTnl6TWd2VnlqSlZ5aEtMU2d0S3NndlRsVkl6czlMU3kxS3pVdE9CUW9tNXhlbFpPYWxGeXRrNWdFVkZlY25aeWJtS0pSbHBxUUNPWG1aQlFXcEpjVUNETFdfUDJyYUF3QSIsInF1ZXN0aW9uIjoiSG93IHRvIHJlcHVycG9zZSBhIHZpZGVvPyIsImxrIjoiR2hab2IzY2dkRzhnY21Wd2RYSndiM05sSUhacFpHVnYiLCJicyI6ImM0Mk9NUXZDTUJDRmNiM0pTVFNEM21qckZuRE80T0lfRU1lUXB1YXc3WVhrYXZIZksxcW5nblI5NzN1UEQ2NVFubmxBWVV3LTlpbHk5dWk0RTk4SjFwd3dzeVBiWU9zcnNrWWZWQkhtMG5DQzNYamQycnZIM0ZHTVhqSnlqUS1xUEdlalVXM0RYd1NPc0puNDJXOXA5RnF0SmpxZkNpNVFqTFAtbDZGcktHWWNTQUwzOHRhT3owUzNJRWFYYWg5bXdzdkZDdyIsImlkIjoiZmNfZ3ZBQ2E2V25HTUhBa1BJUG5xeU8wUVlfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWJrRXdWVFJGTm5WNU9WRXlhVmhVUTNBNVVYWm5XRTF1TldSck0yOW5hMWxxVGpoSVZXbzFVVGhqUWt0c1QyNHlOazlOWnpjMWJHOXRSbk5SZDJoMkxXSkhTMnRGZUd0ZmRXZDNUbTVWYkVnMVRqTkdRekF5TlZaQlVSSVhaM1pCUTJFMlYyNUhUVWhCYTFCSlVHNXhlVTh3VVZrYUlrRklUakJGTjBWU2JVSjRUak5OYjFSTlMyOU1VVEJrUTFocWMwcERVMjFZVWtFIiwiZmN2IjoiMyIsImVpIjoiZ3ZBQ2E2V25HTUhBa1BJUG5xeU8wUVkiLCJxYyI6ImMtTnl6TWd2VnlqSlZ5aEtMU2d0S3NndlRsVkl6czlMU3kxS3pVdE9CUW9tNXhlbFpPYWxGeXRrNWdFVkZlY25aeWJtS0pSbHBxUUNPWG1aQlFXcEpjVUNETFdfUDJyYUF3QSIsInF1ZXN0aW9uIjoiSG93IHRvIHJlcHVycG9zZSBhIHZpZGVvPyIsImxrIjoiR2hab2IzY2dkRzhnY21Wd2RYSndiM05sSUhacFpHVnYiLCJicyI6ImM0Mk9NUXZDTUJDRmNiM0pTVFNEM21qckZuRE80T0lfRU1lUXB1YXc3WVhrYXZIZksxcW5nblI5NzN1UEQ2NVFubmxBWVV3LTlpbHk5dWk0RTk4SjFwd3dzeVBiWU9zcnNrWWZWQkhtMG5DQzNYamQycnZIM0ZHTVhqSnlqUS1xUEdlalVXM0RYd1NPc0puNDJXOXA5RnF0SmpxZkNpNVFqTFAtbDZGcktHWWNTQUwzOHRhT3owUzNJRWFYYWg5bXdzdkZDdyIsImlkIjoiZmNfZ3ZBQ2E2V25HTUhBa1BJUG5xeU8wUVlfNSJ9"
+      },
+      {
+        "question": "How to use video clips without copyright?",
+        "type": "ai_overview",
+        "page_token": "ISJlyHicHdBfTtswHABgjcPwSOMksKlShWSwWzI5pb_acZIXFDtpTO38WesRyNt2Fp52mB1gp9gRkPiO8P1-d8-9_fflxXg_npeLxTRNV-0wtK650kO3qM5vvV7oyjlVabu8-XqDbg96RX4-4LsfD3gngBSudrKvZblOQW5Gx1ARa5uhAqVyz6HjFrGm87EOrvMMQaKyzBQc48wB3oUZq7nhhUCJouWbiNqgcWxSlAqFTJb2TihqvhfhNEP3LYYjTrb5EKeUzXIDmK8phzB5ZcE0N0c3i475MvC-yBKhQxfu14jXucH5bGOgbpvP6T2TLQJCgu0ahrIfK-jGx1qksA_9KDq6EVEZEVP3taX3BS9zZet0T-hJELdTPb3mMwYJw_NOmC0jIgIEcYpIwFFJ8sBEOjxH6ugeNcVSWhhkDricLg_6ZRVdfn6ung6dX46nof2jT03lm_qp8n_txf9fH5_GiN4",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ISJlyHicHdBfTtswHABgjcPwSOMksKlShWSwWzI5pb_acZIXFDtpTO38WesRyNt2Fp52mB1gp9gRkPiO8P1-d8-9_fflxXg_npeLxTRNV-0wtK650kO3qM5vvV7oyjlVabu8-XqDbg96RX4-4LsfD3gngBSudrKvZblOQW5Gx1ARa5uhAqVyz6HjFrGm87EOrvMMQaKyzBQc48wB3oUZq7nhhUCJouWbiNqgcWxSlAqFTJb2TihqvhfhNEP3LYYjTrb5EKeUzXIDmK8phzB5ZcE0N0c3i475MvC-yBKhQxfu14jXucH5bGOgbpvP6T2TLQJCgu0ahrIfK-jGx1qksA_9KDq6EVEZEVP3taX3BS9zZet0T-hJELdTPb3mMwYJw_NOmC0jIgIEcYpIwFFJ8sBEOjxH6ugeNcVSWhhkDricLg_6ZRVdfn6ung6dX46nof2jT03lm_qp8n_txf9fH5_GiN4",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWJrRXdWVFJGTm5WNU9WRXlhVmhVUTNBNVVYWm5XRTF1TldSck0yOW5hMWxxVGpoSVZXbzFVVGhqUWt0c1QyNHlOazlOWnpjMWJHOXRSbk5SZDJoMkxXSkhTMnRGZUd0ZmRXZDNUbTVWYkVnMVRqTkdRekF5TlZaQlVSSVhaM1pCUTJFMlYyNUhUVWhCYTFCSlVHNXhlVTh3VVZrYUlrRklUakJGTjBWU2JVSjRUak5OYjFSTlMyOU1VVEJrUTFocWMwcERVMjFZVWtFIiwiZmN2IjoiMyIsImVpIjoiZ3ZBQ2E2V25HTUhBa1BJUG5xeU8wUVkiLCJxYyI6ImMtTnl6TWd2VnlqSlZ5aEtMU2d0S3NndlRsVkl6czlMU3kxS3pVdE9CUW9tNXhlbFpPYWxGeXRrNWdFVkZlY25aeWJtS0pSbHBxUUNPWG1aQlFXcEpjVUNETFdfUDJyYUF3QSIsInF1ZXN0aW9uIjoiSG93IHRvIHVzZSB2aWRlbyBjbGlwcyB3aXRob3V0IGNvcHlyaWdodD8iLCJsayI6IkdpaG9iM2NnZEc4Z2RYTmxJSFpwWkdWdklHTnNhWEJ6SUhkcGRHaHZkWFFnWTI5d2VYSnBaMmgwIiwiYnMiOiJjNDJPTVF2Q01CQ0ZjYjNKU1RTRDNtanJGbkRPNE9JX0VNZVFwdWF3N1lYa2F2SGZLMXFuZ25SOTczdVBENjVRbm5sQVlVdy05aWx5OXVpNEU5OEoxcHd3c3lQYllPc3Jza1lmVkJIbTBuQ0MzWGpkMnJ2SDNGR01Yakp5alEtcVBHZWpVVzNEWHdTT3NKbjQyVzlwOUZxdEpqcWZDaTVRakxQLWw2RnJLR1ljU0FMMzh0YU96MFMzSUVhWGFoOW13c3ZGQ3ciLCJpZCI6ImZjX2d2QUNhNlduR01IQWtQSVBucXlPMFFZXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWJrRXdWVFJGTm5WNU9WRXlhVmhVUTNBNVVYWm5XRTF1TldSck0yOW5hMWxxVGpoSVZXbzFVVGhqUWt0c1QyNHlOazlOWnpjMWJHOXRSbk5SZDJoMkxXSkhTMnRGZUd0ZmRXZDNUbTVWYkVnMVRqTkdRekF5TlZaQlVSSVhaM1pCUTJFMlYyNUhUVWhCYTFCSlVHNXhlVTh3VVZrYUlrRklUakJGTjBWU2JVSjRUak5OYjFSTlMyOU1VVEJrUTFocWMwcERVMjFZVWtFIiwiZmN2IjoiMyIsImVpIjoiZ3ZBQ2E2V25HTUhBa1BJUG5xeU8wUVkiLCJxYyI6ImMtTnl6TWd2VnlqSlZ5aEtMU2d0S3NndlRsVkl6czlMU3kxS3pVdE9CUW9tNXhlbFpPYWxGeXRrNWdFVkZlY25aeWJtS0pSbHBxUUNPWG1aQlFXcEpjVUNETFdfUDJyYUF3QSIsInF1ZXN0aW9uIjoiSG93IHRvIHVzZSB2aWRlbyBjbGlwcyB3aXRob3V0IGNvcHlyaWdodD8iLCJsayI6IkdpaG9iM2NnZEc4Z2RYTmxJSFpwWkdWdklHTnNhWEJ6SUhkcGRHaHZkWFFnWTI5d2VYSnBaMmgwIiwiYnMiOiJjNDJPTVF2Q01CQ0ZjYjNKU1RTRDNtanJGbkRPNE9JX0VNZVFwdWF3N1lYa2F2SGZLMXFuZ25SOTczdVBENjVRbm5sQVlVdy05aWx5OXVpNEU5OEoxcHd3c3lQYllPc3Jza1lmVkJIbTBuQ0MzWGpkMnJ2SDNGR01Yakp5alEtcVBHZWpVVzNEWHdTT3NKbjQyVzlwOUZxdEpqcWZDaTVRakxQLWw2RnJLR1ljU0FMMzh0YU96MFMzSUVhWGFoOW13c3ZGQ3ciLCJpZCI6ImZjX2d2QUNhNlduR01IQWtQSVBucXlPMFFZXzUifQ%3D%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "TyUePXicjY9bjpswFIalWYxfMk0ICeQiWZXJZJJMAoGU3OYFgTHGE7AJ5jLw1q6lT11MF9BVdAlF0y6gD0dH369PR-f_9j1h_PbrQY-LIpPzwaCu6z4Vgiakj0U68GXD8SASicxx_FmKMseEhRDHuUgJ-Mv_qC8CECeQcEATyDhoKjgCWEIFEAZphRa-fuYrc41u9sbm92avOFfwcR96UVrMUz9MHj0Wzg31pWjCR68LxJyE4A7Xou4VopeTrMwzIUkPCx6RnHBMuhCLPGScyh7jnSQFZn7Sq1hIOuAsy0ghQZrkAir-ZDpJjUCcWrqi4pmbuLXKwgrdN9d6n-BqG7raubSbtRk_X7SVPWu93VrPpsfN9tPwYmaBZ345XQNxjrJ6cXxVpbl7O1xbb8-OGo2SVi3d1rtvx4u2MsyqTE_VU67aM9M2tOEyu-i7VSH08v7xjYR7a-daI7--YQekOYYLhMYUWQ46I-Qjo0Yv1EBbZBzu3d4hAwXCQM76ipwn2o1ADgIS-x6RFcS6NsKaomDfjyYRiUBKiyaDMwVInsMhqEjY1Y-P22XNkukmcNXX8oreT8Zm6WzWB_28UYWjjanTmQUc_pfa77MfOCd-QULPL37eHn5__QOTJc1o",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=TyUePXicjY9bjpswFIalWYxfMk0ICeQiWZXJZJJMAoGU3OYFgTHGE7AJ5jLw1q6lT11MF9BVdAlF0y6gD0dH369PR-f_9j1h_PbrQY-LIpPzwaCu6z4Vgiakj0U68GXD8SASicxx_FmKMseEhRDHuUgJ-Mv_qC8CECeQcEATyDhoKjgCWEIFEAZphRa-fuYrc41u9sbm92avOFfwcR96UVrMUz9MHj0Wzg31pWjCR68LxJyE4A7Xou4VopeTrMwzIUkPCx6RnHBMuhCLPGScyh7jnSQFZn7Sq1hIOuAsy0ghQZrkAir-ZDpJjUCcWrqi4pmbuLXKwgrdN9d6n-BqG7raubSbtRk_X7SVPWu93VrPpsfN9tPwYmaBZ345XQNxjrJ6cXxVpbl7O1xbb8-OGo2SVi3d1rtvx4u2MsyqTE_VU67aM9M2tOEyu-i7VSH08v7xjYR7a-daI7--YQekOYYLhMYUWQ46I-Qjo0Yv1EBbZBzu3d4hAwXCQM76ipwn2o1ADgIS-x6RFcS6NsKaomDfjyYRiUBKiyaDMwVInsMhqEjY1Y-P22XNkukmcNXX8oreT8Zm6WzWB_28UYWjjanTmQUc_pfa77MfOCd-QULPL37eHn5__QOTJc1o"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "How to repurpose webinars into social clips (with AI)",
+        "link": "https://livestorm.co/blog/repurpose-webinars-into-social-clips",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHEIkXXh5rkLdpjpYYhLTHP4BpLUN-EQQPU_GxuVHJt48q-Q3q0X2bJnLl8--lO59W_7Z4VzoPVGRe1Hwd-DiiPQS-rBj0qXMr7-6RZLQcQSZG3H0j1Aaaie2M4_Kne__aRGKfvaxrXI2U4APLe-6bt36BTM_DNAypbCA&ved=2ahUKEwil8IbT2ZuYAxVBIEQIHR6WI2oQFnoECBgQAQ&uoh=1",
+        "displayed_link": "https://livestorm.co \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACYklEQVR4AcSXA5AdQRCGJzYWsZPFvTcb27ZtlWIWYrsU27Ztsxjbto1O9_nuafa0XfU97Mz2_ONu5tM0LYWk8YaKzqfIBt-FXEAeId8R8AqVmfyhbFhnFZPvkEw-XjLcdVnx4smYqEn5i2eQDGsiOnuHQBzxBhmjmmY65s_UoILFseJjBOIDGp2Mmruo98Y1VzGs9AWBeOaLhwhZ09KHzi8kBDQSUaYDH4yjggRF52MZGa3Q0EUCCcxbxnlyJhmuet4q5C1eGjr26gtd-w4Uolz9xh4-XOWrQPsefciXr6mow2jLeSu8fP0G2LHff_5A1aYtw9_PVaQkvHz9GsguXbvuVQCeEROYpPPt0Quy8iLkEOxar8HDwn2UqFkvijj06SGA2mahJ5xH4ZDxk-DJs-fw_uPHgLx9_x72Hj5KvY7iY9bipXDvwUPy5WMdWGcZbQn64xD3SMBXBwV8pin47ZQAxeA_SMDfQBXzlygLMxYugW179wkxb_lKMMtVEhHxi4koXbJmPdi1Lbv3igj4KyRg8Zp18SZAeAqmLVgkPAVzli4XnwLnF6Gz2_CTkwcRjcCd8KNYFDrTt-7ZC2_evYtyFO87cszjKBbgNAnYZeeldt17C1xGYkiGtZXhMEy28xLdcj9-_PB6HVcJv46FGcMk3Wpgd-6K16jjEZCUqdvQ_jrQrFqMwiIKjxxYgK_CExaKTBJ-F7hHORWWEw8ycZ7W8cTEw6ggng-mB6GN-zYaGtoeyOu4Tk7JNxM2SliCeG3KmiSDb8PvM-jkLvLJ39mO3KO6FPH-H6h7Dmr74-ueAwBnCSLuaPh-KAAAAABJRU5ErkJggg.png",
+        "date": "25 Oct 2026",
+        "snippet": "To repurpose a webinar into social clips, you cut the recording into short, standalone videos (usually 15 to 90 seconds each) that make one ...",
+        "snippet_highlighted_words": [
+          "cut the recording into short, standalone videos"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.4,
+              "reviews": 1742
+            },
+            "extensions": [
+              "4.4(1,742)"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "To repurpose a webinar into social clips, you cut the recording into short, standalone videos (usually 15 to 90 seconds each) that make one ...",
+            "source_info_link": "https://livestorm.co/blog/repurpose-webinars-into-social-clips",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACYklEQVR4AcSXA5AdQRCGJzYWsZPFvTcb27ZtlWIWYrsU27Ztsxjbto1O9_nuafa0XfU97Mz2_ONu5tM0LYWk8YaKzqfIBt-FXEAeId8R8AqVmfyhbFhnFZPvkEw-XjLcdVnx4smYqEn5i2eQDGsiOnuHQBzxBhmjmmY65s_UoILFseJjBOIDGp2Mmruo98Y1VzGs9AWBeOaLhwhZ09KHzi8kBDQSUaYDH4yjggRF52MZGa3Q0EUCCcxbxnlyJhmuet4q5C1eGjr26gtd-w4Uolz9xh4-XOWrQPsefciXr6mow2jLeSu8fP0G2LHff_5A1aYtw9_PVaQkvHz9GsguXbvuVQCeEROYpPPt0Quy8iLkEOxar8HDwn2UqFkvijj06SGA2mahJ5xH4ZDxk-DJs-fw_uPHgLx9_x72Hj5KvY7iY9bipXDvwUPy5WMdWGcZbQn64xD3SMBXBwV8pin47ZQAxeA_SMDfQBXzlygLMxYugW179wkxb_lKMMtVEhHxi4koXbJmPdi1Lbv3igj4KyRg8Zp18SZAeAqmLVgkPAVzli4XnwLnF6Gz2_CTkwcRjcCd8KNYFDrTt-7ZC2_evYtyFO87cszjKBbgNAnYZeeldt17C1xGYkiGtZXhMEy28xLdcj9-_PB6HVcJv46FGcMk3Wpgd-6K16jjEZCUqdvQ_jrQrFqMwiIKjxxYgK_CExaKTBJ-F7hHORWWEw8ycZ7W8cTEw6ggng-mB6GN-zYaGtoeyOu4Tk7JNxM2SliCeG3KmiSDb8PvM-jkLvLJ39mO3KO6FPH-H6h7Dmr74-ueAwBnCSLuaPh-KAAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrQBL2dvdG8_dXJsPUNBRVNld0hFSWtYWEtNcmpjQkJGSUhla1pBQ2tpRG1HclhlcTRFTTBHbTZLS0Y5c0Zob0RSU3hsaFJEM0FLaXRIeVozYU5TUkZlTU1lbG1INHlHaGdhazd4WGtpUlJiWWo0SUN6aGdRUVk2X2FaNzBLajVlNkdXX0tHN0o3UTRpakwwR3RBMkFmVklmNi1ldE55M1EyT0R0U2JLX0VEanN2a1BGVGJoV3pnEgQaAggAGpUGEgIIABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJA7wUIABAAGAAgACoKCgNob3cVszegQCoJCgJ0bxUAAAAAKjAKCXJlcHVycG9zZRXwwsxAGgdyZWN5Y2xlGgVyZXVzZRoOaXY7cDtyZXB1cnBvc2UqHgoKY29uZmVyZW5jZRUAAAAAGgtjb25mZXJlbmNlcyo0CgpyZWNvcmRpbmdzFccrbT4aCXJlY29yZGluZxoFdGFwZXMaD2l2O3A7cmVjb3JkaW5ncyoPCgRpbnRvFTR450AaAmluKiQKBnNvY2lhbBVqoNNAGghzb2NpZXRhbBoLc29jaWFsdmlkZW8qIQoFdmlkZW8VvVgPQBoGdmlkZW9zGgtzb2NpYWx2aWRlbyo-CghzbmlwcGV0cxUAAAAAGgRjbGlwGgVjbGlwcxoHc25pcHBldBoIc25pcHBpdHMaDWl2O3A7c25pcHBldHMytAEvZ290bz91cmw9Q0FFU2V3SEVJa1hYS01yamNCQkZJSGVrWkFDa2lEbUdyWGVxNEVNMEdtNktLRjlzRmhvRFJTeGxoUkQzQUtpdEh5WjNhTlNSRmVNTWVsbUg0eUdoZ2FrN3hYa2lSUmJZajRJQ3poZ1FRWTZfYVo3MEtqNWU2R1dfS0c3SjdRNGlqTDBHdEEyQWZWSWY2LWV0TnkzUTJPRHRTYktfRURqc3ZrUEZUYmhXemc6TzxiPkhvdyB0byByZXB1cnBvc2U8L2I-IHdlYmluYXJzIDxiPmludG8gc29jaWFsIGNsaXBzPC9iPiAod2l0aCBBSSkgLSBMaXZlc3Rvcm1CmwFUbyByZXB1cnBvc2UgYSB3ZWJpbmFyIGludG8gc29jaWFsIGNsaXBzLCB5b3UgPGI-Y3V0IHRoZSByZWNvcmRpbmcgaW50byBzaG9ydCwgc3RhbmRhbG9uZSB2aWRlb3M8L2I-ICh1c3VhbGx5IDE1IHRvIDkwIHNlY29uZHMgZWFjaCkgdGhhdCBtYWtlIG9uZSZuYnNwOy4uLkoCdG9SAmluIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrQBL2dvdG8_dXJsPUNBRVNld0hFSWtYWEtNcmpjQkJGSUhla1pBQ2tpRG1HclhlcTRFTTBHbTZLS0Y5c0Zob0RSU3hsaFJEM0FLaXRIeVozYU5TUkZlTU1lbG1INHlHaGdhazd4WGtpUlJiWWo0SUN6aGdRUVk2X2FaNzBLajVlNkdXX0tHN0o3UTRpakwwR3RBMkFmVklmNi1ldE55M1EyT0R0U2JLX0VEanN2a1BGVGJoV3pnEgQaAggAGpUGEgIIABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJA7wUIABAAGAAgACoKCgNob3cVszegQCoJCgJ0bxUAAAAAKjAKCXJlcHVycG9zZRXwwsxAGgdyZWN5Y2xlGgVyZXVzZRoOaXY7cDtyZXB1cnBvc2UqHgoKY29uZmVyZW5jZRUAAAAAGgtjb25mZXJlbmNlcyo0CgpyZWNvcmRpbmdzFccrbT4aCXJlY29yZGluZxoFdGFwZXMaD2l2O3A7cmVjb3JkaW5ncyoPCgRpbnRvFTR450AaAmluKiQKBnNvY2lhbBVqoNNAGghzb2NpZXRhbBoLc29jaWFsdmlkZW8qIQoFdmlkZW8VvVgPQBoGdmlkZW9zGgtzb2NpYWx2aWRlbyo-CghzbmlwcGV0cxUAAAAAGgRjbGlwGgVjbGlwcxoHc25pcHBldBoIc25pcHBpdHMaDWl2O3A7c25pcHBldHMytAEvZ290bz91cmw9Q0FFU2V3SEVJa1hYS01yamNCQkZJSGVrWkFDa2lEbUdyWGVxNEVNMEdtNktLRjlzRmhvRFJTeGxoUkQzQUtpdEh5WjNhTlNSRmVNTWVsbUg0eUdoZ2FrN3hYa2lSUmJZajRJQ3poZ1FRWTZfYVo3MEtqNWU2R1dfS0c3SjdRNGlqTDBHdEEyQWZWSWY2LWV0TnkzUTJPRHRTYktfRURqc3ZrUEZUYmhXemc6TzxiPkhvdyB0byByZXB1cnBvc2U8L2I-IHdlYmluYXJzIDxiPmludG8gc29jaWFsIGNsaXBzPC9iPiAod2l0aCBBSSkgLSBMaXZlc3Rvcm1CmwFUbyByZXB1cnBvc2UgYSB3ZWJpbmFyIGludG8gc29jaWFsIGNsaXBzLCB5b3UgPGI-Y3V0IHRoZSByZWNvcmRpbmcgaW50byBzaG9ydCwgc3RhbmRhbG9uZSB2aWRlb3M8L2I-ICh1c3VhbGx5IDE1IHRvIDkwIHNlY29uZHMgZWFjaCkgdGhhdCBtYWtlIG9uZSZuYnNwOy4uLkoCdG9SAmluIgIQAUgAWABoAA",
+        "source": "Livestorm"
+      },
+      {
+        "position": 2,
+        "title": "How to repurpose your webinar content",
+        "link": "https://www.youtube.com/watch?v=E5MNV515Tgo",
+        "displayed_link": "500+ views",
+        "date": "2 years ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f081e140f0766c4cf495/images/95KOlEY0XYw6Hb3XsiemmZHOiNlYBgJoGBMiM2vNYyg.jpg",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "In this video, Livestorm and Chopcast experts share their proven framework on how to repurpose long-form content effectively.",
+        "duration": "14:24",
+        "about_this_result": {
+          "source": {
+            "description": "In this video, Livestorm and Chopcast experts share their proven framework on how to repurpose long-form content effectively.",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWHFCTjZkM19rbFJoZ2xWY1BjeGRfTHp5UVFJN0YySThpNllQR3VNcmJDNU9ncWtlTGNNaGVLRXhWN2VaRGs1VUZHc1Vpbkp0azRoZmtEUXBnaUs5SzdkR2JGZ1NEakdUMC1zbTc5ZDdKaXluMHdZYlZ6MWw2SlJfOEtRaER1X1hLZFBWTBIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWHFCTjZkM19rbFJoZ2xWY1BjeGRfTHp5UVFJN0YySThpNllQR3VNcmJDNU9ncWtlTGNNaGVLRXhWN2VaRGs1VUZHc1Vpbkp0azRoZmtEUXBnaUs5SzdkR2JGZ1NEakdUMC1zbTc5ZDdKaXluMHdZYlZ6MWw2SlJfOEtRaER1X1hLZFBWTBIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "source": "YouTube \u00b7 Livestorm"
+      },
+      {
+        "position": 3,
+        "title": "How to Repurpose Event Recordings with AI",
+        "link": "https://www.google.com/goto?url=CAESdgHEIkXXHukrD1zUUgjmlbbTsbiBwiRLtoyv-_n-wVSM-gyf5_Z44tfh3odiPYeTuYxVYr7sof_eC69vRaZ6XBIbpWd4L4iCccJWEufsYBkmDnW-E79Q2dLNAlaFFrmvc17C_O72AuPBNvDMA8XkfTmT8dorFro",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHEIkXXlRpTeQaFtFQTpH03khEHCv9ftSltvAIiwlsmIotUkbDdeWWzUSCNrMLvqudCs0O0OPr2pwyAB8CTF5_aahjKEzSdMnGWJ6WD17A5hVaeoz6VOT9wdXMKHmFFUnVVTFirsk5IjxsNIlKgCK6yQWmgd4A&ved=2ahUKEwil8IbT2ZuYAxVBIEQIHR6WI2oQFnoECBkQAQ&uoh=1",
+        "displayed_link": "https://snipin.ai \u203a Blog \u203a Guide",
+        "favicon": "https://serpapi.com/searches/6b02f081e140f0766c4cf495/images/95KOlEY0XYw6Hb3XsiemmTxoZWaSUmCIvT5JaFkDP3c.png",
+        "date": "6 Nov 2026",
+        "snippet": "Learn how to repurpose one event recording into 100+ content pieces using AI. Turn event videos into short clips, social posts, blogs, ...",
+        "snippet_highlighted_words": [
+          "Learn how to repurpose one event recording into 100+ content pieces using AI"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Learn how to repurpose one event recording into 100+ content pieces using AI. Turn event videos into short clips, social posts, blogs, ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESdgHEIkXXHukrD1zUUgjmlbbTsbiBwiRLtoyv-_n-wVSM-gyf5_Z44tfh3odiPYeTuYxVYr7sof_eC69vRaZ6XBIbpWd4L4iCccJWEufsYBkmDnW-E79Q2dLNAlaFFrmvc17C_O72AuPBNvDMA8XkfTmT8dorFro",
+            "icon": "https://serpapi.com/searches/6b02f081e140f0766c4cf495/images/95KOlEY0XYw6Hb3XsiemmRWuugc7zvh-wuyZ5a3dy-a6FyfO3XcHglgJ0Uz1sLrl.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hFSWtYWEh1a3JEMXpVVWdqbWxiYlRzYmlCd2lSTHRveXYtX24td1ZTTS1neWY1X1o0NHRmaDNvZGlQWWVUdVl4VllyN3NvZl9lQzY5dlJhWjZYQklicFdkNEw0aUNjY0pXRXVmc1lCa21EblctRTc5UTJkTE5BbGFGRnJtdmMxN0NfTzcyQXVQQk52RE1BOFhrZlRtVDhkb3JGcm8SBBoCCAAa-wUSABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJA1wUIABAAGAAgACoKCgNob3cVAUSOQCoJCgJ0bxUAAAAAKjAKCXJlcHVycG9zZRV_eJNAGgdyZWN5Y2xlGgVyZXVzZRoOaXY7cDtyZXB1cnBvc2UqHgoKY29uZmVyZW5jZRWvBKc_Ggtjb25mZXJlbmNlcyo0CgpyZWNvcmRpbmdzFQ_KrUAaCXJlY29yZGluZxoFdGFwZXMaD2l2O3A7cmVjb3JkaW5ncyoPCgRpbnRvFdzmX0AaAmluKiQKBnNvY2lhbBUJKSBAGghzb2NpZXRhbBoLc29jaWFsdmlkZW8qIQoFdmlkZW8VxHppQBoGdmlkZW9zGgtzb2NpYWx2aWRlbyo-CghzbmlwcGV0cxUlwKg-GgRjbGlwGgVjbGlwcxoHc25pcHBldBoIc25pcHBpdHMaDWl2O3A7c25pcHBldHMyrQEvZ290bz91cmw9Q0FFU2RnSEVJa1hYSHVrckQxelVVZ2ptbGJiVHNiaUJ3aVJMdG95di1fbi13VlNNLWd5ZjVfWjQ0dGZoM29kaVBZZVR1WXhWWXI3c29mX2VDNjl2UmFaNlhCSWJwV2Q0TDRpQ2NjSldFdWZzWUJrbURuVy1FNzlRMmRMTkFsYUZGcm12YzE3Q19PNzJBdVBCTnZETUE4WGtmVG1UOGRvckZybzpDPGI-SG93IHRvIFJlcHVycG9zZTwvYj4gRXZlbnQgPGI-UmVjb3JkaW5nczwvYj4gd2l0aCBBSSAtIFNuaXBpbiBBSUKWATxiPkxlYXJuIGhvdyB0byByZXB1cnBvc2Ugb25lIGV2ZW50IHJlY29yZGluZyBpbnRvIDEwMCsgY29udGVudCBwaWVjZXMgdXNpbmcgQUk8L2I-LiBUdXJuIGV2ZW50IHZpZGVvcyBpbnRvIHNob3J0IGNsaXBzLCBzb2NpYWwgcG9zdHMsIGJsb2dzLCZuYnNwOy4uLkoCdG9SAmluIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hFSWtYWEh1a3JEMXpVVWdqbWxiYlRzYmlCd2lSTHRveXYtX24td1ZTTS1neWY1X1o0NHRmaDNvZGlQWWVUdVl4VllyN3NvZl9lQzY5dlJhWjZYQklicFdkNEw0aUNjY0pXRXVmc1lCa21EblctRTc5UTJkTE5BbGFGRnJtdmMxN0NfTzcyQXVQQk52RE1BOFhrZlRtVDhkb3JGcm8SBBoCCAAa-wUSABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJA1wUIABAAGAAgACoKCgNob3cVAUSOQCoJCgJ0bxUAAAAAKjAKCXJlcHVycG9zZRV_eJNAGgdyZWN5Y2xlGgVyZXVzZRoOaXY7cDtyZXB1cnBvc2UqHgoKY29uZmVyZW5jZRWvBKc_Ggtjb25mZXJlbmNlcyo0CgpyZWNvcmRpbmdzFQ_KrUAaCXJlY29yZGluZxoFdGFwZXMaD2l2O3A7cmVjb3JkaW5ncyoPCgRpbnRvFdzmX0AaAmluKiQKBnNvY2lhbBUJKSBAGghzb2NpZXRhbBoLc29jaWFsdmlkZW8qIQoFdmlkZW8VxHppQBoGdmlkZW9zGgtzb2NpYWx2aWRlbyo-CghzbmlwcGV0cxUlwKg-GgRjbGlwGgVjbGlwcxoHc25pcHBldBoIc25pcHBpdHMaDWl2O3A7c25pcHBldHMyrQEvZ290bz91cmw9Q0FFU2RnSEVJa1hYSHVrckQxelVVZ2ptbGJiVHNiaUJ3aVJMdG95di1fbi13VlNNLWd5ZjVfWjQ0dGZoM29kaVBZZVR1WXhWWXI3c29mX2VDNjl2UmFaNlhCSWJwV2Q0TDRpQ2NjSldFdWZzWUJrbURuVy1FNzlRMmRMTkFsYUZGcm12YzE3Q19PNzJBdVBCTnZETUE4WGtmVG1UOGRvckZybzpDPGI-SG93IHRvIFJlcHVycG9zZTwvYj4gRXZlbnQgPGI-UmVjb3JkaW5nczwvYj4gd2l0aCBBSSAtIFNuaXBpbiBBSUKWATxiPkxlYXJuIGhvdyB0byByZXB1cnBvc2Ugb25lIGV2ZW50IHJlY29yZGluZyBpbnRvIDEwMCsgY29udGVudCBwaWVjZXMgdXNpbmcgQUk8L2I-LiBUdXJuIGV2ZW50IHZpZGVvcyBpbnRvIHNob3J0IGNsaXBzLCBzb2NpYWwgcG9zdHMsIGJsb2dzLCZuYnNwOy4uLkoCdG9SAmluIgIQAUgAWABoAA",
+        "source": "Snipin AI"
+      },
+      {
+        "position": 4,
+        "title": "How to Repurpose Webinar Content Into Clips That Work",
+        "link": "https://www.google.com/goto?url=CAESdQHEIkXX_c8XJbAurJ2nzg6OvYtelsXDOQIF4KaEMsRHJqWrO6wmLSceV4fplcwj0fo_JCvK1NI2vAZECFX_bg15NLMAdYtNJ9f14MnNeWE-Tupb2A_k98QXjR4sRx6n6c2EdYJFKx3VEKheMGx_b4TKOaVd3g",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHEIkXXIGomNL-LCaslxg_MnaRb11gDBWPgdMKfzow3Cz_S52e4P1LtnS98gtrt_9Y1VCjgmcDUqY-8etM5ZdyRfL1WlDMWUVI9CbHrOtqc4m1qs6dNClmacXiGIhxRhgyvL19g6JkiFjlQ8eiRxHqiaprQmQ&ved=2ahUKEwil8IbT2ZuYAxVBIEQIHR6WI2oQFnoECBoQAQ&uoh=1",
+        "displayed_link": "https://www.superside.com \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEwKIR8KIR8JIR8KIiAKIR8AGRwAABMADRkkNiiPql211nJ1jE9fdEOCmlVJXDnf_4nY_oWkwmjH6nwYRLkVAAAABnRSTlMAedb_F_cBmbSuAAAA9UlEQVR4AX3TBQKDMAwFUEa3_NTTcv-7LpkWDc6ry6Rxm90u5ttkcX-4w3jcFVe2Ui3TncZtGuojAPx-Yyatd_ob-xBjAqnlUqo-_8hZpDVpFY6LSOAByRvZFYDepIyIoJDzIprZbqtiEZskMLo0DYlwI3ZR1GfWwqWzG5GyFavKqNnDrdDBagqvnlgn10jOdHGvAtdo8W5M5R0SmVq94mmNgPeAjeDSpGOFCDY2AfQepxUivju-ePAWqZotolxq1LcROYj-sJGxsdFB5BGLWCPYRSMJWHXFl2KpCbnHXv_mXsuEmX_rhP42Xy6w66V5vagvtsMTOIMTDZhZnRkAAAAASUVORK5CYII.png",
+        "date": "29 Oct 2026",
+        "snippet": "This guide covers the six-step pipeline: audit, select, cut by clip type (proof, teaching, quote, objection and narrative), edit with AI plus ...",
+        "snippet_highlighted_words": [
+          "audit, select, cut by clip type"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "This guide covers the six-step pipeline: audit, select, cut by clip type (proof, teaching, quote, objection and narrative), edit with AI plus ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESdQHEIkXX_c8XJbAurJ2nzg6OvYtelsXDOQIF4KaEMsRHJqWrO6wmLSceV4fplcwj0fo_JCvK1NI2vAZECFX_bg15NLMAdYtNJ9f14MnNeWE-Tupb2A_k98QXjR4sRx6n6c2EdYJFKx3VEKheMGx_b4TKOaVd3g",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEwKIR8KIR8JIR8KIiAKIR8AGRwAABMADRkkNiiPql211nJ1jE9fdEOCmlVJXDnf_4nY_oWkwmjH6nwYRLkVAAAABnRSTlMAedb_F_cBmbSuAAAA9UlEQVR4AX3TBQKDMAwFUEa3_NTTcv-7LpkWDc6ry6Rxm90u5ttkcX-4w3jcFVe2Ui3TncZtGuojAPx-Yyatd_ob-xBjAqnlUqo-_8hZpDVpFY6LSOAByRvZFYDepIyIoJDzIprZbqtiEZskMLo0DYlwI3ZR1GfWwqWzG5GyFavKqNnDrdDBagqvnlgn10jOdHGvAtdo8W5M5R0SmVq94mmNgPeAjeDSpGOFCDY2AfQepxUivju-ePAWqZotolxq1LcROYj-sJGxsdFB5BGLWCPYRSMJWHXFl2KpCbnHXv_mXsuEmX_rhP42Xy6w66V5vagvtsMTOIMTDZhZnRkAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqwBL2dvdG8_dXJsPUNBRVNkUUhFSWtYWF9jOFhKYkF1ckoybnpnNk92WXRlbHNYRE9RSUY0S2FFTXNSSEpxV3JPNndtTFNjZVY0ZnBsY3dqMGZvX0pDdksxTkkydkFaRUNGWF9iZzE1TkxNQWRZdE5KOWYxNE1uTmVXRS1UdXBiMkFfazk4UVhqUjRzUng2bjZjMkVkWUpGS3gzVkVLaGVNR3hfYjRUS09hVmQzZxIEGgIIABqBBhIAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkDdBQgAEAAYACAAKgoKA2hvdxV90pZAKgkKAnRvFQAAAAAqMAoJcmVwdXJwb3NlFRxLkUAaB3JlY3ljbGUaBXJldXNlGg5pdjtwO3JlcHVycG9zZSoeCgpjb25mZXJlbmNlFQi9PD8aC2NvbmZlcmVuY2VzKjQKCnJlY29yZGluZ3MVOhHFPxoJcmVjb3JkaW5nGgV0YXBlcxoPaXY7cDtyZWNvcmRpbmdzKg8KBGludG8VEN-RQBoCaW4qJAoGc29jaWFsFfbPAUAaCHNvY2lldGFsGgtzb2NpYWx2aWRlbyohCgV2aWRlbxWctRxAGgZ2aWRlb3MaC3NvY2lhbHZpZGVvKj4KCHNuaXBwZXRzFQAAAAAaBGNsaXAaBWNsaXBzGgdzbmlwcGV0GghzbmlwcGl0cxoNaXY7cDtzbmlwcGV0czKsAS9nb3RvP3VybD1DQUVTZFFIRUlrWFhfYzhYSmJBdXJKMm56ZzZPdll0ZWxzWERPUUlGNEthRU1zUkhKcVdyTzZ3bUxTY2VWNGZwbGN3ajBmb19KQ3ZLMU5JMnZBWkVDRlhfYmcxNU5MTUFkWXROSjlmMTRNbk5lV0UtVHVwYjJBX2s5OFFYalI0c1J4Nm42YzJFZFlKRkt4M1ZFS2hlTUd4X2I0VEtPYVZkM2c6QzxiPkhvdyB0byBSZXB1cnBvc2U8L2I-IFdlYmluYXIgQ29udGVudCA8Yj5JbnRvIENsaXBzPC9iPiBUaGF0IFdvcmtCnQFUaGlzIGd1aWRlIGNvdmVycyB0aGUgc2l4LXN0ZXAgcGlwZWxpbmU6IDxiPmF1ZGl0LCBzZWxlY3QsIGN1dCBieSBjbGlwIHR5cGU8L2I-IChwcm9vZiwgdGVhY2hpbmcsIHF1b3RlLCBvYmplY3Rpb24gYW5kIG5hcnJhdGl2ZSksIGVkaXQgd2l0aCBBSSBwbHVzJm5ic3A7Li4uSgJ0b1ICaW4iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqwBL2dvdG8_dXJsPUNBRVNkUUhFSWtYWF9jOFhKYkF1ckoybnpnNk92WXRlbHNYRE9RSUY0S2FFTXNSSEpxV3JPNndtTFNjZVY0ZnBsY3dqMGZvX0pDdksxTkkydkFaRUNGWF9iZzE1TkxNQWRZdE5KOWYxNE1uTmVXRS1UdXBiMkFfazk4UVhqUjRzUng2bjZjMkVkWUpGS3gzVkVLaGVNR3hfYjRUS09hVmQzZxIEGgIIABqBBhIAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkDdBQgAEAAYACAAKgoKA2hvdxV90pZAKgkKAnRvFQAAAAAqMAoJcmVwdXJwb3NlFRxLkUAaB3JlY3ljbGUaBXJldXNlGg5pdjtwO3JlcHVycG9zZSoeCgpjb25mZXJlbmNlFQi9PD8aC2NvbmZlcmVuY2VzKjQKCnJlY29yZGluZ3MVOhHFPxoJcmVjb3JkaW5nGgV0YXBlcxoPaXY7cDtyZWNvcmRpbmdzKg8KBGludG8VEN-RQBoCaW4qJAoGc29jaWFsFfbPAUAaCHNvY2lldGFsGgtzb2NpYWx2aWRlbyohCgV2aWRlbxWctRxAGgZ2aWRlb3MaC3NvY2lhbHZpZGVvKj4KCHNuaXBwZXRzFQAAAAAaBGNsaXAaBWNsaXBzGgdzbmlwcGV0GghzbmlwcGl0cxoNaXY7cDtzbmlwcGV0czKsAS9nb3RvP3VybD1DQUVTZFFIRUlrWFhfYzhYSmJBdXJKMm56ZzZPdll0ZWxzWERPUUlGNEthRU1zUkhKcVdyTzZ3bUxTY2VWNGZwbGN3ajBmb19KQ3ZLMU5JMnZBWkVDRlhfYmcxNU5MTUFkWXROSjlmMTRNbk5lV0UtVHVwYjJBX2s5OFFYalI0c1J4Nm42YzJFZFlKRkt4M1ZFS2hlTUd4X2I0VEtPYVZkM2c6QzxiPkhvdyB0byBSZXB1cnBvc2U8L2I-IFdlYmluYXIgQ29udGVudCA8Yj5JbnRvIENsaXBzPC9iPiBUaGF0IFdvcmtCnQFUaGlzIGd1aWRlIGNvdmVycyB0aGUgc2l4LXN0ZXAgcGlwZWxpbmU6IDxiPmF1ZGl0LCBzZWxlY3QsIGN1dCBieSBjbGlwIHR5cGU8L2I-IChwcm9vZiwgdGVhY2hpbmcsIHF1b3RlLCBvYmplY3Rpb24gYW5kIG5hcnJhdGl2ZSksIGVkaXQgd2l0aCBBSSBwbHVzJm5ic3A7Li4uSgJ0b1ICaW4iAhABSABYAGgA",
+        "source": "Superside",
+        "read_more_link": "https://www.google.com/goto?url=CAES2QEBxCJF1yo7zfDUzYrjPoo5Mn07FQSQdt8SvhCJnG5CoFxkYG47xZ0vt9itOJmh6TK130DzNWdSHN_Uhgg7gm9XfA1lkUlwYEkRgZLXkY-fXNOTk8I1mmuFjHSsC_jy6tK_h2CE6T9ilIL1UP71urF7ivkj9-hN7zNwZyJoI38PWRDo2LjQ6iV8-0R1ajAzY5gdiZQ9fWwl1fosoQS0nx3n_I8ztai-_brLAvnnV8oQ6FzzMKGRdNGeCqFp4B9N_d79ZerAK1wr6XO1LJzS-NvmB2bes2ysK1TO&gsessionid=mKOKQ8A0ZW3wG1d28mRnYjcKxIcBR_UB_eB8WiXZLsh57feoE2jgaw"
+      },
+      {
+        "position": 5,
+        "title": "6 ways to use AI to repurpose event recordings",
+        "link": "https://www.google.com/goto?url=CAEScQHEIkXXzRo2EAmE2SerK7cj-0PPA-thIzlA6Q-U31Qk3vz_v9OqwcveSOuZ9Tej3_KF8hBWCeqJ7u3ZhoQ1ROOqERZJzWfcXHY4S0iscQct6dJg0OfP1XY5pziw_QDYkJWxZEj6ARx-eolr-kYjMffH",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHEIkXXriTBp4pHlqXgVQqVG6Gx568zJ0AuuzyZOuxZ0N_mwsPJSm6uCXAko-CnraM3HUL9QFnEoW3wPwlifneHP4HMB5G4gf_j33zxVrwc26o7nRkoCWwrIyjVr2u45RbJZmnSIV7grMwFruMwFBhV&ved=2ahUKEwil8IbT2ZuYAxVBIEQIHR6WI2oQFnoECBsQAQ&uoh=1",
+        "displayed_link": "https://writer.com \u203a blog \u203a content-repurposing-with-ai",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMAdcfTB0FRYP8Vpd-W7bosh2y88UMAAACSSURBVHgBxY8HCsQgFAXHvprm_U-7rA9BjCyhZmiPSXD4vIGxP5yH4NqKgFYifRoRslYBtrZCVztwtHUAe1uAPm5A0cwQujqlYCj4_piRCrdoBC6peot66FGHorJR_4BdRwusojorwRCdzsoAXdnpLJiiQ-FEVKlrLBARQcqMZ4l1dMAtovAvypOor40EGE1e4wuSVQt8umEL1AAAAABJRU5ErkJggg.png",
+        "date": "16 Jun 2023",
+        "snippet": "1. Write a blog post \u00b7 2. Expand with an in-depth eBook \u00b7 3. Distribute an on-demand recording \u00b7 4. Break the event into smaller videos \u00b7 5.",
+        "snippet_highlighted_words": [
+          "1. Write a blog post"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "1. Write a blog post \u00b7 2. Expand with an in-depth eBook \u00b7 3. Distribute an on-demand recording \u00b7 4. Break the event into smaller videos \u00b7 5.",
+            "source_info_link": "https://www.google.com/goto?url=CAEScQHEIkXXzRo2EAmE2SerK7cj-0PPA-thIzlA6Q-U31Qk3vz_v9OqwcveSOuZ9Tej3_KF8hBWCeqJ7u3ZhoQ1ROOqERZJzWfcXHY4S0iscQct6dJg0OfP1XY5pziw_QDYkJWxZEj6ARx-eolr-kYjMffH",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbQS4qAAAAEXRSTlMAdcfTB0FRYP8Vpd-W7bosh2y88UMAAACSSURBVHgBxY8HCsQgFAXHvprm_U-7rA9BjCyhZmiPSXD4vIGxP5yH4NqKgFYifRoRslYBtrZCVztwtHUAe1uAPm5A0cwQujqlYCj4_piRCrdoBC6peot66FGHorJR_4BdRwusojorwRCdzsoAXdnpLJiiQ-FEVKlrLBARQcqMZ4l1dMAtovAvypOor40EGE1e4wuSVQt8umEL1AAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqYBL2dvdG8_dXJsPUNBRVNjUUhFSWtYWHpSbzJFQW1FMlNlcks3Y2otMFBQQS10aEl6bEE2US1VMzFRazN2el92OU9xd2N2ZVNPdVo5VGVqM19LRjhoQldDZXFKN3UzWmhvUTFST09xRVJaSnpXZmNYSFk0UzBpc2NRY3Q2ZEpnME9mUDFYWTVweml3X1FEWWtKV3haRWo2QVJ4LWVvbHIta1lqTWZmSBIEGgIIABqPBhIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDrBQgAEAAYACAAKgoKA2hvdxU6njI_KgkKAnRvFQAAAAAqMAoJcmVwdXJwb3NlFfOyKUAaB3JlY3ljbGUaBXJldXNlGg5pdjtwO3JlcHVycG9zZSoeCgpjb25mZXJlbmNlFQAAAAAaC2NvbmZlcmVuY2VzKjQKCnJlY29yZGluZ3MVePZAQBoJcmVjb3JkaW5nGgV0YXBlcxoPaXY7cDtyZWNvcmRpbmdzKg8KBGludG8V5rUbQBoCaW4qJAoGc29jaWFsFTiPfz8aCHNvY2lldGFsGgtzb2NpYWx2aWRlbyohCgV2aWRlbxU1J38_GgZ2aWRlb3MaC3NvY2lhbHZpZGVvKj4KCHNuaXBwZXRzFQAAAAAaBGNsaXAaBWNsaXBzGgdzbmlwcGV0GghzbmlwcGl0cxoNaXY7cDtzbmlwcGV0czKmAS9nb3RvP3VybD1DQUVTY1FIRUlrWFh6Um8yRUFtRTJTZXJLN2NqLTBQUEEtdGhJemxBNlEtVTMxUWszdnpfdjlPcXdjdmVTT3VaOVRlajNfS0Y4aEJXQ2VxSjd1M1pob1ExUk9PcUVSWkp6V2ZjWEhZNFMwaXNjUWN0NmRKZzBPZlAxWFk1cHppd19RRFlrSld4WkVqNkFSeC1lb2xyLWtZak1mZkg6RTYgd2F5cyB0byB1c2UgQUkgdG8gPGI-cmVwdXJwb3NlPC9iPiBldmVudCA8Yj5yZWNvcmRpbmdzPC9iPiAtIFdSSVRFUkKvATxiPjEuIFdyaXRlIGEgYmxvZyBwb3N0PC9iPiAmbWlkZG90OyAyLiBFeHBhbmQgd2l0aCBhbiBpbi1kZXB0aCBlQm9vayAmbWlkZG90OyAzLiBEaXN0cmlidXRlIGFuIG9uLWRlbWFuZCByZWNvcmRpbmcgJm1pZGRvdDsgNC4gQnJlYWsgdGhlIGV2ZW50IGludG8gc21hbGxlciB2aWRlb3MgJm1pZGRvdDsgNS5KAnRvUgJpbiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqYBL2dvdG8_dXJsPUNBRVNjUUhFSWtYWHpSbzJFQW1FMlNlcks3Y2otMFBQQS10aEl6bEE2US1VMzFRazN2el92OU9xd2N2ZVNPdVo5VGVqM19LRjhoQldDZXFKN3UzWmhvUTFST09xRVJaSnpXZmNYSFk0UzBpc2NRY3Q2ZEpnME9mUDFYWTVweml3X1FEWWtKV3haRWo2QVJ4LWVvbHIta1lqTWZmSBIEGgIIABqPBhIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDrBQgAEAAYACAAKgoKA2hvdxU6njI_KgkKAnRvFQAAAAAqMAoJcmVwdXJwb3NlFfOyKUAaB3JlY3ljbGUaBXJldXNlGg5pdjtwO3JlcHVycG9zZSoeCgpjb25mZXJlbmNlFQAAAAAaC2NvbmZlcmVuY2VzKjQKCnJlY29yZGluZ3MVePZAQBoJcmVjb3JkaW5nGgV0YXBlcxoPaXY7cDtyZWNvcmRpbmdzKg8KBGludG8V5rUbQBoCaW4qJAoGc29jaWFsFTiPfz8aCHNvY2lldGFsGgtzb2NpYWx2aWRlbyohCgV2aWRlbxU1J38_GgZ2aWRlb3MaC3NvY2lhbHZpZGVvKj4KCHNuaXBwZXRzFQAAAAAaBGNsaXAaBWNsaXBzGgdzbmlwcGV0GghzbmlwcGl0cxoNaXY7cDtzbmlwcGV0czKmAS9nb3RvP3VybD1DQUVTY1FIRUlrWFh6Um8yRUFtRTJTZXJLN2NqLTBQUEEtdGhJemxBNlEtVTMxUWszdnpfdjlPcXdjdmVTT3VaOVRlajNfS0Y4aEJXQ2VxSjd1M1pob1ExUk9PcUVSWkp6V2ZjWEhZNFMwaXNjUWN0NmRKZzBPZlAxWFk1cHppd19RRFlrSld4WkVqNkFSeC1lb2xyLWtZak1mZkg6RTYgd2F5cyB0byB1c2UgQUkgdG8gPGI-cmVwdXJwb3NlPC9iPiBldmVudCA8Yj5yZWNvcmRpbmdzPC9iPiAtIFdSSVRFUkKvATxiPjEuIFdyaXRlIGEgYmxvZyBwb3N0PC9iPiAmbWlkZG90OyAyLiBFeHBhbmQgd2l0aCBhbiBpbi1kZXB0aCBlQm9vayAmbWlkZG90OyAzLiBEaXN0cmlidXRlIGFuIG9uLWRlbWFuZCByZWNvcmRpbmcgJm1pZGRvdDsgNC4gQnJlYWsgdGhlIGV2ZW50IGludG8gc21hbGxlciB2aWRlb3MgJm1pZGRvdDsgNS5KAnRvUgJpbiICEAFIAFgAaAA",
+        "source": "WRITER",
+        "read_more_link": "https://www.google.com/goto?url=CAES2gIBxCJF1xd8LLowdGbEALZLdUnX6pelgwd9Im0zEVg9qr4P1AAkyV5fMZZxhrvbHkMveuCx5DjVerNjh0VPUXv9_aL-pv83X8dyCuFvTFwqrKMYNEc6A-7BKb1pwH_jMSWlrVCT9pfkyvNRJAZSakMwtV7OdYhFtgDaQdM2fQBLHD1g8C2WVE2T1WuzXbuzmtG_mqVO-vd7hAB7KFDSsXJjFdI86OjSiYNutkSb38BdTg9ayMFIVlFZsUFPH3thJraIyxjLce9wqgPt_EhQZYFTLwPZ6C5k6Bh3kWuMN10SN4U8cjGCl5KMIS8jVk_pSxk9D0DIK7zNpLAVyZ8aiyfXvBg97HjXdgWYFE32GgTAanL-Gkn9Wsf2Xwy_jhubCli696cJlVsq1uDSBX4JCdgYEtjzuCFje4LJ5CRTpilFZXdTjqQWDJcDpnWMOI67LpYr7AHztUVQFdbP&gsessionid=mKOKQ8A0ZW3wG1d28mRnYjcKxIcBR_UB_eB8WiXZLsh57feoE2jgaw"
+      },
+      {
+        "position": 6,
+        "title": "11 Genius Ways to Repurpose Your Event Content Like a Pro",
+        "link": "https://www.google.com/goto?url=CAESgQEBxCJF160uEDGuknM9SYRMnJIqXjk_z5SIs5qz5xrjo0SJiZglDd90vmkv4tSf2fmQ_8slamHVRNXs-hgtY3bMWyR7bWu5PrAJu6jWa0g1AlVx6bV-Xc94is0CkJqnV6QkBzcC7m4IgsForCAfk2poCtFUG4PL2beeW4jF-twijpQ",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEBxCJF17wAwvE9HHeYLn34rYjnhInSUmJWS9NfiWTmLHTugrS6Ri45IHJdhU4OyIZE2PK6cBl__vgw5aVXYueY-YhP4jqjb--9Ng2swaGddMrsvR68QQ2KFavSITsSAzHCI_eDUGbrUz4biPAAK7KlgJYG_v5fPY4mwHlz2qpSNSI&ved=2ahUKEwil8IbT2ZuYAxVBIEQIHR6WI2oQFnoECE4QAQ&uoh=1",
+        "displayed_link": "https://www.cvent.com \u203a event-content-repurposing-ideas",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEUA62oA7GoA8GwA820G1WEMsVMNqE8IzF4A8W0Om0oWJB4YAAwYAA4XExkQjkUF2GIWMCEYABIMs1MA5WgD4GYYABUXIBwVOyUA9G4XGxsLuFUXGBoVQScXFhkTYDIScjkJwFkUTSsUVy8SbTgRgT8XEBgPkUYWNiMIxlsZAAAVSCoTXTEQhUHXaxc4AAAA90lEQVR4Ab2SRYIDUQhEP7S7Qlribve_XpJ2X87U9hWO-AcB_rRAJFlRFU3XYcIQDdOybMtyXIFj5vmBGUYQG0Qs45DJ5KwEAkCiUEoe9OuBmQaVHzPifC31oOQGm20iGshBhl2gIA5UrGGQ58GuCy3ctK_h_nA8Hk8d1M8XJhlqp1SoV3K7YdKG_XfwmDNlAziMvFz1Bfirmd6S_lLEoNui3a7DO_QWtEk5NQU0mfYP0VFUA-bNU-hQWJO7NWggeRWUVUykJH7bNxxsHl_EnBI9j6uAnLjPilwG0a9y7lyCZzwZWRfq1qfA3-0TmH2iBPVEQvHH-gKzLhCMj9OLBgAAAABJRU5ErkJggg.png",
+        "date": "10 Oct 2023",
+        "snippet": "1. Create short video snippets for social media We extracted the most impactful turned them into short videos. Try hosts share personal stories ...",
+        "snippet_highlighted_words": [
+          "Create short video snippets for social media"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "1. Create short video snippets for social media We extracted the most impactful turned them into short videos. Try hosts share personal stories ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESgQEBxCJF160uEDGuknM9SYRMnJIqXjk_z5SIs5qz5xrjo0SJiZglDd90vmkv4tSf2fmQ_8slamHVRNXs-hgtY3bMWyR7bWu5PrAJu6jWa0g1AlVx6bV-Xc94is0CkJqnV6QkBzcC7m4IgsForCAfk2poCtFUG4PL2beeW4jF-twijpQ",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAh1BMVEUA62oA7GoA8GwA820G1WEMsVMNqE8IzF4A8W0Om0oWJB4YAAwYAA4XExkQjkUF2GIWMCEYABIMs1MA5WgD4GYYABUXIBwVOyUA9G4XGxsLuFUXGBoVQScXFhkTYDIScjkJwFkUTSsUVy8SbTgRgT8XEBgPkUYWNiMIxlsZAAAVSCoTXTEQhUHXaxc4AAAA90lEQVR4Ab2SRYIDUQhEP7S7Qlribve_XpJ2X87U9hWO-AcB_rRAJFlRFU3XYcIQDdOybMtyXIFj5vmBGUYQG0Qs45DJ5KwEAkCiUEoe9OuBmQaVHzPifC31oOQGm20iGshBhl2gIA5UrGGQ58GuCy3ctK_h_nA8Hk8d1M8XJhlqp1SoV3K7YdKG_XfwmDNlAziMvFz1Bfirmd6S_lLEoNui3a7DO_QWtEk5NQU0mfYP0VFUA-bNU-hQWJO7NWggeRWUVUykJH7bNxxsHl_EnBI9j6uAnLjPilwG0a9y7lyCZzwZWRfq1qfA3-0TmH2iBPVEQvHH-gKzLhCMj9OLBgAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCeENKRjE2MHVFREd1a25NOVNZUk1uSklxWGprX3o1U0lzNXF6NXhyam8wU0ppWmdsRGQ5MHZta3Y0dFNmMmZtUV84c2xhbUhWUk5Ycy1oZ3RZM2JNV3lSN2JXdTVQckFKdTZqV2EwZzFBbFZ4NmJWLVhjOTRpczBDa0pxblY2UWtCemNDN200SWdzRm9yQ0FmazJwb0N0RlVHNFBMMmJlZVc0akYtdHdpanBREgQaAggAGpMGEgIIABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJA7QUIABAAGAAgACoKCgNob3cVBJexPyoJCgJ0bxUAAAAAKjAKCXJlcHVycG9zZRXqZvA_GgdyZWN5Y2xlGgVyZXVzZRoOaXY7cDtyZXB1cnBvc2UqHgoKY29uZmVyZW5jZRXA7xg7Ggtjb25mZXJlbmNlcyo0CgpyZWNvcmRpbmdzFWzn3D0aCXJlY29yZGluZxoFdGFwZXMaD2l2O3A7cmVjb3JkaW5ncyoPCgRpbnRvFXVZoz8aAmluKiQKBnNvY2lhbBU5cTg_Gghzb2NpZXRhbBoLc29jaWFsdmlkZW8qIQoFdmlkZW8VE6KQPxoGdmlkZW9zGgtzb2NpYWx2aWRlbyo-CghzbmlwcGV0cxUmcF0_GgRjbGlwGgVjbGlwcxoHc25pcHBldBoIc25pcHBpdHMaDWl2O3A7c25pcHBldHMyvQEvZ290bz91cmw9Q0FFU2dRRUJ4Q0pGMTYwdUVER3Vrbk05U1lSTW5KSXFYamtfejVTSXM1cXo1eHJqbzBTSmlaZ2xEZDkwdm1rdjR0U2YyZm1RXzhzbGFtSFZSTlhzLWhndFkzYk1XeVI3Yld1NVByQUp1NmpXYTBnMUFsVng2YlYtWGM5NGlzMENrSnFuVjZRa0J6Y0M3bTRJZ3NGb3JDQWZrMnBvQ3RGVUc0UEwyYmVlVzRqRi10d2lqcFE6QDExIEdlbml1cyBXYXlzIHRvIDxiPlJlcHVycG9zZTwvYj4gWW91ciBFdmVudCBDb250ZW50IExpa2UgYSBQcm9CnwExLiA8Yj5DcmVhdGUgc2hvcnQgdmlkZW8gc25pcHBldHMgZm9yIHNvY2lhbCBtZWRpYTwvYj4gV2UgZXh0cmFjdGVkIHRoZSBtb3N0IGltcGFjdGZ1bCB0dXJuZWQgdGhlbSBpbnRvIHNob3J0IHZpZGVvcy4gVHJ5IGhvc3RzIHNoYXJlIHBlcnNvbmFsIHN0b3JpZXMmbmJzcDsuLi5KAnRvUgJpbiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCeENKRjE2MHVFREd1a25NOVNZUk1uSklxWGprX3o1U0lzNXF6NXhyam8wU0ppWmdsRGQ5MHZta3Y0dFNmMmZtUV84c2xhbUhWUk5Ycy1oZ3RZM2JNV3lSN2JXdTVQckFKdTZqV2EwZzFBbFZ4NmJWLVhjOTRpczBDa0pxblY2UWtCemNDN200SWdzRm9yQ0FmazJwb0N0RlVHNFBMMmJlZVc0akYtdHdpanBREgQaAggAGpMGEgIIABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJA7QUIABAAGAAgACoKCgNob3cVBJexPyoJCgJ0bxUAAAAAKjAKCXJlcHVycG9zZRXqZvA_GgdyZWN5Y2xlGgVyZXVzZRoOaXY7cDtyZXB1cnBvc2UqHgoKY29uZmVyZW5jZRXA7xg7Ggtjb25mZXJlbmNlcyo0CgpyZWNvcmRpbmdzFWzn3D0aCXJlY29yZGluZxoFdGFwZXMaD2l2O3A7cmVjb3JkaW5ncyoPCgRpbnRvFXVZoz8aAmluKiQKBnNvY2lhbBU5cTg_Gghzb2NpZXRhbBoLc29jaWFsdmlkZW8qIQoFdmlkZW8VE6KQPxoGdmlkZW9zGgtzb2NpYWx2aWRlbyo-CghzbmlwcGV0cxUmcF0_GgRjbGlwGgVjbGlwcxoHc25pcHBldBoIc25pcHBpdHMaDWl2O3A7c25pcHBldHMyvQEvZ290bz91cmw9Q0FFU2dRRUJ4Q0pGMTYwdUVER3Vrbk05U1lSTW5KSXFYamtfejVTSXM1cXo1eHJqbzBTSmlaZ2xEZDkwdm1rdjR0U2YyZm1RXzhzbGFtSFZSTlhzLWhndFkzYk1XeVI3Yld1NVByQUp1NmpXYTBnMUFsVng2YlYtWGM5NGlzMENrSnFuVjZRa0J6Y0M3bTRJZ3NGb3JDQWZrMnBvQ3RGVUc0UEwyYmVlVzRqRi10d2lqcFE6QDExIEdlbml1cyBXYXlzIHRvIDxiPlJlcHVycG9zZTwvYj4gWW91ciBFdmVudCBDb250ZW50IExpa2UgYSBQcm9CnwExLiA8Yj5DcmVhdGUgc2hvcnQgdmlkZW8gc25pcHBldHMgZm9yIHNvY2lhbCBtZWRpYTwvYj4gV2UgZXh0cmFjdGVkIHRoZSBtb3N0IGltcGFjdGZ1bCB0dXJuZWQgdGhlbSBpbnRvIHNob3J0IHZpZGVvcy4gVHJ5IGhvc3RzIHNoYXJlIHBlcnNvbmFsIHN0b3JpZXMmbmJzcDsuLi5KAnRvUgJpbiICEAFIAFgAaAA",
+        "source": "Cvent"
+      },
+      {
+        "position": 7,
+        "title": "How to Repurpose Webinar Recordings Into Video Content",
+        "link": "https://www.google.com/goto?url=CAESjAEBxCJF17PwQ4ve-pr4RHpLghuOT0idxgoPtGPMU5Wf1K-3ZsxeywOWgGGb0fmDMFGJEov_d1sJhGf6HdOUdtU9VIckzfhyDxgKR3093BdpuyC7MoBZb7ALI4d7vGRgHEv0Oif8xhor8Jwn99rlszB03o3wmR-twQMABOGKJA06RJLzwjg0YubzJsULDg",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjAEBxCJF16uxpyfPD2YhJNYN-z9bLykPFzEI_WTly9gJZV96adVy_RaCeGtIDXLk7veOq72zhvCU8qBG559eZLWvNIAIqvNgwypjWNCV-bMJccnmgIsD3PkxCjPRx9mdZvDd6AFGa2T1D9SO8IUk9nlxx-2unCYwsOAXA7GBaH1wpKj1Djx2gqWg2BjfZA&ved=2ahUKEwil8IbT2ZuYAxVBIEQIHR6WI2oQFnoECFIQAQ&uoh=1",
+        "displayed_link": "https://usevelo.ai \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEX____7_P7z9v3e5fr4-f6_0vbE1ve7z_Unbuc2dujH2Pc7eOhIf-nM2_hLgelWh-rN3fjV4_nj6_vh6vsgIl0xAAAAe0lEQVR4AbTMBRLEIBAAweArOP9_K3KupaQjyBQc5xFyUe_0LUpjrXWAr0DdoyUiw_4VbogUQrAxTd_xKuScC_-OYt2dT4hTBp6-41GXPJX0fbKtaNfde-NU7RQiM8OKL3W6_qwxxsnjt0BEdn8ka635F8fA6Y2RdgkaADS9DN4W7ChpAAAAAElFTkSuQmCC.png",
+        "date": "1 Jun 2026",
+        "snippet": "Step 1: Get a clean transcript immediately after the webinar \u00b7 Step 2: Identify the best moments for short clips \u00b7 Step 3: Produce the full on- ...",
+        "snippet_highlighted_words": [
+          "Get a clean transcript immediately after the webinar"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Step 1: Get a clean transcript immediately after the webinar \u00b7 Step 2: Identify the best moments for short clips \u00b7 Step 3: Produce the full on- ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESjAEBxCJF17PwQ4ve-pr4RHpLghuOT0idxgoPtGPMU5Wf1K-3ZsxeywOWgGGb0fmDMFGJEov_d1sJhGf6HdOUdtU9VIckzfhyDxgKR3093BdpuyC7MoBZb7ALI4d7vGRgHEv0Oif8xhor8Jwn99rlszB03o3wmR-twQMABOGKJA06RJLzwjg0YubzJsULDg",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEX____7_P7z9v3e5fr4-f6_0vbE1ve7z_Unbuc2dujH2Pc7eOhIf-nM2_hLgelWh-rN3fjV4_nj6_vh6vsgIl0xAAAAe0lEQVR4AbTMBRLEIBAAweArOP9_K3KupaQjyBQc5xFyUe_0LUpjrXWAr0DdoyUiw_4VbogUQrAxTd_xKuScC_-OYt2dT4hTBp6-41GXPJX0fbKtaNfde-NU7RQiM8OKL3W6_qwxxsnjt0BEdn8ka635F8fA6Y2RdgkaADS9DN4W7ChpAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CswBL2dvdG8_dXJsPUNBRVNqQUVCeENKRjE3UHdRNHZlLXByNFJIcExnaHVPVDBpZHhnb1B0R1BNVTVXZjFLLTNac3hleXdPV2dHR2IwZm1ETUZHSkVvdl9kMXNKaEdmNkhkT1VkdFU5Vklja3pmaHlEeGdLUjMwOTNCZHB1eUM3TW9CWmI3QUxJNGQ3dkdSZ0hFdjBPaWY4eGhvcjhKd245OXJsc3pCMDNvM3dtUi10d1FNQUJPR0tKQTA2UkpMendqZzBZdWJ6SnNVTERnEgQaAggAGrIGEgAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQI4GCAAQABgAIAAqCgoDaG93Fd4rhEAqCQoCdG8VAAAAACowCglyZXB1cnBvc2UVDrqOQBoHcmVjeWNsZRoFcmV1c2UaDml2O3A7cmVwdXJwb3NlKh4KCmNvbmZlcmVuY2UVAAAAABoLY29uZmVyZW5jZXMqNAoKcmVjb3JkaW5ncxUyE5NAGglyZWNvcmRpbmcaBXRhcGVzGg9pdjtwO3JlY29yZGluZ3MqDwoEaW50bxUexJlAGgJpbiokCgZzb2NpYWwVcbQbPxoIc29jaWV0YWwaC3NvY2lhbHZpZGVvKiEKBXZpZGVvFf7er0AaBnZpZGVvcxoLc29jaWFsdmlkZW8qPgoIc25pcHBldHMVAAAAABoEY2xpcBoFY2xpcHMaB3NuaXBwZXQaCHNuaXBwaXRzGg1pdjtwO3NuaXBwZXRzMswBL2dvdG8_dXJsPUNBRVNqQUVCeENKRjE3UHdRNHZlLXByNFJIcExnaHVPVDBpZHhnb1B0R1BNVTVXZjFLLTNac3hleXdPV2dHR2IwZm1ETUZHSkVvdl9kMXNKaEdmNkhkT1VkdFU5Vklja3pmaHlEeGdLUjMwOTNCZHB1eUM3TW9CWmI3QUxJNGQ3dkdSZ0hFdjBPaWY4eGhvcjhKd245OXJsc3pCMDNvM3dtUi10d1FNQUJPR0tKQTA2UkpMendqZzBZdWJ6SnNVTERnOkQ8Yj5Ib3cgdG8gUmVwdXJwb3NlPC9iPiBXZWJpbmFyIDxiPlJlY29yZGluZ3MgSW50byBWaWRlbzwvYj4gQ29udGVudEKtAVN0ZXAgMTogPGI-R2V0IGEgY2xlYW4gdHJhbnNjcmlwdCBpbW1lZGlhdGVseSBhZnRlciB0aGUgd2ViaW5hcjwvYj4gJm1pZGRvdDsgU3RlcCAyOiBJZGVudGlmeSB0aGUgYmVzdCBtb21lbnRzIGZvciBzaG9ydCBjbGlwcyAmbWlkZG90OyBTdGVwIDM6IFByb2R1Y2UgdGhlIGZ1bGwgb24tJm5ic3A7Li4uSgJ0b1ICaW4iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CswBL2dvdG8_dXJsPUNBRVNqQUVCeENKRjE3UHdRNHZlLXByNFJIcExnaHVPVDBpZHhnb1B0R1BNVTVXZjFLLTNac3hleXdPV2dHR2IwZm1ETUZHSkVvdl9kMXNKaEdmNkhkT1VkdFU5Vklja3pmaHlEeGdLUjMwOTNCZHB1eUM3TW9CWmI3QUxJNGQ3dkdSZ0hFdjBPaWY4eGhvcjhKd245OXJsc3pCMDNvM3dtUi10d1FNQUJPR0tKQTA2UkpMendqZzBZdWJ6SnNVTERnEgQaAggAGrIGEgAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQI4GCAAQABgAIAAqCgoDaG93Fd4rhEAqCQoCdG8VAAAAACowCglyZXB1cnBvc2UVDrqOQBoHcmVjeWNsZRoFcmV1c2UaDml2O3A7cmVwdXJwb3NlKh4KCmNvbmZlcmVuY2UVAAAAABoLY29uZmVyZW5jZXMqNAoKcmVjb3JkaW5ncxUyE5NAGglyZWNvcmRpbmcaBXRhcGVzGg9pdjtwO3JlY29yZGluZ3MqDwoEaW50bxUexJlAGgJpbiokCgZzb2NpYWwVcbQbPxoIc29jaWV0YWwaC3NvY2lhbHZpZGVvKiEKBXZpZGVvFf7er0AaBnZpZGVvcxoLc29jaWFsdmlkZW8qPgoIc25pcHBldHMVAAAAABoEY2xpcBoFY2xpcHMaB3NuaXBwZXQaCHNuaXBwaXRzGg1pdjtwO3NuaXBwZXRzMswBL2dvdG8_dXJsPUNBRVNqQUVCeENKRjE3UHdRNHZlLXByNFJIcExnaHVPVDBpZHhnb1B0R1BNVTVXZjFLLTNac3hleXdPV2dHR2IwZm1ETUZHSkVvdl9kMXNKaEdmNkhkT1VkdFU5Vklja3pmaHlEeGdLUjMwOTNCZHB1eUM3TW9CWmI3QUxJNGQ3dkdSZ0hFdjBPaWY4eGhvcjhKd245OXJsc3pCMDNvM3dtUi10d1FNQUJPR0tKQTA2UkpMendqZzBZdWJ6SnNVTERnOkQ8Yj5Ib3cgdG8gUmVwdXJwb3NlPC9iPiBXZWJpbmFyIDxiPlJlY29yZGluZ3MgSW50byBWaWRlbzwvYj4gQ29udGVudEKtAVN0ZXAgMTogPGI-R2V0IGEgY2xlYW4gdHJhbnNjcmlwdCBpbW1lZGlhdGVseSBhZnRlciB0aGUgd2ViaW5hcjwvYj4gJm1pZGRvdDsgU3RlcCAyOiBJZGVudGlmeSB0aGUgYmVzdCBtb21lbnRzIGZvciBzaG9ydCBjbGlwcyAmbWlkZG90OyBTdGVwIDM6IFByb2R1Y2UgdGhlIGZ1bGwgb24tJm5ic3A7Li4uSgJ0b1ICaW4iAhABSABYAGgA",
+        "source": "usevelo.ai",
+        "read_more_link": "https://www.google.com/goto?url=CAES6QIBxCJF1w0t9aviWRDN5kQYuChM2cuhIu1eXGcjvDrDX2VMxz7IcYzWCTIJI7L_aqacDYuDLTudWKODFkrD3-5l3jfCVIRETQ4gJbIGCOf5C5WbdCHBDsTkf2qZ6rcDiquUwW-z_rs-36GBcfrQHlvDEWd272sgs7XwQQ4UrWAt-4xfemvlNtk8UU6Yl85u0cH1-y3O0NnmIzZqrFZ8aEXHcAC9qFdP1tp37YTY6OkIiTPmUosI1XGuLisiIqZYO9THd9_4RU-rr6XMOwkFb-Cpn58bD4MjS70DhFQqDiYVXabGWjtnIcQ4mOHW1PKBBbEV2xijSv4JjufJYf57RXvUifmyXxlpOPwNpm6JY3i5sF83Z96x08arfYGIc8OLhi35ERg2AARTzAv0v2peO2phkxmG4-7cEnRPohOcEymhY-GfGeF-zSAzQnsBwUSWwZox8RqVhnQEZ02GTRrv-5dZavQkdJLfPFVJ&gsessionid=mKOKQ8A0ZW3wG1d28mRnYjcKxIcBR_UB_eB8WiXZLsh57feoE2jgaw"
+      },
+      {
+        "position": 8,
+        "title": "How to repurpose conference content: 7 ways to get year- ...",
+        "link": "https://www.google.com/goto?url=CAESdAHEIkXXlFZwywg3KBe4iqXXo7YJPdnlwgczuhCR37jvae-s2U4yQK3kfBsuGpEcd_0gdenuxBRYQBbBAuo3civTTNLJWY2wxqgziGGREpAJoB48qwOcXd0oy6gp-Y4Mmj8NNFCev1Ym0uLBu3IF-r52ZrJf",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHEIkXXhuSHhuvXTgpMXfPM4qBvzfWEOOiwLP_N1aBnjyweVPkPSdZkG5_R8dxmNUYYBVjtHsRl1C-cnnpvPEftsJhBoR2K3fXqsa5bUyXeuMd-b726f8lIOrxTgLPJyGwLyexEHB5XF0wh5iJ5tlV2eKkA&ved=2ahUKEwil8IbT2ZuYAxVBIEQIHR6WI2oQFnoECFEQAQ&uoh=1",
+        "displayed_link": "https://blog.premagic.com \u203a repurpose-conference-cont...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEVHcEz_ZVD_ZVD_ZVD_ZVD_ZVD_ZVD_ZVD_ZE__WUD_cF7_X0j_39z_____rqb_kob_i37_ZVD_xb-Uh5pcAAAAEnRSTlMAP6Ln_1Pyxgj__________0QZ9q9dAAAAsklEQVR4AY3SRQLDIBBAUdz9_octUiZDNX_7EpzcizIuepzRN5JKQEqepsWRRmTgN_jZACIDfR_zfWQpjqyzYiSPQb2fFmLyMDDdlosdGGNYv9aObFuMyWJkHfkTSxyKkHeEhaSpF4qNoMWX5sTKdMTa0XuBEGkpXaBrQXbksXHYig-xVzAyOAQXRw1jhePzKfQcMoUO3tueQMk_V_bnsv89k_cH9v9poup-1JV8zhiCewDs1gys6ydbSgAAAABJRU5ErkJggg.png",
+        "date": "22 Jun 2026",
+        "snippet": "Here are 7 proven ways to repurpose sessions, photos, and speaker insights into year-round marketing ... Three to five short-form video clips (30\u2013 ...",
+        "snippet_highlighted_words": [
+          "Here are 7 proven ways to repurpose sessions, photos, and speaker insights"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Here are 7 proven ways to repurpose sessions, photos, and speaker insights into year-round marketing ... Three to five short-form video clips (30\u2013 ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESdAHEIkXXlFZwywg3KBe4iqXXo7YJPdnlwgczuhCR37jvae-s2U4yQK3kfBsuGpEcd_0gdenuxBRYQBbBAuo3civTTNLJWY2wxqgziGGREpAJoB48qwOcXd0oy6gp-Y4Mmj8NNFCev1Ym0uLBu3IF-r52ZrJf",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEVHcEz_ZVD_ZVD_ZVD_ZVD_ZVD_ZVD_ZVD_ZE__WUD_cF7_X0j_39z_____rqb_kob_i37_ZVD_xb-Uh5pcAAAAEnRSTlMAP6Ln_1Pyxgj__________0QZ9q9dAAAAsklEQVR4AY3SRQLDIBBAUdz9_octUiZDNX_7EpzcizIuepzRN5JKQEqepsWRRmTgN_jZACIDfR_zfWQpjqyzYiSPQb2fFmLyMDDdlosdGGNYv9aObFuMyWJkHfkTSxyKkHeEhaSpF4qNoMWX5sTKdMTa0XuBEGkpXaBrQXbksXHYig-xVzAyOAQXRw1jhePzKfQcMoUO3tueQMk_V_bnsv89k_cH9v9poup-1JV8zhiCewDs1gys6ydbSgAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqoBL2dvdG8_dXJsPUNBRVNkQUhFSWtYWGxGWnd5d2czS0JlNGlxWFhvN1lKUGRubHdnY3p1aENSMzdqdmFlLXMyVTR5UUsza2ZCc3VHcEVjZF8wZ2RlbnV4QlJZUUJiQkF1bzNjaXZUVE5MSldZMnd4cWd6aUdHUkVwQUpvQjQ4cXdPY1hkMG95NmdwLVk0TW1qOE5ORkNldjFZbTB1TEJ1M0lGLXI1MlpySmYSBBoCCAAahwYSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDhBQgAEAAYACAAKgoKA2hvdxW171BAKgkKAnRvFQAAAAAqMAoJcmVwdXJwb3NlFcIWhEAaB3JlY3ljbGUaBXJldXNlGg5pdjtwO3JlcHVycG9zZSoeCgpjb25mZXJlbmNlFY9JdUAaC2NvbmZlcmVuY2VzKjQKCnJlY29yZGluZ3MVYhv_PhoJcmVjb3JkaW5nGgV0YXBlcxoPaXY7cDtyZWNvcmRpbmdzKg8KBGludG8VZVm6PxoCaW4qJAoGc29jaWFsFQtzzz4aCHNvY2lldGFsGgtzb2NpYWx2aWRlbyohCgV2aWRlbxWzeZk-GgZ2aWRlb3MaC3NvY2lhbHZpZGVvKj4KCHNuaXBwZXRzFQAAAAAaBGNsaXAaBWNsaXBzGgdzbmlwcGV0GghzbmlwcGl0cxoNaXY7cDtzbmlwcGV0czKqAS9nb3RvP3VybD1DQUVTZEFIRUlrWFhsRlp3eXdnM0tCZTRpcVhYbzdZSlBkbmx3Z2N6dWhDUjM3anZhZS1zMlU0eVFLM2tmQnN1R3BFY2RfMGdkZW51eEJSWVFCYkJBdW8zY2l2VFROTEpXWTJ3eHFnemlHR1JFcEFKb0I0OHF3T2NYZDBveTZncC1ZNE1tajhOTkZDZXYxWW0wdUxCdTNJRi1yNTJackpmOkI8Yj5Ib3cgdG8gcmVwdXJwb3NlIGNvbmZlcmVuY2U8L2I-IGNvbnRlbnQ6IDcgd2F5cyB0byBnZXQgeWVhciAuLi5CpAE8Yj5IZXJlIGFyZSA3IHByb3ZlbiB3YXlzIHRvIHJlcHVycG9zZSBzZXNzaW9ucywgcGhvdG9zLCBhbmQgc3BlYWtlciBpbnNpZ2h0czwvYj4gaW50byB5ZWFyLXJvdW5kIG1hcmtldGluZyAuLi4gVGhyZWUgdG8gZml2ZSBzaG9ydC1mb3JtIHZpZGVvIGNsaXBzICgzMOKAkyZuYnNwOy4uLkoCdG9SAmluIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqoBL2dvdG8_dXJsPUNBRVNkQUhFSWtYWGxGWnd5d2czS0JlNGlxWFhvN1lKUGRubHdnY3p1aENSMzdqdmFlLXMyVTR5UUsza2ZCc3VHcEVjZF8wZ2RlbnV4QlJZUUJiQkF1bzNjaXZUVE5MSldZMnd4cWd6aUdHUkVwQUpvQjQ4cXdPY1hkMG95NmdwLVk0TW1qOE5ORkNldjFZbTB1TEJ1M0lGLXI1MlpySmYSBBoCCAAahwYSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDhBQgAEAAYACAAKgoKA2hvdxW171BAKgkKAnRvFQAAAAAqMAoJcmVwdXJwb3NlFcIWhEAaB3JlY3ljbGUaBXJldXNlGg5pdjtwO3JlcHVycG9zZSoeCgpjb25mZXJlbmNlFY9JdUAaC2NvbmZlcmVuY2VzKjQKCnJlY29yZGluZ3MVYhv_PhoJcmVjb3JkaW5nGgV0YXBlcxoPaXY7cDtyZWNvcmRpbmdzKg8KBGludG8VZVm6PxoCaW4qJAoGc29jaWFsFQtzzz4aCHNvY2lldGFsGgtzb2NpYWx2aWRlbyohCgV2aWRlbxWzeZk-GgZ2aWRlb3MaC3NvY2lhbHZpZGVvKj4KCHNuaXBwZXRzFQAAAAAaBGNsaXAaBWNsaXBzGgdzbmlwcGV0GghzbmlwcGl0cxoNaXY7cDtzbmlwcGV0czKqAS9nb3RvP3VybD1DQUVTZEFIRUlrWFhsRlp3eXdnM0tCZTRpcVhYbzdZSlBkbmx3Z2N6dWhDUjM3anZhZS1zMlU0eVFLM2tmQnN1R3BFY2RfMGdkZW51eEJSWVFCYkJBdW8zY2l2VFROTEpXWTJ3eHFnemlHR1JFcEFKb0I0OHF3T2NYZDBveTZncC1ZNE1tajhOTkZDZXYxWW0wdUxCdTNJRi1yNTJackpmOkI8Yj5Ib3cgdG8gcmVwdXJwb3NlIGNvbmZlcmVuY2U8L2I-IGNvbnRlbnQ6IDcgd2F5cyB0byBnZXQgeWVhciAuLi5CpAE8Yj5IZXJlIGFyZSA3IHByb3ZlbiB3YXlzIHRvIHJlcHVycG9zZSBzZXNzaW9ucywgcGhvdG9zLCBhbmQgc3BlYWtlciBpbnNpZ2h0czwvYj4gaW50byB5ZWFyLXJvdW5kIG1hcmtldGluZyAuLi4gVGhyZWUgdG8gZml2ZSBzaG9ydC1mb3JtIHZpZGVvIGNsaXBzICgzMOKAkyZuYnNwOy4uLkoCdG9SAmluIgIQAUgAWABoAA",
+        "source": "Premagic",
+        "read_more_link": "https://www.google.com/goto?url=CAESzwEBxCJF17PsPNFGyIPTEDAv83tCsjeh1juiodVGe_n1RUb8kfH6QmLM2V9rE0L_eFwHN9Hom60k1mlQp5RHdY3VzEPdK9tm91s38fqr-3KRjF0XheMcCkYyXVfIOZX7iHtHaojSmJv8XQLk2vlSZsAM-ApkEAzF2gG-jsMzXkBgdbQZc8n9kdL12CC-4h-_ABmqyryLWJh3G-k4KJOOCrvCZbMZe0ntnmcMYVgLycqr4gwh2jkhczz2cjGMweBb_uX-vAZJGGdTbxzTQ-1_VCE&gsessionid=mKOKQ8A0ZW3wG1d28mRnYjcKxIcBR_UB_eB8WiXZLsh57feoE2jgaw"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "How to repurpose conference recordings into social video snippets online",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDjvilUZdSxjdNNtxmqV1dNP6tSZjw:1795354754406&q=How+to+repurpose+conference+recordings+into+social+video+snippets+online&sa=X&ved=2ahUKEwil8IbT2ZuYAxVBIEQIHR6WI2oQ1QJ6BAhNEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+repurpose+conference+recordings+into+social+video+snippets+online"
+      },
+      {
+        "block_position": 1,
+        "query": "How to repurpose conference recordings into social video snippets free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDjvilUZdSxjdNNtxmqV1dNP6tSZjw:1795354754406&q=How+to+repurpose+conference+recordings+into+social+video+snippets+free&sa=X&ved=2ahUKEwil8IbT2ZuYAxVBIEQIHR6WI2oQ1QJ6BAhMEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+repurpose+conference+recordings+into+social+video+snippets+free"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=How+to+repurpose+conference+recordings+into+social+video+snippets&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDjvilUZdSxjdNNtxmqV1dNP6tSZjw:1795354754406&ei=gvACa6WnGMHAkPIPnqyO0QY&start=10&sa=N&sstk=AYl2yk9ZExLS93tdKVbnB5QoPiJq0vMXeOtTpmRq5s4iN38Dpyy2sPgyd7wbuPRRBE8VKJgmewgInqAUAuWRFfBIX_z7Rm-zPq8Yfw&ved=2ahUKEwil8IbT2ZuYAxVBIEQIHR6WI2oQ8NMDegQIShAU",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=How+to+repurpose+conference+recordings+into+social+video+snippets&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDjvilUZdSxjdNNtxmqV1dNP6tSZjw:1795354754406&ei=gvACa6WnGMHAkPIPnqyO0QY&start=10&sa=N&sstk=AYl2yk9ZExLS93tdKVbnB5QoPiJq0vMXeOtTpmRq5s4iN38Dpyy2sPgyd7wbuPRRBE8VKJgmewgInqAUAuWRFfBIX_z7Rm-zPq8Yfw&ved=2ahUKEwil8IbT2ZuYAxVBIEQIHR6WI2oQ8tMDegQIShAE",
+        "3": "https://www.google.com/search?q=How+to+repurpose+conference+recordings+into+social+video+snippets&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDjvilUZdSxjdNNtxmqV1dNP6tSZjw:1795354754406&ei=gvACa6WnGMHAkPIPnqyO0QY&start=20&sa=N&sstk=AYl2yk9ZExLS93tdKVbnB5QoPiJq0vMXeOtTpmRq5s4iN38Dpyy2sPgyd7wbuPRRBE8VKJgmewgInqAUAuWRFfBIX_z7Rm-zPq8Yfw&ved=2ahUKEwil8IbT2ZuYAxVBIEQIHR6WI2oQ8tMDegQIShAG",
+        "4": "https://www.google.com/search?q=How+to+repurpose+conference+recordings+into+social+video+snippets&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDjvilUZdSxjdNNtxmqV1dNP6tSZjw:1795354754406&ei=gvACa6WnGMHAkPIPnqyO0QY&start=30&sa=N&sstk=AYl2yk9ZExLS93tdKVbnB5QoPiJq0vMXeOtTpmRq5s4iN38Dpyy2sPgyd7wbuPRRBE8VKJgmewgInqAUAuWRFfBIX_z7Rm-zPq8Yfw&ved=2ahUKEwil8IbT2ZuYAxVBIEQIHR6WI2oQ8tMDegQIShAI",
+        "5": "https://www.google.com/search?q=How+to+repurpose+conference+recordings+into+social+video+snippets&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDjvilUZdSxjdNNtxmqV1dNP6tSZjw:1795354754406&ei=gvACa6WnGMHAkPIPnqyO0QY&start=40&sa=N&sstk=AYl2yk9ZExLS93tdKVbnB5QoPiJq0vMXeOtTpmRq5s4iN38Dpyy2sPgyd7wbuPRRBE8VKJgmewgInqAUAuWRFfBIX_z7Rm-zPq8Yfw&ved=2ahUKEwil8IbT2ZuYAxVBIEQIHR6WI2oQ8tMDegQIShAK",
+        "6": "https://www.google.com/search?q=How+to+repurpose+conference+recordings+into+social+video+snippets&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDjvilUZdSxjdNNtxmqV1dNP6tSZjw:1795354754406&ei=gvACa6WnGMHAkPIPnqyO0QY&start=50&sa=N&sstk=AYl2yk9ZExLS93tdKVbnB5QoPiJq0vMXeOtTpmRq5s4iN38Dpyy2sPgyd7wbuPRRBE8VKJgmewgInqAUAuWRFfBIX_z7Rm-zPq8Yfw&ved=2ahUKEwil8IbT2ZuYAxVBIEQIHR6WI2oQ8tMDegQIShAM",
+        "7": "https://www.google.com/search?q=How+to+repurpose+conference+recordings+into+social+video+snippets&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDjvilUZdSxjdNNtxmqV1dNP6tSZjw:1795354754406&ei=gvACa6WnGMHAkPIPnqyO0QY&start=60&sa=N&sstk=AYl2yk9ZExLS93tdKVbnB5QoPiJq0vMXeOtTpmRq5s4iN38Dpyy2sPgyd7wbuPRRBE8VKJgmewgInqAUAuWRFfBIX_z7Rm-zPq8Yfw&ved=2ahUKEwil8IbT2ZuYAxVBIEQIHR6WI2oQ8tMDegQIShAO",
+        "8": "https://www.google.com/search?q=How+to+repurpose+conference+recordings+into+social+video+snippets&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDjvilUZdSxjdNNtxmqV1dNP6tSZjw:1795354754406&ei=gvACa6WnGMHAkPIPnqyO0QY&start=70&sa=N&sstk=AYl2yk9ZExLS93tdKVbnB5QoPiJq0vMXeOtTpmRq5s4iN38Dpyy2sPgyd7wbuPRRBE8VKJgmewgInqAUAuWRFfBIX_z7Rm-zPq8Yfw&ved=2ahUKEwil8IbT2ZuYAxVBIEQIHR6WI2oQ8tMDegQIShAQ",
+        "9": "https://www.google.com/search?q=How+to+repurpose+conference+recordings+into+social+video+snippets&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDjvilUZdSxjdNNtxmqV1dNP6tSZjw:1795354754406&ei=gvACa6WnGMHAkPIPnqyO0QY&start=80&sa=N&sstk=AYl2yk9ZExLS93tdKVbnB5QoPiJq0vMXeOtTpmRq5s4iN38Dpyy2sPgyd7wbuPRRBE8VKJgmewgInqAUAuWRFfBIX_z7Rm-zPq8Yfw&ved=2ahUKEwil8IbT2ZuYAxVBIEQIHR6WI2oQ8tMDegQIShAS"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+repurpose+conference+recordings+into+social+video+snippets&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+repurpose+conference+recordings+into+social+video+snippets&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+repurpose+conference+recordings+into+social+video+snippets&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+repurpose+conference+recordings+into+social+video+snippets&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+repurpose+conference+recordings+into+social+video+snippets&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+repurpose+conference+recordings+into+social+video+snippets&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+repurpose+conference+recordings+into+social+video+snippets&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+repurpose+conference+recordings+into+social+video+snippets&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+repurpose+conference+recordings+into+social+video+snippets&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+repurpose+conference+recordings+into+social+video+snippets&start=80"
+      }
+    }
+  },
+  "error_details": null
+}

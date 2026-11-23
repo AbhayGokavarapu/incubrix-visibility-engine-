@@ -1,0 +1,635 @@
+{
+  "measurement_id": "41c5bd501e28",
+  "question_id": "Q037",
+  "timestamp_utc": "2026-11-22T13:47:35.984070+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "How to automate video editing workflows without coding",
+  "market": "UK",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://www.reddit.com/r/AI_Agents/comments/1sn38g9/need_help_with_automating_my_editing_workflow/",
+    "https://www.mindstudio.ai/blog/automate-video-editing-claude-code",
+    "https://www.google.com/goto?url=CAESaAHEIkXXIcFUm-n0FXGAtLXHUzAw5msxwhWzwjqU77YaZ6Zj37X2YgNQyqEARIuB3iv-PZhOISXUO-ieFGGwarY2BecV5mnCf8crmRoPlDv83RdKYsWj2m_V-yRzrFLZR1mwkbNEvTHZ&gsessionid=hcyEm_YFawloZsY6rotzZ4CghCqjW34NpfD28APUj_EFzsUM_w_xTg",
+    "https://www.google.com/goto?url=CAESnQEBxCJF12ctYTgyrXMN9Z_seVCdAOnPH-ctiN8F-IJTlp3MxixAYtuoV_GlWR8ZxcmxD6d99-orqqoYiiIjiP1_3Aczi_ECyWNMpVFFS272y0fr-zE1Ynk-A1TrbdLvlT_o4GMwTOBFiS4-KWgD6GxElt6KMSRScg_MX3GXLHmB9PeFWddAcTbsFO2ZvUuqiVMICesvOH-v8Tib0B-5",
+    "https://www.google.com/goto?url=CAESmQEBxCJF1zhfgeh15Ah1Iqx3JyCM-QSGDjFr2r7lKKUTyCA6vhK02QcmROTiADCz2kNeBmBcpOKX1VXa_9XAw0Vez69rcPXxBaDhqZYf6wRLwlbzbf1cq0xybEQnqYoB1hCYJlL8HtCRE-r9nkyaSEyKcZpxkVUHK69cikL-2rYQMEF5s6Bo_-AchQLNq858fhdpVBm2jHELPkA",
+    "https://www.google.com/goto?url=CAEScQHEIkXXgS8SXae0sRxV3QpqHzDJbHCekoVuISmuHRWGKchAkXIpok4JMx80NYcO66yloYQ8Osy9ZvDTdB4v8jvNjdJDp5Rb0QJ0E2rPP9Wp9-IKMlDtJGTaLopiomnuvv6o83Efj1k5HwbkizTDd1Xu",
+    "https://www.google.com/goto?url=CAESnQEBxCJF19MMg9oUGTwIOZIX_FGUceBZetj7GUxnYpS5D8FyMg1_LVcuSojGaBJsVJsmarGoqjIyx_RNTb6zVCmUF1pcJ9E-6BvNbcjRyATN0rNtRrAd2F3s2EKEksrjJhKziMXcWYzcO3jnNPDGpihHamVIAuT4NM0IwNgj9Afg7FC7z3Xj4cZ1Iiuw70SA0v6UwSOi44dQGiD9EXRe",
+    "https://www.google.com/goto?url=CAESgAEBxCJF16-3NdO08ElCkDc4ZHRyW9Q31dpZ3uQnigODZC2OO8fikQ_gvtESo-BXxuatBHIvjn-F4CikLUv_flSGfixFdb9xNkj4puEelQ7-S4dW1Rf89GomWQd1LRIG39dy1YvbTAT9eVwPmFmCtj7yC_sausPCfjvbiE0o2W_7sQ"
+  ],
+  "raw_text_summary": "Need help with automating my editing workflow : r/AI_Agents 1-Audio sync \u00b7 2- Rough cut (selecting the best take out of +50 takes) \u00b7 3- Explanation cards \u00b7 4- B-roll footage \u00b7 5- video preview (few seconds at ... How to Automate Video Editing End-to-End With Claude ... Use Claude Code with VideoUse and Hyperframes to trim raw footage, add motion graphics, and render finished videos without touching a timeline ... How I Fully Automated My Video Editing (Claude Code) Learn how to automate your entire video editing workflow using Claude Code and Remotion. This tutorial shows you how to build an AI system that ... Video Editing Workflow Management Automations & AI ... No-code automation. Automatically organize and move video editing workflows across briefs, assets, reviews, and publishing steps. automation uses software to ... 3 Ways to Automate Video Editing With Claude Code Claude Code is an AI agent itself. My workflow starts with a trigger: You can't do it in a virtual environment, you can't do it on a cloud ... How to automate video editing with 3 methods No-code platforms can connect to a video API, allowing you to automate video creation from sources like spreadsheets without writing code. For ... 7 Video Editing Tasks You Can Automate With ChatGPT or ... Discover 7 video editing tasks you can automate with ChatGPT or Claude, from trimming footage and creating subtitles to dubbing, and B-roll. How to Automate Your Video Editing Workflow: No-Code, API ... Three real ways to automate video production: a visual workflow builder, Zapier/Make/n8n integrations, the render API, and AI agents via MCP.",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f276f61b7d4d5b6ded94",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/FaJV5kPucIFgAvbonrX5BtmDupn7sMWG85S79-q5EvE/6b02f276f61b7d4d5b6ded94.json",
+      "markdown_endpoint": "https://serpapi.com/searches/FaJV5kPucIFgAvbonrX5BtmDupn7sMWG85S79-q5EvE/6b02f276f61b7d4d5b6ded94.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/FaJV5kPucIFgAvbonrX5BtmDupn7sMWG85S79-q5EvE/6b02f276f61b7d4d5b6ded94.json_with_pixel_position",
+      "created_at": "2026-11-22 13:47:34 UTC",
+      "processed_at": "2026-11-22 13:47:34 UTC",
+      "google_url": "https://www.google.com/search?q=How+to+automate+video+editing+workflows+without+coding&oq=How+to+automate+video+editing+workflows+without+coding&hl=en&gl=uk&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/FaJV5kPucIFgAvbonrX5BtmDupn7sMWG85S79-q5EvE/6b02f276f61b7d4d5b6ded94.html",
+      "total_time_taken": 0.75
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "How to automate video editing workflows without coding",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "uk",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "How to automate video editing workflows without coding",
+      "total_results": 114,
+      "time_taken_displayed": 0.18,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "How to Automate Video Editing With Agentic AI (No Code ...",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXdZ1w-HNsnwXCif4uYQDiVmRhhSp0I_89xvYeUwqVN6FPvRMK-EwdUuG6VcT89NPfGS8jBsLy59yymaQQ33bzZP8w5nTjzbklbRv6IzxYVQkf3i40wUt4o3jD_lAegMtGKBl4&gsessionid=hcyEm_YFawloZsY6rotzZ4CghCqjW34NpfD28APUj_EFzsUM_w_xTg",
+        "thumbnail": "https://serpapi.com/searches/6b02f276f61b7d4d5b6ded94/images/QmDbktb_IiHucYrQY2ndqgAC6IcRDepaX4oxpNpC98c.jpg",
+        "channel": "Stephanie Nyarko",
+        "duration": "17:46",
+        "platform": "YouTube",
+        "date": "1 week ago",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQU366J2hE35hIbBfPo7wnI_Hhsb4KlH57VbA"
+      },
+      {
+        "position": 2,
+        "title": "I Fully Automated my Video Editing With Claude (Copy this ...",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXk93w7EBICEmEOW0jdyPBeCxU1HKaM6mnRLYX-lzfem7DqT2eh3DYSkZIdRcBQQ-795nlI7gpF--m-u6sWeeeLPWoQqWHujSFNsRYogGV7TvAiPCCoX3GTD0J2BXHq_8l1SQ0&gsessionid=hcyEm_YFawloZsY6rotzZ4CghCqjW34NpfD28APUj_EFzsUM_w_xTg",
+        "thumbnail": "https://serpapi.com/searches/6b02f276f61b7d4d5b6ded94/images/DDtXgIHe1EWgRYnqahG4Srlpau8Ew4varT_0oH3SSNA.jpg",
+        "channel": "Marketing Against the Grain",
+        "duration": "30:00",
+        "platform": "YouTube",
+        "date": "4 days ago",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQRXY4c3uO8b5OywTlRur1ogc2K26mAOlXz5w"
+      },
+      {
+        "position": 3,
+        "title": "The Easiest AI Video Editing Setup (No Claude Code Required)",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXcKtLpQ1jUc5J5EfKCpiP4w_zP-NrTsxsLyqAn3TmUkF77FJQdwLuRDe_6BUDjPRfT2COndPZs6IsuneNt-6E-33HaU8vq9oEbGH0zoebIfDj5yQuvze2mdZTzdsb1eCj6YGj&gsessionid=hcyEm_YFawloZsY6rotzZ4CghCqjW34NpfD28APUj_EFzsUM_w_xTg",
+        "thumbnail": "https://serpapi.com/searches/6b02f276f61b7d4d5b6ded94/images/TJUGbEKxN8Szxuuk8JdwnC9OtZN7lOr_rMUr_eToctk.jpg",
+        "channel": "Jon Law",
+        "duration": "9:14",
+        "platform": "YouTube",
+        "date": "2 weeks ago",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT2IbbqSST-OS97Pm-XjxodRatjqnx8P37NzA"
+      },
+      {
+        "position": 4,
+        "title": "How to automate video editing with AI",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXmQ4h6XNwSYlwrP55E4_XgoCjrXtzPhsiWoE-BPKnjO7DcYFODtj87JBjB1dmDHpUnWMoiH4ohztghRbwjwFxkCyzGesWN9MOC-tf5GGH9cS-6cWXiWbjQ4c0YN0AP4auzN0M&gsessionid=hcyEm_YFawloZsY6rotzZ4CghCqjW34NpfD28APUj_EFzsUM_w_xTg",
+        "thumbnail": "https://serpapi.com/searches/6b02f276f61b7d4d5b6ded94/images/sFEPm2K96atZ7ZpBxY5RPeNuLET2A8_HGrR7rrBqjfI.jpg",
+        "channel": "Descript",
+        "duration": "8:07",
+        "platform": "YouTube",
+        "date": "1 week ago",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRhD-FNkIzK5JP2J7Sk71GWW796HeE-U0pqDg"
+      }
+    ],
+    "short_videos": [
+      {
+        "position": 1,
+        "title": "3 No-Code Automation Platforms to Build Workflows Without ...",
+        "source": "YouTube",
+        "profile_name": "Analytics Vidhya",
+        "extensions": [
+          "Analytics Vidhya"
+        ],
+        "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "duration": "1:02",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKGAuVgjrBgb7zsCVwZe5XCOgGw4qQzX0AqcTcK9NRh7Jo6CEk8TqJwF4&s=10",
+        "link": "https://www.youtube.com/shorts/Q1A6Js7wWBE?vl=en-GB"
+      },
+      {
+        "position": 2,
+        "title": "How I Automated My Video Editing Workflow",
+        "source": "YouTube",
+        "profile_name": "Jay E | RoboNuggets",
+        "extensions": [
+          "Jay E | RoboNuggets"
+        ],
+        "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "duration": "0:35",
+        "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQrLv11hZfixY3dWHJZnwSq5QuK1t7pAZao8Q",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbV3fw1tWW224d5T8u1gd0NKgwQJClxB4BDRr-_uKQEm-58PIWCh9Mkdo&s=10",
+        "link": "https://www.youtube.com/shorts/tgkAItur63Y"
+      },
+      {
+        "position": 3,
+        "title": "Automate your entire video workflow with AI agents.",
+        "source": "YouTube",
+        "profile_name": "AI Profit Boardroom",
+        "extensions": [
+          "AI Profit Boardroom"
+        ],
+        "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "duration": "1:06",
+        "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRR1QtabeCto9bSD-fD59iAtw8OhVF9LZEAJA",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvJwlVGSMIqkAnXUOfsksgMe0JOfTrwUt6y-drIKc2wyYkNOeWWTCriCk&s",
+        "link": "https://www.youtube.com/shorts/ojHGxX0Sa48"
+      },
+      {
+        "position": 4,
+        "title": "How to automate your entire video editing workflow with Claude. by Julian Goldie Agency on dutchstartup.ai. Play on dutchstartup.ai. 0:32",
+        "source": "dutchstartup.ai",
+        "profile_name": "Julian Goldie Agency",
+        "extensions": [
+          "Julian Goldie Agency"
+        ],
+        "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAilBMVEUKK9YIItMVWOsfgP8ee_8AGtUAANMAJtUAEdQAFNKMlefo6vpBUtvKzvOOpfP___-VnekAKNYkPNjp8f8Acf-0uu9GVtwqYuyavf9Kjv8Xef_V2Pa30P8Abf9ZZt51f-MfONhdge_X5f_4-_96qv-jquyluPUxg_8Ac__y9f7K3P-nxf9hmv-Qtv9SeOs_AAAA-ElEQVR4AX3SVQICIRAAUIPSjdnu7rz_9WQ-bGWDejQc_j_Hk8rOKiMqIyq7I2UcIyEw5OKCdkd61XSp1DCoNF0zke7INLAYtx0Ax-bMAtd7Qa5bjh9wZhiMB34YxckDUZkPKcOWLIUsR7sjapAWZZWmVVk32O4N5VAltCC_Dtu9IXWYU7V9mg7tefTG6RWFAQakkM5zAw0ssExq_Op2aJr1u1v1hHApdXdumnO3fS0FN6HJR4Axb1424b59YRYn3rJ4SZyN79snNIhkdWxJkjx63_iL6WLlacE1JLG7v7Q8nogns1KlScXMHfFO_HxURlRGFCZRYeQGsD0a99ns-RYAAAAASUVORK5CYII.png",
+        "duration": "0:32",
+        "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ5asVsZfl__wEbeQwFj25g8yshFgEuXzp7xA",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo0IaMI8Opd1OpkrGlJfTmfhN5La_TydYfeWx4_O2Vh_jIQaOjazrrqlQ&s=10",
+        "link": "https://www.google.com/goto?url=CAESmgEBxCJF10wXtyhH2CZi5KkmqdJQECsMeYV9xlQ0NKHdsGRjMMiif9s01wkl4c7lF9GbHSBrLJ-bvi8zWras5W039uZqyZz1p0dbybEbmfg5BLPY5V37A15CrhZwiFwjNDbT8-vJ9tf4yl18xXRxkyRVGsur7SxQ50NFFflm7h0d9GcMdPqefLMVaE4g7WPEW7fMt-tnzFVKvCt6&gsessionid=hcyEm_YFawloZsY6rotzZ4CghCqjW34NpfD28APUj_EFzsUM_w_xTg"
+      },
+      {
+        "position": 5,
+        "title": "Link in Community Channel Want to automate your video ... by Shrey on Instagram. Play on Instagram. 0:41",
+        "source": "Instagram",
+        "profile_name": "Shrey",
+        "extensions": [
+          "Shrey"
+        ],
+        "source_logo": "https://serpapi.com/searches/6b02f276f61b7d4d5b6ded94/images/BFMyKfq8oLpda9jHHg1CveQCM2NdcKi9Z405KCcCTdE.png",
+        "duration": "0:41",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa7yl2Mggfn3X6hO4JXRfuD9FIHDHuGLgNFD3d3pLaiNTRTG_clQPI4HA&s",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXVpm9hFQkr5VLkqaBDRl-02ejTVWDwsp5vtx7BM32YUHqop5GFW7apbwpYsXHp2H3-rmVDQDywQDPPAKiVxPmpm8VOmPPgz8ueeWZ5kPjMYyzUXLlvfgtzfPd0c_vJcac9chi&gsessionid=hcyEm_YFawloZsY6rotzZ4CghCqjW34NpfD28APUj_EFzsUM_w_xTg"
+      },
+      {
+        "position": 6,
+        "title": "AI Video Editing: Don't Build Your Workflow on Closed Software",
+        "source": "YouTube",
+        "profile_name": "JASPER - making content & creator apps with AI",
+        "extensions": [
+          "JASPER - making content & creator apps with AI"
+        ],
+        "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "duration": "0:39",
+        "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSXYA20linDAu-oCZ0cwOgz4zXUO05uL9fRbA",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJVwFjr7AEIVVFcxUYazN9fjTjmKxiRcNbQE663a-cjdV7x4QD9QF4fp0&s=10",
+        "link": "https://www.youtube.com/shorts/qVZpRAgoIvc"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "How do I automate my video editing?",
+        "type": "ai_overview",
+        "page_token": "steYGHicHdBLUsIwAADQ0cOwhKYVHJhhnCmkhWqjpElaumFCUhpo-hEClS49iysP4wE8hifQcf9W7_1D76vi-yZRxjSnyWDQtm0_r-tcZ31RlwN-ulZiILjWWy6Kyeh-BB52YgpPrTurW3dFMVxrqeMi70KgbFxqkljNa0gV4MRzYq3nQqs6huMXDuWZHyTa-rpN53qVJTkgdOiQYniWvooRXBvsBBBRpbOSHTFzDwSkFksYI8CDPAYNWjRhyBCWWtqRj0MSe1dU0WEKLYd02I7moSUoOnIYLJIuUBSO07CUh7Ba2RlbtjhpZtsqeCLWKvLsP0-RQoVUkR-88cSzBHCvEo4fnz2v8_eBG8G7FhO5pJZRa6APgkh_66M5o2mFOmmYHyRikV6RZdzeTlymTu9_bLrZlWbSHOv8UxwzbjK54earuP25_AI74n-b",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=steYGHicHdBLUsIwAADQ0cOwhKYVHJhhnCmkhWqjpElaumFCUhpo-hEClS49iysP4wE8hifQcf9W7_1D76vi-yZRxjSnyWDQtm0_r-tcZ31RlwN-ulZiILjWWy6Kyeh-BB52YgpPrTurW3dFMVxrqeMi70KgbFxqkljNa0gV4MRzYq3nQqs6huMXDuWZHyTa-rpN53qVJTkgdOiQYniWvooRXBvsBBBRpbOSHTFzDwSkFksYI8CDPAYNWjRhyBCWWtqRj0MSe1dU0WEKLYd02I7moSUoOnIYLJIuUBSO07CUh7Ba2RlbtjhpZtsqeCLWKvLsP0-RQoVUkR-88cSzBHCvEo4fnz2v8_eBG8G7FhO5pJZRa6APgkh_66M5o2mFOmmYHyRikV6RZdzeTlymTu9_bLrZlWbSHOv8UxwzbjK54earuP25_AI74n-b",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVJtcHZNa3N0ZVVWeGJtMTBZbU56WVVNeVQzTk9hMnRYWVVkZk1saDBWeTAxVFhGZmVXMXRaa2hqVFdKa2VUQlBZM2xCYXpoTmFXVTBUemRJWVhaRU9FMDBWV0ZrY1VKVlZXMXJabVJITm0xQ1pVcFhlRjh3Ylhrd2R4SVhaSFpKUTJFMlIyRklZbkZwY1hSelVISjBUMG80VVhNYUlrRklUakJGTjBWYWEzbEtOekl0ZERCa1kwMVRiekJGYzFScFZtTkNWMDUzVjNjIiwiZmN2IjoiMyIsImVpIjoiZHZJQ2E2R2FIYnFpcXRzUHJ0T0o4UXMiLCJxYyI6IkNqWm9iM2NnZEc4Z1lYVjBiMjFoZEdVZ2RtbGtaVzhnWldScGRHbHVaeUIzYjNKclpteHZkM01nZDJsMGFHOTFkQ0JqYjJScGJtY1FBSDFiamdzXyIsInF1ZXN0aW9uIjoiSG93IGRvIEkgYXV0b21hdGUgbXkgdmlkZW8gZWRpdGluZz8iLCJsayI6IkdpQm9iM2NnZEc4Z1lYVjBiMjFoZEdVZ2JYa2dkbWxrWlc4Z1pXUnBkR2x1WnciLCJicyI6ImMzM09NUXVDUUJqR2NWcmZxZm1Xbm1wSVd6SnJhSXVDS0ltV0lKd3ZQTDJqOUFVOWs3NTlVa01wMlB6OC1QTlFRT01EVjRnWUFXUnBPWlZXSVgzaVlTTEZVSkd4Smt2V19raEExOHh5TjZJTE9hR1dGcWFBMVFvcmItWjd5TXU3Z3NuYVBWZE1xb1pGbDZVZDRUZTc4T2NmeVBFM054U0Q2ci1oa055Z3FCZnN0emh2VGxBWmw0bEd6RG1XeF9hOXFYRE1HeWRYNURKdDRGc1Q5M3N2IiwiaWQiOiJmY19kdklDYTZHYUhicWlxdHNQcnRPSjhRc181In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVJtcHZNa3N0ZVVWeGJtMTBZbU56WVVNeVQzTk9hMnRYWVVkZk1saDBWeTAxVFhGZmVXMXRaa2hqVFdKa2VUQlBZM2xCYXpoTmFXVTBUemRJWVhaRU9FMDBWV0ZrY1VKVlZXMXJabVJITm0xQ1pVcFhlRjh3Ylhrd2R4SVhaSFpKUTJFMlIyRklZbkZwY1hSelVISjBUMG80VVhNYUlrRklUakJGTjBWYWEzbEtOekl0ZERCa1kwMVRiekJGYzFScFZtTkNWMDUzVjNjIiwiZmN2IjoiMyIsImVpIjoiZHZJQ2E2R2FIYnFpcXRzUHJ0T0o4UXMiLCJxYyI6IkNqWm9iM2NnZEc4Z1lYVjBiMjFoZEdVZ2RtbGtaVzhnWldScGRHbHVaeUIzYjNKclpteHZkM01nZDJsMGFHOTFkQ0JqYjJScGJtY1FBSDFiamdzXyIsInF1ZXN0aW9uIjoiSG93IGRvIEkgYXV0b21hdGUgbXkgdmlkZW8gZWRpdGluZz8iLCJsayI6IkdpQm9iM2NnZEc4Z1lYVjBiMjFoZEdVZ2JYa2dkbWxrWlc4Z1pXUnBkR2x1WnciLCJicyI6ImMzM09NUXVDUUJqR2NWcmZxZm1Xbm1wSVd6SnJhSXVDS0ltV0lKd3ZQTDJqOUFVOWs3NTlVa01wMlB6OC1QTlFRT01EVjRnWUFXUnBPWlZXSVgzaVlTTEZVSkd4Smt2V19raEExOHh5TjZJTE9hR1dGcWFBMVFvcmItWjd5TXU3Z3NuYVBWZE1xb1pGbDZVZDRUZTc4T2NmeVBFM054U0Q2ci1oa055Z3FCZnN0emh2VGxBWmw0bEd6RG1XeF9hOXFYRE1HeWRYNURKdDRGc1Q5M3N2IiwiaWQiOiJmY19kdklDYTZHYUhicWlxdHNQcnRPSjhRc181In0%3D"
+      },
+      {
+        "question": "What is the 80/20 rule in video editing?",
+        "type": "ai_overview",
+        "page_token": "MhENa3icHdBdTsIwAADg6GF8BDp-DCTEBGgHxG2sW1vWF7K2g0K7H2GywaNn8cnDeACP4QlM_I7wfXzaY2F-Hq66rqvLpNttmqZzKMuDzTqyzLvp5VbIrkytFak0k9HzCLzs5RS-r2bzt9UsJBgmVllGSCtOdiEJqFSO7pFFm9ipE4_xmLl2kLmYKAIKsoDDCPFNQHHK8zHc9tC7iMNb5vKCG9CksTZx1BtwyNPQkIZtq_Mra5EXIyoLCukW3YQZA2aqQKGZT90EYEeTrJADASgQy1no5bVleVJHSFUB8h0aa-eV2XVG_ZYX6EKAQhmsQDQHW0x1QE7rNw_4G7bgVhCLxLLCUCujjF0kMV8mRB8ls61a-qEs8CY6aSzb8hgSHXiQ9PERXFQP9wIGIuIcmsiMh747aNVdX7GxgbivGt487eV12n_6_5zu9nk9qc7l4Uues7TO1C6tv83j7_UPa_SL4Q",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=MhENa3icHdBdTsIwAADg6GF8BDp-DCTEBGgHxG2sW1vWF7K2g0K7H2GywaNn8cnDeACP4QlM_I7wfXzaY2F-Hq66rqvLpNttmqZzKMuDzTqyzLvp5VbIrkytFak0k9HzCLzs5RS-r2bzt9UsJBgmVllGSCtOdiEJqFSO7pFFm9ipE4_xmLl2kLmYKAIKsoDDCPFNQHHK8zHc9tC7iMNb5vKCG9CksTZx1BtwyNPQkIZtq_Mra5EXIyoLCukW3YQZA2aqQKGZT90EYEeTrJADASgQy1no5bVleVJHSFUB8h0aa-eV2XVG_ZYX6EKAQhmsQDQHW0x1QE7rNw_4G7bgVhCLxLLCUCujjF0kMV8mRB8ls61a-qEs8CY6aSzb8hgSHXiQ9PERXFQP9wIGIuIcmsiMh747aNVdX7GxgbivGt487eV12n_6_5zu9nk9qc7l4Uues7TO1C6tv83j7_UPa_SL4Q",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVJtcHZNa3N0ZVVWeGJtMTBZbU56WVVNeVQzTk9hMnRYWVVkZk1saDBWeTAxVFhGZmVXMXRaa2hqVFdKa2VUQlBZM2xCYXpoTmFXVTBUemRJWVhaRU9FMDBWV0ZrY1VKVlZXMXJabVJITm0xQ1pVcFhlRjh3Ylhrd2R4SVhaSFpKUTJFMlIyRklZbkZwY1hSelVISjBUMG80VVhNYUlrRklUakJGTjBWYWEzbEtOekl0ZERCa1kwMVRiekJGYzFScFZtTkNWMDUzVjNjIiwiZmN2IjoiMyIsImVpIjoiZHZJQ2E2R2FIYnFpcXRzUHJ0T0o4UXMiLCJxYyI6IkNqWm9iM2NnZEc4Z1lYVjBiMjFoZEdVZ2RtbGtaVzhnWldScGRHbHVaeUIzYjNKclpteHZkM01nZDJsMGFHOTFkQ0JqYjJScGJtY1FBSDFiamdzXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgODAvMjAgcnVsZSBpbiB2aWRlbyBlZGl0aW5nPyIsImxrIjoiR2lkM2FHRjBJR2x6SUhSb1pTQTRNQ0F5TUNCeWRXeGxJR2x1SUhacFpHVnZJR1ZrYVhScGJtYyIsImJzIjoiYzMzT01RdUNRQmpHY1ZyZnFmbVdubXBJV3pKcmFJdUNLSW1XSUp3dlBMMmo5QVU5azc1OVVrTXAyUHo4LVBOUVFPTURWNGdZQVdScE9aVldJWDNpWVNMRlVKR3hKa3ZXX2toQTE4eHlONklMT2FHV0ZxYUExUW9yYi1aN3lNdTdnc25hUFZkTXFvWkZsNlVkNFRlNzhPY2Z5UEUzTnhTRDZyLWhrTnlncUJmc3R6aHZUbEFabDRsR3pEbVd4X2E5cVhETUd5ZFg1REp0NEZzVDkzc3YiLCJpZCI6ImZjX2R2SUNhNkdhSGJxaXF0c1BydE9KOFFzXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVJtcHZNa3N0ZVVWeGJtMTBZbU56WVVNeVQzTk9hMnRYWVVkZk1saDBWeTAxVFhGZmVXMXRaa2hqVFdKa2VUQlBZM2xCYXpoTmFXVTBUemRJWVhaRU9FMDBWV0ZrY1VKVlZXMXJabVJITm0xQ1pVcFhlRjh3Ylhrd2R4SVhaSFpKUTJFMlIyRklZbkZwY1hSelVISjBUMG80VVhNYUlrRklUakJGTjBWYWEzbEtOekl0ZERCa1kwMVRiekJGYzFScFZtTkNWMDUzVjNjIiwiZmN2IjoiMyIsImVpIjoiZHZJQ2E2R2FIYnFpcXRzUHJ0T0o4UXMiLCJxYyI6IkNqWm9iM2NnZEc4Z1lYVjBiMjFoZEdVZ2RtbGtaVzhnWldScGRHbHVaeUIzYjNKclpteHZkM01nZDJsMGFHOTFkQ0JqYjJScGJtY1FBSDFiamdzXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgODAvMjAgcnVsZSBpbiB2aWRlbyBlZGl0aW5nPyIsImxrIjoiR2lkM2FHRjBJR2x6SUhSb1pTQTRNQ0F5TUNCeWRXeGxJR2x1SUhacFpHVnZJR1ZrYVhScGJtYyIsImJzIjoiYzMzT01RdUNRQmpHY1ZyZnFmbVdubXBJV3pKcmFJdUNLSW1XSUp3dlBMMmo5QVU5azc1OVVrTXAyUHo4LVBOUVFPTURWNGdZQVdScE9aVldJWDNpWVNMRlVKR3hKa3ZXX2toQTE4eHlONklMT2FHV0ZxYUExUW9yYi1aN3lNdTdnc25hUFZkTXFvWkZsNlVkNFRlNzhPY2Z5UEUzTnhTRDZyLWhrTnlncUJmc3R6aHZUbEFabDRsR3pEbVd4X2E5cVhETUd5ZFg1REp0NEZzVDkzc3YiLCJpZCI6ImZjX2R2SUNhNkdhSGJxaXF0c1BydE9KOFFzXzUifQ%3D%3D"
+      },
+      {
+        "question": "What is the 321 rule of editing?",
+        "type": "ai_overview",
+        "page_token": "QmWPX3icHdBLcpswAADQaQ-TZczHTlPPeDLB4WNiiyKEhNhkZIENloRorBjMsmfpqofJAXqMniCZ7t76_fot2078_XJpjOnPy9lsGIbbo9ZHWd9yrWbsfO34jDMp94yL5d23O_vhwFf-28Zb_9x4aQ59KitJi8Aw3MyBYwvQBZtPCzw9unW4GLDrtTuMBQpLjNX9oixAjPx-wJM_AFR1VIHtPtQWt8YinWSJQolB1yd7VSq2tnUW4SdyKqc6NyQjcIuxtJE_aqq-j6UVOBAH59SBbXoqYS69U1IEC-r05yRqdkDEUx7GMVDHOSEmZlFPUbSbI_ToMBsTGBo7CWI_cwNdR7IDaztipIF-U4lKyCeKyojmTcuJHKsIpLyDP7JTA_mo2zRvkp2fuxDfX7fEvvIiNVlmWXXYPzPkPaMAMkQgo2puVcPNgV9W7s3_z9XLQZll_6qPf_hrzUxdvTDzLr7-u3wAKp6K6A",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=QmWPX3icHdBLcpswAADQaQ-TZczHTlPPeDLB4WNiiyKEhNhkZIENloRorBjMsmfpqofJAXqMniCZ7t76_fot2078_XJpjOnPy9lsGIbbo9ZHWd9yrWbsfO34jDMp94yL5d23O_vhwFf-28Zb_9x4aQ59KitJi8Aw3MyBYwvQBZtPCzw9unW4GLDrtTuMBQpLjNX9oixAjPx-wJM_AFR1VIHtPtQWt8YinWSJQolB1yd7VSq2tnUW4SdyKqc6NyQjcIuxtJE_aqq-j6UVOBAH59SBbXoqYS69U1IEC-r05yRqdkDEUx7GMVDHOSEmZlFPUbSbI_ToMBsTGBo7CWI_cwNdR7IDaztipIF-U4lKyCeKyojmTcuJHKsIpLyDP7JTA_mo2zRvkp2fuxDfX7fEvvIiNVlmWXXYPzPkPaMAMkQgo2puVcPNgV9W7s3_z9XLQZll_6qPf_hrzUxdvTDzLr7-u3wAKp6K6A",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVJtcHZNa3N0ZVVWeGJtMTBZbU56WVVNeVQzTk9hMnRYWVVkZk1saDBWeTAxVFhGZmVXMXRaa2hqVFdKa2VUQlBZM2xCYXpoTmFXVTBUemRJWVhaRU9FMDBWV0ZrY1VKVlZXMXJabVJITm0xQ1pVcFhlRjh3Ylhrd2R4SVhaSFpKUTJFMlIyRklZbkZwY1hSelVISjBUMG80VVhNYUlrRklUakJGTjBWYWEzbEtOekl0ZERCa1kwMVRiekJGYzFScFZtTkNWMDUzVjNjIiwiZmN2IjoiMyIsImVpIjoiZHZJQ2E2R2FIYnFpcXRzUHJ0T0o4UXMiLCJxYyI6IkNqWm9iM2NnZEc4Z1lYVjBiMjFoZEdVZ2RtbGtaVzhnWldScGRHbHVaeUIzYjNKclpteHZkM01nZDJsMGFHOTFkQ0JqYjJScGJtY1FBSDFiamdzXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgMzIxIHJ1bGUgb2YgZWRpdGluZz8iLCJsayI6IkdoOTNhR0YwSUdseklIUm9aU0F6TWpFZ2NuVnNaU0J2WmlCbFpHbDBhVzVuIiwiYnMiOiJjMzNPTVF1Q1FCakdjVnJmcWZtV25tcElXekpyYUl1Q0tJbVdJSnd2UEwyajlBVTlrNzU5VWtNcDJQejgtUE5RUU9NRFY0Z1lBV1JwT1pWV0lYM2lZU0xGVUpHeEprdldfa2hBMTh4eU42SUxPYUdXRnFhQTFRb3JiLVo3eU11N2dzbmFQVmRNcW9aRmw2VWQ0VGU3OE9jZnlQRTNOeFNENnItaGtOeWdxQmZzdHpodlRsQVpsNGxHekRtV3hfYTlxWERNR3lkWDVESnQ0RnNUOTNzdiIsImlkIjoiZmNfZHZJQ2E2R2FIYnFpcXRzUHJ0T0o4UXNfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVJtcHZNa3N0ZVVWeGJtMTBZbU56WVVNeVQzTk9hMnRYWVVkZk1saDBWeTAxVFhGZmVXMXRaa2hqVFdKa2VUQlBZM2xCYXpoTmFXVTBUemRJWVhaRU9FMDBWV0ZrY1VKVlZXMXJabVJITm0xQ1pVcFhlRjh3Ylhrd2R4SVhaSFpKUTJFMlIyRklZbkZwY1hSelVISjBUMG80VVhNYUlrRklUakJGTjBWYWEzbEtOekl0ZERCa1kwMVRiekJGYzFScFZtTkNWMDUzVjNjIiwiZmN2IjoiMyIsImVpIjoiZHZJQ2E2R2FIYnFpcXRzUHJ0T0o4UXMiLCJxYyI6IkNqWm9iM2NnZEc4Z1lYVjBiMjFoZEdVZ2RtbGtaVzhnWldScGRHbHVaeUIzYjNKclpteHZkM01nZDJsMGFHOTFkQ0JqYjJScGJtY1FBSDFiamdzXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgMzIxIHJ1bGUgb2YgZWRpdGluZz8iLCJsayI6IkdoOTNhR0YwSUdseklIUm9aU0F6TWpFZ2NuVnNaU0J2WmlCbFpHbDBhVzVuIiwiYnMiOiJjMzNPTVF1Q1FCakdjVnJmcWZtV25tcElXekpyYUl1Q0tJbVdJSnd2UEwyajlBVTlrNzU5VWtNcDJQejgtUE5RUU9NRFY0Z1lBV1JwT1pWV0lYM2lZU0xGVUpHeEprdldfa2hBMTh4eU42SUxPYUdXRnFhQTFRb3JiLVo3eU11N2dzbmFQVmRNcW9aRmw2VWQ0VGU3OE9jZnlQRTNOeFNENnItaGtOeWdxQmZzdHpodlRsQVpsNGxHekRtV3hfYTlxWERNR3lkWDVESnQ0RnNUOTNzdiIsImlkIjoiZmNfZHZJQ2E2R2FIYnFpcXRzUHJ0T0o4UXNfNSJ9"
+      },
+      {
+        "question": "Is 32 GB RAM enough for 4K video editing?",
+        "type": "ai_overview",
+        "page_token": "fGLPzHicHdBRbpswAABQrYfpZ2NCm3aRokk0JiSrSW2wHfNTgU3iYBu8hgaSz51lXzvMDrBj7AST-o7wfv6yx9b8_XLWfe9P88lkGIa7Q9cdbH0nOzcpT5dWTmRpbVVKM589zoJve7mAH-vo-cc6wpRAYZXlOTHSqe80eJryXF1kLHt2hWGVq1cBACjNA8h5sBJtIQRn24o-9dslfiCxjhDbOAp8iprUIKtElqRNumMCAY_RlFgRakhXrOfxZlaEir_QNUDga0pX_Z7uNglyqlGuC1lDDGrVSUzHLIf-WgTptHLeUU4IzeGl4kGGWRwgjofCFi7l9sparcvEorpVlkFwqZ0fq2UUQa2MMnYp8iIRVB8lt6NKUixb8po1msixO2KqtwjSkIQQZEsVo6A4Ua7vJfA5sWxVtmZ82ckh2_l7jG_38rwIbz8_F29718_9e3f4Ld_rsq_VW9n_MTf_zv8BarCLNw",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=fGLPzHicHdBRbpswAABQrYfpZ2NCm3aRokk0JiSrSW2wHfNTgU3iYBu8hgaSz51lXzvMDrBj7AST-o7wfv6yx9b8_XLWfe9P88lkGIa7Q9cdbH0nOzcpT5dWTmRpbVVKM589zoJve7mAH-vo-cc6wpRAYZXlOTHSqe80eJryXF1kLHt2hWGVq1cBACjNA8h5sBJtIQRn24o-9dslfiCxjhDbOAp8iprUIKtElqRNumMCAY_RlFgRakhXrOfxZlaEir_QNUDga0pX_Z7uNglyqlGuC1lDDGrVSUzHLIf-WgTptHLeUU4IzeGl4kGGWRwgjofCFi7l9sparcvEorpVlkFwqZ0fq2UUQa2MMnYp8iIRVB8lt6NKUixb8po1msixO2KqtwjSkIQQZEsVo6A4Ua7vJfA5sWxVtmZ82ckh2_l7jG_38rwIbz8_F29718_9e3f4Ld_rsq_VW9n_MTf_zv8BarCLNw",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVJtcHZNa3N0ZVVWeGJtMTBZbU56WVVNeVQzTk9hMnRYWVVkZk1saDBWeTAxVFhGZmVXMXRaa2hqVFdKa2VUQlBZM2xCYXpoTmFXVTBUemRJWVhaRU9FMDBWV0ZrY1VKVlZXMXJabVJITm0xQ1pVcFhlRjh3Ylhrd2R4SVhaSFpKUTJFMlIyRklZbkZwY1hSelVISjBUMG80VVhNYUlrRklUakJGTjBWYWEzbEtOekl0ZERCa1kwMVRiekJGYzFScFZtTkNWMDUzVjNjIiwiZmN2IjoiMyIsImVpIjoiZHZJQ2E2R2FIYnFpcXRzUHJ0T0o4UXMiLCJxYyI6IkNqWm9iM2NnZEc4Z1lYVjBiMjFoZEdVZ2RtbGtaVzhnWldScGRHbHVaeUIzYjNKclpteHZkM01nZDJsMGFHOTFkQ0JqYjJScGJtY1FBSDFiamdzXyIsInF1ZXN0aW9uIjoiSXMgMzIgR0IgUkFNIGVub3VnaCBmb3IgNEsgdmlkZW8gZWRpdGluZz8iLCJsayI6IkdpaHBjeUF6TWlCbllpQnlZVzBnWlc1dmRXZG9JR1p2Y2lBMGF5QjJhV1JsYnlCbFpHbDBhVzVuIiwiYnMiOiJjMzNPTVF1Q1FCakdjVnJmcWZtV25tcElXekpyYUl1Q0tJbVdJSnd2UEwyajlBVTlrNzU5VWtNcDJQejgtUE5RUU9NRFY0Z1lBV1JwT1pWV0lYM2lZU0xGVUpHeEprdldfa2hBMTh4eU42SUxPYUdXRnFhQTFRb3JiLVo3eU11N2dzbmFQVmRNcW9aRmw2VWQ0VGU3OE9jZnlQRTNOeFNENnItaGtOeWdxQmZzdHpodlRsQVpsNGxHekRtV3hfYTlxWERNR3lkWDVESnQ0RnNUOTNzdiIsImlkIjoiZmNfZHZJQ2E2R2FIYnFpcXRzUHJ0T0o4UXNfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVJtcHZNa3N0ZVVWeGJtMTBZbU56WVVNeVQzTk9hMnRYWVVkZk1saDBWeTAxVFhGZmVXMXRaa2hqVFdKa2VUQlBZM2xCYXpoTmFXVTBUemRJWVhaRU9FMDBWV0ZrY1VKVlZXMXJabVJITm0xQ1pVcFhlRjh3Ylhrd2R4SVhaSFpKUTJFMlIyRklZbkZwY1hSelVISjBUMG80VVhNYUlrRklUakJGTjBWYWEzbEtOekl0ZERCa1kwMVRiekJGYzFScFZtTkNWMDUzVjNjIiwiZmN2IjoiMyIsImVpIjoiZHZJQ2E2R2FIYnFpcXRzUHJ0T0o4UXMiLCJxYyI6IkNqWm9iM2NnZEc4Z1lYVjBiMjFoZEdVZ2RtbGtaVzhnWldScGRHbHVaeUIzYjNKclpteHZkM01nZDJsMGFHOTFkQ0JqYjJScGJtY1FBSDFiamdzXyIsInF1ZXN0aW9uIjoiSXMgMzIgR0IgUkFNIGVub3VnaCBmb3IgNEsgdmlkZW8gZWRpdGluZz8iLCJsayI6IkdpaHBjeUF6TWlCbllpQnlZVzBnWlc1dmRXZG9JR1p2Y2lBMGF5QjJhV1JsYnlCbFpHbDBhVzVuIiwiYnMiOiJjMzNPTVF1Q1FCakdjVnJmcWZtV25tcElXekpyYUl1Q0tJbVdJSnd2UEwyajlBVTlrNzU5VWtNcDJQejgtUE5RUU9NRFY0Z1lBV1JwT1pWV0lYM2lZU0xGVUpHeEprdldfa2hBMTh4eU42SUxPYUdXRnFhQTFRb3JiLVo3eU11N2dzbmFQVmRNcW9aRmw2VWQ0VGU3OE9jZnlQRTNOeFNENnItaGtOeWdxQmZzdHpodlRsQVpsNGxHekRtV3hfYTlxWERNR3lkWDVESnQ0RnNUOTNzdiIsImlkIjoiZmNfZHZJQ2E2R2FIYnFpcXRzUHJ0T0o4UXNfNSJ9"
+      }
+    ],
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Need help with automating my editing workflow : r/AI_Agents",
+        "link": "https://www.reddit.com/r/AI_Agents/comments/1sn38g9/need_help_with_automating_my_editing_workflow/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnwEBxCJF1_ZH-l7xjWt7287AgflXN-M1b6FTVeIC38eWFOe8S2UUylb8haW4RyvICU7OKyxWGKeRsfLu1_fxpODmkHIS0Cp6JPLAhwI2CXbvr69sSepcGISf0e268Hi5j4QAUGaUAStqodpgFvDIDcPY8Xqi29zucFV0-PlojU8eFDcE1GLWml2BAtjKfxMIU2fA91_lOpBa9VsbaXtc5A8&ved=2ahUKEwihrcHB25uYAxU6kWoFHa5pIr4QFnoECBwQAQ&uoh=1",
+        "displayed_link": "7 comments",
+        "date": "7 months ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+        "snippet": "1-Audio sync \u00b7 2- Rough cut (selecting the best take out of +50 takes) \u00b7 3- Explanation cards \u00b7 4- B-roll footage \u00b7 5- video preview (few seconds at ...",
+        "snippet_highlighted_words": [
+          "1-Audio sync"
+        ],
+        "sitelinks": {
+          "list": [
+            {
+              "title": "Can automation help editing videos? - Reddit",
+              "link": "https://www.google.com/goto?url=CAESlQEBxCJF1zMVAgepgC8aTzYCojU_YDnXvreL8rfZ2lIOjRYPEp5jNks7jT2F7iAvA4dGunfaEwc75AhhanJ02bYv_vKJImD3lcswH5k3s10OXEFN_GQwQdlRF8vIhO9Dmalkztz8W-x6Co-emrcGh4qAC9xVcHsLWoWhhl8BCL1Bj2VZJ6OplLvxKjDFU4dRVr_sZ0-wdA&gsessionid=hcyEm_YFawloZsY6rotzZ4CghCqjW34NpfD28APUj_EFzsUM_w_xTg",
+              "date": "11 Aug 2025"
+            },
+            {
+              "title": "[Workflow] Automated Video Editing with Claude Code and ...",
+              "link": "https://www.google.com/goto?url=CAESqQEBxCJF1_BMxf_yScY6V07GxphHn17H-x5LM4obitAF9pgCwY_fsjZcxJDzCL02mUJANppi_vhVf6ILpN1Cozqb-fDmpNx85PyVLDil65Hq1ReQtwWNsEt7FYrqetWG26IYm0e33zbkbWarnstUbViOFdTVnyv794tDy22xovbmsMLaH_ckHqiW-Jk8ZFya7jshFeeVHa4r5MQCGizEW1zHYDO9-VpvPZdR&gsessionid=hcyEm_YFawloZsY6rotzZ4CghCqjW34NpfD28APUj_EFzsUM_w_xTg",
+              "date": "11 Jun 2026"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "1-Audio sync \u00b7 2- Rough cut (selecting the best take out of +50 takes) \u00b7 3- Explanation cards \u00b7 4- B-roll footage \u00b7 5- video preview (few seconds at ...",
+            "source_info_link": "https://www.reddit.com/r/AI_Agents/comments/1sn38g9/need_help_with_automating_my_editing_workflow/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuUBL2dvdG8_dXJsPUNBRVNud0VCeENKRjE2enBSODFOMnZUcUJ3aXNUUDJFTTh0TFJUNkw2R2JGTU52Y2VkZFZNV2JHVTRrRzBOMzZoNncxb2Z0MVJzVFBNSU1rOTNiZFhQS0JCbDJrQ3ZheGFDcXVaQk8yMWlZOFJUZHVXdEowODBJWnEtQTUyalBILTRXMFZWRzN4OFdQWmJ1eS1NN1RKVFA4UklEU19IWTBIa1R4Q1ZkTlJ0VE5temdIQ2UteUE1eHJRSXFiTTFJXzdzYkdxZG1rYm5WWEZnN0k4N09CQWdxVGl3WRIEGgIIABrlBhIAGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkDBBggAEAAYACAAKgoKA2hvdxWADtY_KgkKAnRvFQAAAAAqRAoIYXV0b21hdGUV4Ms8QBoJYXV0b21hdGVkGg1hdXRvbWF0aWNhbGx5GgphdXRvbWF0aW9uGg1pdjtwO2F1dG9tYXRlKiIKBXZpZGVvFTwrikAaBnZpZGVvcxoMdmlkZW9lZGl0aW5nKjQKB2VkaXRpbmcVCkrLQBoGZWRpdG9yGgdlZGl0b3JzGgVlZGl0cxoMdmlkZW9lZGl0aW5nKioKCXdvcmtmbG93cxXC0Oc_Ggh3b3JrZmxvdxoOaXY7cDt3b3JrZmxvd3MqFwoHd2l0aG91dBUAAAAAGgJubxoDbm90Kj8KBmNvZGluZxVK5wY_GgRjb2RlGgtwcm9ncmFtbWluZxoLaXY7cDtjb2RpbmcaBWNvZGVyGglzY3JpcHRpbmcy5QEvZ290bz91cmw9Q0FFU253RUJ4Q0pGMTZ6cFI4MU4ydlRxQndpc1RQMkVNOHRMUlQ2TDZHYkZNTnZjZWRkVk1XYkdVNGtHME4zNmg2dzFvZnQxUnNUUE1JTWs5M2JkWFBLQkJsMmtDdmF4YUNxdVpCTzIxaVk4UlRkdVd0SjA4MElacS1BNTJqUEgtNFcwVlZHM3g4V1BaYnV5LU03VEpUUDhSSURTX0hZMEhrVHhDVmROUnRUTm16Z0hDZS15QTV4clFJcWJNMUlfN3NiR3FkbWtiblZYRmc3STg3T0JBZ3FUaXdZOkJOZWVkIGhlbHAgd2l0aCBhdXRvbWF0aW5nIG15IDxiPmVkaXRpbmcgd29ya2Zsb3c8L2I-IDogci9BSV9BZ2VudHNCwAE8Yj4xLUF1ZGlvIHN5bmM8L2I-ICZtaWRkb3Q7IDItIFJvdWdoIGN1dCAoc2VsZWN0aW5nIHRoZSBiZXN0IHRha2Ugb3V0IG9mICs1MCB0YWtlcykgJm1pZGRvdDsgMy0gRXhwbGFuYXRpb24gY2FyZHMgJm1pZGRvdDsgNC0gQi1yb2xsIGZvb3RhZ2UgJm1pZGRvdDsgNS0gdmlkZW8gcHJldmlldyAoZmV3IHNlY29uZHMgYXQmbmJzcDsuLi5KAnRvUgNub3RSAm5vIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuUBL2dvdG8_dXJsPUNBRVNud0VCeENKRjE2enBSODFOMnZUcUJ3aXNUUDJFTTh0TFJUNkw2R2JGTU52Y2VkZFZNV2JHVTRrRzBOMzZoNncxb2Z0MVJzVFBNSU1rOTNiZFhQS0JCbDJrQ3ZheGFDcXVaQk8yMWlZOFJUZHVXdEowODBJWnEtQTUyalBILTRXMFZWRzN4OFdQWmJ1eS1NN1RKVFA4UklEU19IWTBIa1R4Q1ZkTlJ0VE5temdIQ2UteUE1eHJRSXFiTTFJXzdzYkdxZG1rYm5WWEZnN0k4N09CQWdxVGl3WRIEGgIIABrlBhIAGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkDBBggAEAAYACAAKgoKA2hvdxWADtY_KgkKAnRvFQAAAAAqRAoIYXV0b21hdGUV4Ms8QBoJYXV0b21hdGVkGg1hdXRvbWF0aWNhbGx5GgphdXRvbWF0aW9uGg1pdjtwO2F1dG9tYXRlKiIKBXZpZGVvFTwrikAaBnZpZGVvcxoMdmlkZW9lZGl0aW5nKjQKB2VkaXRpbmcVCkrLQBoGZWRpdG9yGgdlZGl0b3JzGgVlZGl0cxoMdmlkZW9lZGl0aW5nKioKCXdvcmtmbG93cxXC0Oc_Ggh3b3JrZmxvdxoOaXY7cDt3b3JrZmxvd3MqFwoHd2l0aG91dBUAAAAAGgJubxoDbm90Kj8KBmNvZGluZxVK5wY_GgRjb2RlGgtwcm9ncmFtbWluZxoLaXY7cDtjb2RpbmcaBWNvZGVyGglzY3JpcHRpbmcy5QEvZ290bz91cmw9Q0FFU253RUJ4Q0pGMTZ6cFI4MU4ydlRxQndpc1RQMkVNOHRMUlQ2TDZHYkZNTnZjZWRkVk1XYkdVNGtHME4zNmg2dzFvZnQxUnNUUE1JTWs5M2JkWFBLQkJsMmtDdmF4YUNxdVpCTzIxaVk4UlRkdVd0SjA4MElacS1BNTJqUEgtNFcwVlZHM3g4V1BaYnV5LU03VEpUUDhSSURTX0hZMEhrVHhDVmROUnRUTm16Z0hDZS15QTV4clFJcWJNMUlfN3NiR3FkbWtiblZYRmc3STg3T0JBZ3FUaXdZOkJOZWVkIGhlbHAgd2l0aCBhdXRvbWF0aW5nIG15IDxiPmVkaXRpbmcgd29ya2Zsb3c8L2I-IDogci9BSV9BZ2VudHNCwAE8Yj4xLUF1ZGlvIHN5bmM8L2I-ICZtaWRkb3Q7IDItIFJvdWdoIGN1dCAoc2VsZWN0aW5nIHRoZSBiZXN0IHRha2Ugb3V0IG9mICs1MCB0YWtlcykgJm1pZGRvdDsgMy0gRXhwbGFuYXRpb24gY2FyZHMgJm1pZGRvdDsgNC0gQi1yb2xsIGZvb3RhZ2UgJm1pZGRvdDsgNS0gdmlkZW8gcHJldmlldyAoZmV3IHNlY29uZHMgYXQmbmJzcDsuLi5KAnRvUgNub3RSAm5vIgIQAUgAWABoAA",
+        "source": "Reddit \u00b7 r/AI_Agents",
+        "read_more_link": "https://www.google.com/goto?url=CAESlAMBxCJF1wwAPY2fk5o0TZ_LOoaxVVGoZQ7TF4lH6tkVjVG5Iiyd-UmdFTWO09uVBFNQ23wbeBttLrOq7x5Z4EqeFnB8BpfFC2gnMtas8MRN55uPBxd0h8Lvf8zkEML5VX46yOI7oU-Vxylx_LTfqMlLi660Gn1q_4UdW0MoUcVyz91s9_UvtnnJjvBOLJKd5ftyBDHetpK6bWnkBJ3djS3z6OlJsDOWakGNnIQ-MU0qYIQxDZNduOLEIMsDhCWjDQO_3BJWbTNBKsb8PJGJ3BSovCdG3IzMuUcCu-xnHjYcnEdFMWT3eJH01yttT5WYeG_Xc9yVqndLzADDQ1xZ_Q-dg2hctWepUHBMmn0vMNyQvBG1V-K09n37JT9WtTd4qYf6dKTtZWHkEbIM8kQMhnFdSPOj77khAn0ysXNwcSu5U0X_LbdVUXdnq4fDKmGT-VYqIo0pOjyHj4LRgEv3MJ2E6vMHxksdMIkLYxsDjdKzBE8goOVGIjrkSVrigmzeCiqvVeMpOTMvOjMRKHXLvGeOBb7cOw&gsessionid=hcyEm_YFawloZsY6rotzZ4CghCqjW34NpfD28APUj_EFzsUM_w_xTg"
+      },
+      {
+        "position": 2,
+        "title": "How to Automate Video Editing End-to-End With Claude ...",
+        "link": "https://www.mindstudio.ai/blog/automate-video-editing-claude-code",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHEIkXXParkGbaT_Dzh1fUv1zjLj8l3hiEmvaqTFls2ufUjySp0z1LLfNi_SNR3weP-W4wwzpVQ8AMcg0dvglwJXcIpFuwbRca89rR0vfrjQ4M1-RD8AB9XiBk3T-VbBIMrD1rOyZxdnUCfAruHVYM_vJkEnW2Yn_zL1huzKg&ved=2ahUKEwihrcHB25uYAxU6kWoFHa5pIr4QFnoECBkQAQ&uoh=1",
+        "displayed_link": "https://www.mindstudio.ai \u203a blog \u203a automate-video-editi...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABDElEQVR4Ab2TIZCDMBBFn4zJDK6utgZViTtXU1OJn8HjBfJcTS0Cj4m3mFMoZB0Wic0eizkYuGBu7psn_ktmsrNBpM3jyO4kivNWBF9HGLsbg609bYT9NdiOHBsIORcTEkyMDSc6EuyfCgA_2ArcXnWGJXm5zOwKg4i_YZsJOVuBUryXjk_FsBVIBm1aZvSwEZz4qUme2kv-dKwFjGjT2V7xZpQTa6HRYnxU8z1pJdJgFgLpqMIXXtFfepExZSmU88lzob3PZpQrQa-WhmLx1LXwGET6D5jgE5JOpL8vBDUqd0fH7eZxV7X2qzkAG2j-Y2Gio6W9htf-SkFIoKA7BQzOb8TZwOd1cvj9vwFtGM-p-4XllAAAAABJRU5ErkJggg.png",
+        "date": "25 Apr 2026",
+        "snippet": "Use Claude Code with VideoUse and Hyperframes to trim raw footage, add motion graphics, and render finished videos without touching a timeline ...",
+        "snippet_highlighted_words": [
+          "Use Claude Code with VideoUse and Hyperframes"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Use Claude Code with VideoUse and Hyperframes to trim raw footage, add motion graphics, and render finished videos without touching a timeline ...",
+            "source_info_link": "https://www.mindstudio.ai/blog/automate-video-editing-claude-code",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAABDElEQVR4Ab2TIZCDMBBFn4zJDK6utgZViTtXU1OJn8HjBfJcTS0Cj4m3mFMoZB0Wic0eizkYuGBu7psn_ktmsrNBpM3jyO4kivNWBF9HGLsbg609bYT9NdiOHBsIORcTEkyMDSc6EuyfCgA_2ArcXnWGJXm5zOwKg4i_YZsJOVuBUryXjk_FsBVIBm1aZvSwEZz4qUme2kv-dKwFjGjT2V7xZpQTa6HRYnxU8z1pJdJgFgLpqMIXXtFfepExZSmU88lzob3PZpQrQa-WhmLx1LXwGET6D5jgE5JOpL8vBDUqd0fH7eZxV7X2qzkAG2j-Y2Gio6W9htf-SkFIoKA7BQzOb8TZwOd1cvj9vwFtGM-p-4XllAAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrgBL2dvdG8_dXJsPUNBRVNmZ0hFSWtYWGpuTkUxQ1dTWkpnVzlCUEE1TDVyam96VUcySk9BajcwWEpRVWRHSWlIOVZwTVRwei1yVENaSlpONHR4NXRySWtEVWNRN2dOdkliZjB3SkowTFcyZWg4a0RaVWQzanJ5Y1BMZVBLSkh3aEVjWGZDU255bkdNd1JLektyemJIZ3N2bTB1Sk5xaFRVNEY0aWZLRHd2S0xsazRPSXZyQWZIaHhZZxIEGgIIABqdBhICCAAaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQPcFCAAQABgAIAAqCgoDaG93FW4riEAqCQoCdG8VAAAAACpECghhdXRvbWF0ZRXUK2xAGglhdXRvbWF0ZWQaDWF1dG9tYXRpY2FsbHkaCmF1dG9tYXRpb24aDWl2O3A7YXV0b21hdGUqIgoFdmlkZW8V9O-hQBoGdmlkZW9zGgx2aWRlb2VkaXRpbmcqNAoHZWRpdGluZxWmJXlAGgZlZGl0b3IaB2VkaXRvcnMaBWVkaXRzGgx2aWRlb2VkaXRpbmcqKgoJd29ya2Zsb3dzFftTzj8aCHdvcmtmbG93Gg5pdjtwO3dvcmtmbG93cyoXCgd3aXRob3V0FQtnXj8aAm5vGgNub3QqPwoGY29kaW5nFf33OT4aBGNvZGUaC3Byb2dyYW1taW5nGgtpdjtwO2NvZGluZxoFY29kZXIaCXNjcmlwdGluZzK4AS9nb3RvP3VybD1DQUVTZmdIRUlrWFhqbk5FMUNXU1pKZ1c5QlBBNUw1cmpvelVHMkpPQWo3MFhKUVVkR0lpSDlWcE1UcHotclRDWkpaTjR0eDV0cklrRFVjUTdnTnZJYmYwd0pKMExXMmVoOGtEWlVkM2pyeWNQTGVQS0pId2hFY1hmQ1NueW5HTXdSS3pLcnpiSGdzdm0wdUpOcWhUVTRGNGlmS0R3dktMbGs0T0l2ckFmSGh4WWc6RzxiPkhvdyB0byBBdXRvbWF0ZSBWaWRlbyBFZGl0aW5nPC9iPiBFbmQtdG8tRW5kIFdpdGggQ2xhdWRlIDxiPkNvZGU8L2I-Qp4BPGI-VXNlIENsYXVkZSBDb2RlIHdpdGggVmlkZW9Vc2UgYW5kIEh5cGVyZnJhbWVzPC9iPiB0byB0cmltIHJhdyBmb290YWdlLCBhZGQgbW90aW9uIGdyYXBoaWNzLCBhbmQgcmVuZGVyIGZpbmlzaGVkIHZpZGVvcyB3aXRob3V0IHRvdWNoaW5nIGEgdGltZWxpbmUmbmJzcDsuLi5KAnRvUgJub1IDbm90IgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrgBL2dvdG8_dXJsPUNBRVNmZ0hFSWtYWGpuTkUxQ1dTWkpnVzlCUEE1TDVyam96VUcySk9BajcwWEpRVWRHSWlIOVZwTVRwei1yVENaSlpONHR4NXRySWtEVWNRN2dOdkliZjB3SkowTFcyZWg4a0RaVWQzanJ5Y1BMZVBLSkh3aEVjWGZDU255bkdNd1JLektyemJIZ3N2bTB1Sk5xaFRVNEY0aWZLRHd2S0xsazRPSXZyQWZIaHhZZxIEGgIIABqdBhICCAAaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQPcFCAAQABgAIAAqCgoDaG93FW4riEAqCQoCdG8VAAAAACpECghhdXRvbWF0ZRXUK2xAGglhdXRvbWF0ZWQaDWF1dG9tYXRpY2FsbHkaCmF1dG9tYXRpb24aDWl2O3A7YXV0b21hdGUqIgoFdmlkZW8V9O-hQBoGdmlkZW9zGgx2aWRlb2VkaXRpbmcqNAoHZWRpdGluZxWmJXlAGgZlZGl0b3IaB2VkaXRvcnMaBWVkaXRzGgx2aWRlb2VkaXRpbmcqKgoJd29ya2Zsb3dzFftTzj8aCHdvcmtmbG93Gg5pdjtwO3dvcmtmbG93cyoXCgd3aXRob3V0FQtnXj8aAm5vGgNub3QqPwoGY29kaW5nFf33OT4aBGNvZGUaC3Byb2dyYW1taW5nGgtpdjtwO2NvZGluZxoFY29kZXIaCXNjcmlwdGluZzK4AS9nb3RvP3VybD1DQUVTZmdIRUlrWFhqbk5FMUNXU1pKZ1c5QlBBNUw1cmpvelVHMkpPQWo3MFhKUVVkR0lpSDlWcE1UcHotclRDWkpaTjR0eDV0cklrRFVjUTdnTnZJYmYwd0pKMExXMmVoOGtEWlVkM2pyeWNQTGVQS0pId2hFY1hmQ1NueW5HTXdSS3pLcnpiSGdzdm0wdUpOcWhUVTRGNGlmS0R3dktMbGs0T0l2ckFmSGh4WWc6RzxiPkhvdyB0byBBdXRvbWF0ZSBWaWRlbyBFZGl0aW5nPC9iPiBFbmQtdG8tRW5kIFdpdGggQ2xhdWRlIDxiPkNvZGU8L2I-Qp4BPGI-VXNlIENsYXVkZSBDb2RlIHdpdGggVmlkZW9Vc2UgYW5kIEh5cGVyZnJhbWVzPC9iPiB0byB0cmltIHJhdyBmb290YWdlLCBhZGQgbW90aW9uIGdyYXBoaWNzLCBhbmQgcmVuZGVyIGZpbmlzaGVkIHZpZGVvcyB3aXRob3V0IHRvdWNoaW5nIGEgdGltZWxpbmUmbmJzcDsuLi5KAnRvUgJub1IDbm90IgIQAUgAWABoAA",
+        "source": "MindStudio",
+        "read_more_link": "https://www.google.com/goto?url=CAES2QEBxCJF147YaN99rY0un8PDdSb0tlrVg7CxX0cdOQmIRT8QHLcafkrFOIW7WfZsBCB8GDNxJkxeEMbfFL2EQZFvlZA1Yaz7dv_vAMclkc6hnCEJ67_Kl2zEdzqz_kSfyLv5QTLKweK-kZo6e7Ub1ru31wDgW0BSNOHL1n9NR2IQp_Q7efeS3kCFUj7Gvv9mdT_J0yLNPeQzxFa0H8_IQyfMAjbYJisgWSRz8-cAn-dGy7auPyZQqyx5snIoLeC10z9bJYgzpOn6NpJ-rFe57fxjTzzfIpKltelf&gsessionid=hcyEm_YFawloZsY6rotzZ4CghCqjW34NpfD28APUj_EFzsUM_w_xTg"
+      },
+      {
+        "position": 3,
+        "title": "How I Fully Automated My Video Editing (Claude Code)",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXIcFUm-n0FXGAtLXHUzAw5msxwhWzwjqU77YaZ6Zj37X2YgNQyqEARIuB3iv-PZhOISXUO-ieFGGwarY2BecV5mnCf8crmRoPlDv83RdKYsWj2m_V-yRzrFLZR1mwkbNEvTHZ&gsessionid=hcyEm_YFawloZsY6rotzZ4CghCqjW34NpfD28APUj_EFzsUM_w_xTg",
+        "displayed_link": "181.1k+ views",
+        "date": "7 months ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f276f61b7d4d5b6ded94/images/C1chTaMUmw9CATMfXVZVIhl7XIUjyF0oNMNm2Oi2rbs.jpg",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "Learn how to automate your entire video editing workflow using Claude Code and Remotion. This tutorial shows you how to build an AI system that ...",
+        "duration": "11:52",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "What I'm covering",
+            "link": "https://www.google.com/goto?url=CAESbAHEIkXX2pMMwvG8sUzx1q98XVm73n0p86QpRKLSjt02oj0atCn6uOnLO66FXQwr3QiCFMR_ZF2KfdYlF81Tw5duF_NLvcz1m3AZ5isbRgblhYT2NUT3imdVdMKhiFja7AXCfJADpvmlZp0u8Q&gsessionid=hcyEm_YFawloZsY6rotzZ4CghCqjW34NpfD28APUj_EFzsUM_w_xTg"
+          },
+          {
+            "time": "00:29",
+            "title": "No manual editing needed",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXX-C5itW3FuutsxJVJaNe_tkr7e0RaTY5yL5sZEKznkBpNyRbBhRQU3HEwqcEXP3_LtiV0ZckfJb4hl6TatZCDjQRbXh2PlkbGnhANrHgOWWm8CghC8uA-KyRyy35ElHBgSdO9TpTpqSE&gsessionid=hcyEm_YFawloZsY6rotzZ4CghCqjW34NpfD28APUj_EFzsUM_w_xTg"
+          },
+          {
+            "time": "00:52",
+            "title": "What I'm covering",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXXU3CNzUpJ5PJl4UAHckZWXQOyqHuRf3i04uRrcg-6QF8ShTAMWMN4dG3G1qTGu8xfJ1dO0rdQvf_MHWbBTIaKmyDOrIfrkcdltMXYCMvThPF0YaHEu9KNNtVEMCu7PMuuVVbQb1Zyxgk&gsessionid=hcyEm_YFawloZsY6rotzZ4CghCqjW34NpfD28APUj_EFzsUM_w_xTg"
+          },
+          {
+            "time": "01:14",
+            "title": "Descript for cutting",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXXHBP1By9kaF--zKJdWX73T5KSdJhR3cPEhXUZplxyyHGR9gh6NParzrh48yS-MR4fMSqIT4dH_dW-8iTus_NUQILqe5CcrgzWixHu8Ingd9l2DyfAS5iFvT6-cpHpzWGGJO2bpTavrWM&gsessionid=hcyEm_YFawloZsY6rotzZ4CghCqjW34NpfD28APUj_EFzsUM_w_xTg"
+          },
+          {
+            "time": "02:00",
+            "title": "Using custom templates",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXMQtc26HxUW50M3FttjjQw39EuT6Fixe9dc5okMOBBGZq_uufXF3SLlqVTm6S6Cu2TXQSyNPUBDRL1bMVe1pe7QVp9AgXgJHWfB1Owkt1IV2AalUwSsOE5So9A2iQcZtiGDXfYlEicCZ4&gsessionid=hcyEm_YFawloZsY6rotzZ4CghCqjW34NpfD28APUj_EFzsUM_w_xTg"
+          },
+          {
+            "time": "02:42",
+            "title": "Basic prompt template",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXs5MnceESMf5EdlCfCsI2n0dSIWKivbOslAdZ22R8D2OQpcd5GrPXRj5ZBvdMWEhLPh9ziAvKnNN8K2rn-50wkTu1HF2bwuzXf7BU2m2EFDTScc_MienOvkFYS9Fz7bKeFBfy0Vl6z4a2&gsessionid=hcyEm_YFawloZsY6rotzZ4CghCqjW34NpfD28APUj_EFzsUM_w_xTg"
+          },
+          {
+            "time": "04:04",
+            "title": "Reviewing transcript cuts",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXX-pJWhZOynleZvxHkcz0YQxoZQY-6XkcAGVxeSjmF8tk9AyvnMBcBpZ0KUCZvXt7Zhh5xBjmoE3CbdQG9vv-bmCZTxCl7VNtzcB718JVL-DHKkK6dG--5Kqb6xbZnK_R1MfgSoY9PWg3e&gsessionid=hcyEm_YFawloZsY6rotzZ4CghCqjW34NpfD28APUj_EFzsUM_w_xTg"
+          },
+          {
+            "time": "04:51",
+            "title": "Shorten word gaps",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXX5MidXfqf-LkWrxu6f4L_9wjQm7VCyC3yXSaQ6v6q8LVu-A2DipB60DaO6Tqn4ej_fkc1xpIkNWRiUf6pCImlg30xY29KbNj4SnR3EfQB8hta6v7Dsf2Hxtc5O3s2XG5A5LydqxxqVchb&gsessionid=hcyEm_YFawloZsY6rotzZ4CghCqjW34NpfD28APUj_EFzsUM_w_xTg"
+          },
+          {
+            "time": "05:29",
+            "title": "Adding background music",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXbR7pzTg9WAVKfpqUkR-ccnASBDndGQwjOAh-h86u6zK_NfdcuxdyROYO-b7tWicxhOXX-6cbF838gZhkjSz-mXdpYZO7Rrw4nNyp4L-KGDWnnk8jCH9506CQsq7D7TNqfs3trRDaqT5-&gsessionid=hcyEm_YFawloZsY6rotzZ4CghCqjW34NpfD28APUj_EFzsUM_w_xTg"
+          },
+          {
+            "time": "06:12",
+            "title": "Claude Code setup",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXoqGMsWrNbVwLhE6OlAJJmwF6MTqMTG3lfzEfdmj__qSm_4R7ePmMHfo2Ex_zLIGXXWg3yC0NSV_LquRbGSfVQ147FcNTq9ixbhtyAg92sfEgoc3eTlffS74zSbSIv6VbrVC9bR5rivuZ&gsessionid=hcyEm_YFawloZsY6rotzZ4CghCqjW34NpfD28APUj_EFzsUM_w_xTg"
+          },
+          {
+            "time": "06:49",
+            "title": "Remotion for video editing",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXX9UDtL35NS3mccSFwj1PYGmAxvC0h4QsokNUbADo2XIOFT8NCAA1q1CbP4FEqYYtOcuMskbgtDWWosZftKraPp4Qtr92-wQff9vc9OSFePU-zTRZlKUUcq3ddfNKe55sCuI7ZFEZi7aJt&gsessionid=hcyEm_YFawloZsY6rotzZ4CghCqjW34NpfD28APUj_EFzsUM_w_xTg"
+          },
+          {
+            "time": "07:45",
+            "title": "Technical stack breakdown",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXnUhvFGtj_PY3yET6z2IIMR1YzQSmFyjapbf0B3ccIqOksE922WV7SNhGIWBhcvNAFFhqQcXAWqPf5DjqxfwyPXcSR6S9aHgLsgBCyOOAjeZSTaZ4uBQNZTcoB8GAvGwGsdVgHerVW2TZ&gsessionid=hcyEm_YFawloZsY6rotzZ4CghCqjW34NpfD28APUj_EFzsUM_w_xTg"
+          },
+          {
+            "time": "08:23",
+            "title": "Video processing workflow",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXtU8i747IhKLhk3nQUVVOuloI7ogVzF-DVn_zMmX3JKOFO4oVzOCVBm7Hzm9WW8_rNdJUVLDyzL8_0DYMASBHS9EpbZspGCppHsi9NrBEIfT5f1myRl9ZdeFRnDBbn0jN6aNHAuk4XH0e&gsessionid=hcyEm_YFawloZsY6rotzZ4CghCqjW34NpfD28APUj_EFzsUM_w_xTg"
+          },
+          {
+            "time": "09:11",
+            "title": "Editing preview demo",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXZ3OxR7Sdthm51Gu1PB_G2Uy-GctsXHgX1H8EdISgIMMiLKNDLHA5WCpdCOSXu2RbEbMnXwzDbxTyBpz20hnLyKY08lMKDubmZqDGaNs_CzixTCL4qnhYWY6SrWjTglwyy7fmHgni-lcb&gsessionid=hcyEm_YFawloZsY6rotzZ4CghCqjW34NpfD28APUj_EFzsUM_w_xTg"
+          },
+          {
+            "time": "10:25",
+            "title": "Animation examples",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXmww8iSjWephkJmjlMjNqoXZgq9A8Y_VqlqNMpKMn_gNakd3XcmZFuKXnoysGXE_9GfGhhKw76Kb93SsnGSQ3ndPQ5JJWFA0YnrWHV7HqfUl-T7uIvuBprusBfv5Osh0_60h0vWngbMBk&gsessionid=hcyEm_YFawloZsY6rotzZ4CghCqjW34NpfD28APUj_EFzsUM_w_xTg"
+          },
+          {
+            "time": "11:01",
+            "title": "Final rendering process",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXu63BdaBfQ0nv9WAMpZRUB5jSby5CT_3sXCL4puiAHK8oerFwVwNObJajaMiGKuFSBe5cpWKnSbHQYqDFvbLUUd8diN72PLp-tisua4yeEcYhdZtqKjklK7HCRDaa2e-I6n4WGLmhRIuh&gsessionid=hcyEm_YFawloZsY6rotzZ4CghCqjW34NpfD28APUj_EFzsUM_w_xTg"
+          }
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Learn how to automate your entire video editing workflow using Claude Code and Remotion. This tutorial shows you how to build an AI system that ...",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWEljRlVtLW4wRlhHQXRMWEhVekF3NW1zeHdoV3p3anFVNzdZYVo2WmozN1gyWWdOUXlxRUFSSXVCM2l2LVBaaE9JU1hVTy1pZUZHR3dhclkyQmVjVjVtbkNmOGNybVJvUGxEdjgzUmRLWXNXajJtX1YteVJ6ckZMWlIxbXdrYk5FdlRIWhIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWEljRlVtLW4wRlhHQXRMWEhVekF3NW1zeHdoV3p3anFVNzdZYVo2WmozN1gyWWdOUXlxRUFSSXVCM2l2LVBaaE9JU1hVTy1pZUZHR3dhclkyQmVjVjVtbkNmOGNybVJvUGxEdjgzUmRLWXNXajJtX1YteVJ6ckZMWlIxbXdrYk5FdlRIWhIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSbjIuVzaEYqSsMCUajq7e3f95fLiPjPYEHaA",
+        "source": "YouTube \u00b7 Brendan Jowett"
+      },
+      {
+        "position": 4,
+        "title": "Video Editing Workflow Management Automations & AI ...",
+        "link": "https://www.google.com/goto?url=CAESnQEBxCJF12ctYTgyrXMN9Z_seVCdAOnPH-ctiN8F-IJTlp3MxixAYtuoV_GlWR8ZxcmxD6d99-orqqoYiiIjiP1_3Aczi_ECyWNMpVFFS272y0fr-zE1Ynk-A1TrbdLvlT_o4GMwTOBFiS4-KWgD6GxElt6KMSRScg_MX3GXLHmB9PeFWddAcTbsFO2ZvUuqiVMICesvOH-v8Tib0B-5",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnQEBxCJF1_Dzuph9X6CKVOTax17Jusu_ljZOp46WmbFJ_cyyDszyEhD6OuzXVd6xUnzB6c3Q53hbfjnpuhGdB_BqdULGUfo9xonNkCr-i-VI1NME6FnJgYZpOVEEVGyx8Sunm7liGqwtGOCpcjSMo5-D8PnpNQiZ1b_aqCnd1m3S31LTTUREqLZiGGZK8yWVe7mrUg_I7BOijLUoeL6B&ved=2ahUKEwihrcHB25uYAxU6kWoFHa5pIr4QFnoECBgQAQ&uoh=1",
+        "displayed_link": "https://zapier.com \u203a ... \u203a Content & media production",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcAQMAAABIw03XAAAAA1BMVEX_TwBuA1r9AAAAC0lEQVR4AWMYRAAAAIwAASLW8i0AAAAASUVORK5CYII.png",
+        "snippet": "No-code automation. Automatically organize and move video editing workflows across briefs, assets, reviews, and publishing steps. automation uses software to ...",
+        "snippet_highlighted_words": [
+          "Automatically organize and move video editing workflows"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "No-code automation. Automatically organize and move video editing workflows across briefs, assets, reviews, and publishing steps. automation uses software to ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESnQEBxCJF12ctYTgyrXMN9Z_seVCdAOnPH-ctiN8F-IJTlp3MxixAYtuoV_GlWR8ZxcmxD6d99-orqqoYiiIjiP1_3Aczi_ECyWNMpVFFS272y0fr-zE1Ynk-A1TrbdLvlT_o4GMwTOBFiS4-KWgD6GxElt6KMSRScg_MX3GXLHmB9PeFWddAcTbsFO2ZvUuqiVMICesvOH-v8Tib0B-5",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcAQMAAABIw03XAAAAA1BMVEX_TwBuA1r9AAAAC0lEQVR4AWMYRAAAAIwAASLW8i0AAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuIBL2dvdG8_dXJsPUNBRVNuUUVCeENKRjEyY3RZVGd5clhNTjlaX3NlVkNkQU9uUEgtY3RpTjhGLUlKVGxwM014aXhBWXR1b1ZfR2xXUjhaeGNteEQ2ZDk5LW9ycXFvWWlpSWppUDFfM0FjemlfRUN5V05NcFZGRlMyNzJ5MGZyLXpFMVluay1BMVRyYmRMdmxUX280R013VE9CRmlTNC1LV2dENkd4RWx0NktNU1JTY2dfTVgzR1hMSG1COVBlRldkZEFjVGJzRk8yWnZVdXFpVk1JQ2Vzdk9ILXY4VGliMEItNRIEGgIIABrOBhIAGgAiACoAMgYIAhICdWs6AEIECAEQAEoAWgByAHoAgkCqBggAEAAYACAAKgoKA2hvdxXeBs0_KgkKAnRvFQAAAAAqRAoIYXV0b21hdGUVYO4RQBoJYXV0b21hdGVkGg1hdXRvbWF0aWNhbGx5GgphdXRvbWF0aW9uGg1pdjtwO2F1dG9tYXRlKiIKBXZpZGVvFSMnmEAaBnZpZGVvcxoMdmlkZW9lZGl0aW5nKjQKB2VkaXRpbmcVWKiJQBoGZWRpdG9yGgdlZGl0b3JzGgVlZGl0cxoMdmlkZW9lZGl0aW5nKioKCXdvcmtmbG93cxVm45lAGgh3b3JrZmxvdxoOaXY7cDt3b3JrZmxvd3MqFwoHd2l0aG91dBVGpOY_GgJubxoDbm90Kj8KBmNvZGluZxVwiJ89GgRjb2RlGgtwcm9ncmFtbWluZxoLaXY7cDtjb2RpbmcaBWNvZGVyGglzY3JpcHRpbmcy4gEvZ290bz91cmw9Q0FFU25RRUJ4Q0pGMTJjdFlUZ3lyWE1OOVpfc2VWQ2RBT25QSC1jdGlOOEYtSUpUbHAzTXhpeEFZdHVvVl9HbFdSOFp4Y214RDZkOTktb3JxcW9ZaWlJamlQMV8zQWN6aV9FQ3lXTk1wVkZGUzI3MnkwZnItekUxWW5rLUExVHJiZEx2bFRfbzRHTXdUT0JGaVM0LUtXZ0Q2R3hFbHQ2S01TUlNjZ19NWDNHWExIbUI5UGVGV2RkQWNUYnNGTzJadlV1cWlWTUlDZXN2T0gtdjhUaWIwQi01OkE8Yj5WaWRlbyBFZGl0aW5nIFdvcmtmbG93PC9iPiBNYW5hZ2VtZW50IEF1dG9tYXRpb25zICZhbXA7IEFJIC4uLkKtAU5vLWNvZGUgYXV0b21hdGlvbi4gPGI-QXV0b21hdGljYWxseSBvcmdhbml6ZSBhbmQgbW92ZSB2aWRlbyBlZGl0aW5nIHdvcmtmbG93czwvYj4gYWNyb3NzIGJyaWVmcywgYXNzZXRzLCByZXZpZXdzLCBhbmQgcHVibGlzaGluZyBzdGVwcy4gYXV0b21hdGlvbiB1c2VzIHNvZnR3YXJlIHRvJm5ic3A7Li4uSgJ0b1ICbm9SA25vdCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuIBL2dvdG8_dXJsPUNBRVNuUUVCeENKRjEyY3RZVGd5clhNTjlaX3NlVkNkQU9uUEgtY3RpTjhGLUlKVGxwM014aXhBWXR1b1ZfR2xXUjhaeGNteEQ2ZDk5LW9ycXFvWWlpSWppUDFfM0FjemlfRUN5V05NcFZGRlMyNzJ5MGZyLXpFMVluay1BMVRyYmRMdmxUX280R013VE9CRmlTNC1LV2dENkd4RWx0NktNU1JTY2dfTVgzR1hMSG1COVBlRldkZEFjVGJzRk8yWnZVdXFpVk1JQ2Vzdk9ILXY4VGliMEItNRIEGgIIABrOBhIAGgAiACoAMgYIAhICdWs6AEIECAEQAEoAWgByAHoAgkCqBggAEAAYACAAKgoKA2hvdxXeBs0_KgkKAnRvFQAAAAAqRAoIYXV0b21hdGUVYO4RQBoJYXV0b21hdGVkGg1hdXRvbWF0aWNhbGx5GgphdXRvbWF0aW9uGg1pdjtwO2F1dG9tYXRlKiIKBXZpZGVvFSMnmEAaBnZpZGVvcxoMdmlkZW9lZGl0aW5nKjQKB2VkaXRpbmcVWKiJQBoGZWRpdG9yGgdlZGl0b3JzGgVlZGl0cxoMdmlkZW9lZGl0aW5nKioKCXdvcmtmbG93cxVm45lAGgh3b3JrZmxvdxoOaXY7cDt3b3JrZmxvd3MqFwoHd2l0aG91dBVGpOY_GgJubxoDbm90Kj8KBmNvZGluZxVwiJ89GgRjb2RlGgtwcm9ncmFtbWluZxoLaXY7cDtjb2RpbmcaBWNvZGVyGglzY3JpcHRpbmcy4gEvZ290bz91cmw9Q0FFU25RRUJ4Q0pGMTJjdFlUZ3lyWE1OOVpfc2VWQ2RBT25QSC1jdGlOOEYtSUpUbHAzTXhpeEFZdHVvVl9HbFdSOFp4Y214RDZkOTktb3JxcW9ZaWlJamlQMV8zQWN6aV9FQ3lXTk1wVkZGUzI3MnkwZnItekUxWW5rLUExVHJiZEx2bFRfbzRHTXdUT0JGaVM0LUtXZ0Q2R3hFbHQ2S01TUlNjZ19NWDNHWExIbUI5UGVGV2RkQWNUYnNGTzJadlV1cWlWTUlDZXN2T0gtdjhUaWIwQi01OkE8Yj5WaWRlbyBFZGl0aW5nIFdvcmtmbG93PC9iPiBNYW5hZ2VtZW50IEF1dG9tYXRpb25zICZhbXA7IEFJIC4uLkKtAU5vLWNvZGUgYXV0b21hdGlvbi4gPGI-QXV0b21hdGljYWxseSBvcmdhbml6ZSBhbmQgbW92ZSB2aWRlbyBlZGl0aW5nIHdvcmtmbG93czwvYj4gYWNyb3NzIGJyaWVmcywgYXNzZXRzLCByZXZpZXdzLCBhbmQgcHVibGlzaGluZyBzdGVwcy4gYXV0b21hdGlvbiB1c2VzIHNvZnR3YXJlIHRvJm5ic3A7Li4uSgJ0b1ICbm9SA25vdCICEAFIAFgAaAA",
+        "source": "Zapier"
+      },
+      {
+        "position": 5,
+        "title": "3 Ways to Automate Video Editing With Claude Code",
+        "link": "https://www.google.com/goto?url=CAESmQEBxCJF1zhfgeh15Ah1Iqx3JyCM-QSGDjFr2r7lKKUTyCA6vhK02QcmROTiADCz2kNeBmBcpOKX1VXa_9XAw0Vez69rcPXxBaDhqZYf6wRLwlbzbf1cq0xybEQnqYoB1hCYJlL8HtCRE-r9nkyaSEyKcZpxkVUHK69cikL-2rYQMEF5s6Bo_-AchQLNq858fhdpVBm2jHELPkA",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEBxCJF15sQxS2Mzzselhjo03fYI-IOYQ0pdFusg9PIvFUgD4iv_zovVE1UE6OB996tnMlhYl8Wos4PFBdEBOYFfryaQ6Zu9ggZMTn8d1A_MJoLAoyYN5RQRwGGhCjHXQJztKuIF0Jh7iClzlSY9WPa0a5d0uMAcAakgdIKDejxCnN7amuRxo_768NH7eZLB6TLG7iQwR6lmFk&ved=2ahUKEwihrcHB25uYAxU6kWoFHa5pIr4QFnoECBYQAQ&uoh=1",
+        "displayed_link": "3 months ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEVHcEwAAAAAAAAAAAAAAAAAAABwcHCoqKifn58bGxt8fHzKysr___8rKyv5-fnW1tbp6emQkJCsrKxaWlq0tLTBwcE-Pj777dpoAAAABnRSTlMAS8D5_5mXKh4CAAAA3ElEQVR4AXzRUQ6EIAwEUNRZClgFQb3_UbfQEDUbd76qL5WMGGOGccJPpnEwkg9e8pE9vGYw4zuOZnrHyeBPFC055zw0wTkKN8TMzEHHZWWOuCMJJh03QXpgrlr0IzLmB-6L4KzHZ0Ub947-EF3q4rI3zByuzSLogDOiYeCICxGZVxmsYuR8x9DaJFQkL3UoX-iTvNg2xbPVvrB37ZgfeGr7_tl0Q_2HXjEjSe0HWnlWJGz1DEXEAsla2lyXcIj2K6O6Wvr1kQXCnL7DG9l4kwneBIY3aeJN1HizAwDOfRO3mlC3PQAAAABJRU5ErkJggg.png",
+        "snippet": "Claude Code is an AI agent itself. My workflow starts with a trigger: You can't do it in a virtual environment, you can't do it on a cloud ...",
+        "snippet_highlighted_words": [
+          "Code",
+          "workflow"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Claude Code is an AI agent itself. My workflow starts with a trigger: You can't do it in a virtual environment, you can't do it on a cloud ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESmQEBxCJF1zhfgeh15Ah1Iqx3JyCM-QSGDjFr2r7lKKUTyCA6vhK02QcmROTiADCz2kNeBmBcpOKX1VXa_9XAw0Vez69rcPXxBaDhqZYf6wRLwlbzbf1cq0xybEQnqYoB1hCYJlL8HtCRE-r9nkyaSEyKcZpxkVUHK69cikL-2rYQMEF5s6Bo_-AchQLNq858fhdpVBm2jHELPkA",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEVHcEwAAAAAAAAAAAAAAAAAAABwcHCoqKifn58bGxt8fHzKysr___8rKyv5-fnW1tbp6emQkJCsrKxaWlq0tLTBwcE-Pj777dpoAAAABnRSTlMAS8D5_5mXKh4CAAAA3ElEQVR4AXzRUQ6EIAwEUNRZClgFQb3_UbfQEDUbd76qL5WMGGOGccJPpnEwkg9e8pE9vGYw4zuOZnrHyeBPFC055zw0wTkKN8TMzEHHZWWOuCMJJh03QXpgrlr0IzLmB-6L4KzHZ0Ub947-EF3q4rI3zByuzSLogDOiYeCICxGZVxmsYuR8x9DaJFQkL3UoX-iTvNg2xbPVvrB37ZgfeGr7_tl0Q_2HXjEjSe0HWnlWJGz1DEXEAsla2lyXcIj2K6O6Wvr1kQXCnL7DG9l4kwneBIY3aeJN1HizAwDOfRO3mlC3PQAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCeENKRjF6aGZnZWgxNUFoMUlxeDNKeUNNLVFTR0RqRnIycjdsS0tVVHlDQTZ2aEswMlFjbVJPVGlBREN6MmtOZUJtQmNwT0tYMVZYYV85WEF3MFZlejY5cmNQWHhCYURocVpZZjZ3Ukx3bGJ6YmYxY3EweHliRVFucVlvQjFoQ1lKbEw4SHRDUkUtcjlua3lhU0V5S2NacHhrVlVISzY5Y2lrTC0ycllRTUVGNXM2Qm9fLUFjaFFMTnE4NThmaGRwVkJtMmpIRUxQa0ESBBoCCAAazAYSABoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJAqAYIABAAGAAgACoKCgNob3cVa8DQPyoJCgJ0bxUAAAAAKkQKCGF1dG9tYXRlFUx3gkAaCWF1dG9tYXRlZBoNYXV0b21hdGljYWxseRoKYXV0b21hdGlvbhoNaXY7cDthdXRvbWF0ZSoiCgV2aWRlbxWqY81AGgZ2aWRlb3MaDHZpZGVvZWRpdGluZyo0CgdlZGl0aW5nFfAIv0AaBmVkaXRvchoHZWRpdG9ycxoFZWRpdHMaDHZpZGVvZWRpdGluZyoqCgl3b3JrZmxvd3MVrzvXPhoId29ya2Zsb3caDml2O3A7d29ya2Zsb3dzKhcKB3dpdGhvdXQVVhgqPxoCbm8aA25vdCo_CgZjb2RpbmcVo5YiPxoEY29kZRoLcHJvZ3JhbW1pbmcaC2l2O3A7Y29kaW5nGgVjb2RlchoJc2NyaXB0aW5nMt0BL2dvdG8_dXJsPUNBRVNtUUVCeENKRjF6aGZnZWgxNUFoMUlxeDNKeUNNLVFTR0RqRnIycjdsS0tVVHlDQTZ2aEswMlFjbVJPVGlBREN6MmtOZUJtQmNwT0tYMVZYYV85WEF3MFZlejY5cmNQWHhCYURocVpZZjZ3Ukx3bGJ6YmYxY3EweHliRVFucVlvQjFoQ1lKbEw4SHRDUkUtcjlua3lhU0V5S2NacHhrVlVISzY5Y2lrTC0ycllRTUVGNXM2Qm9fLUFjaFFMTnE4NThmaGRwVkJtMmpIRUxQa0E6SDMgV2F5cyB0byA8Yj5BdXRvbWF0ZSBWaWRlbyBFZGl0aW5nPC9iPiBXaXRoIENsYXVkZSA8Yj5Db2RlPC9iPiAtIE1lZGl1bUKpAUNsYXVkZSA8Yj5Db2RlPC9iPiBpcyBhbiBBSSBhZ2VudCBpdHNlbGYuIE15IDxiPndvcmtmbG93PC9iPiBzdGFydHMgd2l0aCBhIHRyaWdnZXI6IFlvdSBjYW4mIzM5O3QgZG8gaXQgaW4gYSB2aXJ0dWFsIGVudmlyb25tZW50LCB5b3UgY2FuJiMzOTt0IGRvIGl0IG9uIGEgY2xvdWQmbmJzcDsuLi5KAnRvUgJub1IDbm90IgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCeENKRjF6aGZnZWgxNUFoMUlxeDNKeUNNLVFTR0RqRnIycjdsS0tVVHlDQTZ2aEswMlFjbVJPVGlBREN6MmtOZUJtQmNwT0tYMVZYYV85WEF3MFZlejY5cmNQWHhCYURocVpZZjZ3Ukx3bGJ6YmYxY3EweHliRVFucVlvQjFoQ1lKbEw4SHRDUkUtcjlua3lhU0V5S2NacHhrVlVISzY5Y2lrTC0ycllRTUVGNXM2Qm9fLUFjaFFMTnE4NThmaGRwVkJtMmpIRUxQa0ESBBoCCAAazAYSABoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJAqAYIABAAGAAgACoKCgNob3cVa8DQPyoJCgJ0bxUAAAAAKkQKCGF1dG9tYXRlFUx3gkAaCWF1dG9tYXRlZBoNYXV0b21hdGljYWxseRoKYXV0b21hdGlvbhoNaXY7cDthdXRvbWF0ZSoiCgV2aWRlbxWqY81AGgZ2aWRlb3MaDHZpZGVvZWRpdGluZyo0CgdlZGl0aW5nFfAIv0AaBmVkaXRvchoHZWRpdG9ycxoFZWRpdHMaDHZpZGVvZWRpdGluZyoqCgl3b3JrZmxvd3MVrzvXPhoId29ya2Zsb3caDml2O3A7d29ya2Zsb3dzKhcKB3dpdGhvdXQVVhgqPxoCbm8aA25vdCo_CgZjb2RpbmcVo5YiPxoEY29kZRoLcHJvZ3JhbW1pbmcaC2l2O3A7Y29kaW5nGgVjb2RlchoJc2NyaXB0aW5nMt0BL2dvdG8_dXJsPUNBRVNtUUVCeENKRjF6aGZnZWgxNUFoMUlxeDNKeUNNLVFTR0RqRnIycjdsS0tVVHlDQTZ2aEswMlFjbVJPVGlBREN6MmtOZUJtQmNwT0tYMVZYYV85WEF3MFZlejY5cmNQWHhCYURocVpZZjZ3Ukx3bGJ6YmYxY3EweHliRVFucVlvQjFoQ1lKbEw4SHRDUkUtcjlua3lhU0V5S2NacHhrVlVISzY5Y2lrTC0ycllRTUVGNXM2Qm9fLUFjaFFMTnE4NThmaGRwVkJtMmpIRUxQa0E6SDMgV2F5cyB0byA8Yj5BdXRvbWF0ZSBWaWRlbyBFZGl0aW5nPC9iPiBXaXRoIENsYXVkZSA8Yj5Db2RlPC9iPiAtIE1lZGl1bUKpAUNsYXVkZSA8Yj5Db2RlPC9iPiBpcyBhbiBBSSBhZ2VudCBpdHNlbGYuIE15IDxiPndvcmtmbG93PC9iPiBzdGFydHMgd2l0aCBhIHRyaWdnZXI6IFlvdSBjYW4mIzM5O3QgZG8gaXQgaW4gYSB2aXJ0dWFsIGVudmlyb25tZW50LCB5b3UgY2FuJiMzOTt0IGRvIGl0IG9uIGEgY2xvdWQmbmJzcDsuLi5KAnRvUgJub1IDbm90IgIQAUgAWABoAA",
+        "source": "Medium \u00b7 Shubho Dey"
+      },
+      {
+        "position": 6,
+        "title": "How to automate video editing with 3 methods",
+        "link": "https://www.google.com/goto?url=CAEScQHEIkXXgS8SXae0sRxV3QpqHzDJbHCekoVuISmuHRWGKchAkXIpok4JMx80NYcO66yloYQ8Osy9ZvDTdB4v8jvNjdJDp5Rb0QJ0E2rPP9Wp9-IKMlDtJGTaLopiomnuvv6o83Efj1k5HwbkizTDd1Xu",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHEIkXXYVaaxKPhqa7ZsS1lDI-t5TalGxnHjvgP3HOEYNhgFFqapqBTQl3TuUaWnJrQOqqlca4L4rLstC-MYPXYomZVKGNZHheZIpl9b6LW3azVLgcMsULKzfaVwVrY8nsgCCI9dlLlfb8432ZEPA7G&ved=2ahUKEwihrcHB25uYAxU6kWoFHa5pIr4QFnoECCEQAQ&uoh=1",
+        "displayed_link": "https://shotstack.io \u203a Learn",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAANlBMVEVHcEwj09Al09Al09Aj09Al09Al09Al09Ak09Al09Ak09Al09Al09Ak09Ak09Ai09Al09Ak09DDulDiAAAAEnRSTlMAH8rVLJL_pFD1XrPnSXgNwzzWGb0XAAAA1klEQVR4AXWS0Q6DIBAET8BBRaH-_882m2rOS9t5YiEZYMGeTCkX-8MMUO0XC8AKbCaiEWhmFcjTt3EvGpUdmM05ZOt36tIfVxgvGYc5DXiNe8hpgRNoJjZplrCmfa8ZDUnDfBtZXSL693lEgq6p8zISGtDNJKsVSErx7EP9ieWTnAHt09Ps6VlfkX-6U6gXckjJw7kCh-funY2G2M1Z73SgKx7hlReUvPgModz2eDIr0H0b0ng-9tbAy13iPVmh-jd5MmXE5B8ssCHwQ0cqyPyHklMwvgEeUwmJ20g6pwAAAABJRU5ErkJggg.png",
+        "date": "12 Jan 2026",
+        "snippet": "No-code platforms can connect to a video API, allowing you to automate video creation from sources like spreadsheets without writing code. For ...",
+        "snippet_highlighted_words": [
+          "automate video creation from sources like spreadsheets"
+        ],
+        "sitelinks": {
+          "inline": [
+            {
+              "title": "Why automate video editing?",
+              "link": "https://www.google.com/goto?url=CAESjAEBxCJF1yBE83VPkDe-SsxKB0q35g4eZR9NJDjVKLG4iY-hUM0Y4huzpmV0XcJZev2Tp8k27xpCP1as5lu_omkfYq_2yBrk90NH55K5edERVatXf0tXzSKNZ8aMYYUdl2YjGkVk_6RwrvdmkN4Ql-lrY_L-lJCBrjHHnyDpzUsPNKvKvVPxVeaCzDlq4w&gsessionid=hcyEm_YFawloZsY6rotzZ4CghCqjW34NpfD28APUj_EFzsUM_w_xTg"
+            },
+            {
+              "title": "How to automate video editing...",
+              "link": "https://www.google.com/goto?url=CAESlwEBxCJF16yT2y1tP-Gyy5Bn5BPdib9BC9FYxJg05mZsYoRMtAv-7tXu3uTyIQIibLE2OnkiwVtEZMcHy_ERDhYSqqUz3INwWntVXKNpItPC3245EpCg8XL-vlVgXmc_90HNQIybL66NgBtZ0uDGrfwhV8jJ2Ox4KlPpn0luLvyfQx5XuIapHdxQ0VFYVU5jD24OxtfeT34p&gsessionid=hcyEm_YFawloZsY6rotzZ4CghCqjW34NpfD28APUj_EFzsUM_w_xTg"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "No-code platforms can connect to a video API, allowing you to automate video creation from sources like spreadsheets without writing code. For ...",
+            "source_info_link": "https://www.google.com/goto?url=CAEScQHEIkXXgS8SXae0sRxV3QpqHzDJbHCekoVuISmuHRWGKchAkXIpok4JMx80NYcO66yloYQ8Osy9ZvDTdB4v8jvNjdJDp5Rb0QJ0E2rPP9Wp9-IKMlDtJGTaLopiomnuvv6o83Efj1k5HwbkizTDd1Xu",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAANlBMVEVHcEwj09Al09Al09Aj09Al09Al09Al09Ak09Al09Ak09Al09Al09Ak09Ak09Ai09Al09Ak09DDulDiAAAAEnRSTlMAH8rVLJL_pFD1XrPnSXgNwzzWGb0XAAAA1klEQVR4AXWS0Q6DIBAET8BBRaH-_882m2rOS9t5YiEZYMGeTCkX-8MMUO0XC8AKbCaiEWhmFcjTt3EvGpUdmM05ZOt36tIfVxgvGYc5DXiNe8hpgRNoJjZplrCmfa8ZDUnDfBtZXSL693lEgq6p8zISGtDNJKsVSErx7EP9ieWTnAHt09Ps6VlfkX-6U6gXckjJw7kCh-funY2G2M1Z73SgKx7hlReUvPgModz2eDIr0H0b0ng-9tbAy13iPVmh-jd5MmXE5B8ssCHwQ0cqyPyHklMwvgEeUwmJ20g6pwAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqYBL2dvdG8_dXJsPUNBRVNjUUhFSWtYWGdTOFNYYWUwc1J4VjNRcHFIekRKYkhDZWtvVnVJU211SFJXR0tjaEFrWElwb2s0Sk14ODBOWWNPNjZ5bG9ZUThPc3k5WnZEVGRCNHY4anZOamRKRHA1UmIwUUowRTJyUFA5V3A5LUlLTWxEdEpHVGFMb3Bpb21udXZ2Nm84M0VmajFrNUh3YmtpelREZDFYdRIEGgIIABqDBhICCAAaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQN0FCAAQABgAIAAqCgoDaG93FWajuUAqCQoCdG8VAAAAACpECghhdXRvbWF0ZRXrnctAGglhdXRvbWF0ZWQaDWF1dG9tYXRpY2FsbHkaCmF1dG9tYXRpb24aDWl2O3A7YXV0b21hdGUqIgoFdmlkZW8VNHcEQRoGdmlkZW9zGgx2aWRlb2VkaXRpbmcqNAoHZWRpdGluZxWkw_NAGgZlZGl0b3IaB2VkaXRvcnMaBWVkaXRzGgx2aWRlb2VkaXRpbmcqKgoJd29ya2Zsb3dzFcBgjD8aCHdvcmtmbG93Gg5pdjtwO3dvcmtmbG93cyoXCgd3aXRob3V0FRzxoD8aAm5vGgNub3QqPwoGY29kaW5nFQAAAAAaBGNvZGUaC3Byb2dyYW1taW5nGgtpdjtwO2NvZGluZxoFY29kZXIaCXNjcmlwdGluZzKmAS9nb3RvP3VybD1DQUVTY1FIRUlrWFhnUzhTWGFlMHNSeFYzUXBxSHpESmJIQ2Vrb1Z1SVNtdUhSV0dLY2hBa1hJcG9rNEpNeDgwTlljTzY2eWxvWVE4T3N5OVp2RFRkQjR2OGp2TmpkSkRwNVJiMFFKMEUyclBQOVdwOS1JS01sRHRKR1RhTG9waW9tbnV2djZvODNFZmoxazVId2JraXpURGQxWHU6PzxiPkhvdyB0byBhdXRvbWF0ZSB2aWRlbyBlZGl0aW5nPC9iPiB3aXRoIDMgbWV0aG9kcyAtIFNob3RzdGFja0KeAU5vLWNvZGUgcGxhdGZvcm1zIGNhbiBjb25uZWN0IHRvIGEgdmlkZW8gQVBJLCBhbGxvd2luZyB5b3UgdG8gPGI-YXV0b21hdGUgdmlkZW8gY3JlYXRpb24gZnJvbSBzb3VyY2VzIGxpa2Ugc3ByZWFkc2hlZXRzPC9iPiB3aXRob3V0IHdyaXRpbmcgY29kZS4gRm9yJm5ic3A7Li4uSgJ0b1ICbm9SA25vdCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqYBL2dvdG8_dXJsPUNBRVNjUUhFSWtYWGdTOFNYYWUwc1J4VjNRcHFIekRKYkhDZWtvVnVJU211SFJXR0tjaEFrWElwb2s0Sk14ODBOWWNPNjZ5bG9ZUThPc3k5WnZEVGRCNHY4anZOamRKRHA1UmIwUUowRTJyUFA5V3A5LUlLTWxEdEpHVGFMb3Bpb21udXZ2Nm84M0VmajFrNUh3YmtpelREZDFYdRIEGgIIABqDBhICCAAaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQN0FCAAQABgAIAAqCgoDaG93FWajuUAqCQoCdG8VAAAAACpECghhdXRvbWF0ZRXrnctAGglhdXRvbWF0ZWQaDWF1dG9tYXRpY2FsbHkaCmF1dG9tYXRpb24aDWl2O3A7YXV0b21hdGUqIgoFdmlkZW8VNHcEQRoGdmlkZW9zGgx2aWRlb2VkaXRpbmcqNAoHZWRpdGluZxWkw_NAGgZlZGl0b3IaB2VkaXRvcnMaBWVkaXRzGgx2aWRlb2VkaXRpbmcqKgoJd29ya2Zsb3dzFcBgjD8aCHdvcmtmbG93Gg5pdjtwO3dvcmtmbG93cyoXCgd3aXRob3V0FRzxoD8aAm5vGgNub3QqPwoGY29kaW5nFQAAAAAaBGNvZGUaC3Byb2dyYW1taW5nGgtpdjtwO2NvZGluZxoFY29kZXIaCXNjcmlwdGluZzKmAS9nb3RvP3VybD1DQUVTY1FIRUlrWFhnUzhTWGFlMHNSeFYzUXBxSHpESmJIQ2Vrb1Z1SVNtdUhSV0dLY2hBa1hJcG9rNEpNeDgwTlljTzY2eWxvWVE4T3N5OVp2RFRkQjR2OGp2TmpkSkRwNVJiMFFKMEUyclBQOVdwOS1JS01sRHRKR1RhTG9waW9tbnV2djZvODNFZmoxazVId2JraXpURGQxWHU6PzxiPkhvdyB0byBhdXRvbWF0ZSB2aWRlbyBlZGl0aW5nPC9iPiB3aXRoIDMgbWV0aG9kcyAtIFNob3RzdGFja0KeAU5vLWNvZGUgcGxhdGZvcm1zIGNhbiBjb25uZWN0IHRvIGEgdmlkZW8gQVBJLCBhbGxvd2luZyB5b3UgdG8gPGI-YXV0b21hdGUgdmlkZW8gY3JlYXRpb24gZnJvbSBzb3VyY2VzIGxpa2Ugc3ByZWFkc2hlZXRzPC9iPiB3aXRob3V0IHdyaXRpbmcgY29kZS4gRm9yJm5ic3A7Li4uSgJ0b1ICbm9SA25vdCICEAFIAFgAaAA",
+        "source": "Shotstack"
+      },
+      {
+        "position": 7,
+        "title": "7 Video Editing Tasks You Can Automate With ChatGPT or ...",
+        "link": "https://www.google.com/goto?url=CAESnQEBxCJF19MMg9oUGTwIOZIX_FGUceBZetj7GUxnYpS5D8FyMg1_LVcuSojGaBJsVJsmarGoqjIyx_RNTb6zVCmUF1pcJ9E-6BvNbcjRyATN0rNtRrAd2F3s2EKEksrjJhKziMXcWYzcO3jnNPDGpihHamVIAuT4NM0IwNgj9Afg7FC7z3Xj4cZ1Iiuw70SA0v6UwSOi44dQGiD9EXRe",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnQEBxCJF17YNrPaQ_RU2pvtMCLeS3GKs4XhnevBxJIM4LBXWfxr3HRqjio3Gybp4TOfQpm6fij1wQTEuBiRLcSanJdzSFoFAVe1L9HT9EMFg8va8MbgCKxqpcN_58RZL3jZBZaxoASKMJltVQF-5fTQwP982GNSiN9FCEFmTXTKiSf1HMlunF1A3pp5w4jbDFNIj72tnNV8NM_PT8D3a&ved=2ahUKEwihrcHB25uYAxU6kWoFHa5pIr4QFnoECBcQAQ&uoh=1",
+        "displayed_link": "https://www.kapwing.com \u203a resources \u203a 7-video-editing...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAxlBMVEX____-___3vd_3g773iLH4iav4iqD3ipT3iYr4ioH3jHj2h2r63dr3bb3_L5v_OYj_OXn_O2f_PFP_PUH_Piz_QRb_NwD3sZv_OJ7_PY3_QX3_Qjb-SCL2isX-O6L3OWn4wrT5zej7U6z7XK78XaD6XJT5XYX4Xn35X3X5YGr5YV_6YVf8YUv7YkL4XCf40L_1rdj_Lab9PJr_PYP_P3T_QF7_QVH_Qwz7XnD3PEb669v5KYb3Txv_RTv44dD4o9r53e73m4nzh0s_AAAAwklEQVR4AdWQgwHEQBBFN2fbVmxb_Td1sRvIDxZvDNouKBCAQE2dbq8_GI7Gk-ms7jNfLFfrzXa3Pxwb4Ol8CeD11gDB_bG8PCPPV7GEdBe8sTL4_ny_PxhGUAzHCZKkaJphM8jxD-EsXqS1rCjb6-62V4OcZSg1QigPqxEESZXChvnTX7hGZeWDCXqX9ev-YHDmU99ZxWIBtwh61-3bwXFNSdmpMUph6hnAwLMMvXDe4biNd7c_HPvlmYI0CRR_rdQfjP8XrUUdD_wAAAAASUVORK5CYII.png",
+        "date": "5 Nov 2026",
+        "snippet": "Discover 7 video editing tasks you can automate with ChatGPT or Claude, from trimming footage and creating subtitles to dubbing, and B-roll.",
+        "snippet_highlighted_words": [
+          "trimming footage and creating subtitles"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Discover 7 video editing tasks you can automate with ChatGPT or Claude, from trimming footage and creating subtitles to dubbing, and B-roll.",
+            "source_info_link": "https://www.google.com/goto?url=CAESnQEBxCJF19MMg9oUGTwIOZIX_FGUceBZetj7GUxnYpS5D8FyMg1_LVcuSojGaBJsVJsmarGoqjIyx_RNTb6zVCmUF1pcJ9E-6BvNbcjRyATN0rNtRrAd2F3s2EKEksrjJhKziMXcWYzcO3jnNPDGpihHamVIAuT4NM0IwNgj9Afg7FC7z3Xj4cZ1Iiuw70SA0v6UwSOi44dQGiD9EXRe",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAxlBMVEX____-___3vd_3g773iLH4iav4iqD3ipT3iYr4ioH3jHj2h2r63dr3bb3_L5v_OYj_OXn_O2f_PFP_PUH_Piz_QRb_NwD3sZv_OJ7_PY3_QX3_Qjb-SCL2isX-O6L3OWn4wrT5zej7U6z7XK78XaD6XJT5XYX4Xn35X3X5YGr5YV_6YVf8YUv7YkL4XCf40L_1rdj_Lab9PJr_PYP_P3T_QF7_QVH_Qwz7XnD3PEb669v5KYb3Txv_RTv44dD4o9r53e73m4nzh0s_AAAAwklEQVR4AdWQgwHEQBBFN2fbVmxb_Td1sRvIDxZvDNouKBCAQE2dbq8_GI7Gk-ms7jNfLFfrzXa3Pxwb4Ol8CeD11gDB_bG8PCPPV7GEdBe8sTL4_ny_PxhGUAzHCZKkaJphM8jxD-EsXqS1rCjb6-62V4OcZSg1QigPqxEESZXChvnTX7hGZeWDCXqX9ev-YHDmU99ZxWIBtwh61-3bwXFNSdmpMUph6hnAwLMMvXDe4biNd7c_HPvlmYI0CRR_rdQfjP8XrUUdD_wAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuIBL2dvdG8_dXJsPUNBRVNuUUVCeENKRjE5TU1nOW9VR1R3SU9aSVhfRkdVY2VCWmV0ajdHVXhuWXBTNUQ4RnlNZzFfTFZjdVNvakdhQkpzVkpzbWFyR29xakl5eF9STlRiNnpWQ21VRjFwY0o5RS02QnZOYmNqUnlBVE4wck50UnJBZDJGM3MyRUtFa3NyakpoS3ppTVhjV1l6Y08zam5OUERHcGloSGFtVklBdVQ0Tk0wSXdOZ2o5QWZnN0ZDN3ozWGo0Y1oxSWl1dzcwU0EwdjZVd1NPaTQ0ZFFHaUQ5RVhSZRIEGgIIABq7BhIAGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkCXBggAEAAYACAAKgoKA2hvdxX3Rbo_KgkKAnRvFQAAAAAqRAoIYXV0b21hdGUVxJCiQBoJYXV0b21hdGVkGg1hdXRvbWF0aWNhbGx5GgphdXRvbWF0aW9uGg1pdjtwO2F1dG9tYXRlKiIKBXZpZGVvFbTJ00AaBnZpZGVvcxoMdmlkZW9lZGl0aW5nKjQKB2VkaXRpbmcVTMDKQBoGZWRpdG9yGgdlZGl0b3JzGgVlZGl0cxoMdmlkZW9lZGl0aW5nKioKCXdvcmtmbG93cxUZhMc_Ggh3b3JrZmxvdxoOaXY7cDt3b3JrZmxvd3MqFwoHd2l0aG91dBV8KoU_GgJubxoDbm90Kj8KBmNvZGluZxXC57g_GgRjb2RlGgtwcm9ncmFtbWluZxoLaXY7cDtjb2RpbmcaBWNvZGVyGglzY3JpcHRpbmcy4gEvZ290bz91cmw9Q0FFU25RRUJ4Q0pGMTlNTWc5b1VHVHdJT1pJWF9GR1VjZUJaZXRqN0dVeG5ZcFM1RDhGeU1nMV9MVmN1U29qR2FCSnNWSnNtYXJHb3FqSXl4X1JOVGI2elZDbVVGMXBjSjlFLTZCdk5iY2pSeUFUTjByTnRSckFkMkYzczJFS0Vrc3JqSmhLemlNWGNXWXpjTzNqbk5QREdwaWhIYW1WSUF1VDROTTBJd05najlBZmc3RkM3ejNYajRjWjFJaXV3NzBTQTB2NlV3U09pNDRkUUdpRDlFWFJlOkg3IDxiPlZpZGVvIEVkaXRpbmc8L2I-IFRhc2tzIFlvdSBDYW4gPGI-QXV0b21hdGU8L2I-IFdpdGggQ2hhdEdQVCBvciAuLi5CkwFEaXNjb3ZlciA3IHZpZGVvIGVkaXRpbmcgdGFza3MgeW91IGNhbiBhdXRvbWF0ZSB3aXRoIENoYXRHUFQgb3IgQ2xhdWRlLCBmcm9tIDxiPnRyaW1taW5nIGZvb3RhZ2UgYW5kIGNyZWF0aW5nIHN1YnRpdGxlczwvYj4gdG8gZHViYmluZywgYW5kIEItcm9sbC5KAnRvUgJub1IDbm90IgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuIBL2dvdG8_dXJsPUNBRVNuUUVCeENKRjE5TU1nOW9VR1R3SU9aSVhfRkdVY2VCWmV0ajdHVXhuWXBTNUQ4RnlNZzFfTFZjdVNvakdhQkpzVkpzbWFyR29xakl5eF9STlRiNnpWQ21VRjFwY0o5RS02QnZOYmNqUnlBVE4wck50UnJBZDJGM3MyRUtFa3NyakpoS3ppTVhjV1l6Y08zam5OUERHcGloSGFtVklBdVQ0Tk0wSXdOZ2o5QWZnN0ZDN3ozWGo0Y1oxSWl1dzcwU0EwdjZVd1NPaTQ0ZFFHaUQ5RVhSZRIEGgIIABq7BhIAGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkCXBggAEAAYACAAKgoKA2hvdxX3Rbo_KgkKAnRvFQAAAAAqRAoIYXV0b21hdGUVxJCiQBoJYXV0b21hdGVkGg1hdXRvbWF0aWNhbGx5GgphdXRvbWF0aW9uGg1pdjtwO2F1dG9tYXRlKiIKBXZpZGVvFbTJ00AaBnZpZGVvcxoMdmlkZW9lZGl0aW5nKjQKB2VkaXRpbmcVTMDKQBoGZWRpdG9yGgdlZGl0b3JzGgVlZGl0cxoMdmlkZW9lZGl0aW5nKioKCXdvcmtmbG93cxUZhMc_Ggh3b3JrZmxvdxoOaXY7cDt3b3JrZmxvd3MqFwoHd2l0aG91dBV8KoU_GgJubxoDbm90Kj8KBmNvZGluZxXC57g_GgRjb2RlGgtwcm9ncmFtbWluZxoLaXY7cDtjb2RpbmcaBWNvZGVyGglzY3JpcHRpbmcy4gEvZ290bz91cmw9Q0FFU25RRUJ4Q0pGMTlNTWc5b1VHVHdJT1pJWF9GR1VjZUJaZXRqN0dVeG5ZcFM1RDhGeU1nMV9MVmN1U29qR2FCSnNWSnNtYXJHb3FqSXl4X1JOVGI2elZDbVVGMXBjSjlFLTZCdk5iY2pSeUFUTjByTnRSckFkMkYzczJFS0Vrc3JqSmhLemlNWGNXWXpjTzNqbk5QREdwaWhIYW1WSUF1VDROTTBJd05najlBZmc3RkM3ejNYajRjWjFJaXV3NzBTQTB2NlV3U09pNDRkUUdpRDlFWFJlOkg3IDxiPlZpZGVvIEVkaXRpbmc8L2I-IFRhc2tzIFlvdSBDYW4gPGI-QXV0b21hdGU8L2I-IFdpdGggQ2hhdEdQVCBvciAuLi5CkwFEaXNjb3ZlciA3IHZpZGVvIGVkaXRpbmcgdGFza3MgeW91IGNhbiBhdXRvbWF0ZSB3aXRoIENoYXRHUFQgb3IgQ2xhdWRlLCBmcm9tIDxiPnRyaW1taW5nIGZvb3RhZ2UgYW5kIGNyZWF0aW5nIHN1YnRpdGxlczwvYj4gdG8gZHViYmluZywgYW5kIEItcm9sbC5KAnRvUgJub1IDbm90IgIQAUgAWABoAA",
+        "source": "Kapwing"
+      },
+      {
+        "position": 8,
+        "title": "How to Automate Your Video Editing Workflow: No-Code, API ...",
+        "link": "https://www.google.com/goto?url=CAESgAEBxCJF16-3NdO08ElCkDc4ZHRyW9Q31dpZ3uQnigODZC2OO8fikQ_gvtESo-BXxuatBHIvjn-F4CikLUv_flSGfixFdb9xNkj4puEelQ7-S4dW1Rf89GomWQd1LRIG39dy1YvbTAT9eVwPmFmCtj7yC_sausPCfjvbiE0o2W_7sQ",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEBxCJF1_83uywRhMyegBdnJo-DDv-JiJznOidqfQpTHKXxAQCCIDU97qDziSFRApojU_sDYzdmSZdxl_6FF94qIUWioqgZew8X3jzugUxBECUE55wWege4Ku7qwi_iEfkZB3O8O6uIOFkZVd4heg7QpfoxmBAO5HpagVNjVsRh8w&ved=2ahUKEwihrcHB25uYAxU6kWoFHa5pIr4QFnoECBoQAQ&uoh=1",
+        "displayed_link": "https://ilovevideoeditor.com \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEUKCgoAAAD_Skr6R0fvRETzRUW6Nja-NzduISF5JCT2RkYABgZoICB0IyPCODhAFRU8FBTU2IK3AAAAY0lEQVR4AdWOSw6AMAgFS6EfS9Xe_7SyIcQQQ9zp7CaT8Ei_BACeLWMGZ6pIBQyxe6TalFpcRINc7JvSh0bbZMU2w4f8Zhzjs_FDNHdljhebeWA7lCYdLPK5FhhinAxmb9_jAlg8BW0Hx4h3AAAAAElFTkSuQmCC.png",
+        "date": "13 Jul 2026",
+        "snippet": "Three real ways to automate video production: a visual workflow builder, Zapier/Make/n8n integrations, the render API, and AI agents via MCP.",
+        "snippet_highlighted_words": [
+          "visual workflow builder"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Three real ways to automate video production: a visual workflow builder, Zapier/Make/n8n integrations, the render API, and AI agents via MCP.",
+            "source_info_link": "https://www.google.com/goto?url=CAESgAEBxCJF16-3NdO08ElCkDc4ZHRyW9Q31dpZ3uQnigODZC2OO8fikQ_gvtESo-BXxuatBHIvjn-F4CikLUv_flSGfixFdb9xNkj4puEelQ7-S4dW1Rf89GomWQd1LRIG39dy1YvbTAT9eVwPmFmCtj7yC_sausPCfjvbiE0o2W_7sQ",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEUKCgoAAAD_Skr6R0fvRETzRUW6Nja-NzduISF5JCT2RkYABgZoICB0IyPCODhAFRU8FBTU2IK3AAAAY0lEQVR4AdWOSw6AMAgFS6EfS9Xe_7SyIcQQQ9zp7CaT8Ei_BACeLWMGZ6pIBQyxe6TalFpcRINc7JvSh0bbZMU2w4f8Zhzjs_FDNHdljhebeWA7lCYdLPK5FhhinAxmb9_jAlg8BW0Hx4h3AAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrwBL2dvdG8_dXJsPUNBRVNnQUVCeENKRjE2LTNOZE8wOEVsQ2tEYzRaSFJ5VzlRMzFkcFozdVFuaWdPRFpDMk9POGZpa1FfZ3Z0RVNvLUJYeHVhdEJISXZqbi1GNENpa0xVdl9mbFNHZml4RmRiOXhOa2o0cHVFZWxRNy1TNGRXMVJmODlHb21XUWQxTFJJRzM5ZHkxWXZiVEFUOWVWd1BtRm1DdGo3eUNfc2F1c1BDZmp2YmlFMG8yV183c1ESBBoCCAAapwYSABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJAgwYIABAAGAAgACoKCgNob3cVIZSvQCoJCgJ0bxUAAAAAKkQKCGF1dG9tYXRlFSGUr0AaCWF1dG9tYXRlZBoNYXV0b21hdGljYWxseRoKYXV0b21hdGlvbhoNaXY7cDthdXRvbWF0ZSoiCgV2aWRlbxU0fy9BGgZ2aWRlb3MaDHZpZGVvZWRpdGluZyo0CgdlZGl0aW5nFcK3wEAaBmVkaXRvchoHZWRpdG9ycxoFZWRpdHMaDHZpZGVvZWRpdGluZyoqCgl3b3JrZmxvd3MVwdAYPxoId29ya2Zsb3caDml2O3A7d29ya2Zsb3dzKhcKB3dpdGhvdXQVwdAYPhoCbm8aA25vdCo_CgZjb2RpbmcVAAAAABoEY29kZRoLcHJvZ3JhbW1pbmcaC2l2O3A7Y29kaW5nGgVjb2RlchoJc2NyaXB0aW5nMrwBL2dvdG8_dXJsPUNBRVNnQUVCeENKRjE2LTNOZE8wOEVsQ2tEYzRaSFJ5VzlRMzFkcFozdVFuaWdPRFpDMk9POGZpa1FfZ3Z0RVNvLUJYeHVhdEJISXZqbi1GNENpa0xVdl9mbFNHZml4RmRiOXhOa2o0cHVFZWxRNy1TNGRXMVJmODlHb21XUWQxTFJJRzM5ZHkxWXZiVEFUOWVWd1BtRm1DdGo3eUNfc2F1c1BDZmp2YmlFMG8yV183c1E6WTxiPkhvdyB0byBBdXRvbWF0ZTwvYj4gWW91ciA8Yj5WaWRlbyBFZGl0aW5nIFdvcmtmbG93PC9iPjogPGI-Tm88L2I-LTxiPkNvZGU8L2I-LCBBUEkgLi4uQpQBVGhyZWUgcmVhbCB3YXlzIHRvIGF1dG9tYXRlIHZpZGVvIHByb2R1Y3Rpb246IGEgPGI-dmlzdWFsIHdvcmtmbG93IGJ1aWxkZXI8L2I-LCBaYXBpZXIvTWFrZS9uOG4gaW50ZWdyYXRpb25zLCB0aGUgcmVuZGVyIEFQSSwgYW5kIEFJIGFnZW50cyB2aWEgTUNQLkoCdG9SA25vdFICbm8iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrwBL2dvdG8_dXJsPUNBRVNnQUVCeENKRjE2LTNOZE8wOEVsQ2tEYzRaSFJ5VzlRMzFkcFozdVFuaWdPRFpDMk9POGZpa1FfZ3Z0RVNvLUJYeHVhdEJISXZqbi1GNENpa0xVdl9mbFNHZml4RmRiOXhOa2o0cHVFZWxRNy1TNGRXMVJmODlHb21XUWQxTFJJRzM5ZHkxWXZiVEFUOWVWd1BtRm1DdGo3eUNfc2F1c1BDZmp2YmlFMG8yV183c1ESBBoCCAAapwYSABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJAgwYIABAAGAAgACoKCgNob3cVIZSvQCoJCgJ0bxUAAAAAKkQKCGF1dG9tYXRlFSGUr0AaCWF1dG9tYXRlZBoNYXV0b21hdGljYWxseRoKYXV0b21hdGlvbhoNaXY7cDthdXRvbWF0ZSoiCgV2aWRlbxU0fy9BGgZ2aWRlb3MaDHZpZGVvZWRpdGluZyo0CgdlZGl0aW5nFcK3wEAaBmVkaXRvchoHZWRpdG9ycxoFZWRpdHMaDHZpZGVvZWRpdGluZyoqCgl3b3JrZmxvd3MVwdAYPxoId29ya2Zsb3caDml2O3A7d29ya2Zsb3dzKhcKB3dpdGhvdXQVwdAYPhoCbm8aA25vdCo_CgZjb2RpbmcVAAAAABoEY29kZRoLcHJvZ3JhbW1pbmcaC2l2O3A7Y29kaW5nGgVjb2RlchoJc2NyaXB0aW5nMrwBL2dvdG8_dXJsPUNBRVNnQUVCeENKRjE2LTNOZE8wOEVsQ2tEYzRaSFJ5VzlRMzFkcFozdVFuaWdPRFpDMk9POGZpa1FfZ3Z0RVNvLUJYeHVhdEJISXZqbi1GNENpa0xVdl9mbFNHZml4RmRiOXhOa2o0cHVFZWxRNy1TNGRXMVJmODlHb21XUWQxTFJJRzM5ZHkxWXZiVEFUOWVWd1BtRm1DdGo3eUNfc2F1c1BDZmp2YmlFMG8yV183c1E6WTxiPkhvdyB0byBBdXRvbWF0ZTwvYj4gWW91ciA8Yj5WaWRlbyBFZGl0aW5nIFdvcmtmbG93PC9iPjogPGI-Tm88L2I-LTxiPkNvZGU8L2I-LCBBUEkgLi4uQpQBVGhyZWUgcmVhbCB3YXlzIHRvIGF1dG9tYXRlIHZpZGVvIHByb2R1Y3Rpb246IGEgPGI-dmlzdWFsIHdvcmtmbG93IGJ1aWxkZXI8L2I-LCBaYXBpZXIvTWFrZS9uOG4gaW50ZWdyYXRpb25zLCB0aGUgcmVuZGVyIEFQSSwgYW5kIEFJIGFnZW50cyB2aWEgTUNQLkoCdG9SA25vdFICbm8iAhABSABYAGgA",
+        "source": "ilovevideoeditor.com",
+        "read_more_link": "https://www.google.com/goto?url=CAESzAEBxCJF13qmi73oLd0zoSnNHah5XlIxJfn9MhqyPnnJISQh-EHt-6-7I1U9XhxejDTxCiAQ97XV8nfgs-yxWJEG4-H2s17UWIV78jQHu5_qVHFd52_7R_KGieFjXjjKhpuifODC2Li8dc-zXdiqe7mHlQXPzW7v0QVZHw76nS18gUlHmLLX-R-oHvz9tv48-H5-_M2vDhH8xiZxurjUuPh1iLYnBsqbaH3umsdNh-SwUZ99PVldhBCr1gyXOHko2jDMLOGN5_82qnAY33A&gsessionid=hcyEm_YFawloZsY6rotzZ4CghCqjW34NpfD28APUj_EFzsUM_w_xTg"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "How to automate video editing workflows without coding free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDjO9AeBwxaPGpqQyqqkKat3sERYIg:1795355254486&q=How+to+automate+video+editing+workflows+without+coding+free&sa=X&ved=2ahUKEwihrcHB25uYAxU6kWoFHa5pIr4Q1QJ6BAhKEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+automate+video+editing+workflows+without+coding+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Remotion",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDjO9AeBwxaPGpqQyqqkKat3sERYIg:1795355254486&q=Remotion&sa=X&ved=2ahUKEwihrcHB25uYAxU6kWoFHa5pIr4Q1QJ6BAhREAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Remotion"
+      },
+      {
+        "block_position": 1,
+        "query": "Claude Code video editing skill",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDjO9AeBwxaPGpqQyqqkKat3sERYIg:1795355254486&q=Claude+Code+video+editing+skill&sa=X&ved=2ahUKEwihrcHB25uYAxU6kWoFHa5pIr4Q1QJ6BAhQEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Claude+Code+video+editing+skill"
+      },
+      {
+        "block_position": 1,
+        "query": "HyperFrames",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDjO9AeBwxaPGpqQyqqkKat3sERYIg:1795355254486&q=HyperFrames&sa=X&ved=2ahUKEwihrcHB25uYAxU6kWoFHa5pIr4Q1QJ6BAhPEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=HyperFrames"
+      },
+      {
+        "block_position": 1,
+        "query": "Video editing MCP for Claude",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDjO9AeBwxaPGpqQyqqkKat3sERYIg:1795355254486&q=Video+editing+MCP+for+Claude&sa=X&ved=2ahUKEwihrcHB25uYAxU6kWoFHa5pIr4Q1QJ6BAhOEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Video+editing+MCP+for+Claude"
+      },
+      {
+        "block_position": 1,
+        "query": "Remotion Claude Code",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDjO9AeBwxaPGpqQyqqkKat3sERYIg:1795355254486&q=Remotion+Claude+Code&sa=X&ved=2ahUKEwihrcHB25uYAxU6kWoFHa5pIr4Q1QJ6BAhNEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Remotion+Claude+Code"
+      },
+      {
+        "block_position": 1,
+        "query": "Github dayadaup Claude Code auto video edit",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDjO9AeBwxaPGpqQyqqkKat3sERYIg:1795355254486&q=Github+dayadaup+Claude+Code+auto+video+edit&sa=X&ved=2ahUKEwihrcHB25uYAxU6kWoFHa5pIr4Q1QJ6BAhLEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Github+dayadaup+Claude+Code+auto+video+edit"
+      },
+      {
+        "block_position": 1,
+        "query": "Automated video editing",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDjO9AeBwxaPGpqQyqqkKat3sERYIg:1795355254486&q=Automated+video+editing&sa=X&ved=2ahUKEwihrcHB25uYAxU6kWoFHa5pIr4Q1QJ6BAhMEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Automated+video+editing"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=How+to+automate+video+editing+workflows+without+coding&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDjO9AeBwxaPGpqQyqqkKat3sERYIg:1795355254486&ei=dvICa6GaHbqiqtsPrtOJ8Qs&start=10&sa=N&sstk=AYl2yk-4mf3i6LjvJB_PyvGmScaBVqLmUA81Xo9Lp1T26Y3zpm8IOyZZeCieCdEVTjvVsQJfVuIQpeg-T4eOi1LhKLyxiO7YEJEF2w&ved=2ahUKEwihrcHB25uYAxU6kWoFHa5pIr4Q8NMDegQISBAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=How+to+automate+video+editing+workflows+without+coding&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDjO9AeBwxaPGpqQyqqkKat3sERYIg:1795355254486&ei=dvICa6GaHbqiqtsPrtOJ8Qs&start=10&sa=N&sstk=AYl2yk-4mf3i6LjvJB_PyvGmScaBVqLmUA81Xo9Lp1T26Y3zpm8IOyZZeCieCdEVTjvVsQJfVuIQpeg-T4eOi1LhKLyxiO7YEJEF2w&ved=2ahUKEwihrcHB25uYAxU6kWoFHa5pIr4Q8tMDegQISBAE",
+        "3": "https://www.google.com/search?q=How+to+automate+video+editing+workflows+without+coding&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDjO9AeBwxaPGpqQyqqkKat3sERYIg:1795355254486&ei=dvICa6GaHbqiqtsPrtOJ8Qs&start=20&sa=N&sstk=AYl2yk-4mf3i6LjvJB_PyvGmScaBVqLmUA81Xo9Lp1T26Y3zpm8IOyZZeCieCdEVTjvVsQJfVuIQpeg-T4eOi1LhKLyxiO7YEJEF2w&ved=2ahUKEwihrcHB25uYAxU6kWoFHa5pIr4Q8tMDegQISBAG",
+        "4": "https://www.google.com/search?q=How+to+automate+video+editing+workflows+without+coding&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDjO9AeBwxaPGpqQyqqkKat3sERYIg:1795355254486&ei=dvICa6GaHbqiqtsPrtOJ8Qs&start=30&sa=N&sstk=AYl2yk-4mf3i6LjvJB_PyvGmScaBVqLmUA81Xo9Lp1T26Y3zpm8IOyZZeCieCdEVTjvVsQJfVuIQpeg-T4eOi1LhKLyxiO7YEJEF2w&ved=2ahUKEwihrcHB25uYAxU6kWoFHa5pIr4Q8tMDegQISBAI",
+        "5": "https://www.google.com/search?q=How+to+automate+video+editing+workflows+without+coding&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDjO9AeBwxaPGpqQyqqkKat3sERYIg:1795355254486&ei=dvICa6GaHbqiqtsPrtOJ8Qs&start=40&sa=N&sstk=AYl2yk-4mf3i6LjvJB_PyvGmScaBVqLmUA81Xo9Lp1T26Y3zpm8IOyZZeCieCdEVTjvVsQJfVuIQpeg-T4eOi1LhKLyxiO7YEJEF2w&ved=2ahUKEwihrcHB25uYAxU6kWoFHa5pIr4Q8tMDegQISBAK",
+        "6": "https://www.google.com/search?q=How+to+automate+video+editing+workflows+without+coding&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDjO9AeBwxaPGpqQyqqkKat3sERYIg:1795355254486&ei=dvICa6GaHbqiqtsPrtOJ8Qs&start=50&sa=N&sstk=AYl2yk-4mf3i6LjvJB_PyvGmScaBVqLmUA81Xo9Lp1T26Y3zpm8IOyZZeCieCdEVTjvVsQJfVuIQpeg-T4eOi1LhKLyxiO7YEJEF2w&ved=2ahUKEwihrcHB25uYAxU6kWoFHa5pIr4Q8tMDegQISBAM",
+        "7": "https://www.google.com/search?q=How+to+automate+video+editing+workflows+without+coding&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDjO9AeBwxaPGpqQyqqkKat3sERYIg:1795355254486&ei=dvICa6GaHbqiqtsPrtOJ8Qs&start=60&sa=N&sstk=AYl2yk-4mf3i6LjvJB_PyvGmScaBVqLmUA81Xo9Lp1T26Y3zpm8IOyZZeCieCdEVTjvVsQJfVuIQpeg-T4eOi1LhKLyxiO7YEJEF2w&ved=2ahUKEwihrcHB25uYAxU6kWoFHa5pIr4Q8tMDegQISBAO",
+        "8": "https://www.google.com/search?q=How+to+automate+video+editing+workflows+without+coding&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDjO9AeBwxaPGpqQyqqkKat3sERYIg:1795355254486&ei=dvICa6GaHbqiqtsPrtOJ8Qs&start=70&sa=N&sstk=AYl2yk-4mf3i6LjvJB_PyvGmScaBVqLmUA81Xo9Lp1T26Y3zpm8IOyZZeCieCdEVTjvVsQJfVuIQpeg-T4eOi1LhKLyxiO7YEJEF2w&ved=2ahUKEwihrcHB25uYAxU6kWoFHa5pIr4Q8tMDegQISBAQ",
+        "9": "https://www.google.com/search?q=How+to+automate+video+editing+workflows+without+coding&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDjO9AeBwxaPGpqQyqqkKat3sERYIg:1795355254486&ei=dvICa6GaHbqiqtsPrtOJ8Qs&start=80&sa=N&sstk=AYl2yk-4mf3i6LjvJB_PyvGmScaBVqLmUA81Xo9Lp1T26Y3zpm8IOyZZeCieCdEVTjvVsQJfVuIQpeg-T4eOi1LhKLyxiO7YEJEF2w&ved=2ahUKEwihrcHB25uYAxU6kWoFHa5pIr4Q8tMDegQISBAS",
+        "10": "https://www.google.com/search?q=How+to+automate+video+editing+workflows+without+coding&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDjO9AeBwxaPGpqQyqqkKat3sERYIg:1795355254486&ei=dvICa6GaHbqiqtsPrtOJ8Qs&start=90&sa=N&sstk=AYl2yk-4mf3i6LjvJB_PyvGmScaBVqLmUA81Xo9Lp1T26Y3zpm8IOyZZeCieCdEVTjvVsQJfVuIQpeg-T4eOi1LhKLyxiO7YEJEF2w&ved=2ahUKEwihrcHB25uYAxU6kWoFHa5pIr4Q8tMDegQISBAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+automate+video+editing+workflows+without+coding&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+automate+video+editing+workflows+without+coding&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+automate+video+editing+workflows+without+coding&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+automate+video+editing+workflows+without+coding&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+automate+video+editing+workflows+without+coding&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+automate+video+editing+workflows+without+coding&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+automate+video+editing+workflows+without+coding&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+automate+video+editing+workflows+without+coding&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+automate+video+editing+workflows+without+coding&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+automate+video+editing+workflows+without+coding&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+automate+video+editing+workflows+without+coding&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

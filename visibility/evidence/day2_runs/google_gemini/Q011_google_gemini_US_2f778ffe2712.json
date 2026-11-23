@@ -1,0 +1,330 @@
+{
+  "measurement_id": "2f778ffe2712",
+  "question_id": "Q011",
+  "timestamp_utc": "2026-11-23T08:59:56.672708+00:00",
+  "provider_name": "Google Gemini",
+  "model_identifier": "gemini-2.5-flash",
+  "question": "IncuBrix vs Descript comparison for podcasters and creators",
+  "market": "US",
+  "collection_method": "DAY_2_AUTOMATED_API",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": true,
+  "competitors_mentioned": [
+    "Descript"
+  ],
+  "position": null,
+  "citations": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcsTP7Ka3E_l_ngND8wroghDVj5SD6N2Jo7c32o22zodHHMnmQyPM3yTPm0IRGyE3j3j7090rJMfUlW52QzGpG1nI8u0BvYD8V5fYt6E6Z2t8lr0-IavJHO3XCPQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPlnGq5bLwU1T1bGUtFYVtFuO-YqqZVajrEU_krlmajSpICmyeT7HHUADgQBajJQ7gXeTnKmavxfF9tSd57JikYn5DXDjRktiRDzOMxRrl2-EhRv4029rAYbNeWpQg2n1PYb2si0U=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_vtDk1pdv1y6Yn6e4EuxPj04xHImNRc80EusQbzpbHm_3gaLUKshB1Jhm1aqLal5Jd40XbwnqMdCft40CCvjAyWc9xY2aTG35xS8r-kudTph5XoT4XxyZDTp9vgrIvufKDMcIvNo=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx8rwCRsyu2MuHSkesB5jWltuFj5P3M7sH__kQFHesj2NPZW_a3fYvUcDyKbGkGoisTE50dwNx3VsPC5kDM_mZOJQ4O_rebyZvFZsnjt7dkd7lX8w=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLIq4-bSL-UkO4CxUyp4jBUBlVqc2R3utWZtYqhl3DkEGSE2OLjVuW8v3ELJPT56NP1yzTbhOnTS8MZMXQ6wT47zW51uiRTj7aMnh4h-FCrizkUeM1T0hAoaTaPyiv9vyLEzI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMOjw2MD62YxnrqwxWBig8Qkk7y6tHnnVsJw0Fs_tA6RmrYuRGtn4pWzUbWMzmj_oPxYk-Qx2octKCrNMB9LqT5mPvOGkAVOIh_hqE1ozqT0QIv_nlYZ_21uP9UfAV",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK4Xx290d3mehzhGBW9d8VUwCu2wKxg45wY-43GfocaxomW80Q2ec9jh7HuTKtRwC3pldLytQdKuAwW1aYQSsCyXzuBPHJ5nrjAtp4PBKa8nhKiK40EAYcUBEfAR3k4iXlkWhhYEceGko1yH-rbY-Z7r30_PXhxFjZ0lmDk9n2gf2C-Q4AbZJj8gAbrK2dts43hFI=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt22rNWS30u8EUGHV-4BzES5Y1x8y6JYIBhZCmjCpDLDDZGF4mJVpN6ndE2JzrxmRP0W-6Ty1pDuiMkSyVjSLFxQ79QJ2vycTSWEnnyZqfKGJZxlRWGkpa2grLXj0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx1Tyo-RN4Omc6TElvCnkY8vJnRzWyJu12XxqR5pR0G-NH0QT1PUMn98eE-P5szSDeYfUkxoE4dgdbFCuS0VityCLgSaJNRha4p1YOu-tIQF03WuRz3Rk9rEIrGIUFEkfVyNLZE1MQnQn0_QBV2r-lvB0JJoY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw9-K_ShXSS-EEk19tC8WAy-ze2FcehkXLUekm4Im3z3G4fS_19VMQHWk3uveQvO7lPxvIOgEHQXmy7VZrXORnzU6rO5G4kArvwDo8QPoUICOjvdsbT7qbHjz_BOAC-EYKYWsPUw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUUDngJYOvY-UFgrMnZjglI-oQMPNjgUKM04-hjrf2p7E6YipJtAxtlTL5i35OwIlJwA_LznjiMPZD8vl2RmNhV8YeYykgcHupyLKmdwXPJwKYWy7pwRPCW8y6JOXj5LTb9wFN9IDF9kfiOxzqrZtqT4VqISx5R-6K8xU15R9zaCjWUxPmLnVQjcxJC55B8DDI5Js835G5R2GCLkXLpR9J3w6_1UgpQAOQlqJzsXjR",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHBG_vG_tAfLOv9n5PVCFpGkB-ptL5dWvAutdmG4voLtWBX8QKnyz1XjtcuTqofggDOEIIX9KfFPAGbG9qn9jFUIVSWtWm0vD_eEVRH1PueA2I5Zzs8CH2R_eDOYZ7-Vhqw3YevHQWT72LvFvS",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF5gcMu36kyyVohSDd19bl-XLNXJ-q2iZs46OH1fNGbq0_LDBQ8QEJWUuipXorLmIeaFbxLbSfyQADs05TXajTo-UIhagjxeUAxu5rkGYG3gNXFSwdO79hCuIDaJpda3JnkVpriBRGmIwpyF_dTHpGgNHgbukOYQfE4oDXPTZLryN_AnOdzzRTlB0yM5oszW7NrNw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGC9q_UOkmohmSfzmMbC94MKN1xGwdfzeYUOPNl1aruy8e7PddnhSa2Xd9NWcpDB6EiG71SdPhYdmew5jCFqsjcp7UfiwYYBsPPl4LczhamvVVEbbSj7_3Fji4cFeY-AUcK3Gi6w5wgGsbuVBg4GIuMriZH91O0rdnmCpF5GKdaSeN51nX-YwIHO21lIGWTLnXKC6pmvaztugjZENQAiR7OZT-si7GdHA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuTLY55WAYVJoJSGnGTTy6NNMj5S_abVKdmxsYEYgIlRrGQKyZGDKXevc9rYPp1ObPnVGKoN7tpb_Y6oMTCNpvSzB8qhe6lo3JacVCakuA3Q-wIUzeOv7S1jX9LoUqSEE2ZqNKF6ks6wIFmd89xLtTrmSXZN8V_pV4WJBmjNCTV44-4i56OrevvfDa2XaDYIVoZlrAj3x5uDsu2of5OYeX73h0HXjG1w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyfzHZM2dKVGSudDSThMFbwwL_uHH9i7J8x8PbX0OvP7AxiVFk8Tl7niM6956RtQ3yIVj76v1wl3MSgOO9Sw3Nl6bVep8K1fKFMBqjoe7L3s9b9Wzz0AihfAnc31imMWP0V2mF92NVAMrwjH4TGVEA903z6nuqHS_9ruwMPsmdV2-FOC6KvMQ0EZKvc2COEbvoTm9fTweGHEyy_qkfOn1t4a4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlPw1vZ7G6j9x9NiuVePuyqG4qoWFtakRJiXAGBNRISr3IjrKLeV1qR0FwTKYJ9mY_YPNxdsgCZ82TfhhRLSNYtue8sc_4B14ld9xAMoEeTwZdIkgAtxq28Fo6SNF2hGH4XOxw4cchWvr8ZWN-8FVBeLV9mnVdEONaavRQNWh2a3LJ7JHWaG0Qk8Y7By64XUTNYbI5",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-Js2og4_vvP3ih39gsb54RvgFIxfTpvSnk5yK6k3T5daiDC7BCjEfNcRhmvPu-sgpLlm7hc23m_Tr1mstYljKqGmyRYurtNuQbA8fqF81NM_TKwsqXCaA4dea5o_Z5pHZm2J2edtyUSbdsO-KRRmtnrSnef3anjVA_RWREolWFK2U7XU-1WnCOE0FF6C9-W4kzO8=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpnyg9mKAsad3LGF3HbffezZdeiQ26qcNwboaSTt7kx7pFq7fco6Fjdx5zni1soHUMdNgZo-sSRKQ5lFx0VRvcA00BRI39Pk7HRr4UJRJfwGCmeb4kFOuoc-DmhYnA7veSU3YvPouauCiq147GbGmQ7bE9CywW0UonZ_BW5louyngzBL4d-KuGt0mF0bvEFCw8UwQ4"
+  ],
+  "raw_text_summary": "For podcasters and creators, choosing between IncuBrix and Descript depends largely on whether the primary need is an all-in-one AI-powered editing suite focused on spoken-word content (Descript) or a broader \"Creator Hub\" emphasizing AI-assisted content generation, repurposing, and multi-platform publishing (IncuBrix).\n\nHere's an objective comparison:\n\n### Descript\n\n**Overview:**\nDescript is an AI video and audio editor that allows users to record, transcribe, edit, refine, share, and repurpose video and audio content by editing text. It is particularly well-suited for spoken-word content like podcasts, interviews, and talking-head videos.\n\n**Key Features for Podcasters and Creators:**\n*   **Text-Based Editing:** A core feature that enables users to edit audio and video by directly editing the automatically generated transcript. Deleting words in the transcript removes the corresponding media, and moving sentences rearranges the footage. This can significantly speed up the editing process for dialogue-heavy content.\n*   **AI Tools:**\n    *   **Studio Sound:** An AI audio filter that removes background noise and echo while enhancing the speaking voice with a single click.\n    *   **Remove Filler Words:** Automatically identifies and removes filler words (e.g., \"um,\" \"uh\") and retakes.\n    *   **Underlord (AI Co-editor):** An AI assistant that can perform editing tasks, cut filler, pick best takes, add scenes, and generate clips.\n    *   **AI Speech/Overdub:** Allows for voice cloning and regenerating or adding narration with AI voices.\n    *   **Create Clips:** Generates short clips from longer content for social media.\n*   **Recording Capabilities:** Offers screen, camera, and microphone recording, as well as remote recording rooms for guests, with local recording for quality assurance.\n*   **Transcription and Captions:** Provides automatic transcription and tools for generating captions and subtitles, including translation.\n*   **Multi-track Editing:** Essential for podcasts and multi-camera projects.\n*   **",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For podcasters and creators, choosing between IncuBrix and Descript depends largely on whether the primary need is an all-in-one AI-powered editing suite focused on spoken-word content (Descript) or a broader \"Creator Hub\" emphasizing AI-assisted content generation, repurposing, and multi-platform publishing (IncuBrix).\n\nHere's an objective comparison:\n\n### Descript\n\n**Overview:**\nDescript is an AI video and audio editor that allows users to record, transcribe, edit, refine, share, and repurpose video and audio content by editing text. It is particularly well-suited for spoken-word content like podcasts, interviews, and talking-head videos.\n\n**Key Features for Podcasters and Creators:**\n*   **Text-Based Editing:** A core feature that enables users to edit audio and video by directly editing the automatically generated transcript. Deleting words in the transcript removes the corresponding media, and moving sentences rearranges the footage. This can significantly speed up the editing process for dialogue-heavy content.\n*   **AI Tools:**\n    *   **Studio Sound:** An AI audio filter that removes background noise and echo while enhancing the speaking voice with a single click.\n    *   **Remove Filler Words:** Automatically identifies and removes filler words (e.g., \"um,\" \"uh\") and retakes.\n    *   **Underlord (AI Co-editor):** An AI assistant that can perform editing tasks, cut filler, pick best takes, add scenes, and generate clips.\n    *   **AI Speech/Overdub:** Allows for voice cloning and regenerating or adding narration with AI voices.\n    *   **Create Clips:** Generates short clips from longer content for social media.\n*   **Recording Capabilities:** Offers screen, camera, and microphone recording, as well as remote recording rooms for guests, with local recording for quality assurance.\n*   **Transcription and Captions:** Provides automatic transcription and tools for generating captions and subtitles, including translation.\n*   **Multi-track Editing:** Essential for podcasts and multi-camera projects.\n*   **"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF5gcMu36kyyVohSDd19bl-XLNXJ-q2iZs46OH1fNGbq0_LDBQ8QEJWUuipXorLmIeaFbxLbSfyQADs05TXajTo-UIhagjxeUAxu5rkGYG3gNXFSwdO79hCuIDaJpda3JnkVpriBRGmIwpyF_dTHpGgNHgbukOYQfE4oDXPTZLryN_AnOdzzRTlB0yM5oszW7NrNw=\">Descript pricing</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGC9q_UOkmohmSfzmMbC94MKN1xGwdfzeYUOPNl1aruy8e7PddnhSa2Xd9NWcpDB6EiG71SdPhYdmew5jCFqsjcp7UfiwYYBsPPl4LczhamvVVEbbSj7_3Fji4cFeY-AUcK3Gi6w5wgGsbuVBg4GIuMriZH91O0rdnmCpF5GKdaSeN51nX-YwIHO21lIGWTLnXKC6pmvaztugjZENQAiR7OZT-si7GdHA==\">Descript for podcasters and creators</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuTLY55WAYVJoJSGnGTTy6NNMj5S_abVKdmxsYEYgIlRrGQKyZGDKXevc9rYPp1ObPnVGKoN7tpb_Y6oMTCNpvSzB8qhe6lo3JacVCakuA3Q-wIUzeOv7S1jX9LoUqSEE2ZqNKF6ks6wIFmd89xLtTrmSXZN8V_pV4WJBmjNCTV44-4i56OrevvfDa2XaDYIVoZlrAj3x5uDsu2of5OYeX73h0HXjG1w==\">IncuBrix for podcasters and creators</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyfzHZM2dKVGSudDSThMFbwwL_uHH9i7J8x8PbX0OvP7AxiVFk8Tl7niM6956RtQ3yIVj76v1wl3MSgOO9Sw3Nl6bVep8K1fKFMBqjoe7L3s9b9Wzz0AihfAnc31imMWP0V2mF92NVAMrwjH4TGVEA903z6nuqHS_9ruwMPsmdV2-FOC6KvMQ0EZKvc2COEbvoTm9fTweGHEyy_qkfOn1t4a4=\">IncuBrix vs Descript comparison</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlPw1vZ7G6j9x9NiuVePuyqG4qoWFtakRJiXAGBNRISr3IjrKLeV1qR0FwTKYJ9mY_YPNxdsgCZ82TfhhRLSNYtue8sc_4B14ld9xAMoEeTwZdIkgAtxq28Fo6SNF2hGH4XOxw4cchWvr8ZWN-8FVBeLV9mnVdEONaavRQNWh2a3LJ7JHWaG0Qk8Y7By64XUTNYbI5\">Descript features</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-Js2og4_vvP3ih39gsb54RvgFIxfTpvSnk5yK6k3T5daiDC7BCjEfNcRhmvPu-sgpLlm7hc23m_Tr1mstYljKqGmyRYurtNuQbA8fqF81NM_TKwsqXCaA4dea5o_Z5pHZm2J2edtyUSbdsO-KRRmtnrSnef3anjVA_RWREolWFK2U7XU-1WnCOE0FF6C9-W4kzO8=\">IncuBrix pricing</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpnyg9mKAsad3LGF3HbffezZdeiQ26qcNwboaSTt7kx7pFq7fco6Fjdx5zni1soHUMdNgZo-sSRKQ5lFx0VRvcA00BRI39Pk7HRr4UJRJfwGCmeb4kFOuoc-DmhYnA7veSU3YvPouauCiq147GbGmQ7bE9CywW0UonZ_BW5louyngzBL4d-KuGt0mF0bvEFCw8UwQ4\">IncuBrix features</a>\n  </div>\n</div>\n"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcsTP7Ka3E_l_ngND8wroghDVj5SD6N2Jo7c32o22zodHHMnmQyPM3yTPm0IRGyE3j3j7090rJMfUlW52QzGpG1nI8u0BvYD8V5fYt6E6Z2t8lr0-IavJHO3XCPQ==",
+                "title": "descript.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPlnGq5bLwU1T1bGUtFYVtFuO-YqqZVajrEU_krlmajSpICmyeT7HHUADgQBajJQ7gXeTnKmavxfF9tSd57JikYn5DXDjRktiRDzOMxRrl2-EhRv4029rAYbNeWpQg2n1PYb2si0U=",
+                "title": "aiagentslist.io"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_vtDk1pdv1y6Yn6e4EuxPj04xHImNRc80EusQbzpbHm_3gaLUKshB1Jhm1aqLal5Jd40XbwnqMdCft40CCvjAyWc9xY2aTG35xS8r-kudTph5XoT4XxyZDTp9vgrIvufKDMcIvNo=",
+                "title": "tella.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx8rwCRsyu2MuHSkesB5jWltuFj5P3M7sH__kQFHesj2NPZW_a3fYvUcDyKbGkGoisTE50dwNx3VsPC5kDM_mZOJQ4O_rebyZvFZsnjt7dkd7lX8w=",
+                "title": "descript.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLIq4-bSL-UkO4CxUyp4jBUBlVqc2R3utWZtYqhl3DkEGSE2OLjVuW8v3ELJPT56NP1yzTbhOnTS8MZMXQ6wT47zW51uiRTj7aMnh4h-FCrizkUeM1T0hAoaTaPyiv9vyLEzI=",
+                "title": "therundown.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMOjw2MD62YxnrqwxWBig8Qkk7y6tHnnVsJw0Fs_tA6RmrYuRGtn4pWzUbWMzmj_oPxYk-Qx2octKCrNMB9LqT5mPvOGkAVOIh_hqE1ozqT0QIv_nlYZ_21uP9UfAV",
+                "title": "descript.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK4Xx290d3mehzhGBW9d8VUwCu2wKxg45wY-43GfocaxomW80Q2ec9jh7HuTKtRwC3pldLytQdKuAwW1aYQSsCyXzuBPHJ5nrjAtp4PBKa8nhKiK40EAYcUBEfAR3k4iXlkWhhYEceGko1yH-rbY-Z7r30_PXhxFjZ0lmDk9n2gf2C-Q4AbZJj8gAbrK2dts43hFI=",
+                "title": "medium.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt22rNWS30u8EUGHV-4BzES5Y1x8y6JYIBhZCmjCpDLDDZGF4mJVpN6ndE2JzrxmRP0W-6Ty1pDuiMkSyVjSLFxQ79QJ2vycTSWEnnyZqfKGJZxlRWGkpa2grLXj0=",
+                "title": "alexberman.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx1Tyo-RN4Omc6TElvCnkY8vJnRzWyJu12XxqR5pR0G-NH0QT1PUMn98eE-P5szSDeYfUkxoE4dgdbFCuS0VityCLgSaJNRha4p1YOu-tIQF03WuRz3Rk9rEIrGIUFEkfVyNLZE1MQnQn0_QBV2r-lvB0JJoY=",
+                "title": "thepodcastconsultant.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw9-K_ShXSS-EEk19tC8WAy-ze2FcehkXLUekm4Im3z3G4fS_19VMQHWk3uveQvO7lPxvIOgEHQXmy7VZrXORnzU6rO5G4kArvwDo8QPoUICOjvdsbT7qbHjz_BOAC-EYKYWsPUw==",
+                "title": "apexinfluence.in"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUUDngJYOvY-UFgrMnZjglI-oQMPNjgUKM04-hjrf2p7E6YipJtAxtlTL5i35OwIlJwA_LznjiMPZD8vl2RmNhV8YeYykgcHupyLKmdwXPJwKYWy7pwRPCW8y6JOXj5LTb9wFN9IDF9kfiOxzqrZtqT4VqISx5R-6K8xU15R9zaCjWUxPmLnVQjcxJC55B8DDI5Js835G5R2GCLkXLpR9J3w6_1UgpQAOQlqJzsXjR",
+                "title": "captivate.fm"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHBG_vG_tAfLOv9n5PVCFpGkB-ptL5dWvAutdmG4voLtWBX8QKnyz1XjtcuTqofggDOEIIX9KfFPAGbG9qn9jFUIVSWtWm0vD_eEVRH1PueA2I5Zzs8CH2R_eDOYZ7-Vhqw3YevHQWT72LvFvS",
+                "title": "fabric.so"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 370,
+                "endIndex": 540,
+                "text": "**Overview:**\nDescript is an AI video and audio editor that allows users to record, transcribe, edit, refine, share, and repurpose video and audio content by editing text"
+              },
+              "groundingChunkIndices": [
+                0,
+                1,
+                2,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 542,
+                "endIndex": 647,
+                "text": "It is particularly well-suited for spoken-word content like podcasts, interviews, and talking-head videos"
+              },
+              "groundingChunkIndices": [
+                4,
+                5,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 842,
+                "endIndex": 951,
+                "text": "Deleting words in the transcript removes the corresponding media, and moving sentences rearranges the footage"
+              },
+              "groundingChunkIndices": [
+                0,
+                1,
+                2,
+                3,
+                5,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 953,
+                "endIndex": 1031,
+                "text": "This can significantly speed up the editing process for dialogue-heavy content"
+              },
+              "groundingChunkIndices": [
+                5,
+                6,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1033,
+                "endIndex": 1189,
+                "text": "*   **AI Tools:**\n    *   **Studio Sound:** An AI audio filter that removes background noise and echo while enhancing the speaking voice with a single click"
+              },
+              "groundingChunkIndices": [
+                0,
+                2,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1195,
+                "endIndex": 1304,
+                "text": "*   **Remove Filler Words:** Automatically identifies and removes filler words (e.g., \"um,\" \"uh\") and retakes"
+              },
+              "groundingChunkIndices": [
+                0,
+                1,
+                2,
+                6,
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1310,
+                "endIndex": 1451,
+                "text": "*   **Underlord (AI Co-editor):** An AI assistant that can perform editing tasks, cut filler, pick best takes, add scenes, and generate clips"
+              },
+              "groundingChunkIndices": [
+                0,
+                4,
+                2,
+                3,
+                5,
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1457,
+                "endIndex": 1560,
+                "text": "*   **AI Speech/Overdub:** Allows for voice cloning and regenerating or adding narration with AI voices"
+              },
+              "groundingChunkIndices": [
+                0,
+                1,
+                4,
+                2,
+                9,
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1566,
+                "endIndex": 1646,
+                "text": "*   **Create Clips:** Generates short clips from longer content for social media"
+              },
+              "groundingChunkIndices": [
+                0,
+                4,
+                3,
+                5,
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1648,
+                "endIndex": 1817,
+                "text": "*   **Recording Capabilities:** Offers screen, camera, and microphone recording, as well as remote recording rooms for guests, with local recording for quality assurance"
+              },
+              "groundingChunkIndices": [
+                1,
+                4,
+                2,
+                9,
+                8,
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1819,
+                "endIndex": 1958,
+                "text": "*   **Transcription and Captions:** Provides automatic transcription and tools for generating captions and subtitles, including translation"
+              },
+              "groundingChunkIndices": [
+                1,
+                4,
+                2,
+                6,
+                8,
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1960,
+                "endIndex": 2037,
+                "text": "*   **Multi-track Editing:** Essential for podcasts and multi-camera projects"
+              },
+              "groundingChunkIndices": [
+                11,
+                8
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "IncuBrix for podcasters and creators",
+            "Descript for podcasters and creators",
+            "IncuBrix vs Descript comparison",
+            "IncuBrix features",
+            "Descript features",
+            "IncuBrix pricing",
+            "Descript pricing"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 38,
+      "candidatesTokenCount": 501,
+      "totalTokenCount": 1368,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 38
+        }
+      ],
+      "toolUsePromptTokenCount": 282,
+      "toolUsePromptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 282
+        }
+      ],
+      "thoughtsTokenCount": 547,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-2.5-flash",
+    "responseId": "ggAEa9WTMuu63LUP5L-V6A4"
+  },
+  "error_details": null
+}

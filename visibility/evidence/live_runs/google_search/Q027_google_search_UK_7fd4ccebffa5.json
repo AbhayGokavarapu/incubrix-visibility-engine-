@@ -1,0 +1,516 @@
+{
+  "measurement_id": "7fd4ccebffa5",
+  "question_id": "Q027",
+  "timestamp_utc": "2026-11-22T11:35:03.455189+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "What is the ideal video length for Instagram Reels to get high retention?",
+  "market": "UK",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://www.reddit.com/r/socialmedia/comments/1jlhpfz/whats_the_ideal_video_length_for_engagement/",
+    "https://www.instagram.com/p/DUtDbYeDZ_J/?hl=en",
+    "https://www.google.com/goto?url=CAEScwHEIkXX69zoLk35A5oJ8MaslLmGt2r7SDpXuZ3IwawzQCLVLqookW-RoIC8JxYB-3CGs1b4Pa17ebPlRVZ1WrqMqobe_b-ZbmFPwdfmB_AzxJFg4UcHSQ1KQmdjtg4XCgcqzRzmJfclSzKVtZtnWLGVvTY",
+    "https://www.google.com/goto?url=CAESkgEBxCJF194RofQB70aIYmgCdkJh9yqRr0KgFi5co-t4oabbbx_cFM7dwmEULDFxIu0mp-6oofSjUDJFV8ZucPlPrKmoZ_eJ5lybXDtjes-8DdtDWIgK1Wr4yYVXCi40qVlKmaK0YllVGGuXtcm8hOSKuoRoQtQxy9QmQfSzAN2uslurZoC4w8_C-KIu7tdTBIdWkQ",
+    "https://www.google.com/goto?url=CAESdwHEIkXXfpX4jFa4F7CwWG4UnI5tzXUZbp_AVdJbee6CmwkEYd44wFR0HiluH-725SVY380EBuHTCD_-p38UzlEJ9KY35AM3xDeIJo2hsQ5v-I3YM2Zvza48kRfRvX86NUopg8Z7x1hjnhrWCEakFegTuuN8lGu3",
+    "https://www.google.com/goto?url=CAESbgHEIkXXYsYFlLpRAM-HKKOqyQQ7qHdCByGK8ab4SUTBWM2IcjQfZM3lIwvhDSVyxQhRgmvlU9_FBW_R9btMlVKbMeVWyJmtPPFxC5yp8RVo1UDaxysSgdO398Svcv392FQnfOXTZiFmeYxdkY8z&gsessionid=Pz-QcFqNj9x5PaEBTkCaT3acTUZfUMQ-gWttObon8d8A_yDGEVzKXA",
+    "https://www.google.com/goto?url=CAESiAEBxCJF19Epz7e4kD1hJRWUu6Gl5dnWt4swyfkp1jBDgCbm7Q9e_X47fuRnf6x4fyP0lkrFvkFKeFJxwKof3dVqFXftxF4UNP8os_jT5y4rdnlYevUKSLCAka_ZDopXlhihXUxE9B-nFpHl49Cb3lqNc8KWwsUx6ELZL3LSfhccGgj8F0qvX0HP"
+  ],
+  "raw_text_summary": "What's the Ideal Video Length for Engagement? Short-form content is dominating social media, but platforms have different preferences. TikTok, Instagram Reels, and YouTube Shorts all push quick videos, ... Reels are still the most versatile content format on ... Reels over 3 minutes aren't recommended to new audiences, so if growth is your goal, shorter might be smarter. The formula? Hook them in the ... Ideal Instagram Reels Length & Format for Retention Multiple studies and creator reports consistently show that Reels between 7 and 15 seconds achieve the highest average retention rates, ... Instagram Reels Length Guide 2025: Best Practices for ... Many creators still prefer keeping their Reels between 7 to 15 seconds to maximize engagement. The Instagram algorithm favors videos that ... How Long Should an Instagram Reel Be for Maximum ... A large 2026 analysis of roughly 140,000 Instagram Reels from business accounts found that 45\u201360 seconds was the strongest performance band. It ... Should you create long reels or short reels? The truth is, both ... The Ideal Reel Length: Anything under 40 Seconds is the Sweet Spot as per my observation. They're short enough to maintain attention and long ... Instagram revealed the ideal Reel length! - Future Social The real answer: the ideal length is however many seconds you need to tell the story you're trying to tell, and if your storytelling is strong ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02d3654814e5ffe8b6f2e9",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/Zrcr-I8VYqsH7sVlFPB1jpz6GLTKAgtjVsSz61TevV8/6b02d3654814e5ffe8b6f2e9.json",
+      "markdown_endpoint": "https://serpapi.com/searches/Zrcr-I8VYqsH7sVlFPB1jpz6GLTKAgtjVsSz61TevV8/6b02d3654814e5ffe8b6f2e9.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/Zrcr-I8VYqsH7sVlFPB1jpz6GLTKAgtjVsSz61TevV8/6b02d3654814e5ffe8b6f2e9.json_with_pixel_position",
+      "created_at": "2026-11-22 11:35:01 UTC",
+      "processed_at": "2026-11-22 11:35:01 UTC",
+      "google_url": "https://www.google.com/search?q=What+is+the+ideal+video+length+for+Instagram+Reels+to+get+high+retention%3F&oq=What+is+the+ideal+video+length+for+Instagram+Reels+to+get+high+retention%3F&hl=en&gl=uk&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/Zrcr-I8VYqsH7sVlFPB1jpz6GLTKAgtjVsSz61TevV8/6b02d3654814e5ffe8b6f2e9.html",
+      "total_time_taken": 0.88
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "What is the ideal video length for Instagram Reels to get high retention?",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "uk",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "What is the ideal video length for Instagram Reels to get high retention?",
+      "total_results": 123,
+      "time_taken_displayed": 0.19,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "Best Instagram Reel Length in 2026 (Based on 2.7 Million Reels)",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXrdHHtZVgN_L1eunOIg8zY1qyf2nNozYl6c_TsHRBthZSXbjSWBfP--LxiEHJDqoddOWuMZbESquKccPV15Wj8uwn_0E7_3NnYCt2af-m4oyLfGIAw3Yi0beURePVPqICcref&gsessionid=Pz-QcFqNj9x5PaEBTkCaT3acTUZfUMQ-gWttObon8d8A_yDGEVzKXA",
+        "thumbnail": "https://serpapi.com/searches/6b02d3654814e5ffe8b6f2e9/images/OX2Bhw5syGpm2C8aEZAjW-j676I_D8y5Yqlf2i2lUXI.jpg",
+        "channel": "Buffer",
+        "duration": "8:08",
+        "platform": "YouTube",
+        "date": "1 week ago",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ6VbOXWTyvP5Z8B0xUYiblPc3jEcm8a0D7KA"
+      },
+      {
+        "position": 2,
+        "title": "3 sec)? You risk killing your reach. So it's not just about h",
+        "link": "https://www.google.com/goto?url=CAESbgHEIkXXBXWY-HNC8fZaY0LkmG9vdFAbMbJY5IhNnH1zYgbLIVTN_Fi8WdHjO9rlv8GrK2vm2lLWQDUs3dlvIeIjPTmHtaCDOhh4cRvO3hYkAzGfc0IiPf87rVEinfWdMpCmdIboyIXOIUchsFRU&gsessionid=Pz-QcFqNj9x5PaEBTkCaT3acTUZfUMQ-gWttObon8d8A_yDGEVzKXA",
+        "thumbnail": "https://serpapi.com/searches/6b02d3654814e5ffe8b6f2e9/images/CvmQPsCWjXSrICjnDTX5D1jJe1wumi6vfFUW4K2v8Ms.jpg",
+        "channel": "Nase Digital",
+        "duration": "2:09",
+        "platform": "Instagram",
+        "date": "20 May 2026"
+      },
+      {
+        "position": 3,
+        "title": "\"The most common question I get from clients is \"how long ...",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXdYm3Rt9OKW85h1bcUzmW6RTrOPGPQJamnMvZ1CMtVo5qFISJSmT3LaD5Bc2LZLhM8vY0SdQ8Rdy4l5NHbaBZjkXsOhzUR-56XJNmO-K108USdviTQS922V54yh_N4P603XIK&gsessionid=Pz-QcFqNj9x5PaEBTkCaT3acTUZfUMQ-gWttObon8d8A_yDGEVzKXA",
+        "thumbnail": "https://serpapi.com/searches/6b02d3654814e5ffe8b6f2e9/images/Rp6rVJZx-Kz6FMKmwpB2NCYpfX_j_Tuz3GKIWdMKK_U.jpg",
+        "channel": "Maddie Thompson | Social Media Marketing",
+        "duration": "1:03",
+        "platform": "Instagram",
+        "date": "5 Sept 2026"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "What is the 5-3-1 rule on Instagram?",
+        "type": "ai_overview",
+        "page_token": "e00X8nicHdDPbpswHABgbQ_TY4NhydRI0VQam4RormywDVwq4x8JKeZPgzMajnuWnfYwu-y2p9m0J_ik7_sPe-6aPx9c7dwwrheLaZruT31_stW96duFHm-dWRhtbalNs159XqEvR7PBVxw-ve1DJjjOLdi8gZvemZnaHH3t-IEhKrWK30E9DBUpEtENDlRNmWJTKiwqbqgvX8leqdiVONaJFZPBPCh9yCQeA53tZ2HlBFv7qhQccr_GRfR-TbzlDBFgaLxZkuHwz8-4oozLx0AHe6TVMJaNC0XGa435oSLxDhSXyZbXyU62isD8vHtcmojEhYyp9OyqUugKhI7SJ2fWniadQYjrQgNG2zytfSbYskjJDYRkz0_oTTaIR-c4TPCniadAisgLaMov1BfLzLMKuvgq2gfELEzCpxHt4uDuaL5tgrv_m5uXY-vWw6U__TSXSrsKXrT71Xz8Xf0FbQ6JFA",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=e00X8nicHdDPbpswHABgbQ_TY4NhydRI0VQam4RormywDVwq4x8JKeZPgzMajnuWnfYwu-y2p9m0J_ik7_sPe-6aPx9c7dwwrheLaZruT31_stW96duFHm-dWRhtbalNs159XqEvR7PBVxw-ve1DJjjOLdi8gZvemZnaHH3t-IEhKrWK30E9DBUpEtENDlRNmWJTKiwqbqgvX8leqdiVONaJFZPBPCh9yCQeA53tZ2HlBFv7qhQccr_GRfR-TbzlDBFgaLxZkuHwz8-4oozLx0AHe6TVMJaNC0XGa435oSLxDhSXyZbXyU62isD8vHtcmojEhYyp9OyqUugKhI7SJ2fWniadQYjrQgNG2zytfSbYskjJDYRkz0_oTTaIR-c4TPCniadAisgLaMov1BfLzLMKuvgq2gfELEzCpxHt4uDuaL5tgrv_m5uXY-vWw6U__TSXSrsKXrT71Xz8Xf0FbQ6JFA",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU5TMXVjbXh6YlhCbVJHNUdVRU5yZERaSU9DMXNiVzU1ZHpjM2FXaGFUV0ZZTjJSRmMwTlVXVFJZWm5GbGRYcHhSbWx5UlV0UVNsWTVMVkpDWlZnd1dEUndOakpOY1RaWVRWTkhWWFF3V210VGQydFZWR1psYnpKTVFSSVdXblJOUTJFNGRrRkVPV1V4Y25WRlVEZ3RhbFpOVVJvaVFVaE9NRVUzUmtKd1ZESXhjRnBtTFV4aVlVTkpVRUZoUVhwcWJHUk9VRE5JVVEiLCJmY3YiOiIzIiwiZWkiOiJadE1DYTh2QUQ5ZTFydUVQOC1qVk1RIiwicWMiOiJjdzNLc1FtQVFBeEdZV3NyUl9nbnNSVFhDQmlUd0YwQ2QwRXJGM0ZBNV9DcUJ4OXYzbS1saEhXa011eGdLcmhHQW9WZFVuRkdnM2xQa2tZVmpibU1OU0NjVUJNZGt1eHA0Y3Ywdk51M19nIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSA1LTMtMSBydWxlIG9uIEluc3RhZ3JhbT8iLCJsayI6IkdoOTNhR0YwSUdseklEVWdNeUF4SUhKMWJHVWdiMjRnYVc1emRHRm5jbUZ0IiwiYnMiOiJjNDJQTVF2Q01CQ0ZjYjNKVGMzaUNhSXVVcG9ZNmRhNXM0TnpzR2NiU0JOSm92MzdnbFRiZ29qemZlOTc3NkNBOWJsV0VYWEFXQlBLdmRpbjZPLUcwRmtzYklpcThxckotWW90MjQ2VEtMQm45SnNCQjNLb2NyZW9HMlh3b1V0eWFNaFdzY2FyODcwVlBaRUpPVC15UV90UFVJLURJR0UtTEJSSmxxVDhOU3puQ3pZYk9nVm0yTjNnQk50UkRBTmRuQzJfZmIxam1fWVgtbGswblR3QiIsImlkIjoiZmNfWnRNQ2E4dkFEOWUxcnVFUDgtalZNUV82In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU5TMXVjbXh6YlhCbVJHNUdVRU5yZERaSU9DMXNiVzU1ZHpjM2FXaGFUV0ZZTjJSRmMwTlVXVFJZWm5GbGRYcHhSbWx5UlV0UVNsWTVMVkpDWlZnd1dEUndOakpOY1RaWVRWTkhWWFF3V210VGQydFZWR1psYnpKTVFSSVdXblJOUTJFNGRrRkVPV1V4Y25WRlVEZ3RhbFpOVVJvaVFVaE9NRVUzUmtKd1ZESXhjRnBtTFV4aVlVTkpVRUZoUVhwcWJHUk9VRE5JVVEiLCJmY3YiOiIzIiwiZWkiOiJadE1DYTh2QUQ5ZTFydUVQOC1qVk1RIiwicWMiOiJjdzNLc1FtQVFBeEdZV3NyUl9nbnNSVFhDQmlUd0YwQ2QwRXJGM0ZBNV9DcUJ4OXYzbS1saEhXa011eGdLcmhHQW9WZFVuRkdnM2xQa2tZVmpibU1OU0NjVUJNZGt1eHA0Y3Ywdk51M19nIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSA1LTMtMSBydWxlIG9uIEluc3RhZ3JhbT8iLCJsayI6IkdoOTNhR0YwSUdseklEVWdNeUF4SUhKMWJHVWdiMjRnYVc1emRHRm5jbUZ0IiwiYnMiOiJjNDJQTVF2Q01CQ0ZjYjNKVGMzaUNhSXVVcG9ZNmRhNXM0TnpzR2NiU0JOSm92MzdnbFRiZ29qemZlOTc3NkNBOWJsV0VYWEFXQlBLdmRpbjZPLUcwRmtzYklpcThxckotWW90MjQ2VEtMQm45SnNCQjNLb2NyZW9HMlh3b1V0eWFNaFdzY2FyODcwVlBaRUpPVC15UV90UFVJLURJR0UtTEJSSmxxVDhOU3puQ3pZYk9nVm0yTjNnQk50UkRBTmRuQzJfZmIxam1fWVgtbGswblR3QiIsImlkIjoiZmNfWnRNQ2E4dkFEOWUxcnVFUDgtalZNUV82In0%3D"
+      },
+      {
+        "question": "What is the optimal video length for Instagram reels?",
+        "type": "ai_overview",
+        "page_token": "Ke9qN3icHdDNbpswAABgbQ_TY8NfOi1SNI0EnLCZBmMb7Evl2CQOuEASp0COe5ae-jC77LanmbTvEb5f7-bUNn8_WW1tf13MZsMwPB677miqR9m9zsR1auVMCmP2QjaLpy9P7reDXEa3KFydt2FGUMSMMgwnTlXyu6q5zmOzlcD2z7Tvq1K5AqfZz2IUtGX3CihKG34rVu5AHD2R2vA8d4I8Dq0EfU9j5mTld68g9rzfZHdJvu6oURPFFKQlv0JAR4XjhPtmlWHoQJIGqkSgoMqgIgpgw6Z9lF5YMy8oGEtptFWeDAqTnuAa7eAmjGENp6rmXbpOQOokmt3DG_JiAGs1QtLNCZj7keZCRe6aYe1lJJtzHE-K0Ox55Z5p4yJwSsI8CgaEFWDGYFHrHaHJD9QqF61TxL2rDzfbce8hnrfafzjIt6X_8H9z-XJ4tYv-0h0_5KUStlIvwv5uPv-p_gF8fIlv",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Ke9qN3icHdDNbpswAABgbQ_TY8NfOi1SNI0EnLCZBmMb7Evl2CQOuEASp0COe5ae-jC77LanmbTvEb5f7-bUNn8_WW1tf13MZsMwPB677miqR9m9zsR1auVMCmP2QjaLpy9P7reDXEa3KFydt2FGUMSMMgwnTlXyu6q5zmOzlcD2z7Tvq1K5AqfZz2IUtGX3CihKG34rVu5AHD2R2vA8d4I8Dq0EfU9j5mTld68g9rzfZHdJvu6oURPFFKQlv0JAR4XjhPtmlWHoQJIGqkSgoMqgIgpgw6Z9lF5YMy8oGEtptFWeDAqTnuAa7eAmjGENp6rmXbpOQOokmt3DG_JiAGs1QtLNCZj7keZCRe6aYe1lJJtzHE-K0Ox55Z5p4yJwSsI8CgaEFWDGYFHrHaHJD9QqF61TxL2rDzfbce8hnrfafzjIt6X_8H9z-XJ4tYv-0h0_5KUStlIvwv5uPv-p_gF8fIlv",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU5TMXVjbXh6YlhCbVJHNUdVRU5yZERaSU9DMXNiVzU1ZHpjM2FXaGFUV0ZZTjJSRmMwTlVXVFJZWm5GbGRYcHhSbWx5UlV0UVNsWTVMVkpDWlZnd1dEUndOakpOY1RaWVRWTkhWWFF3V210VGQydFZWR1psYnpKTVFSSVdXblJOUTJFNGRrRkVPV1V4Y25WRlVEZ3RhbFpOVVJvaVFVaE9NRVUzUmtKd1ZESXhjRnBtTFV4aVlVTkpVRUZoUVhwcWJHUk9VRE5JVVEiLCJmY3YiOiIzIiwiZWkiOiJadE1DYTh2QUQ5ZTFydUVQOC1qVk1RIiwicWMiOiJjdzNLc1FtQVFBeEdZV3NyUl9nbnNSVFhDQmlUd0YwQ2QwRXJGM0ZBNV9DcUJ4OXYzbS1saEhXa011eGdLcmhHQW9WZFVuRkdnM2xQa2tZVmpibU1OU0NjVUJNZGt1eHA0Y3Ywdk51M19nIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBvcHRpbWFsIHZpZGVvIGxlbmd0aCBmb3IgSW5zdGFncmFtIHJlZWxzPyIsImxrIjoiR2pSM2FHRjBJR2x6SUhSb1pTQnZjSFJwYldGc0lIWnBaR1Z2SUd4bGJtZDBhQ0JtYjNJZ2FXNXpkR0ZuY21GdElISmxaV3h6IiwiYnMiOiJjNDJQTVF2Q01CQ0ZjYjNKVGMzaUNhSXVVcG9ZNmRhNXM0TnpzR2NiU0JOSm92MzdnbFRiZ29qemZlOTc3NkNBOWJsV0VYWEFXQlBLdmRpbjZPLUcwRmtzYklpcThxckotWW90MjQ2VEtMQm45SnNCQjNLb2NyZW9HMlh3b1V0eWFNaFdzY2FyODcwVlBaRUpPVC15UV90UFVJLURJR0UtTEJSSmxxVDhOU3puQ3pZYk9nVm0yTjNnQk50UkRBTmRuQzJfZmIxam1fWVgtbGswblR3QiIsImlkIjoiZmNfWnRNQ2E4dkFEOWUxcnVFUDgtalZNUV82In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU5TMXVjbXh6YlhCbVJHNUdVRU5yZERaSU9DMXNiVzU1ZHpjM2FXaGFUV0ZZTjJSRmMwTlVXVFJZWm5GbGRYcHhSbWx5UlV0UVNsWTVMVkpDWlZnd1dEUndOakpOY1RaWVRWTkhWWFF3V210VGQydFZWR1psYnpKTVFSSVdXblJOUTJFNGRrRkVPV1V4Y25WRlVEZ3RhbFpOVVJvaVFVaE9NRVUzUmtKd1ZESXhjRnBtTFV4aVlVTkpVRUZoUVhwcWJHUk9VRE5JVVEiLCJmY3YiOiIzIiwiZWkiOiJadE1DYTh2QUQ5ZTFydUVQOC1qVk1RIiwicWMiOiJjdzNLc1FtQVFBeEdZV3NyUl9nbnNSVFhDQmlUd0YwQ2QwRXJGM0ZBNV9DcUJ4OXYzbS1saEhXa011eGdLcmhHQW9WZFVuRkdnM2xQa2tZVmpibU1OU0NjVUJNZGt1eHA0Y3Ywdk51M19nIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBvcHRpbWFsIHZpZGVvIGxlbmd0aCBmb3IgSW5zdGFncmFtIHJlZWxzPyIsImxrIjoiR2pSM2FHRjBJR2x6SUhSb1pTQnZjSFJwYldGc0lIWnBaR1Z2SUd4bGJtZDBhQ0JtYjNJZ2FXNXpkR0ZuY21GdElISmxaV3h6IiwiYnMiOiJjNDJQTVF2Q01CQ0ZjYjNKVGMzaUNhSXVVcG9ZNmRhNXM0TnpzR2NiU0JOSm92MzdnbFRiZ29qemZlOTc3NkNBOWJsV0VYWEFXQlBLdmRpbjZPLUcwRmtzYklpcThxckotWW90MjQ2VEtMQm45SnNCQjNLb2NyZW9HMlh3b1V0eWFNaFdzY2FyODcwVlBaRUpPVC15UV90UFVJLURJR0UtTEJSSmxxVDhOU3puQ3pZYk9nVm0yTjNnQk50UkRBTmRuQzJfZmIxam1fWVgtbGswblR3QiIsImlkIjoiZmNfWnRNQ2E4dkFEOWUxcnVFUDgtalZNUV82In0%3D"
+      },
+      {
+        "question": "What is the 3/8/12 rule?",
+        "type": "ai_overview",
+        "page_token": "K0KOQnicHdBLboJAAADQtIfpUhGoLSamKZUR_IyR-cFszPARlOGjkIKz7Fm66mG66a6nadJ3hPfxKU9V8XvH8q5r2tl43Pf9KKvrTKajuC7Hor1V8TgWUkYiLmbTp-nk5RjPnba13-re3hPfCWUiGYMQus2JVl6HKs_cMf8WqnzDKVcYWG6kDT1cbE12lhvhAop0cwgV2CAH3FIC1rDk21BRHurWTkjLELqFhJ4MictloDclN3KXF5mBnHDgy6SP8ApBwk_8DNZEf6yi0jrhoqGBSqQwIEtZoqHKmSDl54H2rHYAYKIXGlKeSRS_7FmLgGw0TGC-c7ntL6TcBquJT1_NDWsYpo7wCuDhsw2gljs8sAcR0EtImyVREGMylEQmBb1NmGByK8r44Ri_z42H_7D54Vh2s-ZaZ1_xNRVdmhxE913c_6R_Pj2AiQ",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=K0KOQnicHdBLboJAAADQtIfpUhGoLSamKZUR_IyR-cFszPARlOGjkIKz7Fm66mG66a6nadJ3hPfxKU9V8XvH8q5r2tl43Pf9KKvrTKajuC7Hor1V8TgWUkYiLmbTp-nk5RjPnba13-re3hPfCWUiGYMQus2JVl6HKs_cMf8WqnzDKVcYWG6kDT1cbE12lhvhAop0cwgV2CAH3FIC1rDk21BRHurWTkjLELqFhJ4MictloDclN3KXF5mBnHDgy6SP8ApBwk_8DNZEf6yi0jrhoqGBSqQwIEtZoqHKmSDl54H2rHYAYKIXGlKeSRS_7FmLgGw0TGC-c7ntL6TcBquJT1_NDWsYpo7wCuDhsw2gljs8sAcR0EtImyVREGMylEQmBb1NmGByK8r44Ri_z42H_7D54Vh2s-ZaZ1_xNRVdmhxE913c_6R_Pj2AiQ",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU5TMXVjbXh6YlhCbVJHNUdVRU5yZERaSU9DMXNiVzU1ZHpjM2FXaGFUV0ZZTjJSRmMwTlVXVFJZWm5GbGRYcHhSbWx5UlV0UVNsWTVMVkpDWlZnd1dEUndOakpOY1RaWVRWTkhWWFF3V210VGQydFZWR1psYnpKTVFSSVdXblJOUTJFNGRrRkVPV1V4Y25WRlVEZ3RhbFpOVVJvaVFVaE9NRVUzUmtKd1ZESXhjRnBtTFV4aVlVTkpVRUZoUVhwcWJHUk9VRE5JVVEiLCJmY3YiOiIzIiwiZWkiOiJadE1DYTh2QUQ5ZTFydUVQOC1qVk1RIiwicWMiOiJjdzNLc1FtQVFBeEdZV3NyUl9nbnNSVFhDQmlUd0YwQ2QwRXJGM0ZBNV9DcUJ4OXYzbS1saEhXa011eGdLcmhHQW9WZFVuRkdnM2xQa2tZVmpibU1OU0NjVUJNZGt1eHA0Y3Ywdk51M19nIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAzLzgvMTIgcnVsZT8iLCJsayI6IkdoZDNhR0YwSUdseklIUm9aU0F6SURnZ01USWdjblZzWlEiLCJicyI6ImM0MlBNUXZDTUJDRmNiM0pUYzNpQ2FJdVVwb1k2ZGE1czROenNHY2JTQk5Kb3YzN2dsVGJnb2p6ZmU5Nzc2Q0E5YmxXRVhYQVdCUEt2ZGluNk8tRzBGa3NiSWlxOHFySi1Zb3QyNDZUS0xCbjlKc0JCM0tvY3Jlb0cyWHdvVXR5YU1oV3NjYXI4NzBWUFpFSk9ULXlRX3RQVUktRElHRS1MQlJKbHFUOE5Tem5DelliT2dWbTJOM2dCTnRSREFOZG5DMl9mYjFqbV9ZWC1sazBuVHdCIiwiaWQiOiJmY19adE1DYTh2QUQ5ZTFydUVQOC1qVk1RXzYifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU5TMXVjbXh6YlhCbVJHNUdVRU5yZERaSU9DMXNiVzU1ZHpjM2FXaGFUV0ZZTjJSRmMwTlVXVFJZWm5GbGRYcHhSbWx5UlV0UVNsWTVMVkpDWlZnd1dEUndOakpOY1RaWVRWTkhWWFF3V210VGQydFZWR1psYnpKTVFSSVdXblJOUTJFNGRrRkVPV1V4Y25WRlVEZ3RhbFpOVVJvaVFVaE9NRVUzUmtKd1ZESXhjRnBtTFV4aVlVTkpVRUZoUVhwcWJHUk9VRE5JVVEiLCJmY3YiOiIzIiwiZWkiOiJadE1DYTh2QUQ5ZTFydUVQOC1qVk1RIiwicWMiOiJjdzNLc1FtQVFBeEdZV3NyUl9nbnNSVFhDQmlUd0YwQ2QwRXJGM0ZBNV9DcUJ4OXYzbS1saEhXa011eGdLcmhHQW9WZFVuRkdnM2xQa2tZVmpibU1OU0NjVUJNZGt1eHA0Y3Ywdk51M19nIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAzLzgvMTIgcnVsZT8iLCJsayI6IkdoZDNhR0YwSUdseklIUm9aU0F6SURnZ01USWdjblZzWlEiLCJicyI6ImM0MlBNUXZDTUJDRmNiM0pUYzNpQ2FJdVVwb1k2ZGE1czROenNHY2JTQk5Kb3YzN2dsVGJnb2p6ZmU5Nzc2Q0E5YmxXRVhYQVdCUEt2ZGluNk8tRzBGa3NiSWlxOHFySi1Zb3QyNDZUS0xCbjlKc0JCM0tvY3Jlb0cyWHdvVXR5YU1oV3NjYXI4NzBWUFpFSk9ULXlRX3RQVUktRElHRS1MQlJKbHFUOE5Tem5DelliT2dWbTJOM2dCTnRSREFOZG5DMl9mYjFqbV9ZWC1sazBuVHdCIiwiaWQiOiJmY19adE1DYTh2QUQ5ZTFydUVQOC1qVk1RXzYifQ%3D%3D"
+      },
+      {
+        "question": "What is the 3 second rule on Instagram?",
+        "type": "ai_overview",
+        "page_token": "j81URHicHdBLUoMwAADQ0cO4tIR-dDrTcaSEtliChHxKNg5NaGkTKK2poEvP4srDuHHnaXQ8wNu89w-zq_XPhS2tbZ7HvV7bttfbw2Frimt5qHr582stezI3Zp1LPR7djMDdRk7gGXrT48JLKIaZUSbj5QOaB8uElW_RHAFEzIkFt0NkcEgddF77GqTu1omIIhEJfc4tTemgVS5w1RTsOSzfiIsfEO26jIeP1KBOaNrPXTSgq3sbz1gm-qWNYfCyZItWzfAucozBtImzqvNwZVJlok4xA-UKLVJmKlaHYaaxkCBYCl9tiK9iHDR_RoI1tylyUYV0kydVOeI6WDEg9sWqEXzv1bAUuYLAz0jpJjQZChK8KsqSeAqOTAM824VeCgctJmrOmUoL2uElb4Zrp1tgKhB1m8fMGR65r_pybuqrjXyZ9K_-NydPm8qOm9Nh-ylPRW4L9ZTbL335XfwC2VKIyQ",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=j81URHicHdBLUoMwAADQ0cO4tIR-dDrTcaSEtliChHxKNg5NaGkTKK2poEvP4srDuHHnaXQ8wNu89w-zq_XPhS2tbZ7HvV7bttfbw2Frimt5qHr582stezI3Zp1LPR7djMDdRk7gGXrT48JLKIaZUSbj5QOaB8uElW_RHAFEzIkFt0NkcEgddF77GqTu1omIIhEJfc4tTemgVS5w1RTsOSzfiIsfEO26jIeP1KBOaNrPXTSgq3sbz1gm-qWNYfCyZItWzfAucozBtImzqvNwZVJlok4xA-UKLVJmKlaHYaaxkCBYCl9tiK9iHDR_RoI1tylyUYV0kydVOeI6WDEg9sWqEXzv1bAUuYLAz0jpJjQZChK8KsqSeAqOTAM824VeCgctJmrOmUoL2uElb4Zrp1tgKhB1m8fMGR65r_pybuqrjXyZ9K_-NydPm8qOm9Nh-ylPRW4L9ZTbL335XfwC2VKIyQ",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU5TMXVjbXh6YlhCbVJHNUdVRU5yZERaSU9DMXNiVzU1ZHpjM2FXaGFUV0ZZTjJSRmMwTlVXVFJZWm5GbGRYcHhSbWx5UlV0UVNsWTVMVkpDWlZnd1dEUndOakpOY1RaWVRWTkhWWFF3V210VGQydFZWR1psYnpKTVFSSVdXblJOUTJFNGRrRkVPV1V4Y25WRlVEZ3RhbFpOVVJvaVFVaE9NRVUzUmtKd1ZESXhjRnBtTFV4aVlVTkpVRUZoUVhwcWJHUk9VRE5JVVEiLCJmY3YiOiIzIiwiZWkiOiJadE1DYTh2QUQ5ZTFydUVQOC1qVk1RIiwicWMiOiJjdzNLc1FtQVFBeEdZV3NyUl9nbnNSVFhDQmlUd0YwQ2QwRXJGM0ZBNV9DcUJ4OXYzbS1saEhXa011eGdLcmhHQW9WZFVuRkdnM2xQa2tZVmpibU1OU0NjVUJNZGt1eHA0Y3Ywdk51M19nIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAzIHNlY29uZCBydWxlIG9uIEluc3RhZ3JhbT8iLCJsayI6IkdpWjNhR0YwSUdseklIUm9aU0F6SUhObFkyOXVaQ0J5ZFd4bElHOXVJR2x1YzNSaFozSmhiUSIsImJzIjoiYzQyUE1RdkNNQkNGY2IzSlRjM2lDYUl1VXBvWTZkYTVzNE56c0djYlNCTkpvdjM3Z2xUYmdvanpmZTk3NzZDQTlibFdFWFhBV0JQS3ZkaW42Ty1HMEZrc2JJaXE4cXJKLVlvdDI0NlRLTEJuOUpzQkIzS29jcmVvRzJYd29VdHlhTWhXc2Nhcjg3MFZQWkVKT1QteVFfdFBVSS1ESUdFLUxCUkpscVQ4TlN6bkN6WWJPZ1ZtMk4zZ0JOdFJEQU5kbkMyX2ZiMWptX1lYLWxrMG5Ud0IiLCJpZCI6ImZjX1p0TUNhOHZBRDllMXJ1RVA4LWpWTVFfNiJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU5TMXVjbXh6YlhCbVJHNUdVRU5yZERaSU9DMXNiVzU1ZHpjM2FXaGFUV0ZZTjJSRmMwTlVXVFJZWm5GbGRYcHhSbWx5UlV0UVNsWTVMVkpDWlZnd1dEUndOakpOY1RaWVRWTkhWWFF3V210VGQydFZWR1psYnpKTVFSSVdXblJOUTJFNGRrRkVPV1V4Y25WRlVEZ3RhbFpOVVJvaVFVaE9NRVUzUmtKd1ZESXhjRnBtTFV4aVlVTkpVRUZoUVhwcWJHUk9VRE5JVVEiLCJmY3YiOiIzIiwiZWkiOiJadE1DYTh2QUQ5ZTFydUVQOC1qVk1RIiwicWMiOiJjdzNLc1FtQVFBeEdZV3NyUl9nbnNSVFhDQmlUd0YwQ2QwRXJGM0ZBNV9DcUJ4OXYzbS1saEhXa011eGdLcmhHQW9WZFVuRkdnM2xQa2tZVmpibU1OU0NjVUJNZGt1eHA0Y3Ywdk51M19nIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAzIHNlY29uZCBydWxlIG9uIEluc3RhZ3JhbT8iLCJsayI6IkdpWjNhR0YwSUdseklIUm9aU0F6SUhObFkyOXVaQ0J5ZFd4bElHOXVJR2x1YzNSaFozSmhiUSIsImJzIjoiYzQyUE1RdkNNQkNGY2IzSlRjM2lDYUl1VXBvWTZkYTVzNE56c0djYlNCTkpvdjM3Z2xUYmdvanpmZTk3NzZDQTlibFdFWFhBV0JQS3ZkaW42Ty1HMEZrc2JJaXE4cXJKLVlvdDI0NlRLTEJuOUpzQkIzS29jcmVvRzJYd29VdHlhTWhXc2Nhcjg3MFZQWkVKT1QteVFfdFBVSS1ESUdFLUxCUkpscVQ4TlN6bkN6WWJPZ1ZtMk4zZ0JOdFJEQU5kbkMyX2ZiMWptX1lYLWxrMG5Ud0IiLCJpZCI6ImZjX1p0TUNhOHZBRDllMXJ1RVA4LWpWTVFfNiJ9"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "NplTt3iczVbLcrJIFK6a9bzGsCFRiBolVVSquah4SdKJueiGQmgb5NIRMOj2f5ZZzcPMZnbzNNNc9Aejucxm5lTpobvPvc_H4cfvnhO4f_9q23H8Gl3V60mS1DAh2EM1k_h1I9oGZn1BvCg07WvsiWuXsT0RBUxE1qGJHEs07ZD4qFgXqxqZM9s3scGYkcgxyBFn8Vg2Om9AERAfrtW7zvnyaQyZzLyoz40ILan3zTKq63X65_7WUOiiFtVQoPekWrftAA-N-KDl1i64i0bttm74VAb8tzQGQMOUuwDgj-Qk-FWL0AZABfKhvprz0j51TX1qQNbyk1P-H1KjqaYspcvU0C1YLO_cHn2-2Uk9ap_ERfVBb796LsLKmXsY7mck71XTDCq2PqIjRczqMqxYrp4do171RJoqQElK5t-lU3KQqz6mfwnoNu_GAEJ40tOOqOnhFHAe-KRPdhE9CoOHmGpJdQvTLufq85Ayvu6Ytpk9hFHa_PJE4Eh_tYX9se2_YKExbvjDNmguE3S7GjWGuG7OqZxHDAtZuq1z19mav-BbnNBod84y4JnRHnlRGXkhibg46IzPY642qkn8DnPVbA-LBTUNHGsmLOFdKcpU6vX7cp2zMhyYcCueuwW3gaRBYFavGw7VUVmIwkWht9zB5fKr-3jkDzB3mEeaHSkMPBZboNptcArUhwM_--fbo2bTPDKvVWe9AnNaN3OipV2XmcHvMXcPaB3SdIoSV16OkqxgiRYYpm-KIcByLOeyWjONb3djUFW11PperWxDzhPpggrJpUionppKJQCrwF0PHmXNKbbz6DHOPUkQ76uS-ZDfoy5PlO537aNHXyL1Ky-WPIodyA4wU8aaenPZnS2EfmxPBrrCCZvu4NmbrJ5voA6PY4v48--NNfN_D8Dd0POKzj8JwNTTlwAI7Y8AeGzo5QCU3RMAfMgBeHzo3e2kDobeewDKwCkBMB16VGOTh35k6H0fgNLnACxfVxmAP6-qAkD1FAB7ahWA06W6G3rHAVg4-AnAfzv0pO8PvQyHKGfVCbhe4pOTUO30XgbqizF6Oyc2DrxQnc9ct-dH8QZ8OgkXfnzlG5Z3pjvWlXQxiLfWmU43yBWymJX4bBsx60RsbCPWsZDhsW-UEdZDAY5tdkFCVgui2MCh4bP3CHlUlLAYxaztYJsNUYyC2CHBNeN7IRE5o6XwQbJ2Wm19pURbXW7JDcWdzJ6XxOoLk9VqMJxCU7CaY-dBn6kNc9za8uspPxstltukbRsv6nY-B09vHtwY3MgaxRFOZv2bicaRrdE-3xovC17yAp_bjKNVgmaXa-DiJd9H0w3fv1Ckp5l2r_WzaCLxlVM0beHCJmkyfmiKtBWaGNzA9EPPAFICBlnvSvcryke0YeZEArA_BVDB9EforTGRaegoot_8Flq0hbnRFOadxqVgMD6Ot69ik2eiIBT5P8wQGTG9BCP-0_3lL_QPksaL-A",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=NplTt3iczVbLcrJIFK6a9bzGsCFRiBolVVSquah4SdKJueiGQmgb5NIRMOj2f5ZZzcPMZnbzNNNc9Aejucxm5lTpobvPvc_H4cfvnhO4f_9q23H8Gl3V60mS1DAh2EM1k_h1I9oGZn1BvCg07WvsiWuXsT0RBUxE1qGJHEs07ZD4qFgXqxqZM9s3scGYkcgxyBFn8Vg2Om9AERAfrtW7zvnyaQyZzLyoz40ILan3zTKq63X65_7WUOiiFtVQoPekWrftAA-N-KDl1i64i0bttm74VAb8tzQGQMOUuwDgj-Qk-FWL0AZABfKhvprz0j51TX1qQNbyk1P-H1KjqaYspcvU0C1YLO_cHn2-2Uk9ap_ERfVBb796LsLKmXsY7mck71XTDCq2PqIjRczqMqxYrp4do171RJoqQElK5t-lU3KQqz6mfwnoNu_GAEJ40tOOqOnhFHAe-KRPdhE9CoOHmGpJdQvTLufq85Ayvu6Ytpk9hFHa_PJE4Eh_tYX9se2_YKExbvjDNmguE3S7GjWGuG7OqZxHDAtZuq1z19mav-BbnNBod84y4JnRHnlRGXkhibg46IzPY642qkn8DnPVbA-LBTUNHGsmLOFdKcpU6vX7cp2zMhyYcCueuwW3gaRBYFavGw7VUVmIwkWht9zB5fKr-3jkDzB3mEeaHSkMPBZboNptcArUhwM_--fbo2bTPDKvVWe9AnNaN3OipV2XmcHvMXcPaB3SdIoSV16OkqxgiRYYpm-KIcByLOeyWjONb3djUFW11PperWxDzhPpggrJpUionppKJQCrwF0PHmXNKbbz6DHOPUkQ76uS-ZDfoy5PlO537aNHXyL1Ky-WPIodyA4wU8aaenPZnS2EfmxPBrrCCZvu4NmbrJ5voA6PY4v48--NNfN_D8Dd0POKzj8JwNTTlwAI7Y8AeGzo5QCU3RMAfMgBeHzo3e2kDobeewDKwCkBMB16VGOTh35k6H0fgNLnACxfVxmAP6-qAkD1FAB7ahWA06W6G3rHAVg4-AnAfzv0pO8PvQyHKGfVCbhe4pOTUO30XgbqizF6Oyc2DrxQnc9ct-dH8QZ8OgkXfnzlG5Z3pjvWlXQxiLfWmU43yBWymJX4bBsx60RsbCPWsZDhsW-UEdZDAY5tdkFCVgui2MCh4bP3CHlUlLAYxaztYJsNUYyC2CHBNeN7IRE5o6XwQbJ2Wm19pURbXW7JDcWdzJ6XxOoLk9VqMJxCU7CaY-dBn6kNc9za8uspPxstltukbRsv6nY-B09vHtwY3MgaxRFOZv2bicaRrdE-3xovC17yAp_bjKNVgmaXa-DiJd9H0w3fv1Ckp5l2r_WzaCLxlVM0beHCJmkyfmiKtBWaGNzA9EPPAFICBlnvSvcryke0YeZEArA_BVDB9EforTGRaegoot_8Flq0hbnRFOadxqVgMD6Ot69ik2eiIBT5P8wQGTG9BCP-0_3lL_QPksaL-A"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "What's the Ideal Video Length for Engagement?",
+        "link": "https://www.reddit.com/r/socialmedia/comments/1jlhpfz/whats_the_ideal_video_length_for_engagement/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnwEBxCJF1zgddU3Z-M5ljpIgNeP1lyosQEGWmEVNAjXSyvhqlo1rF23-6mC_iSb9q1Kw4jTlvfpJez9fXNt-gAyT_XMzNlpXnzFKO5zG0q7dvB9YktqUeDDUfIK1InrJsLJ8ZioT5PWNGkVBuq2L28RfkCOubt87De-Qk3UpjHJo8b8mqMhqsTZTpief4pxe4qE6pqREgz2mgguGjTPu4DU&ved=2ahUKEwjLi8zxvZuYAxXXmisGHXN0NQYQFnoECCwQAQ&uoh=1",
+        "displayed_link": "10+ comments",
+        "date": "1 year ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+        "snippet": "Short-form content is dominating social media, but platforms have different preferences. TikTok, Instagram Reels, and YouTube Shorts all push quick videos, ...",
+        "sitelinks": {
+          "list": [
+            {
+              "title": "What is the ideal length for an Instagram reel? - Reddit",
+              "link": "https://www.google.com/goto?url=CAESqQEBxCJF13-m2105qLKrad7Ho5K9qJp1kaCG0nxnBMIBhKgzteOil2_JEtgLv8D5npML4KgHZ1w634lozfxZdIkDi3S-qwyh9As0FvgcPK3umT7h-ByXWNea4zbLaitSH5_91wEy5VNVDyS1gCgvcvpJIQRmXzQB_QHU_GubCbT7NPTjJOsiKINiJrYByRvcPQtYM-QdgGzIDQGPaRZzmvQDF5WzyYtx7mJc&gsessionid=Pz-QcFqNj9x5PaEBTkCaT3acTUZfUMQ-gWttObon8d8A_yDGEVzKXA",
+              "answer_count": 21,
+              "date": "4 Aug 2025"
+            },
+            {
+              "title": "What's a good length for a Reel these days? : r ...",
+              "link": "https://www.google.com/goto?url=CAESoQEBxCJF1wm6NxLeNFElIWZK8SBvaaCw-tckbEPDhfgD14dcqs3UVONi-QT_infAtyKBDDrE5w9ls8BYcJ_O3E_tlHFTaVhxEs2ZycxbKjYJNOU9ypbkFkGr9Lcdbp2-Kmx1BspVcDHZdLuebhPd8l7SqPBX8IngX_BsJVz9QjJqMzVrkmyZO88ZcUUbdMKD4UQMJa7XZ0o9Ru-WIn32IPUdkQ&gsessionid=Pz-QcFqNj9x5PaEBTkCaT3acTUZfUMQ-gWttObon8d8A_yDGEVzKXA",
+              "answer_count": 21,
+              "date": "11 Feb 2026"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Generally, 7-15 secs works best for quick engagement, but 30-60 secs can be better for storytelling and retention. Testing different lengths and ...",
+            "source_info_link": "https://www.reddit.com/r/socialmedia/comments/1jlhpfz/whats_the_ideal_video_length_for_engagement/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuUBL2dvdG8_dXJsPUNBRVNud0VCeENKRjEwVTlzTktBWl9hQm5neGluSW5LUDV5TFVMRzlsTUlFLWRpdklRbFprQXcteWZQUlh5SWE4WHZsLWg0SndXWWVIaUZDODlxdUs4QkVTSlB2WG9uLXZyN21WcWlNRFZod2pQQ2xsSnpSeHJNcy1WQ0owSE95eW1WaFRKR2puV1ZLTzZlZDRfUlo3WjdHSXNrQVkySVFrMDdEUWV1T2s2MTVMZm5fZU9KZC01b2lEYzVMSzFySzEyZ2ZLcDBoTDUtUjg5T01qMVlIZmVxQ3RHZxIEGgIIABqJCBICCAAaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQOMHCAAQABgAIAAqEgoEd2hhdBVUXZFAGgV3aGF0cyoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKkgKBWlkZWFsFY65fkAaBmEgZ29vZBoJYSBwZXJmZWN0GgRiZXN0GgRnb29kGgdvcHRpbWFsGgtyZWNvbW1lbmRlZBoFcmlnaHQqIQoFdmlkZW8V412qQBoGdmlkZW9zGgt2aWRlb2xlbmd0aCogCgZsZW5ndGgVWjqZQBoEdGltZRoLdmlkZW9sZW5ndGgqCgoDZm9yFQAAAAAqKwoJaW5zdGFncmFtFe4usz8aAmlnGgVpbnN0YRoOaW5zdGFncmFtcmVlbHMqIgoFcmVlbHMVYx7CPxoEcmVlbBoOaW5zdGFncmFtcmVlbHMqCQoCdG8VAAAAACpACgNnZXQVAAAAABoHYWNoaWV2ZRoHZ2V0dGluZxoEaGF2ZRoEbWFrZRoGb2J0YWluGgVyZWFjaBoHZ2V0aGlnaCpDCgRoaWdoFQAAAAAaBmhpZ2hlchoHaGlnaGVzdBoFaGlnaHMaBnN0b25lZBoHZ2V0aGlnaBoNaGlnaHJldGVudGlvbio3CglyZXRlbnRpb24Vqq8hPxoGcmV0YWluGg1oaWdocmV0ZW50aW9uGg5pdjtwO3JldGVudGlvbjLlAS9nb3RvP3VybD1DQUVTbndFQnhDSkYxMFU5c05LQVpfYUJuZ3hpbkluS1A1eUxVTEc5bE1JRS1kaXZJUWxaa0F3LXlmUFJYeUlhOFh2bC1oNEp3V1llSGlGQzg5cXVLOEJFU0pQdlhvbi12cjdtVnFpTURWaHdqUENsbEp6UnhyTXMtVkNKMEhPeXltVmhUSkdqbldWS082ZWQ0X1JaN1o3R0lza0FZMklRazA3RFFldU9rNjE1TGZuX2VPSmQtNW9pRGM1TEsxcksxMmdmS3AwaEw1LVI4OU9NajFZSGZlcUN0R2c6SFdoYXQmIzM5O3MgdGhlIDxiPklkZWFsIFZpZGVvIExlbmd0aDwvYj4gZm9yIEVuZ2FnZW1lbnQ_IDogci9zb2NpYWxtZWRpYUKgAUdlbmVyYWxseSwgNy0xNSBzZWNzIHdvcmtzIGJlc3QgZm9yIHF1aWNrIGVuZ2FnZW1lbnQsIGJ1dCA8Yj4zMC02MCBzZWNzIGNhbiBiZSBiZXR0ZXIgZm9yIHN0b3J5dGVsbGluZyBhbmQgcmV0ZW50aW9uPC9iPi4gVGVzdGluZyBkaWZmZXJlbnQgbGVuZ3RocyBhbmQmbmJzcDsuLi5KA2ZvckoCaXNKA3RoZUoCdG9SBGhhdmVSBGJlc3RSBHRpbWUiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuUBL2dvdG8_dXJsPUNBRVNud0VCeENKRjEwVTlzTktBWl9hQm5neGluSW5LUDV5TFVMRzlsTUlFLWRpdklRbFprQXcteWZQUlh5SWE4WHZsLWg0SndXWWVIaUZDODlxdUs4QkVTSlB2WG9uLXZyN21WcWlNRFZod2pQQ2xsSnpSeHJNcy1WQ0owSE95eW1WaFRKR2puV1ZLTzZlZDRfUlo3WjdHSXNrQVkySVFrMDdEUWV1T2s2MTVMZm5fZU9KZC01b2lEYzVMSzFySzEyZ2ZLcDBoTDUtUjg5T01qMVlIZmVxQ3RHZxIEGgIIABqJCBICCAAaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQOMHCAAQABgAIAAqEgoEd2hhdBVUXZFAGgV3aGF0cyoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKkgKBWlkZWFsFY65fkAaBmEgZ29vZBoJYSBwZXJmZWN0GgRiZXN0GgRnb29kGgdvcHRpbWFsGgtyZWNvbW1lbmRlZBoFcmlnaHQqIQoFdmlkZW8V412qQBoGdmlkZW9zGgt2aWRlb2xlbmd0aCogCgZsZW5ndGgVWjqZQBoEdGltZRoLdmlkZW9sZW5ndGgqCgoDZm9yFQAAAAAqKwoJaW5zdGFncmFtFe4usz8aAmlnGgVpbnN0YRoOaW5zdGFncmFtcmVlbHMqIgoFcmVlbHMVYx7CPxoEcmVlbBoOaW5zdGFncmFtcmVlbHMqCQoCdG8VAAAAACpACgNnZXQVAAAAABoHYWNoaWV2ZRoHZ2V0dGluZxoEaGF2ZRoEbWFrZRoGb2J0YWluGgVyZWFjaBoHZ2V0aGlnaCpDCgRoaWdoFQAAAAAaBmhpZ2hlchoHaGlnaGVzdBoFaGlnaHMaBnN0b25lZBoHZ2V0aGlnaBoNaGlnaHJldGVudGlvbio3CglyZXRlbnRpb24Vqq8hPxoGcmV0YWluGg1oaWdocmV0ZW50aW9uGg5pdjtwO3JldGVudGlvbjLlAS9nb3RvP3VybD1DQUVTbndFQnhDSkYxMFU5c05LQVpfYUJuZ3hpbkluS1A1eUxVTEc5bE1JRS1kaXZJUWxaa0F3LXlmUFJYeUlhOFh2bC1oNEp3V1llSGlGQzg5cXVLOEJFU0pQdlhvbi12cjdtVnFpTURWaHdqUENsbEp6UnhyTXMtVkNKMEhPeXltVmhUSkdqbldWS082ZWQ0X1JaN1o3R0lza0FZMklRazA3RFFldU9rNjE1TGZuX2VPSmQtNW9pRGM1TEsxcksxMmdmS3AwaEw1LVI4OU9NajFZSGZlcUN0R2c6SFdoYXQmIzM5O3MgdGhlIDxiPklkZWFsIFZpZGVvIExlbmd0aDwvYj4gZm9yIEVuZ2FnZW1lbnQ_IDogci9zb2NpYWxtZWRpYUKgAUdlbmVyYWxseSwgNy0xNSBzZWNzIHdvcmtzIGJlc3QgZm9yIHF1aWNrIGVuZ2FnZW1lbnQsIGJ1dCA8Yj4zMC02MCBzZWNzIGNhbiBiZSBiZXR0ZXIgZm9yIHN0b3J5dGVsbGluZyBhbmQgcmV0ZW50aW9uPC9iPi4gVGVzdGluZyBkaWZmZXJlbnQgbGVuZ3RocyBhbmQmbmJzcDsuLi5KA2ZvckoCaXNKA3RoZUoCdG9SBGhhdmVSBGJlc3RSBHRpbWUiAhABSABYAGgA",
+        "source": "Reddit \u00b7 r/socialmedia"
+      },
+      {
+        "position": 2,
+        "title": "Reels are still the most versatile content format on ...",
+        "link": "https://www.instagram.com/p/DUtDbYeDZ_J/?hl=en",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHEIkXXw3hvpE6ipV4sTuePZTh-gE3qqzc39Fi04gQO3YLllvuO5yr7ddQsRZ3rYZtyQmRq8YcsG334kIZr46uyZsbUphCX7gA2d8oaZxPH2uEwmDlfqkvoNHYMYGBrk7gWKgqgjZjmv0Di&ved=2ahUKEwjLi8zxvZuYAxXXmisGHXN0NQYQFnoECCUQAQ&uoh=1",
+        "displayed_link": "710+ likes",
+        "date": "9 months ago",
+        "favicon": "https://serpapi.com/searches/6b02d3654814e5ffe8b6f2e9/images/y19wV1A0GHKaVDuF02ugZmYBRl7DgJ38TVlV8j_yyq0.png",
+        "snippet": "Reels over 3 minutes aren't recommended to new audiences, so if growth is your goal, shorter might be smarter. The formula? Hook them in the ...",
+        "snippet_highlighted_words": [
+          "Reels over 3 minutes aren't recommended to new audiences"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Reels over 3 minutes aren't recommended to new audiences, so if growth is your goal, shorter might be smarter. The formula? Hook them in the ...",
+            "source_info_link": "https://www.instagram.com/p/DUtDbYeDZ_J/?hl=en",
+            "icon": "https://serpapi.com/searches/6b02d3654814e5ffe8b6f2e9/images/y19wV1A0GHKaVDuF02ugZmVAFWUSY_eMAS-hbWSdJF5cZbigfHTVT_kW2fM40THN.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp4BL2dvdG8_dXJsPUNBRVNhd0hFSWtYWEhzTy1vVlFrSVdYdGJDcW5ualRTTWVhTnQ3UktXZU1tMG5DUUJBNHNhME9tSDN5cm9KcU10UGxtQktKcWlpcWdwQ1FickFXbnJ1cXpzaElpT0JySUprYkx0TFZqQzgwMngxRndSN1ZUenp5SVczVE1QZEZ4elY4SHBwdjU2QXNJOGpuYWVKdWgSBBoCCAAaygcSAggAGgAiACoAMgYIAhICdWs6AEIECAEQAEoAWgByAHoAgkCkBwgAEAAYACAAKhIKBHdoYXQVx0TGPxoFd2hhdHMqCQoCaXMVAAAAACoKCgN0aGUVAAAAACpICgVpZGVhbBVg5RhAGgZhIGdvb2QaCWEgcGVyZmVjdBoEYmVzdBoEZ29vZBoHb3B0aW1hbBoLcmVjb21tZW5kZWQaBXJpZ2h0KiEKBXZpZGVvFRbMCT8aBnZpZGVvcxoLdmlkZW9sZW5ndGgqIAoGbGVuZ3RoFY8tQUAaBHRpbWUaC3ZpZGVvbGVuZ3RoKgoKA2ZvchUAAAAAKisKCWluc3RhZ3JhbRUqspNAGgJpZxoFaW5zdGEaDmluc3RhZ3JhbXJlZWxzKiIKBXJlZWxzFZO7pUAaBHJlZWwaDmluc3RhZ3JhbXJlZWxzKgkKAnRvFQAAAAAqQAoDZ2V0FTPuaT8aB2FjaGlldmUaB2dldHRpbmcaBGhhdmUaBG1ha2UaBm9idGFpbhoFcmVhY2gaB2dldGhpZ2gqQwoEaGlnaBUAAAAAGgZoaWdoZXIaB2hpZ2hlc3QaBWhpZ2hzGgZzdG9uZWQaB2dldGhpZ2gaDWhpZ2hyZXRlbnRpb24qNwoJcmV0ZW50aW9uFaKvOz8aBnJldGFpbhoNaGlnaHJldGVudGlvbhoOaXY7cDtyZXRlbnRpb24yngEvZ290bz91cmw9Q0FFU2F3SEVJa1hYSHNPLW9WUWtJV1h0YkNxbm5qVFNNZWFOdDdSS1dlTW0wbkNRQkE0c2EwT21IM3lyb0pxTXRQbG1CS0pxaWlxZ3BDUWJyQVducnVxenNoSWlPQnJJSmtiTHRMVmpDODAyeDFGd1I3VlR6enlJVzNUTVBkRnh6VjhIcHB2NTZBc0k4am5hZUp1aDpQPGI-UmVlbHM8L2I-IGFyZSBzdGlsbCB0aGUgbW9zdCB2ZXJzYXRpbGUgY29udGVudCBmb3JtYXQgb24gPGI-SW5zdGFncmFtPC9iPiAuLi5CoAE8Yj5SZWVscyBvdmVyIDMgbWludXRlcyBhcmVuJiMzOTt0IHJlY29tbWVuZGVkIHRvIG5ldyBhdWRpZW5jZXM8L2I-LCBzbyBpZiBncm93dGggaXMgeW91ciBnb2FsLCBzaG9ydGVyIG1pZ2h0IGJlIHNtYXJ0ZXIuIFRoZSBmb3JtdWxhPyBIb29rIHRoZW0gaW4gdGhlJm5ic3A7Li4uSgJ0b0oDZm9ySgJpc0oDdGhlUgR0aW1lUgRiZXN0UgRoYXZlIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp4BL2dvdG8_dXJsPUNBRVNhd0hFSWtYWEhzTy1vVlFrSVdYdGJDcW5ualRTTWVhTnQ3UktXZU1tMG5DUUJBNHNhME9tSDN5cm9KcU10UGxtQktKcWlpcWdwQ1FickFXbnJ1cXpzaElpT0JySUprYkx0TFZqQzgwMngxRndSN1ZUenp5SVczVE1QZEZ4elY4SHBwdjU2QXNJOGpuYWVKdWgSBBoCCAAaygcSAggAGgAiACoAMgYIAhICdWs6AEIECAEQAEoAWgByAHoAgkCkBwgAEAAYACAAKhIKBHdoYXQVx0TGPxoFd2hhdHMqCQoCaXMVAAAAACoKCgN0aGUVAAAAACpICgVpZGVhbBVg5RhAGgZhIGdvb2QaCWEgcGVyZmVjdBoEYmVzdBoEZ29vZBoHb3B0aW1hbBoLcmVjb21tZW5kZWQaBXJpZ2h0KiEKBXZpZGVvFRbMCT8aBnZpZGVvcxoLdmlkZW9sZW5ndGgqIAoGbGVuZ3RoFY8tQUAaBHRpbWUaC3ZpZGVvbGVuZ3RoKgoKA2ZvchUAAAAAKisKCWluc3RhZ3JhbRUqspNAGgJpZxoFaW5zdGEaDmluc3RhZ3JhbXJlZWxzKiIKBXJlZWxzFZO7pUAaBHJlZWwaDmluc3RhZ3JhbXJlZWxzKgkKAnRvFQAAAAAqQAoDZ2V0FTPuaT8aB2FjaGlldmUaB2dldHRpbmcaBGhhdmUaBG1ha2UaBm9idGFpbhoFcmVhY2gaB2dldGhpZ2gqQwoEaGlnaBUAAAAAGgZoaWdoZXIaB2hpZ2hlc3QaBWhpZ2hzGgZzdG9uZWQaB2dldGhpZ2gaDWhpZ2hyZXRlbnRpb24qNwoJcmV0ZW50aW9uFaKvOz8aBnJldGFpbhoNaGlnaHJldGVudGlvbhoOaXY7cDtyZXRlbnRpb24yngEvZ290bz91cmw9Q0FFU2F3SEVJa1hYSHNPLW9WUWtJV1h0YkNxbm5qVFNNZWFOdDdSS1dlTW0wbkNRQkE0c2EwT21IM3lyb0pxTXRQbG1CS0pxaWlxZ3BDUWJyQVducnVxenNoSWlPQnJJSmtiTHRMVmpDODAyeDFGd1I3VlR6enlJVzNUTVBkRnh6VjhIcHB2NTZBc0k4am5hZUp1aDpQPGI-UmVlbHM8L2I-IGFyZSBzdGlsbCB0aGUgbW9zdCB2ZXJzYXRpbGUgY29udGVudCBmb3JtYXQgb24gPGI-SW5zdGFncmFtPC9iPiAuLi5CoAE8Yj5SZWVscyBvdmVyIDMgbWludXRlcyBhcmVuJiMzOTt0IHJlY29tbWVuZGVkIHRvIG5ldyBhdWRpZW5jZXM8L2I-LCBzbyBpZiBncm93dGggaXMgeW91ciBnb2FsLCBzaG9ydGVyIG1pZ2h0IGJlIHNtYXJ0ZXIuIFRoZSBmb3JtdWxhPyBIb29rIHRoZW0gaW4gdGhlJm5ic3A7Li4uSgJ0b0oDZm9ySgJpc0oDdGhlUgR0aW1lUgRiZXN0UgRoYXZlIgIQAUgAWABoAA",
+        "source": "Instagram \u00b7 thelucasokeefe",
+        "read_more_link": "https://www.google.com/goto?url=CAESvwEBxCJF10sWK9tX4MCp87JmYaeJZQLlQRhKSN1ZrBS_bbIOy2g7g2xBk7JIE1Xt42iMouUOesDaprlo9_aPMOp8-8EcSjD02QxrRMyOOJjtWHc-CZJrLZ0OrrhLRa-451vfWgIiAGaxzma7X5FaUXgkKmQAm5qjuzqHKv6H-YV8WltB6QgEIOM9SfpvwM3HQ1NUqo2W8hzWvz2LCpkDDL__hYqWSlfGeBrdeMipshzl8lNz_i6mV-yT5YJj5_n5xQ&gsessionid=Pz-QcFqNj9x5PaEBTkCaT3acTUZfUMQ-gWttObon8d8A_yDGEVzKXA"
+      },
+      {
+        "position": 3,
+        "title": "Ideal Instagram Reels Length & Format for Retention",
+        "link": "https://www.google.com/goto?url=CAEScwHEIkXX69zoLk35A5oJ8MaslLmGt2r7SDpXuZ3IwawzQCLVLqookW-RoIC8JxYB-3CGs1b4Pa17ebPlRVZ1WrqMqobe_b-ZbmFPwdfmB_AzxJFg4UcHSQ1KQmdjtg4XCgcqzRzmJfclSzKVtZtnWLGVvTY",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHEIkXXNCp5cXf4FGU-BfMG2uz1rSBP4n7VvIAbAD5FzWa9Py6QQsQPmdanMZ3YFfc1viOgkEpnsPzawhY-3-ysGZOW-D_4Nef-02OmnB60tLuoxszwTbXdt3td5OG6TdREuMGaFOiEknRq3jaoMtGQzPQ&ved=2ahUKEwjLi8zxvZuYAxXXmisGHXN0NQYQFnoECCMQAQ&uoh=1",
+        "displayed_link": "https://www.opus.pro \u203a blog \u203a ideal-instagram-reels-len...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAV1BMVEUOEBULDRMAAABubnClpaa_v8AAAAj___81Njj09PT7-_u4uLmPj5CYmJlhYWNQUVNLS0339_cuLzLCwsOfn6Ctra6enp94eXp-f4COjo9paWuCg4RTVFaiNnBOAAAAxklEQVR4AbWSVw7DMAxDW2Z6r-72_ueslC3Av2Gm_UDR63K6rph0raOm7bq2qeAe7bCoRS8ZRjVsUiOEb-RObaw1mv_G_pjHPgfvnIdl7yF3ygsxsSnFMOXuRmraOCyKjl6bFQ3lgX2dYS8ot8GhqvHUnYFMH28OddFRVUc-0D8BZ-l_g4XgbRjuDLsafDCUZSV8lk4MSMDXPBUrprJBuQgSZl4-ty2fhMHJhZdl5ZbJeb4qm413132epXx_pXJMsKgHGJ2tPwf1DT7eKooXAAAAAElFTkSuQmCC.png",
+        "date": "11 Nov 2025",
+        "snippet": "Multiple studies and creator reports consistently show that Reels between 7 and 15 seconds achieve the highest average retention rates, ...",
+        "snippet_highlighted_words": [
+          "Reels between 7 and 15 seconds"
+        ],
+        "sitelinks": {
+          "inline": [
+            {
+              "title": "Why Reel Length Directly...",
+              "link": "https://www.google.com/goto?url=CAEShQEBxCJF1589BDs3t2tmh_9zU-AY9qt76zY5XB_uPrr_1n3QXQMyMjZyoUzc2JpkjxHigseR70PdTVbdbgkegaKpDKDJTyPvrHDWiOyDGPCG3E-Y6Ee2Jua5_AyPcPDuLVLKrlJaI8wWx1WkHkXu5CQJT3B-HwBAFPEQWe3eLXkBiIimWGt0&gsessionid=Pz-QcFqNj9x5PaEBTkCaT3acTUZfUMQ-gWttObon8d8A_yDGEVzKXA"
+            },
+            {
+              "title": "The Format Elements That...",
+              "link": "https://www.google.com/goto?url=CAEShQEBxCJF1w_Vy8t-70aqGjzzOTKSMjsaf4xaQO9Dkk5a94aWSnJx-_v4X8pZrFQvSotIA9jpnIwwJzEVm5mcOl_kUWYURh9mV2KuGLA6-iIV9lG2VC2wt6kaSRT90cQVe1PgPEcMLBK9hwVl2jfmtfHSfQTgnB18AxeBhrETKVXtpek5IR1L&gsessionid=Pz-QcFqNj9x5PaEBTkCaT3acTUZfUMQ-gWttObon8d8A_yDGEVzKXA"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Multiple studies and creator reports consistently show that Reels between 7 and 15 seconds achieve the highest average retention rates, ...",
+            "source_info_link": "https://www.google.com/goto?url=CAEScwHEIkXX69zoLk35A5oJ8MaslLmGt2r7SDpXuZ3IwawzQCLVLqookW-RoIC8JxYB-3CGs1b4Pa17ebPlRVZ1WrqMqobe_b-ZbmFPwdfmB_AzxJFg4UcHSQ1KQmdjtg4XCgcqzRzmJfclSzKVtZtnWLGVvTY",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAV1BMVEUOEBULDRMAAABubnClpaa_v8AAAAj___81Njj09PT7-_u4uLmPj5CYmJlhYWNQUVNLS0339_cuLzLCwsOfn6Ctra6enp94eXp-f4COjo9paWuCg4RTVFaiNnBOAAAAxklEQVR4AbWSVw7DMAxDW2Z6r-72_ueslC3Av2Gm_UDR63K6rph0raOm7bq2qeAe7bCoRS8ZRjVsUiOEb-RObaw1mv_G_pjHPgfvnIdl7yF3ygsxsSnFMOXuRmraOCyKjl6bFQ3lgX2dYS8ot8GhqvHUnYFMH28OddFRVUc-0D8BZ-l_g4XgbRjuDLsafDCUZSV8lk4MSMDXPBUrprJBuQgSZl4-ty2fhMHJhZdl5ZbJeb4qm413132epXx_pXJMsKgHGJ2tPwf1DT7eKooXAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqkBL2dvdG8_dXJsPUNBRVNjd0hFSWtYWDY5em9MazM1QTVvSjhNYXNsTG1HdDJyN1NEcFh1WjNJd2F3elFDTFZMcW9va1ctUm9JQzhKeFlCLTNDR3MxYjRQYTE3ZWJQbFJWWjFXcnFNcW9iZV9iLVpibUZQd2RmbUJfQXp4SkZnNFVjSFNRMUtRbWRqdGc0WENnY3F6UnptSmZjbFN6S1Z0WnRuV0xHVnZUWRIEGgIIABrMBxICCAEaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQKYHCAAQABgAIAAqEgoEd2hhdBXZ8Lk_GgV3aGF0cyoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKkgKBWlkZWFsFYCqi0AaBmEgZ29vZBoJYSBwZXJmZWN0GgRiZXN0GgRnb29kGgdvcHRpbWFsGgtyZWNvbW1lbmRlZBoFcmlnaHQqIQoFdmlkZW8VZ80gQBoGdmlkZW9zGgt2aWRlb2xlbmd0aCogCgZsZW5ndGgVXLyiQBoEdGltZRoLdmlkZW9sZW5ndGgqCgoDZm9yFQAAAAAqKwoJaW5zdGFncmFtFX7IqEAaAmlnGgVpbnN0YRoOaW5zdGFncmFtcmVlbHMqIgoFcmVlbHMVCs6qQBoEcmVlbBoOaW5zdGFncmFtcmVlbHMqCQoCdG8VAAAAACpACgNnZXQV5NaiPxoHYWNoaWV2ZRoHZ2V0dGluZxoEaGF2ZRoEbWFrZRoGb2J0YWluGgVyZWFjaBoHZ2V0aGlnaCpDCgRoaWdoFQnSoz8aBmhpZ2hlchoHaGlnaGVzdBoFaGlnaHMaBnN0b25lZBoHZ2V0aGlnaBoNaGlnaHJldGVudGlvbio3CglyZXRlbnRpb24V3MGWQBoGcmV0YWluGg1oaWdocmV0ZW50aW9uGg5pdjtwO3JldGVudGlvbjKpAS9nb3RvP3VybD1DQUVTY3dIRUlrWFg2OXpvTGszNUE1b0o4TWFzbExtR3QycjdTRHBYdVozSXdhd3pRQ0xWTHFvb2tXLVJvSUM4SnhZQi0zQ0dzMWI0UGExN2ViUGxSVloxV3JxTXFvYmVfYi1aYm1GUHdkZm1CX0F6eEpGZzRVY0hTUTFLUW1kanRnNFhDZ2NxelJ6bUpmY2xTektWdFp0bldMR1Z2VFk6UDxiPklkZWFsIEluc3RhZ3JhbSBSZWVscyBMZW5ndGg8L2I-ICZhbXA7IEZvcm1hdCBmb3IgPGI-UmV0ZW50aW9uPC9iPiAtIE9wdXNDbGlwQpcBTXVsdGlwbGUgc3R1ZGllcyBhbmQgY3JlYXRvciByZXBvcnRzIGNvbnNpc3RlbnRseSBzaG93IHRoYXQgPGI-UmVlbHMgYmV0d2VlbiA3IGFuZCAxNSBzZWNvbmRzPC9iPiBhY2hpZXZlIHRoZSBoaWdoZXN0IGF2ZXJhZ2UgcmV0ZW50aW9uIHJhdGVzLCZuYnNwOy4uLkoDdGhlSgJpc0oDZm9ySgJ0b1IEaGF2ZVIEYmVzdFIEdGltZSICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqkBL2dvdG8_dXJsPUNBRVNjd0hFSWtYWDY5em9MazM1QTVvSjhNYXNsTG1HdDJyN1NEcFh1WjNJd2F3elFDTFZMcW9va1ctUm9JQzhKeFlCLTNDR3MxYjRQYTE3ZWJQbFJWWjFXcnFNcW9iZV9iLVpibUZQd2RmbUJfQXp4SkZnNFVjSFNRMUtRbWRqdGc0WENnY3F6UnptSmZjbFN6S1Z0WnRuV0xHVnZUWRIEGgIIABrMBxICCAEaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQKYHCAAQABgAIAAqEgoEd2hhdBXZ8Lk_GgV3aGF0cyoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKkgKBWlkZWFsFYCqi0AaBmEgZ29vZBoJYSBwZXJmZWN0GgRiZXN0GgRnb29kGgdvcHRpbWFsGgtyZWNvbW1lbmRlZBoFcmlnaHQqIQoFdmlkZW8VZ80gQBoGdmlkZW9zGgt2aWRlb2xlbmd0aCogCgZsZW5ndGgVXLyiQBoEdGltZRoLdmlkZW9sZW5ndGgqCgoDZm9yFQAAAAAqKwoJaW5zdGFncmFtFX7IqEAaAmlnGgVpbnN0YRoOaW5zdGFncmFtcmVlbHMqIgoFcmVlbHMVCs6qQBoEcmVlbBoOaW5zdGFncmFtcmVlbHMqCQoCdG8VAAAAACpACgNnZXQV5NaiPxoHYWNoaWV2ZRoHZ2V0dGluZxoEaGF2ZRoEbWFrZRoGb2J0YWluGgVyZWFjaBoHZ2V0aGlnaCpDCgRoaWdoFQnSoz8aBmhpZ2hlchoHaGlnaGVzdBoFaGlnaHMaBnN0b25lZBoHZ2V0aGlnaBoNaGlnaHJldGVudGlvbio3CglyZXRlbnRpb24V3MGWQBoGcmV0YWluGg1oaWdocmV0ZW50aW9uGg5pdjtwO3JldGVudGlvbjKpAS9nb3RvP3VybD1DQUVTY3dIRUlrWFg2OXpvTGszNUE1b0o4TWFzbExtR3QycjdTRHBYdVozSXdhd3pRQ0xWTHFvb2tXLVJvSUM4SnhZQi0zQ0dzMWI0UGExN2ViUGxSVloxV3JxTXFvYmVfYi1aYm1GUHdkZm1CX0F6eEpGZzRVY0hTUTFLUW1kanRnNFhDZ2NxelJ6bUpmY2xTektWdFp0bldMR1Z2VFk6UDxiPklkZWFsIEluc3RhZ3JhbSBSZWVscyBMZW5ndGg8L2I-ICZhbXA7IEZvcm1hdCBmb3IgPGI-UmV0ZW50aW9uPC9iPiAtIE9wdXNDbGlwQpcBTXVsdGlwbGUgc3R1ZGllcyBhbmQgY3JlYXRvciByZXBvcnRzIGNvbnNpc3RlbnRseSBzaG93IHRoYXQgPGI-UmVlbHMgYmV0d2VlbiA3IGFuZCAxNSBzZWNvbmRzPC9iPiBhY2hpZXZlIHRoZSBoaWdoZXN0IGF2ZXJhZ2UgcmV0ZW50aW9uIHJhdGVzLCZuYnNwOy4uLkoDdGhlSgJpc0oDZm9ySgJ0b1IEaGF2ZVIEYmVzdFIEdGltZSICEAFIAFgAaAA",
+        "source": "Opus Clip",
+        "read_more_link": "https://www.google.com/goto?url=CAES1AEBxCJF17z085b_O6OiSc5dhRtF5Qr0yXVo-C3SepuDQXdXGcvPm_QHEfJrhbj1XJ0X_T4joBtZiGlXT9bxeiPD9xXJAzovS7fH6GSfukWscWuTy26VcnAoLbvanIzfxlj7nM1GHrnLmHh2I_myFiuXJ5EN3zto-tEaBRcjsbY0vQMkB42dj5_65SL5x_R3vLxhpw8ConHCFlP235LEJFSa7wjx_dvxJzQQisMS3_uMYOqLKdd6jsRJkLXx2aL_ZPvt33Nc8xBIan85-eRHITRukfMX2Q&gsessionid=Pz-QcFqNj9x5PaEBTkCaT3acTUZfUMQ-gWttObon8d8A_yDGEVzKXA"
+      },
+      {
+        "position": 4,
+        "title": "Instagram Reels Length Guide 2025: Best Practices for ...",
+        "link": "https://www.google.com/goto?url=CAESkgEBxCJF194RofQB70aIYmgCdkJh9yqRr0KgFi5co-t4oabbbx_cFM7dwmEULDFxIu0mp-6oofSjUDJFV8ZucPlPrKmoZ_eJ5lybXDtjes-8DdtDWIgK1Wr4yYVXCi40qVlKmaK0YllVGGuXtcm8hOSKuoRoQtQxy9QmQfSzAN2uslurZoC4w8_C-KIu7tdTBIdWkQ",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkgEBxCJF1xlY1peQJ3DlgpDmDHPKEckg0BS8ZXha-VMp5adg8x5dc4H-kNNLT1w8SWd3gZncUubw5bAfLeKkO1fB_exbasvqTPWrfiLMsLZc-x480pApzKCBynWrkXJMio9UN7HrWl8Jm3WQlU1FFwlhcbmZ-GCM7QGr1PPYljO7hiotvQWbd9BBu5UP6ogNTFHrFw&ved=2ahUKEwjLi8zxvZuYAxXXmisGHXN0NQYQFnoECCgQAQ&uoh=1",
+        "displayed_link": "5 reactions",
+        "date": "1 year ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAm0lEQVR4AWP4__8_RRhMyLfs3sNQvOk_KRikB24ATNB2yhEQJtoQuAEwzVAAYtPVAMJe4Cjf8l-0bsd_RkIGQAGc_ej9t_-TDt_7_-vPXzD_6Yfv_-2nHSXWAAT49P33_z9__4HZl559JM2Aqm3XwXyXGcfA_H___pFmgFj9DjCfp3IrTIgkA5ADbbAbQA6mKDPp9x7YBTOAIgwAVba5DGceMlQAAAAASUVORK5CYII.png",
+        "snippet": "Many creators still prefer keeping their Reels between 7 to 15 seconds to maximize engagement. The Instagram algorithm favors videos that ...",
+        "snippet_highlighted_words": [
+          "7 to 15 seconds"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Many creators still prefer keeping their Reels between 7 to 15 seconds to maximize engagement. The Instagram algorithm favors videos that ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESkgEBxCJF194RofQB70aIYmgCdkJh9yqRr0KgFi5co-t4oabbbx_cFM7dwmEULDFxIu0mp-6oofSjUDJFV8ZucPlPrKmoZ_eJ5lybXDtjes-8DdtDWIgK1Wr4yYVXCi40qVlKmaK0YllVGGuXtcm8hOSKuoRoQtQxy9QmQfSzAN2uslurZoC4w8_C-KIu7tdTBIdWkQ",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAm0lEQVR4AWP4__8_RRhMyLfs3sNQvOk_KRikB24ATNB2yhEQJtoQuAEwzVAAYtPVAMJe4Cjf8l-0bsd_RkIGQAGc_ej9t_-TDt_7_-vPXzD_6Yfv_-2nHSXWAAT49P33_z9__4HZl559JM2Aqm3XwXyXGcfA_H___pFmgFj9DjCfp3IrTIgkA5ADbbAbQA6mKDPp9x7YBTOAIgwAVba5DGceMlQAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCeENKRjE5NFJvZlFCNzBhSVltZ0Nka0poOXlxUnIwS2dGaTVjby10NG9hYmJieF9jRk03ZHdtRVVMREZ4SXUwbXAtNm9vZlNqVURKRlY4WnVjUGxQckttb1pfZUo1bHliWER0amVzLThEZHREV0lnSzFXcjR5WVZYQ2k0MHFWbEttYUswWWxsVkdHdVh0Y204aE9TS3VvUm9RdFF4eTlRbVFmU3pBTjJ1c2x1clpvQzR3OF9DLUtJdTd0ZFRCSWRXa1ESBBoCCAAa8AcSAggAGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkDKBwgAEAAYACAAKhIKBHdoYXQV2B6MPxoFd2hhdHMqCQoCaXMVAAAAACoKCgN0aGUVAAAAACpICgVpZGVhbBWW21o_GgZhIGdvb2QaCWEgcGVyZmVjdBoEYmVzdBoEZ29vZBoHb3B0aW1hbBoLcmVjb21tZW5kZWQaBXJpZ2h0KiEKBXZpZGVvFbB0GkAaBnZpZGVvcxoLdmlkZW9sZW5ndGgqIAoGbGVuZ3RoFXB9v0AaBHRpbWUaC3ZpZGVvbGVuZ3RoKgoKA2ZvchUAAAAAKisKCWluc3RhZ3JhbRUnmeNAGgJpZxoFaW5zdGEaDmluc3RhZ3JhbXJlZWxzKiIKBXJlZWxzFXp720AaBHJlZWwaDmluc3RhZ3JhbXJlZWxzKgkKAnRvFQAAAAAqQAoDZ2V0FXTxlz8aB2FjaGlldmUaB2dldHRpbmcaBGhhdmUaBG1ha2UaBm9idGFpbhoFcmVhY2gaB2dldGhpZ2gqQwoEaGlnaBUBNKo_GgZoaWdoZXIaB2hpZ2hlc3QaBWhpZ2hzGgZzdG9uZWQaB2dldGhpZ2gaDWhpZ2hyZXRlbnRpb24qNwoJcmV0ZW50aW9uFcChwz8aBnJldGFpbhoNaGlnaHJldGVudGlvbhoOaXY7cDtyZXRlbnRpb24y1AEvZ290bz91cmw9Q0FFU2tnRUJ4Q0pGMTk0Um9mUUI3MGFJWW1nQ2RrSmg5eXFScjBLZ0ZpNWNvLXQ0b2FiYmJ4X2NGTTdkd21FVUxERnhJdTBtcC02b29mU2pVREpGVjhadWNQbFByS21vWl9lSjVseWJYRHRqZXMtOERkdERXSWdLMVdyNHlZVlhDaTQwcVZsS21hSzBZbGxWR0d1WHRjbThoT1NLdW9Sb1F0UXh5OVFtUWZTekFOMnVzbHVyWm9DNHc4X0MtS0l1N3RkVEJJZFdrUTpHPGI-SW5zdGFncmFtIFJlZWxzIExlbmd0aDwvYj4gR3VpZGUgMjAyNTogPGI-QmVzdDwvYj4gUHJhY3RpY2VzIGZvciAuLi5CmQFNYW55IGNyZWF0b3JzIHN0aWxsIHByZWZlciBrZWVwaW5nIHRoZWlyIFJlZWxzIGJldHdlZW4gPGI-NyB0byAxNSBzZWNvbmRzPC9iPiB0byBtYXhpbWl6ZSBlbmdhZ2VtZW50LiBUaGUgSW5zdGFncmFtIGFsZ29yaXRobSBmYXZvcnMgdmlkZW9zIHRoYXQmbmJzcDsuLi5KAnRvSgN0aGVKAmlzSgNmb3JSBGhhdmVSBGJlc3RSBHRpbWUiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCeENKRjE5NFJvZlFCNzBhSVltZ0Nka0poOXlxUnIwS2dGaTVjby10NG9hYmJieF9jRk03ZHdtRVVMREZ4SXUwbXAtNm9vZlNqVURKRlY4WnVjUGxQckttb1pfZUo1bHliWER0amVzLThEZHREV0lnSzFXcjR5WVZYQ2k0MHFWbEttYUswWWxsVkdHdVh0Y204aE9TS3VvUm9RdFF4eTlRbVFmU3pBTjJ1c2x1clpvQzR3OF9DLUtJdTd0ZFRCSWRXa1ESBBoCCAAa8AcSAggAGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkDKBwgAEAAYACAAKhIKBHdoYXQV2B6MPxoFd2hhdHMqCQoCaXMVAAAAACoKCgN0aGUVAAAAACpICgVpZGVhbBWW21o_GgZhIGdvb2QaCWEgcGVyZmVjdBoEYmVzdBoEZ29vZBoHb3B0aW1hbBoLcmVjb21tZW5kZWQaBXJpZ2h0KiEKBXZpZGVvFbB0GkAaBnZpZGVvcxoLdmlkZW9sZW5ndGgqIAoGbGVuZ3RoFXB9v0AaBHRpbWUaC3ZpZGVvbGVuZ3RoKgoKA2ZvchUAAAAAKisKCWluc3RhZ3JhbRUnmeNAGgJpZxoFaW5zdGEaDmluc3RhZ3JhbXJlZWxzKiIKBXJlZWxzFXp720AaBHJlZWwaDmluc3RhZ3JhbXJlZWxzKgkKAnRvFQAAAAAqQAoDZ2V0FXTxlz8aB2FjaGlldmUaB2dldHRpbmcaBGhhdmUaBG1ha2UaBm9idGFpbhoFcmVhY2gaB2dldGhpZ2gqQwoEaGlnaBUBNKo_GgZoaWdoZXIaB2hpZ2hlc3QaBWhpZ2hzGgZzdG9uZWQaB2dldGhpZ2gaDWhpZ2hyZXRlbnRpb24qNwoJcmV0ZW50aW9uFcChwz8aBnJldGFpbhoNaGlnaHJldGVudGlvbhoOaXY7cDtyZXRlbnRpb24y1AEvZ290bz91cmw9Q0FFU2tnRUJ4Q0pGMTk0Um9mUUI3MGFJWW1nQ2RrSmg5eXFScjBLZ0ZpNWNvLXQ0b2FiYmJ4X2NGTTdkd21FVUxERnhJdTBtcC02b29mU2pVREpGVjhadWNQbFByS21vWl9lSjVseWJYRHRqZXMtOERkdERXSWdLMVdyNHlZVlhDaTQwcVZsS21hSzBZbGxWR0d1WHRjbThoT1NLdW9Sb1F0UXh5OVFtUWZTekFOMnVzbHVyWm9DNHc4X0MtS0l1N3RkVEJJZFdrUTpHPGI-SW5zdGFncmFtIFJlZWxzIExlbmd0aDwvYj4gR3VpZGUgMjAyNTogPGI-QmVzdDwvYj4gUHJhY3RpY2VzIGZvciAuLi5CmQFNYW55IGNyZWF0b3JzIHN0aWxsIHByZWZlciBrZWVwaW5nIHRoZWlyIFJlZWxzIGJldHdlZW4gPGI-NyB0byAxNSBzZWNvbmRzPC9iPiB0byBtYXhpbWl6ZSBlbmdhZ2VtZW50LiBUaGUgSW5zdGFncmFtIGFsZ29yaXRobSBmYXZvcnMgdmlkZW9zIHRoYXQmbmJzcDsuLi5KAnRvSgN0aGVKAmlzSgNmb3JSBGhhdmVSBGJlc3RSBHRpbWUiAhABSABYAGgA",
+        "source": "LinkedIn \u00b7 Quantum IT Innovation",
+        "read_more_link": "https://www.google.com/goto?url=CAES8QEBxCJF13EmsFTmlSilP2LC1JuotdmC4QYAJAdIRdW1TRB-C0i6rxHGxJXYz7mZEoCS2mOJSg4iO53jydkgKOb14a_6hPuI96poAf3lnIrkc-sBv4JaZq0rH1acglrKsIHNjz8GoCNjyzUSOjCIUklUh_7Agjcre3b5GT7VfisMt8VWbL6A_WriZnmvsvYhUXsWO-33pxGSA8e2JcfJzM2QU-Djya00HpYnVL7Y9YI_uVK-sj6QX3wkvTiUSO7Ac_MXiFrAR6QxsjpkWC1fMeqR3CI_Qk2QXI-axUSYRyv6UatP7rXOOVU2waADg0btuym1&gsessionid=Pz-QcFqNj9x5PaEBTkCaT3acTUZfUMQ-gWttObon8d8A_yDGEVzKXA"
+      },
+      {
+        "position": 5,
+        "title": "How Long Should an Instagram Reel Be for Maximum ...",
+        "link": "https://www.google.com/goto?url=CAESdwHEIkXXfpX4jFa4F7CwWG4UnI5tzXUZbp_AVdJbee6CmwkEYd44wFR0HiluH-725SVY380EBuHTCD_-p38UzlEJ9KY35AM3xDeIJo2hsQ5v-I3YM2Zvza48kRfRvX86NUopg8Z7x1hjnhrWCEakFegTuuN8lGu3",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHEIkXXN6FSAQ-KQMv1LxwiWtAnZShyGMXOK7jm7b8lBC-s6xgZ94Kkvs1IUrpHk4rop1qdgzjLra3Kx5OS1KvzvIXuxTdyaq9Zrnv1Ju-4_5mPBag-W9Eii4Ve5U9goecejCTee1Rqw3AtLn2yZUa5w_HQhR0O&ved=2ahUKEwjLi8zxvZuYAxXXmisGHXN0NQYQFnoECFoQAQ&uoh=1",
+        "displayed_link": "https://klap.app \u203a blog \u203a how-long-should-an-instagram-...",
+        "favicon": "https://serpapi.com/searches/6b02d3654814e5ffe8b6f2e9/images/y19wV1A0GHKaVDuF02ugZn7nBB520Xy20bUcBSxbu2k.png",
+        "date": "18 Aug 2026",
+        "snippet": "A large 2026 analysis of roughly 140,000 Instagram Reels from business accounts found that 45\u201360 seconds was the strongest performance band. It ...",
+        "snippet_highlighted_words": [
+          "45\u201360 seconds"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "A large 2026 analysis of roughly 140,000 Instagram Reels from business accounts found that 45\u201360 seconds was the strongest performance band. It ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESdwHEIkXXfpX4jFa4F7CwWG4UnI5tzXUZbp_AVdJbee6CmwkEYd44wFR0HiluH-725SVY380EBuHTCD_-p38UzlEJ9KY35AM3xDeIJo2hsQ5v-I3YM2Zvza48kRfRvX86NUopg8Z7x1hjnhrWCEakFegTuuN8lGu3",
+            "icon": "https://serpapi.com/searches/6b02d3654814e5ffe8b6f2e9/images/y19wV1A0GHKaVDuF02ugZrg58B7DmSB34n3zYKMzIfTeXrw_cAwOaAi4X8rzbYVu.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq4BL2dvdG8_dXJsPUNBRVNkd0hFSWtYWGZwWDRqRmE0RjdDd1dHNFVuSTV0elhVWmJwX0FWZEpiZWU2Q213a0VZZDQ0d0ZSMEhpbHVILTcyNVNWWTM4MEVCdUhUQ0RfLXAzOFV6bEVKOUtZMzVBTTN4RGVJSm8yaHNRNXYtSTNZTTJadnphNDhrUmZSdlg4Nk5Vb3BnOFo3eDFoam5ocldDRWFrRmVnVHV1TjhsR3UzEgQaAggAGs0HEgIIABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJApwcIABAAGAAgACoSCgR3aGF0Fd7_nD0aBXdoYXRzKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqSAoFaWRlYWwV-38EPxoGYSBnb29kGglhIHBlcmZlY3QaBGJlc3QaBGdvb2QaB29wdGltYWwaC3JlY29tbWVuZGVkGgVyaWdodCohCgV2aWRlbxWejo8_GgZ2aWRlb3MaC3ZpZGVvbGVuZ3RoKiAKBmxlbmd0aBWkyARAGgR0aW1lGgt2aWRlb2xlbmd0aCoKCgNmb3IVAAAAACorCglpbnN0YWdyYW0VBYCnQBoCaWcaBWluc3RhGg5pbnN0YWdyYW1yZWVscyoiCgVyZWVscxU2GgdAGgRyZWVsGg5pbnN0YWdyYW1yZWVscyoJCgJ0bxUAAAAAKkAKA2dldBWtBAM-GgdhY2hpZXZlGgdnZXR0aW5nGgRoYXZlGgRtYWtlGgZvYnRhaW4aBXJlYWNoGgdnZXRoaWdoKkMKBGhpZ2gVAAAAABoGaGlnaGVyGgdoaWdoZXN0GgVoaWdocxoGc3RvbmVkGgdnZXRoaWdoGg1oaWdocmV0ZW50aW9uKjcKCXJldGVudGlvbhVdiDw_GgZyZXRhaW4aDWhpZ2hyZXRlbnRpb24aDml2O3A7cmV0ZW50aW9uMq4BL2dvdG8_dXJsPUNBRVNkd0hFSWtYWGZwWDRqRmE0RjdDd1dHNFVuSTV0elhVWmJwX0FWZEpiZWU2Q213a0VZZDQ0d0ZSMEhpbHVILTcyNVNWWTM4MEVCdUhUQ0RfLXAzOFV6bEVKOUtZMzVBTTN4RGVJSm8yaHNRNXYtSTNZTTJadnphNDhrUmZSdlg4Nk5Vb3BnOFo3eDFoam5ocldDRWFrRmVnVHV1TjhsR3UzOkJIb3cgTG9uZyBTaG91bGQgYW4gPGI-SW5zdGFncmFtIFJlZWw8L2I-IEJlIGZvciBNYXhpbXVtIC4uLiAtIEtsYXBCoQFBIGxhcmdlIDIwMjYgYW5hbHlzaXMgb2Ygcm91Z2hseSAxNDAsMDAwIEluc3RhZ3JhbSBSZWVscyBmcm9tIGJ1c2luZXNzIGFjY291bnRzIGZvdW5kIHRoYXQgPGI-NDXigJM2MCBzZWNvbmRzPC9iPiB3YXMgdGhlIHN0cm9uZ2VzdCBwZXJmb3JtYW5jZSBiYW5kLiBJdCZuYnNwOy4uLkoCdG9KA2ZvckoCaXNKA3RoZVIEdGltZVIEYmVzdFIEaGF2ZSICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq4BL2dvdG8_dXJsPUNBRVNkd0hFSWtYWGZwWDRqRmE0RjdDd1dHNFVuSTV0elhVWmJwX0FWZEpiZWU2Q213a0VZZDQ0d0ZSMEhpbHVILTcyNVNWWTM4MEVCdUhUQ0RfLXAzOFV6bEVKOUtZMzVBTTN4RGVJSm8yaHNRNXYtSTNZTTJadnphNDhrUmZSdlg4Nk5Vb3BnOFo3eDFoam5ocldDRWFrRmVnVHV1TjhsR3UzEgQaAggAGs0HEgIIABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJApwcIABAAGAAgACoSCgR3aGF0Fd7_nD0aBXdoYXRzKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqSAoFaWRlYWwV-38EPxoGYSBnb29kGglhIHBlcmZlY3QaBGJlc3QaBGdvb2QaB29wdGltYWwaC3JlY29tbWVuZGVkGgVyaWdodCohCgV2aWRlbxWejo8_GgZ2aWRlb3MaC3ZpZGVvbGVuZ3RoKiAKBmxlbmd0aBWkyARAGgR0aW1lGgt2aWRlb2xlbmd0aCoKCgNmb3IVAAAAACorCglpbnN0YWdyYW0VBYCnQBoCaWcaBWluc3RhGg5pbnN0YWdyYW1yZWVscyoiCgVyZWVscxU2GgdAGgRyZWVsGg5pbnN0YWdyYW1yZWVscyoJCgJ0bxUAAAAAKkAKA2dldBWtBAM-GgdhY2hpZXZlGgdnZXR0aW5nGgRoYXZlGgRtYWtlGgZvYnRhaW4aBXJlYWNoGgdnZXRoaWdoKkMKBGhpZ2gVAAAAABoGaGlnaGVyGgdoaWdoZXN0GgVoaWdocxoGc3RvbmVkGgdnZXRoaWdoGg1oaWdocmV0ZW50aW9uKjcKCXJldGVudGlvbhVdiDw_GgZyZXRhaW4aDWhpZ2hyZXRlbnRpb24aDml2O3A7cmV0ZW50aW9uMq4BL2dvdG8_dXJsPUNBRVNkd0hFSWtYWGZwWDRqRmE0RjdDd1dHNFVuSTV0elhVWmJwX0FWZEpiZWU2Q213a0VZZDQ0d0ZSMEhpbHVILTcyNVNWWTM4MEVCdUhUQ0RfLXAzOFV6bEVKOUtZMzVBTTN4RGVJSm8yaHNRNXYtSTNZTTJadnphNDhrUmZSdlg4Nk5Vb3BnOFo3eDFoam5ocldDRWFrRmVnVHV1TjhsR3UzOkJIb3cgTG9uZyBTaG91bGQgYW4gPGI-SW5zdGFncmFtIFJlZWw8L2I-IEJlIGZvciBNYXhpbXVtIC4uLiAtIEtsYXBCoQFBIGxhcmdlIDIwMjYgYW5hbHlzaXMgb2Ygcm91Z2hseSAxNDAsMDAwIEluc3RhZ3JhbSBSZWVscyBmcm9tIGJ1c2luZXNzIGFjY291bnRzIGZvdW5kIHRoYXQgPGI-NDXigJM2MCBzZWNvbmRzPC9iPiB3YXMgdGhlIHN0cm9uZ2VzdCBwZXJmb3JtYW5jZSBiYW5kLiBJdCZuYnNwOy4uLkoCdG9KA2ZvckoCaXNKA3RoZVIEdGltZVIEYmVzdFIEaGF2ZSICEAFIAFgAaAA",
+        "source": "Klap",
+        "read_more_link": "https://www.google.com/goto?url=CAESzAEBxCJF1yG6VJTGZ-Jnq_ihZAFwQFtnkkdoU0TgLqEamc3zKn81UqElAkJ_LqgUd06IucOr-owb0lH3c14Kbkn5vklFq-TcWGwjRNqLJr3a5MIb6WqVhU4RJZgekRvpF_4kyEUtoc_gF8R3ogvUy1ITWGz64v7vFRUeXwsQ__gDiPegU5Iwf2vt34noB0QyYO7lxVEslUY2mdlBCcEHLnkn8s_MAGUU-WmHmDpAcNzDVs_Xi36snCFWcW2O0-1eRI2XJlopmqlvU2nwpIQ&gsessionid=Pz-QcFqNj9x5PaEBTkCaT3acTUZfUMQ-gWttObon8d8A_yDGEVzKXA"
+      },
+      {
+        "position": 6,
+        "title": "Should you create long reels or short reels? The truth is, both ...",
+        "link": "https://www.google.com/goto?url=CAESbgHEIkXXYsYFlLpRAM-HKKOqyQQ7qHdCByGK8ab4SUTBWM2IcjQfZM3lIwvhDSVyxQhRgmvlU9_FBW_R9btMlVKbMeVWyJmtPPFxC5yp8RVo1UDaxysSgdO398Svcv392FQnfOXTZiFmeYxdkY8z&gsessionid=Pz-QcFqNj9x5PaEBTkCaT3acTUZfUMQ-gWttObon8d8A_yDGEVzKXA",
+        "displayed_link": "530+ likes",
+        "date": "1 year ago",
+        "thumbnail": "https://serpapi.com/searches/6b02d3654814e5ffe8b6f2e9/images/y19wV1A0GHKaVDuF02ugZrImSJ7am8Hw-PZ2leX6s24.jpg",
+        "favicon": "https://serpapi.com/searches/6b02d3654814e5ffe8b6f2e9/images/y19wV1A0GHKaVDuF02ugZiMPEElb-BgEFAUxatZKX2g.png",
+        "snippet": "The Ideal Reel Length: Anything under 40 Seconds is the Sweet Spot as per my observation. They're short enough to maintain attention and long ...",
+        "duration": "0:07",
+        "about_this_result": {
+          "source": {
+            "description": "The Ideal Reel Length: Anything under 40 Seconds is the Sweet Spot as per my observation. They're short enough to maintain attention and long ...",
+            "icon": "https://serpapi.com/searches/6b02d3654814e5ffe8b6f2e9/images/y19wV1A0GHKaVDuF02ugZj8LXx36gelTL3cGMi0IVjt02Qe3Wl25Kwx54e-VAZ-a.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hFSWtYWFlzWUZsTHBSQU0tSEtLT3F5UVE3cUhkQ0J5R0s4YWI0U1VUQldNMkljalFmWk0zbEl3dmhEU1Z5eFFoUmdtdmxVOV9GQldfUjlidE1sVktiTWVWV3lKbXRQUEZ4QzV5cDhSVm8xVURheHlzU2dkTzM5OFN2Y3YzOTJGUW5mT1hUWmlGbWVZeGRrWTh6EhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hFSWtYWFlzWUZsTHBSQU0tSEtLT3F5UVE3cUhkQ0J5R0s4YWI0U1VUQldNMkljalFmWk0zbEl3dmhEU1Z5eFFoUmdtdmxVOV9GQldfUjlidE1sVktiTWVWV3lKbXRQUEZ4QzV5cDhSVm8xVURheHlzU2dkTzM5OFN2Y3YzOTJGUW5mT1hUWmlGbWVZeGRrWTh6EhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "source": "Instagram \u00b7 tanishaabhansali"
+      },
+      {
+        "position": 7,
+        "title": "Instagram revealed the ideal Reel length! - Future Social",
+        "link": "https://www.google.com/goto?url=CAESiAEBxCJF19Epz7e4kD1hJRWUu6Gl5dnWt4swyfkp1jBDgCbm7Q9e_X47fuRnf6x4fyP0lkrFvkFKeFJxwKof3dVqFXftxF4UNP8os_jT5y4rdnlYevUKSLCAka_ZDopXlhihXUxE9B-nFpHl49Cb3lqNc8KWwsUx6ELZL3LSfhccGgj8F0qvX0HP",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiAEBxCJF136mHcmhr7ZA_OH1kDmkj0MF0Q5bfLNHvU-3otlaYSDZEI15Id6zY6Ql-rUzwl8CmvBBSMM7hiLuh9xoikbX_7YfPOQIfyCXY8D0kKbT9iiUoEcHDjbLMAuMdYZzrIt6enZ_mKexBBzdYNXqnJWZE6H6o-cpyuHOAZZRXj8EZMWTOlN2&ved=2ahUKEwjLi8zxvZuYAxXXmisGHXN0NQYQFnoECFkQAQ&uoh=1",
+        "displayed_link": "https://futuresocial.beehiiv.com \u203a instagram-revealed-th...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEX____u7_IkMFUsNlkUJE6fo7Dd3-P3-Pnq6-7X2d7h4ucAABXFyNDQ0tgAACUAADKXnKoAACwbKE8AAADT1NoAABJXXXYADEGJjZwAAD4_SGUAACCtsLoAADgAAAxJUWy2ucJscoYAABgAAC29wMhyd4paYXgyO1wPIEt8gJIAABwAGkhETGg2QF8AACLktBRMAAAA9UlEQVR4Ae3NNYICQRAF0D9aXdAF4-6MYve_3bpFGxHystKPx3kyTMt2XIKr2GXFBCbmHRQz44PaazEOgqNn-YETKoRRnKSZkycFfS6UVUV1hDyCr9AolFxS1Tpt1-Fz4dD3u5pRC_wdQgMDn4pBOe04fi2EBEz2fCQ0LtqlXY0QReakc_sZQYI3MhIgBOgREJCoKBJ8osox8J9122JU69qhs9eRE-ilwjTiR72Jcs-uO8jA0ugL5snEtcIPI1suTgvc3vqA2BjopNo_C_fRKKuSZc-D6HAMusvV9pIsUvgy3uwMnbWM0MsiPGUa0ntzO-KBnl4B2Q4S_duzbtQAAAAASUVORK5CYII.png",
+        "date": "5 Mar 2025",
+        "snippet": "The real answer: the ideal length is however many seconds you need to tell the story you're trying to tell, and if your storytelling is strong ...",
+        "snippet_highlighted_words": [
+          "however many seconds you need to tell the story you're trying to tell"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The real answer: the ideal length is however many seconds you need to tell the story you're trying to tell, and if your storytelling is strong ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESiAEBxCJF19Epz7e4kD1hJRWUu6Gl5dnWt4swyfkp1jBDgCbm7Q9e_X47fuRnf6x4fyP0lkrFvkFKeFJxwKof3dVqFXftxF4UNP8os_jT5y4rdnlYevUKSLCAka_ZDopXlhihXUxE9B-nFpHl49Cb3lqNc8KWwsUx6ELZL3LSfhccGgj8F0qvX0HP",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEX____u7_IkMFUsNlkUJE6fo7Dd3-P3-Pnq6-7X2d7h4ucAABXFyNDQ0tgAACUAADKXnKoAACwbKE8AAADT1NoAABJXXXYADEGJjZwAAD4_SGUAACCtsLoAADgAAAxJUWy2ucJscoYAABgAAC29wMhyd4paYXgyO1wPIEt8gJIAABwAGkhETGg2QF8AACLktBRMAAAA9UlEQVR4Ae3NNYICQRAF0D9aXdAF4-6MYve_3bpFGxHystKPx3kyTMt2XIKr2GXFBCbmHRQz44PaazEOgqNn-YETKoRRnKSZkycFfS6UVUV1hDyCr9AolFxS1Tpt1-Fz4dD3u5pRC_wdQgMDn4pBOe04fi2EBEz2fCQ0LtqlXY0QReakc_sZQYI3MhIgBOgREJCoKBJ8osox8J9122JU69qhs9eRE-ilwjTiR72Jcs-uO8jA0ugL5snEtcIPI1suTgvc3vqA2BjopNo_C_fRKKuSZc-D6HAMusvV9pIsUvgy3uwMnbWM0MsiPGUa0ntzO-KBnl4B2Q4S_duzbtQAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsYBL2dvdG8_dXJsPUNBRVNpQUVCeENKRjE5RXB6N2U0a0QxaEpSV1V1NkdsNWRuV3Q0c3d5ZmtwMWpCRGdDYm03UTllX1g0N2Z1Um5mNng0ZnlQMGxrckZ2a0ZLZUZKeHdLb2YzZFZxRlhmdHhGNFVOUDhvc19qVDV5NHJkbmxZZXZVS1NMQ0FrYV9aRG9wWGxoaWhYVXhFOUItbkZwSGw0OUNiM2xxTmM4S1d3c1V4NkVMWkwzTFNmaGNjR2dqOEYwcXZYMEhQEgQaAggAGusHEgIIABoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJAxQcIABAAGAAgACoSCgR3aGF0FZjs2T8aBXdoYXRzKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqSAoFaWRlYWwVIb-3QBoGYSBnb29kGglhIHBlcmZlY3QaBGJlc3QaBGdvb2QaB29wdGltYWwaC3JlY29tbWVuZGVkGgVyaWdodCohCgV2aWRlbxU0u_I_GgZ2aWRlb3MaC3ZpZGVvbGVuZ3RoKiAKBmxlbmd0aBXYyMRAGgR0aW1lGgt2aWRlb2xlbmd0aCoKCgNmb3IVAAAAACorCglpbnN0YWdyYW0V0djOQBoCaWcaBWluc3RhGg5pbnN0YWdyYW1yZWVscyoiCgVyZWVscxVZ7w9AGgRyZWVsGg5pbnN0YWdyYW1yZWVscyoJCgJ0bxUAAAAAKkAKA2dldBXiTVM_GgdhY2hpZXZlGgdnZXR0aW5nGgRoYXZlGgRtYWtlGgZvYnRhaW4aBXJlYWNoGgdnZXRoaWdoKkMKBGhpZ2gVAAAAABoGaGlnaGVyGgdoaWdoZXN0GgVoaWdocxoGc3RvbmVkGgdnZXRoaWdoGg1oaWdocmV0ZW50aW9uKjcKCXJldGVudGlvbhVXzWw9GgZyZXRhaW4aDWhpZ2hyZXRlbnRpb24aDml2O3A7cmV0ZW50aW9uMsYBL2dvdG8_dXJsPUNBRVNpQUVCeENKRjE5RXB6N2U0a0QxaEpSV1V1NkdsNWRuV3Q0c3d5ZmtwMWpCRGdDYm03UTllX1g0N2Z1Um5mNng0ZnlQMGxrckZ2a0ZLZUZKeHdLb2YzZFZxRlhmdHhGNFVOUDhvc19qVDV5NHJkbmxZZXZVS1NMQ0FrYV9aRG9wWGxoaWhYVXhFOUItbkZwSGw0OUNiM2xxTmM4S1d3c1V4NkVMWkwzTFNmaGNjR2dqOEYwcXZYMEhQOkc8Yj5JbnN0YWdyYW08L2I-IHJldmVhbGVkIHRoZSA8Yj5pZGVhbCBSZWVsIGxlbmd0aDwvYj4hIC0gRnV0dXJlIFNvY2lhbEKiAVRoZSByZWFsIGFuc3dlcjogdGhlIGlkZWFsIGxlbmd0aCBpcyA8Yj5ob3dldmVyIG1hbnkgc2Vjb25kcyB5b3UgbmVlZCB0byB0ZWxsIHRoZSBzdG9yeSB5b3UmIzM5O3JlIHRyeWluZyB0byB0ZWxsPC9iPiwgYW5kIGlmIHlvdXIgc3Rvcnl0ZWxsaW5nIGlzIHN0cm9uZyZuYnNwOy4uLkoDdGhlSgJpc0oDZm9ySgJ0b1IEaGF2ZVIEYmVzdFIEdGltZSICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsYBL2dvdG8_dXJsPUNBRVNpQUVCeENKRjE5RXB6N2U0a0QxaEpSV1V1NkdsNWRuV3Q0c3d5ZmtwMWpCRGdDYm03UTllX1g0N2Z1Um5mNng0ZnlQMGxrckZ2a0ZLZUZKeHdLb2YzZFZxRlhmdHhGNFVOUDhvc19qVDV5NHJkbmxZZXZVS1NMQ0FrYV9aRG9wWGxoaWhYVXhFOUItbkZwSGw0OUNiM2xxTmM4S1d3c1V4NkVMWkwzTFNmaGNjR2dqOEYwcXZYMEhQEgQaAggAGusHEgIIABoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJAxQcIABAAGAAgACoSCgR3aGF0FZjs2T8aBXdoYXRzKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqSAoFaWRlYWwVIb-3QBoGYSBnb29kGglhIHBlcmZlY3QaBGJlc3QaBGdvb2QaB29wdGltYWwaC3JlY29tbWVuZGVkGgVyaWdodCohCgV2aWRlbxU0u_I_GgZ2aWRlb3MaC3ZpZGVvbGVuZ3RoKiAKBmxlbmd0aBXYyMRAGgR0aW1lGgt2aWRlb2xlbmd0aCoKCgNmb3IVAAAAACorCglpbnN0YWdyYW0V0djOQBoCaWcaBWluc3RhGg5pbnN0YWdyYW1yZWVscyoiCgVyZWVscxVZ7w9AGgRyZWVsGg5pbnN0YWdyYW1yZWVscyoJCgJ0bxUAAAAAKkAKA2dldBXiTVM_GgdhY2hpZXZlGgdnZXR0aW5nGgRoYXZlGgRtYWtlGgZvYnRhaW4aBXJlYWNoGgdnZXRoaWdoKkMKBGhpZ2gVAAAAABoGaGlnaGVyGgdoaWdoZXN0GgVoaWdocxoGc3RvbmVkGgdnZXRoaWdoGg1oaWdocmV0ZW50aW9uKjcKCXJldGVudGlvbhVXzWw9GgZyZXRhaW4aDWhpZ2hyZXRlbnRpb24aDml2O3A7cmV0ZW50aW9uMsYBL2dvdG8_dXJsPUNBRVNpQUVCeENKRjE5RXB6N2U0a0QxaEpSV1V1NkdsNWRuV3Q0c3d5ZmtwMWpCRGdDYm03UTllX1g0N2Z1Um5mNng0ZnlQMGxrckZ2a0ZLZUZKeHdLb2YzZFZxRlhmdHhGNFVOUDhvc19qVDV5NHJkbmxZZXZVS1NMQ0FrYV9aRG9wWGxoaWhYVXhFOUItbkZwSGw0OUNiM2xxTmM4S1d3c1V4NkVMWkwzTFNmaGNjR2dqOEYwcXZYMEhQOkc8Yj5JbnN0YWdyYW08L2I-IHJldmVhbGVkIHRoZSA8Yj5pZGVhbCBSZWVsIGxlbmd0aDwvYj4hIC0gRnV0dXJlIFNvY2lhbEKiAVRoZSByZWFsIGFuc3dlcjogdGhlIGlkZWFsIGxlbmd0aCBpcyA8Yj5ob3dldmVyIG1hbnkgc2Vjb25kcyB5b3UgbmVlZCB0byB0ZWxsIHRoZSBzdG9yeSB5b3UmIzM5O3JlIHRyeWluZyB0byB0ZWxsPC9iPiwgYW5kIGlmIHlvdXIgc3Rvcnl0ZWxsaW5nIGlzIHN0cm9uZyZuYnNwOy4uLkoDdGhlSgJpc0oDZm9ySgJ0b1IEaGF2ZVIEYmVzdFIEdGltZSICEAFIAFgAaAA",
+        "source": "Future Social",
+        "read_more_link": "https://www.google.com/goto?url=CAES2AEBxCJF1zr4ZVGPj7-vTWrFQApnCtEzIx33B2yYTE7kwgze3_vFFPUKMR1QDX__AIrze8C-Ku9-ghDMwpzHhyI91dg9br2Qc_p1vjm8AXR_8Xm9-T-uMkieey2kUnGWVapvJEb5kRyHGuJ3XmWOMpmvUFGKI7LDAJCA6DIFqzbA0ZvRviQNk4Z52aHXTv6QWeKiThJZwNRL7vS4r7CiGKaYdMTpHDOa8tvgoOy4KFMBDdzE9HLUr99MU8coJGKqparGPNMcHJiO9DUHCLfEi4kF16-l290WER4&gsessionid=Pz-QcFqNj9x5PaEBTkCaT3acTUZfUMQ-gWttObon8d8A_yDGEVzKXA"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "Best Reel length for Instagram algorithm",
+        "link": "https://www.google.com/search?sca_esv=3def79ba49b8369a&gl=uk&hl=en&sxsrf=AKL5yDgX-qDBkqUUdA-7zAupeL2nYgpUKQ:1795347302263&q=Best+Reel+length+for+Instagram+algorithm&sa=X&ved=2ahUKEwjLi8zxvZuYAxXXmisGHXN0NQYQ1QJ6BAhREAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Best+Reel+length+for+Instagram+algorithm"
+      },
+      {
+        "block_position": 1,
+        "query": "How long can Instagram Reels be 2026",
+        "link": "https://www.google.com/search?sca_esv=3def79ba49b8369a&gl=uk&hl=en&sxsrf=AKL5yDgX-qDBkqUUdA-7zAupeL2nYgpUKQ:1795347302263&q=How+long+can+Instagram+Reels+be+2026&sa=X&ved=2ahUKEwjLi8zxvZuYAxXXmisGHXN0NQYQ1QJ6BAhXEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+long+can+Instagram+Reels+be+2026"
+      },
+      {
+        "block_position": 1,
+        "query": "How long should Instagram reels be to go viral",
+        "link": "https://www.google.com/search?sca_esv=3def79ba49b8369a&gl=uk&hl=en&sxsrf=AKL5yDgX-qDBkqUUdA-7zAupeL2nYgpUKQ:1795347302263&q=How+long+should+Instagram+reels+be+to+go+viral&sa=X&ved=2ahUKEwjLi8zxvZuYAxXXmisGHXN0NQYQ1QJ6BAhYEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+long+should+Instagram+reels+be+to+go+viral"
+      },
+      {
+        "block_position": 1,
+        "query": "Instagram reel length 90 seconds",
+        "link": "https://www.google.com/search?sca_esv=3def79ba49b8369a&gl=uk&hl=en&sxsrf=AKL5yDgX-qDBkqUUdA-7zAupeL2nYgpUKQ:1795347302263&q=Instagram+reel+length+90+seconds&sa=X&ved=2ahUKEwjLi8zxvZuYAxXXmisGHXN0NQYQ1QJ6BAhWEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Instagram+reel+length+90+seconds"
+      },
+      {
+        "block_position": 1,
+        "query": "What is a good retention rate Instagram reels",
+        "link": "https://www.google.com/search?sca_esv=3def79ba49b8369a&gl=uk&hl=en&sxsrf=AKL5yDgX-qDBkqUUdA-7zAupeL2nYgpUKQ:1795347302263&q=What+is+a+good+retention+rate+Instagram+reels&sa=X&ved=2ahUKEwjLi8zxvZuYAxXXmisGHXN0NQYQ1QJ6BAhVEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=What+is+a+good+retention+rate+Instagram+reels"
+      },
+      {
+        "block_position": 1,
+        "query": "Ideal Reel length",
+        "link": "https://www.google.com/search?sca_esv=3def79ba49b8369a&gl=uk&hl=en&sxsrf=AKL5yDgX-qDBkqUUdA-7zAupeL2nYgpUKQ:1795347302263&q=Ideal+Reel+length&sa=X&ved=2ahUKEwjLi8zxvZuYAxXXmisGHXN0NQYQ1QJ6BAhSEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Ideal+Reel+length"
+      },
+      {
+        "block_position": 1,
+        "query": "How long should a TikTok video be to go viral",
+        "link": "https://www.google.com/search?sca_esv=3def79ba49b8369a&gl=uk&hl=en&sxsrf=AKL5yDgX-qDBkqUUdA-7zAupeL2nYgpUKQ:1795347302263&q=How+long+should+a+TikTok+video+be+to+go+viral&sa=X&ved=2ahUKEwjLi8zxvZuYAxXXmisGHXN0NQYQ1QJ6BAhTEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+long+should+a+TikTok+video+be+to+go+viral"
+      },
+      {
+        "block_position": 1,
+        "query": "Best length for TikTok video",
+        "link": "https://www.google.com/search?sca_esv=3def79ba49b8369a&gl=uk&hl=en&sxsrf=AKL5yDgX-qDBkqUUdA-7zAupeL2nYgpUKQ:1795347302263&q=Best+length+for+TikTok+video&sa=X&ved=2ahUKEwjLi8zxvZuYAxXXmisGHXN0NQYQ1QJ6BAhQEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Best+length+for+TikTok+video"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "What is the ideal length for an Instagram reel?",
+        "link": "https://www.google.com/goto?url=CAESqQEBxCJF13-m2105qLKrad7Ho5K9qJp1kaCG0nxnBMIBhKgzteOil2_JEtgLv8D5npML4KgHZ1w634lozfxZdIkDi3S-qwyh9As0FvgcPK3umT7h-ByXWNea4zbLaitSH5_91wEy5VNVDyS1gCgvcvpJIQRmXzQB_QHU_GubCbT7NPTjJOsiKINiJrYByRvcPQtYM-QdgGzIDQGPaRZzmvQDF5WzyYtx7mJc&gsessionid=Pz-QcFqNj9x5PaEBTkCaT3acTUZfUMQ-gWttObon8d8A_yDGEVzKXA",
+        "date": "1 year ago",
+        "extensions": [
+          "r/InstagramMarketing",
+          "20+ comments"
+        ],
+        "source": "Reddit",
+        "answers": [
+          {
+            "link": "https://www.google.com/goto?url=CAESsQEBxCJF1yw2OoRedRTCn09868Aim2LXkAGOM-VDr89tqDr6e0dSKQdOwoakHhh1DAugex_gVz4IqTZ8wMqgDzGRtI_xDkNvun1u9EswrOBq1NbuM0yVK4ZJeNFq4g_LbFx6ztHnRIRdCAr_cSZw21wnc63J4F-rfV7yS5-e9jOu5HaCOpxH5ytSsCoUWo6cp9XLAFWm4mJOvZxqbCcovmvbOjFVNctz1h4niC4KUIlUC8g&gsessionid=Pz-QcFqNj9x5PaEBTkCaT3acTUZfUMQ-gWttObon8d8A_yDGEVzKXA",
+            "extensions": [
+              "Top answer",
+              "4 votes",
+              "a year ago"
+            ]
+          },
+          {
+            "link": "https://www.google.com/goto?url=CAESsQEBxCJF17n_AlveqagMhjXOHsOb-YlF5M1jaTHgci-RZfBkFWBdyfo6kpAL2CC4bJpuDuygzgRIz_XMvHe6EGG2a2paeyl8ZpU3PJq2qoci5RRoRZy-Us7iKokv-28hC0U0CYluXatZdHIHAwY9abjkXbU_6qsxEEGjGvQmhVH1rSuVqZaFKeuReUcWzAnK8iCv1BL99XfJ6IRy0ApP_ZJ78wpGaSudcMOk4aFmCNl4ftQ&gsessionid=Pz-QcFqNj9x5PaEBTkCaT3acTUZfUMQ-gWttObon8d8A_yDGEVzKXA",
+            "extensions": [
+              "3 votes",
+              "a year ago"
+            ]
+          },
+          {
+            "link": "https://www.google.com/goto?url=CAESsQEBxCJF16x_q76Wcaiffhew0pK0Q0Au_lKmK8A_Qgxsc5YrLfR_R12jfhoZ3asNB4cqwdzHyHkQ3vcuolp-UufkCGvH6EPHNb11upfNUdd8GNDhXMQ8eo5huJSikJrQsr5lN9KTMZxnMKawSy1sgyd2JG5lV4J2ZWScw9lPaBqqxVdgl1hsaCE_VWPD7hc4iBnbboZVUv2Ng9XWJLDXPO6F82wWH2ZReps1i2AvJ8FDrKU&gsessionid=Pz-QcFqNj9x5PaEBTkCaT3acTUZfUMQ-gWttObon8d8A_yDGEVzKXA",
+            "extensions": [
+              "2 votes",
+              "a year ago"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "What is the ideal length for Instagram Reels?",
+        "link": "https://www.google.com/goto?url=CAEShAEBxCJF16pnMFJLDeOT84l3Bx4BPd-RAODOzfSE0BhxxrJkfnmPONT_nhsfcT76Vd76xhSrGTXqXPOpK8UgbVBR5p-jjTcCPAxmUd1tBjzy4bvAWMV8Uj-tUPobLqCeleCv3IrJVHiE8VG51o4k_KRQqsiJDcYgvaLg5SKPhKtgcH5Wgbg&gsessionid=Pz-QcFqNj9x5PaEBTkCaT3acTUZfUMQ-gWttObon8d8A_yDGEVzKXA",
+        "date": "3 months ago",
+        "extensions": [
+          "The Sims 4 Youtubers & Communi\u2026",
+          "2 comments"
+        ],
+        "source": "Facebook",
+        "answers": [
+          {
+            "link": "https://www.google.com/goto?url=CAEShAEBxCJF16pnMFJLDeOT84l3Bx4BPd-RAODOzfSE0BhxxrJkfnmPONT_nhsfcT76Vd76xhSrGTXqXPOpK8UgbVBR5p-jjTcCPAxmUd1tBjzy4bvAWMV8Uj-tUPobLqCeleCv3IrJVHiE8VG51o4k_KRQqsiJDcYgvaLg5SKPhKtgcH5Wgbg&gsessionid=Pz-QcFqNj9x5PaEBTkCaT3acTUZfUMQ-gWttObon8d8A_yDGEVzKXA"
+          }
+        ]
+      },
+      {
+        "title": "What is a good time length for Instagram reels?",
+        "link": "https://www.google.com/goto?url=CAEShAEBxCJF18rgWKzHASLRvp3tVKMYzgWDQtlahCo9IqcI_AvUBEj-r-sgJBAQT0Nr0vepMkINY6q24gHBygDoTKtT5UrmYBSbdZlh9Vp7TBgKruK9eNqPd-Me2i0NlF-mVdhvf1q61cLRKV43w92esTKSun51TyWLusVn43YlbIVSNXLIsP0&gsessionid=Pz-QcFqNj9x5PaEBTkCaT3acTUZfUMQ-gWttObon8d8A_yDGEVzKXA",
+        "date": "1 year ago",
+        "extensions": [
+          "Nicki Hearts Cards YouTube and\u2026",
+          "4 comments"
+        ],
+        "source": "Facebook",
+        "answers": [
+          {
+            "link": "https://www.google.com/goto?url=CAEShAEBxCJF18rgWKzHASLRvp3tVKMYzgWDQtlahCo9IqcI_AvUBEj-r-sgJBAQT0Nr0vepMkINY6q24gHBygDoTKtT5UrmYBSbdZlh9Vp7TBgKruK9eNqPd-Me2i0NlF-mVdhvf1q61cLRKV43w92esTKSun51TyWLusVn43YlbIVSNXLIsP0&gsessionid=Pz-QcFqNj9x5PaEBTkCaT3acTUZfUMQ-gWttObon8d8A_yDGEVzKXA",
+            "extensions": [
+              "Top answer",
+              "2 votes",
+              "a year ago"
+            ]
+          },
+          {
+            "link": "https://www.google.com/goto?url=CAEShAEBxCJF18rgWKzHASLRvp3tVKMYzgWDQtlahCo9IqcI_AvUBEj-r-sgJBAQT0Nr0vepMkINY6q24gHBygDoTKtT5UrmYBSbdZlh9Vp7TBgKruK9eNqPd-Me2i0NlF-mVdhvf1q61cLRKV43w92esTKSun51TyWLusVn43YlbIVSNXLIsP0&gsessionid=Pz-QcFqNj9x5PaEBTkCaT3acTUZfUMQ-gWttObon8d8A_yDGEVzKXA",
+            "extensions": [
+              "2 votes",
+              "a year ago"
+            ]
+          },
+          {
+            "link": "https://www.google.com/goto?url=CAEShAEBxCJF18rgWKzHASLRvp3tVKMYzgWDQtlahCo9IqcI_AvUBEj-r-sgJBAQT0Nr0vepMkINY6q24gHBygDoTKtT5UrmYBSbdZlh9Vp7TBgKruK9eNqPd-Me2i0NlF-mVdhvf1q61cLRKV43w92esTKSun51TyWLusVn43YlbIVSNXLIsP0&gsessionid=Pz-QcFqNj9x5PaEBTkCaT3acTUZfUMQ-gWttObon8d8A_yDGEVzKXA",
+            "extensions": [
+              "2 votes",
+              "a year ago"
+            ]
+          }
+        ]
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=What+is+the+ideal+video+length+for+Instagram+Reels+to+get+high+retention?&sca_esv=3def79ba49b8369a&gl=uk&hl=en&sxsrf=AKL5yDgX-qDBkqUUdA-7zAupeL2nYgpUKQ:1795347302263&ei=ZtMCa8vAD9e1ruEP8-jVMQ&start=10&sa=N&sstk=AYl2yk9AVlAX9YBy_6wWMnPaG0Ianrltru4JkxajiM8AUPhySr1qYa1h1f-WwCGqGWiTyuzuluCWGB0GPn7_6SRXY4q6_JKrSAKiHA&ved=2ahUKEwjLi8zxvZuYAxXXmisGHXN0NQYQ8NMDegQIThAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=What+is+the+ideal+video+length+for+Instagram+Reels+to+get+high+retention?&sca_esv=3def79ba49b8369a&gl=uk&hl=en&sxsrf=AKL5yDgX-qDBkqUUdA-7zAupeL2nYgpUKQ:1795347302263&ei=ZtMCa8vAD9e1ruEP8-jVMQ&start=10&sa=N&sstk=AYl2yk9AVlAX9YBy_6wWMnPaG0Ianrltru4JkxajiM8AUPhySr1qYa1h1f-WwCGqGWiTyuzuluCWGB0GPn7_6SRXY4q6_JKrSAKiHA&ved=2ahUKEwjLi8zxvZuYAxXXmisGHXN0NQYQ8tMDegQIThAE",
+        "3": "https://www.google.com/search?q=What+is+the+ideal+video+length+for+Instagram+Reels+to+get+high+retention?&sca_esv=3def79ba49b8369a&gl=uk&hl=en&sxsrf=AKL5yDgX-qDBkqUUdA-7zAupeL2nYgpUKQ:1795347302263&ei=ZtMCa8vAD9e1ruEP8-jVMQ&start=20&sa=N&sstk=AYl2yk9AVlAX9YBy_6wWMnPaG0Ianrltru4JkxajiM8AUPhySr1qYa1h1f-WwCGqGWiTyuzuluCWGB0GPn7_6SRXY4q6_JKrSAKiHA&ved=2ahUKEwjLi8zxvZuYAxXXmisGHXN0NQYQ8tMDegQIThAG",
+        "4": "https://www.google.com/search?q=What+is+the+ideal+video+length+for+Instagram+Reels+to+get+high+retention?&sca_esv=3def79ba49b8369a&gl=uk&hl=en&sxsrf=AKL5yDgX-qDBkqUUdA-7zAupeL2nYgpUKQ:1795347302263&ei=ZtMCa8vAD9e1ruEP8-jVMQ&start=30&sa=N&sstk=AYl2yk9AVlAX9YBy_6wWMnPaG0Ianrltru4JkxajiM8AUPhySr1qYa1h1f-WwCGqGWiTyuzuluCWGB0GPn7_6SRXY4q6_JKrSAKiHA&ved=2ahUKEwjLi8zxvZuYAxXXmisGHXN0NQYQ8tMDegQIThAI",
+        "5": "https://www.google.com/search?q=What+is+the+ideal+video+length+for+Instagram+Reels+to+get+high+retention?&sca_esv=3def79ba49b8369a&gl=uk&hl=en&sxsrf=AKL5yDgX-qDBkqUUdA-7zAupeL2nYgpUKQ:1795347302263&ei=ZtMCa8vAD9e1ruEP8-jVMQ&start=40&sa=N&sstk=AYl2yk9AVlAX9YBy_6wWMnPaG0Ianrltru4JkxajiM8AUPhySr1qYa1h1f-WwCGqGWiTyuzuluCWGB0GPn7_6SRXY4q6_JKrSAKiHA&ved=2ahUKEwjLi8zxvZuYAxXXmisGHXN0NQYQ8tMDegQIThAK",
+        "6": "https://www.google.com/search?q=What+is+the+ideal+video+length+for+Instagram+Reels+to+get+high+retention?&sca_esv=3def79ba49b8369a&gl=uk&hl=en&sxsrf=AKL5yDgX-qDBkqUUdA-7zAupeL2nYgpUKQ:1795347302263&ei=ZtMCa8vAD9e1ruEP8-jVMQ&start=50&sa=N&sstk=AYl2yk9AVlAX9YBy_6wWMnPaG0Ianrltru4JkxajiM8AUPhySr1qYa1h1f-WwCGqGWiTyuzuluCWGB0GPn7_6SRXY4q6_JKrSAKiHA&ved=2ahUKEwjLi8zxvZuYAxXXmisGHXN0NQYQ8tMDegQIThAM",
+        "7": "https://www.google.com/search?q=What+is+the+ideal+video+length+for+Instagram+Reels+to+get+high+retention?&sca_esv=3def79ba49b8369a&gl=uk&hl=en&sxsrf=AKL5yDgX-qDBkqUUdA-7zAupeL2nYgpUKQ:1795347302263&ei=ZtMCa8vAD9e1ruEP8-jVMQ&start=60&sa=N&sstk=AYl2yk9AVlAX9YBy_6wWMnPaG0Ianrltru4JkxajiM8AUPhySr1qYa1h1f-WwCGqGWiTyuzuluCWGB0GPn7_6SRXY4q6_JKrSAKiHA&ved=2ahUKEwjLi8zxvZuYAxXXmisGHXN0NQYQ8tMDegQIThAO",
+        "8": "https://www.google.com/search?q=What+is+the+ideal+video+length+for+Instagram+Reels+to+get+high+retention?&sca_esv=3def79ba49b8369a&gl=uk&hl=en&sxsrf=AKL5yDgX-qDBkqUUdA-7zAupeL2nYgpUKQ:1795347302263&ei=ZtMCa8vAD9e1ruEP8-jVMQ&start=70&sa=N&sstk=AYl2yk9AVlAX9YBy_6wWMnPaG0Ianrltru4JkxajiM8AUPhySr1qYa1h1f-WwCGqGWiTyuzuluCWGB0GPn7_6SRXY4q6_JKrSAKiHA&ved=2ahUKEwjLi8zxvZuYAxXXmisGHXN0NQYQ8tMDegQIThAQ",
+        "9": "https://www.google.com/search?q=What+is+the+ideal+video+length+for+Instagram+Reels+to+get+high+retention?&sca_esv=3def79ba49b8369a&gl=uk&hl=en&sxsrf=AKL5yDgX-qDBkqUUdA-7zAupeL2nYgpUKQ:1795347302263&ei=ZtMCa8vAD9e1ruEP8-jVMQ&start=80&sa=N&sstk=AYl2yk9AVlAX9YBy_6wWMnPaG0Ianrltru4JkxajiM8AUPhySr1qYa1h1f-WwCGqGWiTyuzuluCWGB0GPn7_6SRXY4q6_JKrSAKiHA&ved=2ahUKEwjLi8zxvZuYAxXXmisGHXN0NQYQ8tMDegQIThAS",
+        "10": "https://www.google.com/search?q=What+is+the+ideal+video+length+for+Instagram+Reels+to+get+high+retention?&sca_esv=3def79ba49b8369a&gl=uk&hl=en&sxsrf=AKL5yDgX-qDBkqUUdA-7zAupeL2nYgpUKQ:1795347302263&ei=ZtMCa8vAD9e1ruEP8-jVMQ&start=90&sa=N&sstk=AYl2yk9AVlAX9YBy_6wWMnPaG0Ianrltru4JkxajiM8AUPhySr1qYa1h1f-WwCGqGWiTyuzuluCWGB0GPn7_6SRXY4q6_JKrSAKiHA&ved=2ahUKEwjLi8zxvZuYAxXXmisGHXN0NQYQ8tMDegQIThAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=What+is+the+ideal+video+length+for+Instagram+Reels+to+get+high+retention%3F&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=What+is+the+ideal+video+length+for+Instagram+Reels+to+get+high+retention%3F&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=What+is+the+ideal+video+length+for+Instagram+Reels+to+get+high+retention%3F&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=What+is+the+ideal+video+length+for+Instagram+Reels+to+get+high+retention%3F&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=What+is+the+ideal+video+length+for+Instagram+Reels+to+get+high+retention%3F&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=What+is+the+ideal+video+length+for+Instagram+Reels+to+get+high+retention%3F&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=What+is+the+ideal+video+length+for+Instagram+Reels+to+get+high+retention%3F&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=What+is+the+ideal+video+length+for+Instagram+Reels+to+get+high+retention%3F&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=What+is+the+ideal+video+length+for+Instagram+Reels+to+get+high+retention%3F&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=What+is+the+ideal+video+length+for+Instagram+Reels+to+get+high+retention%3F&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=What+is+the+ideal+video+length+for+Instagram+Reels+to+get+high+retention%3F&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

@@ -1,0 +1,18 @@
+{
+  "measurement_id": "16e4c914d38f",
+  "question_id": "Q018",
+  "timestamp_utc": "2026-11-23T09:01:17.355348+00:00",
+  "provider_name": "Google Gemini",
+  "model_identifier": "gemini-2.5-flash",
+  "question": "What are the best free alternatives to Opus Clip in 2026?",
+  "market": "US",
+  "collection_method": "DAY_2_AUTOMATED_API",
+  "execution_status": "FAILED",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [],
+  "raw_text_summary": "",
+  "raw_payload": null,
+  "error_details": "HTTP Error 503: Service Unavailable"
+}

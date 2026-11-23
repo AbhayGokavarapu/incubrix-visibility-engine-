@@ -1,0 +1,577 @@
+{
+  "measurement_id": "3e3ca121a537",
+  "question_id": "Q050",
+  "timestamp_utc": "2026-11-22T13:48:28.271968+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "Can AI identify emotional moments in a live stream recording?",
+  "market": "UK",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://speakai.co/video-sentiment-analysis/",
+    "https://www.google.com/goto?url=CAESuAEBxCJF14V5WdjPL49H20YJF7Qnsk0HuKLmnS2fDmO-8w0fSFpjDVSitHiMdLC6dkxPlZpSfh9OCfOUujOQHDdcgo5mkg0VJiNgAAmQrSvabDCtHUK9AZhb5Cm0tpgfJqpINMHp077wFoWVCbOgrASXKxeOF3ddHIUtdXgbpDk8Rcfsny0VBLVrENlrugVouEzIJ9Sq9L2VJvAfM0owFkzawpf3YOKpICqldcZ7loj2Nk3-6i3P5FGs",
+    "https://www.google.com/goto?url=CAESawHEIkXXfeL1R8ETJA4V_g0X61TpJYhRte7Hg3E3U7TBKExljRbgTAU8xwpH9eppoOQwxSI6FMZ7Clqsfc0anXCvUu0-WM6lPHl6ijAcSMXuwflnGUYIAIMbPf-i-amLx6dho3ulHGYKDtBH",
+    "https://www.google.com/goto?url=CAESfAHEIkXXlnmPeGnn7mWA-GGpv8Se5gDP-OzKkyWSy1s4WCcT9uoCNC8uLDCsm_Jcs_enRnRcK2m4z6cAsZ81QfhbvkRQyD5Kbc7U1dYWjNgNYslCD6PO23CSS9YjxxH6o_8U8UeVdqDrNuGxEbDFKOONRaEe7BHPy1ug-Pg",
+    "https://www.google.com/goto?url=CAESbAHEIkXX8manSqcn2rU3wcP4OC8JJJZviMueFtNn78FUH_OO7ps6ZCjtMjOl2cfOt7gpCdTqNSRUO61Dwqt215fPkY6Bo4bOA3P3gN1mPggeqi1-HRz54L_1up5OCr5DVtiw4X20HYbGz7u9Sw",
+    "https://www.google.com/goto?url=CAEShAEBxCJF11-tZ4KRtimNNfRCP6E7auqt8LPZFVP4CjezaB5Q4JZuziULuhaJb15Ht3Au890vVgUjsUCrFsJTBZLSol_XAhIFhKICIYPB1l8BFlC-lekr86FNzep5W9Ea9CiZ4cKpoesHsyzYZQ72nnQG5t63pVH_aFO3iYGXf8vBkW-UqyA",
+    "https://www.google.com/goto?url=CAESdwHEIkXXYrTVU8b9h6zJTFSgRMV3C-_hHdi1VwYprkKqASsvwV-gSzppd7nwZAhyz1qZIkGUsnhA_Ydh5ey10TSMPhjr-lIo0PllAW0pq5x5J3p26dSOHhBnQu_w6Z8Ie3rB7Z7UP9wFvzo_9HGHNTa4rnYWLgJU",
+    "https://www.google.com/goto?url=CAESaAHEIkXX2cbOI7EqIbXXMXIUOpaU2a2V6FT4HT-uK4Q26OXo186VZz2WSIk-kK1PCmqOe0FX7XdmkTcjOH9-veH45pRO2FkPJPqgyWDHW6ywS-c9CsvKiAI8OXw1gCLIWAHVq4AXhNbA&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+  ],
+  "raw_text_summary": "Video Sentiment Analysis: Emotion and Tone Speak AI automatically identifies and labels each speaker in your video, then tracks sentiment separately for each participant. This is ... Emotion Recognition from Webcam Video Streams Using ... Recognition of emotion is a traditionally challenging task for AI models. It requires detection of a face and then a model capable of discerning feelings from ... Analyze Human Emotions Across Every Video Interaction Yes. The system supports both live video stream analysis and recorded video analysis for emotion recognition. It can analyze emotional signals in real time ... Real-Time Emotion AI in Live Streaming Real-time emotion AI is transforming live streaming by analyzing facial expressions, voice tones, and text interactions to understand audience ... Can AI Detect Emotions? How Emotion AI Really Works Yes and no. AI can detect the observable signals of emotion, like tone of voice, facial movements and word choice, and estimate how a person is ... Can AI accurately detect emotions through webcam ... \ud83d\udc41\ufe0f Emerging AI systems can analyze facial movements, eye patterns, and other visual signals to estimate emotional expressions such as ... Free AI Highlight Detector - Find Moments Instantly AI detects key moments, highlights, and specific topics in any video. Search hours of footage in seconds and clip the best parts instantly. - Try it now! He Built an AI Model That Can Decode Your Emotions This AI can read emotions better than you can. It was created by Alan Cowen, the cofounder and CEO of Hume, an AI research lab developing ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f2aa2c2f13b4af7a3795",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/2zIWsJ5JQQFWxG2bBbOVtCAdrXG_zQPKIrry05Zfl7Q/6b02f2aa2c2f13b4af7a3795.json",
+      "markdown_endpoint": "https://serpapi.com/searches/2zIWsJ5JQQFWxG2bBbOVtCAdrXG_zQPKIrry05Zfl7Q/6b02f2aa2c2f13b4af7a3795.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/2zIWsJ5JQQFWxG2bBbOVtCAdrXG_zQPKIrry05Zfl7Q/6b02f2aa2c2f13b4af7a3795.json_with_pixel_position",
+      "created_at": "2026-11-22 13:48:26 UTC",
+      "processed_at": "2026-11-22 13:48:26 UTC",
+      "google_url": "https://www.google.com/search?q=Can+AI+identify+emotional+moments+in+a+live+stream+recording%3F&oq=Can+AI+identify+emotional+moments+in+a+live+stream+recording%3F&hl=en&gl=uk&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/2zIWsJ5JQQFWxG2bBbOVtCAdrXG_zQPKIrry05Zfl7Q/6b02f2aa2c2f13b4af7a3795.html",
+      "total_time_taken": 0.99
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "Can AI identify emotional moments in a live stream recording?",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "uk",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "Can AI identify emotional moments in a live stream recording?",
+      "total_results": 339000000,
+      "time_taken_displayed": 0.27,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "How AI Automatically Finds the Best Moments in Your Stream",
+        "link": "https://www.google.com/goto?url=CAESZwHEIkXXbzUOY8Q2wvY3C6dqs8CxfXQ-BT3509FdjKcyFujgBqQdYbKvaDM396qc3ubMZEn-qyv0_AoozMap0c86RWJTTReYR1co9XUtX749LpEl1nODGjRRUuaWZ6J7JCVfrMaDLps&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg",
+        "thumbnail": "https://serpapi.com/searches/6b02f2aa2c2f13b4af7a3795/images/AGHq5CUcMnybIljJJFu4PzF6RnrFX0UeKfmXOW9tqsI.webp",
+        "channel": "Restream",
+        "duration": "0:23",
+        "platform": "YouTube",
+        "date": "4 Mar 2026",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQifK54zHU-76zzXq3P87fdS9cjvkDjiHCZTA"
+      },
+      {
+        "position": 2,
+        "title": "AI-driven Emotion-aware Platforms: A Review of the Field?",
+        "link": "https://www.google.com/goto?url=CAESbgHEIkXXvfRcE4mUgXlFkSCuG4jBnHdm8KppzkCNg6oG7a1V0f1-9xZrBqj0V8gnQwZ_wRL6LqDVSRyd67SGQW9zdrn6w4WY0Hr5olpgTt7dfSBVAfO4kdmzx1p9JwYA04dvib9-cgkVwGYMANpp&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg",
+        "thumbnail": "https://serpapi.com/searches/6b02f2aa2c2f13b4af7a3795/images/ePRMLJTAMTv2wiOdUcZA2uUsIeWLsn1ZISKXb2fzyj4.webp",
+        "channel": "John Snow Labs \u2013 Healthcare AI Company",
+        "duration": "18:56",
+        "platform": "YouTube",
+        "date": "3 weeks ago"
+      },
+      {
+        "position": 3,
+        "title": "Real-Time Audio Emotion Recognition & Code Optimization",
+        "link": "https://www.google.com/goto?url=CAESbgHEIkXXV5e_PVB9iNZdAVEmI30vBMxCRaC598-M_uUmDO4LKnUtl-ArRYUYdHKDWhZBHqOoXZnlsjNHJN91xxfkvZxtiNI8GgKiWP-eTinRV4NzAmYHoZRqYP8XaIghl5j2d8NZOpkrkm3CawJX&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg",
+        "thumbnail": "https://serpapi.com/searches/6b02f2aa2c2f13b4af7a3795/images/NDLx6Ej-u2uEAg82Kfr5FQTk712ITpJbXYfraFEEUy4.webp",
+        "channel": "BioniChaos",
+        "duration": "18:11",
+        "platform": "YouTube",
+        "date": "14 Feb 2026",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "Introduction to the Advanced Local Audio Analyzer",
+            "link": "https://www.google.com/goto?url=CAEScgHEIkXXNCwk_wAbq0i9rocqSMsHjkxMXfn9Jge_p9G_eUbsauwfndkg2v9Gms6GuKC8mhOx4W09T4gCn3Pr0TrcMnVU7LOERP6FYvPI5T34BTo5RBohokRrOvaROoD8D-3zuAXEIGT1SiJ3VEw6oaA7RA&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+          },
+          {
+            "time": "01:30",
+            "title": "Testing sentiment analysis with live speech",
+            "link": "https://www.google.com/goto?url=CAEScwHEIkXXmO4EnhAb7XeXU_ynL5d9xEjFUd3yV2s3J0-xTHmhetbfZxbaUzSZFn0P2o0XtBx32RH1iiL0iEpFeDCV1X2DbZlOdPItkvth-LbuEwtEMg737l2EhjcAoDY_vtOkwBaYUMTR7b1mrcCIU7njWB8&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+          },
+          {
+            "time": "03:30",
+            "title": "Discussing issues with the radar chart visualization",
+            "link": "https://www.google.com/goto?url=CAESdAHEIkXXdVykye1VI4CNrCf1YW849F5z8if5zza5L5oYe_PtWqVmnW_gK4juaQsZbDIDUuENpnio_DydPkA2ndGB7-c8DNlNBuVdTVysJlSPqwc9MdLB5ZCVijUBHHS3ElVQN8OwF8UvfHhgZH7T3ACmiBRP&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+          },
+          {
+            "time": "04:35",
+            "title": "Analyzing the application's underlying source code",
+            "link": "https://www.google.com/goto?url=CAESdAHEIkXXnD6lJkArKd3CFyY-l-t6z1lCghVghm1l5zXGe8GMPotj_QmOL_oSVEUAV62MU5Fbblr9OZB131EK29iKX3CHoV-_EG-kjRhH8yoW4mN-EGsyFx70bh5vkb-uhfMbh7IKWyE8XVc85PZOBbEaLgxR&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+          },
+          {
+            "time": "05:20",
+            "title": "Reviewing the embedded synthetic lexicon",
+            "link": "https://www.google.com/goto?url=CAESdAHEIkXXX6kxVkHago0EZMpWhYeGZNCKjrX2JiNqvJQ-MJelDeIRFrufdH5tbSEDlRawMMQl1M9H5upnYahBtv_YgS-XqRQxARnBnQqUr-qUim3XzALPIGHr-SFBhay4UXIeoW2dVjSEE48uk8JvZtpjFXJo&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+          },
+          {
+            "time": "06:25",
+            "title": "Brainstorming improvements for sentiment recognition",
+            "link": "https://www.google.com/goto?url=CAESdAHEIkXXxL6hiMfW6ZbVxNEv3n-E74eduG2Am42wBM6ZEwEEbcfQfJ4-6T_0ewW90mfh4WOLoRVdylEFjCoH6fHxicX7seCLcFWY8xEg5Ozg2D59XCwYiVLSrlJLH502gXoc3n76gWN5KNdSBBbH-d7Unmpt&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+          },
+          {
+            "time": "07:40",
+            "title": "Comparing text-based versus audio-based sentiment analysis",
+            "link": "https://www.google.com/goto?url=CAESdAHEIkXXJKEk2lQSrCnOf_YJaQHiDrxucrNdFt1SYsGU3GayKbUWecELy68iaLRZSa5FyTo5tHy0okKUxOKTZcaTmyTAdJwV4S9xWCVb7BJtvGYU6aXUTtSuVNly8tF8gb7SKhZbqGCubiA8xt1x6ozRuvO-&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+          },
+          {
+            "time": "09:20",
+            "title": "Explaining how negators and intensifiers affect sentiment scores",
+            "link": "https://www.google.com/goto?url=CAESdAHEIkXXUBLPtRj0V3v-DsEy6as5xnJuCk0X65Z3C5O4Ph_bja6o9UmdEeCbqFpk4xNYz2rQ04doFnlO1Zum7IDiSTjv8JEJ6ye0WNXuvKdWaXRwVCyb062Oa29d9kFYAPWCkrTIf9cyWdFmPRq5qu9caBHd&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+          },
+          {
+            "time": "10:38",
+            "title": "Overview of BioniChaos website tools",
+            "link": "https://www.google.com/goto?url=CAESdAHEIkXXz0vVoqHlsyfd7dU-i_nIRPsKfGbZ0AAwfKEGEWfmBZWZ9AxizFAJrg7modBC7kut9UY3hp9ZM_WSKnVcgwk601YG30TZLj-6iWRAG7A64DuoNgM-EnXfOkw6O56XeH_-n1FgE5537ekUfOL9PIs8&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+          },
+          {
+            "time": "11:17",
+            "title": "Identifying gaps in the current lexicon",
+            "link": "https://www.google.com/goto?url=CAESdAHEIkXXmVs2ewyjK0boiVBEFAfUCNh6DiRZw9pXY8RjFu5tFftdW1QrFpWGjJPvC1lykzDtPZffSno2e5j7hpTnqzWSvHgS6EGNxIeFDTEqfE5cXsFIrYQl-HaAfPUYjtO35LG3CWju_I8RqPKtQ0NaMab5&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+          },
+          {
+            "time": "12:20",
+            "title": "Discussing pronunciation and language teaching applications",
+            "link": "https://www.google.com/goto?url=CAESdAHEIkXXzL8pXqFmcPjySquikDB8V_dYh_4gdNZmhKBRMf-p0xiqsmbQnfYGjD98pONdWAZFgimK0CsTOb4WI-vCYVn2gKbCUdDam0JCQnojtLGGcMy3yfQHeLDopdg_05qs-J8LZ0p-b3Kw5pRoxmY_-FWO&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+          },
+          {
+            "time": "13:17",
+            "title": "Testing updated code with new sentiment triggers",
+            "link": "https://www.google.com/goto?url=CAESdAHEIkXXxzZTqYHVT0kHbWkm_a7x-pm25tBFQE0TrNaf8o-y4-DbDTxMzw2EMU96Qo6tSZgit9vrHZ_PNiDB3OqNpNJx5BquueJvsczQ1LYuzd_aY1O-olqSLN5fBAb2zStB4Y0nvT-mysyNLJePm09RdzCt&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+          },
+          {
+            "time": "14:45",
+            "title": "Integrating acoustic analysis features",
+            "link": "https://www.google.com/goto?url=CAESdAHEIkXXqClqctJ7QL3cuSTyTl7sJVPdq00hwdLWe0tB82kXiWTBoaYZ_v_44LpBvumSUCa0GoruI6LCECTUvIILSYPKfai0JQFG4ii_oJhAG6jLWKhEDt1QEM_cssM3MI1UKN_QTWve9cP1joRPtRXk3iKv&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+          },
+          {
+            "time": "16:47",
+            "title": "Explaining the need for trained models vs. heuristics",
+            "link": "https://www.google.com/goto?url=CAESdQHEIkXXMHgEXfUx3u9u9Ob6ZV3d_IMAhEfvFCj8rIrL4D06QHfEPcTF_Kyu42X1j_tkljHmICEv1Qw44WVL5NTdkBxw7_WdMtl8PrNHuPDqjICFUgLnoxDDl_35yLLvpfRUJfX1JSqKVyLRFA9Hpz2WEuNCuA&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+          },
+          {
+            "time": "17:58",
+            "title": "Closing thoughts and invitation to visit bionichaos.com",
+            "link": "https://www.google.com/goto?url=CAESdQHEIkXXlgI-toDI_F4evUOcA3zI44xi09V97uB_ticXG8ufzynkzGGxuC3Cs9CiULkMdpsuKCOChoWDnOxPOWGyM465fD97f3hLWWWI5sTa5Z2DitEDqvlyjo9xnwlmxT5bWyidpOT4gCx-AW079lvhxYwxMg&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+          }
+        ]
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "Can AI detect emotions?",
+        "type": "ai_overview",
+        "page_token": "PlE2CXicHdBRboIwAADQbIfZp1pRN0zMEpQqqN1sKcX-GCgo0kKZogifO8u-PMwOsGPsBEv2jvA-v9SxkD8PQVpV5Xnc7dZ13TlofVBJR-i8G56bQnRFqFQUCjkePY_A615M7HNtTXVtbSi2typW2wwykqMK5bfbtkDLdQ4A6psjD_BlCHW96ZmABxyTKXA2vkkZw5pIbCEo2yjAF1QglNgliOelERnuR7RANx_GPqW0QkdgRYuyjeSwEQF3aManaK4ujJkB95yGQbP1YNqLGD55mVsKNnTXWapY4eYrlupkJqtIOUMu3VXQN10-QwFlAwIN2CcUpWjue6T133Eer6lvXVGfGqIHs_nRtYg9qLEXO6TQLacKCwBn_gLaSLmBJw9DbMA3Il-aFVXG015cJ8bT_9hkt8-rcXnSh7s4JWGVxLuw-paPv_c_Iil_sg",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=PlE2CXicHdBRboIwAADQbIfZp1pRN0zMEpQqqN1sKcX-GCgo0kKZogifO8u-PMwOsGPsBEv2jvA-v9SxkD8PQVpV5Xnc7dZ13TlofVBJR-i8G56bQnRFqFQUCjkePY_A615M7HNtTXVtbSi2typW2wwykqMK5bfbtkDLdQ4A6psjD_BlCHW96ZmABxyTKXA2vkkZw5pIbCEo2yjAF1QglNgliOelERnuR7RANx_GPqW0QkdgRYuyjeSwEQF3aManaK4ujJkB95yGQbP1YNqLGD55mVsKNnTXWapY4eYrlupkJqtIOUMu3VXQN10-QwFlAwIN2CcUpWjue6T133Eer6lvXVGfGqIHs_nRtYg9qLEXO6TQLacKCwBn_gLaSLmBJw9DbMA3Il-aFVXG015cJ8bT_9hkt8-rcXnSh7s4JWGVxLuw-paPv_c_Iil_sg",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWldVcFlXbEZQYmtSRVdESmhNV2N3WTE5b1VVZHBaR2wwYVhGa1pWazNkRGt5Um1WWk9VOXJkMU00ZG1kb1pUSm1NbTA0T1docU9HaDJNVFV5WmtsSk9GZGxhVmQ0Vmt4VGJteDZVMjk2Ymt4SU1XVXpURWxzWkhkclFSSVhjWFpKUTJFMFpWTkxOVTlHWjB4UlVHODNaVGR6UVdNYUlrRklUakJGTjBkTFVqRklWR016WkZSTU5XRm1ObTlSVlRsc2JtMTVOVXAyZDFFIiwiZmN2IjoiMyIsImVpIjoicXZJQ2E0ZVNLNU9GZ0xRUG83ZTdzQWMiLCJxYyI6IkNqeGpZVzRnWVdrZ2FXUmxiblJwWm5rZ1pXMXZkR2x2Ym1Gc0lHMXZiV1Z1ZEhNZ2FXNGdZU0JzYVhabElITjBjbVZoYlNCeVpXTnZjbVJwYm1jUUFIMG51UU1fIiwicXVlc3Rpb24iOiJDYW4gQUkgZGV0ZWN0IGVtb3Rpb25zPyIsImxrIjoiR2haallXNGdZV2tnWkdWMFpXTjBJR1Z0YjNScGIyNXoiLCJicyI6ImMyV1B1dzdDTUF4RnhlcUppVWVRd0h3QVM1bVlLb1FZR0ptWVF3alVVaHBMZFZwVXZwNEVpbFNWLVp4NzdRdGJtQjYweF8wSmJ6WllFOUNXSElpOTVObE1UVXhFbW9ZSWpvQXAxSEtOdGRnVTV1aWhvOGFpaE1ycU1zX1dhbVY2VG13Wk9uQ0d6YVVnVTZTQ3dPeVFCSzlXQXQ2NVF1MjFhMV9rSDcyUFVDMF9QSllscFFQYWZXVWhnUjJvYms3RFpPS2xncDhfTDg4V2F0NHQtcWZqMFJzIiwiaWQiOiJmY19xdklDYTRlU0s1T0ZnTFFQbzdlN3NBY18xIn0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWldVcFlXbEZQYmtSRVdESmhNV2N3WTE5b1VVZHBaR2wwYVhGa1pWazNkRGt5Um1WWk9VOXJkMU00ZG1kb1pUSm1NbTA0T1docU9HaDJNVFV5WmtsSk9GZGxhVmQ0Vmt4VGJteDZVMjk2Ymt4SU1XVXpURWxzWkhkclFSSVhjWFpKUTJFMFpWTkxOVTlHWjB4UlVHODNaVGR6UVdNYUlrRklUakJGTjBkTFVqRklWR016WkZSTU5XRm1ObTlSVlRsc2JtMTVOVXAyZDFFIiwiZmN2IjoiMyIsImVpIjoicXZJQ2E0ZVNLNU9GZ0xRUG83ZTdzQWMiLCJxYyI6IkNqeGpZVzRnWVdrZ2FXUmxiblJwWm5rZ1pXMXZkR2x2Ym1Gc0lHMXZiV1Z1ZEhNZ2FXNGdZU0JzYVhabElITjBjbVZoYlNCeVpXTnZjbVJwYm1jUUFIMG51UU1fIiwicXVlc3Rpb24iOiJDYW4gQUkgZGV0ZWN0IGVtb3Rpb25zPyIsImxrIjoiR2haallXNGdZV2tnWkdWMFpXTjBJR1Z0YjNScGIyNXoiLCJicyI6ImMyV1B1dzdDTUF4RnhlcUppVWVRd0h3QVM1bVlLb1FZR0ptWVF3alVVaHBMZFZwVXZwNEVpbFNWLVp4NzdRdGJtQjYweF8wSmJ6WllFOUNXSElpOTVObE1UVXhFbW9ZSWpvQXAxSEtOdGRnVTV1aWhvOGFpaE1ycU1zX1dhbVY2VG13Wk9uQ0d6YVVnVTZTQ3dPeVFCSzlXQXQ2NVF1MjFhMV9rSDcyUFVDMF9QSllscFFQYWZXVWhnUjJvYms3RFpPS2xncDhfTDg4V2F0NHQtcWZqMFJzIiwiaWQiOiJmY19xdklDYTRlU0s1T0ZnTFFQbzdlN3NBY18xIn0%3D"
+      },
+      {
+        "question": "Can you use AI on a live stream?",
+        "type": "ai_overview",
+        "page_token": "Eofj-nicHdBRbpswAABQrYfpZ2OTJtMiRdMoOE0WnOLaBvxTOTaE1DY4hYaUz51lXz3MDrBj9ASV-o7w_vy1x8b8_3au-953i8lkGIabQ9sebHmjWjeR3VujJkpau5fKLObf5_BnpZbx6zq8O63DlJG4sNoWuff63kcchWcV698CrIddjG0Z4VPpZtWebtIS-Ug2IthnIlPAQkrrJA-05NCOSSa6lF1a5maJNLZRjXnT1grGfww4QMFu1R9J1ldF8-tWWTEQtgH5uHkQGd9qsFklAHvs6mc-FpDl5J6x2tDMb3GEROrIWhhyzmJ4q4PZ-DiGUFI8x86vcuglc32RAmEVCh8Fx1vhfBjX-qKNjQpKLAMdpEA0FKF0P2qLpzgsLu0xZfUuidmUGJgTyk1GOSQGddrpE1kBwA1H2NRhMiUPeriu1Hk5vf76XD5Vrl_4l_bwrl5K2Zf6Sfb_zNXH-ycAfYvN",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Eofj-nicHdBRbpswAABQrYfpZ2OTJtMiRdMoOE0WnOLaBvxTOTaE1DY4hYaUz51lXz3MDrBj9ASV-o7w_vy1x8b8_3au-953i8lkGIabQ9sebHmjWjeR3VujJkpau5fKLObf5_BnpZbx6zq8O63DlJG4sNoWuff63kcchWcV698CrIddjG0Z4VPpZtWebtIS-Ug2IthnIlPAQkrrJA-05NCOSSa6lF1a5maJNLZRjXnT1grGfww4QMFu1R9J1ldF8-tWWTEQtgH5uHkQGd9qsFklAHvs6mc-FpDl5J6x2tDMb3GEROrIWhhyzmJ4q4PZ-DiGUFI8x86vcuglc32RAmEVCh8Fx1vhfBjX-qKNjQpKLAMdpEA0FKF0P2qLpzgsLu0xZfUuidmUGJgTyk1GOSQGddrpE1kBwA1H2NRhMiUPeriu1Hk5vf76XD5Vrl_4l_bwrl5K2Zf6Sfb_zNXH-ycAfYvN",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWldVcFlXbEZQYmtSRVdESmhNV2N3WTE5b1VVZHBaR2wwYVhGa1pWazNkRGt5Um1WWk9VOXJkMU00ZG1kb1pUSm1NbTA0T1docU9HaDJNVFV5WmtsSk9GZGxhVmQ0Vmt4VGJteDZVMjk2Ymt4SU1XVXpURWxzWkhkclFSSVhjWFpKUTJFMFpWTkxOVTlHWjB4UlVHODNaVGR6UVdNYUlrRklUakJGTjBkTFVqRklWR016WkZSTU5XRm1ObTlSVlRsc2JtMTVOVXAyZDFFIiwiZmN2IjoiMyIsImVpIjoicXZJQ2E0ZVNLNU9GZ0xRUG83ZTdzQWMiLCJxYyI6IkNqeGpZVzRnWVdrZ2FXUmxiblJwWm5rZ1pXMXZkR2x2Ym1Gc0lHMXZiV1Z1ZEhNZ2FXNGdZU0JzYVhabElITjBjbVZoYlNCeVpXTnZjbVJwYm1jUUFIMG51UU1fIiwicXVlc3Rpb24iOiJDYW4geW91IHVzZSBBSSBvbiBhIGxpdmUgc3RyZWFtPyIsImxrIjoiR2g5allXNGdlVzkxSUhWelpTQmhhU0J2YmlCaElHeHBkbVVnYzNSeVpXRnQiLCJicyI6ImMyV1B1dzdDTUF4RnhlcUppVWVRd0h3QVM1bVlLb1FZR0ptWVF3alVVaHBMZFZwVXZwNEVpbFNWLVp4NzdRdGJtQjYweF8wSmJ6WllFOUNXSElpOTVObE1UVXhFbW9ZSWpvQXAxSEtOdGRnVTV1aWhvOGFpaE1ycU1zX1dhbVY2VG13Wk9uQ0d6YVVnVTZTQ3dPeVFCSzlXQXQ2NVF1MjFhMV9rSDcyUFVDMF9QSllscFFQYWZXVWhnUjJvYms3RFpPS2xncDhfTDg4V2F0NHQtcWZqMFJzIiwiaWQiOiJmY19xdklDYTRlU0s1T0ZnTFFQbzdlN3NBY18xIn0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWldVcFlXbEZQYmtSRVdESmhNV2N3WTE5b1VVZHBaR2wwYVhGa1pWazNkRGt5Um1WWk9VOXJkMU00ZG1kb1pUSm1NbTA0T1docU9HaDJNVFV5WmtsSk9GZGxhVmQ0Vmt4VGJteDZVMjk2Ymt4SU1XVXpURWxzWkhkclFSSVhjWFpKUTJFMFpWTkxOVTlHWjB4UlVHODNaVGR6UVdNYUlrRklUakJGTjBkTFVqRklWR016WkZSTU5XRm1ObTlSVlRsc2JtMTVOVXAyZDFFIiwiZmN2IjoiMyIsImVpIjoicXZJQ2E0ZVNLNU9GZ0xRUG83ZTdzQWMiLCJxYyI6IkNqeGpZVzRnWVdrZ2FXUmxiblJwWm5rZ1pXMXZkR2x2Ym1Gc0lHMXZiV1Z1ZEhNZ2FXNGdZU0JzYVhabElITjBjbVZoYlNCeVpXTnZjbVJwYm1jUUFIMG51UU1fIiwicXVlc3Rpb24iOiJDYW4geW91IHVzZSBBSSBvbiBhIGxpdmUgc3RyZWFtPyIsImxrIjoiR2g5allXNGdlVzkxSUhWelpTQmhhU0J2YmlCaElHeHBkbVVnYzNSeVpXRnQiLCJicyI6ImMyV1B1dzdDTUF4RnhlcUppVWVRd0h3QVM1bVlLb1FZR0ptWVF3alVVaHBMZFZwVXZwNEVpbFNWLVp4NzdRdGJtQjYweF8wSmJ6WllFOUNXSElpOTVObE1UVXhFbW9ZSWpvQXAxSEtOdGRnVTV1aWhvOGFpaE1ycU1zX1dhbVY2VG13Wk9uQ0d6YVVnVTZTQ3dPeVFCSzlXQXQ2NVF1MjFhMV9rSDcyUFVDMF9QSllscFFQYWZXVWhnUjJvYms3RFpPS2xncDhfTDg4V2F0NHQtcWZqMFJzIiwiaWQiOiJmY19xdklDYTRlU0s1T0ZnTFFQbzdlN3NBY18xIn0%3D"
+      },
+      {
+        "question": "Which AI tool is best for analyzing emotions?",
+        "type": "ai_overview",
+        "page_token": "BGZ9tXicHdBfbpswHABgbYfpY2PI0olI0aQ0mKQtbvmB7dovlcEkBH78aaAh4XFn2VMPswPsGDvBpH1H-H7-wmNT_flyLoah65ez2TiOt4e2PWB-m7X1zPTXJptlBjE1WbW8-37n_NhnK_9jt75_360jDr5Ci7LBJ1XDiyx1wN3dFNJio7cPQcxFmQXelCK7Sqm72Om6vNldzYTftCMeY-Kg2NrWTmBi13PjgNawpSeWrF9Zw560XLhAtJao-1Au7sHXCHPYMwdBEyeUjThrv79oGg6KHAZBWjcU3hGmgkhBjRTRKEp7TQmWUcku6hVectmPSoACny-YeHg3CAtWeSxM4DEsK5JTD_zCXmyFG5UActI7CdFNQmmUThbZnK3VpT1GvHgOfT6Pt12iCNLnDW0iBFDC9in3MK59YjYssLwnUXSzz86r-c3_z9Xbvh6W3ak9fGan3Ay5fTPD7-rr389_yaWKfw",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=BGZ9tXicHdBfbpswHABgbYfpY2PI0olI0aQ0mKQtbvmB7dovlcEkBH78aaAh4XFn2VMPswPsGDvBpH1H-H7-wmNT_flyLoah65ez2TiOt4e2PWB-m7X1zPTXJptlBjE1WbW8-37n_NhnK_9jt75_360jDr5Ci7LBJ1XDiyx1wN3dFNJio7cPQcxFmQXelCK7Sqm72Om6vNldzYTftCMeY-Kg2NrWTmBi13PjgNawpSeWrF9Zw560XLhAtJao-1Au7sHXCHPYMwdBEyeUjThrv79oGg6KHAZBWjcU3hGmgkhBjRTRKEp7TQmWUcku6hVectmPSoACny-YeHg3CAtWeSxM4DEsK5JTD_zCXmyFG5UActI7CdFNQmmUThbZnK3VpT1GvHgOfT6Pt12iCNLnDW0iBFDC9in3MK59YjYssLwnUXSzz86r-c3_z9Xbvh6W3ak9fGan3Ay5fTPD7-rr389_yaWKfw",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWldVcFlXbEZQYmtSRVdESmhNV2N3WTE5b1VVZHBaR2wwYVhGa1pWazNkRGt5Um1WWk9VOXJkMU00ZG1kb1pUSm1NbTA0T1docU9HaDJNVFV5WmtsSk9GZGxhVmQ0Vmt4VGJteDZVMjk2Ymt4SU1XVXpURWxzWkhkclFSSVhjWFpKUTJFMFpWTkxOVTlHWjB4UlVHODNaVGR6UVdNYUlrRklUakJGTjBkTFVqRklWR016WkZSTU5XRm1ObTlSVlRsc2JtMTVOVXAyZDFFIiwiZmN2IjoiMyIsImVpIjoicXZJQ2E0ZVNLNU9GZ0xRUG83ZTdzQWMiLCJxYyI6IkNqeGpZVzRnWVdrZ2FXUmxiblJwWm5rZ1pXMXZkR2x2Ym1Gc0lHMXZiV1Z1ZEhNZ2FXNGdZU0JzYVhabElITjBjbVZoYlNCeVpXTnZjbVJwYm1jUUFIMG51UU1fIiwicXVlc3Rpb24iOiJXaGljaCBBSSB0b29sIGlzIGJlc3QgZm9yIGFuYWx5emluZyBlbW90aW9ucz8iLCJsayI6IkdoNWlaWE4wSUdGcElHWnZjaUJsYlc5MGFXOXVZV3dnWVc1aGJIbHphWE0iLCJicyI6ImMyV1B1dzdDTUF4RnhlcUppVWVRd0h3QVM1bVlLb1FZR0ptWVF3alVVaHBMZFZwVXZwNEVpbFNWLVp4NzdRdGJtQjYweF8wSmJ6WllFOUNXSElpOTVObE1UVXhFbW9ZSWpvQXAxSEtOdGRnVTV1aWhvOGFpaE1ycU1zX1dhbVY2VG13Wk9uQ0d6YVVnVTZTQ3dPeVFCSzlXQXQ2NVF1MjFhMV9rSDcyUFVDMF9QSllscFFQYWZXVWhnUjJvYms3RFpPS2xncDhfTDg4V2F0NHQtcWZqMFJzIiwiaWQiOiJmY19xdklDYTRlU0s1T0ZnTFFQbzdlN3NBY18xIn0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWldVcFlXbEZQYmtSRVdESmhNV2N3WTE5b1VVZHBaR2wwYVhGa1pWazNkRGt5Um1WWk9VOXJkMU00ZG1kb1pUSm1NbTA0T1docU9HaDJNVFV5WmtsSk9GZGxhVmQ0Vmt4VGJteDZVMjk2Ymt4SU1XVXpURWxzWkhkclFSSVhjWFpKUTJFMFpWTkxOVTlHWjB4UlVHODNaVGR6UVdNYUlrRklUakJGTjBkTFVqRklWR016WkZSTU5XRm1ObTlSVlRsc2JtMTVOVXAyZDFFIiwiZmN2IjoiMyIsImVpIjoicXZJQ2E0ZVNLNU9GZ0xRUG83ZTdzQWMiLCJxYyI6IkNqeGpZVzRnWVdrZ2FXUmxiblJwWm5rZ1pXMXZkR2x2Ym1Gc0lHMXZiV1Z1ZEhNZ2FXNGdZU0JzYVhabElITjBjbVZoYlNCeVpXTnZjbVJwYm1jUUFIMG51UU1fIiwicXVlc3Rpb24iOiJXaGljaCBBSSB0b29sIGlzIGJlc3QgZm9yIGFuYWx5emluZyBlbW90aW9ucz8iLCJsayI6IkdoNWlaWE4wSUdGcElHWnZjaUJsYlc5MGFXOXVZV3dnWVc1aGJIbHphWE0iLCJicyI6ImMyV1B1dzdDTUF4RnhlcUppVWVRd0h3QVM1bVlLb1FZR0ptWVF3alVVaHBMZFZwVXZwNEVpbFNWLVp4NzdRdGJtQjYweF8wSmJ6WllFOUNXSElpOTVObE1UVXhFbW9ZSWpvQXAxSEtOdGRnVTV1aWhvOGFpaE1ycU1zX1dhbVY2VG13Wk9uQ0d6YVVnVTZTQ3dPeVFCSzlXQXQ2NVF1MjFhMV9rSDcyUFVDMF9QSllscFFQYWZXVWhnUjJvYms3RFpPS2xncDhfTDg4V2F0NHQtcWZqMFJzIiwiaWQiOiJmY19xdklDYTRlU0s1T0ZnTFFQbzdlN3NBY18xIn0%3D"
+      },
+      {
+        "question": "Can AI voice show emotion?",
+        "type": "ai_overview",
+        "page_token": "UrtMg3icHdBdUoJAAADgqcP0KH9h6YzThLAqtYvuL_Li4IJ_u4AJivrYWXryMB2gY3SCZvqO8H1-6W2pfu7iTdPs675htG3bWVfVWucdWRVGWl9KachU62UqVb_71LVeVnIQ1K03rFpvxnAw15kWfOImY-ZGFNiMJyxTjcIKtrN488FVcmEliljBT0sbTFFgQRaD4bxM3hAI8ZwHDYpDKmIPIxOaKedHEk8saZ7n1JFn6GdBFLhpXugjH2uW8LAm5T5GolckPt7IEloEPF8j_9Wd2Ym53OEJ1XhPfWhTinwpEk8IUAilTULVlQgUocAkwAE2YWiDRpySK5_iIoOMeydkM0eaYDfahh4JHltMs7HcIRs6aAyBdmZW75qPwIkVPfUuEFmaIYM77T2s5GngPPyPDRarounvD9X6Jg952uTZIm2-1f3v7Q9ewX4x",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=UrtMg3icHdBdUoJAAADgqcP0KH9h6YzThLAqtYvuL_Li4IJ_u4AJivrYWXryMB2gY3SCZvqO8H1-6W2pfu7iTdPs675htG3bWVfVWucdWRVGWl9KachU62UqVb_71LVeVnIQ1K03rFpvxnAw15kWfOImY-ZGFNiMJyxTjcIKtrN488FVcmEliljBT0sbTFFgQRaD4bxM3hAI8ZwHDYpDKmIPIxOaKedHEk8saZ7n1JFn6GdBFLhpXugjH2uW8LAm5T5GolckPt7IEloEPF8j_9Wd2Ym53OEJ1XhPfWhTinwpEk8IUAilTULVlQgUocAkwAE2YWiDRpySK5_iIoOMeydkM0eaYDfahh4JHltMs7HcIRs6aAyBdmZW75qPwIkVPfUuEFmaIYM77T2s5GngPPyPDRarounvD9X6Jg952uTZIm2-1f3v7Q9ewX4x",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWldVcFlXbEZQYmtSRVdESmhNV2N3WTE5b1VVZHBaR2wwYVhGa1pWazNkRGt5Um1WWk9VOXJkMU00ZG1kb1pUSm1NbTA0T1docU9HaDJNVFV5WmtsSk9GZGxhVmQ0Vmt4VGJteDZVMjk2Ymt4SU1XVXpURWxzWkhkclFSSVhjWFpKUTJFMFpWTkxOVTlHWjB4UlVHODNaVGR6UVdNYUlrRklUakJGTjBkTFVqRklWR016WkZSTU5XRm1ObTlSVlRsc2JtMTVOVXAyZDFFIiwiZmN2IjoiMyIsImVpIjoicXZJQ2E0ZVNLNU9GZ0xRUG83ZTdzQWMiLCJxYyI6IkNqeGpZVzRnWVdrZ2FXUmxiblJwWm5rZ1pXMXZkR2x2Ym1Gc0lHMXZiV1Z1ZEhNZ2FXNGdZU0JzYVhabElITjBjbVZoYlNCeVpXTnZjbVJwYm1jUUFIMG51UU1fIiwicXVlc3Rpb24iOiJDYW4gQUkgdm9pY2Ugc2hvdyBlbW90aW9uPyIsImxrIjoiR2hsallXNGdZV2tnZG05cFkyVWdjMmh2ZHlCbGJXOTBhVzl1IiwiYnMiOiJjMldQdXc3Q01BeEZ4ZXFKaVVlUXdId0FTNW1ZS29RWUdKbVlRd2pVVWhwTGRWcFV2cDRFaWxTVi1aeDc3UXRibUI2MHhfMEpielpZRTlDV0hJaTk1TmxNVFV4RW1vWUlqb0FwMUhLTnRkZ1U1dWlobzhhaWhNcnFNc19XYW1WNlRtd1pPbkNHemFVZ1U2U0N3T3lRQks5V0F0NjVRdTIxYTFfa0g3MlBVQzBfUEpZbHBRUGFmV1VoZ1Iyb2JrN0RaT0tsZ3A4X0w4OFdhdDR0LXFmajBScyIsImlkIjoiZmNfcXZJQ2E0ZVNLNU9GZ0xRUG83ZTdzQWNfMSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWldVcFlXbEZQYmtSRVdESmhNV2N3WTE5b1VVZHBaR2wwYVhGa1pWazNkRGt5Um1WWk9VOXJkMU00ZG1kb1pUSm1NbTA0T1docU9HaDJNVFV5WmtsSk9GZGxhVmQ0Vmt4VGJteDZVMjk2Ymt4SU1XVXpURWxzWkhkclFSSVhjWFpKUTJFMFpWTkxOVTlHWjB4UlVHODNaVGR6UVdNYUlrRklUakJGTjBkTFVqRklWR016WkZSTU5XRm1ObTlSVlRsc2JtMTVOVXAyZDFFIiwiZmN2IjoiMyIsImVpIjoicXZJQ2E0ZVNLNU9GZ0xRUG83ZTdzQWMiLCJxYyI6IkNqeGpZVzRnWVdrZ2FXUmxiblJwWm5rZ1pXMXZkR2x2Ym1Gc0lHMXZiV1Z1ZEhNZ2FXNGdZU0JzYVhabElITjBjbVZoYlNCeVpXTnZjbVJwYm1jUUFIMG51UU1fIiwicXVlc3Rpb24iOiJDYW4gQUkgdm9pY2Ugc2hvdyBlbW90aW9uPyIsImxrIjoiR2hsallXNGdZV2tnZG05cFkyVWdjMmh2ZHlCbGJXOTBhVzl1IiwiYnMiOiJjMldQdXc3Q01BeEZ4ZXFKaVVlUXdId0FTNW1ZS29RWUdKbVlRd2pVVWhwTGRWcFV2cDRFaWxTVi1aeDc3UXRibUI2MHhfMEpielpZRTlDV0hJaTk1TmxNVFV4RW1vWUlqb0FwMUhLTnRkZ1U1dWlobzhhaWhNcnFNc19XYW1WNlRtd1pPbkNHemFVZ1U2U0N3T3lRQks5V0F0NjVRdTIxYTFfa0g3MlBVQzBfUEpZbHBRUGFmV1VoZ1Iyb2JrN0RaT0tsZ3A4X0w4OFdhdDR0LXFmajBScyIsImlkIjoiZmNfcXZJQ2E0ZVNLNU9GZ0xRUG83ZTdzQWNfMSJ9"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "nkvPVniczZZLcvJGEICrss41og0_SDxtXKVyjQaBZQFGBozxRiWEGL3H1ggEXuYsWf2HyQFyjJwgowdYwuBHNklXwWhe3T09_an1-x-u5Tt__aqaYfhMrlg2iqIKwhi5RkXHHquRna-zK-ySQDevCV4HusHrZoA9o4IXTDpgLbMhxnR5w2eQy68dZrfh64xOeI4xLP5lI0GtYYzl5l0X9ZURvjAuCNCZRD-vLjRi2NT81iasytI_57d6h3YqpGL4ak-odC8s4Br9qt90KjWuVq_csZpH14D_WAQgIdo4AKAPlylfVaiYAIgAHu8X0zY3PgCxTQlAKZ05Z38cK413QiHuxoruwMoeOT36PNyvmkqf-EX3g96hN8vcShvn2N3PBB62xico6PpITgQxiYtc0FycOyW94oww74BOlFP_7jjWsdJp_BeBbmM0AIqinLW0F6pangPOBZ_kyd6jaft2HNJdArtENMs5dhHQpspauqknDwGJkx9O2hzujWq-PDLbQjQRDXU8F9VZu2USNLBvAKsv6DoXa0tjqZoqd530q7Vqk2vXLy5_JODp5EAeyZMXYMKF_uWgHHKVfkWo7pkrnvY4WIokgVPJhAS0D0VRDgqU_EUmYTha6RQsd7PWBIKkAL143Yos9vOLKC4desuXKB_-tx3wA-aOhGasCHCmYJoNgWK2KXMgjt8OkJ8SKX2nxUytFo31MuakbmJEirMu1iKi98zdAxqHOLxZiAsvRwFCJNAAK_GbQgYIhhAog_i6GrF_2Y2JiijS44mHKBXcgelBuqAgMOcJ3SfGqyKAROCsZQIb1n44MYJQaklQ0CEqiQ34nrrUIzreNU9OfUnEr7xYUi_2kB0xU2Bt2LjZ2rhaWzVq6q5TXt49o-fho_Xw7IDTbGFv8b2ypv__AcyKnptl_lkAY0tfAlAxPwLwfdETYQogdM4AOE4BhMKpojfarzoqeu8BhMDKARgXPbpjm2gUTxS97wM4_BzA_HXlAXy7qgKA4jkA44PkAZzb4r7onQYwK3pvAP7boid8v-glHBppU6yAaxudrYRd_PAY9dFqZaHW4_aRq6nNBonCli200aeVcOWFV562dH-o1vJKqN2Gu-UPlQ7gK2PJvPBQ80tAKllLww-t1a5keDi0sK-5JY9--PohKVl-SSu51sYokTAwNK8UUPqDpeWja8ZzA8xzWssianexmPVfR3a5dTtSpqOZD-UWWQca6cmG_BqtJLUh65MajB4Gc3yn1Nbd6uu23Xq9b2wdpKDOje3Ynq5uJnh02bCioP7UfrqFM2lTDkflzkvtHkvcUOdep4IzmYidGxy15ZnUcvu9LtZmT9aL_4gSfwg_25T9tm-Po_6c8QKdpwnQQGCoxJ93GhAicJtkrHD_Qts-TZMFFoByMwdKB9EfpnfFEF1TDbLh9Vazrjc5Tte01cXKWDEeCnfPfJtjiB_w1Z86DUlIQ6-Ffzq__P3zH0e-idc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=nkvPVniczZZLcvJGEICrss41og0_SDxtXKVyjQaBZQFGBozxRiWEGL3H1ggEXuYsWf2HyQFyjJwgowdYwuBHNklXwWhe3T09_an1-x-u5Tt__aqaYfhMrlg2iqIKwhi5RkXHHquRna-zK-ySQDevCV4HusHrZoA9o4IXTDpgLbMhxnR5w2eQy68dZrfh64xOeI4xLP5lI0GtYYzl5l0X9ZURvjAuCNCZRD-vLjRi2NT81iasytI_57d6h3YqpGL4ak-odC8s4Br9qt90KjWuVq_csZpH14D_WAQgIdo4AKAPlylfVaiYAIgAHu8X0zY3PgCxTQlAKZ05Z38cK413QiHuxoruwMoeOT36PNyvmkqf-EX3g96hN8vcShvn2N3PBB62xico6PpITgQxiYtc0FycOyW94oww74BOlFP_7jjWsdJp_BeBbmM0AIqinLW0F6pangPOBZ_kyd6jaft2HNJdArtENMs5dhHQpspauqknDwGJkx9O2hzujWq-PDLbQjQRDXU8F9VZu2USNLBvAKsv6DoXa0tjqZoqd530q7Vqk2vXLy5_JODp5EAeyZMXYMKF_uWgHHKVfkWo7pkrnvY4WIokgVPJhAS0D0VRDgqU_EUmYTha6RQsd7PWBIKkAL143Yos9vOLKC4desuXKB_-tx3wA-aOhGasCHCmYJoNgWK2KXMgjt8OkJ8SKX2nxUytFo31MuakbmJEirMu1iKi98zdAxqHOLxZiAsvRwFCJNAAK_GbQgYIhhAog_i6GrF_2Y2JiijS44mHKBXcgelBuqAgMOcJ3SfGqyKAROCsZQIb1n44MYJQaklQ0CEqiQ34nrrUIzreNU9OfUnEr7xYUi_2kB0xU2Bt2LjZ2rhaWzVq6q5TXt49o-fho_Xw7IDTbGFv8b2ypv__AcyKnptl_lkAY0tfAlAxPwLwfdETYQogdM4AOE4BhMKpojfarzoqeu8BhMDKARgXPbpjm2gUTxS97wM4_BzA_HXlAXy7qgKA4jkA44PkAZzb4r7onQYwK3pvAP7boid8v-glHBppU6yAaxudrYRd_PAY9dFqZaHW4_aRq6nNBonCli200aeVcOWFV562dH-o1vJKqN2Gu-UPlQ7gK2PJvPBQ80tAKllLww-t1a5keDi0sK-5JY9--PohKVl-SSu51sYokTAwNK8UUPqDpeWja8ZzA8xzWssianexmPVfR3a5dTtSpqOZD-UWWQca6cmG_BqtJLUh65MajB4Gc3yn1Nbd6uu23Xq9b2wdpKDOje3Ynq5uJnh02bCioP7UfrqFM2lTDkflzkvtHkvcUOdep4IzmYidGxy15ZnUcvu9LtZmT9aL_4gSfwg_25T9tm-Po_6c8QKdpwnQQGCoxJ93GhAicJtkrHD_Qts-TZMFFoByMwdKB9EfpnfFEF1TDbLh9Vazrjc5Tte01cXKWDEeCnfPfJtjiB_w1Z86DUlIQ6-Ffzq__P3zH0e-idc"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Video Sentiment Analysis: Emotion and Tone",
+        "link": "https://speakai.co/video-sentiment-analysis/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHEIkXXKlaUnz8vXnIujBbq4eJh0zFE7m-NhdBevQ4tAea8eSgwRfd6Cgi3Bw1yLEnt_Mso23CfchiBfsOGOKcjLy4xXaTaUK0mTW90F1L6YcbyTyJ4URgYCr4MvJaOxQ4gRgqCx6rCrw&ved=2ahUKEwiHj7Xa25uYAxWTAoAAHaPbDnYQFnoECCEQAQ&uoh=1",
+        "displayed_link": "https://speakai.co \u203a video-sentiment-analysis",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAAjUlEQVR4AWP4TwAMagWjCj79xlBQoVbx_8eL__-f_v__9sf_kEuffvx_wXDnkzZcgcC0O4sY1BYVp5keZdAuLu5X-_9_WkjTD3G4gksrGFbMfuEu0B-btv1scQXDJaB4E8MnhIIK7aYVygxHF2kXP2UwbSreLvfjkvud2O2myI6cPZuAL-7cGfRBPaoAAEcx0D6nNPvoAAAAAElFTkSuQmCC.png",
+        "date": "12 Nov 2026",
+        "snippet": "Speak AI automatically identifies and labels each speaker in your video, then tracks sentiment separately for each participant. This is ...",
+        "snippet_highlighted_words": [
+          "Speak AI automatically identifies and labels each speaker in your video"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Speak AI automatically identifies and labels each speaker in your video, then tracks sentiment separately for each participant. This is ...",
+            "source_info_link": "https://speakai.co/video-sentiment-analysis/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAAjUlEQVR4AWP4TwAMagWjCj79xlBQoVbx_8eL__-f_v__9sf_kEuffvx_wXDnkzZcgcC0O4sY1BYVp5keZdAuLu5X-_9_WkjTD3G4gksrGFbMfuEu0B-btv1scQXDJaB4E8MnhIIK7aYVygxHF2kXP2UwbSreLvfjkvud2O2myI6cPZuAL-7cGfRBPaoAAEcx0D6nNPvoAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhFSWtYWHMyaGgzTExFUnExY2RwMWJYSTJWRVU0Q01NRWZhRTY3QnRVMm42VlZrLXhpZGYyNHFPWEl3aUNfSTFNc3ZUbEpSRFFPLTdFZ2xtZ0xYaURIY2p4N2c3WkhzRWdxLXl0eTRxQjhMNHUwM19nbU8xbmNodU9KX25LZzJRWlpTb3RGbDRmNTJnEgQaAggAGuoHEgIIABoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJAxAcIABAAGAAgACoRCgNjYW4VhhHkPxoFY2FuYWkqKQoCYWkVgMTEQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaBWNhbmFpKoIBCghpZGVudGlmeRVaF6k_GgZkZXRlY3QaBGZpbmQaDmlkZW50aWZpY2F0aW9uGgppZGVudGlmaWVkGgppZGVudGlmaWVzGgtpZGVudGlmeWluZxoJcmVjb2duaXplGgtyZWNvZ25pemluZxoJZGV0ZWN0aW9uGgtyZWNvZ25pdGlvbio6CgllbW90aW9uYWwVTYnAPxoHZW1vdGlvbhoIZW1vdGlvbnMaA3NhZBoQZW1vdGlvbmFsbW9tZW50cyo4Cgdtb21lbnRzFY1QbD8aBmV2ZW50cxoGbW9tZW50GgZzY2VuZXMaEGVtb3Rpb25hbG1vbWVudHMqCQoCaW4VAAAAACoICgFhFQAAAAAqMwoEbGl2ZRXDRtE-GgZsaXZlbHkaCmxpdmVzdHJlYW0aBmxpdmluZxoKbGl2ZXN0cmVhbSpFCgZzdHJlYW0VAAAAABoJYnJvYWRjYXN0GgRmZWVkGgpsaXZlc3RyZWFtGglzdHJlYW1pbmcaB3N0cmVhbXMaBXdhdGNoKmsKCXJlY29yZGluZxU64y4_GgdjYXB0dXJlGgZyZWNvcmQaCHJlY29yZGVkGghyZWNvcmRlchoKcmVjb3JkaW5ncxoGcmlwcGVyGg5pdjtwO3JlY29yZGluZxoFdmlkZW8aCXN0cmVhbWluZzKcAS9nb3RvP3VybD1DQUVTYVFIRUlrWFhzMmhoM0xMRVJxMWNkcDFiWEkyVkVVNENNTUVmYUU2N0J0VTJuNlZWay14aWRmMjRxT1hJd2lDX0kxTXN2VGxKUkRRTy03RWdsbWdMWGlESGNqeDdnN1pIc0VncS15dHk0cUI4TDR1MDNfZ21PMW5jaHVPSl9uS2cyUVpaU290Rmw0ZjUyZzpDVmlkZW8gU2VudGltZW50IEFuYWx5c2lzOiA8Yj5FbW90aW9uPC9iPiBhbmQgVG9uZSAtIFNwZWFrIDxiPkFJPC9iPkKXATxiPlNwZWFrIEFJIGF1dG9tYXRpY2FsbHkgaWRlbnRpZmllcyBhbmQgbGFiZWxzIGVhY2ggc3BlYWtlciBpbiB5b3VyIHZpZGVvPC9iPiwgdGhlbiB0cmFja3Mgc2VudGltZW50IHNlcGFyYXRlbHkgZm9yIGVhY2ggcGFydGljaXBhbnQuIFRoaXMgaXMmbmJzcDsuLi5KAmluSgFhIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhFSWtYWHMyaGgzTExFUnExY2RwMWJYSTJWRVU0Q01NRWZhRTY3QnRVMm42VlZrLXhpZGYyNHFPWEl3aUNfSTFNc3ZUbEpSRFFPLTdFZ2xtZ0xYaURIY2p4N2c3WkhzRWdxLXl0eTRxQjhMNHUwM19nbU8xbmNodU9KX25LZzJRWlpTb3RGbDRmNTJnEgQaAggAGuoHEgIIABoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJAxAcIABAAGAAgACoRCgNjYW4VhhHkPxoFY2FuYWkqKQoCYWkVgMTEQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaBWNhbmFpKoIBCghpZGVudGlmeRVaF6k_GgZkZXRlY3QaBGZpbmQaDmlkZW50aWZpY2F0aW9uGgppZGVudGlmaWVkGgppZGVudGlmaWVzGgtpZGVudGlmeWluZxoJcmVjb2duaXplGgtyZWNvZ25pemluZxoJZGV0ZWN0aW9uGgtyZWNvZ25pdGlvbio6CgllbW90aW9uYWwVTYnAPxoHZW1vdGlvbhoIZW1vdGlvbnMaA3NhZBoQZW1vdGlvbmFsbW9tZW50cyo4Cgdtb21lbnRzFY1QbD8aBmV2ZW50cxoGbW9tZW50GgZzY2VuZXMaEGVtb3Rpb25hbG1vbWVudHMqCQoCaW4VAAAAACoICgFhFQAAAAAqMwoEbGl2ZRXDRtE-GgZsaXZlbHkaCmxpdmVzdHJlYW0aBmxpdmluZxoKbGl2ZXN0cmVhbSpFCgZzdHJlYW0VAAAAABoJYnJvYWRjYXN0GgRmZWVkGgpsaXZlc3RyZWFtGglzdHJlYW1pbmcaB3N0cmVhbXMaBXdhdGNoKmsKCXJlY29yZGluZxU64y4_GgdjYXB0dXJlGgZyZWNvcmQaCHJlY29yZGVkGghyZWNvcmRlchoKcmVjb3JkaW5ncxoGcmlwcGVyGg5pdjtwO3JlY29yZGluZxoFdmlkZW8aCXN0cmVhbWluZzKcAS9nb3RvP3VybD1DQUVTYVFIRUlrWFhzMmhoM0xMRVJxMWNkcDFiWEkyVkVVNENNTUVmYUU2N0J0VTJuNlZWay14aWRmMjRxT1hJd2lDX0kxTXN2VGxKUkRRTy03RWdsbWdMWGlESGNqeDdnN1pIc0VncS15dHk0cUI4TDR1MDNfZ21PMW5jaHVPSl9uS2cyUVpaU290Rmw0ZjUyZzpDVmlkZW8gU2VudGltZW50IEFuYWx5c2lzOiA8Yj5FbW90aW9uPC9iPiBhbmQgVG9uZSAtIFNwZWFrIDxiPkFJPC9iPkKXATxiPlNwZWFrIEFJIGF1dG9tYXRpY2FsbHkgaWRlbnRpZmllcyBhbmQgbGFiZWxzIGVhY2ggc3BlYWtlciBpbiB5b3VyIHZpZGVvPC9iPiwgdGhlbiB0cmFja3Mgc2VudGltZW50IHNlcGFyYXRlbHkgZm9yIGVhY2ggcGFydGljaXBhbnQuIFRoaXMgaXMmbmJzcDsuLi5KAmluSgFhIgIQAUgAWABoAA",
+        "source": "Speak AI",
+        "read_more_link": "https://www.google.com/goto?url=CAESlwEBxCJF1_ZUZSjPysUqbPpK9dAbqqXu5tzl6S1NuLzlZ6H6_l3vTu8sshzU7Wxf8nuLEC0x7LKfDL76TPdMnheVPyiwst1AMSvXenClVSM6UyISTQbHTKJBTJ77-fSXyElKqRuDkefr825Cm8LQAToka82vOC_-j72cNEd3fkfZbDdL7s_Wwm0wM6Wcc-50MhYMDGYhn4Zj&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+      },
+      {
+        "position": 2,
+        "title": "Emotion Recognition from Webcam Video Streams Using ...",
+        "link": "https://www.google.com/goto?url=CAESuAEBxCJF14V5WdjPL49H20YJF7Qnsk0HuKLmnS2fDmO-8w0fSFpjDVSitHiMdLC6dkxPlZpSfh9OCfOUujOQHDdcgo5mkg0VJiNgAAmQrSvabDCtHUK9AZhb5Cm0tpgfJqpINMHp077wFoWVCbOgrASXKxeOF3ddHIUtdXgbpDk8Rcfsny0VBLVrENlrugVouEzIJ9Sq9L2VJvAfM0owFkzawpf3YOKpICqldcZ7loj2Nk3-6i3P5FGs",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESuAEBxCJF115y24i_rvY3hO1bihFqzXMNEcVma35lW0SPX_1m5xCYHpq_qGbh0d4DMMbxx_OYOCB75koG4R1tOGVnTKkes7zNAbmdysnkRhuYvsRMQBQhtsgzQo9AovtLWavWuQMJ0Mv3UkaDF9dQcOWKf0FF94i7u2QY__Dlhddm8s6YOJndBRc7f_bKymQC9gTBJbaS0RjHHXZ5AKrV_vXYaepe8iE3zxJyK7Cguz3wTB7L8-I1x-0M&ved=2ahUKEwiHj7Xa25uYAxWTAoAAHaPbDnYQFnoECB8QAQ&uoh=1",
+        "displayed_link": "https://www.vanderbilt.edu \u203a article \u203a emotion-recogniti...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA4VBMVEVHcEwBAAC9ry6MjB744lTv1lfr1FwTFQDGtUH05V3v3Vfrzlzt0Vzry1zw0lsHEgD02Wr44Wn142nhvFDmxlToxlrow1nqyFzszWLs02Dtx1f13WzRqS7nwV0jHwTsxlnz2G7aukrhuFPhuFXmvlzlx13k0FopLQDmwVzw423VyDPhtlEnKAXVqDDSpULYqEiggDfis1XhyF3VpzXVpUXbrFHjt1bfsFbbszvSokLluVfbrVbRozfQlzDaq1OIeCLNlyzTnULTmzfVoUTKnymGchTPmSHQmS3Rly7UpiPRnyWRqNuKAAAAS3RSTlMAAQQHGTBCBRVCN6Xg348J2-SiLZ76____u7T-QPILp-5a3P7_ynEbylwJtjyG3v1Z5Iun9v-I927ydq_I_soq2v___2Ayg8DgIjZKH__1AAABCUlEQVR4AWIYKMCIR4iJCUozAgWZUMUYmFlYAc3PAxZCURAA0Anftplt29j_frJrAd2DxxF6gsQxAAw_7wkyHrtliJEUzTA0S3IAHMIyNC-IROyeWJIVVdON8yOGmJpuWSICd5wtO6pGke450tN0XyQ4eIgGYSKZSmcAMumsovO5PLyQComEYhQBiqaj6gYCr_BSuZJkAoBqLZlk6vjbyJzdaLYSbUlqd5KOjLrwJtrtVTqFfn_QSTjpPHywh6NKbTwutxJZFD5NStNZpdmbtcL6BD6dqs5ns9miVThV_JIvjUbz2aLSxuFbZDk9vc7Lywj8sFpvtttNaQW_uLu9be937q-s39v_cwTKvBzM4K5OCQAAAABJRU5ErkJggg.png",
+        "author": "by C Thrash",
+        "snippet": "Recognition of emotion is a traditionally challenging task for AI models. It requires detection of a face and then a model capable of discerning feelings from ...",
+        "snippet_highlighted_words": [
+          "emotion",
+          "AI"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Recognition of emotion is a traditionally challenging task for AI models. It requires detection of a face and then a model capable of discerning feelings from ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESuAEBxCJF14V5WdjPL49H20YJF7Qnsk0HuKLmnS2fDmO-8w0fSFpjDVSitHiMdLC6dkxPlZpSfh9OCfOUujOQHDdcgo5mkg0VJiNgAAmQrSvabDCtHUK9AZhb5Cm0tpgfJqpINMHp077wFoWVCbOgrASXKxeOF3ddHIUtdXgbpDk8Rcfsny0VBLVrENlrugVouEzIJ9Sq9L2VJvAfM0owFkzawpf3YOKpICqldcZ7loj2Nk3-6i3P5FGs",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA4VBMVEVHcEwBAAC9ry6MjB744lTv1lfr1FwTFQDGtUH05V3v3Vfrzlzt0Vzry1zw0lsHEgD02Wr44Wn142nhvFDmxlToxlrow1nqyFzszWLs02Dtx1f13WzRqS7nwV0jHwTsxlnz2G7aukrhuFPhuFXmvlzlx13k0FopLQDmwVzw423VyDPhtlEnKAXVqDDSpULYqEiggDfis1XhyF3VpzXVpUXbrFHjt1bfsFbbszvSokLluVfbrVbRozfQlzDaq1OIeCLNlyzTnULTmzfVoUTKnymGchTPmSHQmS3Rly7UpiPRnyWRqNuKAAAAS3RSTlMAAQQHGTBCBRVCN6Xg348J2-SiLZ76____u7T-QPILp-5a3P7_ynEbylwJtjyG3v1Z5Iun9v-I927ydq_I_soq2v___2Ayg8DgIjZKH__1AAABCUlEQVR4AWIYKMCIR4iJCUozAgWZUMUYmFlYAc3PAxZCURAA0Anftplt29j_frJrAd2DxxF6gsQxAAw_7wkyHrtliJEUzTA0S3IAHMIyNC-IROyeWJIVVdON8yOGmJpuWSICd5wtO6pGke450tN0XyQ4eIgGYSKZSmcAMumsovO5PLyQComEYhQBiqaj6gYCr_BSuZJkAoBqLZlk6vjbyJzdaLYSbUlqd5KOjLrwJtrtVTqFfn_QSTjpPHywh6NKbTwutxJZFD5NStNZpdmbtcL6BD6dqs5ns9miVThV_JIvjUbz2aLSxuFbZDk9vc7Lywj8sFpvtttNaQW_uLu9be937q-s39v_cwTKvBzM4K5OCQAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoYCL2dvdG8_dXJsPUNBRVN1QUVCeENKRjE0VjVXZGpQTDQ5SDIwWUpGN1Fuc2swSHVLTG1uUzJmRG1PLTh3MGZTRnBqRFZTaXRIaU1kTEM2ZGt4UGxacFNmaDlPQ2ZPVXVqT1FIRGRjZ281bWtnMFZKaU5nQUFtUXJTdmFiREN0SFVLOUFaaGI1Q20wdHBnZkpxcElOTUhwMDc3d0ZvV1ZDYk9nckFTWEt4ZU9GM2RkSElVdGRYZ2JwRGs4UmNmc255MFZCTFZyRU5scnVnVm91RXpJSjlTcTlMMlZKdkFmTTBvd0ZremF3cGYzWU9LcElDcWxkY1o3bG9qMk5rMy02aTNQNUZHcxIEGgIIABryCBIAGgAiACoAMgYIAhICdWs6AEIECAEQAEoAWgByAHoAgkDOCAgAEAAYACAAKhEKA2NhbhX8nkg_GgVjYW5haSopCgJhaRXXpSI-GhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoFY2FuYWkqggEKCGlkZW50aWZ5FcfCgz8aBmRldGVjdBoEZmluZBoOaWRlbnRpZmljYXRpb24aCmlkZW50aWZpZWQaCmlkZW50aWZpZXMaC2lkZW50aWZ5aW5nGglyZWNvZ25pemUaC3JlY29nbml6aW5nGglkZXRlY3Rpb24aC3JlY29nbml0aW9uKjoKCWVtb3Rpb25hbBVDSF4_GgdlbW90aW9uGghlbW90aW9ucxoDc2FkGhBlbW90aW9uYWxtb21lbnRzKjgKB21vbWVudHMVAAAAABoGZXZlbnRzGgZtb21lbnQaBnNjZW5lcxoQZW1vdGlvbmFsbW9tZW50cyoJCgJpbhUAAAAAKggKAWEVAAAAACozCgRsaXZlFVTWUD8aBmxpdmVseRoKbGl2ZXN0cmVhbRoGbGl2aW5nGgpsaXZlc3RyZWFtKkUKBnN0cmVhbRUIHUA9Gglicm9hZGNhc3QaBGZlZWQaCmxpdmVzdHJlYW0aCXN0cmVhbWluZxoHc3RyZWFtcxoFd2F0Y2gqawoJcmVjb3JkaW5nFQAAAAAaB2NhcHR1cmUaBnJlY29yZBoIcmVjb3JkZWQaCHJlY29yZGVyGgpyZWNvcmRpbmdzGgZyaXBwZXIaDml2O3A7cmVjb3JkaW5nGgV2aWRlbxoJc3RyZWFtaW5nMoYCL2dvdG8_dXJsPUNBRVN1QUVCeENKRjE0VjVXZGpQTDQ5SDIwWUpGN1Fuc2swSHVLTG1uUzJmRG1PLTh3MGZTRnBqRFZTaXRIaU1kTEM2ZGt4UGxacFNmaDlPQ2ZPVXVqT1FIRGRjZ281bWtnMFZKaU5nQUFtUXJTdmFiREN0SFVLOUFaaGI1Q20wdHBnZkpxcElOTUhwMDc3d0ZvV1ZDYk9nckFTWEt4ZU9GM2RkSElVdGRYZ2JwRGs4UmNmc255MFZCTFZyRU5scnVnVm91RXpJSjlTcTlMMlZKdkFmTTBvd0ZremF3cGYzWU9LcElDcWxkY1o3bG9qMk5rMy02aTNQNUZHczpFPGI-RW1vdGlvbjwvYj4gUmVjb2duaXRpb24gZnJvbSBXZWJjYW0gVmlkZW8gPGI-U3RyZWFtczwvYj4gVXNpbmcgLi4uQrUBUmVjb2duaXRpb24gb2YgPGI-ZW1vdGlvbjwvYj4gaXMgYSB0cmFkaXRpb25hbGx5IGNoYWxsZW5naW5nIHRhc2sgZm9yIDxiPkFJPC9iPiBtb2RlbHMuIEl0IHJlcXVpcmVzIGRldGVjdGlvbiBvZiBhIGZhY2UgYW5kIHRoZW4gYSBtb2RlbCBjYXBhYmxlIG9mIGRpc2Nlcm5pbmcgZmVlbGluZ3MgZnJvbSZuYnNwOy4uLkoBYUoCaW4iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoYCL2dvdG8_dXJsPUNBRVN1QUVCeENKRjE0VjVXZGpQTDQ5SDIwWUpGN1Fuc2swSHVLTG1uUzJmRG1PLTh3MGZTRnBqRFZTaXRIaU1kTEM2ZGt4UGxacFNmaDlPQ2ZPVXVqT1FIRGRjZ281bWtnMFZKaU5nQUFtUXJTdmFiREN0SFVLOUFaaGI1Q20wdHBnZkpxcElOTUhwMDc3d0ZvV1ZDYk9nckFTWEt4ZU9GM2RkSElVdGRYZ2JwRGs4UmNmc255MFZCTFZyRU5scnVnVm91RXpJSjlTcTlMMlZKdkFmTTBvd0ZremF3cGYzWU9LcElDcWxkY1o3bG9qMk5rMy02aTNQNUZHcxIEGgIIABryCBIAGgAiACoAMgYIAhICdWs6AEIECAEQAEoAWgByAHoAgkDOCAgAEAAYACAAKhEKA2NhbhX8nkg_GgVjYW5haSopCgJhaRXXpSI-GhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoFY2FuYWkqggEKCGlkZW50aWZ5FcfCgz8aBmRldGVjdBoEZmluZBoOaWRlbnRpZmljYXRpb24aCmlkZW50aWZpZWQaCmlkZW50aWZpZXMaC2lkZW50aWZ5aW5nGglyZWNvZ25pemUaC3JlY29nbml6aW5nGglkZXRlY3Rpb24aC3JlY29nbml0aW9uKjoKCWVtb3Rpb25hbBVDSF4_GgdlbW90aW9uGghlbW90aW9ucxoDc2FkGhBlbW90aW9uYWxtb21lbnRzKjgKB21vbWVudHMVAAAAABoGZXZlbnRzGgZtb21lbnQaBnNjZW5lcxoQZW1vdGlvbmFsbW9tZW50cyoJCgJpbhUAAAAAKggKAWEVAAAAACozCgRsaXZlFVTWUD8aBmxpdmVseRoKbGl2ZXN0cmVhbRoGbGl2aW5nGgpsaXZlc3RyZWFtKkUKBnN0cmVhbRUIHUA9Gglicm9hZGNhc3QaBGZlZWQaCmxpdmVzdHJlYW0aCXN0cmVhbWluZxoHc3RyZWFtcxoFd2F0Y2gqawoJcmVjb3JkaW5nFQAAAAAaB2NhcHR1cmUaBnJlY29yZBoIcmVjb3JkZWQaCHJlY29yZGVyGgpyZWNvcmRpbmdzGgZyaXBwZXIaDml2O3A7cmVjb3JkaW5nGgV2aWRlbxoJc3RyZWFtaW5nMoYCL2dvdG8_dXJsPUNBRVN1QUVCeENKRjE0VjVXZGpQTDQ5SDIwWUpGN1Fuc2swSHVLTG1uUzJmRG1PLTh3MGZTRnBqRFZTaXRIaU1kTEM2ZGt4UGxacFNmaDlPQ2ZPVXVqT1FIRGRjZ281bWtnMFZKaU5nQUFtUXJTdmFiREN0SFVLOUFaaGI1Q20wdHBnZkpxcElOTUhwMDc3d0ZvV1ZDYk9nckFTWEt4ZU9GM2RkSElVdGRYZ2JwRGs4UmNmc255MFZCTFZyRU5scnVnVm91RXpJSjlTcTlMMlZKdkFmTTBvd0ZremF3cGYzWU9LcElDcWxkY1o3bG9qMk5rMy02aTNQNUZHczpFPGI-RW1vdGlvbjwvYj4gUmVjb2duaXRpb24gZnJvbSBXZWJjYW0gVmlkZW8gPGI-U3RyZWFtczwvYj4gVXNpbmcgLi4uQrUBUmVjb2duaXRpb24gb2YgPGI-ZW1vdGlvbjwvYj4gaXMgYSB0cmFkaXRpb25hbGx5IGNoYWxsZW5naW5nIHRhc2sgZm9yIDxiPkFJPC9iPiBtb2RlbHMuIEl0IHJlcXVpcmVzIGRldGVjdGlvbiBvZiBhIGZhY2UgYW5kIHRoZW4gYSBtb2RlbCBjYXBhYmxlIG9mIGRpc2Nlcm5pbmcgZmVlbGluZ3MgZnJvbSZuYnNwOy4uLkoBYUoCaW4iAhABSABYAGgA",
+        "source": "Vanderbilt University",
+        "read_more_link": "https://www.google.com/goto?url=CAEShAIBxCJF138eao7bmJcKZBjBrMCQOy6lzRs2mh-4LKxc-Qac_kvYRKRvMlXoMH9ekCiQZmJ7_yTcbIL_AM2AHa5oC7ngnw8xTk7pV0tl12hfVUNgNtN7slwlV17UccK_Mcc4_C9SegfpfXVGdkPvCbM8DZyJ0LlCBCSGBbLELaUl7gw-POMfIcH6vQy6qhRMIPoIe-isyv1FW_5FEDyv_mdWqD0N3nHC2BIz39C4okAFNFXUm-ADA8NGKY4-fyYkBAx4uXuQuwp0MgScUJ9Z_ExEWJ3fm4qzYgEnoJuQx4ZlzVBcjnX-qNTL5k-PgBFQHhLcD8hf8pu_zbLtlQ7IWoJuhmtsNQ&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+      },
+      {
+        "position": 3,
+        "title": "Analyze Human Emotions Across Every Video Interaction",
+        "link": "https://www.google.com/goto?url=CAESawHEIkXXfeL1R8ETJA4V_g0X61TpJYhRte7Hg3E3U7TBKExljRbgTAU8xwpH9eppoOQwxSI6FMZ7Clqsfc0anXCvUu0-WM6lPHl6ijAcSMXuwflnGUYIAIMbPf-i-amLx6dho3ulHGYKDtBH",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHEIkXXZfaCCC9cqOcoVrmgf6pTUDcOjjmda-nkZteUuI8pdt20dVCWkZNvDDOzkffK75ogORSOwmZXaC_mYY3JdjoP3RTRNxTXd9Us5Mvb60vHBq9NsqFuzMp8v5vKdXjrb0bTvwuy402Z&ved=2ahUKEwiHj7Xa25uYAxWTAoAAHaPbDnYQFnoECB4QAQ&uoh=1",
+        "displayed_link": "https://imentiv.ai \u203a video-emotion-intelligence",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEwAV_8AV_8AV_8AV_8AV_8AV_8AV_8AV_8AV_8AV_8AV_8AV_8AV_85Kn0CAAAADXRSTlMATq3M5C0ee_YJO1uPiddCHwAAAKNJREFUKJG1kkkCwyAIRXEeuf91iyBttdpd2BB4BFA_BI8XcwBXhtjhztD-g4FhNycrwNDAxR6GbdYkzHWHZXgKI7m8w5FEWr7OorWtHTdC5hDT70I1SEL9Q-csdxhpsShPlnZmRQqihLz8nCTnwKhioqKa34_N3acqdJiEhWOjpTS6z08ftiGU0rK2HMp-K6vvy3_E7crhSpp0rgfEo7Nfhr0AVXcQceuxqhMAAAAASUVORK5CYII.png",
+        "snippet": "Yes. The system supports both live video stream analysis and recorded video analysis for emotion recognition. It can analyze emotional signals in real time ...",
+        "snippet_highlighted_words": [
+          "live",
+          "stream",
+          "recorded",
+          "emotion",
+          "can",
+          "emotional"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Yes. The system supports both live video stream analysis and recorded video analysis for emotion recognition. It can analyze emotional signals in real time ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESawHEIkXXfeL1R8ETJA4V_g0X61TpJYhRte7Hg3E3U7TBKExljRbgTAU8xwpH9eppoOQwxSI6FMZ7Clqsfc0anXCvUu0-WM6lPHl6ijAcSMXuwflnGUYIAIMbPf-i-amLx6dho3ulHGYKDtBH",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEwAV_8AV_8AV_8AV_8AV_8AV_8AV_8AV_8AV_8AV_8AV_8AV_8AV_85Kn0CAAAADXRSTlMATq3M5C0ee_YJO1uPiddCHwAAAKNJREFUKJG1kkkCwyAIRXEeuf91iyBttdpd2BB4BFA_BI8XcwBXhtjhztD-g4FhNycrwNDAxR6GbdYkzHWHZXgKI7m8w5FEWr7OorWtHTdC5hDT70I1SEL9Q-csdxhpsShPlnZmRQqihLz8nCTnwKhioqKa34_N3acqdJiEhWOjpTS6z08ftiGU0rK2HMp-K6vvy3_E7crhSpp0rgfEo7Nfhr0AVXcQceuxqhMAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp4BL2dvdG8_dXJsPUNBRVNhd0hFSWtYWGZlTDFSOEVUSkE0Vl9nMFg2MVRwSlloUnRlN0hnM0UzVTdUQktFeGxqUmJnVEFVOHh3cEg5ZXBwb09Rd3hTSTZGTVo3Q2xxc2ZjMGFuWEN2VXUwLVdNNmxQSGw2aWpBY1NNWHV3ZmxuR1VZSUFJTWJQZi1pLWFtTHg2ZGhvM3VsSEdZS0R0QkgSBBoCCAAapAgSAggAGgAiACoAMgYIAhICdWs6AEIECAEQAEoAWgByAHoAgkD-BwgAEAAYACAAKhEKA2NhbhV1QFo_GgVjYW5haSopCgJhaRVuQJBAGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoFY2FuYWkqggEKCGlkZW50aWZ5FX91ID8aBmRldGVjdBoEZmluZBoOaWRlbnRpZmljYXRpb24aCmlkZW50aWZpZWQaCmlkZW50aWZpZXMaC2lkZW50aWZ5aW5nGglyZWNvZ25pemUaC3JlY29nbml6aW5nGglkZXRlY3Rpb24aC3JlY29nbml0aW9uKjoKCWVtb3Rpb25hbBUkpjRAGgdlbW90aW9uGghlbW90aW9ucxoDc2FkGhBlbW90aW9uYWxtb21lbnRzKjgKB21vbWVudHMVUyXzPhoGZXZlbnRzGgZtb21lbnQaBnNjZW5lcxoQZW1vdGlvbmFsbW9tZW50cyoJCgJpbhUAAAAAKggKAWEVAAAAACozCgRsaXZlFZWbrj8aBmxpdmVseRoKbGl2ZXN0cmVhbRoGbGl2aW5nGgpsaXZlc3RyZWFtKkUKBnN0cmVhbRUMmHA_Gglicm9hZGNhc3QaBGZlZWQaCmxpdmVzdHJlYW0aCXN0cmVhbWluZxoHc3RyZWFtcxoFd2F0Y2gqawoJcmVjb3JkaW5nFQAAAAAaB2NhcHR1cmUaBnJlY29yZBoIcmVjb3JkZWQaCHJlY29yZGVyGgpyZWNvcmRpbmdzGgZyaXBwZXIaDml2O3A7cmVjb3JkaW5nGgV2aWRlbxoJc3RyZWFtaW5nMp4BL2dvdG8_dXJsPUNBRVNhd0hFSWtYWGZlTDFSOEVUSkE0Vl9nMFg2MVRwSlloUnRlN0hnM0UzVTdUQktFeGxqUmJnVEFVOHh3cEg5ZXBwb09Rd3hTSTZGTVo3Q2xxc2ZjMGFuWEN2VXUwLVdNNmxQSGw2aWpBY1NNWHV3ZmxuR1VZSUFJTWJQZi1pLWFtTHg2ZGhvM3VsSEdZS0R0Qkg6RFZpZGVvIDxiPkVtb3Rpb248L2I-IEludGVsbGlnZW5jZSB8IDxiPkFJPC9iPi1Qb3dlcmVkIFZpZGVvIEFuYWx5c2lzQs4BWWVzLiBUaGUgc3lzdGVtIHN1cHBvcnRzIGJvdGggPGI-bGl2ZTwvYj4gdmlkZW8gPGI-c3RyZWFtPC9iPiBhbmFseXNpcyBhbmQgPGI-cmVjb3JkZWQ8L2I-IHZpZGVvIGFuYWx5c2lzIGZvciA8Yj5lbW90aW9uPC9iPiByZWNvZ25pdGlvbi4gSXQgPGI-Y2FuPC9iPiBhbmFseXplIDxiPmVtb3Rpb25hbDwvYj4gc2lnbmFscyBpbiByZWFsIHRpbWUmbmJzcDsuLi5KAmluSgFhIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp4BL2dvdG8_dXJsPUNBRVNhd0hFSWtYWGZlTDFSOEVUSkE0Vl9nMFg2MVRwSlloUnRlN0hnM0UzVTdUQktFeGxqUmJnVEFVOHh3cEg5ZXBwb09Rd3hTSTZGTVo3Q2xxc2ZjMGFuWEN2VXUwLVdNNmxQSGw2aWpBY1NNWHV3ZmxuR1VZSUFJTWJQZi1pLWFtTHg2ZGhvM3VsSEdZS0R0QkgSBBoCCAAapAgSAggAGgAiACoAMgYIAhICdWs6AEIECAEQAEoAWgByAHoAgkD-BwgAEAAYACAAKhEKA2NhbhV1QFo_GgVjYW5haSopCgJhaRVuQJBAGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoFY2FuYWkqggEKCGlkZW50aWZ5FX91ID8aBmRldGVjdBoEZmluZBoOaWRlbnRpZmljYXRpb24aCmlkZW50aWZpZWQaCmlkZW50aWZpZXMaC2lkZW50aWZ5aW5nGglyZWNvZ25pemUaC3JlY29nbml6aW5nGglkZXRlY3Rpb24aC3JlY29nbml0aW9uKjoKCWVtb3Rpb25hbBUkpjRAGgdlbW90aW9uGghlbW90aW9ucxoDc2FkGhBlbW90aW9uYWxtb21lbnRzKjgKB21vbWVudHMVUyXzPhoGZXZlbnRzGgZtb21lbnQaBnNjZW5lcxoQZW1vdGlvbmFsbW9tZW50cyoJCgJpbhUAAAAAKggKAWEVAAAAACozCgRsaXZlFZWbrj8aBmxpdmVseRoKbGl2ZXN0cmVhbRoGbGl2aW5nGgpsaXZlc3RyZWFtKkUKBnN0cmVhbRUMmHA_Gglicm9hZGNhc3QaBGZlZWQaCmxpdmVzdHJlYW0aCXN0cmVhbWluZxoHc3RyZWFtcxoFd2F0Y2gqawoJcmVjb3JkaW5nFQAAAAAaB2NhcHR1cmUaBnJlY29yZBoIcmVjb3JkZWQaCHJlY29yZGVyGgpyZWNvcmRpbmdzGgZyaXBwZXIaDml2O3A7cmVjb3JkaW5nGgV2aWRlbxoJc3RyZWFtaW5nMp4BL2dvdG8_dXJsPUNBRVNhd0hFSWtYWGZlTDFSOEVUSkE0Vl9nMFg2MVRwSlloUnRlN0hnM0UzVTdUQktFeGxqUmJnVEFVOHh3cEg5ZXBwb09Rd3hTSTZGTVo3Q2xxc2ZjMGFuWEN2VXUwLVdNNmxQSGw2aWpBY1NNWHV3ZmxuR1VZSUFJTWJQZi1pLWFtTHg2ZGhvM3VsSEdZS0R0Qkg6RFZpZGVvIDxiPkVtb3Rpb248L2I-IEludGVsbGlnZW5jZSB8IDxiPkFJPC9iPi1Qb3dlcmVkIFZpZGVvIEFuYWx5c2lzQs4BWWVzLiBUaGUgc3lzdGVtIHN1cHBvcnRzIGJvdGggPGI-bGl2ZTwvYj4gdmlkZW8gPGI-c3RyZWFtPC9iPiBhbmFseXNpcyBhbmQgPGI-cmVjb3JkZWQ8L2I-IHZpZGVvIGFuYWx5c2lzIGZvciA8Yj5lbW90aW9uPC9iPiByZWNvZ25pdGlvbi4gSXQgPGI-Y2FuPC9iPiBhbmFseXplIDxiPmVtb3Rpb25hbDwvYj4gc2lnbmFscyBpbiByZWFsIHRpbWUmbmJzcDsuLi5KAmluSgFhIgIQAUgAWABoAA",
+        "source": "Imentiv AI",
+        "read_more_link": "https://www.google.com/goto?url=CAESngEBxCJF1_PfD6g4D_I2Gt1ldjamxS7SSM2VW94YRbIaYxRUHruyNLVnZRxqEd8tLZ4vFGy5hrbtUAJxHNpVRmMqn3YLxac0WAK_-W3dDDfnk9jq6xNGEuxNwmyWeWht4IxvlBGKeEyZkGzPvCQl5HY8Q01XpzIuQy8UNUiH_O5nrJOhAm6tP0scBtNHJO4GHfGnhb2cyicI8n9asUdMpg&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+      },
+      {
+        "position": 4,
+        "title": "Real-Time Emotion AI in Live Streaming",
+        "link": "https://www.google.com/goto?url=CAESfAHEIkXXlnmPeGnn7mWA-GGpv8Se5gDP-OzKkyWSy1s4WCcT9uoCNC8uLDCsm_Jcs_enRnRcK2m4z6cAsZ81QfhbvkRQyD5Kbc7U1dYWjNgNYslCD6PO23CSS9YjxxH6o_8U8UeVdqDrNuGxEbDFKOONRaEe7BHPy1ug-Pg",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHEIkXXumJvKWL3lmHAQdhwehPfPBIvYcdvJ7rRHL2oVMX4P3omLuwIyxZrCnDHed5YMU3Jyu30XO0yemjCHpT0B3jpx7u1Jid4edtN2HWO1X9wttDmLFpeIHbXbsWBk9FNLThwjUcffJLiy_9kn8gEd8DM8AoeBvP3yLc&ved=2ahUKEwiHj7Xa25uYAxWTAoAAHaPbDnYQFnoECCIQAQ&uoh=1",
+        "displayed_link": "https://twintone.ai \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAdUlEQVR4AWMYaSB601oIWIkp5_8fARLQJdX__58ppg4GulYYWi_9f43bzuL__zet3MTAYAUkMbWCrasF0Xcxtc5_euf__0sMDGv_K2E1-tj__7wM_vOhPEz_wGUwwVOgq2pbWrCbmwty1Ep1HFrD1tYyjDwAABNFQedElhVpAAAAAElFTkSuQmCC.png",
+        "date": "10 Aug 2026",
+        "snippet": "Real-time emotion AI is transforming live streaming by analyzing facial expressions, voice tones, and text interactions to understand audience ...",
+        "snippet_highlighted_words": [
+          "Real-time emotion AI"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.9,
+              "reviews": 127
+            },
+            "extensions": [
+              "4.9(127)"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Real-time emotion AI is transforming live streaming by analyzing facial expressions, voice tones, and text interactions to understand audience ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESfAHEIkXXlnmPeGnn7mWA-GGpv8Se5gDP-OzKkyWSy1s4WCcT9uoCNC8uLDCsm_Jcs_enRnRcK2m4z6cAsZ81QfhbvkRQyD5Kbc7U1dYWjNgNYslCD6PO23CSS9YjxxH6o_8U8UeVdqDrNuGxEbDFKOONRaEe7BHPy1ug-Pg",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAdUlEQVR4AWMYaSB601oIWIkp5_8fARLQJdX__58ppg4GulYYWi_9f43bzuL__zet3MTAYAUkMbWCrasF0Xcxtc5_euf__0sMDGv_K2E1-tj__7wM_vOhPEz_wGUwwVOgq2pbWrCbmwty1Ep1HFrD1tYyjDwAABNFQedElhVpAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhFSWtYWGxubVBlR25uN21XQS1HR3B2OFNlNWdEUC1PektreVdTeTFzNFdDY1Q5dW9DTkM4dUxEQ3NtX0pjc19lblJuUmNLMm00ejZjQXNaODFRZmhidmtSUXlENUtiYzdVMWRZV2pOZ05Zc2xDRDZQTzIzQ1NTOVlqeHhINm9fOFU4VWVWZHFEck51R3hFYkRGS09PTlJhRWU3QkhQeTF1Zy1QZxIEGgIIABqHCBIAGgAiACoAMgYIAhICdWs6AEIECAEQAEoAWgByAHoAgkDjBwgAEAAYACAAKhEKA2NhbhVabu4_GgVjYW5haSopCgJhaRVKzthAGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoFY2FuYWkqggEKCGlkZW50aWZ5FS3Ulj8aBmRldGVjdBoEZmluZBoOaWRlbnRpZmljYXRpb24aCmlkZW50aWZpZWQaCmlkZW50aWZpZXMaC2lkZW50aWZ5aW5nGglyZWNvZ25pemUaC3JlY29nbml6aW5nGglkZXRlY3Rpb24aC3JlY29nbml0aW9uKjoKCWVtb3Rpb25hbBXBPz9AGgdlbW90aW9uGghlbW90aW9ucxoDc2FkGhBlbW90aW9uYWxtb21lbnRzKjgKB21vbWVudHMVfz6LPxoGZXZlbnRzGgZtb21lbnQaBnNjZW5lcxoQZW1vdGlvbmFsbW9tZW50cyoJCgJpbhUAAAAAKggKAWEVAAAAACozCgRsaXZlFb4IzkAaBmxpdmVseRoKbGl2ZXN0cmVhbRoGbGl2aW5nGgpsaXZlc3RyZWFtKkUKBnN0cmVhbRWCw6Y_Gglicm9hZGNhc3QaBGZlZWQaCmxpdmVzdHJlYW0aCXN0cmVhbWluZxoHc3RyZWFtcxoFd2F0Y2gqawoJcmVjb3JkaW5nFQAAAAAaB2NhcHR1cmUaBnJlY29yZBoIcmVjb3JkZWQaCHJlY29yZGVyGgpyZWNvcmRpbmdzGgZyaXBwZXIaDml2O3A7cmVjb3JkaW5nGgV2aWRlbxoJc3RyZWFtaW5nMrUBL2dvdG8_dXJsPUNBRVNmQUhFSWtYWGxubVBlR25uN21XQS1HR3B2OFNlNWdEUC1PektreVdTeTFzNFdDY1Q5dW9DTkM4dUxEQ3NtX0pjc19lblJuUmNLMm00ejZjQXNaODFRZmhidmtSUXlENUtiYzdVMWRZV2pOZ05Zc2xDRDZQTzIzQ1NTOVlqeHhINm9fOFU4VWVWZHFEck51R3hFYkRGS09PTlJhRWU3QkhQeTF1Zy1QZzpCUmVhbC1UaW1lIDxiPkVtb3Rpb24gQUk8L2I-IGluIDxiPkxpdmUgU3RyZWFtaW5nPC9iPiAtIFR3aW5Ub25lIEFJQp4BPGI-UmVhbC10aW1lIGVtb3Rpb24gQUk8L2I-IGlzIHRyYW5zZm9ybWluZyBsaXZlIHN0cmVhbWluZyBieSBhbmFseXppbmcgZmFjaWFsIGV4cHJlc3Npb25zLCB2b2ljZSB0b25lcywgYW5kIHRleHQgaW50ZXJhY3Rpb25zIHRvIHVuZGVyc3RhbmQgYXVkaWVuY2UmbmJzcDsuLi5KAmluSgFhIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhFSWtYWGxubVBlR25uN21XQS1HR3B2OFNlNWdEUC1PektreVdTeTFzNFdDY1Q5dW9DTkM4dUxEQ3NtX0pjc19lblJuUmNLMm00ejZjQXNaODFRZmhidmtSUXlENUtiYzdVMWRZV2pOZ05Zc2xDRDZQTzIzQ1NTOVlqeHhINm9fOFU4VWVWZHFEck51R3hFYkRGS09PTlJhRWU3QkhQeTF1Zy1QZxIEGgIIABqHCBIAGgAiACoAMgYIAhICdWs6AEIECAEQAEoAWgByAHoAgkDjBwgAEAAYACAAKhEKA2NhbhVabu4_GgVjYW5haSopCgJhaRVKzthAGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoFY2FuYWkqggEKCGlkZW50aWZ5FS3Ulj8aBmRldGVjdBoEZmluZBoOaWRlbnRpZmljYXRpb24aCmlkZW50aWZpZWQaCmlkZW50aWZpZXMaC2lkZW50aWZ5aW5nGglyZWNvZ25pemUaC3JlY29nbml6aW5nGglkZXRlY3Rpb24aC3JlY29nbml0aW9uKjoKCWVtb3Rpb25hbBXBPz9AGgdlbW90aW9uGghlbW90aW9ucxoDc2FkGhBlbW90aW9uYWxtb21lbnRzKjgKB21vbWVudHMVfz6LPxoGZXZlbnRzGgZtb21lbnQaBnNjZW5lcxoQZW1vdGlvbmFsbW9tZW50cyoJCgJpbhUAAAAAKggKAWEVAAAAACozCgRsaXZlFb4IzkAaBmxpdmVseRoKbGl2ZXN0cmVhbRoGbGl2aW5nGgpsaXZlc3RyZWFtKkUKBnN0cmVhbRWCw6Y_Gglicm9hZGNhc3QaBGZlZWQaCmxpdmVzdHJlYW0aCXN0cmVhbWluZxoHc3RyZWFtcxoFd2F0Y2gqawoJcmVjb3JkaW5nFQAAAAAaB2NhcHR1cmUaBnJlY29yZBoIcmVjb3JkZWQaCHJlY29yZGVyGgpyZWNvcmRpbmdzGgZyaXBwZXIaDml2O3A7cmVjb3JkaW5nGgV2aWRlbxoJc3RyZWFtaW5nMrUBL2dvdG8_dXJsPUNBRVNmQUhFSWtYWGxubVBlR25uN21XQS1HR3B2OFNlNWdEUC1PektreVdTeTFzNFdDY1Q5dW9DTkM4dUxEQ3NtX0pjc19lblJuUmNLMm00ejZjQXNaODFRZmhidmtSUXlENUtiYzdVMWRZV2pOZ05Zc2xDRDZQTzIzQ1NTOVlqeHhINm9fOFU4VWVWZHFEck51R3hFYkRGS09PTlJhRWU3QkhQeTF1Zy1QZzpCUmVhbC1UaW1lIDxiPkVtb3Rpb24gQUk8L2I-IGluIDxiPkxpdmUgU3RyZWFtaW5nPC9iPiAtIFR3aW5Ub25lIEFJQp4BPGI-UmVhbC10aW1lIGVtb3Rpb24gQUk8L2I-IGlzIHRyYW5zZm9ybWluZyBsaXZlIHN0cmVhbWluZyBieSBhbmFseXppbmcgZmFjaWFsIGV4cHJlc3Npb25zLCB2b2ljZSB0b25lcywgYW5kIHRleHQgaW50ZXJhY3Rpb25zIHRvIHVuZGVyc3RhbmQgYXVkaWVuY2UmbmJzcDsuLi5KAmluSgFhIgIQAUgAWABoAA",
+        "source": "TwinTone AI",
+        "read_more_link": "https://www.google.com/goto?url=CAES8gEBxCJF1wN35dXHSokU1RqvhZBQauOjfNsEbmoUANOR0jYnHtKqzxApIpVOS3RTPRk5NdFSUVEgJ47AA4e9kg5F1hyZsZAjJjFSrFarC9rjgHIrOvnAloJdfL5kMd0nxJN-j69v0TJfZOKk2XJpLI-LMrkm_dvg3bff-iydrynjc3zcVaQ0Hp_9IbbFbQIYtoj69jFBl56vC_STjEx-P_ll8FG41wVXMXlCDnxW5CvC1Uy446luJgOJx4PfXix3FifIZ-lrCWCivow0wF2hSvenKFEphOOqFf02ropzfA3CBinpBmoNK2n7jbwGYrT5iYb1eQ&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+      },
+      {
+        "position": 5,
+        "title": "Can AI Detect Emotions? How Emotion AI Really Works",
+        "link": "https://www.google.com/goto?url=CAESbAHEIkXX8manSqcn2rU3wcP4OC8JJJZviMueFtNn78FUH_OO7ps6ZCjtMjOl2cfOt7gpCdTqNSRUO61Dwqt215fPkY6Bo4bOA3P3gN1mPggeqi1-HRz54L_1up5OCr5DVtiw4X20HYbGz7u9Sw",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHEIkXXeUqB5jkyu560K-3ImJB3yT-Tuo1mWaqurBeqE-ceKZSgPfELj4zgSyTrZLy-Cu1CWg4aqQ_RwBGbUlzNJyr80riHIj4IX1Hcrx3RQ53bu9KYtgqCz0Ai1yUOa3fbaIKyucevjT5RxQ&ved=2ahUKEwiHj7Xa25uYAxWTAoAAHaPbDnYQFnoECCAQAQ&uoh=1",
+        "displayed_link": "https://spiky.ai \u203a blog \u203a can-ai-detect-emotions",
+        "favicon": "https://serpapi.com/searches/6b02f2aa2c2f13b4af7a3795/images/0-08Q-W6LsiIa-Z0G1jYS0eHOy7Vqyb6pwoxzy3ARzg.png",
+        "date": "1 day ago",
+        "snippet": "Yes and no. AI can detect the observable signals of emotion, like tone of voice, facial movements and word choice, and estimate how a person is ...",
+        "snippet_highlighted_words": [
+          "AI can detect the observable signals of emotion"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Yes and no. AI can detect the observable signals of emotion, like tone of voice, facial movements and word choice, and estimate how a person is ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESbAHEIkXX8manSqcn2rU3wcP4OC8JJJZviMueFtNn78FUH_OO7ps6ZCjtMjOl2cfOt7gpCdTqNSRUO61Dwqt215fPkY6Bo4bOA3P3gN1mPggeqi1-HRz54L_1up5OCr5DVtiw4X20HYbGz7u9Sw",
+            "icon": "https://serpapi.com/searches/6b02f2aa2c2f13b4af7a3795/images/0-08Q-W6LsiIa-Z0G1jYS8-67r8haG1XCJOwIa8cMG-EsMiJfCbIoohQkw2UX4vC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhFSWtYWDhtYW5TcWNuMnJVM3djUDRPQzhKSkpadmlNdWVGdE5uNzhGVUhfT083cHM2WkNqdE1qT2wyY2ZPdDdncENkVHFOU1JVTzYxRHdxdDIxNWZQa1k2Qm80Yk9BM1AzZ04xbVBnZ2VxaTEtSFJ6NTRMXzF1cDVPQ3I1RFZ0aXc0WDIwSFliR3o3dTlTdxIEGgIIABr0BxIAGgAiAggBKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQM4HCAAQABgAIAAqEQoDY2FuFd6NxEAaBWNhbmFpKikKAmFpFc385UAaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgVjYW5haSqCAQoIaWRlbnRpZnkVAAAAABoGZGV0ZWN0GgRmaW5kGg5pZGVudGlmaWNhdGlvbhoKaWRlbnRpZmllZBoKaWRlbnRpZmllcxoLaWRlbnRpZnlpbmcaCXJlY29nbml6ZRoLcmVjb2duaXppbmcaCWRldGVjdGlvbhoLcmVjb2duaXRpb24qOgoJZW1vdGlvbmFsFY4EIkAaB2Vtb3Rpb24aCGVtb3Rpb25zGgNzYWQaEGVtb3Rpb25hbG1vbWVudHMqOAoHbW9tZW50cxUkBoE8GgZldmVudHMaBm1vbWVudBoGc2NlbmVzGhBlbW90aW9uYWxtb21lbnRzKgkKAmluFQAAAAAqCAoBYRUAAAAAKjMKBGxpdmUVSFSIPxoGbGl2ZWx5GgpsaXZlc3RyZWFtGgZsaXZpbmcaCmxpdmVzdHJlYW0qRQoGc3RyZWFtFQAAAAAaCWJyb2FkY2FzdBoEZmVlZBoKbGl2ZXN0cmVhbRoJc3RyZWFtaW5nGgdzdHJlYW1zGgV3YXRjaCprCglyZWNvcmRpbmcVAAAAABoHY2FwdHVyZRoGcmVjb3JkGghyZWNvcmRlZBoIcmVjb3JkZXIaCnJlY29yZGluZ3MaBnJpcHBlchoOaXY7cDtyZWNvcmRpbmcaBXZpZGVvGglzdHJlYW1pbmcyoAEvZ290bz91cmw9Q0FFU2JBSEVJa1hYOG1hblNxY24yclUzd2NQNE9DOEpKSlp2aU11ZUZ0Tm43OEZVSF9PTzdwczZaQ2p0TWpPbDJjZk90N2dwQ2RUcU5TUlVPNjFEd3F0MjE1ZlBrWTZCbzRiT0EzUDNnTjFtUGdnZXFpMS1IUno1NExfMXVwNU9DcjVEVnRpdzRYMjBIWWJHejd1OVN3OkE8Yj5DYW4gQUkgRGV0ZWN0IEVtb3Rpb25zPC9iPj8gSG93IDxiPkVtb3Rpb24gQUk8L2I-IFJlYWxseSBXb3Jrc0KfAVllcyBhbmQgbm8uIDxiPkFJIGNhbiBkZXRlY3QgdGhlIG9ic2VydmFibGUgc2lnbmFscyBvZiBlbW90aW9uPC9iPiwgbGlrZSB0b25lIG9mIHZvaWNlLCBmYWNpYWwgbW92ZW1lbnRzIGFuZCB3b3JkIGNob2ljZSwgYW5kIGVzdGltYXRlIGhvdyBhIHBlcnNvbiBpcyZuYnNwOy4uLkoCaW5KAWEiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhFSWtYWDhtYW5TcWNuMnJVM3djUDRPQzhKSkpadmlNdWVGdE5uNzhGVUhfT083cHM2WkNqdE1qT2wyY2ZPdDdncENkVHFOU1JVTzYxRHdxdDIxNWZQa1k2Qm80Yk9BM1AzZ04xbVBnZ2VxaTEtSFJ6NTRMXzF1cDVPQ3I1RFZ0aXc0WDIwSFliR3o3dTlTdxIEGgIIABr0BxIAGgAiAggBKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQM4HCAAQABgAIAAqEQoDY2FuFd6NxEAaBWNhbmFpKikKAmFpFc385UAaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgVjYW5haSqCAQoIaWRlbnRpZnkVAAAAABoGZGV0ZWN0GgRmaW5kGg5pZGVudGlmaWNhdGlvbhoKaWRlbnRpZmllZBoKaWRlbnRpZmllcxoLaWRlbnRpZnlpbmcaCXJlY29nbml6ZRoLcmVjb2duaXppbmcaCWRldGVjdGlvbhoLcmVjb2duaXRpb24qOgoJZW1vdGlvbmFsFY4EIkAaB2Vtb3Rpb24aCGVtb3Rpb25zGgNzYWQaEGVtb3Rpb25hbG1vbWVudHMqOAoHbW9tZW50cxUkBoE8GgZldmVudHMaBm1vbWVudBoGc2NlbmVzGhBlbW90aW9uYWxtb21lbnRzKgkKAmluFQAAAAAqCAoBYRUAAAAAKjMKBGxpdmUVSFSIPxoGbGl2ZWx5GgpsaXZlc3RyZWFtGgZsaXZpbmcaCmxpdmVzdHJlYW0qRQoGc3RyZWFtFQAAAAAaCWJyb2FkY2FzdBoEZmVlZBoKbGl2ZXN0cmVhbRoJc3RyZWFtaW5nGgdzdHJlYW1zGgV3YXRjaCprCglyZWNvcmRpbmcVAAAAABoHY2FwdHVyZRoGcmVjb3JkGghyZWNvcmRlZBoIcmVjb3JkZXIaCnJlY29yZGluZ3MaBnJpcHBlchoOaXY7cDtyZWNvcmRpbmcaBXZpZGVvGglzdHJlYW1pbmcyoAEvZ290bz91cmw9Q0FFU2JBSEVJa1hYOG1hblNxY24yclUzd2NQNE9DOEpKSlp2aU11ZUZ0Tm43OEZVSF9PTzdwczZaQ2p0TWpPbDJjZk90N2dwQ2RUcU5TUlVPNjFEd3F0MjE1ZlBrWTZCbzRiT0EzUDNnTjFtUGdnZXFpMS1IUno1NExfMXVwNU9DcjVEVnRpdzRYMjBIWWJHejd1OVN3OkE8Yj5DYW4gQUkgRGV0ZWN0IEVtb3Rpb25zPC9iPj8gSG93IDxiPkVtb3Rpb24gQUk8L2I-IFJlYWxseSBXb3Jrc0KfAVllcyBhbmQgbm8uIDxiPkFJIGNhbiBkZXRlY3QgdGhlIG9ic2VydmFibGUgc2lnbmFscyBvZiBlbW90aW9uPC9iPiwgbGlrZSB0b25lIG9mIHZvaWNlLCBmYWNpYWwgbW92ZW1lbnRzIGFuZCB3b3JkIGNob2ljZSwgYW5kIGVzdGltYXRlIGhvdyBhIHBlcnNvbiBpcyZuYnNwOy4uLkoCaW5KAWEiAhABSABYAGgA",
+        "source": "Spiky.ai",
+        "read_more_link": "https://www.google.com/goto?url=CAESswEBxCJF1w4sGJJbmy6jXvaDYbjQWYulC4vvhA4-6AsiZR9_odaHxovSa9v4dowMJTiXAA1XWW41wkrtTMb4y6pisl1ZKBkxdWLRFHgB-py2ioN0GpUwKqN1KoLRp96deguRGMV8_UDA5OproXlt_n6ucXHOwtN6kseF76N0Vy95OF1ufJvW7b3W4Dg0qBogoFuPuZl8QDjZ_X8QulZMxbSeQlbuShwezJanUOHOiggRXKiCeQ&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+      },
+      {
+        "position": 6,
+        "title": "Can AI accurately detect emotions through webcam ...",
+        "link": "https://www.google.com/goto?url=CAEShAEBxCJF11-tZ4KRtimNNfRCP6E7auqt8LPZFVP4CjezaB5Q4JZuziULuhaJb15Ht3Au890vVgUjsUCrFsJTBZLSol_XAhIFhKICIYPB1l8BFlC-lekr86FNzep5W9Ea9CiZ4cKpoesHsyzYZQ72nnQG5t63pVH_aFO3iYGXf8vBkW-UqyA",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEBxCJF19vmNtiXAsvmID625xlc2Zx8L9yL3iBlmTcI_8iFW2ZQcRXTzOQvCD2E8N0e7e4L5zTlqJ0dkI1ltN-6ZDPH8V6caIQTdHdE_4lW5D8JW__5HsEjoGh5h4WRuH_ntrlO9t4T8eQ9aXX-EjRg89X76aVNrv5VaoVWsqyjJ57EWxk&ved=2ahUKEwiHj7Xa25uYAxWTAoAAHaPbDnYQFnoECCMQAQ&uoh=1",
+        "displayed_link": "2 weeks ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+        "snippet": "\ud83d\udc41\ufe0f Emerging AI systems can analyze facial movements, eye patterns, and other visual signals to estimate emotional expressions such as ...",
+        "snippet_highlighted_words": [
+          "AI",
+          "can",
+          "emotional"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "\ud83d\udc41\ufe0f Emerging AI systems can analyze facial movements, eye patterns, and other visual signals to estimate emotional expressions such as ...",
+            "source_info_link": "https://www.google.com/goto?url=CAEShAEBxCJF11-tZ4KRtimNNfRCP6E7auqt8LPZFVP4CjezaB5Q4JZuziULuhaJb15Ht3Au890vVgUjsUCrFsJTBZLSol_XAhIFhKICIYPB1l8BFlC-lekr86FNzep5W9Ea9CiZ4cKpoesHsyzYZQ72nnQG5t63pVH_aFO3iYGXf8vBkW-UqyA",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsEBL2dvdG8_dXJsPUNBRVNoQUVCeENKRjExLXRaNEtSdGltTk5mUkNQNkU3YXVxdDhMUFpGVlA0Q2plemFCNVE0Slp1emlVTHVoYUpiMTVIdDNBdTg5MHZWZ1Vqc1VDckZzSlRCWkxTb2xfWEFoSUZoS0lDSVlQQjFsOEJGbEMtbGVrcjg2Rk56ZXA1VzlFYTlDaVo0Y0twb2VzSHN5ellaUTcybm5RRzV0NjNwVkhfYUZPM2lZR1hmOHZCa1ctVXF5QRIEGgIIABqlCBIAGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkCBCAgAEAAYACAAKhEKA2NhbhV7i8FAGgVjYW5haSopCgJhaRXuhdRAGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoFY2FuYWkqggEKCGlkZW50aWZ5FcWHlT8aBmRldGVjdBoEZmluZBoOaWRlbnRpZmljYXRpb24aCmlkZW50aWZpZWQaCmlkZW50aWZpZXMaC2lkZW50aWZ5aW5nGglyZWNvZ25pemUaC3JlY29nbml6aW5nGglkZXRlY3Rpb24aC3JlY29nbml0aW9uKjoKCWVtb3Rpb25hbBWe_RJAGgdlbW90aW9uGghlbW90aW9ucxoDc2FkGhBlbW90aW9uYWxtb21lbnRzKjgKB21vbWVudHMVAAAAABoGZXZlbnRzGgZtb21lbnQaBnNjZW5lcxoQZW1vdGlvbmFsbW9tZW50cyoJCgJpbhUAAAAAKggKAWEVAAAAACozCgRsaXZlFVNtGT0aBmxpdmVseRoKbGl2ZXN0cmVhbRoGbGl2aW5nGgpsaXZlc3RyZWFtKkUKBnN0cmVhbRUAAAAAGglicm9hZGNhc3QaBGZlZWQaCmxpdmVzdHJlYW0aCXN0cmVhbWluZxoHc3RyZWFtcxoFd2F0Y2gqawoJcmVjb3JkaW5nFQAAAAAaB2NhcHR1cmUaBnJlY29yZBoIcmVjb3JkZWQaCHJlY29yZGVyGgpyZWNvcmRpbmdzGgZyaXBwZXIaDml2O3A7cmVjb3JkaW5nGgV2aWRlbxoJc3RyZWFtaW5nMsEBL2dvdG8_dXJsPUNBRVNoQUVCeENKRjExLXRaNEtSdGltTk5mUkNQNkU3YXVxdDhMUFpGVlA0Q2plemFCNVE0Slp1emlVTHVoYUpiMTVIdDNBdTg5MHZWZ1Vqc1VDckZzSlRCWkxTb2xfWEFoSUZoS0lDSVlQQjFsOEJGbEMtbGVrcjg2Rk56ZXA1VzlFYTlDaVo0Y0twb2VzSHN5ellaUTcybm5RRzV0NjNwVkhfYUZPM2lZR1hmOHZCa1ctVXF5QTpIPGI-Q2FuIEFJPC9iPiBhY2N1cmF0ZWx5IDxiPmRldGVjdCBlbW90aW9uczwvYj4gdGhyb3VnaCB3ZWJjYW0gYW5hbHlzaXM_QqoB8J-Rge-4jyAgIEVtZXJnaW5nIDxiPkFJPC9iPiBzeXN0ZW1zIDxiPmNhbjwvYj4gYW5hbHl6ZSBmYWNpYWwgbW92ZW1lbnRzLCBleWUgcGF0dGVybnMsIGFuZCBvdGhlciB2aXN1YWwgc2lnbmFscyB0byBlc3RpbWF0ZSA8Yj5lbW90aW9uYWw8L2I-IGV4cHJlc3Npb25zIHN1Y2ggYXMmbmJzcDsuLi5KAWFKAmluIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsEBL2dvdG8_dXJsPUNBRVNoQUVCeENKRjExLXRaNEtSdGltTk5mUkNQNkU3YXVxdDhMUFpGVlA0Q2plemFCNVE0Slp1emlVTHVoYUpiMTVIdDNBdTg5MHZWZ1Vqc1VDckZzSlRCWkxTb2xfWEFoSUZoS0lDSVlQQjFsOEJGbEMtbGVrcjg2Rk56ZXA1VzlFYTlDaVo0Y0twb2VzSHN5ellaUTcybm5RRzV0NjNwVkhfYUZPM2lZR1hmOHZCa1ctVXF5QRIEGgIIABqlCBIAGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkCBCAgAEAAYACAAKhEKA2NhbhV7i8FAGgVjYW5haSopCgJhaRXuhdRAGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoFY2FuYWkqggEKCGlkZW50aWZ5FcWHlT8aBmRldGVjdBoEZmluZBoOaWRlbnRpZmljYXRpb24aCmlkZW50aWZpZWQaCmlkZW50aWZpZXMaC2lkZW50aWZ5aW5nGglyZWNvZ25pemUaC3JlY29nbml6aW5nGglkZXRlY3Rpb24aC3JlY29nbml0aW9uKjoKCWVtb3Rpb25hbBWe_RJAGgdlbW90aW9uGghlbW90aW9ucxoDc2FkGhBlbW90aW9uYWxtb21lbnRzKjgKB21vbWVudHMVAAAAABoGZXZlbnRzGgZtb21lbnQaBnNjZW5lcxoQZW1vdGlvbmFsbW9tZW50cyoJCgJpbhUAAAAAKggKAWEVAAAAACozCgRsaXZlFVNtGT0aBmxpdmVseRoKbGl2ZXN0cmVhbRoGbGl2aW5nGgpsaXZlc3RyZWFtKkUKBnN0cmVhbRUAAAAAGglicm9hZGNhc3QaBGZlZWQaCmxpdmVzdHJlYW0aCXN0cmVhbWluZxoHc3RyZWFtcxoFd2F0Y2gqawoJcmVjb3JkaW5nFQAAAAAaB2NhcHR1cmUaBnJlY29yZBoIcmVjb3JkZWQaCHJlY29yZGVyGgpyZWNvcmRpbmdzGgZyaXBwZXIaDml2O3A7cmVjb3JkaW5nGgV2aWRlbxoJc3RyZWFtaW5nMsEBL2dvdG8_dXJsPUNBRVNoQUVCeENKRjExLXRaNEtSdGltTk5mUkNQNkU3YXVxdDhMUFpGVlA0Q2plemFCNVE0Slp1emlVTHVoYUpiMTVIdDNBdTg5MHZWZ1Vqc1VDckZzSlRCWkxTb2xfWEFoSUZoS0lDSVlQQjFsOEJGbEMtbGVrcjg2Rk56ZXA1VzlFYTlDaVo0Y0twb2VzSHN5ellaUTcybm5RRzV0NjNwVkhfYUZPM2lZR1hmOHZCa1ctVXF5QTpIPGI-Q2FuIEFJPC9iPiBhY2N1cmF0ZWx5IDxiPmRldGVjdCBlbW90aW9uczwvYj4gdGhyb3VnaCB3ZWJjYW0gYW5hbHlzaXM_QqoB8J-Rge-4jyAgIEVtZXJnaW5nIDxiPkFJPC9iPiBzeXN0ZW1zIDxiPmNhbjwvYj4gYW5hbHl6ZSBmYWNpYWwgbW92ZW1lbnRzLCBleWUgcGF0dGVybnMsIGFuZCBvdGhlciB2aXN1YWwgc2lnbmFscyB0byBlc3RpbWF0ZSA8Yj5lbW90aW9uYWw8L2I-IGV4cHJlc3Npb25zIHN1Y2ggYXMmbmJzcDsuLi5KAWFKAmluIgIQAUgAWABoAA",
+        "source": "Facebook \u00b7 NASA - National Aeronautics and Space Administrations",
+        "read_more_link": "https://www.google.com/goto?url=CAES_AEBxCJF1ydpRTvfIWMg5FNFijjy7hV7Thtf5jfjt0UF_z_BaH1W6kUcUD4v8kxdWUs9R4fGHsa-EfaWkbzfbnxapt5E8r3QMTGoJDZlFpbuYvhelxLTyELQyRynXIHqLnr5uXm5jOXjCZG8y7wO4Ts1WQYmLM3HzUlYPK5x5-flGf5yOXGjSVpqQJCwVL2aiK8tVvktdCQ1x03TCldUrDQvEzoHlm1nqAavomLvmgRK3AsN25kBJtCHZlqbDyEPvCktiqoVAlh4de22Leh1Ropw-YjZfeYtj0V9lOMmpLGFduO7BG97CRp3Mcmki2QEtsMSYHnwzn-3p8U2U_8&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+      },
+      {
+        "position": 7,
+        "title": "Free AI Highlight Detector - Find Moments Instantly",
+        "link": "https://www.google.com/goto?url=CAESdwHEIkXXYrTVU8b9h6zJTFSgRMV3C-_hHdi1VwYprkKqASsvwV-gSzppd7nwZAhyz1qZIkGUsnhA_Ydh5ey10TSMPhjr-lIo0PllAW0pq5x5J3p26dSOHhBnQu_w6Z8Ie3rB7Z7UP9wFvzo_9HGHNTa4rnYWLgJU",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHEIkXXZUollROrQHWTNPt3LRVRd1XDgAZ1INkEemlJmSn21fuZrTANFnG5QrUBUaAtYZ6fPMfpWcNkqFcu3NESCuYHGZ24Fk89WlKyBrKrelIikFcP_Cb24dQ9COWCXJFe2lzwWU4AvNswo4CbUzq1B-E5k1pD&ved=2ahUKEwiHj7Xa25uYAxWTAoAAHaPbDnYQFnoECFAQAQ&uoh=1",
+        "displayed_link": "https://www.choppity.com \u203a find-specific-moments-tool",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcExxL_9xL_9xL_9xL_9xL_9xL_9tJf9qHf9jBP95Pv-2nf_VyP-bdv9nE__Itv-IV_-RZv_r5P_____i2f9cAP-niP_49f_-SyO1AAAAB3RSTlMAJa7y_69kPKWwjAAAAQ1JREFUeAF9kwUChDAMBJFwqZHSbuX_P71wrgxSmboMwzBOM30xL-OgnOgPJ61HfxmH5b-chvm_nIdHlI3hj9hNsnU-hFU0JrLGsPFTSspAKfDV-QLkjKcUj5CsVI8MhMbVIPFNckOzzIbcXsZq7d7lXtMiWuItiMUqzu-1k7nV5ARHWgtku68FV9xVGt8tSc9YbQ7WsmKkR3OVsQhxkxxrAOJ24SGDSmLjwTm0jgv93mzMKpUO-Fo3eHLuPlpuMLRjG4Cock_eJBl4IcXE7rx6oVfpse6DFA1rTWj8kIqNKC2ltGUgJvg3SZIKHhTz2qzCYg1fMUJPecDxMZn-y-X4aB4damVcfl2HSeudAfEjGBYFvIZXAAAAAElFTkSuQmCC.png",
+        "snippet": "AI detects key moments, highlights, and specific topics in any video. Search hours of footage in seconds and clip the best parts instantly. - Try it now!",
+        "snippet_highlighted_words": [
+          "AI detects key moments, highlights, and specific topics in any video"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "AI detects key moments, highlights, and specific topics in any video. Search hours of footage in seconds and clip the best parts instantly. - Try it now!",
+            "source_info_link": "https://www.google.com/goto?url=CAESdwHEIkXXYrTVU8b9h6zJTFSgRMV3C-_hHdi1VwYprkKqASsvwV-gSzppd7nwZAhyz1qZIkGUsnhA_Ydh5ey10TSMPhjr-lIo0PllAW0pq5x5J3p26dSOHhBnQu_w6Z8Ie3rB7Z7UP9wFvzo_9HGHNTa4rnYWLgJU",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcExxL_9xL_9xL_9xL_9xL_9xL_9tJf9qHf9jBP95Pv-2nf_VyP-bdv9nE__Itv-IV_-RZv_r5P_____i2f9cAP-niP_49f_-SyO1AAAAB3RSTlMAJa7y_69kPKWwjAAAAQ1JREFUeAF9kwUChDAMBJFwqZHSbuX_P71wrgxSmboMwzBOM30xL-OgnOgPJ61HfxmH5b-chvm_nIdHlI3hj9hNsnU-hFU0JrLGsPFTSspAKfDV-QLkjKcUj5CsVI8MhMbVIPFNckOzzIbcXsZq7d7lXtMiWuItiMUqzu-1k7nV5ARHWgtku68FV9xVGt8tSc9YbQ7WsmKkR3OVsQhxkxxrAOJ24SGDSmLjwTm0jgv93mzMKpUO-Fo3eHLuPlpuMLRjG4Cock_eJBl4IcXE7rx6oVfpse6DFA1rTWj8kIqNKC2ltGUgJvg3SZIKHhTz2qzCYg1fMUJPecDxMZn-y-X4aB4damVcfl2HSeudAfEjGBYFvIZXAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq4BL2dvdG8_dXJsPUNBRVNkd0hFSWtYWFlyVFZVOGI5aDZ6SlRGU2dSTVYzQy1faEhkaTFWd1lwcmtLcUFTc3Z3Vi1nU3pwcGQ3bndaQWh5ejFxWklrR1VzbmhBX1lkaDVleTEwVFNNUGhqci1sSW8wUGxsQVcwcHE1eDVKM3AyNmRTT0hoQm5RdV93Nlo4SWUzckI3WjdVUDl3RnZ6b185SEdITlRhNHJuWVdMZ0pVEgQaAggAGowIEgAaACIAKgAyBggDEgJ1azoAQgQIARAASgBaAHIAegCCQOgHCAAQABgAIAAqEQoDY2FuFe7ckj4aBWNhbmFpKikKAmFpFZZAqEAaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgVjYW5haSqCAQoIaWRlbnRpZnkVMAyGPhoGZGV0ZWN0GgRmaW5kGg5pZGVudGlmaWNhdGlvbhoKaWRlbnRpZmllZBoKaWRlbnRpZmllcxoLaWRlbnRpZnlpbmcaCXJlY29nbml6ZRoLcmVjb2duaXppbmcaCWRldGVjdGlvbhoLcmVjb2duaXRpb24qOgoJZW1vdGlvbmFsFc3L0z4aB2Vtb3Rpb24aCGVtb3Rpb25zGgNzYWQaEGVtb3Rpb25hbG1vbWVudHMqOAoHbW9tZW50cxWrFp1AGgZldmVudHMaBm1vbWVudBoGc2NlbmVzGhBlbW90aW9uYWxtb21lbnRzKgkKAmluFQAAAAAqCAoBYRUAAAAAKjMKBGxpdmUVAAAAABoGbGl2ZWx5GgpsaXZlc3RyZWFtGgZsaXZpbmcaCmxpdmVzdHJlYW0qRQoGc3RyZWFtFQAAAAAaCWJyb2FkY2FzdBoEZmVlZBoKbGl2ZXN0cmVhbRoJc3RyZWFtaW5nGgdzdHJlYW1zGgV3YXRjaCprCglyZWNvcmRpbmcVzYBQPxoHY2FwdHVyZRoGcmVjb3JkGghyZWNvcmRlZBoIcmVjb3JkZXIaCnJlY29yZGluZ3MaBnJpcHBlchoOaXY7cDtyZWNvcmRpbmcaBXZpZGVvGglzdHJlYW1pbmcyrgEvZ290bz91cmw9Q0FFU2R3SEVJa1hYWXJUVlU4YjloNnpKVEZTZ1JNVjNDLV9oSGRpMVZ3WXBya0txQVNzdndWLWdTenBwZDdud1pBaHl6MXFaSWtHVXNuaEFfWWRoNWV5MTBUU01QaGpyLWxJbzBQbGxBVzBwcTV4NUozcDI2ZFNPSGhCblF1X3c2WjhJZTNyQjdaN1VQOXdGdnpvXzlIR0hOVGE0cm5ZV0xnSlU6TEZyZWUgPGI-QUk8L2I-IEhpZ2hsaWdodCBEZXRlY3RvciAtIDxiPkZpbmQgTW9tZW50czwvYj4gSW5zdGFudGx5IC0gQ2hvcHBpdHlCoAE8Yj5BSSBkZXRlY3RzIGtleSBtb21lbnRzLCBoaWdobGlnaHRzLCBhbmQgc3BlY2lmaWMgdG9waWNzIGluIGFueSB2aWRlbzwvYj4uIFNlYXJjaCBob3VycyBvZiBmb290YWdlIGluIHNlY29uZHMgYW5kIGNsaXAgdGhlIGJlc3QgcGFydHMgaW5zdGFudGx5LiAtIFRyeSBpdCBub3chSgJpbkoBYSICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq4BL2dvdG8_dXJsPUNBRVNkd0hFSWtYWFlyVFZVOGI5aDZ6SlRGU2dSTVYzQy1faEhkaTFWd1lwcmtLcUFTc3Z3Vi1nU3pwcGQ3bndaQWh5ejFxWklrR1VzbmhBX1lkaDVleTEwVFNNUGhqci1sSW8wUGxsQVcwcHE1eDVKM3AyNmRTT0hoQm5RdV93Nlo4SWUzckI3WjdVUDl3RnZ6b185SEdITlRhNHJuWVdMZ0pVEgQaAggAGowIEgAaACIAKgAyBggDEgJ1azoAQgQIARAASgBaAHIAegCCQOgHCAAQABgAIAAqEQoDY2FuFe7ckj4aBWNhbmFpKikKAmFpFZZAqEAaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgVjYW5haSqCAQoIaWRlbnRpZnkVMAyGPhoGZGV0ZWN0GgRmaW5kGg5pZGVudGlmaWNhdGlvbhoKaWRlbnRpZmllZBoKaWRlbnRpZmllcxoLaWRlbnRpZnlpbmcaCXJlY29nbml6ZRoLcmVjb2duaXppbmcaCWRldGVjdGlvbhoLcmVjb2duaXRpb24qOgoJZW1vdGlvbmFsFc3L0z4aB2Vtb3Rpb24aCGVtb3Rpb25zGgNzYWQaEGVtb3Rpb25hbG1vbWVudHMqOAoHbW9tZW50cxWrFp1AGgZldmVudHMaBm1vbWVudBoGc2NlbmVzGhBlbW90aW9uYWxtb21lbnRzKgkKAmluFQAAAAAqCAoBYRUAAAAAKjMKBGxpdmUVAAAAABoGbGl2ZWx5GgpsaXZlc3RyZWFtGgZsaXZpbmcaCmxpdmVzdHJlYW0qRQoGc3RyZWFtFQAAAAAaCWJyb2FkY2FzdBoEZmVlZBoKbGl2ZXN0cmVhbRoJc3RyZWFtaW5nGgdzdHJlYW1zGgV3YXRjaCprCglyZWNvcmRpbmcVzYBQPxoHY2FwdHVyZRoGcmVjb3JkGghyZWNvcmRlZBoIcmVjb3JkZXIaCnJlY29yZGluZ3MaBnJpcHBlchoOaXY7cDtyZWNvcmRpbmcaBXZpZGVvGglzdHJlYW1pbmcyrgEvZ290bz91cmw9Q0FFU2R3SEVJa1hYWXJUVlU4YjloNnpKVEZTZ1JNVjNDLV9oSGRpMVZ3WXBya0txQVNzdndWLWdTenBwZDdud1pBaHl6MXFaSWtHVXNuaEFfWWRoNWV5MTBUU01QaGpyLWxJbzBQbGxBVzBwcTV4NUozcDI2ZFNPSGhCblF1X3c2WjhJZTNyQjdaN1VQOXdGdnpvXzlIR0hOVGE0cm5ZV0xnSlU6TEZyZWUgPGI-QUk8L2I-IEhpZ2hsaWdodCBEZXRlY3RvciAtIDxiPkZpbmQgTW9tZW50czwvYj4gSW5zdGFudGx5IC0gQ2hvcHBpdHlCoAE8Yj5BSSBkZXRlY3RzIGtleSBtb21lbnRzLCBoaWdobGlnaHRzLCBhbmQgc3BlY2lmaWMgdG9waWNzIGluIGFueSB2aWRlbzwvYj4uIFNlYXJjaCBob3VycyBvZiBmb290YWdlIGluIHNlY29uZHMgYW5kIGNsaXAgdGhlIGJlc3QgcGFydHMgaW5zdGFudGx5LiAtIFRyeSBpdCBub3chSgJpbkoBYSICEAFIAFgAaAA",
+        "source": "Choppity"
+      },
+      {
+        "position": 8,
+        "title": "He Built an AI Model That Can Decode Your Emotions",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXX2cbOI7EqIbXXMXIUOpaU2a2V6FT4HT-uK4Q26OXo186VZz2WSIk-kK1PCmqOe0FX7XdmkTcjOH9-veH45pRO2FkPJPqgyWDHW6ywS-c9CsvKiAI8OXw1gCLIWAHVq4AXhNbA&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg",
+        "displayed_link": "2.7k+ views",
+        "date": "2 years ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f2aa2c2f13b4af7a3795/images/0-08Q-W6LsiIa-Z0G1jYSz4RtU9gDu6bjhAvOKQjhzA.webp",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "This AI can read emotions better than you can. It was created by Alan Cowen, the cofounder and CEO of Hume, an AI research lab developing ...",
+        "duration": "56:13",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "Dan tells Hume\u2019s empathetic AI model a secret",
+            "link": "https://www.google.com/goto?url=CAESbAHEIkXXzEERnQ3AtvhI0juUAQQB4zQyc3B2vV9nOHuFgUMmiIe0zJcZz-dbWa791dDfoOcBQ_-YRO5sVi3t-tgmkOJGPqxwYE5Rirr6LeZ6CV-eS3xn2hn3kbd9GU-xdo7okLUmGrXOwZCZAA&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+          },
+          {
+            "time": "01:13",
+            "title": "Introduction",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXXE_wa9piJABdmwNtlEM7W93liNTPvrJw9jVxEFzUHDBesiBJ2-mu9wMSJXPPrHcRFS_vOxtJXsv746HxBZf2bTw9jJ5pD8HSZHMjLVxlU17kWUWwzfjwny5gRIIgXdOFrJkfndTTR16c&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+          },
+          {
+            "time": "10:17",
+            "title": "What traditional psychology tells us about emotions",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXVKqZJaYRXh_StKj72XYjhaz-CIM2bJ2oxZNH2ZkDijV8HkwbFL46O3n6xvvWKFSPbhvV-XLBtit9v7-5unoGCxk66yBi2eA7tnK2YKStatGI9zus81DGTDWkewjQJ_zAyqC8MH5aKUR9&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+          },
+          {
+            "time": "13:46",
+            "title": "Alan\u2019s radical approach to studying human emotion",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXX7-Nf1NegC_O623hCjhhxJX72asKRD4qS8WtbSE5sYqKbcNYYKqsQzcOoIhjH9liR9a7nsxR0OrtSE8W4Y4etCTSdY-hLi9YhKjPsTyHe3TIqBT4en5LOSYRCO3APKXk9DRvH2cpd6o4H&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+          },
+          {
+            "time": "16:46",
+            "title": "Methods that Hume\u2019s AI model uses to understand emotion",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXfOrXQiefSpPHJR5CwazHiMX18QACD-cESAiTSbey4_wgvp6LYwCQ9wtV837QwT9x01luRodNQSMCVFCEgXrIkynZKXe2kmnCkwACPvDpTIiScQ9GnIsDSkQu09od2yXCuVd5RHbFKG7PYg&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+          },
+          {
+            "time": "21:08",
+            "title": "How the model accounts for individual differences",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXCu0dSKPg7-HfJ6UtqPkZdl4I8vnovKWEQ46wOujJfrK_QHrGl00rYExMp6ME025HBhvVErCXFlCVStPSg5U3pOsJgUDBH_DN006WERCgQMOhy9QDE2UFebe2ZDGIQXPf078hTb6uRR96BQ&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+          },
+          {
+            "time": "27:19",
+            "title": "Dan\u2019s pet theory on why it\u2019s been hard to make progress in psychology",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXzb8kiGbm-h_4ztalAOz-vikyIS_Pmj0DiYVcFZmq4yCgzUiqoydWK4qM4qoygW8adP7tIkFydejccV8FFQ8MW3sqAFHl7O8WW7NpAgvQPUBagZbVWA_ycNIl9h0SrCI1hy0-IpT6Ae2V5Q&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+          },
+          {
+            "time": "38:12",
+            "title": "The ways in which Alan thinks Hume can be used",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXV4QGXLeRQ7xCBG6hg7u0HqM8eaJYS_6UthtE1vv883x6xF_DJZsqL97dWvtQkdBN_cv23m54lxhvubKsumirGGGIl2is9DkJSvr0vcv15APkNRH5UOhVdGdOU6h5WKOw32W_bJUfmK24TQ&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+          },
+          {
+            "time": "41:22",
+            "title": "How Alan is thinking about the API v. consumer product question",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXScRopAat5SOC3jCKMNhP_oIjC8DUdIQ-uQCRhuqzG-z-9-oWod0IJwQjel-Dob6KYNz42zaBOpwUk0mi3Qdg6vQ3L7ngsmJ3G4sJZMDyEAi5uvhFG-BYbLRF_E4x0DfD9oVLh6qdwWdQdg&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+          },
+          {
+            "time": "44:42",
+            "title": "Ethical concerns around developing AI that can interpret human emotion",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXYauyP1q6Bjn9NfVAUGSJzKcthHdiqOSsRlf7FKCwcgsDj-aFgnYBK4KEhq2q1PyzmfM-iiCqhBxvDG47gCGOdv62-O0dkssoWHF6XjBvQtXo5K730Ya551UOLc7PXmjFf7mzIGxlMHQRWg&gsessionid=ojfLbeOmmymX4VNd1BDzIVB5TST1BqRrtsjgQ02ihCHXHz5ngwEdOg"
+          }
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "This AI can read emotions better than you can. It was created by Alan Cowen, the cofounder and CEO of Hume, an AI research lab developing ...",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWDJjYk9JN0VxSWJYWE1YSVVPcGFVMmEyVjZGVDRIVC11SzRRMjZPWG8xODZWWnoyV1NJay1rSzFQQ21xT2UwRlg3WGRta1Rjak9IOS12ZUg0NXBSTzJGa1BKUHFneVdESFc2eXdTLWM5Q3N2S2lBSThPWHcxZ0NMSVdBSFZxNEFYaE5iQRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWDJjYk9JN0VxSWJYWE1YSVVPcGFVMmEyVjZGVDRIVC11SzRRMjZPWG8xODZWWnoyV1NJay1rSzFQQ21xT2UwRlg3WGRta1Rjak9IOS12ZUg0NXBSTzJGa1BKUHFneVdESFc2eXdTLWM5Q3N2S2lBSThPWHcxZ0NMSVdBSFZxNEFYaE5iQRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRziqFAeAAvo3TETC0MHKIsvDIQY19Hw8FuVg",
+        "source": "YouTube \u00b7 Every"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "AI emotion recognition online free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDiSHvj8GW2rX6R2WGkpSVeZsvfdRw:1795355306714&q=AI+emotion+recognition+online+free&sa=X&ved=2ahUKEwiHj7Xa25uYAxWTAoAAHaPbDnYQ1QJ6BAhKEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=AI+emotion+recognition+online+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Face emotion detector online",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDiSHvj8GW2rX6R2WGkpSVeZsvfdRw:1795355306714&q=Face+emotion+detector+online&sa=X&ved=2ahUKEwiHj7Xa25uYAxWTAoAAHaPbDnYQ1QJ6BAhOEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Face+emotion+detector+online"
+      },
+      {
+        "block_position": 1,
+        "query": "Imentiv",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDiSHvj8GW2rX6R2WGkpSVeZsvfdRw:1795355306714&q=Imentiv&sa=X&ved=2ahUKEwiHj7Xa25uYAxWTAoAAHaPbDnYQ1QJ6BAhNEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Imentiv"
+      },
+      {
+        "block_position": 1,
+        "query": "Emotion detection AI",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDiSHvj8GW2rX6R2WGkpSVeZsvfdRw:1795355306714&q=Emotion+detection+AI&sa=X&ved=2ahUKEwiHj7Xa25uYAxWTAoAAHaPbDnYQ1QJ6BAhMEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Emotion+detection+AI"
+      },
+      {
+        "block_position": 1,
+        "query": "Facial emotion recognition ai",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDiSHvj8GW2rX6R2WGkpSVeZsvfdRw:1795355306714&q=Facial+emotion+recognition+ai&sa=X&ved=2ahUKEwiHj7Xa25uYAxWTAoAAHaPbDnYQ1QJ6BAhJEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Facial+emotion+recognition+ai"
+      },
+      {
+        "block_position": 1,
+        "query": "Emotion analyzer",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDiSHvj8GW2rX6R2WGkpSVeZsvfdRw:1795355306714&q=Emotion+analyzer&sa=X&ved=2ahUKEwiHj7Xa25uYAxWTAoAAHaPbDnYQ1QJ6BAhLEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Emotion+analyzer"
+      },
+      {
+        "block_position": 1,
+        "query": "Mood detector online",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDiSHvj8GW2rX6R2WGkpSVeZsvfdRw:1795355306714&q=Mood+detector+online&sa=X&ved=2ahUKEwiHj7Xa25uYAxWTAoAAHaPbDnYQ1QJ6BAhIEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Mood+detector+online"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=Can+AI+identify+emotional+moments+in+a+live+stream+recording?&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDiSHvj8GW2rX6R2WGkpSVeZsvfdRw:1795355306714&ei=qvICa4eSK5OFgLQPo7e7sAc&start=10&sa=N&sstk=AYl2yk_EXQPNzkYCfPiAzgN2qJFG4x_NF7HimkVwmhQ3S89-ukHbmZ4vimm2FOCJquBJAH7ZAmjPxKKpL7IPdz77Kj2EzYm18QhgEQ&ved=2ahUKEwiHj7Xa25uYAxWTAoAAHaPbDnYQ8NMDegQIRBAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=Can+AI+identify+emotional+moments+in+a+live+stream+recording?&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDiSHvj8GW2rX6R2WGkpSVeZsvfdRw:1795355306714&ei=qvICa4eSK5OFgLQPo7e7sAc&start=10&sa=N&sstk=AYl2yk_EXQPNzkYCfPiAzgN2qJFG4x_NF7HimkVwmhQ3S89-ukHbmZ4vimm2FOCJquBJAH7ZAmjPxKKpL7IPdz77Kj2EzYm18QhgEQ&ved=2ahUKEwiHj7Xa25uYAxWTAoAAHaPbDnYQ8tMDegQIRBAE",
+        "3": "https://www.google.com/search?q=Can+AI+identify+emotional+moments+in+a+live+stream+recording?&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDiSHvj8GW2rX6R2WGkpSVeZsvfdRw:1795355306714&ei=qvICa4eSK5OFgLQPo7e7sAc&start=20&sa=N&sstk=AYl2yk_EXQPNzkYCfPiAzgN2qJFG4x_NF7HimkVwmhQ3S89-ukHbmZ4vimm2FOCJquBJAH7ZAmjPxKKpL7IPdz77Kj2EzYm18QhgEQ&ved=2ahUKEwiHj7Xa25uYAxWTAoAAHaPbDnYQ8tMDegQIRBAG",
+        "4": "https://www.google.com/search?q=Can+AI+identify+emotional+moments+in+a+live+stream+recording?&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDiSHvj8GW2rX6R2WGkpSVeZsvfdRw:1795355306714&ei=qvICa4eSK5OFgLQPo7e7sAc&start=30&sa=N&sstk=AYl2yk_EXQPNzkYCfPiAzgN2qJFG4x_NF7HimkVwmhQ3S89-ukHbmZ4vimm2FOCJquBJAH7ZAmjPxKKpL7IPdz77Kj2EzYm18QhgEQ&ved=2ahUKEwiHj7Xa25uYAxWTAoAAHaPbDnYQ8tMDegQIRBAI",
+        "5": "https://www.google.com/search?q=Can+AI+identify+emotional+moments+in+a+live+stream+recording?&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDiSHvj8GW2rX6R2WGkpSVeZsvfdRw:1795355306714&ei=qvICa4eSK5OFgLQPo7e7sAc&start=40&sa=N&sstk=AYl2yk_EXQPNzkYCfPiAzgN2qJFG4x_NF7HimkVwmhQ3S89-ukHbmZ4vimm2FOCJquBJAH7ZAmjPxKKpL7IPdz77Kj2EzYm18QhgEQ&ved=2ahUKEwiHj7Xa25uYAxWTAoAAHaPbDnYQ8tMDegQIRBAK",
+        "6": "https://www.google.com/search?q=Can+AI+identify+emotional+moments+in+a+live+stream+recording?&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDiSHvj8GW2rX6R2WGkpSVeZsvfdRw:1795355306714&ei=qvICa4eSK5OFgLQPo7e7sAc&start=50&sa=N&sstk=AYl2yk_EXQPNzkYCfPiAzgN2qJFG4x_NF7HimkVwmhQ3S89-ukHbmZ4vimm2FOCJquBJAH7ZAmjPxKKpL7IPdz77Kj2EzYm18QhgEQ&ved=2ahUKEwiHj7Xa25uYAxWTAoAAHaPbDnYQ8tMDegQIRBAM",
+        "7": "https://www.google.com/search?q=Can+AI+identify+emotional+moments+in+a+live+stream+recording?&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDiSHvj8GW2rX6R2WGkpSVeZsvfdRw:1795355306714&ei=qvICa4eSK5OFgLQPo7e7sAc&start=60&sa=N&sstk=AYl2yk_EXQPNzkYCfPiAzgN2qJFG4x_NF7HimkVwmhQ3S89-ukHbmZ4vimm2FOCJquBJAH7ZAmjPxKKpL7IPdz77Kj2EzYm18QhgEQ&ved=2ahUKEwiHj7Xa25uYAxWTAoAAHaPbDnYQ8tMDegQIRBAO",
+        "8": "https://www.google.com/search?q=Can+AI+identify+emotional+moments+in+a+live+stream+recording?&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDiSHvj8GW2rX6R2WGkpSVeZsvfdRw:1795355306714&ei=qvICa4eSK5OFgLQPo7e7sAc&start=70&sa=N&sstk=AYl2yk_EXQPNzkYCfPiAzgN2qJFG4x_NF7HimkVwmhQ3S89-ukHbmZ4vimm2FOCJquBJAH7ZAmjPxKKpL7IPdz77Kj2EzYm18QhgEQ&ved=2ahUKEwiHj7Xa25uYAxWTAoAAHaPbDnYQ8tMDegQIRBAQ",
+        "9": "https://www.google.com/search?q=Can+AI+identify+emotional+moments+in+a+live+stream+recording?&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDiSHvj8GW2rX6R2WGkpSVeZsvfdRw:1795355306714&ei=qvICa4eSK5OFgLQPo7e7sAc&start=80&sa=N&sstk=AYl2yk_EXQPNzkYCfPiAzgN2qJFG4x_NF7HimkVwmhQ3S89-ukHbmZ4vimm2FOCJquBJAH7ZAmjPxKKpL7IPdz77Kj2EzYm18QhgEQ&ved=2ahUKEwiHj7Xa25uYAxWTAoAAHaPbDnYQ8tMDegQIRBAS",
+        "10": "https://www.google.com/search?q=Can+AI+identify+emotional+moments+in+a+live+stream+recording?&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDiSHvj8GW2rX6R2WGkpSVeZsvfdRw:1795355306714&ei=qvICa4eSK5OFgLQPo7e7sAc&start=90&sa=N&sstk=AYl2yk_EXQPNzkYCfPiAzgN2qJFG4x_NF7HimkVwmhQ3S89-ukHbmZ4vimm2FOCJquBJAH7ZAmjPxKKpL7IPdz77Kj2EzYm18QhgEQ&ved=2ahUKEwiHj7Xa25uYAxWTAoAAHaPbDnYQ8tMDegQIRBAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Can+AI+identify+emotional+moments+in+a+live+stream+recording%3F&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Can+AI+identify+emotional+moments+in+a+live+stream+recording%3F&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Can+AI+identify+emotional+moments+in+a+live+stream+recording%3F&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Can+AI+identify+emotional+moments+in+a+live+stream+recording%3F&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Can+AI+identify+emotional+moments+in+a+live+stream+recording%3F&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Can+AI+identify+emotional+moments+in+a+live+stream+recording%3F&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Can+AI+identify+emotional+moments+in+a+live+stream+recording%3F&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Can+AI+identify+emotional+moments+in+a+live+stream+recording%3F&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Can+AI+identify+emotional+moments+in+a+live+stream+recording%3F&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Can+AI+identify+emotional+moments+in+a+live+stream+recording%3F&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Can+AI+identify+emotional+moments+in+a+live+stream+recording%3F&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

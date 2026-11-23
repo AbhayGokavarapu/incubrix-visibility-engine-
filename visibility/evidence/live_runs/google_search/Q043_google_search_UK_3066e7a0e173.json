@@ -1,0 +1,600 @@
+{
+  "measurement_id": "3066e7a0e173",
+  "question_id": "Q043",
+  "timestamp_utc": "2026-11-22T13:48:06.093159+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "What is the fastest way to add subtitles to 10 videos at once?",
+  "market": "UK",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://www.reddit.com/r/VideoEditing/comments/uhe3hi/fastest_way_to_create_subtitles_for_a_video/",
+    "https://www.google.com/goto?url=CAESZAHEIkXXNzSFMc9WO1MR92w6RtF7X3NS2YzydEodAE15QLbICi94QUFQ8sllW8lqiZTrlzaI1fYZjBoVDuif79wM_lqGA3Xoo-DzwGecGUic1Ez7Ndjf6hBF8IG3WCftGdhdNVY",
+    "https://www.google.com/goto?url=CAEScwHEIkXXw1CcVlaY_GEyxe559yYrsaS5_W73XptTbZOzZbH7sXaj5wNqepXz_pBBD1VpeDxF5F2q2OsGX6r6GLdRGEbRtKbTycCKvKbu6IXsWJRDANB-Ey9RhETL-zGjOBzvdnr3Bc02pZ9gsmy9CJIhmb4",
+    "https://www.google.com/goto?url=CAESdQHEIkXXrTMCYda-VDzaBJYAfiIk2TIRZLUxTMrVRtNi7_z7jGscMfdhUuclUEqCOWNgFlPIyUnAnS8V5Z6_IdHF13enDThJegIhq92XdX30X4H_F8rvk_kanugUUQMAdxurKY8bz9XyTiekdRku8-11TgcuQg",
+    "https://support.google.com/youtube/answer/2734796?hl=en",
+    "https://www.google.com/goto?url=CAESXgHEIkXX8ckl76tvn3O0-yZqaSOJlC-CYnXUtjUagmlDVNkZyjZ9IQBYqqPjwgnvu8Ys45eWgjI50hQ6yRYuSuw5zdmMAZVXL_TsQ2LzTGRuuNg7afJNYjT4Us6xN7Y"
+  ],
+  "raw_text_summary": "Fastest way to create subtitles for a video? : r/VideoEditing I have a 51 minute file, and need to create subtitles. I have to edit almost all the cuts and texts from the auto generated file, it sucks. I have ... Add Subtitles to Video Online - Try for Free, 99.9% Accuracy Our AI video caption generator transcribes your dialogue with 99.9% accuracy in minutes\u2014no manual typing required. The caption creator automatically flags low- ... Add Subtitles to Video Online for Free Add subtitles to videos with Canva. Generate subtitles from speech, edit the text, and customize their style before sharing your video. Add Subtitles to Video Online - Free & Automatic Online tool to add accurate subtitles and captions to videos without hassle. Use AI to generate them or import your own\u2014easy, fast, and 98% accurate. Add subtitles & captions - YouTube Help Sign in to YouTube Studio. \u00b7 From the left menu, select Subtitles. \u00b7 Select the video that you'd like to edit. \u00b7 Click ADD LANGUAGE and select your language. Auto-Subtitle Generator \u2014 99% Accurate (Free) Generate accurate subtitles automatically from video or audio. Upload MP4, MOV, MP3, WAV, or a YouTube link to create editable captions, transcripts, ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f294b7c28c9413108c31",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/G7ha4J0iAPIEP5t6vf_Op3DcRE5qxyFoz-dZ0f18dz8/6b02f294b7c28c9413108c31.json",
+      "markdown_endpoint": "https://serpapi.com/searches/G7ha4J0iAPIEP5t6vf_Op3DcRE5qxyFoz-dZ0f18dz8/6b02f294b7c28c9413108c31.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/G7ha4J0iAPIEP5t6vf_Op3DcRE5qxyFoz-dZ0f18dz8/6b02f294b7c28c9413108c31.json_with_pixel_position",
+      "created_at": "2026-11-22 13:48:04 UTC",
+      "processed_at": "2026-11-22 13:48:04 UTC",
+      "google_url": "https://www.google.com/search?q=What+is+the+fastest+way+to+add+subtitles+to+10+videos+at+once%3F&oq=What+is+the+fastest+way+to+add+subtitles+to+10+videos+at+once%3F&hl=en&gl=uk&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/G7ha4J0iAPIEP5t6vf_Op3DcRE5qxyFoz-dZ0f18dz8/6b02f294b7c28c9413108c31.html",
+      "total_time_taken": 0.55
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "What is the fastest way to add subtitles to 10 videos at once?",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "uk",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "What is the fastest way to add subtitles to 10 videos at once?",
+      "total_results": 121,
+      "time_taken_displayed": 0.19,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "The Fastest Way to Caption Any Video In Any Style",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXSWT9TqrH7E-9VNJV8HUbnE97IWup3IJvyuYowBI3HcHu-YOtNg8aq8GADSGM_9HnW31waToeBrRQRAaav0gnRGp9ILivS9gz9mve-d6jJ3SZDtNm9OcrDGXkVI4FYf-yttQj&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ",
+        "thumbnail": "https://serpapi.com/searches/6b02f294b7c28c9413108c31/images/trr7Uqf1mJ4pbCbQbYIFijz25uQmzwg6i03UYzq62cw.jpg",
+        "channel": "VEED STUDIO",
+        "duration": "2:21",
+        "platform": "YouTube",
+        "date": "1 day ago",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT9RmGYIIlgnXL3vRIyEQeR67KTrTrTDmrpxw"
+      },
+      {
+        "position": 2,
+        "title": "How to Add Subtitles to a Video in Under 90 Seconds",
+        "link": "https://www.google.com/goto?url=CAESbgHEIkXXK2YESCGluzhP9nCPmBjxWF1su8XVxHDTCyx4A1uz95IptPeVey9ryzPLroHSLGTIyTt1EQCroPR-NqBGvbmkazvGDoD8iLvjITQ1BH23ekdbPsrdYC59zXU9qhQtGzMBZQivgBZCa2CG&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ",
+        "thumbnail": "https://serpapi.com/searches/6b02f294b7c28c9413108c31/images/oVmkFJNwB47XBFZGpzB8tL_Q8z8gQSVv_yOOQV0dd4E.jpg",
+        "channel": "Kapwing",
+        "duration": "2:07",
+        "platform": "YouTube",
+        "date": "1 Sept 2025",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ25VPEUDKXy3OpJfJCnAqRjL6gDwaL6A2HLw"
+      },
+      {
+        "position": 3,
+        "title": "How To Add Subtitles To Video - Captions Made EASY",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXX4_jzCtwgrkYCEhKP8Hnjc5MCr6rS6gesYqx0U596mco39vsh9cA6sVU7mpma9VZ8Hxzk7lwbBb2jLhRlHSJ6RLb4JdFUmvC5zQSOT41iiZn-rJ6ABmqOBWa9Htfuf9vFK9zl&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ",
+        "thumbnail": "https://serpapi.com/searches/6b02f294b7c28c9413108c31/images/RbXfk7JgkLeKXCKHzC3wxYKWrbpdw36Vsu4nz2fwreU.jpg",
+        "channel": "Mike Russell",
+        "duration": "5:03",
+        "platform": "YouTube",
+        "date": "13 Feb 2026",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS1XOIPn6HKHhGr8KFcfOqv5QGo4b1bl33iVQ",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "Video start",
+            "link": "https://www.google.com/goto?url=CAESbAHEIkXXgynwFD-KvOjoZdxwBD2iGHZDiInqM5807-5Isa5eUryuvVDrLPS1AYzzvPV_f485PZXsxaXWMgNslyIgyWdiPwTAkBfoYSava8MBo2aeOLXWfLiKM63uPh6eNXieg8fhDrVRzQxEDg&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ"
+          },
+          {
+            "time": "00:09",
+            "title": "How do YouTube automatic captions work",
+            "link": "https://www.google.com/goto?url=CAESbAHEIkXXXkqM6kkhHq3l4t6PS5NzvU9lxVGXnNsmdaontqJKXMn4rFi0TDgEhjtrPlWK3jrdZW6aRG1IH1pZ4-NfGc9a_YTBO8k6ey_26NnsbfGb-85CbE67TQnCIgN-CxGZKrGxhXdROZTovA&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ"
+          },
+          {
+            "time": "01:10",
+            "title": "Should you add subtitles to YouTube videos?",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXXMN2CDxfU9FuVb0EuMFsQHDXzUdBj2q_FffcKLoMOCxnIGdawW-2Q8ndVTPS33lXe8TrT5yKr8EBrhxK9cZdzgXeLJZ4lj3ATlxjSH1wLxsO3e2n-ZD0_JCWZwUN3eeZxMhfvf99fKI8&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ"
+          },
+          {
+            "time": "01:53",
+            "title": "Adding captions to shorts and reels",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXXtIGLEXvRr4MwWGWuIgHpa1TaQbfNkIw1rk9gmiUkC0Rg48ardCugTfgJqK4aG2tQghWhxpKPOLXYH7SNUXK9KWnDB_xPOv_R6UJ4pJ549Jf3ZNZ1KMHIMUMVsRRz0s4DXeXRAFMOHc4&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ"
+          },
+          {
+            "time": "02:29",
+            "title": "Adding captions using Riverside",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXQJcJO4RSM2qkEg6oNOcNuPEDQziZcU4txbFpq8EIvny2l2951oy-ZhjdU3zjmMfe1UCdKw4kLhY23dG0bukBg_-cKNUBftvPsMDC-fRR4_nd6nwWOW9HLs0UAGK2Ptr9Anev7KSqxCkV&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ"
+          },
+          {
+            "time": "03:24",
+            "title": "Adding captions to Magic Clips",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXMJaS999dlLOeY3j9gch4bPY3PrZe_Reen-v-QsaNfpqj3-zgPXzTxL3QUWIKP_bDOoSrsJUC99ewTj5Eespp2NCE2wnzyGNMif39JA2POB2L_ApSz2Q7GUf_qRFsACSf0eB8ucTCx81i&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ"
+          },
+          {
+            "time": "04:28",
+            "title": "Magic Audio",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXca7IKRrIJuIUZ2oX82XX-YBL6F7OtUHrJtEuV5jkKhGuiycPEqyvu8wriebH8_bo1ITnllmucsss7CtGjxfEL0T0Yn7YCeP4Hx4KF1PSJVG8n_O1CBfYiidNJ60fL7fk1ouBmz-4Xkwx&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ"
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "title": "How to add subtitles to a video for FREE",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXX8soasbG8lyWsWZY1o_CIpOScYG8L3Lp_NhhpWFVyNo67FriV9t9vBlYep0qelQltSQqNZedwCr5xIUVx8y72rKkBWoGJePK4e41NhekG5WiTL_gjaBDzCVHBqoAb5Jp4GhgS&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ",
+        "thumbnail": "https://serpapi.com/searches/6b02f294b7c28c9413108c31/images/GBsP9HxIZEN9ElF0FWohIbfeEqaQeaMr9aauYqVf-gQ.jpg",
+        "channel": "Microsoft Clipchamp",
+        "duration": "2:55",
+        "platform": "YouTube",
+        "date": "18 Jul 2024",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQgIL5pKBxzcYyZ-dfxA6yXbLU9fznPnrJMZg",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "Intro",
+            "link": "https://www.google.com/goto?url=CAESbAHEIkXXOobRmUGx4k3qd33XSscI3Djy3HurhHCajbjX_PT3Z_8THzKujVlurWELqgtrwDUI-qBtIytxFKSQTEqfoA8w2xqaZYUczT02hC7QN24lmc2EMTEIjRwcLJdzyQ9pSLSjC9EoAeXvOQ&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ"
+          },
+          {
+            "time": "00:08",
+            "title": "How to access the editor",
+            "link": "https://www.google.com/goto?url=CAESbAHEIkXXIAmUWlQK3oyd5jfotF7szz7tjBIMalRYCHmcGEIG0ukFJqNE2-RfFZcufIYtTBvMuDtlkG2GZ2w5RxkKr6Al6lxSS05USa0KTu0RHL69xQUvURsK71L7TN9EjiD4MFJUN3RAnZtYgQ&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ"
+          },
+          {
+            "time": "00:12",
+            "title": "How to import your video file",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXXPGS5Vn01DdDWmOlr7oMdoaEIQgQqKJxSK7_jET-RQlxnZuP8bsrDUEYbUA4y4RSZ2TIGffjLiR5PEyrnoTh-yJRnVe2PEgQ_qdgtAcuBmaQbUfMkRIh405G6zrT8X5pVvBgyiay2juw&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ"
+          },
+          {
+            "time": "00:34",
+            "title": "How to add subtitles",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXXa84M1YAFOrxrccrXvYjroJYtoy6MCfZ6-gG7Dmm1T-qnkyBGA8SA0pmTqQsPGzLkDXfs3uRwgqiS_k26tusJlph6En8_M8Bb5xkzi_24SlergPkopCWGoexk8-l7LeRnHqprDer6M7I&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ"
+          },
+          {
+            "time": "01:31",
+            "title": "How to edit the subtitles",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXXwn2ZGW-FD3oNChbobmTUo1texjrG7TNyd_vzo0dVFqemRHjSQ7krmoYxIXjD2B4BZsE4MWpgJhEFbeoe8aNvRCaTBgHDTcCC7nQTWH7xZ8V5u4dj3hRD0-eGo7gTKo0XqOJnrYJaPOk&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ"
+          },
+          {
+            "time": "02:05",
+            "title": "How to download your SRT file",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXvhgmCrqraLCNrc0CM-zLuzDGGUhUxPppPwvEZbZLDRKMcIATF8sOgfeXKacyJB2QbJXi_ZAQklMTQZhYHPk80GiKLqtzTp8R8pwoHJvowNWVV4EkQ8MoiLz7cM22jjiA3d1g0U10n0Mj&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ"
+          },
+          {
+            "time": "02:26",
+            "title": "Export to your device",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXJbMmMX9W1pFWro1WCadra0mWybyChxvFfIZPTTMkNKSqLDy4HphG-0IkBwqM-cqtw2Yhz0Jf53SvrRCURJyV1Z3I02ELllUB7YwA2oPNg2xe5Q9DVjoJ_VAANohgJycCUdD7o_0WPzB5&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ"
+          },
+          {
+            "time": "02:43",
+            "title": "Outro",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXkqST37veWSfTRl51Yc3qkn0ewD7rSGeUXyZdeOkdk7IBdTr6HlFntx5MeeDqmO8fV1mge7fiNtUP4O76ieenlH8a9zODRmzo-Z9UkA03iiEqin9eGGKBHbMkUIJVFsbe_dDIbdxIMygZ&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ"
+          }
+        ]
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "How can I quickly add subtitles to a video?",
+        "type": "ai_overview",
+        "page_token": "X-X42XicHZNLcqNIEIYXc5b2Ro42D-FuHOGYAEnFw6IQlKqA2igKCoGgeFjCArSbu8xN-hZ9mmF6kflFbv6I_DP_f_4Vl7b-_devchj629vLyziO34uuK0T-PeuaF3ab2-zl3InL-e9cXLP3zWey9aydmgjuZ6BQ_Uhz6dF89a3QyRu5hy2wkKS3KIYmUosHE6RNo3HCpJ5TUG55TT5Z434w27RCEVqpzDV_F04JgXh_DHsSm0Pe7EbPGgYS1TIHuk82MkXWOHm227DWm_jRPaRCSFEF9h4wJ4QFPapgw4B78GOKs4gOuQgmXAOVV3xmEo2Ptd4RLGB4FC5uym0qwg9eUXMfh2UakzGJ8RxEsI0fQMOgZCgaPjIAE9QKL5HGR6aUjFXwlhz5GuFh7RN6SZWwyralz-UyyVRa8d10zqT1I3tACiUho8WftNEHFPUW34aW10x31vYbbGmbPaYmxLuJCBp4NawRgWck033W8ohgOqOKvwa4HBCA7bHuFVoRj2255FvkuvjlcHWnxrIZRduwzVRzYA_aezXosRqSkJQ-3ZrLLfo9r-EcgRAiRa9xNMVIhogpXDviXs5seiBtKYhVLHOYMIVqqHIengIYBkRGW3Cg2EXcdgMS83vwIG78ICWMxVdWEWnZSeaSLGWRMyIghlDoDNUwhmowMamPo2jq_MiNPbxDQJkChGEJ8U8tVOln3oqKyWZ_jIXCCbhbxQBRROs8dp1U0jo6Pn2-2924yli7clafX5esFvOKcb66faXDZRD5bTV0K7a6X3jefVPBU_P_exrOWhvdwIgMgxnmaDiGadDCND4WfizcL9x3plE4u9HYmfNSUrG7IktXHQuW6cV0HRvILILX1K6LJAprx4Zy0oY9tyaRzaaUzmbp2LSnFrkf9EXTXzTzheeF54XB05_YvJ_OzfDWMC6eT0vv3nL-fLrwtz9pOomDs2Gar1v36jFn9eHizfevoDvJz6fpdj2_Gfbhx9d5ve-TyNkLxamZWuYHezMNhc2vJzGM31RD_qFrqqYpP9evr_p_kxZI6g",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=X-X42XicHZNLcqNIEIYXc5b2Ro42D-FuHOGYAEnFw6IQlKqA2igKCoGgeFjCArSbu8xN-hZ9mmF6kflFbv6I_DP_f_4Vl7b-_devchj629vLyziO34uuK0T-PeuaF3ab2-zl3InL-e9cXLP3zWey9aydmgjuZ6BQ_Uhz6dF89a3QyRu5hy2wkKS3KIYmUosHE6RNo3HCpJ5TUG55TT5Z434w27RCEVqpzDV_F04JgXh_DHsSm0Pe7EbPGgYS1TIHuk82MkXWOHm227DWm_jRPaRCSFEF9h4wJ4QFPapgw4B78GOKs4gOuQgmXAOVV3xmEo2Ptd4RLGB4FC5uym0qwg9eUXMfh2UakzGJ8RxEsI0fQMOgZCgaPjIAE9QKL5HGR6aUjFXwlhz5GuFh7RN6SZWwyralz-UyyVRa8d10zqT1I3tACiUho8WftNEHFPUW34aW10x31vYbbGmbPaYmxLuJCBp4NawRgWck033W8ohgOqOKvwa4HBCA7bHuFVoRj2255FvkuvjlcHWnxrIZRduwzVRzYA_aezXosRqSkJQ-3ZrLLfo9r-EcgRAiRa9xNMVIhogpXDviXs5seiBtKYhVLHOYMIVqqHIengIYBkRGW3Cg2EXcdgMS83vwIG78ICWMxVdWEWnZSeaSLGWRMyIghlDoDNUwhmowMamPo2jq_MiNPbxDQJkChGEJ8U8tVOln3oqKyWZ_jIXCCbhbxQBRROs8dp1U0jo6Pn2-2924yli7clafX5esFvOKcb66faXDZRD5bTV0K7a6X3jefVPBU_P_exrOWhvdwIgMgxnmaDiGadDCND4WfizcL9x3plE4u9HYmfNSUrG7IktXHQuW6cV0HRvILILX1K6LJAprx4Zy0oY9tyaRzaaUzmbp2LSnFrkf9EXTXzTzheeF54XB05_YvJ_OzfDWMC6eT0vv3nL-fLrwtz9pOomDs2Gar1v36jFn9eHizfevoDvJz6fpdj2_Gfbhx9d5ve-TyNkLxamZWuYHezMNhc2vJzGM31RD_qFrqqYpP9evr_p_kxZI6g",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlZITnRSMlY0YlhkWmFHNW5NVzQzWkdSNWRVTmxWVmxNTm1wbmIzTnVSWFpXYzJaR1dHMVBaRlEwVlZWdk1VaG1UV1ExWkVsNGRIRm5UVk5NTjFkQmIwMW1Zbll0TTFGR1oyWm9ZMGxUZURKb01GWmhaVlozTjJaelp4SVhiRkJKUTJFMVR6bEhkbXA2ZVdOclVHbE5lWFoxVVc4YUlrRklUakJGTjBVdFRuZHhjRFEzUldWM2VtMU1NMmh1UkMxU1ZqUjJSMmRuVm1jIiwiZmN2IjoiMyIsImVpIjoibFBJQ2E1TzlHdmp6eWNrUGlNeXZ1UW8iLCJxYyI6ImMtT3lMYzlJTEZISUxGWW95VWhWU0Vzc0xra3RMbEVvVDZ4VUtNbFhTRXhKVVNndVRTckpMTWxKTFFZSkdCb29sR1dtcE9ZWEt3RDE1T2NscHdvdzFPNjQtdElPQUEiLCJxdWVzdGlvbiI6IkhvdyBjYW4gSSBxdWlja2x5IGFkZCBzdWJ0aXRsZXMgdG8gYSB2aWRlbz8iLCJsayI6IkdoNXhkV2xqYTJ4NUlHRmtaQ0J6ZFdKMGFYUnNaWE1nZEc4Z2RtbGtaVzgiLCJicyI6ImMtUHk1OUwyeUM5WFNFN01VX0JVS0N6TlRNN09xVlJJVEVsUktDNU5Lc2tzeVVrdFZpakpWMGhVS010TVNjMjNOMUtRa3NPcENLeUV5NXBMR21RZ2tKLWVXb0trSUQ5UHdkREEza2hHU2lvRHB6UlhFcGRwZUVaaWlVSW0wTUNNVklXazFPSVNoYlNpMUZTRnhJSUNzRHV3Mmxsc2I2UXBwUTVXakZjZDJDZ3VieTVsWjZCdm5ZSDJ1QWVFNEZCcWI2UWlwUVFLbEdTZ3N2U0NFaHpLQkJnQiIsImlkIjoiZmNfbFBJQ2E1TzlHdmp6eWNrUGlNeXZ1UW9fMyJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlZITnRSMlY0YlhkWmFHNW5NVzQzWkdSNWRVTmxWVmxNTm1wbmIzTnVSWFpXYzJaR1dHMVBaRlEwVlZWdk1VaG1UV1ExWkVsNGRIRm5UVk5NTjFkQmIwMW1Zbll0TTFGR1oyWm9ZMGxUZURKb01GWmhaVlozTjJaelp4SVhiRkJKUTJFMVR6bEhkbXA2ZVdOclVHbE5lWFoxVVc4YUlrRklUakJGTjBVdFRuZHhjRFEzUldWM2VtMU1NMmh1UkMxU1ZqUjJSMmRuVm1jIiwiZmN2IjoiMyIsImVpIjoibFBJQ2E1TzlHdmp6eWNrUGlNeXZ1UW8iLCJxYyI6ImMtT3lMYzlJTEZISUxGWW95VWhWU0Vzc0xra3RMbEVvVDZ4VUtNbFhTRXhKVVNndVRTckpMTWxKTFFZSkdCb29sR1dtcE9ZWEt3RDE1T2NscHdvdzFPNjQtdElPQUEiLCJxdWVzdGlvbiI6IkhvdyBjYW4gSSBxdWlja2x5IGFkZCBzdWJ0aXRsZXMgdG8gYSB2aWRlbz8iLCJsayI6IkdoNXhkV2xqYTJ4NUlHRmtaQ0J6ZFdKMGFYUnNaWE1nZEc4Z2RtbGtaVzgiLCJicyI6ImMtUHk1OUwyeUM5WFNFN01VX0JVS0N6TlRNN09xVlJJVEVsUktDNU5Lc2tzeVVrdFZpakpWMGhVS010TVNjMjNOMUtRa3NPcENLeUV5NXBMR21RZ2tKLWVXb0trSUQ5UHdkREEza2hHU2lvRHB6UlhFcGRwZUVaaWlVSW0wTUNNVklXazFPSVNoYlNpMUZTRnhJSUNzRHV3Mmxsc2I2UXBwUTVXakZjZDJDZ3VieTVsWjZCdm5ZSDJ1QWVFNEZCcWI2UWlwUVFLbEdTZ3N2U0NFaHpLQkJnQiIsImlkIjoiZmNfbFBJQ2E1TzlHdmp6eWNrUGlNeXZ1UW9fMyJ9"
+      },
+      {
+        "question": "How to get subtitles on 10?",
+        "type": "ai_overview",
+        "page_token": "GmMx4nicHZNJkqNIEEUXfZbKjbIrQYBKpFlaGUiMKUAEQTBsZAGBQCIYUgqJYVen6Av0qfo0TdXi-d_4wr_5_7_-pZe2_u-vfyrG-vv729swDN_Lritp8T3vmjd8n9r87dzRy_lnQW_5x-7L2juGJiBKvBxqgktlO417xzOAVTR877a6EXByG8SuGgjljClqs2gYQ1RPmV7tSY2-cGN_YlM1AAVGxhPJ08CYIDc8QNCjWGVFow2OwRiKap7osod2fBoYw-iYdoNbZyTQPmZ15aGrfnB0dQxC2kJB3yFqH704DfMoZQV175kmi3mTrHGtWwHHVJ_aqbNHBoiq3uFtz53TiKBedfTtmMbJ7EBHOqBUSqNahHPN-xGqQxPdwN6fXOg66ZXeIVctXvrZR_aY86h2eZvzYjChpjdC1PEBopciTAaosSNu2IZEjPmCMhBDFt0rmZBhH-DsjE5YtUEoPfwY1IdoNHy-4zJUQdiADZoVAcxE8q_qOdLBNdSkeLn1jLlw9HT3iffVwzFRDVCVuFAXyI73k4jss9juQq7nQcN74dX-grzsZ0J6DKjb-rE9uiHwoO6mLiVnXMvUb2hUNGwOYxJAjXRenIiw1Ru8Bq3foOviNUr4_uy0tpVN3BpDgPM93RUN3eQQPbFGu2IPbAypjaJk8iE4pjrBLiz5nGOP5X2bdLTiTFdtf63xcKYmafpNEbm30KBuEad8GG3xbq0nnqYHwERJqm-5l68PsxtWrFuVBVvdHxm7MFrcV1274rlvgv7S_A6iYonSYPtKpChYUQfFUlQlLVXlc9HPRQ-LHjpVKS1tUDR1WuBKLQsMWbBM8LQMQslOnUlkczgG9zR2ymwtlg5UTmtFU8Rlf7OwXfh74eVPFT5O54a9N5jQ19Myu_eCvJ4u5P1PQ070aO2w5MnG8zpPeX28ONPz4Xcn8fU03m_nd8U8_nicxUOfRNaBrq0aC1VxNHcjK01yO1E2fBMU_ocsCZK03oqbjfw_kqY3hg",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=GmMx4nicHZNJkqNIEEUXfZbKjbIrQYBKpFlaGUiMKUAEQTBsZAGBQCIYUgqJYVen6Av0qfo0TdXi-d_4wr_5_7_-pZe2_u-vfyrG-vv729swDN_Lritp8T3vmjd8n9r87dzRy_lnQW_5x-7L2juGJiBKvBxqgktlO417xzOAVTR877a6EXByG8SuGgjljClqs2gYQ1RPmV7tSY2-cGN_YlM1AAVGxhPJ08CYIDc8QNCjWGVFow2OwRiKap7osod2fBoYw-iYdoNbZyTQPmZ15aGrfnB0dQxC2kJB3yFqH704DfMoZQV175kmi3mTrHGtWwHHVJ_aqbNHBoiq3uFtz53TiKBedfTtmMbJ7EBHOqBUSqNahHPN-xGqQxPdwN6fXOg66ZXeIVctXvrZR_aY86h2eZvzYjChpjdC1PEBopciTAaosSNu2IZEjPmCMhBDFt0rmZBhH-DsjE5YtUEoPfwY1IdoNHy-4zJUQdiADZoVAcxE8q_qOdLBNdSkeLn1jLlw9HT3iffVwzFRDVCVuFAXyI73k4jss9juQq7nQcN74dX-grzsZ0J6DKjb-rE9uiHwoO6mLiVnXMvUb2hUNGwOYxJAjXRenIiw1Ru8Bq3foOviNUr4_uy0tpVN3BpDgPM93RUN3eQQPbFGu2IPbAypjaJk8iE4pjrBLiz5nGOP5X2bdLTiTFdtf63xcKYmafpNEbm30KBuEad8GG3xbq0nnqYHwERJqm-5l68PsxtWrFuVBVvdHxm7MFrcV1274rlvgv7S_A6iYonSYPtKpChYUQfFUlQlLVXlc9HPRQ-LHjpVKS1tUDR1WuBKLQsMWbBM8LQMQslOnUlkczgG9zR2ymwtlg5UTmtFU8Rlf7OwXfh74eVPFT5O54a9N5jQ19Myu_eCvJ4u5P1PQ070aO2w5MnG8zpPeX28ONPz4Xcn8fU03m_nd8U8_nicxUOfRNaBrq0aC1VxNHcjK01yO1E2fBMU_ocsCZK03oqbjfw_kqY3hg",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlZITnRSMlY0YlhkWmFHNW5NVzQzWkdSNWRVTmxWVmxNTm1wbmIzTnVSWFpXYzJaR1dHMVBaRlEwVlZWdk1VaG1UV1ExWkVsNGRIRm5UVk5NTjFkQmIwMW1Zbll0TTFGR1oyWm9ZMGxUZURKb01GWmhaVlozTjJaelp4SVhiRkJKUTJFMVR6bEhkbXA2ZVdOclVHbE5lWFoxVVc4YUlrRklUakJGTjBVdFRuZHhjRFEzUldWM2VtMU1NMmh1UkMxU1ZqUjJSMmRuVm1jIiwiZmN2IjoiMyIsImVpIjoibFBJQ2E1TzlHdmp6eWNrUGlNeXZ1UW8iLCJxYyI6ImMtT3lMYzlJTEZISUxGWW95VWhWU0Vzc0xra3RMbEVvVDZ4VUtNbFhTRXhKVVNndVRTckpMTWxKTFFZSkdCb29sR1dtcE9ZWEt3RDE1T2NscHdvdzFPNjQtdElPQUEiLCJxdWVzdGlvbiI6IkhvdyB0byBnZXQgc3VidGl0bGVzIG9uIDEwPyIsImxrIjoiR2hwb2IzY2dkRzhnWjJWMElITjFZblJwZEd4bGN5QnZiaUF4TUEiLCJicyI6ImMtUHk1OUwyeUM5WFNFN01VX0JVS0N6TlRNN09xVlJJVEVsUktDNU5Lc2tzeVVrdFZpakpWMGhVS010TVNjMjNOMUtRa3NPcENLeUV5NXBMR21RZ2tKLWVXb0trSUQ5UHdkREEza2hHU2lvRHB6UlhFcGRwZUVaaWlVSW0wTUNNVklXazFPSVNoYlNpMUZTRnhJSUNzRHV3Mmxsc2I2UXBwUTVXakZjZDJDZ3VieTVsWjZCdm5ZSDJ1QWVFNEZCcWI2UWlwUVFLbEdTZ3N2U0NFaHpLQkJnQiIsImlkIjoiZmNfbFBJQ2E1TzlHdmp6eWNrUGlNeXZ1UW9fMyJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlZITnRSMlY0YlhkWmFHNW5NVzQzWkdSNWRVTmxWVmxNTm1wbmIzTnVSWFpXYzJaR1dHMVBaRlEwVlZWdk1VaG1UV1ExWkVsNGRIRm5UVk5NTjFkQmIwMW1Zbll0TTFGR1oyWm9ZMGxUZURKb01GWmhaVlozTjJaelp4SVhiRkJKUTJFMVR6bEhkbXA2ZVdOclVHbE5lWFoxVVc4YUlrRklUakJGTjBVdFRuZHhjRFEzUldWM2VtMU1NMmh1UkMxU1ZqUjJSMmRuVm1jIiwiZmN2IjoiMyIsImVpIjoibFBJQ2E1TzlHdmp6eWNrUGlNeXZ1UW8iLCJxYyI6ImMtT3lMYzlJTEZISUxGWW95VWhWU0Vzc0xra3RMbEVvVDZ4VUtNbFhTRXhKVVNndVRTckpMTWxKTFFZSkdCb29sR1dtcE9ZWEt3RDE1T2NscHdvdzFPNjQtdElPQUEiLCJxdWVzdGlvbiI6IkhvdyB0byBnZXQgc3VidGl0bGVzIG9uIDEwPyIsImxrIjoiR2hwb2IzY2dkRzhnWjJWMElITjFZblJwZEd4bGN5QnZiaUF4TUEiLCJicyI6ImMtUHk1OUwyeUM5WFNFN01VX0JVS0N6TlRNN09xVlJJVEVsUktDNU5Lc2tzeVVrdFZpakpWMGhVS010TVNjMjNOMUtRa3NPcENLeUV5NXBMR21RZ2tKLWVXb0trSUQ5UHdkREEza2hHU2lvRHB6UlhFcGRwZUVaaWlVSW0wTUNNVklXazFPSVNoYlNpMUZTRnhJSUNzRHV3Mmxsc2I2UXBwUTVXakZjZDJDZ3VieTVsWjZCdm5ZSDJ1QWVFNEZCcWI2UWlwUVFLbEdTZ3N2U0NFaHpLQkJnQiIsImlkIjoiZmNfbFBJQ2E1TzlHdmp6eWNrUGlNeXZ1UW9fMyJ9"
+      },
+      {
+        "question": "What is the best free app to add subtitles to videos?",
+        "type": "ai_overview",
+        "page_token": "pnOWqHicHZPNbqNIFIUX8yydjaMOPybdjhSNwPzHgKGoKsPGKigMuIqfxGWDvet3maeaeZmhe3Hup3tXR7rn_PqHtz3796__GiHGy9vLyzRN3-thqHn1vRy6F3K59-XLaeDt6e-Kf5Xv28_SDBxLzTiNShuqEdb8PDVeIyfxqk4ew952gLTpwSE0gFo_CEd9gacZInYv7MakDH2Szv8gruEkPHEKmWqRlcwZCuEuTUZ0METVWVPgCIEwk6m9idBWzoEzzYHrd6QPZpr6-4JzCZ_tXWAbM4A8T1V7S2x_Hx1yWOJcVDyeU4ZUCjdyrsxe7vhJjFGY9IYV49mlcsOKM_cOD9ssXDgF6iDnbiZ2qf4ALNaAUssxyjvoIiNl4yFUJAGsfAhZI1IFTjuozYGNutDZnKkEleCcuKnUzJGd3cuOrZEl9qS7PApmKzH24zTNZtptZtL7AJzDiDJbRbxRA0xJhYcZKnYDXBSUHc1SlnfJA40AJdei8zPAjVeEqQ-YL6fWpg-tsA1VakE7nkMz3y0ezCgtJ4oTEUuaAOdAzh4-hCr6yFv5CpU5xAdLyxQZR1DsC5c2QEYdcea4cBMIlCZCUi5SNKoHxb6Sg99TxAnFfL_8FZScqcCsVeDaPsAJD7l_JyqXqElvkGm3UPkpI5zd8dlnoZuTMGUyscQ1MulnBMP1YcmD1dALtLiZpWgfQaqQflz8iJhAWaM9Sop52BVSQ4iiTZDNV4Ksp8933BCxai8r0VSrorqI1emrqlZkHFdiWBFKV5drIVrBq8vvw62l1XD5ptpP3e-k6t5am_xYx7pOdGPSPd3Q89rQPxZ-LNwt3A2GXnvWpFvGfZFUWzJSmoZujbG8GxJxYJ116LHsXdkh7jn2VG4NqbgbTe7EdamiljpcKhz08Nzk5rn5mDvoVj6OmR6btR67w6Jp0VqPrac_dXo_njrx1hHKn4_LHN4q-nxs6duflh353tsSLdo4t_PjXrJ9G9xv13g4qs_H-fJ1etPd_Y_rab0bM-ztuOIxojbV3t3Oonbp15GL6Zuqyz82mqppys_16-vmf_vYUNk",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=pnOWqHicHZPNbqNIFIUX8yydjaMOPybdjhSNwPzHgKGoKsPGKigMuIqfxGWDvet3maeaeZmhe3Hup3tXR7rn_PqHtz3796__GiHGy9vLyzRN3-thqHn1vRy6F3K59-XLaeDt6e-Kf5Xv28_SDBxLzTiNShuqEdb8PDVeIyfxqk4ew952gLTpwSE0gFo_CEd9gacZInYv7MakDH2Szv8gruEkPHEKmWqRlcwZCuEuTUZ0METVWVPgCIEwk6m9idBWzoEzzYHrd6QPZpr6-4JzCZ_tXWAbM4A8T1V7S2x_Hx1yWOJcVDyeU4ZUCjdyrsxe7vhJjFGY9IYV49mlcsOKM_cOD9ssXDgF6iDnbiZ2qf4ALNaAUssxyjvoIiNl4yFUJAGsfAhZI1IFTjuozYGNutDZnKkEleCcuKnUzJGd3cuOrZEl9qS7PApmKzH24zTNZtptZtL7AJzDiDJbRbxRA0xJhYcZKnYDXBSUHc1SlnfJA40AJdei8zPAjVeEqQ-YL6fWpg-tsA1VakE7nkMz3y0ezCgtJ4oTEUuaAOdAzh4-hCr6yFv5CpU5xAdLyxQZR1DsC5c2QEYdcea4cBMIlCZCUi5SNKoHxb6Sg99TxAnFfL_8FZScqcCsVeDaPsAJD7l_JyqXqElvkGm3UPkpI5zd8dlnoZuTMGUyscQ1MulnBMP1YcmD1dALtLiZpWgfQaqQflz8iJhAWaM9Sop52BVSQ4iiTZDNV4Ksp8933BCxai8r0VSrorqI1emrqlZkHFdiWBFKV5drIVrBq8vvw62l1XD5ptpP3e-k6t5am_xYx7pOdGPSPd3Q89rQPxZ-LNwt3A2GXnvWpFvGfZFUWzJSmoZujbG8GxJxYJ116LHsXdkh7jn2VG4NqbgbTe7EdamiljpcKhz08Nzk5rn5mDvoVj6OmR6btR67w6Jp0VqPrac_dXo_njrx1hHKn4_LHN4q-nxs6duflh353tsSLdo4t_PjXrJ9G9xv13g4qs_H-fJ1etPd_Y_rab0bM-ztuOIxojbV3t3Oonbp15GL6Zuqyz82mqppys_16-vmf_vYUNk",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlZITnRSMlY0YlhkWmFHNW5NVzQzWkdSNWRVTmxWVmxNTm1wbmIzTnVSWFpXYzJaR1dHMVBaRlEwVlZWdk1VaG1UV1ExWkVsNGRIRm5UVk5NTjFkQmIwMW1Zbll0TTFGR1oyWm9ZMGxUZURKb01GWmhaVlozTjJaelp4SVhiRkJKUTJFMVR6bEhkbXA2ZVdOclVHbE5lWFoxVVc4YUlrRklUakJGTjBVdFRuZHhjRFEzUldWM2VtMU1NMmh1UkMxU1ZqUjJSMmRuVm1jIiwiZmN2IjoiMyIsImVpIjoibFBJQ2E1TzlHdmp6eWNrUGlNeXZ1UW8iLCJxYyI6ImMtT3lMYzlJTEZISUxGWW95VWhWU0Vzc0xra3RMbEVvVDZ4VUtNbFhTRXhKVVNndVRTckpMTWxKTFFZSkdCb29sR1dtcE9ZWEt3RDE1T2NscHdvdzFPNjQtdElPQUEiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgZnJlZSBhcHAgdG8gYWRkIHN1YnRpdGxlcyB0byB2aWRlb3M/IiwibGsiOiJHaWRpWlhOMElHRndjQ0IwYnlCaFpHUWdjM1ZpZEdsMGJHVnpJSFJ2SUhacFpHVnZJR1p5WldVIiwiYnMiOiJjLVB5NTlMMnlDOVhTRTdNVV9CVUtDek5UTTdPcVZSSVRFbFJLQzVOS3Nrc3lVa3RWaWpKVjBoVUtNdE1TYzIzTjFLUWtzT3BDS3lFeTVwTEdtUWdrSi1lV29La0lEOVB3ZERBM2toR1Npb0RwelJYRXBkcGVFWmlpVUltME1DTVZJV2sxT0lTaGJTaTFGU0Z4SUlDc0R1dzJsbHNiNlFwcFE1V2pGY2QyQ2d1Ynk1bFo2QnZuWUgydUFlRTRGQnFiNlFpcFFRS2xHU2dzdlNDRWh6S0JCZ0IiLCJpZCI6ImZjX2xQSUNhNU85R3Zqenlja1BpTXl2dVFvXzMifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlZITnRSMlY0YlhkWmFHNW5NVzQzWkdSNWRVTmxWVmxNTm1wbmIzTnVSWFpXYzJaR1dHMVBaRlEwVlZWdk1VaG1UV1ExWkVsNGRIRm5UVk5NTjFkQmIwMW1Zbll0TTFGR1oyWm9ZMGxUZURKb01GWmhaVlozTjJaelp4SVhiRkJKUTJFMVR6bEhkbXA2ZVdOclVHbE5lWFoxVVc4YUlrRklUakJGTjBVdFRuZHhjRFEzUldWM2VtMU1NMmh1UkMxU1ZqUjJSMmRuVm1jIiwiZmN2IjoiMyIsImVpIjoibFBJQ2E1TzlHdmp6eWNrUGlNeXZ1UW8iLCJxYyI6ImMtT3lMYzlJTEZISUxGWW95VWhWU0Vzc0xra3RMbEVvVDZ4VUtNbFhTRXhKVVNndVRTckpMTWxKTFFZSkdCb29sR1dtcE9ZWEt3RDE1T2NscHdvdzFPNjQtdElPQUEiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgZnJlZSBhcHAgdG8gYWRkIHN1YnRpdGxlcyB0byB2aWRlb3M%2FIiwibGsiOiJHaWRpWlhOMElHRndjQ0IwYnlCaFpHUWdjM1ZpZEdsMGJHVnpJSFJ2SUhacFpHVnZJR1p5WldVIiwiYnMiOiJjLVB5NTlMMnlDOVhTRTdNVV9CVUtDek5UTTdPcVZSSVRFbFJLQzVOS3Nrc3lVa3RWaWpKVjBoVUtNdE1TYzIzTjFLUWtzT3BDS3lFeTVwTEdtUWdrSi1lV29La0lEOVB3ZERBM2toR1Npb0RwelJYRXBkcGVFWmlpVUltME1DTVZJV2sxT0lTaGJTaTFGU0Z4SUlDc0R1dzJsbHNiNlFwcFE1V2pGY2QyQ2d1Ynk1bFo2QnZuWUgydUFlRTRGQnFiNlFpcFFRS2xHU2dzdlNDRWh6S0JCZ0IiLCJpZCI6ImZjX2xQSUNhNU85R3Zqenlja1BpTXl2dVFvXzMifQ%3D%3D"
+      },
+      {
+        "question": "Can ChatGPT add subtitles to video?",
+        "type": "ai_overview",
+        "page_token": "rdGC6nicHZNLcqNIFEUHvZbyxI4yCOMqOcLRAXImH6OUSDKTz0SRkEgIko8lJD6z3kuvppZQq2m6BvfdwZu8E-_ef_6V56b6_devou-769vz8zAM309te5L596ytn_l1arLnYyvPx79zecneN5f2Y2sBjUuxywjQdqBwE2LSnYWdvFY71EArUNZNECEz0E4zl6xJw2GkrJpSWHyIin3x2v3ktmlhia1UFfoO4DFmiHoEdywy-7wGw9bqexZWqoDrHduoSWAN49Z2a95sR0HcfVpDJSyht4XmGDBDIQ3cMOnudxHVsjDpc4muQQVmtEoUTkwQVn1DaYJwYwI_HG2hFlVaSiea4Udq04Fp8CZmqhIFTMTSTTJXqh-yitpsxlU1IYK2SSmvRCkWlm72mTtmKquQ6iq7CI9p3VmUtWrA5Dmn8UBAv-d1_yo-it5f_XwR1voFlUJllksCVQyIwjaUxoAlxKksUKz0KFJgIir9MymRj2yBcWkehcZ0XHUemrEblHQWFjvurO6czuhC6yT0IsQyDdp8xoApbsegq8eRMW21xMsoDFLNhcFymBd1k9-IHQHrJIWu6jN2J8ueqy4PSnTJZXdDwJmI1uE0oqOQ7p1X7pkQdk00COhcHEWN4oWvEWG3wrY75kDvxMwaVPoKh6aJIxfHbD2gGilbmsSZWnwlpZi3Z3VDbckzlnhpWXSpRvu4MdtshUeKnSiFpuuvgEpmaYu6e83Dhc2SKI8SlYY_-fJ-wKNkINJdhYQOD1_vG948bgreW3vyyIV4vN7S_tzL_PrYt4_3s8jbbxp8qP8PrOG86IPrG6FhcMMcDMcwjeRkGp-Lfy7uLe61pnFywGAAc1qknEDpr-DNAaiNI2xT6J_iEFeOjdS4wZ2wRplNppJO5oqHWKbzITb8j5Ph2-2iYdGL4YOHP-15Pxzr_q3mQj4dltm-5eLpcBZvf0p1kHtnw_Xd2rqX85RV-_N2ut_89rB6OozXy_HNsPc_bscXr4tDx5Mrp-Jake_tzdifbHE5yH74phnqj7Wu6foSs9fX9X_HB0xH",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=rdGC6nicHZNLcqNIFEUHvZbyxI4yCOMqOcLRAXImH6OUSDKTz0SRkEgIko8lJD6z3kuvppZQq2m6BvfdwZu8E-_ef_6V56b6_devou-769vz8zAM309te5L596ytn_l1arLnYyvPx79zecneN5f2Y2sBjUuxywjQdqBwE2LSnYWdvFY71EArUNZNECEz0E4zl6xJw2GkrJpSWHyIin3x2v3ktmlhia1UFfoO4DFmiHoEdywy-7wGw9bqexZWqoDrHduoSWAN49Z2a95sR0HcfVpDJSyht4XmGDBDIQ3cMOnudxHVsjDpc4muQQVmtEoUTkwQVn1DaYJwYwI_HG2hFlVaSiea4Udq04Fp8CZmqhIFTMTSTTJXqh-yitpsxlU1IYK2SSmvRCkWlm72mTtmKquQ6iq7CI9p3VmUtWrA5Dmn8UBAv-d1_yo-it5f_XwR1voFlUJllksCVQyIwjaUxoAlxKksUKz0KFJgIir9MymRj2yBcWkehcZ0XHUemrEblHQWFjvurO6czuhC6yT0IsQyDdp8xoApbsegq8eRMW21xMsoDFLNhcFymBd1k9-IHQHrJIWu6jN2J8ueqy4PSnTJZXdDwJmI1uE0oqOQ7p1X7pkQdk00COhcHEWN4oWvEWG3wrY75kDvxMwaVPoKh6aJIxfHbD2gGilbmsSZWnwlpZi3Z3VDbckzlnhpWXSpRvu4MdtshUeKnSiFpuuvgEpmaYu6e83Dhc2SKI8SlYY_-fJ-wKNkINJdhYQOD1_vG948bgreW3vyyIV4vN7S_tzL_PrYt4_3s8jbbxp8qP8PrOG86IPrG6FhcMMcDMcwjeRkGp-Lfy7uLe61pnFywGAAc1qknEDpr-DNAaiNI2xT6J_iEFeOjdS4wZ2wRplNppJO5oqHWKbzITb8j5Ph2-2iYdGL4YOHP-15Pxzr_q3mQj4dltm-5eLpcBZvf0p1kHtnw_Xd2rqX85RV-_N2ut_89rB6OozXy_HNsPc_bscXr4tDx5Mrp-Jake_tzdifbHE5yH74phnqj7Wu6foSs9fX9X_HB0xH",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlZITnRSMlY0YlhkWmFHNW5NVzQzWkdSNWRVTmxWVmxNTm1wbmIzTnVSWFpXYzJaR1dHMVBaRlEwVlZWdk1VaG1UV1ExWkVsNGRIRm5UVk5NTjFkQmIwMW1Zbll0TTFGR1oyWm9ZMGxUZURKb01GWmhaVlozTjJaelp4SVhiRkJKUTJFMVR6bEhkbXA2ZVdOclVHbE5lWFoxVVc4YUlrRklUakJGTjBVdFRuZHhjRFEzUldWM2VtMU1NMmh1UkMxU1ZqUjJSMmRuVm1jIiwiZmN2IjoiMyIsImVpIjoibFBJQ2E1TzlHdmp6eWNrUGlNeXZ1UW8iLCJxYyI6ImMtT3lMYzlJTEZISUxGWW95VWhWU0Vzc0xra3RMbEVvVDZ4VUtNbFhTRXhKVVNndVRTckpMTWxKTFFZSkdCb29sR1dtcE9ZWEt3RDE1T2NscHdvdzFPNjQtdElPQUEiLCJxdWVzdGlvbiI6IkNhbiBDaGF0R1BUIGFkZCBzdWJ0aXRsZXMgdG8gdmlkZW8/IiwibGsiOiJHaUpqWVc0Z1kyaGhkR2R3ZENCaFpHUWdjM1ZpZEdsMGJHVnpJSFJ2SUhacFpHVnYiLCJicyI6ImMtUHk1OUwyeUM5WFNFN01VX0JVS0N6TlRNN09xVlJJVEVsUktDNU5Lc2tzeVVrdFZpakpWMGhVS010TVNjMjNOMUtRa3NPcENLeUV5NXBMR21RZ2tKLWVXb0trSUQ5UHdkREEza2hHU2lvRHB6UlhFcGRwZUVaaWlVSW0wTUNNVklXazFPSVNoYlNpMUZTRnhJSUNzRHV3Mmxsc2I2UXBwUTVXakZjZDJDZ3VieTVsWjZCdm5ZSDJ1QWVFNEZCcWI2UWlwUVFLbEdTZ3N2U0NFaHpLQkJnQiIsImlkIjoiZmNfbFBJQ2E1TzlHdmp6eWNrUGlNeXZ1UW9fMyJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlZITnRSMlY0YlhkWmFHNW5NVzQzWkdSNWRVTmxWVmxNTm1wbmIzTnVSWFpXYzJaR1dHMVBaRlEwVlZWdk1VaG1UV1ExWkVsNGRIRm5UVk5NTjFkQmIwMW1Zbll0TTFGR1oyWm9ZMGxUZURKb01GWmhaVlozTjJaelp4SVhiRkJKUTJFMVR6bEhkbXA2ZVdOclVHbE5lWFoxVVc4YUlrRklUakJGTjBVdFRuZHhjRFEzUldWM2VtMU1NMmh1UkMxU1ZqUjJSMmRuVm1jIiwiZmN2IjoiMyIsImVpIjoibFBJQ2E1TzlHdmp6eWNrUGlNeXZ1UW8iLCJxYyI6ImMtT3lMYzlJTEZISUxGWW95VWhWU0Vzc0xra3RMbEVvVDZ4VUtNbFhTRXhKVVNndVRTckpMTWxKTFFZSkdCb29sR1dtcE9ZWEt3RDE1T2NscHdvdzFPNjQtdElPQUEiLCJxdWVzdGlvbiI6IkNhbiBDaGF0R1BUIGFkZCBzdWJ0aXRsZXMgdG8gdmlkZW8%2FIiwibGsiOiJHaUpqWVc0Z1kyaGhkR2R3ZENCaFpHUWdjM1ZpZEdsMGJHVnpJSFJ2SUhacFpHVnYiLCJicyI6ImMtUHk1OUwyeUM5WFNFN01VX0JVS0N6TlRNN09xVlJJVEVsUktDNU5Lc2tzeVVrdFZpakpWMGhVS010TVNjMjNOMUtRa3NPcENLeUV5NXBMR21RZ2tKLWVXb0trSUQ5UHdkREEza2hHU2lvRHB6UlhFcGRwZUVaaWlVSW0wTUNNVklXazFPSVNoYlNpMUZTRnhJSUNzRHV3Mmxsc2I2UXBwUTVXakZjZDJDZ3VieTVsWjZCdm5ZSDJ1QWVFNEZCcWI2UWlwUVFLbEdTZ3N2U0NFaHpLQkJnQiIsImlkIjoiZmNfbFBJQ2E1TzlHdmp6eWNrUGlNeXZ1UW9fMyJ9"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "njsJM3iczVbdcrpGFJ_pdV-j3BgFP4iaGSazICpRo8SkibmxsCwfgqy6KCGX_2foI_SqD9MH6GP0Cbp8aMBokn-nM-2ZwWV3z_c5P47ffvMc3_3zx1_sIFiRK5YNw7BiYWx5qALxktVI5EPWxB7ZQPva9gTkMwRvNxA5hgDtDV6ibJ_tKlhnLE_Yuky0E-oMJALHIEfwJoqk8eN2b7d4jaA7cUbRbqtiJtEvzHWNoAU1_7Ig7JylP-5P9Q7dVEgF-fOeWOk2HeChYdXn3UqNq9UrY1ZbUh7w35IsAsWiqwuA9RGfqH5Vo2pTrUA6lpfTNXc-ArFNBUhKenPO_jRWGktKYuIxfcbAXEzcHn2_3XM9KJ_4ReVB77B7zNxKF_fY3c9IOojGERR0fUQnkpjkZVDQXLw7Rb3ijTjrgE6YU_8unMGbd6noQ_wTgm5jMgKqqp61tCeqejADnAc-6ZO9Rw_tm2lApUTWsGiXc6y-oUuVdaANk5cNiZtfum9zuOdKZWfV9Yc63kLOv9z2H5fRQ4g6-A6wUKd8HtYMZMztOXed7Ku1Ks-1683WRQI8SA7II3nkbTDhAr81KgdcZVgRq3vMFaM9TpaqKOBUM1mitU9FkQ4K1HwhkzQc5cotWO5mqw1ERQWwWG51IA_zTBQuHVrllmXnmN4kpA8wdxwHUGSAMwUP2REodps6A_L0lJ34fXxSbRxHYrVorJdhTukmRpS469Kb95i7AzQPcXqzFBc-jqIkWSJNsBp_KQZUPJCshFdp0CRZ-4qpskzDk8ODWF6HlAbSBQWScp5QJ-WYKwSWDNztgEgNJztOvbcyS6JqHbKS2JDeoy6huC5d--TVl0j-yocl9WIPsiPM5LEmT1eX7Y45WerA2D1ptVd9bkSLNS_rd9ZpbOGl_n1jDf7vAbgfel7W-WcBGFv6EgBV-yMAvh96spQCUHLPAHCaAvD00JvsuY6G3nsASsDJATAeelTiJcvFvwFA8XMA5suVB-BbqQoAlM8BMB56eQDOFvJ-6J0GYDb03gD4T4ee-P1DL8EhSpfiBNwurPOTUKw1X55N_t4bKetmELX5PoHuUzPw1tank9BcBldLzfAu5o5xJdZugsi4mNMDfIUMZi082lpQckgpsFHJ1EiASFAKtagU4JJmGCWy1QMn8BCJD6pcaecYCJMSlcE-RNfM0ttggdMaMgm4AW9YreGss5o65V2fvw_LT69ddaKPtBCT-RCQqDFojEiE9fKgVetUh6SMb-vI9zsRea6Xebc5JPJjtd5yQ3NXNtXd_W230VOrEOkDpz18HpfrfdByoynXfFW24d2MXyN3DJVHo7-TpFFNUsLEHyKMf-bgK40osjlmuYEC7YBGG9yq8f87DYghuElaVrxb03VI-0HHIlD7M6B2LPpgWiyGQG2OyE6Al3wd8hwHNc1smshkllYQrYQ2xxB_I1R_hxukBTT3WvCH-8Nfv_4Nkw2KYA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=njsJM3iczVbdcrpGFJ_pdV-j3BgFP4iaGSazICpRo8SkibmxsCwfgqy6KCGX_2foI_SqD9MH6GP0Cbp8aMBokn-nM-2ZwWV3z_c5P47ffvMc3_3zx1_sIFiRK5YNw7BiYWx5qALxktVI5EPWxB7ZQPva9gTkMwRvNxA5hgDtDV6ibJ_tKlhnLE_Yuky0E-oMJALHIEfwJoqk8eN2b7d4jaA7cUbRbqtiJtEvzHWNoAU1_7Ig7JylP-5P9Q7dVEgF-fOeWOk2HeChYdXn3UqNq9UrY1ZbUh7w35IsAsWiqwuA9RGfqH5Vo2pTrUA6lpfTNXc-ArFNBUhKenPO_jRWGktKYuIxfcbAXEzcHn2_3XM9KJ_4ReVB77B7zNxKF_fY3c9IOojGERR0fUQnkpjkZVDQXLw7Rb3ijTjrgE6YU_8unMGbd6noQ_wTgm5jMgKqqp61tCeqejADnAc-6ZO9Rw_tm2lApUTWsGiXc6y-oUuVdaANk5cNiZtfum9zuOdKZWfV9Yc63kLOv9z2H5fRQ4g6-A6wUKd8HtYMZMztOXed7Ku1Ks-1683WRQI8SA7II3nkbTDhAr81KgdcZVgRq3vMFaM9TpaqKOBUM1mitU9FkQ4K1HwhkzQc5cotWO5mqw1ERQWwWG51IA_zTBQuHVrllmXnmN4kpA8wdxwHUGSAMwUP2REodps6A_L0lJ34fXxSbRxHYrVorJdhTukmRpS469Kb95i7AzQPcXqzFBc-jqIkWSJNsBp_KQZUPJCshFdp0CRZ-4qpskzDk8ODWF6HlAbSBQWScp5QJ-WYKwSWDNztgEgNJztOvbcyS6JqHbKS2JDeoy6huC5d--TVl0j-yocl9WIPsiPM5LEmT1eX7Y45WerA2D1ptVd9bkSLNS_rd9ZpbOGl_n1jDf7vAbgfel7W-WcBGFv6EgBV-yMAvh96spQCUHLPAHCaAvD00JvsuY6G3nsASsDJATAeelTiJcvFvwFA8XMA5suVB-BbqQoAlM8BMB56eQDOFvJ-6J0GYDb03gD4T4ee-P1DL8EhSpfiBNwurPOTUKw1X55N_t4bKetmELX5PoHuUzPw1tank9BcBldLzfAu5o5xJdZugsi4mNMDfIUMZi082lpQckgpsFHJ1EiASFAKtagU4JJmGCWy1QMn8BCJD6pcaecYCJMSlcE-RNfM0ttggdMaMgm4AW9YreGss5o65V2fvw_LT69ddaKPtBCT-RCQqDFojEiE9fKgVetUh6SMb-vI9zsRea6Xebc5JPJjtd5yQ3NXNtXd_W230VOrEOkDpz18HpfrfdByoynXfFW24d2MXyN3DJVHo7-TpFFNUsLEHyKMf-bgK40osjlmuYEC7YBGG9yq8f87DYghuElaVrxb03VI-0HHIlD7M6B2LPpgWiyGQG2OyE6Al3wd8hwHNc1smshkllYQrYQ2xxB_I1R_hxukBTT3WvCH-8Nfv_4Nkw2KYA"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Fastest way to create subtitles for a video? : r/VideoEditing",
+        "link": "https://www.reddit.com/r/VideoEditing/comments/uhe3hi/fastest_way_to_create_subtitles_for_a_video/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnwEBxCJF176m3kQEXYltcmfONh-ABsd53lhXhJ-fUDZNYmira_rjUzv7E00edsi2zuYfJZsp2huvKa8dJCHTVtgBhkRewG954SaVkBEoDeG9stLxW_RLls56VWeFl7xVnP4DSTCVc_F7k4B4vcOw1rlhLk6Afx7CpfRSi8uGN7YKLIPORfpVWkEZmKcmcdDefxD-VPX4FxWMf5hd_cb1sDw&ved=2ahUKEwiT1-XP25uYAxX4eTIDHQjmK6cQFnoECCcQAQ&uoh=1",
+        "displayed_link": "40+ comments",
+        "date": "4 years ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+        "snippet": "I have a 51 minute file, and need to create subtitles. I have to edit almost all the cuts and texts from the auto generated file, it sucks. I have ...",
+        "sitelinks": {
+          "list": [
+            {
+              "title": "Easiest way to add subtitle in a video? : r ...",
+              "link": "https://www.google.com/goto?url=CAESmgEBxCJF18i4OvDY-IY9iCRuZWcN-SZRCkOlTuJs3pk9bZDEaHC6V7c4rnKeFFNWvNqDlrVYRJCCt2TWFOdISLwdQWyemKJOf3fy1WXPgHBOXq3MePBc0IKWhmR5Qs2jqfwG_NxezjD-bA4JN0xLnmeAPzNdI7m583Useo97gcq-DBpCMHWDM64FVyoFXV8zWDlOGyIbPc8v6unK&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ",
+              "answer_count": 55,
+              "date": "25 Feb 2021"
+            },
+            {
+              "title": "What are the fastest ways to create subtitles for many ...",
+              "link": "https://www.google.com/goto?url=CAESpgEBxCJF1xbzfkXufFlJ7quXLll1V5UKs3nON0DonDGEh2K2QB3Wbb6Jpu-_0FmZvA5_tgJBZV1w9JnY0rUmBbiAZ7I8AdybFOt3eBOkQCeMpqGn6kqqitpDw10M4IUTd5gzw_dqqzOFABAOU2bkxgy5YlPwQGBsvLUL1dgNvS6_dVe1X-wfepqYmVsBMehfsdYtQCfpDuomMzzV0HQ53eZ4nR7V896F&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ",
+              "answer_count": 42,
+              "date": "16 Jan 2024"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Adobe Premiere's automatic ones are generally pretty good, export an SRT for correction/adjustment in Subtitle Edit. YouTube can do it for you ...",
+            "source_info_link": "https://www.reddit.com/r/VideoEditing/comments/uhe3hi/fastest_way_to_create_subtitles_for_a_video/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuUBL2dvdG8_dXJsPUNBRVNud0VCeENKRjF5YkIxLXdFcndDb2lpemp4NnRJR2xNMVZwRHV3Mk9mWnJRaU95VG9wTnFMeHNPZmhaM21Fc0xsMENlcDg0Q3NVRkpMblVrNUFpaXpCRmFvdXFoMFlYTDUzNHVXX0Q1UWpDYWcxV0ZJNm9Ia0hEem1iM2hzZUVZektXaWJSR2pycTZoQ0NwRGVtZGNoN2VMZExMRDQ1c2p1WVp3Q3ZyM1dfRDBXZzdGQ3RkenlsRkpnMllETTlzWDZRX04tWHM2MWFGNnVZdEdOdGt1aGtWZxIEGgIIABqTCRIAGgAiACoAMgYIAhICdWs6AEIECAEQAEoAWgByAHoAgkDvCAgAEAAYACAAKh0KBHdoYXQVXr20PxoJbmVlZCBmYXN0GgV3aGF0cyoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKqQBCgdmYXN0ZXN0FTaWfEAaBzEwIHdheXMaBmEgZmFzdBoLYmVzdCBtZXRob2QaB2Vhc2llc3QaBGVhc3kaBGZhc3QaBmZhc3RlchoEZ29vZBoKbW9zdCByYXBpZBoJbmVlZCBmYXN0GgVxdWljaxoIcXVpY2tlc3QaB3F1aWNrbHkaCHNob3J0ZXN0GgpmYXN0ZXN0d2F5GgxpdjtwO2Zhc3Rlc3QqZwoDd2F5Feq7hEAaBzEwIHdheXMaC2Jlc3QgbWV0aG9kGgNob3caBW1lYW5zGgZtZXRob2QaCW5lZWQgZmFzdBoHcXVpY2tseRoEcm9hZBoFcm91dGUaBHdheXMaCmZhc3Rlc3R3YXkqCQoCdG8VAAAAACo3CgNhZGQV1hPPPxoKZm9yIGFkZGluZxoHaW5jbHVkZRoGaW5zZXJ0GglvZiBhZGRpbmcaA3B1dCpKCglzdWJ0aXRsZXMV-uOdQBoHY2FwdGlvbhoIY2FwdGlvbnMaCHN1YnRpdGxlGgtzdWJ0aXRsZSBpbhoOaXY7cDtzdWJ0aXRsZXMqCQoCdG8VAAAAACohCgIxMBWHaQE_GgN0ZW4aCDEwdmlkZW9zGgdpdjtuOzEwKh4KBnZpZGVvcxUMgdQ_GgV2aWRlbxoIMTB2aWRlb3MqCQoCYXQVAAAAACozCgRvbmNlFZUkJj4aBmEgdGltZRoDb25lGglzYW1lIHRpbWUaDnNpbXVsdGFuZW91c2x5MuUBL2dvdG8_dXJsPUNBRVNud0VCeENKRjF5YkIxLXdFcndDb2lpemp4NnRJR2xNMVZwRHV3Mk9mWnJRaU95VG9wTnFMeHNPZmhaM21Fc0xsMENlcDg0Q3NVRkpMblVrNUFpaXpCRmFvdXFoMFlYTDUzNHVXX0Q1UWpDYWcxV0ZJNm9Ia0hEem1iM2hzZUVZektXaWJSR2pycTZoQ0NwRGVtZGNoN2VMZExMRDQ1c2p1WVp3Q3ZyM1dfRDBXZzdGQ3RkenlsRkpnMllETTlzWDZRX04tWHM2MWFGNnVZdEdOdGt1aGtWZzpKPGI-RmFzdGVzdCB3YXk8L2I-IHRvIGNyZWF0ZSA8Yj5zdWJ0aXRsZXM8L2I-IGZvciBhIDxiPnZpZGVvPC9iPj8gLSBSZWRkaXRCogE8Yj5BZG9iZSBQcmVtaWVyZSYjMzk7cyBhdXRvbWF0aWMgb25lcyBhcmUgZ2VuZXJhbGx5IHByZXR0eSBnb29kPC9iPiwgZXhwb3J0IGFuIFNSVCBmb3IgY29ycmVjdGlvbi9hZGp1c3RtZW50IGluIFN1YnRpdGxlIEVkaXQuIFlvdVR1YmUgY2FuIGRvIGl0IGZvciB5b3UmbmJzcDsuLi5KAmF0SgN0aGVKAmlzSgJ0b1IDb25lUgV2aWRlb1IDaG93UgZhIHRpbWUiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuUBL2dvdG8_dXJsPUNBRVNud0VCeENKRjF5YkIxLXdFcndDb2lpemp4NnRJR2xNMVZwRHV3Mk9mWnJRaU95VG9wTnFMeHNPZmhaM21Fc0xsMENlcDg0Q3NVRkpMblVrNUFpaXpCRmFvdXFoMFlYTDUzNHVXX0Q1UWpDYWcxV0ZJNm9Ia0hEem1iM2hzZUVZektXaWJSR2pycTZoQ0NwRGVtZGNoN2VMZExMRDQ1c2p1WVp3Q3ZyM1dfRDBXZzdGQ3RkenlsRkpnMllETTlzWDZRX04tWHM2MWFGNnVZdEdOdGt1aGtWZxIEGgIIABqTCRIAGgAiACoAMgYIAhICdWs6AEIECAEQAEoAWgByAHoAgkDvCAgAEAAYACAAKh0KBHdoYXQVXr20PxoJbmVlZCBmYXN0GgV3aGF0cyoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKqQBCgdmYXN0ZXN0FTaWfEAaBzEwIHdheXMaBmEgZmFzdBoLYmVzdCBtZXRob2QaB2Vhc2llc3QaBGVhc3kaBGZhc3QaBmZhc3RlchoEZ29vZBoKbW9zdCByYXBpZBoJbmVlZCBmYXN0GgVxdWljaxoIcXVpY2tlc3QaB3F1aWNrbHkaCHNob3J0ZXN0GgpmYXN0ZXN0d2F5GgxpdjtwO2Zhc3Rlc3QqZwoDd2F5Feq7hEAaBzEwIHdheXMaC2Jlc3QgbWV0aG9kGgNob3caBW1lYW5zGgZtZXRob2QaCW5lZWQgZmFzdBoHcXVpY2tseRoEcm9hZBoFcm91dGUaBHdheXMaCmZhc3Rlc3R3YXkqCQoCdG8VAAAAACo3CgNhZGQV1hPPPxoKZm9yIGFkZGluZxoHaW5jbHVkZRoGaW5zZXJ0GglvZiBhZGRpbmcaA3B1dCpKCglzdWJ0aXRsZXMV-uOdQBoHY2FwdGlvbhoIY2FwdGlvbnMaCHN1YnRpdGxlGgtzdWJ0aXRsZSBpbhoOaXY7cDtzdWJ0aXRsZXMqCQoCdG8VAAAAACohCgIxMBWHaQE_GgN0ZW4aCDEwdmlkZW9zGgdpdjtuOzEwKh4KBnZpZGVvcxUMgdQ_GgV2aWRlbxoIMTB2aWRlb3MqCQoCYXQVAAAAACozCgRvbmNlFZUkJj4aBmEgdGltZRoDb25lGglzYW1lIHRpbWUaDnNpbXVsdGFuZW91c2x5MuUBL2dvdG8_dXJsPUNBRVNud0VCeENKRjF5YkIxLXdFcndDb2lpemp4NnRJR2xNMVZwRHV3Mk9mWnJRaU95VG9wTnFMeHNPZmhaM21Fc0xsMENlcDg0Q3NVRkpMblVrNUFpaXpCRmFvdXFoMFlYTDUzNHVXX0Q1UWpDYWcxV0ZJNm9Ia0hEem1iM2hzZUVZektXaWJSR2pycTZoQ0NwRGVtZGNoN2VMZExMRDQ1c2p1WVp3Q3ZyM1dfRDBXZzdGQ3RkenlsRkpnMllETTlzWDZRX04tWHM2MWFGNnVZdEdOdGt1aGtWZzpKPGI-RmFzdGVzdCB3YXk8L2I-IHRvIGNyZWF0ZSA8Yj5zdWJ0aXRsZXM8L2I-IGZvciBhIDxiPnZpZGVvPC9iPj8gLSBSZWRkaXRCogE8Yj5BZG9iZSBQcmVtaWVyZSYjMzk7cyBhdXRvbWF0aWMgb25lcyBhcmUgZ2VuZXJhbGx5IHByZXR0eSBnb29kPC9iPiwgZXhwb3J0IGFuIFNSVCBmb3IgY29ycmVjdGlvbi9hZGp1c3RtZW50IGluIFN1YnRpdGxlIEVkaXQuIFlvdVR1YmUgY2FuIGRvIGl0IGZvciB5b3UmbmJzcDsuLi5KAmF0SgN0aGVKAmlzSgJ0b1IDb25lUgV2aWRlb1IDaG93UgZhIHRpbWUiAhABSABYAGgA",
+        "source": "Reddit \u00b7 r/VideoEditing"
+      },
+      {
+        "position": 2,
+        "title": "Add Subtitles to Video Online - Try for Free, 99.9% Accuracy",
+        "link": "https://www.google.com/goto?url=CAESZAHEIkXXNzSFMc9WO1MR92w6RtF7X3NS2YzydEodAE15QLbICi94QUFQ8sllW8lqiZTrlzaI1fYZjBoVDuif79wM_lqGA3Xoo-DzwGecGUic1Ez7Ndjf6hBF8IG3WCftGdhdNVY",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHEIkXXaLwZ9WG2ik07Cf1hUTt8ZyZghr0X4OxpI7Wg7iTmhwmKg2_D7o814kcfY-nymczb21fBKqSuhCmVzuzMNCq5IBDUhUXbcwywqyzDfAVv4Lu3QCaYrLJhiDQSXlZQvpk&ved=2ahUKEwiT1-XP25uYAxX4eTIDHQjmK6cQFnoECCIQAQ&uoh=1",
+        "displayed_link": "https://www.veed.io \u203a VEED Tools",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACF0lEQVR4AcVXNWwdQRD9lVP_3eMwMzPWYWZOyjBTGWZO2kDfhLkMm3qZuTMzjHfMcE93ss_ald7HgTeo21iXM0gIcSwej_9RqFCfKUqwTbatPh9lXwqdRwgxWCEVG4gcKeyzM3LgfKBJtGSC065AmnAkpuryVxcB5fs3EyjXSKA8xh90oheBG3kuPSfPF4t2GYEGWQbpX891gwlse2BBA8c-OoEEjn1yoP72B3YwgdEzJT1r9DfwpM6loWMldD5ktKTHtf4ZfNbk0ZjZMpgA4-QPHMWKsyYksPKcCfVOfvfLHiCwZA-u46VEXIZLSZj44t1GeAKGJehmAW7GcfN6p3LsHMlp9pW_VeSSacvwBBhbbuNm3HLH6iW_9S6W33yrUz40gRFTJD1tAOOU45KUnbL8-Wqmf8bYxqjpMoAAHCkbRjVrVWdNZ63GPcNjGbyIABZux1198FXnTB98jYku3Gb2nYA0BF3L9k_t_VKXLE-Q5Qq6X-LCzWeYYVcxwMZruLmW7jdp2QGcpQ1XcfOFJjBsguANiOoL--RpvUfDJ8n-E2Acfuug1QzJsQ7rRkJg3kbc5QhzNxjREeA5v5LuhnZ-JcPhBo6OAGP1JTM0AZYVImICliN53ulxNXb8qMqjAy9ttPcxAZ3Q_VBaqv-xnO9qOi8m7VezFE1Xs4Sul9MUPZfTzpPAKeG6DERjttn8pXCkJfK20wyWcxHqVWHJ7gAAAABJRU5ErkJggg.png",
+        "snippet": "Our AI video caption generator transcribes your dialogue with 99.9% accuracy in minutes\u2014no manual typing required. The caption creator automatically flags low- ...",
+        "snippet_highlighted_words": [
+          "AI video caption generator transcribes your dialogue with 99.9% accuracy in minutes"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.6,
+              "reviews": 2139
+            },
+            "extensions": [
+              "4.6(2,139)",
+              "Free"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Our AI video caption generator transcribes your dialogue with 99.9% accuracy in minutes\u2014no manual typing required. The caption creator automatically flags low- ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESZAHEIkXXNzSFMc9WO1MR92w6RtF7X3NS2YzydEodAE15QLbICi94QUFQ8sllW8lqiZTrlzaI1fYZjBoVDuif79wM_lqGA3Xoo-DzwGecGUic1Ez7Ndjf6hBF8IG3WCftGdhdNVY",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACF0lEQVR4AcVXNWwdQRD9lVP_3eMwMzPWYWZOyjBTGWZO2kDfhLkMm3qZuTMzjHfMcE93ss_ald7HgTeo21iXM0gIcSwej_9RqFCfKUqwTbatPh9lXwqdRwgxWCEVG4gcKeyzM3LgfKBJtGSC065AmnAkpuryVxcB5fs3EyjXSKA8xh90oheBG3kuPSfPF4t2GYEGWQbpX891gwlse2BBA8c-OoEEjn1yoP72B3YwgdEzJT1r9DfwpM6loWMldD5ktKTHtf4ZfNbk0ZjZMpgA4-QPHMWKsyYksPKcCfVOfvfLHiCwZA-u46VEXIZLSZj44t1GeAKGJehmAW7GcfN6p3LsHMlp9pW_VeSSacvwBBhbbuNm3HLH6iW_9S6W33yrUz40gRFTJD1tAOOU45KUnbL8-Wqmf8bYxqjpMoAAHCkbRjVrVWdNZ63GPcNjGbyIABZux1198FXnTB98jYku3Gb2nYA0BF3L9k_t_VKXLE-Q5Qq6X-LCzWeYYVcxwMZruLmW7jdp2QGcpQ1XcfOFJjBsguANiOoL--RpvUfDJ8n-E2Acfuug1QzJsQ7rRkJg3kbc5QhzNxjREeA5v5LuhnZ-JcPhBo6OAGP1JTM0AZYVImICliN53ulxNXb8qMqjAy9ttPcxAZ3Q_VBaqv-xnO9qOi8m7VezFE1Xs4Sul9MUPZfTzpPAKeG6DERjttn8pXCkJfK20wyWcxHqVWHJ7gAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpUBL2dvdG8_dXJsPUNBRVNaQUhFSWtYWE56U0ZNYzlXTzFNUjkydzZSdEY3WDNOUzJZenlkRW9kQUUxNVFMYklDaTk0UVVGUThzbGxXOGxxaVpUcmx6YUkxZllaakJvVkR1aWY3OXdNX2xxR0EzWG9vLUR6d0dlY0dVaWMxRXo3TmRqZjZoQkY4SUczV0NmdEdkaGROVlkSBBoCCAAa1AgSAggBGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkCuCAgAEAAYACAAKh0KBHdoYXQVBO7CPhoJbmVlZCBmYXN0GgV3aGF0cyoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKqQBCgdmYXN0ZXN0FQAAAAAaBzEwIHdheXMaBmEgZmFzdBoLYmVzdCBtZXRob2QaB2Vhc2llc3QaBGVhc3kaBGZhc3QaBmZhc3RlchoEZ29vZBoKbW9zdCByYXBpZBoJbmVlZCBmYXN0GgVxdWljaxoIcXVpY2tlc3QaB3F1aWNrbHkaCHNob3J0ZXN0GgpmYXN0ZXN0d2F5GgxpdjtwO2Zhc3Rlc3QqZwoDd2F5FQAAAAAaBzEwIHdheXMaC2Jlc3QgbWV0aG9kGgNob3caBW1lYW5zGgZtZXRob2QaCW5lZWQgZmFzdBoHcXVpY2tseRoEcm9hZBoFcm91dGUaBHdheXMaCmZhc3Rlc3R3YXkqCQoCdG8VAAAAACo3CgNhZGQVUWuzQBoKZm9yIGFkZGluZxoHaW5jbHVkZRoGaW5zZXJ0GglvZiBhZGRpbmcaA3B1dCpKCglzdWJ0aXRsZXMV9cayQBoHY2FwdGlvbhoIY2FwdGlvbnMaCHN1YnRpdGxlGgtzdWJ0aXRsZSBpbhoOaXY7cDtzdWJ0aXRsZXMqCQoCdG8VAAAAACohCgIxMBUAAAAAGgN0ZW4aCDEwdmlkZW9zGgdpdjtuOzEwKh4KBnZpZGVvcxUC9PU_GgV2aWRlbxoIMTB2aWRlb3MqCQoCYXQVAAAAACozCgRvbmNlFQAAAAAaBmEgdGltZRoDb25lGglzYW1lIHRpbWUaDnNpbXVsdGFuZW91c2x5MpUBL2dvdG8_dXJsPUNBRVNaQUhFSWtYWE56U0ZNYzlXTzFNUjkydzZSdEY3WDNOUzJZenlkRW9kQUUxNVFMYklDaTk0UVVGUThzbGxXOGxxaVpUcmx6YUkxZllaakJvVkR1aWY3OXdNX2xxR0EzWG9vLUR6d0dlY0dVaWMxRXo3TmRqZjZoQkY4SUczV0NmdEdkaGROVlk6SjxiPkFkZCBTdWJ0aXRsZXM8L2I-IHRvIDxiPlZpZGVvPC9iPiBPbmxpbmUgLSBUcnkgZm9yIEZyZWUsIDk5LjklIEFjY3VyYWN5QrEBT3VyIDxiPkFJIHZpZGVvIGNhcHRpb24gZ2VuZXJhdG9yIHRyYW5zY3JpYmVzIHlvdXIgZGlhbG9ndWUgd2l0aCA5OS45JSBhY2N1cmFjeSBpbiBtaW51dGVzPC9iPuKAlG5vIG1hbnVhbCB0eXBpbmcgcmVxdWlyZWQuIFRoZSBjYXB0aW9uIGNyZWF0b3IgYXV0b21hdGljYWxseSBmbGFncyBsb3ctJm5ic3A7Li4uSgJhdEoDdGhlSgJpc0oCdG9SA29uZVIFdmlkZW9SA2hvd1IGYSB0aW1lIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpUBL2dvdG8_dXJsPUNBRVNaQUhFSWtYWE56U0ZNYzlXTzFNUjkydzZSdEY3WDNOUzJZenlkRW9kQUUxNVFMYklDaTk0UVVGUThzbGxXOGxxaVpUcmx6YUkxZllaakJvVkR1aWY3OXdNX2xxR0EzWG9vLUR6d0dlY0dVaWMxRXo3TmRqZjZoQkY4SUczV0NmdEdkaGROVlkSBBoCCAAa1AgSAggBGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkCuCAgAEAAYACAAKh0KBHdoYXQVBO7CPhoJbmVlZCBmYXN0GgV3aGF0cyoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKqQBCgdmYXN0ZXN0FQAAAAAaBzEwIHdheXMaBmEgZmFzdBoLYmVzdCBtZXRob2QaB2Vhc2llc3QaBGVhc3kaBGZhc3QaBmZhc3RlchoEZ29vZBoKbW9zdCByYXBpZBoJbmVlZCBmYXN0GgVxdWljaxoIcXVpY2tlc3QaB3F1aWNrbHkaCHNob3J0ZXN0GgpmYXN0ZXN0d2F5GgxpdjtwO2Zhc3Rlc3QqZwoDd2F5FQAAAAAaBzEwIHdheXMaC2Jlc3QgbWV0aG9kGgNob3caBW1lYW5zGgZtZXRob2QaCW5lZWQgZmFzdBoHcXVpY2tseRoEcm9hZBoFcm91dGUaBHdheXMaCmZhc3Rlc3R3YXkqCQoCdG8VAAAAACo3CgNhZGQVUWuzQBoKZm9yIGFkZGluZxoHaW5jbHVkZRoGaW5zZXJ0GglvZiBhZGRpbmcaA3B1dCpKCglzdWJ0aXRsZXMV9cayQBoHY2FwdGlvbhoIY2FwdGlvbnMaCHN1YnRpdGxlGgtzdWJ0aXRsZSBpbhoOaXY7cDtzdWJ0aXRsZXMqCQoCdG8VAAAAACohCgIxMBUAAAAAGgN0ZW4aCDEwdmlkZW9zGgdpdjtuOzEwKh4KBnZpZGVvcxUC9PU_GgV2aWRlbxoIMTB2aWRlb3MqCQoCYXQVAAAAACozCgRvbmNlFQAAAAAaBmEgdGltZRoDb25lGglzYW1lIHRpbWUaDnNpbXVsdGFuZW91c2x5MpUBL2dvdG8_dXJsPUNBRVNaQUhFSWtYWE56U0ZNYzlXTzFNUjkydzZSdEY3WDNOUzJZenlkRW9kQUUxNVFMYklDaTk0UVVGUThzbGxXOGxxaVpUcmx6YUkxZllaakJvVkR1aWY3OXdNX2xxR0EzWG9vLUR6d0dlY0dVaWMxRXo3TmRqZjZoQkY4SUczV0NmdEdkaGROVlk6SjxiPkFkZCBTdWJ0aXRsZXM8L2I-IHRvIDxiPlZpZGVvPC9iPiBPbmxpbmUgLSBUcnkgZm9yIEZyZWUsIDk5LjklIEFjY3VyYWN5QrEBT3VyIDxiPkFJIHZpZGVvIGNhcHRpb24gZ2VuZXJhdG9yIHRyYW5zY3JpYmVzIHlvdXIgZGlhbG9ndWUgd2l0aCA5OS45JSBhY2N1cmFjeSBpbiBtaW51dGVzPC9iPuKAlG5vIG1hbnVhbCB0eXBpbmcgcmVxdWlyZWQuIFRoZSBjYXB0aW9uIGNyZWF0b3IgYXV0b21hdGljYWxseSBmbGFncyBsb3ctJm5ic3A7Li4uSgJhdEoDdGhlSgJpc0oCdG9SA29uZVIFdmlkZW9SA2hvd1IGYSB0aW1lIgIQAUgAWABoAA",
+        "source": "VEED",
+        "read_more_link": "https://www.google.com/goto?url=CAESvwEBxCJF10DjM5UcO2jYhz5vbJlhhUaAUP2uPpHgk1VOlJYdWA3o9AEigjpDAftDdzz8iTY5EVoLIR0PvF6gQEdkT5ITsNBpaUBEJr_vugSbzbmhuwx8LJWLr1RPbVsgr4qeEpRnMRFkdVri2eYeuHBuZJYNFjSM_fNqpwNmRiF-Nk0YvKezE5DjvzZtxGbFTl89JTvbRaalijYCg4VbBMPHbFj-dlVBkuMzJQGBIzAggm2jUkeDI8BdyNqoDg3QCw&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ"
+      },
+      {
+        "position": 3,
+        "title": "Add Subtitles to Video Online for Free",
+        "link": "https://www.google.com/goto?url=CAEScwHEIkXXw1CcVlaY_GEyxe559yYrsaS5_W73XptTbZOzZbH7sXaj5wNqepXz_pBBD1VpeDxF5F2q2OsGX6r6GLdRGEbRtKbTycCKvKbu6IXsWJRDANB-Ey9RhETL-zGjOBzvdnr3Bc02pZ9gsmy9CJIhmb4",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHEIkXXKYnowIN44iE7nXYANXHChex3pOd0R4rs9NbfMH8cyDp9cdlySAA0G7SDvIDBgcEI9HdrXD_REkr7zjJyB9JK6nfWQLUwb0B4s2wU-ksryJLHJQwHHlA7Dt0ErovxgP5HQdhTSczPvhQxusKkac0&ved=2ahUKEwiT1-XP25uYAxX4eTIDHQjmK6cQFnoECEYQAQ&uoh=1",
+        "displayed_link": "https://www.canva.com \u203a Video Editor",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEUBw8wDv80Gu80Jt88MstARq9EVpNMcm9Uik9cqi9kuxNEzgtuY2ub____w9v1zy9_V5Pc6d95AbOJZsdxSXt9gS-RsOugifOA5Xul4hemUmPJGS-56KeqxuPRUNvRyJvJjKPrWjzNIAAABIklEQVR4AZXPBZbDMBADUIfTNuMw4_1PubKmz8ukcv-T4pgPCYIwjKI4SdIsv_0HoYrpt80YmHn0Yu5B5Fcf77AQxJYsEgNfA1XlvRQpnsUaU4G3IgzDuBCL03h0HpRqUYwvQGdEBheLeBOFVOw96saECM7vRkE4p0gLQ1ERiawIKU2qNs9zWmciDVYTkDsKSK0zMSR2p6jSV1IDIkkCLLLMk1pvEq45zBEQa7Te6Biwuj3F22AyrmXA8TGODqZqVhuMjo1WhHOwxa4g2GbcGCo7qhNkWmeZVxBsMwCMYQvarGu3y-4MBOT10XAqFuvLwRqRgLX1WCordu8PJSKFOZjhGE4loP4PYa7jdNnoRP0Xz-u6PBEJF0N618RfnvB413wBF2gp0D7Hjh8AAAAASUVORK5CYII.png",
+        "snippet": "Add subtitles to videos with Canva. Generate subtitles from speech, edit the text, and customize their style before sharing your video.",
+        "snippet_highlighted_words": [
+          "Add subtitles to videos with Canva"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Add subtitles to videos with Canva. Generate subtitles from speech, edit the text, and customize their style before sharing your video.",
+            "source_info_link": "https://www.google.com/goto?url=CAEScwHEIkXXw1CcVlaY_GEyxe559yYrsaS5_W73XptTbZOzZbH7sXaj5wNqepXz_pBBD1VpeDxF5F2q2OsGX6r6GLdRGEbRtKbTycCKvKbu6IXsWJRDANB-Ey9RhETL-zGjOBzvdnr3Bc02pZ9gsmy9CJIhmb4",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEUBw8wDv80Gu80Jt88MstARq9EVpNMcm9Uik9cqi9kuxNEzgtuY2ub____w9v1zy9_V5Pc6d95AbOJZsdxSXt9gS-RsOugifOA5Xul4hemUmPJGS-56KeqxuPRUNvRyJvJjKPrWjzNIAAABIklEQVR4AZXPBZbDMBADUIfTNuMw4_1PubKmz8ukcv-T4pgPCYIwjKI4SdIsv_0HoYrpt80YmHn0Yu5B5Fcf77AQxJYsEgNfA1XlvRQpnsUaU4G3IgzDuBCL03h0HpRqUYwvQGdEBheLeBOFVOw96saECM7vRkE4p0gLQ1ERiawIKU2qNs9zWmciDVYTkDsKSK0zMSR2p6jSV1IDIkkCLLLMk1pvEq45zBEQa7Te6Biwuj3F22AyrmXA8TGODqZqVhuMjo1WhHOwxa4g2GbcGCo7qhNkWmeZVxBsMwCMYQvarGu3y-4MBOT10XAqFuvLwRqRgLX1WCordu8PJSKFOZjhGE4loP4PYa7jdNnoRP0Xz-u6PBEJF0N618RfnvB413wBF2gp0D7Hjh8AAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqkBL2dvdG8_dXJsPUNBRVNjd0hFSWtYWHcxQ2NWbGFZX0dFeXhlNTU5eVlyc2FTNV9XNzNYcHRUYlpPelpiSDdzWGFqNXdOcWVwWHpfcEJCRDFWcGVEeEY1RjJxMk9zR1g2cjZHTGRSR0ViUnRLYlR5Y0NLdktidTZJWHNXSlJEQU5CLUV5OVJoRVRMLXpHak9CenZkbnIzQmMwMnBaOWdzbXk5Q0pJaG1iNBIEGgIIABq3CBICCAEaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQJEICAAQABgAIAAqHQoEd2hhdBWVZxs9GgluZWVkIGZhc3QaBXdoYXRzKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqpAEKB2Zhc3Rlc3QVAAAAABoHMTAgd2F5cxoGYSBmYXN0GgtiZXN0IG1ldGhvZBoHZWFzaWVzdBoEZWFzeRoEZmFzdBoGZmFzdGVyGgRnb29kGgptb3N0IHJhcGlkGgluZWVkIGZhc3QaBXF1aWNrGghxdWlja2VzdBoHcXVpY2tseRoIc2hvcnRlc3QaCmZhc3Rlc3R3YXkaDGl2O3A7ZmFzdGVzdCpnCgN3YXkVAAAAABoHMTAgd2F5cxoLYmVzdCBtZXRob2QaA2hvdxoFbWVhbnMaBm1ldGhvZBoJbmVlZCBmYXN0GgdxdWlja2x5GgRyb2FkGgVyb3V0ZRoEd2F5cxoKZmFzdGVzdHdheSoJCgJ0bxUAAAAAKjcKA2FkZBV-5qtAGgpmb3IgYWRkaW5nGgdpbmNsdWRlGgZpbnNlcnQaCW9mIGFkZGluZxoDcHV0KkoKCXN1YnRpdGxlcxXBsbdAGgdjYXB0aW9uGghjYXB0aW9ucxoIc3VidGl0bGUaC3N1YnRpdGxlIGluGg5pdjtwO3N1YnRpdGxlcyoJCgJ0bxUAAAAAKiEKAjEwFQAAAAAaA3RlbhoIMTB2aWRlb3MaB2l2O247MTAqHgoGdmlkZW9zFZYHEkAaBXZpZGVvGggxMHZpZGVvcyoJCgJhdBUAAAAAKjMKBG9uY2UVjvcDPxoGYSB0aW1lGgNvbmUaCXNhbWUgdGltZRoOc2ltdWx0YW5lb3VzbHkyqQEvZ290bz91cmw9Q0FFU2N3SEVJa1hYdzFDY1ZsYVlfR0V5eGU1NTl5WXJzYVM1X1c3M1hwdFRiWk96WmJIN3NYYWo1d05xZXBYel9wQkJEMVZwZUR4RjVGMnEyT3NHWDZyNkdMZFJHRWJSdEtiVHljQ0t2S2J1NklYc1dKUkRBTkItRXk5UmhFVEwtekdqT0J6dmRucjNCYzAycFo5Z3NteTlDSklobWI0Ojw8Yj5BZGQgU3VidGl0bGVzPC9iPiB0byA8Yj5WaWRlbzwvYj4gT25saW5lIGZvciBGcmVlIHwgQ2FudmFCjgE8Yj5BZGQgc3VidGl0bGVzIHRvIHZpZGVvcyB3aXRoIENhbnZhPC9iPi4gR2VuZXJhdGUgc3VidGl0bGVzIGZyb20gc3BlZWNoLCBlZGl0IHRoZSB0ZXh0LCBhbmQgY3VzdG9taXplIHRoZWlyIHN0eWxlIGJlZm9yZSBzaGFyaW5nIHlvdXIgdmlkZW8uSgJhdEoDdGhlSgJpc0oCdG9SBmEgdGltZVIDaG93UgV2aWRlb1IDb25lIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqkBL2dvdG8_dXJsPUNBRVNjd0hFSWtYWHcxQ2NWbGFZX0dFeXhlNTU5eVlyc2FTNV9XNzNYcHRUYlpPelpiSDdzWGFqNXdOcWVwWHpfcEJCRDFWcGVEeEY1RjJxMk9zR1g2cjZHTGRSR0ViUnRLYlR5Y0NLdktidTZJWHNXSlJEQU5CLUV5OVJoRVRMLXpHak9CenZkbnIzQmMwMnBaOWdzbXk5Q0pJaG1iNBIEGgIIABq3CBICCAEaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQJEICAAQABgAIAAqHQoEd2hhdBWVZxs9GgluZWVkIGZhc3QaBXdoYXRzKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqpAEKB2Zhc3Rlc3QVAAAAABoHMTAgd2F5cxoGYSBmYXN0GgtiZXN0IG1ldGhvZBoHZWFzaWVzdBoEZWFzeRoEZmFzdBoGZmFzdGVyGgRnb29kGgptb3N0IHJhcGlkGgluZWVkIGZhc3QaBXF1aWNrGghxdWlja2VzdBoHcXVpY2tseRoIc2hvcnRlc3QaCmZhc3Rlc3R3YXkaDGl2O3A7ZmFzdGVzdCpnCgN3YXkVAAAAABoHMTAgd2F5cxoLYmVzdCBtZXRob2QaA2hvdxoFbWVhbnMaBm1ldGhvZBoJbmVlZCBmYXN0GgdxdWlja2x5GgRyb2FkGgVyb3V0ZRoEd2F5cxoKZmFzdGVzdHdheSoJCgJ0bxUAAAAAKjcKA2FkZBV-5qtAGgpmb3IgYWRkaW5nGgdpbmNsdWRlGgZpbnNlcnQaCW9mIGFkZGluZxoDcHV0KkoKCXN1YnRpdGxlcxXBsbdAGgdjYXB0aW9uGghjYXB0aW9ucxoIc3VidGl0bGUaC3N1YnRpdGxlIGluGg5pdjtwO3N1YnRpdGxlcyoJCgJ0bxUAAAAAKiEKAjEwFQAAAAAaA3RlbhoIMTB2aWRlb3MaB2l2O247MTAqHgoGdmlkZW9zFZYHEkAaBXZpZGVvGggxMHZpZGVvcyoJCgJhdBUAAAAAKjMKBG9uY2UVjvcDPxoGYSB0aW1lGgNvbmUaCXNhbWUgdGltZRoOc2ltdWx0YW5lb3VzbHkyqQEvZ290bz91cmw9Q0FFU2N3SEVJa1hYdzFDY1ZsYVlfR0V5eGU1NTl5WXJzYVM1X1c3M1hwdFRiWk96WmJIN3NYYWo1d05xZXBYel9wQkJEMVZwZUR4RjVGMnEyT3NHWDZyNkdMZFJHRWJSdEtiVHljQ0t2S2J1NklYc1dKUkRBTkItRXk5UmhFVEwtekdqT0J6dmRucjNCYzAycFo5Z3NteTlDSklobWI0Ojw8Yj5BZGQgU3VidGl0bGVzPC9iPiB0byA8Yj5WaWRlbzwvYj4gT25saW5lIGZvciBGcmVlIHwgQ2FudmFCjgE8Yj5BZGQgc3VidGl0bGVzIHRvIHZpZGVvcyB3aXRoIENhbnZhPC9iPi4gR2VuZXJhdGUgc3VidGl0bGVzIGZyb20gc3BlZWNoLCBlZGl0IHRoZSB0ZXh0LCBhbmQgY3VzdG9taXplIHRoZWlyIHN0eWxlIGJlZm9yZSBzaGFyaW5nIHlvdXIgdmlkZW8uSgJhdEoDdGhlSgJpc0oCdG9SBmEgdGltZVIDaG93UgV2aWRlb1IDb25lIgIQAUgAWABoAA",
+        "source": "Canva"
+      },
+      {
+        "position": 4,
+        "title": "Add Subtitles to Video Online - Free & Automatic",
+        "link": "https://www.google.com/goto?url=CAESdQHEIkXXrTMCYda-VDzaBJYAfiIk2TIRZLUxTMrVRtNi7_z7jGscMfdhUuclUEqCOWNgFlPIyUnAnS8V5Z6_IdHF13enDThJegIhq92XdX30X4H_F8rvk_kanugUUQMAdxurKY8bz9XyTiekdRku8-11TgcuQg",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHEIkXXuSpF--5dFlkCDoahikL5GGewnNz1LoeOzNTldiJGw_nQXTyhhUjREdnafRLZb1qWQvdmMmUIXhiiPsF291emLWtx8cz5EYfTCHHH45d1Qa2JpnZqx4hyOhOZecghLcuYn_YsVOW6gQK8VvyRSQFulA&ved=2ahUKEwiT1-XP25uYAxX4eTIDHQjmK6cQFnoECEgQAQ&uoh=1",
+        "displayed_link": "https://www.happyscribe.com \u203a Tools",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEz________________________g4OBra2sAAADz8_OWlpYJCQnQ0NAGBgZeXl41NTXAwMCGhoZISEhckFumAAAAB3RSTlMAB4_i_y-OoSXWtwAAANJJREFUeAF90-ESRSAQBeCw1NEN1fu_6z3WoBjtD3b2i1LLGNP1g7xi6DvDGOUjRj4nn9GZ_hsnU81nbTWvKcSB4ea7cqMHfgwgvNGRFujFPnFlGXB6W2ukkTyTwGSTWGLaTd82M_MS3I06fFbLwA6IF7KS9WMSctLFIl_IRUoVESgw1rgUmDUNKSPZchrFuKNj5VjUxvWFEwlBPCtqFsxSuQlRzuF-t_Wxt8fGOZJajRYLy3px7yML55F5eaPMx2EXzdBsk2aDNVuz2dSMbvr6Hf7bwRGTymje5wAAAABJRU5ErkJggg.png",
+        "snippet": "Online tool to add accurate subtitles and captions to videos without hassle. Use AI to generate them or import your own\u2014easy, fast, and 98% accurate.",
+        "snippet_highlighted_words": [
+          "Online tool to add accurate subtitles and captions to videos"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.6,
+              "reviews": 1426
+            },
+            "extensions": [
+              "4.6(1,426)",
+              "Free",
+              "Business/Productivity"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Online tool to add accurate subtitles and captions to videos without hassle. Use AI to generate them or import your own\u2014easy, fast, and 98% accurate.",
+            "source_info_link": "https://www.google.com/goto?url=CAESdQHEIkXXrTMCYda-VDzaBJYAfiIk2TIRZLUxTMrVRtNi7_z7jGscMfdhUuclUEqCOWNgFlPIyUnAnS8V5Z6_IdHF13enDThJegIhq92XdX30X4H_F8rvk_kanugUUQMAdxurKY8bz9XyTiekdRku8-11TgcuQg",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEz________________________g4OBra2sAAADz8_OWlpYJCQnQ0NAGBgZeXl41NTXAwMCGhoZISEhckFumAAAAB3RSTlMAB4_i_y-OoSXWtwAAANJJREFUeAF90-ESRSAQBeCw1NEN1fu_6z3WoBjtD3b2i1LLGNP1g7xi6DvDGOUjRj4nn9GZ_hsnU81nbTWvKcSB4ea7cqMHfgwgvNGRFujFPnFlGXB6W2ukkTyTwGSTWGLaTd82M_MS3I06fFbLwA6IF7KS9WMSctLFIl_IRUoVESgw1rgUmDUNKSPZchrFuKNj5VjUxvWFEwlBPCtqFsxSuQlRzuF-t_Wxt8fGOZJajRYLy3px7yML55F5eaPMx2EXzdBsk2aDNVuz2dSMbvr6Hf7bwRGTymje5wAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqwBL2dvdG8_dXJsPUNBRVNkUUhFSWtYWHJUTUNZZGEtVkR6YUJKWUFmaUlrMlRJUlpMVXhUTXJWUnROaTdfejdqR3NjTWZkaFV1Y2xVRXFDT1dOZ0ZsUEl5VW5BblM4VjVaNl9JZEhGMTNlbkRUaEplZ0locTkyWGRYMzBYNEhfRjhydmtfa2FudWdVVVFNQWR4dXJLWThiejlYeVRpZWtkUmt1OC0xMVRnY3VRZxIEGgIIABreCBICCAEaACIAKgAyBggDEgJ1azoAQgQIARAASgBaAHIAegCCQLgICAAQABgAIAAqHQoEd2hhdBWhJvY-GgluZWVkIGZhc3QaBXdoYXRzKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqpAEKB2Zhc3Rlc3QVAAAAABoHMTAgd2F5cxoGYSBmYXN0GgtiZXN0IG1ldGhvZBoHZWFzaWVzdBoEZWFzeRoEZmFzdBoGZmFzdGVyGgRnb29kGgptb3N0IHJhcGlkGgluZWVkIGZhc3QaBXF1aWNrGghxdWlja2VzdBoHcXVpY2tseRoIc2hvcnRlc3QaCmZhc3Rlc3R3YXkaDGl2O3A7ZmFzdGVzdCpnCgN3YXkV82sAPxoHMTAgd2F5cxoLYmVzdCBtZXRob2QaA2hvdxoFbWVhbnMaBm1ldGhvZBoJbmVlZCBmYXN0GgdxdWlja2x5GgRyb2FkGgVyb3V0ZRoEd2F5cxoKZmFzdGVzdHdheSoJCgJ0bxUAAAAAKjcKA2FkZBW8PsxAGgpmb3IgYWRkaW5nGgdpbmNsdWRlGgZpbnNlcnQaCW9mIGFkZGluZxoDcHV0KkoKCXN1YnRpdGxlcxV-cvxAGgdjYXB0aW9uGghjYXB0aW9ucxoIc3VidGl0bGUaC3N1YnRpdGxlIGluGg5pdjtwO3N1YnRpdGxlcyoJCgJ0bxUAAAAAKiEKAjEwFQAAAAAaA3RlbhoIMTB2aWRlb3MaB2l2O247MTAqHgoGdmlkZW9zFfnwsT8aBXZpZGVvGggxMHZpZGVvcyoJCgJhdBUAAAAAKjMKBG9uY2UVFWzaPRoGYSB0aW1lGgNvbmUaCXNhbWUgdGltZRoOc2ltdWx0YW5lb3VzbHkyrAEvZ290bz91cmw9Q0FFU2RRSEVJa1hYclRNQ1lkYS1WRHphQkpZQWZpSWsyVElSWkxVeFRNclZSdE5pN196N2pHc2NNZmRoVXVjbFVFcUNPV05nRmxQSXlVbkFuUzhWNVo2X0lkSEYxM2VuRFRoSmVnSWhxOTJYZFgzMFg0SF9GOHJ2a19rYW51Z1VVUU1BZHh1cktZOGJ6OVh5VGlla2RSa3U4LTExVGdjdVFnOlA8Yj5BZGQgU3VidGl0bGVzPC9iPiB0byA8Yj5WaWRlbzwvYj4gT25saW5lIC0gRnJlZSAmYW1wOyBBdXRvbWF0aWMgLSBIYXBweVNjcmliZUKeATxiPk9ubGluZSB0b29sIHRvIGFkZCBhY2N1cmF0ZSBzdWJ0aXRsZXMgYW5kIGNhcHRpb25zIHRvIHZpZGVvczwvYj4gd2l0aG91dCBoYXNzbGUuIFVzZSBBSSB0byBnZW5lcmF0ZSB0aGVtIG9yIGltcG9ydCB5b3VyIG93buKAlGVhc3ksIGZhc3QsIGFuZCA5OCUgYWNjdXJhdGUuSgN0aGVKAmlzSgJ0b0oCYXRSBmEgdGltZVIDaG93UgV2aWRlb1IDb25lIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqwBL2dvdG8_dXJsPUNBRVNkUUhFSWtYWHJUTUNZZGEtVkR6YUJKWUFmaUlrMlRJUlpMVXhUTXJWUnROaTdfejdqR3NjTWZkaFV1Y2xVRXFDT1dOZ0ZsUEl5VW5BblM4VjVaNl9JZEhGMTNlbkRUaEplZ0locTkyWGRYMzBYNEhfRjhydmtfa2FudWdVVVFNQWR4dXJLWThiejlYeVRpZWtkUmt1OC0xMVRnY3VRZxIEGgIIABreCBICCAEaACIAKgAyBggDEgJ1azoAQgQIARAASgBaAHIAegCCQLgICAAQABgAIAAqHQoEd2hhdBWhJvY-GgluZWVkIGZhc3QaBXdoYXRzKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqpAEKB2Zhc3Rlc3QVAAAAABoHMTAgd2F5cxoGYSBmYXN0GgtiZXN0IG1ldGhvZBoHZWFzaWVzdBoEZWFzeRoEZmFzdBoGZmFzdGVyGgRnb29kGgptb3N0IHJhcGlkGgluZWVkIGZhc3QaBXF1aWNrGghxdWlja2VzdBoHcXVpY2tseRoIc2hvcnRlc3QaCmZhc3Rlc3R3YXkaDGl2O3A7ZmFzdGVzdCpnCgN3YXkV82sAPxoHMTAgd2F5cxoLYmVzdCBtZXRob2QaA2hvdxoFbWVhbnMaBm1ldGhvZBoJbmVlZCBmYXN0GgdxdWlja2x5GgRyb2FkGgVyb3V0ZRoEd2F5cxoKZmFzdGVzdHdheSoJCgJ0bxUAAAAAKjcKA2FkZBW8PsxAGgpmb3IgYWRkaW5nGgdpbmNsdWRlGgZpbnNlcnQaCW9mIGFkZGluZxoDcHV0KkoKCXN1YnRpdGxlcxV-cvxAGgdjYXB0aW9uGghjYXB0aW9ucxoIc3VidGl0bGUaC3N1YnRpdGxlIGluGg5pdjtwO3N1YnRpdGxlcyoJCgJ0bxUAAAAAKiEKAjEwFQAAAAAaA3RlbhoIMTB2aWRlb3MaB2l2O247MTAqHgoGdmlkZW9zFfnwsT8aBXZpZGVvGggxMHZpZGVvcyoJCgJhdBUAAAAAKjMKBG9uY2UVFWzaPRoGYSB0aW1lGgNvbmUaCXNhbWUgdGltZRoOc2ltdWx0YW5lb3VzbHkyrAEvZ290bz91cmw9Q0FFU2RRSEVJa1hYclRNQ1lkYS1WRHphQkpZQWZpSWsyVElSWkxVeFRNclZSdE5pN196N2pHc2NNZmRoVXVjbFVFcUNPV05nRmxQSXlVbkFuUzhWNVo2X0lkSEYxM2VuRFRoSmVnSWhxOTJYZFgzMFg0SF9GOHJ2a19rYW51Z1VVUU1BZHh1cktZOGJ6OVh5VGlla2RSa3U4LTExVGdjdVFnOlA8Yj5BZGQgU3VidGl0bGVzPC9iPiB0byA8Yj5WaWRlbzwvYj4gT25saW5lIC0gRnJlZSAmYW1wOyBBdXRvbWF0aWMgLSBIYXBweVNjcmliZUKeATxiPk9ubGluZSB0b29sIHRvIGFkZCBhY2N1cmF0ZSBzdWJ0aXRsZXMgYW5kIGNhcHRpb25zIHRvIHZpZGVvczwvYj4gd2l0aG91dCBoYXNzbGUuIFVzZSBBSSB0byBnZW5lcmF0ZSB0aGVtIG9yIGltcG9ydCB5b3VyIG93buKAlGVhc3ksIGZhc3QsIGFuZCA5OCUgYWNjdXJhdGUuSgN0aGVKAmlzSgJ0b0oCYXRSBmEgdGltZVIDaG93UgV2aWRlb1IDb25lIgIQAUgAWABoAA",
+        "source": "HappyScribe"
+      },
+      {
+        "position": 5,
+        "title": "Add subtitles & captions - YouTube Help",
+        "link": "https://support.google.com/youtube/answer/2734796?hl=en",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://support.google.com/youtube/answer/2734796%3Fhl%3Den&ved=2ahUKEwiT1-XP25uYAxX4eTIDHQjmK6cQFnoECEcQAQ",
+        "displayed_link": "https://support.google.com \u203a youtube \u203a answer",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAB70lEQVR4AZWSQ2AgQQAE52zbtm3b_JyNz9m2bRuxbdu284ntZDvp2HjU7qhrKFacXFsKOq1uJK1dOgHrlz2QVq7zxfIVeVi2OIVltrEvc-vSRuUzZeEXXbpzEDbOApYvqghFazYgb81WgKItGzqX5MrCVwf9w5GxwJ5JoKSygGGSu367TQUBYkQjKLe5jW9dgDMji9g1JQRrlu3B8sXDCcvcBikfJiLFtvk46LUGKHjRB7gy7Dc7KnPv7rUm1bULOLe-Izm0BCiR7xjNxoYg8lya2cO1DShJsWp1sfKAifchW8DXyky4j59T7uWuF3nOTeIpINxOZUHBQKkmKKogkFzbzmmAgPws3AKXn-jYtMoW-GjGPsw-W8KE-9LRifcln3IruCMyHBvdYdjDvhGc7JvWeYijH2bGlwgKz4D7ZljZpjHBXauWv2oK934T8LT3m1AMeh4Ninq_Deld-JC0bcXtj1ZNcMWyJXZZdMN80wlBA4xX7OtqtHUkaa59ZU0LuV_Wrf6qo8NXB_R7FQluqfQpP7IS3Y9btPvH8DTTiehptIGgo-Gu3Lb6RyTSSu0BWip8AiXtv1vJc_ZSAVlp3r37ErNBdygoCZcXtNG8WiSQ-_2mJEyqPFcuuYP-oVcdDPe4l0hYZlsr1ZczKz_pfOcR3y8E3ot2AAAAAElFTkSuQmCC.png",
+        "snippet": "Sign in to YouTube Studio. \u00b7 From the left menu, select Subtitles. \u00b7 Select the video that you'd like to edit. \u00b7 Click ADD LANGUAGE and select your language.",
+        "snippet_highlighted_words": [
+          "Sign in to YouTube Studio"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Sign in to YouTube Studio. \u00b7 From the left menu, select Subtitles. \u00b7 Select the video that you'd like to edit. \u00b7 Click ADD LANGUAGE and select your language.",
+            "source_info_link": "https://support.google.com/youtube/answer/2734796?hl=en",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAB70lEQVR4AZWSQ2AgQQAE52zbtm3b_JyNz9m2bRuxbdu284ntZDvp2HjU7qhrKFacXFsKOq1uJK1dOgHrlz2QVq7zxfIVeVi2OIVltrEvc-vSRuUzZeEXXbpzEDbOApYvqghFazYgb81WgKItGzqX5MrCVwf9w5GxwJ5JoKSygGGSu367TQUBYkQjKLe5jW9dgDMji9g1JQRrlu3B8sXDCcvcBikfJiLFtvk46LUGKHjRB7gy7Dc7KnPv7rUm1bULOLe-Izm0BCiR7xjNxoYg8lya2cO1DShJsWp1sfKAifchW8DXyky4j59T7uWuF3nOTeIpINxOZUHBQKkmKKogkFzbzmmAgPws3AKXn-jYtMoW-GjGPsw-W8KE-9LRifcln3IruCMyHBvdYdjDvhGc7JvWeYijH2bGlwgKz4D7ZljZpjHBXauWv2oK934T8LT3m1AMeh4Ninq_Deld-JC0bcXtj1ZNcMWyJXZZdMN80wlBA4xX7OtqtHUkaa59ZU0LuV_Wrf6qo8NXB_R7FQluqfQpP7IS3Y9btPvH8DTTiehptIGgo-Gu3Lb6RyTSSu0BWip8AiXtv1vJc_ZSAVlp3r37ErNBdygoCZcXtNG8WiSQ-_2mJEyqPFcuuYP-oVcdDPe4l0hYZlsr1ZczKz_pfOcR3y8E3ot2AAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CjdodHRwczovL3N1cHBvcnQuZ29vZ2xlLmNvbS95b3V0dWJlL2Fuc3dlci8yNzM0Nzk2P2hsPWVuEgQaAggAGukHEgIIARoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJAwwcIABAAGAAgACodCgR3aGF0FdDktT4aCW5lZWQgZmFzdBoFd2hhdHMqCQoCaXMVAAAAACoKCgN0aGUVAAAAACqkAQoHZmFzdGVzdBUAAAAAGgcxMCB3YXlzGgZhIGZhc3QaC2Jlc3QgbWV0aG9kGgdlYXNpZXN0GgRlYXN5GgRmYXN0GgZmYXN0ZXIaBGdvb2QaCm1vc3QgcmFwaWQaCW5lZWQgZmFzdBoFcXVpY2saCHF1aWNrZXN0GgdxdWlja2x5GghzaG9ydGVzdBoKZmFzdGVzdHdheRoMaXY7cDtmYXN0ZXN0KmcKA3dheRUAAAAAGgcxMCB3YXlzGgtiZXN0IG1ldGhvZBoDaG93GgVtZWFucxoGbWV0aG9kGgluZWVkIGZhc3QaB3F1aWNrbHkaBHJvYWQaBXJvdXRlGgR3YXlzGgpmYXN0ZXN0d2F5KgkKAnRvFQAAAAAqNwoDYWRkFUIHo0AaCmZvciBhZGRpbmcaB2luY2x1ZGUaBmluc2VydBoJb2YgYWRkaW5nGgNwdXQqSgoJc3VidGl0bGVzFS5ZrkAaB2NhcHRpb24aCGNhcHRpb25zGghzdWJ0aXRsZRoLc3VidGl0bGUgaW4aDml2O3A7c3VidGl0bGVzKgkKAnRvFQAAAAAqIQoCMTAVfbM1PxoDdGVuGggxMHZpZGVvcxoHaXY7bjsxMCoeCgZ2aWRlb3MVA3sIQBoFdmlkZW8aCDEwdmlkZW9zKgkKAmF0FQAAAAAqMwoEb25jZRUGVDY_GgZhIHRpbWUaA29uZRoJc2FtZSB0aW1lGg5zaW11bHRhbmVvdXNseTI3aHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20veW91dHViZS9hbnN3ZXIvMjczNDc5Nj9obD1lbjoyPGI-QWRkIHN1YnRpdGxlczwvYj4gJmFtcDsgY2FwdGlvbnMgLSBZb3VUdWJlIEhlbHBCvQE8Yj5TaWduIGluIHRvIFlvdVR1YmUgU3R1ZGlvPC9iPi4gJm1pZGRvdDsgRnJvbSB0aGUgbGVmdCBtZW51LCBzZWxlY3QgU3VidGl0bGVzLiAmbWlkZG90OyBTZWxlY3QgdGhlIHZpZGVvIHRoYXQgeW91JiMzOTtkIGxpa2UgdG8gZWRpdC4gJm1pZGRvdDsgQ2xpY2sgQUREIExBTkdVQUdFIGFuZCBzZWxlY3QgeW91ciBsYW5ndWFnZS5KAnRvSgJpc0oDdGhlSgJhdFIFdmlkZW9SA2hvd1IGYSB0aW1lUgNvbmUiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CjdodHRwczovL3N1cHBvcnQuZ29vZ2xlLmNvbS95b3V0dWJlL2Fuc3dlci8yNzM0Nzk2P2hsPWVuEgQaAggAGukHEgIIARoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJAwwcIABAAGAAgACodCgR3aGF0FdDktT4aCW5lZWQgZmFzdBoFd2hhdHMqCQoCaXMVAAAAACoKCgN0aGUVAAAAACqkAQoHZmFzdGVzdBUAAAAAGgcxMCB3YXlzGgZhIGZhc3QaC2Jlc3QgbWV0aG9kGgdlYXNpZXN0GgRlYXN5GgRmYXN0GgZmYXN0ZXIaBGdvb2QaCm1vc3QgcmFwaWQaCW5lZWQgZmFzdBoFcXVpY2saCHF1aWNrZXN0GgdxdWlja2x5GghzaG9ydGVzdBoKZmFzdGVzdHdheRoMaXY7cDtmYXN0ZXN0KmcKA3dheRUAAAAAGgcxMCB3YXlzGgtiZXN0IG1ldGhvZBoDaG93GgVtZWFucxoGbWV0aG9kGgluZWVkIGZhc3QaB3F1aWNrbHkaBHJvYWQaBXJvdXRlGgR3YXlzGgpmYXN0ZXN0d2F5KgkKAnRvFQAAAAAqNwoDYWRkFUIHo0AaCmZvciBhZGRpbmcaB2luY2x1ZGUaBmluc2VydBoJb2YgYWRkaW5nGgNwdXQqSgoJc3VidGl0bGVzFS5ZrkAaB2NhcHRpb24aCGNhcHRpb25zGghzdWJ0aXRsZRoLc3VidGl0bGUgaW4aDml2O3A7c3VidGl0bGVzKgkKAnRvFQAAAAAqIQoCMTAVfbM1PxoDdGVuGggxMHZpZGVvcxoHaXY7bjsxMCoeCgZ2aWRlb3MVA3sIQBoFdmlkZW8aCDEwdmlkZW9zKgkKAmF0FQAAAAAqMwoEb25jZRUGVDY_GgZhIHRpbWUaA29uZRoJc2FtZSB0aW1lGg5zaW11bHRhbmVvdXNseTI3aHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20veW91dHViZS9hbnN3ZXIvMjczNDc5Nj9obD1lbjoyPGI-QWRkIHN1YnRpdGxlczwvYj4gJmFtcDsgY2FwdGlvbnMgLSBZb3VUdWJlIEhlbHBCvQE8Yj5TaWduIGluIHRvIFlvdVR1YmUgU3R1ZGlvPC9iPi4gJm1pZGRvdDsgRnJvbSB0aGUgbGVmdCBtZW51LCBzZWxlY3QgU3VidGl0bGVzLiAmbWlkZG90OyBTZWxlY3QgdGhlIHZpZGVvIHRoYXQgeW91JiMzOTtkIGxpa2UgdG8gZWRpdC4gJm1pZGRvdDsgQ2xpY2sgQUREIExBTkdVQUdFIGFuZCBzZWxlY3QgeW91ciBsYW5ndWFnZS5KAnRvSgJpc0oDdGhlSgJhdFIFdmlkZW9SA2hvd1IGYSB0aW1lUgNvbmUiAhABSABYAGgA",
+        "source": "Google Help",
+        "read_more_link": "https://support.google.com/youtube/answer/2734796?hl=en#:~:text=Sign%20in%20to%20YouTube%20Studio.&text=From%20the%20left%20menu%2C%20select,Subtitles.&text=Select%20the%20video%20that%20you'd,like%20to%20edit.&text=Click%20ADD%20LANGUAGE%20and%20select,your%20language."
+      },
+      {
+        "position": 6,
+        "title": "Auto-Subtitle Generator \u2014 99% Accurate (Free)",
+        "link": "https://www.google.com/goto?url=CAESXgHEIkXX8ckl76tvn3O0-yZqaSOJlC-CYnXUtjUagmlDVNkZyjZ9IQBYqqPjwgnvu8Ys45eWgjI50hQ6yRYuSuw5zdmMAZVXL_TsQ2LzTGRuuNg7afJNYjT4Us6xN7Y",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHEIkXXX2Vqbls-B87ZSG5rLKV_NHe_yBiriKWPhmJffS_L1BZi0tCJ7SIMU3Bt-pGJnFsc5MO8CRPN5_mB6F9pTZdbXOkCAEqe97jGyia0pr5Df4MkPeBNhjoc9iI&ved=2ahUKEwiT1-XP25uYAxX4eTIDHQjmK6cQFnoECEwQAQ&uoh=1",
+        "displayed_link": "https://www.kapwing.com \u203a subtitles",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAxlBMVEX____-___3vd_3g773iLH4iav4iqD3ipT3iYr4ioH3jHj2h2r63dr3bb3_L5v_OYj_OXn_O2f_PFP_PUH_Piz_QRb_NwD3sZv_OJ7_PY3_QX3_Qjb-SCL2isX-O6L3OWn4wrT5zej7U6z7XK78XaD6XJT5XYX4Xn35X3X5YGr5YV_6YVf8YUv7YkL4XCf40L_1rdj_Lab9PJr_PYP_P3T_QF7_QVH_Qwz7XnD3PEb669v5KYb3Txv_RTv44dD4o9r53e73m4nzh0s_AAAAwklEQVR4AdWQgwHEQBBFN2fbVmxb_Td1sRvIDxZvDNouKBCAQE2dbq8_GI7Gk-ms7jNfLFfrzXa3Pxwb4Ol8CeD11gDB_bG8PCPPV7GEdBe8sTL4_ny_PxhGUAzHCZKkaJphM8jxD-EsXqS1rCjb6-62V4OcZSg1QigPqxEESZXChvnTX7hGZeWDCXqX9ev-YHDmU99ZxWIBtwh61-3bwXFNSdmpMUph6hnAwLMMvXDe4biNd7c_HPvlmYI0CRR_rdQfjP8XrUUdD_wAAAAASUVORK5CYII.png",
+        "snippet": "Generate accurate subtitles automatically from video or audio. Upload MP4, MOV, MP3, WAV, or a YouTube link to create editable captions, transcripts, ...",
+        "snippet_highlighted_words": [
+          "Generate accurate subtitles automatically from video or audio"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.9,
+              "reviews": 5231
+            },
+            "extensions": [
+              "4.9(5,231)"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Generate accurate subtitles automatically from video or audio. Upload MP4, MOV, MP3, WAV, or a YouTube link to create editable captions, transcripts, ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESXgHEIkXX8ckl76tvn3O0-yZqaSOJlC-CYnXUtjUagmlDVNkZyjZ9IQBYqqPjwgnvu8Ys45eWgjI50hQ6yRYuSuw5zdmMAZVXL_TsQ2LzTGRuuNg7afJNYjT4Us6xN7Y",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAxlBMVEX____-___3vd_3g773iLH4iav4iqD3ipT3iYr4ioH3jHj2h2r63dr3bb3_L5v_OYj_OXn_O2f_PFP_PUH_Piz_QRb_NwD3sZv_OJ7_PY3_QX3_Qjb-SCL2isX-O6L3OWn4wrT5zej7U6z7XK78XaD6XJT5XYX4Xn35X3X5YGr5YV_6YVf8YUv7YkL4XCf40L_1rdj_Lab9PJr_PYP_P3T_QF7_QVH_Qwz7XnD3PEb669v5KYb3Txv_RTv44dD4o9r53e73m4nzh0s_AAAAwklEQVR4AdWQgwHEQBBFN2fbVmxb_Td1sRvIDxZvDNouKBCAQE2dbq8_GI7Gk-ms7jNfLFfrzXa3Pxwb4Ol8CeD11gDB_bG8PCPPV7GEdBe8sTL4_ny_PxhGUAzHCZKkaJphM8jxD-EsXqS1rCjb6-62V4OcZSg1QigPqxEESZXChvnTX7hGZeWDCXqX9ev-YHDmU99ZxWIBtwh61-3bwXFNSdmpMUph6hnAwLMMvXDe4biNd7c_HPvlmYI0CRR_rdQfjP8XrUUdD_wAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co0BL2dvdG8_dXJsPUNBRVNYZ0hFSWtYWDhja2w3NnR2bjNPMC15WnFhU09KbEMtQ1luWFV0alVhZ21sRFZOa1p5alo5SVFCWXFxUGp3Z252dThZczQ1ZVdnakk1MGhRNnlSWXVTdXc1emRtTUFaVlhMX1RzUTJMelRHUnV1Tmc3YWZKTllqVDRVczZ4TjdZEgQaAggAGrYIEgIIARoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJAkAgIABAAGAAgACodCgR3aGF0FXZXFz8aCW5lZWQgZmFzdBoFd2hhdHMqCQoCaXMVAAAAACoKCgN0aGUVAAAAACqkAQoHZmFzdGVzdBUAAAAAGgcxMCB3YXlzGgZhIGZhc3QaC2Jlc3QgbWV0aG9kGgdlYXNpZXN0GgRlYXN5GgRmYXN0GgZmYXN0ZXIaBGdvb2QaCm1vc3QgcmFwaWQaCW5lZWQgZmFzdBoFcXVpY2saCHF1aWNrZXN0GgdxdWlja2x5GghzaG9ydGVzdBoKZmFzdGVzdHdheRoMaXY7cDtmYXN0ZXN0KmcKA3dheRUAAAAAGgcxMCB3YXlzGgtiZXN0IG1ldGhvZBoDaG93GgVtZWFucxoGbWV0aG9kGgluZWVkIGZhc3QaB3F1aWNrbHkaBHJvYWQaBXJvdXRlGgR3YXlzGgpmYXN0ZXN0d2F5KgkKAnRvFQAAAAAqNwoDYWRkFaJyH0AaCmZvciBhZGRpbmcaB2luY2x1ZGUaBmluc2VydBoJb2YgYWRkaW5nGgNwdXQqSgoJc3VidGl0bGVzFXpQiUAaB2NhcHRpb24aCGNhcHRpb25zGghzdWJ0aXRsZRoLc3VidGl0bGUgaW4aDml2O3A7c3VidGl0bGVzKgkKAnRvFQAAAAAqIQoCMTAVAAAAABoDdGVuGggxMHZpZGVvcxoHaXY7bjsxMCoeCgZ2aWRlb3MV0C5GQBoFdmlkZW8aCDEwdmlkZW9zKgkKAmF0FQAAAAAqMwoEb25jZRXOJio9GgZhIHRpbWUaA29uZRoJc2FtZSB0aW1lGg5zaW11bHRhbmVvdXNseTKNAS9nb3RvP3VybD1DQUVTWGdIRUlrWFg4Y2tsNzZ0dm4zTzAteVpxYVNPSmxDLUNZblhVdGpVYWdtbERWTmtaeWpaOUlRQllxcVBqd2dudnU4WXM0NWVXZ2pJNTBoUTZ5Ull1U3V3NXpkbU1BWlZYTF9Uc1EyTHpUR1J1dU5nN2FmSk5ZalQ0VXM2eE43WTpAQXV0by08Yj5TdWJ0aXRsZTwvYj4gR2VuZXJhdG9yIOKAlCA5OSUgQWNjdXJhdGUgKEZyZWUpIC0gS2Fwd2luZ0KlATxiPkdlbmVyYXRlIGFjY3VyYXRlIHN1YnRpdGxlcyBhdXRvbWF0aWNhbGx5IGZyb20gdmlkZW8gb3IgYXVkaW88L2I-LiBVcGxvYWQgTVA0LCBNT1YsIE1QMywgV0FWLCBvciBhIFlvdVR1YmUgbGluayB0byBjcmVhdGUgZWRpdGFibGUgY2FwdGlvbnMsIHRyYW5zY3JpcHRzLCZuYnNwOy4uLkoCYXRKAnRvSgJpc0oDdGhlUgNvbmVSBXZpZGVvUgNob3dSBmEgdGltZSICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co0BL2dvdG8_dXJsPUNBRVNYZ0hFSWtYWDhja2w3NnR2bjNPMC15WnFhU09KbEMtQ1luWFV0alVhZ21sRFZOa1p5alo5SVFCWXFxUGp3Z252dThZczQ1ZVdnakk1MGhRNnlSWXVTdXc1emRtTUFaVlhMX1RzUTJMelRHUnV1Tmc3YWZKTllqVDRVczZ4TjdZEgQaAggAGrYIEgIIARoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJAkAgIABAAGAAgACodCgR3aGF0FXZXFz8aCW5lZWQgZmFzdBoFd2hhdHMqCQoCaXMVAAAAACoKCgN0aGUVAAAAACqkAQoHZmFzdGVzdBUAAAAAGgcxMCB3YXlzGgZhIGZhc3QaC2Jlc3QgbWV0aG9kGgdlYXNpZXN0GgRlYXN5GgRmYXN0GgZmYXN0ZXIaBGdvb2QaCm1vc3QgcmFwaWQaCW5lZWQgZmFzdBoFcXVpY2saCHF1aWNrZXN0GgdxdWlja2x5GghzaG9ydGVzdBoKZmFzdGVzdHdheRoMaXY7cDtmYXN0ZXN0KmcKA3dheRUAAAAAGgcxMCB3YXlzGgtiZXN0IG1ldGhvZBoDaG93GgVtZWFucxoGbWV0aG9kGgluZWVkIGZhc3QaB3F1aWNrbHkaBHJvYWQaBXJvdXRlGgR3YXlzGgpmYXN0ZXN0d2F5KgkKAnRvFQAAAAAqNwoDYWRkFaJyH0AaCmZvciBhZGRpbmcaB2luY2x1ZGUaBmluc2VydBoJb2YgYWRkaW5nGgNwdXQqSgoJc3VidGl0bGVzFXpQiUAaB2NhcHRpb24aCGNhcHRpb25zGghzdWJ0aXRsZRoLc3VidGl0bGUgaW4aDml2O3A7c3VidGl0bGVzKgkKAnRvFQAAAAAqIQoCMTAVAAAAABoDdGVuGggxMHZpZGVvcxoHaXY7bjsxMCoeCgZ2aWRlb3MV0C5GQBoFdmlkZW8aCDEwdmlkZW9zKgkKAmF0FQAAAAAqMwoEb25jZRXOJio9GgZhIHRpbWUaA29uZRoJc2FtZSB0aW1lGg5zaW11bHRhbmVvdXNseTKNAS9nb3RvP3VybD1DQUVTWGdIRUlrWFg4Y2tsNzZ0dm4zTzAteVpxYVNPSmxDLUNZblhVdGpVYWdtbERWTmtaeWpaOUlRQllxcVBqd2dudnU4WXM0NWVXZ2pJNTBoUTZ5Ull1U3V3NXpkbU1BWlZYTF9Uc1EyTHpUR1J1dU5nN2FmSk5ZalQ0VXM2eE43WTpAQXV0by08Yj5TdWJ0aXRsZTwvYj4gR2VuZXJhdG9yIOKAlCA5OSUgQWNjdXJhdGUgKEZyZWUpIC0gS2Fwd2luZ0KlATxiPkdlbmVyYXRlIGFjY3VyYXRlIHN1YnRpdGxlcyBhdXRvbWF0aWNhbGx5IGZyb20gdmlkZW8gb3IgYXVkaW88L2I-LiBVcGxvYWQgTVA0LCBNT1YsIE1QMywgV0FWLCBvciBhIFlvdVR1YmUgbGluayB0byBjcmVhdGUgZWRpdGFibGUgY2FwdGlvbnMsIHRyYW5zY3JpcHRzLCZuYnNwOy4uLkoCYXRKAnRvSgJpc0oDdGhlUgNvbmVSBXZpZGVvUgNob3dSBmEgdGltZSICEAFIAFgAaAA",
+        "source": "Kapwing"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "How to add subtitles to a video free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDhtAM6nc3aC4FM59_1CK3WVcqKAOg:1795355284441&q=How+to+add+subtitles+to+a+video+free&sa=X&ved=2ahUKEwiT1-XP25uYAxX4eTIDHQjmK6cQ1QJ6BAg_EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+add+subtitles+to+a+video+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Add subtitles to video online free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDhtAM6nc3aC4FM59_1CK3WVcqKAOg:1795355284441&q=Add+subtitles+to+video+online+free&sa=X&ved=2ahUKEwiT1-XP25uYAxX4eTIDHQjmK6cQ1QJ6BAhFEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Add+subtitles+to+video+online+free"
+      },
+      {
+        "block_position": 1,
+        "query": "How to add subtitles to a downloaded video",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDhtAM6nc3aC4FM59_1CK3WVcqKAOg:1795355284441&q=How+to+add+subtitles+to+a+downloaded+video&sa=X&ved=2ahUKEwiT1-XP25uYAxX4eTIDHQjmK6cQ1QJ6BAhEEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+add+subtitles+to+a+downloaded+video"
+      },
+      {
+        "block_position": 1,
+        "query": "How to add subtitles to a movie permanently",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDhtAM6nc3aC4FM59_1CK3WVcqKAOg:1795355284441&q=How+to+add+subtitles+to+a+movie+permanently&sa=X&ved=2ahUKEwiT1-XP25uYAxX4eTIDHQjmK6cQ1QJ6BAhCEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+add+subtitles+to+a+movie+permanently"
+      },
+      {
+        "block_position": 1,
+        "query": "How to add subtitles to a YouTube video",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDhtAM6nc3aC4FM59_1CK3WVcqKAOg:1795355284441&q=How+to+add+subtitles+to+a+YouTube+video&sa=X&ved=2ahUKEwiT1-XP25uYAxX4eTIDHQjmK6cQ1QJ6BAhDEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+add+subtitles+to+a+YouTube+video"
+      },
+      {
+        "block_position": 1,
+        "query": "Add subtitles to video free without watermark",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDhtAM6nc3aC4FM59_1CK3WVcqKAOg:1795355284441&q=Add+subtitles+to+video+free+without+watermark&sa=X&ved=2ahUKEwiT1-XP25uYAxX4eTIDHQjmK6cQ1QJ6BAhBEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Add+subtitles+to+video+free+without+watermark"
+      },
+      {
+        "block_position": 1,
+        "query": "How to add subtitles to a video automatically",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDhtAM6nc3aC4FM59_1CK3WVcqKAOg:1795355284441&q=How+to+add+subtitles+to+a+video+automatically&sa=X&ved=2ahUKEwiT1-XP25uYAxX4eTIDHQjmK6cQ1QJ6BAhAEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+add+subtitles+to+a+video+automatically"
+      },
+      {
+        "block_position": 1,
+        "query": "How to add subtitles to a video in Canva",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDhtAM6nc3aC4FM59_1CK3WVcqKAOg:1795355284441&q=How+to+add+subtitles+to+a+video+in+Canva&sa=X&ved=2ahUKEwiT1-XP25uYAxX4eTIDHQjmK6cQ1QJ6BAg-EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+add+subtitles+to+a+video+in+Canva"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "What are the fastest ways to create subtitles for many videos?",
+        "link": "https://www.google.com/goto?url=CAESpgEBxCJF1xbzfkXufFlJ7quXLll1V5UKs3nON0DonDGEh2K2QB3Wbb6Jpu-_0FmZvA5_tgJBZV1w9JnY0rUmBbiAZ7I8AdybFOt3eBOkQCeMpqGn6kqqitpDw10M4IUTd5gzw_dqqzOFABAOU2bkxgy5YlPwQGBsvLUL1dgNvS6_dVe1X-wfepqYmVsBMehfsdYtQCfpDuomMzzV0HQ53eZ4nR7V896F&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ",
+        "date": "2 years ago",
+        "extensions": [
+          "r/VideoEditing",
+          "40+ comments"
+        ],
+        "source": "Reddit",
+        "answers": [
+          {
+            "link": "https://www.google.com/goto?url=CAESrgEBxCJF12w4zviwuGL_dop4VRWN__OeCGfe7wJdfuUXsBbO0Axr8BezY9K5RgH0ho0H0LaKIKgY-0OEy3n2I1UZsEnIVu5kqdy0TITehbd6dE_92b_97b4P79kHqXL_S299tuxptUkXZqGsNE3W2g_Mk_eVx-yyhilMuNViGQk0zdUEB_shfrXMHgFKhf0fyLSPRdMnJEEARw5qDJOR3s82P4WRzlPZmB0ZMdEoI78&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ",
+            "extensions": [
+              "Top answer",
+              "4 votes",
+              "2 years ago"
+            ]
+          },
+          {
+            "link": "https://www.google.com/goto?url=CAESrgEBxCJF1zJp0pdNowlxLni-mmsR7CMa_iJ8cf4ZaroB7fDkMd8_elAOuqyGXhxPPErQwz-f-wo3vjTYfAW-0MIy9Ub7HxK-ukR_7G4vpnMGA1mmu1Ccj7cIT_A9vfqHJDFuSeNyHx_hSNoSfH6U4NHNuZ9cg3ArDhYjSBrGdTEs3P63EO6RRsWg1hGHspWx69Ssa9cnuad9cLmUix98bUfbHLR1zDMe5KcTO8y5hRA&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ",
+            "extensions": [
+              "3 votes",
+              "2 years ago"
+            ]
+          },
+          {
+            "link": "https://www.google.com/goto?url=CAESrgEBxCJF16meq-qODFhC4rcJngL0GBQsUS260U5Be_Qv0Vg0mI3q_2XGXLAdbx2mRQAmoZxtpAOyqBlzZaAFgDSKHyVz3AjMEJvLfZa2FKAx7h2UoY3QnKvCh_1Fi-eX4GTq44KIN4iApp5-yFauG8MXvuxOHDu3ijixx5ngJLyPCRCuMM0_jnVSVJuzMBpj5jLwwBIVTEOAGH7yY0rH09pf0CS-ilgKhBbtmsYMSeQ&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ",
+            "extensions": [
+              "2 votes",
+              "2 years ago"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Faster solution for adding subtitles to long videos?",
+        "link": "https://www.google.com/goto?url=CAESfgHEIkXXaUPj2qbjs-6Guf_r0Um5XQ0_WjEe9i6MhQyVlEWi6sfIVNCNWvlhchxhYMAH9v_o8ttnlv27jLUQYNy6GEuMnyLSvDjAlP0ypFFqVCpZRB-8as9rmoPvYdKmIrCezaoZRV6nr4if1d95jYusX9o96Xwead1fpstRSA&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ",
+        "date": "5 years ago",
+        "extensions": [
+          "Final Cut Pro Users",
+          "10+ comments"
+        ],
+        "source": "Facebook",
+        "answers": [
+          {
+            "link": "https://www.google.com/goto?url=CAESfgHEIkXXaUPj2qbjs-6Guf_r0Um5XQ0_WjEe9i6MhQyVlEWi6sfIVNCNWvlhchxhYMAH9v_o8ttnlv27jLUQYNy6GEuMnyLSvDjAlP0ypFFqVCpZRB-8as9rmoPvYdKmIrCezaoZRV6nr4if1d95jYusX9o96Xwead1fpstRSA&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ"
+          }
+        ]
+      },
+      {
+        "title": "Is there a way to add subtitles to a video in easy, fastest, and accuracy?",
+        "link": "https://www.google.com/goto?url=CAESmgEBxCJF1zWlGd0xnO8Ng5sv-GSyV8QbAF8eMb8sM-Ix3PesCE4LjRVDvrzM1XSzdolYpV7xiYBJ_fmM5CWUIweUR8IMLwp8FlZINnrI-gCeCswx4igDnK2PP1n6mf-2K61ccSPABjbq0IeKIcMoLsIuo8mZKS4aWOpArxB7mby5BMP2LtqJ3Mhyt_ajy83vnYximUvNvGlu5szb&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ",
+        "date": "3 years ago",
+        "extensions": [
+          "50+ answers"
+        ],
+        "source": "Quora",
+        "answers": [
+          {
+            "link": "https://www.google.com/goto?url=CAESrAEBxCJF1wCf3f1TlJnFkTFtsrIJb1ot_9c19KvOHTehg6TfmmDz_28q0APurxvzJl58MZI78u0zXqM75FdkNWZjpdyy4LshEx8Fd9dMAHHAvF2a5c8K8-HoSowooItIy_7jE9NLgMdgefiapdTSFvp1gl78KLraJh5CsWvPnSjYkoSaYxZva7o0DlcQEM5MaadY2CGaeLd6NMkZcvTVrTTCjw1O7ZcROoa2VybE&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ",
+            "extensions": [
+              "Top answer",
+              "1012 votes",
+              "7 years ago"
+            ]
+          },
+          {
+            "link": "https://www.google.com/goto?url=CAESqwEBxCJF12pN48yL9yzZ-wG1hNms_0fkRWdD6DLV4-oG21StZsnutMMJnMebzTNl4MEDU6Fbruv1dCh_nW5nVeKdVAwsjg91WG2i5t4cA06JYeLoWdOVdCH993fGfg-sZDAVjHMGtHDlVP5xS3Lc5iDe25WG9q21sZbG8V1k9RnAr5XqwdoTzzWfRU5bxk3tVLJ4Lj48b2_QoLX-yntTYFwkdAxTrNpWJdhV7Ms&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ",
+            "extensions": [
+              "14 votes",
+              "9 years ago"
+            ]
+          },
+          {
+            "link": "https://www.google.com/goto?url=CAESrAEBxCJF15N74uVMLukkr9r0z-FYmTPMaWSkgysZvBRNNOgndgpMDwlF88xO_-ZZH_TEtLQjy4adVQkwMU9EJhpX0M1qnei9-912PdnaCSRIwgnNuHslWbs9BJDM-keW8u5j6JsVaqzb56sC4_V9Oq3_FN07-ibRFkKl8sbBg8S56ppyvJBMoDQ1w8mJ8L4ds0zFvBAqWo_A9CEMdo2IH5Dvm2zG4NJY8NlKzZeb&gsessionid=5xnCGtu3kprA8o66Kplv1am9Ev43XqMrc4CFlP6AsOmMhAVwgBDOcQ",
+            "extensions": [
+              "8 votes",
+              "7 years ago"
+            ]
+          }
+        ]
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=What+is+the+fastest+way+to+add+subtitles+to+10+videos+at+once?&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDhtAM6nc3aC4FM59_1CK3WVcqKAOg:1795355284441&ei=lPICa5O9GvjzyckPiMyvuQo&start=10&sa=N&sstk=AYl2yk9DKwl5MUNleJoMH_pztHk22-ABeTNf9-zpo4rVr25xuko1vePu7vnR9bGw6rHcR5uJyg_tOY6BVWQxz5WvmkPp4FKGTIQteA&ved=2ahUKEwiT1-XP25uYAxX4eTIDHQjmK6cQ8NMDegQIPBAU",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=What+is+the+fastest+way+to+add+subtitles+to+10+videos+at+once?&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDhtAM6nc3aC4FM59_1CK3WVcqKAOg:1795355284441&ei=lPICa5O9GvjzyckPiMyvuQo&start=10&sa=N&sstk=AYl2yk9DKwl5MUNleJoMH_pztHk22-ABeTNf9-zpo4rVr25xuko1vePu7vnR9bGw6rHcR5uJyg_tOY6BVWQxz5WvmkPp4FKGTIQteA&ved=2ahUKEwiT1-XP25uYAxX4eTIDHQjmK6cQ8tMDegQIPBAE",
+        "3": "https://www.google.com/search?q=What+is+the+fastest+way+to+add+subtitles+to+10+videos+at+once?&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDhtAM6nc3aC4FM59_1CK3WVcqKAOg:1795355284441&ei=lPICa5O9GvjzyckPiMyvuQo&start=20&sa=N&sstk=AYl2yk9DKwl5MUNleJoMH_pztHk22-ABeTNf9-zpo4rVr25xuko1vePu7vnR9bGw6rHcR5uJyg_tOY6BVWQxz5WvmkPp4FKGTIQteA&ved=2ahUKEwiT1-XP25uYAxX4eTIDHQjmK6cQ8tMDegQIPBAG",
+        "4": "https://www.google.com/search?q=What+is+the+fastest+way+to+add+subtitles+to+10+videos+at+once?&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDhtAM6nc3aC4FM59_1CK3WVcqKAOg:1795355284441&ei=lPICa5O9GvjzyckPiMyvuQo&start=30&sa=N&sstk=AYl2yk9DKwl5MUNleJoMH_pztHk22-ABeTNf9-zpo4rVr25xuko1vePu7vnR9bGw6rHcR5uJyg_tOY6BVWQxz5WvmkPp4FKGTIQteA&ved=2ahUKEwiT1-XP25uYAxX4eTIDHQjmK6cQ8tMDegQIPBAI",
+        "5": "https://www.google.com/search?q=What+is+the+fastest+way+to+add+subtitles+to+10+videos+at+once?&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDhtAM6nc3aC4FM59_1CK3WVcqKAOg:1795355284441&ei=lPICa5O9GvjzyckPiMyvuQo&start=40&sa=N&sstk=AYl2yk9DKwl5MUNleJoMH_pztHk22-ABeTNf9-zpo4rVr25xuko1vePu7vnR9bGw6rHcR5uJyg_tOY6BVWQxz5WvmkPp4FKGTIQteA&ved=2ahUKEwiT1-XP25uYAxX4eTIDHQjmK6cQ8tMDegQIPBAK",
+        "6": "https://www.google.com/search?q=What+is+the+fastest+way+to+add+subtitles+to+10+videos+at+once?&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDhtAM6nc3aC4FM59_1CK3WVcqKAOg:1795355284441&ei=lPICa5O9GvjzyckPiMyvuQo&start=50&sa=N&sstk=AYl2yk9DKwl5MUNleJoMH_pztHk22-ABeTNf9-zpo4rVr25xuko1vePu7vnR9bGw6rHcR5uJyg_tOY6BVWQxz5WvmkPp4FKGTIQteA&ved=2ahUKEwiT1-XP25uYAxX4eTIDHQjmK6cQ8tMDegQIPBAM",
+        "7": "https://www.google.com/search?q=What+is+the+fastest+way+to+add+subtitles+to+10+videos+at+once?&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDhtAM6nc3aC4FM59_1CK3WVcqKAOg:1795355284441&ei=lPICa5O9GvjzyckPiMyvuQo&start=60&sa=N&sstk=AYl2yk9DKwl5MUNleJoMH_pztHk22-ABeTNf9-zpo4rVr25xuko1vePu7vnR9bGw6rHcR5uJyg_tOY6BVWQxz5WvmkPp4FKGTIQteA&ved=2ahUKEwiT1-XP25uYAxX4eTIDHQjmK6cQ8tMDegQIPBAO",
+        "8": "https://www.google.com/search?q=What+is+the+fastest+way+to+add+subtitles+to+10+videos+at+once?&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDhtAM6nc3aC4FM59_1CK3WVcqKAOg:1795355284441&ei=lPICa5O9GvjzyckPiMyvuQo&start=70&sa=N&sstk=AYl2yk9DKwl5MUNleJoMH_pztHk22-ABeTNf9-zpo4rVr25xuko1vePu7vnR9bGw6rHcR5uJyg_tOY6BVWQxz5WvmkPp4FKGTIQteA&ved=2ahUKEwiT1-XP25uYAxX4eTIDHQjmK6cQ8tMDegQIPBAQ",
+        "9": "https://www.google.com/search?q=What+is+the+fastest+way+to+add+subtitles+to+10+videos+at+once?&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDhtAM6nc3aC4FM59_1CK3WVcqKAOg:1795355284441&ei=lPICa5O9GvjzyckPiMyvuQo&start=80&sa=N&sstk=AYl2yk9DKwl5MUNleJoMH_pztHk22-ABeTNf9-zpo4rVr25xuko1vePu7vnR9bGw6rHcR5uJyg_tOY6BVWQxz5WvmkPp4FKGTIQteA&ved=2ahUKEwiT1-XP25uYAxX4eTIDHQjmK6cQ8tMDegQIPBAS"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=What+is+the+fastest+way+to+add+subtitles+to+10+videos+at+once%3F&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=What+is+the+fastest+way+to+add+subtitles+to+10+videos+at+once%3F&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=What+is+the+fastest+way+to+add+subtitles+to+10+videos+at+once%3F&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=What+is+the+fastest+way+to+add+subtitles+to+10+videos+at+once%3F&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=What+is+the+fastest+way+to+add+subtitles+to+10+videos+at+once%3F&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=What+is+the+fastest+way+to+add+subtitles+to+10+videos+at+once%3F&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=What+is+the+fastest+way+to+add+subtitles+to+10+videos+at+once%3F&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=What+is+the+fastest+way+to+add+subtitles+to+10+videos+at+once%3F&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=What+is+the+fastest+way+to+add+subtitles+to+10+videos+at+once%3F&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=What+is+the+fastest+way+to+add+subtitles+to+10+videos+at+once%3F&start=80"
+      }
+    }
+  },
+  "error_details": null
+}

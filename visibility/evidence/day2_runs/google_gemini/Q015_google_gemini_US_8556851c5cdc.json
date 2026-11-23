@@ -1,0 +1,18 @@
+{
+  "measurement_id": "8556851c5cdc",
+  "question_id": "Q015",
+  "timestamp_utc": "2026-11-23T09:00:31.413430+00:00",
+  "provider_name": "Google Gemini",
+  "model_identifier": "gemini-2.5-flash",
+  "question": "Top tools for turning webinars into bite-sized social media clips",
+  "market": "US",
+  "collection_method": "DAY_2_AUTOMATED_API",
+  "execution_status": "FAILED",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [],
+  "raw_text_summary": "",
+  "raw_payload": null,
+  "error_details": "HTTP Error 503: Service Unavailable"
+}

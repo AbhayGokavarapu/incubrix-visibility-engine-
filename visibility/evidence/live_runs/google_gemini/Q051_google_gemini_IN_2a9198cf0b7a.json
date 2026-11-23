@@ -1,0 +1,270 @@
+{
+  "measurement_id": "2a9198cf0b7a",
+  "question_id": "Q051",
+  "timestamp_utc": "2026-11-22T11:35:13.091013+00:00",
+  "provider_name": "Google Gemini",
+  "model_identifier": "gemini-2.5-flash",
+  "question": "Best AI video repurposing tools for Indian creators and podcasters",
+  "market": "IN",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [
+    "Descript"
+  ],
+  "position": null,
+  "citations": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXg4qglWxhxKcm2qxnIWcdof42xtssj2BOsbvs521KA-z6Hb9oLOVHpweqwRgk5sdmWqT0VFv0Th-Ss9lwzc2uCkU-nofq0K8GtLrR711TMLK3rcTUuHFBJiyzg9FOcWitbjSS4kB_zxgbEleVyda6srultd549OelaBfe7sby8dQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHifFG13MYOyCeIw9s1vMM_CYGg6o_ZnX9zpLEMEffFqPX4JfVhdM4kqxxQ-YYk2iOFyMfXhtJ_ScXdLVdGJ3Lfifofguv_dpEiiFqlaSL07t7twHPtFyJUCDfqFI66fK4X572HmSAv7voAITzT57Fd7AmSSkkkzGlfRZX5odCK3oYu_SAqcnw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqp_2hJB-vYCzo6yAE0rDcS5zRdDBRNXbftZd4J7KVYrafbTnkk0XIJGTdqJQr4X4oj07lJZB9ZluuE7t_dZGTPFGZr38nk8r4HoEgTe65MuwXfzJMHt5Mq4xg2YmmqkKbRULm4o2JAMEYadwbDSRhqKlhgW5kenySZ3vOqjUKfwCu_41NTya7NRpY",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk5R0P3dPtEqgnkw075tRUSFKToCDZki2wPKqHW8-gvO8JR0VEsMK8wJ0QIXK519yPQB6vouIl6t6RMNFQzDobCOc8oTz6RnB8WvHqxTUh0OAQHVoDf92FzuQnBRj2-VXD8l5JQ7xC2Ppbpg0j2HuaG7O4a2g92DU=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3E8rTKqabR3gN4XL09Jr1jgQuuyB9OoWk7fYRyPqb2UxDSIMp5sh7z5SGAq2B5tjw969g0xN7Da_4jtosP2TpM8DJ4vWHCGXPrYihn93YENGLHk3CQoFyWYrpq4H4VVD7Ap9p1swjvIDLoy3IIfS34LM0O2TmJUw1Lqci1iE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnd5_uU__7q1k_h9Sg7urtBEMhe_2bA6r4sBkO51F28_sMlrtevxAI_xoJMiGO_MMMvmXCcH1SPztOtLfZ23QeduBWjHyYRy6FibBMRXtS6bXiNNaLGJCuFxwfu7_7qGgEmKbhVltv61QZ4i-7EoBzagGsoFnDnStmt5gQ",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGP8n7TVNdtvgjKOESLZYSBjvyUs6lv7oMn3WI3gRHXMpYcUHP7hfWaRSnR7IuaQu3CDVBwrF_ifuIKqG0TsHsXfAkHr1tRa9DCEueyEouuXv3GVj5NAIidby4915prh6AQRVDNKkgRl6kMz73h5PEfzHXWRQvnvW9oLTJLTrtZtC9QfjjwizRmH5vw1R8KdTL10i9TZhLl9GFopIMYlqLdd1RnRE4=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgBObMHHVFI2X_SmVjnKTrmfv3S9ayNO-FAZGSScpb7_XgZH53Cc09WI1qo3GcuMvxVG3opMcEdL_6QPHkfGez_d2rW7sCsSXIeZxKAJAmq7b_DkbNyT0Glb4CKLDDsZIIToZpd63ujM08AXs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAsqNgEXcE5Lv95DPZm1aRGBQ1lDjxZIAbsGFLVy-_GHS5osAjDMi5qD9oRrxipXxbqFvGOK5yiBfuTUZahTGWJplSB83kcFz8jdKsXRDyhAy3OcgHXltvCIfHcKD8nXCPZMF60r9oAEjyu1vRhw7Po52FOXY2rw5PZIc=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5jKMAMmdri-RD4EY74wk6g9-hjnVWWif-X0UzvhaOIU_8PHKrWGGflPzKKDozPldf-hx6KzaYH4KDa_-W3v5HyXFDc3M5IQ_B8dwISZ9Wv-RODYH92ZJY3SOjv68DfktFt_raP2iquOMVO6cXwGe79g2QKcv9MeowH7Pj7Pcv",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUHkTVHmCsutVAPiiMxigQkJmU0Sf6tkRnWAabHGnsHax3vIGd2DTw-yt02CuLdcKiHw9Nqis1ISyWP10f8gld05eAsJtg5psxgpeCHqu6UT8joCchZ4ENNXigNQ375ksDMxQuz52-qMww-JWxJcn5",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2cf_5ClbWXJ-7xRE-PsfotdhEoDOOicat51iJ0u0SGIJl3a7Gfr3jzxPTKUsCyTta8h_iPBfeUQx3LXB7Q7h9DSF4QtKyoqYPm1Hmws5NgPZ6Oe-XsAvG_MTZy_vUG1614JaQTAoScrLWTgW1U8KVOzARp-8WjUzXXw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLlPSVX9oj8Wu1rT_XvLg8S46mIkWMG93Vn2EDrwS0q2374B_8rjtHRSRmUu6cuYBSD8VjArkUvn-LzemXI1gLqZ45d5GFYWwjFTw-0SXW3K_cOosD_lXhLzIlKRkQGOYKsYqC28ygC34yIPt082vbnDE903U=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9xgy6wj-NS4AXD-ZbN86UEMP50yCFnIlBO4qmqblhIg4ioiilGzR-W87wR5RmAys1Z-010fwRwkEOw4Zt8RX0U3c-eHAcRmAtShNXQmqwmG-Mi8JOwiZkIcw_25EyxsfkONM34zeslbH-zZ_BOUtH79vLqClp-PntEWCnIVMkPGjhSYjTVWGoTV3CSe7Bj98FCSlkDlc1XrcVKObFzEU5xcS22Qib",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEveqfTCqEyyqVhHoaQA_nlDXlawAOaYiLXNnuuqAuyoeVKvXTKAZYVtbXoBGASGH7nxaz-vhd-Zq5AHTPqZUR9rj-5rcGM-DS55BnRQLEcAz3joSu-hbvbqQ4dwbaqdhethV--o0TTffcAzWsm1uItl3X6Pqkfsb6apjPksn-f4flmnHfvu9NbKYkF95TqnQoz01xPO1dTrfXAUBrx5zGdqU0gK_ptpptekiRbPaFt",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEncYnLRo-Xl9KKh_sJRxxfybNlWn07zOlxhSyJQqrIi7tulFvP3uXt5xi44ob8rtDJfAzsWP8wKIhY1fVLWpv2mGW_1lUK6nu2PMHeuXAU9Lvqeli4I93FWHTTk8Wkz_fynkCzQwpRmzGPWG1cp8uWw5ZH9fXgfa5BYOwSiSxUyzVQKJKkhX6B0C-BImzpBKR5ZgksjvjhiPtxoVtT6p8ZBWLV2ZqVn77Wtlc87x0hD09mH8RHS6WCPnwUAAkm5JMiO0CIfeE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdO7_ViOCPMrEB1Ah0emsitMFTmaRzoEqaPFR7ewrLgjAby5t_RhYRHsJB8WNmtY67mslGwTBa_app29tjz8ZIeoDMb936Eh0-0meV7tmdyMl0AZ2_WwZEFFibk21m7I4SPAiM8Pq_NCPQHDtZxPLKMERCBXSFXEkVfCH1BhkCBgevXpiYm-T1MXST5goDMNCZqyQfq1Bdmjp9hQXHNU8MXmTs"
+  ],
+  "raw_text_summary": "For Indian creators and podcasters looking to efficiently repurpose their video content, a growing suite of AI-powered tools offers solutions for everything from generating short-form clips to adding regional language support and automating distribution. These tools are designed to maximize reach across platforms like YouTube, Instagram Reels, and LinkedIn, addressing the unique demands of India's diverse linguistic landscape and booming creator economy.\n\nHere are some of the leading AI video repurposing tools, highlighting their key features and relevance for Indian creators:\n\n**1. For Transforming Long-Form Content into Short Clips:**\n\n*   **OpusClip:** This tool specializes in automatically identifying high-engagement moments from long videos (like podcasts, interviews, or webinars) and converting them into short, social-media-ready clips. It offers features like automated short-form clip generation, reliable face-framing, speaker tracking, and dynamic captioning, significantly reducing manual editing time.\n*   **Descript:** Descript allows users to edit video by editing its transcript, making it highly efficient for cutting silence, removing filler words, and rearranging sections. It's particularly useful for podcasters and video creators who want to repurpose spoken-word content into shorter video formats with captions.\n*   **Vizard:** Ideal for marketing teams, Vizard clips webinars, podcasts, and Zoom recordings into short vertical clips with captions, speaker tracking, and brand styling, making it easy to create content for Shorts, Reels, and LinkedIn.\n*   **Repurpose.io:** This tool automates cross-platform publishing, taking a video or podcast episode and turning it into platform-optimized clips that can be automatically published across various social channels, including TikTok, YouTube Shorts, Instagram Reels, and LinkedIn. It handles resizing, captioning, and watermark removal.\n\n**2. For Converting Text/Blogs into Videos:**\n\n*   **Pictory AI:** Highly regarded for converting long-form text content such as blogs, scripts, and articles into short, shareable video clips. It automatically pulls relevant stock footage, adds AI voiceovers, and generates captions.\n*   **InVideo AI:** This tool is noted for its Indian language support and ability to generate videos from text prompts. It allows for hands-on editing on a multitrack timeline and is suitable for creating first drafts from a brief.\n*   **FluxNote:** Positioned as an end-to-end solution for short-form video, FluxNote generates publish-ready videos from a simple topic or script, complete with AI-generated script, voiceover (with 350+ voices in 27 languages including Hindi), animated captions, relevant footage, and background music. It also offers auto-publishing to platforms like YouTube Shorts and Instagram Reels.\n*   **Lumen5:** Transforms blog posts and articles into engaging videos automatically, with AI selecting visuals and adding music. [cite: 1 For Indian creators and podcasters looking to efficiently repurpose their video content, a growing suite of AI-powered tools offers solutions for everything from generating short-form clips to adding regional language support and automating distribution. These tools are designed to maximize reach across platforms like YouTube, Instagram Reels, and LinkedIn, addressing the unique demands of India's diverse linguistic landscape and booming creator economy. [cite: 2, 3, 6, 12]\n\nHere are some of the leading AI video repurposing tools, highlighting their key features and relevance for Indian creators:\n\n**1. For Transforming Long-Form Content into Short Clips:**\n\n*   **OpusClip:** This tool specializes in automatically identifying high-engagement moments from long videos (like podcasts, interviews, or webinars) and converting them into short, social-media-ready clips. It offers features like automated short-form clip generation, reliable face-framing, speaker tracking, and dynamic captioning, significantly reducing manual editing time. [cite: 7, 10, 14]\n*   **Descript:** Descript allows users to edit video by editing its transcript, making it highly efficient for cutting silence, removing filler words, and rearranging sections. It's particularly useful for podcasters and video creators who want to repurpose spoken-word content into shorter video formats with captions. [cite: 2, 3, 7, 13, 14, 15, 16]\n*   **Vizard:** Ideal for marketing teams, Vizard clips webinars, podcasts, and Zoom recordings into short vertical clips with captions, speaker tracking, and brand styling, making it easy to create content for Shorts, Reels, and LinkedIn. [cite: 15]\n*   **Repurpose.io:** This tool automates cross-platform publishing, taking a video or podcast episode and turning it into platform-optimized clips that can be automatically published across various social channels, including TikTok, YouTube Shorts, Instagram Reels, and LinkedIn. It handles resizing, captioning, and watermark removal. [cite: 14, 15]\n\n**2. For Converting Text/Blogs into Videos:**\n\n*   **Pictory AI:** Highly regarded for converting long-form text content such as blogs, scripts, and articles into short, shareable video clips. It automatically pulls relevant stock footage, adds AI voiceovers, and generates captions. [cite: 2, 8, 9, 10]\n*   **InVideo AI:** This tool is noted for its Indian language support and ability to generate videos from text prompts. It allows for hands-on editing on a multitrack timeline and is suitable for creating first drafts from a brief. [cite: 3, 7, 8, 9, 10]\n*   **FluxNote:** Positioned as an end-to-end solution for short-form video, FluxNote generates publish-ready videos from a simple topic or script, complete with AI-generated script, voiceover (with 350+ voices in 27 languages including Hindi), animated captions, relevant footage, and background music. It also offers auto-publishing to platforms like YouTube Shorts and Instagram Reels. [cite: 11]\n*   **Lumen5:** Transforms blog posts and articles into engaging videos automatically, with AI selecting visuals and adding music. [cite: 1",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For Indian creators and podcasters looking to efficiently repurpose their video content, a growing suite of AI-powered tools offers solutions for everything from generating short-form clips to adding regional language support and automating distribution. These tools are designed to maximize reach across platforms like YouTube, Instagram Reels, and LinkedIn, addressing the unique demands of India's diverse linguistic landscape and booming creator economy.\n\nHere are some of the leading AI video repurposing tools, highlighting their key features and relevance for Indian creators:\n\n**1. For Transforming Long-Form Content into Short Clips:**\n\n*   **OpusClip:** This tool specializes in automatically identifying high-engagement moments from long videos (like podcasts, interviews, or webinars) and converting them into short, social-media-ready clips. It offers features like automated short-form clip generation, reliable face-framing, speaker tracking, and dynamic captioning, significantly reducing manual editing time.\n*   **Descript:** Descript allows users to edit video by editing its transcript, making it highly efficient for cutting silence, removing filler words, and rearranging sections. It's particularly useful for podcasters and video creators who want to repurpose spoken-word content into shorter video formats with captions.\n*   **Vizard:** Ideal for marketing teams, Vizard clips webinars, podcasts, and Zoom recordings into short vertical clips with captions, speaker tracking, and brand styling, making it easy to create content for Shorts, Reels, and LinkedIn.\n*   **Repurpose.io:** This tool automates cross-platform publishing, taking a video or podcast episode and turning it into platform-optimized clips that can be automatically published across various social channels, including TikTok, YouTube Shorts, Instagram Reels, and LinkedIn. It handles resizing, captioning, and watermark removal.\n\n**2. For Converting Text/Blogs into Videos:**\n\n*   **Pictory AI:** Highly regarded for converting long-form text content such as blogs, scripts, and articles into short, shareable video clips. It automatically pulls relevant stock footage, adds AI voiceovers, and generates captions.\n*   **InVideo AI:** This tool is noted for its Indian language support and ability to generate videos from text prompts. It allows for hands-on editing on a multitrack timeline and is suitable for creating first drafts from a brief.\n*   **FluxNote:** Positioned as an end-to-end solution for short-form video, FluxNote generates publish-ready videos from a simple topic or script, complete with AI-generated script, voiceover (with 350+ voices in 27 languages including Hindi), animated captions, relevant footage, and background music. It also offers auto-publishing to platforms like YouTube Shorts and Instagram Reels.\n*   **Lumen5:** Transforms blog posts and articles into engaging videos automatically, with AI selecting visuals and adding music. [cite: 1"
+            },
+            {
+              "text": "For Indian creators and podcasters looking to efficiently repurpose their video content, a growing suite of AI-powered tools offers solutions for everything from generating short-form clips to adding regional language support and automating distribution. These tools are designed to maximize reach across platforms like YouTube, Instagram Reels, and LinkedIn, addressing the unique demands of India's diverse linguistic landscape and booming creator economy. [cite: 2, 3, 6, 12]\n\nHere are some of the leading AI video repurposing tools, highlighting their key features and relevance for Indian creators:\n\n**1. For Transforming Long-Form Content into Short Clips:**\n\n*   **OpusClip:** This tool specializes in automatically identifying high-engagement moments from long videos (like podcasts, interviews, or webinars) and converting them into short, social-media-ready clips. It offers features like automated short-form clip generation, reliable face-framing, speaker tracking, and dynamic captioning, significantly reducing manual editing time. [cite: 7, 10, 14]\n*   **Descript:** Descript allows users to edit video by editing its transcript, making it highly efficient for cutting silence, removing filler words, and rearranging sections. It's particularly useful for podcasters and video creators who want to repurpose spoken-word content into shorter video formats with captions. [cite: 2, 3, 7, 13, 14, 15, 16]\n*   **Vizard:** Ideal for marketing teams, Vizard clips webinars, podcasts, and Zoom recordings into short vertical clips with captions, speaker tracking, and brand styling, making it easy to create content for Shorts, Reels, and LinkedIn. [cite: 15]\n*   **Repurpose.io:** This tool automates cross-platform publishing, taking a video or podcast episode and turning it into platform-optimized clips that can be automatically published across various social channels, including TikTok, YouTube Shorts, Instagram Reels, and LinkedIn. It handles resizing, captioning, and watermark removal. [cite: 14, 15]\n\n**2. For Converting Text/Blogs into Videos:**\n\n*   **Pictory AI:** Highly regarded for converting long-form text content such as blogs, scripts, and articles into short, shareable video clips. It automatically pulls relevant stock footage, adds AI voiceovers, and generates captions. [cite: 2, 8, 9, 10]\n*   **InVideo AI:** This tool is noted for its Indian language support and ability to generate videos from text prompts. It allows for hands-on editing on a multitrack timeline and is suitable for creating first drafts from a brief. [cite: 3, 7, 8, 9, 10]\n*   **FluxNote:** Positioned as an end-to-end solution for short-form video, FluxNote generates publish-ready videos from a simple topic or script, complete with AI-generated script, voiceover (with 350+ voices in 27 languages including Hindi), animated captions, relevant footage, and background music. It also offers auto-publishing to platforms like YouTube Shorts and Instagram Reels. [cite: 11]\n*   **Lumen5:** Transforms blog posts and articles into engaging videos automatically, with AI selecting visuals and adding music. [cite: 1"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9xgy6wj-NS4AXD-ZbN86UEMP50yCFnIlBO4qmqblhIg4ioiilGzR-W87wR5RmAys1Z-010fwRwkEOw4Zt8RX0U3c-eHAcRmAtShNXQmqwmG-Mi8JOwiZkIcw_25EyxsfkONM34zeslbH-zZ_BOUtH79vLqClp-PntEWCnIVMkPGjhSYjTVWGoTV3CSe7Bj98FCSlkDlc1XrcVKObFzEU5xcS22Qib\">AI tools for content creators India</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEveqfTCqEyyqVhHoaQA_nlDXlawAOaYiLXNnuuqAuyoeVKvXTKAZYVtbXoBGASGH7nxaz-vhd-Zq5AHTPqZUR9rj-5rcGM-DS55BnRQLEcAz3joSu-hbvbqQ4dwbaqdhethV--o0TTffcAzWsm1uItl3X6Pqkfsb6apjPksn-f4flmnHfvu9NbKYkF95TqnQoz01xPO1dTrfXAUBrx5zGdqU0gK_ptpptekiRbPaFt\">video repurposing tools for podcasters India</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEncYnLRo-Xl9KKh_sJRxxfybNlWn07zOlxhSyJQqrIi7tulFvP3uXt5xi44ob8rtDJfAzsWP8wKIhY1fVLWpv2mGW_1lUK6nu2PMHeuXAU9Lvqeli4I93FWHTTk8Wkz_fynkCzQwpRmzGPWG1cp8uWw5ZH9fXgfa5BYOwSiSxUyzVQKJKkhX6B0C-BImzpBKR5ZgksjvjhiPtxoVtT6p8ZBWLV2ZqVn77Wtlc87x0hD09mH8RHS6WCPnwUAAkm5JMiO0CIfeE=\">best AI video repurposing tools for Indian creators and podcasters</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdO7_ViOCPMrEB1Ah0emsitMFTmaRzoEqaPFR7ewrLgjAby5t_RhYRHsJB8WNmtY67mslGwTBa_app29tjz8ZIeoDMb936Eh0-0meV7tmdyMl0AZ2_WwZEFFibk21m7I4SPAiM8Pq_NCPQHDtZxPLKMERCBXSFXEkVfCH1BhkCBgevXpiYm-T1MXST5goDMNCZqyQfq1Bdmjp9hQXHNU8MXmTs\">AI video repurposing tools India</a>\n  </div>\n</div>\n"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXg4qglWxhxKcm2qxnIWcdof42xtssj2BOsbvs521KA-z6Hb9oLOVHpweqwRgk5sdmWqT0VFv0Th-Ss9lwzc2uCkU-nofq0K8GtLrR711TMLK3rcTUuHFBJiyzg9FOcWitbjSS4kB_zxgbEleVyda6srultd549OelaBfe7sby8dQ=",
+                "title": "founderswing.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHifFG13MYOyCeIw9s1vMM_CYGg6o_ZnX9zpLEMEffFqPX4JfVhdM4kqxxQ-YYk2iOFyMfXhtJ_ScXdLVdGJ3Lfifofguv_dpEiiFqlaSL07t7twHPtFyJUCDfqFI66fK4X572HmSAv7voAITzT57Fd7AmSSkkkzGlfRZX5odCK3oYu_SAqcnw=",
+                "title": "github.io"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqp_2hJB-vYCzo6yAE0rDcS5zRdDBRNXbftZd4J7KVYrafbTnkk0XIJGTdqJQr4X4oj07lJZB9ZluuE7t_dZGTPFGZr38nk8r4HoEgTe65MuwXfzJMHt5Mq4xg2YmmqkKbRULm4o2JAMEYadwbDSRhqKlhgW5kenySZ3vOqjUKfwCu_41NTya7NRpY",
+                "title": "magicroll.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk5R0P3dPtEqgnkw075tRUSFKToCDZki2wPKqHW8-gvO8JR0VEsMK8wJ0QIXK519yPQB6vouIl6t6RMNFQzDobCOc8oTz6RnB8WvHqxTUh0OAQHVoDf92FzuQnBRj2-VXD8l5JQ7xC2Ppbpg0j2HuaG7O4a2g92DU=",
+                "title": "truefan.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3E8rTKqabR3gN4XL09Jr1jgQuuyB9OoWk7fYRyPqb2UxDSIMp5sh7z5SGAq2B5tjw969g0xN7Da_4jtosP2TpM8DJ4vWHCGXPrYihn93YENGLHk3CQoFyWYrpq4H4VVD7Ap9p1swjvIDLoy3IIfS34LM0O2TmJUw1Lqci1iE=",
+                "title": "aigrants.in"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnd5_uU__7q1k_h9Sg7urtBEMhe_2bA6r4sBkO51F28_sMlrtevxAI_xoJMiGO_MMMvmXCcH1SPztOtLfZ23QeduBWjHyYRy6FibBMRXtS6bXiNNaLGJCuFxwfu7_7qGgEmKbhVltv61QZ4i-7EoBzagGsoFnDnStmt5gQ",
+                "title": "batterseawebexpert.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGP8n7TVNdtvgjKOESLZYSBjvyUs6lv7oMn3WI3gRHXMpYcUHP7hfWaRSnR7IuaQu3CDVBwrF_ifuIKqG0TsHsXfAkHr1tRa9DCEueyEouuXv3GVj5NAIidby4915prh6AQRVDNKkgRl6kMz73h5PEfzHXWRQvnvW9oLTJLTrtZtC9QfjjwizRmH5vw1R8KdTL10i9TZhLl9GFopIMYlqLdd1RnRE4=",
+                "title": "thegenaiacademy.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgBObMHHVFI2X_SmVjnKTrmfv3S9ayNO-FAZGSScpb7_XgZH53Cc09WI1qo3GcuMvxVG3opMcEdL_6QPHkfGez_d2rW7sCsSXIeZxKAJAmq7b_DkbNyT0Glb4CKLDDsZIIToZpd63ujM08AXs=",
+                "title": "aitoolsindia.in"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAsqNgEXcE5Lv95DPZm1aRGBQ1lDjxZIAbsGFLVy-_GHS5osAjDMi5qD9oRrxipXxbqFvGOK5yiBfuTUZahTGWJplSB83kcFz8jdKsXRDyhAy3OcgHXltvCIfHcKD8nXCPZMF60r9oAEjyu1vRhw7Po52FOXY2rw5PZIc=",
+                "title": "distribution.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5jKMAMmdri-RD4EY74wk6g9-hjnVWWif-X0UzvhaOIU_8PHKrWGGflPzKKDozPldf-hx6KzaYH4KDa_-W3v5HyXFDc3M5IQ_B8dwISZ9Wv-RODYH92ZJY3SOjv68DfktFt_raP2iquOMVO6cXwGe79g2QKcv9MeowH7Pj7Pcv",
+                "title": "aigrants.in"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUHkTVHmCsutVAPiiMxigQkJmU0Sf6tkRnWAabHGnsHax3vIGd2DTw-yt02CuLdcKiHw9Nqis1ISyWP10f8gld05eAsJtg5psxgpeCHqu6UT8joCchZ4ENNXigNQ375ksDMxQuz52-qMww-JWxJcn5",
+                "title": "infinall.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2cf_5ClbWXJ-7xRE-PsfotdhEoDOOicat51iJ0u0SGIJl3a7Gfr3jzxPTKUsCyTta8h_iPBfeUQx3LXB7Q7h9DSF4QtKyoqYPm1Hmws5NgPZ6Oe-XsAvG_MTZy_vUG1614JaQTAoScrLWTgW1U8KVOzARp-8WjUzXXw==",
+                "title": "etoolkit.in"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLlPSVX9oj8Wu1rT_XvLg8S46mIkWMG93Vn2EDrwS0q2374B_8rjtHRSRmUu6cuYBSD8VjArkUvn-LzemXI1gLqZ45d5GFYWwjFTw-0SXW3K_cOosD_lXhLzIlKRkQGOYKsYqC28ygC34yIPt082vbnDE903U=",
+                "title": "fluxnote.io"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 255,
+                "endIndex": 458,
+                "text": "These tools are designed to maximize reach across platforms like YouTube, Instagram Reels, and LinkedIn, addressing the unique demands of India's diverse linguistic landscape and booming creator economy."
+              },
+              "groundingChunkIndices": [
+                0,
+                1,
+                2,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 855,
+                "endIndex": 1025,
+                "text": "It offers features like automated short-form clip generation, reliable face-framing, speaker tracking, and dynamic captioning, significantly reducing manual editing time."
+              },
+              "groundingChunkIndices": [
+                4,
+                5,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1204,
+                "endIndex": 1346,
+                "text": "It's particularly useful for podcasters and video creators who want to repurpose spoken-word content into shorter video formats with captions."
+              },
+              "groundingChunkIndices": [
+                0,
+                1,
+                4,
+                7,
+                6,
+                8,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1347,
+                "endIndex": 1586,
+                "text": "*   **Vizard:** Ideal for marketing teams, Vizard clips webinars, podcasts, and Zoom recordings into short vertical clips with captions, speaker tracking, and brand styling, making it easy to create content for Shorts, Reels, and LinkedIn."
+              },
+              "groundingChunkIndices": [
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1868,
+                "endIndex": 1923,
+                "text": "It handles resizing, captioning, and watermark removal."
+              },
+              "groundingChunkIndices": [
+                6,
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2118,
+                "endIndex": 2208,
+                "text": "It automatically pulls relevant stock footage, adds AI voiceovers, and generates captions."
+              },
+              "groundingChunkIndices": [
+                0,
+                10,
+                11,
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2330,
+                "endIndex": 2441,
+                "text": "It allows for hands-on editing on a multitrack timeline and is suitable for creating first drafts from a brief."
+              },
+              "groundingChunkIndices": [
+                1,
+                4,
+                10,
+                11,
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2746,
+                "endIndex": 2830,
+                "text": "It also offers auto-publishing to platforms like YouTube Shorts and Instagram Reels."
+              },
+              "groundingChunkIndices": [
+                12
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "best AI video repurposing tools for Indian creators and podcasters",
+            "AI video repurposing tools India",
+            "video repurposing tools for podcasters India",
+            "AI tools for content creators India"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 37,
+      "candidatesTokenCount": 1353,
+      "totalTokenCount": 1985,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 37
+        }
+      ],
+      "toolUsePromptTokenCount": 186,
+      "toolUsePromptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 186
+        }
+      ],
+      "thoughtsTokenCount": 409,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-2.5-flash",
+    "responseId": "aNMCa4OQHM34694P7LqyqAI"
+  },
+  "error_details": null
+}

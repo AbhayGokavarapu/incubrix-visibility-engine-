@@ -1,0 +1,320 @@
+{
+  "measurement_id": "15757c3cc2e8",
+  "question_id": "Q005",
+  "timestamp_utc": "2026-11-22T11:20:23.300246+00:00",
+  "provider_name": "Google Gemini",
+  "model_identifier": "gemini-2.5-flash",
+  "question": "IncuBrix vs Opus Clip which is better for video repurposing?",
+  "market": "US",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": true,
+  "competitors_mentioned": [
+    "Opus Clip"
+  ],
+  "position": null,
+  "citations": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmV3fpxlkNFaBbBLsLBqW4MO6pBwnFOyhLi2paKvnIB-I-ukRaTUbWme4TVPrLHzoSEQpTlp6E8PS77lic9oPpaJRy4FLE6xhJP4vG_UPqWV3nVm3hftdNCevvX2P8wtBC",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvc2EmY5GBx2fads5z1j22Ik57mfhwkn6umQfcEOWHH4dIyPTDt02jzn4eW6Z6QRbktVE7U21xZqcXPozIgtWg_s9XW4UTvBFgJiG_th7v_6Aga0DXo5-95Ab21KI7Fw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGma_iQeuZMbAyukteSn43GAk6Z4rRWHUarLWdoPbbiVaX1Sh6k_d2hqHQsJIaVUVgy7f19HBAPztwnI7Zmo_S4J0jrW2Gbkc9mFPKlBsBqAtnGePB8m5Rr4W9fTCDdyfUQ-HxXf1SVWCCRr7yXrxTeQiBPoZE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5CCUuM7d0p_z_vQ22hjCYvlfGgftz0n5ttQWdtM30Y3v8innF0iDc2Tz6wAi2wUyVWLqlTOCGcWQAu2koq00QBXdp87gm1behY8W17TIpIB526WJgwImP0g5fmRDHilruqM8eXDRdr7clIQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFJVdZX05PI0PXK1muN1BakqOtGKYXVXzTfANWDY2G1x6WJLnjq4bGl8yUTu-hj5tluZMaEuYYFv_WIay-SVgK_oJ7_9MnNg6odDgiTsuzh7wdS92vGv646GND5xeaaqtxgXsUAEXk4GqKyCdyLyu6Hm9cUrMO",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFm2XkTuBluLgEbWtNsETsGGDXOAIiZfs_tcGYZyUTBUxH0tazA6P6ulVviy4EKghMHwi9Urd7MzUx3AW9QST-2HJW51SSDoa1vqNCj2NFmXxxRi-1XHFOfOlckGkwlkUE-demu5bZWLQN3oaCauNh798Yjwg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpjdcbF92hQ8LB0AllawMvTz6ICBWIkI5RNJDQon_8UYBkex-vKRBU-P0YmsmYJLmS6JanbvZAc-Y2JtAVP3aWsyr-Yli7MlUzUoWoEXNK72vgUUwBqZJKrU1jcwsVjIca981AaJh5dEFcQvYSo6r9qyY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9FddEudNoqVhMKUkGvhz-SK6ZaazNKDjmw42Opx5RLOxMdGPjPASKOPZsDiELAtbcS-GOuzwYgW4AOLMsZONo0oPh_PfpcYxHge6RqoE7Mp5lrzPJ6KdHxeBZclAq5tX--1Y3ZNxovoUdlQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4oMSZGMB47TFo4KPq5E3a0z0evo3DBipOxked_Ks6C_cFRegWT6iCZztoKTLgWAmIFcZO1jV6IMqIZUbxSi1wxs0b5B6gS7kveifBj5yoMsSuw0YMU0P6Lj2boVvKzTikvxspLg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi-dL6C5AvhOhiW4YkPiffbSxSKllqhk_8_SsUIhG-kGjfLDJDPGELQdMLSwBCpi7oIuDBZQGQhKaNa9DSVvbrzND8fAsubUg7JMgzwwI-joLGpxax8G9e97dJo257ExLh",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp0bdfT1WtJmNaXWKJ7ujzDg9i3PJMengiuFGf_UrY8ezyX8OmB1XCWdQEyYk7Oog6fdF02Jk8tyLunf72rglv_bitITNZG-G2Wy4lsmvus9Dteb0nBqgtsQQK9Rcxy03W2jMWNV9egyE=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOBQDeRYnDLn81VkMLUvJ3CGXnyGoBsVhA4_u-xqQ95xZ_hJf39-OCQqHbhOhOyp8JpBlu8pMrcqnehrYz9avbCrn5zfGyYEWocuXV1cXZl4pFVSRf71Lw10myBysF1aZXtWDLjtKjbPV-13iIh06CiD4nLhNjWoQvyY5W8rNDKo1ZdVXlOVOva7_x",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk7rVCCnWuPvAdJjLzIHx7xdrSLTpBfG_KXO2xvpZj4wuvzMRstKNdws8dsrInemY-WZTL5KEqwbwupI3LnFIB60djhmOlBSdUMoGhE1PSchToqKlHefVUQHqjcdodoxEullWBX-gqFyXvWsdbhEjl1tZNIHcxYaLpfmooehQY0JoeDc6BP1Ie_qHK3V6KysUYPlvluySi-yOOLUMYC2qh7WBYQLcAafng8lo_88wx",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzZ-3qpy1IXeq9BtltZTVZQQufef93dqHaZkIu_XB0k3vrMelhav50Q89GAisvKeyxY24fVL_QeGpXUc-CUZOjj-bQP1vptTi-HfUOULrjEouSbBIGNMNkwaYbMJbemfmz33EMqezd0QJCWhfS_XR762iseWwfAaTtyTtoWJTZA6zTBgTtIsqsypvP_fpguU57PVU95LwxG2rdAS9HN1pvUjkErXdAAfkDZWXWPR0=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD7zxSUwkaf0Zi_duWdwurpa9EWTlvpXXYo33OQYgYUU4ZzDEXR5HckQd2lAgekefc3nrqVR_AmMrXt_M17cRJhYVKJNj3levqcmVijAQ83mWfw1slTF3KrSifvC76SA16eRifGpYSQ_NL3Qx2qXD3rjAy4fD0Lf8YFTmqCuQQjUaBY6f6PnonOUnq6mAan1hdryzPBQAYOTkAATT8ojBisnl5m0_kFi3JaA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOtVCeI88sDJjp79tiqYcXVnSFGPWggiwTDpnLVl3j6QhuvGTzb7PYMM8l58mEkNsA2k8XU7s_H_150gW6s4Vu4k_PKWgE6UI7m9x_rJtdbDyq2n3w8dE21SzhmLcA3tZoUkRJsitr5_V522I_UPmbSQtV5BRVg5UsZiJz4YTCRU9S0AAJRkZ3qnSeaGbuiSXiCvg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgOeGY9GhCZbr9MjtYq-Bv925DTXxqcfk_xu11c9mCkBruj4jaE5wha0Me2Lj0WVMlp_P8XtkhdHScfM38x6rcyOzHiF48RTpQDSfxLp1UabZC_gQ9ogq3PAj19No7F3dkS8AjS-iV3_roxyyt8GtoD-Qgv02EWp4pRbHj1CbjJXapIU1vLfhi4exqtVYIQ95LfzSB"
+  ],
+  "raw_text_summary": "For creators seeking to repurpose video content, both IncuBrix and Opus Clip offer AI-powered solutions, but they cater to slightly different workflow needs. Opus Clip specializes in transforming long-form videos into short, viral-ready clips, while IncuBrix aims to be a more comprehensive \"Creator Hub\" that unifies AI-assisted creation, intelligent repurposing, and multi-platform publishing.\n\n### Opus Clip: Specialization in Short-Form Video Repurposing\n\nOpus Clip is widely recognized as a leading AI tool for quickly generating short-form video clips from longer content such as podcasts, webinars, and YouTube videos. Its core functionality revolves around identifying high-impact moments, automatically reframing videos for vertical formats, adding social-friendly captions, and even providing a \"Virality Score\" to predict clip performance.\n\n**Key Features of Opus Clip for Video Repurposing:**\n*   **AI Curation and Clip Generation:** Automatically analyzes long videos to extract engaging short clips.\n*   **Automated Captions:** Generates accurate, customizable captions, often styled for social media platforms.\n*   **Reframing:** Automatically reframes horizontal footage to vertical (9:16) for platforms like TikTok, Instagram Reels, and YouTube Shorts.\n*   **Virality Score:** A proprietary metric that helps users prioritize clips with the highest potential for engagement.\n*   **Direct Social Media Posting/Scheduling:** Allows direct publishing to platforms like YouTube Shorts, TikTok, Instagram, Facebook, LinkedIn, X, Pinterest, Threads, and Bluesky, depending on the plan.\n*   **Editing Tools:** Offers basic editing capabilities like trimming and caption adjustments, with more advanced features like AI B-roll and export to professional editing software (Adobe Premiere Pro, DaVinci Resolve) available in higher tiers.\n\n**Opus Clip Pricing (as of November 2026):**\nOpus Clip operates on a credit-based system, where one credit typically equals one minute of uploaded video.\n*   **Free Plan:** Offers 60 credits per month with watermarked exports and limited features.\n*   **Starter Plan:** Costs $15/month for 150 credits, removes watermarks, and allows basic social posting, but lacks advanced editing and scheduling.\n*   **Pro Plan:** Costs $29/month (or $14.50/month when billed yearly) for 300 credits, includes a social media scheduler, team workspace, more aspect ratios, AI B-roll, and export options for professional editing software.\n*   **",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "For creators seeking to repurpose video content, both IncuBrix and Opus Clip offer AI-powered solutions, but they cater to slightly different workflow needs. Opus Clip specializes in transforming long-form videos into short, viral-ready clips, while IncuBrix aims to be a more comprehensive \"Creator Hub\" that unifies AI-assisted creation, intelligent repurposing, and multi-platform publishing.\n\n### Opus Clip: Specialization in Short-Form Video Repurposing\n\nOpus Clip is widely recognized as a leading AI tool for quickly generating short-form video clips from longer content such as podcasts, webinars, and YouTube videos. Its core functionality revolves around identifying high-impact moments, automatically reframing videos for vertical formats, adding social-friendly captions, and even providing a \"Virality Score\" to predict clip performance.\n\n**Key Features of Opus Clip for Video Repurposing:**\n*   **AI Curation and Clip Generation:** Automatically analyzes long videos to extract engaging short clips.\n*   **Automated Captions:** Generates accurate, customizable captions, often styled for social media platforms.\n*   **Reframing:** Automatically reframes horizontal footage to vertical (9:16) for platforms like TikTok, Instagram Reels, and YouTube Shorts.\n*   **Virality Score:** A proprietary metric that helps users prioritize clips with the highest potential for engagement.\n*   **Direct Social Media Posting/Scheduling:** Allows direct publishing to platforms like YouTube Shorts, TikTok, Instagram, Facebook, LinkedIn, X, Pinterest, Threads, and Bluesky, depending on the plan.\n*   **Editing Tools:** Offers basic editing capabilities like trimming and caption adjustments, with more advanced features like AI B-roll and export to professional editing software (Adobe Premiere Pro, DaVinci Resolve) available in higher tiers.\n\n**Opus Clip Pricing (as of November 2026):**\nOpus Clip operates on a credit-based system, where one credit typically equals one minute of uploaded video.\n*   **Free Plan:** Offers 60 credits per month with watermarked exports and limited features.\n*   **Starter Plan:** Costs $15/month for 150 credits, removes watermarks, and allows basic social posting, but lacks advanced editing and scheduling.\n*   **Pro Plan:** Costs $29/month (or $14.50/month when billed yearly) for 300 credits, includes a social media scheduler, team workspace, more aspect ratios, AI B-roll, and export options for professional editing software.\n*   **"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk7rVCCnWuPvAdJjLzIHx7xdrSLTpBfG_KXO2xvpZj4wuvzMRstKNdws8dsrInemY-WZTL5KEqwbwupI3LnFIB60djhmOlBSdUMoGhE1PSchToqKlHefVUQHqjcdodoxEullWBX-gqFyXvWsdbhEjl1tZNIHcxYaLpfmooehQY0JoeDc6BP1Ie_qHK3V6KysUYPlvluySi-yOOLUMYC2qh7WBYQLcAafng8lo_88wx\">Opus Clip video repurposing features reviews</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzZ-3qpy1IXeq9BtltZTVZQQufef93dqHaZkIu_XB0k3vrMelhav50Q89GAisvKeyxY24fVL_QeGpXUc-CUZOjj-bQP1vptTi-HfUOULrjEouSbBIGNMNkwaYbMJbemfmz33EMqezd0QJCWhfS_XR762iseWwfAaTtyTtoWJTZA6zTBgTtIsqsypvP_fpguU57PVU95LwxG2rdAS9HN1pvUjkErXdAAfkDZWXWPR0=\">IncuBrix video repurposing features reviews</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD7zxSUwkaf0Zi_duWdwurpa9EWTlvpXXYo33OQYgYUU4ZzDEXR5HckQd2lAgekefc3nrqVR_AmMrXt_M17cRJhYVKJNj3levqcmVijAQ83mWfw1slTF3KrSifvC76SA16eRifGpYSQ_NL3Qx2qXD3rjAy4fD0Lf8YFTmqCuQQjUaBY6f6PnonOUnq6mAan1hdryzPBQAYOTkAATT8ojBisnl5m0_kFi3JaA==\">IncuBrix vs Opus Clip video repurposing</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOtVCeI88sDJjp79tiqYcXVnSFGPWggiwTDpnLVl3j6QhuvGTzb7PYMM8l58mEkNsA2k8XU7s_H_150gW6s4Vu4k_PKWgE6UI7m9x_rJtdbDyq2n3w8dE21SzhmLcA3tZoUkRJsitr5_V522I_UPmbSQtV5BRVg5UsZiJz4YTCRU9S0AAJRkZ3qnSeaGbuiSXiCvg=\">IncuBrix pricing</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgOeGY9GhCZbr9MjtYq-Bv925DTXxqcfk_xu11c9mCkBruj4jaE5wha0Me2Lj0WVMlp_P8XtkhdHScfM38x6rcyOzHiF48RTpQDSfxLp1UabZC_gQ9ogq3PAj19No7F3dkS8AjS-iV3_roxyyt8GtoD-Qgv02EWp4pRbHj1CbjJXapIU1vLfhi4exqtVYIQ95LfzSB\">Opus Clip pricing</a>\n  </div>\n</div>\n"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmV3fpxlkNFaBbBLsLBqW4MO6pBwnFOyhLi2paKvnIB-I-ukRaTUbWme4TVPrLHzoSEQpTlp6E8PS77lic9oPpaJRy4FLE6xhJP4vG_UPqWV3nVm3hftdNCevvX2P8wtBC",
+                "title": "klap.app"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvc2EmY5GBx2fads5z1j22Ik57mfhwkn6umQfcEOWHH4dIyPTDt02jzn4eW6Z6QRbktVE7U21xZqcXPozIgtWg_s9XW4UTvBFgJiG_th7v_6Aga0DXo5-95Ab21KI7Fw==",
+                "title": "fritz.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGma_iQeuZMbAyukteSn43GAk6Z4rRWHUarLWdoPbbiVaX1Sh6k_d2hqHQsJIaVUVgy7f19HBAPztwnI7Zmo_S4J0jrW2Gbkc9mFPKlBsBqAtnGePB8m5Rr4W9fTCDdyfUQ-HxXf1SVWCCRr7yXrxTeQiBPoZE=",
+                "title": "creatify.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5CCUuM7d0p_z_vQ22hjCYvlfGgftz0n5ttQWdtM30Y3v8innF0iDc2Tz6wAi2wUyVWLqlTOCGcWQAu2koq00QBXdp87gm1behY8W17TIpIB526WJgwImP0g5fmRDHilruqM8eXDRdr7clIQ==",
+                "title": "bigvu.tv"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFJVdZX05PI0PXK1muN1BakqOtGKYXVXzTfANWDY2G1x6WJLnjq4bGl8yUTu-hj5tluZMaEuYYFv_WIay-SVgK_oJ7_9MnNg6odDgiTsuzh7wdS92vGv646GND5xeaaqtxgXsUAEXk4GqKyCdyLyu6Hm9cUrMO",
+                "title": "techpresso.co"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFm2XkTuBluLgEbWtNsETsGGDXOAIiZfs_tcGYZyUTBUxH0tazA6P6ulVviy4EKghMHwi9Urd7MzUx3AW9QST-2HJW51SSDoa1vqNCj2NFmXxxRi-1XHFOfOlckGkwlkUE-demu5bZWLQN3oaCauNh798Yjwg==",
+                "title": "blotato.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpjdcbF92hQ8LB0AllawMvTz6ICBWIkI5RNJDQon_8UYBkex-vKRBU-P0YmsmYJLmS6JanbvZAc-Y2JtAVP3aWsyr-Yli7MlUzUoWoEXNK72vgUUwBqZJKrU1jcwsVjIca981AaJh5dEFcQvYSo6r9qyY=",
+                "title": "tugan.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9FddEudNoqVhMKUkGvhz-SK6ZaazNKDjmw42Opx5RLOxMdGPjPASKOPZsDiELAtbcS-GOuzwYgW4AOLMsZONo0oPh_PfpcYxHge6RqoE7Mp5lrzPJ6KdHxeBZclAq5tX--1Y3ZNxovoUdlQ==",
+                "title": "enrichlabs.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4oMSZGMB47TFo4KPq5E3a0z0evo3DBipOxked_Ks6C_cFRegWT6iCZztoKTLgWAmIFcZO1jV6IMqIZUbxSi1wxs0b5B6gS7kveifBj5yoMsSuw0YMU0P6Lj2boVvKzTikvxspLg==",
+                "title": "eesel.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi-dL6C5AvhOhiW4YkPiffbSxSKllqhk_8_SsUIhG-kGjfLDJDPGELQdMLSwBCpi7oIuDBZQGQhKaNa9DSVvbrzND8fAsubUg7JMgzwwI-joLGpxax8G9e97dJo257ExLh",
+                "title": "quso.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp0bdfT1WtJmNaXWKJ7ujzDg9i3PJMengiuFGf_UrY8ezyX8OmB1XCWdQEyYk7Oog6fdF02Jk8tyLunf72rglv_bitITNZG-G2Wy4lsmvus9Dteb0nBqgtsQQK9Rcxy03W2jMWNV9egyE=",
+                "title": "lumiclip.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOBQDeRYnDLn81VkMLUvJ3CGXnyGoBsVhA4_u-xqQ95xZ_hJf39-OCQqHbhOhOyp8JpBlu8pMrcqnehrYz9avbCrn5zfGyYEWocuXV1cXZl4pFVSRf71Lw10myBysF1aZXtWDLjtKjbPV-13iIh06CiD4nLhNjWoQvyY5W8rNDKo1ZdVXlOVOva7_x",
+                "title": "rework.com"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 460,
+                "endIndex": 624,
+                "text": "Opus Clip is widely recognized as a leading AI tool for quickly generating short-form video clips from longer content such as podcasts, webinars, and YouTube videos"
+              },
+              "groundingChunkIndices": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 626,
+                "endIndex": 849,
+                "text": "Its core functionality revolves around identifying high-impact moments, automatically reframing videos for vertical formats, adding social-friendly captions, and even providing a \"Virality Score\" to predict clip performance"
+              },
+              "groundingChunkIndices": [
+                0,
+                1,
+                4,
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 852,
+                "endIndex": 1012,
+                "text": "**Key Features of Opus Clip for Video Repurposing:**\n*   **AI Curation and Clip Generation:** Automatically analyzes long videos to extract engaging short clips"
+              },
+              "groundingChunkIndices": [
+                0,
+                1,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1014,
+                "endIndex": 1124,
+                "text": "*   **Automated Captions:** Generates accurate, customizable captions, often styled for social media platforms"
+              },
+              "groundingChunkIndices": [
+                0,
+                1,
+                2,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1126,
+                "endIndex": 1268,
+                "text": "*   **Reframing:** Automatically reframes horizontal footage to vertical (9:16) for platforms like TikTok, Instagram Reels, and YouTube Shorts"
+              },
+              "groundingChunkIndices": [
+                0,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1270,
+                "endIndex": 1390,
+                "text": "*   **Virality Score:** A proprietary metric that helps users prioritize clips with the highest potential for engagement"
+              },
+              "groundingChunkIndices": [
+                1,
+                4,
+                5
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1392,
+                "endIndex": 1595,
+                "text": "*   **Direct Social Media Posting/Scheduling:** Allows direct publishing to platforms like YouTube Shorts, TikTok, Instagram, Facebook, LinkedIn, X, Pinterest, Threads, and Bluesky, depending on the plan"
+              },
+              "groundingChunkIndices": [
+                7,
+                8,
+                0
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1597,
+                "endIndex": 1843,
+                "text": "*   **Editing Tools:** Offers basic editing capabilities like trimming and caption adjustments, with more advanced features like AI B-roll and export to professional editing software (Adobe Premiere Pro, DaVinci Resolve) available in higher tiers"
+              },
+              "groundingChunkIndices": [
+                7,
+                8,
+                1
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1846,
+                "endIndex": 1998,
+                "text": "**Opus Clip Pricing (as of November 2026):**\nOpus Clip operates on a credit-based system, where one credit typically equals one minute of uploaded video"
+              },
+              "groundingChunkIndices": [
+                7,
+                9,
+                10
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2000,
+                "endIndex": 2092,
+                "text": "*   **Free Plan:** Offers 60 credits per month with watermarked exports and limited features"
+              },
+              "groundingChunkIndices": [
+                7,
+                9,
+                10,
+                8,
+                3,
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2094,
+                "endIndex": 2243,
+                "text": "*   **Starter Plan:** Costs $15/month for 150 credits, removes watermarks, and allows basic social posting, but lacks advanced editing and scheduling"
+              },
+              "groundingChunkIndices": [
+                7,
+                9,
+                10,
+                8,
+                3,
+                11
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 2245,
+                "endIndex": 2467,
+                "text": "*   **Pro Plan:** Costs $29/month (or $14.50/month when billed yearly) for 300 credits, includes a social media scheduler, team workspace, more aspect ratios, AI B-roll, and export options for professional editing software"
+              },
+              "groundingChunkIndices": [
+                7,
+                9,
+                10,
+                8,
+                4
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "IncuBrix video repurposing features reviews",
+            "Opus Clip video repurposing features reviews",
+            "IncuBrix vs Opus Clip video repurposing",
+            "Opus Clip pricing",
+            "IncuBrix pricing"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 40,
+      "candidatesTokenCount": 591,
+      "totalTokenCount": 1429,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 40
+        }
+      ],
+      "toolUsePromptTokenCount": 298,
+      "toolUsePromptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 298
+        }
+      ],
+      "thoughtsTokenCount": 500,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-2.5-flash",
+    "responseId": "7s8Ca9qjBeTug8UPnJLFmAU"
+  },
+  "error_details": null
+}

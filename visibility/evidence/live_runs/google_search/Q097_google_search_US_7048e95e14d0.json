@@ -1,0 +1,483 @@
+{
+  "measurement_id": "7048e95e14d0",
+  "question_id": "Q097",
+  "timestamp_utc": "2026-11-22T13:51:30.644787+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "What is the best video format for uploading to YouTube Shorts?",
+  "market": "US",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://www.reddit.com/r/videography/comments/1sj91rn/best_format_for_upload_to_youtube/",
+    "https://support.google.com/youtube/answer/1722171?hl=en",
+    "https://borisfx.com/blog/best-youtube-short-aspect-ratio-resolution/",
+    "https://www.google.com/goto?url=CAESlQEBxCJF17TS4VL2y3ukFp2UG_Uh6KBqgBvHeSO0IYnUio52oeOpQnCC4dnAIjET4Pd1mzFYLecgYOJxL76CHGvfMXdEIx5wOP2k7_28hq0Wk-TC6BGQAIafzA76hnaDaobtfJ8s1z0pSni2rCXCFDtyezGdeuoWBgI-QgTeoTHb4uQV-74ZvuC999U7WwNWKCie-ydLWA",
+    "https://www.google.com/goto?url=CAESgAEBxCJF1xrlJ12CR0UoIUHMqq2Ievn8wd0yk3E5WA5-RO_QGpD5BxuR5rQGVGAlKIzQR0H3BwkUqoDFzmYxz9AroYKC_sZaeByn-zxNiKajptCjxU68d8wsmeecavOB2NXnNfVznhRsU-GyTrHDoYQmnd0XVHRPZJkSjr43-g4oJQ",
+    "https://www.google.com/goto?url=CAESbAHEIkXXv4BvkRolPd_QXczHtY2PVvZieZKpSZW6bUrhLv4dBHTyS9lilAQbMoFvzzxDs03SY7FsoEsDVciDhYax_Q72tvaXdYSZXrCJd6Czr-1P5Y-12un69KE2Cb28THekSujK2dfOzn5dSw",
+    "https://www.google.com/goto?url=CAESZAHEIkXXks-tfNqq4PCjn0KiAjGbkuhzDHHtZHpL7bfaG-viNY46OVdwrFMAPJjxkuQ2UhKIJ37DmjxzPV9iSCSFc9ieZTtlp9IleXER2Anj-E4u3_g-QdcUdfStOA18aaKiw9U",
+    "https://www.google.com/goto?url=CAESZwHEIkXXaqH7qQQISb2exJCKbZi60Iq18bPSmZSE1L3naDcl4FxDo5tbGsT924I7_rKTAicySSU37jMCHdLj-fBGTdD70TBcr0aF8BBxWC7wckv0FTSAG-oBigIiQm_5DtUd8rZM7w8&gsessionid=AO9gyf4LKlcuJRQ2poZ3e6wh6N57GLU8VoLBfeiiUD8-fANToqnvmw"
+  ],
+  "raw_text_summary": "Best format for upload to YouTube? : r/videography Hi, I have recently updated my editing software, still using PowerDirector but this has led me to revisit how I render my videos. I film in 1920x1080 ... YouTube recommended upload encoding settings Content should be encoded and uploaded in the same frame rate it was recorded. Common frame rates include: 24, 25, 30, 48, 50, 60 frames per second (other frame ... Best YouTube Short Aspect Ratio and Resolution 2025 To ensure your uploaded video clips appear on the YouTube Shorts feed, you must use the ideal aspect ratio, 9:16. All videos you upload with ... Which video format is better for YouTube shorts: vertical or ... In general, I recommend the AppleTV setting in quicktime. It's a nice, high quality h.264, usually at 720p, which the HD size youtube usually ... What are YouTube's current video upload requirements ... Been a long time that I haven't uploaded to Youtube, so I'm just wanting to double-check requirements and recommendations (file type/container, codec, ... Video Formats Explained: The Best File Types for YouTube ... Best YouTube Shorts format and size settings. Format: MP4. Video codec: H.264. Audio codec: AAC. Resolution: 1080x1920 (vertical). Aspect ratio ... What Is the Best Video Format for Creators in 2026 (H.264) is your go-to. Here, the undisputed king is MP4 (H.264). These platforms are built for fast uploads and flawless 60 fps How To Upload High Quality YouTube Shorts How To Upload High Quality YouTube Shorts! -~-~~-~~~-~~-~- Please watch: \"(542) New YouTube Setting Giving Videos Instant Views ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f3602bcc241e01c4df2f",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/5byQgR6ZCEkzQSTGWZDdKQXCGikI2GuwDLI6ObpbXWo/6b02f3602bcc241e01c4df2f.json",
+      "markdown_endpoint": "https://serpapi.com/searches/5byQgR6ZCEkzQSTGWZDdKQXCGikI2GuwDLI6ObpbXWo/6b02f3602bcc241e01c4df2f.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/5byQgR6ZCEkzQSTGWZDdKQXCGikI2GuwDLI6ObpbXWo/6b02f3602bcc241e01c4df2f.json_with_pixel_position",
+      "created_at": "2026-11-22 13:51:28 UTC",
+      "processed_at": "2026-11-22 13:51:28 UTC",
+      "google_url": "https://www.google.com/search?q=What+is+the+best+video+format+for+uploading+to+YouTube+Shorts%3F&oq=What+is+the+best+video+format+for+uploading+to+YouTube+Shorts%3F&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/5byQgR6ZCEkzQSTGWZDdKQXCGikI2GuwDLI6ObpbXWo/6b02f3602bcc241e01c4df2f.html",
+      "total_time_taken": 1.38
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "What is the best video format for uploading to YouTube Shorts?",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "What is the best video format for uploading to YouTube Shorts?",
+      "total_results": 153,
+      "time_taken_displayed": 0.32,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "The Right Way to Upload Shorts on YouTube in 2026 (Best ...",
+        "link": "https://www.google.com/goto?url=CAEScQHEIkXXunZwHc6vXvWCngbrAFlWVX9LdjcZK9lzW3cGAOxqFrAAeSSMslVdJfW8yBtEx9oZgnQrYM2Y_Ered6jfsAch1e29n25Q7NLjdBL--z8axiMuCZJAKx5ei1X12NtMn_NwQ6zx87FbQtF_h2bO&gsessionid=AO9gyf4LKlcuJRQ2poZ3e6wh6N57GLU8VoLBfeiiUD8-fANToqnvmw",
+        "thumbnail": "https://serpapi.com/searches/6b02f3602bcc241e01c4df2f/images/pkhchchfPlQDwhZ-aBHGTli0C_ksXLBg_SCewkYa_iM.png",
+        "channel": "Marcus Jones",
+        "duration": "23:56",
+        "platform": "YouTube",
+        "date": "Jul 15, 2025",
+        "snippet": "Learn to upload YouTube Shorts in 2026 with best settings for more views. Focus on HD quality, compelling titles, and strategic descriptions.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQcMK7AL3PUFl90XIycnrjwpJoYAzNKJXJYIw"
+      },
+      {
+        "position": 2,
+        "title": "BEST YouTube SHORTS Export Settings As RECOMMENDED ...",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXxHR1pXs8CYibf2ekDWheuFu7JMWf6wlyLuINzZ3zSMzBSkmFvoKUcEJUk2ReMskcPb3mHSh_YCdqIZwod9qjtzYOlxffQh9nj32JnKD_8RzoT7iQL8H_4vmwRDJdWpYh1_x1&gsessionid=AO9gyf4LKlcuJRQ2poZ3e6wh6N57GLU8VoLBfeiiUD8-fANToqnvmw",
+        "thumbnail": "https://serpapi.com/searches/6b02f3602bcc241e01c4df2f/images/vCt8Lfe_McThTVTZckoj2m1zjK7pOSrIGlKk5qq3F2o.jpg",
+        "channel": "Mario So",
+        "duration": "7:34",
+        "platform": "YouTube",
+        "date": "Nov 30, 2022",
+        "snippet": "Export YouTube Shorts in 1080p (1080x1920) at 24-30fps with an 8 Mbps video bitrate and 384 kbps audio bitrate."
+      },
+      {
+        "position": 3,
+        "title": "What is the BEST video format for YouTube H264 or H265?",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXWp_i9WpKgxRUIyAddFMhhvqXrKMLdSjSkKtjzazMmHIY5ZZjbtMFuSGLMyLkIzienGVAdZBIgm0emDpEGO0j1QUCE9Ik7oweC1ltXMVoaDDxBp6hfr12IPFquvBN-4J2twvd&gsessionid=AO9gyf4LKlcuJRQ2poZ3e6wh6N57GLU8VoLBfeiiUD8-fANToqnvmw",
+        "thumbnail": "https://serpapi.com/searches/6b02f3602bcc241e01c4df2f/images/7r3OW-ALAm_zZxoLAa9v0B2tur5rCLOaEVCytdY2Imo.png",
+        "channel": "David \u201cDEVO\u201d Harry",
+        "duration": "18:53",
+        "platform": "YouTube",
+        "date": "Nov 11, 2025",
+        "snippet": "H.264 vs. H.265 for YouTube: A comparison of six video files, exploring quality differences and encoding stress points.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT4SVJU8-zEarPXAs-B7ZzigY7TkJxzg7IQUg"
+      },
+      {
+        "position": 4,
+        "title": "Best Export Settings For High Quality YouTube Shorts in ...",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXJ5bGBaDELdF9QOLodVS_r4jcMkqEnFWHQ89sjUfmj0yvhsJZek-39ZTbHbsiSqzyetlAwppgTv7NNe5tZBqeTIZMrEX7iaa_H_h2vyAv1LxgeqBG_oxq12Cbzmxw1qSCdI5-&gsessionid=AO9gyf4LKlcuJRQ2poZ3e6wh6N57GLU8VoLBfeiiUD8-fANToqnvmw",
+        "thumbnail": "https://serpapi.com/searches/6b02f3602bcc241e01c4df2f/images/YcGuTsnUDrEtbt5eVNTsLkLQig9ISiw7uDqhknnrVEs.jpg",
+        "channel": "Solution Center",
+        "duration": "7:07",
+        "platform": "YouTube",
+        "date": "Aug 30, 2024",
+        "snippet": "To export high-quality YouTube Shorts in Premiere Pro, use 1080x1920 vertical format, 30fps, H.264, and 8-12 Mbps bitrate.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQi4U93ww1-NlWMSPfj1gdarvvkWYwW7G2CXg"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "Which video format is best for YouTube Shorts?",
+        "type": "ai_overview",
+        "page_token": "yKFb4HicHdBRUqMwAIDhWQ_joyWk1dnOdJxhDVAqdAIkEV66IYGmkoDabEl93LP45GE8gNfwAuvsCf5v_r9v-jD0nz9Oytqn43I2m6bpaj-Oe91eidHM-PE8iJngWjdc9Mvrm2tw24kV-rMOfj2vA0xyVGmpK6ar1NBj9VqPJZAqY-78ACluI_WaP0iYeerQwCTNYT2vUdhJzyEOMscjl5A-21ICTjlxG0F1ec96S_1pQR7rTcPyRA6Bzx_R1MTyniELCmaLtl_oNgxMG6_Bd5vTUExprGDRK8ppoOlddqQwG4o4sKVJAYYSYS-dFxFIRPjTSE0PDZKKQoUzz7ECjZMcclz56blmixwpWRME7qpS22_rlhMKK2Ox8MNnVoBAuvGAidqmiMAcaF7Ee1hGrqJ9ZoinWR0mXRu5DSba1D5YyOmyE6cVvPz_c7XrjF0-vYz7d_HSctvKHbcf_cXX738tt4p6",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=yKFb4HicHdBRUqMwAIDhWQ_joyWk1dnOdJxhDVAqdAIkEV66IYGmkoDabEl93LP45GE8gNfwAuvsCf5v_r9v-jD0nz9Oytqn43I2m6bpaj-Oe91eidHM-PE8iJngWjdc9Mvrm2tw24kV-rMOfj2vA0xyVGmpK6ar1NBj9VqPJZAqY-78ACluI_WaP0iYeerQwCTNYT2vUdhJzyEOMscjl5A-21ICTjlxG0F1ec96S_1pQR7rTcPyRA6Bzx_R1MTyniELCmaLtl_oNgxMG6_Bd5vTUExprGDRK8ppoOlddqQwG4o4sKVJAYYSYS-dFxFIRPjTSE0PDZKKQoUzz7ECjZMcclz56blmixwpWRME7qpS22_rlhMKK2Ox8MNnVoBAuvGAidqmiMAcaF7Ee1hGrqJ9ZoinWR0mXRu5DSba1D5YyOmyE6cVvPz_c7XrjF0-vYz7d_HSctvKHbcf_cXX738tt4p6",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGQxVjZZVWwxYjJoM05HTTBVbEp3WWxoek9VMXlNVFJvTTFsa1MxaEJVemg2YTFveU9XbGZiWEJ2YjNaV2JHNXpkVkIxTjJOQlZsSkNjblphYTI0MVpYaFZlRFJ4U2tsaGFVTTViakZvUVZGVlYwVkVjRWczWW5aTVp4SVhXVkJOUTJFNWJYZE1UbWxGZDJKclVITmhhbGt0UVhjYUlrRklUakJGTjBoeGMzaHdNR1pRTVdoSmNWZzBSMlZ1VkhaSlYzQXpVRTVRV2tFIiwiZmN2IjoiMyIsImVpIjoiWVBNQ2E5bXdMTmlFd2JrUHNhalktQXciLCJxYyI6ImMtT3lMYzlJTEZISUxGWW95VWhWU0VvdExsRW95MHhKelZkSXl5X0tCVW9BS1lYU2dwejh4SlRNdkhTRmtueUZ5dnpTa3RLa1ZJWGlqUHlpa21JQmhscmxDV3oyQUEiLCJxdWVzdGlvbiI6IldoaWNoIHZpZGVvIGZvcm1hdCBpcyBiZXN0IGZvciBZb3VUdWJlIFNob3J0cz8iLCJsayI6ImM1UFNMY19JVE01UUtNdE1TYzFYU01zdnlrMHNVY2dzVmtoS0xTNEJjUlVxODB0TFNwTlNGWW96OG90S2lnRSIsImJzIjoiYzMzUE1XX0NNQkFGWUhYMTFEa0RmVVBYTms0SUVhV1ZJc1JTMUJFa3hPZzBoMktsNUtMWUlVTDk4N1hwbENBWVRfYy0zVHVoeE91dTFOOGxUcm9neG9IYm83TFFCamtaNjBmc3VkdDJPV0ZUY210TkZvZkJTMzlmbkxtelhwaUxFTF9pX1pON0hGVjlkb1o2ZzRKOUJqVlJBYTVIRjJEWlpTdkNjeVNsek9LUFlGSGU1Y056UXk1WXpOWUcycnAyMWxMcnQxM3p3NnBBOGdYWE5aSnoyVnlYeU9JMFNQUU5XQTNnNk51VmVGcTJOUDVwR2lZZXZTMmlOSXNSVEpTTGpIcFA4UjlCbEQ0LV9BRSIsImlkIjoiZmNfWVBNQ2E5bXdMTmlFd2JrUHNhalktQXdfNyJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGQxVjZZVWwxYjJoM05HTTBVbEp3WWxoek9VMXlNVFJvTTFsa1MxaEJVemg2YTFveU9XbGZiWEJ2YjNaV2JHNXpkVkIxTjJOQlZsSkNjblphYTI0MVpYaFZlRFJ4U2tsaGFVTTViakZvUVZGVlYwVkVjRWczWW5aTVp4SVhXVkJOUTJFNWJYZE1UbWxGZDJKclVITmhhbGt0UVhjYUlrRklUakJGTjBoeGMzaHdNR1pRTVdoSmNWZzBSMlZ1VkhaSlYzQXpVRTVRV2tFIiwiZmN2IjoiMyIsImVpIjoiWVBNQ2E5bXdMTmlFd2JrUHNhalktQXciLCJxYyI6ImMtT3lMYzlJTEZISUxGWW95VWhWU0VvdExsRW95MHhKelZkSXl5X0tCVW9BS1lYU2dwejh4SlRNdkhTRmtueUZ5dnpTa3RLa1ZJWGlqUHlpa21JQmhscmxDV3oyQUEiLCJxdWVzdGlvbiI6IldoaWNoIHZpZGVvIGZvcm1hdCBpcyBiZXN0IGZvciBZb3VUdWJlIFNob3J0cz8iLCJsayI6ImM1UFNMY19JVE01UUtNdE1TYzFYU01zdnlrMHNVY2dzVmtoS0xTNEJjUlVxODB0TFNwTlNGWW96OG90S2lnRSIsImJzIjoiYzMzUE1XX0NNQkFGWUhYMTFEa0RmVVBYTms0SUVhV1ZJc1JTMUJFa3hPZzBoMktsNUtMWUlVTDk4N1hwbENBWVRfYy0zVHVoeE91dTFOOGxUcm9neG9IYm83TFFCamtaNjBmc3VkdDJPV0ZUY210TkZvZkJTMzlmbkxtelhwaUxFTF9pX1pON0hGVjlkb1o2ZzRKOUJqVlJBYTVIRjJEWlpTdkNjeVNsek9LUFlGSGU1Y056UXk1WXpOWUcycnAyMWxMcnQxM3p3NnBBOGdYWE5aSnoyVnlYeU9JMFNQUU5XQTNnNk51VmVGcTJOUDVwR2lZZXZTMmlOSXNSVEpTTGpIcFA4UjlCbEQ0LV9BRSIsImlkIjoiZmNfWVBNQ2E5bXdMTmlFd2JrUHNhalktQXdfNyJ9"
+      },
+      {
+        "question": "How many views do you need on YouTube Shorts to make $1000?",
+        "type": "ai_overview",
+        "page_token": "d3zZoXicHdBdbpswAABgbYfpYwMmdE2kqBLFbssGkQ02xi-tsflJbUKWWCXhcUfYGfa0w-wAu0YvsKk3-PT9-GV3e_P308_eucNpvVhM03TdjWNnm2s1Dgt5uuzVQklra6nM-ubLjX_Xqg18U9H9UUWYElhZbUtqsUAiqB8Oew2mOeVpWAE7a1sF-cNqm4IDwhffYND5IsYzjcm9AOxrg1agpueyNE8zB2GcGU2lQb1kyS7fY0dm9FoysUxjIiUT30SZZDnPOPFuAfERJmUXUJYMmuqCezZQsPK4T0MS6EHFCVePyVNjzIXQ_y4fXjLOdoSytKFiIrxPM7DKa5BZakJWv8JlCiHIYD-rwpxZkEDi6Zn7ekkgXRJ0OxXAIdhrQaEfV4V12jtvJWVBNTisAPpe5n6kz-MO036bQhoQD4YpimTB-6m0USvgKSRF1NJHciSemjNgQjFdteptE1x9XG-e28GtD8ex-62OjXSNfpbuj_n8_vIPklqRYw",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=d3zZoXicHdBdbpswAABgbYfpYwMmdE2kqBLFbssGkQ02xi-tsflJbUKWWCXhcUfYGfa0w-wAu0YvsKk3-PT9-GV3e_P308_eucNpvVhM03TdjWNnm2s1Dgt5uuzVQklra6nM-ubLjX_Xqg18U9H9UUWYElhZbUtqsUAiqB8Oew2mOeVpWAE7a1sF-cNqm4IDwhffYND5IsYzjcm9AOxrg1agpueyNE8zB2GcGU2lQb1kyS7fY0dm9FoysUxjIiUT30SZZDnPOPFuAfERJmUXUJYMmuqCezZQsPK4T0MS6EHFCVePyVNjzIXQ_y4fXjLOdoSytKFiIrxPM7DKa5BZakJWv8JlCiHIYD-rwpxZkEDi6Zn7ekkgXRJ0OxXAIdhrQaEfV4V12jtvJWVBNTisAPpe5n6kz-MO036bQhoQD4YpimTB-6m0USvgKSRF1NJHciSemjNgQjFdteptE1x9XG-e28GtD8ex-62OjXSNfpbuj_n8_vIPklqRYw",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGQxVjZZVWwxYjJoM05HTTBVbEp3WWxoek9VMXlNVFJvTTFsa1MxaEJVemg2YTFveU9XbGZiWEJ2YjNaV2JHNXpkVkIxTjJOQlZsSkNjblphYTI0MVpYaFZlRFJ4U2tsaGFVTTViakZvUVZGVlYwVkVjRWczWW5aTVp4SVhXVkJOUTJFNWJYZE1UbWxGZDJKclVITmhhbGt0UVhjYUlrRklUakJGTjBoeGMzaHdNR1pRTVdoSmNWZzBSMlZ1VkhaSlYzQXpVRTVRV2tFIiwiZmN2IjoiMyIsImVpIjoiWVBNQ2E5bXdMTmlFd2JrUHNhalktQXciLCJxYyI6ImMtT3lMYzlJTEZISUxGWW95VWhWU0VvdExsRW95MHhKelZkSXl5X0tCVW9BS1lYU2dwejh4SlRNdkhTRmtueUZ5dnpTa3RLa1ZJWGlqUHlpa21JQmhscmxDV3oyQUEiLCJxdWVzdGlvbiI6IkhvdyBtYW55IHZpZXdzIGRvIHlvdSBuZWVkIG9uIFlvdVR1YmUgU2hvcnRzIHRvIG1ha2UgJDEwMDA/IiwibGsiOiJjNU95eXNndlY4aE56S3RVS010TUxTOVdTTWxYcU13dlZjaExUVTFSeU04RHNVdEtrMUlWaWpQeWkwcUtGVXJ5Z1dxelV4VlVEQTBNREFBIiwiYnMiOiJjMzNQTVdfQ01CQUZZSFgxMURrRGZVUFhOazRJRWFXVklzUlMxQkVreE9nMGgyS2w1S0xZSVVMOTg3WHBsQ0FZVF9jLTNUdWh4T3V1MU44bFRyb2d4b0hibzdMUUJqa1o2MGZzdWR0Mk9XRlRjbXRORm9mQlMzOWZuTG16WHBpTEVMX2lfWk43SEZWOWRvWjZnNEo5QmpWUkFhNUhGMkRaWlN2Q2N5U2x6T0tQWUZIZTVjTnpReTVZek5ZRzJycDIxbExydDEzenc2cEE4Z1hYTlpKejJWeVh5T0kwU1BRTldBM2c2TnVWZUZxMk5QNXBHaVlldlMyaU5Jc1JUSlNMakhwUDhSOUJsRDQtX0FFIiwiaWQiOiJmY19ZUE1DYTltd0xOaUV3YmtQc2FqWS1Bd183In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGQxVjZZVWwxYjJoM05HTTBVbEp3WWxoek9VMXlNVFJvTTFsa1MxaEJVemg2YTFveU9XbGZiWEJ2YjNaV2JHNXpkVkIxTjJOQlZsSkNjblphYTI0MVpYaFZlRFJ4U2tsaGFVTTViakZvUVZGVlYwVkVjRWczWW5aTVp4SVhXVkJOUTJFNWJYZE1UbWxGZDJKclVITmhhbGt0UVhjYUlrRklUakJGTjBoeGMzaHdNR1pRTVdoSmNWZzBSMlZ1VkhaSlYzQXpVRTVRV2tFIiwiZmN2IjoiMyIsImVpIjoiWVBNQ2E5bXdMTmlFd2JrUHNhalktQXciLCJxYyI6ImMtT3lMYzlJTEZISUxGWW95VWhWU0VvdExsRW95MHhKelZkSXl5X0tCVW9BS1lYU2dwejh4SlRNdkhTRmtueUZ5dnpTa3RLa1ZJWGlqUHlpa21JQmhscmxDV3oyQUEiLCJxdWVzdGlvbiI6IkhvdyBtYW55IHZpZXdzIGRvIHlvdSBuZWVkIG9uIFlvdVR1YmUgU2hvcnRzIHRvIG1ha2UgJDEwMDA%2FIiwibGsiOiJjNU95eXNndlY4aE56S3RVS010TUxTOVdTTWxYcU13dlZjaExUVTFSeU04RHNVdEtrMUlWaWpQeWkwcUtGVXJ5Z1dxelV4VlVEQTBNREFBIiwiYnMiOiJjMzNQTVdfQ01CQUZZSFgxMURrRGZVUFhOazRJRWFXVklzUlMxQkVreE9nMGgyS2w1S0xZSVVMOTg3WHBsQ0FZVF9jLTNUdWh4T3V1MU44bFRyb2d4b0hibzdMUUJqa1o2MGZzdWR0Mk9XRlRjbXRORm9mQlMzOWZuTG16WHBpTEVMX2lfWk43SEZWOWRvWjZnNEo5QmpWUkFhNUhGMkRaWlN2Q2N5U2x6T0tQWUZIZTVjTnpReTVZek5ZRzJycDIxbExydDEzenc2cEE4Z1hYTlpKejJWeVh5T0kwU1BRTldBM2c2TnVWZUZxMk5QNXBHaVlldlMyaU5Jc1JUSlNMakhwUDhSOUJsRDQtX0FFIiwiaWQiOiJmY19ZUE1DYTltd0xOaUV3YmtQc2FqWS1Bd183In0%3D"
+      },
+      {
+        "question": "Is it better to upload 4K or 1080p on YouTube Shorts?",
+        "type": "ai_overview",
+        "page_token": "dbYsp3icHdBdboIwAADgbIfxUalMF0zMMmbLRASBtvy8uNoikpafKBPkcWfZ0w6zA-wau8CSfUf4Pj5VUcmfu_jUts1lMZl0XTfO6zpX2ZjX5YRdbhWfcKbUgXG5mD_OwdORL-GlM1_qzvRJABMlVFKZ75SkG6qddi5oNlRfTwV97oPKtpzIsIjlar40NnSVz3xtdo4gLcRgml6cXkWk1jRe97wA1QH5XQqNC5EIebB_DUFz3A689Qsgt5ZKPCIcF6uea-0tpGjnYFo4MQKJCkoSGSlbnTyG0MajqicQ-Flkq0huQYZtjUlDYsu9UWq7W5SHCCgfE_fkRUDHcNYEsSgYMIckalKHIN0qbDOED12AhRWABvrT7ubFQg9XySBwQLFSFSthn67SMCkDfXTk16U--h9b7o9lu2jOdf7FzxlrM7Fn7be8_337A6wKf14",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=dbYsp3icHdBdboIwAADgbIfxUalMF0zMMmbLRASBtvy8uNoikpafKBPkcWfZ0w6zA-wau8CSfUf4Pj5VUcmfu_jUts1lMZl0XTfO6zpX2ZjX5YRdbhWfcKbUgXG5mD_OwdORL-GlM1_qzvRJABMlVFKZ75SkG6qddi5oNlRfTwV97oPKtpzIsIjlar40NnSVz3xtdo4gLcRgml6cXkWk1jRe97wA1QH5XQqNC5EIebB_DUFz3A689Qsgt5ZKPCIcF6uea-0tpGjnYFo4MQKJCkoSGSlbnTyG0MajqicQ-Flkq0huQYZtjUlDYsu9UWq7W5SHCCgfE_fkRUDHcNYEsSgYMIckalKHIN0qbDOED12AhRWABvrT7ubFQg9XySBwQLFSFSthn67SMCkDfXTk16U--h9b7o9lu2jOdf7FzxlrM7Fn7be8_337A6wKf14",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGQxVjZZVWwxYjJoM05HTTBVbEp3WWxoek9VMXlNVFJvTTFsa1MxaEJVemg2YTFveU9XbGZiWEJ2YjNaV2JHNXpkVkIxTjJOQlZsSkNjblphYTI0MVpYaFZlRFJ4U2tsaGFVTTViakZvUVZGVlYwVkVjRWczWW5aTVp4SVhXVkJOUTJFNWJYZE1UbWxGZDJKclVITmhhbGt0UVhjYUlrRklUakJGTjBoeGMzaHdNR1pRTVdoSmNWZzBSMlZ1VkhaSlYzQXpVRTVRV2tFIiwiZmN2IjoiMyIsImVpIjoiWVBNQ2E5bXdMTmlFd2JrUHNhalktQXciLCJxYyI6ImMtT3lMYzlJTEZISUxGWW95VWhWU0VvdExsRW95MHhKelZkSXl5X0tCVW9BS1lYU2dwejh4SlRNdkhTRmtueUZ5dnpTa3RLa1ZJWGlqUHlpa21JQmhscmxDV3oyQUEiLCJxdWVzdGlvbiI6IklzIGl0IGJldHRlciB0byB1cGxvYWQgNEsgb3IgMTA4MHAgb24gWW91VHViZSBTaG9ydHM/IiwibGsiOiJHalJwY3lCcGRDQmlaWFIwWlhJZ2RHOGdkWEJzYjJGa0lEUnJJRzl5SURFd09EQndJRzl1SUhsdmRYUjFZbVVnYzJodmNuUnoiLCJicyI6ImMzM1BNV19DTUJBRllIWDExRGtEZlVQWE5rNElFYVdWSXNSUzFCRWt4T2cwaDJLbDVLTFlJVUw5ODdYcGxDQVlUX2MtM1R1aHhPdXUxTjhsVHJvZ3hvSGJvN0xRQmprWjYwZnN1ZHQyT1dGVGNtdE5Gb2ZCUzM5Zm5MbXpYcGlMRUxfaV9aTjdIRlY5ZG9aNmc0SjlCalZSQWE1SEYyRFpaU3ZDY3lTbHpPS1BZRkhlNWNOelF5NVl6TllHMnJwMjFsTHJ0MTN6dzZwQThnWFhOWkp6MlZ5WHlPSTBTUFFOV0EzZzZOdVZlRnEyTlA1cEdpWWV2UzJpTklzUlRKU0xqSHBQOFI5QmxENC1fQUUiLCJpZCI6ImZjX1lQTUNhOW13TE5pRXdia1BzYWpZLUF3XzcifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGQxVjZZVWwxYjJoM05HTTBVbEp3WWxoek9VMXlNVFJvTTFsa1MxaEJVemg2YTFveU9XbGZiWEJ2YjNaV2JHNXpkVkIxTjJOQlZsSkNjblphYTI0MVpYaFZlRFJ4U2tsaGFVTTViakZvUVZGVlYwVkVjRWczWW5aTVp4SVhXVkJOUTJFNWJYZE1UbWxGZDJKclVITmhhbGt0UVhjYUlrRklUakJGTjBoeGMzaHdNR1pRTVdoSmNWZzBSMlZ1VkhaSlYzQXpVRTVRV2tFIiwiZmN2IjoiMyIsImVpIjoiWVBNQ2E5bXdMTmlFd2JrUHNhalktQXciLCJxYyI6ImMtT3lMYzlJTEZISUxGWW95VWhWU0VvdExsRW95MHhKelZkSXl5X0tCVW9BS1lYU2dwejh4SlRNdkhTRmtueUZ5dnpTa3RLa1ZJWGlqUHlpa21JQmhscmxDV3oyQUEiLCJxdWVzdGlvbiI6IklzIGl0IGJldHRlciB0byB1cGxvYWQgNEsgb3IgMTA4MHAgb24gWW91VHViZSBTaG9ydHM%2FIiwibGsiOiJHalJwY3lCcGRDQmlaWFIwWlhJZ2RHOGdkWEJzYjJGa0lEUnJJRzl5SURFd09EQndJRzl1SUhsdmRYUjFZbVVnYzJodmNuUnoiLCJicyI6ImMzM1BNV19DTUJBRllIWDExRGtEZlVQWE5rNElFYVdWSXNSUzFCRWt4T2cwaDJLbDVLTFlJVUw5ODdYcGxDQVlUX2MtM1R1aHhPdXUxTjhsVHJvZ3hvSGJvN0xRQmprWjYwZnN1ZHQyT1dGVGNtdE5Gb2ZCUzM5Zm5MbXpYcGlMRUxfaV9aTjdIRlY5ZG9aNmc0SjlCalZSQWE1SEYyRFpaU3ZDY3lTbHpPS1BZRkhlNWNOelF5NVl6TllHMnJwMjFsTHJ0MTN6dzZwQThnWFhOWkp6MlZ5WHlPSTBTUFFOV0EzZzZOdVZlRnEyTlA1cEdpWWV2UzJpTklzUlRKU0xqSHBQOFI5QmxENC1fQUUiLCJpZCI6ImZjX1lQTUNhOW13TE5pRXdia1BzYWpZLUF3XzcifQ%3D%3D"
+      },
+      {
+        "question": "Are YouTube Shorts 3/4 or 9:16?",
+        "type": "ai_overview",
+        "page_token": "sScIzXicHdBfbtowHABgbYfpY4kTygQSmpTWBswc5CS2ye-lc-yAgfwD3JL2sWfZ0w6zA-wau8C03eDT9_GjPrSn359enff9dTYa3W63-33X7evq3nTNSF_fWjMyuq5LbU6zyZcJ-rozc_yyih_Pq5iLFBe1rYuGR_LJrVkDvTqyMQRwqMg0AmLfRZQKhqZnHQxMH90EttBw4TWLEiGC4I2regvStZCDTgLZa-FEphA1SDwkYV-UeLoG4ZdyK3MlaMLypGMhRjpPBhkSXQiC0qOlJbEvVg1Xm7NbiepxeaJxuUCPOjChwvTbZksnmewJkIRnS3JRS-J445J08cCgBa1zGRhEg7K1MXYWBEZPRV57GwwbLWRUNJ6bkJxVhmI7dAcu3IZhEWWLdFVJt84ExZX65wQOoYRE0bF-jykc4cL53c68zqO7_5_z513jZ_2l2_80l0r7yj5r_-v0-c_3vwhFiCU",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=sScIzXicHdBfbtowHABgbYfpY4kTygQSmpTWBswc5CS2ye-lc-yAgfwD3JL2sWfZ0w6zA-wau8C03eDT9_GjPrSn359enff9dTYa3W63-33X7evq3nTNSF_fWjMyuq5LbU6zyZcJ-rozc_yyih_Pq5iLFBe1rYuGR_LJrVkDvTqyMQRwqMg0AmLfRZQKhqZnHQxMH90EttBw4TWLEiGC4I2regvStZCDTgLZa-FEphA1SDwkYV-UeLoG4ZdyK3MlaMLypGMhRjpPBhkSXQiC0qOlJbEvVg1Xm7NbiepxeaJxuUCPOjChwvTbZksnmewJkIRnS3JRS-J445J08cCgBa1zGRhEg7K1MXYWBEZPRV57GwwbLWRUNJ6bkJxVhmI7dAcu3IZhEWWLdFVJt84ExZX65wQOoYRE0bF-jykc4cL53c68zqO7_5_z513jZ_2l2_80l0r7yj5r_-v0-c_3vwhFiCU",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGQxVjZZVWwxYjJoM05HTTBVbEp3WWxoek9VMXlNVFJvTTFsa1MxaEJVemg2YTFveU9XbGZiWEJ2YjNaV2JHNXpkVkIxTjJOQlZsSkNjblphYTI0MVpYaFZlRFJ4U2tsaGFVTTViakZvUVZGVlYwVkVjRWczWW5aTVp4SVhXVkJOUTJFNWJYZE1UbWxGZDJKclVITmhhbGt0UVhjYUlrRklUakJGTjBoeGMzaHdNR1pRTVdoSmNWZzBSMlZ1VkhaSlYzQXpVRTVRV2tFIiwiZmN2IjoiMyIsImVpIjoiWVBNQ2E5bXdMTmlFd2JrUHNhalktQXciLCJxYyI6ImMtT3lMYzlJTEZISUxGWW95VWhWU0VvdExsRW95MHhKelZkSXl5X0tCVW9BS1lYU2dwejh4SlRNdkhTRmtueUZ5dnpTa3RLa1ZJWGlqUHlpa21JQmhscmxDV3oyQUEiLCJxdWVzdGlvbiI6IkFyZSBZb3VUdWJlIFNob3J0cyAzLzQgb3IgOToxNj8iLCJsayI6IkdoNWhjbVVnZVc5MWRIVmlaU0J6YUc5eWRITWdNeUEwSUc5eUlEa2dNVFkiLCJicyI6ImMzM1BNV19DTUJBRllIWDExRGtEZlVQWE5rNElFYVdWSXNSUzFCRWt4T2cwaDJLbDVLTFlJVUw5ODdYcGxDQVlUX2MtM1R1aHhPdXUxTjhsVHJvZ3hvSGJvN0xRQmprWjYwZnN1ZHQyT1dGVGNtdE5Gb2ZCUzM5Zm5MbXpYcGlMRUxfaV9aTjdIRlY5ZG9aNmc0SjlCalZSQWE1SEYyRFpaU3ZDY3lTbHpPS1BZRkhlNWNOelF5NVl6TllHMnJwMjFsTHJ0MTN6dzZwQThnWFhOWkp6MlZ5WHlPSTBTUFFOV0EzZzZOdVZlRnEyTlA1cEdpWWV2UzJpTklzUlRKU0xqSHBQOFI5QmxENC1fQUUiLCJpZCI6ImZjX1lQTUNhOW13TE5pRXdia1BzYWpZLUF3XzcifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGQxVjZZVWwxYjJoM05HTTBVbEp3WWxoek9VMXlNVFJvTTFsa1MxaEJVemg2YTFveU9XbGZiWEJ2YjNaV2JHNXpkVkIxTjJOQlZsSkNjblphYTI0MVpYaFZlRFJ4U2tsaGFVTTViakZvUVZGVlYwVkVjRWczWW5aTVp4SVhXVkJOUTJFNWJYZE1UbWxGZDJKclVITmhhbGt0UVhjYUlrRklUakJGTjBoeGMzaHdNR1pRTVdoSmNWZzBSMlZ1VkhaSlYzQXpVRTVRV2tFIiwiZmN2IjoiMyIsImVpIjoiWVBNQ2E5bXdMTmlFd2JrUHNhalktQXciLCJxYyI6ImMtT3lMYzlJTEZISUxGWW95VWhWU0VvdExsRW95MHhKelZkSXl5X0tCVW9BS1lYU2dwejh4SlRNdkhTRmtueUZ5dnpTa3RLa1ZJWGlqUHlpa21JQmhscmxDV3oyQUEiLCJxdWVzdGlvbiI6IkFyZSBZb3VUdWJlIFNob3J0cyAzLzQgb3IgOToxNj8iLCJsayI6IkdoNWhjbVVnZVc5MWRIVmlaU0J6YUc5eWRITWdNeUEwSUc5eUlEa2dNVFkiLCJicyI6ImMzM1BNV19DTUJBRllIWDExRGtEZlVQWE5rNElFYVdWSXNSUzFCRWt4T2cwaDJLbDVLTFlJVUw5ODdYcGxDQVlUX2MtM1R1aHhPdXUxTjhsVHJvZ3hvSGJvN0xRQmprWjYwZnN1ZHQyT1dGVGNtdE5Gb2ZCUzM5Zm5MbXpYcGlMRUxfaV9aTjdIRlY5ZG9aNmc0SjlCalZSQWE1SEYyRFpaU3ZDY3lTbHpPS1BZRkhlNWNOelF5NVl6TllHMnJwMjFsTHJ0MTN6dzZwQThnWFhOWkp6MlZ5WHlPSTBTUFFOV0EzZzZOdVZlRnEyTlA1cEdpWWV2UzJpTklzUlRKU0xqSHBQOFI5QmxENC1fQUUiLCJpZCI6ImZjX1lQTUNhOW13TE5pRXdia1BzYWpZLUF3XzcifQ%3D%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "2fC9hXiczVZbcrM2FJ7pc7dRXpzYGDu_k8wwGQnLBN-x4zjkxcVYXAxYMQIT-_FfS5-6mC6g2-gGKjBOwHEuf6cz7ZmBg6Rz09H5dPj-m-es3D9_tu0wfKLXlUocx2WLEMvDZYP4FZ1uV0bFJB4NDPvG8sSIcpREgYGdhWjYAfFxNs5GZTLnbE_EK267EWucQUWew46oDXuSfuXH3b6D4rk7pPpSOwcxl9oXZ3Od4iVz_7yklVmFvdxfak02KNMyXpUVvJ6vWgK4fwJlgRdq5UFF95kA-G8JQaBYjLsAWB_JQfWrFlWbWQXSsT7a89x8DyQ-FSAp-5X3_I8To4mmBNOI2TMA5nLoyuyrf5CaKJ_EJRVimmZh7Zl7HO4XKFNNdlCY-IhOJDHNS-d1LB2vnSK5uAK1JmjGOfNvtpNzsFedJK8YtOrDHlBV9V1PB2KmOxrgPfBJnRwimly1xyHTgpWFxaqcr8wDxqoVx7CN9COgSfFLd1c8kbsDeSnMoLrWo4G6kQHqh3gYI9Stg4oxZ3Ie0Rd4MbNn_E06rgrVC_6q1rg8S1Fn0BfY0TzsAkL5cHXZOw_5crcMqwfMFXd7nCxVUcCpYrKgdUhFkV4MqPk8p2k4knQLnlsZtwEkKlMuLKod1M0LMbg0Wb4urXz6XzWkDzB3RGnFkszAJJsCxWpTNYDGp_wkNDhpNtlH6rXoTM4-FHgIPM5W3mJuBBQ1TW-W4sLlCNkNAVmC1eSm6DD1UNrLKvUkvsOJqQgpCCDrVS1HEjqxHSDlImF6KJGKgYWAGylIUpxsGqROLGvvCarWi5nUh_QWdSn12HzLPrn0JUJfuVj2URxAdoSZPNbQo8H3TVOzvPrO7AWDyNTrgSBspAaNT2OL-PMf6GnG_x59h47nZWX_LvoST19Cn2p_hL5THW-PPsl9B33jPfpOd7zhQeqo471FnwScHPqyjvec5eLfQB_8HH3548qj7_WoCuhD76FPRkX0aUt06Hin0Zc5eEXfP-148Mc7XgpCvGfF9hctrffbIB5_m6ynEuoJvdpwarf00Whn07v5ZqR-2gZNP7z29YV3NnMW11Boh9vF2YxNkGu84Nbi1NbDkkNLoY1Lc0zD0sZZYFIySeCzBcZK0VNi3VlZpZCUNBLdRXNcGtskCOkN53sBEXm9sWrdRS00pINGa6Yq5-2H-7utubCbviN3-ooc1NdgW5vE2hQPhbZGGjter7qagBb6bdQeNCPaHnpbOWrbA9Ns-tSMHp3N1tRvvQdaW1pX9za5bfQutZF_O33u7ZrGAG6oHw3ho9KZyLXdBK9crJjeQ9CHj7s0KirK3ebFDvJtoYU4tmGKxSrnB4bI6qFugb6a_OrpAMagnRYwHK0Z77KqmRMI1FsNqE2LPYQdHUcNfYbpRjS-XdSMC543dN1smNjkfCvcPon1KkdXgVj93QiwHrKT0MM_3J_--vVv2EuNjg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=2fC9hXiczVZbcrM2FJ7pc7dRXpzYGDu_k8wwGQnLBN-x4zjkxcVYXAxYMQIT-_FfS5-6mC6g2-gGKjBOwHEuf6cz7ZmBg6Rz09H5dPj-m-es3D9_tu0wfKLXlUocx2WLEMvDZYP4FZ1uV0bFJB4NDPvG8sSIcpREgYGdhWjYAfFxNs5GZTLnbE_EK267EWucQUWew46oDXuSfuXH3b6D4rk7pPpSOwcxl9oXZ3Od4iVz_7yklVmFvdxfak02KNMyXpUVvJ6vWgK4fwJlgRdq5UFF95kA-G8JQaBYjLsAWB_JQfWrFlWbWQXSsT7a89x8DyQ-FSAp-5X3_I8To4mmBNOI2TMA5nLoyuyrf5CaKJ_EJRVimmZh7Zl7HO4XKFNNdlCY-IhOJDHNS-d1LB2vnSK5uAK1JmjGOfNvtpNzsFedJK8YtOrDHlBV9V1PB2KmOxrgPfBJnRwimly1xyHTgpWFxaqcr8wDxqoVx7CN9COgSfFLd1c8kbsDeSnMoLrWo4G6kQHqh3gYI9Stg4oxZ3Ie0Rd4MbNn_E06rgrVC_6q1rg8S1Fn0BfY0TzsAkL5cHXZOw_5crcMqwfMFXd7nCxVUcCpYrKgdUhFkV4MqPk8p2k4knQLnlsZtwEkKlMuLKod1M0LMbg0Wb4urXz6XzWkDzB3RGnFkszAJJsCxWpTNYDGp_wkNDhpNtlH6rXoTM4-FHgIPM5W3mJuBBQ1TW-W4sLlCNkNAVmC1eSm6DD1UNrLKvUkvsOJqQgpCCDrVS1HEjqxHSDlImF6KJGKgYWAGylIUpxsGqROLGvvCarWi5nUh_QWdSn12HzLPrn0JUJfuVj2URxAdoSZPNbQo8H3TVOzvPrO7AWDyNTrgSBspAaNT2OL-PMf6GnG_x59h47nZWX_LvoST19Cn2p_hL5THW-PPsl9B33jPfpOd7zhQeqo471FnwScHPqyjvec5eLfQB_8HH3548qj7_WoCuhD76FPRkX0aUt06Hin0Zc5eEXfP-148Mc7XgpCvGfF9hctrffbIB5_m6ynEuoJvdpwarf00Whn07v5ZqR-2gZNP7z29YV3NnMW11Boh9vF2YxNkGu84Nbi1NbDkkNLoY1Lc0zD0sZZYFIySeCzBcZK0VNi3VlZpZCUNBLdRXNcGtskCOkN53sBEXm9sWrdRS00pINGa6Yq5-2H-7utubCbviN3-ooc1NdgW5vE2hQPhbZGGjter7qagBb6bdQeNCPaHnpbOWrbA9Ns-tSMHp3N1tRvvQdaW1pX9za5bfQutZF_O33u7ZrGAG6oHw3ho9KZyLXdBK9crJjeQ9CHj7s0KirK3ebFDvJtoYU4tmGKxSrnB4bI6qFugb6a_OrpAMagnRYwHK0Z77KqmRMI1FsNqE2LPYQdHUcNfYbpRjS-XdSMC543dN1smNjkfCvcPon1KkdXgVj93QiwHrKT0MM_3J_--vVv2EuNjg"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Best format for upload to YouTube? : r/videography",
+        "link": "https://www.reddit.com/r/videography/comments/1sj91rn/best_format_for_upload_to_youtube/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlQEBxCJF13D4lq9NEzH6X8zAHSKDHmhraIPAoZyR03qEqLPHwDKrWiGsI33Tch6CtKDS-7lI-LgQT2X_oH0gDZfKEKJROii061mYDTDM9WcvlBI3bM1xI-a-1PDr8rkH0kbCIeRIy2czdfk8K_ZBol4XznWZr1lNJp3OJ5eiigu0sFU0V2-_2658U-CsxWa5KSjm5w5ToQ&ved=2ahUKEwjZ4Jqx3JuYAxVYQjABHTEUFs8QFnoECCwQAQ&uoh=1",
+        "displayed_link": "60+ comments",
+        "date": "7 months ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+        "snippet": "Hi, I have recently updated my editing software, still using PowerDirector but this has led me to revisit how I render my videos. I film in 1920x1080 ...",
+        "sitelinks": {
+          "list": [
+            {
+              "title": "What is the best file format for uploading videos to ...",
+              "link": "https://www.google.com/goto?url=CAESoQEBxCJF17id2xV1XqrCiUSGadoofA8BrY2sIBgwsPXd2mw5NJDsnXQxII9Q0BN1U4y2a-IYcF4buRaWII9zLQPhx4oIlGzygm8BAh6BCDd82GFM_gTJloyHNluq6_sTo55UC2Px0qtzik0ueUkERNHsv15FFGsnQwxY-ZiM2-fJBjLjJrSNJOMMsM30RuHypb1DHnk8SkH_3UmXuq3wSfPOQA&gsessionid=AO9gyf4LKlcuJRQ2poZ3e6wh6N57GLU8VoLBfeiiUD8-fANToqnvmw",
+              "answer_count": 11,
+              "date": "Jun 2, 2022"
+            },
+            {
+              "title": "[Question] What Aspect Ratio do I need for YouTube ...",
+              "link": "https://www.google.com/goto?url=CAESoQEBxCJF1y8rPLUnxobwYERVvGu1tvhRjDDB7DK354i6Li_fyfNfH9Cj2bmxBa9S-SwbYCY2Tx22WrUovVnHsN-6ZQ2QqRHFt0lLOA684HVhBORzSgmjp7abZQI92YThguGuBrf2M7hGeE5tUfhd49DRVhcoBwPAsReS0wBsC0YMMDCFP3BMx4z4fCaIxIH_pK30zpac-tnf5DmUnB8vfoBuag&gsessionid=AO9gyf4LKlcuJRQ2poZ3e6wh6N57GLU8VoLBfeiiUD8-fANToqnvmw",
+              "answer_count": 17,
+              "date": "Dec 8, 2020"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "The sweet spot for 1080p YouTube: 15-20 Mbps in H.264 or 10-15 Mbps in H.265/HEVC. MP4 with H.264 is still the safest bet for YouTube. H.265 ...",
+            "source_info_link": "https://www.reddit.com/r/videography/comments/1sj91rn/best_format_for_upload_to_youtube/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtgBL2dvdG8_dXJsPUNBRVNsUUVCeENKRjF5ZG9wMUt3SHF0YnFvVkVqNEU2RXU1OHN3RS1hQWEyNWJrQXVLVlVlZFhVNXlmTFZPRnJSdGctVGdQSzYxeERwUldSQXR6dlhLS20zUVNFWXdSVTZXeVljQmZfT051V0trNEk4NjN2akJXaF9KVGtRUlE0NjdxV1BBa2d4RjhBb2ZVUjV5cXJGWlJCYjkzRUt6a2xoN0gwMG9WdU5UWUtvd0RuMG9obWEtc1FYcmtJVDRoUWxrT2RIYWVMVk85RWJnEgQaAggAGtgHEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAsgcIABAAGAAgACpVCgR3aGF0FW7PA0AaBGdvb2QaBWdyZWF0GgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMaCHN1aXRhYmxlGgl0b3AgcmF0ZWQaBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKmAKBGJlc3QVBw2hQBoEZ29vZBoFZ3JlYXQaB29wdGltYWwaB3JhdGluZ3MaD3JlY29tbWVuZGF0aW9ucxoIc3VpdGFibGUaA3RvcBoJdG9wIHJhdGVkGgliZXN0dmlkZW8qJAoFdmlkZW8VXfpKQBoJYmVzdHZpZGVvGgt2aWRlb2Zvcm1hdCpTCgZmb3JtYXQVU1-SQBoFY29kZWMaB2V4YW1wbGUaBGZpbGUaB2Zvcm1hdHMaB3NhbXBsZXMaCHRlbXBsYXRlGgV0eXBlcxoLdmlkZW9mb3JtYXQqCgoDZm9yFQAAAAAqLQoJdXBsb2FkaW5nFXhbvD8aCXRvIHVwbG9hZBoGdXBsb2FkGgh1cGxvYWRlcioJCgJ0bxUAAAAAKh0KB3lvdXR1YmUVQNGzQBoNeW91dHViZXNob3J0cyojCgZzaG9ydHMVsbkOPxoFc2hvcnQaDXlvdXR1YmVzaG9ydHMy2AEvZ290bz91cmw9Q0FFU2xRRUJ4Q0pGMXlkb3AxS3dIcXRicW9WRWo0RTZFdTU4c3dFLWFBYTI1YmtBdUtWVWVkWFU1eWZMVk9GclJ0Zy1UZ1BLNjF4RHBSV1JBdHp2WEtLbTNRU0VZd1JVNld5WWNCZl9PTnVXS2s0STg2M3ZqQldoX0pUa1FSUTQ2N3FXUEFrZ3hGOEFvZlVSNXlxckZaUkJiOTNFS3prbGg3SDAwb1Z1TlRZS293RG4wb2htYS1zUVhya0lUNGhRbGtPZEhhZUxWTzlFYmc6QjxiPkJlc3QgZm9ybWF0IGZvciB1cGxvYWQgdG8gWW91VHViZTwvYj4_IDogci92aWRlb2dyYXBoeSAtIFJlZGRpdEKcAVRoZSBzd2VldCBzcG90IGZvciAxMDgwcCBZb3VUdWJlOiAxNS0yMCBNYnBzIGluIEguMjY0IG9yIDEwLTE1IE1icHMgaW4gSC4yNjUvSEVWQy4gPGI-TVA0IHdpdGggSC4yNjQ8L2I-IGlzIHN0aWxsIHRoZSBzYWZlc3QgYmV0IGZvciBZb3VUdWJlLiBILjI2NSZuYnNwOy4uLkoCdG9KA3RoZUoCaXNKA2ZvclIDdG9wIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtgBL2dvdG8_dXJsPUNBRVNsUUVCeENKRjF5ZG9wMUt3SHF0YnFvVkVqNEU2RXU1OHN3RS1hQWEyNWJrQXVLVlVlZFhVNXlmTFZPRnJSdGctVGdQSzYxeERwUldSQXR6dlhLS20zUVNFWXdSVTZXeVljQmZfT051V0trNEk4NjN2akJXaF9KVGtRUlE0NjdxV1BBa2d4RjhBb2ZVUjV5cXJGWlJCYjkzRUt6a2xoN0gwMG9WdU5UWUtvd0RuMG9obWEtc1FYcmtJVDRoUWxrT2RIYWVMVk85RWJnEgQaAggAGtgHEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAsgcIABAAGAAgACpVCgR3aGF0FW7PA0AaBGdvb2QaBWdyZWF0GgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMaCHN1aXRhYmxlGgl0b3AgcmF0ZWQaBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKmAKBGJlc3QVBw2hQBoEZ29vZBoFZ3JlYXQaB29wdGltYWwaB3JhdGluZ3MaD3JlY29tbWVuZGF0aW9ucxoIc3VpdGFibGUaA3RvcBoJdG9wIHJhdGVkGgliZXN0dmlkZW8qJAoFdmlkZW8VXfpKQBoJYmVzdHZpZGVvGgt2aWRlb2Zvcm1hdCpTCgZmb3JtYXQVU1-SQBoFY29kZWMaB2V4YW1wbGUaBGZpbGUaB2Zvcm1hdHMaB3NhbXBsZXMaCHRlbXBsYXRlGgV0eXBlcxoLdmlkZW9mb3JtYXQqCgoDZm9yFQAAAAAqLQoJdXBsb2FkaW5nFXhbvD8aCXRvIHVwbG9hZBoGdXBsb2FkGgh1cGxvYWRlcioJCgJ0bxUAAAAAKh0KB3lvdXR1YmUVQNGzQBoNeW91dHViZXNob3J0cyojCgZzaG9ydHMVsbkOPxoFc2hvcnQaDXlvdXR1YmVzaG9ydHMy2AEvZ290bz91cmw9Q0FFU2xRRUJ4Q0pGMXlkb3AxS3dIcXRicW9WRWo0RTZFdTU4c3dFLWFBYTI1YmtBdUtWVWVkWFU1eWZMVk9GclJ0Zy1UZ1BLNjF4RHBSV1JBdHp2WEtLbTNRU0VZd1JVNld5WWNCZl9PTnVXS2s0STg2M3ZqQldoX0pUa1FSUTQ2N3FXUEFrZ3hGOEFvZlVSNXlxckZaUkJiOTNFS3prbGg3SDAwb1Z1TlRZS293RG4wb2htYS1zUVhya0lUNGhRbGtPZEhhZUxWTzlFYmc6QjxiPkJlc3QgZm9ybWF0IGZvciB1cGxvYWQgdG8gWW91VHViZTwvYj4_IDogci92aWRlb2dyYXBoeSAtIFJlZGRpdEKcAVRoZSBzd2VldCBzcG90IGZvciAxMDgwcCBZb3VUdWJlOiAxNS0yMCBNYnBzIGluIEguMjY0IG9yIDEwLTE1IE1icHMgaW4gSC4yNjUvSEVWQy4gPGI-TVA0IHdpdGggSC4yNjQ8L2I-IGlzIHN0aWxsIHRoZSBzYWZlc3QgYmV0IGZvciBZb3VUdWJlLiBILjI2NSZuYnNwOy4uLkoCdG9KA3RoZUoCaXNKA2ZvclIDdG9wIgIQAUgAWABoAA",
+        "source": "Reddit \u00b7 r/videography"
+      },
+      {
+        "position": 2,
+        "title": "YouTube recommended upload encoding settings",
+        "link": "https://support.google.com/youtube/answer/1722171?hl=en",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://support.google.com/youtube/answer/1722171%3Fhl%3Den&ved=2ahUKEwjZ4Jqx3JuYAxVYQjABHTEUFs8QFnoECBEQAQ",
+        "displayed_link": "https://support.google.com \u203a youtube \u203a answer",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAB70lEQVR4AZWSQ2AgQQAE52zbtm3b_JyNz9m2bRuxbdu284ntZDvp2HjU7qhrKFacXFsKOq1uJK1dOgHrlz2QVq7zxfIVeVi2OIVltrEvc-vSRuUzZeEXXbpzEDbOApYvqghFazYgb81WgKItGzqX5MrCVwf9w5GxwJ5JoKSygGGSu367TQUBYkQjKLe5jW9dgDMji9g1JQRrlu3B8sXDCcvcBikfJiLFtvk46LUGKHjRB7gy7Dc7KnPv7rUm1bULOLe-Izm0BCiR7xjNxoYg8lya2cO1DShJsWp1sfKAifchW8DXyky4j59T7uWuF3nOTeIpINxOZUHBQKkmKKogkFzbzmmAgPws3AKXn-jYtMoW-GjGPsw-W8KE-9LRifcln3IruCMyHBvdYdjDvhGc7JvWeYijH2bGlwgKz4D7ZljZpjHBXauWv2oK934T8LT3m1AMeh4Ninq_Deld-JC0bcXtj1ZNcMWyJXZZdMN80wlBA4xX7OtqtHUkaa59ZU0LuV_Wrf6qo8NXB_R7FQluqfQpP7IS3Y9btPvH8DTTiehptIGgo-Gu3Lb6RyTSSu0BWip8AiXtv1vJc_ZSAVlp3r37ErNBdygoCZcXtNG8WiSQ-_2mJEyqPFcuuYP-oVcdDPe4l0hYZlsr1ZczKz_pfOcR3y8E3ot2AAAAAElFTkSuQmCC.png",
+        "snippet": "Content should be encoded and uploaded in the same frame rate it was recorded. Common frame rates include: 24, 25, 30, 48, 50, 60 frames per second (other frame ...",
+        "about_this_result": {
+          "source": {
+            "description": "Content should be encoded and uploaded in the same frame rate it was recorded. Common frame rates include: 24, 25, 30, 48, 50, 60 frames per second (other frame ...",
+            "source_info_link": "https://support.google.com/youtube/answer/1722171?hl=en",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAB70lEQVR4AZWSQ2AgQQAE52zbtm3b_JyNz9m2bRuxbdu284ntZDvp2HjU7qhrKFacXFsKOq1uJK1dOgHrlz2QVq7zxfIVeVi2OIVltrEvc-vSRuUzZeEXXbpzEDbOApYvqghFazYgb81WgKItGzqX5MrCVwf9w5GxwJ5JoKSygGGSu367TQUBYkQjKLe5jW9dgDMji9g1JQRrlu3B8sXDCcvcBikfJiLFtvk46LUGKHjRB7gy7Dc7KnPv7rUm1bULOLe-Izm0BCiR7xjNxoYg8lya2cO1DShJsWp1sfKAifchW8DXyky4j59T7uWuF3nOTeIpINxOZUHBQKkmKKogkFzbzmmAgPws3AKXn-jYtMoW-GjGPsw-W8KE-9LRifcln3IruCMyHBvdYdjDvhGc7JvWeYijH2bGlwgKz4D7ZljZpjHBXauWv2oK934T8LT3m1AMeh4Ninq_Deld-JC0bcXtj1ZNcMWyJXZZdMN80wlBA4xX7OtqtHUkaa59ZU0LuV_Wrf6qo8NXB_R7FQluqfQpP7IS3Y9btPvH8DTTiehptIGgo-Gu3Lb6RyTSSu0BWip8AiXtv1vJc_ZSAVlp3r37ErNBdygoCZcXtNG8WiSQ-_2mJEyqPFcuuYP-oVcdDPe4l0hYZlsr1ZczKz_pfOcR3y8E3ot2AAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CjdodHRwczovL3N1cHBvcnQuZ29vZ2xlLmNvbS95b3V0dWJlL2Fuc3dlci8xNzIyMTcxP2hsPWVuEgQaAggAGrsGEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAlQYIABAAGAAgACpVCgR3aGF0FQAAAAAaBGdvb2QaBWdyZWF0GgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMaCHN1aXRhYmxlGgl0b3AgcmF0ZWQaBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKmAKBGJlc3QVN74dPhoEZ29vZBoFZ3JlYXQaB29wdGltYWwaB3JhdGluZ3MaD3JlY29tbWVuZGF0aW9ucxoIc3VpdGFibGUaA3RvcBoJdG9wIHJhdGVkGgliZXN0dmlkZW8qJAoFdmlkZW8Vq4UDQBoJYmVzdHZpZGVvGgt2aWRlb2Zvcm1hdCpTCgZmb3JtYXQVAAAAABoFY29kZWMaB2V4YW1wbGUaBGZpbGUaB2Zvcm1hdHMaB3NhbXBsZXMaCHRlbXBsYXRlGgV0eXBlcxoLdmlkZW9mb3JtYXQqCgoDZm9yFQAAAAAqLQoJdXBsb2FkaW5nFda2-j4aCXRvIHVwbG9hZBoGdXBsb2FkGgh1cGxvYWRlcioJCgJ0bxUAAAAAKh0KB3lvdXR1YmUVlLyDQBoNeW91dHViZXNob3J0cyojCgZzaG9ydHMVAAAAABoFc2hvcnQaDXlvdXR1YmVzaG9ydHMyN2h0dHBzOi8vc3VwcG9ydC5nb29nbGUuY29tL3lvdXR1YmUvYW5zd2VyLzE3MjIxNzE_aGw9ZW46OjxiPllvdVR1YmU8L2I-IHJlY29tbWVuZGVkIDxiPnVwbG9hZDwvYj4gZW5jb2Rpbmcgc2V0dGluZ3NCqQFDb250ZW50IHNob3VsZCBiZSBlbmNvZGVkIGFuZCB1cGxvYWRlZCBpbiB0aGUgc2FtZSBmcmFtZSByYXRlIGl0IHdhcyByZWNvcmRlZC4gQ29tbW9uIGZyYW1lIHJhdGVzIGluY2x1ZGU6IDI0LCAyNSwgMzAsIDQ4LCA1MCwgNjAgZnJhbWVzIHBlciBzZWNvbmQgKG90aGVyIGZyYW1lJm5ic3A7Li4uSgJ0b0oDZm9ySgJpc0oDdGhlUgN0b3AiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CjdodHRwczovL3N1cHBvcnQuZ29vZ2xlLmNvbS95b3V0dWJlL2Fuc3dlci8xNzIyMTcxP2hsPWVuEgQaAggAGrsGEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAlQYIABAAGAAgACpVCgR3aGF0FQAAAAAaBGdvb2QaBWdyZWF0GgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMaCHN1aXRhYmxlGgl0b3AgcmF0ZWQaBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKmAKBGJlc3QVN74dPhoEZ29vZBoFZ3JlYXQaB29wdGltYWwaB3JhdGluZ3MaD3JlY29tbWVuZGF0aW9ucxoIc3VpdGFibGUaA3RvcBoJdG9wIHJhdGVkGgliZXN0dmlkZW8qJAoFdmlkZW8Vq4UDQBoJYmVzdHZpZGVvGgt2aWRlb2Zvcm1hdCpTCgZmb3JtYXQVAAAAABoFY29kZWMaB2V4YW1wbGUaBGZpbGUaB2Zvcm1hdHMaB3NhbXBsZXMaCHRlbXBsYXRlGgV0eXBlcxoLdmlkZW9mb3JtYXQqCgoDZm9yFQAAAAAqLQoJdXBsb2FkaW5nFda2-j4aCXRvIHVwbG9hZBoGdXBsb2FkGgh1cGxvYWRlcioJCgJ0bxUAAAAAKh0KB3lvdXR1YmUVlLyDQBoNeW91dHViZXNob3J0cyojCgZzaG9ydHMVAAAAABoFc2hvcnQaDXlvdXR1YmVzaG9ydHMyN2h0dHBzOi8vc3VwcG9ydC5nb29nbGUuY29tL3lvdXR1YmUvYW5zd2VyLzE3MjIxNzE_aGw9ZW46OjxiPllvdVR1YmU8L2I-IHJlY29tbWVuZGVkIDxiPnVwbG9hZDwvYj4gZW5jb2Rpbmcgc2V0dGluZ3NCqQFDb250ZW50IHNob3VsZCBiZSBlbmNvZGVkIGFuZCB1cGxvYWRlZCBpbiB0aGUgc2FtZSBmcmFtZSByYXRlIGl0IHdhcyByZWNvcmRlZC4gQ29tbW9uIGZyYW1lIHJhdGVzIGluY2x1ZGU6IDI0LCAyNSwgMzAsIDQ4LCA1MCwgNjAgZnJhbWVzIHBlciBzZWNvbmQgKG90aGVyIGZyYW1lJm5ic3A7Li4uSgJ0b0oDZm9ySgJpc0oDdGhlUgN0b3AiAhABSABYAGgA",
+        "source": "Google Help",
+        "read_more_link": "https://support.google.com/youtube/answer/1722171?hl=en#:~:text=Bitrate"
+      },
+      {
+        "position": 3,
+        "title": "Best YouTube Short Aspect Ratio and Resolution 2025",
+        "link": "https://borisfx.com/blog/best-youtube-short-aspect-ratio-resolution/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEBxCJF13v2TKpzIthG4m8Wo6E7BS3U76HK4_vRgNV3G3cmbRwtsoL2CNl3GbNddCUyA4s98FsGZFoS8dnrbHkbuH9a972KidAupWzRzJElnyuUax85rAfD4VdbMuyXT1Qor11S45zJMKFkrJRiObnN6REQU8qa8JiXhab_HEWVQR0&ved=2ahUKEwjZ4Jqx3JuYAxVYQjABHTEUFs8QFnoECBMQAQ&uoh=1",
+        "displayed_link": "https://borisfx.com \u203a blog \u203a best-youtube-short-aspect-ra...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEVHcEwLrv8Lrv8Lrv8Lrv8Lrv8Lrv8Lrv8Lrv8Ksv8Ls_8IsP8IhcMDW4gAVIUFZJIJldsHcqeioaDd29qysbAAAAALqfjBvrv____s7OwCJzgDNEwKoexfX185MSkLt_8FTHCCgoJSSkIJBQgBFyGUSNtGAAAACXRSTlMAT5TK7f8Rph452s7JAAABMUlEQVR4AXTRVQLDMAwD0JLWOSm3GvN6_zMuTmH8vmWIE7wIozgBkjgKgx8WKV6ki-BDhA_Re3mCL8lLkyV-Ws71-GPqkeCPZNrvr-j3gI8hKcR8sFBiBKkLQLK8UHk5qQSAKcta4O4LUzSt6jhbAaYmK4swiFxgvfG2ZK523Bt7IGuja8Y-0JDHzebEs3EOZHl2qTOAOEimADcb-gBMRl50jj8FfGDbtpvNldzv97sDziXJTKDGgNKAqqxkJA8WSkfkfsRNd8iclV2Rd_YyjIinALeuhRERnPfcCXkZlox8oO06t8SNguECB1ORmX9mCHEBr6EGxguY0q8R6qnL003dOQToL6CDCAyfZT39s8fAkQShWLlAkUUwugklGEJJjmCiJZjsCWccwlmPcOYlmP0Buc8h9OqIrLUAAAAASUVORK5CYII.png",
+        "date": "Jan 23, 2025",
+        "snippet": "To ensure your uploaded video clips appear on the YouTube Shorts feed, you must use the ideal aspect ratio, 9:16. All videos you upload with ...",
+        "snippet_highlighted_words": [
+          "9:16"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "To ensure your uploaded video clips appear on the YouTube Shorts feed, you must use the ideal aspect ratio, 9:16. All videos you upload with ...",
+            "source_info_link": "https://borisfx.com/blog/best-youtube-short-aspect-ratio-resolution/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEVHcEwLrv8Lrv8Lrv8Lrv8Lrv8Lrv8Lrv8Lrv8Ksv8Ls_8IsP8IhcMDW4gAVIUFZJIJldsHcqeioaDd29qysbAAAAALqfjBvrv____s7OwCJzgDNEwKoexfX185MSkLt_8FTHCCgoJSSkIJBQgBFyGUSNtGAAAACXRSTlMAT5TK7f8Rph452s7JAAABMUlEQVR4AXTRVQLDMAwD0JLWOSm3GvN6_zMuTmH8vmWIE7wIozgBkjgKgx8WKV6ki-BDhA_Re3mCL8lLkyV-Ws71-GPqkeCPZNrvr-j3gI8hKcR8sFBiBKkLQLK8UHk5qQSAKcta4O4LUzSt6jhbAaYmK4swiFxgvfG2ZK523Bt7IGuja8Y-0JDHzebEs3EOZHl2qTOAOEimADcb-gBMRl50jj8FfGDbtpvNldzv97sDziXJTKDGgNKAqqxkJA8WSkfkfsRNd8iclV2Rd_YyjIinALeuhRERnPfcCXkZlox8oO06t8SNguECB1ORmX9mCHEBr6EGxguY0q8R6qnL003dOQToL6CDCAyfZT39s8fAkQShWLlAkUUwugklGEJJjmCiJZjsCWccwlmPcOYlmP0Buc8h9OqIrLUAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCeENKRjE3T3dKM1dnOHlDS0ZJTWQ3ZDZ2a1duVEttNkJwZU13LWZGQmZvTk5IUHo3bmVtZEdQMDRaZUtOdFVUOTB6MU1CSkJiSUMxd3o4NFpHNTUyNlR1eEtfWXZMbTdhbjAyM3hTZHZ2bEMtdXEzVklhUUlPUjdxNDRKTGZXZTVLSmdwMUYyajZBazdJU1BIQUdJTjRJSXRCa1ZvVmN1WEpvb1plRGd3R3owEgQaAggAGrUHEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAjwcIABAAGAAgACpVCgR3aGF0FbxVAkAaBGdvb2QaBWdyZWF0GgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMaCHN1aXRhYmxlGgl0b3AgcmF0ZWQaBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKmAKBGJlc3QVzCuCQBoEZ29vZBoFZ3JlYXQaB29wdGltYWwaB3JhdGluZ3MaD3JlY29tbWVuZGF0aW9ucxoIc3VpdGFibGUaA3RvcBoJdG9wIHJhdGVkGgliZXN0dmlkZW8qJAoFdmlkZW8VTlZbQBoJYmVzdHZpZGVvGgt2aWRlb2Zvcm1hdCpTCgZmb3JtYXQVzdRQPxoFY29kZWMaB2V4YW1wbGUaBGZpbGUaB2Zvcm1hdHMaB3NhbXBsZXMaCHRlbXBsYXRlGgV0eXBlcxoLdmlkZW9mb3JtYXQqCgoDZm9yFQAAAAAqLQoJdXBsb2FkaW5nFQAAAAAaCXRvIHVwbG9hZBoGdXBsb2FkGgh1cGxvYWRlcioJCgJ0bxUAAAAAKh0KB3lvdXR1YmUV61XPQBoNeW91dHViZXNob3J0cyojCgZzaG9ydHMVnP1eQBoFc2hvcnQaDXlvdXR1YmVzaG9ydHMyvQEvZ290bz91cmw9Q0FFU2dRRUJ4Q0pGMTdPd0ozV2c4eUNLRklNZDdkNnZrV25US202QnBlTXctZkZCZm9OTkhQejduZW1kR1AwNFplS050VVQ5MHoxTUJKQmJJQzF3ejg0Wkc1NTI2VHV4S19ZdkxtN2FuMDIzeFNkdnZsQy11cTNWSWFRSU9SN3E0NEpMZldlNUtKZ3AxRjJqNkFrN0lTUEhBR0lONElJdEJrVm9WY3VYSm9vWmVEZ3dHejA6OjxiPkJlc3QgWW91VHViZSBTaG9ydDwvYj4gQXNwZWN0IFJhdGlvIGFuZCBSZXNvbHV0aW9uIDIwMjVCnAFUbyBlbnN1cmUgeW91ciB1cGxvYWRlZCB2aWRlbyBjbGlwcyBhcHBlYXIgb24gdGhlIFlvdVR1YmUgU2hvcnRzIGZlZWQsIHlvdSBtdXN0IHVzZSB0aGUgaWRlYWwgYXNwZWN0IHJhdGlvLCA8Yj45OjE2PC9iPi4gQWxsIHZpZGVvcyB5b3UgdXBsb2FkIHdpdGgmbmJzcDsuLi5KAnRvSgNmb3JKAmlzSgN0aGVSA3RvcCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCeENKRjE3T3dKM1dnOHlDS0ZJTWQ3ZDZ2a1duVEttNkJwZU13LWZGQmZvTk5IUHo3bmVtZEdQMDRaZUtOdFVUOTB6MU1CSkJiSUMxd3o4NFpHNTUyNlR1eEtfWXZMbTdhbjAyM3hTZHZ2bEMtdXEzVklhUUlPUjdxNDRKTGZXZTVLSmdwMUYyajZBazdJU1BIQUdJTjRJSXRCa1ZvVmN1WEpvb1plRGd3R3owEgQaAggAGrUHEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAjwcIABAAGAAgACpVCgR3aGF0FbxVAkAaBGdvb2QaBWdyZWF0GgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMaCHN1aXRhYmxlGgl0b3AgcmF0ZWQaBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKmAKBGJlc3QVzCuCQBoEZ29vZBoFZ3JlYXQaB29wdGltYWwaB3JhdGluZ3MaD3JlY29tbWVuZGF0aW9ucxoIc3VpdGFibGUaA3RvcBoJdG9wIHJhdGVkGgliZXN0dmlkZW8qJAoFdmlkZW8VTlZbQBoJYmVzdHZpZGVvGgt2aWRlb2Zvcm1hdCpTCgZmb3JtYXQVzdRQPxoFY29kZWMaB2V4YW1wbGUaBGZpbGUaB2Zvcm1hdHMaB3NhbXBsZXMaCHRlbXBsYXRlGgV0eXBlcxoLdmlkZW9mb3JtYXQqCgoDZm9yFQAAAAAqLQoJdXBsb2FkaW5nFQAAAAAaCXRvIHVwbG9hZBoGdXBsb2FkGgh1cGxvYWRlcioJCgJ0bxUAAAAAKh0KB3lvdXR1YmUV61XPQBoNeW91dHViZXNob3J0cyojCgZzaG9ydHMVnP1eQBoFc2hvcnQaDXlvdXR1YmVzaG9ydHMyvQEvZ290bz91cmw9Q0FFU2dRRUJ4Q0pGMTdPd0ozV2c4eUNLRklNZDdkNnZrV25US202QnBlTXctZkZCZm9OTkhQejduZW1kR1AwNFplS050VVQ5MHoxTUJKQmJJQzF3ejg0Wkc1NTI2VHV4S19ZdkxtN2FuMDIzeFNkdnZsQy11cTNWSWFRSU9SN3E0NEpMZldlNUtKZ3AxRjJqNkFrN0lTUEhBR0lONElJdEJrVm9WY3VYSm9vWmVEZ3dHejA6OjxiPkJlc3QgWW91VHViZSBTaG9ydDwvYj4gQXNwZWN0IFJhdGlvIGFuZCBSZXNvbHV0aW9uIDIwMjVCnAFUbyBlbnN1cmUgeW91ciB1cGxvYWRlZCB2aWRlbyBjbGlwcyBhcHBlYXIgb24gdGhlIFlvdVR1YmUgU2hvcnRzIGZlZWQsIHlvdSBtdXN0IHVzZSB0aGUgaWRlYWwgYXNwZWN0IHJhdGlvLCA8Yj45OjE2PC9iPi4gQWxsIHZpZGVvcyB5b3UgdXBsb2FkIHdpdGgmbmJzcDsuLi5KAnRvSgNmb3JKAmlzSgN0aGVSA3RvcCICEAFIAFgAaAA",
+        "source": "Boris FX",
+        "read_more_link": "https://www.google.com/goto?url=CAES4AEBxCJF11nlKFxFxIJjonLUnFqftfUzmGqwq-6XsJGtdsD04-PWhGX5zKHcre--Ep16Ua8QLtS4RnGgaGOeBAmXjBR329YfAduZsoy2IIyPKxWH0ZPrx3rUr61TGWWuEx3-SgpzPQcPznvxmlhizSR2XdeRq-YdmfQTb0ZYP82eGRASNZpNpSiNXZwMOApL9H9WeQvksRe64jF2cnELJ3qf4EN0r1VbNJ0KH9edDCPUlNOyiHnWfZMqBLh20Uy9VCLLWBmvFtCIMZo8cNZxL5vXyt1Apm3OdFHwTgqH3SSnpQ&gsessionid=AO9gyf4LKlcuJRQ2poZ3e6wh6N57GLU8VoLBfeiiUD8-fANToqnvmw"
+      },
+      {
+        "position": 4,
+        "title": "Which video format is better for YouTube shorts: vertical or ...",
+        "link": "https://www.google.com/goto?url=CAESlQEBxCJF17TS4VL2y3ukFp2UG_Uh6KBqgBvHeSO0IYnUio52oeOpQnCC4dnAIjET4Pd1mzFYLecgYOJxL76CHGvfMXdEIx5wOP2k7_28hq0Wk-TC6BGQAIafzA76hnaDaobtfJ8s1z0pSni2rCXCFDtyezGdeuoWBgI-QgTeoTHb4uQV-74ZvuC999U7WwNWKCie-ydLWA",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlQEBxCJF16QYF-TM5LfMcfW9dt8l7G4XNpbyy0_IGgs3u4HvXBHf_hKG868H98xHgSIaXncu7Zlu1jPYG-7PNtIC7IGmWAh6WAPbdcN4TMcJmQ9_xIAd6NDL4IjU1ScJ7lqqNsq04Hsq8tsYpypYGpfadC7CpKWMlCD_El7OPNcS5g_yjWei_WWGrry-gx3sJGw8XqfhLw&ved=2ahUKEwjZ4Jqx3JuYAxVYQjABHTEUFs8QFnoECCUQAQ&uoh=1",
+        "displayed_link": "30+ answers",
+        "date": "3 years ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png",
+        "snippet": "In general, I recommend the AppleTV setting in quicktime. It's a nice, high quality h.264, usually at 720p, which the HD size youtube usually ...",
+        "snippet_highlighted_words": [
+          "AppleTV setting in quicktime"
+        ],
+        "sitelinks": {
+          "list": [
+            {
+              "title": "What is the best video format for YouTube shorts ...",
+              "link": "https://www.google.com/goto?url=CAESgwEBxCJF1-lFZ4q6FXQzCLXNWUE4nxtaDWR_j3ISQfOVdxNHT5Abk9MnCL8JtNClj4R9jdGuRE7rYgBZ3zwuAFTJ5he5uGTVfMBcwqs2MXUNpz2K8PY2ylzT-xBZOgYG4KlbEHXbxyWsqj-wGV5oCUxqpSQnWjIyUAPY2wL1GZkqRdEHkw&gsessionid=AO9gyf4LKlcuJRQ2poZ3e6wh6N57GLU8VoLBfeiiUD8-fANToqnvmw",
+              "answer_count": 34,
+              "date": "Jun 13, 2021"
+            },
+            {
+              "title": "What is the best video format to use for YouTube ...",
+              "link": "https://www.google.com/goto?url=CAESgwEBxCJF1ywhpfuMTrZmXgdu8OY_CzVQVx6NaXV6st5ki9kI4rU0-MNur_d9HpGRGBwgAShX0YxEhw3XLm0tR52oyKysufneyTIMPKUbwd1zykyF-eBK1IhSGIkleiZsPDLsFSzNBiRIqhdO5uI-TxDfQjnQ00vmF6pPvs5isv2-EPqCgg&gsessionid=AO9gyf4LKlcuJRQ2poZ3e6wh6N57GLU8VoLBfeiiUD8-fANToqnvmw",
+              "answer_count": 47,
+              "date": "Apr 24, 2016"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "In general, I recommend the AppleTV setting in quicktime. It's a nice, high quality h.264, usually at 720p, which the HD size youtube usually ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESlQEBxCJF17TS4VL2y3ukFp2UG_Uh6KBqgBvHeSO0IYnUio52oeOpQnCC4dnAIjET4Pd1mzFYLecgYOJxL76CHGvfMXdEIx5wOP2k7_28hq0Wk-TC6BGQAIafzA76hnaDaobtfJ8s1z0pSni2rCXCFDtyezGdeuoWBgI-QgTeoTHb4uQV-74ZvuC999U7WwNWKCie-ydLWA",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtgBL2dvdG8_dXJsPUNBRVNsUUVCeENKRjE3VFM0VkwyeTN1a0ZwMlVHX1VoNktCcWdCdkhlU08wSVluVWlvNTJvZU9wUW5DQzRkbkFJakVUNFBkMW16RllMZWNnWU9KeEw3NkNIR3ZmTVhkRUl4NXdPUDJrN18yOGhxMFdrLVRDNkJHUUFJYWZ6QTc2aG5hRGFvYnRmSjhzMXowcFNuaTJyQ1hDRkR0eWV6R2RldW9XQmdJLVFnVGVvVEhiNHVRVi03NFp2dUM5OTlVN1d3TldLQ2llLXlkTFdBEgQaAggAGucHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMMHCAAQABgAIAAqVQoEd2hhdBWRXz1AGgRnb29kGgVncmVhdBoHcmF0aW5ncxoPcmVjb21tZW5kYXRpb25zGghzdWl0YWJsZRoJdG9wIHJhdGVkGgV3aGF0cxoFd2hpY2gqCQoCaXMVAAAAACoKCgN0aGUVAAAAACpgCgRiZXN0FUw36z8aBGdvb2QaBWdyZWF0GgdvcHRpbWFsGgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMaCHN1aXRhYmxlGgN0b3AaCXRvcCByYXRlZBoJYmVzdHZpZGVvKiQKBXZpZGVvFasuyEAaCWJlc3R2aWRlbxoLdmlkZW9mb3JtYXQqUwoGZm9ybWF0FX6rtEAaBWNvZGVjGgdleGFtcGxlGgRmaWxlGgdmb3JtYXRzGgdzYW1wbGVzGgh0ZW1wbGF0ZRoFdHlwZXMaC3ZpZGVvZm9ybWF0KgoKA2ZvchUAAAAAKi0KCXVwbG9hZGluZxXPj4k_Ggl0byB1cGxvYWQaBnVwbG9hZBoIdXBsb2FkZXIqCQoCdG8VAAAAACodCgd5b3V0dWJlFQjrw0AaDXlvdXR1YmVzaG9ydHMqIwoGc2hvcnRzFeI2okAaBXNob3J0Gg15b3V0dWJlc2hvcnRzMtgBL2dvdG8_dXJsPUNBRVNsUUVCeENKRjE3VFM0VkwyeTN1a0ZwMlVHX1VoNktCcWdCdkhlU08wSVluVWlvNTJvZU9wUW5DQzRkbkFJakVUNFBkMW16RllMZWNnWU9KeEw3NkNIR3ZmTVhkRUl4NXdPUDJrN18yOGhxMFdrLVRDNkJHUUFJYWZ6QTc2aG5hRGFvYnRmSjhzMXowcFNuaTJyQ1hDRkR0eWV6R2RldW9XQmdJLVFnVGVvVEhiNHVRVi03NFp2dUM5OTlVN1d3TldLQ2llLXlkTFdBOk5XaGljaCA8Yj52aWRlbyBmb3JtYXQ8L2I-IGlzIGJldHRlciBmb3IgPGI-WW91VHViZSBzaG9ydHM8L2I-OiB2ZXJ0aWNhbCBvciAuLi5CoQFJbiBnZW5lcmFsLCBJIHJlY29tbWVuZCB0aGUgPGI-QXBwbGVUViBzZXR0aW5nIGluIHF1aWNrdGltZTwvYj4uIEl0JiMzOTtzIGEgbmljZSwgaGlnaCBxdWFsaXR5IGguMjY0LCB1c3VhbGx5IGF0IDcyMHAsIHdoaWNoIHRoZSBIRCBzaXplIHlvdXR1YmUgdXN1YWxseSZuYnNwOy4uLkoCdG9KA3RoZUoCaXNKA2ZvclIDdG9wIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtgBL2dvdG8_dXJsPUNBRVNsUUVCeENKRjE3VFM0VkwyeTN1a0ZwMlVHX1VoNktCcWdCdkhlU08wSVluVWlvNTJvZU9wUW5DQzRkbkFJakVUNFBkMW16RllMZWNnWU9KeEw3NkNIR3ZmTVhkRUl4NXdPUDJrN18yOGhxMFdrLVRDNkJHUUFJYWZ6QTc2aG5hRGFvYnRmSjhzMXowcFNuaTJyQ1hDRkR0eWV6R2RldW9XQmdJLVFnVGVvVEhiNHVRVi03NFp2dUM5OTlVN1d3TldLQ2llLXlkTFdBEgQaAggAGucHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMMHCAAQABgAIAAqVQoEd2hhdBWRXz1AGgRnb29kGgVncmVhdBoHcmF0aW5ncxoPcmVjb21tZW5kYXRpb25zGghzdWl0YWJsZRoJdG9wIHJhdGVkGgV3aGF0cxoFd2hpY2gqCQoCaXMVAAAAACoKCgN0aGUVAAAAACpgCgRiZXN0FUw36z8aBGdvb2QaBWdyZWF0GgdvcHRpbWFsGgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMaCHN1aXRhYmxlGgN0b3AaCXRvcCByYXRlZBoJYmVzdHZpZGVvKiQKBXZpZGVvFasuyEAaCWJlc3R2aWRlbxoLdmlkZW9mb3JtYXQqUwoGZm9ybWF0FX6rtEAaBWNvZGVjGgdleGFtcGxlGgRmaWxlGgdmb3JtYXRzGgdzYW1wbGVzGgh0ZW1wbGF0ZRoFdHlwZXMaC3ZpZGVvZm9ybWF0KgoKA2ZvchUAAAAAKi0KCXVwbG9hZGluZxXPj4k_Ggl0byB1cGxvYWQaBnVwbG9hZBoIdXBsb2FkZXIqCQoCdG8VAAAAACodCgd5b3V0dWJlFQjrw0AaDXlvdXR1YmVzaG9ydHMqIwoGc2hvcnRzFeI2okAaBXNob3J0Gg15b3V0dWJlc2hvcnRzMtgBL2dvdG8_dXJsPUNBRVNsUUVCeENKRjE3VFM0VkwyeTN1a0ZwMlVHX1VoNktCcWdCdkhlU08wSVluVWlvNTJvZU9wUW5DQzRkbkFJakVUNFBkMW16RllMZWNnWU9KeEw3NkNIR3ZmTVhkRUl4NXdPUDJrN18yOGhxMFdrLVRDNkJHUUFJYWZ6QTc2aG5hRGFvYnRmSjhzMXowcFNuaTJyQ1hDRkR0eWV6R2RldW9XQmdJLVFnVGVvVEhiNHVRVi03NFp2dUM5OTlVN1d3TldLQ2llLXlkTFdBOk5XaGljaCA8Yj52aWRlbyBmb3JtYXQ8L2I-IGlzIGJldHRlciBmb3IgPGI-WW91VHViZSBzaG9ydHM8L2I-OiB2ZXJ0aWNhbCBvciAuLi5CoQFJbiBnZW5lcmFsLCBJIHJlY29tbWVuZCB0aGUgPGI-QXBwbGVUViBzZXR0aW5nIGluIHF1aWNrdGltZTwvYj4uIEl0JiMzOTtzIGEgbmljZSwgaGlnaCBxdWFsaXR5IGguMjY0LCB1c3VhbGx5IGF0IDcyMHAsIHdoaWNoIHRoZSBIRCBzaXplIHlvdXR1YmUgdXN1YWxseSZuYnNwOy4uLkoCdG9KA3RoZUoCaXNKA2ZvclIDdG9wIgIQAUgAWABoAA",
+        "source": "Quora",
+        "read_more_link": "https://www.google.com/goto?url=CAES7gEBxCJF15HQj15qlTAKbYjhFaKseilH_TflT_LJUqw-XSloQ-hNBcdt9Eex3PCrLEMxfqXCndHyzwB4MCxPgmNCmvzWLQK0s9X8q_Jkuj6F_Xg9FJl5iYzFkmKTxsRJFX_X_RMb7vBTwrY0ncyd8QH6d5AxxATG9xnU-GDTQ_UHcs0GJjIrdagb93cQnc0_bzO4_TqpmFUPR4zj5vuvh66TjrhxyEH1My3sjjWJ9201LKrLi2JH6DEcNR7yvBnvnj7Iq5fCz53BAFpKtZPiCOA8CwStgeWqeqRNAnRQLiOWOe2QlBjPkJplsK2AoOTh&gsessionid=AO9gyf4LKlcuJRQ2poZ3e6wh6N57GLU8VoLBfeiiUD8-fANToqnvmw"
+      },
+      {
+        "position": 5,
+        "title": "What are YouTube's current video upload requirements ...",
+        "link": "https://www.google.com/goto?url=CAESgAEBxCJF1xrlJ12CR0UoIUHMqq2Ievn8wd0yk3E5WA5-RO_QGpD5BxuR5rQGVGAlKIzQR0H3BwkUqoDFzmYxz9AroYKC_sZaeByn-zxNiKajptCjxU68d8wsmeecavOB2NXnNfVznhRsU-GyTrHDoYQmnd0XVHRPZJkSjr43-g4oJQ",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEBxCJF1-Vi_PivxTwqGmXDCL-7fa5VN6zA6UvHgAKVmejQADwYG9HgLij6Dx-nQ9DI6zJYnjepHwjO4sBA60yZ67JnEUkdKiMPN4a6Nlhj-7HoSIWEe72OGRhh5ON7xfdjhYleG2zxhBFdL2SJnhRQZsqbim34_7ejk6duqXBHpA&ved=2ahUKEwjZ4Jqx3JuYAxVYQjABHTEUFs8QFnoECBYQAQ&uoh=1",
+        "displayed_link": "9 comments",
+        "date": "2 years ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+        "snippet": "Been a long time that I haven't uploaded to Youtube, so I'm just wanting to double-check requirements and recommendations (file type/container, codec, ...",
+        "about_this_result": {
+          "source": {
+            "description": "YouTube recommends MPEG4 (Divx, Xvid) with MP3 audio. The accepted file formats include .MOV, . MPEG4, .MP4, .AVI, .WMV, .MPEGPS, .FLV, .3GPP, ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESgAEBxCJF1xrlJ12CR0UoIUHMqq2Ievn8wd0yk3E5WA5-RO_QGpD5BxuR5rQGVGAlKIzQR0H3BwkUqoDFzmYxz9AroYKC_sZaeByn-zxNiKajptCjxU68d8wsmeecavOB2NXnNfVznhRsU-GyTrHDoYQmnd0XVHRPZJkSjr43-g4oJQ",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrwBL2dvdG8_dXJsPUNBRVNnQUVCeENKRjF4cmxKMTJDUjBVb0lVSE1xcTJJZXZuOHdkMHlrM0U1V0E1LVJPX1FHcEQ1Qnh1UjVyUUdWR0FsS0l6UVIwSDNCd2tVcW9ERnptWXh6OUFyb1lLQ19zWmFlQnluLXp4TmlLYWpwdENqeFU2OGQ4d3NtZWVjYXZPQjJOWG5OZlZ6bmhSc1UtR3lUckhEb1lRbW5kMFhWSFJQWkprU2pyNDMtZzRvSlESBBoCCAAaygcSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCkBwgAEAAYACAAKlUKBHdoYXQVhamMQBoEZ29vZBoFZ3JlYXQaB3JhdGluZ3MaD3JlY29tbWVuZGF0aW9ucxoIc3VpdGFibGUaCXRvcCByYXRlZBoFd2hhdHMaBXdoaWNoKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqYAoEYmVzdBUgRuQ_GgRnb29kGgVncmVhdBoHb3B0aW1hbBoHcmF0aW5ncxoPcmVjb21tZW5kYXRpb25zGghzdWl0YWJsZRoDdG9wGgl0b3AgcmF0ZWQaCWJlc3R2aWRlbyokCgV2aWRlbxXTZKBAGgliZXN0dmlkZW8aC3ZpZGVvZm9ybWF0KlMKBmZvcm1hdBW4FaQ_GgVjb2RlYxoHZXhhbXBsZRoEZmlsZRoHZm9ybWF0cxoHc2FtcGxlcxoIdGVtcGxhdGUaBXR5cGVzGgt2aWRlb2Zvcm1hdCoKCgNmb3IVAAAAACotCgl1cGxvYWRpbmcVr2QNQBoJdG8gdXBsb2FkGgZ1cGxvYWQaCHVwbG9hZGVyKgkKAnRvFQAAAAAqHQoHeW91dHViZRXGFsZAGg15b3V0dWJlc2hvcnRzKiMKBnNob3J0cxUjIww_GgVzaG9ydBoNeW91dHViZXNob3J0czK8AS9nb3RvP3VybD1DQUVTZ0FFQnhDSkYxeHJsSjEyQ1IwVW9JVUhNcXEySWV2bjh3ZDB5azNFNVdBNS1ST19RR3BENUJ4dVI1clFHVkdBbEtJelFSMEgzQndrVXFvREZ6bVl4ejlBcm9ZS0Nfc1phZUJ5bi16eE5pS2FqcHRDanhVNjhkOHdzbWVlY2F2T0IyTlhuTmZWem5oUnNVLUd5VHJIRG9ZUW1uZDBYVkhSUFpKa1NqcjQzLWc0b0pROk5XaGF0IGFyZSA8Yj5Zb3VUdWJlJiMzOTtzPC9iPiBjdXJyZW50IDxiPnZpZGVvIHVwbG9hZDwvYj4gcmVxdWlyZW1lbnRzIGFuZCAuLi5CngE8Yj5Zb3VUdWJlIHJlY29tbWVuZHMgTVBFRzQgKERpdngsIFh2aWQpIHdpdGggTVAzIGF1ZGlvPC9iPi4gVGhlIGFjY2VwdGVkIGZpbGUgZm9ybWF0cyBpbmNsdWRlIC5NT1YsIC4gTVBFRzQsIC5NUDQsIC5BVkksIC5XTVYsIC5NUEVHUFMsIC5GTFYsIC4zR1BQLCZuYnNwOy4uLkoDZm9ySgJpc0oDdGhlSgJ0b1IDdG9wIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrwBL2dvdG8_dXJsPUNBRVNnQUVCeENKRjF4cmxKMTJDUjBVb0lVSE1xcTJJZXZuOHdkMHlrM0U1V0E1LVJPX1FHcEQ1Qnh1UjVyUUdWR0FsS0l6UVIwSDNCd2tVcW9ERnptWXh6OUFyb1lLQ19zWmFlQnluLXp4TmlLYWpwdENqeFU2OGQ4d3NtZWVjYXZPQjJOWG5OZlZ6bmhSc1UtR3lUckhEb1lRbW5kMFhWSFJQWkprU2pyNDMtZzRvSlESBBoCCAAaygcSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCkBwgAEAAYACAAKlUKBHdoYXQVhamMQBoEZ29vZBoFZ3JlYXQaB3JhdGluZ3MaD3JlY29tbWVuZGF0aW9ucxoIc3VpdGFibGUaCXRvcCByYXRlZBoFd2hhdHMaBXdoaWNoKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqYAoEYmVzdBUgRuQ_GgRnb29kGgVncmVhdBoHb3B0aW1hbBoHcmF0aW5ncxoPcmVjb21tZW5kYXRpb25zGghzdWl0YWJsZRoDdG9wGgl0b3AgcmF0ZWQaCWJlc3R2aWRlbyokCgV2aWRlbxXTZKBAGgliZXN0dmlkZW8aC3ZpZGVvZm9ybWF0KlMKBmZvcm1hdBW4FaQ_GgVjb2RlYxoHZXhhbXBsZRoEZmlsZRoHZm9ybWF0cxoHc2FtcGxlcxoIdGVtcGxhdGUaBXR5cGVzGgt2aWRlb2Zvcm1hdCoKCgNmb3IVAAAAACotCgl1cGxvYWRpbmcVr2QNQBoJdG8gdXBsb2FkGgZ1cGxvYWQaCHVwbG9hZGVyKgkKAnRvFQAAAAAqHQoHeW91dHViZRXGFsZAGg15b3V0dWJlc2hvcnRzKiMKBnNob3J0cxUjIww_GgVzaG9ydBoNeW91dHViZXNob3J0czK8AS9nb3RvP3VybD1DQUVTZ0FFQnhDSkYxeHJsSjEyQ1IwVW9JVUhNcXEySWV2bjh3ZDB5azNFNVdBNS1ST19RR3BENUJ4dVI1clFHVkdBbEtJelFSMEgzQndrVXFvREZ6bVl4ejlBcm9ZS0Nfc1phZUJ5bi16eE5pS2FqcHRDanhVNjhkOHdzbWVlY2F2T0IyTlhuTmZWem5oUnNVLUd5VHJIRG9ZUW1uZDBYVkhSUFpKa1NqcjQzLWc0b0pROk5XaGF0IGFyZSA8Yj5Zb3VUdWJlJiMzOTtzPC9iPiBjdXJyZW50IDxiPnZpZGVvIHVwbG9hZDwvYj4gcmVxdWlyZW1lbnRzIGFuZCAuLi5CngE8Yj5Zb3VUdWJlIHJlY29tbWVuZHMgTVBFRzQgKERpdngsIFh2aWQpIHdpdGggTVAzIGF1ZGlvPC9iPi4gVGhlIGFjY2VwdGVkIGZpbGUgZm9ybWF0cyBpbmNsdWRlIC5NT1YsIC4gTVBFRzQsIC5NUDQsIC5BVkksIC5XTVYsIC5NUEVHUFMsIC5GTFYsIC4zR1BQLCZuYnNwOy4uLkoDZm9ySgJpc0oDdGhlSgJ0b1IDdG9wIgIQAUgAWABoAA",
+        "source": "Facebook \u00b7 ASK AN EDITOR"
+      },
+      {
+        "position": 6,
+        "title": "Video Formats Explained: The Best File Types for YouTube ...",
+        "link": "https://www.google.com/goto?url=CAESbAHEIkXXv4BvkRolPd_QXczHtY2PVvZieZKpSZW6bUrhLv4dBHTyS9lilAQbMoFvzzxDs03SY7FsoEsDVciDhYax_Q72tvaXdYSZXrCJd6Czr-1P5Y-12un69KE2Cb28THekSujK2dfOzn5dSw",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHEIkXXw4B55X-NGu-sPQv_syGNXccKkAdBXk4z8If4SnodTfy2R9dDYmJWyiwHoVvpAkCNHNYQuNR2Da_EOiV2pwgGGA2j_5K16pxyXRMVGaUTbGb_0T-Kw1ishAS2FipaUKePXUE2Ba8dRw&ved=2ahUKEwjZ4Jqx3JuYAxVYQjABHTEUFs8QFnoECBkQAQ&uoh=1",
+        "displayed_link": "https://uppbeat.io \u203a blog \u203a equipment \u203a video-formats",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEXyPXXyOnPyNXHxLGzzSn32i6fyMW_xKWv5rMD____zRnv4p7z1dJj83-b71N74oLf0bJLxFGP6vcz0XYnxH2f-8PT2haP-9PbwAF_7ydX3mrL0Zo_wAFL6wtDzVYP5scT96e71bZP3kaweqCDQAAAArUlEQVR4Ab3NRYLEMAxEUcl2S6kwM9__jgPbxNkM9N8-Ab0rNvxo1r2c8ayIMGkAwN12TRgFbGIkKTK5Wg4gLUpwheiKdYO2Qz9gHDBdznKIck6_EViULrii2zAUA5ZW6Y5AQ_p1U8iDe2zZDjiMD5Oa6Bn1N1gncHxHh64QPb4_36uB9FUClfGgaQGgy9WxR6UKtrbuByh5YrHmSDEKeVMAp5I_PmIr9BQbekOf018KSeLMHZ0AAAAASUVORK5CYII.png",
+        "date": "Jul 30, 2026",
+        "snippet": "Best YouTube Shorts format and size settings. Format: MP4. Video codec: H.264. Audio codec: AAC. Resolution: 1080x1920 (vertical). Aspect ratio ...",
+        "snippet_highlighted_words": [
+          "Format: MP4"
+        ],
+        "sitelinks": {
+          "inline": [
+            {
+              "title": "YouTube video format and...",
+              "link": "https://www.google.com/goto?url=CAESmAEBxCJF1wF9cSxT5bMqlOYyhvFLNohqtQWEVV2ZSTvZwMjWkCCwQlDPSZshK48pG4ZMorgYy-aIv0dEo599Shj6lZeDaPXr3b7w3K-Lm_Lq1rqLUVz2feC2fXgV3d-TZ-JLtE7jhIDegH-0cfoovghIz6ublYizYbi92ORONO46_a8WklSntDs3kTifO_9U3x0FyjT6ozJxlw&gsessionid=AO9gyf4LKlcuJRQ2poZ3e6wh6N57GLU8VoLBfeiiUD8-fANToqnvmw"
+            },
+            {
+              "title": "YouTube Shorts format and...",
+              "link": "https://www.google.com/goto?url=CAESmQEBxCJF18Spf9O3dARuzX7LUc4YxpcSL2ccd6h9eQt8Yv7317jihFVKsQRFnVW6J-XCPNrSJAO0CFqkTvT_-L_l6nlxWx5eRPNEL9ikgs1abtgkzjMNZfWHOLrPbHRSdvyDovo3SpncuY-0fcbGW8oXKUkAIp0TzspibEsz9dE704nHcb9NfLzHUavP4tigtJSgpvEI2ci5GM4&gsessionid=AO9gyf4LKlcuJRQ2poZ3e6wh6N57GLU8VoLBfeiiUD8-fANToqnvmw"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Best YouTube Shorts format and size settings. Format: MP4. Video codec: H.264. Audio codec: AAC. Resolution: 1080x1920 (vertical). Aspect ratio ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESbAHEIkXXv4BvkRolPd_QXczHtY2PVvZieZKpSZW6bUrhLv4dBHTyS9lilAQbMoFvzzxDs03SY7FsoEsDVciDhYax_Q72tvaXdYSZXrCJd6Czr-1P5Y-12un69KE2Cb28THekSujK2dfOzn5dSw",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEXyPXXyOnPyNXHxLGzzSn32i6fyMW_xKWv5rMD____zRnv4p7z1dJj83-b71N74oLf0bJLxFGP6vcz0XYnxH2f-8PT2haP-9PbwAF_7ydX3mrL0Zo_wAFL6wtDzVYP5scT96e71bZP3kaweqCDQAAAArUlEQVR4Ab3NRYLEMAxEUcl2S6kwM9__jgPbxNkM9N8-Ab0rNvxo1r2c8ayIMGkAwN12TRgFbGIkKTK5Wg4gLUpwheiKdYO2Qz9gHDBdznKIck6_EViULrii2zAUA5ZW6Y5AQ_p1U8iDe2zZDjiMD5Oa6Bn1N1gncHxHh64QPb4_36uB9FUClfGgaQGgy9WxR6UKtrbuByh5YrHmSDEKeVMAp5I_PmIr9BQbekOf018KSeLMHZ0AAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhFSWtYWHY0QnZrUm9sUGRfUVhjekh0WTJQVnZaaWVaS3BTWlc2YlVyaEx2NGRCSFR5UzlsaWxBUWJNb0Z2enp4RHMwM1NZN0Zzb0VzRFZjaURoWWF4X1E3MnR2YVhkWVNaWHJDSmQ2Q3pyLTFQNVktMTJ1bjY5S0UyQ2IyOFRIZWtTdWpLMmRmT3puNWRTdxIEGgIIABqyBxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIwHCAAQABgAIAAqVQoEd2hhdBXrKDxAGgRnb29kGgVncmVhdBoHcmF0aW5ncxoPcmVjb21tZW5kYXRpb25zGghzdWl0YWJsZRoJdG9wIHJhdGVkGgV3aGF0cxoFd2hpY2gqCQoCaXMVAAAAACoKCgN0aGUVAAAAACpgCgRiZXN0FU-yqUAaBGdvb2QaBWdyZWF0GgdvcHRpbWFsGgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMaCHN1aXRhYmxlGgN0b3AaCXRvcCByYXRlZBoJYmVzdHZpZGVvKiQKBXZpZGVvFVUJ_EAaCWJlc3R2aWRlbxoLdmlkZW9mb3JtYXQqUwoGZm9ybWF0FdBUjEAaBWNvZGVjGgdleGFtcGxlGgRmaWxlGgdmb3JtYXRzGgdzYW1wbGVzGgh0ZW1wbGF0ZRoFdHlwZXMaC3ZpZGVvZm9ybWF0KgoKA2ZvchUAAAAAKi0KCXVwbG9hZGluZxVdQQJAGgl0byB1cGxvYWQaBnVwbG9hZBoIdXBsb2FkZXIqCQoCdG8VAAAAACodCgd5b3V0dWJlFVlGr0AaDXlvdXR1YmVzaG9ydHMqIwoGc2hvcnRzFSuE7T8aBXNob3J0Gg15b3V0dWJlc2hvcnRzMqABL2dvdG8_dXJsPUNBRVNiQUhFSWtYWHY0QnZrUm9sUGRfUVhjekh0WTJQVnZaaWVaS3BTWlc2YlVyaEx2NGRCSFR5UzlsaWxBUWJNb0Z2enp4RHMwM1NZN0Zzb0VzRFZjaURoWWF4X1E3MnR2YVhkWVNaWHJDSmQ2Q3pyLTFQNVktMTJ1bjY5S0UyQ2IyOFRIZWtTdWpLMmRmT3puNWRTdzpRPGI-VmlkZW8gRm9ybWF0czwvYj4gRXhwbGFpbmVkOiBUaGUgPGI-QmVzdCBGaWxlIFR5cGVzPC9iPiBmb3IgPGI-WW91VHViZTwvYj4gLi4uQp8BQmVzdCBZb3VUdWJlIFNob3J0cyBmb3JtYXQgYW5kIHNpemUgc2V0dGluZ3MuIDxiPkZvcm1hdDogTVA0PC9iPi4gVmlkZW8gY29kZWM6IEguMjY0LiBBdWRpbyBjb2RlYzogQUFDLiBSZXNvbHV0aW9uOiAxMDgweDE5MjAgKHZlcnRpY2FsKS4gQXNwZWN0IHJhdGlvJm5ic3A7Li4uSgN0aGVKAmlzSgNmb3JKAnRvUgN0b3AiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhFSWtYWHY0QnZrUm9sUGRfUVhjekh0WTJQVnZaaWVaS3BTWlc2YlVyaEx2NGRCSFR5UzlsaWxBUWJNb0Z2enp4RHMwM1NZN0Zzb0VzRFZjaURoWWF4X1E3MnR2YVhkWVNaWHJDSmQ2Q3pyLTFQNVktMTJ1bjY5S0UyQ2IyOFRIZWtTdWpLMmRmT3puNWRTdxIEGgIIABqyBxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIwHCAAQABgAIAAqVQoEd2hhdBXrKDxAGgRnb29kGgVncmVhdBoHcmF0aW5ncxoPcmVjb21tZW5kYXRpb25zGghzdWl0YWJsZRoJdG9wIHJhdGVkGgV3aGF0cxoFd2hpY2gqCQoCaXMVAAAAACoKCgN0aGUVAAAAACpgCgRiZXN0FU-yqUAaBGdvb2QaBWdyZWF0GgdvcHRpbWFsGgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMaCHN1aXRhYmxlGgN0b3AaCXRvcCByYXRlZBoJYmVzdHZpZGVvKiQKBXZpZGVvFVUJ_EAaCWJlc3R2aWRlbxoLdmlkZW9mb3JtYXQqUwoGZm9ybWF0FdBUjEAaBWNvZGVjGgdleGFtcGxlGgRmaWxlGgdmb3JtYXRzGgdzYW1wbGVzGgh0ZW1wbGF0ZRoFdHlwZXMaC3ZpZGVvZm9ybWF0KgoKA2ZvchUAAAAAKi0KCXVwbG9hZGluZxVdQQJAGgl0byB1cGxvYWQaBnVwbG9hZBoIdXBsb2FkZXIqCQoCdG8VAAAAACodCgd5b3V0dWJlFVlGr0AaDXlvdXR1YmVzaG9ydHMqIwoGc2hvcnRzFSuE7T8aBXNob3J0Gg15b3V0dWJlc2hvcnRzMqABL2dvdG8_dXJsPUNBRVNiQUhFSWtYWHY0QnZrUm9sUGRfUVhjekh0WTJQVnZaaWVaS3BTWlc2YlVyaEx2NGRCSFR5UzlsaWxBUWJNb0Z2enp4RHMwM1NZN0Zzb0VzRFZjaURoWWF4X1E3MnR2YVhkWVNaWHJDSmQ2Q3pyLTFQNVktMTJ1bjY5S0UyQ2IyOFRIZWtTdWpLMmRmT3puNWRTdzpRPGI-VmlkZW8gRm9ybWF0czwvYj4gRXhwbGFpbmVkOiBUaGUgPGI-QmVzdCBGaWxlIFR5cGVzPC9iPiBmb3IgPGI-WW91VHViZTwvYj4gLi4uQp8BQmVzdCBZb3VUdWJlIFNob3J0cyBmb3JtYXQgYW5kIHNpemUgc2V0dGluZ3MuIDxiPkZvcm1hdDogTVA0PC9iPi4gVmlkZW8gY29kZWM6IEguMjY0LiBBdWRpbyBjb2RlYzogQUFDLiBSZXNvbHV0aW9uOiAxMDgweDE5MjAgKHZlcnRpY2FsKS4gQXNwZWN0IHJhdGlvJm5ic3A7Li4uSgN0aGVKAmlzSgNmb3JKAnRvUgN0b3AiAhABSABYAGgA",
+        "source": "Uppbeat",
+        "read_more_link": "https://www.google.com/goto?url=CAEStgEBxCJF14LniWUSvNTXWiQ5bhFRjGMENSqHiG8T0M8MEB_26fV6Afc_5rlju2wwxtrx9TEsVxksNlKnC95YDm4GtYPbb5qNxjHtAO5g2wZkrDCQ_WyHv9naI0SKE21n-IRsWgBcKQo_n3FKO5JwFvbdIjxxH4zpnphz-_uYCvYYQoCXxMx-rx1fVU7s28Ig1CcQgzxJSvizN-y1s4gP2kPM_O-ZI3h3SqZRjdCkXGrDztE0oF1ADQ&gsessionid=AO9gyf4LKlcuJRQ2poZ3e6wh6N57GLU8VoLBfeiiUD8-fANToqnvmw"
+      },
+      {
+        "position": 7,
+        "title": "What Is the Best Video Format for Creators in 2026",
+        "link": "https://www.google.com/goto?url=CAESZAHEIkXXks-tfNqq4PCjn0KiAjGbkuhzDHHtZHpL7bfaG-viNY46OVdwrFMAPJjxkuQ2UhKIJ37DmjxzPV9iSCSFc9ieZTtlp9IleXER2Anj-E4u3_g-QdcUdfStOA18aaKiw9U",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHEIkXX4CZDYsRjhB-khCw15SPH4Mc_7xISbRmvcpv1vnD5aPBwCxHijbllLaHzHIOkMq891WJwQMyJA7dabD9iBzWe9UvFAKmKAoZG6Z_KMQbzL67Ipn-BPG6QpxMrE6BkpZA&ved=2ahUKEwjZ4Jqx3JuYAxVYQjABHTEUFs8QFnoECFwQAQ&uoh=1",
+        "displayed_link": "https://klap.app \u203a blog \u203a best-video-format",
+        "favicon": "https://serpapi.com/searches/6b02f3602bcc241e01c4df2f/images/3kOUtz0shUhnbVUT69A11fxER4btgcEZzYZUUPkXuu8.png",
+        "date": "Mar 10, 2026",
+        "snippet": "(H.264) is your go-to. Here, the undisputed king is MP4 (H.264). These platforms are built for fast uploads and flawless 60 fps",
+        "about_this_result": {
+          "source": {
+            "description": "(H.264) is your go-to. Here, the undisputed king is MP4 (H.264). These platforms are built for fast uploads and flawless 60 fps",
+            "source_info_link": "https://www.google.com/goto?url=CAESZAHEIkXXks-tfNqq4PCjn0KiAjGbkuhzDHHtZHpL7bfaG-viNY46OVdwrFMAPJjxkuQ2UhKIJ37DmjxzPV9iSCSFc9ieZTtlp9IleXER2Anj-E4u3_g-QdcUdfStOA18aaKiw9U",
+            "icon": "https://serpapi.com/searches/6b02f3602bcc241e01c4df2f/images/3kOUtz0shUhnbVUT69A11T43GWWTU0EYnFcOq2N6CmPnP6472RYaOSOkY84d7Mwa.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpUBL2dvdG8_dXJsPUNBRVNaQUhFSWtYWGtzLXRmTnFxNFBDam4wS2lBakdia3VoekRISHRaSHBMN2JmYUctdmlOWTQ2T1Zkd3JGTUFQSmp4a3VRMlVoS0lKMzdEbWp4elBWOWlTQ1NGYzlpZVpUdGxwOUlsZVhFUjJBbmotRTR1M19nLVFkY1VkZlN0T0ExOGFhS2l3OVUSBBoCCAAa9QYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDPBggAEAAYACAAKlUKBHdoYXQVisOfQBoEZ29vZBoFZ3JlYXQaB3JhdGluZ3MaD3JlY29tbWVuZGF0aW9ucxoIc3VpdGFibGUaCXRvcCByYXRlZBoFd2hhdHMaBXdoaWNoKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqYAoEYmVzdBVEZMBAGgRnb29kGgVncmVhdBoHb3B0aW1hbBoHcmF0aW5ncxoPcmVjb21tZW5kYXRpb25zGghzdWl0YWJsZRoDdG9wGgl0b3AgcmF0ZWQaCWJlc3R2aWRlbyokCgV2aWRlbxUiK-pAGgliZXN0dmlkZW8aC3ZpZGVvZm9ybWF0KlMKBmZvcm1hdBV3qthAGgVjb2RlYxoHZXhhbXBsZRoEZmlsZRoHZm9ybWF0cxoHc2FtcGxlcxoIdGVtcGxhdGUaBXR5cGVzGgt2aWRlb2Zvcm1hdCoKCgNmb3IVAAAAACotCgl1cGxvYWRpbmcVurMFPxoJdG8gdXBsb2FkGgZ1cGxvYWQaCHVwbG9hZGVyKgkKAnRvFQAAAAAqHQoHeW91dHViZRUL2eE_Gg15b3V0dWJlc2hvcnRzKiMKBnNob3J0cxXXX6E_GgVzaG9ydBoNeW91dHViZXNob3J0czKVAS9nb3RvP3VybD1DQUVTWkFIRUlrWFhrcy10Zk5xcTRQQ2puMEtpQWpHYmt1aHpESEh0WkhwTDdiZmFHLXZpTlk0Nk9WZHdyRk1BUEpqeGt1UTJVaEtJSjM3RG1qeHpQVjlpU0NTRmM5aWVaVHRscDlJbGVYRVIyQW5qLUU0dTNfZy1RZGNVZGZTdE9BMThhYUtpdzlVOkA8Yj5XaGF0IElzIHRoZSBCZXN0IFZpZGVvIEZvcm1hdDwvYj4gZm9yIENyZWF0b3JzIGluIDIwMjYgLSBLbGFwQn8oSC4yNjQpIGlzIHlvdXIgZ28tdG8uIEhlcmUsIHRoZSB1bmRpc3B1dGVkIGtpbmcgaXMgTVA0IChILjI2NCkuIFRoZXNlIHBsYXRmb3JtcyBhcmUgYnVpbHQgZm9yIGZhc3QgdXBsb2FkcyBhbmQgZmxhd2xlc3MgNjAgZnBzSgN0aGVKAmlzSgNmb3JKAnRvUgN0b3AiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpUBL2dvdG8_dXJsPUNBRVNaQUhFSWtYWGtzLXRmTnFxNFBDam4wS2lBakdia3VoekRISHRaSHBMN2JmYUctdmlOWTQ2T1Zkd3JGTUFQSmp4a3VRMlVoS0lKMzdEbWp4elBWOWlTQ1NGYzlpZVpUdGxwOUlsZVhFUjJBbmotRTR1M19nLVFkY1VkZlN0T0ExOGFhS2l3OVUSBBoCCAAa9QYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDPBggAEAAYACAAKlUKBHdoYXQVisOfQBoEZ29vZBoFZ3JlYXQaB3JhdGluZ3MaD3JlY29tbWVuZGF0aW9ucxoIc3VpdGFibGUaCXRvcCByYXRlZBoFd2hhdHMaBXdoaWNoKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqYAoEYmVzdBVEZMBAGgRnb29kGgVncmVhdBoHb3B0aW1hbBoHcmF0aW5ncxoPcmVjb21tZW5kYXRpb25zGghzdWl0YWJsZRoDdG9wGgl0b3AgcmF0ZWQaCWJlc3R2aWRlbyokCgV2aWRlbxUiK-pAGgliZXN0dmlkZW8aC3ZpZGVvZm9ybWF0KlMKBmZvcm1hdBV3qthAGgVjb2RlYxoHZXhhbXBsZRoEZmlsZRoHZm9ybWF0cxoHc2FtcGxlcxoIdGVtcGxhdGUaBXR5cGVzGgt2aWRlb2Zvcm1hdCoKCgNmb3IVAAAAACotCgl1cGxvYWRpbmcVurMFPxoJdG8gdXBsb2FkGgZ1cGxvYWQaCHVwbG9hZGVyKgkKAnRvFQAAAAAqHQoHeW91dHViZRUL2eE_Gg15b3V0dWJlc2hvcnRzKiMKBnNob3J0cxXXX6E_GgVzaG9ydBoNeW91dHViZXNob3J0czKVAS9nb3RvP3VybD1DQUVTWkFIRUlrWFhrcy10Zk5xcTRQQ2puMEtpQWpHYmt1aHpESEh0WkhwTDdiZmFHLXZpTlk0Nk9WZHdyRk1BUEpqeGt1UTJVaEtJSjM3RG1qeHpQVjlpU0NTRmM5aWVaVHRscDlJbGVYRVIyQW5qLUU0dTNfZy1RZGNVZGZTdE9BMThhYUtpdzlVOkA8Yj5XaGF0IElzIHRoZSBCZXN0IFZpZGVvIEZvcm1hdDwvYj4gZm9yIENyZWF0b3JzIGluIDIwMjYgLSBLbGFwQn8oSC4yNjQpIGlzIHlvdXIgZ28tdG8uIEhlcmUsIHRoZSB1bmRpc3B1dGVkIGtpbmcgaXMgTVA0IChILjI2NCkuIFRoZXNlIHBsYXRmb3JtcyBhcmUgYnVpbHQgZm9yIGZhc3QgdXBsb2FkcyBhbmQgZmxhd2xlc3MgNjAgZnBzSgN0aGVKAmlzSgNmb3JKAnRvUgN0b3AiAhABSABYAGgA",
+        "source": "Klap"
+      },
+      {
+        "position": 8,
+        "title": "How To Upload High Quality YouTube Shorts",
+        "link": "https://www.google.com/goto?url=CAESZwHEIkXXaqH7qQQISb2exJCKbZi60Iq18bPSmZSE1L3naDcl4FxDo5tbGsT924I7_rKTAicySSU37jMCHdLj-fBGTdD70TBcr0aF8BBxWC7wckv0FTSAG-oBigIiQm_5DtUd8rZM7w8&gsessionid=AO9gyf4LKlcuJRQ2poZ3e6wh6N57GLU8VoLBfeiiUD8-fANToqnvmw",
+        "displayed_link": "567.3K+ views",
+        "date": "3 years ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f3602bcc241e01c4df2f/images/3kOUtz0shUhnbVUT69A11dDw0sDtP34h1StDQdaaj-w.jpg",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "How To Upload High Quality YouTube Shorts! -~-~~-~~~-~~-~- Please watch: \"(542) New YouTube Setting Giving Videos Instant Views ...",
+        "duration": "0:43",
+        "about_this_result": {
+          "source": {
+            "description": "How To Upload High Quality YouTube Shorts! -~-~~-~~~-~~-~- Please watch: \"(542) New YouTube Setting Giving Videos Instant Views ...",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpkBL2dvdG8_dXJsPUNBRVNad0hFSWtYWGFxSDdxUVFJU2IyZXhKQ0tiWmk2MElxMThiUFNtWlNFMUwzbmFEY2w0RnhEbzV0YkdzVDkyNEk3X3JLVEFpY3lTU1UzN2pNQ0hkTGotZkJHVGRENzBUQmNyMGFGOEJCeFdDN3dja3YwRlRTQUctb0JpZ0lpUW1fNUR0VWQ4clpNN3c4EhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpkBL2dvdG8_dXJsPUNBRVNad0hFSWtYWGFxSDdxUVFJU2IyZXhKQ0tiWmk2MElxMThiUFNtWlNFMUwzbmFEY2w0RnhEbzV0YkdzVDkyNEk3X3JLVEFpY3lTU1UzN2pNQ0hkTGotZkJHVGRENzBUQmNyMGFGOEJCeFdDN3dja3YwRlRTQUctb0JpZ0lpUW1fNUR0VWQ4clpNN3c4EhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQMN_v5sbay6_fwrgkKjsm-eVn7ZqmfR38O3Q",
+        "source": "YouTube \u00b7 TubeBuddy"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "How to upload high quality video on YouTube shorts",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg7W2pubwWYhfBqmpj2FQYq5ewnSg:1795355488736&q=How+to+upload+high+quality+video+on+YouTube+shorts&sa=X&ved=2ahUKEwjZ4Jqx3JuYAxVYQjABHTEUFs8Q1QJ6BAhWEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+upload+high+quality+video+on+YouTube+shorts"
+      },
+      {
+        "block_position": 1,
+        "query": "YouTube video format size",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg7W2pubwWYhfBqmpj2FQYq5ewnSg:1795355488736&q=YouTube+video+format+size&sa=X&ved=2ahUKEwjZ4Jqx3JuYAxVYQjABHTEUFs8Q1QJ6BAhaEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=YouTube+video+format+size"
+      },
+      {
+        "block_position": 1,
+        "query": "YouTube video format 16:9",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg7W2pubwWYhfBqmpj2FQYq5ewnSg:1795355488736&q=YouTube+video+format+16:9&sa=X&ved=2ahUKEwjZ4Jqx3JuYAxVYQjABHTEUFs8Q1QJ6BAhZEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=YouTube+video+format+16%3A9"
+      },
+      {
+        "block_position": 1,
+        "query": "Best codec for YouTube 4K",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg7W2pubwWYhfBqmpj2FQYq5ewnSg:1795355488736&q=Best+codec+for+YouTube+4K&sa=X&ved=2ahUKEwjZ4Jqx3JuYAxVYQjABHTEUFs8Q1QJ6BAhYEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+codec+for+YouTube+4K"
+      },
+      {
+        "block_position": 1,
+        "query": "Best bitrate for YouTube shorts",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg7W2pubwWYhfBqmpj2FQYq5ewnSg:1795355488736&q=Best+bitrate+for+YouTube+shorts&sa=X&ved=2ahUKEwjZ4Jqx3JuYAxVYQjABHTEUFs8Q1QJ6BAhTEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+bitrate+for+YouTube+shorts"
+      },
+      {
+        "block_position": 1,
+        "query": "Best bitrate for youtube shorts 4k",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg7W2pubwWYhfBqmpj2FQYq5ewnSg:1795355488736&q=Best+bitrate+for+youtube+shorts+4k&sa=X&ved=2ahUKEwjZ4Jqx3JuYAxVYQjABHTEUFs8Q1QJ6BAhXEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+bitrate+for+youtube+shorts+4k"
+      },
+      {
+        "block_position": 1,
+        "query": "YouTube Shorts video size width and height",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg7W2pubwWYhfBqmpj2FQYq5ewnSg:1795355488736&q=YouTube+Shorts+video+size+width+and+height&sa=X&ved=2ahUKEwjZ4Jqx3JuYAxVYQjABHTEUFs8Q1QJ6BAhUEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=YouTube+Shorts+video+size+width+and+height"
+      },
+      {
+        "block_position": 1,
+        "query": "How to upload high quality video on YouTube from mobile",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg7W2pubwWYhfBqmpj2FQYq5ewnSg:1795355488736&q=How+to+upload+high+quality+video+on+YouTube+from+mobile&sa=X&ved=2ahUKEwjZ4Jqx3JuYAxVYQjABHTEUFs8Q1QJ6BAhVEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+upload+high+quality+video+on+YouTube+from+mobile"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=What+is+the+best+video+format+for+uploading+to+YouTube+Shorts?&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg7W2pubwWYhfBqmpj2FQYq5ewnSg:1795355488736&ei=YPMCa9mwLNiEwbkPsajY-Aw&start=10&sa=N&sstk=AYl2yk_jusw0Zegbz44IXcVVGidKic1N23GZpOADJ-AAIBQ0TQ9cHSv-zDWmz-wAMu0vzXAjhcG55mJg6pDOgxLDaCX9mUY44BUaUw&ved=2ahUKEwjZ4Jqx3JuYAxVYQjABHTEUFs8Q8NMDegQIURAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=What+is+the+best+video+format+for+uploading+to+YouTube+Shorts?&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg7W2pubwWYhfBqmpj2FQYq5ewnSg:1795355488736&ei=YPMCa9mwLNiEwbkPsajY-Aw&start=10&sa=N&sstk=AYl2yk_jusw0Zegbz44IXcVVGidKic1N23GZpOADJ-AAIBQ0TQ9cHSv-zDWmz-wAMu0vzXAjhcG55mJg6pDOgxLDaCX9mUY44BUaUw&ved=2ahUKEwjZ4Jqx3JuYAxVYQjABHTEUFs8Q8tMDegQIURAE",
+        "3": "https://www.google.com/search?q=What+is+the+best+video+format+for+uploading+to+YouTube+Shorts?&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg7W2pubwWYhfBqmpj2FQYq5ewnSg:1795355488736&ei=YPMCa9mwLNiEwbkPsajY-Aw&start=20&sa=N&sstk=AYl2yk_jusw0Zegbz44IXcVVGidKic1N23GZpOADJ-AAIBQ0TQ9cHSv-zDWmz-wAMu0vzXAjhcG55mJg6pDOgxLDaCX9mUY44BUaUw&ved=2ahUKEwjZ4Jqx3JuYAxVYQjABHTEUFs8Q8tMDegQIURAG",
+        "4": "https://www.google.com/search?q=What+is+the+best+video+format+for+uploading+to+YouTube+Shorts?&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg7W2pubwWYhfBqmpj2FQYq5ewnSg:1795355488736&ei=YPMCa9mwLNiEwbkPsajY-Aw&start=30&sa=N&sstk=AYl2yk_jusw0Zegbz44IXcVVGidKic1N23GZpOADJ-AAIBQ0TQ9cHSv-zDWmz-wAMu0vzXAjhcG55mJg6pDOgxLDaCX9mUY44BUaUw&ved=2ahUKEwjZ4Jqx3JuYAxVYQjABHTEUFs8Q8tMDegQIURAI",
+        "5": "https://www.google.com/search?q=What+is+the+best+video+format+for+uploading+to+YouTube+Shorts?&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg7W2pubwWYhfBqmpj2FQYq5ewnSg:1795355488736&ei=YPMCa9mwLNiEwbkPsajY-Aw&start=40&sa=N&sstk=AYl2yk_jusw0Zegbz44IXcVVGidKic1N23GZpOADJ-AAIBQ0TQ9cHSv-zDWmz-wAMu0vzXAjhcG55mJg6pDOgxLDaCX9mUY44BUaUw&ved=2ahUKEwjZ4Jqx3JuYAxVYQjABHTEUFs8Q8tMDegQIURAK",
+        "6": "https://www.google.com/search?q=What+is+the+best+video+format+for+uploading+to+YouTube+Shorts?&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg7W2pubwWYhfBqmpj2FQYq5ewnSg:1795355488736&ei=YPMCa9mwLNiEwbkPsajY-Aw&start=50&sa=N&sstk=AYl2yk_jusw0Zegbz44IXcVVGidKic1N23GZpOADJ-AAIBQ0TQ9cHSv-zDWmz-wAMu0vzXAjhcG55mJg6pDOgxLDaCX9mUY44BUaUw&ved=2ahUKEwjZ4Jqx3JuYAxVYQjABHTEUFs8Q8tMDegQIURAM",
+        "7": "https://www.google.com/search?q=What+is+the+best+video+format+for+uploading+to+YouTube+Shorts?&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg7W2pubwWYhfBqmpj2FQYq5ewnSg:1795355488736&ei=YPMCa9mwLNiEwbkPsajY-Aw&start=60&sa=N&sstk=AYl2yk_jusw0Zegbz44IXcVVGidKic1N23GZpOADJ-AAIBQ0TQ9cHSv-zDWmz-wAMu0vzXAjhcG55mJg6pDOgxLDaCX9mUY44BUaUw&ved=2ahUKEwjZ4Jqx3JuYAxVYQjABHTEUFs8Q8tMDegQIURAO",
+        "8": "https://www.google.com/search?q=What+is+the+best+video+format+for+uploading+to+YouTube+Shorts?&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg7W2pubwWYhfBqmpj2FQYq5ewnSg:1795355488736&ei=YPMCa9mwLNiEwbkPsajY-Aw&start=70&sa=N&sstk=AYl2yk_jusw0Zegbz44IXcVVGidKic1N23GZpOADJ-AAIBQ0TQ9cHSv-zDWmz-wAMu0vzXAjhcG55mJg6pDOgxLDaCX9mUY44BUaUw&ved=2ahUKEwjZ4Jqx3JuYAxVYQjABHTEUFs8Q8tMDegQIURAQ",
+        "9": "https://www.google.com/search?q=What+is+the+best+video+format+for+uploading+to+YouTube+Shorts?&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg7W2pubwWYhfBqmpj2FQYq5ewnSg:1795355488736&ei=YPMCa9mwLNiEwbkPsajY-Aw&start=80&sa=N&sstk=AYl2yk_jusw0Zegbz44IXcVVGidKic1N23GZpOADJ-AAIBQ0TQ9cHSv-zDWmz-wAMu0vzXAjhcG55mJg6pDOgxLDaCX9mUY44BUaUw&ved=2ahUKEwjZ4Jqx3JuYAxVYQjABHTEUFs8Q8tMDegQIURAS",
+        "10": "https://www.google.com/search?q=What+is+the+best+video+format+for+uploading+to+YouTube+Shorts?&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg7W2pubwWYhfBqmpj2FQYq5ewnSg:1795355488736&ei=YPMCa9mwLNiEwbkPsajY-Aw&start=90&sa=N&sstk=AYl2yk_jusw0Zegbz44IXcVVGidKic1N23GZpOADJ-AAIBQ0TQ9cHSv-zDWmz-wAMu0vzXAjhcG55mJg6pDOgxLDaCX9mUY44BUaUw&ved=2ahUKEwjZ4Jqx3JuYAxVYQjABHTEUFs8Q8tMDegQIURAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+the+best+video+format+for+uploading+to+YouTube+Shorts%3F&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+the+best+video+format+for+uploading+to+YouTube+Shorts%3F&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+the+best+video+format+for+uploading+to+YouTube+Shorts%3F&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+the+best+video+format+for+uploading+to+YouTube+Shorts%3F&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+the+best+video+format+for+uploading+to+YouTube+Shorts%3F&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+the+best+video+format+for+uploading+to+YouTube+Shorts%3F&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+the+best+video+format+for+uploading+to+YouTube+Shorts%3F&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+the+best+video+format+for+uploading+to+YouTube+Shorts%3F&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+the+best+video+format+for+uploading+to+YouTube+Shorts%3F&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+the+best+video+format+for+uploading+to+YouTube+Shorts%3F&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+the+best+video+format+for+uploading+to+YouTube+Shorts%3F&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

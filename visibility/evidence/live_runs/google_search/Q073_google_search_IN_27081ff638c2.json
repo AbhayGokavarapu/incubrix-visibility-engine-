@@ -1,0 +1,425 @@
+{
+  "measurement_id": "27081ff638c2",
+  "question_id": "Q073",
+  "timestamp_utc": "2026-11-22T13:49:38.692634+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "What is the best workflow for repurposing Twitch gaming streams?",
+  "market": "IN",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://www.facebook.com/xMikemikemikex/posts/i-put-a-lot-of-hours-into-streaming-before-i-started-saving-the-moments-im-learn/10240027740302791/",
+    "https://www.google.com/goto?url=CAESoAEBxCJF1wJp2RrLZ6gw3FLiE2QAiGkXtSGGCPO-2zP9d3yJRCDTGg3BU0xH_ox4F6Va3JYaCP_tpyGP9duwj-Dk656hjFyKQ5_qExgQDs-_6-qWwxhmyaw8Q9YWcQpEJK6E2NMpCSlmmhq5mRY38ikxap2gtj4RwlwdmAfm_Ug_xaqmdT0ToBwoz_EJsjC8Ix21GKKFOTeFm9jU6y1a7ckZ",
+    "https://www.google.com/goto?url=CAEScwHEIkXX4b91mMflmuFYqsR9KGHRttD5Q4T7SfXoAdJFz4VhPC7heJe0zn8o3fkivgsi5Y02aTt67djN46eCErBini1HoDvjLv8XXDz09FA_VTs-ob3uPf3vOPUwgv6I0i1X6jGvJk-1USB9dtXXq8_JYRw",
+    "https://www.google.com/goto?url=CAESeQHEIkXXONpOHe8zaPlhQ-Kn0u9YKveVPUNrYB2R-WjTel3SN8qo0ccQQQWjRR_2v55sLHfQ-jDABqj5mlDSbW6ux9ft2UKtfuNKn-nD5w9_dCgPWzLslOR8SUvklRPQRqhz45Z8JehTtOFjNTSP6FJA3a857C80irI",
+    "https://www.google.com/goto?url=CAESfQHEIkXXzedzcbCkyXW5NInOKj7xvqT24ctvqekmXgdJZgup7CySOLoSH1tPPsiGY5EgWpi5IBXwNl1eMpro9TnJvmsL_PPlBoEDR-ySYZ06rhJvGXnYkBbB_6ADoJPuRwXIihuQOrqUte3a8I94rb6uMVzN7haTwkDaquRy",
+    "https://www.google.com/goto?url=CAESewHEIkXXYQdlZHApW0AmQ8ZHDDA1_Dqi-TSayJIjMTgg3c3TD6bbBZcTVLyWw7gfE9_muCAQLBdBCM9H66ImSYL-rrWxYDFx5gRWypS3VODAGBGiOjR6RNAyG0OHnI41KXWd6qTKEV2W86UUxPwIBq6N2y3sktTQAK2nQQ&gsessionid=KjI6bQYnQpBE5BXBPGxHnC_Tutrfl7PqBJxI6AqvhcDHbqvKb1AmGQ",
+    "https://www.google.com/goto?url=CAESfAHEIkXXbGVnQVfIrA7GNOhJw4WPT5Xtwwl5p8LqdAJrpLrIgWKfMyVhRCMf0Zs6a1hFDP-DF34teTh3uNCYAdPfCmt5DcHGkfwFa4RoCwYOjaEFHi8SN327FtXeng-ko-XkxEPMTixtIK0N0inF3gtrB_JdSNJH23xFDZk"
+  ],
+  "raw_text_summary": "Streamer Clipping Workflow: Save Moments & Boost ... \u27a1\ufe0f Vertical + big captions: The post specifically recommends a weekly upload schedule, releasing clips 2-3 times a day, to ensure a consistent ... People who create daily content from your streams, how do ... So this is mainly a question for those people who create daily content from their daily livestreams. I'm mostly talking about more long forum stuff and ... AI Content Repurposing Tool Explained for Streamers A diagram outlining a five-step practical workflow for converting Twitch streams into viral social The five-stage handoff Import the source. ... Turn Twitch Stream to YouTube Shorts Effortlessly convert hours of Twitch broadcasts into high-impact YouTube Shorts with Vizard's intelligent AI repurposing workflow. 10x Faster than manual ... Streaming Workflow: The Best Setup for Content Creators ... A successful streaming setup requires fast storage, reliable hardware, and an efficient workflow to handle real-time recording, video processing ... Turn Twitch Streams Into Content Instantly: Repurpose One ... Simple workflow to convert one stream into days of content 1. Mark key moments while streaming - Use Twitch clip hotkeys or a second device to ... Best Workflow Tools for Streamers in 2025 1. Stream Management: OBS Studio + StreamElements \u00b7 2. Clip Management: Twitch Clips + Socialync \u00b7 3. Social Media Scheduling: Socialync \u00b7 4.",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f2efec900da167a1171a",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/NvL0C3YYulMrVDxCKODr48sAgrnl6k09h7Ux2S_oEW8/6b02f2efec900da167a1171a.json",
+      "markdown_endpoint": "https://serpapi.com/searches/NvL0C3YYulMrVDxCKODr48sAgrnl6k09h7Ux2S_oEW8/6b02f2efec900da167a1171a.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/NvL0C3YYulMrVDxCKODr48sAgrnl6k09h7Ux2S_oEW8/6b02f2efec900da167a1171a.json_with_pixel_position",
+      "created_at": "2026-11-22 13:49:35 UTC",
+      "processed_at": "2026-11-22 13:49:35 UTC",
+      "google_url": "https://www.google.com/search?q=What+is+the+best+workflow+for+repurposing+Twitch+gaming+streams%3F&oq=What+is+the+best+workflow+for+repurposing+Twitch+gaming+streams%3F&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/NvL0C3YYulMrVDxCKODr48sAgrnl6k09h7Ux2S_oEW8/6b02f2efec900da167a1171a.html",
+      "total_time_taken": 2.19
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "What is the best workflow for repurposing Twitch gaming streams?",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "in",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "What is the best workflow for repurposing Twitch gaming streams?",
+      "total_results": 57900,
+      "time_taken_displayed": 0.29,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "The Streaming Workflow That Actually Grows Your Channel",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXFjHRKpIhf6ha4gJawY5AJoIpifEa2zm4t9g5oAgjl9a_CT59AXCDVNtPNDdy7G1a-aIJppunR8igZbDYAfVrIaeNa7adK0yel6RAAyzxDrsqmJzxu9dZnci3xZM-G9dtSgKs&gsessionid=KjI6bQYnQpBE5BXBPGxHnC_Tutrfl7PqBJxI6AqvhcDHbqvKb1AmGQ",
+        "thumbnail": "https://serpapi.com/searches/6b02f2efec900da167a1171a/images/1FO2Nd7oaCHGs_ZEAAP6UWbRBQCNBJ5nzD7Eub260VU.jpg",
+        "channel": "Cal's Creation",
+        "duration": "6:55",
+        "platform": "YouTube",
+        "date": "11 Feb 2026",
+        "snippet": "To grow your channel, focus on a workflow: set an output goal, actively create moments, and distribute clips after streaming.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRzIL6ICVOxeAGBsGSXMdhojljvrrGJMPSFLg"
+      },
+      {
+        "position": 2,
+        "title": "How I Turn 1 Stream Into 10 Pieces of Content (Full Workflow)",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXLtPAWgRLJ53-nAcTrJ0Jqt9VuwVsaMbQLMa3k3N44hwvwNoWQnczAIwPrt5U4tf9NJ5WKshcklKHZJgN2hRpfYgV-L3E5Kft3f_GdDRKYLX0pFR2VWa-WpKybtkryhNsUmSi&gsessionid=KjI6bQYnQpBE5BXBPGxHnC_Tutrfl7PqBJxI6AqvhcDHbqvKb1AmGQ",
+        "thumbnail": "https://serpapi.com/searches/6b02f2efec900da167a1171a/images/WLt7Fc9Z69w9j3VpdXLTYkBQbnqc2Egqv72PVQVyX_E.jpg",
+        "channel": "Cal's Creation",
+        "duration": "7:41",
+        "platform": "YouTube",
+        "date": "31 Mar 2026",
+        "snippet": "Turn one stream into multiple content pieces by planning intentional segments, using AI tools like Nexus Clips, and repurposing clips.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTVahX3Wn6_d40D2y9PRlLt5cbIaLaTTmZImg"
+      },
+      {
+        "position": 3,
+        "title": "6 FREE Tools That Instantly Upgrade Your Stream (2026)",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXNoaUQ_JB4S3KJ_9LTETuDYtrUgex0fX7EjEQsGZNWe-e_uzMQyjG3R5YVabpmW0eESvYA4J2EfhjOjuniLxoLAzQ4NVkychunS1YH9RudsOXj9m2DlSd9k2q1o_AXOe8ACRr&gsessionid=KjI6bQYnQpBE5BXBPGxHnC_Tutrfl7PqBJxI6AqvhcDHbqvKb1AmGQ",
+        "thumbnail": "https://serpapi.com/searches/6b02f2efec900da167a1171a/images/7sRNUAynfOQELvpoLw6DAcCcwMcAxhmKrer0pWcwBxY.jpg",
+        "channel": "Cal's Creation",
+        "duration": "9:40",
+        "platform": "YouTube",
+        "date": "23 Apr 2026",
+        "snippet": "Upgrade your stream with 6 free tools like Nexus Clips for automated highlights, OBS Shader Filter for pro camera effects, and Twitch Tracker for game insights.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSLJq9Su4qynK3aBLiNPAhYKgHF0ATLehI5pw"
+      },
+      {
+        "position": 4,
+        "title": "How To Turn Twitch Streams Into Clips AUTOMATICALLY (2026)",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXKL82g2yi7GPTB_XmtseGp7q5OaWlJoAboGvbzzo0qwXk1uva5rRt_uRtf2sOrlfdu0ebBXf5L_MxQZqzMYoH3vxmdKCV34-3cQ-mt7BJivVoPLX64K725rweMSv9UItNxqoC&gsessionid=KjI6bQYnQpBE5BXBPGxHnC_Tutrfl7PqBJxI6AqvhcDHbqvKb1AmGQ",
+        "thumbnail": "https://serpapi.com/searches/6b02f2efec900da167a1171a/images/4fDX2Htk8i00VQTGJhyKQAojEQFXx9yRSom4Z64VUM0.jpg",
+        "channel": "Cal's Creation",
+        "duration": "6:32",
+        "platform": "YouTube",
+        "date": "1 month ago",
+        "snippet": "Automate Twitch clip creation in minutes using Nexus Clips AI, which ranks clips by virality & publishes directly to TikTok/YouTube Shorts.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTs0Vn3Nzb7ZM3qgbEJ7XEWUjq7obNTV5AQeQ"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "How many viewers on Twitch to make $5000 a month?",
+        "type": "ai_overview",
+        "page_token": "sA1UD3icHdDRjZswAABQtcPc5wWbkIpIUdU0hpQmzmGwAf-cjE3gDhtIYoWEz07QIfp1w9wAXaJSJ6jUN8L78Uu_dO3vDz8ba4fLcjYbx_Gx7vtaV4-yNzNxuXdyJoXWpZDtcvFpAT4f5Qpdi_XXs1zHlKBCK53lLCgzNpKtMmXQTMm2B9IlJ5yxV-4G3-M8uBegHplxXEXBmMOLx43PiRPcik7tGIoW5bZhHNqrRJ5hFNgy28Ok9TdVqCk2eCEclaThkB6obfZuc6WG5zL_4vFtg8gUeMLM7zi0btnxHWOYYfQNykltOGqeCs3umAangq2zPWhOktIJA_-yyxiqTA2zlBXCwSOH3AgwmDQMTOxScAgLhwfExSjyEo0cNUUuaoo5b_WmYD6qWuTtUmZVaGMBNCwRIOFLtE7QfCSpCks43OLXCCqonCTlN4L8_IDIfG9uCQ_olBjSPRzldeU-_J9ePR-NXQ7nvn6T50rYSj0L-95-_PvnH1JGkeM",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=sA1UD3icHdDRjZswAABQtcPc5wWbkIpIUdU0hpQmzmGwAf-cjE3gDhtIYoWEz07QIfp1w9wAXaJSJ6jUN8L78Uu_dO3vDz8ba4fLcjYbx_Gx7vtaV4-yNzNxuXdyJoXWpZDtcvFpAT4f5Qpdi_XXs1zHlKBCK53lLCgzNpKtMmXQTMm2B9IlJ5yxV-4G3-M8uBegHplxXEXBmMOLx43PiRPcik7tGIoW5bZhHNqrRJ5hFNgy28Ok9TdVqCk2eCEclaThkB6obfZuc6WG5zL_4vFtg8gUeMLM7zi0btnxHWOYYfQNykltOGqeCs3umAangq2zPWhOktIJA_-yyxiqTA2zlBXCwSOH3AgwmDQMTOxScAgLhwfExSjyEo0cNUUuaoo5b_WmYD6qWuTtUmZVaGMBNCwRIOFLtE7QfCSpCks43OLXCCqonCTlN4L8_IDIfG9uCQ_olBjSPRzldeU-_J9ePR-NXQ7nvn6T50rYSj0L-95-_PvnH1JGkeM",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWYVRGRmpkRlZmVERKeU4wUnZTMlptYVVoYWRtOU9XRk5ITjJWTUxXSnFTVlZZVWpCWVdVTlFRV3BaUTFwb1RHazNSVGw1TnpSd2FuRjVZa294VDNGNmNXNWFaMEpzTTFSUE1YRXhaVEZmVEhkeVFsOXNaMDFRTjJveFFSSVdPR1pKUTJGZlJIcEJPUzAxYlhSclVHdFpkbXhOVVJvaVFVaE9NRVUzUmpOalZIZGxOWEZhZVZWRFlXVTBlR1J6WldwT1NubHBlWFp4UVEiLCJmY3YiOiIzIiwiZWkiOiI4ZklDYV9EekE5LTVtdGtQa1l2bE1RIiwicWMiOiJDa0FyZDJoaGRDQnBjeUIwYUdVZ1ltVnpkQ0IzYjNKclpteHZkeUJtYjNJZ2NtVndkWEp3YjNOcGJtY2dkSGRwZEdOb0lHZGhiV2x1WnlCemRISmxZVzF6RUFCOXhpSGFQZyIsInF1ZXN0aW9uIjoiSG93IG1hbnkgdmlld2VycyBvbiBUd2l0Y2ggdG8gbWFrZSAkNTAwMCBhIG1vbnRoPyIsImxrIjoiR2pCb2IzY2diV0Z1ZVNCMmFXVjNaWEp6SUc5dUlIUjNhWFJqYUNCMGJ5QnRZV3RsSUNRMU1EQXdJR0VnYlc5dWRHZyIsImJzIjoiYzUyUHV3b0NNUkFBc2QzS1N1VkFYZEFQU0NMV3dVNTd3VG9jUzdLWXgzRUpCdl9lc3hHTDR4RHJtU2tHTE1oenFoaE1mT0tEcVZLZk1VVzhWaTZ0dzVJR2NpZmNINFVRYURDa1dKeFdxaEZ1SkNvVEVaeGdjOG5ZZXU0NmpoWno2Y21FZDhqZWt6VmVxMjJ6NWlrRERyQzh1WVNEVkJ6aFRuNFVyVmJOb280aS1IRlFfalA0SGMxbkx3IiwiaWQiOiJmY184ZklDYV9EekE5LTVtdGtQa1l2bE1RXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWYVRGRmpkRlZmVERKeU4wUnZTMlptYVVoYWRtOU9XRk5ITjJWTUxXSnFTVlZZVWpCWVdVTlFRV3BaUTFwb1RHazNSVGw1TnpSd2FuRjVZa294VDNGNmNXNWFaMEpzTTFSUE1YRXhaVEZmVEhkeVFsOXNaMDFRTjJveFFSSVdPR1pKUTJGZlJIcEJPUzAxYlhSclVHdFpkbXhOVVJvaVFVaE9NRVUzUmpOalZIZGxOWEZhZVZWRFlXVTBlR1J6WldwT1NubHBlWFp4UVEiLCJmY3YiOiIzIiwiZWkiOiI4ZklDYV9EekE5LTVtdGtQa1l2bE1RIiwicWMiOiJDa0FyZDJoaGRDQnBjeUIwYUdVZ1ltVnpkQ0IzYjNKclpteHZkeUJtYjNJZ2NtVndkWEp3YjNOcGJtY2dkSGRwZEdOb0lHZGhiV2x1WnlCemRISmxZVzF6RUFCOXhpSGFQZyIsInF1ZXN0aW9uIjoiSG93IG1hbnkgdmlld2VycyBvbiBUd2l0Y2ggdG8gbWFrZSAkNTAwMCBhIG1vbnRoPyIsImxrIjoiR2pCb2IzY2diV0Z1ZVNCMmFXVjNaWEp6SUc5dUlIUjNhWFJqYUNCMGJ5QnRZV3RsSUNRMU1EQXdJR0VnYlc5dWRHZyIsImJzIjoiYzUyUHV3b0NNUkFBc2QzS1N1VkFYZEFQU0NMV3dVNTd3VG9jUzdLWXgzRUpCdl9lc3hHTDR4RHJtU2tHTE1oenFoaE1mT0tEcVZLZk1VVzhWaTZ0dzVJR2NpZmNINFVRYURDa1dKeFdxaEZ1SkNvVEVaeGdjOG5ZZXU0NmpoWno2Y21FZDhqZWt6VmVxMjJ6NWlrRERyQzh1WVNEVkJ6aFRuNFVyVmJOb280aS1IRlFfalA0SGMxbkx3IiwiaWQiOiJmY184ZklDYV9EekE5LTVtdGtQa1l2bE1RXzUifQ%3D%3D"
+      },
+      {
+        "question": "Is clipping streamers illegal?",
+        "type": "ai_overview",
+        "page_token": "vY93NXicHdBfToMwHADg6GF8HAUcJksWEwadm1pdob9CXwwr_0bLmCuK49Gz-ORhPICXMPEEJn5H-N4_9G6vvs943fcHM7OsYRgmVddVupjIrrUyc9pLS2ZabzOpZt6VZ1-Xch4a4y-6wd8wGqY61xxoS5bTmIzQydC497By4wZKwtcuxJQXe9xsxzqhOr_Z2pUbNeSZjLkH7qF8uMkdAuIFEN0JDlGqeo9hHPCluN26OQGmhjgmjyypRa7hIALdiSA9Rcv1JleaEkURa9UlBL65S8SOBPSFhJizpZwWrS6lLRYAvsdGsqAsHFNH6I1jItzUbcRInSDqbWLVE26jzPaPPBEmhjBbKbyKGx8TVIcZXpcFCJS6EkWOoNLpp_fIoEgTzFj1xiC8KOXr3L34D5s_lW0_Oxy76lMei6wv8qes_1Lnvz9_Awx_tw",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=vY93NXicHdBfToMwHADg6GF8HAUcJksWEwadm1pdob9CXwwr_0bLmCuK49Gz-ORhPICXMPEEJn5H-N4_9G6vvs943fcHM7OsYRgmVddVupjIrrUyc9pLS2ZabzOpZt6VZ1-Xch4a4y-6wd8wGqY61xxoS5bTmIzQydC497By4wZKwtcuxJQXe9xsxzqhOr_Z2pUbNeSZjLkH7qF8uMkdAuIFEN0JDlGqeo9hHPCluN26OQGmhjgmjyypRa7hIALdiSA9Rcv1JleaEkURa9UlBL65S8SOBPSFhJizpZwWrS6lLRYAvsdGsqAsHFNH6I1jItzUbcRInSDqbWLVE26jzPaPPBEmhjBbKbyKGx8TVIcZXpcFCJS6EkWOoNLpp_fIoEgTzFj1xiC8KOXr3L34D5s_lW0_Oxy76lMei6wv8qes_1Lnvz9_Awx_tw",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWYVRGRmpkRlZmVERKeU4wUnZTMlptYVVoYWRtOU9XRk5ITjJWTUxXSnFTVlZZVWpCWVdVTlFRV3BaUTFwb1RHazNSVGw1TnpSd2FuRjVZa294VDNGNmNXNWFaMEpzTTFSUE1YRXhaVEZmVEhkeVFsOXNaMDFRTjJveFFSSVdPR1pKUTJGZlJIcEJPUzAxYlhSclVHdFpkbXhOVVJvaVFVaE9NRVUzUmpOalZIZGxOWEZhZVZWRFlXVTBlR1J6WldwT1NubHBlWFp4UVEiLCJmY3YiOiIzIiwiZWkiOiI4ZklDYV9EekE5LTVtdGtQa1l2bE1RIiwicWMiOiJDa0FyZDJoaGRDQnBjeUIwYUdVZ1ltVnpkQ0IzYjNKclpteHZkeUJtYjNJZ2NtVndkWEp3YjNOcGJtY2dkSGRwZEdOb0lHZGhiV2x1WnlCemRISmxZVzF6RUFCOXhpSGFQZyIsInF1ZXN0aW9uIjoiSXMgY2xpcHBpbmcgc3RyZWFtZXJzIGlsbGVnYWw/IiwibGsiOiJHaDFwY3lCamJHbHdjR2x1WnlCemRISmxZVzFsY25NZ2FXeHNaV2RoYkEiLCJicyI6ImM1MlB1d29DTVJBQXNkM0tTdVZBWGRBUFNDTFd3VTU3d1RvY1M3S1l4M0VKQnZfZXN4R0w0eERybVNrR0xNaHpxaGhNZk9LRHFWS2ZNVVc4Vmk2dHc1SUdjaWZjSDRVUWFEQ2tXSnhXcWhGdUpDb1RFWnhnYzhuWWV1NDZqaFp6NmNtRWQ4amVrelZlcTIyejVpa0REckM4dVlTRFZCemhUbjRVclZiTm9vNGktSEZRX2pQNEhjMW5MdyIsImlkIjoiZmNfOGZJQ2FfRHpBOS01bXRrUGtZdmxNUV81In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWYVRGRmpkRlZmVERKeU4wUnZTMlptYVVoYWRtOU9XRk5ITjJWTUxXSnFTVlZZVWpCWVdVTlFRV3BaUTFwb1RHazNSVGw1TnpSd2FuRjVZa294VDNGNmNXNWFaMEpzTTFSUE1YRXhaVEZmVEhkeVFsOXNaMDFRTjJveFFSSVdPR1pKUTJGZlJIcEJPUzAxYlhSclVHdFpkbXhOVVJvaVFVaE9NRVUzUmpOalZIZGxOWEZhZVZWRFlXVTBlR1J6WldwT1NubHBlWFp4UVEiLCJmY3YiOiIzIiwiZWkiOiI4ZklDYV9EekE5LTVtdGtQa1l2bE1RIiwicWMiOiJDa0FyZDJoaGRDQnBjeUIwYUdVZ1ltVnpkQ0IzYjNKclpteHZkeUJtYjNJZ2NtVndkWEp3YjNOcGJtY2dkSGRwZEdOb0lHZGhiV2x1WnlCemRISmxZVzF6RUFCOXhpSGFQZyIsInF1ZXN0aW9uIjoiSXMgY2xpcHBpbmcgc3RyZWFtZXJzIGlsbGVnYWw%2FIiwibGsiOiJHaDFwY3lCamJHbHdjR2x1WnlCemRISmxZVzFsY25NZ2FXeHNaV2RoYkEiLCJicyI6ImM1MlB1d29DTVJBQXNkM0tTdVZBWGRBUFNDTFd3VTU3d1RvY1M3S1l4M0VKQnZfZXN4R0w0eERybVNrR0xNaHpxaGhNZk9LRHFWS2ZNVVc4Vmk2dHc1SUdjaWZjSDRVUWFEQ2tXSnhXcWhGdUpDb1RFWnhnYzhuWWV1NDZqaFp6NmNtRWQ4amVrelZlcTIyejVpa0REckM4dVlTRFZCemhUbjRVclZiTm9vNGktSEZRX2pQNEhjMW5MdyIsImlkIjoiZmNfOGZJQ2FfRHpBOS01bXRrUGtZdmxNUV81In0%3D"
+      },
+      {
+        "question": "Who is the #1 streamer?",
+        "type": "ai_overview",
+        "page_token": "OsuaMnicHdDNTsIwAADg6MNwhJXBDCTEZLqxYSgZ_YNeSGlhc223sTUOrz6LJx_GB_AlTHwCjbfv_L29m-dKf92wwrmmm49Gfd8P87rOzWkoazsS3WslR1IYcxRSz4O7ANyf5SLquvCh7sOMbKO9UWavXZOx5ulI4oDZGYLWhJmX-msNLmTMLyhSFbZXJ6N4THDcHqvVJgPhCtJZx0k6_bNPDe0QaFKV0DYzRUgxN9jWk_WSrymDItMw4JpjQsBWEAhQ1EykNy2Z2Y-Jz9eY5b1ioGWJ2qFlsdksaSnADFB91cqDZ5psLdLTHunYV3aC4rKwiMBi522DDGsHGfAECFu24x2mkUh1nOIyjKEnnSTAUwl8hCR-IdRA7vNMlkbwiqYIhxDqaHCWLwt_8B-2OJytmzdtnX_I9iTcSR2E-9S3P9-_GGl_Aw",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=OsuaMnicHdDNTsIwAADg6MNwhJXBDCTEZLqxYSgZ_YNeSGlhc223sTUOrz6LJx_GB_AlTHwCjbfv_L29m-dKf92wwrmmm49Gfd8P87rOzWkoazsS3WslR1IYcxRSz4O7ANyf5SLquvCh7sOMbKO9UWavXZOx5ulI4oDZGYLWhJmX-msNLmTMLyhSFbZXJ6N4THDcHqvVJgPhCtJZx0k6_bNPDe0QaFKV0DYzRUgxN9jWk_WSrymDItMw4JpjQsBWEAhQ1EykNy2Z2Y-Jz9eY5b1ioGWJ2qFlsdksaSnADFB91cqDZ5psLdLTHunYV3aC4rKwiMBi522DDGsHGfAECFu24x2mkUh1nOIyjKEnnSTAUwl8hCR-IdRA7vNMlkbwiqYIhxDqaHCWLwt_8B-2OJytmzdtnX_I9iTcSR2E-9S3P9-_GGl_Aw",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWYVRGRmpkRlZmVERKeU4wUnZTMlptYVVoYWRtOU9XRk5ITjJWTUxXSnFTVlZZVWpCWVdVTlFRV3BaUTFwb1RHazNSVGw1TnpSd2FuRjVZa294VDNGNmNXNWFaMEpzTTFSUE1YRXhaVEZmVEhkeVFsOXNaMDFRTjJveFFSSVdPR1pKUTJGZlJIcEJPUzAxYlhSclVHdFpkbXhOVVJvaVFVaE9NRVUzUmpOalZIZGxOWEZhZVZWRFlXVTBlR1J6WldwT1NubHBlWFp4UVEiLCJmY3YiOiIzIiwiZWkiOiI4ZklDYV9EekE5LTVtdGtQa1l2bE1RIiwicWMiOiJDa0FyZDJoaGRDQnBjeUIwYUdVZ1ltVnpkQ0IzYjNKclpteHZkeUJtYjNJZ2NtVndkWEp3YjNOcGJtY2dkSGRwZEdOb0lHZGhiV2x1WnlCemRISmxZVzF6RUFCOXhpSGFQZyIsInF1ZXN0aW9uIjoiV2hvIGlzIHRoZSAjMSBzdHJlYW1lcj8iLCJsayI6IkdoWjNhRzhnYVhNZ2RHaGxJQ014SUhOMGNtVmhiV1Z5IiwiYnMiOiJjNTJQdXdvQ01SQUFzZDNLU3VWQVhkQVBTQ0xXd1U1N3dUb2NTN0tZeDNFSkJ2X2VzeEdMNHhEcm1Ta0dMTWh6cWhoTWZPS0RxVktmTVVXOFZpNnR3NUlHY2lmY0g0VVFhRENrV0p4V3FoRnVKQ29URVp4Z2M4bllldTQ2amhaejZjbUVkOGpla3pWZXEyMno1aWtERHJDOHVZU0RWQnpoVG40VXJWYk5vbzRpLUhGUV9qUDRIYzFuTHciLCJpZCI6ImZjXzhmSUNhX0R6QTktNW10a1BrWXZsTVFfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWYVRGRmpkRlZmVERKeU4wUnZTMlptYVVoYWRtOU9XRk5ITjJWTUxXSnFTVlZZVWpCWVdVTlFRV3BaUTFwb1RHazNSVGw1TnpSd2FuRjVZa294VDNGNmNXNWFaMEpzTTFSUE1YRXhaVEZmVEhkeVFsOXNaMDFRTjJveFFSSVdPR1pKUTJGZlJIcEJPUzAxYlhSclVHdFpkbXhOVVJvaVFVaE9NRVUzUmpOalZIZGxOWEZhZVZWRFlXVTBlR1J6WldwT1NubHBlWFp4UVEiLCJmY3YiOiIzIiwiZWkiOiI4ZklDYV9EekE5LTVtdGtQa1l2bE1RIiwicWMiOiJDa0FyZDJoaGRDQnBjeUIwYUdVZ1ltVnpkQ0IzYjNKclpteHZkeUJtYjNJZ2NtVndkWEp3YjNOcGJtY2dkSGRwZEdOb0lHZGhiV2x1WnlCemRISmxZVzF6RUFCOXhpSGFQZyIsInF1ZXN0aW9uIjoiV2hvIGlzIHRoZSAjMSBzdHJlYW1lcj8iLCJsayI6IkdoWjNhRzhnYVhNZ2RHaGxJQ014SUhOMGNtVmhiV1Z5IiwiYnMiOiJjNTJQdXdvQ01SQUFzZDNLU3VWQVhkQVBTQ0xXd1U1N3dUb2NTN0tZeDNFSkJ2X2VzeEdMNHhEcm1Ta0dMTWh6cWhoTWZPS0RxVktmTVVXOFZpNnR3NUlHY2lmY0g0VVFhRENrV0p4V3FoRnVKQ29URVp4Z2M4bllldTQ2amhaejZjbUVkOGpla3pWZXEyMno1aWtERHJDOHVZU0RWQnpoVG40VXJWYk5vbzRpLUhGUV9qUDRIYzFuTHciLCJpZCI6ImZjXzhmSUNhX0R6QTktNW10a1BrWXZsTVFfNSJ9"
+      },
+      {
+        "question": "How many viewers on Twitch to make $1000 a month?",
+        "type": "ai_overview",
+        "page_token": "1MQYmnicHdBNjtMwGABQwWFmOY2dtqiVKkRaJyXCGcWJPxpvRo6d1GmcH3VMk-mSE3AIVhyGA3AJJE6AYP9W7-t32_TtrzffjHPjy3axmKbp8TwMZ1s9qqFbyJfXXi2UtLaUqt2u363R-1rtyK0I9lcVpJyRwmpb9NarCJMcs4TmwgM_uMpQzyoyDWsQr0LbsFD3cClQeWKxsvGe-SaVWPQ8ZxEHoOXRzLozszgFhrXGCrJZUzxTeqDLEszHlMdremRfnmDTKLJywh-cvIeR4O4KGP6ZvWynuwghpj5DqtsMySGRVWcawEuUfnY498wh8_SgcOLlfhCnvn4qu7FRbXKD8MM9QyNKUBKxEKjANi16jdTdpAySFfXYhZNZEFMsRWsPBWxI1ZLVpxycjlwqkcUlQSxq4iAjy4nlOso6fcqimWuIERCK-TGpsxZqmYtRXMRJgvEfanXb-Q__p3fPdee243U4_1DXSrpKP0v3s3375_dfbe-STA",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=1MQYmnicHdBNjtMwGABQwWFmOY2dtqiVKkRaJyXCGcWJPxpvRo6d1GmcH3VMk-mSE3AIVhyGA3AJJE6AYP9W7-t32_TtrzffjHPjy3axmKbp8TwMZ1s9qqFbyJfXXi2UtLaUqt2u363R-1rtyK0I9lcVpJyRwmpb9NarCJMcs4TmwgM_uMpQzyoyDWsQr0LbsFD3cClQeWKxsvGe-SaVWPQ8ZxEHoOXRzLozszgFhrXGCrJZUzxTeqDLEszHlMdremRfnmDTKLJywh-cvIeR4O4KGP6ZvWynuwghpj5DqtsMySGRVWcawEuUfnY498wh8_SgcOLlfhCnvn4qu7FRbXKD8MM9QyNKUBKxEKjANi16jdTdpAySFfXYhZNZEFMsRWsPBWxI1ZLVpxycjlwqkcUlQSxq4iAjy4nlOso6fcqimWuIERCK-TGpsxZqmYtRXMRJgvEfanXb-Q__p3fPdee243U4_1DXSrpKP0v3s3375_dfbe-STA",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWYVRGRmpkRlZmVERKeU4wUnZTMlptYVVoYWRtOU9XRk5ITjJWTUxXSnFTVlZZVWpCWVdVTlFRV3BaUTFwb1RHazNSVGw1TnpSd2FuRjVZa294VDNGNmNXNWFaMEpzTTFSUE1YRXhaVEZmVEhkeVFsOXNaMDFRTjJveFFSSVdPR1pKUTJGZlJIcEJPUzAxYlhSclVHdFpkbXhOVVJvaVFVaE9NRVUzUmpOalZIZGxOWEZhZVZWRFlXVTBlR1J6WldwT1NubHBlWFp4UVEiLCJmY3YiOiIzIiwiZWkiOiI4ZklDYV9EekE5LTVtdGtQa1l2bE1RIiwicWMiOiJDa0FyZDJoaGRDQnBjeUIwYUdVZ1ltVnpkQ0IzYjNKclpteHZkeUJtYjNJZ2NtVndkWEp3YjNOcGJtY2dkSGRwZEdOb0lHZGhiV2x1WnlCemRISmxZVzF6RUFCOXhpSGFQZyIsInF1ZXN0aW9uIjoiSG93IG1hbnkgdmlld2VycyBvbiBUd2l0Y2ggdG8gbWFrZSAkMTAwMCBhIG1vbnRoPyIsImxrIjoiR2pCb2IzY2diV0Z1ZVNCMmFXVjNaWEp6SUc5dUlIUjNhWFJqYUNCMGJ5QnRZV3RsSUNReE1EQXdJR0VnYlc5dWRHZyIsImJzIjoiYzUyUHV3b0NNUkFBc2QzS1N1VkFYZEFQU0NMV3dVNTd3VG9jUzdLWXgzRUpCdl9lc3hHTDR4RHJtU2tHTE1oenFoaE1mT0tEcVZLZk1VVzhWaTZ0dzVJR2NpZmNINFVRYURDa1dKeFdxaEZ1SkNvVEVaeGdjOG5ZZXU0NmpoWno2Y21FZDhqZWt6VmVxMjJ6NWlrRERyQzh1WVNEVkJ6aFRuNFVyVmJOb280aS1IRlFfalA0SGMxbkx3IiwiaWQiOiJmY184ZklDYV9EekE5LTVtdGtQa1l2bE1RXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWYVRGRmpkRlZmVERKeU4wUnZTMlptYVVoYWRtOU9XRk5ITjJWTUxXSnFTVlZZVWpCWVdVTlFRV3BaUTFwb1RHazNSVGw1TnpSd2FuRjVZa294VDNGNmNXNWFaMEpzTTFSUE1YRXhaVEZmVEhkeVFsOXNaMDFRTjJveFFSSVdPR1pKUTJGZlJIcEJPUzAxYlhSclVHdFpkbXhOVVJvaVFVaE9NRVUzUmpOalZIZGxOWEZhZVZWRFlXVTBlR1J6WldwT1NubHBlWFp4UVEiLCJmY3YiOiIzIiwiZWkiOiI4ZklDYV9EekE5LTVtdGtQa1l2bE1RIiwicWMiOiJDa0FyZDJoaGRDQnBjeUIwYUdVZ1ltVnpkQ0IzYjNKclpteHZkeUJtYjNJZ2NtVndkWEp3YjNOcGJtY2dkSGRwZEdOb0lHZGhiV2x1WnlCemRISmxZVzF6RUFCOXhpSGFQZyIsInF1ZXN0aW9uIjoiSG93IG1hbnkgdmlld2VycyBvbiBUd2l0Y2ggdG8gbWFrZSAkMTAwMCBhIG1vbnRoPyIsImxrIjoiR2pCb2IzY2diV0Z1ZVNCMmFXVjNaWEp6SUc5dUlIUjNhWFJqYUNCMGJ5QnRZV3RsSUNReE1EQXdJR0VnYlc5dWRHZyIsImJzIjoiYzUyUHV3b0NNUkFBc2QzS1N1VkFYZEFQU0NMV3dVNTd3VG9jUzdLWXgzRUpCdl9lc3hHTDR4RHJtU2tHTE1oenFoaE1mT0tEcVZLZk1VVzhWaTZ0dzVJR2NpZmNINFVRYURDa1dKeFdxaEZ1SkNvVEVaeGdjOG5ZZXU0NmpoWno2Y21FZDhqZWt6VmVxMjJ6NWlrRERyQzh1WVNEVkJ6aFRuNFVyVmJOb280aS1IRlFfalA0SGMxbkx3IiwiaWQiOiJmY184ZklDYV9EekE5LTVtdGtQa1l2bE1RXzUifQ%3D%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "wVt4cXiczVbdcrJGGJ7pcW_j48REUKPRzDCZXQRF1Ig_TcwJg4gL8rPKoiQ5_K6lR72YXkBvojO9gi4ICRhN8nU6074zsOzu-7_vsy_ff3Vt3_njZ9cKww25YdkoisoIY-SaZQN7rE6efYNdYZcEhnWLXN72GcvlTZ8heBcYJm9YAfbMMl6kC_YyXWKe93yNMQjPMabNN1eyoGvtF9C6rHuhM3Lme3egMol6XlvoxFxT609rwmosfTnfam06KZOy6WsdWJaubeCa_Ypfd8pVrlor37G6R3nAf0siBDKiowMA-ogPql_VqFpUKxCO5cXDmFsfgNimDAT5sHPO_iRWGksKMPGYPndgtR45Hfo1zLhm8id-CQWf7lO3DoNz7O4XKBWNIygsfEQnkpjkRXmbC8d7p6hT3IHzNmhHOfXvwskZOIjO4lcEpKvRAKiqetZSRlS1MgecCz6pk8yjWas3CakUZJeIVjnHLgI6VFjbsIzkIyBx8QvTFoe7Ipiag-VwMOWkSCHSwy_bR3vQ2ymRDlhjQflcrC_NpWZp3G0yr1Qrda5Vu25eJMAzyCvySB55ASZc6DcHlyFX7pdhJcNcMdrjZKmyDE4VE4IoS0WRXhWo-TwnaTjidAqWpXS0AEQqFS5sqorYzzNRuLRpvpoon_43CeEDzB1RUrE4VTBLl0Cx2tQ5ECdvARQV3Z1UG8cBwHHMqJPZlDLHo3TnPebGQFaT9KYpLlyOkN4QkCZYjW8KhYqHwoFXvor9y05MFUX6KZ4uUkE8EQ4Qcp5QOTHmigASgbOTRUG202WQGEHoYAmq6FVNErLwHnWpMQFI1smtL5H4lYvl4EUGsiPM5LEmoYmviPd62yBT5Nub5mzWhtzQX9DjPo0t7C1-rK0Z_3sAZk3PTSv_LABjS18CoGp9BMBTTe8AQME5A8DJAYACPNX0RhnXUdN7D0AB2DkApk3vKc3FvwFA-DkA88eVB-DbURUAKJ4DYEcsAnC-FrOmdxqAqYE3AP7Tpgd_vOklODQPQ7ED7tbobCeUHjew29A21bYy1s2JBPv3ctvaiP4mij7thCsvvPH0pXuh2csbWO2Fz8sLjS7gG3PJbPlvVXhv6WHJJqXQMksLk4SlCAfOysVRaYWDUmBudsEGE9tHpWlkh4ZVQroXz0gYmLpHbhnPDTDP6dc93FMdUdvu3GE4bQ6q-2etLY4C2BhUW711yF2OzN0YERI9PU4bjjDGbm8y8x6Cx4ay7yrq3I76V9I4gN6-BtfRfKes11O_zj3AytoLjLE9AZewu4DR8qV2qUrzEQe7Y2c8fRg4XD_oNnYt6cFYdOrWbMRtLQkkfhF-KFihUrt-UbaYoWp4Wg5XCAzV-GdPB1IEekn9wvGWjn1aNAsMgdqdA7WN6IPpyTHE0DWT7HmjUa8ZdY4zdH11vTJXjIfC5w3f4hjiB3zlN4NmJKQHoYe_Oz_99effMxON8A",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=wVt4cXiczVbdcrJGGJ7pcW_j48REUKPRzDCZXQRF1Ig_TcwJg4gL8rPKoiQ5_K6lR72YXkBvojO9gi4ICRhN8nU6074zsOzu-7_vsy_ff3Vt3_njZ9cKww25YdkoisoIY-SaZQN7rE6efYNdYZcEhnWLXN72GcvlTZ8heBcYJm9YAfbMMl6kC_YyXWKe93yNMQjPMabNN1eyoGvtF9C6rHuhM3Lme3egMol6XlvoxFxT609rwmosfTnfam06KZOy6WsdWJaubeCa_Ypfd8pVrlor37G6R3nAf0siBDKiowMA-ogPql_VqFpUKxCO5cXDmFsfgNimDAT5sHPO_iRWGksKMPGYPndgtR45Hfo1zLhm8id-CQWf7lO3DoNz7O4XKBWNIygsfEQnkpjkRXmbC8d7p6hT3IHzNmhHOfXvwskZOIjO4lcEpKvRAKiqetZSRlS1MgecCz6pk8yjWas3CakUZJeIVjnHLgI6VFjbsIzkIyBx8QvTFoe7Ipiag-VwMOWkSCHSwy_bR3vQ2ymRDlhjQflcrC_NpWZp3G0yr1Qrda5Vu25eJMAzyCvySB55ASZc6DcHlyFX7pdhJcNcMdrjZKmyDE4VE4IoS0WRXhWo-TwnaTjidAqWpXS0AEQqFS5sqorYzzNRuLRpvpoon_43CeEDzB1RUrE4VTBLl0Cx2tQ5ECdvARQV3Z1UG8cBwHHMqJPZlDLHo3TnPebGQFaT9KYpLlyOkN4QkCZYjW8KhYqHwoFXvor9y05MFUX6KZ4uUkE8EQ4Qcp5QOTHmigASgbOTRUG202WQGEHoYAmq6FVNErLwHnWpMQFI1smtL5H4lYvl4EUGsiPM5LEmoYmviPd62yBT5Nub5mzWhtzQX9DjPo0t7C1-rK0Z_3sAZk3PTSv_LABjS18CoGp9BMBTTe8AQME5A8DJAYACPNX0RhnXUdN7D0AB2DkApk3vKc3FvwFA-DkA88eVB-DbURUAKJ4DYEcsAnC-FrOmdxqAqYE3AP7Tpgd_vOklODQPQ7ED7tbobCeUHjew29A21bYy1s2JBPv3ctvaiP4mij7thCsvvPH0pXuh2csbWO2Fz8sLjS7gG3PJbPlvVXhv6WHJJqXQMksLk4SlCAfOysVRaYWDUmBudsEGE9tHpWlkh4ZVQroXz0gYmLpHbhnPDTDP6dc93FMdUdvu3GE4bQ6q-2etLY4C2BhUW711yF2OzN0YERI9PU4bjjDGbm8y8x6Cx4ay7yrq3I76V9I4gN6-BtfRfKes11O_zj3AytoLjLE9AZewu4DR8qV2qUrzEQe7Y2c8fRg4XD_oNnYt6cFYdOrWbMRtLQkkfhF-KFihUrt-UbaYoWp4Wg5XCAzV-GdPB1IEekn9wvGWjn1aNAsMgdqdA7WN6IPpyTHE0DWT7HmjUa8ZdY4zdH11vTJXjIfC5w3f4hjiB3zlN4NmJKQHoYe_Oz_99effMxON8A"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Streamer Clipping Workflow: Save Moments & Boost ...",
+        "link": "https://www.facebook.com/xMikemikemikex/posts/i-put-a-lot-of-hours-into-streaming-before-i-started-saving-the-moments-im-learn/10240027740302791/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzwEBxCJF10mL7NHUZPLpTK-iTDm-XOfJevuar9SmFsXvOcvVfEKqMqS6UySswOI9lZfmocSeSOy8YrKj5Q5kg8MolFh-5fIAB1rFkdEfmSNhFZkmod7uKwqHrzi6HoG5DEMCPKbX8u0nq7v1x-wGKRCSeBm9mSL93K6pmL3dvSstYn3g01N_V9Ye29uLU8RwFQoNhDc3LP-eAbWNNTWj1RKdeElIqlBMK8pAeNe8ZMmzpqjS_fkFt9eOm3cZ5FRZT69qtJtgIk6y3QvL2bxvTcs&ved=2ahUKEwiwsPv725uYAxXfnCYFHZFFOQYQFnoECCoQAQ&uoh=1",
+        "displayed_link": "3 days ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+        "snippet": "\u27a1\ufe0f Vertical + big captions: The post specifically recommends a weekly upload schedule, releasing clips 2-3 times a day, to ensure a consistent ...",
+        "snippet_highlighted_words": [
+          "weekly upload schedule, releasing clips 2-3 times a day"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "\u27a1\ufe0f Vertical + big captions: The post specifically recommends a weekly upload schedule, releasing clips 2-3 times a day, to ensure a consistent ...",
+            "source_info_link": "https://www.facebook.com/xMikemikemikex/posts/i-put-a-lot-of-hours-into-streaming-before-i-started-saving-the-moments-im-learn/10240027740302791/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUCL2dvdG8_dXJsPUNBRVN6d0VCeENKRjEzNkNCVU1CN1NYOU5TaE1pTWtsN0IwSG9TMnRIcGpaR1p4VkRnMTRwQ0tFOC00NFpNcnA4YS0yMFdGc2VwZld4WUY3Mm5iMHZCTFRka2NBVjdFeWx6MUZkNDFTWEJPYmxoX1JlSXdDaE5wRHFORlhMUXJ5ME5yWVB6NFhUMVJTQnliYnN6QzloRzZJR2lGdDNjVm1YT2xyY0RUSklidmFNbGJXd3p4WWNRMFhRc0h4TTl6b2l2TjhhNWxPU2QzaVBGbUN0M2JmRk40Rjk3ekc4dkMzLTZXVnZwRlNsQl9hR09tY1dELWJaZ2Uxb0pjQjFLRnZMdHJPc0xIY2dOeFItekFqUEctVTcxdmVsZ2sSBBoCCAAaiggSABoAIgIIASoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkDkBwgAEAAYACAAKjoKBSt3aGF0FTkAbD8aBHdoYXQaB3JhdGluZ3MaD3JlY29tbWVuZGF0aW9ucxoFd2hhdHMaBXdoaWNoKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqLQoEYmVzdBVHJrM_GgZiZXR0ZXIaB3JhdGluZ3MaD3JlY29tbWVuZGF0aW9ucyopCgh3b3JrZmxvdxVClxBAGgl3b3JrZmxvd3MaDWl2O3A7d29ya2Zsb3cqCgoDZm9yFQAAAAAqTQoLcmVwdXJwb3NpbmcVYrAjPhoJcmVwdXJwb3NlGgpyZXB1cnBvc2VkGgVyZXVzZRoQaXY7cDtyZXB1cnBvc2luZxoJcmVjb3JkaW5nKjwKBnR3aXRjaBW0_w1AGgh0d2l0Y2hlcxoIdHdpdGNodHYaDHR3aXRjaGdhbWluZxoLaXY7cDt0d2l0Y2gqRAoGZ2FtaW5nFfojCz8aBGdhbWUaCGdhbWVwbGF5GgVnYW1lchoFZ2FtZXMaCXN0cmVhbWluZxoMdHdpdGNoZ2FtaW5nKiQKB3N0cmVhbXMValKzPxoGc3RyZWFtGgxpdjtwO3N0cmVhbXMypQIvZ290bz91cmw9Q0FFU3p3RUJ4Q0pGMTM2Q0JVTUI3U1g5TlNoTWlNa2w3QjBIb1MydEhwalpHWnhWRGcxNHBDS0U4LTQ0Wk1ycDhhLTIwV0ZzZXBmV3hZRjcybmIwdkJMVGRrY0FWN0V5bHoxRmQ0MVNYQk9ibGhfUmVJd0NoTnBEcU5GWExRcnkwTnJZUHo0WFQxUlNCeWJic3pDOWhHNklHaUZ0M2NWbVhPbHJjRFRKSWJ2YU1sYld3enhZY1EwWFFzSHhNOXpvaXZOOGE1bE9TZDNpUEZtQ3QzYmZGTjRGOTd6Rzh2QzMtNldWdnBGU2xCX2FHT21jV0QtYlpnZTFvSmNCMUtGdkx0ck9zTEhjZ054Ui16QWpQRy1VNzF2ZWxnazpHU3RyZWFtZXIgQ2xpcHBpbmcgPGI-V29ya2Zsb3c8L2I-OiBTYXZlIE1vbWVudHMgJmFtcDsgQm9vc3QgQ29udGVudCAuLi5CogHinqHvuI8gVmVydGljYWwgKyBiaWcgY2FwdGlvbnM6IFRoZSBwb3N0IHNwZWNpZmljYWxseSByZWNvbW1lbmRzIGEgPGI-d2Vla2x5IHVwbG9hZCBzY2hlZHVsZSwgcmVsZWFzaW5nIGNsaXBzIDItMyB0aW1lcyBhIGRheTwvYj4sIHRvIGVuc3VyZSBhIGNvbnNpc3RlbnQmbmJzcDsuLi5KA2ZvckoCaXNKA3RoZVIEd2hhdCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUCL2dvdG8_dXJsPUNBRVN6d0VCeENKRjEzNkNCVU1CN1NYOU5TaE1pTWtsN0IwSG9TMnRIcGpaR1p4VkRnMTRwQ0tFOC00NFpNcnA4YS0yMFdGc2VwZld4WUY3Mm5iMHZCTFRka2NBVjdFeWx6MUZkNDFTWEJPYmxoX1JlSXdDaE5wRHFORlhMUXJ5ME5yWVB6NFhUMVJTQnliYnN6QzloRzZJR2lGdDNjVm1YT2xyY0RUSklidmFNbGJXd3p4WWNRMFhRc0h4TTl6b2l2TjhhNWxPU2QzaVBGbUN0M2JmRk40Rjk3ekc4dkMzLTZXVnZwRlNsQl9hR09tY1dELWJaZ2Uxb0pjQjFLRnZMdHJPc0xIY2dOeFItekFqUEctVTcxdmVsZ2sSBBoCCAAaiggSABoAIgIIASoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkDkBwgAEAAYACAAKjoKBSt3aGF0FTkAbD8aBHdoYXQaB3JhdGluZ3MaD3JlY29tbWVuZGF0aW9ucxoFd2hhdHMaBXdoaWNoKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqLQoEYmVzdBVHJrM_GgZiZXR0ZXIaB3JhdGluZ3MaD3JlY29tbWVuZGF0aW9ucyopCgh3b3JrZmxvdxVClxBAGgl3b3JrZmxvd3MaDWl2O3A7d29ya2Zsb3cqCgoDZm9yFQAAAAAqTQoLcmVwdXJwb3NpbmcVYrAjPhoJcmVwdXJwb3NlGgpyZXB1cnBvc2VkGgVyZXVzZRoQaXY7cDtyZXB1cnBvc2luZxoJcmVjb3JkaW5nKjwKBnR3aXRjaBW0_w1AGgh0d2l0Y2hlcxoIdHdpdGNodHYaDHR3aXRjaGdhbWluZxoLaXY7cDt0d2l0Y2gqRAoGZ2FtaW5nFfojCz8aBGdhbWUaCGdhbWVwbGF5GgVnYW1lchoFZ2FtZXMaCXN0cmVhbWluZxoMdHdpdGNoZ2FtaW5nKiQKB3N0cmVhbXMValKzPxoGc3RyZWFtGgxpdjtwO3N0cmVhbXMypQIvZ290bz91cmw9Q0FFU3p3RUJ4Q0pGMTM2Q0JVTUI3U1g5TlNoTWlNa2w3QjBIb1MydEhwalpHWnhWRGcxNHBDS0U4LTQ0Wk1ycDhhLTIwV0ZzZXBmV3hZRjcybmIwdkJMVGRrY0FWN0V5bHoxRmQ0MVNYQk9ibGhfUmVJd0NoTnBEcU5GWExRcnkwTnJZUHo0WFQxUlNCeWJic3pDOWhHNklHaUZ0M2NWbVhPbHJjRFRKSWJ2YU1sYld3enhZY1EwWFFzSHhNOXpvaXZOOGE1bE9TZDNpUEZtQ3QzYmZGTjRGOTd6Rzh2QzMtNldWdnBGU2xCX2FHT21jV0QtYlpnZTFvSmNCMUtGdkx0ck9zTEhjZ054Ui16QWpQRy1VNzF2ZWxnazpHU3RyZWFtZXIgQ2xpcHBpbmcgPGI-V29ya2Zsb3c8L2I-OiBTYXZlIE1vbWVudHMgJmFtcDsgQm9vc3QgQ29udGVudCAuLi5CogHinqHvuI8gVmVydGljYWwgKyBiaWcgY2FwdGlvbnM6IFRoZSBwb3N0IHNwZWNpZmljYWxseSByZWNvbW1lbmRzIGEgPGI-d2Vla2x5IHVwbG9hZCBzY2hlZHVsZSwgcmVsZWFzaW5nIGNsaXBzIDItMyB0aW1lcyBhIGRheTwvYj4sIHRvIGVuc3VyZSBhIGNvbnNpc3RlbnQmbmJzcDsuLi5KA2ZvckoCaXNKA3RoZVIEd2hhdCICEAFIAFgAaAA",
+        "source": "Facebook \u00b7 Mike Mike Mike"
+      },
+      {
+        "position": 2,
+        "title": "People who create daily content from your streams, how do ...",
+        "link": "https://www.google.com/goto?url=CAESoAEBxCJF1wJp2RrLZ6gw3FLiE2QAiGkXtSGGCPO-2zP9d3yJRCDTGg3BU0xH_ox4F6Va3JYaCP_tpyGP9duwj-Dk656hjFyKQ5_qExgQDs-_6-qWwxhmyaw8Q9YWcQpEJK6E2NMpCSlmmhq5mRY38ikxap2gtj4RwlwdmAfm_Ug_xaqmdT0ToBwoz_EJsjC8Ix21GKKFOTeFm9jU6y1a7ckZ",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoAEBxCJF12U4N5mgDv3sfhZKA28aJM6GvfN906JlGlhTo606AY0P5zYBD3LzADyAKa51qeht6i3YGA1KoCbIQGcZXysD_TC0A41oP9laxPaXPKITQiHJpzH19TneF0nAmJe7j3AuMSFRqMENpaom9YxAUF7bxPoEgI1_tqvYWd2FwStC2wjouQx0BqPB9g4aLMG0vOUpEOAN5MM7jZ5j-q__&ved=2ahUKEwiwsPv725uYAxXfnCYFHZFFOQYQFnoECC4QAQ&uoh=1",
+        "displayed_link": "20+ comments",
+        "date": "2 years ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+        "snippet": "So this is mainly a question for those people who create daily content from their daily livestreams. I'm mostly talking about more long forum stuff and ...",
+        "sitelinks": {
+          "list": [
+            {
+              "title": "Workflow? Twitch to YouTube content. - Reddit",
+              "link": "https://www.google.com/goto?url=CAESkAEBxCJF1_Vc4x1zIxl0FzZVSpzQvnFY2z5Dyq90A9d66CWVCd5nh3iWoLDy_6zBfYZhxRX9JB3KLwY_rO9kivB90qRGfTDQ0-fa0c7LgpydrmoJ0F3mZCulucxg9oMCE3fSyRaNVqY7FAVeEtgHpjit5GVdlWwQVSF9B63AG9boErdhOHD0tNsXOJl7IiI-UAA&gsessionid=KjI6bQYnQpBE5BXBPGxHnC_Tutrfl7PqBJxI6AqvhcDHbqvKb1AmGQ",
+              "answer_count": 10,
+              "date": "8 Jul 2021"
+            },
+            {
+              "title": "Starting gaming streams and YouTube videos from ...",
+              "link": "https://www.google.com/goto?url=CAESoAEBxCJF11_qZ0zE_dkvGm79JLW7YVlyNgapdMnJpGOM2n3XJe_igjPVTjQ2tJ9OF0qyd2q0WwRLvt7qifH6B8_JVs8JfZGnkn0jYDixeoqTgaqoQXvUbos_gnGkFCBKgIGSLwANg-lsbfeVXkyRVrHRQeFl5RQLlo_UTJmPBiAuKIKyltoypOFVSL9KV2KAVsmuIHHqMLYPC8dC-kr49cNa&gsessionid=KjI6bQYnQpBE5BXBPGxHnC_Tutrfl7PqBJxI6AqvhcDHbqvKb1AmGQ",
+              "answer_count": 6,
+              "date": "3 Sept 2026"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Efficiency is KEY: Plan your streams around a theme, so editing is less about finding highlights and more about refining a story. Think of it ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESoAEBxCJF1wJp2RrLZ6gw3FLiE2QAiGkXtSGGCPO-2zP9d3yJRCDTGg3BU0xH_ox4F6Va3JYaCP_tpyGP9duwj-Dk656hjFyKQ5_qExgQDs-_6-qWwxhmyaw8Q9YWcQpEJK6E2NMpCSlmmhq5mRY38ikxap2gtj4RwlwdmAfm_Ug_xaqmdT0ToBwoz_EJsjC8Ix21GKKFOTeFm9jU6y1a7ckZ",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuYBL2dvdG8_dXJsPUNBRVNvQUVCeENKRjF3SnAyUnJMWjZndzNGTGlFMlFBaUdrWHRTR0dDUE8tMnpQOWQzeUpSQ0RUR2czQlUweEhfb3g0RjZWYTNKWWFDUF90cHlHUDlkdXdqLURrNjU2aGpGeUtRNV9xRXhnUURzLV82LXFXd3hobXlhdzhROVlXY1FwRUpLNkUyTk1wQ1NsbW1ocTVtUlkzOGlreGFwMmd0ajRSd2x3ZG1BZm1fVWdfeGFxbWRUMFRvQndvel9FSnNqQzhJeDIxR0tLRk9UZUZtOWpVNnkxYTdja1oSBBoCCAAawQcSABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJAnQcIABAAGAAgACo6CgUrd2hhdBUugVA_GgR3aGF0GgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMaBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKi0KBGJlc3QVLksOPxoGYmV0dGVyGgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMqKQoId29ya2Zsb3cVoz0IPRoJd29ya2Zsb3dzGg1pdjtwO3dvcmtmbG93KgoKA2ZvchUAAAAAKk0KC3JlcHVycG9zaW5nFQAAAAAaCXJlcHVycG9zZRoKcmVwdXJwb3NlZBoFcmV1c2UaEGl2O3A7cmVwdXJwb3NpbmcaCXJlY29yZGluZyo8CgZ0d2l0Y2gV1b4CQBoIdHdpdGNoZXMaCHR3aXRjaHR2Ggx0d2l0Y2hnYW1pbmcaC2l2O3A7dHdpdGNoKkQKBmdhbWluZxUbeyU-GgRnYW1lGghnYW1lcGxheRoFZ2FtZXIaBWdhbWVzGglzdHJlYW1pbmcaDHR3aXRjaGdhbWluZyokCgdzdHJlYW1zFWuAOkAaBnN0cmVhbRoMaXY7cDtzdHJlYW1zMuYBL2dvdG8_dXJsPUNBRVNvQUVCeENKRjF3SnAyUnJMWjZndzNGTGlFMlFBaUdrWHRTR0dDUE8tMnpQOWQzeUpSQ0RUR2czQlUweEhfb3g0RjZWYTNKWWFDUF90cHlHUDlkdXdqLURrNjU2aGpGeUtRNV9xRXhnUURzLV82LXFXd3hobXlhdzhROVlXY1FwRUpLNkUyTk1wQ1NsbW1ocTVtUlkzOGlreGFwMmd0ajRSd2x3ZG1BZm1fVWdfeGFxbWRUMFRvQndvel9FSnNqQzhJeDIxR0tLRk9UZUZtOWpVNnkxYTdja1o6RFBlb3BsZSB3aG8gY3JlYXRlIGRhaWx5IGNvbnRlbnQgZnJvbSB5b3VyIDxiPnN0cmVhbXM8L2I-LCBob3cgZG8gLi4uQp0BRWZmaWNpZW5jeSBpcyBLRVk6IDxiPlBsYW4geW91ciBzdHJlYW1zIGFyb3VuZCBhIHRoZW1lPC9iPiwgc28gZWRpdGluZyBpcyBsZXNzIGFib3V0IGZpbmRpbmcgaGlnaGxpZ2h0cyBhbmQgbW9yZSBhYm91dCByZWZpbmluZyBhIHN0b3J5LiBUaGluayBvZiBpdCZuYnNwOy4uLkoDZm9ySgJpc0oDdGhlUgR3aGF0IgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuYBL2dvdG8_dXJsPUNBRVNvQUVCeENKRjF3SnAyUnJMWjZndzNGTGlFMlFBaUdrWHRTR0dDUE8tMnpQOWQzeUpSQ0RUR2czQlUweEhfb3g0RjZWYTNKWWFDUF90cHlHUDlkdXdqLURrNjU2aGpGeUtRNV9xRXhnUURzLV82LXFXd3hobXlhdzhROVlXY1FwRUpLNkUyTk1wQ1NsbW1ocTVtUlkzOGlreGFwMmd0ajRSd2x3ZG1BZm1fVWdfeGFxbWRUMFRvQndvel9FSnNqQzhJeDIxR0tLRk9UZUZtOWpVNnkxYTdja1oSBBoCCAAawQcSABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJAnQcIABAAGAAgACo6CgUrd2hhdBUugVA_GgR3aGF0GgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMaBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKi0KBGJlc3QVLksOPxoGYmV0dGVyGgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMqKQoId29ya2Zsb3cVoz0IPRoJd29ya2Zsb3dzGg1pdjtwO3dvcmtmbG93KgoKA2ZvchUAAAAAKk0KC3JlcHVycG9zaW5nFQAAAAAaCXJlcHVycG9zZRoKcmVwdXJwb3NlZBoFcmV1c2UaEGl2O3A7cmVwdXJwb3NpbmcaCXJlY29yZGluZyo8CgZ0d2l0Y2gV1b4CQBoIdHdpdGNoZXMaCHR3aXRjaHR2Ggx0d2l0Y2hnYW1pbmcaC2l2O3A7dHdpdGNoKkQKBmdhbWluZxUbeyU-GgRnYW1lGghnYW1lcGxheRoFZ2FtZXIaBWdhbWVzGglzdHJlYW1pbmcaDHR3aXRjaGdhbWluZyokCgdzdHJlYW1zFWuAOkAaBnN0cmVhbRoMaXY7cDtzdHJlYW1zMuYBL2dvdG8_dXJsPUNBRVNvQUVCeENKRjF3SnAyUnJMWjZndzNGTGlFMlFBaUdrWHRTR0dDUE8tMnpQOWQzeUpSQ0RUR2czQlUweEhfb3g0RjZWYTNKWWFDUF90cHlHUDlkdXdqLURrNjU2aGpGeUtRNV9xRXhnUURzLV82LXFXd3hobXlhdzhROVlXY1FwRUpLNkUyTk1wQ1NsbW1ocTVtUlkzOGlreGFwMmd0ajRSd2x3ZG1BZm1fVWdfeGFxbWRUMFRvQndvel9FSnNqQzhJeDIxR0tLRk9UZUZtOWpVNnkxYTdja1o6RFBlb3BsZSB3aG8gY3JlYXRlIGRhaWx5IGNvbnRlbnQgZnJvbSB5b3VyIDxiPnN0cmVhbXM8L2I-LCBob3cgZG8gLi4uQp0BRWZmaWNpZW5jeSBpcyBLRVk6IDxiPlBsYW4geW91ciBzdHJlYW1zIGFyb3VuZCBhIHRoZW1lPC9iPiwgc28gZWRpdGluZyBpcyBsZXNzIGFib3V0IGZpbmRpbmcgaGlnaGxpZ2h0cyBhbmQgbW9yZSBhYm91dCByZWZpbmluZyBhIHN0b3J5LiBUaGluayBvZiBpdCZuYnNwOy4uLkoDZm9ySgJpc0oDdGhlUgR3aGF0IgIQAUgAWABoAA",
+        "source": "Reddit \u00b7 r/Twitch"
+      },
+      {
+        "position": 3,
+        "title": "AI Content Repurposing Tool Explained for Streamers",
+        "link": "https://www.google.com/goto?url=CAEScwHEIkXX4b91mMflmuFYqsR9KGHRttD5Q4T7SfXoAdJFz4VhPC7heJe0zn8o3fkivgsi5Y02aTt67djN46eCErBini1HoDvjLv8XXDz09FA_VTs-ob3uPf3vOPUwgv6I0i1X6jGvJk-1USB9dtXXq8_JYRw",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHEIkXXNfG39FCpRhkEMGBecfBdEgOo3-wwK-UmfiKS-bzqdGbzsc4IuRUoLxGSbXDPFijuKNXkULg0oILZiLruNDOY_nti0UfZB37FwA3PXa9X7N0bEl3e0RWV_PvnrkmX5-eZjP9y-_l2OnCGfUvosJc&ved=2ahUKEwiwsPv725uYAxXfnCYFHZFFOQYQFnoECEAQAQ&uoh=1",
+        "displayed_link": "https://streamgen.cc \u203a blog \u203a ai-content-repurposing-tool",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA7klEQVR4AbXSIYyDMBiG4c8np2dwJzEozPnaiXmDT2ZOzp6qrkLjE4KdwKFQGERdXZOZSsR3aS9NWnab2l5BxUPa_knBJ70Mb_b2ALsavuN4jyPK3pCbbiH22OHKmBA5rtDpYVOGXyr8omQ4UJ5TdHBhawADyUGkOIe18NjoZZXHe5xL-D6Aa76t_VsnVaPdz3kWjOnPeocsq5WxQmWotT7hcOkNfRNSlIgVmqTNUAxxSlxImhx7vzV8_uShSvH7x39NKzsXLtelOINJLfJRTtXGmITOkQ3k4ki3KBwMd8i5QagZ_39DztrtPe827xdy556nWiegdAAAAABJRU5ErkJggg.png",
+        "date": "23 Sept 2026",
+        "snippet": "A diagram outlining a five-step practical workflow for converting Twitch streams into viral social The five-stage handoff Import the source. ...",
+        "snippet_highlighted_words": [
+          "five-step practical workflow"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.9,
+              "reviews": 152
+            },
+            "extensions": [
+              "4.9(152)",
+              "Free",
+              "Entertainment"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "A diagram outlining a five-step practical workflow for converting Twitch streams into viral social The five-stage handoff Import the source. ...",
+            "source_info_link": "https://www.google.com/goto?url=CAEScwHEIkXX4b91mMflmuFYqsR9KGHRttD5Q4T7SfXoAdJFz4VhPC7heJe0zn8o3fkivgsi5Y02aTt67djN46eCErBini1HoDvjLv8XXDz09FA_VTs-ob3uPf3vOPUwgv6I0i1X6jGvJk-1USB9dtXXq8_JYRw",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA7klEQVR4AbXSIYyDMBiG4c8np2dwJzEozPnaiXmDT2ZOzp6qrkLjE4KdwKFQGERdXZOZSsR3aS9NWnab2l5BxUPa_knBJ70Mb_b2ALsavuN4jyPK3pCbbiH22OHKmBA5rtDpYVOGXyr8omQ4UJ5TdHBhawADyUGkOIe18NjoZZXHe5xL-D6Aa76t_VsnVaPdz3kWjOnPeocsq5WxQmWotT7hcOkNfRNSlIgVmqTNUAxxSlxImhx7vzV8_uShSvH7x39NKzsXLtelOINJLfJRTtXGmITOkQ3k4ki3KBwMd8i5QagZ_39DztrtPe827xdy556nWiegdAAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqkBL2dvdG8_dXJsPUNBRVNjd0hFSWtYWDRiOTFtTWZsbXVGWXFzUjlLR0hSdHRENVE0VDdTZlhvQWRKRno0VmhQQzdoZUplMHpuOG8zZmtpdmdzaTVZMDJhVHQ2N2RqTjQ2ZUNFckJpbmkxSG9EdmpMdjhYWER6MDlGQV9WVHMtb2IzdVBmM3ZPUFV3Z3Y2STBpMVg2akd2SmstMVVTQjlkdFhYcThfSllSdxIEGgIIABr7BhICCAAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQNUGCAAQABgAIAAqOgoFK3doYXQVsrJoPxoEd2hhdBoHcmF0aW5ncxoPcmVjb21tZW5kYXRpb25zGgV3aGF0cxoFd2hpY2gqCQoCaXMVAAAAACoKCgN0aGUVAAAAACotCgRiZXN0FZdCCz8aBmJldHRlchoHcmF0aW5ncxoPcmVjb21tZW5kYXRpb25zKikKCHdvcmtmbG93FTELyD8aCXdvcmtmbG93cxoNaXY7cDt3b3JrZmxvdyoKCgNmb3IVAAAAACpNCgtyZXB1cnBvc2luZxUyYm9AGglyZXB1cnBvc2UaCnJlcHVycG9zZWQaBXJldXNlGhBpdjtwO3JlcHVycG9zaW5nGglyZWNvcmRpbmcqPAoGdHdpdGNoFZIJjT8aCHR3aXRjaGVzGgh0d2l0Y2h0dhoMdHdpdGNoZ2FtaW5nGgtpdjtwO3R3aXRjaCpECgZnYW1pbmcVrC8ZPhoEZ2FtZRoIZ2FtZXBsYXkaBWdhbWVyGgVnYW1lcxoJc3RyZWFtaW5nGgx0d2l0Y2hnYW1pbmcqJAoHc3RyZWFtcxWyWoM_GgZzdHJlYW0aDGl2O3A7c3RyZWFtczKpAS9nb3RvP3VybD1DQUVTY3dIRUlrWFg0YjkxbU1mbG11Rllxc1I5S0dIUnR0RDVRNFQ3U2ZYb0FkSkZ6NFZoUEM3aGVKZTB6bjhvM2ZraXZnc2k1WTAyYVR0Njdkak40NmVDRXJCaW5pMUhvRHZqTHY4WFhEejA5RkFfVlRzLW9iM3VQZjN2T1BVd2d2NkkwaTFYNmpHdkprLTFVU0I5ZHRYWHE4X0pZUnc6OkFJIENvbnRlbnQgPGI-UmVwdXJwb3Npbmc8L2I-IFRvb2wgRXhwbGFpbmVkIGZvciBTdHJlYW1lcnNCnAFBIGRpYWdyYW0gb3V0bGluaW5nIGEgPGI-Zml2ZS1zdGVwIHByYWN0aWNhbCB3b3JrZmxvdzwvYj4gZm9yIGNvbnZlcnRpbmcgVHdpdGNoIHN0cmVhbXMgaW50byB2aXJhbCBzb2NpYWwgVGhlIGZpdmUtc3RhZ2UgaGFuZG9mZiBJbXBvcnQgdGhlIHNvdXJjZS4mbmJzcDsuLi5KA3RoZUoCaXNKA2ZvclIEd2hhdCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqkBL2dvdG8_dXJsPUNBRVNjd0hFSWtYWDRiOTFtTWZsbXVGWXFzUjlLR0hSdHRENVE0VDdTZlhvQWRKRno0VmhQQzdoZUplMHpuOG8zZmtpdmdzaTVZMDJhVHQ2N2RqTjQ2ZUNFckJpbmkxSG9EdmpMdjhYWER6MDlGQV9WVHMtb2IzdVBmM3ZPUFV3Z3Y2STBpMVg2akd2SmstMVVTQjlkdFhYcThfSllSdxIEGgIIABr7BhICCAAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQNUGCAAQABgAIAAqOgoFK3doYXQVsrJoPxoEd2hhdBoHcmF0aW5ncxoPcmVjb21tZW5kYXRpb25zGgV3aGF0cxoFd2hpY2gqCQoCaXMVAAAAACoKCgN0aGUVAAAAACotCgRiZXN0FZdCCz8aBmJldHRlchoHcmF0aW5ncxoPcmVjb21tZW5kYXRpb25zKikKCHdvcmtmbG93FTELyD8aCXdvcmtmbG93cxoNaXY7cDt3b3JrZmxvdyoKCgNmb3IVAAAAACpNCgtyZXB1cnBvc2luZxUyYm9AGglyZXB1cnBvc2UaCnJlcHVycG9zZWQaBXJldXNlGhBpdjtwO3JlcHVycG9zaW5nGglyZWNvcmRpbmcqPAoGdHdpdGNoFZIJjT8aCHR3aXRjaGVzGgh0d2l0Y2h0dhoMdHdpdGNoZ2FtaW5nGgtpdjtwO3R3aXRjaCpECgZnYW1pbmcVrC8ZPhoEZ2FtZRoIZ2FtZXBsYXkaBWdhbWVyGgVnYW1lcxoJc3RyZWFtaW5nGgx0d2l0Y2hnYW1pbmcqJAoHc3RyZWFtcxWyWoM_GgZzdHJlYW0aDGl2O3A7c3RyZWFtczKpAS9nb3RvP3VybD1DQUVTY3dIRUlrWFg0YjkxbU1mbG11Rllxc1I5S0dIUnR0RDVRNFQ3U2ZYb0FkSkZ6NFZoUEM3aGVKZTB6bjhvM2ZraXZnc2k1WTAyYVR0Njdkak40NmVDRXJCaW5pMUhvRHZqTHY4WFhEejA5RkFfVlRzLW9iM3VQZjN2T1BVd2d2NkkwaTFYNmpHdkprLTFVU0I5ZHRYWHE4X0pZUnc6OkFJIENvbnRlbnQgPGI-UmVwdXJwb3Npbmc8L2I-IFRvb2wgRXhwbGFpbmVkIGZvciBTdHJlYW1lcnNCnAFBIGRpYWdyYW0gb3V0bGluaW5nIGEgPGI-Zml2ZS1zdGVwIHByYWN0aWNhbCB3b3JrZmxvdzwvYj4gZm9yIGNvbnZlcnRpbmcgVHdpdGNoIHN0cmVhbXMgaW50byB2aXJhbCBzb2NpYWwgVGhlIGZpdmUtc3RhZ2UgaGFuZG9mZiBJbXBvcnQgdGhlIHNvdXJjZS4mbmJzcDsuLi5KA3RoZUoCaXNKA2ZvclIEd2hhdCICEAFIAFgAaAA",
+        "source": "StreamGen"
+      },
+      {
+        "position": 4,
+        "title": "Turn Twitch Stream to YouTube Shorts",
+        "link": "https://www.google.com/goto?url=CAESeQHEIkXXONpOHe8zaPlhQ-Kn0u9YKveVPUNrYB2R-WjTel3SN8qo0ccQQQWjRR_2v55sLHfQ-jDABqj5mlDSbW6ux9ft2UKtfuNKn-nD5w9_dCgPWzLslOR8SUvklRPQRqhz45Z8JehTtOFjNTSP6FJA3a857C80irI",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHEIkXX8DzeMR26ykJHliZD-JPKxAmq9H3BiokeVbA0i_bDZQuyl_55uY1i-QdGeJa7De9lzknAmYV1E5qexWD5qdOEjx5W-y7lRNuo87jufWvVQhQq5NRE25y1vIj_kYujw1WiNmk790LsTKa3NMlVrB-vzm6T-5M&ved=2ahUKEwiwsPv725uYAxXfnCYFHZFFOQYQFnoECDsQAQ&uoh=1",
+        "displayed_link": "https://vizard.ai \u203a Tools",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAfCAMAAACxiD--AAAAeFBMVEVHcEz_m73_m73_m73_nL3_m73_m73_m739mr3_m739mb3_m73_m73_m73_m73_m73_m73_m73_m73_m73_m73_m72vZ7LBc7RTKadOJqZTK6dCHqVIIqWOUq3NerY3Gp5GIKVHIaV_RqvjiLnag7c8GKRIIqVIIqUEPZXLAAAAKHRSTlMAaf-SESMFztyJXi72gcCg7UnlOHyp-5H-0zn__8GtB4vu____viBxF62x5QAAAPJJREFUeAF1k1UCgzAQBSnu7tSN-9-wKXnYLplPZoCotuOkCwxTU6IOTIsFlr3xluNaJPB03954XXeCbWB7oY4CXhYIpBfFOjQUCOB110bhhSimwLMi-AB-KeJEFyRGin7x-CdIQ-ZJQTyKKN35ePFWJvFjDCPXBWGEx4V2SnMw-cIs03-Qg0ordSC92JYy3z7ZBmHdTD-NVUHddj37wjoGt26Hc9ezMVgZuAh_PnfXlMwC3O6Ps2B4vsg6UP8mK8m8Yi-kP38atpvwZ-l7eWDYeYDven6iiGdnkvjjU93Df5X3YoQ_vlkoHl_F3UQBfxj8AORJGsjDkQgrAAAAAElFTkSuQmCC.png",
+        "snippet": "Effortlessly convert hours of Twitch broadcasts into high-impact YouTube Shorts with Vizard's intelligent AI repurposing workflow. 10x Faster than manual ...",
+        "snippet_highlighted_words": [
+          "Effortlessly convert hours of Twitch broadcasts into high-impact YouTube Shorts"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Effortlessly convert hours of Twitch broadcasts into high-impact YouTube Shorts with Vizard's intelligent AI repurposing workflow. 10x Faster than manual ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESeQHEIkXXONpOHe8zaPlhQ-Kn0u9YKveVPUNrYB2R-WjTel3SN8qo0ccQQQWjRR_2v55sLHfQ-jDABqj5mlDSbW6ux9ft2UKtfuNKn-nD5w9_dCgPWzLslOR8SUvklRPQRqhz45Z8JehTtOFjNTSP6FJA3a857C80irI",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAfCAMAAACxiD--AAAAeFBMVEVHcEz_m73_m73_m73_nL3_m73_m73_m739mr3_m739mb3_m73_m73_m73_m73_m73_m73_m73_m73_m73_m73_m72vZ7LBc7RTKadOJqZTK6dCHqVIIqWOUq3NerY3Gp5GIKVHIaV_RqvjiLnag7c8GKRIIqVIIqUEPZXLAAAAKHRSTlMAaf-SESMFztyJXi72gcCg7UnlOHyp-5H-0zn__8GtB4vu____viBxF62x5QAAAPJJREFUeAF1k1UCgzAQBSnu7tSN-9-wKXnYLplPZoCotuOkCwxTU6IOTIsFlr3xluNaJPB03954XXeCbWB7oY4CXhYIpBfFOjQUCOB110bhhSimwLMi-AB-KeJEFyRGin7x-CdIQ-ZJQTyKKN35ePFWJvFjDCPXBWGEx4V2SnMw-cIs03-Qg0ordSC92JYy3z7ZBmHdTD-NVUHddj37wjoGt26Hc9ezMVgZuAh_PnfXlMwC3O6Ps2B4vsg6UP8mK8m8Yi-kP38atpvwZ-l7eWDYeYDven6iiGdnkvjjU93Df5X3YoQ_vlkoHl_F3UQBfxj8AORJGsjDkQgrAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhFSWtYWE9OcE9IZTh6YVBsaFEtS24wdTlZS3ZlVlBVTnJZQjJSLVdqVGVsM1NOOHFvMGNjUVFRV2pSUl8ydjU1c0xIZlEtakRBQnFqNW1sRFNiVzZ1eDlmdDJVS3RmdU5Lbi1uRDV3OV9kQ2dQV3pMc2xPUjhTVXZrbFJQUVJxaHo0NVo4SmVoVHRPRmpOVFNQNkZKQTNhODU3QzgwaXJJEgQaAggAGpEHEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA6wYIABAAGAAgACo6CgUrd2hhdBX8oyY_GgR3aGF0GgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMaBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKi0KBGJlc3QVLMiTPhoGYmV0dGVyGgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMqKQoId29ya2Zsb3cVWETrPhoJd29ya2Zsb3dzGg1pdjtwO3dvcmtmbG93KgoKA2ZvchUAAAAAKk0KC3JlcHVycG9zaW5nFVPQCj8aCXJlcHVycG9zZRoKcmVwdXJwb3NlZBoFcmV1c2UaEGl2O3A7cmVwdXJwb3NpbmcaCXJlY29yZGluZyo8CgZ0d2l0Y2gVnu2DQBoIdHdpdGNoZXMaCHR3aXRjaHR2Ggx0d2l0Y2hnYW1pbmcaC2l2O3A7dHdpdGNoKkQKBmdhbWluZxUS8Rk-GgRnYW1lGghnYW1lcGxheRoFZ2FtZXIaBWdhbWVzGglzdHJlYW1pbmcaDHR3aXRjaGdhbWluZyokCgdzdHJlYW1zFdKWnz4aBnN0cmVhbRoMaXY7cDtzdHJlYW1zMrEBL2dvdG8_dXJsPUNBRVNlUUhFSWtYWE9OcE9IZTh6YVBsaFEtS24wdTlZS3ZlVlBVTnJZQjJSLVdqVGVsM1NOOHFvMGNjUVFRV2pSUl8ydjU1c0xIZlEtakRBQnFqNW1sRFNiVzZ1eDlmdDJVS3RmdU5Lbi1uRDV3OV9kQ2dQV3pMc2xPUjhTVXZrbFJQUVJxaHo0NVo4SmVoVHRPRmpOVFNQNkZKQTNhODU3QzgwaXJJOjdUdXJuIDxiPlR3aXRjaCBTdHJlYW08L2I-IHRvIFlvdVR1YmUgU2hvcnRzIC0gVml6YXJkLmFpQq0BPGI-RWZmb3J0bGVzc2x5IGNvbnZlcnQgaG91cnMgb2YgVHdpdGNoIGJyb2FkY2FzdHMgaW50byBoaWdoLWltcGFjdCBZb3VUdWJlIFNob3J0czwvYj4gd2l0aCBWaXphcmQmIzM5O3MgaW50ZWxsaWdlbnQgQUkgcmVwdXJwb3Npbmcgd29ya2Zsb3cuIDEweCBGYXN0ZXIgdGhhbiBtYW51YWwmbmJzcDsuLi5KA3RoZUoCaXNKA2ZvclIEd2hhdCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhFSWtYWE9OcE9IZTh6YVBsaFEtS24wdTlZS3ZlVlBVTnJZQjJSLVdqVGVsM1NOOHFvMGNjUVFRV2pSUl8ydjU1c0xIZlEtakRBQnFqNW1sRFNiVzZ1eDlmdDJVS3RmdU5Lbi1uRDV3OV9kQ2dQV3pMc2xPUjhTVXZrbFJQUVJxaHo0NVo4SmVoVHRPRmpOVFNQNkZKQTNhODU3QzgwaXJJEgQaAggAGpEHEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA6wYIABAAGAAgACo6CgUrd2hhdBX8oyY_GgR3aGF0GgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMaBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKi0KBGJlc3QVLMiTPhoGYmV0dGVyGgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMqKQoId29ya2Zsb3cVWETrPhoJd29ya2Zsb3dzGg1pdjtwO3dvcmtmbG93KgoKA2ZvchUAAAAAKk0KC3JlcHVycG9zaW5nFVPQCj8aCXJlcHVycG9zZRoKcmVwdXJwb3NlZBoFcmV1c2UaEGl2O3A7cmVwdXJwb3NpbmcaCXJlY29yZGluZyo8CgZ0d2l0Y2gVnu2DQBoIdHdpdGNoZXMaCHR3aXRjaHR2Ggx0d2l0Y2hnYW1pbmcaC2l2O3A7dHdpdGNoKkQKBmdhbWluZxUS8Rk-GgRnYW1lGghnYW1lcGxheRoFZ2FtZXIaBWdhbWVzGglzdHJlYW1pbmcaDHR3aXRjaGdhbWluZyokCgdzdHJlYW1zFdKWnz4aBnN0cmVhbRoMaXY7cDtzdHJlYW1zMrEBL2dvdG8_dXJsPUNBRVNlUUhFSWtYWE9OcE9IZTh6YVBsaFEtS24wdTlZS3ZlVlBVTnJZQjJSLVdqVGVsM1NOOHFvMGNjUVFRV2pSUl8ydjU1c0xIZlEtakRBQnFqNW1sRFNiVzZ1eDlmdDJVS3RmdU5Lbi1uRDV3OV9kQ2dQV3pMc2xPUjhTVXZrbFJQUVJxaHo0NVo4SmVoVHRPRmpOVFNQNkZKQTNhODU3QzgwaXJJOjdUdXJuIDxiPlR3aXRjaCBTdHJlYW08L2I-IHRvIFlvdVR1YmUgU2hvcnRzIC0gVml6YXJkLmFpQq0BPGI-RWZmb3J0bGVzc2x5IGNvbnZlcnQgaG91cnMgb2YgVHdpdGNoIGJyb2FkY2FzdHMgaW50byBoaWdoLWltcGFjdCBZb3VUdWJlIFNob3J0czwvYj4gd2l0aCBWaXphcmQmIzM5O3MgaW50ZWxsaWdlbnQgQUkgcmVwdXJwb3Npbmcgd29ya2Zsb3cuIDEweCBGYXN0ZXIgdGhhbiBtYW51YWwmbmJzcDsuLi5KA3RoZUoCaXNKA2ZvclIEd2hhdCICEAFIAFgAaAA",
+        "source": "Vizard.ai"
+      },
+      {
+        "position": 5,
+        "title": "Streaming Workflow: The Best Setup for Content Creators ...",
+        "link": "https://www.google.com/goto?url=CAESfQHEIkXXzedzcbCkyXW5NInOKj7xvqT24ctvqekmXgdJZgup7CySOLoSH1tPPsiGY5EgWpi5IBXwNl1eMpro9TnJvmsL_PPlBoEDR-ySYZ06rhJvGXnYkBbB_6ADoJPuRwXIihuQOrqUte3a8I94rb6uMVzN7haTwkDaquRy",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHEIkXX5BGG1Z5PkPySGGLTGHmm0a96KOzpE5FE9g7rEOTCs4dN6bc4_21CERrEok1twO7ta5LWiylacpnAOIROREmaErTfypPf-LBmpde2frAByz89NuqGZl1i3xEvHA6YGFaND9v6FK193_iheHWAheQYWhfHhon58G1j&ved=2ahUKEwiwsPv725uYAxXfnCYFHZFFOQYQFnoECD4QAQ&uoh=1",
+        "displayed_link": "https://www.lexar.com \u203a global \u203a blog \u203a streaming-wor...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEUAAAAAAACBGhOwJBrIKR75MyXvMSQ8DAgUBQRhYWEgIiLy8vL___8_QEBsFRCYHxbj4-OTk5PV1dWtra2_v7_GxsZ6enorOpsyAAAAAnRSTlP__r-y71EAAAC5SURBVHgBrdJFYsQwEADBFozM7Pj_P02yGuMy9bVsMXcy30br7E30EsTdwERCCKKYZrH8DNOIFGUsOwzrUVy0AqC2Kc43LJiXWg44kZAetlIpFoCEIM0B00y1VbQHhE61x4p4zpAhWjuSJpwj_JTlBEMHV5C2BCinq0hRQbYcxjnmRdcth3GGjUuX7aZnqFvIZj3HWsTBpNqfIbYB0k513KOXGm1UHXa4Hjb0qt2GiWWtG2KfvVtzpz9nFglruAmmKwAAAABJRU5ErkJggg.png",
+        "date": "10 Jul 2025",
+        "snippet": "A successful streaming setup requires fast storage, reliable hardware, and an efficient workflow to handle real-time recording, video processing ...",
+        "snippet_highlighted_words": [
+          "efficient workflow"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "A successful streaming setup requires fast storage, reliable hardware, and an efficient workflow to handle real-time recording, video processing ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESfQHEIkXXzedzcbCkyXW5NInOKj7xvqT24ctvqekmXgdJZgup7CySOLoSH1tPPsiGY5EgWpi5IBXwNl1eMpro9TnJvmsL_PPlBoEDR-ySYZ06rhJvGXnYkBbB_6ADoJPuRwXIihuQOrqUte3a8I94rb6uMVzN7haTwkDaquRy",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEUAAAAAAACBGhOwJBrIKR75MyXvMSQ8DAgUBQRhYWEgIiLy8vL___8_QEBsFRCYHxbj4-OTk5PV1dWtra2_v7_GxsZ6enorOpsyAAAAAnRSTlP__r-y71EAAAC5SURBVHgBrdJFYsQwEADBFozM7Pj_P02yGuMy9bVsMXcy30br7E30EsTdwERCCKKYZrH8DNOIFGUsOwzrUVy0AqC2Kc43LJiXWg44kZAetlIpFoCEIM0B00y1VbQHhE61x4p4zpAhWjuSJpwj_JTlBEMHV5C2BCinq0hRQbYcxjnmRdcth3GGjUuX7aZnqFvIZj3HWsTBpNqfIbYB0k513KOXGm1UHXa4Hjb0qt2GiWWtG2KfvVtzpz9nFglruAmmKwAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhFSWtYWHplZHpjYkNreVhXNU5Jbk9Lajd4dnFUMjRjdHZxZWttWGdkSlpndXA3Q3lTT0xvU0gxdFBQc2lHWTVFZ1dwaTVJQlh3TmwxZU1wcm85VG5Kdm1zTF9QUGxCb0VEUi15U1laMDZyaEp2R1huWWtCYkJfNkFEb0pQdVJ3WElpaHVRT3JxVXRlM2E4STk0cmI2dU1Wek43aGFUd2tEYXF1UnkSBBoCCAAamQcSABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJA9QYIABAAGAAgACo6CgUrd2hhdBUAAAAAGgR3aGF0GgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMaBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKi0KBGJlc3QVxo6BQBoGYmV0dGVyGgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMqKQoId29ya2Zsb3cV8TafQBoJd29ya2Zsb3dzGg1pdjtwO3dvcmtmbG93KgoKA2ZvchUAAAAAKk0KC3JlcHVycG9zaW5nFfP1_T4aCXJlcHVycG9zZRoKcmVwdXJwb3NlZBoFcmV1c2UaEGl2O3A7cmVwdXJwb3NpbmcaCXJlY29yZGluZyo8CgZ0d2l0Y2gVXx7dPhoIdHdpdGNoZXMaCHR3aXRjaHR2Ggx0d2l0Y2hnYW1pbmcaC2l2O3A7dHdpdGNoKkQKBmdhbWluZxXsH3U_GgRnYW1lGghnYW1lcGxheRoFZ2FtZXIaBWdhbWVzGglzdHJlYW1pbmcaDHR3aXRjaGdhbWluZyokCgdzdHJlYW1zFbCv4z4aBnN0cmVhbRoMaXY7cDtzdHJlYW1zMrYBL2dvdG8_dXJsPUNBRVNmUUhFSWtYWHplZHpjYkNreVhXNU5Jbk9Lajd4dnFUMjRjdHZxZWttWGdkSlpndXA3Q3lTT0xvU0gxdFBQc2lHWTVFZ1dwaTVJQlh3TmwxZU1wcm85VG5Kdm1zTF9QUGxCb0VEUi15U1laMDZyaEp2R1huWWtCYkJfNkFEb0pQdVJ3WElpaHVRT3JxVXRlM2E4STk0cmI2dU1Wek43aGFUd2tEYXF1Unk6STxiPlN0cmVhbWluZyBXb3JrZmxvdzwvYj46IFRoZSA8Yj5CZXN0PC9iPiBTZXR1cCBmb3IgQ29udGVudCBDcmVhdG9ycyAuLi5CoAFBIHN1Y2Nlc3NmdWwgc3RyZWFtaW5nIHNldHVwIHJlcXVpcmVzIGZhc3Qgc3RvcmFnZSwgcmVsaWFibGUgaGFyZHdhcmUsIGFuZCBhbiA8Yj5lZmZpY2llbnQgd29ya2Zsb3c8L2I-IHRvIGhhbmRsZSByZWFsLXRpbWUgcmVjb3JkaW5nLCB2aWRlbyBwcm9jZXNzaW5nJm5ic3A7Li4uSgN0aGVKAmlzSgNmb3JSBHdoYXQiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhFSWtYWHplZHpjYkNreVhXNU5Jbk9Lajd4dnFUMjRjdHZxZWttWGdkSlpndXA3Q3lTT0xvU0gxdFBQc2lHWTVFZ1dwaTVJQlh3TmwxZU1wcm85VG5Kdm1zTF9QUGxCb0VEUi15U1laMDZyaEp2R1huWWtCYkJfNkFEb0pQdVJ3WElpaHVRT3JxVXRlM2E4STk0cmI2dU1Wek43aGFUd2tEYXF1UnkSBBoCCAAamQcSABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJA9QYIABAAGAAgACo6CgUrd2hhdBUAAAAAGgR3aGF0GgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMaBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKi0KBGJlc3QVxo6BQBoGYmV0dGVyGgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMqKQoId29ya2Zsb3cV8TafQBoJd29ya2Zsb3dzGg1pdjtwO3dvcmtmbG93KgoKA2ZvchUAAAAAKk0KC3JlcHVycG9zaW5nFfP1_T4aCXJlcHVycG9zZRoKcmVwdXJwb3NlZBoFcmV1c2UaEGl2O3A7cmVwdXJwb3NpbmcaCXJlY29yZGluZyo8CgZ0d2l0Y2gVXx7dPhoIdHdpdGNoZXMaCHR3aXRjaHR2Ggx0d2l0Y2hnYW1pbmcaC2l2O3A7dHdpdGNoKkQKBmdhbWluZxXsH3U_GgRnYW1lGghnYW1lcGxheRoFZ2FtZXIaBWdhbWVzGglzdHJlYW1pbmcaDHR3aXRjaGdhbWluZyokCgdzdHJlYW1zFbCv4z4aBnN0cmVhbRoMaXY7cDtzdHJlYW1zMrYBL2dvdG8_dXJsPUNBRVNmUUhFSWtYWHplZHpjYkNreVhXNU5Jbk9Lajd4dnFUMjRjdHZxZWttWGdkSlpndXA3Q3lTT0xvU0gxdFBQc2lHWTVFZ1dwaTVJQlh3TmwxZU1wcm85VG5Kdm1zTF9QUGxCb0VEUi15U1laMDZyaEp2R1huWWtCYkJfNkFEb0pQdVJ3WElpaHVRT3JxVXRlM2E4STk0cmI2dU1Wek43aGFUd2tEYXF1Unk6STxiPlN0cmVhbWluZyBXb3JrZmxvdzwvYj46IFRoZSA8Yj5CZXN0PC9iPiBTZXR1cCBmb3IgQ29udGVudCBDcmVhdG9ycyAuLi5CoAFBIHN1Y2Nlc3NmdWwgc3RyZWFtaW5nIHNldHVwIHJlcXVpcmVzIGZhc3Qgc3RvcmFnZSwgcmVsaWFibGUgaGFyZHdhcmUsIGFuZCBhbiA8Yj5lZmZpY2llbnQgd29ya2Zsb3c8L2I-IHRvIGhhbmRsZSByZWFsLXRpbWUgcmVjb3JkaW5nLCB2aWRlbyBwcm9jZXNzaW5nJm5ic3A7Li4uSgN0aGVKAmlzSgNmb3JSBHdoYXQiAhABSABYAGgA",
+        "source": "Lexar",
+        "read_more_link": "https://www.google.com/goto?url=CAES7wEBxCJF19Fqx-zh4ZMU65SUatCuyY7az9p_F29PAznp92Ogx-E1OZjBOVMlYLblA31gYaSRw2n1QPKb3EpR8qCnF6eSO-fTtEt68JflJmhvMDBq9Y91v4PZt_wBbBpTjZLqHbNi193pk9gWOXvJ-EFuzm1QZFPgrZog-5PwpqEXi7Q7QdN2Yr_PWvcLfbdTNx7R5zJwuTNKfwoCQzATGc-QOC0sms_qZBB5dR8eqJ_WNXs4MYtQBY8h-loIArZuHm3ytOZg2QGEp8riH_40ZLzRIgU79DqIcOAO_LMJS8X1RjwfI9bYfJEtsgrpLBFifA&gsessionid=KjI6bQYnQpBE5BXBPGxHnC_Tutrfl7PqBJxI6AqvhcDHbqvKb1AmGQ"
+      },
+      {
+        "position": 6,
+        "title": "Turn Twitch Streams Into Content Instantly: Repurpose One ...",
+        "link": "https://www.google.com/goto?url=CAESewHEIkXXYQdlZHApW0AmQ8ZHDDA1_Dqi-TSayJIjMTgg3c3TD6bbBZcTVLyWw7gfE9_muCAQLBdBCM9H66ImSYL-rrWxYDFx5gRWypS3VODAGBGiOjR6RNAyG0OHnI41KXWd6qTKEV2W86UUxPwIBq6N2y3sktTQAK2nQQ&gsessionid=KjI6bQYnQpBE5BXBPGxHnC_Tutrfl7PqBJxI6AqvhcDHbqvKb1AmGQ",
+        "displayed_link": "4.1K+ views",
+        "date": "4 months ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f2efec900da167a1171a/images/BB3_mkA0d-7LHJdQm3mlFRs_4YrdYJ3bQH0wLvdNhfc.jpg",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEUAAAAAAAAFT1IAQUNBub6u5eexxcpyQ0wIAABaxsv5____9_nGj5oyAAD____84eeEYmvm4uN4f4A5P0MAFBXx-vu019khAAD60tr37vDlmqpXAAsALzAKc3gpo6hjpqr_6O3idYqcbHTSrLP6iJ9rABOc5Ofi-vvJYnXLbn8_AAI9HyWWIDhRz9TH9PffY3oDAAC99vjhSGe7KEenACiF4-f_1961PVaB09bFkZswjJGwuLr__f7xqbYYHh_9tsTiL1Yh8R0_AAAAAXRSTlP-GuMHfQAAANJJREFUeAG90kUCg1AMBNDiPtTd3d2V-5-quMOS2b6vSXI5IjnZIElSyUgzLMcnoSBKspKMUPMpiEKxVE5EVKr5WgTLBkr1BtBsBbHd6fZKOvYHw1F9PAkgSU9njXlNx8Vyxa2XfmxvtoC0M1GH_d6P3QPU8fFkY_Ar7Q0ag3ONIOKQvOB60i0WqSnUG6FnI6rzMJbvkB76zo5-wk0JIf8EGq9ndzN7f9bRrlQBcTYTcT22iAh-X9Ib7_dPm8Q1u5Zvfpq7c4uIQ56otVrLjEYzJX-4mxcG80U-CwAAAABJRU5ErkJggg.png",
+        "snippet": "Simple workflow to convert one stream into days of content 1. Mark key moments while streaming - Use Twitch clip hotkeys or a second device to ...",
+        "duration": "0:30",
+        "about_this_result": {
+          "source": {
+            "description": "Simple workflow to convert one stream into days of content 1. Mark key moments while streaming - Use Twitch clip hotkeys or a second device to ...",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEUAAAAAAAAFT1IAQUNBub6u5eexxcpyQ0wIAABaxsv5____9_nGj5oyAAD____84eeEYmvm4uN4f4A5P0MAFBXx-vu019khAAD60tr37vDlmqpXAAsALzAKc3gpo6hjpqr_6O3idYqcbHTSrLP6iJ9rABOc5Ofi-vvJYnXLbn8_AAI9HyWWIDhRz9TH9PffY3oDAAC99vjhSGe7KEenACiF4-f_1961PVaB09bFkZswjJGwuLr__f7xqbYYHh_9tsTiL1Yh8R0_AAAAAXRSTlP-GuMHfQAAANJJREFUeAG90kUCg1AMBNDiPtTd3d2V-5-quMOS2b6vSXI5IjnZIElSyUgzLMcnoSBKspKMUPMpiEKxVE5EVKr5WgTLBkr1BtBsBbHd6fZKOvYHw1F9PAkgSU9njXlNx8Vyxa2XfmxvtoC0M1GH_d6P3QPU8fFkY_Ar7Q0ag3ONIOKQvOB60i0WqSnUG6FnI6rzMJbvkB76zo5-wk0JIf8EGq9ndzN7f9bRrlQBcTYTcT22iAh-X9Ib7_dPm8Q1u5Zvfpq7c4uIQ56otVrLjEYzJX-4mxcG80U-CwAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrQBL2dvdG8_dXJsPUNBRVNld0hFSWtYWFlRZGxaSEFwVzBBbVE4WkhEREExX0RxaS1UU2F5SklqTVRnZzNjM1RENmJiQlpjVFZMeVd3N2dmRTlfbXVDQVFMQmRCQ005SDY2SW1TWUwtcnJXeFlERng1Z1JXeXBTM1ZPREFHQkdpT2pSNlJOQXlHME9Ibkk0MUtYV2Q2cVRLRVYyVzg2VVV4UHdJQnE2TjJ5M3NrdFRRQUsyblFREhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrQBL2dvdG8_dXJsPUNBRVNld0hFSWtYWFlRZGxaSEFwVzBBbVE4WkhEREExX0RxaS1UU2F5SklqTVRnZzNjM1RENmJiQlpjVFZMeVd3N2dmRTlfbXVDQVFMQmRCQ005SDY2SW1TWUwtcnJXeFlERng1Z1JXeXBTM1ZPREFHQkdpT2pSNlJOQXlHME9Ibkk0MUtYV2Q2cVRLRVYyVzg2VVV4UHdJQnE2TjJ5M3NrdFRRQUsyblFREhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "source": "TikTok \u00b7 Cal | Content & Stream Tips"
+      },
+      {
+        "position": 7,
+        "title": "Best Workflow Tools for Streamers in 2025",
+        "link": "https://www.google.com/goto?url=CAESfAHEIkXXbGVnQVfIrA7GNOhJw4WPT5Xtwwl5p8LqdAJrpLrIgWKfMyVhRCMf0Zs6a1hFDP-DF34teTh3uNCYAdPfCmt5DcHGkfwFa4RoCwYOjaEFHi8SN327FtXeng-ko-XkxEPMTixtIK0N0inF3gtrB_JdSNJH23xFDZk",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHEIkXXQTtG5r4rmdJgjU_CV5R0k6jE4PpkvuEp_zIsaanQ2hgrsyXWQCK4LlCIsRZIgOpWIgZG3NBZnvrC04nQc3iWmITLCqZ8z4vx_Lgg01Vv4U67jd3jIbmlxIIzEolVYVfjiihL_5FL4c2nLapk7vYdo69IJb6V8vk&ved=2ahUKEwiwsPv725uYAxXfnCYFHZFFOQYQFnoECEMQAQ&uoh=1",
+        "displayed_link": "https://www.socialync.io \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAS1BMVEVHcEwaGi4aGi4aGi4aGi4aGi4XFikWECIUBxcgOlYaS2c0caIcq-Ihi74kodwnLEkwm9ZDktBWh8hNZp0zM1ZBSXZidbpmbbRvabEO-W8oAAAABnRSTlMATr3z_8tObVw9AAAAz0lEQVR4AX3TAQuDIBCGYTV3Z2vLUqv9_1-6szwbH7AXI-gpEzIjWTd4aHDWnD0AWg80VOt7pPkra5wSh_HZauqMriVMr56uyqi9X7MWdV6jz82LNMuYR_aAS08MMC7rVTVAGteWGKC0pto0hsCEGKaU5TpzTjkyIJUkWu_KKW0M0_L2o4UUVWPeM0uhnhU1EpAbzjygxKXCIUchRIr7cbVHQLGjB-8U-5wdMja6UU3Txfr-sW_b1AbdJlRakci3XN9gRG3c2f9bExTsz-_wBT6EF2qZfIKBAAAAAElFTkSuQmCC.png",
+        "date": "1 Mar 2026",
+        "snippet": "1. Stream Management: OBS Studio + StreamElements \u00b7 2. Clip Management: Twitch Clips + Socialync \u00b7 3. Social Media Scheduling: Socialync \u00b7 4.",
+        "snippet_highlighted_words": [
+          "1. Stream Management: OBS Studio + StreamElements"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "1. Stream Management: OBS Studio + StreamElements \u00b7 2. Clip Management: Twitch Clips + Socialync \u00b7 3. Social Media Scheduling: Socialync \u00b7 4.",
+            "source_info_link": "https://www.google.com/goto?url=CAESfAHEIkXXbGVnQVfIrA7GNOhJw4WPT5Xtwwl5p8LqdAJrpLrIgWKfMyVhRCMf0Zs6a1hFDP-DF34teTh3uNCYAdPfCmt5DcHGkfwFa4RoCwYOjaEFHi8SN327FtXeng-ko-XkxEPMTixtIK0N0inF3gtrB_JdSNJH23xFDZk",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAS1BMVEVHcEwaGi4aGi4aGi4aGi4aGi4XFikWECIUBxcgOlYaS2c0caIcq-Ihi74kodwnLEkwm9ZDktBWh8hNZp0zM1ZBSXZidbpmbbRvabEO-W8oAAAABnRSTlMATr3z_8tObVw9AAAAz0lEQVR4AX3TAQuDIBCGYTV3Z2vLUqv9_1-6szwbH7AXI-gpEzIjWTd4aHDWnD0AWg80VOt7pPkra5wSh_HZauqMriVMr56uyqi9X7MWdV6jz82LNMuYR_aAS08MMC7rVTVAGteWGKC0pto0hsCEGKaU5TpzTjkyIJUkWu_KKW0M0_L2o4UUVWPeM0uhnhU1EpAbzjygxKXCIUchRIr7cbVHQLGjB-8U-5wdMja6UU3Txfr-sW_b1AbdJlRakci3XN9gRG3c2f9bExTsz-_wBT6EF2qZfIKBAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhFSWtYWGJHVm5RVmZJckE3R05PaEp3NFdQVDVYdHd3bDVwOExxZEFKcnBMcklnV0tmTXlWaFJDTWYwWnM2YTFoRkRQLURGMzR0ZVRoM3VOQ1lBZFBmQ210NURjSEdrZndGYTRSb0N3WU9qYUVGSGk4U04zMjdGdFhlbmcta28tWGt4RVBNVGl4dElLME4waW5GM2d0ckJfSmRTTkpIMjN4RkRaaxIEGgIIABqUBxIAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkDwBggAEAAYACAAKjoKBSt3aGF0FWF0-T8aBHdoYXQaB3JhdGluZ3MaD3JlY29tbWVuZGF0aW9ucxoFd2hhdHMaBXdoaWNoKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqLQoEYmVzdBUYp4NAGgZiZXR0ZXIaB3JhdGluZ3MaD3JlY29tbWVuZGF0aW9ucyopCgh3b3JrZmxvdxX4oJBAGgl3b3JrZmxvd3MaDWl2O3A7d29ya2Zsb3cqCgoDZm9yFQAAAAAqTQoLcmVwdXJwb3NpbmcVAAAAABoJcmVwdXJwb3NlGgpyZXB1cnBvc2VkGgVyZXVzZRoQaXY7cDtyZXB1cnBvc2luZxoJcmVjb3JkaW5nKjwKBnR3aXRjaBXPri0_Ggh0d2l0Y2hlcxoIdHdpdGNodHYaDHR3aXRjaGdhbWluZxoLaXY7cDt0d2l0Y2gqRAoGZ2FtaW5nFQAAAAAaBGdhbWUaCGdhbWVwbGF5GgVnYW1lchoFZ2FtZXMaCXN0cmVhbWluZxoMdHdpdGNoZ2FtaW5nKiQKB3N0cmVhbXMVKjUqPxoGc3RyZWFtGgxpdjtwO3N0cmVhbXMytQEvZ290bz91cmw9Q0FFU2ZBSEVJa1hYYkdWblFWZklyQTdHTk9oSnc0V1BUNVh0d3dsNXA4THFkQUpycExySWdXS2ZNeVZoUkNNZjBaczZhMWhGRFAtREYzNHRlVGgzdU5DWUFkUGZDbXQ1RGNIR2tmd0ZhNFJvQ3dZT2phRUZIaThTTjMyN0Z0WGVuZy1rby1Ya3hFUE1UaXh0SUswTjBpbkYzZ3RyQl9KZFNOSkgyM3hGRFprOjw8Yj5CZXN0IFdvcmtmbG93PC9iPiBUb29scyBmb3IgU3RyZWFtZXJzIGluIDIwMjUgLSBTb2NpYWx5bmNCqQE8Yj4xLiBTdHJlYW0gTWFuYWdlbWVudDogT0JTIFN0dWRpbyArIFN0cmVhbUVsZW1lbnRzPC9iPiAmbWlkZG90OyAyLiBDbGlwIE1hbmFnZW1lbnQ6IFR3aXRjaCBDbGlwcyArIFNvY2lhbHluYyAmbWlkZG90OyAzLiBTb2NpYWwgTWVkaWEgU2NoZWR1bGluZzogU29jaWFseW5jICZtaWRkb3Q7IDQuSgN0aGVKAmlzSgNmb3JSBHdoYXQiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhFSWtYWGJHVm5RVmZJckE3R05PaEp3NFdQVDVYdHd3bDVwOExxZEFKcnBMcklnV0tmTXlWaFJDTWYwWnM2YTFoRkRQLURGMzR0ZVRoM3VOQ1lBZFBmQ210NURjSEdrZndGYTRSb0N3WU9qYUVGSGk4U04zMjdGdFhlbmcta28tWGt4RVBNVGl4dElLME4waW5GM2d0ckJfSmRTTkpIMjN4RkRaaxIEGgIIABqUBxIAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkDwBggAEAAYACAAKjoKBSt3aGF0FWF0-T8aBHdoYXQaB3JhdGluZ3MaD3JlY29tbWVuZGF0aW9ucxoFd2hhdHMaBXdoaWNoKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqLQoEYmVzdBUYp4NAGgZiZXR0ZXIaB3JhdGluZ3MaD3JlY29tbWVuZGF0aW9ucyopCgh3b3JrZmxvdxX4oJBAGgl3b3JrZmxvd3MaDWl2O3A7d29ya2Zsb3cqCgoDZm9yFQAAAAAqTQoLcmVwdXJwb3NpbmcVAAAAABoJcmVwdXJwb3NlGgpyZXB1cnBvc2VkGgVyZXVzZRoQaXY7cDtyZXB1cnBvc2luZxoJcmVjb3JkaW5nKjwKBnR3aXRjaBXPri0_Ggh0d2l0Y2hlcxoIdHdpdGNodHYaDHR3aXRjaGdhbWluZxoLaXY7cDt0d2l0Y2gqRAoGZ2FtaW5nFQAAAAAaBGdhbWUaCGdhbWVwbGF5GgVnYW1lchoFZ2FtZXMaCXN0cmVhbWluZxoMdHdpdGNoZ2FtaW5nKiQKB3N0cmVhbXMVKjUqPxoGc3RyZWFtGgxpdjtwO3N0cmVhbXMytQEvZ290bz91cmw9Q0FFU2ZBSEVJa1hYYkdWblFWZklyQTdHTk9oSnc0V1BUNVh0d3dsNXA4THFkQUpycExySWdXS2ZNeVZoUkNNZjBaczZhMWhGRFAtREYzNHRlVGgzdU5DWUFkUGZDbXQ1RGNIR2tmd0ZhNFJvQ3dZT2phRUZIaThTTjMyN0Z0WGVuZy1rby1Ya3hFUE1UaXh0SUswTjBpbkYzZ3RyQl9KZFNOSkgyM3hGRFprOjw8Yj5CZXN0IFdvcmtmbG93PC9iPiBUb29scyBmb3IgU3RyZWFtZXJzIGluIDIwMjUgLSBTb2NpYWx5bmNCqQE8Yj4xLiBTdHJlYW0gTWFuYWdlbWVudDogT0JTIFN0dWRpbyArIFN0cmVhbUVsZW1lbnRzPC9iPiAmbWlkZG90OyAyLiBDbGlwIE1hbmFnZW1lbnQ6IFR3aXRjaCBDbGlwcyArIFNvY2lhbHluYyAmbWlkZG90OyAzLiBTb2NpYWwgTWVkaWEgU2NoZWR1bGluZzogU29jaWFseW5jICZtaWRkb3Q7IDQuSgN0aGVKAmlzSgNmb3JSBHdoYXQiAhABSABYAGgA",
+        "source": "Socialync",
+        "read_more_link": "https://www.google.com/goto?url=CAES6AIBxCJF18I8Y2DxBya7uhSdnTapgl-D7k5xwYXTQs2DuT6O_deXKY0-aaIV506h2pViAkSSPPC53Ceqxgx8I_DdGxlVPLYZcxAZkD7PpEsfe-WOXAwhgfuxJLal9quUj9WoF3AsE2bOGzpofkZ-ktvMHnqWTw9YiXeNxP4cc9n0s7g50EIWtJTQ-BjhAEwATj48_Apd0fDO0oRUdELCmMB8KHT66o1ilRVLhGgT81ROb7A5qVf-2MaGexrnAJPIMgnD5wNSBLb2qoI3AsLo-i-T6iN0fPR0NqCBGEEy_ZKdLW4g_NMNQiZwq_hYr0BYd1k_kUy75ASX7Fo-da_mM3q2G5vI0JL1Yw5QHLZV5WsN1aET1OqN5lQDLKiT3L-EnyTvnpgktAITYVuKCut1LWsQKAk-qVBGJTuZ4pIxrVEnt3KP8PBA1OP5EBNqQnLHU4jKjhayR5zafKToILFieCEbvgianSbdRas&gsessionid=KjI6bQYnQpBE5BXBPGxHnC_Tutrfl7PqBJxI6AqvhcDHbqvKb1AmGQ"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "Best practices for repurposing streams?",
+        "link": "https://www.google.com/goto?url=CAESmAEBxCJF10WXPeKYMFpcGc1vd8WqfF3cbLnLEc2CIK-oeHMbIBIxfs_d1cXpKvIOPpBIj4I27egjQk2tU1RLn6Sjv23YbzWCHrbgCUG1sy6QMupbUcywQjdO_HMLhQWyBBAntTpHLsVcNejMxe4AbN-zn1uPbNJFbtQOsNEsYRa3LU9HBJ-iT5wuVcqGZylAUkGAJcKX9khfUg&gsessionid=KjI6bQYnQpBE5BXBPGxHnC_Tutrfl7PqBJxI6AqvhcDHbqvKb1AmGQ",
+        "date": "4 months ago",
+        "extensions": [
+          "r/streaming",
+          "5 comments"
+        ],
+        "source": "Reddit",
+        "answers": [
+          {
+            "link": "https://www.google.com/goto?url=CAESmAEBxCJF10WXPeKYMFpcGc1vd8WqfF3cbLnLEc2CIK-oeHMbIBIxfs_d1cXpKvIOPpBIj4I27egjQk2tU1RLn6Sjv23YbzWCHrbgCUG1sy6QMupbUcywQjdO_HMLhQWyBBAntTpHLsVcNejMxe4AbN-zn1uPbNJFbtQOsNEsYRa3LU9HBJ-iT5wuVcqGZylAUkGAJcKX9khfUg&gsessionid=KjI6bQYnQpBE5BXBPGxHnC_Tutrfl7PqBJxI6AqvhcDHbqvKb1AmGQ"
+          }
+        ]
+      },
+      {
+        "title": "New to both, is it a good strategy to stream on Twitch and edit the vod into ...",
+        "link": "https://www.google.com/goto?url=CAEStgEBxCJF1zw_1TRvPi0lfJj8fkC8_QUpuESZaU0B00x8FoP8NibJERPwhSHKjH7UVVooPcGfEdNk8RsHN0Hy3U-ihZfp8mX-GauqypSKLr_EImygn9TEegXiPgf_jXHS_1iXg1u9kDOK2y89w-YP7u5ZQENkH-dfo_LVi_c3krTGip6yyP4KDGZtvuuB0HhUSdcgZdSiNwlvWvxm7YMLCBRi0Xe9180pe8Bv2CdppIw7ib7CSTzb6A&gsessionid=KjI6bQYnQpBE5BXBPGxHnC_Tutrfl7PqBJxI6AqvhcDHbqvKb1AmGQ",
+        "date": "1 year ago",
+        "extensions": [
+          "30+ answers"
+        ],
+        "source": "Quora",
+        "answers": [
+          {
+            "link": "https://www.google.com/goto?url=CAEStgEBxCJF1zw_1TRvPi0lfJj8fkC8_QUpuESZaU0B00x8FoP8NibJERPwhSHKjH7UVVooPcGfEdNk8RsHN0Hy3U-ihZfp8mX-GauqypSKLr_EImygn9TEegXiPgf_jXHS_1iXg1u9kDOK2y89w-YP7u5ZQENkH-dfo_LVi_c3krTGip6yyP4KDGZtvuuB0HhUSdcgZdSiNwlvWvxm7YMLCBRi0Xe9180pe8Bv2CdppIw7ib7CSTzb6A&gsessionid=KjI6bQYnQpBE5BXBPGxHnC_Tutrfl7PqBJxI6AqvhcDHbqvKb1AmGQ"
+          }
+        ]
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=%2BWhat+is+the+best+workflow+for+repurposing+Twitch+gaming+streams?&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDj0Aa8aC4fJX0ki-LBeIeM2xYuypA:1795355377071&ei=8fICa_DzA9-5mtkPkYvlMQ&start=10&sa=N&sstk=AYl2yk-781H7DXP_c8M2saEZ5bs3Rl0cRRM5GFw3tVWsuuVmqka-AmHMF2W-WfRF55KUnTNZu0LT6JV_k-h_cThFGlYEYW4myV26hQ&ved=2ahUKEwiwsPv725uYAxXfnCYFHZFFOQYQ8NMDegQIORAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=%2BWhat+is+the+best+workflow+for+repurposing+Twitch+gaming+streams?&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDj0Aa8aC4fJX0ki-LBeIeM2xYuypA:1795355377071&ei=8fICa_DzA9-5mtkPkYvlMQ&start=10&sa=N&sstk=AYl2yk-781H7DXP_c8M2saEZ5bs3Rl0cRRM5GFw3tVWsuuVmqka-AmHMF2W-WfRF55KUnTNZu0LT6JV_k-h_cThFGlYEYW4myV26hQ&ved=2ahUKEwiwsPv725uYAxXfnCYFHZFFOQYQ8tMDegQIORAE",
+        "3": "https://www.google.com/search?q=%2BWhat+is+the+best+workflow+for+repurposing+Twitch+gaming+streams?&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDj0Aa8aC4fJX0ki-LBeIeM2xYuypA:1795355377071&ei=8fICa_DzA9-5mtkPkYvlMQ&start=20&sa=N&sstk=AYl2yk-781H7DXP_c8M2saEZ5bs3Rl0cRRM5GFw3tVWsuuVmqka-AmHMF2W-WfRF55KUnTNZu0LT6JV_k-h_cThFGlYEYW4myV26hQ&ved=2ahUKEwiwsPv725uYAxXfnCYFHZFFOQYQ8tMDegQIORAG",
+        "4": "https://www.google.com/search?q=%2BWhat+is+the+best+workflow+for+repurposing+Twitch+gaming+streams?&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDj0Aa8aC4fJX0ki-LBeIeM2xYuypA:1795355377071&ei=8fICa_DzA9-5mtkPkYvlMQ&start=30&sa=N&sstk=AYl2yk-781H7DXP_c8M2saEZ5bs3Rl0cRRM5GFw3tVWsuuVmqka-AmHMF2W-WfRF55KUnTNZu0LT6JV_k-h_cThFGlYEYW4myV26hQ&ved=2ahUKEwiwsPv725uYAxXfnCYFHZFFOQYQ8tMDegQIORAI",
+        "5": "https://www.google.com/search?q=%2BWhat+is+the+best+workflow+for+repurposing+Twitch+gaming+streams?&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDj0Aa8aC4fJX0ki-LBeIeM2xYuypA:1795355377071&ei=8fICa_DzA9-5mtkPkYvlMQ&start=40&sa=N&sstk=AYl2yk-781H7DXP_c8M2saEZ5bs3Rl0cRRM5GFw3tVWsuuVmqka-AmHMF2W-WfRF55KUnTNZu0LT6JV_k-h_cThFGlYEYW4myV26hQ&ved=2ahUKEwiwsPv725uYAxXfnCYFHZFFOQYQ8tMDegQIORAK",
+        "6": "https://www.google.com/search?q=%2BWhat+is+the+best+workflow+for+repurposing+Twitch+gaming+streams?&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDj0Aa8aC4fJX0ki-LBeIeM2xYuypA:1795355377071&ei=8fICa_DzA9-5mtkPkYvlMQ&start=50&sa=N&sstk=AYl2yk-781H7DXP_c8M2saEZ5bs3Rl0cRRM5GFw3tVWsuuVmqka-AmHMF2W-WfRF55KUnTNZu0LT6JV_k-h_cThFGlYEYW4myV26hQ&ved=2ahUKEwiwsPv725uYAxXfnCYFHZFFOQYQ8tMDegQIORAM",
+        "7": "https://www.google.com/search?q=%2BWhat+is+the+best+workflow+for+repurposing+Twitch+gaming+streams?&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDj0Aa8aC4fJX0ki-LBeIeM2xYuypA:1795355377071&ei=8fICa_DzA9-5mtkPkYvlMQ&start=60&sa=N&sstk=AYl2yk-781H7DXP_c8M2saEZ5bs3Rl0cRRM5GFw3tVWsuuVmqka-AmHMF2W-WfRF55KUnTNZu0LT6JV_k-h_cThFGlYEYW4myV26hQ&ved=2ahUKEwiwsPv725uYAxXfnCYFHZFFOQYQ8tMDegQIORAO",
+        "8": "https://www.google.com/search?q=%2BWhat+is+the+best+workflow+for+repurposing+Twitch+gaming+streams?&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDj0Aa8aC4fJX0ki-LBeIeM2xYuypA:1795355377071&ei=8fICa_DzA9-5mtkPkYvlMQ&start=70&sa=N&sstk=AYl2yk-781H7DXP_c8M2saEZ5bs3Rl0cRRM5GFw3tVWsuuVmqka-AmHMF2W-WfRF55KUnTNZu0LT6JV_k-h_cThFGlYEYW4myV26hQ&ved=2ahUKEwiwsPv725uYAxXfnCYFHZFFOQYQ8tMDegQIORAQ",
+        "9": "https://www.google.com/search?q=%2BWhat+is+the+best+workflow+for+repurposing+Twitch+gaming+streams?&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDj0Aa8aC4fJX0ki-LBeIeM2xYuypA:1795355377071&ei=8fICa_DzA9-5mtkPkYvlMQ&start=80&sa=N&sstk=AYl2yk-781H7DXP_c8M2saEZ5bs3Rl0cRRM5GFw3tVWsuuVmqka-AmHMF2W-WfRF55KUnTNZu0LT6JV_k-h_cThFGlYEYW4myV26hQ&ved=2ahUKEwiwsPv725uYAxXfnCYFHZFFOQYQ8tMDegQIORAS",
+        "10": "https://www.google.com/search?q=%2BWhat+is+the+best+workflow+for+repurposing+Twitch+gaming+streams?&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDj0Aa8aC4fJX0ki-LBeIeM2xYuypA:1795355377071&ei=8fICa_DzA9-5mtkPkYvlMQ&start=90&sa=N&sstk=AYl2yk-781H7DXP_c8M2saEZ5bs3Rl0cRRM5GFw3tVWsuuVmqka-AmHMF2W-WfRF55KUnTNZu0LT6JV_k-h_cThFGlYEYW4myV26hQ&ved=2ahUKEwiwsPv725uYAxXfnCYFHZFFOQYQ8tMDegQIORAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=%2BWhat+is+the+best+workflow+for+repurposing+Twitch+gaming+streams%3F&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=%2BWhat+is+the+best+workflow+for+repurposing+Twitch+gaming+streams%3F&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=%2BWhat+is+the+best+workflow+for+repurposing+Twitch+gaming+streams%3F&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=%2BWhat+is+the+best+workflow+for+repurposing+Twitch+gaming+streams%3F&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=%2BWhat+is+the+best+workflow+for+repurposing+Twitch+gaming+streams%3F&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=%2BWhat+is+the+best+workflow+for+repurposing+Twitch+gaming+streams%3F&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=%2BWhat+is+the+best+workflow+for+repurposing+Twitch+gaming+streams%3F&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=%2BWhat+is+the+best+workflow+for+repurposing+Twitch+gaming+streams%3F&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=%2BWhat+is+the+best+workflow+for+repurposing+Twitch+gaming+streams%3F&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=%2BWhat+is+the+best+workflow+for+repurposing+Twitch+gaming+streams%3F&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=%2BWhat+is+the+best+workflow+for+repurposing+Twitch+gaming+streams%3F&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

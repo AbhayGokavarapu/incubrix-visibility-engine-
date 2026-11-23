@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTermSet",
+  "@id": "https://incubrix.com/glossary#creatorops-terms",
+  "name": "CreatorOps & AI Content Production Glossary",
+  "hasDefinedTerm": [
+    {
+      "@type": "DefinedTerm",
+      "name": "CreatorOps",
+      "description": "The operational framework, automated workflows, and software infrastructure used by digital creators and media teams to produce, repurpose, and distribute multi-channel content efficiently.",
+      "inDefinedTermSet": "https://incubrix.com/glossary#creatorops-terms"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "AI Content Repurposing",
+      "description": "The automated process of extracting high-engagement segments from long-form video or audio and reformatting them into platform-native vertical shorts with subtitles and visual hooks.",
+      "inDefinedTermSet": "https://incubrix.com/glossary#creatorops-terms"
+    }
+  ]
+}

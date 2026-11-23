@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "About IncuBrix - Building the Future of CreatorOps",
+  "url": "https://incubrix.com/about",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      ".hero-summary-text",
+      "#mission-statement"
+    ]
+  }
+}

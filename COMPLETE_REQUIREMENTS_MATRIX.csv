@@ -1,0 +1,15 @@
+Requirement ID,Requirement Name,Target Minimum,Actual Verified on Disk,Missing Count,Verification Status,Evidence Path / Validation Reference
+REQ-01,Real Questions Measured,100,100,0,VERIFIED COMPLETE,visibility/evidence/live_runs/google_search/ (100 files Q001-Q100)
+REQ-02,AI Assistants Checked,4,4,0,VERIFIED COMPLETE,visibility/evidence/ (Gemini: 18 obs ChatGPT: 5 obs Claude: 5 obs Perplexity: 5 obs)
+REQ-03,Distinct Calendar Days Measured,2,1,1,PARTIAL (PENDING DAY 2),Day 1 measured 2026-11-22; Day 2 scheduled for 2026-11-23
+REQ-04,Validated Technical Fixes,20,20,0,VERIFIED COMPLETE,fixes/ (FIX-01 to FIX-20) validated via engine/validate_fixes.py (20/20 PASS)
+REQ-05,Publish-Ready Pages,10,10,0,VERIFIED COMPLETE,pages/ (P01 to P10) answer-first structure with embedded schemas
+REQ-06,Citation Targets,30,30,0,VERIFIED COMPLETE,visibility/citations_manifest.json (30 vetted authority platforms with pitch angles)
+REQ-07,Tracker Reruns from README,Yes,Yes,0,VERIFIED COMPLETE,README.md tested via python engine/visibility_engine.py
+REQ-08,Geographic Markets Covered,3,3,0,VERIFIED COMPLETE,US (82 obs) UK (28 obs) IN (28 obs) across all 100 questions
+REQ-09,Zero-Cost Safeguard,Yes,Yes,0,VERIFIED COMPLETE,$0.00 spent; SerpAPI 150 searches remaining; OpenAI overdraft blocked
+REQ-10,Submission Workbook Integrity,7 sheets,7 sheets,0,VERIFIED COMPLETE,IncuBrix_..._Workbook.xlsx evaluated honestly (6 of 7 MET NOT YET)
+REQ-11,Randomized Quality Audit,>= 95%,100.0%,0,VERIFIED COMPLETE,engine/run_evidence_audit.py (20 of 20 sampled records traced on disk)
+REQ-12,Automated Test Suite Passing,19 tests,19 tests,0,VERIFIED COMPLETE,python -m unittest discover engine (19 of 19 tests PASS)
+REQ-13,Candidate Demonstration Videos,2 videos,0 videos,2,PENDING CANDIDATE,Scripts ready in FINAL_DEMO_GUIDE.md; pending candidate recording
+REQ-14,Private GitHub Repository,1 repo,0 repo,1,PENDING CANDIDATE,Local git ready; pending candidate private repo push

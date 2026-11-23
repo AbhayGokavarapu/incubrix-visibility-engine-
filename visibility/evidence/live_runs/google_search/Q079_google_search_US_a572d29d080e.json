@@ -1,0 +1,528 @@
+{
+  "measurement_id": "a572d29d080e",
+  "question_id": "Q079",
+  "timestamp_utc": "2026-11-22T13:50:12.552589+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "Best AI video tool for non-technical content creators and founders",
+  "market": "US",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [
+    "Opus Clip",
+    "Descript"
+  ],
+  "position": null,
+  "citations": [
+    "https://www.reddit.com/r/ProductMarketing/comments/1em8jrl/i_tried_5_ai_video_tools_so_you_dont_have_to/",
+    "https://zapier.com/blog/best-ai-video-generator/",
+    "https://www.google.com/goto?url=CAESaAHEIkXXpWoHnpFQEY6uY7ccAtiD3IZ5CPWXuRYTNpJRXboQjtZKoPFSTnFJf-9VWi8oZWbWq_HdMkczDNuBzS16Qj3xpr1a5yXqgyudpVXGsGFRAB_aWusRc-h4BtP1kTC34O8ausLk&gsessionid=wqeJEtzrkFcCYIrr9BzrLe5td5UUnUmZT2z8Gby7o8nvNmlVGYj_VA",
+    "https://www.google.com/goto?url=CAESXwHEIkXX7BOnYcH1ZNmir_8LoYI0cbBRfpM_dYXba0gJGvkcMN0xT5pzUbfoKIRB1kcoPwca_Vxsl3ovhpXLuBfUHigD50TaD2iCGtf7rMSh0sNd80mqEPiDnY8M7mJw",
+    "https://www.google.com/goto?url=CAEScgHEIkXXKdtSxuFjwWQH71Ub3sYg83qT996JbA9IE1bn44nMJV4rQEJaU4AUIRLtIeNxiq8OtTwt__LtXlmLYBNIaMV3eWPy2_RWXmoarKAcnr7dDmsoYbbjH24-6qjHOjC0ekSBdOJ285qPnvAqA3YU3A",
+    "https://www.google.com/goto?url=CAESUAHEIkXXncAkPESWzUJ0XbtMxtcKw5Qcs1Ns3qttqWsIekSWCjjbGYexEFE1OWCk2cECvr2XTqgRi_H0_Gfz_OH0HhH_UzCF1dWTG5DlqDMQ",
+    "https://www.google.com/goto?url=CAESdgHEIkXXhWZ32T-sALb1j2H-XEVP6jIm-2pyyX7xMWHFPQfKWD7ovgyfbW5glhCYZ0ZY4NZDqD04UBSZdJe_FVQ-uLBghme5C4HsjnlfsPCFbAv1b_IKf-FlmzSNTiV1FWvPZwgKJpcLW0HU61LHANlXGg6dADk",
+    "https://www.google.com/goto?url=CAESeAHEIkXXHIZAL4TakTmxLe1Ge2dbTu9bvuADg8WUDXmUIm6OLN0hAJRWxRTkMSXSPK1B-pQ8xU3ahnLHpFI3o4XvTE24uj82g1RoNx_-vnD2B_j5ESBzf_Rw4It60pMtv7GO914syVj9hMU1cahMNNDOSWor1czwGA",
+    "https://www.google.com/goto?url=CAESmQEBxCJF1yGismAaRK7wQfx2MhaWrhOZNFZv0G7SLSPunnYw-P3FrShNMFvT8mJJLZnltIoIDjuuM9NY4tLpx4HYN0xkvc1vYE1RE8_frAOz9AatpzZNZf4dLilHEHH7wcY3LBQLUfV7CivfJzA7wl0wOWKkPtp_6nEb7WIlhAM-F8ek1TTVSX-AO8fJogHl-1nf0w4uLj7mGzg"
+  ],
+  "raw_text_summary": "I tried 5 AI video tools so you don't have to Runway for editing effects, Kling when I want cinematic style, and Deepbrain AI Studios since it covers both image generation and video ... The 16 best AI video generators in 2026 Google's Veo 3.1 model is the best AI video generation all-arounder on the market. With strong prompt adherence to stick close to your image references and text ... Top 5 AI Tools For Content Creators in 2026 In this video I am showcasing my absolute top 5 AI tools you \u2026 1. Elevenlabs: 3. Adobe Firefly: and audio production elements Free AI Video Generator Generate AI videos from text prompts or images in seconds with VEED's free AI video generator. Try the latest AI models for realistic motion and audio. I Tested 9 AI Video Editing Tools to Find the Best Best for Non-Technical Users Descript is my daily driver and the only tool I've found that genuinely lets non-technical users edit video as ... Pictory: Your AI Video Agent and AI Video Generator Pictory is an AI video generator that removes the hardest parts of video creation. No cameras, no filming, no timelines, no learning curve. 10 Best AI Tools for Content Creators in 2026 (No AI Slop) This list is quick answer from the tools I have used: Blotato for repurposing and scheduling, Opus Clip for short clips, and Blaze or Poppy for ... 15 Free AI Tools For Content Creation Top 15 free AI tools for content creation \u00b7 1. GWI Spark - For data-driven consumer insights \u00b7 2. Copy.ai - For fast, versatile copywriting \u00b7 3. 20 Best AI video creation tools for digital marketing (2026) Synthesia is one of the best-known AI video generators, letting marketing teams create videos with text-to-speech voiceovers and realistic AI ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f31279ac9a2e9e779249",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/0XlYMRH_pYSHNBOJJpXhxcjNvX_n6aTH-5cOdBn6E8w/6b02f31279ac9a2e9e779249.json",
+      "markdown_endpoint": "https://serpapi.com/searches/0XlYMRH_pYSHNBOJJpXhxcjNvX_n6aTH-5cOdBn6E8w/6b02f31279ac9a2e9e779249.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/0XlYMRH_pYSHNBOJJpXhxcjNvX_n6aTH-5cOdBn6E8w/6b02f31279ac9a2e9e779249.json_with_pixel_position",
+      "created_at": "2026-11-22 13:50:10 UTC",
+      "processed_at": "2026-11-22 13:50:10 UTC",
+      "google_url": "https://www.google.com/search?q=Best+AI+video+tool+for+non-technical+content+creators+and+founders&oq=Best+AI+video+tool+for+non-technical+content+creators+and+founders&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/0XlYMRH_pYSHNBOJJpXhxcjNvX_n6aTH-5cOdBn6E8w/6b02f31279ac9a2e9e779249.html",
+      "total_time_taken": 0.97
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "Best AI video tool for non-technical content creators and founders",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "Best AI video tool for non-technical content creators and founders",
+      "total_results": 163000000,
+      "time_taken_displayed": 0.23,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+      {
+        "question": "What is the best AI video generator for content creators?",
+        "type": "ai_overview",
+        "page_token": "W4IDy3icHdBBjpswAEBRtUfoIWY5wRBSESmqBBgYFJwCtgFvRmCTOGMHmMSaFJY9Qs_QVQ_TA_QavUBHXf_V-99_6vOg_nz4IY2ZbtvV6n6_P57G8aT7Rz5eVu1tHviKt1p3LVfbzecN-HLkO_jG_eDK_ZwUsNFCVyqbqRJBvaSvbU33uRIttb0ZwZtL62jNQJqSJDMkadZdyGiL5b6P0AuOZCNqshBoJB5OS46prCJtly9y4rG3FxjlzaIBcrRLoBgPUK-7yLPoDGpWTXYHaVFSkVZhEeCY3AuCkj70EwGKuXF8R4SNyyxjqsQPuhgpTmnFzqAk9nuvEesgCwl-xynztcKswhY90iHd4DO4VDVC2NFBDZRDw_RAFvba2YBBKaLaAmFDPVlYmVsshcFRlGdKbxpb-M238ZwTecggccok1Tn1Yr4wt4UMoUg-4UE2h1goVqdTqZ4MyR-O_G3nPPx_vXs-Xsx2uo6nX_zat6YXz635rT7-_fQPryySGA",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=W4IDy3icHdBBjpswAEBRtUfoIWY5wRBSESmqBBgYFJwCtgFvRmCTOGMHmMSaFJY9Qs_QVQ_TA_QavUBHXf_V-99_6vOg_nz4IY2ZbtvV6n6_P57G8aT7Rz5eVu1tHviKt1p3LVfbzecN-HLkO_jG_eDK_ZwUsNFCVyqbqRJBvaSvbU33uRIttb0ZwZtL62jNQJqSJDMkadZdyGiL5b6P0AuOZCNqshBoJB5OS46prCJtly9y4rG3FxjlzaIBcrRLoBgPUK-7yLPoDGpWTXYHaVFSkVZhEeCY3AuCkj70EwGKuXF8R4SNyyxjqsQPuhgpTmnFzqAk9nuvEesgCwl-xynztcKswhY90iHd4DO4VDVC2NFBDZRDw_RAFvba2YBBKaLaAmFDPVlYmVsshcFRlGdKbxpb-M238ZwTecggccok1Tn1Yr4wt4UMoUg-4UE2h1goVqdTqZ4MyR-O_G3nPPx_vXs-Xsx2uo6nX_zat6YXz635rT7-_fQPryySGA",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVQyTnVVVUZKZDB4YVVuSm9UMmQyTTFReldVZDFNSEJHT1d4eVZGZEZZelo0TWtaNlUzUndOWHBUUkRZeWFIbEJVMlZhYkMxeFRXRkJVVVF5T0dORFNIQjBPRWRrYVVWTlFYQnZXV05EU0RWcVRHcE9UbkZhUzNZd1FSSVhSVjlOUTJGZllVZERPVWMwYlV4UlVESkplbU5uUVdNYUlrRklUakJGTjBaSFpERTNOMG94UWtWTFowSnViR0ZGVjJwWmNFaE5aMGhUVWtFIiwiZmN2IjoiMyIsImVpIjoiRV9NQ2FfYUdDOUc0bUxRUDJJemNnQWMiLCJxYyI6ImN3M0tzUTJBTUF3RVFHb3FTc3JmQklsTmpHTkVwTWd2T1lhT0dSaU1wZURxRzlmTmVrSXFybHFNU0xKaFo4RHBTTlBEcTBxRDB0TThvV0dTakE3eDhyZlRpMFdmaHZ0OTV1VUQiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgQUkgdmlkZW8gZ2VuZXJhdG9yIGZvciBjb250ZW50IGNyZWF0b3JzPyIsImxrIjoiY3hYSXNRMkFNQXdFd0Qyb2ZneldNZUVoYm16SmZvWDFnZUthMl9abm11QU5UZUpnQy1aWWZqSnhNMWltTEZ5ZmtTR0dNSXJfOVFzIiwiYnMiOiJjNDJRc1E3Q01BeEV4ZW9KSWFaTVhwQ1lvQVFHWUttWVVMLUFoU1cwYm11QkVwUkU5UGRKMHdHVlZvTEJpM1h2em1kbzRIQ3BsVWQyNkd2Q0d6bVBwd3hmWEpEQmlqUlo1WTNGTWt4dXRDZnRNYmZVN2x3cWoyTGZmTU9LXzRMaERPc1lyQ3oxa3IweEQ5Y2hyWlIxMWZtRnVMbVlCZmVQSU83aENzc3M1Z2NqaFpza1dXQnBpVVphcERJUkstNXA4VWsyYi0tS3lQQjJ1TU4yOEo5T1F3V1BsbU9qVTdrVGN2Q1puOWgwOGdZIiwiaWQiOiJmY19FX01DYV9hR0M5RzRtTFFQMkl6Y2dBY181In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVQyTnVVVUZKZDB4YVVuSm9UMmQyTTFReldVZDFNSEJHT1d4eVZGZEZZelo0TWtaNlUzUndOWHBUUkRZeWFIbEJVMlZhYkMxeFRXRkJVVVF5T0dORFNIQjBPRWRrYVVWTlFYQnZXV05EU0RWcVRHcE9UbkZhUzNZd1FSSVhSVjlOUTJGZllVZERPVWMwYlV4UlVESkplbU5uUVdNYUlrRklUakJGTjBaSFpERTNOMG94UWtWTFowSnViR0ZGVjJwWmNFaE5aMGhUVWtFIiwiZmN2IjoiMyIsImVpIjoiRV9NQ2FfYUdDOUc0bUxRUDJJemNnQWMiLCJxYyI6ImN3M0tzUTJBTUF3RVFHb3FTc3JmQklsTmpHTkVwTWd2T1lhT0dSaU1wZURxRzlmTmVrSXFybHFNU0xKaFo4RHBTTlBEcTBxRDB0TThvV0dTakE3eDhyZlRpMFdmaHZ0OTV1VUQiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgQUkgdmlkZW8gZ2VuZXJhdG9yIGZvciBjb250ZW50IGNyZWF0b3JzPyIsImxrIjoiY3hYSXNRMkFNQXdFd0Qyb2ZneldNZUVoYm16SmZvWDFnZUthMl9abm11QU5UZUpnQy1aWWZqSnhNMWltTEZ5ZmtTR0dNSXJfOVFzIiwiYnMiOiJjNDJRc1E3Q01BeEV4ZW9KSWFaTVhwQ1lvQVFHWUttWVVMLUFoU1cwYm11QkVwUkU5UGRKMHdHVlZvTEJpM1h2em1kbzRIQ3BsVWQyNkd2Q0d6bVBwd3hmWEpEQmlqUlo1WTNGTWt4dXRDZnRNYmZVN2x3cWoyTGZmTU9LXzRMaERPc1lyQ3oxa3IweEQ5Y2hyWlIxMWZtRnVMbVlCZmVQSU83aENzc3M1Z2NqaFpza1dXQnBpVVphcERJUkstNXA4VWsyYi0tS3lQQjJ1TU4yOEo5T1F3V1BsbU9qVTdrVGN2Q1puOWgwOGdZIiwiaWQiOiJmY19FX01DYV9hR0M5RzRtTFFQMkl6Y2dBY181In0%3D"
+      },
+      {
+        "question": "What are the best AI tools for creating videos?",
+        "type": "ai_overview",
+        "page_token": "DOgmXnicHdBdboIwAADgbEfYIXxUCsKiiVkGtjIyUUpboC8GCohSwB8U8XFn2dMOswPsGrvAkn1H-D4-5a4ufx7Com0P5-lo1HXdcNs0W5kNRVON4nNfi5GIpUxiUU6NZwO85GIGz51pNZ3pUQwjmcqonKyw5uBI5Z5X8zWrJPCkqQUkvWGbcQIKm8JizTR-TRRABdQtClDPShmJgOV87ulL27E85njJ_k13VcfiqNCxD5AgZpPAyZGG0S0B0iBz94rpWA01dMwC2RPi1O_sALFtOnFdoBi2R1JhmCjjuwsnJgvAJQmKVXo3e5_yo0tvlzRsfKSwnFC3CFVke3dpuwuwpOy198PDnitov9g5pg_HHSap7UNp-HvZC9Xl2RwRumiXwRxbokJXDMRNLHQ8yMV1pg3-x2abvGqnh1Oz_RKnLG6zdBO33-Xj79Mf3J9-Mg",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=DOgmXnicHdBdboIwAADgbEfYIXxUCsKiiVkGtjIyUUpboC8GCohSwB8U8XFn2dMOswPsGrvAkn1H-D4-5a4ufx7Com0P5-lo1HXdcNs0W5kNRVON4nNfi5GIpUxiUU6NZwO85GIGz51pNZ3pUQwjmcqonKyw5uBI5Z5X8zWrJPCkqQUkvWGbcQIKm8JizTR-TRRABdQtClDPShmJgOV87ulL27E85njJ_k13VcfiqNCxD5AgZpPAyZGG0S0B0iBz94rpWA01dMwC2RPi1O_sALFtOnFdoBi2R1JhmCjjuwsnJgvAJQmKVXo3e5_yo0tvlzRsfKSwnFC3CFVke3dpuwuwpOy198PDnitov9g5pg_HHSap7UNp-HvZC9Xl2RwRumiXwRxbokJXDMRNLHQ8yMV1pg3-x2abvGqnh1Oz_RKnLG6zdBO33-Xj79Mf3J9-Mg",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVQyTnVVVUZKZDB4YVVuSm9UMmQyTTFReldVZDFNSEJHT1d4eVZGZEZZelo0TWtaNlUzUndOWHBUUkRZeWFIbEJVMlZhYkMxeFRXRkJVVVF5T0dORFNIQjBPRWRrYVVWTlFYQnZXV05EU0RWcVRHcE9UbkZhUzNZd1FSSVhSVjlOUTJGZllVZERPVWMwYlV4UlVESkplbU5uUVdNYUlrRklUakJGTjBaSFpERTNOMG94UWtWTFowSnViR0ZGVjJwWmNFaE5aMGhUVWtFIiwiZmN2IjoiMyIsImVpIjoiRV9NQ2FfYUdDOUc0bUxRUDJJemNnQWMiLCJxYyI6ImN3M0tzUTJBTUF3RVFHb3FTc3JmQklsTmpHTkVwTWd2T1lhT0dSaU1wZURxRzlmTmVrSXFybHFNU0xKaFo4RHBTTlBEcTBxRDB0TThvV0dTakE3eDhyZlRpMFdmaHZ0OTV1VUQiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBiZXN0IEFJIHRvb2xzIGZvciBjcmVhdGluZyB2aWRlb3M/IiwibGsiOiJHaEpoYVNCMGIyOXNjeUJtYjNJZ2RtbGtaVzgiLCJicyI6ImM0MlFzUTdDTUF4RXhlb0pJYVpNWHBDWW9BUUdZS21ZVUwtQWhTVzBibXVCRXBSRTlQZEowd0dWVm9MQmkzWHZ6bWRvNEhDcGxVZDI2R3ZDR3ptUHB3eGZYSkRCaWpSWjVZM0ZNa3h1dENmdE1iZlU3bHdxajJMZmZNT0tfNExoRE9zWXJDejFrcjB4RDljaHJaUjExZm1GdUxtWUJmZVBJTzdoQ3NzczVnY2poWnNrV1dCcGlVWmFwRElSSy01cDhVazJiLS1LeVBCMnVNTjI4SjlPUXdXUGxtT2pVN2tUY3ZDWm45aDA4Z1kiLCJpZCI6ImZjX0VfTUNhX2FHQzlHNG1MUVAySXpjZ0FjXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVQyTnVVVUZKZDB4YVVuSm9UMmQyTTFReldVZDFNSEJHT1d4eVZGZEZZelo0TWtaNlUzUndOWHBUUkRZeWFIbEJVMlZhYkMxeFRXRkJVVVF5T0dORFNIQjBPRWRrYVVWTlFYQnZXV05EU0RWcVRHcE9UbkZhUzNZd1FSSVhSVjlOUTJGZllVZERPVWMwYlV4UlVESkplbU5uUVdNYUlrRklUakJGTjBaSFpERTNOMG94UWtWTFowSnViR0ZGVjJwWmNFaE5aMGhUVWtFIiwiZmN2IjoiMyIsImVpIjoiRV9NQ2FfYUdDOUc0bUxRUDJJemNnQWMiLCJxYyI6ImN3M0tzUTJBTUF3RVFHb3FTc3JmQklsTmpHTkVwTWd2T1lhT0dSaU1wZURxRzlmTmVrSXFybHFNU0xKaFo4RHBTTlBEcTBxRDB0TThvV0dTakE3eDhyZlRpMFdmaHZ0OTV1VUQiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBiZXN0IEFJIHRvb2xzIGZvciBjcmVhdGluZyB2aWRlb3M%2FIiwibGsiOiJHaEpoYVNCMGIyOXNjeUJtYjNJZ2RtbGtaVzgiLCJicyI6ImM0MlFzUTdDTUF4RXhlb0pJYVpNWHBDWW9BUUdZS21ZVUwtQWhTVzBibXVCRXBSRTlQZEowd0dWVm9MQmkzWHZ6bWRvNEhDcGxVZDI2R3ZDR3ptUHB3eGZYSkRCaWpSWjVZM0ZNa3h1dENmdE1iZlU3bHdxajJMZmZNT0tfNExoRE9zWXJDejFrcjB4RDljaHJaUjExZm1GdUxtWUJmZVBJTzdoQ3NzczVnY2poWnNrV1dCcGlVWmFwRElSSy01cDhVazJiLS1LeVBCMnVNTjI4SjlPUXdXUGxtT2pVN2tUY3ZDWm45aDA4Z1kiLCJpZCI6ImZjX0VfTUNhX2FHQzlHNG1MUVAySXpjZ0FjXzUifQ%3D%3D"
+      },
+      {
+        "question": "Is there a 100% free AI video generator?",
+        "type": "ai_overview",
+        "page_token": "jEDC6XicHZBBjpswAEXVHqGHmOUEQkg1kaKqJHYoLR5hsIm9GRkbQmIbaOIZUpY9wpxhVj1MD9Br9AKNuvibt3lP_-ebOXb6z7vX1rnhsprNxnG8P_T9wdT3srczcfnRyZkUxlRC6tXy49L_1Mg1eJHR5iyjjGDAjDKMwEBqOuQF2qATXtQn3JESLcVOj9JeJl5yy04IqNuQ5yfFLhyIb8bqJBeVxyYKWkH86FxueSTiGyc0TgE9ij0EqW0dKakmhoe1DSEyUKcxBZzCvepI8LhVpaD8mQPH8M53lR_1dUyb3Jhvwgxfaw2bHLQQFwjgOWXSqpyDhx21nOQBXOznCuYxbEnQfuF-YpkevlOSXGgQ8UIn6OamiAwbHiQundAtVcG9528ZfWixl4Z4wq6AMEu1WbK5iti1P2akfUwBCXJAwnKrrzmlI4ZqSqHKSMy8qvh8Jd1ABYAmy-4a-bIO7v5_vX5qrFsN5_7wS55r4Wr1JNxv_f7vh3-tiZNL",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=jEDC6XicHZBBjpswAEXVHqGHmOUEQkg1kaKqJHYoLR5hsIm9GRkbQmIbaOIZUpY9wpxhVj1MD9Br9AKNuvibt3lP_-ebOXb6z7vX1rnhsprNxnG8P_T9wdT3srczcfnRyZkUxlRC6tXy49L_1Mg1eJHR5iyjjGDAjDKMwEBqOuQF2qATXtQn3JESLcVOj9JeJl5yy04IqNuQ5yfFLhyIb8bqJBeVxyYKWkH86FxueSTiGyc0TgE9ij0EqW0dKakmhoe1DSEyUKcxBZzCvepI8LhVpaD8mQPH8M53lR_1dUyb3Jhvwgxfaw2bHLQQFwjgOWXSqpyDhx21nOQBXOznCuYxbEnQfuF-YpkevlOSXGgQ8UIn6OamiAwbHiQundAtVcG9528ZfWixl4Z4wq6AMEu1WbK5iti1P2akfUwBCXJAwnKrrzmlI4ZqSqHKSMy8qvh8Jd1ABYAmy-4a-bIO7v5_vX5qrFsN5_7wS55r4Wr1JNxv_f7vh3-tiZNL",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVQyTnVVVUZKZDB4YVVuSm9UMmQyTTFReldVZDFNSEJHT1d4eVZGZEZZelo0TWtaNlUzUndOWHBUUkRZeWFIbEJVMlZhYkMxeFRXRkJVVVF5T0dORFNIQjBPRWRrYVVWTlFYQnZXV05EU0RWcVRHcE9UbkZhUzNZd1FSSVhSVjlOUTJGZllVZERPVWMwYlV4UlVESkplbU5uUVdNYUlrRklUakJGTjBaSFpERTNOMG94UWtWTFowSnViR0ZGVjJwWmNFaE5aMGhUVWtFIiwiZmN2IjoiMyIsImVpIjoiRV9NQ2FfYUdDOUc0bUxRUDJJemNnQWMiLCJxYyI6ImN3M0tzUTJBTUF3RVFHb3FTc3JmQklsTmpHTkVwTWd2T1lhT0dSaU1wZURxRzlmTmVrSXFybHFNU0xKaFo4RHBTTlBEcTBxRDB0TThvV0dTakE3eDhyZlRpMFdmaHZ0OTV1VUQiLCJxdWVzdGlvbiI6IklzIHRoZXJlIGEgMTAwJSBmcmVlIEFJIHZpZGVvIGdlbmVyYXRvcj8iLCJsayI6IkdpNXBjeUIwYUdWeVpTQmhJREV3TUNCd1pYSmpaVzUwSUdaeVpXVWdZV2tnZG1sa1pXOGdaMlZ1WlhKaGRHOXkiLCJicyI6ImM0MlFzUTdDTUF4RXhlb0pJYVpNWHBDWW9BUUdZS21ZVUwtQWhTVzBibXVCRXBSRTlQZEowd0dWVm9MQmkzWHZ6bWRvNEhDcGxVZDI2R3ZDR3ptUHB3eGZYSkRCaWpSWjVZM0ZNa3h1dENmdE1iZlU3bHdxajJMZmZNT0tfNExoRE9zWXJDejFrcjB4RDljaHJaUjExZm1GdUxtWUJmZVBJTzdoQ3NzczVnY2poWnNrV1dCcGlVWmFwRElSSy01cDhVazJiLS1LeVBCMnVNTjI4SjlPUXdXUGxtT2pVN2tUY3ZDWm45aDA4Z1kiLCJpZCI6ImZjX0VfTUNhX2FHQzlHNG1MUVAySXpjZ0FjXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVQyTnVVVUZKZDB4YVVuSm9UMmQyTTFReldVZDFNSEJHT1d4eVZGZEZZelo0TWtaNlUzUndOWHBUUkRZeWFIbEJVMlZhYkMxeFRXRkJVVVF5T0dORFNIQjBPRWRrYVVWTlFYQnZXV05EU0RWcVRHcE9UbkZhUzNZd1FSSVhSVjlOUTJGZllVZERPVWMwYlV4UlVESkplbU5uUVdNYUlrRklUakJGTjBaSFpERTNOMG94UWtWTFowSnViR0ZGVjJwWmNFaE5aMGhUVWtFIiwiZmN2IjoiMyIsImVpIjoiRV9NQ2FfYUdDOUc0bUxRUDJJemNnQWMiLCJxYyI6ImN3M0tzUTJBTUF3RVFHb3FTc3JmQklsTmpHTkVwTWd2T1lhT0dSaU1wZURxRzlmTmVrSXFybHFNU0xKaFo4RHBTTlBEcTBxRDB0TThvV0dTakE3eDhyZlRpMFdmaHZ0OTV1VUQiLCJxdWVzdGlvbiI6IklzIHRoZXJlIGEgMTAwJSBmcmVlIEFJIHZpZGVvIGdlbmVyYXRvcj8iLCJsayI6IkdpNXBjeUIwYUdWeVpTQmhJREV3TUNCd1pYSmpaVzUwSUdaeVpXVWdZV2tnZG1sa1pXOGdaMlZ1WlhKaGRHOXkiLCJicyI6ImM0MlFzUTdDTUF4RXhlb0pJYVpNWHBDWW9BUUdZS21ZVUwtQWhTVzBibXVCRXBSRTlQZEowd0dWVm9MQmkzWHZ6bWRvNEhDcGxVZDI2R3ZDR3ptUHB3eGZYSkRCaWpSWjVZM0ZNa3h1dENmdE1iZlU3bHdxajJMZmZNT0tfNExoRE9zWXJDejFrcjB4RDljaHJaUjExZm1GdUxtWUJmZVBJTzdoQ3NzczVnY2poWnNrV1dCcGlVWmFwRElSSy01cDhVazJiLS1LeVBCMnVNTjI4SjlPUXdXUGxtT2pVN2tUY3ZDWm45aDA4Z1kiLCJpZCI6ImZjX0VfTUNhX2FHQzlHNG1MUVAySXpjZ0FjXzUifQ%3D%3D"
+      },
+      {
+        "question": "What is the best video editor for content creation?",
+        "type": "ai_overview",
+        "page_token": "0u3O63icHdBRbpswGABgbUfYIfrYYFizLlI0jRXTWsUMx3ZsXiqwSQj-AyihhfC4I-wMfephdoBdYxfYtBN80vfjFQ6t-_3uZz0M_Xm1WIzjeL3vuj1U16Y7LorzpTULUwCUhXGr5acl-rIz6-jFhN9OJswEizRY0I6qEvpz5kGdS1C0_errWXviiLBB-c627GEruiC9D6NMEFfeOZ86qzgPgSmiTQRxgVjKZS1Yy3Tik4sU6JA7MpkgR2Im33nMNlXs3VgMF4lpJARtin8uPyZeiXtWqvCZNUTRxj6KFga7lWcakUF4oDYNxlWb8wwg3DZypDPVuUfuk5lNWYA_GsceRYQmjslGcCkrd4sSbHHR0DSNUbqJaSuUGEp0O0a1xcpDd1p-rpmX3LCZDRzjLHGw1L4N9dQdMlGnSSQCBnqWDnoLtaZbIjIIH2Sb-UWEmky5iUs92PFqZ17WwdX_6_XT7jis-lO3fzOnqhgq-1QMv9z7Px_-ApmZk90",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=0u3O63icHdBRbpswGABgbUfYIfrYYFizLlI0jRXTWsUMx3ZsXiqwSQj-AyihhfC4I-wMfephdoBdYxfYtBN80vfjFQ6t-_3uZz0M_Xm1WIzjeL3vuj1U16Y7LorzpTULUwCUhXGr5acl-rIz6-jFhN9OJswEizRY0I6qEvpz5kGdS1C0_errWXviiLBB-c627GEruiC9D6NMEFfeOZ86qzgPgSmiTQRxgVjKZS1Yy3Tik4sU6JA7MpkgR2Im33nMNlXs3VgMF4lpJARtin8uPyZeiXtWqvCZNUTRxj6KFga7lWcakUF4oDYNxlWb8wwg3DZypDPVuUfuk5lNWYA_GsceRYQmjslGcCkrd4sSbHHR0DSNUbqJaSuUGEp0O0a1xcpDd1p-rpmX3LCZDRzjLHGw1L4N9dQdMlGnSSQCBnqWDnoLtaZbIjIIH2Sb-UWEmky5iUs92PFqZ17WwdX_6_XT7jis-lO3fzOnqhgq-1QMv9z7Px_-ApmZk90",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVQyTnVVVUZKZDB4YVVuSm9UMmQyTTFReldVZDFNSEJHT1d4eVZGZEZZelo0TWtaNlUzUndOWHBUUkRZeWFIbEJVMlZhYkMxeFRXRkJVVVF5T0dORFNIQjBPRWRrYVVWTlFYQnZXV05EU0RWcVRHcE9UbkZhUzNZd1FSSVhSVjlOUTJGZllVZERPVWMwYlV4UlVESkplbU5uUVdNYUlrRklUakJGTjBaSFpERTNOMG94UWtWTFowSnViR0ZGVjJwWmNFaE5aMGhUVWtFIiwiZmN2IjoiMyIsImVpIjoiRV9NQ2FfYUdDOUc0bUxRUDJJemNnQWMiLCJxYyI6ImN3M0tzUTJBTUF3RVFHb3FTc3JmQklsTmpHTkVwTWd2T1lhT0dSaU1wZURxRzlmTmVrSXFybHFNU0xKaFo4RHBTTlBEcTBxRDB0TThvV0dTakE3eDhyZlRpMFdmaHZ0OTV1VUQiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgdmlkZW8gZWRpdG9yIGZvciBjb250ZW50IGNyZWF0aW9uPyIsImxrIjoiY3czRHlRa0FJQXdFd0Q1OGJRMTI1TEZpUGdub291M3J3S1I4WnhGc1E1T28zTUt4emdDN0tSYkczOEpGRjlwaWtZVV8iLCJicyI6ImM0MlFzUTdDTUF4RXhlb0pJYVpNWHBDWW9BUUdZS21ZVUwtQWhTVzBibXVCRXBSRTlQZEowd0dWVm9MQmkzWHZ6bWRvNEhDcGxVZDI2R3ZDR3ptUHB3eGZYSkRCaWpSWjVZM0ZNa3h1dENmdE1iZlU3bHdxajJMZmZNT0tfNExoRE9zWXJDejFrcjB4RDljaHJaUjExZm1GdUxtWUJmZVBJTzdoQ3NzczVnY2poWnNrV1dCcGlVWmFwRElSSy01cDhVazJiLS1LeVBCMnVNTjI4SjlPUXdXUGxtT2pVN2tUY3ZDWm45aDA4Z1kiLCJpZCI6ImZjX0VfTUNhX2FHQzlHNG1MUVAySXpjZ0FjXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVQyTnVVVUZKZDB4YVVuSm9UMmQyTTFReldVZDFNSEJHT1d4eVZGZEZZelo0TWtaNlUzUndOWHBUUkRZeWFIbEJVMlZhYkMxeFRXRkJVVVF5T0dORFNIQjBPRWRrYVVWTlFYQnZXV05EU0RWcVRHcE9UbkZhUzNZd1FSSVhSVjlOUTJGZllVZERPVWMwYlV4UlVESkplbU5uUVdNYUlrRklUakJGTjBaSFpERTNOMG94UWtWTFowSnViR0ZGVjJwWmNFaE5aMGhUVWtFIiwiZmN2IjoiMyIsImVpIjoiRV9NQ2FfYUdDOUc0bUxRUDJJemNnQWMiLCJxYyI6ImN3M0tzUTJBTUF3RVFHb3FTc3JmQklsTmpHTkVwTWd2T1lhT0dSaU1wZURxRzlmTmVrSXFybHFNU0xKaFo4RHBTTlBEcTBxRDB0TThvV0dTakE3eDhyZlRpMFdmaHZ0OTV1VUQiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgdmlkZW8gZWRpdG9yIGZvciBjb250ZW50IGNyZWF0aW9uPyIsImxrIjoiY3czRHlRa0FJQXdFd0Q1OGJRMTI1TEZpUGdub291M3J3S1I4WnhGc1E1T28zTUt4emdDN0tSYkczOEpGRjlwaWtZVV8iLCJicyI6ImM0MlFzUTdDTUF4RXhlb0pJYVpNWHBDWW9BUUdZS21ZVUwtQWhTVzBibXVCRXBSRTlQZEowd0dWVm9MQmkzWHZ6bWRvNEhDcGxVZDI2R3ZDR3ptUHB3eGZYSkRCaWpSWjVZM0ZNa3h1dENmdE1iZlU3bHdxajJMZmZNT0tfNExoRE9zWXJDejFrcjB4RDljaHJaUjExZm1GdUxtWUJmZVBJTzdoQ3NzczVnY2poWnNrV1dCcGlVWmFwRElSSy01cDhVazJiLS1LeVBCMnVNTjI4SjlPUXdXUGxtT2pVN2tUY3ZDWm45aDA4Z1kiLCJpZCI6ImZjX0VfTUNhX2FHQzlHNG1MUVAySXpjZ0FjXzUifQ%3D%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "UYZ3iXiczVbfcrJGFJ_pda_6DuXGT0XQz5gZ5ptdREWNuhqTmhsGFwQVWGVRYi77LL3qw_QB-hp9gS4IEYwm-Tqdac8MLJw9__f8OPz6m7P01n_-aNhBsKG35XIYhiWLEMsxS5i4ZZ0ePFxeEIf62P5mOdKOcrYjmR5Hyc7HpoRtn7hmicwTxtJIWNxhL4kcphLPmUtJ0e5kXdPbcqNddftoJKgv2AKYi-1L2lyn5oq5f17RslZmt_XPYpO9lGjJ9EqquZ17LQE8bEBJ4AWxNCzrLhMA_y0pEKgWW9cAWO_JQfRZi8hmVoF8rq8c1wz_DkQ-VSCrx51r_ieR0UhThnHE7BqCxWq0brOnQSo1VT-IS87F9JiEdVzW5-F-ghLVKIMc4z26UMS4Lr3Tu3y-d4na-R04a4JmmDH_Jp2Mg6PqNLqFoFUd3QGE0FVPKTHTvRngHfBBn6QRTRvdScC0YNmwWJfz5bnPlkp5iW0cP_g0an75vsGTdn_YXgkaRFt9N0T7NlAGgTkKFaVfBWU8Z3IO0Q3T0GyN_xa_V4RKjW-I9ZsvMeowfYUdzcLOJ5QPvJu7YsCX-iVYSTGXz_a8WEhVwaVmsqCVliJPrwbG2TrHZTiTXOc8t5LVBpAgZja3iXpKPyvE4NJk9bqx7IzQSUN-B3NnFHcsSQxMExbIdxuaAWVySiBvaHjRbJQHAOc5W-3kQYVp34TJzlvMjYHK6qC-ljj3cYTsCwFZgVH0pegx9UCO5ZBajeJLTwwpiqoAxTqpZUg-JqLkW1jORMJ2lEgqBJYC1rvuVFaXCRvETizr6Aki67UqsQ_5LepiumP8ln1x61OkfObDcowiBdkZZrJYa_3iFBdk4u4ffdobjpBYq3dhY9NfdQC6jC3izr9jpuH_PfrSieckbX8VfZGnT6EP2e-h79LEO6JPXl9B3-SIPhlemnijVOps4r1FnwyWGfQlE-85qcW_gT74Mfqyx5VF3-mocuhTrqGvreTRN1sp6cS7jL7EwQl9_3Tiwe-feDEIzeOSH3-7lXV1DHaKDy-HzrgmtItwRzbmcLCZg4dZV-ivwg_H4MINbl3dcL5oS-MWCt3gYHzRGIPcmga3laBJgwJQC_ulYZJCQIhTWBC_4BGvGJjY9pZYdwqYeIHpBQXsm3pAfFrQPYOJ7TzD9CnnOj6ReL024x_Rs_eEe6ArrkZfF5uhvLbrNX53f38YGO3di_KkCVNx_HDodEK_2gXwUCt2q6NwL-qbmY-fdofxoAKcbdGzp7qiITycLidiZb8NO3uRsh-A3by-AMZzC9XnjQetJwCx6DZ7NuYruoUOjdWNs4mjoRKs2PaWzHi-uOZYstSUKpzrY4n1QtUCAxT95ukAhqAbNy8cb9naZx0zJxCgzgygpsUuwo6No1jXTLqX8NeaiGs8j3V9UV-YC861gsNGavAc9Xyp8ntcHXYKevDH-oe_fvobftyJpQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=UYZ3iXiczVbfcrJGFJ_pda_6DuXGT0XQz5gZ5ptdREWNuhqTmhsGFwQVWGVRYi77LL3qw_QB-hp9gS4IEYwm-Tqdac8MLJw9__f8OPz6m7P01n_-aNhBsKG35XIYhiWLEMsxS5i4ZZ0ePFxeEIf62P5mOdKOcrYjmR5Hyc7HpoRtn7hmicwTxtJIWNxhL4kcphLPmUtJ0e5kXdPbcqNddftoJKgv2AKYi-1L2lyn5oq5f17RslZmt_XPYpO9lGjJ9EqquZ17LQE8bEBJ4AWxNCzrLhMA_y0pEKgWW9cAWO_JQfRZi8hmVoF8rq8c1wz_DkQ-VSCrx51r_ieR0UhThnHE7BqCxWq0brOnQSo1VT-IS87F9JiEdVzW5-F-ghLVKIMc4z26UMS4Lr3Tu3y-d4na-R04a4JmmDH_Jp2Mg6PqNLqFoFUd3QGE0FVPKTHTvRngHfBBn6QRTRvdScC0YNmwWJfz5bnPlkp5iW0cP_g0an75vsGTdn_YXgkaRFt9N0T7NlAGgTkKFaVfBWU8Z3IO0Q3T0GyN_xa_V4RKjW-I9ZsvMeowfYUdzcLOJ5QPvJu7YsCX-iVYSTGXz_a8WEhVwaVmsqCVliJPrwbG2TrHZTiTXOc8t5LVBpAgZja3iXpKPyvE4NJk9bqx7IzQSUN-B3NnFHcsSQxMExbIdxuaAWVySiBvaHjRbJQHAOc5W-3kQYVp34TJzlvMjYHK6qC-ljj3cYTsCwFZgVH0pegx9UCO5ZBajeJLTwwpiqoAxTqpZUg-JqLkW1jORMJ2lEgqBJYC1rvuVFaXCRvETizr6Aki67UqsQ_5LepiumP8ln1x61OkfObDcowiBdkZZrJYa_3iFBdk4u4ffdobjpBYq3dhY9NfdQC6jC3izr9jpuH_PfrSieckbX8VfZGnT6EP2e-h79LEO6JPXl9B3-SIPhlemnijVOps4r1FnwyWGfQlE-85qcW_gT74Mfqyx5VF3-mocuhTrqGvreTRN1sp6cS7jL7EwQl9_3Tiwe-feDEIzeOSH3-7lXV1DHaKDy-HzrgmtItwRzbmcLCZg4dZV-ivwg_H4MINbl3dcL5oS-MWCt3gYHzRGIPcmga3laBJgwJQC_ulYZJCQIhTWBC_4BGvGJjY9pZYdwqYeIHpBQXsm3pAfFrQPYOJ7TzD9CnnOj6ReL024x_Rs_eEe6ArrkZfF5uhvLbrNX53f38YGO3di_KkCVNx_HDodEK_2gXwUCt2q6NwL-qbmY-fdofxoAKcbdGzp7qiITycLidiZb8NO3uRsh-A3by-AMZzC9XnjQetJwCx6DZ7NuYruoUOjdWNs4mjoRKs2PaWzHi-uOZYstSUKpzrY4n1QtUCAxT95ukAhqAbNy8cb9naZx0zJxCgzgygpsUuwo6No1jXTLqX8NeaiGs8j3V9UV-YC861gsNGavAc9Xyp8ntcHXYKevDH-oe_fvobftyJpQ"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "I tried 5 AI video tools so you don't have to",
+        "link": "https://www.reddit.com/r/ProductMarketing/comments/1em8jrl/i_tried_5_ai_video_tools_so_you_dont_have_to/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpQEBxCJF10GN0Cu8DJ6QCfiDfFus5DebpGCfiE0oDHEYd_Zp5cetF0sg3bJCfBe1-oeB3RvJTbOIJixir5rcldSvsuHp0_1ZEFknj9SPWH9EtplJoF96L9OLcSWxORTlnscj-qEzmlTWBaaoZ3sLVgB4g0TyWpDfFQzzfjdmHa_WnzJH5QaBzs3k45xHjD-tAmUv2tvekt3kws6el4Suu-o0z6niw-U&ved=2ahUKEwi23J2M3JuYAxVRHIYAHVgGF3AQFnoECCQQAQ&uoh=1",
+        "displayed_link": "60+ comments",
+        "date": "2 years ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+        "snippet": "Runway for editing effects, Kling when I want cinematic style, and Deepbrain AI Studios since it covers both image generation and video ...",
+        "snippet_highlighted_words": [
+          "Runway for editing effects"
+        ],
+        "sitelinks": {
+          "list": [
+            {
+              "title": "What's the BEST AI Tool You're Using Right Now for ...",
+              "link": "https://www.google.com/goto?url=CAESrAEBxCJF150Z3xpHX5uXYj4HVDKU_v6MLQNwvHXCFn8TdvRxXMjIZzUROSw7gu6NqUv55x1ydr9JujyHFmUgbShJ7eOWhYaMlXfSsqBg7hIcaxNgby6Lapts9suR__mjdVcMNaCu7jLCz6eV0yFbeifzah0IP-b9JohiWEMI4U753lnPkFKfN20wWjm15TaAExxAb_eIibo1-HtAxbq-lqcM3ny8syr9XWjRBsmP&gsessionid=wqeJEtzrkFcCYIrr9BzrLe5td5UUnUmZT2z8Gby7o8nvNmlVGYj_VA",
+              "answer_count": 113,
+              "date": "Jul 20, 2025"
+            },
+            {
+              "title": "What ai tools do you use when creating videos? - Reddit",
+              "link": "https://www.google.com/goto?url=CAESnwEBxCJF15FVuwcJZ31ZN2EDEB9nzepmCTYTNlAYLET8Sh3MAdgXc5TYfihDTyhaFm6hc0kyMH-G7SGofwATjXjkKr3d2xIyNuJ03SwEjo69gDVgjUPPWoPlkWh9oFln766gBnSjEz4uo1YXYT5FShTI-51Rw0xHi55ihzrpSWBOOB9Gx8u7t8Q6nXbBuDTJ1XW7HtqwqPimOaD3FDgTjjo&gsessionid=wqeJEtzrkFcCYIrr9BzrLe5td5UUnUmZT2z8Gby7o8nvNmlVGYj_VA",
+              "answer_count": 73,
+              "date": "Feb 12, 2025"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Runway for editing effects, Kling when I want cinematic style, and Deepbrain AI Studios since it covers both image generation and video ...",
+            "source_info_link": "https://www.reddit.com/r/ProductMarketing/comments/1em8jrl/i_tried_5_ai_video_tools_so_you_dont_have_to/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cu0BL2dvdG8_dXJsPUNBRVNwUUVCeENKRjFfdXQ0Y1dEQ3d1Nm5QaU1zcUJyOC1FRFRoVms4bXByYWhGdGdmNkdpZVJlcUtEclhBa3RXMkphZUJBYWJUUGtWLUxFa0kxSGpVRmhtMGFiSlRJaENBV3FKeGE3SUpuQ0xRUFNGMlZoXzRlMGE0ajRKdW1tSGE4SVZBdkhVQVNKSXRjZzBfVHFJaTRkRVExUk40d0pvSEEzal91aHloc0NTb0Y3cHMyVGd6ZzRnWFBkRmE0enVlSnVQZGs0bEJrS0ctYWFfUi1ZbWtNMnJtbnpvZTVwWnU0EgQaAggAGroIEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAlAgIABAAGAAgACooCgRiZXN0FR7MMEAaBGdvb2QaCGdyZWF0ZXN0GgN0b3AaBmJlc3RhaSonCgJhaRUaIZlAGgZiZXN0YWkaB2FpdmlkZW8aC2FpdmlkZW90b29sKjUKBXZpZGVvFfpAo0AaBnZpZGVvcxoHYWl2aWRlbxoLYWl2aWRlb3Rvb2waCXZpZGVvdG9vbCosCgR0b29sFV7w2jwaB3Byb2dyYW0aC2FpdmlkZW90b29sGgl2aWRlb3Rvb2wqCgoDZm9yFQAAAAAqIQoDbm9uFQAAAAAaAm5vGgNub3QaDG5vbnRlY2huaWNhbCpVCgl0ZWNobmljYWwVAAAAABoCaXQaBHRlY2gaDXRlY2hub2xvZ2ljYWwaCnRlY2hub2xvZ3kaDG5vbnRlY2huaWNhbBoQdGVjaG5pY2FsY29udGVudCo7Cgdjb250ZW50FUyVcz8aCGNvbnRlbnRzGhB0ZWNobmljYWxjb250ZW50Gg9jb250ZW50Y3JlYXRvcnMqOwoIY3JlYXRvcnMVAAAAABoIY3JlYXRpb24aB2NyZWF0b3IaBm1ha2VycxoPY29udGVudGNyZWF0b3JzKgoKA2FuZBUAAAAAKl0KCGZvdW5kZXJzFQAAAAAaB2ZvdW5kZXIaCWZvdW5kZXIncxoIZm91bmRpbmcaDWl2O3A7Zm91bmRlcnMaB2NyZWF0b3IaC2luZmx1ZW5jZXJzGgl5b3V0dWJlcnMy7QEvZ290bz91cmw9Q0FFU3BRRUJ4Q0pGMV91dDRjV0RDd3U2blBpTXNxQnI4LUVEVGhWazhtcHJhaEZ0Z2Y2R2llUmVxS0RyWEFrdFcySmFlQkFhYlRQa1YtTEVrSTFIalVGaG0wYWJKVEloQ0FXcUp4YTdJSm5DTFFQU0YyVmhfNGUwYTRqNEp1bW1IYThJVkF2SFVBU0pJdGNnMF9UcUlpNGRFUTFSTjR3Sm9IQTNqX3VoeWhzQ1NvRjdwczJUZ3pnNGdYUGRGYTR6dWVKdVBkazRsQmtLRy1hYV9SLVlta00ycm1uem9lNXBadTQ6QUkgdHJpZWQgNSA8Yj5BSSB2aWRlbzwvYj4gdG9vbHMgc28geW91IGRvbiYjMzk7dCBoYXZlIHRvIC0gUmVkZGl0QpcBPGI-UnVud2F5IGZvciBlZGl0aW5nIGVmZmVjdHM8L2I-LCBLbGluZyB3aGVuIEkgd2FudCBjaW5lbWF0aWMgc3R5bGUsIGFuZCBEZWVwYnJhaW4gQUkgU3R1ZGlvcyBzaW5jZSBpdCBjb3ZlcnMgYm90aCBpbWFnZSBnZW5lcmF0aW9uIGFuZCB2aWRlbyZuYnNwOy4uLkoDYW5kSgNmb3JSA25vdFIDdG9wUgJub1ICaXQiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cu0BL2dvdG8_dXJsPUNBRVNwUUVCeENKRjFfdXQ0Y1dEQ3d1Nm5QaU1zcUJyOC1FRFRoVms4bXByYWhGdGdmNkdpZVJlcUtEclhBa3RXMkphZUJBYWJUUGtWLUxFa0kxSGpVRmhtMGFiSlRJaENBV3FKeGE3SUpuQ0xRUFNGMlZoXzRlMGE0ajRKdW1tSGE4SVZBdkhVQVNKSXRjZzBfVHFJaTRkRVExUk40d0pvSEEzal91aHloc0NTb0Y3cHMyVGd6ZzRnWFBkRmE0enVlSnVQZGs0bEJrS0ctYWFfUi1ZbWtNMnJtbnpvZTVwWnU0EgQaAggAGroIEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAlAgIABAAGAAgACooCgRiZXN0FR7MMEAaBGdvb2QaCGdyZWF0ZXN0GgN0b3AaBmJlc3RhaSonCgJhaRUaIZlAGgZiZXN0YWkaB2FpdmlkZW8aC2FpdmlkZW90b29sKjUKBXZpZGVvFfpAo0AaBnZpZGVvcxoHYWl2aWRlbxoLYWl2aWRlb3Rvb2waCXZpZGVvdG9vbCosCgR0b29sFV7w2jwaB3Byb2dyYW0aC2FpdmlkZW90b29sGgl2aWRlb3Rvb2wqCgoDZm9yFQAAAAAqIQoDbm9uFQAAAAAaAm5vGgNub3QaDG5vbnRlY2huaWNhbCpVCgl0ZWNobmljYWwVAAAAABoCaXQaBHRlY2gaDXRlY2hub2xvZ2ljYWwaCnRlY2hub2xvZ3kaDG5vbnRlY2huaWNhbBoQdGVjaG5pY2FsY29udGVudCo7Cgdjb250ZW50FUyVcz8aCGNvbnRlbnRzGhB0ZWNobmljYWxjb250ZW50Gg9jb250ZW50Y3JlYXRvcnMqOwoIY3JlYXRvcnMVAAAAABoIY3JlYXRpb24aB2NyZWF0b3IaBm1ha2VycxoPY29udGVudGNyZWF0b3JzKgoKA2FuZBUAAAAAKl0KCGZvdW5kZXJzFQAAAAAaB2ZvdW5kZXIaCWZvdW5kZXIncxoIZm91bmRpbmcaDWl2O3A7Zm91bmRlcnMaB2NyZWF0b3IaC2luZmx1ZW5jZXJzGgl5b3V0dWJlcnMy7QEvZ290bz91cmw9Q0FFU3BRRUJ4Q0pGMV91dDRjV0RDd3U2blBpTXNxQnI4LUVEVGhWazhtcHJhaEZ0Z2Y2R2llUmVxS0RyWEFrdFcySmFlQkFhYlRQa1YtTEVrSTFIalVGaG0wYWJKVEloQ0FXcUp4YTdJSm5DTFFQU0YyVmhfNGUwYTRqNEp1bW1IYThJVkF2SFVBU0pJdGNnMF9UcUlpNGRFUTFSTjR3Sm9IQTNqX3VoeWhzQ1NvRjdwczJUZ3pnNGdYUGRGYTR6dWVKdVBkazRsQmtLRy1hYV9SLVlta00ycm1uem9lNXBadTQ6QUkgdHJpZWQgNSA8Yj5BSSB2aWRlbzwvYj4gdG9vbHMgc28geW91IGRvbiYjMzk7dCBoYXZlIHRvIC0gUmVkZGl0QpcBPGI-UnVud2F5IGZvciBlZGl0aW5nIGVmZmVjdHM8L2I-LCBLbGluZyB3aGVuIEkgd2FudCBjaW5lbWF0aWMgc3R5bGUsIGFuZCBEZWVwYnJhaW4gQUkgU3R1ZGlvcyBzaW5jZSBpdCBjb3ZlcnMgYm90aCBpbWFnZSBnZW5lcmF0aW9uIGFuZCB2aWRlbyZuYnNwOy4uLkoDYW5kSgNmb3JSA25vdFIDdG9wUgJub1ICaXQiAhABSABYAGgA",
+        "source": "Reddit \u00b7 r/ProductMarketing"
+      },
+      {
+        "position": 2,
+        "title": "The 16 best AI video generators in 2026",
+        "link": "https://zapier.com/blog/best-ai-video-generator/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHEIkXXu2jpe3uNS-tYhS9PTpq6-H3fK-LREsBLx6muE_EwoCK0nEGr2mtnvfdOoQwrTIPHMikb2CIZYYdvIZO6eSeuo7_BDOWNJOOMV6Ti_yzv3lkTkPjQB4IWrDzgSNjKYLCNwoRJMl4sOIw&ved=2ahUKEwi23J2M3JuYAxVRHIYAHVgGF3AQFnoECBMQAQ&uoh=1",
+        "displayed_link": "https://zapier.com \u203a App picks \u203a Best apps",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcAQMAAABIw03XAAAAA1BMVEX_TwBuA1r9AAAAC0lEQVR4AWMYRAAAAIwAASLW8i0AAAAASUVORK5CYII.png",
+        "snippet": "Google's Veo 3.1 model is the best AI video generation all-arounder on the market. With strong prompt adherence to stick close to your image references and text ...",
+        "snippet_highlighted_words": [
+          "Google's Veo 3.1 model"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Google's Veo 3.1 model is the best AI video generation all-arounder on the market. With strong prompt adherence to stick close to your image references and text ...",
+            "source_info_link": "https://zapier.com/blog/best-ai-video-generator/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcAQMAAABIw03XAAAAA1BMVEX_TwBuA1r9AAAAC0lEQVR4AWMYRAAAAIwAASLW8i0AAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqEBL2dvdG8_dXJsPUNBRVNiUUhFSWtYWGlPLUVOeUttTXpkY2t5NnZoRXBKR3ZYMnZKeFpFRGFaT21Gc3MweTBFUHZKa0NOa3VOX2kxWS11djltdG5NRlhKNGxVYVBDSzNhTHVqT0N6b2ZjNW42cXdiNThUcVRsZUZQYWE1SmhUYi1nalZTM0RlU2pmd2otaVNvWGhhWmNiXzJMdHpuVk96OXMSBBoCCAAagQgSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDbBwgAEAAYACAAKigKBGJlc3QVjbtuQBoEZ29vZBoIZ3JlYXRlc3QaA3RvcBoGYmVzdGFpKicKAmFpFbaU3UAaBmJlc3RhaRoHYWl2aWRlbxoLYWl2aWRlb3Rvb2wqNQoFdmlkZW8V1Ol4QBoGdmlkZW9zGgdhaXZpZGVvGgthaXZpZGVvdG9vbBoJdmlkZW90b29sKiwKBHRvb2wVjqegPxoHcHJvZ3JhbRoLYWl2aWRlb3Rvb2waCXZpZGVvdG9vbCoKCgNmb3IVAAAAACohCgNub24VZlR1PBoCbm8aA25vdBoMbm9udGVjaG5pY2FsKlUKCXRlY2huaWNhbBUAAAAAGgJpdBoEdGVjaBoNdGVjaG5vbG9naWNhbBoKdGVjaG5vbG9neRoMbm9udGVjaG5pY2FsGhB0ZWNobmljYWxjb250ZW50KjsKB2NvbnRlbnQV-hzZPxoIY29udGVudHMaEHRlY2huaWNhbGNvbnRlbnQaD2NvbnRlbnRjcmVhdG9ycyo7CghjcmVhdG9ycxWAjTg_GghjcmVhdGlvbhoHY3JlYXRvchoGbWFrZXJzGg9jb250ZW50Y3JlYXRvcnMqCgoDYW5kFQAAAAAqXQoIZm91bmRlcnMVAAAAABoHZm91bmRlchoJZm91bmRlcidzGghmb3VuZGluZxoNaXY7cDtmb3VuZGVycxoHY3JlYXRvchoLaW5mbHVlbmNlcnMaCXlvdXR1YmVyczKhAS9nb3RvP3VybD1DQUVTYlFIRUlrWFhpTy1FTnlLbU16ZGNreTZ2aEVwSkd2WDJ2SnhaRURhWk9tRnNzMHkwRVB2SmtDTmt1Tl9pMVktdXY5bXRuTUZYSjRsVWFQQ0szYUx1ak9Dem9mYzVuNnF3YjU4VHFUbGVGUGFhNUpoVGItZ2pWUzNEZVNqZndqLWlTb1hoYVpjYl8yTHR6blZPejlzOjdUaGUgMTYgPGI-YmVzdCBBSSB2aWRlbzwvYj4gZ2VuZXJhdG9ycyBpbiAyMDI2IC0gWmFwaWVyQrQBPGI-R29vZ2xlJiMzOTtzIFZlbyAzLjEgbW9kZWw8L2I-IGlzIHRoZSBiZXN0IEFJIHZpZGVvIGdlbmVyYXRpb24gYWxsLWFyb3VuZGVyIG9uIHRoZSBtYXJrZXQuIFdpdGggc3Ryb25nIHByb21wdCBhZGhlcmVuY2UgdG8gc3RpY2sgY2xvc2UgdG8geW91ciBpbWFnZSByZWZlcmVuY2VzIGFuZCB0ZXh0Jm5ic3A7Li4uSgNmb3JKA2FuZFIDbm90UgN0b3BSAm5vUgJpdCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqEBL2dvdG8_dXJsPUNBRVNiUUhFSWtYWGlPLUVOeUttTXpkY2t5NnZoRXBKR3ZYMnZKeFpFRGFaT21Gc3MweTBFUHZKa0NOa3VOX2kxWS11djltdG5NRlhKNGxVYVBDSzNhTHVqT0N6b2ZjNW42cXdiNThUcVRsZUZQYWE1SmhUYi1nalZTM0RlU2pmd2otaVNvWGhhWmNiXzJMdHpuVk96OXMSBBoCCAAagQgSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDbBwgAEAAYACAAKigKBGJlc3QVjbtuQBoEZ29vZBoIZ3JlYXRlc3QaA3RvcBoGYmVzdGFpKicKAmFpFbaU3UAaBmJlc3RhaRoHYWl2aWRlbxoLYWl2aWRlb3Rvb2wqNQoFdmlkZW8V1Ol4QBoGdmlkZW9zGgdhaXZpZGVvGgthaXZpZGVvdG9vbBoJdmlkZW90b29sKiwKBHRvb2wVjqegPxoHcHJvZ3JhbRoLYWl2aWRlb3Rvb2waCXZpZGVvdG9vbCoKCgNmb3IVAAAAACohCgNub24VZlR1PBoCbm8aA25vdBoMbm9udGVjaG5pY2FsKlUKCXRlY2huaWNhbBUAAAAAGgJpdBoEdGVjaBoNdGVjaG5vbG9naWNhbBoKdGVjaG5vbG9neRoMbm9udGVjaG5pY2FsGhB0ZWNobmljYWxjb250ZW50KjsKB2NvbnRlbnQV-hzZPxoIY29udGVudHMaEHRlY2huaWNhbGNvbnRlbnQaD2NvbnRlbnRjcmVhdG9ycyo7CghjcmVhdG9ycxWAjTg_GghjcmVhdGlvbhoHY3JlYXRvchoGbWFrZXJzGg9jb250ZW50Y3JlYXRvcnMqCgoDYW5kFQAAAAAqXQoIZm91bmRlcnMVAAAAABoHZm91bmRlchoJZm91bmRlcidzGghmb3VuZGluZxoNaXY7cDtmb3VuZGVycxoHY3JlYXRvchoLaW5mbHVlbmNlcnMaCXlvdXR1YmVyczKhAS9nb3RvP3VybD1DQUVTYlFIRUlrWFhpTy1FTnlLbU16ZGNreTZ2aEVwSkd2WDJ2SnhaRURhWk9tRnNzMHkwRVB2SmtDTmt1Tl9pMVktdXY5bXRuTUZYSjRsVWFQQ0szYUx1ak9Dem9mYzVuNnF3YjU4VHFUbGVGUGFhNUpoVGItZ2pWUzNEZVNqZndqLWlTb1hoYVpjYl8yTHR6blZPejlzOjdUaGUgMTYgPGI-YmVzdCBBSSB2aWRlbzwvYj4gZ2VuZXJhdG9ycyBpbiAyMDI2IC0gWmFwaWVyQrQBPGI-R29vZ2xlJiMzOTtzIFZlbyAzLjEgbW9kZWw8L2I-IGlzIHRoZSBiZXN0IEFJIHZpZGVvIGdlbmVyYXRpb24gYWxsLWFyb3VuZGVyIG9uIHRoZSBtYXJrZXQuIFdpdGggc3Ryb25nIHByb21wdCBhZGhlcmVuY2UgdG8gc3RpY2sgY2xvc2UgdG8geW91ciBpbWFnZSByZWZlcmVuY2VzIGFuZCB0ZXh0Jm5ic3A7Li4uSgNmb3JKA2FuZFIDbm90UgN0b3BSAm5vUgJpdCICEAFIAFgAaAA",
+        "source": "Zapier",
+        "read_more_link": "https://www.google.com/goto?url=CAESvwEBxCJF13aoiMYQ8ou06Nqd05BPVnbjcgE7Fqjz9u7fOskeGVLsJPib5rF3VQhjCibVhI5bGiARsdIMK8DPc-_8zQvkkKMJuIJvhGEVH2VsdKwU3hN4xqH4E0U3fcYy4P4AKrsRyxEzIzVy6ugdzWvpcHHjXzGGQeYtCm0N0q_R4egQc1OgzsDhUg0yDaDrjYjCytkxE7X3Y0aohQEam5q8pkpZRixpwmU-p883IPEK_4e_8zoUWtduVm7AODe5DQ&gsessionid=wqeJEtzrkFcCYIrr9BzrLe5td5UUnUmZT2z8Gby7o8nvNmlVGYj_VA"
+      },
+      {
+        "position": 3,
+        "title": "Top 5 AI Tools For Content Creators in 2026",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXpWoHnpFQEY6uY7ccAtiD3IZ5CPWXuRYTNpJRXboQjtZKoPFSTnFJf-9VWi8oZWbWq_HdMkczDNuBzS16Qj3xpr1a5yXqgyudpVXGsGFRAB_aWusRc-h4BtP1kTC34O8ausLk&gsessionid=wqeJEtzrkFcCYIrr9BzrLe5td5UUnUmZT2z8Gby7o8nvNmlVGYj_VA",
+        "displayed_link": "14.9K+ views",
+        "date": "10 months ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f31279ac9a2e9e779249/images/56Zekurxw6i2kCSusNa0kwp_IV48oPFrN8VfNaXt5Eo.jpg",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "In this video I am showcasing my absolute top 5 AI tools you \u2026 1. Elevenlabs: 3. Adobe Firefly: and audio production elements",
+        "duration": "13:14",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "Video start",
+            "link": "https://www.google.com/goto?url=CAESbAHEIkXX5g15_9ZkIUC71zSB1IdbtA9xTiznsac_m8Ucuv2b8OcGo9G30t9UfIBpHIO4fI7lMCgdvXpt_ETZZQfa5lCMJq467xtmFNe7dG0I00LVlXQWKDGpOigEMumVbQSP5deI7du1PhBvOQ&gsessionid=wqeJEtzrkFcCYIrr9BzrLe5td5UUnUmZT2z8Gby7o8nvNmlVGYj_VA"
+          },
+          {
+            "time": "00:22",
+            "title": "My new channel",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXXMqh-H87Yt-DZovzGObZI5VZ0E-4WFUB7jaa-tHCtSm-_pG2sZ4C7F4Jkiv_1a7PvlV_xt8jC591lC04mf_igQXWxY8e6N3U-ZLE7q070CWec-bt7sSsBQmbfZI8zqsXVwQfOXcEmnBI&gsessionid=wqeJEtzrkFcCYIrr9BzrLe5td5UUnUmZT2z8Gby7o8nvNmlVGYj_VA"
+          },
+          {
+            "time": "00:40",
+            "title": "Tool 5 - Elevenlabs",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXXD9tydnm_NhZfG9MEooRQx_awwbGwMEtL1dbaX603ron7k-JTuO5_QxVAIbIjwscoRnXKo-eT1iq2pn_b6JltKnSVje9pT65g5JXCOkIBANQe4Kcs2GgjZdtRlKQCCkgt6JD5JfCqGKw&gsessionid=wqeJEtzrkFcCYIrr9BzrLe5td5UUnUmZT2z8Gby7o8nvNmlVGYj_VA"
+          },
+          {
+            "time": "02:20",
+            "title": "Generate sound effects",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXue3XNoCTC1c3c7enoXbQa5Wbk5E5MfIIA1TC8Csiu6nZ2afxAqw2CDN1HDRXIkvW70qfiWEoaVLUW0Uwg2F_OKeq8UpjCTM-6L_dTGTQ64_ykgqi1aIuK23VT49Sq31brIjpXr3fT8bQ&gsessionid=wqeJEtzrkFcCYIrr9BzrLe5td5UUnUmZT2z8Gby7o8nvNmlVGYj_VA"
+          },
+          {
+            "time": "03:00",
+            "title": "Music Radio Creative",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXX2UXfjvfetAn6I9sXQxmcvs86NM3YuqfsjOlikHVZVZ5N0RIvrpvb2xkrBBwHxMAMalldrCNAS5MFRGhzHUiQ5UVNO-VmnklL8CWATMYyItK5E7Pq9mgXirxGhRxw4AwtF0LXURX-vr3R&gsessionid=wqeJEtzrkFcCYIrr9BzrLe5td5UUnUmZT2z8Gby7o8nvNmlVGYj_VA"
+          },
+          {
+            "time": "03:10",
+            "title": "Tool 4 - Riverside.fm",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXX8FXP0Zg5UGXiRbr4wLwYzqiOZWfyjFeekmImdFcjt65pwPuwVB6rRdCJovgi3a-g8WktYJEF0TJYbxjB1h_YqGbFQruQ6BpEaniQjZoxisyPmrcjYvKNKgJQfNIFm7pegYxBigWPTYxx&gsessionid=wqeJEtzrkFcCYIrr9BzrLe5td5UUnUmZT2z8Gby7o8nvNmlVGYj_VA"
+          },
+          {
+            "time": "05:20",
+            "title": "Tool 3 - Adobe Firefly",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXgXZKHMsPYNRtBNFhOc9dJUzUtZcJl4DkrNtC3fYFxdKua-pEVuIXuX0-Eev8QxlCvfbavRGe0yGAr5qttG4S61GRZ2uCXo_mTlQKgiPuPadvtOAlmomvOL1yK5-_tvGBsPCCEu9EKPZY&gsessionid=wqeJEtzrkFcCYIrr9BzrLe5td5UUnUmZT2z8Gby7o8nvNmlVGYj_VA"
+          },
+          {
+            "time": "08:47",
+            "title": "Tool 2 - VEO 3",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXn6UJJ8hOKjxzuWmSkl-c6Y6pJsQhnGZ0jeisHggrIdVRpZezGngYQFJhn3qCTs5FxYKWiYb8X1_2FVI2-0XqG4RfEsgHf6PS81Eoxehf9CnXYTfSeNl6B5GKKS1SVo5fEuTPPVKev0mN&gsessionid=wqeJEtzrkFcCYIrr9BzrLe5td5UUnUmZT2z8Gby7o8nvNmlVGYj_VA"
+          },
+          {
+            "time": "10:17",
+            "title": "Tool 1 - Zapier",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXX1FAOK22GxRo4uKXpBsfmoHFIFVoffVOxZQbZFhxstlPcJVzttAz5tTlSCk7i2YjSxikf16ts_63opKy4C1VOZJxp68aQNoF6MbXA1kc1h5Qtw1bT86dDlenJKsIuTUlBtmCIek2X0ehf&gsessionid=wqeJEtzrkFcCYIrr9BzrLe5td5UUnUmZT2z8Gby7o8nvNmlVGYj_VA"
+          },
+          {
+            "time": "12:58",
+            "title": "Summary",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXX_y_80ioGX_IRdIZodj-pC8JFn1pmLFwRAzzjnYFUKDNCqotU7-PSVqQ8apb17vWe-sO5d-RAPCz3HF9PZbWtKoZyZTTxryaxURL2Z80qKgNLS57tvwKxPwRnAMGqa5epVkYToj6igM4a&gsessionid=wqeJEtzrkFcCYIrr9BzrLe5td5UUnUmZT2z8Gby7o8nvNmlVGYj_VA"
+          }
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "In this video I am showcasing my absolute top 5 AI tools you \u2026 1. Elevenlabs: 3. Adobe Firefly: and audio production elements",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWHBXb0hucEZRRVk2dVk3Y2NBdGlEM0laNUNQV1h1UllUTnBKUlhib1FqdFpLb1BGU1RuRkpmLTlWV2k4b1pXYldxX0hkTWtjekROdUJ6UzE2UWozeHByMWE1eVhxZ3l1ZHBWWEdzR0ZSQUJfYVd1c1JjLWg0QnRQMWtUQzM0TzhhdXNMaxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWHBXb0hucEZRRVk2dVk3Y2NBdGlEM0laNUNQV1h1UllUTnBKUlhib1FqdFpLb1BGU1RuRkpmLTlWV2k4b1pXYldxX0hkTWtjekROdUJ6UzE2UWozeHByMWE1eVhxZ3l1ZHBWWEdzR0ZSQUJfYVd1c1JjLWg0QnRQMWtUQzM0TzhhdXNMaxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSXvuC4lkQI_V7dJ3wmv8dKJOrP92XAEDfJOQ",
+        "source": "YouTube \u00b7 Mike Russell"
+      },
+      {
+        "position": 4,
+        "title": "Free AI Video Generator",
+        "link": "https://www.google.com/goto?url=CAESXwHEIkXX7BOnYcH1ZNmir_8LoYI0cbBRfpM_dYXba0gJGvkcMN0xT5pzUbfoKIRB1kcoPwca_Vxsl3ovhpXLuBfUHigD50TaD2iCGtf7rMSh0sNd80mqEPiDnY8M7mJw",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHEIkXXjv-Ch5kHFthkRyUn-3wkjwIZZN_9kF6R3R7OpZsbjrRHxmgVr6r3DQf6zGYh2YbYKRrJy-J2f9wgSNT8ffPtU94cYEVnBPqseGnd5R6IhJR0GHh6jPui-36h&ved=2ahUKEwi23J2M3JuYAxVRHIYAHVgGF3AQFnoECBQQAQ&uoh=1",
+        "displayed_link": "https://www.veed.io \u203a VEED Tools",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACF0lEQVR4AcVXNWwdQRD9lVP_3eMwMzPWYWZOyjBTGWZO2kDfhLkMm3qZuTMzjHfMcE93ss_ald7HgTeo21iXM0gIcSwej_9RqFCfKUqwTbatPh9lXwqdRwgxWCEVG4gcKeyzM3LgfKBJtGSC065AmnAkpuryVxcB5fs3EyjXSKA8xh90oheBG3kuPSfPF4t2GYEGWQbpX891gwlse2BBA8c-OoEEjn1yoP72B3YwgdEzJT1r9DfwpM6loWMldD5ktKTHtf4ZfNbk0ZjZMpgA4-QPHMWKsyYksPKcCfVOfvfLHiCwZA-u46VEXIZLSZj44t1GeAKGJehmAW7GcfN6p3LsHMlp9pW_VeSSacvwBBhbbuNm3HLH6iW_9S6W33yrUz40gRFTJD1tAOOU45KUnbL8-Wqmf8bYxqjpMoAAHCkbRjVrVWdNZ63GPcNjGbyIABZux1198FXnTB98jYku3Gb2nYA0BF3L9k_t_VKXLE-Q5Qq6X-LCzWeYYVcxwMZruLmW7jdp2QGcpQ1XcfOFJjBsguANiOoL--RpvUfDJ8n-E2Acfuug1QzJsQ7rRkJg3kbc5QhzNxjREeA5v5LuhnZ-JcPhBo6OAGP1JTM0AZYVImICliN53ulxNXb8qMqjAy9ttPcxAZ3Q_VBaqv-xnO9qOi8m7VezFE1Xs4Sul9MUPZfTzpPAKeG6DERjttn8pXCkJfK20wyWcxHqVWHJ7gAAAABJRU5ErkJggg.png",
+        "snippet": "Generate AI videos from text prompts or images in seconds with VEED's free AI video generator. Try the latest AI models for realistic motion and audio.",
+        "snippet_highlighted_words": [
+          "VEED's free AI video generator"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.6,
+              "reviews": 2139
+            },
+            "extensions": [
+              "4.6(2,139)",
+              "Free"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Generate AI videos from text prompts or images in seconds with VEED's free AI video generator. Try the latest AI models for realistic motion and audio.",
+            "source_info_link": "https://www.google.com/goto?url=CAESXwHEIkXX7BOnYcH1ZNmir_8LoYI0cbBRfpM_dYXba0gJGvkcMN0xT5pzUbfoKIRB1kcoPwca_Vxsl3ovhpXLuBfUHigD50TaD2iCGtf7rMSh0sNd80mqEPiDnY8M7mJw",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACF0lEQVR4AcVXNWwdQRD9lVP_3eMwMzPWYWZOyjBTGWZO2kDfhLkMm3qZuTMzjHfMcE93ss_ald7HgTeo21iXM0gIcSwej_9RqFCfKUqwTbatPh9lXwqdRwgxWCEVG4gcKeyzM3LgfKBJtGSC065AmnAkpuryVxcB5fs3EyjXSKA8xh90oheBG3kuPSfPF4t2GYEGWQbpX891gwlse2BBA8c-OoEEjn1yoP72B3YwgdEzJT1r9DfwpM6loWMldD5ktKTHtf4ZfNbk0ZjZMpgA4-QPHMWKsyYksPKcCfVOfvfLHiCwZA-u46VEXIZLSZj44t1GeAKGJehmAW7GcfN6p3LsHMlp9pW_VeSSacvwBBhbbuNm3HLH6iW_9S6W33yrUz40gRFTJD1tAOOU45KUnbL8-Wqmf8bYxqjpMoAAHCkbRjVrVWdNZ63GPcNjGbyIABZux1198FXnTB98jYku3Gb2nYA0BF3L9k_t_VKXLE-Q5Qq6X-LCzWeYYVcxwMZruLmW7jdp2QGcpQ1XcfOFJjBsguANiOoL--RpvUfDJ8n-E2Acfuug1QzJsQ7rRkJg3kbc5QhzNxjREeA5v5LuhnZ-JcPhBo6OAGP1JTM0AZYVImICliN53ulxNXb8qMqjAy9ttPcxAZ3Q_VBaqv-xnO9qOi8m7VezFE1Xs4Sul9MUPZfTzpPAKeG6DERjttn8pXCkJfK20wyWcxHqVWHJ7gAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co4BL2dvdG8_dXJsPUNBRVNYd0hFSWtYWDdCT25ZY0gxWk5taXJfOExvWUkwY2JCUmZwTV9kWVhiYTBnSkd2a2NNTjB4VDVwelViZm9LSVJCMWtjb1B3Y2FfVnhzbDNvdmhwWEx1QmZVSGlnRDUwVGFEMmlDR3RmN3JNU2gwc05kODBtcUVQaURuWThNN21KdxIEGgIIABrKBxICCAEaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQKQHCAAQABgAIAAqKAoEYmVzdBX1rGc_GgRnb29kGghncmVhdGVzdBoDdG9wGgZiZXN0YWkqJwoCYWkVnWvYQBoGYmVzdGFpGgdhaXZpZGVvGgthaXZpZGVvdG9vbCo1CgV2aWRlbxXJu9xAGgZ2aWRlb3MaB2FpdmlkZW8aC2FpdmlkZW90b29sGgl2aWRlb3Rvb2wqLAoEdG9vbBXxEuI-Ggdwcm9ncmFtGgthaXZpZGVvdG9vbBoJdmlkZW90b29sKgoKA2ZvchUAAAAAKiEKA25vbhUAAAAAGgJubxoDbm90Ggxub250ZWNobmljYWwqVQoJdGVjaG5pY2FsFQAAAAAaAml0GgR0ZWNoGg10ZWNobm9sb2dpY2FsGgp0ZWNobm9sb2d5Ggxub250ZWNobmljYWwaEHRlY2huaWNhbGNvbnRlbnQqOwoHY29udGVudBUCN4E_Gghjb250ZW50cxoQdGVjaG5pY2FsY29udGVudBoPY29udGVudGNyZWF0b3JzKjsKCGNyZWF0b3JzFfcMFz8aCGNyZWF0aW9uGgdjcmVhdG9yGgZtYWtlcnMaD2NvbnRlbnRjcmVhdG9ycyoKCgNhbmQVAAAAACpdCghmb3VuZGVycxUAAAAAGgdmb3VuZGVyGglmb3VuZGVyJ3MaCGZvdW5kaW5nGg1pdjtwO2ZvdW5kZXJzGgdjcmVhdG9yGgtpbmZsdWVuY2VycxoJeW91dHViZXJzMo4BL2dvdG8_dXJsPUNBRVNYd0hFSWtYWDdCT25ZY0gxWk5taXJfOExvWUkwY2JCUmZwTV9kWVhiYTBnSkd2a2NNTjB4VDVwelViZm9LSVJCMWtjb1B3Y2FfVnhzbDNvdmhwWEx1QmZVSGlnRDUwVGFEMmlDR3RmN3JNU2gwc05kODBtcUVQaURuWThNN21KdzolRnJlZSA8Yj5BSSBWaWRlbzwvYj4gR2VuZXJhdG9yIC0gVkVFREKiAUdlbmVyYXRlIEFJIHZpZGVvcyBmcm9tIHRleHQgcHJvbXB0cyBvciBpbWFnZXMgaW4gc2Vjb25kcyB3aXRoIDxiPlZFRUQmIzM5O3MgZnJlZSBBSSB2aWRlbyBnZW5lcmF0b3I8L2I-LiBUcnkgdGhlIGxhdGVzdCBBSSBtb2RlbHMgZm9yIHJlYWxpc3RpYyBtb3Rpb24gYW5kIGF1ZGlvLkoDZm9ySgNhbmRSAm5vUgN0b3BSA25vdFICaXQiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co4BL2dvdG8_dXJsPUNBRVNYd0hFSWtYWDdCT25ZY0gxWk5taXJfOExvWUkwY2JCUmZwTV9kWVhiYTBnSkd2a2NNTjB4VDVwelViZm9LSVJCMWtjb1B3Y2FfVnhzbDNvdmhwWEx1QmZVSGlnRDUwVGFEMmlDR3RmN3JNU2gwc05kODBtcUVQaURuWThNN21KdxIEGgIIABrKBxICCAEaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQKQHCAAQABgAIAAqKAoEYmVzdBX1rGc_GgRnb29kGghncmVhdGVzdBoDdG9wGgZiZXN0YWkqJwoCYWkVnWvYQBoGYmVzdGFpGgdhaXZpZGVvGgthaXZpZGVvdG9vbCo1CgV2aWRlbxXJu9xAGgZ2aWRlb3MaB2FpdmlkZW8aC2FpdmlkZW90b29sGgl2aWRlb3Rvb2wqLAoEdG9vbBXxEuI-Ggdwcm9ncmFtGgthaXZpZGVvdG9vbBoJdmlkZW90b29sKgoKA2ZvchUAAAAAKiEKA25vbhUAAAAAGgJubxoDbm90Ggxub250ZWNobmljYWwqVQoJdGVjaG5pY2FsFQAAAAAaAml0GgR0ZWNoGg10ZWNobm9sb2dpY2FsGgp0ZWNobm9sb2d5Ggxub250ZWNobmljYWwaEHRlY2huaWNhbGNvbnRlbnQqOwoHY29udGVudBUCN4E_Gghjb250ZW50cxoQdGVjaG5pY2FsY29udGVudBoPY29udGVudGNyZWF0b3JzKjsKCGNyZWF0b3JzFfcMFz8aCGNyZWF0aW9uGgdjcmVhdG9yGgZtYWtlcnMaD2NvbnRlbnRjcmVhdG9ycyoKCgNhbmQVAAAAACpdCghmb3VuZGVycxUAAAAAGgdmb3VuZGVyGglmb3VuZGVyJ3MaCGZvdW5kaW5nGg1pdjtwO2ZvdW5kZXJzGgdjcmVhdG9yGgtpbmZsdWVuY2VycxoJeW91dHViZXJzMo4BL2dvdG8_dXJsPUNBRVNYd0hFSWtYWDdCT25ZY0gxWk5taXJfOExvWUkwY2JCUmZwTV9kWVhiYTBnSkd2a2NNTjB4VDVwelViZm9LSVJCMWtjb1B3Y2FfVnhzbDNvdmhwWEx1QmZVSGlnRDUwVGFEMmlDR3RmN3JNU2gwc05kODBtcUVQaURuWThNN21KdzolRnJlZSA8Yj5BSSBWaWRlbzwvYj4gR2VuZXJhdG9yIC0gVkVFREKiAUdlbmVyYXRlIEFJIHZpZGVvcyBmcm9tIHRleHQgcHJvbXB0cyBvciBpbWFnZXMgaW4gc2Vjb25kcyB3aXRoIDxiPlZFRUQmIzM5O3MgZnJlZSBBSSB2aWRlbyBnZW5lcmF0b3I8L2I-LiBUcnkgdGhlIGxhdGVzdCBBSSBtb2RlbHMgZm9yIHJlYWxpc3RpYyBtb3Rpb24gYW5kIGF1ZGlvLkoDZm9ySgNhbmRSAm5vUgN0b3BSA25vdFICaXQiAhABSABYAGgA",
+        "source": "VEED"
+      },
+      {
+        "position": 5,
+        "title": "I Tested 9 AI Video Editing Tools to Find the Best",
+        "link": "https://www.google.com/goto?url=CAEScgHEIkXXKdtSxuFjwWQH71Ub3sYg83qT996JbA9IE1bn44nMJV4rQEJaU4AUIRLtIeNxiq8OtTwt__LtXlmLYBNIaMV3eWPy2_RWXmoarKAcnr7dDmsoYbbjH24-6qjHOjC0ekSBdOJ285qPnvAqA3YU3A",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHEIkXXqQUo4r_tI20d4CekGKTW-6wBZluwjPoX65QyEp2qZOfIf_TzX2TC60IRaqiTFoAUy0DIpZRk98E74TsHEwtkaJm2S6dQ9IUssCcclcgma614ibJ-ImGaFXWD521qKVQgFAhSMOjnY_irsOH3Qw&ved=2ahUKEwi23J2M3JuYAxVRHIYAHVgGF3AQFnoECBYQAQ&uoh=1",
+        "displayed_link": "https://ventureharbour.com \u203a AI Automation",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAaCAAAAACBP2NVAAAArklEQVR4AcXSIQyDMBCF4eeDqmrOC-wkCjk37w1qaj5BofBIbOX0FLZqBokjQdVn7o1tSRlpTvObis_0Lgfq8TAch9iTZFjfMeKMrZK8AJgjssVW4yFouSGX8GtZE2vBfwy9--RJdhA8dsgC3yoGiDlzh_FPQ5UJZmVOD0HNBOvGk8yNBVN0QMcegjtTZGkwQUyh7faaCSYFRwhuVPBkLF4aOsBRQ-Y5dfT-8AN7A1dybUcBDNkoAAAAAElFTkSuQmCC.png",
+        "date": "Nov 9, 2026",
+        "snippet": "Best for Non-Technical Users Descript is my daily driver and the only tool I've found that genuinely lets non-technical users edit video as ...",
+        "snippet_highlighted_words": [
+          "Descript"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Best for Non-Technical Users Descript is my daily driver and the only tool I've found that genuinely lets non-technical users edit video as ...",
+            "source_info_link": "https://www.google.com/goto?url=CAEScgHEIkXXKdtSxuFjwWQH71Ub3sYg83qT996JbA9IE1bn44nMJV4rQEJaU4AUIRLtIeNxiq8OtTwt__LtXlmLYBNIaMV3eWPy2_RWXmoarKAcnr7dDmsoYbbjH24-6qjHOjC0ekSBdOJ285qPnvAqA3YU3A",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAaCAAAAACBP2NVAAAArklEQVR4AcXSIQyDMBCF4eeDqmrOC-wkCjk37w1qaj5BofBIbOX0FLZqBokjQdVn7o1tSRlpTvObis_0Lgfq8TAch9iTZFjfMeKMrZK8AJgjssVW4yFouSGX8GtZE2vBfwy9--RJdhA8dsgC3yoGiDlzh_FPQ5UJZmVOD0HNBOvGk8yNBVN0QMcegjtTZGkwQUyh7faaCSYFRwhuVPBkLF4aOsBRQ-Y5dfT-8AN7A1dybUcBDNkoAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqgBL2dvdG8_dXJsPUNBRVNjZ0hFSWtYWEtkdFN4dUZqd1dRSDcxVWIzc1lnODNxVDk5NkpiQTlJRTFibjQ0bk1KVjRyUUVKYVU0QVVJUkx0SWVOeGlxOE90VHd0X19MdFhsbUxZQk5JYU1WM2VXUHkyX1JXWG1vYXJLQWNucjdkRG1zb1liYmpIMjQtNnFqSE9qQzBla1NCZE9KMjg1cVBudkFxQTNZVTNBEgQaAggAGvwHEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA1gcIABAAGAAgACooCgRiZXN0FTUnCEAaBGdvb2QaCGdyZWF0ZXN0GgN0b3AaBmJlc3RhaSonCgJhaRUDbV9AGgZiZXN0YWkaB2FpdmlkZW8aC2FpdmlkZW90b29sKjUKBXZpZGVvFcBVKEAaBnZpZGVvcxoHYWl2aWRlbxoLYWl2aWRlb3Rvb2waCXZpZGVvdG9vbCosCgR0b29sFdpVMT8aB3Byb2dyYW0aC2FpdmlkZW90b29sGgl2aWRlb3Rvb2wqCgoDZm9yFQAAAAAqIQoDbm9uFQqIaT8aAm5vGgNub3QaDG5vbnRlY2huaWNhbCpVCgl0ZWNobmljYWwVkOB6PxoCaXQaBHRlY2gaDXRlY2hub2xvZ2ljYWwaCnRlY2hub2xvZ3kaDG5vbnRlY2huaWNhbBoQdGVjaG5pY2FsY29udGVudCo7Cgdjb250ZW50FW1LpD8aCGNvbnRlbnRzGhB0ZWNobmljYWxjb250ZW50Gg9jb250ZW50Y3JlYXRvcnMqOwoIY3JlYXRvcnMVA4pmPxoIY3JlYXRpb24aB2NyZWF0b3IaBm1ha2VycxoPY29udGVudGNyZWF0b3JzKgoKA2FuZBUAAAAAKl0KCGZvdW5kZXJzFQAAAAAaB2ZvdW5kZXIaCWZvdW5kZXIncxoIZm91bmRpbmcaDWl2O3A7Zm91bmRlcnMaB2NyZWF0b3IaC2luZmx1ZW5jZXJzGgl5b3V0dWJlcnMyqAEvZ290bz91cmw9Q0FFU2NnSEVJa1hYS2R0U3h1Rmp3V1FINzFVYjNzWWc4M3FUOTk2SmJBOUlFMWJuNDRuTUpWNHJRRUphVTRBVUlSTHRJZU54aXE4T3RUd3RfX0x0WGxtTFlCTklhTVYzZVdQeTJfUldYbW9hcktBY25yN2REbXNvWWJiakgyNC02cWpIT2pDMGVrU0JkT0oyODVxUG52QXFBM1lVM0E6QEkgVGVzdGVkIDkgPGI-QUkgVmlkZW88L2I-IEVkaXRpbmcgVG9vbHMgdG8gRmluZCB0aGUgPGI-QmVzdDwvYj5CnwFCZXN0IGZvciBOb24tVGVjaG5pY2FsIFVzZXJzIDxiPkRlc2NyaXB0PC9iPiBpcyBteSBkYWlseSBkcml2ZXIgYW5kIHRoZSBvbmx5IHRvb2wgSSYjMzk7dmUgZm91bmQgdGhhdCBnZW51aW5lbHkgbGV0cyBub24tdGVjaG5pY2FsIHVzZXJzIGVkaXQgdmlkZW8gYXMmbmJzcDsuLi5KA2FuZEoDZm9yUgJpdFIDbm90UgN0b3BSAm5vIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqgBL2dvdG8_dXJsPUNBRVNjZ0hFSWtYWEtkdFN4dUZqd1dRSDcxVWIzc1lnODNxVDk5NkpiQTlJRTFibjQ0bk1KVjRyUUVKYVU0QVVJUkx0SWVOeGlxOE90VHd0X19MdFhsbUxZQk5JYU1WM2VXUHkyX1JXWG1vYXJLQWNucjdkRG1zb1liYmpIMjQtNnFqSE9qQzBla1NCZE9KMjg1cVBudkFxQTNZVTNBEgQaAggAGvwHEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA1gcIABAAGAAgACooCgRiZXN0FTUnCEAaBGdvb2QaCGdyZWF0ZXN0GgN0b3AaBmJlc3RhaSonCgJhaRUDbV9AGgZiZXN0YWkaB2FpdmlkZW8aC2FpdmlkZW90b29sKjUKBXZpZGVvFcBVKEAaBnZpZGVvcxoHYWl2aWRlbxoLYWl2aWRlb3Rvb2waCXZpZGVvdG9vbCosCgR0b29sFdpVMT8aB3Byb2dyYW0aC2FpdmlkZW90b29sGgl2aWRlb3Rvb2wqCgoDZm9yFQAAAAAqIQoDbm9uFQqIaT8aAm5vGgNub3QaDG5vbnRlY2huaWNhbCpVCgl0ZWNobmljYWwVkOB6PxoCaXQaBHRlY2gaDXRlY2hub2xvZ2ljYWwaCnRlY2hub2xvZ3kaDG5vbnRlY2huaWNhbBoQdGVjaG5pY2FsY29udGVudCo7Cgdjb250ZW50FW1LpD8aCGNvbnRlbnRzGhB0ZWNobmljYWxjb250ZW50Gg9jb250ZW50Y3JlYXRvcnMqOwoIY3JlYXRvcnMVA4pmPxoIY3JlYXRpb24aB2NyZWF0b3IaBm1ha2VycxoPY29udGVudGNyZWF0b3JzKgoKA2FuZBUAAAAAKl0KCGZvdW5kZXJzFQAAAAAaB2ZvdW5kZXIaCWZvdW5kZXIncxoIZm91bmRpbmcaDWl2O3A7Zm91bmRlcnMaB2NyZWF0b3IaC2luZmx1ZW5jZXJzGgl5b3V0dWJlcnMyqAEvZ290bz91cmw9Q0FFU2NnSEVJa1hYS2R0U3h1Rmp3V1FINzFVYjNzWWc4M3FUOTk2SmJBOUlFMWJuNDRuTUpWNHJRRUphVTRBVUlSTHRJZU54aXE4T3RUd3RfX0x0WGxtTFlCTklhTVYzZVdQeTJfUldYbW9hcktBY25yN2REbXNvWWJiakgyNC02cWpIT2pDMGVrU0JkT0oyODVxUG52QXFBM1lVM0E6QEkgVGVzdGVkIDkgPGI-QUkgVmlkZW88L2I-IEVkaXRpbmcgVG9vbHMgdG8gRmluZCB0aGUgPGI-QmVzdDwvYj5CnwFCZXN0IGZvciBOb24tVGVjaG5pY2FsIFVzZXJzIDxiPkRlc2NyaXB0PC9iPiBpcyBteSBkYWlseSBkcml2ZXIgYW5kIHRoZSBvbmx5IHRvb2wgSSYjMzk7dmUgZm91bmQgdGhhdCBnZW51aW5lbHkgbGV0cyBub24tdGVjaG5pY2FsIHVzZXJzIGVkaXQgdmlkZW8gYXMmbmJzcDsuLi5KA2FuZEoDZm9yUgJpdFIDbm90UgN0b3BSAm5vIgIQAUgAWABoAA",
+        "source": "Venture Harbour"
+      },
+      {
+        "position": 6,
+        "title": "Pictory: Your AI Video Agent and AI Video Generator",
+        "link": "https://www.google.com/goto?url=CAESUAHEIkXXncAkPESWzUJ0XbtMxtcKw5Qcs1Ns3qttqWsIekSWCjjbGYexEFE1OWCk2cECvr2XTqgRi_H0_Gfz_OH0HhH_UzCF1dWTG5DlqDMQ",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUAHEIkXX2q-1kDQp5tIemDzNOPvna6AUR7hUGBeEddokF1yyFeFMWBJ74voPFmVgSwLp71BbntTjgWokHFoNAxjbcLa--iFamMPZs-Ld3OBu&ved=2ahUKEwi23J2M3JuYAxVRHIYAHVgGF3AQFnoECBUQAQ&uoh=1",
+        "displayed_link": "https://pictory.ai",
+        "favicon": "https://serpapi.com/searches/6b02f31279ac9a2e9e779249/images/56Zekurxw6i2kCSusNa0k5JKKl5ZPN8UGsqI_3cF8_8.png",
+        "snippet": "Pictory is an AI video generator that removes the hardest parts of video creation. No cameras, no filming, no timelines, no learning curve.",
+        "snippet_highlighted_words": [
+          "Pictory"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Pictory is an AI video generator that removes the hardest parts of video creation. No cameras, no filming, no timelines, no learning curve.",
+            "source_info_link": "https://www.google.com/goto?url=CAESUAHEIkXXncAkPESWzUJ0XbtMxtcKw5Qcs1Ns3qttqWsIekSWCjjbGYexEFE1OWCk2cECvr2XTqgRi_H0_Gfz_OH0HhH_UzCF1dWTG5DlqDMQ",
+            "icon": "https://serpapi.com/searches/6b02f31279ac9a2e9e779249/images/56Zekurxw6i2kCSusNa0kwOszixm-kdTAZB4t4hJniDZMgKKz7jcs0BiJhI5bAwD.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CnovZ290bz91cmw9Q0FFU1VBSEVJa1hYbmNBa1BFU1d6VUowWGJ0TXh0Y0t3NVFjczFOczNxdHRxV3NJZWtTV0NqamJHWWV4RUZFMU9XQ2syY0VDdnIyWFRxZ1JpX0gwX0dmel9PSDBIaEhfVXpDRjFkV1RHNURscURNURIEGgIIABrBBxICCAEaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQJsHCAAQABgAIAAqKAoEYmVzdBX3y_E-GgRnb29kGghncmVhdGVzdBoDdG9wGgZiZXN0YWkqJwoCYWkV2xO7QBoGYmVzdGFpGgdhaXZpZGVvGgthaXZpZGVvdG9vbCo1CgV2aWRlbxW3IcJAGgZ2aWRlb3MaB2FpdmlkZW8aC2FpdmlkZW90b29sGgl2aWRlb3Rvb2wqLAoEdG9vbBUFd-g-Ggdwcm9ncmFtGgthaXZpZGVvdG9vbBoJdmlkZW90b29sKgoKA2ZvchUAAAAAKiEKA25vbhUAAAAAGgJubxoDbm90Ggxub250ZWNobmljYWwqVQoJdGVjaG5pY2FsFQAAAAAaAml0GgR0ZWNoGg10ZWNobm9sb2dpY2FsGgp0ZWNobm9sb2d5Ggxub250ZWNobmljYWwaEHRlY2huaWNhbGNvbnRlbnQqOwoHY29udGVudBWUi5s_Gghjb250ZW50cxoQdGVjaG5pY2FsY29udGVudBoPY29udGVudGNyZWF0b3JzKjsKCGNyZWF0b3JzFeBDgD8aCGNyZWF0aW9uGgdjcmVhdG9yGgZtYWtlcnMaD2NvbnRlbnRjcmVhdG9ycyoKCgNhbmQVAAAAACpdCghmb3VuZGVycxUAAAAAGgdmb3VuZGVyGglmb3VuZGVyJ3MaCGZvdW5kaW5nGg1pdjtwO2ZvdW5kZXJzGgdjcmVhdG9yGgtpbmZsdWVuY2VycxoJeW91dHViZXJzMnovZ290bz91cmw9Q0FFU1VBSEVJa1hYbmNBa1BFU1d6VUowWGJ0TXh0Y0t3NVFjczFOczNxdHRxV3NJZWtTV0NqamJHWWV4RUZFMU9XQ2syY0VDdnIyWFRxZ1JpX0gwX0dmel9PSDBIaEhfVXpDRjFkV1RHNURscURNUTpBUGljdG9yeTogWW91ciA8Yj5BSSBWaWRlbzwvYj4gQWdlbnQgYW5kIDxiPkFJIFZpZGVvPC9iPiBHZW5lcmF0b3JCkgE8Yj5QaWN0b3J5PC9iPiBpcyBhbiBBSSB2aWRlbyBnZW5lcmF0b3IgdGhhdCByZW1vdmVzIHRoZSBoYXJkZXN0IHBhcnRzIG9mIHZpZGVvIGNyZWF0aW9uLiBObyBjYW1lcmFzLCBubyBmaWxtaW5nLCBubyB0aW1lbGluZXMsIG5vIGxlYXJuaW5nIGN1cnZlLkoDZm9ySgNhbmRSA25vdFIDdG9wUgJub1ICaXQiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CnovZ290bz91cmw9Q0FFU1VBSEVJa1hYbmNBa1BFU1d6VUowWGJ0TXh0Y0t3NVFjczFOczNxdHRxV3NJZWtTV0NqamJHWWV4RUZFMU9XQ2syY0VDdnIyWFRxZ1JpX0gwX0dmel9PSDBIaEhfVXpDRjFkV1RHNURscURNURIEGgIIABrBBxICCAEaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQJsHCAAQABgAIAAqKAoEYmVzdBX3y_E-GgRnb29kGghncmVhdGVzdBoDdG9wGgZiZXN0YWkqJwoCYWkV2xO7QBoGYmVzdGFpGgdhaXZpZGVvGgthaXZpZGVvdG9vbCo1CgV2aWRlbxW3IcJAGgZ2aWRlb3MaB2FpdmlkZW8aC2FpdmlkZW90b29sGgl2aWRlb3Rvb2wqLAoEdG9vbBUFd-g-Ggdwcm9ncmFtGgthaXZpZGVvdG9vbBoJdmlkZW90b29sKgoKA2ZvchUAAAAAKiEKA25vbhUAAAAAGgJubxoDbm90Ggxub250ZWNobmljYWwqVQoJdGVjaG5pY2FsFQAAAAAaAml0GgR0ZWNoGg10ZWNobm9sb2dpY2FsGgp0ZWNobm9sb2d5Ggxub250ZWNobmljYWwaEHRlY2huaWNhbGNvbnRlbnQqOwoHY29udGVudBWUi5s_Gghjb250ZW50cxoQdGVjaG5pY2FsY29udGVudBoPY29udGVudGNyZWF0b3JzKjsKCGNyZWF0b3JzFeBDgD8aCGNyZWF0aW9uGgdjcmVhdG9yGgZtYWtlcnMaD2NvbnRlbnRjcmVhdG9ycyoKCgNhbmQVAAAAACpdCghmb3VuZGVycxUAAAAAGgdmb3VuZGVyGglmb3VuZGVyJ3MaCGZvdW5kaW5nGg1pdjtwO2ZvdW5kZXJzGgdjcmVhdG9yGgtpbmZsdWVuY2VycxoJeW91dHViZXJzMnovZ290bz91cmw9Q0FFU1VBSEVJa1hYbmNBa1BFU1d6VUowWGJ0TXh0Y0t3NVFjczFOczNxdHRxV3NJZWtTV0NqamJHWWV4RUZFMU9XQ2syY0VDdnIyWFRxZ1JpX0gwX0dmel9PSDBIaEhfVXpDRjFkV1RHNURscURNUTpBUGljdG9yeTogWW91ciA8Yj5BSSBWaWRlbzwvYj4gQWdlbnQgYW5kIDxiPkFJIFZpZGVvPC9iPiBHZW5lcmF0b3JCkgE8Yj5QaWN0b3J5PC9iPiBpcyBhbiBBSSB2aWRlbyBnZW5lcmF0b3IgdGhhdCByZW1vdmVzIHRoZSBoYXJkZXN0IHBhcnRzIG9mIHZpZGVvIGNyZWF0aW9uLiBObyBjYW1lcmFzLCBubyBmaWxtaW5nLCBubyB0aW1lbGluZXMsIG5vIGxlYXJuaW5nIGN1cnZlLkoDZm9ySgNhbmRSA25vdFIDdG9wUgJub1ICaXQiAhABSABYAGgA",
+        "source": "Pictory.ai"
+      },
+      {
+        "position": 7,
+        "title": "10 Best AI Tools for Content Creators in 2026 (No AI Slop)",
+        "link": "https://www.google.com/goto?url=CAESdgHEIkXXhWZ32T-sALb1j2H-XEVP6jIm-2pyyX7xMWHFPQfKWD7ovgyfbW5glhCYZ0ZY4NZDqD04UBSZdJe_FVQ-uLBghme5C4HsjnlfsPCFbAv1b_IKf-FlmzSNTiV1FWvPZwgKJpcLW0HU61LHANlXGg6dADk",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHEIkXX3BgRpotJFg1NVJU6T3189POA6IpHDW2ZTGDubNIG3nLCOCmLOng0420pKuFtTQjAeFnlITjDEW09e5-FIUElB0nJItx4lMy8UWMxd3nOnt22p3r9D62RxuPnBJmk3pNCJDk6Vga06hweihGorY-POeU&ved=2ahUKEwi23J2M3JuYAxVRHIYAHVgGF3AQFnoECCAQAQ&uoh=1",
+        "displayed_link": "https://ryandoser.com \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX____q6-zM0NLb3d8AACkAFTUAGDcAFzcADzIACy5OYG3Bxsnx8vMADTMAMEcALEQAL0YAMEUAKEI4T18ADzMySlsoRFYAITkePlD29_d4g4ygqK8AHToAIj0_VWEALkeDjpXk5eZqeIKqsbcAFzNue4NZanYAADDQ1NYAHzmTnKO3vMCZCxwUAAABF0lEQVR4Aa2QV5bDIAxFlYJDCpJMiYPTe9v__sbKHDwcfif3B6RLffAvBsM_RqUcq6pj8kFPZ_PcLQwidWAHU22VG2TS1-hCWGqLvHS-YTLDTPJKxthWjBDXG6rNqJdapNDabQsQd1tqYrGzm6l9I2Og7SFJkyQE1otuOBr2sdgpW_xAxpPdnEsZL2xAmG_sqZRXSzcQYv_GdOfitMH7Az5ofiZZc9M0F23RHyBJ6hOqmfeI9Ta5gSKXJO6V1hOkZcrl_LRtllCMI43VC35xNJlnsuP1ZD0A4a3YlvGt2M5kHFWszmV8D4P6LQns7Q5KCe2WaT7TTFKXMlreP4k3IZZSeHumjXpBxtjYND1Vu3WEnHg8wpf5AUNIFj9hnduLAAAAAElFTkSuQmCC.png",
+        "date": "Oct 30, 2026",
+        "snippet": "This list is quick answer from the tools I have used: Blotato for repurposing and scheduling, Opus Clip for short clips, and Blaze or Poppy for ...",
+        "snippet_highlighted_words": [
+          "Blotato for repurposing and scheduling"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "This list is quick answer from the tools I have used: Blotato for repurposing and scheduling, Opus Clip for short clips, and Blaze or Poppy for ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESdgHEIkXXhWZ32T-sALb1j2H-XEVP6jIm-2pyyX7xMWHFPQfKWD7ovgyfbW5glhCYZ0ZY4NZDqD04UBSZdJe_FVQ-uLBghme5C4HsjnlfsPCFbAv1b_IKf-FlmzSNTiV1FWvPZwgKJpcLW0HU61LHANlXGg6dADk",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX____q6-zM0NLb3d8AACkAFTUAGDcAFzcADzIACy5OYG3Bxsnx8vMADTMAMEcALEQAL0YAMEUAKEI4T18ADzMySlsoRFYAITkePlD29_d4g4ygqK8AHToAIj0_VWEALkeDjpXk5eZqeIKqsbcAFzNue4NZanYAADDQ1NYAHzmTnKO3vMCZCxwUAAABF0lEQVR4Aa2QV5bDIAxFlYJDCpJMiYPTe9v__sbKHDwcfif3B6RLffAvBsM_RqUcq6pj8kFPZ_PcLQwidWAHU22VG2TS1-hCWGqLvHS-YTLDTPJKxthWjBDXG6rNqJdapNDabQsQd1tqYrGzm6l9I2Og7SFJkyQE1otuOBr2sdgpW_xAxpPdnEsZL2xAmG_sqZRXSzcQYv_GdOfitMH7Az5ofiZZc9M0F23RHyBJ6hOqmfeI9Ta5gSKXJO6V1hOkZcrl_LRtllCMI43VC35xNJlnsuP1ZD0A4a3YlvGt2M5kHFWszmV8D4P6LQns7Q5KCe2WaT7TTFKXMlreP4k3IZZSeHumjXpBxtjYND1Vu3WEnHg8wpf5AUNIFj9hnduLAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hFSWtYWGhXWjMyVC1zQUxiMWoySC1YRVZQNmpJbS0ycHl5WDd4TVdIRlBRZktXRDdvdmd5ZmJXNWdsaENZWjBaWTROWkRxRDA0VUJTWmRKZV9GVlEtdUxCZ2htZTVDNEhzam5sZnNQQ0ZiQXYxYl9JS2YtRmxtelNOVGlWMUZXdlBad2dLSnBjTFcwSFU2MUxIQU5sWEdnNmRBRGsSBBoCCAAakAgSAggAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDqBwgAEAAYACAAKigKBGJlc3QVik7QQBoEZ29vZBoIZ3JlYXRlc3QaA3RvcBoGYmVzdGFpKicKAmFpFbm9B0EaBmJlc3RhaRoHYWl2aWRlbxoLYWl2aWRlb3Rvb2wqNQoFdmlkZW8VOUJ6QBoGdmlkZW9zGgdhaXZpZGVvGgthaXZpZGVvdG9vbBoJdmlkZW90b29sKiwKBHRvb2wVUqU2QBoHcHJvZ3JhbRoLYWl2aWRlb3Rvb2waCXZpZGVvdG9vbCoKCgNmb3IVAAAAACohCgNub24VAAAAABoCbm8aA25vdBoMbm9udGVjaG5pY2FsKlUKCXRlY2huaWNhbBUAAAAAGgJpdBoEdGVjaBoNdGVjaG5vbG9naWNhbBoKdGVjaG5vbG9neRoMbm9udGVjaG5pY2FsGhB0ZWNobmljYWxjb250ZW50KjsKB2NvbnRlbnQVGAHuQBoIY29udGVudHMaEHRlY2huaWNhbGNvbnRlbnQaD2NvbnRlbnRjcmVhdG9ycyo7CghjcmVhdG9ycxXIH9tAGghjcmVhdGlvbhoHY3JlYXRvchoGbWFrZXJzGg9jb250ZW50Y3JlYXRvcnMqCgoDYW5kFQAAAAAqXQoIZm91bmRlcnMV-pyrPRoHZm91bmRlchoJZm91bmRlcidzGghmb3VuZGluZxoNaXY7cDtmb3VuZGVycxoHY3JlYXRvchoLaW5mbHVlbmNlcnMaCXlvdXR1YmVyczKtAS9nb3RvP3VybD1DQUVTZGdIRUlrWFhoV1ozMlQtc0FMYjFqMkgtWEVWUDZqSW0tMnB5eVg3eE1XSEZQUWZLV0Q3b3ZneWZiVzVnbGhDWVowWlk0TlpEcUQwNFVCU1pkSmVfRlZRLXVMQmdobWU1QzRIc2pubGZzUENGYkF2MWJfSUtmLUZsbXpTTlRpVjFGV3ZQWndnS0pwY0xXMEhVNjFMSEFObFhHZzZkQURrOk8xMCA8Yj5CZXN0IEFJPC9iPiBUb29scyBmb3IgPGI-Q29udGVudCBDcmVhdG9yczwvYj4gaW4gMjAyNiAoPGI-Tm8gQUk8L2I-IFNsb3ApQp8BVGhpcyBsaXN0IGlzIHF1aWNrIGFuc3dlciBmcm9tIHRoZSB0b29scyBJIGhhdmUgdXNlZDogPGI-QmxvdGF0byBmb3IgcmVwdXJwb3NpbmcgYW5kIHNjaGVkdWxpbmc8L2I-LCBPcHVzIENsaXAgZm9yIHNob3J0IGNsaXBzLCBhbmQgQmxhemUgb3IgUG9wcHkgZm9yJm5ic3A7Li4uSgNmb3JKA2FuZFICaXRSAm5vUgN0b3BSA25vdCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hFSWtYWGhXWjMyVC1zQUxiMWoySC1YRVZQNmpJbS0ycHl5WDd4TVdIRlBRZktXRDdvdmd5ZmJXNWdsaENZWjBaWTROWkRxRDA0VUJTWmRKZV9GVlEtdUxCZ2htZTVDNEhzam5sZnNQQ0ZiQXYxYl9JS2YtRmxtelNOVGlWMUZXdlBad2dLSnBjTFcwSFU2MUxIQU5sWEdnNmRBRGsSBBoCCAAakAgSAggAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDqBwgAEAAYACAAKigKBGJlc3QVik7QQBoEZ29vZBoIZ3JlYXRlc3QaA3RvcBoGYmVzdGFpKicKAmFpFbm9B0EaBmJlc3RhaRoHYWl2aWRlbxoLYWl2aWRlb3Rvb2wqNQoFdmlkZW8VOUJ6QBoGdmlkZW9zGgdhaXZpZGVvGgthaXZpZGVvdG9vbBoJdmlkZW90b29sKiwKBHRvb2wVUqU2QBoHcHJvZ3JhbRoLYWl2aWRlb3Rvb2waCXZpZGVvdG9vbCoKCgNmb3IVAAAAACohCgNub24VAAAAABoCbm8aA25vdBoMbm9udGVjaG5pY2FsKlUKCXRlY2huaWNhbBUAAAAAGgJpdBoEdGVjaBoNdGVjaG5vbG9naWNhbBoKdGVjaG5vbG9neRoMbm9udGVjaG5pY2FsGhB0ZWNobmljYWxjb250ZW50KjsKB2NvbnRlbnQVGAHuQBoIY29udGVudHMaEHRlY2huaWNhbGNvbnRlbnQaD2NvbnRlbnRjcmVhdG9ycyo7CghjcmVhdG9ycxXIH9tAGghjcmVhdGlvbhoHY3JlYXRvchoGbWFrZXJzGg9jb250ZW50Y3JlYXRvcnMqCgoDYW5kFQAAAAAqXQoIZm91bmRlcnMV-pyrPRoHZm91bmRlchoJZm91bmRlcidzGghmb3VuZGluZxoNaXY7cDtmb3VuZGVycxoHY3JlYXRvchoLaW5mbHVlbmNlcnMaCXlvdXR1YmVyczKtAS9nb3RvP3VybD1DQUVTZGdIRUlrWFhoV1ozMlQtc0FMYjFqMkgtWEVWUDZqSW0tMnB5eVg3eE1XSEZQUWZLV0Q3b3ZneWZiVzVnbGhDWVowWlk0TlpEcUQwNFVCU1pkSmVfRlZRLXVMQmdobWU1QzRIc2pubGZzUENGYkF2MWJfSUtmLUZsbXpTTlRpVjFGV3ZQWndnS0pwY0xXMEhVNjFMSEFObFhHZzZkQURrOk8xMCA8Yj5CZXN0IEFJPC9iPiBUb29scyBmb3IgPGI-Q29udGVudCBDcmVhdG9yczwvYj4gaW4gMjAyNiAoPGI-Tm8gQUk8L2I-IFNsb3ApQp8BVGhpcyBsaXN0IGlzIHF1aWNrIGFuc3dlciBmcm9tIHRoZSB0b29scyBJIGhhdmUgdXNlZDogPGI-QmxvdGF0byBmb3IgcmVwdXJwb3NpbmcgYW5kIHNjaGVkdWxpbmc8L2I-LCBPcHVzIENsaXAgZm9yIHNob3J0IGNsaXBzLCBhbmQgQmxhemUgb3IgUG9wcHkgZm9yJm5ic3A7Li4uSgNmb3JKA2FuZFICaXRSAm5vUgN0b3BSA25vdCICEAFIAFgAaAA",
+        "source": "Ryan Doser"
+      },
+      {
+        "position": 8,
+        "title": "15 Free AI Tools For Content Creation",
+        "link": "https://www.google.com/goto?url=CAESeAHEIkXXHIZAL4TakTmxLe1Ge2dbTu9bvuADg8WUDXmUIm6OLN0hAJRWxRTkMSXSPK1B-pQ8xU3ahnLHpFI3o4XvTE24uj82g1RoNx_-vnD2B_j5ESBzf_Rw4It60pMtv7GO914syVj9hMU1cahMNNDOSWor1czwGA",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHEIkXX-7BE8vrJkk8mjrQqlET5MyUG3OsSPiA9r_uz6D2jnqDWtplW3_P-5sPVuybb1w8fLZn4Tn3dEv_ccV0QVVYuW6Lnp4rrw36A88nVHok_EYDqJL1JsoIHQTJMGGasQ7y3Mhf-mc8xSMYIVA0HE7jDtdr5QQ&ved=2ahUKEwi23J2M3JuYAxVRHIYAHVgGF3AQFnoECCUQAQ&uoh=1",
+        "displayed_link": "https://www.gwi.com \u203a blog \u203a free-ai-tools-for-content-...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEz_AHf_AHf_AHf_AHf_AHf_AHf_AHf_AHf_AHf_AHf_AHP_AHf_AHfxQkqiAAAADXRSTlMAxSWtloQQ2kBf8ARykJmH1gAAAJ5JREFUKJG1kesOBBEMhbUYxfT9X3fttjVLkOyPPQnRfHpxOPdvYfTh2jDgt9Y0fBj7JUwC-VB1Uzf2zHp7uEeYrSctestA0VWtgFNioXYghdHI5Z9ZkMc3aZwkUhgUSh6XwQ3raU_EJ4Q-j97lVFt7lNVlAzZc2kajAYkHTd6FBDFbdc4ne9ffphCWECbnvlXxkNiM9BBow1zdgV_1AteLCqbovfgSAAAAAElFTkSuQmCC.png",
+        "date": "Jun 18, 2025",
+        "snippet": "Top 15 free AI tools for content creation \u00b7 1. GWI Spark - For data-driven consumer insights \u00b7 2. Copy.ai - For fast, versatile copywriting \u00b7 3.",
+        "snippet_highlighted_words": [
+          "1. GWI Spark"
+        ],
+        "sitelinks": {
+          "inline": [
+            {
+              "title": "Get Fresh Insights",
+              "link": "https://www.google.com/goto?url=CAESoAEBxCJF1xPDfDgYW9TBbe4FCJDtazi9J8kXX4-gDPM0CmA0hRJBCpca2epbH0QoIG2_6rnvM9F0rWvS10rEcjlJ3p5mb0AL3HdDT8S2wHE-tCMlvHye6247XxlJ-psgnqLV5hniHwBJtVnSolEGkIbt34T1kvHY5gZoKiIRCiOET2NPo7IOTK4WBMnAATqMdpEl3ln3gx15IFJFJPacaLtr&gsessionid=wqeJEtzrkFcCYIrr9BzrLe5td5UUnUmZT2z8Gby7o8nvNmlVGYj_VA"
+            },
+            {
+              "title": "Why Ai Tools Are Changing...",
+              "link": "https://www.google.com/goto?url=CAES1wEBxCJF1_OLyo3TRNC8F0yLvjTRTqZDj0HSb8t-x96C2hbbfsovlsHoskwKhLRURl-4FwQyALHzLohMrkd-Mx6kuqgPR6KXuG7ii37KUXoiotR4UqzN689UlPCz472pQlXEz710WZjY-tox0OlhKRK5oag8EDaFxHLyKN5HT-_v7k3HbFm6oeSKte0m0PMHr9rJ3ypB4E9tZ6sjmVbY2Cxu_gEFe9NK4mHy8pqaF5omQeINZUnVG5UaQgCKNYYLMDhXw9IEZFrc2Y8y4BlOgRpTL0xLRTwCqw&gsessionid=wqeJEtzrkFcCYIrr9BzrLe5td5UUnUmZT2z8Gby7o8nvNmlVGYj_VA"
+            },
+            {
+              "title": "Top 15 Free Ai Tools For...",
+              "link": "https://www.google.com/goto?url=CAES2wEBxCJF13KIlRd6Q6fbyCReAuDeJ4bPnRmBsLA1C_gCdKfdLPoRe3wMwOTgjOSPP9CatznJ9B8rV1QyyxKxWAAD4paAESyDCYr_UN74sURedEBr0Tkzyf5qurqmwlPWCUaqSTfLloYv6d3PnCGZY6RFC59z3MRRLUGsiHZJYRdiYlbAajGKimGh7FECH77nctI01O03C1ErSPBy5tbTIgSG-9_zwgB4UGd2CVIzno6RnJnpLTM7Tyk8bEHGhd4X3qKm9Dyr4GDPF7b-cbsl7wYPpgddvQ_uHnO1uOE&gsessionid=wqeJEtzrkFcCYIrr9BzrLe5td5UUnUmZT2z8Gby7o8nvNmlVGYj_VA"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Top 15 free AI tools for content creation \u00b7 1. GWI Spark - For data-driven consumer insights \u00b7 2. Copy.ai - For fast, versatile copywriting \u00b7 3.",
+            "source_info_link": "https://www.google.com/goto?url=CAESeAHEIkXXHIZAL4TakTmxLe1Ge2dbTu9bvuADg8WUDXmUIm6OLN0hAJRWxRTkMSXSPK1B-pQ8xU3ahnLHpFI3o4XvTE24uj82g1RoNx_-vnD2B_j5ESBzf_Rw4It60pMtv7GO914syVj9hMU1cahMNNDOSWor1czwGA",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEz_AHf_AHf_AHf_AHf_AHf_AHf_AHf_AHf_AHf_AHf_AHP_AHf_AHfxQkqiAAAADXRSTlMAxSWtloQQ2kBf8ARykJmH1gAAAJ5JREFUKJG1kesOBBEMhbUYxfT9X3fttjVLkOyPPQnRfHpxOPdvYfTh2jDgt9Y0fBj7JUwC-VB1Uzf2zHp7uEeYrSctestA0VWtgFNioXYghdHI5Z9ZkMc3aZwkUhgUSh6XwQ3raU_EJ4Q-j97lVFt7lNVlAzZc2kajAYkHTd6FBDFbdc4ne9ffphCWECbnvlXxkNiM9BBow1zdgV_1AteLCqbovfgSAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhFSWtYWEhJWkFMNFRha1RteExlMUdlMmRiVHU5YnZ1QURnOFdVRFhtVUltNk9MTjBoQUpSV3hSVGtNU1hTUEsxQi1wUTh4VTNhaG5MSHBGSTNvNFh2VEUyNHVqODJnMVJvTnhfLXZuRDJCX2o1RVNCemZfUnc0SXQ2MHBNdHY3R085MTRzeVZqOWhNVTFjYWhNTk5ET1NXb3IxY3p3R0ESBBoCCAAajAgSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAggBegCCQOQHCAAQABgAIAAqKAoEYmVzdBVqTsY-GgRnb29kGghncmVhdGVzdBoDdG9wGgZiZXN0YWkqJwoCYWkVxvWVQBoGYmVzdGFpGgdhaXZpZGVvGgthaXZpZGVvdG9vbCo1CgV2aWRlbxVSb8U-GgZ2aWRlb3MaB2FpdmlkZW8aC2FpdmlkZW90b29sGgl2aWRlb3Rvb2wqLAoEdG9vbBVI1xw_Ggdwcm9ncmFtGgthaXZpZGVvdG9vbBoJdmlkZW90b29sKgoKA2ZvchUAAAAAKiEKA25vbhXMpKI-GgJubxoDbm90Ggxub250ZWNobmljYWwqVQoJdGVjaG5pY2FsFQAAAAAaAml0GgR0ZWNoGg10ZWNobm9sb2dpY2FsGgp0ZWNobm9sb2d5Ggxub250ZWNobmljYWwaEHRlY2huaWNhbGNvbnRlbnQqOwoHY29udGVudBUEjK1AGghjb250ZW50cxoQdGVjaG5pY2FsY29udGVudBoPY29udGVudGNyZWF0b3JzKjsKCGNyZWF0b3JzFXQpcD8aCGNyZWF0aW9uGgdjcmVhdG9yGgZtYWtlcnMaD2NvbnRlbnRjcmVhdG9ycyoKCgNhbmQVAAAAACpdCghmb3VuZGVycxUAAAAAGgdmb3VuZGVyGglmb3VuZGVyJ3MaCGZvdW5kaW5nGg1pdjtwO2ZvdW5kZXJzGgdjcmVhdG9yGgtpbmZsdWVuY2VycxoJeW91dHViZXJzMrABL2dvdG8_dXJsPUNBRVNlQUhFSWtYWEhJWkFMNFRha1RteExlMUdlMmRiVHU5YnZ1QURnOFdVRFhtVUltNk9MTjBoQUpSV3hSVGtNU1hTUEsxQi1wUTh4VTNhaG5MSHBGSTNvNFh2VEUyNHVqODJnMVJvTnhfLXZuRDJCX2o1RVNCemZfUnc0SXQ2MHBNdHY3R085MTRzeVZqOWhNVTFjYWhNTk5ET1NXb3IxY3p3R0E6OTE1IEZyZWUgPGI-QUk8L2I-IFRvb2xzIEZvciA8Yj5Db250ZW50IENyZWF0aW9uPC9iPiAtIEdXSUKsAVRvcCAxNSBmcmVlIEFJIHRvb2xzIGZvciBjb250ZW50IGNyZWF0aW9uICZtaWRkb3Q7IDxiPjEuIEdXSSBTcGFyazwvYj4gLSBGb3IgZGF0YS1kcml2ZW4gY29uc3VtZXIgaW5zaWdodHMgJm1pZGRvdDsgMi4gQ29weS5haSAtIEZvciBmYXN0LCB2ZXJzYXRpbGUgY29weXdyaXRpbmcgJm1pZGRvdDsgMy5KA2ZvckoDYW5kUgJpdFIDbm90UgN0b3BSAm5vIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhFSWtYWEhJWkFMNFRha1RteExlMUdlMmRiVHU5YnZ1QURnOFdVRFhtVUltNk9MTjBoQUpSV3hSVGtNU1hTUEsxQi1wUTh4VTNhaG5MSHBGSTNvNFh2VEUyNHVqODJnMVJvTnhfLXZuRDJCX2o1RVNCemZfUnc0SXQ2MHBNdHY3R085MTRzeVZqOWhNVTFjYWhNTk5ET1NXb3IxY3p3R0ESBBoCCAAajAgSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAggBegCCQOQHCAAQABgAIAAqKAoEYmVzdBVqTsY-GgRnb29kGghncmVhdGVzdBoDdG9wGgZiZXN0YWkqJwoCYWkVxvWVQBoGYmVzdGFpGgdhaXZpZGVvGgthaXZpZGVvdG9vbCo1CgV2aWRlbxVSb8U-GgZ2aWRlb3MaB2FpdmlkZW8aC2FpdmlkZW90b29sGgl2aWRlb3Rvb2wqLAoEdG9vbBVI1xw_Ggdwcm9ncmFtGgthaXZpZGVvdG9vbBoJdmlkZW90b29sKgoKA2ZvchUAAAAAKiEKA25vbhXMpKI-GgJubxoDbm90Ggxub250ZWNobmljYWwqVQoJdGVjaG5pY2FsFQAAAAAaAml0GgR0ZWNoGg10ZWNobm9sb2dpY2FsGgp0ZWNobm9sb2d5Ggxub250ZWNobmljYWwaEHRlY2huaWNhbGNvbnRlbnQqOwoHY29udGVudBUEjK1AGghjb250ZW50cxoQdGVjaG5pY2FsY29udGVudBoPY29udGVudGNyZWF0b3JzKjsKCGNyZWF0b3JzFXQpcD8aCGNyZWF0aW9uGgdjcmVhdG9yGgZtYWtlcnMaD2NvbnRlbnRjcmVhdG9ycyoKCgNhbmQVAAAAACpdCghmb3VuZGVycxUAAAAAGgdmb3VuZGVyGglmb3VuZGVyJ3MaCGZvdW5kaW5nGg1pdjtwO2ZvdW5kZXJzGgdjcmVhdG9yGgtpbmZsdWVuY2VycxoJeW91dHViZXJzMrABL2dvdG8_dXJsPUNBRVNlQUhFSWtYWEhJWkFMNFRha1RteExlMUdlMmRiVHU5YnZ1QURnOFdVRFhtVUltNk9MTjBoQUpSV3hSVGtNU1hTUEsxQi1wUTh4VTNhaG5MSHBGSTNvNFh2VEUyNHVqODJnMVJvTnhfLXZuRDJCX2o1RVNCemZfUnc0SXQ2MHBNdHY3R085MTRzeVZqOWhNVTFjYWhNTk5ET1NXb3IxY3p3R0E6OTE1IEZyZWUgPGI-QUk8L2I-IFRvb2xzIEZvciA8Yj5Db250ZW50IENyZWF0aW9uPC9iPiAtIEdXSUKsAVRvcCAxNSBmcmVlIEFJIHRvb2xzIGZvciBjb250ZW50IGNyZWF0aW9uICZtaWRkb3Q7IDxiPjEuIEdXSSBTcGFyazwvYj4gLSBGb3IgZGF0YS1kcml2ZW4gY29uc3VtZXIgaW5zaWdodHMgJm1pZGRvdDsgMi4gQ29weS5haSAtIEZvciBmYXN0LCB2ZXJzYXRpbGUgY29weXdyaXRpbmcgJm1pZGRvdDsgMy5KA2ZvckoDYW5kUgJpdFIDbm90UgN0b3BSAm5vIgIQAUgAWABoAA",
+        "source": "GWI",
+        "read_more_link": "https://www.google.com/goto?url=CAES6AIBxCJF11-v9fh3k4LrzzoPbIVhWoZIp8K7oHrvD2QPg4j8PIpYzbsj9xugQKWLCOKQB-kYPcYKeQksO0h_mG3_xqMM6T-FHua8CJL-eL0EjScSx6RESrc5hlvWyrGR1In4NfkmLuKWaRa2zZKPIzNcRLARerwTZi7hViCMNWuM4adnMEsHQWsb-haNg6rID2Q8yqMjVqZkUzKHkmO8hAGOdrHTtAV-Lyyagc_m1yo12TWq8vZN473ja7dNGf3VmwHFdGGPubrtJXppATMAdugnuF6BtZfyXZcSr0ass1G1QFzMJyLlpYm_EXA7NayHSptEH6VCCG6HxZqviKIz_dMAB5nBvDMshfZQ-rYrOAVSimeC9b61ytTtoyBaJbKN__2ItDEI64HJVi-SYoUM7Ace9nbJpIE9YY5PlRmaLTNe9ArXVwMap_omVdZ6KfOOanszxVV6jBhKJTkgmdsS1_Zz_YfLBm_hIAE&gsessionid=wqeJEtzrkFcCYIrr9BzrLe5td5UUnUmZT2z8Gby7o8nvNmlVGYj_VA"
+      },
+      {
+        "position": 9,
+        "title": "20 Best AI video creation tools for digital marketing (2026)",
+        "link": "https://www.google.com/goto?url=CAESmQEBxCJF1yGismAaRK7wQfx2MhaWrhOZNFZv0G7SLSPunnYw-P3FrShNMFvT8mJJLZnltIoIDjuuM9NY4tLpx4HYN0xkvc1vYE1RE8_frAOz9AatpzZNZf4dLilHEHH7wcY3LBQLUfV7CivfJzA7wl0wOWKkPtp_6nEb7WIlhAM-F8ek1TTVSX-AO8fJogHl-1nf0w4uLj7mGzg",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEBxCJF153G-0gWb9QOetl_bfblrWhBg_C9JGRFXDF7u6Ro8Q5gTi2TXXb3RCzYlj4fhd8HwtYkdHb2LeAXflfPJpuZqrpek1DvuU34oVsnCf50MrKehyCxPFdtHJGIUpja00X2mycmpuIwJGATs8c1cX_d4DUJG4gyWpzaIvIFG_F6xHJvMLgFlSMqaECkMmMYbPai8Roc2MY&ved=2ahUKEwi23J2M3JuYAxVRHIYAHVgGF3AQFnoECBcQAQ&uoh=1",
+        "displayed_link": "https://www.outsourceaccelerator.com \u203a Articles",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAALVBMVEVHcEwAHpQAHJMAHZQAHpQAHpQAHZQAHpQAHZQAHZMAHZMAHpQAHZMAHZMAHpTF4s8SAAAADnRSTlMAeQeMm7Jn2kwhLO84E0vujt0AAACeSURBVDiN5ZJRFsQQDEUFCcXY_3IrtCroBqbvw2kkuR6pUt9SAIvGX4Fe0snlJqhhnPOQu1wNYc1HSMFjqyiryB9lw1xO6qfNElH67FAclZYIGZpMvNxIlh8AjFh6KHNT51HjDAhZsDlWHtGtPAg9X7uqbPYHxx0C5N1v3m-PIH5hCodHv0f0Ybk3Fyq0cac3F2yErJ2GjIjrn_OnOgEm6AehQ_RD8AAAAABJRU5ErkJggg.png",
+        "date": "Oct 20, 2026",
+        "snippet": "Synthesia is one of the best-known AI video generators, letting marketing teams create videos with text-to-speech voiceovers and realistic AI ...",
+        "snippet_highlighted_words": [
+          "Synthesia"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Synthesia is one of the best-known AI video generators, letting marketing teams create videos with text-to-speech voiceovers and realistic AI ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESmQEBxCJF1yGismAaRK7wQfx2MhaWrhOZNFZv0G7SLSPunnYw-P3FrShNMFvT8mJJLZnltIoIDjuuM9NY4tLpx4HYN0xkvc1vYE1RE8_frAOz9AatpzZNZf4dLilHEHH7wcY3LBQLUfV7CivfJzA7wl0wOWKkPtp_6nEb7WIlhAM-F8ek1TTVSX-AO8fJogHl-1nf0w4uLj7mGzg",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAALVBMVEVHcEwAHpQAHJMAHZQAHpQAHpQAHZQAHpQAHZQAHZMAHZMAHpQAHZMAHZMAHpTF4s8SAAAADnRSTlMAeQeMm7Jn2kwhLO84E0vujt0AAACeSURBVDiN5ZJRFsQQDEUFCcXY_3IrtCroBqbvw2kkuR6pUt9SAIvGX4Fe0snlJqhhnPOQu1wNYc1HSMFjqyiryB9lw1xO6qfNElH67FAclZYIGZpMvNxIlh8AjFh6KHNT51HjDAhZsDlWHtGtPAg9X7uqbPYHxx0C5N1v3m-PIH5hCodHv0f0Ybk3Fyq0cac3F2yErJ2GjIjrn_OnOgEm6AehQ_RD8AAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCeENKRjF5R2lzbUFhUks3d1FmeDJNaGFXcmhPWk5GWnYwRzdTTFNQdW5uWXctUDNGclNoTk1GdlQ4bUpKTFpubHRJb0lEanV1TTlOWTR0THB4NEhZTjB4a3ZjMXZZRTFSRThfZnJBT3o5QWF0cHpaTlpmNGRMaWxIRUhIN3djWTNMQlFMVWZWN0NpdmZKekE3d2wwd09XS2tQdHBfNm5FYjdXSWxoQU0tRjhlazFUVFZTWC1BTzhmSm9nSGwtMW5mMHc0dUxqN21HemcSBBoCCAAasAgSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAjAgIABAAGAAgACooCgRiZXN0FbTbO0AaBGdvb2QaCGdyZWF0ZXN0GgN0b3AaBmJlc3RhaSonCgJhaRV_O5FAGgZiZXN0YWkaB2FpdmlkZW8aC2FpdmlkZW90b29sKjUKBXZpZGVvFRiqkkAaBnZpZGVvcxoHYWl2aWRlbxoLYWl2aWRlb3Rvb2waCXZpZGVvdG9vbCosCgR0b29sFYnWoD8aB3Byb2dyYW0aC2FpdmlkZW90b29sGgl2aWRlb3Rvb2wqCgoDZm9yFQAAAAAqIQoDbm9uFQAAAAAaAm5vGgNub3QaDG5vbnRlY2huaWNhbCpVCgl0ZWNobmljYWwVY_fAPhoCaXQaBHRlY2gaDXRlY2hub2xvZ2ljYWwaCnRlY2hub2xvZ3kaDG5vbnRlY2huaWNhbBoQdGVjaG5pY2FsY29udGVudCo7Cgdjb250ZW50FUA1BkAaCGNvbnRlbnRzGhB0ZWNobmljYWxjb250ZW50Gg9jb250ZW50Y3JlYXRvcnMqOwoIY3JlYXRvcnMViqudPxoIY3JlYXRpb24aB2NyZWF0b3IaBm1ha2VycxoPY29udGVudGNyZWF0b3JzKgoKA2FuZBUAAAAAKl0KCGZvdW5kZXJzFQAAAAAaB2ZvdW5kZXIaCWZvdW5kZXIncxoIZm91bmRpbmcaDWl2O3A7Zm91bmRlcnMaB2NyZWF0b3IaC2luZmx1ZW5jZXJzGgl5b3V0dWJlcnMy3QEvZ290bz91cmw9Q0FFU21RRUJ4Q0pGMXlHaXNtQWFSSzd3UWZ4Mk1oYVdyaE9aTkZadjBHN1NMU1B1bm5Zdy1QM0ZyU2hOTUZ2VDhtSkpMWm5sdElvSURqdXVNOU5ZNHRMcHg0SFlOMHhrdmMxdllFMVJFOF9mckFPejlBYXRwelpOWmY0ZExpbEhFSEg3d2NZM0xCUUxVZlY3Q2l2Zkp6QTd3bDB3T1dLa1B0cF82bkViN1dJbGhBTS1GOGVrMVRUVlNYLUFPOGZKb2dIbC0xbmYwdzR1TGo3bUd6ZzpDMjAgPGI-QmVzdCBBSSB2aWRlbyBjcmVhdGlvbjwvYj4gdG9vbHMgZm9yIGRpZ2l0YWwgbWFya2V0aW5nICgyMDI2KUKdATxiPlN5bnRoZXNpYTwvYj4gaXMgb25lIG9mIHRoZSBiZXN0LWtub3duIEFJIHZpZGVvIGdlbmVyYXRvcnMsIGxldHRpbmcgbWFya2V0aW5nIHRlYW1zIGNyZWF0ZSB2aWRlb3Mgd2l0aCB0ZXh0LXRvLXNwZWVjaCB2b2ljZW92ZXJzIGFuZCByZWFsaXN0aWMgQUkmbmJzcDsuLi5KA2ZvckoDYW5kUgJub1IDdG9wUgNub3RSAml0IgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCeENKRjF5R2lzbUFhUks3d1FmeDJNaGFXcmhPWk5GWnYwRzdTTFNQdW5uWXctUDNGclNoTk1GdlQ4bUpKTFpubHRJb0lEanV1TTlOWTR0THB4NEhZTjB4a3ZjMXZZRTFSRThfZnJBT3o5QWF0cHpaTlpmNGRMaWxIRUhIN3djWTNMQlFMVWZWN0NpdmZKekE3d2wwd09XS2tQdHBfNm5FYjdXSWxoQU0tRjhlazFUVFZTWC1BTzhmSm9nSGwtMW5mMHc0dUxqN21HemcSBBoCCAAasAgSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAjAgIABAAGAAgACooCgRiZXN0FbTbO0AaBGdvb2QaCGdyZWF0ZXN0GgN0b3AaBmJlc3RhaSonCgJhaRV_O5FAGgZiZXN0YWkaB2FpdmlkZW8aC2FpdmlkZW90b29sKjUKBXZpZGVvFRiqkkAaBnZpZGVvcxoHYWl2aWRlbxoLYWl2aWRlb3Rvb2waCXZpZGVvdG9vbCosCgR0b29sFYnWoD8aB3Byb2dyYW0aC2FpdmlkZW90b29sGgl2aWRlb3Rvb2wqCgoDZm9yFQAAAAAqIQoDbm9uFQAAAAAaAm5vGgNub3QaDG5vbnRlY2huaWNhbCpVCgl0ZWNobmljYWwVY_fAPhoCaXQaBHRlY2gaDXRlY2hub2xvZ2ljYWwaCnRlY2hub2xvZ3kaDG5vbnRlY2huaWNhbBoQdGVjaG5pY2FsY29udGVudCo7Cgdjb250ZW50FUA1BkAaCGNvbnRlbnRzGhB0ZWNobmljYWxjb250ZW50Gg9jb250ZW50Y3JlYXRvcnMqOwoIY3JlYXRvcnMViqudPxoIY3JlYXRpb24aB2NyZWF0b3IaBm1ha2VycxoPY29udGVudGNyZWF0b3JzKgoKA2FuZBUAAAAAKl0KCGZvdW5kZXJzFQAAAAAaB2ZvdW5kZXIaCWZvdW5kZXIncxoIZm91bmRpbmcaDWl2O3A7Zm91bmRlcnMaB2NyZWF0b3IaC2luZmx1ZW5jZXJzGgl5b3V0dWJlcnMy3QEvZ290bz91cmw9Q0FFU21RRUJ4Q0pGMXlHaXNtQWFSSzd3UWZ4Mk1oYVdyaE9aTkZadjBHN1NMU1B1bm5Zdy1QM0ZyU2hOTUZ2VDhtSkpMWm5sdElvSURqdXVNOU5ZNHRMcHg0SFlOMHhrdmMxdllFMVJFOF9mckFPejlBYXRwelpOWmY0ZExpbEhFSEg3d2NZM0xCUUxVZlY3Q2l2Zkp6QTd3bDB3T1dLa1B0cF82bkViN1dJbGhBTS1GOGVrMVRUVlNYLUFPOGZKb2dIbC0xbmYwdzR1TGo3bUd6ZzpDMjAgPGI-QmVzdCBBSSB2aWRlbyBjcmVhdGlvbjwvYj4gdG9vbHMgZm9yIGRpZ2l0YWwgbWFya2V0aW5nICgyMDI2KUKdATxiPlN5bnRoZXNpYTwvYj4gaXMgb25lIG9mIHRoZSBiZXN0LWtub3duIEFJIHZpZGVvIGdlbmVyYXRvcnMsIGxldHRpbmcgbWFya2V0aW5nIHRlYW1zIGNyZWF0ZSB2aWRlb3Mgd2l0aCB0ZXh0LXRvLXNwZWVjaCB2b2ljZW92ZXJzIGFuZCByZWFsaXN0aWMgQUkmbmJzcDsuLi5KA2ZvckoDYW5kUgJub1IDdG9wUgNub3RSAml0IgIQAUgAWABoAA",
+        "source": "Outsource Accelerator",
+        "read_more_link": "https://www.google.com/goto?url=CAES7wEBxCJF13IP5-4eblE7xRHtTdq4JKuQSIi4sNMBvId-lwAr4JIuIlVMBDrsrQy3uMZACuPXpxA8DEmHK9TKjUTAAs5KdeHKfyqgcsCsdFvj95EZu4s6BFjkpHI7UuZkmT_c6NMdP_vH0L5VnbPXE2axWYfnXeNu_iLn0pGBDkAvC-YsotjRAo37SRNrB_Lyxp3KxcqDAXJ4iTl8soXDN5ysKe7k8XX01U09GmWOBG5_w0DAyo3S8RsrnNFdLcvQS0CDFQmDYzPF6KE3jnARVeN-GnQzh0-UIa4bt69YzOWGYJn-6SC4_NdotMuXWOdY6Q&gsessionid=wqeJEtzrkFcCYIrr9BzrLe5td5UUnUmZT2z8Gby7o8nvNmlVGYj_VA"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "Best AI app to make videos for free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgp_br4wRfyQlTCr5raEiR7BdvPvA:1795355411189&q=Best+AI+app+to+make+videos+for+free&sa=X&ved=2ahUKEwi23J2M3JuYAxVRHIYAHVgGF3AQ1QJ6BAhOEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+AI+app+to+make+videos+for+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Best ai video tool for non technical content creators and founders free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgp_br4wRfyQlTCr5raEiR7BdvPvA:1795355411189&q=Best+ai+video+tool+for+non+technical+content+creators+and+founders+free&sa=X&ved=2ahUKEwi23J2M3JuYAxVRHIYAHVgGF3AQ1QJ6BAhSEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+ai+video+tool+for+non+technical+content+creators+and+founders+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Free AI tools for content creation",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgp_br4wRfyQlTCr5raEiR7BdvPvA:1795355411189&q=Free+AI+tools+for+content+creation&sa=X&ved=2ahUKEwi23J2M3JuYAxVRHIYAHVgGF3AQ1QJ6BAhLEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Free+AI+tools+for+content+creation"
+      },
+      {
+        "block_position": 1,
+        "query": "Free AI tools for social media content creation",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgp_br4wRfyQlTCr5raEiR7BdvPvA:1795355411189&q=Free+AI+tools+for+social+media+content+creation&sa=X&ved=2ahUKEwi23J2M3JuYAxVRHIYAHVgGF3AQ1QJ6BAhMEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Free+AI+tools+for+social+media+content+creation"
+      },
+      {
+        "block_position": 1,
+        "query": "Best AI tools for social media content creation",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgp_br4wRfyQlTCr5raEiR7BdvPvA:1795355411189&q=Best+AI+tools+for+social+media+content+creation&sa=X&ved=2ahUKEwi23J2M3JuYAxVRHIYAHVgGF3AQ1QJ6BAhREAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+AI+tools+for+social+media+content+creation"
+      },
+      {
+        "block_position": 1,
+        "query": "Best ai video tool for non technical content creators and founders download",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgp_br4wRfyQlTCr5raEiR7BdvPvA:1795355411189&q=Best+ai+video+tool+for+non+technical+content+creators+and+founders+download&sa=X&ved=2ahUKEwi23J2M3JuYAxVRHIYAHVgGF3AQ1QJ6BAhNEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+ai+video+tool+for+non+technical+content+creators+and+founders+download"
+      },
+      {
+        "block_position": 1,
+        "query": "Best AI tools for content creation",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgp_br4wRfyQlTCr5raEiR7BdvPvA:1795355411189&q=Best+AI+tools+for+content+creation&sa=X&ved=2ahUKEwi23J2M3JuYAxVRHIYAHVgGF3AQ1QJ6BAhQEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+AI+tools+for+content+creation"
+      },
+      {
+        "block_position": 1,
+        "query": "Top AI tools for video creation",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgp_br4wRfyQlTCr5raEiR7BdvPvA:1795355411189&q=Top+AI+tools+for+video+creation&sa=X&ved=2ahUKEwi23J2M3JuYAxVRHIYAHVgGF3AQ1QJ6BAhPEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Top+AI+tools+for+video+creation"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=Best+AI+video+tool+for+non-technical+content+creators+and+founders&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgp_br4wRfyQlTCr5raEiR7BdvPvA:1795355411189&ei=E_MCa_aGC9G4mLQP2IzcgAc&start=10&sa=N&sstk=AYl2yk9gbWpQaPH5y3sZJ0ZRLglo11-3_OyHE8OtFNoa5J9J-JUavKgznIZscupEEiYK933RTEY__kG4I8fcdP_tOCeaeQesP4HQHw&ved=2ahUKEwi23J2M3JuYAxVRHIYAHVgGF3AQ8NMDegQISRAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=Best+AI+video+tool+for+non-technical+content+creators+and+founders&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgp_br4wRfyQlTCr5raEiR7BdvPvA:1795355411189&ei=E_MCa_aGC9G4mLQP2IzcgAc&start=10&sa=N&sstk=AYl2yk9gbWpQaPH5y3sZJ0ZRLglo11-3_OyHE8OtFNoa5J9J-JUavKgznIZscupEEiYK933RTEY__kG4I8fcdP_tOCeaeQesP4HQHw&ved=2ahUKEwi23J2M3JuYAxVRHIYAHVgGF3AQ8tMDegQISRAE",
+        "3": "https://www.google.com/search?q=Best+AI+video+tool+for+non-technical+content+creators+and+founders&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgp_br4wRfyQlTCr5raEiR7BdvPvA:1795355411189&ei=E_MCa_aGC9G4mLQP2IzcgAc&start=20&sa=N&sstk=AYl2yk9gbWpQaPH5y3sZJ0ZRLglo11-3_OyHE8OtFNoa5J9J-JUavKgznIZscupEEiYK933RTEY__kG4I8fcdP_tOCeaeQesP4HQHw&ved=2ahUKEwi23J2M3JuYAxVRHIYAHVgGF3AQ8tMDegQISRAG",
+        "4": "https://www.google.com/search?q=Best+AI+video+tool+for+non-technical+content+creators+and+founders&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgp_br4wRfyQlTCr5raEiR7BdvPvA:1795355411189&ei=E_MCa_aGC9G4mLQP2IzcgAc&start=30&sa=N&sstk=AYl2yk9gbWpQaPH5y3sZJ0ZRLglo11-3_OyHE8OtFNoa5J9J-JUavKgznIZscupEEiYK933RTEY__kG4I8fcdP_tOCeaeQesP4HQHw&ved=2ahUKEwi23J2M3JuYAxVRHIYAHVgGF3AQ8tMDegQISRAI",
+        "5": "https://www.google.com/search?q=Best+AI+video+tool+for+non-technical+content+creators+and+founders&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgp_br4wRfyQlTCr5raEiR7BdvPvA:1795355411189&ei=E_MCa_aGC9G4mLQP2IzcgAc&start=40&sa=N&sstk=AYl2yk9gbWpQaPH5y3sZJ0ZRLglo11-3_OyHE8OtFNoa5J9J-JUavKgznIZscupEEiYK933RTEY__kG4I8fcdP_tOCeaeQesP4HQHw&ved=2ahUKEwi23J2M3JuYAxVRHIYAHVgGF3AQ8tMDegQISRAK",
+        "6": "https://www.google.com/search?q=Best+AI+video+tool+for+non-technical+content+creators+and+founders&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgp_br4wRfyQlTCr5raEiR7BdvPvA:1795355411189&ei=E_MCa_aGC9G4mLQP2IzcgAc&start=50&sa=N&sstk=AYl2yk9gbWpQaPH5y3sZJ0ZRLglo11-3_OyHE8OtFNoa5J9J-JUavKgznIZscupEEiYK933RTEY__kG4I8fcdP_tOCeaeQesP4HQHw&ved=2ahUKEwi23J2M3JuYAxVRHIYAHVgGF3AQ8tMDegQISRAM",
+        "7": "https://www.google.com/search?q=Best+AI+video+tool+for+non-technical+content+creators+and+founders&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgp_br4wRfyQlTCr5raEiR7BdvPvA:1795355411189&ei=E_MCa_aGC9G4mLQP2IzcgAc&start=60&sa=N&sstk=AYl2yk9gbWpQaPH5y3sZJ0ZRLglo11-3_OyHE8OtFNoa5J9J-JUavKgznIZscupEEiYK933RTEY__kG4I8fcdP_tOCeaeQesP4HQHw&ved=2ahUKEwi23J2M3JuYAxVRHIYAHVgGF3AQ8tMDegQISRAO",
+        "8": "https://www.google.com/search?q=Best+AI+video+tool+for+non-technical+content+creators+and+founders&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgp_br4wRfyQlTCr5raEiR7BdvPvA:1795355411189&ei=E_MCa_aGC9G4mLQP2IzcgAc&start=70&sa=N&sstk=AYl2yk9gbWpQaPH5y3sZJ0ZRLglo11-3_OyHE8OtFNoa5J9J-JUavKgznIZscupEEiYK933RTEY__kG4I8fcdP_tOCeaeQesP4HQHw&ved=2ahUKEwi23J2M3JuYAxVRHIYAHVgGF3AQ8tMDegQISRAQ",
+        "9": "https://www.google.com/search?q=Best+AI+video+tool+for+non-technical+content+creators+and+founders&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgp_br4wRfyQlTCr5raEiR7BdvPvA:1795355411189&ei=E_MCa_aGC9G4mLQP2IzcgAc&start=80&sa=N&sstk=AYl2yk9gbWpQaPH5y3sZJ0ZRLglo11-3_OyHE8OtFNoa5J9J-JUavKgznIZscupEEiYK933RTEY__kG4I8fcdP_tOCeaeQesP4HQHw&ved=2ahUKEwi23J2M3JuYAxVRHIYAHVgGF3AQ8tMDegQISRAS",
+        "10": "https://www.google.com/search?q=Best+AI+video+tool+for+non-technical+content+creators+and+founders&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgp_br4wRfyQlTCr5raEiR7BdvPvA:1795355411189&ei=E_MCa_aGC9G4mLQP2IzcgAc&start=90&sa=N&sstk=AYl2yk9gbWpQaPH5y3sZJ0ZRLglo11-3_OyHE8OtFNoa5J9J-JUavKgznIZscupEEiYK933RTEY__kG4I8fcdP_tOCeaeQesP4HQHw&ved=2ahUKEwi23J2M3JuYAxVRHIYAHVgGF3AQ8tMDegQISRAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+AI+video+tool+for+non-technical+content+creators+and+founders&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+AI+video+tool+for+non-technical+content+creators+and+founders&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+AI+video+tool+for+non-technical+content+creators+and+founders&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+AI+video+tool+for+non-technical+content+creators+and+founders&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+AI+video+tool+for+non-technical+content+creators+and+founders&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+AI+video+tool+for+non-technical+content+creators+and+founders&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+AI+video+tool+for+non-technical+content+creators+and+founders&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+AI+video+tool+for+non-technical+content+creators+and+founders&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+AI+video+tool+for+non-technical+content+creators+and+founders&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+AI+video+tool+for+non-technical+content+creators+and+founders&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+AI+video+tool+for+non-technical+content+creators+and+founders&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

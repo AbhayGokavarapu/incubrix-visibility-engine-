@@ -1,0 +1,506 @@
+{
+  "measurement_id": "f262524e0ec4",
+  "question_id": "Q074",
+  "timestamp_utc": "2026-11-22T13:49:53.317437+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "How to automatically add progress bars to short-form video clips",
+  "market": "IN",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://cloudinary.com/tools/video-progress-bar",
+    "https://shotstack.io/learn/add-progress-bar-to-video-python/",
+    "https://www.google.com/goto?url=CAESmAEBxCJF1_PpyVzNxcilw6RxpzmNYCD-Ropkepk0xJC_gZ2SIvoPjQocEb9ORu3uKbuBK1_Fhjsu7vWTIu4VfGpxW8FtcJn-PsTkyCbZgosoUxf5cD6a9CQWGSe0v-CWR22ka7x2OuFx_a0hnr9L1jfJ5PQBOsbtS6FHK6F2YsSNKuNzGyqCsR0iCCNNg2vaGLJQvJ3P2oH_AQ",
+    "https://www.google.com/goto?url=CAEScwHEIkXXOANj0hxJVh0GseVe_QKvIICOJiSHxBLs9i7opNmq0BaLj7qE2ZkojCl64g3EdQZfQBF2KMi53ZdWIVpE44eK47DUwFMXwNLvwUmPK2Clws7FKMAuOtBmskiB48QhONkC1AlgrnKld4aEqaxhP2A",
+    "https://www.google.com/goto?url=CAESaAHEIkXXdQvomyWM4e-j_J_7BFD6DIjFuMZqMQ-WVB70REg-j4mh5p3Mxzdjba-eOnkGg4IIr1xNRtIjxpuovrDO-6m6K31JC_AgBR4tT409-vxWMEMUGDdNwbXSe-j9Tl57wBtALTi_",
+    "https://www.google.com/goto?url=CAESbQHEIkXXOxvH5TL-LayQNMYpeVRAgwvApRHJFzFS_POcxu9pJms7PMwmuRUTBFj9eQcNkWN-Sp9f4rQj1ajfO70Zenl6cCjwazPlCK9nzKFutnk9SjtESlhC_GdtSSWoi4G1OxHtyacBDKoD98U",
+    "https://www.google.com/goto?url=CAEScAHEIkXXrPCE-8xJ7OCvaEsTYLXi-6wuLVtKOpD23eDmS4EPdvVekwsrTilp5wjHQ9t_iv7D8Ao90PDtu7fA9Sx-yuD8sTZrdF9b6xvpcXId5_Oz8Ac41vQ92jl_LVotZUZPK54MgCHA5GgNT_VEA0Y"
+  ],
+  "raw_text_summary": "Video Progress Bar Add an animated progress bar to any video in seconds. Free online, or automate it with the Cloudinary API. How to add an animated progress bar to a video in Python Learn how to add an animated progress bar to a video with Python and the Shotstack Edit API. The bar fills across the video's exact length. How can I add a progress bar to my video? : r/kdenlive I'm looking to add a progress bar / timer to my video, how can I do that? Here are some examples of what I'm talking about : https://youtu.be/ANtdNbCXgPA ... Add Progress Bar To Video Simply upload your video, click on Elements, and select Add progress bar. You'll be able to easily adjust the style, position, and color of your progress bar. Add a Progress Bar with AI in Seconds! ... In this tutorial, you'll learn how to add a slick, synced progress bar in seconds using quso.ai. From uploading your video or pasting a YouTube ... Progress Bar Generator - Add Progress Bar to Videos Online Upload the video you wish to post on Instagram on VEED, visit 'Elements' and drag and drop your favourite progress bar onto your video. It's that simple! Progress Bar on Shorts: When It Helps Retention - MyShorts A progress bar is a thin line burned into the video that fills from left to right as the clip plays, so viewers can see how much is left.",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f2f326e0195da73a4a41",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/Wv-FqwfHKZzYqFJbsBpDc51V2mXGUX22d5WwOP9YOLA/6b02f2f326e0195da73a4a41.json",
+      "markdown_endpoint": "https://serpapi.com/searches/Wv-FqwfHKZzYqFJbsBpDc51V2mXGUX22d5WwOP9YOLA/6b02f2f326e0195da73a4a41.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/Wv-FqwfHKZzYqFJbsBpDc51V2mXGUX22d5WwOP9YOLA/6b02f2f326e0195da73a4a41.json_with_pixel_position",
+      "created_at": "2026-11-22 13:49:39 UTC",
+      "processed_at": "2026-11-22 13:49:39 UTC",
+      "google_url": "https://www.google.com/search?q=How+to+automatically+add+progress+bars+to+short-form+video+clips&oq=How+to+automatically+add+progress+bars+to+short-form+video+clips&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/Wv-FqwfHKZzYqFJbsBpDc51V2mXGUX22d5WwOP9YOLA/6b02f2f326e0195da73a4a41.html",
+      "total_time_taken": 12.76
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "How to automatically add progress bars to short-form video clips",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "in",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "How to automatically add progress bars to short-form video clips",
+      "total_results": 91700000,
+      "time_taken_displayed": 0.24,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "CANVA ANIMATION HACK: Add a Progress Bar to Your Projects!",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXcBLatUHkKwLUAh9ImUCvlucl49r1rwnAVcaLX-O3518cbK-ac8Q_1fqa6vhdlgqmTHBKIaVh2zPxRBsgPpQE4Isq0EaCGPiDYZyvCmh9AwwZrdnKp7mF4249O47AujLU9jdM&gsessionid=ezGGVB_XMaGiLFxdUD5zukVS80-hhA_rPM4TRIVgpsQcYi3Pwm4zMg",
+        "thumbnail": "https://serpapi.com/searches/6b02f2f326e0195da73a4a41/images/rLLZCepxEVrpKu3Ch3bTs_ur5dMQ9c2_bgz3T7Demr4.jpg",
+        "channel": "Created by Wayne",
+        "duration": "13:47",
+        "platform": "YouTube",
+        "date": "4 Apr 2025",
+        "snippet": "Learn to create custom progress bars in Canva using basic shapes, play icons, and rounded pill shapes with custom animations.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRoDdwWOhBNBMcTJZUGEVbYoTRqGRLALo2P7g"
+      },
+      {
+        "position": 2,
+        "title": "Quick AI Trick to Add Progress Bar To Any Videos! [Tutorial]",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXBIq1Ggp3YOcSDUCYUaQzXP9yUVn1Z405o2qlGDc586hivwgXfYtlUghQ36rIy0fOtSO5052V7kRLWDXHkPCf15oYf_ICtMkA5h53acmk-9G5W-3xZ7FO19gKqbwBOyZdroqm&gsessionid=ezGGVB_XMaGiLFxdUD5zukVS80-hhA_rPM4TRIVgpsQcYi3Pwm4zMg",
+        "thumbnail": "https://serpapi.com/searches/6b02f2f326e0195da73a4a41/images/Mr6N4hE6eAB-rkhHJIL28y1TL2AGZZcFXu8FfLDA84I.jpg",
+        "channel": "qusoai",
+        "duration": "1:39",
+        "platform": "YouTube",
+        "date": "9 May 2025",
+        "snippet": "Add a progress bar to any video using cuso.ai by uploading your video, clicking \"add progress bar,\" and customizing its appearance.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTsFWR4TEVSTLnj2H3Zv7V08-B9AwXbGJRHYg"
+      },
+      {
+        "position": 3,
+        "title": "How to add PROGRESS BAR to Video!",
+        "link": "https://www.google.com/goto?url=CAESbgHEIkXXlrZavIMY6uQz82FsjdirgOhi0AArHfSNlbfiDt9B-CKaTBGbawCzcT4AQqao_HrBqOf8fnrDvcbsE0aFwH8z3b1DAb1aV_PVlOX-USMIapPd9-Scs3x83-QCgD2m81HYoPSq1ka4SD3o&gsessionid=ezGGVB_XMaGiLFxdUD5zukVS80-hhA_rPM4TRIVgpsQcYi3Pwm4zMg",
+        "thumbnail": "https://serpapi.com/searches/6b02f2f326e0195da73a4a41/images/UsFY15sTkQfoEqUOclR39tnvHCrz5K_qx2aiTX2ah_E.jpg",
+        "channel": "Justin Brown - Primal Video",
+        "duration": "17:09",
+        "platform": "YouTube",
+        "date": "27 Oct 2019",
+        "snippet": "Learn to add progress bars to videos for any platform using Final Cut, Canva, or Snappa.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR7GDLCL5bJNbSE-2ldIb3W1UBMME-4PnTAAg"
+      },
+      {
+        "position": 4,
+        "title": "Progress Bars for Videos Using Canva",
+        "link": "https://www.google.com/goto?url=CAESZwHEIkXX68Or2ShYCndiDmTkYrDH0n56Sp20p9hbuzKGPrvqbIun3Sq4yd1bhcb6VBCN8hvMu4qP_TPyUd8akkGqCkX2KCGOaZ7DwBEF17DOplSWHFEMDmnJNpzXQL8HPG9DOhEzs3M&gsessionid=ezGGVB_XMaGiLFxdUD5zukVS80-hhA_rPM4TRIVgpsQcYi3Pwm4zMg",
+        "thumbnail": "https://serpapi.com/searches/6b02f2f326e0195da73a4a41/images/Zyyyv3pWx9oYg7T_HO4iiADcVHN-KUJc2UBYczqGPDE.jpg",
+        "channel": "Roger Coles | Canva Verified Expert",
+        "duration": "0:36",
+        "platform": "YouTube",
+        "date": "5 May 2023",
+        "snippet": "Add a progress bar to your videos in Canva by animating a rectangle from left to right, adjusting speed, and adding a background.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSR_xEZCxeLsLX4k0GnkeQUpg6Bv1Fyw7NKYQ"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "How do I link a longform video to a short?",
+        "type": "ai_overview",
+        "page_token": "60apvXicHdBRbpswAABQbYfpZ2NC2ymRokkETKiCIxNjg38qx4aQ2A5O6xbCZ8-yrx1mB9gxtgtM2jvC-_xhThf9-8tH5717W85mwzDcH_v-aJp72duZeLtd5EwKYw5C6uXTt6fgeytXyXsWra9ZhMsiqY0yteVpPRUOaVWLED4WlyxQqfe8Qpqeo22Two2i9FlYBPENBOpMryRZ7NGksDo_Z_vUraWGnjPXM9aNJO0fBHMVg3pAc1cJ7U81g4BtYH8AdN1Q0xI91nSDMmoh3s_NVFLOd8yQfQDRLh1REUe0mjtbwAiyFAGUgIlW7qEmBWjSBSZgCMtYnXgJ5lvq3uWE4ibOb_LcRUmn2gqYuCYdOeggr9njqDYIy4pniplCjP0Jl90uT8qwsBDmwN9EYCwOuc4DtxUmuigCr8ouMApQwoe7Vn6swrv_n6uX1vqle-2PP-VrI3yjXoT_pb_--fsPbgWLdw",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=60apvXicHdBRbpswAABQbYfpZ2NC2ymRokkETKiCIxNjg38qx4aQ2A5O6xbCZ8-yrx1mB9gxtgtM2jvC-_xhThf9-8tH5717W85mwzDcH_v-aJp72duZeLtd5EwKYw5C6uXTt6fgeytXyXsWra9ZhMsiqY0yteVpPRUOaVWLED4WlyxQqfe8Qpqeo22Two2i9FlYBPENBOpMryRZ7NGksDo_Z_vUraWGnjPXM9aNJO0fBHMVg3pAc1cJ7U81g4BtYH8AdN1Q0xI91nSDMmoh3s_NVFLOd8yQfQDRLh1REUe0mjtbwAiyFAGUgIlW7qEmBWjSBSZgCMtYnXgJ5lvq3uWE4ibOb_LcRUmn2gqYuCYdOeggr9njqDYIy4pniplCjP0Jl90uT8qwsBDmwN9EYCwOuc4DtxUmuigCr8ouMApQwoe7Vn6swrv_n6uX1vqle-2PP-VrI3yjXoT_pb_--fsPbgWLdw",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVRFUTNaa3QwT0MxVFZHdDNjRTltU1cxMFVWTkVWVFZDTUdFeGNXb3lXaTFVVUhwWFZsWmxVbE0xTjBkdVNYbHZURFI0UVdVeU9UUjZMVUpyTVUxdFdHRmFTbG8yUVZVNFVFcDRWVVl3Y1VKdVJsQjZTSFJNYjA0MWR4SVhYMTlKUTJFNFUyNU5UR0Z1Y1hSelVIRjJTSFZwVVdzYUlrRklUakJGTjBadmNrOXdWa3RuVVZBNFRtNVJjSGxYWTIxSVJFTmZRMmd5TTBFIiwiZmN2IjoiMyIsImVpIjoiX19JQ2E4U25NTGFucXRzUHF2SHVpUWsiLCJxYyI6IkNrQm9iM2NnZEc4Z1lYVjBiMjFoZEdsallXeHNlU0JoWkdRZ2NISnZaM0psYzNNZ1ltRnljeUIwYnlCemFHOXlkQ0JtYjNKdElIWnBaR1Z2SUdOc2FYQnpFQUI5Z1dnVVB3IiwicXVlc3Rpb24iOiJIb3cgZG8gSSBsaW5rIGEgbG9uZ2Zvcm0gdmlkZW8gdG8gYSBzaG9ydD8iLCJsayI6IkdpZG9iM2NnZEc4Z2JHbHVheUJoSUd4dmJtZG1iM0p0SUhacFpHVnZJSFJ2SUdFZ2MyaHZjblEiLCJicyI6ImM0MlBNUXZDTUJDRmNiM0pPU2djaUlyVnFidDA2RklueHc1T1p4Sk5NZlpLa3RxX2I2UWlWZ1JkM192ZTNYdFFRbEp3aDRweGg3YXFMMGhvdVQ2ZjJGM3hWaW5OR0RocTNyQUxXYm9TU3hQcEtQMWlZUXZUb2tlbDB4UjBOQnJIWjZlOXh5TzVMSjBJWVFiQXV3MEhXSmVHQWxZZWd4bDZ5SFU4MWotVVpLMVdXYm9SU2ZjM0RudFl2RWFUVWhfVkhvR2NtcnlOZy1kaTlpejVuWlBVeURhTVIzYyIsImlkIjoiZmNfX19JQ2E4U25NTGFucXRzUHF2SHVpUWtfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVRFUTNaa3QwT0MxVFZHdDNjRTltU1cxMFVWTkVWVFZDTUdFeGNXb3lXaTFVVUhwWFZsWmxVbE0xTjBkdVNYbHZURFI0UVdVeU9UUjZMVUpyTVUxdFdHRmFTbG8yUVZVNFVFcDRWVVl3Y1VKdVJsQjZTSFJNYjA0MWR4SVhYMTlKUTJFNFUyNU5UR0Z1Y1hSelVIRjJTSFZwVVdzYUlrRklUakJGTjBadmNrOXdWa3RuVVZBNFRtNVJjSGxYWTIxSVJFTmZRMmd5TTBFIiwiZmN2IjoiMyIsImVpIjoiX19JQ2E4U25NTGFucXRzUHF2SHVpUWsiLCJxYyI6IkNrQm9iM2NnZEc4Z1lYVjBiMjFoZEdsallXeHNlU0JoWkdRZ2NISnZaM0psYzNNZ1ltRnljeUIwYnlCemFHOXlkQ0JtYjNKdElIWnBaR1Z2SUdOc2FYQnpFQUI5Z1dnVVB3IiwicXVlc3Rpb24iOiJIb3cgZG8gSSBsaW5rIGEgbG9uZ2Zvcm0gdmlkZW8gdG8gYSBzaG9ydD8iLCJsayI6IkdpZG9iM2NnZEc4Z2JHbHVheUJoSUd4dmJtZG1iM0p0SUhacFpHVnZJSFJ2SUdFZ2MyaHZjblEiLCJicyI6ImM0MlBNUXZDTUJDRmNiM0pPU2djaUlyVnFidDA2RklueHc1T1p4Sk5NZlpLa3RxX2I2UWlWZ1JkM192ZTNYdFFRbEp3aDRweGg3YXFMMGhvdVQ2ZjJGM3hWaW5OR0RocTNyQUxXYm9TU3hQcEtQMWlZUXZUb2tlbDB4UjBOQnJIWjZlOXh5TzVMSjBJWVFiQXV3MEhXSmVHQWxZZWd4bDZ5SFU4MWotVVpLMVdXYm9SU2ZjM0RudFl2RWFUVWhfVkhvR2NtcnlOZy1kaTlpejVuWlBVeURhTVIzYyIsImlkIjoiZmNfX19JQ2E4U25NTGFucXRzUHF2SHVpUWtfNSJ9"
+      },
+      {
+        "question": "How to create a progress bar?",
+        "type": "ai_overview",
+        "page_token": "cO1iYXicHdBdboIwAADgbIfxUX7qXDQxSxgUNaNGoD_0xZQWRKmFKIq87ix72mF2gB1ju8CSfUf43j_0wdTfD6zquvYyt6y-78f7ptnrYiybkyUug5GWFFrnQtbz6fPUeSnlIrj03mvTe1scB5lWmh6JL5aVrzCcKDeyaU10QtoGE8WwjaoIeICmGmyoinKH-NGp7rMauVscDJuQM6LRlmsOMxdGOWhtHEqQ0KxDhhyT8C6EiZkcnBKzxk3Zep1ofpUmRoIRjNxmIGTG0lMGuOOd0zCzM6BWwieG0rZGIXY5q24pi9M3DAk1kHCDE-jMygSjagPRNcX3KjfQlo53V3XlCALP4WHtJcGkj1O1kvbqnoDWj12I4qM2FHpPfMkvmdFY2GpdkBiMSnlbgNH_2GJXnrp5e272n_JciK5QO9F91Y8_v3__AoAk",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=cO1iYXicHdBdboIwAADgbIfxUX7qXDQxSxgUNaNGoD_0xZQWRKmFKIq87ix72mF2gB1ju8CSfUf43j_0wdTfD6zquvYyt6y-78f7ptnrYiybkyUug5GWFFrnQtbz6fPUeSnlIrj03mvTe1scB5lWmh6JL5aVrzCcKDeyaU10QtoGE8WwjaoIeICmGmyoinKH-NGp7rMauVscDJuQM6LRlmsOMxdGOWhtHEqQ0KxDhhyT8C6EiZkcnBKzxk3Zep1ofpUmRoIRjNxmIGTG0lMGuOOd0zCzM6BWwieG0rZGIXY5q24pi9M3DAk1kHCDE-jMygSjagPRNcX3KjfQlo53V3XlCALP4WHtJcGkj1O1kvbqnoDWj12I4qM2FHpPfMkvmdFY2GpdkBiMSnlbgNH_2GJXnrp5e272n_JciK5QO9F91Y8_v3__AoAk",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVRFUTNaa3QwT0MxVFZHdDNjRTltU1cxMFVWTkVWVFZDTUdFeGNXb3lXaTFVVUhwWFZsWmxVbE0xTjBkdVNYbHZURFI0UVdVeU9UUjZMVUpyTVUxdFdHRmFTbG8yUVZVNFVFcDRWVVl3Y1VKdVJsQjZTSFJNYjA0MWR4SVhYMTlKUTJFNFUyNU5UR0Z1Y1hSelVIRjJTSFZwVVdzYUlrRklUakJGTjBadmNrOXdWa3RuVVZBNFRtNVJjSGxYWTIxSVJFTmZRMmd5TTBFIiwiZmN2IjoiMyIsImVpIjoiX19JQ2E4U25NTGFucXRzUHF2SHVpUWsiLCJxYyI6IkNrQm9iM2NnZEc4Z1lYVjBiMjFoZEdsallXeHNlU0JoWkdRZ2NISnZaM0psYzNNZ1ltRnljeUIwYnlCemFHOXlkQ0JtYjNKdElIWnBaR1Z2SUdOc2FYQnpFQUI5Z1dnVVB3IiwicXVlc3Rpb24iOiJIb3cgdG8gY3JlYXRlIGEgcHJvZ3Jlc3MgYmFyPyIsImxrIjoiR2hwb2IzY2dkRzhnWTNKbFlYUmxJSEJ5YjJkeVpYTnpJR0poY2ciLCJicyI6ImM0MlBNUXZDTUJDRmNiM0pPU2djaUlyVnFidDA2RklueHc1T1p4Sk5NZlpLa3RxX2I2UWlWZ1JkM192ZTNYdFFRbEp3aDRweGg3YXFMMGhvdVQ2ZjJGM3hWaW5OR0RocTNyQUxXYm9TU3hQcEtQMWlZUXZUb2tlbDB4UjBOQnJIWjZlOXh5TzVMSjBJWVFiQXV3MEhXSmVHQWxZZWd4bDZ5SFU4MWotVVpLMVdXYm9SU2ZjM0RudFl2RWFUVWhfVkhvR2NtcnlOZy1kaTlpejVuWlBVeURhTVIzYyIsImlkIjoiZmNfX19JQ2E4U25NTGFucXRzUHF2SHVpUWtfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVRFUTNaa3QwT0MxVFZHdDNjRTltU1cxMFVWTkVWVFZDTUdFeGNXb3lXaTFVVUhwWFZsWmxVbE0xTjBkdVNYbHZURFI0UVdVeU9UUjZMVUpyTVUxdFdHRmFTbG8yUVZVNFVFcDRWVVl3Y1VKdVJsQjZTSFJNYjA0MWR4SVhYMTlKUTJFNFUyNU5UR0Z1Y1hSelVIRjJTSFZwVVdzYUlrRklUakJGTjBadmNrOXdWa3RuVVZBNFRtNVJjSGxYWTIxSVJFTmZRMmd5TTBFIiwiZmN2IjoiMyIsImVpIjoiX19JQ2E4U25NTGFucXRzUHF2SHVpUWsiLCJxYyI6IkNrQm9iM2NnZEc4Z1lYVjBiMjFoZEdsallXeHNlU0JoWkdRZ2NISnZaM0psYzNNZ1ltRnljeUIwYnlCemFHOXlkQ0JtYjNKdElIWnBaR1Z2SUdOc2FYQnpFQUI5Z1dnVVB3IiwicXVlc3Rpb24iOiJIb3cgdG8gY3JlYXRlIGEgcHJvZ3Jlc3MgYmFyPyIsImxrIjoiR2hwb2IzY2dkRzhnWTNKbFlYUmxJSEJ5YjJkeVpYTnpJR0poY2ciLCJicyI6ImM0MlBNUXZDTUJDRmNiM0pPU2djaUlyVnFidDA2RklueHc1T1p4Sk5NZlpLa3RxX2I2UWlWZ1JkM192ZTNYdFFRbEp3aDRweGg3YXFMMGhvdVQ2ZjJGM3hWaW5OR0RocTNyQUxXYm9TU3hQcEtQMWlZUXZUb2tlbDB4UjBOQnJIWjZlOXh5TzVMSjBJWVFiQXV3MEhXSmVHQWxZZWd4bDZ5SFU4MWotVVpLMVdXYm9SU2ZjM0RudFl2RWFUVWhfVkhvR2NtcnlOZy1kaTlpejVuWlBVeURhTVIzYyIsImlkIjoiZmNfX19JQ2E4U25NTGFucXRzUHF2SHVpUWtfNSJ9"
+      },
+      {
+        "question": "What is the progress bar on a video called?",
+        "type": "ai_overview",
+        "page_token": "NUSAa3icHdBtbtowHIBxrYfpx2KnhAkkVIniANlslj9-if2lMg4hbRySNhkv-biz7FMPswPsGO0FhnaBnx49v37750P598ux6LqmnQwGp9Ppbl_Xe7-7c3U1sO3l4AbOer-1rpyMvo7wQ-6m5Odq9vi6miUCiPaZVxXtNW6w4vBdkha5aHy2JGRK4dfNPAksiopNHxnOMwbz_cUdIIUXyYCb4ZqA1r0MRTlWXLWhS-Or2gbgxzldiqFFSchSEJKzs5F-wfpY28iEBsU_WJR92woZJBWs0gvGlEizvhqqNLlIm0eYRy2oMVKcIiaiEcUguTByc-3hC1xwLwOHGOKLjjhJL1o1M92bAymyPEV-rnnBtyWmWoXnbMkSl5pVpjzYc_2ciGJNibgH1RxBRaM0MIRuENoSs7bLuIKexSwwngsxTJLb3B2n97f_f06f8qqbNG_1_t297Wy3y55s96e8-fj8B3Pth9A",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=NUSAa3icHdBtbtowHIBxrYfpx2KnhAkkVIniANlslj9-if2lMg4hbRySNhkv-biz7FMPswPsGO0FhnaBnx49v37750P598ux6LqmnQwGp9Ppbl_Xe7-7c3U1sO3l4AbOer-1rpyMvo7wQ-6m5Odq9vi6miUCiPaZVxXtNW6w4vBdkha5aHy2JGRK4dfNPAksiopNHxnOMwbz_cUdIIUXyYCb4ZqA1r0MRTlWXLWhS-Or2gbgxzldiqFFSchSEJKzs5F-wfpY28iEBsU_WJR92woZJBWs0gvGlEizvhqqNLlIm0eYRy2oMVKcIiaiEcUguTByc-3hC1xwLwOHGOKLjjhJL1o1M92bAymyPEV-rnnBtyWmWoXnbMkSl5pVpjzYc_2ciGJNibgH1RxBRaM0MIRuENoSs7bLuIKexSwwngsxTJLb3B2n97f_f06f8qqbNG_1_t297Wy3y55s96e8-fj8B3Pth9A",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVRFUTNaa3QwT0MxVFZHdDNjRTltU1cxMFVWTkVWVFZDTUdFeGNXb3lXaTFVVUhwWFZsWmxVbE0xTjBkdVNYbHZURFI0UVdVeU9UUjZMVUpyTVUxdFdHRmFTbG8yUVZVNFVFcDRWVVl3Y1VKdVJsQjZTSFJNYjA0MWR4SVhYMTlKUTJFNFUyNU5UR0Z1Y1hSelVIRjJTSFZwVVdzYUlrRklUakJGTjBadmNrOXdWa3RuVVZBNFRtNVJjSGxYWTIxSVJFTmZRMmd5TTBFIiwiZmN2IjoiMyIsImVpIjoiX19JQ2E4U25NTGFucXRzUHF2SHVpUWsiLCJxYyI6IkNrQm9iM2NnZEc4Z1lYVjBiMjFoZEdsallXeHNlU0JoWkdRZ2NISnZaM0psYzNNZ1ltRnljeUIwYnlCemFHOXlkQ0JtYjNKdElIWnBaR1Z2SUdOc2FYQnpFQUI5Z1dnVVB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBwcm9ncmVzcyBiYXIgb24gYSB2aWRlbyBjYWxsZWQ/IiwibGsiOiJHaXAzYUdGMElHbHpJSFJvWlNCd2NtOW5jbVZ6Y3lCaVlYSWdiMjRnWVNCMmFXUmxieUJqWVd4c1pXUSIsImJzIjoiYzQyUE1RdkNNQkNGY2IzSk9TZ2NpSXJWcWJ0MDZGSW54dzVPWnhKTk1mWktrdHFfYjZRaVZnUmQzX3ZlM1h0UVFsSndoNHB4aDdhcUwwaG91VDZmMkYzeFZpbk5HRGhxM3JBTFdib1NTeFBwS1AxaVlRdlRva2VsMHhSME5CckhaNmU5eHlPNUxKMElZUWJBdXcwSFdKZUdBbFllZ3hsNnlIVTgxai1VWksxV1dib1JTZmMzRG50WXZFYVRVaF9WSG9HY21yeU5nLWRpOWl6NW5aUFV5RGFNUjNjIiwiaWQiOiJmY19fX0lDYThTbk1MYW5xdHNQcXZIdWlRa181In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVRFUTNaa3QwT0MxVFZHdDNjRTltU1cxMFVWTkVWVFZDTUdFeGNXb3lXaTFVVUhwWFZsWmxVbE0xTjBkdVNYbHZURFI0UVdVeU9UUjZMVUpyTVUxdFdHRmFTbG8yUVZVNFVFcDRWVVl3Y1VKdVJsQjZTSFJNYjA0MWR4SVhYMTlKUTJFNFUyNU5UR0Z1Y1hSelVIRjJTSFZwVVdzYUlrRklUakJGTjBadmNrOXdWa3RuVVZBNFRtNVJjSGxYWTIxSVJFTmZRMmd5TTBFIiwiZmN2IjoiMyIsImVpIjoiX19JQ2E4U25NTGFucXRzUHF2SHVpUWsiLCJxYyI6IkNrQm9iM2NnZEc4Z1lYVjBiMjFoZEdsallXeHNlU0JoWkdRZ2NISnZaM0psYzNNZ1ltRnljeUIwYnlCemFHOXlkQ0JtYjNKdElIWnBaR1Z2SUdOc2FYQnpFQUI5Z1dnVVB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBwcm9ncmVzcyBiYXIgb24gYSB2aWRlbyBjYWxsZWQ%2FIiwibGsiOiJHaXAzYUdGMElHbHpJSFJvWlNCd2NtOW5jbVZ6Y3lCaVlYSWdiMjRnWVNCMmFXUmxieUJqWVd4c1pXUSIsImJzIjoiYzQyUE1RdkNNQkNGY2IzSk9TZ2NpSXJWcWJ0MDZGSW54dzVPWnhKTk1mWktrdHFfYjZRaVZnUmQzX3ZlM1h0UVFsSndoNHB4aDdhcUwwaG91VDZmMkYzeFZpbk5HRGhxM3JBTFdib1NTeFBwS1AxaVlRdlRva2VsMHhSME5CckhaNmU5eHlPNUxKMElZUWJBdXcwSFdKZUdBbFllZ3hsNnlIVTgxai1VWksxV1dib1JTZmMzRG50WXZFYVRVaF9WSG9HY21yeU5nLWRpOWl6NW5aUFV5RGFNUjNjIiwiaWQiOiJmY19fX0lDYThTbk1MYW5xdHNQcXZIdWlRa181In0%3D"
+      },
+      {
+        "question": "How do I add a progress bar on CapCut?",
+        "type": "ai_overview",
+        "page_token": "EPQTaHicHdBRcqIwGADg2T1MH2tQcTvOODuDBJGtUAIhJi9OTFBqfoQqCuWxZ9mnHqYH6DHaC7TTI3zfy394PJr3X9eiaerzdDBo2_Z2X1V7yG9VVQ7k-fmoBkoCbKUy08mfifV3p2b4snTmT0snpgRz0MAZIeQQ0rS0HZIJUCBw5JJS9DHarp1GINWEpm210YE66BFHwTgxXR36xTA3cBZZITgLmu1I20kfWMlwjDTAJUrJmQIs2CHgKtNu5OsH4jqu7rOTtEKuUOdzJi6hu3oOof4nXdFlrLYTT08ogsnKEiktqyHxnF6XahgiIIR11xybcW66J4aLscZAGa7vE3qHUlQ8UPAILvRujcDlaZFujbXizO60H8ZqLZaaAZFd9RjTIlphOiIQzKNFAElpL2TqQZLFKKN3_benUr53H7P6qNubnbrORjc_n7PNrmym9anav6pTLptcb2TzZn5_fH4BxR-L_w",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=EPQTaHicHdBRcqIwGADg2T1MH2tQcTvOODuDBJGtUAIhJi9OTFBqfoQqCuWxZ9mnHqYH6DHaC7TTI3zfy394PJr3X9eiaerzdDBo2_Z2X1V7yG9VVQ7k-fmoBkoCbKUy08mfifV3p2b4snTmT0snpgRz0MAZIeQQ0rS0HZIJUCBw5JJS9DHarp1GINWEpm210YE66BFHwTgxXR36xTA3cBZZITgLmu1I20kfWMlwjDTAJUrJmQIs2CHgKtNu5OsH4jqu7rOTtEKuUOdzJi6hu3oOof4nXdFlrLYTT08ogsnKEiktqyHxnF6XahgiIIR11xybcW66J4aLscZAGa7vE3qHUlQ8UPAILvRujcDlaZFujbXizO60H8ZqLZaaAZFd9RjTIlphOiIQzKNFAElpL2TqQZLFKKN3_benUr53H7P6qNubnbrORjc_n7PNrmym9anav6pTLptcb2TzZn5_fH4BxR-L_w",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVRFUTNaa3QwT0MxVFZHdDNjRTltU1cxMFVWTkVWVFZDTUdFeGNXb3lXaTFVVUhwWFZsWmxVbE0xTjBkdVNYbHZURFI0UVdVeU9UUjZMVUpyTVUxdFdHRmFTbG8yUVZVNFVFcDRWVVl3Y1VKdVJsQjZTSFJNYjA0MWR4SVhYMTlKUTJFNFUyNU5UR0Z1Y1hSelVIRjJTSFZwVVdzYUlrRklUakJGTjBadmNrOXdWa3RuVVZBNFRtNVJjSGxYWTIxSVJFTmZRMmd5TTBFIiwiZmN2IjoiMyIsImVpIjoiX19JQ2E4U25NTGFucXRzUHF2SHVpUWsiLCJxYyI6IkNrQm9iM2NnZEc4Z1lYVjBiMjFoZEdsallXeHNlU0JoWkdRZ2NISnZaM0psYzNNZ1ltRnljeUIwYnlCemFHOXlkQ0JtYjNKdElIWnBaR1Z2SUdOc2FYQnpFQUI5Z1dnVVB3IiwicXVlc3Rpb24iOiJIb3cgZG8gSSBhZGQgYSBwcm9ncmVzcyBiYXIgb24gQ2FwQ3V0PyIsImxrIjoiR2lOb2IzY2dkRzhnWVdSa0lHRWdjSEp2WjNKbGMzTWdZbUZ5SUc5dUlHTmhjR04xZEEiLCJicyI6ImM0MlBNUXZDTUJDRmNiM0pPU2djaUlyVnFidDA2RklueHc1T1p4Sk5NZlpLa3RxX2I2UWlWZ1JkM192ZTNYdFFRbEp3aDRweGg3YXFMMGhvdVQ2ZjJGM3hWaW5OR0RocTNyQUxXYm9TU3hQcEtQMWlZUXZUb2tlbDB4UjBOQnJIWjZlOXh5TzVMSjBJWVFiQXV3MEhXSmVHQWxZZWd4bDZ5SFU4MWotVVpLMVdXYm9SU2ZjM0RudFl2RWFUVWhfVkhvR2NtcnlOZy1kaTlpejVuWlBVeURhTVIzYyIsImlkIjoiZmNfX19JQ2E4U25NTGFucXRzUHF2SHVpUWtfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVRFUTNaa3QwT0MxVFZHdDNjRTltU1cxMFVWTkVWVFZDTUdFeGNXb3lXaTFVVUhwWFZsWmxVbE0xTjBkdVNYbHZURFI0UVdVeU9UUjZMVUpyTVUxdFdHRmFTbG8yUVZVNFVFcDRWVVl3Y1VKdVJsQjZTSFJNYjA0MWR4SVhYMTlKUTJFNFUyNU5UR0Z1Y1hSelVIRjJTSFZwVVdzYUlrRklUakJGTjBadmNrOXdWa3RuVVZBNFRtNVJjSGxYWTIxSVJFTmZRMmd5TTBFIiwiZmN2IjoiMyIsImVpIjoiX19JQ2E4U25NTGFucXRzUHF2SHVpUWsiLCJxYyI6IkNrQm9iM2NnZEc4Z1lYVjBiMjFoZEdsallXeHNlU0JoWkdRZ2NISnZaM0psYzNNZ1ltRnljeUIwYnlCemFHOXlkQ0JtYjNKdElIWnBaR1Z2SUdOc2FYQnpFQUI5Z1dnVVB3IiwicXVlc3Rpb24iOiJIb3cgZG8gSSBhZGQgYSBwcm9ncmVzcyBiYXIgb24gQ2FwQ3V0PyIsImxrIjoiR2lOb2IzY2dkRzhnWVdSa0lHRWdjSEp2WjNKbGMzTWdZbUZ5SUc5dUlHTmhjR04xZEEiLCJicyI6ImM0MlBNUXZDTUJDRmNiM0pPU2djaUlyVnFidDA2RklueHc1T1p4Sk5NZlpLa3RxX2I2UWlWZ1JkM192ZTNYdFFRbEp3aDRweGg3YXFMMGhvdVQ2ZjJGM3hWaW5OR0RocTNyQUxXYm9TU3hQcEtQMWlZUXZUb2tlbDB4UjBOQnJIWjZlOXh5TzVMSjBJWVFiQXV3MEhXSmVHQWxZZWd4bDZ5SFU4MWotVVpLMVdXYm9SU2ZjM0RudFl2RWFUVWhfVkhvR2NtcnlOZy1kaTlpejVuWlBVeURhTVIzYyIsImlkIjoiZmNfX19JQ2E4U25NTGFucXRzUHF2SHVpUWtfNSJ9"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "b3GNuHiczZbdcuo2EIBnet3XqG8IYH6SQGY8Z2RhjMEJGAIn5IbKsrGNfwSWweFc9ll61YfpA_Qx2heobEyCifNzOp1pdwaEpdXuarWfl19-9ZzA_ePHn-0oWtObajWO44pFiOWZFUz8KqL7AFeXxKMhtr9Qsg2x6RgCtkPim5ztCWbAHWazuQrROcsTnIDb74QGh6nAc6YjLBYKRK1JcKuiYBPR0WbX2zqay6X2hYWOqLli7p9WtLqosi_3p0aHPVRoxQwWsljpXjvAM9VacOlW6ny9URlWkc90wH8sIlAsNrgAWO-qaZ81qNkASACe75cO48n8LUh8KgAqh5W3_E8So8lOKCaPiaEhWK5Grsx-3R21psoHccFcTF-zsA6Dex7uJyTbmpwgN_GeFCQxzcvg5RmerxWJnF8R5x3QiU_MvzqOc250mnzFoNsc3QJN0970dBRmejAHvAc-qJNjRNN2fxKxXWLVsFiV81U9ZEOt6mAbpz9CmhQ_vG_zpBuAUG4_Np0B3sJFGejA6dRIgB49P65inel5BBmmsbAX_Jf0uVavXfLtxnXrIgUP02fy6Cl5IaF8FLRuyxFfUSti7chc_rTnydIUBRQVkyVax1Tk5dnA-PQi0zScabo5z91stIFoacxsblEbSOqpEsOlw_LVsk7T_7IDvsPcmaQVSzID02wK5KtNmwNpUuQnkWGh2eQcqde8M_nos3sMPM5WXjM3BoqWpjdLce7lKLI3hMgSrCVvigHbHsGDrtJM4jvemCZJigSk4iKFUsFxADyJhO2TEq0YWBJwt4oEFSebBqkTyzp4EjXr2Ux6ZPiauswZBF27cOlTIn3mxXKI4gjZGTOnrMmwHqGWNRbdy2mrjwCkI9T3nNZ0KGvFbBFf_762hv__AGZNz8sq_00AE0-fAlCz3wOwqOkdAITuGwBODgAWN73RUeus6b0GEALnBMCs6T1lufg3ABQ_BvD0uk4BfLmqHIDSWwDKUh7A-Uo6Nr1iALOm9wLgP2164vc3vZRD8zDkO-B2Zb3ZCeVdu2zc3ZLmLG5t1mDnD9xyU77WusNr68NOuPSjGx8Z3sXCMW7Eej_aGxcLNkFuTIPbCD0SlyJSQtuI-ChyMPK8fQkZRmkdEis0KS3pKKSJCrVJGJWXJPRLO8cwSQl7zppyvhcSgUfNxqw9M-o9e9u0-xO0ir0rde88tu8fzM58tuut-NbmqT4UaSzOtWXZxxue_2bp6tVTq4z1-OFKF2doeLfchbS36velB0-dqFDdwwB-W6sqbKhgwsuK9nQ3dkDn67TnqfcbordH_SnfXHbuR3jrDsZpNFSYdUTFAC159MhzfogFVgFNC9xpyf87BLox6KclK443bFRZnehEBFpvDrSOxT6EXRZHMVqYdCfgq8sGvuR5jNDyemkuOd-K9muhzXM0CIXabzg0UcRyj6Lf3R_-_OtvBIqJYw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=b3GNuHiczZbdcuo2EIBnet3XqG8IYH6SQGY8Z2RhjMEJGAIn5IbKsrGNfwSWweFc9ll61YfpA_Qx2heobEyCifNzOp1pdwaEpdXuarWfl19-9ZzA_ePHn-0oWtObajWO44pFiOWZFUz8KqL7AFeXxKMhtr9Qsg2x6RgCtkPim5ztCWbAHWazuQrROcsTnIDb74QGh6nAc6YjLBYKRK1JcKuiYBPR0WbX2zqay6X2hYWOqLli7p9WtLqosi_3p0aHPVRoxQwWsljpXjvAM9VacOlW6ny9URlWkc90wH8sIlAsNrgAWO-qaZ81qNkASACe75cO48n8LUh8KgAqh5W3_E8So8lOKCaPiaEhWK5Grsx-3R21psoHccFcTF-zsA6Dex7uJyTbmpwgN_GeFCQxzcvg5RmerxWJnF8R5x3QiU_MvzqOc250mnzFoNsc3QJN0970dBRmejAHvAc-qJNjRNN2fxKxXWLVsFiV81U9ZEOt6mAbpz9CmhQ_vG_zpBuAUG4_Np0B3sJFGejA6dRIgB49P65inel5BBmmsbAX_Jf0uVavXfLtxnXrIgUP02fy6Cl5IaF8FLRuyxFfUSti7chc_rTnydIUBRQVkyVax1Tk5dnA-PQi0zScabo5z91stIFoacxsblEbSOqpEsOlw_LVsk7T_7IDvsPcmaQVSzID02wK5KtNmwNpUuQnkWGh2eQcqde8M_nos3sMPM5WXjM3BoqWpjdLce7lKLI3hMgSrCVvigHbHsGDrtJM4jvemCZJigSk4iKFUsFxADyJhO2TEq0YWBJwt4oEFSebBqkTyzp4EjXr2Ux6ZPiauswZBF27cOlTIn3mxXKI4gjZGTOnrMmwHqGWNRbdy2mrjwCkI9T3nNZ0KGvFbBFf_762hv__AGZNz8sq_00AE0-fAlCz3wOwqOkdAITuGwBODgAWN73RUeus6b0GEALnBMCs6T1lufg3ABQ_BvD0uk4BfLmqHIDSWwDKUh7A-Uo6Nr1iALOm9wLgP2164vc3vZRD8zDkO-B2Zb3ZCeVdu2zc3ZLmLG5t1mDnD9xyU77WusNr68NOuPSjGx8Z3sXCMW7Eej_aGxcLNkFuTIPbCD0SlyJSQtuI-ChyMPK8fQkZRmkdEis0KS3pKKSJCrVJGJWXJPRLO8cwSQl7zppyvhcSgUfNxqw9M-o9e9u0-xO0ir0rde88tu8fzM58tuut-NbmqT4UaSzOtWXZxxue_2bp6tVTq4z1-OFKF2doeLfchbS36velB0-dqFDdwwB-W6sqbKhgwsuK9nQ3dkDn67TnqfcbordH_SnfXHbuR3jrDsZpNFSYdUTFAC159MhzfogFVgFNC9xpyf87BLox6KclK443bFRZnehEBFpvDrSOxT6EXRZHMVqYdCfgq8sGvuR5jNDyemkuOd-K9muhzXM0CIXabzg0UcRyj6Lf3R_-_OtvBIqJYw"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Video Progress Bar",
+        "link": "https://cloudinary.com/tools/video-progress-bar",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHEIkXXC-2K6sevkFNvuzbDGK5DB3GyNL-K9WPMVvWaxKWmY9Za2WFvH_8uih3AXOupkY2vJkYJoB-ZsAXY1XXgu_FdUxtB1o-ETiQwDwfUqpSFqdJjfRQuk_45YmYtWun0196oJW-2Kx33_Q&ved=2ahUKEwiEo_6C3JuYAxW2k2oFHaq4O5EQFnoECBoQAQ&uoh=1",
+        "displayed_link": "https://cloudinary.com \u203a tools \u203a video-progress-bar",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEU0SMUzR8UuQ8QlPcMiO8IoP8MwRcRlddOgqOK9w-q8wuuVoOBRYs0dN8KBjdrs7vr____w8vv5-v7Q1PBjcdHZ3POHkts9UMgWM8FLXsyfqOJ_i9qLldu2vOlHWMptetOpsORBUseaot_Gy-x7h9ng4vUsQsRdbM9da890gNTIze2vtuZgbUANAAABJElEQVR4Ac3RVYLEMAgA0IQmVGbaUHf37f3vt7X1PcDwBw-i7IWDgyaExH9JSt0wrcfThj-GzFFErkfkB8h_zTHDC6M4sdNMqRx_ENgFlZW2F1ELQhXAlyHUjeu3d0UGyrf5p7FOuX0tP3LNoCGWF3PsPFNPcU_v5pS8sYAzBV2Z1STnh0QGeOrihNRNh6Lh1hJqjxo26QswjgiSle46Mcbj0n-i6IlGvfZUgGxpcW9TBuc3TgORVYVEPRvGpkVM_TLekRuqnqacyGRvRM2ydzgTLOG2I4NVbbE8cOqJjAMHORVugezYdPMM-MRqH5_x4frpdfLWDOMde77jVvlEeqv2c9y3Fk8WN6YVPC1zawerz2AR8O3DuCY0QCE0nISQe-El4x1nqxahXNoFHwAAAABJRU5ErkJggg.png",
+        "snippet": "Add an animated progress bar to any video in seconds. Free online, or automate it with the Cloudinary API.",
+        "snippet_highlighted_words": [
+          "automate it with the Cloudinary API"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.5,
+              "reviews": 29
+            },
+            "extensions": [
+              "4.5(29)"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Add an animated progress bar to any video in seconds. Free online, or automate it with the Cloudinary API.",
+            "source_info_link": "https://cloudinary.com/tools/video-progress-bar",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEU0SMUzR8UuQ8QlPcMiO8IoP8MwRcRlddOgqOK9w-q8wuuVoOBRYs0dN8KBjdrs7vr____w8vv5-v7Q1PBjcdHZ3POHkts9UMgWM8FLXsyfqOJ_i9qLldu2vOlHWMptetOpsORBUseaot_Gy-x7h9ng4vUsQsRdbM9da890gNTIze2vtuZgbUANAAABJElEQVR4Ac3RVYLEMAgA0IQmVGbaUHf37f3vt7X1PcDwBw-i7IWDgyaExH9JSt0wrcfThj-GzFFErkfkB8h_zTHDC6M4sdNMqRx_ENgFlZW2F1ELQhXAlyHUjeu3d0UGyrf5p7FOuX0tP3LNoCGWF3PsPFNPcU_v5pS8sYAzBV2Z1STnh0QGeOrihNRNh6Lh1hJqjxo26QswjgiSle46Mcbj0n-i6IlGvfZUgGxpcW9TBuc3TgORVYVEPRvGpkVM_TLekRuqnqacyGRvRM2ydzgTLOG2I4NVbbE8cOqJjAMHORVugezYdPMM-MRqH5_x4frpdfLWDOMde77jVvlEeqv2c9y3Fk8WN6YVPC1zawerz2AR8O3DuCY0QCE0nISQe-El4x1nqxahXNoFHwAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhFSWtYWHVwanlpelBaUXU4dlBNcTgtT0lnM1RGLWJVWGZCaHBQTHVxenFvV2NLWERYZnRSUmpEQnBTMmRoMEQzUmJyeXRoLWFhS0tWUzRLYURYRUpoYUZYVlBRZUw0M3V6MDU3cEpqM1lyTHR2QTBXSkZOWGVURFd5ckRWc1BtdUtpMlhMZ213M1ppbU1uQRIEGgIIABrABxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCcBwgAEAAYACAAKgoKA2hvdxW9Gl0_KgkKAnRvFQAAAAAqLwoNYXV0b21hdGljYWxseRWJ8FY_GgRhdXRvGghhdXRvbWF0ZRoJYXV0b21hdGljKkUKA2FkZBWeDGhAGgVhZGRlZBoGYWRkaW5nGgRhZGRzGgZhcHBlbmQaB2luY2x1ZGUaBmluc2VydBoLYWRkcHJvZ3Jlc3MqRAoIcHJvZ3Jlc3MVylDeQBoLcHJvZ3Jlc3NiYXIaC3Byb2dyZXNzaW9uGgthZGRwcm9ncmVzcxoMcHJvZ3Jlc3NiYXJzKjAKBGJhcnMVLHgAQBoDYmFyGgtwcm9ncmVzc2JhchoDcHViGgxwcm9ncmVzc2JhcnMqCQoCdG8VAAAAACpmCgVzaG9ydBUAAAAAGgthYmJyZXZpYXRlZBoMYWJicmV2aWF0aW9uGgdzaG9ydGVuGglzaG9ydGVuZWQaB3Nob3J0ZXIaBXNtYWxsGglzaG9ydGZvcm0aDnNob3J0Zm9ybXZpZGVvKmcKBGZvcm0VIaslPBoMYWJicmV2aWF0aW9uGgNmb3IaBmZvcm1hdBoHZm9ybWluZxoFZm9ybXMaBG5hbWUaBXNoYXBlGgd2ZXJzaW9uGglzaG9ydGZvcm0aDnNob3J0Zm9ybXZpZGVvKjAKBXZpZGVvFa7I-EAaBnZpZGVvcxoOc2hvcnRmb3JtdmlkZW8aCnZpZGVvY2xpcHMqNgoFY2xpcHMVl52WPRoEY2xpcBoFZmlsZXMaB2Zvb3RhZ2UaBnZlZGlvcxoKdmlkZW9jbGlwczKgAS9nb3RvP3VybD1DQUVTYkFIRUlrWFh1cGp5aXpQWlF1OHZQTXE4LU9JZzNURi1iVVhmQmhwUEx1cXpxb1djS1hEWGZ0UlJqREJwUzJkaDBEM1Jicnl0aC1hYUtLVlM0S2FEWEVKaGFGWFZQUWVMNDN1ejA1N3BKajNZckx0dkEwV0pGTlhlVERXeXJEVnNQbXVLaTJYTGdtdzNaaW1NbkE6JjxiPlZpZGVvIFByb2dyZXNzIEJhcjwvYj4gLSBDbG91ZGluYXJ5QnFBZGQgYW4gYW5pbWF0ZWQgcHJvZ3Jlc3MgYmFyIHRvIGFueSB2aWRlbyBpbiBzZWNvbmRzLiBGcmVlIG9ubGluZSwgb3IgPGI-YXV0b21hdGUgaXQgd2l0aCB0aGUgQ2xvdWRpbmFyeSBBUEk8L2I-LkoCdG9SA2ZvciICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhFSWtYWHVwanlpelBaUXU4dlBNcTgtT0lnM1RGLWJVWGZCaHBQTHVxenFvV2NLWERYZnRSUmpEQnBTMmRoMEQzUmJyeXRoLWFhS0tWUzRLYURYRUpoYUZYVlBRZUw0M3V6MDU3cEpqM1lyTHR2QTBXSkZOWGVURFd5ckRWc1BtdUtpMlhMZ213M1ppbU1uQRIEGgIIABrABxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCcBwgAEAAYACAAKgoKA2hvdxW9Gl0_KgkKAnRvFQAAAAAqLwoNYXV0b21hdGljYWxseRWJ8FY_GgRhdXRvGghhdXRvbWF0ZRoJYXV0b21hdGljKkUKA2FkZBWeDGhAGgVhZGRlZBoGYWRkaW5nGgRhZGRzGgZhcHBlbmQaB2luY2x1ZGUaBmluc2VydBoLYWRkcHJvZ3Jlc3MqRAoIcHJvZ3Jlc3MVylDeQBoLcHJvZ3Jlc3NiYXIaC3Byb2dyZXNzaW9uGgthZGRwcm9ncmVzcxoMcHJvZ3Jlc3NiYXJzKjAKBGJhcnMVLHgAQBoDYmFyGgtwcm9ncmVzc2JhchoDcHViGgxwcm9ncmVzc2JhcnMqCQoCdG8VAAAAACpmCgVzaG9ydBUAAAAAGgthYmJyZXZpYXRlZBoMYWJicmV2aWF0aW9uGgdzaG9ydGVuGglzaG9ydGVuZWQaB3Nob3J0ZXIaBXNtYWxsGglzaG9ydGZvcm0aDnNob3J0Zm9ybXZpZGVvKmcKBGZvcm0VIaslPBoMYWJicmV2aWF0aW9uGgNmb3IaBmZvcm1hdBoHZm9ybWluZxoFZm9ybXMaBG5hbWUaBXNoYXBlGgd2ZXJzaW9uGglzaG9ydGZvcm0aDnNob3J0Zm9ybXZpZGVvKjAKBXZpZGVvFa7I-EAaBnZpZGVvcxoOc2hvcnRmb3JtdmlkZW8aCnZpZGVvY2xpcHMqNgoFY2xpcHMVl52WPRoEY2xpcBoFZmlsZXMaB2Zvb3RhZ2UaBnZlZGlvcxoKdmlkZW9jbGlwczKgAS9nb3RvP3VybD1DQUVTYkFIRUlrWFh1cGp5aXpQWlF1OHZQTXE4LU9JZzNURi1iVVhmQmhwUEx1cXpxb1djS1hEWGZ0UlJqREJwUzJkaDBEM1Jicnl0aC1hYUtLVlM0S2FEWEVKaGFGWFZQUWVMNDN1ejA1N3BKajNZckx0dkEwV0pGTlhlVERXeXJEVnNQbXVLaTJYTGdtdzNaaW1NbkE6JjxiPlZpZGVvIFByb2dyZXNzIEJhcjwvYj4gLSBDbG91ZGluYXJ5QnFBZGQgYW4gYW5pbWF0ZWQgcHJvZ3Jlc3MgYmFyIHRvIGFueSB2aWRlbyBpbiBzZWNvbmRzLiBGcmVlIG9ubGluZSwgb3IgPGI-YXV0b21hdGUgaXQgd2l0aCB0aGUgQ2xvdWRpbmFyeSBBUEk8L2I-LkoCdG9SA2ZvciICEAFIAFgAaAA",
+        "source": "Cloudinary"
+      },
+      {
+        "position": 2,
+        "title": "How to add an animated progress bar to a video in Python",
+        "link": "https://shotstack.io/learn/add-progress-bar-to-video-python/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHEIkXXlUQqAiDohoW6GdsCKt7l3T6K0w0IYvX8HyzSsdvoksTtcAIgS7C-SJGAgEtjxUTEIzoBisMdFtpK_X-ycmJPJwGGtAjIQDVe4unDTco9iWZ0-vcPD7QQvoFGo6RPJxCHpnT0ZA4Q30xcI7LN5HoRRonUhIM&ved=2ahUKEwiEo_6C3JuYAxW2k2oFHaq4O5EQFnoECBYQAQ&uoh=1",
+        "displayed_link": "https://shotstack.io \u203a Learn",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAANlBMVEVHcEwj09Al09Al09Aj09Al09Al09Al09Ak09Al09Ak09Al09Al09Ak09Ak09Ai09Al09Ak09DDulDiAAAAEnRSTlMAH8rVLJL_pFD1XrPnSXgNwzzWGb0XAAAA1klEQVR4AXWS0Q6DIBAET8BBRaH-_882m2rOS9t5YiEZYMGeTCkX-8MMUO0XC8AKbCaiEWhmFcjTt3EvGpUdmM05ZOt36tIfVxgvGYc5DXiNe8hpgRNoJjZplrCmfa8ZDUnDfBtZXSL693lEgq6p8zISGtDNJKsVSErx7EP9ieWTnAHt09Ps6VlfkX-6U6gXckjJw7kCh-funY2G2M1Z73SgKx7hlReUvPgModz2eDIr0H0b0ng-9tbAy13iPVmh-jd5MmXE5B8ssCHwQ0cqyPyHklMwvgEeUwmJ20g6pwAAAABJRU5ErkJggg.png",
+        "date": "9 Nov 2026",
+        "snippet": "Learn how to add an animated progress bar to a video with Python and the Shotstack Edit API. The bar fills across the video's exact length.",
+        "snippet_highlighted_words": [
+          "Learn how to add an animated progress bar to a video"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Learn how to add an animated progress bar to a video with Python and the Shotstack Edit API. The bar fills across the video's exact length.",
+            "source_info_link": "https://shotstack.io/learn/add-progress-bar-to-video-python/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAANlBMVEVHcEwj09Al09Al09Aj09Al09Al09Al09Ak09Al09Ak09Al09Al09Ak09Ak09Ai09Al09Ak09DDulDiAAAAEnRSTlMAH8rVLJL_pFD1XrPnSXgNwzzWGb0XAAAA1klEQVR4AXWS0Q6DIBAET8BBRaH-_882m2rOS9t5YiEZYMGeTCkX-8MMUO0XC8AKbCaiEWhmFcjTt3EvGpUdmM05ZOt36tIfVxgvGYc5DXiNe8hpgRNoJjZplrCmfa8ZDUnDfBtZXSL693lEgq6p8zISGtDNJKsVSErx7EP9ieWTnAHt09Ps6VlfkX-6U6gXckjJw7kCh-funY2G2M1Z73SgKx7hlReUvPgModz2eDIr0H0b0ng-9tbAy13iPVmh-jd5MmXE5B8ssCHwQ0cqyPyHklMwvgEeUwmJ20g6pwAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhFSWtYWHJ3c29MeERpSDl2YS1hRS1vZF8zUU91dTlyQnQtNkxWdjZVdXNzN3lsZVhUejZ0SjF3aWJ4dXJiMmExMEQtS2RaTmNCNUszSXotcVMtT0dOU0RYOWRIYnBDRWJoUjdRMVRsaU90MDdiNUM0VENqenNHUW1sTDVMWHZDMkZWTFRKS3l6Y3YxZDNjTFNrWHpwRy1uUjJYd0VlLThvEgQaAggAGp4IEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQPoHCAAQABgAIAAqCgoDaG93FTRxjkAqCQoCdG8VAAAAACovCg1hdXRvbWF0aWNhbGx5FQAAAAAaBGF1dG8aCGF1dG9tYXRlGglhdXRvbWF0aWMqRQoDYWRkFZi0nEAaBWFkZGVkGgZhZGRpbmcaBGFkZHMaBmFwcGVuZBoHaW5jbHVkZRoGaW5zZXJ0GgthZGRwcm9ncmVzcypECghwcm9ncmVzcxWGc6xAGgtwcm9ncmVzc2JhchoLcHJvZ3Jlc3Npb24aC2FkZHByb2dyZXNzGgxwcm9ncmVzc2JhcnMqMAoEYmFycxUcjNY-GgNiYXIaC3Byb2dyZXNzYmFyGgNwdWIaDHByb2dyZXNzYmFycyoJCgJ0bxUAAAAAKmYKBXNob3J0FbjMnT8aC2FiYnJldmlhdGVkGgxhYmJyZXZpYXRpb24aB3Nob3J0ZW4aCXNob3J0ZW5lZBoHc2hvcnRlchoFc21hbGwaCXNob3J0Zm9ybRoOc2hvcnRmb3JtdmlkZW8qZwoEZm9ybRUcjNY-GgxhYmJyZXZpYXRpb24aA2ZvchoGZm9ybWF0Ggdmb3JtaW5nGgVmb3JtcxoEbmFtZRoFc2hhcGUaB3ZlcnNpb24aCXNob3J0Zm9ybRoOc2hvcnRmb3JtdmlkZW8qMAoFdmlkZW8V4_zeQBoGdmlkZW9zGg5zaG9ydGZvcm12aWRlbxoKdmlkZW9jbGlwcyo2CgVjbGlwcxXhoVU_GgRjbGlwGgVmaWxlcxoHZm9vdGFnZRoGdmVkaW9zGgp2aWRlb2NsaXBzMrEBL2dvdG8_dXJsPUNBRVNlUUhFSWtYWHJ3c29MeERpSDl2YS1hRS1vZF8zUU91dTlyQnQtNkxWdjZVdXNzN3lsZVhUejZ0SjF3aWJ4dXJiMmExMEQtS2RaTmNCNUszSXotcVMtT0dOU0RYOWRIYnBDRWJoUjdRMVRsaU90MDdiNUM0VENqenNHUW1sTDVMWHZDMkZWTFRKS3l6Y3YxZDNjTFNrWHpwRy1uUjJYd0VlLThvOk1Ib3cgdG8gPGI-YWRkPC9iPiBhbiBhbmltYXRlZCA8Yj5wcm9ncmVzcyBiYXI8L2I-IHRvIGEgPGI-dmlkZW88L2I-IGluIFB5dGhvbkKWATxiPkxlYXJuIGhvdyB0byBhZGQgYW4gYW5pbWF0ZWQgcHJvZ3Jlc3MgYmFyIHRvIGEgdmlkZW88L2I-IHdpdGggUHl0aG9uIGFuZCB0aGUgU2hvdHN0YWNrIEVkaXQgQVBJLiBUaGUgYmFyIGZpbGxzIGFjcm9zcyB0aGUgdmlkZW8mIzM5O3MgZXhhY3QgbGVuZ3RoLkoCdG9SA2ZvciICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhFSWtYWHJ3c29MeERpSDl2YS1hRS1vZF8zUU91dTlyQnQtNkxWdjZVdXNzN3lsZVhUejZ0SjF3aWJ4dXJiMmExMEQtS2RaTmNCNUszSXotcVMtT0dOU0RYOWRIYnBDRWJoUjdRMVRsaU90MDdiNUM0VENqenNHUW1sTDVMWHZDMkZWTFRKS3l6Y3YxZDNjTFNrWHpwRy1uUjJYd0VlLThvEgQaAggAGp4IEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQPoHCAAQABgAIAAqCgoDaG93FTRxjkAqCQoCdG8VAAAAACovCg1hdXRvbWF0aWNhbGx5FQAAAAAaBGF1dG8aCGF1dG9tYXRlGglhdXRvbWF0aWMqRQoDYWRkFZi0nEAaBWFkZGVkGgZhZGRpbmcaBGFkZHMaBmFwcGVuZBoHaW5jbHVkZRoGaW5zZXJ0GgthZGRwcm9ncmVzcypECghwcm9ncmVzcxWGc6xAGgtwcm9ncmVzc2JhchoLcHJvZ3Jlc3Npb24aC2FkZHByb2dyZXNzGgxwcm9ncmVzc2JhcnMqMAoEYmFycxUcjNY-GgNiYXIaC3Byb2dyZXNzYmFyGgNwdWIaDHByb2dyZXNzYmFycyoJCgJ0bxUAAAAAKmYKBXNob3J0FbjMnT8aC2FiYnJldmlhdGVkGgxhYmJyZXZpYXRpb24aB3Nob3J0ZW4aCXNob3J0ZW5lZBoHc2hvcnRlchoFc21hbGwaCXNob3J0Zm9ybRoOc2hvcnRmb3JtdmlkZW8qZwoEZm9ybRUcjNY-GgxhYmJyZXZpYXRpb24aA2ZvchoGZm9ybWF0Ggdmb3JtaW5nGgVmb3JtcxoEbmFtZRoFc2hhcGUaB3ZlcnNpb24aCXNob3J0Zm9ybRoOc2hvcnRmb3JtdmlkZW8qMAoFdmlkZW8V4_zeQBoGdmlkZW9zGg5zaG9ydGZvcm12aWRlbxoKdmlkZW9jbGlwcyo2CgVjbGlwcxXhoVU_GgRjbGlwGgVmaWxlcxoHZm9vdGFnZRoGdmVkaW9zGgp2aWRlb2NsaXBzMrEBL2dvdG8_dXJsPUNBRVNlUUhFSWtYWHJ3c29MeERpSDl2YS1hRS1vZF8zUU91dTlyQnQtNkxWdjZVdXNzN3lsZVhUejZ0SjF3aWJ4dXJiMmExMEQtS2RaTmNCNUszSXotcVMtT0dOU0RYOWRIYnBDRWJoUjdRMVRsaU90MDdiNUM0VENqenNHUW1sTDVMWHZDMkZWTFRKS3l6Y3YxZDNjTFNrWHpwRy1uUjJYd0VlLThvOk1Ib3cgdG8gPGI-YWRkPC9iPiBhbiBhbmltYXRlZCA8Yj5wcm9ncmVzcyBiYXI8L2I-IHRvIGEgPGI-dmlkZW88L2I-IGluIFB5dGhvbkKWATxiPkxlYXJuIGhvdyB0byBhZGQgYW4gYW5pbWF0ZWQgcHJvZ3Jlc3MgYmFyIHRvIGEgdmlkZW88L2I-IHdpdGggUHl0aG9uIGFuZCB0aGUgU2hvdHN0YWNrIEVkaXQgQVBJLiBUaGUgYmFyIGZpbGxzIGFjcm9zcyB0aGUgdmlkZW8mIzM5O3MgZXhhY3QgbGVuZ3RoLkoCdG9SA2ZvciICEAFIAFgAaAA",
+        "source": "Shotstack"
+      },
+      {
+        "position": 3,
+        "title": "How can I add a progress bar to my video? : r/kdenlive",
+        "link": "https://www.google.com/goto?url=CAESmAEBxCJF1_PpyVzNxcilw6RxpzmNYCD-Ropkepk0xJC_gZ2SIvoPjQocEb9ORu3uKbuBK1_Fhjsu7vWTIu4VfGpxW8FtcJn-PsTkyCbZgosoUxf5cD6a9CQWGSe0v-CWR22ka7x2OuFx_a0hnr9L1jfJ5PQBOsbtS6FHK6F2YsSNKuNzGyqCsR0iCCNNg2vaGLJQvJ3P2oH_AQ",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmAEBxCJF15_AwT96YUTbYG0YMQCcsKP2KgUVJ1uwn5-j8CYU9CD-6CoNo225FaYWVKtl0qXeu6nYH9phMNe5Jx6XcRTD6FlJ9391ZxkAec0yjStgmrruf42zeKJq9Zaswe13jQTbJgp6lT9HR0Yxn05zrJF2phrWSaYMd6pRbAjgeGH1dI9a_-tlUaUnqhWxtoqf7rzHRvBRyg&ved=2ahUKEwiEo_6C3JuYAxW2k2oFHaq4O5EQFnoECCAQAQ&uoh=1",
+        "displayed_link": "5 comments",
+        "date": "4 years ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+        "snippet": "I'm looking to add a progress bar / timer to my video, how can I do that? Here are some examples of what I'm talking about : https://youtu.be/ANtdNbCXgPA ...",
+        "about_this_result": {
+          "source": {
+            "description": "Go to the Effects window. Generate a solid color background. Put it on the very top video track. Crop the top all the way down so it's the ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESmAEBxCJF1_PpyVzNxcilw6RxpzmNYCD-Ropkepk0xJC_gZ2SIvoPjQocEb9ORu3uKbuBK1_Fhjsu7vWTIu4VfGpxW8FtcJn-PsTkyCbZgosoUxf5cD6a9CQWGSe0v-CWR22ka7x2OuFx_a0hnr9L1jfJ5PQBOsbtS6FHK6F2YsSNKuNzGyqCsR0iCCNNg2vaGLJQvJ3P2oH_AQ",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtwBL2dvdG8_dXJsPUNBRVNtQUVCeENKRjFfUHB5VnpOeGNpbHc2Unhwem1OWUNELVJvcGtlcGsweEpDX2daMlNJdm9QalFvY0ViOU9SdTN1S2J1QksxX0ZoanN1N3ZXVEl1NFZmR3B4VzhGdGNKbi1Qc1RreUNiWmdvc29VeGY1Y0Q2YTlDUVdHU2Uwdi1DV1IyMmthN3gyT3VGeF9hMGhucjlMMWpmSjVQUUJPc2J0UzZGSEs2RjJZc1NOS3VOekd5cUNzUjBpQ0NOTmcydmFHTEpRdkozUDJvSF9BURIEGgIIABrYCBIAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkC0CAgAEAAYACAAKgoKA2hvdxUSrKhAKgkKAnRvFQAAAAAqLwoNYXV0b21hdGljYWxseRUAAAAAGgRhdXRvGghhdXRvbWF0ZRoJYXV0b21hdGljKkUKA2FkZBV4GqdAGgVhZGRlZBoGYWRkaW5nGgRhZGRzGgZhcHBlbmQaB2luY2x1ZGUaBmluc2VydBoLYWRkcHJvZ3Jlc3MqRAoIcHJvZ3Jlc3MV2HW8QBoLcHJvZ3Jlc3NiYXIaC3Byb2dyZXNzaW9uGgthZGRwcm9ncmVzcxoMcHJvZ3Jlc3NiYXJzKjAKBGJhcnMViBAMQBoDYmFyGgtwcm9ncmVzc2JhchoDcHViGgxwcm9ncmVzc2JhcnMqCQoCdG8VAAAAACpmCgVzaG9ydBVscT8_GgthYmJyZXZpYXRlZBoMYWJicmV2aWF0aW9uGgdzaG9ydGVuGglzaG9ydGVuZWQaB3Nob3J0ZXIaBXNtYWxsGglzaG9ydGZvcm0aDnNob3J0Zm9ybXZpZGVvKmcKBGZvcm0VAAAAABoMYWJicmV2aWF0aW9uGgNmb3IaBmZvcm1hdBoHZm9ybWluZxoFZm9ybXMaBG5hbWUaBXNoYXBlGgd2ZXJzaW9uGglzaG9ydGZvcm0aDnNob3J0Zm9ybXZpZGVvKjAKBXZpZGVvFcw-s0AaBnZpZGVvcxoOc2hvcnRmb3JtdmlkZW8aCnZpZGVvY2xpcHMqNgoFY2xpcHMVAAAAABoEY2xpcBoFZmlsZXMaB2Zvb3RhZ2UaBnZlZGlvcxoKdmlkZW9jbGlwczLcAS9nb3RvP3VybD1DQUVTbUFFQnhDSkYxX1BweVZ6TnhjaWx3NlJ4cHptTllDRC1Sb3BrZXBrMHhKQ19nWjJTSXZvUGpRb2NFYjlPUnUzdUtidUJLMV9GaGpzdTd2V1RJdTRWZkdweFc4RnRjSm4tUHNUa3lDYlpnb3NvVXhmNWNENmE5Q1FXR1NlMHYtQ1dSMjJrYTd4Mk91RnhfYTBobnI5TDFqZko1UFFCT3NidFM2RkhLNkYyWXNTTkt1TnpHeXFDc1IwaUNDTk5nMnZhR0xKUXZKM1Ayb0hfQVE6VEhvdyBjYW4gSSA8Yj5hZGQ8L2I-IGEgPGI-cHJvZ3Jlc3MgYmFyPC9iPiB0byBteSA8Yj52aWRlbzwvYj4_IDogci9rZGVubGl2ZSAtIFJlZGRpdEKeATxiPkdvIHRvIHRoZSBFZmZlY3RzIHdpbmRvdzwvYj4uIEdlbmVyYXRlIGEgc29saWQgY29sb3IgYmFja2dyb3VuZC4gUHV0IGl0IG9uIHRoZSB2ZXJ5IHRvcCB2aWRlbyB0cmFjay4gQ3JvcCB0aGUgdG9wIGFsbCB0aGUgd2F5IGRvd24gc28gaXQmIzM5O3MgdGhlJm5ic3A7Li4uSgJ0b1IDZm9yIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtwBL2dvdG8_dXJsPUNBRVNtQUVCeENKRjFfUHB5VnpOeGNpbHc2Unhwem1OWUNELVJvcGtlcGsweEpDX2daMlNJdm9QalFvY0ViOU9SdTN1S2J1QksxX0ZoanN1N3ZXVEl1NFZmR3B4VzhGdGNKbi1Qc1RreUNiWmdvc29VeGY1Y0Q2YTlDUVdHU2Uwdi1DV1IyMmthN3gyT3VGeF9hMGhucjlMMWpmSjVQUUJPc2J0UzZGSEs2RjJZc1NOS3VOekd5cUNzUjBpQ0NOTmcydmFHTEpRdkozUDJvSF9BURIEGgIIABrYCBIAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkC0CAgAEAAYACAAKgoKA2hvdxUSrKhAKgkKAnRvFQAAAAAqLwoNYXV0b21hdGljYWxseRUAAAAAGgRhdXRvGghhdXRvbWF0ZRoJYXV0b21hdGljKkUKA2FkZBV4GqdAGgVhZGRlZBoGYWRkaW5nGgRhZGRzGgZhcHBlbmQaB2luY2x1ZGUaBmluc2VydBoLYWRkcHJvZ3Jlc3MqRAoIcHJvZ3Jlc3MV2HW8QBoLcHJvZ3Jlc3NiYXIaC3Byb2dyZXNzaW9uGgthZGRwcm9ncmVzcxoMcHJvZ3Jlc3NiYXJzKjAKBGJhcnMViBAMQBoDYmFyGgtwcm9ncmVzc2JhchoDcHViGgxwcm9ncmVzc2JhcnMqCQoCdG8VAAAAACpmCgVzaG9ydBVscT8_GgthYmJyZXZpYXRlZBoMYWJicmV2aWF0aW9uGgdzaG9ydGVuGglzaG9ydGVuZWQaB3Nob3J0ZXIaBXNtYWxsGglzaG9ydGZvcm0aDnNob3J0Zm9ybXZpZGVvKmcKBGZvcm0VAAAAABoMYWJicmV2aWF0aW9uGgNmb3IaBmZvcm1hdBoHZm9ybWluZxoFZm9ybXMaBG5hbWUaBXNoYXBlGgd2ZXJzaW9uGglzaG9ydGZvcm0aDnNob3J0Zm9ybXZpZGVvKjAKBXZpZGVvFcw-s0AaBnZpZGVvcxoOc2hvcnRmb3JtdmlkZW8aCnZpZGVvY2xpcHMqNgoFY2xpcHMVAAAAABoEY2xpcBoFZmlsZXMaB2Zvb3RhZ2UaBnZlZGlvcxoKdmlkZW9jbGlwczLcAS9nb3RvP3VybD1DQUVTbUFFQnhDSkYxX1BweVZ6TnhjaWx3NlJ4cHptTllDRC1Sb3BrZXBrMHhKQ19nWjJTSXZvUGpRb2NFYjlPUnUzdUtidUJLMV9GaGpzdTd2V1RJdTRWZkdweFc4RnRjSm4tUHNUa3lDYlpnb3NvVXhmNWNENmE5Q1FXR1NlMHYtQ1dSMjJrYTd4Mk91RnhfYTBobnI5TDFqZko1UFFCT3NidFM2RkhLNkYyWXNTTkt1TnpHeXFDc1IwaUNDTk5nMnZhR0xKUXZKM1Ayb0hfQVE6VEhvdyBjYW4gSSA8Yj5hZGQ8L2I-IGEgPGI-cHJvZ3Jlc3MgYmFyPC9iPiB0byBteSA8Yj52aWRlbzwvYj4_IDogci9rZGVubGl2ZSAtIFJlZGRpdEKeATxiPkdvIHRvIHRoZSBFZmZlY3RzIHdpbmRvdzwvYj4uIEdlbmVyYXRlIGEgc29saWQgY29sb3IgYmFja2dyb3VuZC4gUHV0IGl0IG9uIHRoZSB2ZXJ5IHRvcCB2aWRlbyB0cmFjay4gQ3JvcCB0aGUgdG9wIGFsbCB0aGUgd2F5IGRvd24gc28gaXQmIzM5O3MgdGhlJm5ic3A7Li4uSgJ0b1IDZm9yIgIQAUgAWABoAA",
+        "source": "Reddit \u00b7 r/kdenlive"
+      },
+      {
+        "position": 4,
+        "title": "Add Progress Bar To Video",
+        "link": "https://www.google.com/goto?url=CAEScwHEIkXXOANj0hxJVh0GseVe_QKvIICOJiSHxBLs9i7opNmq0BaLj7qE2ZkojCl64g3EdQZfQBF2KMi53ZdWIVpE44eK47DUwFMXwNLvwUmPK2Clws7FKMAuOtBmskiB48QhONkC1AlgrnKld4aEqaxhP2A",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHEIkXXDVuvJuMo8dmtr13wVUCMNbsTZjT9OwSdE5eUqxWv1HY2kZF-ZJXX6HFhSpSsfOK-W7OPVvXnZBCHi1zW-OrgZaj5dbSQ850WxBSdZxc-w9nhYcl89I7BpdbprNtkQiYFjEdGEXrkozNg7c3WsJ4&ved=2ahUKEwiEo_6C3JuYAxW2k2oFHaq4O5EQFnoECBcQAQ&uoh=1",
+        "displayed_link": "https://www.kapwing.com \u203a Tools \u203a Add Effects",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAxlBMVEX____-___3vd_3g773iLH4iav4iqD3ipT3iYr4ioH3jHj2h2r63dr3bb3_L5v_OYj_OXn_O2f_PFP_PUH_Piz_QRb_NwD3sZv_OJ7_PY3_QX3_Qjb-SCL2isX-O6L3OWn4wrT5zej7U6z7XK78XaD6XJT5XYX4Xn35X3X5YGr5YV_6YVf8YUv7YkL4XCf40L_1rdj_Lab9PJr_PYP_P3T_QF7_QVH_Qwz7XnD3PEb669v5KYb3Txv_RTv44dD4o9r53e73m4nzh0s_AAAAwklEQVR4AdWQgwHEQBBFN2fbVmxb_Td1sRvIDxZvDNouKBCAQE2dbq8_GI7Gk-ms7jNfLFfrzXa3Pxwb4Ol8CeD11gDB_bG8PCPPV7GEdBe8sTL4_ny_PxhGUAzHCZKkaJphM8jxD-EsXqS1rCjb6-62V4OcZSg1QigPqxEESZXChvnTX7hGZeWDCXqX9ev-YHDmU99ZxWIBtwh61-3bwXFNSdmpMUph6hnAwLMMvXDe4biNd7c_HPvlmYI0CRR_rdQfjP8XrUUdD_wAAAAASUVORK5CYII.png",
+        "snippet": "Simply upload your video, click on Elements, and select Add progress bar. You'll be able to easily adjust the style, position, and color of your progress bar.",
+        "snippet_highlighted_words": [
+          "Simply upload your video, click on Elements, and select Add progress bar"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.9,
+              "reviews": 5231
+            },
+            "extensions": [
+              "4.9(5,231)"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Simply upload your video, click on Elements, and select Add progress bar. You'll be able to easily adjust the style, position, and color of your progress bar.",
+            "source_info_link": "https://www.google.com/goto?url=CAEScwHEIkXXOANj0hxJVh0GseVe_QKvIICOJiSHxBLs9i7opNmq0BaLj7qE2ZkojCl64g3EdQZfQBF2KMi53ZdWIVpE44eK47DUwFMXwNLvwUmPK2Clws7FKMAuOtBmskiB48QhONkC1AlgrnKld4aEqaxhP2A",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAxlBMVEX____-___3vd_3g773iLH4iav4iqD3ipT3iYr4ioH3jHj2h2r63dr3bb3_L5v_OYj_OXn_O2f_PFP_PUH_Piz_QRb_NwD3sZv_OJ7_PY3_QX3_Qjb-SCL2isX-O6L3OWn4wrT5zej7U6z7XK78XaD6XJT5XYX4Xn35X3X5YGr5YV_6YVf8YUv7YkL4XCf40L_1rdj_Lab9PJr_PYP_P3T_QF7_QVH_Qwz7XnD3PEb669v5KYb3Txv_RTv44dD4o9r53e73m4nzh0s_AAAAwklEQVR4AdWQgwHEQBBFN2fbVmxb_Td1sRvIDxZvDNouKBCAQE2dbq8_GI7Gk-ms7jNfLFfrzXa3Pxwb4Ol8CeD11gDB_bG8PCPPV7GEdBe8sTL4_ny_PxhGUAzHCZKkaJphM8jxD-EsXqS1rCjb6-62V4OcZSg1QigPqxEESZXChvnTX7hGZeWDCXqX9ev-YHDmU99ZxWIBtwh61-3bwXFNSdmpMUph6hnAwLMMvXDe4biNd7c_HPvlmYI0CRR_rdQfjP8XrUUdD_wAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqkBL2dvdG8_dXJsPUNBRVNjd0hFSWtYWE9BTmowaHhKVmgwR3NlVmVfUUt2SUlDT0ppU0h4QkxzOWk3b3BObXEwQmFMajdxRTJaa29qQ2w2NGczRWRRWmZRQkYyS01pNTNaZFdJVnBFNDRlSzQ3RFV3Rk1Yd05MdndVbVBLMkNsd3M3RktNQXVPdEJtc2tpQjQ4UWhPTmtDMUFsZ3JuS2xkNGFFcWF4aFAyQRIEGgIIABqNCBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDpBwgAEAAYACAAKgoKA2hvdxXNUAVAKgkKAnRvFQAAAAAqLwoNYXV0b21hdGljYWxseRVGTKc-GgRhdXRvGghhdXRvbWF0ZRoJYXV0b21hdGljKkUKA2FkZBXcmdhAGgVhZGRlZBoGYWRkaW5nGgRhZGRzGgZhcHBlbmQaB2luY2x1ZGUaBmluc2VydBoLYWRkcHJvZ3Jlc3MqRAoIcHJvZ3Jlc3MV6NXkQBoLcHJvZ3Jlc3NiYXIaC3Byb2dyZXNzaW9uGgthZGRwcm9ncmVzcxoMcHJvZ3Jlc3NiYXJzKjAKBGJhcnMV4d70PxoDYmFyGgtwcm9ncmVzc2JhchoDcHViGgxwcm9ncmVzc2JhcnMqCQoCdG8VAAAAACpmCgVzaG9ydBWqwsY9GgthYmJyZXZpYXRlZBoMYWJicmV2aWF0aW9uGgdzaG9ydGVuGglzaG9ydGVuZWQaB3Nob3J0ZXIaBXNtYWxsGglzaG9ydGZvcm0aDnNob3J0Zm9ybXZpZGVvKmcKBGZvcm0VAAAAABoMYWJicmV2aWF0aW9uGgNmb3IaBmZvcm1hdBoHZm9ybWluZxoFZm9ybXMaBG5hbWUaBXNoYXBlGgd2ZXJzaW9uGglzaG9ydGZvcm0aDnNob3J0Zm9ybXZpZGVvKjAKBXZpZGVvFdsJ7kAaBnZpZGVvcxoOc2hvcnRmb3JtdmlkZW8aCnZpZGVvY2xpcHMqNgoFY2xpcHMVQavKPxoEY2xpcBoFZmlsZXMaB2Zvb3RhZ2UaBnZlZGlvcxoKdmlkZW9jbGlwczKpAS9nb3RvP3VybD1DQUVTY3dIRUlrWFhPQU5qMGh4SlZoMEdzZVZlX1FLdklJQ09KaVNIeEJMczlpN29wTm1xMEJhTGo3cUUyWmtvakNsNjRnM0VkUVpmUUJGMktNaTUzWmRXSVZwRTQ0ZUs0N0RVd0ZNWHdOTHZ3VW1QSzJDbHdzN0ZLTUF1T3RCbXNraUI0OFFoT05rQzFBbGdybktsZDRhRXFheGhQMkE6MTxiPkFkZCBQcm9ncmVzcyBCYXI8L2I-IFRvIDxiPlZpZGVvPC9iPiAtIEthcHdpbmdCqQE8Yj5TaW1wbHkgdXBsb2FkIHlvdXIgdmlkZW8sIGNsaWNrIG9uIEVsZW1lbnRzLCBhbmQgc2VsZWN0IEFkZCBwcm9ncmVzcyBiYXI8L2I-LiBZb3UmIzM5O2xsIGJlIGFibGUgdG8gZWFzaWx5IGFkanVzdCB0aGUgc3R5bGUsIHBvc2l0aW9uLCBhbmQgY29sb3Igb2YgeW91ciBwcm9ncmVzcyBiYXIuSgJ0b1IDZm9yIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqkBL2dvdG8_dXJsPUNBRVNjd0hFSWtYWE9BTmowaHhKVmgwR3NlVmVfUUt2SUlDT0ppU0h4QkxzOWk3b3BObXEwQmFMajdxRTJaa29qQ2w2NGczRWRRWmZRQkYyS01pNTNaZFdJVnBFNDRlSzQ3RFV3Rk1Yd05MdndVbVBLMkNsd3M3RktNQXVPdEJtc2tpQjQ4UWhPTmtDMUFsZ3JuS2xkNGFFcWF4aFAyQRIEGgIIABqNCBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDpBwgAEAAYACAAKgoKA2hvdxXNUAVAKgkKAnRvFQAAAAAqLwoNYXV0b21hdGljYWxseRVGTKc-GgRhdXRvGghhdXRvbWF0ZRoJYXV0b21hdGljKkUKA2FkZBXcmdhAGgVhZGRlZBoGYWRkaW5nGgRhZGRzGgZhcHBlbmQaB2luY2x1ZGUaBmluc2VydBoLYWRkcHJvZ3Jlc3MqRAoIcHJvZ3Jlc3MV6NXkQBoLcHJvZ3Jlc3NiYXIaC3Byb2dyZXNzaW9uGgthZGRwcm9ncmVzcxoMcHJvZ3Jlc3NiYXJzKjAKBGJhcnMV4d70PxoDYmFyGgtwcm9ncmVzc2JhchoDcHViGgxwcm9ncmVzc2JhcnMqCQoCdG8VAAAAACpmCgVzaG9ydBWqwsY9GgthYmJyZXZpYXRlZBoMYWJicmV2aWF0aW9uGgdzaG9ydGVuGglzaG9ydGVuZWQaB3Nob3J0ZXIaBXNtYWxsGglzaG9ydGZvcm0aDnNob3J0Zm9ybXZpZGVvKmcKBGZvcm0VAAAAABoMYWJicmV2aWF0aW9uGgNmb3IaBmZvcm1hdBoHZm9ybWluZxoFZm9ybXMaBG5hbWUaBXNoYXBlGgd2ZXJzaW9uGglzaG9ydGZvcm0aDnNob3J0Zm9ybXZpZGVvKjAKBXZpZGVvFdsJ7kAaBnZpZGVvcxoOc2hvcnRmb3JtdmlkZW8aCnZpZGVvY2xpcHMqNgoFY2xpcHMVQavKPxoEY2xpcBoFZmlsZXMaB2Zvb3RhZ2UaBnZlZGlvcxoKdmlkZW9jbGlwczKpAS9nb3RvP3VybD1DQUVTY3dIRUlrWFhPQU5qMGh4SlZoMEdzZVZlX1FLdklJQ09KaVNIeEJMczlpN29wTm1xMEJhTGo3cUUyWmtvakNsNjRnM0VkUVpmUUJGMktNaTUzWmRXSVZwRTQ0ZUs0N0RVd0ZNWHdOTHZ3VW1QSzJDbHdzN0ZLTUF1T3RCbXNraUI0OFFoT05rQzFBbGdybktsZDRhRXFheGhQMkE6MTxiPkFkZCBQcm9ncmVzcyBCYXI8L2I-IFRvIDxiPlZpZGVvPC9iPiAtIEthcHdpbmdCqQE8Yj5TaW1wbHkgdXBsb2FkIHlvdXIgdmlkZW8sIGNsaWNrIG9uIEVsZW1lbnRzLCBhbmQgc2VsZWN0IEFkZCBwcm9ncmVzcyBiYXI8L2I-LiBZb3UmIzM5O2xsIGJlIGFibGUgdG8gZWFzaWx5IGFkanVzdCB0aGUgc3R5bGUsIHBvc2l0aW9uLCBhbmQgY29sb3Igb2YgeW91ciBwcm9ncmVzcyBiYXIuSgJ0b1IDZm9yIgIQAUgAWABoAA",
+        "source": "Kapwing"
+      },
+      {
+        "position": 5,
+        "title": "Add a Progress Bar with AI in Seconds! ...",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXdQvomyWM4e-j_J_7BFD6DIjFuMZqMQ-WVB70REg-j4mh5p3Mxzdjba-eOnkGg4IIr1xNRtIjxpuovrDO-6m6K31JC_AgBR4tT409-vxWMEMUGDdNwbXSe-j9Tl57wBtALTi_",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaAHEIkXXa39QIJI7edHsCA2mNRQIfThtFKYnEnInLA_Jql45dmoFPzx3rGzPn3Z4eLndgMiBJsnSFHkOE1jOs0961HUCwYMrziGAPcmUfq9_YsxleCn7XOH4H54m8kiu2decQ1BfTYUl&ved=2ahUKEwiEo_6C3JuYAxW2k2oFHaq4O5EQFnoECBgQAQ&uoh=1",
+        "displayed_link": "10+ likes",
+        "date": "1 year ago",
+        "favicon": "https://serpapi.com/searches/6b02f2f326e0195da73a4a41/images/MATgSLDnZrEwEf1XHqRI4MEwWdGS5fiLMwZEbzRYUO4.png",
+        "snippet": "In this tutorial, you'll learn how to add a slick, synced progress bar in seconds using quso.ai. From uploading your video or pasting a YouTube ...",
+        "snippet_highlighted_words": [
+          "how to add a slick, synced progress bar in seconds using quso.ai"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "In this tutorial, you'll learn how to add a slick, synced progress bar in seconds using quso.ai. From uploading your video or pasting a YouTube ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESaAHEIkXXdQvomyWM4e-j_J_7BFD6DIjFuMZqMQ-WVB70REg-j4mh5p3Mxzdjba-eOnkGg4IIr1xNRtIjxpuovrDO-6m6K31JC_AgBR4tT409-vxWMEMUGDdNwbXSe-j9Tl57wBtALTi_",
+            "icon": "https://serpapi.com/searches/6b02f2f326e0195da73a4a41/images/MATgSLDnZrEwEf1XHqRI4O_cPZFtGhA3Pxlq7B81Qtidny0mbSJYaGWs-CbvF3Aq.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWGRRdm9teVdNNGUtal9KXzdCRkQ2RElqRnVNWnFNUS1XVkI3MFJFZy1qNG1oNXAzTXh6ZGpiYS1lT25rR2c0SUlyMXhOUnRJanhwdW92ckRPLTZtNkszMUpDX0FnQlI0dFQ0MDktdnhXTUVNVUdEZE53YlhTZS1qOVRsNTd3QnRBTFRpXxIEGgIIABqKCBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDmBwgAEAAYACAAKgoKA2hvdxXWvs0-KgkKAnRvFQAAAAAqLwoNYXV0b21hdGljYWxseRUwNKc9GgRhdXRvGghhdXRvbWF0ZRoJYXV0b21hdGljKkUKA2FkZBXKqV5AGgVhZGRlZBoGYWRkaW5nGgRhZGRzGgZhcHBlbmQaB2luY2x1ZGUaBmluc2VydBoLYWRkcHJvZ3Jlc3MqRAoIcHJvZ3Jlc3MV5jFbQBoLcHJvZ3Jlc3NiYXIaC3Byb2dyZXNzaW9uGgthZGRwcm9ncmVzcxoMcHJvZ3Jlc3NiYXJzKjAKBGJhcnMVAAAAABoDYmFyGgtwcm9ncmVzc2JhchoDcHViGgxwcm9ncmVzc2JhcnMqCQoCdG8VAAAAACpmCgVzaG9ydBV94b0-GgthYmJyZXZpYXRlZBoMYWJicmV2aWF0aW9uGgdzaG9ydGVuGglzaG9ydGVuZWQaB3Nob3J0ZXIaBXNtYWxsGglzaG9ydGZvcm0aDnNob3J0Zm9ybXZpZGVvKmcKBGZvcm0VX3gvPxoMYWJicmV2aWF0aW9uGgNmb3IaBmZvcm1hdBoHZm9ybWluZxoFZm9ybXMaBG5hbWUaBXNoYXBlGgd2ZXJzaW9uGglzaG9ydGZvcm0aDnNob3J0Zm9ybXZpZGVvKjAKBXZpZGVvFVzIyD8aBnZpZGVvcxoOc2hvcnRmb3JtdmlkZW8aCnZpZGVvY2xpcHMqNgoFY2xpcHMVJVfFPhoEY2xpcBoFZmlsZXMaB2Zvb3RhZ2UaBnZlZGlvcxoKdmlkZW9jbGlwczKaAS9nb3RvP3VybD1DQUVTYUFIRUlrWFhkUXZvbXlXTTRlLWpfSl83QkZENkRJakZ1TVpxTVEtV1ZCNzBSRWctajRtaDVwM014emRqYmEtZU9ua0dnNElJcjF4TlJ0SWp4cHVvdnJETy02bTZLMzFKQ19BZ0JSNHRUNDA5LXZ4V01FTVVHRGROd2JYU2UtajlUbDU3d0J0QUxUaV86QzxiPkFkZDwvYj4gYSA8Yj5Qcm9ncmVzcyBCYXI8L2I-IHdpdGggQUkgaW4gU2Vjb25kcyAuLi4gLSBJbnN0YWdyYW1CowFJbiB0aGlzIHR1dG9yaWFsLCB5b3UmIzM5O2xsIGxlYXJuIDxiPmhvdyB0byBhZGQgYSBzbGljaywgc3luY2VkIHByb2dyZXNzIGJhciBpbiBzZWNvbmRzIHVzaW5nIHF1c28uYWk8L2I-LiBGcm9tIHVwbG9hZGluZyB5b3VyIHZpZGVvIG9yIHBhc3RpbmcgYSBZb3VUdWJlJm5ic3A7Li4uSgJ0b1IDZm9yIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWGRRdm9teVdNNGUtal9KXzdCRkQ2RElqRnVNWnFNUS1XVkI3MFJFZy1qNG1oNXAzTXh6ZGpiYS1lT25rR2c0SUlyMXhOUnRJanhwdW92ckRPLTZtNkszMUpDX0FnQlI0dFQ0MDktdnhXTUVNVUdEZE53YlhTZS1qOVRsNTd3QnRBTFRpXxIEGgIIABqKCBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDmBwgAEAAYACAAKgoKA2hvdxXWvs0-KgkKAnRvFQAAAAAqLwoNYXV0b21hdGljYWxseRUwNKc9GgRhdXRvGghhdXRvbWF0ZRoJYXV0b21hdGljKkUKA2FkZBXKqV5AGgVhZGRlZBoGYWRkaW5nGgRhZGRzGgZhcHBlbmQaB2luY2x1ZGUaBmluc2VydBoLYWRkcHJvZ3Jlc3MqRAoIcHJvZ3Jlc3MV5jFbQBoLcHJvZ3Jlc3NiYXIaC3Byb2dyZXNzaW9uGgthZGRwcm9ncmVzcxoMcHJvZ3Jlc3NiYXJzKjAKBGJhcnMVAAAAABoDYmFyGgtwcm9ncmVzc2JhchoDcHViGgxwcm9ncmVzc2JhcnMqCQoCdG8VAAAAACpmCgVzaG9ydBV94b0-GgthYmJyZXZpYXRlZBoMYWJicmV2aWF0aW9uGgdzaG9ydGVuGglzaG9ydGVuZWQaB3Nob3J0ZXIaBXNtYWxsGglzaG9ydGZvcm0aDnNob3J0Zm9ybXZpZGVvKmcKBGZvcm0VX3gvPxoMYWJicmV2aWF0aW9uGgNmb3IaBmZvcm1hdBoHZm9ybWluZxoFZm9ybXMaBG5hbWUaBXNoYXBlGgd2ZXJzaW9uGglzaG9ydGZvcm0aDnNob3J0Zm9ybXZpZGVvKjAKBXZpZGVvFVzIyD8aBnZpZGVvcxoOc2hvcnRmb3JtdmlkZW8aCnZpZGVvY2xpcHMqNgoFY2xpcHMVJVfFPhoEY2xpcBoFZmlsZXMaB2Zvb3RhZ2UaBnZlZGlvcxoKdmlkZW9jbGlwczKaAS9nb3RvP3VybD1DQUVTYUFIRUlrWFhkUXZvbXlXTTRlLWpfSl83QkZENkRJakZ1TVpxTVEtV1ZCNzBSRWctajRtaDVwM014emRqYmEtZU9ua0dnNElJcjF4TlJ0SWp4cHVvdnJETy02bTZLMzFKQ19BZ0JSNHRUNDA5LXZ4V01FTVVHRGROd2JYU2UtajlUbDU3d0J0QUxUaV86QzxiPkFkZDwvYj4gYSA8Yj5Qcm9ncmVzcyBCYXI8L2I-IHdpdGggQUkgaW4gU2Vjb25kcyAuLi4gLSBJbnN0YWdyYW1CowFJbiB0aGlzIHR1dG9yaWFsLCB5b3UmIzM5O2xsIGxlYXJuIDxiPmhvdyB0byBhZGQgYSBzbGljaywgc3luY2VkIHByb2dyZXNzIGJhciBpbiBzZWNvbmRzIHVzaW5nIHF1c28uYWk8L2I-LiBGcm9tIHVwbG9hZGluZyB5b3VyIHZpZGVvIG9yIHBhc3RpbmcgYSBZb3VUdWJlJm5ic3A7Li4uSgJ0b1IDZm9yIgIQAUgAWABoAA",
+        "source": "Instagram \u00b7 quso.ai",
+        "read_more_link": "https://www.google.com/goto?url=CAESyAEBxCJF162BZJ6Tq_a76LXpkq1djna2a3qstyzLQ4pjGAr4Q5-quQcdXbzQ4yZByr8arsWFxOreNwTf25Y8_QKl-73nvruvY5Vcthy_EnTyYXsD0CoPvycS8eyVlJOrcKuTmL4Y2pJNe0K8fzNPXmte9iUXk0uh5U51EimCU3V3cFXDara6ZAmHOEqsTv9yuqinABqCV0lTTOv8tgNsa9SFhobQJZCo-L9GTVDsyl_6DuX6W7RB0FPr_GSk4Mlev2hdbKK_FYjQBw&gsessionid=ezGGVB_XMaGiLFxdUD5zukVS80-hhA_rPM4TRIVgpsQcYi3Pwm4zMg"
+      },
+      {
+        "position": 6,
+        "title": "Progress Bar Generator - Add Progress Bar to Videos Online",
+        "link": "https://www.google.com/goto?url=CAESbQHEIkXXOxvH5TL-LayQNMYpeVRAgwvApRHJFzFS_POcxu9pJms7PMwmuRUTBFj9eQcNkWN-Sp9f4rQj1ajfO70Zenl6cCjwazPlCK9nzKFutnk9SjtESlhC_GdtSSWoi4G1OxHtyacBDKoD98U",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHEIkXXvVq8gtbcLP1Vahaj4q47Al_47whH24Jj1DfAdDTLjFMu2ccfiHdjbqgh29mX3QaQjeCUomiij5TNQLsdimshxlhp66fDQYUntrOcRqsjGW0x-4oBryxI8ftKGSeAsEMWUz4iKq0A63U&ved=2ahUKEwiEo_6C3JuYAxW2k2oFHaq4O5EQFnoECFkQAQ&uoh=1",
+        "displayed_link": "https://www.veed.io \u203a VEED Tools",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACF0lEQVR4AcVXNWwdQRD9lVP_3eMwMzPWYWZOyjBTGWZO2kDfhLkMm3qZuTMzjHfMcE93ss_ald7HgTeo21iXM0gIcSwej_9RqFCfKUqwTbatPh9lXwqdRwgxWCEVG4gcKeyzM3LgfKBJtGSC065AmnAkpuryVxcB5fs3EyjXSKA8xh90oheBG3kuPSfPF4t2GYEGWQbpX891gwlse2BBA8c-OoEEjn1yoP72B3YwgdEzJT1r9DfwpM6loWMldD5ktKTHtf4ZfNbk0ZjZMpgA4-QPHMWKsyYksPKcCfVOfvfLHiCwZA-u46VEXIZLSZj44t1GeAKGJehmAW7GcfN6p3LsHMlp9pW_VeSSacvwBBhbbuNm3HLH6iW_9S6W33yrUz40gRFTJD1tAOOU45KUnbL8-Wqmf8bYxqjpMoAAHCkbRjVrVWdNZ63GPcNjGbyIABZux1198FXnTB98jYku3Gb2nYA0BF3L9k_t_VKXLE-Q5Qq6X-LCzWeYYVcxwMZruLmW7jdp2QGcpQ1XcfOFJjBsguANiOoL--RpvUfDJ8n-E2Acfuug1QzJsQ7rRkJg3kbc5QhzNxjREeA5v5LuhnZ-JcPhBo6OAGP1JTM0AZYVImICliN53ulxNXb8qMqjAy9ttPcxAZ3Q_VBaqv-xnO9qOi8m7VezFE1Xs4Sul9MUPZfTzpPAKeG6DERjttn8pXCkJfK20wyWcxHqVWHJ7gAAAABJRU5ErkJggg.png",
+        "snippet": "Upload the video you wish to post on Instagram on VEED, visit 'Elements' and drag and drop your favourite progress bar onto your video. It's that simple!",
+        "snippet_highlighted_words": [
+          "Upload the video you wish to post on Instagram on VEED"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.6,
+              "reviews": 2139
+            },
+            "extensions": [
+              "4.6(2,139)",
+              "Free"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Upload the video you wish to post on Instagram on VEED, visit 'Elements' and drag and drop your favourite progress bar onto your video. It's that simple!",
+            "source_info_link": "https://www.google.com/goto?url=CAESbQHEIkXXOxvH5TL-LayQNMYpeVRAgwvApRHJFzFS_POcxu9pJms7PMwmuRUTBFj9eQcNkWN-Sp9f4rQj1ajfO70Zenl6cCjwazPlCK9nzKFutnk9SjtESlhC_GdtSSWoi4G1OxHtyacBDKoD98U",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACF0lEQVR4AcVXNWwdQRD9lVP_3eMwMzPWYWZOyjBTGWZO2kDfhLkMm3qZuTMzjHfMcE93ss_ald7HgTeo21iXM0gIcSwej_9RqFCfKUqwTbatPh9lXwqdRwgxWCEVG4gcKeyzM3LgfKBJtGSC065AmnAkpuryVxcB5fs3EyjXSKA8xh90oheBG3kuPSfPF4t2GYEGWQbpX891gwlse2BBA8c-OoEEjn1yoP72B3YwgdEzJT1r9DfwpM6loWMldD5ktKTHtf4ZfNbk0ZjZMpgA4-QPHMWKsyYksPKcCfVOfvfLHiCwZA-u46VEXIZLSZj44t1GeAKGJehmAW7GcfN6p3LsHMlp9pW_VeSSacvwBBhbbuNm3HLH6iW_9S6W33yrUz40gRFTJD1tAOOU45KUnbL8-Wqmf8bYxqjpMoAAHCkbRjVrVWdNZ63GPcNjGbyIABZux1198FXnTB98jYku3Gb2nYA0BF3L9k_t_VKXLE-Q5Qq6X-LCzWeYYVcxwMZruLmW7jdp2QGcpQ1XcfOFJjBsguANiOoL--RpvUfDJ8n-E2Acfuug1QzJsQ7rRkJg3kbc5QhzNxjREeA5v5LuhnZ-JcPhBo6OAGP1JTM0AZYVImICliN53ulxNXb8qMqjAy9ttPcxAZ3Q_VBaqv-xnO9qOi8m7VezFE1Xs4Sul9MUPZfTzpPAKeG6DERjttn8pXCkJfK20wyWcxHqVWHJ7gAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqEBL2dvdG8_dXJsPUNBRVNiUUhFSWtYWE94dkg1VEwtTGF5UU5NWXBlVlJBZ3d2QXBSSEpGekZTX1BPY3h1OXBKbXM3UE13bXVSVVRCRmo5ZVFjTmtXTi1TcDlmNHJRajFhamZPNzBaZW5sNmNDandhelBsQ0s5bnpLRnV0bms5U2p0RVNsaENfR2R0U1NXb2k0RzFPeEh0eWFjQkRLb0Q5OFUSBBoCCAAapggSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAgggIABAAGAAgACoKCgNob3cVHvGnPyoJCgJ0bxUAAAAAKi8KDWF1dG9tYXRpY2FsbHkVAAAAABoEYXV0bxoIYXV0b21hdGUaCWF1dG9tYXRpYypFCgNhZGQV7SCoQBoFYWRkZWQaBmFkZGluZxoEYWRkcxoGYXBwZW5kGgdpbmNsdWRlGgZpbnNlcnQaC2FkZHByb2dyZXNzKkQKCHByb2dyZXNzFZZl20AaC3Byb2dyZXNzYmFyGgtwcm9ncmVzc2lvbhoLYWRkcHJvZ3Jlc3MaDHByb2dyZXNzYmFycyowCgRiYXJzFQ8GtT8aA2JhchoLcHJvZ3Jlc3NiYXIaA3B1YhoMcHJvZ3Jlc3NiYXJzKgkKAnRvFQAAAAAqZgoFc2hvcnQVZfQ_PxoLYWJicmV2aWF0ZWQaDGFiYnJldmlhdGlvbhoHc2hvcnRlbhoJc2hvcnRlbmVkGgdzaG9ydGVyGgVzbWFsbBoJc2hvcnRmb3JtGg5zaG9ydGZvcm12aWRlbypnCgRmb3JtFWX0vz4aDGFiYnJldmlhdGlvbhoDZm9yGgZmb3JtYXQaB2Zvcm1pbmcaBWZvcm1zGgRuYW1lGgVzaGFwZRoHdmVyc2lvbhoJc2hvcnRmb3JtGg5zaG9ydGZvcm12aWRlbyowCgV2aWRlbxWMBclAGgZ2aWRlb3MaDnNob3J0Zm9ybXZpZGVvGgp2aWRlb2NsaXBzKjYKBWNsaXBzFQAAAAAaBGNsaXAaBWZpbGVzGgdmb290YWdlGgZ2ZWRpb3MaCnZpZGVvY2xpcHMyoQEvZ290bz91cmw9Q0FFU2JRSEVJa1hYT3h2SDVUTC1MYXlRTk1ZcGVWUkFnd3ZBcFJISkZ6RlNfUE9jeHU5cEptczdQTXdtdVJVVEJGajllUWNOa1dOLVNwOWY0clFqMWFqZk83MFplbmw2Y0Nqd2F6UGxDSzluektGdXRuazlTanRFU2xoQ19HZHRTU1dvaTRHMU94SHR5YWNCREtvRDk4VTpPPGI-UHJvZ3Jlc3MgQmFyPC9iPiBHZW5lcmF0b3IgLSA8Yj5BZGQgUHJvZ3Jlc3MgQmFyPC9iPiB0byA8Yj5WaWRlb3M8L2I-IE9ubGluZUKsATxiPlVwbG9hZCB0aGUgdmlkZW8geW91IHdpc2ggdG8gcG9zdCBvbiBJbnN0YWdyYW0gb24gVkVFRDwvYj4sIHZpc2l0ICYjMzk7RWxlbWVudHMmIzM5OyBhbmQgZHJhZyBhbmQgZHJvcCB5b3VyIGZhdm91cml0ZSBwcm9ncmVzcyBiYXIgb250byB5b3VyIHZpZGVvLiBJdCYjMzk7cyB0aGF0IHNpbXBsZSFKAnRvUgNmb3IiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqEBL2dvdG8_dXJsPUNBRVNiUUhFSWtYWE94dkg1VEwtTGF5UU5NWXBlVlJBZ3d2QXBSSEpGekZTX1BPY3h1OXBKbXM3UE13bXVSVVRCRmo5ZVFjTmtXTi1TcDlmNHJRajFhamZPNzBaZW5sNmNDandhelBsQ0s5bnpLRnV0bms5U2p0RVNsaENfR2R0U1NXb2k0RzFPeEh0eWFjQkRLb0Q5OFUSBBoCCAAapggSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAgggIABAAGAAgACoKCgNob3cVHvGnPyoJCgJ0bxUAAAAAKi8KDWF1dG9tYXRpY2FsbHkVAAAAABoEYXV0bxoIYXV0b21hdGUaCWF1dG9tYXRpYypFCgNhZGQV7SCoQBoFYWRkZWQaBmFkZGluZxoEYWRkcxoGYXBwZW5kGgdpbmNsdWRlGgZpbnNlcnQaC2FkZHByb2dyZXNzKkQKCHByb2dyZXNzFZZl20AaC3Byb2dyZXNzYmFyGgtwcm9ncmVzc2lvbhoLYWRkcHJvZ3Jlc3MaDHByb2dyZXNzYmFycyowCgRiYXJzFQ8GtT8aA2JhchoLcHJvZ3Jlc3NiYXIaA3B1YhoMcHJvZ3Jlc3NiYXJzKgkKAnRvFQAAAAAqZgoFc2hvcnQVZfQ_PxoLYWJicmV2aWF0ZWQaDGFiYnJldmlhdGlvbhoHc2hvcnRlbhoJc2hvcnRlbmVkGgdzaG9ydGVyGgVzbWFsbBoJc2hvcnRmb3JtGg5zaG9ydGZvcm12aWRlbypnCgRmb3JtFWX0vz4aDGFiYnJldmlhdGlvbhoDZm9yGgZmb3JtYXQaB2Zvcm1pbmcaBWZvcm1zGgRuYW1lGgVzaGFwZRoHdmVyc2lvbhoJc2hvcnRmb3JtGg5zaG9ydGZvcm12aWRlbyowCgV2aWRlbxWMBclAGgZ2aWRlb3MaDnNob3J0Zm9ybXZpZGVvGgp2aWRlb2NsaXBzKjYKBWNsaXBzFQAAAAAaBGNsaXAaBWZpbGVzGgdmb290YWdlGgZ2ZWRpb3MaCnZpZGVvY2xpcHMyoQEvZ290bz91cmw9Q0FFU2JRSEVJa1hYT3h2SDVUTC1MYXlRTk1ZcGVWUkFnd3ZBcFJISkZ6RlNfUE9jeHU5cEptczdQTXdtdVJVVEJGajllUWNOa1dOLVNwOWY0clFqMWFqZk83MFplbmw2Y0Nqd2F6UGxDSzluektGdXRuazlTanRFU2xoQ19HZHRTU1dvaTRHMU94SHR5YWNCREtvRDk4VTpPPGI-UHJvZ3Jlc3MgQmFyPC9iPiBHZW5lcmF0b3IgLSA8Yj5BZGQgUHJvZ3Jlc3MgQmFyPC9iPiB0byA8Yj5WaWRlb3M8L2I-IE9ubGluZUKsATxiPlVwbG9hZCB0aGUgdmlkZW8geW91IHdpc2ggdG8gcG9zdCBvbiBJbnN0YWdyYW0gb24gVkVFRDwvYj4sIHZpc2l0ICYjMzk7RWxlbWVudHMmIzM5OyBhbmQgZHJhZyBhbmQgZHJvcCB5b3VyIGZhdm91cml0ZSBwcm9ncmVzcyBiYXIgb250byB5b3VyIHZpZGVvLiBJdCYjMzk7cyB0aGF0IHNpbXBsZSFKAnRvUgNmb3IiAhABSABYAGgA",
+        "source": "VEED"
+      },
+      {
+        "position": 7,
+        "title": "Progress Bar on Shorts: When It Helps Retention - MyShorts",
+        "link": "https://www.google.com/goto?url=CAEScAHEIkXXrPCE-8xJ7OCvaEsTYLXi-6wuLVtKOpD23eDmS4EPdvVekwsrTilp5wjHQ9t_iv7D8Ao90PDtu7fA9Sx-yuD8sTZrdF9b6xvpcXId5_Oz8Ac41vQ92jl_LVotZUZPK54MgCHA5GgNT_VEA0Y",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHEIkXXFc7zhJx1OY90qFcLpc20GKJ264Xz_0IeI5oDa8c6OBaFjFD08R_Hwsf1wKyAi91jqu13JcRSPFxl48RJvSMFpelRa5eb64Ijg1mTbyzlv6pvNl-qAzeWT3NlTXswoTepJY9_HYDNZVDs7ns&ved=2ahUKEwiEo_6C3JuYAxW2k2oFHaq4O5EQFnoECFUQAQ&uoh=1",
+        "displayed_link": "https://myshorts.in \u203a Captions",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEX_____-fj_wLb-n4_9l4X9k4P8lon9ubL_yb_-ZUL9aUz8ZUz7YEn7Xkf7W0X7WUD7Uzn6SS39wLr9blL8Z036V0P6Qib6VUH9jXr5Uj_5RjH8tK36TTT7jIP-0s33RTb6gXj8cl3-5OH7aFb5Tjz4TDv4STn3Oyz5enP5Qy37mZD3QTT5hH72LyD7rqv1Hwja-QbmAAAA5klEQVR4AcXRA5YEMRQF0LJt29z_7ia_mJoN9DsIbhzihyEpmmHYIxxPfk0QJRRZUVVN0w3T-pqN4jiyrCiIXQ9TEpn0GELfe1emJFsKLOO1MIofpCWJQUN0_bYwSR9kJFuns0SlzcvCvMDQcdRSNYiqTnywBkNWRmdRlQRVY7NB1kYYKsdZAAmy6Jq2w1EF0y7M2-6LYJoJy3pgeT-8qCEDrOqxBfsimNtMXtMcNmPI6ef9uvCyuV8e5I3DwsfmdXuQNN2vzTv2pZb3z_jXQKMkz6Mo6lHWj8HKcVpAhmFYNpL4Xf4AWegfV0Trfd0AAAAASUVORK5CYII.png",
+        "date": "12 Nov 2026",
+        "snippet": "A progress bar is a thin line burned into the video that fills from left to right as the clip plays, so viewers can see how much is left.",
+        "snippet_highlighted_words": [
+          "progress bar",
+          "video",
+          "clip"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "A progress bar is a thin line burned into the video that fills from left to right as the clip plays, so viewers can see how much is left.",
+            "source_info_link": "https://www.google.com/goto?url=CAEScAHEIkXXrPCE-8xJ7OCvaEsTYLXi-6wuLVtKOpD23eDmS4EPdvVekwsrTilp5wjHQ9t_iv7D8Ao90PDtu7fA9Sx-yuD8sTZrdF9b6xvpcXId5_Oz8Ac41vQ92jl_LVotZUZPK54MgCHA5GgNT_VEA0Y",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEX_____-fj_wLb-n4_9l4X9k4P8lon9ubL_yb_-ZUL9aUz8ZUz7YEn7Xkf7W0X7WUD7Uzn6SS39wLr9blL8Z036V0P6Qib6VUH9jXr5Uj_5RjH8tK36TTT7jIP-0s33RTb6gXj8cl3-5OH7aFb5Tjz4TDv4STn3Oyz5enP5Qy37mZD3QTT5hH72LyD7rqv1Hwja-QbmAAAA5klEQVR4AcXRA5YEMRQF0LJt29z_7ia_mJoN9DsIbhzihyEpmmHYIxxPfk0QJRRZUVVN0w3T-pqN4jiyrCiIXQ9TEpn0GELfe1emJFsKLOO1MIofpCWJQUN0_bYwSR9kJFuns0SlzcvCvMDQcdRSNYiqTnywBkNWRmdRlQRVY7NB1kYYKsdZAAmy6Jq2w1EF0y7M2-6LYJoJy3pgeT-8qCEDrOqxBfsimNtMXtMcNmPI6ef9uvCyuV8e5I3DwsfmdXuQNN2vzTv2pZb3z_jXQKMkz6Mo6lHWj8HKcVpAhmFYNpL4Xf4AWegfV0Trfd0AAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUBL2dvdG8_dXJsPUNBRVNjQUhFSWtYWHJQQ0UtOHhKN09DdmFFc1RZTFhpLTZ3dUxWdEtPcEQyM2VEbVM0RVBkdlZla3dzclRpbHA1d2pIUTl0X2l2N0Q4QW85MFBEdHU3ZkE5U3gteXVEOHNUWnJkRjliNnh2cGNYSWQ1X096OEFjNDF2UTkyamxfTFZvdFpVWlBLNTRNZ0NIQTVHZ05UX1ZFQTBZEgQaAggAGo4IEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQOoHCAAQABgAIAAqCgoDaG93FexbwD8qCQoCdG8VAAAAACovCg1hdXRvbWF0aWNhbGx5FQAAAAAaBGF1dG8aCGF1dG9tYXRlGglhdXRvbWF0aWMqRQoDYWRkFaq9Ez8aBWFkZGVkGgZhZGRpbmcaBGFkZHMaBmFwcGVuZBoHaW5jbHVkZRoGaW5zZXJ0GgthZGRwcm9ncmVzcypECghwcm9ncmVzcxXOM7VAGgtwcm9ncmVzc2JhchoLcHJvZ3Jlc3Npb24aC2FkZHByb2dyZXNzGgxwcm9ncmVzc2JhcnMqMAoEYmFycxVKtC8_GgNiYXIaC3Byb2dyZXNzYmFyGgNwdWIaDHByb2dyZXNzYmFycyoJCgJ0bxUAAAAAKmYKBXNob3J0FTMxGEAaC2FiYnJldmlhdGVkGgxhYmJyZXZpYXRpb24aB3Nob3J0ZW4aCXNob3J0ZW5lZBoHc2hvcnRlchoFc21hbGwaCXNob3J0Zm9ybRoOc2hvcnRmb3JtdmlkZW8qZwoEZm9ybRUAAAAAGgxhYmJyZXZpYXRpb24aA2ZvchoGZm9ybWF0Ggdmb3JtaW5nGgVmb3JtcxoEbmFtZRoFc2hhcGUaB3ZlcnNpb24aCXNob3J0Zm9ybRoOc2hvcnRmb3JtdmlkZW8qMAoFdmlkZW8VJttYQBoGdmlkZW9zGg5zaG9ydGZvcm12aWRlbxoKdmlkZW9jbGlwcyo2CgVjbGlwcxWEhk9AGgRjbGlwGgVmaWxlcxoHZm9vdGFnZRoGdmVkaW9zGgp2aWRlb2NsaXBzMqUBL2dvdG8_dXJsPUNBRVNjQUhFSWtYWHJQQ0UtOHhKN09DdmFFc1RZTFhpLTZ3dUxWdEtPcEQyM2VEbVM0RVBkdlZla3dzclRpbHA1d2pIUTl0X2l2N0Q4QW85MFBEdHU3ZkE5U3gteXVEOHNUWnJkRjliNnh2cGNYSWQ1X096OEFjNDF2UTkyamxfTFZvdFpVWlBLNTRNZ0NIQTVHZ05UX1ZFQTBZOkE8Yj5Qcm9ncmVzcyBCYXI8L2I-IG9uIFNob3J0czogV2hlbiBJdCBIZWxwcyBSZXRlbnRpb24gLSBNeVNob3J0c0KeAUEgPGI-cHJvZ3Jlc3MgYmFyPC9iPiBpcyBhIHRoaW4gbGluZSBidXJuZWQgaW50byB0aGUgPGI-dmlkZW88L2I-IHRoYXQgZmlsbHMgZnJvbSBsZWZ0IHRvIHJpZ2h0IGFzIHRoZSA8Yj5jbGlwPC9iPiBwbGF5cywgc28gdmlld2VycyBjYW4gc2VlIGhvdyBtdWNoIGlzIGxlZnQuSgJ0b1IDZm9yIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUBL2dvdG8_dXJsPUNBRVNjQUhFSWtYWHJQQ0UtOHhKN09DdmFFc1RZTFhpLTZ3dUxWdEtPcEQyM2VEbVM0RVBkdlZla3dzclRpbHA1d2pIUTl0X2l2N0Q4QW85MFBEdHU3ZkE5U3gteXVEOHNUWnJkRjliNnh2cGNYSWQ1X096OEFjNDF2UTkyamxfTFZvdFpVWlBLNTRNZ0NIQTVHZ05UX1ZFQTBZEgQaAggAGo4IEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQOoHCAAQABgAIAAqCgoDaG93FexbwD8qCQoCdG8VAAAAACovCg1hdXRvbWF0aWNhbGx5FQAAAAAaBGF1dG8aCGF1dG9tYXRlGglhdXRvbWF0aWMqRQoDYWRkFaq9Ez8aBWFkZGVkGgZhZGRpbmcaBGFkZHMaBmFwcGVuZBoHaW5jbHVkZRoGaW5zZXJ0GgthZGRwcm9ncmVzcypECghwcm9ncmVzcxXOM7VAGgtwcm9ncmVzc2JhchoLcHJvZ3Jlc3Npb24aC2FkZHByb2dyZXNzGgxwcm9ncmVzc2JhcnMqMAoEYmFycxVKtC8_GgNiYXIaC3Byb2dyZXNzYmFyGgNwdWIaDHByb2dyZXNzYmFycyoJCgJ0bxUAAAAAKmYKBXNob3J0FTMxGEAaC2FiYnJldmlhdGVkGgxhYmJyZXZpYXRpb24aB3Nob3J0ZW4aCXNob3J0ZW5lZBoHc2hvcnRlchoFc21hbGwaCXNob3J0Zm9ybRoOc2hvcnRmb3JtdmlkZW8qZwoEZm9ybRUAAAAAGgxhYmJyZXZpYXRpb24aA2ZvchoGZm9ybWF0Ggdmb3JtaW5nGgVmb3JtcxoEbmFtZRoFc2hhcGUaB3ZlcnNpb24aCXNob3J0Zm9ybRoOc2hvcnRmb3JtdmlkZW8qMAoFdmlkZW8VJttYQBoGdmlkZW9zGg5zaG9ydGZvcm12aWRlbxoKdmlkZW9jbGlwcyo2CgVjbGlwcxWEhk9AGgRjbGlwGgVmaWxlcxoHZm9vdGFnZRoGdmVkaW9zGgp2aWRlb2NsaXBzMqUBL2dvdG8_dXJsPUNBRVNjQUhFSWtYWHJQQ0UtOHhKN09DdmFFc1RZTFhpLTZ3dUxWdEtPcEQyM2VEbVM0RVBkdlZla3dzclRpbHA1d2pIUTl0X2l2N0Q4QW85MFBEdHU3ZkE5U3gteXVEOHNUWnJkRjliNnh2cGNYSWQ1X096OEFjNDF2UTkyamxfTFZvdFpVWlBLNTRNZ0NIQTVHZ05UX1ZFQTBZOkE8Yj5Qcm9ncmVzcyBCYXI8L2I-IG9uIFNob3J0czogV2hlbiBJdCBIZWxwcyBSZXRlbnRpb24gLSBNeVNob3J0c0KeAUEgPGI-cHJvZ3Jlc3MgYmFyPC9iPiBpcyBhIHRoaW4gbGluZSBidXJuZWQgaW50byB0aGUgPGI-dmlkZW88L2I-IHRoYXQgZmlsbHMgZnJvbSBsZWZ0IHRvIHJpZ2h0IGFzIHRoZSA8Yj5jbGlwPC9iPiBwbGF5cywgc28gdmlld2VycyBjYW4gc2VlIGhvdyBtdWNoIGlzIGxlZnQuSgJ0b1IDZm9yIgIQAUgAWABoAA",
+        "source": "myshorts.in",
+        "read_more_link": "https://www.google.com/goto?url=CAESsgEBxCJF16m7M8QppSd9gSQdl084wzZqalEQvQiHY_C02niRRSBeTs7adh9uIUFTn8I-FxoEaFciaLGShVXipk-IGKTUogq2FdAPr74PnfBsgQNw36w9Xvw_XVaA1fypuceLWnclFYr6Syp6kw42lMNzhyR04QDPaA7MbWTamHIFfAbnqar18GbwpJeNGpoWuM1oYvLjIZIsdY1f5qF7UYkfK71Mm8AWyXvJSSfHbUuCdqJQ&gsessionid=ezGGVB_XMaGiLFxdUD5zukVS80-hhA_rPM4TRIVgpsQcYi3Pwm4zMg"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "Video progress bar",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDg99CWvw0sny8R-OzQDoOkqQ44YHA:1795355391798&q=Video+progress+bar&sa=X&ved=2ahUKEwiEo_6C3JuYAxW2k2oFHaq4O5EQ1QJ6BAhMEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Video+progress+bar"
+      },
+      {
+        "block_position": 1,
+        "query": "Animated progress bar generator",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDg99CWvw0sny8R-OzQDoOkqQ44YHA:1795355391798&q=Animated+progress+bar+generator&sa=X&ved=2ahUKEwiEo_6C3JuYAxW2k2oFHaq4O5EQ1QJ6BAhSEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Animated+progress+bar+generator"
+      },
+      {
+        "block_position": 1,
+        "query": "Progress bar for editing",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDg99CWvw0sny8R-OzQDoOkqQ44YHA:1795355391798&q=Progress+bar+for+editing&sa=X&ved=2ahUKEwiEo_6C3JuYAxW2k2oFHaq4O5EQ1QJ6BAhUEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Progress+bar+for+editing"
+      },
+      {
+        "block_position": 1,
+        "query": "Free progress bar generator",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDg99CWvw0sny8R-OzQDoOkqQ44YHA:1795355391798&q=Free+progress+bar+generator&sa=X&ved=2ahUKEwiEo_6C3JuYAxW2k2oFHaq4O5EQ1QJ6BAhTEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Free+progress+bar+generator"
+      },
+      {
+        "block_position": 1,
+        "query": "Progress bar GIF generator",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDg99CWvw0sny8R-OzQDoOkqQ44YHA:1795355391798&q=Progress+bar+GIF+generator&sa=X&ved=2ahUKEwiEo_6C3JuYAxW2k2oFHaq4O5EQ1QJ6BAhPEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Progress+bar+GIF+generator"
+      },
+      {
+        "block_position": 1,
+        "query": "Progress bar video green screen",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDg99CWvw0sny8R-OzQDoOkqQ44YHA:1795355391798&q=Progress+bar+video+green+screen&sa=X&ved=2ahUKEwiEo_6C3JuYAxW2k2oFHaq4O5EQ1QJ6BAhKEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Progress+bar+video+green+screen"
+      },
+      {
+        "block_position": 1,
+        "query": "Timer Loading Bar",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDg99CWvw0sny8R-OzQDoOkqQ44YHA:1795355391798&q=Timer+Loading+Bar&sa=X&ved=2ahUKEwiEo_6C3JuYAxW2k2oFHaq4O5EQ1QJ6BAhNEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Timer+Loading+Bar"
+      },
+      {
+        "block_position": 1,
+        "query": "Progress bar animation",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDg99CWvw0sny8R-OzQDoOkqQ44YHA:1795355391798&q=Progress+bar+animation&sa=X&ved=2ahUKEwiEo_6C3JuYAxW2k2oFHaq4O5EQ1QJ6BAhLEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Progress+bar+animation"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "Patch to add a progress bar to short videos and see its date of creation",
+        "link": "https://www.google.com/goto?url=CAESogEBxCJF19IhyXz9UF_lURfYIiYP4Qv3Q0eby40ZWmFDI88CerjzwNkKTB3M9skMCmyTo6Bb1Y9QWA27W_s6_s4AGi0l99vEfTH-sDeMi9Ix1hGNGiBSVSzp8Qusxmq8kraaGkGJKQBgHWbjXvS9cOAfsui_0Zk5o-jEKv9aFjvd7C_kmQo0Ad143Yyi2l6AmW3J2mEtP2Uva1hddybKFMer408&gsessionid=ezGGVB_XMaGiLFxdUD5zukVS80-hhA_rPM4TRIVgpsQcYi3Pwm4zMg",
+        "date": "4 years ago",
+        "extensions": [
+          "r/revancedapp",
+          "4 comments"
+        ],
+        "source": "Reddit",
+        "answers": [
+          {
+            "link": "https://www.google.com/goto?url=CAESogEBxCJF19IhyXz9UF_lURfYIiYP4Qv3Q0eby40ZWmFDI88CerjzwNkKTB3M9skMCmyTo6Bb1Y9QWA27W_s6_s4AGi0l99vEfTH-sDeMi9Ix1hGNGiBSVSzp8Qusxmq8kraaGkGJKQBgHWbjXvS9cOAfsui_0Zk5o-jEKv9aFjvd7C_kmQo0Ad143Yyi2l6AmW3J2mEtP2Uva1hddybKFMer408&gsessionid=ezGGVB_XMaGiLFxdUD5zukVS80-hhA_rPM4TRIVgpsQcYi3Pwm4zMg"
+          }
+        ]
+      },
+      {
+        "title": "Adding Progress Bar to your Videos can also increase it Engagement",
+        "link": "https://www.google.com/goto?url=CAESgwEBxCJF10l603u2FqA2AZt50a7gsqgluARIBK75S2CBplNKAzgsdOyxSqoSMvSR4uVVGLR0fsFRdFM7x47Jq4P0eeZ1qQwiPD4vu8QztaC-jE5ZR0i99kk8Hd3ENBpCB7woAnulPgjuE60rIsDfTI6jjJwqnRkoIH-bNRmnjKp1o9cYlA&gsessionid=ezGGVB_XMaGiLFxdUD5zukVS80-hhA_rPM4TRIVgpsQcYi3Pwm4zMg",
+        "date": "3 years ago",
+        "extensions": [
+          "SPARK Creatives Hub \u2014 by Steph\u2026",
+          "3 comments"
+        ],
+        "source": "Facebook",
+        "answers": [
+          {
+            "link": "https://www.google.com/goto?url=CAESgwEBxCJF10l603u2FqA2AZt50a7gsqgluARIBK75S2CBplNKAzgsdOyxSqoSMvSR4uVVGLR0fsFRdFM7x47Jq4P0eeZ1qQwiPD4vu8QztaC-jE5ZR0i99kk8Hd3ENBpCB7woAnulPgjuE60rIsDfTI6jjJwqnRkoIH-bNRmnjKp1o9cYlA&gsessionid=ezGGVB_XMaGiLFxdUD5zukVS80-hhA_rPM4TRIVgpsQcYi3Pwm4zMg"
+          }
+        ]
+      },
+      {
+        "title": "How to add a progress bar to Instagram and Facebook videos",
+        "link": "https://www.google.com/goto?url=CAESgwEBxCJF12uTDdSE6vy17mMlRrYKA_cFXJ71hnN0Yx9PmkUQzEGQSqlXhEFasndKzFDgKkA8Pmup2KgOppfHtB5p-5lMBuhabpz7tsni3X1kHfBi8I7nGlxP2ZkT8pQUmlSDmI12RRUwpPeCCd7gyCW4cxoybQdULHXZFngb3KznKqJOyA&gsessionid=ezGGVB_XMaGiLFxdUD5zukVS80-hhA_rPM4TRIVgpsQcYi3Pwm4zMg",
+        "date": "7 years ago",
+        "extensions": [
+          "ScreenFlow Support & Help",
+          "10+ comments"
+        ],
+        "source": "Facebook",
+        "answers": [
+          {
+            "link": "https://www.google.com/goto?url=CAESgwEBxCJF12uTDdSE6vy17mMlRrYKA_cFXJ71hnN0Yx9PmkUQzEGQSqlXhEFasndKzFDgKkA8Pmup2KgOppfHtB5p-5lMBuhabpz7tsni3X1kHfBi8I7nGlxP2ZkT8pQUmlSDmI12RRUwpPeCCd7gyCW4cxoybQdULHXZFngb3KznKqJOyA&gsessionid=ezGGVB_XMaGiLFxdUD5zukVS80-hhA_rPM4TRIVgpsQcYi3Pwm4zMg"
+          }
+        ]
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=How+to+automatically+add+progress+bars+to+short-form+video+clips&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDg99CWvw0sny8R-OzQDoOkqQ44YHA:1795355391798&ei=__ICa8SnMLanqtsPqvHuiQk&start=10&sa=N&sstk=AYl2yk-4W4NATd8YkQBPJX2kLKZx5kSGu-vugrU136qVPElzQ2S--gSMaKVVnZuGT9og7DnX6ulSgrhKM6OKH83-87AJSOb2jZlYWw&ved=2ahUKEwiEo_6C3JuYAxW2k2oFHaq4O5EQ8NMDegQIQxAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=How+to+automatically+add+progress+bars+to+short-form+video+clips&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDg99CWvw0sny8R-OzQDoOkqQ44YHA:1795355391798&ei=__ICa8SnMLanqtsPqvHuiQk&start=10&sa=N&sstk=AYl2yk-4W4NATd8YkQBPJX2kLKZx5kSGu-vugrU136qVPElzQ2S--gSMaKVVnZuGT9og7DnX6ulSgrhKM6OKH83-87AJSOb2jZlYWw&ved=2ahUKEwiEo_6C3JuYAxW2k2oFHaq4O5EQ8tMDegQIQxAE",
+        "3": "https://www.google.com/search?q=How+to+automatically+add+progress+bars+to+short-form+video+clips&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDg99CWvw0sny8R-OzQDoOkqQ44YHA:1795355391798&ei=__ICa8SnMLanqtsPqvHuiQk&start=20&sa=N&sstk=AYl2yk-4W4NATd8YkQBPJX2kLKZx5kSGu-vugrU136qVPElzQ2S--gSMaKVVnZuGT9og7DnX6ulSgrhKM6OKH83-87AJSOb2jZlYWw&ved=2ahUKEwiEo_6C3JuYAxW2k2oFHaq4O5EQ8tMDegQIQxAG",
+        "4": "https://www.google.com/search?q=How+to+automatically+add+progress+bars+to+short-form+video+clips&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDg99CWvw0sny8R-OzQDoOkqQ44YHA:1795355391798&ei=__ICa8SnMLanqtsPqvHuiQk&start=30&sa=N&sstk=AYl2yk-4W4NATd8YkQBPJX2kLKZx5kSGu-vugrU136qVPElzQ2S--gSMaKVVnZuGT9og7DnX6ulSgrhKM6OKH83-87AJSOb2jZlYWw&ved=2ahUKEwiEo_6C3JuYAxW2k2oFHaq4O5EQ8tMDegQIQxAI",
+        "5": "https://www.google.com/search?q=How+to+automatically+add+progress+bars+to+short-form+video+clips&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDg99CWvw0sny8R-OzQDoOkqQ44YHA:1795355391798&ei=__ICa8SnMLanqtsPqvHuiQk&start=40&sa=N&sstk=AYl2yk-4W4NATd8YkQBPJX2kLKZx5kSGu-vugrU136qVPElzQ2S--gSMaKVVnZuGT9og7DnX6ulSgrhKM6OKH83-87AJSOb2jZlYWw&ved=2ahUKEwiEo_6C3JuYAxW2k2oFHaq4O5EQ8tMDegQIQxAK",
+        "6": "https://www.google.com/search?q=How+to+automatically+add+progress+bars+to+short-form+video+clips&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDg99CWvw0sny8R-OzQDoOkqQ44YHA:1795355391798&ei=__ICa8SnMLanqtsPqvHuiQk&start=50&sa=N&sstk=AYl2yk-4W4NATd8YkQBPJX2kLKZx5kSGu-vugrU136qVPElzQ2S--gSMaKVVnZuGT9og7DnX6ulSgrhKM6OKH83-87AJSOb2jZlYWw&ved=2ahUKEwiEo_6C3JuYAxW2k2oFHaq4O5EQ8tMDegQIQxAM",
+        "7": "https://www.google.com/search?q=How+to+automatically+add+progress+bars+to+short-form+video+clips&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDg99CWvw0sny8R-OzQDoOkqQ44YHA:1795355391798&ei=__ICa8SnMLanqtsPqvHuiQk&start=60&sa=N&sstk=AYl2yk-4W4NATd8YkQBPJX2kLKZx5kSGu-vugrU136qVPElzQ2S--gSMaKVVnZuGT9og7DnX6ulSgrhKM6OKH83-87AJSOb2jZlYWw&ved=2ahUKEwiEo_6C3JuYAxW2k2oFHaq4O5EQ8tMDegQIQxAO",
+        "8": "https://www.google.com/search?q=How+to+automatically+add+progress+bars+to+short-form+video+clips&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDg99CWvw0sny8R-OzQDoOkqQ44YHA:1795355391798&ei=__ICa8SnMLanqtsPqvHuiQk&start=70&sa=N&sstk=AYl2yk-4W4NATd8YkQBPJX2kLKZx5kSGu-vugrU136qVPElzQ2S--gSMaKVVnZuGT9og7DnX6ulSgrhKM6OKH83-87AJSOb2jZlYWw&ved=2ahUKEwiEo_6C3JuYAxW2k2oFHaq4O5EQ8tMDegQIQxAQ",
+        "9": "https://www.google.com/search?q=How+to+automatically+add+progress+bars+to+short-form+video+clips&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDg99CWvw0sny8R-OzQDoOkqQ44YHA:1795355391798&ei=__ICa8SnMLanqtsPqvHuiQk&start=80&sa=N&sstk=AYl2yk-4W4NATd8YkQBPJX2kLKZx5kSGu-vugrU136qVPElzQ2S--gSMaKVVnZuGT9og7DnX6ulSgrhKM6OKH83-87AJSOb2jZlYWw&ved=2ahUKEwiEo_6C3JuYAxW2k2oFHaq4O5EQ8tMDegQIQxAS",
+        "10": "https://www.google.com/search?q=How+to+automatically+add+progress+bars+to+short-form+video+clips&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDg99CWvw0sny8R-OzQDoOkqQ44YHA:1795355391798&ei=__ICa8SnMLanqtsPqvHuiQk&start=90&sa=N&sstk=AYl2yk-4W4NATd8YkQBPJX2kLKZx5kSGu-vugrU136qVPElzQ2S--gSMaKVVnZuGT9og7DnX6ulSgrhKM6OKH83-87AJSOb2jZlYWw&ved=2ahUKEwiEo_6C3JuYAxW2k2oFHaq4O5EQ8tMDegQIQxAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+automatically+add+progress+bars+to+short-form+video+clips&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+automatically+add+progress+bars+to+short-form+video+clips&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+automatically+add+progress+bars+to+short-form+video+clips&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+automatically+add+progress+bars+to+short-form+video+clips&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+automatically+add+progress+bars+to+short-form+video+clips&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+automatically+add+progress+bars+to+short-form+video+clips&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+automatically+add+progress+bars+to+short-form+video+clips&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+automatically+add+progress+bars+to+short-form+video+clips&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+automatically+add+progress+bars+to+short-form+video+clips&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+automatically+add+progress+bars+to+short-form+video+clips&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+automatically+add+progress+bars+to+short-form+video+clips&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

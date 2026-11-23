@@ -1,0 +1,471 @@
+{
+  "measurement_id": "2be8fa9e9aa7",
+  "question_id": "Q010",
+  "timestamp_utc": "2026-11-23T08:59:20.195963+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "Can AI find the most viral moments in a long video automatically?",
+  "market": "US",
+  "collection_method": "DAY_2_AUTOMATED_API",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://www.choppity.com/tools/free-ai-clip-maker/",
+    "https://quso.ai/",
+    "https://www.opus.pro/",
+    "https://exemplary.ai/ai-clips",
+    "https://wayin.ai/tools/clip-maker/",
+    "https://klap.app/",
+    "https://www.vmaker.com/tools/long-video-to-short-video-ai"
+  ],
+  "raw_text_summary": "Free AI Clip Maker & AI Shorts Maker \u2014 Turn Long Videos ... Upload any long video or podcast and our clips AI finds 30+ viral-ready Shorts, TikToks and Reels. AI transcribes at 95%+ accuracy, then scores every segment ... quso.ai: Turn Long Videos Into Short Clips with AI AI Clips Generator. Find the most viral moments in any long video, auto-scored by Virality. AI Subtitle Generator. Word-level animated captions in 99 ... OpusClip: #1 AI video clipping and editing tool OpusClip turns long videos into high-quality viral clips, and publishes them to all social platforms in one click. can clip the best moments from your video. Free AI Clip Maker: Long Video to Short Clips It transcribes the recording, picks the moments that stand on their own, gives each clip a virality score and adds animated captions you can ... Free AI Clip Maker & AI Clip Generator - Create Viral Clips ... Our AI finds the best moments automatically\u2014funny jokes, surprising reveals, emotional reactions. No more scrolling through hours of footage to find the gold. Klap | Turn videos into viral TikToks, Reels & Shorts Klap is an AI video clipping tool that turns long videos into vertical shorts with virality scores, active-speaker reframing, captions and scheduling. Free Long Video to Short Video AI Converter Vmaker AI analyzes your long-form video, detects high-engagement moments, and turns them into multiple short clips automatically. It scores hooks, pacing, and ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b040059a20802d1ddd6def4",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/6PH5Ctx6dYJjWsrIYshVwHGB1YtQyV7YruoxI7pY8o8/6b040059a20802d1ddd6def4.json",
+      "markdown_endpoint": "https://serpapi.com/searches/6PH5Ctx6dYJjWsrIYshVwHGB1YtQyV7YruoxI7pY8o8/6b040059a20802d1ddd6def4.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/6PH5Ctx6dYJjWsrIYshVwHGB1YtQyV7YruoxI7pY8o8/6b040059a20802d1ddd6def4.json_with_pixel_position",
+      "created_at": "2026-11-23 08:59:05 UTC",
+      "processed_at": "2026-11-23 08:59:05 UTC",
+      "google_url": "https://www.google.com/search?q=Can+AI+find+the+most+viral+moments+in+a+long+video+automatically%3F&oq=Can+AI+find+the+most+viral+moments+in+a+long+video+automatically%3F&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/6PH5Ctx6dYJjWsrIYshVwHGB1YtQyV7YruoxI7pY8o8/6b040059a20802d1ddd6def4.html",
+      "total_time_taken": 13.52
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "Can AI find the most viral moments in a long video automatically?",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "Can AI find the most viral moments in a long video automatically?",
+      "total_results": 69200,
+      "time_taken_displayed": 0.24,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "This AI Finds Viral Moments in Your Videos Automatically",
+        "link": "https://www.youtube.com/watch?v=9EF58cEileU",
+        "thumbnail": "https://serpapi.com/searches/6b040059a20802d1ddd6def4/images/ycU_146qaVPH66V6yUaA2kbCo945zHrE0VbiaNLLLME.jpg",
+        "channel": "littlehakr",
+        "duration": "6:27",
+        "platform": "YouTube",
+        "date": "Mar 22, 2026",
+        "snippet": "This AI video clipper analyzes your long-form videos, finds viral moments, generates clips with captions, and formats them for different platforms.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRJfqW5K-yryTLC2qtRQEISF2KutRRGFaJMxg"
+      },
+      {
+        "position": 2,
+        "title": "How to Edit Viral Clips with AI (Whop Clipping)",
+        "link": "https://www.youtube.com/watch?v=QEzlSRtq8ZE",
+        "thumbnail": "https://serpapi.com/searches/6b040059a20802d1ddd6def4/images/iN85CImChoi73jLp4XSsB70n6A_joGfdu-7m8j3VINE.jpg",
+        "channel": "Damian Malliaros",
+        "duration": "26:49",
+        "platform": "YouTube",
+        "date": "5 days ago",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSU1Fbcxmhk7--l-940Ens3W8mXW5KcfGWLVQ"
+      },
+      {
+        "position": 3,
+        "title": "The AI Clip Tool That Actually Finds Viral Moments",
+        "link": "https://www.youtube.com/shorts/-N4lvkpbNHU",
+        "thumbnail": "https://serpapi.com/searches/6b040059a20802d1ddd6def4/images/Lsjaf8xMPDZh7ZOV9SZSdGv8BfXK0oAzAIWSS657RZU.jpg",
+        "channel": "Justin Brown - Primal Video",
+        "duration": "0:34",
+        "platform": "YouTube",
+        "date": "Aug 9, 2026",
+        "snippet": "Opus Clip is an AI tool that helps pinpoint viral moments and trending clips, even for a second opinion on your own footage.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ_VF4yBOn5g0Ld-Kk-b6LSDCK9ZvX0mFbE-g"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "How can I find viral moments in videos?",
+        "type": "ai_overview",
+        "page_token": "hbN0cHicHdBRTsIwAABQTTwLnzC6gIGEmFS6wXQ129qO9Yd03WCydh1rI8qnZ_HLw3gAT2PiO8L7_FKvXft7mzfO9XY5mVwul_HRmKOqx9LoibAfnZxIoVQpZLuc38-nDwe5QtbCR3OBCU1RoSpVtLMpPnHK19jfgcaUnkoKqrLdx9SWqDJJbl3cRm_1moVVFzVc44GTaJDXBCQA50L1M7EJIPe5pbk7S2_Bpa5MHR49it5NdqJX2lX4JajygiFf-M2Z7CKVdTDNNhDsQLRJAfdz5J6roAUpsH6NFu8l66nUM5f5GOI1DGXQ8xKpDpM4C1TfJZQ1uE0JWadKAhUTBuc0nOUpQ2LbBltyggH22BO-NjbWyJM60FkeZbFmICGcFV00iJBD4qHRQb6t_NF_2Gp_0G7ZD-b4LYdauLraC_fT3t0Uf0bdfqc",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=hbN0cHicHdBRTsIwAABQTTwLnzC6gIGEmFS6wXQ129qO9Yd03WCydh1rI8qnZ_HLw3gAT2PiO8L7_FKvXft7mzfO9XY5mVwul_HRmKOqx9LoibAfnZxIoVQpZLuc38-nDwe5QtbCR3OBCU1RoSpVtLMpPnHK19jfgcaUnkoKqrLdx9SWqDJJbl3cRm_1moVVFzVc44GTaJDXBCQA50L1M7EJIPe5pbk7S2_Bpa5MHR49it5NdqJX2lX4JajygiFf-M2Z7CKVdTDNNhDsQLRJAfdz5J6roAUpsH6NFu8l66nUM5f5GOI1DGXQ8xKpDpM4C1TfJZQ1uE0JWadKAhUTBuc0nOUpQ2LbBltyggH22BO-NjbWyJM60FkeZbFmICGcFV00iJBD4qHRQb6t_NF_2Gp_0G7ZD-b4LYdauLraC_fT3t0Uf0bdfqc",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWWlNqWlRabTl1WjNrM1RWWkNTalk0ZDB4VlZDMW5kMUV6WWtac1QySklka1JDTTJjMlh6ZHhXRUZ1VVY4MVpHcElZeTFSTlZveFVWWjNVRzEzY2sxQmFraFpOM0F0Vkc0MWNFd3lSM2RFUTAxSVozRXdRVVpKYWxOSlVSSVdXbWRCUldFMlJGTk1OR1Z6YVV4TlVIcFFibFpGVVJvaVFVaE9NRVUzUm1KVlZXWklhMVUzYmpaWWREbE5lV3hQYTFoWFNtdFphbmgzUVEiLCJmY3YiOiIzIiwiZWkiOiJaZ0FFYTZEU0w0ZXNpTE1QelBuVkVRIiwicWMiOiJjLU55U0U3TVUwak1WRWpMekV0UktNbElWY2pOTHk1UktNc3NTc3dCTW5OVDgwcUtGVEtCS2hSeTh2UFNnZUlwcWZrS2lhVWwtYm1KSlpuSmlUazVsUUlNdFoxYnhPd0IiLCJxdWVzdGlvbiI6IkhvdyBjYW4gSSBmaW5kIHZpcmFsIG1vbWVudHMgaW4gdmlkZW9zPyIsImxrIjoiR2h4bWFXNWtJSFpwY21Gc0lHMXZiV1Z1ZEhNZ2FXNGdkbWxrWlc5eiIsImJzIjoiYzMzUE1RLUNNQkNHNGJqZTVHbzEtRG01c3hnbjRtQWl2OERCcVNtSE5JSFd0QmY0LTFZZ09taGNlOF9sM2xKSi00c2ZZTFJEaWRxNkNyME51a1huTzNZU1lWMTZxTmpISXNfVTVoLWdNLUhhYUlHTmtJWVRpRExiVXptWkl0LXA3ZkRiYURzWnV0SGhVMlM4NnprSU5GcnY3cE9BLUhuSHRQWVJVZnVBT2pBWE9WVDJoeVZDUjFKall5cDZIYWhZMk1qN2gydTFHdXRTeTlkMHVYZ0MiLCJpZCI6ImZjX1pnQUVhNkRTTDRlc2lMTVB6UG5WRVFfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWWlNqWlRabTl1WjNrM1RWWkNTalk0ZDB4VlZDMW5kMUV6WWtac1QySklka1JDTTJjMlh6ZHhXRUZ1VVY4MVpHcElZeTFSTlZveFVWWjNVRzEzY2sxQmFraFpOM0F0Vkc0MWNFd3lSM2RFUTAxSVozRXdRVVpKYWxOSlVSSVdXbWRCUldFMlJGTk1OR1Z6YVV4TlVIcFFibFpGVVJvaVFVaE9NRVUzUm1KVlZXWklhMVUzYmpaWWREbE5lV3hQYTFoWFNtdFphbmgzUVEiLCJmY3YiOiIzIiwiZWkiOiJaZ0FFYTZEU0w0ZXNpTE1QelBuVkVRIiwicWMiOiJjLU55U0U3TVUwak1WRWpMekV0UktNbElWY2pOTHk1UktNc3NTc3dCTW5OVDgwcUtGVEtCS2hSeTh2UFNnZUlwcWZrS2lhVWwtYm1KSlpuSmlUazVsUUlNdFoxYnhPd0IiLCJxdWVzdGlvbiI6IkhvdyBjYW4gSSBmaW5kIHZpcmFsIG1vbWVudHMgaW4gdmlkZW9zPyIsImxrIjoiR2h4bWFXNWtJSFpwY21Gc0lHMXZiV1Z1ZEhNZ2FXNGdkbWxrWlc5eiIsImJzIjoiYzMzUE1RLUNNQkNHNGJqZTVHbzEtRG01c3hnbjRtQWl2OERCcVNtSE5JSFd0QmY0LTFZZ09taGNlOF9sM2xKSi00c2ZZTFJEaWRxNkNyME51a1huTzNZU1lWMTZxTmpISXNfVTVoLWdNLUhhYUlHTmtJWVRpRExiVXptWkl0LXA3ZkRiYURzWnV0SGhVMlM4NnprSU5GcnY3cE9BLUhuSHRQWVJVZnVBT2pBWE9WVDJoeVZDUjFKall5cDZIYWhZMk1qN2gydTFHdXRTeTlkMHVYZ0MiLCJpZCI6ImZjX1pnQUVhNkRTTDRlc2lMTVB6UG5WRVFfNSJ9"
+      },
+      {
+        "question": "What is the most viral AI video?",
+        "type": "ai_overview",
+        "page_token": "D11xOXicHdBfbtowHADgVdpZ-ljiUDqBhCaljUPSxgzH_jnxS-XYQMDOn7WmoTzuLHvaYXqAnmZSvyN8f_66Q2c_r3zj_fC6mEzGcbzZ9_3ebW90307U63unJ1o5VyttF3c_7tDPnV7Gpzi6_51GG07jyhlXtXAWzPRFS-9pwi_iAaRZGSFAhgplR17SrAizU82yjS5ps-myAbi5EDS_SOzSvKXvDPRZieZXDW4tEzIIjkIIAYrWzvIuAoaykxLSCYxnJvaFPNIpOyACNpjRsPdshRszJbM6yG_zNp0algY1x7KCeUmQeySte2QXhw1ykbTeFsiVbNW88WMmTOJAc_KUB_NIgqRxI5UMMK6YjHkwBrIkA4vRZuuiE1igySGLivh2pMyk0p47w22YCwgFzoIaYSSS87BegdXIrImj0fVOvy2n11-by-dd6xfDS7__p1-2ym_Ns_If9vu36j8jZIcs",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=D11xOXicHdBfbtowHADgVdpZ-ljiUDqBhCaljUPSxgzH_jnxS-XYQMDOn7WmoTzuLHvaYXqAnmZSvyN8f_66Q2c_r3zj_fC6mEzGcbzZ9_3ebW90307U63unJ1o5VyttF3c_7tDPnV7Gpzi6_51GG07jyhlXtXAWzPRFS-9pwi_iAaRZGSFAhgplR17SrAizU82yjS5ps-myAbi5EDS_SOzSvKXvDPRZieZXDW4tEzIIjkIIAYrWzvIuAoaykxLSCYxnJvaFPNIpOyACNpjRsPdshRszJbM6yG_zNp0algY1x7KCeUmQeySte2QXhw1ykbTeFsiVbNW88WMmTOJAc_KUB_NIgqRxI5UMMK6YjHkwBrIkA4vRZuuiE1igySGLivh2pMyk0p47w22YCwgFzoIaYSSS87BegdXIrImj0fVOvy2n11-by-dd6xfDS7__p1-2ym_Ns_If9vu36j8jZIcs",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWWlNqWlRabTl1WjNrM1RWWkNTalk0ZDB4VlZDMW5kMUV6WWtac1QySklka1JDTTJjMlh6ZHhXRUZ1VVY4MVpHcElZeTFSTlZveFVWWjNVRzEzY2sxQmFraFpOM0F0Vkc0MWNFd3lSM2RFUTAxSVozRXdRVVpKYWxOSlVSSVdXbWRCUldFMlJGTk1OR1Z6YVV4TlVIcFFibFpGVVJvaVFVaE9NRVUzUm1KVlZXWklhMVUzYmpaWWREbE5lV3hQYTFoWFNtdFphbmgzUVEiLCJmY3YiOiIzIiwiZWkiOiJaZ0FFYTZEU0w0ZXNpTE1QelBuVkVRIiwicWMiOiJjLU55U0U3TVUwak1WRWpMekV0UktNbElWY2pOTHk1UktNc3NTc3dCTW5OVDgwcUtGVEtCS2hSeTh2UFNnZUlwcWZrS2lhVWwtYm1KSlpuSmlUazVsUUlNdFoxYnhPd0IiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG1vc3QgdmlyYWwgQUkgdmlkZW8/IiwibGsiOiJHaDkzYUdGMElHbHpJSFJvWlNCdGIzTjBJSFpwY21Gc0lHRnBJSFpwWkdWdiIsImJzIjoiYzMzUE1RLUNNQkNHNGJqZTVHbzEtRG01c3hnbjRtQWl2OERCcVNtSE5JSFd0QmY0LTFZZ09taGNlOF9sM2xKSi00c2ZZTFJEaWRxNkNyME51a1huTzNZU1lWMTZxTmpISXNfVTVoLWdNLUhhYUlHTmtJWVRpRExiVXptWkl0LXA3ZkRiYURzWnV0SGhVMlM4NnprSU5GcnY3cE9BLUhuSHRQWVJVZnVBT2pBWE9WVDJoeVZDUjFKall5cDZIYWhZMk1qN2gydTFHdXRTeTlkMHVYZ0MiLCJpZCI6ImZjX1pnQUVhNkRTTDRlc2lMTVB6UG5WRVFfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWWlNqWlRabTl1WjNrM1RWWkNTalk0ZDB4VlZDMW5kMUV6WWtac1QySklka1JDTTJjMlh6ZHhXRUZ1VVY4MVpHcElZeTFSTlZveFVWWjNVRzEzY2sxQmFraFpOM0F0Vkc0MWNFd3lSM2RFUTAxSVozRXdRVVpKYWxOSlVSSVdXbWRCUldFMlJGTk1OR1Z6YVV4TlVIcFFibFpGVVJvaVFVaE9NRVUzUm1KVlZXWklhMVUzYmpaWWREbE5lV3hQYTFoWFNtdFphbmgzUVEiLCJmY3YiOiIzIiwiZWkiOiJaZ0FFYTZEU0w0ZXNpTE1QelBuVkVRIiwicWMiOiJjLU55U0U3TVUwak1WRWpMekV0UktNbElWY2pOTHk1UktNc3NTc3dCTW5OVDgwcUtGVEtCS2hSeTh2UFNnZUlwcWZrS2lhVWwtYm1KSlpuSmlUazVsUUlNdFoxYnhPd0IiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG1vc3QgdmlyYWwgQUkgdmlkZW8%2FIiwibGsiOiJHaDkzYUdGMElHbHpJSFJvWlNCdGIzTjBJSFpwY21Gc0lHRnBJSFpwWkdWdiIsImJzIjoiYzMzUE1RLUNNQkNHNGJqZTVHbzEtRG01c3hnbjRtQWl2OERCcVNtSE5JSFd0QmY0LTFZZ09taGNlOF9sM2xKSi00c2ZZTFJEaWRxNkNyME51a1huTzNZU1lWMTZxTmpISXNfVTVoLWdNLUhhYUlHTmtJWVRpRExiVXptWkl0LXA3ZkRiYURzWnV0SGhVMlM4NnprSU5GcnY3cE9BLUhuSHRQWVJVZnVBT2pBWE9WVDJoeVZDUjFKall5cDZIYWhZMk1qN2gydTFHdXRTeTlkMHVYZ0MiLCJpZCI6ImZjX1pnQUVhNkRTTDRlc2lMTVB6UG5WRVFfNSJ9"
+      },
+      {
+        "question": "How can I convert a long video to viral clips for free?",
+        "type": "ai_overview",
+        "page_token": "ndCgcXicHdBBbqMwGEDhGWnO0mVjIMkokaJKJHZSWogwxoA3FdiEdPwbaOOOky7nLF31MD1AT9NqDvCkT-_fGzz2-vOnPVo7npaTiXPuuhuGDtprOZhJfbr0ciJrgKaWejn_PfduDnKFX3C4froN05ziChRUGkRRjsDNyPfY2UaruwbNdlmv_KRQx0pHQHuIUyYoN9IlAfUUA5IZcU4KPGu46NWGiOIPFFnf2QwU5voWJZtkRnmoK-S9xka7eKsC4S3WzOdIYVHdMygVOT6VgZjvS9hITG2KxEAJ3Df4hPKA-hwW27aIznUe8ZQTq3y7bswiYjyasoDM8h34-5IeWvxdGrqOd5Tio6gFIqRiAufIIVEmI8Ne2kL4wjWn28cozPDUUaZ2HMOFb8C02Pt2dZeWEScL_loXaFrx6C425-DqIP-ugqv_N1cPB2OX4_PQvcvntrateqjth_71o_oCnHaHkg",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ndCgcXicHdBBbqMwGEDhGWnO0mVjIMkokaJKJHZSWogwxoA3FdiEdPwbaOOOky7nLF31MD1AT9NqDvCkT-_fGzz2-vOnPVo7npaTiXPuuhuGDtprOZhJfbr0ciJrgKaWejn_PfduDnKFX3C4froN05ziChRUGkRRjsDNyPfY2UaruwbNdlmv_KRQx0pHQHuIUyYoN9IlAfUUA5IZcU4KPGu46NWGiOIPFFnf2QwU5voWJZtkRnmoK-S9xka7eKsC4S3WzOdIYVHdMygVOT6VgZjvS9hITG2KxEAJ3Df4hPKA-hwW27aIznUe8ZQTq3y7bswiYjyasoDM8h34-5IeWvxdGrqOd5Tio6gFIqRiAufIIVEmI8Ne2kL4wjWn28cozPDUUaZ2HMOFb8C02Pt2dZeWEScL_loXaFrx6C425-DqIP-ugqv_N1cPB2OX4_PQvcvntrateqjth_71o_oCnHaHkg",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWWlNqWlRabTl1WjNrM1RWWkNTalk0ZDB4VlZDMW5kMUV6WWtac1QySklka1JDTTJjMlh6ZHhXRUZ1VVY4MVpHcElZeTFSTlZveFVWWjNVRzEzY2sxQmFraFpOM0F0Vkc0MWNFd3lSM2RFUTAxSVozRXdRVVpKYWxOSlVSSVdXbWRCUldFMlJGTk1OR1Z6YVV4TlVIcFFibFpGVVJvaVFVaE9NRVUzUm1KVlZXWklhMVUzYmpaWWREbE5lV3hQYTFoWFNtdFphbmgzUVEiLCJmY3YiOiIzIiwiZWkiOiJaZ0FFYTZEU0w0ZXNpTE1QelBuVkVRIiwicWMiOiJjLU55U0U3TVUwak1WRWpMekV0UktNbElWY2pOTHk1UktNc3NTc3dCTW5OVDgwcUtGVEtCS2hSeTh2UFNnZUlwcWZrS2lhVWwtYm1KSlpuSmlUazVsUUlNdFoxYnhPd0IiLCJxdWVzdGlvbiI6IkhvdyBjYW4gSSBjb252ZXJ0IGEgbG9uZyB2aWRlbyB0byB2aXJhbCBjbGlwcyBmb3IgZnJlZT8iLCJsayI6IkdoNXNiMjVuSUhacFpHVnZJSFJ2SUhacGNtRnNJR05zYVhCeklHWnlaV1UiLCJicyI6ImMzM1BNUS1DTUJDRzRiamU1R28xLURtNXN4Z240bUFpdjhEQnFTbUhOSUhXdEJmNC0xWWdPbWhjZThfbDNsSkotNHNmWUxSRGlkcTZDcjBOdWtYbk8zWVNZVjE2cU5qSElzX1U1aC1nTS1IYWFJR05rSVlUaURMYlV6bVpJdC1wN2ZEYmFEc1p1dEhoVTJTODZ6a0lORnJ2N3BPQS1Ibkh0UFlSVWZ1QU9qQVhPVlQyaHlWQ1IxSmpZeXA2SGFoWTJNajdoMnUxR3V0U3k5ZDB1WGdDIiwiaWQiOiJmY19aZ0FFYTZEU0w0ZXNpTE1QelBuVkVRXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWWlNqWlRabTl1WjNrM1RWWkNTalk0ZDB4VlZDMW5kMUV6WWtac1QySklka1JDTTJjMlh6ZHhXRUZ1VVY4MVpHcElZeTFSTlZveFVWWjNVRzEzY2sxQmFraFpOM0F0Vkc0MWNFd3lSM2RFUTAxSVozRXdRVVpKYWxOSlVSSVdXbWRCUldFMlJGTk1OR1Z6YVV4TlVIcFFibFpGVVJvaVFVaE9NRVUzUm1KVlZXWklhMVUzYmpaWWREbE5lV3hQYTFoWFNtdFphbmgzUVEiLCJmY3YiOiIzIiwiZWkiOiJaZ0FFYTZEU0w0ZXNpTE1QelBuVkVRIiwicWMiOiJjLU55U0U3TVUwak1WRWpMekV0UktNbElWY2pOTHk1UktNc3NTc3dCTW5OVDgwcUtGVEtCS2hSeTh2UFNnZUlwcWZrS2lhVWwtYm1KSlpuSmlUazVsUUlNdFoxYnhPd0IiLCJxdWVzdGlvbiI6IkhvdyBjYW4gSSBjb252ZXJ0IGEgbG9uZyB2aWRlbyB0byB2aXJhbCBjbGlwcyBmb3IgZnJlZT8iLCJsayI6IkdoNXNiMjVuSUhacFpHVnZJSFJ2SUhacGNtRnNJR05zYVhCeklHWnlaV1UiLCJicyI6ImMzM1BNUS1DTUJDRzRiamU1R28xLURtNXN4Z240bUFpdjhEQnFTbUhOSUhXdEJmNC0xWWdPbWhjZThfbDNsSkotNHNmWUxSRGlkcTZDcjBOdWtYbk8zWVNZVjE2cU5qSElzX1U1aC1nTS1IYWFJR05rSVlUaURMYlV6bVpJdC1wN2ZEYmFEc1p1dEhoVTJTODZ6a0lORnJ2N3BPQS1Ibkh0UFlSVWZ1QU9qQVhPVlQyaHlWQ1IxSmpZeXA2SGFoWTJNajdoMnUxR3V0U3k5ZDB1WGdDIiwiaWQiOiJmY19aZ0FFYTZEU0w0ZXNpTE1QelBuVkVRXzUifQ%3D%3D"
+      },
+      {
+        "question": "What AI can detect videos?",
+        "type": "ai_overview",
+        "page_token": "FYNEsXicHdBRboIwGADgLdlZfFTA4TYTswRtUSY11vYv8mKgRVF-hQ0i6uPOsqcdZgfYaZbsO8L3-YX7U_F7r_Kmqephr9e2bXdXljvMuro89pL6etI9nSCmiS6Gg6eB_brVI1LX3rhsvaXkZI0GVcSF6TMl5EVmRR6EjikXirj6GMQpBVsrNhAqrvVkd4sjVjMniFLfUKOerXUf4pUPVQjsmhzjJqUmWMryFkLsswL2K0oPMCVXATgJ0bgGwZG2EYlAzPz4oAjOM4SDsdgErJhx9N4W03wvlXthThMJO383_kubEV5yymlGKjtyHlcUq9NSQs4KLsSEo3YwFOANpO8qDiSZFXQmDh5llr5wn4-jfn5Jb7yVFp8LCJi4gcso8JXi52VBOlt9HvU7_2GjzfbYDKuPcvetP7KkycwmaX6Kh7v1H_-hfpo",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=FYNEsXicHdBRboIwGADgLdlZfFTA4TYTswRtUSY11vYv8mKgRVF-hQ0i6uPOsqcdZgfYaZbsO8L3-YX7U_F7r_Kmqephr9e2bXdXljvMuro89pL6etI9nSCmiS6Gg6eB_brVI1LX3rhsvaXkZI0GVcSF6TMl5EVmRR6EjikXirj6GMQpBVsrNhAqrvVkd4sjVjMniFLfUKOerXUf4pUPVQjsmhzjJqUmWMryFkLsswL2K0oPMCVXATgJ0bgGwZG2EYlAzPz4oAjOM4SDsdgErJhx9N4W03wvlXthThMJO383_kubEV5yymlGKjtyHlcUq9NSQs4KLsSEo3YwFOANpO8qDiSZFXQmDh5llr5wn4-jfn5Jb7yVFp8LCJi4gcso8JXi52VBOlt9HvU7_2GjzfbYDKuPcvetP7KkycwmaX6Kh7v1H_-hfpo",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWWlNqWlRabTl1WjNrM1RWWkNTalk0ZDB4VlZDMW5kMUV6WWtac1QySklka1JDTTJjMlh6ZHhXRUZ1VVY4MVpHcElZeTFSTlZveFVWWjNVRzEzY2sxQmFraFpOM0F0Vkc0MWNFd3lSM2RFUTAxSVozRXdRVVpKYWxOSlVSSVdXbWRCUldFMlJGTk1OR1Z6YVV4TlVIcFFibFpGVVJvaVFVaE9NRVUzUm1KVlZXWklhMVUzYmpaWWREbE5lV3hQYTFoWFNtdFphbmgzUVEiLCJmY3YiOiIzIiwiZWkiOiJaZ0FFYTZEU0w0ZXNpTE1QelBuVkVRIiwicWMiOiJjLU55U0U3TVUwak1WRWpMekV0UktNbElWY2pOTHk1UktNc3NTc3dCTW5OVDgwcUtGVEtCS2hSeTh2UFNnZUlwcWZrS2lhVWwtYm1KSlpuSmlUazVsUUlNdFoxYnhPd0IiLCJxdWVzdGlvbiI6IldoYXQgQUkgY2FuIGRldGVjdCB2aWRlb3M/IiwibGsiOiJHaGwzYUdGMElHRnBJR05oYmlCa1pYUmxZM1FnZG1sa1pXOXoiLCJicyI6ImMzM1BNUS1DTUJDRzRiamU1R28xLURtNXN4Z240bUFpdjhEQnFTbUhOSUhXdEJmNC0xWWdPbWhjZThfbDNsSkotNHNmWUxSRGlkcTZDcjBOdWtYbk8zWVNZVjE2cU5qSElzX1U1aC1nTS1IYWFJR05rSVlUaURMYlV6bVpJdC1wN2ZEYmFEc1p1dEhoVTJTODZ6a0lORnJ2N3BPQS1Ibkh0UFlSVWZ1QU9qQVhPVlQyaHlWQ1IxSmpZeXA2SGFoWTJNajdoMnUxR3V0U3k5ZDB1WGdDIiwiaWQiOiJmY19aZ0FFYTZEU0w0ZXNpTE1QelBuVkVRXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWWlNqWlRabTl1WjNrM1RWWkNTalk0ZDB4VlZDMW5kMUV6WWtac1QySklka1JDTTJjMlh6ZHhXRUZ1VVY4MVpHcElZeTFSTlZveFVWWjNVRzEzY2sxQmFraFpOM0F0Vkc0MWNFd3lSM2RFUTAxSVozRXdRVVpKYWxOSlVSSVdXbWRCUldFMlJGTk1OR1Z6YVV4TlVIcFFibFpGVVJvaVFVaE9NRVUzUm1KVlZXWklhMVUzYmpaWWREbE5lV3hQYTFoWFNtdFphbmgzUVEiLCJmY3YiOiIzIiwiZWkiOiJaZ0FFYTZEU0w0ZXNpTE1QelBuVkVRIiwicWMiOiJjLU55U0U3TVUwak1WRWpMekV0UktNbElWY2pOTHk1UktNc3NTc3dCTW5OVDgwcUtGVEtCS2hSeTh2UFNnZUlwcWZrS2lhVWwtYm1KSlpuSmlUazVsUUlNdFoxYnhPd0IiLCJxdWVzdGlvbiI6IldoYXQgQUkgY2FuIGRldGVjdCB2aWRlb3M%2FIiwibGsiOiJHaGwzYUdGMElHRnBJR05oYmlCa1pYUmxZM1FnZG1sa1pXOXoiLCJicyI6ImMzM1BNUS1DTUJDRzRiamU1R28xLURtNXN4Z240bUFpdjhEQnFTbUhOSUhXdEJmNC0xWWdPbWhjZThfbDNsSkotNHNmWUxSRGlkcTZDcjBOdWtYbk8zWVNZVjE2cU5qSElzX1U1aC1nTS1IYWFJR05rSVlUaURMYlV6bVpJdC1wN2ZEYmFEc1p1dEhoVTJTODZ6a0lORnJ2N3BPQS1Ibkh0UFlSVWZ1QU9qQVhPVlQyaHlWQ1IxSmpZeXA2SGFoWTJNajdoMnUxR3V0U3k5ZDB1WGdDIiwiaWQiOiJmY19aZ0FFYTZEU0w0ZXNpTE1QelBuVkVRXzUifQ%3D%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "VOgMrniczVXJcrM4EJ7DHOc1hosT4wUvSRWVEkRx8BbjJS7nQmEhCzCgGLCJffyfZU7zMPMA8zQjwAt2yJ9kLjNdZUu0Wl-3Wv2pf_zhWN7y799MMwxfg1uej6KoSCglDi4i6vJ6sPUQv6BO4CPzznRE7HEBXfsIi8j0qYuLdL5XWMZexRFHXAfcdiNWORSIJQ5b4gsBUK_fj7oCDqxub7AbeM9Q5RJ4UZvrAbaZ9zc74DWe_S1_r96zj2JQxF7Rq5afN5snrI-CYqVUqRafeN1lBuA_FgkohA1LAMhPzdSvAqoMBwL5cj-EyZjR90DsUwGykq585H8Ug8Y7ZSn-jHGewEJKF_sHq4nySVwQwMxXADLhSErq4ltyPMnkUvGx5BxRSWOTDt_wci1PesqZiUxk6THKwMML-xhdze4ANA1nEGEFmC75LHkxtBpJtQ44RfozkWldduYgAjJvEFblJX7us6HMW8hEycQP4uKXxzcl2iovepuOZtqT9nYwXjXadeHFr4aDZr9FeDRndg7VDWxoplbiX-PtpbtEXa5UKs3qTaNylZAPBUf2BVn29WF0P1sF26E8K3aL0wPzzpN0eXuqouTmn0hplt-VyxFgCzrnK5cZW555ftiPJpCoymDPFtUO7GaNGGnuWdaaJFtJ8BiPnMu8nFMkzINpFRzLhWTmqfcZgKMLP0d5yoXNLQ8p4XqCeHjv9lmUjqGfxIqfEAKO5dzKLiYnhBO2BhPmPWMICJuSYRRf1wGKKIp6vi0jML3Xi9uFp-PFUSnMSiLsdQTt3qQNJaYcHjdJ0v69kc0TTOIDvuPeER90378QrRzDXFG-8rykURyodsmcDOOg7_Y6wuZ59lLHUdettvz6K67YA2Ehq_nUou78G50N_e_Jt297zr7KPiRf7OlL5FNJPvk-antQTsknL_dHO4LtZZSSL7_tDQ5W520vh3xQghnypW1PstIhp-19n3ytz8l3lq8M-U5t74x8ykfkS9tehnxy-9D2csl3ansH8v3btid_v-0lHMTpcN4D1zb5sBc-4tX1dDavURyOxn3Fix7xDg2sHtUo-GovXLjhrasbzpVmGbdSpR1ujSuNKegtNriVKOteASiFheUZhdDEBZcGYWFj-brDpi72wqBgeQW94FCPML2BaUFfh9TVQwvpjrO941zHp2JJb_QXtd52aNfeugN9TWRLm6kA33SudyvQQ7sIjccPD57deFPWLertrrtOX24O7HntpTO8Lk1X5K1trpThEAJ7Cl10bVjdpa1oz93AfhSslWA6hv3g2jMzrO-maNWyHra-hoX58qk5FsotpDcHL7ZLQBJPINbliTyOUHX-FnGuj0R24cIS9FUwBUAHUgTarKI6QBqu2NhlFzqnElAfZ4wXhP0oKxUuQLqGg41YEypCqVJBerkh4HIDcy4Jt6_iTYkLPF8s_4l8rIfsFvTwr-Wvv8z-AX-UjBY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=VOgMrniczVXJcrM4EJ7DHOc1hosT4wUvSRWVEkRx8BbjJS7nQmEhCzCgGLCJffyfZU7zMPMA8zQjwAt2yJ9kLjNdZUu0Wl-3Wv2pf_zhWN7y799MMwxfg1uej6KoSCglDi4i6vJ6sPUQv6BO4CPzznRE7HEBXfsIi8j0qYuLdL5XWMZexRFHXAfcdiNWORSIJQ5b4gsBUK_fj7oCDqxub7AbeM9Q5RJ4UZvrAbaZ9zc74DWe_S1_r96zj2JQxF7Rq5afN5snrI-CYqVUqRafeN1lBuA_FgkohA1LAMhPzdSvAqoMBwL5cj-EyZjR90DsUwGykq585H8Ug8Y7ZSn-jHGewEJKF_sHq4nySVwQwMxXADLhSErq4ltyPMnkUvGx5BxRSWOTDt_wci1PesqZiUxk6THKwMML-xhdze4ANA1nEGEFmC75LHkxtBpJtQ44RfozkWldduYgAjJvEFblJX7us6HMW8hEycQP4uKXxzcl2iovepuOZtqT9nYwXjXadeHFr4aDZr9FeDRndg7VDWxoplbiX-PtpbtEXa5UKs3qTaNylZAPBUf2BVn29WF0P1sF26E8K3aL0wPzzpN0eXuqouTmn0hplt-VyxFgCzrnK5cZW555ftiPJpCoymDPFtUO7GaNGGnuWdaaJFtJ8BiPnMu8nFMkzINpFRzLhWTmqfcZgKMLP0d5yoXNLQ8p4XqCeHjv9lmUjqGfxIqfEAKO5dzKLiYnhBO2BhPmPWMICJuSYRRf1wGKKIp6vi0jML3Xi9uFp-PFUSnMSiLsdQTt3qQNJaYcHjdJ0v69kc0TTOIDvuPeER90378QrRzDXFG-8rykURyodsmcDOOg7_Y6wuZ59lLHUdettvz6K67YA2Ehq_nUou78G50N_e_Jt297zr7KPiRf7OlL5FNJPvk-antQTsknL_dHO4LtZZSSL7_tDQ5W520vh3xQghnypW1PstIhp-19n3ytz8l3lq8M-U5t74x8ykfkS9tehnxy-9D2csl3ansH8v3btid_v-0lHMTpcN4D1zb5sBc-4tX1dDavURyOxn3Fix7xDg2sHtUo-GovXLjhrasbzpVmGbdSpR1ujSuNKegtNriVKOteASiFheUZhdDEBZcGYWFj-brDpi72wqBgeQW94FCPML2BaUFfh9TVQwvpjrO941zHp2JJb_QXtd52aNfeugN9TWRLm6kA33SudyvQQ7sIjccPD57deFPWLertrrtOX24O7HntpTO8Lk1X5K1trpThEAJ7Cl10bVjdpa1oz93AfhSslWA6hv3g2jMzrO-maNWyHra-hoX58qk5FsotpDcHL7ZLQBJPINbliTyOUHX-FnGuj0R24cIS9FUwBUAHUgTarKI6QBqu2NhlFzqnElAfZ4wXhP0oKxUuQLqGg41YEypCqVJBerkh4HIDcy4Jt6_iTYkLPF8s_4l8rIfsFvTwr-Wvv8z-AX-UjBY"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Free AI Clip Maker & AI Shorts Maker \u2014 Turn Long Videos ...",
+        "link": "https://www.choppity.com/tools/free-ai-clip-maker/",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.choppity.com/tools/free-ai-clip-maker/&usg=AOvVaw2YtUSKP3kUhEZCJK7_bzoS",
+        "displayed_link": "https://www.choppity.com \u203a tools \u203a free-ai-clip-maker",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcExxL_9xL_9xL_9xL_9xL_9xL_9tJf9qHf9jBP95Pv-2nf_VyP-bdv9nE__Itv-IV_-RZv_r5P_____i2f9cAP-niP_49f_-SyO1AAAAB3RSTlMAJa7y_69kPKWwjAAAAQ1JREFUeAF9kwUChDAMBJFwqZHSbuX_P71wrgxSmboMwzBOM30xL-OgnOgPJ61HfxmH5b-chvm_nIdHlI3hj9hNsnU-hFU0JrLGsPFTSspAKfDV-QLkjKcUj5CsVI8MhMbVIPFNckOzzIbcXsZq7d7lXtMiWuItiMUqzu-1k7nV5ARHWgtku68FV9xVGt8tSc9YbQ7WsmKkR3OVsQhxkxxrAOJ24SGDSmLjwTm0jgv93mzMKpUO-Fo3eHLuPlpuMLRjG4Cock_eJBl4IcXE7rx6oVfpse6DFA1rTWj8kIqNKC2ltGUgJvg3SZIKHhTz2qzCYg1fMUJPecDxMZn-y-X4aB4damVcfl2HSeudAfEjGBYFvIZXAAAAAElFTkSuQmCC.png",
+        "snippet": "Upload any long video or podcast and our clips AI finds 30+ viral-ready Shorts, TikToks and Reels. AI transcribes at 95%+ accuracy, then scores every segment ...",
+        "snippet_highlighted_words": [
+          "AI finds 30+ viral-ready Shorts"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Upload any long video or podcast and our clips AI finds 30+ viral-ready Shorts, TikToks and Reels. AI transcribes at 95%+ accuracy, then scores every segment ...",
+            "source_info_link": "https://www.choppity.com/tools/free-ai-clip-maker/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcExxL_9xL_9xL_9xL_9xL_9xL_9tJf9qHf9jBP95Pv-2nf_VyP-bdv9nE__Itv-IV_-RZv_r5P_____i2f9cAP-niP_49f_-SyO1AAAAB3RSTlMAJa7y_69kPKWwjAAAAQ1JREFUeAF9kwUChDAMBJFwqZHSbuX_P71wrgxSmboMwzBOM30xL-OgnOgPJ61HfxmH5b-chvm_nIdHlI3hj9hNsnU-hFU0JrLGsPFTSspAKfDV-QLkjKcUj5CsVI8MhMbVIPFNckOzzIbcXsZq7d7lXtMiWuItiMUqzu-1k7nV5ARHWgtku68FV9xVGt8tSc9YbQ7WsmKkR3OVsQhxkxxrAOJ24SGDSmLjwTm0jgv93mzMKpUO-Fo3eHLuPlpuMLRjG4Cock_eJBl4IcXE7rx6oVfpse6DFA1rTWj8kIqNKC2ltGUgJvg3SZIKHhTz2qzCYg1fMUJPecDxMZn-y-X4aB4damVcfl2HSeudAfEjGBYFvIZXAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CjJodHRwczovL3d3dy5jaG9wcGl0eS5jb20vdG9vbHMvZnJlZS1haS1jbGlwLW1ha2VyLxIEGgIIABrGBhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQKAGCAAQABgAIAAqEQoDY2FuFZ6kkz8aBWNhbmFpKikKAmFpFfx-5EAaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgVjYW5haSpECgRmaW5kFToiyj8aCWNhbGN1bGF0ZRoHZmluZGluZxoFZm91bmQaA2dldBoGc2VhcmNoGgpzZWFyY2ggZm9yGgNzZWUqCgoDdGhlFQAAAAAqKgoEbW9zdBWC3hk_GgdoaWdoZXN0GgRtb3JlGgN0b3AaCW1vc3R2aXJhbColCgV2aXJhbBX0-ghAGgltb3N0dmlyYWwaDHZpcmFsbW9tZW50cyosCgdtb21lbnRzFepcD0AaBm1vbWVudBoGdmlkZW9zGgx2aXJhbG1vbWVudHMqCQoCaW4VAAAAACoICgFhFQAAAAAqPwoEbG9uZxWuVqNAGgVhbG9uZxoEZnVsbBoHbGVuZ3RoeRoGbG9uZ2VyGglwcm9sb25nZWQaCWxvbmd2aWRlbyoXCgV2aWRlbxWnWHdAGglsb25ndmlkZW8qJQoNYXV0b21hdGljYWxseRUCWss_GgRhdXRvGglhdXRvbWF0aWMyMmh0dHBzOi8vd3d3LmNob3BwaXR5LmNvbS90b29scy9mcmVlLWFpLWNsaXAtbWFrZXIvOlZGcmVlIDxiPkFJPC9iPiBDbGlwIE1ha2VyICZhbXA7IDxiPkFJPC9iPiBTaG9ydHMgTWFrZXIg4oCUIFR1cm4gPGI-TG9uZyBWaWRlb3M8L2I-IC4uLkKtAVVwbG9hZCBhbnkgbG9uZyB2aWRlbyBvciBwb2RjYXN0IGFuZCBvdXIgY2xpcHMgPGI-QUkgZmluZHMgMzArIHZpcmFsLXJlYWR5IFNob3J0czwvYj4sIFRpa1Rva3MgYW5kIFJlZWxzLiBBSSB0cmFuc2NyaWJlcyBhdCA5NSUrIGFjY3VyYWN5LCB0aGVuIHNjb3JlcyBldmVyeSBzZWdtZW50Jm5ic3A7Li4uSgJpbkoDdGhlSgFhUgNzZWVSBnNlYXJjaFIDZ2V0UgpzZWFyY2ggZm9yUgRtb3JlUgN0b3AiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CjJodHRwczovL3d3dy5jaG9wcGl0eS5jb20vdG9vbHMvZnJlZS1haS1jbGlwLW1ha2VyLxIEGgIIABrGBhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQKAGCAAQABgAIAAqEQoDY2FuFZ6kkz8aBWNhbmFpKikKAmFpFfx-5EAaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgVjYW5haSpECgRmaW5kFToiyj8aCWNhbGN1bGF0ZRoHZmluZGluZxoFZm91bmQaA2dldBoGc2VhcmNoGgpzZWFyY2ggZm9yGgNzZWUqCgoDdGhlFQAAAAAqKgoEbW9zdBWC3hk_GgdoaWdoZXN0GgRtb3JlGgN0b3AaCW1vc3R2aXJhbColCgV2aXJhbBX0-ghAGgltb3N0dmlyYWwaDHZpcmFsbW9tZW50cyosCgdtb21lbnRzFepcD0AaBm1vbWVudBoGdmlkZW9zGgx2aXJhbG1vbWVudHMqCQoCaW4VAAAAACoICgFhFQAAAAAqPwoEbG9uZxWuVqNAGgVhbG9uZxoEZnVsbBoHbGVuZ3RoeRoGbG9uZ2VyGglwcm9sb25nZWQaCWxvbmd2aWRlbyoXCgV2aWRlbxWnWHdAGglsb25ndmlkZW8qJQoNYXV0b21hdGljYWxseRUCWss_GgRhdXRvGglhdXRvbWF0aWMyMmh0dHBzOi8vd3d3LmNob3BwaXR5LmNvbS90b29scy9mcmVlLWFpLWNsaXAtbWFrZXIvOlZGcmVlIDxiPkFJPC9iPiBDbGlwIE1ha2VyICZhbXA7IDxiPkFJPC9iPiBTaG9ydHMgTWFrZXIg4oCUIFR1cm4gPGI-TG9uZyBWaWRlb3M8L2I-IC4uLkKtAVVwbG9hZCBhbnkgbG9uZyB2aWRlbyBvciBwb2RjYXN0IGFuZCBvdXIgY2xpcHMgPGI-QUkgZmluZHMgMzArIHZpcmFsLXJlYWR5IFNob3J0czwvYj4sIFRpa1Rva3MgYW5kIFJlZWxzLiBBSSB0cmFuc2NyaWJlcyBhdCA5NSUrIGFjY3VyYWN5LCB0aGVuIHNjb3JlcyBldmVyeSBzZWdtZW50Jm5ic3A7Li4uSgJpbkoDdGhlSgFhUgNzZWVSBnNlYXJjaFIDZ2V0UgpzZWFyY2ggZm9yUgRtb3JlUgN0b3AiAhABSABYAGgA",
+        "source": "Choppity"
+      },
+      {
+        "position": 2,
+        "title": "quso.ai: Turn Long Videos Into Short Clips with AI",
+        "link": "https://quso.ai/",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://quso.ai/&usg=AOvVaw3ADRzBc-eTtXbsq6NNvWQC",
+        "displayed_link": "https://quso.ai",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEwmJiIlJSElJSElJSEgIBwYGBILCwMAAACcnJu1tbSPj43____Z2djw8PBLS0hkZGJycnGAgH7FxcSenGkNAAAABXRSTlMAJMH_wHUW_W0AAAC4SURBVHgBldIFAoMwEETR6GZIBr__XbvUcfgt-nAwxjq_WbBqfjdrwj4Gs0vaVYySksRthK9yLjFtITKfVVgjar7LWGKqyKYFuobsZYFQg64UP83MUTqyyOfUPs5xINs4n_th_zmVlBV6IWt4DQ2JFGeIkczQdFoNYxf_MUaSzaj0bJAfatI2_NXPUBWlbpq6KA1Qm-HEWia7tPM-0UxXvYMpj0V2UDXJvc9kB92-ueOP2tiws581D8N6DvVzMIHtAAAAAElFTkSuQmCC.png",
+        "snippet": "AI Clips Generator. Find the most viral moments in any long video, auto-scored by Virality. AI Subtitle Generator. Word-level animated captions in 99 ...",
+        "snippet_highlighted_words": [
+          "Find the most viral moments in any long video"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "AI Clips Generator. Find the most viral moments in any long video, auto-scored by Virality. AI Subtitle Generator. Word-level animated captions in 99 ...",
+            "source_info_link": "https://quso.ai/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEwmJiIlJSElJSElJSEgIBwYGBILCwMAAACcnJu1tbSPj43____Z2djw8PBLS0hkZGJycnGAgH7FxcSenGkNAAAABXRSTlMAJMH_wHUW_W0AAAC4SURBVHgBldIFAoMwEETR6GZIBr__XbvUcfgt-nAwxjq_WbBqfjdrwj4Gs0vaVYySksRthK9yLjFtITKfVVgjar7LWGKqyKYFuobsZYFQg64UP83MUTqyyOfUPs5xINs4n_th_zmVlBV6IWt4DQ2JFGeIkczQdFoNYxf_MUaSzaj0bJAfatI2_NXPUBWlbpq6KA1Qm-HEWia7tPM-0UxXvYMpj0V2UDXJvc9kB92-ueOP2tiws581D8N6DvVzMIHtAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=ChBodHRwczovL3F1c28uYWkvEgQaAggAGo0GEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA5wUIABAAGAAgACoRCgNjYW4Vhh6FPxoFY2FuYWkqKQoCYWkVUIoYQRoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaBWNhbmFpKkQKBGZpbmQVvXzUPxoJY2FsY3VsYXRlGgdmaW5kaW5nGgVmb3VuZBoDZ2V0GgZzZWFyY2gaCnNlYXJjaCBmb3IaA3NlZSoKCgN0aGUVAAAAACoqCgRtb3N0FQZCvz8aB2hpZ2hlc3QaBG1vcmUaA3RvcBoJbW9zdHZpcmFsKiUKBXZpcmFsFb0eKUAaCW1vc3R2aXJhbBoMdmlyYWxtb21lbnRzKiwKB21vbWVudHMVbicgQBoGbW9tZW50GgZ2aWRlb3MaDHZpcmFsbW9tZW50cyoJCgJpbhUAAAAAKggKAWEVAAAAACo_CgRsb25nFW-MvkAaBWFsb25nGgRmdWxsGgdsZW5ndGh5GgZsb25nZXIaCXByb2xvbmdlZBoJbG9uZ3ZpZGVvKhcKBXZpZGVvFV-0xkAaCWxvbmd2aWRlbyolCg1hdXRvbWF0aWNhbGx5FQZCvz8aBGF1dG8aCWF1dG9tYXRpYzIQaHR0cHM6Ly9xdXNvLmFpLzpHcXVzby48Yj5haTwvYj46IFR1cm4gPGI-TG9uZyBWaWRlb3M8L2I-IEludG8gU2hvcnQgQ2xpcHMgd2l0aCA8Yj5BSTwvYj5CpQFBSSBDbGlwcyBHZW5lcmF0b3IuIDxiPkZpbmQgdGhlIG1vc3QgdmlyYWwgbW9tZW50cyBpbiBhbnkgbG9uZyB2aWRlbzwvYj4sIGF1dG8tc2NvcmVkIGJ5IFZpcmFsaXR5LiBBSSBTdWJ0aXRsZSBHZW5lcmF0b3IuIFdvcmQtbGV2ZWwgYW5pbWF0ZWQgY2FwdGlvbnMgaW4gOTkmbmJzcDsuLi5KAmluSgN0aGVKAWFSA3NlZVIGc2VhcmNoUgNnZXRSCnNlYXJjaCBmb3JSBG1vcmVSA3RvcCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=ChBodHRwczovL3F1c28uYWkvEgQaAggAGo0GEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA5wUIABAAGAAgACoRCgNjYW4Vhh6FPxoFY2FuYWkqKQoCYWkVUIoYQRoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaBWNhbmFpKkQKBGZpbmQVvXzUPxoJY2FsY3VsYXRlGgdmaW5kaW5nGgVmb3VuZBoDZ2V0GgZzZWFyY2gaCnNlYXJjaCBmb3IaA3NlZSoKCgN0aGUVAAAAACoqCgRtb3N0FQZCvz8aB2hpZ2hlc3QaBG1vcmUaA3RvcBoJbW9zdHZpcmFsKiUKBXZpcmFsFb0eKUAaCW1vc3R2aXJhbBoMdmlyYWxtb21lbnRzKiwKB21vbWVudHMVbicgQBoGbW9tZW50GgZ2aWRlb3MaDHZpcmFsbW9tZW50cyoJCgJpbhUAAAAAKggKAWEVAAAAACo_CgRsb25nFW-MvkAaBWFsb25nGgRmdWxsGgdsZW5ndGh5GgZsb25nZXIaCXByb2xvbmdlZBoJbG9uZ3ZpZGVvKhcKBXZpZGVvFV-0xkAaCWxvbmd2aWRlbyolCg1hdXRvbWF0aWNhbGx5FQZCvz8aBGF1dG8aCWF1dG9tYXRpYzIQaHR0cHM6Ly9xdXNvLmFpLzpHcXVzby48Yj5haTwvYj46IFR1cm4gPGI-TG9uZyBWaWRlb3M8L2I-IEludG8gU2hvcnQgQ2xpcHMgd2l0aCA8Yj5BSTwvYj5CpQFBSSBDbGlwcyBHZW5lcmF0b3IuIDxiPkZpbmQgdGhlIG1vc3QgdmlyYWwgbW9tZW50cyBpbiBhbnkgbG9uZyB2aWRlbzwvYj4sIGF1dG8tc2NvcmVkIGJ5IFZpcmFsaXR5LiBBSSBTdWJ0aXRsZSBHZW5lcmF0b3IuIFdvcmQtbGV2ZWwgYW5pbWF0ZWQgY2FwdGlvbnMgaW4gOTkmbmJzcDsuLi5KAmluSgN0aGVKAWFSA3NlZVIGc2VhcmNoUgNnZXRSCnNlYXJjaCBmb3JSBG1vcmVSA3RvcCICEAFIAFgAaAA",
+        "source": "quso.ai",
+        "read_more_link": "https://quso.ai/#:~:text=AI%20Clips%20Generator,99%20languages%2C%20with%20filler%2Dword%20removal."
+      },
+      {
+        "position": 3,
+        "title": "OpusClip: #1 AI video clipping and editing tool",
+        "link": "https://www.opus.pro/",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.opus.pro/&usg=AOvVaw3SIYlMoScZMvQuRKNVFYwi",
+        "displayed_link": "https://www.opus.pro",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAV1BMVEUOEBULDRMAAABubnClpaa_v8AAAAj___81Njj09PT7-_u4uLmPj5CYmJlhYWNQUVNLS0339_cuLzLCwsOfn6Ctra6enp94eXp-f4COjo9paWuCg4RTVFaiNnBOAAAAxklEQVR4AbWSVw7DMAxDW2Z6r-72_ueslC3Av2Gm_UDR63K6rph0raOm7bq2qeAe7bCoRS8ZRjVsUiOEb-RObaw1mv_G_pjHPgfvnIdl7yF3ygsxsSnFMOXuRmraOCyKjl6bFQ3lgX2dYS8ot8GhqvHUnYFMH28OddFRVUc-0D8BZ-l_g4XgbRjuDLsafDCUZSV8lk4MSMDXPBUrprJBuQgSZl4-ty2fhMHJhZdl5ZbJeb4qm413132epXx_pXJMsKgHGJ2tPwf1DT7eKooXAAAAAElFTkSuQmCC.png",
+        "snippet": "OpusClip turns long videos into high-quality viral clips, and publishes them to all social platforms in one click. can clip the best moments from your video.",
+        "snippet_highlighted_words": [
+          "OpusClip turns long videos into high-quality viral clips"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "OpusClip turns long videos into high-quality viral clips, and publishes them to all social platforms in one click. can clip the best moments from your video.",
+            "source_info_link": "https://www.opus.pro/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAV1BMVEUOEBULDRMAAABubnClpaa_v8AAAAj___81Njj09PT7-_u4uLmPj5CYmJlhYWNQUVNLS0339_cuLzLCwsOfn6Ctra6enp94eXp-f4COjo9paWuCg4RTVFaiNnBOAAAAxklEQVR4AbWSVw7DMAxDW2Z6r-72_ueslC3Av2Gm_UDR63K6rph0raOm7bq2qeAe7bCoRS8ZRjVsUiOEb-RObaw1mv_G_pjHPgfvnIdl7yF3ygsxsSnFMOXuRmraOCyKjl6bFQ3lgX2dYS8ot8GhqvHUnYFMH28OddFRVUc-0D8BZ-l_g4XgbRjuDLsafDCUZSV8lk4MSMDXPBUrprJBuQgSZl4-ty2fhMHJhZdl5ZbJeb4qm413132epXx_pXJMsKgHGJ2tPwf1DT7eKooXAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=ChVodHRwczovL3d3dy5vcHVzLnByby8SBBoCCAAagAYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDaBQgAEAAYACAAKhEKA2NhbhXDjJc_GgVjYW5haSopCgJhaRWYXXdAGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoFY2FuYWkqRAoEZmluZBUAAAAAGgljYWxjdWxhdGUaB2ZpbmRpbmcaBWZvdW5kGgNnZXQaBnNlYXJjaBoKc2VhcmNoIGZvchoDc2VlKgoKA3RoZRUAAAAAKioKBG1vc3QVWvyPPRoHaGlnaGVzdBoEbW9yZRoDdG9wGgltb3N0dmlyYWwqJQoFdmlyYWwVib9iPxoJbW9zdHZpcmFsGgx2aXJhbG1vbWVudHMqLAoHbW9tZW50cxW6qX8-GgZtb21lbnQaBnZpZGVvcxoMdmlyYWxtb21lbnRzKgkKAmluFQAAAAAqCAoBYRUAAAAAKj8KBGxvbmcVJjKaPxoFYWxvbmcaBGZ1bGwaB2xlbmd0aHkaBmxvbmdlchoJcHJvbG9uZ2VkGglsb25ndmlkZW8qFwoFdmlkZW8VOQB7QBoJbG9uZ3ZpZGVvKiUKDWF1dG9tYXRpY2FsbHkVkzyZPBoEYXV0bxoJYXV0b21hdGljMhVodHRwczovL3d3dy5vcHVzLnByby86Nk9wdXNDbGlwOiAjMSA8Yj5BSSB2aWRlbzwvYj4gY2xpcHBpbmcgYW5kIGVkaXRpbmcgdG9vbEKkATxiPk9wdXNDbGlwIHR1cm5zIGxvbmcgdmlkZW9zIGludG8gaGlnaC1xdWFsaXR5IHZpcmFsIGNsaXBzPC9iPiwgYW5kIHB1Ymxpc2hlcyB0aGVtIHRvIGFsbCBzb2NpYWwgcGxhdGZvcm1zIGluIG9uZSBjbGljay4gY2FuIGNsaXAgdGhlIGJlc3QgbW9tZW50cyBmcm9tIHlvdXIgdmlkZW8uSgJpbkoDdGhlSgFhUgNzZWVSBnNlYXJjaFIDZ2V0UgpzZWFyY2ggZm9yUgRtb3JlUgN0b3AiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=ChVodHRwczovL3d3dy5vcHVzLnByby8SBBoCCAAagAYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDaBQgAEAAYACAAKhEKA2NhbhXDjJc_GgVjYW5haSopCgJhaRWYXXdAGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoFY2FuYWkqRAoEZmluZBUAAAAAGgljYWxjdWxhdGUaB2ZpbmRpbmcaBWZvdW5kGgNnZXQaBnNlYXJjaBoKc2VhcmNoIGZvchoDc2VlKgoKA3RoZRUAAAAAKioKBG1vc3QVWvyPPRoHaGlnaGVzdBoEbW9yZRoDdG9wGgltb3N0dmlyYWwqJQoFdmlyYWwVib9iPxoJbW9zdHZpcmFsGgx2aXJhbG1vbWVudHMqLAoHbW9tZW50cxW6qX8-GgZtb21lbnQaBnZpZGVvcxoMdmlyYWxtb21lbnRzKgkKAmluFQAAAAAqCAoBYRUAAAAAKj8KBGxvbmcVJjKaPxoFYWxvbmcaBGZ1bGwaB2xlbmd0aHkaBmxvbmdlchoJcHJvbG9uZ2VkGglsb25ndmlkZW8qFwoFdmlkZW8VOQB7QBoJbG9uZ3ZpZGVvKiUKDWF1dG9tYXRpY2FsbHkVkzyZPBoEYXV0bxoJYXV0b21hdGljMhVodHRwczovL3d3dy5vcHVzLnByby86Nk9wdXNDbGlwOiAjMSA8Yj5BSSB2aWRlbzwvYj4gY2xpcHBpbmcgYW5kIGVkaXRpbmcgdG9vbEKkATxiPk9wdXNDbGlwIHR1cm5zIGxvbmcgdmlkZW9zIGludG8gaGlnaC1xdWFsaXR5IHZpcmFsIGNsaXBzPC9iPiwgYW5kIHB1Ymxpc2hlcyB0aGVtIHRvIGFsbCBzb2NpYWwgcGxhdGZvcm1zIGluIG9uZSBjbGljay4gY2FuIGNsaXAgdGhlIGJlc3QgbW9tZW50cyBmcm9tIHlvdXIgdmlkZW8uSgJpbkoDdGhlSgFhUgNzZWVSBnNlYXJjaFIDZ2V0UgpzZWFyY2ggZm9yUgRtb3JlUgN0b3AiAhABSABYAGgA",
+        "source": "Opus Clip"
+      },
+      {
+        "position": 4,
+        "title": "Free AI Clip Maker: Long Video to Short Clips",
+        "link": "https://exemplary.ai/ai-clips",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://exemplary.ai/ai-clips&usg=AOvVaw3fE8Y78pu2nYZuw5wvT3Zr",
+        "displayed_link": "https://exemplary.ai \u203a ai-clips",
+        "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3KzcuNzc3Nzc3Nzc3NzcuNy01Nzc3Nzc3NzcrNzc3Nzc3Nzc3N__AABEIABwAHAMBIgACEQEDEQH_xAAYAAEAAwEAAAAAAAAAAAAAAAAFBAYHAP_EACgQAAIBAwIFAwUAAAAAAAAAAAECAwAEBREhBhIxUWETQfAVInGBkf_EABgBAAIDAAAAAAAAAAAAAAAAAAADAQQG_8QAHREAAgMAAgMAAAAAAAAAAAAAAREAAgMxUQQSIf_aAAwDAQACEQMRAD8AocaVYuG-E8txCksmNt1MUR0aSRuVdewPufnvQqJtW1YGLL_RoEtr9cbaxoPTCW0Z1XTcnUfvXqetajytbZUBqme4sBzPcxwblMFaC5yRtY0LcqqJtWc9gNN6IVNqa4ov3yeWZ2yMt-sS8iTOgRT35VG2nn3_AJRyptVjAXNAb8yDDkTatCt5sLcWiR5C9jk1A-z1GAG3jrVFjAqTGBRpiNF9UHHM22GQCDE2yFju04ZiB4Gp6_PwWE2rowKkADSm509KpuE__9k.jpg",
+        "date": "Oct 14, 2026",
+        "snippet": "It transcribes the recording, picks the moments that stand on their own, gives each clip a virality score and adds animated captions you can ...",
+        "snippet_highlighted_words": [
+          "picks the moments that stand on their own"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "It transcribes the recording, picks the moments that stand on their own, gives each clip a virality score and adds animated captions you can ...",
+            "source_info_link": "https://exemplary.ai/ai-clips",
+            "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3KzcuNzc3Nzc3Nzc3NzcuNy01Nzc3Nzc3NzcrNzc3Nzc3Nzc3N__AABEIABwAHAMBIgACEQEDEQH_xAAYAAEAAwEAAAAAAAAAAAAAAAAFBAYHAP_EACgQAAIBAwIFAwUAAAAAAAAAAAECAwAEBREhBhIxUWETQfAVInGBkf_EABgBAAIDAAAAAAAAAAAAAAAAAAADAQQG_8QAHREAAgMAAgMAAAAAAAAAAAAAAREAAgMxUQQSIf_aAAwDAQACEQMRAD8AocaVYuG-E8txCksmNt1MUR0aSRuVdewPufnvQqJtW1YGLL_RoEtr9cbaxoPTCW0Z1XTcnUfvXqetajytbZUBqme4sBzPcxwblMFaC5yRtY0LcqqJtWc9gNN6IVNqa4ov3yeWZ2yMt-sS8iTOgRT35VG2nn3_AJRyptVjAXNAb8yDDkTatCt5sLcWiR5C9jk1A-z1GAG3jrVFjAqTGBRpiNF9UHHM22GQCDE2yFju04ZiB4Gp6_PwWE2rowKkADSm509KpuE__9k.jpg"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ch1odHRwczovL2V4ZW1wbGFyeS5haS9haS1jbGlwcxIEGgIIABqbBhICCAAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQPUFCAAQABgAIAAqEQoDY2FuFS315D4aBWNhbmFpKikKAmFpFbqdrUAaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgVjYW5haSpECgRmaW5kFYIggz4aCWNhbGN1bGF0ZRoHZmluZGluZxoFZm91bmQaA2dldBoGc2VhcmNoGgpzZWFyY2ggZm9yGgNzZWUqCgoDdGhlFQAAAAAqKgoEbW9zdBUAAAAAGgdoaWdoZXN0GgRtb3JlGgN0b3AaCW1vc3R2aXJhbColCgV2aXJhbBUAAAAAGgltb3N0dmlyYWwaDHZpcmFsbW9tZW50cyosCgdtb21lbnRzFX9NaD8aBm1vbWVudBoGdmlkZW9zGgx2aXJhbG1vbWVudHMqCQoCaW4VAAAAACoICgFhFQAAAAAqPwoEbG9uZxVULnJAGgVhbG9uZxoEZnVsbBoHbGVuZ3RoeRoGbG9uZ2VyGglwcm9sb25nZWQaCWxvbmd2aWRlbyoXCgV2aWRlbxVEzZBAGglsb25ndmlkZW8qJQoNYXV0b21hdGljYWxseRVnxj49GgRhdXRvGglhdXRvbWF0aWMyHWh0dHBzOi8vZXhlbXBsYXJ5LmFpL2FpLWNsaXBzOlFGcmVlIDxiPkFJPC9iPiBDbGlwIE1ha2VyOiA8Yj5Mb25nIFZpZGVvPC9iPiB0byBTaG9ydCBDbGlwcyAtIEV4ZW1wbGFyeSA8Yj5BSTwvYj5CnAFJdCB0cmFuc2NyaWJlcyB0aGUgcmVjb3JkaW5nLCA8Yj5waWNrcyB0aGUgbW9tZW50cyB0aGF0IHN0YW5kIG9uIHRoZWlyIG93bjwvYj4sIGdpdmVzIGVhY2ggY2xpcCBhIHZpcmFsaXR5IHNjb3JlIGFuZCBhZGRzIGFuaW1hdGVkIGNhcHRpb25zIHlvdSBjYW4mbmJzcDsuLi5KAWFKA3RoZUoCaW5SA3NlZVIKc2VhcmNoIGZvclIDZ2V0UgZzZWFyY2hSBG1vcmVSA3RvcCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ch1odHRwczovL2V4ZW1wbGFyeS5haS9haS1jbGlwcxIEGgIIABqbBhICCAAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQPUFCAAQABgAIAAqEQoDY2FuFS315D4aBWNhbmFpKikKAmFpFbqdrUAaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgVjYW5haSpECgRmaW5kFYIggz4aCWNhbGN1bGF0ZRoHZmluZGluZxoFZm91bmQaA2dldBoGc2VhcmNoGgpzZWFyY2ggZm9yGgNzZWUqCgoDdGhlFQAAAAAqKgoEbW9zdBUAAAAAGgdoaWdoZXN0GgRtb3JlGgN0b3AaCW1vc3R2aXJhbColCgV2aXJhbBUAAAAAGgltb3N0dmlyYWwaDHZpcmFsbW9tZW50cyosCgdtb21lbnRzFX9NaD8aBm1vbWVudBoGdmlkZW9zGgx2aXJhbG1vbWVudHMqCQoCaW4VAAAAACoICgFhFQAAAAAqPwoEbG9uZxVULnJAGgVhbG9uZxoEZnVsbBoHbGVuZ3RoeRoGbG9uZ2VyGglwcm9sb25nZWQaCWxvbmd2aWRlbyoXCgV2aWRlbxVEzZBAGglsb25ndmlkZW8qJQoNYXV0b21hdGljYWxseRVnxj49GgRhdXRvGglhdXRvbWF0aWMyHWh0dHBzOi8vZXhlbXBsYXJ5LmFpL2FpLWNsaXBzOlFGcmVlIDxiPkFJPC9iPiBDbGlwIE1ha2VyOiA8Yj5Mb25nIFZpZGVvPC9iPiB0byBTaG9ydCBDbGlwcyAtIEV4ZW1wbGFyeSA8Yj5BSTwvYj5CnAFJdCB0cmFuc2NyaWJlcyB0aGUgcmVjb3JkaW5nLCA8Yj5waWNrcyB0aGUgbW9tZW50cyB0aGF0IHN0YW5kIG9uIHRoZWlyIG93bjwvYj4sIGdpdmVzIGVhY2ggY2xpcCBhIHZpcmFsaXR5IHNjb3JlIGFuZCBhZGRzIGFuaW1hdGVkIGNhcHRpb25zIHlvdSBjYW4mbmJzcDsuLi5KAWFKA3RoZUoCaW5SA3NlZVIKc2VhcmNoIGZvclIDZ2V0UgZzZWFyY2hSBG1vcmVSA3RvcCICEAFIAFgAaAA",
+        "source": "Exemplary AI"
+      },
+      {
+        "position": 5,
+        "title": "Free AI Clip Maker & AI Clip Generator - Create Viral Clips ...",
+        "link": "https://wayin.ai/tools/clip-maker/",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://wayin.ai/tools/clip-maker/&usg=AOvVaw3MuZCDCRBDihn_KVUdkPkw",
+        "displayed_link": "https://wayin.ai \u203a Tools",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAyVBMVEX____Fy8eTqpti4Igz3m4h12KU6qzK9daHkYsANQsAPRkPQCMgRS4oo1IY318X4F8V418S514A4lKG76Pq-u-e6rMA11Abq08hSzAgQS0hPiwnWTkjyVwO7F0Q6l4M710A6UuZ87H4_vpB23MA1lgc2WAb218qmU8iPC0gOCooeEMH9lwK8l057XEa3V8X4V8iNisA_1woYDwdyFYmaz4qiEkR6F4ZuFOE5aCOoJQhICYALRAljkgpw16Z2qtnyIQazVYY0lU9V0aFtlaPAAABiUlEQVR4AYWTVWKDQBRFiRsyRAeKw-BFYvXY_hfVecSV-3ueC3OhSrVWbzTqtWaLeaR2p9tjOZ4XkNjvD4a3eDSeYAlj-U1RNU1VdcO8wpbtNIjr-Sxmg1CMqGLj3TrzoUMIcZO0EQbUJOPyPI9iXTulsYAnCc-nojKVMZbYWR7pqoaOMWzqDhghJGoTiZYSzIkuIlTf86YDXABMpYleBnkWbuo6oyLBGHgKeLnUqPSkKMVffDTGkOTTIcAphv4KxcobLYWVfPaLGoxJEZ9y2j4oTmJdnbAyizHuMkzLoQn2nDIQ-Z67sap9hL4v_1SYZlJwcI-jQsRns9-lulyixt_Hill_fPz9KYoym202my3oQ6L5_YkmIoFPasxOkgv5J1GOi61ofOLaDH6qIESJS8oMGuUpSossbbNsUMdRi9ej1o-jfr0sWYZlDZ-sOwgnjb714mAIHMzrk0vt0qN9cvaTm7MHi_rxcfCjxwE1968nwetBozevB2p3L57XPLvfvD9p2LXR5fv_A1-0ZGMMVnREAAAAAElFTkSuQmCC.png",
+        "snippet": "Our AI finds the best moments automatically\u2014funny jokes, surprising reveals, emotional reactions. No more scrolling through hours of footage to find the gold.",
+        "snippet_highlighted_words": [
+          "Our AI finds the best moments automatically"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Our AI finds the best moments automatically\u2014funny jokes, surprising reveals, emotional reactions. No more scrolling through hours of footage to find the gold.",
+            "source_info_link": "https://wayin.ai/tools/clip-maker/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAyVBMVEX____Fy8eTqpti4Igz3m4h12KU6qzK9daHkYsANQsAPRkPQCMgRS4oo1IY318X4F8V418S514A4lKG76Pq-u-e6rMA11Abq08hSzAgQS0hPiwnWTkjyVwO7F0Q6l4M710A6UuZ87H4_vpB23MA1lgc2WAb218qmU8iPC0gOCooeEMH9lwK8l057XEa3V8X4V8iNisA_1woYDwdyFYmaz4qiEkR6F4ZuFOE5aCOoJQhICYALRAljkgpw16Z2qtnyIQazVYY0lU9V0aFtlaPAAABiUlEQVR4AYWTVWKDQBRFiRsyRAeKw-BFYvXY_hfVecSV-3ueC3OhSrVWbzTqtWaLeaR2p9tjOZ4XkNjvD4a3eDSeYAlj-U1RNU1VdcO8wpbtNIjr-Sxmg1CMqGLj3TrzoUMIcZO0EQbUJOPyPI9iXTulsYAnCc-nojKVMZbYWR7pqoaOMWzqDhghJGoTiZYSzIkuIlTf86YDXABMpYleBnkWbuo6oyLBGHgKeLnUqPSkKMVffDTGkOTTIcAphv4KxcobLYWVfPaLGoxJEZ9y2j4oTmJdnbAyizHuMkzLoQn2nDIQ-Z67sap9hL4v_1SYZlJwcI-jQsRns9-lulyixt_Hill_fPz9KYoym202my3oQ6L5_YkmIoFPasxOkgv5J1GOi61ofOLaDH6qIESJS8oMGuUpSossbbNsUMdRi9ej1o-jfr0sWYZlDZ-sOwgnjb714mAIHMzrk0vt0qN9cvaTm7MHi_rxcfCjxwE1968nwetBozevB2p3L57XPLvfvD9p2LXR5fv_A1-0ZGMMVnREAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CiJodHRwczovL3dheWluLmFpL3Rvb2xzL2NsaXAtbWFrZXIvEgQaAggAGp8GEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA-QUIABAAGAAgACoRCgNjYW4V2OODPxoFY2FuYWkqKQoCYWkV3Hi9QBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaBWNhbmFpKkQKBGZpbmQVlZKiPxoJY2FsY3VsYXRlGgdmaW5kaW5nGgVmb3VuZBoDZ2V0GgZzZWFyY2gaCnNlYXJjaCBmb3IaA3NlZSoKCgN0aGUVAAAAACoqCgRtb3N0Ff6rmz4aB2hpZ2hlc3QaBG1vcmUaA3RvcBoJbW9zdHZpcmFsKiUKBXZpcmFsFRCfbkAaCW1vc3R2aXJhbBoMdmlyYWxtb21lbnRzKiwKB21vbWVudHMV7RYbQBoGbW9tZW50GgZ2aWRlb3MaDHZpcmFsbW9tZW50cyoJCgJpbhUAAAAAKggKAWEVAAAAACo_CgRsb25nFZZzCkAaBWFsb25nGgRmdWxsGgdsZW5ndGh5GgZsb25nZXIaCXByb2xvbmdlZBoJbG9uZ3ZpZGVvKhcKBXZpZGVvFX9UikAaCWxvbmd2aWRlbyolCg1hdXRvbWF0aWNhbGx5FdwIpT8aBGF1dG8aCWF1dG9tYXRpYzIiaHR0cHM6Ly93YXlpbi5haS90b29scy9jbGlwLW1ha2VyLzpFRnJlZSA8Yj5BSTwvYj4gQ2xpcCBNYWtlciAmYW1wOyA8Yj5BSTwvYj4gQ2xpcCBHZW5lcmF0b3IgLSBXYXlpblZpZGVvQqcBPGI-T3VyIEFJIGZpbmRzIHRoZSBiZXN0IG1vbWVudHMgYXV0b21hdGljYWxseTwvYj7igJRmdW5ueSBqb2tlcywgc3VycHJpc2luZyByZXZlYWxzLCBlbW90aW9uYWwgcmVhY3Rpb25zLiBObyBtb3JlIHNjcm9sbGluZyB0aHJvdWdoIGhvdXJzIG9mIGZvb3RhZ2UgdG8gZmluZCB0aGUgZ29sZC5KAWFKA3RoZUoCaW5SBG1vcmVSCnNlYXJjaCBmb3JSA2dldFIGc2VhcmNoUgN0b3BSA3NlZSICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CiJodHRwczovL3dheWluLmFpL3Rvb2xzL2NsaXAtbWFrZXIvEgQaAggAGp8GEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA-QUIABAAGAAgACoRCgNjYW4V2OODPxoFY2FuYWkqKQoCYWkV3Hi9QBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaBWNhbmFpKkQKBGZpbmQVlZKiPxoJY2FsY3VsYXRlGgdmaW5kaW5nGgVmb3VuZBoDZ2V0GgZzZWFyY2gaCnNlYXJjaCBmb3IaA3NlZSoKCgN0aGUVAAAAACoqCgRtb3N0Ff6rmz4aB2hpZ2hlc3QaBG1vcmUaA3RvcBoJbW9zdHZpcmFsKiUKBXZpcmFsFRCfbkAaCW1vc3R2aXJhbBoMdmlyYWxtb21lbnRzKiwKB21vbWVudHMV7RYbQBoGbW9tZW50GgZ2aWRlb3MaDHZpcmFsbW9tZW50cyoJCgJpbhUAAAAAKggKAWEVAAAAACo_CgRsb25nFZZzCkAaBWFsb25nGgRmdWxsGgdsZW5ndGh5GgZsb25nZXIaCXByb2xvbmdlZBoJbG9uZ3ZpZGVvKhcKBXZpZGVvFX9UikAaCWxvbmd2aWRlbyolCg1hdXRvbWF0aWNhbGx5FdwIpT8aBGF1dG8aCWF1dG9tYXRpYzIiaHR0cHM6Ly93YXlpbi5haS90b29scy9jbGlwLW1ha2VyLzpFRnJlZSA8Yj5BSTwvYj4gQ2xpcCBNYWtlciAmYW1wOyA8Yj5BSTwvYj4gQ2xpcCBHZW5lcmF0b3IgLSBXYXlpblZpZGVvQqcBPGI-T3VyIEFJIGZpbmRzIHRoZSBiZXN0IG1vbWVudHMgYXV0b21hdGljYWxseTwvYj7igJRmdW5ueSBqb2tlcywgc3VycHJpc2luZyByZXZlYWxzLCBlbW90aW9uYWwgcmVhY3Rpb25zLiBObyBtb3JlIHNjcm9sbGluZyB0aHJvdWdoIGhvdXJzIG9mIGZvb3RhZ2UgdG8gZmluZCB0aGUgZ29sZC5KAWFKA3RoZUoCaW5SBG1vcmVSCnNlYXJjaCBmb3JSA2dldFIGc2VhcmNoUgN0b3BSA3NlZSICEAFIAFgAaAA",
+        "source": "WayinVideo",
+        "read_more_link": "https://wayin.ai/tools/clip-maker/#:~:text=How%20to%20use%20this%20AI"
+      },
+      {
+        "position": 6,
+        "title": "Klap | Turn videos into viral TikToks, Reels & Shorts",
+        "link": "https://klap.app/",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://klap.app/&usg=AOvVaw2q9MDCmdVwyXbvzpgsJUH5",
+        "displayed_link": "https://klap.app",
+        "favicon": "https://serpapi.com/searches/6b040059a20802d1ddd6def4/images/ftnu2rIVw-mWT_Tgu1QbGa2ksDfCzrZcUfDbopSJLxY.png",
+        "snippet": "Klap is an AI video clipping tool that turns long videos into vertical shorts with virality scores, active-speaker reframing, captions and scheduling.",
+        "snippet_highlighted_words": [
+          "Klap is an AI video clipping tool"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Klap is an AI video clipping tool that turns long videos into vertical shorts with virality scores, active-speaker reframing, captions and scheduling.",
+            "source_info_link": "https://klap.app/",
+            "icon": "https://serpapi.com/searches/6b040059a20802d1ddd6def4/images/ftnu2rIVw-mWT_Tgu1QbGeVpaNbhf0We20W4m-b1ozJ_EJ9UqyNpUqfkey_MS9vq.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=ChFodHRwczovL2tsYXAuYXBwLxIEGgIIABqGBhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOAFCAAQABgAIAAqEQoDY2FuFSgL8T8aBWNhbmFpKikKAmFpFZceiEAaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgVjYW5haSpECgRmaW5kFQAAAAAaCWNhbGN1bGF0ZRoHZmluZGluZxoFZm91bmQaA2dldBoGc2VhcmNoGgpzZWFyY2ggZm9yGgNzZWUqCgoDdGhlFQAAAAAqKgoEbW9zdBX7pJs_GgdoaWdoZXN0GgRtb3JlGgN0b3AaCW1vc3R2aXJhbColCgV2aXJhbBWK9KVAGgltb3N0dmlyYWwaDHZpcmFsbW9tZW50cyosCgdtb21lbnRzFQAAAAAaBm1vbWVudBoGdmlkZW9zGgx2aXJhbG1vbWVudHMqCQoCaW4VAAAAACoICgFhFQAAAAAqPwoEbG9uZxW7r3xAGgVhbG9uZxoEZnVsbBoHbGVuZ3RoeRoGbG9uZ2VyGglwcm9sb25nZWQaCWxvbmd2aWRlbyoXCgV2aWRlbxUfSa1AGglsb25ndmlkZW8qJQoNYXV0b21hdGljYWxseRWpqgRAGgRhdXRvGglhdXRvbWF0aWMyEWh0dHBzOi8va2xhcC5hcHAvOkdLbGFwIHwgVHVybiA8Yj52aWRlb3M8L2I-IGludG8gPGI-dmlyYWw8L2I-IFRpa1Rva3MsIFJlZWxzICZhbXA7IFNob3J0c0KdATxiPktsYXAgaXMgYW4gQUkgdmlkZW8gY2xpcHBpbmcgdG9vbDwvYj4gdGhhdCB0dXJucyBsb25nIHZpZGVvcyBpbnRvIHZlcnRpY2FsIHNob3J0cyB3aXRoIHZpcmFsaXR5IHNjb3JlcywgYWN0aXZlLXNwZWFrZXIgcmVmcmFtaW5nLCBjYXB0aW9ucyBhbmQgc2NoZWR1bGluZy5KAWFKA3RoZUoCaW5SCnNlYXJjaCBmb3JSA2dldFIGc2VhcmNoUgRtb3JlUgN0b3BSA3NlZSICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=ChFodHRwczovL2tsYXAuYXBwLxIEGgIIABqGBhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOAFCAAQABgAIAAqEQoDY2FuFSgL8T8aBWNhbmFpKikKAmFpFZceiEAaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgVjYW5haSpECgRmaW5kFQAAAAAaCWNhbGN1bGF0ZRoHZmluZGluZxoFZm91bmQaA2dldBoGc2VhcmNoGgpzZWFyY2ggZm9yGgNzZWUqCgoDdGhlFQAAAAAqKgoEbW9zdBX7pJs_GgdoaWdoZXN0GgRtb3JlGgN0b3AaCW1vc3R2aXJhbColCgV2aXJhbBWK9KVAGgltb3N0dmlyYWwaDHZpcmFsbW9tZW50cyosCgdtb21lbnRzFQAAAAAaBm1vbWVudBoGdmlkZW9zGgx2aXJhbG1vbWVudHMqCQoCaW4VAAAAACoICgFhFQAAAAAqPwoEbG9uZxW7r3xAGgVhbG9uZxoEZnVsbBoHbGVuZ3RoeRoGbG9uZ2VyGglwcm9sb25nZWQaCWxvbmd2aWRlbyoXCgV2aWRlbxUfSa1AGglsb25ndmlkZW8qJQoNYXV0b21hdGljYWxseRWpqgRAGgRhdXRvGglhdXRvbWF0aWMyEWh0dHBzOi8va2xhcC5hcHAvOkdLbGFwIHwgVHVybiA8Yj52aWRlb3M8L2I-IGludG8gPGI-dmlyYWw8L2I-IFRpa1Rva3MsIFJlZWxzICZhbXA7IFNob3J0c0KdATxiPktsYXAgaXMgYW4gQUkgdmlkZW8gY2xpcHBpbmcgdG9vbDwvYj4gdGhhdCB0dXJucyBsb25nIHZpZGVvcyBpbnRvIHZlcnRpY2FsIHNob3J0cyB3aXRoIHZpcmFsaXR5IHNjb3JlcywgYWN0aXZlLXNwZWFrZXIgcmVmcmFtaW5nLCBjYXB0aW9ucyBhbmQgc2NoZWR1bGluZy5KAWFKA3RoZUoCaW5SCnNlYXJjaCBmb3JSA2dldFIGc2VhcmNoUgRtb3JlUgN0b3BSA3NlZSICEAFIAFgAaAA",
+        "source": "Klap"
+      },
+      {
+        "position": 7,
+        "title": "Free Long Video to Short Video AI Converter",
+        "link": "https://www.vmaker.com/tools/long-video-to-short-video-ai",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.vmaker.com/tools/long-video-to-short-video-ai&usg=AOvVaw1ohIbW8gHPYWjuYVLNzSKC",
+        "displayed_link": "https://www.vmaker.com \u203a Tools",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAVFBMVEVHcExh1rYKtOQNteNHzMQ6xc06xc0Tt-Bb07otwdJj1rX___8YutxU0bwOteIivtdf1bdEy8JOzsU_yckrwtA2xc3s-fkEutad3-XJ7u9w1NW26OuxpBlcAAAAC3RSTlMA5uZxgE0rhH2Amhq4Z40AAADLSURBVCiRtdLbDsIgDIDhqWwTQZAWGJvv_56WjUNd4qV_uPsgoYRh-HPTvSeEGBmNl9feMwcATnR7nMgxZHYQYsPxdAopWfGyk6sRhVBxyratkVoT7tTxTsc2VXoTeFoMXVSpKPgtec8QQKm1YMKovLcVBThQrUS7vO3ozmg5IjIMUVmt54qIPjbEBdLCMYQ2SlqsJtO3gjKPBu_9EbYMWhszdaS72yVXyFzr00qamZCqZMzI8ESmXofQ_rYDu5jr1_-ZpZxbt2n4cx9Tmxkbl-3EugAAAABJRU5ErkJggg.png",
+        "snippet": "Vmaker AI analyzes your long-form video, detects high-engagement moments, and turns them into multiple short clips automatically. It scores hooks, pacing, and ...",
+        "snippet_highlighted_words": [
+          "Vmaker AI analyzes your long-form video, detects high-engagement moments"
+        ],
+        "sitelinks": {
+          "inline": [
+            {
+              "title": "How To Create Viral Shorts...",
+              "link": "https://www.vmaker.com/tools/long-video-to-short-video-ai#:~:text=How%20to%20create%20viral%20shorts%20with%20Vmaker%27s%20long%20video%20to%20short%20video%20AI"
+            },
+            {
+              "title": "Why 250k+ Creators Use...",
+              "link": "https://www.vmaker.com/tools/long-video-to-short-video-ai#:~:text=Why%20250K%2B%20Creators%20Use%20Vmaker%27s%20Long%20to%20Short%20Video%20Converter"
+            },
+            {
+              "title": "Win The Short Form Video...",
+              "link": "https://www.vmaker.com/tools/long-video-to-short-video-ai#:~:text=Win%20the%20short%20form%20video%20content%20game%20with%20Vmaker%20AI"
+            }
+          ]
+        },
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.7,
+              "reviews": 103
+            },
+            "extensions": [
+              "4.7(103)",
+              "Free"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Vmaker AI analyzes your long-form video, detects high-engagement moments, and turns them into multiple short clips automatically. It scores hooks, pacing, and ...",
+            "source_info_link": "https://www.vmaker.com/tools/long-video-to-short-video-ai",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAVFBMVEVHcExh1rYKtOQNteNHzMQ6xc06xc0Tt-Bb07otwdJj1rX___8YutxU0bwOteIivtdf1bdEy8JOzsU_yckrwtA2xc3s-fkEutad3-XJ7u9w1NW26OuxpBlcAAAAC3RSTlMA5uZxgE0rhH2Amhq4Z40AAADLSURBVCiRtdLbDsIgDIDhqWwTQZAWGJvv_56WjUNd4qV_uPsgoYRh-HPTvSeEGBmNl9feMwcATnR7nMgxZHYQYsPxdAopWfGyk6sRhVBxyratkVoT7tTxTsc2VXoTeFoMXVSpKPgtec8QQKm1YMKovLcVBThQrUS7vO3ozmg5IjIMUVmt54qIPjbEBdLCMYQ2SlqsJtO3gjKPBu_9EbYMWhszdaS72yVXyFzr00qamZCqZMzI8ESmXofQ_rYDu5jr1_-ZpZxbt2n4cx9Tmxkbl-3EugAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CjlodHRwczovL3d3dy52bWFrZXIuY29tL3Rvb2xzL2xvbmctdmlkZW8tdG8tc2hvcnQtdmlkZW8tYWkSBBoCCAAaxgYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAggBegCCQJ4GCAAQABgAIAAqEQoDY2FuFZ8qBUAaBWNhbmFpKikKAmFpFeqLAkEaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgVjYW5haSpECgRmaW5kFWiEeT8aCWNhbGN1bGF0ZRoHZmluZGluZxoFZm91bmQaA2dldBoGc2VhcmNoGgpzZWFyY2ggZm9yGgNzZWUqCgoDdGhlFQAAAAAqKgoEbW9zdBWn4qY-GgdoaWdoZXN0GgRtb3JlGgN0b3AaCW1vc3R2aXJhbColCgV2aXJhbBWU-i0_Ggltb3N0dmlyYWwaDHZpcmFsbW9tZW50cyosCgdtb21lbnRzFaGq8z8aBm1vbWVudBoGdmlkZW9zGgx2aXJhbG1vbWVudHMqCQoCaW4VAAAAACoICgFhFQAAAAAqPwoEbG9uZxVTLNZAGgVhbG9uZxoEZnVsbBoHbGVuZ3RoeRoGbG9uZ2VyGglwcm9sb25nZWQaCWxvbmd2aWRlbyoXCgV2aWRlbxXklgVBGglsb25ndmlkZW8qJQoNYXV0b21hdGljYWxseRUFZ68_GgRhdXRvGglhdXRvbWF0aWMyOWh0dHBzOi8vd3d3LnZtYWtlci5jb20vdG9vbHMvbG9uZy12aWRlby10by1zaG9ydC12aWRlby1haTpMRnJlZSA8Yj5Mb25nIFZpZGVvPC9iPiB0byBTaG9ydCA8Yj5WaWRlbyBBSTwvYj4gQ29udmVydGVyIC0gVm1ha2VyIDxiPkFJPC9iPkKuATxiPlZtYWtlciBBSSBhbmFseXplcyB5b3VyIGxvbmctZm9ybSB2aWRlbywgZGV0ZWN0cyBoaWdoLWVuZ2FnZW1lbnQgbW9tZW50czwvYj4sIGFuZCB0dXJucyB0aGVtIGludG8gbXVsdGlwbGUgc2hvcnQgY2xpcHMgYXV0b21hdGljYWxseS4gSXQgc2NvcmVzIGhvb2tzLCBwYWNpbmcsIGFuZCZuYnNwOy4uLkoCaW5KA3RoZUoBYVIDc2VlUgZzZWFyY2hSA2dldFIKc2VhcmNoIGZvclIEbW9yZVIDdG9wIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CjlodHRwczovL3d3dy52bWFrZXIuY29tL3Rvb2xzL2xvbmctdmlkZW8tdG8tc2hvcnQtdmlkZW8tYWkSBBoCCAAaxgYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAggBegCCQJ4GCAAQABgAIAAqEQoDY2FuFZ8qBUAaBWNhbmFpKikKAmFpFeqLAkEaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgVjYW5haSpECgRmaW5kFWiEeT8aCWNhbGN1bGF0ZRoHZmluZGluZxoFZm91bmQaA2dldBoGc2VhcmNoGgpzZWFyY2ggZm9yGgNzZWUqCgoDdGhlFQAAAAAqKgoEbW9zdBWn4qY-GgdoaWdoZXN0GgRtb3JlGgN0b3AaCW1vc3R2aXJhbColCgV2aXJhbBWU-i0_Ggltb3N0dmlyYWwaDHZpcmFsbW9tZW50cyosCgdtb21lbnRzFaGq8z8aBm1vbWVudBoGdmlkZW9zGgx2aXJhbG1vbWVudHMqCQoCaW4VAAAAACoICgFhFQAAAAAqPwoEbG9uZxVTLNZAGgVhbG9uZxoEZnVsbBoHbGVuZ3RoeRoGbG9uZ2VyGglwcm9sb25nZWQaCWxvbmd2aWRlbyoXCgV2aWRlbxXklgVBGglsb25ndmlkZW8qJQoNYXV0b21hdGljYWxseRUFZ68_GgRhdXRvGglhdXRvbWF0aWMyOWh0dHBzOi8vd3d3LnZtYWtlci5jb20vdG9vbHMvbG9uZy12aWRlby10by1zaG9ydC12aWRlby1haTpMRnJlZSA8Yj5Mb25nIFZpZGVvPC9iPiB0byBTaG9ydCA8Yj5WaWRlbyBBSTwvYj4gQ29udmVydGVyIC0gVm1ha2VyIDxiPkFJPC9iPkKuATxiPlZtYWtlciBBSSBhbmFseXplcyB5b3VyIGxvbmctZm9ybSB2aWRlbywgZGV0ZWN0cyBoaWdoLWVuZ2FnZW1lbnQgbW9tZW50czwvYj4sIGFuZCB0dXJucyB0aGVtIGludG8gbXVsdGlwbGUgc2hvcnQgY2xpcHMgYXV0b21hdGljYWxseS4gSXQgc2NvcmVzIGhvb2tzLCBwYWNpbmcsIGFuZCZuYnNwOy4uLkoCaW5KA3RoZUoBYVIDc2VlUgZzZWFyY2hSA2dldFIKc2VhcmNoIGZvclIEbW9yZVIDdG9wIgIQAUgAWABoAA",
+        "source": "Vmaker AI",
+        "read_more_link": "https://www.vmaker.com/tools/long-video-to-short-video-ai#:~:text=What%20video%20sources%20does%20Vmaker"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "Long video to short video AI free",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgodEUSRGcpHB7dEvROsGKB2LDvqg:1795424358787&q=Long+video+to+short+video+AI+free&sa=X&ved=2ahUKEwignYH53J2YAxUHFmIAHcx8NQIQ1QJ6BAhCEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Long+video+to+short+video+AI+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Vizard AI",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgodEUSRGcpHB7dEvROsGKB2LDvqg:1795424358787&q=Vizard+AI&sa=X&ved=2ahUKEwignYH53J2YAxUHFmIAHcx8NQIQ1QJ6BAhMEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Vizard+AI"
+      },
+      {
+        "block_position": 1,
+        "query": "Convert long video to short video for free",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgodEUSRGcpHB7dEvROsGKB2LDvqg:1795424358787&q=Convert+long+video+to+short+video+for+free&sa=X&ved=2ahUKEwignYH53J2YAxUHFmIAHcx8NQIQ1QJ6BAhLEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Convert+long+video+to+short+video+for+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Long video to short video AI free without watermark",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgodEUSRGcpHB7dEvROsGKB2LDvqg:1795424358787&q=Long+video+to+short+video+AI+free+without+watermark&sa=X&ved=2ahUKEwignYH53J2YAxUHFmIAHcx8NQIQ1QJ6BAhJEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Long+video+to+short+video+AI+free+without+watermark"
+      },
+      {
+        "block_position": 1,
+        "query": "AI viral clip maker free",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgodEUSRGcpHB7dEvROsGKB2LDvqg:1795424358787&q=AI+viral+clip+maker+free&sa=X&ved=2ahUKEwignYH53J2YAxUHFmIAHcx8NQIQ1QJ6BAhGEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AI+viral+clip+maker+free"
+      },
+      {
+        "block_position": 1,
+        "query": "YouTube video to clips AI free",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgodEUSRGcpHB7dEvROsGKB2LDvqg:1795424358787&q=YouTube+video+to+clips+AI+free&sa=X&ved=2ahUKEwignYH53J2YAxUHFmIAHcx8NQIQ1QJ6BAhFEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=YouTube+video+to+clips+AI+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Long video to clips AI free",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgodEUSRGcpHB7dEvROsGKB2LDvqg:1795424358787&q=Long+video+to+clips+AI+free&sa=X&ved=2ahUKEwignYH53J2YAxUHFmIAHcx8NQIQ1QJ6BAhEEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Long+video+to+clips+AI+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Long video to viral short video AI free",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgodEUSRGcpHB7dEvROsGKB2LDvqg:1795424358787&q=Long+video+to+viral+short+video+AI+free&sa=X&ved=2ahUKEwignYH53J2YAxUHFmIAHcx8NQIQ1QJ6BAhDEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Long+video+to+viral+short+video+AI+free"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "I'm trying to find a tool that can pull out the most \u201cviral-potential\u201d moments ...",
+        "link": "https://www.reddit.com/r/DigitalMarketing/comments/1pjgyi0/im_trying_to_find_a_tool_that_can_pull_out_the/",
+        "date": "11 months ago",
+        "extensions": [
+          "r/DigitalMarketing",
+          "10+ comments"
+        ],
+        "source": "Reddit",
+        "answers": [
+          {
+            "link": "https://www.reddit.com/r/DigitalMarketing/comments/1pjgyi0/im_trying_to_find_a_tool_that_can_pull_out_the/"
+          }
+        ]
+      },
+      {
+        "title": "AI that auto-clips long videos into viral shorts - real potential or just hype?",
+        "link": "https://www.reddit.com/r/Entrepreneur/comments/1nwhmox/ai_that_autoclips_long_videos_into_viral_shorts/",
+        "date": "1 year ago",
+        "extensions": [
+          "r/Entrepreneur",
+          "3 comments"
+        ],
+        "source": "Reddit",
+        "answers": [
+          {
+            "link": "https://www.reddit.com/r/Entrepreneur/comments/1nwhmox/ai_that_autoclips_long_videos_into_viral_shorts/"
+          }
+        ]
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=Can+AI+find+the+most+viral+moments+in+a+long+video+automatically?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgodEUSRGcpHB7dEvROsGKB2LDvqg:1795424358787&ei=ZgAEa6DSL4esiLMPzPnVEQ&start=10&sa=N&sstk=AYl2yk_GnB4bzNlLRri39COCJzTZ5kYo-QL4VGE6O2pzO-30zpa4LTP1IXDIgLIHtl7GFuEvKBKkyapEoMNGSsTFEGN_8p0rPIidvw&ved=2ahUKEwignYH53J2YAxUHFmIAHcx8NQIQ8NMDegQIPRAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=Can+AI+find+the+most+viral+moments+in+a+long+video+automatically?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgodEUSRGcpHB7dEvROsGKB2LDvqg:1795424358787&ei=ZgAEa6DSL4esiLMPzPnVEQ&start=10&sa=N&sstk=AYl2yk_GnB4bzNlLRri39COCJzTZ5kYo-QL4VGE6O2pzO-30zpa4LTP1IXDIgLIHtl7GFuEvKBKkyapEoMNGSsTFEGN_8p0rPIidvw&ved=2ahUKEwignYH53J2YAxUHFmIAHcx8NQIQ8tMDegQIPRAE",
+        "3": "https://www.google.com/search?q=Can+AI+find+the+most+viral+moments+in+a+long+video+automatically?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgodEUSRGcpHB7dEvROsGKB2LDvqg:1795424358787&ei=ZgAEa6DSL4esiLMPzPnVEQ&start=20&sa=N&sstk=AYl2yk_GnB4bzNlLRri39COCJzTZ5kYo-QL4VGE6O2pzO-30zpa4LTP1IXDIgLIHtl7GFuEvKBKkyapEoMNGSsTFEGN_8p0rPIidvw&ved=2ahUKEwignYH53J2YAxUHFmIAHcx8NQIQ8tMDegQIPRAG",
+        "4": "https://www.google.com/search?q=Can+AI+find+the+most+viral+moments+in+a+long+video+automatically?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgodEUSRGcpHB7dEvROsGKB2LDvqg:1795424358787&ei=ZgAEa6DSL4esiLMPzPnVEQ&start=30&sa=N&sstk=AYl2yk_GnB4bzNlLRri39COCJzTZ5kYo-QL4VGE6O2pzO-30zpa4LTP1IXDIgLIHtl7GFuEvKBKkyapEoMNGSsTFEGN_8p0rPIidvw&ved=2ahUKEwignYH53J2YAxUHFmIAHcx8NQIQ8tMDegQIPRAI",
+        "5": "https://www.google.com/search?q=Can+AI+find+the+most+viral+moments+in+a+long+video+automatically?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgodEUSRGcpHB7dEvROsGKB2LDvqg:1795424358787&ei=ZgAEa6DSL4esiLMPzPnVEQ&start=40&sa=N&sstk=AYl2yk_GnB4bzNlLRri39COCJzTZ5kYo-QL4VGE6O2pzO-30zpa4LTP1IXDIgLIHtl7GFuEvKBKkyapEoMNGSsTFEGN_8p0rPIidvw&ved=2ahUKEwignYH53J2YAxUHFmIAHcx8NQIQ8tMDegQIPRAK",
+        "6": "https://www.google.com/search?q=Can+AI+find+the+most+viral+moments+in+a+long+video+automatically?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgodEUSRGcpHB7dEvROsGKB2LDvqg:1795424358787&ei=ZgAEa6DSL4esiLMPzPnVEQ&start=50&sa=N&sstk=AYl2yk_GnB4bzNlLRri39COCJzTZ5kYo-QL4VGE6O2pzO-30zpa4LTP1IXDIgLIHtl7GFuEvKBKkyapEoMNGSsTFEGN_8p0rPIidvw&ved=2ahUKEwignYH53J2YAxUHFmIAHcx8NQIQ8tMDegQIPRAM",
+        "7": "https://www.google.com/search?q=Can+AI+find+the+most+viral+moments+in+a+long+video+automatically?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgodEUSRGcpHB7dEvROsGKB2LDvqg:1795424358787&ei=ZgAEa6DSL4esiLMPzPnVEQ&start=60&sa=N&sstk=AYl2yk_GnB4bzNlLRri39COCJzTZ5kYo-QL4VGE6O2pzO-30zpa4LTP1IXDIgLIHtl7GFuEvKBKkyapEoMNGSsTFEGN_8p0rPIidvw&ved=2ahUKEwignYH53J2YAxUHFmIAHcx8NQIQ8tMDegQIPRAO",
+        "8": "https://www.google.com/search?q=Can+AI+find+the+most+viral+moments+in+a+long+video+automatically?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgodEUSRGcpHB7dEvROsGKB2LDvqg:1795424358787&ei=ZgAEa6DSL4esiLMPzPnVEQ&start=70&sa=N&sstk=AYl2yk_GnB4bzNlLRri39COCJzTZ5kYo-QL4VGE6O2pzO-30zpa4LTP1IXDIgLIHtl7GFuEvKBKkyapEoMNGSsTFEGN_8p0rPIidvw&ved=2ahUKEwignYH53J2YAxUHFmIAHcx8NQIQ8tMDegQIPRAQ",
+        "9": "https://www.google.com/search?q=Can+AI+find+the+most+viral+moments+in+a+long+video+automatically?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgodEUSRGcpHB7dEvROsGKB2LDvqg:1795424358787&ei=ZgAEa6DSL4esiLMPzPnVEQ&start=80&sa=N&sstk=AYl2yk_GnB4bzNlLRri39COCJzTZ5kYo-QL4VGE6O2pzO-30zpa4LTP1IXDIgLIHtl7GFuEvKBKkyapEoMNGSsTFEGN_8p0rPIidvw&ved=2ahUKEwignYH53J2YAxUHFmIAHcx8NQIQ8tMDegQIPRAS",
+        "10": "https://www.google.com/search?q=Can+AI+find+the+most+viral+moments+in+a+long+video+automatically?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgodEUSRGcpHB7dEvROsGKB2LDvqg:1795424358787&ei=ZgAEa6DSL4esiLMPzPnVEQ&start=90&sa=N&sstk=AYl2yk_GnB4bzNlLRri39COCJzTZ5kYo-QL4VGE6O2pzO-30zpa4LTP1IXDIgLIHtl7GFuEvKBKkyapEoMNGSsTFEGN_8p0rPIidvw&ved=2ahUKEwignYH53J2YAxUHFmIAHcx8NQIQ8tMDegQIPRAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Can+AI+find+the+most+viral+moments+in+a+long+video+automatically%3F&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Can+AI+find+the+most+viral+moments+in+a+long+video+automatically%3F&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Can+AI+find+the+most+viral+moments+in+a+long+video+automatically%3F&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Can+AI+find+the+most+viral+moments+in+a+long+video+automatically%3F&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Can+AI+find+the+most+viral+moments+in+a+long+video+automatically%3F&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Can+AI+find+the+most+viral+moments+in+a+long+video+automatically%3F&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Can+AI+find+the+most+viral+moments+in+a+long+video+automatically%3F&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Can+AI+find+the+most+viral+moments+in+a+long+video+automatically%3F&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Can+AI+find+the+most+viral+moments+in+a+long+video+automatically%3F&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Can+AI+find+the+most+viral+moments+in+a+long+video+automatically%3F&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Can+AI+find+the+most+viral+moments+in+a+long+video+automatically%3F&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

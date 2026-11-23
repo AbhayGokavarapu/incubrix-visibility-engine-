@@ -1,0 +1,18 @@
+{
+  "measurement_id": "aeb0aace9d40",
+  "question_id": "Q028",
+  "timestamp_utc": "2026-11-22T14:00:00.614281+00:00",
+  "provider_name": "Google Gemini",
+  "model_identifier": "gemini-2.5-flash",
+  "question": "Which AI video clipper has the highest transcription accuracy?",
+  "market": "UK",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "FAILED",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [],
+  "raw_text_summary": "",
+  "raw_payload": null,
+  "error_details": "HTTP Error 429: Too Many Requests"
+}

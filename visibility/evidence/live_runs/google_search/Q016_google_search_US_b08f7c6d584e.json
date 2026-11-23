@@ -1,0 +1,511 @@
+{
+  "measurement_id": "b08f7c6d584e",
+  "question_id": "Q016",
+  "timestamp_utc": "2026-11-22T13:46:31.193725+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "How to make Alex Hormozi style animated subtitles for free?",
+  "market": "US",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [
+    "Descript",
+    "Submagic"
+  ],
+  "position": null,
+  "citations": [
+    "https://www.choppity.com/tools/hormozi-caption-style-generator/",
+    "https://exemplary.ai/blog/alex-hormozi-captions",
+    "https://www.google.com/goto?url=CAESeAHEIkXX79gvXbLyq7TdwAtHrUC-WvdXF0o9BL6yYDVk8lF0HB59i7Qf_SommCDIy5Wxh0mMY7xr44UK57kRPHcdh6gF1fKn8vlK8oWZ16KJTuHJcSc6-5Wvf9fLKhL7d1NrnCO_luANyF9cPH86ugHE11tS34XtkQ&gsessionid=IHmTA8Wz5JzS4gH13UOZmG-BkKUBirvRKWmchAe0HoUpmBVYDagbBg",
+    "https://www.google.com/goto?url=CAESqQEBxCJF172IiOTXifouFvKz9v_htWi8rgyHiH9xz556TfQofyEppiVdeS5Xezs3PvqWcrIaH6X94-pdyS80y8ZGXI8fd0FlZYPvp89TGEGPe3ac8l7kwaSQXmEbMHH7_HDowAJ_BobLwHaXa2hb8FZV22EIgtAVZe6QsCtNLGddmX_bu_uw4zq4coWVCPjSDFK19iPEVj7_ZsJWX5oBO8SRYRUrzRCJL_sR",
+    "https://www.google.com/goto?url=CAESYgHEIkXXgh4scHklFD1aFgJBu1gjb2TVcB50vKYaL5TzCN6zUDD4VIh5M6KwmCOY2GOn6S86jt44dgROuuuWLxtDAj1AwXZdlD260it63YKl3Pg64tQGkVIGZ0ExFRjfCHiF",
+    "https://www.google.com/goto?url=CAESeAHEIkXXhvFxKb_qE0PQQ7I3x3RZzOY0EjcbkbLqRxFKZtq-AEgS1Bor6wjMKcSiDy3097sNGvhuaoM-PrmjoelbUuc6pgELKvpW-9HJWp4D3tpfM-XndWLqGAWQsji004Zln_UnUyo6yqp8ibRrh3ddu27xHgk1RA",
+    "https://www.google.com/goto?url=CAESfAHEIkXXqXs-lxlGxeuPZHqKqgN8DG18mr93Dgk4-xXL4HKm2kevkYBYXmwb2eE86P0SubGDsLyJbM7Q8ZyRWzHbvqCHf5AdXjgpyWxsFxBpQeztHPCNi-Ejzv4LXgPbLZ997hZSZ1aX8WaLZgtaAkED_q3FL90zf8Ju0vc"
+  ],
+  "raw_text_summary": "Free Hormozi Caption Generator - Get the Style Now Our Hormozi caption style generator uses AI to automatically transcribe your video and apply Alex Hormozi's signature animated caption formatting. You get ... Alex Hormozi Captions: How to Make Them Yes, by hand in any free editor with text layers and keyframes. Whether automatic captions and presets are free depends on the tool and plan. How to Make Alex Hormozi Style Captions in 5 Minutes Submagic provides six templates to start with. Select a template and customize the appearance. You can change the font, text size, shadow, ... Best workflow for getting auto-captioned videos up quickly ... Descript is awesome for quick cutting + Hormozi-style captions (especially if you're doing talking head stuff). You can edit by text, which ... Auto Caption Generator - Add Animated Captions to Video Free auto caption generator. Add animated subtitles and captions to video \u2014 Hormozi, MrBeast, and karaoke styles. Editable captions, no watermark. Free Animated Subtitles Generator - Add Motion Now 100% free. Try free \u00b7 Hormozi Caption Style Generator - Free Alex Hormozi Subtitles. Generate Alex Hormozi-style animated captions for your videos instantly ... How to Make Alex Hormozi Captions Learn how to make Alex Hormozi style captions with word-by-word highlighting. Create bold, animated captions for TikTok, Reels, and Shorts.",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f235311b656b5705b91d",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/3JWmZepodk26LQCCUuI3IP3zpkjBVNvO47ypQOJQAL0/6b02f235311b656b5705b91d.json",
+      "markdown_endpoint": "https://serpapi.com/searches/3JWmZepodk26LQCCUuI3IP3zpkjBVNvO47ypQOJQAL0/6b02f235311b656b5705b91d.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/3JWmZepodk26LQCCUuI3IP3zpkjBVNvO47ypQOJQAL0/6b02f235311b656b5705b91d.json_with_pixel_position",
+      "created_at": "2026-11-22 13:46:29 UTC",
+      "processed_at": "2026-11-22 13:46:29 UTC",
+      "google_url": "https://www.google.com/search?q=How+to+make+Alex+Hormozi+style+animated+subtitles+for+free%3F&oq=How+to+make+Alex+Hormozi+style+animated+subtitles+for+free%3F&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/3JWmZepodk26LQCCUuI3IP3zpkjBVNvO47ypQOJQAL0/6b02f235311b656b5705b91d.html",
+      "total_time_taken": 1.19
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "How to make Alex Hormozi style animated subtitles for free?",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "How to make Alex Hormozi style animated subtitles for free?",
+      "total_results": 68,
+      "time_taken_displayed": 0.26,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "How To create Alex Hormozi Style Captions in 1 Minute",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXVwcMphSNvaA5p-wXReSNBpzpuLQx5c0jUZX147kuvnlccF1U_DGEENFg9rb0O5Mj15XUxkuzNCPtbWmrfKynwSyapdvbVi32m1_iH2ns3kQEPix59LAjVMX63aCLHABWM4yN&gsessionid=IHmTA8Wz5JzS4gH13UOZmG-BkKUBirvRKWmchAe0HoUpmBVYDagbBg",
+        "thumbnail": "https://serpapi.com/searches/6b02f235311b656b5705b91d/images/3bhk8QVQRLxJDhO6kPC0Ol7c3T1g52Ly2fmdC7wTkjM.webp",
+        "channel": "Dan Kieft",
+        "duration": "9:35",
+        "platform": "YouTube",
+        "date": "Feb 4, 2024",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR4u9u2S9obNi-_dvrZnlQjCVu2sagqkTz_pg"
+      },
+      {
+        "position": 2,
+        "title": "How To Add Captions like Alex Hormozi in SECONDS",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXXXUeHirbZzgjvckGCBLsHL1S6BaXM7BEnw4S7ESP8U8o4tQXAu6i9pDYRUkAYf0wT_ataGifwcdVV_qSPmS7ny7SrVECIHdwmYOhqHDvHi-BOUBswnGQNZB-Q6FtfnQwDZfC&gsessionid=IHmTA8Wz5JzS4gH13UOZmG-BkKUBirvRKWmchAe0HoUpmBVYDagbBg",
+        "thumbnail": "https://serpapi.com/searches/6b02f235311b656b5705b91d/images/IjpjjO0SisNDXcMR9NYGD73kFMfr4Z2Y3HCUg9d3Hgc.webp",
+        "channel": "Matt Loui",
+        "duration": "5:58",
+        "platform": "YouTube",
+        "date": "Jul 1, 2024",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "Intro",
+            "link": "https://www.google.com/goto?url=CAESbAHEIkXXvhgPjUqfxTO1yYvzF8EkAyV_gdwxuLCYiOsCDNY36OjiubEa9cvXoHd6gSwf7MwYKFjr848nYjcZgBh6iFKwP4p-HSeyk86xI6FDALmN0QKSJ2lltf1NZje0DpsSjq7N9J8Y_kQLGw&gsessionid=IHmTA8Wz5JzS4gH13UOZmG-BkKUBirvRKWmchAe0HoUpmBVYDagbBg"
+          },
+          {
+            "time": "00:41",
+            "title": "How to use this AI tool",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXXj3Eo5s3oOZBbwcuTgZ2xDrfr7bR5P1xP8KD7a4rUdHETwjlUERiLaWN33MBpj27aqAARtV4h9JpoJKKRMWoJrcuu3D9Cu2zeB9s1rdwbvg5E-cs0m28LCrtzLx4_FtUUA7Dis2KGLfs&gsessionid=IHmTA8Wz5JzS4gH13UOZmG-BkKUBirvRKWmchAe0HoUpmBVYDagbBg"
+          },
+          {
+            "time": "01:05",
+            "title": "Trimming Video",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXXn1S5LCh7MXVaRZy9rrRCQT69HMDjMw2czhhzVuBcxrKdeozrvnZyJBkO4fSLbTI0Q-9ZNHHaqueZlTd9ikz-sm0Y6VoJ4oiBSH7gp0tzDKFry5xz00WevbQahC3ofPP4iwodhsPwwsA&gsessionid=IHmTA8Wz5JzS4gH13UOZmG-BkKUBirvRKWmchAe0HoUpmBVYDagbBg"
+          },
+          {
+            "time": "01:56",
+            "title": "Editing Captions",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXyd8ifEoDUK2Ks5FJPLpDlKdOk8uNHRJstrgxBJP5E56A_A564n5J2rkkQgItSqSmk0jAOb5hXvgrnpKyEB8DzlKIfih1ITglcQ0LIwXf4AIkxxLZhIz2mxe5-9mv8T7iQU5Zdrq8k896&gsessionid=IHmTA8Wz5JzS4gH13UOZmG-BkKUBirvRKWmchAe0HoUpmBVYDagbBg"
+          },
+          {
+            "time": "02:58",
+            "title": "Images and GIFS",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXX2Xem_WV6b3cjS5jJJQXs94zDp0xZJEXHMVKN-7y3_NkBFxsiiZ3kgTztBEYmvkEMWF6DOOBmajz9lkIPt6Eh5NLZdVWAZdK62TyqsJqJfpuis7mhLX5ULFyeARklLQ9OoVwtbUFNIbRo&gsessionid=IHmTA8Wz5JzS4gH13UOZmG-BkKUBirvRKWmchAe0HoUpmBVYDagbBg"
+          },
+          {
+            "time": "04:09",
+            "title": "AI Hook Title & Music",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXABDtB5bs4PjWAICVwc4AvBBnzr65yqZLetvXXMixZzOKI-ihErGfdjfK-kuX96qlzpU_hp_e_Vr0Q3rn4FAF2FD8dQbUus2YAuwJC218Pjmgoh2S97eI8Zmyq3FmQPxTWAM75ScClAk-&gsessionid=IHmTA8Wz5JzS4gH13UOZmG-BkKUBirvRKWmchAe0HoUpmBVYDagbBg"
+          },
+          {
+            "time": "04:55",
+            "title": "Result",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXX4YEegIBnhkpOSuvYN9vb2S6j9w6rb2ZABl1vezEfhMAbomNCn9pbWO_rHwxLph6oiuIKgGCiHq1ig_r2UI9vtAfnLMSd1RsBbZ24DWNRq1OYw9iIWg9qdLmQ5Rm84-z9BUzl3vtGfZ6K&gsessionid=IHmTA8Wz5JzS4gH13UOZmG-BkKUBirvRKWmchAe0HoUpmBVYDagbBg"
+          },
+          {
+            "time": "05:27",
+            "title": "Conclusion",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXbu_pTSd_OWHasTkYZmaBZnMY9hS6THE6Cbf0yYZ9iCyQkJNK4yrdEFZJu1Y2IJ8psQDaCP-H3aI4o4OGkmmren3qWP74SV-T-yl26Pl-09AygNDKVQXysxnUwulMiu0JE_zo18_Wi2EB&gsessionid=IHmTA8Wz5JzS4gH13UOZmG-BkKUBirvRKWmchAe0HoUpmBVYDagbBg"
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "title": "How To Animate Captions Like Alex Hormozi",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXJx8Md4V19RFmOB1IcbhKN1qVuYA-WNBEZ7zGx4zsaHtRCdBay-zhxTwXrEPzL1BLZDo6UB4t0XR-EJSZeQE6rOSLLEI1Vqlkrl3dVOkfITO-8K7fHkmY4BVCC-24x95wAoxk&gsessionid=IHmTA8Wz5JzS4gH13UOZmG-BkKUBirvRKWmchAe0HoUpmBVYDagbBg",
+        "thumbnail": "https://serpapi.com/searches/6b02f235311b656b5705b91d/images/sIkvlbLtBT5zNHr0UewwuhbHg67CJv4nByGXs_sco6E.webp",
+        "channel": "Orson Lord (Yes That's My Real Name)",
+        "duration": "2:47",
+        "platform": "YouTube",
+        "date": "Sep 8, 2023",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRIvdiERNIK0LV5SpK0eKCm8ZrT8Af_JCOLCw"
+      },
+      {
+        "position": 4,
+        "title": "How To Make Alex Hormozi Subtitles in Premiere Pro",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXWbuJZgXSp470L-GtFozg9HtSEwnuJQf3WNPFWA1KTscwZ2WDVKj3bYXPWIH4hhPdhTjeU6l4N3rUdQPHuR81zPXnijWVKXF4Da_3jRiDN4ryj8NMLo0yRZKIfyOsIeB_YrbM&gsessionid=IHmTA8Wz5JzS4gH13UOZmG-BkKUBirvRKWmchAe0HoUpmBVYDagbBg",
+        "thumbnail": "https://serpapi.com/searches/6b02f235311b656b5705b91d/images/UuFKZ2M3tvVGQnwov-Zbm5g6TU0EwsNZl3K4TDjKpgc.webp",
+        "channel": "Adobe Basics",
+        "duration": "1:08",
+        "platform": "YouTube",
+        "date": "Apr 1, 2024",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTInfUzSZ-ZDrdGy2W-CMEogiWjMBGj8I9Zqw"
+      }
+    ],
+    "short_videos": [
+      {
+        "position": 1,
+        "title": "CAPTIONS like Alex Hormozi for free in CapCut",
+        "source": "YouTube",
+        "profile_name": "Kate Telek | Smartphone Videography",
+        "extensions": [
+          "Kate Telek | Smartphone Videography"
+        ],
+        "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "duration": "1:24",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjHaTE-mtyfJvuicIbDabcd04nKXFdWI3ilcp2aGguG46RxyFdhJPmXFQ&s=10",
+        "link": "https://www.youtube.com/watch?v=LWWAajjx-aw"
+      },
+      {
+        "position": 2,
+        "title": "How to Add Alex Hormozi Style Captions in CapCut (Free) by juniusong on TikTok. Play on TikTok. 0:24",
+        "source": "TikTok",
+        "profile_name": "juniusong",
+        "extensions": [
+          "juniusong"
+        ],
+        "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEUAAAAAAAAFT1IAQUNBub6u5eexxcpyQ0wIAABaxsv5____9_nGj5oyAAD____84eeEYmvm4uN4f4A5P0MAFBXx-vu019khAAD60tr37vDlmqpXAAsALzAKc3gpo6hjpqr_6O3idYqcbHTSrLP6iJ9rABOc5Ofi-vvJYnXLbn8_AAI9HyWWIDhRz9TH9PffY3oDAAC99vjhSGe7KEenACiF4-f_1961PVaB09bFkZswjJGwuLr__f7xqbYYHh_9tsTiL1Yh8R0_AAAAAXRSTlP-GuMHfQAAANJJREFUeAG90kUCg1AMBNDiPtTd3d2V-5-quMOS2b6vSXI5IjnZIElSyUgzLMcnoSBKspKMUPMpiEKxVE5EVKr5WgTLBkr1BtBsBbHd6fZKOvYHw1F9PAkgSU9njXlNx8Vyxa2XfmxvtoC0M1GH_d6P3QPU8fFkY_Ar7Q0ag3ONIOKQvOB60i0WqSnUG6FnI6rzMJbvkB76zo5-wk0JIf8EGq9ndzN7f9bRrlQBcTYTcT22iAh-X9Ib7_dPm8Q1u5Zvfpq7c4uIQ56otVrLjEYzJX-4mxcG80U-CwAAAABJRU5ErkJggg.png",
+        "duration": "0:24",
+        "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSlwaeayftvmpdju6L7bcLTecS2C5S-wVi38w",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuOUkxiJqOVbg1IOLi2ThPal5TkWovpbVRwKImaIhmf3S90q6j5p8i8Tc&s=10",
+        "link": "https://www.google.com/goto?url=CAESeAHEIkXXHx6lSUTTOGhBPfQE9kCulvMl7J4heMWM5f0IARc83hGs8NnsrhwKX5jGC1OX1rbu2B6a8e4wzwIEjFCc_1bPLFo88Pjnaqhmv4RLxvGu3JoldWB5g6DuPHK_XDUowKoIs2-mCjgGs9XmrCdj4-GLV8iSZw&gsessionid=IHmTA8Wz5JzS4gH13UOZmG-BkKUBirvRKWmchAe0HoUpmBVYDagbBg"
+      },
+      {
+        "position": 3,
+        "title": "How to Make Alex Hormozi Style Captions in 5 Minutes by benkaluza on TikTok. Play on TikTok. 0:46",
+        "source": "TikTok",
+        "profile_name": "benkaluza",
+        "extensions": [
+          "benkaluza"
+        ],
+        "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEUAAAAAAAAFT1IAQUNBub6u5eexxcpyQ0wIAABaxsv5____9_nGj5oyAAD____84eeEYmvm4uN4f4A5P0MAFBXx-vu019khAAD60tr37vDlmqpXAAsALzAKc3gpo6hjpqr_6O3idYqcbHTSrLP6iJ9rABOc5Ofi-vvJYnXLbn8_AAI9HyWWIDhRz9TH9PffY3oDAAC99vjhSGe7KEenACiF4-f_1961PVaB09bFkZswjJGwuLr__f7xqbYYHh_9tsTiL1Yh8R0_AAAAAXRSTlP-GuMHfQAAANJJREFUeAG90kUCg1AMBNDiPtTd3d2V-5-quMOS2b6vSXI5IjnZIElSyUgzLMcnoSBKspKMUPMpiEKxVE5EVKr5WgTLBkr1BtBsBbHd6fZKOvYHw1F9PAkgSU9njXlNx8Vyxa2XfmxvtoC0M1GH_d6P3QPU8fFkY_Ar7Q0ag3ONIOKQvOB60i0WqSnUG6FnI6rzMJbvkB76zo5-wk0JIf8EGq9ndzN7f9bRrlQBcTYTcT22iAh-X9Ib7_dPm8Q1u5Zvfpq7c4uIQ56otVrLjEYzJX-4mxcG80U-CwAAAABJRU5ErkJggg.png",
+        "duration": "0:46",
+        "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR27SXZHyVa_htPA6JSIXHw7-0nYmzIHWzVbg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcK0wP38af9QVeYMmU-rJ15lUQEnG4kHluaiuNHlGPl7ZCzOJiGWb3HkE&s=10",
+        "link": "https://www.google.com/goto?url=CAESeAHEIkXX79gvXbLyq7TdwAtHrUC-WvdXF0o9BL6yYDVk8lF0HB59i7Qf_SommCDIy5Wxh0mMY7xr44UK57kRPHcdh6gF1fKn8vlK8oWZ16KJTuHJcSc6-5Wvf9fLKhL7d1NrnCO_luANyF9cPH86ugHE11tS34XtkQ&gsessionid=IHmTA8Wz5JzS4gH13UOZmG-BkKUBirvRKWmchAe0HoUpmBVYDagbBg"
+      },
+      {
+        "position": 4,
+        "title": "How to create captions like @Alex Hormozi for free in @ ... by kate.telek on TikTok. Play on TikTok. 1:23",
+        "source": "TikTok",
+        "profile_name": "kate.telek",
+        "extensions": [
+          "kate.telek"
+        ],
+        "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEUAAAAAAAAFT1IAQUNBub6u5eexxcpyQ0wIAABaxsv5____9_nGj5oyAAD____84eeEYmvm4uN4f4A5P0MAFBXx-vu019khAAD60tr37vDlmqpXAAsALzAKc3gpo6hjpqr_6O3idYqcbHTSrLP6iJ9rABOc5Ofi-vvJYnXLbn8_AAI9HyWWIDhRz9TH9PffY3oDAAC99vjhSGe7KEenACiF4-f_1961PVaB09bFkZswjJGwuLr__f7xqbYYHh_9tsTiL1Yh8R0_AAAAAXRSTlP-GuMHfQAAANJJREFUeAG90kUCg1AMBNDiPtTd3d2V-5-quMOS2b6vSXI5IjnZIElSyUgzLMcnoSBKspKMUPMpiEKxVE5EVKr5WgTLBkr1BtBsBbHd6fZKOvYHw1F9PAkgSU9njXlNx8Vyxa2XfmxvtoC0M1GH_d6P3QPU8fFkY_Ar7Q0ag3ONIOKQvOB60i0WqSnUG6FnI6rzMJbvkB76zo5-wk0JIf8EGq9ndzN7f9bRrlQBcTYTcT22iAh-X9Ib7_dPm8Q1u5Zvfpq7c4uIQ56otVrLjEYzJX-4mxcG80U-CwAAAABJRU5ErkJggg.png",
+        "duration": "1:23",
+        "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQVx6-GJpwuwfgJHim560xd7ozupNH0B8cS1g",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe4HSaKBR62kitAxGiQdsAqIJYCbU73EB9PLyHdwoJB7aZ7nhNIaVPCqw&s=10",
+        "link": "https://www.google.com/goto?url=CAESgQEBxCJF15rI1NcFeSvyNn84PMXiyeGpRLgYeU7Gxo0AhWi0NXxjB3yuIL1dpC4kZ5EiKduXkqu4Vz28Omw3G7Q9P07MRDSuTbmuydEbdDOL6AlrHvc9fSkHMeRx3qFFqOWt5Jc3gdvzD2Mni1-0viFVUfOgxcrJ8VZA4MsC1lAIM4k&gsessionid=IHmTA8Wz5JzS4gH13UOZmG-BkKUBirvRKWmchAe0HoUpmBVYDagbBg"
+      },
+      {
+        "position": 5,
+        "title": "Add Alex Hormozi Style Captions To Vids EASILY",
+        "source": "YouTube",
+        "profile_name": "Greg Preece",
+        "extensions": [
+          "Greg Preece"
+        ],
+        "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "duration": "0:52",
+        "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS4sDfliMG7OiLDS4f0VxlLjboOKCyj0jFEAg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR07rZF38OZtaiCNWDTOUlJb5gqa_bHisVPgfbH6f555f-bSTUdq7Us4NM&s=10",
+        "link": "https://www.youtube.com/shorts/tTjR7Z875fQ"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "How can I generate animated subtitles for a video?",
+        "type": "ai_overview",
+        "page_token": "BOzDAHicHdBLboJAAIDhtIdxKYyITU1M05GHUsE4zAPYGDqD8hhAhYJl2bN01cP0AD1GT1DTA_yL7__4lFlV_NwFaduemrmi9H0_Ptb1USZjXpdK3LxXXOGxlK8xL-azhxl4OvCF2fRwWfdwR5AZSiEZ46rQ4C5kjy8RpTkuQRflTrGlEMYYIteUGiLhIIj0iKpLt6InoXoWs3cDBWKVVLcmpxkJzMHP1xMOYIeNlBAg1qy06rCCoZvDCS7REsmipYH15qn62l0RVTBniyU6YxtICpzOy62ZZ6dXbEQZNuBANO-6ZakREmRFqtNhTa4itfEtVS994qVbgwNfc4JN8Dz1LHjasMjhxMrtzIG-Oe0RFivKxDkmbe4uQcaLoqcyTW-GBtlptKuokZjXanTg3UIb_R9b7A9lOz9d6uMXvyRxm4h93H4X97_6H5Igf0I",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=BOzDAHicHdBLboJAAIDhtIdxKYyITU1M05GHUsE4zAPYGDqD8hhAhYJl2bN01cP0AD1GT1DTA_yL7__4lFlV_NwFaduemrmi9H0_Ptb1USZjXpdK3LxXXOGxlK8xL-azhxl4OvCF2fRwWfdwR5AZSiEZ46rQ4C5kjy8RpTkuQRflTrGlEMYYIteUGiLhIIj0iKpLt6InoXoWs3cDBWKVVLcmpxkJzMHP1xMOYIeNlBAg1qy06rCCoZvDCS7REsmipYH15qn62l0RVTBniyU6YxtICpzOy62ZZ6dXbEQZNuBANO-6ZakREmRFqtNhTa4itfEtVS994qVbgwNfc4JN8Dz1LHjasMjhxMrtzIG-Oe0RFivKxDkmbe4uQcaLoqcyTW-GBtlptKuokZjXanTg3UIb_R9b7A9lOz9d6uMXvyRxm4h93H4X97_6H5Igf0I",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVJIcGxaRVYxZWtoMFMycDJjMEptVTBKTlQzVjNOemhsY1d0VVVXdHZMV3hPZDFneWJVdFNPREY1TVRSRlFVWlRaa1pRUkVWcWNVVXlNbk5MT0RBeVowTlVZbEJoUWpnMlNFcDBZVWN4WTJ4Vk1IYzJhVjgwZW1ZMGR4SVhUbVpKUTJFNE56VkxjbGN0Y0RnMFVHa3Raa2x4UVdNYUlrRklUakJGTjBoT2JtdFRXRlV3WVhSSlpFSnFSVTUzWXpsbFNFaEdOSEV6VEZFIiwiZmN2IjoiMyIsImVpIjoiTmZJQ2E4NzVLclctcDg0UGktZklxQWMiLCJxYyI6IkNqcG9iM2NnZEc4Z2JXRnJaU0JoYkdWNElHaHZjbTF2ZW1rZ2MzUjViR1VnWVc1cGJXRjBaV1FnYzNWaWRHbDBiR1Z6SUdadmNpQm1jbVZsRUFCOXZsQVdQdyIsInF1ZXN0aW9uIjoiSG93IGNhbiBJIGdlbmVyYXRlIGFuaW1hdGVkIHN1YnRpdGxlcyBmb3IgYSB2aWRlbz8iLCJsayI6IkdodG5aVzVsY21GMFpTQmhibWx0WVhSbFpDQnpkV0owYVhSc1pYTSIsImJzIjoiYy1NSzVqTHl5QzlYU0U3TVVfQlVTRV9OU3kxS0xFbFZTTXpMekFYU0tRckZwVWtsbVNVNXFjVUthZmxGQ29rS1paa3BxZm4yUnJKUzBualVjamx6cVdFeEZOV3N0S0xVVkhzalNTbHhiUEpBT1M1UExpWFBZcUFaQmNtbEpYQTVtR2x3QTVTbEZETUpxZUx5NWxKMkJyckZPU094eEQwZ1JDRXhCZGxqSmZrd1g2bElLWUdjbkF4VWxsNVFna09aQUNNQSIsImlkIjoiZmNfTmZJQ2E4NzVLclctcDg0UGktZklxQWNfOCJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVJIcGxaRVYxZWtoMFMycDJjMEptVTBKTlQzVjNOemhsY1d0VVVXdHZMV3hPZDFneWJVdFNPREY1TVRSRlFVWlRaa1pRUkVWcWNVVXlNbk5MT0RBeVowTlVZbEJoUWpnMlNFcDBZVWN4WTJ4Vk1IYzJhVjgwZW1ZMGR4SVhUbVpKUTJFNE56VkxjbGN0Y0RnMFVHa3Raa2x4UVdNYUlrRklUakJGTjBoT2JtdFRXRlV3WVhSSlpFSnFSVTUzWXpsbFNFaEdOSEV6VEZFIiwiZmN2IjoiMyIsImVpIjoiTmZJQ2E4NzVLclctcDg0UGktZklxQWMiLCJxYyI6IkNqcG9iM2NnZEc4Z2JXRnJaU0JoYkdWNElHaHZjbTF2ZW1rZ2MzUjViR1VnWVc1cGJXRjBaV1FnYzNWaWRHbDBiR1Z6SUdadmNpQm1jbVZsRUFCOXZsQVdQdyIsInF1ZXN0aW9uIjoiSG93IGNhbiBJIGdlbmVyYXRlIGFuaW1hdGVkIHN1YnRpdGxlcyBmb3IgYSB2aWRlbz8iLCJsayI6IkdodG5aVzVsY21GMFpTQmhibWx0WVhSbFpDQnpkV0owYVhSc1pYTSIsImJzIjoiYy1NSzVqTHl5QzlYU0U3TVVfQlVTRV9OU3kxS0xFbFZTTXpMekFYU0tRckZwVWtsbVNVNXFjVUthZmxGQ29rS1paa3BxZm4yUnJKUzBualVjamx6cVdFeEZOV3N0S0xVVkhzalNTbHhiUEpBT1M1UExpWFBZcUFaQmNtbEpYQTVtR2x3QTVTbEZETUpxZUx5NWxKMkJyckZPU094eEQwZ1JDRXhCZGxqSmZrd1g2bElLWUdjbkF4VWxsNVFna09aQUNNQSIsImlkIjoiZmNfTmZJQ2E4NzVLclctcDg0UGktZklxQWNfOCJ9"
+      },
+      {
+        "question": "How can I generate subtitles for free?",
+        "type": "ai_overview",
+        "page_token": "ayshp3icHdBRboIwAIDhbIfxUVpRF03MsgpIiNZYaBFeTGlRsAWcNgN93Fn2tMPsADvGTjC3E_xf_vcPXdbq-2FbGHO6TC2rbdv-oWkOOu-LprL45VoLS3CtMy7UdPw0hs97MXMvLZo3LdpQ4iZa6kRrwG7eOa9GSQTYJiwhTKukzXSx3oJRuYmEySh85dA1wg5UrLoLr9E8tdGaeMmNAWmIzTqqioQB2JJIauKgIjyyRexurqKEZ-EgfzUHNlFdTBTu1q70Ex0oQaXONDZSsSay772BKbNaDrCT-iu389KbBjSesNVNNtmCcDwoXHwnemBUhRQXa0fA0A62y-3LEHvotIzTQFDvuCgDFLrDP4svwQRQBylcNVAsJksS4WvMpM91gWisURJ5dW8v3mZ27__YbLevzPR0bg6f4pxzk8sdN1_q8Wf0C8J5f7U",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ayshp3icHdBRboIwAIDhbIfxUVpRF03MsgpIiNZYaBFeTGlRsAWcNgN93Fn2tMPsADvGTjC3E_xf_vcPXdbq-2FbGHO6TC2rbdv-oWkOOu-LprL45VoLS3CtMy7UdPw0hs97MXMvLZo3LdpQ4iZa6kRrwG7eOa9GSQTYJiwhTKukzXSx3oJRuYmEySh85dA1wg5UrLoLr9E8tdGaeMmNAWmIzTqqioQB2JJIauKgIjyyRexurqKEZ-EgfzUHNlFdTBTu1q70Ex0oQaXONDZSsSay772BKbNaDrCT-iu389KbBjSesNVNNtmCcDwoXHwnemBUhRQXa0fA0A62y-3LEHvotIzTQFDvuCgDFLrDP4svwQRQBylcNVAsJksS4WvMpM91gWisURJ5dW8v3mZ27__YbLevzPR0bg6f4pxzk8sdN1_q8Wf0C8J5f7U",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVJIcGxaRVYxZWtoMFMycDJjMEptVTBKTlQzVjNOemhsY1d0VVVXdHZMV3hPZDFneWJVdFNPREY1TVRSRlFVWlRaa1pRUkVWcWNVVXlNbk5MT0RBeVowTlVZbEJoUWpnMlNFcDBZVWN4WTJ4Vk1IYzJhVjgwZW1ZMGR4SVhUbVpKUTJFNE56VkxjbGN0Y0RnMFVHa3Raa2x4UVdNYUlrRklUakJGTjBoT2JtdFRXRlV3WVhSSlpFSnFSVTUzWXpsbFNFaEdOSEV6VEZFIiwiZmN2IjoiMyIsImVpIjoiTmZJQ2E4NzVLclctcDg0UGktZklxQWMiLCJxYyI6IkNqcG9iM2NnZEc4Z2JXRnJaU0JoYkdWNElHaHZjbTF2ZW1rZ2MzUjViR1VnWVc1cGJXRjBaV1FnYzNWaWRHbDBiR1Z6SUdadmNpQm1jbVZsRUFCOXZsQVdQdyIsInF1ZXN0aW9uIjoiSG93IGNhbiBJIGdlbmVyYXRlIHN1YnRpdGxlcyBmb3IgZnJlZT8iLCJsayI6IkdoZG5aVzVsY21GMFpTQnpkV0owYVhSc1pYTWdabkpsWlEiLCJicyI6ImMtTUs1akx5eUM5WFNFN01VX0JVU0VfTlN5MUtMRWxWU016THpBWFNLUXJGcFVrbG1TVTVxY1VLYWZsRkNva0taWmtwcWZuMlJySlMwbmpVY2psenFXRXhGTldzdEtMVVZIc2pTU2x4YlBKQU9TNVBMaVhQWXFBWkJjbWxKWEE1bUdsd0E1U2xGRE1KcWVMeTVsSjJCcnJGT1NPeHhEMGdSQ0V4QmRsakpma3dYNmxJS1lHY25BeFVsbDVRZ2tPWkFDTUEiLCJpZCI6ImZjX05mSUNhODc1S3JXLXA4NFBpLWZJcUFjXzgifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVJIcGxaRVYxZWtoMFMycDJjMEptVTBKTlQzVjNOemhsY1d0VVVXdHZMV3hPZDFneWJVdFNPREY1TVRSRlFVWlRaa1pRUkVWcWNVVXlNbk5MT0RBeVowTlVZbEJoUWpnMlNFcDBZVWN4WTJ4Vk1IYzJhVjgwZW1ZMGR4SVhUbVpKUTJFNE56VkxjbGN0Y0RnMFVHa3Raa2x4UVdNYUlrRklUakJGTjBoT2JtdFRXRlV3WVhSSlpFSnFSVTUzWXpsbFNFaEdOSEV6VEZFIiwiZmN2IjoiMyIsImVpIjoiTmZJQ2E4NzVLclctcDg0UGktZklxQWMiLCJxYyI6IkNqcG9iM2NnZEc4Z2JXRnJaU0JoYkdWNElHaHZjbTF2ZW1rZ2MzUjViR1VnWVc1cGJXRjBaV1FnYzNWaWRHbDBiR1Z6SUdadmNpQm1jbVZsRUFCOXZsQVdQdyIsInF1ZXN0aW9uIjoiSG93IGNhbiBJIGdlbmVyYXRlIHN1YnRpdGxlcyBmb3IgZnJlZT8iLCJsayI6IkdoZG5aVzVsY21GMFpTQnpkV0owYVhSc1pYTWdabkpsWlEiLCJicyI6ImMtTUs1akx5eUM5WFNFN01VX0JVU0VfTlN5MUtMRWxWU016THpBWFNLUXJGcFVrbG1TVTVxY1VLYWZsRkNva0taWmtwcWZuMlJySlMwbmpVY2psenFXRXhGTldzdEtMVVZIc2pTU2x4YlBKQU9TNVBMaVhQWXFBWkJjbWxKWEE1bUdsd0E1U2xGRE1KcWVMeTVsSjJCcnJGT1NPeHhEMGdSQ0V4QmRsakpma3dYNmxJS1lHY25BeFVsbDVRZ2tPWkFDTUEiLCJpZCI6ImZjX05mSUNhODc1S3JXLXA4NFBpLWZJcUFjXzgifQ%3D%3D"
+      },
+      {
+        "question": "Is capcut subtitle generator free?",
+        "type": "ai_overview",
+        "page_token": "E36hsnicHdDLbdswAABQNMPkGIdSlNYGjAKySSeuKUYfUhIvAU1Sli3qE5uOPsfO0lOH6QAdoxM0yAYP7-cvc2yqv1_eS2u7y2I26_v-7tC2B6PvZFvPxGVs5EwKY_ZCVovHr4_geyGX8Prsr96e_ZBGMDfK5E23lWnkhsC0GQhHbb4N-xX4QTaDEY10hZM_qKYb8YkxgiLDjO-Rp85qOBx1rTahY9LghHZ4M3giq7wAsReS8ToB2xU2kR_fqympMIhMtMMnv0qhNwrYTyGggDCOBJoXAeismtg5hhzwqnNwglwCt3yPQufDOek0iJOJ9umTf9yxbRrB7hIjOuo0HxUL1ji1gtXzNxIDF5aK8Mqs8-TgBtSObAQ9WUehiEEdZ8jPh_YY0pJgSN3ImCsG6qqpyjic-zzjawqDe0LLIqjLVewgofrbQr4v3dvPz-VrUdtFd24Pv-VZC6vVq7B_qpt_3n8IrYp_",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=E36hsnicHdDLbdswAABQNMPkGIdSlNYGjAKySSeuKUYfUhIvAU1Sli3qE5uOPsfO0lOH6QAdoxM0yAYP7-cvc2yqv1_eS2u7y2I26_v-7tC2B6PvZFvPxGVs5EwKY_ZCVovHr4_geyGX8Prsr96e_ZBGMDfK5E23lWnkhsC0GQhHbb4N-xX4QTaDEY10hZM_qKYb8YkxgiLDjO-Rp85qOBx1rTahY9LghHZ4M3giq7wAsReS8ToB2xU2kR_fqympMIhMtMMnv0qhNwrYTyGggDCOBJoXAeismtg5hhzwqnNwglwCt3yPQufDOek0iJOJ9umTf9yxbRrB7hIjOuo0HxUL1ji1gtXzNxIDF5aK8Mqs8-TgBtSObAQ9WUehiEEdZ8jPh_YY0pJgSN3ImCsG6qqpyjic-zzjawqDe0LLIqjLVewgofrbQr4v3dvPz-VrUdtFd24Pv-VZC6vVq7B_qpt_3n8IrYp_",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVJIcGxaRVYxZWtoMFMycDJjMEptVTBKTlQzVjNOemhsY1d0VVVXdHZMV3hPZDFneWJVdFNPREY1TVRSRlFVWlRaa1pRUkVWcWNVVXlNbk5MT0RBeVowTlVZbEJoUWpnMlNFcDBZVWN4WTJ4Vk1IYzJhVjgwZW1ZMGR4SVhUbVpKUTJFNE56VkxjbGN0Y0RnMFVHa3Raa2x4UVdNYUlrRklUakJGTjBoT2JtdFRXRlV3WVhSSlpFSnFSVTUzWXpsbFNFaEdOSEV6VEZFIiwiZmN2IjoiMyIsImVpIjoiTmZJQ2E4NzVLclctcDg0UGktZklxQWMiLCJxYyI6IkNqcG9iM2NnZEc4Z2JXRnJaU0JoYkdWNElHaHZjbTF2ZW1rZ2MzUjViR1VnWVc1cGJXRjBaV1FnYzNWaWRHbDBiR1Z6SUdadmNpQm1jbVZsRUFCOXZsQVdQdyIsInF1ZXN0aW9uIjoiSXMgY2FwY3V0IHN1YnRpdGxlIGdlbmVyYXRvciBmcmVlPyIsImxrIjoiR2lGcGN5QmpZWEJqZFhRZ2MzVmlkR2wwYkdVZ1oyVnVaWEpoZEc5eUlHWnlaV1UiLCJicyI6ImMtTUs1akx5eUM5WFNFN01VX0JVU0VfTlN5MUtMRWxWU016THpBWFNLUXJGcFVrbG1TVTVxY1VLYWZsRkNva0taWmtwcWZuMlJySlMwbmpVY2psenFXRXhGTldzdEtMVVZIc2pTU2x4YlBKQU9TNVBMaVhQWXFBWkJjbWxKWEE1bUdsd0E1U2xGRE1KcWVMeTVsSjJCcnJGT1NPeHhEMGdSQ0V4QmRsakpma3dYNmxJS1lHY25BeFVsbDVRZ2tPWkFDTUEiLCJpZCI6ImZjX05mSUNhODc1S3JXLXA4NFBpLWZJcUFjXzgifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVJIcGxaRVYxZWtoMFMycDJjMEptVTBKTlQzVjNOemhsY1d0VVVXdHZMV3hPZDFneWJVdFNPREY1TVRSRlFVWlRaa1pRUkVWcWNVVXlNbk5MT0RBeVowTlVZbEJoUWpnMlNFcDBZVWN4WTJ4Vk1IYzJhVjgwZW1ZMGR4SVhUbVpKUTJFNE56VkxjbGN0Y0RnMFVHa3Raa2x4UVdNYUlrRklUakJGTjBoT2JtdFRXRlV3WVhSSlpFSnFSVTUzWXpsbFNFaEdOSEV6VEZFIiwiZmN2IjoiMyIsImVpIjoiTmZJQ2E4NzVLclctcDg0UGktZklxQWMiLCJxYyI6IkNqcG9iM2NnZEc4Z2JXRnJaU0JoYkdWNElHaHZjbTF2ZW1rZ2MzUjViR1VnWVc1cGJXRjBaV1FnYzNWaWRHbDBiR1Z6SUdadmNpQm1jbVZsRUFCOXZsQVdQdyIsInF1ZXN0aW9uIjoiSXMgY2FwY3V0IHN1YnRpdGxlIGdlbmVyYXRvciBmcmVlPyIsImxrIjoiR2lGcGN5QmpZWEJqZFhRZ2MzVmlkR2wwYkdVZ1oyVnVaWEpoZEc5eUlHWnlaV1UiLCJicyI6ImMtTUs1akx5eUM5WFNFN01VX0JVU0VfTlN5MUtMRWxWU016THpBWFNLUXJGcFVrbG1TVTVxY1VLYWZsRkNva0taWmtwcWZuMlJySlMwbmpVY2psenFXRXhGTldzdEtMVVZIc2pTU2x4YlBKQU9TNVBMaVhQWXFBWkJjbWxKWEE1bUdsd0E1U2xGRE1KcWVMeTVsSjJCcnJGT1NPeHhEMGdSQ0V4QmRsakpma3dYNmxJS1lHY25BeFVsbDVRZ2tPWkFDTUEiLCJpZCI6ImZjX05mSUNhODc1S3JXLXA4NFBpLWZJcUFjXzgifQ%3D%3D"
+      },
+      {
+        "question": "Can ChatGPT add subtitles to video?",
+        "type": "ai_overview",
+        "page_token": "21X2AXicHdBLjtMwAABQwWFmOY3jtqiVKkQae8hAE8W_jL0ZuXbaTO0kpfE06Sw5CysOwwE4BicAsX-r9_2Hf-nc73fXJoTzsJ7NxnG8P_b90df3pm9nerh1Zma093tt3Hr5YQk-HswGvWbJ9luWlJwg6a2XXQmMe8yK1AteiY7gs6esSSgCgAii5ckPzOGJ8UCpe-wLBIaCL9LyZA8GEVhzWwmMP3OoLvQtn0hMvpItaFWrsgo1mHPFdDQ52smgOjFIn-xohecaErc7JVC7fKwewtLCptGAfFGgnGjsiWS4ZzBXtSfDU5Rv_7mItCGzCLRltHpjVXTb409zFi9izsGVM5vm8apDjS2U86lkR5jzcBM3MBYpKTUFLX3CiZz6l5I3xQ5xSMBqLjuRKTedKyxi3jUngYg0Dmf5g-B7ZFM73h3MdQPv_n9ung9tWJ8v_fGnudQ61PZZh1_u_Z_FX0XBiUE",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=21X2AXicHdBLjtMwAABQwWFmOY3jtqiVKkQae8hAE8W_jL0ZuXbaTO0kpfE06Sw5CysOwwE4BicAsX-r9_2Hf-nc73fXJoTzsJ7NxnG8P_b90df3pm9nerh1Zma093tt3Hr5YQk-HswGvWbJ9luWlJwg6a2XXQmMe8yK1AteiY7gs6esSSgCgAii5ckPzOGJ8UCpe-wLBIaCL9LyZA8GEVhzWwmMP3OoLvQtn0hMvpItaFWrsgo1mHPFdDQ52smgOjFIn-xohecaErc7JVC7fKwewtLCptGAfFGgnGjsiWS4ZzBXtSfDU5Rv_7mItCGzCLRltHpjVXTb409zFi9izsGVM5vm8apDjS2U86lkR5jzcBM3MBYpKTUFLX3CiZz6l5I3xQ5xSMBqLjuRKTedKyxi3jUngYg0Dmf5g-B7ZFM73h3MdQPv_n9ung9tWJ8v_fGnudQ61PZZh1_u_Z_FX0XBiUE",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVJIcGxaRVYxZWtoMFMycDJjMEptVTBKTlQzVjNOemhsY1d0VVVXdHZMV3hPZDFneWJVdFNPREY1TVRSRlFVWlRaa1pRUkVWcWNVVXlNbk5MT0RBeVowTlVZbEJoUWpnMlNFcDBZVWN4WTJ4Vk1IYzJhVjgwZW1ZMGR4SVhUbVpKUTJFNE56VkxjbGN0Y0RnMFVHa3Raa2x4UVdNYUlrRklUakJGTjBoT2JtdFRXRlV3WVhSSlpFSnFSVTUzWXpsbFNFaEdOSEV6VEZFIiwiZmN2IjoiMyIsImVpIjoiTmZJQ2E4NzVLclctcDg0UGktZklxQWMiLCJxYyI6IkNqcG9iM2NnZEc4Z2JXRnJaU0JoYkdWNElHaHZjbTF2ZW1rZ2MzUjViR1VnWVc1cGJXRjBaV1FnYzNWaWRHbDBiR1Z6SUdadmNpQm1jbVZsRUFCOXZsQVdQdyIsInF1ZXN0aW9uIjoiQ2FuIENoYXRHUFQgYWRkIHN1YnRpdGxlcyB0byB2aWRlbz8iLCJsayI6IkdpSmpZVzRnWTJoaGRHZHdkQ0JoWkdRZ2MzVmlkR2wwYkdWeklIUnZJSFpwWkdWdiIsImJzIjoiYy1NSzVqTHl5QzlYU0U3TVVfQlVTRV9OU3kxS0xFbFZTTXpMekFYU0tRckZwVWtsbVNVNXFjVUthZmxGQ29rS1paa3BxZm4yUnJKUzBualVjamx6cVdFeEZOV3N0S0xVVkhzalNTbHhiUEpBT1M1UExpWFBZcUFaQmNtbEpYQTVtR2x3QTVTbEZETUpxZUx5NWxKMkJyckZPU094eEQwZ1JDRXhCZGxqSmZrd1g2bElLWUdjbkF4VWxsNVFna09aQUNNQSIsImlkIjoiZmNfTmZJQ2E4NzVLclctcDg0UGktZklxQWNfOCJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVJIcGxaRVYxZWtoMFMycDJjMEptVTBKTlQzVjNOemhsY1d0VVVXdHZMV3hPZDFneWJVdFNPREY1TVRSRlFVWlRaa1pRUkVWcWNVVXlNbk5MT0RBeVowTlVZbEJoUWpnMlNFcDBZVWN4WTJ4Vk1IYzJhVjgwZW1ZMGR4SVhUbVpKUTJFNE56VkxjbGN0Y0RnMFVHa3Raa2x4UVdNYUlrRklUakJGTjBoT2JtdFRXRlV3WVhSSlpFSnFSVTUzWXpsbFNFaEdOSEV6VEZFIiwiZmN2IjoiMyIsImVpIjoiTmZJQ2E4NzVLclctcDg0UGktZklxQWMiLCJxYyI6IkNqcG9iM2NnZEc4Z2JXRnJaU0JoYkdWNElHaHZjbTF2ZW1rZ2MzUjViR1VnWVc1cGJXRjBaV1FnYzNWaWRHbDBiR1Z6SUdadmNpQm1jbVZsRUFCOXZsQVdQdyIsInF1ZXN0aW9uIjoiQ2FuIENoYXRHUFQgYWRkIHN1YnRpdGxlcyB0byB2aWRlbz8iLCJsayI6IkdpSmpZVzRnWTJoaGRHZHdkQ0JoWkdRZ2MzVmlkR2wwYkdWeklIUnZJSFpwWkdWdiIsImJzIjoiYy1NSzVqTHl5QzlYU0U3TVVfQlVTRV9OU3kxS0xFbFZTTXpMekFYU0tRckZwVWtsbVNVNXFjVUthZmxGQ29rS1paa3BxZm4yUnJKUzBualVjamx6cVdFeEZOV3N0S0xVVkhzalNTbHhiUEpBT1M1UExpWFBZcUFaQmNtbEpYQTVtR2x3QTVTbEZETUpxZUx5NWxKMkJyckZPU094eEQwZ1JDRXhCZGxqSmZrd1g2bElLWUdjbkF4VWxsNVFna09aQUNNQSIsImlkIjoiZmNfTmZJQ2E4NzVLclctcDg0UGktZklxQWNfOCJ9"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "9xIhaniczVbLcrJIFK6a9bzGsPGP4C3BVFGpBhFRo3aMk9_ZUAjNRcBWwKBZ_s8yq3mYeYB5jHmCaW4JGEzMbGZOFRy6-9z69Pn68ON31944f_3sWGG4DW5pOoqiuomx6aK6hj1aDY4bjTawG_iadRfgva8hW-c0y8ceotJxNqrjFWW5HNpQpsvtA-r4zLUoLeAYCtncxJAFlb3pjPynqy3bntlXhrwDGpXY55SVGqA1cX9YB7RCk5fzS6tHBvWgjjZ1Ge1Wm34T_LoF9SbTbNWntOoRAfDfksgD2STcAcD8SI6Hl1qEFrEKhFN9MeWF-XsQ-5SBIKcr5_zPY6OxpsAnEZNnCoz1zJHI1ySXWsifxCWUYnrKwkqZcxruBZSpxjsoTXxEFUlM8jJ6Gwuna1UklVf4ZQ_0ooL5d9spOEhVF_ErAv327B5ACM96yomYHi0B44JP6iSPaNEdzkOixdO6SaqcoVc-YQ3a1iwt-fCDuPiFxy6DpfFUWjcVHu7U_RQ-S0CchGgWieK4DWhtReRcrOpIVyyFobeJ-l0y3Wg2Oky3dcN-S8CnBa_oC4ro83HAhBv2_ipk6uM638ihV970ac6gLIOqmjJ5M89ImV4NHIvpTrJxIumUPPczbgEeQ2K2tAhH4rgoRFDTI2ljTasg9KYhfAC9EyKFKwKcGVhkU6BcdHAJxHmVn5imlWbjfSRey86k7EPm8_KJUovme-g9ABkm6c1SXLojeXJR8CTBML4wRkQ9FFJZuR3Hl58YFEWyPdF8UyuQIFZsBwiFSIieGEtFwBSBs5dFQbazaZA4Mc3UEw_NVzOJD-E9-BK6J_N9q3LpIhIvuV_SKHKsnUKnALnBrn0YTDoS3zkIIbp-nry0ou_hSH06TEE1trC3-kJr0_736Msbn5uV_Vn0xZ4uQh-0PkLf-8YnCin6BOcM-uYp-qob3yyXOml879EnALuAvqzxHVKLFY3v6-jjP0df8biK6Hs7qhL6xHPok8Qy-pZrMW981ejLHLyh7982Pv7rjS8BIUpZuQvu1-b5brhbBJvB0B4Zva5nqtLYBn0vcl1nacBLu6HhhbeeqrvfFFu_5ZvD8Kh_U8gEvkU6teMGOKqFuOapDqoBFx1qA-x7-MWuBeHRRTV1Y3tqiPRasF-FduiioGZgv2b4CN1RnutjjlGvdeDqS-15FnW7Y3W8GKwfNxu7dzTmcn-oTFh5fQjH-7HbldhocvxNY_uPa-PmChzmAHc7yjxaDR2bHbz0OqznLyW47viPKkLRDFmLJ9Z4XN7LIastWqPvwv7FGjVse7t9MEK924Pta32GhgPmwOpJNAHnwRvcZ512NJIpsssAcQ3K8zWO1ELbBBMY_-2pgI_AMCle_mFH-JhUzArzAA6WAPZM8mBybFSgqQoKnjntutPSOgyjqapxYyCD8szwuOXaDSrY-FzjD81HcY4UNfzT-envzj-p34xq",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=9xIhaniczVbLcrJIFK6a9bzGsPGP4C3BVFGpBhFRo3aMk9_ZUAjNRcBWwKBZ_s8yq3mYeYB5jHmCaW4JGEzMbGZOFRy6-9z69Pn68ON31944f_3sWGG4DW5pOoqiuomx6aK6hj1aDY4bjTawG_iadRfgva8hW-c0y8ceotJxNqrjFWW5HNpQpsvtA-r4zLUoLeAYCtncxJAFlb3pjPynqy3bntlXhrwDGpXY55SVGqA1cX9YB7RCk5fzS6tHBvWgjjZ1Ge1Wm34T_LoF9SbTbNWntOoRAfDfksgD2STcAcD8SI6Hl1qEFrEKhFN9MeWF-XsQ-5SBIKcr5_zPY6OxpsAnEZNnCoz1zJHI1ySXWsifxCWUYnrKwkqZcxruBZSpxjsoTXxEFUlM8jJ6Gwuna1UklVf4ZQ_0ooL5d9spOEhVF_ErAv327B5ACM96yomYHi0B44JP6iSPaNEdzkOixdO6SaqcoVc-YQ3a1iwt-fCDuPiFxy6DpfFUWjcVHu7U_RQ-S0CchGgWieK4DWhtReRcrOpIVyyFobeJ-l0y3Wg2Oky3dcN-S8CnBa_oC4ro83HAhBv2_ipk6uM638ihV970ac6gLIOqmjJ5M89ImV4NHIvpTrJxIumUPPczbgEeQ2K2tAhH4rgoRFDTI2ljTasg9KYhfAC9EyKFKwKcGVhkU6BcdHAJxHmVn5imlWbjfSRey86k7EPm8_KJUovme-g9ABkm6c1SXLojeXJR8CTBML4wRkQ9FFJZuR3Hl58YFEWyPdF8UyuQIFZsBwiFSIieGEtFwBSBs5dFQbazaZA4Mc3UEw_NVzOJD-E9-BK6J_N9q3LpIhIvuV_SKHKsnUKnALnBrn0YTDoS3zkIIbp-nry0ou_hSH06TEE1trC3-kJr0_736Msbn5uV_Vn0xZ4uQh-0PkLf-8YnCin6BOcM-uYp-qob3yyXOml879EnALuAvqzxHVKLFY3v6-jjP0df8biK6Hs7qhL6xHPok8Qy-pZrMW981ejLHLyh7982Pv7rjS8BIUpZuQvu1-b5brhbBJvB0B4Zva5nqtLYBn0vcl1nacBLu6HhhbeeqrvfFFu_5ZvD8Kh_U8gEvkU6teMGOKqFuOapDqoBFx1qA-x7-MWuBeHRRTV1Y3tqiPRasF-FduiioGZgv2b4CN1RnutjjlGvdeDqS-15FnW7Y3W8GKwfNxu7dzTmcn-oTFh5fQjH-7HbldhocvxNY_uPa-PmChzmAHc7yjxaDR2bHbz0OqznLyW47viPKkLRDFmLJ9Z4XN7LIastWqPvwv7FGjVse7t9MEK924Pta32GhgPmwOpJNAHnwRvcZ512NJIpsssAcQ3K8zWO1ELbBBMY_-2pgI_AMCle_mFH-JhUzArzAA6WAPZM8mBybFSgqQoKnjntutPSOgyjqapxYyCD8szwuOXaDSrY-FzjD81HcY4UNfzT-envzj-p34xq"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Free Hormozi Caption Generator - Get the Style Now",
+        "link": "https://www.choppity.com/tools/hormozi-caption-style-generator/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHEIkXXa41Cq7k6sPFU0PYqHH-vyuQXCpta6oSPh9_QrNKr8gmEY1oeGVZk-zg3zKOSVlmSrcJt8SsPrWYV0O4QgDJVpY3kXsPBVsTBOYJhFmgtGPm0JBsjtmRKYi8ek0kEaCWwPPN3-S6VfJ6_SX1dqFgMs8dzQmbEFnA&ved=2ahUKEwiO6M-i25uYAxU138kDHYszEnUQFnoECB8QAQ&uoh=1",
+        "displayed_link": "https://www.choppity.com \u203a tools \u203a hormozi-caption-st...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcExxL_9xL_9xL_9xL_9xL_9xL_9tJf9qHf9jBP95Pv-2nf_VyP-bdv9nE__Itv-IV_-RZv_r5P_____i2f9cAP-niP_49f_-SyO1AAAAB3RSTlMAJa7y_69kPKWwjAAAAQ1JREFUeAF9kwUChDAMBJFwqZHSbuX_P71wrgxSmboMwzBOM30xL-OgnOgPJ61HfxmH5b-chvm_nIdHlI3hj9hNsnU-hFU0JrLGsPFTSspAKfDV-QLkjKcUj5CsVI8MhMbVIPFNckOzzIbcXsZq7d7lXtMiWuItiMUqzu-1k7nV5ARHWgtku68FV9xVGt8tSc9YbQ7WsmKkR3OVsQhxkxxrAOJ24SGDSmLjwTm0jgv93mzMKpUO-Fo3eHLuPlpuMLRjG4Cock_eJBl4IcXE7rx6oVfpse6DFA1rTWj8kIqNKC2ltGUgJvg3SZIKHhTz2qzCYg1fMUJPecDxMZn-y-X4aB4damVcfl2HSeudAfEjGBYFvIZXAAAAAElFTkSuQmCC.png",
+        "snippet": "Our Hormozi caption style generator uses AI to automatically transcribe your video and apply Alex Hormozi's signature animated caption formatting. You get ...",
+        "snippet_highlighted_words": [
+          "caption style",
+          "Alex Hormozi's",
+          "animated caption"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Our Hormozi caption style generator uses AI to automatically transcribe your video and apply Alex Hormozi's signature animated caption formatting. You get ...",
+            "source_info_link": "https://www.choppity.com/tools/hormozi-caption-style-generator/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcExxL_9xL_9xL_9xL_9xL_9xL_9tJf9qHf9jBP95Pv-2nf_VyP-bdv9nE__Itv-IV_-RZv_r5P_____i2f9cAP-niP_49f_-SyO1AAAAB3RSTlMAJa7y_69kPKWwjAAAAQ1JREFUeAF9kwUChDAMBJFwqZHSbuX_P71wrgxSmboMwzBOM30xL-OgnOgPJ61HfxmH5b-chvm_nIdHlI3hj9hNsnU-hFU0JrLGsPFTSspAKfDV-QLkjKcUj5CsVI8MhMbVIPFNckOzzIbcXsZq7d7lXtMiWuItiMUqzu-1k7nV5ARHWgtku68FV9xVGt8tSc9YbQ7WsmKkR3OVsQhxkxxrAOJ24SGDSmLjwTm0jgv93mzMKpUO-Fo3eHLuPlpuMLRjG4Cock_eJBl4IcXE7rx6oVfpse6DFA1rTWj8kIqNKC2ltGUgJvg3SZIKHhTz2qzCYg1fMUJPecDxMZn-y-X4aB4damVcfl2HSeudAfEjGBYFvIZXAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhFSWtYWGMtYXFMenpGcUt5Qi1yVFhTbU9Dek1CdjBGbnpfb0VMUGJadnFzY1k0bEZ4LURzU1RRTWxpQUc0ZEVmMllFYzZYVUhxbW1FU09kYkpzNmhubzVJdkNRbjI5dEV3bjRXeERJQzZaYU43aVdndjNYcV9TdXZOeldVb01YVHY0ZVJTUjU4RXBHMU03bE5EMFRBc0VqMFRzbVVSaXRxQ21nbxIEGgIIABrSBhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQKwGCAAQABgAIAAqEAoDaG93Ffbknj8aBGVhc3kqCQoCdG8VAAAAAConCgRtYWtlFfKoUD8aAmRvGgRlYXN5GgdwcmVwYXJlGgdwcm9kdWNlKiAKBGFsZXgVOP04QBoGYWxleCdzGgthbGV4aG9ybW96aSopCgdob3Jtb3ppFfGW1EAaC2FsZXhob3Jtb3ppGgxpdjtwO2hvcm1vemkqJgoFc3R5bGUVxq7EQBoHZmFzaGlvbhoGc3R5bGVzGgdzdHlsaW5nKjUKCGFuaW1hdGVkFR86CUAaCWFuaW1hdGlvbhoKYW5pbWF0aW9ucxoNaXY7cDthbmltYXRlZCpGCglzdWJ0aXRsZXMVV_s1QBoHY2FwdGlvbhoEc3VicxoIc3VidGl0bGUaC3N1YnRpdGxlIG9mGg5pdjtwO3N1YnRpdGxlcyoKCgNmb3IVAAAAACoLCgRmcmVlFaL7uUAytQEvZ290bz91cmw9Q0FFU2ZBSEVJa1hYYy1hcUx6ekZxS3lCLXJUWFNtT0N6TUJ2MEZuel9vRUxQYlp2cXNjWTRsRngtRHNTVFFNbGlBRzRkRWYyWUVjNlhVSHFtbUVTT2RiSnM2aG5vNUl2Q1FuMjl0RXduNFd4RElDNlphTjdpV2d2M1hxX1N1dk56V1VvTVhUdjRlUlNSNThFcEcxTTdsTkQwVEFzRWowVHNtVVJpdHFDbWdvOks8Yj5GcmVlIEhvcm1vemkgQ2FwdGlvbjwvYj4gR2VuZXJhdG9yIC0gR2V0IHRoZSA8Yj5TdHlsZTwvYj4gTm93IHwgQ2hvcHBpdHlCvAFPdXIgSG9ybW96aSA8Yj5jYXB0aW9uIHN0eWxlPC9iPiBnZW5lcmF0b3IgdXNlcyBBSSB0byBhdXRvbWF0aWNhbGx5IHRyYW5zY3JpYmUgeW91ciB2aWRlbyBhbmQgYXBwbHkgPGI-QWxleCBIb3Jtb3ppJiMzOTtzPC9iPiBzaWduYXR1cmUgPGI-YW5pbWF0ZWQgY2FwdGlvbjwvYj4gZm9ybWF0dGluZy4gWW91IGdldCZuYnNwOy4uLkoCdG9KA2ZvclICZG8iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhFSWtYWGMtYXFMenpGcUt5Qi1yVFhTbU9Dek1CdjBGbnpfb0VMUGJadnFzY1k0bEZ4LURzU1RRTWxpQUc0ZEVmMllFYzZYVUhxbW1FU09kYkpzNmhubzVJdkNRbjI5dEV3bjRXeERJQzZaYU43aVdndjNYcV9TdXZOeldVb01YVHY0ZVJTUjU4RXBHMU03bE5EMFRBc0VqMFRzbVVSaXRxQ21nbxIEGgIIABrSBhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQKwGCAAQABgAIAAqEAoDaG93Ffbknj8aBGVhc3kqCQoCdG8VAAAAAConCgRtYWtlFfKoUD8aAmRvGgRlYXN5GgdwcmVwYXJlGgdwcm9kdWNlKiAKBGFsZXgVOP04QBoGYWxleCdzGgthbGV4aG9ybW96aSopCgdob3Jtb3ppFfGW1EAaC2FsZXhob3Jtb3ppGgxpdjtwO2hvcm1vemkqJgoFc3R5bGUVxq7EQBoHZmFzaGlvbhoGc3R5bGVzGgdzdHlsaW5nKjUKCGFuaW1hdGVkFR86CUAaCWFuaW1hdGlvbhoKYW5pbWF0aW9ucxoNaXY7cDthbmltYXRlZCpGCglzdWJ0aXRsZXMVV_s1QBoHY2FwdGlvbhoEc3VicxoIc3VidGl0bGUaC3N1YnRpdGxlIG9mGg5pdjtwO3N1YnRpdGxlcyoKCgNmb3IVAAAAACoLCgRmcmVlFaL7uUAytQEvZ290bz91cmw9Q0FFU2ZBSEVJa1hYYy1hcUx6ekZxS3lCLXJUWFNtT0N6TUJ2MEZuel9vRUxQYlp2cXNjWTRsRngtRHNTVFFNbGlBRzRkRWYyWUVjNlhVSHFtbUVTT2RiSnM2aG5vNUl2Q1FuMjl0RXduNFd4RElDNlphTjdpV2d2M1hxX1N1dk56V1VvTVhUdjRlUlNSNThFcEcxTTdsTkQwVEFzRWowVHNtVVJpdHFDbWdvOks8Yj5GcmVlIEhvcm1vemkgQ2FwdGlvbjwvYj4gR2VuZXJhdG9yIC0gR2V0IHRoZSA8Yj5TdHlsZTwvYj4gTm93IHwgQ2hvcHBpdHlCvAFPdXIgSG9ybW96aSA8Yj5jYXB0aW9uIHN0eWxlPC9iPiBnZW5lcmF0b3IgdXNlcyBBSSB0byBhdXRvbWF0aWNhbGx5IHRyYW5zY3JpYmUgeW91ciB2aWRlbyBhbmQgYXBwbHkgPGI-QWxleCBIb3Jtb3ppJiMzOTtzPC9iPiBzaWduYXR1cmUgPGI-YW5pbWF0ZWQgY2FwdGlvbjwvYj4gZm9ybWF0dGluZy4gWW91IGdldCZuYnNwOy4uLkoCdG9KA2ZvclICZG8iAhABSABYAGgA",
+        "source": "Choppity",
+        "read_more_link": "https://www.google.com/goto?url=CAES3AEBxCJF1yaDZXI2BliL-9RfLFCM7UmLbw59Z2D1AdfFpknP62SVNS-PK80Ew5rcIaV1F0fO-AyyOlFnXHiGFaVaaVfKJrNWdkjA1EKhGbFSgnPpILGxAoBfwR6ssQlGKkwXj4ldjPHwsnbTD7jZLwXLGlzpBg27Wi87u2uzIU3zAn-d2vpu3fvknNkCl-J0kI4K7LxV8zu8-I2sqi3CLxvQusAb4r7iADwErElA870PRA_sdUbwWBHUO9UrYOBCHQ4Lw4GaZkUWVMEkp-CjuLHBV1R1Xlwrc5KGs7Cp&gsessionid=IHmTA8Wz5JzS4gH13UOZmG-BkKUBirvRKWmchAe0HoUpmBVYDagbBg"
+      },
+      {
+        "position": 2,
+        "title": "Alex Hormozi Captions: How to Make Them",
+        "link": "https://exemplary.ai/blog/alex-hormozi-captions",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHEIkXXJBK8bDTcRvSOsjz-LC6AGGd7aAaiAjoqSZT2wNEEVLSPVrQhvrZATNy_S0H86VRnu1F5XEa2kiTbTOjON3aZG5QqkWrq6Nv0oj0DCAEcHTExCYOZan_2ZV_AHkeomMYtZwaubYZpNA&ved=2ahUKEwiO6M-i25uYAxU138kDHYszEnUQFnoECCMQAQ&uoh=1",
+        "displayed_link": "https://exemplary.ai \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3KzcuNzc3Nzc3Nzc3NzcuNy01Nzc3Nzc3NzcrNzc3Nzc3Nzc3N__AABEIABwAHAMBIgACEQEDEQH_xAAYAAEAAwEAAAAAAAAAAAAAAAAFBAYHAP_EACgQAAIBAwIFAwUAAAAAAAAAAAECAwAEBREhBhIxUWETQfAVInGBkf_EABgBAAIDAAAAAAAAAAAAAAAAAAADAQQG_8QAHREAAgMAAgMAAAAAAAAAAAAAAREAAgMxUQQSIf_aAAwDAQACEQMRAD8AocaVYuG-E8txCksmNt1MUR0aSRuVdewPufnvQqJtW1YGLL_RoEtr9cbaxoPTCW0Z1XTcnUfvXqetajytbZUBqme4sBzPcxwblMFaC5yRtY0LcqqJtWc9gNN6IVNqa4ov3yeWZ2yMt-sS8iTOgRT35VG2nn3_AJRyptVjAXNAb8yDDkTatCt5sLcWiR5C9jk1A-z1GAG3jrVFjAqTGBRpiNF9UHHM22GQCDE2yFju04ZiB4Gp6_PwWE2rowKkADSm509KpuE__9k.jpg",
+        "date": "Sep 30, 2026",
+        "snippet": "Yes, by hand in any free editor with text layers and keyframes. Whether automatic captions and presets are free depends on the tool and plan.",
+        "snippet_highlighted_words": [
+          "free",
+          "free"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Yes, by hand in any free editor with text layers and keyframes. Whether automatic captions and presets are free depends on the tool and plan.",
+            "source_info_link": "https://exemplary.ai/blog/alex-hormozi-captions",
+            "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3KzcuNzc3Nzc3Nzc3NzcuNy01Nzc3Nzc3NzcrNzc3Nzc3Nzc3N__AABEIABwAHAMBIgACEQEDEQH_xAAYAAEAAwEAAAAAAAAAAAAAAAAFBAYHAP_EACgQAAIBAwIFAwUAAAAAAAAAAAECAwAEBREhBhIxUWETQfAVInGBkf_EABgBAAIDAAAAAAAAAAAAAAAAAAADAQQG_8QAHREAAgMAAgMAAAAAAAAAAAAAAREAAgMxUQQSIf_aAAwDAQACEQMRAD8AocaVYuG-E8txCksmNt1MUR0aSRuVdewPufnvQqJtW1YGLL_RoEtr9cbaxoPTCW0Z1XTcnUfvXqetajytbZUBqme4sBzPcxwblMFaC5yRtY0LcqqJtWc9gNN6IVNqa4ov3yeWZ2yMt-sS8iTOgRT35VG2nn3_AJRyptVjAXNAb8yDDkTatCt5sLcWiR5C9jk1A-z1GAG3jrVFjAqTGBRpiNF9UHHM22GQCDE2yFju04ZiB4Gp6_PwWE2rowKkADSm509KpuE__9k.jpg"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhFSWtYWGdDWmJyY3JoOXBvbjZpT1AxQS1icTVvZWJTY3Y2UkhsdTF3ZUlBTFFKMTdNbm4zZXAzSGh0dkNqeENxUFJkTm1zMndrYUwxb3gyYUZJWW5VTEIxN2R0M3h5ejJuYTdCVmthNGY4ZHlMaGhrel8tTkJIU0lIczgxaV9xRGhEM2t4bElaeHdDNjVJdxIEGgIIABqTBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDvBQgAEAAYACAAKhAKA2hvdxWKBopAGgRlYXN5KgkKAnRvFQAAAAAqJwoEbWFrZRXTLZVAGgJkbxoEZWFzeRoHcHJlcGFyZRoHcHJvZHVjZSogCgRhbGV4FX7FmEAaBmFsZXgncxoLYWxleGhvcm1vemkqKQoHaG9ybW96aRWczLFAGgthbGV4aG9ybW96aRoMaXY7cDtob3Jtb3ppKiYKBXN0eWxlFdZ3HUAaB2Zhc2hpb24aBnN0eWxlcxoHc3R5bGluZyo1CghhbmltYXRlZBWjQd4_GglhbmltYXRpb24aCmFuaW1hdGlvbnMaDWl2O3A7YW5pbWF0ZWQqRgoJc3VidGl0bGVzFYpSKUAaB2NhcHRpb24aBHN1YnMaCHN1YnRpdGxlGgtzdWJ0aXRsZSBvZhoOaXY7cDtzdWJ0aXRsZXMqCgoDZm9yFQAAAAAqCwoEZnJlZRV6Sp4_MqABL2dvdG8_dXJsPUNBRVNiQUhFSWtYWGdDWmJyY3JoOXBvbjZpT1AxQS1icTVvZWJTY3Y2UkhsdTF3ZUlBTFFKMTdNbm4zZXAzSGh0dkNqeENxUFJkTm1zMndrYUwxb3gyYUZJWW5VTEIxN2R0M3h5ejJuYTdCVmthNGY4ZHlMaGhrel8tTkJIU0lIczgxaV9xRGhEM2t4bElaeHdDNjVJdzpEPGI-QWxleCBIb3Jtb3ppPC9iPiBDYXB0aW9uczogPGI-SG93IHRvIE1ha2U8L2I-IFRoZW0gLSBFeGVtcGxhcnkgQUlCmwFZZXMsIGJ5IGhhbmQgaW4gYW55IDxiPmZyZWU8L2I-IGVkaXRvciB3aXRoIHRleHQgbGF5ZXJzIGFuZCBrZXlmcmFtZXMuIFdoZXRoZXIgYXV0b21hdGljIGNhcHRpb25zIGFuZCBwcmVzZXRzIGFyZSA8Yj5mcmVlPC9iPiBkZXBlbmRzIG9uIHRoZSB0b29sIGFuZCBwbGFuLkoDZm9ySgJ0b1ICZG8iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhFSWtYWGdDWmJyY3JoOXBvbjZpT1AxQS1icTVvZWJTY3Y2UkhsdTF3ZUlBTFFKMTdNbm4zZXAzSGh0dkNqeENxUFJkTm1zMndrYUwxb3gyYUZJWW5VTEIxN2R0M3h5ejJuYTdCVmthNGY4ZHlMaGhrel8tTkJIU0lIczgxaV9xRGhEM2t4bElaeHdDNjVJdxIEGgIIABqTBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDvBQgAEAAYACAAKhAKA2hvdxWKBopAGgRlYXN5KgkKAnRvFQAAAAAqJwoEbWFrZRXTLZVAGgJkbxoEZWFzeRoHcHJlcGFyZRoHcHJvZHVjZSogCgRhbGV4FX7FmEAaBmFsZXgncxoLYWxleGhvcm1vemkqKQoHaG9ybW96aRWczLFAGgthbGV4aG9ybW96aRoMaXY7cDtob3Jtb3ppKiYKBXN0eWxlFdZ3HUAaB2Zhc2hpb24aBnN0eWxlcxoHc3R5bGluZyo1CghhbmltYXRlZBWjQd4_GglhbmltYXRpb24aCmFuaW1hdGlvbnMaDWl2O3A7YW5pbWF0ZWQqRgoJc3VidGl0bGVzFYpSKUAaB2NhcHRpb24aBHN1YnMaCHN1YnRpdGxlGgtzdWJ0aXRsZSBvZhoOaXY7cDtzdWJ0aXRsZXMqCgoDZm9yFQAAAAAqCwoEZnJlZRV6Sp4_MqABL2dvdG8_dXJsPUNBRVNiQUhFSWtYWGdDWmJyY3JoOXBvbjZpT1AxQS1icTVvZWJTY3Y2UkhsdTF3ZUlBTFFKMTdNbm4zZXAzSGh0dkNqeENxUFJkTm1zMndrYUwxb3gyYUZJWW5VTEIxN2R0M3h5ejJuYTdCVmthNGY4ZHlMaGhrel8tTkJIU0lIczgxaV9xRGhEM2t4bElaeHdDNjVJdzpEPGI-QWxleCBIb3Jtb3ppPC9iPiBDYXB0aW9uczogPGI-SG93IHRvIE1ha2U8L2I-IFRoZW0gLSBFeGVtcGxhcnkgQUlCmwFZZXMsIGJ5IGhhbmQgaW4gYW55IDxiPmZyZWU8L2I-IGVkaXRvciB3aXRoIHRleHQgbGF5ZXJzIGFuZCBrZXlmcmFtZXMuIFdoZXRoZXIgYXV0b21hdGljIGNhcHRpb25zIGFuZCBwcmVzZXRzIGFyZSA8Yj5mcmVlPC9iPiBkZXBlbmRzIG9uIHRoZSB0b29sIGFuZCBwbGFuLkoDZm9ySgJ0b1ICZG8iAhABSABYAGgA",
+        "source": "Exemplary AI",
+        "read_more_link": "https://www.google.com/goto?url=CAESsAEBxCJF1-ckPhDKWpuanJaOnVPZ-o1MdrmFl-aZOl4_F1kCy6nWDQfoJ0HdRD7ep9EUqoOEfE3TCvG4XRrcg9NfgkVFv3ANp9ojvOl7CbKA4BaQxPRPFlQMEPVHcpwwMt2fw9-EHF-Bdh-MnJh5DoVs8LiulDGMyAnjy6hDgdQYjRodVOPtilxq23MYSYzBoXNJVYtKQODYd_YqmCnS4mznorMlkoPhka7PmcyMpBUJYQ&gsessionid=IHmTA8Wz5JzS4gH13UOZmG-BkKUBirvRKWmchAe0HoUpmBVYDagbBg"
+      },
+      {
+        "position": 3,
+        "title": "How to Make Alex Hormozi Style Captions in 5 Minutes",
+        "link": "https://www.google.com/goto?url=CAESeAHEIkXX79gvXbLyq7TdwAtHrUC-WvdXF0o9BL6yYDVk8lF0HB59i7Qf_SommCDIy5Wxh0mMY7xr44UK57kRPHcdh6gF1fKn8vlK8oWZ16KJTuHJcSc6-5Wvf9fLKhL7d1NrnCO_luANyF9cPH86ugHE11tS34XtkQ&gsessionid=IHmTA8Wz5JzS4gH13UOZmG-BkKUBirvRKWmchAe0HoUpmBVYDagbBg",
+        "displayed_link": "285.7K+ views",
+        "date": "3 years ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f235311b656b5705b91d/images/-ArmK4EB7vXYSoanVML-Pz2RzJShtVhYjeFN1nWz-SA.webp",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEUAAAAAAAAFT1IAQUNBub6u5eexxcpyQ0wIAABaxsv5____9_nGj5oyAAD____84eeEYmvm4uN4f4A5P0MAFBXx-vu019khAAD60tr37vDlmqpXAAsALzAKc3gpo6hjpqr_6O3idYqcbHTSrLP6iJ9rABOc5Ofi-vvJYnXLbn8_AAI9HyWWIDhRz9TH9PffY3oDAAC99vjhSGe7KEenACiF4-f_1961PVaB09bFkZswjJGwuLr__f7xqbYYHh_9tsTiL1Yh8R0_AAAAAXRSTlP-GuMHfQAAANJJREFUeAG90kUCg1AMBNDiPtTd3d2V-5-quMOS2b6vSXI5IjnZIElSyUgzLMcnoSBKspKMUPMpiEKxVE5EVKr5WgTLBkr1BtBsBbHd6fZKOvYHw1F9PAkgSU9njXlNx8Vyxa2XfmxvtoC0M1GH_d6P3QPU8fFkY_Ar7Q0ag3ONIOKQvOB60i0WqSnUG6FnI6rzMJbvkB76zo5-wk0JIf8EGq9ndzN7f9bRrlQBcTYTcT22iAh-X9Ib7_dPm8Q1u5Zvfpq7c4uIQ56otVrLjEYzJX-4mxcG80U-CwAAAABJRU5ErkJggg.png",
+        "snippet": "Submagic provides six templates to start with. Select a template and customize the appearance. You can change the font, text size, shadow, ...",
+        "duration": "0:46",
+        "about_this_result": {
+          "source": {
+            "description": "Submagic provides six templates to start with. Select a template and customize the appearance. You can change the font, text size, shadow, ...",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEUAAAAAAAAFT1IAQUNBub6u5eexxcpyQ0wIAABaxsv5____9_nGj5oyAAD____84eeEYmvm4uN4f4A5P0MAFBXx-vu019khAAD60tr37vDlmqpXAAsALzAKc3gpo6hjpqr_6O3idYqcbHTSrLP6iJ9rABOc5Ofi-vvJYnXLbn8_AAI9HyWWIDhRz9TH9PffY3oDAAC99vjhSGe7KEenACiF4-f_1961PVaB09bFkZswjJGwuLr__f7xqbYYHh_9tsTiL1Yh8R0_AAAAAXRSTlP-GuMHfQAAANJJREFUeAG90kUCg1AMBNDiPtTd3d2V-5-quMOS2b6vSXI5IjnZIElSyUgzLMcnoSBKspKMUPMpiEKxVE5EVKr5WgTLBkr1BtBsBbHd6fZKOvYHw1F9PAkgSU9njXlNx8Vyxa2XfmxvtoC0M1GH_d6P3QPU8fFkY_Ar7Q0ag3ONIOKQvOB60i0WqSnUG6FnI6rzMJbvkB76zo5-wk0JIf8EGq9ndzN7f9bRrlQBcTYTcT22iAh-X9Ib7_dPm8Q1u5Zvfpq7c4uIQ56otVrLjEYzJX-4mxcG80U-CwAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhFSWtYWDc5Z3ZYYkx5cTdUZHdBdEhyVUMtV3ZkWEYwbzlCTDZ5WURWazhsRjBIQjU5aTdRZl9Tb21tQ0RJeTVXeGgwbU1ZN3hyNDRVSzU3a1JQSGNkaDZnRjFmS244dmxLOG9XWjE2S0pUdUhKY1NjNi01V3ZmOWZMS2hMN2QxTnJuQ09fbHVBTnlGOWNQSDg2dWdIRTExdFMzNFh0a1ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhFSWtYWDc5Z3ZYYkx5cTdUZHdBdEhyVUMtV3ZkWEYwbzlCTDZ5WURWazhsRjBIQjU5aTdRZl9Tb21tQ0RJeTVXeGgwbU1ZN3hyNDRVSzU3a1JQSGNkaDZnRjFmS244dmxLOG9XWjE2S0pUdUhKY1NjNi01V3ZmOWZMS2hMN2QxTnJuQ09fbHVBTnlGOWNQSDg2dWdIRTExdFMzNFh0a1ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcThuEbcE7opbolnVS-OIJv0qfUs_OGFXbvHBQ",
+        "source": "TikTok \u00b7 Ben Kaluza | Creator Resources"
+      },
+      {
+        "position": 4,
+        "title": "Best workflow for getting auto-captioned videos up quickly ...",
+        "link": "https://www.google.com/goto?url=CAESqQEBxCJF172IiOTXifouFvKz9v_htWi8rgyHiH9xz556TfQofyEppiVdeS5Xezs3PvqWcrIaH6X94-pdyS80y8ZGXI8fd0FlZYPvp89TGEGPe3ac8l7kwaSQXmEbMHH7_HDowAJ_BobLwHaXa2hb8FZV22EIgtAVZe6QsCtNLGddmX_bu_uw4zq4coWVCPjSDFK19iPEVj7_ZsJWX5oBO8SRYRUrzRCJL_sR",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqQEBxCJF1zxQOt7y-A4MEF0iTCZIMw3o9_70DFQV80J09SEOiOdPJr9JBBhvXE39odeu1OtFKs7AF3sznua8IgqfO5BkNXf9IWfQCgm6UlXc6ulnlmesoyaThQ-zcXnB6lo8ha5EVsjp4mfD_QCHJ-E9KbAwOdXkrU4xYNc2obnU1qbo6La7qyhGMINeZfMKUq-WbemuDovJBUb30Hkq6qWOWlKXDC9gUeeF&ved=2ahUKEwiO6M-i25uYAxU138kDHYszEnUQFnoECFYQAQ&uoh=1",
+        "displayed_link": "10+ comments",
+        "date": "1 year ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+        "snippet": "Descript is awesome for quick cutting + Hormozi-style captions (especially if you're doing talking head stuff). You can edit by text, which ...",
+        "snippet_highlighted_words": [
+          "Descript is awesome for quick cutting + Hormozi-style captions"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Descript is awesome for quick cutting + Hormozi-style captions (especially if you're doing talking head stuff). You can edit by text, which ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESqQEBxCJF172IiOTXifouFvKz9v_htWi8rgyHiH9xz556TfQofyEppiVdeS5Xezs3PvqWcrIaH6X94-pdyS80y8ZGXI8fd0FlZYPvp89TGEGPe3ac8l7kwaSQXmEbMHH7_HDowAJ_BobLwHaXa2hb8FZV22EIgtAVZe6QsCtNLGddmX_bu_uw4zq4coWVCPjSDFK19iPEVj7_ZsJWX5oBO8SRYRUrzRCJL_sR",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvIBL2dvdG8_dXJsPUNBRVNxUUVCeENKRjE3MklpT1RYaWZvdUZ2S3o5dl9odFdpOHJneUhpSDl4ejU1NlRmUW9meUVwcGlWZGVTNVhlenMzUHZxV2NySWFINlg5NC1wZHlTODB5OFpHWEk4ZmQwRmxaWVB2cDg5VEdFR1BlM2FjOGw3a3dhU1FYbUViTUhIN19IRG93QUpfQm9iTHdIYVhhMmhiOEZaVjIyRUlndEFWWmU2UXNDdE5MR2RkbVhfYnVfdXc0enE0Y29XVkNQalNERksxOWlQRVZqN19ac0pXWDVvQk84U1JZUlVyelJDSkxfc1ISBBoCCAAa6AYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDCBggAEAAYACAAKhAKA2hvdxW97oY_GgRlYXN5KgkKAnRvFQAAAAAqJwoEbWFrZRX9Jx4_GgJkbxoEZWFzeRoHcHJlcGFyZRoHcHJvZHVjZSogCgRhbGV4FfC_bj8aBmFsZXgncxoLYWxleGhvcm1vemkqKQoHaG9ybW96aRU0oa4_GgthbGV4aG9ybW96aRoMaXY7cDtob3Jtb3ppKiYKBXN0eWxlFda-8D8aB2Zhc2hpb24aBnN0eWxlcxoHc3R5bGluZyo1CghhbmltYXRlZBXqUcg9GglhbmltYXRpb24aCmFuaW1hdGlvbnMaDWl2O3A7YW5pbWF0ZWQqRgoJc3VidGl0bGVzFYtL0T4aB2NhcHRpb24aBHN1YnMaCHN1YnRpdGxlGgtzdWJ0aXRsZSBvZhoOaXY7cDtzdWJ0aXRsZXMqCgoDZm9yFQAAAAAqCwoEZnJlZRVYFAs_MvIBL2dvdG8_dXJsPUNBRVNxUUVCeENKRjE3MklpT1RYaWZvdUZ2S3o5dl9odFdpOHJneUhpSDl4ejU1NlRmUW9meUVwcGlWZGVTNVhlenMzUHZxV2NySWFINlg5NC1wZHlTODB5OFpHWEk4ZmQwRmxaWVB2cDg5VEdFR1BlM2FjOGw3a3dhU1FYbUViTUhIN19IRG93QUpfQm9iTHdIYVhhMmhiOEZaVjIyRUlndEFWWmU2UXNDdE5MR2RkbVhfYnVfdXc0enE0Y29XVkNQalNERksxOWlQRVZqN19ac0pXWDVvQk84U1JZUlVyelJDSkxfc1I6QUJlc3Qgd29ya2Zsb3cgZm9yIGdldHRpbmcgYXV0by1jYXB0aW9uZWQgdmlkZW9zIHVwIHF1aWNrbHkgdG8gLi4uQp8BPGI-RGVzY3JpcHQgaXMgYXdlc29tZSBmb3IgcXVpY2sgY3V0dGluZyArIEhvcm1vemktc3R5bGUgY2FwdGlvbnM8L2I-IChlc3BlY2lhbGx5IGlmIHlvdSYjMzk7cmUgZG9pbmcgdGFsa2luZyBoZWFkIHN0dWZmKS4gWW91IGNhbiBlZGl0IGJ5IHRleHQsIHdoaWNoJm5ic3A7Li4uSgJ0b0oDZm9yUgJkbyICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvIBL2dvdG8_dXJsPUNBRVNxUUVCeENKRjE3MklpT1RYaWZvdUZ2S3o5dl9odFdpOHJneUhpSDl4ejU1NlRmUW9meUVwcGlWZGVTNVhlenMzUHZxV2NySWFINlg5NC1wZHlTODB5OFpHWEk4ZmQwRmxaWVB2cDg5VEdFR1BlM2FjOGw3a3dhU1FYbUViTUhIN19IRG93QUpfQm9iTHdIYVhhMmhiOEZaVjIyRUlndEFWWmU2UXNDdE5MR2RkbVhfYnVfdXc0enE0Y29XVkNQalNERksxOWlQRVZqN19ac0pXWDVvQk84U1JZUlVyelJDSkxfc1ISBBoCCAAa6AYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDCBggAEAAYACAAKhAKA2hvdxW97oY_GgRlYXN5KgkKAnRvFQAAAAAqJwoEbWFrZRX9Jx4_GgJkbxoEZWFzeRoHcHJlcGFyZRoHcHJvZHVjZSogCgRhbGV4FfC_bj8aBmFsZXgncxoLYWxleGhvcm1vemkqKQoHaG9ybW96aRU0oa4_GgthbGV4aG9ybW96aRoMaXY7cDtob3Jtb3ppKiYKBXN0eWxlFda-8D8aB2Zhc2hpb24aBnN0eWxlcxoHc3R5bGluZyo1CghhbmltYXRlZBXqUcg9GglhbmltYXRpb24aCmFuaW1hdGlvbnMaDWl2O3A7YW5pbWF0ZWQqRgoJc3VidGl0bGVzFYtL0T4aB2NhcHRpb24aBHN1YnMaCHN1YnRpdGxlGgtzdWJ0aXRsZSBvZhoOaXY7cDtzdWJ0aXRsZXMqCgoDZm9yFQAAAAAqCwoEZnJlZRVYFAs_MvIBL2dvdG8_dXJsPUNBRVNxUUVCeENKRjE3MklpT1RYaWZvdUZ2S3o5dl9odFdpOHJneUhpSDl4ejU1NlRmUW9meUVwcGlWZGVTNVhlenMzUHZxV2NySWFINlg5NC1wZHlTODB5OFpHWEk4ZmQwRmxaWVB2cDg5VEdFR1BlM2FjOGw3a3dhU1FYbUViTUhIN19IRG93QUpfQm9iTHdIYVhhMmhiOEZaVjIyRUlndEFWWmU2UXNDdE5MR2RkbVhfYnVfdXc0enE0Y29XVkNQalNERksxOWlQRVZqN19ac0pXWDVvQk84U1JZUlVyelJDSkxfc1I6QUJlc3Qgd29ya2Zsb3cgZm9yIGdldHRpbmcgYXV0by1jYXB0aW9uZWQgdmlkZW9zIHVwIHF1aWNrbHkgdG8gLi4uQp8BPGI-RGVzY3JpcHQgaXMgYXdlc29tZSBmb3IgcXVpY2sgY3V0dGluZyArIEhvcm1vemktc3R5bGUgY2FwdGlvbnM8L2I-IChlc3BlY2lhbGx5IGlmIHlvdSYjMzk7cmUgZG9pbmcgdGFsa2luZyBoZWFkIHN0dWZmKS4gWW91IGNhbiBlZGl0IGJ5IHRleHQsIHdoaWNoJm5ic3A7Li4uSgJ0b0oDZm9yUgJkbyICEAFIAFgAaAA",
+        "source": "Reddit \u00b7 r/ContentCreators",
+        "read_more_link": "https://www.google.com/goto?url=CAES-gEBxCJF17ThjB-CHgDVK5qTsPIlAyIG4b498ElDOqj0nWdFZHMuTlukIK1W5NOxiEo8Y_sNKHJKbNjU-vnUiy8PU7pe7EH50eAQF4toY2Jhdy74bHRxrKVsdB3ioCoNc_feHBhjrZ_XoWlrWCvEthRAX_I06Nxi8UKvXt_rhbVOTgRzd4VoJSwpVN_vK6IsJBtZ_J41LgTmZelyINEKR2nI08V1uaBkVUhTNC0VhzhkC9x4zT7BElwd5c17j012L6dju649nzypGzgsoIpZn4mDDFOBSkPr6UBitD0O_J7_d8PHql59ZofjQTRP0jfetULGHNTrxkF4BJvg&gsessionid=IHmTA8Wz5JzS4gH13UOZmG-BkKUBirvRKWmchAe0HoUpmBVYDagbBg"
+      },
+      {
+        "position": 5,
+        "title": "Auto Caption Generator - Add Animated Captions to Video",
+        "link": "https://www.google.com/goto?url=CAESYgHEIkXXgh4scHklFD1aFgJBu1gjb2TVcB50vKYaL5TzCN6zUDD4VIh5M6KwmCOY2GOn6S86jt44dgROuuuWLxtDAj1AwXZdlD260it63YKl3Pg64tQGkVIGZ0ExFRjfCHiF",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYgHEIkXXMT33g0vqoYbUwbqHjlE8t7Zu6RdgLZVGIp8WtfLjWOgLlkgbZyTIqfGcKY52J_ZCwkDKLLH5rmXhVywcX-gD9Kn-i3XYBgFQIS8zHDeFCaWDU4POxHfRQihWzeHo&ved=2ahUKEwiO6M-i25uYAxU138kDHYszEnUQFnoECFIQAQ&uoh=1",
+        "displayed_link": "https://kommodo.ai \u203a Free Tools",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAsVBMVEVHcEwAAAAURzw7r340q4g7vY1Av4dLwnxHuHkuglwRpa4stZk2uZBMxX1YynFNvXQYnpgisKFezWxYvmUmi3Znz2FIpmEXq6tAsHxDtXxIs29l0Wdr1GFy11xv0lsQqLM0poYxo4g3qIM6qoFMuXIfoJgjqJ0rn40uoYs8rYBGs3ZUwG4onZBdw2MNp7VUvmkil5YlmpMLn64VoqoZmaEdlJkwo4oFkqkZkJwxo4gsoI7uhI93AAAAO3RSTlMAFg1kwOz_4pIYjP____-lJv79LjZySv__5nT____b4v______b_v_______-z_8D__7H____SVf-o9p89IEkAAAE4SURBVHgBrdJFlsMwEARQOWxmZuYw3_9g0zJMcJna_lctRD8JQUy-w2Q6my8Wi-WK_DSKphkGkGU5_o0Eke6RBeQk-dkUURTBmPlqymOUVFXViKGni13TMHmL5AFt23Fd1-sG-IBiEAZRFBvJckCIA3tPdV3M8iIMgiiOy7KqMTqO6zgqFAGbvOgU0DCAsTp2i5S1rjdNrzAYY1UlNSdx9QalgNvdqHGvCaSuebRf64ftrtMQ61iFWIDr4wlrnvfV2Wq1sqaaomjkgJ32g8thcL2CW8U46Pl51Rqe4AJ4xQp4mw2rmmaSaPit1uvD9dpX7-QZ40xBSMYGc5-rSEmnLy_qr9dXrFAt0o9P4K8PA-bh7eOnwHFOWLuLuGnkqyr79eEIVaxB-dEm072f4cxS8vsPJAgC_SZ__S47HpzQ5cUAAAAASUVORK5CYII.png",
+        "snippet": "Free auto caption generator. Add animated subtitles and captions to video \u2014 Hormozi, MrBeast, and karaoke styles. Editable captions, no watermark.",
+        "snippet_highlighted_words": [
+          "Free auto caption generator"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.8,
+              "reviews": 500
+            },
+            "extensions": [
+              "4.8(500)",
+              "Free",
+              "Business/Productivity"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Free auto caption generator. Add animated subtitles and captions to video \u2014 Hormozi, MrBeast, and karaoke styles. Editable captions, no watermark.",
+            "source_info_link": "https://www.google.com/goto?url=CAESYgHEIkXXgh4scHklFD1aFgJBu1gjb2TVcB50vKYaL5TzCN6zUDD4VIh5M6KwmCOY2GOn6S86jt44dgROuuuWLxtDAj1AwXZdlD260it63YKl3Pg64tQGkVIGZ0ExFRjfCHiF",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAsVBMVEVHcEwAAAAURzw7r340q4g7vY1Av4dLwnxHuHkuglwRpa4stZk2uZBMxX1YynFNvXQYnpgisKFezWxYvmUmi3Znz2FIpmEXq6tAsHxDtXxIs29l0Wdr1GFy11xv0lsQqLM0poYxo4g3qIM6qoFMuXIfoJgjqJ0rn40uoYs8rYBGs3ZUwG4onZBdw2MNp7VUvmkil5YlmpMLn64VoqoZmaEdlJkwo4oFkqkZkJwxo4gsoI7uhI93AAAAO3RSTlMAFg1kwOz_4pIYjP____-lJv79LjZySv__5nT____b4v______b_v_______-z_8D__7H____SVf-o9p89IEkAAAE4SURBVHgBrdJFlsMwEARQOWxmZuYw3_9g0zJMcJna_lctRD8JQUy-w2Q6my8Wi-WK_DSKphkGkGU5_o0Eke6RBeQk-dkUURTBmPlqymOUVFXViKGni13TMHmL5AFt23Fd1-sG-IBiEAZRFBvJckCIA3tPdV3M8iIMgiiOy7KqMTqO6zgqFAGbvOgU0DCAsTp2i5S1rjdNrzAYY1UlNSdx9QalgNvdqHGvCaSuebRf64ftrtMQ61iFWIDr4wlrnvfV2Wq1sqaaomjkgJ32g8thcL2CW8U46Pl51Rqe4AJ4xQp4mw2rmmaSaPit1uvD9dpX7-QZ40xBSMYGc5-rSEmnLy_qr9dXrFAt0o9P4K8PA-bh7eOnwHFOWLuLuGnkqyr79eEIVaxB-dEm072f4cxS8vsPJAgC_SZ__S47HpzQ5cUAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpIBL2dvdG8_dXJsPUNBRVNZZ0hFSWtYWGdoNHNjSGtsRkQxYUZnSkJ1MWdqYjJUVmNCNTB2S1lhTDVUekNONnpVREQ0VkloNU02S3dtQ09ZMkdPbjZTODZqdDQ0ZGdST3V1dVdMeHREQWoxQXdYWmRsRDI2MGl0NjNZS2wzUGc2NHRRR2tWSUdaMEV4RlJqZkNIaUYSBBoCCAAahgYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA4gUIABAAGAAgACoQCgNob3cVMPaWPxoEZWFzeSoJCgJ0bxUAAAAAKicKBG1ha2UVUpcePxoCZG8aBGVhc3kaB3ByZXBhcmUaB3Byb2R1Y2UqIAoEYWxleBVpyYg_GgZhbGV4J3MaC2FsZXhob3Jtb3ppKikKB2hvcm1vemkVfcMCQBoLYWxleGhvcm1vemkaDGl2O3A7aG9ybW96aSomCgVzdHlsZRU1W34_GgdmYXNoaW9uGgZzdHlsZXMaB3N0eWxpbmcqNQoIYW5pbWF0ZWQVzp1oQBoJYW5pbWF0aW9uGgphbmltYXRpb25zGg1pdjtwO2FuaW1hdGVkKkYKCXN1YnRpdGxlcxUDUglAGgdjYXB0aW9uGgRzdWJzGghzdWJ0aXRsZRoLc3VidGl0bGUgb2YaDml2O3A7c3VidGl0bGVzKgoKA2ZvchUAAAAAKgsKBGZyZWUVuufYPzKSAS9nb3RvP3VybD1DQUVTWWdIRUlrWFhnaDRzY0hrbEZEMWFGZ0pCdTFnamIyVFZjQjUwdktZYUw1VHpDTjZ6VURENFZJaDVNNkt3bUNPWTJHT242Uzg2anQ0NGRnUk91dXVXTHh0REFqMUF3WFpkbEQyNjBpdDYzWUtsM1BnNjR0UUdrVklHWjBFeEZSamZDSGlGOkVBdXRvIDxiPkNhcHRpb248L2I-IEdlbmVyYXRvciAtIEFkZCA8Yj5BbmltYXRlZDwvYj4gQ2FwdGlvbnMgdG8gVmlkZW9CmwE8Yj5GcmVlIGF1dG8gY2FwdGlvbiBnZW5lcmF0b3I8L2I-LiBBZGQgYW5pbWF0ZWQgc3VidGl0bGVzIGFuZCBjYXB0aW9ucyB0byB2aWRlbyDigJQgSG9ybW96aSwgTXJCZWFzdCwgYW5kIGthcmFva2Ugc3R5bGVzLiBFZGl0YWJsZSBjYXB0aW9ucywgbm8gd2F0ZXJtYXJrLkoDZm9ySgJ0b1ICZG8iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpIBL2dvdG8_dXJsPUNBRVNZZ0hFSWtYWGdoNHNjSGtsRkQxYUZnSkJ1MWdqYjJUVmNCNTB2S1lhTDVUekNONnpVREQ0VkloNU02S3dtQ09ZMkdPbjZTODZqdDQ0ZGdST3V1dVdMeHREQWoxQXdYWmRsRDI2MGl0NjNZS2wzUGc2NHRRR2tWSUdaMEV4RlJqZkNIaUYSBBoCCAAahgYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA4gUIABAAGAAgACoQCgNob3cVMPaWPxoEZWFzeSoJCgJ0bxUAAAAAKicKBG1ha2UVUpcePxoCZG8aBGVhc3kaB3ByZXBhcmUaB3Byb2R1Y2UqIAoEYWxleBVpyYg_GgZhbGV4J3MaC2FsZXhob3Jtb3ppKikKB2hvcm1vemkVfcMCQBoLYWxleGhvcm1vemkaDGl2O3A7aG9ybW96aSomCgVzdHlsZRU1W34_GgdmYXNoaW9uGgZzdHlsZXMaB3N0eWxpbmcqNQoIYW5pbWF0ZWQVzp1oQBoJYW5pbWF0aW9uGgphbmltYXRpb25zGg1pdjtwO2FuaW1hdGVkKkYKCXN1YnRpdGxlcxUDUglAGgdjYXB0aW9uGgRzdWJzGghzdWJ0aXRsZRoLc3VidGl0bGUgb2YaDml2O3A7c3VidGl0bGVzKgoKA2ZvchUAAAAAKgsKBGZyZWUVuufYPzKSAS9nb3RvP3VybD1DQUVTWWdIRUlrWFhnaDRzY0hrbEZEMWFGZ0pCdTFnamIyVFZjQjUwdktZYUw1VHpDTjZ6VURENFZJaDVNNkt3bUNPWTJHT242Uzg2anQ0NGRnUk91dXVXTHh0REFqMUF3WFpkbEQyNjBpdDYzWUtsM1BnNjR0UUdrVklHWjBFeEZSamZDSGlGOkVBdXRvIDxiPkNhcHRpb248L2I-IEdlbmVyYXRvciAtIEFkZCA8Yj5BbmltYXRlZDwvYj4gQ2FwdGlvbnMgdG8gVmlkZW9CmwE8Yj5GcmVlIGF1dG8gY2FwdGlvbiBnZW5lcmF0b3I8L2I-LiBBZGQgYW5pbWF0ZWQgc3VidGl0bGVzIGFuZCBjYXB0aW9ucyB0byB2aWRlbyDigJQgSG9ybW96aSwgTXJCZWFzdCwgYW5kIGthcmFva2Ugc3R5bGVzLiBFZGl0YWJsZSBjYXB0aW9ucywgbm8gd2F0ZXJtYXJrLkoDZm9ySgJ0b1ICZG8iAhABSABYAGgA",
+        "source": "Kommodo"
+      },
+      {
+        "position": 6,
+        "title": "Free Animated Subtitles Generator - Add Motion Now",
+        "link": "https://www.google.com/goto?url=CAESeAHEIkXXhvFxKb_qE0PQQ7I3x3RZzOY0EjcbkbLqRxFKZtq-AEgS1Bor6wjMKcSiDy3097sNGvhuaoM-PrmjoelbUuc6pgELKvpW-9HJWp4D3tpfM-XndWLqGAWQsji004Zln_UnUyo6yqp8ibRrh3ddu27xHgk1RA",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHEIkXXvHlA149zEzK0GG2_IC-y_oIbZd3NaMl-SnWG3JFEzmgeKtroiMTbpToGmTx7b6AyKL15SB2nq0U78fZoaDJXs5VC9fEyZRDZe1IQOBhCI4oDrGG5kViHdFyfVS-VykzYSr2U9jxNmTPLwl0LbslB437RqQ&ved=2ahUKEwiO6M-i25uYAxU138kDHYszEnUQFnoECE4QAQ&uoh=1",
+        "displayed_link": "https://www.choppity.com \u203a tools \u203a animated-subtitle-g...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcExxL_9xL_9xL_9xL_9xL_9xL_9tJf9qHf9jBP95Pv-2nf_VyP-bdv9nE__Itv-IV_-RZv_r5P_____i2f9cAP-niP_49f_-SyO1AAAAB3RSTlMAJa7y_69kPKWwjAAAAQ1JREFUeAF9kwUChDAMBJFwqZHSbuX_P71wrgxSmboMwzBOM30xL-OgnOgPJ61HfxmH5b-chvm_nIdHlI3hj9hNsnU-hFU0JrLGsPFTSspAKfDV-QLkjKcUj5CsVI8MhMbVIPFNckOzzIbcXsZq7d7lXtMiWuItiMUqzu-1k7nV5ARHWgtku68FV9xVGt8tSc9YbQ7WsmKkR3OVsQhxkxxrAOJ24SGDSmLjwTm0jgv93mzMKpUO-Fo3eHLuPlpuMLRjG4Cock_eJBl4IcXE7rx6oVfpse6DFA1rTWj8kIqNKC2ltGUgJvg3SZIKHhTz2qzCYg1fMUJPecDxMZn-y-X4aB4damVcfl2HSeudAfEjGBYFvIZXAAAAAElFTkSuQmCC.png",
+        "snippet": "100% free. Try free \u00b7 Hormozi Caption Style Generator - Free Alex Hormozi Subtitles. Generate Alex Hormozi-style animated captions for your videos instantly ...",
+        "snippet_highlighted_words": [
+          "Free Alex Hormozi Subtitles"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "100% free. Try free \u00b7 Hormozi Caption Style Generator - Free Alex Hormozi Subtitles. Generate Alex Hormozi-style animated captions for your videos instantly ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESeAHEIkXXhvFxKb_qE0PQQ7I3x3RZzOY0EjcbkbLqRxFKZtq-AEgS1Bor6wjMKcSiDy3097sNGvhuaoM-PrmjoelbUuc6pgELKvpW-9HJWp4D3tpfM-XndWLqGAWQsji004Zln_UnUyo6yqp8ibRrh3ddu27xHgk1RA",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcExxL_9xL_9xL_9xL_9xL_9xL_9tJf9qHf9jBP95Pv-2nf_VyP-bdv9nE__Itv-IV_-RZv_r5P_____i2f9cAP-niP_49f_-SyO1AAAAB3RSTlMAJa7y_69kPKWwjAAAAQ1JREFUeAF9kwUChDAMBJFwqZHSbuX_P71wrgxSmboMwzBOM30xL-OgnOgPJ61HfxmH5b-chvm_nIdHlI3hj9hNsnU-hFU0JrLGsPFTSspAKfDV-QLkjKcUj5CsVI8MhMbVIPFNckOzzIbcXsZq7d7lXtMiWuItiMUqzu-1k7nV5ARHWgtku68FV9xVGt8tSc9YbQ7WsmKkR3OVsQhxkxxrAOJ24SGDSmLjwTm0jgv93mzMKpUO-Fo3eHLuPlpuMLRjG4Cock_eJBl4IcXE7rx6oVfpse6DFA1rTWj8kIqNKC2ltGUgJvg3SZIKHhTz2qzCYg1fMUJPecDxMZn-y-X4aB4damVcfl2HSeudAfEjGBYFvIZXAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhFSWtYWGh2RnhLYl9xRTBQUVE3STN4M1Jaek9ZMEVqY2JrYkxxUnhGS1p0cS1BRWdTMUJvcjZ3ak1LY1NpRHkzMDk3c05Hdmh1YW9NLVBybWpvZWxiVXVjNnBnRUxLdnBXLTlISldwNEQzdHBmTS1YbmRXTHFHQVdRc2ppMDA0WmxuX1VuVXlvNnlxcDhpYlJyaDNkZHUyN3hIZ2sxUkESBBoCCAAavQYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCXBggAEAAYACAAKhAKA2hvdxXT4nM_GgRlYXN5KgkKAnRvFQAAAAAqJwoEbWFrZRXooQs_GgJkbxoEZWFzeRoHcHJlcGFyZRoHcHJvZHVjZSogCgRhbGV4FTPOlj8aBmFsZXgncxoLYWxleGhvcm1vemkqKQoHaG9ybW96aRWZYJs_GgthbGV4aG9ybW96aRoMaXY7cDtob3Jtb3ppKiYKBXN0eWxlFRe9rz8aB2Zhc2hpb24aBnN0eWxlcxoHc3R5bGluZyo1CghhbmltYXRlZBWqhdBAGglhbmltYXRpb24aCmFuaW1hdGlvbnMaDWl2O3A7YW5pbWF0ZWQqRgoJc3VidGl0bGVzFXgvt0AaB2NhcHRpb24aBHN1YnMaCHN1YnRpdGxlGgtzdWJ0aXRsZSBvZhoOaXY7cDtzdWJ0aXRsZXMqCgoDZm9yFQAAAAAqCwoEZnJlZRWk5rVAMrABL2dvdG8_dXJsPUNBRVNlQUhFSWtYWGh2RnhLYl9xRTBQUVE3STN4M1Jaek9ZMEVqY2JrYkxxUnhGS1p0cS1BRWdTMUJvcjZ3ak1LY1NpRHkzMDk3c05Hdmh1YW9NLVBybWpvZWxiVXVjNnBnRUxLdnBXLTlISldwNEQzdHBmTS1YbmRXTHFHQVdRc2ppMDA0WmxuX1VuVXlvNnlxcDhpYlJyaDNkZHUyN3hIZ2sxUkE6RDxiPkZyZWUgQW5pbWF0ZWQgU3VidGl0bGVzPC9iPiBHZW5lcmF0b3IgLSBBZGQgTW90aW9uIE5vdyAtIENob3BwaXR5QrMBMTAwJSBmcmVlLiBUcnkgZnJlZSAmbWlkZG90OyBIb3Jtb3ppIENhcHRpb24gU3R5bGUgR2VuZXJhdG9yIC0gPGI-RnJlZSBBbGV4IEhvcm1vemkgU3VidGl0bGVzPC9iPi4gR2VuZXJhdGUgQWxleCBIb3Jtb3ppLXN0eWxlIGFuaW1hdGVkIGNhcHRpb25zIGZvciB5b3VyIHZpZGVvcyBpbnN0YW50bHkmbmJzcDsuLi5KA2ZvckoCdG9SAmRvIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhFSWtYWGh2RnhLYl9xRTBQUVE3STN4M1Jaek9ZMEVqY2JrYkxxUnhGS1p0cS1BRWdTMUJvcjZ3ak1LY1NpRHkzMDk3c05Hdmh1YW9NLVBybWpvZWxiVXVjNnBnRUxLdnBXLTlISldwNEQzdHBmTS1YbmRXTHFHQVdRc2ppMDA0WmxuX1VuVXlvNnlxcDhpYlJyaDNkZHUyN3hIZ2sxUkESBBoCCAAavQYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCXBggAEAAYACAAKhAKA2hvdxXT4nM_GgRlYXN5KgkKAnRvFQAAAAAqJwoEbWFrZRXooQs_GgJkbxoEZWFzeRoHcHJlcGFyZRoHcHJvZHVjZSogCgRhbGV4FTPOlj8aBmFsZXgncxoLYWxleGhvcm1vemkqKQoHaG9ybW96aRWZYJs_GgthbGV4aG9ybW96aRoMaXY7cDtob3Jtb3ppKiYKBXN0eWxlFRe9rz8aB2Zhc2hpb24aBnN0eWxlcxoHc3R5bGluZyo1CghhbmltYXRlZBWqhdBAGglhbmltYXRpb24aCmFuaW1hdGlvbnMaDWl2O3A7YW5pbWF0ZWQqRgoJc3VidGl0bGVzFXgvt0AaB2NhcHRpb24aBHN1YnMaCHN1YnRpdGxlGgtzdWJ0aXRsZSBvZhoOaXY7cDtzdWJ0aXRsZXMqCgoDZm9yFQAAAAAqCwoEZnJlZRWk5rVAMrABL2dvdG8_dXJsPUNBRVNlQUhFSWtYWGh2RnhLYl9xRTBQUVE3STN4M1Jaek9ZMEVqY2JrYkxxUnhGS1p0cS1BRWdTMUJvcjZ3ak1LY1NpRHkzMDk3c05Hdmh1YW9NLVBybWpvZWxiVXVjNnBnRUxLdnBXLTlISldwNEQzdHBmTS1YbmRXTHFHQVdRc2ppMDA0WmxuX1VuVXlvNnlxcDhpYlJyaDNkZHUyN3hIZ2sxUkE6RDxiPkZyZWUgQW5pbWF0ZWQgU3VidGl0bGVzPC9iPiBHZW5lcmF0b3IgLSBBZGQgTW90aW9uIE5vdyAtIENob3BwaXR5QrMBMTAwJSBmcmVlLiBUcnkgZnJlZSAmbWlkZG90OyBIb3Jtb3ppIENhcHRpb24gU3R5bGUgR2VuZXJhdG9yIC0gPGI-RnJlZSBBbGV4IEhvcm1vemkgU3VidGl0bGVzPC9iPi4gR2VuZXJhdGUgQWxleCBIb3Jtb3ppLXN0eWxlIGFuaW1hdGVkIGNhcHRpb25zIGZvciB5b3VyIHZpZGVvcyBpbnN0YW50bHkmbmJzcDsuLi5KA2ZvckoCdG9SAmRvIgIQAUgAWABoAA",
+        "source": "Choppity",
+        "read_more_link": "https://www.google.com/goto?url=CAESuAEBxCJF10vFo753A8umSx2Iwi_oi9CUd9ia6WlQgRexyj6X71nLzw5qVHWlo4n6mgiX6-sIQkV6aD40wql8klUpMb0jB6CkO11e45aTeC1BD8On3EYXjJFKhL4EVZt2yWsHX43TWcBOd36m2rPXZy1zI9Izr2AnY2exEeror3c36CC6J801uxKTXhVN9AelM7rX_ay3lirr4HEYxF9yIMm_2bTkmxWafZh70ziMT6qvUH57NIgUz-L_&gsessionid=IHmTA8Wz5JzS4gH13UOZmG-BkKUBirvRKWmchAe0HoUpmBVYDagbBg"
+      },
+      {
+        "position": 7,
+        "title": "How to Make Alex Hormozi Captions",
+        "link": "https://www.google.com/goto?url=CAESfAHEIkXXqXs-lxlGxeuPZHqKqgN8DG18mr93Dgk4-xXL4HKm2kevkYBYXmwb2eE86P0SubGDsLyJbM7Q8ZyRWzHbvqCHf5AdXjgpyWxsFxBpQeztHPCNi-Ejzv4LXgPbLZ997hZSZ1aX8WaLZgtaAkED_q3FL90zf8Ju0vc",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHEIkXXlXidRbDPlxfJOuTaVIHSwjcelhlvoBq5tjSXzKPEyC3bAd8ZEssaQLWal3-Cs_D3FaFMGwwfuIoTQZYwb46VH1B5TL1XwT7PdRKzahK0drCSDu4A2P8F7vTKq8IgBRHOArzBosoaPiiOyyN9lc_54cLDzm4aLEY&ved=2ahUKEwiO6M-i25uYAxU138kDHYszEnUQFnoECEwQAQ&uoh=1",
+        "displayed_link": "https://karadeo.com \u203a Resources",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAXVBMVEX____92Mj6kVr5aQD7o3j4ZQD5bgD5cxb-5NX7spH_-fb6nVf9383-7-n5dh_7tJP8w5_8u5H7rov5fTH7sI3-6t77omD5fjX7pn3928f7rXb7tYX8zbD91r790b4wiawKAAAAx0lEQVR4AezQNYIEMQxE0d8ge5qZ4f63HGjScrThvMhsqfhnjut5rsOvfDHWGvH55nYDCMRsJNC1XRjFQJJmwSZLEyCOQk558TpfVlm9yar6NS9yTlFDG9P1dbmp-464pYk4NC3DCNLXh15gHGgbdsNEPoPoCwJzzjSwWwqKBSp9obsWQV8oq6DcBFV9vaA1bG0e0kRr0C4-B6VdaA7gG_tkfNAcriQ3nn3y2GiSmjtin0TXvpNr_-l94HfGWsNfVs9beWzQAQAlnQ8d2VUvTAAAAABJRU5ErkJggg.png",
+        "date": "Mar 11, 2026",
+        "snippet": "Learn how to make Alex Hormozi style captions with word-by-word highlighting. Create bold, animated captions for TikTok, Reels, and Shorts.",
+        "snippet_highlighted_words": [
+          "Learn how to make Alex Hormozi style captions"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Learn how to make Alex Hormozi style captions with word-by-word highlighting. Create bold, animated captions for TikTok, Reels, and Shorts.",
+            "source_info_link": "https://www.google.com/goto?url=CAESfAHEIkXXqXs-lxlGxeuPZHqKqgN8DG18mr93Dgk4-xXL4HKm2kevkYBYXmwb2eE86P0SubGDsLyJbM7Q8ZyRWzHbvqCHf5AdXjgpyWxsFxBpQeztHPCNi-Ejzv4LXgPbLZ997hZSZ1aX8WaLZgtaAkED_q3FL90zf8Ju0vc",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAXVBMVEX____92Mj6kVr5aQD7o3j4ZQD5bgD5cxb-5NX7spH_-fb6nVf9383-7-n5dh_7tJP8w5_8u5H7rov5fTH7sI3-6t77omD5fjX7pn3928f7rXb7tYX8zbD91r790b4wiawKAAAAx0lEQVR4AezQNYIEMQxE0d8ge5qZ4f63HGjScrThvMhsqfhnjut5rsOvfDHWGvH55nYDCMRsJNC1XRjFQJJmwSZLEyCOQk558TpfVlm9yar6NS9yTlFDG9P1dbmp-464pYk4NC3DCNLXh15gHGgbdsNEPoPoCwJzzjSwWwqKBSp9obsWQV8oq6DcBFV9vaA1bG0e0kRr0C4-B6VdaA7gG_tkfNAcriQ3nn3y2GiSmjtin0TXvpNr_-l94HfGWsNfVs9beWzQAQAlnQ8d2VUvTAAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhFSWtYWHFYcy1seGxHeGV1UFpIcUtxZ044REcxOG1yOTNEZ2s0LXhYTDRIS20ya2V2a1lCWVhtd2IyZUU4NlAwU3ViR0RzTHlKYk03UThaeVJXekhidnFDSGY1QWRYamdweVd4c0Z4QnBRZXp0SFBDTmktRWp6djRMWGdQYkxaOTk3aFpTWjFhWDhXYUxaZ3RhQWtFRF9xM0ZMOTB6ZjhKdTB2YxIEGgIIABqNBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDpBQgAEAAYACAAKhAKA2hvdxUYL51AGgRlYXN5KgkKAnRvFQAAAAAqJwoEbWFrZRVOj6RAGgJkbxoEZWFzeRoHcHJlcGFyZRoHcHJvZHVjZSogCgRhbGV4Ffh3rUAaBmFsZXgncxoLYWxleGhvcm1vemkqKQoHaG9ybW96aRU-asNAGgthbGV4aG9ybW96aRoMaXY7cDtob3Jtb3ppKiYKBXN0eWxlFZXaSUAaB2Zhc2hpb24aBnN0eWxlcxoHc3R5bGluZyo1CghhbmltYXRlZBVVtYE_GglhbmltYXRpb24aCmFuaW1hdGlvbnMaDWl2O3A7YW5pbWF0ZWQqRgoJc3VidGl0bGVzFWde8z4aB2NhcHRpb24aBHN1YnMaCHN1YnRpdGxlGgtzdWJ0aXRsZSBvZhoOaXY7cDtzdWJ0aXRsZXMqCgoDZm9yFQAAAAAqCwoEZnJlZRWUszg_MrUBL2dvdG8_dXJsPUNBRVNmQUhFSWtYWHFYcy1seGxHeGV1UFpIcUtxZ044REcxOG1yOTNEZ2s0LXhYTDRIS20ya2V2a1lCWVhtd2IyZUU4NlAwU3ViR0RzTHlKYk03UThaeVJXekhidnFDSGY1QWRYamdweVd4c0Z4QnBRZXp0SFBDTmktRWp6djRMWGdQYkxaOTk3aFpTWjFhWDhXYUxaZ3RhQWtFRF9xM0ZMOTB6ZjhKdTB2YzoyPGI-SG93IHRvIE1ha2UgQWxleCBIb3Jtb3ppPC9iPiBDYXB0aW9ucyAtIEthcmFkZW9CkgE8Yj5MZWFybiBob3cgdG8gbWFrZSBBbGV4IEhvcm1vemkgc3R5bGUgY2FwdGlvbnM8L2I-IHdpdGggd29yZC1ieS13b3JkIGhpZ2hsaWdodGluZy4gQ3JlYXRlIGJvbGQsIGFuaW1hdGVkIGNhcHRpb25zIGZvciBUaWtUb2ssIFJlZWxzLCBhbmQgU2hvcnRzLkoCdG9KA2ZvclICZG8iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhFSWtYWHFYcy1seGxHeGV1UFpIcUtxZ044REcxOG1yOTNEZ2s0LXhYTDRIS20ya2V2a1lCWVhtd2IyZUU4NlAwU3ViR0RzTHlKYk03UThaeVJXekhidnFDSGY1QWRYamdweVd4c0Z4QnBRZXp0SFBDTmktRWp6djRMWGdQYkxaOTk3aFpTWjFhWDhXYUxaZ3RhQWtFRF9xM0ZMOTB6ZjhKdTB2YxIEGgIIABqNBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDpBQgAEAAYACAAKhAKA2hvdxUYL51AGgRlYXN5KgkKAnRvFQAAAAAqJwoEbWFrZRVOj6RAGgJkbxoEZWFzeRoHcHJlcGFyZRoHcHJvZHVjZSogCgRhbGV4Ffh3rUAaBmFsZXgncxoLYWxleGhvcm1vemkqKQoHaG9ybW96aRU-asNAGgthbGV4aG9ybW96aRoMaXY7cDtob3Jtb3ppKiYKBXN0eWxlFZXaSUAaB2Zhc2hpb24aBnN0eWxlcxoHc3R5bGluZyo1CghhbmltYXRlZBVVtYE_GglhbmltYXRpb24aCmFuaW1hdGlvbnMaDWl2O3A7YW5pbWF0ZWQqRgoJc3VidGl0bGVzFWde8z4aB2NhcHRpb24aBHN1YnMaCHN1YnRpdGxlGgtzdWJ0aXRsZSBvZhoOaXY7cDtzdWJ0aXRsZXMqCgoDZm9yFQAAAAAqCwoEZnJlZRWUszg_MrUBL2dvdG8_dXJsPUNBRVNmQUhFSWtYWHFYcy1seGxHeGV1UFpIcUtxZ044REcxOG1yOTNEZ2s0LXhYTDRIS20ya2V2a1lCWVhtd2IyZUU4NlAwU3ViR0RzTHlKYk03UThaeVJXekhidnFDSGY1QWRYamdweVd4c0Z4QnBRZXp0SFBDTmktRWp6djRMWGdQYkxaOTk3aFpTWjFhWDhXYUxaZ3RhQWtFRF9xM0ZMOTB6ZjhKdTB2YzoyPGI-SG93IHRvIE1ha2UgQWxleCBIb3Jtb3ppPC9iPiBDYXB0aW9ucyAtIEthcmFkZW9CkgE8Yj5MZWFybiBob3cgdG8gbWFrZSBBbGV4IEhvcm1vemkgc3R5bGUgY2FwdGlvbnM8L2I-IHdpdGggd29yZC1ieS13b3JkIGhpZ2hsaWdodGluZy4gQ3JlYXRlIGJvbGQsIGFuaW1hdGVkIGNhcHRpb25zIGZvciBUaWtUb2ssIFJlZWxzLCBhbmQgU2hvcnRzLkoCdG9KA2ZvclICZG8iAhABSABYAGgA",
+        "source": "Karadeo"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "Animated subtitles free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDjghqPYa0gzD7kQS0cqfHN55jVGKg:1795355189712&q=Animated+subtitles+free&sa=X&ved=2ahUKEwiO6M-i25uYAxU138kDHYszEnUQ1QJ6BAhJEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Animated+subtitles+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Submagic",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDjghqPYa0gzD7kQS0cqfHN55jVGKg:1795355189712&q=Submagic&sa=X&ved=2ahUKEwiO6M-i25uYAxU138kDHYszEnUQ1QJ6BAhLEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Submagic"
+      },
+      {
+        "block_position": 1,
+        "query": "Alex Hormozi font",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDjghqPYa0gzD7kQS0cqfHN55jVGKg:1795355189712&q=Alex+Hormozi+font&sa=X&ved=2ahUKEwiO6M-i25uYAxU138kDHYszEnUQ1QJ6BAhKEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Alex+Hormozi+font"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=How+to+make+Alex+Hormozi+style+animated+subtitles+for+free?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDjghqPYa0gzD7kQS0cqfHN55jVGKg:1795355189712&ei=NfICa875KrW-p84Pi-fIqAc&start=10&sa=N&sstk=AYl2yk-ZyJDgwARTKoFS6av1-S2OlIQEcQ-ysAowmYFVSxA99dlLON-Axt6rGPgWOe1KPE0EH1gu9H9k-VkzsS93JDb7AJp0-9Bzug&ved=2ahUKEwiO6M-i25uYAxU138kDHYszEnUQ8NMDegQIRhAQ",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=How+to+make+Alex+Hormozi+style+animated+subtitles+for+free?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDjghqPYa0gzD7kQS0cqfHN55jVGKg:1795355189712&ei=NfICa875KrW-p84Pi-fIqAc&start=10&sa=N&sstk=AYl2yk-ZyJDgwARTKoFS6av1-S2OlIQEcQ-ysAowmYFVSxA99dlLON-Axt6rGPgWOe1KPE0EH1gu9H9k-VkzsS93JDb7AJp0-9Bzug&ved=2ahUKEwiO6M-i25uYAxU138kDHYszEnUQ8tMDegQIRhAE",
+        "3": "https://www.google.com/search?q=How+to+make+Alex+Hormozi+style+animated+subtitles+for+free?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDjghqPYa0gzD7kQS0cqfHN55jVGKg:1795355189712&ei=NfICa875KrW-p84Pi-fIqAc&start=20&sa=N&sstk=AYl2yk-ZyJDgwARTKoFS6av1-S2OlIQEcQ-ysAowmYFVSxA99dlLON-Axt6rGPgWOe1KPE0EH1gu9H9k-VkzsS93JDb7AJp0-9Bzug&ved=2ahUKEwiO6M-i25uYAxU138kDHYszEnUQ8tMDegQIRhAG",
+        "4": "https://www.google.com/search?q=How+to+make+Alex+Hormozi+style+animated+subtitles+for+free?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDjghqPYa0gzD7kQS0cqfHN55jVGKg:1795355189712&ei=NfICa875KrW-p84Pi-fIqAc&start=30&sa=N&sstk=AYl2yk-ZyJDgwARTKoFS6av1-S2OlIQEcQ-ysAowmYFVSxA99dlLON-Axt6rGPgWOe1KPE0EH1gu9H9k-VkzsS93JDb7AJp0-9Bzug&ved=2ahUKEwiO6M-i25uYAxU138kDHYszEnUQ8tMDegQIRhAI",
+        "5": "https://www.google.com/search?q=How+to+make+Alex+Hormozi+style+animated+subtitles+for+free?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDjghqPYa0gzD7kQS0cqfHN55jVGKg:1795355189712&ei=NfICa875KrW-p84Pi-fIqAc&start=40&sa=N&sstk=AYl2yk-ZyJDgwARTKoFS6av1-S2OlIQEcQ-ysAowmYFVSxA99dlLON-Axt6rGPgWOe1KPE0EH1gu9H9k-VkzsS93JDb7AJp0-9Bzug&ved=2ahUKEwiO6M-i25uYAxU138kDHYszEnUQ8tMDegQIRhAK",
+        "6": "https://www.google.com/search?q=How+to+make+Alex+Hormozi+style+animated+subtitles+for+free?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDjghqPYa0gzD7kQS0cqfHN55jVGKg:1795355189712&ei=NfICa875KrW-p84Pi-fIqAc&start=50&sa=N&sstk=AYl2yk-ZyJDgwARTKoFS6av1-S2OlIQEcQ-ysAowmYFVSxA99dlLON-Axt6rGPgWOe1KPE0EH1gu9H9k-VkzsS93JDb7AJp0-9Bzug&ved=2ahUKEwiO6M-i25uYAxU138kDHYszEnUQ8tMDegQIRhAM",
+        "7": "https://www.google.com/search?q=How+to+make+Alex+Hormozi+style+animated+subtitles+for+free?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDjghqPYa0gzD7kQS0cqfHN55jVGKg:1795355189712&ei=NfICa875KrW-p84Pi-fIqAc&start=60&sa=N&sstk=AYl2yk-ZyJDgwARTKoFS6av1-S2OlIQEcQ-ysAowmYFVSxA99dlLON-Axt6rGPgWOe1KPE0EH1gu9H9k-VkzsS93JDb7AJp0-9Bzug&ved=2ahUKEwiO6M-i25uYAxU138kDHYszEnUQ8tMDegQIRhAO"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+make+Alex+Hormozi+style+animated+subtitles+for+free%3F&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+make+Alex+Hormozi+style+animated+subtitles+for+free%3F&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+make+Alex+Hormozi+style+animated+subtitles+for+free%3F&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+make+Alex+Hormozi+style+animated+subtitles+for+free%3F&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+make+Alex+Hormozi+style+animated+subtitles+for+free%3F&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+make+Alex+Hormozi+style+animated+subtitles+for+free%3F&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+make+Alex+Hormozi+style+animated+subtitles+for+free%3F&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+make+Alex+Hormozi+style+animated+subtitles+for+free%3F&start=60"
+      }
+    }
+  },
+  "error_details": null
+}

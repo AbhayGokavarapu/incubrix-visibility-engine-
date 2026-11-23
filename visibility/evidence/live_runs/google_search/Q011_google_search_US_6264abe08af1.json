@@ -1,0 +1,460 @@
+{
+  "measurement_id": "6264abe08af1",
+  "question_id": "Q011",
+  "timestamp_utc": "2026-11-22T13:46:16.681793+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "IncuBrix vs Descript comparison for podcasters and creators",
+  "market": "US",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [
+    "Descript",
+    "Riverside"
+  ],
+  "position": null,
+  "citations": [
+    "https://alexberman.com/descript-vs",
+    "https://lumen5.com/compare/descript-vs-lumen5",
+    "https://www.google.com/goto?url=CAESdAHEIkXX9LUAeYrLZ36ZnTlut_uEcp_n6hBLTTjB8w7NkomP_12jXLuPP2Wi40vpC89BWvj43fuQjP-SMWxdlbGHn3ogmUpWMfzZwUvCF63ki5rosnrAv0tzMRwYGclDkSpIvSvtfY8eBefQm9mEW4oVqd6S",
+    "https://www.google.com/goto?url=CAESaAHEIkXXsJ3hSxyERlo-rt3dNjWO_5LKsMe_Z326Mjj5xwmOXJGNJnGUaFcMrC0QWzEKqTBD8Bzt70JOQa9NxYuLoeBe8imw0-wUUW6UWXScRqVjXGO4YXBtjsiHGYKm8ct6V5fzDeBM&gsessionid=y4e5ikqJTj5hoNlCCbQUBURcCLvn6BlrKHUtSdHkRL91nG6B1JegPw",
+    "https://www.google.com/goto?url=CAESdwHEIkXXoZ96Jz_WCEtyNDTeCu8mjbmmwjAClTqwepjxDdvyts-24-jcW5u9omq5FwT5Retbtlr_VjoE-MrVVp01Nc2ga7RajTHNXrB7yAHiF1FTjzMcG-2OZdKPxqqMp750oV-TmAn_CodSrfyjjmuANGGiMAu_",
+    "https://www.google.com/goto?url=CAEScAHEIkXXVtt5Dh8yck472VDF5wns-KD8DU2rGAeOHILPEGMhQ5xjB1F2De05m5P6qvPasHpr0nvCaZifzEwi4sT6v_ik9ORKgBfIirn4BQn7eXX8L00Ord4UFn9HOIkBX4lrV9dnAoP_nV03UAcqETc",
+    "https://www.google.com/goto?url=CAESlwEBxCJF19obA-9pNe8-2H2daiJgiYk54Y2ywYKgrXkIxe3elf0S7pbgQjaTY7rPjBOaVjY41s4mxGdrfcfo_Cuu02RIcd_JOFik9wjVmwhVgFeyLPYOHTAJwHqAHQ25E9v0aPyrXcyQS-zQL1uYCHHGbGLGFn3PCl4Wt3vSfV9FB8amzrdftPbEoypShUz41XI50MjlSzLE",
+    "https://www.google.com/goto?url=CAEShwEBxCJF1wpsOeg-ejNbKwiD4YZ26rsgoGFTvlepWqLRXlO6yQkotDT5rbxvQ6UbuOiIcJJOuf2KD067m-3DDEV-YO9wKO6IhCp6phclwohbjA_YYhvv8UaeVLSmosJyrv95HuAPydXuZP0maIWy6HYrVYPQy8eH05f0aOIvZrMVCTzStT9K2Uk"
+  ],
+  "raw_text_summary": "Descript vs the Competition: Which Tool Actually Wins? Podcastle is the most Descript-like alternative in terms of feature set and philosophy. It combines AI recording, text-based editing, voice ... Descript vs Lumen5 | Compare AI Video Maker Lumen5 and Descript both make video creation easier with AI, but they target very different workflows. Descript is an all-in-one tool for recording, ... Podcast Creator Tools: Descript vs. Zencastr vs. Riverside Choosing the best podcast creator tools can streamline your workflow. This comparison analyzes Descript, Zencastr, and Riverside for recording, ... Descript vs Riverside \u2013 Which One's Actually Better for Creators? Just switched to Descript for editing because Riverside editing creates out of sync issues, which can be adjusted on some recordings but not ... Is Descript Worth It in 2026? An Honest Pricing Breakdown The $16 Hobbyist tier is the sweet spot for solo podcasters, with 10 media hours and watermark-free 1080p covering a weekly show comfortably. Podsqueeze vs Descript - Which AI Podcast Tool is Best in ... Which tool is better for video podcasts? If you need to edit the full-length video podcast, add b-roll, or fix lighting, Descript is the winner. Descript Pricing 2026: Complete Breakdown and Better ... Descript was built for podcasters and YouTube creators. Its strengths lie in long-form content editing, multitrack audio, and tools like filler ... Descript vs Adobe Podcast: 2026 Software Comparison Descript offers a user-friendly transcription and editing interface, while Adobe Podcast excels in advanced audio enhancement and integration ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f2261f56fa45341b03dd",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/vUbXSsXCjWDMAts03aS0ppXq1xinT4eiK88hW9NVyCg/6b02f2261f56fa45341b03dd.json",
+      "markdown_endpoint": "https://serpapi.com/searches/vUbXSsXCjWDMAts03aS0ppXq1xinT4eiK88hW9NVyCg/6b02f2261f56fa45341b03dd.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/vUbXSsXCjWDMAts03aS0ppXq1xinT4eiK88hW9NVyCg/6b02f2261f56fa45341b03dd.json_with_pixel_position",
+      "created_at": "2026-11-22 13:46:14 UTC",
+      "processed_at": "2026-11-22 13:46:14 UTC",
+      "google_url": "https://www.google.com/search?q=IncuBrix+vs+Descript+comparison+for+podcasters+and+creators&oq=IncuBrix+vs+Descript+comparison+for+podcasters+and+creators&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/vUbXSsXCjWDMAts03aS0ppXq1xinT4eiK88hW9NVyCg/6b02f2261f56fa45341b03dd.html",
+      "total_time_taken": 0.87
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "IncuBrix vs Descript comparison for podcasters and creators",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "IncuBrix vs Descript comparison for podcasters and creators",
+      "total_results": 3000,
+      "time_taken_displayed": 0.23,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "Descript vs Riverside 2026: Which Is Better for Video Creators?",
+        "link": "https://www.google.com/goto?url=CAESbgHEIkXX6bumGAN6QrdjvulyA7ZQCAB5liDBNNRMHH5rc6IHi9eG75STUj7ZZG2Dvtt-OITgKoXvnEGVQyEspCZJeIPFx5PJ2QZKzQeOCLIaC6Ypu9lfFlJxx8WQFiF-K-G8YbW4_Zw0S3LTWqEt&gsessionid=y4e5ikqJTj5hoNlCCbQUBURcCLvn6BlrKHUtSdHkRL91nG6B1JegPw",
+        "thumbnail": "https://serpapi.com/searches/6b02f2261f56fa45341b03dd/images/wi85RrgkaonxaEVInGOhSZYBqdM-BiTidNtB8GB_cVw.webp",
+        "channel": "George Vlasyev",
+        "duration": "9:35",
+        "platform": "YouTube",
+        "date": "Apr 29, 2026"
+      },
+      {
+        "position": 2,
+        "title": "Riverside vs Descript (2026): Which Creator Tool Wins?",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXSVySjLDVBUS-fVpj1c5U_1Ip0QApdJPDDNlvyCq5ZB_On5rMqikzo_RGgltWQ1s_MIWo9WhBqBNiDL4LANadIoNtDb0lTGJC2BP9N1bspoUAhGu7yI6nsJhUSpdC6WCqIRJP&gsessionid=y4e5ikqJTj5hoNlCCbQUBURcCLvn6BlrKHUtSdHkRL91nG6B1JegPw",
+        "thumbnail": "https://serpapi.com/searches/6b02f2261f56fa45341b03dd/images/FkP6bLQNTzg56YAFCW7xGsahzWPg4IFXEj0BYs5-mDg.webp",
+        "channel": "PSS Creative Media",
+        "duration": "20:04",
+        "platform": "YouTube",
+        "date": "Sep 21, 2025",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSf--23fI7kmPtO3FyXv3Jo4ZHUZA73L3DIxg",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "Intro",
+            "link": "https://www.google.com/goto?url=CAESbAHEIkXXbI3gu3uKZUtWmCMnXe6DL7iKpFxo3gZoj5xs0RFvyGcCdJkWSmm7kF8qoRIX8Mn8MLO6Jr8QLnM6w-juS2-PYjFeGbCaiRYm5xgGM66GlDqnsv-5w4je1x_Pg1TETnK_B9w1RqY2Eg&gsessionid=y4e5ikqJTj5hoNlCCbQUBURcCLvn6BlrKHUtSdHkRL91nG6B1JegPw"
+          },
+          {
+            "time": "01:02",
+            "title": "Round 1: Remote Recording",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXX--oNloL-fFD2bC7hwzxQ_bkv74Ccr_-192nAL9XzgImHC9MHBhAwifF5Bj-jUYRd3-dD8g_kOt6oQdgxWKMVQ58A0qHZ6e81rikNFGBkxU1WeReXxQ-Bx8gzE9iNq7VAj1QPUYvRPFM&gsessionid=y4e5ikqJTj5hoNlCCbQUBURcCLvn6BlrKHUtSdHkRL91nG6B1JegPw"
+          },
+          {
+            "time": "03:06",
+            "title": "Round 2: Audio/Video Quality",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXeM3RAB-BfF_RoGmSnWbt_WgP1kmGHDHOXKE0PXLsj_j2QoxdHcTsrhfZrYTN2kGn61XW7Y5P0sy-bBPZoar-r_jXoPFqqERvKgj7E44xSihiqXaawcIsPnTcDkH6AXCxhEecOI7pue4f&gsessionid=y4e5ikqJTj5hoNlCCbQUBURcCLvn6BlrKHUtSdHkRL91nG6B1JegPw"
+          },
+          {
+            "time": "12:38",
+            "title": "Round 3: Filler Words",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXX0PhBjgJDL6Z_yfGQ5fnNzuPwZEz5PSE9ej0d0yNF1cmQIuKxSYuT5GYNcHpkqYf_NhoOFvxZ0yy1sFSkU-GI5NfFHQ3c1Jrejev7FnaG_mL8yi0sIpM-1F5PDhN7SPxS_XxbfRQLMjxR&gsessionid=y4e5ikqJTj5hoNlCCbQUBURcCLvn6BlrKHUtSdHkRL91nG6B1JegPw"
+          },
+          {
+            "time": "13:38",
+            "title": "Round 4: Ease of Use & Learning Curve",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXZqsOQkDXsdINp5FUtJ8kp7NZkmusqGW6MWJOkizJp02DSmy4enGgV3Bo84TPARSSkwiSUQYzdD28XNjJYmYbuoQerz8RnLNaCYgNh3ftnYdl8LYwyoqBkfP7jPi0OswdB0ECLr6tGiJ-&gsessionid=y4e5ikqJTj5hoNlCCbQUBURcCLvn6BlrKHUtSdHkRL91nG6B1JegPw"
+          },
+          {
+            "time": "15:13",
+            "title": "Round 5: Transcript & Timeline Editing",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXEMCO8nFNJFrdduam6mCn4WbvAOzqxLWvTzByBkGoeuT5hIuHO7JUfFYnkkHVuA28ymPqKDIb5tu6nUk8t1LB6Tk-drZAVRoXpRPpqLK7rslGixnCg3y0nykFv4RKUyJglFJOrYkSraHy&gsessionid=y4e5ikqJTj5hoNlCCbQUBURcCLvn6BlrKHUtSdHkRL91nG6B1JegPw"
+          },
+          {
+            "time": "17:06",
+            "title": "Round 6: Exports & Workflow Integration",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXLFJypylPNqX-jAlGJDHx5M33wztMorxV895AUGSwo256TarzryWL-YHidq8O2uV_hXzfoEcj6MgSY7gUyVe3xkDqG72XHEgG7bOWYSuqvBhkefaAzBc-K8eYZtpaHyF7vlc395-6_Vue0A&gsessionid=y4e5ikqJTj5hoNlCCbQUBURcCLvn6BlrKHUtSdHkRL91nG6B1JegPw"
+          },
+          {
+            "time": "18:00",
+            "title": "Final Verdict: Who Each Tool Is For",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXuYd5PDE04m0dtWVgstppFHlIhvTu-qPTRhlMIvVMhvIG6d0lSgbWlTXRza_X-Qx79hUo4fzLhwqiACknMkKPYz56j8Ov-qJoD0qFdwSDsp9zTsjppEhJ_U9u8XoZSgJETNuGGIuGKN2eZg&gsessionid=y4e5ikqJTj5hoNlCCbQUBURcCLvn6BlrKHUtSdHkRL91nG6B1JegPw"
+          }
+        ]
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "What is the best podcast editing tool?",
+        "type": "ai_overview",
+        "page_token": "j-hIDXicHdBNbqMwAEBhzRwmywZskYpIUSWCyZTWTm1sE9hUxk5CivlpYArJcs4yqx6mB5hjzAladf8Wn96fv_bUVP9-vJXD0PXL-Xwcx5tj2x7t_ka39Vz1l0bPtbK2ULpaLm4X7t1Br9Dv-2D9eh9QwVBmjc0ak1BHApz6wVfb8iZHRY09jOTa2PJJAltKlIcJ8nOO9DVxvDSXkcxTEydRrB4ldVVqPAbzOqsnKCDpkjS64Cr2uNQX6bKzdP1TUtuHrbS_eISBcEjDgW_31QQMjIG4BottaCfllD2p_A3bdCFBllO3fCy4eaWN2SlIrxTmGHOTUYhdEsqe1RpwV34ZYquvYiSINag0DzvHhhmvgHJkVaT-aKKIFhvylKzdIGHtiYpyi5GADLCJCDyRl2hMuAm0Szy2s6FybI9RV2ZQDoLODvptBWffP1fPh3pYduf2-K7PezXszbMaPqqf_2ef-NKH1w",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=j-hIDXicHdBNbqMwAEBhzRwmywZskYpIUSWCyZTWTm1sE9hUxk5CivlpYArJcs4yqx6mB5hjzAladf8Wn96fv_bUVP9-vJXD0PXL-Xwcx5tj2x7t_ka39Vz1l0bPtbK2ULpaLm4X7t1Br9Dv-2D9eh9QwVBmjc0ak1BHApz6wVfb8iZHRY09jOTa2PJJAltKlIcJ8nOO9DVxvDSXkcxTEydRrB4ldVVqPAbzOqsnKCDpkjS64Cr2uNQX6bKzdP1TUtuHrbS_eISBcEjDgW_31QQMjIG4BottaCfllD2p_A3bdCFBllO3fCy4eaWN2SlIrxTmGHOTUYhdEsqe1RpwV34ZYquvYiSINag0DzvHhhmvgHJkVaT-aKKIFhvylKzdIGHtiYpyi5GADLCJCDyRl2hMuAm0Szy2s6FybI9RV2ZQDoLODvptBWffP1fPh3pYduf2-K7PezXszbMaPqqf_2ef-NKH1w",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGJGSnlkMk5XTTFWMU1HNVplVlZ6Y2paQlZqQm5WblUzYVhGb2NFWjRkekJ4ZDI5ME5EQlNYMUJXVFhWM0xVbFdYM3BWTldGMU9YUlRNVU5sWjBFNU9UaGhkV2hwVVhGeE1XaGFUWFpaWkVoWWRtVk9iMnhFYVVwamR4SVhTbDlKUTJFNU5tdEZaRzF2Y0hSUlVHeGpUMGd0UVVrYUlrRklUakJGTjBaQlNDMWtTbTVqUm10d1UzTkhkamh0ZDFKNFYwWXpYMTlOYTFFIiwiZmN2IjoiMyIsImVpIjoiSl9JQ2E5NmtFZG1vcHRRUGxjT0gtQUkiLCJxYyI6IkNqdHBibU4xWW5KcGVDQjJjeUJrWlhOamNtbHdkQ0JqYjIxd1lYSnBjMjl1SUdadmNpQndiMlJqWVhOMFpYSnpJR0Z1WkNCamNtVmhkRzl5Y3hBQU9BRjl0V3NCUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgcG9kY2FzdCBlZGl0aW5nIHRvb2w/IiwibGsiOiJHaVYzYUdGMElHbHpJSFJvWlNCaVpYTjBJSEJ2WkdOaGMzUWdaV1JwZEdsdVp5QjBiMjlzIiwiYnMiOiJjNDJQUFEtQ01CQ0c0OXJKMFhTNm1BZ09UdndCRm1OMGNGQUhKb2RDRDN0UkMya3ZFUDY5QlpYb1lwd3V1WHZ1X1JBSEVXVkdNWkFITmdnNWVvYTYwb1VLRXpVeDJRdHdWZDNTSkphTDloOVNuRVM4R3hpSG9Hekhwcl9reUl3dWJKV0ZOZnJDVWMxcHNwUVJfVVQxQ3hWYk1jOE1GYWEzZndLclVRY3FCdzJpVHBPNWhQYWJHaFhla0RpTGRHaXNnbWRmNUlvZGFDckxrTUVXT1B5MWlCYU8xS0R6cEJFMi14Qk9mOFNXY3ViR2EzbUh4bzgyMDhrRCIsImlkIjoiZmNfSl9JQ2E5NmtFZG1vcHRRUGxjT0gtQUlfNyJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGJGSnlkMk5XTTFWMU1HNVplVlZ6Y2paQlZqQm5WblUzYVhGb2NFWjRkekJ4ZDI5ME5EQlNYMUJXVFhWM0xVbFdYM3BWTldGMU9YUlRNVU5sWjBFNU9UaGhkV2hwVVhGeE1XaGFUWFpaWkVoWWRtVk9iMnhFYVVwamR4SVhTbDlKUTJFNU5tdEZaRzF2Y0hSUlVHeGpUMGd0UVVrYUlrRklUakJGTjBaQlNDMWtTbTVqUm10d1UzTkhkamh0ZDFKNFYwWXpYMTlOYTFFIiwiZmN2IjoiMyIsImVpIjoiSl9JQ2E5NmtFZG1vcHRRUGxjT0gtQUkiLCJxYyI6IkNqdHBibU4xWW5KcGVDQjJjeUJrWlhOamNtbHdkQ0JqYjIxd1lYSnBjMjl1SUdadmNpQndiMlJqWVhOMFpYSnpJR0Z1WkNCamNtVmhkRzl5Y3hBQU9BRjl0V3NCUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgcG9kY2FzdCBlZGl0aW5nIHRvb2w%2FIiwibGsiOiJHaVYzYUdGMElHbHpJSFJvWlNCaVpYTjBJSEJ2WkdOaGMzUWdaV1JwZEdsdVp5QjBiMjlzIiwiYnMiOiJjNDJQUFEtQ01CQ0c0OXJKMFhTNm1BZ09UdndCRm1OMGNGQUhKb2RDRDN0UkMya3ZFUDY5QlpYb1lwd3V1WHZ1X1JBSEVXVkdNWkFITmdnNWVvYTYwb1VLRXpVeDJRdHdWZDNTSkphTDloOVNuRVM4R3hpSG9Hekhwcl9reUl3dWJKV0ZOZnJDVWMxcHNwUVJfVVQxQ3hWYk1jOE1GYWEzZndLclVRY3FCdzJpVHBPNWhQYWJHaFhla0RpTGRHaXNnbWRmNUlvZGFDckxrTUVXT1B5MWlCYU8xS0R6cEJFMi14Qk9mOFNXY3ViR2EzbUh4bzgyMDhrRCIsImlkIjoiZmNfSl9JQ2E5NmtFZG1vcHRRUGxjT0gtQUlfNyJ9"
+      },
+      {
+        "question": "Is there anything better than Descript?",
+        "type": "ai_overview",
+        "page_token": "yshJAXicHdBdboIwAADgbIfxUQGniyZmGX-ik3aUlgovprQo2gJVmUwfd5Y97TA7wI6xEyzZd4Tv41Pta_lzdynbVp-ng0HXdf1d0-xU0edNNWDna80HnCmVMy6n48ex-bTlM-9tYTvHhR0R5KVKqFTqC5wvjNxXNifhO_SAjyvRYksfaZ246VCawixXq7XKAAVVWk2c0FXXqNYhcYmBrfbElQZ8rgClyI-DJKTeMiKSW3D9bHGi99jPIMKgzm-oii1TE1M50W3ZkcB-iJPJhXoaFL7A0F1ajAqQuShLExsWBzEiB9Gtbz5gGB2LuoSZUSZMCSeWegwDO2a1faNB5uI5WOWqRF4pXtaGclMsLWYkMqeTTvh-lM_Ba-yYdoyafURKGHpkGAe7IaPZIqTLkFHQFbTtkIsUqKIRqMqGJgKSqLfll9mw9_8522yrdqpPze6LnwrWFmLD2m95_9v7A99xijY",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=yshJAXicHdBdboIwAADgbIfxUQGniyZmGX-ik3aUlgovprQo2gJVmUwfd5Y97TA7wI6xEyzZd4Tv41Pta_lzdynbVp-ng0HXdf1d0-xU0edNNWDna80HnCmVMy6n48ex-bTlM-9tYTvHhR0R5KVKqFTqC5wvjNxXNifhO_SAjyvRYksfaZ246VCawixXq7XKAAVVWk2c0FXXqNYhcYmBrfbElQZ8rgClyI-DJKTeMiKSW3D9bHGi99jPIMKgzm-oii1TE1M50W3ZkcB-iJPJhXoaFL7A0F1ajAqQuShLExsWBzEiB9Gtbz5gGB2LuoSZUSZMCSeWegwDO2a1faNB5uI5WOWqRF4pXtaGclMsLWYkMqeTTvh-lM_Ba-yYdoyafURKGHpkGAe7IaPZIqTLkFHQFbTtkIsUqKIRqMqGJgKSqLfll9mw9_8522yrdqpPze6LnwrWFmLD2m95_9v7A99xijY",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGJGSnlkMk5XTTFWMU1HNVplVlZ6Y2paQlZqQm5WblUzYVhGb2NFWjRkekJ4ZDI5ME5EQlNYMUJXVFhWM0xVbFdYM3BWTldGMU9YUlRNVU5sWjBFNU9UaGhkV2hwVVhGeE1XaGFUWFpaWkVoWWRtVk9iMnhFYVVwamR4SVhTbDlKUTJFNU5tdEZaRzF2Y0hSUlVHeGpUMGd0UVVrYUlrRklUakJGTjBaQlNDMWtTbTVqUm10d1UzTkhkamh0ZDFKNFYwWXpYMTlOYTFFIiwiZmN2IjoiMyIsImVpIjoiSl9JQ2E5NmtFZG1vcHRRUGxjT0gtQUkiLCJxYyI6IkNqdHBibU4xWW5KcGVDQjJjeUJrWlhOamNtbHdkQ0JqYjIxd1lYSnBjMjl1SUdadmNpQndiMlJqWVhOMFpYSnpJR0Z1WkNCamNtVmhkRzl5Y3hBQU9BRjl0V3NCUHciLCJxdWVzdGlvbiI6IklzIHRoZXJlIGFueXRoaW5nIGJldHRlciB0aGFuIERlc2NyaXB0PyIsImxrIjoiR2lacGN5QjBhR1Z5WlNCaGJubDBhR2x1WnlCaVpYUjBaWElnZEdoaGJpQmtaWE5qY21sd2RBIiwiYnMiOiJjNDJQUFEtQ01CQ0c0OXJKMFhTNm1BZ09UdndCRm1OMGNGQUhKb2RDRDN0UkMya3ZFUDY5QlpYb1lwd3V1WHZ1X1JBSEVXVkdNWkFITmdnNWVvYTYwb1VLRXpVeDJRdHdWZDNTSkphTDloOVNuRVM4R3hpSG9Hekhwcl9reUl3dWJKV0ZOZnJDVWMxcHNwUVJfVVQxQ3hWYk1jOE1GYWEzZndLclVRY3FCdzJpVHBPNWhQYWJHaFhla0RpTGRHaXNnbWRmNUlvZGFDckxrTUVXT1B5MWlCYU8xS0R6cEJFMi14Qk9mOFNXY3ViR2EzbUh4bzgyMDhrRCIsImlkIjoiZmNfSl9JQ2E5NmtFZG1vcHRRUGxjT0gtQUlfNyJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGJGSnlkMk5XTTFWMU1HNVplVlZ6Y2paQlZqQm5WblUzYVhGb2NFWjRkekJ4ZDI5ME5EQlNYMUJXVFhWM0xVbFdYM3BWTldGMU9YUlRNVU5sWjBFNU9UaGhkV2hwVVhGeE1XaGFUWFpaWkVoWWRtVk9iMnhFYVVwamR4SVhTbDlKUTJFNU5tdEZaRzF2Y0hSUlVHeGpUMGd0UVVrYUlrRklUakJGTjBaQlNDMWtTbTVqUm10d1UzTkhkamh0ZDFKNFYwWXpYMTlOYTFFIiwiZmN2IjoiMyIsImVpIjoiSl9JQ2E5NmtFZG1vcHRRUGxjT0gtQUkiLCJxYyI6IkNqdHBibU4xWW5KcGVDQjJjeUJrWlhOamNtbHdkQ0JqYjIxd1lYSnBjMjl1SUdadmNpQndiMlJqWVhOMFpYSnpJR0Z1WkNCamNtVmhkRzl5Y3hBQU9BRjl0V3NCUHciLCJxdWVzdGlvbiI6IklzIHRoZXJlIGFueXRoaW5nIGJldHRlciB0aGFuIERlc2NyaXB0PyIsImxrIjoiR2lacGN5QjBhR1Z5WlNCaGJubDBhR2x1WnlCaVpYUjBaWElnZEdoaGJpQmtaWE5qY21sd2RBIiwiYnMiOiJjNDJQUFEtQ01CQ0c0OXJKMFhTNm1BZ09UdndCRm1OMGNGQUhKb2RDRDN0UkMya3ZFUDY5QlpYb1lwd3V1WHZ1X1JBSEVXVkdNWkFITmdnNWVvYTYwb1VLRXpVeDJRdHdWZDNTSkphTDloOVNuRVM4R3hpSG9Hekhwcl9reUl3dWJKV0ZOZnJDVWMxcHNwUVJfVVQxQ3hWYk1jOE1GYWEzZndLclVRY3FCdzJpVHBPNWhQYWJHaFhla0RpTGRHaXNnbWRmNUlvZGFDckxrTUVXT1B5MWlCYU8xS0R6cEJFMi14Qk9mOFNXY3ViR2EzbUh4bzgyMDhrRCIsImlkIjoiZmNfSl9JQ2E5NmtFZG1vcHRRUGxjT0gtQUlfNyJ9"
+      },
+      {
+        "question": "Which is better, Descript or veed?",
+        "type": "ai_overview",
+        "page_token": "-x3_nXicHZBNToNAGECjh-myMNDWtEljhDIgttN0YD5-Ng3M0E5lKFhQtEvP4srDeACP4QmsLt_i5SXv_UMdjuX3VSy7rmlnmtb3_XBf13tVDHldaVn7duQaz5TKM17OJjcTdLvjc6ftLbvurQ2jTqKESir0lJcyBRcmWYAkD8kmZOUYTGqQWOBE9-kmGuuAMaJMsbz0--DRVwUIS-j-Mj5bqYjvzhd2mSEfhKecFSZtuKBeEYMXhNQOXayzBV1STM1lKJPCFYxUqZGzV49ExAaEn1PUtMyZInAZAhvFnLHxCuSfO6KYUDBlLAw6SsAJsN7sAkbkOkxPNKJdblo6A6tN9On9kmHfPfhW4Ix6GgpvDeCtTJpyR0bRUfUpboJN1ZFLRSWAywLDcbDjL3Nz8H9svt1V3aw51ftPfiqyrhDbrPsqr38Gvx6ffKc",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-x3_nXicHZBNToNAGECjh-myMNDWtEljhDIgttN0YD5-Ng3M0E5lKFhQtEvP4srDeACP4QmsLt_i5SXv_UMdjuX3VSy7rmlnmtb3_XBf13tVDHldaVn7duQaz5TKM17OJjcTdLvjc6ftLbvurQ2jTqKESir0lJcyBRcmWYAkD8kmZOUYTGqQWOBE9-kmGuuAMaJMsbz0--DRVwUIS-j-Mj5bqYjvzhd2mSEfhKecFSZtuKBeEYMXhNQOXayzBV1STM1lKJPCFYxUqZGzV49ExAaEn1PUtMyZInAZAhvFnLHxCuSfO6KYUDBlLAw6SsAJsN7sAkbkOkxPNKJdblo6A6tN9On9kmHfPfhW4Ix6GgpvDeCtTJpyR0bRUfUpboJN1ZFLRSWAywLDcbDjL3Nz8H9svt1V3aw51ftPfiqyrhDbrPsqr38Gvx6ffKc",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGJGSnlkMk5XTTFWMU1HNVplVlZ6Y2paQlZqQm5WblUzYVhGb2NFWjRkekJ4ZDI5ME5EQlNYMUJXVFhWM0xVbFdYM3BWTldGMU9YUlRNVU5sWjBFNU9UaGhkV2hwVVhGeE1XaGFUWFpaWkVoWWRtVk9iMnhFYVVwamR4SVhTbDlKUTJFNU5tdEZaRzF2Y0hSUlVHeGpUMGd0UVVrYUlrRklUakJGTjBaQlNDMWtTbTVqUm10d1UzTkhkamh0ZDFKNFYwWXpYMTlOYTFFIiwiZmN2IjoiMyIsImVpIjoiSl9JQ2E5NmtFZG1vcHRRUGxjT0gtQUkiLCJxYyI6IkNqdHBibU4xWW5KcGVDQjJjeUJrWlhOamNtbHdkQ0JqYjIxd1lYSnBjMjl1SUdadmNpQndiMlJqWVhOMFpYSnpJR0Z1WkNCamNtVmhkRzl5Y3hBQU9BRjl0V3NCUHciLCJxdWVzdGlvbiI6IldoaWNoIGlzIGJldHRlciwgRGVzY3JpcHQgb3IgdmVlZD8iLCJsayI6IkdpQjNhR2xqYUNCcGN5QmlaWFIwWlhJZ1pHVnpZM0pwY0hRZ2IzSWdkbVZsWkEiLCJicyI6ImM0MlBQUS1DTUJDRzQ5ckowWFM2bUFnT1R2d0JGbU4wY0ZBSEpvZENEM3RSQzJrdkVQNjlCWlhvWXB3dXVYdnVfUkFIRVdWR01aQUhOZ2c1ZW9hNjBvVUtFelV4MlF0d1ZkM1NKSmFMOWg5U25FUzhHeGlIb0d6SHByX2t5SXd1YkpXRk5mckNVYzFwc3BRUl9VVDFDeFZiTWM4TUZhYTNmd0tyVVFjcUJ3MmlUcE81aFBhYkdoWGVrRGlMZEdpc2dtZGY1SW9kYUNyTGtNRVdPUHkxaUJhTzFLRHpwQkUyLXhCT2Y4U1djdWJHYTNtSHhvODIwOGtEIiwiaWQiOiJmY19KX0lDYTk2a0VkbW9wdFFQbGNPSC1BSV83In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGJGSnlkMk5XTTFWMU1HNVplVlZ6Y2paQlZqQm5WblUzYVhGb2NFWjRkekJ4ZDI5ME5EQlNYMUJXVFhWM0xVbFdYM3BWTldGMU9YUlRNVU5sWjBFNU9UaGhkV2hwVVhGeE1XaGFUWFpaWkVoWWRtVk9iMnhFYVVwamR4SVhTbDlKUTJFNU5tdEZaRzF2Y0hSUlVHeGpUMGd0UVVrYUlrRklUakJGTjBaQlNDMWtTbTVqUm10d1UzTkhkamh0ZDFKNFYwWXpYMTlOYTFFIiwiZmN2IjoiMyIsImVpIjoiSl9JQ2E5NmtFZG1vcHRRUGxjT0gtQUkiLCJxYyI6IkNqdHBibU4xWW5KcGVDQjJjeUJrWlhOamNtbHdkQ0JqYjIxd1lYSnBjMjl1SUdadmNpQndiMlJqWVhOMFpYSnpJR0Z1WkNCamNtVmhkRzl5Y3hBQU9BRjl0V3NCUHciLCJxdWVzdGlvbiI6IldoaWNoIGlzIGJldHRlciwgRGVzY3JpcHQgb3IgdmVlZD8iLCJsayI6IkdpQjNhR2xqYUNCcGN5QmlaWFIwWlhJZ1pHVnpZM0pwY0hRZ2IzSWdkbVZsWkEiLCJicyI6ImM0MlBQUS1DTUJDRzQ5ckowWFM2bUFnT1R2d0JGbU4wY0ZBSEpvZENEM3RSQzJrdkVQNjlCWlhvWXB3dXVYdnVfUkFIRVdWR01aQUhOZ2c1ZW9hNjBvVUtFelV4MlF0d1ZkM1NKSmFMOWg5U25FUzhHeGlIb0d6SHByX2t5SXd1YkpXRk5mckNVYzFwc3BRUl9VVDFDeFZiTWM4TUZhYTNmd0tyVVFjcUJ3MmlUcE81aFBhYkdoWGVrRGlMZEdpc2dtZGY1SW9kYUNyTGtNRVdPUHkxaUJhTzFLRHpwQkUyLXhCT2Y4U1djdWJHYTNtSHhvODIwOGtEIiwiaWQiOiJmY19KX0lDYTk2a0VkbW9wdFFQbGNPSC1BSV83In0%3D"
+      },
+      {
+        "question": "What are the key differences between Riverside FM and Descript?",
+        "type": "ai_overview",
+        "page_token": "R1yzOnicHdBdboIwAADgbIfxUf6ciyZmCfKjneAotIW-GCho1VKYEKs87ix72mF2gB1jJ1iy7wjfx6c4yvPPQ8r7vu3mmqaUGh-a5iCqMWtqLe_ukmksF6LI2Xk-fZ4aL3u2cDtlLxtlRwi6mShFdgKwFO0KnkqUOOEtJ7Nb7PFNaoEhNnmQnKlL0_aaD8DKrNBEgr6zGmJI-Cp2AI0w9DDp_TyFJnXYBNUzHsi1wQyA8aodkoGqQnqCSZxhAafwFAxhHQwVMtLyBO6VX17oqsxis1MR4TyT0Egc0BG3dZDjIazrqqrpEhoHFda9TPxJ7OntPkYh3yb0AgnsC8vWEba7TJ-tN8gD_hHYsTtRMCm9LQn0LeGvoR89IQxk4UUqHexuQ9o35s_sTIb2aM-uC2v0P7bY7et-3l6awxe7VHlflbu8_z4__o7-AFjqgH4",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=R1yzOnicHdBdboIwAADgbIfxUf6ciyZmCfKjneAotIW-GCho1VKYEKs87ix72mF2gB1jJ1iy7wjfx6c4yvPPQ8r7vu3mmqaUGh-a5iCqMWtqLe_ukmksF6LI2Xk-fZ4aL3u2cDtlLxtlRwi6mShFdgKwFO0KnkqUOOEtJ7Nb7PFNaoEhNnmQnKlL0_aaD8DKrNBEgr6zGmJI-Cp2AI0w9DDp_TyFJnXYBNUzHsi1wQyA8aodkoGqQnqCSZxhAafwFAxhHQwVMtLyBO6VX17oqsxis1MR4TyT0Egc0BG3dZDjIazrqqrpEhoHFda9TPxJ7OntPkYh3yb0AgnsC8vWEba7TJ-tN8gD_hHYsTtRMCm9LQn0LeGvoR89IQxk4UUqHexuQ9o35s_sTIb2aM-uC2v0P7bY7et-3l6awxe7VHlflbu8_z4__o7-AFjqgH4",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGJGSnlkMk5XTTFWMU1HNVplVlZ6Y2paQlZqQm5WblUzYVhGb2NFWjRkekJ4ZDI5ME5EQlNYMUJXVFhWM0xVbFdYM3BWTldGMU9YUlRNVU5sWjBFNU9UaGhkV2hwVVhGeE1XaGFUWFpaWkVoWWRtVk9iMnhFYVVwamR4SVhTbDlKUTJFNU5tdEZaRzF2Y0hSUlVHeGpUMGd0UVVrYUlrRklUakJGTjBaQlNDMWtTbTVqUm10d1UzTkhkamh0ZDFKNFYwWXpYMTlOYTFFIiwiZmN2IjoiMyIsImVpIjoiSl9JQ2E5NmtFZG1vcHRRUGxjT0gtQUkiLCJxYyI6IkNqdHBibU4xWW5KcGVDQjJjeUJrWlhOamNtbHdkQ0JqYjIxd1lYSnBjMjl1SUdadmNpQndiMlJqWVhOMFpYSnpJR0Z1WkNCamNtVmhkRzl5Y3hBQU9BRjl0V3NCUHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBrZXkgZGlmZmVyZW5jZXMgYmV0d2VlbiBSaXZlcnNpZGUgRk0gYW5kIERlc2NyaXB0PyIsImxrIjoiR2hoeWFYWmxjbk5wWkdVZ1ptMGdkbk1nWkdWelkzSnBjSFEiLCJicyI6ImM0MlBQUS1DTUJDRzQ5ckowWFM2bUFnT1R2d0JGbU4wY0ZBSEpvZENEM3RSQzJrdkVQNjlCWlhvWXB3dXVYdnVfUkFIRVdWR01aQUhOZ2c1ZW9hNjBvVUtFelV4MlF0d1ZkM1NKSmFMOWg5U25FUzhHeGlIb0d6SHByX2t5SXd1YkpXRk5mckNVYzFwc3BRUl9VVDFDeFZiTWM4TUZhYTNmd0tyVVFjcUJ3MmlUcE81aFBhYkdoWGVrRGlMZEdpc2dtZGY1SW9kYUNyTGtNRVdPUHkxaUJhTzFLRHpwQkUyLXhCT2Y4U1djdWJHYTNtSHhvODIwOGtEIiwiaWQiOiJmY19KX0lDYTk2a0VkbW9wdFFQbGNPSC1BSV83In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGJGSnlkMk5XTTFWMU1HNVplVlZ6Y2paQlZqQm5WblUzYVhGb2NFWjRkekJ4ZDI5ME5EQlNYMUJXVFhWM0xVbFdYM3BWTldGMU9YUlRNVU5sWjBFNU9UaGhkV2hwVVhGeE1XaGFUWFpaWkVoWWRtVk9iMnhFYVVwamR4SVhTbDlKUTJFNU5tdEZaRzF2Y0hSUlVHeGpUMGd0UVVrYUlrRklUakJGTjBaQlNDMWtTbTVqUm10d1UzTkhkamh0ZDFKNFYwWXpYMTlOYTFFIiwiZmN2IjoiMyIsImVpIjoiSl9JQ2E5NmtFZG1vcHRRUGxjT0gtQUkiLCJxYyI6IkNqdHBibU4xWW5KcGVDQjJjeUJrWlhOamNtbHdkQ0JqYjIxd1lYSnBjMjl1SUdadmNpQndiMlJqWVhOMFpYSnpJR0Z1WkNCamNtVmhkRzl5Y3hBQU9BRjl0V3NCUHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBrZXkgZGlmZmVyZW5jZXMgYmV0d2VlbiBSaXZlcnNpZGUgRk0gYW5kIERlc2NyaXB0PyIsImxrIjoiR2hoeWFYWmxjbk5wWkdVZ1ptMGdkbk1nWkdWelkzSnBjSFEiLCJicyI6ImM0MlBQUS1DTUJDRzQ5ckowWFM2bUFnT1R2d0JGbU4wY0ZBSEpvZENEM3RSQzJrdkVQNjlCWlhvWXB3dXVYdnVfUkFIRVdWR01aQUhOZ2c1ZW9hNjBvVUtFelV4MlF0d1ZkM1NKSmFMOWg5U25FUzhHeGlIb0d6SHByX2t5SXd1YkpXRk5mckNVYzFwc3BRUl9VVDFDeFZiTWM4TUZhYTNmd0tyVVFjcUJ3MmlUcE81aFBhYkdoWGVrRGlMZEdpc2dtZGY1SW9kYUNyTGtNRVdPUHkxaUJhTzFLRHpwQkUyLXhCT2Y4U1djdWJHYTNtSHhvODIwOGtEIiwiaWQiOiJmY19KX0lDYTk2a0VkbW9wdFFQbGNPSC1BSV83In0%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "WYZY2niczVbdbqNGFJZ63dcoN45t_ENsR0KrGUwc_E-8TsJKFcIDHjCYIQwOdi_7LL3qw-wD7GP0CTpgvAbHTrJVpfZIMMyZ8zdnzjeH3__wHN_99vOvdhQF9KZajeO4ggnBnlVBZF016M5H1SXxaIjsT7YnWj5HySZElmOKyA7J2uKwJ25oxs14FbLgdi9ig0NU5DnLEfu6Ihmda1c21ySI1KmHJndloHCpfVFfGNRaMffbFa3qVfZyf2l02aRCK5ZfUaznhX9bBw8BqNT5eqMyqRprJgD-Y4JAwWxwAcBviqkfNajaAMhAOtWX92OOPwKJTwVIyn7lkv9ZYjTRlGAyTQxNwHI1dXvsa3yQmivvxCUVYnrMwtoP7mm4H6BMNdlBgfEWnUlimpfBcS6drp2jXnEFal3QjXPmX21HOka3V50nrxjcNqcjoKrqRU8HYqYHGuA98E6dHCKad_qziGnBqolZlfPVRciGWtVBNko_QpoUv_S5w5M7k1y3hbrV7gQPI5O3JmOsNaauPB204ipaMDmPGKZl6rbOf0rntXpN4DuNVvsqRR2i32FH87ALCeUjvz0qR3xlWIG1A-aKuz1Nlqoo4FwxYYgPqSjSdwO7_EGmaTiRdAueb7PRBpCozGxhUR3Iw7wQg0uX5auN7ZzQUUN6A3MnxCpWBiQzMM9YoFhtqgbk2Tk_CU3Omk32kXotOutlHwo81E2crbzG3D1Q1DS9WYoLlyNkNwRkCVaTm2LA1CMJp7JKM4nvcGKqLLPtyfioliNJPrMdIOUiYXpyIhUDLAN3M6BS0zmwUycY7z1BFcuHSFMf0mvUpTRi_Fv77NKHSP7IxbKP4gCyE8zksdZb8W3o1rXh09wc6eMnoCzXZCGZNXMdn8cWWS9-oKeh_z_6so7nZWV_EX2Jpw-hT7XfQt_rjidLe_RJ7gX0zfboO9_xpgepk473Gn0ScHLoyzreNsvFv4E--D768seVR9_xqAroky-hr9crok9byazjqSq4hL6s4x3R9087HvzxjpeC0NoPxfa3WeHLbRAY4_oqtONd3x_wQvluej0JovFzjHXwbhtcrqObtWF6V7pj3sB6P9qZVzpjkBvL5J5FxUcbGDrb0gstdS2KQieISgzagRE6lPilJQlLATGRQSMrpCXDN0sotIyIhJRbeyEReUMYOUCDM1twn6INmvOLTetxR-kW60_ldrkJl3It0vxwqJeF1fNWRnji-mVr7jagFcx2L0a5Qe3WDo07uNF8mSCnMbzrDJq1urYauo_GVghITaPeyHryW1_uPyvCUBYmcyl8_EJH48kCmv3tzjNqaTTsf_w3e2XPg_sHReHYLqklspUQiawImhiM1eT_zgAwBv20auH9MxuHrCQWBAL1TgNqF7OHsPPiKDJ0i76I6FpoIIHnkWEsW0trya1xtAvEDs9RPxRrf6YJYek3oq_uT39xfwN4lIkR",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=WYZY2niczVbdbqNGFJZ63dcoN45t_ENsR0KrGUwc_E-8TsJKFcIDHjCYIQwOdi_7LL3qw-wD7GP0CTpgvAbHTrJVpfZIMMyZ8zdnzjeH3__wHN_99vOvdhQF9KZajeO4ggnBnlVBZF016M5H1SXxaIjsT7YnWj5HySZElmOKyA7J2uKwJ25oxs14FbLgdi9ig0NU5DnLEfu6Ihmda1c21ySI1KmHJndloHCpfVFfGNRaMffbFa3qVfZyf2l02aRCK5ZfUaznhX9bBw8BqNT5eqMyqRprJgD-Y4JAwWxwAcBviqkfNajaAMhAOtWX92OOPwKJTwVIyn7lkv9ZYjTRlGAyTQxNwHI1dXvsa3yQmivvxCUVYnrMwtoP7mm4H6BMNdlBgfEWnUlimpfBcS6drp2jXnEFal3QjXPmX21HOka3V50nrxjcNqcjoKrqRU8HYqYHGuA98E6dHCKad_qziGnBqolZlfPVRciGWtVBNko_QpoUv_S5w5M7k1y3hbrV7gQPI5O3JmOsNaauPB204ipaMDmPGKZl6rbOf0rntXpN4DuNVvsqRR2i32FH87ALCeUjvz0qR3xlWIG1A-aKuz1Nlqoo4FwxYYgPqSjSdwO7_EGmaTiRdAueb7PRBpCozGxhUR3Iw7wQg0uX5auN7ZzQUUN6A3MnxCpWBiQzMM9YoFhtqgbk2Tk_CU3Omk32kXotOutlHwo81E2crbzG3D1Q1DS9WYoLlyNkNwRkCVaTm2LA1CMJp7JKM4nvcGKqLLPtyfioliNJPrMdIOUiYXpyIhUDLAN3M6BS0zmwUycY7z1BFcuHSFMf0mvUpTRi_Fv77NKHSP7IxbKP4gCyE8zksdZb8W3o1rXh09wc6eMnoCzXZCGZNXMdn8cWWS9-oKeh_z_6so7nZWV_EX2Jpw-hT7XfQt_rjidLe_RJ7gX0zfboO9_xpgepk473Gn0ScHLoyzreNsvFv4E--D768seVR9_xqAroky-hr9crok9byazjqSq4hL6s4x3R9087HvzxjpeC0NoPxfa3WeHLbRAY4_oqtONd3x_wQvluej0JovFzjHXwbhtcrqObtWF6V7pj3sB6P9qZVzpjkBvL5J5FxUcbGDrb0gstdS2KQieISgzagRE6lPilJQlLATGRQSMrpCXDN0sotIyIhJRbeyEReUMYOUCDM1twn6INmvOLTetxR-kW60_ldrkJl3It0vxwqJeF1fNWRnji-mVr7jagFcx2L0a5Qe3WDo07uNF8mSCnMbzrDJq1urYauo_GVghITaPeyHryW1_uPyvCUBYmcyl8_EJH48kCmv3tzjNqaTTsf_w3e2XPg_sHReHYLqklspUQiawImhiM1eT_zgAwBv20auH9MxuHrCQWBAL1TgNqF7OHsPPiKDJ0i76I6FpoIIHnkWEsW0trya1xtAvEDs9RPxRrf6YJYek3oq_uT39xfwN4lIkR"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Descript vs the Competition: Which Tool Actually Wins?",
+        "link": "https://alexberman.com/descript-vs",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHEIkXXUxNkcbWwLUmBkk3ektGPO2A5eSAP7MPUpbRX7AKaD99j9_L_WW3eMrDEGSnnNON9MdMks0h4qBM-GxF3FwfjjWK_EjrPsVdzErGcoLz1QyksPH-hW4Lce2u_&ved=2ahUKEwie1N-b25uYAxVZlIkEHZXhAS8QFnoECBIQAQ&uoh=1",
+        "displayed_link": "https://alexberman.com \u203a Sales Tools/Reviews",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAABA0lEQVR4AWJwL_ChKwa0W8Y2EMIwFJ2ADdiAni0ySaZgiXSICiltFrgNsgFlRqC_cySK6MtYxlyFQHogQOZhxwm8wocKaesqzXlPLERQMBH9VaGvwLXvRdYrwkwUuDYZpIkVYjmbgB7KmogosBIFpIMohEyCpTFo2_AZkjC1b2gUeiyrJHRQEmcQZjlDAISZeaGVWBhmKGdl1AgDBLVzcjB0q2OFwkMnuF-0MsxU22m7pqxABGGpse3cizAWWRoLRFmpDtpYJBmnyN4uAlA-mb9keOwy8UGYsnqmm-MJCWI31fcQgu4s6KNWiN024EJvm4fyOMxEOI6OyTKc4N9_mld4mx9_S9e1FSYJFAAAAABJRU5ErkJggg.png",
+        "date": "Jun 12, 2026",
+        "snippet": "Podcastle is the most Descript-like alternative in terms of feature set and philosophy. It combines AI recording, text-based editing, voice ...",
+        "snippet_highlighted_words": [
+          "Podcastle is the most Descript-like alternative"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Podcastle is the most Descript-like alternative in terms of feature set and philosophy. It combines AI recording, text-based editing, voice ...",
+            "source_info_link": "https://alexberman.com/descript-vs",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAABA0lEQVR4AWJwL_ChKwa0W8Y2EMIwFJ2ADdiAni0ySaZgiXSICiltFrgNsgFlRqC_cySK6MtYxlyFQHogQOZhxwm8wocKaesqzXlPLERQMBH9VaGvwLXvRdYrwkwUuDYZpIkVYjmbgB7KmogosBIFpIMohEyCpTFo2_AZkjC1b2gUeiyrJHRQEmcQZjlDAISZeaGVWBhmKGdl1AgDBLVzcjB0q2OFwkMnuF-0MsxU22m7pqxABGGpse3cizAWWRoLRFmpDtpYJBmnyN4uAlA-mb9keOwy8UGYsnqmm-MJCWI31fcQgu4s6KNWiN024EJvm4fyOMxEOI6OyTKc4N9_mld4mx9_S9e1FSYJFAAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co4BL2dvdG8_dXJsPUNBRVNYd0hFSWtYWDB2Vy1sMDUwZkdETUxUZ0w4Z2lyVjg2R3NXWWdLUzZMUnVRcDZ0QkhHN2g4VW0weFhMX0VvSEJIU2hoaVk0Vlp3bUQyYUZ5aFVtNllUbEdrblNHVkdxQU8yWWlleGVfMHNOSndLcjVmVmJzSVVsaDkyQkd1d3ZURhIEGgIIABqsBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCIBggAEAAYACAAKkkKCGluY3Vicml4FQAAAAAaCWluIGN1YnJpeBoJaW5jdSBicml4GglpbmN1YiByaXgaDWl2O3A7aW5jdWJyaXgaCGlubm9jcnV4KhUKAnZzFYgVhUAaAm9yGgZ2ZXJzdXMqKQoIZGVzY3JpcHQVMi-hQBoJZGUgc2NyaXB0Gg1pdjtwO2Rlc2NyaXB0Kl4KCmNvbXBhcmlzb24VqjY_PxoIY2hlYXBlc3QaB2NvbXBhcmUaCGNvbXBhcmVkGghjb21wYXJlchoLY29tcGFyaXNvbnMaCmRpZmZlcmVuY2UaC2RpZmZlcmVuY2VzKgoKA2ZvchUAAAAAKkwKCnBvZGNhc3RlcnMVD-17PxoHcG9kY2FzdBoJcG9kY2FzdGVyGgpwb2RjYXN0aW5nGghwb2RjYXN0cxoPaXY7cDtwb2RjYXN0ZXJzKgoKA2FuZBUAAAAAKioKCGNyZWF0b3JzFeXeqT8aB2NyZWF0b3IaCWludmVudG9ycxoFbWFrZXIyjgEvZ290bz91cmw9Q0FFU1h3SEVJa1hYMHZXLWwwNTBmR0RNTFRnTDhnaXJWODZHc1dZZ0tTNkxSdVFwNnRCSEc3aDhVbTB4WExfRW9IQkhTaGhpWTRWWndtRDJhRnloVW02WVRsR2tuU0dWR3FBTzJZaWV4ZV8wc05Kd0tyNWZWYnNJVWxoOTJCR3V3dlRGOkI8Yj5EZXNjcmlwdCB2czwvYj4gdGhlIENvbXBldGl0aW9uOiBXaGljaCBUb29sIFdpbnM_IC0gQWxleCBCZXJtYW5CmwE8Yj5Qb2RjYXN0bGUgaXMgdGhlIG1vc3QgRGVzY3JpcHQtbGlrZSBhbHRlcm5hdGl2ZTwvYj4gaW4gdGVybXMgb2YgZmVhdHVyZSBzZXQgYW5kIHBoaWxvc29waHkuIEl0IGNvbWJpbmVzIEFJIHJlY29yZGluZywgdGV4dC1iYXNlZCBlZGl0aW5nLCB2b2ljZSZuYnNwOy4uLkoDYW5kSgNmb3JSAm9yIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co4BL2dvdG8_dXJsPUNBRVNYd0hFSWtYWDB2Vy1sMDUwZkdETUxUZ0w4Z2lyVjg2R3NXWWdLUzZMUnVRcDZ0QkhHN2g4VW0weFhMX0VvSEJIU2hoaVk0Vlp3bUQyYUZ5aFVtNllUbEdrblNHVkdxQU8yWWlleGVfMHNOSndLcjVmVmJzSVVsaDkyQkd1d3ZURhIEGgIIABqsBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCIBggAEAAYACAAKkkKCGluY3Vicml4FQAAAAAaCWluIGN1YnJpeBoJaW5jdSBicml4GglpbmN1YiByaXgaDWl2O3A7aW5jdWJyaXgaCGlubm9jcnV4KhUKAnZzFYgVhUAaAm9yGgZ2ZXJzdXMqKQoIZGVzY3JpcHQVMi-hQBoJZGUgc2NyaXB0Gg1pdjtwO2Rlc2NyaXB0Kl4KCmNvbXBhcmlzb24VqjY_PxoIY2hlYXBlc3QaB2NvbXBhcmUaCGNvbXBhcmVkGghjb21wYXJlchoLY29tcGFyaXNvbnMaCmRpZmZlcmVuY2UaC2RpZmZlcmVuY2VzKgoKA2ZvchUAAAAAKkwKCnBvZGNhc3RlcnMVD-17PxoHcG9kY2FzdBoJcG9kY2FzdGVyGgpwb2RjYXN0aW5nGghwb2RjYXN0cxoPaXY7cDtwb2RjYXN0ZXJzKgoKA2FuZBUAAAAAKioKCGNyZWF0b3JzFeXeqT8aB2NyZWF0b3IaCWludmVudG9ycxoFbWFrZXIyjgEvZ290bz91cmw9Q0FFU1h3SEVJa1hYMHZXLWwwNTBmR0RNTFRnTDhnaXJWODZHc1dZZ0tTNkxSdVFwNnRCSEc3aDhVbTB4WExfRW9IQkhTaGhpWTRWWndtRDJhRnloVW02WVRsR2tuU0dWR3FBTzJZaWV4ZV8wc05Kd0tyNWZWYnNJVWxoOTJCR3V3dlRGOkI8Yj5EZXNjcmlwdCB2czwvYj4gdGhlIENvbXBldGl0aW9uOiBXaGljaCBUb29sIFdpbnM_IC0gQWxleCBCZXJtYW5CmwE8Yj5Qb2RjYXN0bGUgaXMgdGhlIG1vc3QgRGVzY3JpcHQtbGlrZSBhbHRlcm5hdGl2ZTwvYj4gaW4gdGVybXMgb2YgZmVhdHVyZSBzZXQgYW5kIHBoaWxvc29waHkuIEl0IGNvbWJpbmVzIEFJIHJlY29yZGluZywgdGV4dC1iYXNlZCBlZGl0aW5nLCB2b2ljZSZuYnNwOy4uLkoDYW5kSgNmb3JSAm9yIgIQAUgAWABoAA",
+        "source": "Alex Berman",
+        "read_more_link": "https://www.google.com/goto?url=CAESxQEBxCJF19oEHhA-yPAfwF7jTRAJj_vNETfPbNCDRgTPMNAZWj4qf9vV8FLPz8SMMUrZXXS8j302yNtpf6oI-GlCVy-_veTV_lXqQlCfbcxzlmuWK36vKC4Vu2J89SosUrpbxSBRrSNn2wsaEPmKyvrZJWVH6d1DBhGg89skmzOIwdHfHjqrzbJfXV_0ScVLGqeSEuIvdbufnkeuWWyjsC0q4iWrEjxks-eGIZn-DKP_D-RDUao7a-wChlECVcwNl5UDUP3QFg&gsessionid=y4e5ikqJTj5hoNlCCbQUBURcCLvn6BlrKHUtSdHkRL91nG6B1JegPw"
+      },
+      {
+        "position": 2,
+        "title": "Descript vs Lumen5 | Compare AI Video Maker",
+        "link": "https://lumen5.com/compare/descript-vs-lumen5",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHEIkXXxu65X8wXe32Wa7yWnEbbv34Po3XiX8nXLQDHoZd3dDpMWoKTRquRHv-IzzuJ7mUmBIA5Du1laDRH4neZcUexlfD2tzAHBvZvyykYT150Qeaj_FKWPnJpFZj4Or2k6nz9qgHGb2Y&ved=2ahUKEwie1N-b25uYAxVZlIkEHZXhAS8QFnoECBQQAQ&uoh=1",
+        "displayed_link": "https://lumen5.com \u203a compare \u203a descript-vs-lumen5",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAALVBMVEVHcExYRvZYRvZYRfZYRvdYRvdYRvZYRvZYRfVYRfdZRfRXRfZYRfZYRfdYRvaVAgywAAAADnRSTlMANcgj1KTg7BJGB2iG-M0LizkAAADbSURBVCiRdZJZAsQgCEO1iLve_7iDC5S2jn_6lCSIMfcCbA3BHJd1ndZlj-zq_R9lRvRTedUcK9QYnwy8vEtUJJ5ZzcZgd4paZvNJCr070WU9X8Yuo_a8fQZc--RVos2usnQisgRRWDUrvDRm3n0xs4Fcgjg3TflcNDENDLu_W7qVCLI-BZHScR40lGuq4VDnfjRC7GHcji4VNC3q04qC4fGti-KULLvNTvxZuhzGw8g_rryPL8OhJs4fwwBU5h4U_xoUiFXa5j4jpvIexm8nOryb1P9nIz-l1V5-X-ERUZd5g6AAAAAASUVORK5CYII.png",
+        "snippet": "Lumen5 and Descript both make video creation easier with AI, but they target very different workflows. Descript is an all-in-one tool for recording, ...",
+        "snippet_highlighted_words": [
+          "both make video creation easier with AI"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Lumen5 and Descript both make video creation easier with AI, but they target very different workflows. Descript is an all-in-one tool for recording, ...",
+            "source_info_link": "https://lumen5.com/compare/descript-vs-lumen5",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAALVBMVEVHcExYRvZYRvZYRfZYRvdYRvdYRvZYRvZYRfVYRfdZRfRXRfZYRfZYRfdYRvaVAgywAAAADnRSTlMANcgj1KTg7BJGB2iG-M0LizkAAADbSURBVCiRdZJZAsQgCEO1iLve_7iDC5S2jn_6lCSIMfcCbA3BHJd1ndZlj-zq_R9lRvRTedUcK9QYnwy8vEtUJJ5ZzcZgd4paZvNJCr070WU9X8Yuo_a8fQZc--RVos2usnQisgRRWDUrvDRm3n0xs4Fcgjg3TflcNDENDLu_W7qVCLI-BZHScR40lGuq4VDnfjRC7GHcji4VNC3q04qC4fGti-KULLvNTvxZuhzGw8g_rryPL8OhJs4fwwBU5h4U_xoUiFXa5j4jpvIexm8nOryb1P9nIz-l1V5-X-ERUZd5g6AAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hFSWtYWFNiYmk2S2RVVTVYRzA0TWQ1emxnQmlZQ0xfYm00NFZWWjJYQ2hqN3dsVUItWVFTNTMtVWVTZEdFVVNNdlZYdmdEdmZQcE9KcnZuN2Y2U1hkQVZZVVVSM1BXd003bm02YzBfT2xZVXJNVERfbzhfZjMwTkxoemVLMjVaOEF3RHFkSUI5eDVhQRIEGgIIABrCBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCeBggAEAAYACAAKkkKCGluY3Vicml4FQAAAAAaCWluIGN1YnJpeBoJaW5jdSBicml4GglpbmN1YiByaXgaDWl2O3A7aW5jdWJyaXgaCGlubm9jcnV4KhUKAnZzFb3LmUAaAm9yGgZ2ZXJzdXMqKQoIZGVzY3JpcHQVPDjRQBoJZGUgc2NyaXB0Gg1pdjtwO2Rlc2NyaXB0Kl4KCmNvbXBhcmlzb24VAAAAABoIY2hlYXBlc3QaB2NvbXBhcmUaCGNvbXBhcmVkGghjb21wYXJlchoLY29tcGFyaXNvbnMaCmRpZmZlcmVuY2UaC2RpZmZlcmVuY2VzKgoKA2ZvchUAAAAAKkwKCnBvZGNhc3RlcnMVRdusPxoHcG9kY2FzdBoJcG9kY2FzdGVyGgpwb2RjYXN0aW5nGghwb2RjYXN0cxoPaXY7cDtwb2RjYXN0ZXJzKgoKA2FuZBUAAAAAKioKCGNyZWF0b3JzFUpw_z8aB2NyZWF0b3IaCWludmVudG9ycxoFbWFrZXIynQEvZ290bz91cmw9Q0FFU2FnSEVJa1hYU2JiaTZLZFVVNVhHMDRNZDV6bGdCaVlDTF9ibTQ0VlZaMlhDaGo3d2xVQi1ZUVM1My1VZVNkR0VVU012Vlh2Z0R2ZlBwT0pydm43ZjZTWGRBVllVVVIzUFd3TTdubTZjMF9PbFlVck1URF9vOF9mMzBOTGh6ZUsyNVo4QXdEcWRJQjl4NWFBOkA8Yj5EZXNjcmlwdCB2czwvYj4gTHVtZW41IHwgPGI-Q29tcGFyZTwvYj4gQUkgVmlkZW8gPGI-TWFrZXI8L2I-QqQBTHVtZW41IGFuZCBEZXNjcmlwdCA8Yj5ib3RoIG1ha2UgdmlkZW8gY3JlYXRpb24gZWFzaWVyIHdpdGggQUk8L2I-LCBidXQgdGhleSB0YXJnZXQgdmVyeSBkaWZmZXJlbnQgd29ya2Zsb3dzLiBEZXNjcmlwdCBpcyBhbiBhbGwtaW4tb25lIHRvb2wgZm9yIHJlY29yZGluZywmbmJzcDsuLi5KA2ZvckoDYW5kUgJvciICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hFSWtYWFNiYmk2S2RVVTVYRzA0TWQ1emxnQmlZQ0xfYm00NFZWWjJYQ2hqN3dsVUItWVFTNTMtVWVTZEdFVVNNdlZYdmdEdmZQcE9KcnZuN2Y2U1hkQVZZVVVSM1BXd003bm02YzBfT2xZVXJNVERfbzhfZjMwTkxoemVLMjVaOEF3RHFkSUI5eDVhQRIEGgIIABrCBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCeBggAEAAYACAAKkkKCGluY3Vicml4FQAAAAAaCWluIGN1YnJpeBoJaW5jdSBicml4GglpbmN1YiByaXgaDWl2O3A7aW5jdWJyaXgaCGlubm9jcnV4KhUKAnZzFb3LmUAaAm9yGgZ2ZXJzdXMqKQoIZGVzY3JpcHQVPDjRQBoJZGUgc2NyaXB0Gg1pdjtwO2Rlc2NyaXB0Kl4KCmNvbXBhcmlzb24VAAAAABoIY2hlYXBlc3QaB2NvbXBhcmUaCGNvbXBhcmVkGghjb21wYXJlchoLY29tcGFyaXNvbnMaCmRpZmZlcmVuY2UaC2RpZmZlcmVuY2VzKgoKA2ZvchUAAAAAKkwKCnBvZGNhc3RlcnMVRdusPxoHcG9kY2FzdBoJcG9kY2FzdGVyGgpwb2RjYXN0aW5nGghwb2RjYXN0cxoPaXY7cDtwb2RjYXN0ZXJzKgoKA2FuZBUAAAAAKioKCGNyZWF0b3JzFUpw_z8aB2NyZWF0b3IaCWludmVudG9ycxoFbWFrZXIynQEvZ290bz91cmw9Q0FFU2FnSEVJa1hYU2JiaTZLZFVVNVhHMDRNZDV6bGdCaVlDTF9ibTQ0VlZaMlhDaGo3d2xVQi1ZUVM1My1VZVNkR0VVU012Vlh2Z0R2ZlBwT0pydm43ZjZTWGRBVllVVVIzUFd3TTdubTZjMF9PbFlVck1URF9vOF9mMzBOTGh6ZUsyNVo4QXdEcWRJQjl4NWFBOkA8Yj5EZXNjcmlwdCB2czwvYj4gTHVtZW41IHwgPGI-Q29tcGFyZTwvYj4gQUkgVmlkZW8gPGI-TWFrZXI8L2I-QqQBTHVtZW41IGFuZCBEZXNjcmlwdCA8Yj5ib3RoIG1ha2UgdmlkZW8gY3JlYXRpb24gZWFzaWVyIHdpdGggQUk8L2I-LCBidXQgdGhleSB0YXJnZXQgdmVyeSBkaWZmZXJlbnQgd29ya2Zsb3dzLiBEZXNjcmlwdCBpcyBhbiBhbGwtaW4tb25lIHRvb2wgZm9yIHJlY29yZGluZywmbmJzcDsuLi5KA2ZvckoDYW5kUgJvciICEAFIAFgAaAA",
+        "source": "Lumen5",
+        "read_more_link": "https://www.google.com/goto?url=CAESyQEBxCJF15pPd7gOeIK1KIbHSHSSNQBsTt6qQt1wLiG8c32rcr_CIKk2fW83iMHWe_UhNK3L_Pqetr9d0ODVvMG_d6jY9eh74qPm2wTBZ7SbP6fLZJbKUwbz3sFOUiyK6Lo1gtsWc4jEqUPEjJkk6bu7miOi5KjXGWjHFTIF6YNaRkk7w_OJv22GaHLkN0B5UyX_Cmx4t9jxyjG2-WpnvRyN4o4gbdZR6kpSdJ-YUGqPywiCqTmAcNmxyy5orIzvzHNMZEMFhIpXNuM&gsessionid=y4e5ikqJTj5hoNlCCbQUBURcCLvn6BlrKHUtSdHkRL91nG6B1JegPw"
+      },
+      {
+        "position": 3,
+        "title": "Podcast Creator Tools: Descript vs. Zencastr vs. Riverside",
+        "link": "https://www.google.com/goto?url=CAESdAHEIkXX9LUAeYrLZ36ZnTlut_uEcp_n6hBLTTjB8w7NkomP_12jXLuPP2Wi40vpC89BWvj43fuQjP-SMWxdlbGHn3ogmUpWMfzZwUvCF63ki5rosnrAv0tzMRwYGclDkSpIvSvtfY8eBefQm9mEW4oVqd6S",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHEIkXXGe0_-l_Z38EWhBlayMrO7xbFgA0RTQLae20s7kv7dajNaDtDifNdycSd4vu6Ymyb8JeLa88jVW_KlkesKFZ9ZKrQnr3T5NcP_t1Knqv-YLAHbRge5tbWZPAfQ9vYPnyFw1Efh_8dj5qjITNCWcEo&ved=2ahUKEwie1N-b25uYAxVZlIkEHZXhAS8QFnoECBwQAQ&uoh=1",
+        "displayed_link": "https://bigpondpodcasts.com \u203a Blog \u203a General",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABsAAAAgCAMAAADUt_MJAAAAP1BMVEVHcEwkY-sgVMckY-skW9QkYukgVsskY-wkY-siXt4gW9UkY-skY-skY-wgWtMgVMYgU8UiX-IhXNggWM8gVcmJGHt1AAAADXRSTlMAnszjFDM00Px2zD5RrTCsJQAAAM9JREFUKJGFkVsSgyAMRUPRgrUJ8tj_WssrgI7S88kZLjcEEC0dxgRPRM7qDModEphI1oRoyWJhaQ5dkibfLQeiuyqJpR4dBnOK3UfXU4mvwcq8G-uamwBsTyw9Ew9zRKiEljF0d1Hyg6mqas7mLoND3Zy7Oi1hiDxNj_gFVXhVPol88gVYboG2BxdqYo-Ua_sza1oT37fEXfirPW9QdGfr3KxQDn_mPfluzs7aQUS2wV1Qsae6Z4M_PESKiYsbmjgxcfLZ4cRNM2MXfU-a4QdkGCSPsnJQ6QAAAABJRU5ErkJggg.png",
+        "date": "Aug 30, 2026",
+        "snippet": "Choosing the best podcast creator tools can streamline your workflow. This comparison analyzes Descript, Zencastr, and Riverside for recording, ...",
+        "snippet_highlighted_words": [
+          "podcast creator",
+          "comparison",
+          "Descript"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Choosing the best podcast creator tools can streamline your workflow. This comparison analyzes Descript, Zencastr, and Riverside for recording, ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESdAHEIkXX9LUAeYrLZ36ZnTlut_uEcp_n6hBLTTjB8w7NkomP_12jXLuPP2Wi40vpC89BWvj43fuQjP-SMWxdlbGHn3ogmUpWMfzZwUvCF63ki5rosnrAv0tzMRwYGclDkSpIvSvtfY8eBefQm9mEW4oVqd6S",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABsAAAAgCAMAAADUt_MJAAAAP1BMVEVHcEwkY-sgVMckY-skW9QkYukgVsskY-wkY-siXt4gW9UkY-skY-skY-wgWtMgVMYgU8UiX-IhXNggWM8gVcmJGHt1AAAADXRSTlMAnszjFDM00Px2zD5RrTCsJQAAAM9JREFUKJGFkVsSgyAMRUPRgrUJ8tj_WssrgI7S88kZLjcEEC0dxgRPRM7qDModEphI1oRoyWJhaQ5dkibfLQeiuyqJpR4dBnOK3UfXU4mvwcq8G-uamwBsTyw9Ew9zRKiEljF0d1Hyg6mqas7mLoND3Zy7Oi1hiDxNj_gFVXhVPol88gVYboG2BxdqYo-Ua_sza1oT37fEXfirPW9QdGfr3KxQDn_mPfluzs7aQUS2wV1Qsae6Z4M_PESKiYsbmjgxcfLZ4cRNM2MXfU-a4QdkGCSPsnJQ6QAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqoBL2dvdG8_dXJsPUNBRVNkQUhFSWtYWDlMVUFlWXJMWjM2Wm5UbHV0X3VFY3BfbjZoQkxUVGpCOHc3TmtvbVBfMTJqWEx1UFAyV2k0MHZwQzg5Qld2ajQzZnVRalAtU01XeGRsYkdIbjNvZ21VcFdNZnpad1V2Q0Y2M2tpNXJvc25yQXYwdHpNUndZR2NsRGtTcEl2U3Z0Zlk4ZUJlZlFtOW1FVzRvVnFkNlMSBBoCCAAa5wYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAwwYIABAAGAAgACpJCghpbmN1YnJpeBUAAAAAGglpbiBjdWJyaXgaCWluY3UgYnJpeBoJaW5jdWIgcml4Gg1pdjtwO2luY3Vicml4Gghpbm5vY3J1eCoVCgJ2cxWpP5pAGgJvchoGdmVyc3VzKikKCGRlc2NyaXB0FfKJlUAaCWRlIHNjcmlwdBoNaXY7cDtkZXNjcmlwdCpeCgpjb21wYXJpc29uFQ8aLj8aCGNoZWFwZXN0Ggdjb21wYXJlGghjb21wYXJlZBoIY29tcGFyZXIaC2NvbXBhcmlzb25zGgpkaWZmZXJlbmNlGgtkaWZmZXJlbmNlcyoKCgNmb3IVAAAAACpMCgpwb2RjYXN0ZXJzFXjM8D8aB3BvZGNhc3QaCXBvZGNhc3RlchoKcG9kY2FzdGluZxoIcG9kY2FzdHMaD2l2O3A7cG9kY2FzdGVycyoKCgNhbmQVAAAAACoqCghjcmVhdG9ycxXQkRBAGgdjcmVhdG9yGglpbnZlbnRvcnMaBW1ha2VyMqoBL2dvdG8_dXJsPUNBRVNkQUhFSWtYWDlMVUFlWXJMWjM2Wm5UbHV0X3VFY3BfbjZoQkxUVGpCOHc3TmtvbVBfMTJqWEx1UFAyV2k0MHZwQzg5Qld2ajQzZnVRalAtU01XeGRsYkdIbjNvZ21VcFdNZnpad1V2Q0Y2M2tpNXJvc25yQXYwdHpNUndZR2NsRGtTcEl2U3Z0Zlk4ZUJlZlFtOW1FVzRvVnFkNlM6TzxiPlBvZGNhc3QgQ3JlYXRvcjwvYj4gVG9vbHM6IDxiPkRlc2NyaXB0IHZzPC9iPi4gWmVuY2FzdHIgPGI-dnM8L2I-LiBSaXZlcnNpZGVCrQFDaG9vc2luZyB0aGUgYmVzdCA8Yj5wb2RjYXN0IGNyZWF0b3I8L2I-IHRvb2xzIGNhbiBzdHJlYW1saW5lIHlvdXIgd29ya2Zsb3cuIFRoaXMgPGI-Y29tcGFyaXNvbjwvYj4gYW5hbHl6ZXMgPGI-RGVzY3JpcHQ8L2I-LCBaZW5jYXN0ciwgYW5kIFJpdmVyc2lkZSBmb3IgcmVjb3JkaW5nLCZuYnNwOy4uLkoDYW5kSgNmb3JSAm9yIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqoBL2dvdG8_dXJsPUNBRVNkQUhFSWtYWDlMVUFlWXJMWjM2Wm5UbHV0X3VFY3BfbjZoQkxUVGpCOHc3TmtvbVBfMTJqWEx1UFAyV2k0MHZwQzg5Qld2ajQzZnVRalAtU01XeGRsYkdIbjNvZ21VcFdNZnpad1V2Q0Y2M2tpNXJvc25yQXYwdHpNUndZR2NsRGtTcEl2U3Z0Zlk4ZUJlZlFtOW1FVzRvVnFkNlMSBBoCCAAa5wYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAwwYIABAAGAAgACpJCghpbmN1YnJpeBUAAAAAGglpbiBjdWJyaXgaCWluY3UgYnJpeBoJaW5jdWIgcml4Gg1pdjtwO2luY3Vicml4Gghpbm5vY3J1eCoVCgJ2cxWpP5pAGgJvchoGdmVyc3VzKikKCGRlc2NyaXB0FfKJlUAaCWRlIHNjcmlwdBoNaXY7cDtkZXNjcmlwdCpeCgpjb21wYXJpc29uFQ8aLj8aCGNoZWFwZXN0Ggdjb21wYXJlGghjb21wYXJlZBoIY29tcGFyZXIaC2NvbXBhcmlzb25zGgpkaWZmZXJlbmNlGgtkaWZmZXJlbmNlcyoKCgNmb3IVAAAAACpMCgpwb2RjYXN0ZXJzFXjM8D8aB3BvZGNhc3QaCXBvZGNhc3RlchoKcG9kY2FzdGluZxoIcG9kY2FzdHMaD2l2O3A7cG9kY2FzdGVycyoKCgNhbmQVAAAAACoqCghjcmVhdG9ycxXQkRBAGgdjcmVhdG9yGglpbnZlbnRvcnMaBW1ha2VyMqoBL2dvdG8_dXJsPUNBRVNkQUhFSWtYWDlMVUFlWXJMWjM2Wm5UbHV0X3VFY3BfbjZoQkxUVGpCOHc3TmtvbVBfMTJqWEx1UFAyV2k0MHZwQzg5Qld2ajQzZnVRalAtU01XeGRsYkdIbjNvZ21VcFdNZnpad1V2Q0Y2M2tpNXJvc25yQXYwdHpNUndZR2NsRGtTcEl2U3Z0Zlk4ZUJlZlFtOW1FVzRvVnFkNlM6TzxiPlBvZGNhc3QgQ3JlYXRvcjwvYj4gVG9vbHM6IDxiPkRlc2NyaXB0IHZzPC9iPi4gWmVuY2FzdHIgPGI-dnM8L2I-LiBSaXZlcnNpZGVCrQFDaG9vc2luZyB0aGUgYmVzdCA8Yj5wb2RjYXN0IGNyZWF0b3I8L2I-IHRvb2xzIGNhbiBzdHJlYW1saW5lIHlvdXIgd29ya2Zsb3cuIFRoaXMgPGI-Y29tcGFyaXNvbjwvYj4gYW5hbHl6ZXMgPGI-RGVzY3JpcHQ8L2I-LCBaZW5jYXN0ciwgYW5kIFJpdmVyc2lkZSBmb3IgcmVjb3JkaW5nLCZuYnNwOy4uLkoDYW5kSgNmb3JSAm9yIgIQAUgAWABoAA",
+        "source": "Big Pond Podcasts"
+      },
+      {
+        "position": 4,
+        "title": "Descript vs Riverside \u2013 Which One's Actually Better for Creators?",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXsJ3hSxyERlo-rt3dNjWO_5LKsMe_Z326Mjj5xwmOXJGNJnGUaFcMrC0QWzEKqTBD8Bzt70JOQa9NxYuLoeBe8imw0-wUUW6UWXScRqVjXGO4YXBtjsiHGYKm8ct6V5fzDeBM&gsessionid=y4e5ikqJTj5hoNlCCbQUBURcCLvn6BlrKHUtSdHkRL91nG6B1JegPw",
+        "displayed_link": "31.8K+ views",
+        "date": "1 year ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f2261f56fa45341b03dd/images/kF5i4xx6U2Z3DIOCL2q14uF0uUBnRsJkzqCRIu-WINM.webp",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "Just switched to Descript for editing because Riverside editing creates out of sync issues, which can be adjusted on some recordings but not ...",
+        "duration": "14:08",
+        "about_this_result": {
+          "source": {
+            "description": "Just switched to Descript for editing because Riverside editing creates out of sync issues, which can be adjusted on some recordings but not ...",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWHNKM2hTeHlFUmxvLXJ0M2ROaldPXzVMS3NNZV9aMzI2TWpqNXh3bU9YSkdOSm5HVWFGY01yQzBRV3pFS3FUQkQ4Qnp0NzBKT1FhOU54WXVMb2VCZThpbXcwLXdVVVc2VVdYU2NScVZqWEdPNFlYQnRqc2lIR1lLbThjdDZWNWZ6RGVCTRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWHNKM2hTeHlFUmxvLXJ0M2ROaldPXzVMS3NNZV9aMzI2TWpqNXh3bU9YSkdOSm5HVWFGY01yQzBRV3pFS3FUQkQ4Qnp0NzBKT1FhOU54WXVMb2VCZThpbXcwLXdVVVc2VVdYU2NScVZqWEdPNFlYQnRqc2lIR1lLbThjdDZWNWZ6RGVCTRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS8ECTIFihkPPjlPFeJg6l8MKtMnFbSlWsPqw",
+        "source": "YouTube \u00b7 Nick Kendall"
+      },
+      {
+        "position": 5,
+        "title": "Is Descript Worth It in 2026? An Honest Pricing Breakdown",
+        "link": "https://www.google.com/goto?url=CAESdwHEIkXXoZ96Jz_WCEtyNDTeCu8mjbmmwjAClTqwepjxDdvyts-24-jcW5u9omq5FwT5Retbtlr_VjoE-MrVVp01Nc2ga7RajTHNXrB7yAHiF1FTjzMcG-2OZdKPxqqMp750oV-TmAn_CodSrfyjjmuANGGiMAu_",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHEIkXXHk1Y97lrDnmN7WvqiNCVp6C2gd2x5CDxIkjYPFnzDjNeI00vP3Dl5xKPAuB0ZdWvur9ukfvVIayJfJR6kVaBFNwR_UqidQ-FmjHLhGEicQJqBSS36fCQTJBAm_OD1_FwqdPt9wGUMVFNLF4MBJzNA5XN&ved=2ahUKEwie1N-b25uYAxVZlIkEHZXhAS8QFnoECBEQAQ&uoh=1",
+        "displayed_link": "https://academy.techpresso.co \u203a AI Tool Reviews",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAilBMVEX_____-fX_-_na2tq_v7_T09Pt7e3_8On_6eD_9e8AAAB5eXmjo6P_WgD_VAD_5tXW1tasrKyBgYH_z7z_WwD_k1pzc3NXV1f_i1P_zK_i4uIYGBj_bxL_9ev7-_uQkJCbm5v_uJv_p3loaGhBQUH_3sn_4NP_gz9MTEyJiYn_oHb_u5f_7uD_2Mmks4EPAAAAl0lEQVR4AeWQxQGEMBQFcXm4u8t6_-XhJJy2ASaeiX7mDrD_JEd6vCDujbSPZUWlywCs0xr0fWyYFnE2AGdp3UN6fkBPdREiusjYT66nphlSIlUjL4gTEJUVaiIbv2UIHepSRF-eMvcH4krs2IccjQeNgINnVVURXod8-x-G0G_fSIFSWy_mTP9LpSiWR5OKSyjU38jcixmTnQmEzhetMgAAAABJRU5ErkJggg.png",
+        "date": "Jul 23, 2026",
+        "snippet": "The $16 Hobbyist tier is the sweet spot for solo podcasters, with 10 media hours and watermark-free 1080p covering a weekly show comfortably.",
+        "snippet_highlighted_words": [
+          "podcasters"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The $16 Hobbyist tier is the sweet spot for solo podcasters, with 10 media hours and watermark-free 1080p covering a weekly show comfortably.",
+            "source_info_link": "https://www.google.com/goto?url=CAESdwHEIkXXoZ96Jz_WCEtyNDTeCu8mjbmmwjAClTqwepjxDdvyts-24-jcW5u9omq5FwT5Retbtlr_VjoE-MrVVp01Nc2ga7RajTHNXrB7yAHiF1FTjzMcG-2OZdKPxqqMp750oV-TmAn_CodSrfyjjmuANGGiMAu_",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAilBMVEX_____-fX_-_na2tq_v7_T09Pt7e3_8On_6eD_9e8AAAB5eXmjo6P_WgD_VAD_5tXW1tasrKyBgYH_z7z_WwD_k1pzc3NXV1f_i1P_zK_i4uIYGBj_bxL_9ev7-_uQkJCbm5v_uJv_p3loaGhBQUH_3sn_4NP_gz9MTEyJiYn_oHb_u5f_7uD_2Mmks4EPAAAAl0lEQVR4AeWQxQGEMBQFcXm4u8t6_-XhJJy2ASaeiX7mDrD_JEd6vCDujbSPZUWlywCs0xr0fWyYFnE2AGdp3UN6fkBPdREiusjYT66nphlSIlUjL4gTEJUVaiIbv2UIHepSRF-eMvcH4krs2IccjQeNgINnVVURXod8-x-G0G_fSIFSWy_mTP9LpSiWR5OKSyjU38jcixmTnQmEzhetMgAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq4BL2dvdG8_dXJsPUNBRVNkd0hFSWtYWG9aOTZKel9XQ0V0eU5EVGVDdThtamJtbXdqQUNsVHF3ZXBqeERkdnl0cy0yNC1qY1c1dTlvbXE1RndUNVJldGJ0bHJfVmpvRS1NclZWcDAxTmMyZ2E3UmFqVEhOWHJCN3lBSGlGMUZUanpNY0ctMk9aZEtQeHFxTXA3NTBvVi1UbUFuX0NvZFNyZnlqam11QU5HR2lNQXVfEgQaAggAGsUGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAnwYIABAAGAAgACpJCghpbmN1YnJpeBUAAAAAGglpbiBjdWJyaXgaCWluY3UgYnJpeBoJaW5jdWIgcml4Gg1pdjtwO2luY3Vicml4Gghpbm5vY3J1eCoVCgJ2cxUor3Q_GgJvchoGdmVyc3VzKikKCGRlc2NyaXB0Fd5WcEAaCWRlIHNjcmlwdBoNaXY7cDtkZXNjcmlwdCpeCgpjb21wYXJpc29uFQAAAAAaCGNoZWFwZXN0Ggdjb21wYXJlGghjb21wYXJlZBoIY29tcGFyZXIaC2NvbXBhcmlzb25zGgpkaWZmZXJlbmNlGgtkaWZmZXJlbmNlcyoKCgNmb3IVAAAAACpMCgpwb2RjYXN0ZXJzFY_eBz8aB3BvZGNhc3QaCXBvZGNhc3RlchoKcG9kY2FzdGluZxoIcG9kY2FzdHMaD2l2O3A7cG9kY2FzdGVycyoKCgNhbmQVAAAAACoqCghjcmVhdG9ycxUfunY-GgdjcmVhdG9yGglpbnZlbnRvcnMaBW1ha2VyMq4BL2dvdG8_dXJsPUNBRVNkd0hFSWtYWG9aOTZKel9XQ0V0eU5EVGVDdThtamJtbXdqQUNsVHF3ZXBqeERkdnl0cy0yNC1qY1c1dTlvbXE1RndUNVJldGJ0bHJfVmpvRS1NclZWcDAxTmMyZ2E3UmFqVEhOWHJCN3lBSGlGMUZUanpNY0ctMk9aZEtQeHFxTXA3NTBvVi1UbUFuX0NvZFNyZnlqam11QU5HR2lNQXVfOkBJcyA8Yj5EZXNjcmlwdDwvYj4gV29ydGggSXQgaW4gMjAyNj8gQW4gSG9uZXN0IFByaWNpbmcgQnJlYWtkb3duQpQBVGhlICQxNiBIb2JieWlzdCB0aWVyIGlzIHRoZSBzd2VldCBzcG90IGZvciBzb2xvIDxiPnBvZGNhc3RlcnM8L2I-LCB3aXRoIDEwIG1lZGlhIGhvdXJzIGFuZCB3YXRlcm1hcmstZnJlZSAxMDgwcCBjb3ZlcmluZyBhIHdlZWtseSBzaG93IGNvbWZvcnRhYmx5LkoDYW5kSgNmb3JSAm9yIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq4BL2dvdG8_dXJsPUNBRVNkd0hFSWtYWG9aOTZKel9XQ0V0eU5EVGVDdThtamJtbXdqQUNsVHF3ZXBqeERkdnl0cy0yNC1qY1c1dTlvbXE1RndUNVJldGJ0bHJfVmpvRS1NclZWcDAxTmMyZ2E3UmFqVEhOWHJCN3lBSGlGMUZUanpNY0ctMk9aZEtQeHFxTXA3NTBvVi1UbUFuX0NvZFNyZnlqam11QU5HR2lNQXVfEgQaAggAGsUGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAnwYIABAAGAAgACpJCghpbmN1YnJpeBUAAAAAGglpbiBjdWJyaXgaCWluY3UgYnJpeBoJaW5jdWIgcml4Gg1pdjtwO2luY3Vicml4Gghpbm5vY3J1eCoVCgJ2cxUor3Q_GgJvchoGdmVyc3VzKikKCGRlc2NyaXB0Fd5WcEAaCWRlIHNjcmlwdBoNaXY7cDtkZXNjcmlwdCpeCgpjb21wYXJpc29uFQAAAAAaCGNoZWFwZXN0Ggdjb21wYXJlGghjb21wYXJlZBoIY29tcGFyZXIaC2NvbXBhcmlzb25zGgpkaWZmZXJlbmNlGgtkaWZmZXJlbmNlcyoKCgNmb3IVAAAAACpMCgpwb2RjYXN0ZXJzFY_eBz8aB3BvZGNhc3QaCXBvZGNhc3RlchoKcG9kY2FzdGluZxoIcG9kY2FzdHMaD2l2O3A7cG9kY2FzdGVycyoKCgNhbmQVAAAAACoqCghjcmVhdG9ycxUfunY-GgdjcmVhdG9yGglpbnZlbnRvcnMaBW1ha2VyMq4BL2dvdG8_dXJsPUNBRVNkd0hFSWtYWG9aOTZKel9XQ0V0eU5EVGVDdThtamJtbXdqQUNsVHF3ZXBqeERkdnl0cy0yNC1qY1c1dTlvbXE1RndUNVJldGJ0bHJfVmpvRS1NclZWcDAxTmMyZ2E3UmFqVEhOWHJCN3lBSGlGMUZUanpNY0ctMk9aZEtQeHFxTXA3NTBvVi1UbUFuX0NvZFNyZnlqam11QU5HR2lNQXVfOkBJcyA8Yj5EZXNjcmlwdDwvYj4gV29ydGggSXQgaW4gMjAyNj8gQW4gSG9uZXN0IFByaWNpbmcgQnJlYWtkb3duQpQBVGhlICQxNiBIb2JieWlzdCB0aWVyIGlzIHRoZSBzd2VldCBzcG90IGZvciBzb2xvIDxiPnBvZGNhc3RlcnM8L2I-LCB3aXRoIDEwIG1lZGlhIGhvdXJzIGFuZCB3YXRlcm1hcmstZnJlZSAxMDgwcCBjb3ZlcmluZyBhIHdlZWtseSBzaG93IGNvbWZvcnRhYmx5LkoDYW5kSgNmb3JSAm9yIgIQAUgAWABoAA",
+        "source": "techpresso.co",
+        "read_more_link": "https://www.google.com/goto?url=CAESzwEBxCJF11DaXO5a5S8OKuf_-tmwB7wuOoxRlK-4rn_RWOYV8H3v7RpztVAnpqxRgci3zp1_zOurVCEzPMZCO1uryEh8MtB4kuzDhh83omqJ7EhaX_BkBJY-SW9xVvSC2p9y_Qgl03b6WJWGZ4QvYbH0_elS315mBeYSK3iX3FQjdq-k5EC9m-lICKIFhGzxMWSBiwR18jCZvOkjlMqOxJrawlaBxYwtzJYfVk_xZGycrgnvQv5G8eDhunyUEjFrap-dPBR0yx_JnqUV6aI4kAM&gsessionid=y4e5ikqJTj5hoNlCCbQUBURcCLvn6BlrKHUtSdHkRL91nG6B1JegPw"
+      },
+      {
+        "position": 6,
+        "title": "Podsqueeze vs Descript - Which AI Podcast Tool is Best in ...",
+        "link": "https://www.google.com/goto?url=CAEScAHEIkXXVtt5Dh8yck472VDF5wns-KD8DU2rGAeOHILPEGMhQ5xjB1F2De05m5P6qvPasHpr0nvCaZifzEwi4sT6v_ik9ORKgBfIirn4BQn7eXX8L00Ord4UFn9HOIkBX4lrV9dnAoP_nV03UAcqETc",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHEIkXXtAZVYMGuliMgWt1ipP8NyYPp2Ww1g-Im0NWR5a4CwF4oFZiVa5YMcLwjdO1NHJTqu9oB-4Pa39sZsJWFvVRozsL55hiNXHHQ7sD3ajo7dYK4QlauCppK_ovKczk7qVR9Z0gQG-Bw_C2p_Ko&ved=2ahUKEwie1N-b25uYAxVZlIkEHZXhAS8QFnoECBYQAQ&uoh=1",
+        "displayed_link": "https://podsqueeze.com \u203a blog \u203a podsqueeze-vs-descript",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAV1BMVEVHcExiN9ZjONpjOdpkOdtkOttjONdkOdtkOtpkOdtkOdpjON1eNN9sQdGWaqSDV7lkOdtcMcvsvy39yxf_zRL_1wCoepG5in3gsUviskLQn19YLuXCk3ZKMhzWAAAAEnRSTlMAHlOgvmo79__oh_______1AmP0JjbAAAA7ElEQVR4AXWSBRIDIRAEF_ec-_3_mxEWko11yUkjQzHwhHEhpRRKwxdcGmtsxikGFCYsxXHiNM4hiJf7VMQy-wuPUj7eQ6yEYnNqlV_TpdJElG13l22e2A-VsVpe0gQ7PeU0FykBfH6Jy7oV9hRQug6kRXtUcB5GctbStDQxhzJxXim4rUKJgQg5scJl61Eqaw7FQaJMF4p9OKPBk7SxUo-i0TXLsszp62LaHGgYx3FaDir1XXJM-5AnlbKDOyIve57n-7JYJOZKoBiIU38rREvE2k-H85DOW0r7UWwtXDGmVR180mnlhfCc1P0GG5Qbfdf-VloAAAAASUVORK5CYII.png",
+        "date": "Aug 13, 2026",
+        "snippet": "Which tool is better for video podcasts? If you need to edit the full-length video podcast, add b-roll, or fix lighting, Descript is the winner.",
+        "snippet_highlighted_words": [
+          "Descript is the winner"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Which tool is better for video podcasts? If you need to edit the full-length video podcast, add b-roll, or fix lighting, Descript is the winner.",
+            "source_info_link": "https://www.google.com/goto?url=CAEScAHEIkXXVtt5Dh8yck472VDF5wns-KD8DU2rGAeOHILPEGMhQ5xjB1F2De05m5P6qvPasHpr0nvCaZifzEwi4sT6v_ik9ORKgBfIirn4BQn7eXX8L00Ord4UFn9HOIkBX4lrV9dnAoP_nV03UAcqETc",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAV1BMVEVHcExiN9ZjONpjOdpkOdtkOttjONdkOdtkOtpkOdtkOdpjON1eNN9sQdGWaqSDV7lkOdtcMcvsvy39yxf_zRL_1wCoepG5in3gsUviskLQn19YLuXCk3ZKMhzWAAAAEnRSTlMAHlOgvmo79__oh_______1AmP0JjbAAAA7ElEQVR4AXWSBRIDIRAEF_ec-_3_mxEWko11yUkjQzHwhHEhpRRKwxdcGmtsxikGFCYsxXHiNM4hiJf7VMQy-wuPUj7eQ6yEYnNqlV_TpdJElG13l22e2A-VsVpe0gQ7PeU0FykBfH6Jy7oV9hRQug6kRXtUcB5GctbStDQxhzJxXim4rUKJgQg5scJl61Eqaw7FQaJMF4p9OKPBk7SxUo-i0TXLsszp62LaHGgYx3FaDir1XXJM-5AnlbKDOyIve57n-7JYJOZKoBiIU38rREvE2k-H85DOW0r7UWwtXDGmVR180mnlhfCc1P0GG5Qbfdf-VloAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUBL2dvdG8_dXJsPUNBRVNjQUhFSWtYWFZ0dDVEaDh5Y2s0NzJWREY1d25zLUtEOERVMnJHQWVPSElMUEVHTWhRNXhqQjFGMkRlMDVtNVA2cXZQYXNIcHIwbnZDYVppZnpFd2k0c1Q2dl9pazlPUktnQmZJaXJuNEJRbjdlWFg4TDAwT3JkNFVGbjlIT0lrQlg0bHJWOWRuQW9QX25WMDNVQWNxRVRjEgQaAggAGsgGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQKQGCAAQABgAIAAqSQoIaW5jdWJyaXgVAAAAABoJaW4gY3Vicml4GglpbmN1IGJyaXgaCWluY3ViIHJpeBoNaXY7cDtpbmN1YnJpeBoIaW5ub2NydXgqFQoCdnMVKEQXQBoCb3IaBnZlcnN1cyopCghkZXNjcmlwdBX6J4RAGglkZSBzY3JpcHQaDWl2O3A7ZGVzY3JpcHQqXgoKY29tcGFyaXNvbhVC9l0_GghjaGVhcGVzdBoHY29tcGFyZRoIY29tcGFyZWQaCGNvbXBhcmVyGgtjb21wYXJpc29ucxoKZGlmZmVyZW5jZRoLZGlmZmVyZW5jZXMqCgoDZm9yFQAAAAAqTAoKcG9kY2FzdGVycxWxx9o-Ggdwb2RjYXN0Gglwb2RjYXN0ZXIaCnBvZGNhc3RpbmcaCHBvZGNhc3RzGg9pdjtwO3BvZGNhc3RlcnMqCgoDYW5kFQAAAAAqKgoIY3JlYXRvcnMVAAAAABoHY3JlYXRvchoJaW52ZW50b3JzGgVtYWtlcjKlAS9nb3RvP3VybD1DQUVTY0FIRUlrWFhWdHQ1RGg4eWNrNDcyVkRGNXducy1LRDhEVTJyR0FlT0hJTFBFR01oUTV4akIxRjJEZTA1bTVQNnF2UGFzSHByMG52Q2FaaWZ6RXdpNHNUNnZfaWs5T1JLZ0JmSWlybjRCUW43ZVhYOEwwME9yZDRVRm45SE9Ja0JYNGxyVjlkbkFvUF9uVjAzVUFjcUVUYzpLUG9kc3F1ZWV6ZSA8Yj52cyBEZXNjcmlwdDwvYj4gLSBXaGljaCBBSSA8Yj5Qb2RjYXN0PC9iPiBUb29sIGlzIEJlc3QgaW4gLi4uQpcBV2hpY2ggdG9vbCBpcyBiZXR0ZXIgZm9yIHZpZGVvIHBvZGNhc3RzPyBJZiB5b3UgbmVlZCB0byBlZGl0IHRoZSBmdWxsLWxlbmd0aCB2aWRlbyBwb2RjYXN0LCBhZGQgYi1yb2xsLCBvciBmaXggbGlnaHRpbmcsIDxiPkRlc2NyaXB0IGlzIHRoZSB3aW5uZXI8L2I-LkoDZm9ySgNhbmRSAm9yIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUBL2dvdG8_dXJsPUNBRVNjQUhFSWtYWFZ0dDVEaDh5Y2s0NzJWREY1d25zLUtEOERVMnJHQWVPSElMUEVHTWhRNXhqQjFGMkRlMDVtNVA2cXZQYXNIcHIwbnZDYVppZnpFd2k0c1Q2dl9pazlPUktnQmZJaXJuNEJRbjdlWFg4TDAwT3JkNFVGbjlIT0lrQlg0bHJWOWRuQW9QX25WMDNVQWNxRVRjEgQaAggAGsgGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQKQGCAAQABgAIAAqSQoIaW5jdWJyaXgVAAAAABoJaW4gY3Vicml4GglpbmN1IGJyaXgaCWluY3ViIHJpeBoNaXY7cDtpbmN1YnJpeBoIaW5ub2NydXgqFQoCdnMVKEQXQBoCb3IaBnZlcnN1cyopCghkZXNjcmlwdBX6J4RAGglkZSBzY3JpcHQaDWl2O3A7ZGVzY3JpcHQqXgoKY29tcGFyaXNvbhVC9l0_GghjaGVhcGVzdBoHY29tcGFyZRoIY29tcGFyZWQaCGNvbXBhcmVyGgtjb21wYXJpc29ucxoKZGlmZmVyZW5jZRoLZGlmZmVyZW5jZXMqCgoDZm9yFQAAAAAqTAoKcG9kY2FzdGVycxWxx9o-Ggdwb2RjYXN0Gglwb2RjYXN0ZXIaCnBvZGNhc3RpbmcaCHBvZGNhc3RzGg9pdjtwO3BvZGNhc3RlcnMqCgoDYW5kFQAAAAAqKgoIY3JlYXRvcnMVAAAAABoHY3JlYXRvchoJaW52ZW50b3JzGgVtYWtlcjKlAS9nb3RvP3VybD1DQUVTY0FIRUlrWFhWdHQ1RGg4eWNrNDcyVkRGNXducy1LRDhEVTJyR0FlT0hJTFBFR01oUTV4akIxRjJEZTA1bTVQNnF2UGFzSHByMG52Q2FaaWZ6RXdpNHNUNnZfaWs5T1JLZ0JmSWlybjRCUW43ZVhYOEwwME9yZDRVRm45SE9Ja0JYNGxyVjlkbkFvUF9uVjAzVUFjcUVUYzpLUG9kc3F1ZWV6ZSA8Yj52cyBEZXNjcmlwdDwvYj4gLSBXaGljaCBBSSA8Yj5Qb2RjYXN0PC9iPiBUb29sIGlzIEJlc3QgaW4gLi4uQpcBV2hpY2ggdG9vbCBpcyBiZXR0ZXIgZm9yIHZpZGVvIHBvZGNhc3RzPyBJZiB5b3UgbmVlZCB0byBlZGl0IHRoZSBmdWxsLWxlbmd0aCB2aWRlbyBwb2RjYXN0LCBhZGQgYi1yb2xsLCBvciBmaXggbGlnaHRpbmcsIDxiPkRlc2NyaXB0IGlzIHRoZSB3aW5uZXI8L2I-LkoDZm9ySgNhbmRSAm9yIgIQAUgAWABoAA",
+        "source": "Podsqueeze AI",
+        "read_more_link": "https://www.google.com/goto?url=CAESxgEBxCJF1ypNtXvqJMAyS8DuvY7bobIZwMlhY_rM4y2-EpjE24ywgxax_pwmeAtLDoHrJ60JkMDLOB9IaQvpsdQvqf_tvGnYETYyQtov8X3IUwrv1zttOmwrxwRapGcacYvY-kTzrMdcg_mogHvEdlPxa2H1AtGWbR5L_mKbhAzC1mKpRk9ymHmhBbtRxmiDhw4HfCGRc6HnHiEYj8IYSTZWnm6XHK5WMVrLiN50sekZt2tIbB1shRk5FFpQctOAHr2U2xA0ou4&gsessionid=y4e5ikqJTj5hoNlCCbQUBURcCLvn6BlrKHUtSdHkRL91nG6B1JegPw"
+      },
+      {
+        "position": 7,
+        "title": "Descript Pricing 2026: Complete Breakdown and Better ...",
+        "link": "https://www.google.com/goto?url=CAESlwEBxCJF19obA-9pNe8-2H2daiJgiYk54Y2ywYKgrXkIxe3elf0S7pbgQjaTY7rPjBOaVjY41s4mxGdrfcfo_Cuu02RIcd_JOFik9wjVmwhVgFeyLPYOHTAJwHqAHQ25E9v0aPyrXcyQS-zQL1uYCHHGbGLGFn3PCl4Wt3vSfV9FB8amzrdftPbEoypShUz41XI50MjlSzLE",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlwEBxCJF1wt5C0VR2clQ08YEHHTH_4v8pQYJEiT0o7VNx4tA-BGC3pe3I30Yg0vE4Yw4k8kS73iLUKF6N7ZHtpivX5ftorKU7WR1S_YGb2LTBtHivIG7Oxl4zrcstEDAh7caKR3wpT_t6EKxLU5vmZ1fUE4EHhBKcDqP6P2AAxoWyq2wgTbMuMg4aRj_GR8EKwH8mbjQXG6Z&ved=2ahUKEwie1N-b25uYAxVZlIkEHZXhAS8QFnoECBUQAQ&uoh=1",
+        "displayed_link": "https://www.guidde.com \u203a knowledge-hub \u203a descript-pr...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAATlBMVEVHcEzLAADLAADLAADLAADLAADLAADLAADLAADLAADKAADLAADIAADROzvy0ND____tvLzOHR3aamr99fXfhobMBwfoqanWWFjjlpb339_5azLQAAAADHRSTlMAMofD5f_CYPEW_z-VIxAGAAABGUlEQVR4AYXTV4KFIAwFUERi4QUvdt3_RofE7rT76ZGemDOZzR2RK2xm3ikrOlOVD6odpXh_sKsv-4gwh8DsPbPw524cGqTEtut7umktNggpA6NqreiSdQCmuZvUN3S6T1kQ6EdZr-1PJNlzRcQLELxuOFxYpbNTwhUrk4abEykzVr70iAcuF1pTPNHfMDfu92mdOeaaVXnGhSSoR0HglABFZq-oV66XEIchQkI8NbOXaXM6VTMBXi6KiApjFUduYw_0k1wyR-ilWL0EzfZcCXoO0KNlen23cI-GPVOySi_-PjICnb8u3rjNltjNwwo0TBp3Pjb5GVtWT1vqWwmFKNQvrPIqIpICIz7t_9L8t6g1mS0ckctv7fAFnb8YCwtuVJwAAAAASUVORK5CYII.png",
+        "date": "Aug 18, 2026",
+        "snippet": "Descript was built for podcasters and YouTube creators. Its strengths lie in long-form content editing, multitrack audio, and tools like filler ...",
+        "snippet_highlighted_words": [
+          "Descript was built for podcasters and YouTube creators"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Descript was built for podcasters and YouTube creators. Its strengths lie in long-form content editing, multitrack audio, and tools like filler ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESlwEBxCJF19obA-9pNe8-2H2daiJgiYk54Y2ywYKgrXkIxe3elf0S7pbgQjaTY7rPjBOaVjY41s4mxGdrfcfo_Cuu02RIcd_JOFik9wjVmwhVgFeyLPYOHTAJwHqAHQ25E9v0aPyrXcyQS-zQL1uYCHHGbGLGFn3PCl4Wt3vSfV9FB8amzrdftPbEoypShUz41XI50MjlSzLE",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAATlBMVEVHcEzLAADLAADLAADLAADLAADLAADLAADLAADLAADKAADLAADIAADROzvy0ND____tvLzOHR3aamr99fXfhobMBwfoqanWWFjjlpb339_5azLQAAAADHRSTlMAMofD5f_CYPEW_z-VIxAGAAABGUlEQVR4AYXTV4KFIAwFUERi4QUvdt3_RofE7rT76ZGemDOZzR2RK2xm3ikrOlOVD6odpXh_sKsv-4gwh8DsPbPw524cGqTEtut7umktNggpA6NqreiSdQCmuZvUN3S6T1kQ6EdZr-1PJNlzRcQLELxuOFxYpbNTwhUrk4abEykzVr70iAcuF1pTPNHfMDfu92mdOeaaVXnGhSSoR0HglABFZq-oV66XEIchQkI8NbOXaXM6VTMBXi6KiApjFUduYw_0k1wyR-ilWL0EzfZcCXoO0KNlen23cI-GPVOySi_-PjICnb8u3rjNltjNwwo0TBp3Pjb5GVtWT1vqWwmFKNQvrPIqIpICIz7t_9L8t6g1mS0ckctv7fAFnb8YCwtuVJwAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtoBL2dvdG8_dXJsPUNBRVNsd0VCeENKRjE5b2JBLTlwTmU4LTJIMmRhaUpnaVlrNTRZMnl3WUtnclhrSXhlM2VsZjBTN3BiZ1FqYVRZN3JQakJPYVZqWTQxczRteEdkcmZjZm9fQ3V1MDJSSWNkX0pPRmlrOXdqVm13aFZnRmV5TFBZT0hUQUp3SHFBSFEyNUU5djBhUHlyWGN5UVMtelFMMXVZQ0hIR2JHTEdGbjNQQ2w0V3QzdlNmVjlGQjhhbXpyZGZ0UGJFb3lwU2hVejQxWEk1ME1qbFN6TEUSBBoCCAAa-QYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA1QYIABAAGAAgACpJCghpbmN1YnJpeBUAAAAAGglpbiBjdWJyaXgaCWluY3UgYnJpeBoJaW5jdWIgcml4Gg1pdjtwO2luY3Vicml4Gghpbm5vY3J1eCoVCgJ2cxUTsVA_GgJvchoGdmVyc3VzKikKCGRlc2NyaXB0FRgSiUAaCWRlIHNjcmlwdBoNaXY7cDtkZXNjcmlwdCpeCgpjb21wYXJpc29uFeoVEj4aCGNoZWFwZXN0Ggdjb21wYXJlGghjb21wYXJlZBoIY29tcGFyZXIaC2NvbXBhcmlzb25zGgpkaWZmZXJlbmNlGgtkaWZmZXJlbmNlcyoKCgNmb3IVAAAAACpMCgpwb2RjYXN0ZXJzFcW4Qz8aB3BvZGNhc3QaCXBvZGNhc3RlchoKcG9kY2FzdGluZxoIcG9kY2FzdHMaD2l2O3A7cG9kY2FzdGVycyoKCgNhbmQVAAAAACoqCghjcmVhdG9ycxUbBnM_GgdjcmVhdG9yGglpbnZlbnRvcnMaBW1ha2VyMtoBL2dvdG8_dXJsPUNBRVNsd0VCeENKRjE5b2JBLTlwTmU4LTJIMmRhaUpnaVlrNTRZMnl3WUtnclhrSXhlM2VsZjBTN3BiZ1FqYVRZN3JQakJPYVZqWTQxczRteEdkcmZjZm9fQ3V1MDJSSWNkX0pPRmlrOXdqVm13aFZnRmV5TFBZT0hUQUp3SHFBSFEyNUU5djBhUHlyWGN5UVMtelFMMXVZQ0hIR2JHTEdGbjNQQ2w0V3QzdlNmVjlGQjhhbXpyZGZ0UGJFb3lwU2hVejQxWEk1ME1qbFN6TEU6PzxiPkRlc2NyaXB0PC9iPiBQcmljaW5nIDIwMjY6IENvbXBsZXRlIEJyZWFrZG93biBhbmQgQmV0dGVyIC4uLkKfATxiPkRlc2NyaXB0IHdhcyBidWlsdCBmb3IgcG9kY2FzdGVycyBhbmQgWW91VHViZSBjcmVhdG9yczwvYj4uIEl0cyBzdHJlbmd0aHMgbGllIGluIGxvbmctZm9ybSBjb250ZW50IGVkaXRpbmcsIG11bHRpdHJhY2sgYXVkaW8sIGFuZCB0b29scyBsaWtlIGZpbGxlciZuYnNwOy4uLkoDZm9ySgNhbmRSAm9yIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtoBL2dvdG8_dXJsPUNBRVNsd0VCeENKRjE5b2JBLTlwTmU4LTJIMmRhaUpnaVlrNTRZMnl3WUtnclhrSXhlM2VsZjBTN3BiZ1FqYVRZN3JQakJPYVZqWTQxczRteEdkcmZjZm9fQ3V1MDJSSWNkX0pPRmlrOXdqVm13aFZnRmV5TFBZT0hUQUp3SHFBSFEyNUU5djBhUHlyWGN5UVMtelFMMXVZQ0hIR2JHTEdGbjNQQ2w0V3QzdlNmVjlGQjhhbXpyZGZ0UGJFb3lwU2hVejQxWEk1ME1qbFN6TEUSBBoCCAAa-QYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA1QYIABAAGAAgACpJCghpbmN1YnJpeBUAAAAAGglpbiBjdWJyaXgaCWluY3UgYnJpeBoJaW5jdWIgcml4Gg1pdjtwO2luY3Vicml4Gghpbm5vY3J1eCoVCgJ2cxUTsVA_GgJvchoGdmVyc3VzKikKCGRlc2NyaXB0FRgSiUAaCWRlIHNjcmlwdBoNaXY7cDtkZXNjcmlwdCpeCgpjb21wYXJpc29uFeoVEj4aCGNoZWFwZXN0Ggdjb21wYXJlGghjb21wYXJlZBoIY29tcGFyZXIaC2NvbXBhcmlzb25zGgpkaWZmZXJlbmNlGgtkaWZmZXJlbmNlcyoKCgNmb3IVAAAAACpMCgpwb2RjYXN0ZXJzFcW4Qz8aB3BvZGNhc3QaCXBvZGNhc3RlchoKcG9kY2FzdGluZxoIcG9kY2FzdHMaD2l2O3A7cG9kY2FzdGVycyoKCgNhbmQVAAAAACoqCghjcmVhdG9ycxUbBnM_GgdjcmVhdG9yGglpbnZlbnRvcnMaBW1ha2VyMtoBL2dvdG8_dXJsPUNBRVNsd0VCeENKRjE5b2JBLTlwTmU4LTJIMmRhaUpnaVlrNTRZMnl3WUtnclhrSXhlM2VsZjBTN3BiZ1FqYVRZN3JQakJPYVZqWTQxczRteEdkcmZjZm9fQ3V1MDJSSWNkX0pPRmlrOXdqVm13aFZnRmV5TFBZT0hUQUp3SHFBSFEyNUU5djBhUHlyWGN5UVMtelFMMXVZQ0hIR2JHTEdGbjNQQ2w0V3QzdlNmVjlGQjhhbXpyZGZ0UGJFb3lwU2hVejQxWEk1ME1qbFN6TEU6PzxiPkRlc2NyaXB0PC9iPiBQcmljaW5nIDIwMjY6IENvbXBsZXRlIEJyZWFrZG93biBhbmQgQmV0dGVyIC4uLkKfATxiPkRlc2NyaXB0IHdhcyBidWlsdCBmb3IgcG9kY2FzdGVycyBhbmQgWW91VHViZSBjcmVhdG9yczwvYj4uIEl0cyBzdHJlbmd0aHMgbGllIGluIGxvbmctZm9ybSBjb250ZW50IGVkaXRpbmcsIG11bHRpdHJhY2sgYXVkaW8sIGFuZCB0b29scyBsaWtlIGZpbGxlciZuYnNwOy4uLkoDZm9ySgNhbmRSAm9yIgIQAUgAWABoAA",
+        "source": "Guidde",
+        "read_more_link": "https://www.google.com/goto?url=CAES-wEBxCJF18gZjNcmBF1MVFSKf4hH8zr_i36r8OUX9OpB_H13QJ2QArRPHWGbzut5WAXSniBACQGFj3WxztJiysnkKg733Zz7bIn7nDpIpZ12SDSX_hp1npPo4tGGF_he9ROgSWZ7Yxh0LzO_0cFkBadDYZYy0pbsMwt0MNf7VMnfjwH1iqFZK2_fq7pJaNVtCw2N7YsgteyfHQ0jf8DJgQrC6xGouvf8ELjdvLocA1lxTMwln8vmbehtpsz3f67hP4dzc1T2dwY9jGsyKjcyw2jXfJf7m-cw8pvrqgoOhLILEEE-QZpuJcqCFTETIn1r9mjCBykXCyKXMS6v6Q&gsessionid=y4e5ikqJTj5hoNlCCbQUBURcCLvn6BlrKHUtSdHkRL91nG6B1JegPw"
+      },
+      {
+        "position": 8,
+        "title": "Descript vs Adobe Podcast: 2026 Software Comparison",
+        "link": "https://www.google.com/goto?url=CAEShwEBxCJF1wpsOeg-ejNbKwiD4YZ26rsgoGFTvlepWqLRXlO6yQkotDT5rbxvQ6UbuOiIcJJOuf2KD067m-3DDEV-YO9wKO6IhCp6phclwohbjA_YYhvv8UaeVLSmosJyrv95HuAPydXuZP0maIWy6HYrVYPQy8eH05f0aOIvZrMVCTzStT9K2Uk",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShwEBxCJF1wc-UcLczw3q8rMR_htK3-4Z9lWFaGt67pD6o1MYJcgqBhtti8MNcDYZKxp9n_h3RPv4PJdnER6E6aR5f6eKop5GRsJifz56WrzeAqLoTLTSJYohoLZKRYN2xzLN4bo_mggknNxzVTjFSBcWysChRWUxuFahri1I8Q00bAajnwssdeo&ved=2ahUKEwie1N-b25uYAxVZlIkEHZXhAS8QFnoECEgQAQ&uoh=1",
+        "displayed_link": "https://podcastbud.com \u203a Blog \u203a Comparisons",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAwFBMVEX____4_f625vRmyeg_u-MxsuISqtxDuORrxuu54_bx-v180usfstwUqN0Vpt4Xpt8YpOCCze-U2-4QrdsZo-AcoeKa1fJNw-MeoONkvOza8_kzu98enuNCrOjY7vsfneQhnOXt9_1Wsezm9PwjmeaYzvSr3PUml-gmlul-wPIplOrB4Pkpk-sske1ZqfBGnu_F6PfJ5PpIoO0tj-0uj-6Px_RgpPRHsOgwjO-Eu_VKqesxivCSwfhQm_Ou0fl7tvU3mB1UAAABrUlEQVR4AWWRVYLDIBRFb93dnUgbWpK66_53NRAIZNrzezk8gyGRTKUz2Wwmly8k8EuxVM5ms5VKtVqr1WuN4lecaJZbLZFXRN5ud9rdxD-9J2Lli7zT7w-K0AxHLe3XVT4eT6baH8V8nc_IxFL1e9qvFCyrUAtzwrETEDS1X3HAcdqhT1zXnYNjmf4XCFmIXDzwXFGkZOqrmpbyPY8ugWJsfigIkQ8opUUkY_1DEfl0tWJImfnjD1TuL5GOzQ-Fq_NgjbLZf_yBzP1gg6z0t1u-Pyi4v9sJn4OsrG-h3u9HY3reHo7wg0OAjPy_gEF_HC3KozaY8A_HDXKyfheN8bgjV-1SesJJ-MfjGXnZ3yXh9GekzyyLEUo9J7EP8-sNBXXfBgpEz89wEjl_wFCsq_tPwcYy3zNMpX89JoC8zMlkCmtuu8Q-WZjupc8rAFa7r-4_h2Luhz7HAqfRj-5_PzGAndaB8h9PCIoXc38KiPml_zgnEOJ09P1XgK_9lwXFdKzvt9tp_ziFxrKj-xr_bCHOgojc1A_e-KJ48ox_fBbxS4Ld1psgeJ0_LAHNH5VCWQXW5r5uAAAAAElFTkSuQmCC.png",
+        "date": "Mar 3, 2026",
+        "snippet": "Descript offers a user-friendly transcription and editing interface, while Adobe Podcast excels in advanced audio enhancement and integration ...",
+        "snippet_highlighted_words": [
+          "Descript offers a user-friendly transcription and editing interface"
+        ],
+        "sitelinks": {
+          "inline": [
+            {
+              "title": "Why This Comparison Matters...",
+              "link": "https://www.google.com/goto?url=CAESvgEBxCJF14mlbwkKpPWLm-paipv4eJh7T4egNjH5NEJBYBp4m0nlV5mM8_y6CyMJ0Kc0ZC3YZDVqAipD7VHOzL1InAx_yHfjEBGyVzqZqWkYMnzNGBM9mEXD8FFULB8M6Fm-EMNGwjOKy1TT0JLARkEsQuRhI0bMDrumRlgaI8Nx_WNFeL5jRw-qeFsTHyXA4iqfnYgBqsCYwQapMC1KKuNeg3OyBGEgAP_nTIoOyjJ6z95KEUxMmlJ_etIt3zWm&gsessionid=y4e5ikqJTj5hoNlCCbQUBURcCLvn6BlrKHUtSdHkRL91nG6B1JegPw"
+            },
+            {
+              "title": "Descript Vs Adobe Podcast...",
+              "link": "https://www.google.com/goto?url=CAESygEBxCJF1-cChNh7C39lHdKqZFHJkfyHK2QmZr8eZmdFMX0aoUClNphk9rGFlgMxdBEvAdwN3f3JSSyyWscTUqFR2LvnCU6H78bi3QqhwsNt0pFWWS_689PNueEYCDNjEYlhjIYNv7rB6vfPX9692kRuVhwfHJw9gR7uN6HGW2KgcWUR-qMeszz_B0aoOfn0c-RLRFqXB_hS4k1BS-amIKmu8SYYSpsG5qly2aTm89jtb3deb1bnyv8uQf2L3FSFJKYJjdk68OBq64aM&gsessionid=y4e5ikqJTj5hoNlCCbQUBURcCLvn6BlrKHUtSdHkRL91nG6B1JegPw"
+            },
+            {
+              "title": "Common Questions",
+              "link": "https://www.google.com/goto?url=CAESogEBxCJF15iVFShVELBmiwaapyZjqHDeoPaHnsMdcCLV_Ew8weW4XQkUH4IjrPSvaTpEEEI_iAvV98q_NK9t-4OUjQuoyVYS-TfBGiYCbBnjz1kHQzsbpILy-44rInsT7N5ZyU6edd1pKjU57E3rCUbK5eBgVeAv90WBbqYuLr0iqPL4kQWuJKbSexAeQ2ppUeMCI-QjKwXgvBYKBRvQnIZGX28&gsessionid=y4e5ikqJTj5hoNlCCbQUBURcCLvn6BlrKHUtSdHkRL91nG6B1JegPw"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Descript offers a user-friendly transcription and editing interface, while Adobe Podcast excels in advanced audio enhancement and integration ...",
+            "source_info_link": "https://www.google.com/goto?url=CAEShwEBxCJF1wpsOeg-ejNbKwiD4YZ26rsgoGFTvlepWqLRXlO6yQkotDT5rbxvQ6UbuOiIcJJOuf2KD067m-3DDEV-YO9wKO6IhCp6phclwohbjA_YYhvv8UaeVLSmosJyrv95HuAPydXuZP0maIWy6HYrVYPQy8eH05f0aOIvZrMVCTzStT9K2Uk",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAwFBMVEX____4_f625vRmyeg_u-MxsuISqtxDuORrxuu54_bx-v180usfstwUqN0Vpt4Xpt8YpOCCze-U2-4QrdsZo-AcoeKa1fJNw-MeoONkvOza8_kzu98enuNCrOjY7vsfneQhnOXt9_1Wsezm9PwjmeaYzvSr3PUml-gmlul-wPIplOrB4Pkpk-sske1ZqfBGnu_F6PfJ5PpIoO0tj-0uj-6Px_RgpPRHsOgwjO-Eu_VKqesxivCSwfhQm_Ou0fl7tvU3mB1UAAABrUlEQVR4AWWRVYLDIBRFb93dnUgbWpK66_53NRAIZNrzezk8gyGRTKUz2Wwmly8k8EuxVM5ms5VKtVqr1WuN4lecaJZbLZFXRN5ud9rdxD-9J2Lli7zT7w-K0AxHLe3XVT4eT6baH8V8nc_IxFL1e9qvFCyrUAtzwrETEDS1X3HAcdqhT1zXnYNjmf4XCFmIXDzwXFGkZOqrmpbyPY8ugWJsfigIkQ8opUUkY_1DEfl0tWJImfnjD1TuL5GOzQ-Fq_NgjbLZf_yBzP1gg6z0t1u-Pyi4v9sJn4OsrG-h3u9HY3reHo7wg0OAjPy_gEF_HC3KozaY8A_HDXKyfheN8bgjV-1SesJJ-MfjGXnZ3yXh9GekzyyLEUo9J7EP8-sNBXXfBgpEz89wEjl_wFCsq_tPwcYy3zNMpX89JoC8zMlkCmtuu8Q-WZjupc8rAFa7r-4_h2Luhz7HAqfRj-5_PzGAndaB8h9PCIoXc38KiPml_zgnEOJ09P1XgK_9lwXFdKzvt9tp_ziFxrKj-xr_bCHOgojc1A_e-KJ48ox_fBbxS4Ld1psgeJ0_LAHNH5VCWQXW5r5uAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsUBL2dvdG8_dXJsPUNBRVNod0VCeENKRjF3cHNPZWctZWpOYkt3aUQ0WVoyNnJzZ29HRlR2bGVwV3FMUlhsTzZ5UWtvdERUNXJieHZRNlVidU9pSWNKSk91ZjJLRDA2N20tM0RERVYtWU85d0tPNkloQ3A2cGhjbHdvaGJqQV9ZWWh2djhVYWVWTFNtb3NKeXJ2OTVIdUFQeWRYdVpQMG1hSVd5NkhZclZZUFF5OGVIMDVmMGFPSXZack1WQ1R6U3RUOUsyVWsSBBoCCAAa8QYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgIIAXoAgkDLBggAEAAYACAAKkkKCGluY3Vicml4FQAAAAAaCWluIGN1YnJpeBoJaW5jdSBicml4GglpbmN1YiByaXgaDWl2O3A7aW5jdWJyaXgaCGlubm9jcnV4KhUKAnZzFSjpqkAaAm9yGgZ2ZXJzdXMqKQoIZGVzY3JpcHQVaOPgQBoJZGUgc2NyaXB0Gg1pdjtwO2Rlc2NyaXB0Kl4KCmNvbXBhcmlzb24V4sKrQBoIY2hlYXBlc3QaB2NvbXBhcmUaCGNvbXBhcmVkGghjb21wYXJlchoLY29tcGFyaXNvbnMaCmRpZmZlcmVuY2UaC2RpZmZlcmVuY2VzKgoKA2ZvchUAAAAAKkwKCnBvZGNhc3RlcnMVoFeZPxoHcG9kY2FzdBoJcG9kY2FzdGVyGgpwb2RjYXN0aW5nGghwb2RjYXN0cxoPaXY7cDtwb2RjYXN0ZXJzKgoKA2FuZBUAAAAAKioKCGNyZWF0b3JzFbXVTj8aB2NyZWF0b3IaCWludmVudG9ycxoFbWFrZXIyxQEvZ290bz91cmw9Q0FFU2h3RUJ4Q0pGMXdwc09lZy1lak5iS3dpRDRZWjI2cnNnb0dGVHZsZXBXcUxSWGxPNnlRa290RFQ1cmJ4dlE2VWJ1T2lJY0pKT3VmMktEMDY3bS0zRERFVi1ZTzl3S082SWhDcDZwaGNsd29oYmpBX1lZaHZ2OFVhZVZMU21vc0p5cnY5NUh1QVB5ZFh1WlAwbWFJV3k2SFlyVllQUXk4ZUgwNWYwYU9JdlpyTVZDVHpTdFQ5SzJVazpMPGI-RGVzY3JpcHQgdnM8L2I-IEFkb2JlIDxiPlBvZGNhc3Q8L2I-OiAyMDI2IDxiPkNvbXBhcmlzb248L2I-IC0gUG9kY2FzdEJ1ZEKdATxiPkRlc2NyaXB0IG9mZmVycyBhIHVzZXItZnJpZW5kbHkgdHJhbnNjcmlwdGlvbiBhbmQgZWRpdGluZyBpbnRlcmZhY2U8L2I-LCB3aGlsZSBBZG9iZSBQb2RjYXN0IGV4Y2VscyBpbiBhZHZhbmNlZCBhdWRpbyBlbmhhbmNlbWVudCBhbmQgaW50ZWdyYXRpb24mbmJzcDsuLi5KA2ZvckoDYW5kUgJvciICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsUBL2dvdG8_dXJsPUNBRVNod0VCeENKRjF3cHNPZWctZWpOYkt3aUQ0WVoyNnJzZ29HRlR2bGVwV3FMUlhsTzZ5UWtvdERUNXJieHZRNlVidU9pSWNKSk91ZjJLRDA2N20tM0RERVYtWU85d0tPNkloQ3A2cGhjbHdvaGJqQV9ZWWh2djhVYWVWTFNtb3NKeXJ2OTVIdUFQeWRYdVpQMG1hSVd5NkhZclZZUFF5OGVIMDVmMGFPSXZack1WQ1R6U3RUOUsyVWsSBBoCCAAa8QYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgIIAXoAgkDLBggAEAAYACAAKkkKCGluY3Vicml4FQAAAAAaCWluIGN1YnJpeBoJaW5jdSBicml4GglpbmN1YiByaXgaDWl2O3A7aW5jdWJyaXgaCGlubm9jcnV4KhUKAnZzFSjpqkAaAm9yGgZ2ZXJzdXMqKQoIZGVzY3JpcHQVaOPgQBoJZGUgc2NyaXB0Gg1pdjtwO2Rlc2NyaXB0Kl4KCmNvbXBhcmlzb24V4sKrQBoIY2hlYXBlc3QaB2NvbXBhcmUaCGNvbXBhcmVkGghjb21wYXJlchoLY29tcGFyaXNvbnMaCmRpZmZlcmVuY2UaC2RpZmZlcmVuY2VzKgoKA2ZvchUAAAAAKkwKCnBvZGNhc3RlcnMVoFeZPxoHcG9kY2FzdBoJcG9kY2FzdGVyGgpwb2RjYXN0aW5nGghwb2RjYXN0cxoPaXY7cDtwb2RjYXN0ZXJzKgoKA2FuZBUAAAAAKioKCGNyZWF0b3JzFbXVTj8aB2NyZWF0b3IaCWludmVudG9ycxoFbWFrZXIyxQEvZ290bz91cmw9Q0FFU2h3RUJ4Q0pGMXdwc09lZy1lak5iS3dpRDRZWjI2cnNnb0dGVHZsZXBXcUxSWGxPNnlRa290RFQ1cmJ4dlE2VWJ1T2lJY0pKT3VmMktEMDY3bS0zRERFVi1ZTzl3S082SWhDcDZwaGNsd29oYmpBX1lZaHZ2OFVhZVZMU21vc0p5cnY5NUh1QVB5ZFh1WlAwbWFJV3k2SFlyVllQUXk4ZUgwNWYwYU9JdlpyTVZDVHpTdFQ5SzJVazpMPGI-RGVzY3JpcHQgdnM8L2I-IEFkb2JlIDxiPlBvZGNhc3Q8L2I-OiAyMDI2IDxiPkNvbXBhcmlzb248L2I-IC0gUG9kY2FzdEJ1ZEKdATxiPkRlc2NyaXB0IG9mZmVycyBhIHVzZXItZnJpZW5kbHkgdHJhbnNjcmlwdGlvbiBhbmQgZWRpdGluZyBpbnRlcmZhY2U8L2I-LCB3aGlsZSBBZG9iZSBQb2RjYXN0IGV4Y2VscyBpbiBhZHZhbmNlZCBhdWRpbyBlbmhhbmNlbWVudCBhbmQgaW50ZWdyYXRpb24mbmJzcDsuLi5KA2ZvckoDYW5kUgJvciICEAFIAFgAaAA",
+        "source": "PodcastBud",
+        "read_more_link": "https://www.google.com/goto?url=CAESgAIBxCJF10-4Umj3EVMzwdjfNd2SfcCdKMAI0b07EcRsO_EJUd546eS8Sx1FUQKss9FV0CMiFbd8SLX9cl45k94iqZ8F0mWgwHM86hAKm_366xjAAfSLJsaN9N7P6n278KE4JdqGsuOs4KAC_YB97PRRP5hcdzaWFoJgYLG17OKZ61l4aoObqrtUZS7rVTOdhZE4k9puq_hsOdKARLCtG3WhhIoMXqujlTSFTdusi4ClsmRBE5Q40iDOIDeTeR9B04xbtb_32V97jhOQsgb1BK8ZwVgMuwWA8FGhZopLpl96H7cJVZi-W6n1O33Z2gRf8w5A6ZBrAtvEdFB1W7P_Oc8f&gsessionid=y4e5ikqJTj5hoNlCCbQUBURcCLvn6BlrKHUtSdHkRL91nG6B1JegPw"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "Incubrix vs descript comparison for podcasters and creators youtube",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhhQXCtv3b3McsUM2HQK-OMum_A6A:1795355175289&q=Incubrix+vs+descript+comparison+for+podcasters+and+creators+youtube&sa=X&ved=2ahUKEwie1N-b25uYAxVZlIkEHZXhAS8Q1QJ6BAhFEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Incubrix+vs+descript+comparison+for+podcasters+and+creators+youtube"
+      },
+      {
+        "block_position": 1,
+        "query": "Riverside vs Descript",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhhQXCtv3b3McsUM2HQK-OMum_A6A:1795355175289&q=Riverside+vs+Descript&sa=X&ved=2ahUKEwie1N-b25uYAxVZlIkEHZXhAS8Q1QJ6BAhGEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Riverside+vs+Descript"
+      },
+      {
+        "block_position": 1,
+        "query": "Descript vs",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhhQXCtv3b3McsUM2HQK-OMum_A6A:1795355175289&q=Descript+vs&sa=X&ved=2ahUKEwie1N-b25uYAxVZlIkEHZXhAS8Q1QJ6BAhEEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Descript+vs"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=IncuBrix+vs+Descript+comparison+for+podcasters+and+creators&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhhQXCtv3b3McsUM2HQK-OMum_A6A:1795355175289&ei=J_ICa96kEdmoptQPlcOH-AI&start=10&sa=N&sstk=AYl2yk_p9dpx62DgzbT47YtpdkeRMWKw_mAs83OcvTX6UYFW7BcZJLTXmfMGWB2CJGBlDypWJnd1r3U-RjZ8o93FvXTA9f31Kk_sQA&ved=2ahUKEwie1N-b25uYAxVZlIkEHZXhAS8Q8NMDegQIQhAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=IncuBrix+vs+Descript+comparison+for+podcasters+and+creators&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhhQXCtv3b3McsUM2HQK-OMum_A6A:1795355175289&ei=J_ICa96kEdmoptQPlcOH-AI&start=10&sa=N&sstk=AYl2yk_p9dpx62DgzbT47YtpdkeRMWKw_mAs83OcvTX6UYFW7BcZJLTXmfMGWB2CJGBlDypWJnd1r3U-RjZ8o93FvXTA9f31Kk_sQA&ved=2ahUKEwie1N-b25uYAxVZlIkEHZXhAS8Q8tMDegQIQhAE",
+        "3": "https://www.google.com/search?q=IncuBrix+vs+Descript+comparison+for+podcasters+and+creators&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhhQXCtv3b3McsUM2HQK-OMum_A6A:1795355175289&ei=J_ICa96kEdmoptQPlcOH-AI&start=20&sa=N&sstk=AYl2yk_p9dpx62DgzbT47YtpdkeRMWKw_mAs83OcvTX6UYFW7BcZJLTXmfMGWB2CJGBlDypWJnd1r3U-RjZ8o93FvXTA9f31Kk_sQA&ved=2ahUKEwie1N-b25uYAxVZlIkEHZXhAS8Q8tMDegQIQhAG",
+        "4": "https://www.google.com/search?q=IncuBrix+vs+Descript+comparison+for+podcasters+and+creators&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhhQXCtv3b3McsUM2HQK-OMum_A6A:1795355175289&ei=J_ICa96kEdmoptQPlcOH-AI&start=30&sa=N&sstk=AYl2yk_p9dpx62DgzbT47YtpdkeRMWKw_mAs83OcvTX6UYFW7BcZJLTXmfMGWB2CJGBlDypWJnd1r3U-RjZ8o93FvXTA9f31Kk_sQA&ved=2ahUKEwie1N-b25uYAxVZlIkEHZXhAS8Q8tMDegQIQhAI",
+        "5": "https://www.google.com/search?q=IncuBrix+vs+Descript+comparison+for+podcasters+and+creators&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhhQXCtv3b3McsUM2HQK-OMum_A6A:1795355175289&ei=J_ICa96kEdmoptQPlcOH-AI&start=40&sa=N&sstk=AYl2yk_p9dpx62DgzbT47YtpdkeRMWKw_mAs83OcvTX6UYFW7BcZJLTXmfMGWB2CJGBlDypWJnd1r3U-RjZ8o93FvXTA9f31Kk_sQA&ved=2ahUKEwie1N-b25uYAxVZlIkEHZXhAS8Q8tMDegQIQhAK",
+        "6": "https://www.google.com/search?q=IncuBrix+vs+Descript+comparison+for+podcasters+and+creators&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhhQXCtv3b3McsUM2HQK-OMum_A6A:1795355175289&ei=J_ICa96kEdmoptQPlcOH-AI&start=50&sa=N&sstk=AYl2yk_p9dpx62DgzbT47YtpdkeRMWKw_mAs83OcvTX6UYFW7BcZJLTXmfMGWB2CJGBlDypWJnd1r3U-RjZ8o93FvXTA9f31Kk_sQA&ved=2ahUKEwie1N-b25uYAxVZlIkEHZXhAS8Q8tMDegQIQhAM",
+        "7": "https://www.google.com/search?q=IncuBrix+vs+Descript+comparison+for+podcasters+and+creators&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhhQXCtv3b3McsUM2HQK-OMum_A6A:1795355175289&ei=J_ICa96kEdmoptQPlcOH-AI&start=60&sa=N&sstk=AYl2yk_p9dpx62DgzbT47YtpdkeRMWKw_mAs83OcvTX6UYFW7BcZJLTXmfMGWB2CJGBlDypWJnd1r3U-RjZ8o93FvXTA9f31Kk_sQA&ved=2ahUKEwie1N-b25uYAxVZlIkEHZXhAS8Q8tMDegQIQhAO",
+        "8": "https://www.google.com/search?q=IncuBrix+vs+Descript+comparison+for+podcasters+and+creators&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhhQXCtv3b3McsUM2HQK-OMum_A6A:1795355175289&ei=J_ICa96kEdmoptQPlcOH-AI&start=70&sa=N&sstk=AYl2yk_p9dpx62DgzbT47YtpdkeRMWKw_mAs83OcvTX6UYFW7BcZJLTXmfMGWB2CJGBlDypWJnd1r3U-RjZ8o93FvXTA9f31Kk_sQA&ved=2ahUKEwie1N-b25uYAxVZlIkEHZXhAS8Q8tMDegQIQhAQ",
+        "9": "https://www.google.com/search?q=IncuBrix+vs+Descript+comparison+for+podcasters+and+creators&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhhQXCtv3b3McsUM2HQK-OMum_A6A:1795355175289&ei=J_ICa96kEdmoptQPlcOH-AI&start=80&sa=N&sstk=AYl2yk_p9dpx62DgzbT47YtpdkeRMWKw_mAs83OcvTX6UYFW7BcZJLTXmfMGWB2CJGBlDypWJnd1r3U-RjZ8o93FvXTA9f31Kk_sQA&ved=2ahUKEwie1N-b25uYAxVZlIkEHZXhAS8Q8tMDegQIQhAS",
+        "10": "https://www.google.com/search?q=IncuBrix+vs+Descript+comparison+for+podcasters+and+creators&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhhQXCtv3b3McsUM2HQK-OMum_A6A:1795355175289&ei=J_ICa96kEdmoptQPlcOH-AI&start=90&sa=N&sstk=AYl2yk_p9dpx62DgzbT47YtpdkeRMWKw_mAs83OcvTX6UYFW7BcZJLTXmfMGWB2CJGBlDypWJnd1r3U-RjZ8o93FvXTA9f31Kk_sQA&ved=2ahUKEwie1N-b25uYAxVZlIkEHZXhAS8Q8tMDegQIQhAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=IncuBrix+vs+Descript+comparison+for+podcasters+and+creators&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=IncuBrix+vs+Descript+comparison+for+podcasters+and+creators&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=IncuBrix+vs+Descript+comparison+for+podcasters+and+creators&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=IncuBrix+vs+Descript+comparison+for+podcasters+and+creators&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=IncuBrix+vs+Descript+comparison+for+podcasters+and+creators&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=IncuBrix+vs+Descript+comparison+for+podcasters+and+creators&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=IncuBrix+vs+Descript+comparison+for+podcasters+and+creators&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=IncuBrix+vs+Descript+comparison+for+podcasters+and+creators&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=IncuBrix+vs+Descript+comparison+for+podcasters+and+creators&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=IncuBrix+vs+Descript+comparison+for+podcasters+and+creators&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=IncuBrix+vs+Descript+comparison+for+podcasters+and+creators&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

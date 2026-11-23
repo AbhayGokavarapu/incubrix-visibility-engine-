@@ -1,0 +1,503 @@
+{
+  "measurement_id": "3192ced7a2c9",
+  "question_id": "Q094",
+  "timestamp_utc": "2026-11-22T13:51:21.519970+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "How to automatically extract key quotes from long interview videos",
+  "market": "US",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [
+    "Descript"
+  ],
+  "position": null,
+  "citations": [
+    "https://www.reddit.com/r/SaaS/comments/1nps5qz/looking_for_ai_tools_to_chat_with_longform_videos/",
+    "https://vidnotes.app/blog/126-How-to-Extract-Quotes-from-Videos",
+    "https://www.google.com/goto?url=CAESpwEBxCJF14EJOPILUF6q2L-5bKhs2NUCErVSEp2xrWAeqy3cHw415IiLmlQGoq0yuzT-3wMjGqBUpPABj4PR-05G5uf9HYq95iZ6ykcBia1qPOMiwRpQ8m8-wX14I3tSxngclDMTz2J9ipMconEujoz1Ldwuwu3U49iLx9BYpnXSKokQoOgdYInx4NKdBT1TAzvoyBqcREZkp35n9B0x0AdHmvUJ1EZD4Q",
+    "https://www.google.com/goto?url=CAESYAHEIkXXlcigZthDOlpTGBuA9TRCpKh_yvCaXsyz8fYQtdYWA4mj16zhihr2thvOku-tL3jRc3uur3L45P7unatnd1Yya31OPUoL0NbhkLOCBhFkwfPKaYR1pTNkkad1Zg",
+    "https://www.google.com/goto?url=CAEShwEBxCJF13DSBfpVQxG8MLb2NDGtvfmlWEpQvi9z1VVZizxlS6sLG6zTDcVuUrHEFdixvVxVLYvE5KmClj_EPFP5AI2sBlQFom8dGxhQCMhxuXQuuCaNL323bXoHazONGUkiNa6U4w4jAZzv_jvGEHfVhQkF_20sUq4s3EyTKTYbbTfzA8YdAKg",
+    "https://www.google.com/goto?url=CAESZQHEIkXXrOaVkE6jxI7GLi_zdJ2okCY5baaWO2M5t64ojzAdyF3Pmx4QlgxMmdg9Un_uOEvFlsFIku-V6_lAFCViuwG__TUzppLWLmR7627WiN_Ky4fh4el-8_UlRnRFgmqXjnDc",
+    "https://www.google.com/goto?url=CAESdAHEIkXXViuHcpZh0iorJgwWevnCuG0yIh1uuPxRTxFGHBlWS7IazleQhCmEeUJc-zU9HUrdmv8A7MzC_7mnKkPEAgwtsGqJ5agI7BOuQrVBJrbbohsOx1vdfZ-8ju8w3og8KzWBjCatVaMbbStplFNTbQwx",
+    "https://www.google.com/goto?url=CAESoAEBxCJF1_Bgg1b2emqdu4_y6XrXETOrJGaaMcUcJTZdiGEX_Sa-Cr6gUUhm2aotFChwisQgPKeS48Jld8IHieSrqWXey_Ky-NV1KD6y6bWzScyI4icqRaEkID62ZpjkXltUig0xqEUw-pnKToZIdcvpVuSPmvzi5ofhtdMmXkhiKnBd00-euDzSXZyPLq8tvEMRGo9Ggks-vvdt0U1ysANL"
+  ],
+  "raw_text_summary": "Looking for AI tools to chat with long-form videos and ... Descript actually has an AI tool that will pick out clips based on a keyword you choose. Hunt around for that! You can also just do a search for ... How to Extract Quotes from Videos: The Complete Guide ... Turn your video content into quotable text using AI transcription. For journalists, creators, researchers, and social media managers. Top 10 Tools to Automatically Extract Key Moments from ... Chopcast's AI identifies conversation shifts, strong emotions, and key quotes in videos, making it perfect for clipping important highlights. Free AI Video Summarizer & Describer Summarize MP4, MOV, and other videos with Decopy's AI video summarizer. Get transcripts, key points, and visual insights free with no sign-up. How to Use AI to Get Instant Takeaways from a Podcast or ... So today, I want to share how you can use AI to get instant takeaways and quotes from long podcasts and videos in seconds instead of hours. Video Summarizer: Key Points and Timestamps Summarize a video in ChatCut using its visuals and transcript. Ask for key points and timestamps, review them against the source, then continue your edit. AI Interview Clip Generator \u2014 Extract Quotable Moments ... Extract the best quotes and moments from any interview video with AI. Step-by-step guide to interview clip generation \u2014 free tool included. Free AI Clip Maker for Zoom Interview Highlights Extract highlights from Zoom interviews with Choppity's free AI clip maker. Automatically find key moments, add captions, and share interview clips on social ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f34abad3e1780b767786",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/CH4LXgGDem1S2aMV1ZeGwKQWbFziUgV_6FFVpHCWTWw/6b02f34abad3e1780b767786.json",
+      "markdown_endpoint": "https://serpapi.com/searches/CH4LXgGDem1S2aMV1ZeGwKQWbFziUgV_6FFVpHCWTWw/6b02f34abad3e1780b767786.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/CH4LXgGDem1S2aMV1ZeGwKQWbFziUgV_6FFVpHCWTWw/6b02f34abad3e1780b767786.json_with_pixel_position",
+      "created_at": "2026-11-22 13:51:06 UTC",
+      "processed_at": "2026-11-22 13:51:06 UTC",
+      "google_url": "https://www.google.com/search?q=How+to+automatically+extract+key+quotes+from+long+interview+videos&oq=How+to+automatically+extract+key+quotes+from+long+interview+videos&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/CH4LXgGDem1S2aMV1ZeGwKQWbFziUgV_6FFVpHCWTWw/6b02f34abad3e1780b767786.html",
+      "total_time_taken": 13.73
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "How to automatically extract key quotes from long interview videos",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "How to automatically extract key quotes from long interview videos",
+      "total_results": 2350000,
+      "time_taken_displayed": 0.22,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "3 Powerful Ways to Extract Highlights, Knowledge, & Insights ...",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXIEJn-o9YBNKtCIpOvF8wsKtMbhX0NeyvdpjI9BDOzUJfV7FtJHjY0n7Iga8iwN98fU-Xx-cIEXsfa9TtVd4XERjmX88mUoZrQ-s6nsUFIOosRK9bJu6Vn7TXKl83qho3wsOA&gsessionid=mbTUiG2NZEOLMr5cMZ1neHXJ5kDa2LdTmPObU8kc5Zfni8EcjySyiw",
+        "thumbnail": "https://serpapi.com/searches/6b02f34abad3e1780b767786/images/URUdR7MGDAqke0igI_cCgE-5KVUwKsuo6Mby8HHzcdQ.jpg",
+        "channel": "A Fading Thought",
+        "duration": "10:55",
+        "platform": "YouTube",
+        "date": "Feb 6, 2025",
+        "snippet": "Extract highlights from videos using Readwise's direct highlighting, Snipd's AI-powered mobile app, or a DIY method with AI transcription.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS4YWBV5u9jRj9YqZBjsOW8WvRhqCVDfPrImw"
+      },
+      {
+        "position": 2,
+        "title": "How to Summarize Lectures & Interviews Fast (AI Transcript + ...",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXX2cVZWMGfU_aUTEgWKsVyMLXLGYtTFbuXsmG6n3HanfBf_4pa3XfO8PR23oio4dNta8K612MvyAf6_csz9d74PUePxF8P7AEHAZtNjqKK9dOYnZbAm9Daj3-DFNO2TOO_yZYC&gsessionid=mbTUiG2NZEOLMr5cMZ1neHXJ5kDa2LdTmPObU8kc5Zfni8EcjySyiw",
+        "thumbnail": "https://serpapi.com/searches/6b02f34abad3e1780b767786/images/JAFSOKpwwXaQgKw8LNOZT_CLMTCZF7S8JGq8NbSmQ-Y.jpg",
+        "channel": "Wondershare UniConverter Video Toolbox",
+        "duration": "3:02",
+        "platform": "YouTube",
+        "date": "Apr 24, 2026",
+        "snippet": "Use a smart summarizer tool to quickly transcribe and summarize lectures or interviews, saving time on note-taking."
+      },
+      {
+        "position": 3,
+        "title": "The Best AI Tool for Pulling Video Clips from Customer Interviews",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXN-n6VlRYHj9x3UfHTX6nHqwCSjLBQLVnOXepsk_F23zPHknAj2uFmNRi1AzZftJoc5nb8OuUgohNZZwH2CU-_H6DqoGgkreTBkmg_SepMWsMEuzw8bg1k4BdJOFooWSlxtmZ&gsessionid=mbTUiG2NZEOLMr5cMZ1neHXJ5kDa2LdTmPObU8kc5Zfni8EcjySyiw",
+        "thumbnail": "https://serpapi.com/searches/6b02f34abad3e1780b767786/images/aeheY399FQ5qql7XDG9tzPXqCJVmXt2--vaSIZ4yPEE.jpg",
+        "channel": "Game Thinking TV",
+        "duration": "4:26",
+        "platform": "YouTube",
+        "date": "Apr 1, 2024",
+        "snippet": "Turn hours of customer interviews into persuasive video clips using Descript's 5-step process for efficient editing.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTN9Y-XkFKRv6a_DAcmOem_n0LB2ax8THJKAw"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "How can I automatically generate a transcript from a video?",
+        "type": "ai_overview",
+        "page_token": "8KEa5XicHdBRbpswGABgrYfpY4PjkI5IUSUSHMKKI2N-EvxSgQ0ksYEspaH1Y8-ypx1mB9g1eoFJ-47wff4yp07__XY7DsPldTGZjOP40PR9Y6oH2beT4vWjkxNZGFMWUi_mj3P0VMtl8Lb1Vz-3PoMkyI0ye-PlfIXc4kx_KKvqeDObKSeZZfv3NcDlsiNypFrdFGRvVWfSPI3c_ISmmT62ydT9EK23Yme_56R5FzCceBvdpFWDQJk-IDpPrcRpkLklTpIcJ3NAMYJQmRgTJjaCyzUx1PluWUeemQVXbrw-6fIZDTMotbvLAsfKPdEFoVrC1qlIM3JLNkAM5jAiHvpXkUY1w5EVB4qDozpAgNZ5Ki2F6Mwd1aWEsNLxQrkWPk_6E4PjLg4AJwc_KjWzpfGemaPHbCoKbuk-hmjgkBEREgTsvpa3Jb7__7l8qdthcbn2zW95rYqhUi_F8EfffUX_AMIQiFs",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=8KEa5XicHdBRbpswGABgrYfpY4PjkI5IUSUSHMKKI2N-EvxSgQ0ksYEspaH1Y8-ypx1mB9g1eoFJ-47wff4yp07__XY7DsPldTGZjOP40PR9Y6oH2beT4vWjkxNZGFMWUi_mj3P0VMtl8Lb1Vz-3PoMkyI0ye-PlfIXc4kx_KKvqeDObKSeZZfv3NcDlsiNypFrdFGRvVWfSPI3c_ISmmT62ydT9EK23Yme_56R5FzCceBvdpFWDQJk-IDpPrcRpkLklTpIcJ3NAMYJQmRgTJjaCyzUx1PluWUeemQVXbrw-6fIZDTMotbvLAsfKPdEFoVrC1qlIM3JLNkAM5jAiHvpXkUY1w5EVB4qDozpAgNZ5Ki2F6Mwd1aWEsNLxQrkWPk_6E4PjLg4AJwc_KjWzpfGemaPHbCoKbuk-hmjgkBEREgTsvpa3Jb7__7l8qdthcbn2zW95rYqhUi_F8EfffUX_AMIQiFs",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWREbE9VaTAxUlVGUGNIaFZXa2hOYkVwak4xVjBlbVJEWlVjd1ZUWXlaM2t6TVdGMFMwZGxNRnAyYzJkMWNUWlBOVVYxV21nMVpWUXpNRkU0V210R2JTMURkRzFYTjE5RE5GaElRak5LYWxVMmFYTmZZVXRaUkhabVVSSVhWMUJOUTJFM016VkNZMHRIWjB4UlVHOVBSM0EyUVVrYUlrRklUakJGTjBaWFUwNDJZWGg1TFhkNGFVOTRSRXd4ZVhCZlpIVjRkMjVSZDJjIiwiZmN2IjoiMyIsImVpIjoiV1BNQ2E3MzVCY0tHZ0xRUG9PR3A2QUkiLCJxYyI6IkNrSm9iM2NnZEc4Z1lYVjBiMjFoZEdsallXeHNlU0JsZUhSeVlXTjBJR3RsZVNCeGRXOTBaWE1nWm5KdmJTQnNiMjVuSUdsdWRHVnlkbWxsZHlCMmFXUmxiM01RQUgyRzlfcy0iLCJxdWVzdGlvbiI6IkhvdyBjYW4gSSBhdXRvbWF0aWNhbGx5IGdlbmVyYXRlIGEgdHJhbnNjcmlwdCBmcm9tIGEgdmlkZW8/IiwibGsiOiJHaU5oZFhSdklHZGxibVZ5WVhSbElIUnlZVzV6WTNKcGNIUWdabkp2YlNCMmFXUmxidyIsImJzIjoiYzVXUVBRLUNRQXlHNDNxVE00czFCcU1yNnVUQXdPREg1S0Ffb0RrcUVPR09ITVdQZjI4eFJsRmpqRnZUUG1fNnRDcFc4NlU5Z1VZREs4Q2FiWUdjYWN6ekN5Umt5Q0VUSUxCRFUybVhsUXg3Wnd2cEhMT1liQmo0M3FBSlBkbDM4c2FwUWsyYkxRSXlIZ2lNWmFwYWM4aEpjLTJrOTJJUUJqTnZrdjZmVTJ2bFIzSlFsQ0l2Tmx1Z3MxaHBCcGFpbGE3Q29PXzF0RUNKMkg2QjFFNk5HX1hZeW44ZVRFcFFDdkx4anBFM3ZQdi1RTHVkS3ciLCJpZCI6ImZjX1dQTUNhNzM1QmNLR2dMUVBvT0dwNkFJXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWREbE9VaTAxUlVGUGNIaFZXa2hOYkVwak4xVjBlbVJEWlVjd1ZUWXlaM2t6TVdGMFMwZGxNRnAyYzJkMWNUWlBOVVYxV21nMVpWUXpNRkU0V210R2JTMURkRzFYTjE5RE5GaElRak5LYWxVMmFYTmZZVXRaUkhabVVSSVhWMUJOUTJFM016VkNZMHRIWjB4UlVHOVBSM0EyUVVrYUlrRklUakJGTjBaWFUwNDJZWGg1TFhkNGFVOTRSRXd4ZVhCZlpIVjRkMjVSZDJjIiwiZmN2IjoiMyIsImVpIjoiV1BNQ2E3MzVCY0tHZ0xRUG9PR3A2QUkiLCJxYyI6IkNrSm9iM2NnZEc4Z1lYVjBiMjFoZEdsallXeHNlU0JsZUhSeVlXTjBJR3RsZVNCeGRXOTBaWE1nWm5KdmJTQnNiMjVuSUdsdWRHVnlkbWxsZHlCMmFXUmxiM01RQUgyRzlfcy0iLCJxdWVzdGlvbiI6IkhvdyBjYW4gSSBhdXRvbWF0aWNhbGx5IGdlbmVyYXRlIGEgdHJhbnNjcmlwdCBmcm9tIGEgdmlkZW8%2FIiwibGsiOiJHaU5oZFhSdklHZGxibVZ5WVhSbElIUnlZVzV6WTNKcGNIUWdabkp2YlNCMmFXUmxidyIsImJzIjoiYzVXUVBRLUNRQXlHNDNxVE00czFCcU1yNnVUQXdPREg1S0Ffb0RrcUVPR09ITVdQZjI4eFJsRmpqRnZUUG1fNnRDcFc4NlU5Z1VZREs4Q2FiWUdjYWN6ekN5Umt5Q0VUSUxCRFUybVhsUXg3Wnd2cEhMT1liQmo0M3FBSlBkbDM4c2FwUWsyYkxRSXlIZ2lNWmFwYWM4aEpjLTJrOTJJUUJqTnZrdjZmVTJ2bFIzSlFsQ0l2Tmx1Z3MxaHBCcGFpbGE3Q29PXzF0RUNKMkg2QjFFNk5HX1hZeW44ZVRFcFFDdkx4anBFM3ZQdi1RTHVkS3ciLCJpZCI6ImZjX1dQTUNhNzM1QmNLR2dMUVBvT0dwNkFJXzUifQ%3D%3D"
+      },
+      {
+        "question": "How to take notes from video lectures automatically?",
+        "type": "ai_overview",
+        "page_token": "-MabTHicHdBRbpswAABQbYfpZ4NNyZRI0SSGgViFCIwN-KcCm4RiQ7zESgqfPcLOsK8epgfYNXaBSXtHeO-_9euk_nz51VtrrtvV6n6_P57O55PuHsV5XDXXeRIr0WjdNkJt19_W4PtR7NBN-D8uws9ojmotdcnonAz4mQfMF0jZJHqCDAlIqv2cOLgSLPRSBFgKNz-bKl8LbfAh6glxeJ2rfJDKRhwZTEdtciedS2Rn6ZpKuv2-CBhJodmXSHgs5vBQ8roF_dxQFlQge0qW0HSldfjCYDPSJVmwW0RvPYX5Pom8qAkxK0LudMjcMgKeKcg8riSkMUO09MbMCXEaaXJA-Y2h0OsUwLKUqC1Z2MbyrQabWKKNoa5f8ckMqJcVRSCoC7GkFA_EkVMRhlnrbGIRcJ_k59eM9ocEUTdfOBAQD-WEazb2hitriKtTMqhF0BpWbn_NsoejuO3ch__Xu5fjaLfmcj59iEvX2E6-NPZTff2L_wFdA5Gc",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-MabTHicHdBRbpswAABQbYfpZ4NNyZRI0SSGgViFCIwN-KcCm4RiQ7zESgqfPcLOsK8epgfYNXaBSXtHeO-_9euk_nz51VtrrtvV6n6_P57O55PuHsV5XDXXeRIr0WjdNkJt19_W4PtR7NBN-D8uws9ojmotdcnonAz4mQfMF0jZJHqCDAlIqv2cOLgSLPRSBFgKNz-bKl8LbfAh6glxeJ2rfJDKRhwZTEdtciedS2Rn6ZpKuv2-CBhJodmXSHgs5vBQ8roF_dxQFlQge0qW0HSldfjCYDPSJVmwW0RvPYX5Pom8qAkxK0LudMjcMgKeKcg8riSkMUO09MbMCXEaaXJA-Y2h0OsUwLKUqC1Z2MbyrQabWKKNoa5f8ckMqJcVRSCoC7GkFA_EkVMRhlnrbGIRcJ_k59eM9ocEUTdfOBAQD-WEazb2hitriKtTMqhF0BpWbn_NsoejuO3ch__Xu5fjaLfmcj59iEvX2E6-NPZTff2L_wFdA5Gc",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWREbE9VaTAxUlVGUGNIaFZXa2hOYkVwak4xVjBlbVJEWlVjd1ZUWXlaM2t6TVdGMFMwZGxNRnAyYzJkMWNUWlBOVVYxV21nMVpWUXpNRkU0V210R2JTMURkRzFYTjE5RE5GaElRak5LYWxVMmFYTmZZVXRaUkhabVVSSVhWMUJOUTJFM016VkNZMHRIWjB4UlVHOVBSM0EyUVVrYUlrRklUakJGTjBaWFUwNDJZWGg1TFhkNGFVOTRSRXd4ZVhCZlpIVjRkMjVSZDJjIiwiZmN2IjoiMyIsImVpIjoiV1BNQ2E3MzVCY0tHZ0xRUG9PR3A2QUkiLCJxYyI6IkNrSm9iM2NnZEc4Z1lYVjBiMjFoZEdsallXeHNlU0JsZUhSeVlXTjBJR3RsZVNCeGRXOTBaWE1nWm5KdmJTQnNiMjVuSUdsdWRHVnlkbWxsZHlCMmFXUmxiM01RQUgyRzlfcy0iLCJxdWVzdGlvbiI6IkhvdyB0byB0YWtlIG5vdGVzIGZyb20gdmlkZW8gbGVjdHVyZXMgYXV0b21hdGljYWxseT8iLCJsayI6IkdqTm9iM2NnZEc4Z2RHRnJaU0J1YjNSbGN5Qm1jbTl0SUhacFpHVnZJR3hsWTNSMWNtVnpJR0YxZEc5dFlYUnBZMkZzYkhrIiwiYnMiOiJjNVdRUFEtQ1FBeUc0M3FUTTRzMUJxTXI2dVRBd09ESDVLQV9vRGtxRU9HT0hNV1BmMjh4UmxGampGdlRQbV82dENwVzg2VTlnVVlESzhDYWJZR2NhY3p6Q3lSa3lDRVRJTEJEVTJtWGxReDdad3ZwSExPWWJCajQzcUFKUGRsMzhzYXBRazJiTFFJeUhnaU1aYXBhYzhoSmMtMms5MklRQmpOdmt2NmZVMnZsUjNKUWxDSXZObHVnczFocEJwYWlsYTdDb09fMXRFQ0oySDZCMUU2TkdfWFl5bjhlVEVwUUN2THhqcEUzdlB2LVFMdWRLdyIsImlkIjoiZmNfV1BNQ2E3MzVCY0tHZ0xRUG9PR3A2QUlfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWREbE9VaTAxUlVGUGNIaFZXa2hOYkVwak4xVjBlbVJEWlVjd1ZUWXlaM2t6TVdGMFMwZGxNRnAyYzJkMWNUWlBOVVYxV21nMVpWUXpNRkU0V210R2JTMURkRzFYTjE5RE5GaElRak5LYWxVMmFYTmZZVXRaUkhabVVSSVhWMUJOUTJFM016VkNZMHRIWjB4UlVHOVBSM0EyUVVrYUlrRklUakJGTjBaWFUwNDJZWGg1TFhkNGFVOTRSRXd4ZVhCZlpIVjRkMjVSZDJjIiwiZmN2IjoiMyIsImVpIjoiV1BNQ2E3MzVCY0tHZ0xRUG9PR3A2QUkiLCJxYyI6IkNrSm9iM2NnZEc4Z1lYVjBiMjFoZEdsallXeHNlU0JsZUhSeVlXTjBJR3RsZVNCeGRXOTBaWE1nWm5KdmJTQnNiMjVuSUdsdWRHVnlkbWxsZHlCMmFXUmxiM01RQUgyRzlfcy0iLCJxdWVzdGlvbiI6IkhvdyB0byB0YWtlIG5vdGVzIGZyb20gdmlkZW8gbGVjdHVyZXMgYXV0b21hdGljYWxseT8iLCJsayI6IkdqTm9iM2NnZEc4Z2RHRnJaU0J1YjNSbGN5Qm1jbTl0SUhacFpHVnZJR3hsWTNSMWNtVnpJR0YxZEc5dFlYUnBZMkZzYkhrIiwiYnMiOiJjNVdRUFEtQ1FBeUc0M3FUTTRzMUJxTXI2dVRBd09ESDVLQV9vRGtxRU9HT0hNV1BmMjh4UmxGampGdlRQbV82dENwVzg2VTlnVVlESzhDYWJZR2NhY3p6Q3lSa3lDRVRJTEJEVTJtWGxReDdad3ZwSExPWWJCajQzcUFKUGRsMzhzYXBRazJiTFFJeUhnaU1aYXBhYzhoSmMtMms5MklRQmpOdmt2NmZVMnZsUjNKUWxDSXZObHVnczFocEJwYWlsYTdDb09fMXRFQ0oySDZCMUU2TkdfWFl5bjhlVEVwUUN2THhqcEUzdlB2LVFMdWRLdyIsImlkIjoiZmNfV1BNQ2E3MzVCY0tHZ0xRUG9PR3A2QUlfNSJ9"
+      },
+      {
+        "question": "Can ChatGPT extract text from videos?",
+        "type": "ai_overview",
+        "page_token": "2We9W3icHdBdbpswAABgbYfpY2PHIlsjRZNc7AYmkmFsA36pHBvigvlZyorC486ypx6mB9g1eoFK_Y7w_f3nn_r2_5cXN03j83a1muf59jwMZ1_dmqFb6edrb1ZGe3_Spt1uvm3gj9rsyJ8I3_-OcCoYKb31ucRadd8DDg6_Ml-CXBrEwdSlIPAFVKrk_mfZMJx0Sp72_mqB16L3kZUqMXsGkwaTZGGD8nhUXRBKMV6ExPKYu42lKkxbejV7pysR9KKJYQLxkqzhoNfjoMCB6Hvochkf9eLCAkmQ0PHCvQ2KRcm0lXXWwsg2bubUuiOhwvqxKJBCXGKWru9S1rH4JCAShQ0y6RBxthAEhiU3y0HETQZszylNT-Bub0KFMzY8pcIdEyIQg5RWDzLluYtKeUYHMkDbxKAUtmZX2OStgGq-qc3LDt18fu4e627ajpfh_GoulZ4q-6int_bre_wBfQKILw",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=2We9W3icHdBdbpswAABgbYfpY2PHIlsjRZNc7AYmkmFsA36pHBvigvlZyorC486ypx6mB9g1eoFK_Y7w_f3nn_r2_5cXN03j83a1muf59jwMZ1_dmqFb6edrb1ZGe3_Spt1uvm3gj9rsyJ8I3_-OcCoYKb31ucRadd8DDg6_Ml-CXBrEwdSlIPAFVKrk_mfZMJx0Sp72_mqB16L3kZUqMXsGkwaTZGGD8nhUXRBKMV6ExPKYu42lKkxbejV7pysR9KKJYQLxkqzhoNfjoMCB6Hvochkf9eLCAkmQ0PHCvQ2KRcm0lXXWwsg2bubUuiOhwvqxKJBCXGKWru9S1rH4JCAShQ0y6RBxthAEhiU3y0HETQZszylNT-Bub0KFMzY8pcIdEyIQg5RWDzLluYtKeUYHMkDbxKAUtmZX2OStgGq-qc3LDt18fu4e627ajpfh_GoulZ4q-6int_bre_wBfQKILw",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWREbE9VaTAxUlVGUGNIaFZXa2hOYkVwak4xVjBlbVJEWlVjd1ZUWXlaM2t6TVdGMFMwZGxNRnAyYzJkMWNUWlBOVVYxV21nMVpWUXpNRkU0V210R2JTMURkRzFYTjE5RE5GaElRak5LYWxVMmFYTmZZVXRaUkhabVVSSVhWMUJOUTJFM016VkNZMHRIWjB4UlVHOVBSM0EyUVVrYUlrRklUakJGTjBaWFUwNDJZWGg1TFhkNGFVOTRSRXd4ZVhCZlpIVjRkMjVSZDJjIiwiZmN2IjoiMyIsImVpIjoiV1BNQ2E3MzVCY0tHZ0xRUG9PR3A2QUkiLCJxYyI6IkNrSm9iM2NnZEc4Z1lYVjBiMjFoZEdsallXeHNlU0JsZUhSeVlXTjBJR3RsZVNCeGRXOTBaWE1nWm5KdmJTQnNiMjVuSUdsdWRHVnlkbWxsZHlCMmFXUmxiM01RQUgyRzlfcy0iLCJxdWVzdGlvbiI6IkNhbiBDaGF0R1BUIGV4dHJhY3QgdGV4dCBmcm9tIHZpZGVvcz8iLCJsayI6IkdoOWphR0YwWjNCMElHVjRkSEpoWTNRZ2RHVjRkQ0JtY205dElIWnBaR1Z2IiwiYnMiOiJjNVdRUFEtQ1FBeUc0M3FUTTRzMUJxTXI2dVRBd09ESDVLQV9vRGtxRU9HT0hNV1BmMjh4UmxGampGdlRQbV82dENwVzg2VTlnVVlESzhDYWJZR2NhY3p6Q3lSa3lDRVRJTEJEVTJtWGxReDdad3ZwSExPWWJCajQzcUFKUGRsMzhzYXBRazJiTFFJeUhnaU1aYXBhYzhoSmMtMms5MklRQmpOdmt2NmZVMnZsUjNKUWxDSXZObHVnczFocEJwYWlsYTdDb09fMXRFQ0oySDZCMUU2TkdfWFl5bjhlVEVwUUN2THhqcEUzdlB2LVFMdWRLdyIsImlkIjoiZmNfV1BNQ2E3MzVCY0tHZ0xRUG9PR3A2QUlfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWREbE9VaTAxUlVGUGNIaFZXa2hOYkVwak4xVjBlbVJEWlVjd1ZUWXlaM2t6TVdGMFMwZGxNRnAyYzJkMWNUWlBOVVYxV21nMVpWUXpNRkU0V210R2JTMURkRzFYTjE5RE5GaElRak5LYWxVMmFYTmZZVXRaUkhabVVSSVhWMUJOUTJFM016VkNZMHRIWjB4UlVHOVBSM0EyUVVrYUlrRklUakJGTjBaWFUwNDJZWGg1TFhkNGFVOTRSRXd4ZVhCZlpIVjRkMjVSZDJjIiwiZmN2IjoiMyIsImVpIjoiV1BNQ2E3MzVCY0tHZ0xRUG9PR3A2QUkiLCJxYyI6IkNrSm9iM2NnZEc4Z1lYVjBiMjFoZEdsallXeHNlU0JsZUhSeVlXTjBJR3RsZVNCeGRXOTBaWE1nWm5KdmJTQnNiMjVuSUdsdWRHVnlkbWxsZHlCMmFXUmxiM01RQUgyRzlfcy0iLCJxdWVzdGlvbiI6IkNhbiBDaGF0R1BUIGV4dHJhY3QgdGV4dCBmcm9tIHZpZGVvcz8iLCJsayI6IkdoOWphR0YwWjNCMElHVjRkSEpoWTNRZ2RHVjRkQ0JtY205dElIWnBaR1Z2IiwiYnMiOiJjNVdRUFEtQ1FBeUc0M3FUTTRzMUJxTXI2dVRBd09ESDVLQV9vRGtxRU9HT0hNV1BmMjh4UmxGampGdlRQbV82dENwVzg2VTlnVVlESzhDYWJZR2NhY3p6Q3lSa3lDRVRJTEJEVTJtWGxReDdad3ZwSExPWWJCajQzcUFKUGRsMzhzYXBRazJiTFFJeUhnaU1aYXBhYzhoSmMtMms5MklRQmpOdmt2NmZVMnZsUjNKUWxDSXZObHVnczFocEJwYWlsYTdDb09fMXRFQ0oySDZCMUU2TkdfWFl5bjhlVEVwUUN2THhqcEUzdlB2LVFMdWRLdyIsImlkIjoiZmNfV1BNQ2E3MzVCY0tHZ0xRUG9PR3A2QUlfNSJ9"
+      },
+      {
+        "question": "How do I extract the prompt from a video?",
+        "type": "ai_overview",
+        "page_token": "vdBFPXicHdBBcpswFADQaQ-TZSxMcItnPJ0hSHY0tSgCScAmAxK2HL4MxDiOvexZuupheoBeoxdop7u3ft9_wOHY_f7wZqdpOC1ns8vlcr_v-z2097p3s_p0PeqZrgGaWnfLxaeF92WnV_j8FD2OT1EqOC7BQCmjmCuTcg-SyrfEzE3fAN3lcrixLpxyN-DGkVIBeazm9izn8G2bW5S594US09W4MK82sq_XwcgRRTw2VyUZV2qKsg2cWyECLj7fEgUglC3MkQQZYmPlhVQXUdrmlv6zLMV7lKPwkALtEkIHjjlvYuJrHwpWmEWyhlP7Ykd240zhwNWdfSgVxQzZRDk5FkgeVGE4tqYQ2IvLXN-YoC8ZMseckLRB4UbHVZTx_pAKm2yx8HkHRGIZp45SLVmarE-BVHwoPfyQrL2v23l1NZe7nX5b-Xf_P1fPOzcth9d-_1O_tvXUmud6-tV9_EP_AngPiQw",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=vdBFPXicHdBBcpswFADQaQ-TZSxMcItnPJ0hSHY0tSgCScAmAxK2HL4MxDiOvexZuupheoBeoxdop7u3ft9_wOHY_f7wZqdpOC1ns8vlcr_v-z2097p3s_p0PeqZrgGaWnfLxaeF92WnV_j8FD2OT1EqOC7BQCmjmCuTcg-SyrfEzE3fAN3lcrixLpxyN-DGkVIBeazm9izn8G2bW5S594US09W4MK82sq_XwcgRRTw2VyUZV2qKsg2cWyECLj7fEgUglC3MkQQZYmPlhVQXUdrmlv6zLMV7lKPwkALtEkIHjjlvYuJrHwpWmEWyhlP7Ykd240zhwNWdfSgVxQzZRDk5FkgeVGE4tqYQ2IvLXN-YoC8ZMseckLRB4UbHVZTx_pAKm2yx8HkHRGIZp45SLVmarE-BVHwoPfyQrL2v23l1NZe7nX5b-Xf_P1fPOzcth9d-_1O_tvXUmud6-tV9_EP_AngPiQw",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWREbE9VaTAxUlVGUGNIaFZXa2hOYkVwak4xVjBlbVJEWlVjd1ZUWXlaM2t6TVdGMFMwZGxNRnAyYzJkMWNUWlBOVVYxV21nMVpWUXpNRkU0V210R2JTMURkRzFYTjE5RE5GaElRak5LYWxVMmFYTmZZVXRaUkhabVVSSVhWMUJOUTJFM016VkNZMHRIWjB4UlVHOVBSM0EyUVVrYUlrRklUakJGTjBaWFUwNDJZWGg1TFhkNGFVOTRSRXd4ZVhCZlpIVjRkMjVSZDJjIiwiZmN2IjoiMyIsImVpIjoiV1BNQ2E3MzVCY0tHZ0xRUG9PR3A2QUkiLCJxYyI6IkNrSm9iM2NnZEc4Z1lYVjBiMjFoZEdsallXeHNlU0JsZUhSeVlXTjBJR3RsZVNCeGRXOTBaWE1nWm5KdmJTQnNiMjVuSUdsdWRHVnlkbWxsZHlCMmFXUmxiM01RQUgyRzlfcy0iLCJxdWVzdGlvbiI6IkhvdyBkbyBJIGV4dHJhY3QgdGhlIHByb21wdCBmcm9tIGEgdmlkZW8/IiwibGsiOiJHaVpvYjNjZ2RHOGdaWGgwY21GamRDQjBhR1VnY0hKdmJYQjBJR1p5YjIwZ1lTQjJhV1JsYnciLCJicyI6ImM1V1FQUS1DUUF5RzQzcVRNNHMxQnFNcjZ1VEF3T0RINUtBX29Ea3FFT0dPSE1XUGYyOHhSbEZqakZ2VFBtXzZ0Q3BXODZVOWdVWURLOENhYllHY2FjenpDeVJreUNFVElMQkRVMm1YbFF4N1p3dnBITE9ZYkJqNDNxQUpQZGwzOHNhcFFrMmJMUUl5SGdpTVphcGFjOGhKYy0yazkySVFCak52a3Y2ZlUydmxSM0pRbENJdk5sdWdzMWhwQnBhaWxhN0NvT18xdEVDSjJINkIxRTZOR19YWXluOGVURXBRQ3ZMeGpwRTN2UHYtUUx1ZEt3IiwiaWQiOiJmY19XUE1DYTczNUJjS0dnTFFQb09HcDZBSV81In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWREbE9VaTAxUlVGUGNIaFZXa2hOYkVwak4xVjBlbVJEWlVjd1ZUWXlaM2t6TVdGMFMwZGxNRnAyYzJkMWNUWlBOVVYxV21nMVpWUXpNRkU0V210R2JTMURkRzFYTjE5RE5GaElRak5LYWxVMmFYTmZZVXRaUkhabVVSSVhWMUJOUTJFM016VkNZMHRIWjB4UlVHOVBSM0EyUVVrYUlrRklUakJGTjBaWFUwNDJZWGg1TFhkNGFVOTRSRXd4ZVhCZlpIVjRkMjVSZDJjIiwiZmN2IjoiMyIsImVpIjoiV1BNQ2E3MzVCY0tHZ0xRUG9PR3A2QUkiLCJxYyI6IkNrSm9iM2NnZEc4Z1lYVjBiMjFoZEdsallXeHNlU0JsZUhSeVlXTjBJR3RsZVNCeGRXOTBaWE1nWm5KdmJTQnNiMjVuSUdsdWRHVnlkbWxsZHlCMmFXUmxiM01RQUgyRzlfcy0iLCJxdWVzdGlvbiI6IkhvdyBkbyBJIGV4dHJhY3QgdGhlIHByb21wdCBmcm9tIGEgdmlkZW8%2FIiwibGsiOiJHaVpvYjNjZ2RHOGdaWGgwY21GamRDQjBhR1VnY0hKdmJYQjBJR1p5YjIwZ1lTQjJhV1JsYnciLCJicyI6ImM1V1FQUS1DUUF5RzQzcVRNNHMxQnFNcjZ1VEF3T0RINUtBX29Ea3FFT0dPSE1XUGYyOHhSbEZqakZ2VFBtXzZ0Q3BXODZVOWdVWURLOENhYllHY2FjenpDeVJreUNFVElMQkRVMm1YbFF4N1p3dnBITE9ZYkJqNDNxQUpQZGwzOHNhcFFrMmJMUUl5SGdpTVphcGFjOGhKYy0yazkySVFCak52a3Y2ZlUydmxSM0pRbENJdk5sdWdzMWhwQnBhaWxhN0NvT18xdEVDSjJINkIxRTZOR19YWXluOGVURXBRQ3ZMeGpwRTN2UHYtUUx1ZEt3IiwiaWQiOiJmY19XUE1DYTczNUJjS0dnTFFQb09HcDZBSV81In0%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "bwS7GniczVbLcvI2FJ7puq9Rb_gLxiSBZMbzj2wEGExAEELIhjFGyFcElsEhyz5LV32YPkBfoy9Q-cIPJpBLN-2ZMceSzl3n8-G33z176f7188IKwxW7K5WiKCoSSomHiyb1SwbbLc3SgnosMK3vxJM3TLA8GS8FRjeBie25bFoB9XG2zlZFOhN2W7kimEwWBWzL435XNaqVa8XsNImO-rTXXN0ATUjsy9OZwbDD3b84rDQt8R_3l0qdL4qsiJdFDa9ny4YEHlegKIlSpdgrGT4XAP8tQQVohHMXAPKenII-axFZ3CpQT_Vhyo_2uyD2qQFVS08u-R_GRmNNVUki5k8PLJy-2-Rv93upkfZBXGoupnEWVsrc03A_QZlqnEFu4z06U8SkLp3DWj09O0fN_IkyqYN6dGT-TTpHDlLVUfwTgcZVvwsQQhc97Ymb7kyA6IEP-mQf0ei2PQy5llKaE97lYmkWcFYu2aZlJi8Bi5tffbgVaVPvNR1pqqC1semhbRPA-xD3Iwj1K1AyZ1zOo8Ycz6fWVPyerMuSJNUqt1XpW4I6k_2AHTuGXUCZGC5r3V9DsagXlfIec_lsT4uFNA2cayaikH0pLtDguM5JGU4E3JznRsYtoFDEzeYOUQfqqVDmrwvqvF41clz-g4b6DuZOKOlYmhkYZVsg321oAuDwkEDeUO-s2TgPAE5zJs3sRVP2gUepRfIWcwOgoSTdLOXcx1EBdaLwAqP4S9Hh6qGaympXcXz7G0MQahBAclA7IhWeSQeoR5FwPRhLRYBA4G40qGp2tg0SJ4SknhREfphJfKhvUZdQl-83rLNHnyL4mQ9LGsUeZCeYyWFNIdWF-_wMok0wFsu32rqMei1vub4B0XlsUX_2hZlm_u_Rt594Xtb2F9EXe_oU-pD1HvrOTbwUfap7AX3DFH2qcm7i9fdSJxPvLfpUYB-hL5t4L6nFMxPv6-hTPkbf8XUdo-9wVTn0wUvoa8I8-iYO3E-88-jLHBzQ928nnvL1iZeAEKcsP_42Drk4BhveQ0vzRy3Y0puvTpdUHH38GoypOXQ_HoMLP7zzjbn3bWrP7xSpHe7m36Z8g97hubCWWzQqhLRgbELqG6FtGp63K-CXMDDMsODiXWG9oSFmhQX_41vw6JIU7GWIg62No8LWnmPKBN8LqCwa109r2524rvqo39R8aYWIRiwdPjr9JRuNJcNZtWv21aT8gKOn50550IX9nkPYVmr1yZMzhzYazcmswlar6mTRvalt7hetjoTDNhWNgfM8G7w-rjvWcPQ4rb62XqKx1oXEmYx67fYo7AT95wel133A9yCJh8mvcNJ4CjdbeysKPF2G5bLgB6bMu-FqBwYo_qNnACUC7aR9-cO5zrlOFYBaE4DqhD-UX5zATGOK2VY2b64r5rUomoaxqC7wQvBJuFvJt6LAloFc_sMMsBHyezDCP92f_m7_AyUFjRI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=bwS7GniczVbLcvI2FJ7puq9Rb_gLxiSBZMbzj2wEGExAEELIhjFGyFcElsEhyz5LV32YPkBfoy9Q-cIPJpBLN-2ZMceSzl3n8-G33z176f7188IKwxW7K5WiKCoSSomHiyb1SwbbLc3SgnosMK3vxJM3TLA8GS8FRjeBie25bFoB9XG2zlZFOhN2W7kimEwWBWzL435XNaqVa8XsNImO-rTXXN0ATUjsy9OZwbDD3b84rDQt8R_3l0qdL4qsiJdFDa9ny4YEHlegKIlSpdgrGT4XAP8tQQVohHMXAPKenII-axFZ3CpQT_Vhyo_2uyD2qQFVS08u-R_GRmNNVUki5k8PLJy-2-Rv93upkfZBXGoupnEWVsrc03A_QZlqnEFu4z06U8SkLp3DWj09O0fN_IkyqYN6dGT-TTpHDlLVUfwTgcZVvwsQQhc97Ymb7kyA6IEP-mQf0ei2PQy5llKaE97lYmkWcFYu2aZlJi8Bi5tffbgVaVPvNR1pqqC1semhbRPA-xD3Iwj1K1AyZ1zOo8Ycz6fWVPyerMuSJNUqt1XpW4I6k_2AHTuGXUCZGC5r3V9DsagXlfIec_lsT4uFNA2cayaikH0pLtDguM5JGU4E3JznRsYtoFDEzeYOUQfqqVDmrwvqvF41clz-g4b6DuZOKOlYmhkYZVsg321oAuDwkEDeUO-s2TgPAE5zJs3sRVP2gUepRfIWcwOgoSTdLOXcx1EBdaLwAqP4S9Hh6qGaympXcXz7G0MQahBAclA7IhWeSQeoR5FwPRhLRYBA4G40qGp2tg0SJ4SknhREfphJfKhvUZdQl-83rLNHnyL4mQ9LGsUeZCeYyWFNIdWF-_wMok0wFsu32rqMei1vub4B0XlsUX_2hZlm_u_Rt594Xtb2F9EXe_oU-pD1HvrOTbwUfap7AX3DFH2qcm7i9fdSJxPvLfpUYB-hL5t4L6nFMxPv6-hTPkbf8XUdo-9wVTn0wUvoa8I8-iYO3E-88-jLHBzQ928nnvL1iZeAEKcsP_42Drk4BhveQ0vzRy3Y0puvTpdUHH38GoypOXQ_HoMLP7zzjbn3bWrP7xSpHe7m36Z8g97hubCWWzQqhLRgbELqG6FtGp63K-CXMDDMsODiXWG9oSFmhQX_41vw6JIU7GWIg62No8LWnmPKBN8LqCwa109r2524rvqo39R8aYWIRiwdPjr9JRuNJcNZtWv21aT8gKOn50550IX9nkPYVmr1yZMzhzYazcmswlar6mTRvalt7hetjoTDNhWNgfM8G7w-rjvWcPQ4rb62XqKx1oXEmYx67fYo7AT95wel133A9yCJh8mvcNJ4CjdbeysKPF2G5bLgB6bMu-FqBwYo_qNnACUC7aR9-cO5zrlOFYBaE4DqhD-UX5zATGOK2VY2b64r5rUomoaxqC7wQvBJuFvJt6LAloFc_sMMsBHyezDCP92f_m7_AyUFjRI"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Looking for AI tools to chat with long-form videos and ...",
+        "link": "https://www.reddit.com/r/SaaS/comments/1nps5qz/looking_for_ai_tools_to_chat_with_longform_videos/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESngEBxCJF16zcuv0odKULjg17ASbLHT4pB7DwW_ESUbnWu_a1bjAuOZxBWO9uURTTBdUUkhclUO2pV3BUhuaWvffH0p28JH6AzGrUaNbfCT4QlvwqLP3O_kC-4ZQT8UvBOPvIhjRXOxLCzvxcx_FVIei7h_FvCv9Tzjabd1LqWR4kV7k3SQ959Egu5KuTl3CO1V12p1uAK_kzGBox6B9ngg&ved=2ahUKEwi9hYyt3JuYAxVCA4AAHaBwCi0QFnoECCcQAQ&uoh=1",
+        "displayed_link": "20+ comments",
+        "date": "1 year ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+        "snippet": "Descript actually has an AI tool that will pick out clips based on a keyword you choose. Hunt around for that! You can also just do a search for ...",
+        "snippet_highlighted_words": [
+          "clips"
+        ],
+        "sitelinks": {
+          "list": [
+            {
+              "title": "Built a tool to automatically extract transcripts from ...",
+              "link": "https://www.google.com/goto?url=CAESpAEBxCJF12_qT9UTfeu8JPLTPUoqt8kOaNAzKIRwz_Z-OCcNi1WkM1JxgZ9jyLN0jsVmatQHx4BKpdZm0hhSLKl0oM7oYxY8KrrRd7pFXV--hV1GIhrZTquruoppJ_bPw1FuHvtx83ZsArsnHVHiqWlpmNHemws82d45gQTDS_Iemz3otXoJDAH_XmBNq0JKrlNOOnBDOgzFXz8w2BBgLI1t3B2-9w&gsessionid=mbTUiG2NZEOLMr5cMZ1neHXJ5kDa2LdTmPObU8kc5Zfni8EcjySyiw",
+              "answer_count": 1,
+              "date": "Aug 22, 2025"
+            },
+            {
+              "title": "Here is how I cut down long interview videos; is there a ...",
+              "link": "https://www.google.com/goto?url=CAESpAEBxCJF14y2MJA1jIyT3sIqlaCJZTGC-qdNhu5FHP7luz5uimGBC8i-VCaBcMyGCZwmVcfb09VHtD9nZAubPi4fe4D5xX5D4r_vRrKgWJ9FpzXFu6yPot36xX-aLU-qEMsDduh9cbzit0NXDQhp8t5zc4Xcs9V3-Rcdh3utV5eXHKskuCFuPcD-w8S-J9xJFtUsk1oCuVpAbjannJA70LyuxnjbXA&gsessionid=mbTUiG2NZEOLMr5cMZ1neHXJ5kDa2LdTmPObU8kc5Zfni8EcjySyiw",
+              "answer_count": 4,
+              "date": "Mar 2, 2024"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Descript actually has an AI tool that will pick out clips based on a keyword you choose. Hunt around for that! You can also just do a search for ...",
+            "source_info_link": "https://www.reddit.com/r/SaaS/comments/1nps5qz/looking_for_ai_tools_to_chat_with_longform_videos/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCeENKRjF5VkhOZ1ZLcWNjQk5TQXdRTXctbHVQQXRkZC1yMkk5a2xiSDctVjUzZW9WRGxNWjBfR0drc3BfRS1XbVNSeENxc1hvakJRYVlNTkt4SzRRZTMyYXlzYk93WnlYZ1JsQllWWndtcGdSeVctRVZIdHZtTG5JM3VycmVQT0wtZHVJQ1BjZ1lSc3BzOHhzMGxOV0V3eFNaQThaT2M5UHZtZjdqYnV5dVg5dkxTUm1Fdms5UldPdjhBLVhpd1Ita2RsWHRQV3N5MUMzTEdzNWx3EgQaAggAGuQHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMAHCAAQABgAIAAqCgoDaG93FZHGgz8qCQoCdG8VAAAAACovCg1hdXRvbWF0aWNhbGx5FcMhDz8aBGF1dG8aCGF1dG9tYXRlGglhdXRvbWF0aWMqQwoHZXh0cmFjdBXfjolAGgZleHBvcnQaCWV4dHJhY3RlZBoKZXh0cmFjdGluZxoGdW5wYWNrGgxpdjtwO2V4dHJhY3QqUQoDa2V5FaJ9K0AaCWVzc2VudGlhbBoJZXhwbGFpbmVkGgZmYW1vdXMaBGZpdmUaCWltcG9ydGFudBoEbWFpbhoLc2lnbmlmaWNhbnQaA3RvcCoyCgZxdW90ZXMVAAAAABoFbGluZXMaCXF1b3RhdGlvbhoKcXVvdGF0aW9ucxoFcXVvdGUqCwoEZnJvbRUAAAAAKjEKBGxvbmcVZ1GFQBoIZXh0ZW5kZWQaCWV4dGVuc2l2ZRoHbGVuZ3RoeRoGbG9uZydzKjsKCWludGVydmlldxX8Zl8-GgxpbnRlcnZpZXdpbmcaCmludGVydmlld3MaD2ludGVydmlld3ZpZGVvcyosCgZ2aWRlb3MVIyOAQBoFY2xpcHMaBXZpZGVvGg9pbnRlcnZpZXd2aWRlb3My5AEvZ290bz91cmw9Q0FFU25nRUJ4Q0pGMXlWSE5nVktxY2NCTlNBd1FNdy1sdVBBdGRkLXIySTlrbGJINy1WNTNlb1ZEbE1aMF9HR2tzcF9FLVdtU1J4Q3FzWG9qQlFhWU1OS3hLNFFlMzJheXNiT3daeVhnUmxCWVZad21wZ1J5Vy1FVkh0dm1MbkkzdXJyZVBPTC1kdUlDUGNnWVJzcHM4eHMwbE5XRXd4U1pBOFpPYzlQdm1mN2pidXl1WDl2TFNSbUV2azlSV092OEEtWGl3Ui1rZGxYdFBXc3kxQzNMR3M1bHc6V0xvb2tpbmcgZm9yIEFJIHRvb2xzIHRvIGNoYXQgd2l0aCA8Yj5sb25nPC9iPi1mb3JtIDxiPnZpZGVvczwvYj4gYW5kIDxiPmV4dHJhY3Q8L2I-IC4uLkKgAURlc2NyaXB0IGFjdHVhbGx5IGhhcyBhbiBBSSB0b29sIHRoYXQgd2lsbCBwaWNrIG91dCA8Yj5jbGlwczwvYj4gYmFzZWQgb24gYSBrZXl3b3JkIHlvdSBjaG9vc2UuIEh1bnQgYXJvdW5kIGZvciB0aGF0ISBZb3UgY2FuIGFsc28ganVzdCBkbyBhIHNlYXJjaCBmb3ImbmJzcDsuLi5KAnRvSgRmcm9tUgN0b3BSBXZpZGVvIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCeENKRjF5VkhOZ1ZLcWNjQk5TQXdRTXctbHVQQXRkZC1yMkk5a2xiSDctVjUzZW9WRGxNWjBfR0drc3BfRS1XbVNSeENxc1hvakJRYVlNTkt4SzRRZTMyYXlzYk93WnlYZ1JsQllWWndtcGdSeVctRVZIdHZtTG5JM3VycmVQT0wtZHVJQ1BjZ1lSc3BzOHhzMGxOV0V3eFNaQThaT2M5UHZtZjdqYnV5dVg5dkxTUm1Fdms5UldPdjhBLVhpd1Ita2RsWHRQV3N5MUMzTEdzNWx3EgQaAggAGuQHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMAHCAAQABgAIAAqCgoDaG93FZHGgz8qCQoCdG8VAAAAACovCg1hdXRvbWF0aWNhbGx5FcMhDz8aBGF1dG8aCGF1dG9tYXRlGglhdXRvbWF0aWMqQwoHZXh0cmFjdBXfjolAGgZleHBvcnQaCWV4dHJhY3RlZBoKZXh0cmFjdGluZxoGdW5wYWNrGgxpdjtwO2V4dHJhY3QqUQoDa2V5FaJ9K0AaCWVzc2VudGlhbBoJZXhwbGFpbmVkGgZmYW1vdXMaBGZpdmUaCWltcG9ydGFudBoEbWFpbhoLc2lnbmlmaWNhbnQaA3RvcCoyCgZxdW90ZXMVAAAAABoFbGluZXMaCXF1b3RhdGlvbhoKcXVvdGF0aW9ucxoFcXVvdGUqCwoEZnJvbRUAAAAAKjEKBGxvbmcVZ1GFQBoIZXh0ZW5kZWQaCWV4dGVuc2l2ZRoHbGVuZ3RoeRoGbG9uZydzKjsKCWludGVydmlldxX8Zl8-GgxpbnRlcnZpZXdpbmcaCmludGVydmlld3MaD2ludGVydmlld3ZpZGVvcyosCgZ2aWRlb3MVIyOAQBoFY2xpcHMaBXZpZGVvGg9pbnRlcnZpZXd2aWRlb3My5AEvZ290bz91cmw9Q0FFU25nRUJ4Q0pGMXlWSE5nVktxY2NCTlNBd1FNdy1sdVBBdGRkLXIySTlrbGJINy1WNTNlb1ZEbE1aMF9HR2tzcF9FLVdtU1J4Q3FzWG9qQlFhWU1OS3hLNFFlMzJheXNiT3daeVhnUmxCWVZad21wZ1J5Vy1FVkh0dm1MbkkzdXJyZVBPTC1kdUlDUGNnWVJzcHM4eHMwbE5XRXd4U1pBOFpPYzlQdm1mN2pidXl1WDl2TFNSbUV2azlSV092OEEtWGl3Ui1rZGxYdFBXc3kxQzNMR3M1bHc6V0xvb2tpbmcgZm9yIEFJIHRvb2xzIHRvIGNoYXQgd2l0aCA8Yj5sb25nPC9iPi1mb3JtIDxiPnZpZGVvczwvYj4gYW5kIDxiPmV4dHJhY3Q8L2I-IC4uLkKgAURlc2NyaXB0IGFjdHVhbGx5IGhhcyBhbiBBSSB0b29sIHRoYXQgd2lsbCBwaWNrIG91dCA8Yj5jbGlwczwvYj4gYmFzZWQgb24gYSBrZXl3b3JkIHlvdSBjaG9vc2UuIEh1bnQgYXJvdW5kIGZvciB0aGF0ISBZb3UgY2FuIGFsc28ganVzdCBkbyBhIHNlYXJjaCBmb3ImbmJzcDsuLi5KAnRvSgRmcm9tUgN0b3BSBXZpZGVvIgIQAUgAWABoAA",
+        "missing": [
+          "quotes"
+        ],
+        "must_include": {
+          "word": "quotes",
+          "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDikuQXKzZ7TuZwU51rNJcBqd7VxZg:1795355480105&q=How+to+automatically+extract+key+%22quotes%22+from+long+interview+videos&sa=X&ved=2ahUKEwi9hYyt3JuYAxVCA4AAHaBwCi0Q5t4CegQINxAB"
+        },
+        "source": "Reddit \u00b7 r/SaaS",
+        "read_more_link": "https://www.google.com/goto?url=CAES6QEBxCJF1x4bby6Sr2Dq00gjsImG-XRsl0RjWW6QyRD--LSNjrUya5utVOh8hdXpmS0NepHxrU0WoirF_KuAODfpIBhZ1t2wslhnfnnL4X8NjCIhwj1ggXl4vK218kCzrbFuL4_kL00lFcwn4qjWtK40fdQAxi-Ef_cewAk8ETT_UB_RbRLrFuM9NWGdi8AcFlq4XuRynw4XGsAcqr5CLlCvFstU-x5wiRVujC8KzN8vdiroyALT5JiNNJKrSUAvDh0gDu9kdbdTZdEwdl28nJtAzV8yyFiUBZwPYKQVmfWttg-hcGd8dyXsuA&gsessionid=mbTUiG2NZEOLMr5cMZ1neHXJ5kDa2LdTmPObU8kc5Zfni8EcjySyiw"
+      },
+      {
+        "position": 2,
+        "title": "How to Extract Quotes from Videos: The Complete Guide ...",
+        "link": "https://vidnotes.app/blog/126-How-to-Extract-Quotes-from-Videos",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHEIkXXQxKsyoqrTdyekYexsmoTs_wjZYG0-DxhGqqF816iOhMtRz7fGvxzPnR13DsrxM0D1u789XrDCpGC5y7eHjp9RM3nuQi9oExK-rbw--N-N5xHTmW-qhYviPUZyKJs8zjk8U1XcgYMeA07WU7jWXUfXh9RudmsjyY&ved=2ahUKEwi9hYyt3JuYAxVCA4AAHaBwCi0QFnoECB8QAQ&uoh=1",
+        "displayed_link": "https://vidnotes.app \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAyVBMVEX6Jw72Jg7zJg7wJQ7tJQ7qJA7nJA7kIw_hIw_dIg_aIg_XIQ_UIQ_RIA_OIA_LHw_IHw_FHg_CHg--HQ-7HQ-4HBC1HBCyGxCvGxCsGhCpGhClGRDKFQDCAAC5AAC3FQCvAADWbGfelZLNYl3bm5jCVE_Yo6HWEwDnsa714uH26-v68_L2EQDmAADjFQDZZV_____ek5Dkt7blwsCmAADzhoDngn33p6PjiYToqafrZl7PRj7rlJDdPDHUcm3u1tXoWlLMh4XygXoR5GLYAAAA0UlEQVR4AczQNXIEMQBE0e5hBjOm5sgH8P3P4MzMMDzS1jJzvL-UPTHBNW06Big8li6rJRjqbBiUJmW9gMfdZblpFLpZQAzwiiAAAVhkZaWREGFlKa89VG6BviKhJZxmd0i7KZ0e3rgCwyxWGDVBU010AIZauY8goOyUmGCJMAcabrO5ZGV5fx5mAKzE8vv2vbBSes2m2OtjMllpm5_G4Ey1jX6tZbfNfSSAcvrZ7iPVOyADB--cewpxPf6hnWKMcdbHqSIQ_XcCEJ3hjc-hJgkAghRZEeIOvhwAAAAASUVORK5CYII.png",
+        "date": "Apr 10, 2026",
+        "snippet": "Turn your video content into quotable text using AI transcription. For journalists, creators, researchers, and social media managers.",
+        "snippet_highlighted_words": [
+          "Turn your video content into quotable text using AI transcription"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.5,
+              "reviews": 30
+            },
+            "extensions": [
+              "4.5(30)",
+              "Free",
+              "Business/Productivity"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Turn your video content into quotable text using AI transcription. For journalists, creators, researchers, and social media managers.",
+            "source_info_link": "https://vidnotes.app/blog/126-How-to-Extract-Quotes-from-Videos",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAyVBMVEX6Jw72Jg7zJg7wJQ7tJQ7qJA7nJA7kIw_hIw_dIg_aIg_XIQ_UIQ_RIA_OIA_LHw_IHw_FHg_CHg--HQ-7HQ-4HBC1HBCyGxCvGxCsGhCpGhClGRDKFQDCAAC5AAC3FQCvAADWbGfelZLNYl3bm5jCVE_Yo6HWEwDnsa714uH26-v68_L2EQDmAADjFQDZZV_____ek5Dkt7blwsCmAADzhoDngn33p6PjiYToqafrZl7PRj7rlJDdPDHUcm3u1tXoWlLMh4XygXoR5GLYAAAA0UlEQVR4AczQNXIEMQBE0e5hBjOm5sgH8P3P4MzMMDzS1jJzvL-UPTHBNW06Big8li6rJRjqbBiUJmW9gMfdZblpFLpZQAzwiiAAAVhkZaWREGFlKa89VG6BviKhJZxmd0i7KZ0e3rgCwyxWGDVBU010AIZauY8goOyUmGCJMAcabrO5ZGV5fx5mAKzE8vv2vbBSes2m2OtjMllpm5_G4Ey1jX6tZbfNfSSAcvrZ7iPVOyADB--cewpxPf6hnWKMcdbHqSIQ_XcCEJ3hjc-hJgkAghRZEeIOvhwAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhFSWtYWGN3ZGJKcjlZaTZpOFpVMU4xTkQ0VmpTREN6cW8yU2s4WDRLWkY0ZXFPYVFISURXTnRHdllqWjFsNTFBOVAxVGEwZmd0eXdSZVlqN1pNbEZDYWRZNjRoQS1DY2ZNUUV3RVp5cHFrSzJONDZhNG1XSy1HeHctWElHVGhaN2lRdHhsdWNGSTdoTE03UmxvUmlXeE5GbzR3RjVDem5yQVB6SRIEGgIIABqVBxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDxBggAEAAYACAAKgoKA2hvdxWmDIxAKgkKAnRvFQAAAAAqLwoNYXV0b21hdGljYWxseRUAAAAAGgRhdXRvGghhdXRvbWF0ZRoJYXV0b21hdGljKkMKB2V4dHJhY3QVcBCmQBoGZXhwb3J0GglleHRyYWN0ZWQaCmV4dHJhY3RpbmcaBnVucGFjaxoMaXY7cDtleHRyYWN0KlEKA2tleRXPRos_Ggllc3NlbnRpYWwaCWV4cGxhaW5lZBoGZmFtb3VzGgRmaXZlGglpbXBvcnRhbnQaBG1haW4aC3NpZ25pZmljYW50GgN0b3AqMgoGcXVvdGVzFdwJw0AaBWxpbmVzGglxdW90YXRpb24aCnF1b3RhdGlvbnMaBXF1b3RlKgsKBGZyb20VAAAAACoxCgRsb25nFZLDgz8aCGV4dGVuZGVkGglleHRlbnNpdmUaB2xlbmd0aHkaBmxvbmcncyo7CglpbnRlcnZpZXcVhOlWPxoMaW50ZXJ2aWV3aW5nGgppbnRlcnZpZXdzGg9pbnRlcnZpZXd2aWRlb3MqLAoGdmlkZW9zFZ4UrEAaBWNsaXBzGgV2aWRlbxoPaW50ZXJ2aWV3dmlkZW9zMrUBL2dvdG8_dXJsPUNBRVNmQUhFSWtYWGN3ZGJKcjlZaTZpOFpVMU4xTkQ0VmpTREN6cW8yU2s4WDRLWkY0ZXFPYVFISURXTnRHdllqWjFsNTFBOVAxVGEwZmd0eXdSZVlqN1pNbEZDYWRZNjRoQS1DY2ZNUUV3RVp5cHFrSzJONDZhNG1XSy1HeHctWElHVGhaN2lRdHhsdWNGSTdoTE03UmxvUmlXeE5GbzR3RjVDem5yQVB6STpLSG93IHRvIDxiPkV4dHJhY3QgUXVvdGVzPC9iPiBmcm9tIDxiPlZpZGVvczwvYj46IFRoZSBDb21wbGV0ZSBHdWlkZSBmb3IgLi4uQowBPGI-VHVybiB5b3VyIHZpZGVvIGNvbnRlbnQgaW50byBxdW90YWJsZSB0ZXh0IHVzaW5nIEFJIHRyYW5zY3JpcHRpb248L2I-LiBGb3Igam91cm5hbGlzdHMsIGNyZWF0b3JzLCByZXNlYXJjaGVycywgYW5kIHNvY2lhbCBtZWRpYSBtYW5hZ2Vycy5KBGZyb21KAnRvUgV2aWRlb1IDdG9wIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhFSWtYWGN3ZGJKcjlZaTZpOFpVMU4xTkQ0VmpTREN6cW8yU2s4WDRLWkY0ZXFPYVFISURXTnRHdllqWjFsNTFBOVAxVGEwZmd0eXdSZVlqN1pNbEZDYWRZNjRoQS1DY2ZNUUV3RVp5cHFrSzJONDZhNG1XSy1HeHctWElHVGhaN2lRdHhsdWNGSTdoTE03UmxvUmlXeE5GbzR3RjVDem5yQVB6SRIEGgIIABqVBxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDxBggAEAAYACAAKgoKA2hvdxWmDIxAKgkKAnRvFQAAAAAqLwoNYXV0b21hdGljYWxseRUAAAAAGgRhdXRvGghhdXRvbWF0ZRoJYXV0b21hdGljKkMKB2V4dHJhY3QVcBCmQBoGZXhwb3J0GglleHRyYWN0ZWQaCmV4dHJhY3RpbmcaBnVucGFjaxoMaXY7cDtleHRyYWN0KlEKA2tleRXPRos_Ggllc3NlbnRpYWwaCWV4cGxhaW5lZBoGZmFtb3VzGgRmaXZlGglpbXBvcnRhbnQaBG1haW4aC3NpZ25pZmljYW50GgN0b3AqMgoGcXVvdGVzFdwJw0AaBWxpbmVzGglxdW90YXRpb24aCnF1b3RhdGlvbnMaBXF1b3RlKgsKBGZyb20VAAAAACoxCgRsb25nFZLDgz8aCGV4dGVuZGVkGglleHRlbnNpdmUaB2xlbmd0aHkaBmxvbmcncyo7CglpbnRlcnZpZXcVhOlWPxoMaW50ZXJ2aWV3aW5nGgppbnRlcnZpZXdzGg9pbnRlcnZpZXd2aWRlb3MqLAoGdmlkZW9zFZ4UrEAaBWNsaXBzGgV2aWRlbxoPaW50ZXJ2aWV3dmlkZW9zMrUBL2dvdG8_dXJsPUNBRVNmQUhFSWtYWGN3ZGJKcjlZaTZpOFpVMU4xTkQ0VmpTREN6cW8yU2s4WDRLWkY0ZXFPYVFISURXTnRHdllqWjFsNTFBOVAxVGEwZmd0eXdSZVlqN1pNbEZDYWRZNjRoQS1DY2ZNUUV3RVp5cHFrSzJONDZhNG1XSy1HeHctWElHVGhaN2lRdHhsdWNGSTdoTE03UmxvUmlXeE5GbzR3RjVDem5yQVB6STpLSG93IHRvIDxiPkV4dHJhY3QgUXVvdGVzPC9iPiBmcm9tIDxiPlZpZGVvczwvYj46IFRoZSBDb21wbGV0ZSBHdWlkZSBmb3IgLi4uQowBPGI-VHVybiB5b3VyIHZpZGVvIGNvbnRlbnQgaW50byBxdW90YWJsZSB0ZXh0IHVzaW5nIEFJIHRyYW5zY3JpcHRpb248L2I-LiBGb3Igam91cm5hbGlzdHMsIGNyZWF0b3JzLCByZXNlYXJjaGVycywgYW5kIHNvY2lhbCBtZWRpYSBtYW5hZ2Vycy5KBGZyb21KAnRvUgV2aWRlb1IDdG9wIgIQAUgAWABoAA",
+        "source": "VidNotes"
+      },
+      {
+        "position": 3,
+        "title": "Top 10 Tools to Automatically Extract Key Moments from ...",
+        "link": "https://www.google.com/goto?url=CAESpwEBxCJF14EJOPILUF6q2L-5bKhs2NUCErVSEp2xrWAeqy3cHw415IiLmlQGoq0yuzT-3wMjGqBUpPABj4PR-05G5uf9HYq95iZ6ykcBia1qPOMiwRpQ8m8-wX14I3tSxngclDMTz2J9ipMconEujoz1Ldwuwu3U49iLx9BYpnXSKokQoOgdYInx4NKdBT1TAzvoyBqcREZkp35n9B0x0AdHmvUJ1EZD4Q",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpwEBxCJF16EuQkJ7Z7FoffeCqXq0CZNBQp6ofTvowhE4FkAvktidg6mhnboemEQWUzEN1zaCGh9iVrazxdInsVM6zZrv_yQx7bcOW-ESBwYtzmciOnvRtLoe21B2N9gIDeI6zm3Va5p05OreY-jQBtv0RSECxjwH39j9Vs2B5uBI-S7hDnnhCxILbTGAMy7ZMPpgarSJxBkO0yUTPftOJ4zl2kqjSwAWyg&ved=2ahUKEwi9hYyt3JuYAxVCA4AAHaBwCi0QFnoECCMQAQ&uoh=1",
+        "displayed_link": "2 likes",
+        "date": "1 year ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEVHcEwAAAAAAAAAAAAAAAAAAABwcHCoqKifn58bGxt8fHzKysr___8rKyv5-fnW1tbp6emQkJCsrKxaWlq0tLTBwcE-Pj777dpoAAAABnRSTlMAS8D5_5mXKh4CAAAA3ElEQVR4AXzRUQ6EIAwEUNRZClgFQb3_UbfQEDUbd76qL5WMGGOGccJPpnEwkg9e8pE9vGYw4zuOZnrHyeBPFC055zw0wTkKN8TMzEHHZWWOuCMJJh03QXpgrlr0IzLmB-6L4KzHZ0Ub947-EF3q4rI3zByuzSLogDOiYeCICxGZVxmsYuR8x9DaJFQkL3UoX-iTvNg2xbPVvrB37ZgfeGr7_tl0Q_2HXjEjSe0HWnlWJGz1DEXEAsla2lyXcIj2K6O6Wvr1kQXCnL7DG9l4kwneBIY3aeJN1HizAwDOfRO3mlC3PQAAAABJRU5ErkJggg.png",
+        "snippet": "Chopcast's AI identifies conversation shifts, strong emotions, and key quotes in videos, making it perfect for clipping important highlights.",
+        "snippet_highlighted_words": [
+          "key quotes",
+          "videos",
+          "important"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Chopcast's AI identifies conversation shifts, strong emotions, and key quotes in videos, making it perfect for clipping important highlights.",
+            "source_info_link": "https://www.google.com/goto?url=CAESpwEBxCJF14EJOPILUF6q2L-5bKhs2NUCErVSEp2xrWAeqy3cHw415IiLmlQGoq0yuzT-3wMjGqBUpPABj4PR-05G5uf9HYq95iZ6ykcBia1qPOMiwRpQ8m8-wX14I3tSxngclDMTz2J9ipMconEujoz1Ldwuwu3U49iLx9BYpnXSKokQoOgdYInx4NKdBT1TAzvoyBqcREZkp35n9B0x0AdHmvUJ1EZD4Q",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEVHcEwAAAAAAAAAAAAAAAAAAABwcHCoqKifn58bGxt8fHzKysr___8rKyv5-fnW1tbp6emQkJCsrKxaWlq0tLTBwcE-Pj777dpoAAAABnRSTlMAS8D5_5mXKh4CAAAA3ElEQVR4AXzRUQ6EIAwEUNRZClgFQb3_UbfQEDUbd76qL5WMGGOGccJPpnEwkg9e8pE9vGYw4zuOZnrHyeBPFC055zw0wTkKN8TMzEHHZWWOuCMJJh03QXpgrlr0IzLmB-6L4KzHZ0Ub947-EF3q4rI3zByuzSLogDOiYeCICxGZVxmsYuR8x9DaJFQkL3UoX-iTvNg2xbPVvrB37ZgfeGr7_tl0Q_2HXjEjSe0HWnlWJGz1DEXEAsla2lyXcIj2K6O6Wvr1kQXCnL7DG9l4kwneBIY3aeJN1HizAwDOfRO3mlC3PQAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvABL2dvdG8_dXJsPUNBRVNwd0VCeENKRjE0RUpPUElMVUY2cTJMLTViS2hzMk5VQ0VyVlNFcDJ4cldBZXF5M2NIdzQxNUlpTG1sUUdvcTB5dXpULTN3TWpHcUJVcFBBQmo0UFItMDVHNXVmOUhZcTk1aVo2eWtjQmlhMXFQT01pd1JwUThtOC13WDE0STN0U3huZ2NsRE1UejJKOWlwTWNvbkV1am96MUxkd3V3dTNVNDlpTHg5QllwblhTS29rUW9PZ2RZSW54NE5LZEJUMVRBenZveUJxY1JFWmtwMzVuOUIweDBBZEhtdlVKMUVaRDRREgQaAggAGvEHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQM0HCAAQABgAIAAqCgoDaG93FcF0wD4qCQoCdG8VAAAAACovCg1hdXRvbWF0aWNhbGx5FQXLrEAaBGF1dG8aCGF1dG9tYXRlGglhdXRvbWF0aWMqQwoHZXh0cmFjdBVKWZBAGgZleHBvcnQaCWV4dHJhY3RlZBoKZXh0cmFjdGluZxoGdW5wYWNrGgxpdjtwO2V4dHJhY3QqUQoDa2V5FfwcpUAaCWVzc2VudGlhbBoJZXhwbGFpbmVkGgZmYW1vdXMaBGZpdmUaCWltcG9ydGFudBoEbWFpbhoLc2lnbmlmaWNhbnQaA3RvcCoyCgZxdW90ZXMVDNDpPhoFbGluZXMaCXF1b3RhdGlvbhoKcXVvdGF0aW9ucxoFcXVvdGUqCwoEZnJvbRUAAAAAKjEKBGxvbmcVHH8DQBoIZXh0ZW5kZWQaCWV4dGVuc2l2ZRoHbGVuZ3RoeRoGbG9uZydzKjsKCWludGVydmlldxVfpe8-GgxpbnRlcnZpZXdpbmcaCmludGVydmlld3MaD2ludGVydmlld3ZpZGVvcyosCgZ2aWRlb3MVB4CwQBoFY2xpcHMaBXZpZGVvGg9pbnRlcnZpZXd2aWRlb3My8AEvZ290bz91cmw9Q0FFU3B3RUJ4Q0pGMTRFSk9QSUxVRjZxMkwtNWJLaHMyTlVDRXJWU0VwMnhyV0FlcXkzY0h3NDE1SWlMbWxRR29xMHl1elQtM3dNakdxQlVwUEFCajRQUi0wNUc1dWY5SFlxOTVpWjZ5a2NCaWExcVBPTWl3UnBROG04LXdYMTRJM3RTeG5nY2xETVR6Mko5aXBNY29uRXVqb3oxTGR3dXd1M1U0OWlMeDlCWXBuWFNLb2tRb09nZFlJbng0TktkQlQxVEF6dm95QnFjUkVaa3AzNW45QjB4MEFkSG12VUoxRVpENFE6UjxiPlRvcDwvYj4gMTAgVG9vbHMgdG8gPGI-QXV0b21hdGljYWxseSBFeHRyYWN0IEtleTwvYj4gTW9tZW50cyBmcm9tIDxiPlZpZGVvczwvYj5CpgFDaG9wY2FzdCYjMzk7cyBBSSBpZGVudGlmaWVzIGNvbnZlcnNhdGlvbiBzaGlmdHMsIHN0cm9uZyBlbW90aW9ucywgYW5kIDxiPmtleSBxdW90ZXM8L2I-IGluIDxiPnZpZGVvczwvYj4sIG1ha2luZyBpdCBwZXJmZWN0IGZvciBjbGlwcGluZyA8Yj5pbXBvcnRhbnQ8L2I-IGhpZ2hsaWdodHMuSgRmcm9tSgJ0b1IDdG9wUgV2aWRlbyICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvABL2dvdG8_dXJsPUNBRVNwd0VCeENKRjE0RUpPUElMVUY2cTJMLTViS2hzMk5VQ0VyVlNFcDJ4cldBZXF5M2NIdzQxNUlpTG1sUUdvcTB5dXpULTN3TWpHcUJVcFBBQmo0UFItMDVHNXVmOUhZcTk1aVo2eWtjQmlhMXFQT01pd1JwUThtOC13WDE0STN0U3huZ2NsRE1UejJKOWlwTWNvbkV1am96MUxkd3V3dTNVNDlpTHg5QllwblhTS29rUW9PZ2RZSW54NE5LZEJUMVRBenZveUJxY1JFWmtwMzVuOUIweDBBZEhtdlVKMUVaRDRREgQaAggAGvEHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQM0HCAAQABgAIAAqCgoDaG93FcF0wD4qCQoCdG8VAAAAACovCg1hdXRvbWF0aWNhbGx5FQXLrEAaBGF1dG8aCGF1dG9tYXRlGglhdXRvbWF0aWMqQwoHZXh0cmFjdBVKWZBAGgZleHBvcnQaCWV4dHJhY3RlZBoKZXh0cmFjdGluZxoGdW5wYWNrGgxpdjtwO2V4dHJhY3QqUQoDa2V5FfwcpUAaCWVzc2VudGlhbBoJZXhwbGFpbmVkGgZmYW1vdXMaBGZpdmUaCWltcG9ydGFudBoEbWFpbhoLc2lnbmlmaWNhbnQaA3RvcCoyCgZxdW90ZXMVDNDpPhoFbGluZXMaCXF1b3RhdGlvbhoKcXVvdGF0aW9ucxoFcXVvdGUqCwoEZnJvbRUAAAAAKjEKBGxvbmcVHH8DQBoIZXh0ZW5kZWQaCWV4dGVuc2l2ZRoHbGVuZ3RoeRoGbG9uZydzKjsKCWludGVydmlldxVfpe8-GgxpbnRlcnZpZXdpbmcaCmludGVydmlld3MaD2ludGVydmlld3ZpZGVvcyosCgZ2aWRlb3MVB4CwQBoFY2xpcHMaBXZpZGVvGg9pbnRlcnZpZXd2aWRlb3My8AEvZ290bz91cmw9Q0FFU3B3RUJ4Q0pGMTRFSk9QSUxVRjZxMkwtNWJLaHMyTlVDRXJWU0VwMnhyV0FlcXkzY0h3NDE1SWlMbWxRR29xMHl1elQtM3dNakdxQlVwUEFCajRQUi0wNUc1dWY5SFlxOTVpWjZ5a2NCaWExcVBPTWl3UnBROG04LXdYMTRJM3RTeG5nY2xETVR6Mko5aXBNY29uRXVqb3oxTGR3dXd1M1U0OWlMeDlCWXBuWFNLb2tRb09nZFlJbng0TktkQlQxVEF6dm95QnFjUkVaa3AzNW45QjB4MEFkSG12VUoxRVpENFE6UjxiPlRvcDwvYj4gMTAgVG9vbHMgdG8gPGI-QXV0b21hdGljYWxseSBFeHRyYWN0IEtleTwvYj4gTW9tZW50cyBmcm9tIDxiPlZpZGVvczwvYj5CpgFDaG9wY2FzdCYjMzk7cyBBSSBpZGVudGlmaWVzIGNvbnZlcnNhdGlvbiBzaGlmdHMsIHN0cm9uZyBlbW90aW9ucywgYW5kIDxiPmtleSBxdW90ZXM8L2I-IGluIDxiPnZpZGVvczwvYj4sIG1ha2luZyBpdCBwZXJmZWN0IGZvciBjbGlwcGluZyA8Yj5pbXBvcnRhbnQ8L2I-IGhpZ2hsaWdodHMuSgRmcm9tSgJ0b1IDdG9wUgV2aWRlbyICEAFIAFgAaAA",
+        "source": "Medium \u00b7 John Paul",
+        "read_more_link": "https://www.google.com/goto?url=CAESmwIBxCJF12-0nu6ZVixOrb9yRKCRJ7tCyJmgY24pn_YN-ss9HTO-tbwIWtBw3NaO_XNJ6YJ63ktaiEQiI4zV1gjphcCdWbgnMwNnMynlA9fKW0laEXlIrpYmQnXWjg0oFGF2fI-TKas4wytgq4PyzjTru5j_ITZuh2jhdHV04itAfU4CJgyLCDF6fJmipxXQJ7DvG-jq1fVqCPzWTwhEz-kZCxCOzI3gfsCCbtnW5ot3eza68vnAvkqFdl5ZjAdlOpy4KAy5vnyt_bBWB0I_TQc-rUFKz0frioRfrJvbK12Sz51CV8a8ZoJ47P542cqpn_ZHxPxTuj88-F1UjHSnMsi_7mTmP5MQKfV9TAtAnKAUEexBrJyMvtOlEHgq&gsessionid=mbTUiG2NZEOLMr5cMZ1neHXJ5kDa2LdTmPObU8kc5Zfni8EcjySyiw"
+      },
+      {
+        "position": 4,
+        "title": "Free AI Video Summarizer & Describer",
+        "link": "https://www.google.com/goto?url=CAESYAHEIkXXlcigZthDOlpTGBuA9TRCpKh_yvCaXsyz8fYQtdYWA4mj16zhihr2thvOku-tL3jRc3uur3L45P7unatnd1Yya31OPUoL0NbhkLOCBhFkwfPKaYR1pTNkkad1Zg",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHEIkXXU-DmsGMLrABpUIDbYHTMrp9kqZMpTEV0T01xG6V9bMiIC9yuEY8al8cJ3tAzH3fdGD1TRBPREcE9r13mzVuVnYKvPL0Swd-d4emr7006QyzTowMR4jWHJ5p0gg&ved=2ahUKEwi9hYyt3JuYAxVCA4AAHaBwCi0QFnoECB0QAQ&uoh=1",
+        "displayed_link": "https://decopy.ai \u203a video-summarizer",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAwFBMVEVHcEwHVK0TQI4PSJQggc4CWa0BVKgCXrEDk-kGiuASXLIUWb0Cbb4CqP8TYLMGhepEfcIHguEmZbIChecRet8CZLoWl-0ioPoHo_w0bbUWgeEioPM2s_Y-arZCer-g1P1PrvU6pfYUf-OKzP2Z1f8ryP8cuPyAxvoGguIAgOoAduoJi_IVu_5tu_cAk_0HmPQIh-YCc8wBceQFs_8Al_4Hov8CVqwMrP8AmPQCR6ABt_8duP0Et_8KSaAPVqgAuv9RfLJLAAAAQHRSTlMABi0mDv______pUn____WIP___1D____7_0QrRZj_Lv__m_______wf___2f__6Vb__-r_9HpYrtr-haCWonW4B0m8wAAAS5JREFUeAG10VWiwkAMQNEgU7chuLszr3m4739XBPdPbr2nXvhZkWiMi_I8_o5RwWm6YWpCWPYr6o7jmK7rMuqeH7yidI85wkskUCafMJXOZI9oJHK5HKLMP2AhwxWBC0rlMrI-YKVaq9UYT1xGKWX9ARt3hILMpE35gM1qtXpFKLVarXbhATvV6u0Ru73-IDt8wOZocMF4r15uuervEWv9C_phzCMio3DH0eD_jJEehCldF93xDRtqcsGCD13SdT2c3jAzmfTOCIM8Sl2fzcf3v0JKXf7GYtDDlFiuCnfUBYXr9bown0I2jeSsNtvdHXWH5GSilJrCZr_aF_kX725IKEVqMJlM3NWmCLAV3O6ChIgpXSPFOI4DgMUYOyOh7CFpnL9ZwzHWAL4Xh991AA8xIRAYbTTJAAAAAElFTkSuQmCC.png",
+        "snippet": "Summarize MP4, MOV, and other videos with Decopy's AI video summarizer. Get transcripts, key points, and visual insights free with no sign-up.",
+        "snippet_highlighted_words": [
+          "Get transcripts, key points, and visual insights"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.9,
+              "reviews": 1251
+            },
+            "extensions": [
+              "4.9(1,251)"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Summarize MP4, MOV, and other videos with Decopy's AI video summarizer. Get transcripts, key points, and visual insights free with no sign-up.",
+            "source_info_link": "https://www.google.com/goto?url=CAESYAHEIkXXlcigZthDOlpTGBuA9TRCpKh_yvCaXsyz8fYQtdYWA4mj16zhihr2thvOku-tL3jRc3uur3L45P7unatnd1Yya31OPUoL0NbhkLOCBhFkwfPKaYR1pTNkkad1Zg",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAwFBMVEVHcEwHVK0TQI4PSJQggc4CWa0BVKgCXrEDk-kGiuASXLIUWb0Cbb4CqP8TYLMGhepEfcIHguEmZbIChecRet8CZLoWl-0ioPoHo_w0bbUWgeEioPM2s_Y-arZCer-g1P1PrvU6pfYUf-OKzP2Z1f8ryP8cuPyAxvoGguIAgOoAduoJi_IVu_5tu_cAk_0HmPQIh-YCc8wBceQFs_8Al_4Hov8CVqwMrP8AmPQCR6ABt_8duP0Et_8KSaAPVqgAuv9RfLJLAAAAQHRSTlMABi0mDv______pUn____WIP___1D____7_0QrRZj_Lv__m_______wf___2f__6Vb__-r_9HpYrtr-haCWonW4B0m8wAAAS5JREFUeAG10VWiwkAMQNEgU7chuLszr3m4739XBPdPbr2nXvhZkWiMi_I8_o5RwWm6YWpCWPYr6o7jmK7rMuqeH7yidI85wkskUCafMJXOZI9oJHK5HKLMP2AhwxWBC0rlMrI-YKVaq9UYT1xGKWX9ARt3hILMpE35gM1qtXpFKLVarXbhATvV6u0Ru73-IDt8wOZocMF4r15uuervEWv9C_phzCMio3DH0eD_jJEehCldF93xDRtqcsGCD13SdT2c3jAzmfTOCIM8Sl2fzcf3v0JKXf7GYtDDlFiuCnfUBYXr9bown0I2jeSsNtvdHXWH5GSilJrCZr_aF_kX725IKEVqMJlM3NWmCLAV3O6ChIgpXSPFOI4DgMUYOyOh7CFpnL9ZwzHWAL4Xh991AA8xIRAYbTTJAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhFSWtYWGxjaWdadGhET2xwVEdCdUE5VFJDcEtoX3l2Q2FYc3l6OGZZUXRkWVdBNG1qMTZ6aGlocjJ0aHZPa3UtdEwzalJjM3V1cjNMNDVQN3VuYXRuZDFZeWEzMU9QVW9MME5iaGtMT0NCaEZrd2ZQS2FZUjFwVE5ra2FkMVpnEgQaAggAGu8GEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAyQYIABAAGAAgACoKCgNob3cVy0XTPioJCgJ0bxUAAAAAKi8KDWF1dG9tYXRpY2FsbHkVAAAAABoEYXV0bxoIYXV0b21hdGUaCWF1dG9tYXRpYypDCgdleHRyYWN0FZYrkT8aBmV4cG9ydBoJZXh0cmFjdGVkGgpleHRyYWN0aW5nGgZ1bnBhY2saDGl2O3A7ZXh0cmFjdCpRCgNrZXkVLCgBQBoJZXNzZW50aWFsGglleHBsYWluZWQaBmZhbW91cxoEZml2ZRoJaW1wb3J0YW50GgRtYWluGgtzaWduaWZpY2FudBoDdG9wKjIKBnF1b3RlcxW_UuE-GgVsaW5lcxoJcXVvdGF0aW9uGgpxdW90YXRpb25zGgVxdW90ZSoLCgRmcm9tFQAAAAAqMQoEbG9uZxW6ldk_GghleHRlbmRlZBoJZXh0ZW5zaXZlGgdsZW5ndGh5GgZsb25nJ3MqOwoJaW50ZXJ2aWV3FdXT3D4aDGludGVydmlld2luZxoKaW50ZXJ2aWV3cxoPaW50ZXJ2aWV3dmlkZW9zKiwKBnZpZGVvcxUbL0ZAGgVjbGlwcxoFdmlkZW8aD2ludGVydmlld3ZpZGVvczKQAS9nb3RvP3VybD1DQUVTWUFIRUlrWFhsY2lnWnRoRE9scFRHQnVBOVRSQ3BLaF95dkNhWHN5ejhmWVF0ZFlXQTRtajE2emhpaHIydGh2T2t1LXRMM2pSYzN1dXIzTDQ1UDd1bmF0bmQxWXlhMzFPUFVvTDBOYmhrTE9DQmhGa3dmUEthWVIxcFROa2thZDFaZzo7RnJlZSBBSSA8Yj5WaWRlbzwvYj4gU3VtbWFyaXplciAmYW1wOyBEZXNjcmliZXIgLSBEZWNvcHkgQUlCmQFTdW1tYXJpemUgTVA0LCBNT1YsIGFuZCBvdGhlciB2aWRlb3Mgd2l0aCBEZWNvcHkmIzM5O3MgQUkgdmlkZW8gc3VtbWFyaXplci4gPGI-R2V0IHRyYW5zY3JpcHRzLCBrZXkgcG9pbnRzLCBhbmQgdmlzdWFsIGluc2lnaHRzPC9iPiBmcmVlIHdpdGggbm8gc2lnbi11cC5KBGZyb21KAnRvUgV2aWRlb1IDdG9wIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhFSWtYWGxjaWdadGhET2xwVEdCdUE5VFJDcEtoX3l2Q2FYc3l6OGZZUXRkWVdBNG1qMTZ6aGlocjJ0aHZPa3UtdEwzalJjM3V1cjNMNDVQN3VuYXRuZDFZeWEzMU9QVW9MME5iaGtMT0NCaEZrd2ZQS2FZUjFwVE5ra2FkMVpnEgQaAggAGu8GEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAyQYIABAAGAAgACoKCgNob3cVy0XTPioJCgJ0bxUAAAAAKi8KDWF1dG9tYXRpY2FsbHkVAAAAABoEYXV0bxoIYXV0b21hdGUaCWF1dG9tYXRpYypDCgdleHRyYWN0FZYrkT8aBmV4cG9ydBoJZXh0cmFjdGVkGgpleHRyYWN0aW5nGgZ1bnBhY2saDGl2O3A7ZXh0cmFjdCpRCgNrZXkVLCgBQBoJZXNzZW50aWFsGglleHBsYWluZWQaBmZhbW91cxoEZml2ZRoJaW1wb3J0YW50GgRtYWluGgtzaWduaWZpY2FudBoDdG9wKjIKBnF1b3RlcxW_UuE-GgVsaW5lcxoJcXVvdGF0aW9uGgpxdW90YXRpb25zGgVxdW90ZSoLCgRmcm9tFQAAAAAqMQoEbG9uZxW6ldk_GghleHRlbmRlZBoJZXh0ZW5zaXZlGgdsZW5ndGh5GgZsb25nJ3MqOwoJaW50ZXJ2aWV3FdXT3D4aDGludGVydmlld2luZxoKaW50ZXJ2aWV3cxoPaW50ZXJ2aWV3dmlkZW9zKiwKBnZpZGVvcxUbL0ZAGgVjbGlwcxoFdmlkZW8aD2ludGVydmlld3ZpZGVvczKQAS9nb3RvP3VybD1DQUVTWUFIRUlrWFhsY2lnWnRoRE9scFRHQnVBOVRSQ3BLaF95dkNhWHN5ejhmWVF0ZFlXQTRtajE2emhpaHIydGh2T2t1LXRMM2pSYzN1dXIzTDQ1UDd1bmF0bmQxWXlhMzFPUFVvTDBOYmhrTE9DQmhGa3dmUEthWVIxcFROa2thZDFaZzo7RnJlZSBBSSA8Yj5WaWRlbzwvYj4gU3VtbWFyaXplciAmYW1wOyBEZXNjcmliZXIgLSBEZWNvcHkgQUlCmQFTdW1tYXJpemUgTVA0LCBNT1YsIGFuZCBvdGhlciB2aWRlb3Mgd2l0aCBEZWNvcHkmIzM5O3MgQUkgdmlkZW8gc3VtbWFyaXplci4gPGI-R2V0IHRyYW5zY3JpcHRzLCBrZXkgcG9pbnRzLCBhbmQgdmlzdWFsIGluc2lnaHRzPC9iPiBmcmVlIHdpdGggbm8gc2lnbi11cC5KBGZyb21KAnRvUgV2aWRlb1IDdG9wIgIQAUgAWABoAA",
+        "source": "Decopy AI"
+      },
+      {
+        "position": 5,
+        "title": "How to Use AI to Get Instant Takeaways from a Podcast or ...",
+        "link": "https://www.google.com/goto?url=CAEShwEBxCJF13DSBfpVQxG8MLb2NDGtvfmlWEpQvi9z1VVZizxlS6sLG6zTDcVuUrHEFdixvVxVLYvE5KmClj_EPFP5AI2sBlQFom8dGxhQCMhxuXQuuCaNL323bXoHazONGUkiNa6U4w4jAZzv_jvGEHfVhQkF_20sUq4s3EyTKTYbbTfzA8YdAKg",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShwEBxCJF15fRxGZjkOLmojSY95JZh59tzJkDNVCq22yIY3NNHD5bsU5i_Qoqof_5lw1CxCorw0xcXN7XzlMU0S_pv67Ef9eIwpHcf8JavG5pPT_utfSMbYRaYqLhE_FZNMVXYw-tBd6n9AACuU5sKZi6WUJQIgJXRcdJNK-CHBrlYciqiiaGXLI&ved=2ahUKEwi9hYyt3JuYAxVCA4AAHaBwCi0QFnoECCIQAQ&uoh=1",
+        "displayed_link": "https://creatoreconomy.so \u203a how-to-use-ai-to-get-instant...",
+        "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzpDOjcBCgoKDQwNGg8PGjclHyU3Ljc3Nzc3Nzc3LzU3NSs3Ky4tNTc1Nzc1NTUrKzU0Ny01NS03KzctNys1KzcrNzU3Lf_AABEIABwAHAMBIgACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAAFBwIDBgT_xAAmEAABBAECBgIDAAAAAAAAAAABAgMEEQAFIRITMUFCUQcUBnGB_8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMB_8QAGhEAAgMBAQAAAAAAAAAAAAAAAhEAARIDMf_aAAwDAQACEQMRAD8ASqBebmT8Z6kxpUea5LZ43GwtTHAbRYur75jIfK-2yJClJZKwHFJ6hPc48vynT5ohyFtau_y2YZUjhpXEfHoKH79ZPqV0lLcQovYjJUZ2I6WnhSh6znOHPyFjgLK1LKlrBV1ugawGeuMLYuAxySlgSVXQ2x8PwXI3x5G50pnU1CIEpkIJpSfEJPfah_MR7uytveXt6lPixlsxpslllRJLbbykpJ90DWZ0DVKbzPFuS1xw_YSlSrITXAPHBRy6rIJskncnIEb4hpUoSvVuf__Z.jpg",
+        "date": "Oct 9, 2024",
+        "snippet": "So today, I want to share how you can use AI to get instant takeaways and quotes from long podcasts and videos in seconds instead of hours.",
+        "snippet_highlighted_words": [
+          "instant takeaways and quotes from long podcasts and videos"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "So today, I want to share how you can use AI to get instant takeaways and quotes from long podcasts and videos in seconds instead of hours.",
+            "source_info_link": "https://www.google.com/goto?url=CAEShwEBxCJF13DSBfpVQxG8MLb2NDGtvfmlWEpQvi9z1VVZizxlS6sLG6zTDcVuUrHEFdixvVxVLYvE5KmClj_EPFP5AI2sBlQFom8dGxhQCMhxuXQuuCaNL323bXoHazONGUkiNa6U4w4jAZzv_jvGEHfVhQkF_20sUq4s3EyTKTYbbTfzA8YdAKg",
+            "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzpDOjcBCgoKDQwNGg8PGjclHyU3Ljc3Nzc3Nzc3LzU3NSs3Ky4tNTc1Nzc1NTUrKzU0Ny01NS03KzctNys1KzcrNzU3Lf_AABEIABwAHAMBIgACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAAFBwIDBgT_xAAmEAABBAECBgIDAAAAAAAAAAABAgMEEQAFIRITMUFCUQcUBnGB_8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMB_8QAGhEAAgMBAQAAAAAAAAAAAAAAAhEAARIDMf_aAAwDAQACEQMRAD8ASqBebmT8Z6kxpUea5LZ43GwtTHAbRYur75jIfK-2yJClJZKwHFJ6hPc48vynT5ohyFtau_y2YZUjhpXEfHoKH79ZPqV0lLcQovYjJUZ2I6WnhSh6znOHPyFjgLK1LKlrBV1ugawGeuMLYuAxySlgSVXQ2x8PwXI3x5G50pnU1CIEpkIJpSfEJPfah_MR7uytveXt6lPixlsxpslllRJLbbykpJ90DWZ0DVKbzPFuS1xw_YSlSrITXAPHBRy6rIJskncnIEb4hpUoSvVuf__Z.jpg"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsUBL2dvdG8_dXJsPUNBRVNod0VCeENKRjEzRFNCZnBWUXhHOE1MYjJOREd0dmZtbFdFcFF2aTl6MVZWWml6eGxTNnNMRzZ6VERjVnVVckhFRmRpeHZWeFZMWXZFNUttQ2xqX0VQRlA1QUkyc0JsUUZvbThkR3hoUUNNaHh1WFF1dUNhTkwzMjNiWG9IYXpPTkdVa2lOYTZVNHc0akFaenZfanZHRUhmVmhRa0ZfMjBzVXE0czNFeVRLVFliYlRmekE4WWRBS2cSBBoCCAAapQcSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAgQcIABAAGAAgACoKCgNob3cV7LVhQCoJCgJ0bxUAAAAAKi8KDWF1dG9tYXRpY2FsbHkVAAAAABoEYXV0bxoIYXV0b21hdGUaCWF1dG9tYXRpYypDCgdleHRyYWN0FQAAAAAaBmV4cG9ydBoJZXh0cmFjdGVkGgpleHRyYWN0aW5nGgZ1bnBhY2saDGl2O3A7ZXh0cmFjdCpRCgNrZXkVQrxsPRoJZXNzZW50aWFsGglleHBsYWluZWQaBmZhbW91cxoEZml2ZRoJaW1wb3J0YW50GgRtYWluGgtzaWduaWZpY2FudBoDdG9wKjIKBnF1b3RlcxUYu84_GgVsaW5lcxoJcXVvdGF0aW9uGgpxdW90YXRpb25zGgVxdW90ZSoLCgRmcm9tFQAAAAAqMQoEbG9uZxWWnwpAGghleHRlbmRlZBoJZXh0ZW5zaXZlGgdsZW5ndGh5GgZsb25nJ3MqOwoJaW50ZXJ2aWV3FYNbkT4aDGludGVydmlld2luZxoKaW50ZXJ2aWV3cxoPaW50ZXJ2aWV3dmlkZW9zKiwKBnZpZGVvcxVjDck_GgVjbGlwcxoFdmlkZW8aD2ludGVydmlld3ZpZGVvczLFAS9nb3RvP3VybD1DQUVTaHdFQnhDSkYxM0RTQmZwVlF4RzhNTGIyTkRHdHZmbWxXRXBRdmk5ejFWVlppenhsUzZzTEc2elREY1Z1VXJIRUZkaXh2VnhWTFl2RTVLbUNsal9FUEZQNUFJMnNCbFFGb204ZEd4aFFDTWh4dVhRdXVDYU5MMzIzYlhvSGF6T05HVWtpTmE2VTR3NGpBWnp2X2p2R0VIZlZoUWtGXzIwc1VxNHMzRXlUS1RZYmJUZnpBOFlkQUtnOkVIb3cgdG8gVXNlIEFJIHRvIEdldCBJbnN0YW50IFRha2Vhd2F5cyBmcm9tIGEgUG9kY2FzdCBvciA8Yj5WaWRlbzwvYj5CkgFTbyB0b2RheSwgSSB3YW50IHRvIHNoYXJlIGhvdyB5b3UgY2FuIHVzZSBBSSB0byBnZXQgPGI-aW5zdGFudCB0YWtlYXdheXMgYW5kIHF1b3RlcyBmcm9tIGxvbmcgcG9kY2FzdHMgYW5kIHZpZGVvczwvYj4gaW4gc2Vjb25kcyBpbnN0ZWFkIG9mIGhvdXJzLkoEZnJvbUoCdG9SBXZpZGVvUgN0b3AiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsUBL2dvdG8_dXJsPUNBRVNod0VCeENKRjEzRFNCZnBWUXhHOE1MYjJOREd0dmZtbFdFcFF2aTl6MVZWWml6eGxTNnNMRzZ6VERjVnVVckhFRmRpeHZWeFZMWXZFNUttQ2xqX0VQRlA1QUkyc0JsUUZvbThkR3hoUUNNaHh1WFF1dUNhTkwzMjNiWG9IYXpPTkdVa2lOYTZVNHc0akFaenZfanZHRUhmVmhRa0ZfMjBzVXE0czNFeVRLVFliYlRmekE4WWRBS2cSBBoCCAAapQcSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAgQcIABAAGAAgACoKCgNob3cV7LVhQCoJCgJ0bxUAAAAAKi8KDWF1dG9tYXRpY2FsbHkVAAAAABoEYXV0bxoIYXV0b21hdGUaCWF1dG9tYXRpYypDCgdleHRyYWN0FQAAAAAaBmV4cG9ydBoJZXh0cmFjdGVkGgpleHRyYWN0aW5nGgZ1bnBhY2saDGl2O3A7ZXh0cmFjdCpRCgNrZXkVQrxsPRoJZXNzZW50aWFsGglleHBsYWluZWQaBmZhbW91cxoEZml2ZRoJaW1wb3J0YW50GgRtYWluGgtzaWduaWZpY2FudBoDdG9wKjIKBnF1b3RlcxUYu84_GgVsaW5lcxoJcXVvdGF0aW9uGgpxdW90YXRpb25zGgVxdW90ZSoLCgRmcm9tFQAAAAAqMQoEbG9uZxWWnwpAGghleHRlbmRlZBoJZXh0ZW5zaXZlGgdsZW5ndGh5GgZsb25nJ3MqOwoJaW50ZXJ2aWV3FYNbkT4aDGludGVydmlld2luZxoKaW50ZXJ2aWV3cxoPaW50ZXJ2aWV3dmlkZW9zKiwKBnZpZGVvcxVjDck_GgVjbGlwcxoFdmlkZW8aD2ludGVydmlld3ZpZGVvczLFAS9nb3RvP3VybD1DQUVTaHdFQnhDSkYxM0RTQmZwVlF4RzhNTGIyTkRHdHZmbWxXRXBRdmk5ejFWVlppenhsUzZzTEc2elREY1Z1VXJIRUZkaXh2VnhWTFl2RTVLbUNsal9FUEZQNUFJMnNCbFFGb204ZEd4aFFDTWh4dVhRdXVDYU5MMzIzYlhvSGF6T05HVWtpTmE2VTR3NGpBWnp2X2p2R0VIZlZoUWtGXzIwc1VxNHMzRXlUS1RZYmJUZnpBOFlkQUtnOkVIb3cgdG8gVXNlIEFJIHRvIEdldCBJbnN0YW50IFRha2Vhd2F5cyBmcm9tIGEgUG9kY2FzdCBvciA8Yj5WaWRlbzwvYj5CkgFTbyB0b2RheSwgSSB3YW50IHRvIHNoYXJlIGhvdyB5b3UgY2FuIHVzZSBBSSB0byBnZXQgPGI-aW5zdGFudCB0YWtlYXdheXMgYW5kIHF1b3RlcyBmcm9tIGxvbmcgcG9kY2FzdHMgYW5kIHZpZGVvczwvYj4gaW4gc2Vjb25kcyBpbnN0ZWFkIG9mIGhvdXJzLkoEZnJvbUoCdG9SBXZpZGVvUgN0b3AiAhABSABYAGgA",
+        "missing": [
+          "automatically"
+        ],
+        "must_include": {
+          "word": "automatically",
+          "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDikuQXKzZ7TuZwU51rNJcBqd7VxZg:1795355480105&q=How+to+%22automatically%22+extract+key+quotes+from+long+interview+videos&sa=X&ved=2ahUKEwi9hYyt3JuYAxVCA4AAHaBwCi0Q5t4CegQINBAB"
+        },
+        "source": "Behind the Craft | Peter Yang",
+        "read_more_link": "https://www.google.com/goto?url=CAES0wEBxCJF1yNuUNdMHItsDv53Cr2ydzh48lM2ihWdkxZRZv4bJoK7HIuGWHZSBl_NRVfNeq5tMQq7ajf16AoYQfSakYpYQQmKn9Vqke5cmU03Lo0fAdJHNPWpQOuydbK-Hf-QHELQ8pgb_bd1wEnbNHsWw5GCSR-aLujzyIdtBgL5zqdzJvChV05t99bJ_eZBdf6YFfxsRx3IP1zyj1n_w0M9gNrupAJurUiZXWRioIf_pV5wW7tUml_4sWvPb4yXida_NYpQt1Iux6lvbVzAuVxWhroa&gsessionid=mbTUiG2NZEOLMr5cMZ1neHXJ5kDa2LdTmPObU8kc5Zfni8EcjySyiw"
+      },
+      {
+        "position": 6,
+        "title": "Video Summarizer: Key Points and Timestamps",
+        "link": "https://www.google.com/goto?url=CAESZQHEIkXXrOaVkE6jxI7GLi_zdJ2okCY5baaWO2M5t64ojzAdyF3Pmx4QlgxMmdg9Un_uOEvFlsFIku-V6_lAFCViuwG__TUzppLWLmR7627WiN_Ky4fh4el-8_UlRnRFgmqXjnDc",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHEIkXX7WL_6OI7NiAo30RIXA_3OyBwvWsL9cGBN6mGZprTSoMEsBVfBdeBIMKcrfLEaJlJt2qz5Ss7jlOUMUGDWFfgk1D9Dayc4-dtFstiIn4Ksfr0Gc0CVitTLI9KMI_s49ow&ved=2ahUKEwi9hYyt3JuYAxVCA4AAHaBwCi0QFnoECB4QAQ&uoh=1",
+        "displayed_link": "https://chatcut.io \u203a AI apps",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAABSklEQVR4Aa3SIYyDMBiG4U_hqppQ2TSZxaBQmHN4HBaHwU1gq5qQ1NXh0LMLXs7jBaai3t3Ptu522-XUXkPCExK-pjj800dQiVvqHRXP9WiMGXXB1QuK0ukDrg2uSn8h7w2Q2su2racKw8CeUPQ9MHi_UT4saDR_oCoNYMN2z6841jIid2DNbj6E_RFmWHFHVegE6_7SFYduDeFSwKV3FEayOpC14GmSzD2aKVMRR8D6zS8AA5VPLSOLXyaYCW25tss4YYLc6Qcnwonp4li3cA1Tz5hoT_uRpIwD6FwuHmiRZvsPFaAav2QY27hT1h3D2W8rnfy4BFo7xJ0Uc0jlfgZ7-179hLLpwb42v90KDlOcQnFTg6lz8FRYW7hKRqQS04Eh0_PJNcinkiwixVpX41plNVMv10SyzhrKdlz8ccGkEKkQQn743r73DSa03cxgUcC8AAAAAElFTkSuQmCC.png",
+        "snippet": "Summarize a video in ChatCut using its visuals and transcript. Ask for key points and timestamps, review them against the source, then continue your edit.",
+        "snippet_highlighted_words": [
+          "video",
+          "key"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Summarize a video in ChatCut using its visuals and transcript. Ask for key points and timestamps, review them against the source, then continue your edit.",
+            "source_info_link": "https://www.google.com/goto?url=CAESZQHEIkXXrOaVkE6jxI7GLi_zdJ2okCY5baaWO2M5t64ojzAdyF3Pmx4QlgxMmdg9Un_uOEvFlsFIku-V6_lAFCViuwG__TUzppLWLmR7627WiN_Ky4fh4el-8_UlRnRFgmqXjnDc",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAABSklEQVR4Aa3SIYyDMBiG4U_hqppQ2TSZxaBQmHN4HBaHwU1gq5qQ1NXh0LMLXs7jBaai3t3Ptu522-XUXkPCExK-pjj800dQiVvqHRXP9WiMGXXB1QuK0ukDrg2uSn8h7w2Q2su2racKw8CeUPQ9MHi_UT4saDR_oCoNYMN2z6841jIid2DNbj6E_RFmWHFHVegE6_7SFYduDeFSwKV3FEayOpC14GmSzD2aKVMRR8D6zS8AA5VPLSOLXyaYCW25tss4YYLc6Qcnwonp4li3cA1Tz5hoT_uRpIwD6FwuHmiRZvsPFaAav2QY27hT1h3D2W8rnfy4BFo7xJ0Uc0jlfgZ7-179hLLpwb42v90KDlOcQnFTg6lz8FRYW7hKRqQS04Eh0_PJNcinkiwixVpX41plNVMv10SyzhrKdlz8ccGkEKkQQn743r73DSa03cxgUcC8AAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpYBL2dvdG8_dXJsPUNBRVNaUUhFSWtYWHJPYVZrRTZqeEk3R0xpX3pkSjJva0NZNWJhYVdPMk01dDY0b2p6QWR5RjNQbXg0UWxneE1tZGc5VW5fdU9FdkZsc0ZJa3UtVjZfbEFGQ1ZpdXdHX19UVXpwcExXTG1SNzYyN1dpTl9LeTRmaDRlbC04X1VsUm5SRmdtcVhqbkRjEgQaAggAGooHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOYGCAAQABgAIAAqCgoDaG93FSboGT8qCQoCdG8VAAAAACovCg1hdXRvbWF0aWNhbGx5FTvfgj4aBGF1dG8aCGF1dG9tYXRlGglhdXRvbWF0aWMqQwoHZXh0cmFjdBUPpCo9GgZleHBvcnQaCWV4dHJhY3RlZBoKZXh0cmFjdGluZxoGdW5wYWNrGgxpdjtwO2V4dHJhY3QqUQoDa2V5FZJ6LkAaCWVzc2VudGlhbBoJZXhwbGFpbmVkGgZmYW1vdXMaBGZpdmUaCWltcG9ydGFudBoEbWFpbhoLc2lnbmlmaWNhbnQaA3RvcCoyCgZxdW90ZXMVr6fHPhoFbGluZXMaCXF1b3RhdGlvbhoKcXVvdGF0aW9ucxoFcXVvdGUqCwoEZnJvbRUAAAAAKjEKBGxvbmcVhfnMPhoIZXh0ZW5kZWQaCWV4dGVuc2l2ZRoHbGVuZ3RoeRoGbG9uZydzKjsKCWludGVydmlldxVSV3g-GgxpbnRlcnZpZXdpbmcaCmludGVydmlld3MaD2ludGVydmlld3ZpZGVvcyosCgZ2aWRlb3MVFpYFPxoFY2xpcHMaBXZpZGVvGg9pbnRlcnZpZXd2aWRlb3MylgEvZ290bz91cmw9Q0FFU1pRSEVJa1hYck9hVmtFNmp4STdHTGlfemRKMm9rQ1k1YmFhV08yTTV0NjRvanpBZHlGM1BteDRRbGd4TW1kZzlVbl91T0V2RmxzRklrdS1WNl9sQUZDVml1d0dfX1RVenBwTFdMbVI3NjI3V2lOX0t5NGZoNGVsLThfVWxSblJGZ21xWGpuRGM6QzxiPlZpZGVvPC9iPiBTdW1tYXJpemVyOiA8Yj5LZXk8L2I-IFBvaW50cyBhbmQgVGltZXN0YW1wcyAtIENoYXRDdXRCqAFTdW1tYXJpemUgYSA8Yj52aWRlbzwvYj4gaW4gQ2hhdEN1dCB1c2luZyBpdHMgdmlzdWFscyBhbmQgdHJhbnNjcmlwdC4gQXNrIGZvciA8Yj5rZXk8L2I-IHBvaW50cyBhbmQgdGltZXN0YW1wcywgcmV2aWV3IHRoZW0gYWdhaW5zdCB0aGUgc291cmNlLCB0aGVuIGNvbnRpbnVlIHlvdXIgZWRpdC5KBGZyb21KAnRvUgN0b3BSBXZpZGVvIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpYBL2dvdG8_dXJsPUNBRVNaUUhFSWtYWHJPYVZrRTZqeEk3R0xpX3pkSjJva0NZNWJhYVdPMk01dDY0b2p6QWR5RjNQbXg0UWxneE1tZGc5VW5fdU9FdkZsc0ZJa3UtVjZfbEFGQ1ZpdXdHX19UVXpwcExXTG1SNzYyN1dpTl9LeTRmaDRlbC04X1VsUm5SRmdtcVhqbkRjEgQaAggAGooHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOYGCAAQABgAIAAqCgoDaG93FSboGT8qCQoCdG8VAAAAACovCg1hdXRvbWF0aWNhbGx5FTvfgj4aBGF1dG8aCGF1dG9tYXRlGglhdXRvbWF0aWMqQwoHZXh0cmFjdBUPpCo9GgZleHBvcnQaCWV4dHJhY3RlZBoKZXh0cmFjdGluZxoGdW5wYWNrGgxpdjtwO2V4dHJhY3QqUQoDa2V5FZJ6LkAaCWVzc2VudGlhbBoJZXhwbGFpbmVkGgZmYW1vdXMaBGZpdmUaCWltcG9ydGFudBoEbWFpbhoLc2lnbmlmaWNhbnQaA3RvcCoyCgZxdW90ZXMVr6fHPhoFbGluZXMaCXF1b3RhdGlvbhoKcXVvdGF0aW9ucxoFcXVvdGUqCwoEZnJvbRUAAAAAKjEKBGxvbmcVhfnMPhoIZXh0ZW5kZWQaCWV4dGVuc2l2ZRoHbGVuZ3RoeRoGbG9uZydzKjsKCWludGVydmlldxVSV3g-GgxpbnRlcnZpZXdpbmcaCmludGVydmlld3MaD2ludGVydmlld3ZpZGVvcyosCgZ2aWRlb3MVFpYFPxoFY2xpcHMaBXZpZGVvGg9pbnRlcnZpZXd2aWRlb3MylgEvZ290bz91cmw9Q0FFU1pRSEVJa1hYck9hVmtFNmp4STdHTGlfemRKMm9rQ1k1YmFhV08yTTV0NjRvanpBZHlGM1BteDRRbGd4TW1kZzlVbl91T0V2RmxzRklrdS1WNl9sQUZDVml1d0dfX1RVenBwTFdMbVI3NjI3V2lOX0t5NGZoNGVsLThfVWxSblJGZ21xWGpuRGM6QzxiPlZpZGVvPC9iPiBTdW1tYXJpemVyOiA8Yj5LZXk8L2I-IFBvaW50cyBhbmQgVGltZXN0YW1wcyAtIENoYXRDdXRCqAFTdW1tYXJpemUgYSA8Yj52aWRlbzwvYj4gaW4gQ2hhdEN1dCB1c2luZyBpdHMgdmlzdWFscyBhbmQgdHJhbnNjcmlwdC4gQXNrIGZvciA8Yj5rZXk8L2I-IHBvaW50cyBhbmQgdGltZXN0YW1wcywgcmV2aWV3IHRoZW0gYWdhaW5zdCB0aGUgc291cmNlLCB0aGVuIGNvbnRpbnVlIHlvdXIgZWRpdC5KBGZyb21KAnRvUgN0b3BSBXZpZGVvIgIQAUgAWABoAA",
+        "source": "ChatCut"
+      },
+      {
+        "position": 7,
+        "title": "AI Interview Clip Generator \u2014 Extract Quotable Moments ...",
+        "link": "https://www.google.com/goto?url=CAESdAHEIkXXViuHcpZh0iorJgwWevnCuG0yIh1uuPxRTxFGHBlWS7IazleQhCmEeUJc-zU9HUrdmv8A7MzC_7mnKkPEAgwtsGqJ5agI7BOuQrVBJrbbohsOx1vdfZ-8ju8w3og8KzWBjCatVaMbbStplFNTbQwx",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHEIkXXWViS8k1pH1Fcn5dfgMT-YGGyunvz3c1t70IwQoOJkQvzUXWV-nbboV3at4Xsy1vcJ-ddF-AM-m2oA5aSkiC6VEcAxzWzqm62I_PohyNWtO8geHTY-czLzopQOsCxzdHIFmLxBG3KCiwJKmNmH9m5&ved=2ahUKEwi9hYyt3JuYAxVCA4AAHaBwCi0QFnoECFIQAQ&uoh=1",
+        "displayed_link": "https://transcriptr.ai \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAflBMVEX____8_Pynp6hcXF8mJSscGyLMzMwAAAAAAAYUExsaGSAQDhgAAAxubnCcm525ubpzc3WtrK42NTpBQUVKSk4AFyMAFSQAGSQAHCP2TwX_UAD_QgD_PAD_LwD_FQD_BgD1BgXKRBDoRgrmOwvmNgvmKwvmFgvoDArKDRAAESR6kTjQAAAAyklEQVR4AeSS1WEDMRAF54nCnBLSf2Vh9vGdYWWQ3YDnV6NlAZpgm34CBElSwy5hFCpEkq8pE9u-klLp3YxKLrXsx1fyqWE_oVIQh-gVMdLK7SuMLJCcCV1VEvzJBwtu_rtihPjJzRt3H1zXxQgk1RevPHzHnRqMcP7C408DRy4QOlxDWbgVPQ7ExMuOcBskJBAI_b_sCJdZQHrfEXiCF_pVjpwiKKeQEMrhgd6O9vbSBAsPIZ89tzhAq_B29sMIZRyCWY9g5iWY_QGtRGaPmB_tTQAAAABJRU5ErkJggg.png",
+        "date": "Apr 19, 2026",
+        "snippet": "Extract the best quotes and moments from any interview video with AI. Step-by-step guide to interview clip generation \u2014 free tool included.",
+        "snippet_highlighted_words": [
+          "Extract the best quotes and moments from any interview video with AI"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Extract the best quotes and moments from any interview video with AI. Step-by-step guide to interview clip generation \u2014 free tool included.",
+            "source_info_link": "https://www.google.com/goto?url=CAESdAHEIkXXViuHcpZh0iorJgwWevnCuG0yIh1uuPxRTxFGHBlWS7IazleQhCmEeUJc-zU9HUrdmv8A7MzC_7mnKkPEAgwtsGqJ5agI7BOuQrVBJrbbohsOx1vdfZ-8ju8w3og8KzWBjCatVaMbbStplFNTbQwx",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAflBMVEX____8_Pynp6hcXF8mJSscGyLMzMwAAAAAAAYUExsaGSAQDhgAAAxubnCcm525ubpzc3WtrK42NTpBQUVKSk4AFyMAFSQAGSQAHCP2TwX_UAD_QgD_PAD_LwD_FQD_BgD1BgXKRBDoRgrmOwvmNgvmKwvmFgvoDArKDRAAESR6kTjQAAAAyklEQVR4AeSS1WEDMRAF54nCnBLSf2Vh9vGdYWWQ3YDnV6NlAZpgm34CBElSwy5hFCpEkq8pE9u-klLp3YxKLrXsx1fyqWE_oVIQh-gVMdLK7SuMLJCcCV1VEvzJBwtu_rtihPjJzRt3H1zXxQgk1RevPHzHnRqMcP7C408DRy4QOlxDWbgVPQ7ExMuOcBskJBAI_b_sCJdZQHrfEXiCF_pVjpwiKKeQEMrhgd6O9vbSBAsPIZ89tzhAq_B29sMIZRyCWY9g5iWY_QGtRGaPmB_tTQAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqoBL2dvdG8_dXJsPUNBRVNkQUhFSWtYWFZpdUhjcFpoMGlvckpnd1dldm5DdUcweUloMXV1UHhSVHhGR0hCbFdTN0lhemxlUWhDbUVlVUpjLXpVOUhVcmRtdjhBN016Q183bW5La1BFQWd3dHNHcUo1YWdJN0JPdVFyVkJKcmJib2hzT3gxdmRmWi04anU4dzNvZzhLeldCakNhdFZhTWJiU3RwbEZOVGJRd3gSBBoCCAAalgcSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA8gYIABAAGAAgACoKCgNob3cVDOY4PyoJCgJ0bxUAAAAAKi8KDWF1dG9tYXRpY2FsbHkVAAAAABoEYXV0bxoIYXV0b21hdGUaCWF1dG9tYXRpYypDCgdleHRyYWN0FfurC0AaBmV4cG9ydBoJZXh0cmFjdGVkGgpleHRyYWN0aW5nGgZ1bnBhY2saDGl2O3A7ZXh0cmFjdCpRCgNrZXkVU4JNPBoJZXNzZW50aWFsGglleHBsYWluZWQaBmZhbW91cxoEZml2ZRoJaW1wb3J0YW50GgRtYWluGgtzaWduaWZpY2FudBoDdG9wKjIKBnF1b3RlcxWHSxk_GgVsaW5lcxoJcXVvdGF0aW9uGgpxdW90YXRpb25zGgVxdW90ZSoLCgRmcm9tFQAAAAAqMQoEbG9uZxUAAAAAGghleHRlbmRlZBoJZXh0ZW5zaXZlGgdsZW5ndGh5GgZsb25nJ3MqOwoJaW50ZXJ2aWV3Fe6Qg0AaDGludGVydmlld2luZxoKaW50ZXJ2aWV3cxoPaW50ZXJ2aWV3dmlkZW9zKiwKBnZpZGVvcxW4kzY-GgVjbGlwcxoFdmlkZW8aD2ludGVydmlld3ZpZGVvczKqAS9nb3RvP3VybD1DQUVTZEFIRUlrWFhWaXVIY3BaaDBpb3JKZ3dXZXZuQ3VHMHlJaDF1dVB4UlR4RkdIQmxXUzdJYXpsZVFoQ21FZVVKYy16VTlIVXJkbXY4QTdNekNfN21uS2tQRUFnd3RzR3FKNWFnSTdCT3VRclZCSnJiYm9oc094MXZkZlotOGp1OHczb2c4S3pXQmpDYXRWYU1iYlN0cGxGTlRiUXd4Ok9BSSA8Yj5JbnRlcnZpZXc8L2I-IENsaXAgR2VuZXJhdG9yIOKAlCA8Yj5FeHRyYWN0PC9iPiBRdW90YWJsZSBNb21lbnRzIGZyb20gLi4uQpQBPGI-RXh0cmFjdCB0aGUgYmVzdCBxdW90ZXMgYW5kIG1vbWVudHMgZnJvbSBhbnkgaW50ZXJ2aWV3IHZpZGVvIHdpdGggQUk8L2I-LiBTdGVwLWJ5LXN0ZXAgZ3VpZGUgdG8gaW50ZXJ2aWV3IGNsaXAgZ2VuZXJhdGlvbiDigJQgZnJlZSB0b29sIGluY2x1ZGVkLkoCdG9KBGZyb21SBXZpZGVvUgN0b3AiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqoBL2dvdG8_dXJsPUNBRVNkQUhFSWtYWFZpdUhjcFpoMGlvckpnd1dldm5DdUcweUloMXV1UHhSVHhGR0hCbFdTN0lhemxlUWhDbUVlVUpjLXpVOUhVcmRtdjhBN016Q183bW5La1BFQWd3dHNHcUo1YWdJN0JPdVFyVkJKcmJib2hzT3gxdmRmWi04anU4dzNvZzhLeldCakNhdFZhTWJiU3RwbEZOVGJRd3gSBBoCCAAalgcSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA8gYIABAAGAAgACoKCgNob3cVDOY4PyoJCgJ0bxUAAAAAKi8KDWF1dG9tYXRpY2FsbHkVAAAAABoEYXV0bxoIYXV0b21hdGUaCWF1dG9tYXRpYypDCgdleHRyYWN0FfurC0AaBmV4cG9ydBoJZXh0cmFjdGVkGgpleHRyYWN0aW5nGgZ1bnBhY2saDGl2O3A7ZXh0cmFjdCpRCgNrZXkVU4JNPBoJZXNzZW50aWFsGglleHBsYWluZWQaBmZhbW91cxoEZml2ZRoJaW1wb3J0YW50GgRtYWluGgtzaWduaWZpY2FudBoDdG9wKjIKBnF1b3RlcxWHSxk_GgVsaW5lcxoJcXVvdGF0aW9uGgpxdW90YXRpb25zGgVxdW90ZSoLCgRmcm9tFQAAAAAqMQoEbG9uZxUAAAAAGghleHRlbmRlZBoJZXh0ZW5zaXZlGgdsZW5ndGh5GgZsb25nJ3MqOwoJaW50ZXJ2aWV3Fe6Qg0AaDGludGVydmlld2luZxoKaW50ZXJ2aWV3cxoPaW50ZXJ2aWV3dmlkZW9zKiwKBnZpZGVvcxW4kzY-GgVjbGlwcxoFdmlkZW8aD2ludGVydmlld3ZpZGVvczKqAS9nb3RvP3VybD1DQUVTZEFIRUlrWFhWaXVIY3BaaDBpb3JKZ3dXZXZuQ3VHMHlJaDF1dVB4UlR4RkdIQmxXUzdJYXpsZVFoQ21FZVVKYy16VTlIVXJkbXY4QTdNekNfN21uS2tQRUFnd3RzR3FKNWFnSTdCT3VRclZCSnJiYm9oc094MXZkZlotOGp1OHczb2c4S3pXQmpDYXRWYU1iYlN0cGxGTlRiUXd4Ok9BSSA8Yj5JbnRlcnZpZXc8L2I-IENsaXAgR2VuZXJhdG9yIOKAlCA8Yj5FeHRyYWN0PC9iPiBRdW90YWJsZSBNb21lbnRzIGZyb20gLi4uQpQBPGI-RXh0cmFjdCB0aGUgYmVzdCBxdW90ZXMgYW5kIG1vbWVudHMgZnJvbSBhbnkgaW50ZXJ2aWV3IHZpZGVvIHdpdGggQUk8L2I-LiBTdGVwLWJ5LXN0ZXAgZ3VpZGUgdG8gaW50ZXJ2aWV3IGNsaXAgZ2VuZXJhdGlvbiDigJQgZnJlZSB0b29sIGluY2x1ZGVkLkoCdG9KBGZyb21SBXZpZGVvUgN0b3AiAhABSABYAGgA",
+        "source": "Transcriptr"
+      },
+      {
+        "position": 8,
+        "title": "Free AI Clip Maker for Zoom Interview Highlights",
+        "link": "https://www.google.com/goto?url=CAESoAEBxCJF1_Bgg1b2emqdu4_y6XrXETOrJGaaMcUcJTZdiGEX_Sa-Cr6gUUhm2aotFChwisQgPKeS48Jld8IHieSrqWXey_Ky-NV1KD6y6bWzScyI4icqRaEkID62ZpjkXltUig0xqEUw-pnKToZIdcvpVuSPmvzi5ofhtdMmXkhiKnBd00-euDzSXZyPLq8tvEMRGo9Ggks-vvdt0U1ysANL",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoAEBxCJF10SVi-8viWnByLKD8RekKXh49uaqk97RnpkIFXLTRyesjnjh0TWw7Za5XsopLhyRi-hB3QATPpSxZj5nhDU6-g7PMlNT4bmPkGPgOhEgAvl6eAjIMV5xJNoEL8z6fdRF3_hO7g0o4jTjHX3x218HazxV62fYXKb5egMJuTF7V_zXv4OqFaJAsNQ9ytXXAXOly3BRJOKBqQnQDpwa&ved=2ahUKEwi9hYyt3JuYAxVCA4AAHaBwCi0QFnoECFQQAQ&uoh=1",
+        "displayed_link": "https://www.choppity.com \u203a Tools \u203a Free AI Clip Maker",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcExxL_9xL_9xL_9xL_9xL_9xL_9tJf9qHf9jBP95Pv-2nf_VyP-bdv9nE__Itv-IV_-RZv_r5P_____i2f9cAP-niP_49f_-SyO1AAAAB3RSTlMAJa7y_69kPKWwjAAAAQ1JREFUeAF9kwUChDAMBJFwqZHSbuX_P71wrgxSmboMwzBOM30xL-OgnOgPJ61HfxmH5b-chvm_nIdHlI3hj9hNsnU-hFU0JrLGsPFTSspAKfDV-QLkjKcUj5CsVI8MhMbVIPFNckOzzIbcXsZq7d7lXtMiWuItiMUqzu-1k7nV5ARHWgtku68FV9xVGt8tSc9YbQ7WsmKkR3OVsQhxkxxrAOJ24SGDSmLjwTm0jgv93mzMKpUO-Fo3eHLuPlpuMLRjG4Cock_eJBl4IcXE7rx6oVfpse6DFA1rTWj8kIqNKC2ltGUgJvg3SZIKHhTz2qzCYg1fMUJPecDxMZn-y-X4aB4damVcfl2HSeudAfEjGBYFvIZXAAAAAElFTkSuQmCC.png",
+        "snippet": "Extract highlights from Zoom interviews with Choppity's free AI clip maker. Automatically find key moments, add captions, and share interview clips on social ...",
+        "snippet_highlighted_words": [
+          "Automatically find key moments"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Extract highlights from Zoom interviews with Choppity's free AI clip maker. Automatically find key moments, add captions, and share interview clips on social ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESoAEBxCJF1_Bgg1b2emqdu4_y6XrXETOrJGaaMcUcJTZdiGEX_Sa-Cr6gUUhm2aotFChwisQgPKeS48Jld8IHieSrqWXey_Ky-NV1KD6y6bWzScyI4icqRaEkID62ZpjkXltUig0xqEUw-pnKToZIdcvpVuSPmvzi5ofhtdMmXkhiKnBd00-euDzSXZyPLq8tvEMRGo9Ggks-vvdt0U1ysANL",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcExxL_9xL_9xL_9xL_9xL_9xL_9tJf9qHf9jBP95Pv-2nf_VyP-bdv9nE__Itv-IV_-RZv_r5P_____i2f9cAP-niP_49f_-SyO1AAAAB3RSTlMAJa7y_69kPKWwjAAAAQ1JREFUeAF9kwUChDAMBJFwqZHSbuX_P71wrgxSmboMwzBOM30xL-OgnOgPJ61HfxmH5b-chvm_nIdHlI3hj9hNsnU-hFU0JrLGsPFTSspAKfDV-QLkjKcUj5CsVI8MhMbVIPFNckOzzIbcXsZq7d7lXtMiWuItiMUqzu-1k7nV5ARHWgtku68FV9xVGt8tSc9YbQ7WsmKkR3OVsQhxkxxrAOJ24SGDSmLjwTm0jgv93mzMKpUO-Fo3eHLuPlpuMLRjG4Cock_eJBl4IcXE7rx6oVfpse6DFA1rTWj8kIqNKC2ltGUgJvg3SZIKHhTz2qzCYg1fMUJPecDxMZn-y-X4aB4damVcfl2HSeudAfEjGBYFvIZXAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuYBL2dvdG8_dXJsPUNBRVNvQUVCeENKRjFfQmdnMWIyZW1xZHU0X3k2WHJYRVRPckpHYWFNY1VjSlRaZGlHRVhfU2EtQ3I2Z1VVaG0yYW90RkNod2lzUWdQS2VTNDhKbGQ4SUhpZVNycVdYZXlfS3ktTlYxS0Q2eTZiV3pTY3lJNGljcVJhRWtJRDYyWnBqa1hsdFVpZzB4cUVVdy1wbktUb1pJZGN2cFZ1U1BtdnppNW9maHRkTW1Ya2hpS25CZDAwLWV1RHpTWFp5UExxOHR2RU1SR285R2drcy12dmR0MFUxeXNBTkwSBBoCCAAa4gcSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAvgcIABAAGAAgACoKCgNob3cVgX_tPioJCgJ0bxUAAAAAKi8KDWF1dG9tYXRpY2FsbHkVjJFHPxoEYXV0bxoIYXV0b21hdGUaCWF1dG9tYXRpYypDCgdleHRyYWN0Fa9KyD4aBmV4cG9ydBoJZXh0cmFjdGVkGgpleHRyYWN0aW5nGgZ1bnBhY2saDGl2O3A7ZXh0cmFjdCpRCgNrZXkVslHDPxoJZXNzZW50aWFsGglleHBsYWluZWQaBmZhbW91cxoEZml2ZRoJaW1wb3J0YW50GgRtYWluGgtzaWduaWZpY2FudBoDdG9wKjIKBnF1b3RlcxWnML4-GgVsaW5lcxoJcXVvdGF0aW9uGgpxdW90YXRpb25zGgVxdW90ZSoLCgRmcm9tFQAAAAAqMQoEbG9uZxVXbHM_GghleHRlbmRlZBoJZXh0ZW5zaXZlGgdsZW5ndGh5GgZsb25nJ3MqOwoJaW50ZXJ2aWV3FfRhH0AaDGludGVydmlld2luZxoKaW50ZXJ2aWV3cxoPaW50ZXJ2aWV3dmlkZW9zKiwKBnZpZGVvcxUT1bY_GgVjbGlwcxoFdmlkZW8aD2ludGVydmlld3ZpZGVvczLmAS9nb3RvP3VybD1DQUVTb0FFQnhDSkYxX0JnZzFiMmVtcWR1NF95NlhyWEVUT3JKR2FhTWNVY0pUWmRpR0VYX1NhLUNyNmdVVWhtMmFvdEZDaHdpc1FnUEtlUzQ4SmxkOElIaWVTcnFXWGV5X0t5LU5WMUtENnk2Yld6U2N5STRpY3FSYUVrSUQ2MlpwamtYbHRVaWcweHFFVXctcG5LVG9aSWRjdnBWdVNQbXZ6aTVvZmh0ZE1tWGtoaUtuQmQwMC1ldUR6U1haeVBMcTh0dkVNUkdvOUdna3MtdnZkdDBVMXlzQU5MOkJGcmVlIEFJIENsaXAgTWFrZXIgZm9yIFpvb20gPGI-SW50ZXJ2aWV3PC9iPiBIaWdobGlnaHRzIC0gQ2hvcHBpdHlCsQFFeHRyYWN0IGhpZ2hsaWdodHMgZnJvbSBab29tIGludGVydmlld3Mgd2l0aCBDaG9wcGl0eSYjMzk7cyBmcmVlIEFJIGNsaXAgbWFrZXIuIDxiPkF1dG9tYXRpY2FsbHkgZmluZCBrZXkgbW9tZW50czwvYj4sIGFkZCBjYXB0aW9ucywgYW5kIHNoYXJlIGludGVydmlldyBjbGlwcyBvbiBzb2NpYWwmbmJzcDsuLi5KAnRvSgRmcm9tUgN0b3BSBXZpZGVvIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuYBL2dvdG8_dXJsPUNBRVNvQUVCeENKRjFfQmdnMWIyZW1xZHU0X3k2WHJYRVRPckpHYWFNY1VjSlRaZGlHRVhfU2EtQ3I2Z1VVaG0yYW90RkNod2lzUWdQS2VTNDhKbGQ4SUhpZVNycVdYZXlfS3ktTlYxS0Q2eTZiV3pTY3lJNGljcVJhRWtJRDYyWnBqa1hsdFVpZzB4cUVVdy1wbktUb1pJZGN2cFZ1U1BtdnppNW9maHRkTW1Ya2hpS25CZDAwLWV1RHpTWFp5UExxOHR2RU1SR285R2drcy12dmR0MFUxeXNBTkwSBBoCCAAa4gcSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAvgcIABAAGAAgACoKCgNob3cVgX_tPioJCgJ0bxUAAAAAKi8KDWF1dG9tYXRpY2FsbHkVjJFHPxoEYXV0bxoIYXV0b21hdGUaCWF1dG9tYXRpYypDCgdleHRyYWN0Fa9KyD4aBmV4cG9ydBoJZXh0cmFjdGVkGgpleHRyYWN0aW5nGgZ1bnBhY2saDGl2O3A7ZXh0cmFjdCpRCgNrZXkVslHDPxoJZXNzZW50aWFsGglleHBsYWluZWQaBmZhbW91cxoEZml2ZRoJaW1wb3J0YW50GgRtYWluGgtzaWduaWZpY2FudBoDdG9wKjIKBnF1b3RlcxWnML4-GgVsaW5lcxoJcXVvdGF0aW9uGgpxdW90YXRpb25zGgVxdW90ZSoLCgRmcm9tFQAAAAAqMQoEbG9uZxVXbHM_GghleHRlbmRlZBoJZXh0ZW5zaXZlGgdsZW5ndGh5GgZsb25nJ3MqOwoJaW50ZXJ2aWV3FfRhH0AaDGludGVydmlld2luZxoKaW50ZXJ2aWV3cxoPaW50ZXJ2aWV3dmlkZW9zKiwKBnZpZGVvcxUT1bY_GgVjbGlwcxoFdmlkZW8aD2ludGVydmlld3ZpZGVvczLmAS9nb3RvP3VybD1DQUVTb0FFQnhDSkYxX0JnZzFiMmVtcWR1NF95NlhyWEVUT3JKR2FhTWNVY0pUWmRpR0VYX1NhLUNyNmdVVWhtMmFvdEZDaHdpc1FnUEtlUzQ4SmxkOElIaWVTcnFXWGV5X0t5LU5WMUtENnk2Yld6U2N5STRpY3FSYUVrSUQ2MlpwamtYbHRVaWcweHFFVXctcG5LVG9aSWRjdnBWdVNQbXZ6aTVvZmh0ZE1tWGtoaUtuQmQwMC1ldUR6U1haeVBMcTh0dkVNUkdvOUdna3MtdnZkdDBVMXlzQU5MOkJGcmVlIEFJIENsaXAgTWFrZXIgZm9yIFpvb20gPGI-SW50ZXJ2aWV3PC9iPiBIaWdobGlnaHRzIC0gQ2hvcHBpdHlCsQFFeHRyYWN0IGhpZ2hsaWdodHMgZnJvbSBab29tIGludGVydmlld3Mgd2l0aCBDaG9wcGl0eSYjMzk7cyBmcmVlIEFJIGNsaXAgbWFrZXIuIDxiPkF1dG9tYXRpY2FsbHkgZmluZCBrZXkgbW9tZW50czwvYj4sIGFkZCBjYXB0aW9ucywgYW5kIHNoYXJlIGludGVydmlldyBjbGlwcyBvbiBzb2NpYWwmbmJzcDsuLi5KAnRvSgRmcm9tUgN0b3BSBXZpZGVvIgIQAUgAWABoAA",
+        "source": "Choppity"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "How to automatically extract key quotes from long interview videos reddit",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDikuQXKzZ7TuZwU51rNJcBqd7VxZg:1795355480105&q=How+to+automatically+extract+key+quotes+from+long+interview+videos+reddit&sa=X&ved=2ahUKEwi9hYyt3JuYAxVCA4AAHaBwCi0Q1QJ6BAhNEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+extract+key+quotes+from+long+interview+videos+reddit"
+      },
+      {
+        "block_position": 1,
+        "query": "How to automatically extract key quotes from long interview videos free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDikuQXKzZ7TuZwU51rNJcBqd7VxZg:1795355480105&q=How+to+automatically+extract+key+quotes+from+long+interview+videos+free&sa=X&ved=2ahUKEwi9hYyt3JuYAxVCA4AAHaBwCi0Q1QJ6BAhQEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+extract+key+quotes+from+long+interview+videos+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Summarize video to text",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDikuQXKzZ7TuZwU51rNJcBqd7VxZg:1795355480105&q=Summarize+video+to+text&sa=X&ved=2ahUKEwi9hYyt3JuYAxVCA4AAHaBwCi0Q1QJ6BAhPEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Summarize+video+to+text"
+      },
+      {
+        "block_position": 1,
+        "query": "AI video summarizer free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDikuQXKzZ7TuZwU51rNJcBqd7VxZg:1795355480105&q=AI+video+summarizer+free&sa=X&ved=2ahUKEwi9hYyt3JuYAxVCA4AAHaBwCi0Q1QJ6BAhOEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AI+video+summarizer+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Video resume AI free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDikuQXKzZ7TuZwU51rNJcBqd7VxZg:1795355480105&q=Video+resume+AI+free&sa=X&ved=2ahUKEwi9hYyt3JuYAxVCA4AAHaBwCi0Q1QJ6BAhKEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Video+resume+AI+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Facebook video summarizer",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDikuQXKzZ7TuZwU51rNJcBqd7VxZg:1795355480105&q=Facebook+video+summarizer&sa=X&ved=2ahUKEwi9hYyt3JuYAxVCA4AAHaBwCi0Q1QJ6BAhLEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Facebook+video+summarizer"
+      },
+      {
+        "block_position": 1,
+        "query": "YouTube video summarizer AI free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDikuQXKzZ7TuZwU51rNJcBqd7VxZg:1795355480105&q=YouTube+video+summarizer+AI+free&sa=X&ved=2ahUKEwi9hYyt3JuYAxVCA4AAHaBwCi0Q1QJ6BAhMEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=YouTube+video+summarizer+AI+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Video reader AI free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDikuQXKzZ7TuZwU51rNJcBqd7VxZg:1795355480105&q=Video+reader+AI+free&sa=X&ved=2ahUKEwi9hYyt3JuYAxVCA4AAHaBwCi0Q1QJ6BAhJEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Video+reader+AI+free"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=How+to+automatically+extract+key+quotes+from+long+interview+videos&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDikuQXKzZ7TuZwU51rNJcBqd7VxZg:1795355480105&ei=WPMCa735BcKGgLQPoOGp6AI&start=10&sa=N&sstk=AYl2yk-S-EpLOJft0w0coxFDQ_KYMXNp7ZbLI8DdYSxdtNKtoYE1y-VomHKLKWZ8mc2KxAjyWGL_KJZqRElGodbVsZ0a2XifgW_NgA&ved=2ahUKEwi9hYyt3JuYAxVCA4AAHaBwCi0Q8NMDegQIRxAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=How+to+automatically+extract+key+quotes+from+long+interview+videos&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDikuQXKzZ7TuZwU51rNJcBqd7VxZg:1795355480105&ei=WPMCa735BcKGgLQPoOGp6AI&start=10&sa=N&sstk=AYl2yk-S-EpLOJft0w0coxFDQ_KYMXNp7ZbLI8DdYSxdtNKtoYE1y-VomHKLKWZ8mc2KxAjyWGL_KJZqRElGodbVsZ0a2XifgW_NgA&ved=2ahUKEwi9hYyt3JuYAxVCA4AAHaBwCi0Q8tMDegQIRxAE",
+        "3": "https://www.google.com/search?q=How+to+automatically+extract+key+quotes+from+long+interview+videos&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDikuQXKzZ7TuZwU51rNJcBqd7VxZg:1795355480105&ei=WPMCa735BcKGgLQPoOGp6AI&start=20&sa=N&sstk=AYl2yk-S-EpLOJft0w0coxFDQ_KYMXNp7ZbLI8DdYSxdtNKtoYE1y-VomHKLKWZ8mc2KxAjyWGL_KJZqRElGodbVsZ0a2XifgW_NgA&ved=2ahUKEwi9hYyt3JuYAxVCA4AAHaBwCi0Q8tMDegQIRxAG",
+        "4": "https://www.google.com/search?q=How+to+automatically+extract+key+quotes+from+long+interview+videos&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDikuQXKzZ7TuZwU51rNJcBqd7VxZg:1795355480105&ei=WPMCa735BcKGgLQPoOGp6AI&start=30&sa=N&sstk=AYl2yk-S-EpLOJft0w0coxFDQ_KYMXNp7ZbLI8DdYSxdtNKtoYE1y-VomHKLKWZ8mc2KxAjyWGL_KJZqRElGodbVsZ0a2XifgW_NgA&ved=2ahUKEwi9hYyt3JuYAxVCA4AAHaBwCi0Q8tMDegQIRxAI",
+        "5": "https://www.google.com/search?q=How+to+automatically+extract+key+quotes+from+long+interview+videos&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDikuQXKzZ7TuZwU51rNJcBqd7VxZg:1795355480105&ei=WPMCa735BcKGgLQPoOGp6AI&start=40&sa=N&sstk=AYl2yk-S-EpLOJft0w0coxFDQ_KYMXNp7ZbLI8DdYSxdtNKtoYE1y-VomHKLKWZ8mc2KxAjyWGL_KJZqRElGodbVsZ0a2XifgW_NgA&ved=2ahUKEwi9hYyt3JuYAxVCA4AAHaBwCi0Q8tMDegQIRxAK",
+        "6": "https://www.google.com/search?q=How+to+automatically+extract+key+quotes+from+long+interview+videos&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDikuQXKzZ7TuZwU51rNJcBqd7VxZg:1795355480105&ei=WPMCa735BcKGgLQPoOGp6AI&start=50&sa=N&sstk=AYl2yk-S-EpLOJft0w0coxFDQ_KYMXNp7ZbLI8DdYSxdtNKtoYE1y-VomHKLKWZ8mc2KxAjyWGL_KJZqRElGodbVsZ0a2XifgW_NgA&ved=2ahUKEwi9hYyt3JuYAxVCA4AAHaBwCi0Q8tMDegQIRxAM",
+        "7": "https://www.google.com/search?q=How+to+automatically+extract+key+quotes+from+long+interview+videos&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDikuQXKzZ7TuZwU51rNJcBqd7VxZg:1795355480105&ei=WPMCa735BcKGgLQPoOGp6AI&start=60&sa=N&sstk=AYl2yk-S-EpLOJft0w0coxFDQ_KYMXNp7ZbLI8DdYSxdtNKtoYE1y-VomHKLKWZ8mc2KxAjyWGL_KJZqRElGodbVsZ0a2XifgW_NgA&ved=2ahUKEwi9hYyt3JuYAxVCA4AAHaBwCi0Q8tMDegQIRxAO",
+        "8": "https://www.google.com/search?q=How+to+automatically+extract+key+quotes+from+long+interview+videos&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDikuQXKzZ7TuZwU51rNJcBqd7VxZg:1795355480105&ei=WPMCa735BcKGgLQPoOGp6AI&start=70&sa=N&sstk=AYl2yk-S-EpLOJft0w0coxFDQ_KYMXNp7ZbLI8DdYSxdtNKtoYE1y-VomHKLKWZ8mc2KxAjyWGL_KJZqRElGodbVsZ0a2XifgW_NgA&ved=2ahUKEwi9hYyt3JuYAxVCA4AAHaBwCi0Q8tMDegQIRxAQ",
+        "9": "https://www.google.com/search?q=How+to+automatically+extract+key+quotes+from+long+interview+videos&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDikuQXKzZ7TuZwU51rNJcBqd7VxZg:1795355480105&ei=WPMCa735BcKGgLQPoOGp6AI&start=80&sa=N&sstk=AYl2yk-S-EpLOJft0w0coxFDQ_KYMXNp7ZbLI8DdYSxdtNKtoYE1y-VomHKLKWZ8mc2KxAjyWGL_KJZqRElGodbVsZ0a2XifgW_NgA&ved=2ahUKEwi9hYyt3JuYAxVCA4AAHaBwCi0Q8tMDegQIRxAS",
+        "10": "https://www.google.com/search?q=How+to+automatically+extract+key+quotes+from+long+interview+videos&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDikuQXKzZ7TuZwU51rNJcBqd7VxZg:1795355480105&ei=WPMCa735BcKGgLQPoOGp6AI&start=90&sa=N&sstk=AYl2yk-S-EpLOJft0w0coxFDQ_KYMXNp7ZbLI8DdYSxdtNKtoYE1y-VomHKLKWZ8mc2KxAjyWGL_KJZqRElGodbVsZ0a2XifgW_NgA&ved=2ahUKEwi9hYyt3JuYAxVCA4AAHaBwCi0Q8tMDegQIRxAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+extract+key+quotes+from+long+interview+videos&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+extract+key+quotes+from+long+interview+videos&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+extract+key+quotes+from+long+interview+videos&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+extract+key+quotes+from+long+interview+videos&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+extract+key+quotes+from+long+interview+videos&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+extract+key+quotes+from+long+interview+videos&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+extract+key+quotes+from+long+interview+videos&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+extract+key+quotes+from+long+interview+videos&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+extract+key+quotes+from+long+interview+videos&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+extract+key+quotes+from+long+interview+videos&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+extract+key+quotes+from+long+interview+videos&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

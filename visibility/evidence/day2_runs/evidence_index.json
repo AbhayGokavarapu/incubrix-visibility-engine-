@@ -1,0 +1,237 @@
+{
+  "Q001": [
+    {
+      "measurement_id": "68f73b5d5415",
+      "evidence_path": "visibility/evidence/day2_runs\\google_search\\Q001_google_search_US_68f73b5d5415.json",
+      "recorded_at": "2026-11-23T08:57:14.069250+00:00"
+    },
+    {
+      "measurement_id": "cd6bd4736b6c",
+      "evidence_path": "visibility/evidence/day2_runs\\google_gemini\\Q001_google_gemini_US_cd6bd4736b6c.json",
+      "recorded_at": "2026-11-23T08:57:22.527732+00:00"
+    }
+  ],
+  "Q002": [
+    {
+      "measurement_id": "2bbb138be1bb",
+      "evidence_path": "visibility/evidence/day2_runs\\google_search\\Q002_google_search_US_2bbb138be1bb.json",
+      "recorded_at": "2026-11-23T08:57:25.538545+00:00"
+    },
+    {
+      "measurement_id": "74468ec050e6",
+      "evidence_path": "visibility/evidence/day2_runs\\google_gemini\\Q002_google_gemini_US_74468ec050e6.json",
+      "recorded_at": "2026-11-23T08:57:36.433767+00:00"
+    }
+  ],
+  "Q003": [
+    {
+      "measurement_id": "409fef27f746",
+      "evidence_path": "visibility/evidence/day2_runs\\google_search\\Q003_google_search_US_409fef27f746.json",
+      "recorded_at": "2026-11-23T08:57:39.819962+00:00"
+    },
+    {
+      "measurement_id": "05330f7bf6b9",
+      "evidence_path": "visibility/evidence/day2_runs\\google_gemini\\Q003_google_gemini_US_05330f7bf6b9.json",
+      "recorded_at": "2026-11-23T08:57:50.344402+00:00"
+    }
+  ],
+  "Q004": [
+    {
+      "measurement_id": "9924a01e2a51",
+      "evidence_path": "visibility/evidence/day2_runs\\google_search\\Q004_google_search_US_9924a01e2a51.json",
+      "recorded_at": "2026-11-23T08:57:53.795445+00:00"
+    },
+    {
+      "measurement_id": "d169d7dfe1c7",
+      "evidence_path": "visibility/evidence/day2_runs\\google_gemini\\Q004_google_gemini_US_d169d7dfe1c7.json",
+      "recorded_at": "2026-11-23T08:58:02.738908+00:00"
+    }
+  ],
+  "Q005": [
+    {
+      "measurement_id": "5cebdae17061",
+      "evidence_path": "visibility/evidence/day2_runs\\google_search\\Q005_google_search_US_5cebdae17061.json",
+      "recorded_at": "2026-11-23T08:58:06.261546+00:00"
+    },
+    {
+      "measurement_id": "e173ad2fa1a2",
+      "evidence_path": "visibility/evidence/day2_runs\\google_gemini\\Q005_google_gemini_US_e173ad2fa1a2.json",
+      "recorded_at": "2026-11-23T08:58:16.297248+00:00"
+    }
+  ],
+  "Q006": [
+    {
+      "measurement_id": "084fe13e98c8",
+      "evidence_path": "visibility/evidence/day2_runs\\google_search\\Q006_google_search_US_084fe13e98c8.json",
+      "recorded_at": "2026-11-23T08:58:19.246073+00:00"
+    },
+    {
+      "measurement_id": "2b01d708df88",
+      "evidence_path": "visibility/evidence/day2_runs\\google_gemini\\Q006_google_gemini_US_2b01d708df88.json",
+      "recorded_at": "2026-11-23T08:58:28.509557+00:00"
+    }
+  ],
+  "Q007": [
+    {
+      "measurement_id": "ebd82b1d439a",
+      "evidence_path": "visibility/evidence/day2_runs\\google_search\\Q007_google_search_US_ebd82b1d439a.json",
+      "recorded_at": "2026-11-23T08:58:31.718501+00:00"
+    },
+    {
+      "measurement_id": "4e47dbe07ed4",
+      "evidence_path": "visibility/evidence/day2_runs\\google_gemini\\Q007_google_gemini_US_4e47dbe07ed4.json",
+      "recorded_at": "2026-11-23T08:58:40.899726+00:00"
+    }
+  ],
+  "Q008": [
+    {
+      "measurement_id": "086a2706517e",
+      "evidence_path": "visibility/evidence/day2_runs\\google_search\\Q008_google_search_US_086a2706517e.json",
+      "recorded_at": "2026-11-23T08:58:44.700707+00:00"
+    },
+    {
+      "measurement_id": "4e4e022caae8",
+      "evidence_path": "visibility/evidence/day2_runs\\google_gemini\\Q008_google_gemini_US_4e4e022caae8.json",
+      "recorded_at": "2026-11-23T08:58:52.883478+00:00"
+    }
+  ],
+  "Q009": [
+    {
+      "measurement_id": "62336ff3b439",
+      "evidence_path": "visibility/evidence/day2_runs\\google_search\\Q009_google_search_US_62336ff3b439.json",
+      "recorded_at": "2026-11-23T08:58:56.373259+00:00"
+    },
+    {
+      "measurement_id": "120af49ff4ad",
+      "evidence_path": "visibility/evidence/day2_runs\\google_gemini\\Q009_google_gemini_US_120af49ff4ad.json",
+      "recorded_at": "2026-11-23T08:59:04.299804+00:00"
+    }
+  ],
+  "Q010": [
+    {
+      "measurement_id": "2be8fa9e9aa7",
+      "evidence_path": "visibility/evidence/day2_runs\\google_search\\Q010_google_search_US_2be8fa9e9aa7.json",
+      "recorded_at": "2026-11-23T08:59:20.213867+00:00"
+    },
+    {
+      "measurement_id": "1e0971c41c62",
+      "evidence_path": "visibility/evidence/day2_runs\\google_gemini\\Q010_google_gemini_US_1e0971c41c62.json",
+      "recorded_at": "2026-11-23T08:59:28.700525+00:00"
+    }
+  ],
+  "Q011": [
+    {
+      "measurement_id": "2f778ffe2712",
+      "evidence_path": "visibility/evidence/day2_runs\\google_gemini\\Q011_google_gemini_US_2f778ffe2712.json",
+      "recorded_at": "2026-11-23T08:59:56.732160+00:00"
+    }
+  ],
+  "Q012": [
+    {
+      "measurement_id": "b3db2fb7e0a2",
+      "evidence_path": "visibility/evidence/day2_runs\\google_search\\Q012_google_search_US_b3db2fb7e0a2.json",
+      "recorded_at": "2026-11-23T09:00:00.984860+00:00"
+    },
+    {
+      "measurement_id": "3c764a6e34f0",
+      "evidence_path": "visibility/evidence/day2_runs\\google_gemini\\Q012_google_gemini_US_3c764a6e34f0.json",
+      "recorded_at": "2026-11-23T09:00:08.912278+00:00"
+    }
+  ],
+  "Q013": [
+    {
+      "measurement_id": "0aa05942958d",
+      "evidence_path": "visibility/evidence/day2_runs\\google_search\\Q013_google_search_US_0aa05942958d.json",
+      "recorded_at": "2026-11-23T09:00:11.913174+00:00"
+    },
+    {
+      "measurement_id": "7c4bef0977ae",
+      "evidence_path": "visibility/evidence/day2_runs\\google_gemini\\Q013_google_gemini_US_7c4bef0977ae.json",
+      "recorded_at": "2026-11-23T09:00:16.379102+00:00"
+    }
+  ],
+  "Q014": [
+    {
+      "measurement_id": "3da35c3149c7",
+      "evidence_path": "visibility/evidence/day2_runs\\google_search\\Q014_google_search_US_3da35c3149c7.json",
+      "recorded_at": "2026-11-23T09:00:19.713814+00:00"
+    },
+    {
+      "measurement_id": "00d96d1cd5e1",
+      "evidence_path": "visibility/evidence/day2_runs\\google_gemini\\Q014_google_gemini_US_00d96d1cd5e1.json",
+      "recorded_at": "2026-11-23T09:00:23.681264+00:00"
+    }
+  ],
+  "Q015": [
+    {
+      "measurement_id": "20e3ec7c56f7",
+      "evidence_path": "visibility/evidence/day2_runs\\google_search\\Q015_google_search_US_20e3ec7c56f7.json",
+      "recorded_at": "2026-11-23T09:00:27.351232+00:00"
+    },
+    {
+      "measurement_id": "8556851c5cdc",
+      "evidence_path": "visibility/evidence/day2_runs\\google_gemini\\Q015_google_gemini_US_8556851c5cdc.json",
+      "recorded_at": "2026-11-23T09:00:31.422061+00:00"
+    }
+  ],
+  "Q016": [
+    {
+      "measurement_id": "b97216c37308",
+      "evidence_path": "visibility/evidence/day2_runs\\google_search\\Q016_google_search_US_b97216c37308.json",
+      "recorded_at": "2026-11-23T09:00:36.748566+00:00"
+    },
+    {
+      "measurement_id": "c0ccced23440",
+      "evidence_path": "visibility/evidence/day2_runs\\google_gemini\\Q016_google_gemini_US_c0ccced23440.json",
+      "recorded_at": "2026-11-23T09:00:41.411250+00:00"
+    }
+  ],
+  "Q017": [
+    {
+      "measurement_id": "b3d942ae69dd",
+      "evidence_path": "visibility/evidence/day2_runs\\google_search\\Q017_google_search_US_b3d942ae69dd.json",
+      "recorded_at": "2026-11-23T09:00:44.771779+00:00"
+    },
+    {
+      "measurement_id": "5a5f6f3eea58",
+      "evidence_path": "visibility/evidence/day2_runs\\google_gemini\\Q017_google_gemini_US_5a5f6f3eea58.json",
+      "recorded_at": "2026-11-23T09:00:47.866513+00:00"
+    }
+  ],
+  "Q018": [
+    {
+      "measurement_id": "c03a26516894",
+      "evidence_path": "visibility/evidence/day2_runs\\google_search\\Q018_google_search_US_c03a26516894.json",
+      "recorded_at": "2026-11-23T09:00:51.080635+00:00"
+    },
+    {
+      "measurement_id": "16e4c914d38f",
+      "evidence_path": "visibility/evidence/day2_runs\\google_gemini\\Q018_google_gemini_US_16e4c914d38f.json",
+      "recorded_at": "2026-11-23T09:01:17.365486+00:00"
+    }
+  ],
+  "Q019": [
+    {
+      "measurement_id": "8e1d98c515c1",
+      "evidence_path": "visibility/evidence/day2_runs\\google_search\\Q019_google_search_US_8e1d98c515c1.json",
+      "recorded_at": "2026-11-23T09:01:20.649313+00:00"
+    },
+    {
+      "measurement_id": "1c053d7506e7",
+      "evidence_path": "visibility/evidence/day2_runs\\google_gemini\\Q019_google_gemini_US_1c053d7506e7.json",
+      "recorded_at": "2026-11-23T09:01:41.718710+00:00"
+    }
+  ],
+  "Q020": [
+    {
+      "measurement_id": "b6347e10d05f",
+      "evidence_path": "visibility/evidence/day2_runs\\google_search\\Q020_google_search_US_b6347e10d05f.json",
+      "recorded_at": "2026-11-23T09:01:44.753573+00:00"
+    },
+    {
+      "measurement_id": "b71ed8b9d966",
+      "evidence_path": "visibility/evidence/day2_runs\\google_gemini\\Q020_google_gemini_US_b71ed8b9d966.json",
+      "recorded_at": "2026-11-23T09:01:58.239887+00:00"
+    }
+  ]
+}

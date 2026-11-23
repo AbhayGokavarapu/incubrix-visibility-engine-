@@ -1,0 +1,568 @@
+{
+  "measurement_id": "ebd82b1d439a",
+  "question_id": "Q007",
+  "timestamp_utc": "2026-11-23T08:58:31.708287+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "How to repurpose podcast audio into viral short clips?",
+  "market": "US",
+  "collection_method": "DAY_2_AUTOMATED_API",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [
+    "Riverside"
+  ],
+  "position": null,
+  "citations": [
+    "https://www.youtube.com/watch?v=FdBDrZ1JMe8",
+    "https://www.reddit.com/r/podcasting/comments/1bh95nb/is_there_an_ai_tool_to_create_videos_based_off_a/",
+    "https://www.choppity.com/blog/how-to-repurpose-podcast-into-shorts/",
+    "https://vizard.ai/tools/ai-podcast-clip-generator",
+    "https://www.flowjin.com/tools/ai-podcast-clip-maker",
+    "https://hivecast.fm/blog/how-to-repurpose-podcast-to-video/",
+    "https://www.youtube.com/watch?v=_XdZbmdpLn4"
+  ],
+  "raw_text_summary": "How I Turn Long-Form Videos Into Short Clips (My Workflow) Riverside is the platform I use to record, edit, and repurpose podcast clips. this video shows a simpler and more sustainable way to do it. to ... Is there an AI tool to create videos based off a podcast audio? I have a 100 episode podcast, and would like to either repurpose or with the help of AI, to streamline the work it'd take to create into tiktoks for ... How to Repurpose a Podcast into Short-Form Clips (2026 ... Learn how to repurpose podcast content into short-form clips for TikTok, Reels, and Shorts with a practical 2026 workflow. AI Podcast Clip Generator Just upload your podcast episode, click \"Get AI clips\u201d and your hour-long podcast episodes will turn into attention-grabbing podcast snippets. No editing ... AI Podcast Clip Maker | Free Tool to Make Podcast Shorts ... Instantly Turn Episodes into Shareable Shorts. Convert long-form podcast episodes into viral video clips for Instagram, Linkedin, TikTok, and YouTube Shorts ... Podcast Clips: How to Repurpose Episodes Into Video Record each speaker on a separate audio track, so a clip of one person can be balanced without the other person's room noise underneath it. How to Repurpose Podcasts Into Viral Shorts How to repurpose podcasts into viral short form mobile videos for TikTok, Instagram Reels, YouTube Shorts, Snapchat Spotlight, Facebook Reels, ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b040035b77a0afac4777faa",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/tl8ao43IxjJXxe4oAqXXz8WfJyfyC70vBU47lLtxWhs/6b040035b77a0afac4777faa.json",
+      "markdown_endpoint": "https://serpapi.com/searches/tl8ao43IxjJXxe4oAqXXz8WfJyfyC70vBU47lLtxWhs/6b040035b77a0afac4777faa.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/tl8ao43IxjJXxe4oAqXXz8WfJyfyC70vBU47lLtxWhs/6b040035b77a0afac4777faa.json_with_pixel_position",
+      "created_at": "2026-11-23 08:58:29 UTC",
+      "processed_at": "2026-11-23 08:58:29 UTC",
+      "google_url": "https://www.google.com/search?q=How+to+repurpose+podcast+audio+into+viral+short+clips%3F&oq=How+to+repurpose+podcast+audio+into+viral+short+clips%3F&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/tl8ao43IxjJXxe4oAqXXz8WfJyfyC70vBU47lLtxWhs/6b040035b77a0afac4777faa.html",
+      "total_time_taken": 0.74
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "How to repurpose podcast audio into viral short clips?",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "How to repurpose podcast audio into viral short clips?",
+      "total_results": 112,
+      "time_taken_displayed": 0.18,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "How to Edit VIRAL Podcast Clips Using ONLY Claude! (New ...",
+        "link": "https://www.youtube.com/watch?v=F4oV-UTLSWs",
+        "thumbnail": "https://serpapi.com/searches/6b040035b77a0afac4777faa/images/e0o54QdeonKaWklJRPyEgwqXYVnB_OmSdm_XCBRjKDg.jpg",
+        "channel": "Joseph | Video Editing",
+        "duration": "20:06",
+        "platform": "YouTube",
+        "date": "4 hours ago"
+      },
+      {
+        "position": 2,
+        "title": "How I Make VIRAL Podcast Clips (2.5 Million Views!)",
+        "link": "https://www.youtube.com/watch?v=Q7RafCnJv_0",
+        "thumbnail": "https://serpapi.com/searches/6b040035b77a0afac4777faa/images/a1_iHPTny75o1PIsOvSK2I9oKAbwTD9GlkVxovBlXJk.jpg",
+        "channel": "Libsyn",
+        "duration": "17:48",
+        "platform": "YouTube",
+        "date": "Mar 27, 2026",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQczMWnbXVJ9ggJyJhAyMh6-w8MFNTBr1x18Q",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "The 2.5M View Case Study (The Viral Clip Revealed)",
+            "link": "https://www.youtube.com/watch?v=Q7RafCnJv_0&t=0"
+          },
+          {
+            "time": "00:57",
+            "title": "The \"Spray and Pray\" Method vs. Targeted Manual Clips",
+            "link": "https://www.youtube.com/watch?v=Q7RafCnJv_0&t=57"
+          },
+          {
+            "time": "02:24",
+            "title": "My Premiere Pro Editing Workflow (How to clip podcasts)",
+            "link": "https://www.youtube.com/watch?v=Q7RafCnJv_0&t=144"
+          },
+          {
+            "time": "07:37",
+            "title": "Generating & Formatting Rapid-Fire Captions",
+            "link": "https://www.youtube.com/watch?v=Q7RafCnJv_0&t=457"
+          },
+          {
+            "time": "11:21",
+            "title": "Why You Shouldn't Add Music in Your Editor",
+            "link": "https://www.youtube.com/watch?v=Q7RafCnJv_0&t=681"
+          },
+          {
+            "time": "13:16",
+            "title": "The Mindset Shift: Shorts are for Brand Awareness",
+            "link": "https://www.youtube.com/watch?v=Q7RafCnJv_0&t=796"
+          },
+          {
+            "time": "14:26",
+            "title": "Mobile Publishing & Story Sharing Hacks",
+            "link": "https://www.youtube.com/watch?v=Q7RafCnJv_0&t=866"
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "title": "How to Edit Viral Podcast Clips in Premiere Pro (Start to Finish)",
+        "link": "https://www.youtube.com/watch?v=x84VaFy9Ikc",
+        "thumbnail": "https://serpapi.com/searches/6b040035b77a0afac4777faa/images/aZaKf-yEs9EbqD55kM-09gOBvUjZsa4cWQhpXKvsZ7c.jpg",
+        "channel": "ELEVEN PERCENT",
+        "duration": "12:12",
+        "platform": "YouTube",
+        "date": "1 week ago",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSVKWXjUA9ODIPTz_PHsyNz2AuoBHX_4Kp_AA"
+      },
+      {
+        "position": 4,
+        "title": "DaVinci Resolve Advance Reel Editing Tutorial",
+        "link": "https://www.youtube.com/watch?v=RXQOmQGJK34",
+        "thumbnail": "https://serpapi.com/searches/6b040035b77a0afac4777faa/images/KMjQwDZjXZzrqwyZWqG8pjpoY6iH8GnUqiyXKvx7-vc.jpg",
+        "channel": "Hishaam Ahmed",
+        "duration": "33:27",
+        "platform": "YouTube",
+        "date": "Jan 29, 2026",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ3RE9TWbIzs5Wo0QwTgcMLNxUsfN-wLSPoGg"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "Is there a free tool that can convert podcasts into short clips?",
+        "type": "ai_overview",
+        "page_token": "MZhHhXicHZPLcqM4FIYX8yzdG2c63By3U5WaghhxiZHDRQK0cYm7QQJilGCzm3eZp5qHmRq6F0dfnX9xbjrn73_Ype_-_eO_Rohxen58nOf5Rz0MNSt_5AN_pNO9zx-rgV2qv0p2zV9eP7SDZ5lKiFmEWiKHIBVBghOqYEQ7eIx7iE8HfAgXfCttXUZghJnFHF8iYyjV6jEusC_BpORBUiAAiUWUYwSuvjIr-V3-8jD0EdMX2LOj34HPNMFz0RrvodUtPgucVBI4azs1NjGJ42GNVGxR1yxRG2y9xfDCfkxjLhzEQA_l0T2hLaBINCkKjiRmPMIuwgt0IjACL_G2YUsuCOMg7QksgPEGlebmI2jn8bCFJg49OSCluT_ByL17XAxxh6swgm0YEQA7WU2Xgqed-Ez70aQReMOmMKgikKcAkkrygGLGsOpKWQw-aMIiqjKPtOTdi-U0T4BD2E-NdOKJSiLAtnGMmEsDjhE8BLxgezeShzsGxY1aguUyG30GAZVdFCruNVLYjFkjYczUkoOnGMBtiUSHO7aECknDPjBQBF4z0IkwQXPZBjGSAMJrr7E9aKW1X38KX2KOHXoAKFPMBcagi_gkZ9jtoCRQZkI3XAgOVaYW1s2JTFOEPYypCU3ImxD1tZbb7EBxY0c4lSG_kbV-H9rwUpjwRHkniDqqJ6TJ0Go8FDhJxAsjiE0JyXuLtPB2RDeCDsUSyODLRx19VdiNSDBcZ9J5dq59_3hxpo1oymu5oZvqWpYbMQxsVajY5LTf5EP_VV7FZhyKnE5i2lx6MWymZli1nF3G6ZsKvvNf26s72nZ2fT3Wdaobs-7ohk5qQ39b-bbyuPI4GHrtmLNuGvfVpBroYeLVhdWwnKM6DQ2ec8wcO_jKlPmX3hSvRpvGWp0q-8-C4_vqz5kStGkCpfxujFkffDk2HLJ1ExwLTjQxlvf9mu-05itXViurlf733xf3cq64eOa0YA_n9R2ey-LhfCmefx_iGda6SbXwDCr1489j-r6bLH_QnbP8cL5N1-pZt993n9WTRnb3op32F409fSg7VpUx8OTPK9bqb6ou7_ZbTdFUWdqqu_8Bj_hbJg",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=MZhHhXicHZPLcqM4FIYX8yzdG2c63By3U5WaghhxiZHDRQK0cYm7QQJilGCzm3eZp5qHmRq6F0dfnX9xbjrn73_Ype_-_eO_Rohxen58nOf5Rz0MNSt_5AN_pNO9zx-rgV2qv0p2zV9eP7SDZ5lKiFmEWiKHIBVBghOqYEQ7eIx7iE8HfAgXfCttXUZghJnFHF8iYyjV6jEusC_BpORBUiAAiUWUYwSuvjIr-V3-8jD0EdMX2LOj34HPNMFz0RrvodUtPgucVBI4azs1NjGJ42GNVGxR1yxRG2y9xfDCfkxjLhzEQA_l0T2hLaBINCkKjiRmPMIuwgt0IjACL_G2YUsuCOMg7QksgPEGlebmI2jn8bCFJg49OSCluT_ByL17XAxxh6swgm0YEQA7WU2Xgqed-Ez70aQReMOmMKgikKcAkkrygGLGsOpKWQw-aMIiqjKPtOTdi-U0T4BD2E-NdOKJSiLAtnGMmEsDjhE8BLxgezeShzsGxY1aguUyG30GAZVdFCruNVLYjFkjYczUkoOnGMBtiUSHO7aECknDPjBQBF4z0IkwQXPZBjGSAMJrr7E9aKW1X38KX2KOHXoAKFPMBcagi_gkZ9jtoCRQZkI3XAgOVaYW1s2JTFOEPYypCU3ImxD1tZbb7EBxY0c4lSG_kbV-H9rwUpjwRHkniDqqJ6TJ0Go8FDhJxAsjiE0JyXuLtPB2RDeCDsUSyODLRx19VdiNSDBcZ9J5dq59_3hxpo1oymu5oZvqWpYbMQxsVajY5LTf5EP_VV7FZhyKnE5i2lx6MWymZli1nF3G6ZsKvvNf26s72nZ2fT3Wdaobs-7ohk5qQ39b-bbyuPI4GHrtmLNuGvfVpBroYeLVhdWwnKM6DQ2ec8wcO_jKlPmX3hSvRpvGWp0q-8-C4_vqz5kStGkCpfxujFkffDk2HLJ1ExwLTjQxlvf9mu-05itXViurlf733xf3cq64eOa0YA_n9R2ey-LhfCmefx_iGda6SbXwDCr1489j-r6bLH_QnbP8cL5N1-pZt993n9WTRnb3op32F409fSg7VpUx8OTPK9bqb6ou7_ZbTdFUWdqqu_8Bj_hbJg",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWmRWcEhRVGRVZUZWNWNUbElkM2RpT1d4M1ExaFhTakJSTldGdGRFRlRiREZHVTFGRVdVSkZPVXhJUVZJNFVuRm9hbkJRVFhGeVYxVnNRMUpoZUU1WFdWTlpkbVJaV1hoamIzVnBZWEZCV2pONlFWWlZiWEZ2ZGpsV1p4SVhUbWRCUldFMFUxOUdaak54TFV4WlVEZHpSMUZ2UVVrYUlrRklUakJGTjBacVpETTNObnBKTnpJMmQyOW5NVUpMWVRsRVdFVXhYM2hETWxFIiwiZmN2IjoiMyIsImVpIjoiTmdBRWE0U19GZjNxLUxZUDdzR1FvQUkiLCJxYyI6IkNqVm9iM2NnZEc4Z2NtVndkWEp3YjNObElIQnZaR05oYzNRZ1lYVmthVzhnYVc1MGJ5QjJhWEpoYkNCemFHOXlkQ0JqYkdsd2N4QUFmVzJxQ1Q4IiwicXVlc3Rpb24iOiJJcyB0aGVyZSBhIGZyZWUgdG9vbCB0aGF0IGNhbiBjb252ZXJ0IHBvZGNhc3RzIGludG8gc2hvcnQgY2xpcHM/IiwibGsiOiJHaGh3YjJSallYTjBJSFJ2SUdOc2FYQnpJR0ZwSUdaeVpXVSIsImJzIjoiYzRXUHV3N0NNQXhGeFpxSkVVVkNOUTh4TVBZSHdraUYtQVVrSzAxcFJGdFhpVnY0Zk5JbkM0ajEtdmo2V056RUtmSEF1WEVHRURKbkREQlJFUkprMEZpQnBxbzFqcUdtVktObkQ3WmlBcDlUeUhSaGE2OWlLVmZqTk93T0lhRHR5OFJGN003MDdQSVNIMlpxR2FFN1FXc2RGaXJleTIzLUZ4TlhjZXpLT3EwRXVISFZER0tUV2hyVU1NQ3BJUlZIY3YyTDZZbmdkdmpVbVJjNzFOUEp6RkU1djZ6aWpZeEdQZTcwdmpETHhScyIsImlkIjoiZmNfTmdBRWE0U19GZjNxLUxZUDdzR1FvQUlfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWmRWcEhRVGRVZUZWNWNUbElkM2RpT1d4M1ExaFhTakJSTldGdGRFRlRiREZHVTFGRVdVSkZPVXhJUVZJNFVuRm9hbkJRVFhGeVYxVnNRMUpoZUU1WFdWTlpkbVJaV1hoamIzVnBZWEZCV2pONlFWWlZiWEZ2ZGpsV1p4SVhUbWRCUldFMFUxOUdaak54TFV4WlVEZHpSMUZ2UVVrYUlrRklUakJGTjBacVpETTNObnBKTnpJMmQyOW5NVUpMWVRsRVdFVXhYM2hETWxFIiwiZmN2IjoiMyIsImVpIjoiTmdBRWE0U19GZjNxLUxZUDdzR1FvQUkiLCJxYyI6IkNqVm9iM2NnZEc4Z2NtVndkWEp3YjNObElIQnZaR05oYzNRZ1lYVmthVzhnYVc1MGJ5QjJhWEpoYkNCemFHOXlkQ0JqYkdsd2N4QUFmVzJxQ1Q4IiwicXVlc3Rpb24iOiJJcyB0aGVyZSBhIGZyZWUgdG9vbCB0aGF0IGNhbiBjb252ZXJ0IHBvZGNhc3RzIGludG8gc2hvcnQgY2xpcHM%2FIiwibGsiOiJHaGh3YjJSallYTjBJSFJ2SUdOc2FYQnpJR0ZwSUdaeVpXVSIsImJzIjoiYzRXUHV3N0NNQXhGeFpxSkVVVkNOUTh4TVBZSHdraUYtQVVrSzAxcFJGdFhpVnY0Zk5JbkM0ajEtdmo2V056RUtmSEF1WEVHRURKbkREQlJFUkprMEZpQnBxbzFqcUdtVktObkQ3WmlBcDlUeUhSaGE2OWlLVmZqTk93T0lhRHR5OFJGN003MDdQSVNIMlpxR2FFN1FXc2RGaXJleTIzLUZ4TlhjZXpLT3EwRXVISFZER0tUV2hyVU1NQ3BJUlZIY3YyTDZZbmdkdmpVbVJjNzFOUEp6RkU1djZ6aWpZeEdQZTcwdmpETHhScyIsImlkIjoiZmNfTmdBRWE0U19GZjNxLUxZUDdzR1FvQUlfNSJ9"
+      },
+      {
+        "question": "How to make podcast clips go viral?",
+        "type": "ai_overview",
+        "page_token": "ajLwm3icHZLLjqM4FIYX8yxdm9R0YUimmpJKIzvBhjS4wsUmsIkAEwiYSyVUCOz6Xeap5mmG6cV3fulfHB0dfb_-kZe2_vePqhyG_vb28jKO4_ei6wqZf8-65iW5TW32cu7k5fx3Lq_Z-_ZubR1iqDaXAasQcFt38I7okKicxzW1w5byjx3f-TN_5CYEDPc0JdJylbj3lUKzQ8FdhR7zxjsKhmlMYtUO8NVVRzWbwN3h1GUSzrSVF6-hX_6kTMKIZRCWWBCMmIm9JCgPIendsNp3H8Tb-oYxBrOrhLty64PyygOkCs6JMwE7CClJqmyKWFymLZKpWtqsFqXPexLN3pxOIOB4n2Q-qHw2bMPW8xjjBj_uZeQD4qqUpoo8Us3aBES_-VUxMI2iZefIgDFRwg9uiG-ilUOA94aQgtAZo6WfE4nWDontqM2UnHgmM-UYKHrjs5uSV_souoDAaZwNrTGgDb-GZr-8tb8EjT5R_mNONQs4M0oCJkkWyC-6w11a7VvR9Gefy788jjQGupGFbAjCmDpqPeZsqJnGuxyLMJT6R96Wj0yzplTdDNzoL2mFa98YQkeTTqTwwGvFHDP9KzvKz5RYawpE5xMQ8saLGRGmeFjHoBHICw2FAZ3EFX3Y7BGznZg9gO8uq5OtApTlRoVWMuY45k-f72Y3roZu1SR1vuo7kSW3YZXJS39bFd3qfrkm8puGn5r_hYLWejPuXRhCmEA0QgsiGBcI_lzy55L2knaHYGEZIzTQtKAURuUTXbNM724RUCYqKzKi15GKZ7FF1SLcmE2oTSekJsd9me5OEXR3BXTNbmFcWEPXePpt9_vp3AxvTSLk82mZ3Vsunk8X8fZb-hMtoJGs_RM-a59_2tHh9UbcDlon7fn0uF3Pb9A8vH6d12lMymr94b_edyBomPaZSr2OW4HY-E2D4FXfrNW1BpSN9uM_6s4nZw",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ajLwm3icHZLLjqM4FIYX8yxdm9R0YUimmpJKIzvBhjS4wsUmsIkAEwiYSyVUCOz6Xeap5mmG6cV3fulfHB0dfb_-kZe2_vePqhyG_vb28jKO4_ei6wqZf8-65iW5TW32cu7k5fx3Lq_Z-_ZubR1iqDaXAasQcFt38I7okKicxzW1w5byjx3f-TN_5CYEDPc0JdJylbj3lUKzQ8FdhR7zxjsKhmlMYtUO8NVVRzWbwN3h1GUSzrSVF6-hX_6kTMKIZRCWWBCMmIm9JCgPIendsNp3H8Tb-oYxBrOrhLty64PyygOkCs6JMwE7CClJqmyKWFymLZKpWtqsFqXPexLN3pxOIOB4n2Q-qHw2bMPW8xjjBj_uZeQD4qqUpoo8Us3aBES_-VUxMI2iZefIgDFRwg9uiG-ilUOA94aQgtAZo6WfE4nWDontqM2UnHgmM-UYKHrjs5uSV_souoDAaZwNrTGgDb-GZr-8tb8EjT5R_mNONQs4M0oCJkkWyC-6w11a7VvR9Gefy788jjQGupGFbAjCmDpqPeZsqJnGuxyLMJT6R96Wj0yzplTdDNzoL2mFa98YQkeTTqTwwGvFHDP9KzvKz5RYawpE5xMQ8saLGRGmeFjHoBHICw2FAZ3EFX3Y7BGznZg9gO8uq5OtApTlRoVWMuY45k-f72Y3roZu1SR1vuo7kSW3YZXJS39bFd3qfrkm8puGn5r_hYLWejPuXRhCmEA0QgsiGBcI_lzy55L2knaHYGEZIzTQtKAURuUTXbNM724RUCYqKzKi15GKZ7FF1SLcmE2oTSekJsd9me5OEXR3BXTNbmFcWEPXePpt9_vp3AxvTSLk82mZ3Vsunk8X8fZb-hMtoJGs_RM-a59_2tHh9UbcDlon7fn0uF3Pb9A8vH6d12lMymr94b_edyBomPaZSr2OW4HY-E2D4FXfrNW1BpSN9uM_6s4nZw",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWmRWcEhRVGRVZUZWNWNUbElkM2RpT1d4M1ExaFhTakJSTldGdGRFRlRiREZHVTFGRVdVSkZPVXhJUVZJNFVuRm9hbkJRVFhGeVYxVnNRMUpoZUU1WFdWTlpkbVJaV1hoamIzVnBZWEZCV2pONlFWWlZiWEZ2ZGpsV1p4SVhUbWRCUldFMFUxOUdaak54TFV4WlVEZHpSMUZ2UVVrYUlrRklUakJGTjBacVpETTNObnBKTnpJMmQyOW5NVUpMWVRsRVdFVXhYM2hETWxFIiwiZmN2IjoiMyIsImVpIjoiTmdBRWE0U19GZjNxLUxZUDdzR1FvQUkiLCJxYyI6IkNqVm9iM2NnZEc4Z2NtVndkWEp3YjNObElIQnZaR05oYzNRZ1lYVmthVzhnYVc1MGJ5QjJhWEpoYkNCemFHOXlkQ0JqYkdsd2N4QUFmVzJxQ1Q4IiwicXVlc3Rpb24iOiJIb3cgdG8gbWFrZSBwb2RjYXN0IGNsaXBzIGdvIHZpcmFsPyIsImxrIjoiR2lKb2IzY2dkRzhnYldGclpTQndiMlJqWVhOMElHTnNhWEJ6SUdkdklIWnBjbUZzIiwiYnMiOiJjNFdQdXc3Q01BeEZ4WnFKRVVWQ05ROHhNUFlId2tpRi1BVWtLMDFwUkZ0WGlWdjRmTkluQzRqMS12ajZXTnpFS2ZIQXVYRUdFREpuRERCUkVSSmswRmlCcHFvMWpxR21WS05uRDdaaUFwOVR5SFJoYTY5aUtWZmpOT3dPSWFEdHk4UkY3TTcwN1BJU0gyWnFHYUU3UVdzZEZpcmV5MjMtRnhOWGNlektPcTBFdUhIVkRHS1RXaHJVTU1DcElSVkhjdjJMNlluZ2R2alVtUmM3MU5QSnpGRTV2Nnppall4R1BlNzB2akRMeFJzIiwiaWQiOiJmY19OZ0FFYTRTX0ZmM3EtTFlQN3NHUW9BSV81In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWmRWcEhRVGRVZUZWNWNUbElkM2RpT1d4M1ExaFhTakJSTldGdGRFRlRiREZHVTFGRVdVSkZPVXhJUVZJNFVuRm9hbkJRVFhGeVYxVnNRMUpoZUU1WFdWTlpkbVJaV1hoamIzVnBZWEZCV2pONlFWWlZiWEZ2ZGpsV1p4SVhUbWRCUldFMFUxOUdaak54TFV4WlVEZHpSMUZ2UVVrYUlrRklUakJGTjBacVpETTNObnBKTnpJMmQyOW5NVUpMWVRsRVdFVXhYM2hETWxFIiwiZmN2IjoiMyIsImVpIjoiTmdBRWE0U19GZjNxLUxZUDdzR1FvQUkiLCJxYyI6IkNqVm9iM2NnZEc4Z2NtVndkWEp3YjNObElIQnZaR05oYzNRZ1lYVmthVzhnYVc1MGJ5QjJhWEpoYkNCemFHOXlkQ0JqYkdsd2N4QUFmVzJxQ1Q4IiwicXVlc3Rpb24iOiJIb3cgdG8gbWFrZSBwb2RjYXN0IGNsaXBzIGdvIHZpcmFsPyIsImxrIjoiR2lKb2IzY2dkRzhnYldGclpTQndiMlJqWVhOMElHTnNhWEJ6SUdkdklIWnBjbUZzIiwiYnMiOiJjNFdQdXc3Q01BeEZ4WnFKRVVWQ05ROHhNUFlId2tpRi1BVWtLMDFwUkZ0WGlWdjRmTkluQzRqMS12ajZXTnpFS2ZIQXVYRUdFREpuRERCUkVSSmswRmlCcHFvMWpxR21WS05uRDdaaUFwOVR5SFJoYTY5aUtWZmpOT3dPSWFEdHk4UkY3TTcwN1BJU0gyWnFHYUU3UVdzZEZpcmV5MjMtRnhOWGNlektPcTBFdUhIVkRHS1RXaHJVTU1DcElSVkhjdjJMNlluZ2R2alVtUmM3MU5QSnpGRTV2Nnppall4R1BlNzB2akRMeFJzIiwiaWQiOiJmY19OZ0FFYTRTX0ZmM3EtTFlQN3NHUW9BSV81In0%3D"
+      },
+      {
+        "question": "How can I turn podcast audio into a video?",
+        "type": "ai_overview",
+        "page_token": "PsPLDXicHZPLcqNIEEUX8y3tjdxtXh4bRTgmQKKQaFSYoh5QGwVQCBDFQxISlnb9L_1V8zXD9OLk3d2Mm3Hz129Zd82_f_2qxnG4LF9epmn6UfZ9KYsfed--pJd7l78celkf_inkOf9Y3fLVznW0VJWYSFMNlWREsTemGqW8gT7rIA3WdB096FexsVQCBpi5chsqfIiUUveZoKEC46JFsSAAcpdrPgbnUJu0_K7edhSGRFoP2MkatfAa3ZW7cLjErALCBTbZAJTi6pO5Q8iOXh-4aBU53hE_QjV-VCu8Gc5UG7VMUpeuVB8z6GbkK6RUeEiTVYCBRyT0k3beGScGjFQ_bECT6_wolHHFqJeQ9qIxXB1IW7UhqcKi8-yccCUjsPYJmXaNTHEM4oCNj1yFVchghWPuZrJicyQbSapxZwBzFklUE2fARLEy6EKRdrbhQaRdDOwKXFBzSDquYWlHGZZpolKfA-9I1qjJsWjRWkSQURLEHoLHRiW6gDuFVrmDrvPxI96i1_CuJlmkjDutMTjpx4KBFjO-Eg7t4BqlBasUsQF4517uRevVWcNxqHwFRKvCgHnrbF3e-bq65rE8BYBrPOZ95L4yxhDPaRWnuqcg3aZOJQKuAJBghGOFtzvdGTGQIdThhjDTjlDv05byWDEPO4naHFtPp49NPy3ytFtsF-P13C2GXuTpZVykV1H3i7ob-0W6uNWi6L_p4Kn9v17W1nidvNBilpVa9mRtLdvipW39nPXnrP6sfm9b5daZLMe-zyilc4pcU9-6sMpq29tukJq3Rpm7ZpNo4CFWdiUYGrK7PWQdum1dpxStbDh732uWYxmzx98z7zPfZ57-lP5jf2jHZZsK-byfZ78sxPO-Fss_v7CHpeWkRrQHB_303U8-3y5u2FvbvfG8_7qcD0tr8_l2PRgZd6ujEURvt7WKW6KfMmk2vBM2mb7plvpmvhqaoavKq_7-H0-0LCI",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=PsPLDXicHZPLcqNIEEUX8y3tjdxtXh4bRTgmQKKQaFSYoh5QGwVQCBDFQxISlnb9L_1V8zXD9OLk3d2Mm3Hz129Zd82_f_2qxnG4LF9epmn6UfZ9KYsfed--pJd7l78celkf_inkOf9Y3fLVznW0VJWYSFMNlWREsTemGqW8gT7rIA3WdB096FexsVQCBpi5chsqfIiUUveZoKEC46JFsSAAcpdrPgbnUJu0_K7edhSGRFoP2MkatfAa3ZW7cLjErALCBTbZAJTi6pO5Q8iOXh-4aBU53hE_QjV-VCu8Gc5UG7VMUpeuVB8z6GbkK6RUeEiTVYCBRyT0k3beGScGjFQ_bECT6_wolHHFqJeQ9qIxXB1IW7UhqcKi8-yccCUjsPYJmXaNTHEM4oCNj1yFVchghWPuZrJicyQbSapxZwBzFklUE2fARLEy6EKRdrbhQaRdDOwKXFBzSDquYWlHGZZpolKfA-9I1qjJsWjRWkSQURLEHoLHRiW6gDuFVrmDrvPxI96i1_CuJlmkjDutMTjpx4KBFjO-Eg7t4BqlBasUsQF4517uRevVWcNxqHwFRKvCgHnrbF3e-bq65rE8BYBrPOZ95L4yxhDPaRWnuqcg3aZOJQKuAJBghGOFtzvdGTGQIdThhjDTjlDv05byWDEPO4naHFtPp49NPy3ytFtsF-P13C2GXuTpZVykV1H3i7ob-0W6uNWi6L_p4Kn9v17W1nidvNBilpVa9mRtLdvipW39nPXnrP6sfm9b5daZLMe-zyilc4pcU9-6sMpq29tukJq3Rpm7ZpNo4CFWdiUYGrK7PWQdum1dpxStbDh732uWYxmzx98z7zPfZ57-lP5jf2jHZZsK-byfZ78sxPO-Fss_v7CHpeWkRrQHB_303U8-3y5u2FvbvfG8_7qcD0tr8_l2PRgZd6ujEURvt7WKW6KfMmk2vBM2mb7plvpmvhqaoavKq_7-H0-0LCI",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWmRWcEhRVGRVZUZWNWNUbElkM2RpT1d4M1ExaFhTakJSTldGdGRFRlRiREZHVTFGRVdVSkZPVXhJUVZJNFVuRm9hbkJRVFhGeVYxVnNRMUpoZUU1WFdWTlpkbVJaV1hoamIzVnBZWEZCV2pONlFWWlZiWEZ2ZGpsV1p4SVhUbWRCUldFMFUxOUdaak54TFV4WlVEZHpSMUZ2UVVrYUlrRklUakJGTjBacVpETTNObnBKTnpJMmQyOW5NVUpMWVRsRVdFVXhYM2hETWxFIiwiZmN2IjoiMyIsImVpIjoiTmdBRWE0U19GZjNxLUxZUDdzR1FvQUkiLCJxYyI6IkNqVm9iM2NnZEc4Z2NtVndkWEp3YjNObElIQnZaR05oYzNRZ1lYVmthVzhnYVc1MGJ5QjJhWEpoYkNCemFHOXlkQ0JqYkdsd2N4QUFmVzJxQ1Q4IiwicXVlc3Rpb24iOiJIb3cgY2FuIEkgdHVybiBwb2RjYXN0IGF1ZGlvIGludG8gYSB2aWRlbz8iLCJsayI6IkdoMTBkWEp1SUhCdlpHTmhjM1FnWVhWa2FXOGdhVzUwYnlCMmFXUmxidyIsImJzIjoiYzRXUHV3N0NNQXhGeFpxSkVVVkNOUTh4TVBZSHdraUYtQVVrSzAxcFJGdFhpVnY0Zk5JbkM0ajEtdmo2V056RUtmSEF1WEVHRURKbkREQlJFUkprMEZpQnBxbzFqcUdtVktObkQ3WmlBcDlUeUhSaGE2OWlLVmZqTk93T0lhRHR5OFJGN003MDdQSVNIMlpxR2FFN1FXc2RGaXJleTIzLUZ4TlhjZXpLT3EwRXVISFZER0tUV2hyVU1NQ3BJUlZIY3YyTDZZbmdkdmpVbVJjNzFOUEp6RkU1djZ6aWpZeEdQZTcwdmpETHhScyIsImlkIjoiZmNfTmdBRWE0U19GZjNxLUxZUDdzR1FvQUlfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWmRWcEhRVGRVZUZWNWNUbElkM2RpT1d4M1ExaFhTakJSTldGdGRFRlRiREZHVTFGRVdVSkZPVXhJUVZJNFVuRm9hbkJRVFhGeVYxVnNRMUpoZUU1WFdWTlpkbVJaV1hoamIzVnBZWEZCV2pONlFWWlZiWEZ2ZGpsV1p4SVhUbWRCUldFMFUxOUdaak54TFV4WlVEZHpSMUZ2UVVrYUlrRklUakJGTjBacVpETTNObnBKTnpJMmQyOW5NVUpMWVRsRVdFVXhYM2hETWxFIiwiZmN2IjoiMyIsImVpIjoiTmdBRWE0U19GZjNxLUxZUDdzR1FvQUkiLCJxYyI6IkNqVm9iM2NnZEc4Z2NtVndkWEp3YjNObElIQnZaR05oYzNRZ1lYVmthVzhnYVc1MGJ5QjJhWEpoYkNCemFHOXlkQ0JqYkdsd2N4QUFmVzJxQ1Q4IiwicXVlc3Rpb24iOiJIb3cgY2FuIEkgdHVybiBwb2RjYXN0IGF1ZGlvIGludG8gYSB2aWRlbz8iLCJsayI6IkdoMTBkWEp1SUhCdlpHTmhjM1FnWVhWa2FXOGdhVzUwYnlCMmFXUmxidyIsImJzIjoiYzRXUHV3N0NNQXhGeFpxSkVVVkNOUTh4TVBZSHdraUYtQVVrSzAxcFJGdFhpVnY0Zk5JbkM0ajEtdmo2V056RUtmSEF1WEVHRURKbkREQlJFUkprMEZpQnBxbzFqcUdtVktObkQ3WmlBcDlUeUhSaGE2OWlLVmZqTk93T0lhRHR5OFJGN003MDdQSVNIMlpxR2FFN1FXc2RGaXJleTIzLUZ4TlhjZXpLT3EwRXVISFZER0tUV2hyVU1NQ3BJUlZIY3YyTDZZbmdkdmpVbVJjNzFOUEp6RkU1djZ6aWpZeEdQZTcwdmpETHhScyIsImlkIjoiZmNfTmdBRWE0U19GZjNxLUxZUDdzR1FvQUlfNSJ9"
+      },
+      {
+        "question": "How can I extract clips from podcasts?",
+        "type": "ai_overview",
+        "page_token": "xA4QRXicHZPLcqNGFIYXeZbxRs6YBhGPXOVKNeY-0HID3Q29UQEtCUFzsYQNYpfHyD5PlacJmcV3vt2pU3-d_69_5KVr_v3t72och9vL09M0Td_PfX-Wx-9l3z7lt3tXPp16eTn9eZTX8vVtgGboWBoHMiG1D6LFGqM0u-cqJXmDAtYhujepGS90ProQEHtAhSM9rPAhVs5awATFCkqPbZQKYiPucDVI7CtWJ7W8g6-QIkwkXFAnA9zYn1lKJ1Eb77HTLFhGXqaMtKgbjVmIM9avm4ROGo6SOtIj0wjjTp5YO3pERttMDihu_LiwjZA1PIhdiffOWNHFu693XSn9Acql3BJqd8faP-HEd4LEuCeuBGUnEG3nGjM9DBmd9mbVhI0IhFtluKXXMLV14trLnvlt1oyfiW1b0R2YexL5YSoyAYZcAPvzaI0Xau94SIY0b-yUUMNPyC5NOspyikLhckw1XiHiJ0ir9iXwa9Lxd-boPG9nV7SIh-2YrXlyQjJFAIH3DMylhWeeUCVKhB6rOzVitKYK0iOXJrHSKMwhS6GKKlLAtHe4jjV0i9yBhpY_U5f3MQM5ZdEbXSov6Wzz6HItrsN5zZtnkr7lgIfMlCxSuUalkXMHMK75RDhIcodSqqIhI1FLKFeLbviDzl6atMKImKUQsHN4jeaAzJyYYomA_YVJk7-pYy5UzoREStj69sPHq9tPmzLvNt7mOI_XvBw3pbwMt83p2reboRdlfhtv3zT7of3_96C31ScfQwZhDo0JetCA_GzAn6t_rg5WB70Bz541Qcu4ryhnq42dneY5qCouhu85dCtcv8o0fM7UeSjd8Mw7_6uIjalQozpLkVIuhwxi8wyx269MK1uIrYdfZXg9nNrxpc2FfDyss385isfDRbz86sgBnaGVb-ODfdI-fg-y9-ebg3voHdTHw3y7nl6g-_78edoW3Knq7T5-_jJB0hLto5C7hnfCINM3DYLnnb5VtxpQdO3Hf1tJNdM",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xA4QRXicHZPLcqNGFIYXeZbxRs6YBhGPXOVKNeY-0HID3Q29UQEtCUFzsYQNYpfHyD5PlacJmcV3vt2pU3-d_69_5KVr_v3t72och9vL09M0Td_PfX-Wx-9l3z7lt3tXPp16eTn9eZTX8vVtgGboWBoHMiG1D6LFGqM0u-cqJXmDAtYhujepGS90ProQEHtAhSM9rPAhVs5awATFCkqPbZQKYiPucDVI7CtWJ7W8g6-QIkwkXFAnA9zYn1lKJ1Eb77HTLFhGXqaMtKgbjVmIM9avm4ROGo6SOtIj0wjjTp5YO3pERttMDihu_LiwjZA1PIhdiffOWNHFu693XSn9Acql3BJqd8faP-HEd4LEuCeuBGUnEG3nGjM9DBmd9mbVhI0IhFtluKXXMLV14trLnvlt1oyfiW1b0R2YexL5YSoyAYZcAPvzaI0Xau94SIY0b-yUUMNPyC5NOspyikLhckw1XiHiJ0ir9iXwa9Lxd-boPG9nV7SIh-2YrXlyQjJFAIH3DMylhWeeUCVKhB6rOzVitKYK0iOXJrHSKMwhS6GKKlLAtHe4jjV0i9yBhpY_U5f3MQM5ZdEbXSov6Wzz6HItrsN5zZtnkr7lgIfMlCxSuUalkXMHMK75RDhIcodSqqIhI1FLKFeLbviDzl6atMKImKUQsHN4jeaAzJyYYomA_YVJk7-pYy5UzoREStj69sPHq9tPmzLvNt7mOI_XvBw3pbwMt83p2reboRdlfhtv3zT7of3_96C31ScfQwZhDo0JetCA_GzAn6t_rg5WB70Bz541Qcu4ryhnq42dneY5qCouhu85dCtcv8o0fM7UeSjd8Mw7_6uIjalQozpLkVIuhwxi8wyx269MK1uIrYdfZXg9nNrxpc2FfDyss385isfDRbz86sgBnaGVb-ODfdI-fg-y9-ebg3voHdTHw3y7nl6g-_78edoW3Knq7T5-_jJB0hLto5C7hnfCINM3DYLnnb5VtxpQdO3Hf1tJNdM",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWmRWcEhRVGRVZUZWNWNUbElkM2RpT1d4M1ExaFhTakJSTldGdGRFRlRiREZHVTFGRVdVSkZPVXhJUVZJNFVuRm9hbkJRVFhGeVYxVnNRMUpoZUU1WFdWTlpkbVJaV1hoamIzVnBZWEZCV2pONlFWWlZiWEZ2ZGpsV1p4SVhUbWRCUldFMFUxOUdaak54TFV4WlVEZHpSMUZ2UVVrYUlrRklUakJGTjBacVpETTNObnBKTnpJMmQyOW5NVUpMWVRsRVdFVXhYM2hETWxFIiwiZmN2IjoiMyIsImVpIjoiTmdBRWE0U19GZjNxLUxZUDdzR1FvQUkiLCJxYyI6IkNqVm9iM2NnZEc4Z2NtVndkWEp3YjNObElIQnZaR05oYzNRZ1lYVmthVzhnYVc1MGJ5QjJhWEpoYkNCemFHOXlkQ0JqYkdsd2N4QUFmVzJxQ1Q4IiwicXVlc3Rpb24iOiJIb3cgY2FuIEkgZXh0cmFjdCBjbGlwcyBmcm9tIHBvZGNhc3RzPyIsImxrIjoiR2g5b2IzY2dkRzhnZEdGclpTQmpiR2x3Y3lCbWNtOXRJSEJ2WkdOaGMzUnoiLCJicyI6ImM0V1B1dzdDTUF4RnhacUpFVVZDTlE4eE1QWUh3a2lGLUFVa0swMXBSRnRYaVZ2NGZOSW5DNGoxLXZqNldOekVLZkhBdVhFR0VESm5EREJSRVJKazBGaUJwcW8xanFHbVZLTm5EN1ppQXA5VHlIUmhhNjlpS1Zmak5Pd09JYUR0eThSRjdNNzA3UElTSDJacUdhRTdRV3NkRmlyZXkyMy1GeE5YY2V6S09xMEV1SEhWREdLVFdoclVNTUNwSVJWSGN2Mkw2WW5nZHZqVW1SYzcxTlBKekZFNXY2emlqWXhHUGU3MHZqREx4UnMiLCJpZCI6ImZjX05nQUVhNFNfRmYzcS1MWVA3c0dRb0FJXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWmRWcEhRVGRVZUZWNWNUbElkM2RpT1d4M1ExaFhTakJSTldGdGRFRlRiREZHVTFGRVdVSkZPVXhJUVZJNFVuRm9hbkJRVFhGeVYxVnNRMUpoZUU1WFdWTlpkbVJaV1hoamIzVnBZWEZCV2pONlFWWlZiWEZ2ZGpsV1p4SVhUbWRCUldFMFUxOUdaak54TFV4WlVEZHpSMUZ2UVVrYUlrRklUakJGTjBacVpETTNObnBKTnpJMmQyOW5NVUpMWVRsRVdFVXhYM2hETWxFIiwiZmN2IjoiMyIsImVpIjoiTmdBRWE0U19GZjNxLUxZUDdzR1FvQUkiLCJxYyI6IkNqVm9iM2NnZEc4Z2NtVndkWEp3YjNObElIQnZaR05oYzNRZ1lYVmthVzhnYVc1MGJ5QjJhWEpoYkNCemFHOXlkQ0JqYkdsd2N4QUFmVzJxQ1Q4IiwicXVlc3Rpb24iOiJIb3cgY2FuIEkgZXh0cmFjdCBjbGlwcyBmcm9tIHBvZGNhc3RzPyIsImxrIjoiR2g5b2IzY2dkRzhnZEdGclpTQmpiR2x3Y3lCbWNtOXRJSEJ2WkdOaGMzUnoiLCJicyI6ImM0V1B1dzdDTUF4RnhacUpFVVZDTlE4eE1QWUh3a2lGLUFVa0swMXBSRnRYaVZ2NGZOSW5DNGoxLXZqNldOekVLZkhBdVhFR0VESm5EREJSRVJKazBGaUJwcW8xanFHbVZLTm5EN1ppQXA5VHlIUmhhNjlpS1Zmak5Pd09JYUR0eThSRjdNNzA3UElTSDJacUdhRTdRV3NkRmlyZXkyMy1GeE5YY2V6S09xMEV1SEhWREdLVFdoclVNTUNwSVJWSGN2Mkw2WW5nZHZqVW1SYzcxTlBKekZFNXY2emlqWXhHUGU3MHZqREx4UnMiLCJpZCI6ImZjX05nQUVhNFNfRmYzcS1MWVA3c0dRb0FJXzUifQ%3D%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "1jWaXniczVXNcqpIFJ7FLOc1xo2J4m9iqqhUN7aK_2gwZTYWQtsgYBuaSHR5n2VW8zDzAPdpbgOagBdvktnMnCptus__6fP1-faXY23s738MTd_fsrtiMQiCAqGUOLigU7eosf1GL66owzzdvDcdEW9yjL54OrYMUTc96uIcccQXdjw9nhXoMrffiZWczkQhhy1xSADSqtNFa1V5vu7PxzesrVAg5yL74mKpMbzm7l_XrLgo8j_7z0qTbwqsgDeFTaU02-1GWJuyQlkoVwqjouZyAfAfEwQy4YsNAPmlmPJZgwq3g4B0ro9QtCbOByD0KQNJjjmX_E9Do6GmBMNtaGcEVjBmDk9SqvxBXAigxI6BRDhQjl18id4yUc8PLlNGinIcGzzt0TkviwZySkQiEuwECfMoQ0dJagAahzMOsAxMl3xUvNC0EsBaD7xH-iuSaF1yliAAUtEgvMuF4tLjS6lo6aYefXgsbH7poSHQzuOhrNYfS-uKd6jMbX_l75xFq9V-dhgo6ksu51DNwMbCXAj30b5ULtWERuXm9ipCnc7eYMeSsBuioDl_ZvuJNC_0C48nyKWrc35tiixnFp5AkqrjzwYU0Etzzktlpzy3jqsJIFW4coqp9FA_KcTR0uTluiXJFnrXkDIhl5FFDLn4-t8MkLQx7n0O0DTLT0ijTLOZfQEjkEcWTw_dsYrd6DAtbYVvBwFvfdxOMqMMkcp5KILcDCNA-CeZBGFCJ1NElpW0WoJQfK9nt4ve0wtzkLkUJPxZBN2B2kWQH07elCA8PjSS-W4m8oEyQRdz-j8_De0MwUySP_OuxFGcMHYGmRTUetXtfLi1x8ZiXzXX03Ktdpj2NaOhEiUbWtRdfmGk6f978B3nnXPssovgCz19CnwKyQbf5XkXg0-yj6kljYU0jcGXPe_GJ6n0vMsAH4IoAb543kErWroZ8-7r4Gt_DL5UvRLge593KfDJl8AXz7sE-KTuad5dBF8cyQl8_3beSV-fdxEGcbykh9_Lmlwcgi1lJoOn9WIFJnPFcCsqqwfqamIdmK58OARXrn_naoZztbCMO1ju-nvjasEP6B02cs9ihwZ5n-Y9vH3xtpTh_JYausb8vPZiWDRvbThzZ3mak2cm9fy87lhbdp9zHY-KgnYz7mBNxdcPTys8kWvbmVd2DWUXbGUhKE3cBrXn9YqhKtAsbeqa3lO1oNawx8qgj70KGg2acNYcN4eDAXqVrpuW-vT61Oyg2QyP6mbw4AV4Pa62O9OH6UYbYBseTATLgfQKNSI4amt2oMOnKZajaJh4y0g74M8SHvMTTxf55VZtMFTAIwAagAHo8u7pATh55mufX96SQqB05hwDhP8ob4sc07UFZjuxVi1XhXJZ10o3VVy6wTmX-Put2BBybOOJpb91D2s-r7jm_2P__lvtB__Tgw4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=1jWaXniczVXNcqpIFJ7FLOc1xo2J4m9iqqhUN7aK_2gwZTYWQtsgYBuaSHR5n2VW8zDzAPdpbgOagBdvktnMnCptus__6fP1-faXY23s738MTd_fsrtiMQiCAqGUOLigU7eosf1GL66owzzdvDcdEW9yjL54OrYMUTc96uIcccQXdjw9nhXoMrffiZWczkQhhy1xSADSqtNFa1V5vu7PxzesrVAg5yL74mKpMbzm7l_XrLgo8j_7z0qTbwqsgDeFTaU02-1GWJuyQlkoVwqjouZyAfAfEwQy4YsNAPmlmPJZgwq3g4B0ro9QtCbOByD0KQNJjjmX_E9Do6GmBMNtaGcEVjBmDk9SqvxBXAigxI6BRDhQjl18id4yUc8PLlNGinIcGzzt0TkviwZySkQiEuwECfMoQ0dJagAahzMOsAxMl3xUvNC0EsBaD7xH-iuSaF1yliAAUtEgvMuF4tLjS6lo6aYefXgsbH7poSHQzuOhrNYfS-uKd6jMbX_l75xFq9V-dhgo6ksu51DNwMbCXAj30b5ULtWERuXm9ipCnc7eYMeSsBuioDl_ZvuJNC_0C48nyKWrc35tiixnFp5AkqrjzwYU0Etzzktlpzy3jqsJIFW4coqp9FA_KcTR0uTluiXJFnrXkDIhl5FFDLn4-t8MkLQx7n0O0DTLT0ijTLOZfQEjkEcWTw_dsYrd6DAtbYVvBwFvfdxOMqMMkcp5KILcDCNA-CeZBGFCJ1NElpW0WoJQfK9nt4ve0wtzkLkUJPxZBN2B2kWQH07elCA8PjSS-W4m8oEyQRdz-j8_De0MwUySP_OuxFGcMHYGmRTUetXtfLi1x8ZiXzXX03Ktdpj2NaOhEiUbWtRdfmGk6f978B3nnXPssovgCz19CnwKyQbf5XkXg0-yj6kljYU0jcGXPe_GJ6n0vMsAH4IoAb543kErWroZ8-7r4Gt_DL5UvRLge593KfDJl8AXz7sE-KTuad5dBF8cyQl8_3beSV-fdxEGcbykh9_Lmlwcgi1lJoOn9WIFJnPFcCsqqwfqamIdmK58OARXrn_naoZztbCMO1ju-nvjasEP6B02cs9ihwZ5n-Y9vH3xtpTh_JYausb8vPZiWDRvbThzZ3mak2cm9fy87lhbdp9zHY-KgnYz7mBNxdcPTys8kWvbmVd2DWUXbGUhKE3cBrXn9YqhKtAsbeqa3lO1oNawx8qgj70KGg2acNYcN4eDAXqVrpuW-vT61Oyg2QyP6mbw4AV4Pa62O9OH6UYbYBseTATLgfQKNSI4amt2oMOnKZajaJh4y0g74M8SHvMTTxf55VZtMFTAIwAagAHo8u7pATh55mufX96SQqB05hwDhP8ob4sc07UFZjuxVi1XhXJZ10o3VVy6wTmX-Put2BBybOOJpb91D2s-r7jm_2P__lvtB__Tgw4"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "How I Turn Long-Form Videos Into Short Clips (My Workflow)",
+        "link": "https://www.youtube.com/watch?v=FdBDrZ1JMe8",
+        "displayed_link": "6.4K+ views",
+        "date": "9 months ago",
+        "thumbnail": "https://serpapi.com/searches/6b040035b77a0afac4777faa/images/Ahvor-8tn5CdImYndfZamZHP00df4iMUo0nxP4R6VxE.jpg",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "Riverside is the platform I use to record, edit, and repurpose podcast clips. this video shows a simpler and more sustainable way to do it. to ...",
+        "duration": "8:09",
+        "about_this_result": {
+          "source": {
+            "description": "Riverside is the platform I use to record, edit, and repurpose podcast clips. this video shows a simpler and more sustainable way to do it. to  ...",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CitodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUZkQkRyWjFKTWU4EhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CitodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUZkQkRyWjFKTWU4EhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSwx5n1Xj2e_A914tFebHrfBgREe2_wvfsK3g",
+        "source": "YouTube \u00b7 Nick Kendall"
+      },
+      {
+        "position": 2,
+        "title": "Is there an AI tool to create videos based off a podcast audio?",
+        "link": "https://www.reddit.com/r/podcasting/comments/1bh95nb/is_there_an_ai_tool_to_create_videos_based_off_a/",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.reddit.com/r/podcasting/comments/1bh95nb/is_there_an_ai_tool_to_create_videos_based_off_a/&usg=AOvVaw2MiW4rgLKkuKWVL6SdQQ3F",
+        "displayed_link": "60+ comments",
+        "date": "2 years ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+        "snippet": "I have a 100 episode podcast, and would like to either repurpose or with the help of AI, to streamline the work it'd take to create into tiktoks for ...",
+        "sitelinks": {
+          "list": [
+            {
+              "title": "What do you actually use to repurpose episodes into ...",
+              "link": "https://www.reddit.com/r/podcasting/comments/1spl4rv/what_do_you_actually_use_to_repurpose_episodes/",
+              "answer_count": 31,
+              "date": "Apr 19, 2026"
+            },
+            {
+              "title": "HELP! Has Anyone Experimented with Repurposing ...",
+              "link": "https://www.reddit.com/r/podcasting/comments/11s9n2f/help_has_anyone_experimented_with_repurposing/",
+              "answer_count": 6,
+              "date": "Mar 16, 2023"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Vizard can split lengthy podcast episodes into multiple short highlight clips, then automatically schedule their release on TikTok for you.",
+            "source_info_link": "https://www.reddit.com/r/podcasting/comments/1bh95nb/is_there_an_ai_tool_to_create_videos_based_off_a/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CmZodHRwczovL3d3dy5yZWRkaXQuY29tL3IvcG9kY2FzdGluZy9jb21tZW50cy8xYmg5NW5iL2lzX3RoZXJlX2FuX2FpX3Rvb2xfdG9fY3JlYXRlX3ZpZGVvc19iYXNlZF9vZmZfYS8SBBoCCAAakwUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDtBAgAEAAYACAAKgoKA2hvdxVG_rA_KgkKAnRvFQAAAAAqPQoJcmVwdXJwb3NlFYIPnT8aB3JlY3ljbGUaC3JlcHVycG9zaW5nGgVyZXVzZRoOaXY7cDtyZXB1cnBvc2UqJAoHcG9kY2FzdBU717NAGgpwb2RjYXN0aW5nGghwb2RjYXN0cyoMCgVhdWRpbxWmTodAKg8KBGludG8Vtaj8PxoCaW4qGAoFdmlyYWwVAAAAABoKdmlyYWxzaG9ydCorCgVzaG9ydBVl05k_GgV2aWRlbxoKdmlyYWxzaG9ydBoKc2hvcnRjbGlwcyotCgVjbGlwcxUJnbs_GgRjbGlwGgZ2ZWRpb3MaBXZpZGVvGgpzaG9ydGNsaXBzMmZodHRwczovL3d3dy5yZWRkaXQuY29tL3IvcG9kY2FzdGluZy9jb21tZW50cy8xYmg5NW5iL2lzX3RoZXJlX2FuX2FpX3Rvb2xfdG9fY3JlYXRlX3ZpZGVvc19iYXNlZF9vZmZfYS86RklzIHRoZXJlIGFuIEFJIHRvb2wgdG8gY3JlYXRlIHZpZGVvcyBiYXNlZCBvZmYgYSA8Yj5wb2RjYXN0IGF1ZGlvPC9iPj9CkgE8Yj5WaXphcmQgY2FuIHNwbGl0IGxlbmd0aHkgcG9kY2FzdCBlcGlzb2RlcyBpbnRvIG11bHRpcGxlIHNob3J0IGhpZ2hsaWdodCBjbGlwczwvYj4sIHRoZW4gYXV0b21hdGljYWxseSBzY2hlZHVsZSB0aGVpciByZWxlYXNlIG9uIFRpa1RvayBmb3IgeW91LkoCdG9SAmluUgV2aWRlbyICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CmZodHRwczovL3d3dy5yZWRkaXQuY29tL3IvcG9kY2FzdGluZy9jb21tZW50cy8xYmg5NW5iL2lzX3RoZXJlX2FuX2FpX3Rvb2xfdG9fY3JlYXRlX3ZpZGVvc19iYXNlZF9vZmZfYS8SBBoCCAAakwUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDtBAgAEAAYACAAKgoKA2hvdxVG_rA_KgkKAnRvFQAAAAAqPQoJcmVwdXJwb3NlFYIPnT8aB3JlY3ljbGUaC3JlcHVycG9zaW5nGgVyZXVzZRoOaXY7cDtyZXB1cnBvc2UqJAoHcG9kY2FzdBU717NAGgpwb2RjYXN0aW5nGghwb2RjYXN0cyoMCgVhdWRpbxWmTodAKg8KBGludG8Vtaj8PxoCaW4qGAoFdmlyYWwVAAAAABoKdmlyYWxzaG9ydCorCgVzaG9ydBVl05k_GgV2aWRlbxoKdmlyYWxzaG9ydBoKc2hvcnRjbGlwcyotCgVjbGlwcxUJnbs_GgRjbGlwGgZ2ZWRpb3MaBXZpZGVvGgpzaG9ydGNsaXBzMmZodHRwczovL3d3dy5yZWRkaXQuY29tL3IvcG9kY2FzdGluZy9jb21tZW50cy8xYmg5NW5iL2lzX3RoZXJlX2FuX2FpX3Rvb2xfdG9fY3JlYXRlX3ZpZGVvc19iYXNlZF9vZmZfYS86RklzIHRoZXJlIGFuIEFJIHRvb2wgdG8gY3JlYXRlIHZpZGVvcyBiYXNlZCBvZmYgYSA8Yj5wb2RjYXN0IGF1ZGlvPC9iPj9CkgE8Yj5WaXphcmQgY2FuIHNwbGl0IGxlbmd0aHkgcG9kY2FzdCBlcGlzb2RlcyBpbnRvIG11bHRpcGxlIHNob3J0IGhpZ2hsaWdodCBjbGlwczwvYj4sIHRoZW4gYXV0b21hdGljYWxseSBzY2hlZHVsZSB0aGVpciByZWxlYXNlIG9uIFRpa1RvayBmb3IgeW91LkoCdG9SAmluUgV2aWRlbyICEAFIAFgAaAA",
+        "source": "Reddit \u00b7 r/podcasting"
+      },
+      {
+        "position": 3,
+        "title": "How to Repurpose a Podcast into Short-Form Clips (2026 ...",
+        "link": "https://www.choppity.com/blog/how-to-repurpose-podcast-into-shorts/",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.choppity.com/blog/how-to-repurpose-podcast-into-shorts/&usg=AOvVaw0QPkRFD5o5_KTPNNxtnwDr",
+        "displayed_link": "https://www.choppity.com \u203a blog \u203a how-to-repurpose-p...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcExxL_9xL_9xL_9xL_9xL_9xL_9tJf9qHf9jBP95Pv-2nf_VyP-bdv9nE__Itv-IV_-RZv_r5P_____i2f9cAP-niP_49f_-SyO1AAAAB3RSTlMAJa7y_69kPKWwjAAAAQ1JREFUeAF9kwUChDAMBJFwqZHSbuX_P71wrgxSmboMwzBOM30xL-OgnOgPJ61HfxmH5b-chvm_nIdHlI3hj9hNsnU-hFU0JrLGsPFTSspAKfDV-QLkjKcUj5CsVI8MhMbVIPFNckOzzIbcXsZq7d7lXtMiWuItiMUqzu-1k7nV5ARHWgtku68FV9xVGt8tSc9YbQ7WsmKkR3OVsQhxkxxrAOJ24SGDSmLjwTm0jgv93mzMKpUO-Fo3eHLuPlpuMLRjG4Cock_eJBl4IcXE7rx6oVfpse6DFA1rTWj8kIqNKC2ltGUgJvg3SZIKHhTz2qzCYg1fMUJPecDxMZn-y-X4aB4damVcfl2HSeudAfEjGBYFvIZXAAAAAElFTkSuQmCC.png",
+        "date": "Jun 21, 2026",
+        "snippet": "Learn how to repurpose podcast content into short-form clips for TikTok, Reels, and Shorts with a practical 2026 workflow.",
+        "snippet_highlighted_words": [
+          "Learn how to repurpose podcast content into short-form clips"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Learn how to repurpose podcast content into short-form clips for TikTok, Reels, and Shorts with a practical 2026 workflow.",
+            "source_info_link": "https://www.choppity.com/blog/how-to-repurpose-podcast-into-shorts/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcExxL_9xL_9xL_9xL_9xL_9xL_9tJf9qHf9jBP95Pv-2nf_VyP-bdv9nE__Itv-IV_-RZv_r5P_____i2f9cAP-niP_49f_-SyO1AAAAB3RSTlMAJa7y_69kPKWwjAAAAQ1JREFUeAF9kwUChDAMBJFwqZHSbuX_P71wrgxSmboMwzBOM30xL-OgnOgPJ61HfxmH5b-chvm_nIdHlI3hj9hNsnU-hFU0JrLGsPFTSspAKfDV-QLkjKcUj5CsVI8MhMbVIPFNckOzzIbcXsZq7d7lXtMiWuItiMUqzu-1k7nV5ARHWgtku68FV9xVGt8tSc9YbQ7WsmKkR3OVsQhxkxxrAOJ24SGDSmLjwTm0jgv93mzMKpUO-Fo3eHLuPlpuMLRjG4Cock_eJBl4IcXE7rx6oVfpse6DFA1rTWj8kIqNKC2ltGUgJvg3SZIKHhTz2qzCYg1fMUJPecDxMZn-y-X4aB4damVcfl2HSeudAfEjGBYFvIZXAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CkNodHRwczovL3d3dy5jaG9wcGl0eS5jb20vYmxvZy9ob3ctdG8tcmVwdXJwb3NlLXBvZGNhc3QtaW50by1zaG9ydHMvEgQaAggAGugEEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAwgQIABAAGAAgACoKCgNob3cVAK27QCoJCgJ0bxUAAAAAKj0KCXJlcHVycG9zZRWuLsVAGgdyZWN5Y2xlGgtyZXB1cnBvc2luZxoFcmV1c2UaDml2O3A7cmVwdXJwb3NlKiQKB3BvZGNhc3QVpZLuQBoKcG9kY2FzdGluZxoIcG9kY2FzdHMqDAoFYXVkaW8VI2aPPyoPCgRpbnRvFeOo6kAaAmluKhgKBXZpcmFsFeLTHT8aCnZpcmFsc2hvcnQqKwoFc2hvcnQVXl7JQBoFdmlkZW8aCnZpcmFsc2hvcnQaCnNob3J0Y2xpcHMqLQoFY2xpcHMV2LvnQBoEY2xpcBoGdmVkaW9zGgV2aWRlbxoKc2hvcnRjbGlwczJDaHR0cHM6Ly93d3cuY2hvcHBpdHkuY29tL2Jsb2cvaG93LXRvLXJlcHVycG9zZS1wb2RjYXN0LWludG8tc2hvcnRzLzpPPGI-SG93IHRvIFJlcHVycG9zZTwvYj4gYSA8Yj5Qb2RjYXN0IGludG8gU2hvcnQ8L2I-LUZvcm0gPGI-Q2xpcHM8L2I-ICgyMDI2IC4uLkKBATxiPkxlYXJuIGhvdyB0byByZXB1cnBvc2UgcG9kY2FzdCBjb250ZW50IGludG8gc2hvcnQtZm9ybSBjbGlwczwvYj4gZm9yIFRpa1RvaywgUmVlbHMsIGFuZCBTaG9ydHMgd2l0aCBhIHByYWN0aWNhbCAyMDI2IHdvcmtmbG93LkoCdG9SBXZpZGVvUgJpbiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CkNodHRwczovL3d3dy5jaG9wcGl0eS5jb20vYmxvZy9ob3ctdG8tcmVwdXJwb3NlLXBvZGNhc3QtaW50by1zaG9ydHMvEgQaAggAGugEEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAwgQIABAAGAAgACoKCgNob3cVAK27QCoJCgJ0bxUAAAAAKj0KCXJlcHVycG9zZRWuLsVAGgdyZWN5Y2xlGgtyZXB1cnBvc2luZxoFcmV1c2UaDml2O3A7cmVwdXJwb3NlKiQKB3BvZGNhc3QVpZLuQBoKcG9kY2FzdGluZxoIcG9kY2FzdHMqDAoFYXVkaW8VI2aPPyoPCgRpbnRvFeOo6kAaAmluKhgKBXZpcmFsFeLTHT8aCnZpcmFsc2hvcnQqKwoFc2hvcnQVXl7JQBoFdmlkZW8aCnZpcmFsc2hvcnQaCnNob3J0Y2xpcHMqLQoFY2xpcHMV2LvnQBoEY2xpcBoGdmVkaW9zGgV2aWRlbxoKc2hvcnRjbGlwczJDaHR0cHM6Ly93d3cuY2hvcHBpdHkuY29tL2Jsb2cvaG93LXRvLXJlcHVycG9zZS1wb2RjYXN0LWludG8tc2hvcnRzLzpPPGI-SG93IHRvIFJlcHVycG9zZTwvYj4gYSA8Yj5Qb2RjYXN0IGludG8gU2hvcnQ8L2I-LUZvcm0gPGI-Q2xpcHM8L2I-ICgyMDI2IC4uLkKBATxiPkxlYXJuIGhvdyB0byByZXB1cnBvc2UgcG9kY2FzdCBjb250ZW50IGludG8gc2hvcnQtZm9ybSBjbGlwczwvYj4gZm9yIFRpa1RvaywgUmVlbHMsIGFuZCBTaG9ydHMgd2l0aCBhIHByYWN0aWNhbCAyMDI2IHdvcmtmbG93LkoCdG9SBXZpZGVvUgJpbiICEAFIAFgAaAA",
+        "source": "Choppity"
+      },
+      {
+        "position": 4,
+        "title": "AI Podcast Clip Generator",
+        "link": "https://vizard.ai/tools/ai-podcast-clip-generator",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://vizard.ai/tools/ai-podcast-clip-generator&usg=AOvVaw3iUAc2XDQxYJZLHCFif-4j",
+        "displayed_link": "https://vizard.ai \u203a tools \u203a ai-podcast-clip-generator",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAfCAMAAACxiD--AAAAeFBMVEVHcEz_m73_m73_m73_nL3_m73_m73_m739mr3_m739mb3_m73_m73_m73_m73_m73_m73_m73_m73_m73_m73_m72vZ7LBc7RTKadOJqZTK6dCHqVIIqWOUq3NerY3Gp5GIKVHIaV_RqvjiLnag7c8GKRIIqVIIqUEPZXLAAAAKHRSTlMAaf-SESMFztyJXi72gcCg7UnlOHyp-5H-0zn__8GtB4vu____viBxF62x5QAAAPJJREFUeAF1k1UCgzAQBSnu7tSN-9-wKXnYLplPZoCotuOkCwxTU6IOTIsFlr3xluNaJPB03954XXeCbWB7oY4CXhYIpBfFOjQUCOB110bhhSimwLMi-AB-KeJEFyRGin7x-CdIQ-ZJQTyKKN35ePFWJvFjDCPXBWGEx4V2SnMw-cIs03-Qg0ordSC92JYy3z7ZBmHdTD-NVUHddj37wjoGt26Hc9ezMVgZuAh_PnfXlMwC3O6Ps2B4vsg6UP8mK8m8Yi-kP38atpvwZ-l7eWDYeYDven6iiGdnkvjjU93Df5X3YoQ_vlkoHl_F3UQBfxj8AORJGsjDkQgrAAAAAElFTkSuQmCC.png",
+        "snippet": "Just upload your podcast episode, click \"Get AI clips\u201d and your hour-long podcast episodes will turn into attention-grabbing podcast snippets. No editing ...",
+        "snippet_highlighted_words": [
+          "Just upload your podcast episode, click \"Get AI clips\u201d"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Just upload your podcast episode, click \"Get AI clips\u201d and your hour-long podcast episodes will turn into attention-grabbing podcast snippets. No editing ...",
+            "source_info_link": "https://vizard.ai/tools/ai-podcast-clip-generator",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAfCAMAAACxiD--AAAAeFBMVEVHcEz_m73_m73_m73_nL3_m73_m73_m739mr3_m739mb3_m73_m73_m73_m73_m73_m73_m73_m73_m73_m73_m72vZ7LBc7RTKadOJqZTK6dCHqVIIqWOUq3NerY3Gp5GIKVHIaV_RqvjiLnag7c8GKRIIqVIIqUEPZXLAAAAKHRSTlMAaf-SESMFztyJXi72gcCg7UnlOHyp-5H-0zn__8GtB4vu____viBxF62x5QAAAPJJREFUeAF1k1UCgzAQBSnu7tSN-9-wKXnYLplPZoCotuOkCwxTU6IOTIsFlr3xluNaJPB03954XXeCbWB7oY4CXhYIpBfFOjQUCOB110bhhSimwLMi-AB-KeJEFyRGin7x-CdIQ-ZJQTyKKN35ePFWJvFjDCPXBWGEx4V2SnMw-cIs03-Qg0ordSC92JYy3z7ZBmHdTD-NVUHddj37wjoGt26Hc9ezMVgZuAh_PnfXlMwC3O6Ps2B4vsg6UP8mK8m8Yi-kP38atpvwZ-l7eWDYeYDven6iiGdnkvjjU93Df5X3YoQ_vlkoHl_F3UQBfxj8AORJGsjDkQgrAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CjFodHRwczovL3ZpemFyZC5haS90b29scy9haS1wb2RjYXN0LWNsaXAtZ2VuZXJhdG9yEgQaAggAGuIEEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAvAQIABAAGAAgACoKCgNob3cV9IXYPyoJCgJ0bxUAAAAAKj0KCXJlcHVycG9zZRU0aY4_GgdyZWN5Y2xlGgtyZXB1cnBvc2luZxoFcmV1c2UaDml2O3A7cmVwdXJwb3NlKiQKB3BvZGNhc3QVCp_WQBoKcG9kY2FzdGluZxoIcG9kY2FzdHMqDAoFYXVkaW8V4ESmPyoPCgRpbnRvFXbxkT8aAmluKhgKBXZpcmFsFW6yNUAaCnZpcmFsc2hvcnQqKwoFc2hvcnQVc0OSPxoFdmlkZW8aCnZpcmFsc2hvcnQaCnNob3J0Y2xpcHMqLQoFY2xpcHMVjNeLQBoEY2xpcBoGdmVkaW9zGgV2aWRlbxoKc2hvcnRjbGlwczIxaHR0cHM6Ly92aXphcmQuYWkvdG9vbHMvYWktcG9kY2FzdC1jbGlwLWdlbmVyYXRvcjosQUkgPGI-UG9kY2FzdCBDbGlwPC9iPiBHZW5lcmF0b3IgLSBWaXphcmQuYWlCsAE8Yj5KdXN0IHVwbG9hZCB5b3VyIHBvZGNhc3QgZXBpc29kZSwgY2xpY2sgJnF1b3Q7R2V0IEFJIGNsaXBz4oCdPC9iPiBhbmQgeW91ciBob3VyLWxvbmcgcG9kY2FzdCBlcGlzb2RlcyB3aWxsIHR1cm4gaW50byBhdHRlbnRpb24tZ3JhYmJpbmcgcG9kY2FzdCBzbmlwcGV0cy4gTm8gZWRpdGluZyZuYnNwOy4uLkoCdG9SAmluUgV2aWRlbyICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CjFodHRwczovL3ZpemFyZC5haS90b29scy9haS1wb2RjYXN0LWNsaXAtZ2VuZXJhdG9yEgQaAggAGuIEEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAvAQIABAAGAAgACoKCgNob3cV9IXYPyoJCgJ0bxUAAAAAKj0KCXJlcHVycG9zZRU0aY4_GgdyZWN5Y2xlGgtyZXB1cnBvc2luZxoFcmV1c2UaDml2O3A7cmVwdXJwb3NlKiQKB3BvZGNhc3QVCp_WQBoKcG9kY2FzdGluZxoIcG9kY2FzdHMqDAoFYXVkaW8V4ESmPyoPCgRpbnRvFXbxkT8aAmluKhgKBXZpcmFsFW6yNUAaCnZpcmFsc2hvcnQqKwoFc2hvcnQVc0OSPxoFdmlkZW8aCnZpcmFsc2hvcnQaCnNob3J0Y2xpcHMqLQoFY2xpcHMVjNeLQBoEY2xpcBoGdmVkaW9zGgV2aWRlbxoKc2hvcnRjbGlwczIxaHR0cHM6Ly92aXphcmQuYWkvdG9vbHMvYWktcG9kY2FzdC1jbGlwLWdlbmVyYXRvcjosQUkgPGI-UG9kY2FzdCBDbGlwPC9iPiBHZW5lcmF0b3IgLSBWaXphcmQuYWlCsAE8Yj5KdXN0IHVwbG9hZCB5b3VyIHBvZGNhc3QgZXBpc29kZSwgY2xpY2sgJnF1b3Q7R2V0IEFJIGNsaXBz4oCdPC9iPiBhbmQgeW91ciBob3VyLWxvbmcgcG9kY2FzdCBlcGlzb2RlcyB3aWxsIHR1cm4gaW50byBhdHRlbnRpb24tZ3JhYmJpbmcgcG9kY2FzdCBzbmlwcGV0cy4gTm8gZWRpdGluZyZuYnNwOy4uLkoCdG9SAmluUgV2aWRlbyICEAFIAFgAaAA",
+        "source": "Vizard.ai",
+        "read_more_link": "https://vizard.ai/tools/ai-podcast-clip-generator#:~:text=Just%20upload%20your%20podcast%20episode%2C,snippets.%20No%20editing%20experience%20required."
+      },
+      {
+        "position": 5,
+        "title": "AI Podcast Clip Maker | Free Tool to Make Podcast Shorts ...",
+        "link": "https://www.flowjin.com/tools/ai-podcast-clip-maker",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.flowjin.com/tools/ai-podcast-clip-maker&usg=AOvVaw0uOevxBlFLK5XxDilmmiwV",
+        "displayed_link": "https://www.flowjin.com \u203a tools \u203a ai-podcast-clip-maker",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAtUlEQVR4Ac3NIQyCQBjF8deLfTPRg81qrzTzpUsWmontEs1ELyabyT4ijUggMvoIhL94YGAcnV_69r3tPe3VMc2u2hAPwEdBhx6Ah0Iy-FjoFNIwRHpDojXj907QaK2Ei6QCYi1Ya3OoNbpCqT8zBsIz-qnhIi_pAQQwpPML3lMdnpxz90izjt7fLTxT57SQQz6NF1qDTlIFsdZekCiGUgFn6EwFViEFAI2CDhXQRtpgspv26gvne34U2_VzNwAAAABJRU5ErkJggg.png",
+        "snippet": "Instantly Turn Episodes into Shareable Shorts. Convert long-form podcast episodes into viral video clips for Instagram, Linkedin, TikTok, and YouTube Shorts ...",
+        "snippet_highlighted_words": [
+          "Convert long-form podcast episodes into viral video clips"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.9,
+              "reviews": 31
+            },
+            "extensions": [
+              "4.9(31)"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Instantly Turn Episodes into Shareable Shorts. Convert long-form podcast episodes into viral video clips for Instagram, Linkedin, TikTok, and YouTube Shorts ...",
+            "source_info_link": "https://www.flowjin.com/tools/ai-podcast-clip-maker",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAtUlEQVR4Ac3NIQyCQBjF8deLfTPRg81qrzTzpUsWmontEs1ELyabyT4ijUggMvoIhL94YGAcnV_69r3tPe3VMc2u2hAPwEdBhx6Ah0Iy-FjoFNIwRHpDojXj907QaK2Ei6QCYi1Ya3OoNbpCqT8zBsIz-qnhIi_pAQQwpPML3lMdnpxz90izjt7fLTxT57SQQz6NF1qDTlIFsdZekCiGUgFn6EwFViEFAI2CDhXQRtpgspv26gvne34U2_VzNwAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CjNodHRwczovL3d3dy5mbG93amluLmNvbS90b29scy9haS1wb2RjYXN0LWNsaXAtbWFrZXISBBoCCAAa2gQSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC0BAgAEAAYACAAKgoKA2hvdxVokoA_KgkKAnRvFQAAAAAqPQoJcmVwdXJwb3NlFcixCD4aB3JlY3ljbGUaC3JlcHVycG9zaW5nGgVyZXVzZRoOaXY7cDtyZXB1cnBvc2UqJAoHcG9kY2FzdBUBVtxAGgpwb2RjYXN0aW5nGghwb2RjYXN0cyoMCgVhdWRpbxWykKU_Kg8KBGludG8VVMBLQBoCaW4qGAoFdmlyYWwVnlLCPxoKdmlyYWxzaG9ydCorCgVzaG9ydBWGjBxAGgV2aWRlbxoKdmlyYWxzaG9ydBoKc2hvcnRjbGlwcyotCgVjbGlwcxVApIFAGgRjbGlwGgZ2ZWRpb3MaBXZpZGVvGgpzaG9ydGNsaXBzMjNodHRwczovL3d3dy5mbG93amluLmNvbS90b29scy9haS1wb2RjYXN0LWNsaXAtbWFrZXI6JkFJIDxiPlBvZGNhc3QgQ2xpcDwvYj4gTWFrZXIgLSBGbG93amluQqwBSW5zdGFudGx5IFR1cm4gRXBpc29kZXMgaW50byBTaGFyZWFibGUgU2hvcnRzLiA8Yj5Db252ZXJ0IGxvbmctZm9ybSBwb2RjYXN0IGVwaXNvZGVzIGludG8gdmlyYWwgdmlkZW8gY2xpcHM8L2I-IGZvciBJbnN0YWdyYW0sIExpbmtlZGluLCBUaWtUb2ssIGFuZCBZb3VUdWJlIFNob3J0cyZuYnNwOy4uLkoCdG9SBXZpZGVvUgJpbiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CjNodHRwczovL3d3dy5mbG93amluLmNvbS90b29scy9haS1wb2RjYXN0LWNsaXAtbWFrZXISBBoCCAAa2gQSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC0BAgAEAAYACAAKgoKA2hvdxVokoA_KgkKAnRvFQAAAAAqPQoJcmVwdXJwb3NlFcixCD4aB3JlY3ljbGUaC3JlcHVycG9zaW5nGgVyZXVzZRoOaXY7cDtyZXB1cnBvc2UqJAoHcG9kY2FzdBUBVtxAGgpwb2RjYXN0aW5nGghwb2RjYXN0cyoMCgVhdWRpbxWykKU_Kg8KBGludG8VVMBLQBoCaW4qGAoFdmlyYWwVnlLCPxoKdmlyYWxzaG9ydCorCgVzaG9ydBWGjBxAGgV2aWRlbxoKdmlyYWxzaG9ydBoKc2hvcnRjbGlwcyotCgVjbGlwcxVApIFAGgRjbGlwGgZ2ZWRpb3MaBXZpZGVvGgpzaG9ydGNsaXBzMjNodHRwczovL3d3dy5mbG93amluLmNvbS90b29scy9haS1wb2RjYXN0LWNsaXAtbWFrZXI6JkFJIDxiPlBvZGNhc3QgQ2xpcDwvYj4gTWFrZXIgLSBGbG93amluQqwBSW5zdGFudGx5IFR1cm4gRXBpc29kZXMgaW50byBTaGFyZWFibGUgU2hvcnRzLiA8Yj5Db252ZXJ0IGxvbmctZm9ybSBwb2RjYXN0IGVwaXNvZGVzIGludG8gdmlyYWwgdmlkZW8gY2xpcHM8L2I-IGZvciBJbnN0YWdyYW0sIExpbmtlZGluLCBUaWtUb2ssIGFuZCBZb3VUdWJlIFNob3J0cyZuYnNwOy4uLkoCdG9SBXZpZGVvUgJpbiICEAFIAFgAaAA",
+        "source": "Flowjin",
+        "read_more_link": "https://www.flowjin.com/tools/ai-podcast-clip-maker#:~:text=Instantly%20Turn%20Episodes%20into%20Shareable,and%20YouTube%20Shorts%20using%20AI."
+      },
+      {
+        "position": 6,
+        "title": "Podcast Clips: How to Repurpose Episodes Into Video",
+        "link": "https://hivecast.fm/blog/how-to-repurpose-podcast-to-video/",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://hivecast.fm/blog/how-to-repurpose-podcast-to-video/&usg=AOvVaw1sSdLaTEmkFgrr1s3ZMJYQ",
+        "displayed_link": "https://hivecast.fm \u203a Resources \u203a Podcast Production",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEUCZnAAYm4AW2oAZG9xmYzW3rZTh4Lu78H__8sAVmj__MkAXmwOanL__8w9e3xhj4f__85ai4WCo5IAUmaft58icXa2x6hrlYqvwqWYspu_zKsV14PQAAAAk0lEQVR4AcTRRxYEIQgEULA6KdI53_-ek7OP3g7br0T6e7CDbVleGApyZZU7Qkpghi9D7hiScAxaX9E3bSk_xp1W_XDBYax0wodAmLvqieGCLHjaNC_yhdKv9FCZtRq-MLa6PQq7Peg3ThrGY7TS0jstpj1paCYcj2IvwV5fung8Fh8FlOjzZEbwYh77PGgyGWAAANOsDJN5O_RxAAAAAElFTkSuQmCC.png",
+        "date": "Oct 13, 2026",
+        "snippet": "Record each speaker on a separate audio track, so a clip of one person can be balanced without the other person's room noise underneath it.",
+        "snippet_highlighted_words": [
+          "Record each speaker on a separate audio track"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Record each speaker on a separate audio track, so a clip of one person can be balanced without the other person's room noise underneath it.",
+            "source_info_link": "https://hivecast.fm/blog/how-to-repurpose-podcast-to-video/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEUCZnAAYm4AW2oAZG9xmYzW3rZTh4Lu78H__8sAVmj__MkAXmwOanL__8w9e3xhj4f__85ai4WCo5IAUmaft58icXa2x6hrlYqvwqWYspu_zKsV14PQAAAAk0lEQVR4AcTRRxYEIQgEULA6KdI53_-ek7OP3g7br0T6e7CDbVleGApyZZU7Qkpghi9D7hiScAxaX9E3bSk_xp1W_XDBYax0wodAmLvqieGCLHjaNC_yhdKv9FCZtRq-MLa6PQq7Peg3ThrGY7TS0jstpj1paCYcj2IvwV5fung8Fh8FlOjzZEbwYh77PGgyGWAAANOsDJN5O_RxAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CjtodHRwczovL2hpdmVjYXN0LmZtL2Jsb2cvaG93LXRvLXJlcHVycG9zZS1wb2RjYXN0LXRvLXZpZGVvLxIEGgIIABrsBBIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDIBAgAEAAYACAAKgoKA2hvdxXmU7VAKgkKAnRvFQAAAAAqPQoJcmVwdXJwb3NlFXQhl0AaB3JlY3ljbGUaC3JlcHVycG9zaW5nGgVyZXVzZRoOaXY7cDtyZXB1cnBvc2UqJAoHcG9kY2FzdBU-sP1AGgpwb2RjYXN0aW5nGghwb2RjYXN0cyoMCgVhdWRpbxUlBcw_Kg8KBGludG8V452WQBoCaW4qGAoFdmlyYWwVAAAAABoKdmlyYWxzaG9ydCorCgVzaG9ydBVHFdY-GgV2aWRlbxoKdmlyYWxzaG9ydBoKc2hvcnRjbGlwcyotCgVjbGlwcxWR0NBAGgRjbGlwGgZ2ZWRpb3MaBXZpZGVvGgpzaG9ydGNsaXBzMjtodHRwczovL2hpdmVjYXN0LmZtL2Jsb2cvaG93LXRvLXJlcHVycG9zZS1wb2RjYXN0LXRvLXZpZGVvLzpIPGI-UG9kY2FzdCBDbGlwczwvYj46IDxiPkhvdyB0byBSZXB1cnBvc2U8L2I-IEVwaXNvZGVzIDxiPkludG8gVmlkZW88L2I-QpYBPGI-UmVjb3JkIGVhY2ggc3BlYWtlciBvbiBhIHNlcGFyYXRlIGF1ZGlvIHRyYWNrPC9iPiwgc28gYSBjbGlwIG9mIG9uZSBwZXJzb24gY2FuIGJlIGJhbGFuY2VkIHdpdGhvdXQgdGhlIG90aGVyIHBlcnNvbiYjMzk7cyByb29tIG5vaXNlIHVuZGVybmVhdGggaXQuSgJ0b1IFdmlkZW9SAmluIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CjtodHRwczovL2hpdmVjYXN0LmZtL2Jsb2cvaG93LXRvLXJlcHVycG9zZS1wb2RjYXN0LXRvLXZpZGVvLxIEGgIIABrsBBIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDIBAgAEAAYACAAKgoKA2hvdxXmU7VAKgkKAnRvFQAAAAAqPQoJcmVwdXJwb3NlFXQhl0AaB3JlY3ljbGUaC3JlcHVycG9zaW5nGgVyZXVzZRoOaXY7cDtyZXB1cnBvc2UqJAoHcG9kY2FzdBU-sP1AGgpwb2RjYXN0aW5nGghwb2RjYXN0cyoMCgVhdWRpbxUlBcw_Kg8KBGludG8V452WQBoCaW4qGAoFdmlyYWwVAAAAABoKdmlyYWxzaG9ydCorCgVzaG9ydBVHFdY-GgV2aWRlbxoKdmlyYWxzaG9ydBoKc2hvcnRjbGlwcyotCgVjbGlwcxWR0NBAGgRjbGlwGgZ2ZWRpb3MaBXZpZGVvGgpzaG9ydGNsaXBzMjtodHRwczovL2hpdmVjYXN0LmZtL2Jsb2cvaG93LXRvLXJlcHVycG9zZS1wb2RjYXN0LXRvLXZpZGVvLzpIPGI-UG9kY2FzdCBDbGlwczwvYj46IDxiPkhvdyB0byBSZXB1cnBvc2U8L2I-IEVwaXNvZGVzIDxiPkludG8gVmlkZW88L2I-QpYBPGI-UmVjb3JkIGVhY2ggc3BlYWtlciBvbiBhIHNlcGFyYXRlIGF1ZGlvIHRyYWNrPC9iPiwgc28gYSBjbGlwIG9mIG9uZSBwZXJzb24gY2FuIGJlIGJhbGFuY2VkIHdpdGhvdXQgdGhlIG90aGVyIHBlcnNvbiYjMzk7cyByb29tIG5vaXNlIHVuZGVybmVhdGggaXQuSgJ0b1IFdmlkZW9SAmluIgIQAUgAWABoAA",
+        "source": "HiveCast",
+        "read_more_link": "https://hivecast.fm/blog/how-to-repurpose-podcast-to-video/#:~:text=Record%20each%20speaker%20on%20a,person's%20room%20noise%20underneath%20it."
+      },
+      {
+        "position": 7,
+        "title": "How to Repurpose Podcasts Into Viral Shorts",
+        "link": "https://www.youtube.com/watch?v=_XdZbmdpLn4",
+        "displayed_link": "160+ views",
+        "date": "2 years ago",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkc7cBhPFiaAxmzT3fkoOSOGK0xbyE0FGfzabBj_o7yMWPijVfEIKzSA&s",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "How to repurpose podcasts into viral short form mobile videos for TikTok, Instagram Reels, YouTube Shorts, Snapchat Spotlight, Facebook Reels, ...",
+        "duration": "16:06",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "Overview",
+            "link": "https://www.youtube.com/watch?v=_XdZbmdpLn4&t=0"
+          },
+          {
+            "time": "00:25",
+            "title": "Creating Viral Content",
+            "link": "https://www.youtube.com/watch?v=_XdZbmdpLn4&t=25"
+          },
+          {
+            "time": "03:27",
+            "title": "Negative Hooks",
+            "link": "https://www.youtube.com/watch?v=_XdZbmdpLn4&t=207"
+          },
+          {
+            "time": "04:21",
+            "title": "Repurposing Podcast Content",
+            "link": "https://www.youtube.com/watch?v=_XdZbmdpLn4&t=261"
+          },
+          {
+            "time": "06:09",
+            "title": "Engagement",
+            "link": "https://www.youtube.com/watch?v=_XdZbmdpLn4&t=369"
+          },
+          {
+            "time": "06:29",
+            "title": "Case Study: Silicon Valley Bank Collapse",
+            "link": "https://www.youtube.com/watch?v=_XdZbmdpLn4&t=389"
+          },
+          {
+            "time": "11:26",
+            "title": "Cheap Freelance Copywriters",
+            "link": "https://www.youtube.com/watch?v=_XdZbmdpLn4&t=686"
+          },
+          {
+            "time": "14:20",
+            "title": "Posting Strategies for Social Media",
+            "link": "https://www.youtube.com/watch?v=_XdZbmdpLn4&t=860"
+          },
+          {
+            "time": "15:42",
+            "title": "Final Thoughts",
+            "link": "https://www.youtube.com/watch?v=_XdZbmdpLn4&t=942"
+          }
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "How to repurpose podcasts into viral short form mobile videos for TikTok, Instagram Reels, YouTube Shorts, Snapchat Spotlight, Facebook Reels, ...",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CitodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PV9YZFpibWRwTG40EhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CitodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PV9YZFpibWRwTG40EhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR7w__IIS8a9PDTF4Unbb48zqOPUcB4nhS9iA",
+        "source": "YouTube \u00b7 Edward Sturm"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "How to repurpose podcast audio into viral short clips reddit",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgkbpcMREkiAnQAGlRp1NZp5k8ZjQ:1795424310359&q=How+to+repurpose+podcast+audio+into+viral+short+clips+reddit&sa=X&ved=2ahUKEwiEsvXh3J2YAxV9Nd4AHe4gBCQQ1QJ6BAhGEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+repurpose+podcast+audio+into+viral+short+clips+reddit"
+      },
+      {
+        "block_position": 1,
+        "query": "Convert audio podcast to video free",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgkbpcMREkiAnQAGlRp1NZp5k8ZjQ:1795424310359&q=Convert+audio+podcast+to+video+free&sa=X&ved=2ahUKEwiEsvXh3J2YAxV9Nd4AHe4gBCQQ1QJ6BAhOEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Convert+audio+podcast+to+video+free"
+      },
+      {
+        "block_position": 1,
+        "query": "AI podcast video Generator free",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgkbpcMREkiAnQAGlRp1NZp5k8ZjQ:1795424310359&q=AI+podcast+video+Generator+free&sa=X&ved=2ahUKEwiEsvXh3J2YAxV9Nd4AHe4gBCQQ1QJ6BAhNEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AI+podcast+video+Generator+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Turn podcast into video",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgkbpcMREkiAnQAGlRp1NZp5k8ZjQ:1795424310359&q=Turn+podcast+into+video&sa=X&ved=2ahUKEwiEsvXh3J2YAxV9Nd4AHe4gBCQQ1QJ6BAhLEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Turn+podcast+into+video"
+      },
+      {
+        "block_position": 1,
+        "query": "AI video podcast Generator",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgkbpcMREkiAnQAGlRp1NZp5k8ZjQ:1795424310359&q=AI+video+podcast+Generator&sa=X&ved=2ahUKEwiEsvXh3J2YAxV9Nd4AHe4gBCQQ1QJ6BAhKEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AI+video+podcast+Generator"
+      },
+      {
+        "block_position": 1,
+        "query": "Convert audio to video AI free online",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgkbpcMREkiAnQAGlRp1NZp5k8ZjQ:1795424310359&q=Convert+audio+to+video+AI+free+online&sa=X&ved=2ahUKEwiEsvXh3J2YAxV9Nd4AHe4gBCQQ1QJ6BAhJEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Convert+audio+to+video+AI+free+online"
+      },
+      {
+        "block_position": 1,
+        "query": "Podcast clip maker",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgkbpcMREkiAnQAGlRp1NZp5k8ZjQ:1795424310359&q=Podcast+clip+maker&sa=X&ved=2ahUKEwiEsvXh3J2YAxV9Nd4AHe4gBCQQ1QJ6BAhIEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Podcast+clip+maker"
+      },
+      {
+        "block_position": 1,
+        "query": "Make podcast clips for instagram",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgkbpcMREkiAnQAGlRp1NZp5k8ZjQ:1795424310359&q=Make+podcast+clips+for+instagram&sa=X&ved=2ahUKEwiEsvXh3J2YAxV9Nd4AHe4gBCQQ1QJ6BAhHEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Make+podcast+clips+for+instagram"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "What do you actually use to repurpose episodes into clips and social posts ...",
+        "link": "https://www.reddit.com/r/podcasting/comments/1spl4rv/what_do_you_actually_use_to_repurpose_episodes/",
+        "date": "7 months ago",
+        "extensions": [
+          "r/podcasting",
+          "30+ comments"
+        ],
+        "source": "Reddit",
+        "answers": [
+          {
+            "link": "https://www.reddit.com/r/podcasting/comments/1spl4rv/what_do_you_actually_use_to_repurpose_episodes/"
+          }
+        ]
+      },
+      {
+        "title": "How to repurpose podcasts into short clips?",
+        "link": "https://www.facebook.com/groups/3491725224172086/posts/28336818292569435/",
+        "date": "3 months ago",
+        "extensions": [
+          "Promote Your Podcast",
+          "10+ comments"
+        ],
+        "source": "Facebook",
+        "answers": [
+          {
+            "link": "https://www.facebook.com/groups/3491725224172086/posts/28336818292569435/",
+            "extensions": [
+              "Top answer",
+              "3 votes",
+              "3 months ago"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "How do I edit a podcast into short videos?",
+        "link": "https://www.quora.com/How-do-I-edit-a-podcast-into-short-videos",
+        "date": "3 years ago",
+        "extensions": [
+          "30+ answers"
+        ],
+        "source": "Quora",
+        "answers": [
+          {
+            "link": "https://www.quora.com/How-do-I-edit-a-podcast-into-short-videos"
+          }
+        ]
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=How+to+repurpose+podcast+audio+into+viral+short+clips?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgkbpcMREkiAnQAGlRp1NZp5k8ZjQ:1795424310359&ei=NgAEa4S_Ff3q-LYP7sGQoAI&start=10&sa=N&sstk=AYl2yk-VlfbsaCtfeQaVgjTOfHYTioXSU6eNvBEo8A0ccO3W5gGSZX8_ZmYVDhukDgKmjvkIlh0hjhXEJY5PpxGf9tqimsx2GpHNJQ&ved=2ahUKEwiEsvXh3J2YAxV9Nd4AHe4gBCQQ8NMDegQIQRAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=How+to+repurpose+podcast+audio+into+viral+short+clips?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgkbpcMREkiAnQAGlRp1NZp5k8ZjQ:1795424310359&ei=NgAEa4S_Ff3q-LYP7sGQoAI&start=10&sa=N&sstk=AYl2yk-VlfbsaCtfeQaVgjTOfHYTioXSU6eNvBEo8A0ccO3W5gGSZX8_ZmYVDhukDgKmjvkIlh0hjhXEJY5PpxGf9tqimsx2GpHNJQ&ved=2ahUKEwiEsvXh3J2YAxV9Nd4AHe4gBCQQ8tMDegQIQRAE",
+        "3": "https://www.google.com/search?q=How+to+repurpose+podcast+audio+into+viral+short+clips?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgkbpcMREkiAnQAGlRp1NZp5k8ZjQ:1795424310359&ei=NgAEa4S_Ff3q-LYP7sGQoAI&start=20&sa=N&sstk=AYl2yk-VlfbsaCtfeQaVgjTOfHYTioXSU6eNvBEo8A0ccO3W5gGSZX8_ZmYVDhukDgKmjvkIlh0hjhXEJY5PpxGf9tqimsx2GpHNJQ&ved=2ahUKEwiEsvXh3J2YAxV9Nd4AHe4gBCQQ8tMDegQIQRAG",
+        "4": "https://www.google.com/search?q=How+to+repurpose+podcast+audio+into+viral+short+clips?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgkbpcMREkiAnQAGlRp1NZp5k8ZjQ:1795424310359&ei=NgAEa4S_Ff3q-LYP7sGQoAI&start=30&sa=N&sstk=AYl2yk-VlfbsaCtfeQaVgjTOfHYTioXSU6eNvBEo8A0ccO3W5gGSZX8_ZmYVDhukDgKmjvkIlh0hjhXEJY5PpxGf9tqimsx2GpHNJQ&ved=2ahUKEwiEsvXh3J2YAxV9Nd4AHe4gBCQQ8tMDegQIQRAI",
+        "5": "https://www.google.com/search?q=How+to+repurpose+podcast+audio+into+viral+short+clips?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgkbpcMREkiAnQAGlRp1NZp5k8ZjQ:1795424310359&ei=NgAEa4S_Ff3q-LYP7sGQoAI&start=40&sa=N&sstk=AYl2yk-VlfbsaCtfeQaVgjTOfHYTioXSU6eNvBEo8A0ccO3W5gGSZX8_ZmYVDhukDgKmjvkIlh0hjhXEJY5PpxGf9tqimsx2GpHNJQ&ved=2ahUKEwiEsvXh3J2YAxV9Nd4AHe4gBCQQ8tMDegQIQRAK",
+        "6": "https://www.google.com/search?q=How+to+repurpose+podcast+audio+into+viral+short+clips?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgkbpcMREkiAnQAGlRp1NZp5k8ZjQ:1795424310359&ei=NgAEa4S_Ff3q-LYP7sGQoAI&start=50&sa=N&sstk=AYl2yk-VlfbsaCtfeQaVgjTOfHYTioXSU6eNvBEo8A0ccO3W5gGSZX8_ZmYVDhukDgKmjvkIlh0hjhXEJY5PpxGf9tqimsx2GpHNJQ&ved=2ahUKEwiEsvXh3J2YAxV9Nd4AHe4gBCQQ8tMDegQIQRAM",
+        "7": "https://www.google.com/search?q=How+to+repurpose+podcast+audio+into+viral+short+clips?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgkbpcMREkiAnQAGlRp1NZp5k8ZjQ:1795424310359&ei=NgAEa4S_Ff3q-LYP7sGQoAI&start=60&sa=N&sstk=AYl2yk-VlfbsaCtfeQaVgjTOfHYTioXSU6eNvBEo8A0ccO3W5gGSZX8_ZmYVDhukDgKmjvkIlh0hjhXEJY5PpxGf9tqimsx2GpHNJQ&ved=2ahUKEwiEsvXh3J2YAxV9Nd4AHe4gBCQQ8tMDegQIQRAO",
+        "8": "https://www.google.com/search?q=How+to+repurpose+podcast+audio+into+viral+short+clips?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgkbpcMREkiAnQAGlRp1NZp5k8ZjQ:1795424310359&ei=NgAEa4S_Ff3q-LYP7sGQoAI&start=70&sa=N&sstk=AYl2yk-VlfbsaCtfeQaVgjTOfHYTioXSU6eNvBEo8A0ccO3W5gGSZX8_ZmYVDhukDgKmjvkIlh0hjhXEJY5PpxGf9tqimsx2GpHNJQ&ved=2ahUKEwiEsvXh3J2YAxV9Nd4AHe4gBCQQ8tMDegQIQRAQ",
+        "9": "https://www.google.com/search?q=How+to+repurpose+podcast+audio+into+viral+short+clips?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgkbpcMREkiAnQAGlRp1NZp5k8ZjQ:1795424310359&ei=NgAEa4S_Ff3q-LYP7sGQoAI&start=80&sa=N&sstk=AYl2yk-VlfbsaCtfeQaVgjTOfHYTioXSU6eNvBEo8A0ccO3W5gGSZX8_ZmYVDhukDgKmjvkIlh0hjhXEJY5PpxGf9tqimsx2GpHNJQ&ved=2ahUKEwiEsvXh3J2YAxV9Nd4AHe4gBCQQ8tMDegQIQRAS",
+        "10": "https://www.google.com/search?q=How+to+repurpose+podcast+audio+into+viral+short+clips?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgkbpcMREkiAnQAGlRp1NZp5k8ZjQ:1795424310359&ei=NgAEa4S_Ff3q-LYP7sGQoAI&start=90&sa=N&sstk=AYl2yk-VlfbsaCtfeQaVgjTOfHYTioXSU6eNvBEo8A0ccO3W5gGSZX8_ZmYVDhukDgKmjvkIlh0hjhXEJY5PpxGf9tqimsx2GpHNJQ&ved=2ahUKEwiEsvXh3J2YAxV9Nd4AHe4gBCQQ8tMDegQIQRAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+repurpose+podcast+audio+into+viral+short+clips%3F&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+repurpose+podcast+audio+into+viral+short+clips%3F&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+repurpose+podcast+audio+into+viral+short+clips%3F&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+repurpose+podcast+audio+into+viral+short+clips%3F&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+repurpose+podcast+audio+into+viral+short+clips%3F&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+repurpose+podcast+audio+into+viral+short+clips%3F&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+repurpose+podcast+audio+into+viral+short+clips%3F&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+repurpose+podcast+audio+into+viral+short+clips%3F&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+repurpose+podcast+audio+into+viral+short+clips%3F&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+repurpose+podcast+audio+into+viral+short+clips%3F&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+repurpose+podcast+audio+into+viral+short+clips%3F&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

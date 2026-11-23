@@ -1,0 +1,415 @@
+{
+  "measurement_id": "62336ff3b439",
+  "question_id": "Q009",
+  "timestamp_utc": "2026-11-23T08:58:56.348695+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "What is CreatorOps and how does it help video creators?",
+  "market": "US",
+  "collection_method": "DAY_2_AUTOMATED_API",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [
+    "Descript"
+  ],
+  "position": null,
+  "citations": [
+    "https://www.youtube.com/c/elizabethstapleton",
+    "https://www.instagram.com/creatoropsco/",
+    "https://podcasts.apple.com/us/podcast/creator-ops/id1747294299",
+    "https://www.adobe.com/express/learn/blog/ai-video-tools",
+    "https://www.crealix.ai/blog/industry/creator-operations-ai-video-production-workflow",
+    "https://www.youtube.com/watch?v=Mkgr1jgXCKs",
+    "https://www.storyblocks.com/resources/blog/creators-thoughts-on-ai-powered-video-production",
+    "https://www.reddit.com/r/influencermarketing/comments/1ry5s1h/we_spent_months_doing_creator_ops_manually_so_we/",
+    "https://amazon.jobs/pt/jobs/10568521/creator-ops-strategy-manager-prime-video-international-creator-marketing"
+  ],
+  "raw_text_summary": "Creator Ops Hub Creator Ops Hub is where creators learn how to build smart systems that make their business easier to run. on building structured content workflows for ... Your Social Media Assistant (@creatoropsco) At The Creator Ops Co (the COC), we support female content creators, and brands by taking care of the behind-the-scenes work, so you can focus on what you do ... Creator Ops - Podcast Creator Ops teaches you how to become a great manager or operator for creators. help with product development, finances, sponsorships, content strategy, and ... How creators are using AI video tools across platforms Creators across platforms use them to boost confidence, publish more consistently, and grow their brands. Creator Ops: Streamline AI Video Production Workflow Creator operations, or \"creator ops,\" refers to the systems and processes creators use to manage content pipelines, audience engagement, and ... How I Built a YouTube Creator Ops Agent With LangGraph and ... The tool is an AI agent that helps with tasks like proofreading captions, generating chapters, writing descriptions, suggesting SEO-friendly ... Creators thoughts on AI-powered video production From automated engagements using chatbots to assisting with video editing, creators are leveraging the full potential of available AI tools. We spent months doing creator ops manually, so we built ... Koli handles the full operations layer of a creator campaign: vetting, outreach, negotiations, content follow-ups, and payments. Creator Ops & Strategy Manager, Prime Video International As Creator Operations & Strategy Manager, you will be a driving force behind how Prime Video delivers the Creator Marketing strategy \u2014 owning the end-to-end ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b04004e5d92f1434aa33d36",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/zmRhQ1M5eKNPC--rbMhf_FvziRzvsUcDPLoOVypJ5qo/6b04004e5d92f1434aa33d36.json",
+      "markdown_endpoint": "https://serpapi.com/searches/zmRhQ1M5eKNPC--rbMhf_FvziRzvsUcDPLoOVypJ5qo/6b04004e5d92f1434aa33d36.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/zmRhQ1M5eKNPC--rbMhf_FvziRzvsUcDPLoOVypJ5qo/6b04004e5d92f1434aa33d36.json_with_pixel_position",
+      "created_at": "2026-11-23 08:58:54 UTC",
+      "processed_at": "2026-11-23 08:58:54 UTC",
+      "google_url": "https://www.google.com/search?q=What+is+CreatorOps+and+how+does+it+help+video+creators%3F&oq=What+is+CreatorOps+and+how+does+it+help+video+creators%3F&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/zmRhQ1M5eKNPC--rbMhf_FvziRzvsUcDPLoOVypJ5qo/6b04004e5d92f1434aa33d36.html",
+      "total_time_taken": 1.07
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "What is CreatorOps and how does it help video creators?",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "What is CreatorOps and how does it help video creators?",
+      "total_results": 47200000,
+      "time_taken_displayed": 0.29,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+      {
+        "question": "How to make $10,000 per month on YouTube without making videos?",
+        "type": "ai_overview",
+        "page_token": "Jf_XpHicHdBtbtowHIDxTdpZ-rEEQrqBhCalOEkjYpYX2-AvlfN3goudF8AlGR93hJ2hn3qYHWCnWbULPNLv-fVmXlr99_NvZW1_WU4mwzDcH7ruYKp76JqJuPxsYQLCmFKAXj58fZh-r2GFruA_nsFPSYb2RhpmYlqZvUt2fV26SvBZdgL9bUxY8AhHc2VhNqvWwRx21NLQ25UEh2IWB1VrELRPnkB9h1nvb8jCMj23hKRDzqZpwbiL0WLNqAqF4a_ZDSfSKEwNjnnb1wVCDkdTj7HDvIjUD-xyJih3NkTqktKh0nECMzWmehElemxzMp7ysH-SYRyKwnBwjKFh6uUaTcVa1onxL_xGi492kQR0Kxl2kmN8qgK1gch3y53ESEnCnSDYFyrJHU_jxo4ywmnZ4ldexH6RdS8pUdsEETdr6A2i2KYOGgihzZZZW304yzXM4UixYLHiw10N15V79__16rlu7LI_d4d3OFfCVvJZ2D_6yyf8DybrlDU",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Jf_XpHicHdBtbtowHIDxTdpZ-rEEQrqBhCalOEkjYpYX2-AvlfN3goudF8AlGR93hJ2hn3qYHWCnWbULPNLv-fVmXlr99_NvZW1_WU4mwzDcH7ruYKp76JqJuPxsYQLCmFKAXj58fZh-r2GFruA_nsFPSYb2RhpmYlqZvUt2fV26SvBZdgL9bUxY8AhHc2VhNqvWwRx21NLQ25UEh2IWB1VrELRPnkB9h1nvb8jCMj23hKRDzqZpwbiL0WLNqAqF4a_ZDSfSKEwNjnnb1wVCDkdTj7HDvIjUD-xyJih3NkTqktKh0nECMzWmehElemxzMp7ysH-SYRyKwnBwjKFh6uUaTcVa1onxL_xGi492kQR0Kxl2kmN8qgK1gch3y53ESEnCnSDYFyrJHU_jxo4ywmnZ4ldexH6RdS8pUdsEETdr6A2i2KYOGgihzZZZW304yzXM4UixYLHiw10N15V79__16rlu7LI_d4d3OFfCVvJZ2D_6yyf8DybrlDU",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWk56SktZa1EzVjFKd2RtVmFkbTgzTTFkMGNWbDJSVGxTVldWTFJGQmxlV3BJVlhOTE5GWk1NVkJuVEhSNldtMVNSazVTTkV4Q2FVOUtVQzExWkRGeWExVTFhRFIxYldKWU1FTmhUMFZLVmw4NE5WWjZTa0pUV1dWTVp4SVhWR2RCUldFNFRFdE9aRFpyY1hSelVHNXpibVV5UVUwYUlrRklUakJGTjBWa2VVWklhR3AyVERGbGQyZzRPRUp2U1hwMmJXRjFTM1J1V25jIiwiZmN2IjoiMyIsImVpIjoiVGdBRWE4TEtOZDZrcXRzUG5zbmUyQU0iLCJxYyI6ImMtTXlLODlJTEZISUxGWklMa3BOTE1rdnlpOG9Wa2pNUzFISXlDOVhTTWxQTFZiSUxGSElTTTBwVUNqTFRFbk5oNmtxRm1Dbzlicnh6ZzRBIiwicXVlc3Rpb24iOiJIb3cgdG8gbWFrZSAkMTAsMDAwIHBlciBtb250aCBvbiBZb3VUdWJlIHdpdGhvdXQgbWFraW5nIHZpZGVvcz8iLCJsayI6ImM1T3l6Y2d2VnlqSlY4aE56RTVWVURFMEFBS0ZndFFpaGR6OHZKSU1oZnc4aGNyODBwTFNwRlNGOHN5U0RDQVRwREF6TDEyaExETWxOYjhZQUEiLCJicyI6ImM0MlBPd3ZDTUJSR2NjM2tYRkFfVURjZnRic0VjYkdEbTR0amJLOG1pTG1TcGxaWGY3a3A0aUEtOTNPLWg3ZzJoRnh3QmM4NHFEMmhONGtIY1J6alNBNEh0bDZETGRaY3Jzb05vVEplYy1scjB0Z2RUaVluTG1RaW82bC1qbmhKdUFUdFk0SllpbDY5SVdjcW9KQUZpYXhINWtoNWR0aVJ4MUdaWENiOXFLdF9jMkltMm1rQnI4bFJ3TGFPNkY3MElHWFNpVnJtR3lHVUdNMlZSWW9OdldtcVg4QXk2QnhPR3JJWnlXUWNEYk5nbUgtTlp1TUciLCJpZCI6ImZjX1RnQUVhOExLTmQ2a3F0c1Buc25lMkFNXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWk56SktZa1EzVjFKd2RtVmFkbTgzTTFkMGNWbDJSVGxTVldWTFJGQmxlV3BJVlhOTE5GWk1NVkJuVEhSNldtMVNSazVTTkV4Q2FVOUtVQzExWkRGeWExVTFhRFIxYldKWU1FTmhUMFZLVmw4NE5WWjZTa0pUV1dWTVp4SVhWR2RCUldFNFRFdE9aRFpyY1hSelVHNXpibVV5UVUwYUlrRklUakJGTjBWa2VVWklhR3AyVERGbGQyZzRPRUp2U1hwMmJXRjFTM1J1V25jIiwiZmN2IjoiMyIsImVpIjoiVGdBRWE4TEtOZDZrcXRzUG5zbmUyQU0iLCJxYyI6ImMtTXlLODlJTEZISUxGWklMa3BOTE1rdnlpOG9Wa2pNUzFISXlDOVhTTWxQTFZiSUxGSElTTTBwVUNqTFRFbk5oNmtxRm1Dbzlicnh6ZzRBIiwicXVlc3Rpb24iOiJIb3cgdG8gbWFrZSAkMTAsMDAwIHBlciBtb250aCBvbiBZb3VUdWJlIHdpdGhvdXQgbWFraW5nIHZpZGVvcz8iLCJsayI6ImM1T3l6Y2d2VnlqSlY4aE56RTVWVURFMEFBS0ZndFFpaGR6OHZKSU1oZnc4aGNyODBwTFNwRlNGOHN5U0RDQVRwREF6TDEyaExETWxOYjhZQUEiLCJicyI6ImM0MlBPd3ZDTUJSR2NjM2tYRkFfVURjZnRic0VjYkdEbTR0amJLOG1pTG1TcGxaWGY3a3A0aUEtOTNPLWg3ZzJoRnh3QmM4NHFEMmhONGtIY1J6alNBNEh0bDZETGRaY3Jzb05vVEplYy1scjB0Z2RUaVluTG1RaW82bC1qbmhKdUFUdFk0SllpbDY5SVdjcW9KQUZpYXhINWtoNWR0aVJ4MUdaWENiOXFLdF9jMkltMm1rQnI4bFJ3TGFPNkY3MElHWFNpVnJtR3lHVUdNMlZSWW9OdldtcVg4QXk2QnhPR3JJWnlXUWNEYk5nbUgtTlp1TUciLCJpZCI6ImZjX1RnQUVhOExLTmQ2a3F0c1Buc25lMkFNXzUifQ%3D%3D"
+      },
+      {
+        "question": "How does a content creator get paid?",
+        "type": "ai_overview",
+        "page_token": "UcT6O3icHdBRbpswAADQTdpZ-tkYCGmJFE0iNWlQcYfBNvinAhvixCbQ1AG2z52lXz3MDrDTVOo7wvv7bo5n_f_7qKwd3taLxTRNt4e-P5jmVvTdonr7fRYLURlTV0KvV3cr52crNvC6D7ev-zAlGJZGGlaoBwmlV3V8lbjD_FSYEXslqI3cck2WCYAgAzZMQICaHPWZ5ojT4ZUycxEQ-4gFpdwCm0W8bFj8kIMZSMadhshTQoc_3Agvg8GYkGDE2vySTnDM9f0kGO0aqvRzEQ61m0zEMX5JEWQ7a-tTBLGmGAF6Qo-mlXkUyyjEjCiX6RhVNFiKTvlpLmbizm3VxfkT5UXmqjNUknAQRWWukgz4GnV2lo8orc_oyvM4zHF_TIl6TiDxcBEx3i19rLFX7VQktN0zHVh5Ui4v6FHsnCtJb1oxbrybr8_NS9vZ9XDpDx_i0lS2kS-V_ad_fEOfMcSI_g",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=UcT6O3icHdBRbpswAADQTdpZ-tkYCGmJFE0iNWlQcYfBNvinAhvixCbQ1AG2z52lXz3MDrDTVOo7wvv7bo5n_f_7qKwd3taLxTRNt4e-P5jmVvTdonr7fRYLURlTV0KvV3cr52crNvC6D7ev-zAlGJZGGlaoBwmlV3V8lbjD_FSYEXslqI3cck2WCYAgAzZMQICaHPWZ5ojT4ZUycxEQ-4gFpdwCm0W8bFj8kIMZSMadhshTQoc_3Agvg8GYkGDE2vySTnDM9f0kGO0aqvRzEQ61m0zEMX5JEWQ7a-tTBLGmGAF6Qo-mlXkUyyjEjCiX6RhVNFiKTvlpLmbizm3VxfkT5UXmqjNUknAQRWWukgz4GnV2lo8orc_oyvM4zHF_TIl6TiDxcBEx3i19rLFX7VQktN0zHVh5Ui4v6FHsnCtJb1oxbrybr8_NS9vZ9XDpDx_i0lS2kS-V_ad_fEOfMcSI_g",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWk56SktZa1EzVjFKd2RtVmFkbTgzTTFkMGNWbDJSVGxTVldWTFJGQmxlV3BJVlhOTE5GWk1NVkJuVEhSNldtMVNSazVTTkV4Q2FVOUtVQzExWkRGeWExVTFhRFIxYldKWU1FTmhUMFZLVmw4NE5WWjZTa0pUV1dWTVp4SVhWR2RCUldFNFRFdE9aRFpyY1hSelVHNXpibVV5UVUwYUlrRklUakJGTjBWa2VVWklhR3AyVERGbGQyZzRPRUp2U1hwMmJXRjFTM1J1V25jIiwiZmN2IjoiMyIsImVpIjoiVGdBRWE4TEtOZDZrcXRzUG5zbmUyQU0iLCJxYyI6ImMtTXlLODlJTEZISUxGWklMa3BOTE1rdnlpOG9Wa2pNUzFISXlDOVhTTWxQTFZiSUxGSElTTTBwVUNqTFRFbk5oNmtxRm1Dbzlicnh6ZzRBIiwicXVlc3Rpb24iOiJIb3cgZG9lcyBhIGNvbnRlbnQgY3JlYXRvciBnZXQgcGFpZD8iLCJsayI6IkdpTm9iM2NnWkc5bGN5QmhJR052Ym5SbGJuUWdZM0psWVhSdmNpQm5aWFFnY0dGcFpBIiwiYnMiOiJjNDJQT3d2Q01CUkdjYzNrWEZBX1VEY2Z0YnNFY2JHRG00dGpiSzhtaUxtU3BsWlhmN2twNGlBLTkzTy1oN2cyaEZ4d0JjODRxRDJoTjRrSGNSempTQTRIdGw2RExkWmNyc29Ob1RKZWMtbHIwdGdkVGlZbkxtUWlvNmwtam5oSnVBVHRZNEpZaWw2OUlXY3FvSkFGaWF4SDVraDVkdGlSeDFHWlhDYjlxS3RfYzJJbTJta0JyOGxSd0xhTzZGNzBJR1hTaVZybUd5R1VHTTJWUllvTnZXbXFYOEF5NkJ4T0dySVp5V1FjRGJOZ21ILU5adU1HIiwiaWQiOiJmY19UZ0FFYThMS05kNmtxdHNQbnNuZTJBTV81In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWk56SktZa1EzVjFKd2RtVmFkbTgzTTFkMGNWbDJSVGxTVldWTFJGQmxlV3BJVlhOTE5GWk1NVkJuVEhSNldtMVNSazVTTkV4Q2FVOUtVQzExWkRGeWExVTFhRFIxYldKWU1FTmhUMFZLVmw4NE5WWjZTa0pUV1dWTVp4SVhWR2RCUldFNFRFdE9aRFpyY1hSelVHNXpibVV5UVUwYUlrRklUakJGTjBWa2VVWklhR3AyVERGbGQyZzRPRUp2U1hwMmJXRjFTM1J1V25jIiwiZmN2IjoiMyIsImVpIjoiVGdBRWE4TEtOZDZrcXRzUG5zbmUyQU0iLCJxYyI6ImMtTXlLODlJTEZISUxGWklMa3BOTE1rdnlpOG9Wa2pNUzFISXlDOVhTTWxQTFZiSUxGSElTTTBwVUNqTFRFbk5oNmtxRm1Dbzlicnh6ZzRBIiwicXVlc3Rpb24iOiJIb3cgZG9lcyBhIGNvbnRlbnQgY3JlYXRvciBnZXQgcGFpZD8iLCJsayI6IkdpTm9iM2NnWkc5bGN5QmhJR052Ym5SbGJuUWdZM0psWVhSdmNpQm5aWFFnY0dGcFpBIiwiYnMiOiJjNDJQT3d2Q01CUkdjYzNrWEZBX1VEY2Z0YnNFY2JHRG00dGpiSzhtaUxtU3BsWlhmN2twNGlBLTkzTy1oN2cyaEZ4d0JjODRxRDJoTjRrSGNSempTQTRIdGw2RExkWmNyc29Ob1RKZWMtbHIwdGdkVGlZbkxtUWlvNmwtam5oSnVBVHRZNEpZaWw2OUlXY3FvSkFGaWF4SDVraDVkdGlSeDFHWlhDYjlxS3RfYzJJbTJta0JyOGxSd0xhTzZGNzBJR1hTaVZybUd5R1VHTTJWUllvTnZXbXFYOEF5NkJ4T0dySVp5V1FjRGJOZ21ILU5adU1HIiwiaWQiOiJmY19UZ0FFYThMS05kNmtxdHNQbnNuZTJBTV81In0%3D"
+      },
+      {
+        "question": "Is there a free video creator?",
+        "type": "ai_overview",
+        "page_token": "qWWViXicHdBNboJAGADQNulZXIojYhMT0xQdUFqgDMwgbMwwIAgfP9VR1GXP0lUP0wP0NG16gpe8j0_YN9XP_aaQsjvOFKXv-2HetjlkQ9HWCj9eG6EIDpBwUc2mj1P0tBNzfOz1RdvrHiU4ghTCGk6M4bG30d1gqe_TkqwyGq-4SScJAlOo1pqqTPNNeWLIwlFokASDbZfOmVNYRyO5im5UDcCIGMolqeE9QfELKYsjMWMehpFMzepGMJQUWRoLwOQ4thg2FoSRlmM2-jOuGQXDxpdJgEiULC1JGdZEU3gZgyJcoEvcPGtOGLcpan0DkcajrHDx5TWovTFXjZFA-kmMNbArwzH3lu7jSU-CdB1sHJerHfNv4Lu4o04FXghpLELy5kHsCZOog504z9XB_9h8u6vlrDu0-Zc4ZFxm6ZbL7-rhzvkF5B5-dg",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=qWWViXicHdBNboJAGADQNulZXIojYhMT0xQdUFqgDMwgbMwwIAgfP9VR1GXP0lUP0wP0NG16gpe8j0_YN9XP_aaQsjvOFKXv-2HetjlkQ9HWCj9eG6EIDpBwUc2mj1P0tBNzfOz1RdvrHiU4ghTCGk6M4bG30d1gqe_TkqwyGq-4SScJAlOo1pqqTPNNeWLIwlFokASDbZfOmVNYRyO5im5UDcCIGMolqeE9QfELKYsjMWMehpFMzepGMJQUWRoLwOQ4thg2FoSRlmM2-jOuGQXDxpdJgEiULC1JGdZEU3gZgyJcoEvcPGtOGLcpan0DkcajrHDx5TWovTFXjZFA-kmMNbArwzH3lu7jSU-CdB1sHJerHfNv4Lu4o04FXghpLELy5kHsCZOog504z9XB_9h8u6vlrDu0-Zc4ZFxm6ZbL7-rhzvkF5B5-dg",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWk56SktZa1EzVjFKd2RtVmFkbTgzTTFkMGNWbDJSVGxTVldWTFJGQmxlV3BJVlhOTE5GWk1NVkJuVEhSNldtMVNSazVTTkV4Q2FVOUtVQzExWkRGeWExVTFhRFIxYldKWU1FTmhUMFZLVmw4NE5WWjZTa0pUV1dWTVp4SVhWR2RCUldFNFRFdE9aRFpyY1hSelVHNXpibVV5UVUwYUlrRklUakJGTjBWa2VVWklhR3AyVERGbGQyZzRPRUp2U1hwMmJXRjFTM1J1V25jIiwiZmN2IjoiMyIsImVpIjoiVGdBRWE4TEtOZDZrcXRzUG5zbmUyQU0iLCJxYyI6ImMtTXlLODlJTEZISUxGWklMa3BOTE1rdnlpOG9Wa2pNUzFISXlDOVhTTWxQTFZiSUxGSElTTTBwVUNqTFRFbk5oNmtxRm1Dbzlicnh6ZzRBIiwicXVlc3Rpb24iOiJJcyB0aGVyZSBhIGZyZWUgdmlkZW8gY3JlYXRvcj8iLCJsayI6IkdoMXBjeUIwYUdWeVpTQmhJR1p5WldVZ2RtbGtaVzhnWTNKbFlYUnZjZyIsImJzIjoiYzQyUE93dkNNQlJHY2Mza1hGQV9VRGNmdGJzRWNiR0RtNHRqYks4bWlMbVNwbFpYZjdrcDRpQS05M08taDdnMmhGeHdCYzg0cUQyaE40a0hjUnpqU0E0SHRsNkRMZFpjcnNvTm9USmVjLWxyMHRnZFRpWW5MbVFpbzZsLWpuaEp1QVR0WTRKWWlsNjlJV2Nxb0pBRmlheEg1a2g1ZHRpUngxR1pYQ2I5cUt0X2MySW0ybWtCcjhsUndMYU82RjcwSUdYU2lWcm1HeUdVR00yVlJZb052V21xWDhBeTZCeE9HcklaeVdRY0RiTmdtSC1OWnVNRyIsImlkIjoiZmNfVGdBRWE4TEtOZDZrcXRzUG5zbmUyQU1fNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWk56SktZa1EzVjFKd2RtVmFkbTgzTTFkMGNWbDJSVGxTVldWTFJGQmxlV3BJVlhOTE5GWk1NVkJuVEhSNldtMVNSazVTTkV4Q2FVOUtVQzExWkRGeWExVTFhRFIxYldKWU1FTmhUMFZLVmw4NE5WWjZTa0pUV1dWTVp4SVhWR2RCUldFNFRFdE9aRFpyY1hSelVHNXpibVV5UVUwYUlrRklUakJGTjBWa2VVWklhR3AyVERGbGQyZzRPRUp2U1hwMmJXRjFTM1J1V25jIiwiZmN2IjoiMyIsImVpIjoiVGdBRWE4TEtOZDZrcXRzUG5zbmUyQU0iLCJxYyI6ImMtTXlLODlJTEZISUxGWklMa3BOTE1rdnlpOG9Wa2pNUzFISXlDOVhTTWxQTFZiSUxGSElTTTBwVUNqTFRFbk5oNmtxRm1Dbzlicnh6ZzRBIiwicXVlc3Rpb24iOiJJcyB0aGVyZSBhIGZyZWUgdmlkZW8gY3JlYXRvcj8iLCJsayI6IkdoMXBjeUIwYUdWeVpTQmhJR1p5WldVZ2RtbGtaVzhnWTNKbFlYUnZjZyIsImJzIjoiYzQyUE93dkNNQlJHY2Mza1hGQV9VRGNmdGJzRWNiR0RtNHRqYks4bWlMbVNwbFpYZjdrcDRpQS05M08taDdnMmhGeHdCYzg0cUQyaE40a0hjUnpqU0E0SHRsNkRMZFpjcnNvTm9USmVjLWxyMHRnZFRpWW5MbVFpbzZsLWpuaEp1QVR0WTRKWWlsNjlJV2Nxb0pBRmlheEg1a2g1ZHRpUngxR1pYQ2I5cUt0X2MySW0ybWtCcjhsUndMYU82RjcwSUdYU2lWcm1HeUdVR00yVlJZb052V21xWDhBeTZCeE9HcklaeVdRY0RiTmdtSC1OWnVNRyIsImlkIjoiZmNfVGdBRWE4TEtOZDZrcXRzUG5zbmUyQU1fNSJ9"
+      },
+      {
+        "question": "Can I be a content creator with no experience?",
+        "type": "ai_overview",
+        "page_token": "kmDRrnicHdDNToMwAABgTXwWj26s20yWLCZoEYjtBPpjezHQbmO0A5RusB19Fk8-jA_g02g8f7fv49PuavNzeSyda7vFaNT3_c22abZ2faOa_SjvTrUaqdzaIldmMb-de3cbtYSHyL9_i_yEplBYbTmngBr7mIVBKJju0SSOCmA7ZOIBweksIxKuwjiSfMhZTafI6EiMtx7imnETU1zRP2g7zZGHPHsitDU483a5bdsnPjxL0J4ZwQcxkdPkRZ5xaEERJqA4W8AJg5T3M8GHkta4zLnz2L7s1Jg9JoRxZOw8s_JUkHKX1v6ACZ6sWQDSiXMZdVVW-0_SeAxVYprSFAgS-7DUVI6DQJASZeOZwXs36BAnRY0P8s9J2uwSWq4QpCCt_AqFekaYJSvqBHmwIn3xWwICoGrokTMcdH-9UccluP7_XL5u9m7RvjfbL_W-zt1av-bu21xd4F8a54nl",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=kmDRrnicHdDNToMwAABgTXwWj26s20yWLCZoEYjtBPpjezHQbmO0A5RusB19Fk8-jA_g02g8f7fv49PuavNzeSyda7vFaNT3_c22abZ2faOa_SjvTrUaqdzaIldmMb-de3cbtYSHyL9_i_yEplBYbTmngBr7mIVBKJju0SSOCmA7ZOIBweksIxKuwjiSfMhZTafI6EiMtx7imnETU1zRP2g7zZGHPHsitDU483a5bdsnPjxL0J4ZwQcxkdPkRZ5xaEERJqA4W8AJg5T3M8GHkta4zLnz2L7s1Jg9JoRxZOw8s_JUkHKX1v6ACZ6sWQDSiXMZdVVW-0_SeAxVYprSFAgS-7DUVI6DQJASZeOZwXs36BAnRY0P8s9J2uwSWq4QpCCt_AqFekaYJSvqBHmwIn3xWwICoGrokTMcdH-9UccluP7_XL5u9m7RvjfbL_W-zt1av-bu21xd4F8a54nl",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWk56SktZa1EzVjFKd2RtVmFkbTgzTTFkMGNWbDJSVGxTVldWTFJGQmxlV3BJVlhOTE5GWk1NVkJuVEhSNldtMVNSazVTTkV4Q2FVOUtVQzExWkRGeWExVTFhRFIxYldKWU1FTmhUMFZLVmw4NE5WWjZTa0pUV1dWTVp4SVhWR2RCUldFNFRFdE9aRFpyY1hSelVHNXpibVV5UVUwYUlrRklUakJGTjBWa2VVWklhR3AyVERGbGQyZzRPRUp2U1hwMmJXRjFTM1J1V25jIiwiZmN2IjoiMyIsImVpIjoiVGdBRWE4TEtOZDZrcXRzUG5zbmUyQU0iLCJxYyI6ImMtTXlLODlJTEZISUxGWklMa3BOTE1rdnlpOG9Wa2pNUzFISXlDOVhTTWxQTFZiSUxGSElTTTBwVUNqTFRFbk5oNmtxRm1Dbzlicnh6ZzRBIiwicXVlc3Rpb24iOiJDYW4gSSBiZSBhIGNvbnRlbnQgY3JlYXRvciB3aXRoIG5vIGV4cGVyaWVuY2U/IiwibGsiOiJHaTFqWVc0Z2FTQmlaU0JoSUdOdmJuUmxiblFnWTNKbFlYUnZjaUIzYVhSb0lHNXZJR1Y0Y0dWeWFXVnVZMlUiLCJicyI6ImM0MlBPd3ZDTUJSR2NjM2tYRkFfVURjZnRic0VjYkdEbTR0amJLOG1pTG1TcGxaWGY3a3A0aUEtOTNPLWg3ZzJoRnh3QmM4NHFEMmhONGtIY1J6alNBNEh0bDZETGRaY3Jzb05vVEplYy1scjB0Z2RUaVluTG1RaW82bC1qbmhKdUFUdFk0SllpbDY5SVdjcW9KQUZpYXhINWtoNWR0aVJ4MUdaWENiOXFLdF9jMkltMm1rQnI4bFJ3TGFPNkY3MElHWFNpVnJtR3lHVUdNMlZSWW9OdldtcVg4QXk2QnhPR3JJWnlXUWNEYk5nbUgtTlp1TUciLCJpZCI6ImZjX1RnQUVhOExLTmQ2a3F0c1Buc25lMkFNXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWk56SktZa1EzVjFKd2RtVmFkbTgzTTFkMGNWbDJSVGxTVldWTFJGQmxlV3BJVlhOTE5GWk1NVkJuVEhSNldtMVNSazVTTkV4Q2FVOUtVQzExWkRGeWExVTFhRFIxYldKWU1FTmhUMFZLVmw4NE5WWjZTa0pUV1dWTVp4SVhWR2RCUldFNFRFdE9aRFpyY1hSelVHNXpibVV5UVUwYUlrRklUakJGTjBWa2VVWklhR3AyVERGbGQyZzRPRUp2U1hwMmJXRjFTM1J1V25jIiwiZmN2IjoiMyIsImVpIjoiVGdBRWE4TEtOZDZrcXRzUG5zbmUyQU0iLCJxYyI6ImMtTXlLODlJTEZISUxGWklMa3BOTE1rdnlpOG9Wa2pNUzFISXlDOVhTTWxQTFZiSUxGSElTTTBwVUNqTFRFbk5oNmtxRm1Dbzlicnh6ZzRBIiwicXVlc3Rpb24iOiJDYW4gSSBiZSBhIGNvbnRlbnQgY3JlYXRvciB3aXRoIG5vIGV4cGVyaWVuY2U%2FIiwibGsiOiJHaTFqWVc0Z2FTQmlaU0JoSUdOdmJuUmxiblFnWTNKbFlYUnZjaUIzYVhSb0lHNXZJR1Y0Y0dWeWFXVnVZMlUiLCJicyI6ImM0MlBPd3ZDTUJSR2NjM2tYRkFfVURjZnRic0VjYkdEbTR0amJLOG1pTG1TcGxaWGY3a3A0aUEtOTNPLWg3ZzJoRnh3QmM4NHFEMmhONGtIY1J6alNBNEh0bDZETGRaY3Jzb05vVEplYy1scjB0Z2RUaVluTG1RaW82bC1qbmhKdUFUdFk0SllpbDY5SVdjcW9KQUZpYXhINWtoNWR0aVJ4MUdaWENiOXFLdF9jMkltMm1rQnI4bFJ3TGFPNkY3MElHWFNpVnJtR3lHVUdNMlZSWW9OdldtcVg4QXk2QnhPR3JJWnlXUWNEYk5nbUgtTlp1TUciLCJpZCI6ImZjX1RnQUVhOExLTmQ2a3F0c1Buc25lMkFNXzUifQ%3D%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "iSI07XiczVXLcvI2FO6iy75GvSE_2FwCZMaTkYwSbMzFIYSQDWNsIRt8AcvBocs-S1d9mD5An6bCxsHmN3-SbtozA7Kko3OTvvP9_odje-u_fxlaYbihN5VKFEVl4vvEwWXDdys63XtGZek7NDCsW-KIr5Sj_mtgYNsUDSvwXXycH2dlf8FZjog9br8Ta5xBRZ7DtvhIANJbam9gXq-3IR151MNV0Odi--J8oVO8Yu7fVrQyr7C_9a-1DpuUaRl7Za8mPO12Q6yPabnKV2vlYUV3mQL4bwVBIBM2rgEgP9KD2mctaswOAtL5eYTiMbPeBwefMpDkZOeS__HB6OGkBOOI2W8IljDZHKRaE_mDuBBAmRkFmXCgnLj4krxnMjlfuCwFKcpJbDCdo_O9IunLORWJSLAbZcyj8wPaKb_kqJ-EM4qwDCyXfFS8g2ktgo0eOEX6I5H8a8lZgAhIFZOwV85XFgEbhIptWEb8EdDD45ce27x_N1mNnjphZ-VqfPulWVdXtaUjwBc5qEcVY8H0HF83sTm35vxtPBeqQoNv15qtqxh1Bn2HHc3CboCizmxL9w_SrKyWpynk8tU5vzZNlgsLTyBJS3mWa_rxAHr5nfNSrXOe746jBaCvMbO5Ta2H1KwSQ0uHlatFrIzS6YRUCLmCLBLIJdf_boDkjTHvM4DGpwTyhoaFZgvfBYxBHltMG11SRVmJF_Pa9qF3EPD-ju-zm3GGaML2UAy5J4wAYZ_kIToklJoiiqzlj2UEJfd6drvolN4hB5lpQcLaIlD6E4X1R8guNj0E4bHRSNbJTOwj017O7QP1-9Zw_93KBZE_01eSKFKMnUEmC7UudpyXO291vbCjSbCuYhXKjR3vafqYFEPLdxdfoDTj_w6-lO-c4yu7CL6Dp0-BTyPF4LvMdwn4pPUxtayxg4wT8EmwiO9GqVae7wrAhyDKgC_hO2gf_mWlgO--Dr77j8GX5bss-E58lwOffAl8Cd9lwCcpKd8Vg--d71Lw_Vu-k77OdzEGcTLkye91RS6SINLVZRfrm-nodd_VDLOJnr0-tNtjp0s-JMGlG964uulczW3zBlaVcG9ezdmCf4NNbitOLT0s2bQkBVgP_WC4oSXdM0uWH5VMH9OSHZYs7GxKO9vEfslItOgt5zqBL_J6wySGt-lNdL6r0GflN42g7tvmmoaT8Yw2EQiHr9vgqatNn6bhbN5ZL-vNtiB7YRUFar1Zr0XePXpr-oPnZ6GzW-n38LHRgrWuKoyf4U651nvDassmixFsKi15O3WNR4oXi9p8Pf8GyTLsqlM0Gw_iaKhIIkMgHbmm0z7nBobIbrdOwEADUwB0ACOgsOfTA_Bhy0aV3d7Ch0DrzhgICPv57F1w1NDnmO7ERr1a56tVQxeadSw0MeeScL8R2zxHvUAU_owrwUquh3-tf_5p8A-1U4JC",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=iSI07XiczVXLcvI2FO6iy75GvSE_2FwCZMaTkYwSbMzFIYSQDWNsIRt8AcvBocs-S1d9mD5An6bCxsHmN3-SbtozA7Kko3OTvvP9_odje-u_fxlaYbihN5VKFEVl4vvEwWXDdys63XtGZek7NDCsW-KIr5Sj_mtgYNsUDSvwXXycH2dlf8FZjog9br8Ta5xBRZ7DtvhIANJbam9gXq-3IR151MNV0Odi--J8oVO8Yu7fVrQyr7C_9a-1DpuUaRl7Za8mPO12Q6yPabnKV2vlYUV3mQL4bwVBIBM2rgEgP9KD2mctaswOAtL5eYTiMbPeBwefMpDkZOeS__HB6OGkBOOI2W8IljDZHKRaE_mDuBBAmRkFmXCgnLj4krxnMjlfuCwFKcpJbDCdo_O9IunLORWJSLAbZcyj8wPaKb_kqJ-EM4qwDCyXfFS8g2ktgo0eOEX6I5H8a8lZgAhIFZOwV85XFgEbhIptWEb8EdDD45ce27x_N1mNnjphZ-VqfPulWVdXtaUjwBc5qEcVY8H0HF83sTm35vxtPBeqQoNv15qtqxh1Bn2HHc3CboCizmxL9w_SrKyWpynk8tU5vzZNlgsLTyBJS3mWa_rxAHr5nfNSrXOe746jBaCvMbO5Ta2H1KwSQ0uHlatFrIzS6YRUCLmCLBLIJdf_boDkjTHvM4DGpwTyhoaFZgvfBYxBHltMG11SRVmJF_Pa9qF3EPD-ju-zm3GGaML2UAy5J4wAYZ_kIToklJoiiqzlj2UEJfd6drvolN4hB5lpQcLaIlD6E4X1R8guNj0E4bHRSNbJTOwj017O7QP1-9Zw_93KBZE_01eSKFKMnUEmC7UudpyXO291vbCjSbCuYhXKjR3vafqYFEPLdxdfoDTj_w6-lO-c4yu7CL6Dp0-BTyPF4LvMdwn4pPUxtayxg4wT8EmwiO9GqVae7wrAhyDKgC_hO2gf_mWlgO--Dr77j8GX5bss-E58lwOffAl8Cd9lwCcpKd8Vg--d71Lw_Vu-k77OdzEGcTLkye91RS6SINLVZRfrm-nodd_VDLOJnr0-tNtjp0s-JMGlG964uulczW3zBlaVcG9ezdmCf4NNbitOLT0s2bQkBVgP_WC4oSXdM0uWH5VMH9OSHZYs7GxKO9vEfslItOgt5zqBL_J6wySGt-lNdL6r0GflN42g7tvmmoaT8Yw2EQiHr9vgqatNn6bhbN5ZL-vNtiB7YRUFar1Zr0XePXpr-oPnZ6GzW-n38LHRgrWuKoyf4U651nvDassmixFsKi15O3WNR4oXi9p8Pf8GyTLsqlM0Gw_iaKhIIkMgHbmm0z7nBobIbrdOwEADUwB0ACOgsOfTA_Bhy0aV3d7Ch0DrzhgICPv57F1w1NDnmO7ERr1a56tVQxeadSw0MeeScL8R2zxHvUAU_owrwUquh3-tf_5p8A-1U4JC"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Creator Ops Hub",
+        "link": "https://www.youtube.com/c/elizabethstapleton",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.youtube.com/c/elizabethstapleton&usg=AOvVaw0I9tbBsezgRgjZ5TTYCrYs",
+        "displayed_link": "920+ followers",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "Creator Ops Hub is where creators learn how to build smart systems that make their business easier to run. on building structured content workflows for ...",
+        "snippet_highlighted_words": [
+          "Creator Ops Hub"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Creator Ops Hub is where creators learn how to build smart systems that make their business easier to run. on building structured content workflows for  ...",
+            "source_info_link": "https://www.youtube.com/c/elizabethstapleton",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CixodHRwczovL3d3dy55b3V0dWJlLmNvbS9jL2VsaXphYmV0aHN0YXBsZXRvbhIEGgIIABqQBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDsBQgAEAAYACAAKhkKBHdoYXQVs3B3PhoFd2hhdHMaBXdoaWNoKgkKAmlzFQAAAAAqPAoKY3JlYXRvcm9wcxUtGY5AGgtjcmVhdG9yIG9wcxoLY3JlYXRvIHJvcHMaD2l2O3A7Y3JlYXRvcm9wcyoKCgNhbmQVAAAAACoKCgNob3cVAAAAACpeCgRkb2VzFQAAAAAaA2FyZRoDY2FuGgVjb3VsZBoDZGlkGgJkbxoHZG8gdGhleRoDaGFzGgVtYWtlcxoGc2hvdWxkGgZ3aGF0J3MaBXdoYXRzGgR3aWxsGgV3b3VsZCoJCgJpdBUAAAAAKmAKBGhlbHAVAAAAABoDYWlkGgZhc3Npc3QaCGhlbHBkZXNrGgdoZWxwaW5nGgVoZWxwcxoHc3VwcG9ydBoIdHV0b3JpYWwaBHdvcmsaCWhlbHB2aWRlbxoIYmVuZWZpdHMqNwoFdmlkZW8V7SA_PRoGdmlkZW9zGgloZWxwdmlkZW8aDXZpZGVvY3JlYXRvcnMaB3lvdXR1YmUqOgoIY3JlYXRvcnMVRfWTPxoHY3JlYXRvchoJZGVzaWduZXJzGgZtYWtlcnMaDXZpZGVvY3JlYXRvcnMyLGh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2MvZWxpemFiZXRoc3RhcGxldG9uOiA8Yj5DcmVhdG9yIE9wczwvYj4gSHViIC0gWW91VHViZUKoATxiPkNyZWF0b3IgT3BzIEh1YjwvYj4gaXMgd2hlcmUgY3JlYXRvcnMgbGVhcm4gaG93IHRvIGJ1aWxkIHNtYXJ0IHN5c3RlbXMgdGhhdCBtYWtlIHRoZWlyIGJ1c2luZXNzIGVhc2llciB0byBydW4uIG9uIGJ1aWxkaW5nIHN0cnVjdHVyZWQgY29udGVudCB3b3JrZmxvd3MgZm9yICZuYnNwOy4uLkoCaXRKA2FuZEoCaXNKA2hvd1IDY2FuUgNhcmVSAmRvUgR3aWxsUgNoYXMiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CixodHRwczovL3d3dy55b3V0dWJlLmNvbS9jL2VsaXphYmV0aHN0YXBsZXRvbhIEGgIIABqQBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDsBQgAEAAYACAAKhkKBHdoYXQVs3B3PhoFd2hhdHMaBXdoaWNoKgkKAmlzFQAAAAAqPAoKY3JlYXRvcm9wcxUtGY5AGgtjcmVhdG9yIG9wcxoLY3JlYXRvIHJvcHMaD2l2O3A7Y3JlYXRvcm9wcyoKCgNhbmQVAAAAACoKCgNob3cVAAAAACpeCgRkb2VzFQAAAAAaA2FyZRoDY2FuGgVjb3VsZBoDZGlkGgJkbxoHZG8gdGhleRoDaGFzGgVtYWtlcxoGc2hvdWxkGgZ3aGF0J3MaBXdoYXRzGgR3aWxsGgV3b3VsZCoJCgJpdBUAAAAAKmAKBGhlbHAVAAAAABoDYWlkGgZhc3Npc3QaCGhlbHBkZXNrGgdoZWxwaW5nGgVoZWxwcxoHc3VwcG9ydBoIdHV0b3JpYWwaBHdvcmsaCWhlbHB2aWRlbxoIYmVuZWZpdHMqNwoFdmlkZW8V7SA_PRoGdmlkZW9zGgloZWxwdmlkZW8aDXZpZGVvY3JlYXRvcnMaB3lvdXR1YmUqOgoIY3JlYXRvcnMVRfWTPxoHY3JlYXRvchoJZGVzaWduZXJzGgZtYWtlcnMaDXZpZGVvY3JlYXRvcnMyLGh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2MvZWxpemFiZXRoc3RhcGxldG9uOiA8Yj5DcmVhdG9yIE9wczwvYj4gSHViIC0gWW91VHViZUKoATxiPkNyZWF0b3IgT3BzIEh1YjwvYj4gaXMgd2hlcmUgY3JlYXRvcnMgbGVhcm4gaG93IHRvIGJ1aWxkIHNtYXJ0IHN5c3RlbXMgdGhhdCBtYWtlIHRoZWlyIGJ1c2luZXNzIGVhc2llciB0byBydW4uIG9uIGJ1aWxkaW5nIHN0cnVjdHVyZWQgY29udGVudCB3b3JrZmxvd3MgZm9yICZuYnNwOy4uLkoCaXRKA2FuZEoCaXNKA2hvd1IDY2FuUgNhcmVSAmRvUgR3aWxsUgNoYXMiAhABSABYAGgA",
+        "source": "YouTube \u00b7 Creator Ops Hub"
+      },
+      {
+        "position": 2,
+        "title": "Your Social Media Assistant (@creatoropsco)",
+        "link": "https://www.instagram.com/creatoropsco/",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.instagram.com/creatoropsco/&usg=AOvVaw2RebtU3Xz0N834ZZMzc_gq",
+        "displayed_link": "250+ followers",
+        "favicon": "https://serpapi.com/searches/6b04004e5d92f1434aa33d36/images/kwDRfrv4Z8qXig8ZexufTKUfIWRbnIJEAT7eFOu8TiY.png",
+        "snippet": "At The Creator Ops Co (the COC), we support female content creators, and brands by taking care of the behind-the-scenes work, so you can focus on what you do ...",
+        "snippet_highlighted_words": [
+          "female content creators"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "At The Creator Ops Co (the COC), we support female content creators, and brands by taking care of the behind-the-scenes work, so you can focus on what you do ...",
+            "source_info_link": "https://www.instagram.com/creatoropsco/",
+            "icon": "https://serpapi.com/searches/6b04004e5d92f1434aa33d36/images/kwDRfrv4Z8qXig8ZexufTMnZxqMr3xcDlacg_touulvwfWXDM9aTtg3H2N7Lx-eq.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CidodHRwczovL3d3dy5pbnN0YWdyYW0uY29tL2NyZWF0b3JvcHNjby8SBBoCCAAaswYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAjwYIABAAGAAgACoZCgR3aGF0FWJeVj8aBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKjwKCmNyZWF0b3JvcHMVKwL_PxoLY3JlYXRvciBvcHMaC2NyZWF0byByb3BzGg9pdjtwO2NyZWF0b3JvcHMqCgoDYW5kFQAAAAAqCgoDaG93FQAAAAAqXgoEZG9lcxUAAAAAGgNhcmUaA2NhbhoFY291bGQaA2RpZBoCZG8aB2RvIHRoZXkaA2hhcxoFbWFrZXMaBnNob3VsZBoGd2hhdCdzGgV3aGF0cxoEd2lsbBoFd291bGQqCQoCaXQVAAAAACpgCgRoZWxwFWbD0j4aA2FpZBoGYXNzaXN0GghoZWxwZGVzaxoHaGVscGluZxoFaGVscHMaB3N1cHBvcnQaCHR1dG9yaWFsGgR3b3JrGgloZWxwdmlkZW8aCGJlbmVmaXRzKjcKBXZpZGVvFTsZnDkaBnZpZGVvcxoJaGVscHZpZGVvGg12aWRlb2NyZWF0b3JzGgd5b3V0dWJlKjoKCGNyZWF0b3JzFWebKD8aB2NyZWF0b3IaCWRlc2lnbmVycxoGbWFrZXJzGg12aWRlb2NyZWF0b3JzMidodHRwczovL3d3dy5pbnN0YWdyYW0uY29tL2NyZWF0b3JvcHNjby86QzxiPkNyZWF0b3IgT3BzPC9iPiBDbyB8IFlvdXIgU29jaWFsIE1lZGlhIEFzc2lzdGFudCAoQGNyZWF0b3JvcHNjbylCrQFBdCBUaGUgQ3JlYXRvciBPcHMgQ28gKHRoZSBDT0MpLCB3ZSBzdXBwb3J0IDxiPmZlbWFsZSBjb250ZW50IGNyZWF0b3JzPC9iPiwgYW5kIGJyYW5kcyBieSB0YWtpbmcgY2FyZSBvZiB0aGUgYmVoaW5kLXRoZS1zY2VuZXMgd29yaywgc28geW91IGNhbiBmb2N1cyBvbiB3aGF0IHlvdSBkbyZuYnNwOy4uLkoDYW5kSgJpc0oDaG93SgJpdFIDaGFzUgJkb1IDYXJlUgNjYW5SBHdpbGwiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CidodHRwczovL3d3dy5pbnN0YWdyYW0uY29tL2NyZWF0b3JvcHNjby8SBBoCCAAaswYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAjwYIABAAGAAgACoZCgR3aGF0FWJeVj8aBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKjwKCmNyZWF0b3JvcHMVKwL_PxoLY3JlYXRvciBvcHMaC2NyZWF0byByb3BzGg9pdjtwO2NyZWF0b3JvcHMqCgoDYW5kFQAAAAAqCgoDaG93FQAAAAAqXgoEZG9lcxUAAAAAGgNhcmUaA2NhbhoFY291bGQaA2RpZBoCZG8aB2RvIHRoZXkaA2hhcxoFbWFrZXMaBnNob3VsZBoGd2hhdCdzGgV3aGF0cxoEd2lsbBoFd291bGQqCQoCaXQVAAAAACpgCgRoZWxwFWbD0j4aA2FpZBoGYXNzaXN0GghoZWxwZGVzaxoHaGVscGluZxoFaGVscHMaB3N1cHBvcnQaCHR1dG9yaWFsGgR3b3JrGgloZWxwdmlkZW8aCGJlbmVmaXRzKjcKBXZpZGVvFTsZnDkaBnZpZGVvcxoJaGVscHZpZGVvGg12aWRlb2NyZWF0b3JzGgd5b3V0dWJlKjoKCGNyZWF0b3JzFWebKD8aB2NyZWF0b3IaCWRlc2lnbmVycxoGbWFrZXJzGg12aWRlb2NyZWF0b3JzMidodHRwczovL3d3dy5pbnN0YWdyYW0uY29tL2NyZWF0b3JvcHNjby86QzxiPkNyZWF0b3IgT3BzPC9iPiBDbyB8IFlvdXIgU29jaWFsIE1lZGlhIEFzc2lzdGFudCAoQGNyZWF0b3JvcHNjbylCrQFBdCBUaGUgQ3JlYXRvciBPcHMgQ28gKHRoZSBDT0MpLCB3ZSBzdXBwb3J0IDxiPmZlbWFsZSBjb250ZW50IGNyZWF0b3JzPC9iPiwgYW5kIGJyYW5kcyBieSB0YWtpbmcgY2FyZSBvZiB0aGUgYmVoaW5kLXRoZS1zY2VuZXMgd29yaywgc28geW91IGNhbiBmb2N1cyBvbiB3aGF0IHlvdSBkbyZuYnNwOy4uLkoDYW5kSgJpc0oDaG93SgJpdFIDaGFzUgJkb1IDYXJlUgNjYW5SBHdpbGwiAhABSABYAGgA",
+        "source": "Instagram \u00b7 creatoropsco"
+      },
+      {
+        "position": 3,
+        "title": "Creator Ops - Podcast",
+        "link": "https://podcasts.apple.com/us/podcast/creator-ops/id1747294299",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://podcasts.apple.com/us/podcast/creator-ops/id1747294299&usg=AOvVaw3r3Tvk7cb3C-2BFc0mn0p4",
+        "displayed_link": "https://podcasts.apple.com \u203a podcast \u203a creator-ops",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEVHcEyELMLIY_P____NZ_bQafjUbfuKMMauTuCMMsigQdePNMrNZ_atTN_Sa_qGLcOXPNDHYvK3VOeVN8-KMca_WeytQOHEXPG4SenmzPafMdjPlO-3aOP69P6QIM3evvKkUtf06frs2fjBg-bFdu3Uqe6qXdrqEnrXAAAACnRSTlMA9qr_4MGqtkPf0_thpQAAAXNJREFUKJF1k4lygyAURUlfEg2GRiEQFtlc8v-fWBazNNMe0eHdI7xxBhFCqD3uvz_YH1tUOHyayqG48z8k2z6L4VYYnkGLvoYNbiZITIY_ki-0r5PbYkGZZTEK7HKr2R7xshefQXFZ4ArmLUS8cIZVUm8BrKdyhXNNq5RRyQGsGUdjYZAqyiopp5QakBKUyLsKlecmhZyi9KRyUsJbQZcYFyqsF36SOS9SgBHWEJE_RRBjhQFRJEkIGNMgJEtCRhBp5Pxdpnap8afUMGtrBNHLookwVs-gnxIrr1ersZkmg7VdtVc4pQThzAxYgw-5Z_CgMcwpJBilG2MdlQtqzHJUwamoy5q6sg-wOn3P8q7dCgFvsk8XZiMoxrJkTMHIctZj1FdYiOCydBAD28KH7Jmb-wgQ-9k9XI9ObKPrnAfwrnsE7ISa7sk1TFN4laxB7avqLs5d395NR7e5vri8za9NPrjN5U-aeuTb5rT7LXanJv8OP5HsMr6mXaFUAAAAAElFTkSuQmCC.png",
+        "snippet": "Creator Ops teaches you how to become a great manager or operator for creators. help with product development, finances, sponsorships, content strategy, and ...",
+        "snippet_highlighted_words": [
+          "Creator Ops teaches you how to become a great manager or operator for creators"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Creator Ops teaches you how to become a great manager or operator for creators. help with product development, finances, sponsorships, content strategy, and ...",
+            "source_info_link": "https://podcasts.apple.com/us/podcast/creator-ops/id1747294299",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEVHcEyELMLIY_P____NZ_bQafjUbfuKMMauTuCMMsigQdePNMrNZ_atTN_Sa_qGLcOXPNDHYvK3VOeVN8-KMca_WeytQOHEXPG4SenmzPafMdjPlO-3aOP69P6QIM3evvKkUtf06frs2fjBg-bFdu3Uqe6qXdrqEnrXAAAACnRSTlMA9qr_4MGqtkPf0_thpQAAAXNJREFUKJF1k4lygyAURUlfEg2GRiEQFtlc8v-fWBazNNMe0eHdI7xxBhFCqD3uvz_YH1tUOHyayqG48z8k2z6L4VYYnkGLvoYNbiZITIY_ki-0r5PbYkGZZTEK7HKr2R7xshefQXFZ4ArmLUS8cIZVUm8BrKdyhXNNq5RRyQGsGUdjYZAqyiopp5QakBKUyLsKlecmhZyi9KRyUsJbQZcYFyqsF36SOS9SgBHWEJE_RRBjhQFRJEkIGNMgJEtCRhBp5Pxdpnap8afUMGtrBNHLookwVs-gnxIrr1ersZkmg7VdtVc4pQThzAxYgw-5Z_CgMcwpJBilG2MdlQtqzHJUwamoy5q6sg-wOn3P8q7dCgFvsk8XZiMoxrJkTMHIctZj1FdYiOCydBAD28KH7Jmb-wgQ-9k9XI9ObKPrnAfwrnsE7ISa7sk1TFN4laxB7avqLs5d395NR7e5vri8za9NPrjN5U-aeuTb5rT7LXanJv8OP5HsMr6mXaFUAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cj5odHRwczovL3BvZGNhc3RzLmFwcGxlLmNvbS91cy9wb2RjYXN0L2NyZWF0b3Itb3BzL2lkMTc0NzI5NDI5ORIEGgIIABqrBhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIUGCAAQABgAIAAqGQoEd2hhdBUXZK0_GgV3aGF0cxoFd2hpY2gqCQoCaXMVAAAAACo8CgpjcmVhdG9yb3BzFYoKeUAaC2NyZWF0b3Igb3BzGgtjcmVhdG8gcm9wcxoPaXY7cDtjcmVhdG9yb3BzKgoKA2FuZBUAAAAAKgoKA2hvdxUAAAAAKl4KBGRvZXMVAAAAABoDYXJlGgNjYW4aBWNvdWxkGgNkaWQaAmRvGgdkbyB0aGV5GgNoYXMaBW1ha2VzGgZzaG91bGQaBndoYXQncxoFd2hhdHMaBHdpbGwaBXdvdWxkKgkKAml0FQAAAAAqYAoEaGVscBXteZ8_GgNhaWQaBmFzc2lzdBoIaGVscGRlc2saB2hlbHBpbmcaBWhlbHBzGgdzdXBwb3J0Ggh0dXRvcmlhbBoEd29yaxoJaGVscHZpZGVvGghiZW5lZml0cyo3CgV2aWRlbxUAAAAAGgZ2aWRlb3MaCWhlbHB2aWRlbxoNdmlkZW9jcmVhdG9ycxoHeW91dHViZSo6CghjcmVhdG9ycxU56xJAGgdjcmVhdG9yGglkZXNpZ25lcnMaBm1ha2VycxoNdmlkZW9jcmVhdG9yczI-aHR0cHM6Ly9wb2RjYXN0cy5hcHBsZS5jb20vdXMvcG9kY2FzdC9jcmVhdG9yLW9wcy9pZDE3NDcyOTQyOTk6IzxiPkNyZWF0b3IgT3BzPC9iPiAtIEFwcGxlIFBvZGNhc3RzQqwBPGI-Q3JlYXRvciBPcHMgdGVhY2hlcyB5b3UgaG93IHRvIGJlY29tZSBhIGdyZWF0IG1hbmFnZXIgb3Igb3BlcmF0b3IgZm9yIGNyZWF0b3JzPC9iPi4gaGVscCB3aXRoIHByb2R1Y3QgZGV2ZWxvcG1lbnQsIGZpbmFuY2VzLCBzcG9uc29yc2hpcHMsIGNvbnRlbnQgc3RyYXRlZ3ksIGFuZCZuYnNwOy4uLkoCaXRKA2hvd0oCaXNKA2FuZFIDaGFzUgNjYW5SA2FyZVICZG9SBHdpbGwiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cj5odHRwczovL3BvZGNhc3RzLmFwcGxlLmNvbS91cy9wb2RjYXN0L2NyZWF0b3Itb3BzL2lkMTc0NzI5NDI5ORIEGgIIABqrBhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIUGCAAQABgAIAAqGQoEd2hhdBUXZK0_GgV3aGF0cxoFd2hpY2gqCQoCaXMVAAAAACo8CgpjcmVhdG9yb3BzFYoKeUAaC2NyZWF0b3Igb3BzGgtjcmVhdG8gcm9wcxoPaXY7cDtjcmVhdG9yb3BzKgoKA2FuZBUAAAAAKgoKA2hvdxUAAAAAKl4KBGRvZXMVAAAAABoDYXJlGgNjYW4aBWNvdWxkGgNkaWQaAmRvGgdkbyB0aGV5GgNoYXMaBW1ha2VzGgZzaG91bGQaBndoYXQncxoFd2hhdHMaBHdpbGwaBXdvdWxkKgkKAml0FQAAAAAqYAoEaGVscBXteZ8_GgNhaWQaBmFzc2lzdBoIaGVscGRlc2saB2hlbHBpbmcaBWhlbHBzGgdzdXBwb3J0Ggh0dXRvcmlhbBoEd29yaxoJaGVscHZpZGVvGghiZW5lZml0cyo3CgV2aWRlbxUAAAAAGgZ2aWRlb3MaCWhlbHB2aWRlbxoNdmlkZW9jcmVhdG9ycxoHeW91dHViZSo6CghjcmVhdG9ycxU56xJAGgdjcmVhdG9yGglkZXNpZ25lcnMaBm1ha2VycxoNdmlkZW9jcmVhdG9yczI-aHR0cHM6Ly9wb2RjYXN0cy5hcHBsZS5jb20vdXMvcG9kY2FzdC9jcmVhdG9yLW9wcy9pZDE3NDcyOTQyOTk6IzxiPkNyZWF0b3IgT3BzPC9iPiAtIEFwcGxlIFBvZGNhc3RzQqwBPGI-Q3JlYXRvciBPcHMgdGVhY2hlcyB5b3UgaG93IHRvIGJlY29tZSBhIGdyZWF0IG1hbmFnZXIgb3Igb3BlcmF0b3IgZm9yIGNyZWF0b3JzPC9iPi4gaGVscCB3aXRoIHByb2R1Y3QgZGV2ZWxvcG1lbnQsIGZpbmFuY2VzLCBzcG9uc29yc2hpcHMsIGNvbnRlbnQgc3RyYXRlZ3ksIGFuZCZuYnNwOy4uLkoCaXRKA2hvd0oCaXNKA2FuZFIDaGFzUgNjYW5SA2FyZVICZG9SBHdpbGwiAhABSABYAGgA",
+        "source": "Apple Podcasts"
+      },
+      {
+        "position": 4,
+        "title": "How creators are using AI video tools across platforms",
+        "link": "https://www.adobe.com/express/learn/blog/ai-video-tools",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.adobe.com/express/learn/blog/ai-video-tools&usg=AOvVaw22d2MftSQZf6VCrAuyhCyY",
+        "displayed_link": "https://www.adobe.com \u203a express \u203a learn \u203a blog \u203a ai-vi...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzrEADrEADrEADrEADrAADrEAD____wbWr2qaf-9fX729r5x8btLijvS0byfntEd2TgAAAABXRSTlMATsufzEBRSFAAAACvSURBVCiRjZOLDoMwCEVRd0uf-v9_O6BzWxWNJyY1PeVKGiSi6RUc5omExVPKInVXLoSJ3MxPMl27EB5LGL7EykKEL6vK6svARoAjkbpMrszM8nB2JKJW1aGlnyyy3_REOUk029ZsbjhKbWeDLekktVH0AD5IbFYhFEsYpe7lnJOdKoPs12qJlr_iX9ZdRmupDjLurGi6YPjml_5-vFsHmq_dfD-at0MtY-0m6-_wBr8IEuMazHj1AAAAAElFTkSuQmCC.png",
+        "snippet": "Creators across platforms use them to boost confidence, publish more consistently, and grow their brands.",
+        "snippet_highlighted_words": [
+          "Creators"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Creators across platforms use them to boost confidence, publish more consistently, and grow their brands.",
+            "source_info_link": "https://www.adobe.com/express/learn/blog/ai-video-tools",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzrEADrEADrEADrEADrAADrEAD____wbWr2qaf-9fX729r5x8btLijvS0byfntEd2TgAAAABXRSTlMATsufzEBRSFAAAACvSURBVCiRjZOLDoMwCEVRd0uf-v9_O6BzWxWNJyY1PeVKGiSi6RUc5omExVPKInVXLoSJ3MxPMl27EB5LGL7EykKEL6vK6svARoAjkbpMrszM8nB2JKJW1aGlnyyy3_REOUk029ZsbjhKbWeDLekktVH0AD5IbFYhFEsYpe7lnJOdKoPs12qJlr_iX9ZdRmupDjLurGi6YPjml_5-vFsHmq_dfD-at0MtY-0m6-_wBr8IEuMazHj1AAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CjdodHRwczovL3d3dy5hZG9iZS5jb20vZXhwcmVzcy9sZWFybi9ibG9nL2FpLXZpZGVvLXRvb2xzEgQaAggAGpAGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA6gUIABAAGAAgACoZCgR3aGF0FZ7Hjj8aBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKjwKCmNyZWF0b3JvcHMVAAAAABoLY3JlYXRvciBvcHMaC2NyZWF0byByb3BzGg9pdjtwO2NyZWF0b3JvcHMqCgoDYW5kFQAAAAAqCgoDaG93FQAAAAAqXgoEZG9lcxVSjZk-GgNhcmUaA2NhbhoFY291bGQaA2RpZBoCZG8aB2RvIHRoZXkaA2hhcxoFbWFrZXMaBnNob3VsZBoGd2hhdCdzGgV3aGF0cxoEd2lsbBoFd291bGQqCQoCaXQVAAAAACpgCgRoZWxwFZAG0j4aA2FpZBoGYXNzaXN0GghoZWxwZGVzaxoHaGVscGluZxoFaGVscHMaB3N1cHBvcnQaCHR1dG9yaWFsGgR3b3JrGgloZWxwdmlkZW8aCGJlbmVmaXRzKjcKBXZpZGVvFSC_xEAaBnZpZGVvcxoJaGVscHZpZGVvGg12aWRlb2NyZWF0b3JzGgd5b3V0dWJlKjoKCGNyZWF0b3JzFf5VnEAaB2NyZWF0b3IaCWRlc2lnbmVycxoGbWFrZXJzGg12aWRlb2NyZWF0b3JzMjdodHRwczovL3d3dy5hZG9iZS5jb20vZXhwcmVzcy9sZWFybi9ibG9nL2FpLXZpZGVvLXRvb2xzOkxIb3cgPGI-Y3JlYXRvcnMgYXJlPC9iPiB1c2luZyBBSSA8Yj52aWRlbzwvYj4gdG9vbHMgYWNyb3NzIHBsYXRmb3JtcyAtIEFkb2JlQnA8Yj5DcmVhdG9yczwvYj4gYWNyb3NzIHBsYXRmb3JtcyB1c2UgdGhlbSB0byBib29zdCBjb25maWRlbmNlLCBwdWJsaXNoIG1vcmUgY29uc2lzdGVudGx5LCBhbmQgZ3JvdyB0aGVpciBicmFuZHMuSgNob3dKAmlzSgNhbmRKAml0UgNoYXNSA2NhblIDYXJlUgJkb1IEd2lsbCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CjdodHRwczovL3d3dy5hZG9iZS5jb20vZXhwcmVzcy9sZWFybi9ibG9nL2FpLXZpZGVvLXRvb2xzEgQaAggAGpAGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA6gUIABAAGAAgACoZCgR3aGF0FZ7Hjj8aBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKjwKCmNyZWF0b3JvcHMVAAAAABoLY3JlYXRvciBvcHMaC2NyZWF0byByb3BzGg9pdjtwO2NyZWF0b3JvcHMqCgoDYW5kFQAAAAAqCgoDaG93FQAAAAAqXgoEZG9lcxVSjZk-GgNhcmUaA2NhbhoFY291bGQaA2RpZBoCZG8aB2RvIHRoZXkaA2hhcxoFbWFrZXMaBnNob3VsZBoGd2hhdCdzGgV3aGF0cxoEd2lsbBoFd291bGQqCQoCaXQVAAAAACpgCgRoZWxwFZAG0j4aA2FpZBoGYXNzaXN0GghoZWxwZGVzaxoHaGVscGluZxoFaGVscHMaB3N1cHBvcnQaCHR1dG9yaWFsGgR3b3JrGgloZWxwdmlkZW8aCGJlbmVmaXRzKjcKBXZpZGVvFSC_xEAaBnZpZGVvcxoJaGVscHZpZGVvGg12aWRlb2NyZWF0b3JzGgd5b3V0dWJlKjoKCGNyZWF0b3JzFf5VnEAaB2NyZWF0b3IaCWRlc2lnbmVycxoGbWFrZXJzGg12aWRlb2NyZWF0b3JzMjdodHRwczovL3d3dy5hZG9iZS5jb20vZXhwcmVzcy9sZWFybi9ibG9nL2FpLXZpZGVvLXRvb2xzOkxIb3cgPGI-Y3JlYXRvcnMgYXJlPC9iPiB1c2luZyBBSSA8Yj52aWRlbzwvYj4gdG9vbHMgYWNyb3NzIHBsYXRmb3JtcyAtIEFkb2JlQnA8Yj5DcmVhdG9yczwvYj4gYWNyb3NzIHBsYXRmb3JtcyB1c2UgdGhlbSB0byBib29zdCBjb25maWRlbmNlLCBwdWJsaXNoIG1vcmUgY29uc2lzdGVudGx5LCBhbmQgZ3JvdyB0aGVpciBicmFuZHMuSgNob3dKAmlzSgNhbmRKAml0UgNoYXNSA2NhblIDYXJlUgJkb1IEd2lsbCICEAFIAFgAaAA",
+        "source": "Adobe"
+      },
+      {
+        "position": 5,
+        "title": "Creator Ops: Streamline AI Video Production Workflow",
+        "link": "https://www.crealix.ai/blog/industry/creator-operations-ai-video-production-workflow",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.crealix.ai/blog/industry/creator-operations-ai-video-production-workflow&usg=AOvVaw0xwFLznJomdSKPsB85hFTX",
+        "displayed_link": "https://www.crealix.ai \u203a blog \u203a industry \u203a creator-operat...",
+        "favicon": "https://serpapi.com/searches/6b04004e5d92f1434aa33d36/images/kwDRfrv4Z8qXig8ZexufTMfzL6KcHxz9Uhk8g66hcUE.png",
+        "date": "Oct 22, 2026",
+        "snippet": "Creator operations, or \"creator ops,\" refers to the systems and processes creators use to manage content pipelines, audience engagement, and ...",
+        "snippet_highlighted_words": [
+          "Creator operations, or \"creator ops"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Creator operations, or \"creator ops,\" refers to the systems and processes creators use to manage content pipelines, audience engagement, and ...",
+            "source_info_link": "https://www.crealix.ai/blog/industry/creator-operations-ai-video-production-workflow",
+            "icon": "https://serpapi.com/searches/6b04004e5d92f1434aa33d36/images/kwDRfrv4Z8qXig8ZexufTOSdAaBXE4N9iJi-AGKSQynI_z3Nfqy__rExbf9QhTqq.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=ClRodHRwczovL3d3dy5jcmVhbGl4LmFpL2Jsb2cvaW5kdXN0cnkvY3JlYXRvci1vcGVyYXRpb25zLWFpLXZpZGVvLXByb2R1Y3Rpb24td29ya2Zsb3cSBBoCCAAa2AYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAtAYIABAAGAAgACoZCgR3aGF0FYLYWj4aBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKjwKCmNyZWF0b3JvcHMVIj9DQBoLY3JlYXRvciBvcHMaC2NyZWF0byByb3BzGg9pdjtwO2NyZWF0b3JvcHMqCgoDYW5kFQAAAAAqCgoDaG93FQAAAAAqXgoEZG9lcxWpM6c9GgNhcmUaA2NhbhoFY291bGQaA2RpZBoCZG8aB2RvIHRoZXkaA2hhcxoFbWFrZXMaBnNob3VsZBoGd2hhdCdzGgV3aGF0cxoEd2lsbBoFd291bGQqCQoCaXQVAAAAACpgCgRoZWxwFUsAlz4aA2FpZBoGYXNzaXN0GghoZWxwZGVzaxoHaGVscGluZxoFaGVscHMaB3N1cHBvcnQaCHR1dG9yaWFsGgR3b3JrGgloZWxwdmlkZW8aCGJlbmVmaXRzKjcKBXZpZGVvFSrGw0AaBnZpZGVvcxoJaGVscHZpZGVvGg12aWRlb2NyZWF0b3JzGgd5b3V0dWJlKjoKCGNyZWF0b3JzFRQM5T8aB2NyZWF0b3IaCWRlc2lnbmVycxoGbWFrZXJzGg12aWRlb2NyZWF0b3JzMlRodHRwczovL3d3dy5jcmVhbGl4LmFpL2Jsb2cvaW5kdXN0cnkvY3JlYXRvci1vcGVyYXRpb25zLWFpLXZpZGVvLXByb2R1Y3Rpb24td29ya2Zsb3c6QjxiPkNyZWF0b3IgT3BzPC9iPjogU3RyZWFtbGluZSBBSSA8Yj5WaWRlbzwvYj4gUHJvZHVjdGlvbiBXb3JrZmxvd0KmATxiPkNyZWF0b3Igb3BlcmF0aW9ucywgb3IgJnF1b3Q7Y3JlYXRvciBvcHM8L2I-LCZxdW90OyByZWZlcnMgdG8gdGhlIHN5c3RlbXMgYW5kIHByb2Nlc3NlcyBjcmVhdG9ycyB1c2UgdG8gbWFuYWdlIGNvbnRlbnQgcGlwZWxpbmVzLCBhdWRpZW5jZSBlbmdhZ2VtZW50LCBhbmQmbmJzcDsuLi5KA2hvd0oCaXNKA2FuZEoCaXRSA2NhblIDYXJlUgJkb1IEd2lsbFIDaGFzIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=ClRodHRwczovL3d3dy5jcmVhbGl4LmFpL2Jsb2cvaW5kdXN0cnkvY3JlYXRvci1vcGVyYXRpb25zLWFpLXZpZGVvLXByb2R1Y3Rpb24td29ya2Zsb3cSBBoCCAAa2AYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAtAYIABAAGAAgACoZCgR3aGF0FYLYWj4aBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKjwKCmNyZWF0b3JvcHMVIj9DQBoLY3JlYXRvciBvcHMaC2NyZWF0byByb3BzGg9pdjtwO2NyZWF0b3JvcHMqCgoDYW5kFQAAAAAqCgoDaG93FQAAAAAqXgoEZG9lcxWpM6c9GgNhcmUaA2NhbhoFY291bGQaA2RpZBoCZG8aB2RvIHRoZXkaA2hhcxoFbWFrZXMaBnNob3VsZBoGd2hhdCdzGgV3aGF0cxoEd2lsbBoFd291bGQqCQoCaXQVAAAAACpgCgRoZWxwFUsAlz4aA2FpZBoGYXNzaXN0GghoZWxwZGVzaxoHaGVscGluZxoFaGVscHMaB3N1cHBvcnQaCHR1dG9yaWFsGgR3b3JrGgloZWxwdmlkZW8aCGJlbmVmaXRzKjcKBXZpZGVvFSrGw0AaBnZpZGVvcxoJaGVscHZpZGVvGg12aWRlb2NyZWF0b3JzGgd5b3V0dWJlKjoKCGNyZWF0b3JzFRQM5T8aB2NyZWF0b3IaCWRlc2lnbmVycxoGbWFrZXJzGg12aWRlb2NyZWF0b3JzMlRodHRwczovL3d3dy5jcmVhbGl4LmFpL2Jsb2cvaW5kdXN0cnkvY3JlYXRvci1vcGVyYXRpb25zLWFpLXZpZGVvLXByb2R1Y3Rpb24td29ya2Zsb3c6QjxiPkNyZWF0b3IgT3BzPC9iPjogU3RyZWFtbGluZSBBSSA8Yj5WaWRlbzwvYj4gUHJvZHVjdGlvbiBXb3JrZmxvd0KmATxiPkNyZWF0b3Igb3BlcmF0aW9ucywgb3IgJnF1b3Q7Y3JlYXRvciBvcHM8L2I-LCZxdW90OyByZWZlcnMgdG8gdGhlIHN5c3RlbXMgYW5kIHByb2Nlc3NlcyBjcmVhdG9ycyB1c2UgdG8gbWFuYWdlIGNvbnRlbnQgcGlwZWxpbmVzLCBhdWRpZW5jZSBlbmdhZ2VtZW50LCBhbmQmbmJzcDsuLi5KA2hvd0oCaXNKA2FuZEoCaXRSA2NhblIDYXJlUgJkb1IEd2lsbFIDaGFzIgIQAUgAWABoAA",
+        "source": "Crealix AI",
+        "read_more_link": "https://www.crealix.ai/blog/industry/creator-operations-ai-video-production-workflow#:~:text=Creator%20operations%2C%20or%20%22creator%20ops%2C%22,audience%20engagement%2C%20and%20business%20activities."
+      },
+      {
+        "position": 6,
+        "title": "How I Built a YouTube Creator Ops Agent With LangGraph and ...",
+        "link": "https://www.youtube.com/watch?v=Mkgr1jgXCKs",
+        "displayed_link": "620+ views",
+        "date": "8 months ago",
+        "thumbnail": "https://serpapi.com/searches/6b04004e5d92f1434aa33d36/images/kwDRfrv4Z8qXig8ZexufTJCa_iDcbksOM1bGM9_jXwI.webp",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "The tool is an AI agent that helps with tasks like proofreading captions, generating chapters, writing descriptions, suggesting SEO-friendly ...",
+        "duration": "20:47",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "Why I Built a LangGraph YouTube Agent",
+            "link": "https://www.youtube.com/watch?v=Mkgr1jgXCKs&t=0"
+          },
+          {
+            "time": "02:55",
+            "title": "Demo: Automating Video Metadata in a REPL",
+            "link": "https://www.youtube.com/watch?v=Mkgr1jgXCKs&t=175"
+          },
+          {
+            "time": "06:46",
+            "title": "Demo: Playlist Description and Title Generation",
+            "link": "https://www.youtube.com/watch?v=Mkgr1jgXCKs&t=406"
+          },
+          {
+            "time": "08:28",
+            "title": "Human-in-the-Loop Agent Design with LangGraph",
+            "link": "https://www.youtube.com/watch?v=Mkgr1jgXCKs&t=508"
+          },
+          {
+            "time": "11:00",
+            "title": "How I Built It with Codex, Copilot, and PRDs",
+            "link": "https://www.youtube.com/watch?v=Mkgr1jgXCKs&t=660"
+          },
+          {
+            "time": "15:09",
+            "title": "Lessons Learned: Specs, Tests, and AI Workflow",
+            "link": "https://www.youtube.com/watch?v=Mkgr1jgXCKs&t=909"
+          },
+          {
+            "time": "19:06",
+            "title": "Why AI Won\u2019t Replace Software Engineers",
+            "link": "https://www.youtube.com/watch?v=Mkgr1jgXCKs&t=1146"
+          }
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The tool is an AI agent that helps with tasks like proofreading captions, generating chapters, writing descriptions, suggesting SEO-friendly ...",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CitodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PU1rZ3IxamdYQ0tzEiEKFQoECDBIAgoECEhIAgoCCD8KAwiAARIECgIIWhoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CitodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PU1rZ3IxamdYQ0tzEiEKFQoECDBIAgoECEhIAgoCCD8KAwiAARIECgIIWhoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSmmihF3ieyjXALEn0jrvh0Gszoq6BCCZ1KeA",
+        "source": "YouTube \u00b7 Codetutor"
+      },
+      {
+        "position": 7,
+        "title": "Creators thoughts on AI-powered video production",
+        "link": "https://www.storyblocks.com/resources/blog/creators-thoughts-on-ai-powered-video-production",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.storyblocks.com/resources/blog/creators-thoughts-on-ai-powered-video-production&usg=AOvVaw1jVx1Xqi03YKTIy7afXwGK",
+        "displayed_link": "https://www.storyblocks.com \u203a Resources \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAA0lBMVEX______fH_9K7-63T_5Ur_4i7_4SL-7HT_-tz_7HP_4Sf_4SH__fb_7YH-4CP_-t3-5UP_-NH_4zDt0R6vmxbjyB3-4CC8phiijxXlyh353CB2aA8HBgEAAAC3ohdbUAsNCwHIsRr93yBSSArPtxpLQgmhjhTAqRg8NAc6Mwf42yAlIQSZhxMLCQFuYQ5TSQqkkRUKCQHhxx2umRbs0B45Mwe0nhcHBgB1Zw-gjRRRRwpQRwriyB0LCgE7NAeijxT-63IIBwF3aQ_--tzixx2wmxY1ksvgAAAARHRSTlMAD1yezu79niig9_8Kjvom1jLr____________________________________________________________oP__KL_JbkwAAAE-SURBVHgBdNLVmsMgFEVh4rLrbqfu7u24v_8jVfiAkpnpf5uVAIewG8O0bMd1HdszDfaXH4RQwsBnUbF4AhGJeIxpkin8kUoyJZ3BPzJp9b7-XC-SYv0U7kjFeBCHks3lUSiWyhDi_Hxq_5VqjeqFBlGzJc9yPW0Aod0honqXLnoQgsv81Hz6dA0GdDFUEzOYCWnEg_GEiKaQTGZBKMx4gPJ8sSxA8pitghUP1pstNDZzIO14sKfDsQLFYS6kBxEQPbYhuVrQfpIB9bXAgVI5HkQw0pawodlunnnwUrht0oJUWC7mZfwKPG1QUyKajHnwCsnURj2kiwEP3m6j1i6rRxfda9BRx3zXr7vVJGoU9vTxqQaV-Ir8MOVSsYDvnyyU-HkEkxyhREso2RPKOISyHt7M6-AME0fJ_uxYsj8Aihg3SwMV77IAAAAASUVORK5CYII.png",
+        "date": "Aug 11, 2025",
+        "snippet": "From automated engagements using chatbots to assisting with video editing, creators are leveraging the full potential of available AI tools.",
+        "snippet_highlighted_words": [
+          "automated engagements using chatbots"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "From automated engagements using chatbots to assisting with video editing, creators are leveraging the full potential of available AI tools.",
+            "source_info_link": "https://www.storyblocks.com/resources/blog/creators-thoughts-on-ai-powered-video-production",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAA0lBMVEX______fH_9K7-63T_5Ur_4i7_4SL-7HT_-tz_7HP_4Sf_4SH__fb_7YH-4CP_-t3-5UP_-NH_4zDt0R6vmxbjyB3-4CC8phiijxXlyh353CB2aA8HBgEAAAC3ohdbUAsNCwHIsRr93yBSSArPtxpLQgmhjhTAqRg8NAc6Mwf42yAlIQSZhxMLCQFuYQ5TSQqkkRUKCQHhxx2umRbs0B45Mwe0nhcHBgB1Zw-gjRRRRwpQRwriyB0LCgE7NAeijxT-63IIBwF3aQ_--tzixx2wmxY1ksvgAAAARHRSTlMAD1yezu79niig9_8Kjvom1jLr____________________________________________________________oP__KL_JbkwAAAE-SURBVHgBdNLVmsMgFEVh4rLrbqfu7u24v_8jVfiAkpnpf5uVAIewG8O0bMd1HdszDfaXH4RQwsBnUbF4AhGJeIxpkin8kUoyJZ3BPzJp9b7-XC-SYv0U7kjFeBCHks3lUSiWyhDi_Hxq_5VqjeqFBlGzJc9yPW0Aod0honqXLnoQgsv81Hz6dA0GdDFUEzOYCWnEg_GEiKaQTGZBKMx4gPJ8sSxA8pitghUP1pstNDZzIO14sKfDsQLFYS6kBxEQPbYhuVrQfpIB9bXAgVI5HkQw0pawodlunnnwUrht0oJUWC7mZfwKPG1QUyKajHnwCsnURj2kiwEP3m6j1i6rRxfda9BRx3zXr7vVJGoU9vTxqQaV-Ir8MOVSsYDvnyyU-HkEkxyhREso2RPKOISyHt7M6-AME0fJ_uxYsj8Aihg3SwMV77IAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CltodHRwczovL3d3dy5zdG9yeWJsb2Nrcy5jb20vcmVzb3VyY2VzL2Jsb2cvY3JlYXRvcnMtdGhvdWdodHMtb24tYWktcG93ZXJlZC12aWRlby1wcm9kdWN0aW9uEgQaAggAGtYGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLIGCAAQABgAIAAqGQoEd2hhdBXXqHA_GgV3aGF0cxoFd2hpY2gqCQoCaXMVAAAAACo8CgpjcmVhdG9yb3BzFQAAAAAaC2NyZWF0b3Igb3BzGgtjcmVhdG8gcm9wcxoPaXY7cDtjcmVhdG9yb3BzKgoKA2FuZBUAAAAAKgoKA2hvdxUAAAAAKl4KBGRvZXMVzxthPxoDYXJlGgNjYW4aBWNvdWxkGgNkaWQaAmRvGgdkbyB0aGV5GgNoYXMaBW1ha2VzGgZzaG91bGQaBndoYXQncxoFd2hhdHMaBHdpbGwaBXdvdWxkKgkKAml0FQAAAAAqYAoEaGVscBWecGk_GgNhaWQaBmFzc2lzdBoIaGVscGRlc2saB2hlbHBpbmcaBWhlbHBzGgdzdXBwb3J0Ggh0dXRvcmlhbBoEd29yaxoJaGVscHZpZGVvGghiZW5lZml0cyo3CgV2aWRlbxWvJoxAGgZ2aWRlb3MaCWhlbHB2aWRlbxoNdmlkZW9jcmVhdG9ycxoHeW91dHViZSo6CghjcmVhdG9ycxWKHJJAGgdjcmVhdG9yGglkZXNpZ25lcnMaBm1ha2VycxoNdmlkZW9jcmVhdG9yczJbaHR0cHM6Ly93d3cuc3RvcnlibG9ja3MuY29tL3Jlc291cmNlcy9ibG9nL2NyZWF0b3JzLXRob3VnaHRzLW9uLWFpLXBvd2VyZWQtdmlkZW8tcHJvZHVjdGlvbjpMPGI-Q3JlYXRvcnM8L2I-IHRob3VnaHRzIG9uIEFJLXBvd2VyZWQgPGI-dmlkZW88L2I-IHByb2R1Y3Rpb24gLSBTdG9yeWJsb2Nrc0KTAUZyb20gPGI-YXV0b21hdGVkIGVuZ2FnZW1lbnRzIHVzaW5nIGNoYXRib3RzPC9iPiB0byBhc3Npc3Rpbmcgd2l0aCB2aWRlbyBlZGl0aW5nLCBjcmVhdG9ycyBhcmUgbGV2ZXJhZ2luZyB0aGUgZnVsbCBwb3RlbnRpYWwgb2YgYXZhaWxhYmxlIEFJIHRvb2xzLkoDaG93SgJpc0oDYW5kSgJpdFIDaGFzUgNjYW5SA2FyZVICZG9SBHdpbGwiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CltodHRwczovL3d3dy5zdG9yeWJsb2Nrcy5jb20vcmVzb3VyY2VzL2Jsb2cvY3JlYXRvcnMtdGhvdWdodHMtb24tYWktcG93ZXJlZC12aWRlby1wcm9kdWN0aW9uEgQaAggAGtYGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLIGCAAQABgAIAAqGQoEd2hhdBXXqHA_GgV3aGF0cxoFd2hpY2gqCQoCaXMVAAAAACo8CgpjcmVhdG9yb3BzFQAAAAAaC2NyZWF0b3Igb3BzGgtjcmVhdG8gcm9wcxoPaXY7cDtjcmVhdG9yb3BzKgoKA2FuZBUAAAAAKgoKA2hvdxUAAAAAKl4KBGRvZXMVzxthPxoDYXJlGgNjYW4aBWNvdWxkGgNkaWQaAmRvGgdkbyB0aGV5GgNoYXMaBW1ha2VzGgZzaG91bGQaBndoYXQncxoFd2hhdHMaBHdpbGwaBXdvdWxkKgkKAml0FQAAAAAqYAoEaGVscBWecGk_GgNhaWQaBmFzc2lzdBoIaGVscGRlc2saB2hlbHBpbmcaBWhlbHBzGgdzdXBwb3J0Ggh0dXRvcmlhbBoEd29yaxoJaGVscHZpZGVvGghiZW5lZml0cyo3CgV2aWRlbxWvJoxAGgZ2aWRlb3MaCWhlbHB2aWRlbxoNdmlkZW9jcmVhdG9ycxoHeW91dHViZSo6CghjcmVhdG9ycxWKHJJAGgdjcmVhdG9yGglkZXNpZ25lcnMaBm1ha2VycxoNdmlkZW9jcmVhdG9yczJbaHR0cHM6Ly93d3cuc3RvcnlibG9ja3MuY29tL3Jlc291cmNlcy9ibG9nL2NyZWF0b3JzLXRob3VnaHRzLW9uLWFpLXBvd2VyZWQtdmlkZW8tcHJvZHVjdGlvbjpMPGI-Q3JlYXRvcnM8L2I-IHRob3VnaHRzIG9uIEFJLXBvd2VyZWQgPGI-dmlkZW88L2I-IHByb2R1Y3Rpb24gLSBTdG9yeWJsb2Nrc0KTAUZyb20gPGI-YXV0b21hdGVkIGVuZ2FnZW1lbnRzIHVzaW5nIGNoYXRib3RzPC9iPiB0byBhc3Npc3Rpbmcgd2l0aCB2aWRlbyBlZGl0aW5nLCBjcmVhdG9ycyBhcmUgbGV2ZXJhZ2luZyB0aGUgZnVsbCBwb3RlbnRpYWwgb2YgYXZhaWxhYmxlIEFJIHRvb2xzLkoDaG93SgJpc0oDYW5kSgJpdFIDaGFzUgNjYW5SA2FyZVICZG9SBHdpbGwiAhABSABYAGgA",
+        "source": "Storyblocks"
+      },
+      {
+        "position": 8,
+        "title": "We spent months doing creator ops manually, so we built ...",
+        "link": "https://www.reddit.com/r/influencermarketing/comments/1ry5s1h/we_spent_months_doing_creator_ops_manually_so_we/",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.reddit.com/r/influencermarketing/comments/1ry5s1h/we_spent_months_doing_creator_ops_manually_so_we/&usg=AOvVaw18nc4cJ9pjx8HjNFkOX0Qu",
+        "displayed_link": "2 comments",
+        "date": "8 months ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+        "snippet": "Koli handles the full operations layer of a creator campaign: vetting, outreach, negotiations, content follow-ups, and payments.",
+        "snippet_highlighted_words": [
+          "creator"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Koli handles the full operations layer of a creator campaign: vetting, outreach, negotiations, content follow-ups, and payments.",
+            "source_info_link": "https://www.reddit.com/r/influencermarketing/comments/1ry5s1h/we_spent_months_doing_creator_ops_manually_so_we/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cm9odHRwczovL3d3dy5yZWRkaXQuY29tL3IvaW5mbHVlbmNlcm1hcmtldGluZy9jb21tZW50cy8xcnk1czFoL3dlX3NwZW50X21vbnRoc19kb2luZ19jcmVhdG9yX29wc19tYW51YWxseV9zb193ZS8SBBoCCAAa1AYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAsAYIABAAGAAgACoZCgR3aGF0FWhITj8aBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKjwKCmNyZWF0b3JvcHMVCBMBQBoLY3JlYXRvciBvcHMaC2NyZWF0byByb3BzGg9pdjtwO2NyZWF0b3JvcHMqCgoDYW5kFQAAAAAqCgoDaG93FQAAAAAqXgoEZG9lcxUAAAAAGgNhcmUaA2NhbhoFY291bGQaA2RpZBoCZG8aB2RvIHRoZXkaA2hhcxoFbWFrZXMaBnNob3VsZBoGd2hhdCdzGgV3aGF0cxoEd2lsbBoFd291bGQqCQoCaXQVAAAAACpgCgRoZWxwFQAAAAAaA2FpZBoGYXNzaXN0GghoZWxwZGVzaxoHaGVscGluZxoFaGVscHMaB3N1cHBvcnQaCHR1dG9yaWFsGgR3b3JrGgloZWxwdmlkZW8aCGJlbmVmaXRzKjcKBXZpZGVvFQAAAAAaBnZpZGVvcxoJaGVscHZpZGVvGg12aWRlb2NyZWF0b3JzGgd5b3V0dWJlKjoKCGNyZWF0b3JzFfrJmj8aB2NyZWF0b3IaCWRlc2lnbmVycxoGbWFrZXJzGg12aWRlb2NyZWF0b3JzMm9odHRwczovL3d3dy5yZWRkaXQuY29tL3IvaW5mbHVlbmNlcm1hcmtldGluZy9jb21tZW50cy8xcnk1czFoL3dlX3NwZW50X21vbnRoc19kb2luZ19jcmVhdG9yX29wc19tYW51YWxseV9zb193ZS86QldlIHNwZW50IG1vbnRocyBkb2luZyA8Yj5jcmVhdG9yIG9wczwvYj4gbWFudWFsbHksIHNvIHdlIGJ1aWx0IC4uLkKHAUtvbGkgaGFuZGxlcyB0aGUgZnVsbCBvcGVyYXRpb25zIGxheWVyIG9mIGEgPGI-Y3JlYXRvcjwvYj4gY2FtcGFpZ246IHZldHRpbmcsIG91dHJlYWNoLCBuZWdvdGlhdGlvbnMsIGNvbnRlbnQgZm9sbG93LXVwcywgYW5kIHBheW1lbnRzLkoDYW5kSgJpc0oDaG93SgJpdFIEd2lsbFIDY2FuUgNhcmVSAmRvUgNoYXMiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cm9odHRwczovL3d3dy5yZWRkaXQuY29tL3IvaW5mbHVlbmNlcm1hcmtldGluZy9jb21tZW50cy8xcnk1czFoL3dlX3NwZW50X21vbnRoc19kb2luZ19jcmVhdG9yX29wc19tYW51YWxseV9zb193ZS8SBBoCCAAa1AYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAsAYIABAAGAAgACoZCgR3aGF0FWhITj8aBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKjwKCmNyZWF0b3JvcHMVCBMBQBoLY3JlYXRvciBvcHMaC2NyZWF0byByb3BzGg9pdjtwO2NyZWF0b3JvcHMqCgoDYW5kFQAAAAAqCgoDaG93FQAAAAAqXgoEZG9lcxUAAAAAGgNhcmUaA2NhbhoFY291bGQaA2RpZBoCZG8aB2RvIHRoZXkaA2hhcxoFbWFrZXMaBnNob3VsZBoGd2hhdCdzGgV3aGF0cxoEd2lsbBoFd291bGQqCQoCaXQVAAAAACpgCgRoZWxwFQAAAAAaA2FpZBoGYXNzaXN0GghoZWxwZGVzaxoHaGVscGluZxoFaGVscHMaB3N1cHBvcnQaCHR1dG9yaWFsGgR3b3JrGgloZWxwdmlkZW8aCGJlbmVmaXRzKjcKBXZpZGVvFQAAAAAaBnZpZGVvcxoJaGVscHZpZGVvGg12aWRlb2NyZWF0b3JzGgd5b3V0dWJlKjoKCGNyZWF0b3JzFfrJmj8aB2NyZWF0b3IaCWRlc2lnbmVycxoGbWFrZXJzGg12aWRlb2NyZWF0b3JzMm9odHRwczovL3d3dy5yZWRkaXQuY29tL3IvaW5mbHVlbmNlcm1hcmtldGluZy9jb21tZW50cy8xcnk1czFoL3dlX3NwZW50X21vbnRoc19kb2luZ19jcmVhdG9yX29wc19tYW51YWxseV9zb193ZS86QldlIHNwZW50IG1vbnRocyBkb2luZyA8Yj5jcmVhdG9yIG9wczwvYj4gbWFudWFsbHksIHNvIHdlIGJ1aWx0IC4uLkKHAUtvbGkgaGFuZGxlcyB0aGUgZnVsbCBvcGVyYXRpb25zIGxheWVyIG9mIGEgPGI-Y3JlYXRvcjwvYj4gY2FtcGFpZ246IHZldHRpbmcsIG91dHJlYWNoLCBuZWdvdGlhdGlvbnMsIGNvbnRlbnQgZm9sbG93LXVwcywgYW5kIHBheW1lbnRzLkoDYW5kSgJpc0oDaG93SgJpdFIEd2lsbFIDY2FuUgNhcmVSAmRvUgNoYXMiAhABSABYAGgA",
+        "source": "Reddit \u00b7 r/influencermarketing"
+      },
+      {
+        "position": 9,
+        "title": "Creator Ops & Strategy Manager, Prime Video International",
+        "link": "https://amazon.jobs/pt/jobs/10568521/creator-ops-strategy-manager-prime-video-international-creator-marketing",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://amazon.jobs/pt/jobs/10568521/creator-ops-strategy-manager-prime-video-international-creator-marketing&usg=AOvVaw1-ntseggz525bYw5lHZeXo",
+        "displayed_link": "https://amazon.jobs \u203a jobs \u203a creator-ops-strategy-manag...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEVHcEz________________________9_f3_______________________________8AAAAEBQX_-_P19fX_owD5-fn_9OT_2qa3t7fZ2dlFRkbv7-__sBv_u0qTk5M4ODhpamr_48H_w2skJSWoqamdnp7BwcH_6Mj_8Nn_yoHj4-PMzMz_05V7fHxUVVXFxsax0Hb5AAAAD3RSTlMAoquz6Cdx_Dj0AVx_xMG1dKA_AAABSElEQVQokW2TiZKCMAyG67WCulso0INyyQ3q-v5vt-nFjkqGGdL_a9I0kyJ08nY-_jB_6yGETl__SgK2LI5fCHnLQvRdUXRcHJ3goZ11ZZcG2tLWRW-QO-9hUAgft9IeWYdrvWyCMAzSyIoO_kJUKRKZKvoOq6YJe_j3axAn8xwdpXyuQiwF76qqWYW3R2PKXYGi1HesHmuRUGUQtrMUK1AqrQDxtgK50p7gFMoRr7BVWovxXOoUr1AfVfJbpcoNXKgryIiu9_0r5EYNqg6uWyRvTeh167nEbcoTTEZq4MiIbm4EppwIkzyOa6ohuWcGL0YGcs1Hm5Zl2X2kdgOhlGU1m2BpxmSo4zif2BWMTZBzGtmgxmRrtjOQrEEYwSrPBnl2Eun1XudZltdsoEbxDwid964MOI3SpbT9GUYeHS7fH-_B_7lA3B_AbTdy3QTUswAAAABJRU5ErkJggg.png",
+        "snippet": "As Creator Operations & Strategy Manager, you will be a driving force behind how Prime Video delivers the Creator Marketing strategy \u2014 owning the end-to-end ...",
+        "snippet_highlighted_words": [
+          "Creator Operations"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "As Creator Operations & Strategy Manager, you will be a driving force behind how Prime Video delivers the Creator Marketing strategy \u2014 owning the end-to-end ...",
+            "source_info_link": "https://amazon.jobs/pt/jobs/10568521/creator-ops-strategy-manager-prime-video-international-creator-marketing",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEVHcEz________________________9_f3_______________________________8AAAAEBQX_-_P19fX_owD5-fn_9OT_2qa3t7fZ2dlFRkbv7-__sBv_u0qTk5M4ODhpamr_48H_w2skJSWoqamdnp7BwcH_6Mj_8Nn_yoHj4-PMzMz_05V7fHxUVVXFxsax0Hb5AAAAD3RSTlMAoquz6Cdx_Dj0AVx_xMG1dKA_AAABSElEQVQokW2TiZKCMAyG67WCulso0INyyQ3q-v5vt-nFjkqGGdL_a9I0kyJ08nY-_jB_6yGETl__SgK2LI5fCHnLQvRdUXRcHJ3goZ11ZZcG2tLWRW-QO-9hUAgft9IeWYdrvWyCMAzSyIoO_kJUKRKZKvoOq6YJe_j3axAn8xwdpXyuQiwF76qqWYW3R2PKXYGi1HesHmuRUGUQtrMUK1AqrQDxtgK50p7gFMoRr7BVWovxXOoUr1AfVfJbpcoNXKgryIiu9_0r5EYNqg6uWyRvTeh167nEbcoTTEZq4MiIbm4EppwIkzyOa6ohuWcGL0YGcs1Hm5Zl2X2kdgOhlGU1m2BpxmSo4zif2BWMTZBzGtmgxmRrtjOQrEEYwSrPBnl2Eun1XudZltdsoEbxDwid964MOI3SpbT9GUYeHS7fH-_B_7lA3B_AbTdy3QTUswAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cm1odHRwczovL2FtYXpvbi5qb2JzL3B0L2pvYnMvMTA1Njg1MjEvY3JlYXRvci1vcHMtc3RyYXRlZ3ktbWFuYWdlci1wcmltZS12aWRlby1pbnRlcm5hdGlvbmFsLWNyZWF0b3ItbWFya2V0aW5nEgQaAggAGoYHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOIGCAAQABgAIAAqGQoEd2hhdBWcNQ4_GgV3aGF0cxoFd2hpY2gqCQoCaXMVAAAAACo8CgpjcmVhdG9yb3BzFeD8WkAaC2NyZWF0b3Igb3BzGgtjcmVhdG8gcm9wcxoPaXY7cDtjcmVhdG9yb3BzKgoKA2FuZBUAAAAAKgoKA2hvdxUAAAAAKl4KBGRvZXMV5C_CPhoDYXJlGgNjYW4aBWNvdWxkGgNkaWQaAmRvGgdkbyB0aGV5GgNoYXMaBW1ha2VzGgZzaG91bGQaBndoYXQncxoFd2hhdHMaBHdpbGwaBXdvdWxkKgkKAml0FQAAAAAqYAoEaGVscBVrLy0_GgNhaWQaBmFzc2lzdBoIaGVscGRlc2saB2hlbHBpbmcaBWhlbHBzGgdzdXBwb3J0Ggh0dXRvcmlhbBoEd29yaxoJaGVscHZpZGVvGghiZW5lZml0cyo3CgV2aWRlbxVEM4tAGgZ2aWRlb3MaCWhlbHB2aWRlbxoNdmlkZW9jcmVhdG9ycxoHeW91dHViZSo6CghjcmVhdG9ycxVebyA_GgdjcmVhdG9yGglkZXNpZ25lcnMaBm1ha2VycxoNdmlkZW9jcmVhdG9yczJtaHR0cHM6Ly9hbWF6b24uam9icy9wdC9qb2JzLzEwNTY4NTIxL2NyZWF0b3Itb3BzLXN0cmF0ZWd5LW1hbmFnZXItcHJpbWUtdmlkZW8taW50ZXJuYXRpb25hbC1jcmVhdG9yLW1hcmtldGluZzpLPGI-Q3JlYXRvciBPcHM8L2I-ICZhbXA7IFN0cmF0ZWd5IE1hbmFnZXIsIFByaW1lIDxiPlZpZGVvPC9iPiBJbnRlcm5hdGlvbmFsQrIBQXMgPGI-Q3JlYXRvciBPcGVyYXRpb25zPC9iPiAmYW1wOyBTdHJhdGVneSBNYW5hZ2VyLCB5b3Ugd2lsbCBiZSBhIGRyaXZpbmcgZm9yY2UgYmVoaW5kIGhvdyBQcmltZSBWaWRlbyBkZWxpdmVycyB0aGUgQ3JlYXRvciBNYXJrZXRpbmcgc3RyYXRlZ3kg4oCUIG93bmluZyB0aGUgZW5kLXRvLWVuZCZuYnNwOy4uLkoDaG93SgJpc0oDYW5kSgJpdFICZG9SA2FyZVIDY2FuUgR3aWxsUgNoYXMiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cm1odHRwczovL2FtYXpvbi5qb2JzL3B0L2pvYnMvMTA1Njg1MjEvY3JlYXRvci1vcHMtc3RyYXRlZ3ktbWFuYWdlci1wcmltZS12aWRlby1pbnRlcm5hdGlvbmFsLWNyZWF0b3ItbWFya2V0aW5nEgQaAggAGoYHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOIGCAAQABgAIAAqGQoEd2hhdBWcNQ4_GgV3aGF0cxoFd2hpY2gqCQoCaXMVAAAAACo8CgpjcmVhdG9yb3BzFeD8WkAaC2NyZWF0b3Igb3BzGgtjcmVhdG8gcm9wcxoPaXY7cDtjcmVhdG9yb3BzKgoKA2FuZBUAAAAAKgoKA2hvdxUAAAAAKl4KBGRvZXMV5C_CPhoDYXJlGgNjYW4aBWNvdWxkGgNkaWQaAmRvGgdkbyB0aGV5GgNoYXMaBW1ha2VzGgZzaG91bGQaBndoYXQncxoFd2hhdHMaBHdpbGwaBXdvdWxkKgkKAml0FQAAAAAqYAoEaGVscBVrLy0_GgNhaWQaBmFzc2lzdBoIaGVscGRlc2saB2hlbHBpbmcaBWhlbHBzGgdzdXBwb3J0Ggh0dXRvcmlhbBoEd29yaxoJaGVscHZpZGVvGghiZW5lZml0cyo3CgV2aWRlbxVEM4tAGgZ2aWRlb3MaCWhlbHB2aWRlbxoNdmlkZW9jcmVhdG9ycxoHeW91dHViZSo6CghjcmVhdG9ycxVebyA_GgdjcmVhdG9yGglkZXNpZ25lcnMaBm1ha2VycxoNdmlkZW9jcmVhdG9yczJtaHR0cHM6Ly9hbWF6b24uam9icy9wdC9qb2JzLzEwNTY4NTIxL2NyZWF0b3Itb3BzLXN0cmF0ZWd5LW1hbmFnZXItcHJpbWUtdmlkZW8taW50ZXJuYXRpb25hbC1jcmVhdG9yLW1hcmtldGluZzpLPGI-Q3JlYXRvciBPcHM8L2I-ICZhbXA7IFN0cmF0ZWd5IE1hbmFnZXIsIFByaW1lIDxiPlZpZGVvPC9iPiBJbnRlcm5hdGlvbmFsQrIBQXMgPGI-Q3JlYXRvciBPcGVyYXRpb25zPC9iPiAmYW1wOyBTdHJhdGVneSBNYW5hZ2VyLCB5b3Ugd2lsbCBiZSBhIGRyaXZpbmcgZm9yY2UgYmVoaW5kIGhvdyBQcmltZSBWaWRlbyBkZWxpdmVycyB0aGUgQ3JlYXRvciBNYXJrZXRpbmcgc3RyYXRlZ3kg4oCUIG93bmluZyB0aGUgZW5kLXRvLWVuZCZuYnNwOy4uLkoDaG93SgJpc0oDYW5kSgJpdFICZG9SA2FyZVIDY2FuUgR3aWxsUgNoYXMiAhABSABYAGgA",
+        "source": "Amazon Careers",
+        "read_more_link": "https://amazon.jobs/pt/jobs/10568521/creator-ops-strategy-manager-prime-video-international-creator-marketing#:~:text=As%20Creator%20Operations%20%26%20Strategy,of%20Creators%20for%20Prime%20Video."
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=What+is+CreatorOps+and+how+does+it+help+video+creators?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDhxueKluKEC0cqk6e2rYEhKuB8V1g:1795424334885&ei=TgAEa8LKNd6kqtsPnsne2AM&start=10&sa=N&sstk=AYl2yk_z90CqBnqDVhc4LJmsiD-IQX8CrWDk8cZ8f5_tVZrr8IgiZ7C_74ztoaseiWz_pJINX7v7-6k7uN6bMle_363gbo0AEOjeZg&ved=2ahUKEwjCqc7t3J2YAxVekmoFHZ6kFzsQ8NMDegQIShAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=What+is+CreatorOps+and+how+does+it+help+video+creators?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDhxueKluKEC0cqk6e2rYEhKuB8V1g:1795424334885&ei=TgAEa8LKNd6kqtsPnsne2AM&start=10&sa=N&sstk=AYl2yk_z90CqBnqDVhc4LJmsiD-IQX8CrWDk8cZ8f5_tVZrr8IgiZ7C_74ztoaseiWz_pJINX7v7-6k7uN6bMle_363gbo0AEOjeZg&ved=2ahUKEwjCqc7t3J2YAxVekmoFHZ6kFzsQ8tMDegQIShAE",
+        "3": "https://www.google.com/search?q=What+is+CreatorOps+and+how+does+it+help+video+creators?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDhxueKluKEC0cqk6e2rYEhKuB8V1g:1795424334885&ei=TgAEa8LKNd6kqtsPnsne2AM&start=20&sa=N&sstk=AYl2yk_z90CqBnqDVhc4LJmsiD-IQX8CrWDk8cZ8f5_tVZrr8IgiZ7C_74ztoaseiWz_pJINX7v7-6k7uN6bMle_363gbo0AEOjeZg&ved=2ahUKEwjCqc7t3J2YAxVekmoFHZ6kFzsQ8tMDegQIShAG",
+        "4": "https://www.google.com/search?q=What+is+CreatorOps+and+how+does+it+help+video+creators?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDhxueKluKEC0cqk6e2rYEhKuB8V1g:1795424334885&ei=TgAEa8LKNd6kqtsPnsne2AM&start=30&sa=N&sstk=AYl2yk_z90CqBnqDVhc4LJmsiD-IQX8CrWDk8cZ8f5_tVZrr8IgiZ7C_74ztoaseiWz_pJINX7v7-6k7uN6bMle_363gbo0AEOjeZg&ved=2ahUKEwjCqc7t3J2YAxVekmoFHZ6kFzsQ8tMDegQIShAI",
+        "5": "https://www.google.com/search?q=What+is+CreatorOps+and+how+does+it+help+video+creators?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDhxueKluKEC0cqk6e2rYEhKuB8V1g:1795424334885&ei=TgAEa8LKNd6kqtsPnsne2AM&start=40&sa=N&sstk=AYl2yk_z90CqBnqDVhc4LJmsiD-IQX8CrWDk8cZ8f5_tVZrr8IgiZ7C_74ztoaseiWz_pJINX7v7-6k7uN6bMle_363gbo0AEOjeZg&ved=2ahUKEwjCqc7t3J2YAxVekmoFHZ6kFzsQ8tMDegQIShAK",
+        "6": "https://www.google.com/search?q=What+is+CreatorOps+and+how+does+it+help+video+creators?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDhxueKluKEC0cqk6e2rYEhKuB8V1g:1795424334885&ei=TgAEa8LKNd6kqtsPnsne2AM&start=50&sa=N&sstk=AYl2yk_z90CqBnqDVhc4LJmsiD-IQX8CrWDk8cZ8f5_tVZrr8IgiZ7C_74ztoaseiWz_pJINX7v7-6k7uN6bMle_363gbo0AEOjeZg&ved=2ahUKEwjCqc7t3J2YAxVekmoFHZ6kFzsQ8tMDegQIShAM",
+        "7": "https://www.google.com/search?q=What+is+CreatorOps+and+how+does+it+help+video+creators?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDhxueKluKEC0cqk6e2rYEhKuB8V1g:1795424334885&ei=TgAEa8LKNd6kqtsPnsne2AM&start=60&sa=N&sstk=AYl2yk_z90CqBnqDVhc4LJmsiD-IQX8CrWDk8cZ8f5_tVZrr8IgiZ7C_74ztoaseiWz_pJINX7v7-6k7uN6bMle_363gbo0AEOjeZg&ved=2ahUKEwjCqc7t3J2YAxVekmoFHZ6kFzsQ8tMDegQIShAO",
+        "8": "https://www.google.com/search?q=What+is+CreatorOps+and+how+does+it+help+video+creators?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDhxueKluKEC0cqk6e2rYEhKuB8V1g:1795424334885&ei=TgAEa8LKNd6kqtsPnsne2AM&start=70&sa=N&sstk=AYl2yk_z90CqBnqDVhc4LJmsiD-IQX8CrWDk8cZ8f5_tVZrr8IgiZ7C_74ztoaseiWz_pJINX7v7-6k7uN6bMle_363gbo0AEOjeZg&ved=2ahUKEwjCqc7t3J2YAxVekmoFHZ6kFzsQ8tMDegQIShAQ",
+        "9": "https://www.google.com/search?q=What+is+CreatorOps+and+how+does+it+help+video+creators?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDhxueKluKEC0cqk6e2rYEhKuB8V1g:1795424334885&ei=TgAEa8LKNd6kqtsPnsne2AM&start=80&sa=N&sstk=AYl2yk_z90CqBnqDVhc4LJmsiD-IQX8CrWDk8cZ8f5_tVZrr8IgiZ7C_74ztoaseiWz_pJINX7v7-6k7uN6bMle_363gbo0AEOjeZg&ved=2ahUKEwjCqc7t3J2YAxVekmoFHZ6kFzsQ8tMDegQIShAS",
+        "10": "https://www.google.com/search?q=What+is+CreatorOps+and+how+does+it+help+video+creators?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDhxueKluKEC0cqk6e2rYEhKuB8V1g:1795424334885&ei=TgAEa8LKNd6kqtsPnsne2AM&start=90&sa=N&sstk=AYl2yk_z90CqBnqDVhc4LJmsiD-IQX8CrWDk8cZ8f5_tVZrr8IgiZ7C_74ztoaseiWz_pJINX7v7-6k7uN6bMle_363gbo0AEOjeZg&ved=2ahUKEwjCqc7t3J2YAxVekmoFHZ6kFzsQ8tMDegQIShAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+CreatorOps+and+how+does+it+help+video+creators%3F&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+CreatorOps+and+how+does+it+help+video+creators%3F&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+CreatorOps+and+how+does+it+help+video+creators%3F&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+CreatorOps+and+how+does+it+help+video+creators%3F&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+CreatorOps+and+how+does+it+help+video+creators%3F&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+CreatorOps+and+how+does+it+help+video+creators%3F&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+CreatorOps+and+how+does+it+help+video+creators%3F&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+CreatorOps+and+how+does+it+help+video+creators%3F&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+CreatorOps+and+how+does+it+help+video+creators%3F&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+CreatorOps+and+how+does+it+help+video+creators%3F&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+CreatorOps+and+how+does+it+help+video+creators%3F&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

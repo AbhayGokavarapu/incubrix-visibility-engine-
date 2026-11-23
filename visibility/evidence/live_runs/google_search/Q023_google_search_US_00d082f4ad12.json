@@ -1,0 +1,570 @@
+{
+  "measurement_id": "00d082f4ad12",
+  "question_id": "Q023",
+  "timestamp_utc": "2026-11-22T13:47:07.186602+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "How to remove filler words like uh and um from videos automatically?",
+  "market": "US",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [
+    "Descript",
+    "CapCut"
+  ],
+  "position": null,
+  "citations": [
+    "https://www.reddit.com/r/premiere/comments/1g00y7r/i_want_to_remove_you_knows_ums_etc_whats_the_best/",
+    "https://www.capcut.com/tools/filler-words",
+    "https://www.google.com/goto?url=CAESywEBxCJF17eBbsv-bkv1u0DAEu3DwiQNFAKPDd2UxUyUVQsAcfe3Dg9M3cSjW5dTcYLViU8fWivJQZ5nv-WvFR0F0hkV7x1lK-IkeL15Uk8KGVY1cOlXZ5Npx4ObVb-uktMZCv3FtfSiMHxtxWczwdgyen0rTnPjeoKeNP4xvIIq_poFWKcyZyaJ6zzsKB_ICv9T8rsEZ30bgQTZxahE_XsD8bSKUh0vCh4kVKwFlnBqR6aYNlRcG-P9rJtRaYtpBN_44e-xiieP9lwK_w&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ",
+    "https://www.google.com/goto?url=CAESaAHEIkXXkkUVxo-pLzhoQ0HjJPoxh_-fL9F2vRU3LeAzMlxP7A_Gux6PZ16duldZ9m36FAjvc9bTwhpLDICPCjSpFA36KzCtEpqOK3HdliPdsRbn9qJqnuj8k7TLjD2HFv0HJFNbkMg6&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ",
+    "https://www.google.com/goto?url=CAEScAHEIkXXQpr_8296wTm4K7SJjdK7UTrhPVm68J3OpnofKoNhJULx_05oYfPyNXwXXdqJ3GBWqj5VIigw3JrFWZ5eiR9ylJRcHRWBjCXOnx-xTV2nHrKX-fsIu4wuqVv2r78L5Ch3EU5sk8vG6ArUb6Q",
+    "https://www.google.com/goto?url=CAESYAHEIkXXiQcqkRo7dhRZ5bzJ_FMo_JUyODiVJB0uxanRfov7N26y64kZpU4ByBwRboHJF245jh0wUGi1-zIIQOFuvqowdp190VUf3eLAGv6oAesMpIMmtoPcVtmJsOWMzQ",
+    "https://www.google.com/goto?url=CAESewHEIkXXGDnFqPG0p7o78Q9P-G6AT1wsm34lnxp1OMl5EUagCGsH6LWaJFOHVCHBUA3c5l1rXDPCBOjzwyBBkAWN0wv2l5HiqdDk4gdyq7qUC_wUUIb5JHq5x9-NUS7FFTVarEFEq_69XDnI7A2RRsAu5BJ0aMOequJO8g"
+  ],
+  "raw_text_summary": "I want to remove \"you knows,\" \"ums,\" etc. - what's the best ... I want to remove \"you knows,\" \"ums,\" etc. - what's the best semi-automated way to do this? Two files became 574 clips when I did it manually. Remove Filler Words Automatically with AI Tool CapCut's smart auto caption automatically detects and removes common filler words such as \"um,\" \"uh,\" \"like,\" and \"you know.\" Cleaning up \u201cum,\u201d \u201cuh,\u201d and other filler words can get repetitive, ... The process involves using the Premiere Pro's text-based editing panel to automatically remove words like \"umm,\" \"uhh,\" and \"like,\" and then ... How to INSTANTLY Remove Ums & Uhs from Your Videos & ... In an instant, you can remove filler words from your videos, with just a single click of a button. The tool is called Descript, Remove Filler Words from Video Automatically Filler words can reduce video watch time. Here's how to cut ums, pauses and other filler words for cleaner, more engaging videos. AI Filler Word Remover: Cut the Ums & Uhs Upload your audio or video file to Cleanvoice, turn on filler-word removal and start. The AI finds and cuts the fillers, and you download the edited file ... Automatically Edit Out Ums in Video - AI Tool Smoothly remove \u201cums\u201d and other filler words from your videos with our free AI-powered editor. Enhance clarity and professionalism in minutes.",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f258a97f527a84f4ccc7",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/3QRkXGzHOnh9C6Wz4YhnXYkR9WelMeboPUYBfj2u59E/6b02f258a97f527a84f4ccc7.json",
+      "markdown_endpoint": "https://serpapi.com/searches/3QRkXGzHOnh9C6Wz4YhnXYkR9WelMeboPUYBfj2u59E/6b02f258a97f527a84f4ccc7.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/3QRkXGzHOnh9C6Wz4YhnXYkR9WelMeboPUYBfj2u59E/6b02f258a97f527a84f4ccc7.json_with_pixel_position",
+      "created_at": "2026-11-22 13:47:04 UTC",
+      "processed_at": "2026-11-22 13:47:04 UTC",
+      "google_url": "https://www.google.com/search?q=How+to+remove+filler+words+like+uh+and+um+from+videos+automatically%3F&oq=How+to+remove+filler+words+like+uh+and+um+from+videos+automatically%3F&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/3QRkXGzHOnh9C6Wz4YhnXYkR9WelMeboPUYBfj2u59E/6b02f258a97f527a84f4ccc7.html",
+      "total_time_taken": 1.23
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "How to remove filler words like uh and um from videos automatically?",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "How to remove filler words like uh and um from videos automatically?",
+      "total_results": 132,
+      "time_taken_displayed": 0.28,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "How to Automatically Remove \"umms\" and \"uhs\" From Videos ...",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXI4p-9TAyN690e7XzD712n9ylq7brrw3GS7SEuXB2cjW1gCSlz0BXiT5zgJzsphPI6HsnYLptHoyNp6SJNa-BC51SkBA0gg4HigqKfEJUMnjMSFrEyZ7b_zspCj1_zkhRwu8Q&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ",
+        "thumbnail": "https://serpapi.com/searches/6b02f258a97f527a84f4ccc7/images/B_JIEPnpWSNM4hqCM1oM3wnypUevQLdy8TJn1Meu_YI.webp",
+        "channel": "Kapwing",
+        "duration": "2:28",
+        "platform": "YouTube",
+        "date": "May 1, 2024",
+        "snippet": "Remove filler words like \"uh\" and \"um\" from videos automatically using Kapwing's AI tool and Smart Cut for silences."
+      },
+      {
+        "position": 2,
+        "title": "How To Remove 'Ums' From Video (Automatically) With AI",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXHqXYB2lxXgkRS0pYi_agG4aacd9OWOIXOI1RVvun-zKFnS-dT4TG1wa7VL-vI4CdXL_PpKvI_aloSBSwhz-8wCtx__B_ajgQXp4AzPBQm9MzZgjRPyZFhIr8_7D_G-UqsvdK&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ",
+        "thumbnail": "https://serpapi.com/searches/6b02f258a97f527a84f4ccc7/images/D8X4YLL0DbcglvzHknulJ-F8qDj-h1zsHPf3_Xl4MYg.webp",
+        "channel": "OpusClip",
+        "duration": "5:51",
+        "platform": "YouTube",
+        "date": "Sep 30, 2024",
+        "snippet": "Automatically remove \"ums\" and other filler words from videos under 15 minutes using Opus Clip's AI-powered editing tool.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTOlGoaz1gA258kkv46dzLBy6AkHJ5ulGCdLA"
+      },
+      {
+        "position": 3,
+        "title": "How to remove ums and uhs from your video",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXiXKifqIXw6OqVEfm8p9TRsPXru0wGsDSsH5je0rPuXo7Dasycunid9mSAOHYzYA6nOEFDU-JPltO9Iju4E6nW4BRNzeF4Z05kJR9BdkhZhijxiS7q8O446m8KwjGwNOA8M22&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ",
+        "thumbnail": "https://serpapi.com/searches/6b02f258a97f527a84f4ccc7/images/x04Jw7JFoFvy221GRqWUrFkHtpnFT5d2G2IEJ42ZV-s.webp",
+        "channel": "Detail",
+        "duration": "2:37",
+        "platform": "YouTube",
+        "date": "May 26, 2026",
+        "snippet": "Remove filler words like \"um\" and \"uh\" automatically from videos using Detail app's AutoEdit or Edit with Text features.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTEzzNrh4vCe_P0Cw9UTDHgtn6ktZYCCTZ7aw"
+      },
+      {
+        "position": 4,
+        "title": "Remove Filler Words From Videos in Seconds",
+        "link": "https://www.google.com/goto?url=CAESbgHEIkXXhcsKZ_iuQeKwqlhDZYANK9A1FVT57aIYG0ishBtVLLI6hIqSuS-4jlz76_JJKN8aZCCxyBbGfsf6PLRMhdfyeaEWlnLsq2RLr9JtuBGvgVPjpJYnKZjQOX5rLChGBHjs5SwfSiN2E6lr&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ",
+        "thumbnail": "https://serpapi.com/searches/6b02f258a97f527a84f4ccc7/images/VclGX0GpAu54Qyqx9-vkBsQNlZNwc5f6BUopFN_UWa0.webp",
+        "channel": "Camtasia",
+        "duration": "1:42",
+        "platform": "YouTube",
+        "date": "Sep 16, 2025",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTLvcplyKDL_msbmNkhsez164h5WEwMOKqDqQ",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "Intro & Common Editing Problem",
+            "link": "https://www.google.com/goto?url=CAEScgHEIkXXA7j2GT7WYntIwRifus6KnFi3jYRKmVDOX1ez3O3qlXRoHRGtY0jE4S2AJuKoWsTBIAhrgOmYA2SDndVmMXilkhw0NJMJvGubmaY4MVyhac1JtU3zpLhon0s7xh0XUbNl3IuThQvq9J60TplJWQ&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ"
+          },
+          {
+            "time": "00:10",
+            "title": "Importing Audio into Audiate",
+            "link": "https://www.google.com/goto?url=CAEScwHEIkXXO9fyinrfF8w_gx6CNuxqlyzzKAJnCscvKsX1quXGLzRwWQqPQjJ0LHg2HgmUCfFFBZe0mHPcE2E5fwCrukqnpKSmqnQUZmAUhLBGJlrfGFlZuCrPPAt8-AkwivBixIuKl9wdVwmz0neA-lWLqpI&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ"
+          },
+          {
+            "time": "00:17",
+            "title": "Identifying Filler Words",
+            "link": "https://www.google.com/goto?url=CAEScwHEIkXXX1GV4ZALbMxwoTw5kPps5BHk3fiolL--jQFekEJ9JK9nHSiitveFFcnhULGWgWPWC4M8P6sTGl5kMNnbQz7KvqaIIOtFDNuXJaZFPTV6HMm-7hVMU3nbaFn492-GFzwMnbnrBkIEbdaixgsC5dM&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ"
+          },
+          {
+            "time": "00:27",
+            "title": "Exploring Suggested Edits Options",
+            "link": "https://www.google.com/goto?url=CAEScwHEIkXXhOp9rfr_XqW80TK8_rAMT9WeECFc4g8q--4UkPIUlwNieczglMVFz2gKS4FjWNkCPIb2FNQgMPnY3iMacu--xKNSE0eu2Gq71r-bxC91BnWtQKipakoYgATGuS-ejFk-LNXxmvMrEU8xakrYG0M&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ"
+          },
+          {
+            "time": "00:57",
+            "title": "Delete Filler Words and Shortening Pauses",
+            "link": "https://www.google.com/goto?url=CAEScwHEIkXXkRyErQ4hrUwC9e2vfva_eYvr1VQblkoqeB8U9rZr9T7z5LpkO3TWJAbxx8usvsrBKo81B9K7MNAMyVbgI45Z7DMsX64v3tRMXzrBpdqGISwuOvwkvYAegNjQFnhi_0QBNLCpBvOaNxMYHhHZpwk&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ"
+          },
+          {
+            "time": "01:18",
+            "title": "Customizing Filler Word Removal",
+            "link": "https://www.google.com/goto?url=CAEScwHEIkXXLcI9EHeniacCl-e-W7RrTgGblh07oA3y383sGajMwgQFs9zdNDUFG5YPESZ2wgpkNECVEjmIHvb7-KvdNCn1ZBnZ70nqW9VN-sN88IV01e1ejdKMHAnaTqR7rBQf62hRkpDPTzEpQPrbsaoX_j4&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ"
+          },
+          {
+            "time": "01:24",
+            "title": "Audiate Access with Camtasia Plans",
+            "link": "https://www.google.com/goto?url=CAEScwHEIkXXI9WzTNUhZvAw_CnwAsyTkzLmSy1rFaHBDSYKiRmIVLK3YHxUFPPmOdUbq-BcWgwRwILkPYFEq4eLqwVYZOu32R1ER9PSfdNXR2ynk_wipAwMVWqy9NqA_jSdn6J68QiqLB5Ko3tayK4ZJ4tqnIM&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ"
+          },
+          {
+            "time": "01:32",
+            "title": "Like & Subscribe Outro",
+            "link": "https://www.google.com/goto?url=CAEScwHEIkXX2tjQUMgfGtmcwc0Xk6skcUbKJjJtKOh7mcNBc7xb5gssIPfBtbe6OEIMaq2HLFZ9PufA4jBsn06FWgmC5j5lXXmQ9s7Ve9RXUT8bk7oTkl-XNvwECSMHEmNIfu6z3OOYrzSEBvYYD7ZsDx4FcRs&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ"
+          }
+        ]
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "How to remove filler words from video?",
+        "type": "ai_overview",
+        "page_token": "57WYHnicHdBfbtowHMBxbYfpY8FOoRsSmpRilyCSyo5_jvFL5diBtHb-jAZSeNxZ9rTD7AA7xk6waif4fvT98TO8tP7Pp3M9DP3bYjIZx_H20HWHUN3arpmYt0trJ9aEUBrrF_P7Ofq2t0tySuKH70nMgJNdcGHX8BGku-p1DWXoVakkTjFdl8V0yokfLM1yC1_GXLlBC6cMDJ3B-phF5LqFXjEUIhk56l4DlJEjnNQnIfhKUL0pV4dZEcKF4WSsQniwBcoNjUdNk9H4IEWDsEZyxkVyV4UUpSrTABpl-P2OQz1nMp6KgufFmmAdSfXhvQrItiXwsJNfZfpITynIVmB3yQndunbzkXdK-7DaCYmE94jhuhcEsUrFW7huYvfevTCon1ICUU75EZrNmb_GnQvJpfSzpPCoZTB7YlNKJI2ZG2_29ryMbv7_XD7vm2HRH7vDL3uszFC5ZzP89p__qn96iYl9",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=57WYHnicHdBfbtowHMBxbYfpY8FOoRsSmpRilyCSyo5_jvFL5diBtHb-jAZSeNxZ9rTD7AA7xk6waif4fvT98TO8tP7Pp3M9DP3bYjIZx_H20HWHUN3arpmYt0trJ9aEUBrrF_P7Ofq2t0tySuKH70nMgJNdcGHX8BGku-p1DWXoVakkTjFdl8V0yokfLM1yC1_GXLlBC6cMDJ3B-phF5LqFXjEUIhk56l4DlJEjnNQnIfhKUL0pV4dZEcKF4WSsQniwBcoNjUdNk9H4IEWDsEZyxkVyV4UUpSrTABpl-P2OQz1nMp6KgufFmmAdSfXhvQrItiXwsJNfZfpITynIVmB3yQndunbzkXdK-7DaCYmE94jhuhcEsUrFW7huYvfevTCon1ICUU75EZrNmb_GnQvJpfSzpPCoZTB7YlNKJI2ZG2_29ryMbv7_XD7vm2HRH7vDL3uszFC5ZzP89p__qn96iYl9",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVkyNVFXVVIxUTIxUFUyeHlPVU5hYTBKdGFtaHZaVEJOTUZKemFrRk5hRTVtY2xwWVlUUnlXVVI1ZERkSk1WY3lMV2RhUVhjMllsZEtiSEEwWnpkUlgxUnJaWE5hZVVsRFJFTmhkVFkyZUc5dFJWaHNURFEzTjNwTVFSSVhWMlpKUTJFMWRVNUpOVU5vYVV4TlVIbHdTMU15UVhjYUlrRklUakJGTjBadk9GUnVZbEZNU1ZseGVtUnVSa1ExVTFGR1JXSkhSV1paZFVFIiwiZmN2IjoiMyIsImVpIjoiV2ZJQ2E1dU5JNUNoaUxNUHlwS1MyQXciLCJxYyI6ImN3WEJ1dzJBTUF3RlFGcW9HT0Z0UXNFa0ZuR0VoWTBsNXljS0ZtSks3cGI5OUlIcUNEYnZqQ3lxSEJnZXFVRGxZclFUZENjMFF3NDNkRW5zQmRTcUcxVTVTUFZacDllLWVmc0IiLCJxdWVzdGlvbiI6IkhvdyB0byByZW1vdmUgZmlsbGVyIHdvcmRzIGZyb20gdmlkZW8/IiwibGsiOiJHaVZvYjNjZ2RHOGdjbVZ0YjNabElHWnBiR3hsY2lCM2IzSmtjeUJtY205dElIWnBaR1Z2IiwiYnMiOiJjNDNPdnc2Q01CREg4YmgyY21iNnhVUlJOLXNEZEdEUlRRY2ZvSUZXR21tUDlBX0V0eGVESkxJeDNfZnVQdXpPZGhmcUVRbGVXZW9VdEdrYTVkR1Ryd0swSjR2T1ZJb0V6N050dmFSa0Q3Yl9uUXlSV3FSZzNITWVOLWFsa0t3Vl9KRGw5YktXM2RpeGtBNkZiSXNVSjBPeUFkSlZrUFVfSVFpLXlWQU9kU25iY2w3X1FRM2pYMmhGdUNJbTcwQmFZNWk0YVBSN3JxRHBzZURuN0ZTUFcyYkIxZ2hZcno0IiwiaWQiOiJmY19XZklDYTV1Tkk1Q2hpTE1QeXBLUzJBd181In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVkyNVFXVVIxUTIxUFUyeHlPVU5hYTBKdGFtaHZaVEJOTUZKemFrRk5hRTVtY2xwWVlUUnlXVVI1ZERkSk1WY3lMV2RhUVhjMllsZEtiSEEwWnpkUlgxUnJaWE5hZVVsRFJFTmhkVFkyZUc5dFJWaHNURFEzTjNwTVFSSVhWMlpKUTJFMWRVNUpOVU5vYVV4TlVIbHdTMU15UVhjYUlrRklUakJGTjBadk9GUnVZbEZNU1ZseGVtUnVSa1ExVTFGR1JXSkhSV1paZFVFIiwiZmN2IjoiMyIsImVpIjoiV2ZJQ2E1dU5JNUNoaUxNUHlwS1MyQXciLCJxYyI6ImN3WEJ1dzJBTUF3RlFGcW9HT0Z0UXNFa0ZuR0VoWTBsNXljS0ZtSks3cGI5OUlIcUNEYnZqQ3lxSEJnZXFVRGxZclFUZENjMFF3NDNkRW5zQmRTcUcxVTVTUFZacDllLWVmc0IiLCJxdWVzdGlvbiI6IkhvdyB0byByZW1vdmUgZmlsbGVyIHdvcmRzIGZyb20gdmlkZW8%2FIiwibGsiOiJHaVZvYjNjZ2RHOGdjbVZ0YjNabElHWnBiR3hsY2lCM2IzSmtjeUJtY205dElIWnBaR1Z2IiwiYnMiOiJjNDNPdnc2Q01CREg4YmgyY21iNnhVUlJOLXNEZEdEUlRRY2ZvSUZXR21tUDlBX0V0eGVESkxJeDNfZnVQdXpPZGhmcUVRbGVXZW9VdEdrYTVkR1Ryd0swSjR2T1ZJb0V6N050dmFSa0Q3Yl9uUXlSV3FSZzNITWVOLWFsa0t3Vl9KRGw5YktXM2RpeGtBNkZiSXNVSjBPeUFkSlZrUFVfSVFpLXlWQU9kU25iY2w3X1FRM2pYMmhGdUNJbTcwQmFZNWk0YVBSN3JxRHBzZURuN0ZTUFcyYkIxZ2hZcno0IiwiaWQiOiJmY19XZklDYTV1Tkk1Q2hpTE1QeXBLUzJBd181In0%3D"
+      },
+      {
+        "question": "How to stop using filler words like umm?",
+        "type": "ai_overview",
+        "page_token": "wfwB2XicHdBRkpowGADgaQ-zjysBtYMzTkdrDLriDtkkQF524E80CwGsmxXwsWfpUw_TA_QYPUFn-h3h-_HTvrX1n08349zlfTGZ9H3_eO66s9WP0DWT4n1sYQKFtWUB9WL-ZY6-nmCJP3brb99364RTnFtl03Tg6o79xAMHnshERH2F1ACevDJsZ5TQgtvtCxfixDBMKRYVbHYDJabKWxMBOWLm1aPEe5OSY_-M8yBu5fhSWQZk62gjIvCM0wR9KH86yqb3xJbO41bEeR3eNZkFIg3dkbtY8tlYbtU1rlaOBZcnKcRTycWmwMNBk3BfeDZVrepkYxhgg7jv0CHlKE6TgG328TGzFBuVydpuciYQq2uU-ObCMEp0tj7w-36thu4t4eY5xjyg3E1LtHJptOpLQec6kpaLkOiKZoBDJO7qliQPJ7gtg4f_n8vXU-MWl2t3_gVXXTitXgv3u_78N_sHgymJxg",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=wfwB2XicHdBRkpowGADgaQ-zjysBtYMzTkdrDLriDtkkQF524E80CwGsmxXwsWfpUw_TA_QYPUFn-h3h-_HTvrX1n08349zlfTGZ9H3_eO66s9WP0DWT4n1sYQKFtWUB9WL-ZY6-nmCJP3brb99364RTnFtl03Tg6o79xAMHnshERH2F1ACevDJsZ5TQgtvtCxfixDBMKRYVbHYDJabKWxMBOWLm1aPEe5OSY_-M8yBu5fhSWQZk62gjIvCM0wR9KH86yqb3xJbO41bEeR3eNZkFIg3dkbtY8tlYbtU1rlaOBZcnKcRTycWmwMNBk3BfeDZVrepkYxhgg7jv0CHlKE6TgG328TGzFBuVydpuciYQq2uU-ObCMEp0tj7w-36thu4t4eY5xjyg3E1LtHJptOpLQec6kpaLkOiKZoBDJO7qliQPJ7gtg4f_n8vXU-MWl2t3_gVXXTitXgv3u_78N_sHgymJxg",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVkyNVFXVVIxUTIxUFUyeHlPVU5hYTBKdGFtaHZaVEJOTUZKemFrRk5hRTVtY2xwWVlUUnlXVVI1ZERkSk1WY3lMV2RhUVhjMllsZEtiSEEwWnpkUlgxUnJaWE5hZVVsRFJFTmhkVFkyZUc5dFJWaHNURFEzTjNwTVFSSVhWMlpKUTJFMWRVNUpOVU5vYVV4TlVIbHdTMU15UVhjYUlrRklUakJGTjBadk9GUnVZbEZNU1ZseGVtUnVSa1ExVTFGR1JXSkhSV1paZFVFIiwiZmN2IjoiMyIsImVpIjoiV2ZJQ2E1dU5JNUNoaUxNUHlwS1MyQXciLCJxYyI6ImN3WEJ1dzJBTUF3RlFGcW9HT0Z0UXNFa0ZuR0VoWTBsNXljS0ZtSks3cGI5OUlIcUNEYnZqQ3lxSEJnZXFVRGxZclFUZENjMFF3NDNkRW5zQmRTcUcxVTVTUFZacDllLWVmc0IiLCJxdWVzdGlvbiI6IkhvdyB0byBzdG9wIHVzaW5nIGZpbGxlciB3b3JkcyBsaWtlIHVtbT8iLCJsayI6IkdpZG9iM2NnZEc4Z2MzUnZjQ0IxYzJsdVp5Qm1hV3hzWlhJZ2QyOXlaSE1nYkdsclpTQjFiVzAiLCJicyI6ImM0M092dzZDTUJESDhiaDJjbWI2eFVSUk4tc0RkR0RSVFFjZm9JRldHbW1QOUFfRXR4ZURKTEl4M19mdVB1ek9kaGZxRVFsZVdlb1V0R2thNWRHVHJ3SzBKNHZPVklvRXo3TnR2YVJrRDdiX25ReVJXcVJnM0hNZU4tYWxrS3dWX0pEbDliS1czZGl4a0E2RmJJc1VKME95QWRKVmtQVV9JUWkteVZBT2RTbmJjbDdfUVEzalgyaEZ1Q0ltNzBCYVk1aTRhUFI3cnFEcHNlRG43RlNQVzJiQjFnaFlyejQiLCJpZCI6ImZjX1dmSUNhNXVOSTVDaGlMTVB5cEtTMkF3XzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVkyNVFXVVIxUTIxUFUyeHlPVU5hYTBKdGFtaHZaVEJOTUZKemFrRk5hRTVtY2xwWVlUUnlXVVI1ZERkSk1WY3lMV2RhUVhjMllsZEtiSEEwWnpkUlgxUnJaWE5hZVVsRFJFTmhkVFkyZUc5dFJWaHNURFEzTjNwTVFSSVhWMlpKUTJFMWRVNUpOVU5vYVV4TlVIbHdTMU15UVhjYUlrRklUakJGTjBadk9GUnVZbEZNU1ZseGVtUnVSa1ExVTFGR1JXSkhSV1paZFVFIiwiZmN2IjoiMyIsImVpIjoiV2ZJQ2E1dU5JNUNoaUxNUHlwS1MyQXciLCJxYyI6ImN3WEJ1dzJBTUF3RlFGcW9HT0Z0UXNFa0ZuR0VoWTBsNXljS0ZtSks3cGI5OUlIcUNEYnZqQ3lxSEJnZXFVRGxZclFUZENjMFF3NDNkRW5zQmRTcUcxVTVTUFZacDllLWVmc0IiLCJxdWVzdGlvbiI6IkhvdyB0byBzdG9wIHVzaW5nIGZpbGxlciB3b3JkcyBsaWtlIHVtbT8iLCJsayI6IkdpZG9iM2NnZEc4Z2MzUnZjQ0IxYzJsdVp5Qm1hV3hzWlhJZ2QyOXlaSE1nYkdsclpTQjFiVzAiLCJicyI6ImM0M092dzZDTUJESDhiaDJjbWI2eFVSUk4tc0RkR0RSVFFjZm9JRldHbW1QOUFfRXR4ZURKTEl4M19mdVB1ek9kaGZxRVFsZVdlb1V0R2thNWRHVHJ3SzBKNHZPVklvRXo3TnR2YVJrRDdiX25ReVJXcVJnM0hNZU4tYWxrS3dWX0pEbDliS1czZGl4a0E2RmJJc1VKME95QWRKVmtQVV9JUWkteVZBT2RTbmJjbDdfUVEzalgyaEZ1Q0ltNzBCYVk1aTRhUFI3cnFEcHNlRG43RlNQVzJiQjFnaFlyejQiLCJpZCI6ImZjX1dmSUNhNXVOSTVDaGlMTVB5cEtTMkF3XzUifQ%3D%3D"
+      },
+      {
+        "question": "Can CapCut remove ums and ahs from videos?",
+        "type": "ai_overview",
+        "page_token": "SqmOcXicHdDBbpswAIBhbQ_TY4Nx22mRoqlucBISiDC2gVwqYxOc2A4sdUvDsc_S0x5mD7DH6BO02vW_fNL_9m4PJ_Pv24v2vn-aTibDMFy3Xdfa5lp2biKeLic5kcLaWkgzvftxB37t5Sx6XqGH3yuUMRJVVtmKxig36bqwJKGQbxLYenmyYRXElzokIy30Ml9gQIN4ZEYNNPKujtLLhluYwnTki_7IRoxzAzhlJN8WPc2DdF-HuJdHtc6cj4V77agl86pQIrPpOZ3fh8kFEFauxvqEUV7GPIEooyOBjevDjDL45Yjc_jyI4gYwhneF1cst1h0NNeOL20Rg9UACvawtd1umLbHa8SOBkVblzth5RTmgxoAs1D2NQNaUaMPGGKnX7pAxvU0iBglAhZq3N2TRe-HSdYN1UCy_mtO3yRGZit-Hu-FqL19m8Or_z9nj3vlpf-7aP_LcCN-oR-H_mu8f5SeZI4n3",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=SqmOcXicHdDBbpswAIBhbQ_TY4Nx22mRoqlucBISiDC2gVwqYxOc2A4sdUvDsc_S0x5mD7DH6BO02vW_fNL_9m4PJ_Pv24v2vn-aTibDMFy3Xdfa5lp2biKeLic5kcLaWkgzvftxB37t5Sx6XqGH3yuUMRJVVtmKxig36bqwJKGQbxLYenmyYRXElzokIy30Ml9gQIN4ZEYNNPKujtLLhluYwnTki_7IRoxzAzhlJN8WPc2DdF-HuJdHtc6cj4V77agl86pQIrPpOZ3fh8kFEFauxvqEUV7GPIEooyOBjevDjDL45Yjc_jyI4gYwhneF1cst1h0NNeOL20Rg9UACvawtd1umLbHa8SOBkVblzth5RTmgxoAs1D2NQNaUaMPGGKnX7pAxvU0iBglAhZq3N2TRe-HSdYN1UCy_mtO3yRGZit-Hu-FqL19m8Or_z9nj3vlpf-7aP_LcCN-oR-H_mu8f5SeZI4n3",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVkyNVFXVVIxUTIxUFUyeHlPVU5hYTBKdGFtaHZaVEJOTUZKemFrRk5hRTVtY2xwWVlUUnlXVVI1ZERkSk1WY3lMV2RhUVhjMllsZEtiSEEwWnpkUlgxUnJaWE5hZVVsRFJFTmhkVFkyZUc5dFJWaHNURFEzTjNwTVFSSVhWMlpKUTJFMWRVNUpOVU5vYVV4TlVIbHdTMU15UVhjYUlrRklUakJGTjBadk9GUnVZbEZNU1ZseGVtUnVSa1ExVTFGR1JXSkhSV1paZFVFIiwiZmN2IjoiMyIsImVpIjoiV2ZJQ2E1dU5JNUNoaUxNUHlwS1MyQXciLCJxYyI6ImN3WEJ1dzJBTUF3RlFGcW9HT0Z0UXNFa0ZuR0VoWTBsNXljS0ZtSks3cGI5OUlIcUNEYnZqQ3lxSEJnZXFVRGxZclFUZENjMFF3NDNkRW5zQmRTcUcxVTVTUFZacDllLWVmc0IiLCJxdWVzdGlvbiI6IkNhbiBDYXBDdXQgcmVtb3ZlIHVtcyBhbmQgYWhzIGZyb20gdmlkZW9zPyIsImxrIjoiR2lCallXNGdZMkZ3WTNWMElISmxiVzkyWlNCMWJYTWdabkp2YlNCMmFXUmxidyIsImJzIjoiYzQzT3Z3NkNNQkRIOGJoMmNtYjZ4VVJSTi1zRGRHRFJUUWNmb0lGV0dtbVA5QV9FdHhlREpMSXgzX2Z1UHV6T2RoZnFFUWxlV2VvVXRHa2E1ZEdUcndLMEo0dk9WSW9FejdOdHZhUmtEN2JfblF5UldxUmczSE1lTi1hbGtLd1ZfSkRsOWJLVzNkaXhrQTZGYklzVUowT3lBZEpWa1BVX0lRaS15VkFPZFNuYmNsN19RUTNqWDJoRnVDSW03MEJhWTVpNGFQUjdycURwc2VEbjdGU1BXMmJCMWdoWXJ6NCIsImlkIjoiZmNfV2ZJQ2E1dU5JNUNoaUxNUHlwS1MyQXdfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVkyNVFXVVIxUTIxUFUyeHlPVU5hYTBKdGFtaHZaVEJOTUZKemFrRk5hRTVtY2xwWVlUUnlXVVI1ZERkSk1WY3lMV2RhUVhjMllsZEtiSEEwWnpkUlgxUnJaWE5hZVVsRFJFTmhkVFkyZUc5dFJWaHNURFEzTjNwTVFSSVhWMlpKUTJFMWRVNUpOVU5vYVV4TlVIbHdTMU15UVhjYUlrRklUakJGTjBadk9GUnVZbEZNU1ZseGVtUnVSa1ExVTFGR1JXSkhSV1paZFVFIiwiZmN2IjoiMyIsImVpIjoiV2ZJQ2E1dU5JNUNoaUxNUHlwS1MyQXciLCJxYyI6ImN3WEJ1dzJBTUF3RlFGcW9HT0Z0UXNFa0ZuR0VoWTBsNXljS0ZtSks3cGI5OUlIcUNEYnZqQ3lxSEJnZXFVRGxZclFUZENjMFF3NDNkRW5zQmRTcUcxVTVTUFZacDllLWVmc0IiLCJxdWVzdGlvbiI6IkNhbiBDYXBDdXQgcmVtb3ZlIHVtcyBhbmQgYWhzIGZyb20gdmlkZW9zPyIsImxrIjoiR2lCallXNGdZMkZ3WTNWMElISmxiVzkyWlNCMWJYTWdabkp2YlNCMmFXUmxidyIsImJzIjoiYzQzT3Z3NkNNQkRIOGJoMmNtYjZ4VVJSTi1zRGRHRFJUUWNmb0lGV0dtbVA5QV9FdHhlREpMSXgzX2Z1UHV6T2RoZnFFUWxlV2VvVXRHa2E1ZEdUcndLMEo0dk9WSW9FejdOdHZhUmtEN2JfblF5UldxUmczSE1lTi1hbGtLd1ZfSkRsOWJLVzNkaXhrQTZGYklzVUowT3lBZEpWa1BVX0lRaS15VkFPZFNuYmNsN19RUTNqWDJoRnVDSW03MEJhWTVpNGFQUjdycURwc2VEbjdGU1BXMmJCMWdoWXJ6NCIsImlkIjoiZmNfV2ZJQ2E1dU5JNUNoaUxNUHlwS1MyQXdfNSJ9"
+      },
+      {
+        "question": "How do I turn off identify filler words on CapCut?",
+        "type": "ai_overview",
+        "page_token": "50esSXicHdBLctMwGADggcN02cQ2BJqZDEMS2amJ1Prxy7I2HUWyo1Tyg0SN7Sw5CysOwwE4Bidghu8I34-f9tSaP--u2rn-spzNhmG4P3bd0Vb3smtm4jK1ciaFtQchzXLxaeF9qeUKvT2uN98f1wmkqLTKloX8ULzKge7Sogo_z4HpogBXU69z1FymypJn3PIr8-VAoniU8PAsC3IrGRoyG-45tRNG4U365CTMCMxTOZgxJ2BHMPGUz49e0vBG-CpXxu5SGCF_DTcqoO7QgBPGIRwRjQtXp21Ps8zLSgjjKiJTCjxO52rDIxLIXdgcaM8VkL60scbe14BuE38PD28ipwse2W-UpS3SinFjt2VOvdwYL_F1nyMvqdh6D7d4rcbulIB-wgiCbKuuNCRn6suPhbn4BJEB-xpDhOdlo1nFtOHDXS2vq-Du_-fqpW7csj93x1_yXAlXqRfhfpv3f9k_0vqMNQ",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=50esSXicHdBLctMwGADggcN02cQ2BJqZDEMS2amJ1Prxy7I2HUWyo1Tyg0SN7Sw5CysOwwE4Bidghu8I34-f9tSaP--u2rn-spzNhmG4P3bd0Vb3smtm4jK1ciaFtQchzXLxaeF9qeUKvT2uN98f1wmkqLTKloX8ULzKge7Sogo_z4HpogBXU69z1FymypJn3PIr8-VAoniU8PAsC3IrGRoyG-45tRNG4U365CTMCMxTOZgxJ2BHMPGUz49e0vBG-CpXxu5SGCF_DTcqoO7QgBPGIRwRjQtXp21Ps8zLSgjjKiJTCjxO52rDIxLIXdgcaM8VkL60scbe14BuE38PD28ipwse2W-UpS3SinFjt2VOvdwYL_F1nyMvqdh6D7d4rcbulIB-wgiCbKuuNCRn6suPhbn4BJEB-xpDhOdlo1nFtOHDXS2vq-Du_-fqpW7csj93x1_yXAlXqRfhfpv3f9k_0vqMNQ",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVkyNVFXVVIxUTIxUFUyeHlPVU5hYTBKdGFtaHZaVEJOTUZKemFrRk5hRTVtY2xwWVlUUnlXVVI1ZERkSk1WY3lMV2RhUVhjMllsZEtiSEEwWnpkUlgxUnJaWE5hZVVsRFJFTmhkVFkyZUc5dFJWaHNURFEzTjNwTVFSSVhWMlpKUTJFMWRVNUpOVU5vYVV4TlVIbHdTMU15UVhjYUlrRklUakJGTjBadk9GUnVZbEZNU1ZseGVtUnVSa1ExVTFGR1JXSkhSV1paZFVFIiwiZmN2IjoiMyIsImVpIjoiV2ZJQ2E1dU5JNUNoaUxNUHlwS1MyQXciLCJxYyI6ImN3WEJ1dzJBTUF3RlFGcW9HT0Z0UXNFa0ZuR0VoWTBsNXljS0ZtSks3cGI5OUlIcUNEYnZqQ3lxSEJnZXFVRGxZclFUZENjMFF3NDNkRW5zQmRTcUcxVTVTUFZacDllLWVmc0IiLCJxdWVzdGlvbiI6IkhvdyBkbyBJIHR1cm4gb2ZmIGlkZW50aWZ5IGZpbGxlciB3b3JkcyBvbiBDYXBDdXQ/IiwibGsiOiJHakZvYjNjZ1pHOGdhU0IwZFhKdUlHOW1aaUJwWkdWdWRHbG1lU0JtYVd4c1pYSWdkMjl5WkhNZ2IyNGdZMkZ3WTNWMCIsImJzIjoiYzQzT3Z3NkNNQkRIOGJoMmNtYjZ4VVJSTi1zRGRHRFJUUWNmb0lGV0dtbVA5QV9FdHhlREpMSXgzX2Z1UHV6T2RoZnFFUWxlV2VvVXRHa2E1ZEdUcndLMEo0dk9WSW9FejdOdHZhUmtEN2JfblF5UldxUmczSE1lTi1hbGtLd1ZfSkRsOWJLVzNkaXhrQTZGYklzVUowT3lBZEpWa1BVX0lRaS15VkFPZFNuYmNsN19RUTNqWDJoRnVDSW03MEJhWTVpNGFQUjdycURwc2VEbjdGU1BXMmJCMWdoWXJ6NCIsImlkIjoiZmNfV2ZJQ2E1dU5JNUNoaUxNUHlwS1MyQXdfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVkyNVFXVVIxUTIxUFUyeHlPVU5hYTBKdGFtaHZaVEJOTUZKemFrRk5hRTVtY2xwWVlUUnlXVVI1ZERkSk1WY3lMV2RhUVhjMllsZEtiSEEwWnpkUlgxUnJaWE5hZVVsRFJFTmhkVFkyZUc5dFJWaHNURFEzTjNwTVFSSVhWMlpKUTJFMWRVNUpOVU5vYVV4TlVIbHdTMU15UVhjYUlrRklUakJGTjBadk9GUnVZbEZNU1ZseGVtUnVSa1ExVTFGR1JXSkhSV1paZFVFIiwiZmN2IjoiMyIsImVpIjoiV2ZJQ2E1dU5JNUNoaUxNUHlwS1MyQXciLCJxYyI6ImN3WEJ1dzJBTUF3RlFGcW9HT0Z0UXNFa0ZuR0VoWTBsNXljS0ZtSks3cGI5OUlIcUNEYnZqQ3lxSEJnZXFVRGxZclFUZENjMFF3NDNkRW5zQmRTcUcxVTVTUFZacDllLWVmc0IiLCJxdWVzdGlvbiI6IkhvdyBkbyBJIHR1cm4gb2ZmIGlkZW50aWZ5IGZpbGxlciB3b3JkcyBvbiBDYXBDdXQ%2FIiwibGsiOiJHakZvYjNjZ1pHOGdhU0IwZFhKdUlHOW1aaUJwWkdWdWRHbG1lU0JtYVd4c1pYSWdkMjl5WkhNZ2IyNGdZMkZ3WTNWMCIsImJzIjoiYzQzT3Z3NkNNQkRIOGJoMmNtYjZ4VVJSTi1zRGRHRFJUUWNmb0lGV0dtbVA5QV9FdHhlREpMSXgzX2Z1UHV6T2RoZnFFUWxlV2VvVXRHa2E1ZEdUcndLMEo0dk9WSW9FejdOdHZhUmtEN2JfblF5UldxUmczSE1lTi1hbGtLd1ZfSkRsOWJLVzNkaXhrQTZGYklzVUowT3lBZEpWa1BVX0lRaS15VkFPZFNuYmNsN19RUTNqWDJoRnVDSW03MEJhWTVpNGFQUjdycURwc2VEbjdGU1BXMmJCMWdoWXJ6NCIsImlkIjoiZmNfV2ZJQ2E1dU5JNUNoaUxNUHlwS1MyQXdfNSJ9"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "ZEYlhXiczVbZcrJIFK6a63mN4cY_gqhRU0WlmkXFnfibxNxQLM0iYCuLxP_yf5a5moeZB5jHmCeYZjGC0cTMzcypgobTZ-_zcfj5u2uvnb9-taww3AR3JBnHcdVEyHRhVUMeqQT7tUYayA18zbo3XSYKiABFvgYZzfKRB6tIzRm2nrMIy2XgmtjvmDqhBQxFQJt5MkROaUYTsclZ9mg822-GcxrERGqfkVUlgCvs_nUVkDKJb85vdR6_VIMqXFdFuFXXXRo8bkCVpuh6dUoqHhYA_y0JLBBNvDoAmB_JsdK1FiULWwXcqb6QrQX-GCQ-RcCJ2c4l__PEaKLJsWnE-JoCYzVzevhpcpBaiJ_ExZViesrDyhbnNNwrKFdNMigxPqIzRUzrMjy-c6d756hX3mGXPODjgvl36RQcZKqL5BaDbmM2BpIkXfR0IGx6uASUCz7pk0NEi85gHmItltRN3OUUqfp4qZG2Zmnpgx8kzc9971CoN5r2VrTMSlslmkq7HhAmIZzFgjBqAFJTsZyLFB3qsiVT9-l7ja41qU691f6Wok4L3mAXFGHno4AK1-3xTUhVR1W2dsBcOdvTYkmiCM41k8mah1KU6c2AVKxzWoYTSafkuZuvFmCRhJVLm9JQGBWFMFx4XK-2WSz_UYP7AHMnlHYsyg0schYod5u0BML8mEDZ0PSs2SQPAE5zNnv5g8geAo8zk-Z7zD0AUUrLm5e49HFk8ReCxQWWki_FEJhcyGWyYiOJ73BikiCIArZ-VCsQJ5xJB3CFSLCekEjFwBSAEw0WnGjnbJA6Mc3MEyuZb2ZSH9x71KU0xvyudXbrKhKu-bBkURxAdoKZIta6036tsadqI9kcdNqLSPnRon8IrZ0vT8B5bCFP_cJM0_736DtMPDdv-4voSzxdhT7J-gh95yZehj7OuYC-eYY-jj038WYHqZOJ9x59HLAL6Msn3msW-pmJ93X0sZ-jr3hcRfQdj6qEPuES-npCGX3LlXCYeOfRlzs4ou_fTjz26xMvBSHMlvL4i1bm5TEYblo36GFgPvFyfWaEo-dwxtm8o3avGIOGF955iu5-k239jqUH4V7_JmMGuoM6sWX6KK6EqOJDD-1gxbBdF_qVGPl6UHFtB1Yiq6Ks9UrkVQz891vZ2TpEQUWJQuQpoa0prru_JzzXRwylNFY8fBW3Rqv1YD1bfcffD71OYwn31G71OB_0qcFsrym8PpRje9wd7zqD_ou6eeS9kBv2F9qLoDpb8QXO-FuZvhlpdCDqS1mVXH35ML1dLF62z91-h56yC3r2slV6m--dOdWOtrfyzaTJr6bAch9b9rgjpfEEDLSm7UW8enTWYwInHECmRni-xuB-aDhgIiW_egpgYzBIG5h92OJ1hLtGRSyQ-ksg8Sa-ED46ItAUGQY7Rrtt1rUmRWmKYrQMaBCeGe43TKNGBGufqf2h-VAJ8Uko4Z_OL38__wPpL4sy",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ZEYlhXiczVbZcrJIFK6a63mN4cY_gqhRU0WlmkXFnfibxNxQLM0iYCuLxP_yf5a5moeZB5jHmCeYZjGC0cTMzcypgobTZ-_zcfj5u2uvnb9-taww3AR3JBnHcdVEyHRhVUMeqQT7tUYayA18zbo3XSYKiABFvgYZzfKRB6tIzRm2nrMIy2XgmtjvmDqhBQxFQJt5MkROaUYTsclZ9mg822-GcxrERGqfkVUlgCvs_nUVkDKJb85vdR6_VIMqXFdFuFXXXRo8bkCVpuh6dUoqHhYA_y0JLBBNvDoAmB_JsdK1FiULWwXcqb6QrQX-GCQ-RcCJ2c4l__PEaKLJsWnE-JoCYzVzevhpcpBaiJ_ExZViesrDyhbnNNwrKFdNMigxPqIzRUzrMjy-c6d756hX3mGXPODjgvl36RQcZKqL5BaDbmM2BpIkXfR0IGx6uASUCz7pk0NEi85gHmItltRN3OUUqfp4qZG2Zmnpgx8kzc9971CoN5r2VrTMSlslmkq7HhAmIZzFgjBqAFJTsZyLFB3qsiVT9-l7ja41qU691f6Wok4L3mAXFGHno4AK1-3xTUhVR1W2dsBcOdvTYkmiCM41k8mah1KU6c2AVKxzWoYTSafkuZuvFmCRhJVLm9JQGBWFMFx4XK-2WSz_UYP7AHMnlHYsyg0schYod5u0BML8mEDZ0PSs2SQPAE5zNnv5g8geAo8zk-Z7zD0AUUrLm5e49HFk8ReCxQWWki_FEJhcyGWyYiOJ73BikiCIArZ-VCsQJ5xJB3CFSLCekEjFwBSAEw0WnGjnbJA6Mc3MEyuZb2ZSH9x71KU0xvyudXbrKhKu-bBkURxAdoKZIta6036tsadqI9kcdNqLSPnRon8IrZ0vT8B5bCFP_cJM0_736DtMPDdv-4voSzxdhT7J-gh95yZehj7OuYC-eYY-jj038WYHqZOJ9x59HLAL6Msn3msW-pmJ93X0sZ-jr3hcRfQdj6qEPuES-npCGX3LlXCYeOfRlzs4ou_fTjz26xMvBSHMlvL4i1bm5TEYblo36GFgPvFyfWaEo-dwxtm8o3avGIOGF955iu5-k239jqUH4V7_JmMGuoM6sWX6KK6EqOJDD-1gxbBdF_qVGPl6UHFtB1Yiq6Ks9UrkVQz891vZ2TpEQUWJQuQpoa0prru_JzzXRwylNFY8fBW3Rqv1YD1bfcffD71OYwn31G71OB_0qcFsrym8PpRje9wd7zqD_ou6eeS9kBv2F9qLoDpb8QXO-FuZvhlpdCDqS1mVXH35ML1dLF62z91-h56yC3r2slV6m--dOdWOtrfyzaTJr6bAch9b9rgjpfEEDLSm7UW8enTWYwInHECmRni-xuB-aDhgIiW_egpgYzBIG5h92OJ1hLtGRSyQ-ksg8Sa-ED46ItAUGQY7Rrtt1rUmRWmKYrQMaBCeGe43TKNGBGufqf2h-VAJ8Uko4Z_OL38__wPpL4sy"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "I want to remove \"you knows,\" \"ums,\" etc. - what's the best ...",
+        "link": "https://www.reddit.com/r/premiere/comments/1g00y7r/i_want_to_remove_you_knows_ums_etc_whats_the_best/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESogEBxCJF14wwUHbatc6CfnELTxvnp1juvWSBwioQFL9i-qan0XgECECgAvWJc06Q9XfOG3soc_65E04f1Og6eABMw8mcwc3gFlYMQJ51bXjuZVKvb3zKc8N3sm64DeFOCr5RylAo8xpTRFT3Rwq7QZ1qXup40vsV9bOxCy1kNS4vyJeWN6n3E0f1BseZwTRioNAEoZbHFDskvryBh67HhFCvU0Y&ved=2ahUKEwjbnd2z25uYAxWQEGIAHUqJBMsQFnoECCwQAQ&uoh=1",
+        "displayed_link": "40+ comments",
+        "date": "2 years ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+        "snippet": "I want to remove \"you knows,\" \"ums,\" etc. - what's the best semi-automated way to do this? Two files became 574 clips when I did it manually.",
+        "snippet_highlighted_words": [
+          "remove",
+          "clips"
+        ],
+        "sitelinks": {
+          "list": [
+            {
+              "title": "Best way to remove filler words while still sounding natural",
+              "link": "https://www.google.com/goto?url=CAESngEBxCJF1_vEjlgUcmcSM9je7jbGcTzY6MMlB-aGSrlxgcJM9kFxu96PLXb5w4TyQXo2Q0nkb_KSg1i5v2f0LySpsptoO5_D4E4DRL363Oto939L1bV1vivlYdxTLeMhEYjTlh77nudeCDkPoRd5h62I6NcS-A9k8W9qCNcu13vhtJIc4kCuXEwc6tnRJbwvMe4COjq3DPgzgwlX3Kouww&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ",
+              "answer_count": 31,
+              "date": "Sep 18, 2025"
+            },
+            {
+              "title": "What is the easiest way to cut um uh and other filler words?",
+              "link": "https://www.google.com/goto?url=CAESpQEBxCJF1xQbDkxV9fKpnKThmIH-ioFsxiw6vUpX8ywK2HKVdqbAyy_s6dUo7Jksl0_NhlBU4lYMyitexOWvmxY3M60ANLq1a752ehL8aNBoGgfH8lHt2ptK1i4-yphMzy0IoQq4iY0qB-rU0ChOxynFwRJvYhf7tUy4gqoprSv_1VbiCjI4okRrWB89uRoZKjtB8nCeTw9VyeEfO-u7h_Y_ruSRHms&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ",
+              "answer_count": 28,
+              "date": "Feb 2, 2023"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "I want to remove \"you knows,\" \"ums,\" etc. - what's the best semi-automated way to do this? Two files became 574 clips when I did it manually.",
+            "source_info_link": "https://www.reddit.com/r/premiere/comments/1g00y7r/i_want_to_remove_you_knows_ums_etc_whats_the_best/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CukBL2dvdG8_dXJsPUNBRVNvZ0VCeENKRjF3RTZaSWNPX2dmYzM5T2pILWxIMnR1MER4RVFEQlNKTkw1WWZXVWNDVWlBX19DWWRRcWc0c1BZWl9WeDljZGtBazVTcjJTN3NyNTVvYVJuYUdSQ01WTUZRT2NSa3lVbkZONHJqQUZhQW9ZeWlzZDdRalA5MjNHbC1naEFYbVpROHFZbWJ6NnRpVGhlelMyekVGXzF2cnlHd0FPM3RHM21BLWVIYmdwc213dUQ5UUlYZEZxU1NLdDdIMmJaNEE3cS1qVzQtRFQwOGdER0o4MTlLUVUSBBoCCAAakwgSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA7wcIABAAGAAgACocCgNob3cVzD2OPxoHZ2V0IHJpZBoHcmVtb3ZlcioJCgJ0bxUAAAAAKngKBnJlbW92ZRVA5ktAGgZjYW5jZWwaBWNsZWFyGgZkZWxldGUaCGRlbGV0aW5nGgtkbyBpIGRlbGV0ZRoHZXh0cmFjdBoHZ2V0IHJpZBoHcmVtb3ZlchoIdGFrZSBvZmYaCHRha2Ugb3V0Ggx1bmluc3RhbGxpbmcqMAoGZmlsbGVyFX_WPT8aB2ZpbGxlcnMaC2ZpbGxlcndvcmRzGgtpdjtwO2ZpbGxlciorCgV3b3JkcxXVAUQ_GgdhbnRvbnltGgdzeW5vbnltGgtmaWxsZXJ3b3JkcyomCgRsaWtlFXx6MD4aB2FudG9ueW0aB3N1Y2ggYXMaB3N5bm9ueW0qHAoCdWgVapdHPhoDaHVoGgNvb2gaB2l2O3A7dWgqCgoDYW5kFQAAAAAqJwoCdW0VQnSFPhoTdW5pdmVyc2l0eSBvZiBtaWFtaRoHaXY7cDt1bSoLCgRmcm9tFQAAAAAqIAoGdmlkZW9zFYYJcj4aBWNsaXBzGgN2aWQaBXZpZGVvKiUKDWF1dG9tYXRpY2FsbHkVRntQPxoEYXV0bxoJYXV0b21hdGljMukBL2dvdG8_dXJsPUNBRVNvZ0VCeENKRjF3RTZaSWNPX2dmYzM5T2pILWxIMnR1MER4RVFEQlNKTkw1WWZXVWNDVWlBX19DWWRRcWc0c1BZWl9WeDljZGtBazVTcjJTN3NyNTVvYVJuYUdSQ01WTUZRT2NSa3lVbkZONHJqQUZhQW9ZeWlzZDdRalA5MjNHbC1naEFYbVpROHFZbWJ6NnRpVGhlelMyekVGXzF2cnlHd0FPM3RHM21BLWVIYmdwc213dUQ5UUlYZEZxU1NLdDdIMmJaNEE3cS1qVzQtRFQwOGdER0o4MTlLUVU6WnIvcHJlbWllcmUgb24gUmVkZGl0OiBJIHdhbnQgdG8gPGI-cmVtb3ZlPC9iPiAmcXVvdDt5b3Uga25vd3MsJnF1b3Q7ICZxdW90O3VtcywmcXVvdDsgZXRjLkKzAUkgd2FudCB0byA8Yj5yZW1vdmU8L2I-ICZxdW90O3lvdSBrbm93cywmcXVvdDsgJnF1b3Q7dW1zLCZxdW90OyBldGMuIC0gd2hhdCYjMzk7cyB0aGUgYmVzdCBzZW1pLWF1dG9tYXRlZCB3YXkgdG8gZG8gdGhpcz8gVHdvIGZpbGVzIGJlY2FtZSA1NzQgPGI-Y2xpcHM8L2I-IHdoZW4gSSBkaWQgaXQgbWFudWFsbHkuSgNhbmRKAnRvSgRmcm9tUgV2aWRlbyICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CukBL2dvdG8_dXJsPUNBRVNvZ0VCeENKRjF3RTZaSWNPX2dmYzM5T2pILWxIMnR1MER4RVFEQlNKTkw1WWZXVWNDVWlBX19DWWRRcWc0c1BZWl9WeDljZGtBazVTcjJTN3NyNTVvYVJuYUdSQ01WTUZRT2NSa3lVbkZONHJqQUZhQW9ZeWlzZDdRalA5MjNHbC1naEFYbVpROHFZbWJ6NnRpVGhlelMyekVGXzF2cnlHd0FPM3RHM21BLWVIYmdwc213dUQ5UUlYZEZxU1NLdDdIMmJaNEE3cS1qVzQtRFQwOGdER0o4MTlLUVUSBBoCCAAakwgSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA7wcIABAAGAAgACocCgNob3cVzD2OPxoHZ2V0IHJpZBoHcmVtb3ZlcioJCgJ0bxUAAAAAKngKBnJlbW92ZRVA5ktAGgZjYW5jZWwaBWNsZWFyGgZkZWxldGUaCGRlbGV0aW5nGgtkbyBpIGRlbGV0ZRoHZXh0cmFjdBoHZ2V0IHJpZBoHcmVtb3ZlchoIdGFrZSBvZmYaCHRha2Ugb3V0Ggx1bmluc3RhbGxpbmcqMAoGZmlsbGVyFX_WPT8aB2ZpbGxlcnMaC2ZpbGxlcndvcmRzGgtpdjtwO2ZpbGxlciorCgV3b3JkcxXVAUQ_GgdhbnRvbnltGgdzeW5vbnltGgtmaWxsZXJ3b3JkcyomCgRsaWtlFXx6MD4aB2FudG9ueW0aB3N1Y2ggYXMaB3N5bm9ueW0qHAoCdWgVapdHPhoDaHVoGgNvb2gaB2l2O3A7dWgqCgoDYW5kFQAAAAAqJwoCdW0VQnSFPhoTdW5pdmVyc2l0eSBvZiBtaWFtaRoHaXY7cDt1bSoLCgRmcm9tFQAAAAAqIAoGdmlkZW9zFYYJcj4aBWNsaXBzGgN2aWQaBXZpZGVvKiUKDWF1dG9tYXRpY2FsbHkVRntQPxoEYXV0bxoJYXV0b21hdGljMukBL2dvdG8_dXJsPUNBRVNvZ0VCeENKRjF3RTZaSWNPX2dmYzM5T2pILWxIMnR1MER4RVFEQlNKTkw1WWZXVWNDVWlBX19DWWRRcWc0c1BZWl9WeDljZGtBazVTcjJTN3NyNTVvYVJuYUdSQ01WTUZRT2NSa3lVbkZONHJqQUZhQW9ZeWlzZDdRalA5MjNHbC1naEFYbVpROHFZbWJ6NnRpVGhlelMyekVGXzF2cnlHd0FPM3RHM21BLWVIYmdwc213dUQ5UUlYZEZxU1NLdDdIMmJaNEE3cS1qVzQtRFQwOGdER0o4MTlLUVU6WnIvcHJlbWllcmUgb24gUmVkZGl0OiBJIHdhbnQgdG8gPGI-cmVtb3ZlPC9iPiAmcXVvdDt5b3Uga25vd3MsJnF1b3Q7ICZxdW90O3VtcywmcXVvdDsgZXRjLkKzAUkgd2FudCB0byA8Yj5yZW1vdmU8L2I-ICZxdW90O3lvdSBrbm93cywmcXVvdDsgJnF1b3Q7dW1zLCZxdW90OyBldGMuIC0gd2hhdCYjMzk7cyB0aGUgYmVzdCBzZW1pLWF1dG9tYXRlZCB3YXkgdG8gZG8gdGhpcz8gVHdvIGZpbGVzIGJlY2FtZSA1NzQgPGI-Y2xpcHM8L2I-IHdoZW4gSSBkaWQgaXQgbWFudWFsbHkuSgNhbmRKAnRvSgRmcm9tUgV2aWRlbyICEAFIAFgAaAA",
+        "source": "Reddit \u00b7 r/premiere",
+        "read_more_link": "https://www.google.com/goto?url=CAES6wEBxCJF16NzZIwTWWiFp8Up_cYZtjStE50sZ0SuMmgrfM7ZnoRmcyIEv82-E7FemnqN2A6E7IE5PYYShCxofDb0hpGdggW35FgVFSsi8dPSO-BUi-TI9vbEChsmSEgTI4BVTBsP48Ye5XwC-g5jYIu8HwjCflo48BYbF7ZBKGFbVkJKEBefgJOy5gb5_Zr37iaBysa7BJKdjq-n3unGL5xW-Iiq5C6_AqaD9qEv47TnBRV2nNSH0e3KTisHN6iJPvOLWR0-689v_1lZr09zHHcNDBBMu4jHg8UfXBz2-F2e9xA61iij9PS4nF4X&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ"
+      },
+      {
+        "position": 2,
+        "title": "Remove Filler Words Automatically with AI Tool",
+        "link": "https://www.capcut.com/tools/filler-words",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHEIkXXMbWSgAAE6eIkUisQCCKOez2fEgUFAZwTza5XMlFUMiH9UsqhuyJhhpLh77qJ_QUk72aW85mlbZV7e-ATbHKi4U04Rd82KVk08ukiROpEE3YVYtgjKPN6D5stS5J3JHGT1Q&ved=2ahUKEwjbnd2z25uYAxWQEGIAHUqJBMsQFnoECCkQAQ&uoh=1",
+        "displayed_link": "https://www.capcut.com \u203a Blog \u203a Tools \u203a Video",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcEz____________________________BwcO3uLr4-Pnw8fFZW18AAAQ6O0Df4OFub3MNERmFh4qjpKUiJCqYmZvV1daUlZfK1BmrAAAACHRSTlMAPqvf9f8CpNtoUgAAAADASURBVHgBfdNHAoQgDEBRW2z0fv-bDsmowBT-kmc3DLlxmhdoWuZpHLB1g59ta8bWas3XhL-Nw_Qfp2H-j_OwALYfpf0EAIbPPJBxUSdBaY3LhMyIJi1Eg_a-8O48ui2IRyvAzmDwwhEePLUgziSQdiJEKnJiiXQAFKxZ-EIV7pLQWFZjIZ84emINns_iddBZIasWiI07m4_gwjsXUMX_z5d8haAb43CmNy6kKpbUM2bdn90dk-6A9UazP9Td7fACojcXjcSiOhoAAAAASUVORK5CYII.png",
+        "snippet": "CapCut's smart auto caption automatically detects and removes common filler words such as \"um,\" \"uh,\" \"like,\" and \"you know.\"",
+        "snippet_highlighted_words": [
+          "automatically detects and removes common filler words"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "CapCut's smart auto caption automatically detects and removes common filler words such as \"um,\" \"uh,\" \"like,\" and \"you know.\"",
+            "source_info_link": "https://www.capcut.com/tools/filler-words",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcEz____________________________BwcO3uLr4-Pnw8fFZW18AAAQ6O0Df4OFub3MNERmFh4qjpKUiJCqYmZvV1daUlZfK1BmrAAAACHRSTlMAPqvf9f8CpNtoUgAAAADASURBVHgBfdNHAoQgDEBRW2z0fv-bDsmowBT-kmc3DLlxmhdoWuZpHLB1g59ta8bWas3XhL-Nw_Qfp2H-j_OwALYfpf0EAIbPPJBxUSdBaY3LhMyIJi1Eg_a-8O48ui2IRyvAzmDwwhEePLUgziSQdiJEKnJiiXQAFKxZ-EIV7pLQWFZjIZ84emINns_iddBZIasWiI07m4_gwjsXUMX_z5d8haAb43CmNy6kKpbUM2bdn90dk-6A9UazP9Td7fACojcXjcSiOhoAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hFSWtYWHhpNE9ROUJsWXY1TDVzLUVWNUlHREsyV3RvSTVhVGlZT1d1UVI2UFRHd0hud3h1eXVsRmVpaUw3ZDh0ZWdVbFdpejk5ZG5Bd1VVMHg3LXBPNUZfVnlpSlVwZmlHUktvQXZZU2Uzd19OUDlJLVhfN1FQdTh6eTdIemNwSExYSWd3ZFESBBoCCAAapQcSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD_BggAEAAYACAAKhwKA2hvdxXKor4_GgdnZXQgcmlkGgdyZW1vdmVyKgkKAnRvFQAAAAAqeAoGcmVtb3ZlFcZwnkAaBmNhbmNlbBoFY2xlYXIaBmRlbGV0ZRoIZGVsZXRpbmcaC2RvIGkgZGVsZXRlGgdleHRyYWN0GgdnZXQgcmlkGgdyZW1vdmVyGgh0YWtlIG9mZhoIdGFrZSBvdXQaDHVuaW5zdGFsbGluZyowCgZmaWxsZXIV6AUAQRoHZmlsbGVycxoLZmlsbGVyd29yZHMaC2l2O3A7ZmlsbGVyKisKBXdvcmRzFc_s4EAaB2FudG9ueW0aB3N5bm9ueW0aC2ZpbGxlcndvcmRzKiYKBGxpa2UVc_ejPxoHYW50b255bRoHc3VjaCBhcxoHc3lub255bSocCgJ1aBUaAno_GgNodWgaA29vaBoHaXY7cDt1aCoKCgNhbmQVAAAAAConCgJ1bRUjCmQ_GhN1bml2ZXJzaXR5IG9mIG1pYW1pGgdpdjtwO3VtKgsKBGZyb20VAAAAACogCgZ2aWRlb3MVHxZMQBoFY2xpcHMaA3ZpZBoFdmlkZW8qJQoNYXV0b21hdGljYWxseRVU14xAGgRhdXRvGglhdXRvbWF0aWMymAEvZ290bz91cmw9Q0FFU1pnSEVJa1hYeGk0T1E5QmxZdjVMNXMtRVY1SUdESzJXdG9JNWFUaVlPV3VRUjZQVEd3SG53eHV5dWxGZWlpTDdkOHRlZ1VsV2l6OTlkbkF3VVUweDctcE81Rl9WeWlKVXBmaUdSS29BdllTZTN3X05QOUktWF83UVB1OHp5N0h6Y3BITFhJZ3dkUTo-PGI-UmVtb3ZlIEZpbGxlciBXb3JkcyBBdXRvbWF0aWNhbGx5PC9iPiB3aXRoIEFJIFRvb2wgLSBDYXBDdXRCsAFDYXBDdXQmIzM5O3Mgc21hcnQgYXV0byBjYXB0aW9uIDxiPmF1dG9tYXRpY2FsbHkgZGV0ZWN0cyBhbmQgcmVtb3ZlcyBjb21tb24gZmlsbGVyIHdvcmRzPC9iPiBzdWNoIGFzICZxdW90O3VtLCZxdW90OyAmcXVvdDt1aCwmcXVvdDsgJnF1b3Q7bGlrZSwmcXVvdDsgYW5kICZxdW90O3lvdSBrbm93LiZxdW90O0oEZnJvbUoCdG9KA2FuZFIFdmlkZW8iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hFSWtYWHhpNE9ROUJsWXY1TDVzLUVWNUlHREsyV3RvSTVhVGlZT1d1UVI2UFRHd0hud3h1eXVsRmVpaUw3ZDh0ZWdVbFdpejk5ZG5Bd1VVMHg3LXBPNUZfVnlpSlVwZmlHUktvQXZZU2Uzd19OUDlJLVhfN1FQdTh6eTdIemNwSExYSWd3ZFESBBoCCAAapQcSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD_BggAEAAYACAAKhwKA2hvdxXKor4_GgdnZXQgcmlkGgdyZW1vdmVyKgkKAnRvFQAAAAAqeAoGcmVtb3ZlFcZwnkAaBmNhbmNlbBoFY2xlYXIaBmRlbGV0ZRoIZGVsZXRpbmcaC2RvIGkgZGVsZXRlGgdleHRyYWN0GgdnZXQgcmlkGgdyZW1vdmVyGgh0YWtlIG9mZhoIdGFrZSBvdXQaDHVuaW5zdGFsbGluZyowCgZmaWxsZXIV6AUAQRoHZmlsbGVycxoLZmlsbGVyd29yZHMaC2l2O3A7ZmlsbGVyKisKBXdvcmRzFc_s4EAaB2FudG9ueW0aB3N5bm9ueW0aC2ZpbGxlcndvcmRzKiYKBGxpa2UVc_ejPxoHYW50b255bRoHc3VjaCBhcxoHc3lub255bSocCgJ1aBUaAno_GgNodWgaA29vaBoHaXY7cDt1aCoKCgNhbmQVAAAAAConCgJ1bRUjCmQ_GhN1bml2ZXJzaXR5IG9mIG1pYW1pGgdpdjtwO3VtKgsKBGZyb20VAAAAACogCgZ2aWRlb3MVHxZMQBoFY2xpcHMaA3ZpZBoFdmlkZW8qJQoNYXV0b21hdGljYWxseRVU14xAGgRhdXRvGglhdXRvbWF0aWMymAEvZ290bz91cmw9Q0FFU1pnSEVJa1hYeGk0T1E5QmxZdjVMNXMtRVY1SUdESzJXdG9JNWFUaVlPV3VRUjZQVEd3SG53eHV5dWxGZWlpTDdkOHRlZ1VsV2l6OTlkbkF3VVUweDctcE81Rl9WeWlKVXBmaUdSS29BdllTZTN3X05QOUktWF83UVB1OHp5N0h6Y3BITFhJZ3dkUTo-PGI-UmVtb3ZlIEZpbGxlciBXb3JkcyBBdXRvbWF0aWNhbGx5PC9iPiB3aXRoIEFJIFRvb2wgLSBDYXBDdXRCsAFDYXBDdXQmIzM5O3Mgc21hcnQgYXV0byBjYXB0aW9uIDxiPmF1dG9tYXRpY2FsbHkgZGV0ZWN0cyBhbmQgcmVtb3ZlcyBjb21tb24gZmlsbGVyIHdvcmRzPC9iPiBzdWNoIGFzICZxdW90O3VtLCZxdW90OyAmcXVvdDt1aCwmcXVvdDsgJnF1b3Q7bGlrZSwmcXVvdDsgYW5kICZxdW90O3lvdSBrbm93LiZxdW90O0oEZnJvbUoCdG9KA2FuZFIFdmlkZW8iAhABSABYAGgA",
+        "source": "CapCut"
+      },
+      {
+        "position": 3,
+        "title": "Cleaning up \u201cum,\u201d \u201cuh,\u201d and other filler words can get repetitive, ...",
+        "link": "https://www.google.com/goto?url=CAESywEBxCJF17eBbsv-bkv1u0DAEu3DwiQNFAKPDd2UxUyUVQsAcfe3Dg9M3cSjW5dTcYLViU8fWivJQZ5nv-WvFR0F0hkV7x1lK-IkeL15Uk8KGVY1cOlXZ5Npx4ObVb-uktMZCv3FtfSiMHxtxWczwdgyen0rTnPjeoKeNP4xvIIq_poFWKcyZyaJ6zzsKB_ICv9T8rsEZ30bgQTZxahE_XsD8bSKUh0vCh4kVKwFlnBqR6aYNlRcG-P9rJtRaYtpBN_44e-xiieP9lwK_w&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ",
+        "displayed_link": "5 reactions",
+        "date": "3 weeks ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f258a97f527a84f4ccc7/images/5SUClU0Bm3wSI1TxYHUyOQXCdQ_lAoXa4g65oyqR17Y.webp",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+        "snippet": "The process involves using the Premiere Pro's text-based editing panel to automatically remove words like \"umm,\" \"uhh,\" and \"like,\" and then ...",
+        "duration": "0:06",
+        "about_this_result": {
+          "source": {
+            "description": "The process involves using the Premiere Pro's text-based editing panel to automatically remove words like \"umm,\" \"uhh,\" and \"like,\" and then  ...",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqACL2dvdG8_dXJsPUNBRVN5d0VCeENKRjE3ZUJic3YtYmt2MXUwREFFdTNEd2lRTkZBS1BEZDJVeFV5VVZRc0FjZmUzRGc5TTNjU2pXNWRUY1lMVmlVOGZXaXZKUVo1bnYtV3ZGUjBGMGhrVjd4MWxLLUlrZUwxNVVrOEtHVlkxY09sWFo1TnB4NE9iVmItdWt0TVpDdjNGdGZTaU1IeHR4V2N6d2RneWVuMHJUblBqZW9LZU5QNHh2SUlxX3BvRldLY3laeWFKNnp6c0tCX0lDdjlUOHJzRVozMGJnUVRaeGFoRV9Yc0Q4YlNLVWgwdkNoNGtWS3dGbG5CcVI2YVlObFJjRy1QOXJKdFJhWXRwQk5fNDRlLXhpaWVQOWx3S193EhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqACL2dvdG8_dXJsPUNBRVN5d0VCeENKRjE3ZUJic3YtYmt2MXUwREFFdTNEd2lRTkZBS1BEZDJVeFV5VVZRc0FjZmUzRGc5TTNjU2pXNWRUY1lMVmlVOGZXaXZKUVo1bnYtV3ZGUjBGMGhrVjd4MWxLLUlrZUwxNVVrOEtHVlkxY09sWFo1TnB4NE9iVmItdWt0TVpDdjNGdGZTaU1IeHR4V2N6d2RneWVuMHJUblBqZW9LZU5QNHh2SUlxX3BvRldLY3laeWFKNnp6c0tCX0lDdjlUOHJzRVozMGJnUVRaeGFoRV9Yc0Q4YlNLVWgwdkNoNGtWS3dGbG5CcVI2YVlObFJjRy1QOXJKdFJhWXRwQk5fNDRlLXhpaWVQOWx3S193EhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "source": "Facebook \u00b7 Buzzsprout"
+      },
+      {
+        "position": 4,
+        "title": "How to INSTANTLY Remove Ums & Uhs from Your Videos & ...",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXkkUVxo-pLzhoQ0HjJPoxh_-fL9F2vRU3LeAzMlxP7A_Gux6PZ16duldZ9m36FAjvc9bTwhpLDICPCjSpFA36KzCtEpqOK3HdliPdsRbn9qJqnuj8k7TLjD2HFv0HJFNbkMg6&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ",
+        "displayed_link": "65.2K+ views",
+        "date": "5 years ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f258a97f527a84f4ccc7/images/5SUClU0Bm3wSI1TxYHUyOcV47Te9TYW1BYgM-f_-Isw.webp",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "In an instant, you can remove filler words from your videos, with just a single click of a button. The tool is called Descript,",
+        "duration": "9:46",
+        "key_moments": [
+          {
+            "time": "00:01",
+            "title": "Intro",
+            "link": "https://www.google.com/goto?url=CAESbAHEIkXXxi8zzbMbxMoL94Nif8yRh8q6C5Rfrvlerx690cayMOxXSoCkEdwixDvwygPhqsglahqMfsYp8peOS26BUqCqg7_vLBdHuBzF2EgRpkuQ41GSqKOGDW5hiU3XEna_57p_Tbm-4WKdXQ&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ"
+          },
+          {
+            "time": "01:09",
+            "title": "What is Descript?",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXXQD5g16QIuR7-BNBV9mEYExoNNWskgjcLz_opTWB2pql3YAVppp_6J-2dKyIcdWdXOtVS5oLFJnN5sbjrDHELxYe3-vifYOOW0TWQQqM2ZEYBZ7uLZEFZdewnx69bESiXm4NMX_UNbEg&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ"
+          },
+          {
+            "time": "02:00",
+            "title": "How to remove filler words in real time",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXcPg86tqege5ZTXuVHQUTQJU8NS-h3qOHS6LhyQEhjgqn7PH3ob_zb8fKJFqMJQHlUSZ9NhQdgNYaEpoZUZOZMJgbBSoHBU8DOi61O5X4aLvMlD2nn8GVKKNU3wwcgeUhwq06UzH9NWhA&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ"
+          },
+          {
+            "time": "03:15",
+            "title": "Recording Example",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXVatTy1mTiWfBNPWS0cNgm3HtRscUPL2OjAx2u5enADAGDf1mSMEWyrqBJlm8msl2F4QV_He9iJ8JChQgCK6xW88UbP2WDfsraClBlAUvvFQ8FWb4u0-n9uxJCVO_X2M-i3qdvdibjZxo&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ"
+          },
+          {
+            "time": "04:04",
+            "title": "Wrap up",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXpHJ_db_nBWrDCP73LYDxhvDAcwmlnzjC55hEYmwq1xiDjQt43M1X6t3C3KcjZaXxe73ewYNzm0Q-tJeurMVEXtvmZ-l6uDLvs893c7vujR7D_-5xG8U_9yulfbe6zQdXV0uMYoQl5zda&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ"
+          },
+          {
+            "time": "04:39",
+            "title": "Adding Text to the Video",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXX7woUWUmljtCuOy--1zHBBD7udVj4jZhvODeS8BHqtPfSfNQemF1CvfyoETk4qcE8C00SMU7eeKnyQl9fejCG_geBKA1X4L3Wc4QXNpYmF6ULdOEOMxROrkEC0Vlj0z9Eqk0X0Nq_HY5k&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ"
+          },
+          {
+            "time": "05:11",
+            "title": "Adding Text to Timeline",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXaA9w2NY6_4sNQq2QglOVmH-9EI-jkeW-uxq5SadN6QW2aBbQ7hAmZoiiUltdJBB4GMJoEwSZWuK_oWRXrIY6j6zpWCHtkfmqTne5chWNdInLQoQhd3rfXJxClbK6_c9p5c0WNeNtf5lF&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ"
+          },
+          {
+            "time": "06:03",
+            "title": "Demo",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXIiXXfrQ2Zim5whD5nK6zU6N_LY2YYWEZ8RTVaOMc1ZTUwTPMZiAs_FWYxmXUPL_Kp9JA2yQ_eEdCygBu6CGTfo0SpXUiN9JnN2Hv4xQy5WYlNcjjpqHqZiafryrXA6uShZFHVzOymo9A&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ"
+          },
+          {
+            "time": "07:04",
+            "title": "How to Mute Audio",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXSvo6q_4q1mInSMYxN5UYIaCLu6Wz9P6x63_0lsIVYBv7DX-eh6Dn1zEH1lxm_QZsoM6CPRij6h0FhB4deOlhEnsRImyuzHGR8XRy-6b25qmB7m1TBHcCmyEKP_0dfk0wmwkgBWDUO_uN&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ"
+          },
+          {
+            "time": "08:59",
+            "title": "Podcast Editing",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXFGe6kyvK_UTpzsCJqFIJcAtiXA7qA8eWx0aN6k1crrTML1s6BiyoJKsvy0oS--tvKe2YhYx4uaMtugijJbYFWy0qXwz5xVBGPfD1-joyoda3YFsnURN3n5mBh-7roFqAk4pex-CYeyOx&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ"
+          }
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "In an instant, you can remove filler words from your videos, with just a single click of a button. The tool is called Descript",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWGtrVVZ4by1wTHpob1EwSGpKUG94aF8tZkw5RjJ2UlUzTGVBek1seFA3QV9HdXg2UFoxNmR1bGRaOW0zNkZBanZjOWJUd2hwTERJQ1BDalNwRkEzNkt6Q3RFcHFPSzNIZGxpUGRzUmJuOXFKcW51ajhrN1RMakQySEZ2MEhKRk5ia01nNhIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWGtrVVZ4by1wTHpob1EwSGpKUG94aF8tZkw5RjJ2UlUzTGVBek1seFA3QV9HdXg2UFoxNmR1bGRaOW0zNkZBanZjOWJUd2hwTERJQ1BDalNwRkEzNkt6Q3RFcHFPSzNIZGxpUGRzUmJuOXFKcW51ajhrN1RMakQySEZ2MEhKRk5ia01nNhIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "source": "YouTube \u00b7 Pat Flynn"
+      },
+      {
+        "position": 5,
+        "title": "Remove Filler Words from Video Automatically",
+        "link": "https://www.google.com/goto?url=CAEScAHEIkXXQpr_8296wTm4K7SJjdK7UTrhPVm68J3OpnofKoNhJULx_05oYfPyNXwXXdqJ3GBWqj5VIigw3JrFWZ5eiR9ylJRcHRWBjCXOnx-xTV2nHrKX-fsIu4wuqVv2r78L5Ch3EU5sk8vG6ArUb6Q",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHEIkXXuqpC9Buw8LeU96kKtSSEszcsXKrgjmybYzNF8M12iFDNFemVmpW1HTjQhE51FIuXq5jMiLNCbbqHPdDT-A3kaCm8zNfeToeWn_92OVbmcTjhdP_nDaVcGy6-DRutdWmwkY7-GlU-uyWe850&ved=2ahUKEwjbnd2z25uYAxWQEGIAHUqJBMsQFnoECEYQAQ&uoh=1",
+        "displayed_link": "https://captions.ai \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAVFBMVEUdHyAUFhgAAAQAAABcXl-jpqe_w8PO0tPY3N1hY2Srrq_i5uf4_P2ztrfJzM3u8vP1-fpmaGn____7___3-_xXWVoYGhtucHGeoKEuMDE3OTrQ1NS-acNRAAAAh0lEQVR4Ac2RxQGEMBAACRB3t_7rPHchX-Y76zvtFzAvF2bww60QYUIwgvTLgoVxcYHL5cMulCmuzRmumF3eHHJeBHMhCO_wqwVRhZO72YBf26Yl5ULumRzmaUkPV5Xz_pnpT3Xb3S7cmw-8XsZyUPb3QONVfh9hfL7x4e8v64T0-8vGz94bR1C_D2d3LUQyAAAAAElFTkSuQmCC.png",
+        "date": "Jul 24, 2026",
+        "snippet": "Filler words can reduce video watch time. Here's how to cut ums, pauses and other filler words for cleaner, more engaging videos.",
+        "snippet_highlighted_words": [
+          "Here's how to cut ums, pauses and other filler words"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Filler words can reduce video watch time. Here's how to cut ums, pauses and other filler words for cleaner, more engaging videos.",
+            "source_info_link": "https://www.google.com/goto?url=CAEScAHEIkXXQpr_8296wTm4K7SJjdK7UTrhPVm68J3OpnofKoNhJULx_05oYfPyNXwXXdqJ3GBWqj5VIigw3JrFWZ5eiR9ylJRcHRWBjCXOnx-xTV2nHrKX-fsIu4wuqVv2r78L5Ch3EU5sk8vG6ArUb6Q",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAVFBMVEUdHyAUFhgAAAQAAABcXl-jpqe_w8PO0tPY3N1hY2Srrq_i5uf4_P2ztrfJzM3u8vP1-fpmaGn____7___3-_xXWVoYGhtucHGeoKEuMDE3OTrQ1NS-acNRAAAAh0lEQVR4Ac2RxQGEMBAACRB3t_7rPHchX-Y76zvtFzAvF2bww60QYUIwgvTLgoVxcYHL5cMulCmuzRmumF3eHHJeBHMhCO_wqwVRhZO72YBf26Yl5ULumRzmaUkPV5Xz_pnpT3Xb3S7cmw-8XsZyUPb3QONVfh9hfL7x4e8v64T0-8vGz94bR1C_D2d3LUQyAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUBL2dvdG8_dXJsPUNBRVNjQUhFSWtYWFFwcl84Mjk2d1RtNEs3U0pqZEs3VVRyaFBWbTY4SjNPcG5vZktvTmhKVUx4XzA1b1lmUHlOWHdYWGRxSjNHQldxajVWSWlndzNKckZXWjVlaVI5eWxKUmNIUldCakNYT254LXhUVjJuSHJLWC1mc0l1NHd1cVZ2MnI3OEw1Q2gzRVU1c2s4dkc2QXJVYjZREgQaAggAGpoHEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA9AYIABAAGAAgACocCgNob3cVMAWGQBoHZ2V0IHJpZBoHcmVtb3ZlcioJCgJ0bxUAAAAAKngKBnJlbW92ZRUyMchAGgZjYW5jZWwaBWNsZWFyGgZkZWxldGUaCGRlbGV0aW5nGgtkbyBpIGRlbGV0ZRoHZXh0cmFjdBoHZ2V0IHJpZBoHcmVtb3ZlchoIdGFrZSBvZmYaCHRha2Ugb3V0Ggx1bmluc3RhbGxpbmcqMAoGZmlsbGVyFaGvBkEaB2ZpbGxlcnMaC2ZpbGxlcndvcmRzGgtpdjtwO2ZpbGxlciorCgV3b3JkcxUPfQZBGgdhbnRvbnltGgdzeW5vbnltGgtmaWxsZXJ3b3JkcyomCgRsaWtlFSL4EUAaB2FudG9ueW0aB3N1Y2ggYXMaB3N5bm9ueW0qHAoCdWgVxDoVQBoDaHVoGgNvb2gaB2l2O3A7dWgqCgoDYW5kFQAAAAAqJwoCdW0V01onQBoTdW5pdmVyc2l0eSBvZiBtaWFtaRoHaXY7cDt1bSoLCgRmcm9tFQAAAAAqIAoGdmlkZW9zFUGMfUAaBWNsaXBzGgN2aWQaBXZpZGVvKiUKDWF1dG9tYXRpY2FsbHkVYUKFQBoEYXV0bxoJYXV0b21hdGljMqUBL2dvdG8_dXJsPUNBRVNjQUhFSWtYWFFwcl84Mjk2d1RtNEs3U0pqZEs3VVRyaFBWbTY4SjNPcG5vZktvTmhKVUx4XzA1b1lmUHlOWHdYWGRxSjNHQldxajVWSWlndzNKckZXWjVlaVI5eWxKUmNIUldCakNYT254LXhUVjJuSHJLWC1mc0l1NHd1cVZ2MnI3OEw1Q2gzRVU1c2s4dkc2QXJVYjZROko8Yj5SZW1vdmUgRmlsbGVyIFdvcmRzPC9iPiBmcm9tIDxiPlZpZGVvIEF1dG9tYXRpY2FsbHk8L2I-OiBUaXBzIGFuZCBUb29sc0KMAUZpbGxlciB3b3JkcyBjYW4gcmVkdWNlIHZpZGVvIHdhdGNoIHRpbWUuIDxiPkhlcmUmIzM5O3MgaG93IHRvIGN1dCB1bXMsIHBhdXNlcyBhbmQgb3RoZXIgZmlsbGVyIHdvcmRzPC9iPiBmb3IgY2xlYW5lciwgbW9yZSBlbmdhZ2luZyB2aWRlb3MuSgRmcm9tSgJ0b0oDYW5kUgV2aWRlbyICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUBL2dvdG8_dXJsPUNBRVNjQUhFSWtYWFFwcl84Mjk2d1RtNEs3U0pqZEs3VVRyaFBWbTY4SjNPcG5vZktvTmhKVUx4XzA1b1lmUHlOWHdYWGRxSjNHQldxajVWSWlndzNKckZXWjVlaVI5eWxKUmNIUldCakNYT254LXhUVjJuSHJLWC1mc0l1NHd1cVZ2MnI3OEw1Q2gzRVU1c2s4dkc2QXJVYjZREgQaAggAGpoHEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA9AYIABAAGAAgACocCgNob3cVMAWGQBoHZ2V0IHJpZBoHcmVtb3ZlcioJCgJ0bxUAAAAAKngKBnJlbW92ZRUyMchAGgZjYW5jZWwaBWNsZWFyGgZkZWxldGUaCGRlbGV0aW5nGgtkbyBpIGRlbGV0ZRoHZXh0cmFjdBoHZ2V0IHJpZBoHcmVtb3ZlchoIdGFrZSBvZmYaCHRha2Ugb3V0Ggx1bmluc3RhbGxpbmcqMAoGZmlsbGVyFaGvBkEaB2ZpbGxlcnMaC2ZpbGxlcndvcmRzGgtpdjtwO2ZpbGxlciorCgV3b3JkcxUPfQZBGgdhbnRvbnltGgdzeW5vbnltGgtmaWxsZXJ3b3JkcyomCgRsaWtlFSL4EUAaB2FudG9ueW0aB3N1Y2ggYXMaB3N5bm9ueW0qHAoCdWgVxDoVQBoDaHVoGgNvb2gaB2l2O3A7dWgqCgoDYW5kFQAAAAAqJwoCdW0V01onQBoTdW5pdmVyc2l0eSBvZiBtaWFtaRoHaXY7cDt1bSoLCgRmcm9tFQAAAAAqIAoGdmlkZW9zFUGMfUAaBWNsaXBzGgN2aWQaBXZpZGVvKiUKDWF1dG9tYXRpY2FsbHkVYUKFQBoEYXV0bxoJYXV0b21hdGljMqUBL2dvdG8_dXJsPUNBRVNjQUhFSWtYWFFwcl84Mjk2d1RtNEs3U0pqZEs3VVRyaFBWbTY4SjNPcG5vZktvTmhKVUx4XzA1b1lmUHlOWHdYWGRxSjNHQldxajVWSWlndzNKckZXWjVlaVI5eWxKUmNIUldCakNYT254LXhUVjJuSHJLWC1mc0l1NHd1cVZ2MnI3OEw1Q2gzRVU1c2s4dkc2QXJVYjZROko8Yj5SZW1vdmUgRmlsbGVyIFdvcmRzPC9iPiBmcm9tIDxiPlZpZGVvIEF1dG9tYXRpY2FsbHk8L2I-OiBUaXBzIGFuZCBUb29sc0KMAUZpbGxlciB3b3JkcyBjYW4gcmVkdWNlIHZpZGVvIHdhdGNoIHRpbWUuIDxiPkhlcmUmIzM5O3MgaG93IHRvIGN1dCB1bXMsIHBhdXNlcyBhbmQgb3RoZXIgZmlsbGVyIHdvcmRzPC9iPiBmb3IgY2xlYW5lciwgbW9yZSBlbmdhZ2luZyB2aWRlb3MuSgRmcm9tSgJ0b0oDYW5kUgV2aWRlbyICEAFIAFgAaAA",
+        "source": "Captions"
+      },
+      {
+        "position": 6,
+        "title": "AI Filler Word Remover: Cut the Ums & Uhs",
+        "link": "https://www.google.com/goto?url=CAESYAHEIkXXiQcqkRo7dhRZ5bzJ_FMo_JUyODiVJB0uxanRfov7N26y64kZpU4ByBwRboHJF245jh0wUGi1-zIIQOFuvqowdp190VUf3eLAGv6oAesMpIMmtoPcVtmJsOWMzQ",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHEIkXXA7IqK7GJyrBRnjEJdNmiwxwsgf1MPeS4lWUj948vvPs47kzYDQkFiYr5BY-ALt7ZsjhtYF5FNlwe6zvlo0MUfiS3fRILkzdnSpZaIir5BrWx2ECq4Tdjc1UafA&ved=2ahUKEwjbnd2z25uYAxWQEGIAHUqJBMsQFnoECEoQAQ&uoh=1",
+        "displayed_link": "https://cleanvoice.ai \u203a filler-words",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAWlBMVEX____4-P6Xl_isrPnV1fyNjffZ2fy4uPohIfMUFPPn5_1VVfUqKvNbW_UvL_QoKPM2NvRiYvX6-v_Jyfv29v7Pz_t7e_ccHPNOTvVzc_ZBQfTu7v4xMfSiovkNznXsAAAAaElEQVR4AdVRgxHAQBCMbbP_MsM3h8ENzto1fimmZUPTcT0m6QdhBMw4SdlklsNkWpQ4XtUNTEYtSrZ3bdcPINmEoQ-SdhhWZ3IsJpCc88UGyXXJG1XSfCHZaF-RgaCHTw98xVD2Q9kBjkkMXC_d17QAAAAASUVORK5CYII.png",
+        "snippet": "Upload your audio or video file to Cleanvoice, turn on filler-word removal and start. The AI finds and cuts the fillers, and you download the edited file ...",
+        "snippet_highlighted_words": [
+          "Upload your audio or video file to Cleanvoice"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Upload your audio or video file to Cleanvoice, turn on filler-word removal and start. The AI finds and cuts the fillers, and you download the edited file ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESYAHEIkXXiQcqkRo7dhRZ5bzJ_FMo_JUyODiVJB0uxanRfov7N26y64kZpU4ByBwRboHJF245jh0wUGi1-zIIQOFuvqowdp190VUf3eLAGv6oAesMpIMmtoPcVtmJsOWMzQ",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAWlBMVEX____4-P6Xl_isrPnV1fyNjffZ2fy4uPohIfMUFPPn5_1VVfUqKvNbW_UvL_QoKPM2NvRiYvX6-v_Jyfv29v7Pz_t7e_ccHPNOTvVzc_ZBQfTu7v4xMfSiovkNznXsAAAAaElEQVR4AdVRgxHAQBCMbbP_MsM3h8ENzto1fimmZUPTcT0m6QdhBMw4SdlklsNkWpQ4XtUNTEYtSrZ3bdcPINmEoQ-SdhhWZ3IsJpCc88UGyXXJG1XSfCHZaF-RgaCHTw98xVD2Q9kBjkkMXC_d17QAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhFSWtYWGlRY3FrUm83ZGhSWjViekpfRk1vX0pVeU9EaVZKQjB1eGFuUmZvdjdOMjZ5NjRrWnBVNEJ5QndSYm9ISkYyNDVqaDB3VUdpMS16SUlRT0Z1dnFvd2RwMTkwVlVmM2VMQUd2Nm9BZXNNcElNbXRvUGNWdG1Kc09XTXpREgQaAggAGqMHEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA_QYIABAAGAAgACocCgNob3cV0YHXPxoHZ2V0IHJpZBoHcmVtb3ZlcioJCgJ0bxUAAAAAKngKBnJlbW92ZRVbXxtAGgZjYW5jZWwaBWNsZWFyGgZkZWxldGUaCGRlbGV0aW5nGgtkbyBpIGRlbGV0ZRoHZXh0cmFjdBoHZ2V0IHJpZBoHcmVtb3ZlchoIdGFrZSBvZmYaCHRha2Ugb3V0Ggx1bmluc3RhbGxpbmcqMAoGZmlsbGVyFWRFy0AaB2ZpbGxlcnMaC2ZpbGxlcndvcmRzGgtpdjtwO2ZpbGxlciorCgV3b3JkcxUetIdAGgdhbnRvbnltGgdzeW5vbnltGgtmaWxsZXJ3b3JkcyomCgRsaWtlFQPzuj8aB2FudG9ueW0aB3N1Y2ggYXMaB3N5bm9ueW0qHAoCdWgVTO4UPxoDaHVoGgNvb2gaB2l2O3A7dWgqCgoDYW5kFQAAAAAqJwoCdW0VdDGFPxoTdW5pdmVyc2l0eSBvZiBtaWFtaRoHaXY7cDt1bSoLCgRmcm9tFQAAAAAqIAoGdmlkZW9zFQAAAAAaBWNsaXBzGgN2aWQaBXZpZGVvKiUKDWF1dG9tYXRpY2FsbHkVAAAAABoEYXV0bxoJYXV0b21hdGljMpABL2dvdG8_dXJsPUNBRVNZQUhFSWtYWGlRY3FrUm83ZGhSWjViekpfRk1vX0pVeU9EaVZKQjB1eGFuUmZvdjdOMjZ5NjRrWnBVNEJ5QndSYm9ISkYyNDVqaDB3VUdpMS16SUlRT0Z1dnFvd2RwMTkwVlVmM2VMQUd2Nm9BZXNNcElNbXRvUGNWdG1Kc09XTXpROktBSSA8Yj5GaWxsZXI8L2I-IFdvcmQgPGI-UmVtb3ZlcjwvYj46IEN1dCB0aGUgVW1zICZhbXA7IFVocyAtIENsZWFudm9pY2UgQUlCqQE8Yj5VcGxvYWQgeW91ciBhdWRpbyBvciB2aWRlbyBmaWxlIHRvIENsZWFudm9pY2U8L2I-LCB0dXJuIG9uIGZpbGxlci13b3JkIHJlbW92YWwgYW5kIHN0YXJ0LiBUaGUgQUkgZmluZHMgYW5kIGN1dHMgdGhlIGZpbGxlcnMsIGFuZCB5b3UgZG93bmxvYWQgdGhlIGVkaXRlZCBmaWxlJm5ic3A7Li4uSgRmcm9tSgJ0b0oDYW5kUgV2aWRlbyICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhFSWtYWGlRY3FrUm83ZGhSWjViekpfRk1vX0pVeU9EaVZKQjB1eGFuUmZvdjdOMjZ5NjRrWnBVNEJ5QndSYm9ISkYyNDVqaDB3VUdpMS16SUlRT0Z1dnFvd2RwMTkwVlVmM2VMQUd2Nm9BZXNNcElNbXRvUGNWdG1Kc09XTXpREgQaAggAGqMHEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA_QYIABAAGAAgACocCgNob3cV0YHXPxoHZ2V0IHJpZBoHcmVtb3ZlcioJCgJ0bxUAAAAAKngKBnJlbW92ZRVbXxtAGgZjYW5jZWwaBWNsZWFyGgZkZWxldGUaCGRlbGV0aW5nGgtkbyBpIGRlbGV0ZRoHZXh0cmFjdBoHZ2V0IHJpZBoHcmVtb3ZlchoIdGFrZSBvZmYaCHRha2Ugb3V0Ggx1bmluc3RhbGxpbmcqMAoGZmlsbGVyFWRFy0AaB2ZpbGxlcnMaC2ZpbGxlcndvcmRzGgtpdjtwO2ZpbGxlciorCgV3b3JkcxUetIdAGgdhbnRvbnltGgdzeW5vbnltGgtmaWxsZXJ3b3JkcyomCgRsaWtlFQPzuj8aB2FudG9ueW0aB3N1Y2ggYXMaB3N5bm9ueW0qHAoCdWgVTO4UPxoDaHVoGgNvb2gaB2l2O3A7dWgqCgoDYW5kFQAAAAAqJwoCdW0VdDGFPxoTdW5pdmVyc2l0eSBvZiBtaWFtaRoHaXY7cDt1bSoLCgRmcm9tFQAAAAAqIAoGdmlkZW9zFQAAAAAaBWNsaXBzGgN2aWQaBXZpZGVvKiUKDWF1dG9tYXRpY2FsbHkVAAAAABoEYXV0bxoJYXV0b21hdGljMpABL2dvdG8_dXJsPUNBRVNZQUhFSWtYWGlRY3FrUm83ZGhSWjViekpfRk1vX0pVeU9EaVZKQjB1eGFuUmZvdjdOMjZ5NjRrWnBVNEJ5QndSYm9ISkYyNDVqaDB3VUdpMS16SUlRT0Z1dnFvd2RwMTkwVlVmM2VMQUd2Nm9BZXNNcElNbXRvUGNWdG1Kc09XTXpROktBSSA8Yj5GaWxsZXI8L2I-IFdvcmQgPGI-UmVtb3ZlcjwvYj46IEN1dCB0aGUgVW1zICZhbXA7IFVocyAtIENsZWFudm9pY2UgQUlCqQE8Yj5VcGxvYWQgeW91ciBhdWRpbyBvciB2aWRlbyBmaWxlIHRvIENsZWFudm9pY2U8L2I-LCB0dXJuIG9uIGZpbGxlci13b3JkIHJlbW92YWwgYW5kIHN0YXJ0LiBUaGUgQUkgZmluZHMgYW5kIGN1dHMgdGhlIGZpbGxlcnMsIGFuZCB5b3UgZG93bmxvYWQgdGhlIGVkaXRlZCBmaWxlJm5ic3A7Li4uSgRmcm9tSgJ0b0oDYW5kUgV2aWRlbyICEAFIAFgAaAA",
+        "source": "Cleanvoice AI"
+      },
+      {
+        "position": 7,
+        "title": "Automatically Edit Out Ums in Video - AI Tool",
+        "link": "https://www.google.com/goto?url=CAESewHEIkXXGDnFqPG0p7o78Q9P-G6AT1wsm34lnxp1OMl5EUagCGsH6LWaJFOHVCHBUA3c5l1rXDPCBOjzwyBBkAWN0wv2l5HiqdDk4gdyq7qUC_wUUIb5JHq5x9-NUS7FFTVarEFEq_69XDnI7A2RRsAu5BJ0aMOequJO8g",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHEIkXXH_WoeM06TtApi-IV5VCK4OnlfFVyrM0QJsupmoYf5GYilre_Ei4GNm2ymp6Ce5O8oxXZnjgeup0EobFmMAOUU1sLJQCIATWy0f34Duj7xfTh888IETRx-_rxB11YmWSicx3MhUq_oL_gZ-I5IrUX6IdIGIDBhQ&ved=2ahUKEwjbnd2z25uYAxWQEGIAHUqJBMsQFnoECEUQAQ&uoh=1",
+        "displayed_link": "https://www.opus.pro \u203a tools \u203a automatically-edit-out-u...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAV1BMVEUOEBULDRMAAABubnClpaa_v8AAAAj___81Njj09PT7-_u4uLmPj5CYmJlhYWNQUVNLS0339_cuLzLCwsOfn6Ctra6enp94eXp-f4COjo9paWuCg4RTVFaiNnBOAAAAxklEQVR4AbWSVw7DMAxDW2Z6r-72_ueslC3Av2Gm_UDR63K6rph0raOm7bq2qeAe7bCoRS8ZRjVsUiOEb-RObaw1mv_G_pjHPgfvnIdl7yF3ygsxsSnFMOXuRmraOCyKjl6bFQ3lgX2dYS8ot8GhqvHUnYFMH28OddFRVUc-0D8BZ-l_g4XgbRjuDLsafDCUZSV8lk4MSMDXPBUrprJBuQgSZl4-ty2fhMHJhZdl5ZbJeb4qm413132epXx_pXJMsKgHGJ2tPwf1DT7eKooXAAAAAElFTkSuQmCC.png",
+        "snippet": "Smoothly remove \u201cums\u201d and other filler words from your videos with our free AI-powered editor. Enhance clarity and professionalism in minutes.",
+        "snippet_highlighted_words": [
+          "Smoothly remove \u201cums\u201d and other filler words from your videos"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Smoothly remove \u201cums\u201d and other filler words from your videos with our free AI-powered editor. Enhance clarity and professionalism in minutes.",
+            "source_info_link": "https://www.google.com/goto?url=CAESewHEIkXXGDnFqPG0p7o78Q9P-G6AT1wsm34lnxp1OMl5EUagCGsH6LWaJFOHVCHBUA3c5l1rXDPCBOjzwyBBkAWN0wv2l5HiqdDk4gdyq7qUC_wUUIb5JHq5x9-NUS7FFTVarEFEq_69XDnI7A2RRsAu5BJ0aMOequJO8g",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAV1BMVEUOEBULDRMAAABubnClpaa_v8AAAAj___81Njj09PT7-_u4uLmPj5CYmJlhYWNQUVNLS0339_cuLzLCwsOfn6Ctra6enp94eXp-f4COjo9paWuCg4RTVFaiNnBOAAAAxklEQVR4AbWSVw7DMAxDW2Z6r-72_ueslC3Av2Gm_UDR63K6rph0raOm7bq2qeAe7bCoRS8ZRjVsUiOEb-RObaw1mv_G_pjHPgfvnIdl7yF3ygsxsSnFMOXuRmraOCyKjl6bFQ3lgX2dYS8ot8GhqvHUnYFMH28OddFRVUc-0D8BZ-l_g4XgbRjuDLsafDCUZSV8lk4MSMDXPBUrprJBuQgSZl4-ty2fhMHJhZdl5ZbJeb4qm413132epXx_pXJMsKgHGJ2tPwf1DT7eKooXAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrQBL2dvdG8_dXJsPUNBRVNld0hFSWtYWEdEbkZxUEcwcDdvNzhROVAtRzZBVDF3c20zNGxueHAxT01sNUVVYWdDR3NINkxXYUpGT0hWQ0hCVUEzYzVsMXJYRFBDQk9qend5QkJrQVdOMHd2Mmw1SGlxZERrNGdkeXE3cVVDX3dVVUliNUpIcTV4OS1OVVM3RkZUVmFyRUZFcV82OVhEbkk3QTJSUnNBdTVCSjBhTU9lcXVKTzhnEgQaAggAGrAHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIwHCAAQABgAIAAqHAoDaG93FY5pwj8aB2dldCByaWQaB3JlbW92ZXIqCQoCdG8VAAAAACp4CgZyZW1vdmUVYVElPxoGY2FuY2VsGgVjbGVhchoGZGVsZXRlGghkZWxldGluZxoLZG8gaSBkZWxldGUaB2V4dHJhY3QaB2dldCByaWQaB3JlbW92ZXIaCHRha2Ugb2ZmGgh0YWtlIG91dBoMdW5pbnN0YWxsaW5nKjAKBmZpbGxlchWseMc_GgdmaWxsZXJzGgtmaWxsZXJ3b3JkcxoLaXY7cDtmaWxsZXIqKwoFd29yZHMVrHjHPxoHYW50b255bRoHc3lub255bRoLZmlsbGVyd29yZHMqJgoEbGlrZRXLHp8_GgdhbnRvbnltGgdzdWNoIGFzGgdzeW5vbnltKhwKAnVoFTS27T4aA2h1aBoDb29oGgdpdjtwO3VoKgoKA2FuZBUAAAAAKicKAnVtFbrcKUAaE3VuaXZlcnNpdHkgb2YgbWlhbWkaB2l2O3A7dW0qCwoEZnJvbRUAAAAAKiAKBnZpZGVvcxUUFUJAGgVjbGlwcxoDdmlkGgV2aWRlbyolCg1hdXRvbWF0aWNhbGx5FRnYqEAaBGF1dG8aCWF1dG9tYXRpYzK0AS9nb3RvP3VybD1DQUVTZXdIRUlrWFhHRG5GcVBHMHA3bzc4UTlQLUc2QVQxd3NtMzRsbnhwMU9NbDVFVWFnQ0dzSDZMV2FKRk9IVkNIQlVBM2M1bDFyWERQQ0JPanp3eUJCa0FXTjB3djJsNUhpcWREazRnZHlxN3FVQ193VVVJYjVKSHE1eDktTlVTN0ZGVFZhckVGRXFfNjlYRG5JN0EyUlJzQXU1QkowYU1PZXF1Sk84ZzpGPGI-QXV0b21hdGljYWxseTwvYj4gRWRpdCBPdXQgVW1zIGluIDxiPlZpZGVvPC9iPiAtIEFJIFRvb2wgLSBPcHVzQ2xpcEKZATxiPlNtb290aGx5IHJlbW92ZSDigJx1bXPigJ0gYW5kIG90aGVyIGZpbGxlciB3b3JkcyBmcm9tIHlvdXIgdmlkZW9zPC9iPiB3aXRoIG91ciBmcmVlIEFJLXBvd2VyZWQgZWRpdG9yLiBFbmhhbmNlIGNsYXJpdHkgYW5kIHByb2Zlc3Npb25hbGlzbSBpbiBtaW51dGVzLkoDYW5kSgJ0b0oEZnJvbVIFdmlkZW8iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrQBL2dvdG8_dXJsPUNBRVNld0hFSWtYWEdEbkZxUEcwcDdvNzhROVAtRzZBVDF3c20zNGxueHAxT01sNUVVYWdDR3NINkxXYUpGT0hWQ0hCVUEzYzVsMXJYRFBDQk9qend5QkJrQVdOMHd2Mmw1SGlxZERrNGdkeXE3cVVDX3dVVUliNUpIcTV4OS1OVVM3RkZUVmFyRUZFcV82OVhEbkk3QTJSUnNBdTVCSjBhTU9lcXVKTzhnEgQaAggAGrAHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIwHCAAQABgAIAAqHAoDaG93FY5pwj8aB2dldCByaWQaB3JlbW92ZXIqCQoCdG8VAAAAACp4CgZyZW1vdmUVYVElPxoGY2FuY2VsGgVjbGVhchoGZGVsZXRlGghkZWxldGluZxoLZG8gaSBkZWxldGUaB2V4dHJhY3QaB2dldCByaWQaB3JlbW92ZXIaCHRha2Ugb2ZmGgh0YWtlIG91dBoMdW5pbnN0YWxsaW5nKjAKBmZpbGxlchWseMc_GgdmaWxsZXJzGgtmaWxsZXJ3b3JkcxoLaXY7cDtmaWxsZXIqKwoFd29yZHMVrHjHPxoHYW50b255bRoHc3lub255bRoLZmlsbGVyd29yZHMqJgoEbGlrZRXLHp8_GgdhbnRvbnltGgdzdWNoIGFzGgdzeW5vbnltKhwKAnVoFTS27T4aA2h1aBoDb29oGgdpdjtwO3VoKgoKA2FuZBUAAAAAKicKAnVtFbrcKUAaE3VuaXZlcnNpdHkgb2YgbWlhbWkaB2l2O3A7dW0qCwoEZnJvbRUAAAAAKiAKBnZpZGVvcxUUFUJAGgVjbGlwcxoDdmlkGgV2aWRlbyolCg1hdXRvbWF0aWNhbGx5FRnYqEAaBGF1dG8aCWF1dG9tYXRpYzK0AS9nb3RvP3VybD1DQUVTZXdIRUlrWFhHRG5GcVBHMHA3bzc4UTlQLUc2QVQxd3NtMzRsbnhwMU9NbDVFVWFnQ0dzSDZMV2FKRk9IVkNIQlVBM2M1bDFyWERQQ0JPanp3eUJCa0FXTjB3djJsNUhpcWREazRnZHlxN3FVQ193VVVJYjVKSHE1eDktTlVTN0ZGVFZhckVGRXFfNjlYRG5JN0EyUlJzQXU1QkowYU1PZXF1Sk84ZzpGPGI-QXV0b21hdGljYWxseTwvYj4gRWRpdCBPdXQgVW1zIGluIDxiPlZpZGVvPC9iPiAtIEFJIFRvb2wgLSBPcHVzQ2xpcEKZATxiPlNtb290aGx5IHJlbW92ZSDigJx1bXPigJ0gYW5kIG90aGVyIGZpbGxlciB3b3JkcyBmcm9tIHlvdXIgdmlkZW9zPC9iPiB3aXRoIG91ciBmcmVlIEFJLXBvd2VyZWQgZWRpdG9yLiBFbmhhbmNlIGNsYXJpdHkgYW5kIHByb2Zlc3Npb25hbGlzbSBpbiBtaW51dGVzLkoDYW5kSgJ0b0oEZnJvbVIFdmlkZW8iAhABSABYAGgA",
+        "source": "OpusClip"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "How to remove filler words like uh and um from videos automatically online",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDjgq3PanYuzVbtXqHdVxIrMecArBg:1795355225582&q=How+to+remove+filler+words+like+uh+and+um+from+videos+automatically+online&sa=X&ved=2ahUKEwjbnd2z25uYAxWQEGIAHUqJBMsQ1QJ6BAg9EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+remove+filler+words+like+uh+and+um+from+videos+automatically+online"
+      },
+      {
+        "block_position": 1,
+        "query": "How to remove filler words like uh and um from videos automatically free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDjgq3PanYuzVbtXqHdVxIrMecArBg:1795355225582&q=How+to+remove+filler+words+like+uh+and+um+from+videos+automatically+free&sa=X&ved=2ahUKEwjbnd2z25uYAxWQEGIAHUqJBMsQ1QJ6BAhDEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+remove+filler+words+like+uh+and+um+from+videos+automatically+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Remove filler words from video free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDjgq3PanYuzVbtXqHdVxIrMecArBg:1795355225582&q=Remove+filler+words+from+video+free&sa=X&ved=2ahUKEwjbnd2z25uYAxWQEGIAHUqJBMsQ1QJ6BAhCEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Remove+filler+words+from+video+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Remove filler words from audio",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDjgq3PanYuzVbtXqHdVxIrMecArBg:1795355225582&q=Remove+filler+words+from+audio&sa=X&ved=2ahUKEwjbnd2z25uYAxWQEGIAHUqJBMsQ1QJ6BAhBEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Remove+filler+words+from+audio"
+      },
+      {
+        "block_position": 1,
+        "query": "Where is remove filler words in CapCut",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDjgq3PanYuzVbtXqHdVxIrMecArBg:1795355225582&q=Where+is+remove+filler+words+in+CapCut&sa=X&ved=2ahUKEwjbnd2z25uYAxWQEGIAHUqJBMsQ1QJ6BAhAEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Where+is+remove+filler+words+in+CapCut"
+      },
+      {
+        "block_position": 1,
+        "query": "Remove ums from video CapCut",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDjgq3PanYuzVbtXqHdVxIrMecArBg:1795355225582&q=Remove+ums+from+video+CapCut&sa=X&ved=2ahUKEwjbnd2z25uYAxWQEGIAHUqJBMsQ1QJ6BAg_EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Remove+ums+from+video+CapCut"
+      },
+      {
+        "block_position": 1,
+        "query": "Remove filler words from video online free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDjgq3PanYuzVbtXqHdVxIrMecArBg:1795355225582&q=Remove+filler+words+from+video+online+free&sa=X&ved=2ahUKEwjbnd2z25uYAxWQEGIAHUqJBMsQ1QJ6BAg-EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Remove+filler+words+from+video+online+free"
+      },
+      {
+        "block_position": 1,
+        "query": "How to remove identify filler words in CapCut mobile",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDjgq3PanYuzVbtXqHdVxIrMecArBg:1795355225582&q=How+to+remove+identify+filler+words+in+CapCut+mobile&sa=X&ved=2ahUKEwjbnd2z25uYAxWQEGIAHUqJBMsQ1QJ6BAg8EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+remove+identify+filler+words+in+CapCut+mobile"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "Best AI tools for removing filler words?",
+        "link": "https://www.google.com/goto?url=CAESmgEBxCJF136Uq2tx19rom-LJytliNVzwExBKRq4nmrhN7HKMy66ig90VJC5J4Djfm59Eq7W_Yk1alOf0xaaLSbdIdJDCkFGy1OaHVvlPTg3Gy1iQPOBZBq_ikdCKslOVourVdce-c0n5HsSVig8IEZTPfkoJRNr_tcU8HIxnPxlOEEs2Y1rhZykqfdOHWbbIxBgCkxVnejXs6e5U&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ",
+        "date": "2 years ago",
+        "extensions": [
+          "r/podcasting",
+          "20+ comments"
+        ],
+        "source": "Reddit",
+        "answers": [
+          {
+            "link": "https://www.google.com/goto?url=CAESmgEBxCJF136Uq2tx19rom-LJytliNVzwExBKRq4nmrhN7HKMy66ig90VJC5J4Djfm59Eq7W_Yk1alOf0xaaLSbdIdJDCkFGy1OaHVvlPTg3Gy1iQPOBZBq_ikdCKslOVourVdce-c0n5HsSVig8IEZTPfkoJRNr_tcU8HIxnPxlOEEs2Y1rhZykqfdOHWbbIxBgCkxVnejXs6e5U&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ"
+          }
+        ]
+      },
+      {
+        "title": "What program can be used to remove 'ums' and other filler words from raw ...",
+        "link": "https://www.google.com/goto?url=CAESiAEBxCJF1_O3t0Vkw4dBnSKXcASRwDb72kRNFWSg0zNa4W02QtVENN8lfue-P1sEgWhrROcM8iWkcw59pRyXfW5JkupzKW-YwCWkl73qODhuPt9uo0ds2Cg_Ot9GJyUohf1fUasdpVzIq8IFPKdjbnuwbFeIMLRfV75epsu85PGVZguJCNJF8VOV&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ",
+        "date": "2 years ago",
+        "extensions": [
+          "Buzzsprout Podcast Community",
+          "50+ comments"
+        ],
+        "source": "Facebook",
+        "answers": [
+          {
+            "link": "https://www.google.com/goto?url=CAESiAEBxCJF1_O3t0Vkw4dBnSKXcASRwDb72kRNFWSg0zNa4W02QtVENN8lfue-P1sEgWhrROcM8iWkcw59pRyXfW5JkupzKW-YwCWkl73qODhuPt9uo0ds2Cg_Ot9GJyUohf1fUasdpVzIq8IFPKdjbnuwbFeIMLRfV75epsu85PGVZguJCNJF8VOV&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ",
+            "extensions": [
+              "Top answer",
+              "4 votes",
+              "2 years ago"
+            ]
+          },
+          {
+            "link": "https://www.google.com/goto?url=CAESiAEBxCJF1_O3t0Vkw4dBnSKXcASRwDb72kRNFWSg0zNa4W02QtVENN8lfue-P1sEgWhrROcM8iWkcw59pRyXfW5JkupzKW-YwCWkl73qODhuPt9uo0ds2Cg_Ot9GJyUohf1fUasdpVzIq8IFPKdjbnuwbFeIMLRfV75epsu85PGVZguJCNJF8VOV&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ",
+            "extensions": [
+              "4 votes",
+              "2 years ago"
+            ]
+          },
+          {
+            "link": "https://www.google.com/goto?url=CAESiAEBxCJF1_O3t0Vkw4dBnSKXcASRwDb72kRNFWSg0zNa4W02QtVENN8lfue-P1sEgWhrROcM8iWkcw59pRyXfW5JkupzKW-YwCWkl73qODhuPt9uo0ds2Cg_Ot9GJyUohf1fUasdpVzIq8IFPKdjbnuwbFeIMLRfV75epsu85PGVZguJCNJF8VOV&gsessionid=dsSp0wmrTdGnup_9g913-02Zl7iiBu3sA3ezi7qMBosxs2dinTi1KQ",
+            "extensions": [
+              "3 votes",
+              "2 years ago"
+            ]
+          }
+        ]
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=How+to+remove+filler+words+like+uh+and+um+from+videos+automatically?&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDjgq3PanYuzVbtXqHdVxIrMecArBg:1795355225582&ei=WfICa5uNI5ChiLMPypKS2Aw&start=10&sa=N&sstk=AYl2yk_X7uaRMtrtdvoxG7INIwCKCAsXeZKT3zgya79d2Odl1vLdZspQhv1bnw1lSHUK5ndSUHYMxO5gKSyVIcuY0DKVFe1s1h-Qdg&ved=2ahUKEwjbnd2z25uYAxWQEGIAHUqJBMsQ8NMDegQIOhAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=How+to+remove+filler+words+like+uh+and+um+from+videos+automatically?&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDjgq3PanYuzVbtXqHdVxIrMecArBg:1795355225582&ei=WfICa5uNI5ChiLMPypKS2Aw&start=10&sa=N&sstk=AYl2yk_X7uaRMtrtdvoxG7INIwCKCAsXeZKT3zgya79d2Odl1vLdZspQhv1bnw1lSHUK5ndSUHYMxO5gKSyVIcuY0DKVFe1s1h-Qdg&ved=2ahUKEwjbnd2z25uYAxWQEGIAHUqJBMsQ8tMDegQIOhAE",
+        "3": "https://www.google.com/search?q=How+to+remove+filler+words+like+uh+and+um+from+videos+automatically?&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDjgq3PanYuzVbtXqHdVxIrMecArBg:1795355225582&ei=WfICa5uNI5ChiLMPypKS2Aw&start=20&sa=N&sstk=AYl2yk_X7uaRMtrtdvoxG7INIwCKCAsXeZKT3zgya79d2Odl1vLdZspQhv1bnw1lSHUK5ndSUHYMxO5gKSyVIcuY0DKVFe1s1h-Qdg&ved=2ahUKEwjbnd2z25uYAxWQEGIAHUqJBMsQ8tMDegQIOhAG",
+        "4": "https://www.google.com/search?q=How+to+remove+filler+words+like+uh+and+um+from+videos+automatically?&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDjgq3PanYuzVbtXqHdVxIrMecArBg:1795355225582&ei=WfICa5uNI5ChiLMPypKS2Aw&start=30&sa=N&sstk=AYl2yk_X7uaRMtrtdvoxG7INIwCKCAsXeZKT3zgya79d2Odl1vLdZspQhv1bnw1lSHUK5ndSUHYMxO5gKSyVIcuY0DKVFe1s1h-Qdg&ved=2ahUKEwjbnd2z25uYAxWQEGIAHUqJBMsQ8tMDegQIOhAI",
+        "5": "https://www.google.com/search?q=How+to+remove+filler+words+like+uh+and+um+from+videos+automatically?&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDjgq3PanYuzVbtXqHdVxIrMecArBg:1795355225582&ei=WfICa5uNI5ChiLMPypKS2Aw&start=40&sa=N&sstk=AYl2yk_X7uaRMtrtdvoxG7INIwCKCAsXeZKT3zgya79d2Odl1vLdZspQhv1bnw1lSHUK5ndSUHYMxO5gKSyVIcuY0DKVFe1s1h-Qdg&ved=2ahUKEwjbnd2z25uYAxWQEGIAHUqJBMsQ8tMDegQIOhAK",
+        "6": "https://www.google.com/search?q=How+to+remove+filler+words+like+uh+and+um+from+videos+automatically?&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDjgq3PanYuzVbtXqHdVxIrMecArBg:1795355225582&ei=WfICa5uNI5ChiLMPypKS2Aw&start=50&sa=N&sstk=AYl2yk_X7uaRMtrtdvoxG7INIwCKCAsXeZKT3zgya79d2Odl1vLdZspQhv1bnw1lSHUK5ndSUHYMxO5gKSyVIcuY0DKVFe1s1h-Qdg&ved=2ahUKEwjbnd2z25uYAxWQEGIAHUqJBMsQ8tMDegQIOhAM",
+        "7": "https://www.google.com/search?q=How+to+remove+filler+words+like+uh+and+um+from+videos+automatically?&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDjgq3PanYuzVbtXqHdVxIrMecArBg:1795355225582&ei=WfICa5uNI5ChiLMPypKS2Aw&start=60&sa=N&sstk=AYl2yk_X7uaRMtrtdvoxG7INIwCKCAsXeZKT3zgya79d2Odl1vLdZspQhv1bnw1lSHUK5ndSUHYMxO5gKSyVIcuY0DKVFe1s1h-Qdg&ved=2ahUKEwjbnd2z25uYAxWQEGIAHUqJBMsQ8tMDegQIOhAO",
+        "8": "https://www.google.com/search?q=How+to+remove+filler+words+like+uh+and+um+from+videos+automatically?&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDjgq3PanYuzVbtXqHdVxIrMecArBg:1795355225582&ei=WfICa5uNI5ChiLMPypKS2Aw&start=70&sa=N&sstk=AYl2yk_X7uaRMtrtdvoxG7INIwCKCAsXeZKT3zgya79d2Odl1vLdZspQhv1bnw1lSHUK5ndSUHYMxO5gKSyVIcuY0DKVFe1s1h-Qdg&ved=2ahUKEwjbnd2z25uYAxWQEGIAHUqJBMsQ8tMDegQIOhAQ",
+        "9": "https://www.google.com/search?q=How+to+remove+filler+words+like+uh+and+um+from+videos+automatically?&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDjgq3PanYuzVbtXqHdVxIrMecArBg:1795355225582&ei=WfICa5uNI5ChiLMPypKS2Aw&start=80&sa=N&sstk=AYl2yk_X7uaRMtrtdvoxG7INIwCKCAsXeZKT3zgya79d2Odl1vLdZspQhv1bnw1lSHUK5ndSUHYMxO5gKSyVIcuY0DKVFe1s1h-Qdg&ved=2ahUKEwjbnd2z25uYAxWQEGIAHUqJBMsQ8tMDegQIOhAS",
+        "10": "https://www.google.com/search?q=How+to+remove+filler+words+like+uh+and+um+from+videos+automatically?&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDjgq3PanYuzVbtXqHdVxIrMecArBg:1795355225582&ei=WfICa5uNI5ChiLMPypKS2Aw&start=90&sa=N&sstk=AYl2yk_X7uaRMtrtdvoxG7INIwCKCAsXeZKT3zgya79d2Odl1vLdZspQhv1bnw1lSHUK5ndSUHYMxO5gKSyVIcuY0DKVFe1s1h-Qdg&ved=2ahUKEwjbnd2z25uYAxWQEGIAHUqJBMsQ8tMDegQIOhAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+remove+filler+words+like+uh+and+um+from+videos+automatically%3F&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+remove+filler+words+like+uh+and+um+from+videos+automatically%3F&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+remove+filler+words+like+uh+and+um+from+videos+automatically%3F&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+remove+filler+words+like+uh+and+um+from+videos+automatically%3F&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+remove+filler+words+like+uh+and+um+from+videos+automatically%3F&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+remove+filler+words+like+uh+and+um+from+videos+automatically%3F&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+remove+filler+words+like+uh+and+um+from+videos+automatically%3F&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+remove+filler+words+like+uh+and+um+from+videos+automatically%3F&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+remove+filler+words+like+uh+and+um+from+videos+automatically%3F&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+remove+filler+words+like+uh+and+um+from+videos+automatically%3F&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+remove+filler+words+like+uh+and+um+from+videos+automatically%3F&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

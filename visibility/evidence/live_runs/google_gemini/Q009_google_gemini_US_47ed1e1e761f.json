@@ -1,0 +1,18 @@
+{
+  "measurement_id": "47ed1e1e761f",
+  "question_id": "Q009",
+  "timestamp_utc": "2026-11-22T13:59:56.699511+00:00",
+  "provider_name": "Google Gemini",
+  "model_identifier": "gemini-2.5-flash",
+  "question": "What is CreatorOps and how does it help video creators?",
+  "market": "US",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "FAILED",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [],
+  "raw_text_summary": "",
+  "raw_payload": null,
+  "error_details": "HTTP Error 429: Too Many Requests"
+}

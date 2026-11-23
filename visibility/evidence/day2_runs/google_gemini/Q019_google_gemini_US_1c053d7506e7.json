@@ -1,0 +1,18 @@
+{
+  "measurement_id": "1c053d7506e7",
+  "question_id": "Q019",
+  "timestamp_utc": "2026-11-23T09:01:41.709660+00:00",
+  "provider_name": "Google Gemini",
+  "model_identifier": "gemini-2.5-flash",
+  "question": "How to auto-detect speaker faces and crop vertical video?",
+  "market": "US",
+  "collection_method": "DAY_2_AUTOMATED_API",
+  "execution_status": "FAILED",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [],
+  "raw_text_summary": "",
+  "raw_payload": null,
+  "error_details": "The read operation timed out"
+}

@@ -1,0 +1,463 @@
+{
+  "measurement_id": "2022420747c5",
+  "question_id": "Q078",
+  "timestamp_utc": "2026-11-22T13:50:09.721957+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "How do top podcasts like Joe Rogan and Huberman produce clips?",
+  "market": "US",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://www.reddit.com/r/podcasting/comments/tqfdwa/how_do_big_podcasters_edit_their_episodes/",
+    "https://www.facebook.com/fb-answers/how-to-create-video-podcasts-like-joe-rogan/",
+    "https://www.google.com/goto?url=CAESiAEBxCJF1w8XvPzLpvMw7meia7ObeHDtwScQIFh0YUlT_UMGofRL9gfKecCbhKGvsfa8yKwWnKMOovvYE7csz6Je8MkrFSoNaiue6VV10SEYNsftykSKxpS1WyY3BaIS3CeuzASEvvvBs0uVgYYsNaRSWja8ZLziimnTSLP2c6eV3b3fganCK3A6",
+    "https://www.google.com/goto?url=CAESiAEBxCJF18spmvhJU6O0i5h2JzvTnR1bBhp_d8cEDuBAUcm7hhEgPcExXxG_7Omu28-3Nle2t2NVTmyp67xrFlOI9rF-_FeeJRaHSBg71uzIrvaRvuY2zQUZDW7zZ8LTalcELGPFLE7mxCdbW2eqn88CueV9GWiM9do8svZ90Kzfp31sCRi-REXC",
+    "https://www.google.com/goto?url=CAESjQEBxCJF1zhBAIcYCJEn-6SK0M1ja05BjvDLlNyQ43AYoZh2VyfGF3AL8DELmbrTQWulukfitwlFz_J8b3Bf3k5A5lmweiu9bl_1FoAGBtc0xPjQ7ply9npo_8Y4z-Dml2NuZu9zyU_ZoU9xrxJeMEommz2bcc5TfeUi0GoV5QcsjvmSHf24MCI_mAnIpGU",
+    "https://www.google.com/goto?url=CAESaAHEIkXXvPWc0wMfLx5r7uKV5RbrYbwhCG1qH6F5AxVo-P0R1_R_FKzg6l6SgOPmjhQNT-7wDoE3uvKApzkAOfq4DGGcR3iRidt0d-pB1Y3-3hUOY25lon0CqD4-EiPChkNQXzmxNX0A&gsessionid=Zq66rUFyCgwliKFyXA-eR24n1nITg-KXFIZBnQ4SMingq43mgOrsRQ",
+    "https://www.google.com/goto?url=CAESdwHEIkXXmHVc6uuLFW--S4wbnE_CYzIlOZhegnobfR6U0K3UzHpua6LngclSDSenY9NyIfPFTo8WBZFNBNeaeg0hk69wPmUGQtBjsYgGvzGNf10HTs5MTeu4JcR-_NAlUtlCzrGR75ohA21_s0KLI4UporMfIxd5",
+    "https://www.google.com/goto?url=CAESoAEBxCJF14Ot8FFJhS7hn1ang3a3QW_ZxkhHG2ZUW2H5VzAsXe38SdnTihk1FIhTc8dkBrDR7cf20yQ0GTpq4tEVYjgkk1RcWP8qbu4Km30YMqN7074BhvFGc8Of-m-5WbyOR_nTcKP01lQiaoudJGQiPlFdKHpXiSpRP7UTdTKhx5aA28j2G7VjVlIHgrrUTID_v4o31-1KKufLNDf4_LwM"
+  ],
+  "raw_text_summary": "How do big podcasters edit their episodes? After listening to JRE and Lex Fridman's podcast for a couple of years now, I was inspired to start my own channel. Now, I'm confronted with the question ... How to Create Video Podcasts Like Joe Rogan The formula is simple: record the normal podcast, upload video to YouTube and audio to podcast platforms, then slice the long video into under-60- second clips ... How to Turn Long Podcasts into Short Viral Clips for ... - Clipper Step-by-step framework to repurpose 1-2 hour podcast episodes into engaging 9:16 vertical clips with animated captions for TikTok, Reels, and ... How to Do a Podcast Like Joe Rogan Joe uses the Shure SM7B Vocal Microphone. His mixer is the Behringer XENYX X1222USB To record the episodes he uses a TASCAM DR-100 Portable ... How Joe Rogan Leveraged Video to Build a Podcast Empire How adding video turned a niche audio podcast into the biggest show in the world, and the lesson for anyone producing content. Steal Joe Rogan's Podcast Formula Joe Rogan built one of ... He records the full podcast, uploads the long-form video and audio then turns each conversation into short, viral clips. Capture the long-form, ... AG1 Marketing Strategy: How Podcast Clips Built a $1.2B ... Stage 1: Podcast sponsorship creates the clip. AG1 sponsors podcasts hosted by trusted authorities in health and wellness (Huberman Lab, Tim ... Why Video Podcasts Multiplied Beyond the Man Cave A few early adopters have been broadcasting their podcasts on video for many years. Joe Rogan has been filming his podcast since it launched ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f30ff3f3536b6fa55b1b",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/uSEf55EmK4YBUMsQ9uJeGPfLqfs3mzKMFm4UVbduWgo/6b02f30ff3f3536b6fa55b1b.json",
+      "markdown_endpoint": "https://serpapi.com/searches/uSEf55EmK4YBUMsQ9uJeGPfLqfs3mzKMFm4UVbduWgo/6b02f30ff3f3536b6fa55b1b.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/uSEf55EmK4YBUMsQ9uJeGPfLqfs3mzKMFm4UVbduWgo/6b02f30ff3f3536b6fa55b1b.json_with_pixel_position",
+      "created_at": "2026-11-22 13:50:07 UTC",
+      "processed_at": "2026-11-22 13:50:07 UTC",
+      "google_url": "https://www.google.com/search?q=How+do+top+podcasts+like+Joe+Rogan+and+Huberman+produce+clips%3F&oq=How+do+top+podcasts+like+Joe+Rogan+and+Huberman+produce+clips%3F&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/uSEf55EmK4YBUMsQ9uJeGPfLqfs3mzKMFm4UVbduWgo/6b02f30ff3f3536b6fa55b1b.html",
+      "total_time_taken": 1.17
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "How do top podcasts like Joe Rogan and Huberman produce clips?",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "How do top podcasts like Joe Rogan and Huberman produce clips?",
+      "total_results": 49500,
+      "time_taken_displayed": 0.33,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "How to Edit #VideoPodcasts Like #JoeRogan ...",
+        "link": "https://www.google.com/goto?url=CAESZwHEIkXXQutuVaAE1H8oknXDjEyNyoOixuWdK3FUq3mvknHJzEIzZ8ruN9LNUpxThEjl6HpaCF7Ey_JJzpBQynh33dVIiQDFRvJirsgQ3tE9rhfGNCvJnHXZvr52NVM_II_q_Bz7aBA&gsessionid=Zq66rUFyCgwliKFyXA-eR24n1nITg-KXFIZBnQ4SMingq43mgOrsRQ",
+        "thumbnail": "https://serpapi.com/searches/6b02f30ff3f3536b6fa55b1b/images/aMO00hh2k71VKCtIhDipusPdEj_prKpdznGVl_7wgtA.jpg",
+        "channel": "Async AI Video Editor",
+        "duration": "0:26",
+        "platform": "YouTube",
+        "date": "Apr 24, 2025",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQxzCgSH74GgwybaFrrVFLQw6K5cTKzZnxcmw"
+      },
+      {
+        "position": 2,
+        "title": "Steal Joe Rogan's Podcast Formula",
+        "link": "https://www.google.com/goto?url=CAESZwHEIkXX8dqU5ETwmGPFNM31QeQ6XJHzkiEl0TpPHM-1aoVxwa9MU2Fqhxl70lxey318S9EBrcdnS7aCZHDoFPHgxDEzJIRxMitFklZUdxY5oMl1ruT7WVbOzDpj6k-dfvVwnrIHkGk&gsessionid=Zq66rUFyCgwliKFyXA-eR24n1nITg-KXFIZBnQ4SMingq43mgOrsRQ",
+        "thumbnail": "https://serpapi.com/searches/6b02f30ff3f3536b6fa55b1b/images/rWEY_BX_yOM1QpkQWrimKy6_KSQGK-cDORwQB8Zref8.jpg",
+        "channel": "Think Media",
+        "duration": "0:53",
+        "platform": "YouTube",
+        "date": "May 26, 2026",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSM_u8t-fcvJCiyFA1F0UXq3UY02Ks2W7oAkQ"
+      },
+      {
+        "position": 3,
+        "title": "How to Make 10 VIRAL Shorts from 1 Podcast using AI",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXEyuVlKE6gPXoLVTP8-m2pTVXXcVP1VkLOBo6VJyCiXFFaco7-p5RCxhi-3eDf8oY_ccKtr9zA3WFjStHRSVzFAbm_FkvA9JgJa92-4l2rius8mXAiKZ_imqvoxw66tlFsT5a&gsessionid=Zq66rUFyCgwliKFyXA-eR24n1nITg-KXFIZBnQ4SMingq43mgOrsRQ",
+        "thumbnail": "https://serpapi.com/searches/6b02f30ff3f3536b6fa55b1b/images/s0JbrUmeoIhrN9iRGGE2idoMmuLgToq2dLei33pGvzc.jpg",
+        "channel": "VEED CREATORS",
+        "duration": "5:49",
+        "platform": "YouTube",
+        "date": "Oct 30, 2024",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQgGvEem-edZjFXg5GHrmdcv0_oJYh5PFZBzg",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "How to Make Youtube Shorts from Podcast",
+            "link": "https://www.google.com/goto?url=CAESbAHEIkXXURqzPPfm8kFIR7d0TvTm3FKGUSUJra8ujLY6vce4diU1xU6c0JHVbkvzNRSs9PVrPrTs8Wt3UiLBK1MkURML_dnWU4z_gSb2n1yeygA5TSDamM3BxO1jEVt4-XxmCZSeI0CYaJptsg&gsessionid=Zq66rUFyCgwliKFyXA-eR24n1nITg-KXFIZBnQ4SMingq43mgOrsRQ"
+          },
+          {
+            "time": "00:25",
+            "title": "How to Make Youtube Shorts from Youtube Video",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXXxR1DPmUeqZSwuQXiQ6g4zNOWpYnknDT4cJugUL2ypsyhIHBOiklD6FunxY1flVBfJyEhAK1jTJJVcMFU5-cG37EpMfUGp1m4xgThe-BGxujF9VQRsfFqlcGLC1T5NaEVDaBwJCc3_bU&gsessionid=Zq66rUFyCgwliKFyXA-eR24n1nITg-KXFIZBnQ4SMingq43mgOrsRQ"
+          },
+          {
+            "time": "01:00",
+            "title": "VEED Clips AI",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXXCSFJln8VOCX13IdNXt_z9IJlF8GpzxZxVr_gvszF6pf_xIWnWst-vutHsUt2b05Hk2u3sW1lbiyj9oYaPb5GqxtwRg3ae9bbpjAd1D8xtLlpDHLCYG2yn6m_HNrWwyaFvg-IsW90XTk&gsessionid=Zq66rUFyCgwliKFyXA-eR24n1nITg-KXFIZBnQ4SMingq43mgOrsRQ"
+          },
+          {
+            "time": "02:20",
+            "title": "How to Make Shorts Go Viral Method 1",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXX9sIfay8kQeULZ5PkPX0wUtKpZZyCwflj1ZvjoZ3fc1Rz9Ih3zDZdtrUKyIWEWfPDPpipchQY4rKEjfExRcqyjFUDAT43TVSi5pNgAzLYjoFyBFcYhOr33HAK_-KDlLoAaHGc8-UwzMGL&gsessionid=Zq66rUFyCgwliKFyXA-eR24n1nITg-KXFIZBnQ4SMingq43mgOrsRQ"
+          },
+          {
+            "time": "04:35",
+            "title": "How to Make Shorts Go Viral Method 2",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXbVvAeMUvBfRFHjoMkLwK_nM0O4e2yu5owEvy6A3GnAyYoNrwzfYx_JxnCAWA-2ensX-b_4jALGRgM-zkEXm9Q94qkcGr6AM-3nWHc7dg06mX_vvK7aGFgIDFQDnTk1S-zEYmqbKDex2-&gsessionid=Zq66rUFyCgwliKFyXA-eR24n1nITg-KXFIZBnQ4SMingq43mgOrsRQ"
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "title": "When did you first notice the podcast industry transition to video ...",
+        "link": "https://www.google.com/goto?url=CAESZwHEIkXXi4y3wiP4JmbfkeC3WzSkLFXKFjKbmCTYi9xvL5rjJIj7JGUVhNS6nRd2SSDRi9H36klh-vjwe5faeMpHy2HYJ4WsHgYhKx0ErLrBYx_vyyX1M-x8zA5i5RD5fKRoVNjleBY&gsessionid=Zq66rUFyCgwliKFyXA-eR24n1nITg-KXFIZBnQ4SMingq43mgOrsRQ",
+        "thumbnail": "https://serpapi.com/searches/6b02f30ff3f3536b6fa55b1b/images/18ufwYZJj0u69uaXKnBZC_nSkld0VzSFXtYmSEAvh0k.jpg",
+        "channel": "R\u00d8DE",
+        "duration": "1:21",
+        "platform": "YouTube",
+        "date": "Oct 7, 2025",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRslGrx4SMR34RHA48dEwXazmdGKim_2ARwow"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "Which podcast clip generator is the best?",
+        "type": "ai_overview",
+        "page_token": "xdvdkXicHdBNcoIwAEDhaS_QW7gUUtFOnXE6KkFkaCiEEMnGiQFBCD9qLLTLnqWrHqYH6DV6gTpdvd23eB-f8lCXPzebXKn2PNW0ruuGWdNkMh2KptL4-a0WmuBS7rgop5OHCXjaixk8d4tl0y18EsBYJjKWAY5oQAIgPWyjKqW9u7OcOtSV8kzk-gewR7CHHDAclq3iVJINkCe0acYIMAsX0VWJvGe9dRPpLClNWKy3MNm0KiVqzEq0JiUr3Igtmb04hhRUHs10ukLHnQmvBSaH8iLsJGRwXFE7KFgkYwpRj8F8FBf5S0KcipnBmRF1YSuBLT3yQ4JyRMHaD7MRtucGsubvYeFgN4LG6uAsMDS6IEzsuCAGLoTidtkx6zH34LMiEaqJ3va70lfkHtSDvXidjQb_x2bbfaWm7anJvsQp5SpNtlx9l7e_d3-dm3_N",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xdvdkXicHdBNcoIwAEDhaS_QW7gUUtFOnXE6KkFkaCiEEMnGiQFBCD9qLLTLnqWrHqYH6DV6gTpdvd23eB-f8lCXPzebXKn2PNW0ruuGWdNkMh2KptL4-a0WmuBS7rgop5OHCXjaixk8d4tl0y18EsBYJjKWAY5oQAIgPWyjKqW9u7OcOtSV8kzk-gewR7CHHDAclq3iVJINkCe0acYIMAsX0VWJvGe9dRPpLClNWKy3MNm0KiVqzEq0JiUr3Igtmb04hhRUHs10ukLHnQmvBSaH8iLsJGRwXFE7KFgkYwpRj8F8FBf5S0KcipnBmRF1YSuBLT3yQ4JyRMHaD7MRtucGsubvYeFgN4LG6uAsMDS6IEzsuCAGLoTidtkx6zH34LMiEaqJ3va70lfkHtSDvXidjQb_x2bbfaWm7anJvsQp5SpNtlx9l7e_d3-dm3_N",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWFYTjRURUkzT1dwNmRFbzNUVUkyVkhkS2MyWXdkVE5hVVhWTlgwcDJjak5vV0ZodU4zRmlXVnBXV2xCb2MyRTRRWEZmTW1WUmFWTktSV3RmU25VM1JIRTJRVGR3TkRsbGNucDRaa3hpTVV0Tk4wcHRSRXN4VnkxTFVSSVhSVkJOUTJFMWJVaEJPRGRJY0RnMFVETk9NbEl0VVRnYUlrRklUakJGTjBaMmVDMXhOa2hYY1c5S1drOWlTbGxXU0hOalNqZFhhMjFLT1djIiwiZmN2IjoiMyIsImVpIjoiRVBNQ2E1bUhBODdIcDg0UDNOMlItUTgiLCJxYyI6IkNqMW9iM2NnWkc4Z2RHOXdJSEJ2WkdOaGMzUnpJR3hwYTJVZ2FtOWxJSEp2WjJGdUlHRnVaQ0JvZFdKbGNtMWhiaUJ3Y205a2RXTmxJR05zYVhCekVBQjliYW9KUHciLCJxdWVzdGlvbiI6IldoaWNoIHBvZGNhc3QgY2xpcCBnZW5lcmF0b3IgaXMgdGhlIGJlc3Q/IiwibGsiOiJHaHRpWlhOMElIQnZaR05oYzNRZ1kyeHBjQ0JuWlc1bGNtRjBiM0kiLCJicyI6ImM0WFBNUXZDTUJBRllGd3pPVWVLQjFWRWNHaFRuSU80U01IRnBYTnNZNU9hSmlXSjVPLWJDam9vNnZZNHZuZmNvUkt0S3lGckFZTnBhdVk4MUVvTzBITE5MZlBHZ25UZ0JZY3pkNTZTQk1fRzhNV2lEaFVIRTZDX3hYV040UTdZU3dicEJXeXpUWlpsb0tUelk4ZEJ6NjZja2dMbjRuZnRzNFdPYUZFSjVwXzNwZm1ySV9WakVveFZEU1ZMbkliX0R1MFI3Q3lIMG5BNG1aYnBsWVA0azlTdGd3dFRLZ1pLNWpoaDBYVFIyTkc4aS1ua0RnIiwiaWQiOiJmY19FUE1DYTVtSEE4N0hwODRQM04yUi1ROF81In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWFYTjRURUkzT1dwNmRFbzNUVUkyVkhkS2MyWXdkVE5hVVhWTlgwcDJjak5vV0ZodU4zRmlXVnBXV2xCb2MyRTRRWEZmTW1WUmFWTktSV3RmU25VM1JIRTJRVGR3TkRsbGNucDRaa3hpTVV0Tk4wcHRSRXN4VnkxTFVSSVhSVkJOUTJFMWJVaEJPRGRJY0RnMFVETk9NbEl0VVRnYUlrRklUakJGTjBaMmVDMXhOa2hYY1c5S1drOWlTbGxXU0hOalNqZFhhMjFLT1djIiwiZmN2IjoiMyIsImVpIjoiRVBNQ2E1bUhBODdIcDg0UDNOMlItUTgiLCJxYyI6IkNqMW9iM2NnWkc4Z2RHOXdJSEJ2WkdOaGMzUnpJR3hwYTJVZ2FtOWxJSEp2WjJGdUlHRnVaQ0JvZFdKbGNtMWhiaUJ3Y205a2RXTmxJR05zYVhCekVBQjliYW9KUHciLCJxdWVzdGlvbiI6IldoaWNoIHBvZGNhc3QgY2xpcCBnZW5lcmF0b3IgaXMgdGhlIGJlc3Q%2FIiwibGsiOiJHaHRpWlhOMElIQnZaR05oYzNRZ1kyeHBjQ0JuWlc1bGNtRjBiM0kiLCJicyI6ImM0WFBNUXZDTUJBRllGd3pPVWVLQjFWRWNHaFRuSU80U01IRnBYTnNZNU9hSmlXSjVPLWJDam9vNnZZNHZuZmNvUkt0S3lGckFZTnBhdVk4MUVvTzBITE5MZlBHZ25UZ0JZY3pkNTZTQk1fRzhNV2lEaFVIRTZDX3hYV040UTdZU3dicEJXeXpUWlpsb0tUelk4ZEJ6NjZja2dMbjRuZnRzNFdPYUZFSjVwXzNwZm1ySV9WakVveFZEU1ZMbkliX0R1MFI3Q3lIMG5BNG1aYnBsWVA0azlTdGd3dFRLZ1pLNWpoaDBYVFIyTkc4aS1ua0RnIiwiaWQiOiJmY19FUE1DYTVtSEE4N0hwODRQM04yUi1ROF81In0%3D"
+      },
+      {
+        "question": "How much does a podcast with 50,000 listeners make?",
+        "type": "ai_overview",
+        "page_token": "DXfPCXicHdBRbpswAABQbRfYLfrZYECZFCmqSjCkpCbFYDv4pzI2iakNZIlVmnz2CD1Dv3aYHWDX2AU27QLv471_2m4wv798aOeO58VsNk3T7WEcD7a9lWM_E-fLIGdSWNsIaRbz73Nwt5dL-Cqj1UlGBcGwtsoy-gCkT380hnK5w468JHkNsBAmfxSDXtHUvGGaR1WVVS3lYU0zwmMdb4laKZp3bYUuJQQp71FQM5cwSDd1510UcSFdZwUBHAjj-chTGnmHiUMc0qvqUJCc2j5jGKpNmfISERk27HjlFfQZIVMFojW_qqxgnGMQPRFy3PCEGtTrsthlgQzqf7KGOcliec05gedQrrXfWD1vSLahVZSWve2r4d4TltaSJQPUKiEQxHVFXQlhmHt62sa4QF54IR3A22jsCqK3CJIAD-qxYCppY5zvQPZUphYoqK303_aMWtP4IODTzV6-LoOb_9fL533vFsfTePgpT61wrXoW7pf5-ufbXxYlkV0",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=DXfPCXicHdBRbpswAABQbRfYLfrZYECZFCmqSjCkpCbFYDv4pzI2iakNZIlVmnz2CD1Dv3aYHWDX2AU27QLv471_2m4wv798aOeO58VsNk3T7WEcD7a9lWM_E-fLIGdSWNsIaRbz73Nwt5dL-Cqj1UlGBcGwtsoy-gCkT380hnK5w468JHkNsBAmfxSDXtHUvGGaR1WVVS3lYU0zwmMdb4laKZp3bYUuJQQp71FQM5cwSDd1510UcSFdZwUBHAjj-chTGnmHiUMc0qvqUJCc2j5jGKpNmfISERk27HjlFfQZIVMFojW_qqxgnGMQPRFy3PCEGtTrsthlgQzqf7KGOcliec05gedQrrXfWD1vSLahVZSWve2r4d4TltaSJQPUKiEQxHVFXQlhmHt62sa4QF54IR3A22jsCqK3CJIAD-qxYCppY5zvQPZUphYoqK303_aMWtP4IODTzV6-LoOb_9fL533vFsfTePgpT61wrXoW7pf5-ufbXxYlkV0",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWFYTjRURUkzT1dwNmRFbzNUVUkyVkhkS2MyWXdkVE5hVVhWTlgwcDJjak5vV0ZodU4zRmlXVnBXV2xCb2MyRTRRWEZmTW1WUmFWTktSV3RmU25VM1JIRTJRVGR3TkRsbGNucDRaa3hpTVV0Tk4wcHRSRXN4VnkxTFVSSVhSVkJOUTJFMWJVaEJPRGRJY0RnMFVETk9NbEl0VVRnYUlrRklUakJGTjBaMmVDMXhOa2hYY1c5S1drOWlTbGxXU0hOalNqZFhhMjFLT1djIiwiZmN2IjoiMyIsImVpIjoiRVBNQ2E1bUhBODdIcDg0UDNOMlItUTgiLCJxYyI6IkNqMW9iM2NnWkc4Z2RHOXdJSEJ2WkdOaGMzUnpJR3hwYTJVZ2FtOWxJSEp2WjJGdUlHRnVaQ0JvZFdKbGNtMWhiaUJ3Y205a2RXTmxJR05zYVhCekVBQjliYW9KUHciLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGRvZXMgYSBwb2RjYXN0IHdpdGggNTAsMDAwIGxpc3RlbmVycyBtYWtlPyIsImxrIjoiR2pGb2IzY2diWFZqYUNCa2IyVnpJR0VnY0c5a1kyRnpkQ0IzYVhSb0lEVXdNREF3SUd4cGMzUmxibVZ5Y3lCdFlXdGwiLCJicyI6ImM0WFBNUXZDTUJBRllGd3pPVWVLQjFWRWNHaFRuSU80U01IRnBYTnNZNU9hSmlXSjVPLWJDam9vNnZZNHZuZmNvUkt0S3lGckFZTnBhdVk4MUVvTzBITE5MZlBHZ25UZ0JZY3pkNTZTQk1fRzhNV2lEaFVIRTZDX3hYV040UTdZU3dicEJXeXpUWlpsb0tUelk4ZEJ6NjZja2dMbjRuZnRzNFdPYUZFSjVwXzNwZm1ySV9WakVveFZEU1ZMbkliX0R1MFI3Q3lIMG5BNG1aYnBsWVA0azlTdGd3dFRLZ1pLNWpoaDBYVFIyTkc4aS1ua0RnIiwiaWQiOiJmY19FUE1DYTVtSEE4N0hwODRQM04yUi1ROF81In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWFYTjRURUkzT1dwNmRFbzNUVUkyVkhkS2MyWXdkVE5hVVhWTlgwcDJjak5vV0ZodU4zRmlXVnBXV2xCb2MyRTRRWEZmTW1WUmFWTktSV3RmU25VM1JIRTJRVGR3TkRsbGNucDRaa3hpTVV0Tk4wcHRSRXN4VnkxTFVSSVhSVkJOUTJFMWJVaEJPRGRJY0RnMFVETk9NbEl0VVRnYUlrRklUakJGTjBaMmVDMXhOa2hYY1c5S1drOWlTbGxXU0hOalNqZFhhMjFLT1djIiwiZmN2IjoiMyIsImVpIjoiRVBNQ2E1bUhBODdIcDg0UDNOMlItUTgiLCJxYyI6IkNqMW9iM2NnWkc4Z2RHOXdJSEJ2WkdOaGMzUnpJR3hwYTJVZ2FtOWxJSEp2WjJGdUlHRnVaQ0JvZFdKbGNtMWhiaUJ3Y205a2RXTmxJR05zYVhCekVBQjliYW9KUHciLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGRvZXMgYSBwb2RjYXN0IHdpdGggNTAsMDAwIGxpc3RlbmVycyBtYWtlPyIsImxrIjoiR2pGb2IzY2diWFZqYUNCa2IyVnpJR0VnY0c5a1kyRnpkQ0IzYVhSb0lEVXdNREF3SUd4cGMzUmxibVZ5Y3lCdFlXdGwiLCJicyI6ImM0WFBNUXZDTUJBRllGd3pPVWVLQjFWRWNHaFRuSU80U01IRnBYTnNZNU9hSmlXSjVPLWJDam9vNnZZNHZuZmNvUkt0S3lGckFZTnBhdVk4MUVvTzBITE5MZlBHZ25UZ0JZY3pkNTZTQk1fRzhNV2lEaFVIRTZDX3hYV040UTdZU3dicEJXeXpUWlpsb0tUelk4ZEJ6NjZja2dMbjRuZnRzNFdPYUZFSjVwXzNwZm1ySV9WakVveFZEU1ZMbkliX0R1MFI3Q3lIMG5BNG1aYnBsWVA0azlTdGd3dFRLZ1pLNWpoaDBYVFIyTkc4aS1ua0RnIiwiaWQiOiJmY19FUE1DYTVtSEE4N0hwODRQM04yUi1ROF81In0%3D"
+      },
+      {
+        "question": "What is the #1 podcast in the world?",
+        "type": "ai_overview",
+        "page_token": "MM4Ex3icHdBLcpswAADQaS_QW2QZR4jQsWc8nSESwYwlgpDEZ5MBCVsG8YmD7djLnqWrHqYH6DV6gXa6f6v3_Yc9DN3vT2czz9P7arG4XC73-3Hc2-Zejf2ier8OaqEqa-tKdSvvqwe-7dQanzb-09vGTwTDhdW2yOWJhn6SdjapZQSafgm1HQF3ZqeG0bnmuqjzyNU3WaogMDG3b7wDHxJFhAXTC82AVEMwM1ieRPbobTkzKfILkWnAQvakwuCqsfQ0Ih88o8faElg55XM50IACbUk--VseGQb9WCPKi7ZELIzipo1CigwqUyD1jXkyE7CC1tWtTSpLW9IHNhnUoxAlJq3OiAPS-mYYNjoQGKCCyznF2KUP5hIjlpAH9yoOgMX-eEiEiQkWkA3TdZuXrpJLXEtta2fZM2f6Z8ucY_O8lWYjkrudOq_h3f_P9euun1fTcdz_VMemmhv9Ws2_us9_vvwFTIGHoQ",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=MM4Ex3icHdBLcpswAADQaS_QW2QZR4jQsWc8nSESwYwlgpDEZ5MBCVsG8YmD7djLnqWrHqYH6DV6gXa6f6v3_Yc9DN3vT2czz9P7arG4XC73-3Hc2-Zejf2ier8OaqEqa-tKdSvvqwe-7dQanzb-09vGTwTDhdW2yOWJhn6SdjapZQSafgm1HQF3ZqeG0bnmuqjzyNU3WaogMDG3b7wDHxJFhAXTC82AVEMwM1ieRPbobTkzKfILkWnAQvakwuCqsfQ0Ih88o8faElg55XM50IACbUk--VseGQb9WCPKi7ZELIzipo1CigwqUyD1jXkyE7CC1tWtTSpLW9IHNhnUoxAlJq3OiAPS-mYYNjoQGKCCyznF2KUP5hIjlpAH9yoOgMX-eEiEiQkWkA3TdZuXrpJLXEtta2fZM2f6Z8ucY_O8lWYjkrudOq_h3f_P9euun1fTcdz_VMemmhv9Ws2_us9_vvwFTIGHoQ",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWFYTjRURUkzT1dwNmRFbzNUVUkyVkhkS2MyWXdkVE5hVVhWTlgwcDJjak5vV0ZodU4zRmlXVnBXV2xCb2MyRTRRWEZmTW1WUmFWTktSV3RmU25VM1JIRTJRVGR3TkRsbGNucDRaa3hpTVV0Tk4wcHRSRXN4VnkxTFVSSVhSVkJOUTJFMWJVaEJPRGRJY0RnMFVETk9NbEl0VVRnYUlrRklUakJGTjBaMmVDMXhOa2hYY1c5S1drOWlTbGxXU0hOalNqZFhhMjFLT1djIiwiZmN2IjoiMyIsImVpIjoiRVBNQ2E1bUhBODdIcDg0UDNOMlItUTgiLCJxYyI6IkNqMW9iM2NnWkc4Z2RHOXdJSEJ2WkdOaGMzUnpJR3hwYTJVZ2FtOWxJSEp2WjJGdUlHRnVaQ0JvZFdKbGNtMWhiaUJ3Y205a2RXTmxJR05zYVhCekVBQjliYW9KUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlICMxIHBvZGNhc3QgaW4gdGhlIHdvcmxkPyIsImxrIjoiYzVOU0xzOUlMRkhJTEZZb3lVaFZVRFpVS01oUFNVNHNCb3JrZ1VYSzg0dHlVZ0EiLCJicyI6ImM0WFBNUXZDTUJBRllGd3pPVWVLQjFWRWNHaFRuSU80U01IRnBYTnNZNU9hSmlXSjVPLWJDam9vNnZZNHZuZmNvUkt0S3lGckFZTnBhdVk4MUVvTzBITE5MZlBHZ25UZ0JZY3pkNTZTQk1fRzhNV2lEaFVIRTZDX3hYV040UTdZU3dicEJXeXpUWlpsb0tUelk4ZEJ6NjZja2dMbjRuZnRzNFdPYUZFSjVwXzNwZm1ySV9WakVveFZEU1ZMbkliX0R1MFI3Q3lIMG5BNG1aYnBsWVA0azlTdGd3dFRLZ1pLNWpoaDBYVFIyTkc4aS1ua0RnIiwiaWQiOiJmY19FUE1DYTVtSEE4N0hwODRQM04yUi1ROF81In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWFYTjRURUkzT1dwNmRFbzNUVUkyVkhkS2MyWXdkVE5hVVhWTlgwcDJjak5vV0ZodU4zRmlXVnBXV2xCb2MyRTRRWEZmTW1WUmFWTktSV3RmU25VM1JIRTJRVGR3TkRsbGNucDRaa3hpTVV0Tk4wcHRSRXN4VnkxTFVSSVhSVkJOUTJFMWJVaEJPRGRJY0RnMFVETk9NbEl0VVRnYUlrRklUakJGTjBaMmVDMXhOa2hYY1c5S1drOWlTbGxXU0hOalNqZFhhMjFLT1djIiwiZmN2IjoiMyIsImVpIjoiRVBNQ2E1bUhBODdIcDg0UDNOMlItUTgiLCJxYyI6IkNqMW9iM2NnWkc4Z2RHOXdJSEJ2WkdOaGMzUnpJR3hwYTJVZ2FtOWxJSEp2WjJGdUlHRnVaQ0JvZFdKbGNtMWhiaUJ3Y205a2RXTmxJR05zYVhCekVBQjliYW9KUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlICMxIHBvZGNhc3QgaW4gdGhlIHdvcmxkPyIsImxrIjoiYzVOU0xzOUlMRkhJTEZZb3lVaFZVRFpVS01oUFNVNHNCb3JrZ1VYSzg0dHlVZ0EiLCJicyI6ImM0WFBNUXZDTUJBRllGd3pPVWVLQjFWRWNHaFRuSU80U01IRnBYTnNZNU9hSmlXSjVPLWJDam9vNnZZNHZuZmNvUkt0S3lGckFZTnBhdVk4MUVvTzBITE5MZlBHZ25UZ0JZY3pkNTZTQk1fRzhNV2lEaFVIRTZDX3hYV040UTdZU3dicEJXeXpUWlpsb0tUelk4ZEJ6NjZja2dMbjRuZnRzNFdPYUZFSjVwXzNwZm1ySV9WakVveFZEU1ZMbkliX0R1MFI3Q3lIMG5BNG1aYnBsWVA0azlTdGd3dFRLZ1pLNWpoaDBYVFIyTkc4aS1ua0RnIiwiaWQiOiJmY19FUE1DYTVtSEE4N0hwODRQM04yUi1ROF81In0%3D"
+      },
+      {
+        "question": "Are Joe Rogan's ratings falling?",
+        "type": "ai_overview",
+        "page_token": "Ae0YrHicHdBdboIwAADgbBfYLXzUFsFlJmYRLSiButJS0BdTWxSl_ASZZDzuLHvaYXaAXWMX2LLn7-17_9DnMv--S7K2ra_T0ajruuGpqk46HcqqGInrWylHUmh9EDKfTh4n8PkoZ-ja2Yuqs0kUoq1WOi6cBrvakksnpxHebvmTEazq2w7xF7n0giAmPS5RL1gOFeIN4SoWubWi0N5wFnppkQk_hvYumUPhYqgo3KgxbhVCECdZELmRxQC8pq7uaO4sBVLRAXmELyCQRW0xF4Ys8agycEnY2gj67CKRysLccnYG9MM4MoSuTF5AW_6pAIQ6gBMW4QzHcE3YaUxXcxM7855dPOpzZLpnz6bI7EKm1jThPuX1KwNWEiAAAtcLOJwDAkyoLlkiV1k5OMrbbDz4H5vtj0U7rZvq9CmbVLSp2ov2K7__efgFAph7Pg",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Ae0YrHicHdBdboIwAADgbBfYLXzUFsFlJmYRLSiButJS0BdTWxSl_ASZZDzuLHvaYXaAXWMX2LLn7-17_9DnMv--S7K2ra_T0ajruuGpqk46HcqqGInrWylHUmh9EDKfTh4n8PkoZ-ja2Yuqs0kUoq1WOi6cBrvakksnpxHebvmTEazq2w7xF7n0giAmPS5RL1gOFeIN4SoWubWi0N5wFnppkQk_hvYumUPhYqgo3KgxbhVCECdZELmRxQC8pq7uaO4sBVLRAXmELyCQRW0xF4Ys8agycEnY2gj67CKRysLccnYG9MM4MoSuTF5AW_6pAIQ6gBMW4QzHcE3YaUxXcxM7855dPOpzZLpnz6bI7EKm1jThPuX1KwNWEiAAAtcLOJwDAkyoLlkiV1k5OMrbbDz4H5vtj0U7rZvq9CmbVLSp2ov2K7__efgFAph7Pg",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWFYTjRURUkzT1dwNmRFbzNUVUkyVkhkS2MyWXdkVE5hVVhWTlgwcDJjak5vV0ZodU4zRmlXVnBXV2xCb2MyRTRRWEZmTW1WUmFWTktSV3RmU25VM1JIRTJRVGR3TkRsbGNucDRaa3hpTVV0Tk4wcHRSRXN4VnkxTFVSSVhSVkJOUTJFMWJVaEJPRGRJY0RnMFVETk9NbEl0VVRnYUlrRklUakJGTjBaMmVDMXhOa2hYY1c5S1drOWlTbGxXU0hOalNqZFhhMjFLT1djIiwiZmN2IjoiMyIsImVpIjoiRVBNQ2E1bUhBODdIcDg0UDNOMlItUTgiLCJxYyI6IkNqMW9iM2NnWkc4Z2RHOXdJSEJ2WkdOaGMzUnpJR3hwYTJVZ2FtOWxJSEp2WjJGdUlHRnVaQ0JvZFdKbGNtMWhiaUJ3Y205a2RXTmxJR05zYVhCekVBQjliYW9KUHciLCJxdWVzdGlvbiI6IkFyZSBKb2UgUm9nYW4ncyByYXRpbmdzIGZhbGxpbmc/IiwibGsiOiJHaDFoY21VZ2FtOWxJSEp2WjJGdUlISmhkR2x1WjNNZ1ptRnNiR2x1WnciLCJicyI6ImM0WFBNUXZDTUJBRllGd3pPVWVLQjFWRWNHaFRuSU80U01IRnBYTnNZNU9hSmlXSjVPLWJDam9vNnZZNHZuZmNvUkt0S3lGckFZTnBhdVk4MUVvTzBITE5MZlBHZ25UZ0JZY3pkNTZTQk1fRzhNV2lEaFVIRTZDX3hYV040UTdZU3dicEJXeXpUWlpsb0tUelk4ZEJ6NjZja2dMbjRuZnRzNFdPYUZFSjVwXzNwZm1ySV9WakVveFZEU1ZMbkliX0R1MFI3Q3lIMG5BNG1aYnBsWVA0azlTdGd3dFRLZ1pLNWpoaDBYVFIyTkc4aS1ua0RnIiwiaWQiOiJmY19FUE1DYTVtSEE4N0hwODRQM04yUi1ROF81In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWFYTjRURUkzT1dwNmRFbzNUVUkyVkhkS2MyWXdkVE5hVVhWTlgwcDJjak5vV0ZodU4zRmlXVnBXV2xCb2MyRTRRWEZmTW1WUmFWTktSV3RmU25VM1JIRTJRVGR3TkRsbGNucDRaa3hpTVV0Tk4wcHRSRXN4VnkxTFVSSVhSVkJOUTJFMWJVaEJPRGRJY0RnMFVETk9NbEl0VVRnYUlrRklUakJGTjBaMmVDMXhOa2hYY1c5S1drOWlTbGxXU0hOalNqZFhhMjFLT1djIiwiZmN2IjoiMyIsImVpIjoiRVBNQ2E1bUhBODdIcDg0UDNOMlItUTgiLCJxYyI6IkNqMW9iM2NnWkc4Z2RHOXdJSEJ2WkdOaGMzUnpJR3hwYTJVZ2FtOWxJSEp2WjJGdUlHRnVaQ0JvZFdKbGNtMWhiaUJ3Y205a2RXTmxJR05zYVhCekVBQjliYW9KUHciLCJxdWVzdGlvbiI6IkFyZSBKb2UgUm9nYW4ncyByYXRpbmdzIGZhbGxpbmc%2FIiwibGsiOiJHaDFoY21VZ2FtOWxJSEp2WjJGdUlISmhkR2x1WjNNZ1ptRnNiR2x1WnciLCJicyI6ImM0WFBNUXZDTUJBRllGd3pPVWVLQjFWRWNHaFRuSU80U01IRnBYTnNZNU9hSmlXSjVPLWJDam9vNnZZNHZuZmNvUkt0S3lGckFZTnBhdVk4MUVvTzBITE5MZlBHZ25UZ0JZY3pkNTZTQk1fRzhNV2lEaFVIRTZDX3hYV040UTdZU3dicEJXeXpUWlpsb0tUelk4ZEJ6NjZja2dMbjRuZnRzNFdPYUZFSjVwXzNwZm1ySV9WakVveFZEU1ZMbkliX0R1MFI3Q3lIMG5BNG1aYnBsWVA0azlTdGd3dFRLZ1pLNWpoaDBYVFIyTkc4aS1ua0RnIiwiaWQiOiJmY19FUE1DYTVtSEE4N0hwODRQM04yUi1ROF81In0%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "uLvgEXiczVbZbupGGJZ6XalPUd-QgDFLIJIVzRgDjsMyEELIjeUN23gZ8BKHXJ5n6VUfpg9wXuO8QMfGBJtAklNVan8Jz_bv83_z8-0Px_Ls778-mmG4Dq4rlTiOywbGhqOXVexW5GDrqZUldgJfNW8CHPmqbmmsavrY1andOluVsUKZDqt7lOGwUUBtn9kapQYsTekWy48HnNxw-6B11V-36uPakJlcohaV6mclRQ70FTH_sgoqUoV87N9rHbIoB2XdKwv6RvG6DHhYgzJDM7XyqCK7hAH8tzQAQDDIaANgfMQH0Vc1IhMAHnDH8vxuzO0T08SmADhhd3LO_jRRmkhyMFkmikZguRrbPTIb7rlmwid-cQWf5plbu8E-dvcLlIkmERQ2PqITSUzzIh7W3PHZKeoVT-CiAzpxTv27cMSDdzvRWfKJQbc-HgCE0FlLeyKqxQWgHfBJnew9mrVvpyGRghXNIFVOVxSfDNWKpZpqOvGDpPi5-zaNe95sNhFtceu3tfEILfRF-96ZSHbvkgYVVSF8DpY1XZNMib5J11WGYVq19lXtIkWdGrzBLsjDzscBHXqtwWVIl-_KsLrHXDHa42QhQQCnismAxj4VRXpTgPIXmabhSMAuWO5mowkgRoSrcIhE_i7PRODSIflqGfn0HyS4DzB3HEcSHc4UzLItUKw2tAD89C2Ao0IcnVSbxAHAMQyMXjYR4N7xODt5j7kJEFCarSxjhccRkhcCkgSj5KUQiXjIGSmvUE_8298Y4nmBB7xxEMsRx58IB3A5T4gcn3DFwOCBHQk8J1jZNkiNGMbOEkTGm5rUBvcedSkNyH7XPHn0JeK_8rDsvNiD7Agzeazxl69q9KrMemjVbzxbjgTWcIAQc8sw8WlsYVf5iZ6m_u_Rt-94Tlb2Z9GXCH4Jfcj8CH2nOt4OfZx9Bn3THfo4eKrjjfdcRx3vPfo4YOXQl3W8lywX_wb64Ofoy19XHn2Hqyqgjz-Hvh5fRN9ixe873mn0ZR3vgL5_2vHgz3e8FIT6bii2v2hlnG2D3XpL9gaOOzSn0koUHrBw_9pgnpr9yT36tA0u3fDalTXnQrK0a8jchlvtQiIb-FrXqA3bx3FJw6UQr0trrKlyEAYlx7L10i3WSxNsyF5J9rRSP1J03yWLtY-1SNVLqmOtgxvKdXzM0vKVYUD38SUC4hN9v-C6wRS0HG7ZUT1l1eSaNLL687kM4WtV21a79e1g0zZXtQfpqltdCH3zKXa1RhfWm0tebIax97gdiotQtB0_nkvTeRR7o0CJtCa_aZlgPYgiMx69KFZfq9vyeDOUnbux8jyjU28Cdv4CJ0D0ZaXWolxfZcn91w0wRMlfOxnAGNymBQsnGzLekWpQMASovwCoY5AfJldFBaos6cEzqzYbNbVB06osL6-W-pJyjXC7Zts0FXg-W_1T9XU5JJmXw7_sX3789jdB_4W0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=uLvgEXiczVbZbupGGJZ6XalPUd-QgDFLIJIVzRgDjsMyEELIjeUN23gZ8BKHXJ5n6VUfpg9wXuO8QMfGBJtAklNVan8Jz_bv83_z8-0Px_Ls778-mmG4Dq4rlTiOywbGhqOXVexW5GDrqZUldgJfNW8CHPmqbmmsavrY1andOluVsUKZDqt7lOGwUUBtn9kapQYsTekWy48HnNxw-6B11V-36uPakJlcohaV6mclRQ70FTH_sgoqUoV87N9rHbIoB2XdKwv6RvG6DHhYgzJDM7XyqCK7hAH8tzQAQDDIaANgfMQH0Vc1IhMAHnDH8vxuzO0T08SmADhhd3LO_jRRmkhyMFkmikZguRrbPTIb7rlmwid-cQWf5plbu8E-dvcLlIkmERQ2PqITSUzzIh7W3PHZKeoVT-CiAzpxTv27cMSDdzvRWfKJQbc-HgCE0FlLeyKqxQWgHfBJnew9mrVvpyGRghXNIFVOVxSfDNWKpZpqOvGDpPi5-zaNe95sNhFtceu3tfEILfRF-96ZSHbvkgYVVSF8DpY1XZNMib5J11WGYVq19lXtIkWdGrzBLsjDzscBHXqtwWVIl-_KsLrHXDHa42QhQQCnismAxj4VRXpTgPIXmabhSMAuWO5mowkgRoSrcIhE_i7PRODSIflqGfn0HyS4DzB3HEcSHc4UzLItUKw2tAD89C2Ao0IcnVSbxAHAMQyMXjYR4N7xODt5j7kJEFCarSxjhccRkhcCkgSj5KUQiXjIGSmvUE_8298Y4nmBB7xxEMsRx58IB3A5T4gcn3DFwOCBHQk8J1jZNkiNGMbOEkTGm5rUBvcedSkNyH7XPHn0JeK_8rDsvNiD7Agzeazxl69q9KrMemjVbzxbjgTWcIAQc8sw8WlsYVf5iZ6m_u_Rt-94Tlb2Z9GXCH4Jfcj8CH2nOt4OfZx9Bn3THfo4eKrjjfdcRx3vPfo4YOXQl3W8lywX_wb64Ofoy19XHn2Hqyqgjz-Hvh5fRN9ixe873mn0ZR3vgL5_2vHgz3e8FIT6bii2v2hlnG2D3XpL9gaOOzSn0koUHrBw_9pgnpr9yT36tA0u3fDalTXnQrK0a8jchlvtQiIb-FrXqA3bx3FJw6UQr0trrKlyEAYlx7L10i3WSxNsyF5J9rRSP1J03yWLtY-1SNVLqmOtgxvKdXzM0vKVYUD38SUC4hN9v-C6wRS0HG7ZUT1l1eSaNLL687kM4WtV21a79e1g0zZXtQfpqltdCH3zKXa1RhfWm0tebIax97gdiotQtB0_nkvTeRR7o0CJtCa_aZlgPYgiMx69KFZfq9vyeDOUnbux8jyjU28Cdv4CJ0D0ZaXWolxfZcn91w0wRMlfOxnAGNymBQsnGzLekWpQMASovwCoY5AfJldFBaos6cEzqzYbNbVB06osL6-W-pJyjXC7Zts0FXg-W_1T9XU5JJmXw7_sX3789jdB_4W0"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "How do big podcasters edit their episodes?",
+        "link": "https://www.reddit.com/r/podcasting/comments/tqfdwa/how_do_big_podcasters_edit_their_episodes/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmwEBxCJF15pEG2nbJLgRg0O1Tvq4WYQi6j1LL5OlEf4B9RbGOhtZB0Czm5E_wwjtDXC45zM56L1WpyJWwYv_SqmFsBlbm1UeOds8Hx8oVBRUZ04o2aU4yCgW_C7FY3J5eQObZZlwDKF8hky_kZ1IITh4dSSSn-IYqGjgI02xI5980mKu7GJ0ajKWXsT6U_dmxBBI3JI5SkCpyRh-nA&ved=2ahUKEwiZz96K3JuYAxXO48kDHdxuJP8QFnoECCoQAQ&uoh=1",
+        "displayed_link": "10+ comments",
+        "date": "4 years ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+        "snippet": "After listening to JRE and Lex Fridman's podcast for a couple of years now, I was inspired to start my own channel. Now, I'm confronted with the question ...",
+        "sitelinks": {
+          "list": [
+            {
+              "title": "r/ObsidianMD on Reddit: Here is How I save the ...",
+              "link": "https://www.google.com/goto?url=CAESogEBxCJF19p5Xiv0w-jVDzL8ODL2hp3rW32aiVgtZ49CME3379L-RTyI3ezC70C5QkbQl-67Vfl8di2s-eKcnGFoCILVbftEX26EdeGbwJJHn46YssbQONDYXr8liTmrlFAYJc6F3yTE_Or17e0_Unf5Jb0J6TK50H4W3RxXgyW2EKIItGIApyLgcYySgJ4mj9xPaNGbEYgFJ51yjEhW2QjokjY&gsessionid=Zq66rUFyCgwliKFyXA-eR24n1nITg-KXFIZBnQ4SMingq43mgOrsRQ",
+              "answer_count": 23,
+              "date": "Mar 1, 2024"
+            },
+            {
+              "title": "How do you cut up clips of things like podcasts and ...",
+              "link": "https://www.google.com/goto?url=CAESoQEBxCJF15GbZnUqXhRpHO5wwNmvxlq5TZ21Ei1Me8ea0oaZlk9eW-XH6uCb_Vr06gAb1HDvTYUxwFZv4oEt_hDzi-lHGN9O9Fu7_1FAQ1he1xkwvBdYYOqQ2BZAmJMgAqJZtxCfQqqm1x8IdxecGmojqWGMjcTTgO2E-cRXY6ZnEmgCAPDwbuP2BSdhj1gDPGru5Bi0WgcggC2HKrakRTGxVw&gsessionid=Zq66rUFyCgwliKFyXA-eR24n1nITg-KXFIZBnQ4SMingq43mgOrsRQ",
+              "answer_count": 10,
+              "date": "Apr 27, 2024"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "The short answer is that they don't edit. They just record stuff and put it up a few minutes later. I would be willing to bet that something ...",
+            "source_info_link": "https://www.reddit.com/r/podcasting/comments/tqfdwa/how_do_big_podcasters_edit_their_episodes/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuABL2dvdG8_dXJsPUNBRVNtd0VCeENKRjEwQjEzd2oxMnNVMmtKT29kUlpBZFN3RVYwWkN1SnprWkIxZUZNMC1TY0hmTnVTVXo2QWU1NXhDZ0ZTeDFZbWVRREgzUjJGYmNzbTBkU1B3bFNEMnVSLVNBS0dpMnFodlZhWXlXN2ZCWXJqaFBwTVRMTHUzbFp1UUo0VjctNUEzdjZyMWpldUIzVWE0UmNDY2tGakNSYzFrVmNWdm83bnhzd0dOX2ZOTTNmcWFIM1hCVHhreHhmYmJNT1c2S1pVdHBZNjdsS2pVU3cSBBoCCAAa2QcSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAtQcIABAAGAAgACoKCgNob3cVMS6kQCowCgJkbxWX2KJAGgNhcmUaA2RpZBoEZG9lcxoEbWFrZRoCdG8aBHdpbGwaBWRvdG9wKkEKA3RvcBWoURI_GgRiZXN0GghmdW5uaWVzdBoEZ29vZBoLaW50ZXJlc3RpbmcaBWRvdG9wGgt0b3Bwb2RjYXN0cyocCghwb2RjYXN0cxWD1v0_Ggt0b3Bwb2RjYXN0cyoUCgRsaWtlFeMMrT8aB3NpbWlsYXIqHAoDam9lFZ0qNUAaBmpvc2VwaBoIam9lcm9nYW4qIgoFcm9nYW4Vkbu1PxoIam9lcm9nYW4aCml2O3A7cm9nYW4qCgoDYW5kFQAAAAAqKgoIaHViZXJtYW4V8yJVPxoKaHViZXJtYW4ncxoNaXY7cDtodWJlcm1hbipuCgdwcm9kdWNlFQAAAAAaBWNhdXNlGgZjcmVhdGUaCGdlbmVyYXRlGgRtYWtlGgttYW51ZmFjdHVyZRoIcHJvZHVjZWQaCHByb2R1Y2VzGglwcm9kdWNpbmcaB3Byb2R1Y3QaCnByb2R1Y3Rpb24qKQoFY2xpcHMV6E2DPRoEY2xpcBoGdmVkaW9zGgV2aWRlbxoGdmlkZW9zMuABL2dvdG8_dXJsPUNBRVNtd0VCeENKRjEwQjEzd2oxMnNVMmtKT29kUlpBZFN3RVYwWkN1SnprWkIxZUZNMC1TY0hmTnVTVXo2QWU1NXhDZ0ZTeDFZbWVRREgzUjJGYmNzbTBkU1B3bFNEMnVSLVNBS0dpMnFodlZhWXlXN2ZCWXJqaFBwTVRMTHUzbFp1UUo0VjctNUEzdjZyMWpldUIzVWE0UmNDY2tGakNSYzFrVmNWdm83bnhzd0dOX2ZOTTNmcWFIM1hCVHhreHhmYmJNT1c2S1pVdHBZNjdsS2pVU3c6OjxiPkhvdyBkbzwvYj4gYmlnIHBvZGNhc3RlcnMgZWRpdCB0aGVpciBlcGlzb2Rlcz8gLSBSZWRkaXRCoAFUaGUgc2hvcnQgYW5zd2VyIGlzIHRoYXQgdGhleSBkb24mIzM5O3QgZWRpdC4gPGI-VGhleSBqdXN0IHJlY29yZCBzdHVmZiBhbmQgcHV0IGl0IHVwIGEgZmV3IG1pbnV0ZXMgbGF0ZXI8L2I-LiBJIHdvdWxkIGJlIHdpbGxpbmcgdG8gYmV0IHRoYXQgc29tZXRoaW5nJm5ic3A7Li4uSgNhbmRSBHdpbGxSA2FyZVICdG9SBXZpZGVvUgRiZXN0IgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuABL2dvdG8_dXJsPUNBRVNtd0VCeENKRjEwQjEzd2oxMnNVMmtKT29kUlpBZFN3RVYwWkN1SnprWkIxZUZNMC1TY0hmTnVTVXo2QWU1NXhDZ0ZTeDFZbWVRREgzUjJGYmNzbTBkU1B3bFNEMnVSLVNBS0dpMnFodlZhWXlXN2ZCWXJqaFBwTVRMTHUzbFp1UUo0VjctNUEzdjZyMWpldUIzVWE0UmNDY2tGakNSYzFrVmNWdm83bnhzd0dOX2ZOTTNmcWFIM1hCVHhreHhmYmJNT1c2S1pVdHBZNjdsS2pVU3cSBBoCCAAa2QcSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAtQcIABAAGAAgACoKCgNob3cVMS6kQCowCgJkbxWX2KJAGgNhcmUaA2RpZBoEZG9lcxoEbWFrZRoCdG8aBHdpbGwaBWRvdG9wKkEKA3RvcBWoURI_GgRiZXN0GghmdW5uaWVzdBoEZ29vZBoLaW50ZXJlc3RpbmcaBWRvdG9wGgt0b3Bwb2RjYXN0cyocCghwb2RjYXN0cxWD1v0_Ggt0b3Bwb2RjYXN0cyoUCgRsaWtlFeMMrT8aB3NpbWlsYXIqHAoDam9lFZ0qNUAaBmpvc2VwaBoIam9lcm9nYW4qIgoFcm9nYW4Vkbu1PxoIam9lcm9nYW4aCml2O3A7cm9nYW4qCgoDYW5kFQAAAAAqKgoIaHViZXJtYW4V8yJVPxoKaHViZXJtYW4ncxoNaXY7cDtodWJlcm1hbipuCgdwcm9kdWNlFQAAAAAaBWNhdXNlGgZjcmVhdGUaCGdlbmVyYXRlGgRtYWtlGgttYW51ZmFjdHVyZRoIcHJvZHVjZWQaCHByb2R1Y2VzGglwcm9kdWNpbmcaB3Byb2R1Y3QaCnByb2R1Y3Rpb24qKQoFY2xpcHMV6E2DPRoEY2xpcBoGdmVkaW9zGgV2aWRlbxoGdmlkZW9zMuABL2dvdG8_dXJsPUNBRVNtd0VCeENKRjEwQjEzd2oxMnNVMmtKT29kUlpBZFN3RVYwWkN1SnprWkIxZUZNMC1TY0hmTnVTVXo2QWU1NXhDZ0ZTeDFZbWVRREgzUjJGYmNzbTBkU1B3bFNEMnVSLVNBS0dpMnFodlZhWXlXN2ZCWXJqaFBwTVRMTHUzbFp1UUo0VjctNUEzdjZyMWpldUIzVWE0UmNDY2tGakNSYzFrVmNWdm83bnhzd0dOX2ZOTTNmcWFIM1hCVHhreHhmYmJNT1c2S1pVdHBZNjdsS2pVU3c6OjxiPkhvdyBkbzwvYj4gYmlnIHBvZGNhc3RlcnMgZWRpdCB0aGVpciBlcGlzb2Rlcz8gLSBSZWRkaXRCoAFUaGUgc2hvcnQgYW5zd2VyIGlzIHRoYXQgdGhleSBkb24mIzM5O3QgZWRpdC4gPGI-VGhleSBqdXN0IHJlY29yZCBzdHVmZiBhbmQgcHV0IGl0IHVwIGEgZmV3IG1pbnV0ZXMgbGF0ZXI8L2I-LiBJIHdvdWxkIGJlIHdpbGxpbmcgdG8gYmV0IHRoYXQgc29tZXRoaW5nJm5ic3A7Li4uSgNhbmRSBHdpbGxSA2FyZVICdG9SBXZpZGVvUgRiZXN0IgIQAUgAWABoAA",
+        "source": "Reddit \u00b7 r/podcasting"
+      },
+      {
+        "position": 2,
+        "title": "How to Create Video Podcasts Like Joe Rogan",
+        "link": "https://www.facebook.com/fb-answers/how-to-create-video-podcasts-like-joe-rogan/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjQEBxCJF15Eb0WdbwyBfN9GDb1WKhySb8eBcvShFOOhKfevDIIwr01_QABfPwRexIx0KJqVk7BsHp0j6qFL41hvj40DpQkn87PpVuO6fljcyRDNw7VDkjPfmBeji4gPBzfPfDbgAjMEX33ikDH-V6DmmjLhLIeRBbx2R_O-ipf5MftbAwJaY1N8Smh36c8E&ved=2ahUKEwiZz96K3JuYAxXO48kDHdxuJP8QFnoECB8QAQ&uoh=1",
+        "displayed_link": "https://www.facebook.com \u203a fb-answers \u203a how-to-creat...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+        "snippet": "The formula is simple: record the normal podcast, upload video to YouTube and audio to podcast platforms, then slice the long video into under-60- second clips ...",
+        "snippet_highlighted_words": [
+          "record the normal podcast, upload video to YouTube and audio to podcast platforms"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The formula is simple: record the normal podcast, upload video to YouTube and audio to podcast platforms, then slice the long video into under-60- second clips ...",
+            "source_info_link": "https://www.facebook.com/fb-answers/how-to-create-video-podcasts-like-joe-rogan/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cs0BL2dvdG8_dXJsPUNBRVNqUUVCeENKRjExLWtwamNPSTZ4ZnRocFFRbC0xY3k1WUZVQ2JOSzBBRG16YTM2MVAtVEJuRlRUcXJHWmxFTjhTRDB6NDhpUkhaV09MZzEtLTdTVk5KSk91N1Z6X25xS253RTlOOEZyeEhvS25jTE5nSE5ZRGNWbFhzV1VvVmVfREVPNTBYeGstaC1PaDY3cUtRb0ctWUlTSGpSTUh0MGRieVdQY29GVWhQaFJXZTVldGtKNk4xQkE2cWhycE0yWRIEGgIIABrYBxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC0BwgAEAAYACAAKgoKA2hvdxWkNqpAKjAKAmRvFc93hj8aA2FyZRoDZGlkGgRkb2VzGgRtYWtlGgJ0bxoEd2lsbBoFZG90b3AqQQoDdG9wFQAAAAAaBGJlc3QaCGZ1bm5pZXN0GgRnb29kGgtpbnRlcmVzdGluZxoFZG90b3AaC3RvcHBvZGNhc3RzKhwKCHBvZGNhc3RzFTRmskAaC3RvcHBvZGNhc3RzKhQKBGxpa2UVDsrDQBoHc2ltaWxhciocCgNqb2UV2Hj4QBoGam9zZXBoGghqb2Vyb2dhbioiCgVyb2dhbhXYePhAGghqb2Vyb2dhbhoKaXY7cDtyb2dhbioKCgNhbmQVAAAAACoqCghodWJlcm1hbhUAAAAAGgpodWJlcm1hbidzGg1pdjtwO2h1YmVybWFuKm4KB3Byb2R1Y2UVeQEhPRoFY2F1c2UaBmNyZWF0ZRoIZ2VuZXJhdGUaBG1ha2UaC21hbnVmYWN0dXJlGghwcm9kdWNlZBoIcHJvZHVjZXMaCXByb2R1Y2luZxoHcHJvZHVjdBoKcHJvZHVjdGlvbiopCgVjbGlwcxWYgxJAGgRjbGlwGgZ2ZWRpb3MaBXZpZGVvGgZ2aWRlb3MyzQEvZ290bz91cmw9Q0FFU2pRRUJ4Q0pGMTEta3BqY09JNnhmdGhwUVFsLTFjeTVZRlVDYk5LMEFEbXphMzYxUC1UQm5GVFRxckdabEVOOFNEMHo0OGlSSFpXT0xnMS0tN1NWTkpKT3U3VnpfbnFLbndFOU44RnJ4SG9LbmNMTmdITllEY1ZsWHNXVW9WZV9ERU81MFh4ay1oLU9oNjdxS1FvRy1ZSVNIalJNSHQwZGJ5V1Bjb0ZVaFBoUldlNWV0a0o2TjFCQTZxaHJwTTJZOj08Yj5Ib3cgdG8gQ3JlYXRlIFZpZGVvIFBvZGNhc3RzIExpa2UgSm9lIFJvZ2FuPC9iPiAtIEZhY2Vib29rQq8BVGhlIGZvcm11bGEgaXMgc2ltcGxlOiA8Yj5yZWNvcmQgdGhlIG5vcm1hbCBwb2RjYXN0LCB1cGxvYWQgdmlkZW8gdG8gWW91VHViZSBhbmQgYXVkaW8gdG8gcG9kY2FzdCBwbGF0Zm9ybXM8L2I-LCB0aGVuIHNsaWNlIHRoZSBsb25nIHZpZGVvIGludG8gdW5kZXItNjAtIHNlY29uZCBjbGlwcyZuYnNwOy4uLkoDYW5kUgRiZXN0UgR3aWxsUgNhcmVSAnRvUgV2aWRlbyICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs0BL2dvdG8_dXJsPUNBRVNqUUVCeENKRjExLWtwamNPSTZ4ZnRocFFRbC0xY3k1WUZVQ2JOSzBBRG16YTM2MVAtVEJuRlRUcXJHWmxFTjhTRDB6NDhpUkhaV09MZzEtLTdTVk5KSk91N1Z6X25xS253RTlOOEZyeEhvS25jTE5nSE5ZRGNWbFhzV1VvVmVfREVPNTBYeGstaC1PaDY3cUtRb0ctWUlTSGpSTUh0MGRieVdQY29GVWhQaFJXZTVldGtKNk4xQkE2cWhycE0yWRIEGgIIABrYBxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC0BwgAEAAYACAAKgoKA2hvdxWkNqpAKjAKAmRvFc93hj8aA2FyZRoDZGlkGgRkb2VzGgRtYWtlGgJ0bxoEd2lsbBoFZG90b3AqQQoDdG9wFQAAAAAaBGJlc3QaCGZ1bm5pZXN0GgRnb29kGgtpbnRlcmVzdGluZxoFZG90b3AaC3RvcHBvZGNhc3RzKhwKCHBvZGNhc3RzFTRmskAaC3RvcHBvZGNhc3RzKhQKBGxpa2UVDsrDQBoHc2ltaWxhciocCgNqb2UV2Hj4QBoGam9zZXBoGghqb2Vyb2dhbioiCgVyb2dhbhXYePhAGghqb2Vyb2dhbhoKaXY7cDtyb2dhbioKCgNhbmQVAAAAACoqCghodWJlcm1hbhUAAAAAGgpodWJlcm1hbidzGg1pdjtwO2h1YmVybWFuKm4KB3Byb2R1Y2UVeQEhPRoFY2F1c2UaBmNyZWF0ZRoIZ2VuZXJhdGUaBG1ha2UaC21hbnVmYWN0dXJlGghwcm9kdWNlZBoIcHJvZHVjZXMaCXByb2R1Y2luZxoHcHJvZHVjdBoKcHJvZHVjdGlvbiopCgVjbGlwcxWYgxJAGgRjbGlwGgZ2ZWRpb3MaBXZpZGVvGgZ2aWRlb3MyzQEvZ290bz91cmw9Q0FFU2pRRUJ4Q0pGMTEta3BqY09JNnhmdGhwUVFsLTFjeTVZRlVDYk5LMEFEbXphMzYxUC1UQm5GVFRxckdabEVOOFNEMHo0OGlSSFpXT0xnMS0tN1NWTkpKT3U3VnpfbnFLbndFOU44RnJ4SG9LbmNMTmdITllEY1ZsWHNXVW9WZV9ERU81MFh4ay1oLU9oNjdxS1FvRy1ZSVNIalJNSHQwZGJ5V1Bjb0ZVaFBoUldlNWV0a0o2TjFCQTZxaHJwTTJZOj08Yj5Ib3cgdG8gQ3JlYXRlIFZpZGVvIFBvZGNhc3RzIExpa2UgSm9lIFJvZ2FuPC9iPiAtIEZhY2Vib29rQq8BVGhlIGZvcm11bGEgaXMgc2ltcGxlOiA8Yj5yZWNvcmQgdGhlIG5vcm1hbCBwb2RjYXN0LCB1cGxvYWQgdmlkZW8gdG8gWW91VHViZSBhbmQgYXVkaW8gdG8gcG9kY2FzdCBwbGF0Zm9ybXM8L2I-LCB0aGVuIHNsaWNlIHRoZSBsb25nIHZpZGVvIGludG8gdW5kZXItNjAtIHNlY29uZCBjbGlwcyZuYnNwOy4uLkoDYW5kUgRiZXN0UgR3aWxsUgNhcmVSAnRvUgV2aWRlbyICEAFIAFgAaAA",
+        "missing": [
+          "Huberman"
+        ],
+        "must_include": {
+          "word": "Huberman",
+          "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDjVJsjYZgwxYeZiiB83g0541dsfYg:1795355408057&q=How+do+top+podcasts+like+Joe+Rogan+and+%22Huberman%22+produce+clips?&sa=X&ved=2ahUKEwiZz96K3JuYAxXO48kDHdxuJP8Q5t4CegQINxAB"
+        },
+        "source": "Facebook",
+        "read_more_link": "https://www.google.com/goto?url=CAES5QEBxCJF10dRfKV8eQP7z8tc2-98Kzid8oCzuxO252OJtCS5CaIlBOpuAyI6OoCjeNlXRCkjaeZWFC7TVxi1D1EMVGjcrSa_jS8HU-Dy1u9feFhghgarf0Y4XEmNDz7-ka7gqpdGK7An68hQkUKNt6sjxm4Q5rS4qRjn5BEJvT-wm1oJV7TkTNHl6YGhQMJBqZmUWduilqLO6zNjwNfeLVCFzzcqqObNWK4c0OJDdLW45SlPE5joBEtQJLUKU_MnBLMWrFD-tTi9Ebhn0Uo_DjZHOl8ImkZ8GgWRKM5wvgdvpZoLjMd9&gsessionid=Zq66rUFyCgwliKFyXA-eR24n1nITg-KXFIZBnQ4SMingq43mgOrsRQ"
+      },
+      {
+        "position": 3,
+        "title": "How to Turn Long Podcasts into Short Viral Clips for ... - Clipper",
+        "link": "https://www.google.com/goto?url=CAESiAEBxCJF1w8XvPzLpvMw7meia7ObeHDtwScQIFh0YUlT_UMGofRL9gfKecCbhKGvsfa8yKwWnKMOovvYE7csz6Je8MkrFSoNaiue6VV10SEYNsftykSKxpS1WyY3BaIS3CeuzASEvvvBs0uVgYYsNaRSWja8ZLziimnTSLP2c6eV3b3fganCK3A6",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiAEBxCJF16jRYJENzUO0jkCgjUhoJcVaJsIaWy8IsWlWCLl0N5ZOwnm9C0RE0Bfl2MFoyI-WFk9aEakjHdm5OHHXIv3fMXdKAbCH4o6zOqch_U0TBKMjDJXZF1fogtXOa_ASqriMi0gWK5CJDDxOOfRx7oHwoeHoNcLhS5XP33lN9V6pbZ0r5rSe&ved=2ahUKEwiZz96K3JuYAxXO48kDHdxuJP8QFnoECBYQAQ&uoh=1",
+        "displayed_link": "https://clipper.media \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAANlBMVEX____-_P3np7HWXHHOJkrNHETwzNHKADPLADfMFEDIACLJACvMCz3RP1vz1NnKADD78fL56uw48Qu5AAAAyklEQVR4AYWTBw6EMAwEl5IEE6f9_7OHCGcJHPCqWrOSOwBM87I6pXWZJ5zyYSM3EG3Bn3x3r9o9MAX3oTBh3r4M24yl56cQY9Cl0IJeP6cM5MQCSrl6QY8TTiW6ONV2ObohZGTmjBz-HPVmiAATMRCFE70ZhKsUlOHLk7t7kY1IuBikTfiGyixcDDKoQhWtda4M3cUND64NlVjiUYqDJybBusiDS5Jxm07a0LtQgzJGbS5L72K4bvNgzJMzj9Y8e_NxrNezn9d8_x_m1xgvv2wkCAAAAABJRU5ErkJggg.png",
+        "date": "Feb 22, 2026",
+        "snippet": "Step-by-step framework to repurpose 1-2 hour podcast episodes into engaging 9:16 vertical clips with animated captions for TikTok, Reels, and ...",
+        "snippet_highlighted_words": [
+          "repurpose 1-2 hour podcast episodes into engaging 9:16 vertical clips"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Step-by-step framework to repurpose 1-2 hour podcast episodes into engaging 9:16 vertical clips with animated captions for TikTok, Reels, and ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESiAEBxCJF1w8XvPzLpvMw7meia7ObeHDtwScQIFh0YUlT_UMGofRL9gfKecCbhKGvsfa8yKwWnKMOovvYE7csz6Je8MkrFSoNaiue6VV10SEYNsftykSKxpS1WyY3BaIS3CeuzASEvvvBs0uVgYYsNaRSWja8ZLziimnTSLP2c6eV3b3fganCK3A6",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAANlBMVEX____-_P3np7HWXHHOJkrNHETwzNHKADPLADfMFEDIACLJACvMCz3RP1vz1NnKADD78fL56uw48Qu5AAAAyklEQVR4AYWTBw6EMAwEl5IEE6f9_7OHCGcJHPCqWrOSOwBM87I6pXWZJ5zyYSM3EG3Bn3x3r9o9MAX3oTBh3r4M24yl56cQY9Cl0IJeP6cM5MQCSrl6QY8TTiW6ONV2ObohZGTmjBz-HPVmiAATMRCFE70ZhKsUlOHLk7t7kY1IuBikTfiGyixcDDKoQhWtda4M3cUND64NlVjiUYqDJybBusiDS5Jxm07a0LtQgzJGbS5L72K4bvNgzJMzj9Y8e_NxrNezn9d8_x_m1xgvv2wkCAAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsYBL2dvdG8_dXJsPUNBRVNpQUVCeENKRjF3OFh2UHpMcHZNdzdtZWlhN09iZUhEdHdTY1FJRmgwWVVsVF9VTUdvZlJMOWdmS2VjQ2JoS0d2c2ZhOHlLd1duS01Pb3Z2WUU3Y3N6NkplOE1rckZTb05haXVlNlZWMTBTRVlOc2Z0eWtTS3hwUzFXeVkzQmFJUzNDZXV6QVNFdnZ2QnMwdVZnWVlzTmFSU1dqYThaTHppaW1uVFNMUDJjNmVWM2IzZmdhbkNLM0E2EgQaAggAGtkHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLUHCAAQABgAIAAqCgoDaG93FdS_pUAqMAoCZG8VAAAAABoDYXJlGgNkaWQaBGRvZXMaBG1ha2UaAnRvGgR3aWxsGgVkb3RvcCpBCgN0b3AVAAAAABoEYmVzdBoIZnVubmllc3QaBGdvb2QaC2ludGVyZXN0aW5nGgVkb3RvcBoLdG9wcG9kY2FzdHMqHAoIcG9kY2FzdHMVijiGQBoLdG9wcG9kY2FzdHMqFAoEbGlrZRVP2eU_GgdzaW1pbGFyKhwKA2pvZRV0BLk_GgZqb3NlcGgaCGpvZXJvZ2FuKiIKBXJvZ2FuFXQEuT8aCGpvZXJvZ2FuGgppdjtwO3JvZ2FuKgoKA2FuZBUAAAAAKioKCGh1YmVybWFuFTZ2XD8aCmh1YmVybWFuJ3MaDWl2O3A7aHViZXJtYW4qbgoHcHJvZHVjZRUAAAAAGgVjYXVzZRoGY3JlYXRlGghnZW5lcmF0ZRoEbWFrZRoLbWFudWZhY3R1cmUaCHByb2R1Y2VkGghwcm9kdWNlcxoJcHJvZHVjaW5nGgdwcm9kdWN0Ggpwcm9kdWN0aW9uKikKBWNsaXBzFY1IvUAaBGNsaXAaBnZlZGlvcxoFdmlkZW8aBnZpZGVvczLGAS9nb3RvP3VybD1DQUVTaUFFQnhDSkYxdzhYdlB6THB2TXc3bWVpYTdPYmVIRHR3U2NRSUZoMFlVbFRfVU1Hb2ZSTDlnZktlY0NiaEtHdnNmYTh5S3dXbktNT292dllFN2NzejZKZThNa3JGU29OYWl1ZTZWVjEwU0VZTnNmdHlrU0t4cFMxV3lZM0JhSVMzQ2V1ekFTRXZ2dkJzMHVWZ1lZc05hUlNXamE4Wkx6aWltblRTTFAyYzZlVjNiM2ZnYW5DSzNBNjpXPGI-SG93IHRvPC9iPiBUdXJuIExvbmcgPGI-UG9kY2FzdHM8L2I-IGludG8gU2hvcnQgVmlyYWwgPGI-Q2xpcHM8L2I-IGZvciAuLi4gLSBDbGlwcGVyQp0BU3RlcC1ieS1zdGVwIGZyYW1ld29yayB0byA8Yj5yZXB1cnBvc2UgMS0yIGhvdXIgcG9kY2FzdCBlcGlzb2RlcyBpbnRvIGVuZ2FnaW5nIDk6MTYgdmVydGljYWwgY2xpcHM8L2I-IHdpdGggYW5pbWF0ZWQgY2FwdGlvbnMgZm9yIFRpa1RvaywgUmVlbHMsIGFuZCZuYnNwOy4uLkoDYW5kUgR3aWxsUgNhcmVSAnRvUgV2aWRlb1IEYmVzdCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsYBL2dvdG8_dXJsPUNBRVNpQUVCeENKRjF3OFh2UHpMcHZNdzdtZWlhN09iZUhEdHdTY1FJRmgwWVVsVF9VTUdvZlJMOWdmS2VjQ2JoS0d2c2ZhOHlLd1duS01Pb3Z2WUU3Y3N6NkplOE1rckZTb05haXVlNlZWMTBTRVlOc2Z0eWtTS3hwUzFXeVkzQmFJUzNDZXV6QVNFdnZ2QnMwdVZnWVlzTmFSU1dqYThaTHppaW1uVFNMUDJjNmVWM2IzZmdhbkNLM0E2EgQaAggAGtkHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLUHCAAQABgAIAAqCgoDaG93FdS_pUAqMAoCZG8VAAAAABoDYXJlGgNkaWQaBGRvZXMaBG1ha2UaAnRvGgR3aWxsGgVkb3RvcCpBCgN0b3AVAAAAABoEYmVzdBoIZnVubmllc3QaBGdvb2QaC2ludGVyZXN0aW5nGgVkb3RvcBoLdG9wcG9kY2FzdHMqHAoIcG9kY2FzdHMVijiGQBoLdG9wcG9kY2FzdHMqFAoEbGlrZRVP2eU_GgdzaW1pbGFyKhwKA2pvZRV0BLk_GgZqb3NlcGgaCGpvZXJvZ2FuKiIKBXJvZ2FuFXQEuT8aCGpvZXJvZ2FuGgppdjtwO3JvZ2FuKgoKA2FuZBUAAAAAKioKCGh1YmVybWFuFTZ2XD8aCmh1YmVybWFuJ3MaDWl2O3A7aHViZXJtYW4qbgoHcHJvZHVjZRUAAAAAGgVjYXVzZRoGY3JlYXRlGghnZW5lcmF0ZRoEbWFrZRoLbWFudWZhY3R1cmUaCHByb2R1Y2VkGghwcm9kdWNlcxoJcHJvZHVjaW5nGgdwcm9kdWN0Ggpwcm9kdWN0aW9uKikKBWNsaXBzFY1IvUAaBGNsaXAaBnZlZGlvcxoFdmlkZW8aBnZpZGVvczLGAS9nb3RvP3VybD1DQUVTaUFFQnhDSkYxdzhYdlB6THB2TXc3bWVpYTdPYmVIRHR3U2NRSUZoMFlVbFRfVU1Hb2ZSTDlnZktlY0NiaEtHdnNmYTh5S3dXbktNT292dllFN2NzejZKZThNa3JGU29OYWl1ZTZWVjEwU0VZTnNmdHlrU0t4cFMxV3lZM0JhSVMzQ2V1ekFTRXZ2dkJzMHVWZ1lZc05hUlNXamE4Wkx6aWltblRTTFAyYzZlVjNiM2ZnYW5DSzNBNjpXPGI-SG93IHRvPC9iPiBUdXJuIExvbmcgPGI-UG9kY2FzdHM8L2I-IGludG8gU2hvcnQgVmlyYWwgPGI-Q2xpcHM8L2I-IGZvciAuLi4gLSBDbGlwcGVyQp0BU3RlcC1ieS1zdGVwIGZyYW1ld29yayB0byA8Yj5yZXB1cnBvc2UgMS0yIGhvdXIgcG9kY2FzdCBlcGlzb2RlcyBpbnRvIGVuZ2FnaW5nIDk6MTYgdmVydGljYWwgY2xpcHM8L2I-IHdpdGggYW5pbWF0ZWQgY2FwdGlvbnMgZm9yIFRpa1RvaywgUmVlbHMsIGFuZCZuYnNwOy4uLkoDYW5kUgR3aWxsUgNhcmVSAnRvUgV2aWRlb1IEYmVzdCICEAFIAFgAaAA",
+        "source": "clipper.media",
+        "read_more_link": "https://www.google.com/goto?url=CAES8gEBxCJF1z_xSaaXv78BRxWQTwQ2vzntN5DDFOyjhhhEY-D1OZpHLI-f19W0OQpHDMeXecT-plFXOluFwJrqRhisWLSw1bRfWUODrxDUDCOfyHH7UJsKZ-6Hinit6jcbbtnR3ZDqN-2u4xXiU0Ep_-Z8sRyh2yDT0DEggpLhGh_IrO4HHJizLt9AW_x2gQjIpfYp7nAYu5BRnzPdxDsxnBhz-ILmJelWJ7xrCuqw_XuWLHT2uamc58F3G4_g9bhqBWzsYuTh5agB2dcjwlO6g-dufca_r89LwUXgsMHmp1ByvkJZa-cULL0Qa-IQ5SvC67AXOQ&gsessionid=Zq66rUFyCgwliKFyXA-eR24n1nITg-KXFIZBnQ4SMingq43mgOrsRQ"
+      },
+      {
+        "position": 4,
+        "title": "How to Do a Podcast Like Joe Rogan",
+        "link": "https://www.google.com/goto?url=CAESiAEBxCJF18spmvhJU6O0i5h2JzvTnR1bBhp_d8cEDuBAUcm7hhEgPcExXxG_7Omu28-3Nle2t2NVTmyp67xrFlOI9rF-_FeeJRaHSBg71uzIrvaRvuY2zQUZDW7zZ8LTalcELGPFLE7mxCdbW2eqn88CueV9GWiM9do8svZ90Kzfp31sCRi-REXC",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiAEBxCJF182I5-Vx8Rp-0qB_IlR3MD391xDJStIMQzqdiX1FV0nlw0VAPpHSh9HgOeGqDYCB7DPitOnYiGhZ13CszZTrDSpRmHSwwppVw6FNIO8boOK2s6rTyicx-P6uoTUQumL0LGiUNe5lLP6d_rgR-pkLWHl8DOyYczbIW4xHSUsV3RmXZ-zX&ved=2ahUKEwiZz96K3JuYAxXO48kDHdxuJP8QFnoECBgQAQ&uoh=1",
+        "displayed_link": "https://www.schoolofpodcasting.com \u203a Blog",
+        "favicon": "https://serpapi.com/searches/6b02f30ff3f3536b6fa55b1b/images/bgN0-X3fIIPhzjEgMWQ-bpfq-WhTtIKPuEkQa5OVIu0.png",
+        "date": "May 23, 2019",
+        "snippet": "Joe uses the Shure SM7B Vocal Microphone. His mixer is the Behringer XENYX X1222USB To record the episodes he uses a TASCAM DR-100 Portable ...",
+        "snippet_highlighted_words": [
+          "Shure SM7B Vocal Microphone"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 5.0,
+              "reviews": 213
+            },
+            "extensions": [
+              "5.0(213)"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Joe uses the Shure SM7B Vocal Microphone. His mixer is the Behringer XENYX X1222USB To record the episodes he uses a TASCAM DR-100 Portable ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESiAEBxCJF18spmvhJU6O0i5h2JzvTnR1bBhp_d8cEDuBAUcm7hhEgPcExXxG_7Omu28-3Nle2t2NVTmyp67xrFlOI9rF-_FeeJRaHSBg71uzIrvaRvuY2zQUZDW7zZ8LTalcELGPFLE7mxCdbW2eqn88CueV9GWiM9do8svZ90Kzfp31sCRi-REXC",
+            "icon": "https://serpapi.com/searches/6b02f30ff3f3536b6fa55b1b/images/bgN0-X3fIIPhzjEgMWQ-bp9VC-eLmwGZHaL3dB0NDLVjQfo7uc13al_CerOkm8Xo.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsYBL2dvdG8_dXJsPUNBRVNpQUVCeENKRjE4c3BtdmhKVTZPMGk1aDJKenZUblIxYkJocF9kOGNFRHVCQVVjbTdoaEVnUGNFeFh4R183T211MjgtM05sZTJ0Mk5WVG15cDY3eHJGbE9JOXJGLV9GZWVKUmFIU0JnNzF1eklydmFSdnVZMnpRVVpEVzd6WjhMVGFsY0VMR1BGTEU3bXhDZGJXMmVxbjg4Q3VlVjlHV2lNOWRvOHN2WjkwS3pmcDMxc0NSaS1SRVhDEgQaAggAGrIHEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAjAcIABAAGAAgACoKCgNob3cVrYmWQCowCgJkbxV8rLdAGgNhcmUaA2RpZBoEZG9lcxoEbWFrZRoCdG8aBHdpbGwaBWRvdG9wKkEKA3RvcBVsVhk-GgRiZXN0GghmdW5uaWVzdBoEZ29vZBoLaW50ZXJlc3RpbmcaBWRvdG9wGgt0b3Bwb2RjYXN0cyocCghwb2RjYXN0cxWU9Jw-Ggt0b3Bwb2RjYXN0cyoUCgRsaWtlFWIqnUAaB3NpbWlsYXIqHAoDam9lFT0Rt0AaBmpvc2VwaBoIam9lcm9nYW4qIgoFcm9nYW4V2OKgQBoIam9lcm9nYW4aCml2O3A7cm9nYW4qCgoDYW5kFQAAAAAqKgoIaHViZXJtYW4VAAAAABoKaHViZXJtYW4ncxoNaXY7cDtodWJlcm1hbipuCgdwcm9kdWNlFQAAAAAaBWNhdXNlGgZjcmVhdGUaCGdlbmVyYXRlGgRtYWtlGgttYW51ZmFjdHVyZRoIcHJvZHVjZWQaCHByb2R1Y2VzGglwcm9kdWNpbmcaB3Byb2R1Y3QaCnByb2R1Y3Rpb24qKQoFY2xpcHMVAAAAABoEY2xpcBoGdmVkaW9zGgV2aWRlbxoGdmlkZW9zMsYBL2dvdG8_dXJsPUNBRVNpQUVCeENKRjE4c3BtdmhKVTZPMGk1aDJKenZUblIxYkJocF9kOGNFRHVCQVVjbTdoaEVnUGNFeFh4R183T211MjgtM05sZTJ0Mk5WVG15cDY3eHJGbE9JOXJGLV9GZWVKUmFIU0JnNzF1eklydmFSdnVZMnpRVVpEVzd6WjhMVGFsY0VMR1BGTEU3bXhDZGJXMmVxbjg4Q3VlVjlHV2lNOWRvOHN2WjkwS3pmcDMxc0NSaS1SRVhDOjA8Yj5Ib3cgdG8gRG88L2I-IGEgUG9kY2FzdCA8Yj5MaWtlIEpvZSBSb2dhbjwvYj5CmwFKb2UgdXNlcyB0aGUgPGI-U2h1cmUgU003QiBWb2NhbCBNaWNyb3Bob25lPC9iPi4gSGlzIG1peGVyIGlzIHRoZSBCZWhyaW5nZXIgWEVOWVggWDEyMjJVU0IgVG8gcmVjb3JkIHRoZSBlcGlzb2RlcyBoZSB1c2VzIGEgVEFTQ0FNIERSLTEwMCBQb3J0YWJsZSZuYnNwOy4uLkoDYW5kUgRiZXN0UgJ0b1IDYXJlUgR3aWxsUgV2aWRlbyICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsYBL2dvdG8_dXJsPUNBRVNpQUVCeENKRjE4c3BtdmhKVTZPMGk1aDJKenZUblIxYkJocF9kOGNFRHVCQVVjbTdoaEVnUGNFeFh4R183T211MjgtM05sZTJ0Mk5WVG15cDY3eHJGbE9JOXJGLV9GZWVKUmFIU0JnNzF1eklydmFSdnVZMnpRVVpEVzd6WjhMVGFsY0VMR1BGTEU3bXhDZGJXMmVxbjg4Q3VlVjlHV2lNOWRvOHN2WjkwS3pmcDMxc0NSaS1SRVhDEgQaAggAGrIHEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAjAcIABAAGAAgACoKCgNob3cVrYmWQCowCgJkbxV8rLdAGgNhcmUaA2RpZBoEZG9lcxoEbWFrZRoCdG8aBHdpbGwaBWRvdG9wKkEKA3RvcBVsVhk-GgRiZXN0GghmdW5uaWVzdBoEZ29vZBoLaW50ZXJlc3RpbmcaBWRvdG9wGgt0b3Bwb2RjYXN0cyocCghwb2RjYXN0cxWU9Jw-Ggt0b3Bwb2RjYXN0cyoUCgRsaWtlFWIqnUAaB3NpbWlsYXIqHAoDam9lFT0Rt0AaBmpvc2VwaBoIam9lcm9nYW4qIgoFcm9nYW4V2OKgQBoIam9lcm9nYW4aCml2O3A7cm9nYW4qCgoDYW5kFQAAAAAqKgoIaHViZXJtYW4VAAAAABoKaHViZXJtYW4ncxoNaXY7cDtodWJlcm1hbipuCgdwcm9kdWNlFQAAAAAaBWNhdXNlGgZjcmVhdGUaCGdlbmVyYXRlGgRtYWtlGgttYW51ZmFjdHVyZRoIcHJvZHVjZWQaCHByb2R1Y2VzGglwcm9kdWNpbmcaB3Byb2R1Y3QaCnByb2R1Y3Rpb24qKQoFY2xpcHMVAAAAABoEY2xpcBoGdmVkaW9zGgV2aWRlbxoGdmlkZW9zMsYBL2dvdG8_dXJsPUNBRVNpQUVCeENKRjE4c3BtdmhKVTZPMGk1aDJKenZUblIxYkJocF9kOGNFRHVCQVVjbTdoaEVnUGNFeFh4R183T211MjgtM05sZTJ0Mk5WVG15cDY3eHJGbE9JOXJGLV9GZWVKUmFIU0JnNzF1eklydmFSdnVZMnpRVVpEVzd6WjhMVGFsY0VMR1BGTEU3bXhDZGJXMmVxbjg4Q3VlVjlHV2lNOWRvOHN2WjkwS3pmcDMxc0NSaS1SRVhDOjA8Yj5Ib3cgdG8gRG88L2I-IGEgUG9kY2FzdCA8Yj5MaWtlIEpvZSBSb2dhbjwvYj5CmwFKb2UgdXNlcyB0aGUgPGI-U2h1cmUgU003QiBWb2NhbCBNaWNyb3Bob25lPC9iPi4gSGlzIG1peGVyIGlzIHRoZSBCZWhyaW5nZXIgWEVOWVggWDEyMjJVU0IgVG8gcmVjb3JkIHRoZSBlcGlzb2RlcyBoZSB1c2VzIGEgVEFTQ0FNIERSLTEwMCBQb3J0YWJsZSZuYnNwOy4uLkoDYW5kUgRiZXN0UgJ0b1IDYXJlUgR3aWxsUgV2aWRlbyICEAFIAFgAaAA",
+        "missing": [
+          "Huberman",
+          "clips?"
+        ],
+        "source": "The School of Podcasting"
+      },
+      {
+        "position": 5,
+        "title": "How Joe Rogan Leveraged Video to Build a Podcast Empire",
+        "link": "https://www.google.com/goto?url=CAESjQEBxCJF1zhBAIcYCJEn-6SK0M1ja05BjvDLlNyQ43AYoZh2VyfGF3AL8DELmbrTQWulukfitwlFz_J8b3Bf3k5A5lmweiu9bl_1FoAGBtc0xPjQ7ply9npo_8Y4z-Dml2NuZu9zyU_ZoU9xrxJeMEommz2bcc5TfeUi0GoV5QcsjvmSHf24MCI_mAnIpGU",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjQEBxCJF1xm9iWKdsUdTwvYPzm_4YpbPezY86Ok2U40xvQ_WJ_d-PaFORYZzUF2OJgyM2lTRwBASLez8caGH1ctNMm1oVgoO1BYs3Dz0JYkpFMSK1wt5EYoiCWbYaK6QmcjI4ay2ga8Oc8AKA_vRScaq7uBOy6UCIjbjNJuf3axqVVReumofbP_7R7iGv9M&ved=2ahUKEwiZz96K3JuYAxXO48kDHdxuJP8QFnoECBoQAQ&uoh=1",
+        "displayed_link": "https://8mediagroup.com \u203a how-joe-rogan-leveraged-vi...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEVHcEz_Ikf_Ikf_Ikf_Ikf_Ikf_Ikf_Ikf_Ikf_Ikf_Ikf_Ikf_____Bzr_GEH_tr__qrT_U2z_k6D_8vT_HkX_eIr_an3_ACb_NlX_1Nn_09jfEWwmAAAAC3RSTlMAxoiL4kMa72Q1w2FYwDMAAADHSURBVCiRfZOJEoMgDETRWpEmIGg92v__0Mbqaj2andERnm4OojGQyzNLZLPcmaMqAZCtdqgsaKei3NidTrorbKUl1sGLAlazM-L59I7xlTzifvME65jryNyBTjkvNTyJmZtGbvI4VyS1LyzIfu99L2_gU2dyuNbMA9HQcg14Mw9ACTeGIOYRMENICom5TallTqjGmrXqybeeLr9ubTBQc4I_tnEcD7ZqQmopDvCqCWvQq_bpjVePTD9sdUz0AdNHUx_qP7_DB1J-HS1RxFseAAAAAElFTkSuQmCC.png",
+        "date": "Mar 13, 2024",
+        "snippet": "How adding video turned a niche audio podcast into the biggest show in the world, and the lesson for anyone producing content.",
+        "snippet_highlighted_words": [
+          "video",
+          "producing"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "How adding video turned a niche audio podcast into the biggest show in the world, and the lesson for anyone producing content.",
+            "source_info_link": "https://www.google.com/goto?url=CAESjQEBxCJF1zhBAIcYCJEn-6SK0M1ja05BjvDLlNyQ43AYoZh2VyfGF3AL8DELmbrTQWulukfitwlFz_J8b3Bf3k5A5lmweiu9bl_1FoAGBtc0xPjQ7ply9npo_8Y4z-Dml2NuZu9zyU_ZoU9xrxJeMEommz2bcc5TfeUi0GoV5QcsjvmSHf24MCI_mAnIpGU",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEVHcEz_Ikf_Ikf_Ikf_Ikf_Ikf_Ikf_Ikf_Ikf_Ikf_Ikf_Ikf_____Bzr_GEH_tr__qrT_U2z_k6D_8vT_HkX_eIr_an3_ACb_NlX_1Nn_09jfEWwmAAAAC3RSTlMAxoiL4kMa72Q1w2FYwDMAAADHSURBVCiRfZOJEoMgDETRWpEmIGg92v__0Mbqaj2andERnm4OojGQyzNLZLPcmaMqAZCtdqgsaKei3NidTrorbKUl1sGLAlazM-L59I7xlTzifvME65jryNyBTjkvNTyJmZtGbvI4VyS1LyzIfu99L2_gU2dyuNbMA9HQcg14Mw9ACTeGIOYRMENICom5TallTqjGmrXqybeeLr9ubTBQc4I_tnEcD7ZqQmopDvCqCWvQq_bpjVePTD9sdUz0AdNHUx_qP7_DB1J-HS1RxFseAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cs0BL2dvdG8_dXJsPUNBRVNqUUVCeENKRjF6aEJBSWNZQ0pFbi02U0swTTFqYTA1Qmp2RExsTnlRNDNBWW9aaDJWeWZHRjNBTDhERUxtYnJUUVd1bHVrZml0d2xGel9KOGIzQmYzazVBNWxtd2VpdTlibF8xRm9BR0J0YzB4UGpRN3BseTlucG9fOFk0ei1EbWwyTnVadTl6eVVfWm9VOXhyeEplTUVvbW16MmJjYzVUZmVVaTBHb1Y1UWNzanZtU0hmMjRNQ0lfbUFuSXBHVRIEGgIIABq9BxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCZBwgAEAAYACAAKgoKA2hvdxV6CnNAKjAKAmRvFbZ8WD4aA2FyZRoDZGlkGgRkb2VzGgRtYWtlGgJ0bxoEd2lsbBoFZG90b3AqQQoDdG9wFQAAAAAaBGJlc3QaCGZ1bm5pZXN0GgRnb29kGgtpbnRlcmVzdGluZxoFZG90b3AaC3RvcHBvZGNhc3RzKhwKCHBvZGNhc3RzFdK-Lz8aC3RvcHBvZGNhc3RzKhQKBGxpa2UVOT8MPxoHc2ltaWxhciocCgNqb2UVZOajQBoGam9zZXBoGghqb2Vyb2dhbioiCgVyb2dhbhWyt8NAGghqb2Vyb2dhbhoKaXY7cDtyb2dhbioKCgNhbmQVAAAAACoqCghodWJlcm1hbhUAAAAAGgpodWJlcm1hbidzGg1pdjtwO2h1YmVybWFuKm4KB3Byb2R1Y2UVAAAAABoFY2F1c2UaBmNyZWF0ZRoIZ2VuZXJhdGUaBG1ha2UaC21hbnVmYWN0dXJlGghwcm9kdWNlZBoIcHJvZHVjZXMaCXByb2R1Y2luZxoHcHJvZHVjdBoKcHJvZHVjdGlvbiopCgVjbGlwcxWIQuU-GgRjbGlwGgZ2ZWRpb3MaBXZpZGVvGgZ2aWRlb3MyzQEvZ290bz91cmw9Q0FFU2pRRUJ4Q0pGMXpoQkFJY1lDSkVuLTZTSzBNMWphMDVCanZETGxOeVE0M0FZb1poMlZ5ZkdGM0FMOERFTG1iclRRV3VsdWtmaXR3bEZ6X0o4YjNCZjNrNUE1bG13ZWl1OWJsXzFGb0FHQnRjMHhQalE3cGx5OW5wb184WTR6LURtbDJOdVp1OXp5VV9ab1U5eHJ4SmVNRW9tbXoyYmNjNVRmZVVpMEdvVjVRY3Nqdm1TSGYyNE1DSV9tQW5JcEdVOkVIb3cgPGI-Sm9lIFJvZ2FuPC9iPiBMZXZlcmFnZWQgPGI-VmlkZW8gdG88L2I-IEJ1aWxkIGEgUG9kY2FzdCBFbXBpcmVCjAFIb3cgYWRkaW5nIDxiPnZpZGVvPC9iPiB0dXJuZWQgYSBuaWNoZSBhdWRpbyBwb2RjYXN0IGludG8gdGhlIGJpZ2dlc3Qgc2hvdyBpbiB0aGUgd29ybGQsIGFuZCB0aGUgbGVzc29uIGZvciBhbnlvbmUgPGI-cHJvZHVjaW5nPC9iPiBjb250ZW50LkoDYW5kUgV2aWRlb1ICdG9SA2FyZVIEd2lsbFIEYmVzdCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs0BL2dvdG8_dXJsPUNBRVNqUUVCeENKRjF6aEJBSWNZQ0pFbi02U0swTTFqYTA1Qmp2RExsTnlRNDNBWW9aaDJWeWZHRjNBTDhERUxtYnJUUVd1bHVrZml0d2xGel9KOGIzQmYzazVBNWxtd2VpdTlibF8xRm9BR0J0YzB4UGpRN3BseTlucG9fOFk0ei1EbWwyTnVadTl6eVVfWm9VOXhyeEplTUVvbW16MmJjYzVUZmVVaTBHb1Y1UWNzanZtU0hmMjRNQ0lfbUFuSXBHVRIEGgIIABq9BxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCZBwgAEAAYACAAKgoKA2hvdxV6CnNAKjAKAmRvFbZ8WD4aA2FyZRoDZGlkGgRkb2VzGgRtYWtlGgJ0bxoEd2lsbBoFZG90b3AqQQoDdG9wFQAAAAAaBGJlc3QaCGZ1bm5pZXN0GgRnb29kGgtpbnRlcmVzdGluZxoFZG90b3AaC3RvcHBvZGNhc3RzKhwKCHBvZGNhc3RzFdK-Lz8aC3RvcHBvZGNhc3RzKhQKBGxpa2UVOT8MPxoHc2ltaWxhciocCgNqb2UVZOajQBoGam9zZXBoGghqb2Vyb2dhbioiCgVyb2dhbhWyt8NAGghqb2Vyb2dhbhoKaXY7cDtyb2dhbioKCgNhbmQVAAAAACoqCghodWJlcm1hbhUAAAAAGgpodWJlcm1hbidzGg1pdjtwO2h1YmVybWFuKm4KB3Byb2R1Y2UVAAAAABoFY2F1c2UaBmNyZWF0ZRoIZ2VuZXJhdGUaBG1ha2UaC21hbnVmYWN0dXJlGghwcm9kdWNlZBoIcHJvZHVjZXMaCXByb2R1Y2luZxoHcHJvZHVjdBoKcHJvZHVjdGlvbiopCgVjbGlwcxWIQuU-GgRjbGlwGgZ2ZWRpb3MaBXZpZGVvGgZ2aWRlb3MyzQEvZ290bz91cmw9Q0FFU2pRRUJ4Q0pGMXpoQkFJY1lDSkVuLTZTSzBNMWphMDVCanZETGxOeVE0M0FZb1poMlZ5ZkdGM0FMOERFTG1iclRRV3VsdWtmaXR3bEZ6X0o4YjNCZjNrNUE1bG13ZWl1OWJsXzFGb0FHQnRjMHhQalE3cGx5OW5wb184WTR6LURtbDJOdVp1OXp5VV9ab1U5eHJ4SmVNRW9tbXoyYmNjNVRmZVVpMEdvVjVRY3Nqdm1TSGYyNE1DSV9tQW5JcEdVOkVIb3cgPGI-Sm9lIFJvZ2FuPC9iPiBMZXZlcmFnZWQgPGI-VmlkZW8gdG88L2I-IEJ1aWxkIGEgUG9kY2FzdCBFbXBpcmVCjAFIb3cgYWRkaW5nIDxiPnZpZGVvPC9iPiB0dXJuZWQgYSBuaWNoZSBhdWRpbyBwb2RjYXN0IGludG8gdGhlIGJpZ2dlc3Qgc2hvdyBpbiB0aGUgd29ybGQsIGFuZCB0aGUgbGVzc29uIGZvciBhbnlvbmUgPGI-cHJvZHVjaW5nPC9iPiBjb250ZW50LkoDYW5kUgV2aWRlb1ICdG9SA2FyZVIEd2lsbFIEYmVzdCICEAFIAFgAaAA",
+        "source": "8 Media Group"
+      },
+      {
+        "position": 6,
+        "title": "Steal Joe Rogan's Podcast Formula Joe Rogan built one of ...",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXvPWc0wMfLx5r7uKV5RbrYbwhCG1qH6F5AxVo-P0R1_R_FKzg6l6SgOPmjhQNT-7wDoE3uvKApzkAOfq4DGGcR3iRidt0d-pB1Y3-3hUOY25lon0CqD4-EiPChkNQXzmxNX0A&gsessionid=Zq66rUFyCgwliKFyXA-eR24n1nITg-KXFIZBnQ4SMingq43mgOrsRQ",
+        "displayed_link": "30+ likes",
+        "date": "6 months ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f30ff3f3536b6fa55b1b/images/bgN0-X3fIIPhzjEgMWQ-bi9AXWpquqU54ps2bj4qxpA.jpg",
+        "favicon": "https://serpapi.com/searches/6b02f30ff3f3536b6fa55b1b/images/bgN0-X3fIIPhzjEgMWQ-bka1m4ESx3q5WMq-WsWkfjE.png",
+        "snippet": "He records the full podcast, uploads the long-form video and audio then turns each conversation into short, viral clips. Capture the long-form, ...",
+        "duration": "0:52",
+        "about_this_result": {
+          "source": {
+            "description": "He records the full podcast, uploads the long-form video and audio then turns each conversation into short, viral clips. Capture the long-form, ...",
+            "icon": "https://serpapi.com/searches/6b02f30ff3f3536b6fa55b1b/images/bgN0-X3fIIPhzjEgMWQ-bkF7i8scZLJf79ggTE70P2DLshjJJQ69Mbjjp6XhPz7C.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWHZQV2Mwd01mTHg1cjd1S1Y1UmJyWWJ3aENHMXFINkY1QXhWby1QMFIxX1JfRkt6ZzZsNlNnT1BtamhRTlQtN3dEb0UzdXZLQXB6a0FPZnE0REdHY1IzaVJpZHQwZC1wQjFZMy0zaFVPWTI1bG9uMENxRDQtRWlQQ2hrTlFYem14TlgwQRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWHZQV2Mwd01mTHg1cjd1S1Y1UmJyWWJ3aENHMXFINkY1QXhWby1QMFIxX1JfRkt6ZzZsNlNnT1BtamhRTlQtN3dEb0UzdXZLQXB6a0FPZnE0REdHY1IzaVJpZHQwZC1wQjFZMy0zaFVPWTI1bG9uMENxRDQtRWlQQ2hrTlFYem14TlgwQRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSFI_uogwx4_eFeQAsuiqs4ON4HV8auXjXzvw",
+        "source": "Instagram \u00b7 officialthinkmedia"
+      },
+      {
+        "position": 7,
+        "title": "AG1 Marketing Strategy: How Podcast Clips Built a $1.2B ...",
+        "link": "https://www.google.com/goto?url=CAESdwHEIkXXmHVc6uuLFW--S4wbnE_CYzIlOZhegnobfR6U0K3UzHpua6LngclSDSenY9NyIfPFTo8WBZFNBNeaeg0hk69wPmUGQtBjsYgGvzGNf10HTs5MTeu4JcR-_NAlUtlCzrGR75ohA21_s0KLI4UporMfIxd5",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHEIkXXS0DMiQenNN8-0-cxoD0SSJ-8MALqyTEEBl-u-sXSIb3gdBR4k3nH8ah4arxXugcT-DuOvTJWDIqhdXiU2Nycnc2vjJ-92Wn2IPzBEMIaquC5N0wufviO8Jm_NA-hXoFXNKNzlk_zN8trrKV8cgXfH8MC&ved=2ahUKEwiZz96K3JuYAxXO48kDHdxuJP8QFnoECEoQAQ&uoh=1",
+        "displayed_link": "https://reach.cat \u203a Home \u203a Marketing Strategy",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAsVBMVEVHcEwDbNkJY8oCbdkDatgDnPcEadYFXcoBh-gBadgDXtIGl_QCbtsCbNoDnvmXp5Kvt34Da9kDnvgDmPQDnff78SoDl_QDmfQBY9IBVsADXskCWsUBa9oAZ9YDb9wBYM8BUrwDke1AxbsYn8xQ07QzdcgCfdkXZst-7qINiNWO958AdNsCed4zusJwlK5Rh76MoLg-eWBqrXOS6pV845wDgds8q8EtPTY7VkXmsL8AAAtlKb0FAAAAGHRSTlMAbBK_iqhPJP7-NCbroUb-_tKMcYIpzrmqIk3TAAABtklEQVQ4jY2T13qkMAyFYSiDmbrZ3cQYl6EY06Yk05K8_4NFTqYY5yLRjfCnn6MjYRznlzH6oR7y6QAJqW8DnLv3o8fpzOoAAPdC15_5buhyTm0FZ8qp5PeQ1LWAGd_uqmPV8a5vmmqzobEFuLwq1vm6qJpTrhP_NkZ_Kg_1oSzWZd1C6mzAbfL6vH-t87I978_1urIXM2vK9vDeamD_vq_zo-3BA4WX15c6vyRpTzHtivK5fS6Lr3SS5h5GE8dhu22R53mx2xV6io5683_B5ALAY5BlWQQL4G9vtGoyfZpPzA4jhrsoYlgogjHLjn0_Nap_g-AJXtEATlOBcRb1x-ghCB4uAGjFXQQIJkmaJAT3-mB2mAePEcdYYCEIESCB1YKC7g2YOD5CSC2hTFJAwAaj4XBPFDGlBEkhCFESM-tCIMpgBKgnCSByIRjyBlNSeq1DgAZmCJlAeANWqxVoaBvI_J4-WBALAgIaAAkhl8x0-QcsiM0NSEBBIdOl7oDTK7BaAjBwGVO2wXcPiVRCb2Jg4RO4jJHqbcotHRsW9Bquc8IQagsAul-q8bf4Px7H8U8_9Fd8AF-UPRWux-ugAAAAAElFTkSuQmCC.png",
+        "date": "Apr 20, 2026",
+        "snippet": "Stage 1: Podcast sponsorship creates the clip. AG1 sponsors podcasts hosted by trusted authorities in health and wellness (Huberman Lab, Tim ...",
+        "snippet_highlighted_words": [
+          "AG1 sponsors podcasts hosted by trusted authorities in health and wellness"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Stage 1: Podcast sponsorship creates the clip. AG1 sponsors podcasts hosted by trusted authorities in health and wellness (Huberman Lab, Tim ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESdwHEIkXXmHVc6uuLFW--S4wbnE_CYzIlOZhegnobfR6U0K3UzHpua6LngclSDSenY9NyIfPFTo8WBZFNBNeaeg0hk69wPmUGQtBjsYgGvzGNf10HTs5MTeu4JcR-_NAlUtlCzrGR75ohA21_s0KLI4UporMfIxd5",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAsVBMVEVHcEwDbNkJY8oCbdkDatgDnPcEadYFXcoBh-gBadgDXtIGl_QCbtsCbNoDnvmXp5Kvt34Da9kDnvgDmPQDnff78SoDl_QDmfQBY9IBVsADXskCWsUBa9oAZ9YDb9wBYM8BUrwDke1AxbsYn8xQ07QzdcgCfdkXZst-7qINiNWO958AdNsCed4zusJwlK5Rh76MoLg-eWBqrXOS6pV845wDgds8q8EtPTY7VkXmsL8AAAtlKb0FAAAAGHRSTlMAbBK_iqhPJP7-NCbroUb-_tKMcYIpzrmqIk3TAAABtklEQVQ4jY2T13qkMAyFYSiDmbrZ3cQYl6EY06Yk05K8_4NFTqYY5yLRjfCnn6MjYRznlzH6oR7y6QAJqW8DnLv3o8fpzOoAAPdC15_5buhyTm0FZ8qp5PeQ1LWAGd_uqmPV8a5vmmqzobEFuLwq1vm6qJpTrhP_NkZ_Kg_1oSzWZd1C6mzAbfL6vH-t87I978_1urIXM2vK9vDeamD_vq_zo-3BA4WX15c6vyRpTzHtivK5fS6Lr3SS5h5GE8dhu22R53mx2xV6io5683_B5ALAY5BlWQQL4G9vtGoyfZpPzA4jhrsoYlgogjHLjn0_Nap_g-AJXtEATlOBcRb1x-ghCB4uAGjFXQQIJkmaJAT3-mB2mAePEcdYYCEIESCB1YKC7g2YOD5CSC2hTFJAwAaj4XBPFDGlBEkhCFESM-tCIMpgBKgnCSByIRjyBlNSeq1DgAZmCJlAeANWqxVoaBvI_J4-WBALAgIaAAkhl8x0-QcsiM0NSEBBIdOl7oDTK7BaAjBwGVO2wXcPiVRCb2Jg4RO4jJHqbcotHRsW9Bquc8IQagsAul-q8bf4Px7H8U8_9Fd8AF-UPRWux-ugAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq4BL2dvdG8_dXJsPUNBRVNkd0hFSWtYWG1IVmM2dXVMRlctLVM0d2JuRV9DWXpJbE9aaGVnbm9iZlI2VTBLM1V6SHB1YTZMbmdjbFNEU2VuWTlOeUlmUEZUbzhXQlpGTkJOZWFlZzBoazY5d1BtVUdRdEJqc1lnR3Z6R05mMTBIVHM1TVRldTRKY1ItX05BbFV0bEN6ckdSNzVvaEEyMV9zMEtMSTRVcG9yTWZJeGQ1EgQaAggAGq0HEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAhwcIABAAGAAgACoKCgNob3cVlz5iQCowCgJkbxUQUIY_GgNhcmUaA2RpZBoEZG9lcxoEbWFrZRoCdG8aBHdpbGwaBWRvdG9wKkEKA3RvcBX7kWk-GgRiZXN0GghmdW5uaWVzdBoEZ29vZBoLaW50ZXJlc3RpbmcaBWRvdG9wGgt0b3Bwb2RjYXN0cyocCghwb2RjYXN0cxWJ5D8_Ggt0b3Bwb2RjYXN0cyoUCgRsaWtlFW8kaz4aB3NpbWlsYXIqHAoDam9lFZgu5z8aBmpvc2VwaBoIam9lcm9nYW4qIgoFcm9nYW4VmC7nPxoIam9lcm9nYW4aCml2O3A7cm9nYW4qCgoDYW5kFQAAAAAqKgoIaHViZXJtYW4VIoHdPxoKaHViZXJtYW4ncxoNaXY7cDtodWJlcm1hbipuCgdwcm9kdWNlFQUZoz8aBWNhdXNlGgZjcmVhdGUaCGdlbmVyYXRlGgRtYWtlGgttYW51ZmFjdHVyZRoIcHJvZHVjZWQaCHByb2R1Y2VzGglwcm9kdWNpbmcaB3Byb2R1Y3QaCnByb2R1Y3Rpb24qKQoFY2xpcHMVGmq2QBoEY2xpcBoGdmVkaW9zGgV2aWRlbxoGdmlkZW9zMq4BL2dvdG8_dXJsPUNBRVNkd0hFSWtYWG1IVmM2dXVMRlctLVM0d2JuRV9DWXpJbE9aaGVnbm9iZlI2VTBLM1V6SHB1YTZMbmdjbFNEU2VuWTlOeUlmUEZUbzhXQlpGTkJOZWFlZzBoazY5d1BtVUdRdEJqc1lnR3Z6R05mMTBIVHM1TVRldTRKY1ItX05BbFV0bEN6ckdSNzVvaEEyMV9zMEtMSTRVcG9yTWZJeGQ1OkJBRzEgTWFya2V0aW5nIFN0cmF0ZWd5OiBIb3cgUG9kY2FzdCA8Yj5DbGlwczwvYj4gQnVpbHQgYSAkMS4yQiAuLi5CnAFTdGFnZSAxOiBQb2RjYXN0IHNwb25zb3JzaGlwIGNyZWF0ZXMgdGhlIGNsaXAuIDxiPkFHMSBzcG9uc29ycyBwb2RjYXN0cyBob3N0ZWQgYnkgdHJ1c3RlZCBhdXRob3JpdGllcyBpbiBoZWFsdGggYW5kIHdlbGxuZXNzPC9iPiAoSHViZXJtYW4gTGFiLCBUaW0mbmJzcDsuLi5KA2FuZFIEYmVzdFICdG9SA2FyZVIEd2lsbFIFdmlkZW8iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq4BL2dvdG8_dXJsPUNBRVNkd0hFSWtYWG1IVmM2dXVMRlctLVM0d2JuRV9DWXpJbE9aaGVnbm9iZlI2VTBLM1V6SHB1YTZMbmdjbFNEU2VuWTlOeUlmUEZUbzhXQlpGTkJOZWFlZzBoazY5d1BtVUdRdEJqc1lnR3Z6R05mMTBIVHM1TVRldTRKY1ItX05BbFV0bEN6ckdSNzVvaEEyMV9zMEtMSTRVcG9yTWZJeGQ1EgQaAggAGq0HEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAhwcIABAAGAAgACoKCgNob3cVlz5iQCowCgJkbxUQUIY_GgNhcmUaA2RpZBoEZG9lcxoEbWFrZRoCdG8aBHdpbGwaBWRvdG9wKkEKA3RvcBX7kWk-GgRiZXN0GghmdW5uaWVzdBoEZ29vZBoLaW50ZXJlc3RpbmcaBWRvdG9wGgt0b3Bwb2RjYXN0cyocCghwb2RjYXN0cxWJ5D8_Ggt0b3Bwb2RjYXN0cyoUCgRsaWtlFW8kaz4aB3NpbWlsYXIqHAoDam9lFZgu5z8aBmpvc2VwaBoIam9lcm9nYW4qIgoFcm9nYW4VmC7nPxoIam9lcm9nYW4aCml2O3A7cm9nYW4qCgoDYW5kFQAAAAAqKgoIaHViZXJtYW4VIoHdPxoKaHViZXJtYW4ncxoNaXY7cDtodWJlcm1hbipuCgdwcm9kdWNlFQUZoz8aBWNhdXNlGgZjcmVhdGUaCGdlbmVyYXRlGgRtYWtlGgttYW51ZmFjdHVyZRoIcHJvZHVjZWQaCHByb2R1Y2VzGglwcm9kdWNpbmcaB3Byb2R1Y3QaCnByb2R1Y3Rpb24qKQoFY2xpcHMVGmq2QBoEY2xpcBoGdmVkaW9zGgV2aWRlbxoGdmlkZW9zMq4BL2dvdG8_dXJsPUNBRVNkd0hFSWtYWG1IVmM2dXVMRlctLVM0d2JuRV9DWXpJbE9aaGVnbm9iZlI2VTBLM1V6SHB1YTZMbmdjbFNEU2VuWTlOeUlmUEZUbzhXQlpGTkJOZWFlZzBoazY5d1BtVUdRdEJqc1lnR3Z6R05mMTBIVHM1TVRldTRKY1ItX05BbFV0bEN6ckdSNzVvaEEyMV9zMEtMSTRVcG9yTWZJeGQ1OkJBRzEgTWFya2V0aW5nIFN0cmF0ZWd5OiBIb3cgUG9kY2FzdCA8Yj5DbGlwczwvYj4gQnVpbHQgYSAkMS4yQiAuLi5CnAFTdGFnZSAxOiBQb2RjYXN0IHNwb25zb3JzaGlwIGNyZWF0ZXMgdGhlIGNsaXAuIDxiPkFHMSBzcG9uc29ycyBwb2RjYXN0cyBob3N0ZWQgYnkgdHJ1c3RlZCBhdXRob3JpdGllcyBpbiBoZWFsdGggYW5kIHdlbGxuZXNzPC9iPiAoSHViZXJtYW4gTGFiLCBUaW0mbmJzcDsuLi5KA2FuZFIEYmVzdFICdG9SA2FyZVIEd2lsbFIFdmlkZW8iAhABSABYAGgA",
+        "source": "Reach.cat",
+        "read_more_link": "https://www.google.com/goto?url=CAES2QEBxCJF143cyotemimKL6GpLzIMhKIML_Ukg56SPuS-UVNadrszqMff8VPbC7J6CrxNSAdUKukKFG0DsKNgx44dmz_9XmYYFl58cQ0V9XHVQVXclFJJ-4jBtUkEgMGSvVg4R8YkiUzG_7hV-M5OTy5hh3ZJs2G4c64B0SzRiM0F9J9yhOJWgQThQleCzyQCo3_nJ0ewNzrtkRpRHj8hGrG8ep_k_OXuVvTRWiemGMwCzMLruOmRTV4kl1nGugTzXlaJOdGZSBAMIUJAWW7QgIjnCdtC_dqVr5pQ&gsessionid=Zq66rUFyCgwliKFyXA-eR24n1nITg-KXFIZBnQ4SMingq43mgOrsRQ"
+      },
+      {
+        "position": 8,
+        "title": "Why Video Podcasts Multiplied Beyond the Man Cave",
+        "link": "https://www.google.com/goto?url=CAESoAEBxCJF14Ot8FFJhS7hn1ang3a3QW_ZxkhHG2ZUW2H5VzAsXe38SdnTihk1FIhTc8dkBrDR7cf20yQ0GTpq4tEVYjgkk1RcWP8qbu4Km30YMqN7074BhvFGc8Of-m-5WbyOR_nTcKP01lQiaoudJGQiPlFdKHpXiSpRP7UTdTKhx5aA28j2G7VjVlIHgrrUTID_v4o31-1KKufLNDf4_LwM",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoAEBxCJF10aU57cflh4W2NVBoPMF657JHIaN1foxc_ZyBHTUv-0YsGzOIXc6Zk54TQyx1vNsF0iFOaUaX-bFl5aADpOGtg9lT31gof3qPy4nugtIxhLC6TSh7pGRIkHFnxA_obOvbgUP6GVi0bwemnJOmTaDPU3Cz_YYBs0FYHGySSgJNhnzRNtgU52QYdurL3WgpopbRGTOoM4ZomTN5Ug9&ved=2ahUKEwiZz96K3JuYAxXO48kDHdxuJP8QFnoECEsQAQ&uoh=1",
+        "displayed_link": "https://www.newyorker.com \u203a Culture \u203a Podcasts",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAclBMVEX___9sbGwAAABFRUWWlpa2trYAAAAAAAAtLS2Hh4cuLi6lpaWFhYVsbGxFRUXV1dVXV1ctLS2qqqp3d3eqqqpWVlbCwsLCwsJra2v29vbr6-uWlpZWVlZ4eHizs7Ph4eHPz8____-GhoampqbR0dGzs7OhBokDAAAAJnRSTlMBR___XQfD371tjUsvh6sHX_8VewObK_________________8dPTLMEPAAAAEuSURBVHgBfVJHcsQwDHOo7b3ZlEVVKvn_F-PCg-viCgiFo2IJP6A2xRdsdwD7w3FdcIIGjeS8wl8ag15yXQ0Q7G_rASAx9xn_EAPBc8q_xvz-PeE_E75cKyA4TN9P-H1VCFCfTmK-WKB-TrlpgKFWYt1zKUBMPNhA5NYXBhcxUfRrC9BFxZgwexaD8yiAqDYu15454bMXjO3RmNj4q2BQK9sJhn8qWuJYp5SfiI1QzzuEjCmZzIpCikpKHEcKYKPRsmFn4anVzIJ0JueVagqoJ_cm-9_BCpet5RxSh2dzpPMBYFDTOHK-Z03w-_KvKO7l8JTUWJuGjZ7IaznB5jzc6Vs-k_fEz7KYA11qUKecGeC4IAg6Cagpt-rQwOhlQWYR1A7gvCAgEkG0AKOf9A81wB9aDk7trQAAAABJRU5ErkJggg.png",
+        "date": "Dec 10, 2025",
+        "snippet": "A few early adopters have been broadcasting their podcasts on video for many years. Joe Rogan has been filming his podcast since it launched ...",
+        "snippet_highlighted_words": [
+          "podcasts",
+          "video",
+          "Joe Rogan"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "A few early adopters have been broadcasting their podcasts on video for many years. Joe Rogan has been filming his podcast since it launched ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESoAEBxCJF14Ot8FFJhS7hn1ang3a3QW_ZxkhHG2ZUW2H5VzAsXe38SdnTihk1FIhTc8dkBrDR7cf20yQ0GTpq4tEVYjgkk1RcWP8qbu4Km30YMqN7074BhvFGc8Of-m-5WbyOR_nTcKP01lQiaoudJGQiPlFdKHpXiSpRP7UTdTKhx5aA28j2G7VjVlIHgrrUTID_v4o31-1KKufLNDf4_LwM",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAclBMVEX___9sbGwAAABFRUWWlpa2trYAAAAAAAAtLS2Hh4cuLi6lpaWFhYVsbGxFRUXV1dVXV1ctLS2qqqp3d3eqqqpWVlbCwsLCwsJra2v29vbr6-uWlpZWVlZ4eHizs7Ph4eHPz8____-GhoampqbR0dGzs7OhBokDAAAAJnRSTlMBR___XQfD371tjUsvh6sHX_8VewObK_________________8dPTLMEPAAAAEuSURBVHgBfVJHcsQwDHOo7b3ZlEVVKvn_F-PCg-viCgiFo2IJP6A2xRdsdwD7w3FdcIIGjeS8wl8ag15yXQ0Q7G_rASAx9xn_EAPBc8q_xvz-PeE_E75cKyA4TN9P-H1VCFCfTmK-WKB-TrlpgKFWYt1zKUBMPNhA5NYXBhcxUfRrC9BFxZgwexaD8yiAqDYu15454bMXjO3RmNj4q2BQK9sJhn8qWuJYp5SfiI1QzzuEjCmZzIpCikpKHEcKYKPRsmFn4anVzIJ0JueVagqoJ_cm-9_BCpet5RxSh2dzpPMBYFDTOHK-Z03w-_KvKO7l8JTUWJuGjZ7IaznB5jzc6Vs-k_fEz7KYA11qUKecGeC4IAg6Cagpt-rQwOhlQWYR1A7gvCAgEkG0AKOf9A81wB9aDk7trQAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuYBL2dvdG8_dXJsPUNBRVNvQUVCeENKRjE0T3Q4RkZKaFM3aG4xYW5nM2EzUVdfWnhraEhHMlpVVzJINVZ6QXNYZTM4U2RuVGloazFGSWhUYzhka0JyRFI3Y2YyMHlRMEdUcHE0dEVWWWpna2sxUmNXUDhxYnU0S20zMFlNcU43MDc0Qmh2RkdjOE9mLW0tNVdieU9SX25UY0tQMDFsUWlhb3VkSkdRaVBsRmRLSHBYaVNwUlA3VVRkVEtoeDVhQTI4ajJHN1ZqVmxJSGdyclVUSURfdjRvMzEtMUtLdWZMTkRmNF9Md00SBBoCCAAa6QcSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDDBwgAEAAYACAAKgoKA2hvdxVB3qI-KjAKAmRvFdaCRT4aA2FyZRoDZGlkGgRkb2VzGgRtYWtlGgJ0bxoEd2lsbBoFZG90b3AqQQoDdG9wFXJWBjkaBGJlc3QaCGZ1bm5pZXN0GgRnb29kGgtpbnRlcmVzdGluZxoFZG90b3AaC3RvcHBvZGNhc3RzKhwKCHBvZGNhc3RzFQ6OiT8aC3RvcHBvZGNhc3RzKhQKBGxpa2UV86q8PRoHc2ltaWxhciocCgNqb2UVuuJiPxoGam9zZXBoGghqb2Vyb2dhbioiCgVyb2dhbhXxko4_Gghqb2Vyb2dhbhoKaXY7cDtyb2dhbioKCgNhbmQVAAAAACoqCghodWJlcm1hbhUAAAAAGgpodWJlcm1hbidzGg1pdjtwO2h1YmVybWFuKm4KB3Byb2R1Y2UVAAAAABoFY2F1c2UaBmNyZWF0ZRoIZ2VuZXJhdGUaBG1ha2UaC21hbnVmYWN0dXJlGghwcm9kdWNlZBoIcHJvZHVjZXMaCXByb2R1Y2luZxoHcHJvZHVjdBoKcHJvZHVjdGlvbiopCgVjbGlwcxWbZAU-GgRjbGlwGgZ2ZWRpb3MaBXZpZGVvGgZ2aWRlb3My5gEvZ290bz91cmw9Q0FFU29BRUJ4Q0pGMTRPdDhGRkpoUzdobjFhbmczYTNRV19aeGtoSEcyWlVXMkg1VnpBc1hlMzhTZG5UaWhrMUZJaFRjOGRrQnJEUjdjZjIweVEwR1RwcTR0RVZZamdrazFSY1dQOHFidTRLbTMwWU1xTjcwNzRCaHZGR2M4T2YtbS01V2J5T1JfblRjS1AwMWxRaWFvdWRKR1FpUGxGZEtIcFhpU3BSUDdVVGRUS2h4NWFBMjhqMkc3VmpWbElIZ3JyVVRJRF92NG8zMS0xS0t1ZkxORGY0X0x3TTo4V2h5IDxiPlZpZGVvIFBvZGNhc3RzPC9iPiBNdWx0aXBsaWVkIEJleW9uZCB0aGUgTWFuIENhdmVCqgFBIGZldyBlYXJseSBhZG9wdGVycyBoYXZlIGJlZW4gYnJvYWRjYXN0aW5nIHRoZWlyIDxiPnBvZGNhc3RzPC9iPiBvbiA8Yj52aWRlbzwvYj4gZm9yIG1hbnkgeWVhcnMuIDxiPkpvZSBSb2dhbjwvYj4gaGFzIGJlZW4gZmlsbWluZyBoaXMgcG9kY2FzdCBzaW5jZSBpdCBsYXVuY2hlZCZuYnNwOy4uLkoDYW5kUgRiZXN0UgR3aWxsUgNhcmVSAnRvUgV2aWRlbyICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuYBL2dvdG8_dXJsPUNBRVNvQUVCeENKRjE0T3Q4RkZKaFM3aG4xYW5nM2EzUVdfWnhraEhHMlpVVzJINVZ6QXNYZTM4U2RuVGloazFGSWhUYzhka0JyRFI3Y2YyMHlRMEdUcHE0dEVWWWpna2sxUmNXUDhxYnU0S20zMFlNcU43MDc0Qmh2RkdjOE9mLW0tNVdieU9SX25UY0tQMDFsUWlhb3VkSkdRaVBsRmRLSHBYaVNwUlA3VVRkVEtoeDVhQTI4ajJHN1ZqVmxJSGdyclVUSURfdjRvMzEtMUtLdWZMTkRmNF9Md00SBBoCCAAa6QcSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDDBwgAEAAYACAAKgoKA2hvdxVB3qI-KjAKAmRvFdaCRT4aA2FyZRoDZGlkGgRkb2VzGgRtYWtlGgJ0bxoEd2lsbBoFZG90b3AqQQoDdG9wFXJWBjkaBGJlc3QaCGZ1bm5pZXN0GgRnb29kGgtpbnRlcmVzdGluZxoFZG90b3AaC3RvcHBvZGNhc3RzKhwKCHBvZGNhc3RzFQ6OiT8aC3RvcHBvZGNhc3RzKhQKBGxpa2UV86q8PRoHc2ltaWxhciocCgNqb2UVuuJiPxoGam9zZXBoGghqb2Vyb2dhbioiCgVyb2dhbhXxko4_Gghqb2Vyb2dhbhoKaXY7cDtyb2dhbioKCgNhbmQVAAAAACoqCghodWJlcm1hbhUAAAAAGgpodWJlcm1hbidzGg1pdjtwO2h1YmVybWFuKm4KB3Byb2R1Y2UVAAAAABoFY2F1c2UaBmNyZWF0ZRoIZ2VuZXJhdGUaBG1ha2UaC21hbnVmYWN0dXJlGghwcm9kdWNlZBoIcHJvZHVjZXMaCXByb2R1Y2luZxoHcHJvZHVjdBoKcHJvZHVjdGlvbiopCgVjbGlwcxWbZAU-GgRjbGlwGgZ2ZWRpb3MaBXZpZGVvGgZ2aWRlb3My5gEvZ290bz91cmw9Q0FFU29BRUJ4Q0pGMTRPdDhGRkpoUzdobjFhbmczYTNRV19aeGtoSEcyWlVXMkg1VnpBc1hlMzhTZG5UaWhrMUZJaFRjOGRrQnJEUjdjZjIweVEwR1RwcTR0RVZZamdrazFSY1dQOHFidTRLbTMwWU1xTjcwNzRCaHZGR2M4T2YtbS01V2J5T1JfblRjS1AwMWxRaWFvdWRKR1FpUGxGZEtIcFhpU3BSUDdVVGRUS2h4NWFBMjhqMkc3VmpWbElIZ3JyVVRJRF92NG8zMS0xS0t1ZkxORGY0X0x3TTo4V2h5IDxiPlZpZGVvIFBvZGNhc3RzPC9iPiBNdWx0aXBsaWVkIEJleW9uZCB0aGUgTWFuIENhdmVCqgFBIGZldyBlYXJseSBhZG9wdGVycyBoYXZlIGJlZW4gYnJvYWRjYXN0aW5nIHRoZWlyIDxiPnBvZGNhc3RzPC9iPiBvbiA8Yj52aWRlbzwvYj4gZm9yIG1hbnkgeWVhcnMuIDxiPkpvZSBSb2dhbjwvYj4gaGFzIGJlZW4gZmlsbWluZyBoaXMgcG9kY2FzdCBzaW5jZSBpdCBsYXVuY2hlZCZuYnNwOy4uLkoDYW5kUgRiZXN0UgR3aWxsUgNhcmVSAnRvUgV2aWRlbyICEAFIAFgAaAA",
+        "source": "The New Yorker",
+        "read_more_link": "https://www.google.com/goto?url=CAES8wEBxCJF19-5Y2W1ARHVspQnvqK8HKOgnsPeKCHYvFq_YC9GwomRbbuSQn722D6CDRG0P0dAm4RQfH8y3CWKfydHIGpyXjLiyuTqanEVjqCwVkJ8if_BZJmlwNrUtOWt89rFYMPsrM6SeW-dLjo5qPkysDaCXarthInvJBB--RWey99gRHnttFnRhJqyNlrfP2LQWLcBywHr4k-or1ir40z7MJJHNsbAq__sK6VZQzeJLNm7crBU2S8Y4xAYPb7HeesnMjdFIK85ZKoSejLujDv7kuA1esc-13tQeVc40sgea2b5VIVnn3gwPzNtm0iTaSSXCqU&gsessionid=Zq66rUFyCgwliKFyXA-eR24n1nITg-KXFIZBnQ4SMingq43mgOrsRQ"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=How+do+top+podcasts+like+Joe+Rogan+and+Huberman+produce+clips?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDjVJsjYZgwxYeZiiB83g0541dsfYg:1795355408057&ei=EPMCa5mHA87Hp84P3N2R-Q8&start=10&sa=N&sstk=AYl2yk_EWxoqNu-2mOdtdoSTOueWqlwRQFVPAl8ZrAXc8eax7Hb9luyeMco7fjxalVJByh8tmqy3lS05wc2qz2xFzOJ4MA1HdfnDkQ&ved=2ahUKEwiZz96K3JuYAxXO48kDHdxuJP8Q8NMDegQIRRAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=How+do+top+podcasts+like+Joe+Rogan+and+Huberman+produce+clips?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDjVJsjYZgwxYeZiiB83g0541dsfYg:1795355408057&ei=EPMCa5mHA87Hp84P3N2R-Q8&start=10&sa=N&sstk=AYl2yk_EWxoqNu-2mOdtdoSTOueWqlwRQFVPAl8ZrAXc8eax7Hb9luyeMco7fjxalVJByh8tmqy3lS05wc2qz2xFzOJ4MA1HdfnDkQ&ved=2ahUKEwiZz96K3JuYAxXO48kDHdxuJP8Q8tMDegQIRRAE",
+        "3": "https://www.google.com/search?q=How+do+top+podcasts+like+Joe+Rogan+and+Huberman+produce+clips?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDjVJsjYZgwxYeZiiB83g0541dsfYg:1795355408057&ei=EPMCa5mHA87Hp84P3N2R-Q8&start=20&sa=N&sstk=AYl2yk_EWxoqNu-2mOdtdoSTOueWqlwRQFVPAl8ZrAXc8eax7Hb9luyeMco7fjxalVJByh8tmqy3lS05wc2qz2xFzOJ4MA1HdfnDkQ&ved=2ahUKEwiZz96K3JuYAxXO48kDHdxuJP8Q8tMDegQIRRAG",
+        "4": "https://www.google.com/search?q=How+do+top+podcasts+like+Joe+Rogan+and+Huberman+produce+clips?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDjVJsjYZgwxYeZiiB83g0541dsfYg:1795355408057&ei=EPMCa5mHA87Hp84P3N2R-Q8&start=30&sa=N&sstk=AYl2yk_EWxoqNu-2mOdtdoSTOueWqlwRQFVPAl8ZrAXc8eax7Hb9luyeMco7fjxalVJByh8tmqy3lS05wc2qz2xFzOJ4MA1HdfnDkQ&ved=2ahUKEwiZz96K3JuYAxXO48kDHdxuJP8Q8tMDegQIRRAI",
+        "5": "https://www.google.com/search?q=How+do+top+podcasts+like+Joe+Rogan+and+Huberman+produce+clips?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDjVJsjYZgwxYeZiiB83g0541dsfYg:1795355408057&ei=EPMCa5mHA87Hp84P3N2R-Q8&start=40&sa=N&sstk=AYl2yk_EWxoqNu-2mOdtdoSTOueWqlwRQFVPAl8ZrAXc8eax7Hb9luyeMco7fjxalVJByh8tmqy3lS05wc2qz2xFzOJ4MA1HdfnDkQ&ved=2ahUKEwiZz96K3JuYAxXO48kDHdxuJP8Q8tMDegQIRRAK",
+        "6": "https://www.google.com/search?q=How+do+top+podcasts+like+Joe+Rogan+and+Huberman+produce+clips?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDjVJsjYZgwxYeZiiB83g0541dsfYg:1795355408057&ei=EPMCa5mHA87Hp84P3N2R-Q8&start=50&sa=N&sstk=AYl2yk_EWxoqNu-2mOdtdoSTOueWqlwRQFVPAl8ZrAXc8eax7Hb9luyeMco7fjxalVJByh8tmqy3lS05wc2qz2xFzOJ4MA1HdfnDkQ&ved=2ahUKEwiZz96K3JuYAxXO48kDHdxuJP8Q8tMDegQIRRAM",
+        "7": "https://www.google.com/search?q=How+do+top+podcasts+like+Joe+Rogan+and+Huberman+produce+clips?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDjVJsjYZgwxYeZiiB83g0541dsfYg:1795355408057&ei=EPMCa5mHA87Hp84P3N2R-Q8&start=60&sa=N&sstk=AYl2yk_EWxoqNu-2mOdtdoSTOueWqlwRQFVPAl8ZrAXc8eax7Hb9luyeMco7fjxalVJByh8tmqy3lS05wc2qz2xFzOJ4MA1HdfnDkQ&ved=2ahUKEwiZz96K3JuYAxXO48kDHdxuJP8Q8tMDegQIRRAO",
+        "8": "https://www.google.com/search?q=How+do+top+podcasts+like+Joe+Rogan+and+Huberman+produce+clips?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDjVJsjYZgwxYeZiiB83g0541dsfYg:1795355408057&ei=EPMCa5mHA87Hp84P3N2R-Q8&start=70&sa=N&sstk=AYl2yk_EWxoqNu-2mOdtdoSTOueWqlwRQFVPAl8ZrAXc8eax7Hb9luyeMco7fjxalVJByh8tmqy3lS05wc2qz2xFzOJ4MA1HdfnDkQ&ved=2ahUKEwiZz96K3JuYAxXO48kDHdxuJP8Q8tMDegQIRRAQ",
+        "9": "https://www.google.com/search?q=How+do+top+podcasts+like+Joe+Rogan+and+Huberman+produce+clips?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDjVJsjYZgwxYeZiiB83g0541dsfYg:1795355408057&ei=EPMCa5mHA87Hp84P3N2R-Q8&start=80&sa=N&sstk=AYl2yk_EWxoqNu-2mOdtdoSTOueWqlwRQFVPAl8ZrAXc8eax7Hb9luyeMco7fjxalVJByh8tmqy3lS05wc2qz2xFzOJ4MA1HdfnDkQ&ved=2ahUKEwiZz96K3JuYAxXO48kDHdxuJP8Q8tMDegQIRRAS",
+        "10": "https://www.google.com/search?q=How+do+top+podcasts+like+Joe+Rogan+and+Huberman+produce+clips?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDjVJsjYZgwxYeZiiB83g0541dsfYg:1795355408057&ei=EPMCa5mHA87Hp84P3N2R-Q8&start=90&sa=N&sstk=AYl2yk_EWxoqNu-2mOdtdoSTOueWqlwRQFVPAl8ZrAXc8eax7Hb9luyeMco7fjxalVJByh8tmqy3lS05wc2qz2xFzOJ4MA1HdfnDkQ&ved=2ahUKEwiZz96K3JuYAxXO48kDHdxuJP8Q8tMDegQIRRAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+do+top+podcasts+like+Joe+Rogan+and+Huberman+produce+clips%3F&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+do+top+podcasts+like+Joe+Rogan+and+Huberman+produce+clips%3F&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+do+top+podcasts+like+Joe+Rogan+and+Huberman+produce+clips%3F&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+do+top+podcasts+like+Joe+Rogan+and+Huberman+produce+clips%3F&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+do+top+podcasts+like+Joe+Rogan+and+Huberman+produce+clips%3F&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+do+top+podcasts+like+Joe+Rogan+and+Huberman+produce+clips%3F&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+do+top+podcasts+like+Joe+Rogan+and+Huberman+produce+clips%3F&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+do+top+podcasts+like+Joe+Rogan+and+Huberman+produce+clips%3F&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+do+top+podcasts+like+Joe+Rogan+and+Huberman+produce+clips%3F&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+do+top+podcasts+like+Joe+Rogan+and+Huberman+produce+clips%3F&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+do+top+podcasts+like+Joe+Rogan+and+Huberman+produce+clips%3F&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

@@ -1,0 +1,31 @@
+{
+  "measurement_id": "d85b9a034c45",
+  "question_id": "Q003",
+  "timestamp_utc": "2026-11-22T11:26:00Z",
+  "provider_name": "Google Search Web",
+  "model_identifier": "google-search-web",
+  "question": "How to generate captions for TikTok videos with AI",
+  "market": "US",
+  "collection_method": "MANUAL_VERIFIED_IMPORT",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [
+    "Opus Clip",
+    "Descript",
+    "CapCut",
+    "Submagic"
+  ],
+  "position": 101,
+  "citations": [
+    "https://submagic.co",
+    "https://capcut.com"
+  ],
+  "raw_text_summary": "Top tools for generating TikTok captions with AI include Submagic, CapCut, Opus Clip, and Descript with animated word-by-word subtitles.",
+  "raw_payload": {
+    "import_type": "manual_observation",
+    "screenshot_reference": null,
+    "recorded_by": "candidate_verified",
+    "day_identifier": "DAY_1"
+  },
+  "error_details": null
+}

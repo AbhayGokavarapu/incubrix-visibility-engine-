@@ -1,0 +1,501 @@
+{
+  "measurement_id": "084fe13e98c8",
+  "question_id": "Q006",
+  "timestamp_utc": "2026-11-23T08:58:19.236480+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "How does YouTube Shorts algorithm differ from TikTok in 2026?",
+  "market": "US",
+  "collection_method": "DAY_2_AUTOMATED_API",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://www.usefastlane.ai/blog/youtube-shorts-algorithm-2026",
+    "https://www.reddit.com/r/NewTubers/comments/17aq9s3/is_the_youtube_shorts_algorithm_and_that_of/",
+    "https://metricool.com/youtube-shorts-algorithm/",
+    "https://miraflow.ai/blog/youtube-shorts-vs-tiktok-2026",
+    "https://www.tiktok.com/@katoproducer/video/7675118611173788959",
+    "https://www.digitalapplied.com/blog/short-form-video-strategy-shorts-tiktok-reels-2026"
+  ],
+  "raw_text_summary": "The YouTube Shorts Algorithm in 2026: What Works Now The YouTube Shorts algorithm in 2026 ranks on swipe-away rate, completion, and rewatches, and it now runs completely separately from long-form. Is the YouTube shorts algorithm and that of TikTok's really ... Hashtags do play an important factor in TikTok, but YouTube's algorithm is more centered around watch time, engagement, and how often users are ... YouTube Shorts Algorithm Explained + Tips to Grow in 2026 Since 31 March 2025, YouTube counts a view every time a Short starts or replays, with no minimum watch time. That matches how TikTok and Reels count views. It ... YouTube Shorts vs TikTok in 2026: Which Platform Should ... TikTok has matured into a search-first discovery engine. YouTube Shorts has expanded its algorithm, improved monetization, and added new ... YouTube algorithm update: what it means for creators in 2026 What changed - The platform shifted ranking signals to favor watchability and relevance over strict historical performance metrics. That means ... Short-Form Video Strategy: Shorts vs TikTok vs Reels YouTube Shorts leads engagement at 5.91%: With 200 billion daily views and 2 billion monthly users, Shorts now outperforms TikTok and Reels ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b0400294b9596c3b4d464e7",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/n8JEJVsAqGqZ3hvSzZgQNi9TxdW5XlgnnYJFhr0K5rg/6b0400294b9596c3b4d464e7.json",
+      "markdown_endpoint": "https://serpapi.com/searches/n8JEJVsAqGqZ3hvSzZgQNi9TxdW5XlgnnYJFhr0K5rg/6b0400294b9596c3b4d464e7.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/n8JEJVsAqGqZ3hvSzZgQNi9TxdW5XlgnnYJFhr0K5rg/6b0400294b9596c3b4d464e7.json_with_pixel_position",
+      "created_at": "2026-11-23 08:58:17 UTC",
+      "processed_at": "2026-11-23 08:58:17 UTC",
+      "google_url": "https://www.google.com/search?q=How+does+YouTube+Shorts+algorithm+differ+from+TikTok+in+2026%3F&oq=How+does+YouTube+Shorts+algorithm+differ+from+TikTok+in+2026%3F&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/n8JEJVsAqGqZ3hvSzZgQNi9TxdW5XlgnnYJFhr0K5rg/6b0400294b9596c3b4d464e7.html",
+      "total_time_taken": 0.56
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "How does YouTube Shorts algorithm differ from TikTok in 2026?",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "How does YouTube Shorts algorithm differ from TikTok in 2026?",
+      "total_results": 107,
+      "time_taken_displayed": 0.19,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "YouTube's NEW Shorts Algorithm Change Explained for 2026 ...",
+        "link": "https://www.youtube.com/watch?v=qiOl6GIfDHg",
+        "thumbnail": "https://serpapi.com/searches/6b0400294b9596c3b4d464e7/images/Kg0ss2GjvM3nVSOhmUS_HQdkdf74gvGIDSZP9VJoWHI.jpg",
+        "channel": "Robert Benjamin",
+        "duration": "10:08",
+        "platform": "YouTube",
+        "date": "Apr 1, 2026",
+        "snippet": "Optimize YouTube Shorts settings, use custom thumbnails, recreate breakout videos, make multiple videos on a topic, and check video length trends.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSmddmg_jgd5gKJkcu_yzuDJs9PuQvq3NXgZA"
+      },
+      {
+        "position": 2,
+        "title": "YouTube's NEW Shorts Algorithm Changes Explained for ...",
+        "link": "https://www.youtube.com/watch?v=PJ2N-mG6kVs",
+        "thumbnail": "https://serpapi.com/searches/6b0400294b9596c3b4d464e7/images/xjkOnp9cvLyUbHlXD0PQ0KMX89UNVC8LgThUCePinaQ.jpg",
+        "channel": "Robert Benjamin",
+        "duration": "12:59",
+        "platform": "YouTube",
+        "date": "Jul 30, 2026",
+        "snippet": "Align metadata (thumbnail, title, description, tags, subtitles), optimize video length, use AI for channel analysis, and track new metrics.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS-0LgOrN-tQpPzIv7wMLGWvRj3-U2RYdBPDw"
+      },
+      {
+        "position": 3,
+        "title": "YouTube's NEW Algorithm Rules Just Changed How To Go ...",
+        "link": "https://www.youtube.com/watch?v=7sxAi_aYRiI",
+        "thumbnail": "https://serpapi.com/searches/6b0400294b9596c3b4d464e7/images/Efc1cxCkB2SV7e8ep201S_WdAqP1H0nRsrx-3mjyslE.jpg",
+        "channel": "Robert Benjamin",
+        "duration": "12:36",
+        "platform": "YouTube",
+        "date": "Sep 2, 2026",
+        "snippet": "To go viral, focus on topics with high interest, leverage AB testing for titles/thumbnails, and optimize for trending topics using tools like VidIQ.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS9eoXtXooKRDqiv3aSseaA_i2tIo9-cRLusA"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "Is YouTube Shorts doing better than TikTok?",
+        "type": "ai_overview",
+        "page_token": "wMUXCXicHdBRbtowGADgTdpZKvWl4AS6gYSmpnUgHRjFsU3jl8rxT0iwTTLiEeCxZ-lTD9MD7DST9h3he3u39cH8_XqqvG-76WDQ9_3drml2dnunGzdQ3eWgB1pZWyhtpvff79HPUs_wnyR6_J1EKac4t2BzYUbS-JKb50Ai26WIjOHF1sxOFLBqIS2pdY2SlYVhfpWd2EC-xpOWD8dum6GAmxYDEyc2r5LiSfRpGC2WGdqzGALGq07P5VUFzXi58ZQHRLIQMNuLYeFEAvEPDzFcuBBn8lTVas9HIHaeuPNz5iYvS9H-SgPLhdEXcHaj5qItLB2JUHiJUaXD6Khj2cv4wWcMWsYhwhUsOY_jnNmFwuOSB-gMC5KuHlFJ55Yy2tQpr9YrzEPKCVvtiSgsrHPeXombHLKQYDAypHHVgaM59DelPs3Cm_-fs9fS-Wl7bHYf-rhVfguvyn-ab19u_wFNgIok",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=wMUXCXicHdBRbtowGADgTdpZKvWl4AS6gYSmpnUgHRjFsU3jl8rxT0iwTTLiEeCxZ-lTD9MD7DST9h3he3u39cH8_XqqvG-76WDQ9_3drml2dnunGzdQ3eWgB1pZWyhtpvff79HPUs_wnyR6_J1EKac4t2BzYUbS-JKb50Ai26WIjOHF1sxOFLBqIS2pdY2SlYVhfpWd2EC-xpOWD8dum6GAmxYDEyc2r5LiSfRpGC2WGdqzGALGq07P5VUFzXi58ZQHRLIQMNuLYeFEAvEPDzFcuBBn8lTVas9HIHaeuPNz5iYvS9H-SgPLhdEXcHaj5qItLB2JUHiJUaXD6Khj2cv4wWcMWsYhwhUsOY_jnNmFwuOSB-gMC5KuHlFJ55Yy2tQpr9YrzEPKCVvtiSgsrHPeXombHLKQYDAypHHVgaM59DelPs3Cm_-fs9fS-Wl7bHYf-rhVfguvyn-ab19u_wFNgIok",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFZsaFdXVWhuYmxsR1kyYzBNRmszU1VsRlgxRldWazl3VGkxWlRYTTRSa0oyZFZnNWRHWlhNbWhtWlZWQmMyOUhPR1pQWDFwaldsSlVlSHBaVUVWQ2RESjVaa1ZzTW1jMVVGOXZiMVZuUVMxb1dsRXdVRmxKWXkxR1FSSVhTMUZCUldFNVIyaE9YMU50Y1hSelVEQXRYMFJwVVUwYUlrRklUakJGTjBkYVEzRlFSRUpNVldsZlNGRTBNRmx6VFd0eWJVdE1PVlJmTlhjIiwiZmN2IjoiMyIsImVpIjoiS1FBRWE5R2hOX1NtcXRzUDAtX0RpUU0iLCJxYyI6IkNqeG9iM2NnWkc5bGN5QjViM1YwZFdKbElITm9iM0owY3lCaGJHZHZjbWwwYUcwZ1pHbG1abVZ5SUdaeWIyMGdkR2xyZEc5cklHbHVJREl3TWpZUUFIMmhJUW9fIiwicXVlc3Rpb24iOiJJcyBZb3VUdWJlIFNob3J0cyBkb2luZyBiZXR0ZXIgdGhhbiBUaWtUb2s/IiwibGsiOiJHaXBwY3lCNWIzVjBkV0psSUhOb2IzSjBjeUJrYjJsdVp5QmlaWFIwWlhJZ2RHaGhiaUIwYVd0MGIycyIsImJzIjoiYzMyUXNXN0NRQkJFUlhzVnRZdG9KQ0pGSkJUbUNncUk1Q1pTa2pvdVFLbHN2TEZYWjI2UmJ4MWs1ZWV4Q3dwTWt2NjltZGsxbi1icFBXQW5iZHJtaEk5S0dnMG9oSDJKbkZTcGdWYVpSOG91RlpmWVJmVElBWjIwT3VEaEwxelpxVGl6X1MwOEtOYzFqbzE4c1daNVRXQVBHOXRWWXVmUncyMzREVDZ3NXNkczN1U0VRLVk3ZkRPZGhoR0RDVTlVUVB5NFZLVm5IZUYtR2NkeFlwLWpkZld2UGhweHBadFhNM3Zob3ItVXNFc3ZEVmxkU3NOYUhiRHZQMUJTWWhIZEZUM1c2U1ZsakV3blp3IiwiaWQiOiJmY19LUUFFYTlHaE5fU21xdHNQMC1fRGlRTV81In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFZsaFdXVWhuYmxsR1kyYzBNRmszU1VsRlgxRldWazl3VGkxWlRYTTRSa0oyZFZnNWRHWlhNbWhtWlZWQmMyOUhPR1pQWDFwaldsSlVlSHBaVUVWQ2RESjVaa1ZzTW1jMVVGOXZiMVZuUVMxb1dsRXdVRmxKWXkxR1FSSVhTMUZCUldFNVIyaE9YMU50Y1hSelVEQXRYMFJwVVUwYUlrRklUakJGTjBkYVEzRlFSRUpNVldsZlNGRTBNRmx6VFd0eWJVdE1PVlJmTlhjIiwiZmN2IjoiMyIsImVpIjoiS1FBRWE5R2hOX1NtcXRzUDAtX0RpUU0iLCJxYyI6IkNqeG9iM2NnWkc5bGN5QjViM1YwZFdKbElITm9iM0owY3lCaGJHZHZjbWwwYUcwZ1pHbG1abVZ5SUdaeWIyMGdkR2xyZEc5cklHbHVJREl3TWpZUUFIMmhJUW9fIiwicXVlc3Rpb24iOiJJcyBZb3VUdWJlIFNob3J0cyBkb2luZyBiZXR0ZXIgdGhhbiBUaWtUb2s%2FIiwibGsiOiJHaXBwY3lCNWIzVjBkV0psSUhOb2IzSjBjeUJrYjJsdVp5QmlaWFIwWlhJZ2RHaGhiaUIwYVd0MGIycyIsImJzIjoiYzMyUXNXN0NRQkJFUlhzVnRZdG9KQ0pGSkJUbUNncUk1Q1pTa2pvdVFLbHN2TEZYWjI2UmJ4MWs1ZWV4Q3dwTWt2NjltZGsxbi1icFBXQW5iZHJtaEk5S0dnMG9oSDJKbkZTcGdWYVpSOG91RlpmWVJmVElBWjIwT3VEaEwxelpxVGl6X1MwOEtOYzFqbzE4c1daNVRXQVBHOXRWWXVmUncyMzREVDZ3NXNkczN1U0VRLVk3ZkRPZGhoR0RDVTlVUVB5NFZLVm5IZUYtR2NkeFlwLWpkZld2UGhweHBadFhNM3Zob3ItVXNFc3ZEVmxkU3NOYUhiRHZQMUJTWWhIZEZUM1c2U1ZsakV3blp3IiwiaWQiOiJmY19LUUFFYTlHaE5fU21xdHNQMC1fRGlRTV81In0%3D"
+      },
+      {
+        "question": "Is YouTube Shorts still profitable in 2026?",
+        "type": "ai_overview",
+        "page_token": "sCOXD3icHdBfbtMwHABgkDjLJF7WOqZDVKrQstlNojrFTvxL45fJtZumifNnbbqGPHIWnjgMB-A0IG7w6fvx053a-s_7t3IY-styNrvdbvfHrju6w73pmpm-fG_NzGjn9trUy4fPD-hrYVbkGvpPr6HPpSC5sy5PaZ20aoonv82rUubQh0oePQY9TufjyRJUsIZioNFCBCqPkRxYLZHdlTkHej00lMdSSIPplbf2mpIFyiQMIiAeBP4oG6RYW457udDqOVJbgK3yPmE-PU66Flg4-40naL3Dcbb37MW0jwjmQ8UBEhZ0k07teQMRyudRZKCHvbPPiTdubBNObOcyhkAK6FO2Zp6au5aUdiMlpXnqAk0WhfTQaIOYsydUiLUTqehOXJZbRiROyJceKhGqqoSEKCyDsvonek0z5We7MpA1TTi_K8zbCt_9_1y9FM2w7M_d8Zc5H_RwsC96-F1_ePfxL_2Hh7w",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=sCOXD3icHdBfbtMwHABgkDjLJF7WOqZDVKrQstlNojrFTvxL45fJtZumifNnbbqGPHIWnjgMB-A0IG7w6fvx053a-s_7t3IY-styNrvdbvfHrju6w73pmpm-fG_NzGjn9trUy4fPD-hrYVbkGvpPr6HPpSC5sy5PaZ20aoonv82rUubQh0oePQY9TufjyRJUsIZioNFCBCqPkRxYLZHdlTkHej00lMdSSIPplbf2mpIFyiQMIiAeBP4oG6RYW457udDqOVJbgK3yPmE-PU66Flg4-40naL3Dcbb37MW0jwjmQ8UBEhZ0k07teQMRyudRZKCHvbPPiTdubBNObOcyhkAK6FO2Zp6au5aUdiMlpXnqAk0WhfTQaIOYsydUiLUTqehOXJZbRiROyJceKhGqqoSEKCyDsvonek0z5We7MpA1TTi_K8zbCt_9_1y9FM2w7M_d8Zc5H_RwsC96-F1_ePfxL_2Hh7w",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFZsaFdXVWhuYmxsR1kyYzBNRmszU1VsRlgxRldWazl3VGkxWlRYTTRSa0oyZFZnNWRHWlhNbWhtWlZWQmMyOUhPR1pQWDFwaldsSlVlSHBaVUVWQ2RESjVaa1ZzTW1jMVVGOXZiMVZuUVMxb1dsRXdVRmxKWXkxR1FSSVhTMUZCUldFNVIyaE9YMU50Y1hSelVEQXRYMFJwVVUwYUlrRklUakJGTjBkYVEzRlFSRUpNVldsZlNGRTBNRmx6VFd0eWJVdE1PVlJmTlhjIiwiZmN2IjoiMyIsImVpIjoiS1FBRWE5R2hOX1NtcXRzUDAtX0RpUU0iLCJxYyI6IkNqeG9iM2NnWkc5bGN5QjViM1YwZFdKbElITm9iM0owY3lCaGJHZHZjbWwwYUcwZ1pHbG1abVZ5SUdaeWIyMGdkR2xyZEc5cklHbHVJREl3TWpZUUFIMmhJUW9fIiwicXVlc3Rpb24iOiJJcyBZb3VUdWJlIFNob3J0cyBzdGlsbCBwcm9maXRhYmxlIGluIDIwMjY/IiwibGsiOiJHaWRwY3lCNWIzVjBkV0psSUhOb2IzSjBjeUJ6ZEdsc2JDQndjbTltYVhSaFlteGxJREl3TWpZIiwiYnMiOiJjMzJRc1c3Q1FCQkVSWHNWdFl0b0pDSkZKQlRtQ2dxSTVDWlNram91UUtsc3ZMRlhaMjZSYngxazVlZXhDd3BNa3Y2OW1kazFuLWJwUFdBbmJkcm1oSTlLR2cwb2hIMkpuRlNwZ1ZhWlI4b3VGWmZZUmZUSUFaMjBPdURoTDF6WnFUaXpfUzA4S05jMWpvMThzV1o1VFdBUEc5dFZZdWZSdzIzNERUNnc1c2RzM3VTRVEtWTdmRE9kaGhHRENVOVVRUHk0VktWbkhlRi1HY2R4WXAtamRmV3ZQaHB4cFp0WE0zdmhvci1Vc0VzdkRWbGRTc05hSGJEdlAxQlNZaEhkRlQzVzZTVmxqRXduWnciLCJpZCI6ImZjX0tRQUVhOUdoTl9TbXF0c1AwLV9EaVFNXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFZsaFdXVWhuYmxsR1kyYzBNRmszU1VsRlgxRldWazl3VGkxWlRYTTRSa0oyZFZnNWRHWlhNbWhtWlZWQmMyOUhPR1pQWDFwaldsSlVlSHBaVUVWQ2RESjVaa1ZzTW1jMVVGOXZiMVZuUVMxb1dsRXdVRmxKWXkxR1FSSVhTMUZCUldFNVIyaE9YMU50Y1hSelVEQXRYMFJwVVUwYUlrRklUakJGTjBkYVEzRlFSRUpNVldsZlNGRTBNRmx6VFd0eWJVdE1PVlJmTlhjIiwiZmN2IjoiMyIsImVpIjoiS1FBRWE5R2hOX1NtcXRzUDAtX0RpUU0iLCJxYyI6IkNqeG9iM2NnWkc5bGN5QjViM1YwZFdKbElITm9iM0owY3lCaGJHZHZjbWwwYUcwZ1pHbG1abVZ5SUdaeWIyMGdkR2xyZEc5cklHbHVJREl3TWpZUUFIMmhJUW9fIiwicXVlc3Rpb24iOiJJcyBZb3VUdWJlIFNob3J0cyBzdGlsbCBwcm9maXRhYmxlIGluIDIwMjY%2FIiwibGsiOiJHaWRwY3lCNWIzVjBkV0psSUhOb2IzSjBjeUJ6ZEdsc2JDQndjbTltYVhSaFlteGxJREl3TWpZIiwiYnMiOiJjMzJRc1c3Q1FCQkVSWHNWdFl0b0pDSkZKQlRtQ2dxSTVDWlNram91UUtsc3ZMRlhaMjZSYngxazVlZXhDd3BNa3Y2OW1kazFuLWJwUFdBbmJkcm1oSTlLR2cwb2hIMkpuRlNwZ1ZhWlI4b3VGWmZZUmZUSUFaMjBPdURoTDF6WnFUaXpfUzA4S05jMWpvMThzV1o1VFdBUEc5dFZZdWZSdzIzNERUNnc1c2RzM3VTRVEtWTdmRE9kaGhHRENVOVVRUHk0VktWbkhlRi1HY2R4WXAtamRmV3ZQaHB4cFp0WE0zdmhvci1Vc0VzdkRWbGRTc05hSGJEdlAxQlNZaEhkRlQzVzZTVmxqRXduWnciLCJpZCI6ImZjX0tRQUVhOUdoTl9TbXF0c1AwLV9EaVFNXzUifQ%3D%3D"
+      },
+      {
+        "question": "How many views do you need on YouTube Shorts to make $1000?",
+        "type": "ai_overview",
+        "page_token": "07OCfnicHdDPbpswAIDxTdqzVNqlsUPSqZGiSSQYSgoMB9vgS2XsAInNn6VW8XrsI-wZdtrD7AH2NKt2_KTf6Xv7Zc6D_vvxZ2ft9LxZLOZ5vm3HsTWnWzn2C_H8Y5ALKYyphdSbuy938Gsjt8GL9HdX6ecEB5VRpmLcU8Z_ZaXSGTVcgu5CGJrfe8YXHguiV4mHDu-2knqacLByacDX2V46Su4Pqh8hh5NXAVyoJball8O0nJJCd31GkVFDTI9DvCMwXtVRChlF8xGkx2p4cCdtqTT-9xK4gRXGHL2pqwMe0XBdZnucZ2XsU91RGbozRXqdLzHJl9PAoQKkRGG95zGG5lDDynJgBS54xoFDLDJD0qffkvLBKY83lRcAwRAKOvVICEJVYSIRrBuyhE5FaZ7sYINDgws8nnPSZUlAPMwsUGG7IhFnEiTzY9k6fqE96ZVLmO1Erw58vmnky9a7-f96-9T0djNdx_a3vJ6EPaknYf_oTx8-_wNqSpKV",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=07OCfnicHdDPbpswAIDxTdqzVNqlsUPSqZGiSSQYSgoMB9vgS2XsAInNn6VW8XrsI-wZdtrD7AH2NKt2_KTf6Xv7Zc6D_vvxZ2ft9LxZLOZ5vm3HsTWnWzn2C_H8Y5ALKYyphdSbuy938Gsjt8GL9HdX6ecEB5VRpmLcU8Z_ZaXSGTVcgu5CGJrfe8YXHguiV4mHDu-2knqacLByacDX2V46Su4Pqh8hh5NXAVyoJball8O0nJJCd31GkVFDTI9DvCMwXtVRChlF8xGkx2p4cCdtqTT-9xK4gRXGHL2pqwMe0XBdZnucZ2XsU91RGbozRXqdLzHJl9PAoQKkRGG95zGG5lDDynJgBS54xoFDLDJD0qffkvLBKY83lRcAwRAKOvVICEJVYSIRrBuyhE5FaZ7sYINDgws8nnPSZUlAPMwsUGG7IhFnEiTzY9k6fqE96ZVLmO1Erw58vmnky9a7-f96-9T0djNdx_a3vJ6EPaknYf_oTx8-_wNqSpKV",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFZsaFdXVWhuYmxsR1kyYzBNRmszU1VsRlgxRldWazl3VGkxWlRYTTRSa0oyZFZnNWRHWlhNbWhtWlZWQmMyOUhPR1pQWDFwaldsSlVlSHBaVUVWQ2RESjVaa1ZzTW1jMVVGOXZiMVZuUVMxb1dsRXdVRmxKWXkxR1FSSVhTMUZCUldFNVIyaE9YMU50Y1hSelVEQXRYMFJwVVUwYUlrRklUakJGTjBkYVEzRlFSRUpNVldsZlNGRTBNRmx6VFd0eWJVdE1PVlJmTlhjIiwiZmN2IjoiMyIsImVpIjoiS1FBRWE5R2hOX1NtcXRzUDAtX0RpUU0iLCJxYyI6IkNqeG9iM2NnWkc5bGN5QjViM1YwZFdKbElITm9iM0owY3lCaGJHZHZjbWwwYUcwZ1pHbG1abVZ5SUdaeWIyMGdkR2xyZEc5cklHbHVJREl3TWpZUUFIMmhJUW9fIiwicXVlc3Rpb24iOiJIb3cgbWFueSB2aWV3cyBkbyB5b3UgbmVlZCBvbiBZb3VUdWJlIFNob3J0cyB0byBtYWtlICQxMDAwPyIsImxrIjoiYzVPeXlzZ3ZWOGhOekt0VUtNdE1MUzlXU01sWHFNd3ZWY2hMVFUxUnlNOERzVXRLazFJVmlqUHlpMHFLRlVyeWdXcXpVeFZVREEwTURBQSIsImJzIjoiYzMyUXNXN0NRQkJFUlhzVnRZdG9KQ0pGSkJUbUNncUk1Q1pTa2pvdVFLbHN2TEZYWjI2UmJ4MWs1ZWV4Q3dwTWt2NjltZGsxbi1icFBXQW5iZHJtaEk5S0dnMG9oSDJKbkZTcGdWYVpSOG91RlpmWVJmVElBWjIwT3VEaEwxelpxVGl6X1MwOEtOYzFqbzE4c1daNVRXQVBHOXRWWXVmUncyMzREVDZ3NXNkczN1U0VRLVk3ZkRPZGhoR0RDVTlVUVB5NFZLVm5IZUYtR2NkeFlwLWpkZld2UGhweHBadFhNM3Zob3ItVXNFc3ZEVmxkU3NOYUhiRHZQMUJTWWhIZEZUM1c2U1ZsakV3blp3IiwiaWQiOiJmY19LUUFFYTlHaE5fU21xdHNQMC1fRGlRTV81In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFZsaFdXVWhuYmxsR1kyYzBNRmszU1VsRlgxRldWazl3VGkxWlRYTTRSa0oyZFZnNWRHWlhNbWhtWlZWQmMyOUhPR1pQWDFwaldsSlVlSHBaVUVWQ2RESjVaa1ZzTW1jMVVGOXZiMVZuUVMxb1dsRXdVRmxKWXkxR1FSSVhTMUZCUldFNVIyaE9YMU50Y1hSelVEQXRYMFJwVVUwYUlrRklUakJGTjBkYVEzRlFSRUpNVldsZlNGRTBNRmx6VFd0eWJVdE1PVlJmTlhjIiwiZmN2IjoiMyIsImVpIjoiS1FBRWE5R2hOX1NtcXRzUDAtX0RpUU0iLCJxYyI6IkNqeG9iM2NnWkc5bGN5QjViM1YwZFdKbElITm9iM0owY3lCaGJHZHZjbWwwYUcwZ1pHbG1abVZ5SUdaeWIyMGdkR2xyZEc5cklHbHVJREl3TWpZUUFIMmhJUW9fIiwicXVlc3Rpb24iOiJIb3cgbWFueSB2aWV3cyBkbyB5b3UgbmVlZCBvbiBZb3VUdWJlIFNob3J0cyB0byBtYWtlICQxMDAwPyIsImxrIjoiYzVPeXlzZ3ZWOGhOekt0VUtNdE1MUzlXU01sWHFNd3ZWY2hMVFUxUnlNOERzVXRLazFJVmlqUHlpMHFLRlVyeWdXcXpVeFZVREEwTURBQSIsImJzIjoiYzMyUXNXN0NRQkJFUlhzVnRZdG9KQ0pGSkJUbUNncUk1Q1pTa2pvdVFLbHN2TEZYWjI2UmJ4MWs1ZWV4Q3dwTWt2NjltZGsxbi1icFBXQW5iZHJtaEk5S0dnMG9oSDJKbkZTcGdWYVpSOG91RlpmWVJmVElBWjIwT3VEaEwxelpxVGl6X1MwOEtOYzFqbzE4c1daNVRXQVBHOXRWWXVmUncyMzREVDZ3NXNkczN1U0VRLVk3ZkRPZGhoR0RDVTlVUVB5NFZLVm5IZUYtR2NkeFlwLWpkZld2UGhweHBadFhNM3Zob3ItVXNFc3ZEVmxkU3NOYUhiRHZQMUJTWWhIZEZUM1c2U1ZsakV3blp3IiwiaWQiOiJmY19LUUFFYTlHaE5fU21xdHNQMC1fRGlRTV81In0%3D"
+      },
+      {
+        "question": "Did the YT Shorts algorithm change?",
+        "type": "ai_overview",
+        "page_token": "U5iQUnicHdBfbpswHADgTdpZKu2lwaQwESmaBLWBtJDY4WfAL5UxEFKbP2tpkvaxZ-lTD7MD7DSb9vBd4Hv_MMdB__l66uZ5el4tFufz-fowjgfTXKuxX8jn10EtlDSmkkqv3B8u-tmqNX6J_eBX7FNguDS1-ccqUdo3URo2objh0YTpGzvTgmyFnlyFfMFD5WSPibXPUZFlwimLcZbg9XwptBq0nUTMlbdsxwvjZn1s8Yg5DRCWG7bhhIHKvRcBMdqDodKetnXO3dzENrPEaW95OwEbmaDUqom_Kx95l4TmtdJeKPrpKKOUSL0RVTEdAfELRBQVKA04N7jquyQPEOGAiv2bD1W2GXBX3wMQUmYmkthpwUaXOkppEqCWhYZlbDxS6LYJhiXLnfIemJVrcksR0ak1C25f7sQwYdAoyLBXUHrVqtN6efX_c_3Q9vNqehoPn-qpkXNTP8j5t_725ftfatyFqg",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=U5iQUnicHdBfbpswHADgTdpZKu2lwaQwESmaBLWBtJDY4WfAL5UxEFKbP2tpkvaxZ-lTD7MD7DSb9vBd4Hv_MMdB__l66uZ5el4tFufz-fowjgfTXKuxX8jn10EtlDSmkkqv3B8u-tmqNX6J_eBX7FNguDS1-ccqUdo3URo2objh0YTpGzvTgmyFnlyFfMFD5WSPibXPUZFlwimLcZbg9XwptBq0nUTMlbdsxwvjZn1s8Yg5DRCWG7bhhIHKvRcBMdqDodKetnXO3dzENrPEaW95OwEbmaDUqom_Kx95l4TmtdJeKPrpKKOUSL0RVTEdAfELRBQVKA04N7jquyQPEOGAiv2bD1W2GXBX3wMQUmYmkthpwUaXOkppEqCWhYZlbDxS6LYJhiXLnfIemJVrcksR0ak1C25f7sQwYdAoyLBXUHrVqtN6efX_c_3Q9vNqehoPn-qpkXNTP8j5t_725ftfatyFqg",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFZsaFdXVWhuYmxsR1kyYzBNRmszU1VsRlgxRldWazl3VGkxWlRYTTRSa0oyZFZnNWRHWlhNbWhtWlZWQmMyOUhPR1pQWDFwaldsSlVlSHBaVUVWQ2RESjVaa1ZzTW1jMVVGOXZiMVZuUVMxb1dsRXdVRmxKWXkxR1FSSVhTMUZCUldFNVIyaE9YMU50Y1hSelVEQXRYMFJwVVUwYUlrRklUakJGTjBkYVEzRlFSRUpNVldsZlNGRTBNRmx6VFd0eWJVdE1PVlJmTlhjIiwiZmN2IjoiMyIsImVpIjoiS1FBRWE5R2hOX1NtcXRzUDAtX0RpUU0iLCJxYyI6IkNqeG9iM2NnWkc5bGN5QjViM1YwZFdKbElITm9iM0owY3lCaGJHZHZjbWwwYUcwZ1pHbG1abVZ5SUdaeWIyMGdkR2xyZEc5cklHbHVJREl3TWpZUUFIMmhJUW9fIiwicXVlc3Rpb24iOiJEaWQgdGhlIFlUIFNob3J0cyBhbGdvcml0aG0gY2hhbmdlPyIsImxrIjoiR2g1a2FXUWdlWFFnYzJodmNuUnpJR0ZzWjI5eWFYUm9iU0JqYUdGdVoyVSIsImJzIjoiYzMyUXNXN0NRQkJFUlhzVnRZdG9KQ0pGSkJUbUNncUk1Q1pTa2pvdVFLbHN2TEZYWjI2UmJ4MWs1ZWV4Q3dwTWt2NjltZGsxbi1icFBXQW5iZHJtaEk5S0dnMG9oSDJKbkZTcGdWYVpSOG91RlpmWVJmVElBWjIwT3VEaEwxelpxVGl6X1MwOEtOYzFqbzE4c1daNVRXQVBHOXRWWXVmUncyMzREVDZ3NXNkczN1U0VRLVk3ZkRPZGhoR0RDVTlVUVB5NFZLVm5IZUYtR2NkeFlwLWpkZld2UGhweHBadFhNM3Zob3ItVXNFc3ZEVmxkU3NOYUhiRHZQMUJTWWhIZEZUM1c2U1ZsakV3blp3IiwiaWQiOiJmY19LUUFFYTlHaE5fU21xdHNQMC1fRGlRTV81In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFZsaFdXVWhuYmxsR1kyYzBNRmszU1VsRlgxRldWazl3VGkxWlRYTTRSa0oyZFZnNWRHWlhNbWhtWlZWQmMyOUhPR1pQWDFwaldsSlVlSHBaVUVWQ2RESjVaa1ZzTW1jMVVGOXZiMVZuUVMxb1dsRXdVRmxKWXkxR1FSSVhTMUZCUldFNVIyaE9YMU50Y1hSelVEQXRYMFJwVVUwYUlrRklUakJGTjBkYVEzRlFSRUpNVldsZlNGRTBNRmx6VFd0eWJVdE1PVlJmTlhjIiwiZmN2IjoiMyIsImVpIjoiS1FBRWE5R2hOX1NtcXRzUDAtX0RpUU0iLCJxYyI6IkNqeG9iM2NnWkc5bGN5QjViM1YwZFdKbElITm9iM0owY3lCaGJHZHZjbWwwYUcwZ1pHbG1abVZ5SUdaeWIyMGdkR2xyZEc5cklHbHVJREl3TWpZUUFIMmhJUW9fIiwicXVlc3Rpb24iOiJEaWQgdGhlIFlUIFNob3J0cyBhbGdvcml0aG0gY2hhbmdlPyIsImxrIjoiR2g1a2FXUWdlWFFnYzJodmNuUnpJR0ZzWjI5eWFYUm9iU0JqYUdGdVoyVSIsImJzIjoiYzMyUXNXN0NRQkJFUlhzVnRZdG9KQ0pGSkJUbUNncUk1Q1pTa2pvdVFLbHN2TEZYWjI2UmJ4MWs1ZWV4Q3dwTWt2NjltZGsxbi1icFBXQW5iZHJtaEk5S0dnMG9oSDJKbkZTcGdWYVpSOG91RlpmWVJmVElBWjIwT3VEaEwxelpxVGl6X1MwOEtOYzFqbzE4c1daNVRXQVBHOXRWWXVmUncyMzREVDZ3NXNkczN1U0VRLVk3ZkRPZGhoR0RDVTlVUVB5NFZLVm5IZUYtR2NkeFlwLWpkZld2UGhweHBadFhNM3Zob3ItVXNFc3ZEVmxkU3NOYUhiRHZQMUJTWWhIZEZUM1c2U1ZsakV3blp3IiwiaWQiOiJmY19LUUFFYTlHaE5fU21xdHNQMC1fRGlRTV81In0%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "WPisbXiczVbdcuo2EO5FL_sa9UyHhB9DCGTGk5EdQcy_cQiHc-MxtpCNbQSWsUMuz7P0qg_TB-jTVLYhsak5OelNuzMgpF19u1rtp-Xb7669cf76ZW4FwZbeVSpRFJUxIdhFZYN4FZ0eNkZlRVzqG9Y9doU95SjZ-wYSDMsnHiqTJWe5Atocl23zqOAOoVDnDCpUOWQLfQVAvd21Rprq7QI6qV5rD7Yy5BJ8QVvqFK2Z-5c1rWgV9uX8Wn9gkzIto015U689h-EY6Sot81W-Xh5XdI8ZgP9YRCBjNjgA4O-aKT8KqDAcCKTz_RAmY2Z9CGKfMpDkVHPJvxqDxjslMZ7GOGOwElPl6GQ1kz-ICwKYmVGQCUeUUxefkreTzM4XLkvBEeU0NvE0h-e6IhnKORMJS-JjlIGHBXuU7A5A0nAmEZKB5eGPkhdDK5F40wfvkX5PJNKU3CWIgFQxMavyamXps6FWsQ3LSH74NC5-6aldJY_zV37WnNfWdf-1vnCCVRC6WqfT3bkUVIwls3OJbiJTs7TqfTKv8Tzfqrdv-auEdQZ9ox3N0m4Eo4fFjh6m0qI8KM9PlMtn5_zaFFkuTDwWcS6PZwCdCExBP685T5WT89w5jhYQicJgc0qlDwdZI8aWB5auFs6W0PsOqZByBadIKAfT638DwHkw5n0BoFrkJ5ZxIWxhXYgJyRPE00OXZlFOrM9SacdvBwZvddzNKiU2leCM6WBCuWcEU9tpFF_XCQrLspLflhGY3uvZ7cL348VRycxKxOxZBL3hrAdFtjh92ySKx4dGst5hEh-wkHSpZvDPp6FbYFgo8o-8K2kUJ46dUSZLtU7odJwbr9em4fZLtdFfeA1NPeDQ0lq4mFrEW36ipRn_e_Id-517rLKL5Is9_RD5FFxMvkv9Dkop-STneLQsWCxqSr7ifjc5WeX7XQH5oAgz5Ev7nWjH33JRv_s8-aSPyZfLV4Z87_0uRz75EvnSfpchn9Q79buL5EsjOZHv3_Y76fP9LuEgSod889uv8cUmCMMoUq8HdW3G94aqNkbqwBK_IjR4wcqHTXDlBXeebrpXmm3eiXwvOJhXGlsgd8jkdsIjiUomQbS0IPun_RKVVIv4AS3pLia-HVheybRXK-SXVuxPb-nJdp6IU7I3JUbq5j3nuT4RqvqtshuhcAhg42u3bYXr7UqbgEXTeKXtYDaZOSt11tqowW543SWd_njeeybKy9rH_GjlGJMQGpPX0HL8SX-9FDutTvPg7B5n7fZkVFVuO7zV5XUkbbeTVcPc1x6m_QPsmv5Qe8XBaGK0pGC09Zv9w05Xknio0EaLL57c6Naxw3m-IbBbbjhgpIA5ADoQI9BjZdQH4nTHxgG7xSURgfK4YGTA7ENYfXDU0DVEQ-GmwTeqPG_otdsGqt0izsPBYSs0ahzd-ELtD8NHesBSrwd_Oj__9NvfUXaGhg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=WPisbXiczVbdcuo2EO5FL_sa9UyHhB9DCGTGk5EdQcy_cQiHc-MxtpCNbQSWsUMuz7P0qg_TB-jTVLYhsak5OelNuzMgpF19u1rtp-Xb7669cf76ZW4FwZbeVSpRFJUxIdhFZYN4FZ0eNkZlRVzqG9Y9doU95SjZ-wYSDMsnHiqTJWe5Atocl23zqOAOoVDnDCpUOWQLfQVAvd21Rprq7QI6qV5rD7Yy5BJ8QVvqFK2Z-5c1rWgV9uX8Wn9gkzIto015U689h-EY6Sot81W-Xh5XdI8ZgP9YRCBjNjgA4O-aKT8KqDAcCKTz_RAmY2Z9CGKfMpDkVHPJvxqDxjslMZ7GOGOwElPl6GQ1kz-ICwKYmVGQCUeUUxefkreTzM4XLkvBEeU0NvE0h-e6IhnKORMJS-JjlIGHBXuU7A5A0nAmEZKB5eGPkhdDK5F40wfvkX5PJNKU3CWIgFQxMavyamXps6FWsQ3LSH74NC5-6aldJY_zV37WnNfWdf-1vnCCVRC6WqfT3bkUVIwls3OJbiJTs7TqfTKv8Tzfqrdv-auEdQZ9ox3N0m4Eo4fFjh6m0qI8KM9PlMtn5_zaFFkuTDwWcS6PZwCdCExBP685T5WT89w5jhYQicJgc0qlDwdZI8aWB5auFs6W0PsOqZByBadIKAfT638DwHkw5n0BoFrkJ5ZxIWxhXYgJyRPE00OXZlFOrM9SacdvBwZvddzNKiU2leCM6WBCuWcEU9tpFF_XCQrLspLflhGY3uvZ7cL348VRycxKxOxZBL3hrAdFtjh92ySKx4dGst5hEh-wkHSpZvDPp6FbYFgo8o-8K2kUJ46dUSZLtU7odJwbr9em4fZLtdFfeA1NPeDQ0lq4mFrEW36ipRn_e_Id-517rLKL5Is9_RD5FFxMvkv9Dkop-STneLQsWCxqSr7ifjc5WeX7XQH5oAgz5Ev7nWjH33JRv_s8-aSPyZfLV4Z87_0uRz75EvnSfpchn9Q79buL5EsjOZHv3_Y76fP9LuEgSod889uv8cUmCMMoUq8HdW3G94aqNkbqwBK_IjR4wcqHTXDlBXeebrpXmm3eiXwvOJhXGlsgd8jkdsIjiUomQbS0IPun_RKVVIv4AS3pLia-HVheybRXK-SXVuxPb-nJdp6IU7I3JUbq5j3nuT4RqvqtshuhcAhg42u3bYXr7UqbgEXTeKXtYDaZOSt11tqowW543SWd_njeeybKy9rH_GjlGJMQGpPX0HL8SX-9FDutTvPg7B5n7fZkVFVuO7zV5XUkbbeTVcPc1x6m_QPsmv5Qe8XBaGK0pGC09Zv9w05Xknio0EaLL57c6Naxw3m-IbBbbjhgpIA5ADoQI9BjZdQH4nTHxgG7xSURgfK4YGTA7ENYfXDU0DVEQ-GmwTeqPG_otdsGqt0izsPBYSs0ahzd-ELtD8NHesBSrwd_Oj__9NvfUXaGhg"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "The YouTube Shorts Algorithm in 2026: What Works Now",
+        "link": "https://www.usefastlane.ai/blog/youtube-shorts-algorithm-2026",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.usefastlane.ai/blog/youtube-shorts-algorithm-2026&usg=AOvVaw0ETIH5dt5UOrQ4Pdvd-iE_",
+        "displayed_link": "https://www.usefastlane.ai \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABXV1dmZmYiIiLFxcX____19fVzc3Pb29uioqKFhYW0tLSsrKyze1IkAAAACnRSTlMAFHK23fT_3wgqd_opLAAAAKFJREFUeAF908UBgDAQAMGLLe7Qf6m4QzLf6JmslDbWsXOR0UoOseHDxLJK-JWs5_BYzho8jIjCS4nGS4vBy0iElxXHU5ptcnDCU1FuKoDnYl0e0udi01RN2x14LDZl2dP2K3bCsVbVebkZXos55MPtL8fi8cci5U32tepYeiw6yOs644cTi1cUTnywZMFiB9sk3GDB1gw19TEOkWPn7DEOEwlDFBSF02J1AAAAAElFTkSuQmCC.png",
+        "date": "Aug 14, 2026",
+        "snippet": "The YouTube Shorts algorithm in 2026 ranks on swipe-away rate, completion, and rewatches, and it now runs completely separately from long-form.",
+        "snippet_highlighted_words": [
+          "ranks on swipe-away rate, completion, and rewatches"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The YouTube Shorts algorithm in 2026 ranks on swipe-away rate, completion, and rewatches, and it now runs completely separately from long-form.",
+            "source_info_link": "https://www.usefastlane.ai/blog/youtube-shorts-algorithm-2026",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABXV1dmZmYiIiLFxcX____19fVzc3Pb29uioqKFhYW0tLSsrKyze1IkAAAACnRSTlMAFHK23fT_3wgqd_opLAAAAKFJREFUeAF908UBgDAQAMGLLe7Qf6m4QzLf6JmslDbWsXOR0UoOseHDxLJK-JWs5_BYzho8jIjCS4nGS4vBy0iElxXHU5ptcnDCU1FuKoDnYl0e0udi01RN2x14LDZl2dP2K3bCsVbVebkZXos55MPtL8fi8cci5U32tepYeiw6yOs644cTi1cUTnywZMFiB9sk3GDB1gw19TEOkWPn7DEOEwlDFBSF02J1AAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cj1odHRwczovL3d3dy51c2VmYXN0bGFuZS5haS9ibG9nL3lvdXR1YmUtc2hvcnRzLWFsZ29yaXRobS0yMDI2EgQaAggAGpAHEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA6gYIABAAGAAgACoKCgNob3cVccBxQCpMCgRkb2VzFQW_JEAaAWEaA2FyZRoDY2FuGgVjb3VsZBoDZGlkGgJkbxoDaGFzGgJpcxoIaXQgd29ya3MaAm9uGgR3aWxsGgV3b3VsZCo1Cgd5b3V0dWJlFRH88EAaDXlvdXR1YmVzaG9ydHMaFnlvdXR1YmVzaG9ydHNhbGdvcml0aG0qTAoGc2hvcnRzFSLzAkEaBXNob3J0Gg15b3V0dWJlc2hvcnRzGhZ5b3V0dWJlc2hvcnRzYWxnb3JpdGhtGg9zaG9ydHNhbGdvcml0aG0qVQoJYWxnb3JpdGhtFSjI0EAaCmFsZ29yaXRobXMaFnlvdXR1YmVzaG9ydHNhbGdvcml0aG0aD3Nob3J0c2FsZ29yaXRobRoOaXY7cDthbGdvcml0aG0qiQEKBmRpZmZlchUAAAAAGghkaWZmZXJlZBoKZGlmZmVyZW5jZRoLZGlmZmVyZW5jZXMaCWRpZmZlcmVudBoNZGlmZmVyZW50aWF0ZRoJZGlmZmVyaW5nGgdkaWZmZXJzGgZ2YXJpZXMaBHZhcnkaC2l2O3A7ZGlmZmVyGgJ2cxoKY29tcGFyaXNvbioLCgRmcm9tFQAAAAAqFgoGdGlrdG9rFYCoOj8aB3RpayB0b2sqCQoCaW4VAAAAACokCgQyMDI2FcUKxUAaDGdtO2RhdGU7MjAyNhoJaXY7bjsyMDI2Mj1odHRwczovL3d3dy51c2VmYXN0bGFuZS5haS9ibG9nL3lvdXR1YmUtc2hvcnRzLWFsZ29yaXRobS0yMDI2OkJUaGUgPGI-WW91VHViZSBTaG9ydHMgQWxnb3JpdGhtPC9iPiBpbiA8Yj4yMDI2PC9iPjogV2hhdCBXb3JrcyBOb3dClgFUaGUgWW91VHViZSBTaG9ydHMgYWxnb3JpdGhtIGluIDIwMjYgPGI-cmFua3Mgb24gc3dpcGUtYXdheSByYXRlLCBjb21wbGV0aW9uLCBhbmQgcmV3YXRjaGVzPC9iPiwgYW5kIGl0IG5vdyBydW5zIGNvbXBsZXRlbHkgc2VwYXJhdGVseSBmcm9tIGxvbmctZm9ybS5KAmluSgRmcm9tUgJkb1IDY2FuUgFhUgNhcmVSA2hhc1ICaXNSAm9uUgR3aWxsIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cj1odHRwczovL3d3dy51c2VmYXN0bGFuZS5haS9ibG9nL3lvdXR1YmUtc2hvcnRzLWFsZ29yaXRobS0yMDI2EgQaAggAGpAHEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA6gYIABAAGAAgACoKCgNob3cVccBxQCpMCgRkb2VzFQW_JEAaAWEaA2FyZRoDY2FuGgVjb3VsZBoDZGlkGgJkbxoDaGFzGgJpcxoIaXQgd29ya3MaAm9uGgR3aWxsGgV3b3VsZCo1Cgd5b3V0dWJlFRH88EAaDXlvdXR1YmVzaG9ydHMaFnlvdXR1YmVzaG9ydHNhbGdvcml0aG0qTAoGc2hvcnRzFSLzAkEaBXNob3J0Gg15b3V0dWJlc2hvcnRzGhZ5b3V0dWJlc2hvcnRzYWxnb3JpdGhtGg9zaG9ydHNhbGdvcml0aG0qVQoJYWxnb3JpdGhtFSjI0EAaCmFsZ29yaXRobXMaFnlvdXR1YmVzaG9ydHNhbGdvcml0aG0aD3Nob3J0c2FsZ29yaXRobRoOaXY7cDthbGdvcml0aG0qiQEKBmRpZmZlchUAAAAAGghkaWZmZXJlZBoKZGlmZmVyZW5jZRoLZGlmZmVyZW5jZXMaCWRpZmZlcmVudBoNZGlmZmVyZW50aWF0ZRoJZGlmZmVyaW5nGgdkaWZmZXJzGgZ2YXJpZXMaBHZhcnkaC2l2O3A7ZGlmZmVyGgJ2cxoKY29tcGFyaXNvbioLCgRmcm9tFQAAAAAqFgoGdGlrdG9rFYCoOj8aB3RpayB0b2sqCQoCaW4VAAAAACokCgQyMDI2FcUKxUAaDGdtO2RhdGU7MjAyNhoJaXY7bjsyMDI2Mj1odHRwczovL3d3dy51c2VmYXN0bGFuZS5haS9ibG9nL3lvdXR1YmUtc2hvcnRzLWFsZ29yaXRobS0yMDI2OkJUaGUgPGI-WW91VHViZSBTaG9ydHMgQWxnb3JpdGhtPC9iPiBpbiA8Yj4yMDI2PC9iPjogV2hhdCBXb3JrcyBOb3dClgFUaGUgWW91VHViZSBTaG9ydHMgYWxnb3JpdGhtIGluIDIwMjYgPGI-cmFua3Mgb24gc3dpcGUtYXdheSByYXRlLCBjb21wbGV0aW9uLCBhbmQgcmV3YXRjaGVzPC9iPiwgYW5kIGl0IG5vdyBydW5zIGNvbXBsZXRlbHkgc2VwYXJhdGVseSBmcm9tIGxvbmctZm9ybS5KAmluSgRmcm9tUgJkb1IDY2FuUgFhUgNhcmVSA2hhc1ICaXNSAm9uUgR3aWxsIgIQAUgAWABoAA",
+        "source": "usefastlane.ai",
+        "read_more_link": "https://www.usefastlane.ai/blog/youtube-shorts-algorithm-2026#:~:text=The%20YouTube%20Shorts%20algorithm%20in,runs%20completely%20separately%20from%20long%2Dform."
+      },
+      {
+        "position": 2,
+        "title": "Is the YouTube shorts algorithm and that of TikTok's really ...",
+        "link": "https://www.reddit.com/r/NewTubers/comments/17aq9s3/is_the_youtube_shorts_algorithm_and_that_of/",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.reddit.com/r/NewTubers/comments/17aq9s3/is_the_youtube_shorts_algorithm_and_that_of/&usg=AOvVaw1ueZ_T4IN-wz1DgLdAZz84",
+        "displayed_link": "2 comments",
+        "date": "3 years ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+        "snippet": "Hashtags do play an important factor in TikTok, but YouTube's algorithm is more centered around watch time, engagement, and how often users are ...",
+        "snippet_highlighted_words": [
+          "do",
+          "TikTok",
+          "YouTube's algorithm is",
+          "are"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Hashtags do play an important factor in TikTok, but YouTube's algorithm is more centered around watch time, engagement, and how often users are ...",
+            "source_info_link": "https://www.reddit.com/r/NewTubers/comments/17aq9s3/is_the_youtube_shorts_algorithm_and_that_of/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CmBodHRwczovL3d3dy5yZWRkaXQuY29tL3IvTmV3VHViZXJzL2NvbW1lbnRzLzE3YXE5czMvaXNfdGhlX3lvdXR1YmVfc2hvcnRzX2FsZ29yaXRobV9hbmRfdGhhdF9vZi8SBBoCCAAa6wcSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAxwcIABAAGAAgACoKCgNob3cVBOcIQCpMCgRkb2VzFZIuBUAaAWEaA2FyZRoDY2FuGgVjb3VsZBoDZGlkGgJkbxoDaGFzGgJpcxoIaXQgd29ya3MaAm9uGgR3aWxsGgV3b3VsZCo1Cgd5b3V0dWJlFeuW80AaDXlvdXR1YmVzaG9ydHMaFnlvdXR1YmVzaG9ydHNhbGdvcml0aG0qTAoGc2hvcnRzFT2o1UAaBXNob3J0Gg15b3V0dWJlc2hvcnRzGhZ5b3V0dWJlc2hvcnRzYWxnb3JpdGhtGg9zaG9ydHNhbGdvcml0aG0qVQoJYWxnb3JpdGhtFTRju0AaCmFsZ29yaXRobXMaFnlvdXR1YmVzaG9ydHNhbGdvcml0aG0aD3Nob3J0c2FsZ29yaXRobRoOaXY7cDthbGdvcml0aG0qiQEKBmRpZmZlchUAAAAAGghkaWZmZXJlZBoKZGlmZmVyZW5jZRoLZGlmZmVyZW5jZXMaCWRpZmZlcmVudBoNZGlmZmVyZW50aWF0ZRoJZGlmZmVyaW5nGgdkaWZmZXJzGgZ2YXJpZXMaBHZhcnkaC2l2O3A7ZGlmZmVyGgJ2cxoKY29tcGFyaXNvbioLCgRmcm9tFQAAAAAqFgoGdGlrdG9rFeCU4UAaB3RpayB0b2sqCQoCaW4VAAAAACokCgQyMDI2FQAAAAAaDGdtO2RhdGU7MjAyNhoJaXY7bjsyMDI2MmBodHRwczovL3d3dy5yZWRkaXQuY29tL3IvTmV3VHViZXJzL2NvbW1lbnRzLzE3YXE5czMvaXNfdGhlX3lvdXR1YmVfc2hvcnRzX2FsZ29yaXRobV9hbmRfdGhhdF9vZi86WjxiPklzPC9iPiB0aGUgPGI-WW91VHViZSBzaG9ydHMgYWxnb3JpdGhtPC9iPiBhbmQgdGhhdCBvZiA8Yj5UaWtUb2smIzM5O3M8L2I-IC4uLiAtIFJlZGRpdEK4AUhhc2h0YWdzIDxiPmRvPC9iPiBwbGF5IGFuIGltcG9ydGFudCBmYWN0b3IgaW4gPGI-VGlrVG9rPC9iPiwgYnV0IDxiPllvdVR1YmUmIzM5O3MgYWxnb3JpdGhtIGlzPC9iPiBtb3JlIGNlbnRlcmVkIGFyb3VuZCB3YXRjaCB0aW1lLCBlbmdhZ2VtZW50LCBhbmQgaG93IG9mdGVuIHVzZXJzIDxiPmFyZTwvYj4mbmJzcDsuLi5KBGZyb21KAmluUgNoYXNSA2NhblIBYVIDYXJlUgJpc1ICb25SAmRvUgR3aWxsIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CmBodHRwczovL3d3dy5yZWRkaXQuY29tL3IvTmV3VHViZXJzL2NvbW1lbnRzLzE3YXE5czMvaXNfdGhlX3lvdXR1YmVfc2hvcnRzX2FsZ29yaXRobV9hbmRfdGhhdF9vZi8SBBoCCAAa6wcSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAxwcIABAAGAAgACoKCgNob3cVBOcIQCpMCgRkb2VzFZIuBUAaAWEaA2FyZRoDY2FuGgVjb3VsZBoDZGlkGgJkbxoDaGFzGgJpcxoIaXQgd29ya3MaAm9uGgR3aWxsGgV3b3VsZCo1Cgd5b3V0dWJlFeuW80AaDXlvdXR1YmVzaG9ydHMaFnlvdXR1YmVzaG9ydHNhbGdvcml0aG0qTAoGc2hvcnRzFT2o1UAaBXNob3J0Gg15b3V0dWJlc2hvcnRzGhZ5b3V0dWJlc2hvcnRzYWxnb3JpdGhtGg9zaG9ydHNhbGdvcml0aG0qVQoJYWxnb3JpdGhtFTRju0AaCmFsZ29yaXRobXMaFnlvdXR1YmVzaG9ydHNhbGdvcml0aG0aD3Nob3J0c2FsZ29yaXRobRoOaXY7cDthbGdvcml0aG0qiQEKBmRpZmZlchUAAAAAGghkaWZmZXJlZBoKZGlmZmVyZW5jZRoLZGlmZmVyZW5jZXMaCWRpZmZlcmVudBoNZGlmZmVyZW50aWF0ZRoJZGlmZmVyaW5nGgdkaWZmZXJzGgZ2YXJpZXMaBHZhcnkaC2l2O3A7ZGlmZmVyGgJ2cxoKY29tcGFyaXNvbioLCgRmcm9tFQAAAAAqFgoGdGlrdG9rFeCU4UAaB3RpayB0b2sqCQoCaW4VAAAAACokCgQyMDI2FQAAAAAaDGdtO2RhdGU7MjAyNhoJaXY7bjsyMDI2MmBodHRwczovL3d3dy5yZWRkaXQuY29tL3IvTmV3VHViZXJzL2NvbW1lbnRzLzE3YXE5czMvaXNfdGhlX3lvdXR1YmVfc2hvcnRzX2FsZ29yaXRobV9hbmRfdGhhdF9vZi86WjxiPklzPC9iPiB0aGUgPGI-WW91VHViZSBzaG9ydHMgYWxnb3JpdGhtPC9iPiBhbmQgdGhhdCBvZiA8Yj5UaWtUb2smIzM5O3M8L2I-IC4uLiAtIFJlZGRpdEK4AUhhc2h0YWdzIDxiPmRvPC9iPiBwbGF5IGFuIGltcG9ydGFudCBmYWN0b3IgaW4gPGI-VGlrVG9rPC9iPiwgYnV0IDxiPllvdVR1YmUmIzM5O3MgYWxnb3JpdGhtIGlzPC9iPiBtb3JlIGNlbnRlcmVkIGFyb3VuZCB3YXRjaCB0aW1lLCBlbmdhZ2VtZW50LCBhbmQgaG93IG9mdGVuIHVzZXJzIDxiPmFyZTwvYj4mbmJzcDsuLi5KBGZyb21KAmluUgNoYXNSA2NhblIBYVIDYXJlUgJpc1ICb25SAmRvUgR3aWxsIgIQAUgAWABoAA",
+        "source": "Reddit \u00b7 r/NewTubers",
+        "read_more_link": "https://www.reddit.com/r/NewTubers/comments/17aq9s3/is_the_youtube_shorts_algorithm_and_that_of/#:~:text=Hashtags%20do%20play%20an%20important,are%20clicking%20on%20your%20video."
+      },
+      {
+        "position": 3,
+        "title": "YouTube Shorts Algorithm Explained + Tips to Grow in 2026",
+        "link": "https://metricool.com/youtube-shorts-algorithm/",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://metricool.com/youtube-shorts-algorithm/&usg=AOvVaw39POXL_n_KQ2HYKJ2JsG-t",
+        "displayed_link": "https://metricool.com \u203a youtube-shorts-algorithm",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEXn_1bn_1bo_1bv_1jM30-jr0QcASYIACSkr0Sgq0OGjDx3ezlVTzEtGSnn_1abpUIXMLXIAAAAD3RSTlPw9_________________uZYm6eAAAAbElEQVR4AWNAA0JKSECRrlwjF2UwAeEqh5VnGCm3lacagbmWZavSg62BxGQwV63E2C3pWIqxexKY635YySY3F0iUwLnXrsG56inGbjnPgIqLwFx7oCmbQcRniEXfyvONwASGMwYsNPjeIYEHAAv_Ub8cUE-QAAAAAElFTkSuQmCC.png",
+        "snippet": "Since 31 March 2025, YouTube counts a view every time a Short starts or replays, with no minimum watch time. That matches how TikTok and Reels count views. It ...",
+        "snippet_highlighted_words": [
+          "YouTube counts a view every time a Short starts or replays"
+        ],
+        "sitelinks": {
+          "inline": [
+            {
+              "title": "What Is the YouTube Shorts...",
+              "link": "https://metricool.com/youtube-shorts-algorithm/#What_Is_the_YouTube_Shorts_Algorithm"
+            },
+            {
+              "title": "How the YouTube Shorts...",
+              "link": "https://metricool.com/youtube-shorts-algorithm/#How_the_YouTube_Shorts_Algorithm_Works_in_2026"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Since 31 March 2025, YouTube counts a view every time a Short starts or replays, with no minimum watch time. That matches how TikTok and Reels count views. It ...",
+            "source_info_link": "https://metricool.com/youtube-shorts-algorithm/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEXn_1bn_1bo_1bv_1jM30-jr0QcASYIACSkr0Sgq0OGjDx3ezlVTzEtGSnn_1abpUIXMLXIAAAAD3RSTlPw9_________________uZYm6eAAAAbElEQVR4AWNAA0JKSECRrlwjF2UwAeEqh5VnGCm3lacagbmWZavSg62BxGQwV63E2C3pWIqxexKY635YySY3F0iUwLnXrsG56inGbjnPgIqLwFx7oCmbQcRniEXfyvONwASGMwYsNPjeIYEHAAv_Ub8cUE-QAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ci9odHRwczovL21ldHJpY29vbC5jb20veW91dHViZS1zaG9ydHMtYWxnb3JpdGhtLxIEGgIIABqfBxICCAAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQPkGCAAQABgAIAAqCgoDaG93Fb4eR0AqTAoEZG9lcxXaWkI_GgFhGgNhcmUaA2NhbhoFY291bGQaA2RpZBoCZG8aA2hhcxoCaXMaCGl0IHdvcmtzGgJvbhoEd2lsbBoFd291bGQqNQoHeW91dHViZRVFyuFAGg15b3V0dWJlc2hvcnRzGhZ5b3V0dWJlc2hvcnRzYWxnb3JpdGhtKkwKBnNob3J0cxWKcOxAGgVzaG9ydBoNeW91dHViZXNob3J0cxoWeW91dHViZXNob3J0c2FsZ29yaXRobRoPc2hvcnRzYWxnb3JpdGhtKlUKCWFsZ29yaXRobRUViM9AGgphbGdvcml0aG1zGhZ5b3V0dWJlc2hvcnRzYWxnb3JpdGhtGg9zaG9ydHNhbGdvcml0aG0aDml2O3A7YWxnb3JpdGhtKokBCgZkaWZmZXIVAAAAABoIZGlmZmVyZWQaCmRpZmZlcmVuY2UaC2RpZmZlcmVuY2VzGglkaWZmZXJlbnQaDWRpZmZlcmVudGlhdGUaCWRpZmZlcmluZxoHZGlmZmVycxoGdmFyaWVzGgR2YXJ5GgtpdjtwO2RpZmZlchoCdnMaCmNvbXBhcmlzb24qCwoEZnJvbRUAAAAAKhYKBnRpa3RvaxVw0oA_Ggd0aWsgdG9rKgkKAmluFQAAAAAqJAoEMjAyNhVtI7ZAGgxnbTtkYXRlOzIwMjYaCWl2O247MjAyNjIvaHR0cHM6Ly9tZXRyaWNvb2wuY29tL3lvdXR1YmUtc2hvcnRzLWFsZ29yaXRobS86RzxiPllvdVR1YmUgU2hvcnRzIEFsZ29yaXRobTwvYj4gRXhwbGFpbmVkICsgVGlwcyB0byBHcm93IGluIDxiPjIwMjY8L2I-Qq4BU2luY2UgMzEgTWFyY2ggMjAyNSwgPGI-WW91VHViZSBjb3VudHMgYSB2aWV3IGV2ZXJ5IHRpbWUgYSBTaG9ydCBzdGFydHMgb3IgcmVwbGF5czwvYj4sIHdpdGggbm8gbWluaW11bSB3YXRjaCB0aW1lLiBUaGF0IG1hdGNoZXMgaG93IFRpa1RvayBhbmQgUmVlbHMgY291bnQgdmlld3MuIEl0Jm5ic3A7Li4uSgRmcm9tSgJpblIEd2lsbFICZG9SA2NhblIBYVIDYXJlUgJvblIDaGFzUgJpcyICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ci9odHRwczovL21ldHJpY29vbC5jb20veW91dHViZS1zaG9ydHMtYWxnb3JpdGhtLxIEGgIIABqfBxICCAAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQPkGCAAQABgAIAAqCgoDaG93Fb4eR0AqTAoEZG9lcxXaWkI_GgFhGgNhcmUaA2NhbhoFY291bGQaA2RpZBoCZG8aA2hhcxoCaXMaCGl0IHdvcmtzGgJvbhoEd2lsbBoFd291bGQqNQoHeW91dHViZRVFyuFAGg15b3V0dWJlc2hvcnRzGhZ5b3V0dWJlc2hvcnRzYWxnb3JpdGhtKkwKBnNob3J0cxWKcOxAGgVzaG9ydBoNeW91dHViZXNob3J0cxoWeW91dHViZXNob3J0c2FsZ29yaXRobRoPc2hvcnRzYWxnb3JpdGhtKlUKCWFsZ29yaXRobRUViM9AGgphbGdvcml0aG1zGhZ5b3V0dWJlc2hvcnRzYWxnb3JpdGhtGg9zaG9ydHNhbGdvcml0aG0aDml2O3A7YWxnb3JpdGhtKokBCgZkaWZmZXIVAAAAABoIZGlmZmVyZWQaCmRpZmZlcmVuY2UaC2RpZmZlcmVuY2VzGglkaWZmZXJlbnQaDWRpZmZlcmVudGlhdGUaCWRpZmZlcmluZxoHZGlmZmVycxoGdmFyaWVzGgR2YXJ5GgtpdjtwO2RpZmZlchoCdnMaCmNvbXBhcmlzb24qCwoEZnJvbRUAAAAAKhYKBnRpa3RvaxVw0oA_Ggd0aWsgdG9rKgkKAmluFQAAAAAqJAoEMjAyNhVtI7ZAGgxnbTtkYXRlOzIwMjYaCWl2O247MjAyNjIvaHR0cHM6Ly9tZXRyaWNvb2wuY29tL3lvdXR1YmUtc2hvcnRzLWFsZ29yaXRobS86RzxiPllvdVR1YmUgU2hvcnRzIEFsZ29yaXRobTwvYj4gRXhwbGFpbmVkICsgVGlwcyB0byBHcm93IGluIDxiPjIwMjY8L2I-Qq4BU2luY2UgMzEgTWFyY2ggMjAyNSwgPGI-WW91VHViZSBjb3VudHMgYSB2aWV3IGV2ZXJ5IHRpbWUgYSBTaG9ydCBzdGFydHMgb3IgcmVwbGF5czwvYj4sIHdpdGggbm8gbWluaW11bSB3YXRjaCB0aW1lLiBUaGF0IG1hdGNoZXMgaG93IFRpa1RvayBhbmQgUmVlbHMgY291bnQgdmlld3MuIEl0Jm5ic3A7Li4uSgRmcm9tSgJpblIEd2lsbFICZG9SA2NhblIBYVIDYXJlUgJvblIDaGFzUgJpcyICEAFIAFgAaAA",
+        "source": "Metricool",
+        "read_more_link": "https://metricool.com/youtube-shorts-algorithm/#:~:text=Since%2031%20March%202025%2C%20YouTube,number%20on%20your%20dashboard%20jump."
+      },
+      {
+        "position": 4,
+        "title": "YouTube Shorts vs TikTok in 2026: Which Platform Should ...",
+        "link": "https://miraflow.ai/blog/youtube-shorts-vs-tiktok-2026",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://miraflow.ai/blog/youtube-shorts-vs-tiktok-2026&usg=AOvVaw0MxB606zhnJ-dz9m3O5MmM",
+        "displayed_link": "https://miraflow.ai \u203a blog \u203a youtube-shorts-vs-tiktok-20...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAq1BMVEX____85OX0mZ34wsT73-DzkZb4xsnyhoz60tT-8vPufIDkAAD1rLDsaWz3vcDpTlLoCBTtZGjrWFzlAATlAAnmEx7pRkrnMjnlCRTcSEvUAAbXCxL61dfLAADMUVLptrbCUFC0AAC1DAzADA7mTVL35OTQCxKxAADbl5e1Dg7uzc3LZWX1oqbANjblrKy-LS3FW1vqwsLBSUnBPz_x3Nz9-PjWhoa9IyPQc3MM0k-bAAAA0UlEQVR4AWIYXgBAtFzgMAzEQBQtU5gZvGUI0_1vVjso-tI8zXqz7bvbH4YeT7OdLxzHUwWOE6kSJ2_no8LJtO5UTTe2WFPXrcOCtm6IhLZubQltzTwtSOta1bDmae24nsdJ_oK48oqGDcIoBna9Brc14V3gZFy5i6LJD8aerxje7zeDT49feHj4_CkBe78hSRHRsvuIuGXRPX_ilhT3ErAVHgckW9U5tipWdQkMSrIB4V1gc4CEWsJsq-YFWUFtn92H-p-FurEJIvxMVDHoEQUAbNYbFOih7esAAAAASUVORK5CYII.png",
+        "date": "Mar 23, 2026",
+        "snippet": "TikTok has matured into a search-first discovery engine. YouTube Shorts has expanded its algorithm, improved monetization, and added new ...",
+        "snippet_highlighted_words": [
+          "YouTube Shorts has expanded its algorithm"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "TikTok has matured into a search-first discovery engine. YouTube Shorts has expanded its algorithm, improved monetization, and added new ...",
+            "source_info_link": "https://miraflow.ai/blog/youtube-shorts-vs-tiktok-2026",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAq1BMVEX____85OX0mZ34wsT73-DzkZb4xsnyhoz60tT-8vPufIDkAAD1rLDsaWz3vcDpTlLoCBTtZGjrWFzlAATlAAnmEx7pRkrnMjnlCRTcSEvUAAbXCxL61dfLAADMUVLptrbCUFC0AAC1DAzADA7mTVL35OTQCxKxAADbl5e1Dg7uzc3LZWX1oqbANjblrKy-LS3FW1vqwsLBSUnBPz_x3Nz9-PjWhoa9IyPQc3MM0k-bAAAA0UlEQVR4AWIYXgBAtFzgMAzEQBQtU5gZvGUI0_1vVjso-tI8zXqz7bvbH4YeT7OdLxzHUwWOE6kSJ2_no8LJtO5UTTe2WFPXrcOCtm6IhLZubQltzTwtSOta1bDmae24nsdJ_oK48oqGDcIoBna9Brc14V3gZFy5i6LJD8aerxje7zeDT49feHj4_CkBe78hSRHRsvuIuGXRPX_ilhT3ErAVHgckW9U5tipWdQkMSrIB4V1gc4CEWsJsq-YFWUFtn92H-p-FurEJIvxMVDHoEQUAbNYbFOih7esAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CjZodHRwczovL21pcmFmbG93LmFpL2Jsb2cveW91dHViZS1zaG9ydHMtdnMtdGlrdG9rLTIwMjYSBBoCCAAakgcSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDsBggAEAAYACAAKgoKA2hvdxWvnRtAKkwKBGRvZXMVFEf-PxoBYRoDYXJlGgNjYW4aBWNvdWxkGgNkaWQaAmRvGgNoYXMaAmlzGghpdCB3b3JrcxoCb24aBHdpbGwaBXdvdWxkKjUKB3lvdXR1YmUVaGngQBoNeW91dHViZXNob3J0cxoWeW91dHViZXNob3J0c2FsZ29yaXRobSpMCgZzaG9ydHMVdPTbQBoFc2hvcnQaDXlvdXR1YmVzaG9ydHMaFnlvdXR1YmVzaG9ydHNhbGdvcml0aG0aD3Nob3J0c2FsZ29yaXRobSpVCglhbGdvcml0aG0V-i9QQBoKYWxnb3JpdGhtcxoWeW91dHViZXNob3J0c2FsZ29yaXRobRoPc2hvcnRzYWxnb3JpdGhtGg5pdjtwO2FsZ29yaXRobSqJAQoGZGlmZmVyFW10FD8aCGRpZmZlcmVkGgpkaWZmZXJlbmNlGgtkaWZmZXJlbmNlcxoJZGlmZmVyZW50Gg1kaWZmZXJlbnRpYXRlGglkaWZmZXJpbmcaB2RpZmZlcnMaBnZhcmllcxoEdmFyeRoLaXY7cDtkaWZmZXIaAnZzGgpjb21wYXJpc29uKgsKBGZyb20VAAAAACoWCgZ0aWt0b2sVqj3eQBoHdGlrIHRvayoJCgJpbhUAAAAAKiQKBDIwMjYVLBfJQBoMZ207ZGF0ZTsyMDI2GglpdjtuOzIwMjYyNmh0dHBzOi8vbWlyYWZsb3cuYWkvYmxvZy95b3V0dWJlLXNob3J0cy12cy10aWt0b2stMjAyNjpJPGI-WW91VHViZSBTaG9ydHM8L2I-IHZzIDxiPlRpa1RvayBpbiAyMDI2PC9iPjogV2hpY2ggUGxhdGZvcm0gU2hvdWxkIC4uLkKYAVRpa1RvayBoYXMgbWF0dXJlZCBpbnRvIGEgc2VhcmNoLWZpcnN0IGRpc2NvdmVyeSBlbmdpbmUuIDxiPllvdVR1YmUgU2hvcnRzIGhhcyBleHBhbmRlZCBpdHMgYWxnb3JpdGhtPC9iPiwgaW1wcm92ZWQgbW9uZXRpemF0aW9uLCBhbmQgYWRkZWQgbmV3Jm5ic3A7Li4uSgRmcm9tSgJpblIEd2lsbFICaXNSA2NhblIBYVIDYXJlUgNoYXNSAm9uUgJkbyICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CjZodHRwczovL21pcmFmbG93LmFpL2Jsb2cveW91dHViZS1zaG9ydHMtdnMtdGlrdG9rLTIwMjYSBBoCCAAakgcSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDsBggAEAAYACAAKgoKA2hvdxWvnRtAKkwKBGRvZXMVFEf-PxoBYRoDYXJlGgNjYW4aBWNvdWxkGgNkaWQaAmRvGgNoYXMaAmlzGghpdCB3b3JrcxoCb24aBHdpbGwaBXdvdWxkKjUKB3lvdXR1YmUVaGngQBoNeW91dHViZXNob3J0cxoWeW91dHViZXNob3J0c2FsZ29yaXRobSpMCgZzaG9ydHMVdPTbQBoFc2hvcnQaDXlvdXR1YmVzaG9ydHMaFnlvdXR1YmVzaG9ydHNhbGdvcml0aG0aD3Nob3J0c2FsZ29yaXRobSpVCglhbGdvcml0aG0V-i9QQBoKYWxnb3JpdGhtcxoWeW91dHViZXNob3J0c2FsZ29yaXRobRoPc2hvcnRzYWxnb3JpdGhtGg5pdjtwO2FsZ29yaXRobSqJAQoGZGlmZmVyFW10FD8aCGRpZmZlcmVkGgpkaWZmZXJlbmNlGgtkaWZmZXJlbmNlcxoJZGlmZmVyZW50Gg1kaWZmZXJlbnRpYXRlGglkaWZmZXJpbmcaB2RpZmZlcnMaBnZhcmllcxoEdmFyeRoLaXY7cDtkaWZmZXIaAnZzGgpjb21wYXJpc29uKgsKBGZyb20VAAAAACoWCgZ0aWt0b2sVqj3eQBoHdGlrIHRvayoJCgJpbhUAAAAAKiQKBDIwMjYVLBfJQBoMZ207ZGF0ZTsyMDI2GglpdjtuOzIwMjYyNmh0dHBzOi8vbWlyYWZsb3cuYWkvYmxvZy95b3V0dWJlLXNob3J0cy12cy10aWt0b2stMjAyNjpJPGI-WW91VHViZSBTaG9ydHM8L2I-IHZzIDxiPlRpa1RvayBpbiAyMDI2PC9iPjogV2hpY2ggUGxhdGZvcm0gU2hvdWxkIC4uLkKYAVRpa1RvayBoYXMgbWF0dXJlZCBpbnRvIGEgc2VhcmNoLWZpcnN0IGRpc2NvdmVyeSBlbmdpbmUuIDxiPllvdVR1YmUgU2hvcnRzIGhhcyBleHBhbmRlZCBpdHMgYWxnb3JpdGhtPC9iPiwgaW1wcm92ZWQgbW9uZXRpemF0aW9uLCBhbmQgYWRkZWQgbmV3Jm5ic3A7Li4uSgRmcm9tSgJpblIEd2lsbFICaXNSA2NhblIBYVIDYXJlUgNoYXNSAm9uUgJkbyICEAFIAFgAaAA",
+        "source": "Miraflow AI",
+        "read_more_link": "https://miraflow.ai/blog/youtube-shorts-vs-tiktok-2026#:~:text=TikTok%20has%20matured%20into%20a,just%20a%20feature%20inside%20YouTube."
+      },
+      {
+        "position": 5,
+        "title": "YouTube algorithm update: what it means for creators in 2026",
+        "link": "https://www.tiktok.com/@katoproducer/video/7675118611173788959",
+        "displayed_link": "109.6K+ views",
+        "date": "3 months ago",
+        "thumbnail": "https://serpapi.com/searches/6b0400294b9596c3b4d464e7/images/CUMb-u1R-zcmGEhnaoAFzwM4irWII-W2WunoqgmZIn0.jpg",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEUAAAAAAAAFT1IAQUNBub6u5eexxcpyQ0wIAABaxsv5____9_nGj5oyAAD____84eeEYmvm4uN4f4A5P0MAFBXx-vu019khAAD60tr37vDlmqpXAAsALzAKc3gpo6hjpqr_6O3idYqcbHTSrLP6iJ9rABOc5Ofi-vvJYnXLbn8_AAI9HyWWIDhRz9TH9PffY3oDAAC99vjhSGe7KEenACiF4-f_1961PVaB09bFkZswjJGwuLr__f7xqbYYHh_9tsTiL1Yh8R0_AAAAAXRSTlP-GuMHfQAAANJJREFUeAG90kUCg1AMBNDiPtTd3d2V-5-quMOS2b6vSXI5IjnZIElSyUgzLMcnoSBKspKMUPMpiEKxVE5EVKr5WgTLBkr1BtBsBbHd6fZKOvYHw1F9PAkgSU9njXlNx8Vyxa2XfmxvtoC0M1GH_d6P3QPU8fFkY_Ar7Q0ag3ONIOKQvOB60i0WqSnUG6FnI6rzMJbvkB76zo5-wk0JIf8EGq9ndzN7f9bRrlQBcTYTcT22iAh-X9Ib7_dPm8Q1u5Zvfpq7c4uIQ56otVrLjEYzJX-4mxcG80U-CwAAAABJRU5ErkJggg.png",
+        "snippet": "What changed - The platform shifted ranking signals to favor watchability and relevance over strict historical performance metrics. That means ...",
+        "duration": "1:59",
+        "about_this_result": {
+          "source": {
+            "description": "What changed - The platform shifted ranking signals to favor watchability and relevance over strict historical performance metrics. That means ...",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEUAAAAAAAAFT1IAQUNBub6u5eexxcpyQ0wIAABaxsv5____9_nGj5oyAAD____84eeEYmvm4uN4f4A5P0MAFBXx-vu019khAAD60tr37vDlmqpXAAsALzAKc3gpo6hjpqr_6O3idYqcbHTSrLP6iJ9rABOc5Ofi-vvJYnXLbn8_AAI9HyWWIDhRz9TH9PffY3oDAAC99vjhSGe7KEenACiF4-f_1961PVaB09bFkZswjJGwuLr__f7xqbYYHh_9tsTiL1Yh8R0_AAAAAXRSTlP-GuMHfQAAANJJREFUeAG90kUCg1AMBNDiPtTd3d2V-5-quMOS2b6vSXI5IjnZIElSyUgzLMcnoSBKspKMUPMpiEKxVE5EVKr5WgTLBkr1BtBsBbHd6fZKOvYHw1F9PAkgSU9njXlNx8Vyxa2XfmxvtoC0M1GH_d6P3QPU8fFkY_Ar7Q0ag3ONIOKQvOB60i0WqSnUG6FnI6rzMJbvkB76zo5-wk0JIf8EGq9ndzN7f9bRrlQBcTYTcT22iAh-X9Ib7_dPm8Q1u5Zvfpq7c4uIQ56otVrLjEYzJX-4mxcG80U-CwAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cj5odHRwczovL3d3dy50aWt0b2suY29tL0BrYXRvcHJvZHVjZXIvdmlkZW8vNzY3NTExODYxMTE3Mzc4ODk1ORIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cj5odHRwczovL3d3dy50aWt0b2suY29tL0BrYXRvcHJvZHVjZXIvdmlkZW8vNzY3NTExODYxMTE3Mzc4ODk1ORIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "source": "TikTok \u00b7 Kato On The Track"
+      },
+      {
+        "position": 6,
+        "title": "Short-Form Video Strategy: Shorts vs TikTok vs Reels",
+        "link": "https://www.digitalapplied.com/blog/short-form-video-strategy-shorts-tiktok-reels-2026",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.digitalapplied.com/blog/short-form-video-strategy-shorts-tiktok-reels-2026&usg=AOvVaw1l3KxW0Jb-kzauFAkkU8pn",
+        "displayed_link": "https://www.digitalapplied.com \u203a Blog \u203a Marketing",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAclBMVEX____Nzc3l5eV4dncAAADEw8Pb29uioaFRT082MzRFQkOzsrMIAACsq6yNjI0eGhuVlJT49_ccFxgaFRYYEhQdGBlVVFc8OjsRCgwUDhArJyhCQUNcXF4zLzFta2uIh4e9vLxNTE9_f4Hu7u5jY2WamZkTC30mAAAAw0lEQVR4AdWOVQKEMAwFkVfcIbjL_a-4lXX7p95Ok4x25qYbv5kJ9pNZ-APZD2g7rmf7QRBGMdwkfUZGhrwgryQqqyLLgvrJKw2oqZ2264n6oRqpjvGInera5Nu8ULzMQrquoztsqJV7UteJPLSU3bOimV5t1-aRF8Uodz_ALA9m8YBeBqnnxirF5j4ZzYgL32JekXu7w6yw9J51TcQBQHW3VgTUpfNIy9sBcMorj_wQeMx9hlrKwnmT9fyQ8c3n8GTtAks8C5qnzndZAAAAAElFTkSuQmCC.png",
+        "date": "Feb 4, 2026",
+        "snippet": "YouTube Shorts leads engagement at 5.91%: With 200 billion daily views and 2 billion monthly users, Shorts now outperforms TikTok and Reels ...",
+        "snippet_highlighted_words": [
+          "YouTube Shorts leads engagement at 5.91"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "YouTube Shorts leads engagement at 5.91%: With 200 billion daily views and 2 billion monthly users, Shorts now outperforms TikTok and Reels ...",
+            "source_info_link": "https://www.digitalapplied.com/blog/short-form-video-strategy-shorts-tiktok-reels-2026",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAclBMVEX____Nzc3l5eV4dncAAADEw8Pb29uioaFRT082MzRFQkOzsrMIAACsq6yNjI0eGhuVlJT49_ccFxgaFRYYEhQdGBlVVFc8OjsRCgwUDhArJyhCQUNcXF4zLzFta2uIh4e9vLxNTE9_f4Hu7u5jY2WamZkTC30mAAAAw0lEQVR4AdWOVQKEMAwFkVfcIbjL_a-4lXX7p95Ok4x25qYbv5kJ9pNZ-APZD2g7rmf7QRBGMdwkfUZGhrwgryQqqyLLgvrJKw2oqZ2264n6oRqpjvGInera5Nu8ULzMQrquoztsqJV7UteJPLSU3bOimV5t1-aRF8Uodz_ALA9m8YBeBqnnxirF5j4ZzYgL32JekXu7w6yw9J51TcQBQHW3VgTUpfNIy9sBcMorj_wQeMx9hlrKwnmT9fyQ8c3n8GTtAks8C5qnzndZAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=ClZodHRwczovL3d3dy5kaWdpdGFsYXBwbGllZC5jb20vYmxvZy9zaG9ydC1mb3JtLXZpZGVvLXN0cmF0ZWd5LXNob3J0cy10aWt0b2stcmVlbHMtMjAyNhIEGgIIABq1BxICCAAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQI8HCAAQABgAIAAqCgoDaG93FQ9J3D8qTAoEZG9lcxXe4c4-GgFhGgNhcmUaA2NhbhoFY291bGQaA2RpZBoCZG8aA2hhcxoCaXMaCGl0IHdvcmtzGgJvbhoEd2lsbBoFd291bGQqNQoHeW91dHViZRW2oHRAGg15b3V0dWJlc2hvcnRzGhZ5b3V0dWJlc2hvcnRzYWxnb3JpdGhtKkwKBnNob3J0cxUaQM5AGgVzaG9ydBoNeW91dHViZXNob3J0cxoWeW91dHViZXNob3J0c2FsZ29yaXRobRoPc2hvcnRzYWxnb3JpdGhtKlUKCWFsZ29yaXRobRWeYQBAGgphbGdvcml0aG1zGhZ5b3V0dWJlc2hvcnRzYWxnb3JpdGhtGg9zaG9ydHNhbGdvcml0aG0aDml2O3A7YWxnb3JpdGhtKokBCgZkaWZmZXIVIn7JPxoIZGlmZmVyZWQaCmRpZmZlcmVuY2UaC2RpZmZlcmVuY2VzGglkaWZmZXJlbnQaDWRpZmZlcmVudGlhdGUaCWRpZmZlcmluZxoHZGlmZmVycxoGdmFyaWVzGgR2YXJ5GgtpdjtwO2RpZmZlchoCdnMaCmNvbXBhcmlzb24qCwoEZnJvbRUAAAAAKhYKBnRpa3RvaxXAB9VAGgd0aWsgdG9rKgkKAmluFQAAAAAqJAoEMjAyNhUQXDpAGgxnbTtkYXRlOzIwMjYaCWl2O247MjAyNjJWaHR0cHM6Ly93d3cuZGlnaXRhbGFwcGxpZWQuY29tL2Jsb2cvc2hvcnQtZm9ybS12aWRlby1zdHJhdGVneS1zaG9ydHMtdGlrdG9rLXJlZWxzLTIwMjY6STxiPlNob3J0PC9iPi1Gb3JtIFZpZGVvIFN0cmF0ZWd5OiA8Yj5TaG9ydHM8L2I-IHZzIDxiPlRpa1RvazwvYj4gdnMgUmVlbHNCmwE8Yj5Zb3VUdWJlIFNob3J0cyBsZWFkcyBlbmdhZ2VtZW50IGF0IDUuOTE8L2I-JTogV2l0aCAyMDAgYmlsbGlvbiBkYWlseSB2aWV3cyBhbmQgMiBiaWxsaW9uIG1vbnRobHkgdXNlcnMsIFNob3J0cyBub3cgb3V0cGVyZm9ybXMgVGlrVG9rIGFuZCBSZWVscyZuYnNwOy4uLkoEZnJvbUoCaW5SAm9uUgNhcmVSAWFSA2NhblIDaGFzUgJpc1ICZG9SBHdpbGwiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=ClZodHRwczovL3d3dy5kaWdpdGFsYXBwbGllZC5jb20vYmxvZy9zaG9ydC1mb3JtLXZpZGVvLXN0cmF0ZWd5LXNob3J0cy10aWt0b2stcmVlbHMtMjAyNhIEGgIIABq1BxICCAAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQI8HCAAQABgAIAAqCgoDaG93FQ9J3D8qTAoEZG9lcxXe4c4-GgFhGgNhcmUaA2NhbhoFY291bGQaA2RpZBoCZG8aA2hhcxoCaXMaCGl0IHdvcmtzGgJvbhoEd2lsbBoFd291bGQqNQoHeW91dHViZRW2oHRAGg15b3V0dWJlc2hvcnRzGhZ5b3V0dWJlc2hvcnRzYWxnb3JpdGhtKkwKBnNob3J0cxUaQM5AGgVzaG9ydBoNeW91dHViZXNob3J0cxoWeW91dHViZXNob3J0c2FsZ29yaXRobRoPc2hvcnRzYWxnb3JpdGhtKlUKCWFsZ29yaXRobRWeYQBAGgphbGdvcml0aG1zGhZ5b3V0dWJlc2hvcnRzYWxnb3JpdGhtGg9zaG9ydHNhbGdvcml0aG0aDml2O3A7YWxnb3JpdGhtKokBCgZkaWZmZXIVIn7JPxoIZGlmZmVyZWQaCmRpZmZlcmVuY2UaC2RpZmZlcmVuY2VzGglkaWZmZXJlbnQaDWRpZmZlcmVudGlhdGUaCWRpZmZlcmluZxoHZGlmZmVycxoGdmFyaWVzGgR2YXJ5GgtpdjtwO2RpZmZlchoCdnMaCmNvbXBhcmlzb24qCwoEZnJvbRUAAAAAKhYKBnRpa3RvaxXAB9VAGgd0aWsgdG9rKgkKAmluFQAAAAAqJAoEMjAyNhUQXDpAGgxnbTtkYXRlOzIwMjYaCWl2O247MjAyNjJWaHR0cHM6Ly93d3cuZGlnaXRhbGFwcGxpZWQuY29tL2Jsb2cvc2hvcnQtZm9ybS12aWRlby1zdHJhdGVneS1zaG9ydHMtdGlrdG9rLXJlZWxzLTIwMjY6STxiPlNob3J0PC9iPi1Gb3JtIFZpZGVvIFN0cmF0ZWd5OiA8Yj5TaG9ydHM8L2I-IHZzIDxiPlRpa1RvazwvYj4gdnMgUmVlbHNCmwE8Yj5Zb3VUdWJlIFNob3J0cyBsZWFkcyBlbmdhZ2VtZW50IGF0IDUuOTE8L2I-JTogV2l0aCAyMDAgYmlsbGlvbiBkYWlseSB2aWV3cyBhbmQgMiBiaWxsaW9uIG1vbnRobHkgdXNlcnMsIFNob3J0cyBub3cgb3V0cGVyZm9ybXMgVGlrVG9rIGFuZCBSZWVscyZuYnNwOy4uLkoEZnJvbUoCaW5SAm9uUgNhcmVSAWFSA2NhblIDaGFzUgJpc1ICZG9SBHdpbGwiAhABSABYAGgA",
+        "source": "Digital Applied",
+        "read_more_link": "https://www.digitalapplied.com/blog/short-form-video-strategy-shorts-tiktok-reels-2026#:~:text=YouTube%20Shorts%20leads%20engagement%20at,Reels%20on%20average%20engagement%20rate."
+      }
+    ],
+    "perspectives": [
+      {
+        "author": "Colin and Samir",
+        "source": "YouTube",
+        "duration": "0:35",
+        "extensions": [
+          "15.4K+ views "
+        ],
+        "thumbnails": [
+          "https://serpapi.com/searches/6b0400294b9596c3b4d464e7/images/V3oyMGEUSPK017KZ7fLBl4jszQNtMC8E6Q2yQiHb3gc.jpg"
+        ],
+        "title": "The Difference Between TikTok and YouTube Algorithms",
+        "link": "https://www.youtube.com/shorts/jp0te0Cd3GA",
+        "date": "Sep 14, 2026",
+        "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTZNXmfs-A_f54_CIP1hDbEevJ9EUBlCiqW9w"
+      },
+      {
+        "author": "r/podcasting",
+        "source": "Reddit",
+        "extensions": [
+          "10+ comments "
+        ],
+        "title": "Can someone break it down for me the difference between algorithms on YouTube, Insta, and TikTok?",
+        "link": "https://www.reddit.com/r/podcasting/comments/1w3mwyt/can_someone_break_it_down_for_me_the_difference/",
+        "date": "Aug 31, 2026"
+      },
+      {
+        "author": "Robert Benjamin",
+        "source": "YouTube",
+        "duration": "11:37",
+        "extensions": [
+          "21.5K+ views "
+        ],
+        "thumbnails": [
+          "https://img.youtube.com/vi/shfr5fBVfPI/hqdefault.jpg"
+        ],
+        "title": "YouTube's New Algorithm Update for October 2026 Explained (How to Go Viral Faster on YouTube)",
+        "link": "https://www.youtube.com/watch?v=shfr5fBVfPI",
+        "date": "1 month ago",
+        "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSm8WsN6SDfPsBSZjCdhiANnFWDMl5JftAf5A"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "How does youtube shorts algorithm differ from tiktok in 2026 2022",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDh-R6uknSerL7oV3Bqdx3_0fdT7_Q:1795424297912&q=How+does+youtube+shorts+algorithm+differ+from+tiktok+in+2026+2022&sa=X&ved=2ahUKEwiR2v3b3J2YAxV0k2oFHdP3MDEQ1QJ6BAhAEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+does+youtube+shorts+algorithm+differ+from+tiktok+in+2026+2022"
+      },
+      {
+        "block_position": 1,
+        "query": "How does youtube shorts algorithm differ from tiktok in 2026 qui",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDh-R6uknSerL7oV3Bqdx3_0fdT7_Q:1795424297912&q=How+does+youtube+shorts+algorithm+differ+from+tiktok+in+2026+qui&sa=X&ved=2ahUKEwiR2v3b3J2YAxV0k2oFHdP3MDEQ1QJ6BAhFEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+does+youtube+shorts+algorithm+differ+from+tiktok+in+2026+qui"
+      },
+      {
+        "block_position": 1,
+        "query": "2026 YouTube Shorts",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDh-R6uknSerL7oV3Bqdx3_0fdT7_Q:1795424297912&q=2026+YouTube+Shorts&sa=X&ved=2ahUKEwiR2v3b3J2YAxV0k2oFHdP3MDEQ1QJ6BAhEEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=2026+YouTube+Shorts"
+      },
+      {
+        "block_position": 1,
+        "query": "Youtube videos 2026",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDh-R6uknSerL7oV3Bqdx3_0fdT7_Q:1795424297912&q=Youtube+videos+2026&sa=X&ved=2ahUKEwiR2v3b3J2YAxV0k2oFHdP3MDEQ1QJ6BAhDEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Youtube+videos+2026"
+      },
+      {
+        "block_position": 1,
+        "query": "YouTube UI update 2026",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDh-R6uknSerL7oV3Bqdx3_0fdT7_Q:1795424297912&q=YouTube+UI+update+2026&sa=X&ved=2ahUKEwiR2v3b3J2YAxV0k2oFHdP3MDEQ1QJ6BAhBEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=YouTube+UI+update+2026"
+      },
+      {
+        "block_position": 1,
+        "query": "YouTube update 2026",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDh-R6uknSerL7oV3Bqdx3_0fdT7_Q:1795424297912&q=YouTube+update+2026&sa=X&ved=2ahUKEwiR2v3b3J2YAxV0k2oFHdP3MDEQ1QJ6BAg_EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=YouTube+update+2026"
+      },
+      {
+        "block_position": 1,
+        "query": "YouTube Studio",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDh-R6uknSerL7oV3Bqdx3_0fdT7_Q:1795424297912&q=YouTube+Studio&sa=X&ved=2ahUKEwiR2v3b3J2YAxV0k2oFHdP3MDEQ1QJ6BAhCEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=YouTube+Studio"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "Starting YouTube or TikTok in 2026 which is better?",
+        "link": "https://www.reddit.com/r/socialmedia/comments/1tbv4z0/starting_youtube_or_tiktok_in_2026_which_is_better/",
+        "date": "6 months ago",
+        "extensions": [
+          "r/socialmedia",
+          "20+ comments"
+        ],
+        "source": "Reddit",
+        "answers": [
+          {
+            "link": "https://www.reddit.com/r/socialmedia/comments/1tbv4z0/starting_youtube_or_tiktok_in_2026_which_is_better/olkerge/",
+            "extensions": [
+              "Top answer",
+              "4 votes",
+              "6 months ago"
+            ]
+          },
+          {
+            "link": "https://www.reddit.com/r/socialmedia/comments/1tbv4z0/starting_youtube_or_tiktok_in_2026_which_is_better/oljegyq/",
+            "extensions": [
+              "3 votes",
+              "6 months ago"
+            ]
+          },
+          {
+            "link": "https://www.reddit.com/r/socialmedia/comments/1tbv4z0/starting_youtube_or_tiktok_in_2026_which_is_better/oljy4o7/",
+            "extensions": [
+              "3 votes",
+              "6 months ago"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "What is the difference between TT, YT and IG algorithms for short videos?",
+        "link": "https://www.reddit.com/r/digital_marketing/comments/1m288jg/what_is_the_difference_between_tt_yt_and_ig/",
+        "date": "1 year ago",
+        "extensions": [
+          "r/digital_marketing",
+          "10+ comments"
+        ],
+        "source": "Reddit",
+        "answers": [
+          {
+            "link": "https://www.reddit.com/r/digital_marketing/comments/1m288jg/what_is_the_difference_between_tt_yt_and_ig/n3oi3rc/",
+            "extensions": [
+              "Top answer",
+              "2 votes",
+              "a year ago"
+            ]
+          },
+          {
+            "link": "https://www.reddit.com/r/digital_marketing/comments/1m288jg/what_is_the_difference_between_tt_yt_and_ig/n3rak5d/",
+            "extensions": [
+              "2 votes",
+              "a year ago"
+            ]
+          },
+          {
+            "link": "https://www.reddit.com/r/digital_marketing/comments/1m288jg/what_is_the_difference_between_tt_yt_and_ig/n3rhqlo/",
+            "extensions": [
+              "2 votes",
+              "a year ago"
+            ]
+          }
+        ]
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=How+does+YouTube+Shorts+algorithm+differ+from+TikTok+in+2026?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDh-R6uknSerL7oV3Bqdx3_0fdT7_Q:1795424297912&ei=KQAEa9GhN_SmqtsP0-_DiQM&start=10&sa=N&sstk=AYl2yk8GW3I_2inoHTqHtmmRIbtLasxQQjCQh7oJsMhBCtlgMVCZ0JqPhvIKetiRQ9YOZK928snEZHSktJsXNtmt8t3SYi0uVK3jfw&ved=2ahUKEwiR2v3b3J2YAxV0k2oFHdP3MDEQ8NMDegQIPBAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=How+does+YouTube+Shorts+algorithm+differ+from+TikTok+in+2026?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDh-R6uknSerL7oV3Bqdx3_0fdT7_Q:1795424297912&ei=KQAEa9GhN_SmqtsP0-_DiQM&start=10&sa=N&sstk=AYl2yk8GW3I_2inoHTqHtmmRIbtLasxQQjCQh7oJsMhBCtlgMVCZ0JqPhvIKetiRQ9YOZK928snEZHSktJsXNtmt8t3SYi0uVK3jfw&ved=2ahUKEwiR2v3b3J2YAxV0k2oFHdP3MDEQ8tMDegQIPBAE",
+        "3": "https://www.google.com/search?q=How+does+YouTube+Shorts+algorithm+differ+from+TikTok+in+2026?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDh-R6uknSerL7oV3Bqdx3_0fdT7_Q:1795424297912&ei=KQAEa9GhN_SmqtsP0-_DiQM&start=20&sa=N&sstk=AYl2yk8GW3I_2inoHTqHtmmRIbtLasxQQjCQh7oJsMhBCtlgMVCZ0JqPhvIKetiRQ9YOZK928snEZHSktJsXNtmt8t3SYi0uVK3jfw&ved=2ahUKEwiR2v3b3J2YAxV0k2oFHdP3MDEQ8tMDegQIPBAG",
+        "4": "https://www.google.com/search?q=How+does+YouTube+Shorts+algorithm+differ+from+TikTok+in+2026?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDh-R6uknSerL7oV3Bqdx3_0fdT7_Q:1795424297912&ei=KQAEa9GhN_SmqtsP0-_DiQM&start=30&sa=N&sstk=AYl2yk8GW3I_2inoHTqHtmmRIbtLasxQQjCQh7oJsMhBCtlgMVCZ0JqPhvIKetiRQ9YOZK928snEZHSktJsXNtmt8t3SYi0uVK3jfw&ved=2ahUKEwiR2v3b3J2YAxV0k2oFHdP3MDEQ8tMDegQIPBAI",
+        "5": "https://www.google.com/search?q=How+does+YouTube+Shorts+algorithm+differ+from+TikTok+in+2026?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDh-R6uknSerL7oV3Bqdx3_0fdT7_Q:1795424297912&ei=KQAEa9GhN_SmqtsP0-_DiQM&start=40&sa=N&sstk=AYl2yk8GW3I_2inoHTqHtmmRIbtLasxQQjCQh7oJsMhBCtlgMVCZ0JqPhvIKetiRQ9YOZK928snEZHSktJsXNtmt8t3SYi0uVK3jfw&ved=2ahUKEwiR2v3b3J2YAxV0k2oFHdP3MDEQ8tMDegQIPBAK",
+        "6": "https://www.google.com/search?q=How+does+YouTube+Shorts+algorithm+differ+from+TikTok+in+2026?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDh-R6uknSerL7oV3Bqdx3_0fdT7_Q:1795424297912&ei=KQAEa9GhN_SmqtsP0-_DiQM&start=50&sa=N&sstk=AYl2yk8GW3I_2inoHTqHtmmRIbtLasxQQjCQh7oJsMhBCtlgMVCZ0JqPhvIKetiRQ9YOZK928snEZHSktJsXNtmt8t3SYi0uVK3jfw&ved=2ahUKEwiR2v3b3J2YAxV0k2oFHdP3MDEQ8tMDegQIPBAM",
+        "7": "https://www.google.com/search?q=How+does+YouTube+Shorts+algorithm+differ+from+TikTok+in+2026?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDh-R6uknSerL7oV3Bqdx3_0fdT7_Q:1795424297912&ei=KQAEa9GhN_SmqtsP0-_DiQM&start=60&sa=N&sstk=AYl2yk8GW3I_2inoHTqHtmmRIbtLasxQQjCQh7oJsMhBCtlgMVCZ0JqPhvIKetiRQ9YOZK928snEZHSktJsXNtmt8t3SYi0uVK3jfw&ved=2ahUKEwiR2v3b3J2YAxV0k2oFHdP3MDEQ8tMDegQIPBAO",
+        "8": "https://www.google.com/search?q=How+does+YouTube+Shorts+algorithm+differ+from+TikTok+in+2026?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDh-R6uknSerL7oV3Bqdx3_0fdT7_Q:1795424297912&ei=KQAEa9GhN_SmqtsP0-_DiQM&start=70&sa=N&sstk=AYl2yk8GW3I_2inoHTqHtmmRIbtLasxQQjCQh7oJsMhBCtlgMVCZ0JqPhvIKetiRQ9YOZK928snEZHSktJsXNtmt8t3SYi0uVK3jfw&ved=2ahUKEwiR2v3b3J2YAxV0k2oFHdP3MDEQ8tMDegQIPBAQ",
+        "9": "https://www.google.com/search?q=How+does+YouTube+Shorts+algorithm+differ+from+TikTok+in+2026?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDh-R6uknSerL7oV3Bqdx3_0fdT7_Q:1795424297912&ei=KQAEa9GhN_SmqtsP0-_DiQM&start=80&sa=N&sstk=AYl2yk8GW3I_2inoHTqHtmmRIbtLasxQQjCQh7oJsMhBCtlgMVCZ0JqPhvIKetiRQ9YOZK928snEZHSktJsXNtmt8t3SYi0uVK3jfw&ved=2ahUKEwiR2v3b3J2YAxV0k2oFHdP3MDEQ8tMDegQIPBAS",
+        "10": "https://www.google.com/search?q=How+does+YouTube+Shorts+algorithm+differ+from+TikTok+in+2026?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDh-R6uknSerL7oV3Bqdx3_0fdT7_Q:1795424297912&ei=KQAEa9GhN_SmqtsP0-_DiQM&start=90&sa=N&sstk=AYl2yk8GW3I_2inoHTqHtmmRIbtLasxQQjCQh7oJsMhBCtlgMVCZ0JqPhvIKetiRQ9YOZK928snEZHSktJsXNtmt8t3SYi0uVK3jfw&ved=2ahUKEwiR2v3b3J2YAxV0k2oFHdP3MDEQ8tMDegQIPBAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+does+YouTube+Shorts+algorithm+differ+from+TikTok+in+2026%3F&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+does+YouTube+Shorts+algorithm+differ+from+TikTok+in+2026%3F&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+does+YouTube+Shorts+algorithm+differ+from+TikTok+in+2026%3F&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+does+YouTube+Shorts+algorithm+differ+from+TikTok+in+2026%3F&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+does+YouTube+Shorts+algorithm+differ+from+TikTok+in+2026%3F&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+does+YouTube+Shorts+algorithm+differ+from+TikTok+in+2026%3F&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+does+YouTube+Shorts+algorithm+differ+from+TikTok+in+2026%3F&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+does+YouTube+Shorts+algorithm+differ+from+TikTok+in+2026%3F&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+does+YouTube+Shorts+algorithm+differ+from+TikTok+in+2026%3F&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+does+YouTube+Shorts+algorithm+differ+from+TikTok+in+2026%3F&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+does+YouTube+Shorts+algorithm+differ+from+TikTok+in+2026%3F&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

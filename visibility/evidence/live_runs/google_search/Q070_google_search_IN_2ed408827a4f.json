@@ -1,0 +1,452 @@
+{
+  "measurement_id": "2ed408827a4f",
+  "question_id": "Q070",
+  "timestamp_utc": "2026-11-22T13:49:28.604788+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "How to create realistic AI voice clones for YouTube shorts narration",
+  "market": "IN",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://elevenlabs.io/voice-cloning",
+    "https://www.youtube.com/watch?v=AiRksVoiUAI",
+    "https://www.google.com/goto?url=CAESbwHEIkXXx_sTGtt9j_tA47d0JSn74lm6XVanvyzoORz6TjUTwel7SRtZ3rvZQgnpurQ71zHtzF0Q8_tS7MsPOn7KAiH654wmu_oSVGXKLubcVY-aGx3flsshhHXib0aPmoVTUMmWUPsOmDSj9-oV_A",
+    "https://www.google.com/goto?url=CAESdwHEIkXXAm6J0EcnaJ4tuxSl8noRPUdVQP9uK57ZOR5Rl0F0W-e1kLt0TaERz3b2LtomNreG7CCp9eMq7sONM6jLsinZah25HApgIcrqfgGCjYlCFB8LThH37GWVXUTD6hJUFm19re8kW6K7xk4mmBDULPC5OXlK",
+    "https://www.google.com/goto?url=CAESaAHEIkXXPwExKk4gyL5G5RMRe-xVjuy53pq722hZMLjEj1LZqNpw5erl27sud9E0V1maspYSIwvRFKT8OWHT-VhpaezFRBjQb1Z3R9XR4pb5BzqJgJhK414fCr3T70YXTrOlqqcY15wE",
+    "https://www.google.com/goto?url=CAESZwHEIkXXsbbHnzE0BJUL1sPdTKBlFFKTIa7i_29kx5lXO3893iEBGuOC-FYt32OD67_foTnM-MlxLdD-gQ1baJCoUrhYRFEoP-4m9qiGnfHPxQ6OT9KE_IBmuEfDSrEuaxxVaBPC5ZE",
+    "https://www.google.com/goto?url=CAESYAHEIkXXuvRXRaaQC2qS6DOWIKRudAaAVwefQ00P4yx9ZAIvn9Wd1BS0dDhT8YvfknX6aLewiDoWcGSf-2zWZu8vSEak_QJZEEEJgcHGPqsL94WkcY9jRfl0YWYvDM8DwA",
+    "https://www.google.com/goto?url=CAESYAHEIkXXMiJhoQinvEF7NH7ngSDiw3lPSx2yoJus3yNlYkmktuOgPSqVE-u0xKI2lKaLM4yLOF9mrq4vf7-JbiEQbDk0GKxDxb3dgI6hvP5eetZbVDjupi92-sHCzC_EJw",
+    "https://www.google.com/goto?url=CAESagHEIkXXHvDGv-Ka1ZhsZocJDVFJ7fPljmPJVXhLJTuM_zrLlpTJcxetrhdJ5G5zGIEsC8Hm8Tu5LnZgkpxJDqQjM_7Ea5PlxedQu3Z2UEBPYgHJRNiptfE4vZhp6MP-gj59RMO6y8P6PN4"
+  ],
+  "raw_text_summary": "AI Voice Cloning: Clone Your Voice in Minutes First, record or upload a clear audio sample of the voice you want to clone. For instant cloning, 1-5 minutes of audio works well. The AI then processes your ... How to Clone Your Voice with AI Learn how to create your own AI voice clone and generate ultra-realistic voiceovers with ElevenLabs. Try Voice Cloning ... Free AI Voice Cloning Create a natural AI voice from a short voice sample. Record once to narrate scripts for podcasts, training videos and more in over 177 languages. AI voiceover generator | Text to speech for video Generate realistic video voiceovers in minutes just by typing a script into the textbox. Choose from 400 engaging voices and adjust the pitch or emotion to ... Best AI Voice Generator 2026 (Most Realistic) I explain the core system behind voice selection, cloning, and text to speech ... How To Make Realistic AI Voice That Sounds 100% Human ... Free AI Voice Cloning - Clone Your Voice in Minutes VEED's AI voice cloning tool lets you record your voice once and generate natural-sounding voiceovers in 29 languages \u2014 just type your script. AI Voice Cloning: Highly Accurate Voice, Tone & Style ... AI Voice Cloning. Try AI voice cloning online. Instantly clone any voice from a short sample and turn text into custom speech. Upload to Clone Record to Clone AI Voice Cloning: Generate Lifelike Voice Replicas Create realistic voice replicas with advanced AI voice cloning technology. Generate voice clones for any project, from audiobooks to personalized messages. Free AI Voice Generator | Create Realistic AI Voiceover ... Generate realistic AI voices using Quillbot's free AI voice generator. Create engaging and human-like voices for videos, podcasts, and presentations in ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f2e646ce67ab8b1a2f4a",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/TSC14Gzdl08zGRh8O1Mx01iJLhSmfuqvpVJGh3DdtKk/6b02f2e646ce67ab8b1a2f4a.json",
+      "markdown_endpoint": "https://serpapi.com/searches/TSC14Gzdl08zGRh8O1Mx01iJLhSmfuqvpVJGh3DdtKk/6b02f2e646ce67ab8b1a2f4a.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/TSC14Gzdl08zGRh8O1Mx01iJLhSmfuqvpVJGh3DdtKk/6b02f2e646ce67ab8b1a2f4a.json_with_pixel_position",
+      "created_at": "2026-11-22 13:49:26 UTC",
+      "processed_at": "2026-11-22 13:49:26 UTC",
+      "google_url": "https://www.google.com/search?q=How+to+create+realistic+AI+voice+clones+for+YouTube+shorts+narration&oq=How+to+create+realistic+AI+voice+clones+for+YouTube+shorts+narration&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/TSC14Gzdl08zGRh8O1Mx01iJLhSmfuqvpVJGh3DdtKk/6b02f2e646ce67ab8b1a2f4a.html",
+      "total_time_taken": 0.76
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "How to create realistic AI voice clones for YouTube shorts narration",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "in",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "How to create realistic AI voice clones for YouTube shorts narration",
+      "total_results": 769000,
+      "time_taken_displayed": 0.25,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "ai_overview": {
+      "page_token": "Y7RfGXiczVZJcrNGFK7KOtcIG9kSmiVXUX81o9GMBlvKhoIGNYihbUCS5WXOklUOkwPkADlATpAGgQ0yHv5UqpJXJR50v7nf10-__OravvPHj64VRQ_hTa12PB6rCGPkmlWIvZoWnnxY22I3DKD1DbmM7VOWy5g-FeJ9AE0GWgH2zCrW0wXbSJeo04FpUjBkaMq0mbYqc1qPV7moG3gjZWY_zJY0WFGJfUbVtdDcEfdPu7Cm1sjD-anJk49qWDV9VWKrYtcGrjmq-22n2qAbzeq0pnlEBvy3JLBARoQ7AKCP5FjlqxYVi1gF3KW-cOa59TGIfcqAk8877_lfxEZjTY5NIia_KdjuZo5E3iaZ1Er-JC6uENN9GtaZOZfhfoFS1TiDwsJHVFLEpC7D12_ucq-MpOIOu-EBf8yZf5PO8DW6s-oqfhyB2JqNgaIo73rKiJgebgDtgk_6JIto1R8sIqLF1gxEupyu6QFh9ZoNLZi8BGHc_NyyT2OJnwZ4oi0HEHKDaed6Ikn-FBjbRZ1ValAnci7WDNNQLZX-lnzXG_U23W92e1cJ8GD4grwwj7wAh3Tk98bXEV0dVdl6hrlitpfFUmQZlDUTYlFWiiK9GJjnDzIpw4WkU_AsptwCLFKI2cKmMhRGeSECF57Uq4fy5X_V4D7A3AUlHYtTA6t0CRS7TdkAYVHmJ6Zpqdk4j8Rr0ZmU-RSzwI_pzlvMzYGsJOVNS1y4HFlyQ7CkwEp8UwyJesShRFZuAeIkOzFFEGQBCOVNygkl6QAuFwnRE2KpI0ACcPaywMl2ugwSJwidPbEKejGTpJy7Xwr243MRrdJwvkTCVy6WcxQZyC4wk8eaEJ5G4HrWF1tSR-UGq6fn5bINotASHVSOLezp3zfW4P8egNnQc9POfxeAsacvAVCxPgJg2dA7A5Bz3gHg4gzA8qE3y6Quht5bAHLAzgEwHXpPaS3-DQCynwMwf1x5AL4eVQGAwnsAjIdeHoCbnZANvXIApkPvFYD_dOix3z_0EhyaZ1acgPsdencS3gr7B7Q93k102pOeFtvOY6vXOR2eJX8JPp2EWy-68TTDvVJt44ZtDKKTcaWSBXxjGtQjc4uPlQhXYGBqkVkhT9cOIxtWgFw5YBuaFehi3wwrWxxUNni_3OtmJbRwEIUVXwsCLbKxT3lugBlaazc53W-J--cB6tHobgN1Gc5GijLkR-Ieq86-s8CNBd9thEP5sNyj_WLJcdO14PB4Nm_uoIjtuwM2wN3jTJHWkzWYtuSp2BjIsrRerttrOO8FfQVPLN81Jrvpgrf97grejyfP_M-4cTyNsTgD52hCxhvP73VPB7s7gSLphiZTp7wAMqQbWghMlPi_ngbEIxgk7cvOHwkfkd7QMQuU2w1QeER-mBwcFUJNNcMDAzvtJmzTNNS0bXdrbikPRacHpk9ToR8w9d_OVTRULfrd-eGvP_8G4uyNkA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Y7RfGXiczVZJcrNGFK7KOtcIG9kSmiVXUX81o9GMBlvKhoIGNYihbUCS5WXOklUOkwPkADlATpAGgQ0yHv5UqpJXJR50v7nf10-__OravvPHj64VRQ_hTa12PB6rCGPkmlWIvZoWnnxY22I3DKD1DbmM7VOWy5g-FeJ9AE0GWgH2zCrW0wXbSJeo04FpUjBkaMq0mbYqc1qPV7moG3gjZWY_zJY0WFGJfUbVtdDcEfdPu7Cm1sjD-anJk49qWDV9VWKrYtcGrjmq-22n2qAbzeq0pnlEBvy3JLBARoQ7AKCP5FjlqxYVi1gF3KW-cOa59TGIfcqAk8877_lfxEZjTY5NIia_KdjuZo5E3iaZ1Er-JC6uENN9GtaZOZfhfoFS1TiDwsJHVFLEpC7D12_ucq-MpOIOu-EBf8yZf5PO8DW6s-oqfhyB2JqNgaIo73rKiJgebgDtgk_6JIto1R8sIqLF1gxEupyu6QFh9ZoNLZi8BGHc_NyyT2OJnwZ4oi0HEHKDaed6Ikn-FBjbRZ1ValAnci7WDNNQLZX-lnzXG_U23W92e1cJ8GD4grwwj7wAh3Tk98bXEV0dVdl6hrlitpfFUmQZlDUTYlFWiiK9GJjnDzIpw4WkU_AsptwCLFKI2cKmMhRGeSECF57Uq4fy5X_V4D7A3AUlHYtTA6t0CRS7TdkAYVHmJ6Zpqdk4j8Rr0ZmU-RSzwI_pzlvMzYGsJOVNS1y4HFlyQ7CkwEp8UwyJesShRFZuAeIkOzFFEGQBCOVNygkl6QAuFwnRE2KpI0ACcPaywMl2ugwSJwidPbEKejGTpJy7Xwr243MRrdJwvkTCVy6WcxQZyC4wk8eaEJ5G4HrWF1tSR-UGq6fn5bINotASHVSOLezp3zfW4P8egNnQc9POfxeAsacvAVCxPgJg2dA7A5Bz3gHg4gzA8qE3y6Quht5bAHLAzgEwHXpPaS3-DQCynwMwf1x5AL4eVQGAwnsAjIdeHoCbnZANvXIApkPvFYD_dOix3z_0EhyaZ1acgPsdencS3gr7B7Q93k102pOeFtvOY6vXOR2eJX8JPp2EWy-68TTDvVJt44ZtDKKTcaWSBXxjGtQjc4uPlQhXYGBqkVkhT9cOIxtWgFw5YBuaFehi3wwrWxxUNni_3OtmJbRwEIUVXwsCLbKxT3lugBlaazc53W-J--cB6tHobgN1Gc5GijLkR-Ieq86-s8CNBd9thEP5sNyj_WLJcdO14PB4Nm_uoIjtuwM2wN3jTJHWkzWYtuSp2BjIsrRerttrOO8FfQVPLN81Jrvpgrf97grejyfP_M-4cTyNsTgD52hCxhvP73VPB7s7gSLphiZTp7wAMqQbWghMlPi_ngbEIxgk7cvOHwkfkd7QMQuU2w1QeER-mBwcFUJNNcMDAzvtJmzTNNS0bXdrbikPRacHpk9ToR8w9d_OVTRULfrd-eGvP_8G4uyNkA"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "AI Voice Cloning: Clone Your Voice in Minutes",
+        "link": "https://elevenlabs.io/voice-cloning",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHEIkXXpjInx0RyZdjM6RawZMZq4NUfDem0p0unviBpNG5ImoNau1EYt9U8FgfYXLjM5ZZWn_0YxelCFkkq3o0vDVJt7Y3wWIBzNBysjrtGWZGmQCLYmOMkE6AzlPp2nA&ved=2ahUKEwiAj6D325uYAxXeNYYAHYrJFFoQFnoECBUQAQ&uoh=1",
+        "displayed_link": "https://elevenlabs.io \u203a ElevenCreative",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAFVBMVEX___-VlZUGBgZKSkqQkJAAAAA7Ozty6ML-AAAAHElEQVR4AWMYUCBkwKyIxHVNYAsZVFyEIwcSAADWIQrDIppSoAAAAABJRU5ErkJggg.png",
+        "snippet": "First, record or upload a clear audio sample of the voice you want to clone. For instant cloning, 1-5 minutes of audio works well. The AI then processes your ...",
+        "snippet_highlighted_words": [
+          "record or upload a clear audio sample of the voice you want to clone"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.7,
+              "reviews": 297926
+            },
+            "extensions": [
+              "4.7(2,97,926)",
+              "Free",
+              "Multimedia"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "First, record or upload a clear audio sample of the voice you want to clone. For instant cloning, 1-5 minutes of audio works well. The AI then processes your ...",
+            "source_info_link": "https://elevenlabs.io/voice-cloning",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAFVBMVEX___-VlZUGBgZKSkqQkJAAAAA7Ozty6ML-AAAAHElEQVR4AWMYUCBkwKyIxHVNYAsZVFyEIwcSAADWIQrDIppSoAAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhFSWtYWGZOV051WmVyTW5tWFVtM04xZXY5NmJKa1Z0am5FSUtJN2V4UzF5MmJMWmQ1T28xV2lnZWlleEZIbXFUYVA2VDJPVUNJdk14Z0RKQWoxTjAzNXhHYlpLYUtVb1pnMEZ4Nm92WUE2Tlh3bHJEX1dDZ09zdDlRc3VDdjd3EgQaAggAGqEIEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA-wcIABAAGAAgACoUCgNob3cVcyDWPhoIdHV0b3JpYWwqCQoCdG8VAAAAACo2CgZjcmVhdGUVl6UwQBoJZXN0YWJsaXNoGgRtYWtlGgdwcm9kdWNlGgNzZXQaCHR1dG9yaWFsKj8KCXJlYWxpc3RpYxXLeRs_GgFhGgRyZWFsGgdyZWFsaXNtGgtyZWFsaXN0aWNhaRoOaXY7cDtyZWFsaXN0aWMqOAoCYWkVKAybQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaC3JlYWxpc3RpY2FpGgdhaXZvaWNlKioKBXZvaWNlFcwh7kAaBnZvaWNlcxoHYWl2b2ljZRoLdm9pY2VjbG9uZXMqSQoGY2xvbmVzFYJSEkAaBWNsb25lGgZjbG9uZWQaC3ZvaWNlY2xvbmVzGgtpdjtwO2Nsb25lcxoHY2xvbmluZxoIY2hhbm5lbHMqCgoDZm9yFQAAAAAqHQoHeW91dHViZRV2AWk-Gg15b3V0dWJlc2hvcnRzKjwKBnNob3J0cxUAAAAAGgpzaG9ydCBmaWxtGgtzaG9ydCBmaWxtcxoNeW91dHViZXNob3J0cxoFc2hvcnQqowEKCW5hcnJhdGlvbhUxHkE_GgduYXJyYXRlGghuYXJyYXRlZBoIbmFycmF0ZXMaCW5hcnJhdGluZxoKbmFycmF0aW9ucxoJbmFycmF0aXZlGgpuYXJyYXRpdmVzGghuYXJyYXRvchoGc2NyaXB0Ggp2b2ljZSBvdmVyGg5pdjtwO25hcnJhdGlvbhoFYXVkaW8aBnNwZWVjaBoJdm9pY2VvdmVyMpABL2dvdG8_dXJsPUNBRVNZQUhFSWtYWGZOV051WmVyTW5tWFVtM04xZXY5NmJKa1Z0am5FSUtJN2V4UzF5MmJMWmQ1T28xV2lnZWlleEZIbXFUYVA2VDJPVUNJdk14Z0RKQWoxTjAzNXhHYlpLYUtVb1pnMEZ4Nm92WUE2Tlh3bHJEX1dDZ09zdDlRc3VDdjd3Okg8Yj5BSSBWb2ljZSBDbG9uaW5nPC9iPjogPGI-Q2xvbmU8L2I-IFlvdXIgVm9pY2UgaW4gTWludXRlcyAtIEVsZXZlbkxhYnNCrQFGaXJzdCwgPGI-cmVjb3JkIG9yIHVwbG9hZCBhIGNsZWFyIGF1ZGlvIHNhbXBsZSBvZiB0aGUgdm9pY2UgeW91IHdhbnQgdG8gY2xvbmU8L2I-LiBGb3IgaW5zdGFudCBjbG9uaW5nLCAxLTUgbWludXRlcyBvZiBhdWRpbyB3b3JrcyB3ZWxsLiBUaGUgQUkgdGhlbiBwcm9jZXNzZXMgeW91ciZuYnNwOy4uLkoDZm9ySgJ0b1IBYSICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhFSWtYWGZOV051WmVyTW5tWFVtM04xZXY5NmJKa1Z0am5FSUtJN2V4UzF5MmJMWmQ1T28xV2lnZWlleEZIbXFUYVA2VDJPVUNJdk14Z0RKQWoxTjAzNXhHYlpLYUtVb1pnMEZ4Nm92WUE2Tlh3bHJEX1dDZ09zdDlRc3VDdjd3EgQaAggAGqEIEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA-wcIABAAGAAgACoUCgNob3cVcyDWPhoIdHV0b3JpYWwqCQoCdG8VAAAAACo2CgZjcmVhdGUVl6UwQBoJZXN0YWJsaXNoGgRtYWtlGgdwcm9kdWNlGgNzZXQaCHR1dG9yaWFsKj8KCXJlYWxpc3RpYxXLeRs_GgFhGgRyZWFsGgdyZWFsaXNtGgtyZWFsaXN0aWNhaRoOaXY7cDtyZWFsaXN0aWMqOAoCYWkVKAybQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaC3JlYWxpc3RpY2FpGgdhaXZvaWNlKioKBXZvaWNlFcwh7kAaBnZvaWNlcxoHYWl2b2ljZRoLdm9pY2VjbG9uZXMqSQoGY2xvbmVzFYJSEkAaBWNsb25lGgZjbG9uZWQaC3ZvaWNlY2xvbmVzGgtpdjtwO2Nsb25lcxoHY2xvbmluZxoIY2hhbm5lbHMqCgoDZm9yFQAAAAAqHQoHeW91dHViZRV2AWk-Gg15b3V0dWJlc2hvcnRzKjwKBnNob3J0cxUAAAAAGgpzaG9ydCBmaWxtGgtzaG9ydCBmaWxtcxoNeW91dHViZXNob3J0cxoFc2hvcnQqowEKCW5hcnJhdGlvbhUxHkE_GgduYXJyYXRlGghuYXJyYXRlZBoIbmFycmF0ZXMaCW5hcnJhdGluZxoKbmFycmF0aW9ucxoJbmFycmF0aXZlGgpuYXJyYXRpdmVzGghuYXJyYXRvchoGc2NyaXB0Ggp2b2ljZSBvdmVyGg5pdjtwO25hcnJhdGlvbhoFYXVkaW8aBnNwZWVjaBoJdm9pY2VvdmVyMpABL2dvdG8_dXJsPUNBRVNZQUhFSWtYWGZOV051WmVyTW5tWFVtM04xZXY5NmJKa1Z0am5FSUtJN2V4UzF5MmJMWmQ1T28xV2lnZWlleEZIbXFUYVA2VDJPVUNJdk14Z0RKQWoxTjAzNXhHYlpLYUtVb1pnMEZ4Nm92WUE2Tlh3bHJEX1dDZ09zdDlRc3VDdjd3Okg8Yj5BSSBWb2ljZSBDbG9uaW5nPC9iPjogPGI-Q2xvbmU8L2I-IFlvdXIgVm9pY2UgaW4gTWludXRlcyAtIEVsZXZlbkxhYnNCrQFGaXJzdCwgPGI-cmVjb3JkIG9yIHVwbG9hZCBhIGNsZWFyIGF1ZGlvIHNhbXBsZSBvZiB0aGUgdm9pY2UgeW91IHdhbnQgdG8gY2xvbmU8L2I-LiBGb3IgaW5zdGFudCBjbG9uaW5nLCAxLTUgbWludXRlcyBvZiBhdWRpbyB3b3JrcyB3ZWxsLiBUaGUgQUkgdGhlbiBwcm9jZXNzZXMgeW91ciZuYnNwOy4uLkoDZm9ySgJ0b1IBYSICEAFIAFgAaAA",
+        "source": "ElevenLabs",
+        "read_more_link": "https://www.google.com/goto?url=CAESjwEBxCJF10Al4CjSnOYjWE9EZ-bNhRTGUNTjSLRRU8z_uZ0bAZ6bMVi-PmKHrbs0636KoFIEZPcMfxImVxuzzxkqGLU4WTrnYl_MrqbNOt9zyW2KsZ76DbVl6q6ibr9Sy4nAZ_cINsOyLWCC1P8t_-ZGzUKed20jKpXQkS0v4J0cRndf9iQOisFD6LrGc42bNg&gsessionid=4lESXFJgvBpfzMizaIDia8csPYEIs7cBOunquILgPj08WWokj7cXtg"
+      },
+      {
+        "position": 2,
+        "title": "How to Clone Your Voice with AI",
+        "link": "https://www.youtube.com/watch?v=AiRksVoiUAI",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaAHEIkXXSSkS-bWNHJWAnlsUuyolq5yYcUOpn_635XPqMwsmZ2qglCqzgmnDtaHSuRWqbpc5EIy14X4VUzfg0UwhvUJFSXIvXhygvKIcJALHm0rnO9pJo8GPrvimUFnfl3ft9FzKnYMN&ved=2ahUKEwiAj6D325uYAxXeNYYAHYrJFFoQFnoECCAQAQ&uoh=1",
+        "displayed_link": "2.4L+ views",
+        "date": "1 year ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "Learn how to create your own AI voice clone and generate ultra-realistic voiceovers with ElevenLabs. Try Voice Cloning ...",
+        "snippet_highlighted_words": [
+          "Learn how to create your own AI voice clone"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Learn how to create your own AI voice clone and generate ultra-realistic voiceovers with ElevenLabs. Try Voice Cloning ...",
+            "source_info_link": "https://www.youtube.com/watch?v=AiRksVoiUAI",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWFR5X29ndHlDUEJObENGajVJdnBKMkRxS3ZWNjNzMURnS3FmY21Bdkdjd3BldC1VdVhxOE9jbFA0VG5YcjM4ZUNXQnJIRWx1X283Y0wtbFJJZ2pRdDdQeDV6ZFhLZy1fcldrQUdNczVLWTJHTTRHclpiMFVhS0ZsQ0p4SUZ2ZGMyMEVyVhIEGgIIABr6BxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQNQHCAAQABgAIAAqFAoDaG93FU3sjUAaCHR1dG9yaWFsKgkKAnRvFQAAAAAqNgoGY3JlYXRlFayTQ0AaCWVzdGFibGlzaBoEbWFrZRoHcHJvZHVjZRoDc2V0Ggh0dXRvcmlhbCo_CglyZWFsaXN0aWMVXgaKQBoBYRoEcmVhbBoHcmVhbGlzbRoLcmVhbGlzdGljYWkaDml2O3A7cmVhbGlzdGljKjgKAmFpFXLYxkAaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgtyZWFsaXN0aWNhaRoHYWl2b2ljZSoqCgV2b2ljZRVp8wdBGgZ2b2ljZXMaB2Fpdm9pY2UaC3ZvaWNlY2xvbmVzKkkKBmNsb25lcxUvvoZAGgVjbG9uZRoGY2xvbmVkGgt2b2ljZWNsb25lcxoLaXY7cDtjbG9uZXMaB2Nsb25pbmcaCGNoYW5uZWxzKgoKA2ZvchUAAAAAKh0KB3lvdXR1YmUVDoGYPxoNeW91dHViZXNob3J0cyo8CgZzaG9ydHMVAAAAABoKc2hvcnQgZmlsbRoLc2hvcnQgZmlsbXMaDXlvdXR1YmVzaG9ydHMaBXNob3J0KqMBCgluYXJyYXRpb24VkkqXPRoHbmFycmF0ZRoIbmFycmF0ZWQaCG5hcnJhdGVzGgluYXJyYXRpbmcaCm5hcnJhdGlvbnMaCW5hcnJhdGl2ZRoKbmFycmF0aXZlcxoIbmFycmF0b3IaBnNjcmlwdBoKdm9pY2Ugb3ZlchoOaXY7cDtuYXJyYXRpb24aBWF1ZGlvGgZzcGVlY2gaCXZvaWNlb3ZlcjKaAS9nb3RvP3VybD1DQUVTYUFIRUlrWFhUeV9vZ3R5Q1BCTmxDRmo1SXZwSjJEcUt2VjYzczFEZ0txZmNtQXZHY3dwZXQtVXVYcThPY2xQNFRuWHIzOGVDV0JySEVsdV9vN2NMLWxSSWdqUXQ3UHg1emRYS2ctX3JXa0FHTXM1S1kyR000R3JaYjBVYUtGbENKeElGdmRjMjBFclY6PkhvdyB0byA8Yj5DbG9uZTwvYj4gWW91ciA8Yj5Wb2ljZTwvYj4gd2l0aCA8Yj5BSTwvYj4gLSBZb3VUdWJlQoYBPGI-TGVhcm4gaG93IHRvIGNyZWF0ZSB5b3VyIG93biBBSSB2b2ljZSBjbG9uZTwvYj4gYW5kIGdlbmVyYXRlIHVsdHJhLXJlYWxpc3RpYyB2b2ljZW92ZXJzIHdpdGggRWxldmVuTGFicy4gVHJ5IFZvaWNlIENsb25pbmcmbmJzcDsuLi5KAnRvSgNmb3JSAWEiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWFR5X29ndHlDUEJObENGajVJdnBKMkRxS3ZWNjNzMURnS3FmY21Bdkdjd3BldC1VdVhxOE9jbFA0VG5YcjM4ZUNXQnJIRWx1X283Y0wtbFJJZ2pRdDdQeDV6ZFhLZy1fcldrQUdNczVLWTJHTTRHclpiMFVhS0ZsQ0p4SUZ2ZGMyMEVyVhIEGgIIABr6BxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQNQHCAAQABgAIAAqFAoDaG93FU3sjUAaCHR1dG9yaWFsKgkKAnRvFQAAAAAqNgoGY3JlYXRlFayTQ0AaCWVzdGFibGlzaBoEbWFrZRoHcHJvZHVjZRoDc2V0Ggh0dXRvcmlhbCo_CglyZWFsaXN0aWMVXgaKQBoBYRoEcmVhbBoHcmVhbGlzbRoLcmVhbGlzdGljYWkaDml2O3A7cmVhbGlzdGljKjgKAmFpFXLYxkAaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgtyZWFsaXN0aWNhaRoHYWl2b2ljZSoqCgV2b2ljZRVp8wdBGgZ2b2ljZXMaB2Fpdm9pY2UaC3ZvaWNlY2xvbmVzKkkKBmNsb25lcxUvvoZAGgVjbG9uZRoGY2xvbmVkGgt2b2ljZWNsb25lcxoLaXY7cDtjbG9uZXMaB2Nsb25pbmcaCGNoYW5uZWxzKgoKA2ZvchUAAAAAKh0KB3lvdXR1YmUVDoGYPxoNeW91dHViZXNob3J0cyo8CgZzaG9ydHMVAAAAABoKc2hvcnQgZmlsbRoLc2hvcnQgZmlsbXMaDXlvdXR1YmVzaG9ydHMaBXNob3J0KqMBCgluYXJyYXRpb24VkkqXPRoHbmFycmF0ZRoIbmFycmF0ZWQaCG5hcnJhdGVzGgluYXJyYXRpbmcaCm5hcnJhdGlvbnMaCW5hcnJhdGl2ZRoKbmFycmF0aXZlcxoIbmFycmF0b3IaBnNjcmlwdBoKdm9pY2Ugb3ZlchoOaXY7cDtuYXJyYXRpb24aBWF1ZGlvGgZzcGVlY2gaCXZvaWNlb3ZlcjKaAS9nb3RvP3VybD1DQUVTYUFIRUlrWFhUeV9vZ3R5Q1BCTmxDRmo1SXZwSjJEcUt2VjYzczFEZ0txZmNtQXZHY3dwZXQtVXVYcThPY2xQNFRuWHIzOGVDV0JySEVsdV9vN2NMLWxSSWdqUXQ3UHg1emRYS2ctX3JXa0FHTXM1S1kyR000R3JaYjBVYUtGbENKeElGdmRjMjBFclY6PkhvdyB0byA8Yj5DbG9uZTwvYj4gWW91ciA8Yj5Wb2ljZTwvYj4gd2l0aCA8Yj5BSTwvYj4gLSBZb3VUdWJlQoYBPGI-TGVhcm4gaG93IHRvIGNyZWF0ZSB5b3VyIG93biBBSSB2b2ljZSBjbG9uZTwvYj4gYW5kIGdlbmVyYXRlIHVsdHJhLXJlYWxpc3RpYyB2b2ljZW92ZXJzIHdpdGggRWxldmVuTGFicy4gVHJ5IFZvaWNlIENsb25pbmcmbmJzcDsuLi5KAnRvSgNmb3JSAWEiAhABSABYAGgA",
+        "source": "YouTube \u00b7 ElevenLabs"
+      },
+      {
+        "position": 3,
+        "title": "Free AI Voice Cloning",
+        "link": "https://www.google.com/goto?url=CAESbwHEIkXXx_sTGtt9j_tA47d0JSn74lm6XVanvyzoORz6TjUTwel7SRtZ3rvZQgnpurQ71zHtzF0Q8_tS7MsPOn7KAiH654wmu_oSVGXKLubcVY-aGx3flsshhHXib0aPmoVTUMmWUPsOmDSj9-oV_A",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHEIkXXMmKrIXr1tJ8RBhfVEe2T9Lg5VLcvHaX6Xn3XLRyX4qhbaoxMzm-RRmRXH9FOsCc-JicTd0ii4V5T-XBkrfPk6ToDOSviffM5UDGnRm0KxHB0yQe5nZCVlElxVN_mzro2ZUhIAe5BGW7xmg&ved=2ahUKEwiAj6D325uYAxXeNYYAHYrJFFoQFnoECBYQAQ&uoh=1",
+        "displayed_link": "https://www.heygen.com \u203a Home \u203a AI Tools",
+        "favicon": "https://serpapi.com/searches/6b02f2e646ce67ab8b1a2f4a/images/LJ88ibHSfZLCdknqnpY1wnCtU2txC6qqkBwSR1sXyho.png",
+        "snippet": "Create a natural AI voice from a short voice sample. Record once to narrate scripts for podcasts, training videos and more in over 177 languages.",
+        "snippet_highlighted_words": [
+          "Create a natural AI voice from a short voice sample"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Create a natural AI voice from a short voice sample. Record once to narrate scripts for podcasts, training videos and more in over 177 languages.",
+            "source_info_link": "https://www.google.com/goto?url=CAESbwHEIkXXx_sTGtt9j_tA47d0JSn74lm6XVanvyzoORz6TjUTwel7SRtZ3rvZQgnpurQ71zHtzF0Q8_tS7MsPOn7KAiH654wmu_oSVGXKLubcVY-aGx3flsshhHXib0aPmoVTUMmWUPsOmDSj9-oV_A",
+            "icon": "https://serpapi.com/searches/6b02f2e646ce67ab8b1a2f4a/images/LJ88ibHSfZLCdknqnpY1whAUSx62bUw4pLFcSwji67xT-9ngsFkkh75ft1k_tFJh.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqQBL2dvdG8_dXJsPUNBRVNid0hFSWtYWHhfc1RHdHQ5al90QTQ3ZDBKU243NGxtNlhWYW52eXpvT1J6NlRqVVR3ZWw3U1J0WjNydlpRZ25wdXJRNzF6SHR6RjBROF90UzdNc1BPbjdLQWlINjU0d211X29TVkdYS0x1YmNWWS1hR3gzZmxzc2hoSFhpYjBhUG1vVlRVTW1XVVBzT21EU2o5LW9WX0ESBBoCCAAa-wcSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA1wcIABAAGAAgACoUCgNob3cVhclTPxoIdHV0b3JpYWwqCQoCdG8VAAAAACo2CgZjcmVhdGUVcmiYQBoJZXN0YWJsaXNoGgRtYWtlGgdwcm9kdWNlGgNzZXQaCHR1dG9yaWFsKj8KCXJlYWxpc3RpYxWbXA9AGgFhGgRyZWFsGgdyZWFsaXNtGgtyZWFsaXN0aWNhaRoOaXY7cDtyZWFsaXN0aWMqOAoCYWkVyNP9QBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaC3JlYWxpc3RpY2FpGgdhaXZvaWNlKioKBXZvaWNlFVmZFEEaBnZvaWNlcxoHYWl2b2ljZRoLdm9pY2VjbG9uZXMqSQoGY2xvbmVzFQAAAAAaBWNsb25lGgZjbG9uZWQaC3ZvaWNlY2xvbmVzGgtpdjtwO2Nsb25lcxoHY2xvbmluZxoIY2hhbm5lbHMqCgoDZm9yFQAAAAAqHQoHeW91dHViZRXxcZI_Gg15b3V0dWJlc2hvcnRzKjwKBnNob3J0cxWEvj8-GgpzaG9ydCBmaWxtGgtzaG9ydCBmaWxtcxoNeW91dHViZXNob3J0cxoFc2hvcnQqowEKCW5hcnJhdGlvbhX_53A_GgduYXJyYXRlGghuYXJyYXRlZBoIbmFycmF0ZXMaCW5hcnJhdGluZxoKbmFycmF0aW9ucxoJbmFycmF0aXZlGgpuYXJyYXRpdmVzGghuYXJyYXRvchoGc2NyaXB0Ggp2b2ljZSBvdmVyGg5pdjtwO25hcnJhdGlvbhoFYXVkaW8aBnNwZWVjaBoJdm9pY2VvdmVyMqQBL2dvdG8_dXJsPUNBRVNid0hFSWtYWHhfc1RHdHQ5al90QTQ3ZDBKU243NGxtNlhWYW52eXpvT1J6NlRqVVR3ZWw3U1J0WjNydlpRZ25wdXJRNzF6SHR6RjBROF90UzdNc1BPbjdLQWlINjU0d211X29TVkdYS0x1YmNWWS1hR3gzZmxzc2hoSFhpYjBhUG1vVlRVTW1XVVBzT21EU2o5LW9WX0E6JUZyZWUgPGI-QUkgVm9pY2UgQ2xvbmluZzwvYj4gLSBIZXlHZW5CmAE8Yj5DcmVhdGUgYSBuYXR1cmFsIEFJIHZvaWNlIGZyb20gYSBzaG9ydCB2b2ljZSBzYW1wbGU8L2I-LiBSZWNvcmQgb25jZSB0byBuYXJyYXRlIHNjcmlwdHMgZm9yIHBvZGNhc3RzLCB0cmFpbmluZyB2aWRlb3MgYW5kIG1vcmUgaW4gb3ZlciAxNzcgbGFuZ3VhZ2VzLkoDZm9ySgJ0b1IBYSICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqQBL2dvdG8_dXJsPUNBRVNid0hFSWtYWHhfc1RHdHQ5al90QTQ3ZDBKU243NGxtNlhWYW52eXpvT1J6NlRqVVR3ZWw3U1J0WjNydlpRZ25wdXJRNzF6SHR6RjBROF90UzdNc1BPbjdLQWlINjU0d211X29TVkdYS0x1YmNWWS1hR3gzZmxzc2hoSFhpYjBhUG1vVlRVTW1XVVBzT21EU2o5LW9WX0ESBBoCCAAa-wcSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA1wcIABAAGAAgACoUCgNob3cVhclTPxoIdHV0b3JpYWwqCQoCdG8VAAAAACo2CgZjcmVhdGUVcmiYQBoJZXN0YWJsaXNoGgRtYWtlGgdwcm9kdWNlGgNzZXQaCHR1dG9yaWFsKj8KCXJlYWxpc3RpYxWbXA9AGgFhGgRyZWFsGgdyZWFsaXNtGgtyZWFsaXN0aWNhaRoOaXY7cDtyZWFsaXN0aWMqOAoCYWkVyNP9QBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaC3JlYWxpc3RpY2FpGgdhaXZvaWNlKioKBXZvaWNlFVmZFEEaBnZvaWNlcxoHYWl2b2ljZRoLdm9pY2VjbG9uZXMqSQoGY2xvbmVzFQAAAAAaBWNsb25lGgZjbG9uZWQaC3ZvaWNlY2xvbmVzGgtpdjtwO2Nsb25lcxoHY2xvbmluZxoIY2hhbm5lbHMqCgoDZm9yFQAAAAAqHQoHeW91dHViZRXxcZI_Gg15b3V0dWJlc2hvcnRzKjwKBnNob3J0cxWEvj8-GgpzaG9ydCBmaWxtGgtzaG9ydCBmaWxtcxoNeW91dHViZXNob3J0cxoFc2hvcnQqowEKCW5hcnJhdGlvbhX_53A_GgduYXJyYXRlGghuYXJyYXRlZBoIbmFycmF0ZXMaCW5hcnJhdGluZxoKbmFycmF0aW9ucxoJbmFycmF0aXZlGgpuYXJyYXRpdmVzGghuYXJyYXRvchoGc2NyaXB0Ggp2b2ljZSBvdmVyGg5pdjtwO25hcnJhdGlvbhoFYXVkaW8aBnNwZWVjaBoJdm9pY2VvdmVyMqQBL2dvdG8_dXJsPUNBRVNid0hFSWtYWHhfc1RHdHQ5al90QTQ3ZDBKU243NGxtNlhWYW52eXpvT1J6NlRqVVR3ZWw3U1J0WjNydlpRZ25wdXJRNzF6SHR6RjBROF90UzdNc1BPbjdLQWlINjU0d211X29TVkdYS0x1YmNWWS1hR3gzZmxzc2hoSFhpYjBhUG1vVlRVTW1XVVBzT21EU2o5LW9WX0E6JUZyZWUgPGI-QUkgVm9pY2UgQ2xvbmluZzwvYj4gLSBIZXlHZW5CmAE8Yj5DcmVhdGUgYSBuYXR1cmFsIEFJIHZvaWNlIGZyb20gYSBzaG9ydCB2b2ljZSBzYW1wbGU8L2I-LiBSZWNvcmQgb25jZSB0byBuYXJyYXRlIHNjcmlwdHMgZm9yIHBvZGNhc3RzLCB0cmFpbmluZyB2aWRlb3MgYW5kIG1vcmUgaW4gb3ZlciAxNzcgbGFuZ3VhZ2VzLkoDZm9ySgJ0b1IBYSICEAFIAFgAaAA",
+        "source": "HeyGen"
+      },
+      {
+        "position": 4,
+        "title": "AI voiceover generator | Text to speech for video",
+        "link": "https://www.google.com/goto?url=CAESdwHEIkXXAm6J0EcnaJ4tuxSl8noRPUdVQP9uK57ZOR5Rl0F0W-e1kLt0TaERz3b2LtomNreG7CCp9eMq7sONM6jLsinZah25HApgIcrqfgGCjYlCFB8LThH37GWVXUTD6hJUFm19re8kW6K7xk4mmBDULPC5OXlK",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHEIkXXvnZQPSWNfIcvqNJnhcXvamXcA16M1Wky0Tycxunq8md8eZxMnTiO0ggp-wYYsCRlnNQxaBZGSB0UEJuccIuYLuaKU8rtg5QgN8NNVb0v8W5ToX-c0Ofd04VLMHoG045h9qVAsyig8jnpF0Kragn5dc83&ved=2ahUKEwiAj6D325uYAxXeNYYAHYrJFFoQFnoECBoQAQ&uoh=1",
+        "displayed_link": "https://clipchamp.com \u203a features \u203a ai-voice-over-generator",
+        "favicon": "https://serpapi.com/searches/6b02f2e646ce67ab8b1a2f4a/images/LJ88ibHSfZLCdknqnpY1wup_8wGXUIb7i_Zaf-RBtXc.png",
+        "snippet": "Generate realistic video voiceovers in minutes just by typing a script into the textbox. Choose from 400 engaging voices and adjust the pitch or emotion to ...",
+        "snippet_highlighted_words": [
+          "Generate realistic video voiceovers in minutes"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Generate realistic video voiceovers in minutes just by typing a script into the textbox. Choose from 400 engaging voices and adjust the pitch or emotion to ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESdwHEIkXXAm6J0EcnaJ4tuxSl8noRPUdVQP9uK57ZOR5Rl0F0W-e1kLt0TaERz3b2LtomNreG7CCp9eMq7sONM6jLsinZah25HApgIcrqfgGCjYlCFB8LThH37GWVXUTD6hJUFm19re8kW6K7xk4mmBDULPC5OXlK",
+            "icon": "https://serpapi.com/searches/6b02f2e646ce67ab8b1a2f4a/images/LJ88ibHSfZLCdknqnpY1woqxpTSrRRm6STj6QVHvZSUl6TzRle-CtRG4pYPIGGkf.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq4BL2dvdG8_dXJsPUNBRVNkd0hFSWtYWEFtNkowRWNuYUo0dHV4U2w4bm9SUFVkVlFQOXVLNTdaT1I1UmwwRjBXLWUxa0x0MFRhRVJ6M2IyTHRvbU5yZUc3Q0NwOWVNcTdzT05NNmpMc2luWmFoMjVIQXBnSWNycWZnR0NqWWxDRkI4TFRoSDM3R1dWWFVURDZoSlVGbTE5cmU4a1c2Szd4azRtbUJEVUxQQzVPWGxLEgQaAggAGrkIEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAkwgIABAAGAAgACoUCgNob3cV7w-qPxoIdHV0b3JpYWwqCQoCdG8VAAAAACo2CgZjcmVhdGUVO5gYQBoJZXN0YWJsaXNoGgRtYWtlGgdwcm9kdWNlGgNzZXQaCHR1dG9yaWFsKj8KCXJlYWxpc3RpYxUyJso_GgFhGgRyZWFsGgdyZWFsaXNtGgtyZWFsaXN0aWNhaRoOaXY7cDtyZWFsaXN0aWMqOAoCYWkV1IO4QBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaC3JlYWxpc3RpY2FpGgdhaXZvaWNlKioKBXZvaWNlFZBhOkAaBnZvaWNlcxoHYWl2b2ljZRoLdm9pY2VjbG9uZXMqSQoGY2xvbmVzFQAAAAAaBWNsb25lGgZjbG9uZWQaC3ZvaWNlY2xvbmVzGgtpdjtwO2Nsb25lcxoHY2xvbmluZxoIY2hhbm5lbHMqCgoDZm9yFQAAAAAqHQoHeW91dHViZRUV6Z0_Gg15b3V0dWJlc2hvcnRzKjwKBnNob3J0cxVVw_E-GgpzaG9ydCBmaWxtGgtzaG9ydCBmaWxtcxoNeW91dHViZXNob3J0cxoFc2hvcnQqowEKCW5hcnJhdGlvbhW1m4o_GgduYXJyYXRlGghuYXJyYXRlZBoIbmFycmF0ZXMaCW5hcnJhdGluZxoKbmFycmF0aW9ucxoJbmFycmF0aXZlGgpuYXJyYXRpdmVzGghuYXJyYXRvchoGc2NyaXB0Ggp2b2ljZSBvdmVyGg5pdjtwO25hcnJhdGlvbhoFYXVkaW8aBnNwZWVjaBoJdm9pY2VvdmVyMq4BL2dvdG8_dXJsPUNBRVNkd0hFSWtYWEFtNkowRWNuYUo0dHV4U2w4bm9SUFVkVlFQOXVLNTdaT1I1UmwwRjBXLWUxa0x0MFRhRVJ6M2IyTHRvbU5yZUc3Q0NwOWVNcTdzT05NNmpMc2luWmFoMjVIQXBnSWNycWZnR0NqWWxDRkI4TFRoSDM3R1dWWFVURDZoSlVGbTE5cmU4a1c2Szd4azRtbUJEVUxQQzVPWGxLOkQ8Yj5BSTwvYj4gdm9pY2VvdmVyIGdlbmVyYXRvciB8IFRleHQgdG8gc3BlZWNoIGZvciB2aWRlbyAtIENsaXBjaGFtcEKrATxiPkdlbmVyYXRlIHJlYWxpc3RpYyB2aWRlbyB2b2ljZW92ZXJzIGluIG1pbnV0ZXM8L2I-IGp1c3QgYnkgdHlwaW5nIGEgc2NyaXB0IGludG8gdGhlIHRleHRib3guIENob29zZSBmcm9tIDQwMCBlbmdhZ2luZyB2b2ljZXMgYW5kIGFkanVzdCB0aGUgcGl0Y2ggb3IgZW1vdGlvbiB0byZuYnNwOy4uLkoDZm9ySgJ0b1IBYSICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq4BL2dvdG8_dXJsPUNBRVNkd0hFSWtYWEFtNkowRWNuYUo0dHV4U2w4bm9SUFVkVlFQOXVLNTdaT1I1UmwwRjBXLWUxa0x0MFRhRVJ6M2IyTHRvbU5yZUc3Q0NwOWVNcTdzT05NNmpMc2luWmFoMjVIQXBnSWNycWZnR0NqWWxDRkI4TFRoSDM3R1dWWFVURDZoSlVGbTE5cmU4a1c2Szd4azRtbUJEVUxQQzVPWGxLEgQaAggAGrkIEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAkwgIABAAGAAgACoUCgNob3cV7w-qPxoIdHV0b3JpYWwqCQoCdG8VAAAAACo2CgZjcmVhdGUVO5gYQBoJZXN0YWJsaXNoGgRtYWtlGgdwcm9kdWNlGgNzZXQaCHR1dG9yaWFsKj8KCXJlYWxpc3RpYxUyJso_GgFhGgRyZWFsGgdyZWFsaXNtGgtyZWFsaXN0aWNhaRoOaXY7cDtyZWFsaXN0aWMqOAoCYWkV1IO4QBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaC3JlYWxpc3RpY2FpGgdhaXZvaWNlKioKBXZvaWNlFZBhOkAaBnZvaWNlcxoHYWl2b2ljZRoLdm9pY2VjbG9uZXMqSQoGY2xvbmVzFQAAAAAaBWNsb25lGgZjbG9uZWQaC3ZvaWNlY2xvbmVzGgtpdjtwO2Nsb25lcxoHY2xvbmluZxoIY2hhbm5lbHMqCgoDZm9yFQAAAAAqHQoHeW91dHViZRUV6Z0_Gg15b3V0dWJlc2hvcnRzKjwKBnNob3J0cxVVw_E-GgpzaG9ydCBmaWxtGgtzaG9ydCBmaWxtcxoNeW91dHViZXNob3J0cxoFc2hvcnQqowEKCW5hcnJhdGlvbhW1m4o_GgduYXJyYXRlGghuYXJyYXRlZBoIbmFycmF0ZXMaCW5hcnJhdGluZxoKbmFycmF0aW9ucxoJbmFycmF0aXZlGgpuYXJyYXRpdmVzGghuYXJyYXRvchoGc2NyaXB0Ggp2b2ljZSBvdmVyGg5pdjtwO25hcnJhdGlvbhoFYXVkaW8aBnNwZWVjaBoJdm9pY2VvdmVyMq4BL2dvdG8_dXJsPUNBRVNkd0hFSWtYWEFtNkowRWNuYUo0dHV4U2w4bm9SUFVkVlFQOXVLNTdaT1I1UmwwRjBXLWUxa0x0MFRhRVJ6M2IyTHRvbU5yZUc3Q0NwOWVNcTdzT05NNmpMc2luWmFoMjVIQXBnSWNycWZnR0NqWWxDRkI4TFRoSDM3R1dWWFVURDZoSlVGbTE5cmU4a1c2Szd4azRtbUJEVUxQQzVPWGxLOkQ8Yj5BSTwvYj4gdm9pY2VvdmVyIGdlbmVyYXRvciB8IFRleHQgdG8gc3BlZWNoIGZvciB2aWRlbyAtIENsaXBjaGFtcEKrATxiPkdlbmVyYXRlIHJlYWxpc3RpYyB2aWRlbyB2b2ljZW92ZXJzIGluIG1pbnV0ZXM8L2I-IGp1c3QgYnkgdHlwaW5nIGEgc2NyaXB0IGludG8gdGhlIHRleHRib3guIENob29zZSBmcm9tIDQwMCBlbmdhZ2luZyB2b2ljZXMgYW5kIGFkanVzdCB0aGUgcGl0Y2ggb3IgZW1vdGlvbiB0byZuYnNwOy4uLkoDZm9ySgJ0b1IBYSICEAFIAFgAaAA",
+        "source": "Clipchamp",
+        "read_more_link": "https://www.google.com/goto?url=CAES0QEBxCJF17NkZhOZFBwDp1yLc4M5m0DzZKMPnTmX00L6FJS8bZKMplp-RvRRU83_8EcpJCzcfL2u_RrNP508U8ylorqOSLCoNxEhGfH8PavAIhcX7NYKNWp2FkK0_axKKYzJiNG0vQw__raHV7Hnbt3oCrz3YmhJcGWVs5JDlZfgvF-y6HAw7yIAEfYQvYfOrur3WCC1OnDIeNDXIgrkCxwH9iC79y13DVGPwxVtgTJyoT4LkQ3HqV0H_L_2Y85oSlU6Ghyz67bjYC1Oett0ziIGVw&gsessionid=4lESXFJgvBpfzMizaIDia8csPYEIs7cBOunquILgPj08WWokj7cXtg"
+      },
+      {
+        "position": 5,
+        "title": "Best AI Voice Generator 2026 (Most Realistic)",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXPwExKk4gyL5G5RMRe-xVjuy53pq722hZMLjEj1LZqNpw5erl27sud9E0V1maspYSIwvRFKT8OWHT-VhpaezFRBjQb1Z3R9XR4pb5BzqJgJhK414fCr3T70YXTrOlqqcY15wE",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaAHEIkXXhQRf0mdkU3q3x7nM5lSBfbsaTML6XRUa-qWfnW1XHgFO-vbi8YxXOtbONdkjpEV0zLM9vLCK_Nmiig28j0D2ElJy2XFAHoX7bQ3I6iYRQ-OFYQpKYF8Xx5jIuPW5SUGYWYwe&ved=2ahUKEwiAj6D325uYAxXeNYYAHYrJFFoQFnoECBwQAQ&uoh=1",
+        "displayed_link": "1.3L+ views",
+        "date": "8 months ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "I explain the core system behind voice selection, cloning, and text to speech ... How To Make Realistic AI Voice That Sounds 100% Human ...",
+        "snippet_highlighted_words": [
+          "How To Make Realistic AI Voice"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "I explain the core system behind voice selection, cloning, and text to speech ... How To Make Realistic AI Voice That Sounds 100% Human ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESaAHEIkXXPwExKk4gyL5G5RMRe-xVjuy53pq722hZMLjEj1LZqNpw5erl27sud9E0V1maspYSIwvRFKT8OWHT-VhpaezFRBjQb1Z3R9XR4pb5BzqJgJhK414fCr3T70YXTrOlqqcY15wE",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWFB3RXhLazRneUw1RzVSTVJlLXhWanV5NTNwcTcyMmhaTUxqRWoxTFpxTnB3NWVybDI3c3VkOUUwVjFtYXNwWVNJd3ZSRktUOE9XSFQtVmhwYWV6RlJCalFiMVozUjlYUjRwYjVCenFKZ0poSzQxNGZDcjNUNzBZWFRyT2xxcWNZMTV3RRIEGgIIABqZCBICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQPMHCAAQABgAIAAqFAoDaG93FSFz2T8aCHR1dG9yaWFsKgkKAnRvFQAAAAAqNgoGY3JlYXRlFR8WBD8aCWVzdGFibGlzaBoEbWFrZRoHcHJvZHVjZRoDc2V0Ggh0dXRvcmlhbCo_CglyZWFsaXN0aWMVBSFuQBoBYRoEcmVhbBoHcmVhbGlzbRoLcmVhbGlzdGljYWkaDml2O3A7cmVhbGlzdGljKjgKAmFpFfSGpEAaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgtyZWFsaXN0aWNhaRoHYWl2b2ljZSoqCgV2b2ljZRVDRsZAGgZ2b2ljZXMaB2Fpdm9pY2UaC3ZvaWNlY2xvbmVzKkkKBmNsb25lcxUAAAAAGgVjbG9uZRoGY2xvbmVkGgt2b2ljZWNsb25lcxoLaXY7cDtjbG9uZXMaB2Nsb25pbmcaCGNoYW5uZWxzKgoKA2ZvchUAAAAAKh0KB3lvdXR1YmUVAAACQBoNeW91dHViZXNob3J0cyo8CgZzaG9ydHMVAAAAABoKc2hvcnQgZmlsbRoLc2hvcnQgZmlsbXMaDXlvdXR1YmVzaG9ydHMaBXNob3J0KqMBCgluYXJyYXRpb24VnNCYPRoHbmFycmF0ZRoIbmFycmF0ZWQaCG5hcnJhdGVzGgluYXJyYXRpbmcaCm5hcnJhdGlvbnMaCW5hcnJhdGl2ZRoKbmFycmF0aXZlcxoIbmFycmF0b3IaBnNjcmlwdBoKdm9pY2Ugb3ZlchoOaXY7cDtuYXJyYXRpb24aBWF1ZGlvGgZzcGVlY2gaCXZvaWNlb3ZlcjKaAS9nb3RvP3VybD1DQUVTYUFIRUlrWFhQd0V4S2s0Z3lMNUc1Uk1SZS14Vmp1eTUzcHE3MjJoWk1MakVqMUxacU5wdzVlcmwyN3N1ZDlFMFYxbWFzcFlTSXd2UkZLVDhPV0hULVZocGFlekZSQmpRYjFaM1I5WFI0cGI1QnpxSmdKaEs0MTRmQ3IzVDcwWVhUck9scXFjWTE1d0U6TEJlc3QgPGI-QUkgVm9pY2U8L2I-IEdlbmVyYXRvciAyMDI2IChNb3N0IDxiPlJlYWxpc3RpYzwvYj4pIC0gPGI-WW91VHViZTwvYj5ClwFJIGV4cGxhaW4gdGhlIGNvcmUgc3lzdGVtIGJlaGluZCB2b2ljZSBzZWxlY3Rpb24sIGNsb25pbmcsIGFuZCB0ZXh0IHRvIHNwZWVjaCAuLi4gPGI-SG93IFRvIE1ha2UgUmVhbGlzdGljIEFJIFZvaWNlPC9iPiBUaGF0IFNvdW5kcyAxMDAlIEh1bWFuJm5ic3A7Li4uSgJ0b0oDZm9yUgFhIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWFB3RXhLazRneUw1RzVSTVJlLXhWanV5NTNwcTcyMmhaTUxqRWoxTFpxTnB3NWVybDI3c3VkOUUwVjFtYXNwWVNJd3ZSRktUOE9XSFQtVmhwYWV6RlJCalFiMVozUjlYUjRwYjVCenFKZ0poSzQxNGZDcjNUNzBZWFRyT2xxcWNZMTV3RRIEGgIIABqZCBICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQPMHCAAQABgAIAAqFAoDaG93FSFz2T8aCHR1dG9yaWFsKgkKAnRvFQAAAAAqNgoGY3JlYXRlFR8WBD8aCWVzdGFibGlzaBoEbWFrZRoHcHJvZHVjZRoDc2V0Ggh0dXRvcmlhbCo_CglyZWFsaXN0aWMVBSFuQBoBYRoEcmVhbBoHcmVhbGlzbRoLcmVhbGlzdGljYWkaDml2O3A7cmVhbGlzdGljKjgKAmFpFfSGpEAaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgtyZWFsaXN0aWNhaRoHYWl2b2ljZSoqCgV2b2ljZRVDRsZAGgZ2b2ljZXMaB2Fpdm9pY2UaC3ZvaWNlY2xvbmVzKkkKBmNsb25lcxUAAAAAGgVjbG9uZRoGY2xvbmVkGgt2b2ljZWNsb25lcxoLaXY7cDtjbG9uZXMaB2Nsb25pbmcaCGNoYW5uZWxzKgoKA2ZvchUAAAAAKh0KB3lvdXR1YmUVAAACQBoNeW91dHViZXNob3J0cyo8CgZzaG9ydHMVAAAAABoKc2hvcnQgZmlsbRoLc2hvcnQgZmlsbXMaDXlvdXR1YmVzaG9ydHMaBXNob3J0KqMBCgluYXJyYXRpb24VnNCYPRoHbmFycmF0ZRoIbmFycmF0ZWQaCG5hcnJhdGVzGgluYXJyYXRpbmcaCm5hcnJhdGlvbnMaCW5hcnJhdGl2ZRoKbmFycmF0aXZlcxoIbmFycmF0b3IaBnNjcmlwdBoKdm9pY2Ugb3ZlchoOaXY7cDtuYXJyYXRpb24aBWF1ZGlvGgZzcGVlY2gaCXZvaWNlb3ZlcjKaAS9nb3RvP3VybD1DQUVTYUFIRUlrWFhQd0V4S2s0Z3lMNUc1Uk1SZS14Vmp1eTUzcHE3MjJoWk1MakVqMUxacU5wdzVlcmwyN3N1ZDlFMFYxbWFzcFlTSXd2UkZLVDhPV0hULVZocGFlekZSQmpRYjFaM1I5WFI0cGI1QnpxSmdKaEs0MTRmQ3IzVDcwWVhUck9scXFjWTE1d0U6TEJlc3QgPGI-QUkgVm9pY2U8L2I-IEdlbmVyYXRvciAyMDI2IChNb3N0IDxiPlJlYWxpc3RpYzwvYj4pIC0gPGI-WW91VHViZTwvYj5ClwFJIGV4cGxhaW4gdGhlIGNvcmUgc3lzdGVtIGJlaGluZCB2b2ljZSBzZWxlY3Rpb24sIGNsb25pbmcsIGFuZCB0ZXh0IHRvIHNwZWVjaCAuLi4gPGI-SG93IFRvIE1ha2UgUmVhbGlzdGljIEFJIFZvaWNlPC9iPiBUaGF0IFNvdW5kcyAxMDAlIEh1bWFuJm5ic3A7Li4uSgJ0b0oDZm9yUgFhIgIQAUgAWABoAA",
+        "source": "YouTube \u00b7 Youri van Hofwegen",
+        "read_more_link": "https://www.google.com/goto?url=CAESvwEBxCJF1yyeqUKK5tu_q4Wd1g6-Jz-hMn6ynjN1lPKpzBL74vfI7NMtVD9JygTKEOqXZoeW1e_Aw0d1QixAdjM_IgPezyXxPkTYhX47Kt34Zl9i-iOqiWjX7xtgRdmQdpttlqbMvUimV9z8cKG8p1jpg0s3_9XiHzjuZWv8t4Wf65u-OXshJy41bXpFhn6CcGxkCnvcYsapY2qYwz6XEim9SGheL1c3mjO1KbNeIZkP1s1TNlOFR7l0bCtVTzEr2g&gsessionid=4lESXFJgvBpfzMizaIDia8csPYEIs7cBOunquILgPj08WWokj7cXtg"
+      },
+      {
+        "position": 6,
+        "title": "Free AI Voice Cloning - Clone Your Voice in Minutes",
+        "link": "https://www.google.com/goto?url=CAESZwHEIkXXsbbHnzE0BJUL1sPdTKBlFFKTIa7i_29kx5lXO3893iEBGuOC-FYt32OD67_foTnM-MlxLdD-gQ1baJCoUrhYRFEoP-4m9qiGnfHPxQ6OT9KE_IBmuEfDSrEuaxxVaBPC5ZE",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZwHEIkXXteBKdrEOgJ_doVewcW_mvq32QvWrKT-WCeRcsQx_rfcjrbTHNEE67R38v8UyTaDHyOZSERX5OnnAzdc2P4O9G9A6PywJiVurrgOMpGavGyizxXPe_ZOh8xFUr4Jqgy5Iiu0&ved=2ahUKEwiAj6D325uYAxXeNYYAHYrJFFoQFnoECCIQAQ&uoh=1",
+        "displayed_link": "https://www.veed.io \u203a VEED Tools",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACF0lEQVR4AcVXNWwdQRD9lVP_3eMwMzPWYWZOyjBTGWZO2kDfhLkMm3qZuTMzjHfMcE93ss_ald7HgTeo21iXM0gIcSwej_9RqFCfKUqwTbatPh9lXwqdRwgxWCEVG4gcKeyzM3LgfKBJtGSC065AmnAkpuryVxcB5fs3EyjXSKA8xh90oheBG3kuPSfPF4t2GYEGWQbpX891gwlse2BBA8c-OoEEjn1yoP72B3YwgdEzJT1r9DfwpM6loWMldD5ktKTHtf4ZfNbk0ZjZMpgA4-QPHMWKsyYksPKcCfVOfvfLHiCwZA-u46VEXIZLSZj44t1GeAKGJehmAW7GcfN6p3LsHMlp9pW_VeSSacvwBBhbbuNm3HLH6iW_9S6W33yrUz40gRFTJD1tAOOU45KUnbL8-Wqmf8bYxqjpMoAAHCkbRjVrVWdNZ63GPcNjGbyIABZux1198FXnTB98jYku3Gb2nYA0BF3L9k_t_VKXLE-Q5Qq6X-LCzWeYYVcxwMZruLmW7jdp2QGcpQ1XcfOFJjBsguANiOoL--RpvUfDJ8n-E2Acfuug1QzJsQ7rRkJg3kbc5QhzNxjREeA5v5LuhnZ-JcPhBo6OAGP1JTM0AZYVImICliN53ulxNXb8qMqjAy9ttPcxAZ3Q_VBaqv-xnO9qOi8m7VezFE1Xs4Sul9MUPZfTzpPAKeG6DERjttn8pXCkJfK20wyWcxHqVWHJ7gAAAABJRU5ErkJggg.png",
+        "snippet": "VEED's AI voice cloning tool lets you record your voice once and generate natural-sounding voiceovers in 29 languages \u2014 just type your script.",
+        "snippet_highlighted_words": [
+          "VEED's AI voice cloning tool"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.6,
+              "reviews": 2139
+            },
+            "extensions": [
+              "4.6(2,139)",
+              "Free"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "VEED's AI voice cloning tool lets you record your voice once and generate natural-sounding voiceovers in 29 languages \u2014 just type your script.",
+            "source_info_link": "https://www.google.com/goto?url=CAESZwHEIkXXsbbHnzE0BJUL1sPdTKBlFFKTIa7i_29kx5lXO3893iEBGuOC-FYt32OD67_foTnM-MlxLdD-gQ1baJCoUrhYRFEoP-4m9qiGnfHPxQ6OT9KE_IBmuEfDSrEuaxxVaBPC5ZE",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACF0lEQVR4AcVXNWwdQRD9lVP_3eMwMzPWYWZOyjBTGWZO2kDfhLkMm3qZuTMzjHfMcE93ss_ald7HgTeo21iXM0gIcSwej_9RqFCfKUqwTbatPh9lXwqdRwgxWCEVG4gcKeyzM3LgfKBJtGSC065AmnAkpuryVxcB5fs3EyjXSKA8xh90oheBG3kuPSfPF4t2GYEGWQbpX891gwlse2BBA8c-OoEEjn1yoP72B3YwgdEzJT1r9DfwpM6loWMldD5ktKTHtf4ZfNbk0ZjZMpgA4-QPHMWKsyYksPKcCfVOfvfLHiCwZA-u46VEXIZLSZj44t1GeAKGJehmAW7GcfN6p3LsHMlp9pW_VeSSacvwBBhbbuNm3HLH6iW_9S6W33yrUz40gRFTJD1tAOOU45KUnbL8-Wqmf8bYxqjpMoAAHCkbRjVrVWdNZ63GPcNjGbyIABZux1198FXnTB98jYku3Gb2nYA0BF3L9k_t_VKXLE-Q5Qq6X-LCzWeYYVcxwMZruLmW7jdp2QGcpQ1XcfOFJjBsguANiOoL--RpvUfDJ8n-E2Acfuug1QzJsQ7rRkJg3kbc5QhzNxjREeA5v5LuhnZ-JcPhBo6OAGP1JTM0AZYVImICliN53ulxNXb8qMqjAy9ttPcxAZ3Q_VBaqv-xnO9qOi8m7VezFE1Xs4Sul9MUPZfTzpPAKeG6DERjttn8pXCkJfK20wyWcxHqVWHJ7gAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpkBL2dvdG8_dXJsPUNBRVNad0hFSWtYWHNiYkhuekUwQkpVTDFzUGRUS0JsRkZLVElhN2lfMjlreDVsWE8zODkzaUVCR3VPQy1GWXQzMk9ENjdfZm9Ubk0tTWx4TGRELWdRMWJhSkNvVXJoWVJGRW9QLTRtOXFpR25mSFB4UTZPVDlLRV9JQm11RWZEU3JFdWF4eFZhQlBDNVpFEgQaAggAGpgIEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA8gcIABAAGAAgACoUCgNob3cVP6H6PhoIdHV0b3JpYWwqCQoCdG8VAAAAACo2CgZjcmVhdGUVPNfCPxoJZXN0YWJsaXNoGgRtYWtlGgdwcm9kdWNlGgNzZXQaCHR1dG9yaWFsKj8KCXJlYWxpc3RpYxUAAAAAGgFhGgRyZWFsGgdyZWFsaXNtGgtyZWFsaXN0aWNhaRoOaXY7cDtyZWFsaXN0aWMqOAoCYWkViuDbQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaC3JlYWxpc3RpY2FpGgdhaXZvaWNlKioKBXZvaWNlFbthyEAaBnZvaWNlcxoHYWl2b2ljZRoLdm9pY2VjbG9uZXMqSQoGY2xvbmVzFR0Bjj4aBWNsb25lGgZjbG9uZWQaC3ZvaWNlY2xvbmVzGgtpdjtwO2Nsb25lcxoHY2xvbmluZxoIY2hhbm5lbHMqCgoDZm9yFQAAAAAqHQoHeW91dHViZRXwmHs-Gg15b3V0dWJlc2hvcnRzKjwKBnNob3J0cxUAAAAAGgpzaG9ydCBmaWxtGgtzaG9ydCBmaWxtcxoNeW91dHViZXNob3J0cxoFc2hvcnQqowEKCW5hcnJhdGlvbhV9ucY-GgduYXJyYXRlGghuYXJyYXRlZBoIbmFycmF0ZXMaCW5hcnJhdGluZxoKbmFycmF0aW9ucxoJbmFycmF0aXZlGgpuYXJyYXRpdmVzGghuYXJyYXRvchoGc2NyaXB0Ggp2b2ljZSBvdmVyGg5pdjtwO25hcnJhdGlvbhoFYXVkaW8aBnNwZWVjaBoJdm9pY2VvdmVyMpkBL2dvdG8_dXJsPUNBRVNad0hFSWtYWHNiYkhuekUwQkpVTDFzUGRUS0JsRkZLVElhN2lfMjlreDVsWE8zODkzaUVCR3VPQy1GWXQzMk9ENjdfZm9Ubk0tTWx4TGRELWdRMWJhSkNvVXJoWVJGRW9QLTRtOXFpR25mSFB4UTZPVDlLRV9JQm11RWZEU3JFdWF4eFZhQlBDNVpFOkhGcmVlIDxiPkFJIFZvaWNlIENsb25pbmc8L2I-IC0gPGI-Q2xvbmU8L2I-IFlvdXIgVm9pY2UgaW4gTWludXRlcyAtIFZFRURCmwE8Yj5WRUVEJiMzOTtzIEFJIHZvaWNlIGNsb25pbmcgdG9vbDwvYj4gbGV0cyB5b3UgcmVjb3JkIHlvdXIgdm9pY2Ugb25jZSBhbmQgZ2VuZXJhdGUgbmF0dXJhbC1zb3VuZGluZyB2b2ljZW92ZXJzIGluIDI5IGxhbmd1YWdlcyDigJQganVzdCB0eXBlIHlvdXIgc2NyaXB0LkoDZm9ySgJ0b1IBYSICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpkBL2dvdG8_dXJsPUNBRVNad0hFSWtYWHNiYkhuekUwQkpVTDFzUGRUS0JsRkZLVElhN2lfMjlreDVsWE8zODkzaUVCR3VPQy1GWXQzMk9ENjdfZm9Ubk0tTWx4TGRELWdRMWJhSkNvVXJoWVJGRW9QLTRtOXFpR25mSFB4UTZPVDlLRV9JQm11RWZEU3JFdWF4eFZhQlBDNVpFEgQaAggAGpgIEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA8gcIABAAGAAgACoUCgNob3cVP6H6PhoIdHV0b3JpYWwqCQoCdG8VAAAAACo2CgZjcmVhdGUVPNfCPxoJZXN0YWJsaXNoGgRtYWtlGgdwcm9kdWNlGgNzZXQaCHR1dG9yaWFsKj8KCXJlYWxpc3RpYxUAAAAAGgFhGgRyZWFsGgdyZWFsaXNtGgtyZWFsaXN0aWNhaRoOaXY7cDtyZWFsaXN0aWMqOAoCYWkViuDbQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaC3JlYWxpc3RpY2FpGgdhaXZvaWNlKioKBXZvaWNlFbthyEAaBnZvaWNlcxoHYWl2b2ljZRoLdm9pY2VjbG9uZXMqSQoGY2xvbmVzFR0Bjj4aBWNsb25lGgZjbG9uZWQaC3ZvaWNlY2xvbmVzGgtpdjtwO2Nsb25lcxoHY2xvbmluZxoIY2hhbm5lbHMqCgoDZm9yFQAAAAAqHQoHeW91dHViZRXwmHs-Gg15b3V0dWJlc2hvcnRzKjwKBnNob3J0cxUAAAAAGgpzaG9ydCBmaWxtGgtzaG9ydCBmaWxtcxoNeW91dHViZXNob3J0cxoFc2hvcnQqowEKCW5hcnJhdGlvbhV9ucY-GgduYXJyYXRlGghuYXJyYXRlZBoIbmFycmF0ZXMaCW5hcnJhdGluZxoKbmFycmF0aW9ucxoJbmFycmF0aXZlGgpuYXJyYXRpdmVzGghuYXJyYXRvchoGc2NyaXB0Ggp2b2ljZSBvdmVyGg5pdjtwO25hcnJhdGlvbhoFYXVkaW8aBnNwZWVjaBoJdm9pY2VvdmVyMpkBL2dvdG8_dXJsPUNBRVNad0hFSWtYWHNiYkhuekUwQkpVTDFzUGRUS0JsRkZLVElhN2lfMjlreDVsWE8zODkzaUVCR3VPQy1GWXQzMk9ENjdfZm9Ubk0tTWx4TGRELWdRMWJhSkNvVXJoWVJGRW9QLTRtOXFpR25mSFB4UTZPVDlLRV9JQm11RWZEU3JFdWF4eFZhQlBDNVpFOkhGcmVlIDxiPkFJIFZvaWNlIENsb25pbmc8L2I-IC0gPGI-Q2xvbmU8L2I-IFlvdXIgVm9pY2UgaW4gTWludXRlcyAtIFZFRURCmwE8Yj5WRUVEJiMzOTtzIEFJIHZvaWNlIGNsb25pbmcgdG9vbDwvYj4gbGV0cyB5b3UgcmVjb3JkIHlvdXIgdm9pY2Ugb25jZSBhbmQgZ2VuZXJhdGUgbmF0dXJhbC1zb3VuZGluZyB2b2ljZW92ZXJzIGluIDI5IGxhbmd1YWdlcyDigJQganVzdCB0eXBlIHlvdXIgc2NyaXB0LkoDZm9ySgJ0b1IBYSICEAFIAFgAaAA",
+        "source": "VEED",
+        "read_more_link": "https://www.google.com/goto?url=CAESvgEBxCJF12R1iXd_bQxfXyYBtDV4Z1RBDNhWFzwo1-uNU11m_04fTLYxJLlMbOVvbgZq4_DtS0UEPT03rrCkT321v6OcqwBjKP34iLR2SBc5R_3WrClelSSDkHbcEpiCVaiUkP4bRCWPeLvVmkvqLkpUVxMQfrjJt9fQZS07gvbBAl5HoFSxnT6obbFy-hAorRZZw-zj1MF5B3CQSMZTOOQKHV9dikCCkg_42hl5gbgz8hxVf0PMUIA3Cxi2-5R-&gsessionid=4lESXFJgvBpfzMizaIDia8csPYEIs7cBOunquILgPj08WWokj7cXtg"
+      },
+      {
+        "position": 7,
+        "title": "AI Voice Cloning: Highly Accurate Voice, Tone & Style ...",
+        "link": "https://www.google.com/goto?url=CAESYAHEIkXXuvRXRaaQC2qS6DOWIKRudAaAVwefQ00P4yx9ZAIvn9Wd1BS0dDhT8YvfknX6aLewiDoWcGSf-2zWZu8vSEak_QJZEEEJgcHGPqsL94WkcY9jRfl0YWYvDM8DwA",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHEIkXXO0hSWYKu1-nz6Nm6BWbrkk8auh1RaIegk2reVeMpBZthvmb1qbM3LEUvL-Qj0zn0E3j1qz8K9SrEUqqEyd6jJCfJuXcn_mWqDSr7QTq2pNrGcR_jz_7WFiSU5Q&ved=2ahUKEwiAj6D325uYAxXeNYYAHYrJFFoQFnoECBcQAQ&uoh=1",
+        "displayed_link": "https://notegpt.io \u203a ai-voice-cloning",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAJFBMVEVHcEw4hfQ7hvNIi-1AiPGApdFml-FSj-hVj-U0hPakvrwug_pA_2pbAAAAC3RSTlMA3bl1lx0wWEP1C436cuEAAAEJSURBVCiRbVJZgsUgCJPNjfvfdyBql9fho62NhAQo5Rm1dyv_RiNH6Ac32xDgNyZ9_WYVUXKaD4xqIqOZaMBm7Dc1oRxfzHHrymVqidW7aPDKVuk9U8xfURfx-i8MvnDaZSQKXnGwVlRlcLZ8EdQ4ywK5tC4QBZpeygzPusBtOVEojHb6yTx9ydPIB0DK9qhu8VJpp1qx48IOuO7GjZpOXPSoi1DcZQaYwiYc1G27jwXGocPgaprq5AvcRuN7ql9dqKsmNKysGJQZGoeGtW3b5KflAz7bHos-VsQ7I5HPsJXlwIzxkR5j8Ja7E01q0OWNyyOyLNFJb_KzmndZtu9i9zXo70qfmO_jH6-7EKYkRBqnAAAAAElFTkSuQmCC.png",
+        "snippet": "AI Voice Cloning. Try AI voice cloning online. Instantly clone any voice from a short sample and turn text into custom speech. Upload to Clone Record to Clone",
+        "snippet_highlighted_words": [
+          "Instantly clone any voice from a short sample"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.9,
+              "reviews": 16879
+            },
+            "extensions": [
+              "4.9(16,879)",
+              "Free",
+              "Internet Browser"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "AI Voice Cloning. Try AI voice cloning online. Instantly clone any voice from a short sample and turn text into custom speech. Upload to Clone Record to Clone",
+            "source_info_link": "https://www.google.com/goto?url=CAESYAHEIkXXuvRXRaaQC2qS6DOWIKRudAaAVwefQ00P4yx9ZAIvn9Wd1BS0dDhT8YvfknX6aLewiDoWcGSf-2zWZu8vSEak_QJZEEEJgcHGPqsL94WkcY9jRfl0YWYvDM8DwA",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAJFBMVEVHcEw4hfQ7hvNIi-1AiPGApdFml-FSj-hVj-U0hPakvrwug_pA_2pbAAAAC3RSTlMA3bl1lx0wWEP1C436cuEAAAEJSURBVCiRbVJZgsUgCJPNjfvfdyBql9fho62NhAQo5Rm1dyv_RiNH6Ac32xDgNyZ9_WYVUXKaD4xqIqOZaMBm7Dc1oRxfzHHrymVqidW7aPDKVuk9U8xfURfx-i8MvnDaZSQKXnGwVlRlcLZ8EdQ4ywK5tC4QBZpeygzPusBtOVEojHb6yTx9ydPIB0DK9qhu8VJpp1qx48IOuO7GjZpOXPSoi1DcZQaYwiYc1G27jwXGocPgaprq5AvcRuN7ql9dqKsmNKysGJQZGoeGtW3b5KflAz7bHos-VsQ7I5HPsJXlwIzxkR5j8Ja7E01q0OWNyyOyLNFJb_KzmndZtu9i9zXo70qfmO_jH6-7EKYkRBqnAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhFSWtYWHV2UlhSYWFRQzJxUzZET1dJS1J1ZEFhQVZ3ZWZRMDBQNHl4OVpBSXZuOVdkMUJTMGREaFQ4WXZma25YNmFMZXdpRG9XY0dTZi0yeldadTh2U0Vha19RSlpFRUVKZ2NIR1Bxc0w5NFdrY1k5alJmbDBZV1l2RE04RHdBEgQaAggAGqAIEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA-gcIABAAGAAgACoUCgNob3cVtmNyPxoIdHV0b3JpYWwqCQoCdG8VAAAAACo2CgZjcmVhdGUV_GM9PxoJZXN0YWJsaXNoGgRtYWtlGgdwcm9kdWNlGgNzZXQaCHR1dG9yaWFsKj8KCXJlYWxpc3RpYxWSw74_GgFhGgRyZWFsGgdyZWFsaXNtGgtyZWFsaXN0aWNhaRoOaXY7cDtyZWFsaXN0aWMqOAoCYWkVPX_LQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaC3JlYWxpc3RpY2FpGgdhaXZvaWNlKioKBXZvaWNlFfLK40AaBnZvaWNlcxoHYWl2b2ljZRoLdm9pY2VjbG9uZXMqSQoGY2xvbmVzFQAAAAAaBWNsb25lGgZjbG9uZWQaC3ZvaWNlY2xvbmVzGgtpdjtwO2Nsb25lcxoHY2xvbmluZxoIY2hhbm5lbHMqCgoDZm9yFQAAAAAqHQoHeW91dHViZRXg_1Q_Gg15b3V0dWJlc2hvcnRzKjwKBnNob3J0cxVHIFw-GgpzaG9ydCBmaWxtGgtzaG9ydCBmaWxtcxoNeW91dHViZXNob3J0cxoFc2hvcnQqowEKCW5hcnJhdGlvbhUAAAAAGgduYXJyYXRlGghuYXJyYXRlZBoIbmFycmF0ZXMaCW5hcnJhdGluZxoKbmFycmF0aW9ucxoJbmFycmF0aXZlGgpuYXJyYXRpdmVzGghuYXJyYXRvchoGc2NyaXB0Ggp2b2ljZSBvdmVyGg5pdjtwO25hcnJhdGlvbhoFYXVkaW8aBnNwZWVjaBoJdm9pY2VvdmVyMpABL2dvdG8_dXJsPUNBRVNZQUhFSWtYWHV2UlhSYWFRQzJxUzZET1dJS1J1ZEFhQVZ3ZWZRMDBQNHl4OVpBSXZuOVdkMUJTMGREaFQ4WXZma25YNmFMZXdpRG9XY0dTZi0yeldadTh2U0Vha19RSlpFRUVKZ2NIR1Bxc0w5NFdrY1k5alJmbDBZV1l2RE04RHdBOk88Yj5BSSBWb2ljZSBDbG9uaW5nPC9iPjogSGlnaGx5IEFjY3VyYXRlIFZvaWNlLCBUb25lICZhbXA7IFN0eWxlIDxiPkNsb25pbmc8L2I-QqUBQUkgVm9pY2UgQ2xvbmluZy4gVHJ5IEFJIHZvaWNlIGNsb25pbmcgb25saW5lLiA8Yj5JbnN0YW50bHkgY2xvbmUgYW55IHZvaWNlIGZyb20gYSBzaG9ydCBzYW1wbGU8L2I-IGFuZCB0dXJuIHRleHQgaW50byBjdXN0b20gc3BlZWNoLiBVcGxvYWQgdG8gQ2xvbmUgUmVjb3JkIHRvIENsb25lSgNmb3JKAnRvUgFhIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhFSWtYWHV2UlhSYWFRQzJxUzZET1dJS1J1ZEFhQVZ3ZWZRMDBQNHl4OVpBSXZuOVdkMUJTMGREaFQ4WXZma25YNmFMZXdpRG9XY0dTZi0yeldadTh2U0Vha19RSlpFRUVKZ2NIR1Bxc0w5NFdrY1k5alJmbDBZV1l2RE04RHdBEgQaAggAGqAIEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA-gcIABAAGAAgACoUCgNob3cVtmNyPxoIdHV0b3JpYWwqCQoCdG8VAAAAACo2CgZjcmVhdGUV_GM9PxoJZXN0YWJsaXNoGgRtYWtlGgdwcm9kdWNlGgNzZXQaCHR1dG9yaWFsKj8KCXJlYWxpc3RpYxWSw74_GgFhGgRyZWFsGgdyZWFsaXNtGgtyZWFsaXN0aWNhaRoOaXY7cDtyZWFsaXN0aWMqOAoCYWkVPX_LQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaC3JlYWxpc3RpY2FpGgdhaXZvaWNlKioKBXZvaWNlFfLK40AaBnZvaWNlcxoHYWl2b2ljZRoLdm9pY2VjbG9uZXMqSQoGY2xvbmVzFQAAAAAaBWNsb25lGgZjbG9uZWQaC3ZvaWNlY2xvbmVzGgtpdjtwO2Nsb25lcxoHY2xvbmluZxoIY2hhbm5lbHMqCgoDZm9yFQAAAAAqHQoHeW91dHViZRXg_1Q_Gg15b3V0dWJlc2hvcnRzKjwKBnNob3J0cxVHIFw-GgpzaG9ydCBmaWxtGgtzaG9ydCBmaWxtcxoNeW91dHViZXNob3J0cxoFc2hvcnQqowEKCW5hcnJhdGlvbhUAAAAAGgduYXJyYXRlGghuYXJyYXRlZBoIbmFycmF0ZXMaCW5hcnJhdGluZxoKbmFycmF0aW9ucxoJbmFycmF0aXZlGgpuYXJyYXRpdmVzGghuYXJyYXRvchoGc2NyaXB0Ggp2b2ljZSBvdmVyGg5pdjtwO25hcnJhdGlvbhoFYXVkaW8aBnNwZWVjaBoJdm9pY2VvdmVyMpABL2dvdG8_dXJsPUNBRVNZQUhFSWtYWHV2UlhSYWFRQzJxUzZET1dJS1J1ZEFhQVZ3ZWZRMDBQNHl4OVpBSXZuOVdkMUJTMGREaFQ4WXZma25YNmFMZXdpRG9XY0dTZi0yeldadTh2U0Vha19RSlpFRUVKZ2NIR1Bxc0w5NFdrY1k5alJmbDBZV1l2RE04RHdBOk88Yj5BSSBWb2ljZSBDbG9uaW5nPC9iPjogSGlnaGx5IEFjY3VyYXRlIFZvaWNlLCBUb25lICZhbXA7IFN0eWxlIDxiPkNsb25pbmc8L2I-QqUBQUkgVm9pY2UgQ2xvbmluZy4gVHJ5IEFJIHZvaWNlIGNsb25pbmcgb25saW5lLiA8Yj5JbnN0YW50bHkgY2xvbmUgYW55IHZvaWNlIGZyb20gYSBzaG9ydCBzYW1wbGU8L2I-IGFuZCB0dXJuIHRleHQgaW50byBjdXN0b20gc3BlZWNoLiBVcGxvYWQgdG8gQ2xvbmUgUmVjb3JkIHRvIENsb25lSgNmb3JKAnRvUgFhIgIQAUgAWABoAA",
+        "source": "NoteGPT",
+        "read_more_link": "https://www.google.com/goto?url=CAESkQEBxCJF1_xBuXR_QdKd56XPxvhiruXxaFO50-0u90j32tlQ_h8yiXgByZlMkvhWja1dRTAC96gtP1f4AloAedF5Py16pq-vDA1EGwKQBcGD-5NdvSES4N0qUpPzSTYSMcsmtjOsBhEYFpwnj9oLGUq7lI5Z5NUSofKYMYRnAG_50rzOizBigjWfCTWM4u3aUjE8&gsessionid=4lESXFJgvBpfzMizaIDia8csPYEIs7cBOunquILgPj08WWokj7cXtg"
+      },
+      {
+        "position": 8,
+        "title": "AI Voice Cloning: Generate Lifelike Voice Replicas",
+        "link": "https://www.google.com/goto?url=CAESYAHEIkXXMiJhoQinvEF7NH7ngSDiw3lPSx2yoJus3yNlYkmktuOgPSqVE-u0xKI2lKaLM4yLOF9mrq4vf7-JbiEQbDk0GKxDxb3dgI6hvP5eetZbVDjupi92-sHCzC_EJw",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHEIkXXDw8TZ6012KV7fJwJH0psHakUTxiiyujpovN3HQcFCD11iL-H1mfKwUpt5wUKIXE8SCkZ124eDR-SMC9mb3i34iOuYsiiIbZur9orLSyB07azsAQRdgPhoU6j3A&ved=2ahUKEwiAj6D325uYAxXeNYYAHYrJFFoQFnoECB8QAQ&uoh=1",
+        "displayed_link": "https://www.lalal.ai \u203a voice-cloning",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEX40jH71TH_2DK2mimJdSV4ZiMAABngvi7Ssi3_2zLNrSwAABsZGBzeA6ksAAAAQElEQVR4AWOgMxBSROYxmjgLIHGZwlIVkGUr2pFlGQQFkeRmggFMXmrPGSA4vRCDi6kYYRSmRQhnoDkSzQv0BQB92BfHsd0TrQAAAABJRU5ErkJggg.png",
+        "snippet": "Create realistic voice replicas with advanced AI voice cloning technology. Generate voice clones for any project, from audiobooks to personalized messages.",
+        "snippet_highlighted_words": [
+          "Create realistic voice replicas with advanced AI voice cloning technology"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Create realistic voice replicas with advanced AI voice cloning technology. Generate voice clones for any project, from audiobooks to personalized messages.",
+            "source_info_link": "https://www.google.com/goto?url=CAESYAHEIkXXMiJhoQinvEF7NH7ngSDiw3lPSx2yoJus3yNlYkmktuOgPSqVE-u0xKI2lKaLM4yLOF9mrq4vf7-JbiEQbDk0GKxDxb3dgI6hvP5eetZbVDjupi92-sHCzC_EJw",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEX40jH71TH_2DK2mimJdSV4ZiMAABngvi7Ssi3_2zLNrSwAABsZGBzeA6ksAAAAQElEQVR4AWOgMxBSROYxmjgLIHGZwlIVkGUr2pFlGQQFkeRmggFMXmrPGSA4vRCDi6kYYRSmRQhnoDkSzQv0BQB92BfHsd0TrQAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhFSWtYWE1pSmhvUWludkVGN05IN25nU0RpdzNsUFN4MnlvSnVzM3lObFlrbWt0dU9nUFNxVkUtdTB4S0kybEthTE00eUxPRjltcnE0dmY3LUpiaUVRYkRrMEdLeER4YjNkZ0k2aHZQNWVldFpiVkRqdXBpOTItc0hDekNfRUp3EgQaAggAGpIIEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA7AcIABAAGAAgACoUCgNob3cVbKtePxoIdHV0b3JpYWwqCQoCdG8VAAAAACo2CgZjcmVhdGUV-_MxQBoJZXN0YWJsaXNoGgRtYWtlGgdwcm9kdWNlGgNzZXQaCHR1dG9yaWFsKj8KCXJlYWxpc3RpYxVl5nE-GgFhGgRyZWFsGgdyZWFsaXNtGgtyZWFsaXN0aWNhaRoOaXY7cDtyZWFsaXN0aWMqOAoCYWkVoOWRQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaC3JlYWxpc3RpY2FpGgdhaXZvaWNlKioKBXZvaWNlFYtx7kAaBnZvaWNlcxoHYWl2b2ljZRoLdm9pY2VjbG9uZXMqSQoGY2xvbmVzFf15lz8aBWNsb25lGgZjbG9uZWQaC3ZvaWNlY2xvbmVzGgtpdjtwO2Nsb25lcxoHY2xvbmluZxoIY2hhbm5lbHMqCgoDZm9yFQAAAAAqHQoHeW91dHViZRUAAAAAGg15b3V0dWJlc2hvcnRzKjwKBnNob3J0cxUAAAAAGgpzaG9ydCBmaWxtGgtzaG9ydCBmaWxtcxoNeW91dHViZXNob3J0cxoFc2hvcnQqowEKCW5hcnJhdGlvbhUAAAAAGgduYXJyYXRlGghuYXJyYXRlZBoIbmFycmF0ZXMaCW5hcnJhdGluZxoKbmFycmF0aW9ucxoJbmFycmF0aXZlGgpuYXJyYXRpdmVzGghuYXJyYXRvchoGc2NyaXB0Ggp2b2ljZSBvdmVyGg5pdjtwO25hcnJhdGlvbhoFYXVkaW8aBnNwZWVjaBoJdm9pY2VvdmVyMpABL2dvdG8_dXJsPUNBRVNZQUhFSWtYWE1pSmhvUWludkVGN05IN25nU0RpdzNsUFN4MnlvSnVzM3lObFlrbWt0dU9nUFNxVkUtdTB4S0kybEthTE00eUxPRjltcnE0dmY3LUpiaUVRYkRrMEdLeER4YjNkZ0k2aHZQNWVldFpiVkRqdXBpOTItc0hDekNfRUp3OkQ8Yj5BSSBWb2ljZSBDbG9uaW5nPC9iPjogR2VuZXJhdGUgTGlmZWxpa2UgVm9pY2UgUmVwbGljYXMgLSBMQUxBTC5BSUKiATxiPkNyZWF0ZSByZWFsaXN0aWMgdm9pY2UgcmVwbGljYXMgd2l0aCBhZHZhbmNlZCBBSSB2b2ljZSBjbG9uaW5nIHRlY2hub2xvZ3k8L2I-LiBHZW5lcmF0ZSB2b2ljZSBjbG9uZXMgZm9yIGFueSBwcm9qZWN0LCBmcm9tIGF1ZGlvYm9va3MgdG8gcGVyc29uYWxpemVkIG1lc3NhZ2VzLkoDZm9ySgJ0b1IBYSICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhFSWtYWE1pSmhvUWludkVGN05IN25nU0RpdzNsUFN4MnlvSnVzM3lObFlrbWt0dU9nUFNxVkUtdTB4S0kybEthTE00eUxPRjltcnE0dmY3LUpiaUVRYkRrMEdLeER4YjNkZ0k2aHZQNWVldFpiVkRqdXBpOTItc0hDekNfRUp3EgQaAggAGpIIEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJA7AcIABAAGAAgACoUCgNob3cVbKtePxoIdHV0b3JpYWwqCQoCdG8VAAAAACo2CgZjcmVhdGUV-_MxQBoJZXN0YWJsaXNoGgRtYWtlGgdwcm9kdWNlGgNzZXQaCHR1dG9yaWFsKj8KCXJlYWxpc3RpYxVl5nE-GgFhGgRyZWFsGgdyZWFsaXNtGgtyZWFsaXN0aWNhaRoOaXY7cDtyZWFsaXN0aWMqOAoCYWkVoOWRQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaC3JlYWxpc3RpY2FpGgdhaXZvaWNlKioKBXZvaWNlFYtx7kAaBnZvaWNlcxoHYWl2b2ljZRoLdm9pY2VjbG9uZXMqSQoGY2xvbmVzFf15lz8aBWNsb25lGgZjbG9uZWQaC3ZvaWNlY2xvbmVzGgtpdjtwO2Nsb25lcxoHY2xvbmluZxoIY2hhbm5lbHMqCgoDZm9yFQAAAAAqHQoHeW91dHViZRUAAAAAGg15b3V0dWJlc2hvcnRzKjwKBnNob3J0cxUAAAAAGgpzaG9ydCBmaWxtGgtzaG9ydCBmaWxtcxoNeW91dHViZXNob3J0cxoFc2hvcnQqowEKCW5hcnJhdGlvbhUAAAAAGgduYXJyYXRlGghuYXJyYXRlZBoIbmFycmF0ZXMaCW5hcnJhdGluZxoKbmFycmF0aW9ucxoJbmFycmF0aXZlGgpuYXJyYXRpdmVzGghuYXJyYXRvchoGc2NyaXB0Ggp2b2ljZSBvdmVyGg5pdjtwO25hcnJhdGlvbhoFYXVkaW8aBnNwZWVjaBoJdm9pY2VvdmVyMpABL2dvdG8_dXJsPUNBRVNZQUhFSWtYWE1pSmhvUWludkVGN05IN25nU0RpdzNsUFN4MnlvSnVzM3lObFlrbWt0dU9nUFNxVkUtdTB4S0kybEthTE00eUxPRjltcnE0dmY3LUpiaUVRYkRrMEdLeER4YjNkZ0k2aHZQNWVldFpiVkRqdXBpOTItc0hDekNfRUp3OkQ8Yj5BSSBWb2ljZSBDbG9uaW5nPC9iPjogR2VuZXJhdGUgTGlmZWxpa2UgVm9pY2UgUmVwbGljYXMgLSBMQUxBTC5BSUKiATxiPkNyZWF0ZSByZWFsaXN0aWMgdm9pY2UgcmVwbGljYXMgd2l0aCBhZHZhbmNlZCBBSSB2b2ljZSBjbG9uaW5nIHRlY2hub2xvZ3k8L2I-LiBHZW5lcmF0ZSB2b2ljZSBjbG9uZXMgZm9yIGFueSBwcm9qZWN0LCBmcm9tIGF1ZGlvYm9va3MgdG8gcGVyc29uYWxpemVkIG1lc3NhZ2VzLkoDZm9ySgJ0b1IBYSICEAFIAFgAaAA",
+        "source": "LALAL.AI"
+      },
+      {
+        "position": 9,
+        "title": "Free AI Voice Generator | Create Realistic AI Voiceover ...",
+        "link": "https://www.google.com/goto?url=CAESagHEIkXXHvDGv-Ka1ZhsZocJDVFJ7fPljmPJVXhLJTuM_zrLlpTJcxetrhdJ5G5zGIEsC8Hm8Tu5LnZgkpxJDqQjM_7Ea5PlxedQu3Z2UEBPYgHJRNiptfE4vZhp6MP-gj59RMO6y8P6PN4",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHEIkXX5PjzVskx3E7FmFKubjPDKWIn5YE8VnqtiZMlfGAgW11b1Qp9Fld85ez_qteIsaYF-9stCJj_sq-oY2VFir4yyPciwlHruw2npvfRblnVacUkY7_q39OYvNr3q5mTssSU6od68mU&ved=2ahUKEwiAj6D325uYAxXeNYYAHYrJFFoQFnoECBkQAQ&uoh=1",
+        "displayed_link": "https://quillbot.com \u203a AI Tool",
+        "favicon": "https://serpapi.com/searches/6b02f2e646ce67ab8b1a2f4a/images/LJ88ibHSfZLCdknqnpY1wrFDYKanyCBXilZHGU7joXw.png",
+        "snippet": "Generate realistic AI voices using Quillbot's free AI voice generator. Create engaging and human-like voices for videos, podcasts, and presentations in ...",
+        "snippet_highlighted_words": [
+          "Generate realistic AI voices using Quillbot's free AI voice generator"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.8,
+              "reviews": 14438
+            },
+            "extensions": [
+              "4.8(14,438)",
+              "Free",
+              "Business/Productivity"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Generate realistic AI voices using Quillbot's free AI voice generator. Create engaging and human-like voices for videos, podcasts, and presentations in ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESagHEIkXXHvDGv-Ka1ZhsZocJDVFJ7fPljmPJVXhLJTuM_zrLlpTJcxetrhdJ5G5zGIEsC8Hm8Tu5LnZgkpxJDqQjM_7Ea5PlxedQu3Z2UEBPYgHJRNiptfE4vZhp6MP-gj59RMO6y8P6PN4",
+            "icon": "https://serpapi.com/searches/6b02f2e646ce67ab8b1a2f4a/images/LJ88ibHSfZLCdknqnpY1wt0J6C-XmFtJL8dGDVD9IDQvdGKA7R3OGZgOKhtXY2Al.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hFSWtYWEh2REd2LUthMVpoc1pvY0pEVkZKN2ZQbGptUEpWWGhMSlR1TV96ckxscFRKY3hldHJoZEo1RzV6R0lFc0M4SG04VHU1TG5aZ2tweEpEcVFqTV83RWE1UGx4ZWRRdTNaMlVFQlBZZ0hKUk5pcHRmRTR2WmhwNk1QLWdqNTlSTU82eThQNlBONBIEGgIIABqwCBICCAAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQIoICAAQABgAIAAqFAoDaG93FeyLgT8aCHR1dG9yaWFsKgkKAnRvFQAAAAAqNgoGY3JlYXRlFfgebkAaCWVzdGFibGlzaBoEbWFrZRoHcHJvZHVjZRoDc2V0Ggh0dXRvcmlhbCo_CglyZWFsaXN0aWMV2xNzQBoBYRoEcmVhbBoHcmVhbGlzbRoLcmVhbGlzdGljYWkaDml2O3A7cmVhbGlzdGljKjgKAmFpFQaC4EAaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgtyZWFsaXN0aWNhaRoHYWl2b2ljZSoqCgV2b2ljZRXQhd9AGgZ2b2ljZXMaB2Fpdm9pY2UaC3ZvaWNlY2xvbmVzKkkKBmNsb25lcxUAAAAAGgVjbG9uZRoGY2xvbmVkGgt2b2ljZWNsb25lcxoLaXY7cDtjbG9uZXMaB2Nsb25pbmcaCGNoYW5uZWxzKgoKA2ZvchUAAAAAKh0KB3lvdXR1YmUV14l_PhoNeW91dHViZXNob3J0cyo8CgZzaG9ydHMVAAAAABoKc2hvcnQgZmlsbRoLc2hvcnQgZmlsbXMaDXlvdXR1YmVzaG9ydHMaBXNob3J0KqMBCgluYXJyYXRpb24VGvWXPxoHbmFycmF0ZRoIbmFycmF0ZWQaCG5hcnJhdGVzGgluYXJyYXRpbmcaCm5hcnJhdGlvbnMaCW5hcnJhdGl2ZRoKbmFycmF0aXZlcxoIbmFycmF0b3IaBnNjcmlwdBoKdm9pY2Ugb3ZlchoOaXY7cDtuYXJyYXRpb24aBWF1ZGlvGgZzcGVlY2gaCXZvaWNlb3ZlcjKdAS9nb3RvP3VybD1DQUVTYWdIRUlrWFhIdkRHdi1LYTFaaHNab2NKRFZGSjdmUGxqbVBKVlhoTEpUdU1fenJMbHBUSmN4ZXRyaGRKNUc1ekdJRXNDOEhtOFR1NUxuWmdrcHhKRHFRak1fN0VhNVBseGVkUXUzWjJVRUJQWWdISlJOaXB0ZkU0dlpocDZNUC1najU5Uk1PNnk4UDZQTjQ6TEZyZWUgPGI-QUkgVm9pY2U8L2I-IEdlbmVyYXRvciB8IDxiPkNyZWF0ZSBSZWFsaXN0aWM8L2I-IEFJIFZvaWNlb3ZlciBPbmxpbmVCqwE8Yj5HZW5lcmF0ZSByZWFsaXN0aWMgQUkgdm9pY2VzIHVzaW5nIFF1aWxsYm90JiMzOTtzIGZyZWUgQUkgdm9pY2UgZ2VuZXJhdG9yPC9iPi4gQ3JlYXRlIGVuZ2FnaW5nIGFuZCBodW1hbi1saWtlIHZvaWNlcyBmb3IgdmlkZW9zLCBwb2RjYXN0cywgYW5kIHByZXNlbnRhdGlvbnMgaW4mbmJzcDsuLi5KAnRvSgNmb3JSAWEiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hFSWtYWEh2REd2LUthMVpoc1pvY0pEVkZKN2ZQbGptUEpWWGhMSlR1TV96ckxscFRKY3hldHJoZEo1RzV6R0lFc0M4SG04VHU1TG5aZ2tweEpEcVFqTV83RWE1UGx4ZWRRdTNaMlVFQlBZZ0hKUk5pcHRmRTR2WmhwNk1QLWdqNTlSTU82eThQNlBONBIEGgIIABqwCBICCAAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQIoICAAQABgAIAAqFAoDaG93FeyLgT8aCHR1dG9yaWFsKgkKAnRvFQAAAAAqNgoGY3JlYXRlFfgebkAaCWVzdGFibGlzaBoEbWFrZRoHcHJvZHVjZRoDc2V0Ggh0dXRvcmlhbCo_CglyZWFsaXN0aWMV2xNzQBoBYRoEcmVhbBoHcmVhbGlzbRoLcmVhbGlzdGljYWkaDml2O3A7cmVhbGlzdGljKjgKAmFpFQaC4EAaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgtyZWFsaXN0aWNhaRoHYWl2b2ljZSoqCgV2b2ljZRXQhd9AGgZ2b2ljZXMaB2Fpdm9pY2UaC3ZvaWNlY2xvbmVzKkkKBmNsb25lcxUAAAAAGgVjbG9uZRoGY2xvbmVkGgt2b2ljZWNsb25lcxoLaXY7cDtjbG9uZXMaB2Nsb25pbmcaCGNoYW5uZWxzKgoKA2ZvchUAAAAAKh0KB3lvdXR1YmUV14l_PhoNeW91dHViZXNob3J0cyo8CgZzaG9ydHMVAAAAABoKc2hvcnQgZmlsbRoLc2hvcnQgZmlsbXMaDXlvdXR1YmVzaG9ydHMaBXNob3J0KqMBCgluYXJyYXRpb24VGvWXPxoHbmFycmF0ZRoIbmFycmF0ZWQaCG5hcnJhdGVzGgluYXJyYXRpbmcaCm5hcnJhdGlvbnMaCW5hcnJhdGl2ZRoKbmFycmF0aXZlcxoIbmFycmF0b3IaBnNjcmlwdBoKdm9pY2Ugb3ZlchoOaXY7cDtuYXJyYXRpb24aBWF1ZGlvGgZzcGVlY2gaCXZvaWNlb3ZlcjKdAS9nb3RvP3VybD1DQUVTYWdIRUlrWFhIdkRHdi1LYTFaaHNab2NKRFZGSjdmUGxqbVBKVlhoTEpUdU1fenJMbHBUSmN4ZXRyaGRKNUc1ekdJRXNDOEhtOFR1NUxuWmdrcHhKRHFRak1fN0VhNVBseGVkUXUzWjJVRUJQWWdISlJOaXB0ZkU0dlpocDZNUC1najU5Uk1PNnk4UDZQTjQ6TEZyZWUgPGI-QUkgVm9pY2U8L2I-IEdlbmVyYXRvciB8IDxiPkNyZWF0ZSBSZWFsaXN0aWM8L2I-IEFJIFZvaWNlb3ZlciBPbmxpbmVCqwE8Yj5HZW5lcmF0ZSByZWFsaXN0aWMgQUkgdm9pY2VzIHVzaW5nIFF1aWxsYm90JiMzOTtzIGZyZWUgQUkgdm9pY2UgZ2VuZXJhdG9yPC9iPi4gQ3JlYXRlIGVuZ2FnaW5nIGFuZCBodW1hbi1saWtlIHZvaWNlcyBmb3IgdmlkZW9zLCBwb2RjYXN0cywgYW5kIHByZXNlbnRhdGlvbnMgaW4mbmJzcDsuLi5KAnRvSgNmb3JSAWEiAhABSABYAGgA",
+        "source": "QuillBot"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "Voice cloning free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDjgZ4pPd95EQzvdZvM_YEjbOBIgfQ:1795355367187&q=Voice+cloning+free&sa=X&ved=2ahUKEwiAj6D325uYAxXeNYYAHYrJFFoQ1QJ6BAgLEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Voice+cloning+free"
+      },
+      {
+        "block_position": 1,
+        "query": "AI voice clone free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDjgZ4pPd95EQzvdZvM_YEjbOBIgfQ:1795355367187&q=AI+voice+clone+free&sa=X&ved=2ahUKEwiAj6D325uYAxXeNYYAHYrJFFoQ1QJ6BAghEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=AI+voice+clone+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Voice cloning AI free unlimited",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDjgZ4pPd95EQzvdZvM_YEjbOBIgfQ:1795355367187&q=Voice+cloning+AI+free+unlimited&sa=X&ved=2ahUKEwiAj6D325uYAxXeNYYAHYrJFFoQ1QJ6BAgeEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Voice+cloning+AI+free+unlimited"
+      },
+      {
+        "block_position": 1,
+        "query": "Clone voice AI",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDjgZ4pPd95EQzvdZvM_YEjbOBIgfQ:1795355367187&q=Clone+voice+AI&sa=X&ved=2ahUKEwiAj6D325uYAxXeNYYAHYrJFFoQ1QJ6BAgYEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Clone+voice+AI"
+      },
+      {
+        "block_position": 1,
+        "query": "Free AI voice clone Generator",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDjgZ4pPd95EQzvdZvM_YEjbOBIgfQ:1795355367187&q=Free+AI+voice+clone+Generator&sa=X&ved=2ahUKEwiAj6D325uYAxXeNYYAHYrJFFoQ1QJ6BAgSEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Free+AI+voice+clone+Generator"
+      },
+      {
+        "block_position": 1,
+        "query": "AI clone voice Generator",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDjgZ4pPd95EQzvdZvM_YEjbOBIgfQ:1795355367187&q=AI+clone+voice+Generator&sa=X&ved=2ahUKEwiAj6D325uYAxXeNYYAHYrJFFoQ1QJ6BAgQEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=AI+clone+voice+Generator"
+      },
+      {
+        "block_position": 1,
+        "query": "AI voice clone text to speech",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDjgZ4pPd95EQzvdZvM_YEjbOBIgfQ:1795355367187&q=AI+voice+clone+text+to+speech&sa=X&ved=2ahUKEwiAj6D325uYAxXeNYYAHYrJFFoQ1QJ6BAgOEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=AI+voice+clone+text+to+speech"
+      },
+      {
+        "block_position": 1,
+        "query": "Canva voice clone",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDjgZ4pPd95EQzvdZvM_YEjbOBIgfQ:1795355367187&q=Canva+voice+clone&sa=X&ved=2ahUKEwiAj6D325uYAxXeNYYAHYrJFFoQ1QJ6BAgMEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Canva+voice+clone"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=How+to+create+realistic+AI+voice+clones+for+YouTube+shorts+narration&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDjgZ4pPd95EQzvdZvM_YEjbOBIgfQ:1795355367187&ei=5_ICa8D_Ct7rmLQPipPT0AU&start=10&sa=N&sstk=AYl2yk9j7rGU-VL-iOw1Sl8Z6UTH0f01bpmi7UeeFbjhrlyujSF0-tvGaM-jOFVh1bkVnCZAThg5t-TvkRA9t5Fai0VGIazr1Yensg&ved=2ahUKEwiAj6D325uYAxXeNYYAHYrJFFoQ8NMDegQIVRAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=How+to+create+realistic+AI+voice+clones+for+YouTube+shorts+narration&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDjgZ4pPd95EQzvdZvM_YEjbOBIgfQ:1795355367187&ei=5_ICa8D_Ct7rmLQPipPT0AU&start=10&sa=N&sstk=AYl2yk9j7rGU-VL-iOw1Sl8Z6UTH0f01bpmi7UeeFbjhrlyujSF0-tvGaM-jOFVh1bkVnCZAThg5t-TvkRA9t5Fai0VGIazr1Yensg&ved=2ahUKEwiAj6D325uYAxXeNYYAHYrJFFoQ8tMDegQIVRAE",
+        "3": "https://www.google.com/search?q=How+to+create+realistic+AI+voice+clones+for+YouTube+shorts+narration&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDjgZ4pPd95EQzvdZvM_YEjbOBIgfQ:1795355367187&ei=5_ICa8D_Ct7rmLQPipPT0AU&start=20&sa=N&sstk=AYl2yk9j7rGU-VL-iOw1Sl8Z6UTH0f01bpmi7UeeFbjhrlyujSF0-tvGaM-jOFVh1bkVnCZAThg5t-TvkRA9t5Fai0VGIazr1Yensg&ved=2ahUKEwiAj6D325uYAxXeNYYAHYrJFFoQ8tMDegQIVRAG",
+        "4": "https://www.google.com/search?q=How+to+create+realistic+AI+voice+clones+for+YouTube+shorts+narration&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDjgZ4pPd95EQzvdZvM_YEjbOBIgfQ:1795355367187&ei=5_ICa8D_Ct7rmLQPipPT0AU&start=30&sa=N&sstk=AYl2yk9j7rGU-VL-iOw1Sl8Z6UTH0f01bpmi7UeeFbjhrlyujSF0-tvGaM-jOFVh1bkVnCZAThg5t-TvkRA9t5Fai0VGIazr1Yensg&ved=2ahUKEwiAj6D325uYAxXeNYYAHYrJFFoQ8tMDegQIVRAI",
+        "5": "https://www.google.com/search?q=How+to+create+realistic+AI+voice+clones+for+YouTube+shorts+narration&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDjgZ4pPd95EQzvdZvM_YEjbOBIgfQ:1795355367187&ei=5_ICa8D_Ct7rmLQPipPT0AU&start=40&sa=N&sstk=AYl2yk9j7rGU-VL-iOw1Sl8Z6UTH0f01bpmi7UeeFbjhrlyujSF0-tvGaM-jOFVh1bkVnCZAThg5t-TvkRA9t5Fai0VGIazr1Yensg&ved=2ahUKEwiAj6D325uYAxXeNYYAHYrJFFoQ8tMDegQIVRAK",
+        "6": "https://www.google.com/search?q=How+to+create+realistic+AI+voice+clones+for+YouTube+shorts+narration&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDjgZ4pPd95EQzvdZvM_YEjbOBIgfQ:1795355367187&ei=5_ICa8D_Ct7rmLQPipPT0AU&start=50&sa=N&sstk=AYl2yk9j7rGU-VL-iOw1Sl8Z6UTH0f01bpmi7UeeFbjhrlyujSF0-tvGaM-jOFVh1bkVnCZAThg5t-TvkRA9t5Fai0VGIazr1Yensg&ved=2ahUKEwiAj6D325uYAxXeNYYAHYrJFFoQ8tMDegQIVRAM",
+        "7": "https://www.google.com/search?q=How+to+create+realistic+AI+voice+clones+for+YouTube+shorts+narration&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDjgZ4pPd95EQzvdZvM_YEjbOBIgfQ:1795355367187&ei=5_ICa8D_Ct7rmLQPipPT0AU&start=60&sa=N&sstk=AYl2yk9j7rGU-VL-iOw1Sl8Z6UTH0f01bpmi7UeeFbjhrlyujSF0-tvGaM-jOFVh1bkVnCZAThg5t-TvkRA9t5Fai0VGIazr1Yensg&ved=2ahUKEwiAj6D325uYAxXeNYYAHYrJFFoQ8tMDegQIVRAO",
+        "8": "https://www.google.com/search?q=How+to+create+realistic+AI+voice+clones+for+YouTube+shorts+narration&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDjgZ4pPd95EQzvdZvM_YEjbOBIgfQ:1795355367187&ei=5_ICa8D_Ct7rmLQPipPT0AU&start=70&sa=N&sstk=AYl2yk9j7rGU-VL-iOw1Sl8Z6UTH0f01bpmi7UeeFbjhrlyujSF0-tvGaM-jOFVh1bkVnCZAThg5t-TvkRA9t5Fai0VGIazr1Yensg&ved=2ahUKEwiAj6D325uYAxXeNYYAHYrJFFoQ8tMDegQIVRAQ",
+        "9": "https://www.google.com/search?q=How+to+create+realistic+AI+voice+clones+for+YouTube+shorts+narration&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDjgZ4pPd95EQzvdZvM_YEjbOBIgfQ:1795355367187&ei=5_ICa8D_Ct7rmLQPipPT0AU&start=80&sa=N&sstk=AYl2yk9j7rGU-VL-iOw1Sl8Z6UTH0f01bpmi7UeeFbjhrlyujSF0-tvGaM-jOFVh1bkVnCZAThg5t-TvkRA9t5Fai0VGIazr1Yensg&ved=2ahUKEwiAj6D325uYAxXeNYYAHYrJFFoQ8tMDegQIVRAS",
+        "10": "https://www.google.com/search?q=How+to+create+realistic+AI+voice+clones+for+YouTube+shorts+narration&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDjgZ4pPd95EQzvdZvM_YEjbOBIgfQ:1795355367187&ei=5_ICa8D_Ct7rmLQPipPT0AU&start=90&sa=N&sstk=AYl2yk9j7rGU-VL-iOw1Sl8Z6UTH0f01bpmi7UeeFbjhrlyujSF0-tvGaM-jOFVh1bkVnCZAThg5t-TvkRA9t5Fai0VGIazr1Yensg&ved=2ahUKEwiAj6D325uYAxXeNYYAHYrJFFoQ8tMDegQIVRAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+create+realistic+AI+voice+clones+for+YouTube+shorts+narration&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+create+realistic+AI+voice+clones+for+YouTube+shorts+narration&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+create+realistic+AI+voice+clones+for+YouTube+shorts+narration&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+create+realistic+AI+voice+clones+for+YouTube+shorts+narration&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+create+realistic+AI+voice+clones+for+YouTube+shorts+narration&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+create+realistic+AI+voice+clones+for+YouTube+shorts+narration&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+create+realistic+AI+voice+clones+for+YouTube+shorts+narration&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+create+realistic+AI+voice+clones+for+YouTube+shorts+narration&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+create+realistic+AI+voice+clones+for+YouTube+shorts+narration&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+create+realistic+AI+voice+clones+for+YouTube+shorts+narration&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+create+realistic+AI+voice+clones+for+YouTube+shorts+narration&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

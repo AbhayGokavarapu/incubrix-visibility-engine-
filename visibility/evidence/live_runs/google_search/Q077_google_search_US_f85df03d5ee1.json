@@ -1,0 +1,458 @@
+{
+  "measurement_id": "f85df03d5ee1",
+  "question_id": "Q077",
+  "timestamp_utc": "2026-11-22T13:50:06.676089+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "What are the best tools for video reframing and object tracking?",
+  "market": "US",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://pacavaca.medium.com/poor-mans-intelligent-reframing-for-gopro-videos-c9bb489512db",
+    "https://www.reddit.com/r/editors/comments/m4j5l8/is_there_a_way_to_automate_motion_tracking_and/",
+    "https://www.google.com/goto?url=CAESggEBxCJF10TvYOl0nCblYq3n6WqL5E2rvbPQrCFeAEgWKo4AQTCp72YRhF05KJo2EfAdahYYNtyBlhGdrdRIcsnkK8NZvvPXqheSClArl24kEu0Eau4Fc6ATCWowU6WLHNk5VgsB-hVUDw0q5pjxvY74T4GMOzNjhnnGvrGZoUrtX1Ll",
+    "https://www.google.com/goto?url=CAEScwHEIkXX4fiig28-Ggk8WLyuO8i07lx-gQNake60bk3VGKn9bwL2nsU5dZwL4EqR3qc6KS6SFLhOBtEu3yjauls6Rmlcv_XduRRiPA8uUAyW730Sskl4da2f81UGnDxF6pFaXrDVJLDqwRmm_yx2By7fYOw",
+    "https://www.google.com/goto?url=CAESogEBxCJF10UO_wQByaHhwSHvss1aWDLnKr1SyTQQuVPykzxA7aUDapXoA1JeGZZZcKjdBfbZx07B8R7Uu-bbOWNImx7F35EeREj_dNiwPob-0FCH9_QQguxDDs0RHGFogebctQV7hQeNwhjzeoW6O0LE60g20Elg2NwM1PmLLRBE0EUOa4li-FfM4iJA3p4xXbu86WZwd7vnEO-Ntho05F4gsBc",
+    "https://www.google.com/goto?url=CAESmQEBxCJF1-4ZPBA2N7wuDvkIjpDG0WENEJhmxQl8vafk4XBeOUH5AANTGcuSHRjWoMJ6AMwD5zYR6zgdjNhu2QGhdR3_IHx6yuhTCOcyWs3HB6RzxO5oV08ScLx6aN0l8P_1KZ3YXJrgNy7lQt9FLINDu0fapksARdS5lv0Bq6IeJcFo2-B2Kyvh9e2G7H-yrwFVsTMaNztC8o0",
+    "https://www.google.com/goto?url=CAESpQEBxCJF15uWuHn2F0M6c-_KweMNuPNDqk2AkjOlEplw95Koc3e_7GsF1ZGzUQvmH05dKs2XXgKJQz1w6difzo_rnRawfrogIeiaJI4JMPAq9dbd02r41somz06QDz25gBp7-PULnAFpRcgxT64yynhDAEpuil9Ycbji3gxY6NltmK9Ou0JtcFNgJD3yvS-KSqxlYeKcp1qiiTlPxbxUxarWY3-2ZFw"
+  ],
+  "raw_text_summary": "Poor man's intelligent reframing for GoPro videos - Medium I settled on OpenCV, YOLO for object detection, and DeepSort with CLIP embedder for tracking. track them across frames using DeepSORT and CLIP Is there a way to automate motion tracking and reframing? Hey everyone, I use Premiere Pro and/or Resolve, is there a way to auto motion track an object in the frame and keep it centered in the zoomed in frame? ... Top 8 AI Tools for Video Object Tracking The 8 best AI object tracking tools \u00b7 1. Adobe After Effects (AI tracking) \u00b7 2. DaVinci Resolve (Magic Mask + Tracker) \u00b7 3. Mocha Pro (planar ... Top Open-Source Object Tracking Tools Top Free Open-Source Object Tracking Tools \u00b7 1. Roboflow Trackers \u00b7 2. ByteTrack \u00b7 3. BoT-SORT \u00b7 4. DeepSORT \u00b7 5. StrongSORT \u00b7 7. Norfair. Video Object Tracking: How to Annotate and ... 1. Manual Frame-by-Frame Annotation \u00b7 2. Interpolation-Based Tracking \u00b7 3. AI-Assisted / Automated Tracking \u00b7 4. Single Object Tracking (SOT) vs. Are there any software frameworks for object motion ... Are there any software frameworks for object motion tracking in videos? Complete Guide to Object Tracking: Best AI Models, Tools ... In this tutorial, we will show you the top AI models and automatic video annotation tools you can use to efficiently track objects on videos.",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f309a6ff7d6ab140536e",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/i75gRl-o2Mc7lJuIfNU8N9IMRlXWFXqUI4Xp5memKOA/6b02f309a6ff7d6ab140536e.json",
+      "markdown_endpoint": "https://serpapi.com/searches/i75gRl-o2Mc7lJuIfNU8N9IMRlXWFXqUI4Xp5memKOA/6b02f309a6ff7d6ab140536e.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/i75gRl-o2Mc7lJuIfNU8N9IMRlXWFXqUI4Xp5memKOA/6b02f309a6ff7d6ab140536e.json_with_pixel_position",
+      "created_at": "2026-11-22 13:50:01 UTC",
+      "processed_at": "2026-11-22 13:50:01 UTC",
+      "google_url": "https://www.google.com/search?q=What+are+the+best+tools+for+video+reframing+and+object+tracking%3F&oq=What+are+the+best+tools+for+video+reframing+and+object+tracking%3F&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/i75gRl-o2Mc7lJuIfNU8N9IMRlXWFXqUI4Xp5memKOA/6b02f309a6ff7d6ab140536e.html",
+      "total_time_taken": 4.49
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "What are the best tools for video reframing and object tracking?",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "What are the best tools for video reframing and object tracking?",
+      "total_results": 172,
+      "time_taken_displayed": 0.24,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "How to Do Object Tracking in Video Editing? - Movavi",
+        "link": "https://www.google.com/goto?url=CAEScQHEIkXXu5vmbJ4oRy9vr_M3Pp7tCstQoiq9H8L3uC1dLBkX-nDOuCqvphp9iDn57DDvjNvv8VxPkyrnBU2APaUXvN96KrMpU-MIDTimRLU_0khOfs02i63-lNtc0J8coVvoToDhNOhjJTah5GoPRn2a&gsessionid=DaWfV6kU5N26BRW6D97UEUeb1UoX7c_qLbp7Ckro5ffnkH1dAQXqmQ",
+        "thumbnail": "https://serpapi.com/searches/6b02f309a6ff7d6ab140536e/images/KWRvsgoJTEhvDRo2xNvV9FwbAv8__c7JG_bnO2DgSrM.webp",
+        "channel": "Movavi Vlog: Editing tips to show the real you",
+        "duration": "1:56",
+        "platform": "YouTube",
+        "date": "Jul 11, 2025",
+        "snippet": "Track objects in videos using Movavi Video Editor: attach captions, add stickers/emojis, or highlight/conceal with motion tracking.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQN9vyAJmi-iUmIX4_-AxoJJ6-SUgRlOm7m3g"
+      },
+      {
+        "position": 2,
+        "title": "8 Best Video Labeling Tools in 2026",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXV7xjS7stbkC-Y1FQoc5vtcLte2fl1rqpX6H_31XTwwDQbKrfu9piUT3maB-2bZXAl2lETmAqn-GYNCUeSQ_nGX2Zf3G4OF1R-6RWD8KkB9Bw5uMD8U6m0OnYgAMNc64fjcCg&gsessionid=DaWfV6kU5N26BRW6D97UEUeb1UoX7c_qLbp7Ckro5ffnkH1dAQXqmQ",
+        "thumbnail": "https://serpapi.com/searches/6b02f309a6ff7d6ab140536e/images/kQ02y6J00xHV90GB_5MwTY2EZL9cdYnit4jJbm0fVBM.webp",
+        "channel": "Labellerr AI",
+        "duration": "6:26",
+        "platform": "YouTube",
+        "date": "Mar 11, 2026",
+        "snippet": "Explore top video labeling tools like Levelair, Encord, Rooflow, Labelbox, CVAT, Supervisely, Dataloop, and CloudFactory for AI data.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT7HR06f7YN6gC26LNQaHXrbbW1wl8cJojHiA"
+      },
+      {
+        "position": 3,
+        "title": "Best Video Motion Capture Tool in 2026",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXX0d3IYDtiS-Q702Or0IsBn0gWc1QngBqxrvsr2Ms8GCszPbQht42Xyqol_5dAMt4wdTVmcaHojESOPS9sngv-Kcy8DU3QcbhqLg0O6fMlnARxSNEoPl2oLSxw3W6gME9pt0Uf&gsessionid=DaWfV6kU5N26BRW6D97UEUeb1UoX7c_qLbp7Ckro5ffnkH1dAQXqmQ",
+        "thumbnail": "https://serpapi.com/searches/6b02f309a6ff7d6ab140536e/images/9LtvVd4mTsQ6ILsdX8pVSmZiiat7CffXIlKYHsCNNMs.webp",
+        "channel": "Nils Gallist",
+        "duration": "35:16",
+        "platform": "YouTube",
+        "date": "Jan 6, 2026",
+        "snippet": "QuickMagic AI is the top motion capture tool for its quality, rig selection, and 120-second clips. Mimmi AI offers great value with 3-cam setup.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcROsBYs7ol9fxpUK6UcsiHfymnUe2TLJLaMRQ"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "How can I track an object in a video?",
+        "type": "ai_overview",
+        "page_token": "gNn2pXicHZNLjqNIEIYXc5aujUtdvNzVWCqNwOZpky4SMjG5sdKZ2DySh23KYHZzl7lH36NPM0wvIr6QQvrjVyjin39F0VS___qV9313X729DcPw_dK2F5F9Z239Ru_Phr2dW1Gc_87EjX2sr9omcCyJ2jqIYvADVn4elkyNbX0NMVJOqm9luFryg1nBetyG2DdxaW-iRkipWg3ZBpOs8m87zL-QEDGVeoqUPCQTeKSIqDAOpKTmBXaJBS1rYLgdsmosqEsmYtm7DOV20Ng1lnjNLTbwGJ5nH-gg4cM-9tM0GUvSWFrm3PtTJJP00DVgAwte-jJC8hAldk8OXccdUgVSN6GJnxE2R6p0FKPlbZ-kWlDxcm8zbY-wTSezRDV4AhmKVBBlnv8ZyaE2e7oH8UWJm6o_FXIRW6I_VSMAlgjD0q8DRXd4nXc0yQfqdGusyAhibGaFLHOVkD1a7oFAE5I5SGXWR5NwuSNrERIer32bboSTWfdniC8jdDAIDr4SSmMOMNwwJX1yNR-gEjwZ1q_A9ilMrAlWXNqhVGXJ8KRJt2SNuaMTj4HVKbCCUizbQZrkX8wGfTrZMpE6BdWeBGw0MDeHyA1VJnUw2IQyqqt5J-MIUe_EE7Y5hglSQwViEcW26eASlDDJldixxlRUAxXEB0mXE8k3U0m_JyVTqJo_Q0VHmZtrTL0oifNzGULvEKoEhIolIbmzYsFvzIUQbdIlQ-MYIkTXcjsi1w9g4hdRY5cv1w-3HRaMNgtv0d8oqxZz2Z7KjPWLolnQxaPgWftNtV_q_0_U8LTl4IdGYhjUMAfDM0yDXExjO3M7czdz15rGxbMGwzKfc0gXS0SOrnoOyE-F6XsufKYJuHmO_eU5ekFrXPK12c293HNJRxz8-NRnrf2slc08zzzPDF_-vMzH8Vz3q5py8Xqcc7vK-Oux4Ks_n3RcP4I11SKyAUnV9eHnD_26uxrWUX49jvfbeWW4n-9f5_ftbgj3j33rH5yt7plruUmuk1Q29D58Uw35XV-qy6UmKZr2_h-rYERU",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=gNn2pXicHZNLjqNIEIYXc5aujUtdvNzVWCqNwOZpky4SMjG5sdKZ2DySh23KYHZzl7lH36NPM0wvIr6QQvrjVyjin39F0VS___qV9313X729DcPw_dK2F5F9Z239Ru_Phr2dW1Gc_87EjX2sr9omcCyJ2jqIYvADVn4elkyNbX0NMVJOqm9luFryg1nBetyG2DdxaW-iRkipWg3ZBpOs8m87zL-QEDGVeoqUPCQTeKSIqDAOpKTmBXaJBS1rYLgdsmosqEsmYtm7DOV20Ng1lnjNLTbwGJ5nH-gg4cM-9tM0GUvSWFrm3PtTJJP00DVgAwte-jJC8hAldk8OXccdUgVSN6GJnxE2R6p0FKPlbZ-kWlDxcm8zbY-wTSezRDV4AhmKVBBlnv8ZyaE2e7oH8UWJm6o_FXIRW6I_VSMAlgjD0q8DRXd4nXc0yQfqdGusyAhibGaFLHOVkD1a7oFAE5I5SGXWR5NwuSNrERIer32bboSTWfdniC8jdDAIDr4SSmMOMNwwJX1yNR-gEjwZ1q_A9ilMrAlWXNqhVGXJ8KRJt2SNuaMTj4HVKbCCUizbQZrkX8wGfTrZMpE6BdWeBGw0MDeHyA1VJnUw2IQyqqt5J-MIUe_EE7Y5hglSQwViEcW26eASlDDJldixxlRUAxXEB0mXE8k3U0m_JyVTqJo_Q0VHmZtrTL0oifNzGULvEKoEhIolIbmzYsFvzIUQbdIlQ-MYIkTXcjsi1w9g4hdRY5cv1w-3HRaMNgtv0d8oqxZz2Z7KjPWLolnQxaPgWftNtV_q_0_U8LTl4IdGYhjUMAfDM0yDXExjO3M7czdz15rGxbMGwzKfc0gXS0SOrnoOyE-F6XsufKYJuHmO_eU5ekFrXPK12c293HNJRxz8-NRnrf2slc08zzzPDF_-vMzH8Vz3q5py8Xqcc7vK-Oux4Ks_n3RcP4I11SKyAUnV9eHnD_26uxrWUX49jvfbeWW4n-9f5_ftbgj3j33rH5yt7plruUmuk1Q29D58Uw35XV-qy6UmKZr2_h-rYERU",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlIybG9ValpvWjNST2FUQk5kV3BPTW5jeU9EQkhjVU5CYjNSUFMzRmhaVWhNZDJsUU1VUXhNMFUzYW5oNU9FcHZhRUl4VFU5ZlFVRXdNblV3Y21OcGNuTnhhVmxaZVcxRWMyOWtja293WlVORlpWOXdZWE5UVVdkTmR4SVhRM1pOUTJFMFUxcEVUbGRyY0hSUlVEWTVjVXh4UVVVYUlrRklUakJGTjBWcE1HOW5Xa2xCWDNCeFVFUndWVVYyVlhWaFMwaFRkM2xNTTJjIiwiZmN2IjoiMyIsImVpIjoiQ3ZNQ2E0U1pETldrcHRRUDY5cUxxQUUiLCJxYyI6IkNqOTNhR0YwSUdGeVpTQjBhR1VnWW1WemRDQjBiMjlzY3lCbWIzSWdkbWxrWlc4Z2NtVm1jbUZ0YVc1bklHRnVaQ0J2WW1wbFkzUWdkSEpoWTJ0cGJtY1FBSDBtUmhNXyIsInF1ZXN0aW9uIjoiSG93IGNhbiBJIHRyYWNrIGFuIG9iamVjdCBpbiBhIHZpZGVvPyIsImxrIjoiR2hoMGNtRmphMmx1WnlCdlltcGxZM1FnYVc0Z2RtbGtaVzgiLCJicyI6ImM0V1BQUXZDTUJDR2NiM0pVWUxEaWRSdUR2a0RRUVMxbzRQVzlScFRFejhTYUVLcl85NDJZQkVLdWgzM1BQY2VMNndoMmJrR0pWbk1NRlFrYjlpT3JyZ3FHZEJZSkt6TldUbkJHWnRFYk96bEMwY0lCMWptbXRxRng2QVZGc29IOUs0TURWVUtTMWZod3dYakxINENCSi16MlY4THRwQU9Zby1iVXlfMDE0SlBHWXU0THA5RERIdFk1TnBJamF1c0M0dG05NUFzM1YtLVUyTVBMM2pLa2lhYVpINmE0OUViIiwiaWQiOiJmY19Ddk1DYTRTWkROV2twdFFQNjlxTHFBRV8zIn0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlIybG9ValpvWjNST2FUQk5kV3BPTW5jeU9EQkhjVU5CYjNSUFMzRmhaVWhNZDJsUU1VUXhNMFUzYW5oNU9FcHZhRUl4VFU5ZlFVRXdNblV3Y21OcGNuTnhhVmxaZVcxRWMyOWtja293WlVORlpWOXdZWE5UVVdkTmR4SVhRM1pOUTJFMFUxcEVUbGRyY0hSUlVEWTVjVXh4UVVVYUlrRklUakJGTjBWcE1HOW5Xa2xCWDNCeFVFUndWVVYyVlhWaFMwaFRkM2xNTTJjIiwiZmN2IjoiMyIsImVpIjoiQ3ZNQ2E0U1pETldrcHRRUDY5cUxxQUUiLCJxYyI6IkNqOTNhR0YwSUdGeVpTQjBhR1VnWW1WemRDQjBiMjlzY3lCbWIzSWdkbWxrWlc4Z2NtVm1jbUZ0YVc1bklHRnVaQ0J2WW1wbFkzUWdkSEpoWTJ0cGJtY1FBSDBtUmhNXyIsInF1ZXN0aW9uIjoiSG93IGNhbiBJIHRyYWNrIGFuIG9iamVjdCBpbiBhIHZpZGVvPyIsImxrIjoiR2hoMGNtRmphMmx1WnlCdlltcGxZM1FnYVc0Z2RtbGtaVzgiLCJicyI6ImM0V1BQUXZDTUJDR2NiM0pVWUxEaWRSdUR2a0RRUVMxbzRQVzlScFRFejhTYUVLcl85NDJZQkVLdWgzM1BQY2VMNndoMmJrR0pWbk1NRlFrYjlpT3JyZ3FHZEJZSkt6TldUbkJHWnRFYk96bEMwY0lCMWptbXRxRng2QVZGc29IOUs0TURWVUtTMWZod3dYakxINENCSi16MlY4THRwQU9Zby1iVXlfMDE0SlBHWXU0THA5RERIdFk1TnBJamF1c0M0dG05NUFzM1YtLVUyTVBMM2pLa2lhYVpINmE0OUViIiwiaWQiOiJmY19Ddk1DYTRTWkROV2twdFFQNjlxTHFBRV8zIn0%3D"
+      },
+      {
+        "question": "What is the best software for motion tracking?",
+        "type": "ai_overview",
+        "page_token": "Uo-cy3icHZPNcqM4EMcP-yyTizMTIUwmTlVqC2wpmBhsPiRAF5dAfAtwbDIYbvsu-1R73CdZdg7dv_ofuqv7X91__S2rrvnnj3_LYbjcXp-exnH8UfR9IbMfad8-8dvUpU95L6v8z0xe07fttdjZ7whQvHH8iD274FK6dfkc4M3WowQmqoUy2mgiMhqvvX-41DJojXd-J0GsNmO2oyxrrOuBii8iZcDBwAksXTY7v2LCVC-wQdiKipoMeQiNKe3HrLlX3GQzQ_iQkRLbHW4pxDlH6SgCL_cjUR0RjcPaiuPwXrMOrTMTw0Nk1I5KpwOVrQgvUCgG9EPrFtNS2g1QPIwnV9HvJGSfBCpjisggIrblktIUNFDspMfgTfMiXPrkYiWhnDlINbfFTgzAne2sNcGGEtZsINRTDwE9ZUQxPUQVe-f5FDqNpwqYUVsJQvHsYLHjLdbsZjMf0aX2QTHzwGpYU55oUMZuJLtYXfYLvDWP2JU0zpQstS69rOMoVex58VFu7Kzbz8w0YGDup7TZeLYsVI8ISGr67Jjepx-IiQLR23VJXWADJ6DQbyy5zHM6BuWHXRtfQl0ULteJFPEhHOokIkuNq6YwnUXLDOErOEP0mlBvSzuPL3P7LCCARK7CavmemuWJhJfZpw6inT2mmN1TU9Q80NVgpk4EB8V-p3MirZBTakWwWHwwFB-UWKiychbjbPDiY-DAgDilgx3uIS3iqgEI1eExwnZKMH4vBmQ3aLQD6xK2Q0vdh8-3sOTDqrqthjJbJdltWN36fBj5NVvl_XXV9kPVd6vhytOm6opvKn5o_79cfb_WRsvVQ13nujHqe93QWWHoHws_Fh4WHnpDL_Zo1JExLQEK9EVhWYqtcUknA_B3UsQtnRc9J5ABAfHEfKNN1H2RhBvAw83X3vSmOHSuPNS602bpe1z6ZgvzhflC9-H3V72d83Z4bbmQj-cl96-ZeDxX4vX3s523v-wtX_ts54TNZXBPz5vPw6eOzvDxfL9d81fdPP38yrVGI9_nFyeR-HsxHf1T3CiVfrSKe6Z_U3Xl50ZTNW0N4Hr98h9YAE2_",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Uo-cy3icHZPNcqM4EMcP-yyTizMTIUwmTlVqC2wpmBhsPiRAF5dAfAtwbDIYbvsu-1R73CdZdg7dv_ofuqv7X91__S2rrvnnj3_LYbjcXp-exnH8UfR9IbMfad8-8dvUpU95L6v8z0xe07fttdjZ7whQvHH8iD274FK6dfkc4M3WowQmqoUy2mgiMhqvvX-41DJojXd-J0GsNmO2oyxrrOuBii8iZcDBwAksXTY7v2LCVC-wQdiKipoMeQiNKe3HrLlX3GQzQ_iQkRLbHW4pxDlH6SgCL_cjUR0RjcPaiuPwXrMOrTMTw0Nk1I5KpwOVrQgvUCgG9EPrFtNS2g1QPIwnV9HvJGSfBCpjisggIrblktIUNFDspMfgTfMiXPrkYiWhnDlINbfFTgzAne2sNcGGEtZsINRTDwE9ZUQxPUQVe-f5FDqNpwqYUVsJQvHsYLHjLdbsZjMf0aX2QTHzwGpYU55oUMZuJLtYXfYLvDWP2JU0zpQstS69rOMoVex58VFu7Kzbz8w0YGDup7TZeLYsVI8ISGr67Jjepx-IiQLR23VJXWADJ6DQbyy5zHM6BuWHXRtfQl0ULteJFPEhHOokIkuNq6YwnUXLDOErOEP0mlBvSzuPL3P7LCCARK7CavmemuWJhJfZpw6inT2mmN1TU9Q80NVgpk4EB8V-p3MirZBTakWwWHwwFB-UWKiychbjbPDiY-DAgDilgx3uIS3iqgEI1eExwnZKMH4vBmQ3aLQD6xK2Q0vdh8-3sOTDqrqthjJbJdltWN36fBj5NVvl_XXV9kPVd6vhytOm6opvKn5o_79cfb_WRsvVQ13nujHqe93QWWHoHws_Fh4WHnpDL_Zo1JExLQEK9EVhWYqtcUknA_B3UsQtnRc9J5ABAfHEfKNN1H2RhBvAw83X3vSmOHSuPNS602bpe1z6ZgvzhflC9-H3V72d83Z4bbmQj-cl96-ZeDxX4vX3s523v-wtX_ts54TNZXBPz5vPw6eOzvDxfL9d81fdPP38yrVGI9_nFyeR-HsxHf1T3CiVfrSKe6Z_U3Xl50ZTNW0N4Hr98h9YAE2_",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlIybG9ValpvWjNST2FUQk5kV3BPTW5jeU9EQkhjVU5CYjNSUFMzRmhaVWhNZDJsUU1VUXhNMFUzYW5oNU9FcHZhRUl4VFU5ZlFVRXdNblV3Y21OcGNuTnhhVmxaZVcxRWMyOWtja293WlVORlpWOXdZWE5UVVdkTmR4SVhRM1pOUTJFMFUxcEVUbGRyY0hSUlVEWTVjVXh4UVVVYUlrRklUakJGTjBWcE1HOW5Xa2xCWDNCeFVFUndWVVYyVlhWaFMwaFRkM2xNTTJjIiwiZmN2IjoiMyIsImVpIjoiQ3ZNQ2E0U1pETldrcHRRUDY5cUxxQUUiLCJxYyI6IkNqOTNhR0YwSUdGeVpTQjBhR1VnWW1WemRDQjBiMjlzY3lCbWIzSWdkbWxrWlc4Z2NtVm1jbUZ0YVc1bklHRnVaQ0J2WW1wbFkzUWdkSEpoWTJ0cGJtY1FBSDBtUmhNXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBzb2Z0d2FyZSBmb3IgbW90aW9uIHRyYWNraW5nPyIsImxrIjoiR2lGaVpYTjBJSE52Wm5SM1lYSmxJR1p2Y2lCdGIzUnBiMjRnZEhKaFkydHBibWMiLCJicyI6ImM0V1BQUXZDTUJDR2NiM0pVWUxEaWRSdUR2a0RRUVMxbzRQVzlScFRFejhTYUVLcl85NDJZQkVLdWgzM1BQY2VMNndoMmJrR0pWbk1NRlFrYjlpT3JyZ3FHZEJZSkt6TldUbkJHWnRFYk96bEMwY0lCMWptbXRxRng2QVZGc29IOUs0TURWVUtTMWZod3dYakxINENCSi16MlY4THRwQU9Zby1iVXlfMDE0SlBHWXU0THA5RERIdFk1TnBJamF1c0M0dG05NUFzM1YtLVUyTVBMM2pLa2lhYVpINmE0OUViIiwiaWQiOiJmY19Ddk1DYTRTWkROV2twdFFQNjlxTHFBRV8zIn0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlIybG9ValpvWjNST2FUQk5kV3BPTW5jeU9EQkhjVU5CYjNSUFMzRmhaVWhNZDJsUU1VUXhNMFUzYW5oNU9FcHZhRUl4VFU5ZlFVRXdNblV3Y21OcGNuTnhhVmxaZVcxRWMyOWtja293WlVORlpWOXdZWE5UVVdkTmR4SVhRM1pOUTJFMFUxcEVUbGRyY0hSUlVEWTVjVXh4UVVVYUlrRklUakJGTjBWcE1HOW5Xa2xCWDNCeFVFUndWVVYyVlhWaFMwaFRkM2xNTTJjIiwiZmN2IjoiMyIsImVpIjoiQ3ZNQ2E0U1pETldrcHRRUDY5cUxxQUUiLCJxYyI6IkNqOTNhR0YwSUdGeVpTQjBhR1VnWW1WemRDQjBiMjlzY3lCbWIzSWdkbWxrWlc4Z2NtVm1jbUZ0YVc1bklHRnVaQ0J2WW1wbFkzUWdkSEpoWTJ0cGJtY1FBSDBtUmhNXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBzb2Z0d2FyZSBmb3IgbW90aW9uIHRyYWNraW5nPyIsImxrIjoiR2lGaVpYTjBJSE52Wm5SM1lYSmxJR1p2Y2lCdGIzUnBiMjRnZEhKaFkydHBibWMiLCJicyI6ImM0V1BQUXZDTUJDR2NiM0pVWUxEaWRSdUR2a0RRUVMxbzRQVzlScFRFejhTYUVLcl85NDJZQkVLdWgzM1BQY2VMNndoMmJrR0pWbk1NRlFrYjlpT3JyZ3FHZEJZSkt6TldUbkJHWnRFYk96bEMwY0lCMWptbXRxRng2QVZGc29IOUs0TURWVUtTMWZod3dYakxINENCSi16MlY4THRwQU9Zby1iVXlfMDE0SlBHWXU0THA5RERIdFk1TnBJamF1c0M0dG05NUFzM1YtLVUyTVBMM2pLa2lhYVpINmE0OUViIiwiaWQiOiJmY19Ddk1DYTRTWkROV2twdFFQNjlxTHFBRV8zIn0%3D"
+      },
+      {
+        "question": "What is the best VFX tracking software?",
+        "type": "ai_overview",
+        "page_token": "o_SOeHicHZNLbuM4EIYXc5bOxklHz3QcIBhQMSlbsRhLFklJG4MiZdEW9Yitjmzv5i5zlb5En2Y0vfjqQy0KKBTq_-dffWjr33_9UsPQn18eH8dx_F51XaXL76JrHvn52orHfacP-79LfRKvb5_Pi9CHRoHmeJsET5GtVHSU1wTN32JKrMIOYElrV6ZeHTeX94gGHj2ixbbVRmbXY7mgeVkHpzWVP4nWCTcGTiwV5Tf8lZHcjpPQYI080GUOYwhHQbuxrC8HvsxvOUTrkigUtqihhmokFKNM4v02wTA1aFosgixjl2PeQqf0h2adekds02tq1La8BdaHj68YYpM1ruK1YWATWfwoDbpE13iprQLiPW60Ids-zszAyOGQ8FvlJCwmqZnrBOYdRThm095JjZlc1C6jMi18useQDgRiFJH5NYZqU9jID23VlUfdFmlnZsx9IpSuygYNZZqNRa3rxFBOZKGaNWaSL-KBpeIifFkXeu6ThfI51FbEOivSHuJLFCULpVPTew9ZrFirNTW1K5r-izNTiaMMtsvQTC3Vi7af7PaJH6xi6hF8jFeMoLpkeCOs6iJafcmPAcdImlHbDYU_OryVLfVlL250unG_Zb6E2wTtQxQ5kTGOopY9sSMntPEqX-ZdaNdDkgYn4aMtoXpMzJXFaMA4QTBriEnoPNwezJFYQ1oSxMq0sxIT3BJLbJGBrYRghRHmMXRTbnsGocD6SFEoCEJ-NWziRJ1yPxhzE5gY3H2-MsWH2eE8G1Q5K8rzMKMonQ0nLupDW83O3X4Y-an8ZqO75v83BSvHHYMIMAA48EawAh7IKw-8T36fvJ687jxQreAIoHedMCrYUksp-eb14uoZ3CdV1tDb1LNYV5VcBiqzhr5oRCWseSOXUomG7CwAgTPNP008TzxM3P0Jzutu3wwvDZf6fjfV7qWU97uDfPmTp93bV_jGnW2-wKzuh2jzNP9cfwK4s-93l_Np_wKWmx8_927tkofbMy40eqiuH9tNVpsH8BFUlxJ8s4H5Y-7arusYluM8_wcerER_",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=o_SOeHicHZNLbuM4EIYXc5bOxklHz3QcIBhQMSlbsRhLFklJG4MiZdEW9Yitjmzv5i5zlb5En2Y0vfjqQy0KKBTq_-dffWjr33_9UsPQn18eH8dx_F51XaXL76JrHvn52orHfacP-79LfRKvb5_Pi9CHRoHmeJsET5GtVHSU1wTN32JKrMIOYElrV6ZeHTeX94gGHj2ixbbVRmbXY7mgeVkHpzWVP4nWCTcGTiwV5Tf8lZHcjpPQYI080GUOYwhHQbuxrC8HvsxvOUTrkigUtqihhmokFKNM4v02wTA1aFosgixjl2PeQqf0h2adekds02tq1La8BdaHj68YYpM1ruK1YWATWfwoDbpE13iprQLiPW60Ids-zszAyOGQ8FvlJCwmqZnrBOYdRThm095JjZlc1C6jMi18useQDgRiFJH5NYZqU9jID23VlUfdFmlnZsx9IpSuygYNZZqNRa3rxFBOZKGaNWaSL-KBpeIifFkXeu6ThfI51FbEOivSHuJLFCULpVPTew9ZrFirNTW1K5r-izNTiaMMtsvQTC3Vi7af7PaJH6xi6hF8jFeMoLpkeCOs6iJafcmPAcdImlHbDYU_OryVLfVlL250unG_Zb6E2wTtQxQ5kTGOopY9sSMntPEqX-ZdaNdDkgYn4aMtoXpMzJXFaMA4QTBriEnoPNwezJFYQ1oSxMq0sxIT3BJLbJGBrYRghRHmMXRTbnsGocD6SFEoCEJ-NWziRJ1yPxhzE5gY3H2-MsWH2eE8G1Q5K8rzMKMonQ0nLupDW83O3X4Y-an8ZqO75v83BSvHHYMIMAA48EawAh7IKw-8T36fvJ687jxQreAIoHedMCrYUksp-eb14uoZ3CdV1tDb1LNYV5VcBiqzhr5oRCWseSOXUomG7CwAgTPNP008TzxM3P0Jzutu3wwvDZf6fjfV7qWU97uDfPmTp93bV_jGnW2-wKzuh2jzNP9cfwK4s-93l_Np_wKWmx8_927tkofbMy40eqiuH9tNVpsH8BFUlxJ8s4H5Y-7arusYluM8_wcerER_",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlIybG9ValpvWjNST2FUQk5kV3BPTW5jeU9EQkhjVU5CYjNSUFMzRmhaVWhNZDJsUU1VUXhNMFUzYW5oNU9FcHZhRUl4VFU5ZlFVRXdNblV3Y21OcGNuTnhhVmxaZVcxRWMyOWtja293WlVORlpWOXdZWE5UVVdkTmR4SVhRM1pOUTJFMFUxcEVUbGRyY0hSUlVEWTVjVXh4UVVVYUlrRklUakJGTjBWcE1HOW5Xa2xCWDNCeFVFUndWVVYyVlhWaFMwaFRkM2xNTTJjIiwiZmN2IjoiMyIsImVpIjoiQ3ZNQ2E0U1pETldrcHRRUDY5cUxxQUUiLCJxYyI6IkNqOTNhR0YwSUdGeVpTQjBhR1VnWW1WemRDQjBiMjlzY3lCbWIzSWdkbWxrWlc4Z2NtVm1jbUZ0YVc1bklHRnVaQ0J2WW1wbFkzUWdkSEpoWTJ0cGJtY1FBSDBtUmhNXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBWRlggdHJhY2tpbmcgc29mdHdhcmU/IiwibGsiOiJHaHBpWlhOMElIWm1lQ0IwY21GamEybHVaeUJ6YjJaMGQyRnlaUSIsImJzIjoiYzRXUFBRdkNNQkNHY2IzSlVZTERpZFJ1RHZrRFFRUzFvNFBXOVJwVEV6OFNhRUtyXzk0MllCRUt1aDMzUFBjZUw2d2gyYmtHSlZuTU1GUWtiOWlPcnJncUdkQllKS3pOV1RuQkdadEViT3psQzBjSUIxam1tdHFGeDZBVkZzb0g5SzRNRFZVS1MxZmh3d1hqTEg0Q0JKLXoyVjhMdHBBT1lvLWJVeV8wMTRKUEdZdTRMcDlEREh0WTVOcElqYXVzQzR0bTk1QXMzVi0tVTJNUEwzaktraWFhWkg2YTQ5RWIiLCJpZCI6ImZjX0N2TUNhNFNaRE5Xa3B0UVA2OXFMcUFFXzMifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlIybG9ValpvWjNST2FUQk5kV3BPTW5jeU9EQkhjVU5CYjNSUFMzRmhaVWhNZDJsUU1VUXhNMFUzYW5oNU9FcHZhRUl4VFU5ZlFVRXdNblV3Y21OcGNuTnhhVmxaZVcxRWMyOWtja293WlVORlpWOXdZWE5UVVdkTmR4SVhRM1pOUTJFMFUxcEVUbGRyY0hSUlVEWTVjVXh4UVVVYUlrRklUakJGTjBWcE1HOW5Xa2xCWDNCeFVFUndWVVYyVlhWaFMwaFRkM2xNTTJjIiwiZmN2IjoiMyIsImVpIjoiQ3ZNQ2E0U1pETldrcHRRUDY5cUxxQUUiLCJxYyI6IkNqOTNhR0YwSUdGeVpTQjBhR1VnWW1WemRDQjBiMjlzY3lCbWIzSWdkbWxrWlc4Z2NtVm1jbUZ0YVc1bklHRnVaQ0J2WW1wbFkzUWdkSEpoWTJ0cGJtY1FBSDBtUmhNXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBWRlggdHJhY2tpbmcgc29mdHdhcmU%2FIiwibGsiOiJHaHBpWlhOMElIWm1lQ0IwY21GamEybHVaeUJ6YjJaMGQyRnlaUSIsImJzIjoiYzRXUFBRdkNNQkNHY2IzSlVZTERpZFJ1RHZrRFFRUzFvNFBXOVJwVEV6OFNhRUtyXzk0MllCRUt1aDMzUFBjZUw2d2gyYmtHSlZuTU1GUWtiOWlPcnJncUdkQllKS3pOV1RuQkdadEViT3psQzBjSUIxam1tdHFGeDZBVkZzb0g5SzRNRFZVS1MxZmh3d1hqTEg0Q0JKLXoyVjhMdHBBT1lvLWJVeV8wMTRKUEdZdTRMcDlEREh0WTVOcElqYXVzQzR0bTk1QXMzVi0tVTJNUEwzaktraWFhWkg2YTQ5RWIiLCJpZCI6ImZjX0N2TUNhNFNaRE5Xa3B0UVA2OXFMcUFFXzMifQ%3D%3D"
+      },
+      {
+        "question": "Which AI is best for analysing videos?",
+        "type": "ai_overview",
+        "page_token": "2qPNVnicHZPNjqM4AIQP-yzTl_RM89vTidRaQWJCSIBgsA2-RA4mQDCQH9JAbvMu-1CrfZpl5lBVUh0_Vf36R5RN9d9f_xZdd7kv3t76vv-Rt20ush9pW7-x-9ikb6dWlKe_M3FLP5e3j5W7BlIi5l4YO-_QNovgLFBkzZcQI-WoOiDDlc5js4L1sA2wY-KztQobISVq1WcrTLPKue0wfyAhIiZ1DClFQJ_eV4KoCiNXIjUvsU0BBKBPcdtn1VAymz4psHYZKiy3sWqseCcG0p5H8BTGqeoDnIRnJ0nIcKYN0DLbkVPSFUl8uaZk_mArRw5JoB4l3tCKvzMFsghoXaAmPbYdRGtJDqtWT9HAqMr9CHQlOVuQ1Z0ZqBZCa2uEaq6xp7dOnmhIJZ3QpdQdpYH5K37117CHEhUwwg2th727giGWpPGI8c0ngQbj4uEDumQi1VyS9Edw8Vwh3lnlObSWdySUbUh4Sy2HuuLCYhWH3hqekORtEzLXcERPKYa_-5sbpU8cm1ssVWO0Fo5vOTYXovAtLodItriEC17KdkjuPVLNjYvmcSyLcWK286NiN7F6ZDFUMHYUJIz-uG4nXsJE60vr1UXsWhc_IP3AFE2f-ntYe5WL4INjocK60FE1rxJ1o2ZAPFNF3LBteYnibWENSSDECIEOfRvKE-Mbw3jMan0ZKvqegEqnjeW6tbj6wOkieSPhM_R3yO1BwVe8kldJBCNSQR8rXc8tK_DOYohsy4Sw3WUkVwIZj7iGHlqnL9dPUpRpMTM2s_I-O2b3bnZqbzPWMDHeyyaffZU8a-_fVOul_j1dY6PpvRMYxDCYYfbGxjANmpvGdsrtlLspd61p5BvQG8AcJ0k5mKZWXBIlzwNU5Sx286TGT74066O6yROiF0dbPBnRm41NL3SNv9LnITGCVW4Edjupn6QZAXj586XPw6nuFjXj4vUwebvI-Ouh5Is_Fzssv9wl00K68kh16YL9-_y6uxrgoL0ehvvttDDs_c_HSa909P354R2F9T0f_XCfVHJp-E4-ZMY31ZB_znVV1zVJ0bSP_wFMwky5",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=2qPNVnicHZPNjqM4AIQP-yzTl_RM89vTidRaQWJCSIBgsA2-RA4mQDCQH9JAbvMu-1CrfZpl5lBVUh0_Vf36R5RN9d9f_xZdd7kv3t76vv-Rt20ush9pW7-x-9ikb6dWlKe_M3FLP5e3j5W7BlIi5l4YO-_QNovgLFBkzZcQI-WoOiDDlc5js4L1sA2wY-KztQobISVq1WcrTLPKue0wfyAhIiZ1DClFQJ_eV4KoCiNXIjUvsU0BBKBPcdtn1VAymz4psHYZKiy3sWqseCcG0p5H8BTGqeoDnIRnJ0nIcKYN0DLbkVPSFUl8uaZk_mArRw5JoB4l3tCKvzMFsghoXaAmPbYdRGtJDqtWT9HAqMr9CHQlOVuQ1Z0ZqBZCa2uEaq6xp7dOnmhIJZ3QpdQdpYH5K37117CHEhUwwg2th727giGWpPGI8c0ngQbj4uEDumQi1VyS9Edw8Vwh3lnlObSWdySUbUh4Sy2HuuLCYhWH3hqekORtEzLXcERPKYa_-5sbpU8cm1ssVWO0Fo5vOTYXovAtLodItriEC17KdkjuPVLNjYvmcSyLcWK286NiN7F6ZDFUMHYUJIz-uG4nXsJE60vr1UXsWhc_IP3AFE2f-ntYe5WL4INjocK60FE1rxJ1o2ZAPFNF3LBteYnibWENSSDECIEOfRvKE-Mbw3jMan0ZKvqegEqnjeW6tbj6wOkieSPhM_R3yO1BwVe8kldJBCNSQR8rXc8tK_DOYohsy4Sw3WUkVwIZj7iGHlqnL9dPUpRpMTM2s_I-O2b3bnZqbzPWMDHeyyaffZU8a-_fVOul_j1dY6PpvRMYxDCYYfbGxjANmpvGdsrtlLspd61p5BvQG8AcJ0k5mKZWXBIlzwNU5Sx286TGT74066O6yROiF0dbPBnRm41NL3SNv9LnITGCVW4Edjupn6QZAXj586XPw6nuFjXj4vUwebvI-Ouh5Is_Fzssv9wl00K68kh16YL9-_y6uxrgoL0ehvvttDDs_c_HSa909P354R2F9T0f_XCfVHJp-E4-ZMY31ZB_znVV1zVJ0bSP_wFMwky5",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlIybG9ValpvWjNST2FUQk5kV3BPTW5jeU9EQkhjVU5CYjNSUFMzRmhaVWhNZDJsUU1VUXhNMFUzYW5oNU9FcHZhRUl4VFU5ZlFVRXdNblV3Y21OcGNuTnhhVmxaZVcxRWMyOWtja293WlVORlpWOXdZWE5UVVdkTmR4SVhRM1pOUTJFMFUxcEVUbGRyY0hSUlVEWTVjVXh4UVVVYUlrRklUakJGTjBWcE1HOW5Xa2xCWDNCeFVFUndWVVYyVlhWaFMwaFRkM2xNTTJjIiwiZmN2IjoiMyIsImVpIjoiQ3ZNQ2E0U1pETldrcHRRUDY5cUxxQUUiLCJxYyI6IkNqOTNhR0YwSUdGeVpTQjBhR1VnWW1WemRDQjBiMjlzY3lCbWIzSWdkbWxrWlc4Z2NtVm1jbUZ0YVc1bklHRnVaQ0J2WW1wbFkzUWdkSEpoWTJ0cGJtY1FBSDBtUmhNXyIsInF1ZXN0aW9uIjoiV2hpY2ggQUkgaXMgYmVzdCBmb3IgYW5hbHlzaW5nIHZpZGVvcz8iLCJsayI6IkdpVjNhR2xqYUNCaGFTQnBjeUJpWlhOMElHWnZjaUJoYm1Gc2VYTnBibWNnZG1sa1pXOXoiLCJicyI6ImM0V1BQUXZDTUJDR2NiM0pVWUxEaWRSdUR2a0RRUVMxbzRQVzlScFRFejhTYUVLcl85NDJZQkVLdWgzM1BQY2VMNndoMmJrR0pWbk1NRlFrYjlpT3JyZ3FHZEJZSkt6TldUbkJHWnRFYk96bEMwY0lCMWptbXRxRng2QVZGc29IOUs0TURWVUtTMWZod3dYakxINENCSi16MlY4THRwQU9Zby1iVXlfMDE0SlBHWXU0THA5RERIdFk1TnBJamF1c0M0dG05NUFzM1YtLVUyTVBMM2pLa2lhYVpINmE0OUViIiwiaWQiOiJmY19Ddk1DYTRTWkROV2twdFFQNjlxTHFBRV8zIn0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlIybG9ValpvWjNST2FUQk5kV3BPTW5jeU9EQkhjVU5CYjNSUFMzRmhaVWhNZDJsUU1VUXhNMFUzYW5oNU9FcHZhRUl4VFU5ZlFVRXdNblV3Y21OcGNuTnhhVmxaZVcxRWMyOWtja293WlVORlpWOXdZWE5UVVdkTmR4SVhRM1pOUTJFMFUxcEVUbGRyY0hSUlVEWTVjVXh4UVVVYUlrRklUakJGTjBWcE1HOW5Xa2xCWDNCeFVFUndWVVYyVlhWaFMwaFRkM2xNTTJjIiwiZmN2IjoiMyIsImVpIjoiQ3ZNQ2E0U1pETldrcHRRUDY5cUxxQUUiLCJxYyI6IkNqOTNhR0YwSUdGeVpTQjBhR1VnWW1WemRDQjBiMjlzY3lCbWIzSWdkbWxrWlc4Z2NtVm1jbUZ0YVc1bklHRnVaQ0J2WW1wbFkzUWdkSEpoWTJ0cGJtY1FBSDBtUmhNXyIsInF1ZXN0aW9uIjoiV2hpY2ggQUkgaXMgYmVzdCBmb3IgYW5hbHlzaW5nIHZpZGVvcz8iLCJsayI6IkdpVjNhR2xqYUNCaGFTQnBjeUJpWlhOMElHWnZjaUJoYm1Gc2VYTnBibWNnZG1sa1pXOXoiLCJicyI6ImM0V1BQUXZDTUJDR2NiM0pVWUxEaWRSdUR2a0RRUVMxbzRQVzlScFRFejhTYUVLcl85NDJZQkVLdWgzM1BQY2VMNndoMmJrR0pWbk1NRlFrYjlpT3JyZ3FHZEJZSkt6TldUbkJHWnRFYk96bEMwY0lCMWptbXRxRng2QVZGc29IOUs0TURWVUtTMWZod3dYakxINENCSi16MlY4THRwQU9Zby1iVXlfMDE0SlBHWXU0THA5RERIdFk1TnBJamF1c0M0dG05NUFzM1YtLVUyTVBMM2pLa2lhYVpINmE0OUViIiwiaWQiOiJmY19Ddk1DYTRTWkROV2twdFFQNjlxTHFBRV8zIn0%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "k1IlUXiczVbZcvI2FJ7pXWf6GvUNCdhsgcx4MrIR4LA6BCi5YYwQsvEisA2EXP7P0qs-TB-gr9EXqLyQ2MRk6U17ZuxjSWfT0fl0_ON3y3DMv35Z6L6_8W4LhcPhkCeUEgvnEbULmnd0UGFFLc9F-p1Hdy7CxlJEukttzEXjeJSnC063ROxwxBJ3HnfciyUOeSLPYUOU9z1ZK4-eGv2pufHVYbW-7W4B5EL74nyheXjN3D-vvcK8wF7mr6UGG-S9PHbyCt4unGYRTDYgX-SLpfygoNlMAPy3BCWgEMZNAMhHcpL6VYuqzqwC-VwfRjwx3wOBTwXISrRyyf8oMBpoylIYMXsGYLUemi321T9JjZVP4pJTMU3jsCJmnof7BYpVgx2kJj6ijCSGeem8jeXztSxqpVekWQM0Dgnz77aTcBCpjoPXATTLwx5QVfWipxMx050Z4C3wSZ2cIhrX70c-05IKS8KqnC8sXMaEgoF0FH64XlD88mOdp63uoLUuziV1q-0G6r4FYN_HwwOE3TIooAWTs6i2xMu5PufvwrFQFCp8vXRTuwpRh7xX2HlJ2LnU432n1rv2-Xw3LwknzKV3e54sVVFAVjERiZxSkaZXA2oyz2EaziTNlOdmzHUgUZUppxbVDuwmhRhcGixfNZJM_5uG_AHmziisWBobGMdTIF1t6gzAUZafgAaZZoN9hF7TzlrxhyKdAj9EFsl7zD0ARQ3TG6c4dTlK7IaQWILV4KboMHVfJqGsUg7ii08MqhAqEEDyppYgGWZsB8iJSJgeDKQOgEBg7hQoK0Y8DUInhESeJJW8mgl9yO9RF1KPzTf1zKUvEfzKxRJFcQLZGWaSWGs-D9v80GrVfrtvPL0YtLQmtV7nHs8HjUM2tqi9-EZPQ_979J06nhWX_UX0BZ6-hD5V_wh9WR0vQp9sXkDfKEJfdscbnqTOOt579MnASKAv7njPkcWMjvd99Emfoy95XEn0vR1VCn3wEvpaMI2-2RqeOl42-mIHb-j7tx1P-n7HC0GII5Zuf7s1udgGIUJw1emPxsft1iOWsJy6xel2scNTTD5tgyvbv7W1pXU1N5a3UvHePy6v5myC3uIltxWnuubnNBfnfB3nFtjzcz5l_8O5FXVze2OJac7FK1ezDYfkNGeZo4s1RkzI1ZDJ5u4423KpyGvVIdjV60Ba696w7E2O_cGxXTOvB8XqEUjVzaZIm8p8KDR31137SZW0cUXAj7pSQWVpve_fKKOW0UGoM-hOn8u0adHxkAoKVNBk3J5OdB4Kqv_MHy3XaBH4CPtlp913Js4LlAaL8SMQKrOXg2_3w2g80TQmyLfLD-2qybGtelgUONtFIquEMgF9NfjJ04B0APdh6UoPW8a7rF4WVAJqewbUBmEPZYfGeUibY28vomqlhCo8jzRtdbPCK84m_nEj1nnOc1xR-AO5WPPZGWj-n-ZPf__8D--JiZA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=k1IlUXiczVbZcvI2FJ7pXWf6GvUNCdhsgcx4MrIR4LA6BCi5YYwQsvEisA2EXP7P0qs-TB-gr9EXqLyQ2MRk6U17ZuxjSWfT0fl0_ON3y3DMv35Z6L6_8W4LhcPhkCeUEgvnEbULmnd0UGFFLc9F-p1Hdy7CxlJEukttzEXjeJSnC063ROxwxBJ3HnfciyUOeSLPYUOU9z1ZK4-eGv2pufHVYbW-7W4B5EL74nyheXjN3D-vvcK8wF7mr6UGG-S9PHbyCt4unGYRTDYgX-SLpfygoNlMAPy3BCWgEMZNAMhHcpL6VYuqzqwC-VwfRjwx3wOBTwXISrRyyf8oMBpoylIYMXsGYLUemi321T9JjZVP4pJTMU3jsCJmnof7BYpVgx2kJj6ijCSGeem8jeXztSxqpVekWQM0Dgnz77aTcBCpjoPXATTLwx5QVfWipxMx050Z4C3wSZ2cIhrX70c-05IKS8KqnC8sXMaEgoF0FH64XlD88mOdp63uoLUuziV1q-0G6r4FYN_HwwOE3TIooAWTs6i2xMu5PufvwrFQFCp8vXRTuwpRh7xX2HlJ2LnU432n1rv2-Xw3LwknzKV3e54sVVFAVjERiZxSkaZXA2oyz2EaziTNlOdmzHUgUZUppxbVDuwmhRhcGixfNZJM_5uG_AHmziisWBobGMdTIF1t6gzAUZafgAaZZoN9hF7TzlrxhyKdAj9EFsl7zD0ARQ3TG6c4dTlK7IaQWILV4KboMHVfJqGsUg7ii08MqhAqEEDyppYgGWZsB8iJSJgeDKQOgEBg7hQoK0Y8DUInhESeJJW8mgl9yO9RF1KPzTf1zKUvEfzKxRJFcQLZGWaSWGs-D9v80GrVfrtvPL0YtLQmtV7nHs8HjUM2tqi9-EZPQ_979J06nhWX_UX0BZ6-hD5V_wh9WR0vQp9sXkDfKEJfdscbnqTOOt579MnASKAv7njPkcWMjvd99Emfoy95XEn0vR1VCn3wEvpaMI2-2RqeOl42-mIHb-j7tx1P-n7HC0GII5Zuf7s1udgGIUJw1emPxsft1iOWsJy6xel2scNTTD5tgyvbv7W1pXU1N5a3UvHePy6v5myC3uIltxWnuubnNBfnfB3nFtjzcz5l_8O5FXVze2OJac7FK1ezDYfkNGeZo4s1RkzI1ZDJ5u4423KpyGvVIdjV60Ba696w7E2O_cGxXTOvB8XqEUjVzaZIm8p8KDR31137SZW0cUXAj7pSQWVpve_fKKOW0UGoM-hOn8u0adHxkAoKVNBk3J5OdB4Kqv_MHy3XaBH4CPtlp913Js4LlAaL8SMQKrOXg2_3w2g80TQmyLfLD-2qybGtelgUONtFIquEMgF9NfjJ04B0APdh6UoPW8a7rF4WVAJqewbUBmEPZYfGeUibY28vomqlhCo8jzRtdbPCK84m_nEj1nnOc1xR-AO5WPPZGWj-n-ZPf__8D--JiZA"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Poor man's intelligent reframing for GoPro videos - Medium",
+        "link": "https://pacavaca.medium.com/poor-mans-intelligent-reframing-for-gopro-videos-c9bb489512db",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlgEBxCJF1zUk2UdtYdnnZ2N52QGm7ghc03Xz4MwPBqFsOZeiZGyWOKgjnL-TlVd55zP_8DPBqZn3ObQlypt0qUejQgq_fjFhpf3GpI6_hEPfIfi33fJU1SZovXN-TwfLkdHv2c1ndlDS-dkT6EACdz2PRtCZkcUPAZC6eYkQv4QCJ9u_n3gCC_DLR3Q3dc_8KpnNujtnkVc&ved=2ahUKEwiExvmH3JuYAxVVkokEHWvtAhUQFnoECB4QAQ&uoh=1",
+        "displayed_link": "2 years ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEVHcEwAAAAAAAAAAAAAAAAAAABwcHCoqKifn58bGxt8fHzKysr___8rKyv5-fnW1tbp6emQkJCsrKxaWlq0tLTBwcE-Pj777dpoAAAABnRSTlMAS8D5_5mXKh4CAAAA3ElEQVR4AXzRUQ6EIAwEUNRZClgFQb3_UbfQEDUbd76qL5WMGGOGccJPpnEwkg9e8pE9vGYw4zuOZnrHyeBPFC055zw0wTkKN8TMzEHHZWWOuCMJJh03QXpgrlr0IzLmB-6L4KzHZ0Ub947-EF3q4rI3zByuzSLogDOiYeCICxGZVxmsYuR8x9DaJFQkL3UoX-iTvNg2xbPVvrB37ZgfeGr7_tl0Q_2HXjEjSe0HWnlWJGz1DEXEAsla2lyXcIj2K6O6Wvr1kQXCnL7DG9l4kwneBIY3aeJN1HizAwDOfRO3mlC3PQAAAABJRU5ErkJggg.png",
+        "snippet": "I settled on OpenCV, YOLO for object detection, and DeepSort with CLIP embedder for tracking. track them across frames using DeepSORT and CLIP",
+        "snippet_highlighted_words": [
+          "object",
+          "tracking",
+          "track"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "I settled on OpenCV, YOLO for object detection, and DeepSort with CLIP embedder for tracking. track them across frames using DeepSORT and CLIP",
+            "source_info_link": "https://pacavaca.medium.com/poor-mans-intelligent-reframing-for-gopro-videos-c9bb489512db",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEVHcEwAAAAAAAAAAAAAAAAAAABwcHCoqKifn58bGxt8fHzKysr___8rKyv5-fnW1tbp6emQkJCsrKxaWlq0tLTBwcE-Pj777dpoAAAABnRSTlMAS8D5_5mXKh4CAAAA3ElEQVR4AXzRUQ6EIAwEUNRZClgFQb3_UbfQEDUbd76qL5WMGGOGccJPpnEwkg9e8pE9vGYw4zuOZnrHyeBPFC055zw0wTkKN8TMzEHHZWWOuCMJJh03QXpgrlr0IzLmB-6L4KzHZ0Ub947-EF3q4rI3zByuzSLogDOiYeCICxGZVxmsYuR8x9DaJFQkL3UoX-iTvNg2xbPVvrB37ZgfeGr7_tl0Q_2HXjEjSe0HWnlWJGz1DEXEAsla2lyXcIj2K6O6Wvr1kQXCnL7DG9l4kwneBIY3aeJN1HizAwDOfRO3mlC3PQAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCeENKRjE3X1g2RU5Pa2k5cGFhVjBBN1NnelZGLXBZNTQ5Y3VjRl9fczVHLUs0ZEd3X3JRVnI0Xy13Mk5SbXpKZEU0cy1ZTVBBdF84c2NndTJNZDNnQXZPVGdJd0tkWlo3bE5BdVVyUTVkeWVSR2l5Y2JzUnZvdEZKZWg1dkYzTVNyMXVDRXFCblpzM2FwWG9tazlQVDZhS3N3cXpVZU5yZmdoRU82cC1Canh3MFJ3M3RzdUI1ZUdGLWRhWENva0hQRmc2aVhPcxIEGgIIABqhBxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD9BggAEAAYACAAKiEKBHdoYXQVBGGpPhoFZ3JlYXQaBnRvcCAxMBoFd2hhdHMqCgoDYXJlFQAAAAAqCgoDdGhlFQAAAAAqTQoEYmVzdBUwHXA-GgdiZXN0ZXN0Ggllc3NlbnRpYWwaBWdyZWF0GgdwZXJmZWN0Gglzb21lIGdvb2QaBnRvcCAxMBoJYmVzdHRvb2xzKjQKBXRvb2xzFYWz-D0aCWVxdWlwbWVudBoHcHJvZ3JhbRoHdG9vbCB0bxoJYmVzdHRvb2xzKgoKA2ZvchUAAAAAKhQKBXZpZGVvFW5SeD8aBnZpZGVvcypJCglyZWZyYW1pbmcVxCvGPxoHcmVmcmFtZRoIcmVmcmFtZWQaDml2O3A7cmVmcmFtaW5nGglyZWNvcmRpbmcaCXJlcG9ydGluZyoKCgNhbmQVAAAAAComCgZvYmplY3QVxWm0PhoHb2JqZWN0cxoOb2JqZWN0dHJhY2tpbmcqJgoIdHJhY2tpbmcVVn8VPxoFdHJhY2saDm9iamVjdHRyYWNraW5nMtkBL2dvdG8_dXJsPUNBRVNsZ0VCeENKRjE3X1g2RU5Pa2k5cGFhVjBBN1NnelZGLXBZNTQ5Y3VjRl9fczVHLUs0ZEd3X3JRVnI0Xy13Mk5SbXpKZEU0cy1ZTVBBdF84c2NndTJNZDNnQXZPVGdJd0tkWlo3bE5BdVVyUTVkeWVSR2l5Y2JzUnZvdEZKZWg1dkYzTVNyMXVDRXFCblpzM2FwWG9tazlQVDZhS3N3cXpVZU5yZmdoRU82cC1Canh3MFJ3M3RzdUI1ZUdGLWRhWENva0hQRmc2aVhPczpMUG9vciBtYW4mIzM5O3MgaW50ZWxsaWdlbnQgPGI-cmVmcmFtaW5nPC9iPiBmb3IgR29Qcm8gPGI-dmlkZW9zPC9iPiAtIE1lZGl1bUKjAUkgc2V0dGxlZCBvbiBPcGVuQ1YsIFlPTE8gZm9yIDxiPm9iamVjdDwvYj4gZGV0ZWN0aW9uLCBhbmQgRGVlcFNvcnQgd2l0aCBDTElQIGVtYmVkZGVyIGZvciA8Yj50cmFja2luZzwvYj4uIDxiPnRyYWNrPC9iPiB0aGVtIGFjcm9zcyBmcmFtZXMgdXNpbmcgRGVlcFNPUlQgYW5kIENMSVBKA2ZvckoDYXJlSgN0aGVKA2FuZFIGdG9wIDEwIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCeENKRjE3X1g2RU5Pa2k5cGFhVjBBN1NnelZGLXBZNTQ5Y3VjRl9fczVHLUs0ZEd3X3JRVnI0Xy13Mk5SbXpKZEU0cy1ZTVBBdF84c2NndTJNZDNnQXZPVGdJd0tkWlo3bE5BdVVyUTVkeWVSR2l5Y2JzUnZvdEZKZWg1dkYzTVNyMXVDRXFCblpzM2FwWG9tazlQVDZhS3N3cXpVZU5yZmdoRU82cC1Canh3MFJ3M3RzdUI1ZUdGLWRhWENva0hQRmc2aVhPcxIEGgIIABqhBxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD9BggAEAAYACAAKiEKBHdoYXQVBGGpPhoFZ3JlYXQaBnRvcCAxMBoFd2hhdHMqCgoDYXJlFQAAAAAqCgoDdGhlFQAAAAAqTQoEYmVzdBUwHXA-GgdiZXN0ZXN0Ggllc3NlbnRpYWwaBWdyZWF0GgdwZXJmZWN0Gglzb21lIGdvb2QaBnRvcCAxMBoJYmVzdHRvb2xzKjQKBXRvb2xzFYWz-D0aCWVxdWlwbWVudBoHcHJvZ3JhbRoHdG9vbCB0bxoJYmVzdHRvb2xzKgoKA2ZvchUAAAAAKhQKBXZpZGVvFW5SeD8aBnZpZGVvcypJCglyZWZyYW1pbmcVxCvGPxoHcmVmcmFtZRoIcmVmcmFtZWQaDml2O3A7cmVmcmFtaW5nGglyZWNvcmRpbmcaCXJlcG9ydGluZyoKCgNhbmQVAAAAAComCgZvYmplY3QVxWm0PhoHb2JqZWN0cxoOb2JqZWN0dHJhY2tpbmcqJgoIdHJhY2tpbmcVVn8VPxoFdHJhY2saDm9iamVjdHRyYWNraW5nMtkBL2dvdG8_dXJsPUNBRVNsZ0VCeENKRjE3X1g2RU5Pa2k5cGFhVjBBN1NnelZGLXBZNTQ5Y3VjRl9fczVHLUs0ZEd3X3JRVnI0Xy13Mk5SbXpKZEU0cy1ZTVBBdF84c2NndTJNZDNnQXZPVGdJd0tkWlo3bE5BdVVyUTVkeWVSR2l5Y2JzUnZvdEZKZWg1dkYzTVNyMXVDRXFCblpzM2FwWG9tazlQVDZhS3N3cXpVZU5yZmdoRU82cC1Canh3MFJ3M3RzdUI1ZUdGLWRhWENva0hQRmc2aVhPczpMUG9vciBtYW4mIzM5O3MgaW50ZWxsaWdlbnQgPGI-cmVmcmFtaW5nPC9iPiBmb3IgR29Qcm8gPGI-dmlkZW9zPC9iPiAtIE1lZGl1bUKjAUkgc2V0dGxlZCBvbiBPcGVuQ1YsIFlPTE8gZm9yIDxiPm9iamVjdDwvYj4gZGV0ZWN0aW9uLCBhbmQgRGVlcFNvcnQgd2l0aCBDTElQIGVtYmVkZGVyIGZvciA8Yj50cmFja2luZzwvYj4uIDxiPnRyYWNrPC9iPiB0aGVtIGFjcm9zcyBmcmFtZXMgdXNpbmcgRGVlcFNPUlQgYW5kIENMSVBKA2ZvckoDYXJlSgN0aGVKA2FuZFIGdG9wIDEwIgIQAUgAWABoAA",
+        "source": "Medium \u00b7 Maxim Leonovich"
+      },
+      {
+        "position": 2,
+        "title": "Is there a way to automate motion tracking and reframing?",
+        "link": "https://www.reddit.com/r/editors/comments/m4j5l8/is_there_a_way_to_automate_motion_tracking_and/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnQEBxCJF158k1P05d9SbgVqAo69MZ5u16ZiV341BZKB4X1UcSKtKxT5oE7GUgRHiCQmSH_2k5B-VqcObEXRWkJDY6xmYdFsfQrTLkYACiptqNFvyRs5qoZl1HeIFkH_BoJ-ODIBm8p7gJAiJ2J_HIdG9vkOjGo0ZvqTvrKY3vebsiwLq8GFNrmgAmobSC_vu52TWYSDO2nwxNoPXQMxa&ved=2ahUKEwiExvmH3JuYAxVVkokEHWvtAhUQFnoECCQQAQ&uoh=1",
+        "displayed_link": "4 comments",
+        "date": "5 years ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+        "snippet": "Hey everyone, I use Premiere Pro and/or Resolve, is there a way to auto motion track an object in the frame and keep it centered in the zoomed in frame? ...",
+        "sitelinks": {
+          "list": [
+            {
+              "title": "State-of-the-art for object tracking in videos : r ...",
+              "link": "https://www.google.com/goto?url=CAESogEBxCJF1y9xjPRdD_R7OdpwaXtF4XZTvWoAE3-Ho11cNMxq0zmXuLlGAJLHRFPrtEie55lDsPuw0CRFpAsNQ_eU2BJdQTo9DG3R4nd83nYBf2wKqHw87a-R9gOWAjfQ4ieOMbNzneyi5ZK1WFKf6GIiwZdG1fVA0Ea01ngQPevQ4JLn8t4GRictO3PBMf-rn8ECiEJ3wKdOGrNzasq-4_4j50Y&gsessionid=DaWfV6kU5N26BRW6D97UEUeb1UoX7c_qLbp7Ckro5ffnkH1dAQXqmQ",
+              "answer_count": 10,
+              "date": "Oct 28, 2014"
+            },
+            {
+              "title": "We built the simplest tool to video object tracking ...",
+              "link": "https://www.google.com/goto?url=CAESnQEBxCJF13i_MtvXkAMUEP2FU_xqrK9fAsIi61W_AwJ2Lmci3VjE9Mp_7Sw0xjgeCdRkMQbRno7fWZhyllp86bdWS0dSR5qfUIzZlmF2KFvqzPLB8_GSYqJlMQ0pvtZYumin9CJvk6LK-vqLOeidk-Kyw1YmXGt7_jGy-sBdWgKSm_ZvkSt5NEV_30Omdue9xKFvCAdA4Xz4OTNtdxsc&gsessionid=DaWfV6kU5N26BRW6D97UEUeb1UoX7c_qLbp7Ckro5ffnkH1dAQXqmQ",
+              "answer_count": 1,
+              "date": "Jul 17, 2022"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Resolve has a good motion tracker of objects, Both Resolve and Premiere Pro solutions would work for me tho! It's called reverse stabilization. ...",
+            "source_info_link": "https://www.reddit.com/r/editors/comments/m4j5l8/is_there_a_way_to_automate_motion_tracking_and/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuIBL2dvdG8_dXJsPUNBRVNuUUVCeENKRjE4TDFaVkt5SnRPUC1JSVFpcnVUcEpndld3ZWNHLWdtS0ZXV1I5elBSY0M2V2tVQ0tiUWxneFNZV0ZlUXNuSnIzdFc5VVQ3VndyZ3ZrVXdocnhtWUJZZV85aGFhUDZYeDhSanA2WEJXRWFnd3QybWlBZGx4QUhybnhveDFVVTJxTUp0MXplWFcxUDJTd3kyemNtdWhDa1VtcS0zanFQNC1tNXhlN0hmR0ZKbHdhdVJOMUpOUkNsMVd2U3AyWk9IVFRYX3ZzV3VfVEEycBIEGgIIABqlBxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCBBwgAEAAYACAAKiEKBHdoYXQV2ywZPxoFZ3JlYXQaBnRvcCAxMBoFd2hhdHMqCgoDYXJlFQAAAAAqCgoDdGhlFQAAAAAqTQoEYmVzdBXJnSI_GgdiZXN0ZXN0Ggllc3NlbnRpYWwaBWdyZWF0GgdwZXJmZWN0Gglzb21lIGdvb2QaBnRvcCAxMBoJYmVzdHRvb2xzKjQKBXRvb2xzFdJp8j0aCWVxdWlwbWVudBoHcHJvZ3JhbRoHdG9vbCB0bxoJYmVzdHRvb2xzKgoKA2ZvchUAAAAAKhQKBXZpZGVvFbHMjD4aBnZpZGVvcypJCglyZWZyYW1pbmcVTwspQBoHcmVmcmFtZRoIcmVmcmFtZWQaDml2O3A7cmVmcmFtaW5nGglyZWNvcmRpbmcaCXJlcG9ydGluZyoKCgNhbmQVAAAAAComCgZvYmplY3QVMoO0PhoHb2JqZWN0cxoOb2JqZWN0dHJhY2tpbmcqJgoIdHJhY2tpbmcVedE2QBoFdHJhY2saDm9iamVjdHRyYWNraW5nMuIBL2dvdG8_dXJsPUNBRVNuUUVCeENKRjE4TDFaVkt5SnRPUC1JSVFpcnVUcEpndld3ZWNHLWdtS0ZXV1I5elBSY0M2V2tVQ0tiUWxneFNZV0ZlUXNuSnIzdFc5VVQ3VndyZ3ZrVXdocnhtWUJZZV85aGFhUDZYeDhSanA2WEJXRWFnd3QybWlBZGx4QUhybnhveDFVVTJxTUp0MXplWFcxUDJTd3kyemNtdWhDa1VtcS0zanFQNC1tNXhlN0hmR0ZKbHdhdVJOMUpOUkNsMVd2U3AyWk9IVFRYX3ZzV3VfVEEycDpHSXMgdGhlcmUgYSB3YXkgdG8gYXV0b21hdGUgbW90aW9uIDxiPnRyYWNraW5nPC9iPiBhbmQgPGI-cmVmcmFtaW5nPC9iPj9CowE8Yj5SZXNvbHZlPC9iPiBoYXMgYSBnb29kIG1vdGlvbiB0cmFja2VyIG9mIG9iamVjdHMsIEJvdGggUmVzb2x2ZSBhbmQgUHJlbWllcmUgUHJvIHNvbHV0aW9ucyB3b3VsZCB3b3JrIGZvciBtZSB0aG8hIEl0JiMzOTtzIGNhbGxlZCByZXZlcnNlIHN0YWJpbGl6YXRpb24uJm5ic3A7Li4uSgNhbmRKA2ZvckoDYXJlSgN0aGVSBnRvcCAxMCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuIBL2dvdG8_dXJsPUNBRVNuUUVCeENKRjE4TDFaVkt5SnRPUC1JSVFpcnVUcEpndld3ZWNHLWdtS0ZXV1I5elBSY0M2V2tVQ0tiUWxneFNZV0ZlUXNuSnIzdFc5VVQ3VndyZ3ZrVXdocnhtWUJZZV85aGFhUDZYeDhSanA2WEJXRWFnd3QybWlBZGx4QUhybnhveDFVVTJxTUp0MXplWFcxUDJTd3kyemNtdWhDa1VtcS0zanFQNC1tNXhlN0hmR0ZKbHdhdVJOMUpOUkNsMVd2U3AyWk9IVFRYX3ZzV3VfVEEycBIEGgIIABqlBxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCBBwgAEAAYACAAKiEKBHdoYXQV2ywZPxoFZ3JlYXQaBnRvcCAxMBoFd2hhdHMqCgoDYXJlFQAAAAAqCgoDdGhlFQAAAAAqTQoEYmVzdBXJnSI_GgdiZXN0ZXN0Ggllc3NlbnRpYWwaBWdyZWF0GgdwZXJmZWN0Gglzb21lIGdvb2QaBnRvcCAxMBoJYmVzdHRvb2xzKjQKBXRvb2xzFdJp8j0aCWVxdWlwbWVudBoHcHJvZ3JhbRoHdG9vbCB0bxoJYmVzdHRvb2xzKgoKA2ZvchUAAAAAKhQKBXZpZGVvFbHMjD4aBnZpZGVvcypJCglyZWZyYW1pbmcVTwspQBoHcmVmcmFtZRoIcmVmcmFtZWQaDml2O3A7cmVmcmFtaW5nGglyZWNvcmRpbmcaCXJlcG9ydGluZyoKCgNhbmQVAAAAAComCgZvYmplY3QVMoO0PhoHb2JqZWN0cxoOb2JqZWN0dHJhY2tpbmcqJgoIdHJhY2tpbmcVedE2QBoFdHJhY2saDm9iamVjdHRyYWNraW5nMuIBL2dvdG8_dXJsPUNBRVNuUUVCeENKRjE4TDFaVkt5SnRPUC1JSVFpcnVUcEpndld3ZWNHLWdtS0ZXV1I5elBSY0M2V2tVQ0tiUWxneFNZV0ZlUXNuSnIzdFc5VVQ3VndyZ3ZrVXdocnhtWUJZZV85aGFhUDZYeDhSanA2WEJXRWFnd3QybWlBZGx4QUhybnhveDFVVTJxTUp0MXplWFcxUDJTd3kyemNtdWhDa1VtcS0zanFQNC1tNXhlN0hmR0ZKbHdhdVJOMUpOUkNsMVd2U3AyWk9IVFRYX3ZzV3VfVEEycDpHSXMgdGhlcmUgYSB3YXkgdG8gYXV0b21hdGUgbW90aW9uIDxiPnRyYWNraW5nPC9iPiBhbmQgPGI-cmVmcmFtaW5nPC9iPj9CowE8Yj5SZXNvbHZlPC9iPiBoYXMgYSBnb29kIG1vdGlvbiB0cmFja2VyIG9mIG9iamVjdHMsIEJvdGggUmVzb2x2ZSBhbmQgUHJlbWllcmUgUHJvIHNvbHV0aW9ucyB3b3VsZCB3b3JrIGZvciBtZSB0aG8hIEl0JiMzOTtzIGNhbGxlZCByZXZlcnNlIHN0YWJpbGl6YXRpb24uJm5ic3A7Li4uSgNhbmRKA2ZvckoDYXJlSgN0aGVSBnRvcCAxMCICEAFIAFgAaAA",
+        "source": "Reddit \u00b7 r/editors"
+      },
+      {
+        "position": 3,
+        "title": "Top 8 AI Tools for Video Object Tracking",
+        "link": "https://www.google.com/goto?url=CAESggEBxCJF10TvYOl0nCblYq3n6WqL5E2rvbPQrCFeAEgWKo4AQTCp72YRhF05KJo2EfAdahYYNtyBlhGdrdRIcsnkK8NZvvPXqheSClArl24kEu0Eau4Fc6ATCWowU6WLHNk5VgsB-hVUDw0q5pjxvY74T4GMOzNjhnnGvrGZoUrtX1Ll",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESggEBxCJF13SCBCCeuQextnuiAHhQGei8q3eLGAnOf7NJzkmggi4Yh0RQTk6nKxwYyoJryLsYJDI0wK_f3apFODax9irgqzio1a7tCYOOWo9w6tyhJzgxb6BkmIJrzrTskReCprVuLxOFIAvumrgT0YAGy1uek5vcXn8115L662FteVQT&ved=2ahUKEwiExvmH3JuYAxVVkokEHWvtAhUQFnoECBsQAQ&uoh=1",
+        "displayed_link": "https://try.wideframe.com \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA5UlEQVR4Ad3SEZDEMBQG4F_iUKkGM7MQDlWC0c5SqbSyFI4ermuo-igSCgYC8ZlYsXZ8cr3Nyvnum3nz4KP3zw_2z7wjAgA7lwHAE8H5yCGEZIPgwHCRI55YI1XQUUbzXQJsS_cOM1EGKoCGHTbc5AuGdGKDzQ_dYQ0p4bHToA4qsNXfOjST0ZiXFXy5AmJZVIfaaGYMME0wQktl5g6Pzc8tRrSG5utWKHS4u_s1rlEGUmUrPn-5V5wreVeryyH57GyPwEo8RWtTzmErITL8oQLGC5MKUFIJIXX3J_tN-zx98B9SsB_uZ2db9fvo7gAAAABJRU5ErkJggg.png",
+        "date": "Feb 21, 2026",
+        "snippet": "The 8 best AI object tracking tools \u00b7 1. Adobe After Effects (AI tracking) \u00b7 2. DaVinci Resolve (Magic Mask + Tracker) \u00b7 3. Mocha Pro (planar ...",
+        "snippet_highlighted_words": [
+          "1. Adobe After Effects (AI tracking"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The 8 best AI object tracking tools \u00b7 1. Adobe After Effects (AI tracking) \u00b7 2. DaVinci Resolve (Magic Mask + Tracker) \u00b7 3. Mocha Pro (planar ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESggEBxCJF10TvYOl0nCblYq3n6WqL5E2rvbPQrCFeAEgWKo4AQTCp72YRhF05KJo2EfAdahYYNtyBlhGdrdRIcsnkK8NZvvPXqheSClArl24kEu0Eau4Fc6ATCWowU6WLHNk5VgsB-hVUDw0q5pjxvY74T4GMOzNjhnnGvrGZoUrtX1Ll",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA5UlEQVR4Ad3SEZDEMBQG4F_iUKkGM7MQDlWC0c5SqbSyFI4ermuo-igSCgYC8ZlYsXZ8cr3Nyvnum3nz4KP3zw_2z7wjAgA7lwHAE8H5yCGEZIPgwHCRI55YI1XQUUbzXQJsS_cOM1EGKoCGHTbc5AuGdGKDzQ_dYQ0p4bHToA4qsNXfOjST0ZiXFXy5AmJZVIfaaGYMME0wQktl5g6Pzc8tRrSG5utWKHS4u_s1rlEGUmUrPn-5V5wreVeryyH57GyPwEo8RWtTzmErITL8oQLGC5MKUFIJIXX3J_tN-zx98B9SsB_uZ2db9fvo7gAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCeENKRjEwVHZZT2wwbkNibFlxM242V3FMNUUycnZiUFFyQ0ZlQUVnV0tvNEFRVENwNzJZUmhGMDVLSm8yRWZBZGFoWVlOdHlCbGhHZHJkUkljc25rSzhOWnZ2UFhxaGVTQ2xBcmwyNGtFdTBFYXU0RmM2QVRDV293VTZXTEhOazVWZ3NCLWhWVUR3MHE1cGp4dlk3NFQ0R01Pek5qaG5uR3ZyR1pvVXJ0WDFMbBIEGgIIABqEBxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDgBggAEAAYACAAKiEKBHdoYXQVh-fZPxoFZ3JlYXQaBnRvcCAxMBoFd2hhdHMqCgoDYXJlFQAAAAAqCgoDdGhlFQAAAAAqTQoEYmVzdBWUHCJAGgdiZXN0ZXN0Ggllc3NlbnRpYWwaBWdyZWF0GgdwZXJmZWN0Gglzb21lIGdvb2QaBnRvcCAxMBoJYmVzdHRvb2xzKjQKBXRvb2xzFevjvUAaCWVxdWlwbWVudBoHcHJvZ3JhbRoHdG9vbCB0bxoJYmVzdHRvb2xzKgoKA2ZvchUAAAAAKhQKBXZpZGVvFfUeqkAaBnZpZGVvcypJCglyZWZyYW1pbmcVc79cPhoHcmVmcmFtZRoIcmVmcmFtZWQaDml2O3A7cmVmcmFtaW5nGglyZWNvcmRpbmcaCXJlcG9ydGluZyoKCgNhbmQVAAAAAComCgZvYmplY3QVvoDRQBoHb2JqZWN0cxoOb2JqZWN0dHJhY2tpbmcqJgoIdHJhY2tpbmcVUufvQBoFdHJhY2saDm9iamVjdHRyYWNraW5nMr4BL2dvdG8_dXJsPUNBRVNnZ0VCeENKRjEwVHZZT2wwbkNibFlxM242V3FMNUUycnZiUFFyQ0ZlQUVnV0tvNEFRVENwNzJZUmhGMDVLSm8yRWZBZGFoWVlOdHlCbGhHZHJkUkljc25rSzhOWnZ2UFhxaGVTQ2xBcmwyNGtFdTBFYXU0RmM2QVRDV293VTZXTEhOazVWZ3NCLWhWVUR3MHE1cGp4dlk3NFQ0R01Pek5qaG5uR3ZyR1pvVXJ0WDFMbDo7VG9wIDggQUkgPGI-VG9vbHMgZm9yIFZpZGVvIE9iamVjdCBUcmFja2luZzwvYj4gLSBXaWRlZnJhbWVCsgFUaGUgOCBiZXN0IEFJIG9iamVjdCB0cmFja2luZyB0b29scyAmbWlkZG90OyA8Yj4xLiBBZG9iZSBBZnRlciBFZmZlY3RzIChBSSB0cmFja2luZzwvYj4pICZtaWRkb3Q7IDIuIERhVmluY2kgUmVzb2x2ZSAoTWFnaWMgTWFzayArIFRyYWNrZXIpICZtaWRkb3Q7IDMuIE1vY2hhIFBybyAocGxhbmFyJm5ic3A7Li4uSgNmb3JKA2FyZUoDdGhlSgNhbmRSBnRvcCAxMCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCeENKRjEwVHZZT2wwbkNibFlxM242V3FMNUUycnZiUFFyQ0ZlQUVnV0tvNEFRVENwNzJZUmhGMDVLSm8yRWZBZGFoWVlOdHlCbGhHZHJkUkljc25rSzhOWnZ2UFhxaGVTQ2xBcmwyNGtFdTBFYXU0RmM2QVRDV293VTZXTEhOazVWZ3NCLWhWVUR3MHE1cGp4dlk3NFQ0R01Pek5qaG5uR3ZyR1pvVXJ0WDFMbBIEGgIIABqEBxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDgBggAEAAYACAAKiEKBHdoYXQVh-fZPxoFZ3JlYXQaBnRvcCAxMBoFd2hhdHMqCgoDYXJlFQAAAAAqCgoDdGhlFQAAAAAqTQoEYmVzdBWUHCJAGgdiZXN0ZXN0Ggllc3NlbnRpYWwaBWdyZWF0GgdwZXJmZWN0Gglzb21lIGdvb2QaBnRvcCAxMBoJYmVzdHRvb2xzKjQKBXRvb2xzFevjvUAaCWVxdWlwbWVudBoHcHJvZ3JhbRoHdG9vbCB0bxoJYmVzdHRvb2xzKgoKA2ZvchUAAAAAKhQKBXZpZGVvFfUeqkAaBnZpZGVvcypJCglyZWZyYW1pbmcVc79cPhoHcmVmcmFtZRoIcmVmcmFtZWQaDml2O3A7cmVmcmFtaW5nGglyZWNvcmRpbmcaCXJlcG9ydGluZyoKCgNhbmQVAAAAAComCgZvYmplY3QVvoDRQBoHb2JqZWN0cxoOb2JqZWN0dHJhY2tpbmcqJgoIdHJhY2tpbmcVUufvQBoFdHJhY2saDm9iamVjdHRyYWNraW5nMr4BL2dvdG8_dXJsPUNBRVNnZ0VCeENKRjEwVHZZT2wwbkNibFlxM242V3FMNUUycnZiUFFyQ0ZlQUVnV0tvNEFRVENwNzJZUmhGMDVLSm8yRWZBZGFoWVlOdHlCbGhHZHJkUkljc25rSzhOWnZ2UFhxaGVTQ2xBcmwyNGtFdTBFYXU0RmM2QVRDV293VTZXTEhOazVWZ3NCLWhWVUR3MHE1cGp4dlk3NFQ0R01Pek5qaG5uR3ZyR1pvVXJ0WDFMbDo7VG9wIDggQUkgPGI-VG9vbHMgZm9yIFZpZGVvIE9iamVjdCBUcmFja2luZzwvYj4gLSBXaWRlZnJhbWVCsgFUaGUgOCBiZXN0IEFJIG9iamVjdCB0cmFja2luZyB0b29scyAmbWlkZG90OyA8Yj4xLiBBZG9iZSBBZnRlciBFZmZlY3RzIChBSSB0cmFja2luZzwvYj4pICZtaWRkb3Q7IDIuIERhVmluY2kgUmVzb2x2ZSAoTWFnaWMgTWFzayArIFRyYWNrZXIpICZtaWRkb3Q7IDMuIE1vY2hhIFBybyAocGxhbmFyJm5ic3A7Li4uSgNmb3JKA2FyZUoDdGhlSgNhbmRSBnRvcCAxMCICEAFIAFgAaAA",
+        "source": "Wideframe",
+        "read_more_link": "https://www.google.com/goto?url=CAES0gIBxCJF1zBlOQBKMFLJsvxDRv5_EWvFhLoZ20OkQHcpFDBqdEdzdKR4zMsDuOOeB1hu0WmJ_GtiyiuDg6hLZ30YLKnZuXy7O1BhwlF6I7i6CD5KOuiIC7XZhgvYrYxtyIHIWV4YUhQjN1nyMc44inQW10C-9YHQYQGLkv5TxpVimTnR9xMlMXNju5UOMYHXhasd49GEFrSix1N-5mZGWhZlJDhfrUq4svU6iP9GyhHch20yczKNv3ZzkmClDi79BYSR2wmBU0nmDzq1NaiM3MhmWxAv39FO_WZsiv5p9KuRTKzcxHb0aAl4yp_q7umtPFccq2z6psFFbgUCOtP42eFUnAmHmk4etd05I70zEwGsQjrt5zbSeL1DjbK0ism4g8Mw7OmguC5fKbflvmVpSMmxkoUU53m0AtdUYlP-B01AvgNVQrrVZZeWNML7HuViiF88OQ&gsessionid=DaWfV6kU5N26BRW6D97UEUeb1UoX7c_qLbp7Ckro5ffnkH1dAQXqmQ"
+      },
+      {
+        "position": 4,
+        "title": "Top Open-Source Object Tracking Tools",
+        "link": "https://www.google.com/goto?url=CAEScwHEIkXX4fiig28-Ggk8WLyuO8i07lx-gQNake60bk3VGKn9bwL2nsU5dZwL4EqR3qc6KS6SFLhOBtEu3yjauls6Rmlcv_XduRRiPA8uUAyW730Sskl4da2f81UGnDxF6pFaXrDVJLDqwRmm_yx2By7fYOw",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHEIkXX22j9oInkc94QSfT0FDhlg-mAqAiIP0iLPRqJdpcSjwepX5iJXkakO_mMt7hrTHS01hz86ZnYSE2df6uRNwO7k_MJjoccuzePr94tJwSaOiIe5LlGWc2-vI7D4Uy2JV6y45G_VPyAizZGRuqYY98&ved=2ahUKEwiExvmH3JuYAxVVkokEHWvtAhUQFnoECEMQAQ&uoh=1",
+        "displayed_link": "https://roboflow.com \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAgVBMVEWAM-t_MOt7Jup5IOp3Gep3Gup8Kep-LeuFPOy5mPPXxvjo3fvx6v3UwfizkPKMTO3e0Pn____Ir_Z1EOrr4_zLs_bdzvmyjfKTWO6OUO2dau_BpfX69_7Qu_eKRuzayfmCNuuofvHj1_qda-_38_6-oPSYYe5sAOmhcfCWXu6qgPHh_Q-GAAABFUlEQVR4AbWRRRbDMAxELWPYcZWUmdv7H7BSMbTthPVF8yL-LpBKa6Ms9JHTUZykWZoXTnWZ8mX4aGTaxRiHhirTYjWFxpPpbL5YMl2pRs-YstfaOnBKVUx_ENYh5OisUo4W8wz9d6otQo3WTPLNnKhmuAXxpV7pHQ_bG2EP9Myw6R9HnH_0AJjRy8Q2XZ6YjZUDLNlKs9DNmC0Q7JZ3XQpoFiYUOqFQZ046Rk7IH9ZL2uUi5JVZSYbUYv2lhmJXCxGzGEHgKhS2WRmBqontDE3ZhfDrq_IQbs7syeAFHBKbyJ9NariQakWVxfZG25VNL3Yelsb57y_ToinpqxnI-4vlnZ8tHAUoZVVVq6kWgwKlNdn8sx6VsRTdkorcogAAAABJRU5ErkJggg.png",
+        "date": "Apr 28, 2026",
+        "snippet": "Top Free Open-Source Object Tracking Tools \u00b7 1. Roboflow Trackers \u00b7 2. ByteTrack \u00b7 3. BoT-SORT \u00b7 4. DeepSORT \u00b7 5. StrongSORT \u00b7 7. Norfair.",
+        "snippet_highlighted_words": [
+          "1. Roboflow Trackers"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Top Free Open-Source Object Tracking Tools \u00b7 1. Roboflow Trackers \u00b7 2. ByteTrack \u00b7 3. BoT-SORT \u00b7 4. DeepSORT \u00b7 5. StrongSORT \u00b7 7. Norfair.",
+            "source_info_link": "https://www.google.com/goto?url=CAEScwHEIkXX4fiig28-Ggk8WLyuO8i07lx-gQNake60bk3VGKn9bwL2nsU5dZwL4EqR3qc6KS6SFLhOBtEu3yjauls6Rmlcv_XduRRiPA8uUAyW730Sskl4da2f81UGnDxF6pFaXrDVJLDqwRmm_yx2By7fYOw",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAgVBMVEWAM-t_MOt7Jup5IOp3Gep3Gup8Kep-LeuFPOy5mPPXxvjo3fvx6v3UwfizkPKMTO3e0Pn____Ir_Z1EOrr4_zLs_bdzvmyjfKTWO6OUO2dau_BpfX69_7Qu_eKRuzayfmCNuuofvHj1_qda-_38_6-oPSYYe5sAOmhcfCWXu6qgPHh_Q-GAAABFUlEQVR4AbWRRRbDMAxELWPYcZWUmdv7H7BSMbTthPVF8yL-LpBKa6Ms9JHTUZykWZoXTnWZ8mX4aGTaxRiHhirTYjWFxpPpbL5YMl2pRs-YstfaOnBKVUx_ENYh5OisUo4W8wz9d6otQo3WTPLNnKhmuAXxpV7pHQ_bG2EP9Myw6R9HnH_0AJjRy8Q2XZ6YjZUDLNlKs9DNmC0Q7JZ3XQpoFiYUOqFQZ046Rk7IH9ZL2uUi5JVZSYbUYv2lhmJXCxGzGEHgKhS2WRmBqontDE3ZhfDrq_IQbs7syeAFHBKbyJ9NariQakWVxfZG25VNL3Yelsb57y_ToinpqxnI-4vlnZ8tHAUoZVVVq6kWgwKlNdn8sx6VsRTdkorcogAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqkBL2dvdG8_dXJsPUNBRVNjd0hFSWtYWDRmaWlnMjgtR2drOFdMeXVPOGkwN2x4LWdRTmFrZTYwYmszVkdLbjlid0wybnNVNWRad0w0RXFSM3FjNktTNlNGTGhPQnRFdTN5amF1bHM2Um1sY3ZfWGR1UlJpUEE4dVVBeVc3MzBTc2tsNGRhMmY4MVVHbkR4RjZwRmFYckRWSkxEcXdSbW1feXgyQnk3ZllPdxIEGgIIABr2BhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNAGCAAQABgAIAAqIQoEd2hhdBWT8qQ_GgVncmVhdBoGdG9wIDEwGgV3aGF0cyoKCgNhcmUVAAAAACoKCgN0aGUVAAAAACpNCgRiZXN0FXc9wD8aB2Jlc3Rlc3QaCWVzc2VudGlhbBoFZ3JlYXQaB3BlcmZlY3QaCXNvbWUgZ29vZBoGdG9wIDEwGgliZXN0dG9vbHMqNAoFdG9vbHMVAkWFQBoJZXF1aXBtZW50Ggdwcm9ncmFtGgd0b29sIHRvGgliZXN0dG9vbHMqCgoDZm9yFQAAAAAqFAoFdmlkZW8VHa6PPxoGdmlkZW9zKkkKCXJlZnJhbWluZxUAAAAAGgdyZWZyYW1lGghyZWZyYW1lZBoOaXY7cDtyZWZyYW1pbmcaCXJlY29yZGluZxoJcmVwb3J0aW5nKgoKA2FuZBUAAAAAKiYKBm9iamVjdBXSZs9AGgdvYmplY3RzGg5vYmplY3R0cmFja2luZyomCgh0cmFja2luZxXJxtZAGgV0cmFjaxoOb2JqZWN0dHJhY2tpbmcyqQEvZ290bz91cmw9Q0FFU2N3SEVJa1hYNGZpaWcyOC1HZ2s4V0x5dU84aTA3bHgtZ1FOYWtlNjBiazNWR0tuOWJ3TDJuc1U1ZFp3TDRFcVIzcWM2S1M2U0ZMaE9CdEV1M3lqYXVsczZSbWxjdl9YZHVSUmlQQTh1VUF5VzczMFNza2w0ZGEyZjgxVUduRHhGNnBGYVhyRFZKTERxd1JtbV95eDJCeTdmWU93OjdUb3AgT3Blbi1Tb3VyY2UgPGI-T2JqZWN0IFRyYWNraW5nIFRvb2xzPC9iPiAtIFJvYm9mbG93QrsBVG9wIEZyZWUgT3Blbi1Tb3VyY2UgT2JqZWN0IFRyYWNraW5nIFRvb2xzICZtaWRkb3Q7IDxiPjEuIFJvYm9mbG93IFRyYWNrZXJzPC9iPiAmbWlkZG90OyAyLiBCeXRlVHJhY2sgJm1pZGRvdDsgMy4gQm9ULVNPUlQgJm1pZGRvdDsgNC4gRGVlcFNPUlQgJm1pZGRvdDsgNS4gU3Ryb25nU09SVCAmbWlkZG90OyA3LiBOb3JmYWlyLkoDZm9ySgNhcmVKA3RoZUoDYW5kUgZ0b3AgMTAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqkBL2dvdG8_dXJsPUNBRVNjd0hFSWtYWDRmaWlnMjgtR2drOFdMeXVPOGkwN2x4LWdRTmFrZTYwYmszVkdLbjlid0wybnNVNWRad0w0RXFSM3FjNktTNlNGTGhPQnRFdTN5amF1bHM2Um1sY3ZfWGR1UlJpUEE4dVVBeVc3MzBTc2tsNGRhMmY4MVVHbkR4RjZwRmFYckRWSkxEcXdSbW1feXgyQnk3ZllPdxIEGgIIABr2BhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNAGCAAQABgAIAAqIQoEd2hhdBWT8qQ_GgVncmVhdBoGdG9wIDEwGgV3aGF0cyoKCgNhcmUVAAAAACoKCgN0aGUVAAAAACpNCgRiZXN0FXc9wD8aB2Jlc3Rlc3QaCWVzc2VudGlhbBoFZ3JlYXQaB3BlcmZlY3QaCXNvbWUgZ29vZBoGdG9wIDEwGgliZXN0dG9vbHMqNAoFdG9vbHMVAkWFQBoJZXF1aXBtZW50Ggdwcm9ncmFtGgd0b29sIHRvGgliZXN0dG9vbHMqCgoDZm9yFQAAAAAqFAoFdmlkZW8VHa6PPxoGdmlkZW9zKkkKCXJlZnJhbWluZxUAAAAAGgdyZWZyYW1lGghyZWZyYW1lZBoOaXY7cDtyZWZyYW1pbmcaCXJlY29yZGluZxoJcmVwb3J0aW5nKgoKA2FuZBUAAAAAKiYKBm9iamVjdBXSZs9AGgdvYmplY3RzGg5vYmplY3R0cmFja2luZyomCgh0cmFja2luZxXJxtZAGgV0cmFjaxoOb2JqZWN0dHJhY2tpbmcyqQEvZ290bz91cmw9Q0FFU2N3SEVJa1hYNGZpaWcyOC1HZ2s4V0x5dU84aTA3bHgtZ1FOYWtlNjBiazNWR0tuOWJ3TDJuc1U1ZFp3TDRFcVIzcWM2S1M2U0ZMaE9CdEV1M3lqYXVsczZSbWxjdl9YZHVSUmlQQTh1VUF5VzczMFNza2w0ZGEyZjgxVUduRHhGNnBGYVhyRFZKTERxd1JtbV95eDJCeTdmWU93OjdUb3AgT3Blbi1Tb3VyY2UgPGI-T2JqZWN0IFRyYWNraW5nIFRvb2xzPC9iPiAtIFJvYm9mbG93QrsBVG9wIEZyZWUgT3Blbi1Tb3VyY2UgT2JqZWN0IFRyYWNraW5nIFRvb2xzICZtaWRkb3Q7IDxiPjEuIFJvYm9mbG93IFRyYWNrZXJzPC9iPiAmbWlkZG90OyAyLiBCeXRlVHJhY2sgJm1pZGRvdDsgMy4gQm9ULVNPUlQgJm1pZGRvdDsgNC4gRGVlcFNPUlQgJm1pZGRvdDsgNS4gU3Ryb25nU09SVCAmbWlkZG90OyA3LiBOb3JmYWlyLkoDZm9ySgNhcmVKA3RoZUoDYW5kUgZ0b3AgMTAiAhABSABYAGgA",
+        "source": "Roboflow",
+        "read_more_link": "https://www.google.com/goto?url=CAESsgIBxCJF195FYMYledn7m-gf-hZ-dnAcxMSNTRJsTUz8Zoy77ZiPanwuiB5FVvPjCAD6Dl6HcjYvYIXtWBbvkbt8zurc9u8DDhQUFJgGtcaf5Jaw0n9AA66_Wj0W6tezOkJNTU-H6xKZx7plo6ekYYuqt6EvS6TmQgKa-ykKkecIBRROVpkjPaZc8M4kyRBW4a_z-3KCXHvNVTt3lI1HUAC9glnOHzZ2u9YzOD_Ta1BQIzdcYH5lphsBATLM_Idlzk3YuzpWTT3BYMyygbTbG4ZGCyKdDcHeJLiFz8DiMRV-tRibnDiwZ7JYQOb967Lcl2yVbs9ywbMgLMat_cVX52V4X_Eq4ebao8m8_GDpWgZTNV0tOLa3MnS1lzjJ0rz7y6F8Q9WTgQeYCpj0cPeIkK6HRaU&gsessionid=DaWfV6kU5N26BRW6D97UEUeb1UoX7c_qLbp7Ckro5ffnkH1dAQXqmQ"
+      },
+      {
+        "position": 5,
+        "title": "Video Object Tracking: How to Annotate and ...",
+        "link": "https://www.google.com/goto?url=CAESogEBxCJF10UO_wQByaHhwSHvss1aWDLnKr1SyTQQuVPykzxA7aUDapXoA1JeGZZZcKjdBfbZx07B8R7Uu-bbOWNImx7F35EeREj_dNiwPob-0FCH9_QQguxDDs0RHGFogebctQV7hQeNwhjzeoW6O0LE60g20Elg2NwM1PmLLRBE0EUOa4li-FfM4iJA3p4xXbu86WZwd7vnEO-Ntho05F4gsBc",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESogEBxCJF1_nQQlP57EbvJiBYnGznuAk8PqEbVMXEyLq2o7px-GbjtZc8cOkiF2M2u_UaWIZIg0lZJ71jqbS6InVwgURVZBqT38VQMM_akxQgEGlj2w1yYNsp8hQltHcu76F9fRB9HCnnIeAh98VEDfImO3ypkatiYV5KQnPU2rALAimfeE5nufsRxDR5cNOjVIzzL5HOaW6iJS0RWCScXGud5Wc&ved=2ahUKEwiExvmH3JuYAxVVkokEHWvtAhUQFnoECEUQAQ&uoh=1",
+        "displayed_link": "https://www.labellerr.com \u203a blog \u203a video-object-trackin...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEVQTmdOTGVgXnNcWnFMSmR4d4j___9mZXlNS2Xm5ejDwsn09PXZ2dyvr7c1MlNAPVoxLlCbmqU9Oli6usJGRF9IRmFPTWZLSWPT0tdaWG-nprBubIBzcYNVU2vn5-mLipiAfo5THKTpAAAAoElEQVR4AbXOVQKEIBRAUbu7pfe_Sbt9TM_9UTiU8mUq0IaafktbyDAtINtZ0fXmfCuYf9wDhlE8lrhWmo0_UX7EYvqLByzHn-KCVRw7MqzqpmkzGZaWpf0RC8MwKgkiG2NCQWTWlBkDGAf-mEUA1MssirIhAziWi6Eafu1cBmHN3CHmxnfMyiKaK8eyIzboUnBAoAWrVgDRSpm1Bprtw3rEkBn2Ke3qHgAAAABJRU5ErkJggg.png",
+        "date": "Sep 15, 2026",
+        "snippet": "1. Manual Frame-by-Frame Annotation \u00b7 2. Interpolation-Based Tracking \u00b7 3. AI-Assisted / Automated Tracking \u00b7 4. Single Object Tracking (SOT) vs.",
+        "snippet_highlighted_words": [
+          "Manual Frame-by-Frame Annotation"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "1. Manual Frame-by-Frame Annotation \u00b7 2. Interpolation-Based Tracking \u00b7 3. AI-Assisted / Automated Tracking \u00b7 4. Single Object Tracking (SOT) vs.",
+            "source_info_link": "https://www.google.com/goto?url=CAESogEBxCJF10UO_wQByaHhwSHvss1aWDLnKr1SyTQQuVPykzxA7aUDapXoA1JeGZZZcKjdBfbZx07B8R7Uu-bbOWNImx7F35EeREj_dNiwPob-0FCH9_QQguxDDs0RHGFogebctQV7hQeNwhjzeoW6O0LE60g20Elg2NwM1PmLLRBE0EUOa4li-FfM4iJA3p4xXbu86WZwd7vnEO-Ntho05F4gsBc",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEVQTmdOTGVgXnNcWnFMSmR4d4j___9mZXlNS2Xm5ejDwsn09PXZ2dyvr7c1MlNAPVoxLlCbmqU9Oli6usJGRF9IRmFPTWZLSWPT0tdaWG-nprBubIBzcYNVU2vn5-mLipiAfo5THKTpAAAAoElEQVR4AbXOVQKEIBRAUbu7pfe_Sbt9TM_9UTiU8mUq0IaafktbyDAtINtZ0fXmfCuYf9wDhlE8lrhWmo0_UX7EYvqLByzHn-KCVRw7MqzqpmkzGZaWpf0RC8MwKgkiG2NCQWTWlBkDGAf-mEUA1MssirIhAziWi6Eafu1cBmHN3CHmxnfMyiKaK8eyIzboUnBAoAWrVgDRSpm1Bprtw3rEkBn2Ke3qHgAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CukBL2dvdG8_dXJsPUNBRVNvZ0VCeENKRjEwVU9fd1FCeWFIaHdTSHZzczFhV0RMbktyMVN5VFFRdVZQeWt6eEE3YVVEYXBYb0ExSmVHWlpaY0tqZEJmYlp4MDdCOFI3VXUtYmJPV05JbXg3RjM1RWVSRWpfZE5pd1BvYi0wRkNIOV9RUWd1eEREczBSSEdGb2dlYmN0UVY3aFFlTndoanplb1c2TzBMRTYwZzIwRWxnMk53TTFQbUxMUkJFMEVVT2E0bGktRmZNNGlKQTNwNHhYYnU4Nldad2Q3dm5FTy1OdGhvMDVGNGdzQmMSBBoCCAAauAcSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCSBwgAEAAYACAAKiEKBHdoYXQVAHDDPxoFZ3JlYXQaBnRvcCAxMBoFd2hhdHMqCgoDYXJlFQAAAAAqCgoDdGhlFQAAAAAqTQoEYmVzdBW1_jQ_GgdiZXN0ZXN0Ggllc3NlbnRpYWwaBWdyZWF0GgdwZXJmZWN0Gglzb21lIGdvb2QaBnRvcCAxMBoJYmVzdHRvb2xzKjQKBXRvb2xzFdoa4j8aCWVxdWlwbWVudBoHcHJvZ3JhbRoHdG9vbCB0bxoJYmVzdHRvb2xzKgoKA2ZvchUAAAAAKhQKBXZpZGVvFaQIxkAaBnZpZGVvcypJCglyZWZyYW1pbmcVAAAAABoHcmVmcmFtZRoIcmVmcmFtZWQaDml2O3A7cmVmcmFtaW5nGglyZWNvcmRpbmcaCXJlcG9ydGluZyoKCgNhbmQVAAAAAComCgZvYmplY3QVtpC_QBoHb2JqZWN0cxoOb2JqZWN0dHJhY2tpbmcqJgoIdHJhY2tpbmcV-uzCQBoFdHJhY2saDm9iamVjdHRyYWNraW5nMukBL2dvdG8_dXJsPUNBRVNvZ0VCeENKRjEwVU9fd1FCeWFIaHdTSHZzczFhV0RMbktyMVN5VFFRdVZQeWt6eEE3YVVEYXBYb0ExSmVHWlpaY0tqZEJmYlp4MDdCOFI3VXUtYmJPV05JbXg3RjM1RWVSRWpfZE5pd1BvYi0wRkNIOV9RUWd1eEREczBSSEdGb2dlYmN0UVY3aFFlTndoanplb1c2TzBMRTYwZzIwRWxnMk53TTFQbUxMUkJFMEVVT2E0bGktRmZNNGlKQTNwNHhYYnU4Nldad2Q3dm5FTy1OdGhvMDVGNGdzQmM6RzxiPlZpZGVvIE9iamVjdCBUcmFja2luZzwvYj46IEhvdyB0byBBbm5vdGF0ZSBhbmQgVHJhY2sgLi4uIC0gTGFiZWxsZXJyQq0BMS4gPGI-TWFudWFsIEZyYW1lLWJ5LUZyYW1lIEFubm90YXRpb248L2I-ICZtaWRkb3Q7IDIuIEludGVycG9sYXRpb24tQmFzZWQgVHJhY2tpbmcgJm1pZGRvdDsgMy4gQUktQXNzaXN0ZWQgLyBBdXRvbWF0ZWQgVHJhY2tpbmcgJm1pZGRvdDsgNC4gU2luZ2xlIE9iamVjdCBUcmFja2luZyAoU09UKSB2cy5KA2FuZEoDdGhlSgNhcmVKA2ZvclIGdG9wIDEwIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CukBL2dvdG8_dXJsPUNBRVNvZ0VCeENKRjEwVU9fd1FCeWFIaHdTSHZzczFhV0RMbktyMVN5VFFRdVZQeWt6eEE3YVVEYXBYb0ExSmVHWlpaY0tqZEJmYlp4MDdCOFI3VXUtYmJPV05JbXg3RjM1RWVSRWpfZE5pd1BvYi0wRkNIOV9RUWd1eEREczBSSEdGb2dlYmN0UVY3aFFlTndoanplb1c2TzBMRTYwZzIwRWxnMk53TTFQbUxMUkJFMEVVT2E0bGktRmZNNGlKQTNwNHhYYnU4Nldad2Q3dm5FTy1OdGhvMDVGNGdzQmMSBBoCCAAauAcSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCSBwgAEAAYACAAKiEKBHdoYXQVAHDDPxoFZ3JlYXQaBnRvcCAxMBoFd2hhdHMqCgoDYXJlFQAAAAAqCgoDdGhlFQAAAAAqTQoEYmVzdBW1_jQ_GgdiZXN0ZXN0Ggllc3NlbnRpYWwaBWdyZWF0GgdwZXJmZWN0Gglzb21lIGdvb2QaBnRvcCAxMBoJYmVzdHRvb2xzKjQKBXRvb2xzFdoa4j8aCWVxdWlwbWVudBoHcHJvZ3JhbRoHdG9vbCB0bxoJYmVzdHRvb2xzKgoKA2ZvchUAAAAAKhQKBXZpZGVvFaQIxkAaBnZpZGVvcypJCglyZWZyYW1pbmcVAAAAABoHcmVmcmFtZRoIcmVmcmFtZWQaDml2O3A7cmVmcmFtaW5nGglyZWNvcmRpbmcaCXJlcG9ydGluZyoKCgNhbmQVAAAAAComCgZvYmplY3QVtpC_QBoHb2JqZWN0cxoOb2JqZWN0dHJhY2tpbmcqJgoIdHJhY2tpbmcV-uzCQBoFdHJhY2saDm9iamVjdHRyYWNraW5nMukBL2dvdG8_dXJsPUNBRVNvZ0VCeENKRjEwVU9fd1FCeWFIaHdTSHZzczFhV0RMbktyMVN5VFFRdVZQeWt6eEE3YVVEYXBYb0ExSmVHWlpaY0tqZEJmYlp4MDdCOFI3VXUtYmJPV05JbXg3RjM1RWVSRWpfZE5pd1BvYi0wRkNIOV9RUWd1eEREczBSSEdGb2dlYmN0UVY3aFFlTndoanplb1c2TzBMRTYwZzIwRWxnMk53TTFQbUxMUkJFMEVVT2E0bGktRmZNNGlKQTNwNHhYYnU4Nldad2Q3dm5FTy1OdGhvMDVGNGdzQmM6RzxiPlZpZGVvIE9iamVjdCBUcmFja2luZzwvYj46IEhvdyB0byBBbm5vdGF0ZSBhbmQgVHJhY2sgLi4uIC0gTGFiZWxsZXJyQq0BMS4gPGI-TWFudWFsIEZyYW1lLWJ5LUZyYW1lIEFubm90YXRpb248L2I-ICZtaWRkb3Q7IDIuIEludGVycG9sYXRpb24tQmFzZWQgVHJhY2tpbmcgJm1pZGRvdDsgMy4gQUktQXNzaXN0ZWQgLyBBdXRvbWF0ZWQgVHJhY2tpbmcgJm1pZGRvdDsgNC4gU2luZ2xlIE9iamVjdCBUcmFja2luZyAoU09UKSB2cy5KA2FuZEoDdGhlSgNhcmVKA2ZvclIGdG9wIDEwIgIQAUgAWABoAA",
+        "source": "Labellerr",
+        "read_more_link": "https://www.google.com/goto?url=CAESjgMBxCJF12xOqXU2xfzIoqls89pH8Jo7UPqStC0tXUvy1KFgp3l1EHl1yp9MLKxHsriZRXFNfzOX-qBbpi9a5ONB8OVxSu9nzT_1POeZLs9qgnggC1wgnB9IkWX4RjbExDfFDOZTntKoHAtGIA3-6yutvcwhpquuMr0T3puiRhegnkvWNcLR-6o1Pc-SdRayeAsEqmXk9jNRSunGSpnIzPJOxMNIartGPijUuhEfDhYhIMRu7l1M9KqeW9BF2pdpKQd8upqP8t7mGdMfiKJa5bWVavTeVXKgnan16PCCIyQ50WOBONW_35Uajkj5wsw0aZuPqTvwx0Nf9UGI1cYCSb0HD_fOUm1pZUYSgN7IKw8SRhyZT1TdXsGmJTUZ5xLf9RBdnXwUq2rr8Y6DqpCsPhGeaJLP-TURrhjoeRAgtUk3Dj0HdqpK5iu5qP30506gatX9rNusn6v7J-GK057Nzt4DhdcIMEJsVKIWqscSEi-e0FJpXFnjBJZy8swhNbZZGjr87UBF0JhThfYU9vsEkw&gsessionid=DaWfV6kU5N26BRW6D97UEUeb1UoX7c_qLbp7Ckro5ffnkH1dAQXqmQ"
+      },
+      {
+        "position": 6,
+        "title": "Are there any software frameworks for object motion ...",
+        "link": "https://www.google.com/goto?url=CAESmQEBxCJF1-4ZPBA2N7wuDvkIjpDG0WENEJhmxQl8vafk4XBeOUH5AANTGcuSHRjWoMJ6AMwD5zYR6zgdjNhu2QGhdR3_IHx6yuhTCOcyWs3HB6RzxO5oV08ScLx6aN0l8P_1KZ3YXJrgNy7lQt9FLINDu0fapksARdS5lv0Bq6IeJcFo2-B2Kyvh9e2G7H-yrwFVsTMaNztC8o0",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEBxCJF1yaU75cy5EEbZdIaWjFSuRfBfuWBdMq9z_7uRJD6j8PkK-W1sYHQHvUqqDdh7FWaCpfwrsIKAOqDBgqUq8K7F04PnDKMK_1GehhN5_Ys8u3K6R9K4dHW43bUS84k4WAck8XKBDFbiKwzQOWNtq3ui2_XDU0V_quOp5uPdobjRUaSAV2plIOqlBL-kPXOnZEDs1cdXNk&ved=2ahUKEwiExvmH3JuYAxVVkokEHWvtAhUQFnoECEoQAQ&uoh=1",
+        "displayed_link": "30+ answers",
+        "date": "10 years ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png",
+        "snippet": "Are there any software frameworks for object motion tracking in videos?",
+        "about_this_result": {
+          "source": {
+            "description": "Check out OpenCV, that's \u201copen computer vision\u201d, algorithms. I also suggest checking out Google's Mediapipe project; KineMaster Video Editor. ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESmQEBxCJF1-4ZPBA2N7wuDvkIjpDG0WENEJhmxQl8vafk4XBeOUH5AANTGcuSHRjWoMJ6AMwD5zYR6zgdjNhu2QGhdR3_IHx6yuhTCOcyWs3HB6RzxO5oV08ScLx6aN0l8P_1KZ3YXJrgNy7lQt9FLINDu0fapksARdS5lv0Bq6IeJcFo2-B2Kyvh9e2G7H-yrwFVsTMaNztC8o0",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCeENKRjEtNFpQQkEyTjd3dUR2a0lqcERHMFdFTkVKaG14UWw4dmFmazRYQmVPVUg1QUFOVEdjdVNIUmpXb01KNkFNd0Q1ellSNnpnZGpOaHUyUUdoZFIzX0lIeDZ5dWhUQ09jeVdzM0hCNlJ6eE81b1YwOFNjTHg2YU4wbDhQXzFLWjNZWEpyZ055N2xRdDlGTElORHUwZmFwa3NBUmRTNWx2MEJxNkllSmNGbzItQjJLeXZoOWUyRzdILXlyd0ZWc1RNYU56dEM4bzASBBoCCAAarQcSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAiQcIABAAGAAgACohCgR3aGF0FYk5gj8aBWdyZWF0GgZ0b3AgMTAaBXdoYXRzKgoKA2FyZRUAAAAAKgoKA3RoZRUAAAAAKk0KBGJlc3QVCQOePxoHYmVzdGVzdBoJZXNzZW50aWFsGgVncmVhdBoHcGVyZmVjdBoJc29tZSBnb29kGgZ0b3AgMTAaCWJlc3R0b29scyo0CgV0b29scxUXaIg-GgllcXVpcG1lbnQaB3Byb2dyYW0aB3Rvb2wgdG8aCWJlc3R0b29scyoKCgNmb3IVAAAAACoUCgV2aWRlbxVqkxFAGgZ2aWRlb3MqSQoJcmVmcmFtaW5nFQAAAAAaB3JlZnJhbWUaCHJlZnJhbWVkGg5pdjtwO3JlZnJhbWluZxoJcmVjb3JkaW5nGglyZXBvcnRpbmcqCgoDYW5kFQAAAAAqJgoGb2JqZWN0FU7kjkAaB29iamVjdHMaDm9iamVjdHRyYWNraW5nKiYKCHRyYWNraW5nFfY-l0AaBXRyYWNrGg5vYmplY3R0cmFja2luZzLdAS9nb3RvP3VybD1DQUVTbVFFQnhDSkYxLTRaUEJBMk43d3VEdmtJanBERzBXRU5FSmhteFFsOHZhZms0WEJlT1VINUFBTlRHY3VTSFJqV29NSjZBTXdENXpZUjZ6Z2RqTmh1MlFHaGRSM19JSHg2eXVoVENPY3lXczNIQjZSenhPNW9WMDhTY0x4NmFOMGw4UF8xS1ozWVhKcmdOeTdsUXQ5RkxJTkR1MGZhcGtzQVJkUzVsdjBCcTZJZUpjRm8yLUIyS3l2aDllMkc3SC15cndGVnNUTWFOenRDOG8wOk5BcmUgdGhlcmUgYW55IHNvZnR3YXJlIGZyYW1ld29ya3MgZm9yIDxiPm9iamVjdDwvYj4gbW90aW9uIDxiPnRyYWNraW5nPC9iPiAuLi5CqQFDaGVjayBvdXQgT3BlbkNWLCB0aGF0JiMzOTtzIOKAnG9wZW4gY29tcHV0ZXIgdmlzaW9u4oCdLCBhbGdvcml0aG1zLiBJIGFsc28gc3VnZ2VzdCBjaGVja2luZyBvdXQgR29vZ2xlJiMzOTtzIE1lZGlhcGlwZSBwcm9qZWN0OyBLaW5lTWFzdGVyIDxiPlZpZGVvPC9iPiBFZGl0b3IuJm5ic3A7Li4uSgNhbmRKA3RoZUoDYXJlSgNmb3JSBnRvcCAxMCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCeENKRjEtNFpQQkEyTjd3dUR2a0lqcERHMFdFTkVKaG14UWw4dmFmazRYQmVPVUg1QUFOVEdjdVNIUmpXb01KNkFNd0Q1ellSNnpnZGpOaHUyUUdoZFIzX0lIeDZ5dWhUQ09jeVdzM0hCNlJ6eE81b1YwOFNjTHg2YU4wbDhQXzFLWjNZWEpyZ055N2xRdDlGTElORHUwZmFwa3NBUmRTNWx2MEJxNkllSmNGbzItQjJLeXZoOWUyRzdILXlyd0ZWc1RNYU56dEM4bzASBBoCCAAarQcSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAiQcIABAAGAAgACohCgR3aGF0FYk5gj8aBWdyZWF0GgZ0b3AgMTAaBXdoYXRzKgoKA2FyZRUAAAAAKgoKA3RoZRUAAAAAKk0KBGJlc3QVCQOePxoHYmVzdGVzdBoJZXNzZW50aWFsGgVncmVhdBoHcGVyZmVjdBoJc29tZSBnb29kGgZ0b3AgMTAaCWJlc3R0b29scyo0CgV0b29scxUXaIg-GgllcXVpcG1lbnQaB3Byb2dyYW0aB3Rvb2wgdG8aCWJlc3R0b29scyoKCgNmb3IVAAAAACoUCgV2aWRlbxVqkxFAGgZ2aWRlb3MqSQoJcmVmcmFtaW5nFQAAAAAaB3JlZnJhbWUaCHJlZnJhbWVkGg5pdjtwO3JlZnJhbWluZxoJcmVjb3JkaW5nGglyZXBvcnRpbmcqCgoDYW5kFQAAAAAqJgoGb2JqZWN0FU7kjkAaB29iamVjdHMaDm9iamVjdHRyYWNraW5nKiYKCHRyYWNraW5nFfY-l0AaBXRyYWNrGg5vYmplY3R0cmFja2luZzLdAS9nb3RvP3VybD1DQUVTbVFFQnhDSkYxLTRaUEJBMk43d3VEdmtJanBERzBXRU5FSmhteFFsOHZhZms0WEJlT1VINUFBTlRHY3VTSFJqV29NSjZBTXdENXpZUjZ6Z2RqTmh1MlFHaGRSM19JSHg2eXVoVENPY3lXczNIQjZSenhPNW9WMDhTY0x4NmFOMGw4UF8xS1ozWVhKcmdOeTdsUXQ5RkxJTkR1MGZhcGtzQVJkUzVsdjBCcTZJZUpjRm8yLUIyS3l2aDllMkc3SC15cndGVnNUTWFOenRDOG8wOk5BcmUgdGhlcmUgYW55IHNvZnR3YXJlIGZyYW1ld29ya3MgZm9yIDxiPm9iamVjdDwvYj4gbW90aW9uIDxiPnRyYWNraW5nPC9iPiAuLi5CqQFDaGVjayBvdXQgT3BlbkNWLCB0aGF0JiMzOTtzIOKAnG9wZW4gY29tcHV0ZXIgdmlzaW9u4oCdLCBhbGdvcml0aG1zLiBJIGFsc28gc3VnZ2VzdCBjaGVja2luZyBvdXQgR29vZ2xlJiMzOTtzIE1lZGlhcGlwZSBwcm9qZWN0OyBLaW5lTWFzdGVyIDxiPlZpZGVvPC9iPiBFZGl0b3IuJm5ic3A7Li4uSgNhbmRKA3RoZUoDYXJlSgNmb3JSBnRvcCAxMCICEAFIAFgAaAA",
+        "source": "Quora"
+      },
+      {
+        "position": 7,
+        "title": "Complete Guide to Object Tracking: Best AI Models, Tools ...",
+        "link": "https://www.google.com/goto?url=CAESpQEBxCJF15uWuHn2F0M6c-_KweMNuPNDqk2AkjOlEplw95Koc3e_7GsF1ZGzUQvmH05dKs2XXgKJQz1w6difzo_rnRawfrogIeiaJI4JMPAq9dbd02r41somz06QDz25gBp7-PULnAFpRcgxT64yynhDAEpuil9Ycbji3gxY6NltmK9Ou0JtcFNgJD3yvS-KSqxlYeKcp1qiiTlPxbxUxarWY3-2ZFw",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpQEBxCJF1yEti2kyRUBnZyvixgOj14NrlW8IqqYHe6COdQrSDYOd2Ush54cTwlereVSpHw0fJlE8Uunta5msRpSGu0EI6SauWEyEYoXlJsX1aSTs2FmdSx7p59FfHyU39aMgTPu6gNUIMCnd5skn9ooOEyEFbuuhre8JVrEIWzi-b6A92rv6006U8S_v9mS76NDdw3oWp-MB3VR-FKYHTCMujVUOxXU&ved=2ahUKEwiExvmH3JuYAxVVkokEHWvtAhUQFnoECEgQAQ&uoh=1",
+        "displayed_link": "https://supervisely.com \u203a blog \u203a complete-guide-to-objec...",
+        "favicon": "https://serpapi.com/searches/6b02f309a6ff7d6ab140536e/images/UNi9ZPkflRpc5zuO-D7Cmvf7PMJ04U-cS5l0q9oGVKQ.png",
+        "date": "Aug 7, 2023",
+        "snippet": "In this tutorial, we will show you the top AI models and automatic video annotation tools you can use to efficiently track objects on videos.",
+        "snippet_highlighted_words": [
+          "AI models and automatic video annotation tools"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "In this tutorial, we will show you the top AI models and automatic video annotation tools you can use to efficiently track objects on videos.",
+            "source_info_link": "https://www.google.com/goto?url=CAESpQEBxCJF15uWuHn2F0M6c-_KweMNuPNDqk2AkjOlEplw95Koc3e_7GsF1ZGzUQvmH05dKs2XXgKJQz1w6difzo_rnRawfrogIeiaJI4JMPAq9dbd02r41somz06QDz25gBp7-PULnAFpRcgxT64yynhDAEpuil9Ycbji3gxY6NltmK9Ou0JtcFNgJD3yvS-KSqxlYeKcp1qiiTlPxbxUxarWY3-2ZFw",
+            "icon": "https://serpapi.com/searches/6b02f309a6ff7d6ab140536e/images/UNi9ZPkflRpc5zuO-D7CmjoRbgQXbLHtjLQ1FdDOXnwNnCbb3xU3rpLnfmWwI0wz.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cu0BL2dvdG8_dXJsPUNBRVNwUUVCeENKRjE1dVd1SG4yRjBNNmMtX0t3ZU1OdVBORHFrMkFrak9sRXBsdzk1S29jM2VfN0dzRjFaR3pVUXZtSDA1ZEtzMlhYZ0tKUXoxdzZkaWZ6b19yblJhd2Zyb2dJZWlhSkk0Sk1QQXE5ZGJkMDJyNDFzb216MDZRRHoyNWdCcDctUFVMbkFGcFJjZ3hUNjR5eW5oREFFcHVpbDlZY2JqaTNneFk2Tmx0bUs5T3UwSnRjRk5nSkQzeXZTLUtTcXhsWWVLY3AxcWlpVGxQeGJ4VXhhcldZMy0yWkZ3EgQaAggAGq8HEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIsHCAAQABgAIAAqIQoEd2hhdBUIaU9AGgVncmVhdBoGdG9wIDEwGgV3aGF0cyoKCgNhcmUVAAAAACoKCgN0aGUVAAAAACpNCgRiZXN0Fc4Wm0AaB2Jlc3Rlc3QaCWVzc2VudGlhbBoFZ3JlYXQaB3BlcmZlY3QaCXNvbWUgZ29vZBoGdG9wIDEwGgliZXN0dG9vbHMqNAoFdG9vbHMVvuauQBoJZXF1aXBtZW50Ggdwcm9ncmFtGgd0b29sIHRvGgliZXN0dG9vbHMqCgoDZm9yFQAAAAAqFAoFdmlkZW8VBd-WQBoGdmlkZW9zKkkKCXJlZnJhbWluZxUAAAAAGgdyZWZyYW1lGghyZWZyYW1lZBoOaXY7cDtyZWZyYW1pbmcaCXJlY29yZGluZxoJcmVwb3J0aW5nKgoKA2FuZBUAAAAAKiYKBm9iamVjdBX_1utAGgdvYmplY3RzGg5vYmplY3R0cmFja2luZyomCgh0cmFja2luZxWKn-xAGgV0cmFjaxoOb2JqZWN0dHJhY2tpbmcy7QEvZ290bz91cmw9Q0FFU3BRRUJ4Q0pGMTV1V3VIbjJGME02Yy1fS3dlTU51UE5EcWsyQWtqT2xFcGx3OTVLb2MzZV83R3NGMVpHelVRdm1IMDVkS3MyWFhnS0pRejF3NmRpZnpvX3JuUmF3ZnJvZ0llaWFKSTRKTVBBcTlkYmQwMnI0MXNvbXowNlFEejI1Z0JwNy1QVUxuQUZwUmNneFQ2NHl5bmhEQUVwdWlsOVljYmppM2d4WTZObHRtSzlPdTBKdGNGTmdKRDN5dlMtS1NxeGxZZUtjcDFxaWlUbFB4YnhVeGFyV1kzLTJaRnc6VUNvbXBsZXRlIEd1aWRlIHRvIDxiPk9iamVjdCBUcmFja2luZzwvYj46IDxiPkJlc3Q8L2I-IEFJIE1vZGVscywgPGI-VG9vbHM8L2I-IGFuZCAuLi5ClAFJbiB0aGlzIHR1dG9yaWFsLCB3ZSB3aWxsIHNob3cgeW91IHRoZSB0b3AgPGI-QUkgbW9kZWxzIGFuZCBhdXRvbWF0aWMgdmlkZW8gYW5ub3RhdGlvbiB0b29sczwvYj4geW91IGNhbiB1c2UgdG8gZWZmaWNpZW50bHkgdHJhY2sgb2JqZWN0cyBvbiB2aWRlb3MuSgNhbmRKA3RoZUoDYXJlSgNmb3JSBnRvcCAxMCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cu0BL2dvdG8_dXJsPUNBRVNwUUVCeENKRjE1dVd1SG4yRjBNNmMtX0t3ZU1OdVBORHFrMkFrak9sRXBsdzk1S29jM2VfN0dzRjFaR3pVUXZtSDA1ZEtzMlhYZ0tKUXoxdzZkaWZ6b19yblJhd2Zyb2dJZWlhSkk0Sk1QQXE5ZGJkMDJyNDFzb216MDZRRHoyNWdCcDctUFVMbkFGcFJjZ3hUNjR5eW5oREFFcHVpbDlZY2JqaTNneFk2Tmx0bUs5T3UwSnRjRk5nSkQzeXZTLUtTcXhsWWVLY3AxcWlpVGxQeGJ4VXhhcldZMy0yWkZ3EgQaAggAGq8HEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIsHCAAQABgAIAAqIQoEd2hhdBUIaU9AGgVncmVhdBoGdG9wIDEwGgV3aGF0cyoKCgNhcmUVAAAAACoKCgN0aGUVAAAAACpNCgRiZXN0Fc4Wm0AaB2Jlc3Rlc3QaCWVzc2VudGlhbBoFZ3JlYXQaB3BlcmZlY3QaCXNvbWUgZ29vZBoGdG9wIDEwGgliZXN0dG9vbHMqNAoFdG9vbHMVvuauQBoJZXF1aXBtZW50Ggdwcm9ncmFtGgd0b29sIHRvGgliZXN0dG9vbHMqCgoDZm9yFQAAAAAqFAoFdmlkZW8VBd-WQBoGdmlkZW9zKkkKCXJlZnJhbWluZxUAAAAAGgdyZWZyYW1lGghyZWZyYW1lZBoOaXY7cDtyZWZyYW1pbmcaCXJlY29yZGluZxoJcmVwb3J0aW5nKgoKA2FuZBUAAAAAKiYKBm9iamVjdBX_1utAGgdvYmplY3RzGg5vYmplY3R0cmFja2luZyomCgh0cmFja2luZxWKn-xAGgV0cmFjaxoOb2JqZWN0dHJhY2tpbmcy7QEvZ290bz91cmw9Q0FFU3BRRUJ4Q0pGMTV1V3VIbjJGME02Yy1fS3dlTU51UE5EcWsyQWtqT2xFcGx3OTVLb2MzZV83R3NGMVpHelVRdm1IMDVkS3MyWFhnS0pRejF3NmRpZnpvX3JuUmF3ZnJvZ0llaWFKSTRKTVBBcTlkYmQwMnI0MXNvbXowNlFEejI1Z0JwNy1QVUxuQUZwUmNneFQ2NHl5bmhEQUVwdWlsOVljYmppM2d4WTZObHRtSzlPdTBKdGNGTmdKRDN5dlMtS1NxeGxZZUtjcDFxaWlUbFB4YnhVeGFyV1kzLTJaRnc6VUNvbXBsZXRlIEd1aWRlIHRvIDxiPk9iamVjdCBUcmFja2luZzwvYj46IDxiPkJlc3Q8L2I-IEFJIE1vZGVscywgPGI-VG9vbHM8L2I-IGFuZCAuLi5ClAFJbiB0aGlzIHR1dG9yaWFsLCB3ZSB3aWxsIHNob3cgeW91IHRoZSB0b3AgPGI-QUkgbW9kZWxzIGFuZCBhdXRvbWF0aWMgdmlkZW8gYW5ub3RhdGlvbiB0b29sczwvYj4geW91IGNhbiB1c2UgdG8gZWZmaWNpZW50bHkgdHJhY2sgb2JqZWN0cyBvbiB2aWRlb3MuSgNhbmRKA3RoZUoDYXJlSgNmb3JSBnRvcCAxMCICEAFIAFgAaAA",
+        "source": "Supervisely"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "What are the best tools for video reframing and object tracking mac",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDgs_ZTpuwlGqpj02oGumtKh33yX6Q:1795355402206&q=What+are+the+best+tools+for+video+reframing+and+object+tracking+mac&sa=X&ved=2ahUKEwiExvmH3JuYAxVVkokEHWvtAhUQ1QJ6BAhAEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+are+the+best+tools+for+video+reframing+and+object+tracking+mac"
+      },
+      {
+        "block_position": 1,
+        "query": "What are the best tools for video reframing and object tracking qui",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDgs_ZTpuwlGqpj02oGumtKh33yX6Q:1795355402206&q=What+are+the+best+tools+for+video+reframing+and+object+tracking+qui&sa=X&ved=2ahUKEwiExvmH3JuYAxVVkokEHWvtAhUQ1QJ6BAhCEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+are+the+best+tools+for+video+reframing+and+object+tracking+qui"
+      },
+      {
+        "block_position": 1,
+        "query": "Tracking annotation reading",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDgs_ZTpuwlGqpj02oGumtKh33yX6Q:1795355402206&q=Tracking+annotation+reading&sa=X&ved=2ahUKEwiExvmH3JuYAxVVkokEHWvtAhUQ1QJ6BAhBEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Tracking+annotation+reading"
+      },
+      {
+        "block_position": 1,
+        "query": "DaVinci Resolve",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDgs_ZTpuwlGqpj02oGumtKh33yX6Q:1795355402206&q=DaVinci+Resolve&sa=X&ved=2ahUKEwiExvmH3JuYAxVVkokEHWvtAhUQ1QJ6BAg_EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=DaVinci+Resolve"
+      },
+      {
+        "block_position": 1,
+        "query": "OpenCV",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDgs_ZTpuwlGqpj02oGumtKh33yX6Q:1795355402206&q=OpenCV&sa=X&ved=2ahUKEwiExvmH3JuYAxVVkokEHWvtAhUQ1QJ6BAg-EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=OpenCV"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "Best Free Motion Tracking softwares for trajectory capture from Video",
+        "link": "https://www.google.com/goto?url=CAESlwEBxCJF19vQEPE9ygue65M7cf5JNL-U9EWOqXnMGm6bbwjzYiH6vv4BiU0U76giucWfDhUQM6uThDudpnZ8pPLNXAL8UNky0DTFPms2BdJumSygtYGhvW_vwaCYbSQSvu7NtM9KysQTBxGS7JAqM1qy_qPwLxXSGOmvyJhOO0N1pPQD2gAZNNtpz1eWnzIRmbOOO5Xc1jMM&gsessionid=DaWfV6kU5N26BRW6D97UEUeb1UoX7c_qLbp7Ckro5ffnkH1dAQXqmQ",
+        "date": "12 months ago",
+        "extensions": [
+          "r/Physics",
+          "2 comments"
+        ],
+        "source": "Reddit",
+        "answers": [
+          {
+            "link": "https://www.google.com/goto?url=CAESlwEBxCJF19vQEPE9ygue65M7cf5JNL-U9EWOqXnMGm6bbwjzYiH6vv4BiU0U76giucWfDhUQM6uThDudpnZ8pPLNXAL8UNky0DTFPms2BdJumSygtYGhvW_vwaCYbSQSvu7NtM9KysQTBxGS7JAqM1qy_qPwLxXSGOmvyJhOO0N1pPQD2gAZNNtpz1eWnzIRmbOOO5Xc1jMM&gsessionid=DaWfV6kU5N26BRW6D97UEUeb1UoX7c_qLbp7Ckro5ffnkH1dAQXqmQ"
+          }
+        ]
+      },
+      {
+        "title": "What free video editing software allows zooming and tracking moving ...",
+        "link": "https://www.google.com/goto?url=CAEShAEBxCJF10a3EuD47L6uKw6XD5TSl-5w4ttYdRdxVWOj7PtzbLnCIStjIRnFkGjQHdP9NuolP17KVW9gs-Uqu_6ig_HNpFOeP5Uh6VzgTGMQiGLTFdaKF1EcA4zzo0S-ZcSzqLoY2oPKX_0y9uPGa0NKg9sGpQTJ50bJF2T_px5EuyZ5GaM&gsessionid=DaWfV6kU5N26BRW6D97UEUeb1UoX7c_qLbp7Ckro5ffnkH1dAQXqmQ",
+        "date": "4 months ago",
+        "extensions": [
+          "Ray-ban meta Forum",
+          "6 comments"
+        ],
+        "source": "Facebook",
+        "answers": [
+          {
+            "link": "https://www.google.com/goto?url=CAEShAEBxCJF10a3EuD47L6uKw6XD5TSl-5w4ttYdRdxVWOj7PtzbLnCIStjIRnFkGjQHdP9NuolP17KVW9gs-Uqu_6ig_HNpFOeP5Uh6VzgTGMQiGLTFdaKF1EcA4zzo0S-ZcSzqLoY2oPKX_0y9uPGa0NKg9sGpQTJ50bJF2T_px5EuyZ5GaM&gsessionid=DaWfV6kU5N26BRW6D97UEUeb1UoX7c_qLbp7Ckro5ffnkH1dAQXqmQ"
+          }
+        ]
+      },
+      {
+        "title": "i need editor which can do tracking and object replace in video",
+        "link": "https://www.google.com/goto?url=CAEShAEBxCJF10nX2KwUlYfM-ZOh7YfeILLO3xYMRtT3LHdm6_159COv8Fb99uqriaopRwhJJJHQ8L9O0jF3YGdqYgf3LetpTrgBD-QyY7LhR_Pw_KmgXI8A-gOacHJVD4DCVs1bbGEi-DDcH3N_70McjM0KNkoWgnsUivuf84NlspG7oU20CP4&gsessionid=DaWfV6kU5N26BRW6D97UEUeb1UoX7c_qLbp7Ckro5ffnkH1dAQXqmQ",
+        "date": "11 months ago",
+        "extensions": [
+          "Pakistani Video Editors",
+          "10+ comments"
+        ],
+        "source": "Facebook",
+        "answers": [
+          {
+            "link": "https://www.google.com/goto?url=CAEShAEBxCJF10nX2KwUlYfM-ZOh7YfeILLO3xYMRtT3LHdm6_159COv8Fb99uqriaopRwhJJJHQ8L9O0jF3YGdqYgf3LetpTrgBD-QyY7LhR_Pw_KmgXI8A-gOacHJVD4DCVs1bbGEi-DDcH3N_70McjM0KNkoWgnsUivuf84NlspG7oU20CP4&gsessionid=DaWfV6kU5N26BRW6D97UEUeb1UoX7c_qLbp7Ckro5ffnkH1dAQXqmQ"
+          }
+        ]
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=What+are+the+best+tools+for+video+reframing+and+object+tracking?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDgs_ZTpuwlGqpj02oGumtKh33yX6Q:1795355402206&ei=CvMCa4SZDNWkptQP69qLqAE&start=10&sa=N&sstk=AYl2yk_CPEVn07OfaL_kS_89tukz2b_NjezcBNcpWzyazc4B6VSfkns8Gql8q2VFsJKECkl5nMWjDucvDhbVuvVhBeZx77z5sYU7Fg&ved=2ahUKEwiExvmH3JuYAxVVkokEHWvtAhUQ8NMDegQIPBAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=What+are+the+best+tools+for+video+reframing+and+object+tracking?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDgs_ZTpuwlGqpj02oGumtKh33yX6Q:1795355402206&ei=CvMCa4SZDNWkptQP69qLqAE&start=10&sa=N&sstk=AYl2yk_CPEVn07OfaL_kS_89tukz2b_NjezcBNcpWzyazc4B6VSfkns8Gql8q2VFsJKECkl5nMWjDucvDhbVuvVhBeZx77z5sYU7Fg&ved=2ahUKEwiExvmH3JuYAxVVkokEHWvtAhUQ8tMDegQIPBAE",
+        "3": "https://www.google.com/search?q=What+are+the+best+tools+for+video+reframing+and+object+tracking?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDgs_ZTpuwlGqpj02oGumtKh33yX6Q:1795355402206&ei=CvMCa4SZDNWkptQP69qLqAE&start=20&sa=N&sstk=AYl2yk_CPEVn07OfaL_kS_89tukz2b_NjezcBNcpWzyazc4B6VSfkns8Gql8q2VFsJKECkl5nMWjDucvDhbVuvVhBeZx77z5sYU7Fg&ved=2ahUKEwiExvmH3JuYAxVVkokEHWvtAhUQ8tMDegQIPBAG",
+        "4": "https://www.google.com/search?q=What+are+the+best+tools+for+video+reframing+and+object+tracking?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDgs_ZTpuwlGqpj02oGumtKh33yX6Q:1795355402206&ei=CvMCa4SZDNWkptQP69qLqAE&start=30&sa=N&sstk=AYl2yk_CPEVn07OfaL_kS_89tukz2b_NjezcBNcpWzyazc4B6VSfkns8Gql8q2VFsJKECkl5nMWjDucvDhbVuvVhBeZx77z5sYU7Fg&ved=2ahUKEwiExvmH3JuYAxVVkokEHWvtAhUQ8tMDegQIPBAI",
+        "5": "https://www.google.com/search?q=What+are+the+best+tools+for+video+reframing+and+object+tracking?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDgs_ZTpuwlGqpj02oGumtKh33yX6Q:1795355402206&ei=CvMCa4SZDNWkptQP69qLqAE&start=40&sa=N&sstk=AYl2yk_CPEVn07OfaL_kS_89tukz2b_NjezcBNcpWzyazc4B6VSfkns8Gql8q2VFsJKECkl5nMWjDucvDhbVuvVhBeZx77z5sYU7Fg&ved=2ahUKEwiExvmH3JuYAxVVkokEHWvtAhUQ8tMDegQIPBAK",
+        "6": "https://www.google.com/search?q=What+are+the+best+tools+for+video+reframing+and+object+tracking?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDgs_ZTpuwlGqpj02oGumtKh33yX6Q:1795355402206&ei=CvMCa4SZDNWkptQP69qLqAE&start=50&sa=N&sstk=AYl2yk_CPEVn07OfaL_kS_89tukz2b_NjezcBNcpWzyazc4B6VSfkns8Gql8q2VFsJKECkl5nMWjDucvDhbVuvVhBeZx77z5sYU7Fg&ved=2ahUKEwiExvmH3JuYAxVVkokEHWvtAhUQ8tMDegQIPBAM",
+        "7": "https://www.google.com/search?q=What+are+the+best+tools+for+video+reframing+and+object+tracking?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDgs_ZTpuwlGqpj02oGumtKh33yX6Q:1795355402206&ei=CvMCa4SZDNWkptQP69qLqAE&start=60&sa=N&sstk=AYl2yk_CPEVn07OfaL_kS_89tukz2b_NjezcBNcpWzyazc4B6VSfkns8Gql8q2VFsJKECkl5nMWjDucvDhbVuvVhBeZx77z5sYU7Fg&ved=2ahUKEwiExvmH3JuYAxVVkokEHWvtAhUQ8tMDegQIPBAO",
+        "8": "https://www.google.com/search?q=What+are+the+best+tools+for+video+reframing+and+object+tracking?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDgs_ZTpuwlGqpj02oGumtKh33yX6Q:1795355402206&ei=CvMCa4SZDNWkptQP69qLqAE&start=70&sa=N&sstk=AYl2yk_CPEVn07OfaL_kS_89tukz2b_NjezcBNcpWzyazc4B6VSfkns8Gql8q2VFsJKECkl5nMWjDucvDhbVuvVhBeZx77z5sYU7Fg&ved=2ahUKEwiExvmH3JuYAxVVkokEHWvtAhUQ8tMDegQIPBAQ",
+        "9": "https://www.google.com/search?q=What+are+the+best+tools+for+video+reframing+and+object+tracking?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDgs_ZTpuwlGqpj02oGumtKh33yX6Q:1795355402206&ei=CvMCa4SZDNWkptQP69qLqAE&start=80&sa=N&sstk=AYl2yk_CPEVn07OfaL_kS_89tukz2b_NjezcBNcpWzyazc4B6VSfkns8Gql8q2VFsJKECkl5nMWjDucvDhbVuvVhBeZx77z5sYU7Fg&ved=2ahUKEwiExvmH3JuYAxVVkokEHWvtAhUQ8tMDegQIPBAS",
+        "10": "https://www.google.com/search?q=What+are+the+best+tools+for+video+reframing+and+object+tracking?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDgs_ZTpuwlGqpj02oGumtKh33yX6Q:1795355402206&ei=CvMCa4SZDNWkptQP69qLqAE&start=90&sa=N&sstk=AYl2yk_CPEVn07OfaL_kS_89tukz2b_NjezcBNcpWzyazc4B6VSfkns8Gql8q2VFsJKECkl5nMWjDucvDhbVuvVhBeZx77z5sYU7Fg&ved=2ahUKEwiExvmH3JuYAxVVkokEHWvtAhUQ8tMDegQIPBAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+are+the+best+tools+for+video+reframing+and+object+tracking%3F&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+are+the+best+tools+for+video+reframing+and+object+tracking%3F&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+are+the+best+tools+for+video+reframing+and+object+tracking%3F&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+are+the+best+tools+for+video+reframing+and+object+tracking%3F&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+are+the+best+tools+for+video+reframing+and+object+tracking%3F&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+are+the+best+tools+for+video+reframing+and+object+tracking%3F&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+are+the+best+tools+for+video+reframing+and+object+tracking%3F&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+are+the+best+tools+for+video+reframing+and+object+tracking%3F&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+are+the+best+tools+for+video+reframing+and+object+tracking%3F&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+are+the+best+tools+for+video+reframing+and+object+tracking%3F&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+are+the+best+tools+for+video+reframing+and+object+tracking%3F&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

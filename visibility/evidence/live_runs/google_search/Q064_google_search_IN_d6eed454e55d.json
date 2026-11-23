@@ -1,0 +1,614 @@
+{
+  "measurement_id": "d6eed454e55d",
+  "question_id": "Q064",
+  "timestamp_utc": "2026-11-22T13:49:09.133391+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "How to generate vertical video clips with split-screen reactions",
+  "market": "IN",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://www.youtube.com/watch?v=lXRNJooXN_o",
+    "https://clipchamp.com/en/blog/how-to-make-split-screen-videos/",
+    "https://www.google.com/goto?url=CAESeQHEIkXXGZUQCdVmaeVi0r4PlBuVyIJPolFKYqw934PaTr_V0xkYL8sqvv9wqKkZOTYEwtWAdrriv0yTmZxpRoO0QGvEWxjKlQj41_zMyAZF-5Okj4KOANj7bqBs1arZdKQVe0aKeKI9SqA-qy3LeDOMccAnIwDYbTI&gsessionid=8p-ZFPMXgCDR-tiLWu_tG3_gzqwStNIZzK2pYefHqrfxnK1qJkQ_7Q",
+    "https://www.google.com/goto?url=CAESaAHEIkXXnppqRMUAZsdW3r1ytMSgTjXyBucD7FrtNnHFqtA18d7fpHXo2_ZU7OU1AishCr64lfMBPXVohePxnjLPaQ-bRgGuPPBjz3pCHVTDXWB40ayHz5HY3dwdXAvRF_Hnfd4rXNdk&gsessionid=8p-ZFPMXgCDR-tiLWu_tG3_gzqwStNIZzK2pYefHqrfxnK1qJkQ_7Q",
+    "https://www.google.com/goto?url=CAESaQHEIkXXRzER3ChasNPBpgWJYXIgDR08AznAFa-jeQ3-WK4FggjuEoaGcU7wyWAd9h5Bbvl4f2-yihF_g8dNBMIf44o3t4t3RYUxrAUnn8CYNyCb4kV1tFPUl7yLfXTRAiIkHxSLBt8V7w",
+    "https://www.google.com/goto?url=CAESoQEBxCJF10HSK_sqcQjSAqLH0K-G_VcLMqSL_hbaKs1QkJF5pDuO_vQnsFJolXyEsWrjzzIj2Z3xs4YigyJg5mz1iONzzU-nQRx0b4N7Zm6LjCugIEX_IXl-FWVyd0yn-BOp2XsRvEBGA9T3QuOeehhxtvecvoFmpGs7p9T_KxRcNnNp-RvgmEDWc0i3kP-cBnIU2Qxl4LiT5kYoYoYqZ1WTfQ",
+    "https://www.google.com/goto?url=CAESewHEIkXXSRyxp9YWiCdL1HbYBL4Mbm4BuFErkZM_NRpW5h9Z6AS_kea_k71JpAgXaHclU7oWLXgg46e4ULNNq0D-tFcCBLUYyZp6imf9a-8DUYzdeeKCVZoe_N_HctvAXPwqp02R3FIc_OxstJDNVf38iQfZakDJdtLE8A"
+  ],
+  "raw_text_summary": "How to Create Vertical Split Screen Videos in Adobe Premiere ... ... how to create vertical split screen video using guides. You'll also learn how to use Premiere Gal's vertical split screen video pack for ... How to make split screen videos Step 1. Import media or select stock footage \u00b7 Step 2. Add video assets as separate layers on the timeline \u00b7 Step 3. Edit the position of your ... How to Do a Reaction Video on TikTok: Easy Split Screen Tutorial **Add an Overlay:** Swipe down to find the \"Overlay\" option and tap it. Select the picture or video you want to place at the top of your screen. How to put two videos side by side (split screen effect) In this tutorial, you'll learn how to put two videos side by side to create a split screen effect for both YouTube and Instagram. You'll ... Create Split Screen Videos Fast in Your Browser Place both videos on separate timeline tracks and line them up so they play together. Select each clip and click Fit Canvas. Then select the video on top, open ... How to create a split screen of vertical footage. : r/premiere As such I've been trying to create a 3way split screen of the vertical footage and can't for the life of me find any guidance on how to do it. I ... Split Screen Reaction Video \\n\\nTo make one, import the video you are reacting to, choose a split screen layout, then record your camera next to it. DualCapture films front and back ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f2d20d7c5de7d01802d8",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/sSc7q_z8k7S4u7H-GWJ5cgIbzzJ2GlYMiT648hF7r_c/6b02f2d20d7c5de7d01802d8.json",
+      "markdown_endpoint": "https://serpapi.com/searches/sSc7q_z8k7S4u7H-GWJ5cgIbzzJ2GlYMiT648hF7r_c/6b02f2d20d7c5de7d01802d8.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/sSc7q_z8k7S4u7H-GWJ5cgIbzzJ2GlYMiT648hF7r_c/6b02f2d20d7c5de7d01802d8.json_with_pixel_position",
+      "created_at": "2026-11-22 13:49:06 UTC",
+      "processed_at": "2026-11-22 13:49:06 UTC",
+      "google_url": "https://www.google.com/search?q=How+to+generate+vertical+video+clips+with+split-screen+reactions&oq=How+to+generate+vertical+video+clips+with+split-screen+reactions&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/sSc7q_z8k7S4u7H-GWJ5cgIbzzJ2GlYMiT648hF7r_c/6b02f2d20d7c5de7d01802d8.html",
+      "total_time_taken": 1.44
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "How to generate vertical video clips with split-screen reactions",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "in",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "How to generate vertical video clips with split-screen reactions",
+      "total_results": 145,
+      "time_taken_displayed": 0.18,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "How to make vertical split screen videos in iMovie (The easy ...",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXnpOCyBgEYg16F7ggiFP1Pc_BHBE_mWwm5NkWzjgFyZUSGN3OWFNid0TxhGCSlLU9BxXYg_SHHLowRh3Nrjo9bDUIKE6dJhjXiYajDCW5x5ncD05byoAnCSizdm8HzgWGXKr0&gsessionid=8p-ZFPMXgCDR-tiLWu_tG3_gzqwStNIZzK2pYefHqrfxnK1qJkQ_7Q",
+        "thumbnail": "https://serpapi.com/searches/6b02f2d20d7c5de7d01802d8/images/czte3vQtggAIIKANDc2QvcOXsb44uiXYSLOCTd-tTZY.webp",
+        "channel": "Mac Video Magic",
+        "duration": "9:39",
+        "platform": "YouTube",
+        "date": "1 month ago",
+        "snippet": "Create vertical split screen videos in iMovie by using the cropping tool to adjust B-roll and talking head clips."
+      },
+      {
+        "position": 2,
+        "title": "How to make a split screen reaction video from YouTube",
+        "link": "https://www.google.com/goto?url=CAESZwHEIkXXRSVMwEyoVYwom6MAq33uS65kqZ49Xslae-kyXO1vZxcJKUSTpoklyMW5uoIVccE_NWfo3rgrYshDUTVNc7cRx9JO4FjYAdrNYb5wEec8reMHk8nHhW5rdumiwifUwMNUjI8&gsessionid=8p-ZFPMXgCDR-tiLWu_tG3_gzqwStNIZzK2pYefHqrfxnK1qJkQ_7Q",
+        "thumbnail": "https://serpapi.com/searches/6b02f2d20d7c5de7d01802d8/images/EZtUj42D8lGjPr06DeK0qGKIT059AeMxIpMZOEC9d0Y.webp",
+        "channel": "Detail",
+        "duration": "0:27",
+        "platform": "YouTube",
+        "date": "17 Aug 2026",
+        "snippet": "Make a split-screen reaction video from YouTube using the Detail app. Share the video to the app, select split-screen layout, then record.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQIW9DwRaMPFzA3H9rctz8YnVm5e4DX47pJQA"
+      },
+      {
+        "position": 3,
+        "title": "How to Create a Vertical Split Screen in Premiere Pro ...",
+        "link": "https://www.google.com/goto?url=CAESbQHEIkXXBjzAy0aNVY0GOtyle6QzWwZ1rZVv4ia3EkwAoLthOKi6HKAYfYdddMi4D8iuX2N6zMcy1kXSnGFXXtwXi83FFA4Oh1ooHEwdGQHYviuSMZm3_SxPhguJTwTh6uc9xXpx1LPObgwtlLg&gsessionid=8p-ZFPMXgCDR-tiLWu_tG3_gzqwStNIZzK2pYefHqrfxnK1qJkQ_7Q",
+        "thumbnail": "https://serpapi.com/searches/6b02f2d20d7c5de7d01802d8/images/InGtVkjdC405UQMMwxm903L33jRZ3jCexoovtM_9PpU.webp",
+        "channel": "Maxwell Ridgeway",
+        "duration": "1:21",
+        "platform": "YouTube",
+        "date": "4 Sept 2025",
+        "snippet": "Learn to create a vertical split screen in Premiere Pro for TikTok and Instagram by nesting clips and adjusting scale.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRjO5dqO54gFQsWuTLQDl-6yDiASMNwsj8pgg"
+      },
+      {
+        "position": 4,
+        "title": "EASY Cinematic VERTICAL SPLIT SCREEN for Instagram, Tik ...",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXX36ENVA2E1x86FS99hjUtnxzgvAbIog8D9IOYTdYG_iursg4U7kHD8aEzZXiSgKeUeYibRFw1B_Ix5k9TlNKFQsJirXM6zt4CaARGtRB_Sz6Qm0E4d5yi-O5J_26CqvGbfrro&gsessionid=8p-ZFPMXgCDR-tiLWu_tG3_gzqwStNIZzK2pYefHqrfxnK1qJkQ_7Q",
+        "thumbnail": "https://serpapi.com/searches/6b02f2d20d7c5de7d01802d8/images/kWPT6BNbSaD03omWyNNX9YmiMdrjMbrwWc2kz55cwEk.webp",
+        "channel": "Alli and Will",
+        "duration": "3:22",
+        "platform": "YouTube",
+        "date": "13 May 2025",
+        "snippet": "Create vertical split-screen videos in DaVinci Resolve by changing timeline resolution, using the Video Collage effect, and adjusting tiles.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQxGODK3SX-WAX5B4bHywAihI8o-auiGVFApA"
+      }
+    ],
+    "short_videos": [
+      {
+        "position": 1,
+        "title": "How to make a split screen reaction video from YouTube",
+        "source": "YouTube",
+        "profile_name": "Detail",
+        "extensions": [
+          "Detail"
+        ],
+        "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "duration": "0:27",
+        "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT2KsuvQ1SB6MN_i2zaEu3_tDMGLbioQ1dTvw",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8kSBPelS7BcYY2J-pEmMmoH_eojDqoxi_agcdqS0dCYOJ6sAb2l3xN_U&s=10",
+        "link": "https://www.youtube.com/shorts/MJe6dxriUI4"
+      },
+      {
+        "position": 2,
+        "title": "Easy two person reaction video layout for YouTube",
+        "source": "YouTube",
+        "profile_name": "Detail",
+        "extensions": [
+          "Detail"
+        ],
+        "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "duration": "0:22",
+        "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQkG-eoSTAQ_Owr5yIGyYPaLNACPUXjXRgyvg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI64wYXov7WfEItbiUQtJAs6P0T-CND2iJPLwFyqJRYwMBIeOjOZJVTac&s=10",
+        "link": "https://www.youtube.com/shorts/ecUrMWME9Qg"
+      },
+      {
+        "position": 3,
+        "title": "How to Split Screen for Facebook Reaction Videos Tutorial by Gsofficial1 on Facebook. Play on Facebook. 1:56",
+        "source": "Facebook",
+        "profile_name": "Gsofficial1",
+        "extensions": [
+          "Gsofficial1"
+        ],
+        "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+        "duration": "1:56",
+        "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRDGDyMircUAiUoSgRdx9tuAEx2NBzL0wxJEQ",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzg-zaCuhwfA9pcS2whok9XAu_g5bV6FK-YXDYeJOXfZdmlOg9bcWLxc&s=10",
+        "link": "https://www.google.com/goto?url=CAESywEBxCJF1wi7uPigeMmkfs1HJ_hiVPUg0zrsfPQMi5BeN7Ye5QNAF9MLsNPL5gevRwbDHdY8zKJapK2FNPeWtvrpqoTw1XgEFrfEXBxrlT2zCc0MSDPXY4kW5682l3k8p4UggRVkJsUEOqnoF_FvrRGNa7lMbF35swNGzcovx1Ca4SLgFD-q96yRScKnAAhq-7afZYsa6xPcb9kC8Ne0q8PHmjwRKAn-qMth0pieoLW-4KuBhXOCzfP1hCtBjQz7i9OLszyRKrX9MaEkTw&gsessionid=8p-ZFPMXgCDR-tiLWu_tG3_gzqwStNIZzK2pYefHqrfxnK1qJkQ_7Q"
+      },
+      {
+        "position": 4,
+        "title": "Easy two person reaction video setup",
+        "source": "YouTube",
+        "profile_name": "Detail",
+        "extensions": [
+          "Detail"
+        ],
+        "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "duration": "0:20",
+        "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ-886fdfdDfQ9g1TuHaZxhx7WT0wJxCctFeg",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Cni0nK0LleI2rRXmM6WH-7uaDv2bDGrq9o7uZSszcEg3htXVG-5w6do&s=10",
+        "link": "https://www.youtube.com/shorts/wTVULfLq9Vc"
+      },
+      {
+        "position": 5,
+        "title": "Place two videos side by side to create a split screen effect ...",
+        "source": "YouTube",
+        "profile_name": "Microsoft Clipchamp",
+        "extensions": [
+          "Microsoft Clipchamp"
+        ],
+        "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "duration": "1:08",
+        "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT89JLvtfKq3cUreZbpRluQEZtl90kly65Uww",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXEkLfRKIwP3iIvs4p3mBl49IYCbkOnJeAGv1EZe_V9aN3sdq70kPUXPM&s",
+        "link": "https://www.youtube.com/shorts/sHM8ZfkdiG0"
+      },
+      {
+        "position": 6,
+        "title": "The Easiest Way to Make Split-Screen Videos (Best for ...",
+        "source": "YouTube",
+        "profile_name": "FocuSee",
+        "extensions": [
+          "FocuSee"
+        ],
+        "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "duration": "0:16",
+        "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQEhF3ICjT5lG4e-YHBs_QS9LBqIkDjPDFzhQ",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-4hdXi6YAHdXO8Noc3XF6w__2uS4ss1kivb7vjcjqGCqMgPSWiZpB_Zo&s=10",
+        "link": "https://www.youtube.com/shorts/WcKgm8wVMPU"
+      },
+      {
+        "position": 7,
+        "title": "How to Create a Vertical Split Screen in Premiere Pro ...",
+        "source": "YouTube",
+        "profile_name": "Maxwell Ridgeway",
+        "extensions": [
+          "Maxwell Ridgeway"
+        ],
+        "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "duration": "1:21",
+        "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRs94w28wDP-9ucqWVnRW1siWxB0y7qxD80jA",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtDMYL9R0ejh0hJL8Y9V4Fj-LIRS08Bj2dkV_QhCEGl9p-4FFTu9HGfKg&s=10",
+        "link": "https://www.youtube.com/shorts/PGGmEtFoCNU?vl=en"
+      },
+      {
+        "position": 8,
+        "title": "\ud83d\udd25 SPLIT SCREEN IN JUST ONE CLICK! \ud83c\udfac Still creating ... by Wedding By Naim | Pune | on Instagram. Play on Instagram. 1:27",
+        "source": "Instagram",
+        "profile_name": "Wedding By Naim | Pune |",
+        "extensions": [
+          "Wedding By Naim | Pune |"
+        ],
+        "source_logo": "https://serpapi.com/searches/6b02f2d20d7c5de7d01802d8/images/mkQ4z-IExJy-xXSVK5rVIcZ0vgxhObm1GzaLNQ_qgpQ.png",
+        "duration": "1:27",
+        "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQmW7ECBF1XCogZYuIAOiACiHXxg_i3t2Vuiw",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPwLF73ekLe_mBBGrDi1ZqgqcO8BBKG2LS-TNxlQ24xdmF-aQI4emwXas&s=10",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXJfZrpnyyOfY6F277wO_tgxFuG4MqbrHjiyPi9UFDgWHnGJQs9XPaqgu2mOoV6nhxJf7p4zREgM-lQg5cE7drn38Q7O-vv5iE11AfBWRDQX8sJh4Hixg9UOSz25o-7XdaTp96&gsessionid=8p-ZFPMXgCDR-tiLWu_tG3_gzqwStNIZzK2pYefHqrfxnK1qJkQ_7Q"
+      },
+      {
+        "position": 9,
+        "title": "NEW: Splitz. Create Instant Split-Screens in Premiere Pro with ...",
+        "source": "YouTube",
+        "profile_name": "aescripts + aeplugins",
+        "extensions": [
+          "aescripts + aeplugins"
+        ],
+        "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "duration": "0:34",
+        "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRYdmlKpiq71oqIiGh7AtXWZ1ffgymTKuZqhA",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3eAcevWnvSe0F_3D8nX8KH83bgcSfOpJv0zxASh_ER7S9HJOrkGv09vY&s=10",
+        "link": "https://www.youtube.com/shorts/LTCqi5UHVRE"
+      },
+      {
+        "position": 10,
+        "title": "How to Split Your Screen for Reaction Videos ... by Gsofficial1 on Facebook. Play on Facebook. 1:56",
+        "source": "Facebook",
+        "profile_name": "Gsofficial1",
+        "extensions": [
+          "Gsofficial1"
+        ],
+        "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+        "duration": "1:56",
+        "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRDGDyMircUAiUoSgRdx9tuAEx2NBzL0wxJEQ",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmzg-zaCuhwfA9pcS2whok9XAu_g5bV6FK-YXDYeJOXfZdmlOg9bcWLxc&s=10",
+        "link": "https://www.google.com/goto?url=CAESzAEBxCJF1wC9fkrz8JtfK_-VRoUyp2KyUAG1T_PA-YLABYw2_LHGrIXy5NuTg5EbxgAGnUa6TgBHc2q9P0adCAfYNuRa9vdVuDHdyat5wMeiz5VY4sk67TXJdDdihq8t42AQUUYI2Z6M4IB2PCwvLg9hWRCdcl-P-tK0vCndp8hg4Y87DEAy2Ts1GC3sWcA3N4QgBF6pZMH81Oo7xDJyJlGOygKaQ6NHggup1mr93CMFUJpQ8oj56xt1Tmk58UU-zOH7kNyfWgYxUPZb-2I&gsessionid=8p-ZFPMXgCDR-tiLWu_tG3_gzqwStNIZzK2pYefHqrfxnK1qJkQ_7Q"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "How to create a video with split screen?",
+        "type": "ai_overview",
+        "page_token": "9a1JhXicHdBNjtowGABQtYdhOeSH0IKEKtE4BETM2MRO4g1K7IAhX-KUCZBm2bPMag4zi1n2GD1Bq57gSe_XK5yb6venu-669mU-Hj8ej6eTMScon6Spx_nLz0aOZQ5Q5LKaT79M7W9HuUC39fL7j_WSMIoyUJCl3MuGoC-siROvgGHEDbVpmzSK4DDYkHoWxQzbSahCGeqtRMQTVbtTju0XPqwzl29ELGDPvvZ5GBgMcNvHSygS7xlX3GWIVtjRbsFEr7hydrEcMMwmGWDCENyy2psqpC_C5njL-J077VbWJ4ek2ogAHAFmIJYHkS8A2zCIZHNLmnYr-GbCBn4v02VIAMf7euaXF-EiLR-pBX7GZ2eFqC4qdf3nEDlQJgdNVW_OhOldhJhLrYBEq-6YX3hXBMSWljBx0-Z0FfVFGvRyBT4jo6O8L9zR_8_F4Vh38_ZqTm_yWuZdqQ559159_vPxF1aYi30",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=9a1JhXicHdBNjtowGABQtYdhOeSH0IKEKtE4BETM2MRO4g1K7IAhX-KUCZBm2bPMag4zi1n2GD1Bq57gSe_XK5yb6venu-669mU-Hj8ej6eTMScon6Spx_nLz0aOZQ5Q5LKaT79M7W9HuUC39fL7j_WSMIoyUJCl3MuGoC-siROvgGHEDbVpmzSK4DDYkHoWxQzbSahCGeqtRMQTVbtTju0XPqwzl29ELGDPvvZ5GBgMcNvHSygS7xlX3GWIVtjRbsFEr7hydrEcMMwmGWDCENyy2psqpC_C5njL-J077VbWJ4ek2ogAHAFmIJYHkS8A2zCIZHNLmnYr-GbCBn4v02VIAMf7euaXF-EiLR-pBX7GZ2eFqC4qdf3nEDlQJgdNVW_OhOldhJhLrYBEq-6YX3hXBMSWljBx0-Z0FfVFGvRyBT4jo6O8L9zR_8_F4Vh38_ZqTm_yWuZdqQ559159_vPxF1aYi30",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFpXSjNSMTkzUlZoNVQwUlpiRnA0ZFdaTGMyUmlOekpOWW5KRUxUTnhhR1pLVTFac1FVOXlSMUkzWTBnek1rbDVlVkJMVWpOUldIRlBRbk52ZW5Kb1ZtNWFSRFZXU0ZreFZIQnFRM0J5WXpCUmJGQlVTWEpMY1ZOaVFSSVhNRjlKUTJGZlluUkVZVzVIYTFCSlVITTBWSE00VVhjYUlrRklUakJGTjBWMlZUTTJRWGMzWHpaUlFYYzBNakExZGxZd1FsUkhZbmd0U1ZFIiwiZmN2IjoiMyIsImVpIjoiMF9JQ2FfYnREYW5Ha1BJUHM0VHM4UXciLCJxYyI6ImN3WEJ3UTJBSUF3RlVNLWUxQW4tSnJvS3FUX1NoQUJwR3pnNWh2djYzbnJsTmhFTkR5c3RCVEZvb1pJS2h0NXNrS0xkTVRVeXZCY051QmhaWVV3UzJxcHZ5N3RfeF9rRCIsInF1ZXN0aW9uIjoiSG93IHRvIGNyZWF0ZSBhIHZpZGVvIHdpdGggc3BsaXQgc2NyZWVuPyIsImxrIjoiR2lkb2IzY2dkRzhnWTNKbFlYUmxJR0VnZG1sa1pXOGdkMmwwYUNCemNHeHBkQ0J6WTNKbFpXNCIsImJzIjoiYzVXUE1RN0NNQXhGeGVxSk9RakpzQUFTTVBRQ0dSaUFBekNqa0JwaWtTWlZFOXJyVTVSU2xRbVkzX3ZfMjNDQzVjRTNHRDNxaWxRa1ZGaHpUaDRiamdaRGFUbGlhQkU1bWEzRXd2em13aDVtWFcyaDdwUllRbGhURlZrcks3TzVRUE5GZ2pOc2hrV3FKOTMwbGEzRmFLZ19jaXZXNW84QTVMQjdEV2psOElqYUZ4ZDJoTVhEUmk0dHBVeEFkbTJmd3NEdVp1bmowMlRJYkNvbTczQ1hHVnJqMFJNIiwiaWQiOiJmY18wX0lDYV9idERhbkdrUElQczRUczhRd181In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFpXSjNSMTkzUlZoNVQwUlpiRnA0ZFdaTGMyUmlOekpOWW5KRUxUTnhhR1pLVTFac1FVOXlSMUkzWTBnek1rbDVlVkJMVWpOUldIRlBRbk52ZW5Kb1ZtNWFSRFZXU0ZreFZIQnFRM0J5WXpCUmJGQlVTWEpMY1ZOaVFSSVhNRjlKUTJGZlluUkVZVzVIYTFCSlVITTBWSE00VVhjYUlrRklUakJGTjBWMlZUTTJRWGMzWHpaUlFYYzBNakExZGxZd1FsUkhZbmd0U1ZFIiwiZmN2IjoiMyIsImVpIjoiMF9JQ2FfYnREYW5Ha1BJUHM0VHM4UXciLCJxYyI6ImN3WEJ3UTJBSUF3RlVNLWUxQW4tSnJvS3FUX1NoQUJwR3pnNWh2djYzbnJsTmhFTkR5c3RCVEZvb1pJS2h0NXNrS0xkTVRVeXZCY051QmhaWVV3UzJxcHZ5N3RfeF9rRCIsInF1ZXN0aW9uIjoiSG93IHRvIGNyZWF0ZSBhIHZpZGVvIHdpdGggc3BsaXQgc2NyZWVuPyIsImxrIjoiR2lkb2IzY2dkRzhnWTNKbFlYUmxJR0VnZG1sa1pXOGdkMmwwYUNCemNHeHBkQ0J6WTNKbFpXNCIsImJzIjoiYzVXUE1RN0NNQXhGeGVxSk9RakpzQUFTTVBRQ0dSaUFBekNqa0JwaWtTWlZFOXJyVTVSU2xRbVkzX3ZfMjNDQzVjRTNHRDNxaWxRa1ZGaHpUaDRiamdaRGFUbGlhQkU1bWEzRXd2em13aDVtWFcyaDdwUllRbGhURlZrcks3TzVRUE5GZ2pOc2hrV3FKOTMwbGEzRmFLZ19jaXZXNW84QTVMQjdEV2psOElqYUZ4ZDJoTVhEUmk0dHBVeEFkbTJmd3NEdVp1bmowMlRJYkNvbTczQ1hHVnJqMFJNIiwiaWQiOiJmY18wX0lDYV9idERhbkdrUElQczRUczhRd181In0%3D"
+      },
+      {
+        "question": "How to make splitscreen vertical?",
+        "type": "ai_overview",
+        "page_token": "5Ty62XicHdDBcqIwAADQ2f2YHmsJ6rbOODulDVE7BhNIgFw6MUEjCcJaBMux37Kn_ZgeetzP6Bd0pu8T3ttfdzja_z8607bNy2w06vv-el_Xe1dcq7oayZfXoxop6dxWKjub_pp6v3dqDs_L4OHPMiCMwtxpl5e4EchFcWoQg7cXzVbd1hMYL_hSL1Y7WYUVKbGjaNyKSsc8CTbCclCE-Jwg_CRckBcLTKQXMpbxRoUhoQnuVWrseuANr8ZjBnqQIjtOFg3gpXuMByp07IEI0Q22qo-QgRqYScLUJRtWr2sHJ8x3UZGaB1aaKbf5kIEVz-ObniX3E1qGR1pNvJQHHeG8VQgnIuHnCOIAGtVnN-4x53cHDanZWn1i0BE1UKYGQ_WlPhBmojVkPvXFOULCytJ1stSOg7sMWxMXFQbcd6E4Ck7I1U51c__q-3P-vKvaWXOq9__UqZBtoZ9l-25_fn58ASzXi-k",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=5Ty62XicHdDBcqIwAADQ2f2YHmsJ6rbOODulDVE7BhNIgFw6MUEjCcJaBMux37Kn_ZgeetzP6Bd0pu8T3ttfdzja_z8607bNy2w06vv-el_Xe1dcq7oayZfXoxop6dxWKjub_pp6v3dqDs_L4OHPMiCMwtxpl5e4EchFcWoQg7cXzVbd1hMYL_hSL1Y7WYUVKbGjaNyKSsc8CTbCclCE-Jwg_CRckBcLTKQXMpbxRoUhoQnuVWrseuANr8ZjBnqQIjtOFg3gpXuMByp07IEI0Q22qo-QgRqYScLUJRtWr2sHJ8x3UZGaB1aaKbf5kIEVz-ObniX3E1qGR1pNvJQHHeG8VQgnIuHnCOIAGtVnN-4x53cHDanZWn1i0BE1UKYGQ_WlPhBmojVkPvXFOULCytJ1stSOg7sMWxMXFQbcd6E4Ck7I1U51c__q-3P-vKvaWXOq9__UqZBtoZ9l-25_fn58ASzXi-k",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFpXSjNSMTkzUlZoNVQwUlpiRnA0ZFdaTGMyUmlOekpOWW5KRUxUTnhhR1pLVTFac1FVOXlSMUkzWTBnek1rbDVlVkJMVWpOUldIRlBRbk52ZW5Kb1ZtNWFSRFZXU0ZreFZIQnFRM0J5WXpCUmJGQlVTWEpMY1ZOaVFSSVhNRjlKUTJGZlluUkVZVzVIYTFCSlVITTBWSE00VVhjYUlrRklUakJGTjBWMlZUTTJRWGMzWHpaUlFYYzBNakExZGxZd1FsUkhZbmd0U1ZFIiwiZmN2IjoiMyIsImVpIjoiMF9JQ2FfYnREYW5Ha1BJUHM0VHM4UXciLCJxYyI6ImN3WEJ3UTJBSUF3RlVNLWUxQW4tSnJvS3FUX1NoQUJwR3pnNWh2djYzbnJsTmhFTkR5c3RCVEZvb1pJS2h0NXNrS0xkTVRVeXZCY051QmhaWVV3UzJxcHZ5N3RfeF9rRCIsInF1ZXN0aW9uIjoiSG93IHRvIG1ha2Ugc3BsaXRzY3JlZW4gdmVydGljYWw/IiwibGsiOiJHaUJvYjNjZ2RHOGdiV0ZyWlNCemNHeHBkSE5qY21WbGJpQjJaWEowYVdOaGJBIiwiYnMiOiJjNVdQTVE3Q01BeEZ4ZXFKT1FqSnNBQVNNUFFDR1JpQUF6Q2prQnBpa1NaVkU5cnJVNVJTbFFtWTNfdl8yM0NDNWNFM0dEM3FpbFFrVkZoelRoNGJqZ1pEYVRsaWFCRTVtYTNFd3Z6bXdoNW1YVzJoN3BSWVFsaFRGVmtySzdPNVFQTkZnak5zaGtXcUo5MzBsYTNGYUtnX2Npdlc1bzhBNUxCN0RXamw4SWphRnhkMmhNWERSaTR0cFV4QWRtMmZ3c0R1WnVuajAyVEliQ29tNzNDWEdWcmowUk0iLCJpZCI6ImZjXzBfSUNhX2J0RGFuR2tQSVBzNFRzOFF3XzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFpXSjNSMTkzUlZoNVQwUlpiRnA0ZFdaTGMyUmlOekpOWW5KRUxUTnhhR1pLVTFac1FVOXlSMUkzWTBnek1rbDVlVkJMVWpOUldIRlBRbk52ZW5Kb1ZtNWFSRFZXU0ZreFZIQnFRM0J5WXpCUmJGQlVTWEpMY1ZOaVFSSVhNRjlKUTJGZlluUkVZVzVIYTFCSlVITTBWSE00VVhjYUlrRklUakJGTjBWMlZUTTJRWGMzWHpaUlFYYzBNakExZGxZd1FsUkhZbmd0U1ZFIiwiZmN2IjoiMyIsImVpIjoiMF9JQ2FfYnREYW5Ha1BJUHM0VHM4UXciLCJxYyI6ImN3WEJ3UTJBSUF3RlVNLWUxQW4tSnJvS3FUX1NoQUJwR3pnNWh2djYzbnJsTmhFTkR5c3RCVEZvb1pJS2h0NXNrS0xkTVRVeXZCY051QmhaWVV3UzJxcHZ5N3RfeF9rRCIsInF1ZXN0aW9uIjoiSG93IHRvIG1ha2Ugc3BsaXRzY3JlZW4gdmVydGljYWw%2FIiwibGsiOiJHaUJvYjNjZ2RHOGdiV0ZyWlNCemNHeHBkSE5qY21WbGJpQjJaWEowYVdOaGJBIiwiYnMiOiJjNVdQTVE3Q01BeEZ4ZXFKT1FqSnNBQVNNUFFDR1JpQUF6Q2prQnBpa1NaVkU5cnJVNVJTbFFtWTNfdl8yM0NDNWNFM0dEM3FpbFFrVkZoelRoNGJqZ1pEYVRsaWFCRTVtYTNFd3Z6bXdoNW1YVzJoN3BSWVFsaFRGVmtySzdPNVFQTkZnak5zaGtXcUo5MzBsYTNGYUtnX2Npdlc1bzhBNUxCN0RXamw4SWphRnhkMmhNWERSaTR0cFV4QWRtMmZ3c0R1WnVuajAyVEliQ29tNzNDWEdWcmowUk0iLCJpZCI6ImZjXzBfSUNhX2J0RGFuR2tQSVBzNFRzOFF3XzUifQ%3D%3D"
+      },
+      {
+        "question": "How to make a vertical video fill the screen?",
+        "type": "ai_overview",
+        "page_token": "aIwW5nicHdDBbtowGABgbQ_TY4mJ2g0kNCmLHZoSszixIb5Uxgk4-McJkNYpxz3LTnuYHXbcY-wJJu17hO_7D2id_fPhzQxDf51PJt77-0PXHaC5191poq7vTk-0AtgpbeePnx7Rl71e4Nen6Ov5Kco5wxXUsGkRqGW6X_HPPrulx-yUhyyhZYHpWMYQl0GaMicuPLmO3NWqOZmVABI1R-spgu2Om4Ry8ZyV8qwtMBn0qAIT02l-K8lsqBzZFIlpM0RtjWZWJg8u29BATh_CQvRxY4FI3E8Lko86EL5w5JuyV7ReyucSM0aD2VJu4bwDVgmbvpccOTpFVXnMBwYENJgo4yNfbbpAJCTCRvttAHElZm2NmdnZ-sIx5PrGuL4ZVo9dm3OzzjAPC5xKnqSv3JKtWtJ1DQdfQXosXLRac2Hy0HTS3-312yK8-_-5eNmfhnl_6Q4_9aVRQ1O_qOGX_fj39z9C_IwS",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=aIwW5nicHdDBbtowGABgbQ_TY4mJ2g0kNCmLHZoSszixIb5Uxgk4-McJkNYpxz3LTnuYHXbcY-wJJu17hO_7D2id_fPhzQxDf51PJt77-0PXHaC5191poq7vTk-0AtgpbeePnx7Rl71e4Nen6Ov5Kco5wxXUsGkRqGW6X_HPPrulx-yUhyyhZYHpWMYQl0GaMicuPLmO3NWqOZmVABI1R-spgu2Om4Ry8ZyV8qwtMBn0qAIT02l-K8lsqBzZFIlpM0RtjWZWJg8u29BATh_CQvRxY4FI3E8Lko86EL5w5JuyV7ReyucSM0aD2VJu4bwDVgmbvpccOTpFVXnMBwYENJgo4yNfbbpAJCTCRvttAHElZm2NmdnZ-sIx5PrGuL4ZVo9dm3OzzjAPC5xKnqSv3JKtWtJ1DQdfQXosXLRac2Hy0HTS3-312yK8-_-5eNmfhnl_6Q4_9aVRQ1O_qOGX_fj39z9C_IwS",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFpXSjNSMTkzUlZoNVQwUlpiRnA0ZFdaTGMyUmlOekpOWW5KRUxUTnhhR1pLVTFac1FVOXlSMUkzWTBnek1rbDVlVkJMVWpOUldIRlBRbk52ZW5Kb1ZtNWFSRFZXU0ZreFZIQnFRM0J5WXpCUmJGQlVTWEpMY1ZOaVFSSVhNRjlKUTJGZlluUkVZVzVIYTFCSlVITTBWSE00VVhjYUlrRklUakJGTjBWMlZUTTJRWGMzWHpaUlFYYzBNakExZGxZd1FsUkhZbmd0U1ZFIiwiZmN2IjoiMyIsImVpIjoiMF9JQ2FfYnREYW5Ha1BJUHM0VHM4UXciLCJxYyI6ImN3WEJ3UTJBSUF3RlVNLWUxQW4tSnJvS3FUX1NoQUJwR3pnNWh2djYzbnJsTmhFTkR5c3RCVEZvb1pJS2h0NXNrS0xkTVRVeXZCY051QmhaWVV3UzJxcHZ5N3RfeF9rRCIsInF1ZXN0aW9uIjoiSG93IHRvIG1ha2UgYSB2ZXJ0aWNhbCB2aWRlbyBmaWxsIHRoZSBzY3JlZW4/IiwibGsiOiJHaXhvYjNjZ2RHOGdiV0ZyWlNCaElIWmxjblJwWTJGc0lIWnBaR1Z2SUdacGJHd2dkR2hsSUhOamNtVmxiZyIsImJzIjoiYzVXUE1RN0NNQXhGeGVxSk9RakpzQUFTTVBRQ0dSaUFBekNqa0JwaWtTWlZFOXJyVTVSU2xRbVkzX3ZfMjNDQzVjRTNHRDNxaWxRa1ZGaHpUaDRiamdaRGFUbGlhQkU1bWEzRXd2em13aDVtWFcyaDdwUllRbGhURlZrcks3TzVRUE5GZ2pOc2hrV3FKOTMwbGEzRmFLZ19jaXZXNW84QTVMQjdEV2psOElqYUZ4ZDJoTVhEUmk0dHBVeEFkbTJmd3NEdVp1bmowMlRJYkNvbTczQ1hHVnJqMFJNIiwiaWQiOiJmY18wX0lDYV9idERhbkdrUElQczRUczhRd181In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFpXSjNSMTkzUlZoNVQwUlpiRnA0ZFdaTGMyUmlOekpOWW5KRUxUTnhhR1pLVTFac1FVOXlSMUkzWTBnek1rbDVlVkJMVWpOUldIRlBRbk52ZW5Kb1ZtNWFSRFZXU0ZreFZIQnFRM0J5WXpCUmJGQlVTWEpMY1ZOaVFSSVhNRjlKUTJGZlluUkVZVzVIYTFCSlVITTBWSE00VVhjYUlrRklUakJGTjBWMlZUTTJRWGMzWHpaUlFYYzBNakExZGxZd1FsUkhZbmd0U1ZFIiwiZmN2IjoiMyIsImVpIjoiMF9JQ2FfYnREYW5Ha1BJUHM0VHM4UXciLCJxYyI6ImN3WEJ3UTJBSUF3RlVNLWUxQW4tSnJvS3FUX1NoQUJwR3pnNWh2djYzbnJsTmhFTkR5c3RCVEZvb1pJS2h0NXNrS0xkTVRVeXZCY051QmhaWVV3UzJxcHZ5N3RfeF9rRCIsInF1ZXN0aW9uIjoiSG93IHRvIG1ha2UgYSB2ZXJ0aWNhbCB2aWRlbyBmaWxsIHRoZSBzY3JlZW4%2FIiwibGsiOiJHaXhvYjNjZ2RHOGdiV0ZyWlNCaElIWmxjblJwWTJGc0lIWnBaR1Z2SUdacGJHd2dkR2hsSUhOamNtVmxiZyIsImJzIjoiYzVXUE1RN0NNQXhGeGVxSk9RakpzQUFTTVBRQ0dSaUFBekNqa0JwaWtTWlZFOXJyVTVSU2xRbVkzX3ZfMjNDQzVjRTNHRDNxaWxRa1ZGaHpUaDRiamdaRGFUbGlhQkU1bWEzRXd2em13aDVtWFcyaDdwUllRbGhURlZrcks3TzVRUE5GZ2pOc2hrV3FKOTMwbGEzRmFLZ19jaXZXNW84QTVMQjdEV2psOElqYUZ4ZDJoTVhEUmk0dHBVeEFkbTJmd3NEdVp1bmowMlRJYkNvbTczQ1hHVnJqMFJNIiwiaWQiOiJmY18wX0lDYV9idERhbkdrUElQczRUczhRd181In0%3D"
+      },
+      {
+        "question": "How can I combine multiple videos into a single split screen video?",
+        "type": "ai_overview",
+        "page_token": "2OzPkXicHdBNboJAGADQtIdxKYwoNSamKZZvLIlDHBgQNwZm-DGMgDIWYdmzdNXDdNFlj9ETtOkNXt7buzxW5ffdrlCqaRea1nXdOK_rXKZjXp-0uO0rrvFYyiTm5cJ8MNFjxpd221mrurO2jNqRFDJiqg9XKGPD043ifR9jtPb0mSRGrVKQKg4hi7Eo3cAxPTvvkgFMIYuQGNRjAUVkIA7B-o2wWeDLepru4BiFxTFhJdqXt8iHpmDP4iVcw4xD8yrCeZ_Yt0mEREh0Z8WCjUF8y-drqkKMChdKtdFVH8B8IozGTwJ59my0TXyqGCrOKZ56MFiZx0ixmzg6xXClE7X1AmsgQAcXwMBHx_LsaUd9Aaz8g-nNdYPbgYFluqwzeEVxVO0hgSLaVFY1yvjr0hj9jy0P2Uktmkudf_BLGqtUHGL1Wd7_fP0CTbyAAA",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=2OzPkXicHdBNboJAGADQtIdxKYwoNSamKZZvLIlDHBgQNwZm-DGMgDIWYdmzdNXDdNFlj9ETtOkNXt7buzxW5ffdrlCqaRea1nXdOK_rXKZjXp-0uO0rrvFYyiTm5cJ8MNFjxpd221mrurO2jNqRFDJiqg9XKGPD043ifR9jtPb0mSRGrVKQKg4hi7Eo3cAxPTvvkgFMIYuQGNRjAUVkIA7B-o2wWeDLepru4BiFxTFhJdqXt8iHpmDP4iVcw4xD8yrCeZ_Yt0mEREh0Z8WCjUF8y-drqkKMChdKtdFVH8B8IozGTwJ59my0TXyqGCrOKZ56MFiZx0ixmzg6xXClE7X1AmsgQAcXwMBHx_LsaUd9Aaz8g-nNdYPbgYFluqwzeEVxVO0hgSLaVFY1yvjr0hj9jy0P2Uktmkudf_BLGqtUHGL1Wd7_fP0CTbyAAA",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFpXSjNSMTkzUlZoNVQwUlpiRnA0ZFdaTGMyUmlOekpOWW5KRUxUTnhhR1pLVTFac1FVOXlSMUkzWTBnek1rbDVlVkJMVWpOUldIRlBRbk52ZW5Kb1ZtNWFSRFZXU0ZreFZIQnFRM0J5WXpCUmJGQlVTWEpMY1ZOaVFSSVhNRjlKUTJGZlluUkVZVzVIYTFCSlVITTBWSE00VVhjYUlrRklUakJGTjBWMlZUTTJRWGMzWHpaUlFYYzBNakExZGxZd1FsUkhZbmd0U1ZFIiwiZmN2IjoiMyIsImVpIjoiMF9JQ2FfYnREYW5Ha1BJUHM0VHM4UXciLCJxYyI6ImN3WEJ3UTJBSUF3RlVNLWUxQW4tSnJvS3FUX1NoQUJwR3pnNWh2djYzbnJsTmhFTkR5c3RCVEZvb1pJS2h0NXNrS0xkTVRVeXZCY051QmhaWVV3UzJxcHZ5N3RfeF9rRCIsInF1ZXN0aW9uIjoiSG93IGNhbiBJIGNvbWJpbmUgbXVsdGlwbGUgdmlkZW9zIGludG8gYSBzaW5nbGUgc3BsaXQgc2NyZWVuIHZpZGVvPyIsImxrIjoiR2h0amIyMWlhVzVsSUhacFpHVnZjeUJ6Y0d4cGRDQnpZM0psWlc0IiwiYnMiOiJjNVdQTVE3Q01BeEZ4ZXFKT1FqSnNBQVNNUFFDR1JpQUF6Q2prQnBpa1NaVkU5cnJVNVJTbFFtWTNfdl8yM0NDNWNFM0dEM3FpbFFrVkZoelRoNGJqZ1pEYVRsaWFCRTVtYTNFd3Z6bXdoNW1YVzJoN3BSWVFsaFRGVmtySzdPNVFQTkZnak5zaGtXcUo5MzBsYTNGYUtnX2Npdlc1bzhBNUxCN0RXamw4SWphRnhkMmhNWERSaTR0cFV4QWRtMmZ3c0R1WnVuajAyVEliQ29tNzNDWEdWcmowUk0iLCJpZCI6ImZjXzBfSUNhX2J0RGFuR2tQSVBzNFRzOFF3XzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFpXSjNSMTkzUlZoNVQwUlpiRnA0ZFdaTGMyUmlOekpOWW5KRUxUTnhhR1pLVTFac1FVOXlSMUkzWTBnek1rbDVlVkJMVWpOUldIRlBRbk52ZW5Kb1ZtNWFSRFZXU0ZreFZIQnFRM0J5WXpCUmJGQlVTWEpMY1ZOaVFSSVhNRjlKUTJGZlluUkVZVzVIYTFCSlVITTBWSE00VVhjYUlrRklUakJGTjBWMlZUTTJRWGMzWHpaUlFYYzBNakExZGxZd1FsUkhZbmd0U1ZFIiwiZmN2IjoiMyIsImVpIjoiMF9JQ2FfYnREYW5Ha1BJUHM0VHM4UXciLCJxYyI6ImN3WEJ3UTJBSUF3RlVNLWUxQW4tSnJvS3FUX1NoQUJwR3pnNWh2djYzbnJsTmhFTkR5c3RCVEZvb1pJS2h0NXNrS0xkTVRVeXZCY051QmhaWVV3UzJxcHZ5N3RfeF9rRCIsInF1ZXN0aW9uIjoiSG93IGNhbiBJIGNvbWJpbmUgbXVsdGlwbGUgdmlkZW9zIGludG8gYSBzaW5nbGUgc3BsaXQgc2NyZWVuIHZpZGVvPyIsImxrIjoiR2h0amIyMWlhVzVsSUhacFpHVnZjeUJ6Y0d4cGRDQnpZM0psWlc0IiwiYnMiOiJjNVdQTVE3Q01BeEZ4ZXFKT1FqSnNBQVNNUFFDR1JpQUF6Q2prQnBpa1NaVkU5cnJVNVJTbFFtWTNfdl8yM0NDNWNFM0dEM3FpbFFrVkZoelRoNGJqZ1pEYVRsaWFCRTVtYTNFd3Z6bXdoNW1YVzJoN3BSWVFsaFRGVmtySzdPNVFQTkZnak5zaGtXcUo5MzBsYTNGYUtnX2Npdlc1bzhBNUxCN0RXamw4SWphRnhkMmhNWERSaTR0cFV4QWRtMmZ3c0R1WnVuajAyVEliQ29tNzNDWEdWcmowUk0iLCJpZCI6ImZjXzBfSUNhX2J0RGFuR2tQSVBzNFRzOFF3XzUifQ%3D%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "oI_PKXiczVbLcvI2FJ7puq9Rb0jA3ELIjOcfyQhwuCqXP4SNx5aFbWwsYhkcsuyzdNWH6aLLPkafoMI2fzCBXLppz4w5tnTuOp8Ov_7mu4H318-OE0VLflUqxXFctBmzfVokbFEy-CYgpRnzeUicb7avuIHE2SokVCFOyBa0yMxswbWyJcnxFRpIm7VSlQhXZIm6iqxrqqGbUcsIOt5YG_PaHb_EsZTYV3TT4HQu3D_PeUkviR_vl2pLfBR5kQZ6BxbbDRf4tF8O6l6xIleqxVHJWAgZ8N8SgkCzBfcAsN-Tg_izFrEjrAL1UB-lfG99ALY-NaBq6c4p_7dbo1tNFSYRi2cEZvOx1xFvw53UvfZBXGoupocsrJR5h-F-gjLVbQa5hffoSBGTuvRev9XDvWPUye_AxxZoxXvm36Sz5yBVvd_-xKBdGw8Axvikpx0J071HIPvggz7ZRXTfvL6NhBYsWbbocrlkhoKVSy5xSPIS8m3zq3dNmXURuKMDazi4k9txj7cn35-m7uB61YsNUCKmkPOZYVFLd3T5W_JdrlQql9Vmo3qWAI_wH8jj-8gLGZej4HJwHsnFfhGWd5jLZ3tYLKxp4Fgz2dDelSJPPwzg_TonZTiQ9HKe2xl3ALSxUM5t4h7q7wsJuLREvS7t_fK_aqjvYO6Ako5lmYH7bAnkuw0_AnT7mkDe0Oio2W0eABzmbHd2Ptu7wOPUov0WczdAw0l5sxLnLkcobggoCoy3N0VPqEdqKqvVtvFlJ4YwQhoC6HiTquhIOkDdi0Tooa1UDGwEvJWGVM3NlkHixLZTTxDbaBdpkrL6FnWZMxW0naNbnyL0mYsljWIHsgPM5LBW0583U7yKRnfrHkPLDTyv2Mvoorta4uPYYgvza2ON_O8BuBt6ftb5JwG49fQpAGLnPQAeG3opAFXvBABvUwCq8NjQG--kDobeWwCqwN0DYDb0nlOLR4be1wEIPwbg_nHtA_D1qHIARKcA2EF5AD7OkRh6GINTAMwcvALw3w49-PWhl-CQpiw_AVdz--QkbHvz814lgNXAmfQq34e-WSv3AWHwZRN_OAlni-hqYVj-me5aV7ByHW2sM10ssCtqSU9Kl8WFiBVsGtDQiGhhTcPIJYZfWLsWZQXiu0teiN3IKfCl70bnnISUBoWQGiRyWcClhR8yRTZqzpRtYm4S66LaRfYL7TbmNkLeBR16D1o8GpVfUJs0hmjauWvofkudIt2F988bHE0mZkuflLujl_UoaFvkadDVzXilN0cwVNXLVWXIb-h82h40p2b9yVirzYnuW_X6st8I-_qDGzuLZhTObjYxS6Lhyvp8Yg7Gz3WDDSSRKqdKWVqERBGdULPBEG__5xkAxuA6aV148yR4X_SLySDA3UeAW7Z4mDg0iRNDp3ytkIt6ldRlmRjGrDGjM2lhR5ulUitLPAiV8u-iLqJ-lm5Ef3g__f3nP_zNjzg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=oI_PKXiczVbLcvI2FJ7puq9Rb0jA3ELIjOcfyQhwuCqXP4SNx5aFbWwsYhkcsuyzdNWH6aLLPkafoMI2fzCBXLppz4w5tnTuOp8Ov_7mu4H318-OE0VLflUqxXFctBmzfVokbFEy-CYgpRnzeUicb7avuIHE2SokVCFOyBa0yMxswbWyJcnxFRpIm7VSlQhXZIm6iqxrqqGbUcsIOt5YG_PaHb_EsZTYV3TT4HQu3D_PeUkviR_vl2pLfBR5kQZ6BxbbDRf4tF8O6l6xIleqxVHJWAgZ8N8SgkCzBfcAsN-Tg_izFrEjrAL1UB-lfG99ALY-NaBq6c4p_7dbo1tNFSYRi2cEZvOx1xFvw53UvfZBXGoupocsrJR5h-F-gjLVbQa5hffoSBGTuvRev9XDvWPUye_AxxZoxXvm36Sz5yBVvd_-xKBdGw8Axvikpx0J071HIPvggz7ZRXTfvL6NhBYsWbbocrlkhoKVSy5xSPIS8m3zq3dNmXURuKMDazi4k9txj7cn35-m7uB61YsNUCKmkPOZYVFLd3T5W_JdrlQql9Vmo3qWAI_wH8jj-8gLGZej4HJwHsnFfhGWd5jLZ3tYLKxp4Fgz2dDelSJPPwzg_TonZTiQ9HKe2xl3ALSxUM5t4h7q7wsJuLREvS7t_fK_aqjvYO6Ako5lmYH7bAnkuw0_AnT7mkDe0Oio2W0eABzmbHd2Ptu7wOPUov0WczdAw0l5sxLnLkcobggoCoy3N0VPqEdqKqvVtvFlJ4YwQhoC6HiTquhIOkDdi0Tooa1UDGwEvJWGVM3NlkHixLZTTxDbaBdpkrL6FnWZMxW0naNbnyL0mYsljWIHsgPM5LBW0583U7yKRnfrHkPLDTyv2Mvoorta4uPYYgvza2ON_O8BuBt6ftb5JwG49fQpAGLnPQAeG3opAFXvBABvUwCq8NjQG--kDobeWwCqwN0DYDb0nlOLR4be1wEIPwbg_nHtA_D1qHIARKcA2EF5AD7OkRh6GINTAMwcvALw3w49-PWhl-CQpiw_AVdz--QkbHvz814lgNXAmfQq34e-WSv3AWHwZRN_OAlni-hqYVj-me5aV7ByHW2sM10ssCtqSU9Kl8WFiBVsGtDQiGhhTcPIJYZfWLsWZQXiu0teiN3IKfCl70bnnISUBoWQGiRyWcClhR8yRTZqzpRtYm4S66LaRfYL7TbmNkLeBR16D1o8GpVfUJs0hmjauWvofkudIt2F988bHE0mZkuflLujl_UoaFvkadDVzXilN0cwVNXLVWXIb-h82h40p2b9yVirzYnuW_X6st8I-_qDGzuLZhTObjYxS6Lhyvp8Yg7Gz3WDDSSRKqdKWVqERBGdULPBEG__5xkAxuA6aV148yR4X_SLySDA3UeAW7Z4mDg0iRNDp3ytkIt6ldRlmRjGrDGjM2lhR5ulUitLPAiV8u-iLqJ-lm5Ef3g__f3nP_zNjzg"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "How to Create Vertical Split Screen Videos in Adobe Premiere ...",
+        "link": "https://www.youtube.com/watch?v=lXRNJooXN_o",
+        "displayed_link": "90.9K+ views",
+        "date": "4 years ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f2d20d7c5de7d01802d8/images/bQsmBJZ0ea2YQ8fCOE-uEDnTdpNPZxee8i5c5Xrqxn8.webp",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "... how to create vertical split screen video using guides. You'll also learn how to use Premiere Gal's vertical split screen video pack for ...",
+        "duration": "7:14",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "Intro",
+            "link": "https://www.google.com/goto?url=CAESbAHEIkXXAsgMFugeiR-R2yfb5N9_Rj7tk-Si5TtcX1AeApq1ET8KEABi2SZlq6fXcWHZoTn1-i4T_MMm0aIB8__GkOBbIRcw5giJPlvJZzVRfgz0qeP-n3T1rW3zJUJCRpWllpvPtR_XRy0kCg&gsessionid=8p-ZFPMXgCDR-tiLWu_tG3_gzqwStNIZzK2pYefHqrfxnK1qJkQ_7Q"
+          },
+          {
+            "time": "00:21",
+            "title": "Vertical sequence setup",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXXKWJ20lGRMa2QtgSQkIl8BpsXXl3aL1SkXqVMaB1UXphqWyjOerM-a2_BbpMvQe9Q_nRAmAW1ZAC7U237NkeHly2SxcVREFYpXal1Vfi7cf6-woBM7EwhBDnTfHeTpb5_eOxJLQ8Rzh4&gsessionid=8p-ZFPMXgCDR-tiLWu_tG3_gzqwStNIZzK2pYefHqrfxnK1qJkQ_7Q"
+          },
+          {
+            "time": "00:40",
+            "title": "New vertical workspace",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXXstUlPGj_cTX7kNGuutQoEy6dZwTG80VL1fG8VKTEu7auqjAkoGabAH_5UlcYYOk8_Lzox9q63Tb7FjKQgdSoRA_PScmqizACrtW4gIPsi2j6chF4yhBH6BFxkoc-IDufBKvuWYWhJnA&gsessionid=8p-ZFPMXgCDR-tiLWu_tG3_gzqwStNIZzK2pYefHqrfxnK1qJkQ_7Q"
+          },
+          {
+            "time": "00:53",
+            "title": "Using Guides",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXXiFTGDGcaneptgrHYTC96B8MefAScSbqfMBhwvjQsIeBokPyrcPKbFm4z9_0A1zKDr_QjpBUIJhlYL16RDbI8TjH5-oWjPAg42uCNmCZM9vxFzl4thKoynUzRNo6DfqdZfJSKGnouL5M&gsessionid=8p-ZFPMXgCDR-tiLWu_tG3_gzqwStNIZzK2pYefHqrfxnK1qJkQ_7Q"
+          },
+          {
+            "time": "02:00",
+            "title": "Adding & cropping video",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXIZDNJJZJFA_PhxdhjGpOn3X7OD15yhLL1NS0sQmsV5Op7P9s7u8wDaTGNQrab2xQBwbG5d098uwG40MKZ_3rEHhzvw08Bn9GVGUzcTeHvI6F5l4jljbSFzOYOcRD-ZKqcySnwPtICtZa&gsessionid=8p-ZFPMXgCDR-tiLWu_tG3_gzqwStNIZzK2pYefHqrfxnK1qJkQ_7Q"
+          },
+          {
+            "time": "03:55",
+            "title": "Save guide template",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXZZ3QEjxop9c83fz1UAIlpf35jdQF_QnaUk9eOlw_Ai_jUr6xyH9h0Pt0SK7rxOOFXQKcZaS1A2rAxki3X4m1f9DXl7VR6lo1-TSLTJtafuQz1yLlhVOpXYUFxPleTVhRNYauygz-WJld&gsessionid=8p-ZFPMXgCDR-tiLWu_tG3_gzqwStNIZzK2pYefHqrfxnK1qJkQ_7Q"
+          },
+          {
+            "time": "04:15",
+            "title": "Gal's split screen pack",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXX1YNYnJW-j_XvsHF9HlfnWJfAmOcsuAimn_6ZhutyxeagD3a-zgVA7itYVncSSyZXBrP8kVL0dfbEbRMjvDnDOCnvSZ2u5adCQGgYXTDb6ZGoDhXNVGbvgt_eVRvZ56ipIFdmsICxffmD&gsessionid=8p-ZFPMXgCDR-tiLWu_tG3_gzqwStNIZzK2pYefHqrfxnK1qJkQ_7Q"
+          },
+          {
+            "time": "05:20",
+            "title": "Editing Splis to music",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXX2fnszcp_goJI3cuTS1n3p8xbraP7Dz2LOYXGnhVk5hM1sjtizt0-yleokk-FbZkUiud2v6mUEBP5p2YzQPt4bFrYDoNspFkFnuIcN0LS4UTZK8EvVDB9W-phH7iesvkjev4FqjvY0MeM&gsessionid=8p-ZFPMXgCDR-tiLWu_tG3_gzqwStNIZzK2pYefHqrfxnK1qJkQ_7Q"
+          },
+          {
+            "time": "06:30",
+            "title": "How to export",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXrzuwKXUONNgokNa9d2ecLJN8giZwtoZc9W2QBbz0V2C-h2SxM7-0dPDt4UwmN7kaohYpjxMI2LZXxmPfEwcC14hSPfR2KOVr3W2vhvPuEdHRaKcx0Hk_rgG8Cx2RhuFebVQXPUwfQ1Rd&gsessionid=8p-ZFPMXgCDR-tiLWu_tG3_gzqwStNIZzK2pYefHqrfxnK1qJkQ_7Q"
+          }
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "... how to create vertical split screen video using guides. You'll also learn how to use Premiere Gal's vertical split screen video pack for ...",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWFY4bTNKdmpKUW56OFpKbmd4XzI5TVNwcWFSQmp6eXBkaHg1U1dNYjUyVl85QVJYMVh0YXh2UnotSlhfRlhHSFNNZXJrOXFYYmF2TEdoNHB3LVBSTDdXSVBNbHlkemhONHBtN2FNM3ZGVlJURmRUOEswdVgtbDdsZHQyREtrS1FaanlkTRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWFY4bTNKdmpKUW56OFpKbmd4XzI5TVNwcWFSQmp6eXBkaHg1U1dNYjUyVl85QVJYMVh0YXh2UnotSlhfRlhHSFNNZXJrOXFYYmF2TEdoNHB3LVBSTDdXSVBNbHlkemhONHBtN2FNM3ZGVlJURmRUOEswdVgtbDdsZHQyREtrS1FaanlkTRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "source": "YouTube \u00b7 Premiere Gal"
+      },
+      {
+        "position": 2,
+        "title": "How to make split screen videos",
+        "link": "https://clipchamp.com/en/blog/how-to-make-split-screen-videos/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHEIkXXwN3tjF9rkPFPNjf9uy5dES2_pgCwVySM6DSk0ZAAgABoRsYDAImcs8_Z9IcRY0x6BM5AG0dyhj-BbyNBJpXbRZCxLWaBsFJqdtEGzD52bGnyeJIwCMWFXDecrnX4sW-kO6Lscwx15NJgS1ky6K4IReoi8A9CXw&ved=2ahUKEwi2o97t25uYAxUpI0QIHTMCO84QFnoECCAQAQ&uoh=1",
+        "displayed_link": "https://clipchamp.com \u203a Blog \u203a Video editing",
+        "favicon": "https://serpapi.com/searches/6b02f2d20d7c5de7d01802d8/images/bQsmBJZ0ea2YQ8fCOE-uEGsFWQAhBn3WjlB8qjNp_9Q.png",
+        "date": "21 Feb 2025",
+        "snippet": "Step 1. Import media or select stock footage \u00b7 Step 2. Add video assets as separate layers on the timeline \u00b7 Step 3. Edit the position of your ...",
+        "snippet_highlighted_words": [
+          "Step 1. Import media or select stock footage"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Step 1. Import media or select stock footage \u00b7 Step 2. Add video assets as separate layers on the timeline \u00b7 Step 3. Edit the position of your ...",
+            "source_info_link": "https://clipchamp.com/en/blog/how-to-make-split-screen-videos/",
+            "icon": "https://serpapi.com/searches/6b02f2d20d7c5de7d01802d8/images/bQsmBJZ0ea2YQ8fCOE-uEGcWSW4HYKxfeXglwl6jTsw1KxIJhgwGVxr8OtqVeLr7.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrQBL2dvdG8_dXJsPUNBRVNld0hFSWtYWFh5MGJJVUtCOXJKUmo1T2c5YjdjSXBPeHlkYndDRVFzYVNjczJPSXFLTG53aTVIc3IxRFU1a1c1bHRSeTVNNmljS3FMNDRpSTVhbWhPMEw1QzdkbDlKVmk3ai1VbmE0SGVkS28wOWd1TXZfUnladFF6VE1fSzlacTY3cGtNdUhESXdmMlN5MjBJRnlRa3lnNUk4M3pYZHAtZFl5RE93EgQaAggAGvIHEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAzAcIABAAGAAgACoUCgNob3cV4s3QQBoIY3JlYXRpb24qCQoCdG8VAAAAACpzCghnZW5lcmF0ZRUAAAAAGgVidWlsZBoGY3JlYXRlGghjcmVhdGluZxoIY3JlYXRpb24aCWdlbmVyYXRlZBoJZ2VuZXJhdGVzGgpnZW5lcmF0aW5nGglnZW5lcmF0b3IaA2dldBoEbWFrZRoHcHJvZHVjZSo5Cgh2ZXJ0aWNhbBUA-8k-Ggp2ZXJ0aWNhbGx5Gg12ZXJ0aWNhbHZpZGVvGg1pdjtwO3ZlcnRpY2FsKj4KBXZpZGVvFcvZwEAaBGZpbG0aB2Zvb3RhZ2UaBnZpZGVvcxoNdmVydGljYWx2aWRlbxoKdmlkZW9jbGlwcyouCgVjbGlwcxWqCwhAGgRjbGlwGgVmaWxlcxoHZm9vdGFnZRoKdmlkZW9jbGlwcyoLCgR3aXRoFQAAAAAqOQoFc3BsaXQV7EzyQBoGZG91YmxlGgRkdWFsGgVtdWx0aRoLc3BsaXRzY3JlZW4aCXNwbGl0dGluZyo8CgZzY3JlZW4Vox3vQBoJc2NyZWVuaW5nGgdzY3JlZW5zGgtzcGxpdHNjcmVlbhoEdmlldxoGd2luZG93Kk0KCXJlYWN0aW9ucxUAAAAAGgVyZWFjdBoIcmVhY3Rpb24aBnJlYWN0cxoJcmVzcG9uc2VzGg5pdjtwO3JlYWN0aW9ucxoHZWZmZWN0czK0AS9nb3RvP3VybD1DQUVTZXdIRUlrWFhYeTBiSVVLQjlySlJqNU9nOWI3Y0lwT3h5ZGJ3Q0VRc2FTY3MyT0lxS0xud2k1SHNyMURVNWtXNWx0Unk1TTZpY0txTDQ0aUk1YW1oTzBMNUM3ZGw5SlZpN2otVW5hNEhlZEtvMDlndU12X1J5WnRRelRNX0s5WnE2N3BrTXVIREl3ZjJTeTIwSUZ5UWt5ZzVJODN6WGRwLWRZeURPdzo3PGI-SG93IHRvIG1ha2Ugc3BsaXQgc2NyZWVuIHZpZGVvczwvYj4gfCBDbGlwY2hhbXAgQmxvZ0KsATxiPlN0ZXAgMS4gSW1wb3J0IG1lZGlhIG9yIHNlbGVjdCBzdG9jayBmb290YWdlPC9iPiAmbWlkZG90OyBTdGVwIDIuIEFkZCB2aWRlbyBhc3NldHMgYXMgc2VwYXJhdGUgbGF5ZXJzIG9uIHRoZSB0aW1lbGluZSAmbWlkZG90OyBTdGVwIDMuIEVkaXQgdGhlIHBvc2l0aW9uIG9mIHlvdXImbmJzcDsuLi5KBHdpdGhKAnRvUgNnZXQiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrQBL2dvdG8_dXJsPUNBRVNld0hFSWtYWFh5MGJJVUtCOXJKUmo1T2c5YjdjSXBPeHlkYndDRVFzYVNjczJPSXFLTG53aTVIc3IxRFU1a1c1bHRSeTVNNmljS3FMNDRpSTVhbWhPMEw1QzdkbDlKVmk3ai1VbmE0SGVkS28wOWd1TXZfUnladFF6VE1fSzlacTY3cGtNdUhESXdmMlN5MjBJRnlRa3lnNUk4M3pYZHAtZFl5RE93EgQaAggAGvIHEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAzAcIABAAGAAgACoUCgNob3cV4s3QQBoIY3JlYXRpb24qCQoCdG8VAAAAACpzCghnZW5lcmF0ZRUAAAAAGgVidWlsZBoGY3JlYXRlGghjcmVhdGluZxoIY3JlYXRpb24aCWdlbmVyYXRlZBoJZ2VuZXJhdGVzGgpnZW5lcmF0aW5nGglnZW5lcmF0b3IaA2dldBoEbWFrZRoHcHJvZHVjZSo5Cgh2ZXJ0aWNhbBUA-8k-Ggp2ZXJ0aWNhbGx5Gg12ZXJ0aWNhbHZpZGVvGg1pdjtwO3ZlcnRpY2FsKj4KBXZpZGVvFcvZwEAaBGZpbG0aB2Zvb3RhZ2UaBnZpZGVvcxoNdmVydGljYWx2aWRlbxoKdmlkZW9jbGlwcyouCgVjbGlwcxWqCwhAGgRjbGlwGgVmaWxlcxoHZm9vdGFnZRoKdmlkZW9jbGlwcyoLCgR3aXRoFQAAAAAqOQoFc3BsaXQV7EzyQBoGZG91YmxlGgRkdWFsGgVtdWx0aRoLc3BsaXRzY3JlZW4aCXNwbGl0dGluZyo8CgZzY3JlZW4Vox3vQBoJc2NyZWVuaW5nGgdzY3JlZW5zGgtzcGxpdHNjcmVlbhoEdmlldxoGd2luZG93Kk0KCXJlYWN0aW9ucxUAAAAAGgVyZWFjdBoIcmVhY3Rpb24aBnJlYWN0cxoJcmVzcG9uc2VzGg5pdjtwO3JlYWN0aW9ucxoHZWZmZWN0czK0AS9nb3RvP3VybD1DQUVTZXdIRUlrWFhYeTBiSVVLQjlySlJqNU9nOWI3Y0lwT3h5ZGJ3Q0VRc2FTY3MyT0lxS0xud2k1SHNyMURVNWtXNWx0Unk1TTZpY0txTDQ0aUk1YW1oTzBMNUM3ZGw5SlZpN2otVW5hNEhlZEtvMDlndU12X1J5WnRRelRNX0s5WnE2N3BrTXVIREl3ZjJTeTIwSUZ5UWt5ZzVJODN6WGRwLWRZeURPdzo3PGI-SG93IHRvIG1ha2Ugc3BsaXQgc2NyZWVuIHZpZGVvczwvYj4gfCBDbGlwY2hhbXAgQmxvZ0KsATxiPlN0ZXAgMS4gSW1wb3J0IG1lZGlhIG9yIHNlbGVjdCBzdG9jayBmb290YWdlPC9iPiAmbWlkZG90OyBTdGVwIDIuIEFkZCB2aWRlbyBhc3NldHMgYXMgc2VwYXJhdGUgbGF5ZXJzIG9uIHRoZSB0aW1lbGluZSAmbWlkZG90OyBTdGVwIDMuIEVkaXQgdGhlIHBvc2l0aW9uIG9mIHlvdXImbmJzcDsuLi5KBHdpdGhKAnRvUgNnZXQiAhABSABYAGgA",
+        "source": "Clipchamp",
+        "read_more_link": "https://www.google.com/goto?url=CAESzAIBxCJF1z2jBqC2ZWdoLfY2fmzHI8Tb2bYT7JBreTxBrT7W7eTVFXMT-rmiynaV08Q1488thWDQZVQNMX8F3FeED1oBrw7HokUMQh-sBwEJryvVlur8WumKxZUzk9g-OK76XaTjfsnMinMB9UZxsjCB9a0OZd6KmHTro9DzJXY0XlcANrtrtw55WWKDn-ivwN6ND3nYBTGsQF-87gL37UfogpSpV4SchsY0fVWgyrRJFH43NUOnlOxo58QoV1HSW403H912MJKACp99p8fjIQv4mPhYP3LIIpOoqZYr8x0xwN1Bnx27j1XsZjs3bmCfI3_dLr1St2wgu5KP2b22N5kJXy92cmjSakkLK4yY9Z87Ep8hqACQIWaIuu2vbz0PXhwJeTmg6gAN3st7ZXJ7NlhDVpA-RYLeCH_vtiZwlD0OO6Nn47yYSZrKJLLv8A&gsessionid=8p-ZFPMXgCDR-tiLWu_tG3_gzqwStNIZzK2pYefHqrfxnK1qJkQ_7Q"
+      },
+      {
+        "position": 3,
+        "title": "How to Do a Reaction Video on TikTok: Easy Split Screen Tutorial",
+        "link": "https://www.google.com/goto?url=CAESeQHEIkXXGZUQCdVmaeVi0r4PlBuVyIJPolFKYqw934PaTr_V0xkYL8sqvv9wqKkZOTYEwtWAdrriv0yTmZxpRoO0QGvEWxjKlQj41_zMyAZF-5Okj4KOANj7bqBs1arZdKQVe0aKeKI9SqA-qy3LeDOMccAnIwDYbTI&gsessionid=8p-ZFPMXgCDR-tiLWu_tG3_gzqwStNIZzK2pYefHqrfxnK1qJkQ_7Q",
+        "displayed_link": "1.6L+ views",
+        "date": "6 months ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f2d20d7c5de7d01802d8/images/bQsmBJZ0ea2YQ8fCOE-uEBfPu0MHG8ARkTVkMBwEdfA.webp",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEUAAAAAAAAFT1IAQUNBub6u5eexxcpyQ0wIAABaxsv5____9_nGj5oyAAD____84eeEYmvm4uN4f4A5P0MAFBXx-vu019khAAD60tr37vDlmqpXAAsALzAKc3gpo6hjpqr_6O3idYqcbHTSrLP6iJ9rABOc5Ofi-vvJYnXLbn8_AAI9HyWWIDhRz9TH9PffY3oDAAC99vjhSGe7KEenACiF4-f_1961PVaB09bFkZswjJGwuLr__f7xqbYYHh_9tsTiL1Yh8R0_AAAAAXRSTlP-GuMHfQAAANJJREFUeAG90kUCg1AMBNDiPtTd3d2V-5-quMOS2b6vSXI5IjnZIElSyUgzLMcnoSBKspKMUPMpiEKxVE5EVKr5WgTLBkr1BtBsBbHd6fZKOvYHw1F9PAkgSU9njXlNx8Vyxa2XfmxvtoC0M1GH_d6P3QPU8fFkY_Ar7Q0ag3ONIOKQvOB60i0WqSnUG6FnI6rzMJbvkB76zo5-wk0JIf8EGq9ndzN7f9bRrlQBcTYTcT22iAh-X9Ib7_dPm8Q1u5Zvfpq7c4uIQ56otVrLjEYzJX-4mxcG80U-CwAAAABJRU5ErkJggg.png",
+        "snippet": "**Add an Overlay:** Swipe down to find the \"Overlay\" option and tap it. Select the picture or video you want to place at the top of your screen.",
+        "duration": "3:08",
+        "about_this_result": {
+          "source": {
+            "description": "**Add an Overlay:** Swipe down to find the \"Overlay\" option and tap it. Select the picture or video you want to place at the top of your screen.",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEUAAAAAAAAFT1IAQUNBub6u5eexxcpyQ0wIAABaxsv5____9_nGj5oyAAD____84eeEYmvm4uN4f4A5P0MAFBXx-vu019khAAD60tr37vDlmqpXAAsALzAKc3gpo6hjpqr_6O3idYqcbHTSrLP6iJ9rABOc5Ofi-vvJYnXLbn8_AAI9HyWWIDhRz9TH9PffY3oDAAC99vjhSGe7KEenACiF4-f_1961PVaB09bFkZswjJGwuLr__f7xqbYYHh_9tsTiL1Yh8R0_AAAAAXRSTlP-GuMHfQAAANJJREFUeAG90kUCg1AMBNDiPtTd3d2V-5-quMOS2b6vSXI5IjnZIElSyUgzLMcnoSBKspKMUPMpiEKxVE5EVKr5WgTLBkr1BtBsBbHd6fZKOvYHw1F9PAkgSU9njXlNx8Vyxa2XfmxvtoC0M1GH_d6P3QPU8fFkY_Ar7Q0ag3ONIOKQvOB60i0WqSnUG6FnI6rzMJbvkB76zo5-wk0JIf8EGq9ndzN7f9bRrlQBcTYTcT22iAh-X9Ib7_dPm8Q1u5Zvfpq7c4uIQ56otVrLjEYzJX-4mxcG80U-CwAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhFSWtYWEdaVVFDZFZtYWVWaTByNFBsQnVWeUlKUG9sRktZcXc5MzRQYVRyX1YweGtZTDhzcXZ2OXdxS2taT1RZRXd0V0FkcnJpdjB5VG1aeHBSb08wUUd2RVd4aktsUWo0MV96TXlBWkYtNU9rajRLT0FOajdicUJzMWFyWmRLUVZlMGFLZUtJOVNxQS1xeTNMZURPTWNjQW5Jd0RZYlRJEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhFSWtYWEdaVVFDZFZtYWVWaTByNFBsQnVWeUlKUG9sRktZcXc5MzRQYVRyX1YweGtZTDhzcXZ2OXdxS2taT1RZRXd0V0FkcnJpdjB5VG1aeHBSb08wUUd2RVd4aktsUWo0MV96TXlBWkYtNU9rajRLT0FOajdicUJzMWFyWmRLUVZlMGFLZUtJOVNxQS1xeTNMZURPTWNjQW5Jd0RZYlRJEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "source": "TikTok \u00b7 Tolulope Boy"
+      },
+      {
+        "position": 4,
+        "title": "How to put two videos side by side (split screen effect)",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXnppqRMUAZsdW3r1ytMSgTjXyBucD7FrtNnHFqtA18d7fpHXo2_ZU7OU1AishCr64lfMBPXVohePxnjLPaQ-bRgGuPPBjz3pCHVTDXWB40ayHz5HY3dwdXAvRF_Hnfd4rXNdk&gsessionid=8p-ZFPMXgCDR-tiLWu_tG3_gzqwStNIZzK2pYefHqrfxnK1qJkQ_7Q",
+        "displayed_link": "2.4L+ views",
+        "date": "3 years ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f2d20d7c5de7d01802d8/images/bQsmBJZ0ea2YQ8fCOE-uEKMYceaSUrPfRXunQn4uCpQ.webp",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "In this tutorial, you'll learn how to put two videos side by side to create a split screen effect for both YouTube and Instagram. You'll ...",
+        "duration": "3:14",
+        "key_moments": [
+          {
+            "time": "00:23",
+            "title": "Set Your Aspect Ratio",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXXgbEXhdXmSVEogkTUVU3cyR_eBZTzOjA9-Ix6QP2WiX4SnuqFlpPys57yjyvv3oVb2x-k_3iwyDZZ144l1ITIERQ3JFdYwpnICwkFkfj4PljCimsQxOcGcrgLtQIRG94cQo1ijmU5bJA&gsessionid=8p-ZFPMXgCDR-tiLWu_tG3_gzqwStNIZzK2pYefHqrfxnK1qJkQ_7Q"
+          },
+          {
+            "time": "00:29",
+            "title": "Import the Videos",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXXZVKsgXjkoMBWwOicxs6wCD3B8sRVdSL_oaU81BsjbdKWDJp3Z8HGAWwoJ7vjuOIpUjpn0FZfbGO2ci_IxtCMR1yTUkVzivk9tccr3rvIGVo7qMlbRbDcXgwwX0cVZ5j0KnL43l1oOiU&gsessionid=8p-ZFPMXgCDR-tiLWu_tG3_gzqwStNIZzK2pYefHqrfxnK1qJkQ_7Q"
+          },
+          {
+            "time": "02:01",
+            "title": "To Edit the Text",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXaKMw1lGR_XPgEtKXdL9hnUayr-yF-mjIhsFueAAN-Wt0rLhOB30ioARvSbIhbPW43WWcfwID9sxNbQv2gHNfg8_bGfy_MHItPxoE5hfULHOKIP5qLOlkBOz-moKX_eK2NCduEYHB_6Mc&gsessionid=8p-ZFPMXgCDR-tiLWu_tG3_gzqwStNIZzK2pYefHqrfxnK1qJkQ_7Q"
+          },
+          {
+            "time": "02:59",
+            "title": "Save to Your Computer Button",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXX1AItpcaFvb-K4p30LIgM2CGGm9YRCsRClJb-bnDghNx12R-W21i6zCTe-a2hMz3ys-o3C3Ul7-PDwJmEMfy1FJ80mRKujmSLeSI_uunf-lAC_tifHDMbWohZnQCpLsurT8VMwkpRqqpg&gsessionid=8p-ZFPMXgCDR-tiLWu_tG3_gzqwStNIZzK2pYefHqrfxnK1qJkQ_7Q"
+          }
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "In this tutorial, you'll learn how to put two videos side by side to create a split screen effect for both YouTube and Instagram. You'll ...",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWG5wcHFSTVVBWnNkVzNyMXl0TVNnVGpYeUJ1Y0Q3RnJ0Tm5IRnF0QTE4ZDdmcEhYbzJfWlU3T1UxQWlzaENyNjRsZk1CUFhWb2hlUHhuakxQYVEtYlJnR3VQUEJqejNwQ0hWVERYV0I0MGF5SHo1SFkzZHdkWEF2UkZfSG5mZDRyWE5kaxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWG5wcHFSTVVBWnNkVzNyMXl0TVNnVGpYeUJ1Y0Q3RnJ0Tm5IRnF0QTE4ZDdmcEhYbzJfWlU3T1UxQWlzaENyNjRsZk1CUFhWb2hlUHhuakxQYVEtYlJnR3VQUEJqejNwQ0hWVERYV0I0MGF5SHo1SFkzZHdkWEF2UkZfSG5mZDRyWE5kaxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "source": "YouTube \u00b7 Microsoft Clipchamp"
+      },
+      {
+        "position": 5,
+        "title": "Create Split Screen Videos Fast in Your Browser",
+        "link": "https://www.google.com/goto?url=CAESaQHEIkXXRzER3ChasNPBpgWJYXIgDR08AznAFa-jeQ3-WK4FggjuEoaGcU7wyWAd9h5Bbvl4f2-yihF_g8dNBMIf44o3t4t3RYUxrAUnn8CYNyCb4kV1tFPUl7yLfXTRAiIkHxSLBt8V7w",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHEIkXXU0Hp9BlfKqguPlL-EOECBK3IlZ_LHnPbPNurltD_vca_csz9KFNKIAA3V0p-Cql_Qr-gX7DiBmEVNgeybCXG7_4nM_tsDqFTSmrV2jRvI-5TfWeFUDVXUtaE_nJhLprN2L1prA&ved=2ahUKEwi2o97t25uYAxUpI0QIHTMCO84QFnoECB4QAQ&uoh=1",
+        "displayed_link": "https://flixier.com \u203a Tools",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAolBMVEVHcEw7gupTo_9VpP9Rof9Il_9Bj_86if80gv8te_8ndv8hcf8davoXXuhXp_8da_0VZvoYYesbZPEHPq46h_YTWNwXYOqOqO2euPwVW-FIl_____8RVNQSVtg8i_-tv_Xs8v1IffdFdekOUdEAU-nc5PwNTckygf8KRrx4nfwAR9YLScMtev8ndP_L1vcJRboFP7Byj-ECOKQCOaQaYu4ANZ2A78GrAAAANnRSTlMAEqfe___________UcGn__zP_KgXg_____9T_lP_U___________Ulf___9TU______-KutnCBPiVAAABNklEQVR4AWXRBZLDMAxAUZcpzMxYxvtfbSWroJn9w3kxC2gync3ni8ViuVyt1uvNZrvdKaqgtDkE9LXdTtd1w-SGxMyybCEcSXzKHRLkwkBmCAaE5nmeKaaf5WCYH1A6WhiqIvoO8-NPuocWJoBkmzUBZklLAd-2CxiGaIDZ-wS7HL4WZVlWVSUprRHpBAZi3sjIEKXt9GUL2AY5RtYloicrY1YorRtELy_FGDnua7TDII5gcF9jIT8XUFsBgQGe3vfcnMHOe6wjuwCiWdYH05SmBANU6A08ifmeGSKZ1wTnc75HAkO6XgHJwnB_y3N_L4eRIQKhpT6ueWCGSBbuz4D-ofvS_f4QT7K0vvn-7cINUJUEJ-j2B4jZ3RYOGj_d115CCJWsA-OEA1H5MG6ySeL-m_KB8AevNVBSsnJsdgAAAABJRU5ErkJggg.png",
+        "snippet": "Place both videos on separate timeline tracks and line them up so they play together. Select each clip and click Fit Canvas. Then select the video on top, open ...",
+        "snippet_highlighted_words": [
+          "Select each clip and click Fit Canvas"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Place both videos on separate timeline tracks and line them up so they play together. Select each clip and click Fit Canvas. Then select the video on top, open ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESaQHEIkXXRzER3ChasNPBpgWJYXIgDR08AznAFa-jeQ3-WK4FggjuEoaGcU7wyWAd9h5Bbvl4f2-yihF_g8dNBMIf44o3t4t3RYUxrAUnn8CYNyCb4kV1tFPUl7yLfXTRAiIkHxSLBt8V7w",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAolBMVEVHcEw7gupTo_9VpP9Rof9Il_9Bj_86if80gv8te_8ndv8hcf8davoXXuhXp_8da_0VZvoYYesbZPEHPq46h_YTWNwXYOqOqO2euPwVW-FIl_____8RVNQSVtg8i_-tv_Xs8v1IffdFdekOUdEAU-nc5PwNTckygf8KRrx4nfwAR9YLScMtev8ndP_L1vcJRboFP7Byj-ECOKQCOaQaYu4ANZ2A78GrAAAANnRSTlMAEqfe___________UcGn__zP_KgXg_____9T_lP_U___________Ulf___9TU______-KutnCBPiVAAABNklEQVR4AWXRBZLDMAxAUZcpzMxYxvtfbSWroJn9w3kxC2gync3ni8ViuVyt1uvNZrvdKaqgtDkE9LXdTtd1w-SGxMyybCEcSXzKHRLkwkBmCAaE5nmeKaaf5WCYH1A6WhiqIvoO8-NPuocWJoBkmzUBZklLAd-2CxiGaIDZ-wS7HL4WZVlWVSUprRHpBAZi3sjIEKXt9GUL2AY5RtYloicrY1YorRtELy_FGDnua7TDII5gcF9jIT8XUFsBgQGe3vfcnMHOe6wjuwCiWdYH05SmBANU6A08ifmeGSKZ1wTnc75HAkO6XgHJwnB_y3N_L4eRIQKhpT6ueWCGSBbuz4D-ofvS_f4QT7K0vvn-7cINUJUEJ-j2B4jZ3RYOGj_d115CCJWsA-OEA1H5MG6ySeL-m_KB8AevNVBSsnJsdgAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhFSWtYWFJ6RVIzQ2hhc05QQnBnV0pZWElnRFIwOEF6bkFGYS1qZVEzLVdLNEZnZ2p1RW9hR2NVN3d5V0FkOWg1QmJ2bDRmMi15aWhGX2c4ZE5CTUlmNDRvM3Q0dDNSWVV4ckFVbm44Q1lOeUNiNGtWMXRGUFVsN3lMZlhUUkFpSWtIeFNMQnQ4Vjd3EgQaAggAGuYHEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAwAcIABAAGAAgACoUCgNob3cVOpcLQBoIY3JlYXRpb24qCQoCdG8VAAAAACpzCghnZW5lcmF0ZRVtZ9Q-GgVidWlsZBoGY3JlYXRlGghjcmVhdGluZxoIY3JlYXRpb24aCWdlbmVyYXRlZBoJZ2VuZXJhdGVzGgpnZW5lcmF0aW5nGglnZW5lcmF0b3IaA2dldBoEbWFrZRoHcHJvZHVjZSo5Cgh2ZXJ0aWNhbBXc1Rg_Ggp2ZXJ0aWNhbGx5Gg12ZXJ0aWNhbHZpZGVvGg1pdjtwO3ZlcnRpY2FsKj4KBXZpZGVvFX_e10AaBGZpbG0aB2Zvb3RhZ2UaBnZpZGVvcxoNdmVydGljYWx2aWRlbxoKdmlkZW9jbGlwcyouCgVjbGlwcxW-mMQ_GgRjbGlwGgVmaWxlcxoHZm9vdGFnZRoKdmlkZW9jbGlwcyoLCgR3aXRoFQAAAAAqOQoFc3BsaXQVZrzBQBoGZG91YmxlGgRkdWFsGgVtdWx0aRoLc3BsaXRzY3JlZW4aCXNwbGl0dGluZyo8CgZzY3JlZW4VNTLWQBoJc2NyZWVuaW5nGgdzY3JlZW5zGgtzcGxpdHNjcmVlbhoEdmlldxoGd2luZG93Kk0KCXJlYWN0aW9ucxVsDwA_GgVyZWFjdBoIcmVhY3Rpb24aBnJlYWN0cxoJcmVzcG9uc2VzGg5pdjtwO3JlYWN0aW9ucxoHZWZmZWN0czKcAS9nb3RvP3VybD1DQUVTYVFIRUlrWFhSekVSM0NoYXNOUEJwZ1dKWVhJZ0RSMDhBem5BRmEtamVRMy1XSzRGZ2dqdUVvYUdjVTd3eVdBZDloNUJidmw0ZjIteWloRl9nOGROQk1JZjQ0bzN0NHQzUllVeHJBVW5uOENZTnlDYjRrVjF0RlBVbDd5TGZYVFJBaUlrSHhTTEJ0OFY3dzpAPGI-Q3JlYXRlIFNwbGl0IFNjcmVlbiBWaWRlb3M8L2I-IEZhc3QgaW4gWW91ciBCcm93c2VyIC0gRmxpeGllckKvAVBsYWNlIGJvdGggdmlkZW9zIG9uIHNlcGFyYXRlIHRpbWVsaW5lIHRyYWNrcyBhbmQgbGluZSB0aGVtIHVwIHNvIHRoZXkgcGxheSB0b2dldGhlci4gPGI-U2VsZWN0IGVhY2ggY2xpcCBhbmQgY2xpY2sgRml0IENhbnZhczwvYj4uIFRoZW4gc2VsZWN0IHRoZSB2aWRlbyBvbiB0b3AsIG9wZW4mbmJzcDsuLi5KBHdpdGhKAnRvUgNnZXQiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhFSWtYWFJ6RVIzQ2hhc05QQnBnV0pZWElnRFIwOEF6bkFGYS1qZVEzLVdLNEZnZ2p1RW9hR2NVN3d5V0FkOWg1QmJ2bDRmMi15aWhGX2c4ZE5CTUlmNDRvM3Q0dDNSWVV4ckFVbm44Q1lOeUNiNGtWMXRGUFVsN3lMZlhUUkFpSWtIeFNMQnQ4Vjd3EgQaAggAGuYHEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAwAcIABAAGAAgACoUCgNob3cVOpcLQBoIY3JlYXRpb24qCQoCdG8VAAAAACpzCghnZW5lcmF0ZRVtZ9Q-GgVidWlsZBoGY3JlYXRlGghjcmVhdGluZxoIY3JlYXRpb24aCWdlbmVyYXRlZBoJZ2VuZXJhdGVzGgpnZW5lcmF0aW5nGglnZW5lcmF0b3IaA2dldBoEbWFrZRoHcHJvZHVjZSo5Cgh2ZXJ0aWNhbBXc1Rg_Ggp2ZXJ0aWNhbGx5Gg12ZXJ0aWNhbHZpZGVvGg1pdjtwO3ZlcnRpY2FsKj4KBXZpZGVvFX_e10AaBGZpbG0aB2Zvb3RhZ2UaBnZpZGVvcxoNdmVydGljYWx2aWRlbxoKdmlkZW9jbGlwcyouCgVjbGlwcxW-mMQ_GgRjbGlwGgVmaWxlcxoHZm9vdGFnZRoKdmlkZW9jbGlwcyoLCgR3aXRoFQAAAAAqOQoFc3BsaXQVZrzBQBoGZG91YmxlGgRkdWFsGgVtdWx0aRoLc3BsaXRzY3JlZW4aCXNwbGl0dGluZyo8CgZzY3JlZW4VNTLWQBoJc2NyZWVuaW5nGgdzY3JlZW5zGgtzcGxpdHNjcmVlbhoEdmlldxoGd2luZG93Kk0KCXJlYWN0aW9ucxVsDwA_GgVyZWFjdBoIcmVhY3Rpb24aBnJlYWN0cxoJcmVzcG9uc2VzGg5pdjtwO3JlYWN0aW9ucxoHZWZmZWN0czKcAS9nb3RvP3VybD1DQUVTYVFIRUlrWFhSekVSM0NoYXNOUEJwZ1dKWVhJZ0RSMDhBem5BRmEtamVRMy1XSzRGZ2dqdUVvYUdjVTd3eVdBZDloNUJidmw0ZjIteWloRl9nOGROQk1JZjQ0bzN0NHQzUllVeHJBVW5uOENZTnlDYjRrVjF0RlBVbDd5TGZYVFJBaUlrSHhTTEJ0OFY3dzpAPGI-Q3JlYXRlIFNwbGl0IFNjcmVlbiBWaWRlb3M8L2I-IEZhc3QgaW4gWW91ciBCcm93c2VyIC0gRmxpeGllckKvAVBsYWNlIGJvdGggdmlkZW9zIG9uIHNlcGFyYXRlIHRpbWVsaW5lIHRyYWNrcyBhbmQgbGluZSB0aGVtIHVwIHNvIHRoZXkgcGxheSB0b2dldGhlci4gPGI-U2VsZWN0IGVhY2ggY2xpcCBhbmQgY2xpY2sgRml0IENhbnZhczwvYj4uIFRoZW4gc2VsZWN0IHRoZSB2aWRlbyBvbiB0b3AsIG9wZW4mbmJzcDsuLi5KBHdpdGhKAnRvUgNnZXQiAhABSABYAGgA",
+        "source": "Flixier",
+        "read_more_link": "https://www.google.com/goto?url=CAESuAEBxCJF17eIsG1te4hoXL9UFEFAsbAqClZNGqM61rPFmaU0Wbym14D-faPUL4sv0Lqv33wtBEYuxJi3mkQSnJj8o8qEepS_4hgHlhrnJ8zdUaFRn2ebEjTgGDpAmQUtbuAOaOlz3ipaAH5nGvnKTJBFYnSJdFFVvKGXodY9_9Xrcz1OEltSfLlXZv2VwFYxE0N-uaj86RRHQO6HArPnx-UxqWQ74oDTV-14tM_9RJqOqVwV2_6J2qi8&gsessionid=8p-ZFPMXgCDR-tiLWu_tG3_gzqwStNIZzK2pYefHqrfxnK1qJkQ_7Q"
+      },
+      {
+        "position": 6,
+        "title": "How to create a split screen of vertical footage. : r/premiere",
+        "link": "https://www.google.com/goto?url=CAESoQEBxCJF10HSK_sqcQjSAqLH0K-G_VcLMqSL_hbaKs1QkJF5pDuO_vQnsFJolXyEsWrjzzIj2Z3xs4YigyJg5mz1iONzzU-nQRx0b4N7Zm6LjCugIEX_IXl-FWVyd0yn-BOp2XsRvEBGA9T3QuOeehhxtvecvoFmpGs7p9T_KxRcNnNp-RvgmEDWc0i3kP-cBnIU2Qxl4LiT5kYoYoYqZ1WTfQ",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoQEBxCJF15i7upaA3aMk-D7oLQsVcSd3Xc7hhVrNxyeEiVZ87VnZKqBe1HT99b1VBQsA9pszePx_Le96t6AturQVqRNGKbk-hGNVKqocZVwZFcZLRY6N7__deKEw8avptTv5symGWE9uCene45wFx_es10PFkYyqS1-mTNfequ9f2Lw2j2vnjDew8KI3x3rQ9JQLmH3mrmGfUEZqY9f5gcp0Dw&ved=2ahUKEwi2o97t25uYAxUpI0QIHTMCO84QFnoECFQQAQ&uoh=1",
+        "displayed_link": "9 comments",
+        "date": "8 months ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+        "snippet": "As such I've been trying to create a 3way split screen of the vertical footage and can't for the life of me find any guidance on how to do it. I ...",
+        "snippet_highlighted_words": [
+          "create",
+          "split screen",
+          "vertical footage"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "As such I've been trying to create a 3way split screen of the vertical footage and can't for the life of me find any guidance on how to do it. I ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESoQEBxCJF10HSK_sqcQjSAqLH0K-G_VcLMqSL_hbaKs1QkJF5pDuO_vQnsFJolXyEsWrjzzIj2Z3xs4YigyJg5mz1iONzzU-nQRx0b4N7Zm6LjCugIEX_IXl-FWVyd0yn-BOp2XsRvEBGA9T3QuOeehhxtvecvoFmpGs7p9T_KxRcNnNp-RvgmEDWc0i3kP-cBnIU2Qxl4LiT5kYoYoYqZ1WTfQ",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CugBL2dvdG8_dXJsPUNBRVNvUUVCeENKRjEwSFNLX3NxY1FqU0FxTEgwSy1HX1ZjTE1xU0xfaGJhS3MxUWtKRjVwRHVPX3ZRbnNGSm9sWHlFc1dyanp6SWoyWjN4czRZaWd5Smc1bXoxaU9OenpVLW5RUngwYjRON1ptNkxqQ3VnSUVYX0lYbC1GV1Z5ZDB5bi1CT3AyWHNSdkVCR0E5VDNRdU9lZWhoeHR2ZWN2b0ZtcEdzN3A5VF9LeFJjTm5OcC1SdmdtRURXYzBpM2tQLWNCbklVMlF4bDRMaVQ1a1lvWW9ZcVoxV1RmURIEGgIIABrKCBIAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkCmCAgAEAAYACAAKhQKA2hvdxUEPbpAGghjcmVhdGlvbioJCgJ0bxUAAAAAKnMKCGdlbmVyYXRlFQAAAAAaBWJ1aWxkGgZjcmVhdGUaCGNyZWF0aW5nGghjcmVhdGlvbhoJZ2VuZXJhdGVkGglnZW5lcmF0ZXMaCmdlbmVyYXRpbmcaCWdlbmVyYXRvchoDZ2V0GgRtYWtlGgdwcm9kdWNlKjkKCHZlcnRpY2FsFcsly0AaCnZlcnRpY2FsbHkaDXZlcnRpY2FsdmlkZW8aDWl2O3A7dmVydGljYWwqPgoFdmlkZW8VkF1fQBoEZmlsbRoHZm9vdGFnZRoGdmlkZW9zGg12ZXJ0aWNhbHZpZGVvGgp2aWRlb2NsaXBzKi4KBWNsaXBzFbTszT4aBGNsaXAaBWZpbGVzGgdmb290YWdlGgp2aWRlb2NsaXBzKgsKBHdpdGgVAAAAACo5CgVzcGxpdBUWsLRAGgZkb3VibGUaBGR1YWwaBW11bHRpGgtzcGxpdHNjcmVlbhoJc3BsaXR0aW5nKjwKBnNjcmVlbhXMkb9AGglzY3JlZW5pbmcaB3NjcmVlbnMaC3NwbGl0c2NyZWVuGgR2aWV3GgZ3aW5kb3cqTQoJcmVhY3Rpb25zFQAAAAAaBXJlYWN0GghyZWFjdGlvbhoGcmVhY3RzGglyZXNwb25zZXMaDml2O3A7cmVhY3Rpb25zGgdlZmZlY3RzMugBL2dvdG8_dXJsPUNBRVNvUUVCeENKRjEwSFNLX3NxY1FqU0FxTEgwSy1HX1ZjTE1xU0xfaGJhS3MxUWtKRjVwRHVPX3ZRbnNGSm9sWHlFc1dyanp6SWoyWjN4czRZaWd5Smc1bXoxaU9OenpVLW5RUngwYjRON1ptNkxqQ3VnSUVYX0lYbC1GV1Z5ZDB5bi1CT3AyWHNSdkVCR0E5VDNRdU9lZWhoeHR2ZWN2b0ZtcEdzN3A5VF9LeFJjTm5OcC1SdmdtRURXYzBpM2tQLWNCbklVMlF4bDRMaVQ1a1lvWW9ZcVoxV1RmUTpTPGI-SG93IHRvIGNyZWF0ZTwvYj4gYSA8Yj5zcGxpdCBzY3JlZW48L2I-IG9mIDxiPnZlcnRpY2FsIGZvb3RhZ2U8L2I-LiA6IHIvcHJlbWllcmVCtgFBcyBzdWNoIEkmIzM5O3ZlIGJlZW4gdHJ5aW5nIHRvIDxiPmNyZWF0ZTwvYj4gYSAzd2F5IDxiPnNwbGl0IHNjcmVlbjwvYj4gb2YgdGhlIDxiPnZlcnRpY2FsIGZvb3RhZ2U8L2I-IGFuZCBjYW4mIzM5O3QgZm9yIHRoZSBsaWZlIG9mIG1lIGZpbmQgYW55IGd1aWRhbmNlIG9uIGhvdyB0byBkbyBpdC4gSSZuYnNwOy4uLkoEd2l0aEoCdG9SA2dldCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CugBL2dvdG8_dXJsPUNBRVNvUUVCeENKRjEwSFNLX3NxY1FqU0FxTEgwSy1HX1ZjTE1xU0xfaGJhS3MxUWtKRjVwRHVPX3ZRbnNGSm9sWHlFc1dyanp6SWoyWjN4czRZaWd5Smc1bXoxaU9OenpVLW5RUngwYjRON1ptNkxqQ3VnSUVYX0lYbC1GV1Z5ZDB5bi1CT3AyWHNSdkVCR0E5VDNRdU9lZWhoeHR2ZWN2b0ZtcEdzN3A5VF9LeFJjTm5OcC1SdmdtRURXYzBpM2tQLWNCbklVMlF4bDRMaVQ1a1lvWW9ZcVoxV1RmURIEGgIIABrKCBIAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkCmCAgAEAAYACAAKhQKA2hvdxUEPbpAGghjcmVhdGlvbioJCgJ0bxUAAAAAKnMKCGdlbmVyYXRlFQAAAAAaBWJ1aWxkGgZjcmVhdGUaCGNyZWF0aW5nGghjcmVhdGlvbhoJZ2VuZXJhdGVkGglnZW5lcmF0ZXMaCmdlbmVyYXRpbmcaCWdlbmVyYXRvchoDZ2V0GgRtYWtlGgdwcm9kdWNlKjkKCHZlcnRpY2FsFcsly0AaCnZlcnRpY2FsbHkaDXZlcnRpY2FsdmlkZW8aDWl2O3A7dmVydGljYWwqPgoFdmlkZW8VkF1fQBoEZmlsbRoHZm9vdGFnZRoGdmlkZW9zGg12ZXJ0aWNhbHZpZGVvGgp2aWRlb2NsaXBzKi4KBWNsaXBzFbTszT4aBGNsaXAaBWZpbGVzGgdmb290YWdlGgp2aWRlb2NsaXBzKgsKBHdpdGgVAAAAACo5CgVzcGxpdBUWsLRAGgZkb3VibGUaBGR1YWwaBW11bHRpGgtzcGxpdHNjcmVlbhoJc3BsaXR0aW5nKjwKBnNjcmVlbhXMkb9AGglzY3JlZW5pbmcaB3NjcmVlbnMaC3NwbGl0c2NyZWVuGgR2aWV3GgZ3aW5kb3cqTQoJcmVhY3Rpb25zFQAAAAAaBXJlYWN0GghyZWFjdGlvbhoGcmVhY3RzGglyZXNwb25zZXMaDml2O3A7cmVhY3Rpb25zGgdlZmZlY3RzMugBL2dvdG8_dXJsPUNBRVNvUUVCeENKRjEwSFNLX3NxY1FqU0FxTEgwSy1HX1ZjTE1xU0xfaGJhS3MxUWtKRjVwRHVPX3ZRbnNGSm9sWHlFc1dyanp6SWoyWjN4czRZaWd5Smc1bXoxaU9OenpVLW5RUngwYjRON1ptNkxqQ3VnSUVYX0lYbC1GV1Z5ZDB5bi1CT3AyWHNSdkVCR0E5VDNRdU9lZWhoeHR2ZWN2b0ZtcEdzN3A5VF9LeFJjTm5OcC1SdmdtRURXYzBpM2tQLWNCbklVMlF4bDRMaVQ1a1lvWW9ZcVoxV1RmUTpTPGI-SG93IHRvIGNyZWF0ZTwvYj4gYSA8Yj5zcGxpdCBzY3JlZW48L2I-IG9mIDxiPnZlcnRpY2FsIGZvb3RhZ2U8L2I-LiA6IHIvcHJlbWllcmVCtgFBcyBzdWNoIEkmIzM5O3ZlIGJlZW4gdHJ5aW5nIHRvIDxiPmNyZWF0ZTwvYj4gYSAzd2F5IDxiPnNwbGl0IHNjcmVlbjwvYj4gb2YgdGhlIDxiPnZlcnRpY2FsIGZvb3RhZ2U8L2I-IGFuZCBjYW4mIzM5O3QgZm9yIHRoZSBsaWZlIG9mIG1lIGZpbmQgYW55IGd1aWRhbmNlIG9uIGhvdyB0byBkbyBpdC4gSSZuYnNwOy4uLkoEd2l0aEoCdG9SA2dldCICEAFIAFgAaAA",
+        "source": "Reddit \u00b7 r/premiere",
+        "read_more_link": "https://www.google.com/goto?url=CAES4wEBxCJF1--fkBIhkh8TehTP2SG82nEzw9oQiUDm1UK_Qva6c6uxoYXUSBCYrrdIXVhiI5L0flWW_FSuZDITEuOxhjOGYYD68880BXf-L1iGj0KKe8374AU9g_Uw5qLSDR9N9V5PRYkiY6bQN1pT6nkZG-TSv6X_YGAVpuTMsUIhV_gJ1swo1lx-g_w-2UuFmQAdpRxQRKgKGxyRAW3sDjzpyN4mhVP9RZ8E59yJONDaCVS01EVmbm3h7gGgQAeWvRiJKNzOPUEnWCtzKHt3mKyKZXAaXl8UdiQj_DpoDYiVKSZ-4g&gsessionid=8p-ZFPMXgCDR-tiLWu_tG3_gzqwStNIZzK2pYefHqrfxnK1qJkQ_7Q"
+      },
+      {
+        "position": 7,
+        "title": "Split Screen Reaction Video",
+        "link": "https://www.google.com/goto?url=CAESewHEIkXXSRyxp9YWiCdL1HbYBL4Mbm4BuFErkZM_NRpW5h9Z6AS_kea_k71JpAgXaHclU7oWLXgg46e4ULNNq0D-tFcCBLUYyZp6imf9a-8DUYzdeeKCVZoe_N_HctvAXPwqp02R3FIc_OxstJDNVf38iQfZakDJdtLE8A",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHEIkXXHFupY1FJ0KJTmaLzh0ZYut2vW12vlJzigmXq2E2lGkSIewZrs7o_kw3_kfWAsihqckS16jtrxw3wsSEUxi46SL4CSKE8r0Tru-B_91bw4nrIMPxcnz9WC4ZFCfOAJAhxm05uGCfOwh7UjOyi5pZfUCIT6siQvA&ved=2ahUKEwi2o97t25uYAxUpI0QIHTMCO84QFnoECEwQAQ&uoh=1",
+        "displayed_link": "https://www.instagram.com \u203a popular \u203a split-screen-rea...",
+        "favicon": "https://serpapi.com/searches/6b02f2d20d7c5de7d01802d8/images/bQsmBJZ0ea2YQ8fCOE-uEErwcL7imk0QZ5piXf8Boac.png",
+        "snippet": "\\n\\nTo make one, import the video you are reacting to, choose a split screen layout, then record your camera next to it. DualCapture films front and back ...",
+        "snippet_highlighted_words": [
+          "import the video you are reacting to"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "\\n\\nTo make one, import the video you are reacting to, choose a split screen layout, then record your camera next to it. DualCapture films front and back ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESewHEIkXXSRyxp9YWiCdL1HbYBL4Mbm4BuFErkZM_NRpW5h9Z6AS_kea_k71JpAgXaHclU7oWLXgg46e4ULNNq0D-tFcCBLUYyZp6imf9a-8DUYzdeeKCVZoe_N_HctvAXPwqp02R3FIc_OxstJDNVf38iQfZakDJdtLE8A",
+            "icon": "https://serpapi.com/searches/6b02f2d20d7c5de7d01802d8/images/bQsmBJZ0ea2YQ8fCOE-uEIh_C3bR12QKcMkalP5G0dmHlxGoZhtUF32xJ1QF7Yv7.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrQBL2dvdG8_dXJsPUNBRVNld0hFSWtYWFNSeXhwOVlXaUNkTDFIYllCTDRNYm00QnVGRXJrWk1fTlJwVzVoOVo2QVNfa2VhX2s3MUpwQWdYYUhjbFU3b1dMWGdnNDZlNFVMTk5xMEQtdEZjQ0JMVVl5WnA2aW1mOWEtOERVWXpkZWVLQ1Zab2VfTl9IY3R2QVhQd3FwMDJSM0ZJY19PeHN0SkROVmYzOGlRZlpha0RKZHRMRThBEgQaAggAGuQHEgAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQMAHCAAQABgAIAAqFAoDaG93FR5dDUAaCGNyZWF0aW9uKgkKAnRvFQAAAAAqcwoIZ2VuZXJhdGUVxXqaPhoFYnVpbGQaBmNyZWF0ZRoIY3JlYXRpbmcaCGNyZWF0aW9uGglnZW5lcmF0ZWQaCWdlbmVyYXRlcxoKZ2VuZXJhdGluZxoJZ2VuZXJhdG9yGgNnZXQaBG1ha2UaB3Byb2R1Y2UqOQoIdmVydGljYWwVCcMsPxoKdmVydGljYWxseRoNdmVydGljYWx2aWRlbxoNaXY7cDt2ZXJ0aWNhbCo-CgV2aWRlbxUOTxBBGgRmaWxtGgdmb290YWdlGgZ2aWRlb3MaDXZlcnRpY2FsdmlkZW8aCnZpZGVvY2xpcHMqLgoFY2xpcHMVNg1vQBoEY2xpcBoFZmlsZXMaB2Zvb3RhZ2UaCnZpZGVvY2xpcHMqCwoEd2l0aBUAAAAAKjkKBXNwbGl0FUJg1kAaBmRvdWJsZRoEZHVhbBoFbXVsdGkaC3NwbGl0c2NyZWVuGglzcGxpdHRpbmcqPAoGc2NyZWVuFfxk4kAaCXNjcmVlbmluZxoHc2NyZWVucxoLc3BsaXRzY3JlZW4aBHZpZXcaBndpbmRvdypNCglyZWFjdGlvbnMVAAAAABoFcmVhY3QaCHJlYWN0aW9uGgZyZWFjdHMaCXJlc3BvbnNlcxoOaXY7cDtyZWFjdGlvbnMaB2VmZmVjdHMytAEvZ290bz91cmw9Q0FFU2V3SEVJa1hYU1J5eHA5WVdpQ2RMMUhiWUJMNE1ibTRCdUZFcmtaTV9OUnBXNWg5WjZBU19rZWFfazcxSnBBZ1hhSGNsVTdvV0xYZ2c0NmU0VUxOTnEwRC10RmNDQkxVWXlacDZpbWY5YS04RFVZemRlZUtDVlpvZV9OX0hjdHZBWFB3cXAwMlIzRkljX094c3RKRE5WZjM4aVFmWmFrREpkdExFOEE6LjxiPlNwbGl0IFNjcmVlbiBSZWFjdGlvbiBWaWRlbzwvYj4gLSBJbnN0YWdyYW1CqQFcblxuVG8gbWFrZSBvbmUsIDxiPmltcG9ydCB0aGUgdmlkZW8geW91IGFyZSByZWFjdGluZyB0bzwvYj4sIGNob29zZSBhIHNwbGl0IHNjcmVlbiBsYXlvdXQsIHRoZW4gcmVjb3JkIHlvdXIgY2FtZXJhIG5leHQgdG8gaXQuIER1YWxDYXB0dXJlIGZpbG1zIGZyb250IGFuZCBiYWNrJm5ic3A7Li4uSgR3aXRoSgJ0b1IDZ2V0IgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrQBL2dvdG8_dXJsPUNBRVNld0hFSWtYWFNSeXhwOVlXaUNkTDFIYllCTDRNYm00QnVGRXJrWk1fTlJwVzVoOVo2QVNfa2VhX2s3MUpwQWdYYUhjbFU3b1dMWGdnNDZlNFVMTk5xMEQtdEZjQ0JMVVl5WnA2aW1mOWEtOERVWXpkZWVLQ1Zab2VfTl9IY3R2QVhQd3FwMDJSM0ZJY19PeHN0SkROVmYzOGlRZlpha0RKZHRMRThBEgQaAggAGuQHEgAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQMAHCAAQABgAIAAqFAoDaG93FR5dDUAaCGNyZWF0aW9uKgkKAnRvFQAAAAAqcwoIZ2VuZXJhdGUVxXqaPhoFYnVpbGQaBmNyZWF0ZRoIY3JlYXRpbmcaCGNyZWF0aW9uGglnZW5lcmF0ZWQaCWdlbmVyYXRlcxoKZ2VuZXJhdGluZxoJZ2VuZXJhdG9yGgNnZXQaBG1ha2UaB3Byb2R1Y2UqOQoIdmVydGljYWwVCcMsPxoKdmVydGljYWxseRoNdmVydGljYWx2aWRlbxoNaXY7cDt2ZXJ0aWNhbCo-CgV2aWRlbxUOTxBBGgRmaWxtGgdmb290YWdlGgZ2aWRlb3MaDXZlcnRpY2FsdmlkZW8aCnZpZGVvY2xpcHMqLgoFY2xpcHMVNg1vQBoEY2xpcBoFZmlsZXMaB2Zvb3RhZ2UaCnZpZGVvY2xpcHMqCwoEd2l0aBUAAAAAKjkKBXNwbGl0FUJg1kAaBmRvdWJsZRoEZHVhbBoFbXVsdGkaC3NwbGl0c2NyZWVuGglzcGxpdHRpbmcqPAoGc2NyZWVuFfxk4kAaCXNjcmVlbmluZxoHc2NyZWVucxoLc3BsaXRzY3JlZW4aBHZpZXcaBndpbmRvdypNCglyZWFjdGlvbnMVAAAAABoFcmVhY3QaCHJlYWN0aW9uGgZyZWFjdHMaCXJlc3BvbnNlcxoOaXY7cDtyZWFjdGlvbnMaB2VmZmVjdHMytAEvZ290bz91cmw9Q0FFU2V3SEVJa1hYU1J5eHA5WVdpQ2RMMUhiWUJMNE1ibTRCdUZFcmtaTV9OUnBXNWg5WjZBU19rZWFfazcxSnBBZ1hhSGNsVTdvV0xYZ2c0NmU0VUxOTnEwRC10RmNDQkxVWXlacDZpbWY5YS04RFVZemRlZUtDVlpvZV9OX0hjdHZBWFB3cXAwMlIzRkljX094c3RKRE5WZjM4aVFmWmFrREpkdExFOEE6LjxiPlNwbGl0IFNjcmVlbiBSZWFjdGlvbiBWaWRlbzwvYj4gLSBJbnN0YWdyYW1CqQFcblxuVG8gbWFrZSBvbmUsIDxiPmltcG9ydCB0aGUgdmlkZW8geW91IGFyZSByZWFjdGluZyB0bzwvYj4sIGNob29zZSBhIHNwbGl0IHNjcmVlbiBsYXlvdXQsIHRoZW4gcmVjb3JkIHlvdXIgY2FtZXJhIG5leHQgdG8gaXQuIER1YWxDYXB0dXJlIGZpbG1zIGZyb250IGFuZCBiYWNrJm5ic3A7Li4uSgR3aXRoSgJ0b1IDZ2V0IgIQAUgAWABoAA",
+        "source": "Instagram",
+        "read_more_link": "https://www.google.com/goto?url=CAES1gEBxCJF1651sLDgwUe6FhtCL1MmwGqt37gu7sch_R1GMLpHjrsqUeKkKUUXDtm8EAQyg_BFHU5Z5tv19O30eORw6BVGbBM9h-qhZs6nR4mlB4S_0JNDwG-Z6_fXazWdDf1siMfAFO6omFqF2GY72-NTP_8UcB3kjcGi1LC6Dbr_4h5R95CylHwTL4Ean7d2v13CBF6gM59WbxpAcCgRBVmUbIv-d9KEhqn-b9uAHYw8bsP8meB5mRXtMVdoyg2X7gRooBFvHETS84aCTUlRx_l9JLbDJK4N&gsessionid=8p-ZFPMXgCDR-tiLWu_tG3_gzqwStNIZzK2pYefHqrfxnK1qJkQ_7Q"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "How to generate vertical video clips with split screen reactions online",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDiJRw0pgd98MvJMIJCq9YWSZxTtQw:1795355347234&q=How+to+generate+vertical+video+clips+with+split+screen+reactions+online&sa=X&ved=2ahUKEwi2o97t25uYAxUpI0QIHTMCO84Q1QJ6BAhEEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+generate+vertical+video+clips+with+split+screen+reactions+online"
+      },
+      {
+        "block_position": 1,
+        "query": "How to generate vertical video clips with split screen reactions iphone",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDiJRw0pgd98MvJMIJCq9YWSZxTtQw:1795355347234&q=How+to+generate+vertical+video+clips+with+split+screen+reactions+iphone&sa=X&ved=2ahUKEwi2o97t25uYAxUpI0QIHTMCO84Q1QJ6BAhLEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+generate+vertical+video+clips+with+split+screen+reactions+iphone"
+      },
+      {
+        "block_position": 1,
+        "query": "How to generate vertical video clips with split screen reactions free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDiJRw0pgd98MvJMIJCq9YWSZxTtQw:1795355347234&q=How+to+generate+vertical+video+clips+with+split+screen+reactions+free&sa=X&ved=2ahUKEwi2o97t25uYAxUpI0QIHTMCO84Q1QJ6BAhKEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+generate+vertical+video+clips+with+split+screen+reactions+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Vertical split screen video",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDiJRw0pgd98MvJMIJCq9YWSZxTtQw:1795355347234&q=Vertical+split+screen+video&sa=X&ved=2ahUKEwi2o97t25uYAxUpI0QIHTMCO84Q1QJ6BAhJEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Vertical+split+screen+video"
+      },
+      {
+        "block_position": 1,
+        "query": "How to make split screen video Clipchamp",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDiJRw0pgd98MvJMIJCq9YWSZxTtQw:1795355347234&q=How+to+make+split+screen+video+Clipchamp&sa=X&ved=2ahUKEwi2o97t25uYAxUpI0QIHTMCO84Q1QJ6BAhIEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+make+split+screen+video+Clipchamp"
+      },
+      {
+        "block_position": 1,
+        "query": "Split screen video editor",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDiJRw0pgd98MvJMIJCq9YWSZxTtQw:1795355347234&q=Split+screen+video+editor&sa=X&ved=2ahUKEwi2o97t25uYAxUpI0QIHTMCO84Q1QJ6BAhHEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Split+screen+video+editor"
+      },
+      {
+        "block_position": 1,
+        "query": "Split screen video template",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDiJRw0pgd98MvJMIJCq9YWSZxTtQw:1795355347234&q=Split+screen+video+template&sa=X&ved=2ahUKEwi2o97t25uYAxUpI0QIHTMCO84Q1QJ6BAhGEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Split+screen+video+template"
+      },
+      {
+        "block_position": 1,
+        "query": "Vertical split screen video Pack for Premiere Pro",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDiJRw0pgd98MvJMIJCq9YWSZxTtQw:1795355347234&q=Vertical+split+screen+video+Pack+for+Premiere+Pro&sa=X&ved=2ahUKEwi2o97t25uYAxUpI0QIHTMCO84Q1QJ6BAhFEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Vertical+split+screen+video+Pack+for+Premiere+Pro"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=How+to+generate+vertical+video+clips+with+split-screen+reactions&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDiJRw0pgd98MvJMIJCq9YWSZxTtQw:1795355347234&ei=0_ICa_btDanGkPIPs4Ts8Qw&start=10&sa=N&sstk=AYl2yk9MPsUNTqc4vdIkYXGCTiJ387u6rKughBhpvWbWdyvFZBr1KjMu_0gZtsKlnJlXtU5CCNyY4fYfMIkLzv5wXI9bccM4OQzG3g&ved=2ahUKEwi2o97t25uYAxUpI0QIHTMCO84Q8NMDegQIQhAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=How+to+generate+vertical+video+clips+with+split-screen+reactions&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDiJRw0pgd98MvJMIJCq9YWSZxTtQw:1795355347234&ei=0_ICa_btDanGkPIPs4Ts8Qw&start=10&sa=N&sstk=AYl2yk9MPsUNTqc4vdIkYXGCTiJ387u6rKughBhpvWbWdyvFZBr1KjMu_0gZtsKlnJlXtU5CCNyY4fYfMIkLzv5wXI9bccM4OQzG3g&ved=2ahUKEwi2o97t25uYAxUpI0QIHTMCO84Q8tMDegQIQhAE",
+        "3": "https://www.google.com/search?q=How+to+generate+vertical+video+clips+with+split-screen+reactions&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDiJRw0pgd98MvJMIJCq9YWSZxTtQw:1795355347234&ei=0_ICa_btDanGkPIPs4Ts8Qw&start=20&sa=N&sstk=AYl2yk9MPsUNTqc4vdIkYXGCTiJ387u6rKughBhpvWbWdyvFZBr1KjMu_0gZtsKlnJlXtU5CCNyY4fYfMIkLzv5wXI9bccM4OQzG3g&ved=2ahUKEwi2o97t25uYAxUpI0QIHTMCO84Q8tMDegQIQhAG",
+        "4": "https://www.google.com/search?q=How+to+generate+vertical+video+clips+with+split-screen+reactions&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDiJRw0pgd98MvJMIJCq9YWSZxTtQw:1795355347234&ei=0_ICa_btDanGkPIPs4Ts8Qw&start=30&sa=N&sstk=AYl2yk9MPsUNTqc4vdIkYXGCTiJ387u6rKughBhpvWbWdyvFZBr1KjMu_0gZtsKlnJlXtU5CCNyY4fYfMIkLzv5wXI9bccM4OQzG3g&ved=2ahUKEwi2o97t25uYAxUpI0QIHTMCO84Q8tMDegQIQhAI",
+        "5": "https://www.google.com/search?q=How+to+generate+vertical+video+clips+with+split-screen+reactions&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDiJRw0pgd98MvJMIJCq9YWSZxTtQw:1795355347234&ei=0_ICa_btDanGkPIPs4Ts8Qw&start=40&sa=N&sstk=AYl2yk9MPsUNTqc4vdIkYXGCTiJ387u6rKughBhpvWbWdyvFZBr1KjMu_0gZtsKlnJlXtU5CCNyY4fYfMIkLzv5wXI9bccM4OQzG3g&ved=2ahUKEwi2o97t25uYAxUpI0QIHTMCO84Q8tMDegQIQhAK",
+        "6": "https://www.google.com/search?q=How+to+generate+vertical+video+clips+with+split-screen+reactions&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDiJRw0pgd98MvJMIJCq9YWSZxTtQw:1795355347234&ei=0_ICa_btDanGkPIPs4Ts8Qw&start=50&sa=N&sstk=AYl2yk9MPsUNTqc4vdIkYXGCTiJ387u6rKughBhpvWbWdyvFZBr1KjMu_0gZtsKlnJlXtU5CCNyY4fYfMIkLzv5wXI9bccM4OQzG3g&ved=2ahUKEwi2o97t25uYAxUpI0QIHTMCO84Q8tMDegQIQhAM",
+        "7": "https://www.google.com/search?q=How+to+generate+vertical+video+clips+with+split-screen+reactions&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDiJRw0pgd98MvJMIJCq9YWSZxTtQw:1795355347234&ei=0_ICa_btDanGkPIPs4Ts8Qw&start=60&sa=N&sstk=AYl2yk9MPsUNTqc4vdIkYXGCTiJ387u6rKughBhpvWbWdyvFZBr1KjMu_0gZtsKlnJlXtU5CCNyY4fYfMIkLzv5wXI9bccM4OQzG3g&ved=2ahUKEwi2o97t25uYAxUpI0QIHTMCO84Q8tMDegQIQhAO",
+        "8": "https://www.google.com/search?q=How+to+generate+vertical+video+clips+with+split-screen+reactions&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDiJRw0pgd98MvJMIJCq9YWSZxTtQw:1795355347234&ei=0_ICa_btDanGkPIPs4Ts8Qw&start=70&sa=N&sstk=AYl2yk9MPsUNTqc4vdIkYXGCTiJ387u6rKughBhpvWbWdyvFZBr1KjMu_0gZtsKlnJlXtU5CCNyY4fYfMIkLzv5wXI9bccM4OQzG3g&ved=2ahUKEwi2o97t25uYAxUpI0QIHTMCO84Q8tMDegQIQhAQ",
+        "9": "https://www.google.com/search?q=How+to+generate+vertical+video+clips+with+split-screen+reactions&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDiJRw0pgd98MvJMIJCq9YWSZxTtQw:1795355347234&ei=0_ICa_btDanGkPIPs4Ts8Qw&start=80&sa=N&sstk=AYl2yk9MPsUNTqc4vdIkYXGCTiJ387u6rKughBhpvWbWdyvFZBr1KjMu_0gZtsKlnJlXtU5CCNyY4fYfMIkLzv5wXI9bccM4OQzG3g&ved=2ahUKEwi2o97t25uYAxUpI0QIHTMCO84Q8tMDegQIQhAS",
+        "10": "https://www.google.com/search?q=How+to+generate+vertical+video+clips+with+split-screen+reactions&sca_esv=c653c500caaf7fef&gl=in&hl=en&sxsrf=AKL5yDiJRw0pgd98MvJMIJCq9YWSZxTtQw:1795355347234&ei=0_ICa_btDanGkPIPs4Ts8Qw&start=90&sa=N&sstk=AYl2yk9MPsUNTqc4vdIkYXGCTiJ387u6rKughBhpvWbWdyvFZBr1KjMu_0gZtsKlnJlXtU5CCNyY4fYfMIkLzv5wXI9bccM4OQzG3g&ved=2ahUKEwi2o97t25uYAxUpI0QIHTMCO84Q8tMDegQIQhAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+generate+vertical+video+clips+with+split-screen+reactions&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+generate+vertical+video+clips+with+split-screen+reactions&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+generate+vertical+video+clips+with+split-screen+reactions&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+generate+vertical+video+clips+with+split-screen+reactions&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+generate+vertical+video+clips+with+split-screen+reactions&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+generate+vertical+video+clips+with+split-screen+reactions&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+generate+vertical+video+clips+with+split-screen+reactions&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+generate+vertical+video+clips+with+split-screen+reactions&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+generate+vertical+video+clips+with+split-screen+reactions&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+generate+vertical+video+clips+with+split-screen+reactions&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+generate+vertical+video+clips+with+split-screen+reactions&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

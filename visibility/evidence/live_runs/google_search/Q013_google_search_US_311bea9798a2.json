@@ -1,0 +1,504 @@
+{
+  "measurement_id": "311bea9798a2",
+  "question_id": "Q013",
+  "timestamp_utc": "2026-11-22T13:46:21.615771+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "How to automatically convert 16:9 widescreen video to 9:16 vertical?",
+  "market": "US",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://www.canva.com/features/video-resize/",
+    "https://www.facebook.com/groups/2292891657639248/posts/3592814780980256/",
+    "https://www.google.com/goto?url=CAESZwHEIkXXm7tNo6dJGX1UH2kYnumXdKHlsxeB9iMgxIxL_g05LNOOfjhsYCK_2XqXEgYj4krDevJGNlJxs0GQQf3mqQXPZPsgCVlnNoyP6MUukrqPhj8_2Y_6p8p_lT6Mh6TgdRE00DA&gsessionid=tJsu9n2WDUBd8Wek2As6PSRNjndJOlZJYLGiCVbzDexJZdLXFf50cg",
+    "https://www.google.com/goto?url=CAESpAEBxCJF1-cTIhfwI5lrfvqgweNB4dMnrcJlUBID5idpeTmVGGHx-1pVcbBL6iWgqaGvixQINmGjTxAFE9CZIWnwOx4GxDSD6ODKHyjlU7swxieeDsB7OOcq2sMYYKSH7ddNdqMAfSrKaTk-YNgOdEHFeLnSZHCdsuQySbhA5QdXf5EW4TXWidmbjnyIykdFG4z4LjHEQBaGDgjh_rG7w97g7CQhgQ",
+    "https://www.google.com/goto?url=CAESfAHEIkXX72o0sTIbbUer9IrKhgMVbHSWDIibLBc_0WNGKs9Ew-YvP2X3ZBUQgn_W-n-g3K1gXaBmEV_HYtiXe50Tk70piIbPvxv6OyE3T-o4T9Al2RE0RtBqTAPmsVT2bU17uO8tAFm1J29oWpJT88IDJEKdeGNu-NKzbMg",
+    "https://www.google.com/goto?url=CAESWwHEIkXXqmxkoPpYSXpapOnQlF6I6NXl0jRHR3hF8gLxQatG9Y-i-6FGEXz7Xz_ERIebgYedoVlHFjAlGyLWW06kjG_rWz3OVQ1FdvpE6OLDM_gw6ebA9XiLhsA",
+    "https://www.google.com/goto?url=CAESbQHEIkXXvV4nyBrkyfU88uTB9oFPQjapC43mgojpzRxAsCC-HJC3rMvnOnz3qVobNHuKs9VhtlIXpic3ZxFInO-5X62FXxj0bFUd6nv-Uegxt8W8quELxyFMk7GHL3NXrwSzg_h5oW_IApTLZAU",
+    "https://www.google.com/goto?url=CAEScAHEIkXXwSaaOBldF8tYkpJ8U9puagHtKxcpX1l0KjR3-kq2OT6ssQhXhvXBvz1znKSmBzbE5e0QyCIWt0vDvSOeWZ0prErg16U3Y7ByfMgKuestrPNK-gBnxfxZdh1_9PX5agrLK1FOffL2lHRjGxE"
+  ],
+  "raw_text_summary": "One-click Video Resize Online Just add the width and height in pixels of your desired aspect ratio. Then, click Resize to change the current design or click Copy and Resize to preserve the ... How to convert vertical video to horizontal 9:16 to 16:9? Everyone Can you Help Me! how to convert vertical video into horizontal? 9:16 to 16:9 ? How to Change the Aspect Ratio of a Video - Quick & Easy! ... And we demonstrate how to convert a 16:9 horizontal video to 9:16 vertical without black bars or visible quality loss. Besides, we also ... Is there any way to make a 9:16 video presentable as 16:9? Hi all. I was hoping for some advice. Basically, for work I had to create marketing videos for TikTok and Instagram. Now they want those same videos uploaded ... Change Video Aspect Ratio Online - Resize Video Click on your video on the timeline, click on Settings, and click Landscape (16:9) from the Size dropdown. How do I change a video to fit the screen? Easy ... Video Resizer Online With Clideo you can convert a vertical video into a horizontal one or vice versa, and blur the background. To do that, choose the necessary preset, click on the ... 9:16 Video Converter: Turn Any Video Vertical in Minutes A basic 9:16 video converter picks the first option by default: crop to the center, keep whatever's there, discard the rest. That's fast, and ... Change Video Aspect Ratio - Smart AI Reframing OpusClip's AI Reframe adjusts your video's framing to keep the most important details in view. Convert any video to 16:9, 9:16, 1:1 or 4:5 without cropping out ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f22ba5b116fa96f6f97c",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/sbynl1-loTtCpOov-KM9F1wfEoaHRMdIz7SRx_AEnvk/6b02f22ba5b116fa96f6f97c.json",
+      "markdown_endpoint": "https://serpapi.com/searches/sbynl1-loTtCpOov-KM9F1wfEoaHRMdIz7SRx_AEnvk/6b02f22ba5b116fa96f6f97c.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/sbynl1-loTtCpOov-KM9F1wfEoaHRMdIz7SRx_AEnvk/6b02f22ba5b116fa96f6f97c.json_with_pixel_position",
+      "created_at": "2026-11-22 13:46:19 UTC",
+      "processed_at": "2026-11-22 13:46:19 UTC",
+      "google_url": "https://www.google.com/search?q=How+to+automatically+convert+16%3A9+widescreen+video+to+9%3A16+vertical%3F&oq=How+to+automatically+convert+16%3A9+widescreen+video+to+9%3A16+vertical%3F&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/sbynl1-loTtCpOov-KM9F1wfEoaHRMdIz7SRx_AEnvk/6b02f22ba5b116fa96f6f97c.html",
+      "total_time_taken": 0.6
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "How to automatically convert 16:9 widescreen video to 9:16 vertical?",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "How to automatically convert 16:9 widescreen video to 9:16 vertical?",
+      "total_results": 135,
+      "time_taken_displayed": 0.2,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "How To Change Aspect Ratio From 16:9 To 9:16 In Premiere ...",
+        "link": "https://www.google.com/goto?url=CAESZwHEIkXXUbGT-c1Bf7nhWYVvZfWqBby2GXuWHc9mq90DzTM6x5k3rOylEo9_iUcfifbuiUn_gJRTMQcNSvbHM7h7MS_1m-z3jGkONvpwkpXppLwuXtEEArZ1gsw4GG9EvOZZZ_dT0Ek&gsessionid=tJsu9n2WDUBd8Wek2As6PSRNjndJOlZJYLGiCVbzDexJZdLXFf50cg",
+        "thumbnail": "https://serpapi.com/searches/6b02f22ba5b116fa96f6f97c/images/zZ6jE7LrVER7lu_r-ZofuVejPNw9mPp5i0lI5eUDaLI.webp",
+        "channel": "Guides by Leonard",
+        "duration": "4:06",
+        "platform": "YouTube",
+        "date": "May 1, 2026",
+        "snippet": "Change 16:9 to 9:16 in Premiere Pro using manual sequence settings, auto reframe, or a new vertical sequence setup.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT3B1kz0ZVu-5NZSW6wjS5lHbdjUsDt2SKy4A"
+      },
+      {
+        "position": 2,
+        "title": "Convert 16:9 footage to 9:16 Vertical",
+        "link": "https://www.google.com/goto?url=CAESZwHEIkXXnVcQCjTXIBwtM4gBXLgQLxWVuP4m-Iioly93MrspP4hrKG7EZMLAa86ikBon_VFNF_r70QGj3-G4F1_kDxPiOvg-SBYiBUsJ-TiLxzyGdjffv6xyy1QJEyjF5qd1_6Ad3zI&gsessionid=tJsu9n2WDUBd8Wek2As6PSRNjndJOlZJYLGiCVbzDexJZdLXFf50cg",
+        "thumbnail": "https://serpapi.com/searches/6b02f22ba5b116fa96f6f97c/images/ErHN8ZM7dfY_yt-tWndejAHA0CdQOoqJkPqDvb3B3qc.webp",
+        "channel": "Steven Litton",
+        "duration": "14:04",
+        "platform": "YouTube",
+        "date": "Sep 12, 2022",
+        "snippet": "Convert horizontal 16:9 video to vertical 9:16 for social media by swapping resolution values or using auto reframe."
+      },
+      {
+        "position": 3,
+        "title": "Repurpose Horizontal Videos for IGTV (16:9 to 9:16 Vertical ...",
+        "link": "https://www.google.com/goto?url=CAESbQHEIkXXvmCHTfsX3ysQ3-_KE3Qq44DGpSX_pHJkQwwvM0ZhrfFORdBkZfXyJDa-0AQxkYG1gWM8WrYhvfUUiRUgLRafNhuNLkMviQu2yJrQSwEwAZI3rYPVEt2iyLAArwxId6EpFdA1GGt-lcs&gsessionid=tJsu9n2WDUBd8Wek2As6PSRNjndJOlZJYLGiCVbzDexJZdLXFf50cg",
+        "thumbnail": "https://serpapi.com/searches/6b02f22ba5b116fa96f6f97c/images/va9XH1T0I_zoq324m1KUsBvoVJVRbpp0AmmWvAL1CAk.webp",
+        "channel": "Justin Brown - Primal Video",
+        "duration": "10:13",
+        "platform": "YouTube",
+        "date": "Sep 23, 2018",
+        "snippet": "Repurpose horizontal videos for IGTV by adjusting aspect ratio, repositioning content, and using creative layouts.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR3tlYDtC8d51qk6D6pYxsJ3zx9eaYtvZRh3g"
+      },
+      {
+        "position": 4,
+        "title": "Convert Horizontal Video to Vertical with Auto Reframe using ...",
+        "link": "https://www.google.com/goto?url=CAESZwHEIkXXr-ZVs33HPzqDdnX5sy68EvcVr2bzXjawIZp5fNeEg7js97JsEaPhi6tL6Z-yTDzI23b22ZE_RTjgcRV6RoYqtAi3Uh2kyeH6F8LX8Icl-lFoW7_9w46tez3Zm60yR6w5dhM&gsessionid=tJsu9n2WDUBd8Wek2As6PSRNjndJOlZJYLGiCVbzDexJZdLXFf50cg",
+        "thumbnail": "https://serpapi.com/searches/6b02f22ba5b116fa96f6f97c/images/HvU16Wj_IuZ28fxQx55QQ4bdQEdX9BpvOm4CXH3qR-Q.webp",
+        "channel": "Edit in Minutes - Quick Tutorials",
+        "duration": "1:37",
+        "platform": "YouTube",
+        "date": "Dec 31, 2024",
+        "snippet": "Convert horizontal videos to vertical using CapCut PC's auto reframe feature. Select 9:16 aspect ratio for social media.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTNMuvPAQuT87QhSfLqTNsgrhxOAvMdqpWSvw"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "How can I convert a 16:9 video to 9:16?",
+        "type": "ai_overview",
+        "page_token": "naLfI3icHVNJcqtIEF30Wfpv5P9NMcjGEY4OEIPAoiwKqILaKICShKAYbGGmXd-lr9MX6NM0_ouXLzIjXuQQ-f7-h9-a6r8__i36vru_PD6O4_jr2rZXfv6Vt_Vjep-b_PHS8tvlrzP_zF93n47h2SbwKzqTJhchjsC5VnckahUo9BiCAhCrUvLoujCSKNSWhVhi_dmIxrzCl3zfyQhgN7TxIZZoEtaKHUbqIYhRgER3XvOvVFDu-AbmbI8-iInTbMEg3KMacZSExMKZQG8BZ29JpYhBRcVMLBTKdcyaLoGWOgSlJUeWekwkq_eBavvcfUeWpZBKbUKB8sCgPqunMBWdxbOxnkTPU2YW7qqfSFWUeX2fcgHcosacfIF3h5B72ERGGDGyznD0FvcjiSYAOQQBL4pY7KSwdKcU6xGqwVdWsy0iru0Z1PVENYQ1dSKzoOuppHNIFbhYTWAq26jujXThQVLDwBNbiRjJGGHVfN9DMSuRQOq-Dko0hCTv_cafIeY4krrjIWb3HONdXhaLF7FLsp4TRW6LuDbhhTvQHAGqWBCK3QhrecniQkEx7xJOa2y4MuFUjhd68UJGPYIaZLIPuLADE7AHsTpRzgdsC_Mhct_X3gBWRUVjs4eiQgkvttTsLVb1O1LymZi0IhF882L2mQjceTdMmZJoOpfokFXyHJpAZxWIMkDlDKCGGSbAJA8sYfKDCBbxDAZ_Kfwg1mRo6UMsdSGsLGhfe34mcIuJWmJMh2T88fG6b8dNnjYbZ5O3zXD-7DfpBmz_lDR1M9zYud307UZd0--a9aP-flfNkZXR9TWiaammj5qj6Rq96trbym8rH1Y-tLp2dcxRM_V5hXA1m8BWJceGRXbT3ZWHrKE8b_xrEmgTLFvF2dOO2nhw9mhwjGrrhclJ1ExNXvXbFc8rfq748dtAr6dL3b_UKeMPpzW2L2f2cLqxl9--Oh2Ozi49_Wx3z0ene5aP7WkJtpp3Eh9O0_3z8qLtj09fF2VPXGd5-pICEZXVfHH2N2hvY6Ompf-98pOqSIoCngVJBf8D3e5FPg",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=naLfI3icHVNJcqtIEF30Wfpv5P9NMcjGEY4OEIPAoiwKqILaKICShKAYbGGmXd-lr9MX6NM0_ouXLzIjXuQQ-f7-h9-a6r8__i36vru_PD6O4_jr2rZXfv6Vt_Vjep-b_PHS8tvlrzP_zF93n47h2SbwKzqTJhchjsC5VnckahUo9BiCAhCrUvLoujCSKNSWhVhi_dmIxrzCl3zfyQhgN7TxIZZoEtaKHUbqIYhRgER3XvOvVFDu-AbmbI8-iInTbMEg3KMacZSExMKZQG8BZ29JpYhBRcVMLBTKdcyaLoGWOgSlJUeWekwkq_eBavvcfUeWpZBKbUKB8sCgPqunMBWdxbOxnkTPU2YW7qqfSFWUeX2fcgHcosacfIF3h5B72ERGGDGyznD0FvcjiSYAOQQBL4pY7KSwdKcU6xGqwVdWsy0iru0Z1PVENYQ1dSKzoOuppHNIFbhYTWAq26jujXThQVLDwBNbiRjJGGHVfN9DMSuRQOq-Dko0hCTv_cafIeY4krrjIWb3HONdXhaLF7FLsp4TRW6LuDbhhTvQHAGqWBCK3QhrecniQkEx7xJOa2y4MuFUjhd68UJGPYIaZLIPuLADE7AHsTpRzgdsC_Mhct_X3gBWRUVjs4eiQgkvttTsLVb1O1LymZi0IhF882L2mQjceTdMmZJoOpfokFXyHJpAZxWIMkDlDKCGGSbAJA8sYfKDCBbxDAZ_Kfwg1mRo6UMsdSGsLGhfe34mcIuJWmJMh2T88fG6b8dNnjYbZ5O3zXD-7DfpBmz_lDR1M9zYud307UZd0--a9aP-flfNkZXR9TWiaammj5qj6Rq96trbym8rH1Y-tLp2dcxRM_V5hXA1m8BWJceGRXbT3ZWHrKE8b_xrEmgTLFvF2dOO2nhw9mhwjGrrhclJ1ExNXvXbFc8rfq748dtAr6dL3b_UKeMPpzW2L2f2cLqxl9--Oh2Ozi49_Wx3z0ene5aP7WkJtpp3Eh9O0_3z8qLtj09fF2VPXGd5-pICEZXVfHH2N2hvY6Ompf-98pOqSIoCngVJBf8D3e5FPg",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVNITlBSMGR2VTNwaFV6WTBWbU5CT1RsUVMyaHdNV3BMVVY5UVNrOXdkMFZLWjNKWGNWODNSV2RyYW5nMlJ6ZFpVeTF6YUhCTk5VSTBUMVJGVFV4aVdFRnJOWEZoVTB4bFpWaDBWM0pQY1hkVlNXMVBNVkJVTjE5blp4SVhURkJKUTJGZkxXOURPRkJKY0RnMFVHOWZlbE0yUVUwYUlrRklUakJGTjBWTlgwc3hWR2xmVkhFMGMyazBVV3cyTFUwNE4wZFNSVzVJT1ZFIiwiZmN2IjoiMyIsImVpIjoiTFBJQ2FfLW9DOFBJcDg0UG9felM2QU0iLCJxYyI6ImMtTnl6c2d2VnlqSlYwZ3NMY25QVFN6SlRFN015YWxVU003UEswc3RLbEV3TkZPd1ZDalBURWt0VGk1S1RjMVRLQU15ODBIS0xVRlNJQ1VnRFFJTXRVVkx2dGtCQUEiLCJxdWVzdGlvbiI6IkhvdyBjYW4gSSBjb252ZXJ0IGEgMTY6OSB2aWRlbyB0byA5OjE2PyIsImxrIjoiR2h4amIyNTJaWEowSURFMklEa2dkbWxrWlc4Z2FXNTBieUE1SURFMiIsImJzIjoiYzQyUFBRdkNNQkJBY2IzSk9ZamM0RmZyMUF5RmRzbHFKa2R4RExIU2dPWWtDUlg4OVRZdHRWQkVIQzk1ZVhrSEVyWUhlcUpXRmlWcXNrM2xBaXJNOHJMQXhsd3F3a0JZbEZrdS1KSXRCaURMY2JnMk5nTHRDWndoamFwMkhEMGZSWnlOVmplOGtydXJJUGllSmZXX05Kd2dtYWhqRWlyX3FIUkFwNExwbnNWcXdWTzJtNWhqM2hjWUN6akNXdnAtMjVxY2VaRU43YV9reG9LdVNmQU5XeG5mN18wTG5NX2UiLCJpZCI6ImZjX0xQSUNhXy1vQzhQSXA4NFBvX3pTNkFNXzEifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVNITlBSMGR2VTNwaFV6WTBWbU5CT1RsUVMyaHdNV3BMVVY5UVNrOXdkMFZLWjNKWGNWODNSV2RyYW5nMlJ6ZFpVeTF6YUhCTk5VSTBUMVJGVFV4aVdFRnJOWEZoVTB4bFpWaDBWM0pQY1hkVlNXMVBNVkJVTjE5blp4SVhURkJKUTJGZkxXOURPRkJKY0RnMFVHOWZlbE0yUVUwYUlrRklUakJGTjBWTlgwc3hWR2xmVkhFMGMyazBVV3cyTFUwNE4wZFNSVzVJT1ZFIiwiZmN2IjoiMyIsImVpIjoiTFBJQ2FfLW9DOFBJcDg0UG9felM2QU0iLCJxYyI6ImMtTnl6c2d2VnlqSlYwZ3NMY25QVFN6SlRFN015YWxVU003UEswc3RLbEV3TkZPd1ZDalBURWt0VGk1S1RjMVRLQU15ODBIS0xVRlNJQ1VnRFFJTXRVVkx2dGtCQUEiLCJxdWVzdGlvbiI6IkhvdyBjYW4gSSBjb252ZXJ0IGEgMTY6OSB2aWRlbyB0byA5OjE2PyIsImxrIjoiR2h4amIyNTJaWEowSURFMklEa2dkbWxrWlc4Z2FXNTBieUE1SURFMiIsImJzIjoiYzQyUFBRdkNNQkJBY2IzSk9ZamM0RmZyMUF5RmRzbHFKa2R4RExIU2dPWWtDUlg4OVRZdHRWQkVIQzk1ZVhrSEVyWUhlcUpXRmlWcXNrM2xBaXJNOHJMQXhsd3F3a0JZbEZrdS1KSXRCaURMY2JnMk5nTHRDWndoamFwMkhEMGZSWnlOVmplOGtydXJJUGllSmZXX05Kd2dtYWhqRWlyX3FIUkFwNExwbnNWcXdWTzJtNWhqM2hjWUN6akNXdnAtMjVxY2VaRU43YV9reG9LdVNmQU5XeG5mN18wTG5NX2UiLCJpZCI6ImZjX0xQSUNhXy1vQzhQSXA4NFBvX3pTNkFNXzEifQ%3D%3D"
+      },
+      {
+        "question": "How to convert a video to vertical format?",
+        "type": "ai_overview",
+        "page_token": "QktJN3icHZPLbqtIEIYX8ywnG-ec0FySOFI0AptrTNt00900G6sBY8zFEJsYw-68yyzmmeZphpzFV7-qSipVlap-_1OfztV_f_1b9H13fXt6Gobh17Ftj_XhV9o2T-I6ntOnvK1P-d-H-pK-r7pg7dsmYFU8chrI0aSDw5m2jLQalHoKQQGYVWkpOU4Z41psq1KkZP1hTYa0onnqdCoC1AttuomUmIeNZodkucERwkj2xtn_EpJ2pScwJg76ZCYVyURB6KAG1YiHzKKJFJ9wBT6Yqcm4iuVEzsK4NihUOg5XwMClpZIVqLli9QFY2kHtbZHpuUK6TnhCXhBZXYqBwmUyogrucG0IbMEtWWd3Too2s69q2nDpsKbXYKKFaKgmKtjNfRaCFi1RMuBXyA0U3kdypc45FJbeXTA-zfWmVFreQ9LjbKp9v6K77QrIWIJQ2PEnXmdGJnkVYtTFDdwkoTUwh65QZNUbpuUEFCd_nktEsKTkboSToYWSN2ZVbaGo-6DUIELyWmGqYyDzQYDsEhOz5008L8dQYVhwuI4rDDrMMbhxkspbW_NTxbsyO64CKZVZ1CloKnLG-i0J505YJ28d3vuU4pgaMStjFMmgyyrkpaYXHayYirLOmb20uWxq-AxLYtEI1eaQsHsZAGuAZa2gkmBLugeYwCIawS2YigBHugot4xYpXQgrC9rHvvHPRuMTMmxDs9_qD5_vTjss-naRtufb4dIvxOJ2yg7td-jbP6WiXuTtpRH9D8V6aL6vUHdVbfACnem60I1Bd3VDj4-G_jHrx6ybWTetoR9dc9BNY5yRjuYntpeK66Cba8Nbco7r9BwcOTZkwVCdjIY0I8eRJwkGi2RlNIni9TwK9rJu6upc43nmdebnzMOf33jf503_1oisftzPtn07ZI_7U_b252X2m527Evuf7ep153av6q7dT_hZ9_fgcX-_XvI33dm9fOWawzx3evlSsIzKasxd5wTt52jdxGXwQ9HBy1JTNA28SsoS_A8m8jih",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=QktJN3icHZPLbqtIEIYX8ywnG-ec0FySOFI0AptrTNt00900G6sBY8zFEJsYw-68yyzmmeZphpzFV7-qSipVlap-_1OfztV_f_1b9H13fXt6Gobh17Ftj_XhV9o2T-I6ntOnvK1P-d-H-pK-r7pg7dsmYFU8chrI0aSDw5m2jLQalHoKQQGYVWkpOU4Z41psq1KkZP1hTYa0onnqdCoC1AttuomUmIeNZodkucERwkj2xtn_EpJ2pScwJg76ZCYVyURB6KAG1YiHzKKJFJ9wBT6Yqcm4iuVEzsK4NihUOg5XwMClpZIVqLli9QFY2kHtbZHpuUK6TnhCXhBZXYqBwmUyogrucG0IbMEtWWd3Too2s69q2nDpsKbXYKKFaKgmKtjNfRaCFi1RMuBXyA0U3kdypc45FJbeXTA-zfWmVFreQ9LjbKp9v6K77QrIWIJQ2PEnXmdGJnkVYtTFDdwkoTUwh65QZNUbpuUEFCd_nktEsKTkboSToYWSN2ZVbaGo-6DUIELyWmGqYyDzQYDsEhOz5008L8dQYVhwuI4rDDrMMbhxkspbW_NTxbsyO64CKZVZ1CloKnLG-i0J505YJ28d3vuU4pgaMStjFMmgyyrkpaYXHayYirLOmb20uWxq-AxLYtEI1eaQsHsZAGuAZa2gkmBLugeYwCIawS2YigBHugot4xYpXQgrC9rHvvHPRuMTMmxDs9_qD5_vTjss-naRtufb4dIvxOJ2yg7td-jbP6WiXuTtpRH9D8V6aL6vUHdVbfACnem60I1Bd3VDj4-G_jHrx6ybWTetoR9dc9BNY5yRjuYntpeK66Cba8Nbco7r9BwcOTZkwVCdjIY0I8eRJwkGi2RlNIni9TwK9rJu6upc43nmdebnzMOf33jf503_1oisftzPtn07ZI_7U_b252X2m527Evuf7ep153av6q7dT_hZ9_fgcX-_XvI33dm9fOWawzx3evlSsIzKasxd5wTt52jdxGXwQ9HBy1JTNA28SsoS_A8m8jih",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVNITlBSMGR2VTNwaFV6WTBWbU5CT1RsUVMyaHdNV3BMVVY5UVNrOXdkMFZLWjNKWGNWODNSV2RyYW5nMlJ6ZFpVeTF6YUhCTk5VSTBUMVJGVFV4aVdFRnJOWEZoVTB4bFpWaDBWM0pQY1hkVlNXMVBNVkJVTjE5blp4SVhURkJKUTJGZkxXOURPRkJKY0RnMFVHOWZlbE0yUVUwYUlrRklUakJGTjBWTlgwc3hWR2xmVkhFMGMyazBVV3cyTFUwNE4wZFNSVzVJT1ZFIiwiZmN2IjoiMyIsImVpIjoiTFBJQ2FfLW9DOFBJcDg0UG9felM2QU0iLCJxYyI6ImMtTnl6c2d2VnlqSlYwZ3NMY25QVFN6SlRFN015YWxVU003UEswc3RLbEV3TkZPd1ZDalBURWt0VGk1S1RjMVRLQU15ODBIS0xVRlNJQ1VnRFFJTXRVVkx2dGtCQUEiLCJxdWVzdGlvbiI6IkhvdyB0byBjb252ZXJ0IGEgdmlkZW8gdG8gdmVydGljYWwgZm9ybWF0PyIsImxrIjoiYzVQU3pNZ3ZWeWpKVjBqT3p5dExMU3BSU0ZRb3kweEp6UWNKZ2ZpWnlZazVDbW41UmJtSkpRQSIsImJzIjoiYzQyUFBRdkNNQkJBY2IzSk9ZamM0RmZyMUF5RmRzbHFKa2R4RExIU2dPWWtDUlg4OVRZdHRWQkVIQzk1ZVhrSEVyWUhlcUpXRmlWcXNrM2xBaXJNOHJMQXhsd3F3a0JZbEZrdS1KSXRCaURMY2JnMk5nTHRDWndoamFwMkhEMGZSWnlOVmplOGtydXJJUGllSmZXX05Kd2dtYWhqRWlyX3FIUkFwNExwbnNWcXdWTzJtNWhqM2hjWUN6akNXdnAtMjVxY2VaRU43YV9reG9LdVNmQU5XeG5mN18wTG5NX2UiLCJpZCI6ImZjX0xQSUNhXy1vQzhQSXA4NFBvX3pTNkFNXzEifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVNITlBSMGR2VTNwaFV6WTBWbU5CT1RsUVMyaHdNV3BMVVY5UVNrOXdkMFZLWjNKWGNWODNSV2RyYW5nMlJ6ZFpVeTF6YUhCTk5VSTBUMVJGVFV4aVdFRnJOWEZoVTB4bFpWaDBWM0pQY1hkVlNXMVBNVkJVTjE5blp4SVhURkJKUTJGZkxXOURPRkJKY0RnMFVHOWZlbE0yUVUwYUlrRklUakJGTjBWTlgwc3hWR2xmVkhFMGMyazBVV3cyTFUwNE4wZFNSVzVJT1ZFIiwiZmN2IjoiMyIsImVpIjoiTFBJQ2FfLW9DOFBJcDg0UG9felM2QU0iLCJxYyI6ImMtTnl6c2d2VnlqSlYwZ3NMY25QVFN6SlRFN015YWxVU003UEswc3RLbEV3TkZPd1ZDalBURWt0VGk1S1RjMVRLQU15ODBIS0xVRlNJQ1VnRFFJTXRVVkx2dGtCQUEiLCJxdWVzdGlvbiI6IkhvdyB0byBjb252ZXJ0IGEgdmlkZW8gdG8gdmVydGljYWwgZm9ybWF0PyIsImxrIjoiYzVQU3pNZ3ZWeWpKVjBqT3p5dExMU3BSU0ZRb3kweEp6UWNKZ2ZpWnlZazVDbW41UmJtSkpRQSIsImJzIjoiYzQyUFBRdkNNQkJBY2IzSk9ZamM0RmZyMUF5RmRzbHFKa2R4RExIU2dPWWtDUlg4OVRZdHRWQkVIQzk1ZVhrSEVyWUhlcUpXRmlWcXNrM2xBaXJNOHJMQXhsd3F3a0JZbEZrdS1KSXRCaURMY2JnMk5nTHRDWndoamFwMkhEMGZSWnlOVmplOGtydXJJUGllSmZXX05Kd2dtYWhqRWlyX3FIUkFwNExwbnNWcXdWTzJtNWhqM2hjWUN6akNXdnAtMjVxY2VaRU43YV9reG9LdVNmQU5XeG5mN18wTG5NX2UiLCJpZCI6ImZjX0xQSUNhXy1vQzhQSXA4NFBvX3pTNkFNXzEifQ%3D%3D"
+      },
+      {
+        "question": "How to convert 9:16 aspect ratio to 16:9?",
+        "type": "ai_overview",
+        "page_token": "pVbuGXicHVNLcqNIEF3MWaY39rSBErLkCMcEGChAoiSKquKzUUCBQFB8LGFjseu7zKnmAnONwb14-TLzRWRE_n79Iy5d8-8f_1XjONxenp6mafpZ9n0pip-8b5_S273jT-deXM5_F-LKX99ujuFBU-Zmco-ppCBDk4tO70Paq0gaGZIrObQaldNyzsNYTeBKikA-FgadeMPO3B5WWGYugWwfgSQmrQoJ3e6DCAdYce9L_JFK6o1d5Htm4_fQZGk2M5nYuMUCxyS0WCYll0BYu7hRlaBJlExRSSzrYQSGGFnbz6C2VtQWxxxYXQhVhiVW-7RatGYmplqzLlZ4JNYH5k2YopZAty5MXO8jPiOCmtRKdoGgwG_Gc2HoX2lLQaYkb4Swt4J6Mof9TKiM9xGTgtYN96w68HZoUlJB1FSfXogIb5IoM1iSCvech67qK-6YQfaBJfSO2i-XNcI8kMrO7KpJOgyLNvfSdjNTlkM-0zuClcJIghK7OuNO3A9E1zFhENtJdCBuQqh6Q6KZmMjvcZT7-VIlDjczqnGMZgFQi0Aa0QnLjXqA2wEB94pnF2LDXboXKFHEzmfMwI1784nrIWXwkLnsoRs-8MySQFGdlOXxIdyuuOTJRa0LAtwjp1hntcBJg2NKrL6A-RB2-VQQfEWmu4tANfsAYWY4IxJMjubyKwPY5LK7DhprFXQ6psvMU4K6HMT3fYgwki2HQNSZVe5RUxgx24yZ5K0WfzoY2M_k7ZrOiU5wv2eyTjmxGAJ659X-j_dXu58exv6B991ncR0ftn8CTV4_pLeh4OPDNR0v_bcsr5f8olk_2u8r1pyVOrm-FmpaqumT5mi6lpS6tlt4t_B-4X2va6VjTpqp3xdIpTkEcAscG386EH1mXSJ455cH0n-hi15xoIsY-CVvLSkNN2UON6VH4vWBnGLNN0rNt_sF04KV5ps_fr_W6-ncji9tmovH02L7lyJ_PF3yl98fd9ofnbf09Ff_tjk6w2Z17E9zsNa8E3g8fd2u5xfNPj5_nFU7dJ35-QMECq6b-9mxLwiuI6NNav97GM9bFaiqvJHAVv4fEmhNSg",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=pVbuGXicHVNLcqNIEF3MWaY39rSBErLkCMcEGChAoiSKquKzUUCBQFB8LGFjseu7zKnmAnONwb14-TLzRWRE_n79Iy5d8-8f_1XjONxenp6mafpZ9n0pip-8b5_S273jT-deXM5_F-LKX99ujuFBU-Zmco-ppCBDk4tO70Paq0gaGZIrObQaldNyzsNYTeBKikA-FgadeMPO3B5WWGYugWwfgSQmrQoJ3e6DCAdYce9L_JFK6o1d5Htm4_fQZGk2M5nYuMUCxyS0WCYll0BYu7hRlaBJlExRSSzrYQSGGFnbz6C2VtQWxxxYXQhVhiVW-7RatGYmplqzLlZ4JNYH5k2YopZAty5MXO8jPiOCmtRKdoGgwG_Gc2HoX2lLQaYkb4Swt4J6Mof9TKiM9xGTgtYN96w68HZoUlJB1FSfXogIb5IoM1iSCvech67qK-6YQfaBJfSO2i-XNcI8kMrO7KpJOgyLNvfSdjNTlkM-0zuClcJIghK7OuNO3A9E1zFhENtJdCBuQqh6Q6KZmMjvcZT7-VIlDjczqnGMZgFQi0Aa0QnLjXqA2wEB94pnF2LDXboXKFHEzmfMwI1784nrIWXwkLnsoRs-8MySQFGdlOXxIdyuuOTJRa0LAtwjp1hntcBJg2NKrL6A-RB2-VQQfEWmu4tANfsAYWY4IxJMjubyKwPY5LK7DhprFXQ6psvMU4K6HMT3fYgwki2HQNSZVe5RUxgx24yZ5K0WfzoY2M_k7ZrOiU5wv2eyTjmxGAJ659X-j_dXu58exv6B991ncR0ftn8CTV4_pLeh4OPDNR0v_bcsr5f8olk_2u8r1pyVOrm-FmpaqumT5mi6lpS6tlt4t_B-4X2va6VjTpqp3xdIpTkEcAscG386EH1mXSJ455cH0n-hi15xoIsY-CVvLSkNN2UON6VH4vWBnGLNN0rNt_sF04KV5ps_fr_W6-ncji9tmovH02L7lyJ_PF3yl98fd9ofnbf09Ff_tjk6w2Z17E9zsNa8E3g8fd2u5xfNPj5_nFU7dJ35-QMECq6b-9mxLwiuI6NNav97GM9bFaiqvJHAVv4fEmhNSg",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVNITlBSMGR2VTNwaFV6WTBWbU5CT1RsUVMyaHdNV3BMVVY5UVNrOXdkMFZLWjNKWGNWODNSV2RyYW5nMlJ6ZFpVeTF6YUhCTk5VSTBUMVJGVFV4aVdFRnJOWEZoVTB4bFpWaDBWM0pQY1hkVlNXMVBNVkJVTjE5blp4SVhURkJKUTJGZkxXOURPRkJKY0RnMFVHOWZlbE0yUVUwYUlrRklUakJGTjBWTlgwc3hWR2xmVkhFMGMyazBVV3cyTFUwNE4wZFNSVzVJT1ZFIiwiZmN2IjoiMyIsImVpIjoiTFBJQ2FfLW9DOFBJcDg0UG9felM2QU0iLCJxYyI6ImMtTnl6c2d2VnlqSlYwZ3NMY25QVFN6SlRFN015YWxVU003UEswc3RLbEV3TkZPd1ZDalBURWt0VGk1S1RjMVRLQU15ODBIS0xVRlNJQ1VnRFFJTXRVVkx2dGtCQUEiLCJxdWVzdGlvbiI6IkhvdyB0byBjb252ZXJ0IDk6MTYgYXNwZWN0IHJhdGlvIHRvIDE2Ojk/IiwibGsiOiJjNVBTeU1ndlZ5akpWMGpPenl0TExTcFJzRlF3TkZOSUxDNUlUUzVSS0Vvc3ljd0hTUUtGTEFFIiwiYnMiOiJjNDJQUFF2Q01CQkFjYjNKT1lqYzRGZnIxQXlGZHNscUprZHhETEhTZ09Za0NSWDg5VFl0dFZCRUhDOTVlWGtIRXJZSGVxSldGaVZxc2szbEFpck04ckxBeGx3cXdrQllsRmt1LUpJdEJpRExjYmcyTmdMdENad2hqYXAySEQwZlJaeU5WamU4a3J1cklQaWVKZldfTkp3Z21haGpFaXJfcUhSQXA0THBuc1Zxd1ZPMm01aGozaGNZQ3pqQ1d2cC0yNXFjZVpFTjdhX2t4b0t1U2ZBTld4bmY3XzBMbk1fZSIsImlkIjoiZmNfTFBJQ2FfLW9DOFBJcDg0UG9felM2QU1fMSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVNITlBSMGR2VTNwaFV6WTBWbU5CT1RsUVMyaHdNV3BMVVY5UVNrOXdkMFZLWjNKWGNWODNSV2RyYW5nMlJ6ZFpVeTF6YUhCTk5VSTBUMVJGVFV4aVdFRnJOWEZoVTB4bFpWaDBWM0pQY1hkVlNXMVBNVkJVTjE5blp4SVhURkJKUTJGZkxXOURPRkJKY0RnMFVHOWZlbE0yUVUwYUlrRklUakJGTjBWTlgwc3hWR2xmVkhFMGMyazBVV3cyTFUwNE4wZFNSVzVJT1ZFIiwiZmN2IjoiMyIsImVpIjoiTFBJQ2FfLW9DOFBJcDg0UG9felM2QU0iLCJxYyI6ImMtTnl6c2d2VnlqSlYwZ3NMY25QVFN6SlRFN015YWxVU003UEswc3RLbEV3TkZPd1ZDalBURWt0VGk1S1RjMVRLQU15ODBIS0xVRlNJQ1VnRFFJTXRVVkx2dGtCQUEiLCJxdWVzdGlvbiI6IkhvdyB0byBjb252ZXJ0IDk6MTYgYXNwZWN0IHJhdGlvIHRvIDE2Ojk%2FIiwibGsiOiJjNVBTeU1ndlZ5akpWMGpPenl0TExTcFJzRlF3TkZOSUxDNUlUUzVSS0Vvc3ljd0hTUUtGTEFFIiwiYnMiOiJjNDJQUFF2Q01CQkFjYjNKT1lqYzRGZnIxQXlGZHNscUprZHhETEhTZ09Za0NSWDg5VFl0dFZCRUhDOTVlWGtIRXJZSGVxSldGaVZxc2szbEFpck04ckxBeGx3cXdrQllsRmt1LUpJdEJpRExjYmcyTmdMdENad2hqYXAySEQwZlJaeU5WamU4a3J1cklQaWVKZldfTkp3Z21haGpFaXJfcUhSQXA0THBuc1Zxd1ZPMm01aGozaGNZQ3pqQ1d2cC0yNXFjZVpFTjdhX2t4b0t1U2ZBTld4bmY3XzBMbk1fZSIsImlkIjoiZmNfTFBJQ2FfLW9DOFBJcDg0UG9felM2QU1fMSJ9"
+      },
+      {
+        "question": "Is 16:9 horizontal or vertical video?",
+        "type": "ai_overview",
+        "page_token": "JGJW2XicHZNNkqM4EIUXc5auTVV3ITAu44iKCWwkfsqALZBA2jgAYWMjDOU_sHdzlznSrOY0w_Qi88vcvMh4ke-vv-XhVP_7xz_V9dpd5u_vfd__2rftXpa_irZ5zy6PU_G-a-Vh92cpz8Xn8txbvg1BCfkjaWZqgAgoT4tlQlo9UK40ABVIUK0XZP8UCdO5PVFSTVxLi_RFTXeF000woF5s01WqcRY3uh0TYxWlOMKq9xj3W6boF3oAj9zB3wmkWf6kIHZwgyVmcYJorvBDJIMvVutqVHM1V4HOwCIhTscCZNyjI5oQp1r7ljvkiUzpEQIMxS20_X7UcbEybIpm6DIVayU0sthGvEReGJzEJKQYBSBQmIIr0hh3n1ArOOGUSIySI15tNKgEMqgE9G7RU_aJNLBvVyEjEnBJPYqMJHfQLZbtEx8pz6Sn4npII0n7AhQPoggtSAbE6iHO7cHxiW6xUzDJEzHkzWXYyIAJC6eZKtehrYc5kCdSF1p84i2Ogw0mQssJ-srqfgik25f14DGKvn3FSPMa97FmKjnRI25XayGroLB4F6DKF2kXM9nVXCM60-STNEPmowr6kF25IwCNazUhA-UNQFzKpW_JKFqCKIwR9-3x3rRSg0aPhO3deEM1TBc0SuHTr_kippVSxOyBYxFzp-LsuFdo0oUx4GpgYZTBbhBEUFIjTSAkIxs0WdqNrrK-gF4EK-ETKC1GZ9dc8Sfj3IcW3uTAmJLnqI_bVSL9IXQ8PVc6lKP65fvTvbyC6Q_NNF6r9nx4tqdrJl_b8-u9PF8PxTjfD6Jsf2jopfn_b013ovfexkxMMzMXvemaC5PvF-bXyK-Rq5GrdmHuXdibcPEYS9lDGaX-3o_ZNIwWba55XdkYN2Gji2sbD9fhsjjhjqnj7vCO2_S-NkatcNQqR-5G7kZuXn7n6HO7a67zJhPybTv2dl6Kt-1BzH_Ha7tau8ts-7NdztZuN5us2-0zmpr-dvK2HS7n3dx01h-33TSF7SaF2kfjwUv7MfuJjFJfd2AKxGY0A3wYuqbrYKZohvof8AtHsA",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=JGJW2XicHZNNkqM4EIUXc5auTVV3ITAu44iKCWwkfsqALZBA2jgAYWMjDOU_sHdzlznSrOY0w_Qi88vcvMh4ke-vv-XhVP_7xz_V9dpd5u_vfd__2rftXpa_irZ5zy6PU_G-a-Vh92cpz8Xn8txbvg1BCfkjaWZqgAgoT4tlQlo9UK40ABVIUK0XZP8UCdO5PVFSTVxLi_RFTXeF000woF5s01WqcRY3uh0TYxWlOMKq9xj3W6boF3oAj9zB3wmkWf6kIHZwgyVmcYJorvBDJIMvVutqVHM1V4HOwCIhTscCZNyjI5oQp1r7ljvkiUzpEQIMxS20_X7UcbEybIpm6DIVayU0sthGvEReGJzEJKQYBSBQmIIr0hh3n1ArOOGUSIySI15tNKgEMqgE9G7RU_aJNLBvVyEjEnBJPYqMJHfQLZbtEx8pz6Sn4npII0n7AhQPoggtSAbE6iHO7cHxiW6xUzDJEzHkzWXYyIAJC6eZKtehrYc5kCdSF1p84i2Ogw0mQssJ-srqfgik25f14DGKvn3FSPMa97FmKjnRI25XayGroLB4F6DKF2kXM9nVXCM60-STNEPmowr6kF25IwCNazUhA-UNQFzKpW_JKFqCKIwR9-3x3rRSg0aPhO3deEM1TBc0SuHTr_kippVSxOyBYxFzp-LsuFdo0oUx4GpgYZTBbhBEUFIjTSAkIxs0WdqNrrK-gF4EK-ETKC1GZ9dc8Sfj3IcW3uTAmJLnqI_bVSL9IXQ8PVc6lKP65fvTvbyC6Q_NNF6r9nx4tqdrJl_b8-u9PF8PxTjfD6Jsf2jopfn_b013ovfexkxMMzMXvemaC5PvF-bXyK-Rq5GrdmHuXdibcPEYS9lDGaX-3o_ZNIwWba55XdkYN2Gji2sbD9fhsjjhjqnj7vCO2_S-NkatcNQqR-5G7kZuXn7n6HO7a67zJhPybTv2dl6Kt-1BzH_Ha7tau8ts-7NdztZuN5us2-0zmpr-dvK2HS7n3dx01h-33TSF7SaF2kfjwUv7MfuJjFJfd2AKxGY0A3wYuqbrYKZohvof8AtHsA",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVNITlBSMGR2VTNwaFV6WTBWbU5CT1RsUVMyaHdNV3BMVVY5UVNrOXdkMFZLWjNKWGNWODNSV2RyYW5nMlJ6ZFpVeTF6YUhCTk5VSTBUMVJGVFV4aVdFRnJOWEZoVTB4bFpWaDBWM0pQY1hkVlNXMVBNVkJVTjE5blp4SVhURkJKUTJGZkxXOURPRkJKY0RnMFVHOWZlbE0yUVUwYUlrRklUakJGTjBWTlgwc3hWR2xmVkhFMGMyazBVV3cyTFUwNE4wZFNSVzVJT1ZFIiwiZmN2IjoiMyIsImVpIjoiTFBJQ2FfLW9DOFBJcDg0UG9felM2QU0iLCJxYyI6ImMtTnl6c2d2VnlqSlYwZ3NMY25QVFN6SlRFN015YWxVU003UEswc3RLbEV3TkZPd1ZDalBURWt0VGk1S1RjMVRLQU15ODBIS0xVRlNJQ1VnRFFJTXRVVkx2dGtCQUEiLCJxdWVzdGlvbiI6IklzIDE2OjkgaG9yaXpvbnRhbCBvciB2ZXJ0aWNhbCB2aWRlbz8iLCJsayI6IkdpUnBjeUF4TmlBNUlHaHZjbWw2YjI1MFlXd2diM0lnZG1WeWRHbGpZV3dnZG1sa1pXOCIsImJzIjoiYzQyUFBRdkNNQkJBY2IzSk9ZamM0RmZyMUF5RmRzbHFKa2R4RExIU2dPWWtDUlg4OVRZdHRWQkVIQzk1ZVhrSEVyWUhlcUpXRmlWcXNrM2xBaXJNOHJMQXhsd3F3a0JZbEZrdS1KSXRCaURMY2JnMk5nTHRDWndoamFwMkhEMGZSWnlOVmplOGtydXJJUGllSmZXX05Kd2dtYWhqRWlyX3FIUkFwNExwbnNWcXdWTzJtNWhqM2hjWUN6akNXdnAtMjVxY2VaRU43YV9reG9LdVNmQU5XeG5mN18wTG5NX2UiLCJpZCI6ImZjX0xQSUNhXy1vQzhQSXA4NFBvX3pTNkFNXzEifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVNITlBSMGR2VTNwaFV6WTBWbU5CT1RsUVMyaHdNV3BMVVY5UVNrOXdkMFZLWjNKWGNWODNSV2RyYW5nMlJ6ZFpVeTF6YUhCTk5VSTBUMVJGVFV4aVdFRnJOWEZoVTB4bFpWaDBWM0pQY1hkVlNXMVBNVkJVTjE5blp4SVhURkJKUTJGZkxXOURPRkJKY0RnMFVHOWZlbE0yUVUwYUlrRklUakJGTjBWTlgwc3hWR2xmVkhFMGMyazBVV3cyTFUwNE4wZFNSVzVJT1ZFIiwiZmN2IjoiMyIsImVpIjoiTFBJQ2FfLW9DOFBJcDg0UG9felM2QU0iLCJxYyI6ImMtTnl6c2d2VnlqSlYwZ3NMY25QVFN6SlRFN015YWxVU003UEswc3RLbEV3TkZPd1ZDalBURWt0VGk1S1RjMVRLQU15ODBIS0xVRlNJQ1VnRFFJTXRVVkx2dGtCQUEiLCJxdWVzdGlvbiI6IklzIDE2OjkgaG9yaXpvbnRhbCBvciB2ZXJ0aWNhbCB2aWRlbz8iLCJsayI6IkdpUnBjeUF4TmlBNUlHaHZjbWw2YjI1MFlXd2diM0lnZG1WeWRHbGpZV3dnZG1sa1pXOCIsImJzIjoiYzQyUFBRdkNNQkJBY2IzSk9ZamM0RmZyMUF5RmRzbHFKa2R4RExIU2dPWWtDUlg4OVRZdHRWQkVIQzk1ZVhrSEVyWUhlcUpXRmlWcXNrM2xBaXJNOHJMQXhsd3F3a0JZbEZrdS1KSXRCaURMY2JnMk5nTHRDWndoamFwMkhEMGZSWnlOVmplOGtydXJJUGllSmZXX05Kd2dtYWhqRWlyX3FIUkFwNExwbnNWcXdWTzJtNWhqM2hjWUN6akNXdnAtMjVxY2VaRU43YV9reG9LdVNmQU5XeG5mN18wTG5NX2UiLCJpZCI6ImZjX0xQSUNhXy1vQzhQSXA4NFBvX3pTNkFNXzEifQ%3D%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "SIqsC3iczVZbbvJGFJb63G3UL-QHYy4BJCsajw0xwQGHUEReLDO-4ssEj8GBx38tfepiuoAuoyvo2JjEJpDkryq1R7JnPOc6Z843x99_893Q-_Nny4njZ9Kr1ZIkqdoY275ZRTio6WQXopqFfRIh54bgTYRM1-CRE-HAZByfN0PG9vkNYQ68nFPFS2a35RsMIjzLmC4_mshQ175h2JnIz53mBGv7aRsoTGaf15Y6MVfU_cuK1LQafXm_NET6USVVM6zK5noZ9jnw6zOocizXqI5rekAFwH9LkgBkm44eAPZHcoL6VYuqQ60CeKovHcbCugJSnzKA8oFzyf80NZpqQiGLmD5jYK0m3oDO7o9SM_mTuGAppnke1mHwTsP9AuWq6Q5KCx_RmSRmebl7-4anvHM0KHOEhQjEpGD-3XYKDg6qs_SVgH5zogBVVS96OhI1fbcArA8-qZNjRLPucBpTLaFm2LTK2doyokO95iIHZZOIpMUPH7ssHozGgxWnCepa34zV7QBI97E5SSRp1AQ1tKRyPtYN09Acjb3JvutcvcV2G9edqwx1iLzCjhRhF2HCxmFH-Raz1VFVqB8xV97tabJUWQbniskW7GMqyvRqQC3mOUvDiaRX8tzPRwcIWKXKJaZ6J42KQhQuIs1Xxy6m_00DfoC5E8oqFucGZvkSKFebugDS9JyflMZnzab7yLyWnQ3yiSwcA09yznvMPQBZzdKbp7h0OQr0hhBogtX0prij6jE8yMrNNL7jiamSJEtAst_UCgSlM9sBsBAJ1ZNSqQTYEvA2sgRlN18GmRPbPngSVPvVTOYDvkddRgpd7ztnWV8i6SsXyyGKI8hOMFPEmvSE2HvLWth-c28p0Xhj6c2I47bwmiTnsYWD5Q_0NPS_R9-x4_l52V9EX-rpS-hTnY_Qd67jHdAHvQvomx7Qd77jTY5SJx3vPfogcAvoyzveS56LfwN9wufoKx5XEX1vR1VCn3QJfQOpjL7FSjp2vPPoyx28oe-fdjzhxzteBkLzMJTb32ZlX26D5rQ9W8-hpHBKYzJ3-vrDw94hj8vtg_ppG7SCuBfohn-luUZP4IbxzrjS6ALumQaz5m9xUolxRd_EONBjF-m-v6sgHG7NKK7U271uJXENk6DINMPKlk5xKt7t1duVVCRVuGECP8I8qze1jqbcDluIwJZvwLATzbfhXJkLXWcXt-fdl-Zkv7bQHD7ZT4rr48mL0obQfBrh5v2dZ4sWJuLGMhC70Ye40Wo5yV6qP8Yiiuqc_CS6rYiLJA7Gj4OWpwayaj2LTiC2UD_w1iQcWtp-L-7cLBrCr_eDrjGbC05TYeh2icnXmSBCPK2Gpgfu1fRHTwdCAoZZ-QoPazqOaM0ssQDU2wVQRZs-mB4cQ5CumWTLo3argVosi3TdurZMiwnsePfMd1mGhBFf_51mSY_pOejxH95Pf1X-Bq4iix8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=SIqsC3iczVZbbvJGFJb63G3UL-QHYy4BJCsajw0xwQGHUEReLDO-4ssEj8GBx38tfepiuoAuoyvo2JjEJpDkryq1R7JnPOc6Z843x99_893Q-_Nny4njZ9Kr1ZIkqdoY275ZRTio6WQXopqFfRIh54bgTYRM1-CRE-HAZByfN0PG9vkNYQ68nFPFS2a35RsMIjzLmC4_mshQ175h2JnIz53mBGv7aRsoTGaf15Y6MVfU_cuK1LQafXm_NET6USVVM6zK5noZ9jnw6zOocizXqI5rekAFwH9LkgBkm44eAPZHcoL6VYuqQ60CeKovHcbCugJSnzKA8oFzyf80NZpqQiGLmD5jYK0m3oDO7o9SM_mTuGAppnke1mHwTsP9AuWq6Q5KCx_RmSRmebl7-4anvHM0KHOEhQjEpGD-3XYKDg6qs_SVgH5zogBVVS96OhI1fbcArA8-qZNjRLPucBpTLaFm2LTK2doyokO95iIHZZOIpMUPH7ssHozGgxWnCepa34zV7QBI97E5SSRp1AQ1tKRyPtYN09Acjb3JvutcvcV2G9edqwx1iLzCjhRhF2HCxmFH-Raz1VFVqB8xV97tabJUWQbniskW7GMqyvRqQC3mOUvDiaRX8tzPRwcIWKXKJaZ6J42KQhQuIs1Xxy6m_00DfoC5E8oqFucGZvkSKFebugDS9JyflMZnzab7yLyWnQ3yiSwcA09yznvMPQBZzdKbp7h0OQr0hhBogtX0prij6jE8yMrNNL7jiamSJEtAst_UCgSlM9sBsBAJ1ZNSqQTYEvA2sgRlN18GmRPbPngSVPvVTOYDvkddRgpd7ztnWV8i6SsXyyGKI8hOMFPEmvSE2HvLWth-c28p0Xhj6c2I47bwmiTnsYWD5Q_0NPS_R9-x4_l52V9EX-rpS-hTnY_Qd67jHdAHvQvomx7Qd77jTY5SJx3vPfogcAvoyzveS56LfwN9wufoKx5XEX1vR1VCn3QJfQOpjL7FSjp2vPPoyx28oe-fdjzhxzteBkLzMJTb32ZlX26D5rQ9W8-hpHBKYzJ3-vrDw94hj8vtg_ppG7SCuBfohn-luUZP4IbxzrjS6ALumQaz5m9xUolxRd_EONBjF-m-v6sgHG7NKK7U271uJXENk6DINMPKlk5xKt7t1duVVCRVuGECP8I8qze1jqbcDluIwJZvwLATzbfhXJkLXWcXt-fdl-Zkv7bQHD7ZT4rr48mL0obQfBrh5v2dZ4sWJuLGMhC70Ye40Wo5yV6qP8Yiiuqc_CS6rYiLJA7Gj4OWpwayaj2LTiC2UD_w1iQcWtp-L-7cLBrCr_eDrjGbC05TYeh2icnXmSBCPK2Gpgfu1fRHTwdCAoZZ-QoPazqOaM0ssQDU2wVQRZs-mB4cQ5CumWTLo3argVosi3TdurZMiwnsePfMd1mGhBFf_51mSY_pOejxH95Pf1X-Bq4iix8"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "One-click Video Resize Online",
+        "link": "https://www.canva.com/features/video-resize/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaAHEIkXX4ZL4DWRX2ZeDNbpdf31P3u6GXUTtoQJUox-AzdZiJ-kK2fG4lyjWWzrXhGGTe3YJKJNqwy2NS5QxWeaoms9CD412qKlO-D_3LIvJCSEKWynSXNip1nZWZucsZDtjUsYL99sK&ved=2ahUKEwj_7oqe25uYAxVD5MkDHSO-FD0QFnoECBUQAQ&uoh=1",
+        "displayed_link": "https://www.canva.com \u203a Video Editor",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEUBw8wDv80Gu80Jt88MstARq9EVpNMcm9Uik9cqi9kuxNEzgtuY2ub____w9v1zy9_V5Pc6d95AbOJZsdxSXt9gS-RsOugifOA5Xul4hemUmPJGS-56KeqxuPRUNvRyJvJjKPrWjzNIAAABIklEQVR4AZXPBZbDMBADUIfTNuMw4_1PubKmz8ukcv-T4pgPCYIwjKI4SdIsv_0HoYrpt80YmHn0Yu5B5Fcf77AQxJYsEgNfA1XlvRQpnsUaU4G3IgzDuBCL03h0HpRqUYwvQGdEBheLeBOFVOw96saECM7vRkE4p0gLQ1ERiawIKU2qNs9zWmciDVYTkDsKSK0zMSR2p6jSV1IDIkkCLLLMk1pvEq45zBEQa7Te6Biwuj3F22AyrmXA8TGODqZqVhuMjo1WhHOwxa4g2GbcGCo7qhNkWmeZVxBsMwCMYQvarGu3y-4MBOT10XAqFuvLwRqRgLX1WCordu8PJSKFOZjhGE4loP4PYa7jdNnoRP0Xz-u6PBEJF0N618RfnvB413wBF2gp0D7Hjh8AAAAASUVORK5CYII.png",
+        "snippet": "Just add the width and height in pixels of your desired aspect ratio. Then, click Resize to change the current design or click Copy and Resize to preserve the ...",
+        "snippet_highlighted_words": [
+          "Just add the width and height in pixels of your desired aspect ratio"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Just add the width and height in pixels of your desired aspect ratio. Then, click Resize to change the current design or click Copy and Resize to preserve the ...",
+            "source_info_link": "https://www.canva.com/features/video-resize/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEUBw8wDv80Gu80Jt88MstARq9EVpNMcm9Uik9cqi9kuxNEzgtuY2ub____w9v1zy9_V5Pc6d95AbOJZsdxSXt9gS-RsOugifOA5Xul4hemUmPJGS-56KeqxuPRUNvRyJvJjKPrWjzNIAAABIklEQVR4AZXPBZbDMBADUIfTNuMw4_1PubKmz8ukcv-T4pgPCYIwjKI4SdIsv_0HoYrpt80YmHn0Yu5B5Fcf77AQxJYsEgNfA1XlvRQpnsUaU4G3IgzDuBCL03h0HpRqUYwvQGdEBheLeBOFVOw96saECM7vRkE4p0gLQ1ERiawIKU2qNs9zWmciDVYTkDsKSK0zMSR2p6jSV1IDIkkCLLLMk1pvEq45zBEQa7Te6Biwuj3F22AyrmXA8TGODqZqVhuMjo1WhHOwxa4g2GbcGCo7qhNkWmeZVxBsMwCMYQvarGu3y-4MBOT10XAqFuvLwRqRgLX1WCordu8PJSKFOZjhGE4loP4PYa7jdNnoRP0Xz-u6PBEJF0N618RfnvB413wBF2gp0D7Hjh8AAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWHRuRkgzV2llLU05N05VNl8xbzE0b2NZczBQYkdyOWRQM1ExZnFMWUdEbzcxa3VhVFpZWmxvUnk2b3RmWjA0OGZwWVRPZmhjOHpId0RWMDBFcFVTenhGUGlXbGoxeUI5Qy16UFZSRkRNMjZLZ2NkRnZQOGR4WFFmWnhQOGNCNjYxQWZFOBIEGgIIABr1BRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQM8FCAAQABgAIAAqCgoDaG93FVVOPz8qCQoCdG8VAAAAACovCg1hdXRvbWF0aWNhbGx5FTu-8TwaBGF1dG8aCGF1dG9tYXRlGglhdXRvbWF0aWMqOwoHY29udmVydBWwbcw-GgZjaGFuZ2UaCWNvbnZlcnRlchoKY29udmVydGluZxoMaXY7cDtjb252ZXJ0KgkKAjE2Febiyz8qCAoBORXm4ss_KkkKCndpZGVzY3JlZW4Vk8DzPhoLd2lkZSBzY3JlZW4aD2l2O3A7d2lkZXNjcmVlbhoEd2lkZRoKcmVzb2x1dGlvbhoGc2NyZWVuKhQKBXZpZGVvFbTk6kAaBnZpZGVvcyoJCgJ0bxUAAAAAKggKATkV5uLLPyoJCgIxNhXm4ss_KioKCHZlcnRpY2FsFXbmlT4aCnZlcnRpY2FsbHkaDWl2O3A7dmVydGljYWwymgEvZ290bz91cmw9Q0FFU2FBSEVJa1hYdG5GSDNXaWUtTTk3TlU2XzFvMTRvY1lzMFBiR3I5ZFAzUTFmcUxZR0RvNzFrdWFUWllabG9SeTZvdGZaMDQ4ZnBZVE9maGM4ekh3RFYwMEVwVVN6eEZQaVdsajF5QjlDLXpQVlJGRE0yNktnY2RGdlA4ZHhYUWZaeFA4Y0I2NjFBZkU4OixPbmUtY2xpY2sgPGI-VmlkZW88L2I-IFJlc2l6ZSBPbmxpbmUgLSBDYW52YUKuATxiPkp1c3QgYWRkIHRoZSB3aWR0aCBhbmQgaGVpZ2h0IGluIHBpeGVscyBvZiB5b3VyIGRlc2lyZWQgYXNwZWN0IHJhdGlvPC9iPi4gVGhlbiwgY2xpY2sgUmVzaXplIHRvIGNoYW5nZSB0aGUgY3VycmVudCBkZXNpZ24gb3IgY2xpY2sgQ29weSBhbmQgUmVzaXplIHRvIHByZXNlcnZlIHRoZSZuYnNwOy4uLkoCdG8iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWHRuRkgzV2llLU05N05VNl8xbzE0b2NZczBQYkdyOWRQM1ExZnFMWUdEbzcxa3VhVFpZWmxvUnk2b3RmWjA0OGZwWVRPZmhjOHpId0RWMDBFcFVTenhGUGlXbGoxeUI5Qy16UFZSRkRNMjZLZ2NkRnZQOGR4WFFmWnhQOGNCNjYxQWZFOBIEGgIIABr1BRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQM8FCAAQABgAIAAqCgoDaG93FVVOPz8qCQoCdG8VAAAAACovCg1hdXRvbWF0aWNhbGx5FTu-8TwaBGF1dG8aCGF1dG9tYXRlGglhdXRvbWF0aWMqOwoHY29udmVydBWwbcw-GgZjaGFuZ2UaCWNvbnZlcnRlchoKY29udmVydGluZxoMaXY7cDtjb252ZXJ0KgkKAjE2Febiyz8qCAoBORXm4ss_KkkKCndpZGVzY3JlZW4Vk8DzPhoLd2lkZSBzY3JlZW4aD2l2O3A7d2lkZXNjcmVlbhoEd2lkZRoKcmVzb2x1dGlvbhoGc2NyZWVuKhQKBXZpZGVvFbTk6kAaBnZpZGVvcyoJCgJ0bxUAAAAAKggKATkV5uLLPyoJCgIxNhXm4ss_KioKCHZlcnRpY2FsFXbmlT4aCnZlcnRpY2FsbHkaDWl2O3A7dmVydGljYWwymgEvZ290bz91cmw9Q0FFU2FBSEVJa1hYdG5GSDNXaWUtTTk3TlU2XzFvMTRvY1lzMFBiR3I5ZFAzUTFmcUxZR0RvNzFrdWFUWllabG9SeTZvdGZaMDQ4ZnBZVE9maGM4ekh3RFYwMEVwVVN6eEZQaVdsajF5QjlDLXpQVlJGRE0yNktnY2RGdlA4ZHhYUWZaeFA4Y0I2NjFBZkU4OixPbmUtY2xpY2sgPGI-VmlkZW88L2I-IFJlc2l6ZSBPbmxpbmUgLSBDYW52YUKuATxiPkp1c3QgYWRkIHRoZSB3aWR0aCBhbmQgaGVpZ2h0IGluIHBpeGVscyBvZiB5b3VyIGRlc2lyZWQgYXNwZWN0IHJhdGlvPC9iPi4gVGhlbiwgY2xpY2sgUmVzaXplIHRvIGNoYW5nZSB0aGUgY3VycmVudCBkZXNpZ24gb3IgY2xpY2sgQ29weSBhbmQgUmVzaXplIHRvIHByZXNlcnZlIHRoZSZuYnNwOy4uLkoCdG8iAhABSABYAGgA",
+        "source": "Canva",
+        "read_more_link": "https://www.google.com/goto?url=CAESsgEBxCJF12hfKmE6TmX30BbBWCGSeSuPtGh8_W6Zfj1Yp7CmNh_OmS60_fF1ZHXfkSjX2YQgwJ1fAR_qc6zs0FbpAgS75ZgYvEHRPcIM8Vbv_-u9p6huz6aYgb_B_G5ytCnCT-he5ucEeKpzBQhZE0waJ6h28pFmRSPsPAzWqctnyDJiCX2q_XIMLkvRXOd67j5JZT4vAyqR1lNxR5vSd86nDFcgnbFMLeaFCW4oXi9EQ183&gsessionid=tJsu9n2WDUBd8Wek2As6PSRNjndJOlZJYLGiCVbzDexJZdLXFf50cg"
+      },
+      {
+        "position": 2,
+        "title": "How to convert vertical video to horizontal 9:16 to 16:9?",
+        "link": "https://www.facebook.com/groups/2292891657639248/posts/3592814780980256/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEBxCJF18RoAQWUP0jf-vS15jqlK5DdgQkpQjB1EpE5lAdCB3mVW0NL-YXdPA0ZOBGI-bktJxJrjL1GmK66gLpVJtMeP3myFkTLPJBrFT76qK-X6crNgNpemLEuCiSi027S9frU5QVdk3Dq6S_hr5XDPZNsLETKMhZxcpzfHphKro8Pnv0&ved=2ahUKEwj_7oqe25uYAxVD5MkDHSO-FD0QFnoECB8QAQ&uoh=1",
+        "displayed_link": "5 comments",
+        "date": "2 years ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+        "snippet": "Everyone Can you Help Me! how to convert vertical video into horizontal? 9:16 to 16:9 ?",
+        "sitelinks": {
+          "list": [
+            {
+              "title": "How to reframe video from 16:9 to 9:16 without cropping?",
+              "link": "https://www.google.com/goto?url=CAESgwEBxCJF1_6Uc17OCqK31E1CLyexbrSUArj7FAbEjHHmh8eG6MqUcRCyO5cuTLIQnf2_Rgnk-exdvFEIouRGvhe8FH9hKvkU0F32f7dYRSyhtlfIW10AzQu7RpepDScCMEQoRm8-wFRnP9JEQLkxnmCuRSSyKedu4cS29o8ck62IIQakiA&gsessionid=tJsu9n2WDUBd8Wek2As6PSRNjndJOlZJYLGiCVbzDexJZdLXFf50cg",
+              "date": "Jan 26, 2025"
+            },
+            {
+              "title": "How to convert 16:9 video to 9:16 for TikTok? - Facebook",
+              "link": "https://www.google.com/goto?url=CAESgwEBxCJF1-ybuQofDqtQgP3_nlmA4BzWuCyAi7FMmMr0keb8A_HpoVcOFEEYAVUpe0iB5wMIquWxB9Dw35LQ8IGn-4CQt2N6MbC_RR18RFcr1su3p7sykOLUmQLt-Ys9PXjnqsCPMBKogetOe83f5fmOgh6Irc74_QMzwj81SlQEXy8aAQ&gsessionid=tJsu9n2WDUBd8Wek2As6PSRNjndJOlZJYLGiCVbzDexJZdLXFf50cg",
+              "date": "Feb 1, 2024"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "TURN ANY VIDEO VERTICAL IN ONE PROMPT. Seedance can turn a horizontal 16:9 video into a full vertical 9:16 version with one prompt without ...",
+            "source_info_link": "https://www.facebook.com/groups/2292891657639248/posts/3592814780980256/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsEBL2dvdG8_dXJsPUNBRVNoQUVCeENKRjEwMU13dTRDQnI2bndVZkwxbTdjZXdrN0lraWVJU0tkLVNjX0hOVWVSS29XT2ZQV3MzdndrbWVhWjY2ZXlTUkRyUXpGVDZ6QV9KX21fWnhZTDRFVVM3RzBlSDVKRTZKQld3QUhFb1B5bFRvckN1amplWjc4dWt1S1cycEU3UllESzhPWEw0QzVoWVhGSnVsVWxfbkdxa19CeDBIbk5oZ2pucVZobnBWWC0wQRIEGgIIABqoBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCEBggAEAAYACAAKgoKA2hvdxX6hrxAKgkKAnRvFQAAAAAqLwoNYXV0b21hdGljYWxseRU_FkA-GgRhdXRvGghhdXRvbWF0ZRoJYXV0b21hdGljKjsKB2NvbnZlcnQVgQLHQBoGY2hhbmdlGgljb252ZXJ0ZXIaCmNvbnZlcnRpbmcaDGl2O3A7Y29udmVydCoJCgIxNhXIRQhBKggKATkVHAIKQSpJCgp3aWRlc2NyZWVuFXYAtD4aC3dpZGUgc2NyZWVuGg9pdjtwO3dpZGVzY3JlZW4aBHdpZGUaCnJlc29sdXRpb24aBnNjcmVlbioUCgV2aWRlbxXDy_dAGgZ2aWRlb3MqCQoCdG8VAAAAACoICgE5FRwCCkEqCQoCMTYVyEUIQSoqCgh2ZXJ0aWNhbBVtxN9AGgp2ZXJ0aWNhbGx5Gg1pdjtwO3ZlcnRpY2FsMsEBL2dvdG8_dXJsPUNBRVNoQUVCeENKRjEwMU13dTRDQnI2bndVZkwxbTdjZXdrN0lraWVJU0tkLVNjX0hOVWVSS29XT2ZQV3MzdndrbWVhWjY2ZXlTUkRyUXpGVDZ6QV9KX21fWnhZTDRFVVM3RzBlSDVKRTZKQld3QUhFb1B5bFRvckN1amplWjc4dWt1S1cycEU3UllESzhPWEw0QzVoWVhGSnVsVWxfbkdxa19CeDBIbk5oZ2pucVZobnBWWC0wQTpOSG93IHRvIDxiPmNvbnZlcnQgdmVydGljYWwgdmlkZW88L2I-IHRvIGhvcml6b250YWwgPGI-OToxNjwvYj4gdG8gPGI-MTY6OTwvYj4_QpoBPGI-VFVSTiBBTlkgVklERU8gVkVSVElDQUwgSU4gT05FIFBST01QVDwvYj4uIFNlZWRhbmNlIGNhbiB0dXJuIGEgaG9yaXpvbnRhbCAxNjo5IHZpZGVvIGludG8gYSBmdWxsIHZlcnRpY2FsIDk6MTYgdmVyc2lvbiB3aXRoIG9uZSBwcm9tcHQgd2l0aG91dCZuYnNwOy4uLkoCdG8iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsEBL2dvdG8_dXJsPUNBRVNoQUVCeENKRjEwMU13dTRDQnI2bndVZkwxbTdjZXdrN0lraWVJU0tkLVNjX0hOVWVSS29XT2ZQV3MzdndrbWVhWjY2ZXlTUkRyUXpGVDZ6QV9KX21fWnhZTDRFVVM3RzBlSDVKRTZKQld3QUhFb1B5bFRvckN1amplWjc4dWt1S1cycEU3UllESzhPWEw0QzVoWVhGSnVsVWxfbkdxa19CeDBIbk5oZ2pucVZobnBWWC0wQRIEGgIIABqoBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCEBggAEAAYACAAKgoKA2hvdxX6hrxAKgkKAnRvFQAAAAAqLwoNYXV0b21hdGljYWxseRU_FkA-GgRhdXRvGghhdXRvbWF0ZRoJYXV0b21hdGljKjsKB2NvbnZlcnQVgQLHQBoGY2hhbmdlGgljb252ZXJ0ZXIaCmNvbnZlcnRpbmcaDGl2O3A7Y29udmVydCoJCgIxNhXIRQhBKggKATkVHAIKQSpJCgp3aWRlc2NyZWVuFXYAtD4aC3dpZGUgc2NyZWVuGg9pdjtwO3dpZGVzY3JlZW4aBHdpZGUaCnJlc29sdXRpb24aBnNjcmVlbioUCgV2aWRlbxXDy_dAGgZ2aWRlb3MqCQoCdG8VAAAAACoICgE5FRwCCkEqCQoCMTYVyEUIQSoqCgh2ZXJ0aWNhbBVtxN9AGgp2ZXJ0aWNhbGx5Gg1pdjtwO3ZlcnRpY2FsMsEBL2dvdG8_dXJsPUNBRVNoQUVCeENKRjEwMU13dTRDQnI2bndVZkwxbTdjZXdrN0lraWVJU0tkLVNjX0hOVWVSS29XT2ZQV3MzdndrbWVhWjY2ZXlTUkRyUXpGVDZ6QV9KX21fWnhZTDRFVVM3RzBlSDVKRTZKQld3QUhFb1B5bFRvckN1amplWjc4dWt1S1cycEU3UllESzhPWEw0QzVoWVhGSnVsVWxfbkdxa19CeDBIbk5oZ2pucVZobnBWWC0wQTpOSG93IHRvIDxiPmNvbnZlcnQgdmVydGljYWwgdmlkZW88L2I-IHRvIGhvcml6b250YWwgPGI-OToxNjwvYj4gdG8gPGI-MTY6OTwvYj4_QpoBPGI-VFVSTiBBTlkgVklERU8gVkVSVElDQUwgSU4gT05FIFBST01QVDwvYj4uIFNlZWRhbmNlIGNhbiB0dXJuIGEgaG9yaXpvbnRhbCAxNjo5IHZpZGVvIGludG8gYSBmdWxsIHZlcnRpY2FsIDk6MTYgdmVyc2lvbiB3aXRoIG9uZSBwcm9tcHQgd2l0aG91dCZuYnNwOy4uLkoCdG8iAhABSABYAGgA",
+        "source": "Facebook \u00b7 Video Editors Bangladesh-\u09ad\u09bf\u09a1\u09bf\u0993 \u098f\u09a1\u09bf\u099f\u09b0 \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6"
+      },
+      {
+        "position": 3,
+        "title": "How to Change the Aspect Ratio of a Video - Quick & Easy! ...",
+        "link": "https://www.google.com/goto?url=CAESZwHEIkXXm7tNo6dJGX1UH2kYnumXdKHlsxeB9iMgxIxL_g05LNOOfjhsYCK_2XqXEgYj4krDevJGNlJxs0GQQf3mqQXPZPsgCVlnNoyP6MUukrqPhj8_2Y_6p8p_lT6Mh6TgdRE00DA&gsessionid=tJsu9n2WDUBd8Wek2As6PSRNjndJOlZJYLGiCVbzDexJZdLXFf50cg",
+        "displayed_link": "95.5K+ views",
+        "date": "3 years ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f22ba5b116fa96f6f97c/images/ghgCVCFLk9d7Dj8Dxx4lZ7nCh1Ug4K8LCpcGzwchbPI.webp",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "And we demonstrate how to convert a 16:9 horizontal video to 9:16 vertical without black bars or visible quality loss. Besides, we also ...",
+        "duration": "3:07",
+        "key_moments": [
+          {
+            "time": "00:02",
+            "title": "Transform the aspect ratio of a 16x9 video",
+            "link": "https://www.google.com/goto?url=CAESawHEIkXXTnXeU4GpDgvRMm7KnMcz3TfpJHXV1dIWonnPYSZZGZyc_ok5MulV49qEMwRd_RuVKPrRiKkWfVdFv_KH_vywxPqqrCN-364JuAmY0K1e9iGo85a9tmcmFe7aCfkVjDdwRJw4W43J&gsessionid=tJsu9n2WDUBd8Wek2As6PSRNjndJOlZJYLGiCVbzDexJZdLXFf50cg"
+          },
+          {
+            "time": "01:00",
+            "title": "Put on a watermark",
+            "link": "https://www.google.com/goto?url=CAESbAHEIkXXFFOr9ebN48YDr0JEJT98cBAmTgH2gPPYTLu6lH3gFcQZPpvxoeg1dOFf4Pnvm_nas4MnmxxvQImlU-JE6z56R7M0B5jsiIChk52z56eDB9la4eqrjDGqyOw0I2KI1BYr00agwRmh5Q&gsessionid=tJsu9n2WDUBd8Wek2As6PSRNjndJOlZJYLGiCVbzDexJZdLXFf50cg"
+          },
+          {
+            "time": "01:24",
+            "title": "Change the aspect ratio of your chosen video",
+            "link": "https://www.google.com/goto?url=CAESbAHEIkXXSZxtgzB42LrRJKJaAChw-zdD9pyWpX09B-vgEcV3LgeleZsQjT5ZnfArBbWLvnM3WOWk8Y-maVi9FyKOSHQqQZOWqpm8epMZ-x8IbbM0theWPG9MwjWo7CFj04tmN_a-IXeACWQPYg&gsessionid=tJsu9n2WDUBd8Wek2As6PSRNjndJOlZJYLGiCVbzDexJZdLXFf50cg"
+          }
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "And we demonstrate how to convert a 16:9 horizontal video to 9:16 vertical without black bars or visible quality loss. Besides, we also ...",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpkBL2dvdG8_dXJsPUNBRVNad0hFSWtYWG03dE5vNmRKR1gxVUgya1ludW1YZEtIbHN4ZUI5aU1neEl4TF9nMDVMTk9PZmpoc1lDS18yWHFYRWdZajRrckRldkpHTmxKeHMwR1FRZjNtcVFYUFpQc2dDVmxuTm95UDZNVXVrcnFQaGo4XzJZXzZwOHBfbFQ2TWg2VGdkUkUwMERBEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpkBL2dvdG8_dXJsPUNBRVNad0hFSWtYWG03dE5vNmRKR1gxVUgya1ludW1YZEtIbHN4ZUI5aU1neEl4TF9nMDVMTk9PZmpoc1lDS18yWHFYRWdZajRrckRldkpHTmxKeHMwR1FRZjNtcVFYUFpQc2dDVmxuTm95UDZNVXVrcnFQaGo4XzJZXzZwOHBfbFQ2TWg2VGdkUkUwMERBEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "source": "YouTube \u00b7 VideoProc Converter Official"
+      },
+      {
+        "position": 4,
+        "title": "Is there any way to make a 9:16 video presentable as 16:9?",
+        "link": "https://www.google.com/goto?url=CAESpAEBxCJF1-cTIhfwI5lrfvqgweNB4dMnrcJlUBID5idpeTmVGGHx-1pVcbBL6iWgqaGvixQINmGjTxAFE9CZIWnwOx4GxDSD6ODKHyjlU7swxieeDsB7OOcq2sMYYKSH7ddNdqMAfSrKaTk-YNgOdEHFeLnSZHCdsuQySbhA5QdXf5EW4TXWidmbjnyIykdFG4z4LjHEQBaGDgjh_rG7w97g7CQhgQ",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpAEBxCJF1_CpWf0f1fZ0s5RCMxS4BCSJ93XdIp_HwQoYB0N3VAct4YYcF5kNuokHX9csHeK4ipudmPlRAVqpBmJogoi2N0lg5d_SvO-bn0qPLandNkW3IYLKED9_4TN0zMvrfG97TvogSadLyufFqZDFx9lkdntgg4bZzbh1fd7Kcq0PW09YeKpEmtfWpU80x3BAXtZoPw3Uea4uy1aioEdTtx_blg&ved=2ahUKEwj_7oqe25uYAxVD5MkDHSO-FD0QFnoECCEQAQ&uoh=1",
+        "displayed_link": "9 comments",
+        "date": "3 years ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+        "snippet": "Hi all. I was hoping for some advice. Basically, for work I had to create marketing videos for TikTok and Instagram. Now they want those same videos uploaded ...",
+        "sitelinks": {
+          "list": [
+            {
+              "title": "Switching a 16:9 Aspect Ratio To 9:16 Losing Resolution",
+              "link": "https://www.google.com/goto?url=CAESngEBxCJF12ekQKqUMbV4T8iAeTPFTfIGPtkxB9Kge4VbiKed06hsOyhm4Sri22dSmi0v7jlvq8yXDOUuBevkyvkUmxWo5QXg3_f5GJTitGAHyE49VxTftmCfbFs-q9UdT3NTfvK5rydszcgmH2qqGZdrlLICmBMqoiHghyk9Pctko86po__JNeX0jkL3Qw1W_96pCUI4AVbJX7kAzr2zZg&gsessionid=tJsu9n2WDUBd8Wek2As6PSRNjndJOlZJYLGiCVbzDexJZdLXFf50cg",
+              "answer_count": 22,
+              "date": "Jul 5, 2023"
+            },
+            {
+              "title": "How do i turn a 16:9 clip vertical for a short? - Reddit",
+              "link": "https://www.google.com/goto?url=CAESngEBxCJF132bv3K_umZqPjBGDdGs8VRNs8Lc3-qE1T6XkeEYIYjdmNChlVfclbuR5xy2JZ1xo--PEYnKlvbIunnzaRVrInIutGdqO4zFwLxDxm8lM7TVQnzXGRXEqdURys9L2Ro-S0YhWDiS6A6kkmXLDo2vuUczBQw5o0DxJO2ZM34R0lW7ymqRNr6M9ldsGcg_h1Rz9agzqBeKxWb_8Q&gsessionid=tJsu9n2WDUBd8Wek2As6PSRNjndJOlZJYLGiCVbzDexJZdLXFf50cg",
+              "answer_count": 6,
+              "date": "Aug 4, 2024"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "If they're in 4k, and not too tightly framed, you can try using auto-reframe (which Premiere and DaVinci both support). Otherwise yes, you can ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESpAEBxCJF1-cTIhfwI5lrfvqgweNB4dMnrcJlUBID5idpeTmVGGHx-1pVcbBL6iWgqaGvixQINmGjTxAFE9CZIWnwOx4GxDSD6ODKHyjlU7swxieeDsB7OOcq2sMYYKSH7ddNdqMAfSrKaTk-YNgOdEHFeLnSZHCdsuQySbhA5QdXf5EW4TXWidmbjnyIykdFG4z4LjHEQBaGDgjh_rG7w97g7CQhgQ",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuwBL2dvdG8_dXJsPUNBRVNwQUVCeENKRjEtY1RJaGZ3STVscmZ2cWd3ZU5CNGRNbnJjSmxVQklENWlkcGVUbVZHR0h4LTFwVmNiQkw2aVdncWFHdml4UUlObUdqVHhBRkU5Q1pJV253T3g0R3hEU0Q2T0RLSHlqbFU3c3d4aWVlRHNCN09PY3Eyc01ZWUtTSDdkZE5kcU1BZlNyS2FUay1ZTmdPZEVIRmVMblNaSENkc3VReVNiaEE1UWRYZjVFVzRUWFdpZG1iam55SXlrZEZHNHo0TGpIRVFCYUdEZ2poX3JHN3c5N2c3Q1FoZ1ESBBoCCAAa1QYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAsQYIABAAGAAgACoKCgNob3cVIcAbQCoJCgJ0bxUAAAAAKi8KDWF1dG9tYXRpY2FsbHkVAAAAABoEYXV0bxoIYXV0b21hdGUaCWF1dG9tYXRpYyo7Cgdjb252ZXJ0FVLc7T8aBmNoYW5nZRoJY29udmVydGVyGgpjb252ZXJ0aW5nGgxpdjtwO2NvbnZlcnQqCQoCMTYVQg_5QCoICgE5FQPx-UAqSQoKd2lkZXNjcmVlbhUAAAAAGgt3aWRlIHNjcmVlbhoPaXY7cDt3aWRlc2NyZWVuGgR3aWRlGgpyZXNvbHV0aW9uGgZzY3JlZW4qFAoFdmlkZW8VjfbBQBoGdmlkZW9zKgkKAnRvFQAAAAAqCAoBORUD8flAKgkKAjE2FUIP-UAqKgoIdmVydGljYWwVA3ezPxoKdmVydGljYWxseRoNaXY7cDt2ZXJ0aWNhbDLsAS9nb3RvP3VybD1DQUVTcEFFQnhDSkYxLWNUSWhmd0k1bHJmdnFnd2VOQjRkTW5yY0psVUJJRDVpZHBlVG1WR0dIeC0xcFZjYkJMNmlXZ3FhR3ZpeFFJTm1HalR4QUZFOUNaSVdud094NEd4RFNENk9ES0h5amxVN3N3eGllZURzQjdPT2NxMnNNWVlLU0g3ZGROZHFNQWZTckthVGstWU5nT2RFSEZlTG5TWkhDZHN1UXlTYmhBNVFkWGY1RVc0VFhXaWRtYmpueUl5a2RGRzR6NExqSEVRQmFHRGdqaF9yRzd3OTdnN0NRaGdROkhJcyB0aGVyZSBhbnkgd2F5IHRvIG1ha2UgYSA8Yj45OjE2IHZpZGVvPC9iPiBwcmVzZW50YWJsZSBhcyA8Yj4xNjo5PC9iPj9CogFJZiB0aGV5JiMzOTtyZSBpbiA0aywgYW5kIG5vdCB0b28gdGlnaHRseSBmcmFtZWQsIHlvdSBjYW4gdHJ5IHVzaW5nIDxiPmF1dG88L2I-LXJlZnJhbWUgKHdoaWNoIFByZW1pZXJlIGFuZCBEYVZpbmNpIGJvdGggc3VwcG9ydCkuIE90aGVyd2lzZSB5ZXMsIHlvdSBjYW4mbmJzcDsuLi5KAnRvIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuwBL2dvdG8_dXJsPUNBRVNwQUVCeENKRjEtY1RJaGZ3STVscmZ2cWd3ZU5CNGRNbnJjSmxVQklENWlkcGVUbVZHR0h4LTFwVmNiQkw2aVdncWFHdml4UUlObUdqVHhBRkU5Q1pJV253T3g0R3hEU0Q2T0RLSHlqbFU3c3d4aWVlRHNCN09PY3Eyc01ZWUtTSDdkZE5kcU1BZlNyS2FUay1ZTmdPZEVIRmVMblNaSENkc3VReVNiaEE1UWRYZjVFVzRUWFdpZG1iam55SXlrZEZHNHo0TGpIRVFCYUdEZ2poX3JHN3c5N2c3Q1FoZ1ESBBoCCAAa1QYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAsQYIABAAGAAgACoKCgNob3cVIcAbQCoJCgJ0bxUAAAAAKi8KDWF1dG9tYXRpY2FsbHkVAAAAABoEYXV0bxoIYXV0b21hdGUaCWF1dG9tYXRpYyo7Cgdjb252ZXJ0FVLc7T8aBmNoYW5nZRoJY29udmVydGVyGgpjb252ZXJ0aW5nGgxpdjtwO2NvbnZlcnQqCQoCMTYVQg_5QCoICgE5FQPx-UAqSQoKd2lkZXNjcmVlbhUAAAAAGgt3aWRlIHNjcmVlbhoPaXY7cDt3aWRlc2NyZWVuGgR3aWRlGgpyZXNvbHV0aW9uGgZzY3JlZW4qFAoFdmlkZW8VjfbBQBoGdmlkZW9zKgkKAnRvFQAAAAAqCAoBORUD8flAKgkKAjE2FUIP-UAqKgoIdmVydGljYWwVA3ezPxoKdmVydGljYWxseRoNaXY7cDt2ZXJ0aWNhbDLsAS9nb3RvP3VybD1DQUVTcEFFQnhDSkYxLWNUSWhmd0k1bHJmdnFnd2VOQjRkTW5yY0psVUJJRDVpZHBlVG1WR0dIeC0xcFZjYkJMNmlXZ3FhR3ZpeFFJTm1HalR4QUZFOUNaSVdud094NEd4RFNENk9ES0h5amxVN3N3eGllZURzQjdPT2NxMnNNWVlLU0g3ZGROZHFNQWZTckthVGstWU5nT2RFSEZlTG5TWkhDZHN1UXlTYmhBNVFkWGY1RVc0VFhXaWRtYmpueUl5a2RGRzR6NExqSEVRQmFHRGdqaF9yRzd3OTdnN0NRaGdROkhJcyB0aGVyZSBhbnkgd2F5IHRvIG1ha2UgYSA8Yj45OjE2IHZpZGVvPC9iPiBwcmVzZW50YWJsZSBhcyA8Yj4xNjo5PC9iPj9CogFJZiB0aGV5JiMzOTtyZSBpbiA0aywgYW5kIG5vdCB0b28gdGlnaHRseSBmcmFtZWQsIHlvdSBjYW4gdHJ5IHVzaW5nIDxiPmF1dG88L2I-LXJlZnJhbWUgKHdoaWNoIFByZW1pZXJlIGFuZCBEYVZpbmNpIGJvdGggc3VwcG9ydCkuIE90aGVyd2lzZSB5ZXMsIHlvdSBjYW4mbmJzcDsuLi5KAnRvIgIQAUgAWABoAA",
+        "source": "Reddit \u00b7 r/VideoEditing"
+      },
+      {
+        "position": 5,
+        "title": "Change Video Aspect Ratio Online - Resize Video",
+        "link": "https://www.google.com/goto?url=CAESfAHEIkXX72o0sTIbbUer9IrKhgMVbHSWDIibLBc_0WNGKs9Ew-YvP2X3ZBUQgn_W-n-g3K1gXaBmEV_HYtiXe50Tk70piIbPvxv6OyE3T-o4T9Al2RE0RtBqTAPmsVT2bU17uO8tAFm1J29oWpJT88IDJEKdeGNu-NKzbMg",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHEIkXXGFL-cBLtzJfMRRAezcYP6_7eUN0eGIeDG_1UamvbV5OfDUDo3Dr_dO0bpW9vKMj8PmI8Pf75o6EJNgTFqakDiu6TD1cvwx9CBE828LZNz9T4-4f60K0hv1ygqV1LI6uoIjuk0xzbuqQZ8SDHsjpRuiOlH4-9pZU&ved=2ahUKEwj_7oqe25uYAxVD5MkDHSO-FD0QFnoECBoQAQ&uoh=1",
+        "displayed_link": "https://www.veed.io \u203a VEED Tools \u203a Resize Video",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACF0lEQVR4AcVXNWwdQRD9lVP_3eMwMzPWYWZOyjBTGWZO2kDfhLkMm3qZuTMzjHfMcE93ss_ald7HgTeo21iXM0gIcSwej_9RqFCfKUqwTbatPh9lXwqdRwgxWCEVG4gcKeyzM3LgfKBJtGSC065AmnAkpuryVxcB5fs3EyjXSKA8xh90oheBG3kuPSfPF4t2GYEGWQbpX891gwlse2BBA8c-OoEEjn1yoP72B3YwgdEzJT1r9DfwpM6loWMldD5ktKTHtf4ZfNbk0ZjZMpgA4-QPHMWKsyYksPKcCfVOfvfLHiCwZA-u46VEXIZLSZj44t1GeAKGJehmAW7GcfN6p3LsHMlp9pW_VeSSacvwBBhbbuNm3HLH6iW_9S6W33yrUz40gRFTJD1tAOOU45KUnbL8-Wqmf8bYxqjpMoAAHCkbRjVrVWdNZ63GPcNjGbyIABZux1198FXnTB98jYku3Gb2nYA0BF3L9k_t_VKXLE-Q5Qq6X-LCzWeYYVcxwMZruLmW7jdp2QGcpQ1XcfOFJjBsguANiOoL--RpvUfDJ8n-E2Acfuug1QzJsQ7rRkJg3kbc5QhzNxjREeA5v5LuhnZ-JcPhBo6OAGP1JTM0AZYVImICliN53ulxNXb8qMqjAy9ttPcxAZ3Q_VBaqv-xnO9qOi8m7VezFE1Xs4Sul9MUPZfTzpPAKeG6DERjttn8pXCkJfK20wyWcxHqVWHJ7gAAAABJRU5ErkJggg.png",
+        "snippet": "Click on your video on the timeline, click on Settings, and click Landscape (16:9) from the Size dropdown. How do I change a video to fit the screen? Easy ...",
+        "snippet_highlighted_words": [
+          "video",
+          "16:9",
+          "change",
+          "video"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.6,
+              "reviews": 2139
+            },
+            "extensions": [
+              "4.6(2,139)",
+              "Free"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Click on your video on the timeline, click on Settings, and click Landscape (16:9) from the Size dropdown. How do I change a video to fit the screen? Easy ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESfAHEIkXX72o0sTIbbUer9IrKhgMVbHSWDIibLBc_0WNGKs9Ew-YvP2X3ZBUQgn_W-n-g3K1gXaBmEV_HYtiXe50Tk70piIbPvxv6OyE3T-o4T9Al2RE0RtBqTAPmsVT2bU17uO8tAFm1J29oWpJT88IDJEKdeGNu-NKzbMg",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACF0lEQVR4AcVXNWwdQRD9lVP_3eMwMzPWYWZOyjBTGWZO2kDfhLkMm3qZuTMzjHfMcE93ss_ald7HgTeo21iXM0gIcSwej_9RqFCfKUqwTbatPh9lXwqdRwgxWCEVG4gcKeyzM3LgfKBJtGSC065AmnAkpuryVxcB5fs3EyjXSKA8xh90oheBG3kuPSfPF4t2GYEGWQbpX891gwlse2BBA8c-OoEEjn1yoP72B3YwgdEzJT1r9DfwpM6loWMldD5ktKTHtf4ZfNbk0ZjZMpgA4-QPHMWKsyYksPKcCfVOfvfLHiCwZA-u46VEXIZLSZj44t1GeAKGJehmAW7GcfN6p3LsHMlp9pW_VeSSacvwBBhbbuNm3HLH6iW_9S6W33yrUz40gRFTJD1tAOOU45KUnbL8-Wqmf8bYxqjpMoAAHCkbRjVrVWdNZ63GPcNjGbyIABZux1198FXnTB98jYku3Gb2nYA0BF3L9k_t_VKXLE-Q5Qq6X-LCzWeYYVcxwMZruLmW7jdp2QGcpQ1XcfOFJjBsguANiOoL--RpvUfDJ8n-E2Acfuug1QzJsQ7rRkJg3kbc5QhzNxjREeA5v5LuhnZ-JcPhBo6OAGP1JTM0AZYVImICliN53ulxNXb8qMqjAy9ttPcxAZ3Q_VBaqv-xnO9qOi8m7VezFE1Xs4Sul9MUPZfTzpPAKeG6DERjttn8pXCkJfK20wyWcxHqVWHJ7gAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhFSWtYWDcybzBzVEliYlVlcjlJcktoZ01WYkhTV0RJaWJMQmNfMFdOR0tzOUV3LVl2UDJYM1pCVVFnbl9XLW4tZzNLMWdYYUJtRVZfSFl0aVhlNTBUazcwcGlJYlB2eHY2T3lFM1QtbzRUOUFsMlJFMFJ0QnFUQVBtc1ZUMmJVMTd1Tzh0QUZtMUoyOW9XcEpUODhJREpFS2RlR051LU5LemJNZxIEGgIIABq5BhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJMGCAAQABgAIAAqCgoDaG93FXYBzz4qCQoCdG8VAAAAACovCg1hdXRvbWF0aWNhbGx5FZAJ3T0aBGF1dG8aCGF1dG9tYXRlGglhdXRvbWF0aWMqOwoHY29udmVydBWzgxw_GgZjaGFuZ2UaCWNvbnZlcnRlchoKY29udmVydGluZxoMaXY7cDtjb252ZXJ0KgkKAjE2Ff7Okz8qCAoBORX-zpM_KkkKCndpZGVzY3JlZW4VAAAAABoLd2lkZSBzY3JlZW4aD2l2O3A7d2lkZXNjcmVlbhoEd2lkZRoKcmVzb2x1dGlvbhoGc2NyZWVuKhQKBXZpZGVvFVD020AaBnZpZGVvcyoJCgJ0bxUAAAAAKggKATkV_s6TPyoJCgIxNhX-zpM_KioKCHZlcnRpY2FsFQAAAAAaCnZlcnRpY2FsbHkaDWl2O3A7dmVydGljYWwytQEvZ290bz91cmw9Q0FFU2ZBSEVJa1hYNzJvMHNUSWJiVWVyOUlyS2hnTVZiSFNXRElpYkxCY18wV05HS3M5RXctWXZQMlgzWkJVUWduX1ctbi1nM0sxZ1hhQm1FVl9IWXRpWGU1MFRrNzBwaUliUHZ4djZPeUUzVC1vNFQ5QWwyUkUwUnRCcVRBUG1zVlQyYlUxN3VPOHRBRm0xSjI5b1dwSlQ4OElESkVLZGVHTnUtTkt6Yk1nOkQ8Yj5DaGFuZ2UgVmlkZW88L2I-IEFzcGVjdCBSYXRpbyBPbmxpbmUgLSBSZXNpemUgPGI-VmlkZW88L2I-IC0gVkVFREK_AUNsaWNrIG9uIHlvdXIgPGI-dmlkZW88L2I-IG9uIHRoZSB0aW1lbGluZSwgY2xpY2sgb24gU2V0dGluZ3MsIGFuZCBjbGljayBMYW5kc2NhcGUgKDxiPjE2Ojk8L2I-KSBmcm9tIHRoZSBTaXplIGRyb3Bkb3duLiBIb3cgZG8gSSA8Yj5jaGFuZ2U8L2I-IGEgPGI-dmlkZW88L2I-IHRvIGZpdCB0aGUgc2NyZWVuPyBFYXN5Jm5ic3A7Li4uSgJ0byICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhFSWtYWDcybzBzVEliYlVlcjlJcktoZ01WYkhTV0RJaWJMQmNfMFdOR0tzOUV3LVl2UDJYM1pCVVFnbl9XLW4tZzNLMWdYYUJtRVZfSFl0aVhlNTBUazcwcGlJYlB2eHY2T3lFM1QtbzRUOUFsMlJFMFJ0QnFUQVBtc1ZUMmJVMTd1Tzh0QUZtMUoyOW9XcEpUODhJREpFS2RlR051LU5LemJNZxIEGgIIABq5BhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJMGCAAQABgAIAAqCgoDaG93FXYBzz4qCQoCdG8VAAAAACovCg1hdXRvbWF0aWNhbGx5FZAJ3T0aBGF1dG8aCGF1dG9tYXRlGglhdXRvbWF0aWMqOwoHY29udmVydBWzgxw_GgZjaGFuZ2UaCWNvbnZlcnRlchoKY29udmVydGluZxoMaXY7cDtjb252ZXJ0KgkKAjE2Ff7Okz8qCAoBORX-zpM_KkkKCndpZGVzY3JlZW4VAAAAABoLd2lkZSBzY3JlZW4aD2l2O3A7d2lkZXNjcmVlbhoEd2lkZRoKcmVzb2x1dGlvbhoGc2NyZWVuKhQKBXZpZGVvFVD020AaBnZpZGVvcyoJCgJ0bxUAAAAAKggKATkV_s6TPyoJCgIxNhX-zpM_KioKCHZlcnRpY2FsFQAAAAAaCnZlcnRpY2FsbHkaDWl2O3A7dmVydGljYWwytQEvZ290bz91cmw9Q0FFU2ZBSEVJa1hYNzJvMHNUSWJiVWVyOUlyS2hnTVZiSFNXRElpYkxCY18wV05HS3M5RXctWXZQMlgzWkJVUWduX1ctbi1nM0sxZ1hhQm1FVl9IWXRpWGU1MFRrNzBwaUliUHZ4djZPeUUzVC1vNFQ5QWwyUkUwUnRCcVRBUG1zVlQyYlUxN3VPOHRBRm0xSjI5b1dwSlQ4OElESkVLZGVHTnUtTkt6Yk1nOkQ8Yj5DaGFuZ2UgVmlkZW88L2I-IEFzcGVjdCBSYXRpbyBPbmxpbmUgLSBSZXNpemUgPGI-VmlkZW88L2I-IC0gVkVFREK_AUNsaWNrIG9uIHlvdXIgPGI-dmlkZW88L2I-IG9uIHRoZSB0aW1lbGluZSwgY2xpY2sgb24gU2V0dGluZ3MsIGFuZCBjbGljayBMYW5kc2NhcGUgKDxiPjE2Ojk8L2I-KSBmcm9tIHRoZSBTaXplIGRyb3Bkb3duLiBIb3cgZG8gSSA8Yj5jaGFuZ2U8L2I-IGEgPGI-dmlkZW88L2I-IHRvIGZpdCB0aGUgc2NyZWVuPyBFYXN5Jm5ic3A7Li4uSgJ0byICEAFIAFgAaAA",
+        "source": "VEED",
+        "read_more_link": "https://www.google.com/goto?url=CAESwgEBxCJF14e_DRSZB5c3IL-mJV2xJ5DkVlPfBE3kZaoCkMSITzDpmelrHdhxGTawWImLRBll2fAjdVznn3h3f4ex34MgyvaXCxgy3_OcxbcwOWzQv4iDO2MSQwd_6ekK8njx1xOG4eZgtcLwVK-ZhJwIxG0HH7uBw-YdO_Tqbt8X_hLdOxr_3psJlppPtcvtNoqVHYmjg5gJpNXbDyyx5-4ubTvLcg6K6tKC0TjBw6nYZLu4brFnPsex_U85g3EfO3xJVw&gsessionid=tJsu9n2WDUBd8Wek2As6PSRNjndJOlZJYLGiCVbzDexJZdLXFf50cg"
+      },
+      {
+        "position": 6,
+        "title": "Video Resizer Online",
+        "link": "https://www.google.com/goto?url=CAESWwHEIkXXqmxkoPpYSXpapOnQlF6I6NXl0jRHR3hF8gLxQatG9Y-i-6FGEXz7Xz_ERIebgYedoVlHFjAlGyLWW06kjG_rWz3OVQ1FdvpE6OLDM_gw6ebA9XiLhsA",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWwHEIkXXG3NqyR41pQImVS5eAGX80JSn6fMekhhOLZxu18OXeaSai87UpSvTP9V0FKvmA_CiCgDexpQa1QQ7cYPHhGyaIyX0pdLkmdTdIp56Vadgc3bMVNSN1aU&ved=2ahUKEwj_7oqe25uYAxVD5MkDHSO-FD0QFnoECFgQAQ&uoh=1",
+        "displayed_link": "https://clideo.com \u203a resize-video",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAq1BMVEX____U7PUAn8oApM1Wvdmx3uv3-_vH5_AApsoAq81wxtze8faS0uEBrMkApcVWvtQBrcV4ytkCrsEAqr4AqLcDr7yk2uCH0Nfs-PkAq7IDsbd2y89QwMXg9PEEsrJFvr4Fs63D6OYsubMFtacuu64GtqJHwbEAspUHt5140L9QxbAHuZil39AIupPJ7OJayqkIu48JvIt50reT2sEAtn9Yy6De9Oxx0a4AtXL1pB6uAAAAs0lEQVR4AWIYQMCITxLQnFwkMQwDQRTtkCDMzMyc2Pc_WWbMuM-zJXXVz-byBYFkUmmtVLGEJOWKpVpLyrW6o9JATJO17Esiot3ptNGlm7R7COkPhsOBgBjRS2uMoMmUCB6zKZuJYJwTAbZY8l6KQFwRJ655r4NxQwSP7YYFG_q7_X4nIA700joi5ERwPlkuB4RdyOliuyLidnc8noh5PSzvzxdx1zczKCUxzc9ZIMUVf-IH09gYp6rkzx4AAAAASUVORK5CYII.png",
+        "snippet": "With Clideo you can convert a vertical video into a horizontal one or vice versa, and blur the background. To do that, choose the necessary preset, click on the ...",
+        "snippet_highlighted_words": [
+          "convert a vertical video into a horizontal one"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "With Clideo you can convert a vertical video into a horizontal one or vice versa, and blur the background. To do that, choose the necessary preset, click on the ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESWwHEIkXXqmxkoPpYSXpapOnQlF6I6NXl0jRHR3hF8gLxQatG9Y-i-6FGEXz7Xz_ERIebgYedoVlHFjAlGyLWW06kjG_rWz3OVQ1FdvpE6OLDM_gw6ebA9XiLhsA",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAq1BMVEX____U7PUAn8oApM1Wvdmx3uv3-_vH5_AApsoAq81wxtze8faS0uEBrMkApcVWvtQBrcV4ytkCrsEAqr4AqLcDr7yk2uCH0Nfs-PkAq7IDsbd2y89QwMXg9PEEsrJFvr4Fs63D6OYsubMFtacuu64GtqJHwbEAspUHt5140L9QxbAHuZil39AIupPJ7OJayqkIu48JvIt50reT2sEAtn9Yy6De9Oxx0a4AtXL1pB6uAAAAs0lEQVR4AWIYQMCITxLQnFwkMQwDQRTtkCDMzMyc2Pc_WWbMuM-zJXXVz-byBYFkUmmtVLGEJOWKpVpLyrW6o9JATJO17Esiot3ptNGlm7R7COkPhsOBgBjRS2uMoMmUCB6zKZuJYJwTAbZY8l6KQFwRJ655r4NxQwSP7YYFG_q7_X4nIA700joi5ERwPlkuB4RdyOliuyLidnc8noh5PSzvzxdx1zczKCUxzc9ZIMUVf-IH09gYp6rkzx4AAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CokBL2dvdG8_dXJsPUNBRVNXd0hFSWtYWHFteGtvUHBZU1hwYXBPblFsRjZJNk5YbDBqUkhSM2hGOGdMeFFhdEc5WS1pLTZGR0VYejdYel9FUkllYmdZZWRvVmxIRmpBbEd5TFdXMDZrakdfcld6M09WUTFGZHZwRTZPTERNX2d3NmViQTlYaUxoc0ESBBoCCAAa3gUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC4BQgAEAAYACAAKgoKA2hvdxVdv1U_KgkKAnRvFQAAAAAqLwoNYXV0b21hdGljYWxseRWSBO0-GgRhdXRvGghhdXRvbWF0ZRoJYXV0b21hdGljKjsKB2NvbnZlcnQVBoyOPxoGY2hhbmdlGgljb252ZXJ0ZXIaCmNvbnZlcnRpbmcaDGl2O3A7Y29udmVydCoJCgIxNhWwo509KggKATkV6fGfPSpJCgp3aWRlc2NyZWVuFQAAAAAaC3dpZGUgc2NyZWVuGg9pdjtwO3dpZGVzY3JlZW4aBHdpZGUaCnJlc29sdXRpb24aBnNjcmVlbioUCgV2aWRlbxV0xL9AGgZ2aWRlb3MqCQoCdG8VAAAAACoICgE5FfW3pT0qCQoCMTYVsKOdPSoqCgh2ZXJ0aWNhbBVGf2I_Ggp2ZXJ0aWNhbGx5Gg1pdjtwO3ZlcnRpY2FsMokBL2dvdG8_dXJsPUNBRVNXd0hFSWtYWHFteGtvUHBZU1hwYXBPblFsRjZJNk5YbDBqUkhSM2hGOGdMeFFhdEc5WS1pLTZGR0VYejdYel9FUkllYmdZZWRvVmxIRmpBbEd5TFdXMDZrakdfcld6M09WUTFGZHZwRTZPTERNX2d3NmViQTlYaUxoc0E6JDxiPlZpZGVvPC9iPiBSZXNpemVyIE9ubGluZSAtIENsaWRlb0KwAVdpdGggQ2xpZGVvIHlvdSBjYW4gPGI-Y29udmVydCBhIHZlcnRpY2FsIHZpZGVvIGludG8gYSBob3Jpem9udGFsIG9uZTwvYj4gb3IgdmljZSB2ZXJzYSwgYW5kIGJsdXIgdGhlIGJhY2tncm91bmQuIFRvIGRvIHRoYXQsIGNob29zZSB0aGUgbmVjZXNzYXJ5IHByZXNldCwgY2xpY2sgb24gdGhlJm5ic3A7Li4uSgJ0byICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CokBL2dvdG8_dXJsPUNBRVNXd0hFSWtYWHFteGtvUHBZU1hwYXBPblFsRjZJNk5YbDBqUkhSM2hGOGdMeFFhdEc5WS1pLTZGR0VYejdYel9FUkllYmdZZWRvVmxIRmpBbEd5TFdXMDZrakdfcld6M09WUTFGZHZwRTZPTERNX2d3NmViQTlYaUxoc0ESBBoCCAAa3gUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC4BQgAEAAYACAAKgoKA2hvdxVdv1U_KgkKAnRvFQAAAAAqLwoNYXV0b21hdGljYWxseRWSBO0-GgRhdXRvGghhdXRvbWF0ZRoJYXV0b21hdGljKjsKB2NvbnZlcnQVBoyOPxoGY2hhbmdlGgljb252ZXJ0ZXIaCmNvbnZlcnRpbmcaDGl2O3A7Y29udmVydCoJCgIxNhWwo509KggKATkV6fGfPSpJCgp3aWRlc2NyZWVuFQAAAAAaC3dpZGUgc2NyZWVuGg9pdjtwO3dpZGVzY3JlZW4aBHdpZGUaCnJlc29sdXRpb24aBnNjcmVlbioUCgV2aWRlbxV0xL9AGgZ2aWRlb3MqCQoCdG8VAAAAACoICgE5FfW3pT0qCQoCMTYVsKOdPSoqCgh2ZXJ0aWNhbBVGf2I_Ggp2ZXJ0aWNhbGx5Gg1pdjtwO3ZlcnRpY2FsMokBL2dvdG8_dXJsPUNBRVNXd0hFSWtYWHFteGtvUHBZU1hwYXBPblFsRjZJNk5YbDBqUkhSM2hGOGdMeFFhdEc5WS1pLTZGR0VYejdYel9FUkllYmdZZWRvVmxIRmpBbEd5TFdXMDZrakdfcld6M09WUTFGZHZwRTZPTERNX2d3NmViQTlYaUxoc0E6JDxiPlZpZGVvPC9iPiBSZXNpemVyIE9ubGluZSAtIENsaWRlb0KwAVdpdGggQ2xpZGVvIHlvdSBjYW4gPGI-Y29udmVydCBhIHZlcnRpY2FsIHZpZGVvIGludG8gYSBob3Jpem9udGFsIG9uZTwvYj4gb3IgdmljZSB2ZXJzYSwgYW5kIGJsdXIgdGhlIGJhY2tncm91bmQuIFRvIGRvIHRoYXQsIGNob29zZSB0aGUgbmVjZXNzYXJ5IHByZXNldCwgY2xpY2sgb24gdGhlJm5ic3A7Li4uSgJ0byICEAFIAFgAaAA",
+        "source": "Clideo",
+        "read_more_link": "https://www.google.com/goto?url=CAESqwEBxCJF10ydvFHKM1ZhQIRgUtiglR8S34XV3CWvEi2xlfxeZFiyIyK7b255HwNYEkHEJSPHt5GtcTj_0Dh9njsdNy2HfBNFjzA9Nw-Tr_pP_jRDPqxiTQL_LaYdHw0NfuWeKw7y0PGTRQxc1P0bC16OWIes2bFSN6Epbnua7wItDVDzdJFxFZ6EZdhHfuWT90GaRMBZhdNB0PwDeKaRRNO9hPghYWixl0d9ZPU&gsessionid=tJsu9n2WDUBd8Wek2As6PSRNjndJOlZJYLGiCVbzDexJZdLXFf50cg"
+      },
+      {
+        "position": 7,
+        "title": "9:16 Video Converter: Turn Any Video Vertical in Minutes",
+        "link": "https://www.google.com/goto?url=CAESbQHEIkXXvV4nyBrkyfU88uTB9oFPQjapC43mgojpzRxAsCC-HJC3rMvnOnz3qVobNHuKs9VhtlIXpic3ZxFInO-5X62FXxj0bFUd6nv-Uegxt8W8quELxyFMk7GHL3NXrwSzg_h5oW_IApTLZAU",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHEIkXXW99KDmpFVMnBQ903lGIQGlkLt-k34StIaE3UeMxIr3HPW4oiS08W5uCQgGiavLZvvfDckFdlK4lm0RwpPgJ_993ue1AGqSEyoic065qg4-2ilDHgub4wKGcnwJWaMVAvMnru4WwcHjY&ved=2ahUKEwj_7oqe25uYAxVD5MkDHSO-FD0QFnoECFwQAQ&uoh=1",
+        "displayed_link": "https://cinevision.ai \u203a Video Conversion",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEUAAABtWS-khUawj0uXe0A6LxnbsVvVrFlIOh7OplTEnlC3lEtvWSzQp1N8ZDJqVCjHnksIBgN1Xi22kUVgTCSphj7Al0Szizu2jz-TczQgGQxiTCC4jz2CZi0QDQW0jDmpgC9ZRBmkfCuVci6sgzBMOhZlTR2lfSswJAycdCSWcCWLaCJ0Vhs2KQ18XBtsUBfWm8cTAAAAnklEQVR4Ac3LNRLDUAwAUSVmZmZm-_63iwKd_qT2tm8W7tvjyWG8wLKnKH0SZWqCpKgapigaRd0wAANTMShatuIA5tpMtBE93_-DdiBbDAxDxCgOwyQlmOX5B7GwKJkYRFGU5y45qwqxjqKKfABNhAht1aWEEPsesRtgrBlY14gAY98zsJ2-2LYU52lZN2xZNqDty68DGA37iV0p3LgX1xMPK1gSLWMAAAAASUVORK5CYII.png",
+        "date": "Jul 16, 2026",
+        "snippet": "A basic 9:16 video converter picks the first option by default: crop to the center, keep whatever's there, discard the rest. That's fast, and ...",
+        "snippet_highlighted_words": [
+          "crop to the center, keep whatever's there, discard the rest"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "A basic 9:16 video converter picks the first option by default: crop to the center, keep whatever's there, discard the rest. That's fast, and ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESbQHEIkXXvV4nyBrkyfU88uTB9oFPQjapC43mgojpzRxAsCC-HJC3rMvnOnz3qVobNHuKs9VhtlIXpic3ZxFInO-5X62FXxj0bFUd6nv-Uegxt8W8quELxyFMk7GHL3NXrwSzg_h5oW_IApTLZAU",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEUAAABtWS-khUawj0uXe0A6LxnbsVvVrFlIOh7OplTEnlC3lEtvWSzQp1N8ZDJqVCjHnksIBgN1Xi22kUVgTCSphj7Al0Szizu2jz-TczQgGQxiTCC4jz2CZi0QDQW0jDmpgC9ZRBmkfCuVci6sgzBMOhZlTR2lfSswJAycdCSWcCWLaCJ0Vhs2KQ18XBtsUBfWm8cTAAAAnklEQVR4Ac3LNRLDUAwAUSVmZmZm-_63iwKd_qT2tm8W7tvjyWG8wLKnKH0SZWqCpKgapigaRd0wAANTMShatuIA5tpMtBE93_-DdiBbDAxDxCgOwyQlmOX5B7GwKJkYRFGU5y45qwqxjqKKfABNhAht1aWEEPsesRtgrBlY14gAY98zsJ2-2LYU52lZN2xZNqDty68DGA37iV0p3LgX1xMPK1gSLWMAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqEBL2dvdG8_dXJsPUNBRVNiUUhFSWtYWHZWNG55QnJreWZVODh1VEI5b0ZQUWphcEM0M21nb2pwelJ4QXNDQy1ISkMzck12bk9uejNxVm9iTkh1S3M5Vmh0bElYcGljM1p4RkluTy01WDYyRlh4ajBiRlVkNm52LVVlZ3h0OFc4cXVFTHh5Rk1rN0dITDNOWHJ3U3pnX2g1b1dfSUFwVExaQVUSBBoCCAAakQYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA7QUIABAAGAAgACoKCgNob3cVPzBNPyoJCgJ0bxUAAAAAKi8KDWF1dG9tYXRpY2FsbHkVDv7VPhoEYXV0bxoIYXV0b21hdGUaCWF1dG9tYXRpYyo7Cgdjb252ZXJ0FctlAEAaBmNoYW5nZRoJY29udmVydGVyGgpjb252ZXJ0aW5nGgxpdjtwO2NvbnZlcnQqCQoCMTYV_aEDQSoICgE5Fbu0AEEqSQoKd2lkZXNjcmVlbhXPQ1s_Ggt3aWRlIHNjcmVlbhoPaXY7cDt3aWRlc2NyZWVuGgR3aWRlGgpyZXNvbHV0aW9uGgZzY3JlZW4qFAoFdmlkZW8VrcgGQRoGdmlkZW9zKgkKAnRvFQAAAAAqCAoBORW7tABBKgkKAjE2Ff2hA0EqKgoIdmVydGljYWwVioH1QBoKdmVydGljYWxseRoNaXY7cDt2ZXJ0aWNhbDKhAS9nb3RvP3VybD1DQUVTYlFIRUlrWFh2VjRueUJya3lmVTg4dVRCOW9GUFFqYXBDNDNtZ29qcHpSeEFzQ0MtSEpDM3JNdm5PbnozcVZvYk5IdUtzOVZodGxJWHBpYzNaeEZJbk8tNVg2MkZYeGowYkZVZDZudi1VZWd4dDhXOHF1RUx4eUZNazdHSEwzTlhyd1N6Z19oNW9XX0lBcFRMWkFVOkw8Yj45OjE2IFZpZGVvIENvbnZlcnRlcjwvYj46IFR1cm4gQW55IDxiPlZpZGVvIFZlcnRpY2FsPC9iPiBXaXRob3V0IENyb3BwaW5nQqUBQSBiYXNpYyA5OjE2IHZpZGVvIGNvbnZlcnRlciBwaWNrcyB0aGUgZmlyc3Qgb3B0aW9uIGJ5IGRlZmF1bHQ6IDxiPmNyb3AgdG8gdGhlIGNlbnRlciwga2VlcCB3aGF0ZXZlciYjMzk7cyB0aGVyZSwgZGlzY2FyZCB0aGUgcmVzdDwvYj4uIFRoYXQmIzM5O3MgZmFzdCwgYW5kJm5ic3A7Li4uSgJ0byICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqEBL2dvdG8_dXJsPUNBRVNiUUhFSWtYWHZWNG55QnJreWZVODh1VEI5b0ZQUWphcEM0M21nb2pwelJ4QXNDQy1ISkMzck12bk9uejNxVm9iTkh1S3M5Vmh0bElYcGljM1p4RkluTy01WDYyRlh4ajBiRlVkNm52LVVlZ3h0OFc4cXVFTHh5Rk1rN0dITDNOWHJ3U3pnX2g1b1dfSUFwVExaQVUSBBoCCAAakQYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA7QUIABAAGAAgACoKCgNob3cVPzBNPyoJCgJ0bxUAAAAAKi8KDWF1dG9tYXRpY2FsbHkVDv7VPhoEYXV0bxoIYXV0b21hdGUaCWF1dG9tYXRpYyo7Cgdjb252ZXJ0FctlAEAaBmNoYW5nZRoJY29udmVydGVyGgpjb252ZXJ0aW5nGgxpdjtwO2NvbnZlcnQqCQoCMTYV_aEDQSoICgE5Fbu0AEEqSQoKd2lkZXNjcmVlbhXPQ1s_Ggt3aWRlIHNjcmVlbhoPaXY7cDt3aWRlc2NyZWVuGgR3aWRlGgpyZXNvbHV0aW9uGgZzY3JlZW4qFAoFdmlkZW8VrcgGQRoGdmlkZW9zKgkKAnRvFQAAAAAqCAoBORW7tABBKgkKAjE2Ff2hA0EqKgoIdmVydGljYWwVioH1QBoKdmVydGljYWxseRoNaXY7cDt2ZXJ0aWNhbDKhAS9nb3RvP3VybD1DQUVTYlFIRUlrWFh2VjRueUJya3lmVTg4dVRCOW9GUFFqYXBDNDNtZ29qcHpSeEFzQ0MtSEpDM3JNdm5PbnozcVZvYk5IdUtzOVZodGxJWHBpYzNaeEZJbk8tNVg2MkZYeGowYkZVZDZudi1VZWd4dDhXOHF1RUx4eUZNazdHSEwzTlhyd1N6Z19oNW9XX0lBcFRMWkFVOkw8Yj45OjE2IFZpZGVvIENvbnZlcnRlcjwvYj46IFR1cm4gQW55IDxiPlZpZGVvIFZlcnRpY2FsPC9iPiBXaXRob3V0IENyb3BwaW5nQqUBQSBiYXNpYyA5OjE2IHZpZGVvIGNvbnZlcnRlciBwaWNrcyB0aGUgZmlyc3Qgb3B0aW9uIGJ5IGRlZmF1bHQ6IDxiPmNyb3AgdG8gdGhlIGNlbnRlciwga2VlcCB3aGF0ZXZlciYjMzk7cyB0aGVyZSwgZGlzY2FyZCB0aGUgcmVzdDwvYj4uIFRoYXQmIzM5O3MgZmFzdCwgYW5kJm5ic3A7Li4uSgJ0byICEAFIAFgAaAA",
+        "source": "Cinevision.ai",
+        "read_more_link": "https://www.google.com/goto?url=CAESywEBxCJF12vk4yneOJDsU_KAyXry4TYCbjzETljUkEb1-V5B7gaQxDKiUMZwDoMElxaupCEU3ccL56hFY8ACEnhHbMRZR-LPA55oYkL6hhEo8AjreeD39bM7-v0UtRl8WA7GuK7yb1-oaBlnhepwUKKJuw685DrpbtsOhIyQWCEjAXnZaPT69bbebBwuHXt2XseOi5TYp3UvkccdSF-b9EGjjE_0ajbQEA16sqRxaZc0LR7yT07fvsbiAFDgfNzv7evw5lqsqmBW04fYYQ&gsessionid=tJsu9n2WDUBd8Wek2As6PSRNjndJOlZJYLGiCVbzDexJZdLXFf50cg"
+      },
+      {
+        "position": 8,
+        "title": "Change Video Aspect Ratio - Smart AI Reframing",
+        "link": "https://www.google.com/goto?url=CAEScAHEIkXXwSaaOBldF8tYkpJ8U9puagHtKxcpX1l0KjR3-kq2OT6ssQhXhvXBvz1znKSmBzbE5e0QyCIWt0vDvSOeWZ0prErg16U3Y7ByfMgKuestrPNK-gBnxfxZdh1_9PX5agrLK1FOffL2lHRjGxE",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHEIkXX7PsaNPCkJIMjtXtfiG8orvtrGRX4Yyu433wZWAItfdUosgxgssahnKgBUyhefzLcW1rhiZt-ztGvLmHerufOvgBAzqxC8aVTRiGXLXMzYt7i4UDxIEH1F3R6qi7xpnmmXTlHdDNRUyAnaJ0&ved=2ahUKEwj_7oqe25uYAxVD5MkDHSO-FD0QFnoECFkQAQ&uoh=1",
+        "displayed_link": "https://www.opus.pro \u203a tools \u203a change-video-aspect-ratio",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAV1BMVEUOEBULDRMAAABubnClpaa_v8AAAAj___81Njj09PT7-_u4uLmPj5CYmJlhYWNQUVNLS0339_cuLzLCwsOfn6Ctra6enp94eXp-f4COjo9paWuCg4RTVFaiNnBOAAAAxklEQVR4AbWSVw7DMAxDW2Z6r-72_ueslC3Av2Gm_UDR63K6rph0raOm7bq2qeAe7bCoRS8ZRjVsUiOEb-RObaw1mv_G_pjHPgfvnIdl7yF3ygsxsSnFMOXuRmraOCyKjl6bFQ3lgX2dYS8ot8GhqvHUnYFMH28OddFRVUc-0D8BZ-l_g4XgbRjuDLsafDCUZSV8lk4MSMDXPBUrprJBuQgSZl4-ty2fhMHJhZdl5ZbJeb4qm413132epXx_pXJMsKgHGJ2tPwf1DT7eKooXAAAAAElFTkSuQmCC.png",
+        "snippet": "OpusClip's AI Reframe adjusts your video's framing to keep the most important details in view. Convert any video to 16:9, 9:16, 1:1 or 4:5 without cropping out ...",
+        "snippet_highlighted_words": [
+          "Convert any video to 16:9, 9:16"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "OpusClip's AI Reframe adjusts your video's framing to keep the most important details in view. Convert any video to 16:9, 9:16, 1:1 or 4:5 without cropping out ...",
+            "source_info_link": "https://www.google.com/goto?url=CAEScAHEIkXXwSaaOBldF8tYkpJ8U9puagHtKxcpX1l0KjR3-kq2OT6ssQhXhvXBvz1znKSmBzbE5e0QyCIWt0vDvSOeWZ0prErg16U3Y7ByfMgKuestrPNK-gBnxfxZdh1_9PX5agrLK1FOffL2lHRjGxE",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAV1BMVEUOEBULDRMAAABubnClpaa_v8AAAAj___81Njj09PT7-_u4uLmPj5CYmJlhYWNQUVNLS0339_cuLzLCwsOfn6Ctra6enp94eXp-f4COjo9paWuCg4RTVFaiNnBOAAAAxklEQVR4AbWSVw7DMAxDW2Z6r-72_ueslC3Av2Gm_UDR63K6rph0raOm7bq2qeAe7bCoRS8ZRjVsUiOEb-RObaw1mv_G_pjHPgfvnIdl7yF3ygsxsSnFMOXuRmraOCyKjl6bFQ3lgX2dYS8ot8GhqvHUnYFMH28OddFRVUc-0D8BZ-l_g4XgbRjuDLsafDCUZSV8lk4MSMDXPBUrprJBuQgSZl4-ty2fhMHJhZdl5ZbJeb4qm413132epXx_pXJMsKgHGJ2tPwf1DT7eKooXAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUBL2dvdG8_dXJsPUNBRVNjQUhFSWtYWHdTYWFPQmxkRjh0WWtwSjhVOXB1YWdIdEt4Y3BYMWwwS2pSMy1rcTJPVDZzc1FoWGh2WEJ2ejF6bktTbUJ6YkU1ZTBReUNJV3QwdkR2U09lV1owcHJFcmcxNlUzWTdCeWZNZ0t1ZXN0clBOSy1nQm54ZnhaZGgxXzlQWDVhZ3JMSzFGT2ZmTDJsSFJqR3hFEgQaAggAGp0GEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA9wUIABAAGAAgACoKCgNob3cVQ1myPyoJCgJ0bxUAAAAAKi8KDWF1dG9tYXRpY2FsbHkVHAtRPxoEYXV0bxoIYXV0b21hdGUaCWF1dG9tYXRpYyo7Cgdjb252ZXJ0FZHikz8aBmNoYW5nZRoJY29udmVydGVyGgpjb252ZXJ0aW5nGgxpdjtwO2NvbnZlcnQqCQoCMTYVKaAmQCoICgE5FSmgJkAqSQoKd2lkZXNjcmVlbhVljlU_Ggt3aWRlIHNjcmVlbhoPaXY7cDt3aWRlc2NyZWVuGgR3aWRlGgpyZXNvbHV0aW9uGgZzY3JlZW4qFAoFdmlkZW8V_B7WQBoGdmlkZW9zKgkKAnRvFQAAAAAqCAoBORUpoCZAKgkKAjE2FSmgJkAqKgoIdmVydGljYWwV8ggEPxoKdmVydGljYWxseRoNaXY7cDt2ZXJ0aWNhbDKlAS9nb3RvP3VybD1DQUVTY0FIRUlrWFh3U2FhT0JsZEY4dFlrcEo4VTlwdWFnSHRLeGNwWDFsMEtqUjMta3EyT1Q2c3NRaFhodlhCdnoxem5LU21CemJFNWUwUXlDSVd0MHZEdlNPZVdaMHByRXJnMTZVM1k3QnlmTWdLdWVzdHJQTkstZ0JueGZ4WmRoMV85UFg1YWdyTEsxRk9mZkwybEhSakd4RTpAPGI-Q2hhbmdlIFZpZGVvPC9iPiBBc3BlY3QgUmF0aW8gLSBTbWFydCBBSSBSZWZyYW1pbmcgLSBPcHVzQ2xpcEK3AU9wdXNDbGlwJiMzOTtzIEFJIFJlZnJhbWUgYWRqdXN0cyB5b3VyIHZpZGVvJiMzOTtzIGZyYW1pbmcgdG8ga2VlcCB0aGUgbW9zdCBpbXBvcnRhbnQgZGV0YWlscyBpbiB2aWV3LiA8Yj5Db252ZXJ0IGFueSB2aWRlbyB0byAxNjo5LCA5OjE2PC9iPiwgMToxIG9yIDQ6NSB3aXRob3V0IGNyb3BwaW5nIG91dCZuYnNwOy4uLkoCdG8iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUBL2dvdG8_dXJsPUNBRVNjQUhFSWtYWHdTYWFPQmxkRjh0WWtwSjhVOXB1YWdIdEt4Y3BYMWwwS2pSMy1rcTJPVDZzc1FoWGh2WEJ2ejF6bktTbUJ6YkU1ZTBReUNJV3QwdkR2U09lV1owcHJFcmcxNlUzWTdCeWZNZ0t1ZXN0clBOSy1nQm54ZnhaZGgxXzlQWDVhZ3JMSzFGT2ZmTDJsSFJqR3hFEgQaAggAGp0GEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA9wUIABAAGAAgACoKCgNob3cVQ1myPyoJCgJ0bxUAAAAAKi8KDWF1dG9tYXRpY2FsbHkVHAtRPxoEYXV0bxoIYXV0b21hdGUaCWF1dG9tYXRpYyo7Cgdjb252ZXJ0FZHikz8aBmNoYW5nZRoJY29udmVydGVyGgpjb252ZXJ0aW5nGgxpdjtwO2NvbnZlcnQqCQoCMTYVKaAmQCoICgE5FSmgJkAqSQoKd2lkZXNjcmVlbhVljlU_Ggt3aWRlIHNjcmVlbhoPaXY7cDt3aWRlc2NyZWVuGgR3aWRlGgpyZXNvbHV0aW9uGgZzY3JlZW4qFAoFdmlkZW8V_B7WQBoGdmlkZW9zKgkKAnRvFQAAAAAqCAoBORUpoCZAKgkKAjE2FSmgJkAqKgoIdmVydGljYWwV8ggEPxoKdmVydGljYWxseRoNaXY7cDt2ZXJ0aWNhbDKlAS9nb3RvP3VybD1DQUVTY0FIRUlrWFh3U2FhT0JsZEY4dFlrcEo4VTlwdWFnSHRLeGNwWDFsMEtqUjMta3EyT1Q2c3NRaFhodlhCdnoxem5LU21CemJFNWUwUXlDSVd0MHZEdlNPZVdaMHByRXJnMTZVM1k3QnlmTWdLdWVzdHJQTkstZ0JueGZ4WmRoMV85UFg1YWdyTEsxRk9mZkwybEhSakd4RTpAPGI-Q2hhbmdlIFZpZGVvPC9iPiBBc3BlY3QgUmF0aW8gLSBTbWFydCBBSSBSZWZyYW1pbmcgLSBPcHVzQ2xpcEK3AU9wdXNDbGlwJiMzOTtzIEFJIFJlZnJhbWUgYWRqdXN0cyB5b3VyIHZpZGVvJiMzOTtzIGZyYW1pbmcgdG8ga2VlcCB0aGUgbW9zdCBpbXBvcnRhbnQgZGV0YWlscyBpbiB2aWV3LiA8Yj5Db252ZXJ0IGFueSB2aWRlbyB0byAxNjo5LCA5OjE2PC9iPiwgMToxIG9yIDQ6NSB3aXRob3V0IGNyb3BwaW5nIG91dCZuYnNwOy4uLkoCdG8iAhABSABYAGgA",
+        "source": "Opus Clip",
+        "read_more_link": "https://www.google.com/goto?url=CAESzwEBxCJF18f7q94kmGf80kLKcvl_Q7LKW6ZvkBW0fijOMJCwnoDRztZrEkFI7RpCe9i-A97iW9uqcJYdtXo34kNDcT7zL-T80xhRpuGJgbBXDsvYUSrVhBaAgOMazq8BPfhNUZCRKZoWW7Wa1LItxHHlb45yEzgihXo7xm34XWgnJkKR9ZbmdAueCgB8QyMXeX3gKCPrlReuVI8bHsrh5cTT75hUkplGY6k4dgmOAGaa_5rN3CCCceOdSLx7F393RMhggqKjlOm74vwi16b8Z5I&gsessionid=tJsu9n2WDUBd8Wek2As6PSRNjndJOlZJYLGiCVbzDexJZdLXFf50cg"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "How to automatically convert 16 9 widescreen video to 9 16 vertical online",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhqe-BqPzsRMvbxsiHxyoKX-Khhtg:1795355180192&q=How+to+automatically+convert+16+9+widescreen+video+to+9+16+vertical+online&sa=X&ved=2ahUKEwj_7oqe25uYAxVD5MkDHSO-FD0Q1QJ6BAhTEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+convert+16+9+widescreen+video+to+9+16+vertical+online"
+      },
+      {
+        "block_position": 1,
+        "query": "How to automatically convert 16 9 widescreen video to 9 16 vertical free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhqe-BqPzsRMvbxsiHxyoKX-Khhtg:1795355180192&q=How+to+automatically+convert+16+9+widescreen+video+to+9+16+vertical+free&sa=X&ved=2ahUKEwj_7oqe25uYAxVD5MkDHSO-FD0Q1QJ6BAhWEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+convert+16+9+widescreen+video+to+9+16+vertical+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Convert video to 9:16 online free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhqe-BqPzsRMvbxsiHxyoKX-Khhtg:1795355180192&q=Convert+video+to+9:16+online+free&sa=X&ved=2ahUKEwj_7oqe25uYAxVD5MkDHSO-FD0Q1QJ6BAhXEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Convert+video+to+9%3A16+online+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Convert video to 9:16 without cropping",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhqe-BqPzsRMvbxsiHxyoKX-Khhtg:1795355180192&q=Convert+video+to+9:16+without+cropping&sa=X&ved=2ahUKEwj_7oqe25uYAxVD5MkDHSO-FD0Q1QJ6BAhVEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Convert+video+to+9%3A16+without+cropping"
+      },
+      {
+        "block_position": 1,
+        "query": "16:9 to 9:16 video AI",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhqe-BqPzsRMvbxsiHxyoKX-Khhtg:1795355180192&q=16:9+to+9:16+video+AI&sa=X&ved=2ahUKEwj_7oqe25uYAxVD5MkDHSO-FD0Q1QJ6BAhQEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=16%3A9+to+9%3A16+video+AI"
+      },
+      {
+        "block_position": 1,
+        "query": "How to change aspect ratio from 16:9 to 9:16",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhqe-BqPzsRMvbxsiHxyoKX-Khhtg:1795355180192&q=How+to+change+aspect+ratio+from+16:9+to+9:16&sa=X&ved=2ahUKEwj_7oqe25uYAxVD5MkDHSO-FD0Q1QJ6BAhREAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+change+aspect+ratio+from+16%3A9+to+9%3A16"
+      },
+      {
+        "block_position": 1,
+        "query": "Convert video to 9:16 online free AI",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhqe-BqPzsRMvbxsiHxyoKX-Khhtg:1795355180192&q=Convert+video+to+9:16+online+free+AI&sa=X&ved=2ahUKEwj_7oqe25uYAxVD5MkDHSO-FD0Q1QJ6BAhUEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Convert+video+to+9%3A16+online+free+AI"
+      },
+      {
+        "block_position": 1,
+        "query": "Convert video to 9:16 online free without watermark",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhqe-BqPzsRMvbxsiHxyoKX-Khhtg:1795355180192&q=Convert+video+to+9:16+online+free+without+watermark&sa=X&ved=2ahUKEwj_7oqe25uYAxVD5MkDHSO-FD0Q1QJ6BAhSEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Convert+video+to+9%3A16+online+free+without+watermark"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=How+to+automatically+convert+16:9+widescreen+video+to+9:16+vertical?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhqe-BqPzsRMvbxsiHxyoKX-Khhtg:1795355180192&ei=LPICa_-oC8PIp84Po_zS6AM&start=10&sa=N&sstk=AYl2yk-SD8qQzbU6aNEamEktnIcZ5QkigYr7znaI8z5aY6JwO8FwFZtsHFPLjOIWsw-gMPsp0rFSBuiT4iogVyNyxDvXUkJWdsTYIw&ved=2ahUKEwj_7oqe25uYAxVD5MkDHSO-FD0Q8NMDegQIThAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=How+to+automatically+convert+16:9+widescreen+video+to+9:16+vertical?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhqe-BqPzsRMvbxsiHxyoKX-Khhtg:1795355180192&ei=LPICa_-oC8PIp84Po_zS6AM&start=10&sa=N&sstk=AYl2yk-SD8qQzbU6aNEamEktnIcZ5QkigYr7znaI8z5aY6JwO8FwFZtsHFPLjOIWsw-gMPsp0rFSBuiT4iogVyNyxDvXUkJWdsTYIw&ved=2ahUKEwj_7oqe25uYAxVD5MkDHSO-FD0Q8tMDegQIThAE",
+        "3": "https://www.google.com/search?q=How+to+automatically+convert+16:9+widescreen+video+to+9:16+vertical?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhqe-BqPzsRMvbxsiHxyoKX-Khhtg:1795355180192&ei=LPICa_-oC8PIp84Po_zS6AM&start=20&sa=N&sstk=AYl2yk-SD8qQzbU6aNEamEktnIcZ5QkigYr7znaI8z5aY6JwO8FwFZtsHFPLjOIWsw-gMPsp0rFSBuiT4iogVyNyxDvXUkJWdsTYIw&ved=2ahUKEwj_7oqe25uYAxVD5MkDHSO-FD0Q8tMDegQIThAG",
+        "4": "https://www.google.com/search?q=How+to+automatically+convert+16:9+widescreen+video+to+9:16+vertical?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhqe-BqPzsRMvbxsiHxyoKX-Khhtg:1795355180192&ei=LPICa_-oC8PIp84Po_zS6AM&start=30&sa=N&sstk=AYl2yk-SD8qQzbU6aNEamEktnIcZ5QkigYr7znaI8z5aY6JwO8FwFZtsHFPLjOIWsw-gMPsp0rFSBuiT4iogVyNyxDvXUkJWdsTYIw&ved=2ahUKEwj_7oqe25uYAxVD5MkDHSO-FD0Q8tMDegQIThAI",
+        "5": "https://www.google.com/search?q=How+to+automatically+convert+16:9+widescreen+video+to+9:16+vertical?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhqe-BqPzsRMvbxsiHxyoKX-Khhtg:1795355180192&ei=LPICa_-oC8PIp84Po_zS6AM&start=40&sa=N&sstk=AYl2yk-SD8qQzbU6aNEamEktnIcZ5QkigYr7znaI8z5aY6JwO8FwFZtsHFPLjOIWsw-gMPsp0rFSBuiT4iogVyNyxDvXUkJWdsTYIw&ved=2ahUKEwj_7oqe25uYAxVD5MkDHSO-FD0Q8tMDegQIThAK",
+        "6": "https://www.google.com/search?q=How+to+automatically+convert+16:9+widescreen+video+to+9:16+vertical?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhqe-BqPzsRMvbxsiHxyoKX-Khhtg:1795355180192&ei=LPICa_-oC8PIp84Po_zS6AM&start=50&sa=N&sstk=AYl2yk-SD8qQzbU6aNEamEktnIcZ5QkigYr7znaI8z5aY6JwO8FwFZtsHFPLjOIWsw-gMPsp0rFSBuiT4iogVyNyxDvXUkJWdsTYIw&ved=2ahUKEwj_7oqe25uYAxVD5MkDHSO-FD0Q8tMDegQIThAM",
+        "7": "https://www.google.com/search?q=How+to+automatically+convert+16:9+widescreen+video+to+9:16+vertical?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhqe-BqPzsRMvbxsiHxyoKX-Khhtg:1795355180192&ei=LPICa_-oC8PIp84Po_zS6AM&start=60&sa=N&sstk=AYl2yk-SD8qQzbU6aNEamEktnIcZ5QkigYr7znaI8z5aY6JwO8FwFZtsHFPLjOIWsw-gMPsp0rFSBuiT4iogVyNyxDvXUkJWdsTYIw&ved=2ahUKEwj_7oqe25uYAxVD5MkDHSO-FD0Q8tMDegQIThAO",
+        "8": "https://www.google.com/search?q=How+to+automatically+convert+16:9+widescreen+video+to+9:16+vertical?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhqe-BqPzsRMvbxsiHxyoKX-Khhtg:1795355180192&ei=LPICa_-oC8PIp84Po_zS6AM&start=70&sa=N&sstk=AYl2yk-SD8qQzbU6aNEamEktnIcZ5QkigYr7znaI8z5aY6JwO8FwFZtsHFPLjOIWsw-gMPsp0rFSBuiT4iogVyNyxDvXUkJWdsTYIw&ved=2ahUKEwj_7oqe25uYAxVD5MkDHSO-FD0Q8tMDegQIThAQ",
+        "9": "https://www.google.com/search?q=How+to+automatically+convert+16:9+widescreen+video+to+9:16+vertical?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhqe-BqPzsRMvbxsiHxyoKX-Khhtg:1795355180192&ei=LPICa_-oC8PIp84Po_zS6AM&start=80&sa=N&sstk=AYl2yk-SD8qQzbU6aNEamEktnIcZ5QkigYr7znaI8z5aY6JwO8FwFZtsHFPLjOIWsw-gMPsp0rFSBuiT4iogVyNyxDvXUkJWdsTYIw&ved=2ahUKEwj_7oqe25uYAxVD5MkDHSO-FD0Q8tMDegQIThAS",
+        "10": "https://www.google.com/search?q=How+to+automatically+convert+16:9+widescreen+video+to+9:16+vertical?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhqe-BqPzsRMvbxsiHxyoKX-Khhtg:1795355180192&ei=LPICa_-oC8PIp84Po_zS6AM&start=90&sa=N&sstk=AYl2yk-SD8qQzbU6aNEamEktnIcZ5QkigYr7znaI8z5aY6JwO8FwFZtsHFPLjOIWsw-gMPsp0rFSBuiT4iogVyNyxDvXUkJWdsTYIw&ved=2ahUKEwj_7oqe25uYAxVD5MkDHSO-FD0Q8tMDegQIThAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+convert+16%3A9+widescreen+video+to+9%3A16+vertical%3F&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+convert+16%3A9+widescreen+video+to+9%3A16+vertical%3F&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+convert+16%3A9+widescreen+video+to+9%3A16+vertical%3F&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+convert+16%3A9+widescreen+video+to+9%3A16+vertical%3F&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+convert+16%3A9+widescreen+video+to+9%3A16+vertical%3F&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+convert+16%3A9+widescreen+video+to+9%3A16+vertical%3F&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+convert+16%3A9+widescreen+video+to+9%3A16+vertical%3F&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+convert+16%3A9+widescreen+video+to+9%3A16+vertical%3F&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+convert+16%3A9+widescreen+video+to+9%3A16+vertical%3F&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+convert+16%3A9+widescreen+video+to+9%3A16+vertical%3F&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+convert+16%3A9+widescreen+video+to+9%3A16+vertical%3F&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

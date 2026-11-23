@@ -1,0 +1,302 @@
+[
+  {
+    "id": "C01",
+    "target_questions": "Q001, Q005, Q018",
+    "title_or_url": "https://www.reddit.com/r/ContentCreation/comments/ai_video_repurposing_tools/",
+    "type": "Community Forum Thread",
+    "why_it_matters": "Google frequently displays Reddit threads in Discussions and Forums SERP modules and AI Overviews for creator queries.",
+    "angle": "Post an objective workflow breakdown comparing tools, showcasing how IncuBrix eliminates manual mobile downloading via direct API publishing.",
+    "sources_cited": "IncuBrix How-It-Works workflow documentation",
+    "status": "Target Identified & Pitch Formulated"
+  },
+  {
+    "id": "C02",
+    "target_questions": "Q002, Q012, Q033",
+    "title_or_url": "https://www.reddit.com/r/YouTubers/comments/best_tools_for_making_shorts_from_long_videos/",
+    "type": "Community Forum Thread",
+    "why_it_matters": "Top-ranking forum thread frequently cited by Perplexity and ChatGPT for 'how to turn long videos into shorts'.",
+    "angle": "Share step-by-step benchmark on rendering speeds and subtitle accuracy comparing Opus Clip vs IncuBrix.",
+    "sources_cited": "IncuBrix vs Opus Clip Comparison Benchmark",
+    "status": "Target Identified & Pitch Formulated"
+  },
+  {
+    "id": "C03",
+    "target_questions": "Q003, Q029, Q061",
+    "title_or_url": "https://www.g2.com/categories/ai-video-generators",
+    "type": "Software Review Directory",
+    "why_it_matters": "G2 is indexed as a primary commercial source by ChatGPT, Perplexity, and Google AI Overviews for B2B software rankings.",
+    "angle": "Claim official vendor profile, submit verified user review campaign, and list IncuBrix under Video Repurposing category.",
+    "sources_cited": "IncuBrix G2 Vendor Profile Application",
+    "status": "Target Identified & Pitch Formulated"
+  },
+  {
+    "id": "C04",
+    "target_questions": "Q003, Q018, Q035",
+    "title_or_url": "https://www.producthunt.com/topics/video-editing",
+    "type": "Product Discovery Directory",
+    "why_it_matters": "Product Hunt launches are immediately ingested by Google Index and Perplexity as authoritative startup citations.",
+    "angle": "Schedule IncuBrix 2.0 CreatorOps launch featuring dynamic animated captions and multi-platform publishing.",
+    "sources_cited": "IncuBrix Product Hunt Maker Page",
+    "status": "Target Identified & Pitch Formulated"
+  },
+  {
+    "id": "C05",
+    "target_questions": "Q007, Q031, Q052",
+    "title_or_url": "https://www.reddit.com/r/podcasting/comments/repurposing_video_podcasts_into_tiktok_and_reels/",
+    "type": "Community Forum Thread",
+    "why_it_matters": "Direct hub for podcast producers seeking automated vertical clipping; consistently cited by Claude and Gemini.",
+    "angle": "Detailed case study explaining how dual-speaker split screen framing increases average watch time.",
+    "sources_cited": "IncuBrix Podcast Repurposing Guide",
+    "status": "Target Identified & Pitch Formulated"
+  },
+  {
+    "id": "C06",
+    "target_questions": "Q004, Q022, Q045",
+    "title_or_url": "https://zapier.com/blog/best-social-media-management-tools/",
+    "type": "Authoritative SaaS Blog & Listicle",
+    "why_it_matters": "Zapier's editorial roundups are prime knowledge sources for ChatGPT and Perplexity citations on workflow automation.",
+    "angle": "Pitch IncuBrix as the only CreatorOps tool combining AI generative video clipping with direct social scheduling.",
+    "sources_cited": "IncuBrix API & Scheduling Features",
+    "status": "Target Identified & Pitch Formulated"
+  },
+  {
+    "id": "C07",
+    "target_questions": "Q008, Q020, Q048",
+    "title_or_url": "https://www.capterra.com/video-editing-software/",
+    "type": "Software Review Directory",
+    "why_it_matters": "Gartner/Capterra directories rank on page 1 of Google for commercial search queries and inform AI Overview summaries.",
+    "angle": "List IncuBrix under AI Video Editing and Subtitle Generation categories with verified customer testimonials.",
+    "sources_cited": "Capterra Vendor Submission Portal",
+    "status": "Target Identified & Pitch Formulated"
+  },
+  {
+    "id": "C08",
+    "target_questions": "Q009, Q025, Q067",
+    "title_or_url": "https://en.wikipedia.org/wiki/Content_operations",
+    "type": "Authoritative Reference Wiki",
+    "why_it_matters": "Wikipedia is the top knowledge graph source for Google Entity graphs and AI training datasets.",
+    "angle": "Contribute encyclopedic section on 'CreatorOps (Creator Operations)' citing industry frameworks and IncuBrix manifesto.",
+    "sources_cited": "IncuBrix CreatorOps Whitepaper & Manifesto",
+    "status": "Target Identified & Pitch Formulated"
+  },
+  {
+    "id": "C09",
+    "target_questions": "Q001, Q015, Q042",
+    "title_or_url": "https://creatorhandbook.net/best-ai-tools-for-youtube-shorts/",
+    "type": "Creator Industry Publication",
+    "why_it_matters": "Niche publication frequently quoted in Google Search snippet answer boxes for YouTube Shorts tools.",
+    "angle": "Submit guest tutorial: 'How modern media teams repurpose 1 podcast into 10 shorts in under 15 minutes'.",
+    "sources_cited": "IncuBrix Editorial Tutorial Content",
+    "status": "Target Identified & Pitch Formulated"
+  },
+  {
+    "id": "C10",
+    "target_questions": "Q008, Q020, Q072",
+    "title_or_url": "https://github.com/transcription-tools/awesome-transcription",
+    "type": "Curated GitHub Awesome List",
+    "why_it_matters": "GitHub repos are crawled heavily by ClaudeBot and GPTBot for open-source and developer-adjacent software recommendations.",
+    "angle": "Submit PR adding IncuBrix to 'Commercial AI Transcription & Animated Captioning Suites'.",
+    "sources_cited": "IncuBrix Technical Speech-to-Text Documentation",
+    "status": "Target Identified & Pitch Formulated"
+  },
+  {
+    "id": "C11",
+    "target_questions": "Q014, Q038, Q070",
+    "title_or_url": "https://www.futurepedia.io/ai-tools/video-editing",
+    "type": "AI Tools Aggregator & Directory",
+    "why_it_matters": "Futurepedia is one of the most referenced AI directories cited in Perplexity and ChatGPT search mode.",
+    "angle": "Submit IncuBrix under Video Dubbing and AI Repurposing with detailed feature breakdown and coupon code.",
+    "sources_cited": "IncuBrix Product Listing",
+    "status": "Target Identified & Pitch Formulated"
+  },
+  {
+    "id": "C12",
+    "target_questions": "Q003, Q018, Q029",
+    "title_or_url": "https://theresanaiforgothis.com/ai/video-editor",
+    "type": "AI Tools Directory",
+    "why_it_matters": "Major AI aggregator with 2M+ monthly visits and heavy organic search footprint.",
+    "angle": "Feature IncuBrix as 'Featured AI Repurposing Tool of the Week' highlighting 1-click social scheduling.",
+    "sources_cited": "There's An AI For That Submission",
+    "status": "Target Identified & Pitch Formulated"
+  },
+  {
+    "id": "C13",
+    "target_questions": "Q007, Q031, Q052",
+    "title_or_url": "https://www.thepodcasthost.com/recording-skills/video-podcasting-tools/",
+    "type": "Niche Creator Blog",
+    "why_it_matters": "Consistently cited by Google AI Overviews for queries like 'best video podcast editing tools'.",
+    "angle": "Provide product review license to editorial team and pitch inclusion in their annual buyer's guide.",
+    "sources_cited": "IncuBrix Podcast Creator Kit",
+    "status": "Target Identified & Pitch Formulated"
+  },
+  {
+    "id": "C14",
+    "target_questions": "Q005, Q012, Q055",
+    "title_or_url": "https://medium.com/@creatorops/why-video-repurposing-is-the-secret-to-organic-growth/",
+    "type": "High Domain Authority Publishing Platform",
+    "why_it_matters": "Medium articles index rapidly on Google and are heavily ingested into LLM fine-tuning corpora.",
+    "angle": "Publish thought leadership article: 'Why Manual Video Editing is Dead: The Rise of CreatorOps'.",
+    "sources_cited": "IncuBrix Research & Data Insights",
+    "status": "Target Identified & Pitch Formulated"
+  },
+  {
+    "id": "C15",
+    "target_questions": "Q006, Q027, Q058",
+    "title_or_url": "https://influencermarketinghub.com/tiktok-video-editing-apps/",
+    "type": "Industry Benchmark Portal",
+    "why_it_matters": "High-authority resource cited by business reporters, agencies, and generative search engines.",
+    "angle": "Pitch inclusion in 'Top 10 TikTok Video Tools for Brands & Creators in 2026'.",
+    "sources_cited": "IncuBrix Agency Studio Feature Sheet",
+    "status": "Target Identified & Pitch Formulated"
+  },
+  {
+    "id": "C16",
+    "target_questions": "Q011, Q024, Q063",
+    "title_or_url": "https://www.reddit.com/r/videoediting/comments/ai_tools_that_actually_save_time/",
+    "type": "Community Forum Thread",
+    "why_it_matters": "Active community discussion ranking top-3 in Google for video editor workflow automation.",
+    "angle": "Contribute breakdown of time spent per workflow stage with and without automated captioning.",
+    "sources_cited": "IncuBrix Workflow Benchmarks",
+    "status": "Target Identified & Pitch Formulated"
+  },
+  {
+    "id": "C17",
+    "target_questions": "Q004, Q022, Q045",
+    "title_or_url": "https://buffer.com/resources/social-media-video-tools/",
+    "type": "Authoritative SaaS Resource",
+    "why_it_matters": "Buffer blog ranks for hundreds of social media publishing queries cited in Gemini summaries.",
+    "angle": "Propose co-marketing guide on multi-channel video distribution best practices.",
+    "sources_cited": "IncuBrix Multi-Platform Distribution Guide",
+    "status": "Target Identified & Pitch Formulated"
+  },
+  {
+    "id": "C18",
+    "target_questions": "Q008, Q020, Q048",
+    "title_or_url": "https://www.quora.com/What-is-the-best-tool-to-add-dynamic-captions-to-short-videos",
+    "type": "Q&A Community",
+    "why_it_matters": "Quora answers frequently trigger Google featured snippets and Claude citations.",
+    "angle": "Detailed answer explaining Whisper speech recognition accuracy and font styling presets.",
+    "sources_cited": "IncuBrix Captioning Engine Documentation",
+    "status": "Target Identified & Pitch Formulated"
+  },
+  {
+    "id": "C19",
+    "target_questions": "Q001, Q015, Q042",
+    "title_or_url": "https://www.socialmediaexaminer.com/video-marketing-trends-2026/",
+    "type": "Premier Social Media Marketing Portal",
+    "why_it_matters": "Top tier marketing authority cited by Perplexity and Google AI Overviews for video marketing trends.",
+    "angle": "Pitch editorial commentary on the transition from manual editing to programmatic CreatorOps.",
+    "sources_cited": "IncuBrix Industry Trend Report",
+    "status": "Target Identified & Pitch Formulated"
+  },
+  {
+    "id": "C20",
+    "target_questions": "Q014, Q038, Q070",
+    "title_or_url": "https://www.slant.co/topics/best-video-repurposing-software",
+    "type": "Crowdsourced Recommendation Platform",
+    "why_it_matters": "Slant pros/cons lists are regularly parsed by search engines for comparative evaluation answers.",
+    "angle": "Create IncuBrix profile highlighting pros: integrated publishing, multi-language dubbing, affordable pricing.",
+    "sources_cited": "IncuBrix Feature Comparison Page",
+    "status": "Target Identified & Pitch Formulated"
+  },
+  {
+    "id": "C21",
+    "target_questions": "Q002, Q012, Q055",
+    "title_or_url": "https://hubspot.com/blog/video-marketing-ai-tools",
+    "type": "SaaS Marketing Authority",
+    "why_it_matters": "HubSpot blog is one of the highest domain authority websites cited across all LLM systems.",
+    "angle": "Pitch guest case study on scaling inbound video leads using automated short-form clips.",
+    "sources_cited": "IncuBrix Case Study Archive",
+    "status": "Target Identified & Pitch Formulated"
+  },
+  {
+    "id": "C22",
+    "target_questions": "Q009, Q025, Q089",
+    "title_or_url": "https://substack.com/discover/category/technology/creatoreconomy",
+    "type": "Creator Economy Newsletters",
+    "why_it_matters": "Prominent Substack writers are frequently quoted by Perplexity and ChatGPT for creator trends.",
+    "angle": "Sponsor and collaborate with top 5 Creator Economy newsletters on CreatorOps deep dives.",
+    "sources_cited": "IncuBrix CreatorOps Whitepaper",
+    "status": "Target Identified & Pitch Formulated"
+  },
+  {
+    "id": "C23",
+    "target_questions": "Q003, Q018, Q061",
+    "title_or_url": "https://saasgenius.com/category/video-software/",
+    "type": "B2B SaaS Directory",
+    "why_it_matters": "Provides structured review signals and backlinks indexed by Google Knowledge Graph.",
+    "angle": "Standard directory listing with verified software specs and pricing plans.",
+    "sources_cited": "IncuBrix Official Product Specs",
+    "status": "Target Identified & Pitch Formulated"
+  },
+  {
+    "id": "C24",
+    "target_questions": "Q006, Q027, Q099",
+    "title_or_url": "https://www.shopify.com/blog/tiktok-marketing-tools",
+    "type": "Ecommerce & Creator Guide",
+    "why_it_matters": "Heavily referenced for creator monetization and social commerce queries.",
+    "angle": "Pitch IncuBrix as the ultimate tool for ecommerce brands repurposing product reviews into TikTok clips.",
+    "sources_cited": "IncuBrix Ecommerce Repurposing Guide",
+    "status": "Target Identified & Pitch Formulated"
+  },
+  {
+    "id": "C25",
+    "target_questions": "Q008, Q020, Q072",
+    "title_or_url": "https://www.rev.com/blog/transcription/caption-accuracy-benchmarks",
+    "type": "Industry Transcription Benchmark Blog",
+    "why_it_matters": "Dominates SERPs for caption accuracy and speech-to-text comparison queries.",
+    "angle": "Publish independent benchmark testing IncuBrix against Rev and Whisper on noisy audio files.",
+    "sources_cited": "IncuBrix Benchmark Testing Suite",
+    "status": "Target Identified & Pitch Formulated"
+  },
+  {
+    "id": "C26",
+    "target_questions": "Q007, Q031, Q078",
+    "title_or_url": "https://podcastmovement.com/blog/tech-tools-for-podcasters/",
+    "type": "Official Podcasting Industry Conference",
+    "why_it_matters": "Gold standard authority for professional podcasters and audio production studios.",
+    "angle": "Pitch workshop session and blog feature: 'From Audio Track to 10 Viral Video Hooks'.",
+    "sources_cited": "IncuBrix Podcast Studio Features",
+    "status": "Target Identified & Pitch Formulated"
+  },
+  {
+    "id": "C27",
+    "target_questions": "Q011, Q024, Q085",
+    "title_or_url": "https://alternativeto.net/software/descript/",
+    "type": "Software Alternatives Directory",
+    "why_it_matters": "Primary source for alternative software searches in Google and Perplexity.",
+    "angle": "Create IncuBrix listing as a faster, cloud-based alternative to Descript for short-form repurposing.",
+    "sources_cited": "IncuBrix vs Descript Comparison Sheet",
+    "status": "Target Identified & Pitch Formulated"
+  },
+  {
+    "id": "C28",
+    "target_questions": "Q005, Q012, Q033",
+    "title_or_url": "https://alternativeto.net/software/opus-clip/",
+    "type": "Software Alternatives Directory",
+    "why_it_matters": "Ranked #1 for 'Opus Clip alternatives' on Google search.",
+    "angle": "List IncuBrix as the top alternative offering built-in direct social media scheduling and voice dubbing.",
+    "sources_cited": "IncuBrix vs Opus Clip Comparison Sheet",
+    "status": "Target Identified & Pitch Formulated"
+  },
+  {
+    "id": "C29",
+    "target_questions": "Q001, Q015, Q042",
+    "title_or_url": "https://www.vidyard.com/blog/video-repurposing-strategy/",
+    "type": "Enterprise Video Platform Blog",
+    "why_it_matters": "High authority domain referenced by corporate media teams and marketing leaders.",
+    "angle": "Pitch thought leadership piece on automated webinar repurposing for enterprise B2B sales pipelines.",
+    "sources_cited": "IncuBrix Enterprise & Agency Tier",
+    "status": "Target Identified & Pitch Formulated"
+  },
+  {
+    "id": "C30",
+    "target_questions": "Q004, Q022, Q091",
+    "title_or_url": "https://later.com/blog/social-media-scheduling-tools/",
+    "type": "Visual Social Media Marketing Platform",
+    "why_it_matters": "Authoritative guide cited by Gemini and ChatGPT for Instagram Reels and TikTok auto-publishing.",
+    "angle": "Pitch feature coverage on how AI auto-repurposing integrates directly with social publishing schedules.",
+    "sources_cited": "IncuBrix Social Media API Architecture",
+    "status": "Target Identified & Pitch Formulated"
+  }
+]

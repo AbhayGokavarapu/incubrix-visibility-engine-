@@ -1,0 +1,217 @@
+{
+  "measurement_id": "546ce311fbb7",
+  "question_id": "Q027",
+  "timestamp_utc": "2026-11-22T11:34:59.804134+00:00",
+  "provider_name": "Google Gemini",
+  "model_identifier": "gemini-2.5-flash",
+  "question": "What is the ideal video length for Instagram Reels to get high retention?",
+  "market": "UK",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUuRTRQwBwu_R1z65fkvNh91aAn2voVnsS7D1Txm2QEX1WX4D1Aeg3hx6twDsaI83EATnhFBYtC-govIPuFZsPAnADSIOGkKEWPV08xnN99J7VRPCF7k_UMOQxNHfWWqRFIrZgZa7u5z7VYP9i3TDNYmGipg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOz_NebF1SFLMWuNlUWGVgBGqmW0VPJmROvlNIpJ4kTjbixSFxN4sC2pP6PGy8E1_3REp6aCvmdCa8RtVplc-2RzDp4UaghYdMpH8KlbBOz97iGHrTRRNDdT3smXb6k5BJkJjO0UkdWtMxjBEFYYQ19jCuSVr7_tlfWrzs1r_qktY=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOPQudCRfl0Yj-jLEQDz_AtDyviTZGC92vkop21YQqjuWSehUo5YJ7NNvwjkesSrbXubFXEAPEuId-PBUwwhZvDlFvZNs5Q1GfS5X4hhPJzngPYwlG-b2VWusg93ZhLW-vDPVbhQwpufmRxilXRRA=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUqjd6WEKan5qPV7OJi5KgGcqPuCZLm87cYdzrxbf7OWUD4gb_NkEddUJlK9w_4h78z7PNqWBoFw1cfclUFjkhrO6Q4m2clsxccCaIRlWVOua1l-4EePRXrOq4iU9HRm-rEBFJtnrgCpyHJrdDYxFA2A==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTXPxlSWpZb7pwfuZtoSvOI-Q2eoPXXmCcET9IEFHxCAOsbV2Jqx03bHIJYpbgjz5S_n9pWsIWDCQM28hTb4-pIvLsvKvDP2Yl4hTB82c5KBqwbgSjZQZ2KtWGbU2q-NiDB7E6gLiddrTsrA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk2fSKwqufG_8YHU6fObhiE2ll7UEnzEDcunlq5cSUuBMQnaDpdgDdkOOS6Je4j3tIVBRwqCsyjdNQFcJmSD5cf2xX0C17ek0NybzYaxMeGfJpXvQ5idsu25HaxrB1CpOyn435R8GfcQOixKcQQVqA3CzQoTg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO8PCBzc5e87PgEqxiCOMI3McjKWOVxKbJHO_sP1Vw6f6Fn8hVn8eJNzjOt1-aIS3gFt257CyYX00F_S_7I3G8sjdvgDhHz58SgT8gxTOTIrXAGlw2IhhEH9las7ic8BXPlAjYL-ieH13G",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNqq65qqmzhw-Xdaf-nYRNK8DAYsmDkkWqHgwee70VY997FL1aP5FVUlFlc9jksYwnJ3PfoLKjt0Q3dhM8c9Oq3U-eR2-3RBj7knjBgFke6wHcKIhflxxSkX0kktgESyZjnTShJCws7cF4KWa3xhw8FEbkLaa8Aq5RcZ6-5cQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgaemfaT5_vTv4Xu8dm6t2DNDh1AmlJyqYpOymLOdSwYTWzbCEziU5yaviUWZFhAKtNZR4txMsqk3bflUr-_hPeyCXvTOrW5vkDzTcqOGB_ek0SxrBjrvU2iVx2MTKsHCwlZ7pzFOsjRMwWVQeP65EJA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhmDMLAle05N3D8wurPlf4_gOvoLmsjwU7zYp2kLy0idhfcERzTPmi09P54t6mJKMmwut816vywddH7SxdVj-sdEsXtO8s-qDANXb96XQoLAYxGYdDpQKXjuXvEDIo5EYZsAD1bLfVOJmVqgXdg-j7LxlsQK1U2E_VeI84kkgbJpiHnPbHo-FDneCjHH5ZV0d4COwf",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9AVk4KaqpDTc_Ocs3qj98GRT3rvfxv5WlUYMaluStJRpbjqfNWHYykB6nAowbcdox7K23b2uIoqigVqwDh_ClImgV4rvo2bcfo6BwzKhhK9J0lYJS7IHLXNcgRaeD6OWpeQp0ETz2yrfC1w8q0nyUPdbPXMCIjXZDi0uVDdASgGcOgnIswVMPV9D9MEDMYpU663wjiywc-RzGa0xSNEikXuR86PCK3O5V",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBifuZzfhAmtgzMl0mkKkKT4ocpwnSoGshCfCIAp1wNmuzRJJNryMDZIizY5dmskSfa_Ljfxf0Czma0WhHZaputqwptizBBmg0GDIEmxYCTNiCFgHMzpZLaTMwR5L9Pcx3dmQv3M5FSnqBlKRZlnJ5oMtrKvDRNrTxmGQGEbwgeTC1yGcT6sOwjI801DBBIiamHVQb2a4fXVFyiIuqqo2-3z8JNeWYuJr-JwtulK4Q-8wcyhPvRZw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRTYbwCUKEwZDKWAdRz3e93fnTLEOOAIR7PhG_Ga_NJEi9YH9SWcS-l6Qbb1Zxq9exuVtA1ag2SrNuMMlDSCiOivj9nzquLCD9p0GisrT0KfOsnBLj6INhsOtIB5u_89ZZWGKSmcy-O_wdEHFxpLAk5PqBPV3hfUEYO_cYX8DiYM7adTU6SVif4q9mNoj8T8Imbepd9GDT59DQ3U2wQq2EcG9lhv_T9PMXYfs55sijIsif8bWNhS12Yus=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlui4qd7WrvvhOp9QmXNVjsSCeG-BMzc5laKJQLaB_GFLYxCCfXXairSuU9SOHfHbxhyU1hDGmMp0XOTd5_JL7a8GJOSIMXmnjl4abw-UIDW1Wu6U8JJn0lhrPrNNrMvCioq_O20Et-ltIWdw3_AYkPS2R1rGKg1regSrdmmBoLI8-TlMyaHrcS097wIk3SWQj9NRR6W1L1OEgshJQZEI7-WiU3LlKr_1s4XSkow=="
+  ],
+  "raw_text_summary": "The ideal video length for Instagram Reels to achieve high retention is not a single fixed number, but rather a strategic choice that depends on your content, objectives, and the specific metrics you aim to optimize. While Instagram technically allows Reels up to 20 minutes for some accounts, particularly when uploading from a camera roll, the platform's algorithm generally favors shorter content for broader discovery and engagement with new audiences.\n\nHere's a breakdown of ideal lengths for different goals and content types, based on recent analyses:\n\n*   **Overall Engagement and Views:** Many studies indicate that Reels between **45 and 60 seconds** tend to achieve the highest engagement rates and median views, especially for business accounts.\n*   **Discovery and Reach (New Audiences):** For maximizing reach to non-followers, it's generally recommended to keep Reels under **3 minutes**. Some data suggests an even shorter \"sweet spot\" of **7 to 30 seconds** for the highest reach across most content categories, as shorter Reels are easier to complete, sending a strong signal to the algorithm. Reels exceeding three minutes are primarily shown to existing followers.\n*   **Specific Content Types:**\n    *   **Entertainment and Quick Tips:** Reels in the **7 to 15-second** range often perform best for quick, engaging content. [cite: 5, 14 The ideal video length for Instagram Reels to achieve high retention is not a single fixed number, but rather a strategic choice that depends on your content, objectives, and the specific metrics you aim to optimize. While Instagram technically allows Reels up to 20 minutes for some accounts, particularly when uploading from a camera roll, the platform's algorithm generally favors shorter content for broader discovery and engagement with new audiences. [cite: 4, 9, 10, 11, 13]\n\nHere's a breakdown of ideal lengths for different goals and content types, based on recent analyses:\n\n*   **Overall Engagement and Views:** Many studies indicate that Reels between **45 and 60 seconds** tend to achieve the highest engagement rates and median views, especially for business accounts. [cite: 1, 2, 4, 11]\n*   **Discovery and Reach (New Audiences):** For maximizing reach to non-followers, it's generally recommended to keep Reels under **3 minutes**. [cite: 2, 3, 9, 10, 11, 13] Some data suggests an even shorter \"sweet spot\" of **7 to 30 seconds** for the highest reach across most content categories, as shorter Reels are easier to complete, sending a strong signal to the algorithm. [cite: 5, 9, 14] Reels exceeding three minutes are primarily shown to existing followers. [cite: 2, 4, 9, 10, 11, 13]\n*   **Specific Content Types:**\n    *   **Entertainment and Quick Tips:** Reels in the **7 to 15-second** range often perform best for quick, engaging content. [cite: 5, 14",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "The ideal video length for Instagram Reels to achieve high retention is not a single fixed number, but rather a strategic choice that depends on your content, objectives, and the specific metrics you aim to optimize. While Instagram technically allows Reels up to 20 minutes for some accounts, particularly when uploading from a camera roll, the platform's algorithm generally favors shorter content for broader discovery and engagement with new audiences.\n\nHere's a breakdown of ideal lengths for different goals and content types, based on recent analyses:\n\n*   **Overall Engagement and Views:** Many studies indicate that Reels between **45 and 60 seconds** tend to achieve the highest engagement rates and median views, especially for business accounts.\n*   **Discovery and Reach (New Audiences):** For maximizing reach to non-followers, it's generally recommended to keep Reels under **3 minutes**. Some data suggests an even shorter \"sweet spot\" of **7 to 30 seconds** for the highest reach across most content categories, as shorter Reels are easier to complete, sending a strong signal to the algorithm. Reels exceeding three minutes are primarily shown to existing followers.\n*   **Specific Content Types:**\n    *   **Entertainment and Quick Tips:** Reels in the **7 to 15-second** range often perform best for quick, engaging content. [cite: 5, 14"
+            },
+            {
+              "text": "The ideal video length for Instagram Reels to achieve high retention is not a single fixed number, but rather a strategic choice that depends on your content, objectives, and the specific metrics you aim to optimize. While Instagram technically allows Reels up to 20 minutes for some accounts, particularly when uploading from a camera roll, the platform's algorithm generally favors shorter content for broader discovery and engagement with new audiences. [cite: 4, 9, 10, 11, 13]\n\nHere's a breakdown of ideal lengths for different goals and content types, based on recent analyses:\n\n*   **Overall Engagement and Views:** Many studies indicate that Reels between **45 and 60 seconds** tend to achieve the highest engagement rates and median views, especially for business accounts. [cite: 1, 2, 4, 11]\n*   **Discovery and Reach (New Audiences):** For maximizing reach to non-followers, it's generally recommended to keep Reels under **3 minutes**. [cite: 2, 3, 9, 10, 11, 13] Some data suggests an even shorter \"sweet spot\" of **7 to 30 seconds** for the highest reach across most content categories, as shorter Reels are easier to complete, sending a strong signal to the algorithm. [cite: 5, 9, 14] Reels exceeding three minutes are primarily shown to existing followers. [cite: 2, 4, 9, 10, 11, 13]\n*   **Specific Content Types:**\n    *   **Entertainment and Quick Tips:** Reels in the **7 to 15-second** range often perform best for quick, engaging content. [cite: 5, 14"
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9AVk4KaqpDTc_Ocs3qj98GRT3rvfxv5WlUYMaluStJRpbjqfNWHYykB6nAowbcdox7K23b2uIoqigVqwDh_ClImgV4rvo2bcfo6BwzKhhK9J0lYJS7IHLXNcgRaeD6OWpeQp0ETz2yrfC1w8q0nyUPdbPXMCIjXZDi0uVDdASgGcOgnIswVMPV9D9MEDMYpU663wjiywc-RzGa0xSNEikXuR86PCK3O5V\">Instagram Reels algorithm video length</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBifuZzfhAmtgzMl0mkKkKT4ocpwnSoGshCfCIAp1wNmuzRJJNryMDZIizY5dmskSfa_Ljfxf0Czma0WhHZaputqwptizBBmg0GDIEmxYCTNiCFgHMzpZLaTMwR5L9Pcx3dmQv3M5FSnqBlKRZlnJ5oMtrKvDRNrTxmGQGEbwgeTC1yGcT6sOwjI801DBBIiamHVQb2a4fXVFyiIuqqo2-3z8JNeWYuJr-JwtulK4Q-8wcyhPvRZw=\">Instagram Reels length recommendations for creators</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRTYbwCUKEwZDKWAdRz3e93fnTLEOOAIR7PhG_Ga_NJEi9YH9SWcS-l6Qbb1Zxq9exuVtA1ag2SrNuMMlDSCiOivj9nzquLCD9p0GisrT0KfOsnBLj6INhsOtIB5u_89ZZWGKSmcy-O_wdEHFxpLAk5PqBPV3hfUEYO_cYX8DiYM7adTU6SVif4q9mNoj8T8Imbepd9GDT59DQ3U2wQq2EcG9lhv_T9PMXYfs55sijIsif8bWNhS12Yus=\">ideal video length Instagram Reels high retention 2024</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlui4qd7WrvvhOp9QmXNVjsSCeG-BMzc5laKJQLaB_GFLYxCCfXXairSuU9SOHfHbxhyU1hDGmMp0XOTd5_JL7a8GJOSIMXmnjl4abw-UIDW1Wu6U8JJn0lhrPrNNrMvCioq_O20Et-ltIWdw3_AYkPS2R1rGKg1regSrdmmBoLI8-TlMyaHrcS097wIk3SWQj9NRR6W1L1OEgshJQZEI7-WiU3LlKr_1s4XSkow==\">best Instagram Reels length for engagement</a>\n  </div>\n</div>\n"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUuRTRQwBwu_R1z65fkvNh91aAn2voVnsS7D1Txm2QEX1WX4D1Aeg3hx6twDsaI83EATnhFBYtC-govIPuFZsPAnADSIOGkKEWPV08xnN99J7VRPCF7k_UMOQxNHfWWqRFIrZgZa7u5z7VYP9i3TDNYmGipg==",
+                "title": "socialinsider.io"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOz_NebF1SFLMWuNlUWGVgBGqmW0VPJmROvlNIpJ4kTjbixSFxN4sC2pP6PGy8E1_3REp6aCvmdCa8RtVplc-2RzDp4UaghYdMpH8KlbBOz97iGHrTRRNDdT3smXb6k5BJkJjO0UkdWtMxjBEFYYQ19jCuSVr7_tlfWrzs1r_qktY=",
+                "title": "foxy.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOPQudCRfl0Yj-jLEQDz_AtDyviTZGC92vkop21YQqjuWSehUo5YJ7NNvwjkesSrbXubFXEAPEuId-PBUwwhZvDlFvZNs5Q1GfS5X4hhPJzngPYwlG-b2VWusg93ZhLW-vDPVbhQwpufmRxilXRRA=",
+                "title": "buffer.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUqjd6WEKan5qPV7OJi5KgGcqPuCZLm87cYdzrxbf7OWUD4gb_NkEddUJlK9w_4h78z7PNqWBoFw1cfclUFjkhrO6Q4m2clsxccCaIRlWVOua1l-4EePRXrOq4iU9HRm-rEBFJtnrgCpyHJrdDYxFA2A==",
+                "title": "zeely.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTXPxlSWpZb7pwfuZtoSvOI-Q2eoPXXmCcET9IEFHxCAOsbV2Jqx03bHIJYpbgjz5S_n9pWsIWDCQM28hTb4-pIvLsvKvDP2Yl4hTB82c5KBqwbgSjZQZ2KtWGbU2q-NiDB7E6gLiddrTsrA==",
+                "title": "inmagic.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk2fSKwqufG_8YHU6fObhiE2ll7UEnzEDcunlq5cSUuBMQnaDpdgDdkOOS6Je4j3tIVBRwqCsyjdNQFcJmSD5cf2xX0C17ek0NybzYaxMeGfJpXvQ5idsu25HaxrB1CpOyn435R8GfcQOixKcQQVqA3CzQoTg=",
+                "title": "klap.app"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO8PCBzc5e87PgEqxiCOMI3McjKWOVxKbJHO_sP1Vw6f6Fn8hVn8eJNzjOt1-aIS3gFt257CyYX00F_S_7I3G8sjdvgDhHz58SgT8gxTOTIrXAGlw2IhhEH9las7ic8BXPlAjYL-ieH13G",
+                "title": "moonb.io"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNqq65qqmzhw-Xdaf-nYRNK8DAYsmDkkWqHgwee70VY997FL1aP5FVUlFlc9jksYwnJ3PfoLKjt0Q3dhM8c9Oq3U-eR2-3RBj7knjBgFke6wHcKIhflxxSkX0kktgESyZjnTShJCws7cF4KWa3xhw8FEbkLaa8Aq5RcZ6-5cQ=",
+                "title": "renderforest.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgaemfaT5_vTv4Xu8dm6t2DNDh1AmlJyqYpOymLOdSwYTWzbCEziU5yaviUWZFhAKtNZR4txMsqk3bflUr-_hPeyCXvTOrW5vkDzTcqOGB_ek0SxrBjrvU2iVx2MTKsHCwlZ7pzFOsjRMwWVQeP65EJA==",
+                "title": "opus.pro"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhmDMLAle05N3D8wurPlf4_gOvoLmsjwU7zYp2kLy0idhfcERzTPmi09P54t6mJKMmwut816vywddH7SxdVj-sdEsXtO8s-qDANXb96XQoLAYxGYdDpQKXjuXvEDIo5EYZsAD1bLfVOJmVqgXdg-j7LxlsQK1U2E_VeI84kkgbJpiHnPbHo-FDneCjHH5ZV0d4COwf",
+                "title": "brandstory.ae"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 217,
+                "endIndex": 456,
+                "text": "While Instagram technically allows Reels up to 20 minutes for some accounts, particularly when uploading from a camera roll, the platform's algorithm generally favors shorter content for broader discovery and engagement with new audiences."
+              },
+              "groundingChunkIndices": [
+                0,
+                1,
+                2,
+                3,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 560,
+                "endIndex": 757,
+                "text": "*   **Overall Engagement and Views:** Many studies indicate that Reels between **45 and 60 seconds** tend to achieve the highest engagement rates and median views, especially for business accounts."
+              },
+              "groundingChunkIndices": [
+                5,
+                6,
+                0,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 758,
+                "endIndex": 903,
+                "text": "*   **Discovery and Reach (New Audiences):** For maximizing reach to non-followers, it's generally recommended to keep Reels under **3 minutes**."
+              },
+              "groundingChunkIndices": [
+                6,
+                7,
+                1,
+                2,
+                3,
+                4
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 904,
+                "endIndex": 1111,
+                "text": "Some data suggests an even shorter \"sweet spot\" of **7 to 30 seconds** for the highest reach across most content categories, as shorter Reels are easier to complete, sending a strong signal to the algorithm."
+              },
+              "groundingChunkIndices": [
+                8,
+                1,
+                9
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1112,
+                "endIndex": 1184,
+                "text": "Reels exceeding three minutes are primarily shown to existing followers."
+              },
+              "groundingChunkIndices": [
+                6,
+                0,
+                1,
+                2,
+                3,
+                4
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "ideal video length Instagram Reels high retention 2024",
+            "best Instagram Reels length for engagement",
+            "Instagram Reels length recommendations for creators",
+            "Instagram Reels algorithm video length"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 39,
+      "candidatesTokenCount": 704,
+      "totalTokenCount": 1590,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 39
+        }
+      ],
+      "toolUsePromptTokenCount": 145,
+      "toolUsePromptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 145
+        }
+      ],
+      "thoughtsTokenCount": 702,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-2.5-flash",
+    "responseId": "W9MCa7gGrtPPuw-phuzRBQ"
+  },
+  "error_details": null
+}

@@ -1,0 +1,503 @@
+{
+  "measurement_id": "310610efe17f",
+  "question_id": "Q060",
+  "timestamp_utc": "2026-11-22T13:48:56.330516+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "Top 5 AI tools every video editor should use in 2026",
+  "market": "IN",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [
+    "Descript",
+    "CapCut",
+    "Kapwing"
+  ],
+  "position": null,
+  "citations": [
+    "https://buffer.com/resources/ai-video-tools/",
+    "https://www.google.com/goto?url=CAEScwHEIkXXeou7-_sDEQwLrBlcjPzx6v0CVDhpJgNzh5vYwfthXsrHFniu9Xp9exZA0kvlOv45JwwxVPXQ6Yo87xelSalB5kAE0l0kWfvcIonRrJV4iCYd-Medb1KWsX26_btJaEkzNQtD7-N2ao8DzMFsInI",
+    "https://www.google.com/goto?url=CAESdwHEIkXXrVVEj2JPktxTJ1GZTntA4xehw23-O52hYaZsrlcvnb-LYXGAsI7iAIwHvOs7CsrOJIyylDHMNgP2YsqBmXd_hqiOxLs2ED2D_xXZl0nLHp4rFawJMnZj1xYUVewKiC-w4rp4Tqy1Vbw2wB2JMVYrMXt4",
+    "https://www.google.com/goto?url=CAEShgEBxCJF114e-DRYtPUd4y7Y5pm0FRIjTK9bTQcolFpyNrgxTFpY-Wt9QOuGvSy_v4HhsppnkQ_jW4s-dCrVgJWOUV4nVdiQB3A71kXFY-TKBw7kf-d5LjcblPHc-qwZG82H324kZZiB2iY773BWJXX1YWU-hNczsaUaaJJWW7Qxq-qj_7w3Yw",
+    "https://www.google.com/goto?url=CAESdgHEIkXX698MEkPmmydOI75Lh6tELV-PASmexM3b9bwjIu0erkuj7RECHzFjkQpYh3An4xPKqDUaP0E84TA-G0OvQ1xMl03-bVqtbFKUJ9LWy9u0-cqKyAaps-WY3gWaQq6oFabe4DQdMiPqEgzgp1xfo9WUWrk",
+    "https://www.google.com/goto?url=CAESdgHEIkXXAfqtqNBtOC6Qh6QPDuy2Vws5SLHe9fohznn5DVD6p7hq8vjRy2QAhjCWz8ynzuzvhkUoPyUyUACe0DAvJDnCbhg1xS1Yzr6-1g_FY_qLgubJ1SzCEHXm5CvZ85dpDyKQOZZKnPzkFzlEe3d7Qk430IA",
+    "https://www.google.com/goto?url=CAESpQEBxCJF13lLs8AklyEyA7k6a0mqLqBb0hvhHGlkmMkxgCSGAB7_t30nSYj4pbCRCmVnRpyeiOTmgeafBgwDhB0A50GW4WbCII_zqkZxFdzOF7i7Ig_w27j5477nCg2ef1mdQ9EcDq_slKFTCuY7HKjTmiU9d3NQ_bhzEnDuXqKIacZ4rdPAKuRqKE6aDAo36p2aGbEfcbnP1S8jfP1Eljfg4eeidYg",
+    "https://www.google.com/goto?url=CAESegHEIkXXajSbuwtCpR47YDlRPYYYYd69rdxifZaVyzDPDCczOQv5W53CsKjeckkwsRrsG3ecVHZg3ScwIg-mP7Jvd77TlzN9_MOLeGI9juZ_zGzHZXRFFHKszL6gILNUNozUm0FRiYsbbCGoOh7lkjeAesVZr2iImxpN"
+  ],
+  "raw_text_summary": "The 11 Best AI Video Editors in 2026, Tried and Tested AI-enabled editors are regular video editors that have AI features. These are your Capcuts, Adobe Expresses, and Veeds. You're still the one ... AI Video Editing Tools: The Complete Guide (2026) The AI video editing tools I use each week: Descript for transcript edits, Kling O1 for real footage, plus tools for B-roll and audio. The 12 Best AI Tools for Video Editors in 2026 (Tested ... The best AI tools for video editors in 2026 are Storyflow, Adobe Premiere Pro with Sensei, and Descript. Best Free: DaVinci Resolve (Free). Best AI Video Editing Tools for Professionals in 2026 Best AI video editing tools for professionals in 2026: Premiere, DaVinci Resolve Studio, Final Cut Pro, Descript, Higgsfield, ... 12 Best AI Video Editing Tools 2026 (Free & Paid, Tested) The top AI video editors in 2026 are Loopdesk (agentic, prompt-driven editing in the browser), Descript (text-based podcast editing), CapCut ( ... 10 Best AI Video Editing Software Tools (2026) | ngram.com 3. Adobe Premiere Pro: timeline editing with AI assistance \u30fb 4. DaVinci Resolve: video assembly, captions and audio \u30fb 10. Kapwing: ... Best AI Video Generator Tools in 2026? Here's My Current ... 1. OpenArt \u2013 My current favorite because I can access multiple video models from one place instead of juggling different tools. \u00b7 2. Google Veo ... Top 5 AI Video Editing Tools Reviewed (2026) Our 2026 review of the top AI video editing tools, Content24, Runway, Pika, CapCut, and Descript, with pros, cons, and best use cases for ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f2c6895c9c77f4509a76",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/hZO8a8C0yXkHkZZ_mO-3HxzjvheRFU22FYDlZoThuiU/6b02f2c6895c9c77f4509a76.json",
+      "markdown_endpoint": "https://serpapi.com/searches/hZO8a8C0yXkHkZZ_mO-3HxzjvheRFU22FYDlZoThuiU/6b02f2c6895c9c77f4509a76.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/hZO8a8C0yXkHkZZ_mO-3HxzjvheRFU22FYDlZoThuiU/6b02f2c6895c9c77f4509a76.json_with_pixel_position",
+      "created_at": "2026-11-22 13:48:54 UTC",
+      "processed_at": "2026-11-22 13:48:54 UTC",
+      "google_url": "https://www.google.com/search?q=Top+5+AI+tools+every+video+editor+should+use+in+2026&oq=Top+5+AI+tools+every+video+editor+should+use+in+2026&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/hZO8a8C0yXkHkZZ_mO-3HxzjvheRFU22FYDlZoThuiU/6b02f2c6895c9c77f4509a76.html",
+      "total_time_taken": 0.85
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "Top 5 AI tools every video editor should use in 2026",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "in",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "Top 5 AI tools every video editor should use in 2026",
+      "total_results": 681,
+      "time_taken_displayed": 0.24,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "Top 5 AI Filmmaking Tools 2026",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXT31EBmMG6cAyiG8mEaP97vSvSWnkpk7zuvkhb8YaKihlp3IweqcmnYF3FIvDMueCTuV53jaVYvmJ5jhD_5agQSbpVdlQ2ILtX7RnV8Zt2c5DXOE88uJ3lffVJ3pMg15B6eAL&gsessionid=dJgUWR0tDw3JgOcAb51DneVlqPsLPv8Hx_Vr1IaXYc6xm8zxkVK_uw",
+        "thumbnail": "https://serpapi.com/searches/6b02f2c6895c9c77f4509a76/images/f13SZ8Y1GX0vwekIDvbswosKFPkRDZ_NP-3T2_2XLV0.jpg",
+        "channel": "Content Creators",
+        "duration": "18:22",
+        "platform": "YouTube",
+        "date": "24 Mar 2026",
+        "snippet": "Top AI filmmaking tools: Runway for VFX, Suno AI for music, ElevenLabs for voice, Higsfield AI for comprehensive creation.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTXxamAWqS0S8y9u3CGPBtpICAZGZkjJvSTCw"
+      },
+      {
+        "position": 2,
+        "title": "Best AI Video Editing Tools You Need in 2026 (Save Hours ...",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXH3FNcRpzgvuw3JcyFqOzMHVVrsB85Pyb4HsDBVGrfI0mg6KgmBh4cgmThPy1bFFdN-3hzLxozcRNr-smoMvOvAyIfpzviOufG3GJqL8U4V_85bT9n2VvH6Kx2RbPNARz6gcO&gsessionid=dJgUWR0tDw3JgOcAb51DneVlqPsLPv8Hx_Vr1IaXYc6xm8zxkVK_uw",
+        "thumbnail": "https://serpapi.com/searches/6b02f2c6895c9c77f4509a76/images/4-9jQr2ckbRdA8YbFrhQAJbQMZACs9vfEFxopyCpsn8.jpg",
+        "channel": "AI Master",
+        "duration": "14:52",
+        "platform": "YouTube",
+        "date": "7 Mar 2026",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "AI Video Editing in 2026",
+            "link": "https://www.google.com/goto?url=CAESbAHEIkXXBoU7JjCKpEY0uXnGa9QBrhHor_zZ_yJP1Ht2SiJkiwcxETVLN-XmRPeQIFKIT1Up2y7_m19ohWqNWNhTOOsz7DebKUHQ0q4wk7ItbCK-ilWqLT_zSZUy7UEr7ZnCwuFP2oMsprVEaQ&gsessionid=dJgUWR0tDw3JgOcAb51DneVlqPsLPv8Hx_Vr1IaXYc6xm8zxkVK_uw"
+          },
+          {
+            "time": "00:36",
+            "title": "Tool 1: Template-Based Video Builder",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXXMlF40nh2Pcd96jQAAp6tQkvp8RLNrgz7a88R9w18cWPnDuIVRRIZIy0YDNqHBxSuOuAbQJnX_Lpvh8-VRejqC0jYcmK6ONhHiuRQXpepGpcJ__fsRYC98k08yH6z6qBC-ZjLodTLJhM&gsessionid=dJgUWR0tDw3JgOcAb51DneVlqPsLPv8Hx_Vr1IaXYc6xm8zxkVK_uw"
+          },
+          {
+            "time": "02:50",
+            "title": "Tool 2: AI Talking-Head Videos",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXvawNkqZjyMNRsbg7_oQ7xZB6Uf82v2HYjbH4ysA9BzW0jfx9RJ8BxneDqyoPFsGJMdZf2RSYMaDHXvtpFvb48WKGyX1zk0ZYrhZEXwb_yHH4uBNCmp2AptceQArsn72kRpS8oySkg-yh&gsessionid=dJgUWR0tDw3JgOcAb51DneVlqPsLPv8Hx_Vr1IaXYc6xm8zxkVK_uw"
+          },
+          {
+            "time": "05:06",
+            "title": "Tool 3: All-in-One AI Video Workflow",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXX8jHOc3WfSkleayS6Cxby_k86y4lM95Mu5NcGDrZD-lB5lz0SI_H3pqDLSZH1tmHkxQPpxtiDQbHutMPZXdJbmufTGLeAtwmtthAAKV4ZZyN5VFM_q9RKdAjBVBZ9IE2BHWEnR56jKWCs&gsessionid=dJgUWR0tDw3JgOcAb51DneVlqPsLPv8Hx_Vr1IaXYc6xm8zxkVK_uw"
+          },
+          {
+            "time": "08:28",
+            "title": "Tool 4: Custom AI Video Scenes from Prompts",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXORcfiqOByKOAaU6xFWwJ7C-3VWnA0jLOAafwJ6SoVUbFVRpjeh6Nq2fLXN5zkPTPUIvgT9uxrVmmfICqvQtgQe7394rPfRm8FPzQ6T3sEWd8fT6YHSHwEOcJev8bIqwnIf-89kIXqO72&gsessionid=dJgUWR0tDw3JgOcAb51DneVlqPsLPv8Hx_Vr1IaXYc6xm8zxkVK_uw"
+          },
+          {
+            "time": "12:30",
+            "title": "Tool 5: AI B-Roll and Visual Asset Creation",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXDZT6L7b3bI2ETNDSPTiMbIHx0T3EsLlIpmS4_XMlA7D9eImeeZMqtCwbq6j4GrW_3lgYxZzIgjI21ojWwX6xa-jBSmR2kNP6UAuol3vEjfnjmIcARJLwrhxjg096X151eJewxzLtlzQ2&gsessionid=dJgUWR0tDw3JgOcAb51DneVlqPsLPv8Hx_Vr1IaXYc6xm8zxkVK_uw"
+          },
+          {
+            "time": "14:26",
+            "title": "Which AI Tool Should You Use?",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXeMhG3p9n3jB4pUovY94u_Qf3Ej95IM4ox_r_fRV1u6V7AnUjyOoVNy4KNdynNiNdGBmu77iNJ7M73YkJTPU20OJWVITbVD3WxnnNTRjzQ5QoQOrwFTFrXIFmohLRSdQ11UKMQKjk_X_V&gsessionid=dJgUWR0tDw3JgOcAb51DneVlqPsLPv8Hx_Vr1IaXYc6xm8zxkVK_uw"
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "title": "Best AI Video Editing Tools in 2026 (Don't Choose Wrong)",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXorzjxv-4XeIL4Um1HOlRpN0FAh8Hv1EFeEsX4F9gs8QjMUCqSXlLsF-3-rtvFwgsHBpC2O6ojd0x3wiimS7DScis8aR9q99f0YU8MxZ315EdoH_mma9JH_0m6XJf870HNKW_&gsessionid=dJgUWR0tDw3JgOcAb51DneVlqPsLPv8Hx_Vr1IaXYc6xm8zxkVK_uw",
+        "thumbnail": "https://serpapi.com/searches/6b02f2c6895c9c77f4509a76/images/wb055WiunGKSfrThcQXeK1mo-Pxiegi1FMdeSrc9W7c.jpg",
+        "channel": "Youri van Hofwegen",
+        "duration": "24:43",
+        "platform": "YouTube",
+        "date": "30 Oct 2025",
+        "snippet": "AI video editing tools like Opus Clip, Submagic, Vit, and Captions.ai offer fast content creation with features like auto-editing, B-roll, and repurposing.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSzK5IuXKtQ1sr7HngkVDI3geEDdEI606iVyw"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "What are the best AI video editing tools in 2026?",
+        "type": "ai_overview",
+        "page_token": "n5xE5HicHdBLTsJAAADQ6GFc0h9gICEmIy2TSsHOr3Q2ZDpTGJwpbaBYYOlZXHkQlx7AY3gCjcu3fW_vdrc33zcr3bbNcew4Xdf1tnW9tWVP1pUjjpe9dKSwthDSjIf3Q-9hIyfhsQOPdQdSisLcKptZe5F29EQII9jXQJmBFdgTxDJCwxgLT3os0h6rVJTARmewqecrhOUescTnFYeK01DpjPIOEwBy_wwyc35OYDxPpuzCIMeLCFSFrxP1wkDOko4EIBAmrrnbuiUx_p8zalkqjeeqq85FZq65OyDFii_wVHN6NZe0ahCtzie2T3EUaB_ThV65aordUbMkIEUMnHjY6mUUHWa7GOCw3yGiZijg_XJmCQq9UxE0MLEclnQEkVe3iY2HS6iDu418nQR3_2OT9aZqx82h3n7IQynaUq1F-2Vufz5_AXGLgBA",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=n5xE5HicHdBLTsJAAADQ6GFc0h9gICEmIy2TSsHOr3Q2ZDpTGJwpbaBYYOlZXHkQlx7AY3gCjcu3fW_vdrc33zcr3bbNcew4Xdf1tnW9tWVP1pUjjpe9dKSwthDSjIf3Q-9hIyfhsQOPdQdSisLcKptZe5F29EQII9jXQJmBFdgTxDJCwxgLT3os0h6rVJTARmewqecrhOUescTnFYeK01DpjPIOEwBy_wwyc35OYDxPpuzCIMeLCFSFrxP1wkDOko4EIBAmrrnbuiUx_p8zalkqjeeqq85FZq65OyDFii_wVHN6NZe0ahCtzie2T3EUaB_ThV65aordUbMkIEUMnHjY6mUUHWa7GOCw3yGiZijg_XJmCQq9UxE0MLEclnQEkVe3iY2HS6iDu418nQR3_2OT9aZqx82h3n7IQynaUq1F-2Vufz5_AXGLgBA",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGFIQnBTa0pxUlc4dGExSmFla2xrY2tWUWMwVkhVSFJsUjBSdVdIVnhUa0prTUdWalFsUlNRWEZsWmtGNmMyWTVRa1pOU1VZNFYwbE5lVmhHYjFkVk1VdFZiVFJCYm1OcmIzRXdPRmM1YjI5dmFrNUVRMWRYVG1GTGR4SVhlSFpKUTJGZlIwTkxUMms1TUZCRlVHNWtTMkU0VVdzYUlrRklUakJGTjBoaFdHbGtWbFJSUjNScFdXWTFWVGh0ZEZkRU4zQTBkMll3U2xFIiwiZmN2IjoiMyIsImVpIjoieHZJQ2FfR0NLT2k5MFBFUG5kS2E4UWsiLCJxYyI6IkNqUjBiM0FnTlNCaGFTQjBiMjlzY3lCbGRtVnllU0IyYVdSbGJ5QmxaR2wwYjNJZ2MyaHZkV3hrSUhWelpTQnBiaUF5TURJMkVBQjlJVjhkUHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBiZXN0IEFJIHZpZGVvIGVkaXRpbmcgdG9vbHMgaW4gMjAyNj8iLCJsayI6IkdpTmlaWE4wSUdGcElIWnBaR1Z2SUdWa2FYUnBibWNnZEc5dmJITWdhVzRnTWpBeU5nIiwiYnMiOiJjMzNRTVE3Q01Bd0ZVTEZtWXM1a1VSaUFwV1JnclJnUkI2aGdLOVFsa1ZDTUVrUEU3V2xhVVVDMDdNX2YzeFlIc2NwMXdWQTRCTllJUl9RTW15M2NUWWtFV0JvMjlneE1kUEZnTEtoVXJUTTFrMG5qQ3ZQUGliMVk5R2EzaWdsdUh0LWhTemtQUDdyZTBLZkZUaVM1TmljZDQ0eHZiVVh1b3c0NW42bXBuSVNHMVRtRFRKempENkxpeHhXQnF1NS0zNVN4RklBZDJqSmUyTlZWTWcxZlE2OW5EQS1OUjA4IiwiaWQiOiJmY194dklDYV9HQ0tPaTkwUEVQbmRLYThRa18xIn0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGFIQnBTa0pxUlc4dGExSmFla2xrY2tWUWMwVkhVSFJsUjBSdVdIVnhUa0prTUdWalFsUlNRWEZsWmtGNmMyWTVRa1pOU1VZNFYwbE5lVmhHYjFkVk1VdFZiVFJCYm1OcmIzRXdPRmM1YjI5dmFrNUVRMWRYVG1GTGR4SVhlSFpKUTJGZlIwTkxUMms1TUZCRlVHNWtTMkU0VVdzYUlrRklUakJGTjBoaFdHbGtWbFJSUjNScFdXWTFWVGh0ZEZkRU4zQTBkMll3U2xFIiwiZmN2IjoiMyIsImVpIjoieHZJQ2FfR0NLT2k5MFBFUG5kS2E4UWsiLCJxYyI6IkNqUjBiM0FnTlNCaGFTQjBiMjlzY3lCbGRtVnllU0IyYVdSbGJ5QmxaR2wwYjNJZ2MyaHZkV3hrSUhWelpTQnBiaUF5TURJMkVBQjlJVjhkUHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBiZXN0IEFJIHZpZGVvIGVkaXRpbmcgdG9vbHMgaW4gMjAyNj8iLCJsayI6IkdpTmlaWE4wSUdGcElIWnBaR1Z2SUdWa2FYUnBibWNnZEc5dmJITWdhVzRnTWpBeU5nIiwiYnMiOiJjMzNRTVE3Q01Bd0ZVTEZtWXM1a1VSaUFwV1JnclJnUkI2aGdLOVFsa1ZDTUVrUEU3V2xhVVVDMDdNX2YzeFlIc2NwMXdWQTRCTllJUl9RTW15M2NUWWtFV0JvMjlneE1kUEZnTEtoVXJUTTFrMG5qQ3ZQUGliMVk5R2EzaWdsdUh0LWhTemtQUDdyZTBLZkZUaVM1TmljZDQ0eHZiVVh1b3c0NW42bXBuSVNHMVRtRFRKempENkxpeHhXQnF1NS0zNVN4RklBZDJqSmUyTlZWTWcxZlE2OW5EQS1OUjA4IiwiaWQiOiJmY194dklDYV9HQ0tPaTkwUEVQbmRLYThRa18xIn0%3D"
+      },
+      {
+        "question": "What are the best AI tools to use in 2026?",
+        "type": "ai_overview",
+        "page_token": "UHEA9HicHZBLUsIwAEBHD-NSUtriyAzjDJqADE1N2yS0GyckQCGfVlsosvQsrjyISw_gMTyBjLu3eIs37_3DbJ3-uTiUbVs3w16v67rrTVVtzOpaVrYnmjcne1IYsxRSDwc3A-9uLUdw_zi-f3kcE5rA3CiT7zaeBCA4eySFLeSw8OcZOsWwBphDwA2KU4c9ilC9BEzk_ixM-6oUC_WQZWWiTmgnaZkyv1gUPt5lGiPqFE0sPsgsD6WrB4rdhswVU9EPp9geO2VMkOsGpKwkfGIG1CHH7HG75E1A-riJJmZPXAQEVIDb2TzdMaBYwaWVxxX3bMzqfcIDEPNwzHUS0FP-RhYoytmtg6UKlDYPZ54S0D6JTHcUMrK0yTw_94pjtSW0jCNI_cSpJ06jTpqiYf0CCzPzlNahmpSzzEdaUg-r7motDyP_6v_n6Hlt22H9Wm0-5etKtCv1LNpvffn79QdQf4r9",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=UHEA9HicHZBLUsIwAEBHD-NSUtriyAzjDJqADE1N2yS0GyckQCGfVlsosvQsrjyISw_gMTyBjLu3eIs37_3DbJ3-uTiUbVs3w16v67rrTVVtzOpaVrYnmjcne1IYsxRSDwc3A-9uLUdw_zi-f3kcE5rA3CiT7zaeBCA4eySFLeSw8OcZOsWwBphDwA2KU4c9ilC9BEzk_ixM-6oUC_WQZWWiTmgnaZkyv1gUPt5lGiPqFE0sPsgsD6WrB4rdhswVU9EPp9geO2VMkOsGpKwkfGIG1CHH7HG75E1A-riJJmZPXAQEVIDb2TzdMaBYwaWVxxX3bMzqfcIDEPNwzHUS0FP-RhYoytmtg6UKlDYPZ54S0D6JTHcUMrK0yTw_94pjtSW0jCNI_cSpJ06jTpqiYf0CCzPzlNahmpSzzEdaUg-r7motDyP_6v_n6Hlt22H9Wm0-5etKtCv1LNpvffn79QdQf4r9",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGFIQnBTa0pxUlc4dGExSmFla2xrY2tWUWMwVkhVSFJsUjBSdVdIVnhUa0prTUdWalFsUlNRWEZsWmtGNmMyWTVRa1pOU1VZNFYwbE5lVmhHYjFkVk1VdFZiVFJCYm1OcmIzRXdPRmM1YjI5dmFrNUVRMWRYVG1GTGR4SVhlSFpKUTJGZlIwTkxUMms1TUZCRlVHNWtTMkU0VVdzYUlrRklUakJGTjBoaFdHbGtWbFJSUjNScFdXWTFWVGh0ZEZkRU4zQTBkMll3U2xFIiwiZmN2IjoiMyIsImVpIjoieHZJQ2FfR0NLT2k5MFBFUG5kS2E4UWsiLCJxYyI6IkNqUjBiM0FnTlNCaGFTQjBiMjlzY3lCbGRtVnllU0IyYVdSbGJ5QmxaR2wwYjNJZ2MyaHZkV3hrSUhWelpTQnBiaUF5TURJMkVBQjlJVjhkUHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBiZXN0IEFJIHRvb2xzIHRvIHVzZSBpbiAyMDI2PyIsImxrIjoiYzVQU0xNOUlMRkZJTEVwVktNbElWVWhLTFFaeU1oVks4dk56aW9Ha1FtbHhxa0ptbm9LUmdaRVpBQSIsImJzIjoiYzMzUU1RN0NNQXdGVUxGbVlzNWtVUmlBcFdSZ3JSZ1JCNmhnSzlRbGtWQ01Fa1BFN1dsYVVVQzA3TV9mM3hZSHNjcDF3VkE0Qk5ZSVJfUU1teTNjVFlrRVdCbzI5Z3hNZFBGZ0xLaFVyVE0xazBuakN2UFBpYjFZOUdhM2lnbHVIdC1oU3prUFA3cmUwS2ZGVGlTNU5pY2Q0NHh2YlVYdW93NDVuNm1wbklTRzFUbURUSnpqRDZMaXh4V0JxdTUtMzVTeEZJQWQyakplMk5WVk1nMWZRNjluREEtTlIwOCIsImlkIjoiZmNfeHZJQ2FfR0NLT2k5MFBFUG5kS2E4UWtfMSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGFIQnBTa0pxUlc4dGExSmFla2xrY2tWUWMwVkhVSFJsUjBSdVdIVnhUa0prTUdWalFsUlNRWEZsWmtGNmMyWTVRa1pOU1VZNFYwbE5lVmhHYjFkVk1VdFZiVFJCYm1OcmIzRXdPRmM1YjI5dmFrNUVRMWRYVG1GTGR4SVhlSFpKUTJGZlIwTkxUMms1TUZCRlVHNWtTMkU0VVdzYUlrRklUakJGTjBoaFdHbGtWbFJSUjNScFdXWTFWVGh0ZEZkRU4zQTBkMll3U2xFIiwiZmN2IjoiMyIsImVpIjoieHZJQ2FfR0NLT2k5MFBFUG5kS2E4UWsiLCJxYyI6IkNqUjBiM0FnTlNCaGFTQjBiMjlzY3lCbGRtVnllU0IyYVdSbGJ5QmxaR2wwYjNJZ2MyaHZkV3hrSUhWelpTQnBiaUF5TURJMkVBQjlJVjhkUHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBiZXN0IEFJIHRvb2xzIHRvIHVzZSBpbiAyMDI2PyIsImxrIjoiYzVQU0xNOUlMRkZJTEVwVktNbElWVWhLTFFaeU1oVks4dk56aW9Ha1FtbHhxa0ptbm9LUmdaRVpBQSIsImJzIjoiYzMzUU1RN0NNQXdGVUxGbVlzNWtVUmlBcFdSZ3JSZ1JCNmhnSzlRbGtWQ01Fa1BFN1dsYVVVQzA3TV9mM3hZSHNjcDF3VkE0Qk5ZSVJfUU1teTNjVFlrRVdCbzI5Z3hNZFBGZ0xLaFVyVE0xazBuakN2UFBpYjFZOUdhM2lnbHVIdC1oU3prUFA3cmUwS2ZGVGlTNU5pY2Q0NHh2YlVYdW93NDVuNm1wbklTRzFUbURUSnpqRDZMaXh4V0JxdTUtMzVTeEZJQWQyakplMk5WVk1nMWZRNjluREEtTlIwOCIsImlkIjoiZmNfeHZJQ2FfR0NLT2k5MFBFUG5kS2E4UWtfMSJ9"
+      },
+      {
+        "question": "Which AI is best for video editors?",
+        "type": "ai_overview",
+        "page_token": "KkMqnnicHdBBctowFADQaQ-TZcAY0sIM0xm3VkiKHSRLsq1NRpYMwvqynaBg8LJn6aoH6bIH6DF6gna6fcv37TscW_v73dl4359Wk8kwDLeHrjtAfas6N5Gna6smSgJUUtnV3Ye74NNereO3h-jzy0OEGYlL0FACcgqiTPMe_7MLoyipLLgtN7xuCBCGQG1QL90ixq3eZcjQdOrDLCRFyR7neLZMeM6326JntIFMNDosRlRUbBmmhV1UI4w5RVTfm0A7dU3G6CjyJadUz8gogmTknbTG1DnzfLrYVQUvBVfXFEVPNIBRzz6ONerjBB4haVLLEYpkK7xyF8E25o06OJWN6fJWDCSGNjZ6ri18Kflyg6d-J6kdWMxx5ci2pIbIS3fEzDwlMQsJoIHl6VcdYF-34ixmds7uF5SzYU6y4IUHRGJ8s1fndXjz_3P9vHd-1b92hx_qtZa-1s_S_7Lv__z8C6-mjV4",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=KkMqnnicHdBBctowFADQaQ-TZcAY0sIM0xm3VkiKHSRLsq1NRpYMwvqynaBg8LJn6aoH6bIH6DF6gna6fcv37TscW_v73dl4359Wk8kwDLeHrjtAfas6N5Gna6smSgJUUtnV3Ye74NNereO3h-jzy0OEGYlL0FACcgqiTPMe_7MLoyipLLgtN7xuCBCGQG1QL90ixq3eZcjQdOrDLCRFyR7neLZMeM6326JntIFMNDosRlRUbBmmhV1UI4w5RVTfm0A7dU3G6CjyJadUz8gogmTknbTG1DnzfLrYVQUvBVfXFEVPNIBRzz6ONerjBB4haVLLEYpkK7xyF8E25o06OJWN6fJWDCSGNjZ6ri18Kflyg6d-J6kdWMxx5ci2pIbIS3fEzDwlMQsJoIHl6VcdYF-34ixmds7uF5SzYU6y4IUHRGJ8s1fndXjz_3P9vHd-1b92hx_qtZa-1s_S_7Lv__z8C6-mjV4",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGFIQnBTa0pxUlc4dGExSmFla2xrY2tWUWMwVkhVSFJsUjBSdVdIVnhUa0prTUdWalFsUlNRWEZsWmtGNmMyWTVRa1pOU1VZNFYwbE5lVmhHYjFkVk1VdFZiVFJCYm1OcmIzRXdPRmM1YjI5dmFrNUVRMWRYVG1GTGR4SVhlSFpKUTJGZlIwTkxUMms1TUZCRlVHNWtTMkU0VVdzYUlrRklUakJGTjBoaFdHbGtWbFJSUjNScFdXWTFWVGh0ZEZkRU4zQTBkMll3U2xFIiwiZmN2IjoiMyIsImVpIjoieHZJQ2FfR0NLT2k5MFBFUG5kS2E4UWsiLCJxYyI6IkNqUjBiM0FnTlNCaGFTQjBiMjlzY3lCbGRtVnllU0IyYVdSbGJ5QmxaR2wwYjNJZ2MyaHZkV3hrSUhWelpTQnBiaUF5TURJMkVBQjlJVjhkUHciLCJxdWVzdGlvbiI6IldoaWNoIEFJIGlzIGJlc3QgZm9yIHZpZGVvIGVkaXRvcnM/IiwibGsiOiJHaUozYUdsamFDQmhhU0JwY3lCaVpYTjBJR1p2Y2lCMmFXUmxieUJsWkdsMGIzSnoiLCJicyI6ImMzM1FNUTdDTUF3RlVMRm1ZczVrVVJpQXBXUmdyUmdSQjZoZ0s5UWxrVkNNRWtQRTdXbGFVVUMwN01fZjN4WUhzY3Axd1ZBNEJOWUlSX1FNbXkzY1RZa0VXQm8yOWd4TWRQRmdMS2hVclRNMWswbmpDdlBQaWIxWTlHYTNpZ2x1SHQtaFN6a1BQN3JlMEtmRlRpUzVOaWNkNDR4dmJVWHVvdzQ1bjZtcG5JU0cxVG1EVEp6akQ2TGl4eFdCcXU1LTM1U3hGSUFkMmpKZTJOVlZNZzFmUTY5bkRBLU5SMDgiLCJpZCI6ImZjX3h2SUNhX0dDS09pOTBQRVBuZEthOFFrXzEifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGFIQnBTa0pxUlc4dGExSmFla2xrY2tWUWMwVkhVSFJsUjBSdVdIVnhUa0prTUdWalFsUlNRWEZsWmtGNmMyWTVRa1pOU1VZNFYwbE5lVmhHYjFkVk1VdFZiVFJCYm1OcmIzRXdPRmM1YjI5dmFrNUVRMWRYVG1GTGR4SVhlSFpKUTJGZlIwTkxUMms1TUZCRlVHNWtTMkU0VVdzYUlrRklUakJGTjBoaFdHbGtWbFJSUjNScFdXWTFWVGh0ZEZkRU4zQTBkMll3U2xFIiwiZmN2IjoiMyIsImVpIjoieHZJQ2FfR0NLT2k5MFBFUG5kS2E4UWsiLCJxYyI6IkNqUjBiM0FnTlNCaGFTQjBiMjlzY3lCbGRtVnllU0IyYVdSbGJ5QmxaR2wwYjNJZ2MyaHZkV3hrSUhWelpTQnBiaUF5TURJMkVBQjlJVjhkUHciLCJxdWVzdGlvbiI6IldoaWNoIEFJIGlzIGJlc3QgZm9yIHZpZGVvIGVkaXRvcnM%2FIiwibGsiOiJHaUozYUdsamFDQmhhU0JwY3lCaVpYTjBJR1p2Y2lCMmFXUmxieUJsWkdsMGIzSnoiLCJicyI6ImMzM1FNUTdDTUF3RlVMRm1ZczVrVVJpQXBXUmdyUmdSQjZoZ0s5UWxrVkNNRWtQRTdXbGFVVUMwN01fZjN4WUhzY3Axd1ZBNEJOWUlSX1FNbXkzY1RZa0VXQm8yOWd4TWRQRmdMS2hVclRNMWswbmpDdlBQaWIxWTlHYTNpZ2x1SHQtaFN6a1BQN3JlMEtmRlRpUzVOaWNkNDR4dmJVWHVvdzQ1bjZtcG5JU0cxVG1EVEp6akQ2TGl4eFdCcXU1LTM1U3hGSUFkMmpKZTJOVlZNZzFmUTY5bkRBLU5SMDgiLCJpZCI6ImZjX3h2SUNhX0dDS09pOTBQRVBuZEthOFFrXzEifQ%3D%3D"
+      },
+      {
+        "question": "Which type of AI videos are now trending in 2026?",
+        "type": "ai_overview",
+        "page_token": "mWOcnXicHdBdbtowAABgrYfpY4ljwgYSmkSJabvaNIl_iF8qxw4EbCcRuA3jcUfoGfq0g-xxB9gxdoJK_Y7w_Xp3-9b--_LWhNCfZqPRMAw3u67bufpGd36kTj9bPdLKuUppO5t8nYDvWz1PX_Xi9qgXGcvT0hkn_A6oeAoLXw5MkAcK9NkgR4rYPAmXxTlckAIgJvxU5HGSMc5vFcexAikoWrRkvv_BqYS0lbmwyUVdmhNfBVcIALNoikSKnObfIrnRySbuEiGasVhJhONyzJE-qz04cItoZYHl3hDmDGSsGwrPoELoXolkITx3_GAeqxZBHPWZcGyo0sSSFR_XDGEMSUuhIbVtJoQ9ENpiuOb5QQGCKNJRzuULvmsOaWPGxrplyad3WRSeFLUDS3lW-fyxpE2uzt0-Y80apwwWKVrLVeLkhi8l7Df4IoNAOEieHyliZy1OgWXXW_06h9ef1_PnrQ-z_tjtfutjrUJtnlX4a6_-__kA6Y2SVg",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=mWOcnXicHdBdbtowAABgrYfpY4ljwgYSmkSJabvaNIl_iF8qxw4EbCcRuA3jcUfoGfq0g-xxB9gxdoJK_Y7w_Xp3-9b--_LWhNCfZqPRMAw3u67bufpGd36kTj9bPdLKuUppO5t8nYDvWz1PX_Xi9qgXGcvT0hkn_A6oeAoLXw5MkAcK9NkgR4rYPAmXxTlckAIgJvxU5HGSMc5vFcexAikoWrRkvv_BqYS0lbmwyUVdmhNfBVcIALNoikSKnObfIrnRySbuEiGasVhJhONyzJE-qz04cItoZYHl3hDmDGSsGwrPoELoXolkITx3_GAeqxZBHPWZcGyo0sSSFR_XDGEMSUuhIbVtJoQ9ENpiuOb5QQGCKNJRzuULvmsOaWPGxrplyad3WRSeFLUDS3lW-fyxpE2uzt0-Y80apwwWKVrLVeLkhi8l7Df4IoNAOEieHyliZy1OgWXXW_06h9ef1_PnrQ-z_tjtfutjrUJtnlX4a6_-__kA6Y2SVg",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGFIQnBTa0pxUlc4dGExSmFla2xrY2tWUWMwVkhVSFJsUjBSdVdIVnhUa0prTUdWalFsUlNRWEZsWmtGNmMyWTVRa1pOU1VZNFYwbE5lVmhHYjFkVk1VdFZiVFJCYm1OcmIzRXdPRmM1YjI5dmFrNUVRMWRYVG1GTGR4SVhlSFpKUTJGZlIwTkxUMms1TUZCRlVHNWtTMkU0VVdzYUlrRklUakJGTjBoaFdHbGtWbFJSUjNScFdXWTFWVGh0ZEZkRU4zQTBkMll3U2xFIiwiZmN2IjoiMyIsImVpIjoieHZJQ2FfR0NLT2k5MFBFUG5kS2E4UWsiLCJxYyI6IkNqUjBiM0FnTlNCaGFTQjBiMjlzY3lCbGRtVnllU0IyYVdSbGJ5QmxaR2wwYjNJZ2MyaHZkV3hrSUhWelpTQnBiaUF5TURJMkVBQjlJVjhkUHciLCJxdWVzdGlvbiI6IldoaWNoIHR5cGUgb2YgQUkgdmlkZW9zIGFyZSBub3cgdHJlbmRpbmcgaW4gMjAyNj8iLCJsayI6IkdqQjNhR2xqYUNCMGVYQmxJRzltSUdGcElIWnBaR1Z2Y3lCaGNtVWdibTkzSUhSeVpXNWthVzVuSUdsdUlESXdNalkiLCJicyI6ImMzM1FNUTdDTUF3RlVMRm1ZczVrVVJpQXBXUmdyUmdSQjZoZ0s5UWxrVkNNRWtQRTdXbGFVVUMwN01fZjN4WUhzY3Axd1ZBNEJOWUlSX1FNbXkzY1RZa0VXQm8yOWd4TWRQRmdMS2hVclRNMWswbmpDdlBQaWIxWTlHYTNpZ2x1SHQtaFN6a1BQN3JlMEtmRlRpUzVOaWNkNDR4dmJVWHVvdzQ1bjZtcG5JU0cxVG1EVEp6akQ2TGl4eFdCcXU1LTM1U3hGSUFkMmpKZTJOVlZNZzFmUTY5bkRBLU5SMDgiLCJpZCI6ImZjX3h2SUNhX0dDS09pOTBQRVBuZEthOFFrXzEifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGFIQnBTa0pxUlc4dGExSmFla2xrY2tWUWMwVkhVSFJsUjBSdVdIVnhUa0prTUdWalFsUlNRWEZsWmtGNmMyWTVRa1pOU1VZNFYwbE5lVmhHYjFkVk1VdFZiVFJCYm1OcmIzRXdPRmM1YjI5dmFrNUVRMWRYVG1GTGR4SVhlSFpKUTJGZlIwTkxUMms1TUZCRlVHNWtTMkU0VVdzYUlrRklUakJGTjBoaFdHbGtWbFJSUjNScFdXWTFWVGh0ZEZkRU4zQTBkMll3U2xFIiwiZmN2IjoiMyIsImVpIjoieHZJQ2FfR0NLT2k5MFBFUG5kS2E4UWsiLCJxYyI6IkNqUjBiM0FnTlNCaGFTQjBiMjlzY3lCbGRtVnllU0IyYVdSbGJ5QmxaR2wwYjNJZ2MyaHZkV3hrSUhWelpTQnBiaUF5TURJMkVBQjlJVjhkUHciLCJxdWVzdGlvbiI6IldoaWNoIHR5cGUgb2YgQUkgdmlkZW9zIGFyZSBub3cgdHJlbmRpbmcgaW4gMjAyNj8iLCJsayI6IkdqQjNhR2xqYUNCMGVYQmxJRzltSUdGcElIWnBaR1Z2Y3lCaGNtVWdibTkzSUhSeVpXNWthVzVuSUdsdUlESXdNalkiLCJicyI6ImMzM1FNUTdDTUF3RlVMRm1ZczVrVVJpQXBXUmdyUmdSQjZoZ0s5UWxrVkNNRWtQRTdXbGFVVUMwN01fZjN4WUhzY3Axd1ZBNEJOWUlSX1FNbXkzY1RZa0VXQm8yOWd4TWRQRmdMS2hVclRNMWswbmpDdlBQaWIxWTlHYTNpZ2x1SHQtaFN6a1BQN3JlMEtmRlRpUzVOaWNkNDR4dmJVWHVvdzQ1bjZtcG5JU0cxVG1EVEp6akQ2TGl4eFdCcXU1LTM1U3hGSUFkMmpKZTJOVlZNZzFmUTY5bkRBLU5SMDgiLCJpZCI6ImZjX3h2SUNhX0dDS09pOTBQRVBuZEthOFFrXzEifQ%3D%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "ID7NrXiczZbZkqpGGICrcp3XCDfOEUQddaqoU90tEtQZxXWcShXFJiDbDCDqucyz5CoPksvzAOcx8gRpthlwcJbcJF2lDd1__xv_x8_vf9ima_34-TcjDB-DG5I8HA513fN0W6srnkNKwclVyK1nB75ifA28va9ojGL4nqPVPZlIF0w1WyIMm9FcQrcZ0yVOEdMklIChCM1kjhGPJJFDo4nZo6bs1FVHUlewiEQ_I8pSoO2w-eMuIEUS_1m_NPv4ph7UNVfkYH3QMYGtjRtu26rTFN2sT0jJwTLgvx23APA6ni0A9LfkoPBRjYIBAAvQ-Xk2nQvr2DS2yQPEpzuX7M9jpfFJBOPbWNEEbHdTi8NXd7nUkn_HL1TyaZ25lU7WubsfGNnROILSwlujIolJXkYv9-h8r2pw5R246YP-oaD-VTgFA-nRZfx3AIPW9BYIgnDRUj6w6tEGUDZ4p05yj5a94TzEpyCp6rjKKVL28dQgTcVQkgs_iIsfLXqUx0WP4v3RhKflUH4MKdY1-mIjul_LQw6QiozlbE9SNVU0ROprct-gabrToTqtqwQ8JXgmLyiS53sBFbrd2y8hVR_XYSNnrhztebIEngdVxaRDPU9FeTwrmBXznKThTNIqWR5kswGgLmC1pU1hxI6LQhiXPs5XVy-mn332B73B3HkccXRepmCZLYFytQkbwM5fAigrmlSqjeMA4DxmncttDnLHD6lG_TVzM8ALSThZiksvR4jfEBAnWIjfFCN8PESpLN-K_eOzuhRYlmcBW12kiK0IB6CCJ_gcG0sdgM4Ca8-ziDezZRAbAbqe1gYU9Gc1ScjoNXWZMQQGRuXWhwb7kRdL6kUO2RkzJdbQaDc88dfbaBruuG3j2p-tzLHTnS33QjVbniN_rq0p_3sA86ZnZ5V_EcDY0ocAFIy3AKxqeimAyLoA4DwFEMGqpjfNpc6a3msAETALAGZN75hqrGh6nwcQvg9g8XEVAXx5VCUA2UsAcmwZwM2OzZteNYCZgRcA_23Tg59vegmHWjqVO-B-p1_uhLBzdCYHDhoRerijuJb8bbLqrmj9dvt-J9w64Y0jqfaVaKo3kB6GJ_VKxAvejaYST8zCe6y1a4CvhR7-GK5pkeafapGpal5NU83Q82uB4e1ttbYPtJrp1jDN14Rj-x5DSe2WOh_5_J3bGK_toRHem5EV0H5P8r_B7YYeW5NQPK0f5Hm0XByNO7o1kYarJ9qyW8uOolNd93rSpHpwc7ugo6ncQ9R6NuMHYS-IgLdW7hbu06xJjzsDahCNRTqy5n7jfqgF2qo_fVg5fYNC6qS7SbwJmFa784U3x2AhCQQOL9CYBuH4CoOffssFQyH-tpMAPIBhUq5w9oTnMa4R2YNA-HUDhL6Ofx5-UESgSKIWRIxy3W4qbYpSJGnb2WpbwtHD0yPTo4jA9ZnGn4qvSSHOuxR-t376-69_AJ5qhYM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ID7NrXiczZbZkqpGGICrcp3XCDfOEUQddaqoU90tEtQZxXWcShXFJiDbDCDqucyz5CoPksvzAOcx8gRpthlwcJbcJF2lDd1__xv_x8_vf9ima_34-TcjDB-DG5I8HA513fN0W6srnkNKwclVyK1nB75ifA28va9ojGL4nqPVPZlIF0w1WyIMm9FcQrcZ0yVOEdMklIChCM1kjhGPJJFDo4nZo6bs1FVHUlewiEQ_I8pSoO2w-eMuIEUS_1m_NPv4ph7UNVfkYH3QMYGtjRtu26rTFN2sT0jJwTLgvx23APA6ni0A9LfkoPBRjYIBAAvQ-Xk2nQvr2DS2yQPEpzuX7M9jpfFJBOPbWNEEbHdTi8NXd7nUkn_HL1TyaZ25lU7WubsfGNnROILSwlujIolJXkYv9-h8r2pw5R246YP-oaD-VTgFA-nRZfx3AIPW9BYIgnDRUj6w6tEGUDZ4p05yj5a94TzEpyCp6rjKKVL28dQgTcVQkgs_iIsfLXqUx0WP4v3RhKflUH4MKdY1-mIjul_LQw6QiozlbE9SNVU0ROprct-gabrToTqtqwQ8JXgmLyiS53sBFbrd2y8hVR_XYSNnrhztebIEngdVxaRDPU9FeTwrmBXznKThTNIqWR5kswGgLmC1pU1hxI6LQhiXPs5XVy-mn332B73B3HkccXRepmCZLYFytQkbwM5fAigrmlSqjeMA4DxmncttDnLHD6lG_TVzM8ALSThZiksvR4jfEBAnWIjfFCN8PESpLN-K_eOzuhRYlmcBW12kiK0IB6CCJ_gcG0sdgM4Ca8-ziDezZRAbAbqe1gYU9Gc1ScjoNXWZMQQGRuXWhwb7kRdL6kUO2RkzJdbQaDc88dfbaBruuG3j2p-tzLHTnS33QjVbniN_rq0p_3sA86ZnZ5V_EcDY0ocAFIy3AKxqeimAyLoA4DwFEMGqpjfNpc6a3msAETALAGZN75hqrGh6nwcQvg9g8XEVAXx5VCUA2UsAcmwZwM2OzZteNYCZgRcA_23Tg59vegmHWjqVO-B-p1_uhLBzdCYHDhoRerijuJb8bbLqrmj9dvt-J9w64Y0jqfaVaKo3kB6GJ_VKxAvejaYST8zCe6y1a4CvhR7-GK5pkeafapGpal5NU83Q82uB4e1ttbYPtJrp1jDN14Rj-x5DSe2WOh_5_J3bGK_toRHem5EV0H5P8r_B7YYeW5NQPK0f5Hm0XByNO7o1kYarJ9qyW8uOolNd93rSpHpwc7ugo6ncQ9R6NuMHYS-IgLdW7hbu06xJjzsDahCNRTqy5n7jfqgF2qo_fVg5fYNC6qS7SbwJmFa784U3x2AhCQQOL9CYBuH4CoOffssFQyH-tpMAPIBhUq5w9oTnMa4R2YNA-HUDhL6Ofx5-UESgSKIWRIxy3W4qbYpSJGnb2WpbwtHD0yPTo4jA9ZnGn4qvSSHOuxR-t376-69_AJ5qhYM"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "The 11 Best AI Video Editors in 2026, Tried and Tested",
+        "link": "https://buffer.com/resources/ai-video-tools/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHEIkXXnJdrMZ5rP0akckJZY1wbb8Qv4JYgAHRx5IqwhgRFgfaY98FHF-k537yVpVSlYTFmMRZ5ilI7T7shexSkt264Gx-cvgEEMC29tVQYY4TmQwme47vAtxxeBqhWnlN1MZb5BVc3bA&ved=2ahUKEwjx_d7n25uYAxXoHjQIHR2pJp4QFnoECBcQAQ&uoh=1",
+        "displayed_link": "https://buffer.com \u203a resources \u203a ai-video-tools",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEX____19vh_g6CPkqv7_P0AAFQAC1sABVoAAFmdoLWVmLAQHmETIGKhpLi8vs0AAFAAAFbExtMzPHELG2A5QXQpM2y4usodKWfi4-qws8QlMGtrcJIAAFF4fZzq6_AAEl1obZEAFV5eY4ra2-RUWoTOz9pGTXzzPpYMAAAAvUlEQVR4AcXSBQ6DQAAEQNzlFHf7_xO7pIqlcRbbMDin3B1V040LMnTTsh33jA3Psfwg8B3bPZjr2KA14HBDUUye9GQSR79KGeFv46agyjaRfDInDHRIkhLOiTyhLMMq50X07Bsqq6punr1BL7Mttm2lqaA6RtsguKt6i-iauVJzvOsABnWgk4xTVXXZcT-VYsZmHtfOGN19vt5cwCBh9qSK9h--N6dxXsx---GfwS_rCQG51z_bM_4Pk9vyAGKhDq_1MF5_AAAAAElFTkSuQmCC.png",
+        "date": "10 Nov 2026",
+        "snippet": "AI-enabled editors are regular video editors that have AI features. These are your Capcuts, Adobe Expresses, and Veeds. You're still the one ...",
+        "snippet_highlighted_words": [
+          "Capcuts, Adobe Expresses, and Veeds"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "AI-enabled editors are regular video editors that have AI features. These are your Capcuts, Adobe Expresses, and Veeds. You're still the one ...",
+            "source_info_link": "https://buffer.com/resources/ai-video-tools/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEX____19vh_g6CPkqv7_P0AAFQAC1sABVoAAFmdoLWVmLAQHmETIGKhpLi8vs0AAFAAAFbExtMzPHELG2A5QXQpM2y4usodKWfi4-qws8QlMGtrcJIAAFF4fZzq6_AAEl1obZEAFV5eY4ra2-RUWoTOz9pGTXzzPpYMAAAAvUlEQVR4AcXSBQ6DQAAEQNzlFHf7_xO7pIqlcRbbMDin3B1V040LMnTTsh33jA3Psfwg8B3bPZjr2KA14HBDUUye9GQSR79KGeFv46agyjaRfDInDHRIkhLOiTyhLMMq50X07Bsqq6punr1BL7Mttm2lqaA6RtsguKt6i-iauVJzvOsABnWgk4xTVXXZcT-VYsZmHtfOGN19vt5cwCBh9qSK9h--N6dxXsx---GfwS_rCQG51z_bM_4Pk9vyAGKhDq_1MF5_AAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhFSWtYWHpfN0FWd21BUmVkSWRuRUVuU1RpeVZWR3VkMHBDbkVsSWZQMWRKNjdtRUNGYVNnMTVlb1BRVVctQW45aUpzamFCZFRKSXV1ZWJmazRBTEpJUXpxR0ZnOGRnRnBhOWxYTzZ5b084czVocWVkUW16ejRuWFREUGR6dW5nVUo5S0V1TUpOcTBnEgQaAggAGrMHEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAjQcIABAAGAAgAColCgN0b3AVaaUIPxoEYmVzdBoEZ29vZBoHbGVhZGluZxoEdG9wNSojCgE1FWsn-DwaAzVhaRoDNXRoGgRmaXZlGgN0YWkaBHRvcDUqNQoCYWkVln_WQBoDNWFpGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoDdGFpGgdhaXRvb2xzKhsKBXRvb2xzFRKTXEAaBHRvb2waB2FpdG9vbHMqLQoFZXZlcnkVIY2KPxoDYWxsGgNhbnkaBGVhY2gaA3BlchoKZXZlcnl2aWRlbyotCgV2aWRlbxXGu7RAGgZ2aWRlb3MaCmV2ZXJ5dmlkZW8aC3ZpZGVvZWRpdG9yKjIKBmVkaXRvchXLEABAGgRlZGl0GgdlZGl0aW5nGgdlZGl0b3JzGgt2aWRlb2VkaXRvcio7CgZzaG91bGQVq9RZPRoFY291bGQaBG11c3QaB25lZWQgdG8aBHdpbGwaBXdvdWxkGglzaG91bGR1c2UqPQoDdXNlFQMg2T8aBHRha2UaBXVzYWdlGgR1c2VkGgR1c2VzGgd1dGlsaXplGgR3ZWFyGglzaG91bGR1c2UqCQoCaW4VAAAAACokCgQyMDI2FRQ0hkAaDGdtO2RhdGU7MjAyNhoJaXY7bjsyMDI2MpwBL2dvdG8_dXJsPUNBRVNhUUhFSWtYWHpfN0FWd21BUmVkSWRuRUVuU1RpeVZWR3VkMHBDbkVsSWZQMWRKNjdtRUNGYVNnMTVlb1BRVVctQW45aUpzamFCZFRKSXV1ZWJmazRBTEpJUXpxR0ZnOGRnRnBhOWxYTzZ5b084czVocWVkUW16ejRuWFREUGR6dW5nVUo5S0V1TUpOcTBnOk1UaGUgMTEgPGI-QmVzdCBBSSBWaWRlbyBFZGl0b3JzPC9iPiBpbiA8Yj4yMDI2PC9iPiwgVHJpZWQgYW5kIFRlc3RlZCAtIEJ1ZmZlckKgAUFJLWVuYWJsZWQgZWRpdG9ycyBhcmUgcmVndWxhciB2aWRlbyBlZGl0b3JzIHRoYXQgaGF2ZSBBSSBmZWF0dXJlcy4gVGhlc2UgYXJlIHlvdXIgPGI-Q2FwY3V0cywgQWRvYmUgRXhwcmVzc2VzLCBhbmQgVmVlZHM8L2I-LiBZb3UmIzM5O3JlIHN0aWxsIHRoZSBvbmUmbmJzcDsuLi5KAmluUgNhbGxSBGJlc3RSBHdpbGwiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhFSWtYWHpfN0FWd21BUmVkSWRuRUVuU1RpeVZWR3VkMHBDbkVsSWZQMWRKNjdtRUNGYVNnMTVlb1BRVVctQW45aUpzamFCZFRKSXV1ZWJmazRBTEpJUXpxR0ZnOGRnRnBhOWxYTzZ5b084czVocWVkUW16ejRuWFREUGR6dW5nVUo5S0V1TUpOcTBnEgQaAggAGrMHEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAjQcIABAAGAAgAColCgN0b3AVaaUIPxoEYmVzdBoEZ29vZBoHbGVhZGluZxoEdG9wNSojCgE1FWsn-DwaAzVhaRoDNXRoGgRmaXZlGgN0YWkaBHRvcDUqNQoCYWkVln_WQBoDNWFpGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoDdGFpGgdhaXRvb2xzKhsKBXRvb2xzFRKTXEAaBHRvb2waB2FpdG9vbHMqLQoFZXZlcnkVIY2KPxoDYWxsGgNhbnkaBGVhY2gaA3BlchoKZXZlcnl2aWRlbyotCgV2aWRlbxXGu7RAGgZ2aWRlb3MaCmV2ZXJ5dmlkZW8aC3ZpZGVvZWRpdG9yKjIKBmVkaXRvchXLEABAGgRlZGl0GgdlZGl0aW5nGgdlZGl0b3JzGgt2aWRlb2VkaXRvcio7CgZzaG91bGQVq9RZPRoFY291bGQaBG11c3QaB25lZWQgdG8aBHdpbGwaBXdvdWxkGglzaG91bGR1c2UqPQoDdXNlFQMg2T8aBHRha2UaBXVzYWdlGgR1c2VkGgR1c2VzGgd1dGlsaXplGgR3ZWFyGglzaG91bGR1c2UqCQoCaW4VAAAAACokCgQyMDI2FRQ0hkAaDGdtO2RhdGU7MjAyNhoJaXY7bjsyMDI2MpwBL2dvdG8_dXJsPUNBRVNhUUhFSWtYWHpfN0FWd21BUmVkSWRuRUVuU1RpeVZWR3VkMHBDbkVsSWZQMWRKNjdtRUNGYVNnMTVlb1BRVVctQW45aUpzamFCZFRKSXV1ZWJmazRBTEpJUXpxR0ZnOGRnRnBhOWxYTzZ5b084czVocWVkUW16ejRuWFREUGR6dW5nVUo5S0V1TUpOcTBnOk1UaGUgMTEgPGI-QmVzdCBBSSBWaWRlbyBFZGl0b3JzPC9iPiBpbiA8Yj4yMDI2PC9iPiwgVHJpZWQgYW5kIFRlc3RlZCAtIEJ1ZmZlckKgAUFJLWVuYWJsZWQgZWRpdG9ycyBhcmUgcmVndWxhciB2aWRlbyBlZGl0b3JzIHRoYXQgaGF2ZSBBSSBmZWF0dXJlcy4gVGhlc2UgYXJlIHlvdXIgPGI-Q2FwY3V0cywgQWRvYmUgRXhwcmVzc2VzLCBhbmQgVmVlZHM8L2I-LiBZb3UmIzM5O3JlIHN0aWxsIHRoZSBvbmUmbmJzcDsuLi5KAmluUgNhbGxSBGJlc3RSBHdpbGwiAhABSABYAGgA",
+        "source": "Buffer",
+        "read_more_link": "https://www.google.com/goto?url=CAESxQEBxCJF1yE9VQfneKCfYDyzUE4pGg8ncOzqVQDrla1mwIf4HIPKQEr8PJCgqbZpjoCZSBYVejubk2D3FxV5NRgYyQwdgQvhGyemBoVr7komRgZD4Rtz4haTN9M6bG8ZDIQn8AT0DOSbMsGaot0BFcbfp1FWkgm_Ft0I34R5LAZBVpwJMnF43qcP57YOmv4EIKrluVQdbmuf3F0JziD4AHDt6ty3DFjDCMuV7lgR31EyMY5YHXs76bV7G20Ip2iQvOO8lGJMnw&gsessionid=dJgUWR0tDw3JgOcAb51DneVlqPsLPv8Hx_Vr1IaXYc6xm8zxkVK_uw"
+      },
+      {
+        "position": 2,
+        "title": "AI Video Editing Tools: The Complete Guide (2026)",
+        "link": "https://www.google.com/goto?url=CAEScwHEIkXXeou7-_sDEQwLrBlcjPzx6v0CVDhpJgNzh5vYwfthXsrHFniu9Xp9exZA0kvlOv45JwwxVPXQ6Yo87xelSalB5kAE0l0kWfvcIonRrJV4iCYd-Medb1KWsX26_btJaEkzNQtD7-N2ao8DzMFsInI",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHEIkXXzAHn5VqM5SfQZ3JkAjc7z_MF9UHJBvHQv6KvvluqvuwZn0F51umXQHYskBIgkhUIO6hibp11TvJD4G3mAmdjCISEACLuui-WEdxBLEnadenjB4ZAWlW-P_OQ1ZslsHZZa07PWrf_Dtya263VU8g&ved=2ahUKEwjx_d7n25uYAxXoHjQIHR2pJp4QFnoECBwQAQ&uoh=1",
+        "displayed_link": "https://gregpreece.com \u203a Articles",
+        "favicon": "https://serpapi.com/searches/6b02f2c6895c9c77f4509a76/images/Y1kw51iE3SHDozmDaLNQRCkOYzDZH2ub3RtoVfOGUlE.jpg",
+        "date": "18 Jul 2026",
+        "snippet": "The AI video editing tools I use each week: Descript for transcript edits, Kling O1 for real footage, plus tools for B-roll and audio.",
+        "snippet_highlighted_words": [
+          "Descript for transcript edits"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The AI video editing tools I use each week: Descript for transcript edits, Kling O1 for real footage, plus tools for B-roll and audio.",
+            "source_info_link": "https://www.google.com/goto?url=CAEScwHEIkXXeou7-_sDEQwLrBlcjPzx6v0CVDhpJgNzh5vYwfthXsrHFniu9Xp9exZA0kvlOv45JwwxVPXQ6Yo87xelSalB5kAE0l0kWfvcIonRrJV4iCYd-Medb1KWsX26_btJaEkzNQtD7-N2ao8DzMFsInI",
+            "icon": "https://serpapi.com/searches/6b02f2c6895c9c77f4509a76/images/Y1kw51iE3SHDozmDaLNQRPFs4QsfreQhki4P41_bLIYpBC1DtWz2gaGZA2fxS2TM.jpg"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqkBL2dvdG8_dXJsPUNBRVNjd0hFSWtYWGVvdTctX3NERVF3THJCbGNqUHp4NnYwQ1ZEaHBKZ056aDV2WXdmdGhYc3JIRm5pdTlYcDlleFpBMGt2bE92NDVKd3d4VlBYUTZZbzg3eGVsU2FsQjVrQUUwbDBrV2Z2Y0lvblJySlY0aUNZZC1NZWRiMUtXc1gyNl9idEphRWt6TlF0RDctTjJhbzhEek1Gc0luSRIEGgIIABqdBxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkD5BggAEAAYACAAKiUKA3RvcBUAAAAAGgRiZXN0GgRnb29kGgdsZWFkaW5nGgR0b3A1KiMKATUVh5GNPxoDNWFpGgM1dGgaBGZpdmUaA3RhaRoEdG9wNSo1CgJhaRVYDP9AGgM1YWkaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgN0YWkaB2FpdG9vbHMqGwoFdG9vbHMVAJLvQBoEdG9vbBoHYWl0b29scyotCgVldmVyeRUhyidAGgNhbGwaA2FueRoEZWFjaBoDcGVyGgpldmVyeXZpZGVvKi0KBXZpZGVvFWTJ90AaBnZpZGVvcxoKZXZlcnl2aWRlbxoLdmlkZW9lZGl0b3IqMgoGZWRpdG9yFYCiH0AaBGVkaXQaB2VkaXRpbmcaB2VkaXRvcnMaC3ZpZGVvZWRpdG9yKjsKBnNob3VsZBUa5B8_GgVjb3VsZBoEbXVzdBoHbmVlZCB0bxoEd2lsbBoFd291bGQaCXNob3VsZHVzZSo9CgN1c2UVELCcPxoEdGFrZRoFdXNhZ2UaBHVzZWQaBHVzZXMaB3V0aWxpemUaBHdlYXIaCXNob3VsZHVzZSoJCgJpbhUAAAAAKiQKBDIwMjYV7AfHQBoMZ207ZGF0ZTsyMDI2GglpdjtuOzIwMjYyqQEvZ290bz91cmw9Q0FFU2N3SEVJa1hYZW91Ny1fc0RFUXdMckJsY2pQeng2djBDVkRocEpnTnpoNXZZd2Z0aFhzckhGbml1OVhwOWV4WkEwa3ZsT3Y0NUp3d3hWUFhRNllvODd4ZWxTYWxCNWtBRTBsMGtXZnZjSW9uUnJKVjRpQ1lkLU1lZGIxS1dzWDI2X2J0SmFFa3pOUXRENy1OMmFvOER6TUZzSW5JOj88Yj5BSSBWaWRlbyBFZGl0aW5nIFRvb2xzPC9iPjogVGhlIENvbXBsZXRlIEd1aWRlICg8Yj4yMDI2PC9iPilCjQFUaGUgQUkgdmlkZW8gZWRpdGluZyB0b29scyBJIHVzZSBlYWNoIHdlZWs6IDxiPkRlc2NyaXB0IGZvciB0cmFuc2NyaXB0IGVkaXRzPC9iPiwgS2xpbmcgTzEgZm9yIHJlYWwgZm9vdGFnZSwgcGx1cyB0b29scyBmb3IgQi1yb2xsIGFuZCBhdWRpby5KAmluUgNhbGxSBGJlc3RSBHdpbGwiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqkBL2dvdG8_dXJsPUNBRVNjd0hFSWtYWGVvdTctX3NERVF3THJCbGNqUHp4NnYwQ1ZEaHBKZ056aDV2WXdmdGhYc3JIRm5pdTlYcDlleFpBMGt2bE92NDVKd3d4VlBYUTZZbzg3eGVsU2FsQjVrQUUwbDBrV2Z2Y0lvblJySlY0aUNZZC1NZWRiMUtXc1gyNl9idEphRWt6TlF0RDctTjJhbzhEek1Gc0luSRIEGgIIABqdBxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkD5BggAEAAYACAAKiUKA3RvcBUAAAAAGgRiZXN0GgRnb29kGgdsZWFkaW5nGgR0b3A1KiMKATUVh5GNPxoDNWFpGgM1dGgaBGZpdmUaA3RhaRoEdG9wNSo1CgJhaRVYDP9AGgM1YWkaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgN0YWkaB2FpdG9vbHMqGwoFdG9vbHMVAJLvQBoEdG9vbBoHYWl0b29scyotCgVldmVyeRUhyidAGgNhbGwaA2FueRoEZWFjaBoDcGVyGgpldmVyeXZpZGVvKi0KBXZpZGVvFWTJ90AaBnZpZGVvcxoKZXZlcnl2aWRlbxoLdmlkZW9lZGl0b3IqMgoGZWRpdG9yFYCiH0AaBGVkaXQaB2VkaXRpbmcaB2VkaXRvcnMaC3ZpZGVvZWRpdG9yKjsKBnNob3VsZBUa5B8_GgVjb3VsZBoEbXVzdBoHbmVlZCB0bxoEd2lsbBoFd291bGQaCXNob3VsZHVzZSo9CgN1c2UVELCcPxoEdGFrZRoFdXNhZ2UaBHVzZWQaBHVzZXMaB3V0aWxpemUaBHdlYXIaCXNob3VsZHVzZSoJCgJpbhUAAAAAKiQKBDIwMjYV7AfHQBoMZ207ZGF0ZTsyMDI2GglpdjtuOzIwMjYyqQEvZ290bz91cmw9Q0FFU2N3SEVJa1hYZW91Ny1fc0RFUXdMckJsY2pQeng2djBDVkRocEpnTnpoNXZZd2Z0aFhzckhGbml1OVhwOWV4WkEwa3ZsT3Y0NUp3d3hWUFhRNllvODd4ZWxTYWxCNWtBRTBsMGtXZnZjSW9uUnJKVjRpQ1lkLU1lZGIxS1dzWDI2X2J0SmFFa3pOUXRENy1OMmFvOER6TUZzSW5JOj88Yj5BSSBWaWRlbyBFZGl0aW5nIFRvb2xzPC9iPjogVGhlIENvbXBsZXRlIEd1aWRlICg8Yj4yMDI2PC9iPilCjQFUaGUgQUkgdmlkZW8gZWRpdGluZyB0b29scyBJIHVzZSBlYWNoIHdlZWs6IDxiPkRlc2NyaXB0IGZvciB0cmFuc2NyaXB0IGVkaXRzPC9iPiwgS2xpbmcgTzEgZm9yIHJlYWwgZm9vdGFnZSwgcGx1cyB0b29scyBmb3IgQi1yb2xsIGFuZCBhdWRpby5KAmluUgNhbGxSBGJlc3RSBHdpbGwiAhABSABYAGgA",
+        "source": "gregpreece.com"
+      },
+      {
+        "position": 3,
+        "title": "The 12 Best AI Tools for Video Editors in 2026 (Tested ...",
+        "link": "https://www.google.com/goto?url=CAESdwHEIkXXrVVEj2JPktxTJ1GZTntA4xehw23-O52hYaZsrlcvnb-LYXGAsI7iAIwHvOs7CsrOJIyylDHMNgP2YsqBmXd_hqiOxLs2ED2D_xXZl0nLHp4rFawJMnZj1xYUVewKiC-w4rp4Tqy1Vbw2wB2JMVYrMXt4",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHEIkXXfHOnZuv_yJO6Rs6RfPXY_7_tcC8sCxi8uPfijBSW5FH6A2VsTbX16N6DpqCOdo4SVuzwPUtpfyl0euUDS8o2YbXt_qelovzLIMMLpsGeLZGiFclKo4c9njWn8uwsFgIffUoEwbqNZxS2l7Wv9hhv4Sv5&ved=2ahUKEwjx_d7n25uYAxXoHjQIHR2pJp4QFnoECBoQAQ&uoh=1",
+        "displayed_link": "https://storyflow.so \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAAe0lEQVR4AWP4TwCMTAVf8irwK0hhYGjFq4BBhFcDl4LbeXWP_zMIcLj9f1yXdxuLAgYguL6CgeHgdRALiwIBXhGg7nPX_7sB7RHAogCkMQXqUIZz2Bz5Zf16CGP9-i__CSog2QqEI2-DHclL0JtkBBQiqAlGFlnRPZovANWKpbPVYGVPAAAAAElFTkSuQmCC.png",
+        "date": "10 May 2026",
+        "snippet": "The best AI tools for video editors in 2026 are Storyflow, Adobe Premiere Pro with Sensei, and Descript. Best Free: DaVinci Resolve (Free).",
+        "snippet_highlighted_words": [
+          "Storyflow"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The best AI tools for video editors in 2026 are Storyflow, Adobe Premiere Pro with Sensei, and Descript. Best Free: DaVinci Resolve (Free).",
+            "source_info_link": "https://www.google.com/goto?url=CAESdwHEIkXXrVVEj2JPktxTJ1GZTntA4xehw23-O52hYaZsrlcvnb-LYXGAsI7iAIwHvOs7CsrOJIyylDHMNgP2YsqBmXd_hqiOxLs2ED2D_xXZl0nLHp4rFawJMnZj1xYUVewKiC-w4rp4Tqy1Vbw2wB2JMVYrMXt4",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAAe0lEQVR4AWP4TwCMTAVf8irwK0hhYGjFq4BBhFcDl4LbeXWP_zMIcLj9f1yXdxuLAgYguL6CgeHgdRALiwIBXhGg7nPX_7sB7RHAogCkMQXqUIZz2Bz5Zf16CGP9-i__CSog2QqEI2-DHclL0JtkBBQiqAlGFlnRPZovANWKpbPVYGVPAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq4BL2dvdG8_dXJsPUNBRVNkd0hFSWtYWHJWVkVqMkpQa3R4VEoxR1pUbnRBNHhlaHcyMy1PNTJoWWFac3JsY3ZuYi1MWVhHQXNJN2lBSXdIdk9zN0Nzck9KSXl5bERITU5nUDJZc3FCbVhkX2hxaU94THMyRUQyRF94WFpsMG5MSHA0ckZhd0pNblpqMXhZVVZld0tpQy13NHJwNFRxeTFWYncyd0IySk1WWXJNWHQ0EgQaAggAGr0HEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAlwcIABAAGAAgAColCgN0b3AVI4BKPhoEYmVzdBoEZ29vZBoHbGVhZGluZxoEdG9wNSojCgE1FWW39z4aAzVhaRoDNXRoGgRmaXZlGgN0YWkaBHRvcDUqNQoCYWkV2pYDQRoDNWFpGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoDdGFpGgdhaXRvb2xzKhsKBXRvb2xzFV1JzEAaBHRvb2waB2FpdG9vbHMqLQoFZXZlcnkV5UGBPxoDYWxsGgNhbnkaBGVhY2gaA3BlchoKZXZlcnl2aWRlbyotCgV2aWRlbxXIp-1AGgZ2aWRlb3MaCmV2ZXJ5dmlkZW8aC3ZpZGVvZWRpdG9yKjIKBmVkaXRvchV-TANAGgRlZGl0GgdlZGl0aW5nGgdlZGl0b3JzGgt2aWRlb2VkaXRvcio7CgZzaG91bGQV_yoYPxoFY291bGQaBG11c3QaB25lZWQgdG8aBHdpbGwaBXdvdWxkGglzaG91bGR1c2UqPQoDdXNlFZv8pj8aBHRha2UaBXVzYWdlGgR1c2VkGgR1c2VzGgd1dGlsaXplGgR3ZWFyGglzaG91bGR1c2UqCQoCaW4VAAAAACokCgQyMDI2FRpO1UAaDGdtO2RhdGU7MjAyNhoJaXY7bjsyMDI2Mq4BL2dvdG8_dXJsPUNBRVNkd0hFSWtYWHJWVkVqMkpQa3R4VEoxR1pUbnRBNHhlaHcyMy1PNTJoWWFac3JsY3ZuYi1MWVhHQXNJN2lBSXdIdk9zN0Nzck9KSXl5bERITU5nUDJZc3FCbVhkX2hxaU94THMyRUQyRF94WFpsMG5MSHA0ckZhd0pNblpqMXhZVVZld0tpQy13NHJwNFRxeTFWYncyd0IySk1WWXJNWHQ0OlNUaGUgMTIgPGI-QmVzdCBBSSBUb29sczwvYj4gZm9yIDxiPlZpZGVvIEVkaXRvcnM8L2I-IGluIDxiPjIwMjY8L2I-IC4uLiAtIFN0b3J5Zmxvd0KSAVRoZSBiZXN0IEFJIHRvb2xzIGZvciB2aWRlbyBlZGl0b3JzIGluIDIwMjYgYXJlIDxiPlN0b3J5ZmxvdzwvYj4sIEFkb2JlIFByZW1pZXJlIFBybyB3aXRoIFNlbnNlaSwgYW5kIERlc2NyaXB0LiBCZXN0IEZyZWU6IERhVmluY2kgUmVzb2x2ZSAoRnJlZSkuSgJpblIEd2lsbFIEYmVzdFIDYWxsIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq4BL2dvdG8_dXJsPUNBRVNkd0hFSWtYWHJWVkVqMkpQa3R4VEoxR1pUbnRBNHhlaHcyMy1PNTJoWWFac3JsY3ZuYi1MWVhHQXNJN2lBSXdIdk9zN0Nzck9KSXl5bERITU5nUDJZc3FCbVhkX2hxaU94THMyRUQyRF94WFpsMG5MSHA0ckZhd0pNblpqMXhZVVZld0tpQy13NHJwNFRxeTFWYncyd0IySk1WWXJNWHQ0EgQaAggAGr0HEgIIABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAlwcIABAAGAAgAColCgN0b3AVI4BKPhoEYmVzdBoEZ29vZBoHbGVhZGluZxoEdG9wNSojCgE1FWW39z4aAzVhaRoDNXRoGgRmaXZlGgN0YWkaBHRvcDUqNQoCYWkV2pYDQRoDNWFpGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoDdGFpGgdhaXRvb2xzKhsKBXRvb2xzFV1JzEAaBHRvb2waB2FpdG9vbHMqLQoFZXZlcnkV5UGBPxoDYWxsGgNhbnkaBGVhY2gaA3BlchoKZXZlcnl2aWRlbyotCgV2aWRlbxXIp-1AGgZ2aWRlb3MaCmV2ZXJ5dmlkZW8aC3ZpZGVvZWRpdG9yKjIKBmVkaXRvchV-TANAGgRlZGl0GgdlZGl0aW5nGgdlZGl0b3JzGgt2aWRlb2VkaXRvcio7CgZzaG91bGQV_yoYPxoFY291bGQaBG11c3QaB25lZWQgdG8aBHdpbGwaBXdvdWxkGglzaG91bGR1c2UqPQoDdXNlFZv8pj8aBHRha2UaBXVzYWdlGgR1c2VkGgR1c2VzGgd1dGlsaXplGgR3ZWFyGglzaG91bGR1c2UqCQoCaW4VAAAAACokCgQyMDI2FRpO1UAaDGdtO2RhdGU7MjAyNhoJaXY7bjsyMDI2Mq4BL2dvdG8_dXJsPUNBRVNkd0hFSWtYWHJWVkVqMkpQa3R4VEoxR1pUbnRBNHhlaHcyMy1PNTJoWWFac3JsY3ZuYi1MWVhHQXNJN2lBSXdIdk9zN0Nzck9KSXl5bERITU5nUDJZc3FCbVhkX2hxaU94THMyRUQyRF94WFpsMG5MSHA0ckZhd0pNblpqMXhZVVZld0tpQy13NHJwNFRxeTFWYncyd0IySk1WWXJNWHQ0OlNUaGUgMTIgPGI-QmVzdCBBSSBUb29sczwvYj4gZm9yIDxiPlZpZGVvIEVkaXRvcnM8L2I-IGluIDxiPjIwMjY8L2I-IC4uLiAtIFN0b3J5Zmxvd0KSAVRoZSBiZXN0IEFJIHRvb2xzIGZvciB2aWRlbyBlZGl0b3JzIGluIDIwMjYgYXJlIDxiPlN0b3J5ZmxvdzwvYj4sIEFkb2JlIFByZW1pZXJlIFBybyB3aXRoIFNlbnNlaSwgYW5kIERlc2NyaXB0LiBCZXN0IEZyZWU6IERhVmluY2kgUmVzb2x2ZSAoRnJlZSkuSgJpblIEd2lsbFIEYmVzdFIDYWxsIgIQAUgAWABoAA",
+        "source": "Storyflow"
+      },
+      {
+        "position": 4,
+        "title": "Best AI Video Editing Tools for Professionals in 2026",
+        "link": "https://www.google.com/goto?url=CAEShgEBxCJF114e-DRYtPUd4y7Y5pm0FRIjTK9bTQcolFpyNrgxTFpY-Wt9QOuGvSy_v4HhsppnkQ_jW4s-dCrVgJWOUV4nVdiQB3A71kXFY-TKBw7kf-d5LjcblPHc-qwZG82H324kZZiB2iY773BWJXX1YWU-hNczsaUaaJJWW7Qxq-qj_7w3Yw",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShgEBxCJF1zfBl0HBd_i62Dla4Xw5O2V16IC5lKEUSeNZJ_wnCT2zEBa5ON0Psui71Q58-FlaGRobSgnix9DcQ2zyGYmzxBGrRfD9YoLUELYYG6gev4bX73Ve3cRqVQQ7Ss2sMhgr2fTA5py-D9VnTm-KHpm2Xyf-dBUAzeBjK2R5KNVqh_r7bA&ved=2ahUKEwjx_d7n25uYAxXoHjQIHR2pJp4QFnoECBgQAQ&uoh=1",
+        "displayed_link": "https://higgsfield.ai \u203a Blog \u203a Comparisons",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEVHcEzR_hfR_hfR_hfT_xe74xbZ_xeZuRUBABMZGhPD7BZ0jBQrMhNfchTN-Rc8RxRNXRSs0RaEoBUJrN-TAAAAA3RSTlMAS9hh8wj2AAAA60lEQVR4AXTR0bLDEBgE4DTWWkDk_R_2hJ6pptX_Knwmu8a2PXaznP1xmfk5j23_jfs2v4FP3SZZC6yRTpIP-EIAjFKSMr-wOFclR6fKcfQNYaVuzMoEQ4-eGKTDklEKtHUcfMskyFClxqYxDU-cZZOllfzpqjwnDsuA8TpAMKnhhT01EjxUCfT0M5QXRul51wKUKHnJ4h_7tuubDb3SHeH6UjqJy7zLt98iSSO2SPVWqKuJ6XAc4aNemHgpyWvNpJPMSvOec-iVezGHFUb1OWgWCOReDFihAUMrhFni7a3N3_AmTbyJGm92AAAp4A9MK9TKTAAAAABJRU5ErkJggg.png",
+        "date": "6 Nov 2026",
+        "snippet": "Best AI video editing tools for professionals in 2026: Premiere, DaVinci Resolve Studio, Final Cut Pro, Descript, Higgsfield, ...",
+        "snippet_highlighted_words": [
+          "Premiere"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Best AI video editing tools for professionals in 2026: Premiere, DaVinci Resolve Studio, Final Cut Pro, Descript, Higgsfield, ...",
+            "source_info_link": "https://www.google.com/goto?url=CAEShgEBxCJF114e-DRYtPUd4y7Y5pm0FRIjTK9bTQcolFpyNrgxTFpY-Wt9QOuGvSy_v4HhsppnkQ_jW4s-dCrVgJWOUV4nVdiQB3A71kXFY-TKBw7kf-d5LjcblPHc-qwZG82H324kZZiB2iY773BWJXX1YWU-hNczsaUaaJJWW7Qxq-qj_7w3Yw",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEVHcEzR_hfR_hfR_hfT_xe74xbZ_xeZuRUBABMZGhPD7BZ0jBQrMhNfchTN-Rc8RxRNXRSs0RaEoBUJrN-TAAAAA3RSTlMAS9hh8wj2AAAA60lEQVR4AXTR0bLDEBgE4DTWWkDk_R_2hJ6pptX_Knwmu8a2PXaznP1xmfk5j23_jfs2v4FP3SZZC6yRTpIP-EIAjFKSMr-wOFclR6fKcfQNYaVuzMoEQ4-eGKTDklEKtHUcfMskyFClxqYxDU-cZZOllfzpqjwnDsuA8TpAMKnhhT01EjxUCfT0M5QXRul51wKUKHnJ4h_7tuubDb3SHeH6UjqJy7zLt98iSSO2SPVWqKuJ6XAc4aNemHgpyWvNpJPMSvOec-iVezGHFUb1OWgWCOReDFihAUMrhFni7a3N3_AmTbyJGm92AAAp4A9MK9TKTAAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCeENKRjExNGUtRFJZdFBVZDR5N1k1cG0wRlJJalRLOWJUUWNvbEZweU5yZ3hURnBZLVd0OVFPdUd2U3lfdjRIaHNwcG5rUV9qVzRzLWRDclZnSldPVVY0blZkaVFCM0E3MWtYRlktVEtCdzdrZi1kNUxqY2JsUEhjLXF3Wkc4MkgzMjRrWlppQjJpWTc3M0JXSlhYMVlXVS1oTmN6c2FVYWFKSldXN1F4cS1xal83dzNZdxIEGgIIABq-BxICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQJgHCAAQABgAIAAqJQoDdG9wFcfBxT4aBGJlc3QaBGdvb2QaB2xlYWRpbmcaBHRvcDUqIwoBNRV6XS4_GgM1YWkaAzV0aBoEZml2ZRoDdGFpGgR0b3A1KjUKAmFpFSxp9kAaAzVhaRoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaA3RhaRoHYWl0b29scyobCgV0b29scxXIcNFAGgR0b29sGgdhaXRvb2xzKi0KBWV2ZXJ5FQAAAAAaA2FsbBoDYW55GgRlYWNoGgNwZXIaCmV2ZXJ5dmlkZW8qLQoFdmlkZW8VYHfsQBoGdmlkZW9zGgpldmVyeXZpZGVvGgt2aWRlb2VkaXRvcioyCgZlZGl0b3IVjRA1QBoEZWRpdBoHZWRpdGluZxoHZWRpdG9ycxoLdmlkZW9lZGl0b3IqOwoGc2hvdWxkFRYq5j4aBWNvdWxkGgRtdXN0GgduZWVkIHRvGgR3aWxsGgV3b3VsZBoJc2hvdWxkdXNlKj0KA3VzZRW9c1E_GgR0YWtlGgV1c2FnZRoEdXNlZBoEdXNlcxoHdXRpbGl6ZRoEd2VhchoJc2hvdWxkdXNlKgkKAmluFQAAAAAqJAoEMjAyNhUvGbpAGgxnbTtkYXRlOzIwMjYaCWl2O247MjAyNjLEAS9nb3RvP3VybD1DQUVTaGdFQnhDSkYxMTRlLURSWXRQVWQ0eTdZNXBtMEZSSWpUSzliVFFjb2xGcHlOcmd4VEZwWS1XdDlRT3VHdlN5X3Y0SGhzcHBua1Ffalc0cy1kQ3JWZ0pXT1VWNG5WZGlRQjNBNzFrWEZZLVRLQnc3a2YtZDVMamNibFBIYy1xd1pHODJIMzI0a1paaUIyaVk3NzNCV0pYWDFZV1UtaE5jenNhVWFhSkpXVzdReHEtcWpfN3czWXc6QzxiPkJlc3QgQUkgVmlkZW8gRWRpdGluZyBUb29sczwvYj4gZm9yIFByb2Zlc3Npb25hbHMgaW4gPGI-MjAyNjwvYj5CjQFCZXN0IEFJIHZpZGVvIGVkaXRpbmcgdG9vbHMgZm9yIHByb2Zlc3Npb25hbHMgaW4gMjAyNjogPGI-UHJlbWllcmU8L2I-LCBEYVZpbmNpIFJlc29sdmUgU3R1ZGlvLCBGaW5hbCBDdXQgUHJvLCBEZXNjcmlwdCwgSGlnZ3NmaWVsZCwmbmJzcDsuLi5KAmluUgR3aWxsUgRiZXN0UgNhbGwiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCeENKRjExNGUtRFJZdFBVZDR5N1k1cG0wRlJJalRLOWJUUWNvbEZweU5yZ3hURnBZLVd0OVFPdUd2U3lfdjRIaHNwcG5rUV9qVzRzLWRDclZnSldPVVY0blZkaVFCM0E3MWtYRlktVEtCdzdrZi1kNUxqY2JsUEhjLXF3Wkc4MkgzMjRrWlppQjJpWTc3M0JXSlhYMVlXVS1oTmN6c2FVYWFKSldXN1F4cS1xal83dzNZdxIEGgIIABq-BxICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQJgHCAAQABgAIAAqJQoDdG9wFcfBxT4aBGJlc3QaBGdvb2QaB2xlYWRpbmcaBHRvcDUqIwoBNRV6XS4_GgM1YWkaAzV0aBoEZml2ZRoDdGFpGgR0b3A1KjUKAmFpFSxp9kAaAzVhaRoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaA3RhaRoHYWl0b29scyobCgV0b29scxXIcNFAGgR0b29sGgdhaXRvb2xzKi0KBWV2ZXJ5FQAAAAAaA2FsbBoDYW55GgRlYWNoGgNwZXIaCmV2ZXJ5dmlkZW8qLQoFdmlkZW8VYHfsQBoGdmlkZW9zGgpldmVyeXZpZGVvGgt2aWRlb2VkaXRvcioyCgZlZGl0b3IVjRA1QBoEZWRpdBoHZWRpdGluZxoHZWRpdG9ycxoLdmlkZW9lZGl0b3IqOwoGc2hvdWxkFRYq5j4aBWNvdWxkGgRtdXN0GgduZWVkIHRvGgR3aWxsGgV3b3VsZBoJc2hvdWxkdXNlKj0KA3VzZRW9c1E_GgR0YWtlGgV1c2FnZRoEdXNlZBoEdXNlcxoHdXRpbGl6ZRoEd2VhchoJc2hvdWxkdXNlKgkKAmluFQAAAAAqJAoEMjAyNhUvGbpAGgxnbTtkYXRlOzIwMjYaCWl2O247MjAyNjLEAS9nb3RvP3VybD1DQUVTaGdFQnhDSkYxMTRlLURSWXRQVWQ0eTdZNXBtMEZSSWpUSzliVFFjb2xGcHlOcmd4VEZwWS1XdDlRT3VHdlN5X3Y0SGhzcHBua1Ffalc0cy1kQ3JWZ0pXT1VWNG5WZGlRQjNBNzFrWEZZLVRLQnc3a2YtZDVMamNibFBIYy1xd1pHODJIMzI0a1paaUIyaVk3NzNCV0pYWDFZV1UtaE5jenNhVWFhSkpXVzdReHEtcWpfN3czWXc6QzxiPkJlc3QgQUkgVmlkZW8gRWRpdGluZyBUb29sczwvYj4gZm9yIFByb2Zlc3Npb25hbHMgaW4gPGI-MjAyNjwvYj5CjQFCZXN0IEFJIHZpZGVvIGVkaXRpbmcgdG9vbHMgZm9yIHByb2Zlc3Npb25hbHMgaW4gMjAyNjogPGI-UHJlbWllcmU8L2I-LCBEYVZpbmNpIFJlc29sdmUgU3R1ZGlvLCBGaW5hbCBDdXQgUHJvLCBEZXNjcmlwdCwgSGlnZ3NmaWVsZCwmbmJzcDsuLi5KAmluUgR3aWxsUgRiZXN0UgNhbGwiAhABSABYAGgA",
+        "source": "Higgsfield AI"
+      },
+      {
+        "position": 5,
+        "title": "12 Best AI Video Editing Tools 2026 (Free & Paid, Tested)",
+        "link": "https://www.google.com/goto?url=CAESdgHEIkXX698MEkPmmydOI75Lh6tELV-PASmexM3b9bwjIu0erkuj7RECHzFjkQpYh3An4xPKqDUaP0E84TA-G0OvQ1xMl03-bVqtbFKUJ9LWy9u0-cqKyAaps-WY3gWaQq6oFabe4DQdMiPqEgzgp1xfo9WUWrk",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHEIkXXhHf5nFbYJgdztee-ajCjABOK4HZKM8ghwnfZe4-93kahbNCEnwV5DD5dqGB7A1rhFQ6uslwt3R-6aSSdJTKub4jZpTpTbqfdm7lGxeTb7aT4LOzk5F9sCbB4ALPvlgFlMoTAjaKhLOD1xYRHyEYOFL4&ved=2ahUKEwjx_d7n25uYAxXoHjQIHR2pJp4QFnoECBkQAQ&uoh=1",
+        "displayed_link": "https://loopdesk.ai \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABYAAAAcCAMAAABS8b9vAAAAb1BMVEVHcEwrLCwpLSslJCQhIyEeGxYiIyIiIyMjJSUhIiEfHh8qLDExj_4jIyArV5kpg_Uph_kpgPUmgvUihforiPopgfIqiPwpgvcsgfUogvQog_Yphfgso_8sj_8gISAbGxkfIiIeGg8qZrwnLSkkKCUJSJ3hAAAAJXRSTlMACyg7y3nr_6vhVEMO9260TeL3gxj_wUDc7XGbBmChh_8YQSIq7lwqxQAAAKNJREFUeAFiIBkASqEHJIBhIICiqW0rvv8Va3eH_eMXR1FB1nRDgdi0bBVky3FBtkzPhzgIoxjkJM1yiIuirL5cF0XRtP6LvXjxIqpejPJu8aTtn4yqZvE0fnDfbtrlDx7Ktfixt4XJluHu7C08R7fsnZlOrVt4Z5-TgH65KgfXOZzSk9O049jZMnXv4KYoMsTEnKpKhg5Om-eX7hzFCMj30b8m0jsPg2QH6sYAAAAASUVORK5CYII.png",
+        "date": "15 May 2026",
+        "snippet": "The top AI video editors in 2026 are Loopdesk (agentic, prompt-driven editing in the browser), Descript (text-based podcast editing), CapCut ( ...",
+        "snippet_highlighted_words": [
+          "Loopdesk"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The top AI video editors in 2026 are Loopdesk (agentic, prompt-driven editing in the browser), Descript (text-based podcast editing), CapCut ( ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESdgHEIkXX698MEkPmmydOI75Lh6tELV-PASmexM3b9bwjIu0erkuj7RECHzFjkQpYh3An4xPKqDUaP0E84TA-G0OvQ1xMl03-bVqtbFKUJ9LWy9u0-cqKyAaps-WY3gWaQq6oFabe4DQdMiPqEgzgp1xfo9WUWrk",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABYAAAAcCAMAAABS8b9vAAAAb1BMVEVHcEwrLCwpLSslJCQhIyEeGxYiIyIiIyMjJSUhIiEfHh8qLDExj_4jIyArV5kpg_Uph_kpgPUmgvUihforiPopgfIqiPwpgvcsgfUogvQog_Yphfgso_8sj_8gISAbGxkfIiIeGg8qZrwnLSkkKCUJSJ3hAAAAJXRSTlMACyg7y3nr_6vhVEMO9260TeL3gxj_wUDc7XGbBmChh_8YQSIq7lwqxQAAAKNJREFUeAFiIBkASqEHJIBhIICiqW0rvv8Va3eH_eMXR1FB1nRDgdi0bBVky3FBtkzPhzgIoxjkJM1yiIuirL5cF0XRtP6LvXjxIqpejPJu8aTtn4yqZvE0fnDfbtrlDx7Ktfixt4XJluHu7C08R7fsnZlOrVt4Z5-TgH65KgfXOZzSk9O049jZMnXv4KYoMsTEnKpKhg5Om-eX7hzFCMj30b8m0jsPg2QH6sYAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hFSWtYWDY5OE1Fa1BtbXlkT0k3NUxoNnRFTFYtUEFTbWV4TTNiOWJ3akl1MGVya3VqN1JFQ0h6RmprUXBZaDNBbjR4UEtxRFVhUDBFODRUQS1HME92UTF4TWwwMy1iVnF0YkZLVUo5TFd5OXUwLWNxS3lBYXBzLVdZM2dXYVFxNm9GYWJlNERRZE1pUHFFZ3pncDF4Zm85V1VXcmsSBBoCCAAauQcSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCTBwgAEAAYACAAKiUKA3RvcBVAdI0_GgRiZXN0GgRnb29kGgdsZWFkaW5nGgR0b3A1KiMKATUVeO2lPhoDNWFpGgM1dGgaBGZpdmUaA3RhaRoEdG9wNSo1CgJhaRWaYwRBGgM1YWkaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgN0YWkaB2FpdG9vbHMqGwoFdG9vbHMVfOjeQBoEdG9vbBoHYWl0b29scyotCgVldmVyeRVRnQ0_GgNhbGwaA2FueRoEZWFjaBoDcGVyGgpldmVyeXZpZGVvKi0KBXZpZGVvFRLVAUEaBnZpZGVvcxoKZXZlcnl2aWRlbxoLdmlkZW9lZGl0b3IqMgoGZWRpdG9yFRxLXEAaBGVkaXQaB2VkaXRpbmcaB2VkaXRvcnMaC3ZpZGVvZWRpdG9yKjsKBnNob3VsZBUVdDo_GgVjb3VsZBoEbXVzdBoHbmVlZCB0bxoEd2lsbBoFd291bGQaCXNob3VsZHVzZSo9CgN1c2UVIr2JPxoEdGFrZRoFdXNhZ2UaBHVzZWQaBHVzZXMaB3V0aWxpemUaBHdlYXIaCXNob3VsZHVzZSoJCgJpbhUAAAAAKiQKBDIwMjYVmF3VQBoMZ207ZGF0ZTsyMDI2GglpdjtuOzIwMjYyrQEvZ290bz91cmw9Q0FFU2RnSEVJa1hYNjk4TUVrUG1teWRPSTc1TGg2dEVMVi1QQVNtZXhNM2I5YndqSXUwZXJrdWo3UkVDSHpGamtRcFloM0FuNHhQS3FEVWFQMEU4NFRBLUcwT3ZRMXhNbDAzLWJWcXRiRktVSjlMV3k5dTAtY3FLeUFhcHMtV1kzZ1dhUXE2b0ZhYmU0RFFkTWlQcUVnemdwMXhmbzlXVVdyazpEMTIgPGI-QmVzdCBBSSBWaWRlbyBFZGl0aW5nIFRvb2xzIDIwMjY8L2I-IChGcmVlICZhbXA7IFBhaWQsIFRlc3RlZClCngFUaGUgdG9wIEFJIHZpZGVvIGVkaXRvcnMgaW4gMjAyNiBhcmUgPGI-TG9vcGRlc2s8L2I-IChhZ2VudGljLCBwcm9tcHQtZHJpdmVuIGVkaXRpbmcgaW4gdGhlIGJyb3dzZXIpLCBEZXNjcmlwdCAodGV4dC1iYXNlZCBwb2RjYXN0IGVkaXRpbmcpLCBDYXBDdXQgKCZuYnNwOy4uLkoCaW5SA2FsbFIEYmVzdFIEd2lsbCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hFSWtYWDY5OE1Fa1BtbXlkT0k3NUxoNnRFTFYtUEFTbWV4TTNiOWJ3akl1MGVya3VqN1JFQ0h6RmprUXBZaDNBbjR4UEtxRFVhUDBFODRUQS1HME92UTF4TWwwMy1iVnF0YkZLVUo5TFd5OXUwLWNxS3lBYXBzLVdZM2dXYVFxNm9GYWJlNERRZE1pUHFFZ3pncDF4Zm85V1VXcmsSBBoCCAAauQcSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCTBwgAEAAYACAAKiUKA3RvcBVAdI0_GgRiZXN0GgRnb29kGgdsZWFkaW5nGgR0b3A1KiMKATUVeO2lPhoDNWFpGgM1dGgaBGZpdmUaA3RhaRoEdG9wNSo1CgJhaRWaYwRBGgM1YWkaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgN0YWkaB2FpdG9vbHMqGwoFdG9vbHMVfOjeQBoEdG9vbBoHYWl0b29scyotCgVldmVyeRVRnQ0_GgNhbGwaA2FueRoEZWFjaBoDcGVyGgpldmVyeXZpZGVvKi0KBXZpZGVvFRLVAUEaBnZpZGVvcxoKZXZlcnl2aWRlbxoLdmlkZW9lZGl0b3IqMgoGZWRpdG9yFRxLXEAaBGVkaXQaB2VkaXRpbmcaB2VkaXRvcnMaC3ZpZGVvZWRpdG9yKjsKBnNob3VsZBUVdDo_GgVjb3VsZBoEbXVzdBoHbmVlZCB0bxoEd2lsbBoFd291bGQaCXNob3VsZHVzZSo9CgN1c2UVIr2JPxoEdGFrZRoFdXNhZ2UaBHVzZWQaBHVzZXMaB3V0aWxpemUaBHdlYXIaCXNob3VsZHVzZSoJCgJpbhUAAAAAKiQKBDIwMjYVmF3VQBoMZ207ZGF0ZTsyMDI2GglpdjtuOzIwMjYyrQEvZ290bz91cmw9Q0FFU2RnSEVJa1hYNjk4TUVrUG1teWRPSTc1TGg2dEVMVi1QQVNtZXhNM2I5YndqSXUwZXJrdWo3UkVDSHpGamtRcFloM0FuNHhQS3FEVWFQMEU4NFRBLUcwT3ZRMXhNbDAzLWJWcXRiRktVSjlMV3k5dTAtY3FLeUFhcHMtV1kzZ1dhUXE2b0ZhYmU0RFFkTWlQcUVnemdwMXhmbzlXVVdyazpEMTIgPGI-QmVzdCBBSSBWaWRlbyBFZGl0aW5nIFRvb2xzIDIwMjY8L2I-IChGcmVlICZhbXA7IFBhaWQsIFRlc3RlZClCngFUaGUgdG9wIEFJIHZpZGVvIGVkaXRvcnMgaW4gMjAyNiBhcmUgPGI-TG9vcGRlc2s8L2I-IChhZ2VudGljLCBwcm9tcHQtZHJpdmVuIGVkaXRpbmcgaW4gdGhlIGJyb3dzZXIpLCBEZXNjcmlwdCAodGV4dC1iYXNlZCBwb2RjYXN0IGVkaXRpbmcpLCBDYXBDdXQgKCZuYnNwOy4uLkoCaW5SA2FsbFIEYmVzdFIEd2lsbCICEAFIAFgAaAA",
+        "source": "Loopdesk",
+        "read_more_link": "https://www.google.com/goto?url=CAESygEBxCJF121FogMpiTAfCMLzH9AcTpzTn2-1syvuA59k84wO5sY3FqLoHXUBKvFvvl_KQbaEz5PlmNJbFLNcyY1MzTVnMI4BvPCcVSI4eOKUkT4kDepTyIbKwBABUAyKOC-WTJLuUKz9Ob431ka1sTmjaY7wk2pDUdDMuwTC1cx5LmpPpEofFnwwB5BdoL8PGJWG4qOhzqvjYwANJTIoRp_bhUDA7rGGMHFK2iVSUwW9UvUpiXrBCRu7WrIdLdpy03zIXOH3DWAxy40L&gsessionid=dJgUWR0tDw3JgOcAb51DneVlqPsLPv8Hx_Vr1IaXYc6xm8zxkVK_uw"
+      },
+      {
+        "position": 6,
+        "title": "10 Best AI Video Editing Software Tools (2026) | ngram.com",
+        "link": "https://www.google.com/goto?url=CAESdgHEIkXXAfqtqNBtOC6Qh6QPDuy2Vws5SLHe9fohznn5DVD6p7hq8vjRy2QAhjCWz8ynzuzvhkUoPyUyUACe0DAvJDnCbhg1xS1Yzr6-1g_FY_qLgubJ1SzCEHXm5CvZ85dpDyKQOZZKnPzkFzlEe3d7Qk430IA",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHEIkXX15MqHAXLneLb8nYMw8eF5y1PNnou8xB5gcPvi7wDqs11l1mR_bH27lm7tWqkcMjiqUGNPmUw7YkHEaGkm8L4BB7tZXjFDroOR8L5nh_w2CkKGcpTrWuwrwP3-yRQiZB4JdYXREjjiJBuJ3kej5Y65MQ&ved=2ahUKEwjx_d7n25uYAxXoHjQIHR2pJp4QFnoECBsQAQ&uoh=1",
+        "displayed_link": "https://www.ngram.com \u203a Blog \u203a Article",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAtFBMVEVHcEzycD7vVkbsK1DxZkHlKGnmJWfiOnnuRUrxbT_rK1TwWETxbD_tPEztOE3tO0zsK1DzfTvzfTvybz_bI5LaI5PzezvuRUriI3XxYEPPI77uSUnXI6DxaEHrJFTYI5zmI2TrKlHwW0TSI7LtTkbtN03tPkvvTkfvU0buRErsMk_wYkLpI13rJlHuSUnxaEDvV0XwXUPybz_sK1HsLlDydj3bI5LzfTvhI3vTI67wWkTkI3A5U30oAAAAJHRSTlMAEouhRhFHCSM00HCp5r1WNSMJ1L1txKqIVCX8_PHzNWfl0JSglk4XAAABEElEQVQoka3SWZOCMAwAYBRc8ABRPFd3vQa8QBRBZP3__2uTNtXW48EZ-1AyfJO2k0TTPrJMyzKfi9sP1rvl6q9RfaBKbeMz3B-2Xkm1ryi9YZwYioXRETAQ2JLPvBCuOTbkxA6io9v8Rdu4LdnkdA4jFwKHYxl_ikd1AHUW2YgHjKo9wjEghSNAltjLqS7F6TwgtOBFLDHL-cXfgNf7jVUdP16WtwR28Vur4M7MSASaxZgVIrWv-T-JOFYrWOIs9R2yYQxI8QK35hGqW6ZEQKVKv4hBk10L1c3kxk1D3hfQIZbekxMvodo0uaUD6otAtaFq0xTDMSHcLffzuzGB5eobH84d9R8HjNfq5Wi-u_4BcmormAYRmZUAAAAASUVORK5CYII.png",
+        "date": "11 Nov 2026",
+        "snippet": "3. Adobe Premiere Pro: timeline editing with AI assistance \u30fb 4. DaVinci Resolve: video assembly, captions and audio \u30fb 10. Kapwing: ...",
+        "snippet_highlighted_words": [
+          "Adobe Premiere Pro: timeline editing with AI assistance"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "3. Adobe Premiere Pro: timeline editing with AI assistance \u30fb 4. DaVinci Resolve: video assembly, captions and audio \u30fb 10. Kapwing: ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESdgHEIkXXAfqtqNBtOC6Qh6QPDuy2Vws5SLHe9fohznn5DVD6p7hq8vjRy2QAhjCWz8ynzuzvhkUoPyUyUACe0DAvJDnCbhg1xS1Yzr6-1g_FY_qLgubJ1SzCEHXm5CvZ85dpDyKQOZZKnPzkFzlEe3d7Qk430IA",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAtFBMVEVHcEzycD7vVkbsK1DxZkHlKGnmJWfiOnnuRUrxbT_rK1TwWETxbD_tPEztOE3tO0zsK1DzfTvzfTvybz_bI5LaI5PzezvuRUriI3XxYEPPI77uSUnXI6DxaEHrJFTYI5zmI2TrKlHwW0TSI7LtTkbtN03tPkvvTkfvU0buRErsMk_wYkLpI13rJlHuSUnxaEDvV0XwXUPybz_sK1HsLlDydj3bI5LzfTvhI3vTI67wWkTkI3A5U30oAAAAJHRSTlMAEouhRhFHCSM00HCp5r1WNSMJ1L1txKqIVCX8_PHzNWfl0JSglk4XAAABEElEQVQoka3SWZOCMAwAYBRc8ABRPFd3vQa8QBRBZP3__2uTNtXW48EZ-1AyfJO2k0TTPrJMyzKfi9sP1rvl6q9RfaBKbeMz3B-2Xkm1ryi9YZwYioXRETAQ2JLPvBCuOTbkxA6io9v8Rdu4LdnkdA4jFwKHYxl_ikd1AHUW2YgHjKo9wjEghSNAltjLqS7F6TwgtOBFLDHL-cXfgNf7jVUdP16WtwR28Vur4M7MSASaxZgVIrWv-T-JOFYrWOIs9R2yYQxI8QK35hGqW6ZEQKVKv4hBk10L1c3kxk1D3hfQIZbekxMvodo0uaUD6otAtaFq0xTDMSHcLffzuzGB5eobH84d9R8HjNfq5Wi-u_4BcmormAYRmZUAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hFSWtYWEFmcXRxTkJ0T0M2UWg2UVBEdXkyVndzNVNMSGU5Zm9oem5uNURWRDZwN2hxOHZqUnkyUUFoakNXejh5bnp1enZoa1VvUHlVeVVBQ2UwREF2SkRuQ2JoZzF4UzFZenI2LTFnX0ZZX3FMZ3ViSjFTekNFSFhtNUN2Wjg1ZHBEeUtRT1paS25QemtGemxFZTNkN1FrNDMwSUESBBoCCAAavAcSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCWBwgAEAAYACAAKiUKA3RvcBUAAAAAGgRiZXN0GgRnb29kGgdsZWFkaW5nGgR0b3A1KiMKATUVqFhzPhoDNWFpGgM1dGgaBGZpdmUaA3RhaRoEdG9wNSo1CgJhaRVUzOxAGgM1YWkaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgN0YWkaB2FpdG9vbHMqGwoFdG9vbHMVjNO0QBoEdG9vbBoHYWl0b29scyotCgVldmVyeRUAAAAAGgNhbGwaA2FueRoEZWFjaBoDcGVyGgpldmVyeXZpZGVvKi0KBXZpZGVvFbDH_kAaBnZpZGVvcxoKZXZlcnl2aWRlbxoLdmlkZW9lZGl0b3IqMgoGZWRpdG9yFbqNyz8aBGVkaXQaB2VkaXRpbmcaB2VkaXRvcnMaC3ZpZGVvZWRpdG9yKjsKBnNob3VsZBWW0BE_GgVjb3VsZBoEbXVzdBoHbmVlZCB0bxoEd2lsbBoFd291bGQaCXNob3VsZHVzZSo9CgN1c2UVzLYNQBoEdGFrZRoFdXNhZ2UaBHVzZWQaBHVzZXMaB3V0aWxpemUaBHdlYXIaCXNob3VsZHVzZSoJCgJpbhUAAAAAKiQKBDIwMjYV5EOnQBoMZ207ZGF0ZTsyMDI2GglpdjtuOzIwMjYyrQEvZ290bz91cmw9Q0FFU2RnSEVJa1hYQWZxdHFOQnRPQzZRaDZRUER1eTJWd3M1U0xIZTlmb2h6bm41RFZENnA3aHE4dmpSeTJRQWhqQ1d6OHluenV6dmhrVW9QeVV5VUFDZTBEQXZKRG5DYmhnMXhTMVl6cjYtMWdfRllfcUxndWJKMVN6Q0VIWG01Q3ZaODVkcER5S1FPWlpLblB6a0Z6bEVlM2Q3UWs0MzBJQTpPMTAgPGI-QmVzdCBBSSBWaWRlbyBFZGl0aW5nPC9iPiBTb2Z0d2FyZSA8Yj5Ub29sczwvYj4gKDxiPjIwMjY8L2I-KSB8IG5ncmFtLmNvbUKWATMuIDxiPkFkb2JlIFByZW1pZXJlIFBybzogdGltZWxpbmUgZWRpdGluZyB3aXRoIEFJIGFzc2lzdGFuY2U8L2I-IOODuyA0LiBEYVZpbmNpIFJlc29sdmU6IHZpZGVvIGFzc2VtYmx5LCBjYXB0aW9ucyBhbmQgYXVkaW8g44O7IDEwLiBLYXB3aW5nOiZuYnNwOy4uLkoCaW5SA2FsbFIEYmVzdFIEd2lsbCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hFSWtYWEFmcXRxTkJ0T0M2UWg2UVBEdXkyVndzNVNMSGU5Zm9oem5uNURWRDZwN2hxOHZqUnkyUUFoakNXejh5bnp1enZoa1VvUHlVeVVBQ2UwREF2SkRuQ2JoZzF4UzFZenI2LTFnX0ZZX3FMZ3ViSjFTekNFSFhtNUN2Wjg1ZHBEeUtRT1paS25QemtGemxFZTNkN1FrNDMwSUESBBoCCAAavAcSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCWBwgAEAAYACAAKiUKA3RvcBUAAAAAGgRiZXN0GgRnb29kGgdsZWFkaW5nGgR0b3A1KiMKATUVqFhzPhoDNWFpGgM1dGgaBGZpdmUaA3RhaRoEdG9wNSo1CgJhaRVUzOxAGgM1YWkaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgN0YWkaB2FpdG9vbHMqGwoFdG9vbHMVjNO0QBoEdG9vbBoHYWl0b29scyotCgVldmVyeRUAAAAAGgNhbGwaA2FueRoEZWFjaBoDcGVyGgpldmVyeXZpZGVvKi0KBXZpZGVvFbDH_kAaBnZpZGVvcxoKZXZlcnl2aWRlbxoLdmlkZW9lZGl0b3IqMgoGZWRpdG9yFbqNyz8aBGVkaXQaB2VkaXRpbmcaB2VkaXRvcnMaC3ZpZGVvZWRpdG9yKjsKBnNob3VsZBWW0BE_GgVjb3VsZBoEbXVzdBoHbmVlZCB0bxoEd2lsbBoFd291bGQaCXNob3VsZHVzZSo9CgN1c2UVzLYNQBoEdGFrZRoFdXNhZ2UaBHVzZWQaBHVzZXMaB3V0aWxpemUaBHdlYXIaCXNob3VsZHVzZSoJCgJpbhUAAAAAKiQKBDIwMjYV5EOnQBoMZ207ZGF0ZTsyMDI2GglpdjtuOzIwMjYyrQEvZ290bz91cmw9Q0FFU2RnSEVJa1hYQWZxdHFOQnRPQzZRaDZRUER1eTJWd3M1U0xIZTlmb2h6bm41RFZENnA3aHE4dmpSeTJRQWhqQ1d6OHluenV6dmhrVW9QeVV5VUFDZTBEQXZKRG5DYmhnMXhTMVl6cjYtMWdfRllfcUxndWJKMVN6Q0VIWG01Q3ZaODVkcER5S1FPWlpLblB6a0Z6bEVlM2Q3UWs0MzBJQTpPMTAgPGI-QmVzdCBBSSBWaWRlbyBFZGl0aW5nPC9iPiBTb2Z0d2FyZSA8Yj5Ub29sczwvYj4gKDxiPjIwMjY8L2I-KSB8IG5ncmFtLmNvbUKWATMuIDxiPkFkb2JlIFByZW1pZXJlIFBybzogdGltZWxpbmUgZWRpdGluZyB3aXRoIEFJIGFzc2lzdGFuY2U8L2I-IOODuyA0LiBEYVZpbmNpIFJlc29sdmU6IHZpZGVvIGFzc2VtYmx5LCBjYXB0aW9ucyBhbmQgYXVkaW8g44O7IDEwLiBLYXB3aW5nOiZuYnNwOy4uLkoCaW5SA2FsbFIEYmVzdFIEd2lsbCICEAFIAFgAaAA",
+        "source": "ngram.com"
+      },
+      {
+        "position": 7,
+        "title": "Best AI Video Generator Tools in 2026? Here's My Current ...",
+        "link": "https://www.google.com/goto?url=CAESpQEBxCJF13lLs8AklyEyA7k6a0mqLqBb0hvhHGlkmMkxgCSGAB7_t30nSYj4pbCRCmVnRpyeiOTmgeafBgwDhB0A50GW4WbCII_zqkZxFdzOF7i7Ig_w27j5477nCg2ef1mdQ9EcDq_slKFTCuY7HKjTmiU9d3NQ_bhzEnDuXqKIacZ4rdPAKuRqKE6aDAo36p2aGbEfcbnP1S8jfP1Eljfg4eeidYg",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpQEBxCJF16rLf32mYacfoL7pzyEMh3FkJ-4OYl_Gi0FUGS17h9p6WD14G150SLHd9R3FWzKcHqXob5-w01Eu-80xbpIOvfeSkqczKRW7OqNkGkKDbPyZ3PccemaDODDgzs8FXaoJblrXtrWmNQ3PfeFZ6e6mpVZvmsTim4KQliL_dMjLrpHrCRTFGU10wgMhX3VgEz-ZPEqsYdTTO_62e9WhOzxI_ow&ved=2ahUKEwjx_d7n25uYAxXoHjQIHR2pJp4QFnoECFsQAQ&uoh=1",
+        "displayed_link": "10+ comments",
+        "date": "4 months ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+        "snippet": "1. OpenArt \u2013 My current favorite because I can access multiple video models from one place instead of juggling different tools. \u00b7 2. Google Veo ...",
+        "snippet_highlighted_words": [
+          "1. OpenArt"
+        ],
+        "sitelinks": {
+          "list": [
+            {
+              "title": "AI tools for long-form video editing in 2026 - Reddit",
+              "link": "https://www.google.com/goto?url=CAESowEBxCJF186x3NyXNyGLAgtRAj0hm9DwZ8jFSHWe3XAH7ni8o_6gR9EOM3cPSyZ-Yak7B2ocsuK_kCIH4SeU0gkuKTytPM2q0hJATtOlqCCej66rekCcvy5vgvvw5MLvFcf8SpCLu3P_vjsH68xuNrR68JZi_buwH28z-L8JErdVVM6AF5O4YPmXr8-jxt0oehyImM7zdX8a9k5aUdYI_AbYMc_R&gsessionid=dJgUWR0tDw3JgOcAb51DneVlqPsLPv8Hx_Vr1IaXYc6xm8zxkVK_uw",
+              "answer_count": 38,
+              "date": "27 Jan 2026"
+            },
+            {
+              "title": "My Top 4 AI Tools for Video Creation in 2026 ...",
+              "link": "https://www.google.com/goto?url=CAESpQEBxCJF19OiQg4d06RPp6L2H-PvZTXWZNCyyorSF8jIc-G14MxeMQ8n04mmaTREl9u3jV8LxxrgBBjJygWabvus-V715zha9YLOUqBINdsYlDPBWR5VTDNQ64aXJElcqHLDgz6MtFLdfDq-Y7j4VX-t-WHpaPD3RjVG4Wpzds7iZ6cWJLVccHsr4cIFybgrmTCMc_OMhs89_qtvjBjyGaIA-90CBwg&gsessionid=dJgUWR0tDw3JgOcAb51DneVlqPsLPv8Hx_Vr1IaXYc6xm8zxkVK_uw",
+              "answer_count": 80,
+              "date": "17 Feb 2026"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "1. OpenArt \u2013 My current favorite because I can access multiple video models from one place instead of juggling different tools. \u00b7 2. Google Veo ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESpQEBxCJF13lLs8AklyEyA7k6a0mqLqBb0hvhHGlkmMkxgCSGAB7_t30nSYj4pbCRCmVnRpyeiOTmgeafBgwDhB0A50GW4WbCII_zqkZxFdzOF7i7Ig_w27j5477nCg2ef1mdQ9EcDq_slKFTCuY7HKjTmiU9d3NQ_bhzEnDuXqKIacZ4rdPAKuRqKE6aDAo36p2aGbEfcbnP1S8jfP1Eljfg4eeidYg",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cu0BL2dvdG8_dXJsPUNBRVNwUUVCeENKRjEzbExzOEFrbHlFeUE3azZhMG1xTHFCYjBodmhIR2xrbU1reGdDU0dBQjdfdDMwblNZajRwYkNSQ21WblJweWVpT1RtZ2VhZkJnd0RoQjBBNTBHVzRXYkNJSV96cWtaeEZkek9GN2k3SWdfdzI3ajU0NzduQ2cyZWYxbWRROUVjRHFfc2xLRlRDdVk3SEtqVG1pVTlkM05RX2JoekVuRHVYcUtJYWNaNHJkUEFLdVJxS0U2YURBbzM2cDJhR2JFZmNiblAxUzhqZlAxRWxqZmc0ZWVpZFlnEgQaAggAGpsIEgAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQPcHCAAQABgAIAAqJQoDdG9wFSd4v0AaBGJlc3QaBGdvb2QaB2xlYWRpbmcaBHRvcDUqIwoBNRXViLxAGgM1YWkaAzV0aBoEZml2ZRoDdGFpGgR0b3A1KjUKAmFpFSgsDEEaAzVhaRoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaA3RhaRoHYWl0b29scyobCgV0b29scxVi6epAGgR0b29sGgdhaXRvb2xzKi0KBWV2ZXJ5FTbNJz8aA2FsbBoDYW55GgRlYWNoGgNwZXIaCmV2ZXJ5dmlkZW8qLQoFdmlkZW8VCdAJQRoGdmlkZW9zGgpldmVyeXZpZGVvGgt2aWRlb2VkaXRvcioyCgZlZGl0b3IVAAAAABoEZWRpdBoHZWRpdGluZxoHZWRpdG9ycxoLdmlkZW9lZGl0b3IqOwoGc2hvdWxkFQAAAAAaBWNvdWxkGgRtdXN0GgduZWVkIHRvGgR3aWxsGgV3b3VsZBoJc2hvdWxkdXNlKj0KA3VzZRXh2iU_GgR0YWtlGgV1c2FnZRoEdXNlZBoEdXNlcxoHdXRpbGl6ZRoEd2VhchoJc2hvdWxkdXNlKgkKAmluFQAAAAAqJAoEMjAyNhX72upAGgxnbTtkYXRlOzIwMjYaCWl2O247MjAyNjLtAS9nb3RvP3VybD1DQUVTcFFFQnhDSkYxM2xMczhBa2x5RXlBN2s2YTBtcUxxQmIwaHZoSEdsa21Na3hnQ1NHQUI3X3QzMG5TWWo0cGJDUkNtVm5ScHllaU9UbWdlYWZCZ3dEaEIwQTUwR1c0V2JDSUlfenFrWnhGZHpPRjdpN0lnX3cyN2o1NDc3bkNnMmVmMW1kUTlFY0RxX3NsS0ZUQ3VZN0hLalRtaVU5ZDNOUV9iaHpFbkR1WHFLSWFjWjRyZFBBS3VScUtFNmFEQW8zNnAyYUdiRWZjYm5QMVM4amZQMUVsamZnNGVlaWRZZzpePGI-QmVzdCBBSSBWaWRlbzwvYj4gR2VuZXJhdG9yIDxiPlRvb2xzPC9iPiBpbiA8Yj4yMDI2PC9iPj8gSGVyZSYjMzk7cyBNeSBDdXJyZW50IDxiPlRvcCA1PC9iPkKoATxiPjEuIE9wZW5BcnQ8L2I-IOKAkyBNeSBjdXJyZW50IGZhdm9yaXRlIGJlY2F1c2UgSSBjYW4gYWNjZXNzIG11bHRpcGxlIHZpZGVvIG1vZGVscyBmcm9tIG9uZSBwbGFjZSBpbnN0ZWFkIG9mIGp1Z2dsaW5nIGRpZmZlcmVudCB0b29scy4gJm1pZGRvdDsgMi4gR29vZ2xlIFZlbyZuYnNwOy4uLkoCaW5SBHdpbGxSBGJlc3RSA2FsbCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cu0BL2dvdG8_dXJsPUNBRVNwUUVCeENKRjEzbExzOEFrbHlFeUE3azZhMG1xTHFCYjBodmhIR2xrbU1reGdDU0dBQjdfdDMwblNZajRwYkNSQ21WblJweWVpT1RtZ2VhZkJnd0RoQjBBNTBHVzRXYkNJSV96cWtaeEZkek9GN2k3SWdfdzI3ajU0NzduQ2cyZWYxbWRROUVjRHFfc2xLRlRDdVk3SEtqVG1pVTlkM05RX2JoekVuRHVYcUtJYWNaNHJkUEFLdVJxS0U2YURBbzM2cDJhR2JFZmNiblAxUzhqZlAxRWxqZmc0ZWVpZFlnEgQaAggAGpsIEgAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQPcHCAAQABgAIAAqJQoDdG9wFSd4v0AaBGJlc3QaBGdvb2QaB2xlYWRpbmcaBHRvcDUqIwoBNRXViLxAGgM1YWkaAzV0aBoEZml2ZRoDdGFpGgR0b3A1KjUKAmFpFSgsDEEaAzVhaRoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaA3RhaRoHYWl0b29scyobCgV0b29scxVi6epAGgR0b29sGgdhaXRvb2xzKi0KBWV2ZXJ5FTbNJz8aA2FsbBoDYW55GgRlYWNoGgNwZXIaCmV2ZXJ5dmlkZW8qLQoFdmlkZW8VCdAJQRoGdmlkZW9zGgpldmVyeXZpZGVvGgt2aWRlb2VkaXRvcioyCgZlZGl0b3IVAAAAABoEZWRpdBoHZWRpdGluZxoHZWRpdG9ycxoLdmlkZW9lZGl0b3IqOwoGc2hvdWxkFQAAAAAaBWNvdWxkGgRtdXN0GgduZWVkIHRvGgR3aWxsGgV3b3VsZBoJc2hvdWxkdXNlKj0KA3VzZRXh2iU_GgR0YWtlGgV1c2FnZRoEdXNlZBoEdXNlcxoHdXRpbGl6ZRoEd2VhchoJc2hvdWxkdXNlKgkKAmluFQAAAAAqJAoEMjAyNhX72upAGgxnbTtkYXRlOzIwMjYaCWl2O247MjAyNjLtAS9nb3RvP3VybD1DQUVTcFFFQnhDSkYxM2xMczhBa2x5RXlBN2s2YTBtcUxxQmIwaHZoSEdsa21Na3hnQ1NHQUI3X3QzMG5TWWo0cGJDUkNtVm5ScHllaU9UbWdlYWZCZ3dEaEIwQTUwR1c0V2JDSUlfenFrWnhGZHpPRjdpN0lnX3cyN2o1NDc3bkNnMmVmMW1kUTlFY0RxX3NsS0ZUQ3VZN0hLalRtaVU5ZDNOUV9iaHpFbkR1WHFLSWFjWjRyZFBBS3VScUtFNmFEQW8zNnAyYUdiRWZjYm5QMVM4amZQMUVsamZnNGVlaWRZZzpePGI-QmVzdCBBSSBWaWRlbzwvYj4gR2VuZXJhdG9yIDxiPlRvb2xzPC9iPiBpbiA8Yj4yMDI2PC9iPj8gSGVyZSYjMzk7cyBNeSBDdXJyZW50IDxiPlRvcCA1PC9iPkKoATxiPjEuIE9wZW5BcnQ8L2I-IOKAkyBNeSBjdXJyZW50IGZhdm9yaXRlIGJlY2F1c2UgSSBjYW4gYWNjZXNzIG11bHRpcGxlIHZpZGVvIG1vZGVscyBmcm9tIG9uZSBwbGFjZSBpbnN0ZWFkIG9mIGp1Z2dsaW5nIGRpZmZlcmVudCB0b29scy4gJm1pZGRvdDsgMi4gR29vZ2xlIFZlbyZuYnNwOy4uLkoCaW5SBHdpbGxSBGJlc3RSA2FsbCICEAFIAFgAaAA",
+        "source": "Reddit \u00b7 r/AIToolsAndTips",
+        "read_more_link": "https://www.google.com/goto?url=CAESywIBxCJF1y9vq-fu8g-ngzQOwgICkFHFmaCRjxwmTfQ5j00xHCC3Xymsxab8yn8XpgV10Xtb7sLbbnTrcNZI2Hq5ciKUoxMtKreulrTWIGz1CA1YLuMI_9sdFsSAuwExQv-dxQLjfymF28QKrXOMOTEJ2WY8p-7OG9Wsug0VFjI04iUYwPJEJJ0CrxbVbxHjL6uJB2dPTudJqYXcMVINQlt4WKYM_qAlRrQgHQMLN8Emb21Ye022t2UEMRsgzn7qEp_kXpPUUJ4KNpSRaVZqHxmpNDsohemIzDR8nr7m1P1CbWq7pJB_SlSvSWvYtQvK2PZQGJXqcLoxj_HUxlsYRrzIpRPvxaYs7HiqnCcn9haZTUxcjeRAh9eWpHVAsLzXntHw07CzJsjVsK79s4rSPYu5NXxD9_f2XZQnL7MqeFvLhDh8-i-n1406ZePr&gsessionid=dJgUWR0tDw3JgOcAb51DneVlqPsLPv8Hx_Vr1IaXYc6xm8zxkVK_uw"
+      },
+      {
+        "position": 8,
+        "title": "Top 5 AI Video Editing Tools Reviewed (2026)",
+        "link": "https://www.google.com/goto?url=CAESegHEIkXXajSbuwtCpR47YDlRPYYYYd69rdxifZaVyzDPDCczOQv5W53CsKjeckkwsRrsG3ecVHZg3ScwIg-mP7Jvd77TlzN9_MOLeGI9juZ_zGzHZXRFFHKszL6gILNUNozUm0FRiYsbbCGoOh7lkjeAesVZr2iImxpN",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHEIkXXBcB4wVWuMjpLslnZsMlrw66hiQ17mXaU2Fp1HVYC2ICtODrnw0nWQFxyhQ80MYg1NHO5TgAaOi0nw6_xoc1t7-TtpqLIimnsJfLDnULAmo0J_xWPjLkmD1-jZTx4tJpYN7J-y_u8v6TOkTsJsmB_svzoA6Qo&ved=2ahUKEwjx_d7n25uYAxXoHjQIHR2pJp4QFnoECFcQAQ&uoh=1",
+        "displayed_link": "https://www.content24.ai \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAz1BMVEVHcEz____________c3OC2tb3p6ewAACr34PHomcntdpj8dmr5ztb47_UFATKKiZX52-TziZv5mp35pqnchdjMAKTbEX_lJGvtKVD9-fwhHkDfVqTjFGn5SkHXhuvAAMbMDq_to8g7OVNZWGzwOlH9XEfy0_G3ANtKSF8QCzfEw8r1Nj3Pa-jotuscGT68N_VmZXempa_-9vf9Yk-3GvV4d4bOztP9almSkZ0AABWyA_WGhZL3r7n95-m5ANzxy-q5AN3KXunYlvnlufzcccTHb-Y_AAAAA3RSTlMAN82PpNrnAAABD0lEQVR4AXzSQwLEQABE0SQVm2PbtnX_M033mPnbt6xiGJbDzziWGP7GMtx_5BiE9I288B9FCV8oK6qqajoM04LtuK73gn4QRKIxB_GEJCKZiqXTT8xkc3nbtoGCWQR0XS-VH1ipZg3QanWpAVK8-cRWtX2xotnp4BO7VQOknpkw-xccNIcPHFXjAMZmIlG3Jnyc4vQdZ1KCVDeleeMNFwSFuSTVKUt9ENTeEBAnM6LSDL8QICgtQTJ-oJkwx6Ctmu4LgiaYZg-0dam5fuKmvd0CNbMGbCuVfDTm4Ym7bJAEPy8A-yyZIEXsgYeM78sYd-I47lunU974GjsuGf9v0ufPw5eGMAHepIk3UePNDgCiciJECU5OhwAAAABJRU5ErkJggg.png",
+        "date": "22 Jul 2026",
+        "snippet": "Our 2026 review of the top AI video editing tools, Content24, Runway, Pika, CapCut, and Descript, with pros, cons, and best use cases for ...",
+        "snippet_highlighted_words": [
+          "Content24, Runway, Pika, CapCut, and Descript"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Our 2026 review of the top AI video editing tools, Content24, Runway, Pika, CapCut, and Descript, with pros, cons, and best use cases for ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESegHEIkXXajSbuwtCpR47YDlRPYYYYd69rdxifZaVyzDPDCczOQv5W53CsKjeckkwsRrsG3ecVHZg3ScwIg-mP7Jvd77TlzN9_MOLeGI9juZ_zGzHZXRFFHKszL6gILNUNozUm0FRiYsbbCGoOh7lkjeAesVZr2iImxpN",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAz1BMVEVHcEz____________c3OC2tb3p6ewAACr34PHomcntdpj8dmr5ztb47_UFATKKiZX52-TziZv5mp35pqnchdjMAKTbEX_lJGvtKVD9-fwhHkDfVqTjFGn5SkHXhuvAAMbMDq_to8g7OVNZWGzwOlH9XEfy0_G3ANtKSF8QCzfEw8r1Nj3Pa-jotuscGT68N_VmZXempa_-9vf9Yk-3GvV4d4bOztP9almSkZ0AABWyA_WGhZL3r7n95-m5ANzxy-q5AN3KXunYlvnlufzcccTHb-Y_AAAAA3RSTlMAN82PpNrnAAABD0lEQVR4AXzSQwLEQABE0SQVm2PbtnX_M033mPnbt6xiGJbDzziWGP7GMtx_5BiE9I288B9FCV8oK6qqajoM04LtuK73gn4QRKIxB_GEJCKZiqXTT8xkc3nbtoGCWQR0XS-VH1ipZg3QanWpAVK8-cRWtX2xotnp4BO7VQOknpkw-xccNIcPHFXjAMZmIlG3Jnyc4vQdZ1KCVDeleeMNFwSFuSTVKUt9ENTeEBAnM6LSDL8QICgtQTJ-oJkwx6Ctmu4LgiaYZg-0dam5fuKmvd0CNbMGbCuVfDTm4Ym7bJAEPy8A-yyZIEXsgYeM78sYd-I47lunU974GjsuGf9v0ufPw5eGMAHepIk3UePNDgCiciJECU5OhwAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrIBL2dvdG8_dXJsPUNBRVNlZ0hFSWtYWGFqU2J1d3RDcFI0N1lEbFJQWVlZWWQ2OXJkeGlmWmFWeXpEUERDY3pPUXY1VzUzQ3NLamVja2t3c1Jyc0czZWNWSFpnM1Njd0lnLW1QN0p2ZDc3VGx6TjlfTU9MZUdJOWp1Wl96R3pIWlhSRkZIS3N6TDZnSUxOVU5velVtMEZSaVlzYmJDR29PaDdsa2plQWVzVlpyMmlJbXhwThIEGgIIABq7BxICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQJUHCAAQABgAIAAqJQoDdG9wFSKM0EAaBGJlc3QaBGdvb2QaB2xlYWRpbmcaBHRvcDUqIwoBNRUijMBAGgM1YWkaAzV0aBoEZml2ZRoDdGFpGgR0b3A1KjUKAmFpFb7hE0EaAzVhaRoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaA3RhaRoHYWl0b29scyobCgV0b29scxWoQetAGgR0b29sGgdhaXRvb2xzKi0KBWV2ZXJ5FYEX1T4aA2FsbBoDYW55GgRlYWNoGgNwZXIaCmV2ZXJ5dmlkZW8qLQoFdmlkZW8VDlkAQRoGdmlkZW9zGgpldmVyeXZpZGVvGgt2aWRlb2VkaXRvcioyCgZlZGl0b3IVvtE2QBoEZWRpdBoHZWRpdGluZxoHZWRpdG9ycxoLdmlkZW9lZGl0b3IqOwoGc2hvdWxkFZVvqz4aBWNvdWxkGgRtdXN0GgduZWVkIHRvGgR3aWxsGgV3b3VsZBoJc2hvdWxkdXNlKj0KA3VzZRXaGUU_GgR0YWtlGgV1c2FnZRoEdXNlZBoEdXNlcxoHdXRpbGl6ZRoEd2VhchoJc2hvdWxkdXNlKgkKAmluFQAAAAAqJAoEMjAyNhWeLeFAGgxnbTtkYXRlOzIwMjYaCWl2O247MjAyNjKyAS9nb3RvP3VybD1DQUVTZWdIRUlrWFhhalNidXd0Q3BSNDdZRGxSUFlZWVlkNjlyZHhpZlphVnl6RFBEQ2N6T1F2NVc1M0NzS2plY2trd3NScnNHM2VjVkhaZzNTY3dJZy1tUDdKdmQ3N1Rsek45X01PTGVHSTlqdVpfekd6SFpYUkZGSEtzekw2Z0lMTlVOb3pVbTBGUmlZc2JiQ0dvT2g3bGtqZUFlc1ZacjJpSW14cE46RjxiPlRvcCA1IEFJIFZpZGVvIEVkaXRpbmcgVG9vbHM8L2I-IFJldmlld2VkICg8Yj4yMDI2PC9iPikgLSBDb250ZW50MjRCmQFPdXIgMjAyNiByZXZpZXcgb2YgdGhlIHRvcCBBSSB2aWRlbyBlZGl0aW5nIHRvb2xzLCA8Yj5Db250ZW50MjQsIFJ1bndheSwgUGlrYSwgQ2FwQ3V0LCBhbmQgRGVzY3JpcHQ8L2I-LCB3aXRoIHByb3MsIGNvbnMsIGFuZCBiZXN0IHVzZSBjYXNlcyBmb3ImbmJzcDsuLi5KAmluUgNhbGxSBGJlc3RSBHdpbGwiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrIBL2dvdG8_dXJsPUNBRVNlZ0hFSWtYWGFqU2J1d3RDcFI0N1lEbFJQWVlZWWQ2OXJkeGlmWmFWeXpEUERDY3pPUXY1VzUzQ3NLamVja2t3c1Jyc0czZWNWSFpnM1Njd0lnLW1QN0p2ZDc3VGx6TjlfTU9MZUdJOWp1Wl96R3pIWlhSRkZIS3N6TDZnSUxOVU5velVtMEZSaVlzYmJDR29PaDdsa2plQWVzVlpyMmlJbXhwThIEGgIIABq7BxICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQJUHCAAQABgAIAAqJQoDdG9wFSKM0EAaBGJlc3QaBGdvb2QaB2xlYWRpbmcaBHRvcDUqIwoBNRUijMBAGgM1YWkaAzV0aBoEZml2ZRoDdGFpGgR0b3A1KjUKAmFpFb7hE0EaAzVhaRoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaA3RhaRoHYWl0b29scyobCgV0b29scxWoQetAGgR0b29sGgdhaXRvb2xzKi0KBWV2ZXJ5FYEX1T4aA2FsbBoDYW55GgRlYWNoGgNwZXIaCmV2ZXJ5dmlkZW8qLQoFdmlkZW8VDlkAQRoGdmlkZW9zGgpldmVyeXZpZGVvGgt2aWRlb2VkaXRvcioyCgZlZGl0b3IVvtE2QBoEZWRpdBoHZWRpdGluZxoHZWRpdG9ycxoLdmlkZW9lZGl0b3IqOwoGc2hvdWxkFZVvqz4aBWNvdWxkGgRtdXN0GgduZWVkIHRvGgR3aWxsGgV3b3VsZBoJc2hvdWxkdXNlKj0KA3VzZRXaGUU_GgR0YWtlGgV1c2FnZRoEdXNlZBoEdXNlcxoHdXRpbGl6ZRoEd2VhchoJc2hvdWxkdXNlKgkKAmluFQAAAAAqJAoEMjAyNhWeLeFAGgxnbTtkYXRlOzIwMjYaCWl2O247MjAyNjKyAS9nb3RvP3VybD1DQUVTZWdIRUlrWFhhalNidXd0Q3BSNDdZRGxSUFlZWVlkNjlyZHhpZlphVnl6RFBEQ2N6T1F2NVc1M0NzS2plY2trd3NScnNHM2VjVkhaZzNTY3dJZy1tUDdKdmQ3N1Rsek45X01PTGVHSTlqdVpfekd6SFpYUkZGSEtzekw2Z0lMTlVOb3pVbTBGUmlZc2JiQ0dvT2g3bGtqZUFlc1ZacjJpSW14cE46RjxiPlRvcCA1IEFJIFZpZGVvIEVkaXRpbmcgVG9vbHM8L2I-IFJldmlld2VkICg8Yj4yMDI2PC9iPikgLSBDb250ZW50MjRCmQFPdXIgMjAyNiByZXZpZXcgb2YgdGhlIHRvcCBBSSB2aWRlbyBlZGl0aW5nIHRvb2xzLCA8Yj5Db250ZW50MjQsIFJ1bndheSwgUGlrYSwgQ2FwQ3V0LCBhbmQgRGVzY3JpcHQ8L2I-LCB3aXRoIHByb3MsIGNvbnMsIGFuZCBiZXN0IHVzZSBjYXNlcyBmb3ImbmJzcDsuLi5KAmluUgNhbGxSBGJlc3RSBHdpbGwiAhABSABYAGgA",
+        "source": "Content24"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "Best AI tools for video editing free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDjE1RbPxCKpS-GCNr1li-Dty04Oiw:1795355334665&q=Best+AI+tools+for+video+editing+free&sa=X&ved=2ahUKEwjx_d7n25uYAxXoHjQIHR2pJp4Q1QJ6BAhSEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Best+AI+tools+for+video+editing+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Best AI video editing tools",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDjE1RbPxCKpS-GCNr1li-Dty04Oiw:1795355334665&q=Best+AI+video+editing+tools&sa=X&ved=2ahUKEwjx_d7n25uYAxXoHjQIHR2pJp4Q1QJ6BAhWEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Best+AI+video+editing+tools"
+      },
+      {
+        "block_position": 1,
+        "query": "Best AI editing tools",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDjE1RbPxCKpS-GCNr1li-Dty04Oiw:1795355334665&q=Best+AI+editing+tools&sa=X&ved=2ahUKEwjx_d7n25uYAxXoHjQIHR2pJp4Q1QJ6BAhVEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Best+AI+editing+tools"
+      },
+      {
+        "block_position": 1,
+        "query": "Best AI video editor 2026",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDjE1RbPxCKpS-GCNr1li-Dty04Oiw:1795355334665&q=Best+AI+video+editor+2026&sa=X&ved=2ahUKEwjx_d7n25uYAxXoHjQIHR2pJp4Q1QJ6BAhUEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Best+AI+video+editor+2026"
+      },
+      {
+        "block_position": 1,
+        "query": "Best AI app to make videos for free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDjE1RbPxCKpS-GCNr1li-Dty04Oiw:1795355334665&q=Best+AI+app+to+make+videos+for+free&sa=X&ved=2ahUKEwjx_d7n25uYAxXoHjQIHR2pJp4Q1QJ6BAhREAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Best+AI+app+to+make+videos+for+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Best AI video editor for YouTube",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDjE1RbPxCKpS-GCNr1li-Dty04Oiw:1795355334665&q=Best+AI+video+editor+for+YouTube&sa=X&ved=2ahUKEwjx_d7n25uYAxXoHjQIHR2pJp4Q1QJ6BAhTEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Best+AI+video+editor+for+YouTube"
+      },
+      {
+        "block_position": 1,
+        "query": "Best AI video editor app",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDjE1RbPxCKpS-GCNr1li-Dty04Oiw:1795355334665&q=Best+AI+video+editor+app&sa=X&ved=2ahUKEwjx_d7n25uYAxXoHjQIHR2pJp4Q1QJ6BAhQEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Best+AI+video+editor+app"
+      },
+      {
+        "block_position": 1,
+        "query": "Free AI video editor",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDjE1RbPxCKpS-GCNr1li-Dty04Oiw:1795355334665&q=Free+AI+video+editor&sa=X&ved=2ahUKEwjx_d7n25uYAxXoHjQIHR2pJp4Q1QJ6BAhPEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Free+AI+video+editor"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=Top+5+AI+tools+every+video+editor+should+use+in+2026&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDjE1RbPxCKpS-GCNr1li-Dty04Oiw:1795355334665&ei=xvICa_GCKOi90PEPndKa8Qk&start=10&sa=N&sstk=AYl2yk-J3bbQKgPyAmRi0GjGM3pq4eZoUNFZIvMf81IMztAu55kGkoWkZ80qfBCWEW0S7KmOiTMZyxk8BRJcqE8aYeTmLLUw9phsUg&ved=2ahUKEwjx_d7n25uYAxXoHjQIHR2pJp4Q8NMDegQITRAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=Top+5+AI+tools+every+video+editor+should+use+in+2026&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDjE1RbPxCKpS-GCNr1li-Dty04Oiw:1795355334665&ei=xvICa_GCKOi90PEPndKa8Qk&start=10&sa=N&sstk=AYl2yk-J3bbQKgPyAmRi0GjGM3pq4eZoUNFZIvMf81IMztAu55kGkoWkZ80qfBCWEW0S7KmOiTMZyxk8BRJcqE8aYeTmLLUw9phsUg&ved=2ahUKEwjx_d7n25uYAxXoHjQIHR2pJp4Q8tMDegQITRAE",
+        "3": "https://www.google.com/search?q=Top+5+AI+tools+every+video+editor+should+use+in+2026&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDjE1RbPxCKpS-GCNr1li-Dty04Oiw:1795355334665&ei=xvICa_GCKOi90PEPndKa8Qk&start=20&sa=N&sstk=AYl2yk-J3bbQKgPyAmRi0GjGM3pq4eZoUNFZIvMf81IMztAu55kGkoWkZ80qfBCWEW0S7KmOiTMZyxk8BRJcqE8aYeTmLLUw9phsUg&ved=2ahUKEwjx_d7n25uYAxXoHjQIHR2pJp4Q8tMDegQITRAG",
+        "4": "https://www.google.com/search?q=Top+5+AI+tools+every+video+editor+should+use+in+2026&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDjE1RbPxCKpS-GCNr1li-Dty04Oiw:1795355334665&ei=xvICa_GCKOi90PEPndKa8Qk&start=30&sa=N&sstk=AYl2yk-J3bbQKgPyAmRi0GjGM3pq4eZoUNFZIvMf81IMztAu55kGkoWkZ80qfBCWEW0S7KmOiTMZyxk8BRJcqE8aYeTmLLUw9phsUg&ved=2ahUKEwjx_d7n25uYAxXoHjQIHR2pJp4Q8tMDegQITRAI",
+        "5": "https://www.google.com/search?q=Top+5+AI+tools+every+video+editor+should+use+in+2026&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDjE1RbPxCKpS-GCNr1li-Dty04Oiw:1795355334665&ei=xvICa_GCKOi90PEPndKa8Qk&start=40&sa=N&sstk=AYl2yk-J3bbQKgPyAmRi0GjGM3pq4eZoUNFZIvMf81IMztAu55kGkoWkZ80qfBCWEW0S7KmOiTMZyxk8BRJcqE8aYeTmLLUw9phsUg&ved=2ahUKEwjx_d7n25uYAxXoHjQIHR2pJp4Q8tMDegQITRAK",
+        "6": "https://www.google.com/search?q=Top+5+AI+tools+every+video+editor+should+use+in+2026&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDjE1RbPxCKpS-GCNr1li-Dty04Oiw:1795355334665&ei=xvICa_GCKOi90PEPndKa8Qk&start=50&sa=N&sstk=AYl2yk-J3bbQKgPyAmRi0GjGM3pq4eZoUNFZIvMf81IMztAu55kGkoWkZ80qfBCWEW0S7KmOiTMZyxk8BRJcqE8aYeTmLLUw9phsUg&ved=2ahUKEwjx_d7n25uYAxXoHjQIHR2pJp4Q8tMDegQITRAM",
+        "7": "https://www.google.com/search?q=Top+5+AI+tools+every+video+editor+should+use+in+2026&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDjE1RbPxCKpS-GCNr1li-Dty04Oiw:1795355334665&ei=xvICa_GCKOi90PEPndKa8Qk&start=60&sa=N&sstk=AYl2yk-J3bbQKgPyAmRi0GjGM3pq4eZoUNFZIvMf81IMztAu55kGkoWkZ80qfBCWEW0S7KmOiTMZyxk8BRJcqE8aYeTmLLUw9phsUg&ved=2ahUKEwjx_d7n25uYAxXoHjQIHR2pJp4Q8tMDegQITRAO",
+        "8": "https://www.google.com/search?q=Top+5+AI+tools+every+video+editor+should+use+in+2026&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDjE1RbPxCKpS-GCNr1li-Dty04Oiw:1795355334665&ei=xvICa_GCKOi90PEPndKa8Qk&start=70&sa=N&sstk=AYl2yk-J3bbQKgPyAmRi0GjGM3pq4eZoUNFZIvMf81IMztAu55kGkoWkZ80qfBCWEW0S7KmOiTMZyxk8BRJcqE8aYeTmLLUw9phsUg&ved=2ahUKEwjx_d7n25uYAxXoHjQIHR2pJp4Q8tMDegQITRAQ",
+        "9": "https://www.google.com/search?q=Top+5+AI+tools+every+video+editor+should+use+in+2026&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDjE1RbPxCKpS-GCNr1li-Dty04Oiw:1795355334665&ei=xvICa_GCKOi90PEPndKa8Qk&start=80&sa=N&sstk=AYl2yk-J3bbQKgPyAmRi0GjGM3pq4eZoUNFZIvMf81IMztAu55kGkoWkZ80qfBCWEW0S7KmOiTMZyxk8BRJcqE8aYeTmLLUw9phsUg&ved=2ahUKEwjx_d7n25uYAxXoHjQIHR2pJp4Q8tMDegQITRAS",
+        "10": "https://www.google.com/search?q=Top+5+AI+tools+every+video+editor+should+use+in+2026&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDjE1RbPxCKpS-GCNr1li-Dty04Oiw:1795355334665&ei=xvICa_GCKOi90PEPndKa8Qk&start=90&sa=N&sstk=AYl2yk-J3bbQKgPyAmRi0GjGM3pq4eZoUNFZIvMf81IMztAu55kGkoWkZ80qfBCWEW0S7KmOiTMZyxk8BRJcqE8aYeTmLLUw9phsUg&ved=2ahUKEwjx_d7n25uYAxXoHjQIHR2pJp4Q8tMDegQITRAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Top+5+AI+tools+every+video+editor+should+use+in+2026&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Top+5+AI+tools+every+video+editor+should+use+in+2026&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Top+5+AI+tools+every+video+editor+should+use+in+2026&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Top+5+AI+tools+every+video+editor+should+use+in+2026&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Top+5+AI+tools+every+video+editor+should+use+in+2026&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Top+5+AI+tools+every+video+editor+should+use+in+2026&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Top+5+AI+tools+every+video+editor+should+use+in+2026&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Top+5+AI+tools+every+video+editor+should+use+in+2026&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Top+5+AI+tools+every+video+editor+should+use+in+2026&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Top+5+AI+tools+every+video+editor+should+use+in+2026&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Top+5+AI+tools+every+video+editor+should+use+in+2026&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

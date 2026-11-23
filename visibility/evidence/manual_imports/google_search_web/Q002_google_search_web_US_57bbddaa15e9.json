@@ -1,0 +1,31 @@
+{
+  "measurement_id": "57bbddaa15e9",
+  "question_id": "Q002",
+  "timestamp_utc": "2026-11-22T11:26:00Z",
+  "provider_name": "Google Search Web",
+  "model_identifier": "google-search-web",
+  "question": "Best AI tools to create short clips from long videos",
+  "market": "US",
+  "collection_method": "MANUAL_VERIFIED_IMPORT",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [
+    "Opus Clip",
+    "Descript",
+    "Munch",
+    "CapCut"
+  ],
+  "position": 101,
+  "citations": [
+    "https://opus.pro",
+    "https://www.getmunch.com"
+  ],
+  "raw_text_summary": "Top AI tools to create short clips from long videos include Opus Clip, Descript, Munch, and CapCut. These tools automatically identify key hooks and reframe to 9:16 vertical video.",
+  "raw_payload": {
+    "import_type": "manual_observation",
+    "screenshot_reference": null,
+    "recorded_by": "candidate_verified",
+    "day_identifier": "DAY_1"
+  },
+  "error_details": null
+}

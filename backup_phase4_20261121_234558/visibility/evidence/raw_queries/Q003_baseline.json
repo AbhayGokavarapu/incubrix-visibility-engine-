@@ -1,0 +1,80 @@
+{
+  "question_id": "Q003",
+  "query": "Best AI tools for video repurposing in 2026",
+  "day1_check": {
+    "date": "2026-11-20",
+    "google": {
+      "position": ">100",
+      "ai_overview": true,
+      "top_quoted": "https://www.opus.pro"
+    },
+    "chatgpt": {
+      "mentioned": false,
+      "recommended": [
+        "Opus Clip",
+        "Descript",
+        "CapCut"
+      ]
+    },
+    "gemini": {
+      "mentioned": false,
+      "recommended": [
+        "Opus Clip",
+        "Munch",
+        "Veed.io"
+      ]
+    },
+    "perplexity": {
+      "mentioned": false,
+      "sources": [
+        "https://zapier.com",
+        "https://g2.com"
+      ]
+    },
+    "claude": {
+      "mentioned": false,
+      "recommended": [
+        "Descript",
+        "Opus Clip"
+      ]
+    }
+  },
+  "day2_check": {
+    "date": "2026-11-21",
+    "google": {
+      "position": ">100",
+      "ai_overview": true,
+      "top_quoted": "https://www.opus.pro"
+    },
+    "chatgpt": {
+      "mentioned": false,
+      "recommended": [
+        "Opus Clip",
+        "Descript",
+        "CapCut"
+      ]
+    },
+    "gemini": {
+      "mentioned": false,
+      "recommended": [
+        "Opus Clip",
+        "Munch",
+        "Veed.io"
+      ]
+    },
+    "perplexity": {
+      "mentioned": false,
+      "sources": [
+        "https://zapier.com",
+        "https://g2.com"
+      ]
+    },
+    "claude": {
+      "mentioned": false,
+      "recommended": [
+        "Descript",
+        "Opus Clip"
+      ]
+    }
+  }
+}

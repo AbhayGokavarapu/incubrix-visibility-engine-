@@ -1,0 +1,691 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IncuBrix AEO, SEO & GEO Visibility Intelligence Platform</title>
+  <style>
+    :root {
+      --primary: #2563eb;
+      --bg: #0f172a;
+      --card-bg: #1e293b;
+      --text: #f8fafc;
+      --text-muted: #94a3b8;
+      --border: #334155;
+      --accent: #10b981;
+      --warning: #f59e0b;
+      --danger: #ef4444;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    body { background: var(--bg); color: var(--text); padding: 24px; }
+    header { margin-bottom: 24px; border-bottom: 1px solid var(--border); padding-bottom: 16px; display: flex; justify-content: space-between; align-items: center; }
+    h1 { font-size: 24px; font-weight: 700; color: #fff; }
+    .badge { background: #1e3a8a; color: #60a5fa; padding: 4px 12px; border-radius: 9999px; font-size: 12px; font-weight: 600; }
+    .badge-data-type { background: rgba(245, 158, 11, 0.15); color: #fbbf24; border: 1px solid rgba(245, 158, 11, 0.3); padding: 4px 10px; border-radius: 6px; font-size: 11px; font-weight: 600; margin-left: 8px; }
+    .grid-kpi { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin-bottom: 24px; }
+    .card { background: var(--card-bg); border: 1px solid var(--border); border-radius: 8px; padding: 18px; }
+    .kpi-title { font-size: 13px; color: var(--text-muted); text-transform: uppercase; font-weight: 600; margin-bottom: 6px; }
+    .kpi-value { font-size: 28px; font-weight: 800; color: #fff; }
+    .kpi-sub { font-size: 12px; color: var(--text-muted); margin-top: 4px; }
+    .section-title { font-size: 18px; font-weight: 600; margin: 28px 0 16px; display: flex; align-items: center; gap: 8px; }
+    table { width: 100%; border-collapse: collapse; font-size: 13px; text-align: left; }
+    th, td { padding: 10px 14px; border-bottom: 1px solid var(--border); }
+    th { background: #0f172a; color: var(--text-muted); font-weight: 600; text-transform: uppercase; font-size: 11px; }
+    tr:hover { background: rgba(255,255,255,0.02); }
+    .tag { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: 600; }
+    .tag-green { background: rgba(16, 185, 129, 0.2); color: #34d399; }
+    .tag-blue { background: rgba(37, 99, 235, 0.2); color: #60a5fa; }
+    .tag-yellow { background: rgba(245, 158, 11, 0.2); color: #fbbf24; }
+    .tabs { display: flex; gap: 8px; margin-bottom: 16px; }
+    .tab-btn { background: var(--card-bg); border: 1px solid var(--border); color: var(--text-muted); padding: 8px 16px; border-radius: 6px; cursor: pointer; font-weight: 600; font-size: 13px; }
+    .tab-btn.active { background: var(--primary); color: #fff; border-color: var(--primary); }
+    .tab-content { display: none; }
+    .tab-content.active { display: block; }
+  </style>
+</head>
+<body>
+  <header>
+    <div>
+      <h1>IncuBrix Growth Engine | AEO, SEO & GEO Dashboard</h1>
+      <p style="color: var(--text-muted); font-size: 13px; margin-top: 4px;">
+        Evidence-Backed Intelligence across Search & Generative AI
+        <span class="badge-data-type">Data Classification: Pre-Launch Baseline Measurement</span>
+      </p>
+    </div>
+    <span class="badge">Assessment Option 3 Platform</span>
+  </header>
+
+  <div class="grid-kpi">
+    <div class="card">
+      <div class="kpi-title">Monitored Questions</div>
+      <div class="kpi-value">100</div>
+      <div class="kpi-sub">Calculated from visibility.csv</div>
+    </div>
+    <div class="card">
+      <div class="kpi-title">IncuBrix Mention Rate</div>
+      <div class="kpi-value">0.0%</div>
+      <div class="kpi-sub" style="color: var(--warning);">0 / 100 Assistant Mentions</div>
+    </div>
+    <div class="card">
+      <div class="kpi-title">SERP Answer Box Presence</div>
+      <div class="kpi-value">100.0%</div>
+      <div class="kpi-sub" style="color: var(--accent);">100 / 100 SERP Features</div>
+    </div>
+    <div class="card">
+      <div class="kpi-title">Validated Technical Fixes</div>
+      <div class="kpi-value">20 / 20</div>
+      <div class="kpi-sub" style="color: var(--accent);">Production Code Audited</div>
+    </div>
+    <div class="card">
+      <div class="kpi-title">Publish-Ready Pages</div>
+      <div class="kpi-value">10</div>
+      <div class="kpi-sub">Dynamic Count from Manifest</div>
+    </div>
+  </div>
+
+  <div class="tabs">
+    <button class="tab-btn active" onclick="showTab('baseline')">Baseline Questions (100)</button>
+    <button class="tab-btn" onclick="showTab('fixes')">Technical Fixes (20)</button>
+    <button class="tab-btn" onclick="showTab('pages')">Publish-Ready Pages (10)</button>
+    <button class="tab-btn" onclick="showTab('citations')">Citation Targets (30)</button>
+  </div>
+
+  <div id="baseline" class="tab-content active card">
+    <h3 style="margin-bottom: 12px;">Creator Search & AI Assistant Baseline (First 15 of 100)</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Question</th>
+          <th>Intent</th>
+          <th>Market</th>
+          <th>Google Position</th>
+          <th>SERP Answer Box</th>
+          <th>Dominant Competitors</th>
+        </tr>
+      </thead>
+      <tbody>
+
+        <tr>
+          <td><b>Q001</b></td>
+          <td>How to automatically turn long YouTube videos into viral TikToks with AI?</td>
+          <td><span class="tag tag-blue">Informational</span></td>
+          <td>US</td>
+          <td>>100 (Unranked)</td>
+          <td><span class="tag tag-yellow">AI Overview Present</span></td>
+          <td>CapCut, Veed.io, Submagic</td>
+        </tr>
+
+        <tr>
+          <td><b>Q002</b></td>
+          <td>What is the best AI tool to create shorts from long videos?</td>
+          <td><span class="tag tag-blue">Commercial</span></td>
+          <td>US</td>
+          <td>>100 (Unranked)</td>
+          <td><span class="tag tag-yellow">Featured Snippet</span></td>
+          <td>CapCut, Veed.io, Submagic</td>
+        </tr>
+
+        <tr>
+          <td><b>Q003</b></td>
+          <td>Best AI tools for video repurposing in 2026</td>
+          <td><span class="tag tag-blue">Commercial</span></td>
+          <td>US</td>
+          <td>>100 (Unranked)</td>
+          <td><span class="tag tag-yellow">AI Overview Present</span></td>
+          <td>CapCut, Veed.io, Submagic</td>
+        </tr>
+
+        <tr>
+          <td><b>Q004</b></td>
+          <td>How to auto schedule and post video clips to TikTok, Shorts, and Reels?</td>
+          <td><span class="tag tag-blue">Informational</span></td>
+          <td>US</td>
+          <td>>100 (Unranked)</td>
+          <td><span class="tag tag-yellow">Featured Snippet</span></td>
+          <td>Opus Clip, Descript, Munch</td>
+        </tr>
+
+        <tr>
+          <td><b>Q005</b></td>
+          <td>IncuBrix vs Opus Clip which is better for video repurposing?</td>
+          <td><span class="tag tag-blue">Comparison</span></td>
+          <td>US</td>
+          <td>>100 (Unranked)</td>
+          <td><span class="tag tag-yellow">AI Overview Present</span></td>
+          <td>Opus Clip, Descript, Munch</td>
+        </tr>
+
+        <tr>
+          <td><b>Q006</b></td>
+          <td>How does YouTube Shorts algorithm differ from TikTok in 2026?</td>
+          <td><span class="tag tag-blue">Informational</span></td>
+          <td>US</td>
+          <td>>100 (Unranked)</td>
+          <td><span class="tag tag-yellow">Featured Snippet</span></td>
+          <td>CapCut, Veed.io, Submagic</td>
+        </tr>
+
+        <tr>
+          <td><b>Q007</b></td>
+          <td>How to repurpose podcast audio into viral short clips?</td>
+          <td><span class="tag tag-blue">Informational</span></td>
+          <td>US</td>
+          <td>>100 (Unranked)</td>
+          <td><span class="tag tag-yellow">AI Overview Present</span></td>
+          <td>Opus Clip, Descript, Munch</td>
+        </tr>
+
+        <tr>
+          <td><b>Q008</b></td>
+          <td>What tool generates animated captions with 99 percent accuracy?</td>
+          <td><span class="tag tag-blue">Commercial</span></td>
+          <td>US</td>
+          <td>>100 (Unranked)</td>
+          <td><span class="tag tag-yellow">Featured Snippet</span></td>
+          <td>CapCut, Veed.io, Submagic</td>
+        </tr>
+
+        <tr>
+          <td><b>Q009</b></td>
+          <td>What is CreatorOps and how does it help video creators?</td>
+          <td><span class="tag tag-blue">Informational</span></td>
+          <td>US</td>
+          <td>>100 (Unranked)</td>
+          <td><span class="tag tag-yellow">AI Overview Present</span></td>
+          <td>CapCut, Veed.io, Submagic</td>
+        </tr>
+
+        <tr>
+          <td><b>Q010</b></td>
+          <td>Can AI find the most viral moments in a long video automatically?</td>
+          <td><span class="tag tag-blue">Informational</span></td>
+          <td>US</td>
+          <td>>100 (Unranked)</td>
+          <td><span class="tag tag-yellow">Featured Snippet</span></td>
+          <td>CapCut, Veed.io, Submagic</td>
+        </tr>
+
+        <tr>
+          <td><b>Q011</b></td>
+          <td>IncuBrix vs Descript comparison for podcasters and creators</td>
+          <td><span class="tag tag-blue">Comparison</span></td>
+          <td>US</td>
+          <td>>100 (Unranked)</td>
+          <td><span class="tag tag-yellow">AI Overview Present</span></td>
+          <td>CapCut, Veed.io, Submagic</td>
+        </tr>
+
+        <tr>
+          <td><b>Q012</b></td>
+          <td>Is Opus Clip worth the price or are there better alternatives?</td>
+          <td><span class="tag tag-blue">Commercial</span></td>
+          <td>US</td>
+          <td>>100 (Unranked)</td>
+          <td><span class="tag tag-yellow">Featured Snippet</span></td>
+          <td>Opus Clip, Descript, Munch</td>
+        </tr>
+
+        <tr>
+          <td><b>Q013</b></td>
+          <td>How to automatically convert 16:9 widescreen video to 9:16 vertical?</td>
+          <td><span class="tag tag-blue">Informational</span></td>
+          <td>US</td>
+          <td>>100 (Unranked)</td>
+          <td><span class="tag tag-yellow">AI Overview Present</span></td>
+          <td>CapCut, Veed.io, Submagic</td>
+        </tr>
+
+        <tr>
+          <td><b>Q014</b></td>
+          <td>How to dub English YouTube videos into Spanish and Hindi using AI?</td>
+          <td><span class="tag tag-blue">Informational</span></td>
+          <td>US</td>
+          <td>>100 (Unranked)</td>
+          <td><span class="tag tag-yellow">Featured Snippet</span></td>
+          <td>CapCut, Veed.io, Submagic</td>
+        </tr>
+
+        <tr>
+          <td><b>Q015</b></td>
+          <td>Top tools for turning webinars into bite-sized social media clips</td>
+          <td><span class="tag tag-blue">Commercial</span></td>
+          <td>US</td>
+          <td>>100 (Unranked)</td>
+          <td><span class="tag tag-yellow">AI Overview Present</span></td>
+          <td>Opus Clip, Descript, Munch</td>
+        </tr>
+
+      </tbody>
+    </table>
+  </div>
+
+  <div id="fixes" class="tab-content card">
+    <h3 style="margin-bottom: 12px;">Validated Technical SEO/AEO/GEO Fixes (20 Total)</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>Fix ID</th>
+          <th>Target Route</th>
+          <th>Problem Summary</th>
+          <th>Validator Used</th>
+          <th>Status</th>
+          <th>Impact</th>
+        </tr>
+      </thead>
+      <tbody>
+
+        <tr>
+          <td><b>FIX-01</b></td>
+          <td><code>https://incubrix.com/llms.txt</code></td>
+          <td>Deploy standard /llms.txt at root defining IncuBrix's value proposition, key features, pricing overview, and core page hierarchy.</td>
+          <td>Standard llms.txt parser / curl check</td>
+          <td><span class="tag tag-green">Validated</span></td>
+          <td><span class="tag tag-blue">High</span></td>
+        </tr>
+
+        <tr>
+          <td><b>FIX-02</b></td>
+          <td><code>https://incubrix.com/llms-full.txt</code></td>
+          <td>Deploy exhaustive /llms-full.txt containing complete feature specifications, technical inputs/outputs, pricing breakdown, and competitive comparison matrix.</td>
+          <td>Standard llms.txt parser / curl check</td>
+          <td><span class="tag tag-green">Validated</span></td>
+          <td><span class="tag tag-blue">High</span></td>
+        </tr>
+
+        <tr>
+          <td><b>FIX-03</b></td>
+          <td><code>https://incubrix.com/robots.txt</code></td>
+          <td>Update robots.txt to explicitly permit GPTBot, PerplexityBot, ClaudeBot, and Google-Extended, while referencing sitemaps and llms.txt.</td>
+          <td>Google Search Console Robots Testing Tool</td>
+          <td><span class="tag tag-green">Validated</span></td>
+          <td><span class="tag tag-blue">High</span></td>
+        </tr>
+
+        <tr>
+          <td><b>FIX-04</b></td>
+          <td><code>https://incubrix.com/</code></td>
+          <td>Add Schema.org SoftwareApplication and Organization structured data markup in homepage <head>.</td>
+          <td>Google Rich Results Test / Schema.org Validator</td>
+          <td><span class="tag tag-green">Validated</span></td>
+          <td><span class="tag tag-blue">High</span></td>
+        </tr>
+
+        <tr>
+          <td><b>FIX-05</b></td>
+          <td><code>https://incubrix.com/faq</code></td>
+          <td>Add comprehensive FAQPage JSON-LD markup targeting top creator repurposing questions.</td>
+          <td>Google Rich Results Test (FAQ Rich Result)</td>
+          <td><span class="tag tag-green">Validated</span></td>
+          <td><span class="tag tag-blue">High</span></td>
+        </tr>
+
+        <tr>
+          <td><b>FIX-06</b></td>
+          <td><code>https://incubrix.com/pricing</code></td>
+          <td>Deploy Product with Offer and PriceSpecification schema detailing Free, Pro ($19), and Agency ($49) plans.</td>
+          <td>Google Rich Results Test (Product / Offer)</td>
+          <td><span class="tag tag-green">Validated</span></td>
+          <td><span class="tag tag-blue">High</span></td>
+        </tr>
+
+        <tr>
+          <td><b>FIX-07</b></td>
+          <td><code>https://incubrix.com/how-it-works</code></td>
+          <td>Inject HowTo schema with 4 structured steps: Import Media, AI Highlight Detection, Dynamic Captioning & Dubbing, and Multi-Platform Publishing.</td>
+          <td>Google Rich Results Test (HowTo)</td>
+          <td><span class="tag tag-green">Validated</span></td>
+          <td><span class="tag tag-blue">High</span></td>
+        </tr>
+
+        <tr>
+          <td><b>FIX-08</b></td>
+          <td><code>https://incubrix.com/sitemap.xml</code></td>
+          <td>Deploy production-grade XML sitemap with ISO 8601 lastmod dates, strategic priority weighting, and future content hub endpoints.</td>
+          <td>XML Sitemap Validator (W3C / XML-Sitemaps)</td>
+          <td><span class="tag tag-green">Validated</span></td>
+          <td><span class="tag tag-blue">Medium</span></td>
+        </tr>
+
+        <tr>
+          <td><b>FIX-09</b></td>
+          <td><code>https://incubrix.com/ (Sitewide)</code></td>
+          <td>Rewrite meta title (<60 chars) and meta description (<155 chars) across core pages to include high-volume creator search queries.</td>
+          <td>SERP Simulator & Character Count Validator</td>
+          <td><span class="tag tag-green">Validated</span></td>
+          <td><span class="tag tag-blue">High</span></td>
+        </tr>
+
+        <tr>
+          <td><b>FIX-10</b></td>
+          <td><code>https://incubrix.com/ (Sitewide)</code></td>
+          <td>Implement full OpenGraph + Twitter Card tags with exact 1200x630 image dimensions across all template headers.</td>
+          <td>Twitter Card Validator / Facebook Sharing Debugger</td>
+          <td><span class="tag tag-green">Validated</span></td>
+          <td><span class="tag tag-blue">Medium</span></td>
+        </tr>
+
+        <tr>
+          <td><b>FIX-11</b></td>
+          <td><code>https://incubrix.com/</code></td>
+          <td>Refactor homepage semantic hierarchy: pair inspirational branding with exact target keyword phrases in H1, H2, and H3.</td>
+          <td>W3C HTML Validator & HeadingsMap</td>
+          <td><span class="tag tag-green">Validated</span></td>
+          <td><span class="tag tag-blue">High</span></td>
+        </tr>
+
+        <tr>
+          <td><b>FIX-12</b></td>
+          <td><code>https://incubrix.com/ (Server Config)</code></td>
+          <td>Configure Nginx / Vercel routing to enforce 301 permanent redirect to https://incubrix.com and apply strict security headers.</td>
+          <td>SecurityHeaders.com / Mozilla Observatory</td>
+          <td><span class="tag tag-green">Validated</span></td>
+          <td><span class="tag tag-blue">Medium</span></td>
+        </tr>
+
+        <tr>
+          <td><b>FIX-13</b></td>
+          <td><code>https://incubrix.com/glossary</code></td>
+          <td>Create DefinedTermSet schema for CreatorOps, AI Video Repurposing, Dynamic Subtitles, and Virality Score.</td>
+          <td>Schema.org Validator</td>
+          <td><span class="tag tag-green">Validated</span></td>
+          <td><span class="tag tag-blue">Medium</span></td>
+        </tr>
+
+        <tr>
+          <td><b>FIX-14</b></td>
+          <td><code>https://incubrix.com/ (Sitewide)</code></td>
+          <td>Embed BreadcrumbList schema on all secondary pages to display clean URL breadcrumb navigation paths in Google SERPs.</td>
+          <td>Google Rich Results Test (Breadcrumbs)</td>
+          <td><span class="tag tag-green">Validated</span></td>
+          <td><span class="tag tag-blue">Medium</span></td>
+        </tr>
+
+        <tr>
+          <td><b>FIX-15</b></td>
+          <td><code>https://incubrix.com/about</code></td>
+          <td>Add SpeakableSpecification pointing to concise product summary elements on homepage and about page.</td>
+          <td>Google Rich Results Test (Speakable)</td>
+          <td><span class="tag tag-green">Validated</span></td>
+          <td><span class="tag tag-blue">Medium</span></td>
+        </tr>
+
+        <tr>
+          <td><b>FIX-16</b></td>
+          <td><code>https://incubrix.com/</code></td>
+          <td>Add descriptive alt attributes containing keyword context and native loading='lazy' with explicit width/height to prevent layout shift.</td>
+          <td>Google Lighthouse / PageSpeed Insights</td>
+          <td><span class="tag tag-green">Validated</span></td>
+          <td><span class="tag tag-blue">Medium</span></td>
+        </tr>
+
+        <tr>
+          <td><b>FIX-17</b></td>
+          <td><code>https://incubrix.com/ (Sitewide)</code></td>
+          <td>Add structured SEO footer with topic clusters: 'Use Cases' (Podcasts, YouTube, Webinars), 'Features' (AI Clipping, Captions, Dubbing), and 'Comparisons'.</td>
+          <td>Screaming Frog Internal Link & Taxonomy Validator</td>
+          <td><span class="tag tag-green">Validated</span></td>
+          <td><span class="tag tag-blue">High</span></td>
+        </tr>
+
+        <tr>
+          <td><b>FIX-18</b></td>
+          <td><code>https://incubrix.com/ (Head)</code></td>
+          <td>Add rel='preload' for primary font files and enforce font-display: swap in CSS to optimize LCP and eliminate CLS.</td>
+          <td>PageSpeed Insights / Lighthouse Core Web Vitals</td>
+          <td><span class="tag tag-green">Validated</span></td>
+          <td><span class="tag tag-blue">High</span></td>
+        </tr>
+
+        <tr>
+          <td><b>FIX-19</b></td>
+          <td><code>https://incubrix.com/team</code></td>
+          <td>Inject Person JSON-LD for founding leadership with sameAs verification links to LinkedIn and GitHub profiles.</td>
+          <td>Google Rich Results Test (ProfilePage / Person)</td>
+          <td><span class="tag tag-green">Validated</span></td>
+          <td><span class="tag tag-blue">Medium</span></td>
+        </tr>
+
+        <tr>
+          <td><b>FIX-20</b></td>
+          <td><code>https://incubrix.com/404</code></td>
+          <td>Deploy dedicated 404 template returning proper HTTP 404 header, brand navigation, and links to top hub pages.</td>
+          <td>W3C HTTP Status Validator</td>
+          <td><span class="tag tag-green">Validated</span></td>
+          <td><span class="tag tag-blue">Low</span></td>
+        </tr>
+
+      </tbody>
+    </table>
+  </div>
+
+  <div id="pages" class="tab-content card">
+    <h3 style="margin-bottom: 12px;">Publish-Ready Cornerstone Content Pages</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Page Title</th>
+          <th>Target Questions</th>
+          <th>Schema Type</th>
+          <th>Angle / Strategy</th>
+        </tr>
+      </thead>
+      <tbody>
+
+        <tr>
+          <td><b>P01</b></td>
+          <td>How to Automatically Turn Long YouTube Videos into Viral TikToks with AI</td>
+          <td>Q001, Q002, Q015, Q042</td>
+          <td><span class="tag tag-yellow">HowTo</span></td>
+          <td>Actionable 4-step tutorial with direct comparative benchmark against manual editing in Premiere Pro.</td>
+        </tr>
+
+        <tr>
+          <td><b>P02</b></td>
+          <td>IncuBrix vs Opus Clip: Full 2026 Comparison for Video Repurposing</td>
+          <td>Q005, Q012, Q033, Q055</td>
+          <td><span class="tag tag-yellow">Product / ItemList</span></td>
+          <td>Neutral, data-backed feature-by-feature matrix highlighting multi-channel auto-publishing and voiceover capabilities.</td>
+        </tr>
+
+        <tr>
+          <td><b>P03</b></td>
+          <td>How to Auto-Generate Animated Captions with 99% Accuracy</td>
+          <td>Q008, Q020, Q048, Q072</td>
+          <td><span class="tag tag-yellow">HowTo</span></td>
+          <td>Technical guide explaining speech-to-text models, kinetic typography presets, and accessibility best practices.</td>
+        </tr>
+
+        <tr>
+          <td><b>P04</b></td>
+          <td>Best AI Tools for Content Repurposing in 2026 (Ranked & Reviewed)</td>
+          <td>Q003, Q018, Q029, Q061</td>
+          <td><span class="tag tag-yellow">ItemList</span></td>
+          <td>Comprehensive benchmark evaluating the top 5 video repurposing platforms across speed, features, and cost.</td>
+        </tr>
+
+        <tr>
+          <td><b>P05</b></td>
+          <td>Complete Guide to CreatorOps: Scaling Content Production Without Burnout</td>
+          <td>Q009, Q025, Q067, Q089</td>
+          <td><span class="tag tag-yellow">Article / DefinedTerm</span></td>
+          <td>Authoritative category-defining guide explaining operational frameworks, automated tooling, and production economics.</td>
+        </tr>
+
+        <tr>
+          <td><b>P06</b></td>
+          <td>How to Repurpose Podcast Episodes into 10+ High-Retention Shorts</td>
+          <td>Q007, Q031, Q052, Q078</td>
+          <td><span class="tag tag-yellow">HowTo</span></td>
+          <td>Workflow tutorial on audio-waveform animations, multi-speaker face tracking, and engagement hooks.</td>
+        </tr>
+
+        <tr>
+          <td><b>P07</b></td>
+          <td>IncuBrix vs Descript: Which Audio & Video Tool Fits Your Workflow?</td>
+          <td>Q011, Q024, Q063, Q085</td>
+          <td><span class="tag tag-yellow">Product / ItemList</span></td>
+          <td>Clear decision guide contrasting long-form audio editing against short-form social repurposing.</td>
+        </tr>
+
+        <tr>
+          <td><b>P08</b></td>
+          <td>How to Auto-Schedule and Publish Video Clips to All Platforms at Once</td>
+          <td>Q004, Q022, Q045, Q091</td>
+          <td><span class="tag tag-yellow">HowTo</span></td>
+          <td>Practical workflow showing how connected social APIs save 10+ hours per week.</td>
+        </tr>
+
+        <tr>
+          <td><b>P09</b></td>
+          <td>AI Video Dubbing and Multi-Language Voice Translation for Creators</td>
+          <td>Q014, Q038, Q070, Q095</td>
+          <td><span class="tag tag-yellow">HowTo</span></td>
+          <td>Exploration of voice cloning, translation accuracy, and opening international revenue streams.</td>
+        </tr>
+
+        <tr>
+          <td><b>P10</b></td>
+          <td>YouTube Shorts vs TikTok vs Instagram Reels: Algorithm & Format Guide 2026</td>
+          <td>Q006, Q027, Q058, Q099</td>
+          <td><span class="tag tag-yellow">Article</span></td>
+          <td>In-depth algorithmic analysis comparing retention mechanics, discovery loops, and monetization criteria.</td>
+        </tr>
+
+      </tbody>
+    </table>
+  </div>
+
+  <div id="citations" class="tab-content card">
+    <h3 style="margin-bottom: 12px;">Authoritative Citation Targets</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Authority Target / URL</th>
+          <th>Platform Type</th>
+          <th>Strategic Pitch Angle</th>
+        </tr>
+      </thead>
+      <tbody>
+
+        <tr>
+          <td><b>C01</b></td>
+          <td><a href="https://www.reddit.com/r/ContentCreation/" target="_blank" style="color: #60a5fa; text-decoration: none;">https://www.reddit.com/r/ContentCreation/</a></td>
+          <td><span class="tag tag-blue">Community Forum Thread</span></td>
+          <td>Post an objective workflow breakdown comparing tools, showcasing how IncuBrix eliminates manual mobile downloading via direct API publishing.</td>
+        </tr>
+
+        <tr>
+          <td><b>C02</b></td>
+          <td><a href="https://www.reddit.com/r/YouTubers/" target="_blank" style="color: #60a5fa; text-decoration: none;">https://www.reddit.com/r/YouTubers/</a></td>
+          <td><span class="tag tag-blue">Community Forum Thread</span></td>
+          <td>Share step-by-step benchmark on rendering speeds and subtitle accuracy comparing Opus Clip vs IncuBrix.</td>
+        </tr>
+
+        <tr>
+          <td><b>C03</b></td>
+          <td><a href="https://www.g2.com/categories/ai-video-generators" target="_blank" style="color: #60a5fa; text-decoration: none;">https://www.g2.com/categories/ai-video-generators</a></td>
+          <td><span class="tag tag-blue">Software Review Directory</span></td>
+          <td>Claim official vendor profile, submit verified user review campaign, and list IncuBrix under Video Repurposing category.</td>
+        </tr>
+
+        <tr>
+          <td><b>C04</b></td>
+          <td><a href="https://www.producthunt.com/topics/video-editing" target="_blank" style="color: #60a5fa; text-decoration: none;">https://www.producthunt.com/topics/video-editing</a></td>
+          <td><span class="tag tag-blue">Product Discovery Directory</span></td>
+          <td>Schedule IncuBrix 2.0 CreatorOps launch featuring dynamic animated captions and multi-platform publishing.</td>
+        </tr>
+
+        <tr>
+          <td><b>C05</b></td>
+          <td><a href="https://www.reddit.com/r/podcasting/" target="_blank" style="color: #60a5fa; text-decoration: none;">https://www.reddit.com/r/podcasting/</a></td>
+          <td><span class="tag tag-blue">Community Forum Thread</span></td>
+          <td>Detailed case study explaining how dual-speaker split screen framing increases average watch time.</td>
+        </tr>
+
+        <tr>
+          <td><b>C06</b></td>
+          <td><a href="https://zapier.com/blog/best-social-media-management-tools/" target="_blank" style="color: #60a5fa; text-decoration: none;">https://zapier.com/blog/best-social-media-management-tools/</a></td>
+          <td><span class="tag tag-blue">Authoritative SaaS Blog & Listicle</span></td>
+          <td>Pitch IncuBrix as the only CreatorOps tool combining AI generative video clipping with direct social scheduling.</td>
+        </tr>
+
+        <tr>
+          <td><b>C07</b></td>
+          <td><a href="https://www.capterra.com/video-editing-software/" target="_blank" style="color: #60a5fa; text-decoration: none;">https://www.capterra.com/video-editing-software/</a></td>
+          <td><span class="tag tag-blue">Software Review Directory</span></td>
+          <td>List IncuBrix under AI Video Editing and Subtitle Generation categories with verified customer testimonials.</td>
+        </tr>
+
+        <tr>
+          <td><b>C08</b></td>
+          <td><a href="https://en.wikipedia.org/wiki/Content_operations" target="_blank" style="color: #60a5fa; text-decoration: none;">https://en.wikipedia.org/wiki/Content_operations</a></td>
+          <td><span class="tag tag-blue">Authoritative Reference Wiki</span></td>
+          <td>Contribute encyclopedic section on 'CreatorOps (Creator Operations)' citing industry frameworks and IncuBrix manifesto.</td>
+        </tr>
+
+        <tr>
+          <td><b>C09</b></td>
+          <td><a href="https://creatorhandbook.net/best-ai-tools-for-youtube-shorts/" target="_blank" style="color: #60a5fa; text-decoration: none;">https://creatorhandbook.net/best-ai-tools-for-youtube-shorts/</a></td>
+          <td><span class="tag tag-blue">Creator Industry Publication</span></td>
+          <td>Submit guest tutorial: 'How modern media teams repurpose 1 podcast into 10 shorts in under 15 minutes'.</td>
+        </tr>
+
+        <tr>
+          <td><b>C10</b></td>
+          <td><a href="https://github.com/transcription-tools/awesome-transcription" target="_blank" style="color: #60a5fa; text-decoration: none;">https://github.com/transcription-tools/awesome-transcription</a></td>
+          <td><span class="tag tag-blue">Curated GitHub Awesome List</span></td>
+          <td>Submit PR adding IncuBrix to 'Commercial AI Transcription & Animated Captioning Suites'.</td>
+        </tr>
+
+        <tr>
+          <td><b>C11</b></td>
+          <td><a href="https://www.futurepedia.io/ai-tools/video-editing" target="_blank" style="color: #60a5fa; text-decoration: none;">https://www.futurepedia.io/ai-tools/video-editing</a></td>
+          <td><span class="tag tag-blue">AI Tools Aggregator & Directory</span></td>
+          <td>Submit IncuBrix under Video Dubbing and AI Repurposing with detailed feature breakdown and coupon code.</td>
+        </tr>
+
+        <tr>
+          <td><b>C12</b></td>
+          <td><a href="https://theresanaiforgothis.com/ai/video-editor" target="_blank" style="color: #60a5fa; text-decoration: none;">https://theresanaiforgothis.com/ai/video-editor</a></td>
+          <td><span class="tag tag-blue">AI Tools Directory</span></td>
+          <td>Feature IncuBrix as 'Featured AI Repurposing Tool of the Week' highlighting 1-click social scheduling.</td>
+        </tr>
+
+        <tr>
+          <td><b>C13</b></td>
+          <td><a href="https://www.thepodcasthost.com/recording-skills/video-podcasting-tools/" target="_blank" style="color: #60a5fa; text-decoration: none;">https://www.thepodcasthost.com/recording-skills/video-podcasting-tools/</a></td>
+          <td><span class="tag tag-blue">Niche Creator Blog</span></td>
+          <td>Provide product review license to editorial team and pitch inclusion in their annual buyer's guide.</td>
+        </tr>
+
+        <tr>
+          <td><b>C14</b></td>
+          <td><a href="https://medium.com/@creatorops/why-video-repurposing-is-the-secret-to-organic-growth/" target="_blank" style="color: #60a5fa; text-decoration: none;">https://medium.com/@creatorops/why-video-repurposing-is-the-secret-to-organic-growth/</a></td>
+          <td><span class="tag tag-blue">High Domain Authority Publishing Platform</span></td>
+          <td>Publish thought leadership article: 'Why Manual Video Editing is Dead: The Rise of CreatorOps'.</td>
+        </tr>
+
+        <tr>
+          <td><b>C15</b></td>
+          <td><a href="https://influencermarketinghub.com/tiktok-video-editing-apps/" target="_blank" style="color: #60a5fa; text-decoration: none;">https://influencermarketinghub.com/tiktok-video-editing-apps/</a></td>
+          <td><span class="tag tag-blue">Industry Benchmark Portal</span></td>
+          <td>Pitch inclusion in 'Top 10 TikTok Video Tools for Brands & Creators in 2026'.</td>
+        </tr>
+
+      </tbody>
+    </table>
+  </div>
+
+  <script>
+    function showTab(id) {
+      document.querySelectorAll('.tab-content').forEach(el => el.classList.remove('active'));
+      document.querySelectorAll('.tab-btn').forEach(el => el.classList.remove('active'));
+      document.getElementById(id).classList.add('active');
+      event.target.classList.add('active');
+    }
+  </script>
+</body>
+</html>

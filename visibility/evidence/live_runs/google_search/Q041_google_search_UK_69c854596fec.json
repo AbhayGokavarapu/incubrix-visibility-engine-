@@ -1,0 +1,370 @@
+{
+  "measurement_id": "69c854596fec",
+  "question_id": "Q041",
+  "timestamp_utc": "2026-11-22T13:51:55.591755+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "How much does professional video repurposing software cost?",
+  "market": "UK",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://www.freevisuals.net/post/video-editing-rates",
+    "https://www.youtube.com/watch?v=ehOhE9_eaU8",
+    "https://www.google.com/goto?url=CAESegHEIkXX5z4ZmjDh-b4GRP8QDa0IA5JKRqInYeTf-Bm37wnUzriyFpfZvdb4cTJ1sM3ICpkHHSfcyP4L4jNEzBp6AT_4W-5DyXY8l9xTXgUoA_wzHgeQ17ZvwkCKYrxvmODHH0OeFmbtzDlDfKD-_grtnbwiJ433Pux9",
+    "https://www.google.com/goto?url=CAESdgHEIkXXRlIjjsOQJUVi583KyaMhRvZc_vmP1NwN1HxKokbtgV5ZB_7VxbQsJutqECt7dJ3y_ukJAj1E1WGwxlDFqOTs55ifiAuLSlLpTWwCBY7DpsrmS8VdiFaHqR4RbeWXnJ_sKUdvSj27pw8TnOxpoRj2K_U",
+    "https://www.google.com/goto?url=CAEScgHEIkXX0VsGm3rpjyxY-1hKjwmewDg4q5zKjZYttKfPyqLdswD8L_1Dxz7Yvs5Z6kzOQBLuL0ukMh6Or517Sdb-dTehZgv40WpHtAGvUVH-IazJnLq97EKlGCqPa1KGe2e8gWvw_gkyQHRW_5HNP8QbkA",
+    "https://www.google.com/goto?url=CAESeQHEIkXXM9EfHEMWWJ-YMinzIYkF-P25F6_sC5x3Cnq5qiTk3rByUrAmqX39GTYzmiLxQu4i05wJMnUM_7GtFiloFvaM1yRZy5gVnat9RLi9yzoF-ponE7PS6jqMJsjdXICkLI3yP1dgGprvkjtlFnGMHj060XUflok",
+    "https://www.google.com/goto?url=CAEShAEBxCJF1-ilcn_vyIx3OHmnuCa8waIF8Zq2vhftqMOl1dZJZSdbRWvrOVz92o3m7iaht0c8M7jDzwU2MVxLYR6Gb6og5gdhrSqlukFXKpuQGVDTPDboqNbc84zzBHbijGbN8Ej3cr33TLYpbRo_0xuIF5tQBBZlJ3LaamI6vC2I1WEGc_0"
+  ],
+  "raw_text_summary": "Video Editing Rates In 2024 - How Much A beginner might charge around $25-$40 per hour, An advanced editor, can charge $50-$150 per hour. an editor might charge $350 for a project, ... WHAT to CHARGE for Video Production (+REAL RATES!) In this episode, I'm going to tell you exactly what we charge, how much big video production companies charge, and provide REAL NUMBERS & RATES Cost-Effective Video Production Alternatives: AI Tools Budgets of 2,000 to 10,000 dollars for a single polished video make daily or even several-times-per-week production unrealistic for many ... AI Video Cost Per Usable Clip: A Real Budgeting Guide The advertised cost was $0.80. The useful production cost was $10.67. This is not an industry benchmark. It is an example showing why your ... Leveraging AI for Reduced Video Production Costs AI avatars reduce training video costs by up to 70%. Creating training videos can easily run up to $10,000 and take two weeks or more. costing ... Cheap Video Editing Software 2025: Best Budget Picks Cost Model: Software can be free, subscription-based (monthly/annually), or require a one-time purchase. \u00b7 Operating System Compatibility: Software may be ... What are the prices and tools for video editing services? For a small project, a video editor may charge a flat fee of $500 to $2000. For larger projects, the fee may be negotiated based on the length ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f280eabc4dadf231d95a",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/1wyM2sd65OmNYW00AGzrgRkyMC3bF4EoWPWTgUE3hEY/6b02f280eabc4dadf231d95a.json",
+      "markdown_endpoint": "https://serpapi.com/searches/1wyM2sd65OmNYW00AGzrgRkyMC3bF4EoWPWTgUE3hEY/6b02f280eabc4dadf231d95a.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/1wyM2sd65OmNYW00AGzrgRkyMC3bF4EoWPWTgUE3hEY/6b02f280eabc4dadf231d95a.json_with_pixel_position",
+      "created_at": "2026-11-22 13:47:44 UTC",
+      "processed_at": "2026-11-22 13:47:44 UTC",
+      "google_url": "https://www.google.com/search?q=How+much+does+professional+video+repurposing+software+cost%3F&oq=How+much+does+professional+video+repurposing+software+cost%3F&hl=en&gl=uk&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/1wyM2sd65OmNYW00AGzrgRkyMC3bF4EoWPWTgUE3hEY/6b02f280eabc4dadf231d95a.html",
+      "total_time_taken": 16.5
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "How much does professional video repurposing software cost?",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "uk",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "How much does professional video repurposing software cost?",
+      "total_results": 78,
+      "time_taken_displayed": 0.19,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "a pricing calculator built on your real costs an #Shorts",
+        "link": "https://www.google.com/goto?url=CAESZwHEIkXXVVJ9jDuRKPIo5_o-i8258aUD-eRTEfzf0EUy9Huco9foo7Pl4-w0LJ6tlJ0ThYHsNA90uW5Mnr4tbc8b7kzZOSIAbV8geLzdV7nqiKXMYJzh-KTO0ausWsutdcDhM93zKXU&gsessionid=T2l1_hvJ64WXTO3jsecPTTfX1Ugpuva0LjHToyjMpca3lFqCmE94Lg",
+        "thumbnail": "https://serpapi.com/searches/6b02f280eabc4dadf231d95a/images/_kQ6tGiaQn6mwIRBTQHy-k4-h8UScVKSTM24MG6E5ek.webp",
+        "channel": "Dark Room & Desk",
+        "duration": "0:13",
+        "platform": "YouTube",
+        "date": "3 weeks ago",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTxtMJpWjDR2lR209UAiRKDSUOg5yi1dEBGZw"
+      },
+      {
+        "position": 2,
+        "title": "Is Video Editing Getting Cheaper? The Price Is Splitting in Two",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXQqXokG6m98_ySItqb15fVElsRg3e5lqbrnU2UQzTezenkOHaZFB7_YqfHRLgQdcyZVufjgbsMTUzfkVhCnExYlw9jBrPOtdALOMn7-2fayCVsd3qEoiSmqTy7LGX_nmGiMu0&gsessionid=T2l1_hvJ64WXTO3jsecPTTfX1Ugpuva0LjHToyjMpca3lFqCmE94Lg",
+        "thumbnail": "https://serpapi.com/searches/6b02f280eabc4dadf231d95a/images/4ijaipcrfkdbGZtIjJuuEDmR9KdOi1wUW73pg_STY2Q.webp",
+        "channel": "Het Vaghasiya",
+        "duration": "7:20",
+        "platform": "YouTube",
+        "date": "1 week ago",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTtj8RqNuabtRYxaEm_sFm1_-28U90gF_lfCg"
+      },
+      {
+        "position": 3,
+        "title": "AI Video Tools That Replace a Production Team",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXXcnJBB-Mxm9vBzQVFja_-5kPfgrxR-1b3_3k-9FueE2YzXSTZKP6qmuESsBE1oIzm_0hZbDPl1xm1B4Mc7xC5azyGu6GOGrgdfxvRC2uPPcwy9EpSj6rAYz6yZ8wvZNk82wf&gsessionid=T2l1_hvJ64WXTO3jsecPTTfX1Ugpuva0LjHToyjMpca3lFqCmE94Lg",
+        "thumbnail": "https://serpapi.com/searches/6b02f280eabc4dadf231d95a/images/22Et98MIVgArL_zU38h3v7GfoQVBoLmCzNa1KkKFnmU.webp",
+        "channel": "TechFlow Labs",
+        "duration": "9:52",
+        "platform": "YouTube",
+        "date": "1 week ago",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTFX3ZLXok7F5ywBAVZQ_x0AEwqr9ZyEilgoQ"
+      },
+      {
+        "position": 4,
+        "title": "How Much Does Video Editing Cost in the UK? (2026 Prices ...",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXjVHF1OXwDmNWeG83V2DdMW5vWHNGvg8AwiccuAwWXsxLfjDcG4vqx5ZVk_1Shka1powLPXbVom3vDLI6f0jJXybLEZOUEtu8nPNlplYqZ3mAQMv-yNIv5hbR0NuMge4qWKpT&gsessionid=T2l1_hvJ64WXTO3jsecPTTfX1Ugpuva0LjHToyjMpca3lFqCmE94Lg",
+        "thumbnail": "https://serpapi.com/searches/6b02f280eabc4dadf231d95a/images/E_ZSi4jJ633Ofijq2tYdOWDu3gJc9wm6-DYVG-cQt-o.webp",
+        "channel": "Arsal Services",
+        "duration": "6:22",
+        "platform": "YouTube",
+        "date": "1 month ago",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRkZfpUSp3NZg4XP4tJtFncWlk1c3sa2E4exw"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "How much should I charge to edit a video?",
+        "type": "ai_overview",
+        "page_token": "uOC-SHicHZA7TsMwAEAFh2Fs44SPWqlCKo1DQW5lxx-SBQU7jVvbSWhdknZCnIWJw3AAjsEJqFje8PSm9_Fp17X5OXvT3re78XDYdd2gaprKlgPZuGGxO9RyKAtrXwppxtc31-B2JSfxfj69e51PMSNxZpXN6jYnDqYvcX-fwryQGwtI2ELi2h0SwSVbgxU5Tmm2USlJGGDJ5SEP_GNu-oVkTZgddSAFoQxyRC2kJ2haLwQFD3oRnRyAe2kaj5jlCmrPNgogxyEOwK7kow5T6Erjn5YJqBeMHVDQXIkZ3KdBF5b3FRCiimgSdNyqOTXA4HpKeahsKQBMQdwTqA2J9N3TMV9mrCexVlsW21lGc42CfkOSeS8BxMrlCM1yIvtmjZleophFxECAweihoDwpBHc4HAlueVbCuD81DgubYHyxkm-T6OL_5-R55fy43TbVl9yWhS_Vc-G_zfnv-x_1Qopm",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=uOC-SHicHZA7TsMwAEAFh2Fs44SPWqlCKo1DQW5lxx-SBQU7jVvbSWhdknZCnIWJw3AAjsEJqFje8PSm9_Fp17X5OXvT3re78XDYdd2gaprKlgPZuGGxO9RyKAtrXwppxtc31-B2JSfxfj69e51PMSNxZpXN6jYnDqYvcX-fwryQGwtI2ELi2h0SwSVbgxU5Tmm2USlJGGDJ5SEP_GNu-oVkTZgddSAFoQxyRC2kJ2haLwQFD3oRnRyAe2kaj5jlCmrPNgogxyEOwK7kow5T6Erjn5YJqBeMHVDQXIkZ3KdBF5b3FRCiimgSdNyqOTXA4HpKeahsKQBMQdwTqA2J9N3TMV9mrCexVlsW21lGc42CfkOSeS8BxMrlCM1yIvtmjZleophFxECAweihoDwpBHc4HAlueVbCuD81DgubYHyxkm-T6OL_5-R55fy43TbVl9yWhS_Vc-G_zfnv-x_1Qopm",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFRtaHFRbVpNVDBsWWVVNXFaR2c0YVRsS1YzcHdZWFJ1TkZaTFRtSkhNM010YTFJMFVUTm9ibWhRYVVoeFNVSnhVRE53VUV0VWNYSjVhVXRaV0RsNGJteGthVzlmU25VelFTMDJXREJ6T0dWRVQyOVpOM3AyYm1KQlVSSVhhMUJKUTJFMllUTk1ZMFJpTVhOUlVIWm1UREEyVVhNYUlrRklUakJGTjBacldtVnBVR0Y2UWtSaU9XZHZWMGt0WjFGWlF6RjBPVEJsVlhjIiwiZmN2IjoiMyIsImVpIjoia1BJQ2E2YTNMY0RiMXNRUHZmTDA2UXMiLCJxYyI6IkNqcG9iM2NnYlhWamFDQmtiMlZ6SUhCeWIyWmxjM05wYjI1aGJDQjJhV1JsYnlCeVpYQjFjbkJ2YzJsdVp5QnpiMlowZDJGeVpTQmpiM04wRUFCOXlJUFRQZyIsInF1ZXN0aW9uIjoiSG93IG11Y2ggc2hvdWxkIEkgY2hhcmdlIHRvIGVkaXQgYSB2aWRlbz8iLCJsayI6ImM1TlN5c2d2VjhndFRjNVFLTWxYU001SUxFcFBCYkZTVXpKTEZCSVZ5akpUVXZNQiIsImJzIjoiYzRYT3ZRckNRQkFFWUd5dnNsQ0xWSU1faFFRVThnSUJiUlN4RUJUQjdrelc3R0gwd3UyZHZyNUJVUkZFNl9sMmR0UktEV2YyaWxQSUdNSTJsRG5teUZpN2d1QXRLRGNlR2hlVGswMlRmdFRsSjY3RDcweU5WWHN1bU9wcUdqekVtN0xFd1JHbFNTZHFHVUdtcS13alVHc1Z2emJrOXRGU09GMHhPWGstTVdkNEptd1dhVEtJZXZ5UGg2UGFxWGpMMnRlRUJFczN3b1MwZUFSNUwtWjZ6djFjMGlTT2h0Y1hQem5zZi1obTR3WSIsImlkIjoiZmNfa1BJQ2E2YTNMY0RiMXNRUHZmTDA2UXNfMSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFRtaHFRbVpNVDBsWWVVNXFaR2c0YVRsS1YzcHdZWFJ1TkZaTFRtSkhNM010YTFJMFVUTm9ibWhRYVVoeFNVSnhVRE53VUV0VWNYSjVhVXRaV0RsNGJteGthVzlmU25VelFTMDJXREJ6T0dWRVQyOVpOM3AyYm1KQlVSSVhhMUJKUTJFMllUTk1ZMFJpTVhOUlVIWm1UREEyVVhNYUlrRklUakJGTjBacldtVnBVR0Y2UWtSaU9XZHZWMGt0WjFGWlF6RjBPVEJsVlhjIiwiZmN2IjoiMyIsImVpIjoia1BJQ2E2YTNMY0RiMXNRUHZmTDA2UXMiLCJxYyI6IkNqcG9iM2NnYlhWamFDQmtiMlZ6SUhCeWIyWmxjM05wYjI1aGJDQjJhV1JsYnlCeVpYQjFjbkJ2YzJsdVp5QnpiMlowZDJGeVpTQmpiM04wRUFCOXlJUFRQZyIsInF1ZXN0aW9uIjoiSG93IG11Y2ggc2hvdWxkIEkgY2hhcmdlIHRvIGVkaXQgYSB2aWRlbz8iLCJsayI6ImM1TlN5c2d2VjhndFRjNVFLTWxYU001SUxFcFBCYkZTVXpKTEZCSVZ5akpUVXZNQiIsImJzIjoiYzRYT3ZRckNRQkFFWUd5dnNsQ0xWSU1faFFRVThnSUJiUlN4RUJUQjdrelc3R0gwd3UyZHZyNUJVUkZFNl9sMmR0UktEV2YyaWxQSUdNSTJsRG5teUZpN2d1QXRLRGNlR2hlVGswMlRmdFRsSjY3RDcweU5WWHN1bU9wcUdqekVtN0xFd1JHbFNTZHFHVUdtcS13alVHc1Z2emJrOXRGU09GMHhPWGstTVdkNEptd1dhVEtJZXZ5UGg2UGFxWGpMMnRlRUJFczN3b1MwZUFSNUwtWjZ6djFjMGlTT2h0Y1hQem5zZi1obTR3WSIsImlkIjoiZmNfa1BJQ2E2YTNMY0RiMXNRUHZmTDA2UXNfMSJ9"
+      },
+      {
+        "question": "Is CapCut still free?",
+        "type": "ai_overview",
+        "page_token": "CRGNDnicHdBLboJAAIDhtIfpUh1QG01MEypjwUDCPBhhY4YZBDrDQyUdZdX0LF31MD1Aj9ET1HT_51v8H5-6atTP3a7s--68HI-NMaOibQudj0Rbj_n52oix4FpnXKjl_HEOng5i5Z6N89waJ6LITbTUjC48vNangBUADbDJKfCzXWv4JK1lLHWuyprU3iDWjkIU7KJbn9jOkcFuG-nwuAOxiwZlMuZXmC2ijOhArt0Z2ShLMN1FbOGEEM4xm52CxhtyknZYTU0GfXXrS9wUF8ZinhOk43ix5a5OKIkvgvpBOrnZDFmUpgCpy4ucBJfMajG0-gjTsAxrdyCb0E1e4UBjx0qVMaGGw6byHexODSISIqu9BiDVGKRTzpKJAN7N1pUEDpEDtbFd2g8H8bayH_6PrfaHul92p7b4Eqec97nc8_5b3f--_wEY4IC4",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=CRGNDnicHdBLboJAAIDhtIfpUh1QG01MEypjwUDCPBhhY4YZBDrDQyUdZdX0LF31MD1Aj9ET1HT_51v8H5-6atTP3a7s--68HI-NMaOibQudj0Rbj_n52oix4FpnXKjl_HEOng5i5Z6N89waJ6LITbTUjC48vNangBUADbDJKfCzXWv4JK1lLHWuyprU3iDWjkIU7KJbn9jOkcFuG-nwuAOxiwZlMuZXmC2ijOhArt0Z2ShLMN1FbOGEEM4xm52CxhtyknZYTU0GfXXrS9wUF8ZinhOk43ix5a5OKIkvgvpBOrnZDFmUpgCpy4ucBJfMajG0-gjTsAxrdyCb0E1e4UBjx0qVMaGGw6byHexODSISIqu9BiDVGKRTzpKJAN7N1pUEDpEDtbFd2g8H8bayH_6PrfaHul92p7b4Eqec97nc8_5b3f--_wEY4IC4",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFRtaHFRbVpNVDBsWWVVNXFaR2c0YVRsS1YzcHdZWFJ1TkZaTFRtSkhNM010YTFJMFVUTm9ibWhRYVVoeFNVSnhVRE53VUV0VWNYSjVhVXRaV0RsNGJteGthVzlmU25VelFTMDJXREJ6T0dWRVQyOVpOM3AyYm1KQlVSSVhhMUJKUTJFMllUTk1ZMFJpTVhOUlVIWm1UREEyVVhNYUlrRklUakJGTjBacldtVnBVR0Y2UWtSaU9XZHZWMGt0WjFGWlF6RjBPVEJsVlhjIiwiZmN2IjoiMyIsImVpIjoia1BJQ2E2YTNMY0RiMXNRUHZmTDA2UXMiLCJxYyI6IkNqcG9iM2NnYlhWamFDQmtiMlZ6SUhCeWIyWmxjM05wYjI1aGJDQjJhV1JsYnlCeVpYQjFjbkJ2YzJsdVp5QnpiMlowZDJGeVpTQmpiM04wRUFCOXlJUFRQZyIsInF1ZXN0aW9uIjoiSXMgQ2FwQ3V0IHN0aWxsIGZyZWU/IiwibGsiOiJHaFJwY3lCallYQmpkWFFnYzNScGJHd2dabkpsWlEiLCJicyI6ImM0WE92UXJDUUJBRVlHeXZzbENMVklNX2hRUVU4Z0lCYlJTeEVCVEI3a3pXN0dIMHd1MmR2cjVCVVJGRTZfbDJkdFJLRFdmMmlsUElHTUkybERubXlGaTdndUF0S0RjZUdoZVRrMDJUZnRUbEo2N0Q3MHlOVlhzdW1PcHFHanpFbTdMRXdSR2xTU2RxR1VHbXEtd2pVR3NWdnpiazl0RlNPRjB4T1hrLU1XZDRKbXdXYVRLSWV2eVBoNlBhcVhqTDJ0ZUVCRXMzd29TMGVBUjVMLVo2enYxYzBpU09odGNYUHpuc2YtaG00d1kiLCJpZCI6ImZjX2tQSUNhNmEzTGNEYjFzUVB2ZkwwNlFzXzEifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFRtaHFRbVpNVDBsWWVVNXFaR2c0YVRsS1YzcHdZWFJ1TkZaTFRtSkhNM010YTFJMFVUTm9ibWhRYVVoeFNVSnhVRE53VUV0VWNYSjVhVXRaV0RsNGJteGthVzlmU25VelFTMDJXREJ6T0dWRVQyOVpOM3AyYm1KQlVSSVhhMUJKUTJFMllUTk1ZMFJpTVhOUlVIWm1UREEyVVhNYUlrRklUakJGTjBacldtVnBVR0Y2UWtSaU9XZHZWMGt0WjFGWlF6RjBPVEJsVlhjIiwiZmN2IjoiMyIsImVpIjoia1BJQ2E2YTNMY0RiMXNRUHZmTDA2UXMiLCJxYyI6IkNqcG9iM2NnYlhWamFDQmtiMlZ6SUhCeWIyWmxjM05wYjI1aGJDQjJhV1JsYnlCeVpYQjFjbkJ2YzJsdVp5QnpiMlowZDJGeVpTQmpiM04wRUFCOXlJUFRQZyIsInF1ZXN0aW9uIjoiSXMgQ2FwQ3V0IHN0aWxsIGZyZWU%2FIiwibGsiOiJHaFJwY3lCallYQmpkWFFnYzNScGJHd2dabkpsWlEiLCJicyI6ImM0WE92UXJDUUJBRVlHeXZzbENMVklNX2hRUVU4Z0lCYlJTeEVCVEI3a3pXN0dIMHd1MmR2cjVCVVJGRTZfbDJkdFJLRFdmMmlsUElHTUkybERubXlGaTdndUF0S0RjZUdoZVRrMDJUZnRUbEo2N0Q3MHlOVlhzdW1PcHFHanpFbTdMRXdSR2xTU2RxR1VHbXEtd2pVR3NWdnpiazl0RlNPRjB4T1hrLU1XZDRKbXdXYVRLSWV2eVBoNlBhcVhqTDJ0ZUVCRXMzd29TMGVBUjVMLVo2enYxYzBpU09odGNYUHpuc2YtaG00d1kiLCJpZCI6ImZjX2tQSUNhNmEzTGNEYjFzUVB2ZkwwNlFzXzEifQ%3D%3D"
+      },
+      {
+        "question": "How much do videographers charge in the UK?",
+        "type": "ai_overview",
+        "page_token": "mpFV3HicHdBRcqIwAADQ2T1MPysR647OOJ1RA8IsUWISID8OJGiEBFiLkvar07P0q4fpAXqMnqAz-47w3t71uam_ft1U33dP89FoGIb7U9uedHkvWjPKn54bMRK51kUu6vn0zxQ8HsUCXoPl6l-wjCmGmZY6MV1AahAJEtiSBRP8grZbaH3aaH_vLU2cxOPUkZ3cdIrVtc0IvjK_j9BGt5njAJagFUsGkDuzcWFskzVhG9NgnBnloo1sU0dMcD2zhR-6KNVBmWQOB4oWa-rQDQ65me32ZMlIRZ-RYTUy3EMVSjGhQ6yhRRU_Z_QBcyh3-QpUf4naFVW43vucIg_fkIsb4smpoEMfvXgNVPJCoV5nhKvIsRX2AyuAF0vDo2jNsbDtOaZqG0HqYqZcNgZVbOyVJSHI6YNOKuxi2ClMgWWgS-VwdxS3hXv3_3NxOJp-3l3a04e4lHlfykPef9a_v19_AMViiqU",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=mpFV3HicHdBRcqIwAADQ2T1MPysR647OOJ1RA8IsUWISID8OJGiEBFiLkvar07P0q4fpAXqMnqAz-47w3t71uam_ft1U33dP89FoGIb7U9uedHkvWjPKn54bMRK51kUu6vn0zxQ8HsUCXoPl6l-wjCmGmZY6MV1AahAJEtiSBRP8grZbaH3aaH_vLU2cxOPUkZ3cdIrVtc0IvjK_j9BGt5njAJagFUsGkDuzcWFskzVhG9NgnBnloo1sU0dMcD2zhR-6KNVBmWQOB4oWa-rQDQ65me32ZMlIRZ-RYTUy3EMVSjGhQ6yhRRU_Z_QBcyh3-QpUf4naFVW43vucIg_fkIsb4smpoEMfvXgNVPJCoV5nhKvIsRX2AyuAF0vDo2jNsbDtOaZqG0HqYqZcNgZVbOyVJSHI6YNOKuxi2ClMgWWgS-VwdxS3hXv3_3NxOJp-3l3a04e4lHlfykPef9a_v19_AMViiqU",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFRtaHFRbVpNVDBsWWVVNXFaR2c0YVRsS1YzcHdZWFJ1TkZaTFRtSkhNM010YTFJMFVUTm9ibWhRYVVoeFNVSnhVRE53VUV0VWNYSjVhVXRaV0RsNGJteGthVzlmU25VelFTMDJXREJ6T0dWRVQyOVpOM3AyYm1KQlVSSVhhMUJKUTJFMllUTk1ZMFJpTVhOUlVIWm1UREEyVVhNYUlrRklUakJGTjBacldtVnBVR0Y2UWtSaU9XZHZWMGt0WjFGWlF6RjBPVEJsVlhjIiwiZmN2IjoiMyIsImVpIjoia1BJQ2E2YTNMY0RiMXNRUHZmTDA2UXMiLCJxYyI6IkNqcG9iM2NnYlhWamFDQmtiMlZ6SUhCeWIyWmxjM05wYjI1aGJDQjJhV1JsYnlCeVpYQjFjbkJ2YzJsdVp5QnpiMlowZDJGeVpTQmpiM04wRUFCOXlJUFRQZyIsInF1ZXN0aW9uIjoiSG93IG11Y2ggZG8gdmlkZW9ncmFwaGVycyBjaGFyZ2UgaW4gdGhlIFVLPyIsImxrIjoiR2lOb2IzY2diWFZqYUNCa2J5QjJhV1JsYjJkeVlYQm9aWEp6SUdOb1lYSm5aU0IxYXciLCJicyI6ImM0WE92UXJDUUJBRVlHeXZzbENMVklNX2hRUVU4Z0lCYlJTeEVCVEI3a3pXN0dIMHd1MmR2cjVCVVJGRTZfbDJkdFJLRFdmMmlsUElHTUkybERubXlGaTdndUF0S0RjZUdoZVRrMDJUZnRUbEo2N0Q3MHlOVlhzdW1PcHFHanpFbTdMRXdSR2xTU2RxR1VHbXEtd2pVR3NWdnpiazl0RlNPRjB4T1hrLU1XZDRKbXdXYVRLSWV2eVBoNlBhcVhqTDJ0ZUVCRXMzd29TMGVBUjVMLVo2enYxYzBpU09odGNYUHpuc2YtaG00d1kiLCJpZCI6ImZjX2tQSUNhNmEzTGNEYjFzUVB2ZkwwNlFzXzEifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFRtaHFRbVpNVDBsWWVVNXFaR2c0YVRsS1YzcHdZWFJ1TkZaTFRtSkhNM010YTFJMFVUTm9ibWhRYVVoeFNVSnhVRE53VUV0VWNYSjVhVXRaV0RsNGJteGthVzlmU25VelFTMDJXREJ6T0dWRVQyOVpOM3AyYm1KQlVSSVhhMUJKUTJFMllUTk1ZMFJpTVhOUlVIWm1UREEyVVhNYUlrRklUakJGTjBacldtVnBVR0Y2UWtSaU9XZHZWMGt0WjFGWlF6RjBPVEJsVlhjIiwiZmN2IjoiMyIsImVpIjoia1BJQ2E2YTNMY0RiMXNRUHZmTDA2UXMiLCJxYyI6IkNqcG9iM2NnYlhWamFDQmtiMlZ6SUhCeWIyWmxjM05wYjI1aGJDQjJhV1JsYnlCeVpYQjFjbkJ2YzJsdVp5QnpiMlowZDJGeVpTQmpiM04wRUFCOXlJUFRQZyIsInF1ZXN0aW9uIjoiSG93IG11Y2ggZG8gdmlkZW9ncmFwaGVycyBjaGFyZ2UgaW4gdGhlIFVLPyIsImxrIjoiR2lOb2IzY2diWFZqYUNCa2J5QjJhV1JsYjJkeVlYQm9aWEp6SUdOb1lYSm5aU0IxYXciLCJicyI6ImM0WE92UXJDUUJBRVlHeXZzbENMVklNX2hRUVU4Z0lCYlJTeEVCVEI3a3pXN0dIMHd1MmR2cjVCVVJGRTZfbDJkdFJLRFdmMmlsUElHTUkybERubXlGaTdndUF0S0RjZUdoZVRrMDJUZnRUbEo2N0Q3MHlOVlhzdW1PcHFHanpFbTdMRXdSR2xTU2RxR1VHbXEtd2pVR3NWdnpiazl0RlNPRjB4T1hrLU1XZDRKbXdXYVRLSWV2eVBoNlBhcVhqTDJ0ZUVCRXMzd29TMGVBUjVMLVo2enYxYzBpU09odGNYUHpuc2YtaG00d1kiLCJpZCI6ImZjX2tQSUNhNmEzTGNEYjFzUVB2ZkwwNlFzXzEifQ%3D%3D"
+      },
+      {
+        "question": "What does Mr. Beast use to edit his videos?",
+        "type": "ai_overview",
+        "page_token": "Q9OX3nicHdBdbtowAABgrYfpY8kPYRsSmgQ4IWhOZyd2Gr9Ujh1wsE0yamrgadpZ9rTD7AA7xk6wqjf49P38Zfqj_vvhVTk3vswnE-_9w34Y9qZ7EIOd8JfrUUwEN6blQs9nH2fhl51YgHO-XH3Pl4hg0Bhp6iP9hiIT0BReBfCe186wzN-q2jtEWVbellsMktVTzFZtttUk2l9YpcM2K2ZlGeKaNNdOh9lj2kSVTVY8kztihqm0aU8sm8JbWgiNYVO7sTZMU6sOjaGu2whXgE9hm8oNzxilNjmJg4q_EoZgPILKqrglMmE17aXGCQoKjqxzZVAAqE1Uxdse0c8jp6oQIUY8HWn15gFKnggw66ZiCgaXA87yiwhTJC2DcM2wuAw9IuoRAhKXa3OEKT6LIPc0llMRmQ0xecS13NDbMqrX6sz8_U68LuL798_F8866-Xga9r_FqeOuk8_c_dF3_378B2ZGixw",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Q9OX3nicHdBdbtowAABgrYfpY8kPYRsSmgQ4IWhOZyd2Gr9Ujh1wsE0yamrgadpZ9rTD7AA7xk6wqjf49P38Zfqj_vvhVTk3vswnE-_9w34Y9qZ7EIOd8JfrUUwEN6blQs9nH2fhl51YgHO-XH3Pl4hg0Bhp6iP9hiIT0BReBfCe186wzN-q2jtEWVbellsMktVTzFZtttUk2l9YpcM2K2ZlGeKaNNdOh9lj2kSVTVY8kztihqm0aU8sm8JbWgiNYVO7sTZMU6sOjaGu2whXgE9hm8oNzxilNjmJg4q_EoZgPILKqrglMmE17aXGCQoKjqxzZVAAqE1Uxdse0c8jp6oQIUY8HWn15gFKnggw66ZiCgaXA87yiwhTJC2DcM2wuAw9IuoRAhKXa3OEKT6LIPc0llMRmQ0xecS13NDbMqrX6sz8_U68LuL798_F8866-Xga9r_FqeOuk8_c_dF3_378B2ZGixw",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFRtaHFRbVpNVDBsWWVVNXFaR2c0YVRsS1YzcHdZWFJ1TkZaTFRtSkhNM010YTFJMFVUTm9ibWhRYVVoeFNVSnhVRE53VUV0VWNYSjVhVXRaV0RsNGJteGthVzlmU25VelFTMDJXREJ6T0dWRVQyOVpOM3AyYm1KQlVSSVhhMUJKUTJFMllUTk1ZMFJpTVhOUlVIWm1UREEyVVhNYUlrRklUakJGTjBacldtVnBVR0Y2UWtSaU9XZHZWMGt0WjFGWlF6RjBPVEJsVlhjIiwiZmN2IjoiMyIsImVpIjoia1BJQ2E2YTNMY0RiMXNRUHZmTDA2UXMiLCJxYyI6IkNqcG9iM2NnYlhWamFDQmtiMlZ6SUhCeWIyWmxjM05wYjI1aGJDQjJhV1JsYnlCeVpYQjFjbkJ2YzJsdVp5QnpiMlowZDJGeVpTQmpiM04wRUFCOXlJUFRQZyIsInF1ZXN0aW9uIjoiV2hhdCBkb2VzIE1yLiBCZWFzdCB1c2UgdG8gZWRpdCBoaXMgdmlkZW9zPyIsImxrIjoiR2lsM2FHRjBJR1J2WlhNZ2JYSWdZbVZoYzNRZ2RYTmxJSFJ2SUdWa2FYUWdhR2x6SUhacFpHVnZjdyIsImJzIjoiYzRYT3ZRckNRQkFFWUd5dnNsQ0xWSU1faFFRVThnSUJiUlN4RUJUQjdrelc3R0gwd3UyZHZyNUJVUkZFNl9sMmR0UktEV2YyaWxQSUdNSTJsRG5teUZpN2d1QXRLRGNlR2hlVGswMlRmdFRsSjY3RDcweU5WWHN1bU9wcUdqekVtN0xFd1JHbFNTZHFHVUdtcS13alVHc1Z2emJrOXRGU09GMHhPWGstTVdkNEptd1dhVEtJZXZ5UGg2UGFxWGpMMnRlRUJFczN3b1MwZUFSNUwtWjZ6djFjMGlTT2h0Y1hQem5zZi1obTR3WSIsImlkIjoiZmNfa1BJQ2E2YTNMY0RiMXNRUHZmTDA2UXNfMSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFRtaHFRbVpNVDBsWWVVNXFaR2c0YVRsS1YzcHdZWFJ1TkZaTFRtSkhNM010YTFJMFVUTm9ibWhRYVVoeFNVSnhVRE53VUV0VWNYSjVhVXRaV0RsNGJteGthVzlmU25VelFTMDJXREJ6T0dWRVQyOVpOM3AyYm1KQlVSSVhhMUJKUTJFMllUTk1ZMFJpTVhOUlVIWm1UREEyVVhNYUlrRklUakJGTjBacldtVnBVR0Y2UWtSaU9XZHZWMGt0WjFGWlF6RjBPVEJsVlhjIiwiZmN2IjoiMyIsImVpIjoia1BJQ2E2YTNMY0RiMXNRUHZmTDA2UXMiLCJxYyI6IkNqcG9iM2NnYlhWamFDQmtiMlZ6SUhCeWIyWmxjM05wYjI1aGJDQjJhV1JsYnlCeVpYQjFjbkJ2YzJsdVp5QnpiMlowZDJGeVpTQmpiM04wRUFCOXlJUFRQZyIsInF1ZXN0aW9uIjoiV2hhdCBkb2VzIE1yLiBCZWFzdCB1c2UgdG8gZWRpdCBoaXMgdmlkZW9zPyIsImxrIjoiR2lsM2FHRjBJR1J2WlhNZ2JYSWdZbVZoYzNRZ2RYTmxJSFJ2SUdWa2FYUWdhR2x6SUhacFpHVnZjdyIsImJzIjoiYzRYT3ZRckNRQkFFWUd5dnNsQ0xWSU1faFFRVThnSUJiUlN4RUJUQjdrelc3R0gwd3UyZHZyNUJVUkZFNl9sMmR0UktEV2YyaWxQSUdNSTJsRG5teUZpN2d1QXRLRGNlR2hlVGswMlRmdFRsSjY3RDcweU5WWHN1bU9wcUdqekVtN0xFd1JHbFNTZHFHVUdtcS13alVHc1Z2emJrOXRGU09GMHhPWGstTVdkNEptd1dhVEtJZXZ5UGg2UGFxWGpMMnRlRUJFczN3b1MwZUFSNUwtWjZ6djFjMGlTT2h0Y1hQem5zZi1obTR3WSIsImlkIjoiZmNfa1BJQ2E2YTNMY0RiMXNRUHZmTDA2UXNfMSJ9"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "OKQMZHiczZbNcqpIFICrZj2vMWyMgpoYTRWV6kZUDFE7xoneDQUNAgK20qjR1a15llnNw8wD3Me4TzANaAJG8zObma7Sxu7z16fPx_GPP3137v341XWiaEFveH6z2ZRsQmzfKmES8DrdzjE_JT4NsXNLySrEloidkARWiRic7Ysrj3N80Zpz6aZr7re57VqscpiKAme5ojdQJL2mV1XcNMoUDdZTVaghyiX2Rc3QqTVj7p9nlNd49uX9Vm2yHyVasuZaG5Za1y7wLbU8v_JKFaFSLfV5PWAy4L8dMgSKzWYPAPs9OYg-axE5zCqQjvXldM6s34PYpwIkJd05538YG401JZhEzD59MJ0NvDZ77h2kRsoHcTF90H759bQPK52843A_GtKLanyCnK33xokkJnm5y1nO750a7fwOnDRBc5Mx_-Y4GQep6ij-2oDW5eAeIITOejoMZvpuAgQffFAnh4hGje4wYlqQN21W5QJvhGwq8y52cPIQ0rj4pceGQDra71deZax37N0I-fXOUsPleV1-Qmhs89hgcj7RTcvUHE3gF7G6cJsslyuVSr3auK5cJPxh-gIgzQIYEipE8_p9MRJKagmWD-jlD32cM6Qo4FRN2dA-ZCQ_XgygbLqTbBxJejnPrf3sAKgggPO3ju5kNSvEqGmytNXt7C28akjvoHc0WOHKgOwNjPZLIF90aALk4Sk_8XP_pNn4HInXvLP2Hj2llThR4uJLrNhv0XsALA9xevcpzr0joSTZkCUYxS-MO6YeSamschnHd7gxJMvsePJLlnLhSOlBWiA3pEwkTE-OpTbAloG3UmRJcffLafS2nXqCyJYPkSY-pLfwgfSkEmg5J7c-NeTPvF_SKA6sHaOTQU5GT2S2uEO78fZy4ra9TvG-9TDo1-reHJxmiwTG17ob_t8DeOh9_r7yzwIYe_oUgMh5D8C3vU-WUgAl7wyAwxTA071vcJA66n1vAZSAmwEw7n1M4zm1eKL3fR1A-DGA2evKAvh6VTkA5XMAtuU8gJOZzHofQuAcgHsHrwD-294Hv977Eg6tdMo3wtXMPtsQZWG8LY9a1bHZXrYbBCzHy0rV7HfAIwWfbYjTILoJdNO_0FzzBla60da80NgCubFMbil2yKYQrLBTMIlFC4uQTC1KXTLX_cLaNS1SCK3FKlwQ6s7tAiXTaKOHVgETGt1ygR8SUdBrONo636raoLoTYIhQbwJdS1VmYaPWV5ZFw7O7935z5zvdAKFdZ6S63V5kdFWvBhv4qvqkj8puGTYe188LpaUZA0f121gtwp5a1MIh2n2zusNJsWg_STCyXGNCg9ZqPemh7hq2HcdYXepyp2kl0VBx8ng9FhRzaG4FLgixyGrg0gM9FP_R0wHcgG5StPBhyWaVVYpBIECdCUBNm30Iuy6OYl2z6FrEtasqvhIErOvT66k15QI72i7EhsDReSiW_8KhpUcs-3r0t_fLz-__APlXis4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=OKQMZHiczZbNcqpIFICrZj2vMWyMgpoYTRWV6kZUDFE7xoneDQUNAgK20qjR1a15llnNw8wD3Me4TzANaAJG8zObma7Sxu7z16fPx_GPP3137v341XWiaEFveH6z2ZRsQmzfKmES8DrdzjE_JT4NsXNLySrEloidkARWiRic7Ysrj3N80Zpz6aZr7re57VqscpiKAme5ojdQJL2mV1XcNMoUDdZTVaghyiX2Rc3QqTVj7p9nlNd49uX9Vm2yHyVasuZaG5Za1y7wLbU8v_JKFaFSLfV5PWAy4L8dMgSKzWYPAPs9OYg-axE5zCqQjvXldM6s34PYpwIkJd05538YG401JZhEzD59MJ0NvDZ77h2kRsoHcTF90H759bQPK52843A_GtKLanyCnK33xokkJnm5y1nO750a7fwOnDRBc5Mx_-Y4GQep6ij-2oDW5eAeIITOejoMZvpuAgQffFAnh4hGje4wYlqQN21W5QJvhGwq8y52cPIQ0rj4pceGQDra71deZax37N0I-fXOUsPleV1-Qmhs89hgcj7RTcvUHE3gF7G6cJsslyuVSr3auK5cJPxh-gIgzQIYEipE8_p9MRJKagmWD-jlD32cM6Qo4FRN2dA-ZCQ_XgygbLqTbBxJejnPrf3sAKgggPO3ju5kNSvEqGmytNXt7C28akjvoHc0WOHKgOwNjPZLIF90aALk4Sk_8XP_pNn4HInXvLP2Hj2llThR4uJLrNhv0XsALA9xevcpzr0joSTZkCUYxS-MO6YeSamschnHd7gxJMvsePJLlnLhSOlBWiA3pEwkTE-OpTbAloG3UmRJcffLafS2nXqCyJYPkSY-pLfwgfSkEmg5J7c-NeTPvF_SKA6sHaOTQU5GT2S2uEO78fZy4ra9TvG-9TDo1-reHJxmiwTG17ob_t8DeOh9_r7yzwIYe_oUgMh5D8C3vU-WUgAl7wyAwxTA071vcJA66n1vAZSAmwEw7n1M4zm1eKL3fR1A-DGA2evKAvh6VTkA5XMAtuU8gJOZzHofQuAcgHsHrwD-294Hv977Eg6tdMo3wtXMPtsQZWG8LY9a1bHZXrYbBCzHy0rV7HfAIwWfbYjTILoJdNO_0FzzBla60da80NgCubFMbil2yKYQrLBTMIlFC4uQTC1KXTLX_cLaNS1SCK3FKlwQ6s7tAiXTaKOHVgETGt1ygR8SUdBrONo636raoLoTYIhQbwJdS1VmYaPWV5ZFw7O7935z5zvdAKFdZ6S63V5kdFWvBhv4qvqkj8puGTYe188LpaUZA0f121gtwp5a1MIh2n2zusNJsWg_STCyXGNCg9ZqPemh7hq2HcdYXepyp2kl0VBx8ng9FhRzaG4FLgixyGrg0gM9FP_R0wHcgG5StPBhyWaVVYpBIECdCUBNm30Iuy6OYl2z6FrEtasqvhIErOvT66k15QI72i7EhsDReSiW_8KhpUcs-3r0t_fLz-__APlXis4"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Video Editing Rates In 2024 - How Much",
+        "link": "https://www.freevisuals.net/post/video-editing-rates",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHEIkXX8qDPE8kt_CEeCxjdfaeBGEpj8WCsPqLkYvHZCGxmbf3HMDhnZQBHJjg3_cxE4n7rJRQTiUUdT5LOB7MKF1PfllCyqIqfhSmmgEt0_4dB6YBveQj3sRyrGhSyXcGYkA3t75lepgkGfMPlarsd&ved=2ahUKEwimv4TO25uYAxXArZUCHT05Pb0QFnoECC0QAQ&uoh=1",
+        "displayed_link": "https://www.freevisuals.net \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAllBMVEW8GCO-GCPAGSSzFyFuAABsAAB0AAB_AACPEhugAACtubn2-vr___-RlparsLC3vr6WAACzAA6GkZHV3t2Yn59gV1daAACRmpm0tLRTAABqZGTACRnBFCBZHiFZKiyuAAbe3t7Mzc1yb29NJCVkAACLAADP1dVvVlegqqpKNDWlpqZiUlOlAADs7OxXGBtsdnaOAAClChcBKDVhAAAAzklEQVR4AdyMhXXEMBAFLTZ8M_uYGfqvLqvg1pCxhaM3wX9DyF8C4mf9ckobj7VGS3LO6PDXiihOCKQZ8kKIskJtmcwBkk0LdFK6Gn0puBxGynYJptl8ASznAZfxajabRzHiiKprJ7nEZtpud7MWyf5wREpVLj2n2T7BqQMWVOVy3TTnyzzKcN2i9lUu42K1UmJ2w3pA9VVl8i6FCCR1H3j6Kpf53b8W9ww48irJvu6jz9TsVtevmeBSvQ_vj0GZhqqqhkwYsYJgMg7NpAUAHSUO0T2Eat0AAAAASUVORK5CYII.png",
+        "date": "20 Jul 2026",
+        "snippet": "A beginner might charge around $25-$40 per hour, An advanced editor, can charge $50-$150 per hour. an editor might charge $350 for a project, ...",
+        "snippet_highlighted_words": [
+          "around $25-$40 per hour"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "A beginner might charge around $25-$40 per hour, An advanced editor, can charge $50-$150 per hour. an editor might charge $350 for a project, ...",
+            "source_info_link": "https://www.freevisuals.net/post/video-editing-rates",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAllBMVEW8GCO-GCPAGSSzFyFuAABsAAB0AAB_AACPEhugAACtubn2-vr___-RlparsLC3vr6WAACzAA6GkZHV3t2Yn59gV1daAACRmpm0tLRTAABqZGTACRnBFCBZHiFZKiyuAAbe3t7Mzc1yb29NJCVkAACLAADP1dVvVlegqqpKNDWlpqZiUlOlAADs7OxXGBtsdnaOAAClChcBKDVhAAAAzklEQVR4AdyMhXXEMBAFLTZ8M_uYGfqvLqvg1pCxhaM3wX9DyF8C4mf9ckobj7VGS3LO6PDXiihOCKQZ8kKIskJtmcwBkk0LdFK6Gn0puBxGynYJptl8ASznAZfxajabRzHiiKprJ7nEZtpud7MWyf5wREpVLj2n2T7BqQMWVOVy3TTnyzzKcN2i9lUu42K1UmJ2w3pA9VVl8i6FCCR1H3j6Kpf53b8W9ww48irJvu6jz9TsVtevmeBSvQ_vj0GZhqqqhkwYsYJgMg7NpAUAHSUO0T2Eat0AAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqYBL2dvdG8_dXJsPUNBRVNjUUhFSWtYWERFYlNjTGZKM0dZWlJKbXJ1a2d3dkN4T1BfdHVPV1NIRkVILWw4czN3eG52QzlXTTliT29wN0JZLTNXcWlRRjBPb1Jod1AtSXZPTG9QRWNwOXo1YVo1OU9lNUdPX3lPUGJ2cDlfeFRxRFJKZXlXdldHYVkyS2Z1ZlllVlNwN1p5T1VlQXRIZ3B6anlxYkNDMhIEGgIIABriBhICCAAaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQLwGCAAQABgAIAAqHQoDaG93FSs6Xz8aBnByaWNlcxoEd2hhdBoDd2hvKjAKBG11Y2gVXbloPRoHYXZlcmFnZRoFY29zdHMaBG1hbnkaBW9mdGVuGgZwcmljZXMqPQoEZG9lcxUNQLE9GgFhGgNhcmUaB2F2ZXJhZ2UaA2NhbhoDZGlkGgJkbxoCaXMaBnNob3VsZBoFd291bGQqOgoMcHJvZmVzc2lvbmFsFS_VLz8aA3BybxoNcHJvZmVzc2lvbmFscxoRcHJvZmVzc2lvbmFsdmlkZW8qHwoFdmlkZW8VTgKwQBoRcHJvZmVzc2lvbmFsdmlkZW8qUQoLcmVwdXJwb3NpbmcV4HOEPhoJcmVwdXJwb3NlGgpyZXB1cnBvc2VkGgVyZXVzZRoQaXY7cDtyZXB1cnBvc2luZxoNcmVwb3NpdGlvbmluZyoYCghzb2Z0d2FyZRUQXHtAGgdwcm9ncmFtKjAKBGNvc3QV2giOPxoFY29zdHMaBXByaWNlGgZwcmljZXMaB3ByaWNpbmcaBHJhdGUypgEvZ290bz91cmw9Q0FFU2NRSEVJa1hYREViU2NMZkozR1laUkptcnVrZ3d2Q3hPUF90dU9XU0hGRUgtbDhzM3d4bnZDOVdNOWJPb3A3QlktM1dxaVFGME9vUmh3UC1Jdk9Mb1BFY3A5ejVhWjU5T2U1R09feU9QYnZwOV94VHFEUkpleVd2V0dhWTJLZnVmWWVWU3A3WnlPVWVBdEhncHpqeXFiQ0MyOkI8Yj5WaWRlbzwvYj4gRWRpdGluZyBSYXRlcyBJbiAyMDI0IC0gPGI-SG93IE11Y2g8L2I-IC0gRnJlZVZpc3VhbHNCnQFBIGJlZ2lubmVyIG1pZ2h0IGNoYXJnZSA8Yj5hcm91bmQgJDI1LSQ0MCBwZXIgaG91cjwvYj4sIEFuIGFkdmFuY2VkIGVkaXRvciwgY2FuIGNoYXJnZSAkNTAtJDE1MCBwZXIgaG91ci4gYW4gZWRpdG9yIG1pZ2h0IGNoYXJnZSAkMzUwIGZvciBhIHByb2plY3QsJm5ic3A7Li4uUgJkb1IDYXJlUgR3aGF0UgFhUgJpc1IDY2FuIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqYBL2dvdG8_dXJsPUNBRVNjUUhFSWtYWERFYlNjTGZKM0dZWlJKbXJ1a2d3dkN4T1BfdHVPV1NIRkVILWw4czN3eG52QzlXTTliT29wN0JZLTNXcWlRRjBPb1Jod1AtSXZPTG9QRWNwOXo1YVo1OU9lNUdPX3lPUGJ2cDlfeFRxRFJKZXlXdldHYVkyS2Z1ZlllVlNwN1p5T1VlQXRIZ3B6anlxYkNDMhIEGgIIABriBhICCAAaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQLwGCAAQABgAIAAqHQoDaG93FSs6Xz8aBnByaWNlcxoEd2hhdBoDd2hvKjAKBG11Y2gVXbloPRoHYXZlcmFnZRoFY29zdHMaBG1hbnkaBW9mdGVuGgZwcmljZXMqPQoEZG9lcxUNQLE9GgFhGgNhcmUaB2F2ZXJhZ2UaA2NhbhoDZGlkGgJkbxoCaXMaBnNob3VsZBoFd291bGQqOgoMcHJvZmVzc2lvbmFsFS_VLz8aA3BybxoNcHJvZmVzc2lvbmFscxoRcHJvZmVzc2lvbmFsdmlkZW8qHwoFdmlkZW8VTgKwQBoRcHJvZmVzc2lvbmFsdmlkZW8qUQoLcmVwdXJwb3NpbmcV4HOEPhoJcmVwdXJwb3NlGgpyZXB1cnBvc2VkGgVyZXVzZRoQaXY7cDtyZXB1cnBvc2luZxoNcmVwb3NpdGlvbmluZyoYCghzb2Z0d2FyZRUQXHtAGgdwcm9ncmFtKjAKBGNvc3QV2giOPxoFY29zdHMaBXByaWNlGgZwcmljZXMaB3ByaWNpbmcaBHJhdGUypgEvZ290bz91cmw9Q0FFU2NRSEVJa1hYREViU2NMZkozR1laUkptcnVrZ3d2Q3hPUF90dU9XU0hGRUgtbDhzM3d4bnZDOVdNOWJPb3A3QlktM1dxaVFGME9vUmh3UC1Jdk9Mb1BFY3A5ejVhWjU5T2U1R09feU9QYnZwOV94VHFEUkpleVd2V0dhWTJLZnVmWWVWU3A3WnlPVWVBdEhncHpqeXFiQ0MyOkI8Yj5WaWRlbzwvYj4gRWRpdGluZyBSYXRlcyBJbiAyMDI0IC0gPGI-SG93IE11Y2g8L2I-IC0gRnJlZVZpc3VhbHNCnQFBIGJlZ2lubmVyIG1pZ2h0IGNoYXJnZSA8Yj5hcm91bmQgJDI1LSQ0MCBwZXIgaG91cjwvYj4sIEFuIGFkdmFuY2VkIGVkaXRvciwgY2FuIGNoYXJnZSAkNTAtJDE1MCBwZXIgaG91ci4gYW4gZWRpdG9yIG1pZ2h0IGNoYXJnZSAkMzUwIGZvciBhIHByb2plY3QsJm5ic3A7Li4uUgJkb1IDYXJlUgR3aGF0UgFhUgJpc1IDY2FuIgIQAUgAWABoAA",
+        "source": "FreeVisuals"
+      },
+      {
+        "position": 2,
+        "title": "WHAT to CHARGE for Video Production (+REAL RATES!)",
+        "link": "https://www.youtube.com/watch?v=ehOhE9_eaU8",
+        "displayed_link": "https://www.youtube.com",
+        "date": "18 Jan 2021",
+        "thumbnail": "https://serpapi.com/searches/6b02f280eabc4dadf231d95a/images/nBQDZO6Sc8p7ZVJ7kJchsXPYNCD6xgxYN8fj-YbXyws.jpg",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABJklEQVR4Ae2WpVaFQRSFcaeS4QVwIjTiLbgk7D1w9xeg4FQcOu6acHeXtNnDmsFd7in_WetLI-f7dbYDAFEsAUvgoeAQ5k5iSQFpIH1kkMyQFXJMTsgpwTuc6jlHes2M3qNP71mge7g76DLNg8gygZ1QckGmuSdZJ7Azq8RDCSQTCJGgBCoFBWqVQLegQJcSmPnWIr9oICMXcIr4C4FJJbD9rUX-NtzX-CIQlfVbgS0lcP4jAVNt_UCA7acCZ0oAPxfQdXMLFNUBvpHflvgbAVM7h0B6zrfeD3kB-Ucg_xLKf4biPyLJX3GH9GFUogRSBQUSTSBZEwskQpFs1USyl6E0gRSRJtJPhsnci1B69oVQeqzXzOo9-kmj3juBeDw2BkSxBCyBO-9s03HRLVCoAAAAAElFTkSuQmCC.png",
+        "snippet": "In this episode, I'm going to tell you exactly what we charge, how much big video production companies charge, and provide REAL NUMBERS & RATES",
+        "duration": "5:15",
+        "about_this_result": {
+          "source": {
+            "description": "In this episode, I'm going to tell you exactly what we charge, how much big video production companies charge, and provide REAL NUMBERS & RATES",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABJklEQVR4Ae2WpVaFQRSFcaeS4QVwIjTiLbgk7D1w9xeg4FQcOu6acHeXtNnDmsFd7in_WetLI-f7dbYDAFEsAUvgoeAQ5k5iSQFpIH1kkMyQFXJMTsgpwTuc6jlHes2M3qNP71mge7g76DLNg8gygZ1QckGmuSdZJ7Azq8RDCSQTCJGgBCoFBWqVQLegQJcSmPnWIr9oICMXcIr4C4FJJbD9rUX-NtzX-CIQlfVbgS0lcP4jAVNt_UCA7acCZ0oAPxfQdXMLFNUBvpHflvgbAVM7h0B6zrfeD3kB-Ucg_xLKf4biPyLJX3GH9GFUogRSBQUSTSBZEwskQpFs1USyl6E0gRSRJtJPhsnci1B69oVQeqzXzOo9-kmj3juBeDw2BkSxBCyBO-9s03HRLVCoAAAAAElFTkSuQmCC.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWG43cEZ1ZEQ2NUNJRDQ4alltVFNlVWVUNEhRX0gydWVrcVdXWnJOcFpKQWdmOGRHd3ZXRC0xTVI2a2JVTzVPU2VJeWI0VlBqRnNDcDNqeDVaeUFIbnNjUVVaZkdCRW43c0ZhRGVVTVgzRmpCcFhDSFh2bEdGVnlEaHU4dDBOYk1SYnc1MhIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWG43cEZ1ZEQ2NUNJRDQ4alltVFNlVWVUNEhRX0gydWVrcVdXWnJOcFpKQWdmOGRHd3ZXRC0xTVI2a2JVTzVPU2VJeWI0VlBqRnNDcDNqeDVaeUFIbnNjUVVaZkdCRW43c0ZhRGVVTVgzRmpCcFhDSFh2bEdGVnlEaHU4dDBOYk1SYnc1MhIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRSr4oJ8wCvVtAOJ5qAwb-dBXfAJAuMHbDCqQ",
+        "source": "YouTube \u00b7 Sebastian Savoy"
+      },
+      {
+        "position": 3,
+        "title": "Cost-Effective Video Production Alternatives: AI Tools",
+        "link": "https://www.google.com/goto?url=CAESegHEIkXX5z4ZmjDh-b4GRP8QDa0IA5JKRqInYeTf-Bm37wnUzriyFpfZvdb4cTJ1sM3ICpkHHSfcyP4L4jNEzBp6AT_4W-5DyXY8l9xTXgUoA_wzHgeQ17ZvwkCKYrxvmODHH0OeFmbtzDlDfKD-_grtnbwiJ433Pux9",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHEIkXXmzLQ9k-jdoK595PZMhs3PbGzS1jS1mnLSH1YBaqQN511vJjHUshBe37MWKjTpXRjuIAA7D5I3-drGnKYRUJkuSA6-UYRgN2Txv9M7aMd4wwo5ofo8T4vZz_U-mi0sBlsSZRdFEs1Y0nShfSIa8bzk2HLPK-d&ved=2ahUKEwimv4TO25uYAxXArZUCHT05Pb0QFnoECDkQAQ&uoh=1",
+        "displayed_link": "https://www.sozee.ai \u203a resources \u203a cost-effective-ai-vide...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABgAAAAcCAMAAABMOI_cAAAAM1BMVEVHcEyZQ-iaQuqeUuabROuaQeuoX-xcJo-cSembReufTeycRuygTuybQ-vKmvOcReulWe2GO_dEAAAAEXRSTlMAXo0Xnv8rA0Pafv63xwnrVQ8CmtMAAACsSURBVHgBdJAHDgQhDANDltA5-P9rjyI6zFZsYZnAAkP84IRTRkBDQkFRRY_9BhKYNAOGyEIHibMc49AXd2QpSx2ztkkJNt3e_BZdpRi48A1dKvSByNfTtIoKNc2dffoqNsRmMDqxqgQNvAtdHxssRl_t0pm3VAam-nGaXeCilEjwcYoYS-uSHgTs6DGoBczp4joVCnAB73pp9D0MDleQItx5GsrByxH_MRAHAMLSBr3hR-D5AAAAAElFTkSuQmCC.png",
+        "date": "14 Jan 2026",
+        "snippet": "Budgets of 2,000 to 10,000 dollars for a single polished video make daily or even several-times-per-week production unrealistic for many ...",
+        "snippet_highlighted_words": [
+          "2,000 to 10,000 dollars"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Budgets of 2,000 to 10,000 dollars for a single polished video make daily or even several-times-per-week production unrealistic for many ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESegHEIkXX5z4ZmjDh-b4GRP8QDa0IA5JKRqInYeTf-Bm37wnUzriyFpfZvdb4cTJ1sM3ICpkHHSfcyP4L4jNEzBp6AT_4W-5DyXY8l9xTXgUoA_wzHgeQ17ZvwkCKYrxvmODHH0OeFmbtzDlDfKD-_grtnbwiJ433Pux9",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABgAAAAcCAMAAABMOI_cAAAAM1BMVEVHcEyZQ-iaQuqeUuabROuaQeuoX-xcJo-cSembReufTeycRuygTuybQ-vKmvOcReulWe2GO_dEAAAAEXRSTlMAXo0Xnv8rA0Pafv63xwnrVQ8CmtMAAACsSURBVHgBdJAHDgQhDANDltA5-P9rjyI6zFZsYZnAAkP84IRTRkBDQkFRRY_9BhKYNAOGyEIHibMc49AXd2QpSx2ztkkJNt3e_BZdpRi48A1dKvSByNfTtIoKNc2dffoqNsRmMDqxqgQNvAtdHxssRl_t0pm3VAam-nGaXeCilEjwcYoYS-uSHgTs6DGoBczp4joVCnAB73pp9D0MDleQItx5GsrByxH_MRAHAMLSBr3hR-D5AAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrIBL2dvdG8_dXJsPUNBRVNlZ0hFSWtYWDV6NFptakRoLWI0R1JQOFFEYTBJQTVKS1JxSW5ZZVRmLUJtMzd3blV6cml5RnBmWnZkYjRjVEoxc00zSUNwa0hIU2ZjeVA0TDRqTkV6QnA2QVRfNFctNUR5WFk4bDl4VFhnVW9BX3d6SGdlUTE3WnZ3a0NLWXJ4dm1PREhIME9lRm1idHpEbERmS0QtX2dydG5id2lKNDMzUHV4ORIEGgIIABrpBhIAGgAiACoAMgYIAhICdWs6AEIECAEQAEoAWgByAHoAgkDFBggAEAAYACAAKh0KA2hvdxX-io1AGgZwcmljZXMaBHdoYXQaA3dobyowCgRtdWNoFdLdlUAaB2F2ZXJhZ2UaBWNvc3RzGgRtYW55GgVvZnRlbhoGcHJpY2VzKj0KBGRvZXMVF3ahPxoBYRoDYXJlGgdhdmVyYWdlGgNjYW4aA2RpZBoCZG8aAmlzGgZzaG91bGQaBXdvdWxkKjoKDHByb2Zlc3Npb25hbBVQSpg_GgNwcm8aDXByb2Zlc3Npb25hbHMaEXByb2Zlc3Npb25hbHZpZGVvKh8KBXZpZGVvFVMiqUAaEXByb2Zlc3Npb25hbHZpZGVvKlEKC3JlcHVycG9zaW5nFQAAAAAaCXJlcHVycG9zZRoKcmVwdXJwb3NlZBoFcmV1c2UaEGl2O3A7cmVwdXJwb3NpbmcaDXJlcG9zaXRpb25pbmcqGAoIc29mdHdhcmUVbiJGPxoHcHJvZ3JhbSowCgRjb3N0FS7y1D8aBWNvc3RzGgVwcmljZRoGcHJpY2VzGgdwcmljaW5nGgRyYXRlMrIBL2dvdG8_dXJsPUNBRVNlZ0hFSWtYWDV6NFptakRoLWI0R1JQOFFEYTBJQTVKS1JxSW5ZZVRmLUJtMzd3blV6cml5RnBmWnZkYjRjVEoxc00zSUNwa0hIU2ZjeVA0TDRqTkV6QnA2QVRfNFctNUR5WFk4bDl4VFhnVW9BX3d6SGdlUTE3WnZ3a0NLWXJ4dm1PREhIME9lRm1idHpEbERmS0QtX2dydG5id2lKNDMzUHV4OTpEPGI-Q29zdDwvYj4tRWZmZWN0aXZlIDxiPlZpZGVvPC9iPiBQcm9kdWN0aW9uIEFsdGVybmF0aXZlczogQUkgVG9vbHNCmAFCdWRnZXRzIG9mIDxiPjIsMDAwIHRvIDEwLDAwMCBkb2xsYXJzPC9iPiBmb3IgYSBzaW5nbGUgcG9saXNoZWQgdmlkZW8gbWFrZSBkYWlseSBvciBldmVuIHNldmVyYWwtdGltZXMtcGVyLXdlZWsgcHJvZHVjdGlvbiB1bnJlYWxpc3RpYyBmb3IgbWFueSZuYnNwOy4uLlICaXNSAWFSBHdoYXRSA2FyZVICZG9SA2NhbiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrIBL2dvdG8_dXJsPUNBRVNlZ0hFSWtYWDV6NFptakRoLWI0R1JQOFFEYTBJQTVKS1JxSW5ZZVRmLUJtMzd3blV6cml5RnBmWnZkYjRjVEoxc00zSUNwa0hIU2ZjeVA0TDRqTkV6QnA2QVRfNFctNUR5WFk4bDl4VFhnVW9BX3d6SGdlUTE3WnZ3a0NLWXJ4dm1PREhIME9lRm1idHpEbERmS0QtX2dydG5id2lKNDMzUHV4ORIEGgIIABrpBhIAGgAiACoAMgYIAhICdWs6AEIECAEQAEoAWgByAHoAgkDFBggAEAAYACAAKh0KA2hvdxX-io1AGgZwcmljZXMaBHdoYXQaA3dobyowCgRtdWNoFdLdlUAaB2F2ZXJhZ2UaBWNvc3RzGgRtYW55GgVvZnRlbhoGcHJpY2VzKj0KBGRvZXMVF3ahPxoBYRoDYXJlGgdhdmVyYWdlGgNjYW4aA2RpZBoCZG8aAmlzGgZzaG91bGQaBXdvdWxkKjoKDHByb2Zlc3Npb25hbBVQSpg_GgNwcm8aDXByb2Zlc3Npb25hbHMaEXByb2Zlc3Npb25hbHZpZGVvKh8KBXZpZGVvFVMiqUAaEXByb2Zlc3Npb25hbHZpZGVvKlEKC3JlcHVycG9zaW5nFQAAAAAaCXJlcHVycG9zZRoKcmVwdXJwb3NlZBoFcmV1c2UaEGl2O3A7cmVwdXJwb3NpbmcaDXJlcG9zaXRpb25pbmcqGAoIc29mdHdhcmUVbiJGPxoHcHJvZ3JhbSowCgRjb3N0FS7y1D8aBWNvc3RzGgVwcmljZRoGcHJpY2VzGgdwcmljaW5nGgRyYXRlMrIBL2dvdG8_dXJsPUNBRVNlZ0hFSWtYWDV6NFptakRoLWI0R1JQOFFEYTBJQTVKS1JxSW5ZZVRmLUJtMzd3blV6cml5RnBmWnZkYjRjVEoxc00zSUNwa0hIU2ZjeVA0TDRqTkV6QnA2QVRfNFctNUR5WFk4bDl4VFhnVW9BX3d6SGdlUTE3WnZ3a0NLWXJ4dm1PREhIME9lRm1idHpEbERmS0QtX2dydG5id2lKNDMzUHV4OTpEPGI-Q29zdDwvYj4tRWZmZWN0aXZlIDxiPlZpZGVvPC9iPiBQcm9kdWN0aW9uIEFsdGVybmF0aXZlczogQUkgVG9vbHNCmAFCdWRnZXRzIG9mIDxiPjIsMDAwIHRvIDEwLDAwMCBkb2xsYXJzPC9iPiBmb3IgYSBzaW5nbGUgcG9saXNoZWQgdmlkZW8gbWFrZSBkYWlseSBvciBldmVuIHNldmVyYWwtdGltZXMtcGVyLXdlZWsgcHJvZHVjdGlvbiB1bnJlYWxpc3RpYyBmb3IgbWFueSZuYnNwOy4uLlICaXNSAWFSBHdoYXRSA2FyZVICZG9SA2NhbiICEAFIAFgAaAA",
+        "source": "Sozee"
+      },
+      {
+        "position": 4,
+        "title": "AI Video Cost Per Usable Clip: A Real Budgeting Guide",
+        "link": "https://www.google.com/goto?url=CAESdgHEIkXXRlIjjsOQJUVi583KyaMhRvZc_vmP1NwN1HxKokbtgV5ZB_7VxbQsJutqECt7dJ3y_ukJAj1E1WGwxlDFqOTs55ifiAuLSlLpTWwCBY7DpsrmS8VdiFaHqR4RbeWXnJ_sKUdvSj27pw8TnOxpoRj2K_U",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHEIkXXFwkgLcj46vCfPUuuQPdGdDReF9G9yKjO-fdUF2t_Bfy9u5QLh842hNx1tCIgq6QT6g_4ZP2dY7G93MVjvJ-yvJL0PzYYlt0VGeAA0wpEid01ayYq0F9uS7l_aoqC4IlNWClFU0rclR__J04hbNVsA_Q&ved=2ahUKEwimv4TO25uYAxXArZUCHT05Pb0QFnoECD4QAQ&uoh=1",
+        "displayed_link": "https://queststudio.io \u203a blog \u203a ai-video-cost-per-usable-...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAgVBMVEURERQICAwAAAAyMjWYl5vKyc7n5uvy8fYsLC7____9_P_7-v_49_xubnH39vuurrKVlJhnZ2ocHB4YFx2qkNSJdasDCABDOlOjistKPGDe3eF6aJifhcmop627u76Eg4d5eHugiMhCQkQ8NEpeUHQkICySfLY0LkFlVn1uXYgqJjR037DLAAABAklEQVR4Aa2SRQIDIQxFS_BA3d31_gdsYFw2lb9BHiHa-YMYpGItiAuptFZS8DoGIy06T3JopYEK66Lr5XLYhTKzni49kuLGFpQZ9OFG9QeDvrJhj4ZlhtLRX3oIUUMdThJSQ27prR6lRxhpsrWcJSeBdBjmXmBIj1FA_qtX5fiUz_8Ne-yXYR_z16AJDiBuEw0I6jocT4KmJVj6djafLBaLybJvHa4aAcE60M12t9vtoZTKIaHHBWkKpHIR3AkYfXyOH18IlcvnUTDIPp5cWa3waHeQfXyDest6gc7u0fRRpugyCs9IX6wxJpHe8o9rA4Z9YPfF8XhcPGcto5ntiH2vN0chE9uOcsibAAAAAElFTkSuQmCC.png",
+        "date": "25 Jul 2026",
+        "snippet": "The advertised cost was $0.80. The useful production cost was $10.67. This is not an industry benchmark. It is an example showing why your ...",
+        "snippet_highlighted_words": [
+          "cost",
+          "cost",
+          "is",
+          "is"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The advertised cost was $0.80. The useful production cost was $10.67. This is not an industry benchmark. It is an example showing why your ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESdgHEIkXXRlIjjsOQJUVi583KyaMhRvZc_vmP1NwN1HxKokbtgV5ZB_7VxbQsJutqECt7dJ3y_ukJAj1E1WGwxlDFqOTs55ifiAuLSlLpTWwCBY7DpsrmS8VdiFaHqR4RbeWXnJ_sKUdvSj27pw8TnOxpoRj2K_U",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAgVBMVEURERQICAwAAAAyMjWYl5vKyc7n5uvy8fYsLC7____9_P_7-v_49_xubnH39vuurrKVlJhnZ2ocHB4YFx2qkNSJdasDCABDOlOjistKPGDe3eF6aJifhcmop627u76Eg4d5eHugiMhCQkQ8NEpeUHQkICySfLY0LkFlVn1uXYgqJjR037DLAAABAklEQVR4Aa2SRQIDIQxFS_BA3d31_gdsYFw2lb9BHiHa-YMYpGItiAuptFZS8DoGIy06T3JopYEK66Lr5XLYhTKzni49kuLGFpQZ9OFG9QeDvrJhj4ZlhtLRX3oIUUMdThJSQ27prR6lRxhpsrWcJSeBdBjmXmBIj1FA_qtX5fiUz_8Ne-yXYR_z16AJDiBuEw0I6jocT4KmJVj6djafLBaLybJvHa4aAcE60M12t9vtoZTKIaHHBWkKpHIR3AkYfXyOH18IlcvnUTDIPp5cWa3waHeQfXyDest6gc7u0fRRpugyCs9IX6wxJpHe8o9rA4Z9YPfF8XhcPGcto5ntiH2vN0chE9uOcsibAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hFSWtYWFJsSWpqc09RSlVWaTU4M0t5YU1oUnZaY192bVAxTndOMUh4S29rYnRnVjVaQl83VnhiUXNKdXRxRUN0N2RKM3lfdWtKQWoxRTFXR3d4bERGcU9UczU1aWZpQXVMU2xMcFRXd0NCWTdEcHNybVM4VmRpRmFIcVI0UmJlV1huSl9zS1VkdlNqMjdwdzhUbk94cG9SajJLX1USBBoCCAAa-gYSABoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJA1gYIABAAGAAgACodCgNob3cVxXkjPxoGcHJpY2VzGgR3aGF0GgN3aG8qMAoEbXVjaBUAAAAAGgdhdmVyYWdlGgVjb3N0cxoEbWFueRoFb2Z0ZW4aBnByaWNlcyo9CgRkb2VzFT79JD8aAWEaA2FyZRoHYXZlcmFnZRoDY2FuGgNkaWQaAmRvGgJpcxoGc2hvdWxkGgV3b3VsZCo6Cgxwcm9mZXNzaW9uYWwV3DojPhoDcHJvGg1wcm9mZXNzaW9uYWxzGhFwcm9mZXNzaW9uYWx2aWRlbyofCgV2aWRlbxVMdYxAGhFwcm9mZXNzaW9uYWx2aWRlbypRCgtyZXB1cnBvc2luZxUAAAAAGglyZXB1cnBvc2UaCnJlcHVycG9zZWQaBXJldXNlGhBpdjtwO3JlcHVycG9zaW5nGg1yZXBvc2l0aW9uaW5nKhgKCHNvZnR3YXJlFc-5Vj8aB3Byb2dyYW0qMAoEY29zdBWN3EA_GgVjb3N0cxoFcHJpY2UaBnByaWNlcxoHcHJpY2luZxoEcmF0ZTKtAS9nb3RvP3VybD1DQUVTZGdIRUlrWFhSbElqanNPUUpVVmk1ODNLeWFNaFJ2WmNfdm1QMU53TjFIeEtva2J0Z1Y1WkJfN1Z4YlFzSnV0cUVDdDdkSjN5X3VrSkFqMUUxV0d3eGxERnFPVHM1NWlmaUF1TFNsTHBUV3dDQlk3RHBzcm1TOFZkaUZhSHFSNFJiZVdYbkpfc0tVZHZTajI3cHc4VG5PeHBvUmoyS19VOkNBSSA8Yj5WaWRlbyBDb3N0PC9iPiBQZXIgVXNhYmxlIENsaXA6IDxiPkE8L2I-IFJlYWwgQnVkZ2V0aW5nIEd1aWRlQq8BVGhlIGFkdmVydGlzZWQgPGI-Y29zdDwvYj4gd2FzICQwLjgwLiBUaGUgdXNlZnVsIHByb2R1Y3Rpb24gPGI-Y29zdDwvYj4gd2FzICQxMC42Ny4gVGhpcyA8Yj5pczwvYj4gbm90IGFuIGluZHVzdHJ5IGJlbmNobWFyay4gSXQgPGI-aXM8L2I-IGFuIGV4YW1wbGUgc2hvd2luZyB3aHkgeW91ciZuYnNwOy4uLlIBYVIEd2hhdFIDYXJlUgJkb1ICaXNSA2NhbiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hFSWtYWFJsSWpqc09RSlVWaTU4M0t5YU1oUnZaY192bVAxTndOMUh4S29rYnRnVjVaQl83VnhiUXNKdXRxRUN0N2RKM3lfdWtKQWoxRTFXR3d4bERGcU9UczU1aWZpQXVMU2xMcFRXd0NCWTdEcHNybVM4VmRpRmFIcVI0UmJlV1huSl9zS1VkdlNqMjdwdzhUbk94cG9SajJLX1USBBoCCAAa-gYSABoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJA1gYIABAAGAAgACodCgNob3cVxXkjPxoGcHJpY2VzGgR3aGF0GgN3aG8qMAoEbXVjaBUAAAAAGgdhdmVyYWdlGgVjb3N0cxoEbWFueRoFb2Z0ZW4aBnByaWNlcyo9CgRkb2VzFT79JD8aAWEaA2FyZRoHYXZlcmFnZRoDY2FuGgNkaWQaAmRvGgJpcxoGc2hvdWxkGgV3b3VsZCo6Cgxwcm9mZXNzaW9uYWwV3DojPhoDcHJvGg1wcm9mZXNzaW9uYWxzGhFwcm9mZXNzaW9uYWx2aWRlbyofCgV2aWRlbxVMdYxAGhFwcm9mZXNzaW9uYWx2aWRlbypRCgtyZXB1cnBvc2luZxUAAAAAGglyZXB1cnBvc2UaCnJlcHVycG9zZWQaBXJldXNlGhBpdjtwO3JlcHVycG9zaW5nGg1yZXBvc2l0aW9uaW5nKhgKCHNvZnR3YXJlFc-5Vj8aB3Byb2dyYW0qMAoEY29zdBWN3EA_GgVjb3N0cxoFcHJpY2UaBnByaWNlcxoHcHJpY2luZxoEcmF0ZTKtAS9nb3RvP3VybD1DQUVTZGdIRUlrWFhSbElqanNPUUpVVmk1ODNLeWFNaFJ2WmNfdm1QMU53TjFIeEtva2J0Z1Y1WkJfN1Z4YlFzSnV0cUVDdDdkSjN5X3VrSkFqMUUxV0d3eGxERnFPVHM1NWlmaUF1TFNsTHBUV3dDQlk3RHBzcm1TOFZkaUZhSHFSNFJiZVdYbkpfc0tVZHZTajI3cHc4VG5PeHBvUmoyS19VOkNBSSA8Yj5WaWRlbyBDb3N0PC9iPiBQZXIgVXNhYmxlIENsaXA6IDxiPkE8L2I-IFJlYWwgQnVkZ2V0aW5nIEd1aWRlQq8BVGhlIGFkdmVydGlzZWQgPGI-Y29zdDwvYj4gd2FzICQwLjgwLiBUaGUgdXNlZnVsIHByb2R1Y3Rpb24gPGI-Y29zdDwvYj4gd2FzICQxMC42Ny4gVGhpcyA8Yj5pczwvYj4gbm90IGFuIGluZHVzdHJ5IGJlbmNobWFyay4gSXQgPGI-aXM8L2I-IGFuIGV4YW1wbGUgc2hvd2luZyB3aHkgeW91ciZuYnNwOy4uLlIBYVIEd2hhdFIDYXJlUgJkb1ICaXNSA2NhbiICEAFIAFgAaAA",
+        "source": "QuestStudio",
+        "read_more_link": "https://www.google.com/goto?url=CAES1gEBxCJF18alc_6lzDC0cGS8atqkxtwKT-jBes2gNKDNX9UHSAiTnCA8KZlFj65TVJ-vNsCMfx-x7jPqViCNuklQBIZwVmjwK9Tsu4PxrVisYDkabWWu9waxooLiznvBWgLi7zhY1A9oFfUP_8YuQIPvsdqEnX3jSyEPa3Vs4oFW8J-7Tzj_HuPoBFmNfl7FTyUmT_Uadlw9uxQm9DwlldEotlFJ-qIoq1USBWEFVnFtrZC4fwhNRqyix4Me_kaKKc0C-JoyT5-WgeEGA9XfpRorWJIQu5OB&gsessionid=T2l1_hvJ64WXTO3jsecPTTfX1Ugpuva0LjHToyjMpca3lFqCmE94Lg"
+      },
+      {
+        "position": 5,
+        "title": "Leveraging AI for Reduced Video Production Costs",
+        "link": "https://www.google.com/goto?url=CAEScgHEIkXX0VsGm3rpjyxY-1hKjwmewDg4q5zKjZYttKfPyqLdswD8L_1Dxz7Yvs5Z6kzOQBLuL0ukMh6Or517Sdb-dTehZgv40WpHtAGvUVH-IazJnLq97EKlGCqPa1KGe2e8gWvw_gkyQHRW_5HNP8QbkA",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHEIkXXCs_24l2Nrur1eSDaecYy-DBkJ-fpYnolZ2LFPu3uivinMQa2zxq_4NcygHX3mnZGuLgDi3jpG7O43XxXv4C96dqxWsHPUMXapvK79f_8S9RejoEV61gBdV5L3YNPUFu6kUCA56ejCEgYlQITFg&ved=2ahUKEwimv4TO25uYAxXArZUCHT05Pb0QFnoECDwQAQ&uoh=1",
+        "displayed_link": "https://www.heygen.com \u203a Blog",
+        "favicon": "https://serpapi.com/searches/6b02f280eabc4dadf231d95a/images/nBQDZO6Sc8p7ZVJ7kJchsfgrv2qC-hmpkjk8vFX8xk0.png",
+        "date": "9 Nov 2026",
+        "snippet": "AI avatars reduce training video costs by up to 70%. Creating training videos can easily run up to $10,000 and take two weeks or more. costing ...",
+        "snippet_highlighted_words": [
+          "video costs",
+          "can"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "AI avatars reduce training video costs by up to 70%. Creating training videos can easily run up to $10,000 and take two weeks or more. costing ...",
+            "source_info_link": "https://www.google.com/goto?url=CAEScgHEIkXX0VsGm3rpjyxY-1hKjwmewDg4q5zKjZYttKfPyqLdswD8L_1Dxz7Yvs5Z6kzOQBLuL0ukMh6Or517Sdb-dTehZgv40WpHtAGvUVH-IazJnLq97EKlGCqPa1KGe2e8gWvw_gkyQHRW_5HNP8QbkA",
+            "icon": "https://serpapi.com/searches/6b02f280eabc4dadf231d95a/images/nBQDZO6Sc8p7ZVJ7kJchsbYex5drS0FNai840LV2qedxYdsW_pv-riUytivy3Mwv.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqgBL2dvdG8_dXJsPUNBRVNjZ0hFSWtYWDBWc0dtM3Jwanl4WS0xaEtqd21ld0RnNHE1ektqWll0dEtmUHlxTGRzd0Q4TF8xRHh6N1l2czVaNmt6T1FCTHVMMHVrTWg2T3I1MTdTZGItZFRlaFpndjQwV3BIdEFHdlVWSC1JYXpKbkxxOTdFS2xHQ3FQYTFLR2UyZThnV3Z3X2dreVFIUldfNUhOUDhRYmtBEgQaAggAGu8GEgAaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQMsGCAAQABgAIAAqHQoDaG93FY-66z0aBnByaWNlcxoEd2hhdBoDd2hvKjAKBG11Y2gVAAAAABoHYXZlcmFnZRoFY29zdHMaBG1hbnkaBW9mdGVuGgZwcmljZXMqPQoEZG9lcxUU-Cs-GgFhGgNhcmUaB2F2ZXJhZ2UaA2NhbhoDZGlkGgJkbxoCaXMaBnNob3VsZBoFd291bGQqOgoMcHJvZmVzc2lvbmFsFanPwD4aA3BybxoNcHJvZmVzc2lvbmFscxoRcHJvZmVzc2lvbmFsdmlkZW8qHwoFdmlkZW8V-kTFQBoRcHJvZmVzc2lvbmFsdmlkZW8qUQoLcmVwdXJwb3NpbmcVJYu4QBoJcmVwdXJwb3NlGgpyZXB1cnBvc2VkGgVyZXVzZRoQaXY7cDtyZXB1cnBvc2luZxoNcmVwb3NpdGlvbmluZyoYCghzb2Z0d2FyZRUhFpw_Ggdwcm9ncmFtKjAKBGNvc3QVwL8jPhoFY29zdHMaBXByaWNlGgZwcmljZXMaB3ByaWNpbmcaBHJhdGUyqAEvZ290bz91cmw9Q0FFU2NnSEVJa1hYMFZzR20zcnBqeXhZLTFoS2p3bWV3RGc0cTV6S2paWXR0S2ZQeXFMZHN3RDhMXzFEeHo3WXZzNVo2a3pPUUJMdUwwdWtNaDZPcjUxN1NkYi1kVGVoWmd2NDBXcEh0QUd2VVZILUlhekpuTHE5N0VLbEdDcVBhMUtHZTJlOGdXdndfZ2t5UUhSV181SE5QOFFia0E6R0xldmVyYWdpbmcgQUkgZm9yIFJlZHVjZWQgPGI-VmlkZW88L2I-IFByb2R1Y3Rpb24gPGI-Q29zdHM8L2I-IC0gSGV5R2VuQqUBQUkgYXZhdGFycyByZWR1Y2UgdHJhaW5pbmcgPGI-dmlkZW8gY29zdHM8L2I-IGJ5IHVwIHRvIDcwJS4gQ3JlYXRpbmcgdHJhaW5pbmcgdmlkZW9zIDxiPmNhbjwvYj4gZWFzaWx5IHJ1biB1cCB0byAkMTAsMDAwIGFuZCB0YWtlIHR3byB3ZWVrcyBvciBtb3JlLiBjb3N0aW5nJm5ic3A7Li4uUgNjYW5SA2FyZVIEd2hhdFIBYVICaXNSAmRvIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqgBL2dvdG8_dXJsPUNBRVNjZ0hFSWtYWDBWc0dtM3Jwanl4WS0xaEtqd21ld0RnNHE1ektqWll0dEtmUHlxTGRzd0Q4TF8xRHh6N1l2czVaNmt6T1FCTHVMMHVrTWg2T3I1MTdTZGItZFRlaFpndjQwV3BIdEFHdlVWSC1JYXpKbkxxOTdFS2xHQ3FQYTFLR2UyZThnV3Z3X2dreVFIUldfNUhOUDhRYmtBEgQaAggAGu8GEgAaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQMsGCAAQABgAIAAqHQoDaG93FY-66z0aBnByaWNlcxoEd2hhdBoDd2hvKjAKBG11Y2gVAAAAABoHYXZlcmFnZRoFY29zdHMaBG1hbnkaBW9mdGVuGgZwcmljZXMqPQoEZG9lcxUU-Cs-GgFhGgNhcmUaB2F2ZXJhZ2UaA2NhbhoDZGlkGgJkbxoCaXMaBnNob3VsZBoFd291bGQqOgoMcHJvZmVzc2lvbmFsFanPwD4aA3BybxoNcHJvZmVzc2lvbmFscxoRcHJvZmVzc2lvbmFsdmlkZW8qHwoFdmlkZW8V-kTFQBoRcHJvZmVzc2lvbmFsdmlkZW8qUQoLcmVwdXJwb3NpbmcVJYu4QBoJcmVwdXJwb3NlGgpyZXB1cnBvc2VkGgVyZXVzZRoQaXY7cDtyZXB1cnBvc2luZxoNcmVwb3NpdGlvbmluZyoYCghzb2Z0d2FyZRUhFpw_Ggdwcm9ncmFtKjAKBGNvc3QVwL8jPhoFY29zdHMaBXByaWNlGgZwcmljZXMaB3ByaWNpbmcaBHJhdGUyqAEvZ290bz91cmw9Q0FFU2NnSEVJa1hYMFZzR20zcnBqeXhZLTFoS2p3bWV3RGc0cTV6S2paWXR0S2ZQeXFMZHN3RDhMXzFEeHo3WXZzNVo2a3pPUUJMdUwwdWtNaDZPcjUxN1NkYi1kVGVoWmd2NDBXcEh0QUd2VVZILUlhekpuTHE5N0VLbEdDcVBhMUtHZTJlOGdXdndfZ2t5UUhSV181SE5QOFFia0E6R0xldmVyYWdpbmcgQUkgZm9yIFJlZHVjZWQgPGI-VmlkZW88L2I-IFByb2R1Y3Rpb24gPGI-Q29zdHM8L2I-IC0gSGV5R2VuQqUBQUkgYXZhdGFycyByZWR1Y2UgdHJhaW5pbmcgPGI-dmlkZW8gY29zdHM8L2I-IGJ5IHVwIHRvIDcwJS4gQ3JlYXRpbmcgdHJhaW5pbmcgdmlkZW9zIDxiPmNhbjwvYj4gZWFzaWx5IHJ1biB1cCB0byAkMTAsMDAwIGFuZCB0YWtlIHR3byB3ZWVrcyBvciBtb3JlLiBjb3N0aW5nJm5ic3A7Li4uUgNjYW5SA2FyZVIEd2hhdFIBYVICaXNSAmRvIgIQAUgAWABoAA",
+        "source": "HeyGen"
+      },
+      {
+        "position": 6,
+        "title": "Cheap Video Editing Software 2025: Best Budget Picks",
+        "link": "https://www.google.com/goto?url=CAESeQHEIkXXM9EfHEMWWJ-YMinzIYkF-P25F6_sC5x3Cnq5qiTk3rByUrAmqX39GTYzmiLxQu4i05wJMnUM_7GtFiloFvaM1yRZy5gVnat9RLi9yzoF-ponE7PS6jqMJsjdXICkLI3yP1dgGprvkjtlFnGMHj060XUflok",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHEIkXXAsiVHEZ2h02-t_-zqDZ4uQcNbK_vNutbnQqTKiZOpftAjgQyMF2OBiu5H2sNFIPbTTL4k2kAH6d3EKya7mzSZHUUeEZee7mX5cSQyfFmem62jH-kkZpNerTaxnCHvbE9gv4i4MMDbTrHNo8wdVwjpqHy8gk&ved=2ahUKEwimv4TO25uYAxXArZUCHT05Pb0QFnoECDgQAQ&uoh=1",
+        "displayed_link": "https://www.accio.com \u203a biz-cheap \u203a cheap-video-editin...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAjVBMVEX____Y2NgpKSlNTU0AAABkZGTp6ekGBgZ3d3d-fn729vYRERGRkZEbGxshISGoqKguLi6WlpY1NTXBwcHv-v-H2_9gYGAcu_2b4_oJuvNSUlI6z-QYx-DKysq28e0s18vE9PA8PDxv7sVH6bWxsbHZ_ulo-qXc_--u_8yP_7rx__e6_9n1__xHR0fo__VSvrKXAAAAvElEQVR4AW3QRQKDMBBA0QnFoS64u97_eI3hvA0a-7BAgoDgzEUUL3ACidjZEEnEJDiQFRFTZNhTRUqDHd0QKUOHLVPkTNi6itwNNu70Hf16h7WHiD3pfC9YebN12Q7emxqY9vmoorjpgtjZvl9Z2Xb50Rofy-J32xrIdhybj13XcMHzfY-vtq4RhBEW8_0tNRJIMyxlJzKXGnlRUhVrMNcQoG6oGuYurEbbcT2d-cFrDPpYcaM-bLr0M2D-0AMQ0cRoC4QAAAAASUVORK5CYII.png",
+        "snippet": "Cost Model: Software can be free, subscription-based (monthly/annually), or require a one-time purchase. \u00b7 Operating System Compatibility: Software may be ...",
+        "snippet_highlighted_words": [
+          "Cost",
+          "Software can",
+          "a",
+          "Software"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Cost Model: Software can be free, subscription-based (monthly/annually), or require a one-time purchase. \u00b7 Operating System Compatibility: Software may be ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESeQHEIkXXM9EfHEMWWJ-YMinzIYkF-P25F6_sC5x3Cnq5qiTk3rByUrAmqX39GTYzmiLxQu4i05wJMnUM_7GtFiloFvaM1yRZy5gVnat9RLi9yzoF-ponE7PS6jqMJsjdXICkLI3yP1dgGprvkjtlFnGMHj060XUflok",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAjVBMVEX____Y2NgpKSlNTU0AAABkZGTp6ekGBgZ3d3d-fn729vYRERGRkZEbGxshISGoqKguLi6WlpY1NTXBwcHv-v-H2_9gYGAcu_2b4_oJuvNSUlI6z-QYx-DKysq28e0s18vE9PA8PDxv7sVH6bWxsbHZ_ulo-qXc_--u_8yP_7rx__e6_9n1__xHR0fo__VSvrKXAAAAvElEQVR4AW3QRQKDMBBA0QnFoS64u97_eI3hvA0a-7BAgoDgzEUUL3ACidjZEEnEJDiQFRFTZNhTRUqDHd0QKUOHLVPkTNi6itwNNu70Hf16h7WHiD3pfC9YebN12Q7emxqY9vmoorjpgtjZvl9Z2Xb50Rofy-J32xrIdhybj13XcMHzfY-vtq4RhBEW8_0tNRJIMyxlJzKXGnlRUhVrMNcQoG6oGuYurEbbcT2d-cFrDPpYcaM-bLr0M2D-0AMQ0cRoC4QAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhFSWtYWE05RWZIRU1XV0otWU1pbnpJWWtGLVAyNUY2X3NDNXgzQ25xNXFpVGszckJ5VXJBbXFYMzlHVFl6bWlMeFF1NGkwNXdKTW5VTV83R3RGaWxvRnZhTTF5Ulp5NWdWbmF0OVJMaTl5em9GLXBvbkU3UFM2anFNSnNqZFhJQ2tMSTN5UDFkZ0dwcnZranRsRm5HTUhqMDYwWFVmbG9rEgQaAggAGpYHEgIIABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJA8AYIABAAGAAgACodCgNob3cVmiIzPhoGcHJpY2VzGgR3aGF0GgN3aG8qMAoEbXVjaBUAAAAAGgdhdmVyYWdlGgVjb3N0cxoEbWFueRoFb2Z0ZW4aBnByaWNlcyo9CgRkb2VzFTFGAD4aAWEaA2FyZRoHYXZlcmFnZRoDY2FuGgNkaWQaAmRvGgJpcxoGc2hvdWxkGgV3b3VsZCo6Cgxwcm9mZXNzaW9uYWwVAAAAABoDcHJvGg1wcm9mZXNzaW9uYWxzGhFwcm9mZXNzaW9uYWx2aWRlbyofCgV2aWRlbxV8YJxAGhFwcm9mZXNzaW9uYWx2aWRlbypRCgtyZXB1cnBvc2luZxUAAAAAGglyZXB1cnBvc2UaCnJlcHVycG9zZWQaBXJldXNlGhBpdjtwO3JlcHVycG9zaW5nGg1yZXBvc2l0aW9uaW5nKhgKCHNvZnR3YXJlFWbQZkAaB3Byb2dyYW0qMAoEY29zdBUVndo9GgVjb3N0cxoFcHJpY2UaBnByaWNlcxoHcHJpY2luZxoEcmF0ZTKxAS9nb3RvP3VybD1DQUVTZVFIRUlrWFhNOUVmSEVNV1dKLVlNaW56SVlrRi1QMjVGNl9zQzV4M0NucTVxaVRrM3JCeVVyQW1xWDM5R1RZem1pTHhRdTRpMDV3Sk1uVU1fN0d0Rmlsb0Z2YU0xeVJaeTVnVm5hdDlSTGk5eXpvRi1wb25FN1BTNmpxTUpzamRYSUNrTEkzeVAxZGdHcHJ2a2p0bEZuR01IajA2MFhVZmxvazpCQ2hlYXAgPGI-VmlkZW88L2I-IEVkaXRpbmcgPGI-U29mdHdhcmU8L2I-IDIwMjU6IEJlc3QgQnVkZ2V0IFBpY2tzQsYBPGI-Q29zdDwvYj4gTW9kZWw6IDxiPlNvZnR3YXJlIGNhbjwvYj4gYmUgZnJlZSwgc3Vic2NyaXB0aW9uLWJhc2VkIChtb250aGx5L2FubnVhbGx5KSwgb3IgcmVxdWlyZSA8Yj5hPC9iPiBvbmUtdGltZSBwdXJjaGFzZS4gJm1pZGRvdDsgT3BlcmF0aW5nIFN5c3RlbSBDb21wYXRpYmlsaXR5OiA8Yj5Tb2Z0d2FyZTwvYj4gbWF5IGJlJm5ic3A7Li4uUgJkb1IBYVIEd2hhdFIDYXJlUgJpc1IDY2FuIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhFSWtYWE05RWZIRU1XV0otWU1pbnpJWWtGLVAyNUY2X3NDNXgzQ25xNXFpVGszckJ5VXJBbXFYMzlHVFl6bWlMeFF1NGkwNXdKTW5VTV83R3RGaWxvRnZhTTF5Ulp5NWdWbmF0OVJMaTl5em9GLXBvbkU3UFM2anFNSnNqZFhJQ2tMSTN5UDFkZ0dwcnZranRsRm5HTUhqMDYwWFVmbG9rEgQaAggAGpYHEgIIABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJA8AYIABAAGAAgACodCgNob3cVmiIzPhoGcHJpY2VzGgR3aGF0GgN3aG8qMAoEbXVjaBUAAAAAGgdhdmVyYWdlGgVjb3N0cxoEbWFueRoFb2Z0ZW4aBnByaWNlcyo9CgRkb2VzFTFGAD4aAWEaA2FyZRoHYXZlcmFnZRoDY2FuGgNkaWQaAmRvGgJpcxoGc2hvdWxkGgV3b3VsZCo6Cgxwcm9mZXNzaW9uYWwVAAAAABoDcHJvGg1wcm9mZXNzaW9uYWxzGhFwcm9mZXNzaW9uYWx2aWRlbyofCgV2aWRlbxV8YJxAGhFwcm9mZXNzaW9uYWx2aWRlbypRCgtyZXB1cnBvc2luZxUAAAAAGglyZXB1cnBvc2UaCnJlcHVycG9zZWQaBXJldXNlGhBpdjtwO3JlcHVycG9zaW5nGg1yZXBvc2l0aW9uaW5nKhgKCHNvZnR3YXJlFWbQZkAaB3Byb2dyYW0qMAoEY29zdBUVndo9GgVjb3N0cxoFcHJpY2UaBnByaWNlcxoHcHJpY2luZxoEcmF0ZTKxAS9nb3RvP3VybD1DQUVTZVFIRUlrWFhNOUVmSEVNV1dKLVlNaW56SVlrRi1QMjVGNl9zQzV4M0NucTVxaVRrM3JCeVVyQW1xWDM5R1RZem1pTHhRdTRpMDV3Sk1uVU1fN0d0Rmlsb0Z2YU0xeVJaeTVnVm5hdDlSTGk5eXpvRi1wb25FN1BTNmpxTUpzamRYSUNrTEkzeVAxZGdHcHJ2a2p0bEZuR01IajA2MFhVZmxvazpCQ2hlYXAgPGI-VmlkZW88L2I-IEVkaXRpbmcgPGI-U29mdHdhcmU8L2I-IDIwMjU6IEJlc3QgQnVkZ2V0IFBpY2tzQsYBPGI-Q29zdDwvYj4gTW9kZWw6IDxiPlNvZnR3YXJlIGNhbjwvYj4gYmUgZnJlZSwgc3Vic2NyaXB0aW9uLWJhc2VkIChtb250aGx5L2FubnVhbGx5KSwgb3IgcmVxdWlyZSA8Yj5hPC9iPiBvbmUtdGltZSBwdXJjaGFzZS4gJm1pZGRvdDsgT3BlcmF0aW5nIFN5c3RlbSBDb21wYXRpYmlsaXR5OiA8Yj5Tb2Z0d2FyZTwvYj4gbWF5IGJlJm5ic3A7Li4uUgJkb1IBYVIEd2hhdFIDYXJlUgJpc1IDY2FuIgIQAUgAWABoAA",
+        "source": "Accio Work",
+        "read_more_link": "https://www.google.com/goto?url=CAESxgIBxCJF1_sWAiSzKKIzGuOfBPDC9PX6UWhms0VKaWZvhreMbYN99TE0S2kUT1cUYft2nzrUXdFJ29x5zbfB0_1Qnc0BkyvwENnvMH7oJf2Rr1crsZ1z56WMdIm5vyq0lDJB3HobYHSarel0yuC-xdzsZb-9QA1YbJpYJaizEWdxWcXhyYKsTCp0xYdwqFHKqZvA-cXFwWR76K1PJ1fPOUFrEJC6WmbMOfypRRlg6Ptbb5wDM2bqQmnPcFGl_D_Xe9j8LkeoaJ6_thuC6fs2ZMf6SCJuZ3YiCBVkhhyF3e1JIbxjHhx-fLblSF7jv0Y7MO2CObKYvWOwK_WHicIuboSQCIOQSznmLr6lSjl6NtIYyPX-8llhYfo35Uxi9m9_1di1AzJPd4bnNJY3PMX83rW36pvzmSeYcyl9u_thmIO8XTVnp0ZTrQ&gsessionid=T2l1_hvJ64WXTO3jsecPTTfX1Ugpuva0LjHToyjMpca3lFqCmE94Lg"
+      },
+      {
+        "position": 7,
+        "title": "What are the prices and tools for video editing services?",
+        "link": "https://www.google.com/goto?url=CAEShAEBxCJF1-ilcn_vyIx3OHmnuCa8waIF8Zq2vhftqMOl1dZJZSdbRWvrOVz92o3m7iaht0c8M7jDzwU2MVxLYR6Gb6og5gdhrSqlukFXKpuQGVDTPDboqNbc84zzBHbijGbN8Ej3cr33TLYpbRo_0xuIF5tQBBZlJ3LaamI6vC2I1WEGc_0",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEBxCJF17a0PBJlZUgbcNYWS6Hk2ruH0cMCWPLXs_l1YCp-EWIK3Vkns8gkPmR_UgH8BtxdBMmDP9qRAVEdieOpAMbsI39V_7BF4C1VC9PlX1wPgXPWwksZ7SlVoSIXZxQSESVyvDV_LzSHRs6NYaGXJBwW5dN4OzpD-SZeN10Pt0BoUtE&ved=2ahUKEwimv4TO25uYAxXArZUCHT05Pb0QFnoECEAQAQ&uoh=1",
+        "displayed_link": "https://www.facebook.com \u203a groups \u203a posts",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+        "date": "25 Jun 2025",
+        "snippet": "For a small project, a video editor may charge a flat fee of $500 to $2000. For larger projects, the fee may be negotiated based on the length ...",
+        "snippet_highlighted_words": [
+          "500 to $2000"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "For a small project, a video editor may charge a flat fee of $500 to $2000. For larger projects, the fee may be negotiated based on the length ...",
+            "source_info_link": "https://www.google.com/goto?url=CAEShAEBxCJF1-ilcn_vyIx3OHmnuCa8waIF8Zq2vhftqMOl1dZJZSdbRWvrOVz92o3m7iaht0c8M7jDzwU2MVxLYR6Gb6og5gdhrSqlukFXKpuQGVDTPDboqNbc84zzBHbijGbN8Ej3cr33TLYpbRo_0xuIF5tQBBZlJ3LaamI6vC2I1WEGc_0",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsEBL2dvdG8_dXJsPUNBRVNoQUVCeENKRjEtaWxjbl92eUl4M09IbW51Q2E4d2FJRjhacTJ2aGZ0cU1PbDFkWkpaU2RiUld2ck9WejkybzNtN2lhaHQwYzhNN2pEendVMk1WeExZUjZHYjZvZzVnZGhyU3FsdWtGWEtwdVFHVkRUUERib3FOYmM4NHp6QkhiaWpHYk44RWozY3IzM1RMWXBiUm9fMHh1SUY1dFFCQlpsSjNMYWFtSTZ2QzJJMVdFR2NfMBIEGgIIABqIBxIAGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkDkBggAEAAYACAAKh0KA2hvdxVHEyE_GgZwcmljZXMaBHdoYXQaA3dobyowCgRtdWNoFYq90D4aB2F2ZXJhZ2UaBWNvc3RzGgRtYW55GgVvZnRlbhoGcHJpY2VzKj0KBGRvZXMVPcUiPhoBYRoDYXJlGgdhdmVyYWdlGgNjYW4aA2RpZBoCZG8aAmlzGgZzaG91bGQaBXdvdWxkKjoKDHByb2Zlc3Npb25hbBUAAAAAGgNwcm8aDXByb2Zlc3Npb25hbHMaEXByb2Zlc3Npb25hbHZpZGVvKh8KBXZpZGVvFR4DQUAaEXByb2Zlc3Npb25hbHZpZGVvKlEKC3JlcHVycG9zaW5nFQAAAAAaCXJlcHVycG9zZRoKcmVwdXJwb3NlZBoFcmV1c2UaEGl2O3A7cmVwdXJwb3NpbmcaDXJlcG9zaXRpb25pbmcqGAoIc29mdHdhcmUVhqxqQBoHcHJvZ3JhbSowCgRjb3N0FTMziT8aBWNvc3RzGgVwcmljZRoGcHJpY2VzGgdwcmljaW5nGgRyYXRlMsEBL2dvdG8_dXJsPUNBRVNoQUVCeENKRjEtaWxjbl92eUl4M09IbW51Q2E4d2FJRjhacTJ2aGZ0cU1PbDFkWkpaU2RiUld2ck9WejkybzNtN2lhaHQwYzhNN2pEendVMk1WeExZUjZHYjZvZzVnZGhyU3FsdWtGWEtwdVFHVkRUUERib3FOYmM4NHp6QkhiaWpHYk44RWozY3IzM1RMWXBiUm9fMHh1SUY1dFFCQlpsSjNMYWFtSTZ2QzJJMVdFR2NfMDpOV2hhdCA8Yj5hcmU8L2I-IHRoZSA8Yj5wcmljZXM8L2I-IGFuZCB0b29scyBmb3IgPGI-dmlkZW88L2I-IGVkaXRpbmcgc2VydmljZXM_Qp4BRm9yIGEgc21hbGwgcHJvamVjdCwgYSB2aWRlbyBlZGl0b3IgbWF5IGNoYXJnZSBhIGZsYXQgZmVlIG9mICQ8Yj41MDAgdG8gJDIwMDA8L2I-LiBGb3IgbGFyZ2VyIHByb2plY3RzLCB0aGUgZmVlIG1heSBiZSBuZWdvdGlhdGVkIGJhc2VkIG9uIHRoZSBsZW5ndGgmbmJzcDsuLi5SA2NhblIBYVIEd2hhdFIDYXJlUgJkb1ICaXMiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsEBL2dvdG8_dXJsPUNBRVNoQUVCeENKRjEtaWxjbl92eUl4M09IbW51Q2E4d2FJRjhacTJ2aGZ0cU1PbDFkWkpaU2RiUld2ck9WejkybzNtN2lhaHQwYzhNN2pEendVMk1WeExZUjZHYjZvZzVnZGhyU3FsdWtGWEtwdVFHVkRUUERib3FOYmM4NHp6QkhiaWpHYk44RWozY3IzM1RMWXBiUm9fMHh1SUY1dFFCQlpsSjNMYWFtSTZ2QzJJMVdFR2NfMBIEGgIIABqIBxIAGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkDkBggAEAAYACAAKh0KA2hvdxVHEyE_GgZwcmljZXMaBHdoYXQaA3dobyowCgRtdWNoFYq90D4aB2F2ZXJhZ2UaBWNvc3RzGgRtYW55GgVvZnRlbhoGcHJpY2VzKj0KBGRvZXMVPcUiPhoBYRoDYXJlGgdhdmVyYWdlGgNjYW4aA2RpZBoCZG8aAmlzGgZzaG91bGQaBXdvdWxkKjoKDHByb2Zlc3Npb25hbBUAAAAAGgNwcm8aDXByb2Zlc3Npb25hbHMaEXByb2Zlc3Npb25hbHZpZGVvKh8KBXZpZGVvFR4DQUAaEXByb2Zlc3Npb25hbHZpZGVvKlEKC3JlcHVycG9zaW5nFQAAAAAaCXJlcHVycG9zZRoKcmVwdXJwb3NlZBoFcmV1c2UaEGl2O3A7cmVwdXJwb3NpbmcaDXJlcG9zaXRpb25pbmcqGAoIc29mdHdhcmUVhqxqQBoHcHJvZ3JhbSowCgRjb3N0FTMziT8aBWNvc3RzGgVwcmljZRoGcHJpY2VzGgdwcmljaW5nGgRyYXRlMsEBL2dvdG8_dXJsPUNBRVNoQUVCeENKRjEtaWxjbl92eUl4M09IbW51Q2E4d2FJRjhacTJ2aGZ0cU1PbDFkWkpaU2RiUld2ck9WejkybzNtN2lhaHQwYzhNN2pEendVMk1WeExZUjZHYjZvZzVnZGhyU3FsdWtGWEtwdVFHVkRUUERib3FOYmM4NHp6QkhiaWpHYk44RWozY3IzM1RMWXBiUm9fMHh1SUY1dFFCQlpsSjNMYWFtSTZ2QzJJMVdFR2NfMDpOV2hhdCA8Yj5hcmU8L2I-IHRoZSA8Yj5wcmljZXM8L2I-IGFuZCB0b29scyBmb3IgPGI-dmlkZW88L2I-IGVkaXRpbmcgc2VydmljZXM_Qp4BRm9yIGEgc21hbGwgcHJvamVjdCwgYSB2aWRlbyBlZGl0b3IgbWF5IGNoYXJnZSBhIGZsYXQgZmVlIG9mICQ8Yj41MDAgdG8gJDIwMDA8L2I-LiBGb3IgbGFyZ2VyIHByb2plY3RzLCB0aGUgZmVlIG1heSBiZSBuZWdvdGlhdGVkIGJhc2VkIG9uIHRoZSBsZW5ndGgmbmJzcDsuLi5SA2NhblIBYVIEd2hhdFIDYXJlUgJkb1ICaXMiAhABSABYAGgA",
+        "source": "Facebook",
+        "read_more_link": "https://www.google.com/goto?url=CAES2wEBxCJF11XPCXlRzk7qtiUFjA8uB_OAFx5KcPMOa05RS_UqvP_JuE34pSwbpXxlHWSBTyO03dhNbZjrItAUrUMaiTL8LeVSfLj6nh3ddDcC-JQi7F5UC_LwYz2xcLN1fYSACJOa7CYCozpJWtoSJvbyZu_3wNkJ9ts2RDOQ61C687hTcE0bxAYkiPoq-bc4DZPG-O53F6xFpmNYaUisssTE3NpSZbpzl5uK3KVrfW22GF6CNe0HpJkbBMxk0NePMk62hK-sWf64gMFpBvDUkyZeZ9Lm09wNMPj-cyQ&gsessionid=T2l1_hvJ64WXTO3jsecPTTfX1Ugpuva0LjHToyjMpca3lFqCmE94Lg"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=How+much+does+professional+video+repurposing+software+cost?&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDhMaDyRJqwSKWNKWjNL4lgItG5rZw:1795355280751&ei=kPICa6a3LcDb1sQPvfL06Qs&start=10&sa=N&sstk=AYl2yk-D-5fapGSYpzd9g4yGeflelSFsk80UfwyhHz6LAxDLJQI-95ebM3TjTh-pdJTkpup5zp1fvV4fGueFjvG3skA09MIFL8DJAg&ved=2ahUKEwimv4TO25uYAxXArZUCHT05Pb0Q8NMDegQIMRAS",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=How+much+does+professional+video+repurposing+software+cost?&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDhMaDyRJqwSKWNKWjNL4lgItG5rZw:1795355280751&ei=kPICa6a3LcDb1sQPvfL06Qs&start=10&sa=N&sstk=AYl2yk-D-5fapGSYpzd9g4yGeflelSFsk80UfwyhHz6LAxDLJQI-95ebM3TjTh-pdJTkpup5zp1fvV4fGueFjvG3skA09MIFL8DJAg&ved=2ahUKEwimv4TO25uYAxXArZUCHT05Pb0Q8tMDegQIMRAE",
+        "3": "https://www.google.com/search?q=How+much+does+professional+video+repurposing+software+cost?&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDhMaDyRJqwSKWNKWjNL4lgItG5rZw:1795355280751&ei=kPICa6a3LcDb1sQPvfL06Qs&start=20&sa=N&sstk=AYl2yk-D-5fapGSYpzd9g4yGeflelSFsk80UfwyhHz6LAxDLJQI-95ebM3TjTh-pdJTkpup5zp1fvV4fGueFjvG3skA09MIFL8DJAg&ved=2ahUKEwimv4TO25uYAxXArZUCHT05Pb0Q8tMDegQIMRAG",
+        "4": "https://www.google.com/search?q=How+much+does+professional+video+repurposing+software+cost?&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDhMaDyRJqwSKWNKWjNL4lgItG5rZw:1795355280751&ei=kPICa6a3LcDb1sQPvfL06Qs&start=30&sa=N&sstk=AYl2yk-D-5fapGSYpzd9g4yGeflelSFsk80UfwyhHz6LAxDLJQI-95ebM3TjTh-pdJTkpup5zp1fvV4fGueFjvG3skA09MIFL8DJAg&ved=2ahUKEwimv4TO25uYAxXArZUCHT05Pb0Q8tMDegQIMRAI",
+        "5": "https://www.google.com/search?q=How+much+does+professional+video+repurposing+software+cost?&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDhMaDyRJqwSKWNKWjNL4lgItG5rZw:1795355280751&ei=kPICa6a3LcDb1sQPvfL06Qs&start=40&sa=N&sstk=AYl2yk-D-5fapGSYpzd9g4yGeflelSFsk80UfwyhHz6LAxDLJQI-95ebM3TjTh-pdJTkpup5zp1fvV4fGueFjvG3skA09MIFL8DJAg&ved=2ahUKEwimv4TO25uYAxXArZUCHT05Pb0Q8tMDegQIMRAK",
+        "6": "https://www.google.com/search?q=How+much+does+professional+video+repurposing+software+cost?&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDhMaDyRJqwSKWNKWjNL4lgItG5rZw:1795355280751&ei=kPICa6a3LcDb1sQPvfL06Qs&start=50&sa=N&sstk=AYl2yk-D-5fapGSYpzd9g4yGeflelSFsk80UfwyhHz6LAxDLJQI-95ebM3TjTh-pdJTkpup5zp1fvV4fGueFjvG3skA09MIFL8DJAg&ved=2ahUKEwimv4TO25uYAxXArZUCHT05Pb0Q8tMDegQIMRAM",
+        "7": "https://www.google.com/search?q=How+much+does+professional+video+repurposing+software+cost?&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDhMaDyRJqwSKWNKWjNL4lgItG5rZw:1795355280751&ei=kPICa6a3LcDb1sQPvfL06Qs&start=60&sa=N&sstk=AYl2yk-D-5fapGSYpzd9g4yGeflelSFsk80UfwyhHz6LAxDLJQI-95ebM3TjTh-pdJTkpup5zp1fvV4fGueFjvG3skA09MIFL8DJAg&ved=2ahUKEwimv4TO25uYAxXArZUCHT05Pb0Q8tMDegQIMRAO",
+        "8": "https://www.google.com/search?q=How+much+does+professional+video+repurposing+software+cost?&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDhMaDyRJqwSKWNKWjNL4lgItG5rZw:1795355280751&ei=kPICa6a3LcDb1sQPvfL06Qs&start=70&sa=N&sstk=AYl2yk-D-5fapGSYpzd9g4yGeflelSFsk80UfwyhHz6LAxDLJQI-95ebM3TjTh-pdJTkpup5zp1fvV4fGueFjvG3skA09MIFL8DJAg&ved=2ahUKEwimv4TO25uYAxXArZUCHT05Pb0Q8tMDegQIMRAQ"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+much+does+professional+video+repurposing+software+cost%3F&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+much+does+professional+video+repurposing+software+cost%3F&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+much+does+professional+video+repurposing+software+cost%3F&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+much+does+professional+video+repurposing+software+cost%3F&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+much+does+professional+video+repurposing+software+cost%3F&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+much+does+professional+video+repurposing+software+cost%3F&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+much+does+professional+video+repurposing+software+cost%3F&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+much+does+professional+video+repurposing+software+cost%3F&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+much+does+professional+video+repurposing+software+cost%3F&start=70"
+      }
+    }
+  },
+  "error_details": null
+}

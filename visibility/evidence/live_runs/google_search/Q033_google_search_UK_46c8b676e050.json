@@ -1,0 +1,445 @@
+{
+  "measurement_id": "46c8b676e050",
+  "question_id": "Q033",
+  "timestamp_utc": "2026-11-22T13:47:24.298196+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "Opus Clip vs Munch vs IncuBrix 3-way tool comparison",
+  "market": "UK",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [
+    "Opus Clip",
+    "Munch",
+    "Submagic",
+    "Riverside"
+  ],
+  "position": null,
+  "citations": [
+    "https://www.choppity.com/alternatives/opus-clip/",
+    "https://voicecreator.pro/blog/munch-alternatives",
+    "https://www.google.com/goto?url=CAESdAHEIkXXZw6-YoOcThT16cK0C5bnIJb5e3111JV8mjHMsZfz4UWa5x8_P9BV0oNDwi5PxtvB3N63VTSVxkf3FWG1ApM-Cz7-ahHcv0xx5fd7H3SlqPxXy1At4cpcyjApqo_N-UUTjBPt0IzbufyRxxucx_6D",
+    "https://www.google.com/goto?url=CAESkAEBxCJF18n733DYDxqp962Y4_tlUl286zKZ520PMWbRx1Fn7UwbG8XZdHwKA3N3MHoeXS8ZaZlNVCPHMktyAXCFPqqEFmVlxsi9fOFX9MSOrmP2O7sx9rgRoVttCOzRRXG6CkC6Zh8kmOHQA9OMiQp7jpRmBxZBu1CD5XEZmW3UJAXxpfnaZrYRpYH-Kmy7Sh4",
+    "https://www.google.com/goto?url=CAESYAHEIkXXEJyeGj2MKDyGfB0z6V3Ce8wbudqFlelJbVWMaiY0dcOhDsCjem-MrKw-i_RdWER4E0GHKABLjkQXFUk81Biw2f7BDhr7ec7XZh883L_3T8Sdmh21IDy2hM0H4Q",
+    "https://www.google.com/goto?url=CAESdAHEIkXXWIf-0wlOxosDm5LTkvQP9gf7QABKFqG8n8WMWvhTCVdp-ql-rMmQJUmEekRr8WSFa0OY3vqa3XcGCuEDrbw2bL3Rt3zcjsYgMj2Y1qj2qXB4fjA406lCpsf590jeoPBLgTwMrci9Lfqk0LsfVxTT",
+    "https://www.google.com/goto?url=CAESgAEBxCJF19x0-1-R3dqoL2PFO6Obhs4GZBmrTD8GCAekjOPY6ALVNnkMEkw6HRoA-Rbc2eF3zv6RID3bQRxiV6dr_turlkbI0-rxJG0Pah31OC09fVC3lS54cZiBGkYp2l073PQimzhq1g8w-b-eL6pvpuYUvGgH8SGOV1ng7_QrGw"
+  ],
+  "raw_text_summary": "Choppity vs Opus Clip (2026): Tested Comparison In our test, Choppity was 3 times faster than Opus Clip. Many of its clips were also superior. But Opus Clip also gave some interesting results. 5 Best Munch Alternatives for AI Video Clipping (2026) OpusClip is the biggest name the safest like-for-like replacement for old Munch's core workflow, than Munch ever had. 7 Best Opus Clip Alternatives in 2026 (Ranked) - CaptureFlow An Opus Clip alternative is any tool that turns long video into short, captioned clips, without Opus Clip's specific limits on price, editing ... Best Opus Clip Alternatives in 2026 (Ranked & Tested) Opus clip alternatives include Vizard, Submagic and Klap, which differ on pricing, editing depth and workflow integration. The Best Opus Clip Alternative (Free to Use) Both tools charge 1 credit per minute of video you upload. So the fair comparison is cost per minute, and what happens to the minutes you don't use. Best OpusClip Alternatives in 2026 (6 Tools Compared) Compare six OpusClip alternatives: Vizard, Jupitrr AI, Klap, Munch, Riverside and Submagic. See which AI clipping tool fits your repurposing workflow. Opus Clip vs Munch vs Vizard 2026 - InfluencerAI We compare pricing, features, clip quality, and help you pick the right tool for your needs. Best Overall: Opus Clip. Best for Teams: Munch. Best Value: Vizard.",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f26a961621f99fb63dd6",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/gxZG6eOIOESnSbtmf4FtC3ypIUrrDUHTdHKCKuYnC-0/6b02f26a961621f99fb63dd6.json",
+      "markdown_endpoint": "https://serpapi.com/searches/gxZG6eOIOESnSbtmf4FtC3ypIUrrDUHTdHKCKuYnC-0/6b02f26a961621f99fb63dd6.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/gxZG6eOIOESnSbtmf4FtC3ypIUrrDUHTdHKCKuYnC-0/6b02f26a961621f99fb63dd6.json_with_pixel_position",
+      "created_at": "2026-11-22 13:47:22 UTC",
+      "processed_at": "2026-11-22 13:47:22 UTC",
+      "google_url": "https://www.google.com/search?q=Opus+Clip+vs+Munch+vs+IncuBrix+3-way+tool+comparison&oq=Opus+Clip+vs+Munch+vs+IncuBrix+3-way+tool+comparison&hl=en&gl=uk&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/gxZG6eOIOESnSbtmf4FtC3ypIUrrDUHTdHKCKuYnC-0/6b02f26a961621f99fb63dd6.html",
+      "total_time_taken": 0.65
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "Opus Clip vs Munch vs IncuBrix 3-way tool comparison",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "uk",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "Opus Clip vs Munch vs IncuBrix 3-way tool comparison",
+      "total_results": 293,
+      "time_taken_displayed": 0.24,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_images": [
+      {
+        "source": "https://www.google.com/goto?url=CAESaAHEIkXX3Ixfq3oF99oDNKddIAizKK6g89tnWV900mEiiHSwlgX-2VhI0GbechaSiwbCQVEta88IdoxnehMBODiCRdK23_w-L0k-ru7AgRU5CrDepSlkYY-dVLp2ciQvZYrb3Y3-JELp&gsessionid=UJQz-CETs4xe4OwZcIcTsvuGtHutCE1gwnj5SwsWxW61ilaqKYVl0Q",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpHLG2vXnEQ_plAi5USDqUJ12dYhS56S6ftnhxv9qt&s",
+        "original": "https://i.ytimg.com/vi/xtOftKOTFfI/maxresdefault.jpg",
+        "title": "Munch vs. Opus Clip: Key Features and Differences (2024)",
+        "source_name": "YouTube"
+      },
+      {
+        "source": "https://www.google.com/goto?url=CAESaAHEIkXXaaoydUY0wOZW2E6ruRXylqZ3rs63LUPP8lonPlgsDHVhBPDnUvSUHBeRQh9LJ_6_kTlErJR3_pRmHrhNtZNYTQM-SppDMdtQSerI7KCezpCKTqPZ2yFjhY3gpd43SHJo84hG&gsessionid=UJQz-CETs4xe4OwZcIcTsvuGtHutCE1gwnj5SwsWxW61ilaqKYVl0Q",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtiNbxtUWvUcvrbq-3j04W6VM_DxhWmuiJmQMgtDTO&s",
+        "original": "https://i.ytimg.com/vi/v5oyQqYYQww/maxresdefault.jpg",
+        "title": "Munch vs Opus Clip Comparison - Which is Better Choice?",
+        "source_name": "YouTube"
+      },
+      {
+        "source": "https://www.google.com/goto?url=CAESaAHEIkXXMfKnhyK7Zd7gTlGqBDBR20wo2lFlO8x9hB2kmZlSrow-HSMiO-tPmjnfpB0DFD0cSArGbpD5Et0fPvBX7z1ecbux2ZhFMq0HWpKguRsajPVyb436bqrsW5QivAvYxP1LlI8G&gsessionid=UJQz-CETs4xe4OwZcIcTsvuGtHutCE1gwnj5SwsWxW61ilaqKYVl0Q",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTbR2XxVFx6iX1JtzlHz-rJmPLT9I5VS3KdE2GFK2e&s",
+        "original": "https://i.ytimg.com/vi/jesbAlZJqbs/maxresdefault.jpg",
+        "title": "Opus Clip vs Munch | Which is the Best Viral Video Generator in 2026?",
+        "source_name": "YouTube"
+      },
+      {
+        "source": "https://www.google.com/goto?url=CAESagHEIkXX86fAQuqiQTYOofeMDBawf3EUAJUXqjjODfkF7JDmQYJ6FrXHoLpFiWitTm7Yy999sI9y1DVMqxYC1AO5uGm12wP7cAb3Zs-m23PuRYV3Fs--aNteY3iQ7IoerZSCjQkXQAVqYsE&gsessionid=UJQz-CETs4xe4OwZcIcTsvuGtHutCE1gwnj5SwsWxW61ilaqKYVl0Q",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIu0LzcVo7iWv-o6NS38PZvBIZ1_flvm57fWwcT0-ugo8vzZcTxdiwuEk&s",
+        "original": "https://autoposting.ai/klap-vs-opus-clip.webp",
+        "title": "Klap vs Opus Clip: Honest Comparison After Testing Both (2026)",
+        "source_name": "Autoposting.ai"
+      },
+      {
+        "source": "https://www.google.com/goto?url=CAESaAHEIkXXkyWTmAR4HCAOqmBGEV9j537jWAcXEu6ONCsRj174MtULnObFzzvst6sADRYsrrAecjD_QLTyFMVWSvAmhA8WQ9tjHupbkZ3zHN67CMafIwQ-VD2JnBxbuG6FzvjBBqZZgBaQ&gsessionid=UJQz-CETs4xe4OwZcIcTsvuGtHutCE1gwnj5SwsWxW61ilaqKYVl0Q",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH2czSHxIZNW0Gj5IZJubN48jn13rTbThTK5IDa9Y5&s",
+        "original": "https://i.ytimg.com/vi/VVqJirX9IXw/maxresdefault.jpg",
+        "title": "Top 5 AI Video Repurposing & Editing Apps Comparison 2025 | Vizard, Opus,  Vidyo, Munch, Choppity\u2026",
+        "source_name": "YouTube"
+      },
+      {
+        "source": "https://www.google.com/goto?url=CAESaAHEIkXXyPNVM7rdWgGBYrvetEx818LEimMw5aap4z6AGdffJ9FMBGrwrVdyra8SlFvNlvxVPSnuIS3GEpDy4iWkNXk3UNm7AXpvOROxJu3fIemWUNPofuGkPIWb0UzJQz8-uKEIXIP3&gsessionid=UJQz-CETs4xe4OwZcIcTsvuGtHutCE1gwnj5SwsWxW61ilaqKYVl0Q",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_uTrBGklMB1HU18tOEbIu_HwCtjlr_eYdeUBZO4ds&s",
+        "original": "https://i.ytimg.com/vi/MAnuE_Xpy5c/maxresdefault.jpg",
+        "title": "Chop AI vs Opus Clip | I Tested Both (Here\u2019s What I Found)",
+        "source_name": "YouTube"
+      },
+      {
+        "source": "https://www.google.com/goto?url=CAESaAHEIkXXw_GwVLxFfbYsISnOWoKdenD6kwBr7Nb-UE_oQG08ZhoWPO1MtE5XBYjNOWPOB-ck_-AKeyVHJXrsh1PHCdv777zpHPsNyhg-rC4_gtSjiuMla0n1MSgXghGf3MaQYYkeRMD8&gsessionid=UJQz-CETs4xe4OwZcIcTsvuGtHutCE1gwnj5SwsWxW61ilaqKYVl0Q",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf6BGg35UoxYPqsJtTYcSeUu71mgD_2_3ZBrZnRi3NRg&s",
+        "original": "https://i.ytimg.com/vi/47aROC-dVB4/sddefault.jpg",
+        "title": "Opus Clip vs Munch Comparison - Which is Better?",
+        "source_name": "YouTube"
+      },
+      {
+        "source": "https://www.google.com/goto?url=CAESaAHEIkXX3Ixfq3oF99oDNKddIAizKK6g89tnWV900mEiiHSwlgX-2VhI0GbechaSiwbCQVEta88IdoxnehMBODiCRdK23_w-L0k-ru7AgRU5CrDepSlkYY-dVLp2ciQvZYrb3Y3-JELp&gsessionid=UJQz-CETs4xe4OwZcIcTsvuGtHutCE1gwnj5SwsWxW61ilaqKYVl0Q",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRKvZEJROquVSvJXGYCxg-vPw_OAII49TxjA10zh2quloGBdlEr7eYMe0&s",
+        "original": "https://i.ytimg.com/vi/xwF08pXuTJQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDQ06J0m4aPEqL4TxHqVGUODOZ41Q",
+        "title": "Munch vs. Opus Clip: Key Features and Differences (2024 ...",
+        "source_name": "YouTube"
+      },
+      {
+        "source": "https://www.google.com/goto?url=CAESbQHEIkXXZSc6TpEblDxLzLJCl3tQ-3EDAzE7dfJ8VIPI-pNQUwvF7XNKl7gvQUnE1Xej7tOgpeXj2BvGkL91HGK1haL-NJ-qHiHI-cBWhKoXfKd5GFwEIkKsEnCjchF7vBBernfJZ1m4PgOYmjY&gsessionid=UJQz-CETs4xe4OwZcIcTsvuGtHutCE1gwnj5SwsWxW61ilaqKYVl0Q",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_1CJUB89kv6oBplSejyCblDjeIN3v0PH4G7cjaNHvoRsNVL0izhycJk4&s",
+        "original": "https://www.choppity.com/images/alternatives/opus-clip/choppity-vs-opus-clip-featured-vs.webp",
+        "title": "Choppity vs Opus Clip (2026): Tested Comparison | Choppity",
+        "source_name": "Choppity"
+      }
+    ],
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "Munch vs Opus Clip Comparison - Which is Better Choice?",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXaaoydUY0wOZW2E6ruRXylqZ3rs63LUPP8lonPlgsDHVhBPDnUvSUHBeRQh9LJ_6_kTlErJR3_pRmHrhNtZNYTQM-SppDMdtQSerI7KCezpCKTqPZ2yFjhY3gpd43SHJo84hG&gsessionid=UJQz-CETs4xe4OwZcIcTsvuGtHutCE1gwnj5SwsWxW61ilaqKYVl0Q",
+        "thumbnail": "https://serpapi.com/searches/6b02f26a961621f99fb63dd6/images/8PMzaxtq4eoriA56oqUyH-fZrtAI4RuqofX7HbQqb3k.jpg",
+        "channel": "Chris - That Tech Guy",
+        "duration": "6:32",
+        "platform": "YouTube",
+        "date": "30 Sept 2024",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSpGkT-ZWxKpqvr0DnosMbnqOrQMere5XUYvA"
+      },
+      {
+        "position": 2,
+        "title": "Opus Clip vs Munch Comparison - Which is Better?",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXw_GwVLxFfbYsISnOWoKdenD6kwBr7Nb-UE_oQG08ZhoWPO1MtE5XBYjNOWPOB-ck_-AKeyVHJXrsh1PHCdv777zpHPsNyhg-rC4_gtSjiuMla0n1MSgXghGf3MaQYYkeRMD8&gsessionid=UJQz-CETs4xe4OwZcIcTsvuGtHutCE1gwnj5SwsWxW61ilaqKYVl0Q",
+        "thumbnail": "https://serpapi.com/searches/6b02f26a961621f99fb63dd6/images/XNfMxWnc42RioXaFrYOoyAoyhRkZ3F2luPdf6okClug.jpg",
+        "channel": "Chris with Minn Media",
+        "duration": "5:31",
+        "platform": "YouTube",
+        "date": "12 Mar 2024",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSLfjZpdXj4Xd4cabeSJpaBrKUGh4nbS7YFoA"
+      },
+      {
+        "position": 3,
+        "title": "Opus Clip vs. Munch: Honest Comparison",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXHyCPPmd0Nz5NS-sFqrXFojxp0PQoOUQqZ3GJcfG-MIFqS2h0bKu0w2MkZRJGWvQEXmWdjYruu7-psGdAEWLLaF7fHMdQ0TVZAYWpE9KNq02NincLh6rE2wTOyKhmbH1yv357&gsessionid=UJQz-CETs4xe4OwZcIcTsvuGtHutCE1gwnj5SwsWxW61ilaqKYVl0Q",
+        "thumbnail": "https://serpapi.com/searches/6b02f26a961621f99fb63dd6/images/rQLWz_Ug1x9KSlgp7DC4tm3Ut2CxAXBOV4ynNaB-_8Y.jpg",
+        "channel": "TechEdge Wave",
+        "duration": "1:50",
+        "platform": "YouTube",
+        "date": "27 Nov 2025",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSA6NMw2yeMkpXsrGrLM-wJItiF_ktFufb2Tg"
+      },
+      {
+        "position": 4,
+        "title": "Opus Clip vs Munch | Which is the Best Viral Video Generator ...",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXMfKnhyK7Zd7gTlGqBDBR20wo2lFlO8x9hB2kmZlSrow-HSMiO-tPmjnfpB0DFD0cSArGbpD5Et0fPvBX7z1ecbux2ZhFMq0HWpKguRsajPVyb436bqrsW5QivAvYxP1LlI8G&gsessionid=UJQz-CETs4xe4OwZcIcTsvuGtHutCE1gwnj5SwsWxW61ilaqKYVl0Q",
+        "thumbnail": "https://serpapi.com/searches/6b02f26a961621f99fb63dd6/images/w14r2DFvH1G66GgaDIGDroR5Sg_16ktyLPbvPX9dTJ0.jpg",
+        "channel": "HowToHarbor",
+        "duration": "4:55",
+        "platform": "YouTube",
+        "date": "3 Jun 2026",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQNVtjrwYyi8hi_uHRhLsvE0KNAGPISQ5IGkg"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "What is better than Opus clips?",
+        "type": "ai_overview",
+        "page_token": "TBVaDXicHdBfbtowHMBxbYfpY8mfhm1IqBKbDWQNWYztBL9Ujn8BJ3YSCqYBHneWPvUwPUCP0ROs2gW-H-n798XWnXn_8qyd2x8no9EwDLe7vt_Z6lb17UgeL50aKWltKZWZjL-N_futmqLTcvbzaTnLGEEbCzbnLOIdOUkUY-j2BTQ8TOawVQWWKXNx3vEkaeJ8beCynkeLVYN12ek6wWKVFqtxssgGFXhDia1gDO8_G2tlooAbnVG-kun8-5AZnpdG3ykUM1JgTBoWrT24iiYL5fyHLzAY1pBahvCk8NJ_KISRVtekhZgHYsmuNqDtcKb58a70zr_pgi8emEM0JylHeJYy-BTOVhoXIg0ajP21ofCnQu7CvSjctC4rO8FoAISSvs6YThPEQsK5K4M-yo27Ui86qMD5UPsx-LGprDiVHmgx3GzV8zS8-f9z-rht3WR_6Hev6lBJV8GjdG_m60fzD9R6jAk",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=TBVaDXicHdBfbtowHMBxbYfpY8mfhm1IqBKbDWQNWYztBL9Ujn8BJ3YSCqYBHneWPvUwPUCP0ROs2gW-H-n798XWnXn_8qyd2x8no9EwDLe7vt_Z6lb17UgeL50aKWltKZWZjL-N_futmqLTcvbzaTnLGEEbCzbnLOIdOUkUY-j2BTQ8TOawVQWWKXNx3vEkaeJ8beCynkeLVYN12ek6wWKVFqtxssgGFXhDia1gDO8_G2tlooAbnVG-kun8-5AZnpdG3ykUM1JgTBoWrT24iiYL5fyHLzAY1pBahvCk8NJ_KISRVtekhZgHYsmuNqDtcKb58a70zr_pgi8emEM0JylHeJYy-BTOVhoXIg0ajP21ofCnQu7CvSjctC4rO8FoAISSvs6YThPEQsK5K4M-yo27Ui86qMD5UPsx-LGprDiVHmgx3GzV8zS8-f9z-rht3WR_6Hev6lBJV8GjdG_m60fzD9R6jAk",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWmJUSXlOalZsTmsxbVJrcDRibWhLUjBsUGVqaDRhM2h0VEcxTE5rMUhXUzFGY25WelRrZzNVVVF5TlhOWlRFSXdRVUl3Tm5Gd09FeDZaRFp3V0d4R1ptWTNURWx6Y0ZjNGFHWm1kWFpxTjJwa2JrNVZjWEU1VlVSVlp4SVhZWFpKUTJFM1QzaExjbGRPZDJKclVHNTJWRTluVVUwYUlrRklUakJGTjBWR1gyUmFSa1JtZW1oaVNWaE1OM2xZYkZOdVIyaDRjMkpQYldjIiwiZmN2IjoiMyIsImVpIjoiYXZJQ2E3T3hLcldOd2JrUG52VE9nUU0iLCJxYyI6IkNqZHZjSFZ6SUdOc2FYQWdkbk1nYlhWdVkyZ2dkbk1nYVc1amRXSnlhWGdnTXlCM1lYa2dkRzl2YkNCamIyMXdZWEpwYzI5dUlHRnVFQUI5cUVEdFBnIiwicXVlc3Rpb24iOiJXaGF0IGlzIGJldHRlciB0aGFuIE9wdXMgY2xpcHM/IiwibGsiOiJHaDUzYUdGMElHbHpJR0psZEhSbGNpQjBhR0Z1SUc5d2RYTWdZMnhwY0hNIiwiYnMiOiJjMjJPUFF2Q01CUkZjWDJUZ3ppRVVwOEtUazc1QVVicDFNbkJvWE5hWWhPd1NlbExMZjU3RTVFV1A5WjN6N24zUVFhclFrdVBockJVM3FzT3ZaWVd6MjFQV04xTVM0SWpTNGNfaUJzUk9NS3UwS2JTRTdKX05XUWhSZGZocFM4YldadEs4Q1ZiUkM5cWVDZWtkd0FIU0hLYW5NRjFYb2NaaFkyejZpRjR5cExRUFU1LUE1RERadndnWGt0RkhrODVYc042RkZwamE4RzNiRDM4VU5KOFVQUFpFdyIsImlkIjoiZmNfYXZJQ2E3T3hLcldOd2JrUG52VE9nUU1fNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWmJUSXlOalZsTmsxbVJrcDRibWhLUjBsUGVqaDRhM2h0VEcxTE5rMUhXUzFGY25WelRrZzNVVVF5TlhOWlRFSXdRVUl3Tm5Gd09FeDZaRFp3V0d4R1ptWTNURWx6Y0ZjNGFHWm1kWFpxTjJwa2JrNVZjWEU1VlVSVlp4SVhZWFpKUTJFM1QzaExjbGRPZDJKclVHNTJWRTluVVUwYUlrRklUakJGTjBWR1gyUmFSa1JtZW1oaVNWaE1OM2xZYkZOdVIyaDRjMkpQYldjIiwiZmN2IjoiMyIsImVpIjoiYXZJQ2E3T3hLcldOd2JrUG52VE9nUU0iLCJxYyI6IkNqZHZjSFZ6SUdOc2FYQWdkbk1nYlhWdVkyZ2dkbk1nYVc1amRXSnlhWGdnTXlCM1lYa2dkRzl2YkNCamIyMXdZWEpwYzI5dUlHRnVFQUI5cUVEdFBnIiwicXVlc3Rpb24iOiJXaGF0IGlzIGJldHRlciB0aGFuIE9wdXMgY2xpcHM%2FIiwibGsiOiJHaDUzYUdGMElHbHpJR0psZEhSbGNpQjBhR0Z1SUc5d2RYTWdZMnhwY0hNIiwiYnMiOiJjMjJPUFF2Q01CUkZjWDJUZ3ppRVVwOEtUazc1QVVicDFNbkJvWE5hWWhPd1NlbExMZjU3RTVFV1A5WjN6N24zUVFhclFrdVBockJVM3FzT3ZaWVd6MjFQV04xTVM0SWpTNGNfaUJzUk9NS3UwS2JTRTdKX05XUWhSZGZocFM4YldadEs4Q1ZiUkM5cWVDZWtkd0FIU0hLYW5NRjFYb2NaaFkyejZpRjR5cExRUFU1LUE1RERadndnWGt0RkhrODVYc042RkZwamE4RzNiRDM4VU5KOFVQUFpFdyIsImlkIjoiZmNfYXZJQ2E3T3hLcldOd2JrUG52VE9nUU1fNSJ9"
+      },
+      {
+        "question": "Which is better, OpusClip or Submagic?",
+        "type": "ai_overview",
+        "page_token": "nxLTaXicHdBdTsIwAADg6GF4hHVDzEiISWVjNK6wre1-Xkhp2Y_tfmCT4atn8cnDeACP4QlM_I7wfXzqqlE_d0k5DF2_nM3GcZwWbVvo01S09Yz3742YCa71kQu1XDwuwFMuVk4_wud2hAENnVRLnTYdOTqSYmBfOCk3nNpXqZGXgOCWqbKStTLCBCfca4egKQxC3cRP0DWoC8DWGr3ECGaNdmLKPD_u9kHMeqlkHyvtSSOwRAQyTJAXEnaOaGlx1T1Ih4GI2ikzQU7cku48jJilDEYxIpr1OweZoelWBKCbX7PrUYcG0zAP6u4iNmnkmq4ZUVxiw55HFkpIIysO4JvU4T4DLt5UCEbOfAyJdHkMerIuc66Gc6akHzv2OrXg9pTgLbfc3rcgnOTiurIm_2OrQ14Py-7SFl_icuLDSR748K3uf1__AE_dfvQ",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=nxLTaXicHdBdTsIwAADg6GF4hHVDzEiISWVjNK6wre1-Xkhp2Y_tfmCT4atn8cnDeACP4QlM_I7wfXzqqlE_d0k5DF2_nM3GcZwWbVvo01S09Yz3742YCa71kQu1XDwuwFMuVk4_wud2hAENnVRLnTYdOTqSYmBfOCk3nNpXqZGXgOCWqbKStTLCBCfca4egKQxC3cRP0DWoC8DWGr3ECGaNdmLKPD_u9kHMeqlkHyvtSSOwRAQyTJAXEnaOaGlx1T1Ih4GI2ikzQU7cku48jJilDEYxIpr1OweZoelWBKCbX7PrUYcG0zAP6u4iNmnkmq4ZUVxiw55HFkpIIysO4JvU4T4DLt5UCEbOfAyJdHkMerIuc66Gc6akHzv2OrXg9pTgLbfc3rcgnOTiurIm_2OrQ14Py-7SFl_icuLDSR748K3uf1__AE_dfvQ",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWmJUSXlOalZsTmsxbVJrcDRibWhLUjBsUGVqaDRhM2h0VEcxTE5rMUhXUzFGY25WelRrZzNVVVF5TlhOWlRFSXdRVUl3Tm5Gd09FeDZaRFp3V0d4R1ptWTNURWx6Y0ZjNGFHWm1kWFpxTjJwa2JrNVZjWEU1VlVSVlp4SVhZWFpKUTJFM1QzaExjbGRPZDJKclVHNTJWRTluVVUwYUlrRklUakJGTjBWR1gyUmFSa1JtZW1oaVNWaE1OM2xZYkZOdVIyaDRjMkpQYldjIiwiZmN2IjoiMyIsImVpIjoiYXZJQ2E3T3hLcldOd2JrUG52VE9nUU0iLCJxYyI6IkNqZHZjSFZ6SUdOc2FYQWdkbk1nYlhWdVkyZ2dkbk1nYVc1amRXSnlhWGdnTXlCM1lYa2dkRzl2YkNCamIyMXdZWEpwYzI5dUlHRnVFQUI5cUVEdFBnIiwicXVlc3Rpb24iOiJXaGljaCBpcyBiZXR0ZXIsIE9wdXNDbGlwIG9yIFN1Ym1hZ2ljPyIsImxrIjoiR2hSdmNIVnpZMnhwY0NCMmN5QnpkV0p0WVdkcFl3IiwiYnMiOiJjMjJPUFF2Q01CUkZjWDJUZ3ppRVVwOEtUazc1QVVicDFNbkJvWE5hWWhPd1NlbExMZjU3RTVFV1A5WjN6N24zUVFhclFrdVBockJVM3FzT3ZaWVd6MjFQV04xTVM0SWpTNGNfaUJzUk9NS3UwS2JTRTdKX05XUWhSZGZocFM4YldadEs4Q1ZiUkM5cWVDZWtkd0FIU0hLYW5NRjFYb2NaaFkyejZpRjR5cExRUFU1LUE1RERadndnWGt0RkhrODVYc042RkZwamE4RzNiRDM4VU5KOFVQUFpFdyIsImlkIjoiZmNfYXZJQ2E3T3hLcldOd2JrUG52VE9nUU1fNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWmJUSXlOalZsTmsxbVJrcDRibWhLUjBsUGVqaDRhM2h0VEcxTE5rMUhXUzFGY25WelRrZzNVVVF5TlhOWlRFSXdRVUl3Tm5Gd09FeDZaRFp3V0d4R1ptWTNURWx6Y0ZjNGFHWm1kWFpxTjJwa2JrNVZjWEU1VlVSVlp4SVhZWFpKUTJFM1QzaExjbGRPZDJKclVHNTJWRTluVVUwYUlrRklUakJGTjBWR1gyUmFSa1JtZW1oaVNWaE1OM2xZYkZOdVIyaDRjMkpQYldjIiwiZmN2IjoiMyIsImVpIjoiYXZJQ2E3T3hLcldOd2JrUG52VE9nUU0iLCJxYyI6IkNqZHZjSFZ6SUdOc2FYQWdkbk1nYlhWdVkyZ2dkbk1nYVc1amRXSnlhWGdnTXlCM1lYa2dkRzl2YkNCamIyMXdZWEpwYzI5dUlHRnVFQUI5cUVEdFBnIiwicXVlc3Rpb24iOiJXaGljaCBpcyBiZXR0ZXIsIE9wdXNDbGlwIG9yIFN1Ym1hZ2ljPyIsImxrIjoiR2hSdmNIVnpZMnhwY0NCMmN5QnpkV0p0WVdkcFl3IiwiYnMiOiJjMjJPUFF2Q01CUkZjWDJUZ3ppRVVwOEtUazc1QVVicDFNbkJvWE5hWWhPd1NlbExMZjU3RTVFV1A5WjN6N24zUVFhclFrdVBockJVM3FzT3ZaWVd6MjFQV04xTVM0SWpTNGNfaUJzUk9NS3UwS2JTRTdKX05XUWhSZGZocFM4YldadEs4Q1ZiUkM5cWVDZWtkd0FIU0hLYW5NRjFYb2NaaFkyejZpRjR5cExRUFU1LUE1RERadndnWGt0RkhrODVYc042RkZwamE4RzNiRDM4VU5KOFVQUFpFdyIsImlkIjoiZmNfYXZJQ2E3T3hLcldOd2JrUG52VE9nUU1fNSJ9"
+      },
+      {
+        "question": "Is OpusClip worth the money?",
+        "type": "ai_overview",
+        "page_token": "mvdtpHicHdBdToMwAADg6GH2uFH2Y1yyGHEtjDg2Ci3Ql6W0DBgdkIFW9uhZfPIwHsBjeAKNN_jyvX-osq6-b-Ki79tuOZlorcd50-QqG4vmPOHdUIuJ4EqlXFTLxd0CPBzFCnbaemq05RMMEyVVpAqSEORvS5Dwmk49883CEWYUbge_cndp7W54TB0c0SqhNBGA2jGQChNWCYSMECKfR_Aq4UZLYlyjmJme49nC6IcAuVjQHGyJLLDdGYS0e1xBwJxis4NC4xOD6VmDwHFJRpQvUWLi0gAZRI1AZB7Sx3lqu1a4ViiwaYNj7zkEJEAmMgPiFZ5xPwumbhzWsuTAevlT7RlAnl26VgBnGofSjkpjSE1jTqas9WtJRG0VlCiVrdmFhbKL6gKPjuJ1NR39j60Ox3O_bC9N_ikuGe8zeeD9V3X7c_oFQSJ-Zw",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=mvdtpHicHdBdToMwAADg6GH2uFH2Y1yyGHEtjDg2Ci3Ql6W0DBgdkIFW9uhZfPIwHsBjeAKNN_jyvX-osq6-b-Ki79tuOZlorcd50-QqG4vmPOHdUIuJ4EqlXFTLxd0CPBzFCnbaemq05RMMEyVVpAqSEORvS5Dwmk49883CEWYUbge_cndp7W54TB0c0SqhNBGA2jGQChNWCYSMECKfR_Aq4UZLYlyjmJme49nC6IcAuVjQHGyJLLDdGYS0e1xBwJxis4NC4xOD6VmDwHFJRpQvUWLi0gAZRI1AZB7Sx3lqu1a4ViiwaYNj7zkEJEAmMgPiFZ5xPwumbhzWsuTAevlT7RlAnl26VgBnGofSjkpjSE1jTqas9WtJRG0VlCiVrdmFhbKL6gKPjuJ1NR39j60Ox3O_bC9N_ikuGe8zeeD9V3X7c_oFQSJ-Zw",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWmJUSXlOalZsTmsxbVJrcDRibWhLUjBsUGVqaDRhM2h0VEcxTE5rMUhXUzFGY25WelRrZzNVVVF5TlhOWlRFSXdRVUl3Tm5Gd09FeDZaRFp3V0d4R1ptWTNURWx6Y0ZjNGFHWm1kWFpxTjJwa2JrNVZjWEU1VlVSVlp4SVhZWFpKUTJFM1QzaExjbGRPZDJKclVHNTJWRTluVVUwYUlrRklUakJGTjBWR1gyUmFSa1JtZW1oaVNWaE1OM2xZYkZOdVIyaDRjMkpQYldjIiwiZmN2IjoiMyIsImVpIjoiYXZJQ2E3T3hLcldOd2JrUG52VE9nUU0iLCJxYyI6IkNqZHZjSFZ6SUdOc2FYQWdkbk1nYlhWdVkyZ2dkbk1nYVc1amRXSnlhWGdnTXlCM1lYa2dkRzl2YkNCamIyMXdZWEpwYzI5dUlHRnVFQUI5cUVEdFBnIiwicXVlc3Rpb24iOiJJcyBPcHVzQ2xpcCB3b3J0aCB0aGUgbW9uZXk/IiwibGsiOiJHaHhwY3lCdmNIVnpJR05zYVhBZ2QyOXlkR2dnZEdobElHMXZibVY1IiwiYnMiOiJjMjJPUFF2Q01CUkZjWDJUZ3ppRVVwOEtUazc1QVVicDFNbkJvWE5hWWhPd1NlbExMZjU3RTVFV1A5WjN6N24zUVFhclFrdVBockJVM3FzT3ZaWVd6MjFQV04xTVM0SWpTNGNfaUJzUk9NS3UwS2JTRTdKX05XUWhSZGZocFM4YldadEs4Q1ZiUkM5cWVDZWtkd0FIU0hLYW5NRjFYb2NaaFkyejZpRjR5cExRUFU1LUE1RERadndnWGt0RkhrODVYc042RkZwamE4RzNiRDM4VU5KOFVQUFpFdyIsImlkIjoiZmNfYXZJQ2E3T3hLcldOd2JrUG52VE9nUU1fNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWmJUSXlOalZsTmsxbVJrcDRibWhLUjBsUGVqaDRhM2h0VEcxTE5rMUhXUzFGY25WelRrZzNVVVF5TlhOWlRFSXdRVUl3Tm5Gd09FeDZaRFp3V0d4R1ptWTNURWx6Y0ZjNGFHWm1kWFpxTjJwa2JrNVZjWEU1VlVSVlp4SVhZWFpKUTJFM1QzaExjbGRPZDJKclVHNTJWRTluVVUwYUlrRklUakJGTjBWR1gyUmFSa1JtZW1oaVNWaE1OM2xZYkZOdVIyaDRjMkpQYldjIiwiZmN2IjoiMyIsImVpIjoiYXZJQ2E3T3hLcldOd2JrUG52VE9nUU0iLCJxYyI6IkNqZHZjSFZ6SUdOc2FYQWdkbk1nYlhWdVkyZ2dkbk1nYVc1amRXSnlhWGdnTXlCM1lYa2dkRzl2YkNCamIyMXdZWEpwYzI5dUlHRnVFQUI5cUVEdFBnIiwicXVlc3Rpb24iOiJJcyBPcHVzQ2xpcCB3b3J0aCB0aGUgbW9uZXk%2FIiwibGsiOiJHaHhwY3lCdmNIVnpJR05zYVhBZ2QyOXlkR2dnZEdobElHMXZibVY1IiwiYnMiOiJjMjJPUFF2Q01CUkZjWDJUZ3ppRVVwOEtUazc1QVVicDFNbkJvWE5hWWhPd1NlbExMZjU3RTVFV1A5WjN6N24zUVFhclFrdVBockJVM3FzT3ZaWVd6MjFQV04xTVM0SWpTNGNfaUJzUk9NS3UwS2JTRTdKX05XUWhSZGZocFM4YldadEs4Q1ZiUkM5cWVDZWtkd0FIU0hLYW5NRjFYb2NaaFkyejZpRjR5cExRUFU1LUE1RERadndnWGt0RkhrODVYc042RkZwamE4RzNiRDM4VU5KOFVQUFpFdyIsImlkIjoiZmNfYXZJQ2E3T3hLcldOd2JrUG52VE9nUU1fNSJ9"
+      },
+      {
+        "question": "Which is the best AI for clipping?",
+        "type": "ai_overview",
+        "page_token": "3avnQXicHdBNcpswGADQaQ6TZcxPcCee8XRKENRMwJVAEtImgyVsGT7AtRWDu-xZuupheoAeoydoJ_u3ej9-wnHo_ny4GmtPl9ViMU3Tw2EcD9A8qLFf1JfboBaqBtjVqlstPy7dT3u1Rm-b8PnbJsSUIAEaBDcXTFkkHDAqSrFoY1NWcMKeNS989HI_TwtHphl3t0UXu7RlLRmEywd9xuXnW-GbkXzfPOYxC5irnLx7mpgHy8JNSw1g6iT4wtA0FyVIDvJSVKnElSTbwnHqlhhRacTbbG6SOOSRcHVvka7CJQXocD9HskoFdeZj1ukr7f97INuXMuQ5slfKg2KX6IBEccCZkSxmITLa6A4iUeqvDbI35gS-6C3eDZKWniYlGY-Ymm2GqE96K3IGdUZnnHkmUcAm7cYIO0-GxGTPkzST0_1eXdf-_fvn-nXf29XpPB5-qXNT20a_1vZ3d_e3_QeR9Ypn",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=3avnQXicHdBNcpswGADQaQ6TZcxPcCee8XRKENRMwJVAEtImgyVsGT7AtRWDu-xZuupheoAeoydoJ_u3ej9-wnHo_ny4GmtPl9ViMU3Tw2EcD9A8qLFf1JfboBaqBtjVqlstPy7dT3u1Rm-b8PnbJsSUIAEaBDcXTFkkHDAqSrFoY1NWcMKeNS989HI_TwtHphl3t0UXu7RlLRmEywd9xuXnW-GbkXzfPOYxC5irnLx7mpgHy8JNSw1g6iT4wtA0FyVIDvJSVKnElSTbwnHqlhhRacTbbG6SOOSRcHVvka7CJQXocD9HskoFdeZj1ukr7f97INuXMuQ5slfKg2KX6IBEccCZkSxmITLa6A4iUeqvDbI35gS-6C3eDZKWniYlGY-Ymm2GqE96K3IGdUZnnHkmUcAm7cYIO0-GxGTPkzST0_1eXdf-_fvn-nXf29XpPB5-qXNT20a_1vZ3d_e3_QeR9Ypn",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWmJUSXlOalZsTmsxbVJrcDRibWhLUjBsUGVqaDRhM2h0VEcxTE5rMUhXUzFGY25WelRrZzNVVVF5TlhOWlRFSXdRVUl3Tm5Gd09FeDZaRFp3V0d4R1ptWTNURWx6Y0ZjNGFHWm1kWFpxTjJwa2JrNVZjWEU1VlVSVlp4SVhZWFpKUTJFM1QzaExjbGRPZDJKclVHNTJWRTluVVUwYUlrRklUakJGTjBWR1gyUmFSa1JtZW1oaVNWaE1OM2xZYkZOdVIyaDRjMkpQYldjIiwiZmN2IjoiMyIsImVpIjoiYXZJQ2E3T3hLcldOd2JrUG52VE9nUU0iLCJxYyI6IkNqZHZjSFZ6SUdOc2FYQWdkbk1nYlhWdVkyZ2dkbk1nYVc1amRXSnlhWGdnTXlCM1lYa2dkRzl2YkNCamIyMXdZWEpwYzI5dUlHRnVFQUI5cUVEdFBnIiwicXVlc3Rpb24iOiJXaGljaCBpcyB0aGUgYmVzdCBBSSBmb3IgY2xpcHBpbmc/IiwibGsiOiJHaUYzYUdsamFDQnBjeUIwYUdVZ1ltVnpkQ0JoYVNCbWIzSWdZMnhwY0hCcGJtYyIsImJzIjoiYzIyT1BRdkNNQlJGY1gyVGd6aUVVcDhLVGs3NUFVYnAxTW5Cb1hOYVloT3dTZWxMTGY1N0U1RVdQOVozejduM1FRYXJRa3VQaHJCVTNxc092WllXejIxUFdOMU1TNElqUzRjX2lCc1JPTUt1MEtiU0U3Sl9OV1FoUmRmaHBTOGJXWnRLOENWYlJDOXFlQ2VrZHdBSFNIS2FuTUYxWG9jWmhZMno2aUY0eXBMUVBVNS1BNUREWnZ3Z1hrdEZIazg1WHNONkZGcGphOEczYkQzOFVOSjhVUFBaRXciLCJpZCI6ImZjX2F2SUNhN094S3JXTndia1BudlRPZ1FNXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWmJUSXlOalZsTmsxbVJrcDRibWhLUjBsUGVqaDRhM2h0VEcxTE5rMUhXUzFGY25WelRrZzNVVVF5TlhOWlRFSXdRVUl3Tm5Gd09FeDZaRFp3V0d4R1ptWTNURWx6Y0ZjNGFHWm1kWFpxTjJwa2JrNVZjWEU1VlVSVlp4SVhZWFpKUTJFM1QzaExjbGRPZDJKclVHNTJWRTluVVUwYUlrRklUakJGTjBWR1gyUmFSa1JtZW1oaVNWaE1OM2xZYkZOdVIyaDRjMkpQYldjIiwiZmN2IjoiMyIsImVpIjoiYXZJQ2E3T3hLcldOd2JrUG52VE9nUU0iLCJxYyI6IkNqZHZjSFZ6SUdOc2FYQWdkbk1nYlhWdVkyZ2dkbk1nYVc1amRXSnlhWGdnTXlCM1lYa2dkRzl2YkNCamIyMXdZWEpwYzI5dUlHRnVFQUI5cUVEdFBnIiwicXVlc3Rpb24iOiJXaGljaCBpcyB0aGUgYmVzdCBBSSBmb3IgY2xpcHBpbmc%2FIiwibGsiOiJHaUYzYUdsamFDQnBjeUIwYUdVZ1ltVnpkQ0JoYVNCbWIzSWdZMnhwY0hCcGJtYyIsImJzIjoiYzIyT1BRdkNNQlJGY1gyVGd6aUVVcDhLVGs3NUFVYnAxTW5Cb1hOYVloT3dTZWxMTGY1N0U1RVdQOVozejduM1FRYXJRa3VQaHJCVTNxc092WllXejIxUFdOMU1TNElqUzRjX2lCc1JPTUt1MEtiU0U3Sl9OV1FoUmRmaHBTOGJXWnRLOENWYlJDOXFlQ2VrZHdBSFNIS2FuTUYxWG9jWmhZMno2aUY0eXBMUVBVNS1BNUREWnZ3Z1hrdEZIazg1WHNONkZGcGphOEczYkQzOFVOSjhVUFBaRXciLCJpZCI6ImZjX2F2SUNhN094S3JXTndia1BudlRPZ1FNXzUifQ%3D%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "64k3H3iczZbJcvo2GMBneu5r1BcCNhBCyIznP5Iw4IABszSQC2OEkY2NBV5Ycuyz9NSH6QP0MfoElbcEE8jSSysGy5b1rdJPn3_73TYd66-ffzV8f-M98Px-vy8QSomtFzBd85p3dDC_pLbnYuOHRwMX6yI2XLrWC3TOxQPmIhniiC0GFmfYou5wx51Y5rAnFjndFLWdjLRq79B2n7r7udV3dqMeURUu0i_O5pqnr5j5w8rjZzy7WL-U6-yh4BV0Z9aEhUbVBLbeKToVq1ASSuVCj9fWbA74b5sEgUxYbwFAPpoHVcBcVb-gUTWYVnAeF5TiHr0NKSC0KQMkx2-u2R8CGBpGMoKRx-zfA8tV32qy-246ayx_4hdiv-br01PiVtxZ6ILAx8pS0TCCjK6P2oX8RXlpZzRn311qzewbOK2D-v5E_btwTgzEouPwsgeN274C1L161VLamOr2FAg2-GSfpB6Na49Dn0lBfkHYLhf4ucu6Im9iA0c3rhdufjSqCbRFtvntTtMn1Hk5jA_POm6o5lzoVceI8HjO5tlUW-iLmTETfkTPxVKpdF-uVUs3EXjYeyXPOyXPpZ7gO_dK3hcKnQIspsxloz1PlirL4NJmIpCkqci2VwWD0zxHaTibaWUsN5LeAFBWAc4ut9qWOoBh1FATowqos3zdk9P0v0mgDHMKaIE35s7jCKOjiYJxMgSyu02dQmnIevncTnjfu6g2jCNs2ZhJM2FObkRG5HDXRWrIe-YGgOUhjDdJceYQgQgRyBKshidFGxDkIxLNlW9D_9IVUyVJlpj2V7FTHSgOpAEyDZ14wuQkJCmxk1YgI8RcguFweEYwI4TElqBKXrMS2UDvqYsDBSboGu8Oh69QlMh_4WCJvUghO2Mmw5qu1-m-UWocDWge3Dvchb6A6lZQm5DLbNH1_HtlDf_vAUyLnp0sw1UA1a8CqBofAXip6MUAIusKgMMYwMtFr5_OOit67wFEwDwBMCx6TOIQu36h6H0fQPg5gKfLdQrg21JlAJSuAbhuZgGcrqS06F0GMDHwBuC_LXrw-0Uv4lCPu2wFDFbkeiWE7uRZt7fmrm8Mj8RubykdLyh9aVifV8Ll2n9Yawv7ZmYuHmDp0T8ubmZsgD7oC24r9jaBl0O2ucntvJwSONgIb2QHB9A1D7lyfq8dcz6ldo4hv9Fc06NOTnO4te1SUdBuK8PGyL89NgXYmvV7rYrb2Y6PitlaedN8rTdyt8XieKOuBs_uy8itWm00qOfLy92iW0fDx-dJVUfPQ-vQqjnlDVFG8qNTWQ6dqbMpG_kNXlO5X5PsQe9A_YPjOeq9Mgruu9ug219ay3L-aXOoWmAcOeOJE6Vl3E06khOwEReLbN1vCeiq4VedBuAePEYbFQ62rO-w3TGn7BOyNQVqnbA_ZUvEeVib6d5OxHeVMq4IAta0ZXWpL7k18Y8bsSZwnuOKxT-wq2s-y7jm_2n99PfqH12bifU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=64k3H3iczZbJcvo2GMBneu5r1BcCNhBCyIznP5Iw4IABszSQC2OEkY2NBV5Ycuyz9NSH6QP0MfoElbcEE8jSSysGy5b1rdJPn3_73TYd66-ffzV8f-M98Px-vy8QSomtFzBd85p3dDC_pLbnYuOHRwMX6yI2XLrWC3TOxQPmIhniiC0GFmfYou5wx51Y5rAnFjndFLWdjLRq79B2n7r7udV3dqMeURUu0i_O5pqnr5j5w8rjZzy7WL-U6-yh4BV0Z9aEhUbVBLbeKToVq1ASSuVCj9fWbA74b5sEgUxYbwFAPpoHVcBcVb-gUTWYVnAeF5TiHr0NKSC0KQMkx2-u2R8CGBpGMoKRx-zfA8tV32qy-246ayx_4hdiv-br01PiVtxZ6ILAx8pS0TCCjK6P2oX8RXlpZzRn311qzewbOK2D-v5E_btwTgzEouPwsgeN274C1L161VLamOr2FAg2-GSfpB6Na49Dn0lBfkHYLhf4ucu6Im9iA0c3rhdufjSqCbRFtvntTtMn1Hk5jA_POm6o5lzoVceI8HjO5tlUW-iLmTETfkTPxVKpdF-uVUs3EXjYeyXPOyXPpZ7gO_dK3hcKnQIspsxloz1PlirL4NJmIpCkqci2VwWD0zxHaTibaWUsN5LeAFBWAc4ut9qWOoBh1FATowqos3zdk9P0v0mgDHMKaIE35s7jCKOjiYJxMgSyu02dQmnIevncTnjfu6g2jCNs2ZhJM2FObkRG5HDXRWrIe-YGgOUhjDdJceYQgQgRyBKshidFGxDkIxLNlW9D_9IVUyVJlpj2V7FTHSgOpAEyDZ14wuQkJCmxk1YgI8RcguFweEYwI4TElqBKXrMS2UDvqYsDBSboGu8Oh69QlMh_4WCJvUghO2Mmw5qu1-m-UWocDWge3Dvchb6A6lZQm5DLbNH1_HtlDf_vAUyLnp0sw1UA1a8CqBofAXip6MUAIusKgMMYwMtFr5_OOit67wFEwDwBMCx6TOIQu36h6H0fQPg5gKfLdQrg21JlAJSuAbhuZgGcrqS06F0GMDHwBuC_LXrw-0Uv4lCPu2wFDFbkeiWE7uRZt7fmrm8Mj8RubykdLyh9aVifV8Ll2n9Yawv7ZmYuHmDp0T8ubmZsgD7oC24r9jaBl0O2ucntvJwSONgIb2QHB9A1D7lyfq8dcz6ldo4hv9Fc06NOTnO4te1SUdBuK8PGyL89NgXYmvV7rYrb2Y6PitlaedN8rTdyt8XieKOuBs_uy8itWm00qOfLy92iW0fDx-dJVUfPQ-vQqjnlDVFG8qNTWQ6dqbMpG_kNXlO5X5PsQe9A_YPjOeq9Mgruu9ug219ay3L-aXOoWmAcOeOJE6Vl3E06khOwEReLbN1vCeiq4VedBuAePEYbFQ62rO-w3TGn7BOyNQVqnbA_ZUvEeVib6d5OxHeVMq4IAta0ZXWpL7k18Y8bsSZwnuOKxT-wq2s-y7jm_2n99PfqH12bifU"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Choppity vs Opus Clip (2026): Tested Comparison",
+        "link": "https://www.choppity.com/alternatives/opus-clip/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHEIkXXng6nr7b5joRYGTc3Y-GkDzTCZk28u8q2LiuqmeUK1BumROxotI2mj6e_YjKMxOHmlMEEjiuvPshDta0GuW27Aa7JiPMNhXZfcK-5vMyr1T_Nm08zRqh7ev21uMggdu6MutPtKWjUNRo&ved=2ahUKEwizjvK725uYAxW1RjABHR66MzAQFnoECDcQAQ&uoh=1",
+        "displayed_link": "https://www.choppity.com \u203a alternatives \u203a opus-clip",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcExxL_9xL_9xL_9xL_9xL_9xL_9tJf9qHf9jBP95Pv-2nf_VyP-bdv9nE__Itv-IV_-RZv_r5P_____i2f9cAP-niP_49f_-SyO1AAAAB3RSTlMAJa7y_69kPKWwjAAAAQ1JREFUeAF9kwUChDAMBJFwqZHSbuX_P71wrgxSmboMwzBOM30xL-OgnOgPJ61HfxmH5b-chvm_nIdHlI3hj9hNsnU-hFU0JrLGsPFTSspAKfDV-QLkjKcUj5CsVI8MhMbVIPFNckOzzIbcXsZq7d7lXtMiWuItiMUqzu-1k7nV5ARHWgtku68FV9xVGt8tSc9YbQ7WsmKkR3OVsQhxkxxrAOJ24SGDSmLjwTm0jgv93mzMKpUO-Fo3eHLuPlpuMLRjG4Cock_eJBl4IcXE7rx6oVfpse6DFA1rTWj8kIqNKC2ltGUgJvg3SZIKHhTz2qzCYg1fMUJPecDxMZn-y-X4aB4damVcfl2HSeudAfEjGBYFvIZXAAAAAElFTkSuQmCC.png",
+        "date": "2 Nov 2026",
+        "snippet": "In our test, Choppity was 3 times faster than Opus Clip. Many of its clips were also superior. But Opus Clip also gave some interesting results.",
+        "snippet_highlighted_words": [
+          "than Opus Clip"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "In our test, Choppity was 3 times faster than Opus Clip. Many of its clips were also superior. But Opus Clip also gave some interesting results.",
+            "source_info_link": "https://www.choppity.com/alternatives/opus-clip/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcExxL_9xL_9xL_9xL_9xL_9xL_9tJf9qHf9jBP95Pv-2nf_VyP-bdv9nE__Itv-IV_-RZv_r5P_____i2f9cAP-niP_49f_-SyO1AAAAB3RSTlMAJa7y_69kPKWwjAAAAQ1JREFUeAF9kwUChDAMBJFwqZHSbuX_P71wrgxSmboMwzBOM30xL-OgnOgPJ61HfxmH5b-chvm_nIdHlI3hj9hNsnU-hFU0JrLGsPFTSspAKfDV-QLkjKcUj5CsVI8MhMbVIPFNckOzzIbcXsZq7d7lXtMiWuItiMUqzu-1k7nV5ARHWgtku68FV9xVGt8tSc9YbQ7WsmKkR3OVsQhxkxxrAOJ24SGDSmLjwTm0jgv93mzMKpUO-Fo3eHLuPlpuMLRjG4Cock_eJBl4IcXE7rx6oVfpse6DFA1rTWj8kIqNKC2ltGUgJvg3SZIKHhTz2qzCYg1fMUJPecDxMZn-y-X4aB4damVcfl2HSeudAfEjGBYFvIZXAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqEBL2dvdG8_dXJsPUNBRVNiUUhFSWtYWFpTYzZUcEVibER4THpMSkNsM3RRLTNFREF6RTdkZko4VklQSS1wTlFVd3ZGN1hOS2w3Z3ZRVW5FMVhlajd0T2dwZVhqMkJ2R2tMOTFIR0sxaGFMLU5KLXFIaUhJLWNCV2hLb1hmS2Q1R0Z3RUlrS3NFbkNqY2hGN3ZCQmVybmZKWjFtNFBnT1ltalkSBBoCCAAa1wYSAggAGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkCxBggAEAAYACAAKiAKBG9wdXMVFt27QBoIb3B1c2NsaXAaCWl2O3A7b3B1cyocCgRjbGlwFXEaxkAaBWNsaXBzGghvcHVzY2xpcCoVCgJ2cxVj-IBAGgJvchoGdmVyc3VzKiAKBW11bmNoFQAAAAAaBm11bmljaBoKaXY7cDttdW5jaCoVCgJ2cxVyxHBAGgJvchoGdmVyc3VzKj8KCGluY3Vicml4FQAAAAAaCWluIGN1YnJpeBoJaW5jdSBicml4GglpbmN1YiByaXgaDWl2O3A7aW5jdWJyaXgqGQoBMxWu6a4-GgQzd2F5Gglmb3IgdGhyZWUqFgoDd2F5FXQyEj4aBDN3YXkaBHdheXMqJAoEdG9vbBV6e8Q9Ggd0b29saW5nGg50b29sY29tcGFyaXNvbiprCgpjb21wYXJpc29uFegfaUAaB2NvbXBhcmUaCGNvbXBhcmVkGgtjb21wYXJpc29ucxoKZGlmZmVyZW5jZRoLZGlmZmVyZW5jZXMaBnJldmlldxoHcmV2aWV3cxoOdG9vbGNvbXBhcmlzb24qDAoCYW4VPhZMPxoBYTKhAS9nb3RvP3VybD1DQUVTYlFIRUlrWFhaU2M2VHBFYmxEeEx6TEpDbDN0US0zRURBekU3ZGZKOFZJUEktcE5RVXd2RjdYTktsN2d2UVVuRTFYZWo3dE9ncGVYajJCdkdrTDkxSEdLMWhhTC1OSi1xSGlISS1jQldoS29YZktkNUdGd0VJa0tzRW5DamNoRjd2QkJlcm5mSloxbTRQZ09ZbWpZOj1DaG9wcGl0eSA8Yj52cyBPcHVzIENsaXA8L2I-ICgyMDI2KTogVGVzdGVkIDxiPkNvbXBhcmlzb248L2I-QpcBSW4gb3VyIHRlc3QsIENob3BwaXR5IHdhcyAzIHRpbWVzIGZhc3RlciA8Yj50aGFuIE9wdXMgQ2xpcDwvYj4uIE1hbnkgb2YgaXRzIGNsaXBzIHdlcmUgYWxzbyBzdXBlcmlvci4gQnV0IE9wdXMgQ2xpcCBhbHNvIGdhdmUgc29tZSBpbnRlcmVzdGluZyByZXN1bHRzLlICb3JSAWEiAhABSAFYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqEBL2dvdG8_dXJsPUNBRVNiUUhFSWtYWFpTYzZUcEVibER4THpMSkNsM3RRLTNFREF6RTdkZko4VklQSS1wTlFVd3ZGN1hOS2w3Z3ZRVW5FMVhlajd0T2dwZVhqMkJ2R2tMOTFIR0sxaGFMLU5KLXFIaUhJLWNCV2hLb1hmS2Q1R0Z3RUlrS3NFbkNqY2hGN3ZCQmVybmZKWjFtNFBnT1ltalkSBBoCCAAa1wYSAggAGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkCxBggAEAAYACAAKiAKBG9wdXMVFt27QBoIb3B1c2NsaXAaCWl2O3A7b3B1cyocCgRjbGlwFXEaxkAaBWNsaXBzGghvcHVzY2xpcCoVCgJ2cxVj-IBAGgJvchoGdmVyc3VzKiAKBW11bmNoFQAAAAAaBm11bmljaBoKaXY7cDttdW5jaCoVCgJ2cxVyxHBAGgJvchoGdmVyc3VzKj8KCGluY3Vicml4FQAAAAAaCWluIGN1YnJpeBoJaW5jdSBicml4GglpbmN1YiByaXgaDWl2O3A7aW5jdWJyaXgqGQoBMxWu6a4-GgQzd2F5Gglmb3IgdGhyZWUqFgoDd2F5FXQyEj4aBDN3YXkaBHdheXMqJAoEdG9vbBV6e8Q9Ggd0b29saW5nGg50b29sY29tcGFyaXNvbiprCgpjb21wYXJpc29uFegfaUAaB2NvbXBhcmUaCGNvbXBhcmVkGgtjb21wYXJpc29ucxoKZGlmZmVyZW5jZRoLZGlmZmVyZW5jZXMaBnJldmlldxoHcmV2aWV3cxoOdG9vbGNvbXBhcmlzb24qDAoCYW4VPhZMPxoBYTKhAS9nb3RvP3VybD1DQUVTYlFIRUlrWFhaU2M2VHBFYmxEeEx6TEpDbDN0US0zRURBekU3ZGZKOFZJUEktcE5RVXd2RjdYTktsN2d2UVVuRTFYZWo3dE9ncGVYajJCdkdrTDkxSEdLMWhhTC1OSi1xSGlISS1jQldoS29YZktkNUdGd0VJa0tzRW5DamNoRjd2QkJlcm5mSloxbTRQZ09ZbWpZOj1DaG9wcGl0eSA8Yj52cyBPcHVzIENsaXA8L2I-ICgyMDI2KTogVGVzdGVkIDxiPkNvbXBhcmlzb248L2I-QpcBSW4gb3VyIHRlc3QsIENob3BwaXR5IHdhcyAzIHRpbWVzIGZhc3RlciA8Yj50aGFuIE9wdXMgQ2xpcDwvYj4uIE1hbnkgb2YgaXRzIGNsaXBzIHdlcmUgYWxzbyBzdXBlcmlvci4gQnV0IE9wdXMgQ2xpcCBhbHNvIGdhdmUgc29tZSBpbnRlcmVzdGluZyByZXN1bHRzLlICb3JSAWEiAhABSAFYAGgA",
+        "source": "Choppity",
+        "read_more_link": "https://www.google.com/goto?url=CAESvgEBxCJF10aNAkYffXl_mlxD7bv2qPIA7pS6rhgKFeIiw00-cQ1YhxJcs-B908qEbw9LvD973_Qb91B7_z6M6w_mdyzPs_b2TbuI9Kq57dYbIyjluH6hSm4D3rbVg_Xb57-lvX1E83VN5pQVhQiBsuB5LMXIlvrKzNWxBB4dpD_Ye_4N_ib6uUYyU6aeXO3Vnp5AIweJ7YwB9m3AEfjdYTSXOIlPn_c2VOl02j3yOSJk1Zeydk1MaXrzRmLUFPH1&gsessionid=UJQz-CETs4xe4OwZcIcTsvuGtHutCE1gwnj5SwsWxW61ilaqKYVl0Q"
+      },
+      {
+        "position": 2,
+        "title": "5 Best Munch Alternatives for AI Video Clipping (2026)",
+        "link": "https://voicecreator.pro/blog/munch-alternatives",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHEIkXXzqwz8cx5ewSQPw1TH5xgdU6w2rpTl2tS9GB-lR50VAM2VxaoCsVWvJvWJ_pAPb1Hn1uHJateeSvccs2PN2wYDjhEq4N-ySYzl26sr5JefexX51kGq1R2oOEn09BkjdMdWmcgo3Zbsi0&ved=2ahUKEwizjvK725uYAxW1RjABHR66MzAQFnoECDIQAQ&uoh=1",
+        "displayed_link": "https://voicecreator.pro \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAqFBMVEVHcEx0X-V0XuR0ZuJ0bd92bOZ4eON1beF0ceF1a-J2bOR4eeKEqOR2dOB3duF3ed55e-J5gOB3euB7id54gt15g998kN96jtp6id57jN6Do-V6i9x7jd56ndd-mN57jN6AluV6jN1_mt99ld18lNt8ldt9mNx-ndp-ntuCqtqApNqCqtt_n9uEsduDr9x_pdiCrdmEs9qBqtmBrdeGudqCrteEt9aDttXjJZwwAAAAN3RSTlMATKHG_xtk3BGhgDsFU73-Me_RQP_WUyvA9gz_1hBD6CP_Ne_-w9T9w1PYSOsaX_6ReL3_Kd_HD6ugIwAAAMBJREFUeAHdiwOCA0EQRX_QrMlyvObYuv-x1kZ8gLxG4VVhZxmNt8jJlOGf30kOgAn5oZVelvyVDMgXRsDTC9i85ARi7OgjgEBEmjjHL6Zlm86hdWzarinNj3hsHX5vHns-m0BACghAWEzQR7Z3eXX9Ifc1aAYFrUlhpkD6s5g-sld8EYRR4ATxeWCHwVlwnwTn9yl-yfy8uC6rpIjq4qyIz-LM8PFP1LSfX1Q3Z02HdRgl-iHLE2zgQ2IjbYXd5B0dxRR63uMO5gAAAABJRU5ErkJggg.png",
+        "snippet": "OpusClip is the biggest name the safest like-for-like replacement for old Munch's core workflow, than Munch ever had.",
+        "snippet_highlighted_words": [
+          "OpusClip"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "OpusClip is the biggest name the safest like-for-like replacement for old Munch's core workflow, than Munch ever had.",
+            "source_info_link": "https://voicecreator.pro/blog/munch-alternatives",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAqFBMVEVHcEx0X-V0XuR0ZuJ0bd92bOZ4eON1beF0ceF1a-J2bOR4eeKEqOR2dOB3duF3ed55e-J5gOB3euB7id54gt15g998kN96jtp6id57jN6Do-V6i9x7jd56ndd-mN57jN6AluV6jN1_mt99ld18lNt8ldt9mNx-ndp-ntuCqtqApNqCqtt_n9uEsduDr9x_pdiCrdmEs9qBqtmBrdeGudqCrteEt9aDttXjJZwwAAAAN3RSTlMATKHG_xtk3BGhgDsFU73-Me_RQP_WUyvA9gz_1hBD6CP_Ne_-w9T9w1PYSOsaX_6ReL3_Kd_HD6ugIwAAAMBJREFUeAHdiwOCA0EQRX_QrMlyvObYuv-x1kZ8gLxG4VVhZxmNt8jJlOGf30kOgAn5oZVelvyVDMgXRsDTC9i85ARi7OgjgEBEmjjHL6Zlm86hdWzarinNj3hsHX5vHns-m0BACghAWEzQR7Z3eXX9Ifc1aAYFrUlhpkD6s5g-sld8EYRR4ATxeWCHwVlwnwTn9yl-yfy8uC6rpIjq4qyIz-LM8PFP1LSfX1Q3Z02HdRgl-iHLE2zgQ2IjbYXd5B0dxRR63uMO5gAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqEBL2dvdG8_dXJsPUNBRVNiUUhFSWtYWGs0UkNHLTljRDVMLVdLZU1vUUZHSGY4WTZGdms3N1dhcENHUTBHc1N4Q3FUWTBzQlFPOFR4Smc5cmFjU1E5SWxrXzhfVHBfdmlCUjR0X2R3UThCVncydkhodEsyNkNnZ0xCWEtYSEVpQ3A3bTZDMnU1VXlFRnlIZV80RjRXTHlDTUtmX0dSLUVrckUSBBoCCAAavgYSABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJAmgYIABAAGAAgACogCgRvcHVzFcuX9z8aCG9wdXNjbGlwGglpdjtwO29wdXMqHAoEY2xpcBVVslNAGgVjbGlwcxoIb3B1c2NsaXAqFQoCdnMVlfBZPxoCb3IaBnZlcnN1cyogCgVtdW5jaBUAMKtAGgZtdW5pY2gaCml2O3A7bXVuY2gqFQoCdnMVNOSjPhoCb3IaBnZlcnN1cyo_CghpbmN1YnJpeBUAAAAAGglpbiBjdWJyaXgaCWluY3UgYnJpeBoJaW5jdWIgcml4Gg1pdjtwO2luY3Vicml4KhkKATMVG_m5PxoEM3dheRoJZm9yIHRocmVlKhYKA3dheRUsPHM_GgQzd2F5GgR3YXlzKiQKBHRvb2wVgXSYPxoHdG9vbGluZxoOdG9vbGNvbXBhcmlzb24qawoKY29tcGFyaXNvbhV_Bkk_Ggdjb21wYXJlGghjb21wYXJlZBoLY29tcGFyaXNvbnMaCmRpZmZlcmVuY2UaC2RpZmZlcmVuY2VzGgZyZXZpZXcaB3Jldmlld3MaDnRvb2xjb21wYXJpc29uKgwKAmFuFaVxWT8aAWEyoQEvZ290bz91cmw9Q0FFU2JRSEVJa1hYazRSQ0ctOWNENUwtV0tlTW9RRkdIZjhZNkZ2azc3V2FwQ0dRMEdzU3hDcVRZMHNCUU84VHhKZzlyYWNTUTlJbGtfOF9UcF92aUJSNHRfZHdROEJWdzJ2SGh0SzI2Q2dnTEJYS1hIRWlDcDdtNkMydTVVeUVGeUhlXzRGNFdMeUNNS2ZfR1ItRWtyRTo9NSBCZXN0IDxiPk11bmNoPC9iPiBBbHRlcm5hdGl2ZXMgZm9yIEFJIFZpZGVvIENsaXBwaW5nICgyMDI2KUKAATxiPk9wdXNDbGlwPC9iPiBpcyB0aGUgYmlnZ2VzdCBuYW1lIHRoZSBzYWZlc3QgbGlrZS1mb3ItbGlrZSByZXBsYWNlbWVudCBmb3Igb2xkIE11bmNoJiMzOTtzIGNvcmUgd29ya2Zsb3csIHRoYW4gTXVuY2ggZXZlciBoYWQuUgFhUgJvciICEAFIAVgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqEBL2dvdG8_dXJsPUNBRVNiUUhFSWtYWGs0UkNHLTljRDVMLVdLZU1vUUZHSGY4WTZGdms3N1dhcENHUTBHc1N4Q3FUWTBzQlFPOFR4Smc5cmFjU1E5SWxrXzhfVHBfdmlCUjR0X2R3UThCVncydkhodEsyNkNnZ0xCWEtYSEVpQ3A3bTZDMnU1VXlFRnlIZV80RjRXTHlDTUtmX0dSLUVrckUSBBoCCAAavgYSABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJAmgYIABAAGAAgACogCgRvcHVzFcuX9z8aCG9wdXNjbGlwGglpdjtwO29wdXMqHAoEY2xpcBVVslNAGgVjbGlwcxoIb3B1c2NsaXAqFQoCdnMVlfBZPxoCb3IaBnZlcnN1cyogCgVtdW5jaBUAMKtAGgZtdW5pY2gaCml2O3A7bXVuY2gqFQoCdnMVNOSjPhoCb3IaBnZlcnN1cyo_CghpbmN1YnJpeBUAAAAAGglpbiBjdWJyaXgaCWluY3UgYnJpeBoJaW5jdWIgcml4Gg1pdjtwO2luY3Vicml4KhkKATMVG_m5PxoEM3dheRoJZm9yIHRocmVlKhYKA3dheRUsPHM_GgQzd2F5GgR3YXlzKiQKBHRvb2wVgXSYPxoHdG9vbGluZxoOdG9vbGNvbXBhcmlzb24qawoKY29tcGFyaXNvbhV_Bkk_Ggdjb21wYXJlGghjb21wYXJlZBoLY29tcGFyaXNvbnMaCmRpZmZlcmVuY2UaC2RpZmZlcmVuY2VzGgZyZXZpZXcaB3Jldmlld3MaDnRvb2xjb21wYXJpc29uKgwKAmFuFaVxWT8aAWEyoQEvZ290bz91cmw9Q0FFU2JRSEVJa1hYazRSQ0ctOWNENUwtV0tlTW9RRkdIZjhZNkZ2azc3V2FwQ0dRMEdzU3hDcVRZMHNCUU84VHhKZzlyYWNTUTlJbGtfOF9UcF92aUJSNHRfZHdROEJWdzJ2SGh0SzI2Q2dnTEJYS1hIRWlDcDdtNkMydTVVeUVGeUhlXzRGNFdMeUNNS2ZfR1ItRWtyRTo9NSBCZXN0IDxiPk11bmNoPC9iPiBBbHRlcm5hdGl2ZXMgZm9yIEFJIFZpZGVvIENsaXBwaW5nICgyMDI2KUKAATxiPk9wdXNDbGlwPC9iPiBpcyB0aGUgYmlnZ2VzdCBuYW1lIHRoZSBzYWZlc3QgbGlrZS1mb3ItbGlrZSByZXBsYWNlbWVudCBmb3Igb2xkIE11bmNoJiMzOTtzIGNvcmUgd29ya2Zsb3csIHRoYW4gTXVuY2ggZXZlciBoYWQuUgFhUgJvciICEAFIAVgAaAA",
+        "source": "Voice Creator Pro"
+      },
+      {
+        "position": 3,
+        "title": "7 Best Opus Clip Alternatives in 2026 (Ranked) - CaptureFlow",
+        "link": "https://www.google.com/goto?url=CAESdAHEIkXXZw6-YoOcThT16cK0C5bnIJb5e3111JV8mjHMsZfz4UWa5x8_P9BV0oNDwi5PxtvB3N63VTSVxkf3FWG1ApM-Cz7-ahHcv0xx5fd7H3SlqPxXy1At4cpcyjApqo_N-UUTjBPt0IzbufyRxxucx_6D",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHEIkXXghf7tVBnXqHqMWmq-idjIKeFjjfVk_evSu9B8LWXKnUE71Ci50jI9Q52rt-1OCbJHP7c-JjL8J4mOMj509vXAp52boUzaIhJjuDLqp4eiNHHuvA-qJ8wLBJIs-qJDum7ud8ZIAfO_NhfK2u0Uczj&ved=2ahUKEwizjvK725uYAxW1RjABHR66MzAQFnoECDYQAQ&uoh=1",
+        "displayed_link": "https://captureflow.ai \u203a Blog \u203a AI & Content",
+        "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Lzc3Nzc3Nzc3Nzc3MjctNzc3NzM3Ny03Nzc1Nzg3Nzc4Nzc3LS03LS0xLTctLTU3Nf_AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAAMAAAAAAAAAAAAAAAADBAYBAgX_xAApEAACAQMDAgQHAAAAAAAAAAABAgMABBESITEGEwUjUWEUIjJCcYGR_8QAGQEAAgMBAAAAAAAAAAAAAAAAAgMBBAUG_8QAHxEAAgIBBQEBAAAAAAAAAAAAAAECEVEDBBIhQTEU_9oADAMBAAIRAxEAPwAbNXbmk2Zgtri67vw8TSdqMyyaftQcmhlOMK5Or6FylQswftiTQ3bLFQ-NiRgkZ9dx_aZauvRbYEtUi7H7WH4q6jg70UPcbHcmbSi_k0qcuEXKrrBYlKipijPSRQBJr43sscbvFD5Zj3yiHJ1M2eNuKzJS_biPFP3u8vCRXb5inUVreeHdOQ2beIQNarJqW3miEVxg4wNO-QOc-_6pm11NPV3Dmou8p3EG7dkaWrWBscSURypIUSQIwbQ4yrYPB9jS2rTRYbO74L1DaWl54ncXFskSTefbwwr8iTLnQPb6jk1R3G0nOEIxd1028P6JkSpOOdyeT61pAtmhapF2MsaAsMExohbBsakWwZO9SA2f_9k.jpg",
+        "date": "13 Jul 2026",
+        "snippet": "An Opus Clip alternative is any tool that turns long video into short, captioned clips, without Opus Clip's specific limits on price, editing ...",
+        "snippet_highlighted_words": [
+          "Opus Clip",
+          "tool",
+          "clips",
+          "Opus Clip's"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "An Opus Clip alternative is any tool that turns long video into short, captioned clips, without Opus Clip's specific limits on price, editing ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESdAHEIkXXZw6-YoOcThT16cK0C5bnIJb5e3111JV8mjHMsZfz4UWa5x8_P9BV0oNDwi5PxtvB3N63VTSVxkf3FWG1ApM-Cz7-ahHcv0xx5fd7H3SlqPxXy1At4cpcyjApqo_N-UUTjBPt0IzbufyRxxucx_6D",
+            "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Lzc3Nzc3Nzc3Nzc3MjctNzc3NzM3Ny03Nzc1Nzg3Nzc4Nzc3LS03LS0xLTctLTU3Nf_AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAAMAAAAAAAAAAAAAAAADBAYBAgX_xAApEAACAQMDAgQHAAAAAAAAAAABAgMABBESITEGEwUjUWEUIjJCcYGR_8QAGQEAAgMBAAAAAAAAAAAAAAAAAgMBBAUG_8QAHxEAAgIBBQEBAAAAAAAAAAAAAAECEVEDBBIhQTEU_9oADAMBAAIRAxEAPwAbNXbmk2Zgtri67vw8TSdqMyyaftQcmhlOMK5Or6FylQswftiTQ3bLFQ-NiRgkZ9dx_aZauvRbYEtUi7H7WH4q6jg70UPcbHcmbSi_k0qcuEXKrrBYlKipijPSRQBJr43sscbvFD5Zj3yiHJ1M2eNuKzJS_biPFP3u8vCRXb5inUVreeHdOQ2beIQNarJqW3miEVxg4wNO-QOc-_6pm11NPV3Dmou8p3EG7dkaWrWBscSURypIUSQIwbQ4yrYPB9jS2rTRYbO74L1DaWl54ncXFskSTefbwwr8iTLnQPb6jk1R3G0nOEIxd1028P6JkSpOOdyeT61pAtmhapF2MsaAsMExohbBsakWwZO9SA2f_9k.jpg"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqoBL2dvdG8_dXJsPUNBRVNkQUhFSWtYWFp3Ni1Zb09jVGhUMTZjSzBDNWJuSUpiNWUzMTExSlY4bWpITXNaZno0VVdhNXg4X1A5QlYwb05Ed2k1UHh0dkIzTjYzVlRTVnhrZjNGV0cxQXBNLUN6Ny1haEhjdjB4eDVmZDdIM1NscVB4WHkxQXQ0Y3BjeWpBcHFvX04tVVVUakJQdDBJemJ1ZnlSeHh1Y3hfNkQSBBoCCAAagwcSABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJA3wYIABAAGAAgACogCgRvcHVzFd5ol0AaCG9wdXNjbGlwGglpdjtwO29wdXMqHAoEY2xpcBUel6ZAGgVjbGlwcxoIb3B1c2NsaXAqFQoCdnMVMh_sPhoCb3IaBnZlcnN1cyogCgVtdW5jaBVZ0Kk_GgZtdW5pY2gaCml2O3A7bXVuY2gqFQoCdnMVzAe7PhoCb3IaBnZlcnN1cyo_CghpbmN1YnJpeBUAAAAAGglpbiBjdWJyaXgaCWluY3UgYnJpeBoJaW5jdWIgcml4Gg1pdjtwO2luY3Vicml4KhkKATMV1OGcPhoEM3dheRoJZm9yIHRocmVlKhYKA3dheRV-VIM9GgQzd2F5GgR3YXlzKiQKBHRvb2wVFcuUPxoHdG9vbGluZxoOdG9vbGNvbXBhcmlzb24qawoKY29tcGFyaXNvbhVuGo8-Ggdjb21wYXJlGghjb21wYXJlZBoLY29tcGFyaXNvbnMaCmRpZmZlcmVuY2UaC2RpZmZlcmVuY2VzGgZyZXZpZXcaB3Jldmlld3MaDnRvb2xjb21wYXJpc29uKgwKAmFuFcuViD8aAWEyqgEvZ290bz91cmw9Q0FFU2RBSEVJa1hYWnc2LVlvT2NUaFQxNmNLMEM1Ym5JSmI1ZTMxMTFKVjhtakhNc1pmejRVV2E1eDhfUDlCVjBvTkR3aTVQeHR2QjNONjNWVFNWeGtmM0ZXRzFBcE0tQ3o3LWFoSGN2MHh4NWZkN0gzU2xxUHhYeTFBdDRjcGN5akFwcW9fTi1VVVRqQlB0MEl6YnVmeVJ4eHVjeF82RDpDNyBCZXN0IDxiPk9wdXMgQ2xpcDwvYj4gQWx0ZXJuYXRpdmVzIGluIDIwMjYgKFJhbmtlZCkgLSBDYXB0dXJlRmxvd0K2AUFuIDxiPk9wdXMgQ2xpcDwvYj4gYWx0ZXJuYXRpdmUgaXMgYW55IDxiPnRvb2w8L2I-IHRoYXQgdHVybnMgbG9uZyB2aWRlbyBpbnRvIHNob3J0LCBjYXB0aW9uZWQgPGI-Y2xpcHM8L2I-LCB3aXRob3V0IDxiPk9wdXMgQ2xpcCYjMzk7czwvYj4gc3BlY2lmaWMgbGltaXRzIG9uIHByaWNlLCBlZGl0aW5nJm5ic3A7Li4uUgJvclIBYSICEAFIAVgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqoBL2dvdG8_dXJsPUNBRVNkQUhFSWtYWFp3Ni1Zb09jVGhUMTZjSzBDNWJuSUpiNWUzMTExSlY4bWpITXNaZno0VVdhNXg4X1A5QlYwb05Ed2k1UHh0dkIzTjYzVlRTVnhrZjNGV0cxQXBNLUN6Ny1haEhjdjB4eDVmZDdIM1NscVB4WHkxQXQ0Y3BjeWpBcHFvX04tVVVUakJQdDBJemJ1ZnlSeHh1Y3hfNkQSBBoCCAAagwcSABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJA3wYIABAAGAAgACogCgRvcHVzFd5ol0AaCG9wdXNjbGlwGglpdjtwO29wdXMqHAoEY2xpcBUel6ZAGgVjbGlwcxoIb3B1c2NsaXAqFQoCdnMVMh_sPhoCb3IaBnZlcnN1cyogCgVtdW5jaBVZ0Kk_GgZtdW5pY2gaCml2O3A7bXVuY2gqFQoCdnMVzAe7PhoCb3IaBnZlcnN1cyo_CghpbmN1YnJpeBUAAAAAGglpbiBjdWJyaXgaCWluY3UgYnJpeBoJaW5jdWIgcml4Gg1pdjtwO2luY3Vicml4KhkKATMV1OGcPhoEM3dheRoJZm9yIHRocmVlKhYKA3dheRV-VIM9GgQzd2F5GgR3YXlzKiQKBHRvb2wVFcuUPxoHdG9vbGluZxoOdG9vbGNvbXBhcmlzb24qawoKY29tcGFyaXNvbhVuGo8-Ggdjb21wYXJlGghjb21wYXJlZBoLY29tcGFyaXNvbnMaCmRpZmZlcmVuY2UaC2RpZmZlcmVuY2VzGgZyZXZpZXcaB3Jldmlld3MaDnRvb2xjb21wYXJpc29uKgwKAmFuFcuViD8aAWEyqgEvZ290bz91cmw9Q0FFU2RBSEVJa1hYWnc2LVlvT2NUaFQxNmNLMEM1Ym5JSmI1ZTMxMTFKVjhtakhNc1pmejRVV2E1eDhfUDlCVjBvTkR3aTVQeHR2QjNONjNWVFNWeGtmM0ZXRzFBcE0tQ3o3LWFoSGN2MHh4NWZkN0gzU2xxUHhYeTFBdDRjcGN5akFwcW9fTi1VVVRqQlB0MEl6YnVmeVJ4eHVjeF82RDpDNyBCZXN0IDxiPk9wdXMgQ2xpcDwvYj4gQWx0ZXJuYXRpdmVzIGluIDIwMjYgKFJhbmtlZCkgLSBDYXB0dXJlRmxvd0K2AUFuIDxiPk9wdXMgQ2xpcDwvYj4gYWx0ZXJuYXRpdmUgaXMgYW55IDxiPnRvb2w8L2I-IHRoYXQgdHVybnMgbG9uZyB2aWRlbyBpbnRvIHNob3J0LCBjYXB0aW9uZWQgPGI-Y2xpcHM8L2I-LCB3aXRob3V0IDxiPk9wdXMgQ2xpcCYjMzk7czwvYj4gc3BlY2lmaWMgbGltaXRzIG9uIHByaWNlLCBlZGl0aW5nJm5ic3A7Li4uUgJvclIBYSICEAFIAVgAaAA",
+        "source": "captureflow.ai"
+      },
+      {
+        "position": 4,
+        "title": "Best Opus Clip Alternatives in 2026 (Ranked & Tested)",
+        "link": "https://www.google.com/goto?url=CAESkAEBxCJF18n733DYDxqp962Y4_tlUl286zKZ520PMWbRx1Fn7UwbG8XZdHwKA3N3MHoeXS8ZaZlNVCPHMktyAXCFPqqEFmVlxsi9fOFX9MSOrmP2O7sx9rgRoVttCOzRRXG6CkC6Zh8kmOHQA9OMiQp7jpRmBxZBu1CD5XEZmW3UJAXxpfnaZrYRpYH-Kmy7Sh4",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEBxCJF11KG3PGdme-JIl_4gkpYD9umoU_vNZO-EnwPPiMg5hCm2FaApQvlQNXfkydbUsYgvkm6aNW7LfilPPWVfztse8ft2X_VfCIHRi6JfwUG0-wJRcX9V0pmlnSZ7bJRJL7L5ck-UirEpBpNhNeT0lfe7d82Z4Tdvyq69tGVniJwdgTvc2n0-bcatmVMBDY&ved=2ahUKEwizjvK725uYAxW1RjABHR66MzAQFnoECDUQAQ&uoh=1",
+        "displayed_link": "https://www.activepieces.com \u203a ... \u203a Automation thoughts",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAALVBMVEVHcExKP2BKPmBKPmBKPmBKPWBKPmBKPmBKPmBKPmBKPmBKP19KPmBKPmBKPmCsqIKAAAAADnRSTlMADPTjPFtpoIYpzBhMsH7yuMEAAACoSURBVCiRtZJJFsQgCEQVHHDi_sdtkzg3veuw830oi1Kl3i5tnAs_WCIEiE6eI74KrQQD3pCjpGy4ldfCJDQIgnAqfVQStjCEhUsH5G9hOxjD6Un7CbkcjHitJaiaatwY43CcumIs07E-bsOshjg0YYOzW59RjB1o7eS8w1vJ7Un0ZjSrO8jbivQYNM9WPrVVrg-C1E4qx3ry82nq1zIzk2BdFl78b_UBXI4NuEfGJ74AAAAASUVORK5CYII.png",
+        "date": "11 Nov 2026",
+        "snippet": "Opus clip alternatives include Vizard, Submagic and Klap, which differ on pricing, editing depth and workflow integration.",
+        "snippet_highlighted_words": [
+          "Opus clip"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Opus clip alternatives include Vizard, Submagic and Klap, which differ on pricing, editing depth and workflow integration.",
+            "source_info_link": "https://www.google.com/goto?url=CAESkAEBxCJF18n733DYDxqp962Y4_tlUl286zKZ520PMWbRx1Fn7UwbG8XZdHwKA3N3MHoeXS8ZaZlNVCPHMktyAXCFPqqEFmVlxsi9fOFX9MSOrmP2O7sx9rgRoVttCOzRRXG6CkC6Zh8kmOHQA9OMiQp7jpRmBxZBu1CD5XEZmW3UJAXxpfnaZrYRpYH-Kmy7Sh4",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAALVBMVEVHcExKP2BKPmBKPmBKPmBKPWBKPmBKPmBKPmBKPmBKPmBKP19KPmBKPmBKPmCsqIKAAAAADnRSTlMADPTjPFtpoIYpzBhMsH7yuMEAAACoSURBVCiRtZJJFsQgCEQVHHDi_sdtkzg3veuw830oi1Kl3i5tnAs_WCIEiE6eI74KrQQD3pCjpGy4ldfCJDQIgnAqfVQStjCEhUsH5G9hOxjD6Un7CbkcjHitJaiaatwY43CcumIs07E-bsOshjg0YYOzW59RjB1o7eS8w1vJ7Un0ZjSrO8jbivQYNM9WPrVVrg-C1E4qx3ry82nq1zIzk2BdFl78b_UBXI4NuEfGJ74AAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtEBL2dvdG8_dXJsPUNBRVNrQUVCeENKRjE4bjczM0RZRHhxcDk2Mlk0X3RsVWwyODZ6S1o1MjBQTVdiUngxRm43VXdiRzhYWmRId0tBM04zTUhvZVhTOFphWmxOVkNQSE1rdHlBWENGUHFxRUZtVmx4c2k5Zk9GWDlNU09ybVAyTzdzeDlyZ1JvVnR0Q096UlJYRzZDa0M2Wmg4a21PSFFBOU9NaVFwN2pwUm1CeFpCdTFDRDVYRVptVzNVSkFYeHBmbmFacllScFlILUtteTdTaDQSBBoCCAAa8gYSABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJAzgYIABAAGAAgACogCgRvcHVzFYnXx0AaCG9wdXNjbGlwGglpdjtwO29wdXMqHAoEY2xpcBVSB9JAGgVjbGlwcxoIb3B1c2NsaXAqFQoCdnMVAAAAABoCb3IaBnZlcnN1cyogCgVtdW5jaBUAAAAAGgZtdW5pY2gaCml2O3A7bXVuY2gqFQoCdnMVAAAAABoCb3IaBnZlcnN1cyo_CghpbmN1YnJpeBUAAAAAGglpbiBjdWJyaXgaCWluY3UgYnJpeBoJaW5jdWIgcml4Gg1pdjtwO2luY3Vicml4KhkKATMVlsYyPhoEM3dheRoJZm9yIHRocmVlKhYKA3dheRVHIJ8-GgQzd2F5GgR3YXlzKiQKBHRvb2wVckANQBoHdG9vbGluZxoOdG9vbGNvbXBhcmlzb24qawoKY29tcGFyaXNvbhVeRaQ9Ggdjb21wYXJlGghjb21wYXJlZBoLY29tcGFyaXNvbnMaCmRpZmZlcmVuY2UaC2RpZmZlcmVuY2VzGgZyZXZpZXcaB3Jldmlld3MaDnRvb2xjb21wYXJpc29uKgwKAmFuFZRtuD8aAWEy0QEvZ290bz91cmw9Q0FFU2tBRUJ4Q0pGMThuNzMzRFlEeHFwOTYyWTRfdGxVbDI4NnpLWjUyMFBNV2JSeDFGbjdVd2JHOFhaZEh3S0EzTjNNSG9lWFM4WmFabE5WQ1BITWt0eUFYQ0ZQcXFFRm1WbHhzaTlmT0ZYOU1TT3JtUDJPN3N4OXJnUm9WdHRDT3pSUlhHNkNrQzZaaDhrbU9IUUE5T01pUXA3anBSbUJ4WkJ1MUNENVhFWm1XM1VKQVh4cGZuYVpyWVJwWUgtS215N1NoNDpAQmVzdCA8Yj5PcHVzIENsaXA8L2I-IEFsdGVybmF0aXZlcyBpbiAyMDI2IChSYW5rZWQgJmFtcDsgVGVzdGVkKUKBATxiPk9wdXMgY2xpcDwvYj4gYWx0ZXJuYXRpdmVzIGluY2x1ZGUgVml6YXJkLCBTdWJtYWdpYyBhbmQgS2xhcCwgd2hpY2ggZGlmZmVyIG9uIHByaWNpbmcsIGVkaXRpbmcgZGVwdGggYW5kIHdvcmtmbG93IGludGVncmF0aW9uLlIBYVICb3IiAhABSAFYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtEBL2dvdG8_dXJsPUNBRVNrQUVCeENKRjE4bjczM0RZRHhxcDk2Mlk0X3RsVWwyODZ6S1o1MjBQTVdiUngxRm43VXdiRzhYWmRId0tBM04zTUhvZVhTOFphWmxOVkNQSE1rdHlBWENGUHFxRUZtVmx4c2k5Zk9GWDlNU09ybVAyTzdzeDlyZ1JvVnR0Q096UlJYRzZDa0M2Wmg4a21PSFFBOU9NaVFwN2pwUm1CeFpCdTFDRDVYRVptVzNVSkFYeHBmbmFacllScFlILUtteTdTaDQSBBoCCAAa8gYSABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJAzgYIABAAGAAgACogCgRvcHVzFYnXx0AaCG9wdXNjbGlwGglpdjtwO29wdXMqHAoEY2xpcBVSB9JAGgVjbGlwcxoIb3B1c2NsaXAqFQoCdnMVAAAAABoCb3IaBnZlcnN1cyogCgVtdW5jaBUAAAAAGgZtdW5pY2gaCml2O3A7bXVuY2gqFQoCdnMVAAAAABoCb3IaBnZlcnN1cyo_CghpbmN1YnJpeBUAAAAAGglpbiBjdWJyaXgaCWluY3UgYnJpeBoJaW5jdWIgcml4Gg1pdjtwO2luY3Vicml4KhkKATMVlsYyPhoEM3dheRoJZm9yIHRocmVlKhYKA3dheRVHIJ8-GgQzd2F5GgR3YXlzKiQKBHRvb2wVckANQBoHdG9vbGluZxoOdG9vbGNvbXBhcmlzb24qawoKY29tcGFyaXNvbhVeRaQ9Ggdjb21wYXJlGghjb21wYXJlZBoLY29tcGFyaXNvbnMaCmRpZmZlcmVuY2UaC2RpZmZlcmVuY2VzGgZyZXZpZXcaB3Jldmlld3MaDnRvb2xjb21wYXJpc29uKgwKAmFuFZRtuD8aAWEy0QEvZ290bz91cmw9Q0FFU2tBRUJ4Q0pGMThuNzMzRFlEeHFwOTYyWTRfdGxVbDI4NnpLWjUyMFBNV2JSeDFGbjdVd2JHOFhaZEh3S0EzTjNNSG9lWFM4WmFabE5WQ1BITWt0eUFYQ0ZQcXFFRm1WbHhzaTlmT0ZYOU1TT3JtUDJPN3N4OXJnUm9WdHRDT3pSUlhHNkNrQzZaaDhrbU9IUUE5T01pUXA3anBSbUJ4WkJ1MUNENVhFWm1XM1VKQVh4cGZuYVpyWVJwWUgtS215N1NoNDpAQmVzdCA8Yj5PcHVzIENsaXA8L2I-IEFsdGVybmF0aXZlcyBpbiAyMDI2IChSYW5rZWQgJmFtcDsgVGVzdGVkKUKBATxiPk9wdXMgY2xpcDwvYj4gYWx0ZXJuYXRpdmVzIGluY2x1ZGUgVml6YXJkLCBTdWJtYWdpYyBhbmQgS2xhcCwgd2hpY2ggZGlmZmVyIG9uIHByaWNpbmcsIGVkaXRpbmcgZGVwdGggYW5kIHdvcmtmbG93IGludGVncmF0aW9uLlIBYVICb3IiAhABSAFYAGgA",
+        "source": "Activepieces"
+      },
+      {
+        "position": 5,
+        "title": "The Best Opus Clip Alternative (Free to Use)",
+        "link": "https://www.google.com/goto?url=CAESYAHEIkXXEJyeGj2MKDyGfB0z6V3Ce8wbudqFlelJbVWMaiY0dcOhDsCjem-MrKw-i_RdWER4E0GHKABLjkQXFUk81Biw2f7BDhr7ec7XZh883L_3T8Sdmh21IDy2hM0H4Q",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHEIkXXWMFSdAvZPvrWaV1TzMblwCwbNJ-a2r5JFokgP9g5nhpp941e6JZsLe6Be_kmJov1imZ9V9coZpDsl9RsGLwwpkb9BudVgGEsKKCsN_GMV6EPjc2pELsI-kFdDQ&ved=2ahUKEwizjvK725uYAxW1RjABHR66MzAQFnoECDMQAQ&uoh=1",
+        "displayed_link": "https://vizard.ai \u203a alternatives \u203a opus",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAfCAMAAACxiD--AAAAeFBMVEVHcEz_m73_m73_m73_nL3_m73_m73_m739mr3_m739mb3_m73_m73_m73_m73_m73_m73_m73_m73_m73_m73_m72vZ7LBc7RTKadOJqZTK6dCHqVIIqWOUq3NerY3Gp5GIKVHIaV_RqvjiLnag7c8GKRIIqVIIqUEPZXLAAAAKHRSTlMAaf-SESMFztyJXi72gcCg7UnlOHyp-5H-0zn__8GtB4vu____viBxF62x5QAAAPJJREFUeAF1k1UCgzAQBSnu7tSN-9-wKXnYLplPZoCotuOkCwxTU6IOTIsFlr3xluNaJPB03954XXeCbWB7oY4CXhYIpBfFOjQUCOB110bhhSimwLMi-AB-KeJEFyRGin7x-CdIQ-ZJQTyKKN35ePFWJvFjDCPXBWGEx4V2SnMw-cIs03-Qg0ordSC92JYy3z7ZBmHdTD-NVUHddj37wjoGt26Hc9ezMVgZuAh_PnfXlMwC3O6Ps2B4vsg6UP8mK8m8Yi-kP38atpvwZ-l7eWDYeYDven6iiGdnkvjjU93Df5X3YoQ_vlkoHl_F3UQBfxj8AORJGsjDkQgrAAAAAElFTkSuQmCC.png",
+        "snippet": "Both tools charge 1 credit per minute of video you upload. So the fair comparison is cost per minute, and what happens to the minutes you don't use.",
+        "snippet_highlighted_words": [
+          "Both tools charge 1 credit per minute of video you upload"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Both tools charge 1 credit per minute of video you upload. So the fair comparison is cost per minute, and what happens to the minutes you don't use.",
+            "source_info_link": "https://www.google.com/goto?url=CAESYAHEIkXXEJyeGj2MKDyGfB0z6V3Ce8wbudqFlelJbVWMaiY0dcOhDsCjem-MrKw-i_RdWER4E0GHKABLjkQXFUk81Biw2f7BDhr7ec7XZh883L_3T8Sdmh21IDy2hM0H4Q",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAfCAMAAACxiD--AAAAeFBMVEVHcEz_m73_m73_m73_nL3_m73_m73_m739mr3_m739mb3_m73_m73_m73_m73_m73_m73_m73_m73_m73_m73_m72vZ7LBc7RTKadOJqZTK6dCHqVIIqWOUq3NerY3Gp5GIKVHIaV_RqvjiLnag7c8GKRIIqVIIqUEPZXLAAAAKHRSTlMAaf-SESMFztyJXi72gcCg7UnlOHyp-5H-0zn__8GtB4vu____viBxF62x5QAAAPJJREFUeAF1k1UCgzAQBSnu7tSN-9-wKXnYLplPZoCotuOkCwxTU6IOTIsFlr3xluNaJPB03954XXeCbWB7oY4CXhYIpBfFOjQUCOB110bhhSimwLMi-AB-KeJEFyRGin7x-CdIQ-ZJQTyKKN35ePFWJvFjDCPXBWGEx4V2SnMw-cIs03-Qg0ordSC92JYy3z7ZBmHdTD-NVUHddj37wjoGt26Hc9ezMVgZuAh_PnfXlMwC3O6Ps2B4vsg6UP8mK8m8Yi-kP38atpvwZ-l7eWDYeYDven6iiGdnkvjjU93Df5X3YoQ_vlkoHl_F3UQBfxj8AORJGsjDkQgrAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhFSWtYWEVKeWVHajJNS0R5R2ZCMHo2VjNDZTh3YnVkcUZsZWxKYlZXTWFpWTBkY09oRHNDamVtLU1yS3ctaV9SZFdFUjRFMEdIS0FCTGprUVhGVWs4MUJpdzJmN0JEaHI3ZWM3WFpoODgzTF8zVDhTZG1oMjFJRHkyaE0wSDRREgQaAggAGtAGEgIIABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJAqgYIABAAGAAgACogCgRvcHVzFSmouUAaCG9wdXNjbGlwGglpdjtwO29wdXMqHAoEY2xpcBVHkqZAGgVjbGlwcxoIb3B1c2NsaXAqFQoCdnMVv6YAQBoCb3IaBnZlcnN1cyogCgVtdW5jaBUAAAAAGgZtdW5pY2gaCml2O3A7bXVuY2gqFQoCdnMVaRnmPxoCb3IaBnZlcnN1cyo_CghpbmN1YnJpeBUAAAAAGglpbiBjdWJyaXgaCWluY3UgYnJpeBoJaW5jdWIgcml4Gg1pdjtwO2luY3Vicml4KhkKATMVkZc8PhoEM3dheRoJZm9yIHRocmVlKhYKA3dheRUAAAAAGgQzd2F5GgR3YXlzKiQKBHRvb2wVKT2WPhoHdG9vbGluZxoOdG9vbGNvbXBhcmlzb24qawoKY29tcGFyaXNvbhWsuNA9Ggdjb21wYXJlGghjb21wYXJlZBoLY29tcGFyaXNvbnMaCmRpZmZlcmVuY2UaC2RpZmZlcmVuY2VzGgZyZXZpZXcaB3Jldmlld3MaDnRvb2xjb21wYXJpc29uKgwKAmFuFbZdNj8aAWEykAEvZ290bz91cmw9Q0FFU1lBSEVJa1hYRUp5ZUdqMk1LRHlHZkIwejZWM0NlOHdidWRxRmxlbEpiVldNYWlZMGRjT2hEc0NqZW0tTXJLdy1pX1JkV0VSNEUwR0hLQUJMamtRWEZVazgxQml3MmY3QkRocjdlYzdYWmg4ODNMXzNUOFNkbWgyMUlEeTJoTTBINFE6P1RoZSBCZXN0IDxiPk9wdXMgQ2xpcDwvYj4gQWx0ZXJuYXRpdmUgKEZyZWUgdG8gVXNlKSAtIFZpemFyZC5haUKfATxiPkJvdGggdG9vbHMgY2hhcmdlIDEgY3JlZGl0IHBlciBtaW51dGUgb2YgdmlkZW8geW91IHVwbG9hZDwvYj4uIFNvIHRoZSBmYWlyIGNvbXBhcmlzb24gaXMgY29zdCBwZXIgbWludXRlLCBhbmQgd2hhdCBoYXBwZW5zIHRvIHRoZSBtaW51dGVzIHlvdSBkb24mIzM5O3QgdXNlLlICb3JSAWEiAhABSAFYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhFSWtYWEVKeWVHajJNS0R5R2ZCMHo2VjNDZTh3YnVkcUZsZWxKYlZXTWFpWTBkY09oRHNDamVtLU1yS3ctaV9SZFdFUjRFMEdIS0FCTGprUVhGVWs4MUJpdzJmN0JEaHI3ZWM3WFpoODgzTF8zVDhTZG1oMjFJRHkyaE0wSDRREgQaAggAGtAGEgIIABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJAqgYIABAAGAAgACogCgRvcHVzFSmouUAaCG9wdXNjbGlwGglpdjtwO29wdXMqHAoEY2xpcBVHkqZAGgVjbGlwcxoIb3B1c2NsaXAqFQoCdnMVv6YAQBoCb3IaBnZlcnN1cyogCgVtdW5jaBUAAAAAGgZtdW5pY2gaCml2O3A7bXVuY2gqFQoCdnMVaRnmPxoCb3IaBnZlcnN1cyo_CghpbmN1YnJpeBUAAAAAGglpbiBjdWJyaXgaCWluY3UgYnJpeBoJaW5jdWIgcml4Gg1pdjtwO2luY3Vicml4KhkKATMVkZc8PhoEM3dheRoJZm9yIHRocmVlKhYKA3dheRUAAAAAGgQzd2F5GgR3YXlzKiQKBHRvb2wVKT2WPhoHdG9vbGluZxoOdG9vbGNvbXBhcmlzb24qawoKY29tcGFyaXNvbhWsuNA9Ggdjb21wYXJlGghjb21wYXJlZBoLY29tcGFyaXNvbnMaCmRpZmZlcmVuY2UaC2RpZmZlcmVuY2VzGgZyZXZpZXcaB3Jldmlld3MaDnRvb2xjb21wYXJpc29uKgwKAmFuFbZdNj8aAWEykAEvZ290bz91cmw9Q0FFU1lBSEVJa1hYRUp5ZUdqMk1LRHlHZkIwejZWM0NlOHdidWRxRmxlbEpiVldNYWlZMGRjT2hEc0NqZW0tTXJLdy1pX1JkV0VSNEUwR0hLQUJMamtRWEZVazgxQml3MmY3QkRocjdlYzdYWmg4ODNMXzNUOFNkbWgyMUlEeTJoTTBINFE6P1RoZSBCZXN0IDxiPk9wdXMgQ2xpcDwvYj4gQWx0ZXJuYXRpdmUgKEZyZWUgdG8gVXNlKSAtIFZpemFyZC5haUKfATxiPkJvdGggdG9vbHMgY2hhcmdlIDEgY3JlZGl0IHBlciBtaW51dGUgb2YgdmlkZW8geW91IHVwbG9hZDwvYj4uIFNvIHRoZSBmYWlyIGNvbXBhcmlzb24gaXMgY29zdCBwZXIgbWludXRlLCBhbmQgd2hhdCBoYXBwZW5zIHRvIHRoZSBtaW51dGVzIHlvdSBkb24mIzM5O3QgdXNlLlICb3JSAWEiAhABSAFYAGgA",
+        "source": "Vizard.ai"
+      },
+      {
+        "position": 6,
+        "title": "Best OpusClip Alternatives in 2026 (6 Tools Compared)",
+        "link": "https://www.google.com/goto?url=CAESdAHEIkXXWIf-0wlOxosDm5LTkvQP9gf7QABKFqG8n8WMWvhTCVdp-ql-rMmQJUmEekRr8WSFa0OY3vqa3XcGCuEDrbw2bL3Rt3zcjsYgMj2Y1qj2qXB4fjA406lCpsf590jeoPBLgTwMrci9Lfqk0LsfVxTT",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHEIkXXPATflcziXFFBHwaRAZC_jKWLug9zpNIDYsAFkcz4CSdS0UDAc3y-90WDCExRGDi1UrX7IpOHEdjDMEzZ6vTNAZfZLVmuRoZvTlbzAKgX1TpYoyBeH5sUtaDnWPHNyGWiHNDwOncJHJvPLtQa2Whu&ved=2ahUKEwizjvK725uYAxW1RjABHR66MzAQFnoECDQQAQ&uoh=1",
+        "displayed_link": "https://jupitrr.com \u203a alternatives \u203a opus-clip-alternatives",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAALVBMVEVHcEwvL9MvL9MvL9MvL9MvL9MvL9QvL9MvL9MvL9MvL9QvL9MvL9MvL9MwMNPw7WowAAAAD3RSTlMASpLI7f8Wo_ZgK-Ozdgs0YCNdAAABPUlEQVR4AVWSgUcDYRiHnyu72NacGIKMHAgSBxjBBaDd7je1Gz6YLGQgZmQwAQxGgIGAmBgAwQEQGQCDof8iXrbTA3i83_t639-H4Z3H6VXAngcZzxhwoLvR--PJSg0Mf5VZdTnPnIm-Zv7P9K7pynHHCnRTyyWp5w7lgEq6mctokS-BsMNYhr4rCfiawSAyce_LcZT5AZRkuHBIqVVVc1GXcbm9pT7Zak-32iIcrguReAnRLCpEVmsTL6YqIEVOKnBxIdJzE8WTDt5YpERBtNsEfmkTNnZjPwPwEurLvnWQpObioEWpW7V5g1zSpHTLUa8mKQM-IgXzIb5ss6YDTpk6CK-PrcloA9UEqLSxEyp7Yb20I3_5kYngWM5iyFz5QnoNyDtgQSXgP8Fb5nZR9s7AC9WgCDuNi7D_f4c_l0-AtYHctcwAAAAASUVORK5CYII.png",
+        "snippet": "Compare six OpusClip alternatives: Vizard, Jupitrr AI, Klap, Munch, Riverside and Submagic. See which AI clipping tool fits your repurposing workflow.",
+        "snippet_highlighted_words": [
+          "Compare",
+          "OpusClip",
+          "Munch",
+          "tool"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Compare six OpusClip alternatives: Vizard, Jupitrr AI, Klap, Munch, Riverside and Submagic. See which AI clipping tool fits your repurposing workflow.",
+            "source_info_link": "https://www.google.com/goto?url=CAESdAHEIkXXWIf-0wlOxosDm5LTkvQP9gf7QABKFqG8n8WMWvhTCVdp-ql-rMmQJUmEekRr8WSFa0OY3vqa3XcGCuEDrbw2bL3Rt3zcjsYgMj2Y1qj2qXB4fjA406lCpsf590jeoPBLgTwMrci9Lfqk0LsfVxTT",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAALVBMVEVHcEwvL9MvL9MvL9MvL9MvL9MvL9QvL9MvL9MvL9MvL9QvL9MvL9MvL9MwMNPw7WowAAAAD3RSTlMASpLI7f8Wo_ZgK-Ozdgs0YCNdAAABPUlEQVR4AVWSgUcDYRiHnyu72NacGIKMHAgSBxjBBaDd7je1Gz6YLGQgZmQwAQxGgIGAmBgAwQEQGQCDof8iXrbTA3i83_t639-H4Z3H6VXAngcZzxhwoLvR--PJSg0Mf5VZdTnPnIm-Zv7P9K7pynHHCnRTyyWp5w7lgEq6mctokS-BsMNYhr4rCfiawSAyce_LcZT5AZRkuHBIqVVVc1GXcbm9pT7Zak-32iIcrguReAnRLCpEVmsTL6YqIEVOKnBxIdJzE8WTDt5YpERBtNsEfmkTNnZjPwPwEurLvnWQpObioEWpW7V5g1zSpHTLUa8mKQM-IgXzIb5ss6YDTpk6CK-PrcloA9UEqLSxEyp7Yb20I3_5kYngWM5iyFz5QnoNyDtgQSXgP8Fb5nZR9s7AC9WgCDuNi7D_f4c_l0-AtYHctcwAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqoBL2dvdG8_dXJsPUNBRVNkQUhFSWtYWFdJZi0wd2xPeG9zRG01TFRrdlFQOWdmN1FBQktGcUc4bjhXTVd2aFRDVmRwLXFsLXJNbVFKVW1FZWtScjhXU0ZhME9ZM3ZxYTNYY0dDdUVEcmJ3MmJMM1J0M3pjanNZZ01qMlkxcWoycVhCNGZqQTQwNmxDcHNmNTkwamVvUEJMZ1R3TXJjaTlMZnFrMExzZlZ4VFQSBBoCCAAagQcSAggAGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkDbBggAEAAYACAAKiAKBG9wdXMVoD66QBoIb3B1c2NsaXAaCWl2O3A7b3B1cyocCgRjbGlwFQwbxEAaBWNsaXBzGghvcHVzY2xpcCoVCgJ2cxVX3J4_GgJvchoGdmVyc3VzKiAKBW11bmNoFY9u0D8aBm11bmljaBoKaXY7cDttdW5jaCoVCgJ2cxXzbhg_GgJvchoGdmVyc3VzKj8KCGluY3Vicml4FQAAAAAaCWluIGN1YnJpeBoJaW5jdSBicml4GglpbmN1YiByaXgaDWl2O3A7aW5jdWJyaXgqGQoBMxWL-kQ8GgQzd2F5Gglmb3IgdGhyZWUqFgoDd2F5FS3e3D0aBDN3YXkaBHdheXMqJAoEdG9vbBXYOZU_Ggd0b29saW5nGg50b29sY29tcGFyaXNvbiprCgpjb21wYXJpc29uFYetuj4aB2NvbXBhcmUaCGNvbXBhcmVkGgtjb21wYXJpc29ucxoKZGlmZmVyZW5jZRoLZGlmZmVyZW5jZXMaBnJldmlldxoHcmV2aWV3cxoOdG9vbGNvbXBhcmlzb24qDAoCYW4VbON-PhoBYTKqAS9nb3RvP3VybD1DQUVTZEFIRUlrWFhXSWYtMHdsT3hvc0RtNUxUa3ZRUDlnZjdRQUJLRnFHOG44V01XdmhUQ1ZkcC1xbC1yTW1RSlVtRWVrUnI4V1NGYTBPWTN2cWEzWGNHQ3VFRHJidzJiTDNSdDN6Y2pzWWdNajJZMXFqMnFYQjRmakE0MDZsQ3BzZjU5MGplb1BCTGdUd01yY2k5TGZxazBMc2ZWeFRUOkNCZXN0IDxiPk9wdXNDbGlwPC9iPiBBbHRlcm5hdGl2ZXMgaW4gMjAyNiAoNiBUb29scyA8Yj5Db21wYXJlZDwvYj4pQrIBPGI-Q29tcGFyZTwvYj4gc2l4IDxiPk9wdXNDbGlwPC9iPiBhbHRlcm5hdGl2ZXM6IFZpemFyZCwgSnVwaXRyciBBSSwgS2xhcCwgPGI-TXVuY2g8L2I-LCBSaXZlcnNpZGUgYW5kIFN1Ym1hZ2ljLiBTZWUgd2hpY2ggQUkgY2xpcHBpbmcgPGI-dG9vbDwvYj4gZml0cyB5b3VyIHJlcHVycG9zaW5nIHdvcmtmbG93LlIBYVICb3IiAhABSAFYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqoBL2dvdG8_dXJsPUNBRVNkQUhFSWtYWFdJZi0wd2xPeG9zRG01TFRrdlFQOWdmN1FBQktGcUc4bjhXTVd2aFRDVmRwLXFsLXJNbVFKVW1FZWtScjhXU0ZhME9ZM3ZxYTNYY0dDdUVEcmJ3MmJMM1J0M3pjanNZZ01qMlkxcWoycVhCNGZqQTQwNmxDcHNmNTkwamVvUEJMZ1R3TXJjaTlMZnFrMExzZlZ4VFQSBBoCCAAagQcSAggAGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkDbBggAEAAYACAAKiAKBG9wdXMVoD66QBoIb3B1c2NsaXAaCWl2O3A7b3B1cyocCgRjbGlwFQwbxEAaBWNsaXBzGghvcHVzY2xpcCoVCgJ2cxVX3J4_GgJvchoGdmVyc3VzKiAKBW11bmNoFY9u0D8aBm11bmljaBoKaXY7cDttdW5jaCoVCgJ2cxXzbhg_GgJvchoGdmVyc3VzKj8KCGluY3Vicml4FQAAAAAaCWluIGN1YnJpeBoJaW5jdSBicml4GglpbmN1YiByaXgaDWl2O3A7aW5jdWJyaXgqGQoBMxWL-kQ8GgQzd2F5Gglmb3IgdGhyZWUqFgoDd2F5FS3e3D0aBDN3YXkaBHdheXMqJAoEdG9vbBXYOZU_Ggd0b29saW5nGg50b29sY29tcGFyaXNvbiprCgpjb21wYXJpc29uFYetuj4aB2NvbXBhcmUaCGNvbXBhcmVkGgtjb21wYXJpc29ucxoKZGlmZmVyZW5jZRoLZGlmZmVyZW5jZXMaBnJldmlldxoHcmV2aWV3cxoOdG9vbGNvbXBhcmlzb24qDAoCYW4VbON-PhoBYTKqAS9nb3RvP3VybD1DQUVTZEFIRUlrWFhXSWYtMHdsT3hvc0RtNUxUa3ZRUDlnZjdRQUJLRnFHOG44V01XdmhUQ1ZkcC1xbC1yTW1RSlVtRWVrUnI4V1NGYTBPWTN2cWEzWGNHQ3VFRHJidzJiTDNSdDN6Y2pzWWdNajJZMXFqMnFYQjRmakE0MDZsQ3BzZjU5MGplb1BCTGdUd01yY2k5TGZxazBMc2ZWeFRUOkNCZXN0IDxiPk9wdXNDbGlwPC9iPiBBbHRlcm5hdGl2ZXMgaW4gMjAyNiAoNiBUb29scyA8Yj5Db21wYXJlZDwvYj4pQrIBPGI-Q29tcGFyZTwvYj4gc2l4IDxiPk9wdXNDbGlwPC9iPiBhbHRlcm5hdGl2ZXM6IFZpemFyZCwgSnVwaXRyciBBSSwgS2xhcCwgPGI-TXVuY2g8L2I-LCBSaXZlcnNpZGUgYW5kIFN1Ym1hZ2ljLiBTZWUgd2hpY2ggQUkgY2xpcHBpbmcgPGI-dG9vbDwvYj4gZml0cyB5b3VyIHJlcHVycG9zaW5nIHdvcmtmbG93LlIBYVICb3IiAhABSAFYAGgA",
+        "source": "Jupitrr AI"
+      },
+      {
+        "position": 7,
+        "title": "Opus Clip vs Munch vs Vizard 2026 - InfluencerAI",
+        "link": "https://www.google.com/goto?url=CAESgAEBxCJF19x0-1-R3dqoL2PFO6Obhs4GZBmrTD8GCAekjOPY6ALVNnkMEkw6HRoA-Rbc2eF3zv6RID3bQRxiV6dr_turlkbI0-rxJG0Pah31OC09fVC3lS54cZiBGkYp2l073PQimzhq1g8w-b-eL6pvpuYUvGgH8SGOV1ng7_QrGw",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEBxCJF1_lX8ZojeVuz0qy3DoceEl-XduROY-mW4gK3L0dH54MRQVdnImPI7ed0x8S4dbm47rxL9cGUlwuomM3kKJPIcEzUqS0RZUQqiJyNKN306lB5Ju-mvSTPSf-L4J9KnjC-VKb3qZ5GtpNS3c0etB7JdOLI36j21wQH3X0wCg&ved=2ahUKEwizjvK725uYAxW1RjABHR66MzAQFnoECDEQAQ&uoh=1",
+        "displayed_link": "https://influenceraiagents.com \u203a Compare",
+        "snippet": "We compare pricing, features, clip quality, and help you pick the right tool for your needs. Best Overall: Opus Clip. Best for Teams: Munch. Best Value: Vizard.",
+        "snippet_highlighted_words": [
+          "Best Overall: Opus Clip"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "We compare pricing, features, clip quality, and help you pick the right tool for your needs. Best Overall: Opus Clip. Best for Teams: Munch. Best Value: Vizard.",
+            "source_info_link": "https://www.google.com/goto?url=CAESgAEBxCJF19x0-1-R3dqoL2PFO6Obhs4GZBmrTD8GCAekjOPY6ALVNnkMEkw6HRoA-Rbc2eF3zv6RID3bQRxiV6dr_turlkbI0-rxJG0Pah31OC09fVC3lS54cZiBGkYp2l073PQimzhq1g8w-b-eL6pvpuYUvGgH8SGOV1ng7_QrGw"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrwBL2dvdG8_dXJsPUNBRVNnQUVCeENKRjE5eDAtMS1SM2Rxb0wyUEZPNk9iaHM0R1pCbXJURDhHQ0Fla2pPUFk2QUxWTm5rTUVrdzZIUm9BLVJiYzJlRjN6djZSSUQzYlFSeGlWNmRyX3R1cmxrYkkwLXJ4SkcwUGFoMzFPQzA5ZlZDM2xTNTRjWmlCR2tZcDJsMDczUFFpbXpocTFnOHctYi1lTDZwdnB1WVV2R2dIOFNHT1Yxbmc3X1FyR3cSBBoCCAAa-gYSABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJA1gYIABAAGAAgACogCgRvcHVzFYDy8UAaCG9wdXNjbGlwGglpdjtwO29wdXMqHAoEY2xpcBVRIgVBGgVjbGlwcxoIb3B1c2NsaXAqFQoCdnMVkjbRQBoCb3IaBnZlcnN1cyogCgVtdW5jaBUUzdtAGgZtdW5pY2gaCml2O3A7bXVuY2gqFQoCdnMVkjbRQBoCb3IaBnZlcnN1cyo_CghpbmN1YnJpeBUAAAAAGglpbiBjdWJyaXgaCWluY3UgYnJpeBoJaW5jdWIgcml4Gg1pdjtwO2luY3Vicml4KhkKATMVCeSlPhoEM3dheRoJZm9yIHRocmVlKhYKA3dheRUAAAAAGgQzd2F5GgR3YXlzKiQKBHRvb2wVmPg4QBoHdG9vbGluZxoOdG9vbGNvbXBhcmlzb24qawoKY29tcGFyaXNvbhW1ZY8_Ggdjb21wYXJlGghjb21wYXJlZBoLY29tcGFyaXNvbnMaCmRpZmZlcmVuY2UaC2RpZmZlcmVuY2VzGgZyZXZpZXcaB3Jldmlld3MaDnRvb2xjb21wYXJpc29uKgwKAmFuFbHnJj8aAWEyvAEvZ290bz91cmw9Q0FFU2dBRUJ4Q0pGMTl4MC0xLVIzZHFvTDJQRk82T2JoczRHWkJtclREOEdDQWVrak9QWTZBTFZObmtNRWt3NkhSb0EtUmJjMmVGM3p2NlJJRDNiUVJ4aVY2ZHJfdHVybGtiSTAtcnhKRzBQYWgzMU9DMDlmVkMzbFM1NGNaaUJHa1lwMmwwNzNQUWltemhxMWc4dy1iLWVMNnB2cHVZVXZHZ0g4U0dPVjFuZzdfUXJHdzo3PGI-T3B1cyBDbGlwIHZzIE11bmNoIHZzPC9iPiBWaXphcmQgMjAyNiAtIEluZmx1ZW5jZXJBSUKnAVdlIGNvbXBhcmUgcHJpY2luZywgZmVhdHVyZXMsIGNsaXAgcXVhbGl0eSwgYW5kIGhlbHAgeW91IHBpY2sgdGhlIHJpZ2h0IHRvb2wgZm9yIHlvdXIgbmVlZHMuIDxiPkJlc3QgT3ZlcmFsbDogT3B1cyBDbGlwPC9iPi4gQmVzdCBmb3IgVGVhbXM6IE11bmNoLiBCZXN0IFZhbHVlOiBWaXphcmQuUgFhUgJvciICEAFIAVgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrwBL2dvdG8_dXJsPUNBRVNnQUVCeENKRjE5eDAtMS1SM2Rxb0wyUEZPNk9iaHM0R1pCbXJURDhHQ0Fla2pPUFk2QUxWTm5rTUVrdzZIUm9BLVJiYzJlRjN6djZSSUQzYlFSeGlWNmRyX3R1cmxrYkkwLXJ4SkcwUGFoMzFPQzA5ZlZDM2xTNTRjWmlCR2tZcDJsMDczUFFpbXpocTFnOHctYi1lTDZwdnB1WVV2R2dIOFNHT1Yxbmc3X1FyR3cSBBoCCAAa-gYSABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJA1gYIABAAGAAgACogCgRvcHVzFYDy8UAaCG9wdXNjbGlwGglpdjtwO29wdXMqHAoEY2xpcBVRIgVBGgVjbGlwcxoIb3B1c2NsaXAqFQoCdnMVkjbRQBoCb3IaBnZlcnN1cyogCgVtdW5jaBUUzdtAGgZtdW5pY2gaCml2O3A7bXVuY2gqFQoCdnMVkjbRQBoCb3IaBnZlcnN1cyo_CghpbmN1YnJpeBUAAAAAGglpbiBjdWJyaXgaCWluY3UgYnJpeBoJaW5jdWIgcml4Gg1pdjtwO2luY3Vicml4KhkKATMVCeSlPhoEM3dheRoJZm9yIHRocmVlKhYKA3dheRUAAAAAGgQzd2F5GgR3YXlzKiQKBHRvb2wVmPg4QBoHdG9vbGluZxoOdG9vbGNvbXBhcmlzb24qawoKY29tcGFyaXNvbhW1ZY8_Ggdjb21wYXJlGghjb21wYXJlZBoLY29tcGFyaXNvbnMaCmRpZmZlcmVuY2UaC2RpZmZlcmVuY2VzGgZyZXZpZXcaB3Jldmlld3MaDnRvb2xjb21wYXJpc29uKgwKAmFuFbHnJj8aAWEyvAEvZ290bz91cmw9Q0FFU2dBRUJ4Q0pGMTl4MC0xLVIzZHFvTDJQRk82T2JoczRHWkJtclREOEdDQWVrak9QWTZBTFZObmtNRWt3NkhSb0EtUmJjMmVGM3p2NlJJRDNiUVJ4aVY2ZHJfdHVybGtiSTAtcnhKRzBQYWgzMU9DMDlmVkMzbFM1NGNaaUJHa1lwMmwwNzNQUWltemhxMWc4dy1iLWVMNnB2cHVZVXZHZ0g4U0dPVjFuZzdfUXJHdzo3PGI-T3B1cyBDbGlwIHZzIE11bmNoIHZzPC9iPiBWaXphcmQgMjAyNiAtIEluZmx1ZW5jZXJBSUKnAVdlIGNvbXBhcmUgcHJpY2luZywgZmVhdHVyZXMsIGNsaXAgcXVhbGl0eSwgYW5kIGhlbHAgeW91IHBpY2sgdGhlIHJpZ2h0IHRvb2wgZm9yIHlvdXIgbmVlZHMuIDxiPkJlc3QgT3ZlcmFsbDogT3B1cyBDbGlwPC9iPi4gQmVzdCBmb3IgVGVhbXM6IE11bmNoLiBCZXN0IFZhbHVlOiBWaXphcmQuUgFhUgJvciICEAFIAVgAaAA",
+        "source": "influenceraiagents.com",
+        "read_more_link": "https://www.google.com/goto?url=CAES0QEBxCJF1xsKzUvTNZmp_VXMLVbhUfiyPPI_DEdRT5cxssLXQM9aNIDAxs1npQTBNbpyUuGhhFk35GmupzTx9eZIOzJSx5Xc09oncsUiEbfvwPcJ3h0drR7l_Hrkd3OkCsAG-RqniLfuRtZlVabIWZbAEx0e-CXlkkNYGmzkQc87XCXU7wmI3e5ryfZY3oPdWm9GmUSnxhQiCQ4OK08wAcW6q2Z05DeRGud3-y_iK9D5MD4P-QlgdTD6FnEVp_B2fwEkG1XXuuaqeuO_NH5Wt1KRJQ&gsessionid=UJQz-CETs4xe4OwZcIcTsvuGtHutCE1gwnj5SwsWxW61ilaqKYVl0Q"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=Opus+Clip+vs+Munch+vs+IncuBrix+3-way+tool+comparison&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDi_Z1OXEFc5Of8S8tAgVfEgZFc79Q:1795355242701&ei=avICa7OxKrWNwbkPnvTOgQM&start=10&sa=N&sstk=AYl2yk-aYC6Qb3MNYvGXVAl2ptddOnpVIJ1cLCfkh3II6SFYwjwyKLcS0WX2uDC-4i1MpQ6D_HO4TYm6TSHzc4VfTeUpJqYLnB78eA&ved=2ahUKEwizjvK725uYAxW1RjABHR66MzAQ8NMDegQILBAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=Opus+Clip+vs+Munch+vs+IncuBrix+3-way+tool+comparison&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDi_Z1OXEFc5Of8S8tAgVfEgZFc79Q:1795355242701&ei=avICa7OxKrWNwbkPnvTOgQM&start=10&sa=N&sstk=AYl2yk-aYC6Qb3MNYvGXVAl2ptddOnpVIJ1cLCfkh3II6SFYwjwyKLcS0WX2uDC-4i1MpQ6D_HO4TYm6TSHzc4VfTeUpJqYLnB78eA&ved=2ahUKEwizjvK725uYAxW1RjABHR66MzAQ8tMDegQILBAE",
+        "3": "https://www.google.com/search?q=Opus+Clip+vs+Munch+vs+IncuBrix+3-way+tool+comparison&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDi_Z1OXEFc5Of8S8tAgVfEgZFc79Q:1795355242701&ei=avICa7OxKrWNwbkPnvTOgQM&start=20&sa=N&sstk=AYl2yk-aYC6Qb3MNYvGXVAl2ptddOnpVIJ1cLCfkh3II6SFYwjwyKLcS0WX2uDC-4i1MpQ6D_HO4TYm6TSHzc4VfTeUpJqYLnB78eA&ved=2ahUKEwizjvK725uYAxW1RjABHR66MzAQ8tMDegQILBAG",
+        "4": "https://www.google.com/search?q=Opus+Clip+vs+Munch+vs+IncuBrix+3-way+tool+comparison&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDi_Z1OXEFc5Of8S8tAgVfEgZFc79Q:1795355242701&ei=avICa7OxKrWNwbkPnvTOgQM&start=30&sa=N&sstk=AYl2yk-aYC6Qb3MNYvGXVAl2ptddOnpVIJ1cLCfkh3II6SFYwjwyKLcS0WX2uDC-4i1MpQ6D_HO4TYm6TSHzc4VfTeUpJqYLnB78eA&ved=2ahUKEwizjvK725uYAxW1RjABHR66MzAQ8tMDegQILBAI",
+        "5": "https://www.google.com/search?q=Opus+Clip+vs+Munch+vs+IncuBrix+3-way+tool+comparison&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDi_Z1OXEFc5Of8S8tAgVfEgZFc79Q:1795355242701&ei=avICa7OxKrWNwbkPnvTOgQM&start=40&sa=N&sstk=AYl2yk-aYC6Qb3MNYvGXVAl2ptddOnpVIJ1cLCfkh3II6SFYwjwyKLcS0WX2uDC-4i1MpQ6D_HO4TYm6TSHzc4VfTeUpJqYLnB78eA&ved=2ahUKEwizjvK725uYAxW1RjABHR66MzAQ8tMDegQILBAK",
+        "6": "https://www.google.com/search?q=Opus+Clip+vs+Munch+vs+IncuBrix+3-way+tool+comparison&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDi_Z1OXEFc5Of8S8tAgVfEgZFc79Q:1795355242701&ei=avICa7OxKrWNwbkPnvTOgQM&start=50&sa=N&sstk=AYl2yk-aYC6Qb3MNYvGXVAl2ptddOnpVIJ1cLCfkh3II6SFYwjwyKLcS0WX2uDC-4i1MpQ6D_HO4TYm6TSHzc4VfTeUpJqYLnB78eA&ved=2ahUKEwizjvK725uYAxW1RjABHR66MzAQ8tMDegQILBAM",
+        "7": "https://www.google.com/search?q=Opus+Clip+vs+Munch+vs+IncuBrix+3-way+tool+comparison&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDi_Z1OXEFc5Of8S8tAgVfEgZFc79Q:1795355242701&ei=avICa7OxKrWNwbkPnvTOgQM&start=60&sa=N&sstk=AYl2yk-aYC6Qb3MNYvGXVAl2ptddOnpVIJ1cLCfkh3II6SFYwjwyKLcS0WX2uDC-4i1MpQ6D_HO4TYm6TSHzc4VfTeUpJqYLnB78eA&ved=2ahUKEwizjvK725uYAxW1RjABHR66MzAQ8tMDegQILBAO",
+        "8": "https://www.google.com/search?q=Opus+Clip+vs+Munch+vs+IncuBrix+3-way+tool+comparison&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDi_Z1OXEFc5Of8S8tAgVfEgZFc79Q:1795355242701&ei=avICa7OxKrWNwbkPnvTOgQM&start=70&sa=N&sstk=AYl2yk-aYC6Qb3MNYvGXVAl2ptddOnpVIJ1cLCfkh3II6SFYwjwyKLcS0WX2uDC-4i1MpQ6D_HO4TYm6TSHzc4VfTeUpJqYLnB78eA&ved=2ahUKEwizjvK725uYAxW1RjABHR66MzAQ8tMDegQILBAQ",
+        "9": "https://www.google.com/search?q=Opus+Clip+vs+Munch+vs+IncuBrix+3-way+tool+comparison&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDi_Z1OXEFc5Of8S8tAgVfEgZFc79Q:1795355242701&ei=avICa7OxKrWNwbkPnvTOgQM&start=80&sa=N&sstk=AYl2yk-aYC6Qb3MNYvGXVAl2ptddOnpVIJ1cLCfkh3II6SFYwjwyKLcS0WX2uDC-4i1MpQ6D_HO4TYm6TSHzc4VfTeUpJqYLnB78eA&ved=2ahUKEwizjvK725uYAxW1RjABHR66MzAQ8tMDegQILBAS",
+        "10": "https://www.google.com/search?q=Opus+Clip+vs+Munch+vs+IncuBrix+3-way+tool+comparison&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDi_Z1OXEFc5Of8S8tAgVfEgZFc79Q:1795355242701&ei=avICa7OxKrWNwbkPnvTOgQM&start=90&sa=N&sstk=AYl2yk-aYC6Qb3MNYvGXVAl2ptddOnpVIJ1cLCfkh3II6SFYwjwyKLcS0WX2uDC-4i1MpQ6D_HO4TYm6TSHzc4VfTeUpJqYLnB78eA&ved=2ahUKEwizjvK725uYAxW1RjABHR66MzAQ8tMDegQILBAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Opus+Clip+vs+Munch+vs+IncuBrix+3-way+tool+comparison&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Opus+Clip+vs+Munch+vs+IncuBrix+3-way+tool+comparison&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Opus+Clip+vs+Munch+vs+IncuBrix+3-way+tool+comparison&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Opus+Clip+vs+Munch+vs+IncuBrix+3-way+tool+comparison&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Opus+Clip+vs+Munch+vs+IncuBrix+3-way+tool+comparison&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Opus+Clip+vs+Munch+vs+IncuBrix+3-way+tool+comparison&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Opus+Clip+vs+Munch+vs+IncuBrix+3-way+tool+comparison&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Opus+Clip+vs+Munch+vs+IncuBrix+3-way+tool+comparison&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Opus+Clip+vs+Munch+vs+IncuBrix+3-way+tool+comparison&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Opus+Clip+vs+Munch+vs+IncuBrix+3-way+tool+comparison&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Opus+Clip+vs+Munch+vs+IncuBrix+3-way+tool+comparison&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

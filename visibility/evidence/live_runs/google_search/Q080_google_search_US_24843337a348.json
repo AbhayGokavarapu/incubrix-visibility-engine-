@@ -1,0 +1,537 @@
+{
+  "measurement_id": "24843337a348",
+  "question_id": "Q080",
+  "timestamp_utc": "2026-11-22T13:50:15.419902+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "How to protect your voice clone from unauthorized use in video AI",
+  "market": "US",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://www.reddit.com/r/ArtificialInteligence/comments/1cf0jyv/how_to_protect_my_voice_from_ai/",
+    "https://www.youtube.com/watch?v=Jo5nIjales4",
+    "https://www.google.com/goto?url=CAESigEBxCJF15CUUB9PC7XF0NVcl4p4t6sCyls81jlL62jRC0wGgRiQ24owsic6C0sxniT4OjuDH8h9C91YqRn8o0qwmWpkn7BmyFEccRtgpCXyyonVDaXwP9AtCVCPUqvNGy1lB1-mg32NRBQX4j-NKu_Ud9HAOMMkNNZMnCy7vRU5pN5r9MBz1xsSGBU",
+    "https://www.google.com/goto?url=CAESvwEBxCJF1xt2C5fKz6NRhlG-lDzKgg4TgX9Kv5aYvmVnNtxIucHP_2ZzaXHzIdXg9zJipZnv6I4AQ1lNG47_IYgKwVKpNaIokmb6197eRrC1_OFj8fBzCAN2zeNSblRzpBlLhSLcb-EdPZxnlxY2MWI38zZShj_nD0wQ9Jh51XUgs1IPESWUCkcwWqpw2hPQpygWtMCdl_39gs-h5tnL8is5aO29aX9xbnQUFccRpl-qTpm4dAM_aEgLMW_1Qf6U7w",
+    "https://www.google.com/goto?url=CAESyAEBxCJF1wB55LUxiOtEwoaBW7AGaOqo6_toIfSWNLi-uGe1jK2_eEVCpmLAeVVG6EjB8zKxnMn3Da5OhAxVY5n_Ax8RK-kn-MRhOK7dYqM6Hy-ZFxRnKw-ioPmwtHbLVoKw7bnVpMR48pU5zgw-teJxEjVnOJS4QPeiFsGLmZ2L2jOaQptoA2sDnB3YctjP3DLqukE-d4oTCKdcIc8Yb9YpYaDEgeVFERdGHMrA5wtXseXhNvaokHfgwevjXnQYldjHk_5cTz1o-w",
+    "https://www.google.com/goto?url=CAESkgEBxCJF150_Wces-BPVP3S1JY67SMC5Ho6fbzBJj-ryTfh8mY8Ma-gRssD9uzGzqu4nsX8nDF-y9u_ItM4TnwHf3qtyjNj5vwNCBuYhqLkOI60NLqc4dn5KX4-VyYj5OL0yU0ayppy707unkcSHT3iVxVf88RptgMmI7FmYaA8efVSyYYrBq-iQQ82vp2keBlwtOg",
+    "https://www.google.com/goto?url=CAESigEBxCJF1zuEzlm-YbtCljhkEmA-g6Ys6MocOsOCiILIh4XpZPvLNh0gTh9Q5olmiFQDUTh4Hq08YXxafb5moA8iS-3vDsV67kzyy1VknfIXS52xe59Ux-PvhuYpEiuSh3Hr0DlPOlwPZW_owo3w0hRN5s_sxDi1ZxujKwkCEO-n_q6xZoAZ7aRUu3Y",
+    "https://www.google.com/goto?url=CAESmAEBxCJF10IaEpIJUxWyWiFjMdUsCSVrztu6ROSqZNNymm3xxsHLM1hdpjt0tYA7Kdh-w04AGNXxS8Lyv-7hv6X0roiaafgoJAKogCW_W0YelB3LovY2tnJI50mNuppTOxq84U2bFDLOCD1JJ3sa7BlhD3V-0Q55R2ZsyfUHVETZ4hy_4tyFXYiMbmnOfKKKRAIHRH6TmHipTw"
+  ],
+  "raw_text_summary": "How to protect my voice from AI? : r/ArtificialInteligence Hi, I'm considering on starting a podcast, yet I'm concerned that my voice will be cloned with out my permission and used in potentially nefarious ways ... Protect Yourself From AI Voice Cloning: A Guide for Performers Watch this guide to learn how you can safeguard your vocal identity and creative work. In this video, we'll discuss the potential risks of AI ... Five Ways to Protect Your Voice from AI Voice Cloning ... 1. Switch to automated voicemail messages. 2. Create a family safe word. 3. Limit social media recordings. Avoid voice biometric verification. ... AI Voice Cloning Scams: Detection and Prevention Guide Protecting against AI voice cloning scams requires reducing personal audio exposure and establishing verification practices prior to any ... How to Protect Your Music from AI Cloning (2026) To protect your music from AI cloning in 2026: register all recordings with the U.S. Copyright Office, embed metadata watermarks in your masters ... How to Sue for Unauthorized Voice Cloning in 2026 Learn how to file an unauthorized voice cloning lawsuit in 2026 using Soundverse Trace for voice rights enforcement. How to Protect Your Voice in the Age of AI Cloning How to Protect Your Voice in the Age of AI Cloning \u00b7 1. Think Twice Before Sharing Your Voice \u00b7 2. A Secret Word Can Save You from Scams \u00b7 3. AI Voice Cloning: How to Protect Your Professional Voice 1. Control the Distribution of Your Recordings. The first step is to manage how your audio files are shared. \u00b7 2. Use Technical Protection Tools.",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f315f29655e246aaa908",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/MzHZqDrIw2KfnPiuqIVWvwZnHDscWxegQDuJ8d8YAJY/6b02f315f29655e246aaa908.json",
+      "markdown_endpoint": "https://serpapi.com/searches/MzHZqDrIw2KfnPiuqIVWvwZnHDscWxegQDuJ8d8YAJY/6b02f315f29655e246aaa908.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/MzHZqDrIw2KfnPiuqIVWvwZnHDscWxegQDuJ8d8YAJY/6b02f315f29655e246aaa908.json_with_pixel_position",
+      "created_at": "2026-11-22 13:50:13 UTC",
+      "processed_at": "2026-11-22 13:50:13 UTC",
+      "google_url": "https://www.google.com/search?q=How+to+protect+your+voice+clone+from+unauthorized+use+in+video+AI&oq=How+to+protect+your+voice+clone+from+unauthorized+use+in+video+AI&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/MzHZqDrIw2KfnPiuqIVWvwZnHDscWxegQDuJ8d8YAJY/6b02f315f29655e246aaa908.html",
+      "total_time_taken": 1.0
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "How to protect your voice clone from unauthorized use in video AI",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "How to protect your voice clone from unauthorized use in video AI",
+      "total_results": 129,
+      "time_taken_displayed": 0.39,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+      {
+        "question": "How to protect against AI voice cloning?",
+        "type": "ai_overview",
+        "page_token": "kr8hiHicHdDdbeIwAABgXXe4FfpYcAJUIKFKoXaAEgc7sZ34pUrsgGmcHyAlhcfO0qcOcwPcGl3gpPtG-D6_7KEu__66mK5rz7PBoO_7h33T7G3xoJpqkJ2vtRqozNo8U-Vs8jgBTzs1h-8rb3FceYRRmFptBW9HqeVQlp3diDFKHL0JfBCmrK1lYqOoWjnYkiG5rUHqTBG3HlE-PWl_1Et3PWFi3-vEnFjNFyFCC3IAW5E0LrnRpXwzPHgzUZTIifK7lzw2rRyaW4z0NXBtlC-xm1d8LGJeYccEEZ-aULSRhPilgNrJl-11w9Cl4DQOn6nPy_KWcjzKanzkiI9JhYAQcBRDvk2ZrrH4oNBoX5bgOeXTQ1SCq054G0NAVLXekhpT7DUHwkwYQObSYXfMfXBW1tsUlX3PgREMKDdAashd5UhLl7q_36nL3L3__zl_3VXdrD01-291KrKu0K9Z96e8-_n9DyjiiUw",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=kr8hiHicHdDdbeIwAABgXXe4FfpYcAJUIKFKoXaAEgc7sZ34pUrsgGmcHyAlhcfO0qcOcwPcGl3gpPtG-D6_7KEu__66mK5rz7PBoO_7h33T7G3xoJpqkJ2vtRqozNo8U-Vs8jgBTzs1h-8rb3FceYRRmFptBW9HqeVQlp3diDFKHL0JfBCmrK1lYqOoWjnYkiG5rUHqTBG3HlE-PWl_1Et3PWFi3-vEnFjNFyFCC3IAW5E0LrnRpXwzPHgzUZTIifK7lzw2rRyaW4z0NXBtlC-xm1d8LGJeYccEEZ-aULSRhPilgNrJl-11w9Cl4DQOn6nPy_KWcjzKanzkiI9JhYAQcBRDvk2ZrrH4oNBoX5bgOeXTQ1SCq054G0NAVLXekhpT7DUHwkwYQObSYXfMfXBW1tsUlX3PgREMKDdAashd5UhLl7q_36nL3L3__zl_3VXdrD01-291KrKu0K9Z96e8-_n9DyjiiUw",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYU5HMXZkVzQzY0RONlZWaENkREJZWldNME9GSTNhWHA2YXpOM1YwZEpiR0pmTTFsVlYxRkpiMHB1Y0c0NWRGSjZhSEJyVTNaVVREaDZURTFtWVVrM05GOTBaWGhJVW5JeVluTmhRVTltVDNFd2JXUmtXazV3Y2pCRVVSSVhSbVpOUTJGZllrcE5jblYxYVV4TlVISmlUMEp6VVRRYUlrRklUakJGTjBaVVduY3pXaTE0YjFkTGFGWTNTR3RDVTBaM05sUkVhREY2VFVFIiwiZmN2IjoiMyIsImVpIjoiRmZNQ2FfYkpNcnV1aUxNUHJiT0JzUTQiLCJxYyI6ImN3WEJRUTVBTUJBRlVDc0xLMGY0TnhGSGFkcWhrOUF2bzFNaGNXZEg4TjR3WjE2b3hHR3NFaXR1dXFGUm95QnVMSUxGdU1OTDhKcHAta2lDbndJdGFKcUVDRHAyNzdmMjB3OCIsInF1ZXN0aW9uIjoiSG93IHRvIHByb3RlY3QgYWdhaW5zdCBBSSB2b2ljZSBjbG9uaW5nPyIsImxrIjoiR2lkb2IzY2dkRzhnY0hKdmRHVmpkQ0JoWjJGcGJuTjBJR0ZwSUhadmFXTmxJR05zYjI1cGJtYyIsImJzIjoiYy1NSzVkTHd5QzlYS01sWEtDaktMMGxOTGxGSVRFX016Q3N1VVhEMFZDakx6MHhPVlVqT3ljX0x6RXUzTjlLVVVzX0Fyall4RTFVdEY3S3hxV1dwZVdEajBvcnljeFZLaTRIeUNwWDVwVVVRTGFqR1F0UUNqY09xbGl1WVM5MDVNUThrQXJZcFZhRTRQemNWU0tzWFEtMkg2SEQwdERmU2tGSkxKa0pwWWlhWE01YzgxSzBwcVdCZllmcGNRVW91QTBVSnVvY0ZHQUUiLCJpZCI6ImZjX0ZmTUNhX2JKTXJ1dWlMTVByYk9Cc1E0XzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYU5HMXZkVzQzY0RONlZWaENkREJZWldNME9GSTNhWHA2YXpOM1YwZEpiR0pmTTFsVlYxRkpiMHB1Y0c0NWRGSjZhSEJyVTNaVVREaDZURTFtWVVrM05GOTBaWGhJVW5JeVluTmhRVTltVDNFd2JXUmtXazV3Y2pCRVVSSVhSbVpOUTJGZllrcE5jblYxYVV4TlVISmlUMEp6VVRRYUlrRklUakJGTjBaVVduY3pXaTE0YjFkTGFGWTNTR3RDVTBaM05sUkVhREY2VFVFIiwiZmN2IjoiMyIsImVpIjoiRmZNQ2FfYkpNcnV1aUxNUHJiT0JzUTQiLCJxYyI6ImN3WEJRUTVBTUJBRlVDc0xLMGY0TnhGSGFkcWhrOUF2bzFNaGNXZEg4TjR3WjE2b3hHR3NFaXR1dXFGUm95QnVMSUxGdU1OTDhKcHAta2lDbndJdGFKcUVDRHAyNzdmMjB3OCIsInF1ZXN0aW9uIjoiSG93IHRvIHByb3RlY3QgYWdhaW5zdCBBSSB2b2ljZSBjbG9uaW5nPyIsImxrIjoiR2lkb2IzY2dkRzhnY0hKdmRHVmpkQ0JoWjJGcGJuTjBJR0ZwSUhadmFXTmxJR05zYjI1cGJtYyIsImJzIjoiYy1NSzVkTHd5QzlYS01sWEtDaktMMGxOTGxGSVRFX016Q3N1VVhEMFZDakx6MHhPVlVqT3ljX0x6RXUzTjlLVVVzX0Fyall4RTFVdEY3S3hxV1dwZVdEajBvcnljeFZLaTRIeUNwWDVwVVVRTGFqR1F0UUNqY09xbGl1WVM5MDVNUThrQXJZcFZhRTRQemNWU0tzWFEtMkg2SEQwdERmU2tGSkxKa0pwWWlhWE01YzgxSzBwcVdCZllmcGNRVW91QTBVSnVvY0ZHQUUiLCJpZCI6ImZjX0ZmTUNhX2JKTXJ1dWlMTVByYk9Cc1E0XzUifQ%3D%3D"
+      },
+      {
+        "question": "How to prevent AI from using your voice?",
+        "type": "ai_overview",
+        "page_token": "l6AgtXicHdBBcpswGEDhae_QK2QZo2C7g2c8nSGRqN1aDsK_BNpkZGEbIiGIrYTAsmfpKofJAXqNXqCZvv23eb9-29qZP59eKu-7y2Iy6fv--tS2J3u41m0zUZfB6YlW1u6VNov51zn6dtRL_LyKb59WcQoMF7a0hWC5QsV0H5JQBuuamcjpOyrkyG73iKxVWE0zUhVpEyl-k3oVUKS_M7sbdagDSwC_wkdDlvShRqsZENlIG80PCcoBXn8Ig0Ym1vc7sE9ZMMs0bGaKWyP4KSwADzSJeupiDI01W0FJ-ijPH3YuEkrYY1XnY1zvRvmT5qwBQiEDytgNvfCg8CW325SzbotLAy7mylUOV2UiDboreFRnBg1lzrsdRqlu1vepo4zGbZ1Ctd1gCBm3PUuMBzEdyoB1G1EpNRLJ85hQVyUSg5f91VG_LMOr_z-XD8fGL7pze3rT54Pyh_JB-Xfz-e-Xf2QaiY8",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=l6AgtXicHdBBcpswGEDhae_QK2QZo2C7g2c8nSGRqN1aDsK_BNpkZGEbIiGIrYTAsmfpKofJAXqNXqCZvv23eb9-29qZP59eKu-7y2Iy6fv--tS2J3u41m0zUZfB6YlW1u6VNov51zn6dtRL_LyKb59WcQoMF7a0hWC5QsV0H5JQBuuamcjpOyrkyG73iKxVWE0zUhVpEyl-k3oVUKS_M7sbdagDSwC_wkdDlvShRqsZENlIG80PCcoBXn8Ig0Ym1vc7sE9ZMMs0bGaKWyP4KSwADzSJeupiDI01W0FJ-ijPH3YuEkrYY1XnY1zvRvmT5qwBQiEDytgNvfCg8CW325SzbotLAy7mylUOV2UiDboreFRnBg1lzrsdRqlu1vepo4zGbZ1Ctd1gCBm3PUuMBzEdyoB1G1EpNRLJ85hQVyUSg5f91VG_LMOr_z-XD8fGL7pze3rT54Pyh_JB-Xfz-e-Xf2QaiY8",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYU5HMXZkVzQzY0RONlZWaENkREJZWldNME9GSTNhWHA2YXpOM1YwZEpiR0pmTTFsVlYxRkpiMHB1Y0c0NWRGSjZhSEJyVTNaVVREaDZURTFtWVVrM05GOTBaWGhJVW5JeVluTmhRVTltVDNFd2JXUmtXazV3Y2pCRVVSSVhSbVpOUTJGZllrcE5jblYxYVV4TlVISmlUMEp6VVRRYUlrRklUakJGTjBaVVduY3pXaTE0YjFkTGFGWTNTR3RDVTBaM05sUkVhREY2VFVFIiwiZmN2IjoiMyIsImVpIjoiRmZNQ2FfYkpNcnV1aUxNUHJiT0JzUTQiLCJxYyI6ImN3WEJRUTVBTUJBRlVDc0xLMGY0TnhGSGFkcWhrOUF2bzFNaGNXZEg4TjR3WjE2b3hHR3NFaXR1dXFGUm95QnVMSUxGdU1OTDhKcHAta2lDbndJdGFKcUVDRHAyNzdmMjB3OCIsInF1ZXN0aW9uIjoiSG93IHRvIHByZXZlbnQgQUkgZnJvbSB1c2luZyB5b3VyIHZvaWNlPyIsImxrIjoiR2lkb2IzY2dkRzhnY0hKbGRtVnVkQ0JoYVNCbWNtOXRJSFZ6YVc1bklIbHZkWElnZG05cFkyVSIsImJzIjoiYy1NSzVkTHd5QzlYS01sWEtDaktMMGxOTGxGSVRFX016Q3N1VVhEMFZDakx6MHhPVlVqT3ljX0x6RXUzTjlLVVVzX0Fyall4RTFVdEY3S3hxV1dwZVdEajBvcnljeFZLaTRIeUNwWDVwVVVRTGFqR1F0UUNqY09xbGl1WVM5MDVNUThrQXJZcFZhRTRQemNWU0tzWFEtMkg2SEQwdERmU2tGSkxKa0pwWWlhWE01YzgxSzBwcVdCZllmcGNRVW91QTBVSnVvY0ZHQUUiLCJpZCI6ImZjX0ZmTUNhX2JKTXJ1dWlMTVByYk9Cc1E0XzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYU5HMXZkVzQzY0RONlZWaENkREJZWldNME9GSTNhWHA2YXpOM1YwZEpiR0pmTTFsVlYxRkpiMHB1Y0c0NWRGSjZhSEJyVTNaVVREaDZURTFtWVVrM05GOTBaWGhJVW5JeVluTmhRVTltVDNFd2JXUmtXazV3Y2pCRVVSSVhSbVpOUTJGZllrcE5jblYxYVV4TlVISmlUMEp6VVRRYUlrRklUakJGTjBaVVduY3pXaTE0YjFkTGFGWTNTR3RDVTBaM05sUkVhREY2VFVFIiwiZmN2IjoiMyIsImVpIjoiRmZNQ2FfYkpNcnV1aUxNUHJiT0JzUTQiLCJxYyI6ImN3WEJRUTVBTUJBRlVDc0xLMGY0TnhGSGFkcWhrOUF2bzFNaGNXZEg4TjR3WjE2b3hHR3NFaXR1dXFGUm95QnVMSUxGdU1OTDhKcHAta2lDbndJdGFKcUVDRHAyNzdmMjB3OCIsInF1ZXN0aW9uIjoiSG93IHRvIHByZXZlbnQgQUkgZnJvbSB1c2luZyB5b3VyIHZvaWNlPyIsImxrIjoiR2lkb2IzY2dkRzhnY0hKbGRtVnVkQ0JoYVNCbWNtOXRJSFZ6YVc1bklIbHZkWElnZG05cFkyVSIsImJzIjoiYy1NSzVkTHd5QzlYS01sWEtDaktMMGxOTGxGSVRFX016Q3N1VVhEMFZDakx6MHhPVlVqT3ljX0x6RXUzTjlLVVVzX0Fyall4RTFVdEY3S3hxV1dwZVdEajBvcnljeFZLaTRIeUNwWDVwVVVRTGFqR1F0UUNqY09xbGl1WVM5MDVNUThrQXJZcFZhRTRQemNWU0tzWFEtMkg2SEQwdERmU2tGSkxKa0pwWWlhWE01YzgxSzBwcVdCZllmcGNRVW91QTBVSnVvY0ZHQUUiLCJpZCI6ImZjX0ZmTUNhX2JKTXJ1dWlMTVByYk9Cc1E0XzUifQ%3D%3D"
+      },
+      {
+        "question": "Can you clone someone's voice using AI?",
+        "type": "ai_overview",
+        "page_token": "l2MBanicHdBRbpswAABQbXfYFfrZ4BBSESmqRkNIouIEYxvwT2VsEqgNuI0LC587y752mB1g1-gFJu0d4f38pZtO_f0y1Naa62o2G8fx_tL3F13di76d8eutEzPBtS65UKvlwxI8nsU6_NgHT2_7ICEoLLTUBWWQztkRZqihEbTS0T0DwVF2iCNtbBzJgTvIQoe9EUxBAuobc1nEIrlHOdshx_bppE9J5i8xQSncKSed-wY6dUQ2Fw9nPmTkBy3B9iRdM8XtYoyBZNUrmwjdKtoZh9HDDevCw8A_SLydcAib57zuRYaesswbyhzNi85QksMYTyxNcjmKDRxLZa7PmKmqM16i9Fa2OghrGTEFNgX1m1SBm8ypwSFIRHs4JR1EMOibhNTHOCRuGplNGXpDAb4vsI7nMa05m3Qgd_WCu_sJZzZn491ZDGv37v_n-uXc2pV57y-_xXvFbSVfuP2jvn5--wexxopp",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=l2MBanicHdBRbpswAABQbXfYFfrZ4BBSESmqRkNIouIEYxvwT2VsEqgNuI0LC587y752mB1g1-gFJu0d4f38pZtO_f0y1Naa62o2G8fx_tL3F13di76d8eutEzPBtS65UKvlwxI8nsU6_NgHT2_7ICEoLLTUBWWQztkRZqihEbTS0T0DwVF2iCNtbBzJgTvIQoe9EUxBAuobc1nEIrlHOdshx_bppE9J5i8xQSncKSed-wY6dUQ2Fw9nPmTkBy3B9iRdM8XtYoyBZNUrmwjdKtoZh9HDDevCw8A_SLydcAib57zuRYaesswbyhzNi85QksMYTyxNcjmKDRxLZa7PmKmqM16i9Fa2OghrGTEFNgX1m1SBm8ypwSFIRHs4JR1EMOibhNTHOCRuGplNGXpDAb4vsI7nMa05m3Qgd_WCu_sJZzZn491ZDGv37v_n-uXc2pV57y-_xXvFbSVfuP2jvn5--wexxopp",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYU5HMXZkVzQzY0RONlZWaENkREJZWldNME9GSTNhWHA2YXpOM1YwZEpiR0pmTTFsVlYxRkpiMHB1Y0c0NWRGSjZhSEJyVTNaVVREaDZURTFtWVVrM05GOTBaWGhJVW5JeVluTmhRVTltVDNFd2JXUmtXazV3Y2pCRVVSSVhSbVpOUTJGZllrcE5jblYxYVV4TlVISmlUMEp6VVRRYUlrRklUakJGTjBaVVduY3pXaTE0YjFkTGFGWTNTR3RDVTBaM05sUkVhREY2VFVFIiwiZmN2IjoiMyIsImVpIjoiRmZNQ2FfYkpNcnV1aUxNUHJiT0JzUTQiLCJxYyI6ImN3WEJRUTVBTUJBRlVDc0xLMGY0TnhGSGFkcWhrOUF2bzFNaGNXZEg4TjR3WjE2b3hHR3NFaXR1dXFGUm95QnVMSUxGdU1OTDhKcHAta2lDbndJdGFKcUVDRHAyNzdmMjB3OCIsInF1ZXN0aW9uIjoiQ2FuIHlvdSBjbG9uZSBzb21lb25lJ3Mgdm9pY2UgdXNpbmcgQUk/IiwibGsiOiJHaVpqWVc0Z2VXOTFJR05zYjI1bElITnZiV1Z2Ym1VbmN5QjJiMmxqWlNCMWMybHVaeUJoYVEiLCJicyI6ImMtTUs1ZEx3eUM5WEtNbFhLQ2pLTDBsTkxsRklURV9NekNzdVVYRDBWQ2pMejB4T1ZVak95Y19MekV1M045S1VVc19BcmpZeEUxVXRGN0t4cVdXcGVXRGowb3J5Y3hWS2k0SHlDcFg1cFVVUUxhakdRdFFDamNPcWxpdVlTOTA1TVE4a0FyWXBWYUU0UHpjVlNLc1hRLTJINkhEMHREZlNrRkpMSmtKcFlpYVhNNWM4MUswcHFXQmZZZnBjUVVvdUEwVUp1b2NGR0FFIiwiaWQiOiJmY19GZk1DYV9iSk1ydXVpTE1QcmJPQnNRNF81In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYU5HMXZkVzQzY0RONlZWaENkREJZWldNME9GSTNhWHA2YXpOM1YwZEpiR0pmTTFsVlYxRkpiMHB1Y0c0NWRGSjZhSEJyVTNaVVREaDZURTFtWVVrM05GOTBaWGhJVW5JeVluTmhRVTltVDNFd2JXUmtXazV3Y2pCRVVSSVhSbVpOUTJGZllrcE5jblYxYVV4TlVISmlUMEp6VVRRYUlrRklUakJGTjBaVVduY3pXaTE0YjFkTGFGWTNTR3RDVTBaM05sUkVhREY2VFVFIiwiZmN2IjoiMyIsImVpIjoiRmZNQ2FfYkpNcnV1aUxNUHJiT0JzUTQiLCJxYyI6ImN3WEJRUTVBTUJBRlVDc0xLMGY0TnhGSGFkcWhrOUF2bzFNaGNXZEg4TjR3WjE2b3hHR3NFaXR1dXFGUm95QnVMSUxGdU1OTDhKcHAta2lDbndJdGFKcUVDRHAyNzdmMjB3OCIsInF1ZXN0aW9uIjoiQ2FuIHlvdSBjbG9uZSBzb21lb25lJ3Mgdm9pY2UgdXNpbmcgQUk%2FIiwibGsiOiJHaVpqWVc0Z2VXOTFJR05zYjI1bElITnZiV1Z2Ym1VbmN5QjJiMmxqWlNCMWMybHVaeUJoYVEiLCJicyI6ImMtTUs1ZEx3eUM5WEtNbFhLQ2pLTDBsTkxsRklURV9NekNzdVVYRDBWQ2pMejB4T1ZVak95Y19MekV1M045S1VVc19BcmpZeEUxVXRGN0t4cVdXcGVXRGowb3J5Y3hWS2k0SHlDcFg1cFVVUUxhakdRdFFDamNPcWxpdVlTOTA1TVE4a0FyWXBWYUU0UHpjVlNLc1hRLTJINkhEMHREZlNrRkpMSmtKcFlpYVhNNWM4MUswcHFXQmZZZnBjUVVvdUEwVUp1b2NGR0FFIiwiaWQiOiJmY19GZk1DYV9iSk1ydXVpTE1QcmJPQnNRNF81In0%3D"
+      },
+      {
+        "question": "How to detect AI voice cloning?",
+        "type": "ai_overview",
+        "page_token": "wb4HIXicHdBRbpswGABgbXfYFfrY4KB2S6RoKp1JIMMpDv6D_VIZm4QUG1jilMBjz7KnHWYH2DV2gVW7wafv7ac5NvWfD6-Vc915Ppn0fX97aNuDKW9VayfyPDRqoqQxhVT1_P7zPfq6Vwt8iYLHH1GQMoq50YY3DwO1hosVueyWVahD8ch9CnopEmbDFfETn0w7wn0jShZfCARL3oihrMO18KAvTBBssJFJLtZFOIuYD6fUhK3wkOSsR9mLGVKvAwlk3GT1mGHnZZae1VQft9iNmUUhM188nXdrZajI7F3Pd-5KRxoJFPXlS_xU1mwKeQwbiC0Fsyumdxc9hqfvuxmWEFQEzUBb7NLR-Lh6l9foG4fZcVujQefQZRilysZPaUMoCdpjyqpNgpm_xdU2AXMtwuoqgLT5-OCxpnLJu6UE2Ccr4Vh6s1evC__m_-fieW_dvDu1h1_qVEpX6mfpftcf_376B0xri1Y",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=wb4HIXicHdBRbpswGABgbXfYFfrY4KB2S6RoKp1JIMMpDv6D_VIZm4QUG1jilMBjz7KnHWYH2DV2gVW7wafv7ac5NvWfD6-Vc915Ppn0fX97aNuDKW9VayfyPDRqoqQxhVT1_P7zPfq6Vwt8iYLHH1GQMoq50YY3DwO1hosVueyWVahD8ch9CnopEmbDFfETn0w7wn0jShZfCARL3oihrMO18KAvTBBssJFJLtZFOIuYD6fUhK3wkOSsR9mLGVKvAwlk3GT1mGHnZZae1VQft9iNmUUhM188nXdrZajI7F3Pd-5KRxoJFPXlS_xU1mwKeQwbiC0Fsyumdxc9hqfvuxmWEFQEzUBb7NLR-Lh6l9foG4fZcVujQefQZRilysZPaUMoCdpjyqpNgpm_xdU2AXMtwuoqgLT5-OCxpnLJu6UE2Ccr4Vh6s1evC__m_-fieW_dvDu1h1_qVEpX6mfpftcf_376B0xri1Y",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYU5HMXZkVzQzY0RONlZWaENkREJZWldNME9GSTNhWHA2YXpOM1YwZEpiR0pmTTFsVlYxRkpiMHB1Y0c0NWRGSjZhSEJyVTNaVVREaDZURTFtWVVrM05GOTBaWGhJVW5JeVluTmhRVTltVDNFd2JXUmtXazV3Y2pCRVVSSVhSbVpOUTJGZllrcE5jblYxYVV4TlVISmlUMEp6VVRRYUlrRklUakJGTjBaVVduY3pXaTE0YjFkTGFGWTNTR3RDVTBaM05sUkVhREY2VFVFIiwiZmN2IjoiMyIsImVpIjoiRmZNQ2FfYkpNcnV1aUxNUHJiT0JzUTQiLCJxYyI6ImN3WEJRUTVBTUJBRlVDc0xLMGY0TnhGSGFkcWhrOUF2bzFNaGNXZEg4TjR3WjE2b3hHR3NFaXR1dXFGUm95QnVMSUxGdU1OTDhKcHAta2lDbndJdGFKcUVDRHAyNzdmMjB3OCIsInF1ZXN0aW9uIjoiSG93IHRvIGRldGVjdCBBSSB2b2ljZSBjbG9uaW5nPyIsImxrIjoiR2g1b2IzY2dkRzhnWkdWMFpXTjBJR0ZwSUhadmFXTmxJR05zYjI1cGJtYyIsImJzIjoiYy1NSzVkTHd5QzlYS01sWEtDaktMMGxOTGxGSVRFX016Q3N1VVhEMFZDakx6MHhPVlVqT3ljX0x6RXUzTjlLVVVzX0Fyall4RTFVdEY3S3hxV1dwZVdEajBvcnljeFZLaTRIeUNwWDVwVVVRTGFqR1F0UUNqY09xbGl1WVM5MDVNUThrQXJZcFZhRTRQemNWU0tzWFEtMkg2SEQwdERmU2tGSkxKa0pwWWlhWE01YzgxSzBwcVdCZllmcGNRVW91QTBVSnVvY0ZHQUUiLCJpZCI6ImZjX0ZmTUNhX2JKTXJ1dWlMTVByYk9Cc1E0XzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYU5HMXZkVzQzY0RONlZWaENkREJZWldNME9GSTNhWHA2YXpOM1YwZEpiR0pmTTFsVlYxRkpiMHB1Y0c0NWRGSjZhSEJyVTNaVVREaDZURTFtWVVrM05GOTBaWGhJVW5JeVluTmhRVTltVDNFd2JXUmtXazV3Y2pCRVVSSVhSbVpOUTJGZllrcE5jblYxYVV4TlVISmlUMEp6VVRRYUlrRklUakJGTjBaVVduY3pXaTE0YjFkTGFGWTNTR3RDVTBaM05sUkVhREY2VFVFIiwiZmN2IjoiMyIsImVpIjoiRmZNQ2FfYkpNcnV1aUxNUHJiT0JzUTQiLCJxYyI6ImN3WEJRUTVBTUJBRlVDc0xLMGY0TnhGSGFkcWhrOUF2bzFNaGNXZEg4TjR3WjE2b3hHR3NFaXR1dXFGUm95QnVMSUxGdU1OTDhKcHAta2lDbndJdGFKcUVDRHAyNzdmMjB3OCIsInF1ZXN0aW9uIjoiSG93IHRvIGRldGVjdCBBSSB2b2ljZSBjbG9uaW5nPyIsImxrIjoiR2g1b2IzY2dkRzhnWkdWMFpXTjBJR0ZwSUhadmFXTmxJR05zYjI1cGJtYyIsImJzIjoiYy1NSzVkTHd5QzlYS01sWEtDaktMMGxOTGxGSVRFX016Q3N1VVhEMFZDakx6MHhPVlVqT3ljX0x6RXUzTjlLVVVzX0Fyall4RTFVdEY3S3hxV1dwZVdEajBvcnljeFZLaTRIeUNwWDVwVVVRTGFqR1F0UUNqY09xbGl1WVM5MDVNUThrQXJZcFZhRTRQemNWU0tzWFEtMkg2SEQwdERmU2tGSkxKa0pwWWlhWE01YzgxSzBwcVdCZllmcGNRVW91QTBVSnVvY0ZHQUUiLCJpZCI6ImZjX0ZmTUNhX2JKTXJ1dWlMTVByYk9Cc1E0XzUifQ%3D%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "my7a4niczVbNcqs2FJ7puts-Qtn42sY_SezMMHcEwQ7-w7KTOL4bDwjxYwOyEZg4y_ssXfVh-gB9jb5ABcYJOHaS2-lMe2bgIOn86eh8Onz_zXX81Z8_-3YYrul1tRrHccUixHJxBRGvqtGdj6omcWmA7K-2K2Cfs1whohwlUYCwYwjIDoiHs3E2qhCd222FBoeowHPYETrmUNIWem8YRJEzGI4DXRUpbHKpfWGhaxQvmfunJa0uquy1-rVxwwYVWsF-RcEb3e_UwcMaVOp8vVFRq5rHBMB_S7IIFIvxFQDWe3Ii_KxFaDOrQDrWl_c8Nz8EiU8FSMp-5Zz_aWI00ZTENGL2qMBcjldd9jU6SN0rH8QlFWKaZWHt2eo43E9QpprsoDDxHp1IYpqX_utYOl47Rd3iiji_ATdxzvyb7eQc7FXvk1cMOs3xEEAIz3o6EDPdnwPeBR_UySGi-3ZvGjItsWpYrMr5qh4wVqs6yEbpR0CT4pfu2jzpDtTusr4Q4UaLVLjtAnkU4nEsy4MmqCKdyblEM7CxsBf813Rcq9cu-HbjqvUlRR2iL7CjedgFhPKh3xqWQ74yqIi1A-aKuz1OFlQUcKqYLNE6pKJILwZgPs9pGo4kVwXPnYzbQCSQKRcWYV8e5IUYXG5YvlpWPv2vGtI7mDuitGJJZuA-mwLFaoNzIE9P-UlIPWk22Ufqteism30o4iHwOFt5i7kJUGCa3izFhctRZDeEyBIMk5uiz9RDaS-rNJP4DicGZVmRgWy9quVIkk9sB0i5SJienEjFwJLBKlJkSXGyaZA6say9JxFaL2ZSH9Jb1KU0ZPMd--TSp0j-zMWyj-IAsiPM5LEmf0P8yDTnltt8NoeBGplaM6jXt9IVjU9ji3j6D_Q09L9H36HjuVnZn0Vf4ulT6IP2e-g71fH26JNWZ9A33aPvdMcbH6SOOt5b9EnAyaEv63hPWS7-DfSJH6Mvf1x59L0eVQF98jn0deUi-uZL-dDxTqMvc_CKvn_a8cQf73gpCPGeFdtftLTOt0E8vbzfzCR5WB82xjO7o00mzza907cT-GEbNL3w2tMM98vCMa7Fei_cGV8WbIJcY4PbCLckLoWktA5IiFFY2rH_3NKWOAiXkEt8XDLZD28p8rUotEngPGOjFFFccvzS1jEwKQGF89yACLx2Fa43dNaVH8uR5JsjFzz2n7zduNeeo3JjHW-navkJleWtTr2Nv-iNHke32ydV8ZSwSW113emu5g687F4arX4PjtGFsyzfkbtpe_PgiJ6xjAy10TcmSlmfbrzd6qF9NTH6NZ3WQrEFyjMJRTO7_eiNR5pqqTjoNGAaGBW2eHKrt-rfnAnPsW1TLNQ4L0ACq4qmBUYw-eHTgBiDXlrG4mTD-IDVjk5EAG_nAN5Y7CHsADmKtAWmWwFdXjTQBc8jTTOvTGxynhXu1kKb56gfCLXfUYC1kJ2HFv6x-umvX_4GDemPBQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=my7a4niczVbNcqs2FJ7puts-Qtn42sY_SezMMHcEwQ7-w7KTOL4bDwjxYwOyEZg4y_ssXfVh-gB9jb5ABcYJOHaS2-lMe2bgIOn86eh8Onz_zXX81Z8_-3YYrul1tRrHccUixHJxBRGvqtGdj6omcWmA7K-2K2Cfs1whohwlUYCwYwjIDoiHs3E2qhCd222FBoeowHPYETrmUNIWem8YRJEzGI4DXRUpbHKpfWGhaxQvmfunJa0uquy1-rVxwwYVWsF-RcEb3e_UwcMaVOp8vVFRq5rHBMB_S7IIFIvxFQDWe3Ii_KxFaDOrQDrWl_c8Nz8EiU8FSMp-5Zz_aWI00ZTENGL2qMBcjldd9jU6SN0rH8QlFWKaZWHt2eo43E9QpprsoDDxHp1IYpqX_utYOl47Rd3iiji_ATdxzvyb7eQc7FXvk1cMOs3xEEAIz3o6EDPdnwPeBR_UySGi-3ZvGjItsWpYrMr5qh4wVqs6yEbpR0CT4pfu2jzpDtTusr4Q4UaLVLjtAnkU4nEsy4MmqCKdyblEM7CxsBf813Rcq9cu-HbjqvUlRR2iL7CjedgFhPKh3xqWQ74yqIi1A-aKuz1OFlQUcKqYLNE6pKJILwZgPs9pGo4kVwXPnYzbQCSQKRcWYV8e5IUYXG5YvlpWPv2vGtI7mDuitGJJZuA-mwLFaoNzIE9P-UlIPWk22Ufqteism30o4iHwOFt5i7kJUGCa3izFhctRZDeEyBIMk5uiz9RDaS-rNJP4DicGZVmRgWy9quVIkk9sB0i5SJienEjFwJLBKlJkSXGyaZA6say9JxFaL2ZSH9Jb1KU0ZPMd--TSp0j-zMWyj-IAsiPM5LEmf0P8yDTnltt8NoeBGplaM6jXt9IVjU9ji3j6D_Q09L9H36HjuVnZn0Vf4ulT6IP2e-g71fH26JNWZ9A33aPvdMcbH6SOOt5b9EnAyaEv63hPWS7-DfSJH6Mvf1x59L0eVQF98jn0deUi-uZL-dDxTqMvc_CKvn_a8cQf73gpCPGeFdtftLTOt0E8vbzfzCR5WB82xjO7o00mzza907cT-GEbNL3w2tMM98vCMa7Fei_cGV8WbIJcY4PbCLckLoWktA5IiFFY2rH_3NKWOAiXkEt8XDLZD28p8rUotEngPGOjFFFccvzS1jEwKQGF89yACLx2Fa43dNaVH8uR5JsjFzz2n7zduNeeo3JjHW-navkJleWtTr2Nv-iNHke32ydV8ZSwSW113emu5g687F4arX4PjtGFsyzfkbtpe_PgiJ6xjAy10TcmSlmfbrzd6qF9NTH6NZ3WQrEFyjMJRTO7_eiNR5pqqTjoNGAaGBW2eHKrt-rfnAnPsW1TLNQ4L0ACq4qmBUYw-eHTgBiDXlrG4mTD-IDVjk5EAG_nAN5Y7CHsADmKtAWmWwFdXjTQBc8jTTOvTGxynhXu1kKb56gfCLXfUYC1kJ2HFv6x-umvX_4GDemPBQ"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "How to protect my voice from AI? : r/ArtificialInteligence",
+        "link": "https://www.reddit.com/r/ArtificialInteligence/comments/1cf0jyv/how_to_protect_my_voice_from_ai/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnQEBxCJF1wOTvg2KdQpqmrAgx5hIEjVkp4EH4guXJxd3IQr4aOyuvn6IENiNNjxjHp-lXHCHzFzE2zJz-K3jT1qm_VlQ2ELK33aVw5q2cB2A24P3k0v_sQ7aAga8-_3XGcpDwQwAD-AOtLlixAprBGQgrCXC3kj_Ozv837Q9s3fGneMaa1S2fEKub-cDV38H86i9DIGHK4IBf52BogtZ&ved=2ahUKEwi2qL-N3JuYAxU7F2IAHa1ZIOYQFnoECCMQAQ&uoh=1",
+        "displayed_link": "140+ comments",
+        "date": "2 years ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+        "snippet": "Hi, I'm considering on starting a podcast, yet I'm concerned that my voice will be cloned with out my permission and used in potentially nefarious ways ...",
+        "sitelinks": {
+          "list": [
+            {
+              "title": "How are you protecting your voice from AI cloning ...",
+              "link": "https://www.google.com/goto?url=CAESowEBxCJF13eRMYsIPnWqziS3qKz9CSv7-M-_htAmTUg1mkD96rvdSJT9CI-Zr3DaXiaKgqyHOAJRNhO6tnwHfe0dexyiKQ4oqq2yNMA8rBuYfEIFFzuAwcMfTLRFlwtepB9mQRGuwBdnAqU0nhZPR6qEO5Tp0d6ajqbVL3MmXNexBccMrMeqPl9Et7Yf4WQQv7kLYrNXSB8aMYWcGlAweZphGXXC&gsessionid=a6yDBaZ-CC44E9cv1-kfQAMij0eiNcGN29-fp8MuFbN9gF9Fdhs5FQ",
+              "answer_count": 2,
+              "date": "May 15, 2025"
+            },
+            {
+              "title": "What do you do to protect yourself from AI cloning ...",
+              "link": "https://www.google.com/goto?url=CAESngEBxCJF16ceAfCN7wpuo_hxCMU5HSF7eBWIt1290NMrrtITT5NEqqnpxy1zRDVgmQBN1WSIeOhpfo8nlb2H3cnvUmQnvxEbjeA0WFbHW6Zq2RJEfeKRI4g2K1bDbQ5YcN3j5sHPMo8Ga2EDvB5g8oP3H-BDpH9BybT04RIs_w1h0BcJqd2TJcRttGAnhi4TT4B1c4QSPI2BFI5OjKMN2w&gsessionid=a6yDBaZ-CC44E9cv1-kfQAMij0eiNcGN29-fp8MuFbN9gF9Fdhs5FQ",
+              "answer_count": 27,
+              "date": "Nov 24, 2024"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "The only way to ensure your voice never gets cloned is to never talk ever again. If you want to make a podcast just make a podcast. To protect ...",
+            "source_info_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1cf0jyv/how_to_protect_my_voice_from_ai/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuIBL2dvdG8_dXJsPUNBRVNuUUVCeENKRjFfcy1FNktfYVpWOUU0ZDhaS19UaVJHNTlvTGV5M2w0Wlc5WDltTGx3b1Z2TlVDVUtIVTVxVHh6WUJUWnZ3aVhZaUctSHdhVVJpRnl2X2p2Y1NjNl9lTGhfQWRqYktPWjdOZ0x3Q1NwUlNTZUt4VlduZmpkNmNNemgtN2FmNm45eXFvTURwaG5KU0ZSbmpGdmVqbWlCbWVHc19aRFJWMUpSVk8yNEVfSlktU2FGdGh0Z3BBRmpMOG15NWZmbVpSbmV2am15VHQwX0tTTBIEGgIIABrfCBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC7CAgAEAAYACAAKgoKA2hvdxVO9JpAKgkKAnRvFQAAAAAqYQoHcHJvdGVjdBUB35pAGgRrZWVwGgdwcmV2ZW50Ggpwcm90ZWN0aW5nGglzYWZlZ3VhcmQaBHNhdmUaBnNlY3VyZRoLcHJvdGVjdHlvdXIaEHByb3RlY3R5b3Vydm9pY2UqSgoEeW91chXyZkVAGgJteRoDb3VyGgV0aGVpchoDeW91Ggtwcm90ZWN0eW91choQcHJvdGVjdHlvdXJ2b2ljZRoJeW91cnZvaWNlKjUKBXZvaWNlFQX4wEAaEHByb3RlY3R5b3Vydm9pY2UaCXlvdXJ2b2ljZRoKdm9pY2VjbG9uZSo9CgVjbG9uZRUMBMU_GgZjbG9uZWQaBmNsb25lcxoHY2xvbmluZxoKdm9pY2VjbG9uZRoKaXY7cDtjbG9uZSoLCgRmcm9tFQAAAAAqeQoMdW5hdXRob3JpemVkFa_whD8aB2lsbGVnYWwaCGltcHJvcGVyGgZtaXN1c2UaDm5vbiBhdXRob3JpemVkGg5ub3QgYXV0aG9yaXplZBoMdW5hdXRob3Jpc2VkGgh1bmxhd2Z1bBoRaXY7cDt1bmF1dGhvcml6ZWQqOgoDdXNlFTtbIEAaBmFjY2VzcxoGbWlzdXNlGgV1c2FnZRoEdXNlZBoEdXNlchoEdXNlcxoFdXNpbmcqCQoCaW4VAAAAACodCgV2aWRlbxWawS4-GgZ2aWRlb3MaB3ZpZGVvYWkqEgoCYWkVZjnAQBoHdmlkZW9haTLiAS9nb3RvP3VybD1DQUVTblFFQnhDSkYxX3MtRTZLX2FaVjlFNGQ4WktfVGlSRzU5b0xleTNsNFpXOVg5bUxsd29Wdk5VQ1VLSFU1cVR4ellCVFp2d2lYWWlHLUh3YVVSaUZ5dl9qdmNTYzZfZUxoX0FkamJLT1o3TmdMd0NTcFJTU2VLeFZXbmZqZDZjTXpoLTdhZjZuOXlxb01EcGhuSlNGUm5qRnZlam1pQm1lR3NfWkRSVjFKUlZPMjRFX0pZLVNhRnRodGdwQUZqTDhteTVmZm1aUm5ldmpteVR0MF9LU0w6UTxiPkhvdyB0byBwcm90ZWN0IG15IHZvaWNlPC9iPiBmcm9tIDxiPkFJPC9iPj8gOiByL0FydGlmaWNpYWxJbnRlbGlnZW5jZSAtIFJlZGRpdEKeAVRoZSBvbmx5IHdheSB0byBlbnN1cmUgeW91ciB2b2ljZSBuZXZlciBnZXRzIGNsb25lZCBpcyB0byA8Yj5uZXZlciB0YWxrIGV2ZXIgYWdhaW48L2I-LiBJZiB5b3Ugd2FudCB0byBtYWtlIGEgcG9kY2FzdCBqdXN0IG1ha2UgYSBwb2RjYXN0LiBUbyBwcm90ZWN0Jm5ic3A7Li4uSgJpbkoCdG9KBGZyb21SA3lvdVICbXlSA291ciICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuIBL2dvdG8_dXJsPUNBRVNuUUVCeENKRjFfcy1FNktfYVpWOUU0ZDhaS19UaVJHNTlvTGV5M2w0Wlc5WDltTGx3b1Z2TlVDVUtIVTVxVHh6WUJUWnZ3aVhZaUctSHdhVVJpRnl2X2p2Y1NjNl9lTGhfQWRqYktPWjdOZ0x3Q1NwUlNTZUt4VlduZmpkNmNNemgtN2FmNm45eXFvTURwaG5KU0ZSbmpGdmVqbWlCbWVHc19aRFJWMUpSVk8yNEVfSlktU2FGdGh0Z3BBRmpMOG15NWZmbVpSbmV2am15VHQwX0tTTBIEGgIIABrfCBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC7CAgAEAAYACAAKgoKA2hvdxVO9JpAKgkKAnRvFQAAAAAqYQoHcHJvdGVjdBUB35pAGgRrZWVwGgdwcmV2ZW50Ggpwcm90ZWN0aW5nGglzYWZlZ3VhcmQaBHNhdmUaBnNlY3VyZRoLcHJvdGVjdHlvdXIaEHByb3RlY3R5b3Vydm9pY2UqSgoEeW91chXyZkVAGgJteRoDb3VyGgV0aGVpchoDeW91Ggtwcm90ZWN0eW91choQcHJvdGVjdHlvdXJ2b2ljZRoJeW91cnZvaWNlKjUKBXZvaWNlFQX4wEAaEHByb3RlY3R5b3Vydm9pY2UaCXlvdXJ2b2ljZRoKdm9pY2VjbG9uZSo9CgVjbG9uZRUMBMU_GgZjbG9uZWQaBmNsb25lcxoHY2xvbmluZxoKdm9pY2VjbG9uZRoKaXY7cDtjbG9uZSoLCgRmcm9tFQAAAAAqeQoMdW5hdXRob3JpemVkFa_whD8aB2lsbGVnYWwaCGltcHJvcGVyGgZtaXN1c2UaDm5vbiBhdXRob3JpemVkGg5ub3QgYXV0aG9yaXplZBoMdW5hdXRob3Jpc2VkGgh1bmxhd2Z1bBoRaXY7cDt1bmF1dGhvcml6ZWQqOgoDdXNlFTtbIEAaBmFjY2VzcxoGbWlzdXNlGgV1c2FnZRoEdXNlZBoEdXNlchoEdXNlcxoFdXNpbmcqCQoCaW4VAAAAACodCgV2aWRlbxWawS4-GgZ2aWRlb3MaB3ZpZGVvYWkqEgoCYWkVZjnAQBoHdmlkZW9haTLiAS9nb3RvP3VybD1DQUVTblFFQnhDSkYxX3MtRTZLX2FaVjlFNGQ4WktfVGlSRzU5b0xleTNsNFpXOVg5bUxsd29Wdk5VQ1VLSFU1cVR4ellCVFp2d2lYWWlHLUh3YVVSaUZ5dl9qdmNTYzZfZUxoX0FkamJLT1o3TmdMd0NTcFJTU2VLeFZXbmZqZDZjTXpoLTdhZjZuOXlxb01EcGhuSlNGUm5qRnZlam1pQm1lR3NfWkRSVjFKUlZPMjRFX0pZLVNhRnRodGdwQUZqTDhteTVmZm1aUm5ldmpteVR0MF9LU0w6UTxiPkhvdyB0byBwcm90ZWN0IG15IHZvaWNlPC9iPiBmcm9tIDxiPkFJPC9iPj8gOiByL0FydGlmaWNpYWxJbnRlbGlnZW5jZSAtIFJlZGRpdEKeAVRoZSBvbmx5IHdheSB0byBlbnN1cmUgeW91ciB2b2ljZSBuZXZlciBnZXRzIGNsb25lZCBpcyB0byA8Yj5uZXZlciB0YWxrIGV2ZXIgYWdhaW48L2I-LiBJZiB5b3Ugd2FudCB0byBtYWtlIGEgcG9kY2FzdCBqdXN0IG1ha2UgYSBwb2RjYXN0LiBUbyBwcm90ZWN0Jm5ic3A7Li4uSgJpbkoCdG9KBGZyb21SA3lvdVICbXlSA291ciICEAFIAFgAaAA",
+        "source": "Reddit \u00b7 r/ArtificialInteligence"
+      },
+      {
+        "position": 2,
+        "title": "Protect Yourself From AI Voice Cloning: A Guide for Performers",
+        "link": "https://www.youtube.com/watch?v=Jo5nIjales4",
+        "displayed_link": "5K+ views",
+        "date": "2 years ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f315f29655e246aaa908/images/0Krunifs_USIh0wecFZp8uQWfoN7GS1pXWSkzX5_16g.jpg",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "Watch this guide to learn how you can safeguard your vocal identity and creative work. In this video, we'll discuss the potential risks of AI ...",
+        "duration": "7:25",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "Intro",
+            "link": "https://www.google.com/goto?url=CAESbAHEIkXXDPxXwCmhgbSMRzcdBbGygiYQeIbaFngdnqgWbVkgdxO3cuXu84y0IfmWxSa45CtDSzRROl7ywmtNkLrG_R6s8q8RC64emCm3v1ZlDXQYb0XXCH-EbzqT85Mfdo4JQrziCmWnEUHYZw&gsessionid=a6yDBaZ-CC44E9cv1-kfQAMij0eiNcGN29-fp8MuFbN9gF9Fdhs5FQ"
+          },
+          {
+            "time": "00:39",
+            "title": "How Voice Cloning Works",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXXUX06NmlA5kV3hq5UsnKXIRFnEQaqx9aqekUUgqffs-MxJ7jMx9yszPXZSidkd0sbpUrbn_85twtNbDhG9PfKlfZZt1YiiXfsTQbRO2BF91U1xcVv0wI6bWt53xerJQwCe_PMwUV7JBo&gsessionid=a6yDBaZ-CC44E9cv1-kfQAMij0eiNcGN29-fp8MuFbN9gF9Fdhs5FQ"
+          },
+          {
+            "time": "01:38",
+            "title": "Contracts",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXXqZI7r_gSCAEWkxjgpNEAh0Ef4I0Y1uyVRReTFIcxkMUBFjNdnLSk6WdYV9hkzuKHaO7gcLSgPFyypfdxwvjt7kfozceDV62PAcvQxUHZKdSHbe2DNGBjXQTs07sMWTouzvgK5ogKXSE&gsessionid=a6yDBaZ-CC44E9cv1-kfQAMij0eiNcGN29-fp8MuFbN9gF9Fdhs5FQ"
+          },
+          {
+            "time": "03:00",
+            "title": "Terms of Service",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXX2lfzZnTwj7RQxyC3d2igNsAYX6lWSY-Kb-BHJGsZA1udT20I-xOmXtcwqECMyz3lOwVJ0lXAosBBxqhX6MC39bd_aC4c-nENeGdtJVr57TcoCEQOHOgKAJTZzv8snw8r_1qIZOm_QCxv&gsessionid=a6yDBaZ-CC44E9cv1-kfQAMij0eiNcGN29-fp8MuFbN9gF9Fdhs5FQ"
+          },
+          {
+            "time": "03:46",
+            "title": "Secure Platforms",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXX3wU9yJl9k7kEX-yAKAHTnFysydE0NGf-UhwuyzTL5L-iBhF0YAGRcUWSOV6xXHIzbM7GGMTTIwrI9wPK-6lKVmzyxnxdXIheyhcZM5JosuVNM8iQ2LrZkfo5dlDvKObNq9YKbj1pNVcu&gsessionid=a6yDBaZ-CC44E9cv1-kfQAMij0eiNcGN29-fp8MuFbN9gF9Fdhs5FQ"
+          },
+          {
+            "time": "04:44",
+            "title": "Watermarking",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXX-ggj7rBPULNLEtofgd0kXxutgCWfSkwrH8cyc6eVBTogV9-jTrrILoCE89PUNrjR5GzYfckpddNQRb74I6vhlWpUiwMXPb7_YCkDyiPhW0MdONx-gNSv-fmKwwh963q85ENJvgc-HD09&gsessionid=a6yDBaZ-CC44E9cv1-kfQAMij0eiNcGN29-fp8MuFbN9gF9Fdhs5FQ"
+          },
+          {
+            "time": "06:23",
+            "title": "What Now?",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXvhcWxFRDaHPkR0LOH10FXMqA5BD8tCbAvrGtCMWXutAUVq-2_QHa-CbG6j3TPSM0qtfyJtXxzYPH7Tcre3-yuPd8lMC-8mPS4smvqnqxfcbYsI3sktsFHRwuT0lRBIdWLpZhRaaUEsm_&gsessionid=a6yDBaZ-CC44E9cv1-kfQAMij0eiNcGN29-fp8MuFbN9gF9Fdhs5FQ"
+          }
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Watch this guide to learn how you can safeguard your vocal identity and creative work. In this video, we'll discuss the potential risks of AI ...",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWDU4RDYyVENha21DUTVTNWh1WmxvQnp0TGlDTy1BbTJfbzFmSkJacnFHaU16dmdIQTRRUUN6cEJ0RjhCUTBFekNhNWwxeUl1RFRabUJpN2ZlYVNKQVVMSUR5czRWT3ZSTnJBUnZ2YUtRRklOMkR2SUhKZEZEbkxYZEpJUjNyaDFaVG03dRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWDU4RDYyVENha21DUTVTNWh1WmxvQnp0TGlDTy1BbTJfbzFmSkJacnFHaU16dmdIQTRRUUN6cEJ0RjhCUTBFekNhNWwxeUl1RFRabUJpN2ZlYVNKQVVMSUR5czRWT3ZSTnJBUnZ2YUtRRklOMkR2SUhKZEZEbkxYZEpJUjNyaDFaVG03dRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSzVsjBcdqHVWrFKnq9NLDiM8r5lJ-y_NuVDA",
+        "source": "YouTube \u00b7 Voquent"
+      },
+      {
+        "position": 3,
+        "title": "Five Ways to Protect Your Voice from AI Voice Cloning ...",
+        "link": "https://www.google.com/goto?url=CAESigEBxCJF15CUUB9PC7XF0NVcl4p4t6sCyls81jlL62jRC0wGgRiQ24owsic6C0sxniT4OjuDH8h9C91YqRn8o0qwmWpkn7BmyFEccRtgpCXyyonVDaXwP9AtCVCPUqvNGy1lB1-mg32NRBQX4j-NKu_Ud9HAOMMkNNZMnCy7vRU5pN5r9MBz1xsSGBU",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESigEBxCJF10qt_SCFtirEFt92znrOcO565FmUyq_n8o36Us0RFoGj4MuTeVfgkHPLnYYlEHcKbpK766-mcJ17CQlWpptrzu_lwNOTgASlDuXH9ghIfoz0Uc2TvFzw1RMs2AiKa-V7RPApXenAfTGAxxfTmaNIMaAjf6lqZ33ecvq0XcXxRC-nZzUt3ec&ved=2ahUKEwi2qL-N3JuYAxU7F2IAHa1ZIOYQFnoECBwQAQ&uoh=1",
+        "displayed_link": "https://cfca.org \u203a five-ways-to-protect-your-voice-from...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAYFBMVEUIEyFHcEwbQX4cQn8cQn8bQn4bQn8aPnccQn8cQn8RPHwAMncDN3oALXU8V4vU2eP____n6e92hqiFk7H09fhhdJ0qS4SSnrmgq8Kut8re4ekAKHNMZJLGzNoADmsaP3lI5FEGAAAAIHRSTlMBAHrN91D_B4bZ____________________________C-LxSA4AAAD-SURBVHgBpZJVosMwDARV2iSyZCvM6f1vGXgM5TWOxz8GItrR_nD8lcN-WV7dCf_mtLvsNhvhYojiy3JPyWV5IFzO8ZrEDcnOiTJEdelZNwC2ntgHszTTvCisdBuUDMmLjEGVFXkerKqtab1fobMKfWdBQa2JiA6uNng3FroCs7dx2ULdqABYajMri9atANfaZI1QCP3Cskg_SLruZIFayLqip9rKXqumr61n19rQq280szUlaWddMENtCrh0hUK6dNKpGAmaj2MjUjaCxdbjWDtpSwaXDQHinAC8ug8Qxrryyt1ezvH6Y1_9JufLMrr-Na9-6sWe4-S3SeJocTOLWxvoWZtRZgAAAABJRU5ErkJggg.png",
+        "date": "Nov 20, 2024",
+        "snippet": "1. Switch to automated voicemail messages. 2. Create a family safe word. 3. Limit social media recordings. Avoid voice biometric verification. ...",
+        "snippet_highlighted_words": [
+          "Switch to automated voicemail messages"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "1. Switch to automated voicemail messages. 2. Create a family safe word. 3. Limit social media recordings. Avoid voice biometric verification. ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESigEBxCJF15CUUB9PC7XF0NVcl4p4t6sCyls81jlL62jRC0wGgRiQ24owsic6C0sxniT4OjuDH8h9C91YqRn8o0qwmWpkn7BmyFEccRtgpCXyyonVDaXwP9AtCVCPUqvNGy1lB1-mg32NRBQX4j-NKu_Ud9HAOMMkNNZMnCy7vRU5pN5r9MBz1xsSGBU",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAYFBMVEUIEyFHcEwbQX4cQn8cQn8bQn4bQn8aPnccQn8cQn8RPHwAMncDN3oALXU8V4vU2eP____n6e92hqiFk7H09fhhdJ0qS4SSnrmgq8Kut8re4ekAKHNMZJLGzNoADmsaP3lI5FEGAAAAIHRSTlMBAHrN91D_B4bZ____________________________C-LxSA4AAAD-SURBVHgBpZJVosMwDARV2iSyZCvM6f1vGXgM5TWOxz8GItrR_nD8lcN-WV7dCf_mtLvsNhvhYojiy3JPyWV5IFzO8ZrEDcnOiTJEdelZNwC2ntgHszTTvCisdBuUDMmLjEGVFXkerKqtab1fobMKfWdBQa2JiA6uNng3FroCs7dx2ULdqABYajMri9atANfaZI1QCP3Cskg_SLruZIFayLqip9rKXqumr61n19rQq280szUlaWddMENtCrh0hUK6dNKpGAmaj2MjUjaCxdbjWDtpSwaXDQHinAC8ug8Qxrryyt1ezvH6Y1_9JufLMrr-Na9-6sWe4-S3SeJocTOLWxvoWZtRZgAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CskBL2dvdG8_dXJsPUNBRVNpZ0VCeENKRjE1Q1VVQjlQQzdYRjBOVmNsNHA0dDZzQ3lsczgxamxMNjJqUkMwd0dnUmlRMjRvd3NpYzZDMHN4bmlUNE9qdURIOGg5QzkxWXFSbjhvMHF3bVdwa243Qm15RkVjY1J0Z3BDWHl5b25WRGFYd1A5QXRDVkNQVXF2Tkd5MWxCMS1tZzMyTlJCUVg0ai1OS3VfVWQ5SEFPTU1rTk5aTW5DeTd2UlU1cE41cjlNQnoxeHNTR0JVEgQaAggAGscIEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAoQgIABAAGAAgACoKCgNob3cVQa0FPyoJCgJ0bxUAAAAAKmEKB3Byb3RlY3QVV1OYQBoEa2VlcBoHcHJldmVudBoKcHJvdGVjdGluZxoJc2FmZWd1YXJkGgRzYXZlGgZzZWN1cmUaC3Byb3RlY3R5b3VyGhBwcm90ZWN0eW91cnZvaWNlKkoKBHlvdXIVLruoQBoCbXkaA291choFdGhlaXIaA3lvdRoLcHJvdGVjdHlvdXIaEHByb3RlY3R5b3Vydm9pY2UaCXlvdXJ2b2ljZSo1CgV2b2ljZRUbbdJAGhBwcm90ZWN0eW91cnZvaWNlGgl5b3Vydm9pY2UaCnZvaWNlY2xvbmUqPQoFY2xvbmUVEUe_PxoGY2xvbmVkGgZjbG9uZXMaB2Nsb25pbmcaCnZvaWNlY2xvbmUaCml2O3A7Y2xvbmUqCwoEZnJvbRUAAAAAKnkKDHVuYXV0aG9yaXplZBUAAAAAGgdpbGxlZ2FsGghpbXByb3BlchoGbWlzdXNlGg5ub24gYXV0aG9yaXplZBoObm90IGF1dGhvcml6ZWQaDHVuYXV0aG9yaXNlZBoIdW5sYXdmdWwaEWl2O3A7dW5hdXRob3JpemVkKjoKA3VzZRUv7Ls_GgZhY2Nlc3MaBm1pc3VzZRoFdXNhZ2UaBHVzZWQaBHVzZXIaBHVzZXMaBXVzaW5nKgkKAmluFQAAAAAqHQoFdmlkZW8VNW_BPRoGdmlkZW9zGgd2aWRlb2FpKhIKAmFpFb_RskAaB3ZpZGVvYWkyyQEvZ290bz91cmw9Q0FFU2lnRUJ4Q0pGMTVDVVVCOVBDN1hGME5WY2w0cDR0NnNDeWxzODFqbEw2MmpSQzB3R2dSaVEyNG93c2ljNkMwc3huaVQ0T2p1REg4aDlDOTFZcVJuOG8wcXdtV3BrbjdCbXlGRWNjUnRncENYeXlvblZEYVh3UDlBdENWQ1BVcXZOR3kxbEIxLW1nMzJOUkJRWDRqLU5LdV9VZDlIQU9NTWtOTlpNbkN5N3ZSVTVwTjVyOU1CejF4c1NHQlU6UEZpdmUgV2F5cyB0byA8Yj5Qcm90ZWN0IFlvdXIgVm9pY2U8L2I-IGZyb20gPGI-QUk8L2I-IFZvaWNlIDxiPkNsb25pbmc8L2I-IFNjYW1zQp4BMS4gPGI-U3dpdGNoIHRvIGF1dG9tYXRlZCB2b2ljZW1haWwgbWVzc2FnZXM8L2I-LiAyLiBDcmVhdGUgYSBmYW1pbHkgc2FmZSB3b3JkLiAzLiBMaW1pdCBzb2NpYWwgbWVkaWEgcmVjb3JkaW5ncy4gQXZvaWQgdm9pY2UgYmlvbWV0cmljIHZlcmlmaWNhdGlvbi4mbmJzcDsuLi5KAmluSgJ0b0oEZnJvbVIDeW91UgJteVIDb3VyIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CskBL2dvdG8_dXJsPUNBRVNpZ0VCeENKRjE1Q1VVQjlQQzdYRjBOVmNsNHA0dDZzQ3lsczgxamxMNjJqUkMwd0dnUmlRMjRvd3NpYzZDMHN4bmlUNE9qdURIOGg5QzkxWXFSbjhvMHF3bVdwa243Qm15RkVjY1J0Z3BDWHl5b25WRGFYd1A5QXRDVkNQVXF2Tkd5MWxCMS1tZzMyTlJCUVg0ai1OS3VfVWQ5SEFPTU1rTk5aTW5DeTd2UlU1cE41cjlNQnoxeHNTR0JVEgQaAggAGscIEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAoQgIABAAGAAgACoKCgNob3cVQa0FPyoJCgJ0bxUAAAAAKmEKB3Byb3RlY3QVV1OYQBoEa2VlcBoHcHJldmVudBoKcHJvdGVjdGluZxoJc2FmZWd1YXJkGgRzYXZlGgZzZWN1cmUaC3Byb3RlY3R5b3VyGhBwcm90ZWN0eW91cnZvaWNlKkoKBHlvdXIVLruoQBoCbXkaA291choFdGhlaXIaA3lvdRoLcHJvdGVjdHlvdXIaEHByb3RlY3R5b3Vydm9pY2UaCXlvdXJ2b2ljZSo1CgV2b2ljZRUbbdJAGhBwcm90ZWN0eW91cnZvaWNlGgl5b3Vydm9pY2UaCnZvaWNlY2xvbmUqPQoFY2xvbmUVEUe_PxoGY2xvbmVkGgZjbG9uZXMaB2Nsb25pbmcaCnZvaWNlY2xvbmUaCml2O3A7Y2xvbmUqCwoEZnJvbRUAAAAAKnkKDHVuYXV0aG9yaXplZBUAAAAAGgdpbGxlZ2FsGghpbXByb3BlchoGbWlzdXNlGg5ub24gYXV0aG9yaXplZBoObm90IGF1dGhvcml6ZWQaDHVuYXV0aG9yaXNlZBoIdW5sYXdmdWwaEWl2O3A7dW5hdXRob3JpemVkKjoKA3VzZRUv7Ls_GgZhY2Nlc3MaBm1pc3VzZRoFdXNhZ2UaBHVzZWQaBHVzZXIaBHVzZXMaBXVzaW5nKgkKAmluFQAAAAAqHQoFdmlkZW8VNW_BPRoGdmlkZW9zGgd2aWRlb2FpKhIKAmFpFb_RskAaB3ZpZGVvYWkyyQEvZ290bz91cmw9Q0FFU2lnRUJ4Q0pGMTVDVVVCOVBDN1hGME5WY2w0cDR0NnNDeWxzODFqbEw2MmpSQzB3R2dSaVEyNG93c2ljNkMwc3huaVQ0T2p1REg4aDlDOTFZcVJuOG8wcXdtV3BrbjdCbXlGRWNjUnRncENYeXlvblZEYVh3UDlBdENWQ1BVcXZOR3kxbEIxLW1nMzJOUkJRWDRqLU5LdV9VZDlIQU9NTWtOTlpNbkN5N3ZSVTVwTjVyOU1CejF4c1NHQlU6UEZpdmUgV2F5cyB0byA8Yj5Qcm90ZWN0IFlvdXIgVm9pY2U8L2I-IGZyb20gPGI-QUk8L2I-IFZvaWNlIDxiPkNsb25pbmc8L2I-IFNjYW1zQp4BMS4gPGI-U3dpdGNoIHRvIGF1dG9tYXRlZCB2b2ljZW1haWwgbWVzc2FnZXM8L2I-LiAyLiBDcmVhdGUgYSBmYW1pbHkgc2FmZSB3b3JkLiAzLiBMaW1pdCBzb2NpYWwgbWVkaWEgcmVjb3JkaW5ncy4gQXZvaWQgdm9pY2UgYmlvbWV0cmljIHZlcmlmaWNhdGlvbi4mbmJzcDsuLi5KAmluSgJ0b0oEZnJvbVIDeW91UgJteVIDb3VyIgIQAUgAWABoAA",
+        "source": "CFCA | Communications Fraud Control Association"
+      },
+      {
+        "position": 4,
+        "title": "AI Voice Cloning Scams: Detection and Prevention Guide",
+        "link": "https://www.google.com/goto?url=CAESvwEBxCJF1xt2C5fKz6NRhlG-lDzKgg4TgX9Kv5aYvmVnNtxIucHP_2ZzaXHzIdXg9zJipZnv6I4AQ1lNG47_IYgKwVKpNaIokmb6197eRrC1_OFj8fBzCAN2zeNSblRzpBlLhSLcb-EdPZxnlxY2MWI38zZShj_nD0wQ9Jh51XUgs1IPESWUCkcwWqpw2hPQpygWtMCdl_39gs-h5tnL8is5aO29aX9xbnQUFccRpl-qTpm4dAM_aEgLMW_1Qf6U7w",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvwEBxCJF1x_HmnAVhWw2sMifasNVQlP32iJ5I083oE4G9CtAy1VhW-gxPRrZAGgaKWKYOMjkoFNoNVyiwDi1REk0a4ob-ErYziN-HXR_ZmM7F1PFfBaytwvddwudq12xJfD4DBVKnmKoVKZHwzmXuU1Uwgi85C4xzetz5mLClGPkf69sW7wyO9XIp143xs-YwvEKw2jEZjuUIx-uxt0nIYq0m2vlyEaVUEKQ8_Khy7gBH1z_4hPugXVE44gI52aHlg&ved=2ahUKEwi2qL-N3JuYAxU7F2IAHa1ZIOYQFnoECCAQAQ&uoh=1",
+        "displayed_link": "https://www.adaptivesecurity.com \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEVHcEwJDRIJDRIJDRIJDRIAAAAHCxE5Oz2enp_AwMEiJCeurq____-Jiov6-_vKy8sABgze399TVFbz9PRsbW56e3wmc-q7AAAABXRSTlMAS9n_244DIRwAAADMSURBVHgBpdIFFsQgDEVRaPqD1G3_W50wcMK4vmOkt94aYxt6WGvF6GnWtM-xMWWB6_LGjAznQ81HVGR0_XUeitW0AQXh0jhOITeNaZzngl6GBbUlH5oxyBBl4HmeWeY1X1VxkzUQYwSIcY_Y-9QKeoTTGcNfOL7CaVmGG-z0zUGiK2QM3vsDTCXFESQqic24ObJf9QimZRw3h4JDL-3IEQ6Z9G4ZfW3CNRLWF0iIYVOc45juQZFmaDLo3TZU4lxZk9S-_qmNbR9TY80JYC4UrUe9pDgAAAAASUVORK5CYII.png",
+        "date": "Apr 22, 2026",
+        "snippet": "Protecting against AI voice cloning scams requires reducing personal audio exposure and establishing verification practices prior to any ...",
+        "snippet_highlighted_words": [
+          "reducing personal audio exposure"
+        ],
+        "sitelinks": {
+          "inline": [
+            {
+              "title": "Examples of AI Voice Cloning...",
+              "link": "https://www.google.com/goto?url=CAES8AEBxCJF11Y6g8HjJ5eGMAf3JyW-mCHh8paN2FMN0-cEoUcXozU45KgIyYJWc1xvoNyQP-sMKyQtHmypmSgqNFj4OMmIP90HoXKtN40H5j7vAc_UmAEfufatqWDULrjwbDbmzwgSZy04fWyH_DpDPC7vABflvIaEjkwtTOQ4IVQuga42V4Q6DyxZgpm87aQBzIEXzVMB5jDUs1zohje41kWKh71EtDYRdW5xGJ6QF-R_lac5GB2TOrwNUlCzfOM99sJWwsDFjnE-7878coa_OZhaJlzAljCgDdhddl6ZLEmTAl3fRWt0S0SlTF1yNXPYG74&gsessionid=a6yDBaZ-CC44E9cv1-kfQAMij0eiNcGN29-fp8MuFbN9gF9Fdhs5FQ"
+            },
+            {
+              "title": "How Organizations Can...",
+              "link": "https://www.google.com/goto?url=CAESjwIBxCJF1yfDIOCfXi0OlKbrZ_sKqJAR0pNCNbcPveAKhuxXA2jU4ythBPEi0oLA3cYrvEfFSDTHKOFdPTv5NxsmgDVUo5HmmSxLrEVb31nNOf9SoLJw1l9UdwrLg_M30FUgIFrlpbVQkro-xhy3Lvix1L9jEfmACaU30_Pv0CBWfe7FauvNdbk2toT-865DbqL9Hj6Pg9n9Ant7HBO8gN34aZPl3DaE6g_bDsuPBPC7IkiSwMw101Sudamwo2SSO3i2tOGjFEttfr8vrxRSrSBEu9UwsZj9ZvZUKqDd4LRAQKRAAHKBkBJeq-B1Q-EpKOSFX4leCASez6BRBLXZ0QsB_KJ01wBEDLb3LxNzoX7R&gsessionid=a6yDBaZ-CC44E9cv1-kfQAMij0eiNcGN29-fp8MuFbN9gF9Fdhs5FQ"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Protecting against AI voice cloning scams requires reducing personal audio exposure and establishing verification practices prior to any ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESvwEBxCJF1xt2C5fKz6NRhlG-lDzKgg4TgX9Kv5aYvmVnNtxIucHP_2ZzaXHzIdXg9zJipZnv6I4AQ1lNG47_IYgKwVKpNaIokmb6197eRrC1_OFj8fBzCAN2zeNSblRzpBlLhSLcb-EdPZxnlxY2MWI38zZShj_nD0wQ9Jh51XUgs1IPESWUCkcwWqpw2hPQpygWtMCdl_39gs-h5tnL8is5aO29aX9xbnQUFccRpl-qTpm4dAM_aEgLMW_1Qf6U7w",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEVHcEwJDRIJDRIJDRIJDRIAAAAHCxE5Oz2enp_AwMEiJCeurq____-Jiov6-_vKy8sABgze399TVFbz9PRsbW56e3wmc-q7AAAABXRSTlMAS9n_244DIRwAAADMSURBVHgBpdIFFsQgDEVRaPqD1G3_W50wcMK4vmOkt94aYxt6WGvF6GnWtM-xMWWB6_LGjAznQ81HVGR0_XUeitW0AQXh0jhOITeNaZzngl6GBbUlH5oxyBBl4HmeWeY1X1VxkzUQYwSIcY_Y-9QKeoTTGcNfOL7CaVmGG-z0zUGiK2QM3vsDTCXFESQqic24ObJf9QimZRw3h4JDL-3IEQ6Z9G4ZfW3CNRLWF0iIYVOc45juQZFmaDLo3TZU4lxZk9S-_qmNbR9TY80JYC4UrUe9pDgAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpACL2dvdG8_dXJsPUNBRVN2d0VCeENKRjF4dDJDNWZLejZOUmhsRy1sRHpLZ2c0VGdYOUt2NWFZdm1Wbk50eEl1Y0hQXzJaemFYSHpJZFhnOXpKaXBabnY2STRBUTFsTkc0N19JWWdLd1ZLcE5hSW9rbWI2MTk3ZVJyQzFfT0ZqOGZCekNBTjJ6ZU5TYmxSenBCbExoU0xjYi1FZFBaeG5seFkyTVdJMzh6WlNoal9uRDB3UTlKaDUxWFVnczFJUEVTV1VDa2N3V3FwdzJoUFFweWdXdE1DZGxfMzlncy1oNXRuTDhpczVhTzI5YVg5eGJuUVVGY2NScGwtcVRwbTRkQU1fYUVnTE1XXzFRZjZVN3cSBBoCCAAa9QgSAggAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDPCAgAEAAYACAAKgoKA2hvdxVdFWRAKgkKAnRvFQAAAAAqYQoHcHJvdGVjdBWOwaY_GgRrZWVwGgdwcmV2ZW50Ggpwcm90ZWN0aW5nGglzYWZlZ3VhcmQaBHNhdmUaBnNlY3VyZRoLcHJvdGVjdHlvdXIaEHByb3RlY3R5b3Vydm9pY2UqSgoEeW91chUvONE-GgJteRoDb3VyGgV0aGVpchoDeW91Ggtwcm90ZWN0eW91choQcHJvdGVjdHlvdXJ2b2ljZRoJeW91cnZvaWNlKjUKBXZvaWNlFSLm0kAaEHByb3RlY3R5b3Vydm9pY2UaCXlvdXJ2b2ljZRoKdm9pY2VjbG9uZSo9CgVjbG9uZRVUHoU_GgZjbG9uZWQaBmNsb25lcxoHY2xvbmluZxoKdm9pY2VjbG9uZRoKaXY7cDtjbG9uZSoLCgRmcm9tFQAAAAAqeQoMdW5hdXRob3JpemVkFeNiaT8aB2lsbGVnYWwaCGltcHJvcGVyGgZtaXN1c2UaDm5vbiBhdXRob3JpemVkGg5ub3QgYXV0aG9yaXplZBoMdW5hdXRob3Jpc2VkGgh1bmxhd2Z1bBoRaXY7cDt1bmF1dGhvcml6ZWQqOgoDdXNlFZ7G5j8aBmFjY2VzcxoGbWlzdXNlGgV1c2FnZRoEdXNlZBoEdXNlchoEdXNlcxoFdXNpbmcqCQoCaW4VAAAAACodCgV2aWRlbxU2Ckc_GgZ2aWRlb3MaB3ZpZGVvYWkqEgoCYWkVNPrLQBoHdmlkZW9haTKQAi9nb3RvP3VybD1DQUVTdndFQnhDSkYxeHQyQzVmS3o2TlJobEctbER6S2dnNFRnWDlLdjVhWXZtVm5OdHhJdWNIUF8yWnphWEh6SWRYZzl6SmlwWm52Nkk0QVExbE5HNDdfSVlnS3dWS3BOYUlva21iNjE5N2VSckMxX09GajhmQnpDQU4yemVOU2JsUnpwQmxMaFNMY2ItRWRQWnhubHhZMk1XSTM4elpTaGpfbkQwd1E5Smg1MVhVZ3MxSVBFU1dVQ2tjd1dxcHcyaFBRcHlnV3RNQ2RsXzM5Z3MtaDV0bkw4aXM1YU8yOWFYOXhiblFVRmNjUnBsLXFUcG00ZEFNX2FFZ0xNV18xUWY2VTd3Oj08Yj5BSSBWb2ljZSBDbG9uaW5nPC9iPiBTY2FtczogRGV0ZWN0aW9uIGFuZCBQcmV2ZW50aW9uIEd1aWRlQpgBUHJvdGVjdGluZyBhZ2FpbnN0IEFJIHZvaWNlIGNsb25pbmcgc2NhbXMgcmVxdWlyZXMgPGI-cmVkdWNpbmcgcGVyc29uYWwgYXVkaW8gZXhwb3N1cmU8L2I-IGFuZCBlc3RhYmxpc2hpbmcgdmVyaWZpY2F0aW9uIHByYWN0aWNlcyBwcmlvciB0byBhbnkmbmJzcDsuLi5KBGZyb21KAnRvSgJpblIDb3VyUgJteVIDeW91IgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpACL2dvdG8_dXJsPUNBRVN2d0VCeENKRjF4dDJDNWZLejZOUmhsRy1sRHpLZ2c0VGdYOUt2NWFZdm1Wbk50eEl1Y0hQXzJaemFYSHpJZFhnOXpKaXBabnY2STRBUTFsTkc0N19JWWdLd1ZLcE5hSW9rbWI2MTk3ZVJyQzFfT0ZqOGZCekNBTjJ6ZU5TYmxSenBCbExoU0xjYi1FZFBaeG5seFkyTVdJMzh6WlNoal9uRDB3UTlKaDUxWFVnczFJUEVTV1VDa2N3V3FwdzJoUFFweWdXdE1DZGxfMzlncy1oNXRuTDhpczVhTzI5YVg5eGJuUVVGY2NScGwtcVRwbTRkQU1fYUVnTE1XXzFRZjZVN3cSBBoCCAAa9QgSAggAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDPCAgAEAAYACAAKgoKA2hvdxVdFWRAKgkKAnRvFQAAAAAqYQoHcHJvdGVjdBWOwaY_GgRrZWVwGgdwcmV2ZW50Ggpwcm90ZWN0aW5nGglzYWZlZ3VhcmQaBHNhdmUaBnNlY3VyZRoLcHJvdGVjdHlvdXIaEHByb3RlY3R5b3Vydm9pY2UqSgoEeW91chUvONE-GgJteRoDb3VyGgV0aGVpchoDeW91Ggtwcm90ZWN0eW91choQcHJvdGVjdHlvdXJ2b2ljZRoJeW91cnZvaWNlKjUKBXZvaWNlFSLm0kAaEHByb3RlY3R5b3Vydm9pY2UaCXlvdXJ2b2ljZRoKdm9pY2VjbG9uZSo9CgVjbG9uZRVUHoU_GgZjbG9uZWQaBmNsb25lcxoHY2xvbmluZxoKdm9pY2VjbG9uZRoKaXY7cDtjbG9uZSoLCgRmcm9tFQAAAAAqeQoMdW5hdXRob3JpemVkFeNiaT8aB2lsbGVnYWwaCGltcHJvcGVyGgZtaXN1c2UaDm5vbiBhdXRob3JpemVkGg5ub3QgYXV0aG9yaXplZBoMdW5hdXRob3Jpc2VkGgh1bmxhd2Z1bBoRaXY7cDt1bmF1dGhvcml6ZWQqOgoDdXNlFZ7G5j8aBmFjY2VzcxoGbWlzdXNlGgV1c2FnZRoEdXNlZBoEdXNlchoEdXNlcxoFdXNpbmcqCQoCaW4VAAAAACodCgV2aWRlbxU2Ckc_GgZ2aWRlb3MaB3ZpZGVvYWkqEgoCYWkVNPrLQBoHdmlkZW9haTKQAi9nb3RvP3VybD1DQUVTdndFQnhDSkYxeHQyQzVmS3o2TlJobEctbER6S2dnNFRnWDlLdjVhWXZtVm5OdHhJdWNIUF8yWnphWEh6SWRYZzl6SmlwWm52Nkk0QVExbE5HNDdfSVlnS3dWS3BOYUlva21iNjE5N2VSckMxX09GajhmQnpDQU4yemVOU2JsUnpwQmxMaFNMY2ItRWRQWnhubHhZMk1XSTM4elpTaGpfbkQwd1E5Smg1MVhVZ3MxSVBFU1dVQ2tjd1dxcHcyaFBRcHlnV3RNQ2RsXzM5Z3MtaDV0bkw4aXM1YU8yOWFYOXhiblFVRmNjUnBsLXFUcG00ZEFNX2FFZ0xNV18xUWY2VTd3Oj08Yj5BSSBWb2ljZSBDbG9uaW5nPC9iPiBTY2FtczogRGV0ZWN0aW9uIGFuZCBQcmV2ZW50aW9uIEd1aWRlQpgBUHJvdGVjdGluZyBhZ2FpbnN0IEFJIHZvaWNlIGNsb25pbmcgc2NhbXMgcmVxdWlyZXMgPGI-cmVkdWNpbmcgcGVyc29uYWwgYXVkaW8gZXhwb3N1cmU8L2I-IGFuZCBlc3RhYmxpc2hpbmcgdmVyaWZpY2F0aW9uIHByYWN0aWNlcyBwcmlvciB0byBhbnkmbmJzcDsuLi5KBGZyb21KAnRvSgJpblIDb3VyUgJteVIDeW91IgIQAUgAWABoAA",
+        "source": "Adaptive Security",
+        "read_more_link": "https://www.google.com/goto?url=CAESoQIBxCJF12SnMFBZkoQVpvP4Lc7dXjeNkIdybA48J5qQN2VPTqllHKF-yrrVLjnd_X5mleK3DCc0UmY2Nh7GiOFSAFf9sGkRR5i7sEyzHDLV8P8Yu5tK_uL2PR18FRKM6x4M3aOo4wYixI-TSrhBxz5NcCW8lf1wl2HrREGm7kRLD7-hnAgaYHgwcKoowOONKL22C-dr1O6Dq7aAZQ-zfft75yJsjhgHuLibYtbp6iBZ0yysW6Kw5QrKMBZ_uN7T0iGx9E79rnOMEZi73zxIpIj4mo11tbHvYmjRiDAIzi6P7nUrkuyBRn_VH2TQZwsBHBh5xHA_mmQG8sRmnknPNwE14BqbpLfZ3mQaITWgttNPDavqfMLnlgpVSjaJdni1Ait8&gsessionid=a6yDBaZ-CC44E9cv1-kfQAMij0eiNcGN29-fp8MuFbN9gF9Fdhs5FQ"
+      },
+      {
+        "position": 5,
+        "title": "How to Protect Your Music from AI Cloning (2026)",
+        "link": "https://www.google.com/goto?url=CAESyAEBxCJF1wB55LUxiOtEwoaBW7AGaOqo6_toIfSWNLi-uGe1jK2_eEVCpmLAeVVG6EjB8zKxnMn3Da5OhAxVY5n_Ax8RK-kn-MRhOK7dYqM6Hy-ZFxRnKw-ioPmwtHbLVoKw7bnVpMR48pU5zgw-teJxEjVnOJS4QPeiFsGLmZ2L2jOaQptoA2sDnB3YctjP3DLqukE-d4oTCKdcIc8Yb9YpYaDEgeVFERdGHMrA5wtXseXhNvaokHfgwevjXnQYldjHk_5cTz1o-w",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESyAEBxCJF17nRRO-4Fj7zOXTKQq5aVbVmetyb2cN1LBvMxt4Fn-rvj2Tn0ajGYy5Gire433rcGvHLPXjAsdk5ehgYlOs00iJPGxh2NWZ75WfRSl-tmKurbBdbRei2Uz31VAWz9fgBbM8mh0YtUNh3330PFKoyqjLtCkuv5jnOCa3vgijPDA8RDDrf2eGJMjMG8PQdyVDP48R6buftdlWNPMEKiOFVIHA9Y1MXFHlWkMINCHj6tvO1XUdh2aT0KKlzrtR7PFgRLKV0bg&ved=2ahUKEwi2qL-N3JuYAxU7F2IAHa1ZIOYQFnoECBsQAQ&uoh=1",
+        "displayed_link": "https://www.chartlex.com \u203a Blog \u203a Business",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAALVBMVEVHcEwFCBAFCBAFCBAFCBAFCBAFCBADAAsfxlkLQyMbsVAIJhkSczcPWSwYlkWT0VONAAAABnRSTlMA871Oy8qnkT66AAAAmklEQVQokX2T2xbFEAxEp2hCVP__c6u1juZQmTe2y0gGAHi30aDNeTwKI2kKBnuoXzEiD7eGDpMX5Qp6xFV6DI1yKUljKHbGKkn8BSUemZLEl3bIR529JTJDkpPbIiEeIOdY-Gd52pnUXSPkF3647cdSniF3QzGPhojMp1hFsMtnFr517L9lZrPNmJgBw75i-x3cBQ0t8svvcAGsWxK3G8uyWgAAAABJRU5ErkJggg.png",
+        "date": "Apr 20, 2026",
+        "snippet": "To protect your music from AI cloning in 2026: register all recordings with the U.S. Copyright Office, embed metadata watermarks in your masters ...",
+        "snippet_highlighted_words": [
+          "register all recordings with the U.S. Copyright Office"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "To protect your music from AI cloning in 2026: register all recordings with the U.S. Copyright Office, embed metadata watermarks in your masters ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESyAEBxCJF1wB55LUxiOtEwoaBW7AGaOqo6_toIfSWNLi-uGe1jK2_eEVCpmLAeVVG6EjB8zKxnMn3Da5OhAxVY5n_Ax8RK-kn-MRhOK7dYqM6Hy-ZFxRnKw-ioPmwtHbLVoKw7bnVpMR48pU5zgw-teJxEjVnOJS4QPeiFsGLmZ2L2jOaQptoA2sDnB3YctjP3DLqukE-d4oTCKdcIc8Yb9YpYaDEgeVFERdGHMrA5wtXseXhNvaokHfgwevjXnQYldjHk_5cTz1o-w",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAALVBMVEVHcEwFCBAFCBAFCBAFCBAFCBAFCBADAAsfxlkLQyMbsVAIJhkSczcPWSwYlkWT0VONAAAABnRSTlMA871Oy8qnkT66AAAAmklEQVQokX2T2xbFEAxEp2hCVP__c6u1juZQmTe2y0gGAHi30aDNeTwKI2kKBnuoXzEiD7eGDpMX5Qp6xFV6DI1yKUljKHbGKkn8BSUemZLEl3bIR529JTJDkpPbIiEeIOdY-Gd52pnUXSPkF3647cdSniF3QzGPhojMp1hFsMtnFr517L9lZrPNmJgBw75i-x3cBQ0t8svvcAGsWxK3G8uyWgAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwCL2dvdG8_dXJsPUNBRVN5QUVCeENKRjF3QjU1TFV4aU90RXdvYUJXN0FHYU9xbzZfdG9JZlNXTkxpLXVHZTFqSzJfZUVWQ3BtTEFlVlZHNkVqQjh6S3huTW4zRGE1T2hBeFZZNW5fQXg4Uksta24tTVJoT0s3ZFlxTTZIeS1aRnhSbkt3LWlvUG13dEhiTFZvS3c3Ym5WcE1SNDhwVTV6Z3ctdGVKeEVqVm5PSlM0UVBlaUZzR0xtWjJMMmpPYVFwdG9BMnNEbkIzWWN0alAzRExxdWtFLWQ0b1RDS2RjSWM4WWI5WXBZYURFZ2VWRkVSZEdITXJBNXd0WHNlWGhOdmFva0hmZ3dldmpYblFZbGRqSGtfNWNUejFvLXcSBBoCCAAavQgSAggAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCXCAgAEAAYACAAKgoKA2hvdxUlI5FAKgkKAnRvFQAAAAAqYQoHcHJvdGVjdBWvRa5AGgRrZWVwGgdwcmV2ZW50Ggpwcm90ZWN0aW5nGglzYWZlZ3VhcmQaBHNhdmUaBnNlY3VyZRoLcHJvdGVjdHlvdXIaEHByb3RlY3R5b3Vydm9pY2UqSgoEeW91chUuD89AGgJteRoDb3VyGgV0aGVpchoDeW91Ggtwcm90ZWN0eW91choQcHJvdGVjdHlvdXJ2b2ljZRoJeW91cnZvaWNlKjUKBXZvaWNlFYUoZkAaEHByb3RlY3R5b3Vydm9pY2UaCXlvdXJ2b2ljZRoKdm9pY2VjbG9uZSo9CgVjbG9uZRWBqiBAGgZjbG9uZWQaBmNsb25lcxoHY2xvbmluZxoKdm9pY2VjbG9uZRoKaXY7cDtjbG9uZSoLCgRmcm9tFQAAAAAqeQoMdW5hdXRob3JpemVkFVA71T8aB2lsbGVnYWwaCGltcHJvcGVyGgZtaXN1c2UaDm5vbiBhdXRob3JpemVkGg5ub3QgYXV0aG9yaXplZBoMdW5hdXRob3Jpc2VkGgh1bmxhd2Z1bBoRaXY7cDt1bmF1dGhvcml6ZWQqOgoDdXNlFaCwpD8aBmFjY2VzcxoGbWlzdXNlGgV1c2FnZRoEdXNlZBoEdXNlchoEdXNlcxoFdXNpbmcqCQoCaW4VAAAAACodCgV2aWRlbxWz58M8GgZ2aWRlb3MaB3ZpZGVvYWkqEgoCYWkVrDL4QBoHdmlkZW9haTLEAS9nb3RvP3VybD1DQUVTaGdFQnhDSkYxd3FySEdlc0Q5TGlXTGMzNjNseks4TkpDeTEzV1JTeEJ6WEg1NUh2RmdBeHpUMmdraDRUdlhTUTRKRS1KQkVfTGdsVFN2RVlJT2JSQkZfbVFoOGpUQmdKcGFyNW1ub2NTakRRc1dMYkVTUkNKSEdYRGtRVFZjTTdQM0xXOXdQZk5EX1hucXRmaGlQQkRPbnh3ZkxMcE56VG90b09PbnBtT0NiSWFFWm9reFJGQ3c6STxiPkhvdyB0byBQcm90ZWN0IFlvdXI8L2I-IE11c2ljIGZyb20gPGI-QUkgQ2xvbmluZzwvYj4gKDIwMjYpIC0gQ2hhcnRsZXhCoAFUbyBwcm90ZWN0IHlvdXIgbXVzaWMgZnJvbSBBSSBjbG9uaW5nIGluIDIwMjY6IDxiPnJlZ2lzdGVyIGFsbCByZWNvcmRpbmdzIHdpdGggdGhlIFUuUy4gQ29weXJpZ2h0IE9mZmljZTwvYj4sIGVtYmVkIG1ldGFkYXRhIHdhdGVybWFya3MgaW4geW91ciBtYXN0ZXJzJm5ic3A7Li4uSgJpbkoCdG9KBGZyb21SA291clICbXlSA3lvdSICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwCL2dvdG8_dXJsPUNBRVN5QUVCeENKRjF3QjU1TFV4aU90RXdvYUJXN0FHYU9xbzZfdG9JZlNXTkxpLXVHZTFqSzJfZUVWQ3BtTEFlVlZHNkVqQjh6S3huTW4zRGE1T2hBeFZZNW5fQXg4Uksta24tTVJoT0s3ZFlxTTZIeS1aRnhSbkt3LWlvUG13dEhiTFZvS3c3Ym5WcE1SNDhwVTV6Z3ctdGVKeEVqVm5PSlM0UVBlaUZzR0xtWjJMMmpPYVFwdG9BMnNEbkIzWWN0alAzRExxdWtFLWQ0b1RDS2RjSWM4WWI5WXBZYURFZ2VWRkVSZEdITXJBNXd0WHNlWGhOdmFva0hmZ3dldmpYblFZbGRqSGtfNWNUejFvLXcSBBoCCAAavQgSAggAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCXCAgAEAAYACAAKgoKA2hvdxUlI5FAKgkKAnRvFQAAAAAqYQoHcHJvdGVjdBWvRa5AGgRrZWVwGgdwcmV2ZW50Ggpwcm90ZWN0aW5nGglzYWZlZ3VhcmQaBHNhdmUaBnNlY3VyZRoLcHJvdGVjdHlvdXIaEHByb3RlY3R5b3Vydm9pY2UqSgoEeW91chUuD89AGgJteRoDb3VyGgV0aGVpchoDeW91Ggtwcm90ZWN0eW91choQcHJvdGVjdHlvdXJ2b2ljZRoJeW91cnZvaWNlKjUKBXZvaWNlFYUoZkAaEHByb3RlY3R5b3Vydm9pY2UaCXlvdXJ2b2ljZRoKdm9pY2VjbG9uZSo9CgVjbG9uZRWBqiBAGgZjbG9uZWQaBmNsb25lcxoHY2xvbmluZxoKdm9pY2VjbG9uZRoKaXY7cDtjbG9uZSoLCgRmcm9tFQAAAAAqeQoMdW5hdXRob3JpemVkFVA71T8aB2lsbGVnYWwaCGltcHJvcGVyGgZtaXN1c2UaDm5vbiBhdXRob3JpemVkGg5ub3QgYXV0aG9yaXplZBoMdW5hdXRob3Jpc2VkGgh1bmxhd2Z1bBoRaXY7cDt1bmF1dGhvcml6ZWQqOgoDdXNlFaCwpD8aBmFjY2VzcxoGbWlzdXNlGgV1c2FnZRoEdXNlZBoEdXNlchoEdXNlcxoFdXNpbmcqCQoCaW4VAAAAACodCgV2aWRlbxWz58M8GgZ2aWRlb3MaB3ZpZGVvYWkqEgoCYWkVrDL4QBoHdmlkZW9haTLEAS9nb3RvP3VybD1DQUVTaGdFQnhDSkYxd3FySEdlc0Q5TGlXTGMzNjNseks4TkpDeTEzV1JTeEJ6WEg1NUh2RmdBeHpUMmdraDRUdlhTUTRKRS1KQkVfTGdsVFN2RVlJT2JSQkZfbVFoOGpUQmdKcGFyNW1ub2NTakRRc1dMYkVTUkNKSEdYRGtRVFZjTTdQM0xXOXdQZk5EX1hucXRmaGlQQkRPbnh3ZkxMcE56VG90b09PbnBtT0NiSWFFWm9reFJGQ3c6STxiPkhvdyB0byBQcm90ZWN0IFlvdXI8L2I-IE11c2ljIGZyb20gPGI-QUkgQ2xvbmluZzwvYj4gKDIwMjYpIC0gQ2hhcnRsZXhCoAFUbyBwcm90ZWN0IHlvdXIgbXVzaWMgZnJvbSBBSSBjbG9uaW5nIGluIDIwMjY6IDxiPnJlZ2lzdGVyIGFsbCByZWNvcmRpbmdzIHdpdGggdGhlIFUuUy4gQ29weXJpZ2h0IE9mZmljZTwvYj4sIGVtYmVkIG1ldGFkYXRhIHdhdGVybWFya3MgaW4geW91ciBtYXN0ZXJzJm5ic3A7Li4uSgJpbkoCdG9KBGZyb21SA291clICbXlSA3lvdSICEAFIAFgAaAA",
+        "source": "Chartlex",
+        "read_more_link": "https://www.google.com/goto?url=CAESlgIBxCJF1yaynM36yHo8R0aoybWmWUJCNmXUvX_vbTIPXXWwmrJFXp-vdmkGzXYM3BdEmVrkh2JywMg2d85MbeeIvbf3r6Bx0QA2CrvXPtNPk_wWR539dVrshk4Bl0MwsnjluXYKmgODC_iJdCyWwTxhulFVPQNcH7RGrmy_qXsbVG0-0BiXi46Zmfpu72Ut7DoMIQPvTukAU24q419XgKuPS_A_Mpt8PAVQbOc1qQwrVSxJ78uw64YFQwR-oiO2_oDfW8DPhCfxwiGeACCas4APgWcex6S0xY8qxqhGx8UnShT8XSbi4C5cOSAgjlCGAeGgwns89L_YAIB2Mvau0tnal33WpCJmI7ULPSWQpQkkkD_l6NDP_A&gsessionid=a6yDBaZ-CC44E9cv1-kfQAMij0eiNcGN29-fp8MuFbN9gF9Fdhs5FQ"
+      },
+      {
+        "position": 6,
+        "title": "How to Sue for Unauthorized Voice Cloning in 2026",
+        "link": "https://www.google.com/goto?url=CAESkgEBxCJF150_Wces-BPVP3S1JY67SMC5Ho6fbzBJj-ryTfh8mY8Ma-gRssD9uzGzqu4nsX8nDF-y9u_ItM4TnwHf3qtyjNj5vwNCBuYhqLkOI60NLqc4dn5KX4-VyYj5OL0yU0ayppy707unkcSHT3iVxVf88RptgMmI7FmYaA8efVSyYYrBq-iQQ82vp2keBlwtOg",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkgEBxCJF10JsRjJmMlSiZ3Do2YiyxVJw3Qq_PBWPrSCzsu7PgPTQJ7lbqvgA0wkDD3UvsjvULo_G7iPBTFArYVQ1S9zRkkm-MMZVP6m11ap-sriLjZxnphnelxqQMJmbbuyRMrG5k2qIlhoxOMnnZDESZQFREHG08hxOVXt4gPNmyNX8jJTIei-VCYbSR3zjf5rEIQ&ved=2ahUKEwi2qL-N3JuYAxU7F2IAHa1ZIOYQFnoECB0QAQ&uoh=1",
+        "displayed_link": "https://www.soundverse.ai \u203a blog \u203a article \u203a how-to-sue...",
+        "favicon": "https://serpapi.com/searches/6b02f315f29655e246aaa908/images/0Krunifs_USIh0wecFZp8jO6BwJsnncnSz4pvEWyaWM.png",
+        "date": "Feb 3, 2026",
+        "snippet": "Learn how to file an unauthorized voice cloning lawsuit in 2026 using Soundverse Trace for voice rights enforcement.",
+        "snippet_highlighted_words": [
+          "Learn how to file an unauthorized voice cloning lawsuit"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Learn how to file an unauthorized voice cloning lawsuit in 2026 using Soundverse Trace for voice rights enforcement.",
+            "source_info_link": "https://www.google.com/goto?url=CAESkgEBxCJF150_Wces-BPVP3S1JY67SMC5Ho6fbzBJj-ryTfh8mY8Ma-gRssD9uzGzqu4nsX8nDF-y9u_ItM4TnwHf3qtyjNj5vwNCBuYhqLkOI60NLqc4dn5KX4-VyYj5OL0yU0ayppy707unkcSHT3iVxVf88RptgMmI7FmYaA8efVSyYYrBq-iQQ82vp2keBlwtOg",
+            "icon": "https://serpapi.com/searches/6b02f315f29655e246aaa908/images/0Krunifs_USIh0wecFZp8hAGe40AdqaKrd9eq51o-PS0Bb09dJcOXC9wqw8xJ5x2.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCeENKRjE1MF9XY2VzLUJQVlAzUzFKWTY3U01DNUhvNmZiekJKai1yeVRmaDhtWThNYS1nUnNzRDl1ekd6cXU0bnNYOG5ERi15OXVfSXRNNFRud0hmM3F0eWpOajV2d05DQnVZaHFMa09JNjBOTHFjNGRuNUtYNC1WeVlqNU9MMHlVMGF5cHB5NzA3dW5rY1NIVDNpVnhWZjg4UnB0Z01tSTdGbVlhQThlZlZTeVlZckJxLWlRUTgydnAya2VCbHd0T2cSBBoCCAAalAgSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA8AcIABAAGAAgACoKCgNob3cVGpBYQCoJCgJ0bxUAAAAAKmEKB3Byb3RlY3QV-qk2PxoEa2VlcBoHcHJldmVudBoKcHJvdGVjdGluZxoJc2FmZWd1YXJkGgRzYXZlGgZzZWN1cmUaC3Byb3RlY3R5b3VyGhBwcm90ZWN0eW91cnZvaWNlKkoKBHlvdXIVA8ZfQBoCbXkaA291choFdGhlaXIaA3lvdRoLcHJvdGVjdHlvdXIaEHByb3RlY3R5b3Vydm9pY2UaCXlvdXJ2b2ljZSo1CgV2b2ljZRWqJM9AGhBwcm90ZWN0eW91cnZvaWNlGgl5b3Vydm9pY2UaCnZvaWNlY2xvbmUqPQoFY2xvbmUV2leZPhoGY2xvbmVkGgZjbG9uZXMaB2Nsb25pbmcaCnZvaWNlY2xvbmUaCml2O3A7Y2xvbmUqCwoEZnJvbRUAAAAAKnkKDHVuYXV0aG9yaXplZBVCpI1AGgdpbGxlZ2FsGghpbXByb3BlchoGbWlzdXNlGg5ub24gYXV0aG9yaXplZBoObm90IGF1dGhvcml6ZWQaDHVuYXV0aG9yaXNlZBoIdW5sYXdmdWwaEWl2O3A7dW5hdXRob3JpemVkKjoKA3VzZRUzDu4_GgZhY2Nlc3MaBm1pc3VzZRoFdXNhZ2UaBHVzZWQaBHVzZXIaBHVzZXMaBXVzaW5nKgkKAmluFQAAAAAqHQoFdmlkZW8VgO9CPxoGdmlkZW9zGgd2aWRlb2FpKhIKAmFpFeO9uEAaB3ZpZGVvYWky1AEvZ290bz91cmw9Q0FFU2tnRUJ4Q0pGMTUwX1djZXMtQlBWUDNTMUpZNjdTTUM1SG82ZmJ6QkpqLXJ5VGZoOG1ZOE1hLWdSc3NEOXV6R3pxdTRuc1g4bkRGLXk5dV9JdE00VG53SGYzcXR5ak5qNXZ3TkNCdVlocUxrT0k2ME5McWM0ZG41S1g0LVZ5WWo1T0wweVUwYXlwcHk3MDd1bmtjU0hUM2lWeFZmODhScHRnTW1JN0ZtWWFBOGVmVlN5WVlyQnEtaVFRODJ2cDJrZUJsd3RPZzo4SG93IHRvIFN1ZSBmb3IgPGI-VW5hdXRob3JpemVkIFZvaWNlIENsb25pbmc8L2I-IGluIDIwMjZCezxiPkxlYXJuIGhvdyB0byBmaWxlIGFuIHVuYXV0aG9yaXplZCB2b2ljZSBjbG9uaW5nIGxhd3N1aXQ8L2I-IGluIDIwMjYgdXNpbmcgU291bmR2ZXJzZSBUcmFjZSBmb3Igdm9pY2UgcmlnaHRzIGVuZm9yY2VtZW50LkoEZnJvbUoCdG9KAmluUgN5b3VSAm15UgNvdXIiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCeENKRjE1MF9XY2VzLUJQVlAzUzFKWTY3U01DNUhvNmZiekJKai1yeVRmaDhtWThNYS1nUnNzRDl1ekd6cXU0bnNYOG5ERi15OXVfSXRNNFRud0hmM3F0eWpOajV2d05DQnVZaHFMa09JNjBOTHFjNGRuNUtYNC1WeVlqNU9MMHlVMGF5cHB5NzA3dW5rY1NIVDNpVnhWZjg4UnB0Z01tSTdGbVlhQThlZlZTeVlZckJxLWlRUTgydnAya2VCbHd0T2cSBBoCCAAalAgSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA8AcIABAAGAAgACoKCgNob3cVGpBYQCoJCgJ0bxUAAAAAKmEKB3Byb3RlY3QV-qk2PxoEa2VlcBoHcHJldmVudBoKcHJvdGVjdGluZxoJc2FmZWd1YXJkGgRzYXZlGgZzZWN1cmUaC3Byb3RlY3R5b3VyGhBwcm90ZWN0eW91cnZvaWNlKkoKBHlvdXIVA8ZfQBoCbXkaA291choFdGhlaXIaA3lvdRoLcHJvdGVjdHlvdXIaEHByb3RlY3R5b3Vydm9pY2UaCXlvdXJ2b2ljZSo1CgV2b2ljZRWqJM9AGhBwcm90ZWN0eW91cnZvaWNlGgl5b3Vydm9pY2UaCnZvaWNlY2xvbmUqPQoFY2xvbmUV2leZPhoGY2xvbmVkGgZjbG9uZXMaB2Nsb25pbmcaCnZvaWNlY2xvbmUaCml2O3A7Y2xvbmUqCwoEZnJvbRUAAAAAKnkKDHVuYXV0aG9yaXplZBVCpI1AGgdpbGxlZ2FsGghpbXByb3BlchoGbWlzdXNlGg5ub24gYXV0aG9yaXplZBoObm90IGF1dGhvcml6ZWQaDHVuYXV0aG9yaXNlZBoIdW5sYXdmdWwaEWl2O3A7dW5hdXRob3JpemVkKjoKA3VzZRUzDu4_GgZhY2Nlc3MaBm1pc3VzZRoFdXNhZ2UaBHVzZWQaBHVzZXIaBHVzZXMaBXVzaW5nKgkKAmluFQAAAAAqHQoFdmlkZW8VgO9CPxoGdmlkZW9zGgd2aWRlb2FpKhIKAmFpFeO9uEAaB3ZpZGVvYWky1AEvZ290bz91cmw9Q0FFU2tnRUJ4Q0pGMTUwX1djZXMtQlBWUDNTMUpZNjdTTUM1SG82ZmJ6QkpqLXJ5VGZoOG1ZOE1hLWdSc3NEOXV6R3pxdTRuc1g4bkRGLXk5dV9JdE00VG53SGYzcXR5ak5qNXZ3TkNCdVlocUxrT0k2ME5McWM0ZG41S1g0LVZ5WWo1T0wweVUwYXlwcHk3MDd1bmtjU0hUM2lWeFZmODhScHRnTW1JN0ZtWWFBOGVmVlN5WVlyQnEtaVFRODJ2cDJrZUJsd3RPZzo4SG93IHRvIFN1ZSBmb3IgPGI-VW5hdXRob3JpemVkIFZvaWNlIENsb25pbmc8L2I-IGluIDIwMjZCezxiPkxlYXJuIGhvdyB0byBmaWxlIGFuIHVuYXV0aG9yaXplZCB2b2ljZSBjbG9uaW5nIGxhd3N1aXQ8L2I-IGluIDIwMjYgdXNpbmcgU291bmR2ZXJzZSBUcmFjZSBmb3Igdm9pY2UgcmlnaHRzIGVuZm9yY2VtZW50LkoEZnJvbUoCdG9KAmluUgN5b3VSAm15UgNvdXIiAhABSABYAGgA",
+        "source": "Soundverse AI"
+      },
+      {
+        "position": 7,
+        "title": "How to Protect Your Voice in the Age of AI Cloning",
+        "link": "https://www.google.com/goto?url=CAESigEBxCJF1zuEzlm-YbtCljhkEmA-g6Ys6MocOsOCiILIh4XpZPvLNh0gTh9Q5olmiFQDUTh4Hq08YXxafb5moA8iS-3vDsV67kzyy1VknfIXS52xe59Ux-PvhuYpEiuSh3Hr0DlPOlwPZW_owo3w0hRN5s_sxDi1ZxujKwkCEO-n_q6xZoAZ7aRUu3Y",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESigEBxCJF18CnNftOv2owjLkUFe8cw_WR9mZHBLjKWs8rjrWp_yRz3EUUJDmpA9bnb4qcGIYwL0r8VSTIrAmgjWu2RPwz6sRo1ZbU-yToL0kpgCOuPofD2FNNoLeVrRG-4Hf6Q4k2a-CVGdWDEYlnotSAt4N62jbW3I396QBA7uHTpxrqu8JL2l-Zryc&ved=2ahUKEwi2qL-N3JuYAxU7F2IAHa1ZIOYQFnoECEwQAQ&uoh=1",
+        "displayed_link": "https://www.lalal.ai \u203a blog \u203a how-to-protect-your-voice...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEX40jH71TH_2DK2mimJdSV4ZiMAABngvi7Ssi3_2zLNrSwAABsZGBzeA6ksAAAAQElEQVR4AWOgMxBSROYxmjgLIHGZwlIVkGUr2pFlGQQFkeRmggFMXmrPGSA4vRCDi6kYYRSmRQhnoDkSzQv0BQB92BfHsd0TrQAAAABJRU5ErkJggg.png",
+        "date": "May 8, 2025",
+        "snippet": "How to Protect Your Voice in the Age of AI Cloning \u00b7 1. Think Twice Before Sharing Your Voice \u00b7 2. A Secret Word Can Save You from Scams \u00b7 3.",
+        "snippet_highlighted_words": [
+          "1. Think Twice Before Sharing Your Voice"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "How to Protect Your Voice in the Age of AI Cloning \u00b7 1. Think Twice Before Sharing Your Voice \u00b7 2. A Secret Word Can Save You from Scams \u00b7 3.",
+            "source_info_link": "https://www.google.com/goto?url=CAESigEBxCJF1zuEzlm-YbtCljhkEmA-g6Ys6MocOsOCiILIh4XpZPvLNh0gTh9Q5olmiFQDUTh4Hq08YXxafb5moA8iS-3vDsV67kzyy1VknfIXS52xe59Ux-PvhuYpEiuSh3Hr0DlPOlwPZW_owo3w0hRN5s_sxDi1ZxujKwkCEO-n_q6xZoAZ7aRUu3Y",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJ1BMVEX40jH71TH_2DK2mimJdSV4ZiMAABngvi7Ssi3_2zLNrSwAABsZGBzeA6ksAAAAQElEQVR4AWOgMxBSROYxmjgLIHGZwlIVkGUr2pFlGQQFkeRmggFMXmrPGSA4vRCDi6kYYRSmRQhnoDkSzQv0BQB92BfHsd0TrQAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CskBL2dvdG8_dXJsPUNBRVNpZ0VCeENKRjF6dUV6bG0tWWJ0Q2xqaGtFbUEtZzZZczZNb2NPc09DaUlMSWg0WHBaUHZMTmgwZ1RoOVE1b2xtaUZRRFVUaDRIcTA4WVh4YWZiNW1vQThpUy0zdkRzVjY3a3p5eTFWa25mSVhTNTJ4ZTU5VXgtUHZodVlwRWl1U2gzSHIwRGxQT2x3UFpXX293bzN3MGhSTjVzX3N4RGkxWnh1akt3a0NFTy1uX3E2eFpvQVo3YVJVdTNZEgQaAggAGtQIEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJArggIABAAGAAgACoKCgNob3cVYRGuQCoJCgJ0bxUAAAAAKmEKB3Byb3RlY3QVu2O4QBoEa2VlcBoHcHJldmVudBoKcHJvdGVjdGluZxoJc2FmZWd1YXJkGgRzYXZlGgZzZWN1cmUaC3Byb3RlY3R5b3VyGhBwcm90ZWN0eW91cnZvaWNlKkoKBHlvdXIVi47yQBoCbXkaA291choFdGhlaXIaA3lvdRoLcHJvdGVjdHlvdXIaEHByb3RlY3R5b3Vydm9pY2UaCXlvdXJ2b2ljZSo1CgV2b2ljZRUsDwJBGhBwcm90ZWN0eW91cnZvaWNlGgl5b3Vydm9pY2UaCnZvaWNlY2xvbmUqPQoFY2xvbmUVCY6hPxoGY2xvbmVkGgZjbG9uZXMaB2Nsb25pbmcaCnZvaWNlY2xvbmUaCml2O3A7Y2xvbmUqCwoEZnJvbRUAAAAAKnkKDHVuYXV0aG9yaXplZBXvDO0-GgdpbGxlZ2FsGghpbXByb3BlchoGbWlzdXNlGg5ub24gYXV0aG9yaXplZBoObm90IGF1dGhvcml6ZWQaDHVuYXV0aG9yaXNlZBoIdW5sYXdmdWwaEWl2O3A7dW5hdXRob3JpemVkKjoKA3VzZRUKoQdAGgZhY2Nlc3MaBm1pc3VzZRoFdXNhZ2UaBHVzZWQaBHVzZXIaBHVzZXMaBXVzaW5nKgkKAmluFQAAAAAqHQoFdmlkZW8VQsOoPxoGdmlkZW9zGgd2aWRlb2FpKhIKAmFpFV4r1UAaB3ZpZGVvYWkyyQEvZ290bz91cmw9Q0FFU2lnRUJ4Q0pGMXp1RXpsbS1ZYnRDbGpoa0VtQS1nNllzNk1vY09zT0NpSUxJaDRYcFpQdkxOaDBnVGg5UTVvbG1pRlFEVVRoNEhxMDhZWHhhZmI1bW9BOGlTLTN2RHNWNjdrenl5MVZrbmZJWFM1MnhlNTlVeC1Qdmh1WXBFaXVTaDNIcjBEbFBPbHdQWldfb3dvM3cwaFJONXNfc3hEaTFaeHVqS3drQ0VPLW5fcTZ4Wm9BWjdhUlV1M1k6UjxiPkhvdyB0byBQcm90ZWN0IFlvdXIgVm9pY2U8L2I-IGluIHRoZSBBZ2Ugb2YgPGI-QUkgQ2xvbmluZzwvYj4gLSBMQUxBTC48Yj5BSTwvYj5CqQFIb3cgdG8gUHJvdGVjdCBZb3VyIFZvaWNlIGluIHRoZSBBZ2Ugb2YgQUkgQ2xvbmluZyAmbWlkZG90OyA8Yj4xLiBUaGluayBUd2ljZSBCZWZvcmUgU2hhcmluZyBZb3VyIFZvaWNlPC9iPiAmbWlkZG90OyAyLiBBIFNlY3JldCBXb3JkIENhbiBTYXZlIFlvdSBmcm9tIFNjYW1zICZtaWRkb3Q7IDMuSgRmcm9tSgJ0b0oCaW5SA291clICbXlSA3lvdSICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CskBL2dvdG8_dXJsPUNBRVNpZ0VCeENKRjF6dUV6bG0tWWJ0Q2xqaGtFbUEtZzZZczZNb2NPc09DaUlMSWg0WHBaUHZMTmgwZ1RoOVE1b2xtaUZRRFVUaDRIcTA4WVh4YWZiNW1vQThpUy0zdkRzVjY3a3p5eTFWa25mSVhTNTJ4ZTU5VXgtUHZodVlwRWl1U2gzSHIwRGxQT2x3UFpXX293bzN3MGhSTjVzX3N4RGkxWnh1akt3a0NFTy1uX3E2eFpvQVo3YVJVdTNZEgQaAggAGtQIEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJArggIABAAGAAgACoKCgNob3cVYRGuQCoJCgJ0bxUAAAAAKmEKB3Byb3RlY3QVu2O4QBoEa2VlcBoHcHJldmVudBoKcHJvdGVjdGluZxoJc2FmZWd1YXJkGgRzYXZlGgZzZWN1cmUaC3Byb3RlY3R5b3VyGhBwcm90ZWN0eW91cnZvaWNlKkoKBHlvdXIVi47yQBoCbXkaA291choFdGhlaXIaA3lvdRoLcHJvdGVjdHlvdXIaEHByb3RlY3R5b3Vydm9pY2UaCXlvdXJ2b2ljZSo1CgV2b2ljZRUsDwJBGhBwcm90ZWN0eW91cnZvaWNlGgl5b3Vydm9pY2UaCnZvaWNlY2xvbmUqPQoFY2xvbmUVCY6hPxoGY2xvbmVkGgZjbG9uZXMaB2Nsb25pbmcaCnZvaWNlY2xvbmUaCml2O3A7Y2xvbmUqCwoEZnJvbRUAAAAAKnkKDHVuYXV0aG9yaXplZBXvDO0-GgdpbGxlZ2FsGghpbXByb3BlchoGbWlzdXNlGg5ub24gYXV0aG9yaXplZBoObm90IGF1dGhvcml6ZWQaDHVuYXV0aG9yaXNlZBoIdW5sYXdmdWwaEWl2O3A7dW5hdXRob3JpemVkKjoKA3VzZRUKoQdAGgZhY2Nlc3MaBm1pc3VzZRoFdXNhZ2UaBHVzZWQaBHVzZXIaBHVzZXMaBXVzaW5nKgkKAmluFQAAAAAqHQoFdmlkZW8VQsOoPxoGdmlkZW9zGgd2aWRlb2FpKhIKAmFpFV4r1UAaB3ZpZGVvYWkyyQEvZ290bz91cmw9Q0FFU2lnRUJ4Q0pGMXp1RXpsbS1ZYnRDbGpoa0VtQS1nNllzNk1vY09zT0NpSUxJaDRYcFpQdkxOaDBnVGg5UTVvbG1pRlFEVVRoNEhxMDhZWHhhZmI1bW9BOGlTLTN2RHNWNjdrenl5MVZrbmZJWFM1MnhlNTlVeC1Qdmh1WXBFaXVTaDNIcjBEbFBPbHdQWldfb3dvM3cwaFJONXNfc3hEaTFaeHVqS3drQ0VPLW5fcTZ4Wm9BWjdhUlV1M1k6UjxiPkhvdyB0byBQcm90ZWN0IFlvdXIgVm9pY2U8L2I-IGluIHRoZSBBZ2Ugb2YgPGI-QUkgQ2xvbmluZzwvYj4gLSBMQUxBTC48Yj5BSTwvYj5CqQFIb3cgdG8gUHJvdGVjdCBZb3VyIFZvaWNlIGluIHRoZSBBZ2Ugb2YgQUkgQ2xvbmluZyAmbWlkZG90OyA8Yj4xLiBUaGluayBUd2ljZSBCZWZvcmUgU2hhcmluZyBZb3VyIFZvaWNlPC9iPiAmbWlkZG90OyAyLiBBIFNlY3JldCBXb3JkIENhbiBTYXZlIFlvdSBmcm9tIFNjYW1zICZtaWRkb3Q7IDMuSgRmcm9tSgJ0b0oCaW5SA291clICbXlSA3lvdSICEAFIAFgAaAA",
+        "source": "LALAL.AI",
+        "read_more_link": "https://www.google.com/goto?url=CAES9AIBxCJF18946T8ODPwzzn8rbj75xMG9yT4Lsdc2YnSSz0FzLq3pMIzk38V3nycm9pxe3SlKHOveEaly6Wblo-PZTSE8o54PhB6swu6v85hghkN9hm-We1f16_vOepl6z5fAeZN6wiWXrkL643lj-Y31XZjpfIUJ7Zd9S7LR75tOi7Y4fpaoGvMJFOi0XIpwFZLZuvrKAe83v1vyrqw6ErcDt1x8Jy2wkhM7Tmy0Yod5zQJkZ9WWkrVTMAOv1xhDeceYDadYzMJED1ZQrbUxxwIzlyQiad1aIYgIWirEPdZBaOt-fPqmVuU2DcjY13ehRbU3hyY_hfvgu6jymPR-XLDC8uOFrI0Kg17FolATQ7ePD8s5TjCrw1cZrEyEErxJ2aNWRvGmeLKoiXsZGFf5F_sFlispDMGkjiNXoKycY_PVj1bmByvvx99ln6b3MSrYRZ_9UKJnjo1adxnMQXw-KysD8LOxNBrx24Xwr9txopV2PjIvpKw&gsessionid=a6yDBaZ-CC44E9cv1-kfQAMij0eiNcGN29-fp8MuFbN9gF9Fdhs5FQ"
+      },
+      {
+        "position": 8,
+        "title": "AI Voice Cloning: How to Protect Your Professional Voice",
+        "link": "https://www.google.com/goto?url=CAESmAEBxCJF10IaEpIJUxWyWiFjMdUsCSVrztu6ROSqZNNymm3xxsHLM1hdpjt0tYA7Kdh-w04AGNXxS8Lyv-7hv6X0roiaafgoJAKogCW_W0YelB3LovY2tnJI50mNuppTOxq84U2bFDLOCD1JJ3sa7BlhD3V-0Q55R2ZsyfUHVETZ4hy_4tyFXYiMbmnOfKKKRAIHRH6TmHipTw",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmAEBxCJF19opbALZrcNqhYa1DMBPwbQ6ycO1Kcy4h4rs3wOpnfllZz4d0hOmGVywyb53VPVEPFBx_Yf_2ghHc9TKTAW38HuQ3J1105VFqY3VnK4WWwZTWfz1Re52kiAHNU_Q7k7-BV5KuhxN-gjofDBHu5OgiBnbMIv-fM_BHXvriyjkIxExNMyvHglDCjwlBzxg2qX8hj4cSQ&ved=2ahUKEwi2qL-N3JuYAxU7F2IAHa1ZIOYQFnoECEkQAQ&uoh=1",
+        "displayed_link": "https://www.sacstudio.be \u203a blog \u203a ai-voice-cloning-how...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAq1BMVEVHcExnK3NkLHRxLnZnLHNfNX5hOoRlLHNjNHxjNHxwO4ZiOYJcQIptQIpnLnVaRI9fQo1eS5ddTZpVQpFaRZNbTZlVSZdcTptcT5xVSpNfQZdbUZNNQ5J7SpV0MHh2OIBHP5NJP5KjfWxgM4BORJJqI2duKG5IP5J3LHJnE4yCQI1xSZJ4Q41YJpBcLqDZ3RPW2hra3xDY4wDT2Q7O1gbX2h3M1QHN1gTM1QOhWekOAAAAOXRSTlMAPE2t__-y4Nr25F3AZTM86K20iNKLLOD_WCQQ_2LYku6YBA2VHm2rixX8H_8xGTujSglbFmtUGiqk5L2OAAAAx0lEQVR4Ac3NU2JEMQAF0Dv2s23b-99Y7TbfnRvnBPjvrNbrFck22-12tyfg4Xg6Hc8EvFyu18uN9CW1v9I0Afd7hmE5AvK8IIgiASWJ4ySJgCwry8RnRVGWic8qCssqyh-gXkVoHMBJoJ-m36Ibq7MJqCpAG2vL_q6O43rwjZ2HwAW8bxZGkhAg5pMN-BhU9A3T7SYzcwPIct1gi9uPT0sNVQVU6cv0S-oGaGt0dYu2H9DCG-sPHPqn1gHTjGXysDzNBtxjHgGBuBAfcImtzgAAAABJRU5ErkJggg.png",
+        "date": "Sep 7, 2026",
+        "snippet": "1. Control the Distribution of Your Recordings. The first step is to manage how your audio files are shared. \u00b7 2. Use Technical Protection Tools.",
+        "snippet_highlighted_words": [
+          "1. Control the Distribution of Your Recordings"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "1. Control the Distribution of Your Recordings. The first step is to manage how your audio files are shared. \u00b7 2. Use Technical Protection Tools.",
+            "source_info_link": "https://www.google.com/goto?url=CAESmAEBxCJF10IaEpIJUxWyWiFjMdUsCSVrztu6ROSqZNNymm3xxsHLM1hdpjt0tYA7Kdh-w04AGNXxS8Lyv-7hv6X0roiaafgoJAKogCW_W0YelB3LovY2tnJI50mNuppTOxq84U2bFDLOCD1JJ3sa7BlhD3V-0Q55R2ZsyfUHVETZ4hy_4tyFXYiMbmnOfKKKRAIHRH6TmHipTw",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAq1BMVEVHcExnK3NkLHRxLnZnLHNfNX5hOoRlLHNjNHxjNHxwO4ZiOYJcQIptQIpnLnVaRI9fQo1eS5ddTZpVQpFaRZNbTZlVSZdcTptcT5xVSpNfQZdbUZNNQ5J7SpV0MHh2OIBHP5NJP5KjfWxgM4BORJJqI2duKG5IP5J3LHJnE4yCQI1xSZJ4Q41YJpBcLqDZ3RPW2hra3xDY4wDT2Q7O1gbX2h3M1QHN1gTM1QOhWekOAAAAOXRSTlMAPE2t__-y4Nr25F3AZTM86K20iNKLLOD_WCQQ_2LYku6YBA2VHm2rixX8H_8xGTujSglbFmtUGiqk5L2OAAAAx0lEQVR4Ac3NU2JEMQAF0Dv2s23b-99Y7TbfnRvnBPjvrNbrFck22-12tyfg4Xg6Hc8EvFyu18uN9CW1v9I0Afd7hmE5AvK8IIgiASWJ4ySJgCwry8RnRVGWic8qCssqyh-gXkVoHMBJoJ-m36Ibq7MJqCpAG2vL_q6O43rwjZ2HwAW8bxZGkhAg5pMN-BhU9A3T7SYzcwPIct1gi9uPT0sNVQVU6cv0S-oGaGt0dYu2H9DCG-sPHPqn1gHTjGXysDzNBtxjHgGBuBAfcImtzgAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtwBL2dvdG8_dXJsPUNBRVNtQUVCeENKRjEwSWFFcElKVXhXeVdpRmpNZFVzQ1NWcnp0dTZST1NxWk5OeW1tM3h4c0hMTTFoZHBqdDB0WUE3S2RoLXcwNEFHTlh4UzhMeXYtN2h2Nlgwcm9pYWFmZ29KQUtvZ0NXX1cwWWVsQjNMb3ZZMnRuSkk1MG1OdXBwVE94cTg0VTJiRkRMT0NEMUpKM3NhN0JsaEQzVi0wUTU1UjJac3lmVUhWRVRaNGh5XzR0eUZYWWlNYm1uT2ZLS0tSQUlIUkg2VG1IaXBUdxIEGgIIABrWCBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCyCAgAEAAYACAAKgoKA2hvdxVGjJdAKgkKAnRvFQAAAAAqYQoHcHJvdGVjdBW4QM9AGgRrZWVwGgdwcmV2ZW50Ggpwcm90ZWN0aW5nGglzYWZlZ3VhcmQaBHNhdmUaBnNlY3VyZRoLcHJvdGVjdHlvdXIaEHByb3RlY3R5b3Vydm9pY2UqSgoEeW91chWdPwhBGgJteRoDb3VyGgV0aGVpchoDeW91Ggtwcm90ZWN0eW91choQcHJvdGVjdHlvdXJ2b2ljZRoJeW91cnZvaWNlKjUKBXZvaWNlFbhNFkEaEHByb3RlY3R5b3Vydm9pY2UaCXlvdXJ2b2ljZRoKdm9pY2VjbG9uZSo9CgVjbG9uZRVuFr4_GgZjbG9uZWQaBmNsb25lcxoHY2xvbmluZxoKdm9pY2VjbG9uZRoKaXY7cDtjbG9uZSoLCgRmcm9tFQAAAAAqeQoMdW5hdXRob3JpemVkFdB4FkAaB2lsbGVnYWwaCGltcHJvcGVyGgZtaXN1c2UaDm5vbiBhdXRob3JpemVkGg5ub3QgYXV0aG9yaXplZBoMdW5hdXRob3Jpc2VkGgh1bmxhd2Z1bBoRaXY7cDt1bmF1dGhvcml6ZWQqOgoDdXNlFa3rMkAaBmFjY2VzcxoGbWlzdXNlGgV1c2FnZRoEdXNlZBoEdXNlchoEdXNlcxoFdXNpbmcqCQoCaW4VAAAAACodCgV2aWRlbxVE4g0_GgZ2aWRlb3MaB3ZpZGVvYWkqEgoCYWkVzsv1QBoHdmlkZW9haTLcAS9nb3RvP3VybD1DQUVTbUFFQnhDSkYxMElhRXBJSlV4V3lXaUZqTWRVc0NTVnJ6dHU2Uk9TcVpOTnltbTN4eHNITE0xaGRwanQwdFlBN0tkaC13MDRBR05YeFM4THl2LTdodjZYMHJvaWFhZmdvSkFLb2dDV19XMFllbEIzTG92WTJ0bkpJNTBtTnVwcFRPeHE4NFUyYkZETE9DRDFKSjNzYTdCbGhEM1YtMFE1NVIyWnN5ZlVIVkVUWjRoeV80dHlGWFlpTWJtbk9mS0tLUkFJSFJINlRtSGlwVHc6TTxiPkFJIFZvaWNlIENsb25pbmc8L2I-OiA8Yj5Ib3cgdG8gUHJvdGVjdCBZb3VyPC9iPiBQcm9mZXNzaW9uYWwgPGI-Vm9pY2U8L2I-Qp8BPGI-MS4gQ29udHJvbCB0aGUgRGlzdHJpYnV0aW9uIG9mIFlvdXIgUmVjb3JkaW5nczwvYj4uIFRoZSBmaXJzdCBzdGVwIGlzIHRvIG1hbmFnZSBob3cgeW91ciBhdWRpbyBmaWxlcyBhcmUgc2hhcmVkLiAmbWlkZG90OyAyLiBVc2UgVGVjaG5pY2FsIFByb3RlY3Rpb24gVG9vbHMuSgRmcm9tSgJ0b0oCaW5SA3lvdVICbXlSA291ciICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtwBL2dvdG8_dXJsPUNBRVNtQUVCeENKRjEwSWFFcElKVXhXeVdpRmpNZFVzQ1NWcnp0dTZST1NxWk5OeW1tM3h4c0hMTTFoZHBqdDB0WUE3S2RoLXcwNEFHTlh4UzhMeXYtN2h2Nlgwcm9pYWFmZ29KQUtvZ0NXX1cwWWVsQjNMb3ZZMnRuSkk1MG1OdXBwVE94cTg0VTJiRkRMT0NEMUpKM3NhN0JsaEQzVi0wUTU1UjJac3lmVUhWRVRaNGh5XzR0eUZYWWlNYm1uT2ZLS0tSQUlIUkg2VG1IaXBUdxIEGgIIABrWCBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCyCAgAEAAYACAAKgoKA2hvdxVGjJdAKgkKAnRvFQAAAAAqYQoHcHJvdGVjdBW4QM9AGgRrZWVwGgdwcmV2ZW50Ggpwcm90ZWN0aW5nGglzYWZlZ3VhcmQaBHNhdmUaBnNlY3VyZRoLcHJvdGVjdHlvdXIaEHByb3RlY3R5b3Vydm9pY2UqSgoEeW91chWdPwhBGgJteRoDb3VyGgV0aGVpchoDeW91Ggtwcm90ZWN0eW91choQcHJvdGVjdHlvdXJ2b2ljZRoJeW91cnZvaWNlKjUKBXZvaWNlFbhNFkEaEHByb3RlY3R5b3Vydm9pY2UaCXlvdXJ2b2ljZRoKdm9pY2VjbG9uZSo9CgVjbG9uZRVuFr4_GgZjbG9uZWQaBmNsb25lcxoHY2xvbmluZxoKdm9pY2VjbG9uZRoKaXY7cDtjbG9uZSoLCgRmcm9tFQAAAAAqeQoMdW5hdXRob3JpemVkFdB4FkAaB2lsbGVnYWwaCGltcHJvcGVyGgZtaXN1c2UaDm5vbiBhdXRob3JpemVkGg5ub3QgYXV0aG9yaXplZBoMdW5hdXRob3Jpc2VkGgh1bmxhd2Z1bBoRaXY7cDt1bmF1dGhvcml6ZWQqOgoDdXNlFa3rMkAaBmFjY2VzcxoGbWlzdXNlGgV1c2FnZRoEdXNlZBoEdXNlchoEdXNlcxoFdXNpbmcqCQoCaW4VAAAAACodCgV2aWRlbxVE4g0_GgZ2aWRlb3MaB3ZpZGVvYWkqEgoCYWkVzsv1QBoHdmlkZW9haTLcAS9nb3RvP3VybD1DQUVTbUFFQnhDSkYxMElhRXBJSlV4V3lXaUZqTWRVc0NTVnJ6dHU2Uk9TcVpOTnltbTN4eHNITE0xaGRwanQwdFlBN0tkaC13MDRBR05YeFM4THl2LTdodjZYMHJvaWFhZmdvSkFLb2dDV19XMFllbEIzTG92WTJ0bkpJNTBtTnVwcFRPeHE4NFUyYkZETE9DRDFKSjNzYTdCbGhEM1YtMFE1NVIyWnN5ZlVIVkVUWjRoeV80dHlGWFlpTWJtbk9mS0tLUkFJSFJINlRtSGlwVHc6TTxiPkFJIFZvaWNlIENsb25pbmc8L2I-OiA8Yj5Ib3cgdG8gUHJvdGVjdCBZb3VyPC9iPiBQcm9mZXNzaW9uYWwgPGI-Vm9pY2U8L2I-Qp8BPGI-MS4gQ29udHJvbCB0aGUgRGlzdHJpYnV0aW9uIG9mIFlvdXIgUmVjb3JkaW5nczwvYj4uIFRoZSBmaXJzdCBzdGVwIGlzIHRvIG1hbmFnZSBob3cgeW91ciBhdWRpbyBmaWxlcyBhcmUgc2hhcmVkLiAmbWlkZG90OyAyLiBVc2UgVGVjaG5pY2FsIFByb3RlY3Rpb24gVG9vbHMuSgRmcm9tSgJ0b0oCaW5SA3lvdVICbXlSA291ciICEAFIAFgAaAA",
+        "source": "S.A.C Studio",
+        "read_more_link": "https://www.google.com/goto?url=CAESnAIBxCJF16lfWBRDgpLa-f4qRRXNueKaH2pAjx4JLe7uh50iYZtkfFDN1p2k8wJfKaqjRVIqPkft2uyRcnQRCNU8aQX1tWYnWokfqCBL6HcT00AEWYwtyrWmIc2esjWhlPq-GmhXShmFLYPkBH9McUDbh3U2LmMBNWFVYIcI8zxhVkA82IKVjZtsM-ttTO5a-Pa1wFAk8mTe4jZDq2c0JuwRWQOF-pOAsHt8P7cjmJ-K5ub7iSMFF_h4S9DWdmYJDFVNjSvpDSZtu_Vd2hxf8VV2LACcaiJmuK8uaM_wtVbrN6DlfCjXfzg5o6QoWGaOxcSf5jhX5vx-wVuDScaNGef7GnVpet6z2z5AC00_mivrQbCBWUly7awvKuqjvA&gsessionid=a6yDBaZ-CC44E9cv1-kfQAMij0eiNcGN29-fp8MuFbN9gF9Fdhs5FQ"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "How to protect your voice clone from unauthorized use in video ai free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhrPcAWhSkB161dLsBFhYE5uBJyJA:1795355413838&q=How+to+protect+your+voice+clone+from+unauthorized+use+in+video+ai+free&sa=X&ved=2ahUKEwi2qL-N3JuYAxU7F2IAHa1ZIOYQ1QJ6BAhFEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+protect+your+voice+clone+from+unauthorized+use+in+video+ai+free"
+      },
+      {
+        "block_position": 1,
+        "query": "How to protect your voice clone from unauthorized use in video ai iphone",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhrPcAWhSkB161dLsBFhYE5uBJyJA:1795355413838&q=How+to+protect+your+voice+clone+from+unauthorized+use+in+video+ai+iphone&sa=X&ved=2ahUKEwi2qL-N3JuYAxU7F2IAHa1ZIOYQ1QJ6BAhIEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+protect+your+voice+clone+from+unauthorized+use+in+video+ai+iphone"
+      },
+      {
+        "block_position": 1,
+        "query": "How to protect your voice clone from unauthorized use in video ai android",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhrPcAWhSkB161dLsBFhYE5uBJyJA:1795355413838&q=How+to+protect+your+voice+clone+from+unauthorized+use+in+video+ai+android&sa=X&ved=2ahUKEwi2qL-N3JuYAxU7F2IAHa1ZIOYQ1QJ6BAhHEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+protect+your+voice+clone+from+unauthorized+use+in+video+ai+android"
+      },
+      {
+        "block_position": 1,
+        "query": "How to protect your voice clone from unauthorized use in video ai download",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhrPcAWhSkB161dLsBFhYE5uBJyJA:1795355413838&q=How+to+protect+your+voice+clone+from+unauthorized+use+in+video+ai+download&sa=X&ved=2ahUKEwi2qL-N3JuYAxU7F2IAHa1ZIOYQ1QJ6BAhGEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+protect+your+voice+clone+from+unauthorized+use+in+video+ai+download"
+      },
+      {
+        "block_position": 1,
+        "query": "How to protect your voice from AI",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhrPcAWhSkB161dLsBFhYE5uBJyJA:1795355413838&q=How+to+protect+your+voice+from+AI&sa=X&ved=2ahUKEwi2qL-N3JuYAxU7F2IAHa1ZIOYQ1QJ6BAhDEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+protect+your+voice+from+AI"
+      },
+      {
+        "block_position": 1,
+        "query": "AntiFake",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhrPcAWhSkB161dLsBFhYE5uBJyJA:1795355413838&q=AntiFake&sa=X&ved=2ahUKEwi2qL-N3JuYAxU7F2IAHa1ZIOYQ1QJ6BAhEEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AntiFake"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "How are you protecting your voice from being cloned without ...",
+        "link": "https://www.google.com/goto?url=CAESoAEBxCJF11Q8GmTRhHZ6qElcDynJsN5xmHbLF16GBxkvZp698EO2r4FX_ylJJCiCZp8HiFpa8h9yLuhAxR7ar_knfcDo6k9aRU22jV1a389XhR7ybE6oXw5HNE4v6hy34rubJM09zaDMsbrnLMxrT-w49u4kuKZRRcZuo8E4LKC5uLheo4K7Vj72OhfuIGrLgyNiFyDPNcQAOhc9kgUPsRb7&gsessionid=a6yDBaZ-CC44E9cv1-kfQAMij0eiNcGN29-fp8MuFbN9gF9Fdhs5FQ",
+        "date": "7 months ago",
+        "extensions": [
+          "r/VoiceActing",
+          "4 comments"
+        ],
+        "source": "Reddit",
+        "answers": [
+          {
+            "link": "https://www.google.com/goto?url=CAESgwEBxCJF1-wn9MAUEkyelIQeFemOcb6vMnWf9yVy_-doobIWyPt9A-oNJdpwD7hLZ1snMMffh1IwmWfwNT0VhSSjIbcxY2Xaz8epx_87rhWuNmFASknlN8SQ0axin7VzjtDUaj9aci6dhQ8vxGOe5ur190YvtKX99HJt5Gup3h6x-N2mog&gsessionid=a6yDBaZ-CC44E9cv1-kfQAMij0eiNcGN29-fp8MuFbN9gF9Fdhs5FQ",
+            "extensions": [
+              "Top answer",
+              "7 votes",
+              "7 months ago"
+            ]
+          },
+          {
+            "link": "https://www.google.com/goto?url=CAESgwEBxCJF10dmF1SUOcKz0kiOdsR4zf40t__iPt8leptIyplwUgB0Gl7LDagBuRPxowKL8e4drqy3bTKINA9ta-c0flrcaQCTS29tKh_07ACZHFbM1_xJ_OqueQVd_WnPuV-dUjDtDTQtwUL1axnYjUhs0uQL-BnifNNwdcBGpNMfyaUtVQ&gsessionid=a6yDBaZ-CC44E9cv1-kfQAMij0eiNcGN29-fp8MuFbN9gF9Fdhs5FQ",
+            "extensions": [
+              "6 votes",
+              "7 months ago"
+            ]
+          },
+          {
+            "link": "https://www.google.com/goto?url=CAESqAEBxCJF1wmo3pcYeiYEpD-F9MIldLR9b6YSMlhQ8OLfPXbdZtZKS7cA6IKyiJ7jmOlLn1hxe3QM36rQh_EVvshdTyiF_GzG-SB2JIn78AFQoC5UYVmSYD3Jl0uSbj7Dh0-7nURPykv-mysCtU64LknB176EkLRJAyYIAFgB9DqWUThL85IApLFWorwMxFGtbGgUc7qfTNeS8QBakf5ZYe4RbWemyJE3zDQ&gsessionid=a6yDBaZ-CC44E9cv1-kfQAMij0eiNcGN29-fp8MuFbN9gF9Fdhs5FQ",
+            "extensions": [
+              "2 votes",
+              "7 months ago"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Protecting Voice Over Work from Unauthorized AI Use",
+        "link": "https://www.google.com/goto?url=CAEShwEBxCJF11Od2xShqA_2jzlhnGtYItmRGPnAF8p8uwEI_4rCWj-gk6WAMPAL8ZBMqK7T1VJr84JfRFcGMQa2Nkm3dW47yhJVCjoxu0YxWbyuww9q9dV_soQLVgebbvkoNWmDUBD2mDpgz_rhuPe1QLOEeZsaNzh54NMdmdkOTugFcsvGpAArjYs&gsessionid=a6yDBaZ-CC44E9cv1-kfQAMij0eiNcGN29-fp8MuFbN9gF9Fdhs5FQ",
+        "date": "2 years ago",
+        "extensions": [
+          "Voice Over Club Group",
+          "2 comments"
+        ],
+        "source": "Facebook",
+        "answers": [
+          {
+            "link": "https://www.google.com/goto?url=CAEShwEBxCJF11Od2xShqA_2jzlhnGtYItmRGPnAF8p8uwEI_4rCWj-gk6WAMPAL8ZBMqK7T1VJr84JfRFcGMQa2Nkm3dW47yhJVCjoxu0YxWbyuww9q9dV_soQLVgebbvkoNWmDUBD2mDpgz_rhuPe1QLOEeZsaNzh54NMdmdkOTugFcsvGpAArjYs&gsessionid=a6yDBaZ-CC44E9cv1-kfQAMij0eiNcGN29-fp8MuFbN9gF9Fdhs5FQ"
+          }
+        ]
+      },
+      {
+        "title": "How do you protect against voice cloning technology scams?",
+        "link": "https://www.google.com/goto?url=CAESjAEBxCJF1wh_HIDoL-DybGgTMGVbhAf_OF_7V0SdBIR8WhalizGuEyQLWeN1znwl5w5wuTmz6nvZOzQSW8IZ_lk2vV7AYgfN9BV3uDrOrQgf59fx47zkVZt-nMQC7QF7R_O0AfoQnVgAiwyoXT8q7Gtp6fB2efDiyhWb38ML1dVDpvtVelDqJxhW-X0eNg&gsessionid=a6yDBaZ-CC44E9cv1-kfQAMij0eiNcGN29-fp8MuFbN9gF9Fdhs5FQ",
+        "date": "6 years ago",
+        "extensions": [
+          "30+ answers"
+        ],
+        "source": "Quora",
+        "answers": [
+          {
+            "link": "https://www.google.com/goto?url=CAESngEBxCJF1_9SP3olX3Bxfzhg8-9MfsxHNBreeeWRy5EykEK4wmS-z0UyJ5E_gj3mFk-FCfaj8KjsX6RSVxC37zBT_dm0QmJuizzTrZec6Fb-vY18a_Cj31hJoRVkwItON6I5q0g2xwBSEYNYJI48QRKhDxfz47WZNNzFXvjypZk5ER58N-TaP7XYK2l6cY6w93iWtVQa1gymZdcTe2Vl_g&gsessionid=a6yDBaZ-CC44E9cv1-kfQAMij0eiNcGN29-fp8MuFbN9gF9Fdhs5FQ",
+            "extensions": [
+              "Top answer",
+              "4 votes",
+              "6 years ago"
+            ]
+          },
+          {
+            "link": "https://www.google.com/goto?url=CAESngEBxCJF17b-HeBuGY6WDanQL_024SvzObsDS0Esp1dGbKDZMGt4_2Q9FTMX4TknBq2KzITgZm-3jF0A2q3-xJu63PiOm45V40ruuMa-CwASE3f6PoeRFaKg4iOjzxJfYPVstMyGNChf5rr5lUuknFi_TktIgs5U1qEdIzBGOHbkHgTYQa281MI1zVbqPzNtRYVAZpdCb8AQRe4qzMg5Lw&gsessionid=a6yDBaZ-CC44E9cv1-kfQAMij0eiNcGN29-fp8MuFbN9gF9Fdhs5FQ",
+            "extensions": [
+              "4 votes",
+              "6 years ago"
+            ]
+          },
+          {
+            "link": "https://www.google.com/goto?url=CAESngEBxCJF15_71cIUTC4PumMQAjrqri9dlIWOZzoeaDjMbqaj53xgyp8LGFcr2k_wGTYUgt6q17OzizydnXCsXXd1bw8n_RzOsWLq0UPCkZDpVAUcMjftH6bc9WuBcFlaG0wD0cqSYp9vTo_hE_UiQQohzqPj9Bjn0BO0j0RUao5aaYBD5-N25hv-DyS9QZiNOdCWDmRad-R1Vxfq7NzUpg&gsessionid=a6yDBaZ-CC44E9cv1-kfQAMij0eiNcGN29-fp8MuFbN9gF9Fdhs5FQ",
+            "extensions": [
+              "2 votes",
+              "6 years ago"
+            ]
+          }
+        ]
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=How+to+protect+your+voice+clone+from+unauthorized+use+in+video+AI&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhrPcAWhSkB161dLsBFhYE5uBJyJA:1795355413838&ei=FfMCa_bJMruuiLMPrbOBsQ4&start=10&sa=N&sstk=AYl2yk-kJYaxovm5rnTD6VbNQ2avS65qXk4XD7A_9u06kV7cnd-enBZhS_cSRCud1uTt9B4Go6u9B7Ls9QyeEzwsv-UYgSHP9nIlsg&ved=2ahUKEwi2qL-N3JuYAxU7F2IAHa1ZIOYQ8NMDegQIQRAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=How+to+protect+your+voice+clone+from+unauthorized+use+in+video+AI&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhrPcAWhSkB161dLsBFhYE5uBJyJA:1795355413838&ei=FfMCa_bJMruuiLMPrbOBsQ4&start=10&sa=N&sstk=AYl2yk-kJYaxovm5rnTD6VbNQ2avS65qXk4XD7A_9u06kV7cnd-enBZhS_cSRCud1uTt9B4Go6u9B7Ls9QyeEzwsv-UYgSHP9nIlsg&ved=2ahUKEwi2qL-N3JuYAxU7F2IAHa1ZIOYQ8tMDegQIQRAE",
+        "3": "https://www.google.com/search?q=How+to+protect+your+voice+clone+from+unauthorized+use+in+video+AI&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhrPcAWhSkB161dLsBFhYE5uBJyJA:1795355413838&ei=FfMCa_bJMruuiLMPrbOBsQ4&start=20&sa=N&sstk=AYl2yk-kJYaxovm5rnTD6VbNQ2avS65qXk4XD7A_9u06kV7cnd-enBZhS_cSRCud1uTt9B4Go6u9B7Ls9QyeEzwsv-UYgSHP9nIlsg&ved=2ahUKEwi2qL-N3JuYAxU7F2IAHa1ZIOYQ8tMDegQIQRAG",
+        "4": "https://www.google.com/search?q=How+to+protect+your+voice+clone+from+unauthorized+use+in+video+AI&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhrPcAWhSkB161dLsBFhYE5uBJyJA:1795355413838&ei=FfMCa_bJMruuiLMPrbOBsQ4&start=30&sa=N&sstk=AYl2yk-kJYaxovm5rnTD6VbNQ2avS65qXk4XD7A_9u06kV7cnd-enBZhS_cSRCud1uTt9B4Go6u9B7Ls9QyeEzwsv-UYgSHP9nIlsg&ved=2ahUKEwi2qL-N3JuYAxU7F2IAHa1ZIOYQ8tMDegQIQRAI",
+        "5": "https://www.google.com/search?q=How+to+protect+your+voice+clone+from+unauthorized+use+in+video+AI&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhrPcAWhSkB161dLsBFhYE5uBJyJA:1795355413838&ei=FfMCa_bJMruuiLMPrbOBsQ4&start=40&sa=N&sstk=AYl2yk-kJYaxovm5rnTD6VbNQ2avS65qXk4XD7A_9u06kV7cnd-enBZhS_cSRCud1uTt9B4Go6u9B7Ls9QyeEzwsv-UYgSHP9nIlsg&ved=2ahUKEwi2qL-N3JuYAxU7F2IAHa1ZIOYQ8tMDegQIQRAK",
+        "6": "https://www.google.com/search?q=How+to+protect+your+voice+clone+from+unauthorized+use+in+video+AI&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhrPcAWhSkB161dLsBFhYE5uBJyJA:1795355413838&ei=FfMCa_bJMruuiLMPrbOBsQ4&start=50&sa=N&sstk=AYl2yk-kJYaxovm5rnTD6VbNQ2avS65qXk4XD7A_9u06kV7cnd-enBZhS_cSRCud1uTt9B4Go6u9B7Ls9QyeEzwsv-UYgSHP9nIlsg&ved=2ahUKEwi2qL-N3JuYAxU7F2IAHa1ZIOYQ8tMDegQIQRAM",
+        "7": "https://www.google.com/search?q=How+to+protect+your+voice+clone+from+unauthorized+use+in+video+AI&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhrPcAWhSkB161dLsBFhYE5uBJyJA:1795355413838&ei=FfMCa_bJMruuiLMPrbOBsQ4&start=60&sa=N&sstk=AYl2yk-kJYaxovm5rnTD6VbNQ2avS65qXk4XD7A_9u06kV7cnd-enBZhS_cSRCud1uTt9B4Go6u9B7Ls9QyeEzwsv-UYgSHP9nIlsg&ved=2ahUKEwi2qL-N3JuYAxU7F2IAHa1ZIOYQ8tMDegQIQRAO",
+        "8": "https://www.google.com/search?q=How+to+protect+your+voice+clone+from+unauthorized+use+in+video+AI&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhrPcAWhSkB161dLsBFhYE5uBJyJA:1795355413838&ei=FfMCa_bJMruuiLMPrbOBsQ4&start=70&sa=N&sstk=AYl2yk-kJYaxovm5rnTD6VbNQ2avS65qXk4XD7A_9u06kV7cnd-enBZhS_cSRCud1uTt9B4Go6u9B7Ls9QyeEzwsv-UYgSHP9nIlsg&ved=2ahUKEwi2qL-N3JuYAxU7F2IAHa1ZIOYQ8tMDegQIQRAQ",
+        "9": "https://www.google.com/search?q=How+to+protect+your+voice+clone+from+unauthorized+use+in+video+AI&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhrPcAWhSkB161dLsBFhYE5uBJyJA:1795355413838&ei=FfMCa_bJMruuiLMPrbOBsQ4&start=80&sa=N&sstk=AYl2yk-kJYaxovm5rnTD6VbNQ2avS65qXk4XD7A_9u06kV7cnd-enBZhS_cSRCud1uTt9B4Go6u9B7Ls9QyeEzwsv-UYgSHP9nIlsg&ved=2ahUKEwi2qL-N3JuYAxU7F2IAHa1ZIOYQ8tMDegQIQRAS",
+        "10": "https://www.google.com/search?q=How+to+protect+your+voice+clone+from+unauthorized+use+in+video+AI&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhrPcAWhSkB161dLsBFhYE5uBJyJA:1795355413838&ei=FfMCa_bJMruuiLMPrbOBsQ4&start=90&sa=N&sstk=AYl2yk-kJYaxovm5rnTD6VbNQ2avS65qXk4XD7A_9u06kV7cnd-enBZhS_cSRCud1uTt9B4Go6u9B7Ls9QyeEzwsv-UYgSHP9nIlsg&ved=2ahUKEwi2qL-N3JuYAxU7F2IAHa1ZIOYQ8tMDegQIQRAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+protect+your+voice+clone+from+unauthorized+use+in+video+AI&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+protect+your+voice+clone+from+unauthorized+use+in+video+AI&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+protect+your+voice+clone+from+unauthorized+use+in+video+AI&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+protect+your+voice+clone+from+unauthorized+use+in+video+AI&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+protect+your+voice+clone+from+unauthorized+use+in+video+AI&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+protect+your+voice+clone+from+unauthorized+use+in+video+AI&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+protect+your+voice+clone+from+unauthorized+use+in+video+AI&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+protect+your+voice+clone+from+unauthorized+use+in+video+AI&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+protect+your+voice+clone+from+unauthorized+use+in+video+AI&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+protect+your+voice+clone+from+unauthorized+use+in+video+AI&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+protect+your+voice+clone+from+unauthorized+use+in+video+AI&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

@@ -1,0 +1,452 @@
+{
+  "measurement_id": "27a2e5ef685a",
+  "question_id": "Q047",
+  "timestamp_utc": "2026-11-22T13:48:17.648813+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "How to turn customer interview videos into social media testimonials",
+  "market": "UK",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://www.quora.com/What-is-the-best-tool-for-recording-customer-testimonial-videos-online",
+    "https://www.bonjoro.com/blog/post/how-to-collect-customer-testimonial-videos-to-share-on-social-media",
+    "https://www.google.com/goto?url=CAESggEBxCJF1wpaT5LpQ4rY6_rZLdkgGSBH7XrQuQE7pJZ12t7SL8F_ZnaPgXIM0I5vuWWfPePyAjGRmNrzhMrzUsn7mZ4FmlHoCO-GoS7lZxBy8X7h6eL92PhwGA1dum2zbbXNjAjSVAsNKp-Sg1_5gOqpPJtykqW52H4fNLT_jovLIHC6",
+    "https://www.google.com/goto?url=CAEScgHEIkXXOa33AouHr_mZhOoImun8uoFPPEYdr0JH5qaYn-hKa4S0ysYZv2l0MynnF7_bw0mc0j7fqmLXDllDL-VFQttNZk-dIpK1-lSChMR89hWEhIhNnmzDnxyIlFUPKDTHBOewysns5HfQ2CgP6-zz1Q",
+    "https://www.google.com/goto?url=CAEShAEBxCJF1zJrx0JAo6GnYsXTRTgLk8GXs9tItnxEYc5uOTnO-J9aBaBWnK8z5k5Yanc2FMXuXBc0zhOk7R-7cKNgItdcdLGcnyRRmJA3PYnpLcrKRKIJk0ZyAqXF-RJKzTt5qcvWYm0A65AIBzhN_rO-9po7TfHbmUakiA2ud-VD7On7j_s",
+    "https://www.google.com/goto?url=CAESoAEBxCJF1yqho-fCyh7J68mJdAw6O1XtvjIxtd2XGLcQEIkdoVJoCT3zeV7ExIAEfRm8lP_SkGVjEDpmfVC0r_lSCqampgKJPI57DGdMm4qmzHD8M-yTSPSfR625rVjrnCunMzIEyf7OK37W5QRmz6j_os6BMPqbBrbMZRz0soiEgRDvfrLee0bWw8x0w56SggFWy4TZakWUYSLBVhNuVuny",
+    "https://www.google.com/goto?url=CAESmQEBxCJF1wAEkvGlXIy9TEGG0m2wamg36Njk8LugWQW3BaGINCcshfoMYsjmVz5tdp0sdmafA-cECnWbFTpyjl1ioAtCqk_34Gnski_I47GwQ0FfKKUyWYUy7DiyipxEtvoQSlCostJ-yCbNRyKJiLyyn_kpDV8oQxgT-ZewaYuN0xqItfZR9qQXffpa0H3RjBQ-YIppBzV1u88",
+    "https://www.google.com/goto?url=CAESdwHEIkXXUpRNKMDgEGSkbi1lZGLVtKokep0BzUljxcgjDC7pAeU73aRYeM6fy6iMtIxydZ0N0NmYCFmedbjsFGfMTYZx-2ZQp6WmfDV5qHIwSjpq5Upi45V7kY_tFrSEqVrAYLI-jkKoD4ZWsJ5vPdqVLgYwycBc"
+  ],
+  "raw_text_summary": "What is the best tool for recording customer testimonial ... What is the best tool for recording customer testimonial videos online? How to Collect Customer Testimonial Videos to Share on ... Here's how to collect and share video testimonials to your social media, to wow your audience, and get more traffic and leads flowing to your website. How to Get Truly Memorable Video Testimonials from Your ... Need customer testimonials for your business? Use video to make them more memorable. Here are 4 tips for getting truly great video ... How to Make Customer Testimonial Videos With AI Create professional testimonial videos using AI avatars and real reviews. No customer scheduling, filming, or editing required. Customer Testimonial Videos for SaaS Guide This guide shows you how to create customer testimonial videos that actually convert, without expensive production crews or awkward interview ... How to capture client testimonials quickly and easily The easiest way to get client testimonials is by catching wins in real time. When a client mentions a breakthrough or achievement, ... Step-by-Step Guide to Making Video Testimonials - Maverick Aim to use your customers' time as little as possible and make the whole process easy for them. Ensure everything is 100% checked and ready ... Create Powerful Customer Testimonial Videos That Convert Knowing what goes into testimonial videos and why they're important is well and good, but knowing how to put one together is better. To ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f29f602a0c07b34a1163",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/Rlp_0XO5hWTaOmgH_6WkjWudCGPiWVmvgaVpZ3GGzX4/6b02f29f602a0c07b34a1163.json",
+      "markdown_endpoint": "https://serpapi.com/searches/Rlp_0XO5hWTaOmgH_6WkjWudCGPiWVmvgaVpZ3GGzX4/6b02f29f602a0c07b34a1163.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/Rlp_0XO5hWTaOmgH_6WkjWudCGPiWVmvgaVpZ3GGzX4/6b02f29f602a0c07b34a1163.json_with_pixel_position",
+      "created_at": "2026-11-22 13:48:15 UTC",
+      "processed_at": "2026-11-22 13:48:15 UTC",
+      "google_url": "https://www.google.com/search?q=How+to+turn+customer+interview+videos+into+social+media+testimonials&oq=How+to+turn+customer+interview+videos+into+social+media+testimonials&hl=en&gl=uk&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/Rlp_0XO5hWTaOmgH_6WkjWudCGPiWVmvgaVpZ3GGzX4/6b02f29f602a0c07b34a1163.html",
+      "total_time_taken": 1.35
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "How to turn customer interview videos into social media testimonials",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "uk",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "How to turn customer interview videos into social media testimonials",
+      "total_results": 67,
+      "time_taken_displayed": 0.23,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "How I Turn One Client Interview into 20 Pieces of Marketing ...",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXIoZTLZoz2Co_GuUSMeVwKGk9eR151OWZIbMDv_dIbIh3GHkHeoYgi7YcTGd8ycvS8B3yCYPD8SIi1VyQIhgAswyELeuIiyLEFUtYcEtLp1EYkZgiBJE8io_7efhCykbaKxMv&gsessionid=mLoeTZvWgxjBA3b7ZxDysP6MK7GWZBYMtshYeXlfNAgRc8X9ZgV0iw",
+        "thumbnail": "https://serpapi.com/searches/6b02f29f602a0c07b34a1163/images/aC7n6HsMWr23sk1J3nqGPkyq4jGUWL46ge5g0Mla4hY.jpg",
+        "channel": "Kri Edholm",
+        "duration": "6:28",
+        "platform": "YouTube",
+        "date": "5 Jul 2026"
+      },
+      {
+        "position": 2,
+        "title": "4 Tips on Creating Solid Testimonial Videos ...",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXX0Iakr_X5yS39XTowxsQrRlPzo9-sVrIj5aGdevKKnzfWPZqC5-02CLAy0AthA1EmvNacVUH1ocybzL8qMK9Ld_Pq9LAytJ2Co_GJ5V665KwCeYOA8m9rTraaKDVmnZoMvaJ&gsessionid=mLoeTZvWgxjBA3b7ZxDysP6MK7GWZBYMtshYeXlfNAgRc8X9ZgV0iw",
+        "thumbnail": "https://serpapi.com/searches/6b02f29f602a0c07b34a1163/images/NhkYk05M6aU1in9epF1w73Q6l0Ogv3LgpJQ7Ur7BtY4.jpg",
+        "channel": "C H A D W I C K M I L L E R",
+        "duration": "0:17",
+        "platform": "Instagram",
+        "date": "27 Feb 2025"
+      },
+      {
+        "position": 3,
+        "title": "Create video testimonials featuring satisfied customers and ...",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXX6LyGvXCOIbknXeBSTBGw-kwgTXWoOb9LWZa33aglu7EfDoTRnDdjidV2GTY4pDFIc2DQVyL2WxCzdVXJJUO7Yyb-SkV1bjfAIsqQzyry807rSGCYemKk-REs679Hn9wOT0ub&gsessionid=mLoeTZvWgxjBA3b7ZxDysP6MK7GWZBYMtshYeXlfNAgRc8X9ZgV0iw",
+        "thumbnail": "https://serpapi.com/searches/6b02f29f602a0c07b34a1163/images/Ddi40ce7EwPQrpsSlmYV5dmurs92kivt9fSAFOgecx4.jpg",
+        "channel": "Aldwyn Altuney",
+        "duration": "0:20",
+        "platform": "Instagram",
+        "date": "1 Jun 2026"
+      },
+      {
+        "position": 4,
+        "title": "How To Create Testimonial Video Ads That Convert",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXWLeSuYA6pA2kLPP_1Xt9V8lmrANU2idJlwF5MimNRYhRGm6sCc5c1LqWmFInHryu28jJJR8Jh5AMenP6gl-MyuugZMw1QbTnDvVFT5iaM2_4LQzN9D2kj2cbaJKBQUToKW-b&gsessionid=mLoeTZvWgxjBA3b7ZxDysP6MK7GWZBYMtshYeXlfNAgRc8X9ZgV0iw",
+        "thumbnail": "https://serpapi.com/searches/6b02f29f602a0c07b34a1163/images/0wEWpumiZr9ID98YfEzve6lG90FALtZrqt_WYx1pcDg.jpg",
+        "channel": "Milk Video",
+        "duration": "50:40",
+        "platform": "YouTube",
+        "date": "11 Mar 2022",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRMZe6oM8weeva6S-Dy677WIxe2UbOkrFBKrw",
+        "key_moments": [
+          {
+            "time": "00:59",
+            "title": "Agenda",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXX3KLwRq1U2Jfx9NpJHZP2oRVNQ9EIMISUgvpFWfLpa9lEc5Gjn5b5xGk0A5F9CpssDWL3S2eLXK0DrGnhCeD-cy31A5fkeWtL9xK44EDUH0h49YMpcZYGs4S_HixUhiDTRJPYwqM5saY&gsessionid=mLoeTZvWgxjBA3b7ZxDysP6MK7GWZBYMtshYeXlfNAgRc8X9ZgV0iw"
+          },
+          {
+            "time": "07:13",
+            "title": "Remote Testimonials",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXfO4aw1zb_WXnMsLkFWyxO0r6lxBgUtPNtDHjc2UvA3_eiicYPZzVNGL-DxBKk5WzjKAg6Hpp4hhlEqEivsv5P_lEMYhOzuhceOyL3gV1XA76A_ZenVcrfC-obVgBGJznwO_4tylrZ3D1&gsessionid=mLoeTZvWgxjBA3b7ZxDysP6MK7GWZBYMtshYeXlfNAgRc8X9ZgV0iw"
+          },
+          {
+            "time": "12:04",
+            "title": "Setting Up the Testimonial",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXvw5qVZ1ns3UxQkvu85qjx0R30fvpn5iq3YhtKBBp4Tq0bKJ8QKFqGqu4ERK1Pbu7J7HdPe6MCHZgv2nwe7Z4ENHwL5xM2r4Y6dkhezblcKyH95nlrcus216wlpGOMEVSHyPnkB1KtH5X&gsessionid=mLoeTZvWgxjBA3b7ZxDysP6MK7GWZBYMtshYeXlfNAgRc8X9ZgV0iw"
+          },
+          {
+            "time": "12:15",
+            "title": "Key Best Practices",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXx_WTuJAsQI26vuAm76qT9qGN2lXCmgQ3EwUrRrL6yc9QQvpmmL2ukQ27tJU_yAKYBL1FhyygLVfd1-KzC95E_ozyk98YjL3uzi6frFvKU9Q3cMBlQ3nV7AuzWK1kbd4SCCQe8eGF_QPz&gsessionid=mLoeTZvWgxjBA3b7ZxDysP6MK7GWZBYMtshYeXlfNAgRc8X9ZgV0iw"
+          },
+          {
+            "time": "23:13",
+            "title": "Length of the Video",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXQsUh8h6pUgTC3asBHKRRgQ2raS34GFCHLHm3tEWq9IesMcQRANUFN_p0IJtaIhyMK5u9RHZj3ABYpvJrVrqFJUtX0-HIAKCwsDoqI0N2ci4ElZ15BpDk7WdCiwWRWGH9kcTYWOpT56ykYg&gsessionid=mLoeTZvWgxjBA3b7ZxDysP6MK7GWZBYMtshYeXlfNAgRc8X9ZgV0iw"
+          },
+          {
+            "time": "29:20",
+            "title": "Poor Audio",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXWFWAmFrf2dsincBgd1d8oYZ34zkzWmrdAF_wrzjwnH7RGccoQ8l9B3h_tW8Mh4DvxtmiK5Sdm9G6l5NXaN8FgnQN_evZDFSN6pxVJlOBXoDKrgc_sCkB12KZInwfD1qdQr_eaNgSEvOS1A&gsessionid=mLoeTZvWgxjBA3b7ZxDysP6MK7GWZBYMtshYeXlfNAgRc8X9ZgV0iw"
+          },
+          {
+            "time": "30:06",
+            "title": "Authenticity of Content",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXX-tc3eawGvO_rx6gXqEkDyS8R0NecVD3UUFHX91YRx8SyfncjeD86JxV2_wBg-M2sfXyS2Ig6JpgsYeermL4XLWCFb0wFU8gE8XapD-VA6PL3gZNa1n28gYzHjkfvL7ALXK2UErYgmrnfTg&gsessionid=mLoeTZvWgxjBA3b7ZxDysP6MK7GWZBYMtshYeXlfNAgRc8X9ZgV0iw"
+          },
+          {
+            "time": "41:25",
+            "title": "Examples of Companies Running Ads",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXUW82jnp6_sNlPU0vLYz848OnNg9RifCEb9jCgJKjnTCIvpdb6DB2L_liCXqUbNZdZy7cfPjkxToTud8tslpzk_bxGhPumbbCxYu-0qrQM7THxJmjhMULJ2Op0mbzYV10f1wKEq1YP2Kk1g&gsessionid=mLoeTZvWgxjBA3b7ZxDysP6MK7GWZBYMtshYeXlfNAgRc8X9ZgV0iw"
+          }
+        ]
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "How to collect customer testimonials?",
+        "type": "ai_overview",
+        "page_token": "oqef43icHZNNcqM6FIUHvZbOJOkOPyYJqUp1gZEw2MhGIAGauDDCP1j82GADnvVe3grect5qHt2De787OnVu1Tm__xGn6vzft3-PXde0n6-vfd__PNT1QeQ_s7p8Tduxyl73tTjtf-Ximn3NL77l2UCmtgZp2flJjH0PkpFVbhCAxmMS07DdlThmp6TA64B6SlDKWhBDKSmOZSrBe2QzGS8QwAqdE4u9kQVM1lEyC2wWJBRdqY1nPsEsiPHNo-feP0kKqdzbrqJrBoYNIXCRnnWfUvgWK1D1CGyiUJzjB8ToJK8z2508cI9TtgwKT2JnV8oIHEkgL2mFljxKRp-QbleRAYf4iMixWUXCoeQ85NFBQoXw0xK2oVLLzMapR90BW_CSQqZmi-aKFixKFG8My0zdRUjwgt0QSGQEmMugvqGh2XKZPpglLn45FCjCgi7MlJauv5tLMhW1vAYySKGuYopkJhjLIzYyhVrhQig7RX6ECptP_wpPOD1SjjW2zBaV9ZhKOgrB0dkR7OHC6fyHqBHhKlbRSIXLopg1LOSpF7oFt0TDSzLDBEpMNiukojSAREptHqcqvIQymMXSoPihELuHC6jlVrEkdRloBq4ci0QSCo9QS9XG9lTYJPT4CM9cCWSicgJL_EApV90qU02LAvcaALnNgb70SFfkBe4zwcEqcmNw5HcChJWEh84_A81_OD0B1M9Bq67CoxnhepXaDUX0Q4vO2ooR6enytaj7565-zmoh8qx7zm5tV5f59bnL2-5U1tUpFe13FT6Vf1JpODOtd30jMozUMHvDMUyDHUxjOXE5cTVxVZvGwQG9AcxxGukARGDrqrPAd8dG9509iET1D4lKH9zWOxY7B27_uUW3U7QmiYbHRp-01pNWPnE_cT_Rf_rbkq_tvuw-y5SLl-2068-cv2xP_PNvebb1xpmnHz9MQ58r0gZshuX7jw8j2cov26G97j-Nxeb9tteKdkRMxxvXr8x0mZn8bu-tt1t-0PrvqiG_65qqaYr-pnzM_gcZtj1y",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=oqef43icHZNNcqM6FIUHvZbOJOkOPyYJqUp1gZEw2MhGIAGauDDCP1j82GADnvVe3grect5qHt2De787OnVu1Tm__xGn6vzft3-PXde0n6-vfd__PNT1QeQ_s7p8Tduxyl73tTjtf-Ximn3NL77l2UCmtgZp2flJjH0PkpFVbhCAxmMS07DdlThmp6TA64B6SlDKWhBDKSmOZSrBe2QzGS8QwAqdE4u9kQVM1lEyC2wWJBRdqY1nPsEsiPHNo-feP0kKqdzbrqJrBoYNIXCRnnWfUvgWK1D1CGyiUJzjB8ToJK8z2508cI9TtgwKT2JnV8oIHEkgL2mFljxKRp-QbleRAYf4iMixWUXCoeQ85NFBQoXw0xK2oVLLzMapR90BW_CSQqZmi-aKFixKFG8My0zdRUjwgt0QSGQEmMugvqGh2XKZPpglLn45FCjCgi7MlJauv5tLMhW1vAYySKGuYopkJhjLIzYyhVrhQig7RX6ECptP_wpPOD1SjjW2zBaV9ZhKOgrB0dkR7OHC6fyHqBHhKlbRSIXLopg1LOSpF7oFt0TDSzLDBEpMNiukojSAREptHqcqvIQymMXSoPihELuHC6jlVrEkdRloBq4ci0QSCo9QS9XG9lTYJPT4CM9cCWSicgJL_EApV90qU02LAvcaALnNgb70SFfkBe4zwcEqcmNw5HcChJWEh84_A81_OD0B1M9Bq67CoxnhepXaDUX0Q4vO2ooR6enytaj7565-zmoh8qx7zm5tV5f59bnL2-5U1tUpFe13FT6Vf1JpODOtd30jMozUMHvDMUyDHUxjOXE5cTVxVZvGwQG9AcxxGukARGDrqrPAd8dG9509iET1D4lKH9zWOxY7B27_uUW3U7QmiYbHRp-01pNWPnE_cT_Rf_rbkq_tvuw-y5SLl-2068-cv2xP_PNvebb1xpmnHz9MQ58r0gZshuX7jw8j2cov26G97j-Nxeb9tteKdkRMxxvXr8x0mZn8bu-tt1t-0PrvqiG_65qqaYr-pnzM_gcZtj1y",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlNHVm1SQzEwTTBaTGRGUXlOMFZ2ZVc1UU16SmhVRFU1T1c1M1ZHTnlXVU5yVm5sTk5GQTRaRTAzT0cxdmNVWkNObVo0UzNSdGREQlRXR2s1ZEc1SU56aHNiV05NV2toU2NUVk9ibTUzUjJKRlNsQnRPVzR6ZEhsamR4SVhiMUJKUTJFNExVSkJPVU15TUZCRlVIaExOeTA0UVZrYUlrRklUakJGTjBVMFpteGpiRVZ0V0Rkc2RqVjZYMVpLWTFCWk9HWTRlV0UwVmxFIiwiZmN2IjoiMyIsImVpIjoib1BJQ2E4LUJBOUMyMFBFUHhLNy04QVkiLCJxYyI6ImMtTnl5Y2d2VnlqSlZ5Z3BMY3BUU0M0dExzblBUUzFTeU13clNTMHF5MHd0VnlqTFRFbk5Md1lKNUNzVTV5ZG5KdVlvNUthbVpDWXFsS1FXbDJUbTV1Y0JSWW9GR0dwWF9YcGtCd0EiLCJxdWVzdGlvbiI6IkhvdyB0byBjb2xsZWN0IGN1c3RvbWVyIHRlc3RpbW9uaWFscz8iLCJsayI6IkdpUm9iM2NnZEc4Z1kyOXNiR1ZqZENCamRYTjBiMjFsY2lCMFpYTjBhVzF2Ym1saGJITSIsImJzIjoiYzQzTk1RdkNNQkNHWVZ4dmNnNklWMUZCM2ZJSE1qam81dXdZazhPRUpqMW9ydnIzcmRpaDZHRDM1M3NfdU1EbXpFOFVSc2Nwa1JOMFhSSE8xS0pRa1ppNWlUWVZvN2RxSFNaQXVNSi1DSHJHUl9URW1HMWJrOFRtanR4Z1lkYzd6T1NqTmZxZ2RtR3FoaVBna002MkpyVGo0OF9ZNktWYWhKSDVFWENDNmgxSjNCLVV3RjN5WDZFYkdiMVNHUDZnLWV3RiIsImlkIjoiZmNfb1BJQ2E4LUJBOUMyMFBFUHhLNy04QVlfMSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlNHVm1SQzEwTTBaTGRGUXlOMFZ2ZVc1UU16SmhVRFU1T1c1M1ZHTnlXVU5yVm5sTk5GQTRaRTAzT0cxdmNVWkNObVo0UzNSdGREQlRXR2s1ZEc1SU56aHNiV05NV2toU2NUVk9ibTUzUjJKRlNsQnRPVzR6ZEhsamR4SVhiMUJKUTJFNExVSkJPVU15TUZCRlVIaExOeTA0UVZrYUlrRklUakJGTjBVMFpteGpiRVZ0V0Rkc2RqVjZYMVpLWTFCWk9HWTRlV0UwVmxFIiwiZmN2IjoiMyIsImVpIjoib1BJQ2E4LUJBOUMyMFBFUHhLNy04QVkiLCJxYyI6ImMtTnl5Y2d2VnlqSlZ5Z3BMY3BUU0M0dExzblBUUzFTeU13clNTMHF5MHd0VnlqTFRFbk5Md1lKNUNzVTV5ZG5KdVlvNUthbVpDWXFsS1FXbDJUbTV1Y0JSWW9GR0dwWF9YcGtCd0EiLCJxdWVzdGlvbiI6IkhvdyB0byBjb2xsZWN0IGN1c3RvbWVyIHRlc3RpbW9uaWFscz8iLCJsayI6IkdpUm9iM2NnZEc4Z1kyOXNiR1ZqZENCamRYTjBiMjFsY2lCMFpYTjBhVzF2Ym1saGJITSIsImJzIjoiYzQzTk1RdkNNQkNHWVZ4dmNnNklWMUZCM2ZJSE1qam81dXdZazhPRUpqMW9ydnIzcmRpaDZHRDM1M3NfdU1EbXpFOFVSc2Nwa1JOMFhSSE8xS0pRa1ppNWlUWVZvN2RxSFNaQXVNSi1DSHJHUl9URW1HMWJrOFRtanR4Z1lkYzd6T1NqTmZxZ2RtR3FoaVBna002MkpyVGo0OF9ZNktWYWhKSDVFWENDNmgxSjNCLVV3RjN5WDZFYkdiMVNHUDZnLWV3RiIsImlkIjoiZmNfb1BJQ2E4LUJBOUMyMFBFUHhLNy04QVlfMSJ9"
+      },
+      {
+        "question": "How to do video marketing on social media?",
+        "type": "ai_overview",
+        "page_token": "tDOI53icHZPJkqM6EEUX71u6Nq7qYjBVtiMqXoAtMRhkI0ACbRwY2UwCPA_setNf8r7qfU3TtTh5c5VxI_Pmr_9E2db___O7uFwO59n7-_1-_5l3XS52P7OueU_PzzZ733ei3P-7E6fsa347zz0TyIhqkFTEpxHzPegI1joxkg4ek5iGzUuDY1YmFV4FxFOCRtaCGEpJVTSpBG_UZDK2EMAKmUcL9hFZMFnRZByYLEgIOhETj_0IL8O4uG6BeGJoPBI6JaGpuaHquKR2PtJmIpGaPVCFQFpzN6lEEixEgeA03lKn8GJH2cbCD2PY0wpiDoCymstLjyKREUMJayKSCvSpgupMFIuszXsG-Bmb_gUpOPIaTAMgyWxhFNzUABIFSCVWZGai-TEhqWxcOXjYfnRws0VxxSaX_Ih5LHowLOFTUk8uESFtUMH94CWktVZFRBREhhTXh9YzIaKm15P4cOKQ1RRkSgi0s1fLPVdyLZNgksqOHZi-wiRe-pLYryh6pHERoZi3mE6roGJ4C5wu7m0pkMDYD4EaNtANGoSJlat-VCuUGBBDcksbcuZhEZMaJlmNfE-eXjFEEpKLyG8hGPZqoXraxj05IhW6rC_WnikkHsGWieHeIR5TbMdb2XB8BYzdyDFWkff0oAEjq3DRUxr7pE7nKj-mvYFcKhNWP5yX45fV3UeXbsS70a3ku27UpKd6dynbfNS1o3OXlakYNTtepj9U-NL8zZhuj7W74-tU11PduOu2bugsN_TloMtB3UHdztBzG9x1YDwHpBwcA3Oq2ha-2eaAxQ7MJEMvF1lzEdwUV_Y0btvS6LcKOiT0nm_pYJiCjaIDfTzM-BiYDLwNvHwn_2uzby6zJuXidTPUbrbjr5uSz74fYtOt7Xk6eTP06VyR1mD9WH6-TfRko75uHufTfqZb68_r_vMMoiPtj1bHknnrdEvrLcZVgG2wzn-ouvw51VRNU6YfykT7A79xKys",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=tDOI53icHZPJkqM6EEUX71u6Nq7qYjBVtiMqXoAtMRhkI0ACbRwY2UwCPA_setNf8r7qfU3TtTh5c5VxI_Pmr_9E2db___O7uFwO59n7-_1-_5l3XS52P7OueU_PzzZ733ei3P-7E6fsa347zz0TyIhqkFTEpxHzPegI1joxkg4ek5iGzUuDY1YmFV4FxFOCRtaCGEpJVTSpBG_UZDK2EMAKmUcL9hFZMFnRZByYLEgIOhETj_0IL8O4uG6BeGJoPBI6JaGpuaHquKR2PtJmIpGaPVCFQFpzN6lEEixEgeA03lKn8GJH2cbCD2PY0wpiDoCymstLjyKREUMJayKSCvSpgupMFIuszXsG-Bmb_gUpOPIaTAMgyWxhFNzUABIFSCVWZGai-TEhqWxcOXjYfnRws0VxxSaX_Ih5LHowLOFTUk8uESFtUMH94CWktVZFRBREhhTXh9YzIaKm15P4cOKQ1RRkSgi0s1fLPVdyLZNgksqOHZi-wiRe-pLYryh6pHERoZi3mE6roGJ4C5wu7m0pkMDYD4EaNtANGoSJlat-VCuUGBBDcksbcuZhEZMaJlmNfE-eXjFEEpKLyG8hGPZqoXraxj05IhW6rC_WnikkHsGWieHeIR5TbMdb2XB8BYzdyDFWkff0oAEjq3DRUxr7pE7nKj-mvYFcKhNWP5yX45fV3UeXbsS70a3ku27UpKd6dynbfNS1o3OXlakYNTtepj9U-NL8zZhuj7W74-tU11PduOu2bugsN_TloMtB3UHdztBzG9x1YDwHpBwcA3Oq2ha-2eaAxQ7MJEMvF1lzEdwUV_Y0btvS6LcKOiT0nm_pYJiCjaIDfTzM-BiYDLwNvHwn_2uzby6zJuXidTPUbrbjr5uSz74fYtOt7Xk6eTP06VyR1mD9WH6-TfRko75uHufTfqZb68_r_vMMoiPtj1bHknnrdEvrLcZVgG2wzn-ouvw51VRNU6YfykT7A79xKys",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlNHVm1SQzEwTTBaTGRGUXlOMFZ2ZVc1UU16SmhVRFU1T1c1M1ZHTnlXVU5yVm5sTk5GQTRaRTAzT0cxdmNVWkNObVo0UzNSdGREQlRXR2s1ZEc1SU56aHNiV05NV2toU2NUVk9ibTUzUjJKRlNsQnRPVzR6ZEhsamR4SVhiMUJKUTJFNExVSkJPVU15TUZCRlVIaExOeTA0UVZrYUlrRklUakJGTjBVMFpteGpiRVZ0V0Rkc2RqVjZYMVpLWTFCWk9HWTRlV0UwVmxFIiwiZmN2IjoiMyIsImVpIjoib1BJQ2E4LUJBOUMyMFBFUHhLNy04QVkiLCJxYyI6ImMtTnl5Y2d2VnlqSlZ5Z3BMY3BUU0M0dExzblBUUzFTeU13clNTMHF5MHd0VnlqTFRFbk5Md1lKNUNzVTV5ZG5KdVlvNUthbVpDWXFsS1FXbDJUbTV1Y0JSWW9GR0dwWF9YcGtCd0EiLCJxdWVzdGlvbiI6IkhvdyB0byBkbyB2aWRlbyBtYXJrZXRpbmcgb24gc29jaWFsIG1lZGlhPyIsImxrIjoiR2lsb2IzY2dkRzhnWkc4Z2RtbGtaVzhnYldGeWEyVjBhVzVuSUc5dUlITnZZMmxoYkNCdFpXUnBZUSIsImJzIjoiYzQzTk1RdkNNQkNHWVZ4dmNnNklWMUZCM2ZJSE1qam81dXdZazhPRUpqMW9ydnIzcmRpaDZHRDM1M3NfdU1EbXpFOFVSc2Nwa1JOMFhSSE8xS0pRa1ppNWlUWVZvN2RxSFNaQXVNSi1DSHJHUl9URW1HMWJrOFRtanR4Z1lkYzd6T1NqTmZxZ2RtR3FoaVBna002MkpyVGo0OF9ZNktWYWhKSDVFWENDNmgxSjNCLVV3RjN5WDZFYkdiMVNHUDZnLWV3RiIsImlkIjoiZmNfb1BJQ2E4LUJBOUMyMFBFUHhLNy04QVlfMSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlNHVm1SQzEwTTBaTGRGUXlOMFZ2ZVc1UU16SmhVRFU1T1c1M1ZHTnlXVU5yVm5sTk5GQTRaRTAzT0cxdmNVWkNObVo0UzNSdGREQlRXR2s1ZEc1SU56aHNiV05NV2toU2NUVk9ibTUzUjJKRlNsQnRPVzR6ZEhsamR4SVhiMUJKUTJFNExVSkJPVU15TUZCRlVIaExOeTA0UVZrYUlrRklUakJGTjBVMFpteGpiRVZ0V0Rkc2RqVjZYMVpLWTFCWk9HWTRlV0UwVmxFIiwiZmN2IjoiMyIsImVpIjoib1BJQ2E4LUJBOUMyMFBFUHhLNy04QVkiLCJxYyI6ImMtTnl5Y2d2VnlqSlZ5Z3BMY3BUU0M0dExzblBUUzFTeU13clNTMHF5MHd0VnlqTFRFbk5Md1lKNUNzVTV5ZG5KdVlvNUthbVpDWXFsS1FXbDJUbTV1Y0JSWW9GR0dwWF9YcGtCd0EiLCJxdWVzdGlvbiI6IkhvdyB0byBkbyB2aWRlbyBtYXJrZXRpbmcgb24gc29jaWFsIG1lZGlhPyIsImxrIjoiR2lsb2IzY2dkRzhnWkc4Z2RtbGtaVzhnYldGeWEyVjBhVzVuSUc5dUlITnZZMmxoYkNCdFpXUnBZUSIsImJzIjoiYzQzTk1RdkNNQkNHWVZ4dmNnNklWMUZCM2ZJSE1qam81dXdZazhPRUpqMW9ydnIzcmRpaDZHRDM1M3NfdU1EbXpFOFVSc2Nwa1JOMFhSSE8xS0pRa1ppNWlUWVZvN2RxSFNaQXVNSi1DSHJHUl9URW1HMWJrOFRtanR4Z1lkYzd6T1NqTmZxZ2RtR3FoaVBna002MkpyVGo0OF9ZNktWYWhKSDVFWENDNmgxSjNCLVV3RjN5WDZFYkdiMVNHUDZnLWV3RiIsImlkIjoiZmNfb1BJQ2E4LUJBOUMyMFBFUHhLNy04QVlfMSJ9"
+      },
+      {
+        "question": "How to make a testimonial video?",
+        "type": "ai_overview",
+        "page_token": "bCSNwXicHVNNkqJKGFzMWaY39kzza6sRHROFVoEoKFVUAbUx-BOEAmxFsd3NXd4p3lHeaR4zi_xy-WVmZP7-R5za-r9v_5Z9f74u3t6GYfhZdF0h8p9p17zF1682fTt24nT8lYtL-rG8OCvHhDJvdMSqzIt84TkIW7y1CYFnh0tcx2bf4JCfogrvCHMU0sg6CZEUVWUTS-gemFzGlguxwpZ0xafUQtEuiDRichIx98JMrHkUcxLim8PqwTtJCm3tW9KyHYePPaXIioXtBQxNQwWpDkV-4IsqqhB2xfyamraOLXbKGN-QypF4bUtcsh_ZKqtYMG-ylq0wZSJuwRNT2XRpdk7M9OnQ8hrL3eDCs2ACr4iMW6Ji2ZG5PvpkiSKeocKgw8Qyh3QgVvHAqhvErdeTFStTCzc-nD04zW6UMWUXlBqrmUYqTKMn46zW7QRlCqUidmvdJ5U3eA0_-5K9ZKMfLETEK3vtIBTktRukLTOJWWhcLe-J0o-2sZ7AzGUQPWhVulQgI6lRyZVs5ypzya_dLkNrlTb4QkKgOKG4jno_A5TZvsz6NMBNUhV_stjGKvr0ZaqFEj56VJYTSwRUNvpQLbtRm4fVVMsU9MlXQqJmuUlWGIeyI7koVUnlNhF97LLAXdIWlakkfaVy2frm_EjreedKvetYa53KJebWuaGBuOKauzHqJB9hFCv4CcvsTqFYRX7RezXUved6oJB5ObyqW780AtxtHaukrJF9Ov7KK-_l88PqhknfTZq4zifxpM-v_anp2lMsJvdTlnffVfTS_CkpWGv6YHsgACAGxgDWwAC8MMBm5M3I25G3nQGKNRwANL5GSAUsiDlX1xa-r025jBVaRMSQeOhKcSDfk0aUydJQ4gCL5HmIgLcqgGd1I4YRGvDgy9-1fByOTb9o4ky8HsbbLfLs9XDKFn9HdOj262U8-2GA-VKR9nD_2Lz_mIHooL0eHtfLcQGs_fvtOG0JyPViNsYLbto8g_a7tXGwcnYw-K4C-X2uq7quzKfKbPo_7yc8hQ",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=bCSNwXicHVNNkqJKGFzMWaY39kzza6sRHROFVoEoKFVUAbUx-BOEAmxFsd3NXd4p3lHeaR4zi_xy-WVmZP7-R5za-r9v_5Z9f74u3t6GYfhZdF0h8p9p17zF1682fTt24nT8lYtL-rG8OCvHhDJvdMSqzIt84TkIW7y1CYFnh0tcx2bf4JCfogrvCHMU0sg6CZEUVWUTS-gemFzGlguxwpZ0xafUQtEuiDRichIx98JMrHkUcxLim8PqwTtJCm3tW9KyHYePPaXIioXtBQxNQwWpDkV-4IsqqhB2xfyamraOLXbKGN-QypF4bUtcsh_ZKqtYMG-ylq0wZSJuwRNT2XRpdk7M9OnQ8hrL3eDCs2ACr4iMW6Ji2ZG5PvpkiSKeocKgw8Qyh3QgVvHAqhvErdeTFStTCzc-nD04zW6UMWUXlBqrmUYqTKMn46zW7QRlCqUidmvdJ5U3eA0_-5K9ZKMfLETEK3vtIBTktRukLTOJWWhcLe-J0o-2sZ7AzGUQPWhVulQgI6lRyZVs5ypzya_dLkNrlTb4QkKgOKG4jno_A5TZvsz6NMBNUhV_stjGKvr0ZaqFEj56VJYTSwRUNvpQLbtRm4fVVMsU9MlXQqJmuUlWGIeyI7koVUnlNhF97LLAXdIWlakkfaVy2frm_EjreedKvetYa53KJebWuaGBuOKauzHqJB9hFCv4CcvsTqFYRX7RezXUved6oJB5ObyqW780AtxtHaukrJF9Ov7KK-_l88PqhknfTZq4zifxpM-v_anp2lMsJvdTlnffVfTS_CkpWGv6YHsgACAGxgDWwAC8MMBm5M3I25G3nQGKNRwANL5GSAUsiDlX1xa-r025jBVaRMSQeOhKcSDfk0aUydJQ4gCL5HmIgLcqgGd1I4YRGvDgy9-1fByOTb9o4ky8HsbbLfLs9XDKFn9HdOj262U8-2GA-VKR9nD_2Lz_mIHooL0eHtfLcQGs_fvtOG0JyPViNsYLbto8g_a7tXGwcnYw-K4C-X2uq7quzKfKbPo_7yc8hQ",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlNHVm1SQzEwTTBaTGRGUXlOMFZ2ZVc1UU16SmhVRFU1T1c1M1ZHTnlXVU5yVm5sTk5GQTRaRTAzT0cxdmNVWkNObVo0UzNSdGREQlRXR2s1ZEc1SU56aHNiV05NV2toU2NUVk9ibTUzUjJKRlNsQnRPVzR6ZEhsamR4SVhiMUJKUTJFNExVSkJPVU15TUZCRlVIaExOeTA0UVZrYUlrRklUakJGTjBVMFpteGpiRVZ0V0Rkc2RqVjZYMVpLWTFCWk9HWTRlV0UwVmxFIiwiZmN2IjoiMyIsImVpIjoib1BJQ2E4LUJBOUMyMFBFUHhLNy04QVkiLCJxYyI6ImMtTnl5Y2d2VnlqSlZ5Z3BMY3BUU0M0dExzblBUUzFTeU13clNTMHF5MHd0VnlqTFRFbk5Md1lKNUNzVTV5ZG5KdVlvNUthbVpDWXFsS1FXbDJUbTV1Y0JSWW9GR0dwWF9YcGtCd0EiLCJxdWVzdGlvbiI6IkhvdyB0byBtYWtlIGEgdGVzdGltb25pYWwgdmlkZW8/IiwibGsiOiJHaDFvYjNjZ2RHOGdiV0ZyWlNCMFpYTjBhVzF2Ym1saGJDQjJhV1JsYnciLCJicyI6ImM0M05NUXZDTUJDR1lWeHZjZzZJVjFGQjNmSUhNampvNXV3WWs4T0VKajFvcnZyM3JkaWg2R0QzNTNzX3VNRG16RThVUnNjcGtSTjBYUkhPMUtKUWtaaTVpVFlWbzdkcUhTWkF1TUotQ0hyR1JfVEVtRzFiazhUbWp0eGdZZGM3ek9Tak5mcWdkbUdxaGlQZ2tNNjJKclRqNDhfWTZLVmFoSkg1RVhDQzZoMUozQi1Vd0YzeVg2RWJHYjFTR1A2Zy1ld0YiLCJpZCI6ImZjX29QSUNhOC1CQTlDMjBQRVB4SzctOEFZXzEifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlNHVm1SQzEwTTBaTGRGUXlOMFZ2ZVc1UU16SmhVRFU1T1c1M1ZHTnlXVU5yVm5sTk5GQTRaRTAzT0cxdmNVWkNObVo0UzNSdGREQlRXR2s1ZEc1SU56aHNiV05NV2toU2NUVk9ibTUzUjJKRlNsQnRPVzR6ZEhsamR4SVhiMUJKUTJFNExVSkJPVU15TUZCRlVIaExOeTA0UVZrYUlrRklUakJGTjBVMFpteGpiRVZ0V0Rkc2RqVjZYMVpLWTFCWk9HWTRlV0UwVmxFIiwiZmN2IjoiMyIsImVpIjoib1BJQ2E4LUJBOUMyMFBFUHhLNy04QVkiLCJxYyI6ImMtTnl5Y2d2VnlqSlZ5Z3BMY3BUU0M0dExzblBUUzFTeU13clNTMHF5MHd0VnlqTFRFbk5Md1lKNUNzVTV5ZG5KdVlvNUthbVpDWXFsS1FXbDJUbTV1Y0JSWW9GR0dwWF9YcGtCd0EiLCJxdWVzdGlvbiI6IkhvdyB0byBtYWtlIGEgdGVzdGltb25pYWwgdmlkZW8%2FIiwibGsiOiJHaDFvYjNjZ2RHOGdiV0ZyWlNCMFpYTjBhVzF2Ym1saGJDQjJhV1JsYnciLCJicyI6ImM0M05NUXZDTUJDR1lWeHZjZzZJVjFGQjNmSUhNampvNXV3WWs4T0VKajFvcnZyM3JkaWg2R0QzNTNzX3VNRG16RThVUnNjcGtSTjBYUkhPMUtKUWtaaTVpVFlWbzdkcUhTWkF1TUotQ0hyR1JfVEVtRzFiazhUbWp0eGdZZGM3ek9Tak5mcWdkbUdxaGlQZ2tNNjJKclRqNDhfWTZLVmFoSkg1RVhDQzZoMUozQi1Vd0YzeVg2RWJHYjFTR1A2Zy1ld0YiLCJpZCI6ImZjX29QSUNhOC1CQTlDMjBQRVB4SzctOEFZXzEifQ%3D%3D"
+      },
+      {
+        "question": "How long should a testimonial be?",
+        "type": "ai_overview",
+        "page_token": "3KkWhnicHZPLjqNIEEUX8y1dG1d18TAu21JpBDbJw04wJJlAbiwgMRiSR5ftArybTxlpvmq-ZphenLibiFBIN-5f__BrW__7x9_l_d7ftu_vwzD8LLqu4PnPrGvek9vUZu-Xjl8vf-b8K_vc9es9NHQxMBRAKt-juuJBQCLa2gjpPaQCVXzj3vgRvcaV7yICJdSICoqAEFdlkwjgOzSo6JuO7ktkh_d0hU0Qu2G8RAZFMXG-iOEvPexTFPkPSOrBuwoSbu1H2hKX6uMJY2AmtegRAlaRBGSI7X0Y8JpVwHeuopsZ9nxDCRmhB1Q5La1pmBFLDirbS2QnykI7CEjpYYMvU8C1jJRmEvaPVCc3T-yGrB4veeiNLOxGGmk7GOhPUrE-E-mKESeAAg_jEE7MIA-IN0coiLEn8dqvGQ4MYYmf2o2JRKCN2OG6VwKxv5AnHxAvDwSvn2Tvu44E7rHsdAj4IOa0jTFznai8BvV6SiXRDnD2zFqnQmbZULF0HIP_QgAPCbEnxEHrR6WDm1FLm82eysxNpPKYAFDGrX2hph3mEXc93AlO2FueoAshzyZY3ysq-8h5WpM792TtvLONBWTOTkR2hw1HPIbMhTVv0ie_UKFfsZAJRAQHbIgPBOjtGJIg2IOJ1X2VYxFB00auqe0Jd7QjgWOubxLYgMppxjobrSgVNduT9OUR25qL4QSBBrBZHp1JWHqkTnaSQjPs71PJkZhMvl9-fZrdsOBdWyxuZffgbJEs7vntfm269prwRZr_kMFL8_8rqtZSGWxPDVU1UbVBtVRNpYWmHmY9zHqc9dhpamHpg6pr04xQ6CUyNrJljN9pkxWZVH6zcKwtQy9mO5_M4PdUUvo4HIq4wWdJ1dXlPLeaWc-8zbz8DsXn-dLct03C-Ot5rt02Z6_nK9v-zsq5O1m7ZP2mqZudJJz003j4eFur8Vl6PY-3r8tWNU8fj8uqRWquFOsdbtXHcsN0-8M8QF_qoa_-kFXxY6PIiiJtVtJ69R_3EjVy",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=3KkWhnicHZPLjqNIEEUX8y1dG1d18TAu21JpBDbJw04wJJlAbiwgMRiSR5ftArybTxlpvmq-ZphenLibiFBIN-5f__BrW__7x9_l_d7ftu_vwzD8LLqu4PnPrGvek9vUZu-Xjl8vf-b8K_vc9es9NHQxMBRAKt-juuJBQCLa2gjpPaQCVXzj3vgRvcaV7yICJdSICoqAEFdlkwjgOzSo6JuO7ktkh_d0hU0Qu2G8RAZFMXG-iOEvPexTFPkPSOrBuwoSbu1H2hKX6uMJY2AmtegRAlaRBGSI7X0Y8JpVwHeuopsZ9nxDCRmhB1Q5La1pmBFLDirbS2QnykI7CEjpYYMvU8C1jJRmEvaPVCc3T-yGrB4veeiNLOxGGmk7GOhPUrE-E-mKESeAAg_jEE7MIA-IN0coiLEn8dqvGQ4MYYmf2o2JRKCN2OG6VwKxv5AnHxAvDwSvn2Tvu44E7rHsdAj4IOa0jTFznai8BvV6SiXRDnD2zFqnQmbZULF0HIP_QgAPCbEnxEHrR6WDm1FLm82eysxNpPKYAFDGrX2hph3mEXc93AlO2FueoAshzyZY3ysq-8h5WpM792TtvLONBWTOTkR2hw1HPIbMhTVv0ie_UKFfsZAJRAQHbIgPBOjtGJIg2IOJ1X2VYxFB00auqe0Jd7QjgWOubxLYgMppxjobrSgVNduT9OUR25qL4QSBBrBZHp1JWHqkTnaSQjPs71PJkZhMvl9-fZrdsOBdWyxuZffgbJEs7vntfm269prwRZr_kMFL8_8rqtZSGWxPDVU1UbVBtVRNpYWmHmY9zHqc9dhpamHpg6pr04xQ6CUyNrJljN9pkxWZVH6zcKwtQy9mO5_M4PdUUvo4HIq4wWdJ1dXlPLeaWc-8zbz8DsXn-dLct03C-Ot5rt02Z6_nK9v-zsq5O1m7ZP2mqZudJJz003j4eFur8Vl6PY-3r8tWNU8fj8uqRWquFOsdbtXHcsN0-8M8QF_qoa_-kFXxY6PIiiJtVtJ69R_3EjVy",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlNHVm1SQzEwTTBaTGRGUXlOMFZ2ZVc1UU16SmhVRFU1T1c1M1ZHTnlXVU5yVm5sTk5GQTRaRTAzT0cxdmNVWkNObVo0UzNSdGREQlRXR2s1ZEc1SU56aHNiV05NV2toU2NUVk9ibTUzUjJKRlNsQnRPVzR6ZEhsamR4SVhiMUJKUTJFNExVSkJPVU15TUZCRlVIaExOeTA0UVZrYUlrRklUakJGTjBVMFpteGpiRVZ0V0Rkc2RqVjZYMVpLWTFCWk9HWTRlV0UwVmxFIiwiZmN2IjoiMyIsImVpIjoib1BJQ2E4LUJBOUMyMFBFUHhLNy04QVkiLCJxYyI6ImMtTnl5Y2d2VnlqSlZ5Z3BMY3BUU0M0dExzblBUUzFTeU13clNTMHF5MHd0VnlqTFRFbk5Md1lKNUNzVTV5ZG5KdVlvNUthbVpDWXFsS1FXbDJUbTV1Y0JSWW9GR0dwWF9YcGtCd0EiLCJxdWVzdGlvbiI6IkhvdyBsb25nIHNob3VsZCBhIHRlc3RpbW9uaWFsIGJlPyIsImxrIjoiR2lCb2IzY2diRzl1WnlCemFHOTFiR1FnWVNCMFpYTjBhVzF2Ym1saGJDQmlaUSIsImJzIjoiYzQzTk1RdkNNQkNHWVZ4dmNnNklWMUZCM2ZJSE1qam81dXdZazhPRUpqMW9ydnIzcmRpaDZHRDM1M3NfdU1EbXpFOFVSc2Nwa1JOMFhSSE8xS0pRa1ppNWlUWVZvN2RxSFNaQXVNSi1DSHJHUl9URW1HMWJrOFRtanR4Z1lkYzd6T1NqTmZxZ2RtR3FoaVBna002MkpyVGo0OF9ZNktWYWhKSDVFWENDNmgxSjNCLVV3RjN5WDZFYkdiMVNHUDZnLWV3RiIsImlkIjoiZmNfb1BJQ2E4LUJBOUMyMFBFUHhLNy04QVlfMSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlNHVm1SQzEwTTBaTGRGUXlOMFZ2ZVc1UU16SmhVRFU1T1c1M1ZHTnlXVU5yVm5sTk5GQTRaRTAzT0cxdmNVWkNObVo0UzNSdGREQlRXR2s1ZEc1SU56aHNiV05NV2toU2NUVk9ibTUzUjJKRlNsQnRPVzR6ZEhsamR4SVhiMUJKUTJFNExVSkJPVU15TUZCRlVIaExOeTA0UVZrYUlrRklUakJGTjBVMFpteGpiRVZ0V0Rkc2RqVjZYMVpLWTFCWk9HWTRlV0UwVmxFIiwiZmN2IjoiMyIsImVpIjoib1BJQ2E4LUJBOUMyMFBFUHhLNy04QVkiLCJxYyI6ImMtTnl5Y2d2VnlqSlZ5Z3BMY3BUU0M0dExzblBUUzFTeU13clNTMHF5MHd0VnlqTFRFbk5Md1lKNUNzVTV5ZG5KdVlvNUthbVpDWXFsS1FXbDJUbTV1Y0JSWW9GR0dwWF9YcGtCd0EiLCJxdWVzdGlvbiI6IkhvdyBsb25nIHNob3VsZCBhIHRlc3RpbW9uaWFsIGJlPyIsImxrIjoiR2lCb2IzY2diRzl1WnlCemFHOTFiR1FnWVNCMFpYTjBhVzF2Ym1saGJDQmlaUSIsImJzIjoiYzQzTk1RdkNNQkNHWVZ4dmNnNklWMUZCM2ZJSE1qam81dXdZazhPRUpqMW9ydnIzcmRpaDZHRDM1M3NfdU1EbXpFOFVSc2Nwa1JOMFhSSE8xS0pRa1ppNWlUWVZvN2RxSFNaQXVNSi1DSHJHUl9URW1HMWJrOFRtanR4Z1lkYzd6T1NqTmZxZ2RtR3FoaVBna002MkpyVGo0OF9ZNktWYWhKSDVFWENDNmgxSjNCLVV3RjN5WDZFYkdiMVNHUDZnLWV3RiIsImlkIjoiZmNfb1BJQ2E4LUJBOUMyMFBFUHhLNy04QVlfMSJ9"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "AQfNeHiczVZbcupGEK3Kd7YR_XAB8bqAq1S3RvIAAowZY8wlPyoxGkZCjzGSsOB-ZiP5yVcWkwVkGVlBRg9sCYPtm0pV0lXSvPo13X3U-uU3x_LsP380zDB8DK6q1SiKKpQx6pAKZm5VDw4erq6ZE_jY_EIdaWcLAdv5mFiGhE2fuSRbZ6sKWwmmIxFPODxJDQEHkigQS2JTVdE7ZRl0lbo4hdP9qF3ugKWQ6Je0lR6QDTe_3wRVrcpf9k-Na76oBBXiaX250mtbwCHjmteyK3Wx3qjcVnWX84D_lqAMVMpHGwD6Fp-MPqoRmVwrUE7lYTrm9m9AbFMFipqeXLI_i5XGkoqceMyfW7DeTO0-n0-OXHP1Hb-4POg_rxaZW-lgn7r7HinPovENCrreojNBTOIyKmgunp2jfvFEXl6D6yin_tV1cgZS0Xn8ikCvOb0BCKGLlo7EVY-WQHTAO3Vy9GjeHc5CLiVXDcqrXKyufD7UqhY2cTLxg7j4lfuuyAbaQ8uuf9UH9NscOZ3BVsM1rwMXCH2lVbzifA7TDWJopiZ-Sda1eq0ldhvtzqcEeDh4Rl6QR57PAjH0OjflUKyMK3LtiLnibU-DhVQVnCsmKtNjKIr0rADl45yE4YTTLljuZaMJZBUBXEw3GsFxnonD5ZrHq0Pz4X-RUN7A3AnxioWAZQrm2RYoVhtaAjg7Zyee355Ve74waD_DnNpLjtW46tKT15i7AzwOcXizEBc-jrKiUJkHGMVfihEXD5WUV23G_h0zhiDkU_jsSyEFSnqRHiiQkvOEy8GYKwIUAnunQkW1su3Ue0pTSzKi8OhpYkN5jbqE4rz0zLNHHyL4kQ9L6sURZCeYyWMN-pM7yxiK7iOAHeswHzODzWzFbC8e6XlsMXf1fW0N_-8BeGx6TlazFwEYW_oQAJH5FgBfNz2opABU7AsAnKUAPN_0pkeuk6b3GoAKsHIAjJsel9hnsfg3ACi_D8B8uvIAfElVAYDwEgD7sAjA5Qbypodi9ecBmBl4AeA_bXry9ze9BIckHYodcLehFzthD4J-MKrv2x5WrdvZYP1tQsobO1K8-fudcO2GV65uOJ80y7iS68PwYHzS-Aa7IoawlQYsKoWsFO58r4R3Qch_df2S5YXEf7JIVHqyDMKCeIOVAoYt3Sm5xLD0UkiC0HKZx3cCwXV8Jol6eyFO0XB0s1c1uNVb3WB882T4sjk9OMbdZKn04e6B1d0DdvWW_flnbKr3ZbRQO2A0R-M2G_q14YZAsqWNyKxZB_3eru_qy8bMG25kq6vr-8HwHqMHw13QAaH2PlQnGl1NmlvbBA8HsGv67qDTSrwJJLPcbG2WaLHXseD6WOJV0KRgguJ_PB3IERgmZSvfbfk45rWyYjJAgyVA15Q_jCdMCLCukeBJwp9bDdwSRazr6_aarAWXhodHqSsKgedLtd-xT_SQx18P_7B_-OvXvwF32IvV",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=AQfNeHiczVZbcupGEK3Kd7YR_XAB8bqAq1S3RvIAAowZY8wlPyoxGkZCjzGSsOB-ZiP5yVcWkwVkGVlBRg9sCYPtm0pV0lXSvPo13X3U-uU3x_LsP380zDB8DK6q1SiKKpQx6pAKZm5VDw4erq6ZE_jY_EIdaWcLAdv5mFiGhE2fuSRbZ6sKWwmmIxFPODxJDQEHkigQS2JTVdE7ZRl0lbo4hdP9qF3ugKWQ6Je0lR6QDTe_3wRVrcpf9k-Na76oBBXiaX250mtbwCHjmteyK3Wx3qjcVnWX84D_lqAMVMpHGwD6Fp-MPqoRmVwrUE7lYTrm9m9AbFMFipqeXLI_i5XGkoqceMyfW7DeTO0-n0-OXHP1Hb-4POg_rxaZW-lgn7r7HinPovENCrreojNBTOIyKmgunp2jfvFEXl6D6yin_tV1cgZS0Xn8ikCvOb0BCKGLlo7EVY-WQHTAO3Vy9GjeHc5CLiVXDcqrXKyufD7UqhY2cTLxg7j4lfuuyAbaQ8uuf9UH9NscOZ3BVsM1rwMXCH2lVbzifA7TDWJopiZ-Sda1eq0ldhvtzqcEeDh4Rl6QR57PAjH0OjflUKyMK3LtiLnibU-DhVQVnCsmKtNjKIr0rADl45yE4YTTLljuZaMJZBUBXEw3GsFxnonD5ZrHq0Pz4X-RUN7A3AnxioWAZQrm2RYoVhtaAjg7Zyee355Ve74waD_DnNpLjtW46tKT15i7AzwOcXizEBc-jrKiUJkHGMVfihEXD5WUV23G_h0zhiDkU_jsSyEFSnqRHiiQkvOEy8GYKwIUAnunQkW1su3Ue0pTSzKi8OhpYkN5jbqE4rz0zLNHHyL4kQ9L6sURZCeYyWMN-pM7yxiK7iOAHeswHzODzWzFbC8e6XlsMXf1fW0N_-8BeGx6TlazFwEYW_oQAJH5FgBfNz2opABU7AsAnKUAPN_0pkeuk6b3GoAKsHIAjJsel9hnsfg3ACi_D8B8uvIAfElVAYDwEgD7sAjA5Qbypodi9ecBmBl4AeA_bXry9ze9BIckHYodcLehFzthD4J-MKrv2x5WrdvZYP1tQsobO1K8-fudcO2GV65uOJ80y7iS68PwYHzS-Aa7IoawlQYsKoWsFO58r4R3Qch_df2S5YXEf7JIVHqyDMKCeIOVAoYt3Sm5xLD0UkiC0HKZx3cCwXV8Jol6eyFO0XB0s1c1uNVb3WB882T4sjk9OMbdZKn04e6B1d0DdvWW_flnbKr3ZbRQO2A0R-M2G_q14YZAsqWNyKxZB_3eru_qy8bMG25kq6vr-8HwHqMHw13QAaH2PlQnGl1NmlvbBA8HsGv67qDTSrwJJLPcbG2WaLHXseD6WOJV0KRgguJ_PB3IERgmZSvfbfk45rWyYjJAgyVA15Q_jCdMCLCukeBJwp9bDdwSRazr6_aarAWXhodHqSsKgedLtd-xT_SQx18P_7B_-OvXvwF32IvV"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "What is the best tool for recording customer testimonial ...",
+        "link": "https://www.quora.com/What-is-the-best-tool-for-recording-customer-testimonial-videos-online",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEBxCJF1wCNO0VcV8T3nVZriNqnV9TbLYhx-XHI6p56bcoAbaw-oL-0c9G3kEtLPvfXjZN95d0JSM25-QZNea0i52H4M1ULNj5Ekl0zygR6RudMAeeI-1fvXpT7Axvz7peBkpq0RjTl9696MmoXCuJkCkPpF46ROyai42PSQ_eTvnuEro4fDnvF6qj_-wpUzOZy-9t3UaC5AFU&ved=2ahUKEwjP0arV25uYAxVQGzQIHUSXH24QFnoECCAQAQ&uoh=1",
+        "displayed_link": "30+ answers",
+        "date": "14 years ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png",
+        "snippet": "What is the best tool for recording customer testimonial videos online?",
+        "about_this_result": {
+          "source": {
+            "description": "Boast video testimonial software is the easiest way to collect video testimonials, online reviews, and customer feedback from your customers.",
+            "source_info_link": "https://www.quora.com/What-is-the-best-tool-for-recording-customer-testimonial-videos-online",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCeENKRjEyQUpPWEZHWVZWdUR2a2RoajRROXdFOVFPSERha21rWnJUMnRFbkMxTWk1bzB4MHEyZXRvSlZ3cVdzaW92N2c2RVRCREozSFo5WjhQalZxaW40V2xMZHdra1ZqN1FITUM4WnJjaVA1S2psSW1YWGNqamM0cnNXSTNDNkVhblNzUGowd2N2emhiam9YNFQzN1Q0aDVnSEhEZkd1eFJoNzkwYzJpWms3RW01QnFRc1JMUFV3bkxLMFFnc0tTci1tTTI2bWhNaHMSBBoCCAAa1AcSABoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJAsAcIABAAGAAgACoKCgNob3cV-zQBPyoJCgJ0bxUAAAAAKlgKBHR1cm4VzgYgPhoIYWN0aXZhdGUaB2NvbnZlcnQaBmVuYWJsZRoEbWFrZRoGcm90YXRlGgZzd2l0Y2gaCXRyYW5zZm9ybRoGdHVybmVkGgd0dXJuaW5nKhoKCGN1c3RvbWVyFbZ2c0AaCWN1c3RvbWVycyo7CglpbnRlcnZpZXcV3wuCPhoMaW50ZXJ2aWV3aW5nGgppbnRlcnZpZXdzGg9pbnRlcnZpZXd2aWRlb3MqJQoGdmlkZW9zFTJobEAaBXZpZGVvGg9pbnRlcnZpZXd2aWRlb3MqJgoEaW50bxUO374-GgRmcm9tGgJpbhoHb24geW91choGdG8gdGhlKhoKBnNvY2lhbBWbzRE_Ggtzb2NpYWxtZWRpYSpJCgVtZWRpYRX5DZI-GgdtZWRpYSdzGgZtZWRpYXMaB25ldHdvcmsaCm5ldHdvcmtpbmcaCG5ldHdvcmtzGgtzb2NpYWxtZWRpYSo9Cgx0ZXN0aW1vbmlhbHMVsJG8PxoHcmV2aWV3cxoHc3RvcmllcxoLdGVzdGltb25pYWwaCXRlc3RpbW9ueTLdAS9nb3RvP3VybD1DQUVTbVFFQnhDSkYxMkFKT1hGR1lWVnVEdmtkaGo0UTl3RTlRT0hEYWtta1pyVDJ0RW5DMU1pNW8weDBxMmV0b0pWd3FXc2lvdjdnNkVUQkRKM0haOVo4UGpWcWluNFdsTGR3a2tWajdRSE1DOFpyY2lQNUtqbEltWFhjampjNHJzV0kzQzZFYW5Tc1BqMHdjdnpoYmpvWDRUMzdUNGg1Z0hIRGZHdXhSaDc5MGMyaVprN0VtNUJxUXNSTFBVd25MSzBRZ3NLU3ItbU0yNm1oTWhzOkpXaGF0IGlzIHRoZSBiZXN0IHRvb2wgZm9yIHJlY29yZGluZyA8Yj5jdXN0b21lciB0ZXN0aW1vbmlhbCB2aWRlb3M8L2I-IC4uLkKUATxiPkJvYXN0IHZpZGVvIHRlc3RpbW9uaWFsIHNvZnR3YXJlPC9iPiBpcyB0aGUgZWFzaWVzdCB3YXkgdG8gY29sbGVjdCB2aWRlbyB0ZXN0aW1vbmlhbHMsIG9ubGluZSByZXZpZXdzLCBhbmQgY3VzdG9tZXIgZmVlZGJhY2sgZnJvbSB5b3VyIGN1c3RvbWVycy5KAnRvUgdvbiB5b3VyUgRmcm9tUgV2aWRlb1ICaW5SBnRvIHRoZSICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCeENKRjEyQUpPWEZHWVZWdUR2a2RoajRROXdFOVFPSERha21rWnJUMnRFbkMxTWk1bzB4MHEyZXRvSlZ3cVdzaW92N2c2RVRCREozSFo5WjhQalZxaW40V2xMZHdra1ZqN1FITUM4WnJjaVA1S2psSW1YWGNqamM0cnNXSTNDNkVhblNzUGowd2N2emhiam9YNFQzN1Q0aDVnSEhEZkd1eFJoNzkwYzJpWms3RW01QnFRc1JMUFV3bkxLMFFnc0tTci1tTTI2bWhNaHMSBBoCCAAa1AcSABoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJAsAcIABAAGAAgACoKCgNob3cV-zQBPyoJCgJ0bxUAAAAAKlgKBHR1cm4VzgYgPhoIYWN0aXZhdGUaB2NvbnZlcnQaBmVuYWJsZRoEbWFrZRoGcm90YXRlGgZzd2l0Y2gaCXRyYW5zZm9ybRoGdHVybmVkGgd0dXJuaW5nKhoKCGN1c3RvbWVyFbZ2c0AaCWN1c3RvbWVycyo7CglpbnRlcnZpZXcV3wuCPhoMaW50ZXJ2aWV3aW5nGgppbnRlcnZpZXdzGg9pbnRlcnZpZXd2aWRlb3MqJQoGdmlkZW9zFTJobEAaBXZpZGVvGg9pbnRlcnZpZXd2aWRlb3MqJgoEaW50bxUO374-GgRmcm9tGgJpbhoHb24geW91choGdG8gdGhlKhoKBnNvY2lhbBWbzRE_Ggtzb2NpYWxtZWRpYSpJCgVtZWRpYRX5DZI-GgdtZWRpYSdzGgZtZWRpYXMaB25ldHdvcmsaCm5ldHdvcmtpbmcaCG5ldHdvcmtzGgtzb2NpYWxtZWRpYSo9Cgx0ZXN0aW1vbmlhbHMVsJG8PxoHcmV2aWV3cxoHc3RvcmllcxoLdGVzdGltb25pYWwaCXRlc3RpbW9ueTLdAS9nb3RvP3VybD1DQUVTbVFFQnhDSkYxMkFKT1hGR1lWVnVEdmtkaGo0UTl3RTlRT0hEYWtta1pyVDJ0RW5DMU1pNW8weDBxMmV0b0pWd3FXc2lvdjdnNkVUQkRKM0haOVo4UGpWcWluNFdsTGR3a2tWajdRSE1DOFpyY2lQNUtqbEltWFhjampjNHJzV0kzQzZFYW5Tc1BqMHdjdnpoYmpvWDRUMzdUNGg1Z0hIRGZHdXhSaDc5MGMyaVprN0VtNUJxUXNSTFBVd25MSzBRZ3NLU3ItbU0yNm1oTWhzOkpXaGF0IGlzIHRoZSBiZXN0IHRvb2wgZm9yIHJlY29yZGluZyA8Yj5jdXN0b21lciB0ZXN0aW1vbmlhbCB2aWRlb3M8L2I-IC4uLkKUATxiPkJvYXN0IHZpZGVvIHRlc3RpbW9uaWFsIHNvZnR3YXJlPC9iPiBpcyB0aGUgZWFzaWVzdCB3YXkgdG8gY29sbGVjdCB2aWRlbyB0ZXN0aW1vbmlhbHMsIG9ubGluZSByZXZpZXdzLCBhbmQgY3VzdG9tZXIgZmVlZGJhY2sgZnJvbSB5b3VyIGN1c3RvbWVycy5KAnRvUgdvbiB5b3VyUgRmcm9tUgV2aWRlb1ICaW5SBnRvIHRoZSICEAFIAFgAaAA",
+        "source": "Quora"
+      },
+      {
+        "position": 2,
+        "title": "How to Collect Customer Testimonial Videos to Share on ...",
+        "link": "https://www.bonjoro.com/blog/post/how-to-collect-customer-testimonial-videos-to-share-on-social-media",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESogEBxCJF19pZjr7uctn0WSEnySYs9tr-ZgGy7TXtBanZbHFYYUKR-PXtiyNp_jFyF3BZoIlF8YngfyVPxbN4ZZOvZlXSnqXX2ind2QxQlW5ZP5k8RH-jgjF5f15bvQgt0cJNC-3RbBUCw9tu63IDr-7vEceBdtvuHbwtyg7VIl2kUubopZ0yDCsgdDLnbNLucuetvVouxFqfNsbuoKjOPb7a7Mg&ved=2ahUKEwjP0arV25uYAxVQGzQIHUSXH24QFnoECBMQAQ&uoh=1",
+        "displayed_link": "https://www.bonjoro.com \u203a blog \u203a post \u203a how-to-collec...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA1VBMVEX_zwD_0gD_0wDWrgStiwDbsgD_2QArGxNSUFsAABXzxgDHoQf_1gAuHRK6t7gQAAi-mQYAAABDLwCZewr_1QCLawgaBREdERR4Xw3lugJdRgB2c3ayr69YU1ccDAxgShA0HQ8gExQhFBQQABWkhArIxcXt7OwhFh86IACCaA0fERFMOhEWCBRaPwpOPDTh2s83JBFNRkZhSxBIMxlDPkIIAAD19PRLMg5qUw-Vdgfc29s9MjJrZmYWAAA8JxB6dXUuIyOgnZ2VkZGvrKz___-Hg4NSNg0PZYRwAAABtUlEQVR4AbzQ15qbMBAFYGGCFYjbZBXkyprBvTfQmuam7Ps_Ukbp9TbnUv-naex_xqpY_zb7jfNDrV-xyt-6tvWVvHc_f6sxp95oehVmUmkBvH8SX0nYH3xXgmx3Pr_Uur3-IKAyFSaE8zzkISKGUTQirdjQH0-mnuV1Z_PRMJJki4DYnVOh5QoA1kI8bbbhTiKS4R4WiBGNHXHE1UFYzvEUkFHiZDxekLLaXCnCF8GqZx8xCAym2SQvCK1SKmnQ8lSIxX5Aj0VwyQEJvYhLNChGkgf7SXItIG-k4wt1ZbavSkR5tMRLuYtvl3u2T9PbQ-s-GNzVyzB0O2LN60WefBzoO8Bda32PmeNiSXWjc7VO6xfxQqeQxVrfUh2wTsTLkFaWnqIKGN90MtHpJAc9iZm3KyUhRvO2qQBjKpjcAnjoQcGoVcmNrpaqLhEamn4BPJJ9jEyc_SOVo8jwtR4WudZpY5z04fMRHF_thkYpdWpKdZN-RlsSsspzia_yC4YcF_HpVECAFELLduuKU9HPyM156ddXZLW2rxCpn1H8OcxkV6rVjn5_GjoApxtJdgNzA6C96AAAo7FOaWkuaNMAAAAASUVORK5CYII.png",
+        "snippet": "Here's how to collect and share video testimonials to your social media, to wow your audience, and get more traffic and leads flowing to your website.",
+        "snippet_highlighted_words": [
+          "Here's how to collect and share video testimonials to your social media"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Here's how to collect and share video testimonials to your social media, to wow your audience, and get more traffic and leads flowing to your website.",
+            "source_info_link": "https://www.bonjoro.com/blog/post/how-to-collect-customer-testimonial-videos-to-share-on-social-media",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA1VBMVEX_zwD_0gD_0wDWrgStiwDbsgD_2QArGxNSUFsAABXzxgDHoQf_1gAuHRK6t7gQAAi-mQYAAABDLwCZewr_1QCLawgaBREdERR4Xw3lugJdRgB2c3ayr69YU1ccDAxgShA0HQ8gExQhFBQQABWkhArIxcXt7OwhFh86IACCaA0fERFMOhEWCBRaPwpOPDTh2s83JBFNRkZhSxBIMxlDPkIIAAD19PRLMg5qUw-Vdgfc29s9MjJrZmYWAAA8JxB6dXUuIyOgnZ2VkZGvrKz___-Hg4NSNg0PZYRwAAABtUlEQVR4AbzQ15qbMBAFYGGCFYjbZBXkyprBvTfQmuam7Ps_Ukbp9TbnUv-naex_xqpY_zb7jfNDrV-xyt-6tvWVvHc_f6sxp95oehVmUmkBvH8SX0nYH3xXgmx3Pr_Uur3-IKAyFSaE8zzkISKGUTQirdjQH0-mnuV1Z_PRMJJki4DYnVOh5QoA1kI8bbbhTiKS4R4WiBGNHXHE1UFYzvEUkFHiZDxekLLaXCnCF8GqZx8xCAym2SQvCK1SKmnQ8lSIxX5Aj0VwyQEJvYhLNChGkgf7SXItIG-k4wt1ZbavSkR5tMRLuYtvl3u2T9PbQ-s-GNzVyzB0O2LN60WefBzoO8Bda32PmeNiSXWjc7VO6xfxQqeQxVrfUh2wTsTLkFaWnqIKGN90MtHpJAc9iZm3KyUhRvO2qQBjKpjcAnjoQcGoVcmNrpaqLhEamn4BPJJ9jEyc_SOVo8jwtR4WudZpY5z04fMRHF_thkYpdWpKdZN-RlsSsspzia_yC4YcF_HpVECAFELLduuKU9HPyM156ddXZLW2rxCpn1H8OcxkV6rVjn5_GjoApxtJdgNzA6C96AAAo7FOaWkuaNMAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CukBL2dvdG8_dXJsPUNBRVNvZ0VCeENKRjE0Y0ljVy1jbU43d29McUpiZE5hV0JuaVlKeFI5ZGdYOU1oWURHOEg3c1l5aks5UnZHTEg3NVp4c0M1YS10Y0dYVXZzMm9hWmtJazNRcW1EcTJ3Z011YU10TlV1ZUNQdEtFLWFzUUY4a29pVEJPbTBwd09NQ2s2b1pWZHdENmlvR3RaYmUtZDhsSXk0VEFiSFIzLTJibEhpR0haOGlTZ2U0aEQxdjROSzZsbkRHeTB5S05KS1ZTZFZOVkVDUTBiVnNnenJkWUpIQ2FQa3BBcWJlQzgSBBoCCAAa5AcSABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJAwAcIABAAGAAgACoKCgNob3cVnWnPQCoJCgJ0bxUAAAAAKlgKBHR1cm4VAAAAABoIYWN0aXZhdGUaB2NvbnZlcnQaBmVuYWJsZRoEbWFrZRoGcm90YXRlGgZzd2l0Y2gaCXRyYW5zZm9ybRoGdHVybmVkGgd0dXJuaW5nKhoKCGN1c3RvbWVyFcuz0kAaCWN1c3RvbWVycyo7CglpbnRlcnZpZXcVAAAAABoMaW50ZXJ2aWV3aW5nGgppbnRlcnZpZXdzGg9pbnRlcnZpZXd2aWRlb3MqJQoGdmlkZW9zFXU4rEAaBXZpZGVvGg9pbnRlcnZpZXd2aWRlb3MqJgoEaW50bxU5xrQ-GgRmcm9tGgJpbhoHb24geW91choGdG8gdGhlKhoKBnNvY2lhbBXU2tRAGgtzb2NpYWxtZWRpYSpJCgVtZWRpYRWW4tJAGgdtZWRpYSdzGgZtZWRpYXMaB25ldHdvcmsaCm5ldHdvcmtpbmcaCG5ldHdvcmtzGgtzb2NpYWxtZWRpYSo9Cgx0ZXN0aW1vbmlhbHMVbQSbQBoHcmV2aWV3cxoHc3RvcmllcxoLdGVzdGltb25pYWwaCXRlc3RpbW9ueTLpAS9nb3RvP3VybD1DQUVTb2dFQnhDSkYxNGNJY1ctY21ON3dvTHFKYmROYVdCbmlZSnhSOWRnWDlNaFlERzhIN3NZeWpLOVJ2R0xINzVaeHNDNWEtdGNHWFV2czJvYVprSWszUXFtRHEyd2dNdWFNdE5VdWVDUHRLRS1hc1FGOGtvaVRCT20wcHdPTUNrNm9aVmR3RDZpb0d0WmJlLWQ4bEl5NFRBYkhSMy0yYmxIaUdIWjhpU2dlNGhEMXY0Tks2bG5ER3kweUtOSktWU2RWTlZFQ1EwYlZzZ3pyZFlKSENhUGtwQXFiZUM4OkFIb3cgdG8gQ29sbGVjdCA8Yj5DdXN0b21lciBUZXN0aW1vbmlhbCBWaWRlb3M8L2I-IHRvIFNoYXJlIG9uIC4uLkKhATxiPkhlcmUmIzM5O3MgaG93IHRvIGNvbGxlY3QgYW5kIHNoYXJlIHZpZGVvIHRlc3RpbW9uaWFscyB0byB5b3VyIHNvY2lhbCBtZWRpYTwvYj4sIHRvIHdvdyB5b3VyIGF1ZGllbmNlLCBhbmQgZ2V0IG1vcmUgdHJhZmZpYyBhbmQgbGVhZHMgZmxvd2luZyB0byB5b3VyIHdlYnNpdGUuSgJ0b1IHb24geW91clIEZnJvbVIFdmlkZW9SAmluUgZ0byB0aGUiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CukBL2dvdG8_dXJsPUNBRVNvZ0VCeENKRjE0Y0ljVy1jbU43d29McUpiZE5hV0JuaVlKeFI5ZGdYOU1oWURHOEg3c1l5aks5UnZHTEg3NVp4c0M1YS10Y0dYVXZzMm9hWmtJazNRcW1EcTJ3Z011YU10TlV1ZUNQdEtFLWFzUUY4a29pVEJPbTBwd09NQ2s2b1pWZHdENmlvR3RaYmUtZDhsSXk0VEFiSFIzLTJibEhpR0haOGlTZ2U0aEQxdjROSzZsbkRHeTB5S05KS1ZTZFZOVkVDUTBiVnNnenJkWUpIQ2FQa3BBcWJlQzgSBBoCCAAa5AcSABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJAwAcIABAAGAAgACoKCgNob3cVnWnPQCoJCgJ0bxUAAAAAKlgKBHR1cm4VAAAAABoIYWN0aXZhdGUaB2NvbnZlcnQaBmVuYWJsZRoEbWFrZRoGcm90YXRlGgZzd2l0Y2gaCXRyYW5zZm9ybRoGdHVybmVkGgd0dXJuaW5nKhoKCGN1c3RvbWVyFcuz0kAaCWN1c3RvbWVycyo7CglpbnRlcnZpZXcVAAAAABoMaW50ZXJ2aWV3aW5nGgppbnRlcnZpZXdzGg9pbnRlcnZpZXd2aWRlb3MqJQoGdmlkZW9zFXU4rEAaBXZpZGVvGg9pbnRlcnZpZXd2aWRlb3MqJgoEaW50bxU5xrQ-GgRmcm9tGgJpbhoHb24geW91choGdG8gdGhlKhoKBnNvY2lhbBXU2tRAGgtzb2NpYWxtZWRpYSpJCgVtZWRpYRWW4tJAGgdtZWRpYSdzGgZtZWRpYXMaB25ldHdvcmsaCm5ldHdvcmtpbmcaCG5ldHdvcmtzGgtzb2NpYWxtZWRpYSo9Cgx0ZXN0aW1vbmlhbHMVbQSbQBoHcmV2aWV3cxoHc3RvcmllcxoLdGVzdGltb25pYWwaCXRlc3RpbW9ueTLpAS9nb3RvP3VybD1DQUVTb2dFQnhDSkYxNGNJY1ctY21ON3dvTHFKYmROYVdCbmlZSnhSOWRnWDlNaFlERzhIN3NZeWpLOVJ2R0xINzVaeHNDNWEtdGNHWFV2czJvYVprSWszUXFtRHEyd2dNdWFNdE5VdWVDUHRLRS1hc1FGOGtvaVRCT20wcHdPTUNrNm9aVmR3RDZpb0d0WmJlLWQ4bEl5NFRBYkhSMy0yYmxIaUdIWjhpU2dlNGhEMXY0Tks2bG5ER3kweUtOSktWU2RWTlZFQ1EwYlZzZ3pyZFlKSENhUGtwQXFiZUM4OkFIb3cgdG8gQ29sbGVjdCA8Yj5DdXN0b21lciBUZXN0aW1vbmlhbCBWaWRlb3M8L2I-IHRvIFNoYXJlIG9uIC4uLkKhATxiPkhlcmUmIzM5O3MgaG93IHRvIGNvbGxlY3QgYW5kIHNoYXJlIHZpZGVvIHRlc3RpbW9uaWFscyB0byB5b3VyIHNvY2lhbCBtZWRpYTwvYj4sIHRvIHdvdyB5b3VyIGF1ZGllbmNlLCBhbmQgZ2V0IG1vcmUgdHJhZmZpYyBhbmQgbGVhZHMgZmxvd2luZyB0byB5b3VyIHdlYnNpdGUuSgJ0b1IHb24geW91clIEZnJvbVIFdmlkZW9SAmluUgZ0byB0aGUiAhABSABYAGgA",
+        "source": "Bonjoro"
+      },
+      {
+        "position": 3,
+        "title": "How to Get Truly Memorable Video Testimonials from Your ...",
+        "link": "https://www.google.com/goto?url=CAESggEBxCJF1wpaT5LpQ4rY6_rZLdkgGSBH7XrQuQE7pJZ12t7SL8F_ZnaPgXIM0I5vuWWfPePyAjGRmNrzhMrzUsn7mZ4FmlHoCO-GoS7lZxBy8X7h6eL92PhwGA1dum2zbbXNjAjSVAsNKp-Sg1_5gOqpPJtykqW52H4fNLT_jovLIHC6",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESggEBxCJF10Yh8LGcFyEF0tolW6wdn0gCxosT2LzOkTszUOkFM0m1UI3yfkHTBRW1yzCZZirC5qc1DDSEIDqBkc8O-QQldvTikHVrKIDvIEJO5FcNkqqfNxXI6kdLDVDj5alVgpppXxKtf6NF3YNDTpHuG7ruJS7NdGksIbobZ2k6OJZb&ved=2ahUKEwjP0arV25uYAxVQGzQIHUSXH24QFnoECBUQAQ&uoh=1",
+        "displayed_link": "https://www.impactplus.com \u203a blog \u203a get-video-testimo...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEX___98q_8Lbf8Ka_8AXv8KbP8Aaf8AZv8Ha_9Chv-HsP8cdP8AaP8ieP_s9f-20f9el_-81f_V5_-hwv9Ukf_d6__x-P8Tcf9Rj_-yzf_K3f8AYv-ryf_Q4v-Zvf9knP_B2P-px_8AWv-Crf8AZP9koP9zo_8oDTWSAAABBklEQVR4AZXSBZbDIBRA0Y_TuBuk3u5_ifMhZ6jbOxK5UQCAUPY0StC4eBEnQAUmFRNaXwFzBxSYs1UUy5iyYEnq73GoaQY5L8qEBativJV61BXUvIHcqbe26_9RyH5QqgEYJVsMrpCNU2QQnaJVcIVatmC5Q1SF9hQzAJvO0GXPcL32F2y215g4HBD5DgDIfnqKJrFwOJrp6WOPjBZKm-d3HnFfiJeI_YjjLUJ8GVs7R2Y1z0R5PNbTtg-oleHGcM6NDw8UmkfXydrdbmeXxjzqr1DTYoJQe0YLiKrUsF1o3kiFdoXIyXFVIhXK04JahJCvCAMqrpLJFQn6flEDoYKGxNUegT-8txuEvpH8PwAAAABJRU5ErkJggg.png",
+        "date": "30 Mar 2018",
+        "snippet": "Need customer testimonials for your business? Use video to make them more memorable. Here are 4 tips for getting truly great video ...",
+        "snippet_highlighted_words": [
+          "Use video to make them more memorable"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Need customer testimonials for your business? Use video to make them more memorable. Here are 4 tips for getting truly great video ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESggEBxCJF1wpaT5LpQ4rY6_rZLdkgGSBH7XrQuQE7pJZ12t7SL8F_ZnaPgXIM0I5vuWWfPePyAjGRmNrzhMrzUsn7mZ4FmlHoCO-GoS7lZxBy8X7h6eL92PhwGA1dum2zbbXNjAjSVAsNKp-Sg1_5gOqpPJtykqW52H4fNLT_jovLIHC6",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEX___98q_8Lbf8Ka_8AXv8KbP8Aaf8AZv8Ha_9Chv-HsP8cdP8AaP8ieP_s9f-20f9el_-81f_V5_-hwv9Ukf_d6__x-P8Tcf9Rj_-yzf_K3f8AYv-ryf_Q4v-Zvf9knP_B2P-px_8AWv-Crf8AZP9koP9zo_8oDTWSAAABBklEQVR4AZXSBZbDIBRA0Y_TuBuk3u5_ifMhZ6jbOxK5UQCAUPY0StC4eBEnQAUmFRNaXwFzBxSYs1UUy5iyYEnq73GoaQY5L8qEBativJV61BXUvIHcqbe26_9RyH5QqgEYJVsMrpCNU2QQnaJVcIVatmC5Q1SF9hQzAJvO0GXPcL32F2y215g4HBD5DgDIfnqKJrFwOJrp6WOPjBZKm-d3HnFfiJeI_YjjLUJ8GVs7R2Y1z0R5PNbTtg-oleHGcM6NDw8UmkfXydrdbmeXxjzqr1DTYoJQe0YLiKrUsF1o3kiFdoXIyXFVIhXK04JahJCvCAMqrpLJFQn6flEDoYKGxNUegT-8txuEvpH8PwAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCeENKRjF3cGFUNUxwUTRyWTZfclpMZGtnR1NCSDdYclF1UUU3cEpaMTJ0N1NMOEZfWm5hUGdYSU0wSTV2dVdXZlBlUHlBakdSbU5yemhNcnpVc243bVo0Rm1sSG9DTy1Hb1M3bFp4Qnk4WDdoNmVMOTJQaHdHQTFkdW0yemJiWE5qQWpTVkFzTktwLVNnMV81Z09xcFBKdHlrcVc1Mkg0Zk5MVF9qb3ZMSUhDNhIEGgIIABqtBxICCAAaACIAKgAyBggDEgJ1azoAQgQIARAASgBaAHIAegCCQIcHCAAQABgAIAAqCgoDaG93Fc2mYEAqCQoCdG8VAAAAACpYCgR0dXJuFQAAAAAaCGFjdGl2YXRlGgdjb252ZXJ0GgZlbmFibGUaBG1ha2UaBnJvdGF0ZRoGc3dpdGNoGgl0cmFuc2Zvcm0aBnR1cm5lZBoHdHVybmluZyoaCghjdXN0b21lchUNVlQ_GgljdXN0b21lcnMqOwoJaW50ZXJ2aWV3FYdtMz8aDGludGVydmlld2luZxoKaW50ZXJ2aWV3cxoPaW50ZXJ2aWV3dmlkZW9zKiUKBnZpZGVvcxUAAAAAGgV2aWRlbxoPaW50ZXJ2aWV3dmlkZW9zKiYKBGludG8VPLkgPhoEZnJvbRoCaW4aB29uIHlvdXIaBnRvIHRoZSoaCgZzb2NpYWwVAAAAABoLc29jaWFsbWVkaWEqSQoFbWVkaWEVOVSbPRoHbWVkaWEncxoGbWVkaWFzGgduZXR3b3JrGgpuZXR3b3JraW5nGghuZXR3b3JrcxoLc29jaWFsbWVkaWEqPQoMdGVzdGltb25pYWxzFSfPc0AaB3Jldmlld3MaB3N0b3JpZXMaC3Rlc3RpbW9uaWFsGgl0ZXN0aW1vbnkyvgEvZ290bz91cmw9Q0FFU2dnRUJ4Q0pGMXdwYVQ1THBRNHJZNl9yWkxka2dHU0JIN1hyUXVRRTdwSloxMnQ3U0w4Rl9abmFQZ1hJTTBJNXZ1V1dmUGVQeUFqR1JtTnJ6aE1yelVzbjdtWjRGbWxIb0NPLUdvUzdsWnhCeThYN2g2ZUw5MlBod0dBMWR1bTJ6YmJYTmpBalNWQXNOS3AtU2cxXzVnT3FwUEp0eWtxVzUySDRmTkxUX2pvdkxJSEM2OkJIb3cgdG8gR2V0IFRydWx5IE1lbW9yYWJsZSA8Yj5WaWRlbyBUZXN0aW1vbmlhbHMgZnJvbTwvYj4gWW91ciAuLi5CkgFOZWVkIGN1c3RvbWVyIHRlc3RpbW9uaWFscyBmb3IgeW91ciBidXNpbmVzcz8gPGI-VXNlIHZpZGVvIHRvIG1ha2UgdGhlbSBtb3JlIG1lbW9yYWJsZTwvYj4uIEhlcmUgYXJlIDQgdGlwcyBmb3IgZ2V0dGluZyB0cnVseSBncmVhdCB2aWRlbyZuYnNwOy4uLkoCdG9SBGZyb21SBXZpZGVvUgJpblIGdG8gdGhlUgdvbiB5b3VyIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCeENKRjF3cGFUNUxwUTRyWTZfclpMZGtnR1NCSDdYclF1UUU3cEpaMTJ0N1NMOEZfWm5hUGdYSU0wSTV2dVdXZlBlUHlBakdSbU5yemhNcnpVc243bVo0Rm1sSG9DTy1Hb1M3bFp4Qnk4WDdoNmVMOTJQaHdHQTFkdW0yemJiWE5qQWpTVkFzTktwLVNnMV81Z09xcFBKdHlrcVc1Mkg0Zk5MVF9qb3ZMSUhDNhIEGgIIABqtBxICCAAaACIAKgAyBggDEgJ1azoAQgQIARAASgBaAHIAegCCQIcHCAAQABgAIAAqCgoDaG93Fc2mYEAqCQoCdG8VAAAAACpYCgR0dXJuFQAAAAAaCGFjdGl2YXRlGgdjb252ZXJ0GgZlbmFibGUaBG1ha2UaBnJvdGF0ZRoGc3dpdGNoGgl0cmFuc2Zvcm0aBnR1cm5lZBoHdHVybmluZyoaCghjdXN0b21lchUNVlQ_GgljdXN0b21lcnMqOwoJaW50ZXJ2aWV3FYdtMz8aDGludGVydmlld2luZxoKaW50ZXJ2aWV3cxoPaW50ZXJ2aWV3dmlkZW9zKiUKBnZpZGVvcxUAAAAAGgV2aWRlbxoPaW50ZXJ2aWV3dmlkZW9zKiYKBGludG8VPLkgPhoEZnJvbRoCaW4aB29uIHlvdXIaBnRvIHRoZSoaCgZzb2NpYWwVAAAAABoLc29jaWFsbWVkaWEqSQoFbWVkaWEVOVSbPRoHbWVkaWEncxoGbWVkaWFzGgduZXR3b3JrGgpuZXR3b3JraW5nGghuZXR3b3JrcxoLc29jaWFsbWVkaWEqPQoMdGVzdGltb25pYWxzFSfPc0AaB3Jldmlld3MaB3N0b3JpZXMaC3Rlc3RpbW9uaWFsGgl0ZXN0aW1vbnkyvgEvZ290bz91cmw9Q0FFU2dnRUJ4Q0pGMXdwYVQ1THBRNHJZNl9yWkxka2dHU0JIN1hyUXVRRTdwSloxMnQ3U0w4Rl9abmFQZ1hJTTBJNXZ1V1dmUGVQeUFqR1JtTnJ6aE1yelVzbjdtWjRGbWxIb0NPLUdvUzdsWnhCeThYN2g2ZUw5MlBod0dBMWR1bTJ6YmJYTmpBalNWQXNOS3AtU2cxXzVnT3FwUEp0eWtxVzUySDRmTkxUX2pvdkxJSEM2OkJIb3cgdG8gR2V0IFRydWx5IE1lbW9yYWJsZSA8Yj5WaWRlbyBUZXN0aW1vbmlhbHMgZnJvbTwvYj4gWW91ciAuLi5CkgFOZWVkIGN1c3RvbWVyIHRlc3RpbW9uaWFscyBmb3IgeW91ciBidXNpbmVzcz8gPGI-VXNlIHZpZGVvIHRvIG1ha2UgdGhlbSBtb3JlIG1lbW9yYWJsZTwvYj4uIEhlcmUgYXJlIDQgdGlwcyBmb3IgZ2V0dGluZyB0cnVseSBncmVhdCB2aWRlbyZuYnNwOy4uLkoCdG9SBGZyb21SBXZpZGVvUgJpblIGdG8gdGhlUgdvbiB5b3VyIgIQAUgAWABoAA",
+        "source": "impactplus.com"
+      },
+      {
+        "position": 4,
+        "title": "How to Make Customer Testimonial Videos With AI",
+        "link": "https://www.google.com/goto?url=CAEScgHEIkXXOa33AouHr_mZhOoImun8uoFPPEYdr0JH5qaYn-hKa4S0ysYZv2l0MynnF7_bw0mc0j7fqmLXDllDL-VFQttNZk-dIpK1-lSChMR89hWEhIhNnmzDnxyIlFUPKDTHBOewysns5HfQ2CgP6-zz1Q",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHEIkXXoSE7p84yTaM6Odjnt5Cg2Wp21Mq83zrp9SFGvFn_wcfxfZiuqOFyDjruhlqKQlQiQAQx8QhWkMn3TsnrSfalBbH_jz-NGSClQ9X4YgwHuufCEfP13cFj6O3vbhmfXt0ffhV5_db4DgQp9PeWag&ved=2ahUKEwjP0arV25uYAxVQGzQIHUSXH24QFnoECBIQAQ&uoh=1",
+        "displayed_link": "https://oakgen.ai \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAxElEQVR4Ac3SLQyCUBSG4a9Q6H0zUyg2C5EZ7SPSA8VGpFIpbHT7ZqTSiTQKjXTbq4PhvKBU_dLZnu3u_Fy5O_k1aspHlPyirm-RtEWpYcoQao3y6Cszcywb5Q5R0QXyCoCjbKwSkFzpYKBdYQnpVCsEfL2hToCcue4gt7CEfnnkDpWFFXRfMQOzYA-ZhcFrPF0gX3U7wCg5z9ZMGa1HiQCTSgqThrONrnIAxhFItFl8bLBXa5_sWnd9m0s7x3b-5vdt8wBMxYl6gj9VegAAAABJRU5ErkJggg.png",
+        "date": "15 Jan 2026",
+        "snippet": "Create professional testimonial videos using AI avatars and real reviews. No customer scheduling, filming, or editing required.",
+        "snippet_highlighted_words": [
+          "Create professional testimonial videos using AI avatars and real reviews"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Create professional testimonial videos using AI avatars and real reviews. No customer scheduling, filming, or editing required.",
+            "source_info_link": "https://www.google.com/goto?url=CAEScgHEIkXXOa33AouHr_mZhOoImun8uoFPPEYdr0JH5qaYn-hKa4S0ysYZv2l0MynnF7_bw0mc0j7fqmLXDllDL-VFQttNZk-dIpK1-lSChMR89hWEhIhNnmzDnxyIlFUPKDTHBOewysns5HfQ2CgP6-zz1Q",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAxElEQVR4Ac3SLQyCUBSG4a9Q6H0zUyg2C5EZ7SPSA8VGpFIpbHT7ZqTSiTQKjXTbq4PhvKBU_dLZnu3u_Fy5O_k1aspHlPyirm-RtEWpYcoQao3y6Cszcywb5Q5R0QXyCoCjbKwSkFzpYKBdYQnpVCsEfL2hToCcue4gt7CEfnnkDpWFFXRfMQOzYA-ZhcFrPF0gX3U7wCg5z9ZMGa1HiQCTSgqThrONrnIAxhFItFl8bLBXa5_sWnd9m0s7x3b-5vdt8wBMxYl6gj9VegAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqgBL2dvdG8_dXJsPUNBRVNjZ0hFSWtYWE9hMzNBb3VIcl9tWmhPb0ltdW44dW9GUFBFWWRyMEpINXFhWW4taEthNFMweXNZWnYybDBNeW5uRjdfYncwbWMwajdmcW1MWERsbERMLVZGUXR0TlprLWRJcEsxLWxTQ2hNUjg5aFdFaEloTm5tekRueHlJbEZVUEtEVEhCT2V3eXNuczVIZlEyQ2dQNi16ejFREgQaAggAGokHEgAaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQOUGCAAQABgAIAAqCgoDaG93FRqPW0AqCQoCdG8VAAAAACpYCgR0dXJuFap8vj4aCGFjdGl2YXRlGgdjb252ZXJ0GgZlbmFibGUaBG1ha2UaBnJvdGF0ZRoGc3dpdGNoGgl0cmFuc2Zvcm0aBnR1cm5lZBoHdHVybmluZyoaCghjdXN0b21lchV-mYRAGgljdXN0b21lcnMqOwoJaW50ZXJ2aWV3FTinJT4aDGludGVydmlld2luZxoKaW50ZXJ2aWV3cxoPaW50ZXJ2aWV3dmlkZW9zKiUKBnZpZGVvcxWBk59AGgV2aWRlbxoPaW50ZXJ2aWV3dmlkZW9zKiYKBGludG8Va494PxoEZnJvbRoCaW4aB29uIHlvdXIaBnRvIHRoZSoaCgZzb2NpYWwVW16mPxoLc29jaWFsbWVkaWEqSQoFbWVkaWEVbG6TPxoHbWVkaWEncxoGbWVkaWFzGgduZXR3b3JrGgpuZXR3b3JraW5nGghuZXR3b3JrcxoLc29jaWFsbWVkaWEqPQoMdGVzdGltb25pYWxzFaUcAUAaB3Jldmlld3MaB3N0b3JpZXMaC3Rlc3RpbW9uaWFsGgl0ZXN0aW1vbnkyqAEvZ290bz91cmw9Q0FFU2NnSEVJa1hYT2EzM0FvdUhyX21aaE9vSW11bjh1b0ZQUEVZZHIwSkg1cWFZbi1oS2E0UzB5c1ladjJsME15bm5GN19idzBtYzBqN2ZxbUxYRGxsREwtVkZRdHROWmstZElwSzEtbFNDaE1SODloV0VoSWhObm16RG54eUlsRlVQS0RUSEJPZXd5c25zNUhmUTJDZ1A2LXp6MVE6QjxiPkhvdyB0byBNYWtlIEN1c3RvbWVyIFRlc3RpbW9uaWFsIFZpZGVvczwvYj4gV2l0aCBBSSB8IE9ha2dlbi5haUKGATxiPkNyZWF0ZSBwcm9mZXNzaW9uYWwgdGVzdGltb25pYWwgdmlkZW9zIHVzaW5nIEFJIGF2YXRhcnMgYW5kIHJlYWwgcmV2aWV3czwvYj4uIE5vIGN1c3RvbWVyIHNjaGVkdWxpbmcsIGZpbG1pbmcsIG9yIGVkaXRpbmcgcmVxdWlyZWQuSgJ0b1IHb24geW91clICaW5SBXZpZGVvUgRmcm9tUgZ0byB0aGUiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqgBL2dvdG8_dXJsPUNBRVNjZ0hFSWtYWE9hMzNBb3VIcl9tWmhPb0ltdW44dW9GUFBFWWRyMEpINXFhWW4taEthNFMweXNZWnYybDBNeW5uRjdfYncwbWMwajdmcW1MWERsbERMLVZGUXR0TlprLWRJcEsxLWxTQ2hNUjg5aFdFaEloTm5tekRueHlJbEZVUEtEVEhCT2V3eXNuczVIZlEyQ2dQNi16ejFREgQaAggAGokHEgAaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQOUGCAAQABgAIAAqCgoDaG93FRqPW0AqCQoCdG8VAAAAACpYCgR0dXJuFap8vj4aCGFjdGl2YXRlGgdjb252ZXJ0GgZlbmFibGUaBG1ha2UaBnJvdGF0ZRoGc3dpdGNoGgl0cmFuc2Zvcm0aBnR1cm5lZBoHdHVybmluZyoaCghjdXN0b21lchV-mYRAGgljdXN0b21lcnMqOwoJaW50ZXJ2aWV3FTinJT4aDGludGVydmlld2luZxoKaW50ZXJ2aWV3cxoPaW50ZXJ2aWV3dmlkZW9zKiUKBnZpZGVvcxWBk59AGgV2aWRlbxoPaW50ZXJ2aWV3dmlkZW9zKiYKBGludG8Va494PxoEZnJvbRoCaW4aB29uIHlvdXIaBnRvIHRoZSoaCgZzb2NpYWwVW16mPxoLc29jaWFsbWVkaWEqSQoFbWVkaWEVbG6TPxoHbWVkaWEncxoGbWVkaWFzGgduZXR3b3JrGgpuZXR3b3JraW5nGghuZXR3b3JrcxoLc29jaWFsbWVkaWEqPQoMdGVzdGltb25pYWxzFaUcAUAaB3Jldmlld3MaB3N0b3JpZXMaC3Rlc3RpbW9uaWFsGgl0ZXN0aW1vbnkyqAEvZ290bz91cmw9Q0FFU2NnSEVJa1hYT2EzM0FvdUhyX21aaE9vSW11bjh1b0ZQUEVZZHIwSkg1cWFZbi1oS2E0UzB5c1ladjJsME15bm5GN19idzBtYzBqN2ZxbUxYRGxsREwtVkZRdHROWmstZElwSzEtbFNDaE1SODloV0VoSWhObm16RG54eUlsRlVQS0RUSEJPZXd5c25zNUhmUTJDZ1A2LXp6MVE6QjxiPkhvdyB0byBNYWtlIEN1c3RvbWVyIFRlc3RpbW9uaWFsIFZpZGVvczwvYj4gV2l0aCBBSSB8IE9ha2dlbi5haUKGATxiPkNyZWF0ZSBwcm9mZXNzaW9uYWwgdGVzdGltb25pYWwgdmlkZW9zIHVzaW5nIEFJIGF2YXRhcnMgYW5kIHJlYWwgcmV2aWV3czwvYj4uIE5vIGN1c3RvbWVyIHNjaGVkdWxpbmcsIGZpbG1pbmcsIG9yIGVkaXRpbmcgcmVxdWlyZWQuSgJ0b1IHb24geW91clICaW5SBXZpZGVvUgRmcm9tUgZ0byB0aGUiAhABSABYAGgA",
+        "source": "Oakgen.ai"
+      },
+      {
+        "position": 5,
+        "title": "Customer Testimonial Videos for SaaS Guide",
+        "link": "https://www.google.com/goto?url=CAEShAEBxCJF1zJrx0JAo6GnYsXTRTgLk8GXs9tItnxEYc5uOTnO-J9aBaBWnK8z5k5Yanc2FMXuXBc0zhOk7R-7cKNgItdcdLGcnyRRmJA3PYnpLcrKRKIJk0ZyAqXF-RJKzTt5qcvWYm0A65AIBzhN_rO-9po7TfHbmUakiA2ud-VD7On7j_s",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEBxCJF13emb7PxS-bfia66DPdDT0H7Cg_PbJ5h1vsfX8clbeMCSdVzV6qi5pp6D1ey6B86Fxji0SxpdbNonxsxIt4j8SXhqZTaMDQD6DSRsONH2LLXwV6hdYhsx-sDTjd7CrrygCYJ6i9b0FEWXpZJ942KYAjCXyFWz5mEMmzdEZCN3tU&ved=2ahUKEwjP0arV25uYAxVQGzQIHUSXH24QFnoECBQQAQ&uoh=1",
+        "displayed_link": "https://www.vibrantsnap.com \u203a Blog \u203a SaaS Growth",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAVFBMVEXp6OLq6eLu7OLx7uHDy-Wjs-iltefW2uTh4uO1weYAUfAQW_AAVfCcruji4-IvaO4ATvAlY-8dYO8AV_Bbguwyau4UXe-4w-ZVfu0GWfCLoum_yeWmlqisAAAAiUlEQVR4Ac3P1QGEQAxFUZLBbXS9_zrRvDVSAPcHOaPZaSNmJrwtfZvJi7KoaLW6KMuipC9r2q7rB15stN2Sq-ljvfe-K3i14JeiIGxF2Ad5sR0NzPeClLn9R0j5Rcy3I2amq2gH62-4C5n7opKYEYPqBtUNqhtUNyhMV5iiD5ii_HzBlJiyUzcDu_ANlplAauMAAAAASUVORK5CYII.png",
+        "date": "11 Jan 2026",
+        "snippet": "This guide shows you how to create customer testimonial videos that actually convert, without expensive production crews or awkward interview ...",
+        "snippet_highlighted_words": [
+          "customer testimonial videos",
+          "convert",
+          "interview"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "This guide shows you how to create customer testimonial videos that actually convert, without expensive production crews or awkward interview\n ...",
+            "source_info_link": "https://www.google.com/goto?url=CAEShAEBxCJF1zJrx0JAo6GnYsXTRTgLk8GXs9tItnxEYc5uOTnO-J9aBaBWnK8z5k5Yanc2FMXuXBc0zhOk7R-7cKNgItdcdLGcnyRRmJA3PYnpLcrKRKIJk0ZyAqXF-RJKzTt5qcvWYm0A65AIBzhN_rO-9po7TfHbmUakiA2ud-VD7On7j_s",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAVFBMVEXp6OLq6eLu7OLx7uHDy-Wjs-iltefW2uTh4uO1weYAUfAQW_AAVfCcruji4-IvaO4ATvAlY-8dYO8AV_Bbguwyau4UXe-4w-ZVfu0GWfCLoum_yeWmlqisAAAAiUlEQVR4Ac3P1QGEQAxFUZLBbXS9_zrRvDVSAPcHOaPZaSNmJrwtfZvJi7KoaLW6KMuipC9r2q7rB15stN2Sq-ljvfe-K3i14JeiIGxF2Ad5sR0NzPeClLn9R0j5Rcy3I2amq2gH62-4C5n7opKYEYPqBtUNqhtUNyhMV5iiD5ii_HzBlJiyUzcDu_ANlplAauMAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsEBL2dvdG8_dXJsPUNBRVNoQUVCeENKRjF6SnJ4MEpBbzZHbllzWFRSVGdMazhHWHM5dEl0bnhFWWM1dU9Ubk8tSjlhQmFCV25LOHo1azVZYW5jMkZNWHVYQmMwemhPazdSLTdjS05nSXRkY2RMR2NueVJSbUpBM1BZbnBMY3JLUktJSmswWnlBcVhGLVJKS3pUdDVxY3ZXWW0wQTY1QUlCemhOX3JPLTlwbzdUZkhibVVha2lBMnVkLVZEN09uN2pfcxIEGgIIABrEBxIAGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkCgBwgAEAAYACAAKgoKA2hvdxWlBiZAKgkKAnRvFQAAAAAqWAoEdHVybhWbVKs_GghhY3RpdmF0ZRoHY29udmVydBoGZW5hYmxlGgRtYWtlGgZyb3RhdGUaBnN3aXRjaBoJdHJhbnNmb3JtGgZ0dXJuZWQaB3R1cm5pbmcqGgoIY3VzdG9tZXIVaHq5QBoJY3VzdG9tZXJzKjsKCWludGVydmlldxUe2Ho_GgxpbnRlcnZpZXdpbmcaCmludGVydmlld3MaD2ludGVydmlld3ZpZGVvcyolCgZ2aWRlb3MVF5y4QBoFdmlkZW8aD2ludGVydmlld3ZpZGVvcyomCgRpbnRvFVPJWj8aBGZyb20aAmluGgdvbiB5b3VyGgZ0byB0aGUqGgoGc29jaWFsFRxIyz8aC3NvY2lhbG1lZGlhKkkKBW1lZGlhFaAkej8aB21lZGlhJ3MaBm1lZGlhcxoHbmV0d29yaxoKbmV0d29ya2luZxoIbmV0d29ya3MaC3NvY2lhbG1lZGlhKj0KDHRlc3RpbW9uaWFscxU7xpRAGgdyZXZpZXdzGgdzdG9yaWVzGgt0ZXN0aW1vbmlhbBoJdGVzdGltb255MsEBL2dvdG8_dXJsPUNBRVNoQUVCeENKRjF6SnJ4MEpBbzZHbllzWFRSVGdMazhHWHM5dEl0bnhFWWM1dU9Ubk8tSjlhQmFCV25LOHo1azVZYW5jMkZNWHVYQmMwemhPazdSLTdjS05nSXRkY2RMR2NueVJSbUpBM1BZbnBMY3JLUktJSmswWnlBcVhGLVJKS3pUdDVxY3ZXWW0wQTY1QUlCemhOX3JPLTlwbzdUZkhibVVha2lBMnVkLVZEN09uN2pfczo_PGI-Q3VzdG9tZXIgVGVzdGltb25pYWwgVmlkZW9zPC9iPiBmb3IgU2FhUyBHdWlkZSAtIFZpYnJhbnRzbmFwQqsBVGhpcyBndWlkZSBzaG93cyB5b3UgaG93IHRvIGNyZWF0ZSA8Yj5jdXN0b21lciB0ZXN0aW1vbmlhbCB2aWRlb3M8L2I-IHRoYXQgYWN0dWFsbHkgPGI-Y29udmVydDwvYj4sIHdpdGhvdXQgZXhwZW5zaXZlIHByb2R1Y3Rpb24gY3Jld3Mgb3IgYXdrd2FyZCA8Yj5pbnRlcnZpZXc8L2I-Jm5ic3A7Li4uSgJ0b1IHb24geW91clICaW5SBXZpZGVvUgRmcm9tUgZ0byB0aGUiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsEBL2dvdG8_dXJsPUNBRVNoQUVCeENKRjF6SnJ4MEpBbzZHbllzWFRSVGdMazhHWHM5dEl0bnhFWWM1dU9Ubk8tSjlhQmFCV25LOHo1azVZYW5jMkZNWHVYQmMwemhPazdSLTdjS05nSXRkY2RMR2NueVJSbUpBM1BZbnBMY3JLUktJSmswWnlBcVhGLVJKS3pUdDVxY3ZXWW0wQTY1QUlCemhOX3JPLTlwbzdUZkhibVVha2lBMnVkLVZEN09uN2pfcxIEGgIIABrEBxIAGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkCgBwgAEAAYACAAKgoKA2hvdxWlBiZAKgkKAnRvFQAAAAAqWAoEdHVybhWbVKs_GghhY3RpdmF0ZRoHY29udmVydBoGZW5hYmxlGgRtYWtlGgZyb3RhdGUaBnN3aXRjaBoJdHJhbnNmb3JtGgZ0dXJuZWQaB3R1cm5pbmcqGgoIY3VzdG9tZXIVaHq5QBoJY3VzdG9tZXJzKjsKCWludGVydmlldxUe2Ho_GgxpbnRlcnZpZXdpbmcaCmludGVydmlld3MaD2ludGVydmlld3ZpZGVvcyolCgZ2aWRlb3MVF5y4QBoFdmlkZW8aD2ludGVydmlld3ZpZGVvcyomCgRpbnRvFVPJWj8aBGZyb20aAmluGgdvbiB5b3VyGgZ0byB0aGUqGgoGc29jaWFsFRxIyz8aC3NvY2lhbG1lZGlhKkkKBW1lZGlhFaAkej8aB21lZGlhJ3MaBm1lZGlhcxoHbmV0d29yaxoKbmV0d29ya2luZxoIbmV0d29ya3MaC3NvY2lhbG1lZGlhKj0KDHRlc3RpbW9uaWFscxU7xpRAGgdyZXZpZXdzGgdzdG9yaWVzGgt0ZXN0aW1vbmlhbBoJdGVzdGltb255MsEBL2dvdG8_dXJsPUNBRVNoQUVCeENKRjF6SnJ4MEpBbzZHbllzWFRSVGdMazhHWHM5dEl0bnhFWWM1dU9Ubk8tSjlhQmFCV25LOHo1azVZYW5jMkZNWHVYQmMwemhPazdSLTdjS05nSXRkY2RMR2NueVJSbUpBM1BZbnBMY3JLUktJSmswWnlBcVhGLVJKS3pUdDVxY3ZXWW0wQTY1QUlCemhOX3JPLTlwbzdUZkhibVVha2lBMnVkLVZEN09uN2pfczo_PGI-Q3VzdG9tZXIgVGVzdGltb25pYWwgVmlkZW9zPC9iPiBmb3IgU2FhUyBHdWlkZSAtIFZpYnJhbnRzbmFwQqsBVGhpcyBndWlkZSBzaG93cyB5b3UgaG93IHRvIGNyZWF0ZSA8Yj5jdXN0b21lciB0ZXN0aW1vbmlhbCB2aWRlb3M8L2I-IHRoYXQgYWN0dWFsbHkgPGI-Y29udmVydDwvYj4sIHdpdGhvdXQgZXhwZW5zaXZlIHByb2R1Y3Rpb24gY3Jld3Mgb3IgYXdrd2FyZCA8Yj5pbnRlcnZpZXc8L2I-Jm5ic3A7Li4uSgJ0b1IHb24geW91clICaW5SBXZpZGVvUgRmcm9tUgZ0byB0aGUiAhABSABYAGgA",
+        "source": "Vibrantsnap",
+        "read_more_link": "https://www.google.com/goto?url=CAES2wEBxCJF16xfCaVSqhfzwAO6TlrpBOKWa4duO0mKewp5-ZiQU2_YeAGE7RbK09vtw0FRahmw0xsVD6wer-IAG0sy8OJZlec7hrZrQH6DAU3ZHrDQSTnguBFYDcdGLHOdLZGJvhnAcZZJVV1zUcfzlc52EE-gb7q4evHBxIqZFPhN8lBVGJPnLh3ZWDzQPZkta_xWoE2LUPzY2Wc_B3hhvLJ9b_WlaDD6P8-dr2ulffC-RR2iuVnIL86qEcSbd_Hl6LFmGXoj6WxHJw_lekAMSPVZrXY8PqpfYqrncf8&gsessionid=mLoeTZvWgxjBA3b7ZxDysP6MK7GWZBYMtshYeXlfNAgRc8X9ZgV0iw"
+      },
+      {
+        "position": 6,
+        "title": "How to capture client testimonials quickly and easily",
+        "link": "https://www.google.com/goto?url=CAESoAEBxCJF1yqho-fCyh7J68mJdAw6O1XtvjIxtd2XGLcQEIkdoVJoCT3zeV7ExIAEfRm8lP_SkGVjEDpmfVC0r_lSCqampgKJPI57DGdMm4qmzHD8M-yTSPSfR625rVjrnCunMzIEyf7OK37W5QRmz6j_os6BMPqbBrbMZRz0soiEgRDvfrLee0bWw8x0w56SggFWy4TZakWUYSLBVhNuVuny",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoAEBxCJF13YdgJhHgef6rM0B58Kf27PhLmD0PDEdHAnj-RT6dvVi557toc5CR9KvduYRx_8SPDhc0ZNFA_eDuarHqPLauqKPiOcuzLUR8m0isEhRYgU7fuul1i6YL2sXIRWCwyrxSRY6k6ef6xqZD_wdMGgMh0AygE8c13CWRTr11Zho2yXnK7IUa56fhr_ZDnL8pqZXCKOlm0qG01BCmI4F&ved=2ahUKEwjP0arV25uYAxVQGzQIHUSXH24QFnoECBoQAQ&uoh=1",
+        "displayed_link": "30+ likes",
+        "date": "1 year ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEVHcEwAAAAAAAAAAAAAAAAAAAB2dnanp6fW1tb___-JiYmzs7Pm5uaUlJS5ubm_v79XV1fMzMwuLi5GRkZgYGAWFhbz8_NaZDsbAAAABnRSTlMATcb6_504Ks4-AAAA00lEQVR4AX3TCw6DIBAEUNQpP_Gv3P-oHbJKpA1MErPwXAgRlVJdP-AvQ98p5oNKPuxDNZ3q69iroY6DQiOC2jAA8kC_ENY55yFhafHGkTNByonlWOC8cGpFShh_cVmJm-x4o7bbg_tG3VMj5oR86tx5pFYDHFZQuwBkRKCyOAWDM2_0RI8AJLx4HDNmBIjBT4JHehEZ5awRGU2BO9EgLxsLBE9z3YjIYxd4cvygT3vcaDWYeEIWsHxS8yfbU6vUjAa0DQqNNK9J84I1r2b7Urd-hy8WUBIcmpFBTAAAAABJRU5ErkJggg.png",
+        "snippet": "The easiest way to get client testimonials is by catching wins in real time. When a client mentions a breakthrough or achievement, ...",
+        "snippet_highlighted_words": [
+          "catching wins in real time"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The easiest way to get client testimonials is by catching wins in real time. When a client mentions a breakthrough or achievement, ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESoAEBxCJF1yqho-fCyh7J68mJdAw6O1XtvjIxtd2XGLcQEIkdoVJoCT3zeV7ExIAEfRm8lP_SkGVjEDpmfVC0r_lSCqampgKJPI57DGdMm4qmzHD8M-yTSPSfR625rVjrnCunMzIEyf7OK37W5QRmz6j_os6BMPqbBrbMZRz0soiEgRDvfrLee0bWw8x0w56SggFWy4TZakWUYSLBVhNuVuny",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEVHcEwAAAAAAAAAAAAAAAAAAAB2dnanp6fW1tb___-JiYmzs7Pm5uaUlJS5ubm_v79XV1fMzMwuLi5GRkZgYGAWFhbz8_NaZDsbAAAABnRSTlMATcb6_504Ks4-AAAA00lEQVR4AX3TCw6DIBAEUNQpP_Gv3P-oHbJKpA1MErPwXAgRlVJdP-AvQ98p5oNKPuxDNZ3q69iroY6DQiOC2jAA8kC_ENY55yFhafHGkTNByonlWOC8cGpFShh_cVmJm-x4o7bbg_tG3VMj5oR86tx5pFYDHFZQuwBkRKCyOAWDM2_0RI8AJLx4HDNmBIjBT4JHehEZ5awRGU2BO9EgLxsLBE9z3YjIYxd4cvygT3vcaDWYeEIWsHxS8yfbU6vUjAa0DQqNNK9J84I1r2b7Urd-hy8WUBIcmpFBTAAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuYBL2dvdG8_dXJsPUNBRVNvQUVCeENKRjF5cWhvLWZDeWg3SjY4bUpkQXc2TzFYdHZqSXh0ZDJYR0xjUUVJa2RvVkpvQ1QzemVWN0V4SUFFZlJtOGxQX1NrR1ZqRURwbWZWQzByX2xTQ3FhbXBnS0pQSTU3REdkTW00cW16SEQ4TS15VFNQU2ZSNjI1clZqcm5DdW5NeklFeWY3T0szN1c1UVJtejZqX29zNkJNUHFiQnJiTVpSejBzb2lFZ1JEdmZyTGVlMGJXdzh4MHc1NlNnZ0ZXeTRUWmFrV1VZU0xCVmhOdVZ1bnkSBBoCCAAazQcSABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJAqQcIABAAGAAgACoKCgNob3cVUBpOQCoJCgJ0bxUAAAAAKlgKBHR1cm4VMQiSPRoIYWN0aXZhdGUaB2NvbnZlcnQaBmVuYWJsZRoEbWFrZRoGcm90YXRlGgZzd2l0Y2gaCXRyYW5zZm9ybRoGdHVybmVkGgd0dXJuaW5nKhoKCGN1c3RvbWVyFSp2Zz4aCWN1c3RvbWVycyo7CglpbnRlcnZpZXcVAAAAABoMaW50ZXJ2aWV3aW5nGgppbnRlcnZpZXdzGg9pbnRlcnZpZXd2aWRlb3MqJQoGdmlkZW9zFQAAAAAaBXZpZGVvGg9pbnRlcnZpZXd2aWRlb3MqJgoEaW50bxUE2m4_GgRmcm9tGgJpbhoHb24geW91choGdG8gdGhlKhoKBnNvY2lhbBW0lB5AGgtzb2NpYWxtZWRpYSpJCgVtZWRpYRXh8cc_GgdtZWRpYSdzGgZtZWRpYXMaB25ldHdvcmsaCm5ldHdvcmtpbmcaCG5ldHdvcmtzGgtzb2NpYWxtZWRpYSo9Cgx0ZXN0aW1vbmlhbHMVSvFhQBoHcmV2aWV3cxoHc3RvcmllcxoLdGVzdGltb25pYWwaCXRlc3RpbW9ueTLmAS9nb3RvP3VybD1DQUVTb0FFQnhDSkYxeXFoby1mQ3loN0o2OG1KZEF3Nk8xWHR2akl4dGQyWEdMY1FFSWtkb1ZKb0NUM3plVjdFeElBRWZSbThsUF9Ta0dWakVEcG1mVkMwcl9sU0NxYW1wZ0tKUEk1N0RHZE1tNHFtekhEOE0teVRTUFNmUjYyNXJWanJuQ3VuTXpJRXlmN09LMzdXNVFSbXo2al9vczZCTVBxYkJyYk1aUnowc29pRWdSRHZmckxlZTBiV3c4eDB3NTZTZ2dGV3k0VFpha1dVWVNMQlZoTnVWdW55OjxIb3cgdG8gY2FwdHVyZSBjbGllbnQgPGI-dGVzdGltb25pYWxzPC9iPiBxdWlja2x5IGFuZCBlYXNpbHlCkgFUaGUgZWFzaWVzdCB3YXkgdG8gZ2V0IGNsaWVudCB0ZXN0aW1vbmlhbHMgaXMgYnkgPGI-Y2F0Y2hpbmcgd2lucyBpbiByZWFsIHRpbWU8L2I-LiBXaGVuIGEgY2xpZW50IG1lbnRpb25zIGEgYnJlYWt0aHJvdWdoIG9yIGFjaGlldmVtZW50LCZuYnNwOy4uLkoCdG9SB29uIHlvdXJSBGZyb21SBXZpZGVvUgJpblIGdG8gdGhlIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuYBL2dvdG8_dXJsPUNBRVNvQUVCeENKRjF5cWhvLWZDeWg3SjY4bUpkQXc2TzFYdHZqSXh0ZDJYR0xjUUVJa2RvVkpvQ1QzemVWN0V4SUFFZlJtOGxQX1NrR1ZqRURwbWZWQzByX2xTQ3FhbXBnS0pQSTU3REdkTW00cW16SEQ4TS15VFNQU2ZSNjI1clZqcm5DdW5NeklFeWY3T0szN1c1UVJtejZqX29zNkJNUHFiQnJiTVpSejBzb2lFZ1JEdmZyTGVlMGJXdzh4MHc1NlNnZ0ZXeTRUWmFrV1VZU0xCVmhOdVZ1bnkSBBoCCAAazQcSABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJAqQcIABAAGAAgACoKCgNob3cVUBpOQCoJCgJ0bxUAAAAAKlgKBHR1cm4VMQiSPRoIYWN0aXZhdGUaB2NvbnZlcnQaBmVuYWJsZRoEbWFrZRoGcm90YXRlGgZzd2l0Y2gaCXRyYW5zZm9ybRoGdHVybmVkGgd0dXJuaW5nKhoKCGN1c3RvbWVyFSp2Zz4aCWN1c3RvbWVycyo7CglpbnRlcnZpZXcVAAAAABoMaW50ZXJ2aWV3aW5nGgppbnRlcnZpZXdzGg9pbnRlcnZpZXd2aWRlb3MqJQoGdmlkZW9zFQAAAAAaBXZpZGVvGg9pbnRlcnZpZXd2aWRlb3MqJgoEaW50bxUE2m4_GgRmcm9tGgJpbhoHb24geW91choGdG8gdGhlKhoKBnNvY2lhbBW0lB5AGgtzb2NpYWxtZWRpYSpJCgVtZWRpYRXh8cc_GgdtZWRpYSdzGgZtZWRpYXMaB25ldHdvcmsaCm5ldHdvcmtpbmcaCG5ldHdvcmtzGgtzb2NpYWxtZWRpYSo9Cgx0ZXN0aW1vbmlhbHMVSvFhQBoHcmV2aWV3cxoHc3RvcmllcxoLdGVzdGltb25pYWwaCXRlc3RpbW9ueTLmAS9nb3RvP3VybD1DQUVTb0FFQnhDSkYxeXFoby1mQ3loN0o2OG1KZEF3Nk8xWHR2akl4dGQyWEdMY1FFSWtkb1ZKb0NUM3plVjdFeElBRWZSbThsUF9Ta0dWakVEcG1mVkMwcl9sU0NxYW1wZ0tKUEk1N0RHZE1tNHFtekhEOE0teVRTUFNmUjYyNXJWanJuQ3VuTXpJRXlmN09LMzdXNVFSbXo2al9vczZCTVBxYkJyYk1aUnowc29pRWdSRHZmckxlZTBiV3c4eDB3NTZTZ2dGV3k0VFpha1dVWVNMQlZoTnVWdW55OjxIb3cgdG8gY2FwdHVyZSBjbGllbnQgPGI-dGVzdGltb25pYWxzPC9iPiBxdWlja2x5IGFuZCBlYXNpbHlCkgFUaGUgZWFzaWVzdCB3YXkgdG8gZ2V0IGNsaWVudCB0ZXN0aW1vbmlhbHMgaXMgYnkgPGI-Y2F0Y2hpbmcgd2lucyBpbiByZWFsIHRpbWU8L2I-LiBXaGVuIGEgY2xpZW50IG1lbnRpb25zIGEgYnJlYWt0aHJvdWdoIG9yIGFjaGlldmVtZW50LCZuYnNwOy4uLkoCdG9SB29uIHlvdXJSBGZyb21SBXZpZGVvUgJpblIGdG8gdGhlIgIQAUgAWABoAA",
+        "source": "Medium \u00b7 Bryan Collins",
+        "read_more_link": "https://www.google.com/goto?url=CAES9QEBxCJF1xFGKCOxNxY8SCkMYG5hWw3uPExRHRM3Wdc8Fp5Ze68pxecbQwpZHi2jTbgKq0-2ny1jo1YiL_xLVf7bvbGOx6ZACcAezaRro3m__4rRMNZ5ehMtie1dYLB-sMJLmlVvqsi8feLOaY2FnXH6uYVHiDzFb4Iy_QokferrcPSPBvGCDrhOmm4QgxBcsO4QQsjx6Oc4rzHm2I3loMhI8NfM-ipcu5wshViB7teUtfh0APEYJwEXUIsmFdq1h4pKbVj-8V8XX-kQjD-MGu0BgJOFTW6IPX583-HenNmzWhfZ2nTraTKg1vxwIBKbH4pSNuTpxQ&gsessionid=mLoeTZvWgxjBA3b7ZxDysP6MK7GWZBYMtshYeXlfNAgRc8X9ZgV0iw"
+      },
+      {
+        "position": 7,
+        "title": "Step-by-Step Guide to Making Video Testimonials - Maverick",
+        "link": "https://www.google.com/goto?url=CAESmQEBxCJF1wAEkvGlXIy9TEGG0m2wamg36Njk8LugWQW3BaGINCcshfoMYsjmVz5tdp0sdmafA-cECnWbFTpyjl1ioAtCqk_34Gnski_I47GwQ0FfKKUyWYUy7DiyipxEtvoQSlCostJ-yCbNRyKJiLyyn_kpDV8oQxgT-ZewaYuN0xqItfZR9qQXffpa0H3RjBQ-YIppBzV1u88",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEBxCJF11RhCyBwmiVN9KSm7W6TwnOq4i6UOwOv3LftGeWNyIovlLWRRKUbwSmuffAMj7sWwNeKKJQ9F9vY6TIq8QMrfgk5oJTrO0Ng1ttQkHj1hgLp5wibaawYqxJ8V5srlP6ttPuX4ojuvsWjS3eLk-SIuLOhyYIK649ivaLZEMhQLckUD2UT_7sGnQsfDXuPHCJ4qtzKjO8&ved=2ahUKEwjP0arV25uYAxVQGzQIHUSXH24QFnoECFUQAQ&uoh=1",
+        "displayed_link": "https://www.maverick-intl.com \u203a a-step-by-step-guide-t...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAABZ0lEQVR4AWIwwQNoJwnolQxhJIShIOoVAllHUlvRksraTeqzCovBB4XaBG96ai0GicJgKxcvMShMVVWT3hTIrTc3jvnhzeT_CprEvx4_DZGGQs7LshhF2TkRjOoBxiwFhlw67330o6ZMcEarJUbn3HEOQSmKQk8h2prxdo1-0nmeE35iy2Ecx66Q7yNuezzekvUwhvLGhhBgKtp9Ph3Vo4vIcRdWKCllvQQ_P3NS2xiWijLGxIV9QVWe_li36MYHaZJzY0OE1rYQZtsMZ_0WoSD5ia0hOJspCVGpVl9BCXsPFWlscLP1wTZEJycNbyzaZM_JuemZ1zZc2KtQ37_Q5tMQwWm3Rje00I1VEBFmRyoSd8Npcm6sxxL2H1m061n6MTgY_sYOkA1YaaZ1nvZu-9705XfxmR59tC0ScZ6sOA_8dzLglDkiEhXwMNyNXSCbzi3QkSqDD-jCCnqKIYAxwBj9PpP_f7e_GPU0WzoOy24AAAAASUVORK5CYII.png",
+        "date": "28 Dec 2022",
+        "snippet": "Aim to use your customers' time as little as possible and make the whole process easy for them. Ensure everything is 100% checked and ready ...",
+        "snippet_highlighted_words": [
+          "make the whole process easy for them"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Aim to use your customers' time as little as possible and make the whole process easy for them. Ensure everything is 100% checked and ready ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESmQEBxCJF1wAEkvGlXIy9TEGG0m2wamg36Njk8LugWQW3BaGINCcshfoMYsjmVz5tdp0sdmafA-cECnWbFTpyjl1ioAtCqk_34Gnski_I47GwQ0FfKKUyWYUy7DiyipxEtvoQSlCostJ-yCbNRyKJiLyyn_kpDV8oQxgT-ZewaYuN0xqItfZR9qQXffpa0H3RjBQ-YIppBzV1u88",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAABZ0lEQVR4AWIwwQNoJwnolQxhJIShIOoVAllHUlvRksraTeqzCovBB4XaBG96ai0GicJgKxcvMShMVVWT3hTIrTc3jvnhzeT_CprEvx4_DZGGQs7LshhF2TkRjOoBxiwFhlw67330o6ZMcEarJUbn3HEOQSmKQk8h2prxdo1-0nmeE35iy2Ecx66Q7yNuezzekvUwhvLGhhBgKtp9Ph3Vo4vIcRdWKCllvQQ_P3NS2xiWijLGxIV9QVWe_li36MYHaZJzY0OE1rYQZtsMZ_0WoSD5ia0hOJspCVGpVl9BCXsPFWlscLP1wTZEJycNbyzaZM_JuemZ1zZc2KtQ37_Q5tMQwWm3Rje00I1VEBFmRyoSd8Npcm6sxxL2H1m061n6MTgY_sYOkA1YaaZ1nvZu-9705XfxmR59tC0ScZ6sOA_8dzLglDkiEhXwMNyNXSCbzi3QkSqDD-jCCnqKIYAxwBj9PpP_f7e_GPU0WzoOy24AAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCeENKRjF3QUVrdkdsWEl5OVRFR0cwbTJ3YW1nMzZOams4THVnV1FXM0JhR0lOQ2NzaGZvTVlzam1WejV0ZHAwc2RtYWZBLWNFQ25XYkZUcHlqbDFpb0F0Q3FrXzM0R25za2lfSTQ3R3dRMEZmS0tVeVdZVXk3RGl5aXB4RXR2b1FTbENvc3RKLXlDYk5SeUtKaUx5eW5fa3BEVjhvUXhnVC1aZXdhWXVOMHhxSXRmWlI5cVFYZmZwYTBIM1JqQlEtWUlwcEJ6VjF1ODgSBBoCCAAa1gcSABoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJAsgcIABAAGAAgACoKCgNob3cVhd9hPyoJCgJ0bxUAAAAAKlgKBHR1cm4VAAAAABoIYWN0aXZhdGUaB2NvbnZlcnQaBmVuYWJsZRoEbWFrZRoGcm90YXRlGgZzd2l0Y2gaCXRyYW5zZm9ybRoGdHVybmVkGgd0dXJuaW5nKhoKCGN1c3RvbWVyFQzcvj8aCWN1c3RvbWVycyo7CglpbnRlcnZpZXcVJYFCPxoMaW50ZXJ2aWV3aW5nGgppbnRlcnZpZXdzGg9pbnRlcnZpZXd2aWRlb3MqJQoGdmlkZW9zFQhQAz4aBXZpZGVvGg9pbnRlcnZpZXd2aWRlb3MqJgoEaW50bxXqnRA-GgRmcm9tGgJpbhoHb24geW91choGdG8gdGhlKhoKBnNvY2lhbBWrNJI_Ggtzb2NpYWxtZWRpYSpJCgVtZWRpYRX0Nl0_GgdtZWRpYSdzGgZtZWRpYXMaB25ldHdvcmsaCm5ldHdvcmtpbmcaCG5ldHdvcmtzGgtzb2NpYWxtZWRpYSo9Cgx0ZXN0aW1vbmlhbHMVwP2LQBoHcmV2aWV3cxoHc3RvcmllcxoLdGVzdGltb25pYWwaCXRlc3RpbW9ueTLdAS9nb3RvP3VybD1DQUVTbVFFQnhDSkYxd0FFa3ZHbFhJeTlURUdHMG0yd2FtZzM2TmprOEx1Z1dRVzNCYUdJTkNjc2hmb01Zc2ptVno1dGRwMHNkbWFmQS1jRUNuV2JGVHB5amwxaW9BdENxa18zNEduc2tpX0k0N0d3UTBGZktLVXlXWVV5N0RpeWlweEV0dm9RU2xDb3N0Si15Q2JOUnlLSmlMeXluX2twRFY4b1F4Z1QtWmV3YVl1TjB4cUl0ZlpSOXFRWGZmcGEwSDNSakJRLVlJcHBCelYxdTg4OkFTdGVwLWJ5LVN0ZXAgR3VpZGUgdG8gTWFraW5nIDxiPlZpZGVvIFRlc3RpbW9uaWFsczwvYj4gLSBNYXZlcmlja0KfAUFpbSB0byB1c2UgeW91ciBjdXN0b21lcnMmIzM5OyB0aW1lIGFzIGxpdHRsZSBhcyBwb3NzaWJsZSBhbmQgPGI-bWFrZSB0aGUgd2hvbGUgcHJvY2VzcyBlYXN5IGZvciB0aGVtPC9iPi4gRW5zdXJlIGV2ZXJ5dGhpbmcgaXMgMTAwJSBjaGVja2VkIGFuZCByZWFkeSZuYnNwOy4uLkoCdG9SB29uIHlvdXJSBGZyb21SBXZpZGVvUgJpblIGdG8gdGhlIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCeENKRjF3QUVrdkdsWEl5OVRFR0cwbTJ3YW1nMzZOams4THVnV1FXM0JhR0lOQ2NzaGZvTVlzam1WejV0ZHAwc2RtYWZBLWNFQ25XYkZUcHlqbDFpb0F0Q3FrXzM0R25za2lfSTQ3R3dRMEZmS0tVeVdZVXk3RGl5aXB4RXR2b1FTbENvc3RKLXlDYk5SeUtKaUx5eW5fa3BEVjhvUXhnVC1aZXdhWXVOMHhxSXRmWlI5cVFYZmZwYTBIM1JqQlEtWUlwcEJ6VjF1ODgSBBoCCAAa1gcSABoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJAsgcIABAAGAAgACoKCgNob3cVhd9hPyoJCgJ0bxUAAAAAKlgKBHR1cm4VAAAAABoIYWN0aXZhdGUaB2NvbnZlcnQaBmVuYWJsZRoEbWFrZRoGcm90YXRlGgZzd2l0Y2gaCXRyYW5zZm9ybRoGdHVybmVkGgd0dXJuaW5nKhoKCGN1c3RvbWVyFQzcvj8aCWN1c3RvbWVycyo7CglpbnRlcnZpZXcVJYFCPxoMaW50ZXJ2aWV3aW5nGgppbnRlcnZpZXdzGg9pbnRlcnZpZXd2aWRlb3MqJQoGdmlkZW9zFQhQAz4aBXZpZGVvGg9pbnRlcnZpZXd2aWRlb3MqJgoEaW50bxXqnRA-GgRmcm9tGgJpbhoHb24geW91choGdG8gdGhlKhoKBnNvY2lhbBWrNJI_Ggtzb2NpYWxtZWRpYSpJCgVtZWRpYRX0Nl0_GgdtZWRpYSdzGgZtZWRpYXMaB25ldHdvcmsaCm5ldHdvcmtpbmcaCG5ldHdvcmtzGgtzb2NpYWxtZWRpYSo9Cgx0ZXN0aW1vbmlhbHMVwP2LQBoHcmV2aWV3cxoHc3RvcmllcxoLdGVzdGltb25pYWwaCXRlc3RpbW9ueTLdAS9nb3RvP3VybD1DQUVTbVFFQnhDSkYxd0FFa3ZHbFhJeTlURUdHMG0yd2FtZzM2TmprOEx1Z1dRVzNCYUdJTkNjc2hmb01Zc2ptVno1dGRwMHNkbWFmQS1jRUNuV2JGVHB5amwxaW9BdENxa18zNEduc2tpX0k0N0d3UTBGZktLVXlXWVV5N0RpeWlweEV0dm9RU2xDb3N0Si15Q2JOUnlLSmlMeXluX2twRFY4b1F4Z1QtWmV3YVl1TjB4cUl0ZlpSOXFRWGZmcGEwSDNSakJRLVlJcHBCelYxdTg4OkFTdGVwLWJ5LVN0ZXAgR3VpZGUgdG8gTWFraW5nIDxiPlZpZGVvIFRlc3RpbW9uaWFsczwvYj4gLSBNYXZlcmlja0KfAUFpbSB0byB1c2UgeW91ciBjdXN0b21lcnMmIzM5OyB0aW1lIGFzIGxpdHRsZSBhcyBwb3NzaWJsZSBhbmQgPGI-bWFrZSB0aGUgd2hvbGUgcHJvY2VzcyBlYXN5IGZvciB0aGVtPC9iPi4gRW5zdXJlIGV2ZXJ5dGhpbmcgaXMgMTAwJSBjaGVja2VkIGFuZCByZWFkeSZuYnNwOy4uLkoCdG9SB29uIHlvdXJSBGZyb21SBXZpZGVvUgJpblIGdG8gdGhlIgIQAUgAWABoAA",
+        "source": "maverick-intl.com",
+        "read_more_link": "https://www.google.com/goto?url=CAES5wEBxCJF17Ax8a1BPPWA5MiR7M6_CaK3LkQ42A0Mj30rGZ9_TdWW8JXdjn_NY2ajr43Ewc5BdetuBzAi9oyVulM-KiMV4raIsHuEC6GIvW2EaJsGmGQPp66HEAbx9s0lau2Z4cQRqkXpavRLn7nHCF5UP1wDUEW7lwODISKTk95H3AbZuKuS31_6F5D_9epOfNZ7-Y_jsCXPfq9GHL5RMZ1F_gBbL6KuXLCk71rcBzU7qppDkAX8SHFAMBDUarKhonSn6lpOqOiL7_6LqIjQNNIdB0jy1fderF33dMKbDaDi61R-K6SZpaY&gsessionid=mLoeTZvWgxjBA3b7ZxDysP6MK7GWZBYMtshYeXlfNAgRc8X9ZgV0iw"
+      },
+      {
+        "position": 8,
+        "title": "Create Powerful Customer Testimonial Videos That Convert",
+        "link": "https://www.google.com/goto?url=CAESdwHEIkXXUpRNKMDgEGSkbi1lZGLVtKokep0BzUljxcgjDC7pAeU73aRYeM6fy6iMtIxydZ0N0NmYCFmedbjsFGfMTYZx-2ZQp6WmfDV5qHIwSjpq5Upi45V7kY_tFrSEqVrAYLI-jkKoD4ZWsJ5vPdqVLgYwycBc",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHEIkXXvccWnbMPAF3-HehiAseVMNMUqocCHvyPduMGn2sH2A4wDXGFpkcF0-Nql4HXeOnrdZDJqbFFXz8Dt3Yutn91xQC5ETPxY493uRua_DyHpW7dSzf4ZgFMU_ir_WfJaF1GxbKNSfkdxTIsmuBAIYwgEd36&ved=2ahUKEwjP0arV25uYAxVQGzQIHUSXH24QFnoECFQQAQ&uoh=1",
+        "displayed_link": "https://www.superside.com \u203a blog \u203a customer-testimoni...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEwKIR8KIR8JIR8KIiAKIR8AGRwAABMADRkkNiiPql211nJ1jE9fdEOCmlVJXDnf_4nY_oWkwmjH6nwYRLkVAAAABnRSTlMAedb_F_cBmbSuAAAA9UlEQVR4AX3TBQKDMAwFUEa3_NTTcv-7LpkWDc6ry6Rxm90u5ttkcX-4w3jcFVe2Ui3TncZtGuojAPx-Yyatd_ob-xBjAqnlUqo-_8hZpDVpFY6LSOAByRvZFYDepIyIoJDzIprZbqtiEZskMLo0DYlwI3ZR1GfWwqWzG5GyFavKqNnDrdDBagqvnlgn10jOdHGvAtdo8W5M5R0SmVq94mmNgPeAjeDSpGOFCDY2AfQepxUivju-ePAWqZotolxq1LcROYj-sJGxsdFB5BGLWCPYRSMJWHXFl2KpCbnHXv_mXsuEmX_rhP42Xy6w66V5vagvtsMTOIMTDZhZnRkAAAAASUVORK5CYII.png",
+        "date": "27 Sept 2022",
+        "snippet": "Knowing what goes into testimonial videos and why they're important is well and good, but knowing how to put one together is better. To ...",
+        "snippet_highlighted_words": [
+          "Knowing what goes into testimonial videos"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Knowing what goes into testimonial videos and why they're important is well and good, but knowing how to put one together is better. To ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESdwHEIkXXUpRNKMDgEGSkbi1lZGLVtKokep0BzUljxcgjDC7pAeU73aRYeM6fy6iMtIxydZ0N0NmYCFmedbjsFGfMTYZx-2ZQp6WmfDV5qHIwSjpq5Upi45V7kY_tFrSEqVrAYLI-jkKoD4ZWsJ5vPdqVLgYwycBc",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEwKIR8KIR8JIR8KIiAKIR8AGRwAABMADRkkNiiPql211nJ1jE9fdEOCmlVJXDnf_4nY_oWkwmjH6nwYRLkVAAAABnRSTlMAedb_F_cBmbSuAAAA9UlEQVR4AX3TBQKDMAwFUEa3_NTTcv-7LpkWDc6ry6Rxm90u5ttkcX-4w3jcFVe2Ui3TncZtGuojAPx-Yyatd_ob-xBjAqnlUqo-_8hZpDVpFY6LSOAByRvZFYDepIyIoJDzIprZbqtiEZskMLo0DYlwI3ZR1GfWwqWzG5GyFavKqNnDrdDBagqvnlgn10jOdHGvAtdo8W5M5R0SmVq94mmNgPeAjeDSpGOFCDY2AfQepxUivju-ePAWqZotolxq1LcROYj-sJGxsdFB5BGLWCPYRSMJWHXFl2KpCbnHXv_mXsuEmX_rhP42Xy6w66V5vagvtsMTOIMTDZhZnRkAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq4BL2dvdG8_dXJsPUNBRVNkd0hFSWtYWFVwUk5LTURnRUdTa2JpMWxaR0xWdEtva2VwMEJ6VWxqeGNnakRDN3BBZVU3M2FSWWVNNmZ5NmlNdEl4eWRaME4wTm1ZQ0ZtZWRianNGR2ZNVFlaeC0yWlFwNldtZkRWNXFISXdTanBxNVVwaTQ1VjdrWV90RnJTRXFWckFZTEktamtLb0Q0WldzSjV2UGRxVkxnWXd5Y0JjEgQaAggAGqoHEgIIABoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJAhAcIABAAGAAgACoKCgNob3cVbye0PyoJCgJ0bxUAAAAAKlgKBHR1cm4VAAAAABoIYWN0aXZhdGUaB2NvbnZlcnQaBmVuYWJsZRoEbWFrZRoGcm90YXRlGgZzd2l0Y2gaCXRyYW5zZm9ybRoGdHVybmVkGgd0dXJuaW5nKhoKCGN1c3RvbWVyFT5ErEAaCWN1c3RvbWVycyo7CglpbnRlcnZpZXcVAAAAABoMaW50ZXJ2aWV3aW5nGgppbnRlcnZpZXdzGg9pbnRlcnZpZXd2aWRlb3MqJQoGdmlkZW9zFbRQk0AaBXZpZGVvGg9pbnRlcnZpZXd2aWRlb3MqJgoEaW50bxXIRM8-GgRmcm9tGgJpbhoHb24geW91choGdG8gdGhlKhoKBnNvY2lhbBVMNUI_Ggtzb2NpYWxtZWRpYSpJCgVtZWRpYRWzjDE_GgdtZWRpYSdzGgZtZWRpYXMaB25ldHdvcmsaCm5ldHdvcmtpbmcaCG5ldHdvcmtzGgtzb2NpYWxtZWRpYSo9Cgx0ZXN0aW1vbmlhbHMVPkRIQBoHcmV2aWV3cxoHc3RvcmllcxoLdGVzdGltb25pYWwaCXRlc3RpbW9ueTKuAS9nb3RvP3VybD1DQUVTZHdIRUlrWFhVcFJOS01EZ0VHU2tiaTFsWkdMVnRLb2tlcDBCelVsanhjZ2pEQzdwQWVVNzNhUlllTTZmeTZpTXRJeHlkWjBOME5tWUNGbWVkYmpzRkdmTVRZWngtMlpRcDZXbWZEVjVxSEl3U2pwcTVVcGk0NVY3a1lfdEZyU0VxVnJBWUxJLWprS29ENFpXc0o1dlBkcVZMZ1l3eWNCYzpGQ3JlYXRlIFBvd2VyZnVsIDxiPkN1c3RvbWVyIFRlc3RpbW9uaWFsIFZpZGVvczwvYj4gVGhhdCA8Yj5Db252ZXJ0PC9iPkKbATxiPktub3dpbmcgd2hhdCBnb2VzIGludG8gdGVzdGltb25pYWwgdmlkZW9zPC9iPiBhbmQgd2h5IHRoZXkmIzM5O3JlIGltcG9ydGFudCBpcyB3ZWxsIGFuZCBnb29kLCBidXQga25vd2luZyBob3cgdG8gcHV0IG9uZSB0b2dldGhlciBpcyBiZXR0ZXIuIFRvJm5ic3A7Li4uSgJ0b1IEZnJvbVIFdmlkZW9SAmluUgZ0byB0aGVSB29uIHlvdXIiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq4BL2dvdG8_dXJsPUNBRVNkd0hFSWtYWFVwUk5LTURnRUdTa2JpMWxaR0xWdEtva2VwMEJ6VWxqeGNnakRDN3BBZVU3M2FSWWVNNmZ5NmlNdEl4eWRaME4wTm1ZQ0ZtZWRianNGR2ZNVFlaeC0yWlFwNldtZkRWNXFISXdTanBxNVVwaTQ1VjdrWV90RnJTRXFWckFZTEktamtLb0Q0WldzSjV2UGRxVkxnWXd5Y0JjEgQaAggAGqoHEgIIABoAIgAqADIGCAISAnVrOgBCBAgBEABKAFoAcgB6AIJAhAcIABAAGAAgACoKCgNob3cVbye0PyoJCgJ0bxUAAAAAKlgKBHR1cm4VAAAAABoIYWN0aXZhdGUaB2NvbnZlcnQaBmVuYWJsZRoEbWFrZRoGcm90YXRlGgZzd2l0Y2gaCXRyYW5zZm9ybRoGdHVybmVkGgd0dXJuaW5nKhoKCGN1c3RvbWVyFT5ErEAaCWN1c3RvbWVycyo7CglpbnRlcnZpZXcVAAAAABoMaW50ZXJ2aWV3aW5nGgppbnRlcnZpZXdzGg9pbnRlcnZpZXd2aWRlb3MqJQoGdmlkZW9zFbRQk0AaBXZpZGVvGg9pbnRlcnZpZXd2aWRlb3MqJgoEaW50bxXIRM8-GgRmcm9tGgJpbhoHb24geW91choGdG8gdGhlKhoKBnNvY2lhbBVMNUI_Ggtzb2NpYWxtZWRpYSpJCgVtZWRpYRWzjDE_GgdtZWRpYSdzGgZtZWRpYXMaB25ldHdvcmsaCm5ldHdvcmtpbmcaCG5ldHdvcmtzGgtzb2NpYWxtZWRpYSo9Cgx0ZXN0aW1vbmlhbHMVPkRIQBoHcmV2aWV3cxoHc3RvcmllcxoLdGVzdGltb25pYWwaCXRlc3RpbW9ueTKuAS9nb3RvP3VybD1DQUVTZHdIRUlrWFhVcFJOS01EZ0VHU2tiaTFsWkdMVnRLb2tlcDBCelVsanhjZ2pEQzdwQWVVNzNhUlllTTZmeTZpTXRJeHlkWjBOME5tWUNGbWVkYmpzRkdmTVRZWngtMlpRcDZXbWZEVjVxSEl3U2pwcTVVcGk0NVY3a1lfdEZyU0VxVnJBWUxJLWprS29ENFpXc0o1dlBkcVZMZ1l3eWNCYzpGQ3JlYXRlIFBvd2VyZnVsIDxiPkN1c3RvbWVyIFRlc3RpbW9uaWFsIFZpZGVvczwvYj4gVGhhdCA8Yj5Db252ZXJ0PC9iPkKbATxiPktub3dpbmcgd2hhdCBnb2VzIGludG8gdGVzdGltb25pYWwgdmlkZW9zPC9iPiBhbmQgd2h5IHRoZXkmIzM5O3JlIGltcG9ydGFudCBpcyB3ZWxsIGFuZCBnb29kLCBidXQga25vd2luZyBob3cgdG8gcHV0IG9uZSB0b2dldGhlciBpcyBiZXR0ZXIuIFRvJm5ic3A7Li4uSgJ0b1IEZnJvbVIFdmlkZW9SAmluUgZ0byB0aGVSB29uIHlvdXIiAhABSABYAGgA",
+        "source": "Superside",
+        "read_more_link": "https://www.google.com/goto?url=CAES0wEBxCJF125TDHrprmEXJpHJA4SimvWoe_OK1giUbOSY2QnXGLiHzpa9NMTxbsth3DuWiNrJI7on3FE8_abuJ4kZPZOs1UZ6TcaOu8z314qlpSKVbgiFb9ZkRVDpRRxsrj4uE4YLsN8mZUKlGxGsN1gR3gxWUrtXwCdDVJna5Gmx64nYIn3rJ1-Li5UdYeF8kJJW3qO-dg7suOEpMIv6MqbQJHADldZyKrVeoAEu1E2Nic945Ej4EGEuU5wl-wxfoantA6vkWDOTJ2rslKTkyvex9IiX&gsessionid=mLoeTZvWgxjBA3b7ZxDysP6MK7GWZBYMtshYeXlfNAgRc8X9ZgV0iw"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "How to turn customer interview videos into social media testimonials examples",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDhcXnJkOSdfEGnWluYujCuVvjF2vw:1795355296057&q=How+to+turn+customer+interview+videos+into+social+media+testimonials+examples&sa=X&ved=2ahUKEwjP0arV25uYAxVQGzQIHUSXH24Q1QJ6BAhTEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+turn+customer+interview+videos+into+social+media+testimonials+examples"
+      },
+      {
+        "block_position": 1,
+        "query": "How to turn customer interview videos into social media testimonials free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDhcXnJkOSdfEGnWluYujCuVvjF2vw:1795355296057&q=How+to+turn+customer+interview+videos+into+social+media+testimonials+free&sa=X&ved=2ahUKEwjP0arV25uYAxVQGzQIHUSXH24Q1QJ6BAhSEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+turn+customer+interview+videos+into+social+media+testimonials+free"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=How+to+turn+customer+interview+videos+into+social+media+testimonials&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDhcXnJkOSdfEGnWluYujCuVvjF2vw:1795355296057&ei=oPICa8-BA9C20PEPxK7-8AY&start=10&sa=N&sstk=AYl2yk-aPE3NKXbI9m4qQ0fQil_J7h-mWVyT6z9399X4xrAhs3lQKovW1CeTi97d55Yrl3RTMXv-LZzFnY-erT-mGBfSVe02OVemVw&ved=2ahUKEwjP0arV25uYAxVQGzQIHUSXH24Q8NMDegQIUBAQ",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=How+to+turn+customer+interview+videos+into+social+media+testimonials&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDhcXnJkOSdfEGnWluYujCuVvjF2vw:1795355296057&ei=oPICa8-BA9C20PEPxK7-8AY&start=10&sa=N&sstk=AYl2yk-aPE3NKXbI9m4qQ0fQil_J7h-mWVyT6z9399X4xrAhs3lQKovW1CeTi97d55Yrl3RTMXv-LZzFnY-erT-mGBfSVe02OVemVw&ved=2ahUKEwjP0arV25uYAxVQGzQIHUSXH24Q8tMDegQIUBAE",
+        "3": "https://www.google.com/search?q=How+to+turn+customer+interview+videos+into+social+media+testimonials&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDhcXnJkOSdfEGnWluYujCuVvjF2vw:1795355296057&ei=oPICa8-BA9C20PEPxK7-8AY&start=20&sa=N&sstk=AYl2yk-aPE3NKXbI9m4qQ0fQil_J7h-mWVyT6z9399X4xrAhs3lQKovW1CeTi97d55Yrl3RTMXv-LZzFnY-erT-mGBfSVe02OVemVw&ved=2ahUKEwjP0arV25uYAxVQGzQIHUSXH24Q8tMDegQIUBAG",
+        "4": "https://www.google.com/search?q=How+to+turn+customer+interview+videos+into+social+media+testimonials&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDhcXnJkOSdfEGnWluYujCuVvjF2vw:1795355296057&ei=oPICa8-BA9C20PEPxK7-8AY&start=30&sa=N&sstk=AYl2yk-aPE3NKXbI9m4qQ0fQil_J7h-mWVyT6z9399X4xrAhs3lQKovW1CeTi97d55Yrl3RTMXv-LZzFnY-erT-mGBfSVe02OVemVw&ved=2ahUKEwjP0arV25uYAxVQGzQIHUSXH24Q8tMDegQIUBAI",
+        "5": "https://www.google.com/search?q=How+to+turn+customer+interview+videos+into+social+media+testimonials&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDhcXnJkOSdfEGnWluYujCuVvjF2vw:1795355296057&ei=oPICa8-BA9C20PEPxK7-8AY&start=40&sa=N&sstk=AYl2yk-aPE3NKXbI9m4qQ0fQil_J7h-mWVyT6z9399X4xrAhs3lQKovW1CeTi97d55Yrl3RTMXv-LZzFnY-erT-mGBfSVe02OVemVw&ved=2ahUKEwjP0arV25uYAxVQGzQIHUSXH24Q8tMDegQIUBAK",
+        "6": "https://www.google.com/search?q=How+to+turn+customer+interview+videos+into+social+media+testimonials&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDhcXnJkOSdfEGnWluYujCuVvjF2vw:1795355296057&ei=oPICa8-BA9C20PEPxK7-8AY&start=50&sa=N&sstk=AYl2yk-aPE3NKXbI9m4qQ0fQil_J7h-mWVyT6z9399X4xrAhs3lQKovW1CeTi97d55Yrl3RTMXv-LZzFnY-erT-mGBfSVe02OVemVw&ved=2ahUKEwjP0arV25uYAxVQGzQIHUSXH24Q8tMDegQIUBAM",
+        "7": "https://www.google.com/search?q=How+to+turn+customer+interview+videos+into+social+media+testimonials&sca_esv=c653c500caaf7fef&gl=uk&hl=en&sxsrf=AKL5yDhcXnJkOSdfEGnWluYujCuVvjF2vw:1795355296057&ei=oPICa8-BA9C20PEPxK7-8AY&start=60&sa=N&sstk=AYl2yk-aPE3NKXbI9m4qQ0fQil_J7h-mWVyT6z9399X4xrAhs3lQKovW1CeTi97d55Yrl3RTMXv-LZzFnY-erT-mGBfSVe02OVemVw&ved=2ahUKEwjP0arV25uYAxVQGzQIHUSXH24Q8tMDegQIUBAO"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+turn+customer+interview+videos+into+social+media+testimonials&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+turn+customer+interview+videos+into+social+media+testimonials&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+turn+customer+interview+videos+into+social+media+testimonials&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+turn+customer+interview+videos+into+social+media+testimonials&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+turn+customer+interview+videos+into+social+media+testimonials&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+turn+customer+interview+videos+into+social+media+testimonials&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+turn+customer+interview+videos+into+social+media+testimonials&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+turn+customer+interview+videos+into+social+media+testimonials&start=60"
+      }
+    }
+  },
+  "error_details": null
+}

@@ -1,0 +1,439 @@
+{
+  "measurement_id": "79044220edf1",
+  "question_id": "Q025",
+  "timestamp_utc": "2026-11-22T13:47:13.333345+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "How to build a scalable CreatorOps pipeline for a brand",
+  "market": "US",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://www.youtube.com/watch?v=gn3PK5CQTcM",
+    "https://www.versique.com/building-ai-powered-personalization-pipelines-a-non-techies-guide/",
+    "https://www.google.com/goto?url=CAESaAHEIkXXE-VhLDUXtrW7vU-LQ1ibWj2gXf5mwRBds4y0Qo6Xw_MCv--VJSp5PDAO7i4vhv9h-B3sSXjRN4HtpRJDhICA09v5pG_Qc0hbZPcoNIF8NaI-RTYqovH1bKGIZuiVAY0kedbH&gsessionid=QZ9JpCkLb9HGUd29MtaNSZnjFB7-MNehmWh24tITsuCcf1S5pWPWLg",
+    "https://www.google.com/goto?url=CAEShwEBxCJF1_rhHAQBBO_7Gl8AhLLQ5vRNFhrYjaxtrd0frkPUJmc0Jm8cyyt_RLeEMLXTUdHoRSSl-MyCGegbC8ccodhpPgffOugpYGPZ7o3w6w252kFVA3VzrAgasZPhoBX9MXFt6xwEMoe1mENShRxVBbQTtccSxLpuBoPpJp7xYcN1qdu7CU0",
+    "https://www.google.com/goto?url=CAESaAHEIkXXNjzJr2SWf8dOu3KP95BGcbpWv5UtSU_DnCQ2mjC9s8_QGecjnzmXvEBW0PUna9sTLFdkJ0vgySvVOAOrlkIohA1bj5iHSzpKROd9lgNr7I_vyzKmWA7ddRDfLmrcPIrhgdHL&gsessionid=QZ9JpCkLb9HGUd29MtaNSZnjFB7-MNehmWh24tITsuCcf1S5pWPWLg",
+    "https://www.google.com/goto?url=CAESaAHEIkXX-R4Tf6y26oTaJYPgmduNiG7JJ3TGYcgEvsZ99xYbxu4aMMea7c3vjHyA-V51TiYl1PIrg1hy8nKZaJc3wyTt_UNDo9yIbmnQgsQY9mV4_eU3juUreAynIXUlRHHjERyBAiRv&gsessionid=QZ9JpCkLb9HGUd29MtaNSZnjFB7-MNehmWh24tITsuCcf1S5pWPWLg",
+    "https://www.google.com/goto?url=CAESngEBxCJF11wd265Mb6ElEEFpwdhiuEvRwr7vCQ0C7wxxW2XhP_tuzLV5cDuicakmQizKDHzIZkraUOU_4OuvBgEufn0ROdrywCeQehla-cNpv56zL6A-LLD6VGC11xuj0GBfv9CKR8EMLgZvn2ZmnbRqKSxpMffFNvpvAr1n5RIjo9fH8mlHDrr6kzonrHDlade4ivNXUO03PcyLe8Z0EQ",
+    "https://www.google.com/goto?url=CAEScgHEIkXXo9Ap5DDKBu8xY91UMpg9WtcO-akO3c0exAIeBRXABMYDCoA6nsXRMiD_Q_Fjgm9WFndY6ixKP8krWgVJTg7n9xlk3kjeW8cBKOJG0GteeFhEweqHz_GEk-WZU6oaj3-Ri_-OwMJVe0_euXd4ig",
+    "https://www.google.com/goto?url=CAESdQHEIkXX8Gbag6I_uwRBfW3o2EhtBUrxttTPsLezfwQGuMbFn0MIqt27LBNI6zYqaBnX2a1eehmz2lUKiMHTXzuZ8DSn7IpAoknUGFvRpa4TZ6fs_egxLcLji5jASLmcYQus2EXy9uOS5gaSYIzw8ZnEajgTZg"
+  ],
+  "raw_text_summary": "The Scaling Roadmap Enterprises Use (That Startups Skip) Free Resources to build a sales pipeline: shares how startups and small businesses can scale like enterprises \u2026 episode gives you a clear ... Building AI-Powered Personalization Pipelines It's a comprehensive strategy wherein IT plays a crucial part connecting the wires, building the models, and providing the governance framework. How to scale creator ads from a few winners to a system Anish Dalal, Managing Director at Third and previously Founder & CEO of Sapphire Studios, shared his system for scaling creator ads at our Meta ... How CreativeOps keeps AI-driven content from stalling Start small. Audit one workflow. Rewrite a brief template. Update one part of your brand guidelines for AI use. Each improvement strengthens ... Content at Scale: How to Train AI to Create Great Content Discover a practical strategy anyone can implement to create authentic content at scale with AI. How to Create On-Brand Visuals With AI AI How to Build Your Creator Community | CreatorIQ Webinar In this webinar, Kimi Hurtado covers best practices for identifying and understanding your brand's existing influencer fans, building authentic ... How to Build a Demand Generation Plan for IT Companies? Build a predictable demand generation plan for IT companies. Learn the 8-step framework, full-funnel strategy, and proven tactics that drive ... How to Maintain Data Integrity for Your Creator Marketing ... STEP 1. Establish consistent creator identities \u00b7 STEP 2. Standardize campaign and content data structures \u00b7 STEP 3. Replace manual exports with integration ... How to scale content production: pipeline, workflow, KPIs How to design a content pipeline that scales: common bottlenecks, workflow and versioning strategies, and how to measure your production's ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f25e7f33eef5379f2ebf",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/RgTsVP3ST9w79b1n8MpHe0ukhvfEuTVxp4xbPHXtGsA/6b02f25e7f33eef5379f2ebf.json",
+      "markdown_endpoint": "https://serpapi.com/searches/RgTsVP3ST9w79b1n8MpHe0ukhvfEuTVxp4xbPHXtGsA/6b02f25e7f33eef5379f2ebf.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/RgTsVP3ST9w79b1n8MpHe0ukhvfEuTVxp4xbPHXtGsA/6b02f25e7f33eef5379f2ebf.json_with_pixel_position",
+      "created_at": "2026-11-22 13:47:10 UTC",
+      "processed_at": "2026-11-22 13:47:10 UTC",
+      "google_url": "https://www.google.com/search?q=How+to+build+a+scalable+CreatorOps+pipeline+for+a+brand&oq=How+to+build+a+scalable+CreatorOps+pipeline+for+a+brand&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/RgTsVP3ST9w79b1n8MpHe0ukhvfEuTVxp4xbPHXtGsA/6b02f25e7f33eef5379f2ebf.html",
+      "total_time_taken": 1.74
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "How to build a scalable CreatorOps pipeline for a brand",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "How to build a scalable CreatorOps pipeline for a brand",
+      "total_results": 72,
+      "time_taken_displayed": 0.17,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+      {
+        "question": "How to make a sales pipeline?",
+        "type": "ai_overview",
+        "page_token": "xQxzxnicHdDBboIwAIDhbA_jcVJEF03MYicViTBtaYEettQWqVDAKBnM455lpz3MHmCPsSfYstN__JL__cMc6_L7JtFte7rMhsOu6-7ypslNdiebaigub7UcSmHMXshyNrmfgIeDnLuXDj42HdxR7KZGmbSm42AZ9tjWAld9QpGBkkGL1HrLi9xSVstJvXDISo9pomvB4Dou9CYBa0faPVEe93BlGkFzh7DQ2zGF9yNYEE-d4qrsMzaNdpH248T4nPlQFr5WdpgoBpcpC0AY7caM9poscYArTfnVlH_mYxxxRCy0DSgFQYIKakvA6tAVrCQI6AOhoX5anSoCoM4qYAmwGHE09RRF4eroQ-I6HY4UUlcsMg9t0phtyVI7fx3Tgl8im5HQNR5HCg4O8nU-Gvwfm78cqnZ2Ojf5pzxnos3Ui2i_ytuf51_rGH6x",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xQxzxnicHdDBboIwAIDhbA_jcVJEF03MYicViTBtaYEettQWqVDAKBnM455lpz3MHmCPsSfYstN__JL__cMc6_L7JtFte7rMhsOu6-7ypslNdiebaigub7UcSmHMXshyNrmfgIeDnLuXDj42HdxR7KZGmbSm42AZ9tjWAld9QpGBkkGL1HrLi9xSVstJvXDISo9pomvB4Dou9CYBa0faPVEe93BlGkFzh7DQ2zGF9yNYEE-d4qrsMzaNdpH248T4nPlQFr5WdpgoBpcpC0AY7caM9poscYArTfnVlH_mYxxxRCy0DSgFQYIKakvA6tAVrCQI6AOhoX5anSoCoM4qYAmwGHE09RRF4eroQ-I6HY4UUlcsMg9t0phtyVI7fx3Tgl8im5HQNR5HCg4O8nU-Gvwfm78cqnZ2Ojf5pzxnos3Ui2i_ytuf51_rGH6x",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlRVeFRWazFvYlZwS1dtNUllbnB0V2tnek1DMTVaMmRwV1RZeWRFaEJNMk0xY1ZsMVZGcG5VR05IZHkxaFZGTm1ja1pvYTBoRk1tZGlXVFptUlhFeFNVSjZaa2hJUjFsQlgwSllRalZLWlhWdWNtVTRWRlJYYlZwNFVSSVhXRjlKUTJFNGFtWkxVR0Y2YlhSclVEZGtYMGQxUVUwYUlrRklUakJGTjBoalNDMTJiRzgwVW1WcUxWQklhemx2UlVaTWNrSjFUbmRCTjJjIiwiZmN2IjoiMyIsImVpIjoiWF9JQ2E4amZLUGF6bXRrUDdkX0d1QU0iLCJxYyI6IkNqZG9iM2NnZEc4Z1luVnBiR1FnWVNCelkyRnNZV0pzWlNCamNtVmhkRzl5YjNCeklIQnBjR1ZzYVc1bElHWnZjaUJoSUdKeVlXNWtFQUI5U3FVVFB3IiwicXVlc3Rpb24iOiJIb3cgdG8gbWFrZSBhIHNhbGVzIHBpcGVsaW5lPyIsImxrIjoiR2h4b2IzY2dkRzhnYldGclpTQmhJSE5oYkdWeklIQnBjR1ZzYVc1bCIsImJzIjoiYzQzUHNRckNNQlNGWVZ6djVCeHNQYU1Lb21SeERHNzZCSjFqdmJXaGJWS1NLOFczdDRyZ0lFajM3OEJfeUZCMkNnTWtvTE1Od3lMWmxoTjYxM1ByUEJ1ZHEwWDlCMUJCNjZLMkFoc1pVak1PU01KOVFxaFFCaV9zQldWa0t5NTRvemRxTlV6RVZOTC1WWFlOT0lfS1J2a2hxRUpFOThEbG5zYVNsSXplcWUwbmR0cUNqcFNfNjkzM0Vad2ZyOGFHeGZtYjBVdVZEZl9FZlBZRSIsImlkIjoiZmNfWF9JQ2E4amZLUGF6bXRrUDdkX0d1QU1fNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlRVeFRWazFvYlZwS1dtNUllbnB0V2tnek1DMTVaMmRwV1RZeWRFaEJNMk0xY1ZsMVZGcG5VR05IZHkxaFZGTm1ja1pvYTBoRk1tZGlXVFptUlhFeFNVSjZaa2hJUjFsQlgwSllRalZLWlhWdWNtVTRWRlJYYlZwNFVSSVhXRjlKUTJFNGFtWkxVR0Y2YlhSclVEZGtYMGQxUVUwYUlrRklUakJGTjBoalNDMTJiRzgwVW1WcUxWQklhemx2UlVaTWNrSjFUbmRCTjJjIiwiZmN2IjoiMyIsImVpIjoiWF9JQ2E4amZLUGF6bXRrUDdkX0d1QU0iLCJxYyI6IkNqZG9iM2NnZEc4Z1luVnBiR1FnWVNCelkyRnNZV0pzWlNCamNtVmhkRzl5YjNCeklIQnBjR1ZzYVc1bElHWnZjaUJoSUdKeVlXNWtFQUI5U3FVVFB3IiwicXVlc3Rpb24iOiJIb3cgdG8gbWFrZSBhIHNhbGVzIHBpcGVsaW5lPyIsImxrIjoiR2h4b2IzY2dkRzhnYldGclpTQmhJSE5oYkdWeklIQnBjR1ZzYVc1bCIsImJzIjoiYzQzUHNRckNNQlNGWVZ6djVCeHNQYU1Lb21SeERHNzZCSjFqdmJXaGJWS1NLOFczdDRyZ0lFajM3OEJfeUZCMkNnTWtvTE1Od3lMWmxoTjYxM1ByUEJ1ZHEwWDlCMUJCNjZLMkFoc1pVak1PU01KOVFxaFFCaV9zQldWa0t5NTRvemRxTlV6RVZOTC1WWFlOT0lfS1J2a2hxRUpFOThEbG5zYVNsSXplcWUwbmR0cUNqcFNfNjkzM0Vad2ZyOGFHeGZtYjBVdVZEZl9FZlBZRSIsImlkIjoiZmNfWF9JQ2E4amZLUGF6bXRrUDdkX0d1QU1fNSJ9"
+      },
+      {
+        "question": "What are the 7 steps of content creation?",
+        "type": "ai_overview",
+        "page_token": "c3iYcnicHdBbbptAFABQtYvJZ2wguKolq8qYR00yEAbmAvPRCN8BYzM8AhO79WfX0q8uJgvoMrqCVlnBkc7PX-rYt38-nButx3m9WFwul9vDMBxUdYtDtyjnHz0usFRqX2K7Xn1aGV9q3LivO7J92ZGYM7dQUhXgheFJPCSpStAXdZo1SzgaU9oLp2r1mfpqxlzMCbcf0ad3KZAp6cIeTaNAK2Chcb-kSh2FGbyiG8wMgpSfyAzufAWv4UnGSJTZTeYIiHI5MaB25H6G5KSo5MyBzI5CM9jSk7ejirViKZ5yg16kGh1hNgNPUYOva4TDVRjELlt7JZWawIFH_OpBciX__aDZm7DjnezdRhb5UjlF2ryIVsdFPmrp6zg0Wc0sICkbjjFvIupyK_GAVC2smKW-V91IuSK6MOS494CjI7fYGQ9xfFPjeWPdvH9unutOr8dpOPzGqSp1JZ9L_dZ-_PvtH7MfinQ",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=c3iYcnicHdBbbptAFABQtYvJZ2wguKolq8qYR00yEAbmAvPRCN8BYzM8AhO79WfX0q8uJgvoMrqCVlnBkc7PX-rYt38-nButx3m9WFwul9vDMBxUdYtDtyjnHz0usFRqX2K7Xn1aGV9q3LivO7J92ZGYM7dQUhXgheFJPCSpStAXdZo1SzgaU9oLp2r1mfpqxlzMCbcf0ad3KZAp6cIeTaNAK2Chcb-kSh2FGbyiG8wMgpSfyAzufAWv4UnGSJTZTeYIiHI5MaB25H6G5KSo5MyBzI5CM9jSk7ejirViKZ5yg16kGh1hNgNPUYOva4TDVRjELlt7JZWawIFH_OpBciX__aDZm7DjnezdRhb5UjlF2ryIVsdFPmrp6zg0Wc0sICkbjjFvIupyK_GAVC2smKW-V91IuSK6MOS494CjI7fYGQ9xfFPjeWPdvH9unutOr8dpOPzGqSp1JZ9L_dZ-_PvtH7MfinQ",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlRVeFRWazFvYlZwS1dtNUllbnB0V2tnek1DMTVaMmRwV1RZeWRFaEJNMk0xY1ZsMVZGcG5VR05IZHkxaFZGTm1ja1pvYTBoRk1tZGlXVFptUlhFeFNVSjZaa2hJUjFsQlgwSllRalZLWlhWdWNtVTRWRlJYYlZwNFVSSVhXRjlKUTJFNGFtWkxVR0Y2YlhSclVEZGtYMGQxUVUwYUlrRklUakJGTjBoalNDMTJiRzgwVW1WcUxWQklhemx2UlVaTWNrSjFUbmRCTjJjIiwiZmN2IjoiMyIsImVpIjoiWF9JQ2E4amZLUGF6bXRrUDdkX0d1QU0iLCJxYyI6IkNqZG9iM2NnZEc4Z1luVnBiR1FnWVNCelkyRnNZV0pzWlNCamNtVmhkRzl5YjNCeklIQnBjR1ZzYVc1bElHWnZjaUJoSUdKeVlXNWtFQUI5U3FVVFB3IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgNyBzdGVwcyBvZiBjb250ZW50IGNyZWF0aW9uPyIsImxrIjoiR2loM2FHRjBJR0Z5WlNCMGFHVWdOeUJ6ZEdWd2N5QnZaaUJqYjI1MFpXNTBJR055WldGMGFXOXUiLCJicyI6ImM0M1BzUXJDTUJTRllWenY1QnhzUGFNS29tUnhERzc2QkoxanZiV2hiVktTSzhXM3Q0cmdJRWozNzhCX3lGQjJDZ01rb0xNTnd5TFpsaE42MTNQclBCdWRxMFg5QjFCQjY2SzJBaHNaVWpNT1NNSjlRcWhRQmlfc0JXVmtLeTU0b3pkcU5VekVWTkwtVlhZTk9JX0tSdmtocUVKRTk4RGxuc2FTbEl6ZXFlMG5kdHFDanBTXzY5MzNFWndmcjhhR3hmbWIwVXVWRGZfRWZQWUUiLCJpZCI6ImZjX1hfSUNhOGpmS1Bhem10a1A3ZF9HdUFNXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlRVeFRWazFvYlZwS1dtNUllbnB0V2tnek1DMTVaMmRwV1RZeWRFaEJNMk0xY1ZsMVZGcG5VR05IZHkxaFZGTm1ja1pvYTBoRk1tZGlXVFptUlhFeFNVSjZaa2hJUjFsQlgwSllRalZLWlhWdWNtVTRWRlJYYlZwNFVSSVhXRjlKUTJFNGFtWkxVR0Y2YlhSclVEZGtYMGQxUVUwYUlrRklUakJGTjBoalNDMTJiRzgwVW1WcUxWQklhemx2UlVaTWNrSjFUbmRCTjJjIiwiZmN2IjoiMyIsImVpIjoiWF9JQ2E4amZLUGF6bXRrUDdkX0d1QU0iLCJxYyI6IkNqZG9iM2NnZEc4Z1luVnBiR1FnWVNCelkyRnNZV0pzWlNCamNtVmhkRzl5YjNCeklIQnBjR1ZzYVc1bElHWnZjaUJoSUdKeVlXNWtFQUI5U3FVVFB3IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgNyBzdGVwcyBvZiBjb250ZW50IGNyZWF0aW9uPyIsImxrIjoiR2loM2FHRjBJR0Z5WlNCMGFHVWdOeUJ6ZEdWd2N5QnZaaUJqYjI1MFpXNTBJR055WldGMGFXOXUiLCJicyI6ImM0M1BzUXJDTUJTRllWenY1QnhzUGFNS29tUnhERzc2QkoxanZiV2hiVktTSzhXM3Q0cmdJRWozNzhCX3lGQjJDZ01rb0xNTnd5TFpsaE42MTNQclBCdWRxMFg5QjFCQjY2SzJBaHNaVWpNT1NNSjlRcWhRQmlfc0JXVmtLeTU0b3pkcU5VekVWTkwtVlhZTk9JX0tSdmtocUVKRTk4RGxuc2FTbEl6ZXFlMG5kdHFDanBTXzY5MzNFWndmcjhhR3hmbWIwVXVWRGZfRWZQWUUiLCJpZCI6ImZjX1hfSUNhOGpmS1Bhem10a1A3ZF9HdUFNXzUifQ%3D%3D"
+      },
+      {
+        "question": "How do I start content creation for my business?",
+        "type": "ai_overview",
+        "page_token": "SG79enicHdBRbtowGABgbYfpYyEJsA0JVXOJE7LanU1-J_FDK-MEAnZIANMAjzvLnnaYHmDH2Akm9TvC9-u33e7N309vtXPdaToY9H1_v2nbja3uddsM1Om61wOtrF0pbaaTLxPvYa1n4XmBHg8LxICHhS1tZjB5ghII4AvZkf4pRTHHdFGYUojMU5DJkYw8Q5vLmAl8XhqreGxrGLqWet9dKr79zKIOEQ912rdU-VI9C97AvpxkJhnpUF-V5Yxg1EPOxtKrQe70WAiUQCTi1fASVVAfJUZnEYkRCemjAHqgkHjchys34DIrGGvklufJMg_aG_O9eTkXsb6JWgsZ8ZRGS4wVgQSFdVnkQzsv0vogjWNF3rkycoz6fM0DgVLebhnUzySEYBlTXu3QTcNlsorlj3TYnWSAMgJsvIqxlc3XANjdWr_NgruPz9nrunHT7thu_uhjpVxVvir3bj7_e_kP5t2JDA",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=SG79enicHdBRbtowGABgbYfpYyEJsA0JVXOJE7LanU1-J_FDK-MEAnZIANMAjzvLnnaYHmDH2Akm9TvC9-u33e7N309vtXPdaToY9H1_v2nbja3uddsM1Om61wOtrF0pbaaTLxPvYa1n4XmBHg8LxICHhS1tZjB5ghII4AvZkf4pRTHHdFGYUojMU5DJkYw8Q5vLmAl8XhqreGxrGLqWet9dKr79zKIOEQ912rdU-VI9C97AvpxkJhnpUF-V5Yxg1EPOxtKrQe70WAiUQCTi1fASVVAfJUZnEYkRCemjAHqgkHjchys34DIrGGvklufJMg_aG_O9eTkXsb6JWgsZ8ZRGS4wVgQSFdVnkQzsv0vogjWNF3rkycoz6fM0DgVLebhnUzySEYBlTXu3QTcNlsorlj3TYnWSAMgJsvIqxlc3XANjdWr_NgruPz9nrunHT7thu_uhjpVxVvir3bj7_e_kP5t2JDA",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlRVeFRWazFvYlZwS1dtNUllbnB0V2tnek1DMTVaMmRwV1RZeWRFaEJNMk0xY1ZsMVZGcG5VR05IZHkxaFZGTm1ja1pvYTBoRk1tZGlXVFptUlhFeFNVSjZaa2hJUjFsQlgwSllRalZLWlhWdWNtVTRWRlJYYlZwNFVSSVhXRjlKUTJFNGFtWkxVR0Y2YlhSclVEZGtYMGQxUVUwYUlrRklUakJGTjBoalNDMTJiRzgwVW1WcUxWQklhemx2UlVaTWNrSjFUbmRCTjJjIiwiZmN2IjoiMyIsImVpIjoiWF9JQ2E4amZLUGF6bXRrUDdkX0d1QU0iLCJxYyI6IkNqZG9iM2NnZEc4Z1luVnBiR1FnWVNCelkyRnNZV0pzWlNCamNtVmhkRzl5YjNCeklIQnBjR1ZzYVc1bElHWnZjaUJoSUdKeVlXNWtFQUI5U3FVVFB3IiwicXVlc3Rpb24iOiJIb3cgZG8gSSBzdGFydCBjb250ZW50IGNyZWF0aW9uIGZvciBteSBidXNpbmVzcz8iLCJsayI6IkdpMW9iM2NnZEc4Z2MzUmhjblFnWTI5dWRHVnVkQ0JqY21WaGRHbHZiaUJtYjNJZ2JYa2dZblZ6YVc1bGMzTSIsImJzIjoiYzQzUHNRckNNQlNGWVZ6djVCeHNQYU1Lb21SeERHNzZCSjFqdmJXaGJWS1NLOFczdDRyZ0lFajM3OEJfeUZCMkNnTWtvTE1Od3lMWmxoTjYxM1ByUEJ1ZHEwWDlCMUJCNjZLMkFoc1pVak1PU01KOVFxaFFCaV9zQldWa0t5NTRvemRxTlV6RVZOTC1WWFlOT0lfS1J2a2hxRUpFOThEbG5zYVNsSXplcWUwbmR0cUNqcFNfNjkzM0Vad2ZyOGFHeGZtYjBVdVZEZl9FZlBZRSIsImlkIjoiZmNfWF9JQ2E4amZLUGF6bXRrUDdkX0d1QU1fNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlRVeFRWazFvYlZwS1dtNUllbnB0V2tnek1DMTVaMmRwV1RZeWRFaEJNMk0xY1ZsMVZGcG5VR05IZHkxaFZGTm1ja1pvYTBoRk1tZGlXVFptUlhFeFNVSjZaa2hJUjFsQlgwSllRalZLWlhWdWNtVTRWRlJYYlZwNFVSSVhXRjlKUTJFNGFtWkxVR0Y2YlhSclVEZGtYMGQxUVUwYUlrRklUakJGTjBoalNDMTJiRzgwVW1WcUxWQklhemx2UlVaTWNrSjFUbmRCTjJjIiwiZmN2IjoiMyIsImVpIjoiWF9JQ2E4amZLUGF6bXRrUDdkX0d1QU0iLCJxYyI6IkNqZG9iM2NnZEc4Z1luVnBiR1FnWVNCelkyRnNZV0pzWlNCamNtVmhkRzl5YjNCeklIQnBjR1ZzYVc1bElHWnZjaUJoSUdKeVlXNWtFQUI5U3FVVFB3IiwicXVlc3Rpb24iOiJIb3cgZG8gSSBzdGFydCBjb250ZW50IGNyZWF0aW9uIGZvciBteSBidXNpbmVzcz8iLCJsayI6IkdpMW9iM2NnZEc4Z2MzUmhjblFnWTI5dWRHVnVkQ0JqY21WaGRHbHZiaUJtYjNJZ2JYa2dZblZ6YVc1bGMzTSIsImJzIjoiYzQzUHNRckNNQlNGWVZ6djVCeHNQYU1Lb21SeERHNzZCSjFqdmJXaGJWS1NLOFczdDRyZ0lFajM3OEJfeUZCMkNnTWtvTE1Od3lMWmxoTjYxM1ByUEJ1ZHEwWDlCMUJCNjZLMkFoc1pVak1PU01KOVFxaFFCaV9zQldWa0t5NTRvemRxTlV6RVZOTC1WWFlOT0lfS1J2a2hxRUpFOThEbG5zYVNsSXplcWUwbmR0cUNqcFNfNjkzM0Vad2ZyOGFHeGZtYjBVdVZEZl9FZlBZRSIsImlkIjoiZmNfWF9JQ2E4amZLUGF6bXRrUDdkX0d1QU1fNSJ9"
+      },
+      {
+        "question": "What is pipeline in marketing?",
+        "type": "ai_overview",
+        "page_token": "g4Fc5HicHdDNUoJAAADgqYfxqKwohTNOE8qPBOsI7CJ7yIFdZJVdQMEojz1Lpx6mB-gxeoKm7t_pe_8Qh6r8vtnyrmva2WjU9_2wqOtC5ENay1HavlV0RFMhspSWM-1OAw97Ojfb3ljUvbFBgZkIJpKITJCFV5nUAXJchyIXZJKpaUlE7KxAHhO8tvVwjXETx9YlWzIfVVz1x2iaxNzEShMngoO0EqfwyEovxtjDwqNXEuGKPyEJLkjqp1DcX_2lK6DjAzgux3lZdHQJncwmCy9iCryKcaASsLYMvKkIYeWfF4dIedX82FKw2vS5xTRk96EF-D5EkK_tRobA4LkESgoeVWLpDkMWtA-uEZqTPoiYgyVOIkwaajfT3ARtsOVJcGQwQ7CGkgnfdKvBnr7M1cH_2Hy3l92sOdfFJz3naZezXdp9lbc_z7-yIH85",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=g4Fc5HicHdDNUoJAAADgqYfxqKwohTNOE8qPBOsI7CJ7yIFdZJVdQMEojz1Lpx6mB-gxeoKm7t_pe_8Qh6r8vtnyrmva2WjU9_2wqOtC5ENay1HavlV0RFMhspSWM-1OAw97Ojfb3ljUvbFBgZkIJpKITJCFV5nUAXJchyIXZJKpaUlE7KxAHhO8tvVwjXETx9YlWzIfVVz1x2iaxNzEShMngoO0EqfwyEovxtjDwqNXEuGKPyEJLkjqp1DcX_2lK6DjAzgux3lZdHQJncwmCy9iCryKcaASsLYMvKkIYeWfF4dIedX82FKw2vS5xTRk96EF-D5EkK_tRobA4LkESgoeVWLpDkMWtA-uEZqTPoiYgyVOIkwaajfT3ARtsOVJcGQwQ7CGkgnfdKvBnr7M1cH_2Hy3l92sOdfFJz3naZezXdp9lbc_z7-yIH85",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlRVeFRWazFvYlZwS1dtNUllbnB0V2tnek1DMTVaMmRwV1RZeWRFaEJNMk0xY1ZsMVZGcG5VR05IZHkxaFZGTm1ja1pvYTBoRk1tZGlXVFptUlhFeFNVSjZaa2hJUjFsQlgwSllRalZLWlhWdWNtVTRWRlJYYlZwNFVSSVhXRjlKUTJFNGFtWkxVR0Y2YlhSclVEZGtYMGQxUVUwYUlrRklUakJGTjBoalNDMTJiRzgwVW1WcUxWQklhemx2UlVaTWNrSjFUbmRCTjJjIiwiZmN2IjoiMyIsImVpIjoiWF9JQ2E4amZLUGF6bXRrUDdkX0d1QU0iLCJxYyI6IkNqZG9iM2NnZEc4Z1luVnBiR1FnWVNCelkyRnNZV0pzWlNCamNtVmhkRzl5YjNCeklIQnBjR1ZzYVc1bElHWnZjaUJoSUdKeVlXNWtFQUI5U3FVVFB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHBpcGVsaW5lIGluIG1hcmtldGluZz8iLCJsayI6IkdoMTNhR0YwSUdseklIQnBjR1ZzYVc1bElHbHVJRzFoY210bGRHbHVadyIsImJzIjoiYzQzUHNRckNNQlNGWVZ6djVCeHNQYU1Lb21SeERHNzZCSjFqdmJXaGJWS1NLOFczdDRyZ0lFajM3OEJfeUZCMkNnTWtvTE1Od3lMWmxoTjYxM1ByUEJ1ZHEwWDlCMUJCNjZLMkFoc1pVak1PU01KOVFxaFFCaV9zQldWa0t5NTRvemRxTlV6RVZOTC1WWFlOT0lfS1J2a2hxRUpFOThEbG5zYVNsSXplcWUwbmR0cUNqcFNfNjkzM0Vad2ZyOGFHeGZtYjBVdVZEZl9FZlBZRSIsImlkIjoiZmNfWF9JQ2E4amZLUGF6bXRrUDdkX0d1QU1fNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlRVeFRWazFvYlZwS1dtNUllbnB0V2tnek1DMTVaMmRwV1RZeWRFaEJNMk0xY1ZsMVZGcG5VR05IZHkxaFZGTm1ja1pvYTBoRk1tZGlXVFptUlhFeFNVSjZaa2hJUjFsQlgwSllRalZLWlhWdWNtVTRWRlJYYlZwNFVSSVhXRjlKUTJFNGFtWkxVR0Y2YlhSclVEZGtYMGQxUVUwYUlrRklUakJGTjBoalNDMTJiRzgwVW1WcUxWQklhemx2UlVaTWNrSjFUbmRCTjJjIiwiZmN2IjoiMyIsImVpIjoiWF9JQ2E4amZLUGF6bXRrUDdkX0d1QU0iLCJxYyI6IkNqZG9iM2NnZEc4Z1luVnBiR1FnWVNCelkyRnNZV0pzWlNCamNtVmhkRzl5YjNCeklIQnBjR1ZzYVc1bElHWnZjaUJoSUdKeVlXNWtFQUI5U3FVVFB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHBpcGVsaW5lIGluIG1hcmtldGluZz8iLCJsayI6IkdoMTNhR0YwSUdseklIQnBjR1ZzYVc1bElHbHVJRzFoY210bGRHbHVadyIsImJzIjoiYzQzUHNRckNNQlNGWVZ6djVCeHNQYU1Lb21SeERHNzZCSjFqdmJXaGJWS1NLOFczdDRyZ0lFajM3OEJfeUZCMkNnTWtvTE1Od3lMWmxoTjYxM1ByUEJ1ZHEwWDlCMUJCNjZLMkFoc1pVak1PU01KOVFxaFFCaV9zQldWa0t5NTRvemRxTlV6RVZOTC1WWFlOT0lfS1J2a2hxRUpFOThEbG5zYVNsSXplcWUwbmR0cUNqcFNfNjkzM0Vad2ZyOGFHeGZtYjBVdVZEZl9FZlBZRSIsImlkIjoiZmNfWF9JQ2E4amZLUGF6bXRrUDdkX0d1QU1fNSJ9"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "nKd2PHiczVbZcvI2FJ7pdV-jvuEPmC0JmfH8IxsBZgkIEgLpTD1ehDC2EbEMJrn8n6VXfZg-QB-jT1B5IWACWXrTnhlbsnR2nU_HP3537aXz18-_zoNgxW4KhTAM84RS4uK8Sb2Czp6XZmFGXeab8-9zV8JLgdG1b2LJnPvUw3lqCMSV1ixdtq10Q3jeSGXBZJIoYFuaaKqiXy9mnYH-4gXO4MrSmmvQE2L9kmboDC-4-e2CFbQCfzm_lOv8I8_yeJlX8ZOxbJTAeAXyJbFUzvcLuscZwH9LUAYq4aMDAHmPT0af1YjmXCtQjuVhMh6s90BkUwWKmuycsz-KlEaSihx7zJ8-mC0GTpPPbndc9-oHfikZnx5St5LBOXb3E5SKRhFkFt6jE0mM89LZfyvHe6eomd2Rp3VQDw_UvwnnwEAieh-9QtCoDHoAIXTW0o646s4UiC74oE52Ht3X2qOAS8kFi_AqFwuGz4diwTbnZjzxWVT8yl1NpM1uv7koaTJ60td9tGkCeBvgQQhhtwIKpsH5XKpb2NLmmvg9_i6WilWxVr66_hajzmSvsGOHsPMpE4Plde8iEPPdvFzcYS4b7XGykKqCU8VEZLJLRZZeFQwP8xyn4YjTyVhupOMcyBRxtZlN1IHdhCm11wN1nq9rcpj-vYTyDuaO44iio6mC-3QJZKsNTQEc7QPIKuqfVBvFAcBxzKSZTlR553iYaCRvMTcEKorDTUPOXI4yvyFknmAU3RQdLh4oCa9aifzbnRiCkE8h2YsdkAJPhAOUA0-4HIy4QkAgcNYqVFQ7XQaxEUISSzIir2piG8pb1MXU4-uN-cmtTxH8zMWSeLED2RFmMlhbQXJlt6v1FRpuOrh-vVHZuDVqOFOCTmOLesYXepr5v0ffruO5admfRV9k6VPoQ_P30Heq4yXoU5wz6Bsl6FPkUx1vsOM66nhv0acA-wB9acfbJhpPdLyvo0_-GH2Hx3WIvv1RZdAHz6GvCbPomy7gruOdRl9qYI--f9vx5K93vBiEOBmy7W-9IGfbYEttXT45L7VV47HSr_bu1o_D0WzltUDpAn3YBmdecOPplvtNs60budQOnq1vGl-gN9gSnqQWDXMBzRlr27Vyeo6ZuqsbLs4pPtYD6vdXLLeyV5j_R-PcjPqcxfD1pSV4rk8lUa8May3DxJfD0mTRHZewLgebB3_YnfL_7rvtUHlgs9LjZlyCuha2wkXHrGsv64HYuOhM6vUZLut9aOCJNfEv-8sqoU7oKttxwJihF4tMc-YtrztYt2-N8A6HS5t2thUbld2q3QZ2GePhoAiWwzFEKPaHSf7FpOzB7bq2IAKPkWGpKHi-KfESqBBwi6K_Ox00QtCOa1YePvGxywvFoDJArSlAdcIfyk9L4KnQMNtI5mW1bFZF0dT12dUMzwSPBM8rqSYKbOlLxT_MKFM8-Xrwp_PT37_9A6HiiG8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=nKd2PHiczVbZcvI2FJ7pdV-jvuEPmC0JmfH8IxsBZgkIEgLpTD1ehDC2EbEMJrn8n6VXfZg-QB-jT1B5IWACWXrTnhlbsnR2nU_HP3537aXz18-_zoNgxW4KhTAM84RS4uK8Sb2Czp6XZmFGXeab8-9zV8JLgdG1b2LJnPvUw3lqCMSV1ixdtq10Q3jeSGXBZJIoYFuaaKqiXy9mnYH-4gXO4MrSmmvQE2L9kmboDC-4-e2CFbQCfzm_lOv8I8_yeJlX8ZOxbJTAeAXyJbFUzvcLuscZwH9LUAYq4aMDAHmPT0af1YjmXCtQjuVhMh6s90BkUwWKmuycsz-KlEaSihx7zJ8-mC0GTpPPbndc9-oHfikZnx5St5LBOXb3E5SKRhFkFt6jE0mM89LZfyvHe6eomd2Rp3VQDw_UvwnnwEAieh-9QtCoDHoAIXTW0o646s4UiC74oE52Ht3X2qOAS8kFi_AqFwuGz4diwTbnZjzxWVT8yl1NpM1uv7koaTJ60td9tGkCeBvgQQhhtwIKpsH5XKpb2NLmmvg9_i6WilWxVr66_hajzmSvsGOHsPMpE4Plde8iEPPdvFzcYS4b7XGykKqCU8VEZLJLRZZeFQwP8xyn4YjTyVhupOMcyBRxtZlN1IHdhCm11wN1nq9rcpj-vYTyDuaO44iio6mC-3QJZKsNTQEc7QPIKuqfVBvFAcBxzKSZTlR553iYaCRvMTcEKorDTUPOXI4yvyFknmAU3RQdLh4oCa9aifzbnRiCkE8h2YsdkAJPhAOUA0-4HIy4QkAgcNYqVFQ7XQaxEUISSzIir2piG8pb1MXU4-uN-cmtTxH8zMWSeLED2RFmMlhbQXJlt6v1FRpuOrh-vVHZuDVqOFOCTmOLesYXepr5v0ffruO5admfRV9k6VPoQ_P30Heq4yXoU5wz6Bsl6FPkUx1vsOM66nhv0acA-wB9acfbJhpPdLyvo0_-GH2Hx3WIvv1RZdAHz6GvCbPomy7gruOdRl9qYI--f9vx5K93vBiEOBmy7W-9IGfbYEttXT45L7VV47HSr_bu1o_D0WzltUDpAn3YBmdecOPplvtNs60budQOnq1vGl-gN9gSnqQWDXMBzRlr27Vyeo6ZuqsbLs4pPtYD6vdXLLeyV5j_R-PcjPqcxfD1pSV4rk8lUa8May3DxJfD0mTRHZewLgebB3_YnfL_7rvtUHlgs9LjZlyCuha2wkXHrGsv64HYuOhM6vUZLut9aOCJNfEv-8sqoU7oKttxwJihF4tMc-YtrztYt2-N8A6HS5t2thUbld2q3QZ2GePhoAiWwzFEKPaHSf7FpOzB7bq2IAKPkWGpKHi-KfESqBBwi6K_Ox00QtCOa1YePvGxywvFoDJArSlAdcIfyk9L4KnQMNtI5mW1bFZF0dT12dUMzwSPBM8rqSYKbOlLxT_MKFM8-Xrwp_PT37_9A6HiiG8"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "The Scaling Roadmap Enterprises Use (That Startups Skip)",
+        "link": "https://www.youtube.com/watch?v=gn3PK5CQTcM",
+        "displayed_link": "20+ views",
+        "date": "1 year ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f25e7f33eef5379f2ebf/images/wkS5dkVri-hw0Tzow9h-iStUqOignw42-p8jT9fMXwM.jpg",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "Free Resources to build a sales pipeline: shares how startups and small businesses can scale like enterprises \u2026 episode gives you a clear ...",
+        "duration": "52:08",
+        "about_this_result": {
+          "source": {
+            "description": "Free Resources to build a sales pipeline: shares how startups and small businesses can scale like enterprises \u2026 episode gives you a clear ...",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWDBvbE1TcWZOZGhvdXZIbWVoTFlxUkthMlYyRFRwZEh4ZnZVNzA0OXJLX25vY3YxT01xdUZHbFJpZ29TN2x6Ml81SVBQUTZHQlQ5UUFmU3pzQUNXLWJ5SUw3WGFQMkNhcm4tQm1rS3RzczF1ZnViMTk0blRoYi1hODBFbUE5WG54ZHB6TxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWDBvbE1TcWZOZGhvdXZIbWVoTFlxUkthMlYyRFRwZEh4ZnZVNzA0OXJLX25vY3YxT01xdUZHbFJpZ29TN2x6Ml81SVBQUTZHQlQ5UUFmU3pzQUNXLWJ5SUw3WGFQMkNhcm4tQm1rS3RzczF1ZnViMTk0blRoYi1hODBFbUE5WG54ZHB6TxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSilRfHO2ZXoJq8qO6TOWVERIP0Qrx11a93AQ",
+        "source": "YouTube \u00b7 DoneMaker"
+      },
+      {
+        "position": 2,
+        "title": "Building AI-Powered Personalization Pipelines",
+        "link": "https://www.versique.com/building-ai-powered-personalization-pipelines-a-non-techies-guide/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmAEBxCJF1z6l2bI_ntXfEu9l9JCLPXoGIyYEy3NK6jKfoYz7NA7RZf7eHD-acZ4Um2bkFOSLYFN89Fz_fPLx6CO2KGYRH9-PqS4LtKcMDjvgEiiWo7ctZcxx_cv5HqFoU5xqG9rYdMFAiWKAEVlXLpvBzteDcOVbhG7Bk-Ik2jIJxjChJ09NgRfm21tv_O_iHHVA1Ytg-fML_Q&ved=2ahUKEwiIi9G225uYAxX2mSYFHe2vETcQFnoECCAQAQ&uoh=1",
+        "displayed_link": "https://www.versique.com \u203a IT",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEwtRlklN0kkNUc4W3AkNUcmOEo7X3M6XHA6XHBVlbRWl7dWl7dUkrJVlrVVlbVST9SfAAAAEHRSTlMAJpPsDtpkeO3ZYezaHo2OXV3cFwAAAEpJREFUeAFjIAYwCqBwlY2QeSymwQ64uQzJZgzUAiwOKNyKdhTJzhkOGFxMxQijqAVW70IxeM9pZKN595y-gCz9ej-KXt4LxNgAAAkhEAOtOAo_AAAAAElFTkSuQmCC.png",
+        "date": "Sep 9, 2025",
+        "snippet": "It's a comprehensive strategy wherein IT plays a crucial part connecting the wires, building the models, and providing the governance framework.",
+        "snippet_highlighted_words": [
+          "building"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "It's a comprehensive strategy wherein IT plays a crucial part connecting the wires, building the models, and providing the governance framework.",
+            "source_info_link": "https://www.versique.com/building-ai-powered-personalization-pipelines-a-non-techies-guide/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEwtRlklN0kkNUc4W3AkNUcmOEo7X3M6XHA6XHBVlbRWl7dWl7dUkrJVlrVVlbVST9SfAAAAEHRSTlMAJpPsDtpkeO3ZYezaHo2OXV3cFwAAAEpJREFUeAFjIAYwCqBwlY2QeSymwQ64uQzJZgzUAiwOKNyKdhTJzhkOGFxMxQijqAVW70IxeM9pZKN595y-gCz9ej-KXt4LxNgAAAkhEAOtOAo_AAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtwBL2dvdG8_dXJsPUNBRVNtQUVCeENKRjExcm4yLUFtUXc1LVYxMVNMMlpFNS0zaXREaWtmYkVFM1RYWGNWd0l2NGM3MmxpMzBzZHg5VThwbU1OUmdGN0xzRmQ4a1paNnlHWU1XazVTdnVqVXZ4ZEd5NEZBbzdfeWFIMmdRcDA3anVaU1YzbHFwM18zcmtxYWhfUTdzdElXczBQWkNHaTl1ak9rUTd5WllLV0pSSWVsYUFCU2c3UUNLNl81NjZMN0lUV1czWWNHQUlpdU41cHNfMUhpVEFvZndJb1FadxIEGgIIABq1BxIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCRBwgAEAAYACAAKhYKA2hvdxWi07M_GgNkaXkaBXBsYW5zKgkKAnRvFQAAAAAqbAoFYnVpbGQVjgoSPhoIYnVpbGRpbmcaCWNvbnN0cnVjdBoIY3JlYXRpbmcaB2RldmVsb3AaA2RpeRoLZG8geW91IG1ha2UaCWVzdGFibGlzaBoEZm9ybRoEbWFrZRoGbWFraW5nGgVwbGFucyoICgFhFQAAAAAqOwoIc2NhbGFibGUVAAAAABoLc2NhbGFiaWxpdHkaB3NjYWxpbmcaDWl2O3A7c2NhbGFibGUaBXNjYWxlKl8KCmNyZWF0b3JvcHMVAAAAABoLY3JlYXRvciBvcHMaC2NyZWF0byByb3BzGgljcmVhdG9yb3AaD2l2O3A7Y3JlYXRvcm9wcxoIY3JlYXRvcnMaDGNyZWF0aXZlIG9wcyo0CghwaXBlbGluZRUCeAU_GglwaXBlIGxpbmUaCXBpcGVsaW5lcxoNaXY7cDtwaXBlbGluZSoKCgNmb3IVAAAAACoICgFhFQAAAAAqMQoFYnJhbmQVAAAAABoIYnJhbmRpbmcaBmJyYW5kcxoIYnVzaW5lc3MaB2NvbXBhbnky3AEvZ290bz91cmw9Q0FFU21BRUJ4Q0pGMTFybjItQW1RdzUtVjExU0wyWkU1LTNpdERpa2ZiRUUzVFhYY1Z3SXY0YzcybGkzMHNkeDlVOHBtTU5SZ0Y3THNGZDhrWlo2eUdZTVdrNVN2dWpVdnhkR3k0RkFvN195YUgyZ1FwMDdqdVpTVjNscXAzXzNya3FhaF9RN3N0SVdzMFBaQ0dpOXVqT2tRN3laWUtXSlJJZWxhQUJTZzdRQ0s2XzU2Nkw3SVRXVzNZY0dBSWl1TjVwc18xSGlUQW9md0lvUVp3OkY8Yj5CdWlsZGluZzwvYj4gQUktUG93ZXJlZCBQZXJzb25hbGl6YXRpb24gPGI-UGlwZWxpbmVzPC9iPiAtIFZlcnNpcXVlQpsBSXQmIzM5O3MgYSBjb21wcmVoZW5zaXZlIHN0cmF0ZWd5IHdoZXJlaW4gSVQgcGxheXMgYSBjcnVjaWFsIHBhcnQgY29ubmVjdGluZyB0aGUgd2lyZXMsIDxiPmJ1aWxkaW5nPC9iPiB0aGUgbW9kZWxzLCBhbmQgcHJvdmlkaW5nIHRoZSBnb3Zlcm5hbmNlIGZyYW1ld29yay5KA2ZvckoCdG9KAWEiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtwBL2dvdG8_dXJsPUNBRVNtQUVCeENKRjExcm4yLUFtUXc1LVYxMVNMMlpFNS0zaXREaWtmYkVFM1RYWGNWd0l2NGM3MmxpMzBzZHg5VThwbU1OUmdGN0xzRmQ4a1paNnlHWU1XazVTdnVqVXZ4ZEd5NEZBbzdfeWFIMmdRcDA3anVaU1YzbHFwM18zcmtxYWhfUTdzdElXczBQWkNHaTl1ak9rUTd5WllLV0pSSWVsYUFCU2c3UUNLNl81NjZMN0lUV1czWWNHQUlpdU41cHNfMUhpVEFvZndJb1FadxIEGgIIABq1BxIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCRBwgAEAAYACAAKhYKA2hvdxWi07M_GgNkaXkaBXBsYW5zKgkKAnRvFQAAAAAqbAoFYnVpbGQVjgoSPhoIYnVpbGRpbmcaCWNvbnN0cnVjdBoIY3JlYXRpbmcaB2RldmVsb3AaA2RpeRoLZG8geW91IG1ha2UaCWVzdGFibGlzaBoEZm9ybRoEbWFrZRoGbWFraW5nGgVwbGFucyoICgFhFQAAAAAqOwoIc2NhbGFibGUVAAAAABoLc2NhbGFiaWxpdHkaB3NjYWxpbmcaDWl2O3A7c2NhbGFibGUaBXNjYWxlKl8KCmNyZWF0b3JvcHMVAAAAABoLY3JlYXRvciBvcHMaC2NyZWF0byByb3BzGgljcmVhdG9yb3AaD2l2O3A7Y3JlYXRvcm9wcxoIY3JlYXRvcnMaDGNyZWF0aXZlIG9wcyo0CghwaXBlbGluZRUCeAU_GglwaXBlIGxpbmUaCXBpcGVsaW5lcxoNaXY7cDtwaXBlbGluZSoKCgNmb3IVAAAAACoICgFhFQAAAAAqMQoFYnJhbmQVAAAAABoIYnJhbmRpbmcaBmJyYW5kcxoIYnVzaW5lc3MaB2NvbXBhbnky3AEvZ290bz91cmw9Q0FFU21BRUJ4Q0pGMTFybjItQW1RdzUtVjExU0wyWkU1LTNpdERpa2ZiRUUzVFhYY1Z3SXY0YzcybGkzMHNkeDlVOHBtTU5SZ0Y3THNGZDhrWlo2eUdZTVdrNVN2dWpVdnhkR3k0RkFvN195YUgyZ1FwMDdqdVpTVjNscXAzXzNya3FhaF9RN3N0SVdzMFBaQ0dpOXVqT2tRN3laWUtXSlJJZWxhQUJTZzdRQ0s2XzU2Nkw3SVRXVzNZY0dBSWl1TjVwc18xSGlUQW9md0lvUVp3OkY8Yj5CdWlsZGluZzwvYj4gQUktUG93ZXJlZCBQZXJzb25hbGl6YXRpb24gPGI-UGlwZWxpbmVzPC9iPiAtIFZlcnNpcXVlQpsBSXQmIzM5O3MgYSBjb21wcmVoZW5zaXZlIHN0cmF0ZWd5IHdoZXJlaW4gSVQgcGxheXMgYSBjcnVjaWFsIHBhcnQgY29ubmVjdGluZyB0aGUgd2lyZXMsIDxiPmJ1aWxkaW5nPC9iPiB0aGUgbW9kZWxzLCBhbmQgcHJvdmlkaW5nIHRoZSBnb3Zlcm5hbmNlIGZyYW1ld29yay5KA2ZvckoCdG9KAWEiAhABSABYAGgA",
+        "source": "Versique",
+        "read_more_link": "https://www.google.com/goto?url=CAESgAIBxCJF106HgvrJgWZABT2tAL2bOJBFUALYYW6wHMDy1SAVEV9pHm5A-8xG254KCKuvMzk2N9pgcFfLbHfZ9JJwZnL2Uj_OixULIM_AKyM7cy_mccXmF2fi71K3hqOQ21NhtXHgMqq7ta7Azvll9FY5Ou4mNJUKbuLcvfwyLTQ8RatZtdmB2MuaHyEHTV-xXmSxkSJO3xvbXnX22jPVrZURL5y6Sz2wEHhqpNSjC9UZMWhY2FmI5B2cR0a-vd2t-SAK2NGrdfoW1xZVS3fsnO589MyqjUTeguPnVqURCRbO-iQiNiqRyNO5jU4ITDdiqf2S5OiB9UqXeYXiGU5Cs2KB&gsessionid=QZ9JpCkLb9HGUd29MtaNSZnjFB7-MNehmWh24tITsuCcf1S5pWPWLg"
+      },
+      {
+        "position": 3,
+        "title": "How to scale creator ads from a few winners to a system",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXE-VhLDUXtrW7vU-LQ1ibWj2gXf5mwRBds4y0Qo6Xw_MCv--VJSp5PDAO7i4vhv9h-B3sSXjRN4HtpRJDhICA09v5pG_Qc0hbZPcoNIF8NaI-RTYqovH1bKGIZuiVAY0kedbH&gsessionid=QZ9JpCkLb9HGUd29MtaNSZnjFB7-MNehmWh24tITsuCcf1S5pWPWLg",
+        "displayed_link": "40+ views",
+        "date": "1 month ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f25e7f33eef5379f2ebf/images/wkS5dkVri-hw0Tzow9h-iVVaC9umzkBxRni_JWVT2F8.jpg",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "Anish Dalal, Managing Director at Third and previously Founder & CEO of Sapphire Studios, shared his system for scaling creator ads at our Meta ...",
+        "duration": "13:56",
+        "about_this_result": {
+          "source": {
+            "description": "Anish Dalal, Managing Director at Third and previously Founder & CEO of Sapphire Studios, shared his system for scaling creator ads at our Meta ...",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWEUtVmhMRFVYdHJXN3ZVLUxRMWliV2oyZ1hmNW13UkJkczR5MFFvNlh3X01Ddi0tVkpTcDVQREFPN2k0dmh2OWgtQjNzU1hqUk40SHRwUkpEaElDQTA5djVwR19RYzBoYlpQY29OSUY4TmFJLVJUWXFvdkgxYktHSVp1aVZBWTBrZWRiSBIhChUKBAgwSAIKBAhISAIKAgg_CgMIgAESBAoCCFoaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWEUtVmhMRFVYdHJXN3ZVLUxRMWliV2oyZ1hmNW13UkJkczR5MFFvNlh3X01Ddi0tVkpTcDVQREFPN2k0dmh2OWgtQjNzU1hqUk40SHRwUkpEaElDQTA5djVwR19RYzBoYlpQY29OSUY4TmFJLVJUWXFvdkgxYktHSVp1aVZBWTBrZWRiSBIhChUKBAgwSAIKBAhISAIKAgg_CgMIgAESBAoCCFoaAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRke455jwErU--kxd2pkXfJEYyufGOWKBH3tw",
+        "source": "YouTube \u00b7 Billo - Data-led creator marketing platform"
+      },
+      {
+        "position": 4,
+        "title": "How CreativeOps keeps AI-driven content from stalling",
+        "link": "https://www.google.com/goto?url=CAEShwEBxCJF1_rhHAQBBO_7Gl8AhLLQ5vRNFhrYjaxtrd0frkPUJmc0Jm8cyyt_RLeEMLXTUdHoRSSl-MyCGegbC8ccodhpPgffOugpYGPZ7o3w6w252kFVA3VzrAgasZPhoBX9MXFt6xwEMoe1mENShRxVBbQTtccSxLpuBoPpJp7xYcN1qdu7CU0",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShwEBxCJF13NtD5rzfPHW9ulKvY4OwOMbiQ4CwE-Zz6Gz0C-tDslxfieqqb_v77pVt1G_i7Blx8uUa7vzIVJm2poZRKLgIaHT2NLdG7BKUk5SX64KieV5mdSN2vMyXt7x-XbFbPH1WUHCBqqmBS03Cn4oe5ypQFLJ6r_FtaIZvCTiTJc7ZlSOjpY&ved=2ahUKEwiIi9G225uYAxX2mSYFHe2vETcQFnoECBwQAQ&uoh=1",
+        "displayed_link": "https://martech.org \u203a Marketing management",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAV1BMVEVHcEz____16-H5toL1ggL80sH____2lTz1iBb0fQD_-PP6xJv3pWH07uv4r3X95dr5vrDu3tr3qJP0h2nwQgDxTgbzc0v1jnLyXinIyMjU1te6ubmenZ3qszMeAAAAA3RSTlMAZmcaB_wEAAABIElEQVR4AcWORWLFMAxEA_YEzdYP3v-cHZVx3TFKT9T8h9rP6rovZtMbY4FhnGZgMWYBMI3U6oCm54fe0RCqk9CMo6HjFXoeQqteq3DRIuEFqgjXcV3HQaEPvfYhHJi4EDp2t0wgNIYuEJoBkzrRayv2IFwHNn-Fli2m2bCGH1hiMoubzEq4rB6AXVfuAITnD6PVamxUpaiymGOOQIwcPSY0pYpIzTy1PmZRhVoDSs2a-ZASk0i0NjzkER-PQI5NCAF9UHcqq5eSXaq8wPICy1aiSIJTSH2GkjlQkT3vYkUctldYFepAO3YR2d3rQI4wWTayz-IbrRozgg0KVe5I7nTuwInk-Es0gFd4XvelO93puO_rVsuhaf9Q17Vt8w96Apg2F797KPyuAAAAAElFTkSuQmCC.png",
+        "date": "Dec 19, 2025",
+        "snippet": "Start small. Audit one workflow. Rewrite a brief template. Update one part of your brand guidelines for AI use. Each improvement strengthens ...",
+        "snippet_highlighted_words": [
+          "Start small"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Start small. Audit one workflow. Rewrite a brief template. Update one part of your brand guidelines for AI use. Each improvement strengthens ...",
+            "source_info_link": "https://www.google.com/goto?url=CAEShwEBxCJF1_rhHAQBBO_7Gl8AhLLQ5vRNFhrYjaxtrd0frkPUJmc0Jm8cyyt_RLeEMLXTUdHoRSSl-MyCGegbC8ccodhpPgffOugpYGPZ7o3w6w252kFVA3VzrAgasZPhoBX9MXFt6xwEMoe1mENShRxVBbQTtccSxLpuBoPpJp7xYcN1qdu7CU0",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAV1BMVEVHcEz____16-H5toL1ggL80sH____2lTz1iBb0fQD_-PP6xJv3pWH07uv4r3X95dr5vrDu3tr3qJP0h2nwQgDxTgbzc0v1jnLyXinIyMjU1te6ubmenZ3qszMeAAAAA3RSTlMAZmcaB_wEAAABIElEQVR4AcWORWLFMAxEA_YEzdYP3v-cHZVx3TFKT9T8h9rP6rovZtMbY4FhnGZgMWYBMI3U6oCm54fe0RCqk9CMo6HjFXoeQqteq3DRIuEFqgjXcV3HQaEPvfYhHJi4EDp2t0wgNIYuEJoBkzrRayv2IFwHNn-Fli2m2bCGH1hiMoubzEq4rB6AXVfuAITnD6PVamxUpaiymGOOQIwcPSY0pYpIzTy1PmZRhVoDSs2a-ZASk0i0NjzkER-PQI5NCAF9UHcqq5eSXaq8wPICy1aiSIJTSH2GkjlQkT3vYkUctldYFepAO3YR2d3rQI4wWTayz-IbrRozgg0KVe5I7nTuwInk-Es0gFd4XvelO93puO_rVsuhaf9Q17Vt8w96Apg2F797KPyuAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsUBL2dvdG8_dXJsPUNBRVNod0VCeENKRjFfcmhIQVFCQk9fN0dsOEFoTExRNXZSTkZocllqYXh0cmQwZnJrUFVKbWMwSm04Y3l5dF9STGVFTUxYVFVkSG9SU1NsLU15Q0dlZ2JDOGNjb2RocFBnZmZPdWdwWUdQWjdvM3c2dzI1MmtGVkEzVnpyQWdhc1pQaG9CWDlNWEZ0Nnh3RU1vZTFtRU5TaFJ4VkJiUVR0Y2NTeExwdUJvUHBKcDd4WWNOMXFkdTdDVTASBBoCCAAakAcSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDqBggAEAAYACAAKhYKA2hvdxVPn0JAGgNkaXkaBXBsYW5zKgkKAnRvFQAAAAAqbAoFYnVpbGQVovCIPxoIYnVpbGRpbmcaCWNvbnN0cnVjdBoIY3JlYXRpbmcaB2RldmVsb3AaA2RpeRoLZG8geW91IG1ha2UaCWVzdGFibGlzaBoEZm9ybRoEbWFrZRoGbWFraW5nGgVwbGFucyoICgFhFQAAAAAqOwoIc2NhbGFibGUVAAAAABoLc2NhbGFiaWxpdHkaB3NjYWxpbmcaDWl2O3A7c2NhbGFibGUaBXNjYWxlKl8KCmNyZWF0b3JvcHMVAAAAABoLY3JlYXRvciBvcHMaC2NyZWF0byByb3BzGgljcmVhdG9yb3AaD2l2O3A7Y3JlYXRvcm9wcxoIY3JlYXRvcnMaDGNyZWF0aXZlIG9wcyo0CghwaXBlbGluZRV95Uc-GglwaXBlIGxpbmUaCXBpcGVsaW5lcxoNaXY7cDtwaXBlbGluZSoKCgNmb3IVAAAAACoICgFhFQAAAAAqMQoFYnJhbmQVsL-7PxoIYnJhbmRpbmcaBmJyYW5kcxoIYnVzaW5lc3MaB2NvbXBhbnkyxQEvZ290bz91cmw9Q0FFU2h3RUJ4Q0pGMV9yaEhBUUJCT183R2w4QWhMTFE1dlJORmhyWWpheHRyZDBmcmtQVUptYzBKbThjeXl0X1JMZUVNTFhUVWRIb1JTU2wtTXlDR2VnYkM4Y2NvZGhwUGdmZk91Z3BZR1BaN28zdzZ3MjUya0ZWQTNWenJBZ2FzWlBob0JYOU1YRnQ2eHdFTW9lMW1FTlNoUnhWQmJRVHRjY1N4THB1Qm9QcEpwN3hZY04xcWR1N0NVMDo1SG93IENyZWF0aXZlT3BzIGtlZXBzIEFJLWRyaXZlbiBjb250ZW50IGZyb20gc3RhbGxpbmdCnAE8Yj5TdGFydCBzbWFsbDwvYj4uIEF1ZGl0IG9uZSB3b3JrZmxvdy4gUmV3cml0ZSBhIGJyaWVmIHRlbXBsYXRlLiBVcGRhdGUgb25lIHBhcnQgb2YgeW91ciBicmFuZCBndWlkZWxpbmVzIGZvciBBSSB1c2UuIEVhY2ggaW1wcm92ZW1lbnQgc3RyZW5ndGhlbnMmbmJzcDsuLi5KA2ZvckoCdG9KAWEiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsUBL2dvdG8_dXJsPUNBRVNod0VCeENKRjFfcmhIQVFCQk9fN0dsOEFoTExRNXZSTkZocllqYXh0cmQwZnJrUFVKbWMwSm04Y3l5dF9STGVFTUxYVFVkSG9SU1NsLU15Q0dlZ2JDOGNjb2RocFBnZmZPdWdwWUdQWjdvM3c2dzI1MmtGVkEzVnpyQWdhc1pQaG9CWDlNWEZ0Nnh3RU1vZTFtRU5TaFJ4VkJiUVR0Y2NTeExwdUJvUHBKcDd4WWNOMXFkdTdDVTASBBoCCAAakAcSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDqBggAEAAYACAAKhYKA2hvdxVPn0JAGgNkaXkaBXBsYW5zKgkKAnRvFQAAAAAqbAoFYnVpbGQVovCIPxoIYnVpbGRpbmcaCWNvbnN0cnVjdBoIY3JlYXRpbmcaB2RldmVsb3AaA2RpeRoLZG8geW91IG1ha2UaCWVzdGFibGlzaBoEZm9ybRoEbWFrZRoGbWFraW5nGgVwbGFucyoICgFhFQAAAAAqOwoIc2NhbGFibGUVAAAAABoLc2NhbGFiaWxpdHkaB3NjYWxpbmcaDWl2O3A7c2NhbGFibGUaBXNjYWxlKl8KCmNyZWF0b3JvcHMVAAAAABoLY3JlYXRvciBvcHMaC2NyZWF0byByb3BzGgljcmVhdG9yb3AaD2l2O3A7Y3JlYXRvcm9wcxoIY3JlYXRvcnMaDGNyZWF0aXZlIG9wcyo0CghwaXBlbGluZRV95Uc-GglwaXBlIGxpbmUaCXBpcGVsaW5lcxoNaXY7cDtwaXBlbGluZSoKCgNmb3IVAAAAACoICgFhFQAAAAAqMQoFYnJhbmQVsL-7PxoIYnJhbmRpbmcaBmJyYW5kcxoIYnVzaW5lc3MaB2NvbXBhbnkyxQEvZ290bz91cmw9Q0FFU2h3RUJ4Q0pGMV9yaEhBUUJCT183R2w4QWhMTFE1dlJORmhyWWpheHRyZDBmcmtQVUptYzBKbThjeXl0X1JMZUVNTFhUVWRIb1JTU2wtTXlDR2VnYkM4Y2NvZGhwUGdmZk91Z3BZR1BaN28zdzZ3MjUya0ZWQTNWenJBZ2FzWlBob0JYOU1YRnQ2eHdFTW9lMW1FTlNoUnhWQmJRVHRjY1N4THB1Qm9QcEpwN3hZY04xcWR1N0NVMDo1SG93IENyZWF0aXZlT3BzIGtlZXBzIEFJLWRyaXZlbiBjb250ZW50IGZyb20gc3RhbGxpbmdCnAE8Yj5TdGFydCBzbWFsbDwvYj4uIEF1ZGl0IG9uZSB3b3JrZmxvdy4gUmV3cml0ZSBhIGJyaWVmIHRlbXBsYXRlLiBVcGRhdGUgb25lIHBhcnQgb2YgeW91ciBicmFuZCBndWlkZWxpbmVzIGZvciBBSSB1c2UuIEVhY2ggaW1wcm92ZW1lbnQgc3RyZW5ndGhlbnMmbmJzcDsuLi5KA2ZvckoCdG9KAWEiAhABSABYAGgA",
+        "source": "MarTech",
+        "read_more_link": "https://www.google.com/goto?url=CAES5QEBxCJF1_H4XpbfqiwKappO72abEKJT_nh7xnwgyb72PmVE0B4BrZ3U24DwvqAdf9rPYD_Fp_N9ErpHYybf6pQo623IP0d8kVVXOdMmfFQGHnblSNnFZ4S0VuLgKkq--UDD_l9tja2OCuUVerC0VV83G1ybE0fq0l3TUlDdFdD3H4r74kXqH7cvA9hWZMOccvtmkDMieWVPuQv-3jbvSKdE5yY1uwM0D8W54BvvVp2hGYMJZsPiZYd79uQELVLiS3b5xGh7TiFV3mqG_-mKsi67bWF7EAT3MIpXrmcBJKvVuDRYbL-_&gsessionid=QZ9JpCkLb9HGUd29MtaNSZnjFB7-MNehmWh24tITsuCcf1S5pWPWLg"
+      },
+      {
+        "position": 5,
+        "title": "Content at Scale: How to Train AI to Create Great Content",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXNjzJr2SWf8dOu3KP95BGcbpWv5UtSU_DnCQ2mjC9s8_QGecjnzmXvEBW0PUna9sTLFdkJ0vgySvVOAOrlkIohA1bj5iHSzpKROd9lgNr7I_vyzKmWA7ddRDfLmrcPIrhgdHL&gsessionid=QZ9JpCkLb9HGUd29MtaNSZnjFB7-MNehmWh24tITsuCcf1S5pWPWLg",
+        "displayed_link": "1.3K+ views",
+        "date": "1 year ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f25e7f33eef5379f2ebf/images/wkS5dkVri-hw0Tzow9h-ieZ6tHrRPMGJCgEKx068AQ4.jpg",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "Discover a practical strategy anyone can implement to create authentic content at scale with AI. How to Create On-Brand Visuals With AI AI",
+        "duration": "45:37",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "Intro",
+            "link": "https://www.google.com/goto?url=CAESbAHEIkXXPUs-1q0Th5Rry0Dw_ygVAPDRGaEVSCuAQLcW2Rqn7ckPevgJd7BHWwOQ1mpV4m-7DM3hwLF8B6uxGPWEdFyP1qQbWuWgE0sUX5Fw330IbQNpTjSCE8AD47Um2UyIINd1IVo4jMLTIw&gsessionid=QZ9JpCkLb9HGUd29MtaNSZnjFB7-MNehmWh24tITsuCcf1S5pWPWLg"
+          },
+          {
+            "time": "01:06",
+            "title": "About Audra Carpenter",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXXbNuQO3awZW_t7OP-lxwlmtxn7JFtQvj9iyEm-JmqY7ZWfz7FcGbDzGle1MSBqubsPTnmzl5WmREkRkloC9rmY86qWU-BJl9ogL9-d4dzplXX2BC6UagF22-g321dwNqJJSYEiqZjenE&gsessionid=QZ9JpCkLb9HGUd29MtaNSZnjFB7-MNehmWh24tITsuCcf1S5pWPWLg"
+          },
+          {
+            "time": "04:57",
+            "title": "How Can AI Help Scale Content Creation",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXX13NawCHfk8K9NTd2fEGlVy-Vez2t9SDEciTipDV5OlOshoOQNE1iorJnqpg2EDExWOb23dZ64P2rrUbxz1tUFr0zP3Kp0Ae9xbYC__nI2O9Y0gywJsKI6Fpzk_qZezEQvNGaHJn4yXPn&gsessionid=QZ9JpCkLb9HGUd29MtaNSZnjFB7-MNehmWh24tITsuCcf1S5pWPWLg"
+          },
+          {
+            "time": "06:45",
+            "title": "The Experiment: Scaling LinkedIn Content Creation to Grow From 25k to 50k Followers in 90 Day",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXznCN3Haql6woXUClM5eQOgtw6-SQAO0jZDHW-tFb3ctJhX-jOglh_MLSRQS5xAjEzGx0THCETo6yX-zJWI7ff0ak9t0vs54nwrGn3BHAOKYYWabh45T0Kz8Dgs0b2s6ZobOvaQh6QdhZ&gsessionid=QZ9JpCkLb9HGUd29MtaNSZnjFB7-MNehmWh24tITsuCcf1S5pWPWLg"
+          },
+          {
+            "time": "18:36",
+            "title": "How to Research and Build Your Content Training Database",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXqULdNMiQZPs2inU9_Ue-Gc6fCv2nM3OCczyQRdQ83HWGmxq0vBRvbJvSIRBZxrFCtVxt1xOkrdxZ9-XtM_RMmG78y7UZecE4mQycvCtqD0ec3jxE7N8sEV8C-R3z6exaYfbcaUE4SOiEQA&gsessionid=QZ9JpCkLb9HGUd29MtaNSZnjFB7-MNehmWh24tITsuCcf1S5pWPWLg"
+          },
+          {
+            "time": "31:50",
+            "title": "How to Train AI to Create Content That Sounds Like You",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXdx6hj2lbTeR6nUxhrhsS7s-LZnCMwEx5nNc7gr06HocAR9D2uNCZZ8AjiQ9fNnRqAc5ZScFzjtGbSmWA5KxXCh743JIxlhy57qKgKu4OWt4W6z42Rr3dZ7JxCZC7mmvsU40MC8cU8AhwiA&gsessionid=QZ9JpCkLb9HGUd29MtaNSZnjFB7-MNehmWh24tITsuCcf1S5pWPWLg"
+          },
+          {
+            "time": "34:49",
+            "title": "How to Use Your Trained AI Model to Create a Social Media Post",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXXKaqFtSDZU5ki4T9Xf2dkq4IUubAnSRiPJ3L8T1uAY-zLj-4aQOV_SW6mfLphngN9hlRLOd8D9aZjj-BOhyBwGjLERV6_55HWCviNnuNbdo3XW-8Mf71p1ataVp063pHfXxxlTR1zUAGt5w&gsessionid=QZ9JpCkLb9HGUd29MtaNSZnjFB7-MNehmWh24tITsuCcf1S5pWPWLg"
+          }
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Discover a practical strategy anyone can implement to create authentic content at scale with AI. How to Create On-Brand Visuals With AI AI",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWE5qekpyMlNXZjhkT3UzS1A5NUJHY2JwV3Y1VXRTVV9EbkNRMm1qQzlzOF9RR2Vjam56bVh2RUJXMFBVbmE5c1RMRmRrSjB2Z3lTdlZPQU9ybGtJb2hBMWJqNWlIU3pwS1JPZDlsZ05yN0lfdnl6S21XQTdkZFJEZkxtcmNQSXJoZ2RITBIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWE5qekpyMlNXZjhkT3UzS1A5NUJHY2JwV3Y1VXRTVV9EbkNRMm1qQzlzOF9RR2Vjam56bVh2RUJXMFBVbmE5c1RMRmRrSjB2Z3lTdlZPQU9ybGtJb2hBMWJqNWlIU3pwS1JPZDlsZ05yN0lfdnl6S21XQTdkZFJEZkxtcmNQSXJoZ2RITBIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTLGzqT2OKEip6c_4qhzd8FWsLdW--_QqL4xQ",
+        "source": "YouTube \u00b7 AI Explored"
+      },
+      {
+        "position": 6,
+        "title": "How to Build Your Creator Community | CreatorIQ Webinar",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXX-R4Tf6y26oTaJYPgmduNiG7JJ3TGYcgEvsZ99xYbxu4aMMea7c3vjHyA-V51TiYl1PIrg1hy8nKZaJc3wyTt_UNDo9yIbmnQgsQY9mV4_eU3juUreAynIXUlRHHjERyBAiRv&gsessionid=QZ9JpCkLb9HGUd29MtaNSZnjFB7-MNehmWh24tITsuCcf1S5pWPWLg",
+        "displayed_link": "870+ views",
+        "date": "4 years ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f25e7f33eef5379f2ebf/images/wkS5dkVri-hw0Tzow9h-iVqE5ASCp7_0QAU2wjEQruo.jpg",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "In this webinar, Kimi Hurtado covers best practices for identifying and understanding your brand's existing influencer fans, building authentic ...",
+        "duration": "20:04",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "Intro",
+            "link": "https://www.google.com/goto?url=CAESbAHEIkXXU3r_fxwsZsdDVe_KDYE2k9lN8mQ2BFu2_ZWXALMzrh71U_3m35pu4b6VTzzzXI3vY-ryMvqFX3MxpWvfE_-3GUCX4pOuXVYlvC2Vkj9Hgav2aNHrAMyshEqZC9oFr3jPDmyIu1KY0g&gsessionid=QZ9JpCkLb9HGUd29MtaNSZnjFB7-MNehmWh24tITsuCcf1S5pWPWLg"
+          },
+          {
+            "time": "01:52",
+            "title": "What is the creator economy?",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXco2SymxSXNnlBSYrY9yAJOynvsW-hXchIVoO3XkG2iJUdOYJ3tFXshOwUTJNtoJB0-J6mnLfQpGkyjpBGJt1-IpJU1ZmpvCDI4yXB6vZGsQuT_GNdeOT9Wf9DJdtDVjkEe6Y6wgC7ivB&gsessionid=QZ9JpCkLb9HGUd29MtaNSZnjFB7-MNehmWh24tITsuCcf1S5pWPWLg"
+          },
+          {
+            "time": "04:10",
+            "title": "What are creators?",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXyh_J0b3TlP2piTv9hPrpjuvFdHcsuusSVWGBJJ_57aJ_iLOYBhcejYPx6qG7bH7OzOgf6XBk7luz-af-co4Fb4gzhouGfGSMtcbiEZoUUPcoUhBxYDltqofh1yBNLS5yH5tFugrMGa3c&gsessionid=QZ9JpCkLb9HGUd29MtaNSZnjFB7-MNehmWh24tITsuCcf1S5pWPWLg"
+          },
+          {
+            "time": "06:52",
+            "title": "Community Discovery Feature",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXqeOaZUtLwA7JQDMouNPt6USfZHm5Z--Ipt3bwLzieQVx2FjMILyLk60BpCDYw39ddx1Mgr7JGN2PKTaFT5Bl2uFSbhA8sQRC7FvUYbctPofPUiengP6xxk_qbyYhfCvrkSZMQ0kNWeEr&gsessionid=QZ9JpCkLb9HGUd29MtaNSZnjFB7-MNehmWh24tITsuCcf1S5pWPWLg"
+          },
+          {
+            "time": "08:42",
+            "title": "Tracking Creators",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXp0ot4ANy6_B2B8ttZ8SqG1fCJYX3bAnktb-l7LSwf0uoBOIKZkI2fCw_OuNFTwBTtEeXlad7tSsAUsmvPgXCLYK2FK4tkej1heUR_K0bgq139Rhn3HPSIgySThNN0z7DKoN7LXd1Fyfz&gsessionid=QZ9JpCkLb9HGUd29MtaNSZnjFB7-MNehmWh24tITsuCcf1S5pWPWLg"
+          },
+          {
+            "time": "09:54",
+            "title": "Building relationships",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXX3yMwWd3ledPLjl_D-5_jwf5Eu-jyNQm0XT1K9PeTD95bLWr-gkA_L-J1sxaHDIodI0ZzYsxFO-N_rKNLWup3AFefgz8m4_P1fosH392PwtlELdh_oqrsLN3cgK61ehy117cmvph-SIlI&gsessionid=QZ9JpCkLb9HGUd29MtaNSZnjFB7-MNehmWh24tITsuCcf1S5pWPWLg"
+          },
+          {
+            "time": "11:33",
+            "title": "Targeting Creators",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXf7XNdc_W1D693-z3wWFIJcCS8INk7voepcx0dToeFK0h30U11Vu9Hrj7f1OXz_IdFEQZHn96iMPqBhNwvooWKZiv7CAEooBVOrpb4VTnIiG8WmRl9mPbKPf84oYbDjVPDp6PgX2QEPXY&gsessionid=QZ9JpCkLb9HGUd29MtaNSZnjFB7-MNehmWh24tITsuCcf1S5pWPWLg"
+          },
+          {
+            "time": "13:30",
+            "title": "Retained fans",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXqZCf3KmMBOzdIU5uuB69zBloiXTSAbaQ0q-ARImttYd4Sui5I4AYkL1-gRHruCgtr276ywmmrrx9O3Spg0RRuxab9nxCImWqIWlo3WeoE7hkAa7NjqyrfaaZ_04HprSFE3Merl6hptf6&gsessionid=QZ9JpCkLb9HGUd29MtaNSZnjFB7-MNehmWh24tITsuCcf1S5pWPWLg"
+          },
+          {
+            "time": "14:55",
+            "title": "Prioritize the needs of the creator",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXX8_Nh91mdQqDxnegwiG_IM8-kyr0O-J6OdVtjSpMgm0x_D9NWfkveuu7vsxmbIWnzM-aV3G2FpsiOtZKJpyEHLhdQVjq3RCFWk-scAbZv_Sc7wBHZhvocndrGLXovZSf4_FrcyJIXytR&gsessionid=QZ9JpCkLb9HGUd29MtaNSZnjFB7-MNehmWh24tITsuCcf1S5pWPWLg"
+          },
+          {
+            "time": "18:48",
+            "title": "Closing thoughts",
+            "link": "https://www.google.com/goto?url=CAESbwHEIkXX14QcRG246XMZKWuIHlCSKqhsYq3w29WgFLb1j1AkUYMYljpzGNoeB6rg6Lu-kPcVRGqYwXETIJlqiSiWdjqMGz92nKknxLiaXzT-RObOaS7vyH_U_LR7ahT-Nr79T1fZZBrPanbOQgwreQ&gsessionid=QZ9JpCkLb9HGUd29MtaNSZnjFB7-MNehmWh24tITsuCcf1S5pWPWLg"
+          }
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "In this webinar, Kimi Hurtado covers best practices for identifying and understanding your brand's existing influencer fans, building authentic ...",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWC1SNFRmNnkyNm9UYUpZUGdtZHVOaUc3SkozVEdZY2dFdnNaOTl4WWJ4dTRhTU1lYTdjM3ZqSHlBLVY1MVRpWWwxUElyZzFoeThuS1phSmMzd3lUdF9VTkRvOXlJYm1uUWdzUVk5bVY0X2VVM2p1VXJlQXluSVhVbFJISGpFUnlCQWlSdhIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWC1SNFRmNnkyNm9UYUpZUGdtZHVOaUc3SkozVEdZY2dFdnNaOTl4WWJ4dTRhTU1lYTdjM3ZqSHlBLVY1MVRpWWwxUElyZzFoeThuS1phSmMzd3lUdF9VTkRvOXlJYm1uUWdzUVk5bVY0X2VVM2p1VXJlQXluSVhVbFJISGpFUnlCQWlSdhIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "source": "YouTube \u00b7 CreatorIQ"
+      },
+      {
+        "position": 7,
+        "title": "How to Build a Demand Generation Plan for IT Companies?",
+        "link": "https://www.google.com/goto?url=CAESngEBxCJF11wd265Mb6ElEEFpwdhiuEvRwr7vCQ0C7wxxW2XhP_tuzLV5cDuicakmQizKDHzIZkraUOU_4OuvBgEufn0ROdrywCeQehla-cNpv56zL6A-LLD6VGC11xuj0GBfv9CKR8EMLgZvn2ZmnbRqKSxpMffFNvpvAr1n5RIjo9fH8mlHDrr6kzonrHDlade4ivNXUO03PcyLe8Z0EQ",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESngEBxCJF1z4lV8FslImgTFNGS0PGzuZlBACQ9pyRhAwJD_Bsq-hgfuCfxCKXlQc3yuyNr4bhXHK9l-cvwB0NT8dk7pOCU7dwQ4cY3K5JlvD5cyG3Z-7H4fIdLZeL2V0IC55z6LdjCMjj2JaiZvlIl2bNWPBoPJ0HKFr-gc-R0-6In3uTFIFmYjJWc6v66RcZwRDyEMe_qf7ITCn7hgbaRQ&ved=2ahUKEwiIi9G225uYAxX2mSYFHe2vETcQFnoECB0QAQ&uoh=1",
+        "displayed_link": "https://www.pangolinmarketing.com \u203a insights \u203a how-t...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEX____98fLvm6DoY23mUFzmUl7mTVnshY3ztLjqcnvulJr75ufkOEflR1TmT1vlSVbrgIf76erlRFHmTFjxp6z1xcjlRFLlQU_kOknysbX1wsXtjJLnWmX419nukZjxrLD99fb53t_30tTtiZD2y87pbXbjMEGtSR0PAAAA60lEQVR4AdSLR3LDMBAEl9IIkkgE5gVz5v-faEDwyfnqvkx1dQ39P6LLFTePuDt7PG_XOAnFmVRCvzApZSIvtDCyDK2SgKoNAM0p5QJFrTRsQ55cay7bjqH7ahgV8rSdfJ39kcGL20l5t1AXJxmjfrgtlXiSh8FrwuDZy2bM6OaiivRzHI3p3LQ5OHJb5bAZSaiHj0qryc1sIVAtDUNciZ4FuFz2XkBm5JgYumYFyIUokxqKcwGO6UVsC0Ab2XpZrdKAsCm9sz7Z1lsWJBqVtUdFfyBqq0D7RVzOPHB-FVkH-KsoTUC-bdAnPABEVRF0DbsF1gAAAABJRU5ErkJggg.png",
+        "date": "Dec 15, 2025",
+        "snippet": "Build a predictable demand generation plan for IT companies. Learn the 8-step framework, full-funnel strategy, and proven tactics that drive ...",
+        "snippet_highlighted_words": [
+          "Learn the 8-step framework, full-funnel strategy, and proven tactics"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Build a predictable demand generation plan for IT companies. Learn the 8-step framework, full-funnel strategy, and proven tactics that drive ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESngEBxCJF11wd265Mb6ElEEFpwdhiuEvRwr7vCQ0C7wxxW2XhP_tuzLV5cDuicakmQizKDHzIZkraUOU_4OuvBgEufn0ROdrywCeQehla-cNpv56zL6A-LLD6VGC11xuj0GBfv9CKR8EMLgZvn2ZmnbRqKSxpMffFNvpvAr1n5RIjo9fH8mlHDrr6kzonrHDlade4ivNXUO03PcyLe8Z0EQ",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEX____98fLvm6DoY23mUFzmUl7mTVnshY3ztLjqcnvulJr75ufkOEflR1TmT1vlSVbrgIf76erlRFHmTFjxp6z1xcjlRFLlQU_kOknysbX1wsXtjJLnWmX419nukZjxrLD99fb53t_30tTtiZD2y87pbXbjMEGtSR0PAAAA60lEQVR4AdSLR3LDMBAEl9IIkkgE5gVz5v-faEDwyfnqvkx1dQ39P6LLFTePuDt7PG_XOAnFmVRCvzApZSIvtDCyDK2SgKoNAM0p5QJFrTRsQ55cay7bjqH7ahgV8rSdfJ39kcGL20l5t1AXJxmjfrgtlXiSh8FrwuDZy2bM6OaiivRzHI3p3LQ5OHJb5bAZSaiHj0qryc1sIVAtDUNciZ4FuFz2XkBm5JgYumYFyIUokxqKcwGO6UVsC0Ab2XpZrdKAsCm9sz7Z1lsWJBqVtUdFfyBqq0D7RVzOPHB-FVkH-KsoTUC-bdAnPABEVRF0DbsF1gAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCeENKRjExd2QyNjVNYjZFbEVFRnB3ZGhpdUV2UndyN3ZDUTBDN3d4eFcyWGhQX3R1ekxWNWNEdWljYWttUWl6S0RIeklaa3JhVU9VXzRPdXZCZ0V1Zm4wUk9kcnl3Q2VRZWhsYS1jTnB2NTZ6TDZBLUxMRDZWR0MxMXh1ajBHQmZ2OUNLUjhFTUxnWnZuMlptbmJScUtTeHBNZmZGTnZwdkFyMW41UklqbzlmSDhtbEhEcnI2a3pvbnJIRGxhZGU0aXZOWFVPMDNQY3lMZThaMEVREgQaAggAGrYHEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQJIHCAAQABgAIAAqFgoDaG93FV_7OUAaA2RpeRoFcGxhbnMqCQoCdG8VAAAAACpsCgVidWlsZBXHsMQ_GghidWlsZGluZxoJY29uc3RydWN0GghjcmVhdGluZxoHZGV2ZWxvcBoDZGl5GgtkbyB5b3UgbWFrZRoJZXN0YWJsaXNoGgRmb3JtGgRtYWtlGgZtYWtpbmcaBXBsYW5zKggKAWEVAAAAACo7CghzY2FsYWJsZRUAAAAAGgtzY2FsYWJpbGl0eRoHc2NhbGluZxoNaXY7cDtzY2FsYWJsZRoFc2NhbGUqXwoKY3JlYXRvcm9wcxUAAAAAGgtjcmVhdG9yIG9wcxoLY3JlYXRvIHJvcHMaCWNyZWF0b3JvcBoPaXY7cDtjcmVhdG9yb3BzGghjcmVhdG9ycxoMY3JlYXRpdmUgb3BzKjQKCHBpcGVsaW5lFVkiD0AaCXBpcGUgbGluZRoJcGlwZWxpbmVzGg1pdjtwO3BpcGVsaW5lKgoKA2ZvchUAAAAAKggKAWEVAAAAACoxCgVicmFuZBU7FSw_GghicmFuZGluZxoGYnJhbmRzGghidXNpbmVzcxoHY29tcGFueTLkAS9nb3RvP3VybD1DQUVTbmdFQnhDSkYxMXdkMjY1TWI2RWxFRUZwd2RoaXVFdlJ3cjd2Q1EwQzd3eHhXMlhoUF90dXpMVjVjRHVpY2FrbVFpektESHpJWmtyYVVPVV80T3V2QmdFdWZuMFJPZHJ5d0NlUWVobGEtY05wdjU2ekw2QS1MTEQ2VkdDMTF4dWowR0JmdjlDS1I4RU1MZ1p2bjJabW5iUnFLU3hwTWZmRk52cHZBcjFuNVJJam85Zkg4bWxIRHJyNmt6b25ySERsYWRlNGl2TlhVTzAzUGN5TGU4WjBFUTo-PGI-SG93IHRvIEJ1aWxkPC9iPiBhIERlbWFuZCBHZW5lcmF0aW9uIFBsYW4gZm9yIElUIENvbXBhbmllcz9CnAFCdWlsZCBhIHByZWRpY3RhYmxlIGRlbWFuZCBnZW5lcmF0aW9uIHBsYW4gZm9yIElUIGNvbXBhbmllcy4gPGI-TGVhcm4gdGhlIDgtc3RlcCBmcmFtZXdvcmssIGZ1bGwtZnVubmVsIHN0cmF0ZWd5LCBhbmQgcHJvdmVuIHRhY3RpY3M8L2I-IHRoYXQgZHJpdmUmbmJzcDsuLi5KAWFKAnRvSgNmb3IiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCeENKRjExd2QyNjVNYjZFbEVFRnB3ZGhpdUV2UndyN3ZDUTBDN3d4eFcyWGhQX3R1ekxWNWNEdWljYWttUWl6S0RIeklaa3JhVU9VXzRPdXZCZ0V1Zm4wUk9kcnl3Q2VRZWhsYS1jTnB2NTZ6TDZBLUxMRDZWR0MxMXh1ajBHQmZ2OUNLUjhFTUxnWnZuMlptbmJScUtTeHBNZmZGTnZwdkFyMW41UklqbzlmSDhtbEhEcnI2a3pvbnJIRGxhZGU0aXZOWFVPMDNQY3lMZThaMEVREgQaAggAGrYHEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQJIHCAAQABgAIAAqFgoDaG93FV_7OUAaA2RpeRoFcGxhbnMqCQoCdG8VAAAAACpsCgVidWlsZBXHsMQ_GghidWlsZGluZxoJY29uc3RydWN0GghjcmVhdGluZxoHZGV2ZWxvcBoDZGl5GgtkbyB5b3UgbWFrZRoJZXN0YWJsaXNoGgRmb3JtGgRtYWtlGgZtYWtpbmcaBXBsYW5zKggKAWEVAAAAACo7CghzY2FsYWJsZRUAAAAAGgtzY2FsYWJpbGl0eRoHc2NhbGluZxoNaXY7cDtzY2FsYWJsZRoFc2NhbGUqXwoKY3JlYXRvcm9wcxUAAAAAGgtjcmVhdG9yIG9wcxoLY3JlYXRvIHJvcHMaCWNyZWF0b3JvcBoPaXY7cDtjcmVhdG9yb3BzGghjcmVhdG9ycxoMY3JlYXRpdmUgb3BzKjQKCHBpcGVsaW5lFVkiD0AaCXBpcGUgbGluZRoJcGlwZWxpbmVzGg1pdjtwO3BpcGVsaW5lKgoKA2ZvchUAAAAAKggKAWEVAAAAACoxCgVicmFuZBU7FSw_GghicmFuZGluZxoGYnJhbmRzGghidXNpbmVzcxoHY29tcGFueTLkAS9nb3RvP3VybD1DQUVTbmdFQnhDSkYxMXdkMjY1TWI2RWxFRUZwd2RoaXVFdlJ3cjd2Q1EwQzd3eHhXMlhoUF90dXpMVjVjRHVpY2FrbVFpektESHpJWmtyYVVPVV80T3V2QmdFdWZuMFJPZHJ5d0NlUWVobGEtY05wdjU2ekw2QS1MTEQ2VkdDMTF4dWowR0JmdjlDS1I4RU1MZ1p2bjJabW5iUnFLU3hwTWZmRk52cHZBcjFuNVJJam85Zkg4bWxIRHJyNmt6b25ySERsYWRlNGl2TlhVTzAzUGN5TGU4WjBFUTo-PGI-SG93IHRvIEJ1aWxkPC9iPiBhIERlbWFuZCBHZW5lcmF0aW9uIFBsYW4gZm9yIElUIENvbXBhbmllcz9CnAFCdWlsZCBhIHByZWRpY3RhYmxlIGRlbWFuZCBnZW5lcmF0aW9uIHBsYW4gZm9yIElUIGNvbXBhbmllcy4gPGI-TGVhcm4gdGhlIDgtc3RlcCBmcmFtZXdvcmssIGZ1bGwtZnVubmVsIHN0cmF0ZWd5LCBhbmQgcHJvdmVuIHRhY3RpY3M8L2I-IHRoYXQgZHJpdmUmbmJzcDsuLi5KAWFKAnRvSgNmb3IiAhABSABYAGgA",
+        "source": "Pangolin Marketing"
+      },
+      {
+        "position": 8,
+        "title": "How to Maintain Data Integrity for Your Creator Marketing ...",
+        "link": "https://www.google.com/goto?url=CAEScgHEIkXXo9Ap5DDKBu8xY91UMpg9WtcO-akO3c0exAIeBRXABMYDCoA6nsXRMiD_Q_Fjgm9WFndY6ixKP8krWgVJTg7n9xlk3kjeW8cBKOJG0GteeFhEweqHz_GEk-WZU6oaj3-Ri_-OwMJVe0_euXd4ig",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHEIkXXiavS334Lam2Lt6HLpMd1gSkdvVAfKHPIrSFUSzHh2n0m3iL8J1neSX6TtxZ6tKt__2V1a-1nJiFANcafV2dZd6SyjXDDcSeV6JV21Hm0MnH7tBo5gJ4rTvIrrKwvfN1ZgDLGSIwYSDvxBaQcSA&ved=2ahUKEwiIi9G225uYAxX2mSYFHe2vETcQFnoECBsQAQ&uoh=1",
+        "displayed_link": "https://www.creatoriq.com \u203a marketing-ops",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABcAAAAYCAMAAAAmopZHAAAAflBMVEX____c7vmd0O1suORbsOFOqt5lteOCw-jf8PnS6vd2veZKqN76_f6Oyeq23PL2-_6s1_DM5vak0-7A4fRTrN-Yzuy94PPu9_zO6Pbp7u9sqMjefzTXyrxOp9jKhEvteiToeymmjnX07ejusYKJwN7gkFLxllL_-fTyo2f97uNpLKGvAAAA0UlEQVR4AW2QiRaCIBBFB5FIJiO39qTd-v8fzGGSOOY9yxzv0ycDfBGJTNVMJ3OIyQwOaBHsIseI5aCtnNSgY73qRVGSrljUSVasZElaYdaPGRK5DWdQiKZP-RQwIGp6nkPuS2zwS_471zQQWNS-FvxYww_NvYpGFfmGhIGU6_7elzzG_fyZ2gQvkIu3SBgLDO-vLHARygyIHQUKc9obGVMmen84UpD62hIHTq07U2BHF31xjoOwCtM6Cq4QKCT3UHCDGNGYnvvDPTuYoHu9wfMBuxoQ3Q1qK-MAAAAASUVORK5CYII.png",
+        "snippet": "STEP 1. Establish consistent creator identities \u00b7 STEP 2. Standardize campaign and content data structures \u00b7 STEP 3. Replace manual exports with integration ...",
+        "snippet_highlighted_words": [
+          "Establish consistent creator identities"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "STEP 1. Establish consistent creator identities \u00b7 STEP 2. Standardize campaign and content data structures \u00b7 STEP 3. Replace manual exports with integration ...",
+            "source_info_link": "https://www.google.com/goto?url=CAEScgHEIkXXo9Ap5DDKBu8xY91UMpg9WtcO-akO3c0exAIeBRXABMYDCoA6nsXRMiD_Q_Fjgm9WFndY6ixKP8krWgVJTg7n9xlk3kjeW8cBKOJG0GteeFhEweqHz_GEk-WZU6oaj3-Ri_-OwMJVe0_euXd4ig",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABcAAAAYCAMAAAAmopZHAAAAflBMVEX____c7vmd0O1suORbsOFOqt5lteOCw-jf8PnS6vd2veZKqN76_f6Oyeq23PL2-_6s1_DM5vak0-7A4fRTrN-Yzuy94PPu9_zO6Pbp7u9sqMjefzTXyrxOp9jKhEvteiToeymmjnX07ejusYKJwN7gkFLxllL_-fTyo2f97uNpLKGvAAAA0UlEQVR4AW2QiRaCIBBFB5FIJiO39qTd-v8fzGGSOOY9yxzv0ycDfBGJTNVMJ3OIyQwOaBHsIseI5aCtnNSgY73qRVGSrljUSVasZElaYdaPGRK5DWdQiKZP-RQwIGp6nkPuS2zwS_471zQQWNS-FvxYww_NvYpGFfmGhIGU6_7elzzG_fyZ2gQvkIu3SBgLDO-vLHARygyIHQUKc9obGVMmen84UpD62hIHTq07U2BHF31xjoOwCtM6Cq4QKCT3UHCDGNGYnvvDPTuYoHu9wfMBuxoQ3Q1qK-MAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqgBL2dvdG8_dXJsPUNBRVNjZ0hFSWtYWG85QXA1RERLQnU4eFk5MVVNcGc5V3RjTy1ha08zYzBleEFJZUJSWEFCTVlEQ29BNm5zWFJNaURfUV9GamdtOVdGbmRZNml4S1A4a3JXZ1ZKVGc3bjl4bGsza2plVzhjQktPSkcwR3RlZUZoRXdlcUh6X0dFay1XWlU2b2FqMy1SaV8tT3dNSlZlMF9ldVhkNGlnEgQaAggAGpcHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPMGCAAQABgAIAAqFgoDaG93FVv2_D8aA2RpeRoFcGxhbnMqCQoCdG8VAAAAACpsCgVidWlsZBUzmB4_GghidWlsZGluZxoJY29uc3RydWN0GghjcmVhdGluZxoHZGV2ZWxvcBoDZGl5GgtkbyB5b3UgbWFrZRoJZXN0YWJsaXNoGgRmb3JtGgRtYWtlGgZtYWtpbmcaBXBsYW5zKggKAWEVAAAAACo7CghzY2FsYWJsZRUAAAAAGgtzY2FsYWJpbGl0eRoHc2NhbGluZxoNaXY7cDtzY2FsYWJsZRoFc2NhbGUqXwoKY3JlYXRvcm9wcxUAAAAAGgtjcmVhdG9yIG9wcxoLY3JlYXRvIHJvcHMaCWNyZWF0b3JvcBoPaXY7cDtjcmVhdG9yb3BzGghjcmVhdG9ycxoMY3JlYXRpdmUgb3BzKjQKCHBpcGVsaW5lFQAAAAAaCXBpcGUgbGluZRoJcGlwZWxpbmVzGg1pdjtwO3BpcGVsaW5lKgoKA2ZvchUAAAAAKggKAWEVAAAAACoxCgVicmFuZBWqtLE-GghicmFuZGluZxoGYnJhbmRzGghidXNpbmVzcxoHY29tcGFueTKoAS9nb3RvP3VybD1DQUVTY2dIRUlrWFhvOUFwNURES0J1OHhZOTFVTXBnOVd0Y08tYWtPM2MwZXhBSWVCUlhBQk1ZRENvQTZuc1hSTWlEX1FfRmpnbTlXRm5kWTZpeEtQOGtyV2dWSlRnN245eGxrM2tqZVc4Y0JLT0pHMEd0ZWVGaEV3ZXFIel9HRWstV1pVNm9hajMtUmlfLU93TUpWZTBfZXVYZDRpZzo9SG93IHRvIE1haW50YWluIERhdGEgSW50ZWdyaXR5IGZvciBZb3VyIENyZWF0b3IgTWFya2V0aW5nIC4uLkK6AVNURVAgMS4gPGI-RXN0YWJsaXNoIGNvbnNpc3RlbnQgY3JlYXRvciBpZGVudGl0aWVzPC9iPiAmbWlkZG90OyBTVEVQIDIuIFN0YW5kYXJkaXplIGNhbXBhaWduIGFuZCBjb250ZW50IGRhdGEgc3RydWN0dXJlcyAmbWlkZG90OyBTVEVQIDMuIFJlcGxhY2UgbWFudWFsIGV4cG9ydHMgd2l0aCBpbnRlZ3JhdGlvbiZuYnNwOy4uLkoBYUoCdG9KA2ZvciICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqgBL2dvdG8_dXJsPUNBRVNjZ0hFSWtYWG85QXA1RERLQnU4eFk5MVVNcGc5V3RjTy1ha08zYzBleEFJZUJSWEFCTVlEQ29BNm5zWFJNaURfUV9GamdtOVdGbmRZNml4S1A4a3JXZ1ZKVGc3bjl4bGsza2plVzhjQktPSkcwR3RlZUZoRXdlcUh6X0dFay1XWlU2b2FqMy1SaV8tT3dNSlZlMF9ldVhkNGlnEgQaAggAGpcHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPMGCAAQABgAIAAqFgoDaG93FVv2_D8aA2RpeRoFcGxhbnMqCQoCdG8VAAAAACpsCgVidWlsZBUzmB4_GghidWlsZGluZxoJY29uc3RydWN0GghjcmVhdGluZxoHZGV2ZWxvcBoDZGl5GgtkbyB5b3UgbWFrZRoJZXN0YWJsaXNoGgRmb3JtGgRtYWtlGgZtYWtpbmcaBXBsYW5zKggKAWEVAAAAACo7CghzY2FsYWJsZRUAAAAAGgtzY2FsYWJpbGl0eRoHc2NhbGluZxoNaXY7cDtzY2FsYWJsZRoFc2NhbGUqXwoKY3JlYXRvcm9wcxUAAAAAGgtjcmVhdG9yIG9wcxoLY3JlYXRvIHJvcHMaCWNyZWF0b3JvcBoPaXY7cDtjcmVhdG9yb3BzGghjcmVhdG9ycxoMY3JlYXRpdmUgb3BzKjQKCHBpcGVsaW5lFQAAAAAaCXBpcGUgbGluZRoJcGlwZWxpbmVzGg1pdjtwO3BpcGVsaW5lKgoKA2ZvchUAAAAAKggKAWEVAAAAACoxCgVicmFuZBWqtLE-GghicmFuZGluZxoGYnJhbmRzGghidXNpbmVzcxoHY29tcGFueTKoAS9nb3RvP3VybD1DQUVTY2dIRUlrWFhvOUFwNURES0J1OHhZOTFVTXBnOVd0Y08tYWtPM2MwZXhBSWVCUlhBQk1ZRENvQTZuc1hSTWlEX1FfRmpnbTlXRm5kWTZpeEtQOGtyV2dWSlRnN245eGxrM2tqZVc4Y0JLT0pHMEd0ZWVGaEV3ZXFIel9HRWstV1pVNm9hajMtUmlfLU93TUpWZTBfZXVYZDRpZzo9SG93IHRvIE1haW50YWluIERhdGEgSW50ZWdyaXR5IGZvciBZb3VyIENyZWF0b3IgTWFya2V0aW5nIC4uLkK6AVNURVAgMS4gPGI-RXN0YWJsaXNoIGNvbnNpc3RlbnQgY3JlYXRvciBpZGVudGl0aWVzPC9iPiAmbWlkZG90OyBTVEVQIDIuIFN0YW5kYXJkaXplIGNhbXBhaWduIGFuZCBjb250ZW50IGRhdGEgc3RydWN0dXJlcyAmbWlkZG90OyBTVEVQIDMuIFJlcGxhY2UgbWFudWFsIGV4cG9ydHMgd2l0aCBpbnRlZ3JhdGlvbiZuYnNwOy4uLkoBYUoCdG9KA2ZvciICEAFIAFgAaAA",
+        "source": "CreatorIQ",
+        "read_more_link": "https://www.google.com/goto?url=CAESrQIBxCJF1wPkS3LG38k2GRkdpfZ1862detnz2VcHMcp3P674SEPSzzVe8vP4-edr2Ys_0SeTgtzHPEdA4mPQ2lLOgTyWK_iJutWxHhluWgjyat46EqkAKRHTKHhaDRJAMkBMtkAb25QbMHUAWvrRWX33IVZys3s3ItN3gNS6WaHACpwYd6e5w1P4jPl4GZs3H9pdTIjONcm72zXhPX3-kNoBFu9HiQjg1l4a4Xgb6uJmvZnnDgF4877Nn03UDu6KPP1pAxbyHb5EwEmsim334EiSGuAH-dcfl0m_KwKmdtBDCt75GspO-lNlGM90x3IbbuKpPG2HoSvXITO8j30lsQJBW7607AKYS8EEeRgJn_GFenbK6DuZAQqENcnVC8qIDpn5Evn2yt2Z_wz857Lr&gsessionid=QZ9JpCkLb9HGUd29MtaNSZnjFB7-MNehmWh24tITsuCcf1S5pWPWLg"
+      },
+      {
+        "position": 9,
+        "title": "How to scale content production: pipeline, workflow, KPIs",
+        "link": "https://www.google.com/goto?url=CAESdQHEIkXX8Gbag6I_uwRBfW3o2EhtBUrxttTPsLezfwQGuMbFn0MIqt27LBNI6zYqaBnX2a1eehmz2lUKiMHTXzuZ8DSn7IpAoknUGFvRpa4TZ6fs_egxLcLji5jASLmcYQus2EXy9uOS5gaSYIzw8ZnEajgTZg",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHEIkXXG3AoeM2Y0O8WJJ06Bkuq-Qv2n6v7nutLEG4r82aJG0G0GkSg4yvxF3UYyvYn_syXonkfXBQQ4k7YeAjhhoaiA_-_mDyStXf-7Y_B6Z2nifQCgGDr7258MOUMoleRmag1uSp5U-Ngeo-zDAmC25mplQ&ved=2ahUKEwiIi9G225uYAxX2mSYFHe2vETcQFnoECDsQAQ&uoh=1",
+        "displayed_link": "https://www.brandeploy.io \u203a en-optimize_content_produ...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAhFBMVEVHcEw4OD44OD44OD44OD44OD44OD44OD44OD44OD44OD44OD44OD44OD42NjxCQ0U4OD4wMDhNWl9JgYVPrK4erasSopZbUDpjwcaNrF2ngCtiq3HmryX9vh7GlSgqKzNmaGuvr7GMjI_x8fH____5-fmQczHAwMLc3N16en8bGySdnaASSQ8ZAAAAEXRSTlMABDhtvOj_Q6ftnCzZ8v__XBReKUUAAAFtSURBVHgBhZPReoIwDEYLQJTiUlvVikNBBAF9__dbEA0V9m3n9j-kIW0E4_lBGAERhYHviRmLZQxMLBeTOFnCBJm4ub-CGSvHCL7gDYLic9b8_TtHjWZjkI1XjaSvjwSYzXa3tzg9ZQmEUpQeDrt9qhAYKYgFAGwOT7b7fXpEcPBpPlQA1faVf2f2Q5Ce8GPojQ2Vp-9P51xrR4kSEQCBqIs0TbNTZotLafJRCUQIPWizE5FZc62qukQ2QhEDoW_P_GxV2TR11RrNfyqg55Zl2flooWuL-72s65IFGARrrVKYl_V1ELqpgD2QP6q6udARjUJXYEgYeKAjRMAMFS4tGfnYZPghXItcF23VshCKYCYoEniawTDqUeiUeVypwjhqT342WVcVaXq8LLFwBEpJaTtAvm5COu_RFIVROXcg-ckNIGqtEXH6sJMYJnCHA976VyNaCyb5Z3HIkH-vHuHLyKkufQ7m678Kg2Rc_x-k8Sv_NFNvrgAAAABJRU5ErkJggg.png",
+        "date": "Nov 13, 2026",
+        "snippet": "How to design a content pipeline that scales: common bottlenecks, workflow and versioning strategies, and how to measure your production's ...",
+        "snippet_highlighted_words": [
+          "How to design a content pipeline that scales"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "How to design a content pipeline that scales: common bottlenecks, workflow and versioning strategies, and how to measure your production's ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESdQHEIkXX8Gbag6I_uwRBfW3o2EhtBUrxttTPsLezfwQGuMbFn0MIqt27LBNI6zYqaBnX2a1eehmz2lUKiMHTXzuZ8DSn7IpAoknUGFvRpa4TZ6fs_egxLcLji5jASLmcYQus2EXy9uOS5gaSYIzw8ZnEajgTZg",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAhFBMVEVHcEw4OD44OD44OD44OD44OD44OD44OD44OD44OD44OD44OD44OD44OD42NjxCQ0U4OD4wMDhNWl9JgYVPrK4erasSopZbUDpjwcaNrF2ngCtiq3HmryX9vh7GlSgqKzNmaGuvr7GMjI_x8fH____5-fmQczHAwMLc3N16en8bGySdnaASSQ8ZAAAAEXRSTlMABDhtvOj_Q6ftnCzZ8v__XBReKUUAAAFtSURBVHgBhZPReoIwDEYLQJTiUlvVikNBBAF9__dbEA0V9m3n9j-kIW0E4_lBGAERhYHviRmLZQxMLBeTOFnCBJm4ub-CGSvHCL7gDYLic9b8_TtHjWZjkI1XjaSvjwSYzXa3tzg9ZQmEUpQeDrt9qhAYKYgFAGwOT7b7fXpEcPBpPlQA1faVf2f2Q5Ce8GPojQ2Vp-9P51xrR4kSEQCBqIs0TbNTZotLafJRCUQIPWizE5FZc62qukQ2QhEDoW_P_GxV2TR11RrNfyqg55Zl2flooWuL-72s65IFGARrrVKYl_V1ELqpgD2QP6q6udARjUJXYEgYeKAjRMAMFS4tGfnYZPghXItcF23VshCKYCYoEniawTDqUeiUeVypwjhqT342WVcVaXq8LLFwBEpJaTtAvm5COu_RFIVROXcg-ckNIGqtEXH6sJMYJnCHA976VyNaCyb5Z3HIkH-vHuHLyKkufQ7m678Kg2Rc_x-k8Sv_NFNvrgAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqwBL2dvdG8_dXJsPUNBRVNkUUhFSWtYWDhHYmFnNklfdXdSQmZXM28yRWh0QlVyeHR0VFBzTGV6ZndRR3VNYkZuME1JcXQyN0xCTkk2ellxYUJuWDJhMWVlaG16MmxVS2lNSFRYenVaOERTbjdJcEFva25VR0Z2UnBhNFRaNmZzX2VneExjTGppNWpBU0xtY1lRdXMyRVh5OXVPUzVnYVNZSXp3OFpuRWFqZ1RaZxIEGgIIABqCBxIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDeBggAEAAYACAAKhYKA2hvdxW-5ClAGgNkaXkaBXBsYW5zKgkKAnRvFQAAAAAqbAoFYnVpbGQVoQXPPhoIYnVpbGRpbmcaCWNvbnN0cnVjdBoIY3JlYXRpbmcaB2RldmVsb3AaA2RpeRoLZG8geW91IG1ha2UaCWVzdGFibGlzaBoEZm9ybRoEbWFrZRoGbWFraW5nGgVwbGFucyoICgFhFQAAAAAqOwoIc2NhbGFibGUV3HsNPxoLc2NhbGFiaWxpdHkaB3NjYWxpbmcaDWl2O3A7c2NhbGFibGUaBXNjYWxlKl8KCmNyZWF0b3JvcHMVAAAAABoLY3JlYXRvciBvcHMaC2NyZWF0byByb3BzGgljcmVhdG9yb3AaD2l2O3A7Y3JlYXRvcm9wcxoIY3JlYXRvcnMaDGNyZWF0aXZlIG9wcyo0CghwaXBlbGluZRUAANI_GglwaXBlIGxpbmUaCXBpcGVsaW5lcxoNaXY7cDtwaXBlbGluZSoKCgNmb3IVAAAAACoICgFhFQAAAAAqMQoFYnJhbmQVCqbSPxoIYnJhbmRpbmcaBmJyYW5kcxoIYnVzaW5lc3MaB2NvbXBhbnkyrAEvZ290bz91cmw9Q0FFU2RRSEVJa1hYOEdiYWc2SV91d1JCZlczbzJFaHRCVXJ4dHRUUHNMZXpmd1FHdU1iRm4wTUlxdDI3TEJOSTZ6WXFhQm5YMmExZWVobXoybFVLaU1IVFh6dVo4RFNuN0lwQW9rblVHRnZScGE0VFo2ZnNfZWd4TGNMamk1akFTTG1jWVF1czJFWHk5dU9TNWdhU1lJenc4Wm5FYWpnVFpnOkBIb3cgdG8gc2NhbGUgY29udGVudCBwcm9kdWN0aW9uOiA8Yj5waXBlbGluZTwvYj4sIHdvcmtmbG93LCBLUElzQp4BPGI-SG93IHRvIGRlc2lnbiBhIGNvbnRlbnQgcGlwZWxpbmUgdGhhdCBzY2FsZXM8L2I-OiBjb21tb24gYm90dGxlbmVja3MsIHdvcmtmbG93IGFuZCB2ZXJzaW9uaW5nIHN0cmF0ZWdpZXMsIGFuZCBob3cgdG8gbWVhc3VyZSB5b3VyIHByb2R1Y3Rpb24mIzM5O3MmbmJzcDsuLi5KAWFKAnRvSgNmb3IiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqwBL2dvdG8_dXJsPUNBRVNkUUhFSWtYWDhHYmFnNklfdXdSQmZXM28yRWh0QlVyeHR0VFBzTGV6ZndRR3VNYkZuME1JcXQyN0xCTkk2ellxYUJuWDJhMWVlaG16MmxVS2lNSFRYenVaOERTbjdJcEFva25VR0Z2UnBhNFRaNmZzX2VneExjTGppNWpBU0xtY1lRdXMyRVh5OXVPUzVnYVNZSXp3OFpuRWFqZ1RaZxIEGgIIABqCBxIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDeBggAEAAYACAAKhYKA2hvdxW-5ClAGgNkaXkaBXBsYW5zKgkKAnRvFQAAAAAqbAoFYnVpbGQVoQXPPhoIYnVpbGRpbmcaCWNvbnN0cnVjdBoIY3JlYXRpbmcaB2RldmVsb3AaA2RpeRoLZG8geW91IG1ha2UaCWVzdGFibGlzaBoEZm9ybRoEbWFrZRoGbWFraW5nGgVwbGFucyoICgFhFQAAAAAqOwoIc2NhbGFibGUV3HsNPxoLc2NhbGFiaWxpdHkaB3NjYWxpbmcaDWl2O3A7c2NhbGFibGUaBXNjYWxlKl8KCmNyZWF0b3JvcHMVAAAAABoLY3JlYXRvciBvcHMaC2NyZWF0byByb3BzGgljcmVhdG9yb3AaD2l2O3A7Y3JlYXRvcm9wcxoIY3JlYXRvcnMaDGNyZWF0aXZlIG9wcyo0CghwaXBlbGluZRUAANI_GglwaXBlIGxpbmUaCXBpcGVsaW5lcxoNaXY7cDtwaXBlbGluZSoKCgNmb3IVAAAAACoICgFhFQAAAAAqMQoFYnJhbmQVCqbSPxoIYnJhbmRpbmcaBmJyYW5kcxoIYnVzaW5lc3MaB2NvbXBhbnkyrAEvZ290bz91cmw9Q0FFU2RRSEVJa1hYOEdiYWc2SV91d1JCZlczbzJFaHRCVXJ4dHRUUHNMZXpmd1FHdU1iRm4wTUlxdDI3TEJOSTZ6WXFhQm5YMmExZWVobXoybFVLaU1IVFh6dVo4RFNuN0lwQW9rblVHRnZScGE0VFo2ZnNfZWd4TGNMamk1akFTTG1jWVF1czJFWHk5dU9TNWdhU1lJenc4Wm5FYWpnVFpnOkBIb3cgdG8gc2NhbGUgY29udGVudCBwcm9kdWN0aW9uOiA8Yj5waXBlbGluZTwvYj4sIHdvcmtmbG93LCBLUElzQp4BPGI-SG93IHRvIGRlc2lnbiBhIGNvbnRlbnQgcGlwZWxpbmUgdGhhdCBzY2FsZXM8L2I-OiBjb21tb24gYm90dGxlbmVja3MsIHdvcmtmbG93IGFuZCB2ZXJzaW9uaW5nIHN0cmF0ZWdpZXMsIGFuZCBob3cgdG8gbWVhc3VyZSB5b3VyIHByb2R1Y3Rpb24mIzM5O3MmbmJzcDsuLi5KAWFKAnRvSgNmb3IiAhABSABYAGgA",
+        "source": "Brandeploy"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=How+to+build+a+scalable+CreatorOps+pipeline+for+a+brand&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhJdiwV6DoNJ7yAzm1vWiKoYxvN-w:1795355231674&ei=X_ICa8jfKPazmtkP7d_GuAM&start=10&sa=N&sstk=AYl2yk9MWWj0BVajCHLwNvVT1HLRKLzIA2WV2Qu6YW6sjEcWij-k-YjFTuM9v7e3_-XeG8MndCUsjZv3Gm25hYx0i2QzZV637mHWSA&ved=2ahUKEwiIi9G225uYAxX2mSYFHe2vETcQ8NMDegQIOhAQ",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=How+to+build+a+scalable+CreatorOps+pipeline+for+a+brand&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhJdiwV6DoNJ7yAzm1vWiKoYxvN-w:1795355231674&ei=X_ICa8jfKPazmtkP7d_GuAM&start=10&sa=N&sstk=AYl2yk9MWWj0BVajCHLwNvVT1HLRKLzIA2WV2Qu6YW6sjEcWij-k-YjFTuM9v7e3_-XeG8MndCUsjZv3Gm25hYx0i2QzZV637mHWSA&ved=2ahUKEwiIi9G225uYAxX2mSYFHe2vETcQ8tMDegQIOhAE",
+        "3": "https://www.google.com/search?q=How+to+build+a+scalable+CreatorOps+pipeline+for+a+brand&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhJdiwV6DoNJ7yAzm1vWiKoYxvN-w:1795355231674&ei=X_ICa8jfKPazmtkP7d_GuAM&start=20&sa=N&sstk=AYl2yk9MWWj0BVajCHLwNvVT1HLRKLzIA2WV2Qu6YW6sjEcWij-k-YjFTuM9v7e3_-XeG8MndCUsjZv3Gm25hYx0i2QzZV637mHWSA&ved=2ahUKEwiIi9G225uYAxX2mSYFHe2vETcQ8tMDegQIOhAG",
+        "4": "https://www.google.com/search?q=How+to+build+a+scalable+CreatorOps+pipeline+for+a+brand&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhJdiwV6DoNJ7yAzm1vWiKoYxvN-w:1795355231674&ei=X_ICa8jfKPazmtkP7d_GuAM&start=30&sa=N&sstk=AYl2yk9MWWj0BVajCHLwNvVT1HLRKLzIA2WV2Qu6YW6sjEcWij-k-YjFTuM9v7e3_-XeG8MndCUsjZv3Gm25hYx0i2QzZV637mHWSA&ved=2ahUKEwiIi9G225uYAxX2mSYFHe2vETcQ8tMDegQIOhAI",
+        "5": "https://www.google.com/search?q=How+to+build+a+scalable+CreatorOps+pipeline+for+a+brand&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhJdiwV6DoNJ7yAzm1vWiKoYxvN-w:1795355231674&ei=X_ICa8jfKPazmtkP7d_GuAM&start=40&sa=N&sstk=AYl2yk9MWWj0BVajCHLwNvVT1HLRKLzIA2WV2Qu6YW6sjEcWij-k-YjFTuM9v7e3_-XeG8MndCUsjZv3Gm25hYx0i2QzZV637mHWSA&ved=2ahUKEwiIi9G225uYAxX2mSYFHe2vETcQ8tMDegQIOhAK",
+        "6": "https://www.google.com/search?q=How+to+build+a+scalable+CreatorOps+pipeline+for+a+brand&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhJdiwV6DoNJ7yAzm1vWiKoYxvN-w:1795355231674&ei=X_ICa8jfKPazmtkP7d_GuAM&start=50&sa=N&sstk=AYl2yk9MWWj0BVajCHLwNvVT1HLRKLzIA2WV2Qu6YW6sjEcWij-k-YjFTuM9v7e3_-XeG8MndCUsjZv3Gm25hYx0i2QzZV637mHWSA&ved=2ahUKEwiIi9G225uYAxX2mSYFHe2vETcQ8tMDegQIOhAM",
+        "7": "https://www.google.com/search?q=How+to+build+a+scalable+CreatorOps+pipeline+for+a+brand&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDhJdiwV6DoNJ7yAzm1vWiKoYxvN-w:1795355231674&ei=X_ICa8jfKPazmtkP7d_GuAM&start=60&sa=N&sstk=AYl2yk9MWWj0BVajCHLwNvVT1HLRKLzIA2WV2Qu6YW6sjEcWij-k-YjFTuM9v7e3_-XeG8MndCUsjZv3Gm25hYx0i2QzZV637mHWSA&ved=2ahUKEwiIi9G225uYAxX2mSYFHe2vETcQ8tMDegQIOhAO"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+build+a+scalable+CreatorOps+pipeline+for+a+brand&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+build+a+scalable+CreatorOps+pipeline+for+a+brand&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+build+a+scalable+CreatorOps+pipeline+for+a+brand&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+build+a+scalable+CreatorOps+pipeline+for+a+brand&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+build+a+scalable+CreatorOps+pipeline+for+a+brand&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+build+a+scalable+CreatorOps+pipeline+for+a+brand&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+build+a+scalable+CreatorOps+pipeline+for+a+brand&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+build+a+scalable+CreatorOps+pipeline+for+a+brand&start=60"
+      }
+    }
+  },
+  "error_details": null
+}

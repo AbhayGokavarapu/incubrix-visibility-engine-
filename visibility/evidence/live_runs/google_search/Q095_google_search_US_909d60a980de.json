@@ -1,0 +1,547 @@
+{
+  "measurement_id": "909d60a980de",
+  "question_id": "Q095",
+  "timestamp_utc": "2026-11-22T13:51:24.314900+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "Best tools to translate video voiceovers while keeping the original voice tone",
+  "market": "US",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://www.canva.com/features/ai-video-translator/",
+    "https://www.reddit.com/r/TextToSpeech/comments/1perksv/anyone_tried_ai_tools_for_translating_and_dubbing/",
+    "https://www.google.com/goto?url=CAESXQHEIkXXldHqViF1yrg4EH0yWHuk1KuCZFH2BlHLc_LkpPQcb198lwLF_UC1lHgum70OUCFnALiJjNRWzYX4uqK1VnIv8JjPgIy7K26Da6YTRlEeGblhwXmU0vT-Jw",
+    "https://www.google.com/goto?url=CAESbwHEIkXXvMD9kUXb9he7W9TOt-PgMAYvTgTMUMiV8uANJ6vsUk3RNd5m8IxT60jG0uLqA4rIW-xD2YRO5luw3_JLWrt3a1WMo9SR0NkLBxn3fmtbOLEZN23I29KfzZOj3DCwdtHQnTBNjYN5oPVkBw",
+    "https://www.google.com/goto?url=CAESaAHEIkXXMnfMxWXOPXtdHHQ2AlusYkqfkNSfUDyR7F5TDvkiBz6-SKbbsjsP2P5jQwNNusHHuLy0IPLoeDkQ69zl3USM48unAftINWZ2GleEIC3W-GV91JKuWrhqapZwggNFkOAqL_74",
+    "https://www.google.com/goto?url=CAESaAHEIkXXYBSu_FMt5csGLU5v4yCgXYLH1L4Z3BtNPsVBxxOel4734y5riyAx2BuZZaT6h6ZK4LeKNdXNIp-u15f3yjFhKadVYZ_o5axk-sHGs8eLkj8w8PCM5Tk25r1WYZVkcR4rpfAw",
+    "https://www.google.com/goto?url=CAESZAHEIkXXptqn_AKjuua_KDVU5Td6HVzrAlu-Rm_KbklLFCnMmWKaiLzQ5oA6slntmLd5HUbFujV76FvDvFSSGAXXEN40-ojfV48i7yLobAtE7uQS15AUTwe4ocXbpJu8I0MMl0k",
+    "https://www.google.com/goto?url=CAESgQEBxCJF16_fZC4pTbmLVmfzkNmRK8husB7BNGRAy7KTwegt0bfJ6IYWE7deJPxhPoojinDgLWHgCF4csASbRf-cwSei6-cFtMaFcNbf6zV5kEtrKUzFxxqR-Pz2LxyMBCX-qo3v7UzgnDL7hIJmVUZVVK3eBX0WB5ZeXO9AzxSOJz4",
+    "https://www.google.com/goto?url=CAEScwHEIkXXcSRCUqqucPgUQXwrGWGfdyy2cYKxUIK15ruqf-YFxOAn_hIrmBxig76y-EHXwv2WjaaHaQjRGP4KKnLMqpKyrdECI6-1qiktEHS9ga0Ej17YD4_6nER903htjK71XgvuiBpMdvpIa2yPLLa12aE"
+  ],
+  "raw_text_summary": "Translate a video with AI Instantly translate videos using AI while keeping the original voice quality and personality intact\u2014no more lengthy post-production or complex video translation ... Anyone tried AI tools for translating and dubbing videos ... I have been diving into AI-powered tools to make my videos accessible to global audiences. One of the features I have tried recently is AI-driven text-to-speech ... AI Video Translator : Translate Videos into 175+ Languages Upload any video or paste a YouTube link, and HeyGen will translate it into 175+ languages, preserving the original speaker's voice, lip movements, and ... FREE AI Video Translator in 140+ Languages Translate videos in any language and accent while preserving each speaker's voice with perfect lip-sync. For free. AI Video Translator: Subtitles and Dubbing Translate video into 280+ languages. Subtitles, dubbing or voice-over from one upload \u2014 edit the transcript once and every language follows. AI Video Translator - Translate Video Languages Online Free Free to translate videos into other languages with dubbed audio, subtitles, or audio-only output. Edit the script, speakers, timing, and voice before ... Video Translator \u2014 Translate, Dub, And Lip Sync With AI Translate your video's spoken audio into another language and generate an AI voiceover that fits the original delivery. Choose from 180+ AI voices or clone the ... Translate Video for Free with AI | Adobe Firefly Adobe Firefly includes a Translate Video feature that uses AI to translate and dub spoken content in videos into over 15 languages, keeping the original voice ... 10 Best Video Translator Tools for Business (2026) | ngram.com Smartcat creates timed transcripts from uploaded media, translates them, and renders subtitles or dubbed voiceover. Its Subtitle Editor supports ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f35a5fa7b7f070790b2c",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/ZyAxtiUcjfZN1NbWxyZjmGXZ-9K0gccYQ60OCT5WQvo/6b02f35a5fa7b7f070790b2c.json",
+      "markdown_endpoint": "https://serpapi.com/searches/ZyAxtiUcjfZN1NbWxyZjmGXZ-9K0gccYQ60OCT5WQvo/6b02f35a5fa7b7f070790b2c.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/ZyAxtiUcjfZN1NbWxyZjmGXZ-9K0gccYQ60OCT5WQvo/6b02f35a5fa7b7f070790b2c.json_with_pixel_position",
+      "created_at": "2026-11-22 13:51:22 UTC",
+      "processed_at": "2026-11-22 13:51:22 UTC",
+      "google_url": "https://www.google.com/search?q=Best+tools+to+translate+video+voiceovers+while+keeping+the+original+voice+tone&oq=Best+tools+to+translate+video+voiceovers+while+keeping+the+original+voice+tone&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/ZyAxtiUcjfZN1NbWxyZjmGXZ-9K0gccYQ60OCT5WQvo/6b02f35a5fa7b7f070790b2c.html",
+      "total_time_taken": 0.91
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "Best tools to translate video voiceovers while keeping the original voice tone",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "Best tools to translate video voiceovers while keeping the original voice tone",
+      "total_results": 126,
+      "time_taken_displayed": 0.24,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "ads": [
+      {
+        "position": 1,
+        "block_position": "bottom",
+        "title": "Free Video Dubbing Tool (120+ languages)",
+        "link": "https://www.google.com/goto?url=CAESfAHEIkXXKoJLM-jLncdE0wFHMm0SKG8A-rM1rXUclrJg5r4JFhb44jDmVZF86PdHAn6uJliIf7H_1ocoGcwVHPd5WH_GRwaJ_CvQchBWYvDkOuJbKEdo2iK-jLuUpFbOGwK-Z1_5lj3vwUrxqkqR0zrUHQrjdv_v46xiLyk&gsessionid=uwCT8_xTN3k3XKeuVfDqX8UDGgl0o1pTKkjUXBk57pbqtK11oBDwtA",
+        "displayed_link": "https://www.trupeer.ai",
+        "thumbnail": "https://serpapi.com/searches/6b02f35a5fa7b7f070790b2c/images/FGwNmkBO7hGIVuSUI3vamA.jpg",
+        "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwimgbOu3JuYAxU0358JHfH9NAQYACICCAIQBRoCbWQ&co=1&ase=2&gclid=EAIaIQobChMIpoGzrtybmAMVNN-fCR3x_TQEEAMYASACEgIJlvD_BwE&cid=CAASugHkaO1jFU1P6xNFp5prbx4QJ-tvNDWiksNUEF-k5MhsaVFAutdxyTE6Qq8V-qYMFQCyWKxRxECnA1TMqqzAIOVieiBprfKm02SLb9EAyETiIEIgRHsiqWEUeGsHRTnUlUiAEM4H2hmBMEkx2_15NqNxjz_xekH5Or2wlr1crJPqsOa9BefU15d5PyMosbp8lC4nYDJeWvZk63Au_HqNCLsCwlCXq9Y94CeQa1FhORTns0gae-7WcMcE-qU&cce=2&category=acrcp_v1_32&sig=AOD64_289Z4Cy4qv93Wg0DIWf_VuHiEzLA&q=&nis=4&ved=2ahUKEwjMjayu3JuYAxUmvokEHdY1NGgQh78CegQIXRAB&adurl=",
+        "description": "Dub your videos into any language with realistic AI voices. Rating 4.9/5. Trusted by 10000+ teams. No credit card required. Sign up for Free. Brands: Trusted by...",
+        "extensions": [
+          "100K+ visits in past month"
+        ],
+        "source": "Trupeer.ai",
+        "sitelinks": [
+          {
+            "title": "No recording studio or editing skills",
+            "link": "https://www.google.com/aclk?sa=L&ai=DChsSEwimgbOu3JuYAxU0358JHfH9NAQYACICCAIQBxoCbWQ&co=1&ase=2&gclid=EAIaIQobChMIpoGzrtybmAMVNN-fCR3x_TQEEAMYASADEgJqYfD_BwE&cid=CAASugHkaO1jFU1P6xNFp5prbx4QJ-tvNDWiksNUEF-k5MhsaVFAutdxyTE6Qq8V-qYMFQCyWKxRxECnA1TMqqzAIOVieiBprfKm02SLb9EAyETiIEIgRHsiqWEUeGsHRTnUlUiAEM4H2hmBMEkx2_15NqNxjz_xekH5Or2wlr1crJPqsOa9BefU15d5PyMosbp8lC4nYDJeWvZk63Au_HqNCLsCwlCXq9Y94CeQa1FhORTns0gae-7WcMcE-qU&cce=2&category=acrcp_v1_32&sig=AOD64_00IFXB9wRxFcCIqFel_PZ2TAw5ZQ&adurl=&q="
+          },
+          {
+            "title": "Dub your videos into any language",
+            "link": "https://www.google.com/aclk?sa=L&ai=DChsSEwimgbOu3JuYAxU0358JHfH9NAQYACICCAIQCRoCbWQ&co=1&ase=2&gclid=EAIaIQobChMIpoGzrtybmAMVNN-fCR3x_TQEEAMYASAEEgKwZPD_BwE&cid=CAASugHkaO1jFU1P6xNFp5prbx4QJ-tvNDWiksNUEF-k5MhsaVFAutdxyTE6Qq8V-qYMFQCyWKxRxECnA1TMqqzAIOVieiBprfKm02SLb9EAyETiIEIgRHsiqWEUeGsHRTnUlUiAEM4H2hmBMEkx2_15NqNxjz_xekH5Or2wlr1crJPqsOa9BefU15d5PyMosbp8lC4nYDJeWvZk63Au_HqNCLsCwlCXq9Y94CeQa1FhORTns0gae-7WcMcE-qU&cce=2&category=acrcp_v1_32&sig=AOD64_1Oc_nEEB8TDKYF8q1EkuCJPMqWvw&adurl=&q="
+          },
+          {
+            "title": "Global Video Translation",
+            "link": "https://www.google.com/goto?url=CAESXwHEIkXXnpGBIaLntchlqzmOlzBph-5IcMzjdYpXVUR6zGXQzKhmQpV4xu6ibvQtGtwi1FDVHNZLAurIKC5-eEIbC93mt8-FyqjNTNdMk80aM8HCtyQuuaShb4CAnyTz&gsessionid=uwCT8_xTN3k3XKeuVfDqX8UDGgl0o1pTKkjUXBk57pbqtK11oBDwtA"
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "block_position": "bottom",
+        "title": "Try AI voice cloning today - Video translator",
+        "link": "https://www.google.com/goto?url=CAESaQHEIkXXZvLWxeNBd9ksYnAUI2DHdG2BQ2-34fFv6L60bbNor80pdcxtiR4ThsPuI0liqzrLLTiMsxNhEG7ykRnjXpf8sqaMDsVAks4_Vok_wbISiN67D6Cc74QNiZYclazojJ1HnI-zoA&gsessionid=uwCT8_xTN3k3XKeuVfDqX8UDGgl0o1pTKkjUXBk57pbqtK11oBDwtA",
+        "displayed_link": "https://www.riverside.com",
+        "thumbnail": "https://serpapi.com/searches/6b02f35a5fa7b7f070790b2c/images/PsGjgRZe3hTaL7CI3x-P5w.png",
+        "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwimgbOu3JuYAxU0358JHfH9NAQYACICCAIQBhoCbWQ&co=1&ase=2&gclid=EAIaIQobChMIpoGzrtybmAMVNN-fCR3x_TQEEAMYAiADEgLDB_D_BwE&cid=CAASugHkaO1jFU1P6xNFp5prbx4QJ-tvNDWiksNUEF-k5MhsaVFAutdxyTE6Qq8V-qYMFQCyWKxRxECnA1TMqqzAIOVieiBprfKm02SLb9EAyETiIEIgRHsiqWEUeGsHRTnUlUiAEM4H2hmBMEkx2_15NqNxjz_xekH5Or2wlr1crJPqsOa9BefU15d5PyMosbp8lC4nYDJeWvZk63Au_HqNCLsCwlCXq9Y94CeQa1FhORTns0gae-7WcMcE-qU&cce=2&category=acrcp_v1_32&sig=AOD64_07uc9KRodYs9tJASOH2DN_4HcI4w&q=&nis=4&ved=2ahUKEwjMjayu3JuYAxUmvokEHdY1NGgQh78CegQIXBAB&adurl=",
+        "description": "dub your videos into 30 languages with ai voice cloning. riverside preserves your real voice, tone, and emotion. record, translate, and edit in one studio.",
+        "extensions": [
+          "1M+ visits in past month"
+        ],
+        "source": "Riverside",
+        "sitelinks": [
+          {
+            "title": "Live Streaming in Full HD",
+            "link": "https://www.google.com/goto?url=CAESXQHEIkXXxbMoz1tOcJXtSp7n3cE-7HllMlgtAdHnsZznSsOIh1rLva8-gwGHWy7xaVjFWA-eM0dnGY0C2z7fvjAi-YqeVgSd8agskWf7nK8cPbD0YyjS76Gujt480w&gsessionid=uwCT8_xTN3k3XKeuVfDqX8UDGgl0o1pTKkjUXBk57pbqtK11oBDwtA"
+          },
+          {
+            "title": "video translator | translate videos in one click",
+            "link": "https://www.google.com/aclk?sa=L&ai=DChsSEwimgbOu3JuYAxU0358JHfH9NAQYACICCAIQCBoCbWQ&co=1&ase=2&gclid=EAIaIQobChMIpoGzrtybmAMVNN-fCR3x_TQEEAMYAiAEEgIhG_D_BwE&cid=CAASugHkaO1jFU1P6xNFp5prbx4QJ-tvNDWiksNUEF-k5MhsaVFAutdxyTE6Qq8V-qYMFQCyWKxRxECnA1TMqqzAIOVieiBprfKm02SLb9EAyETiIEIgRHsiqWEUeGsHRTnUlUiAEM4H2hmBMEkx2_15NqNxjz_xekH5Or2wlr1crJPqsOa9BefU15d5PyMosbp8lC4nYDJeWvZk63Au_HqNCLsCwlCXq9Y94CeQa1FhORTns0gae-7WcMcE-qU&cce=2&category=acrcp_v1_32&sig=AOD64_0xJ1_neYJw6O0KpYXK5zVRZc9aaA&adurl=&q="
+          },
+          {
+            "title": "AI Chat-Based Editing",
+            "link": "https://www.google.com/goto?url=CAESXQHEIkXXZPLMPNm5gll002pM5gFsqUKyNxhfD-B37stGFH6qhi6TbLo30P96ZCfhgYetrll47kqqchc52zjunhNYYbKxYU1KvZafuzsBEKTUxT-uskoOuZjfJY4DuQ&gsessionid=uwCT8_xTN3k3XKeuVfDqX8UDGgl0o1pTKkjUXBk57pbqtK11oBDwtA"
+          }
+        ]
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "How to translate a voice from video?",
+        "type": "ai_overview",
+        "page_token": "qjn_YXicHdBLUoMwAADQ0cO4tHzaOnam44gkFqakTSAJsHEgKaUlfLSxlC49iysP4wG8hhfwc4C3eW_vatdUXxfHUuvuMBuN-r6_3rbtVm2uRVuPssPQiJHIlMozUc2mN1PzrhBz8Oo5D8-egykBiZKKRw4M4f05N1TIYdlw2o-RMVlTA_pJLCacn6zcTDGvkYUMbwirtpeGZMwlHoF-FNG0WTKlVo9qWEG0ThUcqOtZGxdRYt4eURT8-q7IbTyIWsOw6s8sNMzEEOe8VppCH0eqcxk9gYyPx8yVRPLbbElZQV1yCprUk7Ad5yZ0aAMBrkgkmH8OGoT-XAq0RSx_j-J0jYyTDUoZy8p0k6icInCwkn3ZSwhxEDOLxpJw0u4wLVcBoDbZAy0t0yRMNtGCpBQ6trDhYsn1Ai2ckMXdEuOrQhzn9tX_5_ypqPWse2m3H-Jlk-mNfMr0Z3X5nf4AWMGINg",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=qjn_YXicHdBLUoMwAADQ0cO4tHzaOnam44gkFqakTSAJsHEgKaUlfLSxlC49iysP4wG8hhfwc4C3eW_vatdUXxfHUuvuMBuN-r6_3rbtVm2uRVuPssPQiJHIlMozUc2mN1PzrhBz8Oo5D8-egykBiZKKRw4M4f05N1TIYdlw2o-RMVlTA_pJLCacn6zcTDGvkYUMbwirtpeGZMwlHoF-FNG0WTKlVo9qWEG0ThUcqOtZGxdRYt4eURT8-q7IbTyIWsOw6s8sNMzEEOe8VppCH0eqcxk9gYyPx8yVRPLbbElZQV1yCprUk7Ad5yZ0aAMBrkgkmH8OGoT-XAq0RSx_j-J0jYyTDUoZy8p0k6icInCwkn3ZSwhxEDOLxpJw0u4wLVcBoDbZAy0t0yRMNtGCpBQ6trDhYsn1Ai2ckMXdEuOrQhzn9tX_5_ypqPWse2m3H-Jlk-mNfMr0Z3X5nf4AWMGINg",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVZFeE5jMXBaUTNKMk1IazFUa2RsVlZkTlJrRnliSFZXYTFWc2FqVlNTVXBxWDNWcVRreEtSRkpST1ZONk5YbFpkMlJXUWs5NmNIZFJSemxtUlhOUGRHTnhkMVJGUlZwaWJVVmtNVWN3VjNoSlYwVlVZV3QxZFdJNVp4SVhWM1pOUTJFNGVqUkxObUk0Y0hSUlVERjFkbEYzVVZrYUlrRklUakJGTjBWM1dGZzFkWE5sTldZNGNqTmtVbFJXTWtOMWIzZGxZMWRUZFhjIiwiZmN2IjoiMyIsImVpIjoiV3ZNQ2E4ejRLNmI4cHRRUDF1dlF3UVkiLCJxYyI6ImN5WExzUTJBTUF3RlVXb2FHTUVEc0FNYnNFT0FyOFRDc2xGc2hZcmRpVVJ6MWJ0eDItRkJZU2JlUzFHVHVxUUFOVDVoMUl3UFdFTjFlZ29MNkFKdTFreFJRRlk1c3liNVZkOFY4X0F1NjdSLSIsInF1ZXN0aW9uIjoiSG93IHRvIHRyYW5zbGF0ZSBhIHZvaWNlIGZyb20gdmlkZW8/IiwibGsiOiJHaU5vYjNjZ2RHOGdkSEpoYm5Oc1lYUmxJR0VnZG05cFkyVWdabkp2YlNCMmFXUmxidyIsImJzIjoiYzUzUXNRckNNQkFHWUZ4dmNzNTBZRnYzVHRLbFNBZGRSQVZmNEtqWE5wZ21JUW10Zlh2VHJRNUZjRGs0LVA3ai1PRUN5ZG1NR0F3R1I5b3JDb3lFZzVFMVktTk1qNE44c2luelZPeTYzdzdlVUJ3ZFktZzRUdElUa3JVLXJoUVd1YWQwWEFjMTRkaEp4ZWd0MDB2cXRzd0xjWkQtdnpCY0lhMUlZeFgxNmZiNF9uSi1EUnZqc09jeXowUlNSMWhIMk5xd0N1RU8yV296VXFOalVoamtmSEV2MHRWdWxuSzctUUEiLCJpZCI6ImZjX1d2TUNhOHo0SzZiOHB0UVAxdXZRd1FZXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVZFeE5jMXBaUTNKMk1IazFUa2RsVlZkTlJrRnliSFZXYTFWc2FqVlNTVXBxWDNWcVRreEtSRkpST1ZONk5YbFpkMlJXUWs5NmNIZFJSemxtUlhOUGRHTnhkMVJGUlZwaWJVVmtNVWN3VjNoSlYwVlVZV3QxZFdJNVp4SVhWM1pOUTJFNGVqUkxObUk0Y0hSUlVERjFkbEYzVVZrYUlrRklUakJGTjBWM1dGZzFkWE5sTldZNGNqTmtVbFJXTWtOMWIzZGxZMWRUZFhjIiwiZmN2IjoiMyIsImVpIjoiV3ZNQ2E4ejRLNmI4cHRRUDF1dlF3UVkiLCJxYyI6ImN5WExzUTJBTUF3RlVXb2FHTUVEc0FNYnNFT0FyOFRDc2xGc2hZcmRpVVJ6MWJ0eDItRkJZU2JlUzFHVHVxUUFOVDVoMUl3UFdFTjFlZ29MNkFKdTFreFJRRlk1c3liNVZkOFY4X0F1NjdSLSIsInF1ZXN0aW9uIjoiSG93IHRvIHRyYW5zbGF0ZSBhIHZvaWNlIGZyb20gdmlkZW8%2FIiwibGsiOiJHaU5vYjNjZ2RHOGdkSEpoYm5Oc1lYUmxJR0VnZG05cFkyVWdabkp2YlNCMmFXUmxidyIsImJzIjoiYzUzUXNRckNNQkFHWUZ4dmNzNTBZRnYzVHRLbFNBZGRSQVZmNEtqWE5wZ21JUW10Zlh2VHJRNUZjRGs0LVA3ai1PRUN5ZG1NR0F3R1I5b3JDb3lFZzVFMVktTk1qNE44c2luelZPeTYzdzdlVUJ3ZFktZzRUdElUa3JVLXJoUVd1YWQwWEFjMTRkaEp4ZWd0MDB2cXRzd0xjWkQtdnpCY0lhMUlZeFgxNmZiNF9uSi1EUnZqc09jeXowUlNSMWhIMk5xd0N1RU8yV296VXFOalVoamtmSEV2MHRWdWxuSzctUUEiLCJpZCI6ImZjX1d2TUNhOHo0SzZiOHB0UVAxdXZRd1FZXzUifQ%3D%3D"
+      },
+      {
+        "question": "Are there any apps that translate directly while speaking?",
+        "type": "ai_overview",
+        "page_token": "FnzqM3icHdBRbpswGABgbYfpY2NDkimRomkpuAkdjjD2b_BLRW0SCHbIgJbQxx1hZ9jTDrMD7Bq7wKR9R_i-_7T1pfnz4Uc1DNd-PZuN43h_atuTLe9162ZFP130TBfWvhS6WS8_LfHno96Eb3r70OltIliYW2NljeY8xQELtC9tjGOyglKo1JwZV4i9A4Fbzs0-3UXWONaJgFjqR1xnpoPdfqFcg3KoRBFYgIzAYZcPAjVzQKaGLOrTZo9pyIjmsU-bqOUkWVC8yg1hnXSqFkHVK38bgFMePF4fFEpuVFJXNJUnpUbMsUcqoikNLY3P0VhKUJJEvZpwT71FCD5VhVvVEOK58iJcyuEpRngBfP9-CMRIOX1N3G16sV9QWJnMNDjIebWkYe_l52o0hCRxBp7IDJOsrRNRHeJQ-Myyb0bcmJbEJRJqlkVftX-amIAjBOSiLHsy491Rv238u__Xm-ejG9bXrj390l1ZDKV5Lobfzce_6h-gxpJy",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=FnzqM3icHdBRbpswGABgbYfpY2NDkimRomkpuAkdjjD2b_BLRW0SCHbIgJbQxx1hZ9jTDrMD7Bq7wKR9R_i-_7T1pfnz4Uc1DNd-PZuN43h_atuTLe9162ZFP130TBfWvhS6WS8_LfHno96Eb3r70OltIliYW2NljeY8xQELtC9tjGOyglKo1JwZV4i9A4Fbzs0-3UXWONaJgFjqR1xnpoPdfqFcg3KoRBFYgIzAYZcPAjVzQKaGLOrTZo9pyIjmsU-bqOUkWVC8yg1hnXSqFkHVK38bgFMePF4fFEpuVFJXNJUnpUbMsUcqoikNLY3P0VhKUJJEvZpwT71FCD5VhVvVEOK58iJcyuEpRngBfP9-CMRIOX1N3G16sV9QWJnMNDjIebWkYe_l52o0hCRxBp7IDJOsrRNRHeJQ-Myyb0bcmJbEJRJqlkVftX-amIAjBOSiLHsy491Rv238u__Xm-ejG9bXrj390l1ZDKV5Lobfzce_6h-gxpJy",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVZFeE5jMXBaUTNKMk1IazFUa2RsVlZkTlJrRnliSFZXYTFWc2FqVlNTVXBxWDNWcVRreEtSRkpST1ZONk5YbFpkMlJXUWs5NmNIZFJSemxtUlhOUGRHTnhkMVJGUlZwaWJVVmtNVWN3VjNoSlYwVlVZV3QxZFdJNVp4SVhWM1pOUTJFNGVqUkxObUk0Y0hSUlVERjFkbEYzVVZrYUlrRklUakJGTjBWM1dGZzFkWE5sTldZNGNqTmtVbFJXTWtOMWIzZGxZMWRUZFhjIiwiZmN2IjoiMyIsImVpIjoiV3ZNQ2E4ejRLNmI4cHRRUDF1dlF3UVkiLCJxYyI6ImN5WExzUTJBTUF3RlVXb2FHTUVEc0FNYnNFT0FyOFRDc2xGc2hZcmRpVVJ6MWJ0eDItRkJZU2JlUzFHVHVxUUFOVDVoMUl3UFdFTjFlZ29MNkFKdTFreFJRRlk1c3liNVZkOFY4X0F1NjdSLSIsInF1ZXN0aW9uIjoiQXJlIHRoZXJlIGFueSBhcHBzIHRoYXQgdHJhbnNsYXRlIGRpcmVjdGx5IHdoaWxlIHNwZWFraW5nPyIsImxrIjoiY3hYSHdRbUFRQXdFd0Q1OGJSbTJzLWh5Rnd6aFNBSnkzWXZ6bS1PMFFrLWx3TmpnV25fWjZHU1VzNFhiVWxmN3hqdk5oVnJpWXpFLSIsImJzIjoiYzUzUXNRckNNQkFHWUZ4dmNzNTBZRnYzVHRLbFNBZGRSQVZmNEtqWE5wZ21JUW10Zlh2VHJRNUZjRGs0LVA3ai1PRUN5ZG1NR0F3R1I5b3JDb3lFZzVFMVktTk1qNE44c2luelZPeTYzdzdlVUJ3ZFktZzRUdElUa3JVLXJoUVd1YWQwWEFjMTRkaEp4ZWd0MDB2cXRzd0xjWkQtdnpCY0lhMUlZeFgxNmZiNF9uSi1EUnZqc09jeXowUlNSMWhIMk5xd0N1RU8yV296VXFOalVoamtmSEV2MHRWdWxuSzctUUEiLCJpZCI6ImZjX1d2TUNhOHo0SzZiOHB0UVAxdXZRd1FZXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVZFeE5jMXBaUTNKMk1IazFUa2RsVlZkTlJrRnliSFZXYTFWc2FqVlNTVXBxWDNWcVRreEtSRkpST1ZONk5YbFpkMlJXUWs5NmNIZFJSemxtUlhOUGRHTnhkMVJGUlZwaWJVVmtNVWN3VjNoSlYwVlVZV3QxZFdJNVp4SVhWM1pOUTJFNGVqUkxObUk0Y0hSUlVERjFkbEYzVVZrYUlrRklUakJGTjBWM1dGZzFkWE5sTldZNGNqTmtVbFJXTWtOMWIzZGxZMWRUZFhjIiwiZmN2IjoiMyIsImVpIjoiV3ZNQ2E4ejRLNmI4cHRRUDF1dlF3UVkiLCJxYyI6ImN5WExzUTJBTUF3RlVXb2FHTUVEc0FNYnNFT0FyOFRDc2xGc2hZcmRpVVJ6MWJ0eDItRkJZU2JlUzFHVHVxUUFOVDVoMUl3UFdFTjFlZ29MNkFKdTFreFJRRlk1c3liNVZkOFY4X0F1NjdSLSIsInF1ZXN0aW9uIjoiQXJlIHRoZXJlIGFueSBhcHBzIHRoYXQgdHJhbnNsYXRlIGRpcmVjdGx5IHdoaWxlIHNwZWFraW5nPyIsImxrIjoiY3hYSHdRbUFRQXdFd0Q1OGJSbTJzLWh5Rnd6aFNBSnkzWXZ6bS1PMFFrLWx3TmpnV25fWjZHU1VzNFhiVWxmN3hqdk5oVnJpWXpFLSIsImJzIjoiYzUzUXNRckNNQkFHWUZ4dmNzNTBZRnYzVHRLbFNBZGRSQVZmNEtqWE5wZ21JUW10Zlh2VHJRNUZjRGs0LVA3ai1PRUN5ZG1NR0F3R1I5b3JDb3lFZzVFMVktTk1qNE44c2luelZPeTYzdzdlVUJ3ZFktZzRUdElUa3JVLXJoUVd1YWQwWEFjMTRkaEp4ZWd0MDB2cXRzd0xjWkQtdnpCY0lhMUlZeFgxNmZiNF9uSi1EUnZqc09jeXowUlNSMWhIMk5xd0N1RU8yV296VXFOalVoamtmSEV2MHRWdWxuSzctUUEiLCJpZCI6ImZjX1d2TUNhOHo0SzZiOHB0UVAxdXZRd1FZXzUifQ%3D%3D"
+      },
+      {
+        "question": "Can ChatGPT translate a video for me?",
+        "type": "ai_overview",
+        "page_token": "o2_i2HicHdDBbpswAABQbR_TYwMhybZIUaV0Ngsabm2wjblUxiah2Ng00JDmuG_ZqR_TD-hv9Ac67fqO789f--jM-5dTM479sJ7Npmm6Pnh_sPW18t1MDi9OzZS0tpLKrFffVuHNXm3A8257-7TbYkqAsNpy059yVl6IOSxQBDkOEspivchpIySjEwnGVEFyi7n-50EoKF2gi_2dFWrJuWVV4F9wAHHWaVT9InFlzveU4kUVLMPsgnbIMZ_HP1CahXHpoJQRvfDWzrNcA8FVRG2_1J1e4jbZMUcABWJEbclZZ4Uy5ViDZFs7eCc6GwmLRBZqSF1yZGF_zCwcWL59qhjypCWSBmcHGl1oE_4UebNCYJiLtpk0hDgt2JwWmnDiHzFt7lJAI1Iwn7Ya6RA2lUnuCUdDFttn5kqC7PdzSs8Txld7ddpEV_8_Nw_7blz3R394VcdajrV-kOOb-fpRfgKyuosi",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=o2_i2HicHdDBbpswAABQbR_TYwMhybZIUaV0Ngsabm2wjblUxiah2Ng00JDmuG_ZqR_TD-hv9Ac67fqO789f--jM-5dTM479sJ7Npmm6Pnh_sPW18t1MDi9OzZS0tpLKrFffVuHNXm3A8257-7TbYkqAsNpy059yVl6IOSxQBDkOEspivchpIySjEwnGVEFyi7n-50EoKF2gi_2dFWrJuWVV4F9wAHHWaVT9InFlzveU4kUVLMPsgnbIMZ_HP1CahXHpoJQRvfDWzrNcA8FVRG2_1J1e4jbZMUcABWJEbclZZ4Uy5ViDZFs7eCc6GwmLRBZqSF1yZGF_zCwcWL59qhjypCWSBmcHGl1oE_4UebNCYJiLtpk0hDgt2JwWmnDiHzFt7lJAI1Iwn7Ya6RA2lUnuCUdDFttn5kqC7PdzSs8Txld7ddpEV_8_Nw_7blz3R394VcdajrV-kOOb-fpRfgKyuosi",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVZFeE5jMXBaUTNKMk1IazFUa2RsVlZkTlJrRnliSFZXYTFWc2FqVlNTVXBxWDNWcVRreEtSRkpST1ZONk5YbFpkMlJXUWs5NmNIZFJSemxtUlhOUGRHTnhkMVJGUlZwaWJVVmtNVWN3VjNoSlYwVlVZV3QxZFdJNVp4SVhWM1pOUTJFNGVqUkxObUk0Y0hSUlVERjFkbEYzVVZrYUlrRklUakJGTjBWM1dGZzFkWE5sTldZNGNqTmtVbFJXTWtOMWIzZGxZMWRUZFhjIiwiZmN2IjoiMyIsImVpIjoiV3ZNQ2E4ejRLNmI4cHRRUDF1dlF3UVkiLCJxYyI6ImN5WExzUTJBTUF3RlVXb2FHTUVEc0FNYnNFT0FyOFRDc2xGc2hZcmRpVVJ6MWJ0eDItRkJZU2JlUzFHVHVxUUFOVDVoMUl3UFdFTjFlZ29MNkFKdTFreFJRRlk1c3liNVZkOFY4X0F1NjdSLSIsInF1ZXN0aW9uIjoiQ2FuIENoYXRHUFQgdHJhbnNsYXRlIGEgdmlkZW8gZm9yIG1lPyIsImxrIjoiR2lSallXNGdZMmhoZEdkd2RDQjBjbUZ1YzJ4aGRHVWdZU0IyYVdSbGJ5Qm1iM0lnYldVIiwiYnMiOiJjNTNRc1FyQ01CQUdZRnh2Y3M1MFlGdjNUdEtsU0FkZFJBVmY0S2pYTnBnbUlRbXRmWHZUclE1RmNEazQtUDdqLU9FQ3lkbU1HQXdHUjlvckNveUVnNUUxWS1OTWo0TjhzaW56Vk95NjN3N2VVQndkWS1nNFR0SVRrclUtcmhRV3VhZDBYQWMxNGRoSnhlZ3QwMHZxdHN3TGNaRC12ekJjSWExSVl4WDE2ZmI0X25KLURSdmpzT2N5ejBSU1IxaEgyTnF3Q3VFTzJXb3pVcU5qVWhqa2ZIRXYwdFZ1bG5LNy1RQSIsImlkIjoiZmNfV3ZNQ2E4ejRLNmI4cHRRUDF1dlF3UVlfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVZFeE5jMXBaUTNKMk1IazFUa2RsVlZkTlJrRnliSFZXYTFWc2FqVlNTVXBxWDNWcVRreEtSRkpST1ZONk5YbFpkMlJXUWs5NmNIZFJSemxtUlhOUGRHTnhkMVJGUlZwaWJVVmtNVWN3VjNoSlYwVlVZV3QxZFdJNVp4SVhWM1pOUTJFNGVqUkxObUk0Y0hSUlVERjFkbEYzVVZrYUlrRklUakJGTjBWM1dGZzFkWE5sTldZNGNqTmtVbFJXTWtOMWIzZGxZMWRUZFhjIiwiZmN2IjoiMyIsImVpIjoiV3ZNQ2E4ejRLNmI4cHRRUDF1dlF3UVkiLCJxYyI6ImN5WExzUTJBTUF3RlVXb2FHTUVEc0FNYnNFT0FyOFRDc2xGc2hZcmRpVVJ6MWJ0eDItRkJZU2JlUzFHVHVxUUFOVDVoMUl3UFdFTjFlZ29MNkFKdTFreFJRRlk1c3liNVZkOFY4X0F1NjdSLSIsInF1ZXN0aW9uIjoiQ2FuIENoYXRHUFQgdHJhbnNsYXRlIGEgdmlkZW8gZm9yIG1lPyIsImxrIjoiR2lSallXNGdZMmhoZEdkd2RDQjBjbUZ1YzJ4aGRHVWdZU0IyYVdSbGJ5Qm1iM0lnYldVIiwiYnMiOiJjNTNRc1FyQ01CQUdZRnh2Y3M1MFlGdjNUdEtsU0FkZFJBVmY0S2pYTnBnbUlRbXRmWHZUclE1RmNEazQtUDdqLU9FQ3lkbU1HQXdHUjlvckNveUVnNUUxWS1OTWo0TjhzaW56Vk95NjN3N2VVQndkWS1nNFR0SVRrclUtcmhRV3VhZDBYQWMxNGRoSnhlZ3QwMHZxdHN3TGNaRC12ekJjSWExSVl4WDE2ZmI0X25KLURSdmpzT2N5ejBSU1IxaEgyTnF3Q3VFTzJXb3pVcU5qVWhqa2ZIRXYwdFZ1bG5LNy1RQSIsImlkIjoiZmNfV3ZNQ2E4ejRLNmI4cHRRUDF1dlF3UVlfNSJ9"
+      },
+      {
+        "question": "How to translate a voice in real time?",
+        "type": "ai_overview",
+        "page_token": "VG8fd3icHZBLUtswAECnHIYl8QfSJjMZpiaWHcBiLEuyrQ2jSEqUSP6UCGyz7Fm64jAcgGv0As108XZv3uL9_mMPrfn69qad60_L2WwYhqt91-2tuhJdM-OnqRUzwa3dcmGW8-9z_3YnVvHrJrr7tYlyguLaSluXN6lMYFRjQFSLIkV_XD9h22dgPymDBpbKB5bmAwp1UhC3Zkcb5SFz3PbzzPge9XVNzZnSjlkAUtVuJnwuboN7ytOohgn0SExx5gOsgOxYoAk0iw0q_Io0nicSVFBAG5LQkZvxwM39I2xlxWILULM4FhW9qYIFK4lfqLU2kIrpkdAqm_yImNHbEsqx5w4Mw6k8yjbWspLGX9dYz2F8CuqjHiQAeVbRgFQSlag75EQ_ZTEJi_RnkL1DUr_rB4mhk4E_1sZBcfYLHKV52N-x4XIn3lbh5f-fq-dd45b9S7f_EC-KOyWfufs0F3_ZPybWibo",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=VG8fd3icHZBLUtswAECnHIYl8QfSJjMZpiaWHcBiLEuyrQ2jSEqUSP6UCGyz7Fm64jAcgGv0As108XZv3uL9_mMPrfn69qad60_L2WwYhqt91-2tuhJdM-OnqRUzwa3dcmGW8-9z_3YnVvHrJrr7tYlyguLaSluXN6lMYFRjQFSLIkV_XD9h22dgPymDBpbKB5bmAwp1UhC3Zkcb5SFz3PbzzPge9XVNzZnSjlkAUtVuJnwuboN7ytOohgn0SExx5gOsgOxYoAk0iw0q_Io0nicSVFBAG5LQkZvxwM39I2xlxWILULM4FhW9qYIFK4lfqLU2kIrpkdAqm_yImNHbEsqx5w4Mw6k8yjbWspLGX9dYz2F8CuqjHiQAeVbRgFQSlag75EQ_ZTEJi_RnkL1DUr_rB4mhk4E_1sZBcfYLHKV52N-x4XIn3lbh5f-fq-dd45b9S7f_EC-KOyWfufs0F3_ZPybWibo",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVZFeE5jMXBaUTNKMk1IazFUa2RsVlZkTlJrRnliSFZXYTFWc2FqVlNTVXBxWDNWcVRreEtSRkpST1ZONk5YbFpkMlJXUWs5NmNIZFJSemxtUlhOUGRHTnhkMVJGUlZwaWJVVmtNVWN3VjNoSlYwVlVZV3QxZFdJNVp4SVhWM1pOUTJFNGVqUkxObUk0Y0hSUlVERjFkbEYzVVZrYUlrRklUakJGTjBWM1dGZzFkWE5sTldZNGNqTmtVbFJXTWtOMWIzZGxZMWRUZFhjIiwiZmN2IjoiMyIsImVpIjoiV3ZNQ2E4ejRLNmI4cHRRUDF1dlF3UVkiLCJxYyI6ImN5WExzUTJBTUF3RlVXb2FHTUVEc0FNYnNFT0FyOFRDc2xGc2hZcmRpVVJ6MWJ0eDItRkJZU2JlUzFHVHVxUUFOVDVoMUl3UFdFTjFlZ29MNkFKdTFreFJRRlk1c3liNVZkOFY4X0F1NjdSLSIsInF1ZXN0aW9uIjoiSG93IHRvIHRyYW5zbGF0ZSBhIHZvaWNlIGluIHJlYWwgdGltZT8iLCJsayI6IkdpVm9iM2NnZEc4Z2RISmhibk5zWVhSbElHRWdkbTlwWTJVZ2FXNGdjbVZoYkNCMGFXMWwiLCJicyI6ImM1M1FzUXJDTUJBR1lGeHZjczUwWUZ2M1R0S2xTQWRkUkFWZjRLalhOcGdtSVFtdGZYdlRyUTVGY0RrNC1QN2otT0VDeWRtTUdBd0dSOW9yQ295RWc1RTFZLU5NajROOHNpbnpWT3k2M3c3ZVVCd2RZLWc0VHRJVGtyVS1yaFFXdWFkMFhBYzE0ZGhKeGVndDAwdnF0c3dMY1pELXZ6QmNJYTFJWXhYMTZmYjRfbkotRFJ2anNPY3l6MFJTUjFoSDJOcXdDdUVPMldvelVxTmpVaGprZkhFdjB0VnVsbks3LVFBIiwiaWQiOiJmY19Xdk1DYTh6NEs2YjhwdFFQMXV2UXdRWV81In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVZFeE5jMXBaUTNKMk1IazFUa2RsVlZkTlJrRnliSFZXYTFWc2FqVlNTVXBxWDNWcVRreEtSRkpST1ZONk5YbFpkMlJXUWs5NmNIZFJSemxtUlhOUGRHTnhkMVJGUlZwaWJVVmtNVWN3VjNoSlYwVlVZV3QxZFdJNVp4SVhWM1pOUTJFNGVqUkxObUk0Y0hSUlVERjFkbEYzVVZrYUlrRklUakJGTjBWM1dGZzFkWE5sTldZNGNqTmtVbFJXTWtOMWIzZGxZMWRUZFhjIiwiZmN2IjoiMyIsImVpIjoiV3ZNQ2E4ejRLNmI4cHRRUDF1dlF3UVkiLCJxYyI6ImN5WExzUTJBTUF3RlVXb2FHTUVEc0FNYnNFT0FyOFRDc2xGc2hZcmRpVVJ6MWJ0eDItRkJZU2JlUzFHVHVxUUFOVDVoMUl3UFdFTjFlZ29MNkFKdTFreFJRRlk1c3liNVZkOFY4X0F1NjdSLSIsInF1ZXN0aW9uIjoiSG93IHRvIHRyYW5zbGF0ZSBhIHZvaWNlIGluIHJlYWwgdGltZT8iLCJsayI6IkdpVm9iM2NnZEc4Z2RISmhibk5zWVhSbElHRWdkbTlwWTJVZ2FXNGdjbVZoYkNCMGFXMWwiLCJicyI6ImM1M1FzUXJDTUJBR1lGeHZjczUwWUZ2M1R0S2xTQWRkUkFWZjRLalhOcGdtSVFtdGZYdlRyUTVGY0RrNC1QN2otT0VDeWRtTUdBd0dSOW9yQ295RWc1RTFZLU5NajROOHNpbnpWT3k2M3c3ZVVCd2RZLWc0VHRJVGtyVS1yaFFXdWFkMFhBYzE0ZGhKeGVndDAwdnF0c3dMY1pELXZ6QmNJYTFJWXhYMTZmYjRfbkotRFJ2anNPY3l6MFJTUjFoSDJOcXdDdUVPMldvelVxTmpVaGprZkhFdjB0VnVsbks3LVFBIiwiaWQiOiJmY19Xdk1DYTh6NEs2YjhwdFFQMXV2UXdRWV81In0%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "k-s0RXiczVZJcuJIFI3odV-jtcFGAjPZEYqKlBAgMEMymKI2CiFSAxpSaECmFr3os_SqD1MHqGv0BTo1YEsYbNyb7h8hpfTzz_mfvv740zIc8-evv-tB4PoPNB1FUVnDWLNQWcE2LfsHR6FVbPmeon_xcegpyNiwiu5hG1GaxYY-lXIzXhmvKd1ikUMd9uwdpfgsQyGDXe6HvNz6Xhs01i03gJNKuIcRXFGJfVZayz7aEvfPW5-WaHIzf7trk5eyX0ZOWUS7tdOpgicXlKtM9a48pmWbCID_lgQOiBpZTQC09-Q4eK1FqBOrgD_VF9I1xx-C2KcIeDHdueR_FhuNNXkuiZhcY6BuJ2aXPI2OUgvxg7j4QkzLLKx0MU_DvYIy1TiDAuM9OlPEpC6D13f-dO8cdYs73KoN2lHO_Jt0cg5S1UV8i0CnNhkCCOFFT0cipgcrwFjggz45RrS4788CosXRG410OUOvPbJUaEPRleTB8-Pm5-f3DO4-jrvbqsTBnRyO4b4LhFGAJpEgPNYArayJnIXlDdpIusTQbqzOfEnYlWq12mwyzfpNAj7Ff0Gfn0efh30mcFrD24ApP5a5yhF6xaRPawZFEZzrKY3TjhUp0ouBab7cSTVOJM2C50626oDDkJgtbMKB8JgKZf6GoE3K1tLypyC8xMO_A73TPIAoAJwZWGQsUGw6uALC7MTPC43Pmo3zSLwWnXWzB5E7Bh6lFrW30JsCESbpZCkXvpEc-VBwpMAw_mAMiHrAp7JiTe8B7XhiUBBIeoL2qpYjXjiTDuBzkRA9IZaKgCYAMxQFXjQydpwEeco8cVB7MZP44N-CL6Eh4Xf0s1tXkXDN9yWN4oi1U-jkINebhbozduuTbriMOu1v_WVbnWnhSJIr8Dy2sL3-xGhT_vfoOw4-K2v7i-iLPV2FPqi_h763g0_gU_Tx5gX0zVL0nR98k6PUyeB7iz4eGDn0ZYPvObV4ZvB9Hn3cx-jLH1cefa9HVUCfcAl98eDLo2-1FY6D7zz6Mgev6Pu3g4_7_OBLQIjSpTgFw612eRoOnIn8dTx1J7O-NObajem2t38CltuPtGunoWoHD7a8sW4kY_PAVfvBYXMjEQZ-QBtqx3LID0oBJj_E5F4KPNnxLTlApb2xQbi0x4aC8B55finSDQuVTIRcw9FKgY5K2DM0w5GtVIqoO4iyLQ-zjFxfKOrU5aXKyG70Jggu5p352jbBvC6OVH_eUyeGK3bNUX3Tv32arnFvp6vW-FZf4O9hc6hK07vG-smcCfzSWnV7o7Al7ZSeLnI9uWGIz96khZqLnSQclOn46_AJjGfN1mzJh9ZzmzvIjTma1fQOoyfR-GzHvj-gvSN3DIUiifuIrVC2p7CkPWoaGMH4B1AGnQj0k37mpjuyPpImWmMOwN4KwLZGLkxOkvIVWUL-nlUa9TulzjCKLKtNFamUrQUHl71nKN_x2MpfiodIFTeSHPwwf_n72z98iJVe",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=k-s0RXiczVZJcuJIFI3odV-jtcFGAjPZEYqKlBAgMEMymKI2CiFSAxpSaECmFr3os_SqD1MHqGv0BTo1YEsYbNyb7h8hpfTzz_mfvv740zIc8-evv-tB4PoPNB1FUVnDWLNQWcE2LfsHR6FVbPmeon_xcegpyNiwiu5hG1GaxYY-lXIzXhmvKd1ikUMd9uwdpfgsQyGDXe6HvNz6Xhs01i03gJNKuIcRXFGJfVZayz7aEvfPW5-WaHIzf7trk5eyX0ZOWUS7tdOpgicXlKtM9a48pmWbCID_lgQOiBpZTQC09-Q4eK1FqBOrgD_VF9I1xx-C2KcIeDHdueR_FhuNNXkuiZhcY6BuJ2aXPI2OUgvxg7j4QkzLLKx0MU_DvYIy1TiDAuM9OlPEpC6D13f-dO8cdYs73KoN2lHO_Jt0cg5S1UV8i0CnNhkCCOFFT0cipgcrwFjggz45RrS4788CosXRG410OUOvPbJUaEPRleTB8-Pm5-f3DO4-jrvbqsTBnRyO4b4LhFGAJpEgPNYArayJnIXlDdpIusTQbqzOfEnYlWq12mwyzfpNAj7Ff0Gfn0efh30mcFrD24ApP5a5yhF6xaRPawZFEZzrKY3TjhUp0ouBab7cSTVOJM2C50626oDDkJgtbMKB8JgKZf6GoE3K1tLypyC8xMO_A73TPIAoAJwZWGQsUGw6uALC7MTPC43Pmo3zSLwWnXWzB5E7Bh6lFrW30JsCESbpZCkXvpEc-VBwpMAw_mAMiHrAp7JiTe8B7XhiUBBIeoL2qpYjXjiTDuBzkRA9IZaKgCYAMxQFXjQydpwEeco8cVB7MZP44N-CL6Eh4Xf0s1tXkXDN9yWN4oi1U-jkINebhbozduuTbriMOu1v_WVbnWnhSJIr8Dy2sL3-xGhT_vfoOw4-K2v7i-iLPV2FPqi_h763g0_gU_Tx5gX0zVL0nR98k6PUyeB7iz4eGDn0ZYPvObV4ZvB9Hn3cx-jLH1cefa9HVUCfcAl98eDLo2-1FY6D7zz6Mgev6Pu3g4_7_OBLQIjSpTgFw612eRoOnIn8dTx1J7O-NObajem2t38CltuPtGunoWoHD7a8sW4kY_PAVfvBYXMjEQZ-QBtqx3LID0oBJj_E5F4KPNnxLTlApb2xQbi0x4aC8B55finSDQuVTIRcw9FKgY5K2DM0w5GtVIqoO4iyLQ-zjFxfKOrU5aXKyG70Jggu5p352jbBvC6OVH_eUyeGK3bNUX3Tv32arnFvp6vW-FZf4O9hc6hK07vG-smcCfzSWnV7o7Al7ZSeLnI9uWGIz96khZqLnSQclOn46_AJjGfN1mzJh9ZzmzvIjTma1fQOoyfR-GzHvj-gvSN3DIUiifuIrVC2p7CkPWoaGMH4B1AGnQj0k37mpjuyPpImWmMOwN4KwLZGLkxOkvIVWUL-nlUa9TulzjCKLKtNFamUrQUHl71nKN_x2MpfiodIFTeSHPwwf_n72z98iJVe"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Translate a video with AI",
+        "link": "https://www.canva.com/features/ai-video-translator/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHEIkXXY1onpE8PrxyZMthLqrxFqd3gaS0gGyE2v7xRo4DK6-EJ-vyPYPtP7JOxmBjoF5fHitmr6W9P5q_5n6FvXg8tr79zs4Gs1D8j4IT_ZUlbZj4tWPI7vHceDIXcjssAP2jL9PsFc5Rt5LuTLSw&ved=2ahUKEwjMjayu3JuYAxUmvokEHdY1NGgQFnoECA0QAQ&uoh=1",
+        "displayed_link": "https://www.canva.com \u203a Video Editor",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEUBw8wDv80Gu80Jt88MstARq9EVpNMcm9Uik9cqi9kuxNEzgtuY2ub____w9v1zy9_V5Pc6d95AbOJZsdxSXt9gS-RsOugifOA5Xul4hemUmPJGS-56KeqxuPRUNvRyJvJjKPrWjzNIAAABIklEQVR4AZXPBZbDMBADUIfTNuMw4_1PubKmz8ukcv-T4pgPCYIwjKI4SdIsv_0HoYrpt80YmHn0Yu5B5Fcf77AQxJYsEgNfA1XlvRQpnsUaU4G3IgzDuBCL03h0HpRqUYwvQGdEBheLeBOFVOw96saECM7vRkE4p0gLQ1ERiawIKU2qNs9zWmciDVYTkDsKSK0zMSR2p6jSV1IDIkkCLLLMk1pvEq45zBEQa7Te6Biwuj3F22AyrmXA8TGODqZqVhuMjo1WhHOwxa4g2GbcGCo7qhNkWmeZVxBsMwCMYQvarGu3y-4MBOT10XAqFuvLwRqRgLX1WCordu8PJSKFOZjhGE4loP4PYa7jdNnoRP0Xz-u6PBEJF0N618RfnvB413wBF2gp0D7Hjh8AAAAASUVORK5CYII.png",
+        "snippet": "Instantly translate videos using AI while keeping the original voice quality and personality intact\u2014no more lengthy post-production or complex video translation ...",
+        "snippet_highlighted_words": [
+          "Instantly translate videos using AI"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Instantly translate videos using AI while keeping the original voice quality and personality intact\u2014no more lengthy post-production or complex video translation ...",
+            "source_info_link": "https://www.canva.com/features/ai-video-translator/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEUBw8wDv80Gu80Jt88MstARq9EVpNMcm9Uik9cqi9kuxNEzgtuY2ub____w9v1zy9_V5Pc6d95AbOJZsdxSXt9gS-RsOugifOA5Xul4hemUmPJGS-56KeqxuPRUNvRyJvJjKPrWjzNIAAABIklEQVR4AZXPBZbDMBADUIfTNuMw4_1PubKmz8ukcv-T4pgPCYIwjKI4SdIsv_0HoYrpt80YmHn0Yu5B5Fcf77AQxJYsEgNfA1XlvRQpnsUaU4G3IgzDuBCL03h0HpRqUYwvQGdEBheLeBOFVOw96saECM7vRkE4p0gLQ1ERiawIKU2qNs9zWmciDVYTkDsKSK0zMSR2p6jSV1IDIkkCLLLMk1pvEq45zBEQa7Te6Biwuj3F22AyrmXA8TGODqZqVhuMjo1WhHOwxa4g2GbcGCo7qhNkWmeZVxBsMwCMYQvarGu3y-4MBOT10XAqFuvLwRqRgLX1WCordu8PJSKFOZjhGE4loP4PYa7jdNnoRP0Xz-u6PBEJF0N618RfnvB413wBF2gp0D7Hjh8AAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUBL2dvdG8_dXJsPUNBRVNjQUhFSWtYWEoyV0Q2ZVRtX1VYMXl1R0kwNkc5Rkw3Rl85Z1Ixc0hNbnd5d3U4dW5yR0JDWHBrcDltVGprWHRrN2RicW1MeF9VTTREbU9aSXNuQmJEdS1OTVE5TGo0NWVqQ3dsTzZjRkVrcU8tbGpJbnRMekRrUW83UmN5WG1EeEx4TXByYUs2VkprMUM4U3RmX3ZPR2tFEgQaAggAGuAIEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAuggIABAAGAAgACohCgRiZXN0FQLzOD8aBGdvb2QaA3RvcBoJYmVzdHRvb2xzKjIKBXRvb2xzFXDOxj4aCWVxdWlwbWVudBoEdG9vbBoIdG9vbCBmb3IaCWJlc3R0b29scyoJCgJ0bxUAAAAAKjwKCXRyYW5zbGF0ZRWm3pRAGgp0cmFuc2xhdG9yGg50cmFuc2xhdGV2aWRlbxoOaXY7cDt0cmFuc2xhdGUqJAoFdmlkZW8VfDoBQRoGdmlkZW9zGg50cmFuc2xhdGV2aWRlbypOCgp2b2ljZW92ZXJzFSKMYT8aCnZvaWNlIG92ZXIaC3ZvaWNlIG92ZXJzGgl2b2ljZW92ZXIaBnZvaWNlcxoPaXY7cDt2b2ljZW92ZXJzKjYKBXdoaWxlFUAo2T8aA2FuZBoDYnV0GgJieRoEd2hlbhoGd2hpbHN0Ggx3aGlsZWtlZXBpbmcqbgoHa2VlcGluZxUrU3E_Ggdob2xkaW5nGgRrZWVwGgVrZWVwcxoEa2VwdBoLbWFpbnRhaW5pbmcaCnByZXNlcnZpbmcaCXJldGFpbmluZxoHc3RheWluZxoHc3RvcmluZxoMd2hpbGVrZWVwaW5nKgoKA3RoZRUAAAAAKkEKCG9yaWdpbmFsFQhN9T8aCWF1dGhlbnRpYxoFZmlyc3QaCW9yaWdpbmFscxoEcmVhbBoNb3JpZ2luYWx2b2ljZSo1CgV2b2ljZRUN7FxAGgV2b2NhbBoGdm9pY2VzGg1vcmlnaW5hbHZvaWNlGgl2b2ljZXRvbmUqNQoEdG9uZRVECsw_GgVwaXRjaBoFdG9uZXMaCXZvaWNldG9uZRoJaXY7cDt0b25lGgR0b29sMqUBL2dvdG8_dXJsPUNBRVNjQUhFSWtYWEoyV0Q2ZVRtX1VYMXl1R0kwNkc5Rkw3Rl85Z1Ixc0hNbnd5d3U4dW5yR0JDWHBrcDltVGprWHRrN2RicW1MeF9VTTREbU9aSXNuQmJEdS1OTVE5TGo0NWVqQ3dsTzZjRkVrcU8tbGpJbnRMekRrUW83UmN5WG1EeEx4TXByYUs2VkprMUM4U3RmX3ZPR2tFOi88Yj5UcmFuc2xhdGU8L2I-IGEgPGI-dmlkZW88L2I-IHdpdGggQUkgfCBDYW52YUKyATxiPkluc3RhbnRseSB0cmFuc2xhdGUgdmlkZW9zIHVzaW5nIEFJPC9iPiB3aGlsZSBrZWVwaW5nIHRoZSBvcmlnaW5hbCB2b2ljZSBxdWFsaXR5IGFuZCBwZXJzb25hbGl0eSBpbnRhY3TigJRubyBtb3JlIGxlbmd0aHkgcG9zdC1wcm9kdWN0aW9uIG9yIGNvbXBsZXggdmlkZW8gdHJhbnNsYXRpb24mbmJzcDsuLi5KA3RoZUoCdG9SA2J1dFIDdG9wUgNhbmRSBHdoZW5SBWZpcnN0UgJieSICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUBL2dvdG8_dXJsPUNBRVNjQUhFSWtYWEoyV0Q2ZVRtX1VYMXl1R0kwNkc5Rkw3Rl85Z1Ixc0hNbnd5d3U4dW5yR0JDWHBrcDltVGprWHRrN2RicW1MeF9VTTREbU9aSXNuQmJEdS1OTVE5TGo0NWVqQ3dsTzZjRkVrcU8tbGpJbnRMekRrUW83UmN5WG1EeEx4TXByYUs2VkprMUM4U3RmX3ZPR2tFEgQaAggAGuAIEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAuggIABAAGAAgACohCgRiZXN0FQLzOD8aBGdvb2QaA3RvcBoJYmVzdHRvb2xzKjIKBXRvb2xzFXDOxj4aCWVxdWlwbWVudBoEdG9vbBoIdG9vbCBmb3IaCWJlc3R0b29scyoJCgJ0bxUAAAAAKjwKCXRyYW5zbGF0ZRWm3pRAGgp0cmFuc2xhdG9yGg50cmFuc2xhdGV2aWRlbxoOaXY7cDt0cmFuc2xhdGUqJAoFdmlkZW8VfDoBQRoGdmlkZW9zGg50cmFuc2xhdGV2aWRlbypOCgp2b2ljZW92ZXJzFSKMYT8aCnZvaWNlIG92ZXIaC3ZvaWNlIG92ZXJzGgl2b2ljZW92ZXIaBnZvaWNlcxoPaXY7cDt2b2ljZW92ZXJzKjYKBXdoaWxlFUAo2T8aA2FuZBoDYnV0GgJieRoEd2hlbhoGd2hpbHN0Ggx3aGlsZWtlZXBpbmcqbgoHa2VlcGluZxUrU3E_Ggdob2xkaW5nGgRrZWVwGgVrZWVwcxoEa2VwdBoLbWFpbnRhaW5pbmcaCnByZXNlcnZpbmcaCXJldGFpbmluZxoHc3RheWluZxoHc3RvcmluZxoMd2hpbGVrZWVwaW5nKgoKA3RoZRUAAAAAKkEKCG9yaWdpbmFsFQhN9T8aCWF1dGhlbnRpYxoFZmlyc3QaCW9yaWdpbmFscxoEcmVhbBoNb3JpZ2luYWx2b2ljZSo1CgV2b2ljZRUN7FxAGgV2b2NhbBoGdm9pY2VzGg1vcmlnaW5hbHZvaWNlGgl2b2ljZXRvbmUqNQoEdG9uZRVECsw_GgVwaXRjaBoFdG9uZXMaCXZvaWNldG9uZRoJaXY7cDt0b25lGgR0b29sMqUBL2dvdG8_dXJsPUNBRVNjQUhFSWtYWEoyV0Q2ZVRtX1VYMXl1R0kwNkc5Rkw3Rl85Z1Ixc0hNbnd5d3U4dW5yR0JDWHBrcDltVGprWHRrN2RicW1MeF9VTTREbU9aSXNuQmJEdS1OTVE5TGo0NWVqQ3dsTzZjRkVrcU8tbGpJbnRMekRrUW83UmN5WG1EeEx4TXByYUs2VkprMUM4U3RmX3ZPR2tFOi88Yj5UcmFuc2xhdGU8L2I-IGEgPGI-dmlkZW88L2I-IHdpdGggQUkgfCBDYW52YUKyATxiPkluc3RhbnRseSB0cmFuc2xhdGUgdmlkZW9zIHVzaW5nIEFJPC9iPiB3aGlsZSBrZWVwaW5nIHRoZSBvcmlnaW5hbCB2b2ljZSBxdWFsaXR5IGFuZCBwZXJzb25hbGl0eSBpbnRhY3TigJRubyBtb3JlIGxlbmd0aHkgcG9zdC1wcm9kdWN0aW9uIG9yIGNvbXBsZXggdmlkZW8gdHJhbnNsYXRpb24mbmJzcDsuLi5KA3RoZUoCdG9SA2J1dFIDdG9wUgNhbmRSBHdoZW5SBWZpcnN0UgJieSICEAFIAFgAaAA",
+        "source": "Canva",
+        "read_more_link": "https://www.google.com/goto?url=CAES1AEBxCJF1-DWLsqexmREJwDUpyp9UiMZ9w5ur1jeIamjwdJO9_StuiQLSEd-J2UkXsdmpsC1_mtG6qVcbTKUzBzcRbXpD543LBgXGHXIx16jJEo-GBinSrlq-D_hoKvmVKHqYSmp8td4GmwPYwyNxJ4hgZ8fLgZ_0mgD8lrW7Cp2sXZvYUXvd7_AYAGcfKJWVdzY8nvHXbElUIS9FBaPkQ_LCOSC3AH90xVDX9abN2ZN11krxB-_Mqe7_Dk0ptkHWeIYoO4M3o9yakffWTvLlFV5m73fWA&gsessionid=uwCT8_xTN3k3XKeuVfDqX8UDGgl0o1pTKkjUXBk57pbqtK11oBDwtA"
+      },
+      {
+        "position": 2,
+        "title": "Anyone tried AI tools for translating and dubbing videos ...",
+        "link": "https://www.reddit.com/r/TextToSpeech/comments/1perksv/anyone_tried_ai_tools_for_translating_and_dubbing/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpgEBxCJF171y2q6mioMcWFppWKMtcTyN2Qek0w2UDbkTFAWQ-GJkTdmECYbvElB8X6lXjW1p2he53aAntB6N29mmpwtw9fJi51VfaMm9SIknvlI2QfntDYphL3meGmhrqEc5Dgf-ysLVkzGm-Z5WAd4Ev_qiPRqC-kXBAxXb4GkMe-GTjM5qeFslCIiZfuoXUZMT-2js6Ufhj3XhaACfrslhcZiL1jgz&ved=2ahUKEwjMjayu3JuYAxUmvokEHdY1NGgQFnoECCgQAQ&uoh=1",
+        "displayed_link": "60+ comments",
+        "date": "11 months ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+        "snippet": "I have been diving into AI-powered tools to make my videos accessible to global audiences. One of the features I have tried recently is AI-driven text-to-speech ...",
+        "sitelinks": {
+          "list": [
+            {
+              "title": "Apps or software to translate video : r/TranslationStudies",
+              "link": "https://www.google.com/goto?url=CAESngEBxCJF15uqp3H1TZQ46bhCQT8iB9MWUnjwH78pyCddmr8foeDtew1caUlHLdMDrV6Fw60HAKAnvTvimjIs2rs5u86BxuOxvrHY7a3VWLyOLEHtmDL_fy9yvlVZadCajPm1vkJ-9BF-D0YCNcjMWETcYjHme3HZPfsM5notzaDoZ8z-LvTHxzv_3YL8uyxeQYf__UdFv-ULGRDb5_-lRQ&gsessionid=uwCT8_xTN3k3XKeuVfDqX8UDGgl0o1pTKkjUXBk57pbqtK11oBDwtA",
+              "answer_count": 48,
+              "date": "Nov 20, 2024"
+            },
+            {
+              "title": "What's the best AI tool to translate and dub videos ...",
+              "link": "https://www.google.com/goto?url=CAESoAEBxCJF14jRjJIKFGMM4PUmhXxQBfHCjd_WZ6YxVKvdMjPxXlhUzxKdRFyikZdBHH4rSfGvsXZsDT1p3ble7ECjvG7HvmZlspO_4upf8UW6uEqASrBkNqB_Y-jHs5f_eYiuUYYlgiCEQ4T_gGhjSTUuFYxbw5HfuUr88yInPYgtXCX0j0bCTwGwkyC6A6fldrj5vqufsFBRAOurZpa4qita&gsessionid=uwCT8_xTN3k3XKeuVfDqX8UDGgl0o1pTKkjUXBk57pbqtK11oBDwtA",
+              "answer_count": 14,
+              "date": "Nov 4, 2025"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "The TTS technology I used was able to keep the tone and emotion of the original content while syncing perfectly with the video's lip movement.",
+            "source_info_link": "https://www.reddit.com/r/TextToSpeech/comments/1perksv/anyone_tried_ai_tools_for_translating_and_dubbing/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cu4BL2dvdG8_dXJsPUNBRVNwZ0VCeENKRjF6OXRpckZSeG9JdTIzMlhXTVd2WnNhQk1uOGt0bTdHbUZlSkZXbTg5NjJpSl91cFN4dEJuVWxwNWxMTlMySERXUzBXeEQtODJRd3g0bzZrZnBDUEg3M0xtLTZkUTdOX3ZtdXk2S0VrcEZKRHh0Tjk1NXJ3WHRKRDRNNEIyYzhxUllSbnJNM3IyTkFMV2k2N3hSNHZLRjdmLW5fZFlKVmxpcVJtLUJuODR4b3hjTlVkY2NlcEFkY3I2MUJtUEZCenFOcGlRWE5XU2pUTkphY3liNVlrLXBHWBIEGgIIABq3CRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJEJCAAQABgAIAAqIQoEYmVzdBXv2FQ_GgRnb29kGgN0b3AaCWJlc3R0b29scyoyCgV0b29scxW7KJBAGgllcXVpcG1lbnQaBHRvb2waCHRvb2wgZm9yGgliZXN0dG9vbHMqCQoCdG8VAAAAACo8Cgl0cmFuc2xhdGUVbOujPxoKdHJhbnNsYXRvchoOdHJhbnNsYXRldmlkZW8aDml2O3A7dHJhbnNsYXRlKiQKBXZpZGVvFZpgPEAaBnZpZGVvcxoOdHJhbnNsYXRldmlkZW8qTgoKdm9pY2VvdmVycxUAAAAAGgp2b2ljZSBvdmVyGgt2b2ljZSBvdmVycxoJdm9pY2VvdmVyGgZ2b2ljZXMaD2l2O3A7dm9pY2VvdmVycyo2CgV3aGlsZRX3MgQ_GgNhbmQaA2J1dBoCYnkaBHdoZW4aBndoaWxzdBoMd2hpbGVrZWVwaW5nKm4KB2tlZXBpbmcVD12gPhoHaG9sZGluZxoEa2VlcBoFa2VlcHMaBGtlcHQaC21haW50YWluaW5nGgpwcmVzZXJ2aW5nGglyZXRhaW5pbmcaB3N0YXlpbmcaB3N0b3JpbmcaDHdoaWxla2VlcGluZyoKCgN0aGUVAAAAACpBCghvcmlnaW5hbBVsoK8_GglhdXRoZW50aWMaBWZpcnN0GglvcmlnaW5hbHMaBHJlYWwaDW9yaWdpbmFsdm9pY2UqNQoFdm9pY2UVWKwAQBoFdm9jYWwaBnZvaWNlcxoNb3JpZ2luYWx2b2ljZRoJdm9pY2V0b25lKjUKBHRvbmUVk-6qPxoFcGl0Y2gaBXRvbmVzGgl2b2ljZXRvbmUaCWl2O3A7dG9uZRoEdG9vbDLuAS9nb3RvP3VybD1DQUVTcGdFQnhDSkYxejl0aXJGUnhvSXUyMzJYV01XdlpzYUJNbjhrdG03R21GZUpGV204OTYyaUpfdXBTeHRCblVscDVsTE5TMkhEV1MwV3hELTgyUXd4NG82a2ZwQ1BINzNMbS02ZFE3Tl92bXV5NktFa3BGSkR4dE45NTVyd1h0SkQ0TTRCMmM4cVJZUm5yTTNyMk5BTFdpNjd4UjR2S0Y3Zi1uX2RZSlZsaXFSbS1Cbjg0eG94Y05VZGNjZXBBZGNyNjFCbVBGQnpxTnBpUVhOV1NqVE5KYWN5YjVZay1wR1g6VkFueW9uZSB0cmllZCBBSSA8Yj50b29sczwvYj4gZm9yIHRyYW5zbGF0aW5nIDxiPmFuZDwvYj4gZHViYmluZyA8Yj52aWRlb3M8L2I-IHdpdGggLi4uQpkBVGhlIDxiPlRUUyB0ZWNobm9sb2d5PC9iPiBJIHVzZWQgd2FzIGFibGUgdG8ga2VlcCB0aGUgdG9uZSBhbmQgZW1vdGlvbiBvZiB0aGUgb3JpZ2luYWwgY29udGVudCB3aGlsZSBzeW5jaW5nIHBlcmZlY3RseSB3aXRoIHRoZSB2aWRlbyYjMzk7cyBsaXAgbW92ZW1lbnQuSgJ0b0oDdGhlUgJieVIDYnV0UgN0b3BSA2FuZFIEd2hlblIFZmlyc3QiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cu4BL2dvdG8_dXJsPUNBRVNwZ0VCeENKRjF6OXRpckZSeG9JdTIzMlhXTVd2WnNhQk1uOGt0bTdHbUZlSkZXbTg5NjJpSl91cFN4dEJuVWxwNWxMTlMySERXUzBXeEQtODJRd3g0bzZrZnBDUEg3M0xtLTZkUTdOX3ZtdXk2S0VrcEZKRHh0Tjk1NXJ3WHRKRDRNNEIyYzhxUllSbnJNM3IyTkFMV2k2N3hSNHZLRjdmLW5fZFlKVmxpcVJtLUJuODR4b3hjTlVkY2NlcEFkY3I2MUJtUEZCenFOcGlRWE5XU2pUTkphY3liNVlrLXBHWBIEGgIIABq3CRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJEJCAAQABgAIAAqIQoEYmVzdBXv2FQ_GgRnb29kGgN0b3AaCWJlc3R0b29scyoyCgV0b29scxW7KJBAGgllcXVpcG1lbnQaBHRvb2waCHRvb2wgZm9yGgliZXN0dG9vbHMqCQoCdG8VAAAAACo8Cgl0cmFuc2xhdGUVbOujPxoKdHJhbnNsYXRvchoOdHJhbnNsYXRldmlkZW8aDml2O3A7dHJhbnNsYXRlKiQKBXZpZGVvFZpgPEAaBnZpZGVvcxoOdHJhbnNsYXRldmlkZW8qTgoKdm9pY2VvdmVycxUAAAAAGgp2b2ljZSBvdmVyGgt2b2ljZSBvdmVycxoJdm9pY2VvdmVyGgZ2b2ljZXMaD2l2O3A7dm9pY2VvdmVycyo2CgV3aGlsZRX3MgQ_GgNhbmQaA2J1dBoCYnkaBHdoZW4aBndoaWxzdBoMd2hpbGVrZWVwaW5nKm4KB2tlZXBpbmcVD12gPhoHaG9sZGluZxoEa2VlcBoFa2VlcHMaBGtlcHQaC21haW50YWluaW5nGgpwcmVzZXJ2aW5nGglyZXRhaW5pbmcaB3N0YXlpbmcaB3N0b3JpbmcaDHdoaWxla2VlcGluZyoKCgN0aGUVAAAAACpBCghvcmlnaW5hbBVsoK8_GglhdXRoZW50aWMaBWZpcnN0GglvcmlnaW5hbHMaBHJlYWwaDW9yaWdpbmFsdm9pY2UqNQoFdm9pY2UVWKwAQBoFdm9jYWwaBnZvaWNlcxoNb3JpZ2luYWx2b2ljZRoJdm9pY2V0b25lKjUKBHRvbmUVk-6qPxoFcGl0Y2gaBXRvbmVzGgl2b2ljZXRvbmUaCWl2O3A7dG9uZRoEdG9vbDLuAS9nb3RvP3VybD1DQUVTcGdFQnhDSkYxejl0aXJGUnhvSXUyMzJYV01XdlpzYUJNbjhrdG03R21GZUpGV204OTYyaUpfdXBTeHRCblVscDVsTE5TMkhEV1MwV3hELTgyUXd4NG82a2ZwQ1BINzNMbS02ZFE3Tl92bXV5NktFa3BGSkR4dE45NTVyd1h0SkQ0TTRCMmM4cVJZUm5yTTNyMk5BTFdpNjd4UjR2S0Y3Zi1uX2RZSlZsaXFSbS1Cbjg0eG94Y05VZGNjZXBBZGNyNjFCbVBGQnpxTnBpUVhOV1NqVE5KYWN5YjVZay1wR1g6VkFueW9uZSB0cmllZCBBSSA8Yj50b29sczwvYj4gZm9yIHRyYW5zbGF0aW5nIDxiPmFuZDwvYj4gZHViYmluZyA8Yj52aWRlb3M8L2I-IHdpdGggLi4uQpkBVGhlIDxiPlRUUyB0ZWNobm9sb2d5PC9iPiBJIHVzZWQgd2FzIGFibGUgdG8ga2VlcCB0aGUgdG9uZSBhbmQgZW1vdGlvbiBvZiB0aGUgb3JpZ2luYWwgY29udGVudCB3aGlsZSBzeW5jaW5nIHBlcmZlY3RseSB3aXRoIHRoZSB2aWRlbyYjMzk7cyBsaXAgbW92ZW1lbnQuSgJ0b0oDdGhlUgJieVIDYnV0UgN0b3BSA2FuZFIEd2hlblIFZmlyc3QiAhABSABYAGgA",
+        "source": "Reddit \u00b7 r/TextToSpeech"
+      },
+      {
+        "position": 3,
+        "title": "AI Video Translator : Translate Videos into 175+ Languages",
+        "link": "https://www.google.com/goto?url=CAESXQHEIkXXldHqViF1yrg4EH0yWHuk1KuCZFH2BlHLc_LkpPQcb198lwLF_UC1lHgum70OUCFnALiJjNRWzYX4uqK1VnIv8JjPgIy7K26Da6YTRlEeGblhwXmU0vT-Jw",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXQHEIkXXo5kxtjLhhnzjasJOhIDrpfYkFIK3hDVirrS36uENw6EC_1EmrH40XzIciuZRJEgCjqmfKDStWtUEZaYGPlIKR7J6Zl7BKeDte6K3SiELaD4DlCHM6PKPfw&ved=2ahUKEwjMjayu3JuYAxUmvokEHdY1NGgQFnoECA4QAQ&uoh=1",
+        "displayed_link": "https://www.heygen.com \u203a translate",
+        "favicon": "https://serpapi.com/searches/6b02f35a5fa7b7f070790b2c/images/zHRp_F6hetOXTVfeoBgC_ZVzKLS6MiGZEV-8FFRKxb8.png",
+        "snippet": "Upload any video or paste a YouTube link, and HeyGen will translate it into 175+ languages, preserving the original speaker's voice, lip movements, and ...",
+        "snippet_highlighted_words": [
+          "video",
+          "and",
+          "translate",
+          "preserving",
+          "original",
+          "voice",
+          "and"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Upload any video or paste a YouTube link, and HeyGen will translate it into 175+ languages, preserving the original speaker's voice, lip movements, and\n ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESXQHEIkXXldHqViF1yrg4EH0yWHuk1KuCZFH2BlHLc_LkpPQcb198lwLF_UC1lHgum70OUCFnALiJjNRWzYX4uqK1VnIv8JjPgIy7K26Da6YTRlEeGblhwXmU0vT-Jw",
+            "icon": "https://serpapi.com/searches/6b02f35a5fa7b7f070790b2c/images/zHRp_F6hetOXTVfeoBgC_ZKF-u0wTZD6hnAMIfYylE0oPvzzy-qRq1v2WDJotfue.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CowBL2dvdG8_dXJsPUNBRVNYUUhFSWtYWGxkSHFWaUYxeXJnNEVIMHlXSHVrMUt1Q1pGSDJCbEhMY19Ma3BQUWNiMTk4bHdMRl9VQzFsSGd1bTcwT1VDRm5BTGlKak5SV3pZWDR1cUsxVm5JdjhKalBnSXk3SzI2RGE2WVRSbEVlR2JsaHdYbVUwdlQtSncSBBoCCAAagwkSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDdCAgAEAAYACAAKiEKBGJlc3QVOfdwPhoEZ29vZBoDdG9wGgliZXN0dG9vbHMqMgoFdG9vbHMViQ4lPxoJZXF1aXBtZW50GgR0b29sGgh0b29sIGZvchoJYmVzdHRvb2xzKgkKAnRvFQAAAAAqPAoJdHJhbnNsYXRlFdHw0EAaCnRyYW5zbGF0b3IaDnRyYW5zbGF0ZXZpZGVvGg5pdjtwO3RyYW5zbGF0ZSokCgV2aWRlbxXQk-JAGgZ2aWRlb3MaDnRyYW5zbGF0ZXZpZGVvKk4KCnZvaWNlb3ZlcnMVEwPJPhoKdm9pY2Ugb3ZlchoLdm9pY2Ugb3ZlcnMaCXZvaWNlb3ZlchoGdm9pY2VzGg9pdjtwO3ZvaWNlb3ZlcnMqNgoFd2hpbGUVs1EJPhoDYW5kGgNidXQaAmJ5GgR3aGVuGgZ3aGlsc3QaDHdoaWxla2VlcGluZypuCgdrZWVwaW5nFWrfID4aB2hvbGRpbmcaBGtlZXAaBWtlZXBzGgRrZXB0GgttYWludGFpbmluZxoKcHJlc2VydmluZxoJcmV0YWluaW5nGgdzdGF5aW5nGgdzdG9yaW5nGgx3aGlsZWtlZXBpbmcqCgoDdGhlFQAAAAAqQQoIb3JpZ2luYWwVOdVNPxoJYXV0aGVudGljGgVmaXJzdBoJb3JpZ2luYWxzGgRyZWFsGg1vcmlnaW5hbHZvaWNlKjUKBXZvaWNlFcvATkAaBXZvY2FsGgZ2b2ljZXMaDW9yaWdpbmFsdm9pY2UaCXZvaWNldG9uZSo1CgR0b25lFYyksj8aBXBpdGNoGgV0b25lcxoJdm9pY2V0b25lGglpdjtwO3RvbmUaBHRvb2wyjAEvZ290bz91cmw9Q0FFU1hRSEVJa1hYbGRIcVZpRjF5cmc0RUgweVdIdWsxS3VDWkZIMkJsSExjX0xrcFBRY2IxOThsd0xGX1VDMWxIZ3VtNzBPVUNGbkFMaUpqTlJXellYNHVxSzFWbkl2OEpqUGdJeTdLMjZEYTZZVFJsRWVHYmxod1htVTB2VC1KdzpIQUkgPGI-VmlkZW8gVHJhbnNsYXRvcjwvYj4gOiA8Yj5UcmFuc2xhdGUgVmlkZW9zPC9iPiBpbnRvIDE3NSsgTGFuZ3VhZ2VzQtUBVXBsb2FkIGFueSA8Yj52aWRlbzwvYj4gb3IgcGFzdGUgYSBZb3VUdWJlIGxpbmssIDxiPmFuZDwvYj4gSGV5R2VuIHdpbGwgPGI-dHJhbnNsYXRlPC9iPiBpdCBpbnRvIDE3NSsgbGFuZ3VhZ2VzLCA8Yj5wcmVzZXJ2aW5nPC9iPiB0aGUgPGI-b3JpZ2luYWw8L2I-IHNwZWFrZXImIzM5O3MgPGI-dm9pY2U8L2I-LCBsaXAgbW92ZW1lbnRzLCA8Yj5hbmQ8L2I-Jm5ic3A7Li4uSgN0aGVKAnRvUgR3aGVuUgNidXRSA3RvcFIDYW5kUgVmaXJzdFICYnkiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CowBL2dvdG8_dXJsPUNBRVNYUUhFSWtYWGxkSHFWaUYxeXJnNEVIMHlXSHVrMUt1Q1pGSDJCbEhMY19Ma3BQUWNiMTk4bHdMRl9VQzFsSGd1bTcwT1VDRm5BTGlKak5SV3pZWDR1cUsxVm5JdjhKalBnSXk3SzI2RGE2WVRSbEVlR2JsaHdYbVUwdlQtSncSBBoCCAAagwkSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDdCAgAEAAYACAAKiEKBGJlc3QVOfdwPhoEZ29vZBoDdG9wGgliZXN0dG9vbHMqMgoFdG9vbHMViQ4lPxoJZXF1aXBtZW50GgR0b29sGgh0b29sIGZvchoJYmVzdHRvb2xzKgkKAnRvFQAAAAAqPAoJdHJhbnNsYXRlFdHw0EAaCnRyYW5zbGF0b3IaDnRyYW5zbGF0ZXZpZGVvGg5pdjtwO3RyYW5zbGF0ZSokCgV2aWRlbxXQk-JAGgZ2aWRlb3MaDnRyYW5zbGF0ZXZpZGVvKk4KCnZvaWNlb3ZlcnMVEwPJPhoKdm9pY2Ugb3ZlchoLdm9pY2Ugb3ZlcnMaCXZvaWNlb3ZlchoGdm9pY2VzGg9pdjtwO3ZvaWNlb3ZlcnMqNgoFd2hpbGUVs1EJPhoDYW5kGgNidXQaAmJ5GgR3aGVuGgZ3aGlsc3QaDHdoaWxla2VlcGluZypuCgdrZWVwaW5nFWrfID4aB2hvbGRpbmcaBGtlZXAaBWtlZXBzGgRrZXB0GgttYWludGFpbmluZxoKcHJlc2VydmluZxoJcmV0YWluaW5nGgdzdGF5aW5nGgdzdG9yaW5nGgx3aGlsZWtlZXBpbmcqCgoDdGhlFQAAAAAqQQoIb3JpZ2luYWwVOdVNPxoJYXV0aGVudGljGgVmaXJzdBoJb3JpZ2luYWxzGgRyZWFsGg1vcmlnaW5hbHZvaWNlKjUKBXZvaWNlFcvATkAaBXZvY2FsGgZ2b2ljZXMaDW9yaWdpbmFsdm9pY2UaCXZvaWNldG9uZSo1CgR0b25lFYyksj8aBXBpdGNoGgV0b25lcxoJdm9pY2V0b25lGglpdjtwO3RvbmUaBHRvb2wyjAEvZ290bz91cmw9Q0FFU1hRSEVJa1hYbGRIcVZpRjF5cmc0RUgweVdIdWsxS3VDWkZIMkJsSExjX0xrcFBRY2IxOThsd0xGX1VDMWxIZ3VtNzBPVUNGbkFMaUpqTlJXellYNHVxSzFWbkl2OEpqUGdJeTdLMjZEYTZZVFJsRWVHYmxod1htVTB2VC1KdzpIQUkgPGI-VmlkZW8gVHJhbnNsYXRvcjwvYj4gOiA8Yj5UcmFuc2xhdGUgVmlkZW9zPC9iPiBpbnRvIDE3NSsgTGFuZ3VhZ2VzQtUBVXBsb2FkIGFueSA8Yj52aWRlbzwvYj4gb3IgcGFzdGUgYSBZb3VUdWJlIGxpbmssIDxiPmFuZDwvYj4gSGV5R2VuIHdpbGwgPGI-dHJhbnNsYXRlPC9iPiBpdCBpbnRvIDE3NSsgbGFuZ3VhZ2VzLCA8Yj5wcmVzZXJ2aW5nPC9iPiB0aGUgPGI-b3JpZ2luYWw8L2I-IHNwZWFrZXImIzM5O3MgPGI-dm9pY2U8L2I-LCBsaXAgbW92ZW1lbnRzLCA8Yj5hbmQ8L2I-Jm5ic3A7Li4uSgN0aGVKAnRvUgR3aGVuUgNidXRSA3RvcFIDYW5kUgVmaXJzdFICYnkiAhABSABYAGgA",
+        "source": "HeyGen",
+        "read_more_link": "https://www.google.com/goto?url=CAESugEBxCJF15ShbWsY4LkUhkLyJwBeFaMxhz3edSmPZXbnuMFF7RS-h6CLUH8AnY-Pg3JVQYDETKEFCFNi83HQr9CmdUCLLS2oyiv8Az0Ea-BILnkvq1Lb9JjkT8PYHanv-f3fYVfRReR2seqQN4x4MJj4j11HfYBHuxNXyM8Md8755_lESPk0lOaFPv69hjSLCsaWK_Lp4qiN4ATlVnjzV7WT9xxdP14xc6nsH5YVoP1FuN3pKDTgPhXz3Ag&gsessionid=uwCT8_xTN3k3XKeuVfDqX8UDGgl0o1pTKkjUXBk57pbqtK11oBDwtA"
+      },
+      {
+        "position": 4,
+        "title": "FREE AI Video Translator in 140+ Languages",
+        "link": "https://www.google.com/goto?url=CAESbwHEIkXXvMD9kUXb9he7W9TOt-PgMAYvTgTMUMiV8uANJ6vsUk3RNd5m8IxT60jG0uLqA4rIW-xD2YRO5luw3_JLWrt3a1WMo9SR0NkLBxn3fmtbOLEZN23I29KfzZOj3DCwdtHQnTBNjYN5oPVkBw",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHEIkXXU6CUeGpORe3mJopcIH2J5aXdNScoMxLAjAOMgTZb6wj41AMe-jzs8rO4XfptFpqnMGtSiubpbOfWsnpDjRq4pDsbSell1IIgJy-4sX8LqLuWm1cW4LhUR7Phr7AqQdlD4KiygjxfuskvBA&ved=2ahUKEwjMjayu3JuYAxUmvokEHdY1NGgQFnoECAwQAQ&uoh=1",
+        "displayed_link": "https://www.synthesia.io \u203a features \u203a video-translator",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEw-V9o-V9o-V9o-V9o3UtosStgdQdeAjuXEyvLT1_Xm6Pn___9oeeGbpelfct-1vO5r7Y-PAAAABXRSTlMAS9v_2vqAxeQAAACnSURBVHgBjdKLCoUgEEVRdTq-0_7_a682oFNcpc27BXlAldKG_nboZrRMq2ONRtGmLwj7CBKdD1HmITDlZwIdm-gcCJ_fkQVwow25FYOotCpuTN2cnRGfO_CyNMLZsTLmVsFEHsFn8k8kltyyHVHneM5e7UNi9Dx-5uLEWlpB1C2HGwkAjxfxCCXGy5Kjgf5tIIFRFrz7dNnr9mjWduwftdKLZ220-gHbahIx3-wdSwAAAABJRU5ErkJggg.png",
+        "snippet": "Translate videos in any language and accent while preserving each speaker's voice with perfect lip-sync. For free.",
+        "snippet_highlighted_words": [
+          "Translate videos in any language and accent"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.7,
+              "reviews": 2542
+            },
+            "extensions": [
+              "4.7(2,542)",
+              "Free"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Translate videos in any language and accent while preserving each speaker's voice with perfect lip-sync. For free.",
+            "source_info_link": "https://www.google.com/goto?url=CAESbwHEIkXXvMD9kUXb9he7W9TOt-PgMAYvTgTMUMiV8uANJ6vsUk3RNd5m8IxT60jG0uLqA4rIW-xD2YRO5luw3_JLWrt3a1WMo9SR0NkLBxn3fmtbOLEZN23I29KfzZOj3DCwdtHQnTBNjYN5oPVkBw",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEw-V9o-V9o-V9o-V9o3UtosStgdQdeAjuXEyvLT1_Xm6Pn___9oeeGbpelfct-1vO5r7Y-PAAAABXRSTlMAS9v_2vqAxeQAAACnSURBVHgBjdKLCoUgEEVRdTq-0_7_a682oFNcpc27BXlAldKG_nboZrRMq2ONRtGmLwj7CBKdD1HmITDlZwIdm-gcCJ_fkQVwow25FYOotCpuTN2cnRGfO_CyNMLZsTLmVsFEHsFn8k8kltyyHVHneM5e7UNi9Dx-5uLEWlpB1C2HGwkAjxfxCCXGy5Kjgf5tIIFRFrz7dNnr9mjWduwftdKLZ220-gHbahIx3-wdSwAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqQBL2dvdG8_dXJsPUNBRVNid0hFSWtYWHZNRDlrVVhiOWhlN1c5VE90LVBnTUFZdlRnVE1VTWlWOHVBTko2dnNVazNSTmQ1bThJeFQ2MGpHMHVMcUE0cklXLXhEMllSTzVsdXczX0pMV3J0M2ExV01vOVNSME5rTEJ4bjNmbXRiT0xFWk4yM0kyOUtmelpPajNEQ3dkdEhRblRCTmpZTjVvUFZrQncSBBoCCAAatwgSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCRCAgAEAAYACAAKiEKBGJlc3QV6U9bPxoEZ29vZBoDdG9wGgliZXN0dG9vbHMqMgoFdG9vbHMV4J69PhoJZXF1aXBtZW50GgR0b29sGgh0b29sIGZvchoJYmVzdHRvb2xzKgkKAnRvFQAAAAAqPAoJdHJhbnNsYXRlFVtqTUAaCnRyYW5zbGF0b3IaDnRyYW5zbGF0ZXZpZGVvGg5pdjtwO3RyYW5zbGF0ZSokCgV2aWRlbxXSnd5AGgZ2aWRlb3MaDnRyYW5zbGF0ZXZpZGVvKk4KCnZvaWNlb3ZlcnMVAAAAABoKdm9pY2Ugb3ZlchoLdm9pY2Ugb3ZlcnMaCXZvaWNlb3ZlchoGdm9pY2VzGg9pdjtwO3ZvaWNlb3ZlcnMqNgoFd2hpbGUVgOMgPxoDYW5kGgNidXQaAmJ5GgR3aGVuGgZ3aGlsc3QaDHdoaWxla2VlcGluZypuCgdrZWVwaW5nFQAAAAAaB2hvbGRpbmcaBGtlZXAaBWtlZXBzGgRrZXB0GgttYWludGFpbmluZxoKcHJlc2VydmluZxoJcmV0YWluaW5nGgdzdGF5aW5nGgdzdG9yaW5nGgx3aGlsZWtlZXBpbmcqCgoDdGhlFQAAAAAqQQoIb3JpZ2luYWwV3Ty6PxoJYXV0aGVudGljGgVmaXJzdBoJb3JpZ2luYWxzGgRyZWFsGg1vcmlnaW5hbHZvaWNlKjUKBXZvaWNlFXIEC0AaBXZvY2FsGgZ2b2ljZXMaDW9yaWdpbmFsdm9pY2UaCXZvaWNldG9uZSo1CgR0b25lFSuE4z4aBXBpdGNoGgV0b25lcxoJdm9pY2V0b25lGglpdjtwO3RvbmUaBHRvb2wypAEvZ290bz91cmw9Q0FFU2J3SEVJa1hYdk1EOWtVWGI5aGU3VzlUT3QtUGdNQVl2VGdUTVVNaVY4dUFOSjZ2c1VrM1JOZDVtOEl4VDYwakcwdUxxQTRySVcteEQyWVJPNWx1dzNfSkxXcnQzYTFXTW85U1IwTmtMQnhuM2ZtdGJPTEVaTjIzSTI5S2Z6Wk9qM0RDd2R0SFFuVEJOallONW9QVmtCdzo9RlJFRSBBSSA8Yj5WaWRlbyBUcmFuc2xhdG9yPC9iPiBpbiAxNDArIExhbmd1YWdlcyAtIFN5bnRoZXNpYUJ9PGI-VHJhbnNsYXRlIHZpZGVvcyBpbiBhbnkgbGFuZ3VhZ2UgYW5kIGFjY2VudDwvYj4gd2hpbGUgcHJlc2VydmluZyBlYWNoIHNwZWFrZXImIzM5O3Mgdm9pY2Ugd2l0aCBwZXJmZWN0IGxpcC1zeW5jLiBGb3IgZnJlZS5KA3RoZUoCdG9SAmJ5UgNhbmRSA3RvcFIDYnV0UgVmaXJzdFIEd2hlbiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqQBL2dvdG8_dXJsPUNBRVNid0hFSWtYWHZNRDlrVVhiOWhlN1c5VE90LVBnTUFZdlRnVE1VTWlWOHVBTko2dnNVazNSTmQ1bThJeFQ2MGpHMHVMcUE0cklXLXhEMllSTzVsdXczX0pMV3J0M2ExV01vOVNSME5rTEJ4bjNmbXRiT0xFWk4yM0kyOUtmelpPajNEQ3dkdEhRblRCTmpZTjVvUFZrQncSBBoCCAAatwgSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCRCAgAEAAYACAAKiEKBGJlc3QV6U9bPxoEZ29vZBoDdG9wGgliZXN0dG9vbHMqMgoFdG9vbHMV4J69PhoJZXF1aXBtZW50GgR0b29sGgh0b29sIGZvchoJYmVzdHRvb2xzKgkKAnRvFQAAAAAqPAoJdHJhbnNsYXRlFVtqTUAaCnRyYW5zbGF0b3IaDnRyYW5zbGF0ZXZpZGVvGg5pdjtwO3RyYW5zbGF0ZSokCgV2aWRlbxXSnd5AGgZ2aWRlb3MaDnRyYW5zbGF0ZXZpZGVvKk4KCnZvaWNlb3ZlcnMVAAAAABoKdm9pY2Ugb3ZlchoLdm9pY2Ugb3ZlcnMaCXZvaWNlb3ZlchoGdm9pY2VzGg9pdjtwO3ZvaWNlb3ZlcnMqNgoFd2hpbGUVgOMgPxoDYW5kGgNidXQaAmJ5GgR3aGVuGgZ3aGlsc3QaDHdoaWxla2VlcGluZypuCgdrZWVwaW5nFQAAAAAaB2hvbGRpbmcaBGtlZXAaBWtlZXBzGgRrZXB0GgttYWludGFpbmluZxoKcHJlc2VydmluZxoJcmV0YWluaW5nGgdzdGF5aW5nGgdzdG9yaW5nGgx3aGlsZWtlZXBpbmcqCgoDdGhlFQAAAAAqQQoIb3JpZ2luYWwV3Ty6PxoJYXV0aGVudGljGgVmaXJzdBoJb3JpZ2luYWxzGgRyZWFsGg1vcmlnaW5hbHZvaWNlKjUKBXZvaWNlFXIEC0AaBXZvY2FsGgZ2b2ljZXMaDW9yaWdpbmFsdm9pY2UaCXZvaWNldG9uZSo1CgR0b25lFSuE4z4aBXBpdGNoGgV0b25lcxoJdm9pY2V0b25lGglpdjtwO3RvbmUaBHRvb2wypAEvZ290bz91cmw9Q0FFU2J3SEVJa1hYdk1EOWtVWGI5aGU3VzlUT3QtUGdNQVl2VGdUTVVNaVY4dUFOSjZ2c1VrM1JOZDVtOEl4VDYwakcwdUxxQTRySVcteEQyWVJPNWx1dzNfSkxXcnQzYTFXTW85U1IwTmtMQnhuM2ZtdGJPTEVaTjIzSTI5S2Z6Wk9qM0RDd2R0SFFuVEJOallONW9QVmtCdzo9RlJFRSBBSSA8Yj5WaWRlbyBUcmFuc2xhdG9yPC9iPiBpbiAxNDArIExhbmd1YWdlcyAtIFN5bnRoZXNpYUJ9PGI-VHJhbnNsYXRlIHZpZGVvcyBpbiBhbnkgbGFuZ3VhZ2UgYW5kIGFjY2VudDwvYj4gd2hpbGUgcHJlc2VydmluZyBlYWNoIHNwZWFrZXImIzM5O3Mgdm9pY2Ugd2l0aCBwZXJmZWN0IGxpcC1zeW5jLiBGb3IgZnJlZS5KA3RoZUoCdG9SAmJ5UgNhbmRSA3RvcFIDYnV0UgVmaXJzdFIEd2hlbiICEAFIAFgAaAA",
+        "source": "Synthesia"
+      },
+      {
+        "position": 5,
+        "title": "AI Video Translator: Subtitles and Dubbing",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXMnfMxWXOPXtdHHQ2AlusYkqfkNSfUDyR7F5TDvkiBz6-SKbbsjsP2P5jQwNNusHHuLy0IPLoeDkQ69zl3USM48unAftINWZ2GleEIC3W-GV91JKuWrhqapZwggNFkOAqL_74",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaAHEIkXXg_MGzzg1mc9kSdo5YrmQf7TxYbAnooXRhaZVXbmrFU6tnr3NHowbC_hGlK4lvXsSGcQ2TehZHzfaEUgAi6SmdyLn-7PvVQsDDVnklUm6RSGfcorpD7gGkqv8W-jWxKo3SzR4&ved=2ahUKEwjMjayu3JuYAxUmvokEHdY1NGgQFnoECAsQAQ&uoh=1",
+        "displayed_link": "https://www.smartcat.com \u203a video-translation",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAbFBMVEX____y8fbBt9uYhsZ-ZLt1Wbj08_ejk8xyVLh4XLt7YLx9Y71-ZL3SzOR0V7h2Wbqqm9CDa76HcMDu7PTm4u-xpdGvotLHvt6klcqLdsCKc8GEbL5wUbiVgcba1Oi1qtXq5_POxuPVz-W8sdge3LbgAAABLUlEQVR4Aa2SBXLEMAwAFRYZjpn__8dKE1-Z2w16xAD_QFU3bde1TV29EfUDEouqMOHQv5SFyFpgohiey2oUFUc1ZZgw1s_sUCW20-l0IiaDWVIMUOijyGQOxiIu7T0V073HHVjjmOLCDafskYdSAyo3AKthvd5IWm9J1MBRvSZlM9jtE4l03eFALqYanIZVJvY9Lpk4gLFK4s6c1vVO4OTZGOnMKi04nRrpcBmDHJtmDv1GtCtChwk3vcn2zHGJokXYijL6kbKX5Yqqd7cN8xJ6HXPIpCokaodSiv8skPfBWheJOEy4lOJNSBZtla_gp1tthwOXJlgcPpQuu9y4dDw8NZ433vjQ4nJmVWYsjS8j48jT5I2JBiuG18PWO4L1-2ticAyfL9jnq_k3HgBNmBJkeS-ZNgAAAABJRU5ErkJggg.png",
+        "snippet": "Translate video into 280+ languages. Subtitles, dubbing or voice-over from one upload \u2014 edit the transcript once and every language follows.",
+        "snippet_highlighted_words": [
+          "Translate video",
+          "voice-over",
+          "and"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Translate video into 280+ languages. Subtitles, dubbing or voice-over from one upload \u2014 edit the transcript once and every language follows.",
+            "source_info_link": "https://www.google.com/goto?url=CAESaAHEIkXXMnfMxWXOPXtdHHQ2AlusYkqfkNSfUDyR7F5TDvkiBz6-SKbbsjsP2P5jQwNNusHHuLy0IPLoeDkQ69zl3USM48unAftINWZ2GleEIC3W-GV91JKuWrhqapZwggNFkOAqL_74",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAbFBMVEX____y8fbBt9uYhsZ-ZLt1Wbj08_ejk8xyVLh4XLt7YLx9Y71-ZL3SzOR0V7h2Wbqqm9CDa76HcMDu7PTm4u-xpdGvotLHvt6klcqLdsCKc8GEbL5wUbiVgcba1Oi1qtXq5_POxuPVz-W8sdge3LbgAAABLUlEQVR4Aa2SBXLEMAwAFRYZjpn__8dKE1-Z2w16xAD_QFU3bde1TV29EfUDEouqMOHQv5SFyFpgohiey2oUFUc1ZZgw1s_sUCW20-l0IiaDWVIMUOijyGQOxiIu7T0V073HHVjjmOLCDafskYdSAyo3AKthvd5IWm9J1MBRvSZlM9jtE4l03eFALqYanIZVJvY9Lpk4gLFK4s6c1vVO4OTZGOnMKi04nRrpcBmDHJtmDv1GtCtChwk3vcn2zHGJokXYijL6kbKX5Yqqd7cN8xJ6HXPIpCokaodSiv8skPfBWheJOEy4lOJNSBZtla_gp1tthwOXJlgcPpQuu9y4dDw8NZ433vjQ4nJmVWYsjS8j48jT5I2JBiuG18PWO4L1-2ticAyfL9jnq_k3HgBNmBJkeS-ZNgAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWE1uZk14V1hPUFh0ZEhIUTJBbHVzWWtxZmtOU2ZVRHlSN0Y1VER2a2lCejYtU0tiYnNqc1AyUDVqUXdOTnVzSEh1THkwSVBMb2VEa1E2OXpsM1VTTTQ4dW5BZnRJTldaMkdsZUVJQzNXLUdWOTFKS3VXcmhxYXBad2dnTkZrT0FxTF83NBIEGgIIABraCBICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLQICAAQABgAIAAqIQoEYmVzdBXxBGc9GgRnb29kGgN0b3AaCWJlc3R0b29scyoyCgV0b29scxV81jM_GgllcXVpcG1lbnQaBHRvb2waCHRvb2wgZm9yGgliZXN0dG9vbHMqCQoCdG8VAAAAACo8Cgl0cmFuc2xhdGUVN0z-PxoKdHJhbnNsYXRvchoOdHJhbnNsYXRldmlkZW8aDml2O3A7dHJhbnNsYXRlKiQKBXZpZGVvFSg7t0AaBnZpZGVvcxoOdHJhbnNsYXRldmlkZW8qTgoKdm9pY2VvdmVycxUAAAAAGgp2b2ljZSBvdmVyGgt2b2ljZSBvdmVycxoJdm9pY2VvdmVyGgZ2b2ljZXMaD2l2O3A7dm9pY2VvdmVycyo2CgV3aGlsZRXW_5o-GgNhbmQaA2J1dBoCYnkaBHdoZW4aBndoaWxzdBoMd2hpbGVrZWVwaW5nKm4KB2tlZXBpbmcVAAAAABoHaG9sZGluZxoEa2VlcBoFa2VlcHMaBGtlcHQaC21haW50YWluaW5nGgpwcmVzZXJ2aW5nGglyZXRhaW5pbmcaB3N0YXlpbmcaB3N0b3JpbmcaDHdoaWxla2VlcGluZyoKCgN0aGUVAAAAACpBCghvcmlnaW5hbBXemQ8_GglhdXRoZW50aWMaBWZpcnN0GglvcmlnaW5hbHMaBHJlYWwaDW9yaWdpbmFsdm9pY2UqNQoFdm9pY2UVJ_b2PxoFdm9jYWwaBnZvaWNlcxoNb3JpZ2luYWx2b2ljZRoJdm9pY2V0b25lKjUKBHRvbmUVAAAAABoFcGl0Y2gaBXRvbmVzGgl2b2ljZXRvbmUaCWl2O3A7dG9uZRoEdG9vbDKaAS9nb3RvP3VybD1DQUVTYUFIRUlrWFhNbmZNeFdYT1BYdGRISFEyQWx1c1lrcWZrTlNmVUR5UjdGNVREdmtpQno2LVNLYmJzanNQMlA1alF3Tk51c0hIdUx5MElQTG9lRGtRNjl6bDNVU000OHVuQWZ0SU5XWjJHbGVFSUMzVy1HVjkxSkt1V3JocWFwWndnZ05Ga09BcUxfNzQ6Q0FJIDxiPlZpZGVvIFRyYW5zbGF0b3I8L2I-OiBTdWJ0aXRsZXMgPGI-YW5kPC9iPiBEdWJiaW5nIHwgU21hcnRjYXRCowE8Yj5UcmFuc2xhdGUgdmlkZW88L2I-IGludG8gMjgwKyBsYW5ndWFnZXMuIFN1YnRpdGxlcywgZHViYmluZyBvciA8Yj52b2ljZS1vdmVyPC9iPiBmcm9tIG9uZSB1cGxvYWQg4oCUIGVkaXQgdGhlIHRyYW5zY3JpcHQgb25jZSA8Yj5hbmQ8L2I-IGV2ZXJ5IGxhbmd1YWdlIGZvbGxvd3MuSgJ0b0oDdGhlUgJieVIDYW5kUgN0b3BSA2J1dFIEd2hlblIFZmlyc3QiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWE1uZk14V1hPUFh0ZEhIUTJBbHVzWWtxZmtOU2ZVRHlSN0Y1VER2a2lCejYtU0tiYnNqc1AyUDVqUXdOTnVzSEh1THkwSVBMb2VEa1E2OXpsM1VTTTQ4dW5BZnRJTldaMkdsZUVJQzNXLUdWOTFKS3VXcmhxYXBad2dnTkZrT0FxTF83NBIEGgIIABraCBICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLQICAAQABgAIAAqIQoEYmVzdBXxBGc9GgRnb29kGgN0b3AaCWJlc3R0b29scyoyCgV0b29scxV81jM_GgllcXVpcG1lbnQaBHRvb2waCHRvb2wgZm9yGgliZXN0dG9vbHMqCQoCdG8VAAAAACo8Cgl0cmFuc2xhdGUVN0z-PxoKdHJhbnNsYXRvchoOdHJhbnNsYXRldmlkZW8aDml2O3A7dHJhbnNsYXRlKiQKBXZpZGVvFSg7t0AaBnZpZGVvcxoOdHJhbnNsYXRldmlkZW8qTgoKdm9pY2VvdmVycxUAAAAAGgp2b2ljZSBvdmVyGgt2b2ljZSBvdmVycxoJdm9pY2VvdmVyGgZ2b2ljZXMaD2l2O3A7dm9pY2VvdmVycyo2CgV3aGlsZRXW_5o-GgNhbmQaA2J1dBoCYnkaBHdoZW4aBndoaWxzdBoMd2hpbGVrZWVwaW5nKm4KB2tlZXBpbmcVAAAAABoHaG9sZGluZxoEa2VlcBoFa2VlcHMaBGtlcHQaC21haW50YWluaW5nGgpwcmVzZXJ2aW5nGglyZXRhaW5pbmcaB3N0YXlpbmcaB3N0b3JpbmcaDHdoaWxla2VlcGluZyoKCgN0aGUVAAAAACpBCghvcmlnaW5hbBXemQ8_GglhdXRoZW50aWMaBWZpcnN0GglvcmlnaW5hbHMaBHJlYWwaDW9yaWdpbmFsdm9pY2UqNQoFdm9pY2UVJ_b2PxoFdm9jYWwaBnZvaWNlcxoNb3JpZ2luYWx2b2ljZRoJdm9pY2V0b25lKjUKBHRvbmUVAAAAABoFcGl0Y2gaBXRvbmVzGgl2b2ljZXRvbmUaCWl2O3A7dG9uZRoEdG9vbDKaAS9nb3RvP3VybD1DQUVTYUFIRUlrWFhNbmZNeFdYT1BYdGRISFEyQWx1c1lrcWZrTlNmVUR5UjdGNVREdmtpQno2LVNLYmJzanNQMlA1alF3Tk51c0hIdUx5MElQTG9lRGtRNjl6bDNVU000OHVuQWZ0SU5XWjJHbGVFSUMzVy1HVjkxSkt1V3JocWFwWndnZ05Ga09BcUxfNzQ6Q0FJIDxiPlZpZGVvIFRyYW5zbGF0b3I8L2I-OiBTdWJ0aXRsZXMgPGI-YW5kPC9iPiBEdWJiaW5nIHwgU21hcnRjYXRCowE8Yj5UcmFuc2xhdGUgdmlkZW88L2I-IGludG8gMjgwKyBsYW5ndWFnZXMuIFN1YnRpdGxlcywgZHViYmluZyBvciA8Yj52b2ljZS1vdmVyPC9iPiBmcm9tIG9uZSB1cGxvYWQg4oCUIGVkaXQgdGhlIHRyYW5zY3JpcHQgb25jZSA8Yj5hbmQ8L2I-IGV2ZXJ5IGxhbmd1YWdlIGZvbGxvd3MuSgJ0b0oDdGhlUgJieVIDYW5kUgN0b3BSA2J1dFIEd2hlblIFZmlyc3QiAhABSABYAGgA",
+        "source": "Smartcat"
+      },
+      {
+        "position": 6,
+        "title": "AI Video Translator - Translate Video Languages Online Free",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXYBSu_FMt5csGLU5v4yCgXYLH1L4Z3BtNPsVBxxOel4734y5riyAx2BuZZaT6h6ZK4LeKNdXNIp-u15f3yjFhKadVYZ_o5axk-sHGs8eLkj8w8PCM5Tk25r1WYZVkcR4rpfAw",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaAHEIkXXqrSZZb_RLorNlZix6FCL4mBA-_n_sPvX9oTSflNYKY5lCNw9a2mGoMe53ANE4eo_cpeiN5DmDf4zCBHNVbXb_zAwcpxSqA49eIT0LDhbdbWYeseC0wjm-xUENa7vcFtTbzPR&ved=2ahUKEwjMjayu3JuYAxUmvokEHdY1NGgQFnoECBEQAQ&uoh=1",
+        "displayed_link": "https://www.vmeg.ai \u203a Tools",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACSklEQVR4AcWWA5CcQRSEJ7ZtW6XY1jq2besQ27btrGLbts2z2XnxRHf7u6u-9b7u8TBe6D3RhF4T16LXhCXoM74MU1NkPJAARyR6Tqqjjvno0XHJ0Pe7Mc8pdQJ0H5-NN-bwYpywNXsS2HO3gzVXfYxmceUL0HN8jv8E8GGcYM-zBbY8-M4F2PNVUDUAmfoQ4IiGLfcGOPNnVytAAGfOEwRr3snYWiy5FgE48r6i57YAi6NJAI6TsOYvpkUAHi8czJtKwwCEI28J7QJYc-_g9wr5A0ifiLIHCP66FPcUSsE4jdCh_Cg9nEQw8WCkAc2VCGCDNVcexmmYHjnJcCMRTYAjyk2HamK34qd_GF-iLq_EOI1uguSjDBj3vcX4DyvFBmhNpr7EY1jzdOIn2ejRiEvG7Ubq8Zo3kycAp3_N7BENUZmKXiTgAtFuetQQHYAXFcpDBbcScBE_og0jSQowuA6SuRkwmoqFuGgcRaylFZBJ1DLkx3mkDm2p2FsBrT7irkMpyfvAl6VDk-yqAOOH9Psmkjei7-t5rQBjH1oJw_rURyJJO2FYz-k42Pp0iNBxHm1GRkkXkuhek3ClvQ2TTIEQ0OpDNMFKSr6SPem0HvMs74UY36OlqJPlUnq1vRXu-mhXjb3cDOjXtSsSMDkU0mt6ronGIFeMI0bpMG-EGemYnDrd7HA-F8ydbg1RhCml6WbfsP8Y33EzoB5TWs6W53uPNYT9PLvHG0OiZlm8PEdXQ3ymlo60PlVoZ_Or83e3vDJ5f_frGdXw_AzejmtpL9URtwAAAABJRU5ErkJggg.png",
+        "snippet": "Free to translate videos into other languages with dubbed audio, subtitles, or audio-only output. Edit the script, speakers, timing, and voice before ...",
+        "snippet_highlighted_words": [
+          "Free to translate videos into other languages"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.6,
+              "reviews": 43
+            },
+            "extensions": [
+              "4.6(43)"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Free to translate videos into other languages with dubbed audio, subtitles, or audio-only output. Edit the script, speakers, timing, and voice before ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESaAHEIkXXYBSu_FMt5csGLU5v4yCgXYLH1L4Z3BtNPsVBxxOel4734y5riyAx2BuZZaT6h6ZK4LeKNdXNIp-u15f3yjFhKadVYZ_o5axk-sHGs8eLkj8w8PCM5Tk25r1WYZVkcR4rpfAw",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACSklEQVR4AcWWA5CcQRSEJ7ZtW6XY1jq2besQ27btrGLbts2z2XnxRHf7u6u-9b7u8TBe6D3RhF4T16LXhCXoM74MU1NkPJAARyR6Tqqjjvno0XHJ0Pe7Mc8pdQJ0H5-NN-bwYpywNXsS2HO3gzVXfYxmceUL0HN8jv8E8GGcYM-zBbY8-M4F2PNVUDUAmfoQ4IiGLfcGOPNnVytAAGfOEwRr3snYWiy5FgE48r6i57YAi6NJAI6TsOYvpkUAHi8czJtKwwCEI28J7QJYc-_g9wr5A0ifiLIHCP66FPcUSsE4jdCh_Cg9nEQw8WCkAc2VCGCDNVcexmmYHjnJcCMRTYAjyk2HamK34qd_GF-iLq_EOI1uguSjDBj3vcX4DyvFBmhNpr7EY1jzdOIn2ejRiEvG7Ubq8Zo3kycAp3_N7BENUZmKXiTgAtFuetQQHYAXFcpDBbcScBE_og0jSQowuA6SuRkwmoqFuGgcRaylFZBJ1DLkx3mkDm2p2FsBrT7irkMpyfvAl6VDk-yqAOOH9Psmkjei7-t5rQBjH1oJw_rURyJJO2FYz-k42Pp0iNBxHm1GRkkXkuhek3ClvQ2TTIEQ0OpDNMFKSr6SPem0HvMs74UY36OlqJPlUnq1vRXu-mhXjb3cDOjXtSsSMDkU0mt6ronGIFeMI0bpMG-EGemYnDrd7HA-F8ydbg1RhCml6WbfsP8Y33EzoB5TWs6W53uPNYT9PLvHG0OiZlm8PEdXQ3ymlo60PlVoZ_Or83e3vDJ5f_frGdXw_AzejmtpL9URtwAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWFlCU3VfRk10NWNzR0xVNXY0eUNnWFlMSDFMNFozQnROUHNWQnh4T2VsNDczNHk1cml5QXgyQnVaWmFUNmg2Wks0TGVLTmRYTklwLXUxNWYzeWpGaEthZFZZWl9vNWF4ay1zSEdzOGVMa2o4dzhQQ001VGsyNXIxV1laVmtjUjRycGZBdxIEGgIIABriCBICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLwICAAQABgAIAAqIQoEYmVzdBWeebY_GgRnb29kGgN0b3AaCWJlc3R0b29scyoyCgV0b29scxVSbQVAGgllcXVpcG1lbnQaBHRvb2waCHRvb2wgZm9yGgliZXN0dG9vbHMqCQoCdG8VAAAAACo8Cgl0cmFuc2xhdGUVAdS6QBoKdHJhbnNsYXRvchoOdHJhbnNsYXRldmlkZW8aDml2O3A7dHJhbnNsYXRlKiQKBXZpZGVvFdAS7UAaBnZpZGVvcxoOdHJhbnNsYXRldmlkZW8qTgoKdm9pY2VvdmVycxXCtCE-Ggp2b2ljZSBvdmVyGgt2b2ljZSBvdmVycxoJdm9pY2VvdmVyGgZ2b2ljZXMaD2l2O3A7dm9pY2VvdmVycyo2CgV3aGlsZRX54bI-GgNhbmQaA2J1dBoCYnkaBHdoZW4aBndoaWxzdBoMd2hpbGVrZWVwaW5nKm4KB2tlZXBpbmcVAAAAABoHaG9sZGluZxoEa2VlcBoFa2VlcHMaBGtlcHQaC21haW50YWluaW5nGgpwcmVzZXJ2aW5nGglyZXRhaW5pbmcaB3N0YXlpbmcaB3N0b3JpbmcaDHdoaWxla2VlcGluZyoKCgN0aGUVAAAAACpBCghvcmlnaW5hbBXXtzs-GglhdXRoZW50aWMaBWZpcnN0GglvcmlnaW5hbHMaBHJlYWwaDW9yaWdpbmFsdm9pY2UqNQoFdm9pY2UVd3paQBoFdm9jYWwaBnZvaWNlcxoNb3JpZ2luYWx2b2ljZRoJdm9pY2V0b25lKjUKBHRvbmUVrrwyPxoFcGl0Y2gaBXRvbmVzGgl2b2ljZXRvbmUaCWl2O3A7dG9uZRoEdG9vbDKaAS9nb3RvP3VybD1DQUVTYUFIRUlrWFhZQlN1X0ZNdDVjc0dMVTV2NHlDZ1hZTEgxTDRaM0J0TlBzVkJ4eE9lbDQ3MzR5NXJpeUF4MkJ1WlphVDZoNlpLNExlS05kWE5JcC11MTVmM3lqRmhLYWRWWVpfbzVheGstc0hHczhlTGtqOHc4UENNNVRrMjVyMVdZWlZrY1I0cnBmQXc6SUFJIDxiPlZpZGVvIFRyYW5zbGF0b3I8L2I-IC0gPGI-VHJhbnNsYXRlIFZpZGVvPC9iPiBMYW5ndWFnZXMgT25saW5lIEZyZWVCpQE8Yj5GcmVlIHRvIHRyYW5zbGF0ZSB2aWRlb3MgaW50byBvdGhlciBsYW5ndWFnZXM8L2I-IHdpdGggZHViYmVkIGF1ZGlvLCBzdWJ0aXRsZXMsIG9yIGF1ZGlvLW9ubHkgb3V0cHV0LiBFZGl0IHRoZSBzY3JpcHQsIHNwZWFrZXJzLCB0aW1pbmcsIGFuZCB2b2ljZSBiZWZvcmUmbmJzcDsuLi5KA3RoZUoCdG9SBWZpcnN0UgNhbmRSA3RvcFIDYnV0UgR3aGVuUgJieSICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWFlCU3VfRk10NWNzR0xVNXY0eUNnWFlMSDFMNFozQnROUHNWQnh4T2VsNDczNHk1cml5QXgyQnVaWmFUNmg2Wks0TGVLTmRYTklwLXUxNWYzeWpGaEthZFZZWl9vNWF4ay1zSEdzOGVMa2o4dzhQQ001VGsyNXIxV1laVmtjUjRycGZBdxIEGgIIABriCBICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLwICAAQABgAIAAqIQoEYmVzdBWeebY_GgRnb29kGgN0b3AaCWJlc3R0b29scyoyCgV0b29scxVSbQVAGgllcXVpcG1lbnQaBHRvb2waCHRvb2wgZm9yGgliZXN0dG9vbHMqCQoCdG8VAAAAACo8Cgl0cmFuc2xhdGUVAdS6QBoKdHJhbnNsYXRvchoOdHJhbnNsYXRldmlkZW8aDml2O3A7dHJhbnNsYXRlKiQKBXZpZGVvFdAS7UAaBnZpZGVvcxoOdHJhbnNsYXRldmlkZW8qTgoKdm9pY2VvdmVycxXCtCE-Ggp2b2ljZSBvdmVyGgt2b2ljZSBvdmVycxoJdm9pY2VvdmVyGgZ2b2ljZXMaD2l2O3A7dm9pY2VvdmVycyo2CgV3aGlsZRX54bI-GgNhbmQaA2J1dBoCYnkaBHdoZW4aBndoaWxzdBoMd2hpbGVrZWVwaW5nKm4KB2tlZXBpbmcVAAAAABoHaG9sZGluZxoEa2VlcBoFa2VlcHMaBGtlcHQaC21haW50YWluaW5nGgpwcmVzZXJ2aW5nGglyZXRhaW5pbmcaB3N0YXlpbmcaB3N0b3JpbmcaDHdoaWxla2VlcGluZyoKCgN0aGUVAAAAACpBCghvcmlnaW5hbBXXtzs-GglhdXRoZW50aWMaBWZpcnN0GglvcmlnaW5hbHMaBHJlYWwaDW9yaWdpbmFsdm9pY2UqNQoFdm9pY2UVd3paQBoFdm9jYWwaBnZvaWNlcxoNb3JpZ2luYWx2b2ljZRoJdm9pY2V0b25lKjUKBHRvbmUVrrwyPxoFcGl0Y2gaBXRvbmVzGgl2b2ljZXRvbmUaCWl2O3A7dG9uZRoEdG9vbDKaAS9nb3RvP3VybD1DQUVTYUFIRUlrWFhZQlN1X0ZNdDVjc0dMVTV2NHlDZ1hZTEgxTDRaM0J0TlBzVkJ4eE9lbDQ3MzR5NXJpeUF4MkJ1WlphVDZoNlpLNExlS05kWE5JcC11MTVmM3lqRmhLYWRWWVpfbzVheGstc0hHczhlTGtqOHc4UENNNVRrMjVyMVdZWlZrY1I0cnBmQXc6SUFJIDxiPlZpZGVvIFRyYW5zbGF0b3I8L2I-IC0gPGI-VHJhbnNsYXRlIFZpZGVvPC9iPiBMYW5ndWFnZXMgT25saW5lIEZyZWVCpQE8Yj5GcmVlIHRvIHRyYW5zbGF0ZSB2aWRlb3MgaW50byBvdGhlciBsYW5ndWFnZXM8L2I-IHdpdGggZHViYmVkIGF1ZGlvLCBzdWJ0aXRsZXMsIG9yIGF1ZGlvLW9ubHkgb3V0cHV0LiBFZGl0IHRoZSBzY3JpcHQsIHNwZWFrZXJzLCB0aW1pbmcsIGFuZCB2b2ljZSBiZWZvcmUmbmJzcDsuLi5KA3RoZUoCdG9SBWZpcnN0UgNhbmRSA3RvcFIDYnV0UgR3aGVuUgJieSICEAFIAFgAaAA",
+        "source": "VMEG AI"
+      },
+      {
+        "position": 7,
+        "title": "Video Translator \u2014 Translate, Dub, And Lip Sync With AI",
+        "link": "https://www.google.com/goto?url=CAESZAHEIkXXptqn_AKjuua_KDVU5Td6HVzrAlu-Rm_KbklLFCnMmWKaiLzQ5oA6slntmLd5HUbFujV76FvDvFSSGAXXEN40-ojfV48i7yLobAtE7uQS15AUTwe4ocXbpJu8I0MMl0k",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHEIkXXxF1c8R7Chgn3pNcvx2Se9iSyWSFL5aReoCFvrHTgWDWHzX83UBAwlwFonBwAdD87lPx0XRJfu74drTJbylyKWM9eLVixTS_0HXl3Yl8ehd4eO8dpCxBUB9AmNN1jmaw&ved=2ahUKEwjMjayu3JuYAxUmvokEHdY1NGgQFnoECBIQAQ&uoh=1",
+        "displayed_link": "https://www.kapwing.com \u203a tools \u203a translate",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAxlBMVEX____-___3vd_3g773iLH4iav4iqD3ipT3iYr4ioH3jHj2h2r63dr3bb3_L5v_OYj_OXn_O2f_PFP_PUH_Piz_QRb_NwD3sZv_OJ7_PY3_QX3_Qjb-SCL2isX-O6L3OWn4wrT5zej7U6z7XK78XaD6XJT5XYX4Xn35X3X5YGr5YV_6YVf8YUv7YkL4XCf40L_1rdj_Lab9PJr_PYP_P3T_QF7_QVH_Qwz7XnD3PEb669v5KYb3Txv_RTv44dD4o9r53e73m4nzh0s_AAAAwklEQVR4AdWQgwHEQBBFN2fbVmxb_Td1sRvIDxZvDNouKBCAQE2dbq8_GI7Gk-ms7jNfLFfrzXa3Pxwb4Ol8CeD11gDB_bG8PCPPV7GEdBe8sTL4_ny_PxhGUAzHCZKkaJphM8jxD-EsXqS1rCjb6-62V4OcZSg1QigPqxEESZXChvnTX7hGZeWDCXqX9ev-YHDmU99ZxWIBtwh61-3bwXFNSdmpMUph6hnAwLMMvXDe4biNd7c_HPvlmYI0CRR_rdQfjP8XrUUdD_wAAAAASUVORK5CYII.png",
+        "snippet": "Translate your video's spoken audio into another language and generate an AI voiceover that fits the original delivery. Choose from 180+ AI voices or clone the ...",
+        "snippet_highlighted_words": [
+          "generate an AI voiceover that fits the original delivery"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.9,
+              "reviews": 5231
+            },
+            "extensions": [
+              "4.9(5,231)"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Translate your video's spoken audio into another language and generate an AI voiceover that fits the original delivery. Choose from 180+ AI voices or clone the ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESZAHEIkXXptqn_AKjuua_KDVU5Td6HVzrAlu-Rm_KbklLFCnMmWKaiLzQ5oA6slntmLd5HUbFujV76FvDvFSSGAXXEN40-ojfV48i7yLobAtE7uQS15AUTwe4ocXbpJu8I0MMl0k",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAxlBMVEX____-___3vd_3g773iLH4iav4iqD3ipT3iYr4ioH3jHj2h2r63dr3bb3_L5v_OYj_OXn_O2f_PFP_PUH_Piz_QRb_NwD3sZv_OJ7_PY3_QX3_Qjb-SCL2isX-O6L3OWn4wrT5zej7U6z7XK78XaD6XJT5XYX4Xn35X3X5YGr5YV_6YVf8YUv7YkL4XCf40L_1rdj_Lab9PJr_PYP_P3T_QF7_QVH_Qwz7XnD3PEb669v5KYb3Txv_RTv44dD4o9r53e73m4nzh0s_AAAAwklEQVR4AdWQgwHEQBBFN2fbVmxb_Td1sRvIDxZvDNouKBCAQE2dbq8_GI7Gk-ms7jNfLFfrzXa3Pxwb4Ol8CeD11gDB_bG8PCPPV7GEdBe8sTL4_ny_PxhGUAzHCZKkaJphM8jxD-EsXqS1rCjb6-62V4OcZSg1QigPqxEESZXChvnTX7hGZeWDCXqX9ev-YHDmU99ZxWIBtwh61-3bwXFNSdmpMUph6hnAwLMMvXDe4biNd7c_HPvlmYI0CRR_rdQfjP8XrUUdD_wAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpUBL2dvdG8_dXJsPUNBRVNaQUhFSWtYWHB0cW5fQUtqdXVhX0tEVlU1VGQ2SFZ6ckFsdS1SbV9LYmtsTEZDbk1tV0thaUx6UTVvQTZzbG50bUxkNUhVYkZ1alY3NkZ2RHZGU1NHQVhYRU40MC1vamZWNDhpN3lMb2JBdEU3dVFTMTVBVVR3ZTRvY1hicEp1OEkwTU1sMGsSBBoCCAAa3ggSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC4CAgAEAAYACAAKiEKBGJlc3QVXAccPRoEZ29vZBoDdG9wGgliZXN0dG9vbHMqMgoFdG9vbHMVPgNvQBoJZXF1aXBtZW50GgR0b29sGgh0b29sIGZvchoJYmVzdHRvb2xzKgkKAnRvFQAAAAAqPAoJdHJhbnNsYXRlFYEVxkAaCnRyYW5zbGF0b3IaDnRyYW5zbGF0ZXZpZGVvGg5pdjtwO3RyYW5zbGF0ZSokCgV2aWRlbxV8--JAGgZ2aWRlb3MaDnRyYW5zbGF0ZXZpZGVvKk4KCnZvaWNlb3ZlcnMVn7tSPxoKdm9pY2Ugb3ZlchoLdm9pY2Ugb3ZlcnMaCXZvaWNlb3ZlchoGdm9pY2VzGg9pdjtwO3ZvaWNlb3ZlcnMqNgoFd2hpbGUVeEK_PxoDYW5kGgNidXQaAmJ5GgR3aGVuGgZ3aGlsc3QaDHdoaWxla2VlcGluZypuCgdrZWVwaW5nFU4zrT8aB2hvbGRpbmcaBGtlZXAaBWtlZXBzGgRrZXB0GgttYWludGFpbmluZxoKcHJlc2VydmluZxoJcmV0YWluaW5nGgdzdGF5aW5nGgdzdG9yaW5nGgx3aGlsZWtlZXBpbmcqCgoDdGhlFQAAAAAqQQoIb3JpZ2luYWwVixa5PxoJYXV0aGVudGljGgVmaXJzdBoJb3JpZ2luYWxzGgRyZWFsGg1vcmlnaW5hbHZvaWNlKjUKBXZvaWNlFYkLBEAaBXZvY2FsGgZ2b2ljZXMaDW9yaWdpbmFsdm9pY2UaCXZvaWNldG9uZSo1CgR0b25lFdCQij4aBXBpdGNoGgV0b25lcxoJdm9pY2V0b25lGglpdjtwO3RvbmUaBHRvb2wylQEvZ290bz91cmw9Q0FFU1pBSEVJa1hYcHRxbl9BS2p1dWFfS0RWVTVUZDZIVnpyQWx1LVJtX0tia2xMRkNuTW1XS2FpTHpRNW9BNnNsbnRtTGQ1SFViRnVqVjc2RnZEdkZTU0dBWFhFTjQwLW9qZlY0OGk3eUxvYkF0RTd1UVMxNUFVVHdlNG9jWGJwSnU4STBNTWwwazo8PGI-VHJhbnNsYXRlPC9iPiwgRHViLCA8Yj5BbmQ8L2I-IExpcCBTeW5jIFdpdGggQUkgLSBLYXB3aW5nQrMBVHJhbnNsYXRlIHlvdXIgdmlkZW8mIzM5O3Mgc3Bva2VuIGF1ZGlvIGludG8gYW5vdGhlciBsYW5ndWFnZSBhbmQgPGI-Z2VuZXJhdGUgYW4gQUkgdm9pY2VvdmVyIHRoYXQgZml0cyB0aGUgb3JpZ2luYWwgZGVsaXZlcnk8L2I-LiBDaG9vc2UgZnJvbSAxODArIEFJIHZvaWNlcyBvciBjbG9uZSB0aGUmbmJzcDsuLi5KAnRvSgN0aGVSAmJ5UgNidXRSA3RvcFIDYW5kUgR3aGVuUgVmaXJzdCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpUBL2dvdG8_dXJsPUNBRVNaQUhFSWtYWHB0cW5fQUtqdXVhX0tEVlU1VGQ2SFZ6ckFsdS1SbV9LYmtsTEZDbk1tV0thaUx6UTVvQTZzbG50bUxkNUhVYkZ1alY3NkZ2RHZGU1NHQVhYRU40MC1vamZWNDhpN3lMb2JBdEU3dVFTMTVBVVR3ZTRvY1hicEp1OEkwTU1sMGsSBBoCCAAa3ggSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC4CAgAEAAYACAAKiEKBGJlc3QVXAccPRoEZ29vZBoDdG9wGgliZXN0dG9vbHMqMgoFdG9vbHMVPgNvQBoJZXF1aXBtZW50GgR0b29sGgh0b29sIGZvchoJYmVzdHRvb2xzKgkKAnRvFQAAAAAqPAoJdHJhbnNsYXRlFYEVxkAaCnRyYW5zbGF0b3IaDnRyYW5zbGF0ZXZpZGVvGg5pdjtwO3RyYW5zbGF0ZSokCgV2aWRlbxV8--JAGgZ2aWRlb3MaDnRyYW5zbGF0ZXZpZGVvKk4KCnZvaWNlb3ZlcnMVn7tSPxoKdm9pY2Ugb3ZlchoLdm9pY2Ugb3ZlcnMaCXZvaWNlb3ZlchoGdm9pY2VzGg9pdjtwO3ZvaWNlb3ZlcnMqNgoFd2hpbGUVeEK_PxoDYW5kGgNidXQaAmJ5GgR3aGVuGgZ3aGlsc3QaDHdoaWxla2VlcGluZypuCgdrZWVwaW5nFU4zrT8aB2hvbGRpbmcaBGtlZXAaBWtlZXBzGgRrZXB0GgttYWludGFpbmluZxoKcHJlc2VydmluZxoJcmV0YWluaW5nGgdzdGF5aW5nGgdzdG9yaW5nGgx3aGlsZWtlZXBpbmcqCgoDdGhlFQAAAAAqQQoIb3JpZ2luYWwVixa5PxoJYXV0aGVudGljGgVmaXJzdBoJb3JpZ2luYWxzGgRyZWFsGg1vcmlnaW5hbHZvaWNlKjUKBXZvaWNlFYkLBEAaBXZvY2FsGgZ2b2ljZXMaDW9yaWdpbmFsdm9pY2UaCXZvaWNldG9uZSo1CgR0b25lFdCQij4aBXBpdGNoGgV0b25lcxoJdm9pY2V0b25lGglpdjtwO3RvbmUaBHRvb2wylQEvZ290bz91cmw9Q0FFU1pBSEVJa1hYcHRxbl9BS2p1dWFfS0RWVTVUZDZIVnpyQWx1LVJtX0tia2xMRkNuTW1XS2FpTHpRNW9BNnNsbnRtTGQ1SFViRnVqVjc2RnZEdkZTU0dBWFhFTjQwLW9qZlY0OGk3eUxvYkF0RTd1UVMxNUFVVHdlNG9jWGJwSnU4STBNTWwwazo8PGI-VHJhbnNsYXRlPC9iPiwgRHViLCA8Yj5BbmQ8L2I-IExpcCBTeW5jIFdpdGggQUkgLSBLYXB3aW5nQrMBVHJhbnNsYXRlIHlvdXIgdmlkZW8mIzM5O3Mgc3Bva2VuIGF1ZGlvIGludG8gYW5vdGhlciBsYW5ndWFnZSBhbmQgPGI-Z2VuZXJhdGUgYW4gQUkgdm9pY2VvdmVyIHRoYXQgZml0cyB0aGUgb3JpZ2luYWwgZGVsaXZlcnk8L2I-LiBDaG9vc2UgZnJvbSAxODArIEFJIHZvaWNlcyBvciBjbG9uZSB0aGUmbmJzcDsuLi5KAnRvSgN0aGVSAmJ5UgNidXRSA3RvcFIDYW5kUgR3aGVuUgVmaXJzdCICEAFIAFgAaAA",
+        "source": "Kapwing",
+        "read_more_link": "https://www.google.com/goto?url=CAES0gEBxCJF1-cjI4zGanZpNOalDCLn_on4pQG_RfRbSwVXHKYqEgA7e2PssFl9RETbxv602ImF9wukO7D5mMcs7mF8t7R9KRsJTvXEunxI5YccyvxvlzwG9b3UqdGI3REpZ4dav1dYjZnF_A0ZIlfhgh9YwRvV33yZaCng5QaDAI1w8jruhG8etq0Zh1KwXs8jy8Qu8fR3frBQWjsVMlqvWKnVDilYlVid02VSuZBOQ5PUC3lS9uO8Sbpq8DJV3exBjSZnDQUKtpPEoYS9A8zXGv8Vg-w&gsessionid=uwCT8_xTN3k3XKeuVfDqX8UDGgl0o1pTKkjUXBk57pbqtK11oBDwtA"
+      },
+      {
+        "position": 8,
+        "title": "Translate Video for Free with AI | Adobe Firefly",
+        "link": "https://www.google.com/goto?url=CAESgQEBxCJF16_fZC4pTbmLVmfzkNmRK8husB7BNGRAy7KTwegt0bfJ6IYWE7deJPxhPoojinDgLWHgCF4csASbRf-cwSei6-cFtMaFcNbf6zV5kEtrKUzFxxqR-Pz2LxyMBCX-qo3v7UzgnDL7hIJmVUZVVK3eBX0WB5ZeXO9AzxSOJz4",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEBxCJF14JbS31yIaWFxxw_pXbp5egE2T-zJQrBV3UgETyC9XFLUg53by8x1AxPP9fA9chReeKhwhiM-bYx3aT2IQ7JocpV0lrT0BV5g3NiRWgfAyijTVpv2uagKIco-9OyXUbJoNZr74kJlPQtoaYrGk10R3SvC-vChDQcdIQvedY&ved=2ahUKEwjMjayu3JuYAxUmvokEHdY1NGgQFnoECBAQAQ&uoh=1",
+        "displayed_link": "https://www.adobe.com \u203a products \u203a firefly \u203a features",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzrEADrEADrEADrEADrAADrEAD____wbWr2qaf-9fX729r5x8btLijvS0byfntEd2TgAAAABXRSTlMATsufzEBRSFAAAACvSURBVCiRjZOLDoMwCEVRd0uf-v9_O6BzWxWNJyY1PeVKGiSi6RUc5omExVPKInVXLoSJ3MxPMl27EB5LGL7EykKEL6vK6svARoAjkbpMrszM8nB2JKJW1aGlnyyy3_REOUk029ZsbjhKbWeDLekktVH0AD5IbFYhFEsYpe7lnJOdKoPs12qJlr_iX9ZdRmupDjLurGi6YPjml_5-vFsHmq_dfD-at0MtY-0m6-_wBr8IEuMazHj1AAAAAElFTkSuQmCC.png",
+        "snippet": "Adobe Firefly includes a Translate Video feature that uses AI to translate and dub spoken content in videos into over 15 languages, keeping the original voice ...",
+        "snippet_highlighted_words": [
+          "Adobe Firefly"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Adobe Firefly includes a Translate Video feature that uses AI to translate and dub spoken content in videos into over 15 languages, keeping the original voice ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESgQEBxCJF16_fZC4pTbmLVmfzkNmRK8husB7BNGRAy7KTwegt0bfJ6IYWE7deJPxhPoojinDgLWHgCF4csASbRf-cwSei6-cFtMaFcNbf6zV5kEtrKUzFxxqR-Pz2LxyMBCX-qo3v7UzgnDL7hIJmVUZVVK3eBX0WB5ZeXO9AzxSOJz4",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzrEADrEADrEADrEADrAADrEAD____wbWr2qaf-9fX729r5x8btLijvS0byfntEd2TgAAAABXRSTlMATsufzEBRSFAAAACvSURBVCiRjZOLDoMwCEVRd0uf-v9_O6BzWxWNJyY1PeVKGiSi6RUc5omExVPKInVXLoSJ3MxPMl27EB5LGL7EykKEL6vK6svARoAjkbpMrszM8nB2JKJW1aGlnyyy3_REOUk029ZsbjhKbWeDLekktVH0AD5IbFYhFEsYpe7lnJOdKoPs12qJlr_iX9ZdRmupDjLurGi6YPjml_5-vFsHmq_dfD-at0MtY-0m6-_wBr8IEuMazHj1AAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCeENKRjE2X2ZaQzRwVGJtTFZtZnprTm1SSzhodXNCN0JOR1JBeTdLVHdlZ3QwYmZKNklZV0U3ZGVKUHhoUG9vamluRGdMV0hnQ0Y0Y3NBU2JSZi1jd1NlaTYtY0Z0TWFGY05iZjZ6VjVrRXRyS1V6Rnh4cVItUHoyTHh5TUJDWC1xbzN2N1V6Z25ETDdoSUptVlVaVlZLM2VCWDBXQjVaZVhPOUF6eFNPSno0EgQaAggAGvwIEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA1ggIABAAGAAgACohCgRiZXN0FYx4VT8aBGdvb2QaA3RvcBoJYmVzdHRvb2xzKjIKBXRvb2xzFZqOGUAaCWVxdWlwbWVudBoEdG9vbBoIdG9vbCBmb3IaCWJlc3R0b29scyoJCgJ0bxUAAAAAKjwKCXRyYW5zbGF0ZRUXTNhAGgp0cmFuc2xhdG9yGg50cmFuc2xhdGV2aWRlbxoOaXY7cDt0cmFuc2xhdGUqJAoFdmlkZW8Vjf33QBoGdmlkZW9zGg50cmFuc2xhdGV2aWRlbypOCgp2b2ljZW92ZXJzFQAAAAAaCnZvaWNlIG92ZXIaC3ZvaWNlIG92ZXJzGgl2b2ljZW92ZXIaBnZvaWNlcxoPaXY7cDt2b2ljZW92ZXJzKjYKBXdoaWxlFahtxD0aA2FuZBoDYnV0GgJieRoEd2hlbhoGd2hpbHN0Ggx3aGlsZWtlZXBpbmcqbgoHa2VlcGluZxWobcQ-Ggdob2xkaW5nGgRrZWVwGgVrZWVwcxoEa2VwdBoLbWFpbnRhaW5pbmcaCnByZXNlcnZpbmcaCXJldGFpbmluZxoHc3RheWluZxoHc3RvcmluZxoMd2hpbGVrZWVwaW5nKgoKA3RoZRUAAAAAKkEKCG9yaWdpbmFsFSOD2z8aCWF1dGhlbnRpYxoFZmlyc3QaCW9yaWdpbmFscxoEcmVhbBoNb3JpZ2luYWx2b2ljZSo1CgV2b2ljZRVg77s_GgV2b2NhbBoGdm9pY2VzGg1vcmlnaW5hbHZvaWNlGgl2b2ljZXRvbmUqNQoEdG9uZRX5t5U_GgVwaXRjaBoFdG9uZXMaCXZvaWNldG9uZRoJaXY7cDt0b25lGgR0b29sMr0BL2dvdG8_dXJsPUNBRVNnUUVCeENKRjE2X2ZaQzRwVGJtTFZtZnprTm1SSzhodXNCN0JOR1JBeTdLVHdlZ3QwYmZKNklZV0U3ZGVKUHhoUG9vamluRGdMV0hnQ0Y0Y3NBU2JSZi1jd1NlaTYtY0Z0TWFGY05iZjZ6VjVrRXRyS1V6Rnh4cVItUHoyTHh5TUJDWC1xbzN2N1V6Z25ETDdoSUptVlVaVlZLM2VCWDBXQjVaZVhPOUF6eFNPSno0Ojc8Yj5UcmFuc2xhdGUgVmlkZW88L2I-IGZvciBGcmVlIHdpdGggQUkgfCBBZG9iZSBGaXJlZmx5Qq4BPGI-QWRvYmUgRmlyZWZseTwvYj4gaW5jbHVkZXMgYSBUcmFuc2xhdGUgVmlkZW8gZmVhdHVyZSB0aGF0IHVzZXMgQUkgdG8gdHJhbnNsYXRlIGFuZCBkdWIgc3Bva2VuIGNvbnRlbnQgaW4gdmlkZW9zIGludG8gb3ZlciAxNSBsYW5ndWFnZXMsIGtlZXBpbmcgdGhlIG9yaWdpbmFsIHZvaWNlJm5ic3A7Li4uSgJ0b0oDdGhlUgVmaXJzdFIDYW5kUgN0b3BSA2J1dFIEd2hlblICYnkiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCeENKRjE2X2ZaQzRwVGJtTFZtZnprTm1SSzhodXNCN0JOR1JBeTdLVHdlZ3QwYmZKNklZV0U3ZGVKUHhoUG9vamluRGdMV0hnQ0Y0Y3NBU2JSZi1jd1NlaTYtY0Z0TWFGY05iZjZ6VjVrRXRyS1V6Rnh4cVItUHoyTHh5TUJDWC1xbzN2N1V6Z25ETDdoSUptVlVaVlZLM2VCWDBXQjVaZVhPOUF6eFNPSno0EgQaAggAGvwIEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA1ggIABAAGAAgACohCgRiZXN0FYx4VT8aBGdvb2QaA3RvcBoJYmVzdHRvb2xzKjIKBXRvb2xzFZqOGUAaCWVxdWlwbWVudBoEdG9vbBoIdG9vbCBmb3IaCWJlc3R0b29scyoJCgJ0bxUAAAAAKjwKCXRyYW5zbGF0ZRUXTNhAGgp0cmFuc2xhdG9yGg50cmFuc2xhdGV2aWRlbxoOaXY7cDt0cmFuc2xhdGUqJAoFdmlkZW8Vjf33QBoGdmlkZW9zGg50cmFuc2xhdGV2aWRlbypOCgp2b2ljZW92ZXJzFQAAAAAaCnZvaWNlIG92ZXIaC3ZvaWNlIG92ZXJzGgl2b2ljZW92ZXIaBnZvaWNlcxoPaXY7cDt2b2ljZW92ZXJzKjYKBXdoaWxlFahtxD0aA2FuZBoDYnV0GgJieRoEd2hlbhoGd2hpbHN0Ggx3aGlsZWtlZXBpbmcqbgoHa2VlcGluZxWobcQ-Ggdob2xkaW5nGgRrZWVwGgVrZWVwcxoEa2VwdBoLbWFpbnRhaW5pbmcaCnByZXNlcnZpbmcaCXJldGFpbmluZxoHc3RheWluZxoHc3RvcmluZxoMd2hpbGVrZWVwaW5nKgoKA3RoZRUAAAAAKkEKCG9yaWdpbmFsFSOD2z8aCWF1dGhlbnRpYxoFZmlyc3QaCW9yaWdpbmFscxoEcmVhbBoNb3JpZ2luYWx2b2ljZSo1CgV2b2ljZRVg77s_GgV2b2NhbBoGdm9pY2VzGg1vcmlnaW5hbHZvaWNlGgl2b2ljZXRvbmUqNQoEdG9uZRX5t5U_GgVwaXRjaBoFdG9uZXMaCXZvaWNldG9uZRoJaXY7cDt0b25lGgR0b29sMr0BL2dvdG8_dXJsPUNBRVNnUUVCeENKRjE2X2ZaQzRwVGJtTFZtZnprTm1SSzhodXNCN0JOR1JBeTdLVHdlZ3QwYmZKNklZV0U3ZGVKUHhoUG9vamluRGdMV0hnQ0Y0Y3NBU2JSZi1jd1NlaTYtY0Z0TWFGY05iZjZ6VjVrRXRyS1V6Rnh4cVItUHoyTHh5TUJDWC1xbzN2N1V6Z25ETDdoSUptVlVaVlZLM2VCWDBXQjVaZVhPOUF6eFNPSno0Ojc8Yj5UcmFuc2xhdGUgVmlkZW88L2I-IGZvciBGcmVlIHdpdGggQUkgfCBBZG9iZSBGaXJlZmx5Qq4BPGI-QWRvYmUgRmlyZWZseTwvYj4gaW5jbHVkZXMgYSBUcmFuc2xhdGUgVmlkZW8gZmVhdHVyZSB0aGF0IHVzZXMgQUkgdG8gdHJhbnNsYXRlIGFuZCBkdWIgc3Bva2VuIGNvbnRlbnQgaW4gdmlkZW9zIGludG8gb3ZlciAxNSBsYW5ndWFnZXMsIGtlZXBpbmcgdGhlIG9yaWdpbmFsIHZvaWNlJm5ic3A7Li4uSgJ0b0oDdGhlUgVmaXJzdFIDYW5kUgN0b3BSA2J1dFIEd2hlblICYnkiAhABSABYAGgA",
+        "source": "Adobe"
+      },
+      {
+        "position": 9,
+        "title": "10 Best Video Translator Tools for Business (2026) | ngram.com",
+        "link": "https://www.google.com/goto?url=CAEScwHEIkXXcSRCUqqucPgUQXwrGWGfdyy2cYKxUIK15ruqf-YFxOAn_hIrmBxig76y-EHXwv2WjaaHaQjRGP4KKnLMqpKyrdECI6-1qiktEHS9ga0Ej17YD4_6nER903htjK71XgvuiBpMdvpIa2yPLLa12aE",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHEIkXXkg3PsTOUHWnS11c8qcggfXk-1Msq_xWIVa44BdH9i9RffPTdsgnzuFSNleEySooUYfd5zEGHNKn2Wj-NcqbJ9CddnrSENRCzT_AaAqHQdjfRyfQ8j99mK6TYpsITaU48-0wy1fhOByGAzKtkP1g&ved=2ahUKEwjMjayu3JuYAxUmvokEHdY1NGgQFnoECA8QAQ&uoh=1",
+        "displayed_link": "https://www.ngram.com \u203a Blog \u203a Article",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAtFBMVEVHcEzycD7vVkbsK1DxZkHlKGnmJWfiOnnuRUrxbT_rK1TwWETxbD_tPEztOE3tO0zsK1DzfTvzfTvybz_bI5LaI5PzezvuRUriI3XxYEPPI77uSUnXI6DxaEHrJFTYI5zmI2TrKlHwW0TSI7LtTkbtN03tPkvvTkfvU0buRErsMk_wYkLpI13rJlHuSUnxaEDvV0XwXUPybz_sK1HsLlDydj3bI5LzfTvhI3vTI67wWkTkI3A5U30oAAAAJHRSTlMAEouhRhFHCSM00HCp5r1WNSMJ1L1txKqIVCX8_PHzNWfl0JSglk4XAAABEElEQVQoka3SWZOCMAwAYBRc8ABRPFd3vQa8QBRBZP3__2uTNtXW48EZ-1AyfJO2k0TTPrJMyzKfi9sP1rvl6q9RfaBKbeMz3B-2Xkm1ryi9YZwYioXRETAQ2JLPvBCuOTbkxA6io9v8Rdu4LdnkdA4jFwKHYxl_ikd1AHUW2YgHjKo9wjEghSNAltjLqS7F6TwgtOBFLDHL-cXfgNf7jVUdP16WtwR28Vur4M7MSASaxZgVIrWv-T-JOFYrWOIs9R2yYQxI8QK35hGqW6ZEQKVKv4hBk10L1c3kxk1D3hfQIZbekxMvodo0uaUD6otAtaFq0xTDMSHcLffzuzGB5eobH84d9R8HjNfq5Wi-u_4BcmormAYRmZUAAAAASUVORK5CYII.png",
+        "date": "Nov 11, 2026",
+        "snippet": "Smartcat creates timed transcripts from uploaded media, translates them, and renders subtitles or dubbed voiceover. Its Subtitle Editor supports ...",
+        "snippet_highlighted_words": [
+          "Smartcat"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Smartcat creates timed transcripts from uploaded media, translates them, and renders subtitles or dubbed voiceover. Its Subtitle Editor supports ...",
+            "source_info_link": "https://www.google.com/goto?url=CAEScwHEIkXXcSRCUqqucPgUQXwrGWGfdyy2cYKxUIK15ruqf-YFxOAn_hIrmBxig76y-EHXwv2WjaaHaQjRGP4KKnLMqpKyrdECI6-1qiktEHS9ga0Ej17YD4_6nER903htjK71XgvuiBpMdvpIa2yPLLa12aE",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAtFBMVEVHcEzycD7vVkbsK1DxZkHlKGnmJWfiOnnuRUrxbT_rK1TwWETxbD_tPEztOE3tO0zsK1DzfTvzfTvybz_bI5LaI5PzezvuRUriI3XxYEPPI77uSUnXI6DxaEHrJFTYI5zmI2TrKlHwW0TSI7LtTkbtN03tPkvvTkfvU0buRErsMk_wYkLpI13rJlHuSUnxaEDvV0XwXUPybz_sK1HsLlDydj3bI5LzfTvhI3vTI67wWkTkI3A5U30oAAAAJHRSTlMAEouhRhFHCSM00HCp5r1WNSMJ1L1txKqIVCX8_PHzNWfl0JSglk4XAAABEElEQVQoka3SWZOCMAwAYBRc8ABRPFd3vQa8QBRBZP3__2uTNtXW48EZ-1AyfJO2k0TTPrJMyzKfi9sP1rvl6q9RfaBKbeMz3B-2Xkm1ryi9YZwYioXRETAQ2JLPvBCuOTbkxA6io9v8Rdu4LdnkdA4jFwKHYxl_ikd1AHUW2YgHjKo9wjEghSNAltjLqS7F6TwgtOBFLDHL-cXfgNf7jVUdP16WtwR28Vur4M7MSASaxZgVIrWv-T-JOFYrWOIs9R2yYQxI8QK35hGqW6ZEQKVKv4hBk10L1c3kxk1D3hfQIZbekxMvodo0uaUD6otAtaFq0xTDMSHcLffzuzGB5eobH84d9R8HjNfq5Wi-u_4BcmormAYRmZUAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqkBL2dvdG8_dXJsPUNBRVNjd0hFSWtYWGNTUkNVcXF1Y1BnVVFYd3JHV0dmZHl5MmNZS3hVSUsxNXJ1cWYtWUZ4T0FuX2hJcm1CeGlnNzZ5LUVIWHd2MldqYWFIYVFqUkdQNEtLbkxNcXBLeXJkRUNJNi0xcWlrdEVIUzlnYTBFajE3WUQ0XzZuRVI5MDNodGpLNzFYZ3Z1aUJwTWR2cElhMnlQTExhMTJhRRIEGgIIABrmCBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDCCAgAEAAYACAAKiEKBGJlc3QVuiuTQBoEZ29vZBoDdG9wGgliZXN0dG9vbHMqMgoFdG9vbHMVLv-kQBoJZXF1aXBtZW50GgR0b29sGgh0b29sIGZvchoJYmVzdHRvb2xzKgkKAnRvFQAAAAAqPAoJdHJhbnNsYXRlFVuNlj8aCnRyYW5zbGF0b3IaDnRyYW5zbGF0ZXZpZGVvGg5pdjtwO3RyYW5zbGF0ZSokCgV2aWRlbxXShNxAGgZ2aWRlb3MaDnRyYW5zbGF0ZXZpZGVvKk4KCnZvaWNlb3ZlcnMVAAAAABoKdm9pY2Ugb3ZlchoLdm9pY2Ugb3ZlcnMaCXZvaWNlb3ZlchoGdm9pY2VzGg9pdjtwO3ZvaWNlb3ZlcnMqNgoFd2hpbGUVdO-OPxoDYW5kGgNidXQaAmJ5GgR3aGVuGgZ3aGlsc3QaDHdoaWxla2VlcGluZypuCgdrZWVwaW5nFUvJ-D4aB2hvbGRpbmcaBGtlZXAaBWtlZXBzGgRrZXB0GgttYWludGFpbmluZxoKcHJlc2VydmluZxoJcmV0YWluaW5nGgdzdGF5aW5nGgdzdG9yaW5nGgx3aGlsZWtlZXBpbmcqCgoDdGhlFQAAAAAqQQoIb3JpZ2luYWwV1MdlPxoJYXV0aGVudGljGgVmaXJzdBoJb3JpZ2luYWxzGgRyZWFsGg1vcmlnaW5hbHZvaWNlKjUKBXZvaWNlFaGlL0AaBXZvY2FsGgZ2b2ljZXMaDW9yaWdpbmFsdm9pY2UaCXZvaWNldG9uZSo1CgR0b25lFcxF-zwaBXBpdGNoGgV0b25lcxoJdm9pY2V0b25lGglpdjtwO3RvbmUaBHRvb2wyqQEvZ290bz91cmw9Q0FFU2N3SEVJa1hYY1NSQ1VxcXVjUGdVUVh3ckdXR2ZkeXkyY1lLeFVJSzE1cnVxZi1ZRnhPQW5faElybUJ4aWc3NnktRUhYd3YyV2phYUhhUWpSR1A0S0tuTE1xcEt5cmRFQ0k2LTFxaWt0RUhTOWdhMEVqMTdZRDRfNm5FUjkwM2h0aks3MVhndnVpQnBNZHZwSWEyeVBMTGExMmFFOkUxMCA8Yj5CZXN0IFZpZGVvIFRyYW5zbGF0b3IgVG9vbHM8L2I-IGZvciBCdXNpbmVzcyAoMjAyNikgfCBuZ3JhbS5jb21CoAE8Yj5TbWFydGNhdDwvYj4gY3JlYXRlcyB0aW1lZCB0cmFuc2NyaXB0cyBmcm9tIHVwbG9hZGVkIG1lZGlhLCB0cmFuc2xhdGVzIHRoZW0sIGFuZCByZW5kZXJzIHN1YnRpdGxlcyBvciBkdWJiZWQgdm9pY2VvdmVyLiBJdHMgU3VidGl0bGUgRWRpdG9yIHN1cHBvcnRzJm5ic3A7Li4uSgN0aGVKAnRvUgJieVIDYnV0UgN0b3BSA2FuZFIFZmlyc3RSBHdoZW4iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqkBL2dvdG8_dXJsPUNBRVNjd0hFSWtYWGNTUkNVcXF1Y1BnVVFYd3JHV0dmZHl5MmNZS3hVSUsxNXJ1cWYtWUZ4T0FuX2hJcm1CeGlnNzZ5LUVIWHd2MldqYWFIYVFqUkdQNEtLbkxNcXBLeXJkRUNJNi0xcWlrdEVIUzlnYTBFajE3WUQ0XzZuRVI5MDNodGpLNzFYZ3Z1aUJwTWR2cElhMnlQTExhMTJhRRIEGgIIABrmCBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDCCAgAEAAYACAAKiEKBGJlc3QVuiuTQBoEZ29vZBoDdG9wGgliZXN0dG9vbHMqMgoFdG9vbHMVLv-kQBoJZXF1aXBtZW50GgR0b29sGgh0b29sIGZvchoJYmVzdHRvb2xzKgkKAnRvFQAAAAAqPAoJdHJhbnNsYXRlFVuNlj8aCnRyYW5zbGF0b3IaDnRyYW5zbGF0ZXZpZGVvGg5pdjtwO3RyYW5zbGF0ZSokCgV2aWRlbxXShNxAGgZ2aWRlb3MaDnRyYW5zbGF0ZXZpZGVvKk4KCnZvaWNlb3ZlcnMVAAAAABoKdm9pY2Ugb3ZlchoLdm9pY2Ugb3ZlcnMaCXZvaWNlb3ZlchoGdm9pY2VzGg9pdjtwO3ZvaWNlb3ZlcnMqNgoFd2hpbGUVdO-OPxoDYW5kGgNidXQaAmJ5GgR3aGVuGgZ3aGlsc3QaDHdoaWxla2VlcGluZypuCgdrZWVwaW5nFUvJ-D4aB2hvbGRpbmcaBGtlZXAaBWtlZXBzGgRrZXB0GgttYWludGFpbmluZxoKcHJlc2VydmluZxoJcmV0YWluaW5nGgdzdGF5aW5nGgdzdG9yaW5nGgx3aGlsZWtlZXBpbmcqCgoDdGhlFQAAAAAqQQoIb3JpZ2luYWwV1MdlPxoJYXV0aGVudGljGgVmaXJzdBoJb3JpZ2luYWxzGgRyZWFsGg1vcmlnaW5hbHZvaWNlKjUKBXZvaWNlFaGlL0AaBXZvY2FsGgZ2b2ljZXMaDW9yaWdpbmFsdm9pY2UaCXZvaWNldG9uZSo1CgR0b25lFcxF-zwaBXBpdGNoGgV0b25lcxoJdm9pY2V0b25lGglpdjtwO3RvbmUaBHRvb2wyqQEvZ290bz91cmw9Q0FFU2N3SEVJa1hYY1NSQ1VxcXVjUGdVUVh3ckdXR2ZkeXkyY1lLeFVJSzE1cnVxZi1ZRnhPQW5faElybUJ4aWc3NnktRUhYd3YyV2phYUhhUWpSR1A0S0tuTE1xcEt5cmRFQ0k2LTFxaWt0RUhTOWdhMEVqMTdZRDRfNm5FUjkwM2h0aks3MVhndnVpQnBNZHZwSWEyeVBMTGExMmFFOkUxMCA8Yj5CZXN0IFZpZGVvIFRyYW5zbGF0b3IgVG9vbHM8L2I-IGZvciBCdXNpbmVzcyAoMjAyNikgfCBuZ3JhbS5jb21CoAE8Yj5TbWFydGNhdDwvYj4gY3JlYXRlcyB0aW1lZCB0cmFuc2NyaXB0cyBmcm9tIHVwbG9hZGVkIG1lZGlhLCB0cmFuc2xhdGVzIHRoZW0sIGFuZCByZW5kZXJzIHN1YnRpdGxlcyBvciBkdWJiZWQgdm9pY2VvdmVyLiBJdHMgU3VidGl0bGUgRWRpdG9yIHN1cHBvcnRzJm5ic3A7Li4uSgN0aGVKAnRvUgJieVIDYnV0UgN0b3BSA2FuZFIFZmlyc3RSBHdoZW4iAhABSABYAGgA",
+        "source": "ngram.com",
+        "read_more_link": "https://www.google.com/goto?url=CAES3QEBxCJF1yYqInwPRM68iMLKqklIYpGexYwgYGWA7nOaciNp3ykSOv4x0z3kfT8Mir6jkiiEfTntUVwhQWF1Y2NPU9Qip3PKM07rzFP7iVisaqnOwfp6B1alI5k6zkIFgr9wLDW_UMsz1KhOEUHVYUkzy4wJY8-Xru33s86dqj70Xk5LgzlBeqV6Rxh50omgHFdwvRzlGVaCOTx_59rHGEMglLIuGVsa5ZEV4aC-te6DEyjPj981ol6opP0gWekUsn4meXkJOLKArf8ovoIB9vZLybyv5E1P4-k7Pj0yLA&gsessionid=uwCT8_xTN3k3XKeuVfDqX8UDGgl0o1pTKkjUXBk57pbqtK11oBDwtA"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "Translate video AI free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg9XrjLoiUyAymZjEe1eMoAymhDCw:1795355482726&q=Translate+video+AI+free&sa=X&ved=2ahUKEwjMjayu3JuYAxUmvokEHdY1NGgQ1QJ6BAhSEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Translate+video+AI+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Translate video to English subtitles",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg9XrjLoiUyAymZjEe1eMoAymhDCw:1795355482726&q=Translate+video+to+English+subtitles&sa=X&ved=2ahUKEwjMjayu3JuYAxUmvokEHdY1NGgQ1QJ6BAhWEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Translate+video+to+English+subtitles"
+      },
+      {
+        "block_position": 1,
+        "query": "Google Translate video free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg9XrjLoiUyAymZjEe1eMoAymhDCw:1795355482726&q=Google+Translate+video+free&sa=X&ved=2ahUKEwjMjayu3JuYAxUmvokEHdY1NGgQ1QJ6BAhXEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Google+Translate+video+free"
+      },
+      {
+        "block_position": 1,
+        "query": "AI video translator free unlimited",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg9XrjLoiUyAymZjEe1eMoAymhDCw:1795355482726&q=AI+video+translator+free+unlimited&sa=X&ved=2ahUKEwjMjayu3JuYAxUmvokEHdY1NGgQ1QJ6BAhUEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AI+video+translator+free+unlimited"
+      },
+      {
+        "block_position": 1,
+        "query": "Best AI video translator free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg9XrjLoiUyAymZjEe1eMoAymhDCw:1795355482726&q=Best+AI+video+translator+free&sa=X&ved=2ahUKEwjMjayu3JuYAxUmvokEHdY1NGgQ1QJ6BAhTEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+AI+video+translator+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Video voice translator software free download",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg9XrjLoiUyAymZjEe1eMoAymhDCw:1795355482726&q=Video+voice+translator+software+free+download&sa=X&ved=2ahUKEwjMjayu3JuYAxUmvokEHdY1NGgQ1QJ6BAhREAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Video+voice+translator+software+free+download"
+      },
+      {
+        "block_position": 1,
+        "query": "Best free video translator",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg9XrjLoiUyAymZjEe1eMoAymhDCw:1795355482726&q=Best+free+video+translator&sa=X&ved=2ahUKEwjMjayu3JuYAxUmvokEHdY1NGgQ1QJ6BAhVEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+free+video+translator"
+      },
+      {
+        "block_position": 1,
+        "query": "Video language translator free online",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg9XrjLoiUyAymZjEe1eMoAymhDCw:1795355482726&q=Video+language+translator+free+online&sa=X&ved=2ahUKEwjMjayu3JuYAxUmvokEHdY1NGgQ1QJ6BAhQEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Video+language+translator+free+online"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=Best+tools+to+translate+video+voiceovers+while+keeping+the+original+voice+tone&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg9XrjLoiUyAymZjEe1eMoAymhDCw:1795355482726&ei=WvMCa8z4K6b8ptQP1uvQwQY&start=10&sa=N&sstk=AYl2yk_Rlv7BqIgwG65aYuQ5kFozaRgA-VEsQnsepkdqb-TNndclGYsmcMv8jT9YPywFJhd8Clrso7Dnxgtcq70CjCqOZOj_UOzMkw&ved=2ahUKEwjMjayu3JuYAxUmvokEHdY1NGgQ8NMDegQIThAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=Best+tools+to+translate+video+voiceovers+while+keeping+the+original+voice+tone&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg9XrjLoiUyAymZjEe1eMoAymhDCw:1795355482726&ei=WvMCa8z4K6b8ptQP1uvQwQY&start=10&sa=N&sstk=AYl2yk_Rlv7BqIgwG65aYuQ5kFozaRgA-VEsQnsepkdqb-TNndclGYsmcMv8jT9YPywFJhd8Clrso7Dnxgtcq70CjCqOZOj_UOzMkw&ved=2ahUKEwjMjayu3JuYAxUmvokEHdY1NGgQ8tMDegQIThAE",
+        "3": "https://www.google.com/search?q=Best+tools+to+translate+video+voiceovers+while+keeping+the+original+voice+tone&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg9XrjLoiUyAymZjEe1eMoAymhDCw:1795355482726&ei=WvMCa8z4K6b8ptQP1uvQwQY&start=20&sa=N&sstk=AYl2yk_Rlv7BqIgwG65aYuQ5kFozaRgA-VEsQnsepkdqb-TNndclGYsmcMv8jT9YPywFJhd8Clrso7Dnxgtcq70CjCqOZOj_UOzMkw&ved=2ahUKEwjMjayu3JuYAxUmvokEHdY1NGgQ8tMDegQIThAG",
+        "4": "https://www.google.com/search?q=Best+tools+to+translate+video+voiceovers+while+keeping+the+original+voice+tone&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg9XrjLoiUyAymZjEe1eMoAymhDCw:1795355482726&ei=WvMCa8z4K6b8ptQP1uvQwQY&start=30&sa=N&sstk=AYl2yk_Rlv7BqIgwG65aYuQ5kFozaRgA-VEsQnsepkdqb-TNndclGYsmcMv8jT9YPywFJhd8Clrso7Dnxgtcq70CjCqOZOj_UOzMkw&ved=2ahUKEwjMjayu3JuYAxUmvokEHdY1NGgQ8tMDegQIThAI",
+        "5": "https://www.google.com/search?q=Best+tools+to+translate+video+voiceovers+while+keeping+the+original+voice+tone&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg9XrjLoiUyAymZjEe1eMoAymhDCw:1795355482726&ei=WvMCa8z4K6b8ptQP1uvQwQY&start=40&sa=N&sstk=AYl2yk_Rlv7BqIgwG65aYuQ5kFozaRgA-VEsQnsepkdqb-TNndclGYsmcMv8jT9YPywFJhd8Clrso7Dnxgtcq70CjCqOZOj_UOzMkw&ved=2ahUKEwjMjayu3JuYAxUmvokEHdY1NGgQ8tMDegQIThAK",
+        "6": "https://www.google.com/search?q=Best+tools+to+translate+video+voiceovers+while+keeping+the+original+voice+tone&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg9XrjLoiUyAymZjEe1eMoAymhDCw:1795355482726&ei=WvMCa8z4K6b8ptQP1uvQwQY&start=50&sa=N&sstk=AYl2yk_Rlv7BqIgwG65aYuQ5kFozaRgA-VEsQnsepkdqb-TNndclGYsmcMv8jT9YPywFJhd8Clrso7Dnxgtcq70CjCqOZOj_UOzMkw&ved=2ahUKEwjMjayu3JuYAxUmvokEHdY1NGgQ8tMDegQIThAM",
+        "7": "https://www.google.com/search?q=Best+tools+to+translate+video+voiceovers+while+keeping+the+original+voice+tone&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg9XrjLoiUyAymZjEe1eMoAymhDCw:1795355482726&ei=WvMCa8z4K6b8ptQP1uvQwQY&start=60&sa=N&sstk=AYl2yk_Rlv7BqIgwG65aYuQ5kFozaRgA-VEsQnsepkdqb-TNndclGYsmcMv8jT9YPywFJhd8Clrso7Dnxgtcq70CjCqOZOj_UOzMkw&ved=2ahUKEwjMjayu3JuYAxUmvokEHdY1NGgQ8tMDegQIThAO",
+        "8": "https://www.google.com/search?q=Best+tools+to+translate+video+voiceovers+while+keeping+the+original+voice+tone&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg9XrjLoiUyAymZjEe1eMoAymhDCw:1795355482726&ei=WvMCa8z4K6b8ptQP1uvQwQY&start=70&sa=N&sstk=AYl2yk_Rlv7BqIgwG65aYuQ5kFozaRgA-VEsQnsepkdqb-TNndclGYsmcMv8jT9YPywFJhd8Clrso7Dnxgtcq70CjCqOZOj_UOzMkw&ved=2ahUKEwjMjayu3JuYAxUmvokEHdY1NGgQ8tMDegQIThAQ",
+        "9": "https://www.google.com/search?q=Best+tools+to+translate+video+voiceovers+while+keeping+the+original+voice+tone&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg9XrjLoiUyAymZjEe1eMoAymhDCw:1795355482726&ei=WvMCa8z4K6b8ptQP1uvQwQY&start=80&sa=N&sstk=AYl2yk_Rlv7BqIgwG65aYuQ5kFozaRgA-VEsQnsepkdqb-TNndclGYsmcMv8jT9YPywFJhd8Clrso7Dnxgtcq70CjCqOZOj_UOzMkw&ved=2ahUKEwjMjayu3JuYAxUmvokEHdY1NGgQ8tMDegQIThAS",
+        "10": "https://www.google.com/search?q=Best+tools+to+translate+video+voiceovers+while+keeping+the+original+voice+tone&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDg9XrjLoiUyAymZjEe1eMoAymhDCw:1795355482726&ei=WvMCa8z4K6b8ptQP1uvQwQY&start=90&sa=N&sstk=AYl2yk_Rlv7BqIgwG65aYuQ5kFozaRgA-VEsQnsepkdqb-TNndclGYsmcMv8jT9YPywFJhd8Clrso7Dnxgtcq70CjCqOZOj_UOzMkw&ved=2ahUKEwjMjayu3JuYAxUmvokEHdY1NGgQ8tMDegQIThAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+tools+to+translate+video+voiceovers+while+keeping+the+original+voice+tone&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+tools+to+translate+video+voiceovers+while+keeping+the+original+voice+tone&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+tools+to+translate+video+voiceovers+while+keeping+the+original+voice+tone&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+tools+to+translate+video+voiceovers+while+keeping+the+original+voice+tone&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+tools+to+translate+video+voiceovers+while+keeping+the+original+voice+tone&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+tools+to+translate+video+voiceovers+while+keeping+the+original+voice+tone&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+tools+to+translate+video+voiceovers+while+keeping+the+original+voice+tone&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+tools+to+translate+video+voiceovers+while+keeping+the+original+voice+tone&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+tools+to+translate+video+voiceovers+while+keeping+the+original+voice+tone&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+tools+to+translate+video+voiceovers+while+keeping+the+original+voice+tone&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+tools+to+translate+video+voiceovers+while+keeping+the+original+voice+tone&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

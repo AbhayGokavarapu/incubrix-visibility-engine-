@@ -1,0 +1,469 @@
+{
+  "measurement_id": "02b34b470e3c",
+  "question_id": "Q082",
+  "timestamp_utc": "2026-11-22T13:50:20.939819+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "How to automatically generate video descriptions with SEO keywords",
+  "market": "US",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [
+    "Descript"
+  ],
+  "position": null,
+  "citations": [
+    "https://vidiq.com/ai-description-generator/",
+    "https://www.google.com/goto?url=CAESaAHEIkXXDVAOSgVEA69ZM84230FmY-VOQddIC1W0i3tTGJfl67Nle-OWB3N3p1fmt6xtDwGgBVgbDH-Nen6Rj7RDTvOEG9pXDItrNc_f5zXLS1eB80pcrqb4qxDjzTKymSZDnR37MbMC&gsessionid=q5yckuNjNE9Kttp4A2hFReAOI5F99dBwcdN7vezVIshtR6AY4Wqaug",
+    "https://www.google.com/goto?url=CAESzwEBxCJF1_OOTVocWxEdBYtesQ5HOlhyNxfEA2dMVQCKCREAz86ihnoOasiBWd30zQq8Eajv6PJ8YPQ7doZaHVKJLfg-sLRKGyQxqRiALip2EXoQpp49bLaOPf5pwAMqJm6yjyiPbgzpFXkXo7h1cWEVhu0-c1y8T-9axHhIdhrZM3EDNB7thPBFcuhyMuEJRL3ZMFvuTJ-i4Bmv1U2JSsEBgzPsHh3w9BA89flYg1vKz99zT85DoXvQcHQLwrhdaWlw1IepUKo-TLlcOVjCoNw",
+    "https://www.google.com/goto?url=CAEShQEBxCJF14QwcGE4zpeEpTggpw5oyzXG7k_uxLm4MFQ7Y3U0r3t3exrqvmpUp5lTx370bbaLxFsGpFKe8eB6jqy_RpZqO_PyNFOgN7-T3gi3HA-N4xNvMgSAwkI4upj7UmQxAzQzhOONX0SbeaZV9NKzj5HejDXSfZTPA632zpeeD3hyQ7lt",
+    "https://www.google.com/goto?url=CAESaAHEIkXX-sj_oCR4t9HZza_DjwrI7DZna5R8C9OITKYrLOVCbht4Qm6ermmscXkGJDTAAQNIv5fd6xbwK37D6tjDpKX2AmizybNYcrK9_GUqmFMRpqzvVqRbCgN-OEU2-FbsIAHu4_OM&gsessionid=q5yckuNjNE9Kttp4A2hFReAOI5F99dBwcdN7vezVIshtR6AY4Wqaug",
+    "https://www.google.com/goto?url=CAESdQHEIkXXRISOpkOyZ4NjBCNxQStNlIPzMbTJGk830BmZstQ-mnqWcSvBYVbrA1E70GLxhN6bjerY8ljo0vC2t0uIiqD7BrM18TkNUL02EWEcZZYEIC-Bcl4-aUCxhcf25kRiY0GJ_JeXvc1ZDkXm_KCLkSj0Bg",
+    "https://www.google.com/goto?url=CAESgQEBxCJF17D3bqKyYP2242usU-p8Lxmi8Ezc4bOMcQq7ZB8O02ZKRP7CD7czgvSAyBR9WE03XQDniRe9Y2a2lrNWTqrpZwu8offwJ-GluSGCkuICwWxCPyzNT_mJIWjHfWlp2LyTHoWGmVlANBKMxHcrB0DCz5Ru7BSHVxDqJYdBdx4",
+    "https://www.google.com/goto?url=CAESaAHEIkXXL3lcmvBXeiXiduD2G2Y_PwYkH1bmmYL_zWIGd47RGgg-I4MCnIRoM5T0JrFX6iABnJ90gjQYdfzErNycYca4RGojWRNns1EKjRWU31ithX5Jvt0gD5BlzDA4oyJao2N7_UiW&gsessionid=q5yckuNjNE9Kttp4A2hFReAOI5F99dBwcdN7vezVIshtR6AY4Wqaug"
+  ],
+  "raw_text_summary": "YouTube Description Generator (Free AI Tool) Describe your video. Add your video title or a short topic prompt. \u00b7 Generate optimized copy. Our AI writes a keyword-rich description in seconds, scored for SEO ... How to include SEO to make ANY video go viral ... video! Whether you're new to keywords or completely unaware of how SEO works, this video will give you actionable steps to help your content ... YouTube Video Description Generator [FREE] YouTube video description generators are automated tools that use AI to analyze your content, suggest keywords, and quickly generate comprehensive descriptions ... What Are the Best AI YouTube Video Description ... At the most basic level, AI YouTube video description generators take information about your content and then use LLMs to synthesize an SEO- ... How to Generate SEO Seed Keywords Using AI Use Discount Code for extra saving: \"SHRYT\" In this video, you'll learn how to generate SEO seed keywords effortlessly using AI technology. Generate a title, description and keywords with AI To generate the title, the description, a summary or SEO keywords for a video, open it in Mediasbox, stay on the Overview tab, and in the AI ... Free YouTube Description Generator | Perfect SEO ... 1 Enter Your Video Topic. Describe what your YouTube video is about - this helps generate SEO-optimized descriptions. 2 Add Keywords (Optional). How to Automate SEO Keyword Research in Make.com The Only SEO Keyword Research Tutorial You'll Ever Need (For Beginners) \u00b7 How To Build A YouTube To Blog Post AI Tool In 30 Minutes \u00b7 How to Do ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f31a3eba3d8dc6357d12",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/StD4Gc85T-zisC9hfgdp1c0YRF0bOhFRvPl6aR2NCBs/6b02f31a3eba3d8dc6357d12.json",
+      "markdown_endpoint": "https://serpapi.com/searches/StD4Gc85T-zisC9hfgdp1c0YRF0bOhFRvPl6aR2NCBs/6b02f31a3eba3d8dc6357d12.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/StD4Gc85T-zisC9hfgdp1c0YRF0bOhFRvPl6aR2NCBs/6b02f31a3eba3d8dc6357d12.json_with_pixel_position",
+      "created_at": "2026-11-22 13:50:18 UTC",
+      "processed_at": "2026-11-22 13:50:18 UTC",
+      "google_url": "https://www.google.com/search?q=How+to+automatically+generate+video+descriptions+with+SEO+keywords&oq=How+to+automatically+generate+video+descriptions+with+SEO+keywords&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/StD4Gc85T-zisC9hfgdp1c0YRF0bOhFRvPl6aR2NCBs/6b02f31a3eba3d8dc6357d12.html",
+      "total_time_taken": 0.84
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "How to automatically generate video descriptions with SEO keywords",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "How to automatically generate video descriptions with SEO keywords",
+      "total_results": 119,
+      "time_taken_displayed": 0.3,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "How to Generate YouTube Video SEO Using AI",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXdRWyrgJDrQrc3o0R5Sym-Ldmxplo3lAx8Pt9xBRwBWkWhqGFTDM9nK8BQj2phTCd-MF19D_yB5I4nP5HRrUYOesvOxl4QFrnODAlVmiXD51hTRZtnuX6fCl5u2P85WxpZs-Q&gsessionid=q5yckuNjNE9Kttp4A2hFReAOI5F99dBwcdN7vezVIshtR6AY4Wqaug",
+        "thumbnail": "https://serpapi.com/searches/6b02f31a3eba3d8dc6357d12/images/iSkOdXHUinP0VR400XuL5pv0Vqrv3u8HU14exHsn8Ww.jpg",
+        "channel": "Pabbly",
+        "duration": "12:31",
+        "platform": "YouTube",
+        "date": "Feb 5, 2026",
+        "snippet": "Automate YouTube SEO generation using AI by connecting Google Sheets to an AI tool like Gemini via Pabbly Connect.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS6VOOPhSQ7G4nxN6qaBWr6Ni9K1eFldz3Epg"
+      },
+      {
+        "position": 2,
+        "title": "Build an AI Agent That Does Your YouTube SEO Automatically",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXX1TbaNLjWcv4OL0PTWH94q5tVrV1pWRR9LJLT_4AfG0vDMogLQIN0fxLAaCkCNvNdscLlwIgfTgEsim_u5puC2jmuBYeCJkOL_ad8yitcQBNC3O6Vbp6BB6Q9U2_hJ0BvWuLf&gsessionid=q5yckuNjNE9Kttp4A2hFReAOI5F99dBwcdN7vezVIshtR6AY4Wqaug",
+        "thumbnail": "https://serpapi.com/searches/6b02f31a3eba3d8dc6357d12/images/aNHGmXY3Q3g0C8q8-s2S9HNm7I-uNvKgwjnEFpERrZ8.jpg",
+        "channel": "Real World Devs",
+        "duration": "11:00",
+        "platform": "YouTube",
+        "date": "1 month ago",
+        "snippet": "Build an AI agent that automatically generates YouTube SEO, including titles, descriptions, tags, and thumbnail prompts, all offline without API keys.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSWws1rEjxidX7Qmbu7wGTFiSa9W7V-AWCsPw"
+      },
+      {
+        "position": 3,
+        "title": "How I built an AI That Crafts Viral YouTube Titles and ...",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXn77hC-zerCmmu0PlJR-qZn8mdLPMiYauVNOnWJimtSovqwvGe-AjjTKax1y0l05Soos5WWYq4Nn1xzdRBX3jikpB2VmutOTPp8whLSiC6qsK3kvbKGBYL7UVcgUgiIQ76IQw&gsessionid=q5yckuNjNE9Kttp4A2hFReAOI5F99dBwcdN7vezVIshtR6AY4Wqaug",
+        "thumbnail": "https://serpapi.com/searches/6b02f31a3eba3d8dc6357d12/images/AmcufLvuBrxsKhrJ3j47F2Q4txwoQcgcu_f2Akypne8.jpg",
+        "channel": "Simon Scrapes",
+        "duration": "12:01",
+        "platform": "YouTube",
+        "date": "Dec 18, 2024",
+        "snippet": "Automate YouTube titles, descriptions, and openings with AI and trending data using N8N and Airtable.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRqquuN1vX7knnX0lxOzpPRHQDj8IBvKzLYrQ"
+      },
+      {
+        "position": 4,
+        "title": "How to Use AI to Write YouTube Descriptions & Rank Videos",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXLrQvc9N7bYh6USl2OXx2ZxqUyOKXAf2DhXoSSOSnQziu02dQ8qaFx8QeAUDSckkyb_tXvOVpHdVs-9WNJphd7pwFaIXxGHpeKZyGtvj-HWOt4ttPUFHPmlKS9k1VGFI1ieP1&gsessionid=q5yckuNjNE9Kttp4A2hFReAOI5F99dBwcdN7vezVIshtR6AY4Wqaug",
+        "thumbnail": "https://serpapi.com/searches/6b02f31a3eba3d8dc6357d12/images/ATlOLg74K-itDpM8m5SGOSlYI4UHcVqQ8geRBNbaoTk.jpg",
+        "channel": "Brad Smith",
+        "duration": "7:39",
+        "platform": "YouTube",
+        "date": "Mar 15, 2025",
+        "snippet": "Learn to use AI to generate YouTube descriptions, titles, and thumbnails from video transcripts to rank higher in search results.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR5GIxbZ3uXFEoYO0Ig6WS0xOgTtOqYvidiqw"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "How can I create a video description?",
+        "type": "ai_overview",
+        "page_token": "gQ-0tXicHdBfboIwHADgbMfYAXxUwcVFE7OIFKMZRaD9FXgxtQhoyx-1E_FxZ9nTDrMD7Bq7wJJ9R_g-PtWhkj8PrNC6uUwHg7Zt-3ld52rfF3U54JeuEgPBldpxIafjl7HxmokZulysRd1aPg1QrFLFJLpjE1cuBc0c9-YRFfqm3gjUeEDmd8qMUxA1JCwbglVahzQ9wF2xZKkyj0BLSKoZxZKhyZXYeZscYU1osfTsNXLLYEMYve3KSSck1IlU7y6dvFGqI1_eLB65o53TNNSO26BsKHdoh1lq7EGa7hBMhopnfEyWflVY1AGGzfXBjWjoyDQjFBceCnBA4jsQ8HbGfOQtjJoA4ivprMjRcvAQTrGZd8JIRkG5BmEHyIOUuFBU0BkGB6vEpuhl4job9f7DZtus1NPmXOdf4rznep9uuf6Wj79Pf7BsgOA",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=gQ-0tXicHdBfboIwHADgbMfYAXxUwcVFE7OIFKMZRaD9FXgxtQhoyx-1E_FxZ9nTDrMD7Bq7wJJ9R_g-PtWhkj8PrNC6uUwHg7Zt-3ld52rfF3U54JeuEgPBldpxIafjl7HxmokZulysRd1aPg1QrFLFJLpjE1cuBc0c9-YRFfqm3gjUeEDmd8qMUxA1JCwbglVahzQ9wF2xZKkyj0BLSKoZxZKhyZXYeZscYU1osfTsNXLLYEMYve3KSSck1IlU7y6dvFGqI1_eLB65o53TNNSO26BsKHdoh1lq7EGa7hBMhopnfEyWflVY1AGGzfXBjWjoyDQjFBceCnBA4jsQ8HbGfOQtjJoA4ivprMjRcvAQTrGZd8JIRkG5BmEHyIOUuFBU0BkGB6vEpuhl4job9f7DZtus1NPmXOdf4rznep9uuf6Wj79Pf7BsgOA",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU9YRnRaWGRsYW5aTFlsTkRXa1ZTUlRWMGFHZFVORGc0YXpKT2VrRjBWSFJYZVdad1gzSmhiVVJsTWtjNVZWbEtkVzA0Y21GUGR6ZFVORVoyV0U5TWNrOXNTR2xJVFRWUVZscDRZakoxT0VVNU5FZFpPR3h0U1RoVWR4SVdSMTlOUTJFNFJFMUZOak5WTlU1dlVEYzRMV2hOVVJvaVFVaE9NRVUzUmtGSmVIZFJla05sYmxkRmFFRlFlbXh1VTB0dWVGTkxaQzFEVVEiLCJmY3YiOiIzIiwiZWkiOiJHX01DYThETUU2M1U1Tm9QNzgtaE1RIiwicWMiOiJDa0pvYjNjZ2RHOGdZWFYwYjIxaGRHbGpZV3hzZVNCblpXNWxjbUYwWlNCMmFXUmxieUJrWlhOamNtbHdkR2x2Ym5NZ2QybDBhQ0J6Wlc4Z2EyVjVkMjl5WkhNUUFIMmtmdlUtIiwicXVlc3Rpb24iOiJIb3cgY2FuIEkgY3JlYXRlIGEgdmlkZW8gZGVzY3JpcHRpb24/IiwibGsiOiJHaGhqY21WaGRHVWdkbWxrWlc4Z1pHVnpZM0pwY0hScGIyNCIsImJzIjoiYzNXUExRX0NNQkNHZzYzQzhKRUd5QWx3aUs2R1RGVVFFbEFJTU1peFh0aXkwQ050dDJYX25pNXNDRDVPM3ZNLTctWFlscTMyVkVPYUdEaEFhakh4Q0FsVXVVWUNqUzYxLWNQblpKVGtmTnJoTDhncUZyY2w5OFEwZ1dMdFFCTzYwSE9oOGx4ZWU4VWdhdkFVY2dYQ01oSnJJWVNTTWQ5a1AtV0dTdjlmRHNNaU5tN3Y5dHRYOExRN0tqbmhvLXlMT0NTbTJMeFRibWpRdHY4RUFRcHNhckxhS2JuZ3Mtd2pFTHgzWURoNEFnIiwiaWQiOiJmY19HX01DYThETUU2M1U1Tm9QNzgtaE1RXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU9YRnRaWGRsYW5aTFlsTkRXa1ZTUlRWMGFHZFVORGc0YXpKT2VrRjBWSFJYZVdad1gzSmhiVVJsTWtjNVZWbEtkVzA0Y21GUGR6ZFVORVoyV0U5TWNrOXNTR2xJVFRWUVZscDRZakoxT0VVNU5FZFpPR3h0U1RoVWR4SVdSMTlOUTJFNFJFMUZOak5WTlU1dlVEYzRMV2hOVVJvaVFVaE9NRVUzUmtGSmVIZFJla05sYmxkRmFFRlFlbXh1VTB0dWVGTkxaQzFEVVEiLCJmY3YiOiIzIiwiZWkiOiJHX01DYThETUU2M1U1Tm9QNzgtaE1RIiwicWMiOiJDa0pvYjNjZ2RHOGdZWFYwYjIxaGRHbGpZV3hzZVNCblpXNWxjbUYwWlNCMmFXUmxieUJrWlhOamNtbHdkR2x2Ym5NZ2QybDBhQ0J6Wlc4Z2EyVjVkMjl5WkhNUUFIMmtmdlUtIiwicXVlc3Rpb24iOiJIb3cgY2FuIEkgY3JlYXRlIGEgdmlkZW8gZGVzY3JpcHRpb24%2FIiwibGsiOiJHaGhqY21WaGRHVWdkbWxrWlc4Z1pHVnpZM0pwY0hScGIyNCIsImJzIjoiYzNXUExRX0NNQkNHZzYzQzhKRUd5QWx3aUs2R1RGVVFFbEFJTU1peFh0aXkwQ050dDJYX25pNXNDRDVPM3ZNLTctWFlscTMyVkVPYUdEaEFhakh4Q0FsVXVVWUNqUzYxLWNQblpKVGtmTnJoTDhncUZyY2w5OFEwZ1dMdFFCTzYwSE9oOGx4ZWU4VWdhdkFVY2dYQ01oSnJJWVNTTWQ5a1AtV0dTdjlmRHNNaU5tN3Y5dHRYOExRN0tqbmhvLXlMT0NTbTJMeFRibWpRdHY4RUFRcHNhckxhS2JuZ3Mtd2pFTHgzWURoNEFnIiwiaWQiOiJmY19HX01DYThETUU2M1U1Tm9QNzgtaE1RXzUifQ%3D%3D"
+      },
+      {
+        "question": "How many views does a YouTube video need to make $10,000?",
+        "type": "ai_overview",
+        "page_token": "gjNje3icHdBfbpswHABgbcfYAfrYxNBkTaRoEuFP6gU3GBvD76UCG0KCDSy1SprHnWCH2NMOswPsGrvApH1H-L7_1Ke--_PhR2vt-LqezaZpuj8Ow1HX93Iws_L1vZczWWpdlbJbLz8v0ZdGboK3wttepJdwGhRa6cKoAwh5jXO8pdpLZFBMSadxwvSD8tVIhD1Qn2juQC96lZW6DaEP5nAO5yL3DsWNRnwHjewGR4WrfSxgGUd6r96RUFFiVUh2Ccs6liL-HK0c3oNb5ZAxx_aVAaCoLWr-6KRm8TW5td_IGZ9qEV7JWfm10ITkWVNltIidRws5AWZwkfrZjbshMBE-ZbsntzajTU3GUhcvwFUEAkR4t-hBY1z1MWLdcJUIQ9DCLp8jv2BtwDh3YsQRM6uE3I62DBCNTthLg4eJMhWCGFvKME4zvX2OMFU51uVZzWOm96QDA8K6d41827h3_6c3L42x6_EyHH_JS13aWr2U9nf38e-nfzrEkic",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=gjNje3icHdBfbpswHABgbcfYAfrYxNBkTaRoEuFP6gU3GBvD76UCG0KCDSy1SprHnWCH2NMOswPsGrvApH1H-L7_1Ke--_PhR2vt-LqezaZpuj8Ow1HX93Iws_L1vZczWWpdlbJbLz8v0ZdGboK3wttepJdwGhRa6cKoAwh5jXO8pdpLZFBMSadxwvSD8tVIhD1Qn2juQC96lZW6DaEP5nAO5yL3DsWNRnwHjewGR4WrfSxgGUd6r96RUFFiVUh2Ccs6liL-HK0c3oNb5ZAxx_aVAaCoLWr-6KRm8TW5td_IGZ9qEV7JWfm10ITkWVNltIidRws5AWZwkfrZjbshMBE-ZbsntzajTU3GUhcvwFUEAkR4t-hBY1z1MWLdcJUIQ9DCLp8jv2BtwDh3YsQRM6uE3I62DBCNTthLg4eJMhWCGFvKME4zvX2OMFU51uVZzWOm96QDA8K6d41827h3_6c3L42x6_EyHH_JS13aWr2U9nf38e-nfzrEkic",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU9YRnRaWGRsYW5aTFlsTkRXa1ZTUlRWMGFHZFVORGc0YXpKT2VrRjBWSFJYZVdad1gzSmhiVVJsTWtjNVZWbEtkVzA0Y21GUGR6ZFVORVoyV0U5TWNrOXNTR2xJVFRWUVZscDRZakoxT0VVNU5FZFpPR3h0U1RoVWR4SVdSMTlOUTJFNFJFMUZOak5WTlU1dlVEYzRMV2hOVVJvaVFVaE9NRVUzUmtGSmVIZFJla05sYmxkRmFFRlFlbXh1VTB0dWVGTkxaQzFEVVEiLCJmY3YiOiIzIiwiZWkiOiJHX01DYThETUU2M1U1Tm9QNzgtaE1RIiwicWMiOiJDa0pvYjNjZ2RHOGdZWFYwYjIxaGRHbGpZV3hzZVNCblpXNWxjbUYwWlNCMmFXUmxieUJrWlhOamNtbHdkR2x2Ym5NZ2QybDBhQ0J6Wlc4Z2EyVjVkMjl5WkhNUUFIMmtmdlUtIiwicXVlc3Rpb24iOiJIb3cgbWFueSB2aWV3cyBkb2VzIGEgWW91VHViZSB2aWRlbyBuZWVkIHRvIG1ha2UgJDEwLDAwMD8iLCJsayI6ImM1TXl6OGd2VjhoTnpLdFVLTXRNTFM5V1NNbFBMVlpJVktqTUx5MHBUVW9GQ3FhazVpdmtwYWFtS0pUa0E5VmxweXFvR0JvQUFRQSIsImJzIjoiYzNXUExRX0NNQkNHZzYzQzhKRUd5QWx3aUs2R1RGVVFFbEFJTU1peFh0aXkwQ050dDJYX25pNXNDRDVPM3ZNLTctWFlscTMyVkVPYUdEaEFhakh4Q0FsVXVVWUNqUzYxLWNQblpKVGtmTnJoTDhncUZyY2w5OFEwZ1dMdFFCTzYwSE9oOGx4ZWU4VWdhdkFVY2dYQ01oSnJJWVNTTWQ5a1AtV0dTdjlmRHNNaU5tN3Y5dHRYOExRN0tqbmhvLXlMT0NTbTJMeFRibWpRdHY4RUFRcHNhckxhS2JuZ3Mtd2pFTHgzWURoNEFnIiwiaWQiOiJmY19HX01DYThETUU2M1U1Tm9QNzgtaE1RXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU9YRnRaWGRsYW5aTFlsTkRXa1ZTUlRWMGFHZFVORGc0YXpKT2VrRjBWSFJYZVdad1gzSmhiVVJsTWtjNVZWbEtkVzA0Y21GUGR6ZFVORVoyV0U5TWNrOXNTR2xJVFRWUVZscDRZakoxT0VVNU5FZFpPR3h0U1RoVWR4SVdSMTlOUTJFNFJFMUZOak5WTlU1dlVEYzRMV2hOVVJvaVFVaE9NRVUzUmtGSmVIZFJla05sYmxkRmFFRlFlbXh1VTB0dWVGTkxaQzFEVVEiLCJmY3YiOiIzIiwiZWkiOiJHX01DYThETUU2M1U1Tm9QNzgtaE1RIiwicWMiOiJDa0pvYjNjZ2RHOGdZWFYwYjIxaGRHbGpZV3hzZVNCblpXNWxjbUYwWlNCMmFXUmxieUJrWlhOamNtbHdkR2x2Ym5NZ2QybDBhQ0J6Wlc4Z2EyVjVkMjl5WkhNUUFIMmtmdlUtIiwicXVlc3Rpb24iOiJIb3cgbWFueSB2aWV3cyBkb2VzIGEgWW91VHViZSB2aWRlbyBuZWVkIHRvIG1ha2UgJDEwLDAwMD8iLCJsayI6ImM1TXl6OGd2VjhoTnpLdFVLTXRNTFM5V1NNbFBMVlpJVktqTUx5MHBUVW9GQ3FhazVpdmtwYWFtS0pUa0E5VmxweXFvR0JvQUFRQSIsImJzIjoiYzNXUExRX0NNQkNHZzYzQzhKRUd5QWx3aUs2R1RGVVFFbEFJTU1peFh0aXkwQ050dDJYX25pNXNDRDVPM3ZNLTctWFlscTMyVkVPYUdEaEFhakh4Q0FsVXVVWUNqUzYxLWNQblpKVGtmTnJoTDhncUZyY2w5OFEwZ1dMdFFCTzYwSE9oOGx4ZWU4VWdhdkFVY2dYQ01oSnJJWVNTTWQ5a1AtV0dTdjlmRHNNaU5tN3Y5dHRYOExRN0tqbmhvLXlMT0NTbTJMeFRibWpRdHY4RUFRcHNhckxhS2JuZ3Mtd2pFTHgzWURoNEFnIiwiaWQiOiJmY19HX01DYThETUU2M1U1Tm9QNzgtaE1RXzUifQ%3D%3D"
+      },
+      {
+        "question": "How to make video SEO?",
+        "type": "ai_overview",
+        "page_token": "RJo6HnicHdBBcoIwAEDRaY_RA7hUELWjM06naGJFCSUJCbBxMEGRBKGFKcVlz9JVD9MD9Bq9QJ0u_-Jt_senPp3Vzw3PmqaqZ4NB27b9Y1keddoXZTFI6u4sBiLRep8INZvcT8yHg5iDurYXZWv7AQaRljrKcSFz9oJMHROuOnSBZxc6Jw4goEW1QaupxXk9iofrS5qj7R5Wm_gJhoLLJeNsglUWMogDPHx_JhzWCRiX17KjEFgkwGWso84DUxTQmEs1DmPVTLbMMYLCvDptcWLyVDmGe0EEFdMtszSJAqfCgXRcS2Z0aecI4E5Ah1LLH1LTJ1DJAw1Q5gGMMI0ujDJvbz5a3sIsKQPJWsE1zW2IDHZOV44vQ9ugpjsSHNcuyAgBIyPWeBPxKksB6B3E29zq_Q-b7w5FM6tey-OXeE2TJpW7pPlWt793fxtAfVQ",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=RJo6HnicHdBBcoIwAEDRaY_RA7hUELWjM06naGJFCSUJCbBxMEGRBKGFKcVlz9JVD9MD9Bq9QJ0u_-Jt_senPp3Vzw3PmqaqZ4NB27b9Y1keddoXZTFI6u4sBiLRep8INZvcT8yHg5iDurYXZWv7AQaRljrKcSFz9oJMHROuOnSBZxc6Jw4goEW1QaupxXk9iofrS5qj7R5Wm_gJhoLLJeNsglUWMogDPHx_JhzWCRiX17KjEFgkwGWso84DUxTQmEs1DmPVTLbMMYLCvDptcWLyVDmGe0EEFdMtszSJAqfCgXRcS2Z0aecI4E5Ah1LLH1LTJ1DJAw1Q5gGMMI0ujDJvbz5a3sIsKQPJWsE1zW2IDHZOV44vQ9ugpjsSHNcuyAgBIyPWeBPxKksB6B3E29zq_Q-b7w5FM6tey-OXeE2TJpW7pPlWt793fxtAfVQ",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU9YRnRaWGRsYW5aTFlsTkRXa1ZTUlRWMGFHZFVORGc0YXpKT2VrRjBWSFJYZVdad1gzSmhiVVJsTWtjNVZWbEtkVzA0Y21GUGR6ZFVORVoyV0U5TWNrOXNTR2xJVFRWUVZscDRZakoxT0VVNU5FZFpPR3h0U1RoVWR4SVdSMTlOUTJFNFJFMUZOak5WTlU1dlVEYzRMV2hOVVJvaVFVaE9NRVUzUmtGSmVIZFJla05sYmxkRmFFRlFlbXh1VTB0dWVGTkxaQzFEVVEiLCJmY3YiOiIzIiwiZWkiOiJHX01DYThETUU2M1U1Tm9QNzgtaE1RIiwicWMiOiJDa0pvYjNjZ2RHOGdZWFYwYjIxaGRHbGpZV3hzZVNCblpXNWxjbUYwWlNCMmFXUmxieUJrWlhOamNtbHdkR2x2Ym5NZ2QybDBhQ0J6Wlc4Z2EyVjVkMjl5WkhNUUFIMmtmdlUtIiwicXVlc3Rpb24iOiJIb3cgdG8gbWFrZSB2aWRlbyBTRU8/IiwibGsiOiJHaFZvYjNjZ2RHOGdiV0ZyWlNCMmFXUmxieUJ6Wlc4IiwiYnMiOiJjM1dQTFFfQ01CQ0dnNjNDOEpFR3lBbHdpSzZHVEZVUUVsQUlNTWl4WHRpeTBDTnR0Mlhfbmk1c0NENU8zdk0tNy1YWWxxMzJWRU9hR0RoQWFqSHhDQWxVdVVZQ2pTNjEtY1BuWkpUa2ZOcmhMOGdxRnJjbDk4UTBnV0x0UUJPNjBIT2g4bHhlZThVZ2F2QVVjZ1hDTWhKcklZU1NNZDlrUC1XR1N2OWZEc01pTm03djl0dFg4TFE3S2puaG8teUxPQ1NtMkx4VGJtalF0djhFQVFwc2FyTGFLYm5ncy13akVMeDNZRGg0QWciLCJpZCI6ImZjX0dfTUNhOERNRTYzVTVOb1A3OC1oTVFfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU9YRnRaWGRsYW5aTFlsTkRXa1ZTUlRWMGFHZFVORGc0YXpKT2VrRjBWSFJYZVdad1gzSmhiVVJsTWtjNVZWbEtkVzA0Y21GUGR6ZFVORVoyV0U5TWNrOXNTR2xJVFRWUVZscDRZakoxT0VVNU5FZFpPR3h0U1RoVWR4SVdSMTlOUTJFNFJFMUZOak5WTlU1dlVEYzRMV2hOVVJvaVFVaE9NRVUzUmtGSmVIZFJla05sYmxkRmFFRlFlbXh1VTB0dWVGTkxaQzFEVVEiLCJmY3YiOiIzIiwiZWkiOiJHX01DYThETUU2M1U1Tm9QNzgtaE1RIiwicWMiOiJDa0pvYjNjZ2RHOGdZWFYwYjIxaGRHbGpZV3hzZVNCblpXNWxjbUYwWlNCMmFXUmxieUJrWlhOamNtbHdkR2x2Ym5NZ2QybDBhQ0J6Wlc4Z2EyVjVkMjl5WkhNUUFIMmtmdlUtIiwicXVlc3Rpb24iOiJIb3cgdG8gbWFrZSB2aWRlbyBTRU8%2FIiwibGsiOiJHaFZvYjNjZ2RHOGdiV0ZyWlNCMmFXUmxieUJ6Wlc4IiwiYnMiOiJjM1dQTFFfQ01CQ0dnNjNDOEpFR3lBbHdpSzZHVEZVUUVsQUlNTWl4WHRpeTBDTnR0Mlhfbmk1c0NENU8zdk0tNy1YWWxxMzJWRU9hR0RoQWFqSHhDQWxVdVVZQ2pTNjEtY1BuWkpUa2ZOcmhMOGdxRnJjbDk4UTBnV0x0UUJPNjBIT2g4bHhlZThVZ2F2QVVjZ1hDTWhKcklZU1NNZDlrUC1XR1N2OWZEc01pTm03djl0dFg4TFE3S2puaG8teUxPQ1NtMkx4VGJtalF0djhFQVFwc2FyTGFLYm5ncy13akVMeDNZRGg0QWciLCJpZCI6ImZjX0dfTUNhOERNRTYzVTVOb1A3OC1oTVFfNSJ9"
+      },
+      {
+        "question": "How to generate SEO keywords?",
+        "type": "ai_overview",
+        "page_token": "fiXGdHicHdBRTsIwHIDx6DE8AI_AmMNAQoyDljGzLpS2Y3shpf-NSdsNYWHIo2fxycN4AK_hBTQe4Ps9fO8f5qXS3zdJ2TSH07jXa9u2u6vrncm7qrY9eXqrVE9JY7ZS6fHwYeg8FmqCTid_Wrf-klOUGjAJHx2VyDyeOIRaZ73UFw7zEkFC6pULUWqpZntcwh5j7pQsDiiNkGrTChib66sSYSWS0SzHtA-cSuKCn1XkzyzJ1kAKKBQpD58z64WxwILodJDvsQ8z1Ebai3Lt2UTDWdim4AGN0iTMsv6IrNYmlm7oggZM-gctZuLMdPlKKr7CGgrGSRkjSihLr4KJeOs8ufHUqZlAcqHxgu39vw5WwoyGERNzsHVDg7La9u9dNXCsrPAFAnOgAnUKdZ64nf9hk01hm_HhWO8-1TGXTQ4b2Xzp25-7Xzjqf7I",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=fiXGdHicHdBRTsIwHIDx6DE8AI_AmMNAQoyDljGzLpS2Y3shpf-NSdsNYWHIo2fxycN4AK_hBTQe4Ps9fO8f5qXS3zdJ2TSH07jXa9u2u6vrncm7qrY9eXqrVE9JY7ZS6fHwYeg8FmqCTid_Wrf-klOUGjAJHx2VyDyeOIRaZ73UFw7zEkFC6pULUWqpZntcwh5j7pQsDiiNkGrTChib66sSYSWS0SzHtA-cSuKCn1XkzyzJ1kAKKBQpD58z64WxwILodJDvsQ8z1Ebai3Lt2UTDWdim4AGN0iTMsv6IrNYmlm7oggZM-gctZuLMdPlKKr7CGgrGSRkjSihLr4KJeOs8ufHUqZlAcqHxgu39vw5WwoyGERNzsHVDg7La9u9dNXCsrPAFAnOgAnUKdZ64nf9hk01hm_HhWO8-1TGXTQ4b2Xzp25-7Xzjqf7I",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU9YRnRaWGRsYW5aTFlsTkRXa1ZTUlRWMGFHZFVORGc0YXpKT2VrRjBWSFJYZVdad1gzSmhiVVJsTWtjNVZWbEtkVzA0Y21GUGR6ZFVORVoyV0U5TWNrOXNTR2xJVFRWUVZscDRZakoxT0VVNU5FZFpPR3h0U1RoVWR4SVdSMTlOUTJFNFJFMUZOak5WTlU1dlVEYzRMV2hOVVJvaVFVaE9NRVUzUmtGSmVIZFJla05sYmxkRmFFRlFlbXh1VTB0dWVGTkxaQzFEVVEiLCJmY3YiOiIzIiwiZWkiOiJHX01DYThETUU2M1U1Tm9QNzgtaE1RIiwicWMiOiJDa0pvYjNjZ2RHOGdZWFYwYjIxaGRHbGpZV3hzZVNCblpXNWxjbUYwWlNCMmFXUmxieUJrWlhOamNtbHdkR2x2Ym5NZ2QybDBhQ0J6Wlc4Z2EyVjVkMjl5WkhNUUFIMmtmdlUtIiwicXVlc3Rpb24iOiJIb3cgdG8gZ2VuZXJhdGUgU0VPIGtleXdvcmRzPyIsImxrIjoiR2h4b2IzY2dkRzhnWjJWdVpYSmhkR1VnYzJWdklHdGxlWGR2Y21SeiIsImJzIjoiYzNXUExRX0NNQkNHZzYzQzhKRUd5QWx3aUs2R1RGVVFFbEFJTU1peFh0aXkwQ050dDJYX25pNXNDRDVPM3ZNLTctWFlscTMyVkVPYUdEaEFhakh4Q0FsVXVVWUNqUzYxLWNQblpKVGtmTnJoTDhncUZyY2w5OFEwZ1dMdFFCTzYwSE9oOGx4ZWU4VWdhdkFVY2dYQ01oSnJJWVNTTWQ5a1AtV0dTdjlmRHNNaU5tN3Y5dHRYOExRN0tqbmhvLXlMT0NTbTJMeFRibWpRdHY4RUFRcHNhckxhS2JuZ3Mtd2pFTHgzWURoNEFnIiwiaWQiOiJmY19HX01DYThETUU2M1U1Tm9QNzgtaE1RXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU9YRnRaWGRsYW5aTFlsTkRXa1ZTUlRWMGFHZFVORGc0YXpKT2VrRjBWSFJYZVdad1gzSmhiVVJsTWtjNVZWbEtkVzA0Y21GUGR6ZFVORVoyV0U5TWNrOXNTR2xJVFRWUVZscDRZakoxT0VVNU5FZFpPR3h0U1RoVWR4SVdSMTlOUTJFNFJFMUZOak5WTlU1dlVEYzRMV2hOVVJvaVFVaE9NRVUzUmtGSmVIZFJla05sYmxkRmFFRlFlbXh1VTB0dWVGTkxaQzFEVVEiLCJmY3YiOiIzIiwiZWkiOiJHX01DYThETUU2M1U1Tm9QNzgtaE1RIiwicWMiOiJDa0pvYjNjZ2RHOGdZWFYwYjIxaGRHbGpZV3hzZVNCblpXNWxjbUYwWlNCMmFXUmxieUJrWlhOamNtbHdkR2x2Ym5NZ2QybDBhQ0J6Wlc4Z2EyVjVkMjl5WkhNUUFIMmtmdlUtIiwicXVlc3Rpb24iOiJIb3cgdG8gZ2VuZXJhdGUgU0VPIGtleXdvcmRzPyIsImxrIjoiR2h4b2IzY2dkRzhnWjJWdVpYSmhkR1VnYzJWdklHdGxlWGR2Y21SeiIsImJzIjoiYzNXUExRX0NNQkNHZzYzQzhKRUd5QWx3aUs2R1RGVVFFbEFJTU1peFh0aXkwQ050dDJYX25pNXNDRDVPM3ZNLTctWFlscTMyVkVPYUdEaEFhakh4Q0FsVXVVWUNqUzYxLWNQblpKVGtmTnJoTDhncUZyY2w5OFEwZ1dMdFFCTzYwSE9oOGx4ZWU4VWdhdkFVY2dYQ01oSnJJWVNTTWQ5a1AtV0dTdjlmRHNNaU5tN3Y5dHRYOExRN0tqbmhvLXlMT0NTbTJMeFRibWpRdHY4RUFRcHNhckxhS2JuZ3Mtd2pFTHgzWURoNEFnIiwiaWQiOiJmY19HX01DYThETUU2M1U1Tm9QNzgtaE1RXzUifQ%3D%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "vDGxaXiczVbLkrJGFK7KOk-Qfdg4KuLo6FRRf3Vj6zBee_yN42woBGwYLq2AMrr8nyWrPEweIK-RF0iDOIKjc8kmOVVwoPvc-3wcfvzuWJ7918-uGYbL4LZcjqKoRCgljlHSqFtWg62nlRfUCXzN_EYccR1wAV37mmHpomb61DU40xENL11N10p0zm03YpXTApHnDEvsKH1JbbT6qF6d1AZ0dNMomn3MJeZFZa4GxjPz_vIclJUyu9m_VlvspRSUDK8kG6u51xbAb0tQEnihWhqWVZcJgP-WEAQyYdwGgLwnB_FnLWKTWQXSqT7a88x6H8Q-ZSDJ-51L_sex0VhTgknE7BqCxfPI7rCnwUFqIn8Ql5SLaZqGtWf2abifoFQ1ziC38B6dKWJSl-7xXTrdO0ed_A6ctUAryph_k073aGzPJ_EtAu3rUR9gjC96ykTenQHeAR_0ySGiSfN-HDItWNYJ63K-PPcZq5QtzdSSBz-Im1_63uTpHVpvdvIjKuKHTk2KeuNF1x3Int_dqbiszZmcQ1Xd0BVT4b8l7xVBEBrV5o1wlaBOC15hF2Rh59OAD71GvxjypV4JVg6Yy2d7Wiwsy-BcMxFIDqXI06sBnD3IpAyZe0x2znM75SaAFDPl3Cbuol5WiMGlxerVINnyHzWkdzB3mgeQEaCpgUm6BPLdhmcAjY-h5w0Nz5qN8wDgFAakkz7I8BB4tLdI3mLuAcg4KW9a4tzHEbIvBGQFxvGXosvUQ4kksvJ1HN_hxDBCLD1EjmoZktCZdICUiYTpoVgqAgQBey0jSbbSZZA4IWTvCWLyaibxIb1FXUJ9tt42z259itBnPiz7KA4gO8FMFmtoWm_2HsaNpzbvVXbNwegpWllbcwmnbXweW9Sdf2Gmaf979B0mnpO2_UX0xZ4-hT5svoe-txMPSXv0SfYF9I336JPguYk3OkidTLy36JOAlUFfOvFe9hbPTLyvow9-jL7scWXRdzyqHPrQJfR1UB59s2d0mHjn0ZdOvCP6_u3Eg1-feAkIjT3Lj7_1M7k4BlFrLRc97LgvUxjNRm3nrheG3-F8MRDIh2Nw4Ya3rqo7V4ql30LhPtzqVwpboLeGzq3EOxoVQlpQ1yF11dDSVMfZFojhGb4aGoWNpRu0oBuB5lvL0KJeUIis0CyM0bBgG9uI-nrAuY5PRV6tR9XmBCiLygRVn-8dRw_aRB8-jUb3CtANrzrXxo--Cp8k0q8sPaMprB_5Dd6FtllFsqyvPb9mbhqLsI6Kd4pd023AAx51Og-dCW087vRQWHemS6c9HVfaZDDsONHcpOwHR-B7K9Ba9QM32m2Xdrfiruqo-xglcQVicVQze92urs0Qx9IODLHCub4msq64tsEAxz98KoARuE_aGD6sGO-x3plTCPDdDOAWYRdlB8gFmqoYwUbU6rWqVuN5TVUXNwtjwbkk3C7FJs8Fni9W_tB8g1VPV9TwT_unv3_5B1Kejho",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=vDGxaXiczVbLkrJGFK7KOk-Qfdg4KuLo6FRRf3Vj6zBee_yN42woBGwYLq2AMrr8nyWrPEweIK-RF0iDOIKjc8kmOVVwoPvc-3wcfvzuWJ7918-uGYbL4LZcjqKoRCgljlHSqFtWg62nlRfUCXzN_EYccR1wAV37mmHpomb61DU40xENL11N10p0zm03YpXTApHnDEvsKH1JbbT6qF6d1AZ0dNMomn3MJeZFZa4GxjPz_vIclJUyu9m_VlvspRSUDK8kG6u51xbAb0tQEnihWhqWVZcJgP-WEAQyYdwGgLwnB_FnLWKTWQXSqT7a88x6H8Q-ZSDJ-51L_sex0VhTgknE7BqCxfPI7rCnwUFqIn8Ql5SLaZqGtWf2abifoFQ1ziC38B6dKWJSl-7xXTrdO0ed_A6ctUAryph_k073aGzPJ_EtAu3rUR9gjC96ykTenQHeAR_0ySGiSfN-HDItWNYJ63K-PPcZq5QtzdSSBz-Im1_63uTpHVpvdvIjKuKHTk2KeuNF1x3Int_dqbiszZmcQ1Xd0BVT4b8l7xVBEBrV5o1wlaBOC15hF2Rh59OAD71GvxjypV4JVg6Yy2d7Wiwsy-BcMxFIDqXI06sBnD3IpAyZe0x2znM75SaAFDPl3Cbuol5WiMGlxerVINnyHzWkdzB3mgeQEaCpgUm6BPLdhmcAjY-h5w0Nz5qN8wDgFAakkz7I8BB4tLdI3mLuAcg4KW9a4tzHEbIvBGQFxvGXosvUQ4kksvJ1HN_hxDBCLD1EjmoZktCZdICUiYTpoVgqAgQBey0jSbbSZZA4IWTvCWLyaibxIb1FXUJ9tt42z259itBnPiz7KA4gO8FMFmtoWm_2HsaNpzbvVXbNwegpWllbcwmnbXweW9Sdf2Gmaf979B0mnpO2_UX0xZ4-hT5svoe-txMPSXv0SfYF9I336JPguYk3OkidTLy36JOAlUFfOvFe9hbPTLyvow9-jL7scWXRdzyqHPrQJfR1UB59s2d0mHjn0ZdOvCP6_u3Eg1-feAkIjT3Lj7_1M7k4BlFrLRc97LgvUxjNRm3nrheG3-F8MRDIh2Nw4Ya3rqo7V4ql30LhPtzqVwpboLeGzq3EOxoVQlpQ1yF11dDSVMfZFojhGb4aGoWNpRu0oBuB5lvL0KJeUIis0CyM0bBgG9uI-nrAuY5PRV6tR9XmBCiLygRVn-8dRw_aRB8-jUb3CtANrzrXxo--Cp8k0q8sPaMprB_5Dd6FtllFsqyvPb9mbhqLsI6Kd4pd023AAx51Og-dCW087vRQWHemS6c9HVfaZDDsONHcpOwHR-B7K9Ba9QM32m2Xdrfiruqo-xglcQVicVQze92urs0Qx9IODLHCub4msq64tsEAxz98KoARuE_aGD6sGO-x3plTCPDdDOAWYRdlB8gFmqoYwUbU6rWqVuN5TVUXNwtjwbkk3C7FJs8Fni9W_tB8g1VPV9TwT_unv3_5B1Kejho"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "YouTube Description Generator (Free AI Tool)",
+        "link": "https://vidiq.com/ai-description-generator/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaAHEIkXXL4tRTvuUWy20rrmKtJpkMTbEBQtPEAOuuE8rgF04jmgfawWN750TTyi0Xu7_jEX3jIG2hmfrsXBriFBA59356rwHll4_98xWzSRRfucYlZA7stT9kykmGAXuznQCMWXXrkZq&ved=2ahUKEwiAxo6Q3JuYAxUtKlkFHe9nKAYQFnoECCYQAQ&uoh=1",
+        "displayed_link": "https://vidiq.com \u203a ai-description-generator",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAllBMVEVHcEwjc_QldPYldPUldPUldPUkdfUlc_YldPUldPUlc_UldPYldPUkdPUlc_Uldfgkc_ISVr0kcO0BAAEWIzsYRpIjatwQN3QVXc0Ub_VKSkzT2ujJyckdGxessLvl6_eaufkldPRZWl3___8ECh7m5uZqamt6e32VlphTe8whbee3uLkaTqPx9PlWZ4tdjuw6fe8jc_bq3yavAAAAMnRSTlMAM4jA5_wxYOr_INXSRkb________________________A____________________RuwS3I4AAAEPSURBVHgBjZMFFgIhEEDZbt3uUMdu7385KcHW_3jFJyeQQFE13TB0TTXRM5btCGzrQbme84DvShc4LwSP7okRP9N5CzvZdzDjF-nRdzqYMArHz5682Sb74iTN8idtI2Q6TGKKsqocPG4oSOWybtqk64dhmAipoimXMxjmDRCa214N6UIulgCreg2w2bLbdWRIuYYdvrmB5TzLHYzxKHssW1gl6Z5JXcoVHJbpCuAYhfxYTT6oGwAOAHDiL9LkVxZtUrfDYWjgcAr5VxQZhHkR5XlenpozD4IIH37ENoy3mDyPefh44OOixDNhGFNCEXhES4R9O2SwUvmdbHT5UiZfCwzj-k8l4v5X1E_toIipK7J-JKwCeRN2AAAAAElFTkSuQmCC.png",
+        "snippet": "Describe your video. Add your video title or a short topic prompt. \u00b7 Generate optimized copy. Our AI writes a keyword-rich description in seconds, scored for SEO ...",
+        "snippet_highlighted_words": [
+          "video",
+          "video",
+          "Generate",
+          "keyword",
+          "description",
+          "SEO"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Describe your video. Add your video title or a short topic prompt. \u00b7 Generate optimized copy. Our AI writes a keyword-rich description in seconds, scored for SEO ...",
+            "source_info_link": "https://vidiq.com/ai-description-generator/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAllBMVEVHcEwjc_QldPYldPUldPUldPUkdfUlc_YldPUldPUlc_UldPYldPUkdPUlc_Uldfgkc_ISVr0kcO0BAAEWIzsYRpIjatwQN3QVXc0Ub_VKSkzT2ujJyckdGxessLvl6_eaufkldPRZWl3___8ECh7m5uZqamt6e32VlphTe8whbee3uLkaTqPx9PlWZ4tdjuw6fe8jc_bq3yavAAAAMnRSTlMAM4jA5_wxYOr_INXSRkb________________________A____________________RuwS3I4AAAEPSURBVHgBjZMFFgIhEEDZbt3uUMdu7385KcHW_3jFJyeQQFE13TB0TTXRM5btCGzrQbme84DvShc4LwSP7okRP9N5CzvZdzDjF-nRdzqYMArHz5682Sb74iTN8idtI2Q6TGKKsqocPG4oSOWybtqk64dhmAipoimXMxjmDRCa214N6UIulgCreg2w2bLbdWRIuYYdvrmB5TzLHYzxKHssW1gl6Z5JXcoVHJbpCuAYhfxYTT6oGwAOAHDiL9LkVxZtUrfDYWjgcAr5VxQZhHkR5XlenpozD4IIH37ENoy3mDyPefh44OOixDNhGFNCEXhES4R9O2SwUvmdbHT5UiZfCwzj-k8l4v5X1E_toIipK7J-JKwCeRN2AAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWEwxRldMRFlka2RoZzhlQ2RmWG1RbjV6YjFyaXpLSDN0OHZSejNKVTdjd3V3Z2dXTmYwQU5LWU9MZFJqVUQxXzdDNXNGeUY5RThZZVZFMU9LQnVDNmdBRldXelNsbi13d0dyYW92WUNudXJwZ29mYUhTRy01RFhwaWFqcTVUWHVtQ0JXcBIEGgIIABqNBhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOcFCAAQABgAIAAqCgoDaG93Fe9EYz8qCQoCdG8VAAAAACovCg1hdXRvbWF0aWNhbGx5FQAAAAAaBGF1dG8aCGF1dG9tYXRlGglhdXRvbWF0aWMqMQoIZ2VuZXJhdGUVpnSPPxoFYnVpbGQaCGNyZWF0aW5nGglnZW5lcmF0b3IaBG1ha2UqFAoFdmlkZW8VwvFNQBoGdmlkZW9zKjMKDGRlc2NyaXB0aW9ucxWn5co_GgtkZXNjcmlwdGlvbhoRaXY7cDtkZXNjcmlwdGlvbnMqCwoEd2l0aBUAAAAAKiEKA3NlbxXQKD4_GgtzZW9rZXl3b3JkcxoIaXY7cDtzZW8qJQoIa2V5d29yZHMVGUd8PxoHa2V5d29yZBoLc2Vva2V5d29yZHMymgEvZ290bz91cmw9Q0FFU2FBSEVJa1hYTDFGV0xEWWRrZGhnOGVDZGZYbVFuNXpiMXJpektIM3Q4dlJ6M0pVN2N3dXdnZ1dOZjBBTktZT0xkUmpVRDFfN0M1c0Z5RjlFOFllVkUxT0tCdUM2Z0FGV1d6U2xuLXd3R3Jhb3ZZQ251cnBnb2ZhSFNHLTVEWHBpYWpxNVRYdW1DQldwOjtZb3VUdWJlIDxiPkRlc2NyaXB0aW9uIEdlbmVyYXRvcjwvYj4gKEZyZWUgQUkgVG9vbCkgLSB2aWRJUULbAURlc2NyaWJlIHlvdXIgPGI-dmlkZW88L2I-LiBBZGQgeW91ciA8Yj52aWRlbzwvYj4gdGl0bGUgb3IgYSBzaG9ydCB0b3BpYyBwcm9tcHQuICZtaWRkb3Q7IDxiPkdlbmVyYXRlPC9iPiBvcHRpbWl6ZWQgY29weS4gT3VyIEFJIHdyaXRlcyBhIDxiPmtleXdvcmQ8L2I-LXJpY2ggPGI-ZGVzY3JpcHRpb248L2I-IGluIHNlY29uZHMsIHNjb3JlZCBmb3IgPGI-U0VPPC9iPiZuYnNwOy4uLkoEd2l0aEoCdG8iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWEwxRldMRFlka2RoZzhlQ2RmWG1RbjV6YjFyaXpLSDN0OHZSejNKVTdjd3V3Z2dXTmYwQU5LWU9MZFJqVUQxXzdDNXNGeUY5RThZZVZFMU9LQnVDNmdBRldXelNsbi13d0dyYW92WUNudXJwZ29mYUhTRy01RFhwaWFqcTVUWHVtQ0JXcBIEGgIIABqNBhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOcFCAAQABgAIAAqCgoDaG93Fe9EYz8qCQoCdG8VAAAAACovCg1hdXRvbWF0aWNhbGx5FQAAAAAaBGF1dG8aCGF1dG9tYXRlGglhdXRvbWF0aWMqMQoIZ2VuZXJhdGUVpnSPPxoFYnVpbGQaCGNyZWF0aW5nGglnZW5lcmF0b3IaBG1ha2UqFAoFdmlkZW8VwvFNQBoGdmlkZW9zKjMKDGRlc2NyaXB0aW9ucxWn5co_GgtkZXNjcmlwdGlvbhoRaXY7cDtkZXNjcmlwdGlvbnMqCwoEd2l0aBUAAAAAKiEKA3NlbxXQKD4_GgtzZW9rZXl3b3JkcxoIaXY7cDtzZW8qJQoIa2V5d29yZHMVGUd8PxoHa2V5d29yZBoLc2Vva2V5d29yZHMymgEvZ290bz91cmw9Q0FFU2FBSEVJa1hYTDFGV0xEWWRrZGhnOGVDZGZYbVFuNXpiMXJpektIM3Q4dlJ6M0pVN2N3dXdnZ1dOZjBBTktZT0xkUmpVRDFfN0M1c0Z5RjlFOFllVkUxT0tCdUM2Z0FGV1d6U2xuLXd3R3Jhb3ZZQ251cnBnb2ZhSFNHLTVEWHBpYWpxNVRYdW1DQldwOjtZb3VUdWJlIDxiPkRlc2NyaXB0aW9uIEdlbmVyYXRvcjwvYj4gKEZyZWUgQUkgVG9vbCkgLSB2aWRJUULbAURlc2NyaWJlIHlvdXIgPGI-dmlkZW88L2I-LiBBZGQgeW91ciA8Yj52aWRlbzwvYj4gdGl0bGUgb3IgYSBzaG9ydCB0b3BpYyBwcm9tcHQuICZtaWRkb3Q7IDxiPkdlbmVyYXRlPC9iPiBvcHRpbWl6ZWQgY29weS4gT3VyIEFJIHdyaXRlcyBhIDxiPmtleXdvcmQ8L2I-LXJpY2ggPGI-ZGVzY3JpcHRpb248L2I-IGluIHNlY29uZHMsIHNjb3JlZCBmb3IgPGI-U0VPPC9iPiZuYnNwOy4uLkoEd2l0aEoCdG8iAhABSABYAGgA",
+        "source": "vidIQ",
+        "read_more_link": "https://www.google.com/goto?url=CAES-QEBxCJF1zk70UIP-3nK7tJzyphSXocW5CkG-F8WTm4munUdvJRv8kzKQatsAeg8XCXyH6-RAlE91CAoj8p5MaaIyI6tsYz0tXpJRr-CnVIny6kSZ-mj1KXZw1lhKHMYyTUWfNSs2Gw3nU5vG-syBtpuf6AzhtVt8DiA9p-npEOPDvZzITyLP51-AcZCY8fexILST8YYT-YT0kphyEh63WQZSylawzqT36lJnjavrV_Y77dH8rXAdRzFe1DYgGx2UAEWPBOQZJBuffK7ZEb9DSS68GrNk2VXMG6oTdc9Xpg1xs_26Y4ppnCzR2_eFy271JXo_6EE8jA-kro&gsessionid=q5yckuNjNE9Kttp4A2hFReAOI5F99dBwcdN7vezVIshtR6AY4Wqaug"
+      },
+      {
+        "position": 2,
+        "title": "How to include SEO to make ANY video go viral",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXDVAOSgVEA69ZM84230FmY-VOQddIC1W0i3tTGJfl67Nle-OWB3N3p1fmt6xtDwGgBVgbDH-Nen6Rj7RDTvOEG9pXDItrNc_f5zXLS1eB80pcrqb4qxDjzTKymSZDnR37MbMC&gsessionid=q5yckuNjNE9Kttp4A2hFReAOI5F99dBwcdN7vezVIshtR6AY4Wqaug",
+        "displayed_link": "151.6K+ views",
+        "date": "1 year ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f31a3eba3d8dc6357d12/images/xdGI0iH3NXOMhG8WtbumyVByzifGjFJfohJx9YJzmHY.jpg",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "... video! Whether you're new to keywords or completely unaware of how SEO works, this video will give you actionable steps to help your content ...",
+        "duration": "13:10",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "Intro",
+            "link": "https://www.google.com/goto?url=CAESbAHEIkXXU9la4R39KZt8wwNjl31g7S_WSgjb0VLUhetCGB9lQItBH4UST0K9Zjs_JyrzbY675eGEA6uvLkpBlv5kzMZ9Z0qsZmWdu_-GxOmPLBOsdQmnmYXxhwD1jLp5Kj1EGQUXb23onh1wvg&gsessionid=q5yckuNjNE9Kttp4A2hFReAOI5F99dBwcdN7vezVIshtR6AY4Wqaug"
+          },
+          {
+            "time": "00:44",
+            "title": "What is SEO",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXXHb3W-6ytIRXVvNsFpD9mfTC1LxRGBuhY-81bZFI5Rl3EZF8141BgLs86d_BolVUFQ2kMoGbBtZ4n23758uDKMFngqAr1oIKwh0eZYK2DesdeJBeJ97GvdyGeRumerNBkrF3VibEwR9g&gsessionid=q5yckuNjNE9Kttp4A2hFReAOI5F99dBwcdN7vezVIshtR6AY4Wqaug"
+          },
+          {
+            "time": "01:30",
+            "title": "Why is SEO important on YouTube",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXXF-lxI4Rbjra5rUb9bPT6uQzodLZZwdTWFJ43pGFN7cusTRpM0T6g-4zK-sG-GgtwMDTZWPAxqtLZT-pBx_5AlxI5naBK50B5v-V8RtQ2K8dkoiKe3-js6X7yv6GJ1U-vSw4u331SOHw&gsessionid=q5yckuNjNE9Kttp4A2hFReAOI5F99dBwcdN7vezVIshtR6AY4Wqaug"
+          },
+          {
+            "time": "02:30",
+            "title": "Sponsor",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXWWCSYyD5v_JxA24n6EzxHy8pGmFkqCjUWC_XH_ME_32TD9wYVppLP2aX_RyMmLa44duZs896kjDgFf2SoVjj42efVZri9YMtOhvQj1VwVUqnvguPZAXwLyij1i8E0vy0cSWDn2g3QkTc&gsessionid=q5yckuNjNE9Kttp4A2hFReAOI5F99dBwcdN7vezVIshtR6AY4Wqaug"
+          },
+          {
+            "time": "03:08",
+            "title": "8 places to include SEO on YouTube",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXoivFZ4dLeoFYDPquwBJONGpCAfRAo7VrGC4pfuaD_5JB6KbNewMUQfT5A-5cZ3_P96IFTEGq9I0qweP_bGt14KdDq10Nbq4YKR9LSTYGbKm3UPLfpvEwHvxqAS8LeVCd7LJS6eufNrxe&gsessionid=q5yckuNjNE9Kttp4A2hFReAOI5F99dBwcdN7vezVIshtR6AY4Wqaug"
+          }
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "... video! Whether you're new to keywords or completely unaware of how SEO works, this video will give you actionable steps to help your content ...",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWERWQU9TZ1ZFQTY5Wk04NDIzMEZtWS1WT1FkZElDMVcwaTN0VEdKZmw2N05sZS1PV0IzTjNwMWZtdDZ4dER3R2dCVmdiREgtTmVuNlJqN1JEVHZPRUc5cFhESXRyTmNfZjV6WExTMWVCODBwY3JxYjRxeERqelRLeW1TWkRuUjM3TWJNQxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWERWQU9TZ1ZFQTY5Wk04NDIzMEZtWS1WT1FkZElDMVcwaTN0VEdKZmw2N05sZS1PV0IzTjNwMWZtdDZ4dER3R2dCVmdiREgtTmVuNlJqN1JEVHZPRUc5cFhESXRyTmNfZjV6WExTMWVCODBwY3JxYjRxeERqelRLeW1TWkRuUjM3TWJNQxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSCvCzjhyNx67laCkclvdYrJ-FzgLPso2qbZQ",
+        "source": "YouTube \u00b7 Dan the creator"
+      },
+      {
+        "position": 3,
+        "title": "YouTube Video Description Generator [FREE]",
+        "link": "https://www.google.com/goto?url=CAESzwEBxCJF1_OOTVocWxEdBYtesQ5HOlhyNxfEA2dMVQCKCREAz86ihnoOasiBWd30zQq8Eajv6PJ8YPQ7doZaHVKJLfg-sLRKGyQxqRiALip2EXoQpp49bLaOPf5pwAMqJm6yjyiPbgzpFXkXo7h1cWEVhu0-c1y8T-9axHhIdhrZM3EDNB7thPBFcuhyMuEJRL3ZMFvuTJ-i4Bmv1U2JSsEBgzPsHh3w9BA89flYg1vKz99zT85DoXvQcHQLwrhdaWlw1IepUKo-TLlcOVjCoNw",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzwEBxCJF1zlQopvJbUdg1xEVtNhKXHxYT4RCGYeZmEk04YSnura8V9hAf2nr6b7uL3VTLpLO7o5yy3a_nvo3Ng9AJx7HG4mNHuDtjLMnBAT2HJo6H4cgDelwIT0wxmBuiSR49cMcHKWsfvNqbAWK0poAkb_Io_ed4H8v96y_dLrnz4ar29xMTRE37bgLoxVxz0ORyJWYZFgD8ofySlMnXsdcNmEs4mIpCbq3WB14nqXHHrfOr-oQ00vOPTENiWFzcNASrUj-hAO216doOB4Khe4&ved=2ahUKEwiAxo6Q3JuYAxUtKlkFHe9nKAYQFnoECCcQAQ&uoh=1",
+        "displayed_link": "https://www.hootsuite.com \u203a social-media-tools \u203a youtu...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEX_____ubf_zMv_-Pj_cGz_OjL_o6H_6Of_r63_KB7_ODD_Yl3_29r_RT7_QDn_fnv_h4T_hYL_n53_09L_8fH_4uH_XFf_SkT_TEb_Qzz_j4z_dXH_SUP_yMf_bGj_9PT_eXX_vbv_VlD_QTr_LST_HxL_Ukz_l5ScMmhsAAABKElEQVR4AWKgDAAaJQsECWEYipZhAtNAcStuy97_hlsIRdaD86K_NR6_QPMJlv0zfnF0DPMn6grhoR-EUUzfSXorleWFEEJCVlZZDdxrLqyUBVkt6lrC6xrXggfg5cRF0F1Zj84jsYdRhecT4HBlwxzSS4CTZ9ivt_QCZXa4RetA7nJRiJPnKYR1Jq5bevDtV8vViIVmzWxtcRyC7TH5qrjW4OnRVEaQsKFjkZOq94qYjaLUSdLe3xvjpHQkc7Ezs2cJ0XKfdcmVJMQWJXvqJIzFsGerlWhTG3eJIWXlh61EJwPtH3mr3B7ClOejyaq6WN09YxddFtrqpZf7y7Ek3kHzmph3qvWO9E97eEty3SUtylrHehixu6WWgwgACNX3Oy1J3TRh_7QPIyIYwzIrRv8AAAAASUVORK5CYII.png",
+        "snippet": "YouTube video description generators are automated tools that use AI to analyze your content, suggest keywords, and quickly generate comprehensive descriptions ...",
+        "snippet_highlighted_words": [
+          "YouTube video description generators are automated tools"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "YouTube video description generators are automated tools that use AI to analyze your content, suggest keywords, and quickly generate comprehensive descriptions ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESzwEBxCJF1_OOTVocWxEdBYtesQ5HOlhyNxfEA2dMVQCKCREAz86ihnoOasiBWd30zQq8Eajv6PJ8YPQ7doZaHVKJLfg-sLRKGyQxqRiALip2EXoQpp49bLaOPf5pwAMqJm6yjyiPbgzpFXkXo7h1cWEVhu0-c1y8T-9axHhIdhrZM3EDNB7thPBFcuhyMuEJRL3ZMFvuTJ-i4Bmv1U2JSsEBgzPsHh3w9BA89flYg1vKz99zT85DoXvQcHQLwrhdaWlw1IepUKo-TLlcOVjCoNw",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEX_____ubf_zMv_-Pj_cGz_OjL_o6H_6Of_r63_KB7_ODD_Yl3_29r_RT7_QDn_fnv_h4T_hYL_n53_09L_8fH_4uH_XFf_SkT_TEb_Qzz_j4z_dXH_SUP_yMf_bGj_9PT_eXX_vbv_VlD_QTr_LST_HxL_Ukz_l5ScMmhsAAABKElEQVR4AWKgDAAaJQsECWEYipZhAtNAcStuy97_hlsIRdaD86K_NR6_QPMJlv0zfnF0DPMn6grhoR-EUUzfSXorleWFEEJCVlZZDdxrLqyUBVkt6lrC6xrXggfg5cRF0F1Zj84jsYdRhecT4HBlwxzSS4CTZ9ivt_QCZXa4RetA7nJRiJPnKYR1Jq5bevDtV8vViIVmzWxtcRyC7TH5qrjW4OnRVEaQsKFjkZOq94qYjaLUSdLe3xvjpHQkc7Ezs2cJ0XKfdcmVJMQWJXvqJIzFsGerlWhTG3eJIWXlh61EJwPtH3mr3B7ClOejyaq6WN09YxddFtrqpZf7y7Ek3kHzmph3qvWO9E97eEty3SUtylrHehixu6WWgwgACNX3Oy1J3TRh_7QPIyIYwzIrRv8AAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUCL2dvdG8_dXJsPUNBRVN6d0VCeENKRjFfT09UVm9jV3hFZEJZdGVzUTVIT2xoeU54ZkVBMmRNVlFDS0NSRUF6ODZpaG5vT2FzaUJXZDMwelFxOEVhanY2UEo4WVBRN2RvWmFIVktKTGZnLXNMUktHeVF4cVJpQUxpcDJFWG9RcHA0OWJMYU9QZjVwd0FNcUptNnlqeWlQYmd6cEZYa1hvN2gxY1dFVmh1MC1jMXk4VC05YXhIaElkaHJaTTNFRE5CN3RoUEJGY3VoeU11RUpSTDNaTUZ2dVRKLWk0Qm12MVUySlNzRUJnelBzSGgzdzlCQTg5ZmxZZzF2S3o5OXpUODVEb1h2UWNIUUx3cmhkYVdsdzFJZXBVS28tVExsY09WakNvTncSBBoCCAAalgYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDwBQgAEAAYACAAKgoKA2hvdxUB8jA_KgkKAnRvFQAAAAAqLwoNYXV0b21hdGljYWxseRUAAAAAGgRhdXRvGghhdXRvbWF0ZRoJYXV0b21hdGljKjEKCGdlbmVyYXRlFZqoXj8aBWJ1aWxkGghjcmVhdGluZxoJZ2VuZXJhdG9yGgRtYWtlKhQKBXZpZGVvFUo7q0AaBnZpZGVvcyozCgxkZXNjcmlwdGlvbnMVCuMLQBoLZGVzY3JpcHRpb24aEWl2O3A7ZGVzY3JpcHRpb25zKgsKBHdpdGgVAAAAACohCgNzZW8VUhpoPhoLc2Vva2V5d29yZHMaCGl2O3A7c2VvKiUKCGtleXdvcmRzFbLsuD8aB2tleXdvcmQaC3Nlb2tleXdvcmRzMs0BL2dvdG8_dXJsPUNBRVNqUUVCeENKRjF5YTB4bHVNZzc1YjhkcWd2VWhyRE1zMXNETXZLYks2MUE4dzgzaDFvSTltSDBpb3U1Z2tkWDJMZ0NQVkdETFo5dVV1ZS1ScDROUUd5MDBUbTB6STB0UUFVLXVoMlZ3YkhEcGJZbDhMT01MeThOajh1cUVDRHdMdU1QTWpZU1JMeWthNTIwQl9oRk5QdWVydHRRcVoyM0xvYkpoaFF3NFcza2M0MmR4Nlp6c2VqQXQ0UkI2WXViVTo9WW91VHViZSA8Yj5WaWRlbyBEZXNjcmlwdGlvbiBHZW5lcmF0b3I8L2I-IFtGUkVFXSAtIEhvb3RzdWl0ZUKvATxiPllvdVR1YmUgdmlkZW8gZGVzY3JpcHRpb24gZ2VuZXJhdG9ycyBhcmUgYXV0b21hdGVkIHRvb2xzPC9iPiB0aGF0IHVzZSBBSSB0byBhbmFseXplIHlvdXIgY29udGVudCwgc3VnZ2VzdCBrZXl3b3JkcywgYW5kIHF1aWNrbHkgZ2VuZXJhdGUgY29tcHJlaGVuc2l2ZSBkZXNjcmlwdGlvbnMmbmJzcDsuLi5KBHdpdGhKAnRvIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUCL2dvdG8_dXJsPUNBRVN6d0VCeENKRjFfT09UVm9jV3hFZEJZdGVzUTVIT2xoeU54ZkVBMmRNVlFDS0NSRUF6ODZpaG5vT2FzaUJXZDMwelFxOEVhanY2UEo4WVBRN2RvWmFIVktKTGZnLXNMUktHeVF4cVJpQUxpcDJFWG9RcHA0OWJMYU9QZjVwd0FNcUptNnlqeWlQYmd6cEZYa1hvN2gxY1dFVmh1MC1jMXk4VC05YXhIaElkaHJaTTNFRE5CN3RoUEJGY3VoeU11RUpSTDNaTUZ2dVRKLWk0Qm12MVUySlNzRUJnelBzSGgzdzlCQTg5ZmxZZzF2S3o5OXpUODVEb1h2UWNIUUx3cmhkYVdsdzFJZXBVS28tVExsY09WakNvTncSBBoCCAAalgYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDwBQgAEAAYACAAKgoKA2hvdxUB8jA_KgkKAnRvFQAAAAAqLwoNYXV0b21hdGljYWxseRUAAAAAGgRhdXRvGghhdXRvbWF0ZRoJYXV0b21hdGljKjEKCGdlbmVyYXRlFZqoXj8aBWJ1aWxkGghjcmVhdGluZxoJZ2VuZXJhdG9yGgRtYWtlKhQKBXZpZGVvFUo7q0AaBnZpZGVvcyozCgxkZXNjcmlwdGlvbnMVCuMLQBoLZGVzY3JpcHRpb24aEWl2O3A7ZGVzY3JpcHRpb25zKgsKBHdpdGgVAAAAACohCgNzZW8VUhpoPhoLc2Vva2V5d29yZHMaCGl2O3A7c2VvKiUKCGtleXdvcmRzFbLsuD8aB2tleXdvcmQaC3Nlb2tleXdvcmRzMs0BL2dvdG8_dXJsPUNBRVNqUUVCeENKRjF5YTB4bHVNZzc1YjhkcWd2VWhyRE1zMXNETXZLYks2MUE4dzgzaDFvSTltSDBpb3U1Z2tkWDJMZ0NQVkdETFo5dVV1ZS1ScDROUUd5MDBUbTB6STB0UUFVLXVoMlZ3YkhEcGJZbDhMT01MeThOajh1cUVDRHdMdU1QTWpZU1JMeWthNTIwQl9oRk5QdWVydHRRcVoyM0xvYkpoaFF3NFcza2M0MmR4Nlp6c2VqQXQ0UkI2WXViVTo9WW91VHViZSA8Yj5WaWRlbyBEZXNjcmlwdGlvbiBHZW5lcmF0b3I8L2I-IFtGUkVFXSAtIEhvb3RzdWl0ZUKvATxiPllvdVR1YmUgdmlkZW8gZGVzY3JpcHRpb24gZ2VuZXJhdG9ycyBhcmUgYXV0b21hdGVkIHRvb2xzPC9iPiB0aGF0IHVzZSBBSSB0byBhbmFseXplIHlvdXIgY29udGVudCwgc3VnZ2VzdCBrZXl3b3JkcywgYW5kIHF1aWNrbHkgZ2VuZXJhdGUgY29tcHJlaGVuc2l2ZSBkZXNjcmlwdGlvbnMmbmJzcDsuLi5KBHdpdGhKAnRvIgIQAUgAWABoAA",
+        "source": "Hootsuite",
+        "read_more_link": "https://www.google.com/goto?url=CAEStgIBxCJF1_7zwi-bb3nXgs9YkGXYbvIZHCSEHPO0hZR8zvMekoBqcWhBua_jgpB0H9Cj3TUJNmPavSV73gmeVwYbZxe-rljIKPOXw6s5KBlrYobwQY5ErA59nwQAhlbV6xvl44L3HiApBbJ16D_frd04kakjED5f0MpEcm7z6QrD86mibN_SaVsPJcbM97fYPa5G8Elg_XAhYmFVbV9Vcs1-baB-OG6uYN4w8ffr37LHNFmxWNx_8_gnd0PHoy4N36MFtG7EuF54ihJVCw7rEhZdLiJA8ds8qjCsGheKJx5NNV_JP5jX8c7N2wsLEoAeRoW6s4rtRexeKTy33bWLsALHDHG6qG0Kc56sKA5jgYssM5hrTHQAQlEChB7VRbHmscc8hgbTeZEKjTebTCRgTdfmUiiEQU8e&gsessionid=q5yckuNjNE9Kttp4A2hFReAOI5F99dBwcdN7vezVIshtR6AY4Wqaug"
+      },
+      {
+        "position": 4,
+        "title": "What Are the Best AI YouTube Video Description ...",
+        "link": "https://www.google.com/goto?url=CAEShQEBxCJF14QwcGE4zpeEpTggpw5oyzXG7k_uxLm4MFQ7Y3U0r3t3exrqvmpUp5lTx370bbaLxFsGpFKe8eB6jqy_RpZqO_PyNFOgN7-T3gi3HA-N4xNvMgSAwkI4upj7UmQxAzQzhOONX0SbeaZV9NKzj5HejDXSfZTPA632zpeeD3hyQ7lt",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShQEBxCJF1wKS9xltZPQ0OoplJF0OZj7-FzARckLVV5PX6fl7OgAcYhvfDruiClMn4JymGvDh402VL5YxfVGxfK9JlTgpOvFIZ0PQ7mtO4Zj1TYmS9oeHTBhwMlkinZCmLquypo_ViiNG9uY-fy724y6cINI3VQCkrrhoWOfl7Kombm1VC58q&ved=2ahUKEwiAxo6Q3JuYAxUtKlkFHe9nKAYQFnoECCgQAQ&uoh=1",
+        "displayed_link": "https://www.tastyedits.com \u203a best-ai-youtube-video-descr...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAdVBMVEX____4tbbzeHrzfX_0hYf4urv97u7ybnD1lJXuJCjvMDPvODv2nZ71l5juLC_vNDj--fnuGB32n6DuJyv2p6fyZmjwUFL0jI3iMza_JiizISO1IiT3r7D6ysvMKy360dHbMDPvPkD85OTuEBbxYGLuHiP5wsOyuDr6AAAA5ElEQVR4Ae3TRWLDMBAF0B-yLU0i1TEz-_5HrJnLXeatxDiD_3A6XzrXGwBFvczON7Q0xnuMlKnWYXe0HoIGkgNvOk3EczOADBOw5CcDuAVo_JMB0gae4usBrwEEOJ-9JHHLMWjgjgPugmZymu_5gTDRCg06EgS-cUIrYnTE9WKWoKXodCBOiXQFHS5pJ_B9V2boOWK3fNCcgISGXl7QJHXdNPX8pt-lQsFgvnvsN4KWS-yBSWnMl2_4fkzELCw4BadO7HlxnJLkhYaV_MoqQ_CWMFjFrjl28tp0rk3COWad4x-9A7RoJQIy2ERvAAAAAElFTkSuQmCC.png",
+        "date": "Aug 20, 2026",
+        "snippet": "At the most basic level, AI YouTube video description generators take information about your content and then use LLMs to synthesize an SEO- ...",
+        "snippet_highlighted_words": [
+          "AI YouTube video description generators"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "At the most basic level, AI YouTube video description generators take information about your content and then use LLMs to synthesize an SEO- ...",
+            "source_info_link": "https://www.google.com/goto?url=CAEShQEBxCJF14QwcGE4zpeEpTggpw5oyzXG7k_uxLm4MFQ7Y3U0r3t3exrqvmpUp5lTx370bbaLxFsGpFKe8eB6jqy_RpZqO_PyNFOgN7-T3gi3HA-N4xNvMgSAwkI4upj7UmQxAzQzhOONX0SbeaZV9NKzj5HejDXSfZTPA632zpeeD3hyQ7lt",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAdVBMVEX____4tbbzeHrzfX_0hYf4urv97u7ybnD1lJXuJCjvMDPvODv2nZ71l5juLC_vNDj--fnuGB32n6DuJyv2p6fyZmjwUFL0jI3iMza_JiizISO1IiT3r7D6ysvMKy360dHbMDPvPkD85OTuEBbxYGLuHiP5wsOyuDr6AAAA5ElEQVR4Ae3TRWLDMBAF0B-yLU0i1TEz-_5HrJnLXeatxDiD_3A6XzrXGwBFvczON7Q0xnuMlKnWYXe0HoIGkgNvOk3EczOADBOw5CcDuAVo_JMB0gae4usBrwEEOJ-9JHHLMWjgjgPugmZymu_5gTDRCg06EgS-cUIrYnTE9WKWoKXodCBOiXQFHS5pJ_B9V2boOWK3fNCcgISGXl7QJHXdNPX8pt-lQsFgvnvsN4KWS-yBSWnMl2_4fkzELCw4BadO7HlxnJLkhYaV_MoqQ_CWMFjFrjl28tp0rk3COWad4x-9A7RoJQIy2ERvAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsIBL2dvdG8_dXJsPUNBRVNoUUVCeENKRjE0UXdjR0U0enBlRXBUZ2dwdzVveXpYRzdrX3V4TG00TUZRN1kzVTByM3QzZXhycXZtcFVwNWxUeDM3MGJiYUx4RnNHcEZLZThlQjZqcXlfUnBacU9fUHlORk9nTjctVDNnaTNIQS1ONHhOdk1nU0F3a0k0dXBqN1VtUXhBelF6aE9PTlgwU2JlYVpWOU5Lemo1SGVqRFhTZlpUUEE2MzJ6cGVlRDNoeVE3bHQSBBoCCAAa-gUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA1gUIABAAGAAgACoKCgNob3cVWUP3PioJCgJ0bxUAAAAAKi8KDWF1dG9tYXRpY2FsbHkVyVNNPRoEYXV0bxoIYXV0b21hdGUaCWF1dG9tYXRpYyoxCghnZW5lcmF0ZRVOv5s_GgVidWlsZBoIY3JlYXRpbmcaCWdlbmVyYXRvchoEbWFrZSoUCgV2aWRlbxX-QMNAGgZ2aWRlb3MqMwoMZGVzY3JpcHRpb25zFQTNtT8aC2Rlc2NyaXB0aW9uGhFpdjtwO2Rlc2NyaXB0aW9ucyoLCgR3aXRoFQAAAAAqIQoDc2VvFeOqlz8aC3Nlb2tleXdvcmRzGghpdjtwO3NlbyolCghrZXl3b3JkcxXEYYA_GgdrZXl3b3JkGgtzZW9rZXl3b3JkczLCAS9nb3RvP3VybD1DQUVTaFFFQnhDSkYxNFF3Y0dFNHpwZUVwVGdncHc1b3l6WEc3a191eExtNE1GUTdZM1UwcjN0M2V4cnF2bXBVcDVsVHgzNzBiYmFMeEZzR3BGS2U4ZUI2anF5X1JwWnFPX1B5TkZPZ043LVQzZ2kzSEEtTjR4TnZNZ1NBd2tJNHVwajdVbVF4QXpRemhPT05YMFNiZWFaVjlOS3pqNUhlakRYU2ZaVFBBNjMyenBlZUQzaHlRN2x0OkFXaGF0IEFyZSB0aGUgQmVzdCBBSSBZb3VUdWJlIDxiPlZpZGVvIERlc2NyaXB0aW9uPC9iPiBHZW5lcmF0b3JzP0KcAUF0IHRoZSBtb3N0IGJhc2ljIGxldmVsLCA8Yj5BSSBZb3VUdWJlIHZpZGVvIGRlc2NyaXB0aW9uIGdlbmVyYXRvcnM8L2I-IHRha2UgaW5mb3JtYXRpb24gYWJvdXQgeW91ciBjb250ZW50IGFuZCB0aGVuIHVzZSBMTE1zIHRvIHN5bnRoZXNpemUgYW4gU0VPLSZuYnNwOy4uLkoCdG9KBHdpdGgiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsIBL2dvdG8_dXJsPUNBRVNoUUVCeENKRjE0UXdjR0U0enBlRXBUZ2dwdzVveXpYRzdrX3V4TG00TUZRN1kzVTByM3QzZXhycXZtcFVwNWxUeDM3MGJiYUx4RnNHcEZLZThlQjZqcXlfUnBacU9fUHlORk9nTjctVDNnaTNIQS1ONHhOdk1nU0F3a0k0dXBqN1VtUXhBelF6aE9PTlgwU2JlYVpWOU5Lemo1SGVqRFhTZlpUUEE2MzJ6cGVlRDNoeVE3bHQSBBoCCAAa-gUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA1gUIABAAGAAgACoKCgNob3cVWUP3PioJCgJ0bxUAAAAAKi8KDWF1dG9tYXRpY2FsbHkVyVNNPRoEYXV0bxoIYXV0b21hdGUaCWF1dG9tYXRpYyoxCghnZW5lcmF0ZRVOv5s_GgVidWlsZBoIY3JlYXRpbmcaCWdlbmVyYXRvchoEbWFrZSoUCgV2aWRlbxX-QMNAGgZ2aWRlb3MqMwoMZGVzY3JpcHRpb25zFQTNtT8aC2Rlc2NyaXB0aW9uGhFpdjtwO2Rlc2NyaXB0aW9ucyoLCgR3aXRoFQAAAAAqIQoDc2VvFeOqlz8aC3Nlb2tleXdvcmRzGghpdjtwO3NlbyolCghrZXl3b3JkcxXEYYA_GgdrZXl3b3JkGgtzZW9rZXl3b3JkczLCAS9nb3RvP3VybD1DQUVTaFFFQnhDSkYxNFF3Y0dFNHpwZUVwVGdncHc1b3l6WEc3a191eExtNE1GUTdZM1UwcjN0M2V4cnF2bXBVcDVsVHgzNzBiYmFMeEZzR3BGS2U4ZUI2anF5X1JwWnFPX1B5TkZPZ043LVQzZ2kzSEEtTjR4TnZNZ1NBd2tJNHVwajdVbVF4QXpRemhPT05YMFNiZWFaVjlOS3pqNUhlakRYU2ZaVFBBNjMyenBlZUQzaHlRN2x0OkFXaGF0IEFyZSB0aGUgQmVzdCBBSSBZb3VUdWJlIDxiPlZpZGVvIERlc2NyaXB0aW9uPC9iPiBHZW5lcmF0b3JzP0KcAUF0IHRoZSBtb3N0IGJhc2ljIGxldmVsLCA8Yj5BSSBZb3VUdWJlIHZpZGVvIGRlc2NyaXB0aW9uIGdlbmVyYXRvcnM8L2I-IHRha2UgaW5mb3JtYXRpb24gYWJvdXQgeW91ciBjb250ZW50IGFuZCB0aGVuIHVzZSBMTE1zIHRvIHN5bnRoZXNpemUgYW4gU0VPLSZuYnNwOy4uLkoCdG9KBHdpdGgiAhABSABYAGgA",
+        "source": "Tasty Edits",
+        "read_more_link": "https://www.google.com/goto?url=CAES6gEBxCJF1www-qLZlenCX7ZZkKecYXdggie7tMlrOnxDBue9wbrQyrEDFIhHsNBPpHYM_KhuHtLwiydyXmQzhaFy7cXuEY6yPeEBIAoXbsO9e6PeX_VoxUqj5oDBBwAplCpXEAF571QO-xW0bN2j95dy3Mc5ntyZnX3o2Li6AgMSmDRh_3ytRUXR8YazSiBN_a76xdMvgfJhWyAk7ST8OASKQaRw5R4B3CmKNEcL5EpaoFbIwnlrZmn1mPFmwNMZfpm7HAJ7E3IL_6s3clJRnRAsFdtXrIXgUC05e8vH4TApbRYM664_OEFW4W0&gsessionid=q5yckuNjNE9Kttp4A2hFReAOI5F99dBwcdN7vezVIshtR6AY4Wqaug"
+      },
+      {
+        "position": 5,
+        "title": "How to Generate SEO Seed Keywords Using AI",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXX-sj_oCR4t9HZza_DjwrI7DZna5R8C9OITKYrLOVCbht4Qm6ermmscXkGJDTAAQNIv5fd6xbwK37D6tjDpKX2AmizybNYcrK9_GUqmFMRpqzvVqRbCgN-OEU2-FbsIAHu4_OM&gsessionid=q5yckuNjNE9Kttp4A2hFReAOI5F99dBwcdN7vezVIshtR6AY4Wqaug",
+        "displayed_link": "110+ views",
+        "date": "1 year ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f31a3eba3d8dc6357d12/images/xdGI0iH3NXOMhG8WtbumybOJg2owwdFAyLQuKBj2LGk.jpg",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "Use Discount Code for extra saving: \"SHRYT\" In this video, you'll learn how to generate SEO seed keywords effortlessly using AI technology.",
+        "duration": "16:08",
+        "about_this_result": {
+          "source": {
+            "description": "Use Discount Code for extra saving: \"SHRYT\" In this video, you'll learn how to generate SEO seed keywords effortlessly using AI technology.",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWC1zal9vQ1I0dDlIWnphX0Rqd3JJN0RabmE1UjhDOU9JVEtZckxPVkNiaHQ0UW02ZXJtbXNjWGtHSkRUQUFRTkl2NWZkNnhid0szN0Q2dGpEcEtYMkFtaXp5Yk5ZY3JLOV9HVXFtRk1ScHF6dlZxUmJDZ04tT0VVMi1GYnNJQUh1NF9PTRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWC1zal9vQ1I0dDlIWnphX0Rqd3JJN0RabmE1UjhDOU9JVEtZckxPVkNiaHQ0UW02ZXJtbXNjWGtHSkRUQUFRTkl2NWZkNnhid0szN0Q2dGpEcEtYMkFtaXp5Yk5ZY3JLOV9HVXFtRk1ScHF6dlZxUmJDZ04tT0VVMi1GYnNJQUh1NF9PTRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRv5o35jgV5_sl-FjxdoyC2xqd4T-ukbgM23Q",
+        "source": "YouTube \u00b7 Pabbly"
+      },
+      {
+        "position": 6,
+        "title": "Generate a title, description and keywords with AI",
+        "link": "https://www.google.com/goto?url=CAESdQHEIkXXRISOpkOyZ4NjBCNxQStNlIPzMbTJGk830BmZstQ-mnqWcSvBYVbrA1E70GLxhN6bjerY8ljo0vC2t0uIiqD7BrM18TkNUL02EWEcZZYEIC-Bcl4-aUCxhcf25kRiY0GJ_JeXvc1ZDkXm_KCLkSj0Bg",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHEIkXXZsJfWORruLUpgUlcX0t28BUHwXNYxuGVO_OgM-zTh02Fwh87BcbLoj2HDukmzd2zOiag9DBvZq9EVnwrnQYWN_u1Fd-87MuKCUei_EcBs6wHvwbzVcis9yDAdDUhVnXgVDL5hdJ9t1JCI_Y-tdvErw&ved=2ahUKEwiAxo6Q3JuYAxUtKlkFHe9nKAYQFnoECEgQAQ&uoh=1",
+        "displayed_link": "https://videas.com \u203a Home \u203a Help center \u203a Subtitles & AI",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEWISv-GRv-FRP-HSP-hdf-ogf-jef-qhP-TXv-EQv_Dqf____-ecP-NUv-3mP-CPv_Mt__j2P-AOv9-Nf_18f-xj_-WZP-BPP_Frf_Zyf_f0v_v6f-mff-PV__7-f-vi_-_pP_Pu_93I__p4P-ba__YyP-7nf_m2_8sBPQvAAAAv0lEQVR4Ac3R1WEEMQxFUdlecu4mw8zcf4VhGihg36eOUZIHjdJayVe01mZtp_P5or_ser7eVmqfAPNRUnfgeYVGgBcrIo4Lni-r-N53LQghsmu0EaCNqBhIZB3j8LnDSSHbovgZ5L4EBZR6i_oMJKqCOpBdghoav4XO2aPTQdYPMKo9qhHwIQyU49itfvxwgjSJu27e6scvgMqW-x6JqQCGQB_h5x-Z7QcuO1Tx-XwVY6qyvCvZ6deczcfgHzNvZMcLtGHWYfsAAAAASUVORK5CYII.png",
+        "date": "Feb 25, 2026",
+        "snippet": "To generate the title, the description, a summary or SEO keywords for a video, open it in Mediasbox, stay on the Overview tab, and in the AI ...",
+        "snippet_highlighted_words": [
+          "open it in Mediasbox"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "To generate the title, the description, a summary or SEO keywords for a video, open it in Mediasbox, stay on the Overview tab, and in the AI ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESdQHEIkXXRISOpkOyZ4NjBCNxQStNlIPzMbTJGk830BmZstQ-mnqWcSvBYVbrA1E70GLxhN6bjerY8ljo0vC2t0uIiqD7BrM18TkNUL02EWEcZZYEIC-Bcl4-aUCxhcf25kRiY0GJ_JeXvc1ZDkXm_KCLkSj0Bg",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEWISv-GRv-FRP-HSP-hdf-ogf-jef-qhP-TXv-EQv_Dqf____-ecP-NUv-3mP-CPv_Mt__j2P-AOv9-Nf_18f-xj_-WZP-BPP_Frf_Zyf_f0v_v6f-mff-PV__7-f-vi_-_pP_Pu_93I__p4P-ba__YyP-7nf_m2_8sBPQvAAAAv0lEQVR4Ac3R1WEEMQxFUdlecu4mw8zcf4VhGihg36eOUZIHjdJayVe01mZtp_P5or_ser7eVmqfAPNRUnfgeYVGgBcrIo4Lni-r-N53LQghsmu0EaCNqBhIZB3j8LnDSSHbovgZ5L4EBZR6i_oMJKqCOpBdghoav4XO2aPTQdYPMKo9qhHwIQyU49itfvxwgjSJu27e6scvgMqW-x6JqQCGQB_h5x-Z7QcuO1Tx-XwVY6qyvCvZ6deczcfgHzNvZMcLtGHWYfsAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqwBL2dvdG8_dXJsPUNBRVNkUUhFSWtYWFJJU09wa095WjROakJDTnhRU3RObElQek1iVEpHazgzMEJtWnN0US1tbnFXY1N2QllWYnJBMUU3MEdMeGhONmJqZXJZOGxqbzB2QzJ0MHVJaXFEN0JyTTE4VGtOVUwwMkVXRWNaWllFSUMtQmNsNC1hVUN4aGNmMjVrUmlZMEdKX0plWHZjMVpEa1htX0tDTGtTajBCZxIEGgIIABrzBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDPBQgAEAAYACAAKgoKA2hvdxVxsNQ-KgkKAnRvFQAAAAAqLwoNYXV0b21hdGljYWxseRWQLZM-GgRhdXRvGghhdXRvbWF0ZRoJYXV0b21hdGljKjEKCGdlbmVyYXRlFelEjEAaBWJ1aWxkGghjcmVhdGluZxoJZ2VuZXJhdG9yGgRtYWtlKhQKBXZpZGVvFfXesEAaBnZpZGVvcyozCgxkZXNjcmlwdGlvbnMV-IeRPxoLZGVzY3JpcHRpb24aEWl2O3A7ZGVzY3JpcHRpb25zKgsKBHdpdGgVAAAAACohCgNzZW8VIJDMPxoLc2Vva2V5d29yZHMaCGl2O3A7c2VvKiUKCGtleXdvcmRzFdI5cEAaB2tleXdvcmQaC3Nlb2tleXdvcmRzMqwBL2dvdG8_dXJsPUNBRVNkUUhFSWtYWFJJU09wa095WjROakJDTnhRU3RObElQek1iVEpHazgzMEJtWnN0US1tbnFXY1N2QllWYnJBMUU3MEdMeGhONmJqZXJZOGxqbzB2QzJ0MHVJaXFEN0JyTTE4VGtOVUwwMkVXRWNaWllFSUMtQmNsNC1hVUN4aGNmMjVrUmlZMEdKX0plWHZjMVpEa1htX0tDTGtTajBCZzpQPGI-R2VuZXJhdGU8L2I-IGEgdGl0bGUsIDxiPmRlc2NyaXB0aW9uPC9iPiBhbmQgPGI-a2V5d29yZHM8L2I-IHdpdGggQUkgLSBWaWRlYXNCnAFUbyBnZW5lcmF0ZSB0aGUgdGl0bGUsIHRoZSBkZXNjcmlwdGlvbiwgYSBzdW1tYXJ5IG9yIFNFTyBrZXl3b3JkcyBmb3IgYSB2aWRlbywgPGI-b3BlbiBpdCBpbiBNZWRpYXNib3g8L2I-LCBzdGF5IG9uIHRoZSBPdmVydmlldyB0YWIsIGFuZCBpbiB0aGUgQUkmbmJzcDsuLi5KAnRvSgR3aXRoIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqwBL2dvdG8_dXJsPUNBRVNkUUhFSWtYWFJJU09wa095WjROakJDTnhRU3RObElQek1iVEpHazgzMEJtWnN0US1tbnFXY1N2QllWYnJBMUU3MEdMeGhONmJqZXJZOGxqbzB2QzJ0MHVJaXFEN0JyTTE4VGtOVUwwMkVXRWNaWllFSUMtQmNsNC1hVUN4aGNmMjVrUmlZMEdKX0plWHZjMVpEa1htX0tDTGtTajBCZxIEGgIIABrzBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDPBQgAEAAYACAAKgoKA2hvdxVxsNQ-KgkKAnRvFQAAAAAqLwoNYXV0b21hdGljYWxseRWQLZM-GgRhdXRvGghhdXRvbWF0ZRoJYXV0b21hdGljKjEKCGdlbmVyYXRlFelEjEAaBWJ1aWxkGghjcmVhdGluZxoJZ2VuZXJhdG9yGgRtYWtlKhQKBXZpZGVvFfXesEAaBnZpZGVvcyozCgxkZXNjcmlwdGlvbnMV-IeRPxoLZGVzY3JpcHRpb24aEWl2O3A7ZGVzY3JpcHRpb25zKgsKBHdpdGgVAAAAACohCgNzZW8VIJDMPxoLc2Vva2V5d29yZHMaCGl2O3A7c2VvKiUKCGtleXdvcmRzFdI5cEAaB2tleXdvcmQaC3Nlb2tleXdvcmRzMqwBL2dvdG8_dXJsPUNBRVNkUUhFSWtYWFJJU09wa095WjROakJDTnhRU3RObElQek1iVEpHazgzMEJtWnN0US1tbnFXY1N2QllWYnJBMUU3MEdMeGhONmJqZXJZOGxqbzB2QzJ0MHVJaXFEN0JyTTE4VGtOVUwwMkVXRWNaWllFSUMtQmNsNC1hVUN4aGNmMjVrUmlZMEdKX0plWHZjMVpEa1htX0tDTGtTajBCZzpQPGI-R2VuZXJhdGU8L2I-IGEgdGl0bGUsIDxiPmRlc2NyaXB0aW9uPC9iPiBhbmQgPGI-a2V5d29yZHM8L2I-IHdpdGggQUkgLSBWaWRlYXNCnAFUbyBnZW5lcmF0ZSB0aGUgdGl0bGUsIHRoZSBkZXNjcmlwdGlvbiwgYSBzdW1tYXJ5IG9yIFNFTyBrZXl3b3JkcyBmb3IgYSB2aWRlbywgPGI-b3BlbiBpdCBpbiBNZWRpYXNib3g8L2I-LCBzdGF5IG9uIHRoZSBPdmVydmlldyB0YWIsIGFuZCBpbiB0aGUgQUkmbmJzcDsuLi5KAnRvSgR3aXRoIgIQAUgAWABoAA",
+        "source": "Videas",
+        "read_more_link": "https://www.google.com/goto?url=CAESwAEBxCJF15O2mbbfMZW-f6d39NG7lFev6iRqFhhUVFlGBQm7p7L9DZ7mzIzHzO3ipPAhNz9Og5O9HvZNS5Bc3STt66p2Ft0RD2K6cMy_9BRtMRndhRxRfJSWwJelMHjSZVobqBHDxzJDQ0NIucxqj5qujjlcuiIjFh5lab99HCCrwu76CiKGZiS4U3Fw3X-Ztnue1YPPARJi4ZqjZo6eCagLKjKIKeEYjBKsT298RM0etBJGSSVgOqvlJKCPV1hJ3Go&gsessionid=q5yckuNjNE9Kttp4A2hFReAOI5F99dBwcdN7vezVIshtR6AY4Wqaug"
+      },
+      {
+        "position": 7,
+        "title": "Free YouTube Description Generator | Perfect SEO ...",
+        "link": "https://www.google.com/goto?url=CAESgQEBxCJF17D3bqKyYP2242usU-p8Lxmi8Ezc4bOMcQq7ZB8O02ZKRP7CD7czgvSAyBR9WE03XQDniRe9Y2a2lrNWTqrpZwu8offwJ-GluSGCkuICwWxCPyzNT_mJIWjHfWlp2LyTHoWGmVlANBKMxHcrB0DCz5Ru7BSHVxDqJYdBdx4",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEBxCJF13kOXASBOp8Qzk1sNwVRa6oRS6ouG9wMW3sDsc_BA4GSYKIZAzgQOx6JA28L9GUQZjdiyPlELPq2VEVhQXCi3pieBDFYTMHGsiRoP-d1Q9TBzVPF3CqYP-TYqPTS9Y310hvOyfsf7znXFzXp21Ge2Q2py9io55TB0KZdNhA&ved=2ahUKEwiAxo6Q3JuYAxUtKlkFHe9nKAYQFnoECEUQAQ&uoh=1",
+        "displayed_link": "https://www.revid.ai \u203a caption-generator \u203a youtube-des...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAbFBMVEVHcEwVIiMWIyUTHhwSGxoUIR8WKCMTHBsAHwgDJiEWLiQAEg0AAgAZNSticWyGj4yXn5zo6un___8BLxtzfHr3-PdrdnSnrqy6wL5aZWHW2dgcPi8zTETg4uHGy8kdNTsBHB8XLTMgOUIfNT54--kaAAAAJHRSTlMAEpzr____Q____________________________________kM8z2_gAAABh0lEQVR4AVXTBZLgIBQEUGIMGvnEDZK9_x23gdGO5-FVMMaKsqrrBuG_UpUFQz5qJFkjhJDqM5x_oN6XaWPbrmutlp_IC1Zm1LofKGXohbM2cslyf2ZMME3pPouovGLZFvxbN_Tp2hWvS1b2ZfshlD2Ow7rzygqE6RHVDMg65-DiJpodqiZEPWORdr-X00EvmkRCrnsiryzadLG_HnoSdRLIuRloDbAYyupuukRCT7SpjI5izsNiFAr4yJkIFVsJ60C5YVTgwNDRpL3c1y-j2x2CaJRACQxe3hn-on_QrPRu-cHe2dis5Mz7l6j1_vxBLMaICjxiwFTk6_ov65wVmIoGvu-D36d_ZVIY1uaMj4jQia7wvvLs77s_pFV6oMlw3kT06OEO_vUSUVaZHcMJvAEiEkO9zvBg7ZXU54ABmwYBIgFK9_xoo-abvqxOCJ0n-s60ZatYmdBjFa9MV2d0pLouWfFiJDFS820ct_BJSMHYvyhPDG9CCE0m5IOl7fA-STnn35S2w39hADH4sq7qbwAAAABJRU5ErkJggg.png",
+        "snippet": "1 Enter Your Video Topic. Describe what your YouTube video is about - this helps generate SEO-optimized descriptions. 2 Add Keywords (Optional).",
+        "snippet_highlighted_words": [
+          "Enter Your Video Topic"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "1 Enter Your Video Topic. Describe what your YouTube video is about - this helps generate SEO-optimized descriptions. 2 Add Keywords (Optional).",
+            "source_info_link": "https://www.google.com/goto?url=CAESgQEBxCJF17D3bqKyYP2242usU-p8Lxmi8Ezc4bOMcQq7ZB8O02ZKRP7CD7czgvSAyBR9WE03XQDniRe9Y2a2lrNWTqrpZwu8offwJ-GluSGCkuICwWxCPyzNT_mJIWjHfWlp2LyTHoWGmVlANBKMxHcrB0DCz5Ru7BSHVxDqJYdBdx4",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAbFBMVEVHcEwVIiMWIyUTHhwSGxoUIR8WKCMTHBsAHwgDJiEWLiQAEg0AAgAZNSticWyGj4yXn5zo6un___8BLxtzfHr3-PdrdnSnrqy6wL5aZWHW2dgcPi8zTETg4uHGy8kdNTsBHB8XLTMgOUIfNT54--kaAAAAJHRSTlMAEpzr____Q____________________________________kM8z2_gAAABh0lEQVR4AVXTBZLgIBQEUGIMGvnEDZK9_x23gdGO5-FVMMaKsqrrBuG_UpUFQz5qJFkjhJDqM5x_oN6XaWPbrmutlp_IC1Zm1LofKGXohbM2cslyf2ZMME3pPouovGLZFvxbN_Tp2hWvS1b2ZfshlD2Ow7rzygqE6RHVDMg65-DiJpodqiZEPWORdr-X00EvmkRCrnsiryzadLG_HnoSdRLIuRloDbAYyupuukRCT7SpjI5izsNiFAr4yJkIFVsJ60C5YVTgwNDRpL3c1y-j2x2CaJRACQxe3hn-on_QrPRu-cHe2dis5Mz7l6j1_vxBLMaICjxiwFTk6_ov65wVmIoGvu-D36d_ZVIY1uaMj4jQia7wvvLs77s_pFV6oMlw3kT06OEO_vUSUVaZHcMJvAEiEkO9zvBg7ZXU54ABmwYBIgFK9_xoo-abvqxOCJ0n-s60ZatYmdBjFa9MV2d0pLouWfFiJDFS820ct_BJSMHYvyhPDG9CCE0m5IOl7fA-STnn35S2w39hADH4sq7qbwAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCeENKRjE3RDNicUt5WVAyMjQydXNVLXA4THhtaThFemM0Yk9NY1FxN1pCOE8wMlpLUlA3Q0Q3Y3pndlNBeUJSOVdFMDNYUURuaVJlOVkyYTJsck5XVHFycFp3dThvZmZ3Si1HbHVTR0NrdUlDd1d4Q1B5ek5UX21KSVdqSGZXbHAyTHlUSG9XR21WbEFOQktNeEhjckIwREN6NVJ1N0JTSFZ4RHFKWWRCZHg0EgQaAggAGv4FEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA2AUIABAAGAAgACoKCgNob3cV5WTkPyoJCgJ0bxUAAAAAKi8KDWF1dG9tYXRpY2FsbHkVfqbEPhoEYXV0bxoIYXV0b21hdGUaCWF1dG9tYXRpYyoxCghnZW5lcmF0ZRVlnyhAGgVidWlsZBoIY3JlYXRpbmcaCWdlbmVyYXRvchoEbWFrZSoUCgV2aWRlbxU1zclAGgZ2aWRlb3MqMwoMZGVzY3JpcHRpb25zFSgv2EAaC2Rlc2NyaXB0aW9uGhFpdjtwO2Rlc2NyaXB0aW9ucyoLCgR3aXRoFQAAAAAqIQoDc2VvFf0oq0AaC3Nlb2tleXdvcmRzGghpdjtwO3NlbyolCghrZXl3b3JkcxVU6CNAGgdrZXl3b3JkGgtzZW9rZXl3b3JkczK9AS9nb3RvP3VybD1DQUVTZ1FFQnhDSkYxN0QzYnFLeVlQMjI0MnVzVS1wOEx4bWk4RXpjNGJPTWNRcTdaQjhPMDJaS1JQN0NEN2N6Z3ZTQXlCUjlXRTAzWFFEbmlSZTlZMmEybHJOV1RxcnBad3U4b2Zmd0otR2x1U0dDa3VJQ3dXeENQeXpOVF9tSklXakhmV2xwMkx5VEhvV0dtVmxBTkJLTXhIY3JCMERDejVSdTdCU0hWeERxSllkQmR4NDpNRnJlZSBZb3VUdWJlIDxiPkRlc2NyaXB0aW9uIEdlbmVyYXRvcjwvYj4gfCBQZXJmZWN0IDxiPlNFTzwvYj4gLi4uIC0gUmV2aWQgQUlClwExIDxiPkVudGVyIFlvdXIgVmlkZW8gVG9waWM8L2I-LiBEZXNjcmliZSB3aGF0IHlvdXIgWW91VHViZSB2aWRlbyBpcyBhYm91dCAtIHRoaXMgaGVscHMgZ2VuZXJhdGUgU0VPLW9wdGltaXplZCBkZXNjcmlwdGlvbnMuIDIgQWRkIEtleXdvcmRzIChPcHRpb25hbCkuSgJ0b0oEd2l0aCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCeENKRjE3RDNicUt5WVAyMjQydXNVLXA4THhtaThFemM0Yk9NY1FxN1pCOE8wMlpLUlA3Q0Q3Y3pndlNBeUJSOVdFMDNYUURuaVJlOVkyYTJsck5XVHFycFp3dThvZmZ3Si1HbHVTR0NrdUlDd1d4Q1B5ek5UX21KSVdqSGZXbHAyTHlUSG9XR21WbEFOQktNeEhjckIwREN6NVJ1N0JTSFZ4RHFKWWRCZHg0EgQaAggAGv4FEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA2AUIABAAGAAgACoKCgNob3cV5WTkPyoJCgJ0bxUAAAAAKi8KDWF1dG9tYXRpY2FsbHkVfqbEPhoEYXV0bxoIYXV0b21hdGUaCWF1dG9tYXRpYyoxCghnZW5lcmF0ZRVlnyhAGgVidWlsZBoIY3JlYXRpbmcaCWdlbmVyYXRvchoEbWFrZSoUCgV2aWRlbxU1zclAGgZ2aWRlb3MqMwoMZGVzY3JpcHRpb25zFSgv2EAaC2Rlc2NyaXB0aW9uGhFpdjtwO2Rlc2NyaXB0aW9ucyoLCgR3aXRoFQAAAAAqIQoDc2VvFf0oq0AaC3Nlb2tleXdvcmRzGghpdjtwO3NlbyolCghrZXl3b3JkcxVU6CNAGgdrZXl3b3JkGgtzZW9rZXl3b3JkczK9AS9nb3RvP3VybD1DQUVTZ1FFQnhDSkYxN0QzYnFLeVlQMjI0MnVzVS1wOEx4bWk4RXpjNGJPTWNRcTdaQjhPMDJaS1JQN0NEN2N6Z3ZTQXlCUjlXRTAzWFFEbmlSZTlZMmEybHJOV1RxcnBad3U4b2Zmd0otR2x1U0dDa3VJQ3dXeENQeXpOVF9tSklXakhmV2xwMkx5VEhvV0dtVmxBTkJLTXhIY3JCMERDejVSdTdCU0hWeERxSllkQmR4NDpNRnJlZSBZb3VUdWJlIDxiPkRlc2NyaXB0aW9uIEdlbmVyYXRvcjwvYj4gfCBQZXJmZWN0IDxiPlNFTzwvYj4gLi4uIC0gUmV2aWQgQUlClwExIDxiPkVudGVyIFlvdXIgVmlkZW8gVG9waWM8L2I-LiBEZXNjcmliZSB3aGF0IHlvdXIgWW91VHViZSB2aWRlbyBpcyBhYm91dCAtIHRoaXMgaGVscHMgZ2VuZXJhdGUgU0VPLW9wdGltaXplZCBkZXNjcmlwdGlvbnMuIDIgQWRkIEtleXdvcmRzIChPcHRpb25hbCkuSgJ0b0oEd2l0aCICEAFIAFgAaAA",
+        "source": "Revid AI",
+        "read_more_link": "https://www.google.com/goto?url=CAESpwEBxCJF1233NcDVbaLqSFGQPcSaNpMSBcV83NMpAg1FCgsZAB9rFGZg0Szxk7q1dXjFI0Y7aIfZt-XcAaNDMAu4zyu6PXnhYL1UD2vDK2mxahR8aC8pcDPQICvmCHIxD8nv5dX1PfNn708SIbZA2p51M_mv4tp3-H1IwOcQGIdPDR29faHlCSTkxiJlv9Wo9DY3G1OjYMsPGbI25gbi4Pm8DdgQGR2KsA&gsessionid=q5yckuNjNE9Kttp4A2hFReAOI5F99dBwcdN7vezVIshtR6AY4Wqaug"
+      },
+      {
+        "position": 8,
+        "title": "How to Automate SEO Keyword Research in Make.com",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXL3lcmvBXeiXiduD2G2Y_PwYkH1bmmYL_zWIGd47RGgg-I4MCnIRoM5T0JrFX6iABnJ90gjQYdfzErNycYca4RGojWRNns1EKjRWU31ithX5Jvt0gD5BlzDA4oyJao2N7_UiW&gsessionid=q5yckuNjNE9Kttp4A2hFReAOI5F99dBwcdN7vezVIshtR6AY4Wqaug",
+        "displayed_link": "5K+ views",
+        "date": "1 year ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f31a3eba3d8dc6357d12/images/xdGI0iH3NXOMhG8WtbumyTSa7v5kgc76gRB58--uEJM.png",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "The Only SEO Keyword Research Tutorial You'll Ever Need (For Beginners) \u00b7 How To Build A YouTube To Blog Post AI Tool In 30 Minutes \u00b7 How to Do ...",
+        "duration": "9:25",
+        "about_this_result": {
+          "source": {
+            "description": "The Only SEO Keyword Research Tutorial You'll Ever Need (For Beginners) \u00b7 How To Build A YouTube To Blog Post AI Tool In 30 Minutes \u00b7 How to Do ...",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWEwzbGNtdkJYZWlYaWR1RDJHMllfUHdZa0gxYm1tWUxfeldJR2Q0N1JHZ2ctSTRNQ25JUm9NNVQwSnJGWDZpQUJuSjkwZ2pRWWRmekVyTnljWWNhNFJHb2pXUk5uczFFS2pSV1UzMWl0aFg1SnZ0MGdENUJsekRBNG95SmFvMk43X1VpVxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWEwzbGNtdkJYZWlYaWR1RDJHMllfUHdZa0gxYm1tWUxfeldJR2Q0N1JHZ2ctSTRNQ25JUm9NNVQwSnJGWDZpQUJuSjkwZ2pRWWRmekVyTnljWWNhNFJHb2pXUk5uczFFS2pSV1UzMWl0aFg1SnZ0MGdENUJsekRBNG95SmFvMk43X1VpVxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTpsKfHw93Lf6LyMfdMxnoQw-wu3j4lOvF44w",
+        "source": "YouTube \u00b7 Yang"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "How to automatically generate video descriptions with seo keywords free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgPSeyyfuol8-H_qYTw7kKiAwoOWQ:1795355419329&q=How+to+automatically+generate+video+descriptions+with+seo+keywords+free&sa=X&ved=2ahUKEwiAxo6Q3JuYAxUtKlkFHe9nKAYQ1QJ6BAg8EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+generate+video+descriptions+with+seo+keywords+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Free description generator",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgPSeyyfuol8-H_qYTw7kKiAwoOWQ:1795355419329&q=Free+description+generator&sa=X&ved=2ahUKEwiAxo6Q3JuYAxUtKlkFHe9nKAYQ1QJ6BAhDEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Free+description+generator"
+      },
+      {
+        "block_position": 1,
+        "query": "Video description generator free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgPSeyyfuol8-H_qYTw7kKiAwoOWQ:1795355419329&q=Video+description+generator+free&sa=X&ved=2ahUKEwiAxo6Q3JuYAxUtKlkFHe9nKAYQ1QJ6BAhCEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Video+description+generator+free"
+      },
+      {
+        "block_position": 1,
+        "query": "YouTube description generator free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgPSeyyfuol8-H_qYTw7kKiAwoOWQ:1795355419329&q=YouTube+description+generator+free&sa=X&ved=2ahUKEwiAxo6Q3JuYAxUtKlkFHe9nKAYQ1QJ6BAhBEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=YouTube+description+generator+free"
+      },
+      {
+        "block_position": 1,
+        "query": "AI YouTube video description generator",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgPSeyyfuol8-H_qYTw7kKiAwoOWQ:1795355419329&q=AI+YouTube+video+description+generator&sa=X&ved=2ahUKEwiAxo6Q3JuYAxUtKlkFHe9nKAYQ1QJ6BAhAEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AI+YouTube+video+description+generator"
+      },
+      {
+        "block_position": 1,
+        "query": "YouTube description copy",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgPSeyyfuol8-H_qYTw7kKiAwoOWQ:1795355419329&q=YouTube+description+copy&sa=X&ved=2ahUKEwiAxo6Q3JuYAxUtKlkFHe9nKAYQ1QJ6BAg_EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=YouTube+description+copy"
+      },
+      {
+        "block_position": 1,
+        "query": "vidIQ Description Generator",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgPSeyyfuol8-H_qYTw7kKiAwoOWQ:1795355419329&q=vidIQ+Description+Generator&sa=X&ved=2ahUKEwiAxo6Q3JuYAxUtKlkFHe9nKAYQ1QJ6BAg9EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=vidIQ+Description+Generator"
+      },
+      {
+        "block_position": 1,
+        "query": "Video to description generator",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgPSeyyfuol8-H_qYTw7kKiAwoOWQ:1795355419329&q=Video+to+description+generator&sa=X&ved=2ahUKEwiAxo6Q3JuYAxUtKlkFHe9nKAYQ1QJ6BAg-EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Video+to+description+generator"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=How+to+automatically+generate+video+descriptions+with+SEO+keywords&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgPSeyyfuol8-H_qYTw7kKiAwoOWQ:1795355419329&ei=G_MCa8DME63U5NoP78-hMQ&start=10&sa=N&sstk=AYl2yk8opUYisIY36fXT49A5z5X8P3JN76ZARqPEcoeoWFFwxcfa7V13CTFNL4gJWwjOagJD8lo9y-SJlnRtcATD4Sbb36WU2kZQuQ&ved=2ahUKEwiAxo6Q3JuYAxUtKlkFHe9nKAYQ8NMDegQIOhAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=How+to+automatically+generate+video+descriptions+with+SEO+keywords&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgPSeyyfuol8-H_qYTw7kKiAwoOWQ:1795355419329&ei=G_MCa8DME63U5NoP78-hMQ&start=10&sa=N&sstk=AYl2yk8opUYisIY36fXT49A5z5X8P3JN76ZARqPEcoeoWFFwxcfa7V13CTFNL4gJWwjOagJD8lo9y-SJlnRtcATD4Sbb36WU2kZQuQ&ved=2ahUKEwiAxo6Q3JuYAxUtKlkFHe9nKAYQ8tMDegQIOhAE",
+        "3": "https://www.google.com/search?q=How+to+automatically+generate+video+descriptions+with+SEO+keywords&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgPSeyyfuol8-H_qYTw7kKiAwoOWQ:1795355419329&ei=G_MCa8DME63U5NoP78-hMQ&start=20&sa=N&sstk=AYl2yk8opUYisIY36fXT49A5z5X8P3JN76ZARqPEcoeoWFFwxcfa7V13CTFNL4gJWwjOagJD8lo9y-SJlnRtcATD4Sbb36WU2kZQuQ&ved=2ahUKEwiAxo6Q3JuYAxUtKlkFHe9nKAYQ8tMDegQIOhAG",
+        "4": "https://www.google.com/search?q=How+to+automatically+generate+video+descriptions+with+SEO+keywords&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgPSeyyfuol8-H_qYTw7kKiAwoOWQ:1795355419329&ei=G_MCa8DME63U5NoP78-hMQ&start=30&sa=N&sstk=AYl2yk8opUYisIY36fXT49A5z5X8P3JN76ZARqPEcoeoWFFwxcfa7V13CTFNL4gJWwjOagJD8lo9y-SJlnRtcATD4Sbb36WU2kZQuQ&ved=2ahUKEwiAxo6Q3JuYAxUtKlkFHe9nKAYQ8tMDegQIOhAI",
+        "5": "https://www.google.com/search?q=How+to+automatically+generate+video+descriptions+with+SEO+keywords&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgPSeyyfuol8-H_qYTw7kKiAwoOWQ:1795355419329&ei=G_MCa8DME63U5NoP78-hMQ&start=40&sa=N&sstk=AYl2yk8opUYisIY36fXT49A5z5X8P3JN76ZARqPEcoeoWFFwxcfa7V13CTFNL4gJWwjOagJD8lo9y-SJlnRtcATD4Sbb36WU2kZQuQ&ved=2ahUKEwiAxo6Q3JuYAxUtKlkFHe9nKAYQ8tMDegQIOhAK",
+        "6": "https://www.google.com/search?q=How+to+automatically+generate+video+descriptions+with+SEO+keywords&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgPSeyyfuol8-H_qYTw7kKiAwoOWQ:1795355419329&ei=G_MCa8DME63U5NoP78-hMQ&start=50&sa=N&sstk=AYl2yk8opUYisIY36fXT49A5z5X8P3JN76ZARqPEcoeoWFFwxcfa7V13CTFNL4gJWwjOagJD8lo9y-SJlnRtcATD4Sbb36WU2kZQuQ&ved=2ahUKEwiAxo6Q3JuYAxUtKlkFHe9nKAYQ8tMDegQIOhAM",
+        "7": "https://www.google.com/search?q=How+to+automatically+generate+video+descriptions+with+SEO+keywords&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgPSeyyfuol8-H_qYTw7kKiAwoOWQ:1795355419329&ei=G_MCa8DME63U5NoP78-hMQ&start=60&sa=N&sstk=AYl2yk8opUYisIY36fXT49A5z5X8P3JN76ZARqPEcoeoWFFwxcfa7V13CTFNL4gJWwjOagJD8lo9y-SJlnRtcATD4Sbb36WU2kZQuQ&ved=2ahUKEwiAxo6Q3JuYAxUtKlkFHe9nKAYQ8tMDegQIOhAO",
+        "8": "https://www.google.com/search?q=How+to+automatically+generate+video+descriptions+with+SEO+keywords&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgPSeyyfuol8-H_qYTw7kKiAwoOWQ:1795355419329&ei=G_MCa8DME63U5NoP78-hMQ&start=70&sa=N&sstk=AYl2yk8opUYisIY36fXT49A5z5X8P3JN76ZARqPEcoeoWFFwxcfa7V13CTFNL4gJWwjOagJD8lo9y-SJlnRtcATD4Sbb36WU2kZQuQ&ved=2ahUKEwiAxo6Q3JuYAxUtKlkFHe9nKAYQ8tMDegQIOhAQ",
+        "9": "https://www.google.com/search?q=How+to+automatically+generate+video+descriptions+with+SEO+keywords&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgPSeyyfuol8-H_qYTw7kKiAwoOWQ:1795355419329&ei=G_MCa8DME63U5NoP78-hMQ&start=80&sa=N&sstk=AYl2yk8opUYisIY36fXT49A5z5X8P3JN76ZARqPEcoeoWFFwxcfa7V13CTFNL4gJWwjOagJD8lo9y-SJlnRtcATD4Sbb36WU2kZQuQ&ved=2ahUKEwiAxo6Q3JuYAxUtKlkFHe9nKAYQ8tMDegQIOhAS",
+        "10": "https://www.google.com/search?q=How+to+automatically+generate+video+descriptions+with+SEO+keywords&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDgPSeyyfuol8-H_qYTw7kKiAwoOWQ:1795355419329&ei=G_MCa8DME63U5NoP78-hMQ&start=90&sa=N&sstk=AYl2yk8opUYisIY36fXT49A5z5X8P3JN76ZARqPEcoeoWFFwxcfa7V13CTFNL4gJWwjOagJD8lo9y-SJlnRtcATD4Sbb36WU2kZQuQ&ved=2ahUKEwiAxo6Q3JuYAxUtKlkFHe9nKAYQ8tMDegQIOhAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+generate+video+descriptions+with+SEO+keywords&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+generate+video+descriptions+with+SEO+keywords&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+generate+video+descriptions+with+SEO+keywords&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+generate+video+descriptions+with+SEO+keywords&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+generate+video+descriptions+with+SEO+keywords&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+generate+video+descriptions+with+SEO+keywords&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+generate+video+descriptions+with+SEO+keywords&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+generate+video+descriptions+with+SEO+keywords&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+generate+video+descriptions+with+SEO+keywords&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+generate+video+descriptions+with+SEO+keywords&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+automatically+generate+video+descriptions+with+SEO+keywords&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

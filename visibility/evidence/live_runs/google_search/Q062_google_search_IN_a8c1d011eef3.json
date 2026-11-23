@@ -1,0 +1,442 @@
+{
+  "measurement_id": "a8c1d011eef3",
+  "question_id": "Q062",
+  "timestamp_utc": "2026-11-22T13:49:02.765810+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "How to auto-detect silence and trim dead air in video podcasts",
+  "market": "IN",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [
+    "Descript"
+  ],
+  "position": null,
+  "citations": [
+    "https://www.submind.co/audio-remove-silence",
+    "https://www.google.com/goto?url=CAESdgHEIkXXBye2dzK1_v5gLx4K4loVqcc-dZdSbc2aoz2kfARqo9o0KO6F98othEi9OGqcZZk-iToF5xT16ueybpt5WLdZlM3uOSy19KIkREY6npvCM9Eap_hy5VYEgM20sIu_-GJb9RQjKzicXr9UFIYGp17hDs8",
+    "https://www.google.com/goto?url=CAESYwHEIkXX6S8ob72_i86N4TE63XzJj4BiQEa5S9fMIFzTH4D2O_eCeFE3nRv7B6DTJIYsxHpnqp0DW_BUuvBgoGE0heWJU83414U_OsI02wfGYY2a4z4AfmEXxLmyGskUZ42nfA",
+    "https://www.google.com/goto?url=CAESaAHEIkXXMOJFgZNLFPB1Lkn5OdRZp2t93kuhumBGUR4X20p3K09J_8H97JlSj7ArUxl6uiCjaZw6UjAk2J6VA1da-ZWj1JYXVIrzB7U_MJBettqs9cRpMItv9UCV7_CpmyE22E8wAf0I&gsessionid=lKrYeVT7BzGng7IG__FRtAyKU035J_NLKFE46-LgnM3l0qxCwaf0nw",
+    "https://www.google.com/goto?url=CAESXAHEIkXXVkMxApXOFXyI8K4hMOyh_zxqoanh9dVbQx135lYI9OjkVJNQUdk8mJvwJ5n_ftELnuJwUu189G7oBth0Qo0n1uJpixfvNhAv5HkgVqyDEj6D21A03dod",
+    "https://www.google.com/goto?url=CAESYQHEIkXXGyXsJmp0l9oFppMeYsldFvziFDNxFkYFOzXHy9Ijrm83MnbVBacjgpmwuWjuv-jw4K5no7LjWkh-p6DQ0UAf4x_lKRawQTgUw2_kloovLASbcRoujYTtRoiWmd0",
+    "https://www.google.com/goto?url=CAESawHEIkXXLZJII34hrmz9C7NR79gh0zy24f4viRELVuh5sWO2sKHd9x3uTGdYxnOQXyazcNtLNMlfFhCKarJ3DuJtrT747BBw4a2yyeUQHZQNiPd6CkrqYpUaszNggKViPAuCp9RNoHRHD1zy",
+    "https://www.google.com/goto?url=CAESoQEBxCJF144ocvJLCMmBKv9n-SwQKb68rIC6zMyJ-WsHqouFr3q53ZyBHxtd53VfK8RowEh1YlH7QHKuuv1exI7RzJvaSmvrjkKxbkKX-l9LSLU4UIQIKbx36DiXQ2Ppy14re80Map99Hoz7V5bkNGdIaQhSpI3jMqE5FgEENkW72ZihQwR8zYpkxmn2dgYcaraTtZT2h2VNEMtS__cdNgNwmQ"
+  ],
+  "raw_text_summary": "Free Audio Silence Remover Online: Auto-Trim Remove silence and dead air from podcasts, interviews, lectures, and voice memos automatically. Free browser-based trimmer. How to remove silences from audio and video with AI Automatically find and delete unwanted silences and pauses from videos with one-click using the AI-powered auto cut tool in Clipchamp video ... AI Silence Remover for Audio & Video Remove silence from audio and video automatically. Cleanvoice's AI silence remover shortens long pauses and dead air, and keeps the natural ones. Automatically Remove Silences in Premiere Pro | NO PLUGINS! This is how to automatically remove silences in Premiere Pro 2023 without plugins so that you can edit your videos faster. Audio & Video Silence Remover: Cut Dead Air Free Silence remover for audio and video: shorten long pauses and dead air in podcasts, lectures, and videos automatically. Free online, no sign-up. Silence Remover: Cut Silence From Video & Audio Free VidClean removes silence and dead air from videos and audio files for free, automatically detecting and cutting the quiet gaps so your recording flows. No ... Remove Silence from Audio Use Descript's Silence Remover to erase pauses and smooth pacing. Remove silence from audio online for free and refine clarity with AI in minutes. Remove Silence in Premiere Pro With AI Learn how to use AI to automatically detect and remove silence from your audio and video in Premiere Pro. Premiere Assistant helps speed up editing by ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f2cbba7b0525b8bec622",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/UrTNbUdBThaIcDEP5W-l-PiK1AHWimsyiarbm2EzcsY/6b02f2cbba7b0525b8bec622.json",
+      "markdown_endpoint": "https://serpapi.com/searches/UrTNbUdBThaIcDEP5W-l-PiK1AHWimsyiarbm2EzcsY/6b02f2cbba7b0525b8bec622.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/UrTNbUdBThaIcDEP5W-l-PiK1AHWimsyiarbm2EzcsY/6b02f2cbba7b0525b8bec622.json_with_pixel_position",
+      "created_at": "2026-11-22 13:48:59 UTC",
+      "processed_at": "2026-11-22 13:48:59 UTC",
+      "google_url": "https://www.google.com/search?q=How+to+auto-detect+silence+and+trim+dead+air+in+video+podcasts&oq=How+to+auto-detect+silence+and+trim+dead+air+in+video+podcasts&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/UrTNbUdBThaIcDEP5W-l-PiK1AHWimsyiarbm2EzcsY/6b02f2cbba7b0525b8bec622.html",
+      "total_time_taken": 1.83
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "How to auto-detect silence and trim dead air in video podcasts",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "in",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "How to auto-detect silence and trim dead air in video podcasts",
+      "total_results": 88,
+      "time_taken_displayed": 0.24,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "Automatically Remove Silences with One Click! - DaVinci ...",
+        "link": "https://www.google.com/goto?url=CAESZwHEIkXXMWgSjkXJB1SLzgiuiyJ57XV7-Pt-KDn4iuedR0SEMkfV2D0SM8ouL7MyS43_2LqH7GPxPAh4hdJ3HNcBJrAU5iqMBGH_kEgdpgKY6TYOvtHaAA8kVuNAW3iG9OGrBZytRqA&gsessionid=lKrYeVT7BzGng7IG__FRtAyKU035J_NLKFE46-LgnM3l0qxCwaf0nw",
+        "thumbnail": "https://serpapi.com/searches/6b02f2cbba7b0525b8bec622/images/gr9TDlT0VLWrQdXZdIkkDyO3cQmm4ku1zmdhJjNeWqI.webp",
+        "channel": "Daniel Batal",
+        "duration": "1:33",
+        "platform": "YouTube",
+        "date": "2 Oct 2025",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSjK2G2mG0fSy662KrKyD8KRExZSZMUUtXYdQ"
+      },
+      {
+        "position": 2,
+        "title": "How to Automatically Remove Silence in Premiere Pro (better ...",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXCyjbmLFHIdxmGW9LIqsaqRjiThanqP-xDoSCECPmSmJNwg36FGq44tiqWTPNq9kd3amvz-wrkyiAMMN2Cgnyk3vD8vUwnLPq809enVWl3Ba_As1fGp_bFRTEaCWHVAzprLYF&gsessionid=lKrYeVT7BzGng7IG__FRtAyKU035J_NLKFE46-LgnM3l0qxCwaf0nw",
+        "thumbnail": "https://serpapi.com/searches/6b02f2cbba7b0525b8bec622/images/DhpOVt555pO_qputiMDRJjw0PND1KPCimN7dSwyTwLE.webp",
+        "channel": "ELEVEN PERCENT",
+        "duration": "3:50",
+        "platform": "YouTube",
+        "date": "19 Aug 2026",
+        "snippet": "Remove silence in Premiere Pro using the free AutoEedit Content Creator Mode AI plugin. Adjust silence cutting and instantly cut.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQVmYzBvaegYg2rA0A-YKZjQGfDCMJ14lcoow"
+      },
+      {
+        "position": 3,
+        "title": "CapCut Remove Silence Tool Is INSANE (And It's FREE)",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXX_O_Ar06TbgJjPBnY-TKIW1cN7gkQgHYzR13bPdYKiBEJkqkSlau4QOs25huXacDaUOidiuPRHWR9d9l-q2nhA8fsEjB23jn62r_KRWmFJ3rHZ8Rk9ZnyNI1AsZSgzqpy6MT2&gsessionid=lKrYeVT7BzGng7IG__FRtAyKU035J_NLKFE46-LgnM3l0qxCwaf0nw",
+        "thumbnail": "https://serpapi.com/searches/6b02f2cbba7b0525b8bec622/images/Y08RpM6vxoTTw7p6jTvafny6SHNJJCICfDq8Lcc4u7s.webp",
+        "channel": "Scotty Creates",
+        "duration": "5:48",
+        "platform": "YouTube",
+        "date": "18 Mar 2026",
+        "snippet": "CapCut's free desktop tool automatically removes filler words, pauses, and repetitions from videos using transcription, saving editing time.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQmLV-sZ0O01dZCj-xLGsVp-3iuhXoA2GcJ7A"
+      },
+      {
+        "position": 4,
+        "title": "Automatically Remove SILENCE in Your Videos (DaVinci ...",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXjHL_xLUych4r13fTZu_UdAIb8cYX0i3YdzwS5ePaQdLMgY73hRooNQRGI_ef-TolLIVOHR_zIgTszWPsvetwbY-XAzEDqJrYcYHv_zXcBMpS4IA6xkIfu5eRPfQGfdy6a9VK&gsessionid=lKrYeVT7BzGng7IG__FRtAyKU035J_NLKFE46-LgnM3l0qxCwaf0nw",
+        "thumbnail": "https://serpapi.com/searches/6b02f2cbba7b0525b8bec622/images/YdZx7vW0oibTipVDSX_0DebzQXOC8ENAddU0ydQNC6I.webp",
+        "channel": "Wampus",
+        "duration": "4:51",
+        "platform": "YouTube",
+        "date": "24 Apr 2024"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "How can I automatically remove silence from a video?",
+        "type": "ai_overview",
+        "page_token": "hAFUE3icHdBdbpswAABgbYfpY2NoyZZIUSVqk9QZMBz_NH6pjJ1AsPlZShPC446wM-ypV6nUA-wYO8Gm3uDT9_O3OzT2z6dfZd93z_PJ5Hw-XxdtW7jdtW7riXq-NHqilXO50nY-_TL17vZ6gU46vD_qMGMEbZ1xogrrJJpVDHRrPSaKAAIpkyeJ8INhEvLI-ZuoTDeo74xwK1q5S_IYnlWV3SqKMUX40azIOkbtIOoZoDawCeBTJmTDYHkhIx4pM5yiYcWXwUkKb00ROYgaDcZKkaLghwJ4nYpgSWFZKceTBBYD4bMNQcbGkICYPgDmRQMbcRg38mVH5T5dRv5W4EEJ3EghxxhiX1vgUZgIXgc9qaOSATsqVASKJREHfYVKM5XWwS3_6seAg6RpPVrPsnwpfQ1lmA_tIWNlGiN2Q0QJ8_9uVgdSiAx8Y0Tkgoy57e6JF46yId-z7GqvT4ubq4_rxdO-7ufdsS1e9XGn-p15Uv27_fz37R_VLJM6",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=hAFUE3icHdBdbpswAABgbYfpY2NoyZZIUSVqk9QZMBz_NH6pjJ1AsPlZShPC446wM-ypV6nUA-wYO8Gm3uDT9_O3OzT2z6dfZd93z_PJ5Hw-XxdtW7jdtW7riXq-NHqilXO50nY-_TL17vZ6gU46vD_qMGMEbZ1xogrrJJpVDHRrPSaKAAIpkyeJ8INhEvLI-ZuoTDeo74xwK1q5S_IYnlWV3SqKMUX40azIOkbtIOoZoDawCeBTJmTDYHkhIx4pM5yiYcWXwUkKb00ROYgaDcZKkaLghwJ4nYpgSWFZKceTBBYD4bMNQcbGkICYPgDmRQMbcRg38mVH5T5dRv5W4EEJ3EghxxhiX1vgUZgIXgc9qaOSATsqVASKJREHfYVKM5XWwS3_6seAg6RpPVrPsnwpfQ1lmA_tIWNlGiN2Q0QJ8_9uVgdSiAx8Y0Tkgoy57e6JF46yId-z7GqvT4ubq4_rxdO-7ufdsS1e9XGn-p15Uv27_fz37R_VLJM6",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGVXMVFRVWRGUkZWVk1XNUpObGcxZFdscFIyUjROME52YkUxcmJUWjJkRXBEVkZKUFpFRk5kVUpVWm5kNlgwNXpkMDlmTTBjMFlWSkRRMFJEWkdzeFMyTnBVVFF5VVZCb1dqbEpTbHBxV1VGcVZUaFRhRTFsZVUxMWR4SVhlbVpKUTJGZk5qTkZkRFo2TlU1dlVHeG1kbkEyUVc4YUlrRklUakJGTjBoNFUxcDNRWEpYY1ZCc2JWbDNTRE5tV0RFeGJYSlBXWEZ2WVhjIiwiZmN2IjoiMyIsImVpIjoiemZJQ2FfNjNFdDZ6NU5vUGxmdnA2QW8iLCJxYyI6ImMtT3l5OGd2VnlqSlYwZ3NCUklwcVNXcHlTVUt4Wms1cVhuSnFRcUplU2tLSlVXWnVVRHh4QlNGeE13aWhjdzhoYkxNbE5SOGhZTDhsT1RFNHBKaUFZYmE1UkpzOWdBIiwicXVlc3Rpb24iOiJIb3cgY2FuIEkgYXV0b21hdGljYWxseSByZW1vdmUgc2lsZW5jZSBmcm9tIGEgdmlkZW8/IiwibGsiOiJHaWRoZFhSdmJXRjBhV05oYkd4NUlISmxiVzkyWlNCemFXeGxibU5sSUdaeWIyMGdkbWxrWlc4IiwiYnMiOiJjNFhQc1FyQ01CQUdZRnh2Y2xPRHlqbUphNmx6a0M3Mk1ZNDAwa0Nha3lhcC1QYW13YUtDNkpyNzdyOF9RRkNlLVlhS0hOWklNWEJId1NpeTlvNjk3bmpRNkkzVlRtbTg5TndoNFdBYXpiSTRpUDFfblMwY1lUbWVDSnp6VWNVd0tWbXN4S0w5UGdNSm0tZmEyNnRINHhKdFRLcXdGZXYyQjRBS2RsWDYxcW1ldWwwcC1nUmUxWHdPSVRObWZKb1Vrc1Y4OWdBIiwiaWQiOiJmY196ZklDYV82M0V0Nno1Tm9QbGZ2cDZBb181In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGVXMVFRVWRGUkZWVk1XNUpObGcxZFdscFIyUjROME52YkUxcmJUWjJkRXBEVkZKUFpFRk5kVUpVWm5kNlgwNXpkMDlmTTBjMFlWSkRRMFJEWkdzeFMyTnBVVFF5VVZCb1dqbEpTbHBxV1VGcVZUaFRhRTFsZVUxMWR4SVhlbVpKUTJGZk5qTkZkRFo2TlU1dlVHeG1kbkEyUVc4YUlrRklUakJGTjBoNFUxcDNRWEpYY1ZCc2JWbDNTRE5tV0RFeGJYSlBXWEZ2WVhjIiwiZmN2IjoiMyIsImVpIjoiemZJQ2FfNjNFdDZ6NU5vUGxmdnA2QW8iLCJxYyI6ImMtT3l5OGd2VnlqSlYwZ3NCUklwcVNXcHlTVUt4Wms1cVhuSnFRcUplU2tLSlVXWnVVRHh4QlNGeE13aWhjdzhoYkxNbE5SOGhZTDhsT1RFNHBKaUFZYmE1UkpzOWdBIiwicXVlc3Rpb24iOiJIb3cgY2FuIEkgYXV0b21hdGljYWxseSByZW1vdmUgc2lsZW5jZSBmcm9tIGEgdmlkZW8%2FIiwibGsiOiJHaWRoZFhSdmJXRjBhV05oYkd4NUlISmxiVzkyWlNCemFXeGxibU5sSUdaeWIyMGdkbWxrWlc4IiwiYnMiOiJjNFhQc1FyQ01CQUdZRnh2Y2xPRHlqbUphNmx6a0M3Mk1ZNDAwa0Nha3lhcC1QYW13YUtDNkpyNzdyOF9RRkNlLVlhS0hOWklNWEJId1NpeTlvNjk3bmpRNkkzVlRtbTg5TndoNFdBYXpiSTRpUDFfblMwY1lUbWVDSnp6VWNVd0tWbXN4S0w5UGdNSm0tZmEyNnRINHhKdFRLcXdGZXYyQjRBS2RsWDYxcW1ldWwwcC1nUmUxWHdPSVRObWZKb1Vrc1Y4OWdBIiwiaWQiOiJmY196ZklDYV82M0V0Nno1Tm9QbGZ2cDZBb181In0%3D"
+      },
+      {
+        "question": "How to auto cut silence?",
+        "type": "ai_overview",
+        "page_token": "bBIndnicHdBdboIwAADgbIfxUaCIiyZmEQcoGzVtaUFeTPlRtJUSIavjcWfZ066yZAfYMXaCJfuO8L1_yFMjfu7Suu_bbm4YWuvxUamjrMaFuhi8e2sKo-BS5rwQ8-nD1Ho8FAuv0-5KaRdR7O1kKZOkdSLAVnAIT4iJgUl02zIW5owp1EjFARPxOQLUwqAcMh97N0HMjZOsQzsKWqsSDqHruuYxU5lcTuKgTBIPpltfmQT4lHs4Q3LmVoGD44FNqgvUiIYgA06XA7kpg1uTCRmRYNbhmJrUZjC1GcopfqpiZqJk5vHgaCIqG2Ja9a5ZEt9uL4TCOh12A04RqM5sm1tulzWZhsJ_DU6hS7yJxnG5QaYD-bDsie3T_AxfqBVZMHCec2ujuVnbCQvd0aF4Xdij_7HF_nDp5-1VHT-La8X7qtzz_lvc_379AWN_flk",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=bBIndnicHdBdboIwAADgbIfxUaCIiyZmEQcoGzVtaUFeTPlRtJUSIavjcWfZ066yZAfYMXaCJfuO8L1_yFMjfu7Suu_bbm4YWuvxUamjrMaFuhi8e2sKo-BS5rwQ8-nD1Ho8FAuv0-5KaRdR7O1kKZOkdSLAVnAIT4iJgUl02zIW5owp1EjFARPxOQLUwqAcMh97N0HMjZOsQzsKWqsSDqHruuYxU5lcTuKgTBIPpltfmQT4lHs4Q3LmVoGD44FNqgvUiIYgA06XA7kpg1uTCRmRYNbhmJrUZjC1GcopfqpiZqJk5vHgaCIqG2Ja9a5ZEt9uL4TCOh12A04RqM5sm1tulzWZhsJ_DU6hS7yJxnG5QaYD-bDsie3T_AxfqBVZMHCec2ujuVnbCQvd0aF4Xdij_7HF_nDp5-1VHT-La8X7qtzz_lvc_379AWN_flk",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGVXMVFRVWRGUkZWVk1XNUpObGcxZFdscFIyUjROME52YkUxcmJUWjJkRXBEVkZKUFpFRk5kVUpVWm5kNlgwNXpkMDlmTTBjMFlWSkRRMFJEWkdzeFMyTnBVVFF5VVZCb1dqbEpTbHBxV1VGcVZUaFRhRTFsZVUxMWR4SVhlbVpKUTJGZk5qTkZkRFo2TlU1dlVHeG1kbkEyUVc4YUlrRklUakJGTjBoNFUxcDNRWEpYY1ZCc2JWbDNTRE5tV0RFeGJYSlBXWEZ2WVhjIiwiZmN2IjoiMyIsImVpIjoiemZJQ2FfNjNFdDZ6NU5vUGxmdnA2QW8iLCJxYyI6ImMtT3l5OGd2VnlqSlYwZ3NCUklwcVNXcHlTVUt4Wms1cVhuSnFRcUplU2tLSlVXWnVVRHh4QlNGeE13aWhjdzhoYkxNbE5SOGhZTDhsT1RFNHBKaUFZYmE1UkpzOWdBIiwicXVlc3Rpb24iOiJIb3cgdG8gYXV0byBjdXQgc2lsZW5jZT8iLCJsayI6IkdoZG9iM2NnZEc4Z1lYVjBieUJqZFhRZ2MybHNaVzVqWlEiLCJicyI6ImM0WFBzUXJDTUJBR1lGeHZjbE9EeWptSmE2bHprQzcyTVk0MDBrQ2FreWFwLVBhbXdhS0M2SnI3N3I4X1FGQ2UtWWFLSE5aSU1YQkh3U2l5OW82OTdualE2STNWVG1tODlOd2g0V0FhemJJNGlQMV9uUzBjWVRtZUNKenpVY1V3S1Ztc3hLTDlQZ01KbS1mYTI2dEg0eEp0VEtxd0ZldjJCNEFLZGxYNjFxbWV1bDBwLWdSZTFYd09JVE5tZkpvVWtzVjg5Z0EiLCJpZCI6ImZjX3pmSUNhXzYzRXQ2ejVOb1BsZnZwNkFvXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGVXMVFRVWRGUkZWVk1XNUpObGcxZFdscFIyUjROME52YkUxcmJUWjJkRXBEVkZKUFpFRk5kVUpVWm5kNlgwNXpkMDlmTTBjMFlWSkRRMFJEWkdzeFMyTnBVVFF5VVZCb1dqbEpTbHBxV1VGcVZUaFRhRTFsZVUxMWR4SVhlbVpKUTJGZk5qTkZkRFo2TlU1dlVHeG1kbkEyUVc4YUlrRklUakJGTjBoNFUxcDNRWEpYY1ZCc2JWbDNTRE5tV0RFeGJYSlBXWEZ2WVhjIiwiZmN2IjoiMyIsImVpIjoiemZJQ2FfNjNFdDZ6NU5vUGxmdnA2QW8iLCJxYyI6ImMtT3l5OGd2VnlqSlYwZ3NCUklwcVNXcHlTVUt4Wms1cVhuSnFRcUplU2tLSlVXWnVVRHh4QlNGeE13aWhjdzhoYkxNbE5SOGhZTDhsT1RFNHBKaUFZYmE1UkpzOWdBIiwicXVlc3Rpb24iOiJIb3cgdG8gYXV0byBjdXQgc2lsZW5jZT8iLCJsayI6IkdoZG9iM2NnZEc4Z1lYVjBieUJqZFhRZ2MybHNaVzVqWlEiLCJicyI6ImM0WFBzUXJDTUJBR1lGeHZjbE9EeWptSmE2bHprQzcyTVk0MDBrQ2FreWFwLVBhbXdhS0M2SnI3N3I4X1FGQ2UtWWFLSE5aSU1YQkh3U2l5OW82OTdualE2STNWVG1tODlOd2g0V0FhemJJNGlQMV9uUzBjWVRtZUNKenpVY1V3S1Ztc3hLTDlQZ01KbS1mYTI2dEg0eEp0VEtxd0ZldjJCNEFLZGxYNjFxbWV1bDBwLWdSZTFYd09JVE5tZkpvVWtzVjg5Z0EiLCJpZCI6ImZjX3pmSUNhXzYzRXQ2ejVOb1BsZnZwNkFvXzUifQ%3D%3D"
+      },
+      {
+        "question": "How to cut silences in audio?",
+        "type": "ai_overview",
+        "page_token": "IyTGRXicHdBdToMwAADg6GH26GA4jEsWM5SCZFRbaCl9MVDYOig_Mly3PXoWn7yKiQfwGJ7AxO8I3_uH2rX1zwWT49jvF9Op1vpq23VbVV6Jrplm-1MrpiJTKs9EvbBvbPNuI5buXjv3nXYQwW6qCpWqR50w_IwYaGkdvHIDZOvE3EQM2NhUUbwzX-lDMJBWSVhBD836RIBAET8YmOXEoZceQ4tzYQQ2rI-H3AvW0OVDWXEzTYI3AQo_rzCMqcNCsLpmM20JBhpE0ZwyajNDjFDJFgN54Ep2MZNzZN5y6I4V8XBU0P7IKSQxkWtoQB_FqwhYfRMRKNk5PWOGZmVFn3LT2fOWa1iDg7cLnMi91jguPNyoPjR6JycyRDPKwqQ_lXF6xA_cJ76CCVPWZCMOS2vyP7Z82TTjoh-67acYymwsi5ds_K4vf7_-AEvNgNE",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=IyTGRXicHdBdToMwAADg6GH26GA4jEsWM5SCZFRbaCl9MVDYOig_Mly3PXoWn7yKiQfwGJ7AxO8I3_uH2rX1zwWT49jvF9Op1vpq23VbVV6Jrplm-1MrpiJTKs9EvbBvbPNuI5buXjv3nXYQwW6qCpWqR50w_IwYaGkdvHIDZOvE3EQM2NhUUbwzX-lDMJBWSVhBD836RIBAET8YmOXEoZceQ4tzYQQ2rI-H3AvW0OVDWXEzTYI3AQo_rzCMqcNCsLpmM20JBhpE0ZwyajNDjFDJFgN54Ep2MZNzZN5y6I4V8XBU0P7IKSQxkWtoQB_FqwhYfRMRKNk5PWOGZmVFn3LT2fOWa1iDg7cLnMi91jguPNyoPjR6JycyRDPKwqQ_lXF6xA_cJ76CCVPWZCMOS2vyP7Z82TTjoh-67acYymwsi5ds_K4vf7_-AEvNgNE",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGVXMVFRVWRGUkZWVk1XNUpObGcxZFdscFIyUjROME52YkUxcmJUWjJkRXBEVkZKUFpFRk5kVUpVWm5kNlgwNXpkMDlmTTBjMFlWSkRRMFJEWkdzeFMyTnBVVFF5VVZCb1dqbEpTbHBxV1VGcVZUaFRhRTFsZVUxMWR4SVhlbVpKUTJGZk5qTkZkRFo2TlU1dlVHeG1kbkEyUVc4YUlrRklUakJGTjBoNFUxcDNRWEpYY1ZCc2JWbDNTRE5tV0RFeGJYSlBXWEZ2WVhjIiwiZmN2IjoiMyIsImVpIjoiemZJQ2FfNjNFdDZ6NU5vUGxmdnA2QW8iLCJxYyI6ImMtT3l5OGd2VnlqSlYwZ3NCUklwcVNXcHlTVUt4Wms1cVhuSnFRcUplU2tLSlVXWnVVRHh4QlNGeE13aWhjdzhoYkxNbE5SOGhZTDhsT1RFNHBKaUFZYmE1UkpzOWdBIiwicXVlc3Rpb24iOiJIb3cgdG8gY3V0IHNpbGVuY2VzIGluIGF1ZGlvPyIsImxrIjoiR2h4b2IzY2dkRzhnWTNWMElITnBiR1Z1WTJWeklHbHVJR0YxWkdsdiIsImJzIjoiYzRYUHNRckNNQkFHWUZ4dmNsT0R5am1KYTZsemtDNzJNWTQwMGtDYWt5YXAtUGFtd2FLQzZKcjc3cjhfUUZDZS1ZYUtITlpJTVhCSHdTaXk5bzY5N25qUTZJM1ZUbW04OU53aDRXQWF6Ykk0aVAxX25TMGNZVG1lQ0p6elVjVXdLVm1zeEtMOVBnTUptLWZhMjZ0SDR4SnRUS3F3RmV2MkI0QUtkbFg2MXFtZXVsMHAtZ1JlMVh3T0lUTm1mSm9Va3NWODlnQSIsImlkIjoiZmNfemZJQ2FfNjNFdDZ6NU5vUGxmdnA2QW9fNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGVXMVFRVWRGUkZWVk1XNUpObGcxZFdscFIyUjROME52YkUxcmJUWjJkRXBEVkZKUFpFRk5kVUpVWm5kNlgwNXpkMDlmTTBjMFlWSkRRMFJEWkdzeFMyTnBVVFF5VVZCb1dqbEpTbHBxV1VGcVZUaFRhRTFsZVUxMWR4SVhlbVpKUTJGZk5qTkZkRFo2TlU1dlVHeG1kbkEyUVc4YUlrRklUakJGTjBoNFUxcDNRWEpYY1ZCc2JWbDNTRE5tV0RFeGJYSlBXWEZ2WVhjIiwiZmN2IjoiMyIsImVpIjoiemZJQ2FfNjNFdDZ6NU5vUGxmdnA2QW8iLCJxYyI6ImMtT3l5OGd2VnlqSlYwZ3NCUklwcVNXcHlTVUt4Wms1cVhuSnFRcUplU2tLSlVXWnVVRHh4QlNGeE13aWhjdzhoYkxNbE5SOGhZTDhsT1RFNHBKaUFZYmE1UkpzOWdBIiwicXVlc3Rpb24iOiJIb3cgdG8gY3V0IHNpbGVuY2VzIGluIGF1ZGlvPyIsImxrIjoiR2h4b2IzY2dkRzhnWTNWMElITnBiR1Z1WTJWeklHbHVJR0YxWkdsdiIsImJzIjoiYzRYUHNRckNNQkFHWUZ4dmNsT0R5am1KYTZsemtDNzJNWTQwMGtDYWt5YXAtUGFtd2FLQzZKcjc3cjhfUUZDZS1ZYUtITlpJTVhCSHdTaXk5bzY5N25qUTZJM1ZUbW04OU53aDRXQWF6Ykk0aVAxX25TMGNZVG1lQ0p6elVjVXdLVm1zeEtMOVBnTUptLWZhMjZ0SDR4SnRUS3F3RmV2MkI0QUtkbFg2MXFtZXVsMHAtZ1JlMVh3T0lUTm1mSm9Va3NWODlnQSIsImlkIjoiZmNfemZJQ2FfNjNFdDZ6NU5vUGxmdnA2QW9fNSJ9"
+      },
+      {
+        "question": "Can AI remove pauses from videos?",
+        "type": "ai_overview",
+        "page_token": "xh-uLHicHdBRToMwAIDh6GH2uFE2Z7ZkMcHQTTK60dICfTFQxnC0FAdZGY-exSevYuIBPIYn0HiA_3v4397lS11938Rl1zXtcjIxxoyPWh_lYSy0mqTttRYTkUqZpaJazu_n4KEQK7c1zqM2TkCxm8hcRgpHeQ25H8l5BFHBKzbLGDeJ1e84hXs_6kvOnMctpVMSezQBvoXcJzsdygTRxZDaPSehayOrUYKADV0D7atFjZSxBcCQstISMexS5UE2eNvQ9S4sQg0CEpNNYvI1l8jmiFHWMvuuCGPshJBpAaCXubDehlCjutlz9WdZ3SthAYHTRhGKynhIBhwH9uHEdhlwWl5zgyp4Wb94DnFnBof52q_KHf7rMyADP2RXdII7ssm3eR3MMkv3_MTxqBCX1XT0f2z1XKhu2Zz18UOcD2l3yJ_T7qu6_fn8BQEPgKo",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xh-uLHicHdBRToMwAIDh6GH2uFE2Z7ZkMcHQTTK60dICfTFQxnC0FAdZGY-exSevYuIBPIYn0HiA_3v4397lS11938Rl1zXtcjIxxoyPWh_lYSy0mqTttRYTkUqZpaJazu_n4KEQK7c1zqM2TkCxm8hcRgpHeQ25H8l5BFHBKzbLGDeJ1e84hXs_6kvOnMctpVMSezQBvoXcJzsdygTRxZDaPSehayOrUYKADV0D7atFjZSxBcCQstISMexS5UE2eNvQ9S4sQg0CEpNNYvI1l8jmiFHWMvuuCGPshJBpAaCXubDehlCjutlz9WdZ3SthAYHTRhGKynhIBhwH9uHEdhlwWl5zgyp4Wb94DnFnBof52q_KHf7rMyADP2RXdII7ssm3eR3MMkv3_MTxqBCX1XT0f2z1XKhu2Zz18UOcD2l3yJ_T7qu6_fn8BQEPgKo",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGVXMVFRVWRGUkZWVk1XNUpObGcxZFdscFIyUjROME52YkUxcmJUWjJkRXBEVkZKUFpFRk5kVUpVWm5kNlgwNXpkMDlmTTBjMFlWSkRRMFJEWkdzeFMyTnBVVFF5VVZCb1dqbEpTbHBxV1VGcVZUaFRhRTFsZVUxMWR4SVhlbVpKUTJGZk5qTkZkRFo2TlU1dlVHeG1kbkEyUVc4YUlrRklUakJGTjBoNFUxcDNRWEpYY1ZCc2JWbDNTRE5tV0RFeGJYSlBXWEZ2WVhjIiwiZmN2IjoiMyIsImVpIjoiemZJQ2FfNjNFdDZ6NU5vUGxmdnA2QW8iLCJxYyI6ImMtT3l5OGd2VnlqSlYwZ3NCUklwcVNXcHlTVUt4Wms1cVhuSnFRcUplU2tLSlVXWnVVRHh4QlNGeE13aWhjdzhoYkxNbE5SOGhZTDhsT1RFNHBKaUFZYmE1UkpzOWdBIiwicXVlc3Rpb24iOiJDYW4gQUkgcmVtb3ZlIHBhdXNlcyBmcm9tIHZpZGVvcz8iLCJsayI6IkdoeGhhU0IwYnlCeVpXMXZkbVVnY0dGMWMyVnpJR2x1SUhacFpHVnYiLCJicyI6ImM0WFBzUXJDTUJBR1lGeHZjbE9EeWptSmE2bHprQzcyTVk0MDBrQ2FreWFwLVBhbXdhS0M2SnI3N3I4X1FGQ2UtWWFLSE5aSU1YQkh3U2l5OW82OTdualE2STNWVG1tODlOd2g0V0FhemJJNGlQMV9uUzBjWVRtZUNKenpVY1V3S1Ztc3hLTDlQZ01KbS1mYTI2dEg0eEp0VEtxd0ZldjJCNEFLZGxYNjFxbWV1bDBwLWdSZTFYd09JVE5tZkpvVWtzVjg5Z0EiLCJpZCI6ImZjX3pmSUNhXzYzRXQ2ejVOb1BsZnZwNkFvXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGVXMVFRVWRGUkZWVk1XNUpObGcxZFdscFIyUjROME52YkUxcmJUWjJkRXBEVkZKUFpFRk5kVUpVWm5kNlgwNXpkMDlmTTBjMFlWSkRRMFJEWkdzeFMyTnBVVFF5VVZCb1dqbEpTbHBxV1VGcVZUaFRhRTFsZVUxMWR4SVhlbVpKUTJGZk5qTkZkRFo2TlU1dlVHeG1kbkEyUVc4YUlrRklUakJGTjBoNFUxcDNRWEpYY1ZCc2JWbDNTRE5tV0RFeGJYSlBXWEZ2WVhjIiwiZmN2IjoiMyIsImVpIjoiemZJQ2FfNjNFdDZ6NU5vUGxmdnA2QW8iLCJxYyI6ImMtT3l5OGd2VnlqSlYwZ3NCUklwcVNXcHlTVUt4Wms1cVhuSnFRcUplU2tLSlVXWnVVRHh4QlNGeE13aWhjdzhoYkxNbE5SOGhZTDhsT1RFNHBKaUFZYmE1UkpzOWdBIiwicXVlc3Rpb24iOiJDYW4gQUkgcmVtb3ZlIHBhdXNlcyBmcm9tIHZpZGVvcz8iLCJsayI6IkdoeGhhU0IwYnlCeVpXMXZkbVVnY0dGMWMyVnpJR2x1SUhacFpHVnYiLCJicyI6ImM0WFBzUXJDTUJBR1lGeHZjbE9EeWptSmE2bHprQzcyTVk0MDBrQ2FreWFwLVBhbXdhS0M2SnI3N3I4X1FGQ2UtWWFLSE5aSU1YQkh3U2l5OW82OTdualE2STNWVG1tODlOd2g0V0FhemJJNGlQMV9uUzBjWVRtZUNKenpVY1V3S1Ztc3hLTDlQZ01KbS1mYTI2dEg0eEp0VEtxd0ZldjJCNEFLZGxYNjFxbWV1bDBwLWdSZTFYd09JVE5tZkpvVWtzVjg5Z0EiLCJpZCI6ImZjX3pmSUNhXzYzRXQ2ejVOb1BsZnZwNkFvXzUifQ%3D%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "qnfhB3iczVbbcrpGGJ_pdV-j3BgVxUPMDPOfBdGgJorGqLlhcFkWBF0FEg-XfZZe9VU60wfoY_QJupwSMJhDb9pvBj728B33--3Hr7851sb-62fT9P2td1Mu7_f7EiYEO6gEybqseccNLBvE8Vxo_vDIswuRpfPQdMkaMdE4HpXIkjEdHm0Y7PDWhjm-8BwDPZ5lkMWfDFnU1AYn-Y1T_Z6MHONl2wCECfXz6lLz0IqaP6y8slqmL_sXrk0HJa-ENmpXKHWaFnDQoLKp26UqW-VKw7K2pnvAf0Q4YpIA5ODTfp3JJ0H5qmLFpFqBeC4vRTw1fxd6IQNRjlYu2Z8ESgNJUQg9ps8QGKuR3aVf98muqfyJX2LGp1nsVsTsc3e_QLFoEEFm4iPKSWKYl_7bWDxfy6NudkVYtEF7n1L_LpyUgUh0Grz2oFMb3QFFUS5aSoiq7i8A64BP6iTxaNrqTXwqJZR1TKucLS9dyiplC5ow_HC9oPjFhxZLblXcciutw8o4cLv--NDngO-TxnwidkEZLuk-h2g60lVTZX-E40q1UmdbXPP6KgQe9F6R56WR5xKP9TfXd0WfLQ1KQiXBXDba82QpsgzyigkLOElFll4VjNN5DtOQegdkZyx3Ym4CAStUbWZR6UuD9CYKlzbN1zVOp_9NQvwAc-dxAFkCJFYwjadAttqUBZAmeXYCGuaqDeIIrWaNdRObncTxfbzyHnNjICtheuMUZy5Hgd4QAk2wEtwUfSruizjcK9cC_5ITUySJhiflF6ko5YQDxJQnVE4Kdu0BloD93JuKshVPg9AIxpElQcGvasKQxfeoi42JoGPmLn2JpK9cLJEXCcjOMJPGWrfNKupdA1Xqu21jeF30VuKpqolGzZVAPrbIevm9tgb_vwDEEQCTpufElX8RgIGlLwFQMT8C4PumJ4kRAEX7AgAnEQDzm94o2XXW9N4DUARWCoBx0ztELKfpfR-AwucATB9XGoBvR5UBoHQJgF0pC8DFSkqaXj4AYwNvAPy3TU_4ftMLcYgilu2Azyt8sRN2pupY1g5qcSZz-njXb2JOfHGh5EgO_rQTGmv_Zq3pzpVq6TdCtecf9SuVTpAbpDM7_pbsCz4paM8-KerIR9AveJaDNhAVtI1e8F1rXdCRphc0yy1Ym8KLpSNS2BIdap7vMWvHJTyr1blZY80ZruAIQ_2EH-1Z65FgoB67j832CIteDx5omQxOc_F-Oa869rw6g43d-mn41G91JtPTYXtoGUhXhsvNvukBThnZSqV28k30gLHaK8JVo1lsDyp4oD4Nl0cOP3Azu2ZI0qJ260rzW3DXsjkBhP54fLMoobEzt08LyNBQPcRXmLULeVoJNQzuleA_TwOdPeiFpSuMd5QPaL0siQCU2wVQ2pg-hB4a40FNRd4LDxt1DtZZFmqa0TSQwayxf9zyLZbxNi5f-R26SPPpGWj-n_ZPf__xD0O6i5I",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=qnfhB3iczVbbcrpGGJ_pdV-j3BgVxUPMDPOfBdGgJorGqLlhcFkWBF0FEg-XfZZe9VU60wfoY_QJupwSMJhDb9pvBj728B33--3Hr7851sb-62fT9P2td1Mu7_f7EiYEO6gEybqseccNLBvE8Vxo_vDIswuRpfPQdMkaMdE4HpXIkjEdHm0Y7PDWhjm-8BwDPZ5lkMWfDFnU1AYn-Y1T_Z6MHONl2wCECfXz6lLz0IqaP6y8slqmL_sXrk0HJa-ENmpXKHWaFnDQoLKp26UqW-VKw7K2pnvAf0Q4YpIA5ODTfp3JJ0H5qmLFpFqBeC4vRTw1fxd6IQNRjlYu2Z8ESgNJUQg9ps8QGKuR3aVf98muqfyJX2LGp1nsVsTsc3e_QLFoEEFm4iPKSWKYl_7bWDxfy6NudkVYtEF7n1L_LpyUgUh0Grz2oFMb3QFFUS5aSoiq7i8A64BP6iTxaNrqTXwqJZR1TKucLS9dyiplC5ow_HC9oPjFhxZLblXcciutw8o4cLv--NDngO-TxnwidkEZLuk-h2g60lVTZX-E40q1UmdbXPP6KgQe9F6R56WR5xKP9TfXd0WfLQ1KQiXBXDba82QpsgzyigkLOElFll4VjNN5DtOQegdkZyx3Ym4CAStUbWZR6UuD9CYKlzbN1zVOp_9NQvwAc-dxAFkCJFYwjadAttqUBZAmeXYCGuaqDeIIrWaNdRObncTxfbzyHnNjICtheuMUZy5Hgd4QAk2wEtwUfSruizjcK9cC_5ITUySJhiflF6ko5YQDxJQnVE4Kdu0BloD93JuKshVPg9AIxpElQcGvasKQxfeoi42JoGPmLn2JpK9cLJEXCcjOMJPGWrfNKupdA1Xqu21jeF30VuKpqolGzZVAPrbIevm9tgb_vwDEEQCTpufElX8RgIGlLwFQMT8C4PumJ4kRAEX7AgAnEQDzm94o2XXW9N4DUARWCoBx0ztELKfpfR-AwucATB9XGoBvR5UBoHQJgF0pC8DFSkqaXj4AYwNvAPy3TU_4ftMLcYgilu2Azyt8sRN2pupY1g5qcSZz-njXb2JOfHGh5EgO_rQTGmv_Zq3pzpVq6TdCtecf9SuVTpAbpDM7_pbsCz4paM8-KerIR9AveJaDNhAVtI1e8F1rXdCRphc0yy1Ym8KLpSNS2BIdap7vMWvHJTyr1blZY80ZruAIQ_2EH-1Z65FgoB67j832CIteDx5omQxOc_F-Oa869rw6g43d-mn41G91JtPTYXtoGUhXhsvNvukBThnZSqV28k30gLHaK8JVo1lsDyp4oD4Nl0cOP3Azu2ZI0qJ260rzW3DXsjkBhP54fLMoobEzt08LyNBQPcRXmLULeVoJNQzuleA_TwOdPeiFpSuMd5QPaL0siQCU2wVQ2pg-hB4a40FNRd4LDxt1DtZZFmqa0TSQwayxf9zyLZbxNi5f-R26SPPpGWj-n_ZPf__xD0O6i5I"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Free Audio Silence Remover Online: Auto-Trim",
+        "link": "https://www.submind.co/audio-remove-silence",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaAHEIkXXTu_uiGdeDJ_aXFGLpMSKjH7Ws2O5-T7OqsnNVDrWzLqtkls_EFCSmaKvpMK0_IGN9t1C-Ig8ZURdDgK_FiNS-jllfLCJHg2JXPDMXBGdcbJgaitanDfBpthDZdd7hB_3Isrh&ved=2ahUKEwi-0vTq25uYAxXeGVkFHZV9Gq0QFnoECAwQAQ&uoh=1",
+        "displayed_link": "https://www.submind.co \u203a Free Tools",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAS1BMVEVHcEwIAQEIAQEIAQEIAAAIAQEIAQEIAQEAAABXVlYkIiIUEBDy8vKysbFDQkJramrCwcHp6emTkpJ_fn7Pz8_Z2NiJiIihoKAIAQHgfDtAAAAAGXRSTlMASbny_8TF8f_____________________D4HmNGAAAAOJJREFUeAF9kwWChCAARRnHeKJ07f1PuuB08ZX6jw5RdRrO45vOw0kcmsavmn-zqqn2Of7USQy_4SDOv-EiXorwUnyFq-QrpP7brlrCB9SMGOtglJ5XSNgDeB9XsElxh1BDzAmUKRl2HCPQIMpyOJKog2KNJI1szQXZWt8ca3AtzQoViLm6Ytyl3CkFX6QD10hQJrHtiGqTk9O1kbHgxqTZXC2jvNAbI2YFnMpgjWNESkY2KeC6bdhdgnnsAzy2D7k228C3vYV7fIcddWH3sLvXpHvBulez6q_D2nNYPuZyPId_ZVsTFQebQUEAAAAASUVORK5CYII.png",
+        "date": "17 Oct 2026",
+        "snippet": "Remove silence and dead air from podcasts, interviews, lectures, and voice memos automatically. Free browser-based trimmer.",
+        "snippet_highlighted_words": [
+          "Free browser-based trimmer"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Remove silence and dead air from podcasts, interviews, lectures, and voice memos automatically. Free browser-based trimmer.",
+            "source_info_link": "https://www.submind.co/audio-remove-silence",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAS1BMVEVHcEwIAQEIAQEIAQEIAAAIAQEIAQEIAQEAAABXVlYkIiIUEBDy8vKysbFDQkJramrCwcHp6emTkpJ_fn7Pz8_Z2NiJiIihoKAIAQHgfDtAAAAAGXRSTlMASbny_8TF8f_____________________D4HmNGAAAAOJJREFUeAF9kwWChCAARRnHeKJ07f1PuuB08ZX6jw5RdRrO45vOw0kcmsavmn-zqqn2Of7USQy_4SDOv-EiXorwUnyFq-QrpP7brlrCB9SMGOtglJ5XSNgDeB9XsElxh1BDzAmUKRl2HCPQIMpyOJKog2KNJI1szQXZWt8ca3AtzQoViLm6Ytyl3CkFX6QD10hQJrHtiGqTk9O1kbHgxqTZXC2jvNAbI2YFnMpgjWNESkY2KeC6bdhdgnnsAzy2D7k228C3vYV7fIcddWH3sLvXpHvBulez6q_D2nNYPuZyPId_ZVsTFQebQUEAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWFYxRzBFSWpNZTRkVW1vMkRnOFhfU2hhZG54akl1UkJnSWJjaEhpWWdRam53ZUpsVm5VWUtaVHFZa0Zyc0pFeThmWXZ6Z1lqZWF3VlJDWTYtbXBPdURKc2EtaXo2Y25jYUdGNGdRMWlZdXJrelRhNzRhZHpIc0ZiOU9tVFRYWFdLM0xlaxIEGgIIABq4BxICCAAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQJIHCAAQABgAIAAqCgoDaG93Fe5tjD8qCQoCdG8VAAAAACpPCgRhdXRvFeZWV0AaCWF1dG9tYXRpYxoNYXV0b21hdGljYWxseRoLYXV0b21vYmlsZXMaCmF1dG9tb3RpdmUaA2NhchoKYXV0b2RldGVjdCqCAQoGZGV0ZWN0FajNzD8aBWNoZWNrGghkZXRlY3RlZBoJZGV0ZWN0aW5nGglkZXRlY3Rpb24aB2RldGVjdHMaCWRldGVybWluZRoJZGlzY292ZXJ5GgRmaW5kGgVzZW5zZRoHc2Vuc2luZxoKYXV0b2RldGVjdBoLaXY7cDtkZXRlY3QqHAoHc2lsZW5jZRVu1s5AGgxpdjtwO3NpbGVuY2UqCgoDYW5kFQAAAAAqXgoEdHJpbRUQAlZAGgNjdXQaB2N1dHRpbmcaB21vbGRpbmcaBXBydW5lGgdwcnVuaW5nGgd0cmltbWVkGgh0cmltbWluZxoJaXY7cDt0cmltGgZyZW1vdmUaBGNsaXAqFAoEZGVhZBVCNx9AGgdkZWFkYWlyKhoKA2FpchWH790_GgVzdGFydBoHZGVhZGFpcioJCgJpbhUAAAAAKiMKBXZpZGVvFY6Loz0aBnZpZGVvcxoNdmlkZW9wb2RjYXN0cyozCghwb2RjYXN0cxVUkkA_Ggdwb2RjYXN0Ggpwb2RjYXN0ZXJzGg12aWRlb3BvZGNhc3RzMpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWFYxRzBFSWpNZTRkVW1vMkRnOFhfU2hhZG54akl1UkJnSWJjaEhpWWdRam53ZUpsVm5VWUtaVHFZa0Zyc0pFeThmWXZ6Z1lqZWF3VlJDWTYtbXBPdURKc2EtaXo2Y25jYUdGNGdRMWlZdXJrelRhNzRhZHpIc0ZiOU9tVFRYWFdLM0xlazpLRnJlZSBBdWRpbyA8Yj5TaWxlbmNlPC9iPiBSZW1vdmVyIE9ubGluZTogPGI-QXV0bzwvYj4tPGI-VHJpbTwvYj4gLSBTdWJtaW5kQoIBUmVtb3ZlIHNpbGVuY2UgYW5kIGRlYWQgYWlyIGZyb20gcG9kY2FzdHMsIGludGVydmlld3MsIGxlY3R1cmVzLCBhbmQgdm9pY2UgbWVtb3MgYXV0b21hdGljYWxseS4gPGI-RnJlZSBicm93c2VyLWJhc2VkIHRyaW1tZXI8L2I-LkoCaW5KAnRvSgNhbmQiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWFYxRzBFSWpNZTRkVW1vMkRnOFhfU2hhZG54akl1UkJnSWJjaEhpWWdRam53ZUpsVm5VWUtaVHFZa0Zyc0pFeThmWXZ6Z1lqZWF3VlJDWTYtbXBPdURKc2EtaXo2Y25jYUdGNGdRMWlZdXJrelRhNzRhZHpIc0ZiOU9tVFRYWFdLM0xlaxIEGgIIABq4BxICCAAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQJIHCAAQABgAIAAqCgoDaG93Fe5tjD8qCQoCdG8VAAAAACpPCgRhdXRvFeZWV0AaCWF1dG9tYXRpYxoNYXV0b21hdGljYWxseRoLYXV0b21vYmlsZXMaCmF1dG9tb3RpdmUaA2NhchoKYXV0b2RldGVjdCqCAQoGZGV0ZWN0FajNzD8aBWNoZWNrGghkZXRlY3RlZBoJZGV0ZWN0aW5nGglkZXRlY3Rpb24aB2RldGVjdHMaCWRldGVybWluZRoJZGlzY292ZXJ5GgRmaW5kGgVzZW5zZRoHc2Vuc2luZxoKYXV0b2RldGVjdBoLaXY7cDtkZXRlY3QqHAoHc2lsZW5jZRVu1s5AGgxpdjtwO3NpbGVuY2UqCgoDYW5kFQAAAAAqXgoEdHJpbRUQAlZAGgNjdXQaB2N1dHRpbmcaB21vbGRpbmcaBXBydW5lGgdwcnVuaW5nGgd0cmltbWVkGgh0cmltbWluZxoJaXY7cDt0cmltGgZyZW1vdmUaBGNsaXAqFAoEZGVhZBVCNx9AGgdkZWFkYWlyKhoKA2FpchWH790_GgVzdGFydBoHZGVhZGFpcioJCgJpbhUAAAAAKiMKBXZpZGVvFY6Loz0aBnZpZGVvcxoNdmlkZW9wb2RjYXN0cyozCghwb2RjYXN0cxVUkkA_Ggdwb2RjYXN0Ggpwb2RjYXN0ZXJzGg12aWRlb3BvZGNhc3RzMpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWFYxRzBFSWpNZTRkVW1vMkRnOFhfU2hhZG54akl1UkJnSWJjaEhpWWdRam53ZUpsVm5VWUtaVHFZa0Zyc0pFeThmWXZ6Z1lqZWF3VlJDWTYtbXBPdURKc2EtaXo2Y25jYUdGNGdRMWlZdXJrelRhNzRhZHpIc0ZiOU9tVFRYWFdLM0xlazpLRnJlZSBBdWRpbyA8Yj5TaWxlbmNlPC9iPiBSZW1vdmVyIE9ubGluZTogPGI-QXV0bzwvYj4tPGI-VHJpbTwvYj4gLSBTdWJtaW5kQoIBUmVtb3ZlIHNpbGVuY2UgYW5kIGRlYWQgYWlyIGZyb20gcG9kY2FzdHMsIGludGVydmlld3MsIGxlY3R1cmVzLCBhbmQgdm9pY2UgbWVtb3MgYXV0b21hdGljYWxseS4gPGI-RnJlZSBicm93c2VyLWJhc2VkIHRyaW1tZXI8L2I-LkoCaW5KAnRvSgNhbmQiAhABSABYAGgA",
+        "source": "Submind"
+      },
+      {
+        "position": 2,
+        "title": "How to remove silences from audio and video with AI",
+        "link": "https://www.google.com/goto?url=CAESdgHEIkXXBye2dzK1_v5gLx4K4loVqcc-dZdSbc2aoz2kfARqo9o0KO6F98othEi9OGqcZZk-iToF5xT16ueybpt5WLdZlM3uOSy19KIkREY6npvCM9Eap_hy5VYEgM20sIu_-GJb9RQjKzicXr9UFIYGp17hDs8",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHEIkXXSCFcX6t0vjdfEtW8frKn6-IgcRIVodL32CIcDZA0jLpMvtbHyg4JF1SZSh0JyWstOAzMgd1bj9g0OblmPagki-XB_6NuigEqLBVUovC6_DwZTQHQFggkE5SR3aXsf1HQTdRQAdmkfoTOeJSI5Fe1APM&ved=2ahUKEwi-0vTq25uYAxXeGVkFHZV9Gq0QFnoECBoQAQ&uoh=1",
+        "displayed_link": "https://clipchamp.com \u203a Blog \u203a AI video editing",
+        "favicon": "https://serpapi.com/searches/6b02f2cbba7b0525b8bec622/images/w1G0Y_t6n4_xP8qz05pw7bkX2gYO0sfkynyC26vF2iA.png",
+        "date": "23 Apr 2025",
+        "snippet": "Automatically find and delete unwanted silences and pauses from videos with one-click using the AI-powered auto cut tool in Clipchamp video ...",
+        "snippet_highlighted_words": [
+          "Automatically find and delete unwanted silences"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Automatically find and delete unwanted silences and pauses from videos with one-click using the AI-powered auto cut tool in Clipchamp video ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESdgHEIkXXBye2dzK1_v5gLx4K4loVqcc-dZdSbc2aoz2kfARqo9o0KO6F98othEi9OGqcZZk-iToF5xT16ueybpt5WLdZlM3uOSy19KIkREY6npvCM9Eap_hy5VYEgM20sIu_-GJb9RQjKzicXr9UFIYGp17hDs8",
+            "icon": "https://serpapi.com/searches/6b02f2cbba7b0525b8bec622/images/w1G0Y_t6n4_xP8qz05pw7VYSTCP6kv66DdRSocAbRALnVD66bzkoS6Yv4r9rHVSu.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hFSWtYWEJ5ZTJkeksxX3Y1Z0x4NEs0bG9WcWNjLWRaZFNiYzJhb3oya2ZBUnFvOW8wS082Rjk4b3RoRWk5T0dxY1paay1pVG9GNXhUMTZ1ZXlicHQ1V0xkWmxNM3VPU3kxOUtJa1JFWTZucHZDTTlFYXBfaHk1VllFZ00yMHNJdV8tR0piOVJRakt6aWNYcjlVRklZR3AxN2hEczgSBBoCCAAa0wcSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCtBwgAEAAYACAAKgoKA2hvdxW0gI5AKgkKAnRvFQAAAAAqTwoEYXV0bxWlnjZAGglhdXRvbWF0aWMaDWF1dG9tYXRpY2FsbHkaC2F1dG9tb2JpbGVzGgphdXRvbW90aXZlGgNjYXIaCmF1dG9kZXRlY3QqggEKBmRldGVjdBWuixs_GgVjaGVjaxoIZGV0ZWN0ZWQaCWRldGVjdGluZxoJZGV0ZWN0aW9uGgdkZXRlY3RzGglkZXRlcm1pbmUaCWRpc2NvdmVyeRoEZmluZBoFc2Vuc2UaB3NlbnNpbmcaCmF1dG9kZXRlY3QaC2l2O3A7ZGV0ZWN0KhwKB3NpbGVuY2UVBkFgQBoMaXY7cDtzaWxlbmNlKgoKA2FuZBUAAAAAKl4KBHRyaW0Vt7IlPhoDY3V0GgdjdXR0aW5nGgdtb2xkaW5nGgVwcnVuZRoHcHJ1bmluZxoHdHJpbW1lZBoIdHJpbW1pbmcaCWl2O3A7dHJpbRoGcmVtb3ZlGgRjbGlwKhQKBGRlYWQVAAAAABoHZGVhZGFpcioaCgNhaXIVAAAAABoFc3RhcnQaB2RlYWRhaXIqCQoCaW4VAAAAACojCgV2aWRlbxWyjvpAGgZ2aWRlb3MaDXZpZGVvcG9kY2FzdHMqMwoIcG9kY2FzdHMVbBGoPxoHcG9kY2FzdBoKcG9kY2FzdGVycxoNdmlkZW9wb2RjYXN0czKtAS9nb3RvP3VybD1DQUVTZGdIRUlrWFhCeWUyZHpLMV92NWdMeDRLNGxvVnFjYy1kWmRTYmMyYW96MmtmQVJxbzlvMEtPNkY5OG90aEVpOU9HcWNaWmstaVRvRjV4VDE2dWV5YnB0NVdMZFpsTTN1T1N5MTlLSWtSRVk2bnB2Q005RWFwX2h5NVZZRWdNMjBzSXVfLUdKYjlSUWpLemljWHI5VUZJWUdwMTdoRHM4OjpIb3cgdG8gcmVtb3ZlIHNpbGVuY2VzIGZyb20gYXVkaW8gYW5kIDxiPnZpZGVvPC9iPiB3aXRoIEFJQpsBPGI-QXV0b21hdGljYWxseSBmaW5kIGFuZCBkZWxldGUgdW53YW50ZWQgc2lsZW5jZXM8L2I-IGFuZCBwYXVzZXMgZnJvbSB2aWRlb3Mgd2l0aCBvbmUtY2xpY2sgdXNpbmcgdGhlIEFJLXBvd2VyZWQgYXV0byBjdXQgdG9vbCBpbiBDbGlwY2hhbXAgdmlkZW8mbmJzcDsuLi5KA2FuZEoCdG9KAmluIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hFSWtYWEJ5ZTJkeksxX3Y1Z0x4NEs0bG9WcWNjLWRaZFNiYzJhb3oya2ZBUnFvOW8wS082Rjk4b3RoRWk5T0dxY1paay1pVG9GNXhUMTZ1ZXlicHQ1V0xkWmxNM3VPU3kxOUtJa1JFWTZucHZDTTlFYXBfaHk1VllFZ00yMHNJdV8tR0piOVJRakt6aWNYcjlVRklZR3AxN2hEczgSBBoCCAAa0wcSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCtBwgAEAAYACAAKgoKA2hvdxW0gI5AKgkKAnRvFQAAAAAqTwoEYXV0bxWlnjZAGglhdXRvbWF0aWMaDWF1dG9tYXRpY2FsbHkaC2F1dG9tb2JpbGVzGgphdXRvbW90aXZlGgNjYXIaCmF1dG9kZXRlY3QqggEKBmRldGVjdBWuixs_GgVjaGVjaxoIZGV0ZWN0ZWQaCWRldGVjdGluZxoJZGV0ZWN0aW9uGgdkZXRlY3RzGglkZXRlcm1pbmUaCWRpc2NvdmVyeRoEZmluZBoFc2Vuc2UaB3NlbnNpbmcaCmF1dG9kZXRlY3QaC2l2O3A7ZGV0ZWN0KhwKB3NpbGVuY2UVBkFgQBoMaXY7cDtzaWxlbmNlKgoKA2FuZBUAAAAAKl4KBHRyaW0Vt7IlPhoDY3V0GgdjdXR0aW5nGgdtb2xkaW5nGgVwcnVuZRoHcHJ1bmluZxoHdHJpbW1lZBoIdHJpbW1pbmcaCWl2O3A7dHJpbRoGcmVtb3ZlGgRjbGlwKhQKBGRlYWQVAAAAABoHZGVhZGFpcioaCgNhaXIVAAAAABoFc3RhcnQaB2RlYWRhaXIqCQoCaW4VAAAAACojCgV2aWRlbxWyjvpAGgZ2aWRlb3MaDXZpZGVvcG9kY2FzdHMqMwoIcG9kY2FzdHMVbBGoPxoHcG9kY2FzdBoKcG9kY2FzdGVycxoNdmlkZW9wb2RjYXN0czKtAS9nb3RvP3VybD1DQUVTZGdIRUlrWFhCeWUyZHpLMV92NWdMeDRLNGxvVnFjYy1kWmRTYmMyYW96MmtmQVJxbzlvMEtPNkY5OG90aEVpOU9HcWNaWmstaVRvRjV4VDE2dWV5YnB0NVdMZFpsTTN1T1N5MTlLSWtSRVk2bnB2Q005RWFwX2h5NVZZRWdNMjBzSXVfLUdKYjlSUWpLemljWHI5VUZJWUdwMTdoRHM4OjpIb3cgdG8gcmVtb3ZlIHNpbGVuY2VzIGZyb20gYXVkaW8gYW5kIDxiPnZpZGVvPC9iPiB3aXRoIEFJQpsBPGI-QXV0b21hdGljYWxseSBmaW5kIGFuZCBkZWxldGUgdW53YW50ZWQgc2lsZW5jZXM8L2I-IGFuZCBwYXVzZXMgZnJvbSB2aWRlb3Mgd2l0aCBvbmUtY2xpY2sgdXNpbmcgdGhlIEFJLXBvd2VyZWQgYXV0byBjdXQgdG9vbCBpbiBDbGlwY2hhbXAgdmlkZW8mbmJzcDsuLi5KA2FuZEoCdG9KAmluIgIQAUgAWABoAA",
+        "source": "Clipchamp"
+      },
+      {
+        "position": 3,
+        "title": "AI Silence Remover for Audio & Video",
+        "link": "https://www.google.com/goto?url=CAESYwHEIkXX6S8ob72_i86N4TE63XzJj4BiQEa5S9fMIFzTH4D2O_eCeFE3nRv7B6DTJIYsxHpnqp0DW_BUuvBgoGE0heWJU83414U_OsI02wfGYY2a4z4AfmEXxLmyGskUZ42nfA",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHEIkXXS_xPdqEigad_nDZwxtB9iq9JFiYhZ7Sva1RXach3k3vwDsG-OxSvnfM15MPQ-3UvvwVtZYWK7neL5-C1EBFqQnWq-XdozOvkqAEUWgTCEebOK3oBtQSM-MJoZNUx0w&ved=2ahUKEwi-0vTq25uYAxXeGVkFHZV9Gq0QFnoECAoQAQ&uoh=1",
+        "displayed_link": "https://cleanvoice.ai \u203a deadair-remover",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAWlBMVEX____4-P6Xl_isrPnV1fyNjffZ2fy4uPohIfMUFPPn5_1VVfUqKvNbW_UvL_QoKPM2NvRiYvX6-v_Jyfv29v7Pz_t7e_ccHPNOTvVzc_ZBQfTu7v4xMfSiovkNznXsAAAAaElEQVR4AdVRgxHAQBCMbbP_MsM3h8ENzto1fimmZUPTcT0m6QdhBMw4SdlklsNkWpQ4XtUNTEYtSrZ3bdcPINmEoQ-SdhhWZ3IsJpCc88UGyXXJG1XSfCHZaF-RgaCHTw98xVD2Q9kBjkkMXC_d17QAAAAASUVORK5CYII.png",
+        "snippet": "Remove silence from audio and video automatically. Cleanvoice's AI silence remover shortens long pauses and dead air, and keeps the natural ones.",
+        "snippet_highlighted_words": [
+          "Cleanvoice's AI silence remover"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Remove silence from audio and video automatically. Cleanvoice's AI silence remover shortens long pauses and dead air, and keeps the natural ones.",
+            "source_info_link": "https://www.google.com/goto?url=CAESYwHEIkXX6S8ob72_i86N4TE63XzJj4BiQEa5S9fMIFzTH4D2O_eCeFE3nRv7B6DTJIYsxHpnqp0DW_BUuvBgoGE0heWJU83414U_OsI02wfGYY2a4z4AfmEXxLmyGskUZ42nfA",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAWlBMVEX____4-P6Xl_isrPnV1fyNjffZ2fy4uPohIfMUFPPn5_1VVfUqKvNbW_UvL_QoKPM2NvRiYvX6-v_Jyfv29v7Pz_t7e_ccHPNOTvVzc_ZBQfTu7v4xMfSiovkNznXsAAAAaElEQVR4AdVRgxHAQBCMbbP_MsM3h8ENzto1fimmZUPTcT0m6QdhBMw4SdlklsNkWpQ4XtUNTEYtSrZ3bdcPINmEoQ-SdhhWZ3IsJpCc88UGyXXJG1XSfCHZaF-RgaCHTw98xVD2Q9kBjkkMXC_d17QAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hFSWtYWDZTOG9iNzJfaTg2TjRURTYzWHpKajRCaVFFYTVTOWZNSUZ6VEg0RDJPX2VDZUZFM25SdjdCNkRUSklZc3hIcG5xcDBEV19CVXV2QmdvR0UwaGVXSlU4MzQxNFVfT3NJMDJ3ZkdZWTJhNHo0QWZtRVh4TG15R3NrVVo0Mm5mQRIEGgIIABrFBxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkChBwgAEAAYACAAKgoKA2hvdxUzEHs_KgkKAnRvFQAAAAAqTwoEYXV0bxXoU189GglhdXRvbWF0aWMaDWF1dG9tYXRpY2FsbHkaC2F1dG9tb2JpbGVzGgphdXRvbW90aXZlGgNjYXIaCmF1dG9kZXRlY3QqggEKBmRldGVjdBUAAAAAGgVjaGVjaxoIZGV0ZWN0ZWQaCWRldGVjdGluZxoJZGV0ZWN0aW9uGgdkZXRlY3RzGglkZXRlcm1pbmUaCWRpc2NvdmVyeRoEZmluZBoFc2Vuc2UaB3NlbnNpbmcaCmF1dG9kZXRlY3QaC2l2O3A7ZGV0ZWN0KhwKB3NpbGVuY2UV-WSKQBoMaXY7cDtzaWxlbmNlKgoKA2FuZBUAAAAAKl4KBHRyaW0VAAAAABoDY3V0GgdjdXR0aW5nGgdtb2xkaW5nGgVwcnVuZRoHcHJ1bmluZxoHdHJpbW1lZBoIdHJpbW1pbmcaCWl2O3A7dHJpbRoGcmVtb3ZlGgRjbGlwKhQKBGRlYWQVGT0DQBoHZGVhZGFpcioaCgNhaXIVGT0DQBoFc3RhcnQaB2RlYWRhaXIqCQoCaW4VAAAAACojCgV2aWRlbxXgdFVAGgZ2aWRlb3MaDXZpZGVvcG9kY2FzdHMqMwoIcG9kY2FzdHMVAAAAABoHcG9kY2FzdBoKcG9kY2FzdGVycxoNdmlkZW9wb2RjYXN0czKUAS9nb3RvP3VybD1DQUVTWXdIRUlrWFg2UzhvYjcyX2k4Nk40VEU2M1h6Smo0QmlRRWE1UzlmTUlGelRINEQyT19lQ2VGRTNuUnY3QjZEVEpJWXN4SHBucXAwRFdfQlV1dkJnb0dFMGhlV0pVODM0MTRVX09zSTAyd2ZHWVkyYTR6NEFmbUVYeExteUdza1VaNDJuZkE6RkFJIDxiPlNpbGVuY2U8L2I-IFJlbW92ZXIgZm9yIEF1ZGlvICZhbXA7IDxiPlZpZGVvPC9iPiAtIENsZWFudm9pY2UgQUlCnAFSZW1vdmUgc2lsZW5jZSBmcm9tIGF1ZGlvIGFuZCB2aWRlbyBhdXRvbWF0aWNhbGx5LiA8Yj5DbGVhbnZvaWNlJiMzOTtzIEFJIHNpbGVuY2UgcmVtb3ZlcjwvYj4gc2hvcnRlbnMgbG9uZyBwYXVzZXMgYW5kIGRlYWQgYWlyLCBhbmQga2VlcHMgdGhlIG5hdHVyYWwgb25lcy5KAmluSgJ0b0oDYW5kIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hFSWtYWDZTOG9iNzJfaTg2TjRURTYzWHpKajRCaVFFYTVTOWZNSUZ6VEg0RDJPX2VDZUZFM25SdjdCNkRUSklZc3hIcG5xcDBEV19CVXV2QmdvR0UwaGVXSlU4MzQxNFVfT3NJMDJ3ZkdZWTJhNHo0QWZtRVh4TG15R3NrVVo0Mm5mQRIEGgIIABrFBxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkChBwgAEAAYACAAKgoKA2hvdxUzEHs_KgkKAnRvFQAAAAAqTwoEYXV0bxXoU189GglhdXRvbWF0aWMaDWF1dG9tYXRpY2FsbHkaC2F1dG9tb2JpbGVzGgphdXRvbW90aXZlGgNjYXIaCmF1dG9kZXRlY3QqggEKBmRldGVjdBUAAAAAGgVjaGVjaxoIZGV0ZWN0ZWQaCWRldGVjdGluZxoJZGV0ZWN0aW9uGgdkZXRlY3RzGglkZXRlcm1pbmUaCWRpc2NvdmVyeRoEZmluZBoFc2Vuc2UaB3NlbnNpbmcaCmF1dG9kZXRlY3QaC2l2O3A7ZGV0ZWN0KhwKB3NpbGVuY2UV-WSKQBoMaXY7cDtzaWxlbmNlKgoKA2FuZBUAAAAAKl4KBHRyaW0VAAAAABoDY3V0GgdjdXR0aW5nGgdtb2xkaW5nGgVwcnVuZRoHcHJ1bmluZxoHdHJpbW1lZBoIdHJpbW1pbmcaCWl2O3A7dHJpbRoGcmVtb3ZlGgRjbGlwKhQKBGRlYWQVGT0DQBoHZGVhZGFpcioaCgNhaXIVGT0DQBoFc3RhcnQaB2RlYWRhaXIqCQoCaW4VAAAAACojCgV2aWRlbxXgdFVAGgZ2aWRlb3MaDXZpZGVvcG9kY2FzdHMqMwoIcG9kY2FzdHMVAAAAABoHcG9kY2FzdBoKcG9kY2FzdGVycxoNdmlkZW9wb2RjYXN0czKUAS9nb3RvP3VybD1DQUVTWXdIRUlrWFg2UzhvYjcyX2k4Nk40VEU2M1h6Smo0QmlRRWE1UzlmTUlGelRINEQyT19lQ2VGRTNuUnY3QjZEVEpJWXN4SHBucXAwRFdfQlV1dkJnb0dFMGhlV0pVODM0MTRVX09zSTAyd2ZHWVkyYTR6NEFmbUVYeExteUdza1VaNDJuZkE6RkFJIDxiPlNpbGVuY2U8L2I-IFJlbW92ZXIgZm9yIEF1ZGlvICZhbXA7IDxiPlZpZGVvPC9iPiAtIENsZWFudm9pY2UgQUlCnAFSZW1vdmUgc2lsZW5jZSBmcm9tIGF1ZGlvIGFuZCB2aWRlbyBhdXRvbWF0aWNhbGx5LiA8Yj5DbGVhbnZvaWNlJiMzOTtzIEFJIHNpbGVuY2UgcmVtb3ZlcjwvYj4gc2hvcnRlbnMgbG9uZyBwYXVzZXMgYW5kIGRlYWQgYWlyLCBhbmQga2VlcHMgdGhlIG5hdHVyYWwgb25lcy5KAmluSgJ0b0oDYW5kIgIQAUgAWABoAA",
+        "source": "Cleanvoice AI"
+      },
+      {
+        "position": 4,
+        "title": "Automatically Remove Silences in Premiere Pro | NO PLUGINS!",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXMOJFgZNLFPB1Lkn5OdRZp2t93kuhumBGUR4X20p3K09J_8H97JlSj7ArUxl6uiCjaZw6UjAk2J6VA1da-ZWj1JYXVIrzB7U_MJBettqs9cRpMItv9UCV7_CpmyE22E8wAf0I&gsessionid=lKrYeVT7BzGng7IG__FRtAyKU035J_NLKFE46-LgnM3l0qxCwaf0nw",
+        "displayed_link": "1.6L+ views",
+        "date": "2 years ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f2cbba7b0525b8bec622/images/w1G0Y_t6n4_xP8qz05pw7UBwwS1cIDPECBQd-s6egMs.webp",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "This is how to automatically remove silences in Premiere Pro 2023 without plugins so that you can edit your videos faster.",
+        "duration": "4:20",
+        "about_this_result": {
+          "source": {
+            "description": "This is how to automatically remove silences in Premiere Pro 2023 without plugins so that you can edit your videos faster.",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWE1PSkZnWk5MRlBCMUxrbjVPZFJacDJ0OTNrdWh1bUJHVVI0WDIwcDNLMDlKXzhIOTdKbFNqN0FyVXhsNnVpQ2phWnc2VWpBazJKNlZBMWRhLVpXajFKWVhWSXJ6QjdVX01KQmV0dHFzOWNScE1JdHY5VUNWN19DcG15RTIyRTh3QWYwSRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWE1PSkZnWk5MRlBCMUxrbjVPZFJacDJ0OTNrdWh1bUJHVVI0WDIwcDNLMDlKXzhIOTdKbFNqN0FyVXhsNnVpQ2phWnc2VWpBazJKNlZBMWRhLVpXajFKWVhWSXJ6QjdVX01KQmV0dHFzOWNScE1JdHY5VUNWN19DcG15RTIyRTh3QWYwSRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "source": "YouTube \u00b7 Gavin Herman"
+      },
+      {
+        "position": 5,
+        "title": "Audio & Video Silence Remover: Cut Dead Air Free",
+        "link": "https://www.google.com/goto?url=CAESXAHEIkXXVkMxApXOFXyI8K4hMOyh_zxqoanh9dVbQx135lYI9OjkVJNQUdk8mJvwJ5n_ftELnuJwUu189G7oBth0Qo0n1uJpixfvNhAv5HkgVqyDEj6D21A03dod",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXAHEIkXXQo6CzpH1kx0iA6Wa49W8vF3TR5bcdLI74OEjqX1bDJOq6g1u_maxmkQs9bqcarM1WFTVoH0YBBog4Y2F2nhQ_Tk4NDFqKU5c9_hzXgH0lL5FVr-cXg6U&ved=2ahUKEwi-0vTq25uYAxXeGVkFHZV9Gq0QFnoECAsQAQ&uoh=1",
+        "displayed_link": "https://audo.ai \u203a silence-remover",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA4VBMVEX9_Pz____1-foxuM4XtMvq9Pf___654OoAqcme1uTk8vW64um53usApcyf1OWKz98AoM-g0uYAosxnvtq62-wAm9Hd8PPl7vcIoNFqutwAl9MMmdSgzugApMdrtt-72O4AktWExuHL5fAzq9QAjtZsseGhyuuIweQAlNMAh9kSjNptreO71fCJvOfO4fP___0AfN8fguAIhNxuqeaixO6Kt-ondOgGaec_fukAeN9vpOi80POLse0AdeLO2vbk6PqWrPRwoOqjvvG7yvYAU-sAWusAYulvlu6kuPQUX-xEcvDIwufbAAAA8klEQVR4AcyONUIEQRBFX013VQvuLiETcf9jzN4BJ8JhBIf1fF_6lRlAZLpWOK-TFcNCjMn61r6W1dBPmCAWXZtqnHOTxJjVE1XBNosh0WDBzRmozdUS9gr6Yk5qqFPmTGH3vj62f9GiHNZkDeB9xvIy33gAVpsW1ISFlhZbZr4vliKcE0WURKGxoe2LmAjE58zSExAiQv9QSqGkXQgQI_i3N8r_ZHUKnLy8evCk0i1I76qfrKoKlsTg9RVu697HJNAjxNXFQd_a3NxJn0EfI0707Z319Z3d3DxAUpiyQC3Onp4YkgizvdzEEZKY2oFyAwkA_FAqebfYWu0AAAAASUVORK5CYII.png",
+        "snippet": "Silence remover for audio and video: shorten long pauses and dead air in podcasts, lectures, and videos automatically. Free online, no sign-up.",
+        "snippet_highlighted_words": [
+          "shorten long pauses and dead air in podcasts"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Silence remover for audio and video: shorten long pauses and dead air in podcasts, lectures, and videos automatically. Free online, no sign-up.",
+            "source_info_link": "https://www.google.com/goto?url=CAESXAHEIkXXVkMxApXOFXyI8K4hMOyh_zxqoanh9dVbQx135lYI9OjkVJNQUdk8mJvwJ5n_ftELnuJwUu189G7oBth0Qo0n1uJpixfvNhAv5HkgVqyDEj6D21A03dod",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA4VBMVEX9_Pz____1-foxuM4XtMvq9Pf___654OoAqcme1uTk8vW64um53usApcyf1OWKz98AoM-g0uYAosxnvtq62-wAm9Hd8PPl7vcIoNFqutwAl9MMmdSgzugApMdrtt-72O4AktWExuHL5fAzq9QAjtZsseGhyuuIweQAlNMAh9kSjNptreO71fCJvOfO4fP___0AfN8fguAIhNxuqeaixO6Kt-ondOgGaec_fukAeN9vpOi80POLse0AdeLO2vbk6PqWrPRwoOqjvvG7yvYAU-sAWusAYulvlu6kuPQUX-xEcvDIwufbAAAA8klEQVR4AcyONUIEQRBFX013VQvuLiETcf9jzN4BJ8JhBIf1fF_6lRlAZLpWOK-TFcNCjMn61r6W1dBPmCAWXZtqnHOTxJjVE1XBNosh0WDBzRmozdUS9gr6Yk5qqFPmTGH3vj62f9GiHNZkDeB9xvIy33gAVpsW1ISFlhZbZr4vliKcE0WURKGxoe2LmAjE58zSExAiQv9QSqGkXQgQI_i3N8r_ZHUKnLy8evCk0i1I76qfrKoKlsTg9RVu697HJNAjxNXFQd_a3NxJn0EfI0707Z319Z3d3DxAUpiyQC3Onp4YkgizvdzEEZKY2oFyAwkA_FAqebfYWu0AAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CooBL2dvdG8_dXJsPUNBRVNYQUhFSWtYWFZrTXhBcFhPRlh5SThLNGhNT3loX3p4cW9hbmg5ZFZiUXgxMzVsWUk5T2prVkpOUVVkazhtSnZ3SjVuX2Z0RUxudUp3VXUxODlHN29CdGgwUW8wbjF1SnBpeGZ2TmhBdjVIa2dWcXlERWo2RDIxQTAzZG9kEgQaAggAGrsHEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQJcHCAAQABgAIAAqCgoDaG93FReZ7T4qCQoCdG8VAAAAACpPCgRhdXRvFY5EXT0aCWF1dG9tYXRpYxoNYXV0b21hdGljYWxseRoLYXV0b21vYmlsZXMaCmF1dG9tb3RpdmUaA2NhchoKYXV0b2RldGVjdCqCAQoGZGV0ZWN0FQAAAAAaBWNoZWNrGghkZXRlY3RlZBoJZGV0ZWN0aW5nGglkZXRlY3Rpb24aB2RldGVjdHMaCWRldGVybWluZRoJZGlzY292ZXJ5GgRmaW5kGgVzZW5zZRoHc2Vuc2luZxoKYXV0b2RldGVjdBoLaXY7cDtkZXRlY3QqHAoHc2lsZW5jZRVFdMRAGgxpdjtwO3NpbGVuY2UqCgoDYW5kFQAAAAAqXgoEdHJpbRWbQGE-GgNjdXQaB2N1dHRpbmcaB21vbGRpbmcaBXBydW5lGgdwcnVuaW5nGgd0cmltbWVkGgh0cmltbWluZxoJaXY7cDt0cmltGgZyZW1vdmUaBGNsaXAqFAoEZGVhZBV-MYtAGgdkZWFkYWlyKhoKA2FpchV-MYtAGgVzdGFydBoHZGVhZGFpcioJCgJpbhUAAAAAKiMKBXZpZGVvFS760UAaBnZpZGVvcxoNdmlkZW9wb2RjYXN0cyozCghwb2RjYXN0cxWWxBk_Ggdwb2RjYXN0Ggpwb2RjYXN0ZXJzGg12aWRlb3BvZGNhc3RzMooBL2dvdG8_dXJsPUNBRVNYQUhFSWtYWFZrTXhBcFhPRlh5SThLNGhNT3loX3p4cW9hbmg5ZFZiUXgxMzVsWUk5T2prVkpOUVVkazhtSnZ3SjVuX2Z0RUxudUp3VXUxODlHN29CdGgwUW8wbjF1SnBpeGZ2TmhBdjVIa2dWcXlERWo2RDIxQTAzZG9kOkxBdWRpbyAmYW1wOyA8Yj5WaWRlbyBTaWxlbmNlPC9iPiBSZW1vdmVyOiA8Yj5DdXQgRGVhZCBBaXI8L2I-IEZyZWUgLSBBdWRvIEFJQpYBU2lsZW5jZSByZW1vdmVyIGZvciBhdWRpbyBhbmQgdmlkZW86IDxiPnNob3J0ZW4gbG9uZyBwYXVzZXMgYW5kIGRlYWQgYWlyIGluIHBvZGNhc3RzPC9iPiwgbGVjdHVyZXMsIGFuZCB2aWRlb3MgYXV0b21hdGljYWxseS4gRnJlZSBvbmxpbmUsIG5vIHNpZ24tdXAuSgNhbmRKAnRvSgJpbiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CooBL2dvdG8_dXJsPUNBRVNYQUhFSWtYWFZrTXhBcFhPRlh5SThLNGhNT3loX3p4cW9hbmg5ZFZiUXgxMzVsWUk5T2prVkpOUVVkazhtSnZ3SjVuX2Z0RUxudUp3VXUxODlHN29CdGgwUW8wbjF1SnBpeGZ2TmhBdjVIa2dWcXlERWo2RDIxQTAzZG9kEgQaAggAGrsHEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQJcHCAAQABgAIAAqCgoDaG93FReZ7T4qCQoCdG8VAAAAACpPCgRhdXRvFY5EXT0aCWF1dG9tYXRpYxoNYXV0b21hdGljYWxseRoLYXV0b21vYmlsZXMaCmF1dG9tb3RpdmUaA2NhchoKYXV0b2RldGVjdCqCAQoGZGV0ZWN0FQAAAAAaBWNoZWNrGghkZXRlY3RlZBoJZGV0ZWN0aW5nGglkZXRlY3Rpb24aB2RldGVjdHMaCWRldGVybWluZRoJZGlzY292ZXJ5GgRmaW5kGgVzZW5zZRoHc2Vuc2luZxoKYXV0b2RldGVjdBoLaXY7cDtkZXRlY3QqHAoHc2lsZW5jZRVFdMRAGgxpdjtwO3NpbGVuY2UqCgoDYW5kFQAAAAAqXgoEdHJpbRWbQGE-GgNjdXQaB2N1dHRpbmcaB21vbGRpbmcaBXBydW5lGgdwcnVuaW5nGgd0cmltbWVkGgh0cmltbWluZxoJaXY7cDt0cmltGgZyZW1vdmUaBGNsaXAqFAoEZGVhZBV-MYtAGgdkZWFkYWlyKhoKA2FpchV-MYtAGgVzdGFydBoHZGVhZGFpcioJCgJpbhUAAAAAKiMKBXZpZGVvFS760UAaBnZpZGVvcxoNdmlkZW9wb2RjYXN0cyozCghwb2RjYXN0cxWWxBk_Ggdwb2RjYXN0Ggpwb2RjYXN0ZXJzGg12aWRlb3BvZGNhc3RzMooBL2dvdG8_dXJsPUNBRVNYQUhFSWtYWFZrTXhBcFhPRlh5SThLNGhNT3loX3p4cW9hbmg5ZFZiUXgxMzVsWUk5T2prVkpOUVVkazhtSnZ3SjVuX2Z0RUxudUp3VXUxODlHN29CdGgwUW8wbjF1SnBpeGZ2TmhBdjVIa2dWcXlERWo2RDIxQTAzZG9kOkxBdWRpbyAmYW1wOyA8Yj5WaWRlbyBTaWxlbmNlPC9iPiBSZW1vdmVyOiA8Yj5DdXQgRGVhZCBBaXI8L2I-IEZyZWUgLSBBdWRvIEFJQpYBU2lsZW5jZSByZW1vdmVyIGZvciBhdWRpbyBhbmQgdmlkZW86IDxiPnNob3J0ZW4gbG9uZyBwYXVzZXMgYW5kIGRlYWQgYWlyIGluIHBvZGNhc3RzPC9iPiwgbGVjdHVyZXMsIGFuZCB2aWRlb3MgYXV0b21hdGljYWxseS4gRnJlZSBvbmxpbmUsIG5vIHNpZ24tdXAuSgNhbmRKAnRvSgJpbiICEAFIAFgAaAA",
+        "source": "Audo AI"
+      },
+      {
+        "position": 6,
+        "title": "Silence Remover: Cut Silence From Video & Audio Free",
+        "link": "https://www.google.com/goto?url=CAESYQHEIkXXGyXsJmp0l9oFppMeYsldFvziFDNxFkYFOzXHy9Ijrm83MnbVBacjgpmwuWjuv-jw4K5no7LjWkh-p6DQ0UAf4x_lKRawQTgUw2_kloovLASbcRoujYTtRoiWmd0",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHEIkXXeyRIWn5HniJAB_Nh83kmnDJ7GMjxBRou4SFRDCKmsYkBeHRp5eBbEu0Jnisp4WN32oHBDIGIQ1D8dsLibudx7EDnpMTz-zJqWRY_WinOd2nAfmmsUQeuaR_tG0M&ved=2ahUKEwi-0vTq25uYAxXeGVkFHZV9Gq0QFnoECE0QAQ&uoh=1",
+        "displayed_link": "https://vidclean.net \u203a silence-remover",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEVHcEwkYuolY-slY-slY-skY-sdYOsPW-pkie-VrvQAVOrT3fumuvaEoPLH1Pm5yfjh6fxyk_FMeu41841ZAAAABnRSTlMAJ63w_2InGruLAAAAm0lEQVR4AcyLVxYDIQgAXWXBQlm9_2GD6c18Z5Q6jxDCFhN8kOIWnB0W7H4HS7YQ1zKGtJYpwA_-USIBIXgCh5wnibnUliujtIqgWkolRPLkEqhlK3qIqfbSa2fTbtzawCm5jcM9ixSRytqMWa3LlDhsFG11DCKc12ZiVnKfEpCQqAKC454uIMJpQyts8SYTvAkMb9LEm6jxZgcANG4PUSoR9D8AAAAASUVORK5CYII.png",
+        "snippet": "VidClean removes silence and dead air from videos and audio files for free, automatically detecting and cutting the quiet gaps so your recording flows. No ...",
+        "snippet_highlighted_words": [
+          "automatically detecting and cutting the quiet gaps"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "VidClean removes silence and dead air from videos and audio files for free, automatically detecting and cutting the quiet gaps so your recording flows. No ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESYQHEIkXXGyXsJmp0l9oFppMeYsldFvziFDNxFkYFOzXHy9Ijrm83MnbVBacjgpmwuWjuv-jw4K5no7LjWkh-p6DQ0UAf4x_lKRawQTgUw2_kloovLASbcRoujYTtRoiWmd0",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEVHcEwkYuolY-slY-slY-skY-sdYOsPW-pkie-VrvQAVOrT3fumuvaEoPLH1Pm5yfjh6fxyk_FMeu41841ZAAAABnRSTlMAJ63w_2InGruLAAAAm0lEQVR4AcyLVxYDIQgAXWXBQlm9_2GD6c18Z5Q6jxDCFhN8kOIWnB0W7H4HS7YQ1zKGtJYpwA_-USIBIXgCh5wnibnUliujtIqgWkolRPLkEqhlK3qIqfbSa2fTbtzawCm5jcM9ixSRytqMWa3LlDhsFG11DCKc12ZiVnKfEpCQqAKC454uIMJpQyts8SYTvAkMb9LEm6jxZgcANG4PUSoR9D8AAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpEBL2dvdG8_dXJsPUNBRVNZUUhFSWtYWEd5WHNKbXAwbDlvRnBwTWVZc2xkRnZ6aUZETnhGa1lGT3pYSHk5SWpybTgzTW5iVkJhY2pncG13dVdqdXYtanc0SzVubzdMaldraC1wNkRRMFVBZjR4X2xLUmF3UVRnVXcyX2tsb292TEFTYmNSb3VqWVR0Um9pV21kMBIEGgIIABrXBxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCzBwgAEAAYACAAKgoKA2hvdxU2AglAKgkKAnRvFQAAAAAqTwoEYXV0bxX7n50_GglhdXRvbWF0aWMaDWF1dG9tYXRpY2FsbHkaC2F1dG9tb2JpbGVzGgphdXRvbW90aXZlGgNjYXIaCmF1dG9kZXRlY3QqggEKBmRldGVjdBVPSHo_GgVjaGVjaxoIZGV0ZWN0ZWQaCWRldGVjdGluZxoJZGV0ZWN0aW9uGgdkZXRlY3RzGglkZXRlcm1pbmUaCWRpc2NvdmVyeRoEZmluZBoFc2Vuc2UaB3NlbnNpbmcaCmF1dG9kZXRlY3QaC2l2O3A7ZGV0ZWN0KhwKB3NpbGVuY2UVp1zvQBoMaXY7cDtzaWxlbmNlKgoKA2FuZBUAAAAAKl4KBHRyaW0VJl8sPxoDY3V0GgdjdXR0aW5nGgdtb2xkaW5nGgVwcnVuZRoHcHJ1bmluZxoHdHJpbW1lZBoIdHJpbW1pbmcaCWl2O3A7dHJpbRoGcmVtb3ZlGgRjbGlwKhQKBGRlYWQV12f6PxoHZGVhZGFpcioaCgNhaXIV12f6PxoFc3RhcnQaB2RlYWRhaXIqCQoCaW4VAAAAACojCgV2aWRlbxWTj71AGgZ2aWRlb3MaDXZpZGVvcG9kY2FzdHMqMwoIcG9kY2FzdHMVxzXwPxoHcG9kY2FzdBoKcG9kY2FzdGVycxoNdmlkZW9wb2RjYXN0czKRAS9nb3RvP3VybD1DQUVTWVFIRUlrWFhHeVhzSm1wMGw5b0ZwcE1lWXNsZEZ2emlGRE54RmtZRk96WEh5OUlqcm04M01uYlZCYWNqZ3Btd3VXanV2LWp3NEs1bm83TGpXa2gtcDZEUTBVQWY0eF9sS1Jhd1FUZ1V3Ml9rbG9vdkxBU2JjUm91allUdFJvaVdtZDA6TTxiPlNpbGVuY2U8L2I-IFJlbW92ZXI6IDxiPkN1dCBTaWxlbmNlPC9iPiBGcm9tIDxiPlZpZGVvPC9iPiAmYW1wOyBBdWRpbyBGcmVlQqoBVmlkQ2xlYW4gcmVtb3ZlcyBzaWxlbmNlIGFuZCBkZWFkIGFpciBmcm9tIHZpZGVvcyBhbmQgYXVkaW8gZmlsZXMgZm9yIGZyZWUsIDxiPmF1dG9tYXRpY2FsbHkgZGV0ZWN0aW5nIGFuZCBjdXR0aW5nIHRoZSBxdWlldCBnYXBzPC9iPiBzbyB5b3VyIHJlY29yZGluZyBmbG93cy4gTm8mbmJzcDsuLi5KAmluSgJ0b0oDYW5kIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpEBL2dvdG8_dXJsPUNBRVNZUUhFSWtYWEd5WHNKbXAwbDlvRnBwTWVZc2xkRnZ6aUZETnhGa1lGT3pYSHk5SWpybTgzTW5iVkJhY2pncG13dVdqdXYtanc0SzVubzdMaldraC1wNkRRMFVBZjR4X2xLUmF3UVRnVXcyX2tsb292TEFTYmNSb3VqWVR0Um9pV21kMBIEGgIIABrXBxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCzBwgAEAAYACAAKgoKA2hvdxU2AglAKgkKAnRvFQAAAAAqTwoEYXV0bxX7n50_GglhdXRvbWF0aWMaDWF1dG9tYXRpY2FsbHkaC2F1dG9tb2JpbGVzGgphdXRvbW90aXZlGgNjYXIaCmF1dG9kZXRlY3QqggEKBmRldGVjdBVPSHo_GgVjaGVjaxoIZGV0ZWN0ZWQaCWRldGVjdGluZxoJZGV0ZWN0aW9uGgdkZXRlY3RzGglkZXRlcm1pbmUaCWRpc2NvdmVyeRoEZmluZBoFc2Vuc2UaB3NlbnNpbmcaCmF1dG9kZXRlY3QaC2l2O3A7ZGV0ZWN0KhwKB3NpbGVuY2UVp1zvQBoMaXY7cDtzaWxlbmNlKgoKA2FuZBUAAAAAKl4KBHRyaW0VJl8sPxoDY3V0GgdjdXR0aW5nGgdtb2xkaW5nGgVwcnVuZRoHcHJ1bmluZxoHdHJpbW1lZBoIdHJpbW1pbmcaCWl2O3A7dHJpbRoGcmVtb3ZlGgRjbGlwKhQKBGRlYWQV12f6PxoHZGVhZGFpcioaCgNhaXIV12f6PxoFc3RhcnQaB2RlYWRhaXIqCQoCaW4VAAAAACojCgV2aWRlbxWTj71AGgZ2aWRlb3MaDXZpZGVvcG9kY2FzdHMqMwoIcG9kY2FzdHMVxzXwPxoHcG9kY2FzdBoKcG9kY2FzdGVycxoNdmlkZW9wb2RjYXN0czKRAS9nb3RvP3VybD1DQUVTWVFIRUlrWFhHeVhzSm1wMGw5b0ZwcE1lWXNsZEZ2emlGRE54RmtZRk96WEh5OUlqcm04M01uYlZCYWNqZ3Btd3VXanV2LWp3NEs1bm83TGpXa2gtcDZEUTBVQWY0eF9sS1Jhd1FUZ1V3Ml9rbG9vdkxBU2JjUm91allUdFJvaVdtZDA6TTxiPlNpbGVuY2U8L2I-IFJlbW92ZXI6IDxiPkN1dCBTaWxlbmNlPC9iPiBGcm9tIDxiPlZpZGVvPC9iPiAmYW1wOyBBdWRpbyBGcmVlQqoBVmlkQ2xlYW4gcmVtb3ZlcyBzaWxlbmNlIGFuZCBkZWFkIGFpciBmcm9tIHZpZGVvcyBhbmQgYXVkaW8gZmlsZXMgZm9yIGZyZWUsIDxiPmF1dG9tYXRpY2FsbHkgZGV0ZWN0aW5nIGFuZCBjdXR0aW5nIHRoZSBxdWlldCBnYXBzPC9iPiBzbyB5b3VyIHJlY29yZGluZyBmbG93cy4gTm8mbmJzcDsuLi5KAmluSgJ0b0oDYW5kIgIQAUgAWABoAA",
+        "source": "VidClean",
+        "read_more_link": "https://www.google.com/goto?url=CAEStwEBxCJF1xK4K3CK_OaEBaYufXeYTywPLShSumIBiAcvkYDy9aS0VNkCIaneWeGDP_Idofc_SzEWXxp97bFFr3BSNY_OE7LZh79KOhAvTpx7Mn5Wi9CG6CvjGyDwnILNuuOaVNpceunnmVCpmXXIMpPQukH9FRUcAf7iSa8LfTfc46HPktu01AJvap4TqG7fkO1gXmVc6YLHnquocI3h5_F7hXPapO-Xbf9fEzjFO8h_a57Be-KkLTI&gsessionid=lKrYeVT7BzGng7IG__FRtAyKU035J_NLKFE46-LgnM3l0qxCwaf0nw"
+      },
+      {
+        "position": 7,
+        "title": "Remove Silence from Audio",
+        "link": "https://www.google.com/goto?url=CAESawHEIkXXLZJII34hrmz9C7NR79gh0zy24f4viRELVuh5sWO2sKHd9x3uTGdYxnOQXyazcNtLNMlfFhCKarJ3DuJtrT747BBw4a2yyeUQHZQNiPd6CkrqYpUaszNggKViPAuCp9RNoHRHD1zy",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHEIkXXT8bKLq_xKQyVD7lkUWrIKccZaaUZT7FVZi0Iv9naU3KUJcq1PuJiAqm0rgzI3RtBpDmpaQKCzekVmXQ8TAj_Wys_TAUG27-SQG95KdgEolAPIqELuuTCFl9Vxt3DMp8j1F1mIZ39&ved=2ahUKEwi-0vTq25uYAxXeGVkFHZV9Gq0QFnoECEYQAQ&uoh=1",
+        "displayed_link": "https://www.descript.com \u203a Tools",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAIVBMVEVHcExlGjllGjn9PDtgGTluHDmZJTpbGDllGjnUMzqzKzp6yVkxAAAAA3RSTlMA2kz-y-TwAAAAqklEQVQokX2TCw7EIAhEqUU-3v_Aq5Z1gbpO06ThBRyBApRLtroKQNmjoQJ_8mYu2AeaAjWIZKrMGTLdS-2XbrDdToQpMyhCYXTKhrpb7kHkwN2ZhLh8sYM4oDJr9GSQVLWKVDV52As_l2cThg654AuSlas9msuuDilPb9HQFza7Tii7WvG8aWS465_BGhofIZ5Ghn7Ykssytfns1mS05b1fcl7N41KffocPby4Ui9WwNsEAAAAASUVORK5CYII.png",
+        "snippet": "Use Descript's Silence Remover to erase pauses and smooth pacing. Remove silence from audio online for free and refine clarity with AI in minutes.",
+        "snippet_highlighted_words": [
+          "Use Descript's Silence Remover"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Use Descript's Silence Remover to erase pauses and smooth pacing. Remove silence from audio online for free and refine clarity with AI in minutes.",
+            "source_info_link": "https://www.google.com/goto?url=CAESawHEIkXXLZJII34hrmz9C7NR79gh0zy24f4viRELVuh5sWO2sKHd9x3uTGdYxnOQXyazcNtLNMlfFhCKarJ3DuJtrT747BBw4a2yyeUQHZQNiPd6CkrqYpUaszNggKViPAuCp9RNoHRHD1zy",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAIVBMVEVHcExlGjllGjn9PDtgGTluHDmZJTpbGDllGjnUMzqzKzp6yVkxAAAAA3RSTlMA2kz-y-TwAAAAqklEQVQokX2TCw7EIAhEqUU-3v_Aq5Z1gbpO06ThBRyBApRLtroKQNmjoQJ_8mYu2AeaAjWIZKrMGTLdS-2XbrDdToQpMyhCYXTKhrpb7kHkwN2ZhLh8sYM4oDJr9GSQVLWKVDV52As_l2cThg654AuSlas9msuuDilPb9HQFza7Tii7WvG8aWS465_BGhofIZ5Ghn7Ykssytfns1mS05b1fcl7N41KffocPby4Ui9WwNsEAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp4BL2dvdG8_dXJsPUNBRVNhd0hFSWtYWExaSklJMzRocm16OUM3TlI3OWdoMHp5MjRmNHZpUkVMVnVoNXNXTzJzS0hkOXgzdVRHZFl4bk9RWHlhemNOdExOTWxmRmhDS2FySjNEdUp0clQ3NDdCQnc0YTJ5eWVVUUhaUU5pUGQ2Q2tycVlwVWFzek5nZ0tWaVBBdUNwOVJOb0hSSEQxenkSBBoCCAAatwcSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCRBwgAEAAYACAAKgoKA2hvdxVzysA_KgkKAnRvFQAAAAAqTwoEYXV0bxUAAAAAGglhdXRvbWF0aWMaDWF1dG9tYXRpY2FsbHkaC2F1dG9tb2JpbGVzGgphdXRvbW90aXZlGgNjYXIaCmF1dG9kZXRlY3QqggEKBmRldGVjdBWl8wg_GgVjaGVjaxoIZGV0ZWN0ZWQaCWRldGVjdGluZxoJZGV0ZWN0aW9uGgdkZXRlY3RzGglkZXRlcm1pbmUaCWRpc2NvdmVyeRoEZmluZBoFc2Vuc2UaB3NlbnNpbmcaCmF1dG9kZXRlY3QaC2l2O3A7ZGV0ZWN0KhwKB3NpbGVuY2UV3nBtQBoMaXY7cDtzaWxlbmNlKgoKA2FuZBUAAAAAKl4KBHRyaW0Vj5NMPxoDY3V0GgdjdXR0aW5nGgdtb2xkaW5nGgVwcnVuZRoHcHJ1bmluZxoHdHJpbW1lZBoIdHJpbW1pbmcaCWl2O3A7dHJpbRoGcmVtb3ZlGgRjbGlwKhQKBGRlYWQV49MwPxoHZGVhZGFpcioaCgNhaXIVy1hEPxoFc3RhcnQaB2RlYWRhaXIqCQoCaW4VAAAAACojCgV2aWRlbxXe_zBAGgZ2aWRlb3MaDXZpZGVvcG9kY2FzdHMqMwoIcG9kY2FzdHMVMeRAPxoHcG9kY2FzdBoKcG9kY2FzdGVycxoNdmlkZW9wb2RjYXN0czKeAS9nb3RvP3VybD1DQUVTYXdIRUlrWFhMWkpJSTM0aHJtejlDN05SNzlnaDB6eTI0ZjR2aVJFTFZ1aDVzV08yc0tIZDl4M3VUR2RZeG5PUVh5YXpjTnRMTk1sZkZoQ0thckozRHVKdHJUNzQ3QkJ3NGEyeXllVVFIWlFOaVBkNkNrcnFZcFVhc3pOZ2dLVmlQQXVDcDlSTm9IUkhEMXp5OitSZW1vdmUgPGI-U2lsZW5jZTwvYj4gZnJvbSBBdWRpbyAtIERlc2NyaXB0Qp0BPGI-VXNlIERlc2NyaXB0JiMzOTtzIFNpbGVuY2UgUmVtb3ZlcjwvYj4gdG8gZXJhc2UgcGF1c2VzIGFuZCBzbW9vdGggcGFjaW5nLiBSZW1vdmUgc2lsZW5jZSBmcm9tIGF1ZGlvIG9ubGluZSBmb3IgZnJlZSBhbmQgcmVmaW5lIGNsYXJpdHkgd2l0aCBBSSBpbiBtaW51dGVzLkoCaW5KAnRvSgNhbmQiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp4BL2dvdG8_dXJsPUNBRVNhd0hFSWtYWExaSklJMzRocm16OUM3TlI3OWdoMHp5MjRmNHZpUkVMVnVoNXNXTzJzS0hkOXgzdVRHZFl4bk9RWHlhemNOdExOTWxmRmhDS2FySjNEdUp0clQ3NDdCQnc0YTJ5eWVVUUhaUU5pUGQ2Q2tycVlwVWFzek5nZ0tWaVBBdUNwOVJOb0hSSEQxenkSBBoCCAAatwcSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCRBwgAEAAYACAAKgoKA2hvdxVzysA_KgkKAnRvFQAAAAAqTwoEYXV0bxUAAAAAGglhdXRvbWF0aWMaDWF1dG9tYXRpY2FsbHkaC2F1dG9tb2JpbGVzGgphdXRvbW90aXZlGgNjYXIaCmF1dG9kZXRlY3QqggEKBmRldGVjdBWl8wg_GgVjaGVjaxoIZGV0ZWN0ZWQaCWRldGVjdGluZxoJZGV0ZWN0aW9uGgdkZXRlY3RzGglkZXRlcm1pbmUaCWRpc2NvdmVyeRoEZmluZBoFc2Vuc2UaB3NlbnNpbmcaCmF1dG9kZXRlY3QaC2l2O3A7ZGV0ZWN0KhwKB3NpbGVuY2UV3nBtQBoMaXY7cDtzaWxlbmNlKgoKA2FuZBUAAAAAKl4KBHRyaW0Vj5NMPxoDY3V0GgdjdXR0aW5nGgdtb2xkaW5nGgVwcnVuZRoHcHJ1bmluZxoHdHJpbW1lZBoIdHJpbW1pbmcaCWl2O3A7dHJpbRoGcmVtb3ZlGgRjbGlwKhQKBGRlYWQV49MwPxoHZGVhZGFpcioaCgNhaXIVy1hEPxoFc3RhcnQaB2RlYWRhaXIqCQoCaW4VAAAAACojCgV2aWRlbxXe_zBAGgZ2aWRlb3MaDXZpZGVvcG9kY2FzdHMqMwoIcG9kY2FzdHMVMeRAPxoHcG9kY2FzdBoKcG9kY2FzdGVycxoNdmlkZW9wb2RjYXN0czKeAS9nb3RvP3VybD1DQUVTYXdIRUlrWFhMWkpJSTM0aHJtejlDN05SNzlnaDB6eTI0ZjR2aVJFTFZ1aDVzV08yc0tIZDl4M3VUR2RZeG5PUVh5YXpjTnRMTk1sZkZoQ0thckozRHVKdHJUNzQ3QkJ3NGEyeXllVVFIWlFOaVBkNkNrcnFZcFVhc3pOZ2dLVmlQQXVDcDlSTm9IUkhEMXp5OitSZW1vdmUgPGI-U2lsZW5jZTwvYj4gZnJvbSBBdWRpbyAtIERlc2NyaXB0Qp0BPGI-VXNlIERlc2NyaXB0JiMzOTtzIFNpbGVuY2UgUmVtb3ZlcjwvYj4gdG8gZXJhc2UgcGF1c2VzIGFuZCBzbW9vdGggcGFjaW5nLiBSZW1vdmUgc2lsZW5jZSBmcm9tIGF1ZGlvIG9ubGluZSBmb3IgZnJlZSBhbmQgcmVmaW5lIGNsYXJpdHkgd2l0aCBBSSBpbiBtaW51dGVzLkoCaW5KAnRvSgNhbmQiAhABSABYAGgA",
+        "source": "Descript"
+      },
+      {
+        "position": 8,
+        "title": "Remove Silence in Premiere Pro With AI",
+        "link": "https://www.google.com/goto?url=CAESoQEBxCJF144ocvJLCMmBKv9n-SwQKb68rIC6zMyJ-WsHqouFr3q53ZyBHxtd53VfK8RowEh1YlH7QHKuuv1exI7RzJvaSmvrjkKxbkKX-l9LSLU4UIQIKbx36DiXQ2Ppy14re80Map99Hoz7V5bkNGdIaQhSpI3jMqE5FgEENkW72ZihQwR8zYpkxmn2dgYcaraTtZT2h2VNEMtS__cdNgNwmQ",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoQEBxCJF1984geTEvOlI7GxybqLsAc72kkW3GLknn5-gr-Clr5FtGfvhGXwhmaizk3VPP7V1TpDHZYO6ifLoOe4HZ95NIEMvDf_JEX41pmAef2ylVQDBHCDkWu0NEDHwTrSsLaJ1EqF8HDrbNCCVsjWKS83WbV-gwyjrgfOjEKmhGGDrzIPB4LoPAhv35CuxWMHQQ3PenBn3Y6JfTaSDVzS6VA&ved=2ahUKEwi-0vTq25uYAxXeGVkFHZV9Gq0QFnoECEcQAQ&uoh=1",
+        "displayed_link": "https://cutback.video \u203a blog \u203a how-to-automatically-re...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAmUlEQVR4AWMYpoCVlZUXSIIpFKC69-d_EGB4AaY0keVy_kNAJMNjENWILOcIlVvEAJY8jGLoTYjcTQaw5AdUC6EaeSGSliiS5RC5OAawZDuqU_uhFoLAi5NAAlPnzw9AANT5AdUjYv9hoApk5yJUrSehcntBdl5DM1cQIvcB5KCfGMFqAg48EyDrgweWUJ_5AmghEEgNyzQFAFObhnpHkQEGAAAAAElFTkSuQmCC.png",
+        "snippet": "Learn how to use AI to automatically detect and remove silence from your audio and video in Premiere Pro. Premiere Assistant helps speed up editing by ...",
+        "snippet_highlighted_words": [
+          "automatically detect and remove silence from your audio and video"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Learn how to use AI to automatically detect and remove silence from your audio and video in Premiere Pro. Premiere Assistant helps speed up editing by ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESoQEBxCJF144ocvJLCMmBKv9n-SwQKb68rIC6zMyJ-WsHqouFr3q53ZyBHxtd53VfK8RowEh1YlH7QHKuuv1exI7RzJvaSmvrjkKxbkKX-l9LSLU4UIQIKbx36DiXQ2Ppy14re80Map99Hoz7V5bkNGdIaQhSpI3jMqE5FgEENkW72ZihQwR8zYpkxmn2dgYcaraTtZT2h2VNEMtS__cdNgNwmQ",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAmUlEQVR4AWMYpoCVlZUXSIIpFKC69-d_EGB4AaY0keVy_kNAJMNjENWILOcIlVvEAJY8jGLoTYjcTQaw5AdUC6EaeSGSliiS5RC5OAawZDuqU_uhFoLAi5NAAlPnzw9AANT5AdUjYv9hoApk5yJUrSehcntBdl5DM1cQIvcB5KCfGMFqAg48EyDrgweWUJ_5AmghEEgNyzQFAFObhnpHkQEGAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "IN"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CugBL2dvdG8_dXJsPUNBRVNvUUVCeENKRjE0NG9jdkpMQ01tQkt2OW4tU3dRS2I2OHJJQzZ6TXlKLVdzSHFvdUZyM3E1M1p5Qkh4dGQ1M1ZmSzhSb3dFaDFZbEg3UUhLdXV2MWV4STdSekp2YVNtdnJqa0t4YmtLWC1sOUxTTFU0VUlRSUtieDM2RGlYUTJQcHkxNHJlODBNYXA5OUhvejdWNWJrTkdkSWFRaFNwSTNqTXFFNUZnRUVOa1c3MlppaFF3Ujh6WXBreG1uMmRnWWNhcmFUdFpUMmgyVk5FTXRTX19jZE5nTndtURIEGgIIABqWCBICCAAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQPAHCAAQABgAIAAqCgoDaG93FUR3pUAqCQoCdG8VAAAAACpPCgRhdXRvFXF5IUAaCWF1dG9tYXRpYxoNYXV0b21hdGljYWxseRoLYXV0b21vYmlsZXMaCmF1dG9tb3RpdmUaA2NhchoKYXV0b2RldGVjdCqCAQoGZGV0ZWN0FRph1T8aBWNoZWNrGghkZXRlY3RlZBoJZGV0ZWN0aW5nGglkZXRlY3Rpb24aB2RldGVjdHMaCWRldGVybWluZRoJZGlzY292ZXJ5GgRmaW5kGgVzZW5zZRoHc2Vuc2luZxoKYXV0b2RldGVjdBoLaXY7cDtkZXRlY3QqHAoHc2lsZW5jZRX9bwdBGgxpdjtwO3NpbGVuY2UqCgoDYW5kFQAAAAAqXgoEdHJpbRUH7oU_GgNjdXQaB2N1dHRpbmcaB21vbGRpbmcaBXBydW5lGgdwcnVuaW5nGgd0cmltbWVkGgh0cmltbWluZxoJaXY7cDt0cmltGgZyZW1vdmUaBGNsaXAqFAoEZGVhZBWqJXlAGgdkZWFkYWlyKhoKA2FpchWqJXlAGgVzdGFydBoHZGVhZGFpcioJCgJpbhUAAAAAKiMKBXZpZGVvFcSLe0AaBnZpZGVvcxoNdmlkZW9wb2RjYXN0cyozCghwb2RjYXN0cxXjn6M_Ggdwb2RjYXN0Ggpwb2RjYXN0ZXJzGg12aWRlb3BvZGNhc3RzMugBL2dvdG8_dXJsPUNBRVNvUUVCeENKRjE0NG9jdkpMQ01tQkt2OW4tU3dRS2I2OHJJQzZ6TXlKLVdzSHFvdUZyM3E1M1p5Qkh4dGQ1M1ZmSzhSb3dFaDFZbEg3UUhLdXV2MWV4STdSekp2YVNtdnJqa0t4YmtLWC1sOUxTTFU0VUlRSUtieDM2RGlYUTJQcHkxNHJlODBNYXA5OUhvejdWNWJrTkdkSWFRaFNwSTNqTXFFNUZnRUVOa1c3MlppaFF3Ujh6WXBreG1uMmRnWWNhcmFUdFpUMmgyVk5FTXRTX19jZE5nTndtUTo3UmVtb3ZlIDxiPlNpbGVuY2U8L2I-IGluIFByZW1pZXJlIFBybyBXaXRoIEFJIC0gQ3V0YmFja0KmAUxlYXJuIGhvdyB0byB1c2UgQUkgdG8gPGI-YXV0b21hdGljYWxseSBkZXRlY3QgYW5kIHJlbW92ZSBzaWxlbmNlIGZyb20geW91ciBhdWRpbyBhbmQgdmlkZW88L2I-IGluIFByZW1pZXJlIFByby4gUHJlbWllcmUgQXNzaXN0YW50IGhlbHBzIHNwZWVkIHVwIGVkaXRpbmcgYnkmbmJzcDsuLi5KAmluSgJ0b0oDYW5kIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CugBL2dvdG8_dXJsPUNBRVNvUUVCeENKRjE0NG9jdkpMQ01tQkt2OW4tU3dRS2I2OHJJQzZ6TXlKLVdzSHFvdUZyM3E1M1p5Qkh4dGQ1M1ZmSzhSb3dFaDFZbEg3UUhLdXV2MWV4STdSekp2YVNtdnJqa0t4YmtLWC1sOUxTTFU0VUlRSUtieDM2RGlYUTJQcHkxNHJlODBNYXA5OUhvejdWNWJrTkdkSWFRaFNwSTNqTXFFNUZnRUVOa1c3MlppaFF3Ujh6WXBreG1uMmRnWWNhcmFUdFpUMmgyVk5FTXRTX19jZE5nTndtURIEGgIIABqWCBICCAAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQPAHCAAQABgAIAAqCgoDaG93FUR3pUAqCQoCdG8VAAAAACpPCgRhdXRvFXF5IUAaCWF1dG9tYXRpYxoNYXV0b21hdGljYWxseRoLYXV0b21vYmlsZXMaCmF1dG9tb3RpdmUaA2NhchoKYXV0b2RldGVjdCqCAQoGZGV0ZWN0FRph1T8aBWNoZWNrGghkZXRlY3RlZBoJZGV0ZWN0aW5nGglkZXRlY3Rpb24aB2RldGVjdHMaCWRldGVybWluZRoJZGlzY292ZXJ5GgRmaW5kGgVzZW5zZRoHc2Vuc2luZxoKYXV0b2RldGVjdBoLaXY7cDtkZXRlY3QqHAoHc2lsZW5jZRX9bwdBGgxpdjtwO3NpbGVuY2UqCgoDYW5kFQAAAAAqXgoEdHJpbRUH7oU_GgNjdXQaB2N1dHRpbmcaB21vbGRpbmcaBXBydW5lGgdwcnVuaW5nGgd0cmltbWVkGgh0cmltbWluZxoJaXY7cDt0cmltGgZyZW1vdmUaBGNsaXAqFAoEZGVhZBWqJXlAGgdkZWFkYWlyKhoKA2FpchWqJXlAGgVzdGFydBoHZGVhZGFpcioJCgJpbhUAAAAAKiMKBXZpZGVvFcSLe0AaBnZpZGVvcxoNdmlkZW9wb2RjYXN0cyozCghwb2RjYXN0cxXjn6M_Ggdwb2RjYXN0Ggpwb2RjYXN0ZXJzGg12aWRlb3BvZGNhc3RzMugBL2dvdG8_dXJsPUNBRVNvUUVCeENKRjE0NG9jdkpMQ01tQkt2OW4tU3dRS2I2OHJJQzZ6TXlKLVdzSHFvdUZyM3E1M1p5Qkh4dGQ1M1ZmSzhSb3dFaDFZbEg3UUhLdXV2MWV4STdSekp2YVNtdnJqa0t4YmtLWC1sOUxTTFU0VUlRSUtieDM2RGlYUTJQcHkxNHJlODBNYXA5OUhvejdWNWJrTkdkSWFRaFNwSTNqTXFFNUZnRUVOa1c3MlppaFF3Ujh6WXBreG1uMmRnWWNhcmFUdFpUMmgyVk5FTXRTX19jZE5nTndtUTo3UmVtb3ZlIDxiPlNpbGVuY2U8L2I-IGluIFByZW1pZXJlIFBybyBXaXRoIEFJIC0gQ3V0YmFja0KmAUxlYXJuIGhvdyB0byB1c2UgQUkgdG8gPGI-YXV0b21hdGljYWxseSBkZXRlY3QgYW5kIHJlbW92ZSBzaWxlbmNlIGZyb20geW91ciBhdWRpbyBhbmQgdmlkZW88L2I-IGluIFByZW1pZXJlIFByby4gUHJlbWllcmUgQXNzaXN0YW50IGhlbHBzIHNwZWVkIHVwIGVkaXRpbmcgYnkmbmJzcDsuLi5KAmluSgJ0b0oDYW5kIgIQAUgAWABoAA",
+        "source": "Cutback",
+        "read_more_link": "https://www.google.com/goto?url=CAES6wEBxCJF16u0ppyX_IFg88nAA6eWw3gtAks1DN_0dE808SYuHK_a3XzfojI8SzLmgAjmMFnqOAX9rGxWmdyksbPMtQI-vVu-Xp-y9EmbS6RuEm4Rg1SXJI7lizGFXA9DWzINOa5CVcjXbsHo6KOGV5ZGfKdZQs7qSaYVpXeEWlAjZvIj9X5cXifajXENpXujrMDcekpqQvD0A8rZIx5TMAy2U8S0NChOniZ7XHL7olG6abbwXciA1S4EdGVhvcXiGoItb7NrWhwPlSYq0vwag8PhF1JAs5pBEwhwQrd6w4do0Ozyx62Zt8it2Ua4&gsessionid=lKrYeVT7BzGng7IG__FRtAyKU035J_NLKFE46-LgnM3l0qxCwaf0nw"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "Automatically remove silence from audio free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDiHgjSprkClfxAyaafKKGPNd34f8w:1795355341314&q=Automatically+remove+silence+from+audio+free&sa=X&ved=2ahUKEwi-0vTq25uYAxXeGVkFHZV9Gq0Q1QJ6BAhAEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Automatically+remove+silence+from+audio+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Audio silence remover online free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDiHgjSprkClfxAyaafKKGPNd34f8w:1795355341314&q=Audio+silence+remover+online+free&sa=X&ved=2ahUKEwi-0vTq25uYAxXeGVkFHZV9Gq0Q1QJ6BAhFEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Audio+silence+remover+online+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Notevibes silence Remover",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDiHgjSprkClfxAyaafKKGPNd34f8w:1795355341314&q=Notevibes+silence+Remover&sa=X&ved=2ahUKEwi-0vTq25uYAxXeGVkFHZV9Gq0Q1QJ6BAhEEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Notevibes+silence+Remover"
+      },
+      {
+        "block_position": 1,
+        "query": "Remove silence from video",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDiHgjSprkClfxAyaafKKGPNd34f8w:1795355341314&q=Remove+silence+from+video&sa=X&ved=2ahUKEwi-0vTq25uYAxXeGVkFHZV9Gq0Q1QJ6BAhDEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Remove+silence+from+video"
+      },
+      {
+        "block_position": 1,
+        "query": "AI silence remover from audio",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDiHgjSprkClfxAyaafKKGPNd34f8w:1795355341314&q=AI+silence+remover+from+audio&sa=X&ved=2ahUKEwi-0vTq25uYAxXeGVkFHZV9Gq0Q1QJ6BAhBEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=AI+silence+remover+from+audio"
+      },
+      {
+        "block_position": 1,
+        "query": "Free silence remover from audio",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDiHgjSprkClfxAyaafKKGPNd34f8w:1795355341314&q=Free+silence+remover+from+audio&sa=X&ved=2ahUKEwi-0vTq25uYAxXeGVkFHZV9Gq0Q1QJ6BAg_EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Free+silence+remover+from+audio"
+      },
+      {
+        "block_position": 1,
+        "query": "Submind audio silence remover",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDiHgjSprkClfxAyaafKKGPNd34f8w:1795355341314&q=Submind+audio+silence+remover&sa=X&ved=2ahUKEwi-0vTq25uYAxXeGVkFHZV9Gq0Q1QJ6BAhCEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Submind+audio+silence+remover"
+      },
+      {
+        "block_position": 1,
+        "query": "Automatically remove silence from video free online",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDiHgjSprkClfxAyaafKKGPNd34f8w:1795355341314&q=Automatically+remove+silence+from+video+free+online&sa=X&ved=2ahUKEwi-0vTq25uYAxXeGVkFHZV9Gq0Q1QJ6BAg-EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Automatically+remove+silence+from+video+free+online"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=How+to+auto-detect+silence+and+trim+dead+air+in+video+podcasts&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDiHgjSprkClfxAyaafKKGPNd34f8w:1795355341314&ei=zfICa_63Et6z5NoPlfvp6Ao&start=10&sa=N&sstk=AYl2yk9Fcuk1mZtO2ltorrBNxqjfGy0IPbA-EZWJPsduxE_qiDQsRJNxxDJQ2b7jRtYrurc-TMRxWNxSeEgN2xdGP10Z-eyK2Zai5Q&ved=2ahUKEwi-0vTq25uYAxXeGVkFHZV9Gq0Q8NMDegQIPBAU",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=How+to+auto-detect+silence+and+trim+dead+air+in+video+podcasts&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDiHgjSprkClfxAyaafKKGPNd34f8w:1795355341314&ei=zfICa_63Et6z5NoPlfvp6Ao&start=10&sa=N&sstk=AYl2yk9Fcuk1mZtO2ltorrBNxqjfGy0IPbA-EZWJPsduxE_qiDQsRJNxxDJQ2b7jRtYrurc-TMRxWNxSeEgN2xdGP10Z-eyK2Zai5Q&ved=2ahUKEwi-0vTq25uYAxXeGVkFHZV9Gq0Q8tMDegQIPBAE",
+        "3": "https://www.google.com/search?q=How+to+auto-detect+silence+and+trim+dead+air+in+video+podcasts&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDiHgjSprkClfxAyaafKKGPNd34f8w:1795355341314&ei=zfICa_63Et6z5NoPlfvp6Ao&start=20&sa=N&sstk=AYl2yk9Fcuk1mZtO2ltorrBNxqjfGy0IPbA-EZWJPsduxE_qiDQsRJNxxDJQ2b7jRtYrurc-TMRxWNxSeEgN2xdGP10Z-eyK2Zai5Q&ved=2ahUKEwi-0vTq25uYAxXeGVkFHZV9Gq0Q8tMDegQIPBAG",
+        "4": "https://www.google.com/search?q=How+to+auto-detect+silence+and+trim+dead+air+in+video+podcasts&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDiHgjSprkClfxAyaafKKGPNd34f8w:1795355341314&ei=zfICa_63Et6z5NoPlfvp6Ao&start=30&sa=N&sstk=AYl2yk9Fcuk1mZtO2ltorrBNxqjfGy0IPbA-EZWJPsduxE_qiDQsRJNxxDJQ2b7jRtYrurc-TMRxWNxSeEgN2xdGP10Z-eyK2Zai5Q&ved=2ahUKEwi-0vTq25uYAxXeGVkFHZV9Gq0Q8tMDegQIPBAI",
+        "5": "https://www.google.com/search?q=How+to+auto-detect+silence+and+trim+dead+air+in+video+podcasts&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDiHgjSprkClfxAyaafKKGPNd34f8w:1795355341314&ei=zfICa_63Et6z5NoPlfvp6Ao&start=40&sa=N&sstk=AYl2yk9Fcuk1mZtO2ltorrBNxqjfGy0IPbA-EZWJPsduxE_qiDQsRJNxxDJQ2b7jRtYrurc-TMRxWNxSeEgN2xdGP10Z-eyK2Zai5Q&ved=2ahUKEwi-0vTq25uYAxXeGVkFHZV9Gq0Q8tMDegQIPBAK",
+        "6": "https://www.google.com/search?q=How+to+auto-detect+silence+and+trim+dead+air+in+video+podcasts&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDiHgjSprkClfxAyaafKKGPNd34f8w:1795355341314&ei=zfICa_63Et6z5NoPlfvp6Ao&start=50&sa=N&sstk=AYl2yk9Fcuk1mZtO2ltorrBNxqjfGy0IPbA-EZWJPsduxE_qiDQsRJNxxDJQ2b7jRtYrurc-TMRxWNxSeEgN2xdGP10Z-eyK2Zai5Q&ved=2ahUKEwi-0vTq25uYAxXeGVkFHZV9Gq0Q8tMDegQIPBAM",
+        "7": "https://www.google.com/search?q=How+to+auto-detect+silence+and+trim+dead+air+in+video+podcasts&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDiHgjSprkClfxAyaafKKGPNd34f8w:1795355341314&ei=zfICa_63Et6z5NoPlfvp6Ao&start=60&sa=N&sstk=AYl2yk9Fcuk1mZtO2ltorrBNxqjfGy0IPbA-EZWJPsduxE_qiDQsRJNxxDJQ2b7jRtYrurc-TMRxWNxSeEgN2xdGP10Z-eyK2Zai5Q&ved=2ahUKEwi-0vTq25uYAxXeGVkFHZV9Gq0Q8tMDegQIPBAO",
+        "8": "https://www.google.com/search?q=How+to+auto-detect+silence+and+trim+dead+air+in+video+podcasts&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDiHgjSprkClfxAyaafKKGPNd34f8w:1795355341314&ei=zfICa_63Et6z5NoPlfvp6Ao&start=70&sa=N&sstk=AYl2yk9Fcuk1mZtO2ltorrBNxqjfGy0IPbA-EZWJPsduxE_qiDQsRJNxxDJQ2b7jRtYrurc-TMRxWNxSeEgN2xdGP10Z-eyK2Zai5Q&ved=2ahUKEwi-0vTq25uYAxXeGVkFHZV9Gq0Q8tMDegQIPBAQ",
+        "9": "https://www.google.com/search?q=How+to+auto-detect+silence+and+trim+dead+air+in+video+podcasts&sca_esv=c653c500caaf7fef&hl=en&gl=in&sxsrf=AKL5yDiHgjSprkClfxAyaafKKGPNd34f8w:1795355341314&ei=zfICa_63Et6z5NoPlfvp6Ao&start=80&sa=N&sstk=AYl2yk9Fcuk1mZtO2ltorrBNxqjfGy0IPbA-EZWJPsduxE_qiDQsRJNxxDJQ2b7jRtYrurc-TMRxWNxSeEgN2xdGP10Z-eyK2Zai5Q&ved=2ahUKEwi-0vTq25uYAxXeGVkFHZV9Gq0Q8tMDegQIPBAS"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+auto-detect+silence+and+trim+dead+air+in+video+podcasts&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+auto-detect+silence+and+trim+dead+air+in+video+podcasts&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+auto-detect+silence+and+trim+dead+air+in+video+podcasts&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+auto-detect+silence+and+trim+dead+air+in+video+podcasts&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+auto-detect+silence+and+trim+dead+air+in+video+podcasts&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+auto-detect+silence+and+trim+dead+air+in+video+podcasts&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+auto-detect+silence+and+trim+dead+air+in+video+podcasts&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+auto-detect+silence+and+trim+dead+air+in+video+podcasts&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+auto-detect+silence+and+trim+dead+air+in+video+podcasts&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+auto-detect+silence+and+trim+dead+air+in+video+podcasts&start=80"
+      }
+    }
+  },
+  "error_details": null
+}

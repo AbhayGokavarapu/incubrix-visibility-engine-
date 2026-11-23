@@ -1,0 +1,475 @@
+{
+  "measurement_id": "2392853009f9",
+  "question_id": "Q090",
+  "timestamp_utc": "2026-11-22T13:50:49.264833+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "How to auto crop horizontal video into vertical video with two faces",
+  "market": "US",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://www.opus.pro/tools/vertical-video-maker",
+    "https://www.reddit.com/r/premiere/comments/1q8568l/what_is_the_easiest_way_to_turn_a_horizontal/",
+    "https://www.google.com/goto?url=CAESkwEBxCJF1_ekfVhXpS72gBvvMZE60_mLPLEPTN0f1F91RtQ6HPdfv7iAI0ZiYbLhE1fkkZm_AqPUrCtooi9SQBELaB7BB1hfk7Y06ApsMoY6pTtgvECLR9XqrpsyYoJD_Oh3wXkdVi455lpmYPonPRfjgnLAU3CMhweSk1c94DoBeuG7IYBsC1ZoH9Ls-mcfneFK_LU",
+    "https://www.google.com/goto?url=CAESggEBxCJF1-p3-iE7OwlFE1RDRl4_AUOAgX9prr8P5Mt7tyaeN1CqYOWPI740Zrqg-fIs7ICvsEqu8TF1ATo6sL0walBGMlvl8lQxRPzQAAeF6-nh-qSZzJbzz8YWb8fmVaS5yJ4EXurbiSVyqzOHcPjEZhwEj4Va8VJgk9McxUtaX4bI&gsessionid=jFh5ltETVKZ3V3S9EHiUXp_S_6idE3Or4DliO8LfzN5s8gzpAdLXwQ",
+    "https://www.google.com/goto?url=CAESdwHEIkXXhbfaXezGxXACdmAIEpT4uwAIeP9N5voXQAh7bskTWQfGmdK-C8dmMkCfHFsS-Mip6ePqCrc8RK0PQaybyEanZWvbCDTLuS4F5mQS7Pwcv8GBFfb8nhidyUesiLzeJLmTjdL8zsYZZLl0M1fQqqu2BX_D",
+    "https://www.google.com/goto?url=CAESnAEBxCJF18Djpk52wuHO_DyzK0f24b0AIHZqMNdMx3kHH-iZDFnANvf-ig1DlJLvz4-WchRcpvjjWA9qq31diKxWcNmy8mPrhg100lOmnmDBaybzUTWduyREcNdalf0_pcFxpyrN4-0g1PfvLb74vexRaPOaIK3P5tLfxuJSuH-NrKfvQVJ0u1I8klSdLIbV5cew0XijmVj2mYJPogE",
+    "https://www.google.com/goto?url=CAESlwEBxCJF15B3h0cF5KKaZTsDGhPg2BQ6bN9ExmRIq0vW8iFkzbZyb6OIfm8MH4N5Q95xYff_IDZ83rMmr1x-vmi9krYh8UsTiftKv5Yup8Q1d48AxJcRlulpTFth-QntIiceiS1w2YuFG34KHkJoV7-38k1mmfyVcJqVYvM1qGJWr8w8tQ8Cur1r4fBUis0vDIzmbX0ugj5v"
+  ],
+  "raw_text_summary": "Vertical Video Maker - Create Vertical Clips Fast with AI OpusClip turns horizontal, square and cinematic videos into vertical. You can upload a video in any format, such as horizontal, OpusClip crops ... What is the easiest way to turn a horizontal video into ... What is the easiest way to turn a horizontal video into a vertical video and then export it as a vertical video? How do I do this?/Workflow ... How to Create Vertical Video From Horizontal Without Cropping The solution is ReframeX's split screen which stacks both speakers vertically, keeping both faces visible in a native 9:16 frame. Convert Horizontal Videos to Vertical Easily with Detail I. Order frame button and toggle it on for both faces. 1. Switch the Action 6 to the custom 1:1 ratio (square) mode. 2. Frame your subject ... Convert Horizontal Video to Vertical with AI | Luma Convert horizontal video to vertical with Reframe with Luma. Turn 16:9 footage into 9:16 for TikTok, Reels, and Shorts with smart AI framing, no reshoots. Convert Horizontal Video to Vertical (No Cutoffs) To convert a horizontal video to vertical, change its frame from 16:9 to 9:16 (1080 x 1920) in one of three ways: crop a fixed vertical slice, ... 5 apps to auto-reframe / smart crop horizontal to vertical ... The generally accepted best way to do this is by capturing horizontal video at a 16:9 aspect ratio, then converting it to formats like square (1 ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f3326b036f38bbf64cec",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/yrP9AphQLLN59aCRYrKgEQExi2UFmhLxAD-FIeVDUcY/6b02f3326b036f38bbf64cec.json",
+      "markdown_endpoint": "https://serpapi.com/searches/yrP9AphQLLN59aCRYrKgEQExi2UFmhLxAD-FIeVDUcY/6b02f3326b036f38bbf64cec.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/yrP9AphQLLN59aCRYrKgEQExi2UFmhLxAD-FIeVDUcY/6b02f3326b036f38bbf64cec.json_with_pixel_position",
+      "created_at": "2026-11-22 13:50:42 UTC",
+      "processed_at": "2026-11-22 13:50:42 UTC",
+      "google_url": "https://www.google.com/search?q=How+to+auto+crop+horizontal+video+into+vertical+video+with+two+faces&oq=How+to+auto+crop+horizontal+video+into+vertical+video+with+two+faces&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/yrP9AphQLLN59aCRYrKgEQExi2UFmhLxAD-FIeVDUcY/6b02f3326b036f38bbf64cec.html",
+      "total_time_taken": 6.1
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "How to auto crop horizontal video into vertical video with two faces",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "How to auto crop horizontal video into vertical video with two faces",
+      "total_results": 114,
+      "time_taken_displayed": 0.2,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "How to Turn Horizontal Video into Vertical",
+        "link": "https://www.google.com/goto?url=CAEScQHEIkXXFmRFyvv5_u0YN_ALOMkn4FTbeRNJ9cnE6yFgEagG9CZHSsXy4fUKEuWyeYjCCLzaPxnPrPapMaeSELk1JvsE2w_ayZcf1ejJAfiWwcgZZq7clZ79ZyFesnRvnLOm4uWtKFNihiuRNxaK5_gP&gsessionid=jFh5ltETVKZ3V3S9EHiUXp_S_6idE3Or4DliO8LfzN5s8gzpAdLXwQ",
+        "thumbnail": "https://serpapi.com/searches/6b02f3326b036f38bbf64cec/images/hUsB5esStPzZuCFOBHWxxDfVKlxXrU1Ib83GH9kQ4z0.webp",
+        "channel": "Movavi Vlog: Editing tips to show the real you",
+        "duration": "2:22",
+        "platform": "YouTube",
+        "date": "Mar 25, 2026",
+        "snippet": "Learn how Moavi's Autocrop feature automatically converts horizontal videos to vertical, keeping the subject centered for multi-platform content.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTS9h8JLiDemzXSz1zYDWlb3Hk_ShPunnDoGg"
+      },
+      {
+        "position": 2,
+        "title": "Horizontal to Vertical: The Easiest Way to Resize Videos for ...",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXZ9nsk4AWx_z517s4gI7ciXuK0b3oNyZD1bzF91IxOMs1W-z6jHBKYw2fpT8D0zYOuD0xeBXh0qtQi1spjpKJybYGUgvOyTHi1pdKQL1QWyDU8dh_BBSLt1CkbhuRitf4eYe4&gsessionid=jFh5ltETVKZ3V3S9EHiUXp_S_6idE3Or4DliO8LfzN5s8gzpAdLXwQ",
+        "thumbnail": "https://serpapi.com/searches/6b02f3326b036f38bbf64cec/images/E15tv20--khUvxpnLveZCRAQVcK51wYMcAlmP1qq2Wc.webp",
+        "channel": "Nora Jartan",
+        "duration": "3:16",
+        "platform": "YouTube",
+        "date": "Feb 15, 2025",
+        "snippet": "Learn how to easily convert horizontal videos to vertical for social media using Premiere Pro's Auto Reframe sequence feature.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRrM7E7stdtXAUemO8YDSYZUauzJbiyvKO5Ug"
+      },
+      {
+        "position": 3,
+        "title": "5 ways to edit Vertical Videos from Horizontal Videos",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXX-ZP8eEmXeLgYr80CUuijraSBUSTu5bKeM6GiYgRippUnliZFLM8a58QaBuOM-fuaXT2w5SBhOzbyD1lowKZ85mRK1y9V-bZjnyGzv7N6A9uFWOeKnz8MTa9THYV-be9CMMAc&gsessionid=jFh5ltETVKZ3V3S9EHiUXp_S_6idE3Or4DliO8LfzN5s8gzpAdLXwQ",
+        "thumbnail": "https://serpapi.com/searches/6b02f3326b036f38bbf64cec/images/CnQiCWRbeaHFiBv3QbTkD3UlnxhLp9wupyXFLwe4JbA.webp",
+        "channel": "Shelly Saves the Day",
+        "duration": "7:25",
+        "platform": "YouTube",
+        "date": "May 8, 2024",
+        "snippet": "Repurpose horizontal videos into vertical ones using phone editing apps, Final Cut Pro, Keynote, InShot, or Descript."
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "How to crop horizontal video to vertical?",
+        "type": "ai_overview",
+        "page_token": "ROGdDHicHdBLjpswGABgdQ4zywkeRhklUlSJgkPQ2C7gR_Bm5BgIiX8enbhBybJn6aqH6QF6jV6gUr8jfD9-wmlwfz5dO--ny3qxmOf56TiOR2ie7NgvzOU22IU1AAdj3Xr5ukSfW7tJvu-iL992US6KpIIaFMdljmjLARwRGTtA8mIV1mLbfT0klDAe7aialg0UgxSr1pxly1N6pz2dKOix6F1geiSMykYZal6cJc3PMB8wdsKtuIjpVZ2rgEsSKpiAKriSwHnGQZChY-Ye7ZsTIoXKyBuXo1SrjCSgSgDPtijjN4TFQH0dSl7t65DFNC1SDXao7qWbLgYVW4Mmx-TErMyKpKvZPkBxxTvRCD_zAA0c47xJ5c3ucUSi8ZSLjpFEhGWKVeHqZRlnyio6UwDNUh1LrJFOxud60EbPj629bsLH_5-b97b36-ljPP6yH43xTf1u_G_38Pf5H2hcis4",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ROGdDHicHdBLjpswGABgdQ4zywkeRhklUlSJgkPQ2C7gR_Bm5BgIiX8enbhBybJn6aqH6QF6jV6gUr8jfD9-wmlwfz5dO--ny3qxmOf56TiOR2ie7NgvzOU22IU1AAdj3Xr5ukSfW7tJvu-iL992US6KpIIaFMdljmjLARwRGTtA8mIV1mLbfT0klDAe7aialg0UgxSr1pxly1N6pz2dKOix6F1geiSMykYZal6cJc3PMB8wdsKtuIjpVZ2rgEsSKpiAKriSwHnGQZChY-Ye7ZsTIoXKyBuXo1SrjCSgSgDPtijjN4TFQH0dSl7t65DFNC1SDXao7qWbLgYVW4Mmx-TErMyKpKvZPkBxxTvRCD_zAA0c47xJ5c3ucUSi8ZSLjpFEhGWKVeHqZRlnyio6UwDNUh1LrJFOxud60EbPj629bsLH_5-b97b36-ljPP6yH43xTf1u_G_38Pf5H2hcis4",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVRVUXpPR3h0TVZFNGNuSkNURzFQY1V4eWFWaGpjM0F4ZEV4V2NtaHRibU5sUldSdFpWVXpYMHh4ZVdOUVNEWTFlVTUwVWt3d1NURlhPRGhKVFVOblVtaEtVVWxCZW01Q09YY3hiVE14Ylhvek5WcEpRakl4WnpsT2R4SVhUbDlOUTJFNFZIbExjRTlOWjB4UlVIaDFjbkZ4UVRBYUlrRklUakJGTjBWdllTMXRjRmxTY0UxNk1WOU9PRWhrWWt0bmQzazNaakZOY0VFIiwiZmN2IjoiMyIsImVpIjoiTl9NQ2E4VHlLcE9NZ0xRUHh1cnFxQTAiLCJxYyI6ImMtTnl5Y2d2VnlqSlYwZ3NCUkxKUmZrRkNobjVSWmxWLVhrbGlUa0taWmtwcWZrS21YbEFxYkxVb3BMTVpMaFllV1pKaGtKSmViNUNXbUp5YXJFQVEtM1RUZXoyQUEiLCJxdWVzdGlvbiI6IkhvdyB0byBjcm9wIGhvcml6b250YWwgdmlkZW8gdG8gdmVydGljYWw/IiwibGsiOiJHaWhvYjNjZ2RHOGdZM0p2Y0NCb2IzSnBlbTl1ZEdGc0lIWnBaR1Z2SUhSdklIWmxjblJwWTJGcyIsImJzIjoiYzVXUU1RN0NNQXhGeFpxSnVaT0ZHSUFGNk1RV1FSZlkyRml4MGtBczJqaEswMVp3QTI1TkN3aUdJZ1RydDktVF9jVk9qTmRjUTJCUW5oMFk5blJoR3pDRGlsTE43YURTUHBEQ1RNYVRhR1ItWEJaN3NXakZDaTFzSUpUZUFuWUJzZzJDTC1pUnluZ1lEYjY1SDRuUVlwWTA5ak9YY01qSXRaNzc1c0Z6RGhuYXRGRG9kQXM2OXNFakJSblBvNm42anhIWG5sZzlLOHJ4cER0UEZPLTcyQUp0RFZzTk5RWERaYmozNU1nZVpaeEVTX083eFgyMDlIczMiLCJpZCI6ImZjX05fTUNhOFR5S3BPTWdMUVB4dXJxcUEwXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVRVUXpPR3h0TVZFNGNuSkNURzFQY1V4eWFWaGpjM0F4ZEV4V2NtaHRibU5sUldSdFpWVXpYMHh4ZVdOUVNEWTFlVTUwVWt3d1NURlhPRGhKVFVOblVtaEtVVWxCZW01Q09YY3hiVE14Ylhvek5WcEpRakl4WnpsT2R4SVhUbDlOUTJFNFZIbExjRTlOWjB4UlVIaDFjbkZ4UVRBYUlrRklUakJGTjBWdllTMXRjRmxTY0UxNk1WOU9PRWhrWWt0bmQzazNaakZOY0VFIiwiZmN2IjoiMyIsImVpIjoiTl9NQ2E4VHlLcE9NZ0xRUHh1cnFxQTAiLCJxYyI6ImMtTnl5Y2d2VnlqSlYwZ3NCUkxKUmZrRkNobjVSWmxWLVhrbGlUa0taWmtwcWZrS21YbEFxYkxVb3BMTVpMaFllV1pKaGtKSmViNUNXbUp5YXJFQVEtM1RUZXoyQUEiLCJxdWVzdGlvbiI6IkhvdyB0byBjcm9wIGhvcml6b250YWwgdmlkZW8gdG8gdmVydGljYWw%2FIiwibGsiOiJHaWhvYjNjZ2RHOGdZM0p2Y0NCb2IzSnBlbTl1ZEdGc0lIWnBaR1Z2SUhSdklIWmxjblJwWTJGcyIsImJzIjoiYzVXUU1RN0NNQXhGeFpxSnVaT0ZHSUFGNk1RV1FSZlkyRml4MGtBczJqaEswMVp3QTI1TkN3aUdJZ1RydDktVF9jVk9qTmRjUTJCUW5oMFk5blJoR3pDRGlsTE43YURTUHBEQ1RNYVRhR1ItWEJaN3NXakZDaTFzSUpUZUFuWUJzZzJDTC1pUnluZ1lEYjY1SDRuUVlwWTA5ak9YY01qSXRaNzc1c0Z6RGhuYXRGRG9kQXM2OXNFakJSblBvNm42anhIWG5sZzlLOHJ4cER0UEZPLTcyQUp0RFZzTk5RWERaYmozNU1nZVpaeEVTX083eFgyMDlIczMiLCJpZCI6ImZjX05fTUNhOFR5S3BPTWdMUVB4dXJxcUEwXzUifQ%3D%3D"
+      },
+      {
+        "question": "How can I turn a horizontal video into a vertical video?",
+        "type": "ai_overview",
+        "page_token": "nfvaR3icHdBLjtowAABQtYeZ5eB8oB0kVMkkJhPJjmJs57MZJXbAJM4HMGSY5Zylqx6mB-g1eoFKfUd4nz_Naej-fLlra6frerGY5_n5OI5H0zzLsV9U18cgF7Iypq5kt159Wzk_DnIT3l7h9vwKU07DwiiT5TRPc7KsA2IThkw50AmHKkpCsk-7aaaCIMXJlfTCFJ29FdkLrjvf4v79VHJ0KV1xrtuY4p2_bHbiUWdT2_TkxoD6wK1xMlQeqqC8Fq4z0jB004EUpadhwrFL2XFZdnpWXJ8Zg5gioxNGQe1NUd2hgEaxnwm5lEivGHhxU0Na1fvuXnz3iAdBGcYgE1AnAYVVG2_5EMNQqyQHTlAwzRtuZwacgSGUNpF4yBxBDMdTynWCQ-7td-9UBMQwQFeVayKyU1Yi6AuHf1TAuTNHb9X8dJD3jff0_3PzdujterqMx1_y0lS2UW-V_d19_ev-Azy2iAE",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=nfvaR3icHdBLjtowAABQtYeZ5eB8oB0kVMkkJhPJjmJs57MZJXbAJM4HMGSY5Zylqx6mB-g1eoFKfUd4nz_Naej-fLlra6frerGY5_n5OI5H0zzLsV9U18cgF7Iypq5kt159Wzk_DnIT3l7h9vwKU07DwiiT5TRPc7KsA2IThkw50AmHKkpCsk-7aaaCIMXJlfTCFJ29FdkLrjvf4v79VHJ0KV1xrtuY4p2_bHbiUWdT2_TkxoD6wK1xMlQeqqC8Fq4z0jB004EUpadhwrFL2XFZdnpWXJ8Zg5gioxNGQe1NUd2hgEaxnwm5lEivGHhxU0Na1fvuXnz3iAdBGcYgE1AnAYVVG2_5EMNQqyQHTlAwzRtuZwacgSGUNpF4yBxBDMdTynWCQ-7td-9UBMQwQFeVayKyU1Yi6AuHf1TAuTNHb9X8dJD3jff0_3PzdujterqMx1_y0lS2UW-V_d19_ev-Azy2iAE",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVRVUXpPR3h0TVZFNGNuSkNURzFQY1V4eWFWaGpjM0F4ZEV4V2NtaHRibU5sUldSdFpWVXpYMHh4ZVdOUVNEWTFlVTUwVWt3d1NURlhPRGhKVFVOblVtaEtVVWxCZW01Q09YY3hiVE14Ylhvek5WcEpRakl4WnpsT2R4SVhUbDlOUTJFNFZIbExjRTlOWjB4UlVIaDFjbkZ4UVRBYUlrRklUakJGTjBWdllTMXRjRmxTY0UxNk1WOU9PRWhrWWt0bmQzazNaakZOY0VFIiwiZmN2IjoiMyIsImVpIjoiTl9NQ2E4VHlLcE9NZ0xRUHh1cnFxQTAiLCJxYyI6ImMtTnl5Y2d2VnlqSlYwZ3NCUkxKUmZrRkNobjVSWmxWLVhrbGlUa0taWmtwcWZrS21YbEFxYkxVb3BMTVpMaFllV1pKaGtKSmViNUNXbUp5YXJFQVEtM1RUZXoyQUEiLCJxdWVzdGlvbiI6IkhvdyBjYW4gSSB0dXJuIGEgaG9yaXpvbnRhbCB2aWRlbyBpbnRvIGEgdmVydGljYWwgdmlkZW8/IiwibGsiOiJjNU5TeXNndnlxekt6eXRKekZFb3kweEp6VmNveVZjb1N5MHF5VXlHaVFBQSIsImJzIjoiYzVXUU1RN0NNQXhGeFpxSnVaT0ZHSUFGNk1RV1FSZlkyRml4MGtBczJqaEswMVp3QTI1TkN3aUdJZ1RydDktVF9jVk9qTmRjUTJCUW5oMFk5blJoR3pDRGlsTE43YURTUHBEQ1RNYVRhR1ItWEJaN3NXakZDaTFzSUpUZUFuWUJzZzJDTC1pUnluZ1lEYjY1SDRuUVlwWTA5ak9YY01qSXRaNzc1c0Z6RGhuYXRGRG9kQXM2OXNFakJSblBvNm42anhIWG5sZzlLOHJ4cER0UEZPLTcyQUp0RFZzTk5RWERaYmozNU1nZVpaeEVTX083eFgyMDlIczMiLCJpZCI6ImZjX05fTUNhOFR5S3BPTWdMUVB4dXJxcUEwXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVRVUXpPR3h0TVZFNGNuSkNURzFQY1V4eWFWaGpjM0F4ZEV4V2NtaHRibU5sUldSdFpWVXpYMHh4ZVdOUVNEWTFlVTUwVWt3d1NURlhPRGhKVFVOblVtaEtVVWxCZW01Q09YY3hiVE14Ylhvek5WcEpRakl4WnpsT2R4SVhUbDlOUTJFNFZIbExjRTlOWjB4UlVIaDFjbkZ4UVRBYUlrRklUakJGTjBWdllTMXRjRmxTY0UxNk1WOU9PRWhrWWt0bmQzazNaakZOY0VFIiwiZmN2IjoiMyIsImVpIjoiTl9NQ2E4VHlLcE9NZ0xRUHh1cnFxQTAiLCJxYyI6ImMtTnl5Y2d2VnlqSlYwZ3NCUkxKUmZrRkNobjVSWmxWLVhrbGlUa0taWmtwcWZrS21YbEFxYkxVb3BMTVpMaFllV1pKaGtKSmViNUNXbUp5YXJFQVEtM1RUZXoyQUEiLCJxdWVzdGlvbiI6IkhvdyBjYW4gSSB0dXJuIGEgaG9yaXpvbnRhbCB2aWRlbyBpbnRvIGEgdmVydGljYWwgdmlkZW8%2FIiwibGsiOiJjNU5TeXNndnlxekt6eXRKekZFb3kweEp6VmNveVZjb1N5MHF5VXlHaVFBQSIsImJzIjoiYzVXUU1RN0NNQXhGeFpxSnVaT0ZHSUFGNk1RV1FSZlkyRml4MGtBczJqaEswMVp3QTI1TkN3aUdJZ1RydDktVF9jVk9qTmRjUTJCUW5oMFk5blJoR3pDRGlsTE43YURTUHBEQ1RNYVRhR1ItWEJaN3NXakZDaTFzSUpUZUFuWUJzZzJDTC1pUnluZ1lEYjY1SDRuUVlwWTA5ak9YY01qSXRaNzc1c0Z6RGhuYXRGRG9kQXM2OXNFakJSblBvNm42anhIWG5sZzlLOHJ4cER0UEZPLTcyQUp0RFZzTk5RWERaYmozNU1nZVpaeEVTX083eFgyMDlIczMiLCJpZCI6ImZjX05fTUNhOFR5S3BPTWdMUVB4dXJxcUEwXzUifQ%3D%3D"
+      },
+      {
+        "question": "Can you flip a video from landscape to portrait?",
+        "type": "ai_overview",
+        "page_token": "UZGpd3icHdBLbqMwAABQdQ7TZcNHdNRI0UgEG0KEEY5twJvK2CQkNp-kbild9iyzmsPMAXqNXmCkeUd4n7_NedBfd2-dtdPLerWa5_nhNI4n0z7IsV-Jl2WQKymMaYTU68efj-6vo9yA1124ve7CgmJQG2VKbT6axZ2YN8UlKbwcPgXNpfZZiWwJbJ9VBovYUnxw92wwEG2dgHjqvQFTnQF-VjQIan_6KFw4NQTMyMtmWqIFlzxnVZdIZ7e0sb1yyhMFu16SVB_o6LIYXqWPBHbgrQXGyyJe5UlqMoJHwtTCqWuoMWcRBwXt8SvxUtYQvm9it8SgQzgKjwc9MerBC4-RT1la1wyFoFN55bhRTTraUjsTxx0IhEWbsEVWMMzC8VzQLs8A9Q9JGKlBhUqrLdOjpdqkKg6uIsJOc-H7tkLborg_yreNf___c_N87O16uo2nP_LWCtuqZ2H_6h_f3j9Soolr",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=UZGpd3icHdBLbqMwAABQdQ7TZcNHdNRI0UgEG0KEEY5twJvK2CQkNp-kbild9iyzmsPMAXqNXmCkeUd4n7_NedBfd2-dtdPLerWa5_nhNI4n0z7IsV-Jl2WQKymMaYTU68efj-6vo9yA1124ve7CgmJQG2VKbT6axZ2YN8UlKbwcPgXNpfZZiWwJbJ9VBovYUnxw92wwEG2dgHjqvQFTnQF-VjQIan_6KFw4NQTMyMtmWqIFlzxnVZdIZ7e0sb1yyhMFu16SVB_o6LIYXqWPBHbgrQXGyyJe5UlqMoJHwtTCqWuoMWcRBwXt8SvxUtYQvm9it8SgQzgKjwc9MerBC4-RT1la1wyFoFN55bhRTTraUjsTxx0IhEWbsEVWMMzC8VzQLs8A9Q9JGKlBhUqrLdOjpdqkKg6uIsJOc-H7tkLborg_yreNf___c_N87O16uo2nP_LWCtuqZ2H_6h_f3j9Soolr",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVRVUXpPR3h0TVZFNGNuSkNURzFQY1V4eWFWaGpjM0F4ZEV4V2NtaHRibU5sUldSdFpWVXpYMHh4ZVdOUVNEWTFlVTUwVWt3d1NURlhPRGhKVFVOblVtaEtVVWxCZW01Q09YY3hiVE14Ylhvek5WcEpRakl4WnpsT2R4SVhUbDlOUTJFNFZIbExjRTlOWjB4UlVIaDFjbkZ4UVRBYUlrRklUakJGTjBWdllTMXRjRmxTY0UxNk1WOU9PRWhrWWt0bmQzazNaakZOY0VFIiwiZmN2IjoiMyIsImVpIjoiTl9NQ2E4VHlLcE9NZ0xRUHh1cnFxQTAiLCJxYyI6ImMtTnl5Y2d2VnlqSlYwZ3NCUkxKUmZrRkNobjVSWmxWLVhrbGlUa0taWmtwcWZrS21YbEFxYkxVb3BMTVpMaFllV1pKaGtKSmViNUNXbUp5YXJFQVEtM1RUZXoyQUEiLCJxdWVzdGlvbiI6IkNhbiB5b3UgZmxpcCBhIHZpZGVvIGZyb20gbGFuZHNjYXBlIHRvIHBvcnRyYWl0PyIsImxrIjoiR2k5allXNGdlVzkxSUdac2FYQWdZU0IyYVdSbGJ5Qm1jbTl0SUd4aGJtUnpZMkZ3WlNCMGJ5QndiM0owY21GcGRBIiwiYnMiOiJjNVdRTVE3Q01BeEZ4WnFKdVpPRkdJQUY2TVFXUVJmWTJGaXgwa0FzMmpoSzAxWndBMjVOQ3dpR0lnVHJ0OS1UX2NWT2pOZGNRMkJRbmgwWTluUmhHekNEaWxMTjdhRFNQcERDVE1hVGFHUi1YQlo3c1dqRkNpMXNJSlRlQW5ZQnNnMkNMLWlSeW5nWURiNjVING5RWXBZMDlqT1hjTWpJdFo3NzVzRnpEaG5hdEZEb2RBczY5c0VqQlJuUG82bjZqeEhYbmxnOUs4cnhwRHRQRk8tNzJBSnREVnNOTlFYRFpiajM1TWdlWlp4RVNfTzd4WDIwOUhzMyIsImlkIjoiZmNfTl9NQ2E4VHlLcE9NZ0xRUHh1cnFxQTBfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVRVUXpPR3h0TVZFNGNuSkNURzFQY1V4eWFWaGpjM0F4ZEV4V2NtaHRibU5sUldSdFpWVXpYMHh4ZVdOUVNEWTFlVTUwVWt3d1NURlhPRGhKVFVOblVtaEtVVWxCZW01Q09YY3hiVE14Ylhvek5WcEpRakl4WnpsT2R4SVhUbDlOUTJFNFZIbExjRTlOWjB4UlVIaDFjbkZ4UVRBYUlrRklUakJGTjBWdllTMXRjRmxTY0UxNk1WOU9PRWhrWWt0bmQzazNaakZOY0VFIiwiZmN2IjoiMyIsImVpIjoiTl9NQ2E4VHlLcE9NZ0xRUHh1cnFxQTAiLCJxYyI6ImMtTnl5Y2d2VnlqSlYwZ3NCUkxKUmZrRkNobjVSWmxWLVhrbGlUa0taWmtwcWZrS21YbEFxYkxVb3BMTVpMaFllV1pKaGtKSmViNUNXbUp5YXJFQVEtM1RUZXoyQUEiLCJxdWVzdGlvbiI6IkNhbiB5b3UgZmxpcCBhIHZpZGVvIGZyb20gbGFuZHNjYXBlIHRvIHBvcnRyYWl0PyIsImxrIjoiR2k5allXNGdlVzkxSUdac2FYQWdZU0IyYVdSbGJ5Qm1jbTl0SUd4aGJtUnpZMkZ3WlNCMGJ5QndiM0owY21GcGRBIiwiYnMiOiJjNVdRTVE3Q01BeEZ4WnFKdVpPRkdJQUY2TVFXUVJmWTJGaXgwa0FzMmpoSzAxWndBMjVOQ3dpR0lnVHJ0OS1UX2NWT2pOZGNRMkJRbmgwWTluUmhHekNEaWxMTjdhRFNQcERDVE1hVGFHUi1YQlo3c1dqRkNpMXNJSlRlQW5ZQnNnMkNMLWlSeW5nWURiNjVING5RWXBZMDlqT1hjTWpJdFo3NzVzRnpEaG5hdEZEb2RBczY5c0VqQlJuUG82bjZqeEhYbmxnOUs4cnhwRHRQRk8tNzJBSnREVnNOTlFYRFpiajM1TWdlWlp4RVNfTzd4WDIwOUhzMyIsImlkIjoiZmNfTl9NQ2E4VHlLcE9NZ0xRUHh1cnFxQTBfNSJ9"
+      },
+      {
+        "question": "How to make horizontal videos vertical on iPhone without cropping?",
+        "type": "ai_overview",
+        "page_token": "i4C8h3icHdFRkpowAADQaQ-znyuRSmedcTqDJCojUSAJIT87mKBIAtg1Y5TPnqVf_ehReoC9xl6gnV7g_bwfP8251--ffjfWXq7zycQ593wahpOpn-XQTarro5cTWRlzqKSeB18D8O0oF3Bwy-XVhSnNYGmUKWh2rhH0ycgg4yFRhfXLTu1zT4-sEDPmx0Ry8z3V2BWR0gLO7gefLXGk9iU1seSq3VLMBGoQpfew1gBTzTAG4a7im3HHjKGdWuWjCRgyXyqIXQ1LT3psj0cFqxxEtG8ChXCfgHQsWya2DD4OBiVqJW5ld4cFD7cZiQmNNp7gMcVGTIUxewleWtoyKzp1VUUMMj-9q6mzh_afA8SFrdU19WyaQ7GiIyPKhw-2li7j4lagzZhQRJjBfaXFETZqxz0QlaShNbWOeKAnCKX1mj0kR2ESDueUNrsEUj9fxV1dvHT5EhgCtN3yeMQRC0o96zHYuAyYhKZPR3lb-E__Hxavx87OL2_D6Zd8qytbq9fK_tGfP6Z_AQ5hneo",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=i4C8h3icHdFRkpowAADQaQ-znyuRSmedcTqDJCojUSAJIT87mKBIAtg1Y5TPnqVf_ehReoC9xl6gnV7g_bwfP8251--ffjfWXq7zycQ593wahpOpn-XQTarro5cTWRlzqKSeB18D8O0oF3Bwy-XVhSnNYGmUKWh2rhH0ycgg4yFRhfXLTu1zT4-sEDPmx0Ry8z3V2BWR0gLO7gefLXGk9iU1seSq3VLMBGoQpfew1gBTzTAG4a7im3HHjKGdWuWjCRgyXyqIXQ1LT3psj0cFqxxEtG8ChXCfgHQsWya2DD4OBiVqJW5ld4cFD7cZiQmNNp7gMcVGTIUxewleWtoyKzp1VUUMMj-9q6mzh_afA8SFrdU19WyaQ7GiIyPKhw-2li7j4lagzZhQRJjBfaXFETZqxz0QlaShNbWOeKAnCKX1mj0kR2ESDueUNrsEUj9fxV1dvHT5EhgCtN3yeMQRC0o96zHYuAyYhKZPR3lb-E__Hxavx87OL2_D6Zd8qytbq9fK_tGfP6Z_AQ5hneo",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVRVUXpPR3h0TVZFNGNuSkNURzFQY1V4eWFWaGpjM0F4ZEV4V2NtaHRibU5sUldSdFpWVXpYMHh4ZVdOUVNEWTFlVTUwVWt3d1NURlhPRGhKVFVOblVtaEtVVWxCZW01Q09YY3hiVE14Ylhvek5WcEpRakl4WnpsT2R4SVhUbDlOUTJFNFZIbExjRTlOWjB4UlVIaDFjbkZ4UVRBYUlrRklUakJGTjBWdllTMXRjRmxTY0UxNk1WOU9PRWhrWWt0bmQzazNaakZOY0VFIiwiZmN2IjoiMyIsImVpIjoiTl9NQ2E4VHlLcE9NZ0xRUHh1cnFxQTAiLCJxYyI6ImMtTnl5Y2d2VnlqSlYwZ3NCUkxKUmZrRkNobjVSWmxWLVhrbGlUa0taWmtwcWZrS21YbEFxYkxVb3BMTVpMaFllV1pKaGtKSmViNUNXbUp5YXJFQVEtM1RUZXoyQUEiLCJxdWVzdGlvbiI6IkhvdyB0byBtYWtlIGhvcml6b250YWwgdmlkZW9zIHZlcnRpY2FsIG9uIGlQaG9uZSB3aXRob3V0IGNyb3BwaW5nPyIsImxrIjoiY3czSHdRMkFRQWdFd0Q1OGJTdVdjam1KRUpVbGlIZUoxZXY4WmxtVkUwVmM3UkFvMDE1NnRSUEROdUdOSVZuV185TmhvWFRCdEZJLWhaNk1NTjhfIiwiYnMiOiJjNVdRTVE3Q01BeEZ4WnFKdVpPRkdJQUY2TVFXUVJmWTJGaXgwa0FzMmpoSzAxWndBMjVOQ3dpR0lnVHJ0OS1UX2NWT2pOZGNRMkJRbmgwWTluUmhHekNEaWxMTjdhRFNQcERDVE1hVGFHUi1YQlo3c1dqRkNpMXNJSlRlQW5ZQnNnMkNMLWlSeW5nWURiNjVING5RWXBZMDlqT1hjTWpJdFo3NzVzRnpEaG5hdEZEb2RBczY5c0VqQlJuUG82bjZqeEhYbmxnOUs4cnhwRHRQRk8tNzJBSnREVnNOTlFYRFpiajM1TWdlWlp4RVNfTzd4WDIwOUhzMyIsImlkIjoiZmNfTl9NQ2E4VHlLcE9NZ0xRUHh1cnFxQTBfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVRVUXpPR3h0TVZFNGNuSkNURzFQY1V4eWFWaGpjM0F4ZEV4V2NtaHRibU5sUldSdFpWVXpYMHh4ZVdOUVNEWTFlVTUwVWt3d1NURlhPRGhKVFVOblVtaEtVVWxCZW01Q09YY3hiVE14Ylhvek5WcEpRakl4WnpsT2R4SVhUbDlOUTJFNFZIbExjRTlOWjB4UlVIaDFjbkZ4UVRBYUlrRklUakJGTjBWdllTMXRjRmxTY0UxNk1WOU9PRWhrWWt0bmQzazNaakZOY0VFIiwiZmN2IjoiMyIsImVpIjoiTl9NQ2E4VHlLcE9NZ0xRUHh1cnFxQTAiLCJxYyI6ImMtTnl5Y2d2VnlqSlYwZ3NCUkxKUmZrRkNobjVSWmxWLVhrbGlUa0taWmtwcWZrS21YbEFxYkxVb3BMTVpMaFllV1pKaGtKSmViNUNXbUp5YXJFQVEtM1RUZXoyQUEiLCJxdWVzdGlvbiI6IkhvdyB0byBtYWtlIGhvcml6b250YWwgdmlkZW9zIHZlcnRpY2FsIG9uIGlQaG9uZSB3aXRob3V0IGNyb3BwaW5nPyIsImxrIjoiY3czSHdRMkFRQWdFd0Q1OGJTdVdjam1KRUpVbGlIZUoxZXY4WmxtVkUwVmM3UkFvMDE1NnRSUEROdUdOSVZuV185TmhvWFRCdEZJLWhaNk1NTjhfIiwiYnMiOiJjNVdRTVE3Q01BeEZ4WnFKdVpPRkdJQUY2TVFXUVJmWTJGaXgwa0FzMmpoSzAxWndBMjVOQ3dpR0lnVHJ0OS1UX2NWT2pOZGNRMkJRbmgwWTluUmhHekNEaWxMTjdhRFNQcERDVE1hVGFHUi1YQlo3c1dqRkNpMXNJSlRlQW5ZQnNnMkNMLWlSeW5nWURiNjVING5RWXBZMDlqT1hjTWpJdFo3NzVzRnpEaG5hdEZEb2RBczY5c0VqQlJuUG82bjZqeEhYbmxnOUs4cnhwRHRQRk8tNzJBSnREVnNOTlFYRFpiajM1TWdlWlp4RVNfTzd4WDIwOUhzMyIsImlkIjoiZmNfTl9NQ2E4VHlLcE9NZ0xRUHh1cnFxQTBfNSJ9"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "5OMnWHicjZBNjptAEIWlOUxvmNiAjf-iVlR4Jv7BYwf_jO1sULtpoG2goWmM8XLOklUOkwPkGrlA0GiUdRb1SvreU6n03n7EPL38fvgcKZUVo3a7qqpWKEQYsxYVSZsUdUrbgYgLSaMvYYzLAkUxZikqRCkpwzSSImEtcfoA3P9AqL7iDqIF1hHjeOm9jMlgWzvZ6iVcuN9upcxz0NH7fewFiRolxI8fPe6PbHOuav_Ra4AYMR_leCoqTQmNlI1QKTItEpLfRapIrF25z4TG08a6Mqk4_ccqriJNVUILCGUFSmIpsE5668Cam4uv3b0Z9J8OUpq97fQMy-85z-a54queaW28W3bsznQ4VGSy2FRTo8hhxog3tM47c77anjLwBxenTuKAbgfnBYHMme7DzeZsJ8vOsGvMXnN7tgnK3FxO6rTn3ROdfNoG5wO_91_r63Efvv9T4JU-DvSBa0gpUCIpHgN0a1i7sAcgYFcwD21wwF7nzV6ADSdhgzs9gvsUNiPABVRQ4rHiimnP6lBL1ykhQT9gAUpCVWd4qKMildhAV-Y3BUQ757nizz3l-J15eYTbbmsLgOmOGBO1c61u6DZJhY3_irZa_CeVjCjme0T9ujz8Mf8CajrNWw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=5OMnWHicjZBNjptAEIWlOUxvmNiAjf-iVlR4Jv7BYwf_jO1sULtpoG2goWmM8XLOklUOkwPkGrlA0GiUdRb1SvreU6n03n7EPL38fvgcKZUVo3a7qqpWKEQYsxYVSZsUdUrbgYgLSaMvYYzLAkUxZikqRCkpwzSSImEtcfoA3P9AqL7iDqIF1hHjeOm9jMlgWzvZ6iVcuN9upcxz0NH7fewFiRolxI8fPe6PbHOuav_Ra4AYMR_leCoqTQmNlI1QKTItEpLfRapIrF25z4TG08a6Mqk4_ccqriJNVUILCGUFSmIpsE5668Cam4uv3b0Z9J8OUpq97fQMy-85z-a54queaW28W3bsznQ4VGSy2FRTo8hhxog3tM47c77anjLwBxenTuKAbgfnBYHMme7DzeZsJ8vOsGvMXnN7tgnK3FxO6rTn3ROdfNoG5wO_91_r63Efvv9T4JU-DvSBa0gpUCIpHgN0a1i7sAcgYFcwD21wwF7nzV6ADSdhgzs9gvsUNiPABVRQ4rHiimnP6lBL1ykhQT9gAUpCVWd4qKMildhAV-Y3BUQ757nizz3l-J15eYTbbmsLgOmOGBO1c61u6DZJhY3_irZa_CeVjCjme0T9ujz8Mf8CajrNWw"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Vertical Video Maker - Create Vertical Clips Fast with AI",
+        "link": "https://www.opus.pro/tools/vertical-video-maker",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHEIkXXpAKzrFvISjDW0JpTmiDwhOy3u-sMfDwfWQ96kxd6mMoht6qtbNXnYiLDVDzoxXLu9oPYpf3eKiPFop4lpaInwc3kqbaEdNTxlp6fKOxrENXlwWhQ_TlwZj14SGVMcAwpNo4oO-yrWg&ved=2ahUKEwiE6tKd3JuYAxUTBoAAHUa1GtUQFnoECCQQAQ&uoh=1",
+        "displayed_link": "https://www.opus.pro \u203a tools \u203a vertical-video-maker",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAV1BMVEUOEBULDRMAAABubnClpaa_v8AAAAj___81Njj09PT7-_u4uLmPj5CYmJlhYWNQUVNLS0339_cuLzLCwsOfn6Ctra6enp94eXp-f4COjo9paWuCg4RTVFaiNnBOAAAAxklEQVR4AbWSVw7DMAxDW2Z6r-72_ueslC3Av2Gm_UDR63K6rph0raOm7bq2qeAe7bCoRS8ZRjVsUiOEb-RObaw1mv_G_pjHPgfvnIdl7yF3ygsxsSnFMOXuRmraOCyKjl6bFQ3lgX2dYS8ot8GhqvHUnYFMH28OddFRVUc-0D8BZ-l_g4XgbRjuDLsafDCUZSV8lk4MSMDXPBUrprJBuQgSZl4-ty2fhMHJhZdl5ZbJeb4qm413132epXx_pXJMsKgHGJ2tPwf1DT7eKooXAAAAAElFTkSuQmCC.png",
+        "date": "Nov 11, 2026",
+        "snippet": "OpusClip turns horizontal, square and cinematic videos into vertical. You can upload a video in any format, such as horizontal, OpusClip crops ...",
+        "snippet_highlighted_words": [
+          "OpusClip turns horizontal, square and cinematic videos into vertical"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "OpusClip turns horizontal, square and cinematic videos into vertical. You can upload a video in any format, such as horizontal, OpusClip crops ...",
+            "source_info_link": "https://www.opus.pro/tools/vertical-video-maker",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAV1BMVEUOEBULDRMAAABubnClpaa_v8AAAAj___81Njj09PT7-_u4uLmPj5CYmJlhYWNQUVNLS0339_cuLzLCwsOfn6Ctra6enp94eXp-f4COjo9paWuCg4RTVFaiNnBOAAAAxklEQVR4AbWSVw7DMAxDW2Z6r-72_ueslC3Av2Gm_UDR63K6rph0raOm7bq2qeAe7bCoRS8ZRjVsUiOEb-RObaw1mv_G_pjHPgfvnIdl7yF3ygsxsSnFMOXuRmraOCyKjl6bFQ3lgX2dYS8ot8GhqvHUnYFMH28OddFRVUc-0D8BZ-l_g4XgbRjuDLsafDCUZSV8lk4MSMDXPBUrprJBuQgSZl4-ty2fhMHJhZdl5ZbJeb4qm413132epXx_pXJMsKgHGJ2tPwf1DT7eKooXAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhFSWtYWDMwMFFvc1YxbkxfSDRpanc0bHkyUlN1c3B6eDFzRjdDNzZpMW1HV1JlUTlXaVlLeEc3QTJFbWdEVTRMLVdDRnozekllT3pud0hpdkdYNHVxVWhPOFdQZ0NlVWlJTnRIUTBrX2QtRHRJU2NSTzRvQUdYSlhxd2VUbUV3T3NHYkgwMHhjNmF1ZzY5ZxIEGgIIABrrBxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMUHCAAQABgAIAAqFQoDaG93FTk4nz8aCWF1dG9tYXRpYyoJCgJ0bxUAAAAAKmEKBGF1dG8VYGmnPxoJYXV0b21hdGljGg1hdXRvbWF0aWNhbGx5GgthdXRvbW9iaWxlcxoKYXV0b21vdGl2ZRoDY2FyGgd2ZWhpY2xlGghhdXRvY3JvcBoJYXV0b21hdGljKjEKBGNyb3AV3W8dPxoIY3JvcHBpbmcaBWNyb3BzGghhdXRvY3JvcBoJaXY7cDtjcm9wKkEKCmhvcml6b250YWwVBKpqPxoMaG9yaXpvbnRhbGx5Gg9ob3Jpem9udGFsdmlkZW8aD2l2O3A7aG9yaXpvbnRhbColCgV2aWRlbxUvmL1AGgZ2aWRlb3MaD2hvcml6b250YWx2aWRlbyoLCgRpbnRvFXDk3z8qOQoIdmVydGljYWwVhq2nQBoKdmVydGljYWxseRoNdmVydGljYWx2aWRlbxoNaXY7cDt2ZXJ0aWNhbColCgV2aWRlbxUvmL1AGgZ2aWRlb3MaD2hvcml6b250YWx2aWRlbyoLCgR3aXRoFQAAAAAqPAoDdHdvFQAAAAAaATIaBGJvdGgaBmRvdWJsZRoLZG91YmxlIGZhY2UaCHR3b2ZhY2VzGghtdWx0aXBsZSpFCgVmYWNlcxXL3_A-Ggtkb3VibGUgZmFjZRoEZmFjZRoFZmFjZWQaBWhlYWRzGgVzaWRlZBoFc2lkZXMaCHR3b2ZhY2VzMqABL2dvdG8_dXJsPUNBRVNiQUhFSWtYWDMwMFFvc1YxbkxfSDRpanc0bHkyUlN1c3B6eDFzRjdDNzZpMW1HV1JlUTlXaVlLeEc3QTJFbWdEVTRMLVdDRnozekllT3pud0hpdkdYNHVxVWhPOFdQZ0NlVWlJTnRIUTBrX2QtRHRJU2NSTzRvQUdYSlhxd2VUbUV3T3NHYkgwMHhjNmF1ZzY5ZzpHPGI-VmVydGljYWwgVmlkZW88L2I-IE1ha2VyIC0gQ3JlYXRlIDxiPlZlcnRpY2FsPC9iPiBDbGlwcyBGYXN0IHdpdGggQUlCngE8Yj5PcHVzQ2xpcCB0dXJucyBob3Jpem9udGFsLCBzcXVhcmUgYW5kIGNpbmVtYXRpYyB2aWRlb3MgaW50byB2ZXJ0aWNhbDwvYj4uIFlvdSBjYW4gdXBsb2FkIGEgdmlkZW8gaW4gYW55IGZvcm1hdCwgc3VjaCBhcyBob3Jpem9udGFsLCBPcHVzQ2xpcCBjcm9wcyZuYnNwOy4uLkoCdG9KBHdpdGhSATIiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhFSWtYWDMwMFFvc1YxbkxfSDRpanc0bHkyUlN1c3B6eDFzRjdDNzZpMW1HV1JlUTlXaVlLeEc3QTJFbWdEVTRMLVdDRnozekllT3pud0hpdkdYNHVxVWhPOFdQZ0NlVWlJTnRIUTBrX2QtRHRJU2NSTzRvQUdYSlhxd2VUbUV3T3NHYkgwMHhjNmF1ZzY5ZxIEGgIIABrrBxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMUHCAAQABgAIAAqFQoDaG93FTk4nz8aCWF1dG9tYXRpYyoJCgJ0bxUAAAAAKmEKBGF1dG8VYGmnPxoJYXV0b21hdGljGg1hdXRvbWF0aWNhbGx5GgthdXRvbW9iaWxlcxoKYXV0b21vdGl2ZRoDY2FyGgd2ZWhpY2xlGghhdXRvY3JvcBoJYXV0b21hdGljKjEKBGNyb3AV3W8dPxoIY3JvcHBpbmcaBWNyb3BzGghhdXRvY3JvcBoJaXY7cDtjcm9wKkEKCmhvcml6b250YWwVBKpqPxoMaG9yaXpvbnRhbGx5Gg9ob3Jpem9udGFsdmlkZW8aD2l2O3A7aG9yaXpvbnRhbColCgV2aWRlbxUvmL1AGgZ2aWRlb3MaD2hvcml6b250YWx2aWRlbyoLCgRpbnRvFXDk3z8qOQoIdmVydGljYWwVhq2nQBoKdmVydGljYWxseRoNdmVydGljYWx2aWRlbxoNaXY7cDt2ZXJ0aWNhbColCgV2aWRlbxUvmL1AGgZ2aWRlb3MaD2hvcml6b250YWx2aWRlbyoLCgR3aXRoFQAAAAAqPAoDdHdvFQAAAAAaATIaBGJvdGgaBmRvdWJsZRoLZG91YmxlIGZhY2UaCHR3b2ZhY2VzGghtdWx0aXBsZSpFCgVmYWNlcxXL3_A-Ggtkb3VibGUgZmFjZRoEZmFjZRoFZmFjZWQaBWhlYWRzGgVzaWRlZBoFc2lkZXMaCHR3b2ZhY2VzMqABL2dvdG8_dXJsPUNBRVNiQUhFSWtYWDMwMFFvc1YxbkxfSDRpanc0bHkyUlN1c3B6eDFzRjdDNzZpMW1HV1JlUTlXaVlLeEc3QTJFbWdEVTRMLVdDRnozekllT3pud0hpdkdYNHVxVWhPOFdQZ0NlVWlJTnRIUTBrX2QtRHRJU2NSTzRvQUdYSlhxd2VUbUV3T3NHYkgwMHhjNmF1ZzY5ZzpHPGI-VmVydGljYWwgVmlkZW88L2I-IE1ha2VyIC0gQ3JlYXRlIDxiPlZlcnRpY2FsPC9iPiBDbGlwcyBGYXN0IHdpdGggQUlCngE8Yj5PcHVzQ2xpcCB0dXJucyBob3Jpem9udGFsLCBzcXVhcmUgYW5kIGNpbmVtYXRpYyB2aWRlb3MgaW50byB2ZXJ0aWNhbDwvYj4uIFlvdSBjYW4gdXBsb2FkIGEgdmlkZW8gaW4gYW55IGZvcm1hdCwgc3VjaCBhcyBob3Jpem9udGFsLCBPcHVzQ2xpcCBjcm9wcyZuYnNwOy4uLkoCdG9KBHdpdGhSATIiAhABSABYAGgA",
+        "source": "Opus Clip"
+      },
+      {
+        "position": 2,
+        "title": "What is the easiest way to turn a horizontal video into ...",
+        "link": "https://www.reddit.com/r/premiere/comments/1q8568l/what_is_the_easiest_way_to_turn_a_horizontal/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnQEBxCJF11Hi2LDKTWY1DbzsaUXBf2h60Ybc7mwj4Aa2jlOzdZlNN38ECy-t1bLH2cHD8UPr7RedTMpJt2p4iuo3OsEkSqvo8kypj3nMzT8g6W8psImZfKVTHcfHbNdITCMK2jjxpYsSfOiHPpqakd8Re7Qs_znShjJpY4wuvms6rKtb3FD4yBM0nqp9YlWCmm30bUZzLJsdq9fwoS1E&ved=2ahUKEwiE6tKd3JuYAxUTBoAAHUa1GtUQFnoECC0QAQ&uoh=1",
+        "displayed_link": "10+ comments",
+        "date": "10 months ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+        "snippet": "What is the easiest way to turn a horizontal video into a vertical video and then export it as a vertical video? How do I do this?/Workflow ...",
+        "snippet_highlighted_words": [
+          "What is the easiest way to turn a horizontal video into a vertical video"
+        ],
+        "sitelinks": {
+          "list": [
+            {
+              "title": "What's the best way to turn a vertical video into ...",
+              "link": "https://www.google.com/goto?url=CAESqQEBxCJF115jkOtHdScxA6oYQXP3Y8h7AAqG7ECsy1HJGG_Zp0G9-cf8v0RUefo9JKxS4qYlGQFZcp3yraYLynBOUyb4noIurQ73d7jdhziGAjUd8PH7TyRwwXTdtSsRaSIywCp5cZPA7zjNjkPPKXrQ8WmSoaHi4oLiCYo813WxI19NcUQBqvLwu9zRpY_1arVHIHY0sciGfnfY3xpx-L5DmhJ0vBI3XTUy&gsessionid=jFh5ltETVKZ3V3S9EHiUXp_S_6idE3Or4DliO8LfzN5s8gzpAdLXwQ",
+              "answer_count": 16,
+              "date": "Jul 8, 2026"
+            },
+            {
+              "title": "What do you use to make vertical and horizontal ...",
+              "link": "https://www.google.com/goto?url=CAESogEBxCJF1-uhR1aijd90bqN9pVnfVjRkz_KEkVLcFBADhxWfqk7Zjd3ih4qo2Cky-Afr1j3EWu3w02JGIbPCQN_m8wbeRklMoze0yQxDcynR_nk1_TfAt-Gqlx7eynmpzLnxKD4R6elBFunir9NZMIfvKlk6iHAi0b2AXUTKFR8LMdXppW7UavHTuKwU_Fsua_ceGGnPI5WEy6Z8QYqlHJCGH5o&gsessionid=jFh5ltETVKZ3V3S9EHiUXp_S_6idE3Or4DliO8LfzN5s8gzpAdLXwQ",
+              "answer_count": 23,
+              "date": "Dec 14, 2024"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "What is the easiest way to turn a horizontal video into a vertical video and then export it as a vertical video? How do I do this?/Workflow ...",
+            "source_info_link": "https://www.reddit.com/r/premiere/comments/1q8568l/what_is_the_easiest_way_to_turn_a_horizontal/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuIBL2dvdG8_dXJsPUNBRVNuUUVCeENKRjF3ZlBKdzcxYV8yN3Jic3lpRmU2RHVTTW1VTGJaWE45S05IT3dmTktfZFhaMEJ6V1JKSFdYVTNyeVFGNC1yVjNmMzk2cjcwam9DX1dwS3l5dW8zci1vbEhGVXVadmxXUExIUVU0SjItaFBkMG16eDFubGR5eGpHaDl2Slk1aU44cTRsN1VueUtuTWtVWmtJMEQ5SEJla0IyNDByRGdhOVRTbnNBZlozRTc5SGxxSW83VlV3SlR1bWV6S2p2REpMelZnZDZCVFpLVXlxaxIEGgIIABqsCBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCICAgAEAAYACAAKhUKA2hvdxWSDiFAGglhdXRvbWF0aWMqCQoCdG8VAAAAACphCgRhdXRvFUDkdT8aCWF1dG9tYXRpYxoNYXV0b21hdGljYWxseRoLYXV0b21vYmlsZXMaCmF1dG9tb3RpdmUaA2NhchoHdmVoaWNsZRoIYXV0b2Nyb3AaCWF1dG9tYXRpYyoxCgRjcm9wFdClNT8aCGNyb3BwaW5nGgVjcm9wcxoIYXV0b2Nyb3AaCWl2O3A7Y3JvcCpBCgpob3Jpem9udGFsFc6Ht0AaDGhvcml6b250YWxseRoPaG9yaXpvbnRhbHZpZGVvGg9pdjtwO2hvcml6b250YWwqJQoFdmlkZW8VX-PqQBoGdmlkZW9zGg9ob3Jpem9udGFsdmlkZW8qCwoEaW50bxXcPJ9AKjkKCHZlcnRpY2FsFU-VqEAaCnZlcnRpY2FsbHkaDXZlcnRpY2FsdmlkZW8aDWl2O3A7dmVydGljYWwqJQoFdmlkZW8VX-PqQBoGdmlkZW9zGg9ob3Jpem9udGFsdmlkZW8qCwoEd2l0aBUAAAAAKjwKA3R3bxVEWRA_GgEyGgRib3RoGgZkb3VibGUaC2RvdWJsZSBmYWNlGgh0d29mYWNlcxoIbXVsdGlwbGUqRQoFZmFjZXMVAAAAABoLZG91YmxlIGZhY2UaBGZhY2UaBWZhY2VkGgVoZWFkcxoFc2lkZWQaBXNpZGVzGgh0d29mYWNlczLiAS9nb3RvP3VybD1DQUVTblFFQnhDSkYxd2ZQSnc3MWFfMjdyYnN5aUZlNkR1U01tVUxiWlhOOUtOSE93Zk5LX2RYWjBCeldSSkhXWFUzcnlRRjQtclYzZjM5NnI3MGpvQ19XcEt5eXVvM3Itb2xIRlV1WnZsV1BMSFFVNEoyLWhQZDBtengxbmxkeXhqR2g5dkpZNWlOOHE0bDdVbnlLbk1rVVprSTBEOUhCZWtCMjQwckRnYTlUU25zQWZaM0U3OUhscUlvN1ZVd0pUdW1lektqdkRKTHpWZ2Q2QlRaS1V5cWs6S1doYXQgaXMgdGhlIGVhc2llc3Qgd2F5IHRvIHR1cm4gYSA8Yj5ob3Jpem9udGFsIHZpZGVvIGludG88L2I-IC4uLiAtIFJlZGRpdEKbATxiPldoYXQgaXMgdGhlIGVhc2llc3Qgd2F5IHRvIHR1cm4gYSBob3Jpem9udGFsIHZpZGVvIGludG8gYSB2ZXJ0aWNhbCB2aWRlbzwvYj4gYW5kIHRoZW4gZXhwb3J0IGl0IGFzIGEgdmVydGljYWwgdmlkZW8_IEhvdyBkbyBJIGRvIHRoaXM_L1dvcmtmbG93Jm5ic3A7Li4uSgJ0b0oEd2l0aFIBMiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuIBL2dvdG8_dXJsPUNBRVNuUUVCeENKRjF3ZlBKdzcxYV8yN3Jic3lpRmU2RHVTTW1VTGJaWE45S05IT3dmTktfZFhaMEJ6V1JKSFdYVTNyeVFGNC1yVjNmMzk2cjcwam9DX1dwS3l5dW8zci1vbEhGVXVadmxXUExIUVU0SjItaFBkMG16eDFubGR5eGpHaDl2Slk1aU44cTRsN1VueUtuTWtVWmtJMEQ5SEJla0IyNDByRGdhOVRTbnNBZlozRTc5SGxxSW83VlV3SlR1bWV6S2p2REpMelZnZDZCVFpLVXlxaxIEGgIIABqsCBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCICAgAEAAYACAAKhUKA2hvdxWSDiFAGglhdXRvbWF0aWMqCQoCdG8VAAAAACphCgRhdXRvFUDkdT8aCWF1dG9tYXRpYxoNYXV0b21hdGljYWxseRoLYXV0b21vYmlsZXMaCmF1dG9tb3RpdmUaA2NhchoHdmVoaWNsZRoIYXV0b2Nyb3AaCWF1dG9tYXRpYyoxCgRjcm9wFdClNT8aCGNyb3BwaW5nGgVjcm9wcxoIYXV0b2Nyb3AaCWl2O3A7Y3JvcCpBCgpob3Jpem9udGFsFc6Ht0AaDGhvcml6b250YWxseRoPaG9yaXpvbnRhbHZpZGVvGg9pdjtwO2hvcml6b250YWwqJQoFdmlkZW8VX-PqQBoGdmlkZW9zGg9ob3Jpem9udGFsdmlkZW8qCwoEaW50bxXcPJ9AKjkKCHZlcnRpY2FsFU-VqEAaCnZlcnRpY2FsbHkaDXZlcnRpY2FsdmlkZW8aDWl2O3A7dmVydGljYWwqJQoFdmlkZW8VX-PqQBoGdmlkZW9zGg9ob3Jpem9udGFsdmlkZW8qCwoEd2l0aBUAAAAAKjwKA3R3bxVEWRA_GgEyGgRib3RoGgZkb3VibGUaC2RvdWJsZSBmYWNlGgh0d29mYWNlcxoIbXVsdGlwbGUqRQoFZmFjZXMVAAAAABoLZG91YmxlIGZhY2UaBGZhY2UaBWZhY2VkGgVoZWFkcxoFc2lkZWQaBXNpZGVzGgh0d29mYWNlczLiAS9nb3RvP3VybD1DQUVTblFFQnhDSkYxd2ZQSnc3MWFfMjdyYnN5aUZlNkR1U01tVUxiWlhOOUtOSE93Zk5LX2RYWjBCeldSSkhXWFUzcnlRRjQtclYzZjM5NnI3MGpvQ19XcEt5eXVvM3Itb2xIRlV1WnZsV1BMSFFVNEoyLWhQZDBtengxbmxkeXhqR2g5dkpZNWlOOHE0bDdVbnlLbk1rVVprSTBEOUhCZWtCMjQwckRnYTlUU25zQWZaM0U3OUhscUlvN1ZVd0pUdW1lektqdkRKTHpWZ2Q2QlRaS1V5cWs6S1doYXQgaXMgdGhlIGVhc2llc3Qgd2F5IHRvIHR1cm4gYSA8Yj5ob3Jpem9udGFsIHZpZGVvIGludG88L2I-IC4uLiAtIFJlZGRpdEKbATxiPldoYXQgaXMgdGhlIGVhc2llc3Qgd2F5IHRvIHR1cm4gYSBob3Jpem9udGFsIHZpZGVvIGludG8gYSB2ZXJ0aWNhbCB2aWRlbzwvYj4gYW5kIHRoZW4gZXhwb3J0IGl0IGFzIGEgdmVydGljYWwgdmlkZW8_IEhvdyBkbyBJIGRvIHRoaXM_L1dvcmtmbG93Jm5ic3A7Li4uSgJ0b0oEd2l0aFIBMiICEAFIAFgAaAA",
+        "source": "Reddit \u00b7 r/premiere",
+        "read_more_link": "https://www.google.com/goto?url=CAEShwIBxCJF17-iw5XHGdUURj0dqHu217J6UrawGAdoCPRvX-dZ_lUkvTLjB4pHjSz-V2zk3HgZdxld_U0CkH69927J7cA3nNVQhhEoDYVOS4Mus5dzJJ8UDQw_NVc4vhu5zjiGFK3jIuw3Ol-MsaRnFUwAvLP9BKTat2JdXhi2UyEEiembNpEOqa5Q9Lr3nWNwsPtvYoReoUchQ_br3roy1XyR8ZnRabdAJHWGhNBXGUgujF6S_SkAgEyGz5sE6EawtRPCKt4y49WM1CJM5uC-eUs_Od-sPzLZ-KovyVMu6JgYbzzBXsoguo2f-sdk_ptV1G6hihG34hRsFZes-eiCbWpIFjVec3Jbdg&gsessionid=jFh5ltETVKZ3V3S9EHiUXp_S_6idE3Or4DliO8LfzN5s8gzpAdLXwQ"
+      },
+      {
+        "position": 3,
+        "title": "How to Create Vertical Video From Horizontal Without Cropping",
+        "link": "https://www.google.com/goto?url=CAESkwEBxCJF1_ekfVhXpS72gBvvMZE60_mLPLEPTN0f1F91RtQ6HPdfv7iAI0ZiYbLhE1fkkZm_AqPUrCtooi9SQBELaB7BB1hfk7Y06ApsMoY6pTtgvECLR9XqrpsyYoJD_Oh3wXkdVi455lpmYPonPRfjgnLAU3CMhweSk1c94DoBeuG7IYBsC1ZoH9Ls-mcfneFK_LU",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkwEBxCJF1zfBL2KDWCSCdkJoZlfB3UA2-ypvpyC21UKZw-BmDsKOOT0a3y7lvfssy_ySp2Bh7CE27VqIyGL5Y2G1Nc0Sjh_mLXv2QYKeL6uRekLz2tVOjz5YSZ23TM_4z3SWSkaIk0ijnqX7e47z9UCfTKahThrUsNVte0Rsuwm8aP_apC849Pq2Oull3Ibo5n2XL2I&ved=2ahUKEwiE6tKd3JuYAxUTBoAAHUa1GtUQFnoECCMQAQ&uoh=1",
+        "displayed_link": "https://www.reframex.ai \u203a Video Repurposing",
+        "favicon": "https://serpapi.com/searches/6b02f3326b036f38bbf64cec/images/bo-QYiKuINN-34K7pvA4Pn2tpJTqecuszMzq9W9oDjI.png",
+        "date": "May 18, 2026",
+        "snippet": "The solution is ReframeX's split screen which stacks both speakers vertically, keeping both faces visible in a native 9:16 frame.",
+        "snippet_highlighted_words": [
+          "ReframeX's split screen"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The solution is ReframeX's split screen which stacks both speakers vertically, keeping both faces visible in a native 9:16 frame.",
+            "source_info_link": "https://www.google.com/goto?url=CAESkwEBxCJF1_ekfVhXpS72gBvvMZE60_mLPLEPTN0f1F91RtQ6HPdfv7iAI0ZiYbLhE1fkkZm_AqPUrCtooi9SQBELaB7BB1hfk7Y06ApsMoY6pTtgvECLR9XqrpsyYoJD_Oh3wXkdVi455lpmYPonPRfjgnLAU3CMhweSk1c94DoBeuG7IYBsC1ZoH9Ls-mcfneFK_LU",
+            "icon": "https://serpapi.com/searches/6b02f3326b036f38bbf64cec/images/bo-QYiKuINN-34K7pvA4Pt4KfS07Xged4UG_Kc_c7F1jNXIiHVJdk43nocvlySrC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtUBL2dvdG8_dXJsPUNBRVNrd0VCeENKRjFfZWtmVmhYcFM3MmdCdnZNWkU2MF9tTFBMRVBUTjBmMUY5MVJ0UTZIUGRmdjdpQUkwWmlZYkxoRTFma2tabV9BcVBVckN0b29pOVNRQkVMYUI3QkIxaGZrN1kwNkFwc01vWTZwVHRndkVDTFI5WHFycHN5WW9KRF9PaDN3WGtkVmk0NTVscG1ZUG9uUFJmamduTEFVM0NNaHdlU2sxYzk0RG9CZXVHN0lZQnNDMVpvSDlMcy1tY2ZuZUZLX0xVEgQaAggAGpcIEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPMHCAAQABgAIAAqFQoDaG93FbYH8UAaCWF1dG9tYXRpYyoJCgJ0bxUAAAAAKmEKBGF1dG8Vw3b4PxoJYXV0b21hdGljGg1hdXRvbWF0aWNhbGx5GgthdXRvbW9iaWxlcxoKYXV0b21vdGl2ZRoDY2FyGgd2ZWhpY2xlGghhdXRvY3JvcBoJYXV0b21hdGljKjEKBGNyb3AVg9b7PxoIY3JvcHBpbmcaBWNyb3BzGghhdXRvY3JvcBoJaXY7cDtjcm9wKkEKCmhvcml6b250YWwVro7tQBoMaG9yaXpvbnRhbGx5Gg9ob3Jpem9udGFsdmlkZW8aD2l2O3A7aG9yaXpvbnRhbColCgV2aWRlbxXVrgNBGgZ2aWRlb3MaD2hvcml6b250YWx2aWRlbyoLCgRpbnRvFdKh4j8qOQoIdmVydGljYWwVuVsBQRoKdmVydGljYWxseRoNdmVydGljYWx2aWRlbxoNaXY7cDt2ZXJ0aWNhbColCgV2aWRlbxXVrgNBGgZ2aWRlb3MaD2hvcml6b250YWx2aWRlbyoLCgR3aXRoFQAAAAAqPAoDdHdvFaXWtj8aATIaBGJvdGgaBmRvdWJsZRoLZG91YmxlIGZhY2UaCHR3b2ZhY2VzGghtdWx0aXBsZSpFCgVmYWNlcxV6-Js_Ggtkb3VibGUgZmFjZRoEZmFjZRoFZmFjZWQaBWhlYWRzGgVzaWRlZBoFc2lkZXMaCHR3b2ZhY2VzMtUBL2dvdG8_dXJsPUNBRVNrd0VCeENKRjFfZWtmVmhYcFM3MmdCdnZNWkU2MF9tTFBMRVBUTjBmMUY5MVJ0UTZIUGRmdjdpQUkwWmlZYkxoRTFma2tabV9BcVBVckN0b29pOVNRQkVMYUI3QkIxaGZrN1kwNkFwc01vWTZwVHRndkVDTFI5WHFycHN5WW9KRF9PaDN3WGtkVmk0NTVscG1ZUG9uUFJmamduTEFVM0NNaHdlU2sxYzk0RG9CZXVHN0lZQnNDMVpvSDlMcy1tY2ZuZUZLX0xVOlJIb3cgdG8gQ3JlYXRlIDxiPlZlcnRpY2FsIFZpZGVvPC9iPiBGcm9tIDxiPkhvcml6b250YWw8L2I-IFdpdGhvdXQgPGI-Q3JvcHBpbmc8L2I-QowBVGhlIHNvbHV0aW9uIGlzIDxiPlJlZnJhbWVYJiMzOTtzIHNwbGl0IHNjcmVlbjwvYj4gd2hpY2ggc3RhY2tzIGJvdGggc3BlYWtlcnMgdmVydGljYWxseSwga2VlcGluZyBib3RoIGZhY2VzIHZpc2libGUgaW4gYSBuYXRpdmUgOToxNiBmcmFtZS5KAnRvSgR3aXRoUgEyIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtUBL2dvdG8_dXJsPUNBRVNrd0VCeENKRjFfZWtmVmhYcFM3MmdCdnZNWkU2MF9tTFBMRVBUTjBmMUY5MVJ0UTZIUGRmdjdpQUkwWmlZYkxoRTFma2tabV9BcVBVckN0b29pOVNRQkVMYUI3QkIxaGZrN1kwNkFwc01vWTZwVHRndkVDTFI5WHFycHN5WW9KRF9PaDN3WGtkVmk0NTVscG1ZUG9uUFJmamduTEFVM0NNaHdlU2sxYzk0RG9CZXVHN0lZQnNDMVpvSDlMcy1tY2ZuZUZLX0xVEgQaAggAGpcIEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPMHCAAQABgAIAAqFQoDaG93FbYH8UAaCWF1dG9tYXRpYyoJCgJ0bxUAAAAAKmEKBGF1dG8Vw3b4PxoJYXV0b21hdGljGg1hdXRvbWF0aWNhbGx5GgthdXRvbW9iaWxlcxoKYXV0b21vdGl2ZRoDY2FyGgd2ZWhpY2xlGghhdXRvY3JvcBoJYXV0b21hdGljKjEKBGNyb3AVg9b7PxoIY3JvcHBpbmcaBWNyb3BzGghhdXRvY3JvcBoJaXY7cDtjcm9wKkEKCmhvcml6b250YWwVro7tQBoMaG9yaXpvbnRhbGx5Gg9ob3Jpem9udGFsdmlkZW8aD2l2O3A7aG9yaXpvbnRhbColCgV2aWRlbxXVrgNBGgZ2aWRlb3MaD2hvcml6b250YWx2aWRlbyoLCgRpbnRvFdKh4j8qOQoIdmVydGljYWwVuVsBQRoKdmVydGljYWxseRoNdmVydGljYWx2aWRlbxoNaXY7cDt2ZXJ0aWNhbColCgV2aWRlbxXVrgNBGgZ2aWRlb3MaD2hvcml6b250YWx2aWRlbyoLCgR3aXRoFQAAAAAqPAoDdHdvFaXWtj8aATIaBGJvdGgaBmRvdWJsZRoLZG91YmxlIGZhY2UaCHR3b2ZhY2VzGghtdWx0aXBsZSpFCgVmYWNlcxV6-Js_Ggtkb3VibGUgZmFjZRoEZmFjZRoFZmFjZWQaBWhlYWRzGgVzaWRlZBoFc2lkZXMaCHR3b2ZhY2VzMtUBL2dvdG8_dXJsPUNBRVNrd0VCeENKRjFfZWtmVmhYcFM3MmdCdnZNWkU2MF9tTFBMRVBUTjBmMUY5MVJ0UTZIUGRmdjdpQUkwWmlZYkxoRTFma2tabV9BcVBVckN0b29pOVNRQkVMYUI3QkIxaGZrN1kwNkFwc01vWTZwVHRndkVDTFI5WHFycHN5WW9KRF9PaDN3WGtkVmk0NTVscG1ZUG9uUFJmamduTEFVM0NNaHdlU2sxYzk0RG9CZXVHN0lZQnNDMVpvSDlMcy1tY2ZuZUZLX0xVOlJIb3cgdG8gQ3JlYXRlIDxiPlZlcnRpY2FsIFZpZGVvPC9iPiBGcm9tIDxiPkhvcml6b250YWw8L2I-IFdpdGhvdXQgPGI-Q3JvcHBpbmc8L2I-QowBVGhlIHNvbHV0aW9uIGlzIDxiPlJlZnJhbWVYJiMzOTtzIHNwbGl0IHNjcmVlbjwvYj4gd2hpY2ggc3RhY2tzIGJvdGggc3BlYWtlcnMgdmVydGljYWxseSwga2VlcGluZyBib3RoIGZhY2VzIHZpc2libGUgaW4gYSBuYXRpdmUgOToxNiBmcmFtZS5KAnRvSgR3aXRoUgEyIgIQAUgAWABoAA",
+        "source": "reframex.ai"
+      },
+      {
+        "position": 4,
+        "title": "Convert Horizontal Videos to Vertical Easily with Detail",
+        "link": "https://www.google.com/goto?url=CAESggEBxCJF1-p3-iE7OwlFE1RDRl4_AUOAgX9prr8P5Mt7tyaeN1CqYOWPI740Zrqg-fIs7ICvsEqu8TF1ATo6sL0walBGMlvl8lQxRPzQAAeF6-nh-qSZzJbzz8YWb8fmVaS5yJ4EXurbiSVyqzOHcPjEZhwEj4Va8VJgk9McxUtaX4bI&gsessionid=jFh5ltETVKZ3V3S9EHiUXp_S_6idE3Or4DliO8LfzN5s8gzpAdLXwQ",
+        "displayed_link": "11K+ views",
+        "date": "2 years ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f3326b036f38bbf64cec/images/bo-QYiKuINN-34K7pvA4PoFxlqQq51rKCHZht4u2V5o.webp",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEUAAAAAAAAFT1IAQUNBub6u5eexxcpyQ0wIAABaxsv5____9_nGj5oyAAD____84eeEYmvm4uN4f4A5P0MAFBXx-vu019khAAD60tr37vDlmqpXAAsALzAKc3gpo6hjpqr_6O3idYqcbHTSrLP6iJ9rABOc5Ofi-vvJYnXLbn8_AAI9HyWWIDhRz9TH9PffY3oDAAC99vjhSGe7KEenACiF4-f_1961PVaB09bFkZswjJGwuLr__f7xqbYYHh_9tsTiL1Yh8R0_AAAAAXRSTlP-GuMHfQAAANJJREFUeAG90kUCg1AMBNDiPtTd3d2V-5-quMOS2b6vSXI5IjnZIElSyUgzLMcnoSBKspKMUPMpiEKxVE5EVKr5WgTLBkr1BtBsBbHd6fZKOvYHw1F9PAkgSU9njXlNx8Vyxa2XfmxvtoC0M1GH_d6P3QPU8fFkY_Ar7Q0ag3ONIOKQvOB60i0WqSnUG6FnI6rzMJbvkB76zo5-wk0JIf8EGq9ndzN7f9bRrlQBcTYTcT22iAh-X9Ib7_dPm8Q1u5Zvfpq7c4uIQ56otVrLjEYzJX-4mxcG80U-CwAAAABJRU5ErkJggg.png",
+        "snippet": "I. Order frame button and toggle it on for both faces. 1. Switch the Action 6 to the custom 1:1 ratio (square) mode. 2. Frame your subject ...",
+        "duration": "1:00",
+        "about_this_result": {
+          "source": {
+            "description": "I. Order frame button and toggle it on for both faces. 1. Switch the Action 6 to the custom 1:1 ratio (square) mode. 2. Frame your subject ...",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEUAAAAAAAAFT1IAQUNBub6u5eexxcpyQ0wIAABaxsv5____9_nGj5oyAAD____84eeEYmvm4uN4f4A5P0MAFBXx-vu019khAAD60tr37vDlmqpXAAsALzAKc3gpo6hjpqr_6O3idYqcbHTSrLP6iJ9rABOc5Ofi-vvJYnXLbn8_AAI9HyWWIDhRz9TH9PffY3oDAAC99vjhSGe7KEenACiF4-f_1961PVaB09bFkZswjJGwuLr__f7xqbYYHh_9tsTiL1Yh8R0_AAAAAXRSTlP-GuMHfQAAANJJREFUeAG90kUCg1AMBNDiPtTd3d2V-5-quMOS2b6vSXI5IjnZIElSyUgzLMcnoSBKspKMUPMpiEKxVE5EVKr5WgTLBkr1BtBsBbHd6fZKOvYHw1F9PAkgSU9njXlNx8Vyxa2XfmxvtoC0M1GH_d6P3QPU8fFkY_Ar7Q0ag3ONIOKQvOB60i0WqSnUG6FnI6rzMJbvkB76zo5-wk0JIf8EGq9ndzN7f9bRrlQBcTYTcT22iAh-X9Ib7_dPm8Q1u5Zvfpq7c4uIQ56otVrLjEYzJX-4mxcG80U-CwAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCeENKRjEtcDMtaUU3T3dsRkUxUkRSbDRfQVVPQWdYOXBycjhQNU10N3R5YWVOMUNxWU9XUEk3NDBacnFnLWZJczdJQ3ZzRXF1OFRGMUFUbzZzTDB3YWxCR01sdmw4bFF4UlB6UUFBZUY2LW5oLXFTWnpKYnp6OFlXYjhmbVZhUzV5SjRFWHVyYmlTVnlxek9IY1BqRVpod0VqNFZhOFZKZ2s5TWN4VXRhWDRiSRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCeENKRjEtcDMtaUU3T3dsRkUxUkRSbDRfQVVPQWdYOXBycjhQNU10N3R5YWVOMUNxWU9XUEk3NDBacnFnLWZJczdJQ3ZzRXF1OFRGMUFUbzZzTDB3YWxCR01sdmw4bFF4UlB6UUFBZUY2LW5oLXFTWnpKYnp6OFlXYjhmbVZhUzV5SjRFWHVyYmlTVnlxek9IY1BqRVpod0VqNFZhOFZKZ2s5TWN4VXRhWDRiSRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR7h3VX954aH5UcbT-xn2sfjHMxVDZ4rJTr-w",
+        "source": "TikTok \u00b7 Detail Video"
+      },
+      {
+        "position": 5,
+        "title": "Convert Horizontal Video to Vertical with AI | Luma",
+        "link": "https://www.google.com/goto?url=CAESdwHEIkXXhbfaXezGxXACdmAIEpT4uwAIeP9N5voXQAh7bskTWQfGmdK-C8dmMkCfHFsS-Mip6ePqCrc8RK0PQaybyEanZWvbCDTLuS4F5mQS7Pwcv8GBFfb8nhidyUesiLzeJLmTjdL8zsYZZLl0M1fQqqu2BX_D",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHEIkXXPznQx-62mlf_OqLaDbg8DyBmcnQlN3DcdLerMBWky9zGbRhSEQL8wvS03Ju6muytACCfjNNeG7JSIQ_GX6mxxxkYQAnj39BXR0a4RP5KZ7GrkNyK4x0rwetg4UtCHliHFNr7TL0s3dMTdFgK8ECMgqmu&ved=2ahUKEwiE6tKd3JuYAxUTBoAAHUa1GtUQFnoECEcQAQ&uoh=1",
+        "displayed_link": "https://lumalabs.ai \u203a reframe \u203a convert-horizontal-to-ve...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlTPQ5AAAAEHRSTlMAE0QFOHGxJpCsVqjiyqO-z-wOIQAAAIZJREFUeAFjIAYIofBMwpB57BHTkHjMK3ZuQ-JW7NyNxC3N3I3EZe_cTUtuTiAyN_fMvoUI7vwzZ17PUIRyu_ffAXJ3bnWAcNvunAFyd-98WgDmzjkD5u7e2WUA4ldCudPaIbp9wdzZ7TDvxwK5syFKwdp7z7xsLUCEgFHPU2fkwJNyJCb4AWwEV0Ehy5zYAAAAAElFTkSuQmCC.png",
+        "snippet": "Convert horizontal video to vertical with Reframe with Luma. Turn 16:9 footage into 9:16 for TikTok, Reels, and Shorts with smart AI framing, no reshoots.",
+        "snippet_highlighted_words": [
+          "Convert horizontal video to vertical with Reframe with Luma"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Convert horizontal video to vertical with Reframe with Luma. Turn 16:9 footage into 9:16 for TikTok, Reels, and Shorts with smart AI framing, no reshoots.",
+            "source_info_link": "https://www.google.com/goto?url=CAESdwHEIkXXhbfaXezGxXACdmAIEpT4uwAIeP9N5voXQAh7bskTWQfGmdK-C8dmMkCfHFsS-Mip6ePqCrc8RK0PQaybyEanZWvbCDTLuS4F5mQS7Pwcv8GBFfb8nhidyUesiLzeJLmTjdL8zsYZZLl0M1fQqqu2BX_D",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlTPQ5AAAAEHRSTlMAE0QFOHGxJpCsVqjiyqO-z-wOIQAAAIZJREFUeAFjIAYIofBMwpB57BHTkHjMK3ZuQ-JW7NyNxC3N3I3EZe_cTUtuTiAyN_fMvoUI7vwzZ17PUIRyu_ffAXJ3bnWAcNvunAFyd-98WgDmzjkD5u7e2WUA4ldCudPaIbp9wdzZ7TDvxwK5syFKwdp7z7xsLUCEgFHPU2fkwJNyJCb4AWwEV0Ehy5zYAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq4BL2dvdG8_dXJsPUNBRVNkd0hFSWtYWGhiZmFYZXpHeFhBQ2RtQUlFcFQ0dXdBSWVQOU41dm9YUUFoN2Jza1RXUWZHbWRLLUM4ZG1Na0NmSEZzUy1NaXA2ZVBxQ3JjOFJLMFBRYXlieUVhblpXdmJDRFRMdVM0RjVtUVM3UHdjdjhHQkZmYjhuaGlkeVVlc2lMemVKTG1UamRMOHpzWVpaTGwwTTFmUXFxdTJCWF9EEgQaAggAGvQHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNAHCAAQABgAIAAqFQoDaG93FdWJez8aCWF1dG9tYXRpYyoJCgJ0bxUAAAAAKmEKBGF1dG8V2tdBPhoJYXV0b21hdGljGg1hdXRvbWF0aWNhbGx5GgthdXRvbW9iaWxlcxoKYXV0b21vdGl2ZRoDY2FyGgd2ZWhpY2xlGghhdXRvY3JvcBoJYXV0b21hdGljKjEKBGNyb3AVAAAAABoIY3JvcHBpbmcaBWNyb3BzGghhdXRvY3JvcBoJaXY7cDtjcm9wKkEKCmhvcml6b250YWwVRs7dQBoMaG9yaXpvbnRhbGx5Gg9ob3Jpem9udGFsdmlkZW8aD2l2O3A7aG9yaXpvbnRhbColCgV2aWRlbxWIcMJAGgZ2aWRlb3MaD2hvcml6b250YWx2aWRlbyoLCgRpbnRvFVBqOEAqOQoIdmVydGljYWwVzI_1QBoKdmVydGljYWxseRoNdmVydGljYWx2aWRlbxoNaXY7cDt2ZXJ0aWNhbColCgV2aWRlbxWIcMJAGgZ2aWRlb3MaD2hvcml6b250YWx2aWRlbyoLCgR3aXRoFQAAAAAqPAoDdHdvFQAAAAAaATIaBGJvdGgaBmRvdWJsZRoLZG91YmxlIGZhY2UaCHR3b2ZhY2VzGghtdWx0aXBsZSpFCgVmYWNlcxXMSo8-Ggtkb3VibGUgZmFjZRoEZmFjZRoFZmFjZWQaBWhlYWRzGgVzaWRlZBoFc2lkZXMaCHR3b2ZhY2VzMq4BL2dvdG8_dXJsPUNBRVNkd0hFSWtYWGhiZmFYZXpHeFhBQ2RtQUlFcFQ0dXdBSWVQOU41dm9YUUFoN2Jza1RXUWZHbWRLLUM4ZG1Na0NmSEZzUy1NaXA2ZVBxQ3JjOFJLMFBRYXlieUVhblpXdmJDRFRMdVM0RjVtUVM3UHdjdjhHQkZmYjhuaGlkeVVlc2lMemVKTG1UamRMOHpzWVpaTGwwTTFmUXFxdTJCWF9EOkFDb252ZXJ0IDxiPkhvcml6b250YWwgVmlkZW88L2I-IHRvIDxiPlZlcnRpY2FsPC9iPiB3aXRoIEFJIHwgTHVtYUKhATxiPkNvbnZlcnQgaG9yaXpvbnRhbCB2aWRlbyB0byB2ZXJ0aWNhbCB3aXRoIFJlZnJhbWUgd2l0aCBMdW1hPC9iPi4gVHVybiAxNjo5IGZvb3RhZ2UgaW50byA5OjE2IGZvciBUaWtUb2ssIFJlZWxzLCBhbmQgU2hvcnRzIHdpdGggc21hcnQgQUkgZnJhbWluZywgbm8gcmVzaG9vdHMuSgR3aXRoSgJ0b1IBMiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq4BL2dvdG8_dXJsPUNBRVNkd0hFSWtYWGhiZmFYZXpHeFhBQ2RtQUlFcFQ0dXdBSWVQOU41dm9YUUFoN2Jza1RXUWZHbWRLLUM4ZG1Na0NmSEZzUy1NaXA2ZVBxQ3JjOFJLMFBRYXlieUVhblpXdmJDRFRMdVM0RjVtUVM3UHdjdjhHQkZmYjhuaGlkeVVlc2lMemVKTG1UamRMOHpzWVpaTGwwTTFmUXFxdTJCWF9EEgQaAggAGvQHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNAHCAAQABgAIAAqFQoDaG93FdWJez8aCWF1dG9tYXRpYyoJCgJ0bxUAAAAAKmEKBGF1dG8V2tdBPhoJYXV0b21hdGljGg1hdXRvbWF0aWNhbGx5GgthdXRvbW9iaWxlcxoKYXV0b21vdGl2ZRoDY2FyGgd2ZWhpY2xlGghhdXRvY3JvcBoJYXV0b21hdGljKjEKBGNyb3AVAAAAABoIY3JvcHBpbmcaBWNyb3BzGghhdXRvY3JvcBoJaXY7cDtjcm9wKkEKCmhvcml6b250YWwVRs7dQBoMaG9yaXpvbnRhbGx5Gg9ob3Jpem9udGFsdmlkZW8aD2l2O3A7aG9yaXpvbnRhbColCgV2aWRlbxWIcMJAGgZ2aWRlb3MaD2hvcml6b250YWx2aWRlbyoLCgRpbnRvFVBqOEAqOQoIdmVydGljYWwVzI_1QBoKdmVydGljYWxseRoNdmVydGljYWx2aWRlbxoNaXY7cDt2ZXJ0aWNhbColCgV2aWRlbxWIcMJAGgZ2aWRlb3MaD2hvcml6b250YWx2aWRlbyoLCgR3aXRoFQAAAAAqPAoDdHdvFQAAAAAaATIaBGJvdGgaBmRvdWJsZRoLZG91YmxlIGZhY2UaCHR3b2ZhY2VzGghtdWx0aXBsZSpFCgVmYWNlcxXMSo8-Ggtkb3VibGUgZmFjZRoEZmFjZRoFZmFjZWQaBWhlYWRzGgVzaWRlZBoFc2lkZXMaCHR3b2ZhY2VzMq4BL2dvdG8_dXJsPUNBRVNkd0hFSWtYWGhiZmFYZXpHeFhBQ2RtQUlFcFQ0dXdBSWVQOU41dm9YUUFoN2Jza1RXUWZHbWRLLUM4ZG1Na0NmSEZzUy1NaXA2ZVBxQ3JjOFJLMFBRYXlieUVhblpXdmJDRFRMdVM0RjVtUVM3UHdjdjhHQkZmYjhuaGlkeVVlc2lMemVKTG1UamRMOHpzWVpaTGwwTTFmUXFxdTJCWF9EOkFDb252ZXJ0IDxiPkhvcml6b250YWwgVmlkZW88L2I-IHRvIDxiPlZlcnRpY2FsPC9iPiB3aXRoIEFJIHwgTHVtYUKhATxiPkNvbnZlcnQgaG9yaXpvbnRhbCB2aWRlbyB0byB2ZXJ0aWNhbCB3aXRoIFJlZnJhbWUgd2l0aCBMdW1hPC9iPi4gVHVybiAxNjo5IGZvb3RhZ2UgaW50byA5OjE2IGZvciBUaWtUb2ssIFJlZWxzLCBhbmQgU2hvcnRzIHdpdGggc21hcnQgQUkgZnJhbWluZywgbm8gcmVzaG9vdHMuSgR3aXRoSgJ0b1IBMiICEAFIAFgAaAA",
+        "source": "lumalabs.ai"
+      },
+      {
+        "position": 6,
+        "title": "Convert Horizontal Video to Vertical (No Cutoffs)",
+        "link": "https://www.google.com/goto?url=CAESnAEBxCJF18Djpk52wuHO_DyzK0f24b0AIHZqMNdMx3kHH-iZDFnANvf-ig1DlJLvz4-WchRcpvjjWA9qq31diKxWcNmy8mPrhg100lOmnmDBaybzUTWduyREcNdalf0_pcFxpyrN4-0g1PfvLb74vexRaPOaIK3P5tLfxuJSuH-NrKfvQVJ0u1I8klSdLIbV5cew0XijmVj2mYJPogE",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnAEBxCJF16fxBsuv6Fe62pbW8WPt3OvEL7zs7f-TInAOg1FXarucYQMs1959jkyFlNpy5EznqubG8zib7LtkfPESVqphGYOwJ1h5mo1-6RAmtobUVEcBasEsvUYXlF9RM1FkWK8w2eyh9a45jsz0x0vlqKfNi5tcbVBUo-rQPoK5I2ksUkRyPfr-Z9nLUB-koRD_hsvyxCr2MfOtXBY&ved=2ahUKEwiE6tKd3JuYAxUTBoAAHUa1GtUQFnoECEoQAQ&uoh=1",
+        "displayed_link": "https://vidocu.ai \u203a blog \u203a how-to-convert-a-horizontal-...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAJ1BMVEVHcEwAeHgAeHgAeHgAeXkAcHD___8yh4fY5eXh7Oy81NQAZmaty8sObjyZAAAABHRSTlMAadjEIX3fiwAAAI9JREFUKJGNk1kOwyAMRA3xEpfe_7x1AFWYJqPOD5Yeg7xBRKXyjWqh0MF2Kz7Cx_ogLlQtznPKVX2GqlaJO2zS1V5hGNGpxheMay4jDQlqPfjC5olmKOK7d4Esu3eFO7UEf7wJ7tQTHHTW-1bN8Epi1f8QPYsSQqWgJqD2ocbDkaFhP68JXDC4mnCp0Xf4AG-iEUvCdsybAAAAAElFTkSuQmCC.png",
+        "date": "Oct 25, 2026",
+        "snippet": "To convert a horizontal video to vertical, change its frame from 16:9 to 9:16 (1080 x 1920) in one of three ways: crop a fixed vertical slice, ...",
+        "snippet_highlighted_words": [
+          "change its frame from 16:9 to 9:16"
+        ],
+        "sitelinks": {
+          "inline": [
+            {
+              "title": "Method 2: Capcut (desktop...",
+              "link": "https://www.google.com/goto?url=CAES4wEBxCJF1w9tOCLwZGNwl1amlfXx6qxxc_o5Ut-blF6-gI4Ju1LDXL9RoE6NrxXdYlUqxIGV7CRjBm0GN2XTKWsk-wiNWrYL7gFU1raA_4YBDn4bWSrsZNAps7z2ohYHFzKOn8FPed5lRqmHp_I2ppuTJmuKbVfLSINd6HSm0EpjYh31i5L4doDxtgwyQZE8OC8CHD6pM_j0hstNDgsRBFHFcx5blpoRgmsbTEFt2YVcjuraei3Piqg8mYDrW0IFqtVS3vIXkD2af7m-zmCkJgKRLTQrI7jwki1ZEx8IYPH1ay7znw&gsessionid=jFh5ltETVKZ3V3S9EHiUXp_S_6idE3Or4DliO8LfzN5s8gzpAdLXwQ"
+            },
+            {
+              "title": "Method 3: Adobe Premiere",
+              "link": "https://www.google.com/goto?url=CAESxgEBxCJF145lrXdkLZU_uBZKgaSTcknbzIDlIV2NiHMi7VEFCkz50IxbDqK3lDOzozlDbCcr7dMFtvhXwsxyOprWyKcYULXbeBIDavC_Je7ZMaiA6UOEGrDEB_sKChpyYdls5F--O0GpLxQW7vRmdS7PmKKxbKlcoQJB_YKiUfDZR9T3ru7Y6Wb90fBEn_Tl4nw-XS7oojst4FyC-AatMhbVyjpf8BOJU-PdCkEGZKFZtRxXrDhWj-6EJ7cFVS-Trk2ZL1W9PUw&gsessionid=jFh5ltETVKZ3V3S9EHiUXp_S_6idE3Or4DliO8LfzN5s8gzpAdLXwQ"
+            },
+            {
+              "title": "Screen Recordings Need A...",
+              "link": "https://www.google.com/goto?url=CAES2wEBxCJF19OU_ZDNqUn36PjMx_pBVK_cNWRZgiwxQFoIoh7T9pss7T_tq1tNlYp2gGwm7TKQdq0c27pR4RNytJxCJyikITrTr9Zmn0_0ZVF57zwB4PlRm485-BAkXV7f4d8ZlG1COlJU1IJ3hyl78I2t_g1PQgbDRPhPAWarWsDTSrjAYk6grDAu6SOx4VrlILtpGomHoJIKedMr97rUYfPngLTJcg0A-teA33BNVeNZDLriR1TgTX91J02coR-L7iwVeZ9-uWubtQwJFkVxd6qweroeJeD70r5EEx0&gsessionid=jFh5ltETVKZ3V3S9EHiUXp_S_6idE3Or4DliO8LfzN5s8gzpAdLXwQ"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "To convert a horizontal video to vertical, change its frame from 16:9 to 9:16 (1080 x 1920) in one of three ways: crop a fixed vertical slice, ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESnAEBxCJF18Djpk52wuHO_DyzK0f24b0AIHZqMNdMx3kHH-iZDFnANvf-ig1DlJLvz4-WchRcpvjjWA9qq31diKxWcNmy8mPrhg100lOmnmDBaybzUTWduyREcNdalf0_pcFxpyrN4-0g1PfvLb74vexRaPOaIK3P5tLfxuJSuH-NrKfvQVJ0u1I8klSdLIbV5cew0XijmVj2mYJPogE",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAJ1BMVEVHcEwAeHgAeHgAeHgAeXkAcHD___8yh4fY5eXh7Oy81NQAZmaty8sObjyZAAAABHRSTlMAadjEIX3fiwAAAI9JREFUKJGNk1kOwyAMRA3xEpfe_7x1AFWYJqPOD5Yeg7xBRKXyjWqh0MF2Kz7Cx_ogLlQtznPKVX2GqlaJO2zS1V5hGNGpxheMay4jDQlqPfjC5olmKOK7d4Esu3eFO7UEf7wJ7tQTHHTW-1bN8Epi1f8QPYsSQqWgJqD2ocbDkaFhP68JXDC4mnCp0Xf4AG-iEUvCdsybAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuEBL2dvdG8_dXJsPUNBRVNuQUVCeENKRjE4RGpwazUyd3VIT19EeXpLMGYyNGIwQUlIWnFNTmRNeDNrSEgtaVpERm5BTnZmLWlnMURsSkx2ejQtV2NoUmNwdmpqV0E5cXEzMWRpS3hXY05teThtUHJoZzEwMGxPbW5tREJheWJ6VVRXZHV5UkVjTmRhbGYwX3BjRnhweXJONC0wZzFQZnZMYjc0dmV4UmFQT2FJSzNQNXRMZnh1SlN1SC1OcktmdlFWSjB1MUk4a2xTZExJYlY1Y2V3MFhpam1WajJtWUpQb2dFEgQaAggAGq0IEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHICCAF6AIJAhwgIABAAGAAgACoVCgNob3cVPKg_QBoJYXV0b21hdGljKgkKAnRvFQAAAAAqYQoEYXV0bxWPxJA_GglhdXRvbWF0aWMaDWF1dG9tYXRpY2FsbHkaC2F1dG9tb2JpbGVzGgphdXRvbW90aXZlGgNjYXIaB3ZlaGljbGUaCGF1dG9jcm9wGglhdXRvbWF0aWMqMQoEY3JvcBXiECxAGghjcm9wcGluZxoFY3JvcHMaCGF1dG9jcm9wGglpdjtwO2Nyb3AqQQoKaG9yaXpvbnRhbBW2u5tAGgxob3Jpem9udGFsbHkaD2hvcml6b250YWx2aWRlbxoPaXY7cDtob3Jpem9udGFsKiUKBXZpZGVvFYiR7kAaBnZpZGVvcxoPaG9yaXpvbnRhbHZpZGVvKgsKBGludG8VNGHAPyo5Cgh2ZXJ0aWNhbBWk8KhAGgp2ZXJ0aWNhbGx5Gg12ZXJ0aWNhbHZpZGVvGg1pdjtwO3ZlcnRpY2FsKiUKBXZpZGVvFYiR7kAaBnZpZGVvcxoPaG9yaXpvbnRhbHZpZGVvKgsKBHdpdGgVAAAAACo8CgN0d28VujujPhoBMhoEYm90aBoGZG91YmxlGgtkb3VibGUgZmFjZRoIdHdvZmFjZXMaCG11bHRpcGxlKkUKBWZhY2VzFZiVfj4aC2RvdWJsZSBmYWNlGgRmYWNlGgVmYWNlZBoFaGVhZHMaBXNpZGVkGgVzaWRlcxoIdHdvZmFjZXMy4QEvZ290bz91cmw9Q0FFU25BRUJ4Q0pGMThEanBrNTJ3dUhPX0R5ekswZjI0YjBBSUhacU1OZE14M2tISC1pWkRGbkFOdmYtaWcxRGxKTHZ6NC1XY2hSY3B2ampXQTlxcTMxZGlLeFdjTm15OG1QcmhnMTAwbE9tbm1EQmF5YnpVVFdkdXlSRWNOZGFsZjBfcGNGeHB5ck40LTBnMVBmdkxiNzR2ZXhSYVBPYUlLM1A1dExmeHVKU3VILU5yS2Z2UVZKMHUxSThrbFNkTEliVjVjZXcwWGlqbVZqMm1ZSlBvZ0U6SENvbnZlcnQgPGI-SG9yaXpvbnRhbCBWaWRlbzwvYj4gdG8gPGI-VmVydGljYWw8L2I-IChObyBDdXRvZmZzKSB8IFZpZG9jdUKeAVRvIGNvbnZlcnQgYSBob3Jpem9udGFsIHZpZGVvIHRvIHZlcnRpY2FsLCA8Yj5jaGFuZ2UgaXRzIGZyYW1lIGZyb20gMTY6OSB0byA5OjE2PC9iPiAoMTA4MCB4IDE5MjApIGluIG9uZSBvZiB0aHJlZSB3YXlzOiBjcm9wIGEgZml4ZWQgdmVydGljYWwgc2xpY2UsJm5ic3A7Li4uSgJ0b0oEd2l0aFIBMiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuEBL2dvdG8_dXJsPUNBRVNuQUVCeENKRjE4RGpwazUyd3VIT19EeXpLMGYyNGIwQUlIWnFNTmRNeDNrSEgtaVpERm5BTnZmLWlnMURsSkx2ejQtV2NoUmNwdmpqV0E5cXEzMWRpS3hXY05teThtUHJoZzEwMGxPbW5tREJheWJ6VVRXZHV5UkVjTmRhbGYwX3BjRnhweXJONC0wZzFQZnZMYjc0dmV4UmFQT2FJSzNQNXRMZnh1SlN1SC1OcktmdlFWSjB1MUk4a2xTZExJYlY1Y2V3MFhpam1WajJtWUpQb2dFEgQaAggAGq0IEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHICCAF6AIJAhwgIABAAGAAgACoVCgNob3cVPKg_QBoJYXV0b21hdGljKgkKAnRvFQAAAAAqYQoEYXV0bxWPxJA_GglhdXRvbWF0aWMaDWF1dG9tYXRpY2FsbHkaC2F1dG9tb2JpbGVzGgphdXRvbW90aXZlGgNjYXIaB3ZlaGljbGUaCGF1dG9jcm9wGglhdXRvbWF0aWMqMQoEY3JvcBXiECxAGghjcm9wcGluZxoFY3JvcHMaCGF1dG9jcm9wGglpdjtwO2Nyb3AqQQoKaG9yaXpvbnRhbBW2u5tAGgxob3Jpem9udGFsbHkaD2hvcml6b250YWx2aWRlbxoPaXY7cDtob3Jpem9udGFsKiUKBXZpZGVvFYiR7kAaBnZpZGVvcxoPaG9yaXpvbnRhbHZpZGVvKgsKBGludG8VNGHAPyo5Cgh2ZXJ0aWNhbBWk8KhAGgp2ZXJ0aWNhbGx5Gg12ZXJ0aWNhbHZpZGVvGg1pdjtwO3ZlcnRpY2FsKiUKBXZpZGVvFYiR7kAaBnZpZGVvcxoPaG9yaXpvbnRhbHZpZGVvKgsKBHdpdGgVAAAAACo8CgN0d28VujujPhoBMhoEYm90aBoGZG91YmxlGgtkb3VibGUgZmFjZRoIdHdvZmFjZXMaCG11bHRpcGxlKkUKBWZhY2VzFZiVfj4aC2RvdWJsZSBmYWNlGgRmYWNlGgVmYWNlZBoFaGVhZHMaBXNpZGVkGgVzaWRlcxoIdHdvZmFjZXMy4QEvZ290bz91cmw9Q0FFU25BRUJ4Q0pGMThEanBrNTJ3dUhPX0R5ekswZjI0YjBBSUhacU1OZE14M2tISC1pWkRGbkFOdmYtaWcxRGxKTHZ6NC1XY2hSY3B2ampXQTlxcTMxZGlLeFdjTm15OG1QcmhnMTAwbE9tbm1EQmF5YnpVVFdkdXlSRWNOZGFsZjBfcGNGeHB5ck40LTBnMVBmdkxiNzR2ZXhSYVBPYUlLM1A1dExmeHVKU3VILU5yS2Z2UVZKMHUxSThrbFNkTEliVjVjZXcwWGlqbVZqMm1ZSlBvZ0U6SENvbnZlcnQgPGI-SG9yaXpvbnRhbCBWaWRlbzwvYj4gdG8gPGI-VmVydGljYWw8L2I-IChObyBDdXRvZmZzKSB8IFZpZG9jdUKeAVRvIGNvbnZlcnQgYSBob3Jpem9udGFsIHZpZGVvIHRvIHZlcnRpY2FsLCA8Yj5jaGFuZ2UgaXRzIGZyYW1lIGZyb20gMTY6OSB0byA5OjE2PC9iPiAoMTA4MCB4IDE5MjApIGluIG9uZSBvZiB0aHJlZSB3YXlzOiBjcm9wIGEgZml4ZWQgdmVydGljYWwgc2xpY2UsJm5ic3A7Li4uSgJ0b0oEd2l0aFIBMiICEAFIAFgAaAA",
+        "source": "Vidocu",
+        "read_more_link": "https://www.google.com/goto?url=CAES8gEBxCJF1-ZZN5YyJluxjRGZLdmcWiwrKjhRwCZqcclNfSjWqQDPKf11A6wGoLLqoaCh1H3bBfdBgW89b6KxlvHi4x8cjE0VGGOYlfJNsNW6EULd9lgyzyILGazWcXg1u14TRWc_1i02RpFOrWORNITe2wF_Gn_sg4SgR9ytvtWDOwpxenmPPxFzmavmGtzO3gl1ynzL7XtFKO33P75ycsUiXeq2HDPDv3Tu_jrqhA8_hgLgfSZhs43u_EE-J1qrUWFG5y7RmV3qYTqFJQlLd8ee0C8SdkgBi8beoC44eAE7kM4o_BJhxWdFDXImfi4EAurZZA&gsessionid=jFh5ltETVKZ3V3S9EHiUXp_S_6idE3Or4DliO8LfzN5s8gzpAdLXwQ"
+      },
+      {
+        "position": 7,
+        "title": "5 apps to auto-reframe / smart crop horizontal to vertical ...",
+        "link": "https://www.google.com/goto?url=CAESlwEBxCJF15B3h0cF5KKaZTsDGhPg2BQ6bN9ExmRIq0vW8iFkzbZyb6OIfm8MH4N5Q95xYff_IDZ83rMmr1x-vmi9krYh8UsTiftKv5Yup8Q1d48AxJcRlulpTFth-QntIiceiS1w2YuFG34KHkJoV7-38k1mmfyVcJqVYvM1qGJWr8w8tQ8Cur1r4fBUis0vDIzmbX0ugj5v",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlwEBxCJF1wLisXbkJ8i_9U6IVqzsmhK8RS7-xKkAdxdLkJtgjY6yanLX2KlJvKobq5WlRKy1jDw3HilnwAB3xQJEqyFhNmYEUWFMkmePLdn1gBzwV3A3XwoUNt8YLPfiyiEvjER-U1l7sdJ7Ah75mk2BXSKcSyRCmrQ6ZVU9zAgkiIg6kWormv5jRMqNMAr-NUwurTlSp7Z-&ved=2ahUKEwiE6tKd3JuYAxUTBoAAHUa1GtUQFnoECEsQAQ&uoh=1",
+        "displayed_link": "https://www.paulbakaus.com \u203a 5-apps-to-auto-reframe-...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEVHcEw-HABEIgAvAAA1EwA5HADVmxHSwGy2gBOnUQCWSwD_9IzOZgCqVQD_4G3OvWvagwkWAAD_wAD_ugAAAAD_yQD_xACIXADghwCPYgBxSgDars5SAAAAC3RSTlMArv_____-____5wWsIUUAAADqSURBVHgBfdMFDsQgEAXQonWZwcre_6CLrAwJ6Y9UHi7DMDDeDUuUUHQiFcvE9NjJNC-MDVyMayd62xUveJzn0eQcrx-eAGhIEMRM0DrvPRZIL87CHw90VggISTGAENa5-4_GCy5FSHUxKiXB-RblpKcQEKN8aR3i1qL2GsAnjN7RAT3X7PdJsY42IRntv89kCWV0dJ4fzGa6AyL4ikHriyKIDwYpJXikfWII2hScQowBkdY0iGiq5hiK6E0T7266Zb4xOpVRgEMSB3KvKCd9zfN9kdzzvlVU89ZJRcaWvZuFlZOrukn0eB3edegivYW88mIAAAAASUVORK5CYII.png",
+        "date": "Jul 14, 2022",
+        "snippet": "The generally accepted best way to do this is by capturing horizontal video at a 16:9 aspect ratio, then converting it to formats like square (1 ...",
+        "snippet_highlighted_words": [
+          "capturing horizontal video at a 16:9 aspect ratio"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The generally accepted best way to do this is by capturing horizontal video at a 16:9 aspect ratio, then converting it to formats like square (1 ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESlwEBxCJF15B3h0cF5KKaZTsDGhPg2BQ6bN9ExmRIq0vW8iFkzbZyb6OIfm8MH4N5Q95xYff_IDZ83rMmr1x-vmi9krYh8UsTiftKv5Yup8Q1d48AxJcRlulpTFth-QntIiceiS1w2YuFG34KHkJoV7-38k1mmfyVcJqVYvM1qGJWr8w8tQ8Cur1r4fBUis0vDIzmbX0ugj5v",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAUVBMVEVHcEw-HABEIgAvAAA1EwA5HADVmxHSwGy2gBOnUQCWSwD_9IzOZgCqVQD_4G3OvWvagwkWAAD_wAD_ugAAAAD_yQD_xACIXADghwCPYgBxSgDars5SAAAAC3RSTlMArv_____-____5wWsIUUAAADqSURBVHgBfdMFDsQgEAXQonWZwcre_6CLrAwJ6Y9UHi7DMDDeDUuUUHQiFcvE9NjJNC-MDVyMayd62xUveJzn0eQcrx-eAGhIEMRM0DrvPRZIL87CHw90VggISTGAENa5-4_GCy5FSHUxKiXB-RblpKcQEKN8aR3i1qL2GsAnjN7RAT3X7PdJsY42IRntv89kCWV0dJ4fzGa6AyL4ikHriyKIDwYpJXikfWII2hScQowBkdY0iGiq5hiK6E0T7266Zb4xOpVRgEMSB3KvKCd9zfN9kdzzvlVU89ZJRcaWvZuFlZOrukn0eB3edegivYW88mIAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtoBL2dvdG8_dXJsPUNBRVNsd0VCeENKRjE1QjNoMGNGNUtLYVpUc0RHaFBnMkJRNmJOOUV4bVJJcTB2VzhpRmt6Ylp5YjZPSWZtOE1INE41UTk1eFlmZl9JRFo4M3JNbXIxeC12bWk5a3JZaDhVc1RpZnRLdjVZdXA4UTFkNDhBeEpjUmx1bHBURnRoLVFudElpY2VpUzF3Mll1RkczNEtIa0pvVjctMzhrMW1tZnlWY0pxVll2TTFxR0pXcjh3OHRROEN1cjFyNGZCVWlzMHZESXptYlgwdWdqNXYSBBoCCAAaswgSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAjwgIABAAGAAgACoVCgNob3cVAAAAABoJYXV0b21hdGljKgkKAnRvFQAAAAAqYQoEYXV0bxU46vVAGglhdXRvbWF0aWMaDWF1dG9tYXRpY2FsbHkaC2F1dG9tb2JpbGVzGgphdXRvbW90aXZlGgNjYXIaB3ZlaGljbGUaCGF1dG9jcm9wGglhdXRvbWF0aWMqMQoEY3JvcBVKe9RAGghjcm9wcGluZxoFY3JvcHMaCGF1dG9jcm9wGglpdjtwO2Nyb3AqQQoKaG9yaXpvbnRhbBX-Ns1AGgxob3Jpem9udGFsbHkaD2hvcml6b250YWx2aWRlbxoPaXY7cDtob3Jpem9udGFsKiUKBXZpZGVvFXYI6EAaBnZpZGVvcxoPaG9yaXpvbnRhbHZpZGVvKgsKBGludG8VAAAAACo5Cgh2ZXJ0aWNhbBX-Ns1AGgp2ZXJ0aWNhbGx5Gg12ZXJ0aWNhbHZpZGVvGg1pdjtwO3ZlcnRpY2FsKiUKBXZpZGVvFXYI6EAaBnZpZGVvcxoPaG9yaXpvbnRhbHZpZGVvKgsKBHdpdGgVAAAAACo8CgN0d28VAAAAABoBMhoEYm90aBoGZG91YmxlGgtkb3VibGUgZmFjZRoIdHdvZmFjZXMaCG11bHRpcGxlKkUKBWZhY2VzFQAAAAAaC2RvdWJsZSBmYWNlGgRmYWNlGgVmYWNlZBoFaGVhZHMaBXNpZGVkGgVzaWRlcxoIdHdvZmFjZXMy2gEvZ290bz91cmw9Q0FFU2x3RUJ4Q0pGMTVCM2gwY0Y1S0thWlRzREdoUGcyQlE2Yk45RXhtUklxMHZXOGlGa3piWnliNk9JZm04TUg0TjVROTV4WWZmX0lEWjgzck1tcjF4LXZtaTlrclloOFVzVGlmdEt2NVl1cDhRMWQ0OEF4SmNSbHVscFRGdGgtUW50SWljZWlTMXcyWXVGRzM0S0hrSm9WNy0zOGsxbW1meVZjSnFWWXZNMXFHSldyOHc4dFE4Q3VyMXI0ZkJVaXMwdkRJem1iWDB1Z2o1djpVNSBhcHBzIHRvIDxiPmF1dG88L2I-LXJlZnJhbWUgLyBzbWFydCA8Yj5jcm9wIGhvcml6b250YWw8L2I-IHRvIDxiPnZlcnRpY2FsIHZpZGVvPC9iPkKgAVRoZSBnZW5lcmFsbHkgYWNjZXB0ZWQgYmVzdCB3YXkgdG8gZG8gdGhpcyBpcyBieSA8Yj5jYXB0dXJpbmcgaG9yaXpvbnRhbCB2aWRlbyBhdCBhIDE2OjkgYXNwZWN0IHJhdGlvPC9iPiwgdGhlbiBjb252ZXJ0aW5nIGl0IHRvIGZvcm1hdHMgbGlrZSBzcXVhcmUgKDEmbmJzcDsuLi5KBHdpdGhKAnRvUgEyIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtoBL2dvdG8_dXJsPUNBRVNsd0VCeENKRjE1QjNoMGNGNUtLYVpUc0RHaFBnMkJRNmJOOUV4bVJJcTB2VzhpRmt6Ylp5YjZPSWZtOE1INE41UTk1eFlmZl9JRFo4M3JNbXIxeC12bWk5a3JZaDhVc1RpZnRLdjVZdXA4UTFkNDhBeEpjUmx1bHBURnRoLVFudElpY2VpUzF3Mll1RkczNEtIa0pvVjctMzhrMW1tZnlWY0pxVll2TTFxR0pXcjh3OHRROEN1cjFyNGZCVWlzMHZESXptYlgwdWdqNXYSBBoCCAAaswgSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAjwgIABAAGAAgACoVCgNob3cVAAAAABoJYXV0b21hdGljKgkKAnRvFQAAAAAqYQoEYXV0bxU46vVAGglhdXRvbWF0aWMaDWF1dG9tYXRpY2FsbHkaC2F1dG9tb2JpbGVzGgphdXRvbW90aXZlGgNjYXIaB3ZlaGljbGUaCGF1dG9jcm9wGglhdXRvbWF0aWMqMQoEY3JvcBVKe9RAGghjcm9wcGluZxoFY3JvcHMaCGF1dG9jcm9wGglpdjtwO2Nyb3AqQQoKaG9yaXpvbnRhbBX-Ns1AGgxob3Jpem9udGFsbHkaD2hvcml6b250YWx2aWRlbxoPaXY7cDtob3Jpem9udGFsKiUKBXZpZGVvFXYI6EAaBnZpZGVvcxoPaG9yaXpvbnRhbHZpZGVvKgsKBGludG8VAAAAACo5Cgh2ZXJ0aWNhbBX-Ns1AGgp2ZXJ0aWNhbGx5Gg12ZXJ0aWNhbHZpZGVvGg1pdjtwO3ZlcnRpY2FsKiUKBXZpZGVvFXYI6EAaBnZpZGVvcxoPaG9yaXpvbnRhbHZpZGVvKgsKBHdpdGgVAAAAACo8CgN0d28VAAAAABoBMhoEYm90aBoGZG91YmxlGgtkb3VibGUgZmFjZRoIdHdvZmFjZXMaCG11bHRpcGxlKkUKBWZhY2VzFQAAAAAaC2RvdWJsZSBmYWNlGgRmYWNlGgVmYWNlZBoFaGVhZHMaBXNpZGVkGgVzaWRlcxoIdHdvZmFjZXMy2gEvZ290bz91cmw9Q0FFU2x3RUJ4Q0pGMTVCM2gwY0Y1S0thWlRzREdoUGcyQlE2Yk45RXhtUklxMHZXOGlGa3piWnliNk9JZm04TUg0TjVROTV4WWZmX0lEWjgzck1tcjF4LXZtaTlrclloOFVzVGlmdEt2NVl1cDhRMWQ0OEF4SmNSbHVscFRGdGgtUW50SWljZWlTMXcyWXVGRzM0S0hrSm9WNy0zOGsxbW1meVZjSnFWWXZNMXFHSldyOHc4dFE4Q3VyMXI0ZkJVaXMwdkRJem1iWDB1Z2o1djpVNSBhcHBzIHRvIDxiPmF1dG88L2I-LXJlZnJhbWUgLyBzbWFydCA8Yj5jcm9wIGhvcml6b250YWw8L2I-IHRvIDxiPnZlcnRpY2FsIHZpZGVvPC9iPkKgAVRoZSBnZW5lcmFsbHkgYWNjZXB0ZWQgYmVzdCB3YXkgdG8gZG8gdGhpcyBpcyBieSA8Yj5jYXB0dXJpbmcgaG9yaXpvbnRhbCB2aWRlbyBhdCBhIDE2OjkgYXNwZWN0IHJhdGlvPC9iPiwgdGhlbiBjb252ZXJ0aW5nIGl0IHRvIGZvcm1hdHMgbGlrZSBzcXVhcmUgKDEmbmJzcDsuLi5KBHdpdGhKAnRvUgEyIgIQAUgAWABoAA",
+        "source": "Paul Bakaus",
+        "read_more_link": "https://www.google.com/goto?url=CAES6gEBxCJF11TNwnD4fHK3f4g-OCxLmlQbu29TGWxByAQLg49Ub3Wusj1flsH1Yxx968FRbzNFatzm8_R3Sd6SORbvZhOeSmNiq18E1mj-wPX2zJZ0Y1Uy8PLHBuhtj3-dmjB4au_ZxPa1OTrTtDRQnZXaFbaWKcOIgq-XVQCv_fJj3QFKfGYg2LqfrdbFSUUNmnNKkTgANBcfNek4Vtze7vkYlwvAjUy4DZNGiU1cux83XQVwd5Igr09hZc9YW-Lwj5bF3k_GA-a3bEmDOSrLVDiBtGWW0FrH_f1TZqmCdk2aunvKNceVDVh9eiQ&gsessionid=jFh5ltETVKZ3V3S9EHiUXp_S_6idE3Or4DliO8LfzN5s8gzpAdLXwQ"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "How to auto crop horizontal video into vertical video with two faces online",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDhJQCP-qxxeKWHVUy1zYJ2ZRYuUOQ:1795355447709&q=How+to+auto+crop+horizontal+video+into+vertical+video+with+two+faces+online&sa=X&ved=2ahUKEwiE6tKd3JuYAxUTBoAAHUa1GtUQ1QJ6BAhAEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+auto+crop+horizontal+video+into+vertical+video+with+two+faces+online"
+      },
+      {
+        "block_position": 1,
+        "query": "How to auto crop horizontal video into vertical video with two faces iphone",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDhJQCP-qxxeKWHVUy1zYJ2ZRYuUOQ:1795355447709&q=How+to+auto+crop+horizontal+video+into+vertical+video+with+two+faces+iphone&sa=X&ved=2ahUKEwiE6tKd3JuYAxUTBoAAHUa1GtUQ1QJ6BAhEEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+auto+crop+horizontal+video+into+vertical+video+with+two+faces+iphone"
+      },
+      {
+        "block_position": 1,
+        "query": "How to auto crop horizontal video into vertical video with two faces free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDhJQCP-qxxeKWHVUy1zYJ2ZRYuUOQ:1795355447709&q=How+to+auto+crop+horizontal+video+into+vertical+video+with+two+faces+free&sa=X&ved=2ahUKEwiE6tKd3JuYAxUTBoAAHUa1GtUQ1QJ6BAhGEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+auto+crop+horizontal+video+into+vertical+video+with+two+faces+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Convert horizontal video to vertical online free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDhJQCP-qxxeKWHVUy1zYJ2ZRYuUOQ:1795355447709&q=Convert+horizontal+video+to+vertical+online+free&sa=X&ved=2ahUKEwiE6tKd3JuYAxUTBoAAHUa1GtUQ1QJ6BAhFEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Convert+horizontal+video+to+vertical+online+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Vertical video to horizontal video Converter",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDhJQCP-qxxeKWHVUy1zYJ2ZRYuUOQ:1795355447709&q=Vertical+video+to+horizontal+video+Converter&sa=X&ved=2ahUKEwiE6tKd3JuYAxUTBoAAHUa1GtUQ1QJ6BAhDEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Vertical+video+to+horizontal+video+Converter"
+      },
+      {
+        "block_position": 1,
+        "query": "How to convert horizontal video to vertical without cropping",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDhJQCP-qxxeKWHVUy1zYJ2ZRYuUOQ:1795355447709&q=How+to+convert+horizontal+video+to+vertical+without+cropping&sa=X&ved=2ahUKEwiE6tKd3JuYAxUTBoAAHUa1GtUQ1QJ6BAhCEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+convert+horizontal+video+to+vertical+without+cropping"
+      },
+      {
+        "block_position": 1,
+        "query": "Convert horizontal video to vertical online free AI",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDhJQCP-qxxeKWHVUy1zYJ2ZRYuUOQ:1795355447709&q=Convert+horizontal+video+to+vertical+online+free+AI&sa=X&ved=2ahUKEwiE6tKd3JuYAxUTBoAAHUa1GtUQ1QJ6BAg_EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Convert+horizontal+video+to+vertical+online+free+AI"
+      },
+      {
+        "block_position": 1,
+        "query": "AI vertical video Generator free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDhJQCP-qxxeKWHVUy1zYJ2ZRYuUOQ:1795355447709&q=AI+vertical+video+Generator+free&sa=X&ved=2ahUKEwiE6tKd3JuYAxUTBoAAHUa1GtUQ1QJ6BAg-EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AI+vertical+video+Generator+free"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "Smart ideas for turning a horizontal video into a vertical one?",
+        "link": "https://www.google.com/goto?url=CAESpQEBxCJF11pIy7MDkD_INy_ixESo09ESPyb3fwfmrG6scn4kRZfVSD13UUAhnuG_SHJ42FKXZ3LqC1sFpymgc6cFVtP7pl-dhDxcmmV61OZS5ZejL58-dWN-wMydHlr7a4bM384eq1AIXvUH6sJnjvbzdMINCCyspnDTUfEKQhLdZJbq6E-4oxlaYpJYwGHhkor2SF7FLAuihXUaKnVpw1kH_fLYopA&gsessionid=jFh5ltETVKZ3V3S9EHiUXp_S_6idE3Or4DliO8LfzN5s8gzpAdLXwQ",
+        "date": "9 years ago",
+        "extensions": [
+          "r/VideoEditing",
+          "8 comments"
+        ],
+        "source": "Reddit",
+        "answers": [
+          {
+            "link": "https://www.google.com/goto?url=CAESpQEBxCJF11pIy7MDkD_INy_ixESo09ESPyb3fwfmrG6scn4kRZfVSD13UUAhnuG_SHJ42FKXZ3LqC1sFpymgc6cFVtP7pl-dhDxcmmV61OZS5ZejL58-dWN-wMydHlr7a4bM384eq1AIXvUH6sJnjvbzdMINCCyspnDTUfEKQhLdZJbq6E-4oxlaYpJYwGHhkor2SF7FLAuihXUaKnVpw1kH_fLYopA&gsessionid=jFh5ltETVKZ3V3S9EHiUXp_S_6idE3Or4DliO8LfzN5s8gzpAdLXwQ"
+          }
+        ]
+      },
+      {
+        "title": "What is the software/app to convert horizontal videos to vertical videos?",
+        "link": "https://www.google.com/goto?url=CAESmwEBxCJF182la91ZIZVMo9Fb6za2Ag-1ySd8I3dCmvTTbfn7K6XQ-ubRayRHCuP5pwL3EB8am8eORfynSFy94_9xJHBRAmvsADooVpEHfDBG2yhOILk6ytXZ-7tTvXYk-2aOKXk9s1KiPGakKwDzENPSMmU3UAmxlCze8BjPEirY-sQLMO1QPgjdGSRkCNGMO4rK7JWop4Kf0FfeQg&gsessionid=jFh5ltETVKZ3V3S9EHiUXp_S_6idE3Or4DliO8LfzN5s8gzpAdLXwQ",
+        "date": "8 years ago",
+        "extensions": [
+          "30+ answers"
+        ],
+        "source": "Quora",
+        "answers": [
+          {
+            "link": "https://www.google.com/goto?url=CAESrQEBxCJF1-r_L1_hNAd8-V8Y2nzRw_cDir4Dx5OMHi8jg8HNd9Ivv1Ps1ykkc9gWhmz1aqRojFa1_Lm3diiJEvwnmZetD3oWmoOJaLyUn6Rw8c6gLruLhalCdVJbJ-IKFpWrGR4LCbBwwKMfychOak9YSwNLz_e5IYHhYEl4V1_cHqrfWIDZU_K0b9_eAiKDnTldTB-LLFMKvCNTaaAtoVJmOx68LkfP1CQ7JSAiqw&gsessionid=jFh5ltETVKZ3V3S9EHiUXp_S_6idE3Or4DliO8LfzN5s8gzpAdLXwQ",
+            "extensions": [
+              "Top answer",
+              "6 years ago"
+            ]
+          }
+        ]
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=How+to+auto+crop+horizontal+video+into+vertical+video+with+two+faces&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDhJQCP-qxxeKWHVUy1zYJ2ZRYuUOQ:1795355447709&ei=N_MCa8TyKpOMgLQPxurqqA0&start=10&sa=N&sstk=AYl2yk9ase86SUT6MQVhjqgh9tkBa9AbyXj0htWH9U-eJ2Y6FFpotaue6N3-A6Vgj3Xwv63dcQeG84Gqp7eV_U5vkjrwJqqbeSr83w&ved=2ahUKEwiE6tKd3JuYAxUTBoAAHUa1GtUQ8NMDegQIPBAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=How+to+auto+crop+horizontal+video+into+vertical+video+with+two+faces&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDhJQCP-qxxeKWHVUy1zYJ2ZRYuUOQ:1795355447709&ei=N_MCa8TyKpOMgLQPxurqqA0&start=10&sa=N&sstk=AYl2yk9ase86SUT6MQVhjqgh9tkBa9AbyXj0htWH9U-eJ2Y6FFpotaue6N3-A6Vgj3Xwv63dcQeG84Gqp7eV_U5vkjrwJqqbeSr83w&ved=2ahUKEwiE6tKd3JuYAxUTBoAAHUa1GtUQ8tMDegQIPBAE",
+        "3": "https://www.google.com/search?q=How+to+auto+crop+horizontal+video+into+vertical+video+with+two+faces&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDhJQCP-qxxeKWHVUy1zYJ2ZRYuUOQ:1795355447709&ei=N_MCa8TyKpOMgLQPxurqqA0&start=20&sa=N&sstk=AYl2yk9ase86SUT6MQVhjqgh9tkBa9AbyXj0htWH9U-eJ2Y6FFpotaue6N3-A6Vgj3Xwv63dcQeG84Gqp7eV_U5vkjrwJqqbeSr83w&ved=2ahUKEwiE6tKd3JuYAxUTBoAAHUa1GtUQ8tMDegQIPBAG",
+        "4": "https://www.google.com/search?q=How+to+auto+crop+horizontal+video+into+vertical+video+with+two+faces&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDhJQCP-qxxeKWHVUy1zYJ2ZRYuUOQ:1795355447709&ei=N_MCa8TyKpOMgLQPxurqqA0&start=30&sa=N&sstk=AYl2yk9ase86SUT6MQVhjqgh9tkBa9AbyXj0htWH9U-eJ2Y6FFpotaue6N3-A6Vgj3Xwv63dcQeG84Gqp7eV_U5vkjrwJqqbeSr83w&ved=2ahUKEwiE6tKd3JuYAxUTBoAAHUa1GtUQ8tMDegQIPBAI",
+        "5": "https://www.google.com/search?q=How+to+auto+crop+horizontal+video+into+vertical+video+with+two+faces&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDhJQCP-qxxeKWHVUy1zYJ2ZRYuUOQ:1795355447709&ei=N_MCa8TyKpOMgLQPxurqqA0&start=40&sa=N&sstk=AYl2yk9ase86SUT6MQVhjqgh9tkBa9AbyXj0htWH9U-eJ2Y6FFpotaue6N3-A6Vgj3Xwv63dcQeG84Gqp7eV_U5vkjrwJqqbeSr83w&ved=2ahUKEwiE6tKd3JuYAxUTBoAAHUa1GtUQ8tMDegQIPBAK",
+        "6": "https://www.google.com/search?q=How+to+auto+crop+horizontal+video+into+vertical+video+with+two+faces&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDhJQCP-qxxeKWHVUy1zYJ2ZRYuUOQ:1795355447709&ei=N_MCa8TyKpOMgLQPxurqqA0&start=50&sa=N&sstk=AYl2yk9ase86SUT6MQVhjqgh9tkBa9AbyXj0htWH9U-eJ2Y6FFpotaue6N3-A6Vgj3Xwv63dcQeG84Gqp7eV_U5vkjrwJqqbeSr83w&ved=2ahUKEwiE6tKd3JuYAxUTBoAAHUa1GtUQ8tMDegQIPBAM",
+        "7": "https://www.google.com/search?q=How+to+auto+crop+horizontal+video+into+vertical+video+with+two+faces&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDhJQCP-qxxeKWHVUy1zYJ2ZRYuUOQ:1795355447709&ei=N_MCa8TyKpOMgLQPxurqqA0&start=60&sa=N&sstk=AYl2yk9ase86SUT6MQVhjqgh9tkBa9AbyXj0htWH9U-eJ2Y6FFpotaue6N3-A6Vgj3Xwv63dcQeG84Gqp7eV_U5vkjrwJqqbeSr83w&ved=2ahUKEwiE6tKd3JuYAxUTBoAAHUa1GtUQ8tMDegQIPBAO",
+        "8": "https://www.google.com/search?q=How+to+auto+crop+horizontal+video+into+vertical+video+with+two+faces&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDhJQCP-qxxeKWHVUy1zYJ2ZRYuUOQ:1795355447709&ei=N_MCa8TyKpOMgLQPxurqqA0&start=70&sa=N&sstk=AYl2yk9ase86SUT6MQVhjqgh9tkBa9AbyXj0htWH9U-eJ2Y6FFpotaue6N3-A6Vgj3Xwv63dcQeG84Gqp7eV_U5vkjrwJqqbeSr83w&ved=2ahUKEwiE6tKd3JuYAxUTBoAAHUa1GtUQ8tMDegQIPBAQ",
+        "9": "https://www.google.com/search?q=How+to+auto+crop+horizontal+video+into+vertical+video+with+two+faces&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDhJQCP-qxxeKWHVUy1zYJ2ZRYuUOQ:1795355447709&ei=N_MCa8TyKpOMgLQPxurqqA0&start=80&sa=N&sstk=AYl2yk9ase86SUT6MQVhjqgh9tkBa9AbyXj0htWH9U-eJ2Y6FFpotaue6N3-A6Vgj3Xwv63dcQeG84Gqp7eV_U5vkjrwJqqbeSr83w&ved=2ahUKEwiE6tKd3JuYAxUTBoAAHUa1GtUQ8tMDegQIPBAS",
+        "10": "https://www.google.com/search?q=How+to+auto+crop+horizontal+video+into+vertical+video+with+two+faces&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDhJQCP-qxxeKWHVUy1zYJ2ZRYuUOQ:1795355447709&ei=N_MCa8TyKpOMgLQPxurqqA0&start=90&sa=N&sstk=AYl2yk9ase86SUT6MQVhjqgh9tkBa9AbyXj0htWH9U-eJ2Y6FFpotaue6N3-A6Vgj3Xwv63dcQeG84Gqp7eV_U5vkjrwJqqbeSr83w&ved=2ahUKEwiE6tKd3JuYAxUTBoAAHUa1GtUQ8tMDegQIPBAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+auto+crop+horizontal+video+into+vertical+video+with+two+faces&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+auto+crop+horizontal+video+into+vertical+video+with+two+faces&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+auto+crop+horizontal+video+into+vertical+video+with+two+faces&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+auto+crop+horizontal+video+into+vertical+video+with+two+faces&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+auto+crop+horizontal+video+into+vertical+video+with+two+faces&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+auto+crop+horizontal+video+into+vertical+video+with+two+faces&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+auto+crop+horizontal+video+into+vertical+video+with+two+faces&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+auto+crop+horizontal+video+into+vertical+video+with+two+faces&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+auto+crop+horizontal+video+into+vertical+video+with+two+faces&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+auto+crop+horizontal+video+into+vertical+video+with+two+faces&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+auto+crop+horizontal+video+into+vertical+video+with+two+faces&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

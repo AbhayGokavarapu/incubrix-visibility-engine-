@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "mainEntity": {
+    "@type": "Person",
+    "name": "IncuBrix Engineering Team",
+    "jobTitle": "CreatorOps & AI Media Systems Researchers",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "IncuBrix",
+      "url": "https://incubrix.com"
+    },
+    "description": "Engineers and product designers building automated AI workflows for content creators and modern media studios.",
+    "sameAs": [
+      "https://linkedin.com/company/incubrix",
+      "https://github.com/incubrix"
+    ]
+  }
+}

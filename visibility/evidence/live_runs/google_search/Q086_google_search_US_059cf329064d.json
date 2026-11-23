@@ -1,0 +1,453 @@
+{
+  "measurement_id": "059cf329064d",
+  "question_id": "Q086",
+  "timestamp_utc": "2026-11-22T13:50:32.284335+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "Best AI clipping software that supports 4K HDR video files",
+  "market": "US",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [
+    "Opus Clip",
+    "Submagic",
+    "Riverside"
+  ],
+  "position": null,
+  "citations": [
+    "https://www.opus.pro/blog/best-free-ai-clipping-tools",
+    "https://www.google.com/goto?url=CAESZwHEIkXXx8Yqos1Zy7NtLq4qKEc_m5C26wjr_QpdMCbE8QaTzMYSLkX7bJ2LTIboM5lZf3wep4HLKeImWsAY-9fmm_1peaCzBbutIbukQvfTFM5kYCjlsi1yKk_wyGRO6Wh18CXJ_NI&gsessionid=_3QNk3HW8LKiyGIMxbGdpO5MJZo3hBzeWb7S9HGLNEWQQJeNL2T_bA",
+    "https://www.google.com/goto?url=CAESlgEBxCJF19USo2ADuLXQP80Q3k1P1Cm_nhuVHDE4eM7ol7F2Sww4Fh66uchN3Qy-GIwZQX6KbLgB9lPhxm6bRjZZAPyBasR78wHE_yrBqv0Y6zLWK_ugxnVSdb43xZYh2_ZiG4svGMGVFLu-oxpF_JnfrIXzMgV8CKyo8nkzrST4bPZK-d6hczrRAsct5Y52X4-ctWkLHho",
+    "https://www.google.com/goto?url=CAESTgHEIkXX-nU1qFUlvQGTdKjDKfVHdJOof-o-EU4CRxOU9Po1s1p5HIa-fp1cev0PFgeQUjHoyRHd5MooRWLc5jT7VWyavvdq-apfcWtrxQ",
+    "https://www.google.com/goto?url=CAESbgHEIkXXsWLpr02Dl7JrJjP_znwaUTqaOGOwSQeSCsMlM_r6e7jU-kspzTy98-K7kJ9adnFICjA3h6RAu29bHY-Etj_ANwtVQL4O6IBKxtrYP3mPo6x8K7zfwyxhq3natcxaGAZ-E23hlwgGf3JT",
+    "https://www.google.com/goto?url=CAESdQHEIkXXkZ65CCbT_7tS-2i5fHh9MNxFs0CbwTHyCmsPIEMrQovae4uWDDR3qGfFanDrDe3Kz8F_CIBOibPUjP1z_WDfYuWArvWT_ZbxEXJkHnj9RaDMEU88Vh485WiVTseE0Yn2jLcdV874VsUGgNfi31d-Jg",
+    "https://www.google.com/goto?url=CAESXQHEIkXXEMISKdpnnysgyBu3rstQ20wIeI69uWSJJTp3V6ysE-Mq6DN9oHqc93RLuWypOASDwgwjGk1JfvDFRXDu4gNKeIypVs-OXxhgrntJRPRWtY1EwPG2dWAFlw",
+    "https://www.google.com/goto?url=CAESbgHEIkXX8e780mNS5tTvteTm_abQNdtuQ7OqZnW8Egh_yxvLYA6QrXZC49w-aGpPsL-M-uL7a5Zew6dWuZ-GOFS2SlKO3SUiVW1Fhory9mnlVSh4YXgd60Vjxi_agWTYTcsSQoi6gtigvysdkPFk"
+  ],
+  "raw_text_summary": "8 Best Free AI Clipping Tools (2026) OpusClip is the pick for free AI clipping: its Free forever plan finds clips in a long video, adds captions and reframes to vertical, ... The BEST AI Clipping Tool in 2026: Riverside vs Opus ... way. In this video, I test and compare three of the most talked-about AI clipping tools: Riverside, Submagic, and Opus Clip. From recording ... Which AI tool creates the best clips? : r/podcasting I've been looking at all the AI tools that create \"magic clips\" and I find this to be the toughest part of editing, actually finding those bits of magic ... Vizard.ai | #1 AI Video Editing and Clipping Tool Vizard turns your long form videos into engaging viral clips with AI. Make your engaging social-ready videos with just a few clicks. Free AI Clip Maker & AI Shorts Maker \u2014 Turn Long Videos ... Choppity is a free AI clip maker and AI shorts maker. Upload any long video or podcast and our clips AI finds 30+ viral-ready Shorts, TikToks and Reels with ... 7 Best Clipping Software for Windows Gamers (2026) Eklipse works from completed Twitch, Kick, or YouTube streams and includes vertical editing, captions, and publishing. Medal saves local replays as you play. AI Clip Maker | Short Clips For Social Media Generate short clips from long video in one click. Magic Clips automatically identifies, highlights and makes clips for YouTube, Instagram, and TikTok. Free AI Clip Generator | Adobe Express Create engaging, bite-sized video clips effortlessly with the Adobe Express AI Clip maker. Just upload your video, and watch as AI highlights key segments, ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f325d181699e209774b8",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/34Qzq5Mym8wPnOu4tGut2y0yeNHWvDlBuuugh6SqMyU/6b02f325d181699e209774b8.json",
+      "markdown_endpoint": "https://serpapi.com/searches/34Qzq5Mym8wPnOu4tGut2y0yeNHWvDlBuuugh6SqMyU/6b02f325d181699e209774b8.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/34Qzq5Mym8wPnOu4tGut2y0yeNHWvDlBuuugh6SqMyU/6b02f325d181699e209774b8.json_with_pixel_position",
+      "created_at": "2026-11-22 13:50:29 UTC",
+      "processed_at": "2026-11-22 13:50:29 UTC",
+      "google_url": "https://www.google.com/search?q=Best+AI+clipping+software+that+supports+4K+HDR+video+files&oq=Best+AI+clipping+software+that+supports+4K+HDR+video+files&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/34Qzq5Mym8wPnOu4tGut2y0yeNHWvDlBuuugh6SqMyU/6b02f325d181699e209774b8.html",
+      "total_time_taken": 1.21
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "Best AI clipping software that supports 4K HDR video files",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "Best AI clipping software that supports 4K HDR video files",
+      "total_results": 50200000,
+      "time_taken_displayed": 0.31,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "5 Best AI Video Clipping Tools (2026) - Which Finds the ...",
+        "link": "https://www.google.com/goto?url=CAESZwHEIkXXxhg8pjwPFQ8wfo5txweJZGseRUnPdFVBVlEtuPV3UGuSIf6lXcmVxiAsnhfe3jhTWFvCCRyqApJB132HKGKKILSvqwOxjca3EIK8DUw7W83TicklOtrF8-N3LOlZxLV5qPw&gsessionid=_3QNk3HW8LKiyGIMxbGdpO5MJZo3hBzeWb7S9HGLNEWQQJeNL2T_bA",
+        "thumbnail": "https://serpapi.com/searches/6b02f325d181699e209774b8/images/neCHMUTbDQK4O3C3Gygk3v2Ep8WcReP3bCRbf4CyYug.jpg",
+        "channel": "Daniel Davidson",
+        "duration": "9:09",
+        "platform": "YouTube",
+        "date": "1 month ago",
+        "snippet": "Clap is the top AI video clipping tool for efficient workflow and usable shorts. Opus Clip and Wizard offer more options or selectivity.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS9bx1ybyS-b02YZRTxn29x4FMGqM6ld7kAfw"
+      },
+      {
+        "position": 2,
+        "title": "Best AI Clipping Software for Content Creators\u2014Submagic, ...",
+        "link": "https://www.google.com/goto?url=CAESZwHEIkXX-ZMbS-b0aI2o5dmBFKbtFK6q-I7qmYNje_8ELlWrgb5kpiZmcOJ9-vUJSPo1uMZsuy071Wee4f-6FhR1DH-E1ZVNK8L0gZ4cmecchAq4c32H8a6giK_QXb3U4pdHMotrGRQ&gsessionid=_3QNk3HW8LKiyGIMxbGdpO5MJZo3hBzeWb7S9HGLNEWQQJeNL2T_bA",
+        "thumbnail": "https://serpapi.com/searches/6b02f325d181699e209774b8/images/h8i7KXXCfco0YxtCg5pG8ugRPyZ0e-wpSGYq8CYGdEk.jpg",
+        "channel": "Vil Vas - Software Reviews",
+        "duration": "16:54",
+        "platform": "YouTube",
+        "date": "Sep 5, 2026",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQEzAIok82c-EnejDidi8rEb6Jb7x4DqO5Rjg"
+      },
+      {
+        "position": 3,
+        "title": "I Tried Every AI Clipping Tool (here's which matter)",
+        "link": "https://www.google.com/goto?url=CAESZwHEIkXXgSzRe5ixN5dB-bYRZbHJnb7-wI8avDPIe4_5v2YinaMpz6kV-f4EGijBIriGwgA0jjo18wWCBhUjC4qpjleKOf5Rnli4CtVfwrd4Fsy4LvHRtBq3vF4Xms1jr3nmFETUcdQ&gsessionid=_3QNk3HW8LKiyGIMxbGdpO5MJZo3hBzeWb7S9HGLNEWQQJeNL2T_bA",
+        "thumbnail": "https://serpapi.com/searches/6b02f325d181699e209774b8/images/RwcXbk5UXFy4BHkETEtMW-RUiqxx_1N_zy5VbWehAzU.jpg",
+        "channel": "Skai Generated",
+        "duration": "9:19",
+        "platform": "YouTube",
+        "date": "Sep 4, 2026",
+        "snippet": "Higsfield is an AI clipping tool that offers editing, image, and video models under one subscription, unlike Opus Clip or Descript."
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "Which AI is best for clipping videos?",
+        "type": "ai_overview",
+        "page_token": "rYdnxHicHZBBbqMwAEXVuUu7bDA0HREpGomGDGFqUmNsx2wqY5O4wQYaSCFZ9iyzmsP0AL3GXKBRV3_39N5__2te6urz6k33fdvNJpNhGG53TbMz5a1s7ER0p1pOpDCmELKa3f-8B7-2ch4eV8HD6ypAJA25UYaZdsv3tE4y6pBFfMJEOpB1d8i2Mal8gWsFiqV5ZHWKsOu3G0dn3HKXb4LXwvpeQeNYhkuCLHQzpg_J78RbU52Wta4VU2FGphgS37AqeZJGI-UCl5rVnSDtA3bGKAHqKT2rsYhon5MO4Go4X7gUsnzMolQjqxhmU4ptd-JuPIWeErmX1FnEx3KzjIjNA7FfrimN_6gq9kKtLgsWPDMAEaOTcz7lbo_gQj0m-yBQY_OCiF7DkHg4VBg646W-BYj5EFO_5SwEF5_jemEwcbqzGm628m3u3Xz_OX_e2n7WHprdP3koRV-qZ9F_VD_-X38B4DaKag",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=rYdnxHicHZBBbqMwAEXVuUu7bDA0HREpGomGDGFqUmNsx2wqY5O4wQYaSCFZ9iyzmsP0AL3GXKBRV3_39N5__2te6urz6k33fdvNJpNhGG53TbMz5a1s7ER0p1pOpDCmELKa3f-8B7-2ch4eV8HD6ypAJA25UYaZdsv3tE4y6pBFfMJEOpB1d8i2Mal8gWsFiqV5ZHWKsOu3G0dn3HKXb4LXwvpeQeNYhkuCLHQzpg_J78RbU52Wta4VU2FGphgS37AqeZJGI-UCl5rVnSDtA3bGKAHqKT2rsYhon5MO4Go4X7gUsnzMolQjqxhmU4ptd-JuPIWeErmX1FnEx3KzjIjNA7FfrimN_6gq9kKtLgsWPDMAEaOTcz7lbo_gQj0m-yBQY_OCiF7DkHg4VBg646W-BYj5EFO_5SwEF5_jemEwcbqzGm628m3u3Xz_OX_e2n7WHprdP3koRV-qZ9F_VD_-X38B4DaKag",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVVFODRhVmRYTldKbmFuVnljRkl3YzNWdGNrNTViV1E1VGxWUU1IbFNjWEZ1ZDNwUGFVUmpOSHA0TkdacmJ6VmhRamcwYWtRdFQydFpZMmRDWDI1SVZVUlllVnB3WlRacGJ5MUNkemxIVWtwVE1USmhXVkJsYlRGR1FSSVhTblpOUTJFNWRVRkpZVGMyZVdOclVEQTNTell3UVhjYUlrRklUakJGTjBadlRXRXhhak5QVEhoR1RVbHlXRlYyT0ZWcGRWaEdRVlExU1VFIiwiZmN2IjoiMyIsImVpIjoiSnZNQ2E5dUFJYTc2eWNrUDA3SzYwQXciLCJxYyI6IkNqcGlaWE4wSUdGcElHTnNhWEJ3YVc1bklITnZablIzWVhKbElIUm9ZWFFnYzNWd2NHOXlkSE1nTkdzZ2FHUnlJSFpwWkdWdklHWnBiR1Z6RUFCOVNINENQdyIsInF1ZXN0aW9uIjoiV2hpY2ggQUkgaXMgYmVzdCBmb3IgY2xpcHBpbmcgdmlkZW9zPyIsImxrIjoiR2lSM2FHbGphQ0JoYVNCcGN5QmlaWE4wSUdadmNpQmpiR2x3Y0dsdVp5QjJhV1JsYjNNIiwiYnMiOiJjMzJPUHctQ01CQkg0OXJKeVJDbTgtOEhJR3dPeERBWTRxQ0RDWE90QjcxSVdxUUY0cmUzZ0JKampQTjc5MzdIam15ZFNoSVNkZ21RZ1FzYUM1bXVRQlJVbHFSeWFPaUsya1RCeGwtMXZjanBuOGhDNW8zQm5CbzBFQjRHRmdXZVB4c2JIWVB3TmlDR2JKdEticnV5bFRqVWpjNXN5eXZzWl9CS3RsdHhzUXFOTG1wTFduMC01MUxmWUR4NmwxakNGakZYRUx1cF9la01xQ1JYQWxfMnZlWUYyVWNVTFAyNWNKWndWbDdhMzlaMDhnUSIsImlkIjoiZmNfSnZNQ2E5dUFJYTc2eWNrUDA3SzYwQXdfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVVFODRhVmRYTldKbmFuVnljRkl3YzNWdGNrNTViV1E1VGxWUU1IbFNjWEZ1ZDNwUGFVUmpOSHA0TkdacmJ6VmhRamcwYWtRdFQydFpZMmRDWDI1SVZVUlllVnB3WlRacGJ5MUNkemxIVWtwVE1USmhXVkJsYlRGR1FSSVhTblpOUTJFNWRVRkpZVGMyZVdOclVEQTNTell3UVhjYUlrRklUakJGTjBadlRXRXhhak5QVEhoR1RVbHlXRlYyT0ZWcGRWaEdRVlExU1VFIiwiZmN2IjoiMyIsImVpIjoiSnZNQ2E5dUFJYTc2eWNrUDA3SzYwQXciLCJxYyI6IkNqcGlaWE4wSUdGcElHTnNhWEJ3YVc1bklITnZablIzWVhKbElIUm9ZWFFnYzNWd2NHOXlkSE1nTkdzZ2FHUnlJSFpwWkdWdklHWnBiR1Z6RUFCOVNINENQdyIsInF1ZXN0aW9uIjoiV2hpY2ggQUkgaXMgYmVzdCBmb3IgY2xpcHBpbmcgdmlkZW9zPyIsImxrIjoiR2lSM2FHbGphQ0JoYVNCcGN5QmlaWE4wSUdadmNpQmpiR2x3Y0dsdVp5QjJhV1JsYjNNIiwiYnMiOiJjMzJPUHctQ01CQkg0OXJKeVJDbTgtOEhJR3dPeERBWTRxQ0RDWE90QjcxSVdxUUY0cmUzZ0JKampQTjc5MzdIam15ZFNoSVNkZ21RZ1FzYUM1bXVRQlJVbHFSeWFPaUsya1RCeGwtMXZjanBuOGhDNW8zQm5CbzBFQjRHRmdXZVB4c2JIWVB3TmlDR2JKdEticnV5bFRqVWpjNXN5eXZzWl9CS3RsdHhzUXFOTG1wTFduMC01MUxmWUR4NmwxakNGakZYRUx1cF9la01xQ1JYQWxfMnZlWUYyVWNVTFAyNWNKWndWbDdhMzlaMDhnUSIsImlkIjoiZmNfSnZNQ2E5dUFJYTc2eWNrUDA3SzYwQXdfNSJ9"
+      },
+      {
+        "question": "Which AI gives 4K video?",
+        "type": "ai_overview",
+        "page_token": "3miV5HicHdBLboJAAADQtHepS2VA22hiGqkzoNExDvOTjRkGEGH4RGlRlz1LVz1MD9Br9AJteoC3ee8f5lgV33cya9vmPBkMuq7rH-r6YJK-rsuBOl8rPdDKmEjpYvL49AieUz2F5859qTt3ywjcmdiIfDakaCypNaaCZ5CzMViJTBAr9qMyvFHBOuG7m2TuVmSurZVsJOXLa8jjkshlphlioYGO8I23YyN742UykBgqQ068gDfK0IJIdNFOAZhNhhgSkPhmoxhrtdd4zIklyckS--hVVwRtryDjHlBbh11FeXGjHK_WgNvUMoRYOMdsESCrsSnD2UZyNxDQwZXJFZh12Drba4gc77h0AzjsCI0RnZtFUPFUoXDxZ27RERRrn6wZDP3AhC4WI6eX6rep0_sfm-7Tsp00p_rwqU-JapN4r9qv4v7n4Rewcn0S",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=3miV5HicHdBLboJAAADQtHepS2VA22hiGqkzoNExDvOTjRkGEGH4RGlRlz1LVz1MD9Br9AJteoC3ee8f5lgV33cya9vmPBkMuq7rH-r6YJK-rsuBOl8rPdDKmEjpYvL49AieUz2F5859qTt3ywjcmdiIfDakaCypNaaCZ5CzMViJTBAr9qMyvFHBOuG7m2TuVmSurZVsJOXLa8jjkshlphlioYGO8I23YyN742UykBgqQ068gDfK0IJIdNFOAZhNhhgSkPhmoxhrtdd4zIklyckS--hVVwRtryDjHlBbh11FeXGjHK_WgNvUMoRYOMdsESCrsSnD2UZyNxDQwZXJFZh12Drba4gc77h0AzjsCI0RnZtFUPFUoXDxZ27RERRrn6wZDP3AhC4WI6eX6rep0_sfm-7Tsp00p_rwqU-JapN4r9qv4v7n4Rewcn0S",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVVFODRhVmRYTldKbmFuVnljRkl3YzNWdGNrNTViV1E1VGxWUU1IbFNjWEZ1ZDNwUGFVUmpOSHA0TkdacmJ6VmhRamcwYWtRdFQydFpZMmRDWDI1SVZVUlllVnB3WlRacGJ5MUNkemxIVWtwVE1USmhXVkJsYlRGR1FSSVhTblpOUTJFNWRVRkpZVGMyZVdOclVEQTNTell3UVhjYUlrRklUakJGTjBadlRXRXhhak5QVEhoR1RVbHlXRlYyT0ZWcGRWaEdRVlExU1VFIiwiZmN2IjoiMyIsImVpIjoiSnZNQ2E5dUFJYTc2eWNrUDA3SzYwQXciLCJxYyI6IkNqcGlaWE4wSUdGcElHTnNhWEJ3YVc1bklITnZablIzWVhKbElIUm9ZWFFnYzNWd2NHOXlkSE1nTkdzZ2FHUnlJSFpwWkdWdklHWnBiR1Z6RUFCOVNINENQdyIsInF1ZXN0aW9uIjoiV2hpY2ggQUkgZ2l2ZXMgNEsgdmlkZW8/IiwibGsiOiJHaFozYUdsamFDQmhhU0JuYVhabElEUnJJSFpwWkdWdiIsImJzIjoiYzMyT1B3LUNNQkJINDlySnlSQ204LThISUd3T3hEQVk0cUNEQ1hPdEI3MUlXcVFGNHJlM2dCSmpqUE43OTM3SGpteWRTaElTZGdtUWdRc2FDNW11UUJSVWxxUnlhT2lLMmtUQnhsLTF2Y2pwbjhoQzVvM0JuQm8wRUI0R0ZnV2VQeHNiSFlQd05pQ0diSnRLYnJ1eWxUalVqYzVzeXl2c1pfQkt0bHR4c1FxTkxtcExXbjAtNTFMZllEeDZsMWpDRmpGWEVMdXBfZWtNcUNSWEFsXzJ2ZVlGMlVjVUxQMjVjSlp3Vmw3YTM5WjA4Z1EiLCJpZCI6ImZjX0p2TUNhOXVBSWE3Nnlja1AwN0s2MEF3XzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVVFODRhVmRYTldKbmFuVnljRkl3YzNWdGNrNTViV1E1VGxWUU1IbFNjWEZ1ZDNwUGFVUmpOSHA0TkdacmJ6VmhRamcwYWtRdFQydFpZMmRDWDI1SVZVUlllVnB3WlRacGJ5MUNkemxIVWtwVE1USmhXVkJsYlRGR1FSSVhTblpOUTJFNWRVRkpZVGMyZVdOclVEQTNTell3UVhjYUlrRklUakJGTjBadlRXRXhhak5QVEhoR1RVbHlXRlYyT0ZWcGRWaEdRVlExU1VFIiwiZmN2IjoiMyIsImVpIjoiSnZNQ2E5dUFJYTc2eWNrUDA3SzYwQXciLCJxYyI6IkNqcGlaWE4wSUdGcElHTnNhWEJ3YVc1bklITnZablIzWVhKbElIUm9ZWFFnYzNWd2NHOXlkSE1nTkdzZ2FHUnlJSFpwWkdWdklHWnBiR1Z6RUFCOVNINENQdyIsInF1ZXN0aW9uIjoiV2hpY2ggQUkgZ2l2ZXMgNEsgdmlkZW8%2FIiwibGsiOiJHaFozYUdsamFDQmhhU0JuYVhabElEUnJJSFpwWkdWdiIsImJzIjoiYzMyT1B3LUNNQkJINDlySnlSQ204LThISUd3T3hEQVk0cUNEQ1hPdEI3MUlXcVFGNHJlM2dCSmpqUE43OTM3SGpteWRTaElTZGdtUWdRc2FDNW11UUJSVWxxUnlhT2lLMmtUQnhsLTF2Y2pwbjhoQzVvM0JuQm8wRUI0R0ZnV2VQeHNiSFlQd05pQ0diSnRLYnJ1eWxUalVqYzVzeXl2c1pfQkt0bHR4c1FxTkxtcExXbjAtNTFMZllEeDZsMWpDRmpGWEVMdXBfZWtNcUNSWEFsXzJ2ZVlGMlVjVUxQMjVjSlp3Vmw3YTM5WjA4Z1EiLCJpZCI6ImZjX0p2TUNhOXVBSWE3Nnlja1AwN0s2MEF3XzUifQ%3D%3D"
+      },
+      {
+        "question": "What is the best software for editing 4K resolution videos?",
+        "type": "ai_overview",
+        "page_token": "tqKIfnicHZBNboJAGEDT3qUuFVBsamIa0QFL4lgGZvjZmM8BBBkGKpNiXfYsXfUwPUCv0QvUdvsWLy_v_UOUsvq-iQql2m42GvV9Pzw0zUFkQ97UI-jeJB9xEGIPvJpN76f6Y87nqOutZdNbHiUoFqmIJe4Cw3WwoZmxpBoRLgG20AApE9NWgZYuCTJFWLuTDS3WQFnJWKUn4UOJnTNhRhqF1bmBgAWxFFtPWrlXFTaELexpu2QsLVhtJlf2nNECUcMu_3xEujXU7gtoRcKOxTi-YNenYsVqIcHB22uHwUJ12VT2kiFTpkexTqN2sgmffFtrjYDiYhsxyw_RGEtxBH3RY60zNsgeO6Vr-WjSkyBdx4y4ROKLpz-0e4QrzCzFff0MK5Ina1zzVUIGOX-djwf_x-a7vFaz9tQcPvkpA5WlO1Bf1e3P3S9jzn_R",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=tqKIfnicHZBNboJAGEDT3qUuFVBsamIa0QFL4lgGZvjZmM8BBBkGKpNiXfYsXfUwPUCv0QvUdvsWLy_v_UOUsvq-iQql2m42GvV9Pzw0zUFkQ97UI-jeJB9xEGIPvJpN76f6Y87nqOutZdNbHiUoFqmIJe4Cw3WwoZmxpBoRLgG20AApE9NWgZYuCTJFWLuTDS3WQFnJWKUn4UOJnTNhRhqF1bmBgAWxFFtPWrlXFTaELexpu2QsLVhtJlf2nNECUcMu_3xEujXU7gtoRcKOxTi-YNenYsVqIcHB22uHwUJ12VT2kiFTpkexTqN2sgmffFtrjYDiYhsxyw_RGEtxBH3RY60zNsgeO6Vr-WjSkyBdx4y4ROKLpz-0e4QrzCzFff0MK5Ina1zzVUIGOX-djwf_x-a7vFaz9tQcPvkpA5WlO1Bf1e3P3S9jzn_R",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVVFODRhVmRYTldKbmFuVnljRkl3YzNWdGNrNTViV1E1VGxWUU1IbFNjWEZ1ZDNwUGFVUmpOSHA0TkdacmJ6VmhRamcwYWtRdFQydFpZMmRDWDI1SVZVUlllVnB3WlRacGJ5MUNkemxIVWtwVE1USmhXVkJsYlRGR1FSSVhTblpOUTJFNWRVRkpZVGMyZVdOclVEQTNTell3UVhjYUlrRklUakJGTjBadlRXRXhhak5QVEhoR1RVbHlXRlYyT0ZWcGRWaEdRVlExU1VFIiwiZmN2IjoiMyIsImVpIjoiSnZNQ2E5dUFJYTc2eWNrUDA3SzYwQXciLCJxYyI6IkNqcGlaWE4wSUdGcElHTnNhWEJ3YVc1bklITnZablIzWVhKbElIUm9ZWFFnYzNWd2NHOXlkSE1nTkdzZ2FHUnlJSFpwWkdWdklHWnBiR1Z6RUFCOVNINENQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBzb2Z0d2FyZSBmb3IgZWRpdGluZyA0SyByZXNvbHV0aW9uIHZpZGVvcz8iLCJsayI6IkdpUTBheUJ5WlhOdmJIVjBhVzl1SUhacFpHVnZJR1ZrYVhScGJtY2djMjltZEhkaGNtVSIsImJzIjoiYzMyT1B3LUNNQkJINDlySnlSQ204LThISUd3T3hEQVk0cUNEQ1hPdEI3MUlXcVFGNHJlM2dCSmpqUE43OTM3SGpteWRTaElTZGdtUWdRc2FDNW11UUJSVWxxUnlhT2lLMmtUQnhsLTF2Y2pwbjhoQzVvM0JuQm8wRUI0R0ZnV2VQeHNiSFlQd05pQ0diSnRLYnJ1eWxUalVqYzVzeXl2c1pfQkt0bHR4c1FxTkxtcExXbjAtNTFMZllEeDZsMWpDRmpGWEVMdXBfZWtNcUNSWEFsXzJ2ZVlGMlVjVUxQMjVjSlp3Vmw3YTM5WjA4Z1EiLCJpZCI6ImZjX0p2TUNhOXVBSWE3Nnlja1AwN0s2MEF3XzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVVFODRhVmRYTldKbmFuVnljRkl3YzNWdGNrNTViV1E1VGxWUU1IbFNjWEZ1ZDNwUGFVUmpOSHA0TkdacmJ6VmhRamcwYWtRdFQydFpZMmRDWDI1SVZVUlllVnB3WlRacGJ5MUNkemxIVWtwVE1USmhXVkJsYlRGR1FSSVhTblpOUTJFNWRVRkpZVGMyZVdOclVEQTNTell3UVhjYUlrRklUakJGTjBadlRXRXhhak5QVEhoR1RVbHlXRlYyT0ZWcGRWaEdRVlExU1VFIiwiZmN2IjoiMyIsImVpIjoiSnZNQ2E5dUFJYTc2eWNrUDA3SzYwQXciLCJxYyI6IkNqcGlaWE4wSUdGcElHTnNhWEJ3YVc1bklITnZablIzWVhKbElIUm9ZWFFnYzNWd2NHOXlkSE1nTkdzZ2FHUnlJSFpwWkdWdklHWnBiR1Z6RUFCOVNINENQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBzb2Z0d2FyZSBmb3IgZWRpdGluZyA0SyByZXNvbHV0aW9uIHZpZGVvcz8iLCJsayI6IkdpUTBheUJ5WlhOdmJIVjBhVzl1SUhacFpHVnZJR1ZrYVhScGJtY2djMjltZEhkaGNtVSIsImJzIjoiYzMyT1B3LUNNQkJINDlySnlSQ204LThISUd3T3hEQVk0cUNEQ1hPdEI3MUlXcVFGNHJlM2dCSmpqUE43OTM3SGpteWRTaElTZGdtUWdRc2FDNW11UUJSVWxxUnlhT2lLMmtUQnhsLTF2Y2pwbjhoQzVvM0JuQm8wRUI0R0ZnV2VQeHNiSFlQd05pQ0diSnRLYnJ1eWxUalVqYzVzeXl2c1pfQkt0bHR4c1FxTkxtcExXbjAtNTFMZllEeDZsMWpDRmpGWEVMdXBfZWtNcUNSWEFsXzJ2ZVlGMlVjVUxQMjVjSlp3Vmw3YTM5WjA4Z1EiLCJpZCI6ImZjX0p2TUNhOXVBSWE3Nnlja1AwN0s2MEF3XzUifQ%3D%3D"
+      },
+      {
+        "question": "Can ChatGPT enhance video quality?",
+        "type": "ai_overview",
+        "page_token": "ik6ttnicHdBLbqMwAABQtXdplw0m_UaKKhHs5mdSHLDBm8rYEBKMIY0TSJY9S1dzmDlAr9ELjDTvCO_rW29N9XN1Kq1tD6PBoOu6u03TbHR-J5t6IA5nIwdSaJ0JWY0enx7BayHH8DjzJvuZF8YEplppRlsqEg-wKj6vfDQV8MWQoXJJ5Fn51i8l3PRqN79PqbdIdZtSON9mLpniqreSkY5FxOdnsM8M3QugDmtQQl4TN4hm_SrWM45QmgB1zOP2snbIXrGeBaBxQkfNM0NMbpoeI75MXOAyphcYPF8Is-_EcIGNfsjqEq1RSYhDNYbBUdTWIfTlHE3bXThESPrUZW-8wDWH6zowsFQLVQE_jTQIY10GF_6QujbEvloGO89TfbMN43KFYTwkDpnkMZpzpmucoF5BVWSucy8nYMs09RLQctXdFvI0Ht7-_xx_FLUdtZ_N5o_8zIXN1Yewf6vr35t_OYOKZA",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ik6ttnicHdBLbqMwAABQtXdplw0m_UaKKhHs5mdSHLDBm8rYEBKMIY0TSJY9S1dzmDlAr9ELjDTvCO_rW29N9XN1Kq1tD6PBoOu6u03TbHR-J5t6IA5nIwdSaJ0JWY0enx7BayHH8DjzJvuZF8YEplppRlsqEg-wKj6vfDQV8MWQoXJJ5Fn51i8l3PRqN79PqbdIdZtSON9mLpniqreSkY5FxOdnsM8M3QugDmtQQl4TN4hm_SrWM45QmgB1zOP2snbIXrGeBaBxQkfNM0NMbpoeI75MXOAyphcYPF8Is-_EcIGNfsjqEq1RSYhDNYbBUdTWIfTlHE3bXThESPrUZW-8wDWH6zowsFQLVQE_jTQIY10GF_6QujbEvloGO89TfbMN43KFYTwkDpnkMZpzpmucoF5BVWSucy8nYMs09RLQctXdFvI0Ht7-_xx_FLUdtZ_N5o_8zIXN1Yewf6vr35t_OYOKZA",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVVFODRhVmRYTldKbmFuVnljRkl3YzNWdGNrNTViV1E1VGxWUU1IbFNjWEZ1ZDNwUGFVUmpOSHA0TkdacmJ6VmhRamcwYWtRdFQydFpZMmRDWDI1SVZVUlllVnB3WlRacGJ5MUNkemxIVWtwVE1USmhXVkJsYlRGR1FSSVhTblpOUTJFNWRVRkpZVGMyZVdOclVEQTNTell3UVhjYUlrRklUakJGTjBadlRXRXhhak5QVEhoR1RVbHlXRlYyT0ZWcGRWaEdRVlExU1VFIiwiZmN2IjoiMyIsImVpIjoiSnZNQ2E5dUFJYTc2eWNrUDA3SzYwQXciLCJxYyI6IkNqcGlaWE4wSUdGcElHTnNhWEJ3YVc1bklITnZablIzWVhKbElIUm9ZWFFnYzNWd2NHOXlkSE1nTkdzZ2FHUnlJSFpwWkdWdklHWnBiR1Z6RUFCOVNINENQdyIsInF1ZXN0aW9uIjoiQ2FuIENoYXRHUFQgZW5oYW5jZSB2aWRlbyBxdWFsaXR5PyIsImxrIjoiR2lGallXNGdZMmhoZEdkd2RDQmxibWhoYm1ObElIWnBaR1Z2SUhGMVlXeHBkSGsiLCJicyI6ImMzMk9Qdy1DTUJCSDQ5ckp5UkNtOC04SElHd094REFZNHFDRENYT3RCNzFJV3FRRjRyZTNnQkpqalBONzkzN0hqbXlkU2hJU2RnbVFnUXNhQzVtdVFCUlVscVJ5YU9pSzJrVEJ4bC0xdmNqcG44aEM1bzNCbkJvMEVCNEdGZ1dlUHhzYkhZUHdOaUNHYkp0S2JydXlsVGpVamM1c3l5dnNaX0JLdGx0eHNRcU5MbXBMV24wLTUxTGZZRHg2bDFqQ0ZqRlhFTHVwX2VrTXFDUlhBbF8ydmVZRjJVY1VMUDI1Y0pad1ZsN2EzOVowOGdRIiwiaWQiOiJmY19Kdk1DYTl1QUlhNzZ5Y2tQMDdLNjBBd181In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVVFODRhVmRYTldKbmFuVnljRkl3YzNWdGNrNTViV1E1VGxWUU1IbFNjWEZ1ZDNwUGFVUmpOSHA0TkdacmJ6VmhRamcwYWtRdFQydFpZMmRDWDI1SVZVUlllVnB3WlRacGJ5MUNkemxIVWtwVE1USmhXVkJsYlRGR1FSSVhTblpOUTJFNWRVRkpZVGMyZVdOclVEQTNTell3UVhjYUlrRklUakJGTjBadlRXRXhhak5QVEhoR1RVbHlXRlYyT0ZWcGRWaEdRVlExU1VFIiwiZmN2IjoiMyIsImVpIjoiSnZNQ2E5dUFJYTc2eWNrUDA3SzYwQXciLCJxYyI6IkNqcGlaWE4wSUdGcElHTnNhWEJ3YVc1bklITnZablIzWVhKbElIUm9ZWFFnYzNWd2NHOXlkSE1nTkdzZ2FHUnlJSFpwWkdWdklHWnBiR1Z6RUFCOVNINENQdyIsInF1ZXN0aW9uIjoiQ2FuIENoYXRHUFQgZW5oYW5jZSB2aWRlbyBxdWFsaXR5PyIsImxrIjoiR2lGallXNGdZMmhoZEdkd2RDQmxibWhoYm1ObElIWnBaR1Z2SUhGMVlXeHBkSGsiLCJicyI6ImMzMk9Qdy1DTUJCSDQ5ckp5UkNtOC04SElHd094REFZNHFDRENYT3RCNzFJV3FRRjRyZTNnQkpqalBONzkzN0hqbXlkU2hJU2RnbVFnUXNhQzVtdVFCUlVscVJ5YU9pSzJrVEJ4bC0xdmNqcG44aEM1bzNCbkJvMEVCNEdGZ1dlUHhzYkhZUHdOaUNHYkp0S2JydXlsVGpVamM1c3l5dnNaX0JLdGx0eHNRcU5MbXBMV24wLTUxTGZZRHg2bDFqQ0ZqRlhFTHVwX2VrTXFDUlhBbF8ydmVZRjJVY1VMUDI1Y0pad1ZsN2EzOVowOGdRIiwiaWQiOiJmY19Kdk1DYTl1QUlhNzZ5Y2tQMDdLNjBBd181In0%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "XBgWQXiczVbdcqpIEK7a632Nw42J4l-MqaJODSMqGn_Qk0RzsdYwwIAgGAZFvdxn2at9mH2A8xrnBXZAjGA0ydnaqt2uwoaenv6b_qb9_Q_Hcu3vv_5mBsGS3hUKYRjmiecRR89jb1FAdOviguE51MfmV-IIK8pRb-VjXcCm7y30vKcmAktLRJzpCLrLbddCmcNU4DndEjrrHkT1FZBR7WaL7SFf697wIORi-8JMRVSfM_ebOS3MCuzH_lJusI88zetuXtZfVLdZAo9LkC_xpXJ-UEALpgD-W5JEIBPGbQDIe3qi8lmLismsAni6X9rzlLwHIp8ygPJ-5ZL_cWQ02gnFOGL2DIAxH9ot9tY_aD3IH8QFMzE9JWHtmX0a7ico2RplkBG8R2eKGNele_yGp2vnqJVdEacN0AhT5t-k0z0a2_OH6CcEzcqwBxRFuegpFXl3CngHfNAnh4ge6p1xwHaJBY2wLucLqs9YsWBhE8cvPo2aH36r815bWq138kS6VkatKgzvx0Z30Zddv7tDSgGrTM_xkKZrM3PGf42_i6Vila-Xa7dXMeowfYUdTcPO9ygfuLe964DP3-fF4gFz2WxPi6XIMjjXTEQkh1JcoFH6IOMynCjYGc_NhJtA9BRmNrOodKX7tBKDS4PV65aky3_cAd_B3AnFHeslBh4SEch2mzIF0viYQNbQ4KzZKA8ATnMmreRFFg-Bh8nKW8yNgMzqIL-WOHM5iuyGEFmBleim6LLtASRKLzquShTf4cQUSWKvEjluSxHcJyJlWximImErUqQVAiIBeyVLULYSMYidELL3JCrktSqxD_gWdTH1mLxpnl36FEmfuVj2URxAdoKZNNaas3A9BCYs9XYIriF27BH_VHbL61WDnMeWt1B_Yqbh_z36DhPPSdr-IvoiT59Cn2K-h75zE2-PPmhfQN94jz4onpt4w4PWycR7iz4IrBT6kom3SWrxb6Cv_zH60seVRt_xqDLoky6hryVl0TedS4eJdx59ycQ7ou-fTjzx5ydeDEJ9z7LjbzUnF8dgsz95DCqt1WS7M5tPtPWs2Vh8nns3YSf8cAwai-BugTTnamZpd2KpE2y1qxkTeHe6xr0Iok6DHJBz2LGWS8slOeoZQYh8PReYKMjR1XLp-QHNVbq5dmOUW1ua7uUMy9Ept3B8T-BRpayFan3pDZSgJd92lhv1G6jdPN9O1KJhY2lq8frkceZvh05l3auC-dqsrvAIyYOH2nUfNduoVJnQsRzudkbPHK60Z2m-efLlCWSRwyl1x6g-JN3BtK6NyyNNxrulvXFeQlikSn3jdtS2Uka0Y5I4HioMxwM2u1S7zcscS5PqQpFb-FhgXVCpgr4S_cFDQAxBJ25b9jB-z_i9JwKlPQVKg7DHYwfGUYxmOl0L-KZaxlWexwgZNUM3uAUJtkuhznPU9YXin9jXUcDqj4K_7F9-fPkbqtuJuQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=XBgWQXiczVbdcqpIEK7a632Nw42J4l-MqaJODSMqGn_Qk0RzsdYwwIAgGAZFvdxn2at9mH2A8xrnBXZAjGA0ydnaqt2uwoaenv6b_qb9_Q_Hcu3vv_5mBsGS3hUKYRjmiecRR89jb1FAdOviguE51MfmV-IIK8pRb-VjXcCm7y30vKcmAktLRJzpCLrLbddCmcNU4DndEjrrHkT1FZBR7WaL7SFf697wIORi-8JMRVSfM_ebOS3MCuzH_lJusI88zetuXtZfVLdZAo9LkC_xpXJ-UEALpgD-W5JEIBPGbQDIe3qi8lmLismsAni6X9rzlLwHIp8ygPJ-5ZL_cWQ02gnFOGL2DIAxH9ot9tY_aD3IH8QFMzE9JWHtmX0a7ico2RplkBG8R2eKGNele_yGp2vnqJVdEacN0AhT5t-k0z0a2_OH6CcEzcqwBxRFuegpFXl3CngHfNAnh4ge6p1xwHaJBY2wLucLqs9YsWBhE8cvPo2aH36r815bWq138kS6VkatKgzvx0Z30Zddv7tDSgGrTM_xkKZrM3PGf42_i6Vila-Xa7dXMeowfYUdTcPO9ygfuLe964DP3-fF4gFz2WxPi6XIMjjXTEQkh1JcoFH6IOMynCjYGc_NhJtA9BRmNrOodKX7tBKDS4PV65aky3_cAd_B3AnFHeslBh4SEch2mzIF0viYQNbQ4KzZKA8ATnMmreRFFg-Bh8nKW8yNgMzqIL-WOHM5iuyGEFmBleim6LLtASRKLzquShTf4cQUSWKvEjluSxHcJyJlWximImErUqQVAiIBeyVLULYSMYidELL3JCrktSqxD_gWdTH1mLxpnl36FEmfuVj2URxAdoKZNNaas3A9BCYs9XYIriF27BH_VHbL61WDnMeWt1B_Yqbh_z36DhPPSdr-IvoiT59Cn2K-h75zE2-PPmhfQN94jz4onpt4w4PWycR7iz4IrBT6kom3SWrxb6Cv_zH60seVRt_xqDLoky6hryVl0TedS4eJdx59ycQ7ou-fTjzx5ydeDEJ9z7LjbzUnF8dgsz95DCqt1WS7M5tPtPWs2Vh8nns3YSf8cAwai-BugTTnamZpd2KpE2y1qxkTeHe6xr0Iok6DHJBz2LGWS8slOeoZQYh8PReYKMjR1XLp-QHNVbq5dmOUW1ua7uUMy9Ept3B8T-BRpayFan3pDZSgJd92lhv1G6jdPN9O1KJhY2lq8frkceZvh05l3auC-dqsrvAIyYOH2nUfNduoVJnQsRzudkbPHK60Z2m-efLlCWSRwyl1x6g-JN3BtK6NyyNNxrulvXFeQlikSn3jdtS2Uka0Y5I4HioMxwM2u1S7zcscS5PqQpFb-FhgXVCpgr4S_cFDQAxBJ25b9jB-z_i9JwKlPQVKg7DHYwfGUYxmOl0L-KZaxlWexwgZNUM3uAUJtkuhznPU9YXin9jXUcDqj4K_7F9-fPkbqtuJuQ"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "8 Best Free AI Clipping Tools (2026)",
+        "link": "https://www.opus.pro/blog/best-free-ai-clipping-tools",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHEIkXXByU3eIDcaCxmH6DNBqLRqnBy2r-_scGkd9w_tHtrMknKtObsDZUNb5aIOoFonHEddU52ZygZtO6MRYwlD9FPFh_1kcH6k6Evqz7HZ0qBodwBVZANYfXRSavLQE5lhvvm1VlJmwvnaHqIFBOG&ved=2ahUKEwjbq7uV3JuYAxUufTIDHVOZDsoQFnoECB8QAQ&uoh=1",
+        "displayed_link": "https://www.opus.pro \u203a blog \u203a best-free-ai-clipping-tools",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAV1BMVEUOEBULDRMAAABubnClpaa_v8AAAAj___81Njj09PT7-_u4uLmPj5CYmJlhYWNQUVNLS0339_cuLzLCwsOfn6Ctra6enp94eXp-f4COjo9paWuCg4RTVFaiNnBOAAAAxklEQVR4AbWSVw7DMAxDW2Z6r-72_ueslC3Av2Gm_UDR63K6rph0raOm7bq2qeAe7bCoRS8ZRjVsUiOEb-RObaw1mv_G_pjHPgfvnIdl7yF3ygsxsSnFMOXuRmraOCyKjl6bFQ3lgX2dYS8ot8GhqvHUnYFMH28OddFRVUc-0D8BZ-l_g4XgbRjuDLsafDCUZSV8lk4MSMDXPBUrprJBuQgSZl4-ty2fhMHJhZdl5ZbJeb4qm413132epXx_pXJMsKgHGJ2tPwf1DT7eKooXAAAAAElFTkSuQmCC.png",
+        "date": "Nov 9, 2026",
+        "snippet": "OpusClip is the pick for free AI clipping: its Free forever plan finds clips in a long video, adds captions and reframes to vertical, ...",
+        "snippet_highlighted_words": [
+          "OpusClip"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "OpusClip is the pick for free AI clipping: its Free forever plan finds clips in a long video, adds captions and reframes to vertical, ...",
+            "source_info_link": "https://www.opus.pro/blog/best-free-ai-clipping-tools",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAV1BMVEUOEBULDRMAAABubnClpaa_v8AAAAj___81Njj09PT7-_u4uLmPj5CYmJlhYWNQUVNLS0339_cuLzLCwsOfn6Ctra6enp94eXp-f4COjo9paWuCg4RTVFaiNnBOAAAAxklEQVR4AbWSVw7DMAxDW2Z6r-72_ueslC3Av2Gm_UDR63K6rph0raOm7bq2qeAe7bCoRS8ZRjVsUiOEb-RObaw1mv_G_pjHPgfvnIdl7yF3ygsxsSnFMOXuRmraOCyKjl6bFQ3lgX2dYS8ot8GhqvHUnYFMH28OddFRVUc-0D8BZ-l_g4XgbRjuDLsafDCUZSV8lk4MSMDXPBUrprJBuQgSZl4-ty2fhMHJhZdl5ZbJeb4qm413132epXx_pXJMsKgHGJ2tPwf1DT7eKooXAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqYBL2dvdG8_dXJsPUNBRVNjUUhFSWtYWHZKM2s5dGhUNjFWc09pQlQtWFpmM0NRZU1UWUJ3VVY0b29sV0lyZ2s3MFFOUTF5SUQySG5SMjE5d1FrVE53a2RtVUNNSElJaHRBOTNoMGtfdDlreDhyNnFSeVR3UmVyY1Y5alN3aWNIWjZGT2xLc09YODNjM08xMUFwMTdWWDRtUy11RTBHZjVxWHhnR0d2ORIEGgIIABrLBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCnBggAEAAYACAAKigKBGJlc3QV2vyBQBoEZ29vZBoIZ3JlYXRlc3QaA3RvcBoGYmVzdGFpKhEKAmFpFTP1skAaBmJlc3RhaSokCghjbGlwcGluZxXA05BAGgRjbGlwGg1pdjtwO2NsaXBwaW5nKg8KCHNvZnR3YXJlFUTxUz8qCwoEdGhhdBUAAAAAKi8KCHN1cHBvcnRzFQAAAAAaB3N1cHBvcnQaCXN1cHBvcnRlZBoKc3VwcG9ydGluZyoVCgI0axXbVAs-GgN1aGQaBTRraGRyKj0KA2hkchUAAAAAGhJoaWdoIGR5bmFtaWMgcmFuZ2UaAnR2GgU0a2hkchoIaGRydmlkZW8aCGl2O3A7aGRyKjMKBXZpZGVvFdgvO0AaB2Zvb3RhZ2UaBnZpZGVvcxoIaGRydmlkZW8aCnZpZGVvZmlsZXMqUAoFZmlsZXMVPraEPhoFY2xpcHMaBWNvZGVjGgljb252ZXJ0ZXIaBGZpbGUaBmZvcm1hdBoGcGxheWVyGgdzdXBwb3J0Ggp2aWRlb2ZpbGVzMqYBL2dvdG8_dXJsPUNBRVNjUUhFSWtYWHZKM2s5dGhUNjFWc09pQlQtWFpmM0NRZU1UWUJ3VVY0b29sV0lyZ2s3MFFOUTF5SUQySG5SMjE5d1FrVE53a2RtVUNNSElJaHRBOTNoMGtfdDlreDhyNnFSeVR3UmVyY1Y5alN3aWNIWjZGT2xLc09YODNjM08xMUFwMTdWWDRtUy11RTBHZjVxWHhnR0d2OTpCOCA8Yj5CZXN0PC9iPiBGcmVlIDxiPkFJIENsaXBwaW5nPC9iPiBUb29scyAoMjAyNikgLSBPcHVzQ2xpcCBCbG9nQpUBPGI-T3B1c0NsaXA8L2I-IGlzIHRoZSBwaWNrIGZvciBmcmVlIEFJIGNsaXBwaW5nOiBpdHMgRnJlZSBmb3JldmVyIHBsYW4gZmluZHMgY2xpcHMgaW4gYSBsb25nIHZpZGVvLCBhZGRzIGNhcHRpb25zIGFuZCByZWZyYW1lcyB0byB2ZXJ0aWNhbCwmbmJzcDsuLi5KBHRoYXRSA3RvcCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqYBL2dvdG8_dXJsPUNBRVNjUUhFSWtYWHZKM2s5dGhUNjFWc09pQlQtWFpmM0NRZU1UWUJ3VVY0b29sV0lyZ2s3MFFOUTF5SUQySG5SMjE5d1FrVE53a2RtVUNNSElJaHRBOTNoMGtfdDlreDhyNnFSeVR3UmVyY1Y5alN3aWNIWjZGT2xLc09YODNjM08xMUFwMTdWWDRtUy11RTBHZjVxWHhnR0d2ORIEGgIIABrLBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCnBggAEAAYACAAKigKBGJlc3QV2vyBQBoEZ29vZBoIZ3JlYXRlc3QaA3RvcBoGYmVzdGFpKhEKAmFpFTP1skAaBmJlc3RhaSokCghjbGlwcGluZxXA05BAGgRjbGlwGg1pdjtwO2NsaXBwaW5nKg8KCHNvZnR3YXJlFUTxUz8qCwoEdGhhdBUAAAAAKi8KCHN1cHBvcnRzFQAAAAAaB3N1cHBvcnQaCXN1cHBvcnRlZBoKc3VwcG9ydGluZyoVCgI0axXbVAs-GgN1aGQaBTRraGRyKj0KA2hkchUAAAAAGhJoaWdoIGR5bmFtaWMgcmFuZ2UaAnR2GgU0a2hkchoIaGRydmlkZW8aCGl2O3A7aGRyKjMKBXZpZGVvFdgvO0AaB2Zvb3RhZ2UaBnZpZGVvcxoIaGRydmlkZW8aCnZpZGVvZmlsZXMqUAoFZmlsZXMVPraEPhoFY2xpcHMaBWNvZGVjGgljb252ZXJ0ZXIaBGZpbGUaBmZvcm1hdBoGcGxheWVyGgdzdXBwb3J0Ggp2aWRlb2ZpbGVzMqYBL2dvdG8_dXJsPUNBRVNjUUhFSWtYWHZKM2s5dGhUNjFWc09pQlQtWFpmM0NRZU1UWUJ3VVY0b29sV0lyZ2s3MFFOUTF5SUQySG5SMjE5d1FrVE53a2RtVUNNSElJaHRBOTNoMGtfdDlreDhyNnFSeVR3UmVyY1Y5alN3aWNIWjZGT2xLc09YODNjM08xMUFwMTdWWDRtUy11RTBHZjVxWHhnR0d2OTpCOCA8Yj5CZXN0PC9iPiBGcmVlIDxiPkFJIENsaXBwaW5nPC9iPiBUb29scyAoMjAyNikgLSBPcHVzQ2xpcCBCbG9nQpUBPGI-T3B1c0NsaXA8L2I-IGlzIHRoZSBwaWNrIGZvciBmcmVlIEFJIGNsaXBwaW5nOiBpdHMgRnJlZSBmb3JldmVyIHBsYW4gZmluZHMgY2xpcHMgaW4gYSBsb25nIHZpZGVvLCBhZGRzIGNhcHRpb25zIGFuZCByZWZyYW1lcyB0byB2ZXJ0aWNhbCwmbmJzcDsuLi5KBHRoYXRSA3RvcCICEAFIAFgAaAA",
+        "source": "Opus Clip",
+        "read_more_link": "https://www.google.com/goto?url=CAESvwEBxCJF12mLw8chH2wiHTPx6RRXgURqwl57e64R7GHMjbSke7Wv9slXi1NkTFgKoED3Px5HHs4pbCBmzlHcaHvGV4uRKK6O8aQcRJ2jwzyREMF-XPweB_nofWyPQ96TGWyN5BEo0tcyXWnPFZGrOWH40g3gG5QSNiTRROX1SWc_jGCJH-ss5jP1vUUDlNFHKMQb3QH1WweqfRb_UDG21pX0inI9SfShOwEJozZe7nht6-AKOzhaxzxXusWJ1UWw_w&gsessionid=_3QNk3HW8LKiyGIMxbGdpO5MJZo3hBzeWb7S9HGLNEWQQJeNL2T_bA"
+      },
+      {
+        "position": 2,
+        "title": "The BEST AI Clipping Tool in 2026: Riverside vs Opus ...",
+        "link": "https://www.google.com/goto?url=CAESZwHEIkXXx8Yqos1Zy7NtLq4qKEc_m5C26wjr_QpdMCbE8QaTzMYSLkX7bJ2LTIboM5lZf3wep4HLKeImWsAY-9fmm_1peaCzBbutIbukQvfTFM5kYCjlsi1yKk_wyGRO6Wh18CXJ_NI&gsessionid=_3QNk3HW8LKiyGIMxbGdpO5MJZo3hBzeWb7S9HGLNEWQQJeNL2T_bA",
+        "displayed_link": "17.8K+ views",
+        "date": "9 months ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f325d181699e209774b8/images/guRUzJrXjL_SpgC6RFQcCM7jmnZrYm_bFd8h704vTU0.jpg",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "way. In this video, I test and compare three of the most talked-about AI clipping tools: Riverside, Submagic, and Opus Clip. From recording ...",
+        "duration": "13:21",
+        "about_this_result": {
+          "source": {
+            "description": "way. In this video, I test and compare three of the most talked-about AI clipping tools: Riverside, Submagic, and Opus Clip. From recording ...",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpkBL2dvdG8_dXJsPUNBRVNad0hFSWtYWHg4WXFvczFaeTdOdExxNHFLRWNfbTVDMjZ3anJfUXBkTUNiRThRYVR6TVlTTGtYN2JKMkxUSWJvTTVsWmYzd2VwNEhMS2VJbVdzQVktOWZtbV8xcGVhQ3pCYnV0SWJ1a1F2ZlRGTTVrWUNqbHNpMXlLa193eUdSTzZXaDE4Q1hKX05JEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpkBL2dvdG8_dXJsPUNBRVNad0hFSWtYWHg4WXFvczFaeTdOdExxNHFLRWNfbTVDMjZ3anJfUXBkTUNiRThRYVR6TVlTTGtYN2JKMkxUSWJvTTVsWmYzd2VwNEhMS2VJbVdzQVktOWZtbV8xcGVhQ3pCYnV0SWJ1a1F2ZlRGTTVrWUNqbHNpMXlLa193eUdSTzZXaDE4Q1hKX05JEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSojdp55jikUZz-0rM398-Z8XWliXPjoTa5FQ",
+        "source": "YouTube \u00b7 Julian Eisenkirchner"
+      },
+      {
+        "position": 3,
+        "title": "Which AI tool creates the best clips? : r/podcasting",
+        "link": "https://www.google.com/goto?url=CAESlgEBxCJF19USo2ADuLXQP80Q3k1P1Cm_nhuVHDE4eM7ol7F2Sww4Fh66uchN3Qy-GIwZQX6KbLgB9lPhxm6bRjZZAPyBasR78wHE_yrBqv0Y6zLWK_ugxnVSdb43xZYh2_ZiG4svGMGVFLu-oxpF_JnfrIXzMgV8CKyo8nkzrST4bPZK-d6hczrRAsct5Y52X4-ctWkLHho",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlgEBxCJF140LTO1AOP19BpuyKwvmJ8JXyuWvlS6uiwKQXvAW-AI6_H0Aye32ZLkCp77Cl3P5jaApqb9Mc0pwR-vbsFJ1EolqkD0yRlPat8Z-Pu0E4NqHEMq6M2dsEU5JJhosZWahbCHLpEJw5_5GYSBJRjPC2cASVB-phJHKjJESfc954UddHIoOrb63zpMBqyNK5odOUKk&ved=2ahUKEwjbq7uV3JuYAxUufTIDHVOZDsoQFnoECDAQAQ&uoh=1",
+        "displayed_link": "70+ comments",
+        "date": "1 year ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+        "snippet": "I've been looking at all the AI tools that create \"magic clips\" and I find this to be the toughest part of editing, actually finding those bits of magic ...",
+        "sitelinks": {
+          "list": [
+            {
+              "title": "AI clip creation tools - worth it? which one? : r ...",
+              "link": "https://www.google.com/goto?url=CAESmgEBxCJF1xyW0lAe_CMPRFPrhxFEbJxUapGriF4-UWOTqnhNe5bH3J7KNJneLgmpY8dCAYWjTZGzFV6fUhJrBCyuW3QqUuDl9-hsOSgk1Ntl6NnHVOa59tpoLCxHBINPIBVz_N2AFchGr3E1HbMe9HT41ynvazB-k0BR7dNpz3ePRGrgwvysqzp-pg-soEjRyg57yJr9DSLV4sXk&gsessionid=_3QNk3HW8LKiyGIMxbGdpO5MJZo3hBzeWb7S9HGLNEWQQJeNL2T_bA",
+              "answer_count": 56,
+              "date": "Aug 22, 2025"
+            },
+            {
+              "title": "Free Mobile Video Editor (No Watermarks, 4K ...",
+              "link": "https://www.google.com/goto?url=CAESogEBxCJF1xgDJjNdNgeP7WKViP6CkysroiERiTqWeFq8zVGe0buSzop3CH0h38ti1FVEXnRzLlhz1MFEqJrtqp7jeqj4etZziqzVaTIGOiVmTbpNQQQksforR7aVit5K79X2DHye97UIAmKL0i6fWEn2hf5qyQgYxptAPFNOjk_jZZLWErGZAUnyL8q612HVq-gd-cOttuTExCmkhexyLLvKhOY&gsessionid=_3QNk3HW8LKiyGIMxbGdpO5MJZo3hBzeWb7S9HGLNEWQQJeNL2T_bA",
+              "answer_count": 2,
+              "date": "Sep 6, 2026"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "It's called Clipfinder and it's 3x cheaper than opus clip, pay as you go at $2/hour, you also get 2 free hours every month, no credit card ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESlgEBxCJF19USo2ADuLXQP80Q3k1P1Cm_nhuVHDE4eM7ol7F2Sww4Fh66uchN3Qy-GIwZQX6KbLgB9lPhxm6bRjZZAPyBasR78wHE_yrBqv0Y6zLWK_ugxnVSdb43xZYh2_ZiG4svGMGVFLu-oxpF_JnfrIXzMgV8CKyo8nkzrST4bPZK-d6hczrRAsct5Y52X4-ctWkLHho",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCeENKRjE5VVNvMkFEdUxYUVA4MFEzazFQMUNtX25odVZIREU0ZU03b2w3RjJTd3c0Rmg2NnVjaE4zUXktR0l3WlFYNktiTGdCOWxQaHhtNmJSalpaQVB5QmFzUjc4d0hFX3lyQnF2MFk2ekxXS191Z3huVlNkYjQzeFpZaDJfWmlHNHN2R01HVkZMdS1veHBGX0puZnJJWHpNZ1Y4Q0t5bzhua3pyU1Q0YlBaSy1kNmhjenJSQXNjdDVZNTJYNC1jdFdrTEhobxIEGgIIABqUBxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDwBggAEAAYACAAKigKBGJlc3QVFB-2QBoEZ29vZBoIZ3JlYXRlc3QaA3RvcBoGYmVzdGFpKhEKAmFpFUIDx0AaBmJlc3RhaSokCghjbGlwcGluZxWWikBAGgRjbGlwGg1pdjtwO2NsaXBwaW5nKg8KCHNvZnR3YXJlFZQS0D8qCwoEdGhhdBUAAAAAKi8KCHN1cHBvcnRzFRda1j0aB3N1cHBvcnQaCXN1cHBvcnRlZBoKc3VwcG9ydGluZyoVCgI0axUAAAAAGgN1aGQaBTRraGRyKj0KA2hkchUAAAAAGhJoaWdoIGR5bmFtaWMgcmFuZ2UaAnR2GgU0a2hkchoIaGRydmlkZW8aCGl2O3A7aGRyKjMKBXZpZGVvFdejEUAaB2Zvb3RhZ2UaBnZpZGVvcxoIaGRydmlkZW8aCnZpZGVvZmlsZXMqUAoFZmlsZXMVAAAAABoFY2xpcHMaBWNvZGVjGgljb252ZXJ0ZXIaBGZpbGUaBmZvcm1hdBoGcGxheWVyGgdzdXBwb3J0Ggp2aWRlb2ZpbGVzMtkBL2dvdG8_dXJsPUNBRVNsZ0VCeENKRjE5VVNvMkFEdUxYUVA4MFEzazFQMUNtX25odVZIREU0ZU03b2w3RjJTd3c0Rmg2NnVjaE4zUXktR0l3WlFYNktiTGdCOWxQaHhtNmJSalpaQVB5QmFzUjc4d0hFX3lyQnF2MFk2ekxXS191Z3huVlNkYjQzeFpZaDJfWmlHNHN2R01HVkZMdS1veHBGX0puZnJJWHpNZ1Y4Q0t5bzhua3pyU1Q0YlBaSy1kNmhjenJSQXNjdDVZNTJYNC1jdFdrTEhobzpLV2hpY2ggPGI-QUk8L2I-IHRvb2wgY3JlYXRlcyB0aGUgPGI-YmVzdCBjbGlwczwvYj4_IDogci9wb2RjYXN0aW5nIC0gUmVkZGl0QqIBSXQmIzM5O3MgY2FsbGVkIDxiPkNsaXBmaW5kZXI8L2I-IGFuZCBpdCYjMzk7cyAzeCBjaGVhcGVyIHRoYW4gb3B1cyBjbGlwLCBwYXkgYXMgeW91IGdvIGF0ICQyL2hvdXIsIHlvdSBhbHNvIGdldCAyIGZyZWUgaG91cnMgZXZlcnkgbW9udGgsIG5vIGNyZWRpdCBjYXJkJm5ic3A7Li4uSgR0aGF0UgN0b3AiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCeENKRjE5VVNvMkFEdUxYUVA4MFEzazFQMUNtX25odVZIREU0ZU03b2w3RjJTd3c0Rmg2NnVjaE4zUXktR0l3WlFYNktiTGdCOWxQaHhtNmJSalpaQVB5QmFzUjc4d0hFX3lyQnF2MFk2ekxXS191Z3huVlNkYjQzeFpZaDJfWmlHNHN2R01HVkZMdS1veHBGX0puZnJJWHpNZ1Y4Q0t5bzhua3pyU1Q0YlBaSy1kNmhjenJSQXNjdDVZNTJYNC1jdFdrTEhobxIEGgIIABqUBxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDwBggAEAAYACAAKigKBGJlc3QVFB-2QBoEZ29vZBoIZ3JlYXRlc3QaA3RvcBoGYmVzdGFpKhEKAmFpFUIDx0AaBmJlc3RhaSokCghjbGlwcGluZxWWikBAGgRjbGlwGg1pdjtwO2NsaXBwaW5nKg8KCHNvZnR3YXJlFZQS0D8qCwoEdGhhdBUAAAAAKi8KCHN1cHBvcnRzFRda1j0aB3N1cHBvcnQaCXN1cHBvcnRlZBoKc3VwcG9ydGluZyoVCgI0axUAAAAAGgN1aGQaBTRraGRyKj0KA2hkchUAAAAAGhJoaWdoIGR5bmFtaWMgcmFuZ2UaAnR2GgU0a2hkchoIaGRydmlkZW8aCGl2O3A7aGRyKjMKBXZpZGVvFdejEUAaB2Zvb3RhZ2UaBnZpZGVvcxoIaGRydmlkZW8aCnZpZGVvZmlsZXMqUAoFZmlsZXMVAAAAABoFY2xpcHMaBWNvZGVjGgljb252ZXJ0ZXIaBGZpbGUaBmZvcm1hdBoGcGxheWVyGgdzdXBwb3J0Ggp2aWRlb2ZpbGVzMtkBL2dvdG8_dXJsPUNBRVNsZ0VCeENKRjE5VVNvMkFEdUxYUVA4MFEzazFQMUNtX25odVZIREU0ZU03b2w3RjJTd3c0Rmg2NnVjaE4zUXktR0l3WlFYNktiTGdCOWxQaHhtNmJSalpaQVB5QmFzUjc4d0hFX3lyQnF2MFk2ekxXS191Z3huVlNkYjQzeFpZaDJfWmlHNHN2R01HVkZMdS1veHBGX0puZnJJWHpNZ1Y4Q0t5bzhua3pyU1Q0YlBaSy1kNmhjenJSQXNjdDVZNTJYNC1jdFdrTEhobzpLV2hpY2ggPGI-QUk8L2I-IHRvb2wgY3JlYXRlcyB0aGUgPGI-YmVzdCBjbGlwczwvYj4_IDogci9wb2RjYXN0aW5nIC0gUmVkZGl0QqIBSXQmIzM5O3MgY2FsbGVkIDxiPkNsaXBmaW5kZXI8L2I-IGFuZCBpdCYjMzk7cyAzeCBjaGVhcGVyIHRoYW4gb3B1cyBjbGlwLCBwYXkgYXMgeW91IGdvIGF0ICQyL2hvdXIsIHlvdSBhbHNvIGdldCAyIGZyZWUgaG91cnMgZXZlcnkgbW9udGgsIG5vIGNyZWRpdCBjYXJkJm5ic3A7Li4uSgR0aGF0UgN0b3AiAhABSABYAGgA",
+        "source": "Reddit \u00b7 r/podcasting"
+      },
+      {
+        "position": 4,
+        "title": "Vizard.ai | #1 AI Video Editing and Clipping Tool",
+        "link": "https://www.google.com/goto?url=CAESTgHEIkXX-nU1qFUlvQGTdKjDKfVHdJOof-o-EU4CRxOU9Po1s1p5HIa-fp1cev0PFgeQUjHoyRHd5MooRWLc5jT7VWyavvdq-apfcWtrxQ",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTgHEIkXXEiZhlgZhEJwD3wd746ainwrUsMXUHjj7FUdO-CIGXY51k5HAsx0uvwC97DePBI0pelmWlz0-1uTV2J8Epb2Oo6j2X23Vu781Hw&ved=2ahUKEwjbq7uV3JuYAxUufTIDHVOZDsoQFnoECB4QAQ&uoh=1",
+        "displayed_link": "https://vizard.ai",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAfCAMAAACxiD--AAAAeFBMVEVHcEz_m73_m73_m73_nL3_m73_m73_m739mr3_m739mb3_m73_m73_m73_m73_m73_m73_m73_m73_m73_m73_m72vZ7LBc7RTKadOJqZTK6dCHqVIIqWOUq3NerY3Gp5GIKVHIaV_RqvjiLnag7c8GKRIIqVIIqUEPZXLAAAAKHRSTlMAaf-SESMFztyJXi72gcCg7UnlOHyp-5H-0zn__8GtB4vu____viBxF62x5QAAAPJJREFUeAF1k1UCgzAQBSnu7tSN-9-wKXnYLplPZoCotuOkCwxTU6IOTIsFlr3xluNaJPB03954XXeCbWB7oY4CXhYIpBfFOjQUCOB110bhhSimwLMi-AB-KeJEFyRGin7x-CdIQ-ZJQTyKKN35ePFWJvFjDCPXBWGEx4V2SnMw-cIs03-Qg0ordSC92JYy3z7ZBmHdTD-NVUHddj37wjoGt26Hc9ezMVgZuAh_PnfXlMwC3O6Ps2B4vsg6UP8mK8m8Yi-kP38atpvwZ-l7eWDYeYDven6iiGdnkvjjU93Df5X3YoQ_vlkoHl_F3UQBfxj8AORJGsjDkQgrAAAAAElFTkSuQmCC.png",
+        "snippet": "Vizard turns your long form videos into engaging viral clips with AI. Make your engaging social-ready videos with just a few clicks.",
+        "snippet_highlighted_words": [
+          "videos",
+          "clips",
+          "AI",
+          "videos"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Vizard turns your long form videos into engaging viral clips with AI. Make your engaging social-ready videos with just a few clicks.",
+            "source_info_link": "https://www.google.com/goto?url=CAESTgHEIkXX-nU1qFUlvQGTdKjDKfVHdJOof-o-EU4CRxOU9Po1s1p5HIa-fp1cev0PFgeQUjHoyRHd5MooRWLc5jT7VWyavvdq-apfcWtrxQ",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAfCAMAAACxiD--AAAAeFBMVEVHcEz_m73_m73_m73_nL3_m73_m73_m739mr3_m739mb3_m73_m73_m73_m73_m73_m73_m73_m73_m73_m73_m72vZ7LBc7RTKadOJqZTK6dCHqVIIqWOUq3NerY3Gp5GIKVHIaV_RqvjiLnag7c8GKRIIqVIIqUEPZXLAAAAKHRSTlMAaf-SESMFztyJXi72gcCg7UnlOHyp-5H-0zn__8GtB4vu____viBxF62x5QAAAPJJREFUeAF1k1UCgzAQBSnu7tSN-9-wKXnYLplPZoCotuOkCwxTU6IOTIsFlr3xluNaJPB03954XXeCbWB7oY4CXhYIpBfFOjQUCOB110bhhSimwLMi-AB-KeJEFyRGin7x-CdIQ-ZJQTyKKN35ePFWJvFjDCPXBWGEx4V2SnMw-cIs03-Qg0ordSC92JYy3z7ZBmHdTD-NVUHddj37wjoGt26Hc9ezMVgZuAh_PnfXlMwC3O6Ps2B4vsg6UP8mK8m8Yi-kP38atpvwZ-l7eWDYeYDven6iiGdnkvjjU93Df5X3YoQ_vlkoHl_F3UQBfxj8AORJGsjDkQgrAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CngvZ290bz91cmw9Q0FFU1RnSEVJa1hYLW5VMXFGVWx2UUdUZEtqREtmVkhkSk9vZi1vLUVVNENSeE9VOVBvMXMxcDVISWEtZnAxY2V2MFBGZ2VRVWpIb3lSSGQ1TW9vUldMYzVqVDdWV3lhdnZkcS1hcGZjV3RyeFESBBoCCAAarQYSAggAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCHBggAEAAYACAAKigKBGJlc3QVCzEWPxoEZ29vZBoIZ3JlYXRlc3QaA3RvcBoGYmVzdGFpKhEKAmFpFVF8qkAaBmJlc3RhaSokCghjbGlwcGluZxWQgT9AGgRjbGlwGg1pdjtwO2NsaXBwaW5nKg8KCHNvZnR3YXJlFd4hQz8qCwoEdGhhdBUAAAAAKi8KCHN1cHBvcnRzFQAAAAAaB3N1cHBvcnQaCXN1cHBvcnRlZBoKc3VwcG9ydGluZyoVCgI0axUAAAAAGgN1aGQaBTRraGRyKj0KA2hkchUAAAAAGhJoaWdoIGR5bmFtaWMgcmFuZ2UaAnR2GgU0a2hkchoIaGRydmlkZW8aCGl2O3A7aGRyKjMKBXZpZGVvFa5UmEAaB2Zvb3RhZ2UaBnZpZGVvcxoIaGRydmlkZW8aCnZpZGVvZmlsZXMqUAoFZmlsZXMVAAAAABoFY2xpcHMaBWNvZGVjGgljb252ZXJ0ZXIaBGZpbGUaBmZvcm1hdBoGcGxheWVyGgdzdXBwb3J0Ggp2aWRlb2ZpbGVzMngvZ290bz91cmw9Q0FFU1RnSEVJa1hYLW5VMXFGVWx2UUdUZEtqREtmVkhkSk9vZi1vLUVVNENSeE9VOVBvMXMxcDVISWEtZnAxY2V2MFBGZ2VRVWpIb3lSSGQ1TW9vUldMYzVqVDdWV3lhdnZkcS1hcGZjV3RyeFE6RlZpemFyZC48Yj5haTwvYj4gfCAjMSA8Yj5BSSBWaWRlbzwvYj4gRWRpdGluZyBhbmQgPGI-Q2xpcHBpbmc8L2I-IFRvb2xCoAFWaXphcmQgdHVybnMgeW91ciBsb25nIGZvcm0gPGI-dmlkZW9zPC9iPiBpbnRvIGVuZ2FnaW5nIHZpcmFsIDxiPmNsaXBzPC9iPiB3aXRoIDxiPkFJPC9iPi4gTWFrZSB5b3VyIGVuZ2FnaW5nIHNvY2lhbC1yZWFkeSA8Yj52aWRlb3M8L2I-IHdpdGgganVzdCBhIGZldyBjbGlja3MuSgR0aGF0UgN0b3AiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CngvZ290bz91cmw9Q0FFU1RnSEVJa1hYLW5VMXFGVWx2UUdUZEtqREtmVkhkSk9vZi1vLUVVNENSeE9VOVBvMXMxcDVISWEtZnAxY2V2MFBGZ2VRVWpIb3lSSGQ1TW9vUldMYzVqVDdWV3lhdnZkcS1hcGZjV3RyeFESBBoCCAAarQYSAggAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkCHBggAEAAYACAAKigKBGJlc3QVCzEWPxoEZ29vZBoIZ3JlYXRlc3QaA3RvcBoGYmVzdGFpKhEKAmFpFVF8qkAaBmJlc3RhaSokCghjbGlwcGluZxWQgT9AGgRjbGlwGg1pdjtwO2NsaXBwaW5nKg8KCHNvZnR3YXJlFd4hQz8qCwoEdGhhdBUAAAAAKi8KCHN1cHBvcnRzFQAAAAAaB3N1cHBvcnQaCXN1cHBvcnRlZBoKc3VwcG9ydGluZyoVCgI0axUAAAAAGgN1aGQaBTRraGRyKj0KA2hkchUAAAAAGhJoaWdoIGR5bmFtaWMgcmFuZ2UaAnR2GgU0a2hkchoIaGRydmlkZW8aCGl2O3A7aGRyKjMKBXZpZGVvFa5UmEAaB2Zvb3RhZ2UaBnZpZGVvcxoIaGRydmlkZW8aCnZpZGVvZmlsZXMqUAoFZmlsZXMVAAAAABoFY2xpcHMaBWNvZGVjGgljb252ZXJ0ZXIaBGZpbGUaBmZvcm1hdBoGcGxheWVyGgdzdXBwb3J0Ggp2aWRlb2ZpbGVzMngvZ290bz91cmw9Q0FFU1RnSEVJa1hYLW5VMXFGVWx2UUdUZEtqREtmVkhkSk9vZi1vLUVVNENSeE9VOVBvMXMxcDVISWEtZnAxY2V2MFBGZ2VRVWpIb3lSSGQ1TW9vUldMYzVqVDdWV3lhdnZkcS1hcGZjV3RyeFE6RlZpemFyZC48Yj5haTwvYj4gfCAjMSA8Yj5BSSBWaWRlbzwvYj4gRWRpdGluZyBhbmQgPGI-Q2xpcHBpbmc8L2I-IFRvb2xCoAFWaXphcmQgdHVybnMgeW91ciBsb25nIGZvcm0gPGI-dmlkZW9zPC9iPiBpbnRvIGVuZ2FnaW5nIHZpcmFsIDxiPmNsaXBzPC9iPiB3aXRoIDxiPkFJPC9iPi4gTWFrZSB5b3VyIGVuZ2FnaW5nIHNvY2lhbC1yZWFkeSA8Yj52aWRlb3M8L2I-IHdpdGgganVzdCBhIGZldyBjbGlja3MuSgR0aGF0UgN0b3AiAhABSABYAGgA",
+        "source": "Vizard.ai"
+      },
+      {
+        "position": 5,
+        "title": "Free AI Clip Maker & AI Shorts Maker \u2014 Turn Long Videos ...",
+        "link": "https://www.google.com/goto?url=CAESbgHEIkXXsWLpr02Dl7JrJjP_znwaUTqaOGOwSQeSCsMlM_r6e7jU-kspzTy98-K7kJ9adnFICjA3h6RAu29bHY-Etj_ANwtVQL4O6IBKxtrYP3mPo6x8K7zfwyxhq3natcxaGAZ-E23hlwgGf3JT",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHEIkXXthO8VqmLGcKfpfDuckCSi2FIOWUtG3a1DBld3kjahTVdnkhRIG7rduKEYTziPMd4RoFcL-1DoapaRjIAlWTeumpeuLJxXWsVNroWIW8s46I-tOOs1pYzt_-F2AliCiLibDfeTBIspH81&ved=2ahUKEwjbq7uV3JuYAxUufTIDHVOZDsoQFnoECBwQAQ&uoh=1",
+        "displayed_link": "https://www.choppity.com \u203a tools \u203a free-ai-clip-maker",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcExxL_9xL_9xL_9xL_9xL_9xL_9tJf9qHf9jBP95Pv-2nf_VyP-bdv9nE__Itv-IV_-RZv_r5P_____i2f9cAP-niP_49f_-SyO1AAAAB3RSTlMAJa7y_69kPKWwjAAAAQ1JREFUeAF9kwUChDAMBJFwqZHSbuX_P71wrgxSmboMwzBOM30xL-OgnOgPJ61HfxmH5b-chvm_nIdHlI3hj9hNsnU-hFU0JrLGsPFTSspAKfDV-QLkjKcUj5CsVI8MhMbVIPFNckOzzIbcXsZq7d7lXtMiWuItiMUqzu-1k7nV5ARHWgtku68FV9xVGt8tSc9YbQ7WsmKkR3OVsQhxkxxrAOJ24SGDSmLjwTm0jgv93mzMKpUO-Fo3eHLuPlpuMLRjG4Cock_eJBl4IcXE7rx6oVfpse6DFA1rTWj8kIqNKC2ltGUgJvg3SZIKHhTz2qzCYg1fMUJPecDxMZn-y-X4aB4damVcfl2HSeudAfEjGBYFvIZXAAAAAElFTkSuQmCC.png",
+        "snippet": "Choppity is a free AI clip maker and AI shorts maker. Upload any long video or podcast and our clips AI finds 30+ viral-ready Shorts, TikToks and Reels with ...",
+        "snippet_highlighted_words": [
+          "Choppity is a free AI clip maker"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Choppity is a free AI clip maker and AI shorts maker. Upload any long video or podcast and our clips AI finds 30+ viral-ready Shorts, TikToks and Reels with ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESbgHEIkXXsWLpr02Dl7JrJjP_znwaUTqaOGOwSQeSCsMlM_r6e7jU-kspzTy98-K7kJ9adnFICjA3h6RAu29bHY-Etj_ANwtVQL4O6IBKxtrYP3mPo6x8K7zfwyxhq3natcxaGAZ-E23hlwgGf3JT",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcExxL_9xL_9xL_9xL_9xL_9xL_9tJf9qHf9jBP95Pv-2nf_VyP-bdv9nE__Itv-IV_-RZv_r5P_____i2f9cAP-niP_49f_-SyO1AAAAB3RSTlMAJa7y_69kPKWwjAAAAQ1JREFUeAF9kwUChDAMBJFwqZHSbuX_P71wrgxSmboMwzBOM30xL-OgnOgPJ61HfxmH5b-chvm_nIdHlI3hj9hNsnU-hFU0JrLGsPFTSspAKfDV-QLkjKcUj5CsVI8MhMbVIPFNckOzzIbcXsZq7d7lXtMiWuItiMUqzu-1k7nV5ARHWgtku68FV9xVGt8tSc9YbQ7WsmKkR3OVsQhxkxxrAOJ24SGDSmLjwTm0jgv93mzMKpUO-Fo3eHLuPlpuMLRjG4Cock_eJBl4IcXE7rx6oVfpse6DFA1rTWj8kIqNKC2ltGUgJvg3SZIKHhTz2qzCYg1fMUJPecDxMZn-y-X4aB4damVcfl2HSeudAfEjGBYFvIZXAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hFSWtYWHNXTHByMDJEbDdKckpqUF96bndhVVRxYU9HT3dTUWVTQ3NNbE1fcjZlN2pVLWtzcHpUeTk4LUs3a0o5YWRuRklDakEzaDZSQXUyOWJIWS1FdGpfQU53dFZRTDRPNklCS3h0cllQM21QbzZ4OEs3emZ3eXhocTNuYXRjeGFHQVotRTIzaGx3Z0dmM0pUEgQaAggAGvQGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAzgYIABAAGAAgACooCgRiZXN0FVWFrT8aBGdvb2QaCGdyZWF0ZXN0GgN0b3AaBmJlc3RhaSoRCgJhaRWIRNRAGgZiZXN0YWkqJAoIY2xpcHBpbmcVkN_OPxoEY2xpcBoNaXY7cDtjbGlwcGluZyoPCghzb2Z0d2FyZRXjuGA_KgsKBHRoYXQVAAAAACovCghzdXBwb3J0cxUAAAAAGgdzdXBwb3J0GglzdXBwb3J0ZWQaCnN1cHBvcnRpbmcqFQoCNGsVAAAAABoDdWhkGgU0a2hkcio9CgNoZHIVAAAAABoSaGlnaCBkeW5hbWljIHJhbmdlGgJ0dhoFNGtoZHIaCGhkcnZpZGVvGghpdjtwO2hkciozCgV2aWRlbxWlv1xAGgdmb290YWdlGgZ2aWRlb3MaCGhkcnZpZGVvGgp2aWRlb2ZpbGVzKlAKBWZpbGVzFXUUUD4aBWNsaXBzGgVjb2RlYxoJY29udmVydGVyGgRmaWxlGgZmb3JtYXQaBnBsYXllchoHc3VwcG9ydBoKdmlkZW9maWxlczKiAS9nb3RvP3VybD1DQUVTYmdIRUlrWFhzV0xwcjAyRGw3SnJKalBfem53YVVUcWFPR093U1FlU0NzTWxNX3I2ZTdqVS1rc3B6VHk5OC1LN2tKOWFkbkZJQ2pBM2g2UkF1MjliSFktRXRqX0FOd3RWUUw0TzZJQkt4dHJZUDNtUG82eDhLN3pmd3l4aHEzbmF0Y3hhR0FaLUUyM2hsd2dHZjNKVDpWRnJlZSA8Yj5BSSBDbGlwPC9iPiBNYWtlciAmYW1wOyA8Yj5BSTwvYj4gU2hvcnRzIE1ha2VyIOKAlCBUdXJuIExvbmcgPGI-VmlkZW9zPC9iPiAuLi5CrAE8Yj5DaG9wcGl0eSBpcyBhIGZyZWUgQUkgY2xpcCBtYWtlcjwvYj4gYW5kIEFJIHNob3J0cyBtYWtlci4gVXBsb2FkIGFueSBsb25nIHZpZGVvIG9yIHBvZGNhc3QgYW5kIG91ciBjbGlwcyBBSSBmaW5kcyAzMCsgdmlyYWwtcmVhZHkgU2hvcnRzLCBUaWtUb2tzIGFuZCBSZWVscyB3aXRoJm5ic3A7Li4uSgR0aGF0UgN0b3AiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hFSWtYWHNXTHByMDJEbDdKckpqUF96bndhVVRxYU9HT3dTUWVTQ3NNbE1fcjZlN2pVLWtzcHpUeTk4LUs3a0o5YWRuRklDakEzaDZSQXUyOWJIWS1FdGpfQU53dFZRTDRPNklCS3h0cllQM21QbzZ4OEs3emZ3eXhocTNuYXRjeGFHQVotRTIzaGx3Z0dmM0pUEgQaAggAGvQGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAzgYIABAAGAAgACooCgRiZXN0FVWFrT8aBGdvb2QaCGdyZWF0ZXN0GgN0b3AaBmJlc3RhaSoRCgJhaRWIRNRAGgZiZXN0YWkqJAoIY2xpcHBpbmcVkN_OPxoEY2xpcBoNaXY7cDtjbGlwcGluZyoPCghzb2Z0d2FyZRXjuGA_KgsKBHRoYXQVAAAAACovCghzdXBwb3J0cxUAAAAAGgdzdXBwb3J0GglzdXBwb3J0ZWQaCnN1cHBvcnRpbmcqFQoCNGsVAAAAABoDdWhkGgU0a2hkcio9CgNoZHIVAAAAABoSaGlnaCBkeW5hbWljIHJhbmdlGgJ0dhoFNGtoZHIaCGhkcnZpZGVvGghpdjtwO2hkciozCgV2aWRlbxWlv1xAGgdmb290YWdlGgZ2aWRlb3MaCGhkcnZpZGVvGgp2aWRlb2ZpbGVzKlAKBWZpbGVzFXUUUD4aBWNsaXBzGgVjb2RlYxoJY29udmVydGVyGgRmaWxlGgZmb3JtYXQaBnBsYXllchoHc3VwcG9ydBoKdmlkZW9maWxlczKiAS9nb3RvP3VybD1DQUVTYmdIRUlrWFhzV0xwcjAyRGw3SnJKalBfem53YVVUcWFPR093U1FlU0NzTWxNX3I2ZTdqVS1rc3B6VHk5OC1LN2tKOWFkbkZJQ2pBM2g2UkF1MjliSFktRXRqX0FOd3RWUUw0TzZJQkt4dHJZUDNtUG82eDhLN3pmd3l4aHEzbmF0Y3hhR0FaLUUyM2hsd2dHZjNKVDpWRnJlZSA8Yj5BSSBDbGlwPC9iPiBNYWtlciAmYW1wOyA8Yj5BSTwvYj4gU2hvcnRzIE1ha2VyIOKAlCBUdXJuIExvbmcgPGI-VmlkZW9zPC9iPiAuLi5CrAE8Yj5DaG9wcGl0eSBpcyBhIGZyZWUgQUkgY2xpcCBtYWtlcjwvYj4gYW5kIEFJIHNob3J0cyBtYWtlci4gVXBsb2FkIGFueSBsb25nIHZpZGVvIG9yIHBvZGNhc3QgYW5kIG91ciBjbGlwcyBBSSBmaW5kcyAzMCsgdmlyYWwtcmVhZHkgU2hvcnRzLCBUaWtUb2tzIGFuZCBSZWVscyB3aXRoJm5ic3A7Li4uSgR0aGF0UgN0b3AiAhABSABYAGgA",
+        "source": "Choppity"
+      },
+      {
+        "position": 6,
+        "title": "7 Best Clipping Software for Windows Gamers (2026)",
+        "link": "https://www.google.com/goto?url=CAESdQHEIkXXkZ65CCbT_7tS-2i5fHh9MNxFs0CbwTHyCmsPIEMrQovae4uWDDR3qGfFanDrDe3Kz8F_CIBOibPUjP1z_WDfYuWArvWT_ZbxEXJkHnj9RaDMEU88Vh485WiVTseE0Yn2jLcdV874VsUGgNfi31d-Jg",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHEIkXX3kOIC-15sxvL_d7K8SwciMUnNxJbsWtwR67CDgoh9dFMBWOQwhlu6t6a2XSolgQUsztz9UB50pM90uXLAw_gNHW5xncENm4PY14iV_gkbyl6y9fd7ph-pnSX58bcEZUL2tWjcdPM3z7yDIvh-rXxeA&ved=2ahUKEwjbq7uV3JuYAxUufTIDHVOZDsoQFnoECB0QAQ&uoh=1",
+        "displayed_link": "https://eklipse.gg \u203a Compare",
+        "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRkWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3NzY3Nzc3NzctNy83Nzc3Nzg3Nzc3NzI4Nzc3Nzc3NzU3NTc3N__AABEIABwAHAMBEQACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAAFBgMEBwL_xAAmEAABAwMDBAIDAAAAAAAAAAACAQMEAAUREiExBiJBUWFxI4HB_8QAGwEAAgMAAwAAAAAAAAAAAAAAAwQCBQYAAQf_xAAqEQABAwEFBgcAAAAAAAAAAAABAAIDEQQSIVFxIjEyocHwBRMUQWGBsf_aAAwDAQACEQMRAD8AjfujzoaVVafg8DijfeovRmwxtNVNaOnrpeRJ6HGyyi4V5wkEc_a8_qrvz4LNQPOOSStviEMOy445Li4WyZbRFZTKgBqQgaLkS0rhcLT8U8cvAd3VUM9obJwlCHD76444pAnFWCbwKqnONqII21Wn9aE_3uzyJ9yi2xpCbs0OO3pxsJKvGPZKu2V4TK_dHZbSyGJ0pxkcT3oOe7TPstQa10h43E96JTJiVdm5xRHcwrc0bwi4ZIIt52QU3wqonHnHNWT5WQXbw2nUH386IL357ylh17vWhvkxQiUctwsy5jbMiU1FZVe95xdkT-r6SmZZrjC5oqckcymi0KZ1T09CtDkduQkpqM2LLLYO_lLKaSJF8YEufgvis4LNaHy3yKE4nLP96JSjiarPr71Uw5bCtVkgDb4BkhPZNTccVONRL4-N-E8bU6GEP82V153IKXvUpMdk9670J82KjVEFdP3T18qdVC66fuhPeV1VUJDpe6SkeVEoebhauaSc41UV_9k.jpg",
+        "snippet": "Eklipse works from completed Twitch, Kick, or YouTube streams and includes vertical editing, captions, and publishing. Medal saves local replays as you play.",
+        "snippet_highlighted_words": [
+          "lipse"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Eklipse works from completed Twitch, Kick, or YouTube streams and includes vertical editing, captions, and publishing. Medal saves local replays as you play.",
+            "source_info_link": "https://www.google.com/goto?url=CAESdQHEIkXXkZ65CCbT_7tS-2i5fHh9MNxFs0CbwTHyCmsPIEMrQovae4uWDDR3qGfFanDrDe3Kz8F_CIBOibPUjP1z_WDfYuWArvWT_ZbxEXJkHnj9RaDMEU88Vh485WiVTseE0Yn2jLcdV874VsUGgNfi31d-Jg",
+            "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRkWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3NzY3Nzc3NzctNy83Nzc3Nzg3Nzc3NzI4Nzc3Nzc3NzU3NTc3N__AABEIABwAHAMBEQACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAAFBgMEBwL_xAAmEAABAwMDBAIDAAAAAAAAAAACAQMEAAUREiExBiJBUWFxI4HB_8QAGwEAAgMAAwAAAAAAAAAAAAAAAwQCBQYAAQf_xAAqEQABAwEFBgcAAAAAAAAAAAABAAIDEQQSIVFxIjEyocHwBRMUQWGBsf_aAAwDAQACEQMRAD8AjfujzoaVVafg8DijfeovRmwxtNVNaOnrpeRJ6HGyyi4V5wkEc_a8_qrvz4LNQPOOSStviEMOy445Li4WyZbRFZTKgBqQgaLkS0rhcLT8U8cvAd3VUM9obJwlCHD76444pAnFWCbwKqnONqII21Wn9aE_3uzyJ9yi2xpCbs0OO3pxsJKvGPZKu2V4TK_dHZbSyGJ0pxkcT3oOe7TPstQa10h43E96JTJiVdm5xRHcwrc0bwi4ZIIt52QU3wqonHnHNWT5WQXbw2nUH386IL357ylh17vWhvkxQiUctwsy5jbMiU1FZVe95xdkT-r6SmZZrjC5oqckcymi0KZ1T09CtDkduQkpqM2LLLYO_lLKaSJF8YEufgvis4LNaHy3yKE4nLP96JSjiarPr71Uw5bCtVkgDb4BkhPZNTccVONRL4-N-E8bU6GEP82V153IKXvUpMdk9670J82KjVEFdP3T18qdVC66fuhPeV1VUJDpe6SkeVEoebhauaSc41UV_9k.jpg"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqwBL2dvdG8_dXJsPUNBRVNkUUhFSWtYWGtaNjVDQ2JUXzd0Uy0yaTVmSGg5TU54RnMwQ2J3VEh5Q21zUElFTXJRb3ZhZTR1V0REUjNxR2ZGYW5EckRlM0t6OEZfQ0lCT2liUFVqUDF6X1dEZll1V0FydldUX1pieEVYSmtIbmo5UmFETUVVODhWaDQ4NVdpVlRzZUUwWW4yakxjZFY4NzRWc1VHZ05maTMxZC1KZxIEGgIIABrhBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC9BggAEAAYACAAKigKBGJlc3QVhgJAQBoEZ29vZBoIZ3JlYXRlc3QaA3RvcBoGYmVzdGFpKhEKAmFpFdT8lz8aBmJlc3RhaSokCghjbGlwcGluZxUE7oVAGgRjbGlwGg1pdjtwO2NsaXBwaW5nKg8KCHNvZnR3YXJlFegjf0AqCwoEdGhhdBUAAAAAKi8KCHN1cHBvcnRzFQAAAAAaB3N1cHBvcnQaCXN1cHBvcnRlZBoKc3VwcG9ydGluZyoVCgI0axU5D80-GgN1aGQaBTRraGRyKj0KA2hkchU5D00_GhJoaWdoIGR5bmFtaWMgcmFuZ2UaAnR2GgU0a2hkchoIaGRydmlkZW8aCGl2O3A7aGRyKjMKBXZpZGVvFfUIgj4aB2Zvb3RhZ2UaBnZpZGVvcxoIaGRydmlkZW8aCnZpZGVvZmlsZXMqUAoFZmlsZXMVOQ_NPRoFY2xpcHMaBWNvZGVjGgljb252ZXJ0ZXIaBGZpbGUaBmZvcm1hdBoGcGxheWVyGgdzdXBwb3J0Ggp2aWRlb2ZpbGVzMqwBL2dvdG8_dXJsPUNBRVNkUUhFSWtYWGtaNjVDQ2JUXzd0Uy0yaTVmSGg5TU54RnMwQ2J3VEh5Q21zUElFTXJRb3ZhZTR1V0REUjNxR2ZGYW5EckRlM0t6OEZfQ0lCT2liUFVqUDF6X1dEZll1V0FydldUX1pieEVYSmtIbmo5UmFETUVVODhWaDQ4NVdpVlRzZUUwWW4yakxjZFY4NzRWc1VHZ05maTMxZC1KZzpDNyA8Yj5CZXN0IENsaXBwaW5nIFNvZnR3YXJlPC9iPiBmb3IgV2luZG93cyBHYW1lcnMgKDIwMjYpIC0gRWtsaXBzZUKkAUVrPGI-bGlwc2U8L2I-IHdvcmtzIGZyb20gY29tcGxldGVkIFR3aXRjaCwgS2ljaywgb3IgWW91VHViZSBzdHJlYW1zIGFuZCBpbmNsdWRlcyB2ZXJ0aWNhbCBlZGl0aW5nLCBjYXB0aW9ucywgYW5kIHB1Ymxpc2hpbmcuIE1lZGFsIHNhdmVzIGxvY2FsIHJlcGxheXMgYXMgeW91IHBsYXkuSgR0aGF0UgN0b3AiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqwBL2dvdG8_dXJsPUNBRVNkUUhFSWtYWGtaNjVDQ2JUXzd0Uy0yaTVmSGg5TU54RnMwQ2J3VEh5Q21zUElFTXJRb3ZhZTR1V0REUjNxR2ZGYW5EckRlM0t6OEZfQ0lCT2liUFVqUDF6X1dEZll1V0FydldUX1pieEVYSmtIbmo5UmFETUVVODhWaDQ4NVdpVlRzZUUwWW4yakxjZFY4NzRWc1VHZ05maTMxZC1KZxIEGgIIABrhBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC9BggAEAAYACAAKigKBGJlc3QVhgJAQBoEZ29vZBoIZ3JlYXRlc3QaA3RvcBoGYmVzdGFpKhEKAmFpFdT8lz8aBmJlc3RhaSokCghjbGlwcGluZxUE7oVAGgRjbGlwGg1pdjtwO2NsaXBwaW5nKg8KCHNvZnR3YXJlFegjf0AqCwoEdGhhdBUAAAAAKi8KCHN1cHBvcnRzFQAAAAAaB3N1cHBvcnQaCXN1cHBvcnRlZBoKc3VwcG9ydGluZyoVCgI0axU5D80-GgN1aGQaBTRraGRyKj0KA2hkchU5D00_GhJoaWdoIGR5bmFtaWMgcmFuZ2UaAnR2GgU0a2hkchoIaGRydmlkZW8aCGl2O3A7aGRyKjMKBXZpZGVvFfUIgj4aB2Zvb3RhZ2UaBnZpZGVvcxoIaGRydmlkZW8aCnZpZGVvZmlsZXMqUAoFZmlsZXMVOQ_NPRoFY2xpcHMaBWNvZGVjGgljb252ZXJ0ZXIaBGZpbGUaBmZvcm1hdBoGcGxheWVyGgdzdXBwb3J0Ggp2aWRlb2ZpbGVzMqwBL2dvdG8_dXJsPUNBRVNkUUhFSWtYWGtaNjVDQ2JUXzd0Uy0yaTVmSGg5TU54RnMwQ2J3VEh5Q21zUElFTXJRb3ZhZTR1V0REUjNxR2ZGYW5EckRlM0t6OEZfQ0lCT2liUFVqUDF6X1dEZll1V0FydldUX1pieEVYSmtIbmo5UmFETUVVODhWaDQ4NVdpVlRzZUUwWW4yakxjZFY4NzRWc1VHZ05maTMxZC1KZzpDNyA8Yj5CZXN0IENsaXBwaW5nIFNvZnR3YXJlPC9iPiBmb3IgV2luZG93cyBHYW1lcnMgKDIwMjYpIC0gRWtsaXBzZUKkAUVrPGI-bGlwc2U8L2I-IHdvcmtzIGZyb20gY29tcGxldGVkIFR3aXRjaCwgS2ljaywgb3IgWW91VHViZSBzdHJlYW1zIGFuZCBpbmNsdWRlcyB2ZXJ0aWNhbCBlZGl0aW5nLCBjYXB0aW9ucywgYW5kIHB1Ymxpc2hpbmcuIE1lZGFsIHNhdmVzIGxvY2FsIHJlcGxheXMgYXMgeW91IHBsYXkuSgR0aGF0UgN0b3AiAhABSABYAGgA",
+        "source": "Eklipse",
+        "read_more_link": "https://www.google.com/goto?url=CAES0AEBxCJF18UuUPl1c4NrSGvOT6Z_UJaKNWcbuf9McPq-iGL8ZhtQ5IWs1TYSeymMDKvkRiGEI00zTqdl61WWwg-Y5b5WwVlEcvSnTsD-6k2CjF8KXXllvMwiKpRAYz3jHjL4hUr4aeHP6JjxTl2MG8RqQ0CY7xRP2xd1apRDyqRsNWNcDRoiI4Jco1CCGHzxlSWoj4o29Ua1EIXY2kOa05SlVkus4VmYx9is_wjAg-7thBRizT5viSBQvadMsWqxs8U24hG0l7BxOLKKULhDNwfE&gsessionid=_3QNk3HW8LKiyGIMxbGdpO5MJZo3hBzeWb7S9HGLNEWQQJeNL2T_bA"
+      },
+      {
+        "position": 7,
+        "title": "AI Clip Maker | Short Clips For Social Media",
+        "link": "https://www.google.com/goto?url=CAESXQHEIkXXEMISKdpnnysgyBu3rstQ20wIeI69uWSJJTp3V6ysE-Mq6DN9oHqc93RLuWypOASDwgwjGk1JfvDFRXDu4gNKeIypVs-OXxhgrntJRPRWtY1EwPG2dWAFlw",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXQHEIkXX7RtVgq9phuHwZKM6nDtDSDE-rw6Wjdsv2x4tiIhErvlpX1QJL56A2ub1f7sTS9oVkp8t7907P7UYqMuKULx_H_Zl4idMyJbJ85UUqxhgY_2ORaAAAA5E7g&ved=2ahUKEwjbq7uV3JuYAxUufTIDHVOZDsoQFnoECEsQAQ&uoh=1",
+        "displayed_link": "https://riverside.com \u203a magic-clips",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEwJCgwJCgwJCgwAAABISEmxsbGPkJD____o6OhhYWJ7fHzX19fIyMj39_c4OTrCVyokAAAAA3RSTlMAcOqVlrZOAAAAjUlEQVR4AWNgVDaGAyMBBmFjJGDIAJJESDMYowDSuSYuKFzXdBckrklFxxRnBNerY08vEtevy-XFFygXpPaKSUWKsbELlDsjxMSjxdjkjDOEe9fZ2KfL2bUTzAWr8u519u2GckF2vQhZ8cQYwd3xvGMJkpvdOtqdkbgmy7-g-MgF7C5KQgMtYNGCHS1SAHPDXaP-l6PrAAAAAElFTkSuQmCC.png",
+        "snippet": "Generate short clips from long video in one click. Magic Clips automatically identifies, highlights and makes clips for YouTube, Instagram, and TikTok.",
+        "snippet_highlighted_words": [
+          "Magic Clips"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Generate short clips from long video in one click. Magic Clips automatically identifies, highlights and makes clips for YouTube, Instagram, and TikTok.",
+            "source_info_link": "https://www.google.com/goto?url=CAESXQHEIkXXEMISKdpnnysgyBu3rstQ20wIeI69uWSJJTp3V6ysE-Mq6DN9oHqc93RLuWypOASDwgwjGk1JfvDFRXDu4gNKeIypVs-OXxhgrntJRPRWtY1EwPG2dWAFlw",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEwJCgwJCgwJCgwAAABISEmxsbGPkJD____o6OhhYWJ7fHzX19fIyMj39_c4OTrCVyokAAAAA3RSTlMAcOqVlrZOAAAAjUlEQVR4AWNgVDaGAyMBBmFjJGDIAJJESDMYowDSuSYuKFzXdBckrklFxxRnBNerY08vEtevy-XFFygXpPaKSUWKsbELlDsjxMSjxdjkjDOEe9fZ2KfL2bUTzAWr8u519u2GckF2vQhZ8cQYwd3xvGMJkpvdOtqdkbgmy7-g-MgF7C5KQgMtYNGCHS1SAHPDXaP-l6PrAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CowBL2dvdG8_dXJsPUNBRVNYUUhFSWtYWEVNSVNLZHBubnlzZ3lCdTNyc3RRMjB3SWVJNjl1V1NKSlRwM1Y2eXNFLU1xNkROOW9IcWM5M1JMdVd5cE9BU0R3Z3dqR2sxSmZ2REZSWER1NGdOS2VJeXBWcy1PWHhoZ3JudEpSUFJXdFkxRXdQRzJkV0FGbHcSBBoCCAAaygYSAggBGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCkBggAEAAYACAAKigKBGJlc3QVzoSJPxoEZ29vZBoIZ3JlYXRlc3QaA3RvcBoGYmVzdGFpKhEKAmFpFdQ2nkAaBmJlc3RhaSokCghjbGlwcGluZxVtXq4-GgRjbGlwGg1pdjtwO2NsaXBwaW5nKg8KCHNvZnR3YXJlFdToTz8qCwoEdGhhdBUAAAAAKi8KCHN1cHBvcnRzFQAAAAAaB3N1cHBvcnQaCXN1cHBvcnRlZBoKc3VwcG9ydGluZyoVCgI0axUahqk-GgN1aGQaBTRraGRyKj0KA2hkchUAAAAAGhJoaWdoIGR5bmFtaWMgcmFuZ2UaAnR2GgU0a2hkchoIaGRydmlkZW8aCGl2O3A7aGRyKjMKBXZpZGVvFUYMLkAaB2Zvb3RhZ2UaBnZpZGVvcxoIaGRydmlkZW8aCnZpZGVvZmlsZXMqUAoFZmlsZXMVAAAAABoFY2xpcHMaBWNvZGVjGgljb252ZXJ0ZXIaBGZpbGUaBmZvcm1hdBoGcGxheWVyGgdzdXBwb3J0Ggp2aWRlb2ZpbGVzMowBL2dvdG8_dXJsPUNBRVNYUUhFSWtYWEVNSVNLZHBubnlzZ3lCdTNyc3RRMjB3SWVJNjl1V1NKSlRwM1Y2eXNFLU1xNkROOW9IcWM5M1JMdVd5cE9BU0R3Z3dqR2sxSmZ2REZSWER1NGdOS2VJeXBWcy1PWHhoZ3JudEpSUFJXdFkxRXdQRzJkV0FGbHc6UDxiPkFJIENsaXA8L2I-IE1ha2VyIHwgU2hvcnQgPGI-Q2xpcHM8L2I-IEZvciBTb2NpYWwgTWVkaWEgfCBSaXZlcnNpZGUgTWFnaWMgLi4uQp4BR2VuZXJhdGUgc2hvcnQgY2xpcHMgZnJvbSBsb25nIHZpZGVvIGluIG9uZSBjbGljay4gPGI-TWFnaWMgQ2xpcHM8L2I-IGF1dG9tYXRpY2FsbHkgaWRlbnRpZmllcywgaGlnaGxpZ2h0cyBhbmQgbWFrZXMgY2xpcHMgZm9yIFlvdVR1YmUsIEluc3RhZ3JhbSwgYW5kIFRpa1Rvay5KBHRoYXRSA3RvcCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CowBL2dvdG8_dXJsPUNBRVNYUUhFSWtYWEVNSVNLZHBubnlzZ3lCdTNyc3RRMjB3SWVJNjl1V1NKSlRwM1Y2eXNFLU1xNkROOW9IcWM5M1JMdVd5cE9BU0R3Z3dqR2sxSmZ2REZSWER1NGdOS2VJeXBWcy1PWHhoZ3JudEpSUFJXdFkxRXdQRzJkV0FGbHcSBBoCCAAaygYSAggBGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCkBggAEAAYACAAKigKBGJlc3QVzoSJPxoEZ29vZBoIZ3JlYXRlc3QaA3RvcBoGYmVzdGFpKhEKAmFpFdQ2nkAaBmJlc3RhaSokCghjbGlwcGluZxVtXq4-GgRjbGlwGg1pdjtwO2NsaXBwaW5nKg8KCHNvZnR3YXJlFdToTz8qCwoEdGhhdBUAAAAAKi8KCHN1cHBvcnRzFQAAAAAaB3N1cHBvcnQaCXN1cHBvcnRlZBoKc3VwcG9ydGluZyoVCgI0axUahqk-GgN1aGQaBTRraGRyKj0KA2hkchUAAAAAGhJoaWdoIGR5bmFtaWMgcmFuZ2UaAnR2GgU0a2hkchoIaGRydmlkZW8aCGl2O3A7aGRyKjMKBXZpZGVvFUYMLkAaB2Zvb3RhZ2UaBnZpZGVvcxoIaGRydmlkZW8aCnZpZGVvZmlsZXMqUAoFZmlsZXMVAAAAABoFY2xpcHMaBWNvZGVjGgljb252ZXJ0ZXIaBGZpbGUaBmZvcm1hdBoGcGxheWVyGgdzdXBwb3J0Ggp2aWRlb2ZpbGVzMowBL2dvdG8_dXJsPUNBRVNYUUhFSWtYWEVNSVNLZHBubnlzZ3lCdTNyc3RRMjB3SWVJNjl1V1NKSlRwM1Y2eXNFLU1xNkROOW9IcWM5M1JMdVd5cE9BU0R3Z3dqR2sxSmZ2REZSWER1NGdOS2VJeXBWcy1PWHhoZ3JudEpSUFJXdFkxRXdQRzJkV0FGbHc6UDxiPkFJIENsaXA8L2I-IE1ha2VyIHwgU2hvcnQgPGI-Q2xpcHM8L2I-IEZvciBTb2NpYWwgTWVkaWEgfCBSaXZlcnNpZGUgTWFnaWMgLi4uQp4BR2VuZXJhdGUgc2hvcnQgY2xpcHMgZnJvbSBsb25nIHZpZGVvIGluIG9uZSBjbGljay4gPGI-TWFnaWMgQ2xpcHM8L2I-IGF1dG9tYXRpY2FsbHkgaWRlbnRpZmllcywgaGlnaGxpZ2h0cyBhbmQgbWFrZXMgY2xpcHMgZm9yIFlvdVR1YmUsIEluc3RhZ3JhbSwgYW5kIFRpa1Rvay5KBHRoYXRSA3RvcCICEAFIAFgAaAA",
+        "source": "Riverside"
+      },
+      {
+        "position": 8,
+        "title": "Free AI Clip Generator | Adobe Express",
+        "link": "https://www.google.com/goto?url=CAESbgHEIkXX8e780mNS5tTvteTm_abQNdtuQ7OqZnW8Egh_yxvLYA6QrXZC49w-aGpPsL-M-uL7a5Zew6dWuZ-GOFS2SlKO3SUiVW1Fhory9mnlVSh4YXgd60Vjxi_agWTYTcsSQoi6gtigvysdkPFk",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHEIkXXpsq44hOF0EVsxWJ_YoaqCj3gPpPwWk_MI5QW26sCh-hO5LUXKz5o4aCAmhtA6_RRg7N_03GVoEcJi4kPmAsp5NYumKBSqbrndYZhWkOK6Ro0iuBB2u3lpQ-KA2SzjJmdDREL-PC6FdyR&ved=2ahUKEwjbq7uV3JuYAxUufTIDHVOZDsoQFnoECEwQAQ&uoh=1",
+        "displayed_link": "https://www.adobe.com \u203a express \u203a create \u203a ai \u203a video",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzrEADrEADrEADrEADrAADrEAD____wbWr2qaf-9fX729r5x8btLijvS0byfntEd2TgAAAABXRSTlMATsufzEBRSFAAAACvSURBVCiRjZOLDoMwCEVRd0uf-v9_O6BzWxWNJyY1PeVKGiSi6RUc5omExVPKInVXLoSJ3MxPMl27EB5LGL7EykKEL6vK6svARoAjkbpMrszM8nB2JKJW1aGlnyyy3_REOUk029ZsbjhKbWeDLekktVH0AD5IbFYhFEsYpe7lnJOdKoPs12qJlr_iX9ZdRmupDjLurGi6YPjml_5-vFsHmq_dfD-at0MtY-0m6-_wBr8IEuMazHj1AAAAAElFTkSuQmCC.png",
+        "snippet": "Create engaging, bite-sized video clips effortlessly with the Adobe Express AI Clip maker. Just upload your video, and watch as AI highlights key segments, ...",
+        "snippet_highlighted_words": [
+          "Adobe Express AI Clip maker"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Create engaging, bite-sized video clips effortlessly with the Adobe Express AI Clip maker. Just upload your video, and watch as AI highlights key segments, ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESbgHEIkXX8e780mNS5tTvteTm_abQNdtuQ7OqZnW8Egh_yxvLYA6QrXZC49w-aGpPsL-M-uL7a5Zew6dWuZ-GOFS2SlKO3SUiVW1Fhory9mnlVSh4YXgd60Vjxi_agWTYTcsSQoi6gtigvysdkPFk",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzrEADrEADrEADrEADrAADrEAD____wbWr2qaf-9fX729r5x8btLijvS0byfntEd2TgAAAABXRSTlMATsufzEBRSFAAAACvSURBVCiRjZOLDoMwCEVRd0uf-v9_O6BzWxWNJyY1PeVKGiSi6RUc5omExVPKInVXLoSJ3MxPMl27EB5LGL7EykKEL6vK6svARoAjkbpMrszM8nB2JKJW1aGlnyyy3_REOUk029ZsbjhKbWeDLekktVH0AD5IbFYhFEsYpe7lnJOdKoPs12qJlr_iX9ZdRmupDjLurGi6YPjml_5-vFsHmq_dfD-at0MtY-0m6-_wBr8IEuMazHj1AAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hFSWtYWDhlNzgwbU5TNXRUdnRlVG1fYWJRTmR0dVE3T3Fablc4RWdoX3l4dkxZQTZRclhaQzQ5dy1hR3BQc0wtTS11TDdhNVpldzZkV3VaLUdPRlMyU2xLTzNTVWlWVzFGaG9yeTltbmxWU2g0WVhnZDYwVmp4aV9hZ1dUWVRjc1NRb2k2Z3RpZ3Z5c2RrUEZrEgQaAggAGsoGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJApAYIABAAGAAgACooCgRiZXN0FfOh-j4aBGdvb2QaCGdyZWF0ZXN0GgN0b3AaBmJlc3RhaSoRCgJhaRWgtdNAGgZiZXN0YWkqJAoIY2xpcHBpbmcVAAAAABoEY2xpcBoNaXY7cDtjbGlwcGluZyoPCghzb2Z0d2FyZRUAAAAAKgsKBHRoYXQVAAAAACovCghzdXBwb3J0cxU9UUs9GgdzdXBwb3J0GglzdXBwb3J0ZWQaCnN1cHBvcnRpbmcqFQoCNGsVAAAAABoDdWhkGgU0a2hkcio9CgNoZHIVAAAAABoSaGlnaCBkeW5hbWljIHJhbmdlGgJ0dhoFNGtoZHIaCGhkcnZpZGVvGghpdjtwO2hkciozCgV2aWRlbxWQo5NAGgdmb290YWdlGgZ2aWRlb3MaCGhkcnZpZGVvGgp2aWRlb2ZpbGVzKlAKBWZpbGVzFQAAAAAaBWNsaXBzGgVjb2RlYxoJY29udmVydGVyGgRmaWxlGgZmb3JtYXQaBnBsYXllchoHc3VwcG9ydBoKdmlkZW9maWxlczKiAS9nb3RvP3VybD1DQUVTYmdIRUlrWFg4ZTc4MG1OUzV0VHZ0ZVRtX2FiUU5kdHVRN09xWm5XOEVnaF95eHZMWUE2UXJYWkM0OXctYUdwUHNMLU0tdUw3YTVaZXc2ZFd1Wi1HT0ZTMlNsS08zU1VpVlcxRmhvcnk5bW5sVlNoNFlYZ2Q2MFZqeGlfYWdXVFlUY3NTUW9pNmd0aWd2eXNka1BGazotRnJlZSA8Yj5BSSBDbGlwPC9iPiBHZW5lcmF0b3IgfCBBZG9iZSBFeHByZXNzQqsBQ3JlYXRlIGVuZ2FnaW5nLCBiaXRlLXNpemVkIHZpZGVvIGNsaXBzIGVmZm9ydGxlc3NseSB3aXRoIHRoZSA8Yj5BZG9iZSBFeHByZXNzIEFJIENsaXAgbWFrZXI8L2I-LiBKdXN0IHVwbG9hZCB5b3VyIHZpZGVvLCBhbmQgd2F0Y2ggYXMgQUkgaGlnaGxpZ2h0cyBrZXkgc2VnbWVudHMsJm5ic3A7Li4uSgR0aGF0UgN0b3AiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hFSWtYWDhlNzgwbU5TNXRUdnRlVG1fYWJRTmR0dVE3T3Fablc4RWdoX3l4dkxZQTZRclhaQzQ5dy1hR3BQc0wtTS11TDdhNVpldzZkV3VaLUdPRlMyU2xLTzNTVWlWVzFGaG9yeTltbmxWU2g0WVhnZDYwVmp4aV9hZ1dUWVRjc1NRb2k2Z3RpZ3Z5c2RrUEZrEgQaAggAGsoGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJApAYIABAAGAAgACooCgRiZXN0FfOh-j4aBGdvb2QaCGdyZWF0ZXN0GgN0b3AaBmJlc3RhaSoRCgJhaRWgtdNAGgZiZXN0YWkqJAoIY2xpcHBpbmcVAAAAABoEY2xpcBoNaXY7cDtjbGlwcGluZyoPCghzb2Z0d2FyZRUAAAAAKgsKBHRoYXQVAAAAACovCghzdXBwb3J0cxU9UUs9GgdzdXBwb3J0GglzdXBwb3J0ZWQaCnN1cHBvcnRpbmcqFQoCNGsVAAAAABoDdWhkGgU0a2hkcio9CgNoZHIVAAAAABoSaGlnaCBkeW5hbWljIHJhbmdlGgJ0dhoFNGtoZHIaCGhkcnZpZGVvGghpdjtwO2hkciozCgV2aWRlbxWQo5NAGgdmb290YWdlGgZ2aWRlb3MaCGhkcnZpZGVvGgp2aWRlb2ZpbGVzKlAKBWZpbGVzFQAAAAAaBWNsaXBzGgVjb2RlYxoJY29udmVydGVyGgRmaWxlGgZmb3JtYXQaBnBsYXllchoHc3VwcG9ydBoKdmlkZW9maWxlczKiAS9nb3RvP3VybD1DQUVTYmdIRUlrWFg4ZTc4MG1OUzV0VHZ0ZVRtX2FiUU5kdHVRN09xWm5XOEVnaF95eHZMWUE2UXJYWkM0OXctYUdwUHNMLU0tdUw3YTVaZXc2ZFd1Wi1HT0ZTMlNsS08zU1VpVlcxRmhvcnk5bW5sVlNoNFlYZ2Q2MFZqeGlfYWdXVFlUY3NTUW9pNmd0aWd2eXNka1BGazotRnJlZSA8Yj5BSSBDbGlwPC9iPiBHZW5lcmF0b3IgfCBBZG9iZSBFeHByZXNzQqsBQ3JlYXRlIGVuZ2FnaW5nLCBiaXRlLXNpemVkIHZpZGVvIGNsaXBzIGVmZm9ydGxlc3NseSB3aXRoIHRoZSA8Yj5BZG9iZSBFeHByZXNzIEFJIENsaXAgbWFrZXI8L2I-LiBKdXN0IHVwbG9hZCB5b3VyIHZpZGVvLCBhbmQgd2F0Y2ggYXMgQUkgaGlnaGxpZ2h0cyBrZXkgc2VnbWVudHMsJm5ic3A7Li4uSgR0aGF0UgN0b3AiAhABSABYAGgA",
+        "source": "Adobe",
+        "read_more_link": "https://www.google.com/goto?url=CAES2AEBxCJF1-zxPri4oKtGnMkW6wYZWpaQK0C7hjWN7kzgfxZ7IhJ_yvHtY1RXFDmZCsxdf_TY2p8HcV6JJil8YPBuuP8aIeV36-en9sUve7clWNTklfE863CFKB8IlZugwzmF9Y-yTFJsSh0heIQ5DyusjJZjvgQ9EC_UrqVVuvTT4GKOBPu_qG6eLUGBi7qtkbz7tIpNC1Qp2nv1UBqSZW929_onVH5HJlV8pP3FuzYtnDuSJQT7s0xar0Nowgo7IqAwyK1SCDYMcAuO9SGTAFw3i-fP20wfCf8&gsessionid=_3QNk3HW8LKiyGIMxbGdpO5MJZo3hBzeWb7S9HGLNEWQQJeNL2T_bA"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "Best ai clipping software that supports 4k hdr video files free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDiC50V5d2itrycKiKSkVgCMDBISFA:1795355430547&q=Best+ai+clipping+software+that+supports+4k+hdr+video+files+free&sa=X&ved=2ahUKEwjbq7uV3JuYAxUufTIDHVOZDsoQ1QJ6BAhHEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+ai+clipping+software+that+supports+4k+hdr+video+files+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Vizard AI",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDiC50V5d2itrycKiKSkVgCMDBISFA:1795355430547&q=Vizard+AI&sa=X&ved=2ahUKEwjbq7uV3JuYAxUufTIDHVOZDsoQ1QJ6BAhKEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Vizard+AI"
+      },
+      {
+        "block_position": 1,
+        "query": "Klap AI",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDiC50V5d2itrycKiKSkVgCMDBISFA:1795355430547&q=Klap+AI&sa=X&ved=2ahUKEwjbq7uV3JuYAxUufTIDHVOZDsoQ1QJ6BAhJEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Klap+AI"
+      },
+      {
+        "block_position": 1,
+        "query": "OpenShorts",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDiC50V5d2itrycKiKSkVgCMDBISFA:1795355430547&q=OpenShorts&sa=X&ved=2ahUKEwjbq7uV3JuYAxUufTIDHVOZDsoQ1QJ6BAhIEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=OpenShorts"
+      },
+      {
+        "block_position": 1,
+        "query": "OpusClip",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDiC50V5d2itrycKiKSkVgCMDBISFA:1795355430547&q=OpusClip&sa=X&ved=2ahUKEwjbq7uV3JuYAxUufTIDHVOZDsoQ1QJ6BAhEEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=OpusClip"
+      },
+      {
+        "block_position": 1,
+        "query": "Free clipping AI",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDiC50V5d2itrycKiKSkVgCMDBISFA:1795355430547&q=Free+clipping+AI&sa=X&ved=2ahUKEwjbq7uV3JuYAxUufTIDHVOZDsoQ1QJ6BAhGEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Free+clipping+AI"
+      },
+      {
+        "block_position": 1,
+        "query": "AI viral clip maker free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDiC50V5d2itrycKiKSkVgCMDBISFA:1795355430547&q=AI+viral+clip+maker+free&sa=X&ved=2ahUKEwjbq7uV3JuYAxUufTIDHVOZDsoQ1QJ6BAhDEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AI+viral+clip+maker+free"
+      },
+      {
+        "block_position": 1,
+        "query": "AI clip generator free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDiC50V5d2itrycKiKSkVgCMDBISFA:1795355430547&q=AI+clip+generator+free&sa=X&ved=2ahUKEwjbq7uV3JuYAxUufTIDHVOZDsoQ1QJ6BAhFEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AI+clip+generator+free"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=Best+AI+clipping+software+that+supports+4K+HDR+video+files&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDiC50V5d2itrycKiKSkVgCMDBISFA:1795355430547&ei=JvMCa9uAIa76yckP07K60Aw&start=10&sa=N&sstk=AYl2yk_L35aQ57LI_hipMzlpSjNDl_zRPyz-HpFnb11IqDWbrbsvTOk6bNatrndn0QRSMDtrfp1zqqi5fWBSA8ugA2nq7JCwrg7I4w&ved=2ahUKEwjbq7uV3JuYAxUufTIDHVOZDsoQ8NMDegQIQRAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=Best+AI+clipping+software+that+supports+4K+HDR+video+files&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDiC50V5d2itrycKiKSkVgCMDBISFA:1795355430547&ei=JvMCa9uAIa76yckP07K60Aw&start=10&sa=N&sstk=AYl2yk_L35aQ57LI_hipMzlpSjNDl_zRPyz-HpFnb11IqDWbrbsvTOk6bNatrndn0QRSMDtrfp1zqqi5fWBSA8ugA2nq7JCwrg7I4w&ved=2ahUKEwjbq7uV3JuYAxUufTIDHVOZDsoQ8tMDegQIQRAE",
+        "3": "https://www.google.com/search?q=Best+AI+clipping+software+that+supports+4K+HDR+video+files&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDiC50V5d2itrycKiKSkVgCMDBISFA:1795355430547&ei=JvMCa9uAIa76yckP07K60Aw&start=20&sa=N&sstk=AYl2yk_L35aQ57LI_hipMzlpSjNDl_zRPyz-HpFnb11IqDWbrbsvTOk6bNatrndn0QRSMDtrfp1zqqi5fWBSA8ugA2nq7JCwrg7I4w&ved=2ahUKEwjbq7uV3JuYAxUufTIDHVOZDsoQ8tMDegQIQRAG",
+        "4": "https://www.google.com/search?q=Best+AI+clipping+software+that+supports+4K+HDR+video+files&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDiC50V5d2itrycKiKSkVgCMDBISFA:1795355430547&ei=JvMCa9uAIa76yckP07K60Aw&start=30&sa=N&sstk=AYl2yk_L35aQ57LI_hipMzlpSjNDl_zRPyz-HpFnb11IqDWbrbsvTOk6bNatrndn0QRSMDtrfp1zqqi5fWBSA8ugA2nq7JCwrg7I4w&ved=2ahUKEwjbq7uV3JuYAxUufTIDHVOZDsoQ8tMDegQIQRAI",
+        "5": "https://www.google.com/search?q=Best+AI+clipping+software+that+supports+4K+HDR+video+files&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDiC50V5d2itrycKiKSkVgCMDBISFA:1795355430547&ei=JvMCa9uAIa76yckP07K60Aw&start=40&sa=N&sstk=AYl2yk_L35aQ57LI_hipMzlpSjNDl_zRPyz-HpFnb11IqDWbrbsvTOk6bNatrndn0QRSMDtrfp1zqqi5fWBSA8ugA2nq7JCwrg7I4w&ved=2ahUKEwjbq7uV3JuYAxUufTIDHVOZDsoQ8tMDegQIQRAK",
+        "6": "https://www.google.com/search?q=Best+AI+clipping+software+that+supports+4K+HDR+video+files&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDiC50V5d2itrycKiKSkVgCMDBISFA:1795355430547&ei=JvMCa9uAIa76yckP07K60Aw&start=50&sa=N&sstk=AYl2yk_L35aQ57LI_hipMzlpSjNDl_zRPyz-HpFnb11IqDWbrbsvTOk6bNatrndn0QRSMDtrfp1zqqi5fWBSA8ugA2nq7JCwrg7I4w&ved=2ahUKEwjbq7uV3JuYAxUufTIDHVOZDsoQ8tMDegQIQRAM",
+        "7": "https://www.google.com/search?q=Best+AI+clipping+software+that+supports+4K+HDR+video+files&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDiC50V5d2itrycKiKSkVgCMDBISFA:1795355430547&ei=JvMCa9uAIa76yckP07K60Aw&start=60&sa=N&sstk=AYl2yk_L35aQ57LI_hipMzlpSjNDl_zRPyz-HpFnb11IqDWbrbsvTOk6bNatrndn0QRSMDtrfp1zqqi5fWBSA8ugA2nq7JCwrg7I4w&ved=2ahUKEwjbq7uV3JuYAxUufTIDHVOZDsoQ8tMDegQIQRAO",
+        "8": "https://www.google.com/search?q=Best+AI+clipping+software+that+supports+4K+HDR+video+files&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDiC50V5d2itrycKiKSkVgCMDBISFA:1795355430547&ei=JvMCa9uAIa76yckP07K60Aw&start=70&sa=N&sstk=AYl2yk_L35aQ57LI_hipMzlpSjNDl_zRPyz-HpFnb11IqDWbrbsvTOk6bNatrndn0QRSMDtrfp1zqqi5fWBSA8ugA2nq7JCwrg7I4w&ved=2ahUKEwjbq7uV3JuYAxUufTIDHVOZDsoQ8tMDegQIQRAQ",
+        "9": "https://www.google.com/search?q=Best+AI+clipping+software+that+supports+4K+HDR+video+files&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDiC50V5d2itrycKiKSkVgCMDBISFA:1795355430547&ei=JvMCa9uAIa76yckP07K60Aw&start=80&sa=N&sstk=AYl2yk_L35aQ57LI_hipMzlpSjNDl_zRPyz-HpFnb11IqDWbrbsvTOk6bNatrndn0QRSMDtrfp1zqqi5fWBSA8ugA2nq7JCwrg7I4w&ved=2ahUKEwjbq7uV3JuYAxUufTIDHVOZDsoQ8tMDegQIQRAS",
+        "10": "https://www.google.com/search?q=Best+AI+clipping+software+that+supports+4K+HDR+video+files&sca_esv=c653c500caaf7fef&gl=us&hl=en&sxsrf=AKL5yDiC50V5d2itrycKiKSkVgCMDBISFA:1795355430547&ei=JvMCa9uAIa76yckP07K60Aw&start=90&sa=N&sstk=AYl2yk_L35aQ57LI_hipMzlpSjNDl_zRPyz-HpFnb11IqDWbrbsvTOk6bNatrndn0QRSMDtrfp1zqqi5fWBSA8ugA2nq7JCwrg7I4w&ved=2ahUKEwjbq7uV3JuYAxUufTIDHVOZDsoQ8tMDegQIQRAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+AI+clipping+software+that+supports+4K+HDR+video+files&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+AI+clipping+software+that+supports+4K+HDR+video+files&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+AI+clipping+software+that+supports+4K+HDR+video+files&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+AI+clipping+software+that+supports+4K+HDR+video+files&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+AI+clipping+software+that+supports+4K+HDR+video+files&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+AI+clipping+software+that+supports+4K+HDR+video+files&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+AI+clipping+software+that+supports+4K+HDR+video+files&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+AI+clipping+software+that+supports+4K+HDR+video+files&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+AI+clipping+software+that+supports+4K+HDR+video+files&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+AI+clipping+software+that+supports+4K+HDR+video+files&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+AI+clipping+software+that+supports+4K+HDR+video+files&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

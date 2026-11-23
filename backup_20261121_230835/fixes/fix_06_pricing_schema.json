@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "IncuBrix Creator Studio Subscription",
+  "description": "AI-powered CreatorOps suite for video repurposing, clipping, dynamic subtitles, and multi-channel publishing.",
+  "brand": {
+    "@type": "Brand",
+    "name": "IncuBrix"
+  },
+  "offers": [
+    {
+      "@type": "Offer",
+      "name": "Free Starter",
+      "price": "0",
+      "priceCurrency": "USD",
+      "description": "60 export minutes/month, 720p watermarked video, standard captions."
+    },
+    {
+      "@type": "Offer",
+      "name": "Creator Pro",
+      "price": "19.00",
+      "priceCurrency": "USD",
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "price": "19.00",
+        "priceCurrency": "USD",
+        "billingIncrement": 1,
+        "unitCode": "MON"
+      },
+      "description": "300 export minutes/month, 4K rendering, no watermarks, auto-repurposing, direct social publishing."
+    },
+    {
+      "@type": "Offer",
+      "name": "Agency Studio",
+      "price": "49.00",
+      "priceCurrency": "USD",
+      "priceSpecification": {
+        "@type": "UnitPriceSpecification",
+        "price": "49.00",
+        "priceCurrency": "USD",
+        "billingIncrement": 1,
+        "unitCode": "MON"
+      },
+      "description": "Unlimited export minutes, 5 team seats, custom brand kits, priority rendering queue, dedicated support."
+    }
+  ]
+}

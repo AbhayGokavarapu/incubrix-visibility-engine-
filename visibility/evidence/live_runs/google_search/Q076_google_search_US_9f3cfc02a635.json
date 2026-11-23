@@ -1,0 +1,400 @@
+{
+  "measurement_id": "9f3cfc02a635",
+  "question_id": "Q076",
+  "timestamp_utc": "2026-11-22T13:50:00.282955+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "How to turn keynote presentations into a 5-part video series",
+  "market": "US",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://macmost.com/simultaneous-videos-with-keynote.html",
+    "https://www.youtube.com/watch?v=1PWcGGlGCIo",
+    "https://www.google.com/goto?url=CAESZwHEIkXXvGr1T84-RneIN1eo_Rz6szUMrcdVPFWhnfCut0ir88_RX12wHK2-Sayosw0PzUW7O2VdXHphAJe5AdzNE3uTfClknLuRdEnlCco4s2qz3INxkF8JzhOJCNeXS0OPY_PbYcg&gsessionid=A16mU6unFVNUIw3qdZJcSipI4YarKvSmakPp_fnCqfCfifR9Oappxg",
+    "https://www.google.com/goto?url=CAESkgEBxCJF1xAkz0kRkKwlzkct1JoTp76hq2PzPETRE_tVCMN3cMrRORadzphjnc2z9CRaBItnUJrZmyRtZ5Qf1nXADT4QqJMRbmPaCHTFJsi3CMEonjZfRcqTKlwN-ElxvNMLFG2IU9FOxbW3l6TwFrZynwdkzHlZSTj4heQ710AHIr2EBwn9VDiGnjIBTjIiybMOHg",
+    "https://www.google.com/goto?url=CAESaAHEIkXXPj2RjQU_ZrrjyZYLbUtIYT89wgDrcfij8KUie8YeEADSsgEcWD3lI-SS4ZQ1zYUVCJgfD3o8TJ8qJs-VVDJwqM2HAt1U8oIpXKYFZne-vgDZAcjT037hWCfLb7M3lcMKtMBo",
+    "https://www.google.com/goto?url=CAESZwHEIkXXnglOGksp4a0-rAuZ9_meUl8LD_SdAC4hgrZ57xhAfHQqcojoDs_UoYjzaDmLBPElvnqFSI0Lckaer3lGaGjgFXZiZQAmhS9vL3abnZKBcJPZLAxxfFviYLBvzf1tzw40p54&gsessionid=A16mU6unFVNUIw3qdZJcSipI4YarKvSmakPp_fnCqfCfifR9Oappxg",
+    "https://www.google.com/goto?url=CAES2gEBxCJF11OKKHs-JLd9K83hT0Ywr5o1RmUplzpUhP6z-jkK5-SBcSkKFf1_pbKEdRvngnV-O7k8nnnnUmHsyQfbezjaSohvet8cBy3jKsYsOvZ6998piIqFiePBN38lHU_zWZnhQ3YmtKw0ih_m3QEkBcYufor2aA-Bh9EpIfG9eJ7sqIitpliPZ4OyWzkkGmp8YzbTJaDlqEeI55PN1gHu-w2KAtTxsYsVjBLnM2Sr4iFH5D6g72WqQQXhUeqoI7WDa1JLnpnFOfLFvYTSUeg-BIPleXNxQE172w",
+    "https://www.google.com/goto?url=CAEShAEBxCJF1_lM6kZamq37x6K9lMhv_xJv8RwU86nSin1M6EhEEaZHdLigGDJXvS7XJWYOJ5YY5e_DpfsypF6psTq8jzW4aAAMggQG__AZ4rbJmprxPI0rzVe5qIr2PYBedSARMqXGvChoOv1vPyj5aZzT4f62B9NPL_jG_Dme21pqhndZtxI"
+  ],
+  "raw_text_summary": "MacMost Now 753: Simultaneous Videos With Keynote The technique involves putting many videos on one slide, and then exporting the presentation as a new video. You can use this to create a ... Export Keynote Animation to Movie Animate a Keynote slide and then export it to a .m4v file. How to TRANSFORM your Presentations with ANIMATIONS | Keynote Tutorial (Mac) How to Convert Keynote to PowerPoint 2023? If you find yourself needing to convert your Keynote presentations to Google Slides, you're in the right place. Putting a PowerPoint and Video together - Ask Different What is the easiest way to take a powerpoint or keynote presentation and a video of me giving the presentation and put the two together so that they can ... Keynote to PowerPoint conversion question Launch Keynote. In Keynote's Play menu, select \"Play Slideshow in Window.\" Now open up Zoom. Select \"Share Screen\" Make sure to click the \" ... How to Make Slide/Comparison Video for Free Using Keynote ... Part 1 is the template Part 2 will animate intro screen and how to move the slides Part 3 will show how to end the video and animate the final ... How do I make an awesome keynote/PowerPoint ... How do I make an awesome keynote/PowerPoint presentation for a video wall that stretches across a conference stage (6000 X 1029) behind m? Converting a Keynote Presentation Step 1. Open your files on keynote for Mac 6.0. ; Step 2. Choose \u201cFile\u201d on the menu bar, then select \u201cExport To\u201d on the drop-down menu. Next, you need to choose ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f306c2adc7bce06e500f",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/Pkfjp7TMS8NfYNGrsSUOv8MeBcXX3S9oP4aK9plXcGE/6b02f306c2adc7bce06e500f.json",
+      "markdown_endpoint": "https://serpapi.com/searches/Pkfjp7TMS8NfYNGrsSUOv8MeBcXX3S9oP4aK9plXcGE/6b02f306c2adc7bce06e500f.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/Pkfjp7TMS8NfYNGrsSUOv8MeBcXX3S9oP4aK9plXcGE/6b02f306c2adc7bce06e500f.json_with_pixel_position",
+      "created_at": "2026-11-22 13:49:58 UTC",
+      "processed_at": "2026-11-22 13:49:58 UTC",
+      "google_url": "https://www.google.com/search?q=How+to+turn+keynote+presentations+into+a+5-part+video+series&oq=How+to+turn+keynote+presentations+into+a+5-part+video+series&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/Pkfjp7TMS8NfYNGrsSUOv8MeBcXX3S9oP4aK9plXcGE/6b02f306c2adc7bce06e500f.html",
+      "total_time_taken": 1.15
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "How to turn keynote presentations into a 5-part video series",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "How to turn keynote presentations into a 5-part video series",
+      "total_results": 75,
+      "time_taken_displayed": 0.2,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "How to CONVERT your Keynote Presentation to VIDEO",
+        "link": "https://www.google.com/goto?url=CAESZwHEIkXXazHGQ_htjQULFJmJGHXhO-GLm2OQrjvdVBdyU2IdXuEf00ezuSDuYVv6u9UJlkggr1KGCWJUVDygI3PSNen0lBGz3rTxo4ho4wcMIkwG3Tc1FCLcxxSizboJV4rz7bySEfE&gsessionid=A16mU6unFVNUIw3qdZJcSipI4YarKvSmakPp_fnCqfCfifR9Oappxg",
+        "thumbnail": "https://serpapi.com/searches/6b02f306c2adc7bce06e500f/images/l0UMxUf0gYRrO8TYR-MScCrz3rVllSEnhnC2YmuqGI8.jpg",
+        "channel": "Fisheries Licensure Exam Reviewer | Board Prep",
+        "duration": "2:15",
+        "platform": "YouTube",
+        "date": "Mar 11, 2021",
+        "snippet": "To convert Keynote to video, open your presentation, click \"Record Slideshow,\" then \"File,\" \"Export To,\" and select \"Movie.\""
+      },
+      {
+        "position": 2,
+        "title": "Rehearse & Record Keynote Slideshow & Export as Video File",
+        "link": "https://www.google.com/goto?url=CAESZwHEIkXXj4bR7efvQLvPTD0W03UoAa3x2HyzQuRNk1R6t5PagZnF2Q34Z-zUa97QiiHXeFNOWReDuXWnp9CSjPl8sHo9aa_zNfkMQXINuQ8_BaEqAicR8VcEu4gQX4kxy9e2JlrxbvA&gsessionid=A16mU6unFVNUIw3qdZJcSipI4YarKvSmakPp_fnCqfCfifR9Oappxg",
+        "thumbnail": "https://serpapi.com/searches/6b02f306c2adc7bce06e500f/images/MURwJvCSkGCUhBgIFI21Ft0TAkQcI3X1-x6eFFfoUvs.jpg",
+        "channel": "Brain Food: Logic Puzzles, Riddles, Creativity",
+        "duration": "4:37",
+        "platform": "YouTube",
+        "date": "Dec 3, 2018",
+        "snippet": "Master Keynote's rehearse and record slideshow features to export presentations as QuickTime videos for automatic playback.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT_tAmL8VJAQ8u480jVgRE7ej0w3EK7YKzAyg"
+      },
+      {
+        "position": 3,
+        "title": "Exporting Keynote to video",
+        "link": "https://www.google.com/goto?url=CAESZwHEIkXXCTD8iDFHbyHAvsT2vSGDVK9HiOKyw4c7F89Y3N4Y2iMa5ZBNjQf2kDbYex8DTdkF6Bku6_g5GgbQxMdpCdTpl9HY7e4CC4ui4rKHHR3BdYihkVo2tcYdeSlVsAx6Q_frgBA&gsessionid=A16mU6unFVNUIw3qdZJcSipI4YarKvSmakPp_fnCqfCfifR9Oappxg",
+        "thumbnail": "https://serpapi.com/searches/6b02f306c2adc7bce06e500f/images/_EceEEGwaV6GHrz4JNMVxdTNMD3Rdqc-AEjMFhvNIR8.jpg",
+        "channel": "Jac de Haan",
+        "duration": "2:51",
+        "platform": "YouTube",
+        "date": "Dec 7, 2011"
+      },
+      {
+        "position": 4,
+        "title": "How to convert a PowerPoint/Keynote presentation to a video",
+        "link": "https://www.google.com/goto?url=CAESZwHEIkXXwN9w0Y9XUR3U0UDTQJBVX6HejUl9LvSzgjf93mSlRTupzjL0ISDZXIvc3-f-hyxDZOyhR3xjoILzbYMsL9tPy6k8SBreNAkSnLYGPsWrZBp310X7ZGku7GOR3SQsSZJRoVQ&gsessionid=A16mU6unFVNUIw3qdZJcSipI4YarKvSmakPp_fnCqfCfifR9Oappxg",
+        "thumbnail": "https://serpapi.com/searches/6b02f306c2adc7bce06e500f/images/fbA2b8mv43t5fmGYSa3yotPSGmyLRtgbOVs0SMPmLcM.jpg",
+        "channel": "Comunica\u00e7\u00e3o SPR",
+        "duration": "2:01",
+        "platform": "YouTube",
+        "date": "Apr 10, 2024"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "How to get a video to automatically play in Keynote?",
+        "type": "ai_overview",
+        "page_token": "0zMP8HicHdBNcoIwAEDhaRc9SpeViNrRGadTBUSmRBNJINk4kKBoomCNoix7lq56mB6g1-gF-rN8m2_x3t71Zq--bs6FMdVx0GrVdf2wLsu1zh9EuWulx-tetESqdZYKNeg99sDTSgzd03Q0PkxHiGCXaakZpQdCIUWAb9BWFtkEjvNJ1-aAhsgyBu1cK3cDH8eaY3t6iQAu4f637Sog22JOm9EcN9zLVb-T-bATxt02aUY91ogLJfDIttzOkqCdEeAID3VSh3OuPBS1PcNtbUV-EIQOPEEftVnMuiLmVUSfa-5MLenJCDewpAQEKNanxOIJjosNJ_IMlbgywq5iVxvq_nkwyrYBdgs5lgo4jPZNSMCMxeYifYgkqPzFAmB2KTeIFLPQJTbea-8l8Ww66S9wBGcSBFq6QBGvX0ZWkSxiZRC6X4nz0L7__zlcrnZmUL2W6w_xmqcml8vUfKrb77sfNx2ILg",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=0zMP8HicHdBNcoIwAEDhaRc9SpeViNrRGadTBUSmRBNJINk4kKBoomCNoix7lq56mB6g1-gF-rN8m2_x3t71Zq--bs6FMdVx0GrVdf2wLsu1zh9EuWulx-tetESqdZYKNeg99sDTSgzd03Q0PkxHiGCXaakZpQdCIUWAb9BWFtkEjvNJ1-aAhsgyBu1cK3cDH8eaY3t6iQAu4f637Sog22JOm9EcN9zLVb-T-bATxt02aUY91ogLJfDIttzOkqCdEeAID3VSh3OuPBS1PcNtbUV-EIQOPEEftVnMuiLmVUSfa-5MLenJCDewpAQEKNanxOIJjosNJ_IMlbgywq5iVxvq_nkwyrYBdgs5lgo4jPZNSMCMxeYifYgkqPzFAmB2KTeIFLPQJTbea-8l8Ww66S9wBGcSBFq6QBGvX0ZWkSxiZRC6X4nz0L7__zlcrnZmUL2W6w_xmqcml8vUfKrb77sfNx2ILg",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYU1EZDBURmxSWkRBdFJXVk9kMU0xYUhsamRsaENlWE5uT1hKallrUklRa2xEYldWc2JuWnhXR1I2U1U1elIxTTVVVFZSWld3d1IxVklNRXh3WlhOc2VuVnJMVzQyTTBKcGMzazBhVWh4VFRCTFRXNHlOQzFoZGs1S1p4SVhRblpOUTJGZmJURk5UbUZyY1hSelVIZGFSMGt0VVdNYUlrRklUakJGTjBVd0xYVkliV1JHWWw5Sk5XRnBhbDl5YlhCd1oxQlRMVFJ5YUZFIiwiZmN2IjoiMyIsImVpIjoiQnZNQ2FfbTFNTmFrcXRzUHdaR0ktUWMiLCJxYyI6IkNqeG9iM2NnZEc4Z2RIVnliaUJyWlhsdWIzUmxJSEJ5WlhObGJuUmhkR2x2Ym5NZ2FXNTBieUJoSURVZ2NHRnlkQ0IyYVdSbGJ5QnpaWEpwWlhNUUFIM1dPTnctIiwicXVlc3Rpb24iOiJIb3cgdG8gZ2V0IGEgdmlkZW8gdG8gYXV0b21hdGljYWxseSBwbGF5IGluIEtleW5vdGU/IiwibGsiOiJjNU15enNndlZ5akpWMGhQTFZGSVZDakxURW5OQjNFVFMwdnljeE5MTXBNVGMzSXFGUXB5RWlzVk12TVVzbE1yOF9KTFVnRSIsImJzIjoiYzVXUFBRLUNNQkJBNDlySnVkUEZyMEdkVUdaV0RZTV93S21SVXhyYUhwRkQwbjl2Q1JBbDBSakhTOTY3ZXllczJCLW9BU2E0SVlPQ2g4NlEybEhWVEZheHZpaGpQSlJHZWRBT1V2U09HSk1vbHJ2OEQ2X29QSkdLZVhfT3FnS0RGME5sZ2dybEhTdDBIRVJ5U2JTUXNfd25KczVpMHktakVsMmctanE0YW9QUWFNNnA1bGZ5VnE3ekVWNTh3b2ZTazFpMXl6T0NZeGRoX2VqNjhITVNMZVg4UGZZTE41MDhBUSIsImlkIjoiZmNfQnZNQ2FfbTFNTmFrcXRzUHdaR0ktUWNfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYU1EZDBURmxSWkRBdFJXVk9kMU0xYUhsamRsaENlWE5uT1hKallrUklRa2xEYldWc2JuWnhXR1I2U1U1elIxTTVVVFZSWld3d1IxVklNRXh3WlhOc2VuVnJMVzQyTTBKcGMzazBhVWh4VFRCTFRXNHlOQzFoZGs1S1p4SVhRblpOUTJGZmJURk5UbUZyY1hSelVIZGFSMGt0VVdNYUlrRklUakJGTjBVd0xYVkliV1JHWWw5Sk5XRnBhbDl5YlhCd1oxQlRMVFJ5YUZFIiwiZmN2IjoiMyIsImVpIjoiQnZNQ2FfbTFNTmFrcXRzUHdaR0ktUWMiLCJxYyI6IkNqeG9iM2NnZEc4Z2RIVnliaUJyWlhsdWIzUmxJSEJ5WlhObGJuUmhkR2x2Ym5NZ2FXNTBieUJoSURVZ2NHRnlkQ0IyYVdSbGJ5QnpaWEpwWlhNUUFIM1dPTnctIiwicXVlc3Rpb24iOiJIb3cgdG8gZ2V0IGEgdmlkZW8gdG8gYXV0b21hdGljYWxseSBwbGF5IGluIEtleW5vdGU%2FIiwibGsiOiJjNU15enNndlZ5akpWMGhQTFZGSVZDakxURW5OQjNFVFMwdnljeE5MTXBNVGMzSXFGUXB5RWlzVk12TVVzbE1yOF9KTFVnRSIsImJzIjoiYzVXUFBRLUNNQkJBNDlySnVkUEZyMEdkVUdaV0RZTV93S21SVXhyYUhwRkQwbjl2Q1JBbDBSakhTOTY3ZXllczJCLW9BU2E0SVlPQ2g4NlEybEhWVEZheHZpaGpQSlJHZWRBT1V2U09HSk1vbHJ2OEQ2X29QSkdLZVhfT3FnS0RGME5sZ2dybEhTdDBIRVJ5U2JTUXNfd25KczVpMHktakVsMmctanE0YW9QUWFNNnA1bGZ5VnE3ekVWNTh3b2ZTazFpMXl6T0NZeGRoX2VqNjhITVNMZVg4UGZZTE41MDhBUSIsImlkIjoiZmNfQnZNQ2FfbTFNTmFrcXRzUHdaR0ktUWNfNSJ9"
+      },
+      {
+        "question": "How to make a 5 slide presentation?",
+        "type": "ai_overview",
+        "page_token": "TJnbBHicHdBRbpswAABQbR87Sj8bHJquRIomNWAIC0SY2Nj-qYwNgWKCl7gh4bNn2dcO0wP0GrvApL0jvPffuj12n18ujbXmvJzNxnG8PwzDQVf3cuhn4nw7ypkUWpdCdsvH74_gRy1Xwdvmef1r85xhFDCtNOucBXX0W-nGWTrxRULRKABxCdCnxAEipcwqyn-yIzLKIVc-xU1ZeAF3hlHBp_kOIodEcYOI9nkAI4RRj6G33oXyQUVxy4G-yd4I4sTrPLDDlniId8TkOK33NL1J58mt_LhGMDYlNm0VehRRE4kwsPsJogKqVIZ8wXW8ERoWfFJjMiVTDvGcaQPL_mHCPunLFlBGEQoatVYd8BnxbILBjhX2qqI0U8BEeQ4Quw5thptdEmA390mYz8nrtuCXIkSME0MJQZq_onNGPGdfmG2W3dXysnLv_n-uXureLs1pOPyRp0rYSr0I-9F9_fvtH-SCiVk",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=TJnbBHicHdBRbpswAABQbR87Sj8bHJquRIomNWAIC0SY2Nj-qYwNgWKCl7gh4bNn2dcO0wP0GrvApL0jvPffuj12n18ujbXmvJzNxnG8PwzDQVf3cuhn4nw7ypkUWpdCdsvH74_gRy1Xwdvmef1r85xhFDCtNOucBXX0W-nGWTrxRULRKABxCdCnxAEipcwqyn-yIzLKIVc-xU1ZeAF3hlHBp_kOIodEcYOI9nkAI4RRj6G33oXyQUVxy4G-yd4I4sTrPLDDlniId8TkOK33NL1J58mt_LhGMDYlNm0VehRRE4kwsPsJogKqVIZ8wXW8ERoWfFJjMiVTDvGcaQPL_mHCPunLFlBGEQoatVYd8BnxbILBjhX2qqI0U8BEeQ4Quw5thptdEmA390mYz8nrtuCXIkSME0MJQZq_onNGPGdfmG2W3dXysnLv_n-uXureLs1pOPyRp0rYSr0I-9F9_fvtH-SCiVk",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYU1EZDBURmxSWkRBdFJXVk9kMU0xYUhsamRsaENlWE5uT1hKallrUklRa2xEYldWc2JuWnhXR1I2U1U1elIxTTVVVFZSWld3d1IxVklNRXh3WlhOc2VuVnJMVzQyTTBKcGMzazBhVWh4VFRCTFRXNHlOQzFoZGs1S1p4SVhRblpOUTJGZmJURk5UbUZyY1hSelVIZGFSMGt0VVdNYUlrRklUakJGTjBVd0xYVkliV1JHWWw5Sk5XRnBhbDl5YlhCd1oxQlRMVFJ5YUZFIiwiZmN2IjoiMyIsImVpIjoiQnZNQ2FfbTFNTmFrcXRzUHdaR0ktUWMiLCJxYyI6IkNqeG9iM2NnZEc4Z2RIVnliaUJyWlhsdWIzUmxJSEJ5WlhObGJuUmhkR2x2Ym5NZ2FXNTBieUJoSURVZ2NHRnlkQ0IyYVdSbGJ5QnpaWEpwWlhNUUFIM1dPTnctIiwicXVlc3Rpb24iOiJIb3cgdG8gbWFrZSBhIDUgc2xpZGUgcHJlc2VudGF0aW9uPyIsImxrIjoiR2lKb2IzY2dkRzhnYldGclpTQmhJRFVnYzJ4cFpHVWdjSEpsYzJWdWRHRjBhVzl1IiwiYnMiOiJjNVdQUFEtQ01CQkE0OXJKdWRQRnIwR2RVR1pXRFlNX3dLbVJVeHJhSHBGRDBuOXZDUkFsMFJqSFM5NjdleWVzMkItb0FTYTRJWU9DaDg2UTJsSFZURmF4dmloalBKUkdlZEFPVXZTT0dKTW9scnY4RDZfb1BKR0tlWF9PcWdLREYwTmxnZ3JsSFN0MEhFUnlTYlNRc193bkpzNWkweS1qRWwyZy1qcTRhb1BRYU02cDVsZnlWcTd6RVY1OHdvZlNrMWkxeXpPQ1l4ZGhfZWo2OEhNU0xlWDhQZllMTjUwOEFRIiwiaWQiOiJmY19Cdk1DYV9tMU1OYWtxdHNQd1pHSS1RY181In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYU1EZDBURmxSWkRBdFJXVk9kMU0xYUhsamRsaENlWE5uT1hKallrUklRa2xEYldWc2JuWnhXR1I2U1U1elIxTTVVVFZSWld3d1IxVklNRXh3WlhOc2VuVnJMVzQyTTBKcGMzazBhVWh4VFRCTFRXNHlOQzFoZGs1S1p4SVhRblpOUTJGZmJURk5UbUZyY1hSelVIZGFSMGt0VVdNYUlrRklUakJGTjBVd0xYVkliV1JHWWw5Sk5XRnBhbDl5YlhCd1oxQlRMVFJ5YUZFIiwiZmN2IjoiMyIsImVpIjoiQnZNQ2FfbTFNTmFrcXRzUHdaR0ktUWMiLCJxYyI6IkNqeG9iM2NnZEc4Z2RIVnliaUJyWlhsdWIzUmxJSEJ5WlhObGJuUmhkR2x2Ym5NZ2FXNTBieUJoSURVZ2NHRnlkQ0IyYVdSbGJ5QnpaWEpwWlhNUUFIM1dPTnctIiwicXVlc3Rpb24iOiJIb3cgdG8gbWFrZSBhIDUgc2xpZGUgcHJlc2VudGF0aW9uPyIsImxrIjoiR2lKb2IzY2dkRzhnYldGclpTQmhJRFVnYzJ4cFpHVWdjSEpsYzJWdWRHRjBhVzl1IiwiYnMiOiJjNVdQUFEtQ01CQkE0OXJKdWRQRnIwR2RVR1pXRFlNX3dLbVJVeHJhSHBGRDBuOXZDUkFsMFJqSFM5NjdleWVzMkItb0FTYTRJWU9DaDg2UTJsSFZURmF4dmloalBKUkdlZEFPVXZTT0dKTW9scnY4RDZfb1BKR0tlWF9PcWdLREYwTmxnZ3JsSFN0MEhFUnlTYlNRc193bkpzNWkweS1qRWwyZy1qcTRhb1BRYU02cDVsZnlWcTd6RVY1OHdvZlNrMWkxeXpPQ1l4ZGhfZWo2OEhNU0xlWDhQZllMTjUwOEFRIiwiaWQiOiJmY19Cdk1DYV9tMU1OYWtxdHNQd1pHSS1RY181In0%3D"
+      },
+      {
+        "question": "How to open a Keynote file without Keynote?",
+        "type": "ai_overview",
+        "page_token": "8iPaa3icHdBRbpswAABQbR87Sj8bHLfdGimalAYGqIBssAn-qRwbcGobCHHrNJ87y752mB2g1-gFNu0GT-_nL3MY9PunV-XcdFotFt77634ce9Nei9Eu-OltEAvBjdlzoVd3X-_A906sw5dk83BMNojgsDHSNIZxtjNKEHNo6jx8pMaWFW2qWN8W8ca2u4ghywayBL4eNgca60tObhFdTnFO3JEG33xGUsuJSvfaYGIlzAdzLJdRV0LjeUR9BWmHiKLM4IRHkWIXvCOQzvxHElAgj0WdYhLJG2ZB1tqzyys5F7WyXNOgNDKjW_ZMdITq5x5W5N5XO0NQoGEVKoNIfyM0czRM3zCQMFTyQWqwbei9ywgomtqdZZwjCaa4LAFuzuPhn6XIQgIxVHMGUvpIe1APOEYXjLKtSUgQgH14ZrmeTsxfdeJ1Da_-f66fOutW0zz2v8XcctfKJ-7-6M8fX_4C7HeK7Q",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=8iPaa3icHdBRbpswAABQbR87Sj8bHLfdGimalAYGqIBssAn-qRwbcGobCHHrNJ87y752mB2g1-gFNu0GT-_nL3MY9PunV-XcdFotFt77634ce9Nei9Eu-OltEAvBjdlzoVd3X-_A906sw5dk83BMNojgsDHSNIZxtjNKEHNo6jx8pMaWFW2qWN8W8ca2u4ghywayBL4eNgca60tObhFdTnFO3JEG33xGUsuJSvfaYGIlzAdzLJdRV0LjeUR9BWmHiKLM4IRHkWIXvCOQzvxHElAgj0WdYhLJG2ZB1tqzyys5F7WyXNOgNDKjW_ZMdITq5x5W5N5XO0NQoGEVKoNIfyM0czRM3zCQMFTyQWqwbei9ywgomtqdZZwjCaa4LAFuzuPhn6XIQgIxVHMGUvpIe1APOEYXjLKtSUgQgH14ZrmeTsxfdeJ1Da_-f66fOutW0zz2v8XcctfKJ-7-6M8fX_4C7HeK7Q",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYU1EZDBURmxSWkRBdFJXVk9kMU0xYUhsamRsaENlWE5uT1hKallrUklRa2xEYldWc2JuWnhXR1I2U1U1elIxTTVVVFZSWld3d1IxVklNRXh3WlhOc2VuVnJMVzQyTTBKcGMzazBhVWh4VFRCTFRXNHlOQzFoZGs1S1p4SVhRblpOUTJGZmJURk5UbUZyY1hSelVIZGFSMGt0VVdNYUlrRklUakJGTjBVd0xYVkliV1JHWWw5Sk5XRnBhbDl5YlhCd1oxQlRMVFJ5YUZFIiwiZmN2IjoiMyIsImVpIjoiQnZNQ2FfbTFNTmFrcXRzUHdaR0ktUWMiLCJxYyI6IkNqeG9iM2NnZEc4Z2RIVnliaUJyWlhsdWIzUmxJSEJ5WlhObGJuUmhkR2x2Ym5NZ2FXNTBieUJoSURVZ2NHRnlkQ0IyYVdSbGJ5QnpaWEpwWlhNUUFIM1dPTnctIiwicXVlc3Rpb24iOiJIb3cgdG8gb3BlbiBhIEtleW5vdGUgZmlsZSB3aXRob3V0IEtleW5vdGU/IiwibGsiOiJjNVBTeXNndlZ5akpWOGd2U00xVFNGVElUcTNNeXk5SlZVakx6RWxWS004c3ljZ3ZMWUVKQWdBIiwiYnMiOiJjNVdQUFEtQ01CQkE0OXJKdWRQRnIwR2RVR1pXRFlNX3dLbVJVeHJhSHBGRDBuOXZDUkFsMFJqSFM5NjdleWVzMkItb0FTYTRJWU9DaDg2UTJsSFZURmF4dmloalBKUkdlZEFPVXZTT0dKTW9scnY4RDZfb1BKR0tlWF9PcWdLREYwTmxnZ3JsSFN0MEhFUnlTYlNRc193bkpzNWkweS1qRWwyZy1qcTRhb1BRYU02cDVsZnlWcTd6RVY1OHdvZlNrMWkxeXpPQ1l4ZGhfZWo2OEhNU0xlWDhQZllMTjUwOEFRIiwiaWQiOiJmY19Cdk1DYV9tMU1OYWtxdHNQd1pHSS1RY181In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYU1EZDBURmxSWkRBdFJXVk9kMU0xYUhsamRsaENlWE5uT1hKallrUklRa2xEYldWc2JuWnhXR1I2U1U1elIxTTVVVFZSWld3d1IxVklNRXh3WlhOc2VuVnJMVzQyTTBKcGMzazBhVWh4VFRCTFRXNHlOQzFoZGs1S1p4SVhRblpOUTJGZmJURk5UbUZyY1hSelVIZGFSMGt0VVdNYUlrRklUakJGTjBVd0xYVkliV1JHWWw5Sk5XRnBhbDl5YlhCd1oxQlRMVFJ5YUZFIiwiZmN2IjoiMyIsImVpIjoiQnZNQ2FfbTFNTmFrcXRzUHdaR0ktUWMiLCJxYyI6IkNqeG9iM2NnZEc4Z2RIVnliaUJyWlhsdWIzUmxJSEJ5WlhObGJuUmhkR2x2Ym5NZ2FXNTBieUJoSURVZ2NHRnlkQ0IyYVdSbGJ5QnpaWEpwWlhNUUFIM1dPTnctIiwicXVlc3Rpb24iOiJIb3cgdG8gb3BlbiBhIEtleW5vdGUgZmlsZSB3aXRob3V0IEtleW5vdGU%2FIiwibGsiOiJjNVBTeXNndlZ5akpWOGd2U00xVFNGVElUcTNNeXk5SlZVakx6RWxWS004c3ljZ3ZMWUVKQWdBIiwiYnMiOiJjNVdQUFEtQ01CQkE0OXJKdWRQRnIwR2RVR1pXRFlNX3dLbVJVeHJhSHBGRDBuOXZDUkFsMFJqSFM5NjdleWVzMkItb0FTYTRJWU9DaDg2UTJsSFZURmF4dmloalBKUkdlZEFPVXZTT0dKTW9scnY4RDZfb1BKR0tlWF9PcWdLREYwTmxnZ3JsSFN0MEhFUnlTYlNRc193bkpzNWkweS1qRWwyZy1qcTRhb1BRYU02cDVsZnlWcTd6RVY1OHdvZlNrMWkxeXpPQ1l4ZGhfZWo2OEhNU0xlWDhQZllMTjUwOEFRIiwiaWQiOiJmY19Cdk1DYV9tMU1OYWtxdHNQd1pHSS1RY181In0%3D"
+      },
+      {
+        "question": "How do I make my presentation a video?",
+        "type": "ai_overview",
+        "page_token": "n4ndlHicHZBNjpswGEA1XcxRZjnBQUmVSFHVgClkhBN_hN_NyLEhDDaBECcQlnOWrnqYHqDX6AUadfukJz29z5_q4yT_PN1KrdvLcjLp-_712DRHlb_ypp6wy_3EJ5wpdWBcLudf5-hbwVf46q2ts7emIeBUCZWG2iaJ6g53A0HsmXEiKrAQgzvK6Agh_NhchQE9w-3OrxyXTUsg1ea2ddUlQXTM5ewWIuh5Is4BdrxoSva0KiOq1hIcsB78DaSy4ur7wBNww3jmxQ6JM8vooxPpDnK4ctmapM4kr8Ch48b0TeGlxsJg0-YeJZHaTxd4L0MduKqjSVs8GuZBPavpGJ1DExzmlm-5TXZQtyYuhSUkstNoof0QbdNYD8IlVKDWDQIE6dB80LDc-vhh1noEldkkUnpvZ1hgMghb0KBaF7ly_NxZKEpfCn5bmS__f67ei1ov2645_uJdznQu3pn-Lb_8ff4HUW2K4A",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=n4ndlHicHZBNjpswGEA1XcxRZjnBQUmVSFHVgClkhBN_hN_NyLEhDDaBECcQlnOWrnqYHqDX6AUadfukJz29z5_q4yT_PN1KrdvLcjLp-_712DRHlb_ypp6wy_3EJ5wpdWBcLudf5-hbwVf46q2ts7emIeBUCZWG2iaJ6g53A0HsmXEiKrAQgzvK6Agh_NhchQE9w-3OrxyXTUsg1ea2ddUlQXTM5ewWIuh5Is4BdrxoSva0KiOq1hIcsB78DaSy4ur7wBNww3jmxQ6JM8vooxPpDnK4ctmapM4kr8Ch48b0TeGlxsJg0-YeJZHaTxd4L0MduKqjSVs8GuZBPavpGJ1DExzmlm-5TXZQtyYuhSUkstNoof0QbdNYD8IlVKDWDQIE6dB80LDc-vhh1noEldkkUnpvZ1hgMghb0KBaF7ly_NxZKEpfCn5bmS__f67ei1ov2645_uJdznQu3pn-Lb_8ff4HUW2K4A",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYU1EZDBURmxSWkRBdFJXVk9kMU0xYUhsamRsaENlWE5uT1hKallrUklRa2xEYldWc2JuWnhXR1I2U1U1elIxTTVVVFZSWld3d1IxVklNRXh3WlhOc2VuVnJMVzQyTTBKcGMzazBhVWh4VFRCTFRXNHlOQzFoZGs1S1p4SVhRblpOUTJGZmJURk5UbUZyY1hSelVIZGFSMGt0VVdNYUlrRklUakJGTjBVd0xYVkliV1JHWWw5Sk5XRnBhbDl5YlhCd1oxQlRMVFJ5YUZFIiwiZmN2IjoiMyIsImVpIjoiQnZNQ2FfbTFNTmFrcXRzUHdaR0ktUWMiLCJxYyI6IkNqeG9iM2NnZEc4Z2RIVnliaUJyWlhsdWIzUmxJSEJ5WlhObGJuUmhkR2x2Ym5NZ2FXNTBieUJoSURVZ2NHRnlkQ0IyYVdSbGJ5QnpaWEpwWlhNUUFIM1dPTnctIiwicXVlc3Rpb24iOiJIb3cgZG8gSSBtYWtlIG15IHByZXNlbnRhdGlvbiBhIHZpZGVvPyIsImxrIjoiR2lOb2IzY2dkRzhnYldGclpTQnRlU0J3Y21WelpXNTBZWFJwYjI0Z1lTQjJhV1JsYnciLCJicyI6ImM1V1BQUS1DTUJCQTQ5ckp1ZFBGcjBHZFVHWldEWU1fd0ttUlV4cmFIcEZEMG45dkNSQWwwUmpIUzk2N2V5ZXMyQi1vQVNhNElZT0NoODZRMmxIVlRGYXh2aWhqUEpSR2VkQU9VdlNPR0pNb2xydjhENl9vUEpHS2VYX09xZ0tERjBObGdncmxIU3QwSEVSeVNiU1FzX3duSnM1aTB5LWpFbDJnLWpxNGFvUFFhTTZwNWxmeVZxN3pFVjU4d29mU2sxaTF5ek9DWXhkaF9lajY4SE1TTGVYOFBmWUxONTA4QVEiLCJpZCI6ImZjX0J2TUNhX20xTU5ha3F0c1B3WkdJLVFjXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYU1EZDBURmxSWkRBdFJXVk9kMU0xYUhsamRsaENlWE5uT1hKallrUklRa2xEYldWc2JuWnhXR1I2U1U1elIxTTVVVFZSWld3d1IxVklNRXh3WlhOc2VuVnJMVzQyTTBKcGMzazBhVWh4VFRCTFRXNHlOQzFoZGs1S1p4SVhRblpOUTJGZmJURk5UbUZyY1hSelVIZGFSMGt0VVdNYUlrRklUakJGTjBVd0xYVkliV1JHWWw5Sk5XRnBhbDl5YlhCd1oxQlRMVFJ5YUZFIiwiZmN2IjoiMyIsImVpIjoiQnZNQ2FfbTFNTmFrcXRzUHdaR0ktUWMiLCJxYyI6IkNqeG9iM2NnZEc4Z2RIVnliaUJyWlhsdWIzUmxJSEJ5WlhObGJuUmhkR2x2Ym5NZ2FXNTBieUJoSURVZ2NHRnlkQ0IyYVdSbGJ5QnpaWEpwWlhNUUFIM1dPTnctIiwicXVlc3Rpb24iOiJIb3cgZG8gSSBtYWtlIG15IHByZXNlbnRhdGlvbiBhIHZpZGVvPyIsImxrIjoiR2lOb2IzY2dkRzhnYldGclpTQnRlU0J3Y21WelpXNTBZWFJwYjI0Z1lTQjJhV1JsYnciLCJicyI6ImM1V1BQUS1DTUJCQTQ5ckp1ZFBGcjBHZFVHWldEWU1fd0ttUlV4cmFIcEZEMG45dkNSQWwwUmpIUzk2N2V5ZXMyQi1vQVNhNElZT0NoODZRMmxIVlRGYXh2aWhqUEpSR2VkQU9VdlNPR0pNb2xydjhENl9vUEpHS2VYX09xZ0tERjBObGdncmxIU3QwSEVSeVNiU1FzX3duSnM1aTB5LWpFbDJnLWpxNGFvUFFhTTZwNWxmeVZxN3pFVjU4d29mU2sxaTF5ek9DWXhkaF9lajY4SE1TTGVYOFBmWUxONTA4QVEiLCJpZCI6ImZjX0J2TUNhX20xTU5ha3F0c1B3WkdJLVFjXzUifQ%3D%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "MA1Mz3iczVbNcuo2FJ7poqu-Rr0hgAETIDOeO7JRiBP-RCAJ2TBGCNv4R2AZHFjeZ-mqD9MH6Gv0BSobk9gEktxOZ9ozY0vW-dXR-XT8_TfH8uw_f7HMIFiyq2IxDMOCQanhkAKmblFnWw8X59RhPja_Mbr2MZGx6VOXFOhUMB2ZeILhyGsm7JnWLGEL241cETCTRYFYsrLpqPrELXW6ur0KWD98bml5hIXYvjyZ6owsuPuXBStOivxl_1pp8o8CKxCvoJHV1Lsug4clKJTFcqXQK-ouFwD_LUEFaAYfbQCMj-QU9FWLyORWgXqsD_djar0DIp8aULU955z_-8hopKkqccT86YH5om-3-Kx7kBppn8SlZmJ6TMLaD_ZxuF-gRDXaQWbhIzqRxDgvd2_f6jHvFLWyHGXcBM0wZf7ddlIO9qqj6BWCa6nfAQihs54OxE3fjYHogE_q5BDRqHF7H3AtpTgzeJWLxanPh1LRwiaOJz6Lil8dNkTaavdai_JEQSt93UObFoDdgPRDCNsSKOIpl3OoPiOziTkRv8XfpXKpKjYqtfpFjDrMXmHH0rDzKRMDr97JB2KhXVBKB8xld3ucLKRp4FQxGYpxSEWWXg2gdJ7jNBxJ2hnP18loAoUirpxhojvYTgtxuDR5vupGOv1vGuoHmDuiuGJpYmCULIFstaExgPen_ETUO2k22kfsNeuslUw05RB4mHDeY24ANBSnN0lx5nJU-A2h8ASj6Ka44-qBupfVpCi-w4khCDUIoPGmliIVntgOUFORcD0YSYXAgMBea1DVrGQZxE4MY-9JQcarmdiH-h51MXX4-rV5kvUlgl-5WPZRHEB2hJk01uAzFrvz-dhwpN284_fWc13yy-WNWmPhaWxRd_oDPQ3_79F36HhOUvZn0Rd5-hL6kPkR-k51vD36VPsM-u736Dvd8foHqaOO9x59KrBS6Es63kuSi38Dfcrn6EsfVxp9b0eVQR88h74WzKJvvICHjncafYmDN_T9046n_HjHi0FI9kO2_a0Xxvk2SO4vR6tHFXbKnUr_0bzWB4OdyYbTzQB92gbnbnDl6jPnYmLNrpTybbCdXUz4Ar0iM2El39AwF9BcsPa9nE22Hg1IbukTRrxADyzqsZzlcb6eq-aXuh_kNtaM0BwjvkWY4Do-lUX9cv3k5sGsPn3p1luLbe25t9tBMmzW-U9Y2XGsicbuYEMaitUXPIL-tS9J3e6i6a7ZQ7-Vb-wq9WGFiA_tiVMP1OmaPjVJTQJhyVaky5dgNNNuqHrraeQRD5_Ys56ndAmZ9zxqdK1w8NS8aS6BdFuHNWsX6j1cYTAOjMnbJV32jUdUtbDAd8yIXBJcH8u8ICQDdFH0r6cDJQS3cQUrgxUf27xsplQB6GYMUNPgD-VnJzCsTwjbyPiyWsFVUcS6Pq_NyVxwjWC7lCVJYJ4vl37HPtEDfhR68If9018__w1Gv4xK",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=MA1Mz3iczVbNcuo2FJ7poqu-Rr0hgAETIDOeO7JRiBP-RCAJ2TBGCNv4R2AZHFjeZ-mqD9MH6Gv0BSobk9gEktxOZ9ozY0vW-dXR-XT8_TfH8uw_f7HMIFiyq2IxDMOCQanhkAKmblFnWw8X59RhPja_Mbr2MZGx6VOXFOhUMB2ZeILhyGsm7JnWLGEL241cETCTRYFYsrLpqPrELXW6ur0KWD98bml5hIXYvjyZ6owsuPuXBStOivxl_1pp8o8CKxCvoJHV1Lsug4clKJTFcqXQK-ouFwD_LUEFaAYfbQCMj-QU9FWLyORWgXqsD_djar0DIp8aULU955z_-8hopKkqccT86YH5om-3-Kx7kBppn8SlZmJ6TMLaD_ZxuF-gRDXaQWbhIzqRxDgvd2_f6jHvFLWyHGXcBM0wZf7ddlIO9qqj6BWCa6nfAQihs54OxE3fjYHogE_q5BDRqHF7H3AtpTgzeJWLxanPh1LRwiaOJz6Lil8dNkTaavdai_JEQSt93UObFoDdgPRDCNsSKOIpl3OoPiOziTkRv8XfpXKpKjYqtfpFjDrMXmHH0rDzKRMDr97JB2KhXVBKB8xld3ucLKRp4FQxGYpxSEWWXg2gdJ7jNBxJ2hnP18loAoUirpxhojvYTgtxuDR5vupGOv1vGuoHmDuiuGJpYmCULIFstaExgPen_ETUO2k22kfsNeuslUw05RB4mHDeY24ANBSnN0lx5nJU-A2h8ASj6Ka44-qBupfVpCi-w4khCDUIoPGmliIVntgOUFORcD0YSYXAgMBea1DVrGQZxE4MY-9JQcarmdiH-h51MXX4-rV5kvUlgl-5WPZRHEB2hJk01uAzFrvz-dhwpN284_fWc13yy-WNWmPhaWxRd_oDPQ3_79F36HhOUvZn0Rd5-hL6kPkR-k51vD36VPsM-u736Dvd8foHqaOO9x59KrBS6Es63kuSi38Dfcrn6EsfVxp9b0eVQR88h74WzKJvvICHjncafYmDN_T9046n_HjHi0FI9kO2_a0Xxvk2SO4vR6tHFXbKnUr_0bzWB4OdyYbTzQB92gbnbnDl6jPnYmLNrpTybbCdXUz4Ar0iM2El39AwF9BcsPa9nE22Hg1IbukTRrxADyzqsZzlcb6eq-aXuh_kNtaM0BwjvkWY4Do-lUX9cv3k5sGsPn3p1luLbe25t9tBMmzW-U9Y2XGsicbuYEMaitUXPIL-tS9J3e6i6a7ZQ7-Vb-wq9WGFiA_tiVMP1OmaPjVJTQJhyVaky5dgNNNuqHrraeQRD5_Ys56ndAmZ9zxqdK1w8NS8aS6BdFuHNWsX6j1cYTAOjMnbJV32jUdUtbDAd8yIXBJcH8u8ICQDdFH0r6cDJQS3cQUrgxUf27xsplQB6GYMUNPgD-VnJzCsTwjbyPiyWsFVUcS6Pq_NyVxwjWC7lCVJYJ4vl37HPtEDfhR68If9018__w1Gv4xK"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "MacMost Now 753: Simultaneous Videos With Keynote",
+        "link": "https://macmost.com/simultaneous-videos-with-keynote.html",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHEIkXX85KVjKJkS2OfjwFdzEndKJ_OelmshBZ4sakwaeZe0TWGAFW24Mi1gFxaahI4mtmLBW5PHwuamCh312Nr8ygSjO7kbcyARBi00R-VHHv5woK_YBLz10kgx7MglnhUUaJH16jysd6sXr0ziJmbGLm_Dw&ved=2ahUKEwj50KmG3JuYAxVWkmoFHcEIIn8QFnoECCUQAQ&uoh=1",
+        "displayed_link": "https://macmost.com \u203a simultaneous-videos-with-keynote",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAABCFBMVEX____5-fnExshNTU0wMDB8fHwAAABxcXGpqalWVlbP0tI-Pj7-__-1trWdnZ_9__3CrKivaWqbWliiami8lZba0tDSxsS6iomlZGKtdnyTAADCYlzjycv37ezFkpCYPz-ZODOYJyPGhYLct7PszMfPf4CGLy3s7OidAADqsKz34eH_8vX18_Hy3ti3Nzl0AACdFxDgioTkk5Pnl5mlAAB0PD3DoqO8AADNRknHMDLLOj69PkLXS0zLTU7RKC22AACiAACOAABwAACHAADBAACyAABpQ0XAExdQJiZlZGaXkpJ4GxZeFhFbAABdAABWIB_QAABsHx7gAACIFBb0AACZHxlNNjODiooORK77AAABdUlEQVR4AWIgETAC6iQHBQdiKIqm1mBr21Z26ya1rf__k32ZWmd8z8T5ruQK5VenUqs135xWrVbLv0lwum9Or1Yb3vrDXZ68Qbi8iXcn-zGazBarCKHN7jA5beiO1eX2eL0enz8QDIbCkUjUFYvfXCKJvCkAbul02uvNZHP5i5UVit5SscQo38C_Mo715a-SrNZyQB2oNoBqs1XPC4hJf7tJaKeb7-FKf0A7-W5vUKkMEsMMyEyiPcK98USYzkiF9sYaYZonfYLneg5x3sSI0K4GOmClfbpQQQEb7lfokoeS8USf0Dm8oUyiT1dsZuMUogWLzhIyDiRe6VmErzLjWg9ukjIplUywykTkh9_e5MA1Zm_IQiqYSfGxWtxTxJm04nVlJpUcrCsbSVbWJK_iEKO13e4kud6uZ5KElzF_mfjtviDJ_X5_YNK73Q8mGXTGve2BRJk1VHEpeeTRBVE4QcYh_el0irNv-UmQve-V73Dcw2_s-gd1_UXK36cnrQAAAABJRU5ErkJggg.png",
+        "date": "Aug 27, 2012",
+        "snippet": "The technique involves putting many videos on one slide, and then exporting the presentation as a new video. You can use this to create a ...",
+        "snippet_highlighted_words": [
+          "putting many videos on one slide"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The technique involves putting many videos on one slide, and then exporting the presentation as a new video. You can use this to create a ...",
+            "source_info_link": "https://macmost.com/simultaneous-videos-with-keynote.html",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAABCFBMVEX____5-fnExshNTU0wMDB8fHwAAABxcXGpqalWVlbP0tI-Pj7-__-1trWdnZ_9__3CrKivaWqbWliiami8lZba0tDSxsS6iomlZGKtdnyTAADCYlzjycv37ezFkpCYPz-ZODOYJyPGhYLct7PszMfPf4CGLy3s7OidAADqsKz34eH_8vX18_Hy3ti3Nzl0AACdFxDgioTkk5Pnl5mlAAB0PD3DoqO8AADNRknHMDLLOj69PkLXS0zLTU7RKC22AACiAACOAABwAACHAADBAACyAABpQ0XAExdQJiZlZGaXkpJ4GxZeFhFbAABdAABWIB_QAABsHx7gAACIFBb0AACZHxlNNjODiooORK77AAABdUlEQVR4AWIgETAC6iQHBQdiKIqm1mBr21Z26ya1rf__k32ZWmd8z8T5ruQK5VenUqs135xWrVbLv0lwum9Or1Yb3vrDXZ68Qbi8iXcn-zGazBarCKHN7jA5beiO1eX2eL0enz8QDIbCkUjUFYvfXCKJvCkAbul02uvNZHP5i5UVit5SscQo38C_Mo715a-SrNZyQB2oNoBqs1XPC4hJf7tJaKeb7-FKf0A7-W5vUKkMEsMMyEyiPcK98USYzkiF9sYaYZonfYLneg5x3sSI0K4GOmClfbpQQQEb7lfokoeS8USf0Dm8oUyiT1dsZuMUogWLzhIyDiRe6VmErzLjWg9ukjIplUywykTkh9_e5MA1Zm_IQiqYSfGxWtxTxJm04nVlJpUcrCsbSVbWJK_iEKO13e4kud6uZ5KElzF_mfjtviDJ_X5_YNK73Q8mGXTGve2BRJk1VHEpeeTRBVE4QcYh_el0irNv-UmQve-V73Dcw2_s-gd1_UXK36cnrQAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqwBL2dvdG8_dXJsPUNBRVNkUUhFSWtYWG1xY3lfalZpRlhqSGVtT0l4U1JnMDdGMDExUTN6M0Q1WTNFZEhlRUV5NGRGZzNHdWRiRDl0M3VUaDRLQjc4RmdCeFJRR1RjMDJOWHZzdHY3bTF3b2pyWDBfZXBuMFE0YzVUTUx2b3RjTUtpUFVhODgxRHJyTW9BQmNMTTE3bGZrREg5UkN5TnNYZ0RvbWVUYTZjNy1PQRIEGgIIABrjBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC_BggAEAAYACAAKgoKA2hvdxUUWEs_KgkKAnRvFQAAAAAqaAoEdHVybhUAAAAAGghhY3RpdmF0ZRoHY29udmVydBoGZW5hYmxlGgRtYWtlGgZyb3RhdGUaBnR1cm5lZBoHdHVybmluZxoFdHVybnMaBmNoYW5nZRoKY29udmVydGluZxoGZXhwb3J0KhwKB2tleW5vdGUV3hSZQBoMaXY7cDtrZXlub3RlKk0KDXByZXNlbnRhdGlvbnMVAAAAABoMcHJlc2VudGF0aW9uGgZzbGlkZXMaBnNwZWVjaBoSaXY7cDtwcmVzZW50YXRpb25zGgVzbGlkZSodCgRpbnRvFQAAAAAaAmF0GgJpbhoCb24aBG9udG8qCAoBYRUAAAAAKg8KATUVFbIbPRoFNXBhcnQqGQoEcGFydBUAAAAAGgVwYXJ0cxoFNXBhcnQqIQoFdmlkZW8VVdIsQBoGdmlkZW9zGgt2aWRlb3NlcmllcyowCgZzZXJpZXMVAAAAABoKY29sbGVjdGlvbhoIbGVjdHVyZXMaC3ZpZGVvc2VyaWVzMqwBL2dvdG8_dXJsPUNBRVNkUUhFSWtYWG1xY3lfalZpRlhqSGVtT0l4U1JnMDdGMDExUTN6M0Q1WTNFZEhlRUV5NGRGZzNHdWRiRDl0M3VUaDRLQjc4RmdCeFJRR1RjMDJOWHZzdHY3bTF3b2pyWDBfZXBuMFE0YzVUTUx2b3RjTUtpUFVhODgxRHJyTW9BQmNMTTE3bGZrREg5UkN5TnNYZ0RvbWVUYTZjNy1PQTo_TWFjTW9zdCBOb3cgNzUzOiBTaW11bHRhbmVvdXMgPGI-VmlkZW9zPC9iPiBXaXRoIDxiPktleW5vdGU8L2I-QpkBVGhlIHRlY2huaXF1ZSBpbnZvbHZlcyA8Yj5wdXR0aW5nIG1hbnkgdmlkZW9zIG9uIG9uZSBzbGlkZTwvYj4sIGFuZCB0aGVuIGV4cG9ydGluZyB0aGUgcHJlc2VudGF0aW9uIGFzIGEgbmV3IHZpZGVvLiBZb3UgY2FuIHVzZSB0aGlzIHRvIGNyZWF0ZSBhJm5ic3A7Li4uSgFhSgJ0b1ICaW5SAmF0UgJvbiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqwBL2dvdG8_dXJsPUNBRVNkUUhFSWtYWG1xY3lfalZpRlhqSGVtT0l4U1JnMDdGMDExUTN6M0Q1WTNFZEhlRUV5NGRGZzNHdWRiRDl0M3VUaDRLQjc4RmdCeFJRR1RjMDJOWHZzdHY3bTF3b2pyWDBfZXBuMFE0YzVUTUx2b3RjTUtpUFVhODgxRHJyTW9BQmNMTTE3bGZrREg5UkN5TnNYZ0RvbWVUYTZjNy1PQRIEGgIIABrjBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC_BggAEAAYACAAKgoKA2hvdxUUWEs_KgkKAnRvFQAAAAAqaAoEdHVybhUAAAAAGghhY3RpdmF0ZRoHY29udmVydBoGZW5hYmxlGgRtYWtlGgZyb3RhdGUaBnR1cm5lZBoHdHVybmluZxoFdHVybnMaBmNoYW5nZRoKY29udmVydGluZxoGZXhwb3J0KhwKB2tleW5vdGUV3hSZQBoMaXY7cDtrZXlub3RlKk0KDXByZXNlbnRhdGlvbnMVAAAAABoMcHJlc2VudGF0aW9uGgZzbGlkZXMaBnNwZWVjaBoSaXY7cDtwcmVzZW50YXRpb25zGgVzbGlkZSodCgRpbnRvFQAAAAAaAmF0GgJpbhoCb24aBG9udG8qCAoBYRUAAAAAKg8KATUVFbIbPRoFNXBhcnQqGQoEcGFydBUAAAAAGgVwYXJ0cxoFNXBhcnQqIQoFdmlkZW8VVdIsQBoGdmlkZW9zGgt2aWRlb3NlcmllcyowCgZzZXJpZXMVAAAAABoKY29sbGVjdGlvbhoIbGVjdHVyZXMaC3ZpZGVvc2VyaWVzMqwBL2dvdG8_dXJsPUNBRVNkUUhFSWtYWG1xY3lfalZpRlhqSGVtT0l4U1JnMDdGMDExUTN6M0Q1WTNFZEhlRUV5NGRGZzNHdWRiRDl0M3VUaDRLQjc4RmdCeFJRR1RjMDJOWHZzdHY3bTF3b2pyWDBfZXBuMFE0YzVUTUx2b3RjTUtpUFVhODgxRHJyTW9BQmNMTTE3bGZrREg5UkN5TnNYZ0RvbWVUYTZjNy1PQTo_TWFjTW9zdCBOb3cgNzUzOiBTaW11bHRhbmVvdXMgPGI-VmlkZW9zPC9iPiBXaXRoIDxiPktleW5vdGU8L2I-QpkBVGhlIHRlY2huaXF1ZSBpbnZvbHZlcyA8Yj5wdXR0aW5nIG1hbnkgdmlkZW9zIG9uIG9uZSBzbGlkZTwvYj4sIGFuZCB0aGVuIGV4cG9ydGluZyB0aGUgcHJlc2VudGF0aW9uIGFzIGEgbmV3IHZpZGVvLiBZb3UgY2FuIHVzZSB0aGlzIHRvIGNyZWF0ZSBhJm5ic3A7Li4uSgFhSgJ0b1ICaW5SAmF0UgJvbiICEAFIAFgAaAA",
+        "source": "MacMost.com"
+      },
+      {
+        "position": 2,
+        "title": "Export Keynote Animation to Movie",
+        "link": "https://www.youtube.com/watch?v=1PWcGGlGCIo",
+        "displayed_link": "1.8K+ views",
+        "date": "12 years ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f306c2adc7bce06e500f/images/m6PUGXQhQmNdVaSs7JR8kcWyhmZ85WA4hy1acuQjcuo.png",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "Animate a Keynote slide and then export it to a .m4v file. How to TRANSFORM your Presentations with ANIMATIONS | Keynote Tutorial (Mac)",
+        "duration": "1:56",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "Animating a Keynote slide",
+            "link": "https://www.google.com/goto?url=CAESawHEIkXXODyQUqVyPKWAVwOJ25APt_iMvKABAsz3HPQMzu8LkSznUqvbQ0Je3mW3TC8lbt2cxCJ--ap82QEWaoq0s6tO88FYYMgJ98Mz_di5HJd0SOAmpwa9lSGdtHU_17LlBT_U-4ssOCDC&gsessionid=A16mU6unFVNUIw3qdZJcSipI4YarKvSmakPp_fnCqfCfifR9Oappxg"
+          },
+          {
+            "time": "00:23",
+            "title": "Adding lens flare",
+            "link": "https://www.google.com/goto?url=CAESbAHEIkXXEdPV_8Dro3cqUZk4FvXSd4m3uVpxuv-Bst7l78TM-PE7QGPSyKUB9xVHTQ3fTN8UqfL9P4EXMTJ8C4i24vWDurKjVq3tEhVeoab7kQ8qTwo-shsf2khJCe-Ycnls3jXyIvOZNS_xxQ&gsessionid=A16mU6unFVNUIw3qdZJcSipI4YarKvSmakPp_fnCqfCfifR9Oappxg"
+          },
+          {
+            "time": "00:36",
+            "title": "Adjust build order",
+            "link": "https://www.google.com/goto?url=CAESbAHEIkXXJgvPGIAyYZIQ6RYMlLpRFLdM0e4DPBuzZHE05kYOAWOOpPJ-39VF3Ubg20WSlEw2v7KSHehlUGCV_bhW1AeSL7Ikr9jODRkeGlMWIENkHJ3xetXkXLwadLsMr8kOLd_OcBnIh8Fo8w&gsessionid=A16mU6unFVNUIw3qdZJcSipI4YarKvSmakPp_fnCqfCfifR9Oappxg"
+          },
+          {
+            "time": "00:50",
+            "title": "Export to movie",
+            "link": "https://www.google.com/goto?url=CAESbAHEIkXX0RIbahAHxzFmNXh2hrkZpfFvXPFLs-TG1t8UAwPyyLNZlHnBTa03RQhYSciE6w7yAxl1gq83DpWRNmFWT8G4-BkV-62dVBMb_sLd67-9U6gZx-_vFAs7d4xIsHVqpdY8L8a5ksD33A&gsessionid=A16mU6unFVNUIw3qdZJcSipI4YarKvSmakPp_fnCqfCfifR9Oappxg"
+          },
+          {
+            "time": "01:39",
+            "title": "Open movie in Quicktime",
+            "link": "https://www.google.com/goto?url=CAESbAHEIkXX9vDfhnbKTKOVvVUBJBAmcXQQphQ2kzyb9rfYn0ZrBv_8ZTiCZVEj1B-rC4_Bb44bzcJy4Ct3T-2sVzHnGMGZqVHMX46-s-Yxo2b9uvFVMV9zvDUVYivuW4vqjgJ7AEBrGYSglikviA&gsessionid=A16mU6unFVNUIw3qdZJcSipI4YarKvSmakPp_fnCqfCfifR9Oappxg"
+          }
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Animate a Keynote slide and then export it to a .m4v file. How to TRANSFORM your Presentations with ANIMATIONS | Keynote Tutorial (Mac)",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpkBL2dvdG8_dXJsPUNBRVNad0hFSWtYWDI2UVB0UFBIbkppYzYwbDg1cmJEZGJNVzMyV214VHY1ZGFWSndPZDdZc216YWk3NFhLVlJBTUVnYmhISGljc0JoR1VfVXhOZmRkX2NGU3pMZjhwSUxFVVVCenVKMUxzWHcyN1p4UnFVUTA3OEpiTDg2ZlY5dzkwbTBtQ1NtMHdfSFF3EhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpkBL2dvdG8_dXJsPUNBRVNad0hFSWtYWDI2UVB0UFBIbkppYzYwbDg1cmJEZGJNVzMyV214VHY1ZGFWSndPZDdZc216YWk3NFhLVlJBTUVnYmhISGljc0JoR1VfVXhOZmRkX2NGU3pMZjhwSUxFVVVCenVKMUxzWHcyN1p4UnFVUTA3OEpiTDg2ZlY5dzkwbTBtQ1NtMHdfSFF3EhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTJ4vpVp-zKWqt89iMtzOYU2mJ7pF29Ju_WSg",
+        "source": "YouTube \u00b7 Winning Screentime"
+      },
+      {
+        "position": 3,
+        "title": "How to Convert Keynote to PowerPoint 2023?",
+        "link": "https://www.google.com/goto?url=CAESZwHEIkXXvGr1T84-RneIN1eo_Rz6szUMrcdVPFWhnfCut0ir88_RX12wHK2-Sayosw0PzUW7O2VdXHphAJe5AdzNE3uTfClknLuRdEnlCco4s2qz3INxkF8JzhOJCNeXS0OPY_PbYcg&gsessionid=A16mU6unFVNUIw3qdZJcSipI4YarKvSmakPp_fnCqfCfifR9Oappxg",
+        "displayed_link": "390+ views",
+        "date": "3 years ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f306c2adc7bce06e500f/images/m6PUGXQhQmNdVaSs7JR8kULak37GmqErTT8CwxxsLFI.jpg",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "If you find yourself needing to convert your Keynote presentations to Google Slides, you're in the right place.",
+        "duration": "1:12",
+        "about_this_result": {
+          "source": {
+            "description": "If you find yourself needing to convert your Keynote presentations to Google Slides, you're in the right place.",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpkBL2dvdG8_dXJsPUNBRVNad0hFSWtYWHZHcjFUODQtUm5lSU4xZW9fUno2c3pVTXJjZFZQRldobmZDdXQwaXI4OF9SWDEyd0hLMi1TYXlvc3cwUHpVVzdPMlZkWEhwaEFKZTVBZHpORTN1VGZDbGtuTHVSZEVubENjbzRzMnF6M0lOeGtGOEp6aE9KQ05lWFMwT1BZX1BiWWNnEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpkBL2dvdG8_dXJsPUNBRVNad0hFSWtYWHZHcjFUODQtUm5lSU4xZW9fUno2c3pVTXJjZFZQRldobmZDdXQwaXI4OF9SWDEyd0hLMi1TYXlvc3cwUHpVVzdPMlZkWEhwaEFKZTVBZHpORTN1VGZDbGtuTHVSZEVubENjbzRzMnF6M0lOeGtGOEp6aE9KQ05lWFMwT1BZX1BiWWNnEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQB7vUYbyeILuHC0nwXOKjxhEUeaaxHVrsAhA",
+        "source": "YouTube \u00b7 AppHut Official"
+      },
+      {
+        "position": 4,
+        "title": "Putting a PowerPoint and Video together - Ask Different",
+        "link": "https://www.google.com/goto?url=CAESkgEBxCJF1xAkz0kRkKwlzkct1JoTp76hq2PzPETRE_tVCMN3cMrRORadzphjnc2z9CRaBItnUJrZmyRtZ5Qf1nXADT4QqJMRbmPaCHTFJsi3CMEonjZfRcqTKlwN-ElxvNMLFG2IU9FOxbW3l6TwFrZynwdkzHlZSTj4heQ710AHIr2EBwn9VDiGnjIBTjIiybMOHg",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkgEBxCJF16fdOxLk-zASDv5zbF3S7i0pRgQpkSQxRoe71QdLekbHs4x91rSH_RjZqAt_Lv-pVx18i7-19IUgD0c8VHtbFi44UqKZ-BS4_iOsfzjRR4QHhYHA9saiWp6H8280nYXZbmzcuPvqDsL3ef4B_iU-8raw32frGAGSThF5StvFGJ4YBF5A8dg6JXsNK5LVGw&ved=2ahUKEwj50KmG3JuYAxVWkmoFHcEIIn8QFnoECCkQAQ&uoh=1",
+        "displayed_link": "https://apple.stackexchange.com \u203a questions \u203a putting-a...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzDxMbV1tbR0tOys7Xm5uf___9fnNH8_PygwuLq8Pbz9_vD1-zQ4PBupNWHsttcPBVuAAAABnRSTlMAPXNnF-sxXhYXAAAAl0lEQVQokbWSWw7EIAhFa21BwOr-d1ucTI3iDH-9ITHm5CqvbXtRR9wnxYFFBiMO3bcwpd24MkiPdW83IcrtzERioWCpSACEtaAYSEVNKIJqL2Rh1SSQNQCqhRkzX3hpcG7uOSFCxPKJ9rWBII9T1lJc6D3rJuSW4jbBbd_fxn9HlsaRSZ_2j2GffU0Cp1lyHsMWBaPtTd34-gyYJC55wAAAAABJRU5ErkJggg.png",
+        "date": "Sep 9, 2010",
+        "snippet": "What is the easiest way to take a powerpoint or keynote presentation and a video of me giving the presentation and put the two together so that they can ...",
+        "about_this_result": {
+          "source": {
+            "description": "The easiest for you would be probably be using Screenflow. It allows you to record what happens on the screen (the presentation) AND the camera ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESkgEBxCJF1xAkz0kRkKwlzkct1JoTp76hq2PzPETRE_tVCMN3cMrRORadzphjnc2z9CRaBItnUJrZmyRtZ5Qf1nXADT4QqJMRbmPaCHTFJsi3CMEonjZfRcqTKlwN-ElxvNMLFG2IU9FOxbW3l6TwFrZynwdkzHlZSTj4heQ710AHIr2EBwn9VDiGnjIBTjIiybMOHg",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzDxMbV1tbR0tOys7Xm5uf___9fnNH8_PygwuLq8Pbz9_vD1-zQ4PBupNWHsttcPBVuAAAABnRSTlMAPXNnF-sxXhYXAAAAl0lEQVQokbWSWw7EIAhFa21BwOr-d1ucTI3iDH-9ITHm5CqvbXtRR9wnxYFFBiMO3bcwpd24MkiPdW83IcrtzERioWCpSACEtaAYSEVNKIJqL2Rh1SSQNQCqhRkzX3hpcG7uOSFCxPKJ9rWBII9T1lJc6D3rJuSW4jbBbd_fxn9HlsaRSZ_2j2GffU0Cp1lyHsMWBaPtTd34-gyYJC55wAAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCeENKRjF4QWt6MGtSa0t3bHprY3QxSm9UcDc2aHEyUHpQRVRSRV90VkNNTjNjTXJST1JhZHpwaGpuYzJ6OUNSYUJJdG5VSnJabXlSdFo1UWYxblhBRFQ0UXFKTVJibVBhQ0hURkpzaTNDTUVvbmpaZlJjcVRLbHdOLUVseHZOTUxGRzJJVTlGT3hiVzNsNlR3RnJaeW53ZGt6SGxaU1RqNGhlUTcxMEFISXIyRUJ3bjlWRGlHbmpJQlRqSWl5Yk1PSGcSBBoCCAAakAcSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA7AYIABAAGAAgACoKCgNob3cVGF2YPioJCgJ0bxUAAAAAKmgKBHR1cm4VyIiXPhoIYWN0aXZhdGUaB2NvbnZlcnQaBmVuYWJsZRoEbWFrZRoGcm90YXRlGgZ0dXJuZWQaB3R1cm5pbmcaBXR1cm5zGgZjaGFuZ2UaCmNvbnZlcnRpbmcaBmV4cG9ydCocCgdrZXlub3RlFbt0_z8aDGl2O3A7a2V5bm90ZSpNCg1wcmVzZW50YXRpb25zFbd0YT8aDHByZXNlbnRhdGlvbhoGc2xpZGVzGgZzcGVlY2gaEml2O3A7cHJlc2VudGF0aW9ucxoFc2xpZGUqHQoEaW50bxXQzbI_GgJhdBoCaW4aAm9uGgRvbnRvKggKAWEVAAAAACoPCgE1FcTRdDwaBTVwYXJ0KhkKBHBhcnQVGnRGPRoFcGFydHMaBTVwYXJ0KiEKBXZpZGVvFZeUd0AaBnZpZGVvcxoLdmlkZW9zZXJpZXMqMAoGc2VyaWVzFQAAAAAaCmNvbGxlY3Rpb24aCGxlY3R1cmVzGgt2aWRlb3NlcmllczLUAS9nb3RvP3VybD1DQUVTa2dFQnhDSkYxeEFrejBrUmtLd2x6a2N0MUpvVHA3NmhxMlB6UEVUUkVfdFZDTU4zY01yUk9SYWR6cGhqbmMyejlDUmFCSXRuVUpyWm15UnRaNVFmMW5YQURUNFFxSk1SYm1QYUNIVEZKc2kzQ01Fb25qWmZSY3FUS2x3Ti1FbHh2Tk1MRkcySVU5Rk94YlczbDZUd0ZyWnlud2RrekhsWlNUajRoZVE3MTBBSElyMkVCd245VkRpR25qSUJUaklpeWJNT0hnOj5QdXR0aW5nIGEgUG93ZXJQb2ludCBhbmQgPGI-VmlkZW88L2I-IHRvZ2V0aGVyIC0gQXNrIERpZmZlcmVudEKfAVRoZSBlYXNpZXN0IGZvciB5b3Ugd291bGQgYmUgcHJvYmFibHkgYmUgPGI-dXNpbmcgU2NyZWVuZmxvdzwvYj4uIEl0IGFsbG93cyB5b3UgdG8gcmVjb3JkIHdoYXQgaGFwcGVucyBvbiB0aGUgc2NyZWVuICh0aGUgcHJlc2VudGF0aW9uKSBBTkQgdGhlIGNhbWVyYSZuYnNwOy4uLkoBYUoCdG9SAm9uUgJhdFICaW4iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCeENKRjF4QWt6MGtSa0t3bHprY3QxSm9UcDc2aHEyUHpQRVRSRV90VkNNTjNjTXJST1JhZHpwaGpuYzJ6OUNSYUJJdG5VSnJabXlSdFo1UWYxblhBRFQ0UXFKTVJibVBhQ0hURkpzaTNDTUVvbmpaZlJjcVRLbHdOLUVseHZOTUxGRzJJVTlGT3hiVzNsNlR3RnJaeW53ZGt6SGxaU1RqNGhlUTcxMEFISXIyRUJ3bjlWRGlHbmpJQlRqSWl5Yk1PSGcSBBoCCAAakAcSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA7AYIABAAGAAgACoKCgNob3cVGF2YPioJCgJ0bxUAAAAAKmgKBHR1cm4VyIiXPhoIYWN0aXZhdGUaB2NvbnZlcnQaBmVuYWJsZRoEbWFrZRoGcm90YXRlGgZ0dXJuZWQaB3R1cm5pbmcaBXR1cm5zGgZjaGFuZ2UaCmNvbnZlcnRpbmcaBmV4cG9ydCocCgdrZXlub3RlFbt0_z8aDGl2O3A7a2V5bm90ZSpNCg1wcmVzZW50YXRpb25zFbd0YT8aDHByZXNlbnRhdGlvbhoGc2xpZGVzGgZzcGVlY2gaEml2O3A7cHJlc2VudGF0aW9ucxoFc2xpZGUqHQoEaW50bxXQzbI_GgJhdBoCaW4aAm9uGgRvbnRvKggKAWEVAAAAACoPCgE1FcTRdDwaBTVwYXJ0KhkKBHBhcnQVGnRGPRoFcGFydHMaBTVwYXJ0KiEKBXZpZGVvFZeUd0AaBnZpZGVvcxoLdmlkZW9zZXJpZXMqMAoGc2VyaWVzFQAAAAAaCmNvbGxlY3Rpb24aCGxlY3R1cmVzGgt2aWRlb3NlcmllczLUAS9nb3RvP3VybD1DQUVTa2dFQnhDSkYxeEFrejBrUmtLd2x6a2N0MUpvVHA3NmhxMlB6UEVUUkVfdFZDTU4zY01yUk9SYWR6cGhqbmMyejlDUmFCSXRuVUpyWm15UnRaNVFmMW5YQURUNFFxSk1SYm1QYUNIVEZKc2kzQ01Fb25qWmZSY3FUS2x3Ti1FbHh2Tk1MRkcySVU5Rk94YlczbDZUd0ZyWnlud2RrekhsWlNUajRoZVE3MTBBSElyMkVCd245VkRpR25qSUJUaklpeWJNT0hnOj5QdXR0aW5nIGEgUG93ZXJQb2ludCBhbmQgPGI-VmlkZW88L2I-IHRvZ2V0aGVyIC0gQXNrIERpZmZlcmVudEKfAVRoZSBlYXNpZXN0IGZvciB5b3Ugd291bGQgYmUgcHJvYmFibHkgYmUgPGI-dXNpbmcgU2NyZWVuZmxvdzwvYj4uIEl0IGFsbG93cyB5b3UgdG8gcmVjb3JkIHdoYXQgaGFwcGVucyBvbiB0aGUgc2NyZWVuICh0aGUgcHJlc2VudGF0aW9uKSBBTkQgdGhlIGNhbWVyYSZuYnNwOy4uLkoBYUoCdG9SAm9uUgJhdFICaW4iAhABSABYAGgA",
+        "source": "Stack Exchange"
+      },
+      {
+        "position": 5,
+        "title": "Keynote to PowerPoint conversion question",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXPj2RjQU_ZrrjyZYLbUtIYT89wgDrcfij8KUie8YeEADSsgEcWD3lI-SS4ZQ1zYUVCJgfD3o8TJ8qJs-VVDJwqM2HAt1U8oIpXKYFZne-vgDZAcjT037hWCfLb7M3lcMKtMBo",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaAHEIkXXcLjpcZZ2waZ_XtElO1VIhUWfZns_QNH4meF2razXL6Hmg6lks2A45m_AqsYhBfCdvk8Q7ouNWnNn3f__nHYj3r6-jie2YgZf_J6dVwhXb9Xxr6BPq24fSR_i_NgJuIyRbZyW&ved=2ahUKEwj50KmG3JuYAxVWkmoFHcEIIn8QFnoECCMQAQ&uoh=1",
+        "displayed_link": "https://discussions.apple.com \u203a thread",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJFBMVEVHcEyIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIg4b-mqAAAADHRSTlMAG3lfCyvB_6bmQ482zWjNAAAAiElEQVR4AWPAAYRMkHms6S3IXLFyA2SuepkAMnd6KoLNEshgxbgQxmNsL58UNL18FpQrWQ4GMMPSIbyyBWAeF1SyFCLJDeU2QLgcqFrZoNwFqLIbUPVOgHCZodxqAYijpqOqbodyEyDccKxmVQpA_QdxdBXMh2Hl09qmVyrAw017CUPQLgYKAQBqUUNCpQHnnQAAAABJRU5ErkJggg.png",
+        "date": "Jul 10, 2018",
+        "snippet": "Launch Keynote. In Keynote's Play menu, select \"Play Slideshow in Window.\" Now open up Zoom. Select \"Share Screen\" Make sure to click the \" ...",
+        "snippet_highlighted_words": [
+          "Keynote",
+          "In Keynote's",
+          "in",
+          "Make"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Launch Keynote. In Keynote's Play menu, select \"Play Slideshow in Window.\" Now open up Zoom. Select \"Share Screen\" Make sure to click the \" ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESaAHEIkXXPj2RjQU_ZrrjyZYLbUtIYT89wgDrcfij8KUie8YeEADSsgEcWD3lI-SS4ZQ1zYUVCJgfD3o8TJ8qJs-VVDJwqM2HAt1U8oIpXKYFZne-vgDZAcjT037hWCfLb7M3lcMKtMBo",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJFBMVEVHcEyIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIg4b-mqAAAADHRSTlMAG3lfCyvB_6bmQ482zWjNAAAAiElEQVR4AWPAAYRMkHms6S3IXLFyA2SuepkAMnd6KoLNEshgxbgQxmNsL58UNL18FpQrWQ4GMMPSIbyyBWAeF1SyFCLJDeU2QLgcqFrZoNwFqLIbUPVOgHCZodxqAYijpqOqbodyEyDccKxmVQpA_QdxdBXMh2Hl09qmVyrAw017CUPQLgYKAQBqUUNCpQHnnQAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWFBqMlJqUVVfWnJyanlaWUxiVXRJWVQ4OXdnRHJjZmlqOEtVaWU4WWVFQURTc2dFY1dEM2xJLVNTNFpRMXpZVVZDSmdmRDNvOFRKOHFKcy1WVkRKd3FNMkhBdDFVOG9JcFhLWUZabmUtdmdEWkFjalQwMzdoV0NmTGI3TTNsY01LdE1CbxIEGgIIABqIBxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDkBggAEAAYACAAKgoKA2hvdxVMjBk_KgkKAnRvFQAAAAAqaAoEdHVybhUAAAAAGghhY3RpdmF0ZRoHY29udmVydBoGZW5hYmxlGgRtYWtlGgZyb3RhdGUaBnR1cm5lZBoHdHVybmluZxoFdHVybnMaBmNoYW5nZRoKY29udmVydGluZxoGZXhwb3J0KhwKB2tleW5vdGUVvnOCQBoMaXY7cDtrZXlub3RlKk0KDXByZXNlbnRhdGlvbnMVH9-pPxoMcHJlc2VudGF0aW9uGgZzbGlkZXMaBnNwZWVjaBoSaXY7cDtwcmVzZW50YXRpb25zGgVzbGlkZSodCgRpbnRvFUSI7z4aAmF0GgJpbhoCb24aBG9udG8qCAoBYRUAAAAAKg8KATUV6IRRPxoFNXBhcnQqGQoEcGFydBUAAAAAGgVwYXJ0cxoFNXBhcnQqIQoFdmlkZW8VhxADPhoGdmlkZW9zGgt2aWRlb3NlcmllcyowCgZzZXJpZXMVkltqPRoKY29sbGVjdGlvbhoIbGVjdHVyZXMaC3ZpZGVvc2VyaWVzMpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWFBqMlJqUVVfWnJyanlaWUxiVXRJWVQ4OXdnRHJjZmlqOEtVaWU4WWVFQURTc2dFY1dEM2xJLVNTNFpRMXpZVVZDSmdmRDNvOFRKOHFKcy1WVkRKd3FNMkhBdDFVOG9JcFhLWUZabmUtdmdEWkFjalQwMzdoV0NmTGI3TTNsY01LdE1CbzpCPGI-S2V5bm90ZTwvYj4gdG8gUG93ZXJQb2ludCBjb252ZXJzaW9uIHF1ZXN0aW9uIC0gQXBwbGUgQ29tbXVuaXR5Qs0BTGF1bmNoIDxiPktleW5vdGU8L2I-LiA8Yj5JbiBLZXlub3RlJiMzOTtzPC9iPiBQbGF5IG1lbnUsIHNlbGVjdCAmcXVvdDtQbGF5IFNsaWRlc2hvdyA8Yj5pbjwvYj4gV2luZG93LiZxdW90OyBOb3cgb3BlbiB1cCBab29tLiBTZWxlY3QgJnF1b3Q7U2hhcmUgU2NyZWVuJnF1b3Q7IDxiPk1ha2U8L2I-IHN1cmUgdG8gY2xpY2sgdGhlICZxdW90OyZuYnNwOy4uLkoCdG9KAWFSAmluUgJhdFICb24iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWFBqMlJqUVVfWnJyanlaWUxiVXRJWVQ4OXdnRHJjZmlqOEtVaWU4WWVFQURTc2dFY1dEM2xJLVNTNFpRMXpZVVZDSmdmRDNvOFRKOHFKcy1WVkRKd3FNMkhBdDFVOG9JcFhLWUZabmUtdmdEWkFjalQwMzdoV0NmTGI3TTNsY01LdE1CbxIEGgIIABqIBxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDkBggAEAAYACAAKgoKA2hvdxVMjBk_KgkKAnRvFQAAAAAqaAoEdHVybhUAAAAAGghhY3RpdmF0ZRoHY29udmVydBoGZW5hYmxlGgRtYWtlGgZyb3RhdGUaBnR1cm5lZBoHdHVybmluZxoFdHVybnMaBmNoYW5nZRoKY29udmVydGluZxoGZXhwb3J0KhwKB2tleW5vdGUVvnOCQBoMaXY7cDtrZXlub3RlKk0KDXByZXNlbnRhdGlvbnMVH9-pPxoMcHJlc2VudGF0aW9uGgZzbGlkZXMaBnNwZWVjaBoSaXY7cDtwcmVzZW50YXRpb25zGgVzbGlkZSodCgRpbnRvFUSI7z4aAmF0GgJpbhoCb24aBG9udG8qCAoBYRUAAAAAKg8KATUV6IRRPxoFNXBhcnQqGQoEcGFydBUAAAAAGgVwYXJ0cxoFNXBhcnQqIQoFdmlkZW8VhxADPhoGdmlkZW9zGgt2aWRlb3NlcmllcyowCgZzZXJpZXMVkltqPRoKY29sbGVjdGlvbhoIbGVjdHVyZXMaC3ZpZGVvc2VyaWVzMpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWFBqMlJqUVVfWnJyanlaWUxiVXRJWVQ4OXdnRHJjZmlqOEtVaWU4WWVFQURTc2dFY1dEM2xJLVNTNFpRMXpZVVZDSmdmRDNvOFRKOHFKcy1WVkRKd3FNMkhBdDFVOG9JcFhLWUZabmUtdmdEWkFjalQwMzdoV0NmTGI3TTNsY01LdE1CbzpCPGI-S2V5bm90ZTwvYj4gdG8gUG93ZXJQb2ludCBjb252ZXJzaW9uIHF1ZXN0aW9uIC0gQXBwbGUgQ29tbXVuaXR5Qs0BTGF1bmNoIDxiPktleW5vdGU8L2I-LiA8Yj5JbiBLZXlub3RlJiMzOTtzPC9iPiBQbGF5IG1lbnUsIHNlbGVjdCAmcXVvdDtQbGF5IFNsaWRlc2hvdyA8Yj5pbjwvYj4gV2luZG93LiZxdW90OyBOb3cgb3BlbiB1cCBab29tLiBTZWxlY3QgJnF1b3Q7U2hhcmUgU2NyZWVuJnF1b3Q7IDxiPk1ha2U8L2I-IHN1cmUgdG8gY2xpY2sgdGhlICZxdW90OyZuYnNwOy4uLkoCdG9KAWFSAmluUgJhdFICb24iAhABSABYAGgA",
+        "source": "Apple Community"
+      },
+      {
+        "position": 6,
+        "title": "How to Make Slide/Comparison Video for Free Using Keynote ...",
+        "link": "https://www.google.com/goto?url=CAESZwHEIkXXnglOGksp4a0-rAuZ9_meUl8LD_SdAC4hgrZ57xhAfHQqcojoDs_UoYjzaDmLBPElvnqFSI0Lckaer3lGaGjgFXZiZQAmhS9vL3abnZKBcJPZLAxxfFviYLBvzf1tzw40p54&gsessionid=A16mU6unFVNUIw3qdZJcSipI4YarKvSmakPp_fnCqfCfifR9Oappxg",
+        "displayed_link": "1.1K+ views",
+        "date": "3 years ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f306c2adc7bce06e500f/images/m6PUGXQhQmNdVaSs7JR8kUtW-WRD6Y3PnoAiysp1fuI.jpg",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "Part 1 is the template Part 2 will animate intro screen and how to move the slides Part 3 will show how to end the video and animate the final ...",
+        "duration": "10:13",
+        "about_this_result": {
+          "source": {
+            "description": "Part 1 is the template Part 2 will animate intro screen and how to move the slides Part 3 will show how to end the video and animate the final ...",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpkBL2dvdG8_dXJsPUNBRVNad0hFSWtYWG5nbE9Ha3NwNGEwLXJBdVo5X21lVWw4TERfU2RBQzRoZ3JaNTd4aEFmSFFxY29qb0RzX1VvWWp6YURtTEJQRWx2bnFGU0kwTGNrYWVyM2xHYUdqZ0ZYWmlaUUFtaFM5dkwzYWJuWktCY0pQWkxBeHhmRnZpWUxCdnpmMXR6dzQwcDU0EhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpkBL2dvdG8_dXJsPUNBRVNad0hFSWtYWG5nbE9Ha3NwNGEwLXJBdVo5X21lVWw4TERfU2RBQzRoZ3JaNTd4aEFmSFFxY29qb0RzX1VvWWp6YURtTEJQRWx2bnFGU0kwTGNrYWVyM2xHYUdqZ0ZYWmlaUUFtaFM5dkwzYWJuWktCY0pQWkxBeHhmRnZpWUxCdnpmMXR6dzQwcDU0EhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRCkhEfsLWzdV6yFUDMX9wUehPnj1k8PoZTQw",
+        "source": "YouTube \u00b7 DataWatch"
+      },
+      {
+        "position": 7,
+        "title": "How do I make an awesome keynote/PowerPoint ...",
+        "link": "https://www.google.com/goto?url=CAES2gEBxCJF11OKKHs-JLd9K83hT0Ywr5o1RmUplzpUhP6z-jkK5-SBcSkKFf1_pbKEdRvngnV-O7k8nnnnUmHsyQfbezjaSohvet8cBy3jKsYsOvZ6998piIqFiePBN38lHU_zWZnhQ3YmtKw0ih_m3QEkBcYufor2aA-Bh9EpIfG9eJ7sqIitpliPZ4OyWzkkGmp8YzbTJaDlqEeI55PN1gHu-w2KAtTxsYsVjBLnM2Sr4iFH5D6g72WqQQXhUeqoI7WDa1JLnpnFOfLFvYTSUeg-BIPleXNxQE172w",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES2gEBxCJF1xq1mWAXgDff2i8V1fx_BmY0wPans5Nj2o7oVB9r4W6t6eQRHaIwcmKq0QMfV7SZ4ltfdzQO9S2jxUpNHpAEWjgBYUgy36vvzGQR7705EY9Xk_jLgNKN61NVS75xqal9ZCMkxaZhb20gtztefcvcUcU4IRwfglxK3c8cbhl13NBqqYEbeH-TDmh-WhneH3WdLjIibHGztKOQ3nylWpRBTGGKAbjWt95tgY3NoAb4n_nLxYOQB9GE4lhKrADPJGg_F3XKeu8yn0pTa77onXFpxudZX1UJEA&ved=2ahUKEwj50KmG3JuYAxVWkmoFHcEIIn8QFnoECEAQAQ&uoh=1",
+        "displayed_link": "30+ answers",
+        "date": "9 years ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png",
+        "snippet": "How do I make an awesome keynote/PowerPoint presentation for a video wall that stretches across a conference stage (6000 X 1029) behind m?",
+        "about_this_result": {
+          "source": {
+            "description": "Just go into the Document Format tab in Keynote and set your slide size to 6000 x 1029, and you'll be all set. Create next-level animations.",
+            "source_info_link": "https://www.google.com/goto?url=CAES2gEBxCJF11OKKHs-JLd9K83hT0Ywr5o1RmUplzpUhP6z-jkK5-SBcSkKFf1_pbKEdRvngnV-O7k8nnnnUmHsyQfbezjaSohvet8cBy3jKsYsOvZ6998piIqFiePBN38lHU_zWZnhQ3YmtKw0ih_m3QEkBcYufor2aA-Bh9EpIfG9eJ7sqIitpliPZ4OyWzkkGmp8YzbTJaDlqEeI55PN1gHu-w2KAtTxsYsVjBLnM2Sr4iFH5D6g72WqQQXhUeqoI7WDa1JLnpnFOfLFvYTSUeg-BIPleXNxQE172w",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrQCL2dvdG8_dXJsPUNBRVMyZ0VCeENKRjExT0tLSHMtSkxkOUs4M2hUMFl3cjVvMVJtVXBsenBVaFA2ei1qa0s1LVNCY1NrS0ZmMV9wYktFZFJ2bmduVi1PN2s4bm5ublVtSHN5UWZiZXpqYVNvaHZldDhjQnkzaktzWXNPdlo2OTk4cGlJcUZpZVBCTjM4bEhVX3pXWm5oUTNZbXRLdzBpaF9tM1FFa0JjWXVmb3IyYUEtQmg5RXBJZkc5ZUo3c3FJaXRwbGlQWjRPeVd6a2tHbXA4WXpiVEphRGxxRWVJNTVQTjFnSHUtdzJLQXRUeHNZc1ZqQkxuTTJTcjRpRkg1RDZnNzJXcVFRWGhVZXFvSTdXRGExSkxucG5GT2ZMRnZZVFNVZWctQklQbGVYTnhRRTE3MncSBBoCCAAagggSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA3gcIABAAGAAgACoKCgNob3cVaJt9QCoJCgJ0bxUAAAAAKmgKBHR1cm4VtnNYPBoIYWN0aXZhdGUaB2NvbnZlcnQaBmVuYWJsZRoEbWFrZRoGcm90YXRlGgZ0dXJuZWQaB3R1cm5pbmcaBXR1cm5zGgZjaGFuZ2UaCmNvbnZlcnRpbmcaBmV4cG9ydCocCgdrZXlub3RlFeTMjEAaDGl2O3A7a2V5bm90ZSpNCg1wcmVzZW50YXRpb25zFUxxmz8aDHByZXNlbnRhdGlvbhoGc2xpZGVzGgZzcGVlY2gaEml2O3A7cHJlc2VudGF0aW9ucxoFc2xpZGUqHQoEaW50bxWRDhU_GgJhdBoCaW4aAm9uGgRvbnRvKggKAWEVAAAAACoPCgE1FTEyVz4aBTVwYXJ0KhkKBHBhcnQV9iWePBoFcGFydHMaBTVwYXJ0KiEKBXZpZGVvFX2deUAaBnZpZGVvcxoLdmlkZW9zZXJpZXMqMAoGc2VyaWVzFY-_UjsaCmNvbGxlY3Rpb24aCGxlY3R1cmVzGgt2aWRlb3NlcmllczK0Ai9nb3RvP3VybD1DQUVTMmdFQnhDSkYxMU9LS0hzLUpMZDlLODNoVDBZd3I1bzFSbVVwbHpwVWhQNnotamtLNS1TQmNTa0tGZjFfcGJLRWRSdm5nblYtTzdrOG5ubm5VbUhzeVFmYmV6amFTb2h2ZXQ4Y0J5M2pLc1lzT3ZaNjk5OHBpSXFGaWVQQk4zOGxIVV96V1puaFEzWW10S3cwaWhfbTNRRWtCY1l1Zm9yMmFBLUJoOUVwSWZHOWVKN3NxSWl0cGxpUFo0T3lXemtrR21wOFl6YlRKYURscUVlSTU1UE4xZ0h1LXcyS0F0VHhzWXNWakJMbk0yU3I0aUZINUQ2ZzcyV3FRUVhoVWVxb0k3V0RhMUpMbnBuRk9mTEZ2WVRTVWVnLUJJUGxlWE54UUUxNzJ3OlFIb3cgZG8gSSA8Yj5tYWtlPC9iPiBhbiBhd2Vzb21lIDxiPmtleW5vdGU8L2I-L1Bvd2VyUG9pbnQgPGI-cHJlc2VudGF0aW9uPC9iPiAuLi5CngFKdXN0IGdvIDxiPmludG88L2I-IHRoZSBEb2N1bWVudCBGb3JtYXQgdGFiIDxiPmluIEtleW5vdGU8L2I-IGFuZCBzZXQgeW91ciBzbGlkZSBzaXplIHRvIDYwMDAgeCAxMDI5LCBhbmQgeW91JiMzOTtsbCBiZSBhbGwgc2V0LiBDcmVhdGUgbmV4dC1sZXZlbCBhbmltYXRpb25zLkoCdG9KAWFSAmluUgJhdFICb24iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrQCL2dvdG8_dXJsPUNBRVMyZ0VCeENKRjExT0tLSHMtSkxkOUs4M2hUMFl3cjVvMVJtVXBsenBVaFA2ei1qa0s1LVNCY1NrS0ZmMV9wYktFZFJ2bmduVi1PN2s4bm5ublVtSHN5UWZiZXpqYVNvaHZldDhjQnkzaktzWXNPdlo2OTk4cGlJcUZpZVBCTjM4bEhVX3pXWm5oUTNZbXRLdzBpaF9tM1FFa0JjWXVmb3IyYUEtQmg5RXBJZkc5ZUo3c3FJaXRwbGlQWjRPeVd6a2tHbXA4WXpiVEphRGxxRWVJNTVQTjFnSHUtdzJLQXRUeHNZc1ZqQkxuTTJTcjRpRkg1RDZnNzJXcVFRWGhVZXFvSTdXRGExSkxucG5GT2ZMRnZZVFNVZWctQklQbGVYTnhRRTE3MncSBBoCCAAagggSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA3gcIABAAGAAgACoKCgNob3cVaJt9QCoJCgJ0bxUAAAAAKmgKBHR1cm4VtnNYPBoIYWN0aXZhdGUaB2NvbnZlcnQaBmVuYWJsZRoEbWFrZRoGcm90YXRlGgZ0dXJuZWQaB3R1cm5pbmcaBXR1cm5zGgZjaGFuZ2UaCmNvbnZlcnRpbmcaBmV4cG9ydCocCgdrZXlub3RlFeTMjEAaDGl2O3A7a2V5bm90ZSpNCg1wcmVzZW50YXRpb25zFUxxmz8aDHByZXNlbnRhdGlvbhoGc2xpZGVzGgZzcGVlY2gaEml2O3A7cHJlc2VudGF0aW9ucxoFc2xpZGUqHQoEaW50bxWRDhU_GgJhdBoCaW4aAm9uGgRvbnRvKggKAWEVAAAAACoPCgE1FTEyVz4aBTVwYXJ0KhkKBHBhcnQV9iWePBoFcGFydHMaBTVwYXJ0KiEKBXZpZGVvFX2deUAaBnZpZGVvcxoLdmlkZW9zZXJpZXMqMAoGc2VyaWVzFY-_UjsaCmNvbGxlY3Rpb24aCGxlY3R1cmVzGgt2aWRlb3NlcmllczK0Ai9nb3RvP3VybD1DQUVTMmdFQnhDSkYxMU9LS0hzLUpMZDlLODNoVDBZd3I1bzFSbVVwbHpwVWhQNnotamtLNS1TQmNTa0tGZjFfcGJLRWRSdm5nblYtTzdrOG5ubm5VbUhzeVFmYmV6amFTb2h2ZXQ4Y0J5M2pLc1lzT3ZaNjk5OHBpSXFGaWVQQk4zOGxIVV96V1puaFEzWW10S3cwaWhfbTNRRWtCY1l1Zm9yMmFBLUJoOUVwSWZHOWVKN3NxSWl0cGxpUFo0T3lXemtrR21wOFl6YlRKYURscUVlSTU1UE4xZ0h1LXcyS0F0VHhzWXNWakJMbk0yU3I0aUZINUQ2ZzcyV3FRUVhoVWVxb0k3V0RhMUpMbnBuRk9mTEZ2WVRTVWVnLUJJUGxlWE54UUUxNzJ3OlFIb3cgZG8gSSA8Yj5tYWtlPC9iPiBhbiBhd2Vzb21lIDxiPmtleW5vdGU8L2I-L1Bvd2VyUG9pbnQgPGI-cHJlc2VudGF0aW9uPC9iPiAuLi5CngFKdXN0IGdvIDxiPmludG88L2I-IHRoZSBEb2N1bWVudCBGb3JtYXQgdGFiIDxiPmluIEtleW5vdGU8L2I-IGFuZCBzZXQgeW91ciBzbGlkZSBzaXplIHRvIDYwMDAgeCAxMDI5LCBhbmQgeW91JiMzOTtsbCBiZSBhbGwgc2V0LiBDcmVhdGUgbmV4dC1sZXZlbCBhbmltYXRpb25zLkoCdG9KAWFSAmluUgJhdFICb24iAhABSABYAGgA",
+        "source": "Quora"
+      },
+      {
+        "position": 8,
+        "title": "Converting a Keynote Presentation",
+        "link": "https://www.google.com/goto?url=CAEShAEBxCJF1_lM6kZamq37x6K9lMhv_xJv8RwU86nSin1M6EhEEaZHdLigGDJXvS7XJWYOJ5YY5e_DpfsypF6psTq8jzW4aAAMggQG__AZ4rbJmprxPI0rzVe5qIr2PYBedSARMqXGvChoOv1vPyj5aZzT4f62B9NPL_jG_Dme21pqhndZtxI",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEBxCJF15kCegmT7tB5wEnKOWUo8PWoewHvmC6AfFVhTHFuO9Xoo3bPqNYr-E5Oib_NSSaZQSFhOV5VmObybocVaD9MjkvRej_Ilh3GNnoLruxXmiFcr6iZ-c4nEOHN-vbD5mwdbakUR39LzhmKbRnS0S3uc9K2UJNdESKSW5dvePAbdW4&ved=2ahUKEwj50KmG3JuYAxVWkmoFHcEIIn8QFnoECDwQAQ&uoh=1",
+        "displayed_link": "https://comsupport.fau.edu \u203a articles \u203a converting-a-keyn...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACZ0lEQVR4AcWWA5AfMRTGU9se1LaNTVLb7thTczy1vUlq2-6gtttNsrUxqO329pLz7VnZb-b7882-X_ge0Gqw4no2RGQvyMTgmEaUD7JsaVnrnubstPRoDovKAf4YbcxEz3bL71QCkydnBqkRpi7EVHgJGRHu4sWyhEq0PuE4_k-9n8WMtwIpFSSic2IA2m0Jn4CY6JdEnLL8qePSHQARflC9T0waQJnwH3CJaJB-AKkwouI48LxMQQL8sRbdKhsYgDZc6vQOFAATOTLYGVCbNuMBmNDn_5NyiHkAJt_ipbxVs4UXc1n01hC98YwCqIQPoS0Gd1r6MAdQwoTvNgXg92NE-GjE-EbDAH7L_8ECpH4T8iaBArRd8biAPkqBAWhhEl-t95v_0Y0LouJpPP-HqN_fIMKjbTsjQHJlLbtVVj8gCQgFcKeMgl0TT7k-AICqfmkRZKIBpvJZohA2H4WpA3UHFOP3b5DxKq1tXk7BERVDEzMiYqmOBfFJt14KYkkis_Gq1Yo7pfS5VzFfIhqQmUAJMbkxiRnU0CJZVbL9PJ6nnS0bQtvp4LdFb1QEStaK60UREa3bb-R5-vXbmaUduY3ji9fWzS1mojyY7GUGGaEOC28XxoSP1DMT6bb23VrAnLxMmMkZMasiIs4wYFL9dnpZEOEnIgEgk12AaanE-yMqZYiakdrAhHw36ruIXuG9Rd28wJgmT86MmZgdozIuBgaUSbXeBfFy0QwRsSVqAxJxG5MrRQystzNOJfzl6we5Pu8GkvOOOnlE0v-YyOeIiEnG1h0y0QZRtxuisj0kTo3qk93sIBUKBQDaTijs0EtDAAAAAElFTkSuQmCC.png",
+        "snippet": "Step 1. Open your files on keynote for Mac 6.0. ; Step 2. Choose \u201cFile\u201d on the menu bar, then select \u201cExport To\u201d on the drop-down menu. Next, you need to choose ...",
+        "snippet_highlighted_words": [
+          "on keynote",
+          "on",
+          "on"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Step 1. Open your files on keynote for Mac 6.0. ; Step 2. Choose \u201cFile\u201d on the menu bar, then select \u201cExport To\u201d on the drop-down menu. Next, you need to choose ...",
+            "source_info_link": "https://www.google.com/goto?url=CAEShAEBxCJF1_lM6kZamq37x6K9lMhv_xJv8RwU86nSin1M6EhEEaZHdLigGDJXvS7XJWYOJ5YY5e_DpfsypF6psTq8jzW4aAAMggQG__AZ4rbJmprxPI0rzVe5qIr2PYBedSARMqXGvChoOv1vPyj5aZzT4f62B9NPL_jG_Dme21pqhndZtxI",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACZ0lEQVR4AcWWA5AfMRTGU9se1LaNTVLb7thTczy1vUlq2-6gtttNsrUxqO329pLz7VnZb-b7882-X_ge0Gqw4no2RGQvyMTgmEaUD7JsaVnrnubstPRoDovKAf4YbcxEz3bL71QCkydnBqkRpi7EVHgJGRHu4sWyhEq0PuE4_k-9n8WMtwIpFSSic2IA2m0Jn4CY6JdEnLL8qePSHQARflC9T0waQJnwH3CJaJB-AKkwouI48LxMQQL8sRbdKhsYgDZc6vQOFAATOTLYGVCbNuMBmNDn_5NyiHkAJt_ipbxVs4UXc1n01hC98YwCqIQPoS0Gd1r6MAdQwoTvNgXg92NE-GjE-EbDAH7L_8ECpH4T8iaBArRd8biAPkqBAWhhEl-t95v_0Y0LouJpPP-HqN_fIMKjbTsjQHJlLbtVVj8gCQgFcKeMgl0TT7k-AICqfmkRZKIBpvJZohA2H4WpA3UHFOP3b5DxKq1tXk7BERVDEzMiYqmOBfFJt14KYkkis_Gq1Yo7pfS5VzFfIhqQmUAJMbkxiRnU0CJZVbL9PJ6nnS0bQtvp4LdFb1QEStaK60UREa3bb-R5-vXbmaUduY3ji9fWzS1mojyY7GUGGaEOC28XxoSP1DMT6bb23VrAnLxMmMkZMasiIs4wYFL9dnpZEOEnIgEgk12AaanE-yMqZYiakdrAhHw36ruIXuG9Rd28wJgmT86MmZgdozIuBgaUSbXeBfFy0QwRsSVqAxJxG5MrRQystzNOJfzl6we5Pu8GkvOOOnlE0v-YyOeIiEnG1h0y0QZRtxuisj0kTo3qk93sIBUKBQDaTijs0EtDAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsEBL2dvdG8_dXJsPUNBRVNoQUVCeENKRjFfbE02a1phbXEzN3g2SzlsTWh2X3hKdjhSd1U4Nm5TaW4xTTZFaEVFYVpIZExpZ0dESlh2UzdYSldZT0o1WVk1ZV9EcGZzeXBGNnBzVHE4anpXNGFBQU1nZ1FHX19BWjRyYkptcHJ4UEkwcnpWZTVxSXIyUFlCZWRTQVJNcVhHdkNob092MXZQeWo1YVp6VDRmNjJCOU5QTF9qR19EbWUyMXBxaG5kWnR4SRIEGgIIABqOBxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDqBggAEAAYACAAKgoKA2hvdxUAAAAAKgkKAnRvFQAAAAAqaAoEdHVybhUAAAAAGghhY3RpdmF0ZRoHY29udmVydBoGZW5hYmxlGgRtYWtlGgZyb3RhdGUaBnR1cm5lZBoHdHVybmluZxoFdHVybnMaBmNoYW5nZRoKY29udmVydGluZxoGZXhwb3J0KhwKB2tleW5vdGUVcpZmQBoMaXY7cDtrZXlub3RlKk0KDXByZXNlbnRhdGlvbnMVAAAAABoMcHJlc2VudGF0aW9uGgZzbGlkZXMaBnNwZWVjaBoSaXY7cDtwcmVzZW50YXRpb25zGgVzbGlkZSodCgRpbnRvFQAAAAAaAmF0GgJpbhoCb24aBG9udG8qCAoBYRUAAAAAKg8KATUVyf8JPhoFNXBhcnQqGQoEcGFydBUAAAAAGgVwYXJ0cxoFNXBhcnQqIQoFdmlkZW8VAAAAABoGdmlkZW9zGgt2aWRlb3NlcmllcyowCgZzZXJpZXMVAAAAABoKY29sbGVjdGlvbhoIbGVjdHVyZXMaC3ZpZGVvc2VyaWVzMsEBL2dvdG8_dXJsPUNBRVNoQUVCeENKRjFfbE02a1phbXEzN3g2SzlsTWh2X3hKdjhSd1U4Nm5TaW4xTTZFaEVFYVpIZExpZ0dESlh2UzdYSldZT0o1WVk1ZV9EcGZzeXBGNnBzVHE4anpXNGFBQU1nZ1FHX19BWjRyYkptcHJ4UEkwcnpWZTVxSXIyUFlCZWRTQVJNcVhHdkNob092MXZQeWo1YVp6VDRmNjJCOU5QTF9qR19EbWUyMXBxaG5kWnR4STooQ29udmVydGluZyBhIDxiPktleW5vdGUgUHJlc2VudGF0aW9uPC9iPkLGAVN0ZXAgMS4gT3BlbiB5b3VyIGZpbGVzIDxiPm9uIGtleW5vdGU8L2I-IGZvciBNYWMgNi4wLiA7IFN0ZXAgMi4gQ2hvb3NlIOKAnEZpbGXigJ0gPGI-b248L2I-IHRoZSBtZW51IGJhciwgdGhlbiBzZWxlY3Qg4oCcRXhwb3J0IFRv4oCdIDxiPm9uPC9iPiB0aGUgZHJvcC1kb3duIG1lbnUuIE5leHQsIHlvdSBuZWVkIHRvIGNob29zZSZuYnNwOy4uLkoBYUoCdG9SAmluUgJhdFICb24iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsEBL2dvdG8_dXJsPUNBRVNoQUVCeENKRjFfbE02a1phbXEzN3g2SzlsTWh2X3hKdjhSd1U4Nm5TaW4xTTZFaEVFYVpIZExpZ0dESlh2UzdYSldZT0o1WVk1ZV9EcGZzeXBGNnBzVHE4anpXNGFBQU1nZ1FHX19BWjRyYkptcHJ4UEkwcnpWZTVxSXIyUFlCZWRTQVJNcVhHdkNob092MXZQeWo1YVp6VDRmNjJCOU5QTF9qR19EbWUyMXBxaG5kWnR4SRIEGgIIABqOBxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDqBggAEAAYACAAKgoKA2hvdxUAAAAAKgkKAnRvFQAAAAAqaAoEdHVybhUAAAAAGghhY3RpdmF0ZRoHY29udmVydBoGZW5hYmxlGgRtYWtlGgZyb3RhdGUaBnR1cm5lZBoHdHVybmluZxoFdHVybnMaBmNoYW5nZRoKY29udmVydGluZxoGZXhwb3J0KhwKB2tleW5vdGUVcpZmQBoMaXY7cDtrZXlub3RlKk0KDXByZXNlbnRhdGlvbnMVAAAAABoMcHJlc2VudGF0aW9uGgZzbGlkZXMaBnNwZWVjaBoSaXY7cDtwcmVzZW50YXRpb25zGgVzbGlkZSodCgRpbnRvFQAAAAAaAmF0GgJpbhoCb24aBG9udG8qCAoBYRUAAAAAKg8KATUVyf8JPhoFNXBhcnQqGQoEcGFydBUAAAAAGgVwYXJ0cxoFNXBhcnQqIQoFdmlkZW8VAAAAABoGdmlkZW9zGgt2aWRlb3NlcmllcyowCgZzZXJpZXMVAAAAABoKY29sbGVjdGlvbhoIbGVjdHVyZXMaC3ZpZGVvc2VyaWVzMsEBL2dvdG8_dXJsPUNBRVNoQUVCeENKRjFfbE02a1phbXEzN3g2SzlsTWh2X3hKdjhSd1U4Nm5TaW4xTTZFaEVFYVpIZExpZ0dESlh2UzdYSldZT0o1WVk1ZV9EcGZzeXBGNnBzVHE4anpXNGFBQU1nZ1FHX19BWjRyYkptcHJ4UEkwcnpWZTVxSXIyUFlCZWRTQVJNcVhHdkNob092MXZQeWo1YVp6VDRmNjJCOU5QTF9qR19EbWUyMXBxaG5kWnR4STooQ29udmVydGluZyBhIDxiPktleW5vdGUgUHJlc2VudGF0aW9uPC9iPkLGAVN0ZXAgMS4gT3BlbiB5b3VyIGZpbGVzIDxiPm9uIGtleW5vdGU8L2I-IGZvciBNYWMgNi4wLiA7IFN0ZXAgMi4gQ2hvb3NlIOKAnEZpbGXigJ0gPGI-b248L2I-IHRoZSBtZW51IGJhciwgdGhlbiBzZWxlY3Qg4oCcRXhwb3J0IFRv4oCdIDxiPm9uPC9iPiB0aGUgZHJvcC1kb3duIG1lbnUuIE5leHQsIHlvdSBuZWVkIHRvIGNob29zZSZuYnNwOy4uLkoBYUoCdG9SAmluUgJhdFICb24iAhABSABYAGgA",
+        "source": "Florida Atlantic University",
+        "read_more_link": "https://www.google.com/goto?url=CAESuAIBxCJF162EhXg1mMxVrfUc_Sr15AIfLRu9ARROoB-UmBivK9FhceOZkNVDqLp6I6JKkI6OfxGW2Er4cASF3F7Hve9voBzJZ3AyT3U0KrmHQ_lSCEjLujJxICZnkXlLwKhsKpUdd8Ya8SP1zTxgbrJW9tcN9zQW170bvg39aeTMlkTW2FBXVAWmKbdzFtjWKWX6Aiv0KvScQlV6-j6T4GTLr_KR7T5xubHi8U4xHSiXpFZzze2fX2b_KG8pOnG7WfwYAtQSGWN3o86_ILiaE0QmaGdDf9F2VyRoYtwsRHLB3xNAFrVawabLn4Bq5SXrJ00tVmcmsGG0KL_6EzYKz88GZc0j6VGtAAsF9TGjIVlo-658DpKn2NVCLBpxEQ6DrQvqbJ2e5MSmTU9CY5gRLuIlUhqBF8YXizA&gsessionid=A16mU6unFVNUIw3qdZJcSipI4YarKvSmakPp_fnCqfCfifR9Oappxg"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=How+to+turn+keynote+presentations+into+a+5-part+video+series&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDjKfk8RBnNejqWmK-y0rWGKqn0Tmg:1795355398801&ei=BvMCa_m1MNakqtsPwZGI-Qc&start=10&sa=N&sstk=AYl2yk8yrhxlmPpZ6Dbg4WCpdLhvZ35yaHEqY0xPpjCKXvkISGcmND5qV51EiqOmG1m0bAIGsGPuQdnk7XmgzpzuwrAudxAJcD3PtA&ved=2ahUKEwj50KmG3JuYAxVWkmoFHcEIIn8Q8NMDegQIOhAS",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=How+to+turn+keynote+presentations+into+a+5-part+video+series&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDjKfk8RBnNejqWmK-y0rWGKqn0Tmg:1795355398801&ei=BvMCa_m1MNakqtsPwZGI-Qc&start=10&sa=N&sstk=AYl2yk8yrhxlmPpZ6Dbg4WCpdLhvZ35yaHEqY0xPpjCKXvkISGcmND5qV51EiqOmG1m0bAIGsGPuQdnk7XmgzpzuwrAudxAJcD3PtA&ved=2ahUKEwj50KmG3JuYAxVWkmoFHcEIIn8Q8tMDegQIOhAE",
+        "3": "https://www.google.com/search?q=How+to+turn+keynote+presentations+into+a+5-part+video+series&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDjKfk8RBnNejqWmK-y0rWGKqn0Tmg:1795355398801&ei=BvMCa_m1MNakqtsPwZGI-Qc&start=20&sa=N&sstk=AYl2yk8yrhxlmPpZ6Dbg4WCpdLhvZ35yaHEqY0xPpjCKXvkISGcmND5qV51EiqOmG1m0bAIGsGPuQdnk7XmgzpzuwrAudxAJcD3PtA&ved=2ahUKEwj50KmG3JuYAxVWkmoFHcEIIn8Q8tMDegQIOhAG",
+        "4": "https://www.google.com/search?q=How+to+turn+keynote+presentations+into+a+5-part+video+series&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDjKfk8RBnNejqWmK-y0rWGKqn0Tmg:1795355398801&ei=BvMCa_m1MNakqtsPwZGI-Qc&start=30&sa=N&sstk=AYl2yk8yrhxlmPpZ6Dbg4WCpdLhvZ35yaHEqY0xPpjCKXvkISGcmND5qV51EiqOmG1m0bAIGsGPuQdnk7XmgzpzuwrAudxAJcD3PtA&ved=2ahUKEwj50KmG3JuYAxVWkmoFHcEIIn8Q8tMDegQIOhAI",
+        "5": "https://www.google.com/search?q=How+to+turn+keynote+presentations+into+a+5-part+video+series&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDjKfk8RBnNejqWmK-y0rWGKqn0Tmg:1795355398801&ei=BvMCa_m1MNakqtsPwZGI-Qc&start=40&sa=N&sstk=AYl2yk8yrhxlmPpZ6Dbg4WCpdLhvZ35yaHEqY0xPpjCKXvkISGcmND5qV51EiqOmG1m0bAIGsGPuQdnk7XmgzpzuwrAudxAJcD3PtA&ved=2ahUKEwj50KmG3JuYAxVWkmoFHcEIIn8Q8tMDegQIOhAK",
+        "6": "https://www.google.com/search?q=How+to+turn+keynote+presentations+into+a+5-part+video+series&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDjKfk8RBnNejqWmK-y0rWGKqn0Tmg:1795355398801&ei=BvMCa_m1MNakqtsPwZGI-Qc&start=50&sa=N&sstk=AYl2yk8yrhxlmPpZ6Dbg4WCpdLhvZ35yaHEqY0xPpjCKXvkISGcmND5qV51EiqOmG1m0bAIGsGPuQdnk7XmgzpzuwrAudxAJcD3PtA&ved=2ahUKEwj50KmG3JuYAxVWkmoFHcEIIn8Q8tMDegQIOhAM",
+        "7": "https://www.google.com/search?q=How+to+turn+keynote+presentations+into+a+5-part+video+series&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDjKfk8RBnNejqWmK-y0rWGKqn0Tmg:1795355398801&ei=BvMCa_m1MNakqtsPwZGI-Qc&start=60&sa=N&sstk=AYl2yk8yrhxlmPpZ6Dbg4WCpdLhvZ35yaHEqY0xPpjCKXvkISGcmND5qV51EiqOmG1m0bAIGsGPuQdnk7XmgzpzuwrAudxAJcD3PtA&ved=2ahUKEwj50KmG3JuYAxVWkmoFHcEIIn8Q8tMDegQIOhAO",
+        "8": "https://www.google.com/search?q=How+to+turn+keynote+presentations+into+a+5-part+video+series&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDjKfk8RBnNejqWmK-y0rWGKqn0Tmg:1795355398801&ei=BvMCa_m1MNakqtsPwZGI-Qc&start=70&sa=N&sstk=AYl2yk8yrhxlmPpZ6Dbg4WCpdLhvZ35yaHEqY0xPpjCKXvkISGcmND5qV51EiqOmG1m0bAIGsGPuQdnk7XmgzpzuwrAudxAJcD3PtA&ved=2ahUKEwj50KmG3JuYAxVWkmoFHcEIIn8Q8tMDegQIOhAQ"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+turn+keynote+presentations+into+a+5-part+video+series&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+turn+keynote+presentations+into+a+5-part+video+series&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+turn+keynote+presentations+into+a+5-part+video+series&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+turn+keynote+presentations+into+a+5-part+video+series&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+turn+keynote+presentations+into+a+5-part+video+series&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+turn+keynote+presentations+into+a+5-part+video+series&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+turn+keynote+presentations+into+a+5-part+video+series&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+turn+keynote+presentations+into+a+5-part+video+series&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+turn+keynote+presentations+into+a+5-part+video+series&start=70"
+      }
+    }
+  },
+  "error_details": null
+}

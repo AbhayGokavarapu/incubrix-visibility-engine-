@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://incubrix.com/#organization",
+      "name": "IncuBrix",
+      "url": "https://incubrix.com",
+      "logo": "https://incubrix.com/logo.png",
+      "email": "contact@incubrix.com",
+      "sameAs": [
+        "https://twitter.com/incubrix",
+        "https://linkedin.com/company/incubrix",
+        "https://youtube.com/@incubrix"
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://incubrix.com/#software",
+      "name": "IncuBrix",
+      "applicationCategory": "MultimediaApplication",
+      "operatingSystem": "Web Browser, Cloud-based",
+      "description": "IncuBrix is an all-in-one AI CreatorOps platform that turns long-form content into viral clips, captions, voiceovers, and scheduled posts.",
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "USD",
+        "lowPrice": "0",
+        "highPrice": "49",
+        "offerCount": "3"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "142"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "measurement_id": "fae00deb1357",
+  "question_id": "Q001",
+  "timestamp_utc": "2026-11-22T08:14:23.455215+00:00",
+  "provider_name": "Google Gemini",
+  "model_identifier": "gemini-1.5-flash",
+  "question": "How to automatically turn long YouTube videos into viral TikToks with AI?",
+  "market": "US",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "FAILED",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [],
+  "raw_text_summary": "",
+  "raw_payload": null,
+  "error_details": "Provider unconfigured: NOT CONFIGURED"
+}

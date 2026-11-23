@@ -1,0 +1,252 @@
+{
+  "measurement_id": "05330f7bf6b9",
+  "question_id": "Q003",
+  "timestamp_utc": "2026-11-23T08:57:50.331551+00:00",
+  "provider_name": "Google Gemini",
+  "model_identifier": "gemini-2.5-flash",
+  "question": "Best AI tools for video repurposing in 2026",
+  "market": "US",
+  "collection_method": "DAY_2_AUTOMATED_API",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [
+    "Opus Clip",
+    "Descript",
+    "Munch",
+    "Kapwing"
+  ],
+  "position": null,
+  "citations": [
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE81i-K4rPoe3jG4fg7UhY3vUKRQKgY4oAKowTsXeZcL6PICp6M5h9YA64ETdtZiraHUFhQSk8uzdwF9w_I_bMEuqDYi7EoCwD8DM097Dl7_TxFxpz85lHtsh5yldNqzJKn1-t5s3ZICzf4w22Bu5Po8BDl",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdWM4-K_mf674g2AsLqEjH6SbUq5S4U23zpveqtEaFr2zZu3ovlxg49diYdzyrhv2NeBVyUSKJmC7LTFhOaewWfTmydjr7mqp1azPNGwIMGbFg6vIM0Lhce5rPwvafNWESAPsmR6RUdB58btoH89ZD",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0rURBhMF8yjbLaZ4K72rHteR-oIKVukl4ktlpqu4o62p8rmoLHX8zuKjAS7Yyp2sBDdKxvbmdMEfPZKY91AcU4PNVMIfylFSa37GZD3i__-MMT5NBblM22Bsga__OteGpvNRkdAckH-4vTDJsQMVMlAw=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC9bt5ynJrGw5nxoH7qEXWm6xPyQS_JukWu0iejxQSyjXeYlSLzgd8J6rVBXw6CtsEvFXh4DCxvD-PHtjqL6wL0AGMATO6UxDRqtUrt-yBeLa15-Iz8fQVg30JdtgDic6hpb84lSRKZIFu7w7hx3nK",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbXq1VSLGggu26dKEk82Tu9RCgTlSvvlIcQ-XVQpNK5Sijw-Nn8GPNYUen-1_qfNzhsIRskCsWvq09vhEXCJdrw5MFn_CUpToF5bLu-0pgOzD7ZUNcBzKJtLFgUxACEVOBzIXtvzyKUA3OIAz8sjUfPYQapP9bghTTLWs=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWC83vZ23vVPvyka4V9UpD65ik7kIi_R0JKn9uBgxi8_QnySjdIsLJYQa99040g-ftyEkYDg33QwdUOrDOiWaxc0tXJdTrqj1r0G-krP4bakZR39UMfn3NOHhSAIEirCvYNk0hv3N11vLDpA==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5r81Ur4ZD-ZNLL6u9tMwtCjaCJ6NWjC00v3JzGPGcjJcYJBucsyXiUOwKDfC5Qy7eHjUQRd2SDc07RLSp5OX-Wlus-2hxwJhkns4L4h1hW65X8EJIM0K3XSg4Ed35sCbMSfPadj_Ds__A08f7RQdap1ASPw==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEN3g_Mil_orchkITaS7FdLJ4FQd0Yaxll4VfMKMA1P_wQI1NLxIGPpwybPpiSNckCP89_6-S0Nu4r06sGoVBXQVAdUWklU7fk6z0FBLKAfZrVpeaphCCc2RcXdzVt931G-0gTkfJJnoe7U1i-bHCLKlAWxg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6Vm7GlCllp9JmqJhIbkYA1uPgmZ2GC2LpXIQ6i1n4R6go5x3IlISb-2Axn0J5kCY8YqwkA7kgra4TOInC79R-Emb8_b0opxZQzmUqoE-gJJIrD16ZGFnxA8oBJoQfbXfLx_IAkrVZniO4_aYrWW5DF0M=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoBzezdQ91m3hbXuOZsrVgqS3XzVFBkPhh1Ez4goH-lihqwXTykKDzfACXj8GLpIlHJkjSL8i5_5xB_4z73wNT9EQxmJkW1E7C1fMYhUn1EeIBOZK84fXma_NlI_QJJsUIA81DhRkx5mv5dGpqKVG6K0ilbiQDYwRQ_jQ=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3yOVDVAB59rptnf0TlNWB5maNH_8vUSJ8qZip8fFyh--h3bvXwvMNeb1kfjbk5rBKEI1d1_SBvzcqk_DBHcBdfs4OnCE05MwmtKEglAX1nwoTf9df2ZJfaaWhme2ngJBF0YyQxsvryGw7JYBZbzZnRvDLMg==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7hVVm9RG_JK63UhIGL5ua1LWoGDi3S1KTPOxD76wcjdA5lPQE147E1IMf8Far8BgL9vhXWsZMasLFjehfwZHoeCk3rBFPGIcmmK40EXOn9BJFdsj_oYbzn4bPzQufPkWQoczwYnBWLMNW6vExxXM4rSqgT-C64IUPdxeKUtu8Ucf4w==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGld16sG_bN-JaumIzvFrK-Q9ULMw873bfzSwzP5rdBOmKXnDo3jFoADac0SlAr6IH6G8IcHp0SbwWf8_YotFSQyiqq3AQOWklsbRB0CP6u0zkqanb7LhTI8XOKpHJHuQAYro-42NJiy_9D09DnHDSV8tF34TCl0G1oglHF3zk=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMREwl4G3Zc0vmzoEo0AczVHgyFK4GZVyGqQ_W0Fs1UDtXtCWsbcqWa3fFysYTiUOdUQ9rgJzU-ACtS5ZBQ5bvVV2qdyVYMnBLCpbX5CvbpM_3-hNojXJ3CiDk3_vezliTEPVVK1-qAFWORY6JeiKSZQ1o748e9T-0sBKALuVe4o-VGZCmqVN78ip3px6IRI5CFFQzWnu8wWCDxI-2Y6EyL7s_",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3eyPeXcuIM14uNuOI8y7t4YitgaGCKiee8cJat8xJXyzkt57010UpzcZ0yHmS1qNFKZSVrRufnqQicMsn30GhRGJHHDw0GVsOJuIdf8-QHzgT5Sz5MHE_ixOO6SJd9wV3VxElC5AAU2cYnU8pI4uetteYEWUmGR2b4oOwoSKxQ_e4HhTXOlqtsHQyvFWOegHZcg3UXC4LW1l4I3cWYmzuAd3bxwO4O4eksvg=",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpUp5kdk3QRPx97-SliIXHw9nNBEDvj7Dh4c3camVvH3GLF5QaQSDkCegFOkFVwOC3T6HA6wR0NmsFYZA3WBx4on7etrCaVDRXb-F6-9Zy_c2wtKGnNRm3KHcczUIf8uHClfJNEvXR_18ggJaAkk_WCcmeR3GBxDnfTFW3I8RwCbJ1T6IbzRHdWOgFAdby7q6cLJjvlyHEgToSSZqoJ-3dHJ_ZAjhHXpOLI9Mv5fdxq_nnuQfVwQ==",
+    "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr9JrifM5ssuEgxLqGEPbpt9kDz4U3qeGtWQAPDw0dQJhi-fKHuHBwa8gQzckfBdcDOXUw3dJR6yHtYvHvzgVcq5NwLfCWGF9CGcTmmW3ller-Wxqcr6v-n8qJWApjPgmSVHVHV-d_hXvtEQZm91urxSleNAQqTtjTNL1uoCLECxzXRh5UiU8aFmSmbU62i8OWvps1XK23w5ygfr1nfiIn"
+  ],
+  "raw_text_summary": "By 2026, Artificial Intelligence (AI) tools for video repurposing are evolving beyond simple automation, offering more integrated, intelligent, and workflow-driven solutions for content creators and businesses alike. The focus is shifting from individual tasks to comprehensive, agentic AI systems that can handle entire post-production pipelines, from content generation to multi-platform distribution.\n\nHere are some of the leading AI tools for video repurposing in 2026, categorized by their primary strengths, along with key trends shaping their development:\n\n**Leading AI Tools for Video Repurposing in 2026:**\n\n**1. For Extracting Short, Viral Clips from Long-Form Video:**\n\n*   **Opus Clip:** Widely recognized for transforming long videos into short, shareable clips with a single click. It's particularly effective for social media managers, marketers, and content creators, offering features like virality scoring, auto-captions, and reframing. Opus Clip excels at high-volume AI clipping and can suggest clips with viral potential.\n*   **Vizard:** This tool specializes in extracting short clips from long videos, such as webinars, podcasts, and Zoom recordings, with AI highlight detection and instant reframing. It boasts strong user reviews for its clean user experience and effective hook detection.\n*   **Munch AI:** Designed to simplify video editing and allow for content tweaking after AI processing. It offers features like coherence scoring and is noted for repurposing webinars and longer sessions at scale.\n\n**2. For Comprehensive Video Editing with AI Assistance:**\n\n*   **Descript:** Stands out for its text-based video and audio editing, allowing users to edit video by editing its transcript. This makes it ideal for podcasts, interviews, and content where transcript review is central to the process. Descript also offers a full video editing suite with AI repurposing capabilities.\n*   **Kapwing:** A browser-based tool that provides AI clipping within a broader editing workflow. It's favored by collaborative teams for fast, self-service short-form video production and quick edits for social media [cite: 6,  By 2026, Artificial Intelligence (AI) tools for video repurposing are evolving beyond simple automation, offering more integrated, intelligent, and workflow-driven solutions for content creators and businesses alike. The focus is shifting from individual tasks to comprehensive, agentic AI systems that can handle entire post-production pipelines, from content generation to multi-platform distribution [cite: 1, 2, 5, 13].\n\nHere are some of the leading AI tools for video repurposing in 2026, categorized by their primary strengths, along with key trends shaping their development:\n\n**Leading AI Tools for Video Repurposing in 2026:**\n\n**1. For Extracting Short, Viral Clips from Long-Form Video:**\n\n*   **Opus Clip:** Widely recognized for transforming long videos into short, shareable clips with a single click. It's particularly effective for social media managers, marketers, and content creators, offering features like virality scoring, auto-captions, and reframing [cite: 6, 7, 8, 18, 19]. Opus Clip excels at high-volume AI clipping and can suggest clips with viral potential [cite: 18].\n*   **Vizard:** This tool specializes in extracting short clips from long videos, such as webinars, podcasts, and Zoom recordings, with AI highlight detection and instant reframing. It boasts strong user reviews for its clean user experience and effective hook detection [cite: 6, 14, 18].\n*   **Munch AI:** Designed to simplify video editing and allow for content tweaking after AI processing. It offers features like coherence scoring and is noted for repurposing webinars and longer sessions at scale [cite: 6, 18, 19].\n\n**2. For Comprehensive Video Editing with AI Assistance:**\n\n*   **Descript:** Stands out for its text-based video and audio editing, allowing users to edit video by editing its transcript. This makes it ideal for podcasts, interviews, and content where transcript review is central to the process. Descript also offers a full video editing suite with AI repurposing capabilities [cite: 6, 7, 8, 10, 12, 14, 15, 18].\n*   **Kapwing:** A browser-based tool that provides AI clipping within a broader editing workflow. It's favored by collaborative teams for fast, self-service short-form video production and quick edits for social media [cite: 6, ",
+  "raw_payload": {
+    "candidates": [
+      {
+        "content": {
+          "parts": [
+            {
+              "text": "By 2026, Artificial Intelligence (AI) tools for video repurposing are evolving beyond simple automation, offering more integrated, intelligent, and workflow-driven solutions for content creators and businesses alike. The focus is shifting from individual tasks to comprehensive, agentic AI systems that can handle entire post-production pipelines, from content generation to multi-platform distribution.\n\nHere are some of the leading AI tools for video repurposing in 2026, categorized by their primary strengths, along with key trends shaping their development:\n\n**Leading AI Tools for Video Repurposing in 2026:**\n\n**1. For Extracting Short, Viral Clips from Long-Form Video:**\n\n*   **Opus Clip:** Widely recognized for transforming long videos into short, shareable clips with a single click. It's particularly effective for social media managers, marketers, and content creators, offering features like virality scoring, auto-captions, and reframing. Opus Clip excels at high-volume AI clipping and can suggest clips with viral potential.\n*   **Vizard:** This tool specializes in extracting short clips from long videos, such as webinars, podcasts, and Zoom recordings, with AI highlight detection and instant reframing. It boasts strong user reviews for its clean user experience and effective hook detection.\n*   **Munch AI:** Designed to simplify video editing and allow for content tweaking after AI processing. It offers features like coherence scoring and is noted for repurposing webinars and longer sessions at scale.\n\n**2. For Comprehensive Video Editing with AI Assistance:**\n\n*   **Descript:** Stands out for its text-based video and audio editing, allowing users to edit video by editing its transcript. This makes it ideal for podcasts, interviews, and content where transcript review is central to the process. Descript also offers a full video editing suite with AI repurposing capabilities.\n*   **Kapwing:** A browser-based tool that provides AI clipping within a broader editing workflow. It's favored by collaborative teams for fast, self-service short-form video production and quick edits for social media [cite: 6, "
+            },
+            {
+              "text": "By 2026, Artificial Intelligence (AI) tools for video repurposing are evolving beyond simple automation, offering more integrated, intelligent, and workflow-driven solutions for content creators and businesses alike. The focus is shifting from individual tasks to comprehensive, agentic AI systems that can handle entire post-production pipelines, from content generation to multi-platform distribution [cite: 1, 2, 5, 13].\n\nHere are some of the leading AI tools for video repurposing in 2026, categorized by their primary strengths, along with key trends shaping their development:\n\n**Leading AI Tools for Video Repurposing in 2026:**\n\n**1. For Extracting Short, Viral Clips from Long-Form Video:**\n\n*   **Opus Clip:** Widely recognized for transforming long videos into short, shareable clips with a single click. It's particularly effective for social media managers, marketers, and content creators, offering features like virality scoring, auto-captions, and reframing [cite: 6, 7, 8, 18, 19]. Opus Clip excels at high-volume AI clipping and can suggest clips with viral potential [cite: 18].\n*   **Vizard:** This tool specializes in extracting short clips from long videos, such as webinars, podcasts, and Zoom recordings, with AI highlight detection and instant reframing. It boasts strong user reviews for its clean user experience and effective hook detection [cite: 6, 14, 18].\n*   **Munch AI:** Designed to simplify video editing and allow for content tweaking after AI processing. It offers features like coherence scoring and is noted for repurposing webinars and longer sessions at scale [cite: 6, 18, 19].\n\n**2. For Comprehensive Video Editing with AI Assistance:**\n\n*   **Descript:** Stands out for its text-based video and audio editing, allowing users to edit video by editing its transcript. This makes it ideal for podcasts, interviews, and content where transcript review is central to the process. Descript also offers a full video editing suite with AI repurposing capabilities [cite: 6, 7, 8, 10, 12, 14, 15, 18].\n*   **Kapwing:** A browser-based tool that provides AI clipping within a broader editing workflow. It's favored by collaborative teams for fast, self-service short-form video production and quick edits for social media [cite: 6, "
+            }
+          ],
+          "role": "model"
+        },
+        "finishReason": "MAX_TOKENS",
+        "index": 0,
+        "groundingMetadata": {
+          "searchEntryPoint": {
+            "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMREwl4G3Zc0vmzoEo0AczVHgyFK4GZVyGqQ_W0Fs1UDtXtCWsbcqWa3fFysYTiUOdUQ9rgJzU-ACtS5ZBQ5bvVV2qdyVYMnBLCpbX5CvbpM_3-hNojXJ3CiDk3_vezliTEPVVK1-qAFWORY6JeiKSZQ1o748e9T-0sBKALuVe4o-VGZCmqVN78ip3px6IRI5CFFQzWnu8wWCDxI-2Y6EyL7s_\">AI video repurposing trends 2026</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3eyPeXcuIM14uNuOI8y7t4YitgaGCKiee8cJat8xJXyzkt57010UpzcZ0yHmS1qNFKZSVrRufnqQicMsn30GhRGJHHDw0GVsOJuIdf8-QHzgT5Sz5MHE_ixOO6SJd9wV3VxElC5AAU2cYnU8pI4uetteYEWUmGR2b4oOwoSKxQ_e4HhTXOlqtsHQyvFWOegHZcg3UXC4LW1l4I3cWYmzuAd3bxwO4O4eksvg=\">best AI tools for video repurposing 2024</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpUp5kdk3QRPx97-SliIXHw9nNBEDvj7Dh4c3camVvH3GLF5QaQSDkCegFOkFVwOC3T6HA6wR0NmsFYZA3WBx4on7etrCaVDRXb-F6-9Zy_c2wtKGnNRm3KHcczUIf8uHClfJNEvXR_18ggJaAkk_WCcmeR3GBxDnfTFW3I8RwCbJ1T6IbzRHdWOgFAdby7q6cLJjvlyHEgToSSZqoJ-3dHJ_ZAjhHXpOLI9Mv5fdxq_nnuQfVwQ==\">top AI video editing software for content creators</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr9JrifM5ssuEgxLqGEPbpt9kDz4U3qeGtWQAPDw0dQJhi-fKHuHBwa8gQzckfBdcDOXUw3dJR6yHtYvHvzgVcq5NwLfCWGF9CGcTmmW3ller-Wxqcr6v-n8qJWApjPgmSVHVHV-d_hXvtEQZm91urxSleNAQqTtjTNL1uoCLECxzXRh5UiU8aFmSmbU62i8OWvps1XK23w5ygfr1nfiIn\">future of AI in video editing</a>\n  </div>\n</div>\n"
+          },
+          "groundingChunks": [
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE81i-K4rPoe3jG4fg7UhY3vUKRQKgY4oAKowTsXeZcL6PICp6M5h9YA64ETdtZiraHUFhQSk8uzdwF9w_I_bMEuqDYi7EoCwD8DM097Dl7_TxFxpz85lHtsh5yldNqzJKn1-t5s3ZICzf4w22Bu5Po8BDl",
+                "title": "avs4you.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdWM4-K_mf674g2AsLqEjH6SbUq5S4U23zpveqtEaFr2zZu3ovlxg49diYdzyrhv2NeBVyUSKJmC7LTFhOaewWfTmydjr7mqp1azPNGwIMGbFg6vIM0Lhce5rPwvafNWESAPsmR6RUdB58btoH89ZD",
+                "title": "cutback.video"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0rURBhMF8yjbLaZ4K72rHteR-oIKVukl4ktlpqu4o62p8rmoLHX8zuKjAS7Yyp2sBDdKxvbmdMEfPZKY91AcU4PNVMIfylFSa37GZD3i__-MMT5NBblM22Bsga__OteGpvNRkdAckH-4vTDJsQMVMlAw=",
+                "title": "reap.video"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC9bt5ynJrGw5nxoH7qEXWm6xPyQS_JukWu0iejxQSyjXeYlSLzgd8J6rVBXw6CtsEvFXh4DCxvD-PHtjqL6wL0AGMATO6UxDRqtUrt-yBeLa15-Iz8fQVg30JdtgDic6hpb84lSRKZIFu7w7hx3nK",
+                "title": "loopdesk.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbXq1VSLGggu26dKEk82Tu9RCgTlSvvlIcQ-XVQpNK5Sijw-Nn8GPNYUen-1_qfNzhsIRskCsWvq09vhEXCJdrw5MFn_CUpToF5bLu-0pgOzD7ZUNcBzKJtLFgUxACEVOBzIXtvzyKUA3OIAz8sjUfPYQapP9bghTTLWs=",
+                "title": "videotap.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWC83vZ23vVPvyka4V9UpD65ik7kIi_R0JKn9uBgxi8_QnySjdIsLJYQa99040g-ftyEkYDg33QwdUOrDOiWaxc0tXJdTrqj1r0G-krP4bakZR39UMfn3NOHhSAIEirCvYNk0hv3N11vLDpA==",
+                "title": "zapier.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5r81Ur4ZD-ZNLL6u9tMwtCjaCJ6NWjC00v3JzGPGcjJcYJBucsyXiUOwKDfC5Qy7eHjUQRd2SDc07RLSp5OX-Wlus-2hxwJhkns4L4h1hW65X8EJIM0K3XSg4Ed35sCbMSfPadj_Ds__A08f7RQdap1ASPw==",
+                "title": "chatcut.io"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEN3g_Mil_orchkITaS7FdLJ4FQd0Yaxll4VfMKMA1P_wQI1NLxIGPpwybPpiSNckCP89_6-S0Nu4r06sGoVBXQVAdUWklU7fk6z0FBLKAfZrVpeaphCCc2RcXdzVt931G-0gTkfJJnoe7U1i-bHCLKlAWxg==",
+                "title": "blotato.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6Vm7GlCllp9JmqJhIbkYA1uPgmZ2GC2LpXIQ6i1n4R6go5x3IlISb-2Axn0J5kCY8YqwkA7kgra4TOInC79R-Emb8_b0opxZQzmUqoE-gJJIrD16ZGFnxA8oBJoQfbXfLx_IAkrVZniO4_aYrWW5DF0M=",
+                "title": "tugan.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoBzezdQ91m3hbXuOZsrVgqS3XzVFBkPhh1Ez4goH-lihqwXTykKDzfACXj8GLpIlHJkjSL8i5_5xB_4z73wNT9EQxmJkW1E7C1fMYhUn1EeIBOZK84fXma_NlI_QJJsUIA81DhRkx5mv5dGpqKVG6K0ilbiQDYwRQ_jQ=",
+                "title": "distribution.ai"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3yOVDVAB59rptnf0TlNWB5maNH_8vUSJ8qZip8fFyh--h3bvXwvMNeb1kfjbk5rBKEI1d1_SBvzcqk_DBHcBdfs4OnCE05MwmtKEglAX1nwoTf9df2ZJfaaWhme2ngJBF0YyQxsvryGw7JYBZbzZnRvDLMg==",
+                "title": "ngram.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF7hVVm9RG_JK63UhIGL5ua1LWoGDi3S1KTPOxD76wcjdA5lPQE147E1IMf8Far8BgL9vhXWsZMasLFjehfwZHoeCk3rBFPGIcmmK40EXOn9BJFdsj_oYbzn4bPzQufPkWQoczwYnBWLMNW6vExxXM4rSqgT-C64IUPdxeKUtu8Ucf4w==",
+                "title": "happyscribe.com"
+              }
+            },
+            {
+              "web": {
+                "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGld16sG_bN-JaumIzvFrK-Q9ULMw873bfzSwzP5rdBOmKXnDo3jFoADac0SlAr6IH6G8IcHp0SbwWf8_YotFSQyiqq3AQOWklsbRB0CP6u0zkqanb7LhTI8XOKpHJHuQAYro-42NJiy_9D09DnHDSV8tF34TCl0G1oglHF3zk=",
+                "title": "reelsfarm.com"
+              }
+            }
+          ],
+          "groundingSupports": [
+            {
+              "segment": {
+                "startIndex": 217,
+                "endIndex": 402,
+                "text": "The focus is shifting from individual tasks to comprehensive, agentic AI systems that can handle entire post-production pipelines, from content generation to multi-platform distribution"
+              },
+              "groundingChunkIndices": [
+                0,
+                1,
+                2,
+                3
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 796,
+                "endIndex": 953,
+                "text": "It's particularly effective for social media managers, marketers, and content creators, offering features like virality scoring, auto-captions, and reframing"
+              },
+              "groundingChunkIndices": [
+                4,
+                5,
+                6,
+                7,
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 955,
+                "endIndex": 1041,
+                "text": "Opus Clip excels at high-volume AI clipping and can suggest clips with viral potential"
+              },
+              "groundingChunkIndices": [
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1225,
+                "endIndex": 1313,
+                "text": "It boasts strong user reviews for its clean user experience and effective hook detection"
+              },
+              "groundingChunkIndices": [
+                4,
+                9,
+                7
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1420,
+                "endIndex": 1528,
+                "text": "It offers features like coherence scoring and is noted for repurposing webinars and longer sessions at scale"
+              },
+              "groundingChunkIndices": [
+                4,
+                7,
+                8
+              ]
+            },
+            {
+              "segment": {
+                "startIndex": 1829,
+                "endIndex": 1909,
+                "text": "Descript also offers a full video editing suite with AI repurposing capabilities"
+              },
+              "groundingChunkIndices": [
+                4,
+                5,
+                6,
+                10,
+                11,
+                9,
+                12,
+                7
+              ]
+            }
+          ],
+          "webSearchQueries": [
+            "best AI tools for video repurposing 2024",
+            "top AI video editing software for content creators",
+            "AI video repurposing trends 2026",
+            "future of AI in video editing"
+          ]
+        }
+      }
+    ],
+    "usageMetadata": {
+      "promptTokenCount": 38,
+      "candidatesTokenCount": 1028,
+      "totalTokenCount": 2258,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 38
+        }
+      ],
+      "toolUsePromptTokenCount": 400,
+      "toolUsePromptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 400
+        }
+      ],
+      "thoughtsTokenCount": 792,
+      "serviceTier": "standard"
+    },
+    "modelVersion": "gemini-2.5-flash",
+    "responseId": "BAAEa4adC7eQmNMPvpqM8AQ"
+  },
+  "error_details": null
+}

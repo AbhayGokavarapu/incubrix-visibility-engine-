@@ -1,0 +1,466 @@
+{
+  "measurement_id": "f295c66f38e9",
+  "question_id": "Q044",
+  "timestamp_utc": "2026-11-22T13:48:08.555639+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "How do top creators repurpose long form content into weekly newsletters?",
+  "market": "UK",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://www.facebook.com/TheJessCassity/posts/you-should-be-creating-at-least-one-new-piece-of-long-form-content-a-week-this-c/9329019807114536/",
+    "https://mikeromaine.com/newsletter-repurposing/",
+    "https://www.google.com/goto?url=CAESdAHEIkXXMY40MDoYbya_pjUjTSqgoMSoTVnJrFRCx-hvAzOQtbO7mZHw3gOdnCXUtlySz9R-6wlgLoGNPnN3Wf2WFnYMJ0wymNY7CXDR12dGS0b24KGkpw0ZLE1vmjVurK894QkCbDZlObRMzAyj2TciVal2",
+    "https://www.google.com/goto?url=CAEStgEBxCJF17htb_ySOScJYV8K78Or-N0qqrnjP-_7ZKEXp72rt-FAIxQlh8yzSMYU6rtsL_IE8V2A2s8qTwHfrGgCwG_vEpgqH9Y5MljVfML1VLKZHALxxOn3b1rNjfhCJWI4dZtHBgA1CtdsXO0uCgocRWZJpl9W2THm_LCpgvat-tHirp8tPjySksjQ076SVtUq11Tm-4KPaYJOXMZ750P_3vW5ak6l-rDtodwDYaCB9WSyTG0gLg",
+    "https://www.google.com/goto?url=CAESgQEBxCJF13v-PIDs0olK9E5CW3j7wHyNqmuh82ILLv1SejBcpzQB4_QCfz9DKxpSOArUO0STWfHeeAwr0azbDFp2QLLScZeZAN2LhBjYeO8byhqxMUHMa5yrRt5MqZrtJ0_6SQoTzxcUdOB53U-jQXVxUeHniD2E2SqEKHSvBv_jOYg",
+    "https://www.google.com/goto?url=CAEShAEBxCJF19kkzl4ZTRjwIFBM9eQVygLdWPWVCz9I6BQLFxTS7nyEZ7_UOp_hjJ0kxxRMK0qgDAYyF6pL1b7_8vrH-pzDNo5SdVvwcu_GmHdiKEVC03vZGNlLBIob9nglJMwH37rsINGyDaUdMVUZz7nCHNew3dI-rwnrXYW9ahPj-R5C994",
+    "https://www.google.com/goto?url=CAESnAEBxCJF17OZkpHfaiH0xCwBoPic-obCcO-TVBJymbytg62DEGMWl9Ny8UcIP1isqBFPPzu4ZJ1V-2wE1F6-Hpz1hRS_XmbTkonuf_LOdDI6nAremivj9N94ez8vtehyt2uwROahcqnYkeNoGphCE2PMM8fnwpf7oprQ823sIJEcSvUCZSlYTRqWYOriMnmRd7lP5H52Wwnu-ttjTpQ"
+  ],
+  "raw_text_summary": "How to repurpose content with weekly long-form pieces The key is to use this long form to repurpose content and drive traffic from all other sources to your new long form content each week. How Top Creators Repurpose Content For Their Newsletter A lot of the repurposing we see is about trimming down the content and leaving the depth for the newsletter/article. Let's take a look at how the two compare in ... How To Repurpose Content: The Complete Guide 1. Distribute Content Across Platforms ... Different platforms serve different audiences. Repurposing allows you to tailor your content for each ... Repurpose Newsletter Content for Maximum Impact \u2714\ufe0fSlice long-form content into micro-content. Take a 1500-word article and pull out 5 to 7 strong ideas that each become their own social media post. Content Repurposing System for Creators: Turn One Idea ... Learn how creators can turn one video, blog, podcast, webinar or lesson into social posts, emails, SEO content and community prompts. Ultimate Guide To Repurposing Content For Newsletters How to Repurpose? Simplify and reformat content into short, actionable snippets, add visuals, and tailor messaging to different audiences. The Best Content Repurposing Tools (and What They Actually ... Repurpose.io is a content repurposing tool that takes a video or podcast episode and turns it into platform-ready clips, then publishes them ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f2961f3d9a1c47c5fa36",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/HzFitgouyp2uSIRwRkPyPji2N4UdWwiR7mtvr_eQnHY/6b02f2961f3d9a1c47c5fa36.json",
+      "markdown_endpoint": "https://serpapi.com/searches/HzFitgouyp2uSIRwRkPyPji2N4UdWwiR7mtvr_eQnHY/6b02f2961f3d9a1c47c5fa36.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/HzFitgouyp2uSIRwRkPyPji2N4UdWwiR7mtvr_eQnHY/6b02f2961f3d9a1c47c5fa36.json_with_pixel_position",
+      "created_at": "2026-11-22 13:48:06 UTC",
+      "processed_at": "2026-11-22 13:48:06 UTC",
+      "google_url": "https://www.google.com/search?q=How+do+top+creators+repurpose+long+form+content+into+weekly+newsletters%3F&oq=How+do+top+creators+repurpose+long+form+content+into+weekly+newsletters%3F&hl=en&gl=uk&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/HzFitgouyp2uSIRwRkPyPji2N4UdWwiR7mtvr_eQnHY/6b02f2961f3d9a1c47c5fa36.html",
+      "total_time_taken": 0.67
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "How do top creators repurpose long form content into weekly newsletters?",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "uk",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "How do top creators repurpose long form content into weekly newsletters?",
+      "total_results": 183,
+      "time_taken_displayed": 0.23,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "Easy Weekly Newsletter From Long Form Video Content",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXg18nAGntcs1-_Ud0Xh_nL-BN3VEhPfrTD3JBVlNxWntwCORtq20uOIdiSHCVchK7ZwtSGrGAWoq5xum5XAQumfmBWJUotJn4RrDQC8FYo217OJQfDxuYpxtjyWZi0FnwnRH2&gsessionid=haX-IOyi4XVwA8s5xw8eu0NQgS9FaauJdkrqHtpYrUejG9AgrYaDig",
+        "thumbnail": "https://serpapi.com/searches/6b02f2961f3d9a1c47c5fa36/images/VNh_LipRggEgEtaWIpWpcHSTmOc-6Y1mJIz8jmsoS6Y.jpg",
+        "channel": "Stephanie Kase",
+        "duration": "9:06",
+        "platform": "YouTube",
+        "date": "13 May 2025",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcReW9QaSQPXpWVdd2RvtX1T0TN_5Qrf4M8S6w",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "Turning Videos into Emails",
+            "link": "https://www.google.com/goto?url=CAESbAHEIkXXokP9S3exZ9_-nMuaC6EbX7BoHYqKvVLrQO-EthwUnKQ4HNayegdg7-10YQFZhljVI9hiuJvVVaLoYHhUWW7CI5WJtK2WS9VowaOKfzH5azN29_EZVaVM6nWYAVyBmVeOjXdaf2uebw&gsessionid=haX-IOyi4XVwA8s5xw8eu0NQgS9FaauJdkrqHtpYrUejG9AgrYaDig"
+          },
+          {
+            "time": "00:53",
+            "title": "Define your Message",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXX-ILHLjLto_Kb5FbvqA8yyRlDbSf4v0UEOjHj8BGWM8YhQvfQzj3PmJPO7lwtgLEL6cQhOxKn-3UeWWoO1HodCam3SesC4XeukiWvrxtQFNswXrPbIJ2tafQ2sCst5hfrvJf8MaxKRpQ&gsessionid=haX-IOyi4XVwA8s5xw8eu0NQgS9FaauJdkrqHtpYrUejG9AgrYaDig"
+          },
+          {
+            "time": "02:05",
+            "title": "Writing the Email",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXmQB3-3iB_DNZqkNCX3Cf-NHVIdS5jqE5sT2ilzm9QgcvijxXEud7zMLX_LQvC3x05JlncffC3gREyq-x5wq2puF7QHTmuTbJ9bcdherdLSl20e0uy7K6r3ztzLFzuIs3r1Y3f81lghEI&gsessionid=haX-IOyi4XVwA8s5xw8eu0NQgS9FaauJdkrqHtpYrUejG9AgrYaDig"
+          },
+          {
+            "time": "03:41",
+            "title": "Email Example",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXaRA6Nr801tBnIIFugG4aqHSRqQgkp81QINmb9ig679IWYtTzFoPcqPf9nmi0Oxm0f4YpsQSAOGgui4ehOSPJj_l8vD5pLPPC2YlE9MvOOPETFF_ynIZKBJ2ogA9sQIi4O2JhFwXUsiMm&gsessionid=haX-IOyi4XVwA8s5xw8eu0NQgS9FaauJdkrqHtpYrUejG9AgrYaDig"
+          },
+          {
+            "time": "04:33",
+            "title": "Bonus Tip",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXX8c0R9J6CxqCvNeJFkXzByyxAV3rSxRRmcout6Y3Aez8vZWs_iQewPmy88rhnZpAbg9QWyrH0KxuhiohAi7-WP-qPW4NNpbTcL6WUdReJS2n_FIGKX42VXKj6KUhLIfbMQKe2r-1L9kpv&gsessionid=haX-IOyi4XVwA8s5xw8eu0NQgS9FaauJdkrqHtpYrUejG9AgrYaDig"
+          },
+          {
+            "time": "05:41",
+            "title": "Evergreen Content System",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXQsvnuVnUC2vsljdpDt-rLS35XUvYg6y2zgzZU_cJYdpctUpDT3o5QGyn-IqtMkYlhYyVtv8WkEVDcmRWvuMsRQnFCmo1fECN0NSxvPsXwgxKii7kqXiuH77s_eCKzfOk9yrVYYCGdLpT&gsessionid=haX-IOyi4XVwA8s5xw8eu0NQgS9FaauJdkrqHtpYrUejG9AgrYaDig"
+          },
+          {
+            "time": "08:11",
+            "title": "Emails by Category",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXbd4YEsY4rqLDvl-D5aBUY6aIMH4bdm7-1FW8eXUVfa9iUZLGGmQdg29Rya4IB-jAcM6CGw0_sale8y3Eb5RIcARekT6GETl_XA8GFBy90gebyN_5pUsjCIvF2lHUWw96oWgLCne8iXzn&gsessionid=haX-IOyi4XVwA8s5xw8eu0NQgS9FaauJdkrqHtpYrUejG9AgrYaDig"
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "title": "Content Repurposing for Creatives: Work Less, Post More",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXZKt7BDMfEgsJG7HruNdk8nnV6CbLuB-EyzCL5RnNYrBV2yRsinhEA-dcV_KVIYBMwTWSn0vr7CkgEGfRYR2qau2YXOtAq6-IVjuGKblQhq9KCe_W1ywyl_cqrcT7LbygmMk1&gsessionid=haX-IOyi4XVwA8s5xw8eu0NQgS9FaauJdkrqHtpYrUejG9AgrYaDig",
+        "thumbnail": "https://serpapi.com/searches/6b02f2961f3d9a1c47c5fa36/images/VU45T4t_KrxGU0KpF7vPqOAO4UMsWdHEWHk1bA5CRrI.jpg",
+        "channel": "marketing by shelby",
+        "duration": "14:19",
+        "platform": "YouTube",
+        "date": "21 Jun 2026"
+      },
+      {
+        "position": 3,
+        "title": "Turn Your Videos into Email Newsletters with OpusClip & beehiiv",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXbvyZie9Aq6SYdRTBxHJYCQ1g5H6ciJ0s39U8MzjegukbN0PjC1UL8OLaYi_PZBIXDWIyTHc50oFIj4FI4NQBCoLeg8k6VHvPJnKGbw7AkT4f_cL_ccwuyLNjyy9Tcc9CxNoi&gsessionid=haX-IOyi4XVwA8s5xw8eu0NQgS9FaauJdkrqHtpYrUejG9AgrYaDig",
+        "thumbnail": "https://serpapi.com/searches/6b02f2961f3d9a1c47c5fa36/images/UPxPpiIA5Xkc6hRr4U_I7akEnBhAX4T0zNyvq89smKA.jpg",
+        "channel": "OpusClip",
+        "duration": "59:09",
+        "platform": "YouTube",
+        "date": "27 Aug 2026",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQx-xdOQGRnsOahqUFk9cFFoQlFX2P8CVQ7wg"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "What is the 80/20 rule in blogging?",
+        "type": "ai_overview",
+        "page_token": "OOKArHicHdBBcpswGEDhaQ-TZWwgdWvPeDpDENiZQVRYEuBNRkgYxfwCEoQJXvYQPUFXPUwOkGP0BM109Vbf5v38DU9t8_7poq3th81iMU3Tbd11NVS3sjMLMcytXEgBUArZbFZfV873k9yice_fP-99wlJUgIKiQW7qIS-O8AGfQ02gn1WATXrVMw_gTjihX2Z25Od6iTnfC1AU7_RzmTmzWjqiPKvr4aPiqu8LJzzynU5J2-dFo1oZvY6lowoJ6-locJHkYSsD4KV7vCToyx0NuSsz3hHerzI40g8_Vy2aaZ6OuQMHYpiV6DWRSAcHCgRnD1C2zKrAD5VXXzkPBxqpFc60Rxu9E672kFZDvoSgoPyHbFKIXeJQsyaxu44LY33sd0-E6SRGzEsNjKx5SNJIedjxWcX5oMy3KWOcxmhasii2aro5ycvWu_n_c_t4MnbTv3T1H_lSCVupR2Hfms9_f_0DvuqLoA",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=OOKArHicHdBBcpswGEDhaQ-TZWwgdWvPeDpDENiZQVRYEuBNRkgYxfwCEoQJXvYQPUFXPUwOkGP0BM109Vbf5v38DU9t8_7poq3th81iMU3Tbd11NVS3sjMLMcytXEgBUArZbFZfV873k9yice_fP-99wlJUgIKiQW7qIS-O8AGfQ02gn1WATXrVMw_gTjihX2Z25Od6iTnfC1AU7_RzmTmzWjqiPKvr4aPiqu8LJzzynU5J2-dFo1oZvY6lowoJ6-locJHkYSsD4KV7vCToyx0NuSsz3hHerzI40g8_Vy2aaZ6OuQMHYpiV6DWRSAcHCgRnD1C2zKrAD5VXXzkPBxqpFc60Rxu9E672kFZDvoSgoPyHbFKIXeJQsyaxu44LY33sd0-E6SRGzEsNjKx5SNJIedjxWcX5oMy3KWOcxmhasii2aro5ycvWu_n_c_t4MnbTv3T1H_lSCVupR2Hfms9_f_0DvuqLoA",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlUxazFhelprYWpVMFNHSXRhbmhHWmxkVmJWUkZMWEJNT1V0bWVFaElhakZaTm1wbVEyWmxTbVY0TWxORldGWTVVR1pIZG5sT2FFNHdXalZCVjAxeFNETndlRUZrUVRGalRXc3pRMkZ5TUhWWVpreEliR3c1ZW0xUmR4SVhiRjlKUTJFMVQzSkVaVE5rTlU1dlVETnZUR0pyUVRRYUlrRklUakJGTjBkWFJsaElSR2c1WlRWNFVUSnJVVVZ4TURCMmRESkpiVmxJT0djIiwiZmN2IjoiMyIsImVpIjoibF9JQ2E1T3JEZTNkNU5vUDNvTGJrQTQiLCJxYyI6ImN3WEJzUTJFTUJBRVFHSkVRQW5iQ1NGMUlMUDhJOHl0ZFQ1a2ZVQTdYeHAxTU5QUFh6V3NRcWdnT1plUVZ6akw1VVdWeUxJUE52bUpKQXRhWUxjUUdubmtINHl0WmtiUTY5amRfMmVZWGciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDgwLzIwIHJ1bGUgaW4gYmxvZ2dpbmc/IiwibGsiOiJHaUozYUdGMElHbHpJSFJvWlNBNE1DQXlNQ0J5ZFd4bElHbHVJR0pzYjJkbmFXNW4iLCJicyI6ImM0WE9NUXZDTUJBRllGd3p1UnFYczFVY3JSbkVMYmdwTG03T1VZODJHSk9TWEJ2NjcwMUZSRUYwTzNqZlBSN2JzX3hZS1FJZGdDcUVkYkVRQmZqR0lHZ0xKLVBLVXR0U2lpblA0Z2VETDR3ZDJIempFU3pHWUpBSWZZQkEyaGp3YUxCVmxub3RDckdTWXNaejladjJMalV1SF9ONkc5d040ZXhSa1c0Um91clNGcGQ4M2ZqYWhSUTVTMmhKaWpFZlBlOVhtdGFCdnFBS2JNZXlyWXY5NTZNS1FVRkV2SnJ1YllzVU9aOVVfOVJ3Y0FjIiwiaWQiOiJmY19sX0lDYTVPckRlM2Q1Tm9QM29MYmtBNF80In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlUxazFhelprYWpVMFNHSXRhbmhHWmxkVmJWUkZMWEJNT1V0bWVFaElhakZaTm1wbVEyWmxTbVY0TWxORldGWTVVR1pIZG5sT2FFNHdXalZCVjAxeFNETndlRUZrUVRGalRXc3pRMkZ5TUhWWVpreEliR3c1ZW0xUmR4SVhiRjlKUTJFMVQzSkVaVE5rTlU1dlVETnZUR0pyUVRRYUlrRklUakJGTjBkWFJsaElSR2c1WlRWNFVUSnJVVVZ4TURCMmRESkpiVmxJT0djIiwiZmN2IjoiMyIsImVpIjoibF9JQ2E1T3JEZTNkNU5vUDNvTGJrQTQiLCJxYyI6ImN3WEJzUTJFTUJBRVFHSkVRQW5iQ1NGMUlMUDhJOHl0ZFQ1a2ZVQTdYeHAxTU5QUFh6V3NRcWdnT1plUVZ6akw1VVdWeUxJUE52bUpKQXRhWUxjUUdubmtINHl0WmtiUTY5amRfMmVZWGciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDgwLzIwIHJ1bGUgaW4gYmxvZ2dpbmc%2FIiwibGsiOiJHaUozYUdGMElHbHpJSFJvWlNBNE1DQXlNQ0J5ZFd4bElHbHVJR0pzYjJkbmFXNW4iLCJicyI6ImM0WE9NUXZDTUJBRllGd3p1UnFYczFVY3JSbkVMYmdwTG03T1VZODJHSk9TWEJ2NjcwMUZSRUYwTzNqZlBSN2JzX3hZS1FJZGdDcUVkYkVRQmZqR0lHZ0xKLVBLVXR0U2lpblA0Z2VETDR3ZDJIempFU3pHWUpBSWZZQkEyaGp3YUxCVmxub3RDckdTWXNaejladjJMalV1SF9ONkc5d040ZXhSa1c0Um91clNGcGQ4M2ZqYWhSUTVTMmhKaWpFZlBlOVhtdGFCdnFBS2JNZXlyWXY5NTZNS1FVRkV2SnJ1YllzVU9aOVVfOVJ3Y0FjIiwiaWQiOiJmY19sX0lDYTVPckRlM2Q1Tm9QM29MYmtBNF80In0%3D"
+      },
+      {
+        "question": "Are newsletters still relevant in 2026?",
+        "type": "ai_overview",
+        "page_token": "EtdvlnicHdBLcpswGADgaQ-TZSyB4xbPeDqjgh2Ygo3Qw7DJCIFNop9Hg2Iclj1ET5BVDtMD9Bg9QTv9jvD9eIPHzvz-cGmsHcb1YjFN0-25789Q3-q-XajxtdMLrQBKpc169WmFv5z0JngJydfvIUk5DXKoQJrmvvIJ1U-VkG2DORDMzXDH5yYocRIVzjRTURQJi1yNKONmxMoVOcVeWPoANcsd5kdhHMS2OCadQsNLCedZg-fQnT2IGVyOlndaRqww27De0SeFgmvN-zlDeMx2CUh5ZSWQQ7IdstJcL4pjm7fQ7YMlzkxFeJeMTHp9ZT4vj054zZ2Ilzs0aSMS1oqhvh9sJr1JbIEETTUeEfg5EwdtKMROilnrpbHjxXlrSUL6x5Q3-zjgLu2ii9pylB6bgiPRfJPY37NoVXQUpC8mJf41pTcnfdm4N_8_Nw-n1q6H5_78rp9rZevqQdlf5uOfn38Bot6KIA",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=EtdvlnicHdBLcpswGADgaQ-TZSyB4xbPeDqjgh2Ygo3Qw7DJCIFNop9Hg2Iclj1ET5BVDtMD9Bg9QTv9jvD9eIPHzvz-cGmsHcb1YjFN0-25789Q3-q-XajxtdMLrQBKpc169WmFv5z0JngJydfvIUk5DXKoQJrmvvIJ1U-VkG2DORDMzXDH5yYocRIVzjRTURQJi1yNKONmxMoVOcVeWPoANcsd5kdhHMS2OCadQsNLCedZg-fQnT2IGVyOlndaRqww27De0SeFgmvN-zlDeMx2CUh5ZSWQQ7IdstJcL4pjm7fQ7YMlzkxFeJeMTHp9ZT4vj054zZ2Ilzs0aSMS1oqhvh9sJr1JbIEETTUeEfg5EwdtKMROilnrpbHjxXlrSUL6x5Q3-zjgLu2ii9pylB6bgiPRfJPY37NoVXQUpC8mJf41pTcnfdm4N_8_Nw-n1q6H5_78rp9rZevqQdlf5uOfn38Bot6KIA",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlUxazFhelprYWpVMFNHSXRhbmhHWmxkVmJWUkZMWEJNT1V0bWVFaElhakZaTm1wbVEyWmxTbVY0TWxORldGWTVVR1pIZG5sT2FFNHdXalZCVjAxeFNETndlRUZrUVRGalRXc3pRMkZ5TUhWWVpreEliR3c1ZW0xUmR4SVhiRjlKUTJFMVQzSkVaVE5rTlU1dlVETnZUR0pyUVRRYUlrRklUakJGTjBkWFJsaElSR2c1WlRWNFVUSnJVVVZ4TURCMmRESkpiVmxJT0djIiwiZmN2IjoiMyIsImVpIjoibF9JQ2E1T3JEZTNkNU5vUDNvTGJrQTQiLCJxYyI6ImN3WEJzUTJFTUJBRVFHSkVRQW5iQ1NGMUlMUDhJOHl0ZFQ1a2ZVQTdYeHAxTU5QUFh6V3NRcWdnT1plUVZ6akw1VVdWeUxJUE52bUpKQXRhWUxjUUdubmtINHl0WmtiUTY5amRfMmVZWGciLCJxdWVzdGlvbiI6IkFyZSBuZXdzbGV0dGVycyBzdGlsbCByZWxldmFudCBpbiAyMDI2PyIsImxrIjoiR2lOaGNtVWdibVYzYzJ4bGRIUmxjbk1nYzNScGJHd2djbVZzWlhaaGJuUWdNakF5TmciLCJicyI6ImM0WE9NUXZDTUJBRllGd3p1UnFYczFVY3JSbkVMYmdwTG03T1VZODJHSk9TWEJ2NjcwMUZSRUYwTzNqZlBSN2JzX3hZS1FJZGdDcUVkYkVRQmZqR0lHZ0xKLVBLVXR0U2lpblA0Z2VETDR3ZDJIempFU3pHWUpBSWZZQkEyaGp3YUxCVmxub3RDckdTWXNaejladjJMalV1SF9ONkc5d040ZXhSa1c0Um91clNGcGQ4M2ZqYWhSUTVTMmhKaWpFZlBlOVhtdGFCdnFBS2JNZXlyWXY5NTZNS1FVRkV2SnJ1YllzVU9aOVVfOVJ3Y0FjIiwiaWQiOiJmY19sX0lDYTVPckRlM2Q1Tm9QM29MYmtBNF80In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlUxazFhelprYWpVMFNHSXRhbmhHWmxkVmJWUkZMWEJNT1V0bWVFaElhakZaTm1wbVEyWmxTbVY0TWxORldGWTVVR1pIZG5sT2FFNHdXalZCVjAxeFNETndlRUZrUVRGalRXc3pRMkZ5TUhWWVpreEliR3c1ZW0xUmR4SVhiRjlKUTJFMVQzSkVaVE5rTlU1dlVETnZUR0pyUVRRYUlrRklUakJGTjBkWFJsaElSR2c1WlRWNFVUSnJVVVZ4TURCMmRESkpiVmxJT0djIiwiZmN2IjoiMyIsImVpIjoibF9JQ2E1T3JEZTNkNU5vUDNvTGJrQTQiLCJxYyI6ImN3WEJzUTJFTUJBRVFHSkVRQW5iQ1NGMUlMUDhJOHl0ZFQ1a2ZVQTdYeHAxTU5QUFh6V3NRcWdnT1plUVZ6akw1VVdWeUxJUE52bUpKQXRhWUxjUUdubmtINHl0WmtiUTY5amRfMmVZWGciLCJxdWVzdGlvbiI6IkFyZSBuZXdzbGV0dGVycyBzdGlsbCByZWxldmFudCBpbiAyMDI2PyIsImxrIjoiR2lOaGNtVWdibVYzYzJ4bGRIUmxjbk1nYzNScGJHd2djbVZzWlhaaGJuUWdNakF5TmciLCJicyI6ImM0WE9NUXZDTUJBRllGd3p1UnFYczFVY3JSbkVMYmdwTG03T1VZODJHSk9TWEJ2NjcwMUZSRUYwTzNqZlBSN2JzX3hZS1FJZGdDcUVkYkVRQmZqR0lHZ0xKLVBLVXR0U2lpblA0Z2VETDR3ZDJIempFU3pHWUpBSWZZQkEyaGp3YUxCVmxub3RDckdTWXNaejladjJMalV1SF9ONkc5d040ZXhSa1c0Um91clNGcGQ4M2ZqYWhSUTVTMmhKaWpFZlBlOVhtdGFCdnFBS2JNZXlyWXY5NTZNS1FVRkV2SnJ1YllzVU9aOVVfOVJ3Y0FjIiwiaWQiOiJmY19sX0lDYTVPckRlM2Q1Tm9QM29MYmtBNF80In0%3D"
+      },
+      {
+        "question": "What are some creative ways to repurpose content?",
+        "type": "ai_overview",
+        "page_token": "XWhZu3icHdBdboIwAADgbIfZoxZQN03MMuRvOGsolGJfTGmBulZwSgR93CF2gj3tMDvAjrETLNl3hO_9U-9q9XOTybY9nGbDYdd1g6ppKl0MeLMfstOl5kPOtM4ZV7PJ_cR4LPncPXX2ounsCCN3o4UmWXVFxLAQoTT35G5To7c0NoBQwmbm-IxVjyNLRDkY4zxAC67kBOGwXClNC-f5ssb9i_D1OjGkC4k0U5Uu6QWMU5O2NNCTVUBtgnub7R9GwkFLonRYvIo69byA15KsEqgyIGHhagwzSPPAOxXe1GTWoaGYyjRb9YSAHhoRiK_UzkATe2ZfxhhKiKcX5OMrddJ1bjxdc9DvGHCBvwvt2B11KBE-TNCo8MINrqGTZDZOVRtgRy9jUzvYCA_RHlp3JT_Prbv_sfm23Lezw7GpvvixYG0htqz9Vre_H38TIH9I",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=XWhZu3icHdBdboIwAADgbIfZoxZQN03MMuRvOGsolGJfTGmBulZwSgR93CF2gj3tMDvAjrETLNl3hO_9U-9q9XOTybY9nGbDYdd1g6ppKl0MeLMfstOl5kPOtM4ZV7PJ_cR4LPncPXX2ounsCCN3o4UmWXVFxLAQoTT35G5To7c0NoBQwmbm-IxVjyNLRDkY4zxAC67kBOGwXClNC-f5ssb9i_D1OjGkC4k0U5Uu6QWMU5O2NNCTVUBtgnub7R9GwkFLonRYvIo69byA15KsEqgyIGHhagwzSPPAOxXe1GTWoaGYyjRb9YSAHhoRiK_UzkATe2ZfxhhKiKcX5OMrddJ1bjxdc9DvGHCBvwvt2B11KBE-TNCo8MINrqGTZDZOVRtgRy9jUzvYCA_RHlp3JT_Prbv_sfm23Lezw7GpvvixYG0htqz9Vre_H38TIH9I",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlUxazFhelprYWpVMFNHSXRhbmhHWmxkVmJWUkZMWEJNT1V0bWVFaElhakZaTm1wbVEyWmxTbVY0TWxORldGWTVVR1pIZG5sT2FFNHdXalZCVjAxeFNETndlRUZrUVRGalRXc3pRMkZ5TUhWWVpreEliR3c1ZW0xUmR4SVhiRjlKUTJFMVQzSkVaVE5rTlU1dlVETnZUR0pyUVRRYUlrRklUakJGTjBkWFJsaElSR2c1WlRWNFVUSnJVVVZ4TURCMmRESkpiVmxJT0djIiwiZmN2IjoiMyIsImVpIjoibF9JQ2E1T3JEZTNkNU5vUDNvTGJrQTQiLCJxYyI6ImN3WEJzUTJFTUJBRVFHSkVRQW5iQ1NGMUlMUDhJOHl0ZFQ1a2ZVQTdYeHAxTU5QUFh6V3NRcWdnT1plUVZ6akw1VVdWeUxJUE52bUpKQXRhWUxjUUdubmtINHl0WmtiUTY5amRfMmVZWGciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHNvbWUgY3JlYXRpdmUgd2F5cyB0byByZXB1cnBvc2UgY29udGVudD8iLCJsayI6IkdobGpiMjUwWlc1MElISmxjSFZ5Y0c5emFXNW5JR2xrWldGeiIsImJzIjoiYzRYT01RdkNNQkFGWUZ3enVScVhzMVVjclJuRUxiZ3BMbTdPVVk4MkdKT1NYQnY2NzAxRlJFRjBPM2pmUFI3YnNfeFlLUUlkZ0NxRWRiRVFCZmpHSUdnTEotUEtVdHRTaWluUDRnZURMNHdkMkh6akVTekdZSkFJZllCQTJoandhTEJWbG5vdENyR1NZc1p6OVp2MkxqVXVIX042Rzl3TjRleFJrVzRSb3VyU0ZwZDgzZmphaFJRNVMyaEppakVmUGU5WG10YUJ2cUFLYk1leXJZdjk1Nk1LUVVGRXZKcnViWXNVT1o5VV85UndjQWMiLCJpZCI6ImZjX2xfSUNhNU9yRGUzZDVOb1Azb0xia0E0XzQifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlUxazFhelprYWpVMFNHSXRhbmhHWmxkVmJWUkZMWEJNT1V0bWVFaElhakZaTm1wbVEyWmxTbVY0TWxORldGWTVVR1pIZG5sT2FFNHdXalZCVjAxeFNETndlRUZrUVRGalRXc3pRMkZ5TUhWWVpreEliR3c1ZW0xUmR4SVhiRjlKUTJFMVQzSkVaVE5rTlU1dlVETnZUR0pyUVRRYUlrRklUakJGTjBkWFJsaElSR2c1WlRWNFVUSnJVVVZ4TURCMmRESkpiVmxJT0djIiwiZmN2IjoiMyIsImVpIjoibF9JQ2E1T3JEZTNkNU5vUDNvTGJrQTQiLCJxYyI6ImN3WEJzUTJFTUJBRVFHSkVRQW5iQ1NGMUlMUDhJOHl0ZFQ1a2ZVQTdYeHAxTU5QUFh6V3NRcWdnT1plUVZ6akw1VVdWeUxJUE52bUpKQXRhWUxjUUdubmtINHl0WmtiUTY5amRfMmVZWGciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHNvbWUgY3JlYXRpdmUgd2F5cyB0byByZXB1cnBvc2UgY29udGVudD8iLCJsayI6IkdobGpiMjUwWlc1MElISmxjSFZ5Y0c5emFXNW5JR2xrWldGeiIsImJzIjoiYzRYT01RdkNNQkFGWUZ3enVScVhzMVVjclJuRUxiZ3BMbTdPVVk4MkdKT1NYQnY2NzAxRlJFRjBPM2pmUFI3YnNfeFlLUUlkZ0NxRWRiRVFCZmpHSUdnTEotUEtVdHRTaWluUDRnZURMNHdkMkh6akVTekdZSkFJZllCQTJoandhTEJWbG5vdENyR1NZc1p6OVp2MkxqVXVIX042Rzl3TjRleFJrVzRSb3VyU0ZwZDgzZmphaFJRNVMyaEppakVmUGU5WG10YUJ2cUFLYk1leXJZdjk1Nk1LUVVGRXZKcnViWXNVT1o5VV85UndjQWMiLCJpZCI6ImZjX2xfSUNhNU9yRGUzZDVOb1Azb0xia0E0XzQifQ%3D%3D"
+      },
+      {
+        "question": "How to create a weekly newsletter?",
+        "type": "ai_overview",
+        "page_token": "MGuQQHicHdBRbpswAABQbYfpZwN2yUSkaBLB0KDYmQ12ID-VYwg0toEVN6H97CF2gn3tMDvAjrETTNo7wvv4aZ57_efTtXNunFaLxe12u2-HoTXNvRrsQk5vvVooacxJKr1afln6X89qjV630eb7NqKcocrUpjIipRo7YkIsL91VpAkiUD9wnZUEbeda1BDrsaOQA8UzH0McqIM5530XHfgcF8AtaRH1Etb6BALJvODYpFVQ9wJVPinFe7Tbl2LiKZkUmlH-OGbChm_SzhtqwscmRv5R1LtT36WSzzKHrM8v7KHw2hl7SczKFiowkvL9GAkQUGLHStrkKkuGjzarcCK29MLmgyasKESPunoqPRNXhfimNDMYUL-wIcUgxJV1EYmGZ8q7PUYc5qkAOz53ypJXlftUAe-2T8ZdvvHjQ5zlKnWA0ruzuq7h3f_P9dPZutX4MrS_1EsjXVM_Sfdbf_774x_Gv4jn",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=MGuQQHicHdBRbpswAABQbYfpZwN2yUSkaBLB0KDYmQ12ID-VYwg0toEVN6H97CF2gn3tMDvAjrETTNo7wvv4aZ57_efTtXNunFaLxe12u2-HoTXNvRrsQk5vvVooacxJKr1afln6X89qjV630eb7NqKcocrUpjIipRo7YkIsL91VpAkiUD9wnZUEbeda1BDrsaOQA8UzH0McqIM5530XHfgcF8AtaRH1Etb6BALJvODYpFVQ9wJVPinFe7Tbl2LiKZkUmlH-OGbChm_SzhtqwscmRv5R1LtT36WSzzKHrM8v7KHw2hl7SczKFiowkvL9GAkQUGLHStrkKkuGjzarcCK29MLmgyasKESPunoqPRNXhfimNDMYUL-wIcUgxJV1EYmGZ8q7PUYc5qkAOz53ypJXlftUAe-2T8ZdvvHjQ5zlKnWA0ruzuq7h3f_P9dPZutX4MrS_1EsjXVM_Sfdbf_774x_Gv4jn",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlUxazFhelprYWpVMFNHSXRhbmhHWmxkVmJWUkZMWEJNT1V0bWVFaElhakZaTm1wbVEyWmxTbVY0TWxORldGWTVVR1pIZG5sT2FFNHdXalZCVjAxeFNETndlRUZrUVRGalRXc3pRMkZ5TUhWWVpreEliR3c1ZW0xUmR4SVhiRjlKUTJFMVQzSkVaVE5rTlU1dlVETnZUR0pyUVRRYUlrRklUakJGTjBkWFJsaElSR2c1WlRWNFVUSnJVVVZ4TURCMmRESkpiVmxJT0djIiwiZmN2IjoiMyIsImVpIjoibF9JQ2E1T3JEZTNkNU5vUDNvTGJrQTQiLCJxYyI6ImN3WEJzUTJFTUJBRVFHSkVRQW5iQ1NGMUlMUDhJOHl0ZFQ1a2ZVQTdYeHAxTU5QUFh6V3NRcWdnT1plUVZ6akw1VVdWeUxJUE52bUpKQXRhWUxjUUdubmtINHl0WmtiUTY5amRfMmVZWGciLCJxdWVzdGlvbiI6IkhvdyB0byBjcmVhdGUgYSB3ZWVrbHkgbmV3c2xldHRlcj8iLCJsayI6IkdpRm9iM2NnZEc4Z1kzSmxZWFJsSUdFZ2QyVmxhMng1SUc1bGQzTnNaWFIwWlhJIiwiYnMiOiJjNFhPTVF2Q01CQUZZRnd6dVJxWHMxVWNyUm5FTGJncExtN09VWTgyR0pPU1hCdjY3MDFGUkVGME8zamZQUjdic194WUtRSWRnQ3FFZGJFUUJmakdJR2dMSi1QS1V0dFNpaW5QNGdlREw0d2QySHpqRVN6R1lKQUlmWUJBMmhqd2FMQlZsbm90Q3JHU1lzWno5WnYyTGpVdUhfTjZHOXdONGV4UmtXNFJvdXJTRnBkODNmamFoUlE1UzJoSmlqRWZQZTlYbXRhQnZxQUtiTWV5cll2OTU2TUtRVUZFdkpydWJZc1VPWjlVXzlSd2NBYyIsImlkIjoiZmNfbF9JQ2E1T3JEZTNkNU5vUDNvTGJrQTRfNCJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWlUxazFhelprYWpVMFNHSXRhbmhHWmxkVmJWUkZMWEJNT1V0bWVFaElhakZaTm1wbVEyWmxTbVY0TWxORldGWTVVR1pIZG5sT2FFNHdXalZCVjAxeFNETndlRUZrUVRGalRXc3pRMkZ5TUhWWVpreEliR3c1ZW0xUmR4SVhiRjlKUTJFMVQzSkVaVE5rTlU1dlVETnZUR0pyUVRRYUlrRklUakJGTjBkWFJsaElSR2c1WlRWNFVUSnJVVVZ4TURCMmRESkpiVmxJT0djIiwiZmN2IjoiMyIsImVpIjoibF9JQ2E1T3JEZTNkNU5vUDNvTGJrQTQiLCJxYyI6ImN3WEJzUTJFTUJBRVFHSkVRQW5iQ1NGMUlMUDhJOHl0ZFQ1a2ZVQTdYeHAxTU5QUFh6V3NRcWdnT1plUVZ6akw1VVdWeUxJUE52bUpKQXRhWUxjUUdubmtINHl0WmtiUTY5amRfMmVZWGciLCJxdWVzdGlvbiI6IkhvdyB0byBjcmVhdGUgYSB3ZWVrbHkgbmV3c2xldHRlcj8iLCJsayI6IkdpRm9iM2NnZEc4Z1kzSmxZWFJsSUdFZ2QyVmxhMng1SUc1bGQzTnNaWFIwWlhJIiwiYnMiOiJjNFhPTVF2Q01CQUZZRnd6dVJxWHMxVWNyUm5FTGJncExtN09VWTgyR0pPU1hCdjY3MDFGUkVGME8zamZQUjdic194WUtRSWRnQ3FFZGJFUUJmakdJR2dMSi1QS1V0dFNpaW5QNGdlREw0d2QySHpqRVN6R1lKQUlmWUJBMmhqd2FMQlZsbm90Q3JHU1lzWno5WnYyTGpVdUhfTjZHOXdONGV4UmtXNFJvdXJTRnBkODNmamFoUlE1UzJoSmlqRWZQZTlYbXRhQnZxQUtiTWV5cll2OTU2TUtRVUZFdkpydWJZc1VPWjlVXzlSd2NBYyIsImlkIjoiZmNfbF9JQ2E1T3JEZTNkNU5vUDNvTGJrQTRfNCJ9"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "UjnUd3iczVZdcqpIFK6a59nG8GKiKJpoqqhUg6hEo-moSfCFwqYF5KeVxqh5vIuYFczTLGYWcJdxVzANaAJGk9ypqZo5VdDQff7P-Th8-8NzAvf7rws7ihb0qlRar9dFixDLw0VE_JJBtwEqzYhHQ2RfU7IKEXZMEdkh8TFneyIOuHR3t1ckU87yxJXLbZ9FgUNU5DnsiJ6uykZtEDaxYNb65E4gvakLqlyiX9SnBsVzZn4zpyW9xG7ub0KTvRRpEQd6Wyq2Lh3g4V45qLnFCl8RioOS4TMe8N-SIgHVYqsLgPURnwS_qhHaTCuQD-WVdM3s34LYpgpkNT05ZX8YK40lZSnxmF0DMJvfuW323N9zjdVP_GLyoP369rhzK13cQ3c_I_lVNI4gp-sjOpLEJC_dnOb82TFq508krQma64z6d-FkDKSi4_i2Bq3q3S2AEJ60tCemuqsB3gOf9Mneo3HjZhgxKalkWqzL-dI0ZEu55CAbJQ8hjZtfHjV40tEfam7lyehYL2Po1TtLHZWDuvII4ZNVQlPG5xHDxKZu6_x18l6ulGt8Q7isnyXAQ_QVeTSLvJBQPgrqt-cRX-wVpfIec_loD5MFVRUcayZLsvapyNOrApjNc5KGzD0mN2e5tVttIKkQoHy5YVfpZZkYXJosX_Vc-t8k5A8wdxhHHB3ZKRjvtkC-26AGlOExO_Hz4KjaOI7Eat5Ye4c5tZUYUeOuS0_eY-4esDzE6d2lOPdxlGTZkliCYfyl6DLxSE551Wrs375iUFFUBSivWcq5I6eBtECO5IwnTE6JudbAUoC7UhVZdXbbqfeWlVqSoKXsPU1syO9Rl1Bcl5Z99OhLpHzlw5J6sQfZAWayWFOoYzyc92cP3Q4fyZtwoKPg-ck818wKOI4t4k9_bqyh_z0A90PP23X-SQDGlr4EQGh_BMBjQy8FoOyeAOAwBeDxoXe35zoYeu8BKAMnA8B46DGJzS4X_wYApc8BmC1XFoBvpcoBUDkFwLaSB6A2V9jQgxCcAuDOwBsA_-nQk35-6CU4xOmSn4CruXVyEraWo6asTV6cF-GpvdSWm7EDL0Kp06jU4KeTcOZHV75heme6Y15JlZtoa57pbINcYZNbih2yLpikEJFFAYXYiEhICyFerMIFobjgkcAqzEjoFxAJIhxEBSeISGGNsettCwFeUw9HEQ7pNed7IRF5o-rK1ftzgU7N5n2vOkJIUxaTQbBaOsvQb_svwaO-AdNlxZhcbOztPAgb1Wq3HI7u68PNtj3h78DNSxQtb54vl42qM3xkKbDkBmqN0NrZTCV7GGGV79NWfzxSIKt980nf6OPnsLvSNGEr05okCKCfeEPFwF6tmpPh5HwLORYyxWKZ80Mkso6oWqAP4_89A0hrcJO0sHS_ZGuP9c2USAB2NACbFrsIKx5HkaFj-iyii5qAajyPDGN2OcMzzrei7UJs8BwNQrH8Z5JFVgsj-sv95cfvfwNd7JBU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=UjnUd3iczVZdcqpIFK6a59nG8GKiKJpoqqhUg6hEo-moSfCFwqYF5KeVxqh5vIuYFczTLGYWcJdxVzANaAJGk9ypqZo5VdDQff7P-Th8-8NzAvf7rws7ihb0qlRar9dFixDLw0VE_JJBtwEqzYhHQ2RfU7IKEXZMEdkh8TFneyIOuHR3t1ckU87yxJXLbZ9FgUNU5DnsiJ6uykZtEDaxYNb65E4gvakLqlyiX9SnBsVzZn4zpyW9xG7ub0KTvRRpEQd6Wyq2Lh3g4V45qLnFCl8RioOS4TMe8N-SIgHVYqsLgPURnwS_qhHaTCuQD-WVdM3s34LYpgpkNT05ZX8YK40lZSnxmF0DMJvfuW323N9zjdVP_GLyoP369rhzK13cQ3c_I_lVNI4gp-sjOpLEJC_dnOb82TFq508krQma64z6d-FkDKSi4_i2Bq3q3S2AEJ60tCemuqsB3gOf9Mneo3HjZhgxKalkWqzL-dI0ZEu55CAbJQ8hjZtfHjV40tEfam7lyehYL2Po1TtLHZWDuvII4ZNVQlPG5xHDxKZu6_x18l6ulGt8Q7isnyXAQ_QVeTSLvJBQPgrqt-cRX-wVpfIec_loD5MFVRUcayZLsvapyNOrApjNc5KGzD0mN2e5tVttIKkQoHy5YVfpZZkYXJosX_Vc-t8k5A8wdxhHHB3ZKRjvtkC-26AGlOExO_Hz4KjaOI7Eat5Ye4c5tZUYUeOuS0_eY-4esDzE6d2lOPdxlGTZkliCYfyl6DLxSE551Wrs375iUFFUBSivWcq5I6eBtECO5IwnTE6JudbAUoC7UhVZdXbbqfeWlVqSoKXsPU1syO9Rl1Bcl5Z99OhLpHzlw5J6sQfZAWayWFOoYzyc92cP3Q4fyZtwoKPg-ck818wKOI4t4k9_bqyh_z0A90PP23X-SQDGlr4EQGh_BMBjQy8FoOyeAOAwBeDxoXe35zoYeu8BKAMnA8B46DGJzS4X_wYApc8BmC1XFoBvpcoBUDkFwLaSB6A2V9jQgxCcAuDOwBsA_-nQk35-6CU4xOmSn4CruXVyEraWo6asTV6cF-GpvdSWm7EDL0Kp06jU4KeTcOZHV75heme6Y15JlZtoa57pbINcYZNbih2yLpikEJFFAYXYiEhICyFerMIFobjgkcAqzEjoFxAJIhxEBSeISGGNsettCwFeUw9HEQ7pNed7IRF5o-rK1ftzgU7N5n2vOkJIUxaTQbBaOsvQb_svwaO-AdNlxZhcbOztPAgb1Wq3HI7u68PNtj3h78DNSxQtb54vl42qM3xkKbDkBmqN0NrZTCV7GGGV79NWfzxSIKt980nf6OPnsLvSNGEr05okCKCfeEPFwF6tmpPh5HwLORYyxWKZ80Mkso6oWqAP4_89A0hrcJO0sHS_ZGuP9c2USAB2NACbFrsIKx5HkaFj-iyii5qAajyPDGN2OcMzzrei7UJs8BwNQrH8Z5JFVgsj-sv95cfvfwNd7JBU"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "How to repurpose content with weekly long-form pieces",
+        "link": "https://www.facebook.com/TheJessCassity/posts/you-should-be-creating-at-least-one-new-piece-of-long-form-content-a-week-this-c/9329019807114536/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzgEBxCJF15wx2stJJcK4jswVELyt8MKISAmxWt9NLpAc08ErQwVvvjW5dNsG6zoXZAPFTJOPOfn-FbyjZYcdElDKfxsUMug7Afla4UqRMVSGqeU7Z5OcvJoXg-92vouDvZis2Kuqb3lIzn8xjMqlF1u4csw8XIv8h2taIl-slDXebTRwJ_p4s1d34ZnOIe3ocrd8DOJEdRy2YjyjsR07EmlFmSqo2k_rVuReSvVLIlkob8mP25b5rd8tLGpBMKymxPNmOwIU6aF6hW72P0yHyw&ved=2ahUKEwjT0o_R25uYAxXtLlkFHV7BFuIQFnoECCgQAQ&uoh=1",
+        "displayed_link": "4 reactions",
+        "date": "2 years ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+        "snippet": "The key is to use this long form to repurpose content and drive traffic from all other sources to your new long form content each week.",
+        "snippet_highlighted_words": [
+          "use this long form to repurpose content"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The key is to use this long form to repurpose content and drive traffic from all other sources to your new long form content each week.",
+            "source_info_link": "https://www.facebook.com/TheJessCassity/posts/you-should-be-creating-at-least-one-new-piece-of-long-form-content-a-week-this-c/9329019807114536/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqQCL2dvdG8_dXJsPUNBRVN6Z0VCeENKRjE1SzNjQ011NVd6ZVh3RE91NGRjN0NuYlFYbThHRWQtVERVeHBhbVg5RkFVUXNvVFpIVG54Y1gwYWlWN0w3R3pFeTk1RUc3WFU0LXlkTzZxZVZwMUMtdkJRNkNsME9rTUlfaWU3NnY2WF9GOW1ZTEJ3UHNON0ZRVDMxOHBWSkgzLWJJZE9Kbmw1aEctb0lYOWRuUE1SUFNKSzAwTGxYcGl0Y0dNWnd6Q3RJb3VHczlmcHduRkh4d2Q4bFdkM0tFUEZkNnFPd3JrN1FqZm9SMzhzUXJ2WEUzVmh3bkg2cE4zalJBaDBvRlBfWXhaeFpzU1poMjJma1VtTTJfTVY2Qy0wdjMwcjFiOUdjU1V2ZxIEGgIIABrwCBIAGgAiACoAMgYIAhICdWs6AEIECAEQAEoAWgByAHoAgkDMCAgAEAAYACAAKgoKA2hvdxWLvKVAKjoKAmRvFW_uDkAaA2FyZRoFY291bGQaBGRvZXMaBG1ha2UaBnNob3VsZBoCdG8aBHdpbGwaBWRvdG9wKjMKA3RvcBUAAAAAGgRiZXN0GgdsZWFkaW5nGgR0b3BzGgVkb3RvcBoLdG9wY3JlYXRvcnMqQgoIY3JlYXRvcnMVFXMxPRoHY3JlYXRvchoJZGVzaWduZXJzGghmb3VuZGVycxoGbWFrZXJzGgt0b3BjcmVhdG9ycyo0CglyZXB1cnBvc2UVsJerQBoLcmVwdXJwb3NpbmcaBXJldXNlGg5pdjtwO3JlcHVycG9zZSo4CgRsb25nFefd-0AaBmxvbmdlchoIbG9uZ2Zvcm0aCHRoZSBmdWxsGg9sb25nZm9ybWNvbnRlbnQqQgoEZm9ybRX6gABBGgZmb3JtYXQaBWZvcm1zGghsb25nZm9ybRoPbG9uZ2Zvcm1jb250ZW50Ggtmb3JtY29udGVudCpACgdjb250ZW50FXLwDkEaCGNvbnRlbnRzGghsb25nZm9ybRoPbG9uZ2Zvcm1jb250ZW50Ggtmb3JtY29udGVudCocCgRpbnRvFekTDUAaC2NhbGN1bGF0aW5nGgJpbiowCgZ3ZWVrbHkVVg6oQBoLY2FsY3VsYXRpbmcaCmV2ZXJ5IHdlZWsaCHBlciB3ZWVrKh4KC25ld3NsZXR0ZXJzFRT-uz8aCm5ld3NsZXR0ZXIypAIvZ290bz91cmw9Q0FFU3pnRUJ4Q0pGMTVLM2NDTXU1V3plWHdET3U0ZGM3Q25iUVhtOEdFZC1URFV4cGFtWDlGQVVRc29UWkhUbnhjWDBhaVY3TDdHekV5OTVFRzdYVTQteWRPNnFlVnAxQy12QlE2Q2wwT2tNSV9pZTc2djZYX0Y5bVlMQndQc043RlFUMzE4cFZKSDMtYklkT0pubDVoRy1vSVg5ZG5QTVJQU0pLMDBMbFhwaXRjR01ad3pDdElvdUdzOWZwd25GSHh3ZDhsV2QzS0VQRmQ2cU93cms3UWpmb1IzOHNRcnZYRTNWaHduSDZwTjNqUkFoMG9GUF9ZeFp4WnNTWmgyMmZrVW1NMl9NVjZDLTB2MzByMWI5R2NTVXZnOkpIb3cgPGI-dG8gcmVwdXJwb3NlIGNvbnRlbnQ8L2I-IHdpdGggPGI-d2Vla2x5IGxvbmc8L2I-LTxiPmZvcm08L2I-IHBpZWNlc0KOAVRoZSBrZXkgaXMgdG8gPGI-dXNlIHRoaXMgbG9uZyBmb3JtIHRvIHJlcHVycG9zZSBjb250ZW50PC9iPiBhbmQgZHJpdmUgdHJhZmZpYyBmcm9tIGFsbCBvdGhlciBzb3VyY2VzIHRvIHlvdXIgbmV3IGxvbmcgZm9ybSBjb250ZW50IGVhY2ggd2Vlay5SBGJlc3RSAnRvUgNhcmVSBHdpbGxSAmluIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqQCL2dvdG8_dXJsPUNBRVN6Z0VCeENKRjE1SzNjQ011NVd6ZVh3RE91NGRjN0NuYlFYbThHRWQtVERVeHBhbVg5RkFVUXNvVFpIVG54Y1gwYWlWN0w3R3pFeTk1RUc3WFU0LXlkTzZxZVZwMUMtdkJRNkNsME9rTUlfaWU3NnY2WF9GOW1ZTEJ3UHNON0ZRVDMxOHBWSkgzLWJJZE9Kbmw1aEctb0lYOWRuUE1SUFNKSzAwTGxYcGl0Y0dNWnd6Q3RJb3VHczlmcHduRkh4d2Q4bFdkM0tFUEZkNnFPd3JrN1FqZm9SMzhzUXJ2WEUzVmh3bkg2cE4zalJBaDBvRlBfWXhaeFpzU1poMjJma1VtTTJfTVY2Qy0wdjMwcjFiOUdjU1V2ZxIEGgIIABrwCBIAGgAiACoAMgYIAhICdWs6AEIECAEQAEoAWgByAHoAgkDMCAgAEAAYACAAKgoKA2hvdxWLvKVAKjoKAmRvFW_uDkAaA2FyZRoFY291bGQaBGRvZXMaBG1ha2UaBnNob3VsZBoCdG8aBHdpbGwaBWRvdG9wKjMKA3RvcBUAAAAAGgRiZXN0GgdsZWFkaW5nGgR0b3BzGgVkb3RvcBoLdG9wY3JlYXRvcnMqQgoIY3JlYXRvcnMVFXMxPRoHY3JlYXRvchoJZGVzaWduZXJzGghmb3VuZGVycxoGbWFrZXJzGgt0b3BjcmVhdG9ycyo0CglyZXB1cnBvc2UVsJerQBoLcmVwdXJwb3NpbmcaBXJldXNlGg5pdjtwO3JlcHVycG9zZSo4CgRsb25nFefd-0AaBmxvbmdlchoIbG9uZ2Zvcm0aCHRoZSBmdWxsGg9sb25nZm9ybWNvbnRlbnQqQgoEZm9ybRX6gABBGgZmb3JtYXQaBWZvcm1zGghsb25nZm9ybRoPbG9uZ2Zvcm1jb250ZW50Ggtmb3JtY29udGVudCpACgdjb250ZW50FXLwDkEaCGNvbnRlbnRzGghsb25nZm9ybRoPbG9uZ2Zvcm1jb250ZW50Ggtmb3JtY29udGVudCocCgRpbnRvFekTDUAaC2NhbGN1bGF0aW5nGgJpbiowCgZ3ZWVrbHkVVg6oQBoLY2FsY3VsYXRpbmcaCmV2ZXJ5IHdlZWsaCHBlciB3ZWVrKh4KC25ld3NsZXR0ZXJzFRT-uz8aCm5ld3NsZXR0ZXIypAIvZ290bz91cmw9Q0FFU3pnRUJ4Q0pGMTVLM2NDTXU1V3plWHdET3U0ZGM3Q25iUVhtOEdFZC1URFV4cGFtWDlGQVVRc29UWkhUbnhjWDBhaVY3TDdHekV5OTVFRzdYVTQteWRPNnFlVnAxQy12QlE2Q2wwT2tNSV9pZTc2djZYX0Y5bVlMQndQc043RlFUMzE4cFZKSDMtYklkT0pubDVoRy1vSVg5ZG5QTVJQU0pLMDBMbFhwaXRjR01ad3pDdElvdUdzOWZwd25GSHh3ZDhsV2QzS0VQRmQ2cU93cms3UWpmb1IzOHNRcnZYRTNWaHduSDZwTjNqUkFoMG9GUF9ZeFp4WnNTWmgyMmZrVW1NMl9NVjZDLTB2MzByMWI5R2NTVXZnOkpIb3cgPGI-dG8gcmVwdXJwb3NlIGNvbnRlbnQ8L2I-IHdpdGggPGI-d2Vla2x5IGxvbmc8L2I-LTxiPmZvcm08L2I-IHBpZWNlc0KOAVRoZSBrZXkgaXMgdG8gPGI-dXNlIHRoaXMgbG9uZyBmb3JtIHRvIHJlcHVycG9zZSBjb250ZW50PC9iPiBhbmQgZHJpdmUgdHJhZmZpYyBmcm9tIGFsbCBvdGhlciBzb3VyY2VzIHRvIHlvdXIgbmV3IGxvbmcgZm9ybSBjb250ZW50IGVhY2ggd2Vlay5SBGJlc3RSAnRvUgNhcmVSBHdpbGxSAmluIgIQAUgAWABoAA",
+        "source": "Facebook \u00b7 Jess Cassity"
+      },
+      {
+        "position": 2,
+        "title": "How Top Creators Repurpose Content For Their Newsletter",
+        "link": "https://mikeromaine.com/newsletter-repurposing/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHEIkXXH9DdEpeq9N_8dieXTlnRDxe-5HfOJpZUk_LffewzetBnEwEPzJ7B1cvx91DPPT1vgREkdgkNzBSE1jugRVZG7pKi09XL0qToN_eD5V9W5WEbZL04TxSyUKGKWZh_L0rLJaZL2J7u7w&ved=2ahUKEwjT0o_R25uYAxXtLlkFHV7BFuIQFnoECCUQAQ&uoh=1",
+        "displayed_link": "https://mikeromaine.com \u203a newsletter-repurposing",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAABHVBMVEU5ODgpNzgjNzgwODi5MzDaQTaLPDdyLTD_ak74TDv5Qza-Pzc4MzA6NjLtRjelPTOuPDFrODI4Lyo4KyI9Wmk1Z387YnovRGgzSGQxTXEwQF8gPFttMEniQToAPF4jS2w3PEQ7MyhEi6xUx_lJqNNQm8E9sPYXedgATaxhOH7_Z0XgQUQARqkXc9EgbLw1QlROKhtOJhMZdtIAWbhOHABONC5Jvvj8PR9PQUIlhtlcaJfjrKnfnaArWIxLs-I7Fgk7AAAuk9-tyM7____k4-F7oNWOhofO4vHy8fBIisi_z9OerMmvnpel4P9SdLSLdnDw-P2IyfLo9PxBabFpTUN_xPFDEAC6urpFAAA8VXZ3dHFWVVWsq6swLy-goKCM6aZkAAABOElEQVR4AY3Sg7rDMBiA4R5rtpX2zLaRzrZ3_5exv2ueWd-D4i2TUGe9vEJv1PXeP6DPq_r29f3z-_v79_I0CgQCIRegSCyWSI9IJlcoVWq1RqvTG76NJr3ZrLFYhbzJbYhmaPRvt9sdTpfb4_HCns8PCkYzgWAgGLShUMgLGA6HuOwaUIGSiUS5IraYN-SMu-0hEvdCOhHlC6CkN5XOeInZs0JKnovk-QqomCxhtkzU7rMCVqo1PlSsN1i2STC0w1a1jXehYqjE1jon2MW9_gCsioreUH1IjOAIoN_GvTGHeyI4AWy3-2PMIWmPhRoe9PGgeh1Z3MfQVZxMq9WbOGu18U1kmDYfKtqPAxQolPvm2jmkJVl2q2CfULBYCPdRZy2n0xV1K8BpZX0HNzdxtVnduBNaQ9S-LYm9ZuCtxEK5AAAAAElFTkSuQmCC.png",
+        "snippet": "A lot of the repurposing we see is about trimming down the content and leaving the depth for the newsletter/article. Let's take a look at how the two compare in ...",
+        "snippet_highlighted_words": [
+          "trimming down the content and leaving the depth for the newsletter"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "A lot of the repurposing we see is about trimming down the content and leaving the depth for the newsletter/article. Let's take a look at how the two compare in ...",
+            "source_info_link": "https://mikeromaine.com/newsletter-repurposing/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAABHVBMVEU5ODgpNzgjNzgwODi5MzDaQTaLPDdyLTD_ak74TDv5Qza-Pzc4MzA6NjLtRjelPTOuPDFrODI4Lyo4KyI9Wmk1Z387YnovRGgzSGQxTXEwQF8gPFttMEniQToAPF4jS2w3PEQ7MyhEi6xUx_lJqNNQm8E9sPYXedgATaxhOH7_Z0XgQUQARqkXc9EgbLw1QlROKhtOJhMZdtIAWbhOHABONC5Jvvj8PR9PQUIlhtlcaJfjrKnfnaArWIxLs-I7Fgk7AAAuk9-tyM7____k4-F7oNWOhofO4vHy8fBIisi_z9OerMmvnpel4P9SdLSLdnDw-P2IyfLo9PxBabFpTUN_xPFDEAC6urpFAAA8VXZ3dHFWVVWsq6swLy-goKCM6aZkAAABOElEQVR4AY3Sg7rDMBiA4R5rtpX2zLaRzrZ3_5exv2ueWd-D4i2TUGe9vEJv1PXeP6DPq_r29f3z-_v79_I0CgQCIRegSCyWSI9IJlcoVWq1RqvTG76NJr3ZrLFYhbzJbYhmaPRvt9sdTpfb4_HCns8PCkYzgWAgGLShUMgLGA6HuOwaUIGSiUS5IraYN-SMu-0hEvdCOhHlC6CkN5XOeInZs0JKnovk-QqomCxhtkzU7rMCVqo1PlSsN1i2STC0w1a1jXehYqjE1jon2MW9_gCsioreUH1IjOAIoN_GvTGHeyI4AWy3-2PMIWmPhRoe9PGgeh1Z3MfQVZxMq9WbOGu18U1kmDYfKtqPAxQolPvm2jmkJVl2q2CfULBYCPdRZy2n0xV1K8BpZX0HNzdxtVnduBNaQ9S-LYm9ZuCtxEK5AAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhFSWtYWE9UUVdOVjNVbDE3MjBnd3V4UFZDa2gwWWRDcWJtNzVYM3oxQjBMMV9DeDlORE9QX1VRTDdFeDlMN2hvQmhzQUhWZjZSbE9VSklVak5RWHdrRkNuOFhqRWNaQUNpdnBiVjJuR2xTR0thSjltMjJQQjIyRmlmVkNtRXIzRHJFWVlvdXFGcjQwdGFwZxIEGgIIABqNCBIAGgAiACoAMgYIAhICdWs6AEIECAEQAEoAWgByAHoAgkDpBwgAEAAYACAAKgoKA2hvdxUwGY1AKjoKAmRvFXVh0T8aA2FyZRoFY291bGQaBGRvZXMaBG1ha2UaBnNob3VsZBoCdG8aBHdpbGwaBWRvdG9wKjMKA3RvcBXafI5AGgRiZXN0GgdsZWFkaW5nGgR0b3BzGgVkb3RvcBoLdG9wY3JlYXRvcnMqQgoIY3JlYXRvcnMVDIKqQBoHY3JlYXRvchoJZGVzaWduZXJzGghmb3VuZGVycxoGbWFrZXJzGgt0b3BjcmVhdG9ycyo0CglyZXB1cnBvc2UVgnqYQBoLcmVwdXJwb3NpbmcaBXJldXNlGg5pdjtwO3JlcHVycG9zZSo4CgRsb25nFZd_Rz4aBmxvbmdlchoIbG9uZ2Zvcm0aCHRoZSBmdWxsGg9sb25nZm9ybWNvbnRlbnQqQgoEZm9ybRUAAAAAGgZmb3JtYXQaBWZvcm1zGghsb25nZm9ybRoPbG9uZ2Zvcm1jb250ZW50Ggtmb3JtY29udGVudCpACgdjb250ZW50FRLZ00AaCGNvbnRlbnRzGghsb25nZm9ybRoPbG9uZ2Zvcm1jb250ZW50Ggtmb3JtY29udGVudCocCgRpbnRvFeW7lD8aC2NhbGN1bGF0aW5nGgJpbiowCgZ3ZWVrbHkV_J6LPhoLY2FsY3VsYXRpbmcaCmV2ZXJ5IHdlZWsaCHBlciB3ZWVrKh4KC25ld3NsZXR0ZXJzFbuevT8aCm5ld3NsZXR0ZXIyoAEvZ290bz91cmw9Q0FFU2JBSEVJa1hYT1RRV05WM1VsMTcyMGd3dXhQVkNraDBZZENxYm03NVgzejFCMEwxX0N4OU5ET1BfVVFMN0V4OUw3aG9CaHNBSFZmNlJsT1VKSVVqTlFYd2tGQ244WGpFY1pBQ2l2cGJWMm5HbFNHS2FKOW0yMlBCMjJGaWZWQ21FcjNEckVZWW91cUZyNDB0YXBnOkVIb3cgPGI-VG9wIENyZWF0b3JzIFJlcHVycG9zZSBDb250ZW50PC9iPiBGb3IgVGhlaXIgPGI-TmV3c2xldHRlcjwvYj5CtAFBIGxvdCBvZiB0aGUgcmVwdXJwb3Npbmcgd2Ugc2VlIGlzIGFib3V0IDxiPnRyaW1taW5nIGRvd24gdGhlIGNvbnRlbnQgYW5kIGxlYXZpbmcgdGhlIGRlcHRoIGZvciB0aGUgbmV3c2xldHRlcjwvYj4vYXJ0aWNsZS4gTGV0JiMzOTtzIHRha2UgYSBsb29rIGF0IGhvdyB0aGUgdHdvIGNvbXBhcmUgaW4mbmJzcDsuLi5SBGJlc3RSBHdpbGxSA2FyZVICdG9SAmluIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhFSWtYWE9UUVdOVjNVbDE3MjBnd3V4UFZDa2gwWWRDcWJtNzVYM3oxQjBMMV9DeDlORE9QX1VRTDdFeDlMN2hvQmhzQUhWZjZSbE9VSklVak5RWHdrRkNuOFhqRWNaQUNpdnBiVjJuR2xTR0thSjltMjJQQjIyRmlmVkNtRXIzRHJFWVlvdXFGcjQwdGFwZxIEGgIIABqNCBIAGgAiACoAMgYIAhICdWs6AEIECAEQAEoAWgByAHoAgkDpBwgAEAAYACAAKgoKA2hvdxUwGY1AKjoKAmRvFXVh0T8aA2FyZRoFY291bGQaBGRvZXMaBG1ha2UaBnNob3VsZBoCdG8aBHdpbGwaBWRvdG9wKjMKA3RvcBXafI5AGgRiZXN0GgdsZWFkaW5nGgR0b3BzGgVkb3RvcBoLdG9wY3JlYXRvcnMqQgoIY3JlYXRvcnMVDIKqQBoHY3JlYXRvchoJZGVzaWduZXJzGghmb3VuZGVycxoGbWFrZXJzGgt0b3BjcmVhdG9ycyo0CglyZXB1cnBvc2UVgnqYQBoLcmVwdXJwb3NpbmcaBXJldXNlGg5pdjtwO3JlcHVycG9zZSo4CgRsb25nFZd_Rz4aBmxvbmdlchoIbG9uZ2Zvcm0aCHRoZSBmdWxsGg9sb25nZm9ybWNvbnRlbnQqQgoEZm9ybRUAAAAAGgZmb3JtYXQaBWZvcm1zGghsb25nZm9ybRoPbG9uZ2Zvcm1jb250ZW50Ggtmb3JtY29udGVudCpACgdjb250ZW50FRLZ00AaCGNvbnRlbnRzGghsb25nZm9ybRoPbG9uZ2Zvcm1jb250ZW50Ggtmb3JtY29udGVudCocCgRpbnRvFeW7lD8aC2NhbGN1bGF0aW5nGgJpbiowCgZ3ZWVrbHkV_J6LPhoLY2FsY3VsYXRpbmcaCmV2ZXJ5IHdlZWsaCHBlciB3ZWVrKh4KC25ld3NsZXR0ZXJzFbuevT8aCm5ld3NsZXR0ZXIyoAEvZ290bz91cmw9Q0FFU2JBSEVJa1hYT1RRV05WM1VsMTcyMGd3dXhQVkNraDBZZENxYm03NVgzejFCMEwxX0N4OU5ET1BfVVFMN0V4OUw3aG9CaHNBSFZmNlJsT1VKSVVqTlFYd2tGQ244WGpFY1pBQ2l2cGJWMm5HbFNHS2FKOW0yMlBCMjJGaWZWQ21FcjNEckVZWW91cUZyNDB0YXBnOkVIb3cgPGI-VG9wIENyZWF0b3JzIFJlcHVycG9zZSBDb250ZW50PC9iPiBGb3IgVGhlaXIgPGI-TmV3c2xldHRlcjwvYj5CtAFBIGxvdCBvZiB0aGUgcmVwdXJwb3Npbmcgd2Ugc2VlIGlzIGFib3V0IDxiPnRyaW1taW5nIGRvd24gdGhlIGNvbnRlbnQgYW5kIGxlYXZpbmcgdGhlIGRlcHRoIGZvciB0aGUgbmV3c2xldHRlcjwvYj4vYXJ0aWNsZS4gTGV0JiMzOTtzIHRha2UgYSBsb29rIGF0IGhvdyB0aGUgdHdvIGNvbXBhcmUgaW4mbmJzcDsuLi5SBGJlc3RSBHdpbGxSA2FyZVICdG9SAmluIgIQAUgAWABoAA",
+        "source": "mikeromaine.com",
+        "read_more_link": "https://www.google.com/goto?url=CAESugEBxCJF1-aXph-MQLNEPVHD8DROMhlWkCCl8cebSBG0BF18wNuUxOFPJsnttIdcP5wqLjvhG1dv6iw6NgsnRf4CndmaTW5HJLEFD2zF8EbiOQFGjXervv_iH90H80uSHAQDxZ1-hXVbiyqz36bjAsFbMPJvjw2Zmh0eTDMGLgirUWWTTF98QUfO-BT1SegZVNwBd-CDpOnQ0_dr3SX2anuhabvjDvre61g5x9wdcfYz8ZDyvhyTHIyWVZQ&gsessionid=haX-IOyi4XVwA8s5xw8eu0NQgS9FaauJdkrqHtpYrUejG9AgrYaDig"
+      },
+      {
+        "position": 3,
+        "title": "How To Repurpose Content: The Complete Guide",
+        "link": "https://www.google.com/goto?url=CAESdAHEIkXXMY40MDoYbya_pjUjTSqgoMSoTVnJrFRCx-hvAzOQtbO7mZHw3gOdnCXUtlySz9R-6wlgLoGNPnN3Wf2WFnYMJ0wymNY7CXDR12dGS0b24KGkpw0ZLE1vmjVurK894QkCbDZlObRMzAyj2TciVal2",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHEIkXXSJkwFGzdZbd_VjKFvNh7R0Ka0Z3ptycHXbP5HNnpjbKXIP9RQNGRXd_6BAOW8vJsN-SyTPiVMheo2Zxc_M_LahFwjhvGjiPil9O7ysJ1a8XxQL5Xm-G8VnYeloSXXcxT1x7Wg6766WNts3gWogTQ&ved=2ahUKEwjT0o_R25uYAxXtLlkFHV7BFuIQFnoECCoQAQ&uoh=1",
+        "displayed_link": "https://brandlume.com \u203a repurpose-content-complete-g...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAANlBMVEVHcEwAutIAutIAutIAutIAutIAutIAutIAutIAutIAutIAutIAutIAutIAutIAutIAutIAutL7DzgXAAAAEnRSTlMAB23D5f-sWHxD9RMbm9UsNYhdFjWWAAAA-UlEQVR4AXWQC47FIAhFQb0itmLd_2Yn1nnyvicJSTnllkIbDjEBKQt9wBnIQaREoLw5Rd0TBYmfnSCTcyQctDnRZo1mlvtsWHWZbNZqoZSIGc9oHnrOMFzzYYB3axIjuWToHfMYhTzJC32tvNyFc0ll5qtGmvT_hQN4yZtKNwx5laH3HhCXRXiLXbdSl77Qo1vWXfr-FZfHelWwr37u7pnqHliYzZoxScdKVT98vjdT1ceXEm0UM8UJ6OR0oNx5LG26QC8MoJoloFFDoXd6GK0oC3wZx2Ib2YDG9Im0GPO46Cu5BZFh9ascVlGtKX1HVIV-cFSgHuT8AemzCKq2Eg_4AAAAAElFTkSuQmCC.png",
+        "date": "7 May 2025",
+        "snippet": "1. Distribute Content Across Platforms ... Different platforms serve different audiences. Repurposing allows you to tailor your content for each ...",
+        "snippet_highlighted_words": [
+          "Distribute Content Across Platforms"
+        ],
+        "sitelinks": {
+          "inline": [
+            {
+              "title": "When to Repurpose Content?",
+              "link": "https://www.google.com/goto?url=CAESjgEBxCJF15ifUSgZ-C3nHdJFSFMCI6MX_CHF-T_jaVKqKFvOnXFaPGuhqtitFAvYETMuzoJQe2plhiN9Sz5zJ8LdICFOFo_9DVZXSz6-KKKECoyq0QfisjzT6VaBtfI1degAi4RftmxrF_5eeWa5PnWISGHU0OJObybtKGNs9DwwLYeSjUUrWh6TSCEsP7Kn&gsessionid=haX-IOyi4XVwA8s5xw8eu0NQgS9FaauJdkrqHtpYrUejG9AgrYaDig"
+            },
+            {
+              "title": "How to Repurpose Content?",
+              "link": "https://www.google.com/goto?url=CAESjQEBxCJF141xpJA8in8gc2yjZrKrn5kyoTEVwNpxDd_kSUYD1meaZ3lSH-c4WJdTSrfr4acQebO0W5xTZQFBbn3cFVp-WaLc2heRjSorU_ptuOxRk8VhTctMnobgkf3753sLAyJFAlY8G7r6Q11hAAmoXyu4a1UgHlCs8koKY23MCJCJ-imqEXU5SnfF8ic&gsessionid=haX-IOyi4XVwA8s5xw8eu0NQgS9FaauJdkrqHtpYrUejG9AgrYaDig"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "1. Distribute Content Across Platforms ... Different platforms serve different audiences. Repurposing allows you to tailor your content for each ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESdAHEIkXXMY40MDoYbya_pjUjTSqgoMSoTVnJrFRCx-hvAzOQtbO7mZHw3gOdnCXUtlySz9R-6wlgLoGNPnN3Wf2WFnYMJ0wymNY7CXDR12dGS0b24KGkpw0ZLE1vmjVurK894QkCbDZlObRMzAyj2TciVal2",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAANlBMVEVHcEwAutIAutIAutIAutIAutIAutIAutIAutIAutIAutIAutIAutIAutIAutIAutIAutIAutL7DzgXAAAAEnRSTlMAB23D5f-sWHxD9RMbm9UsNYhdFjWWAAAA-UlEQVR4AXWQC47FIAhFQb0itmLd_2Yn1nnyvicJSTnllkIbDjEBKQt9wBnIQaREoLw5Rd0TBYmfnSCTcyQctDnRZo1mlvtsWHWZbNZqoZSIGc9oHnrOMFzzYYB3axIjuWToHfMYhTzJC32tvNyFc0ll5qtGmvT_hQN4yZtKNwx5laH3HhCXRXiLXbdSl77Qo1vWXfr-FZfHelWwr37u7pnqHliYzZoxScdKVT98vjdT1ceXEm0UM8UJ6OR0oNx5LG26QC8MoJoloFFDoXd6GK0oC3wZx2Ib2YDG9Im0GPO46Cu5BZFh9ascVlGtKX1HVIV-cFSgHuT8AemzCKq2Eg_4AAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqoBL2dvdG8_dXJsPUNBRVNkQUhFSWtYWE1ZNDBNRG9ZYnlhX3BqVWpUU3Fnb01Tb1RWbkpyRlJDeC1odkF6T1F0Yk83bVpIdzNnT2RuQ1hVdGx5U3o5Ui02d2xnTG9HTlBuTjNXZjJXRm5ZTUowd3ltTlk3Q1hEUjEyZEdTMGIyNEtHa3B3MFpMRTF2bWpWdXJLODk0UWtDYkRabE9iUk16QXlqMlRjaVZhbDISBBoCCAAa_wcSAggAGgAiACoAMgYIAhICdWs6AEIECAEQAEoAWgByAHoAgkDZBwgAEAAYACAAKgoKA2hvdxXqzVdAKjoKAmRvFaTdaz8aA2FyZRoFY291bGQaBGRvZXMaBG1ha2UaBnNob3VsZBoCdG8aBHdpbGwaBWRvdG9wKjMKA3RvcBUA-N8-GgRiZXN0GgdsZWFkaW5nGgR0b3BzGgVkb3RvcBoLdG9wY3JlYXRvcnMqQgoIY3JlYXRvcnMVyNeWPRoHY3JlYXRvchoJZGVzaWduZXJzGghmb3VuZGVycxoGbWFrZXJzGgt0b3BjcmVhdG9ycyo0CglyZXB1cnBvc2UVSs5zQBoLcmVwdXJwb3NpbmcaBXJldXNlGg5pdjtwO3JlcHVycG9zZSo4CgRsb25nFQDovz8aBmxvbmdlchoIbG9uZ2Zvcm0aCHRoZSBmdWxsGg9sb25nZm9ybWNvbnRlbnQqQgoEZm9ybRVfxts_GgZmb3JtYXQaBWZvcm1zGghsb25nZm9ybRoPbG9uZ2Zvcm1jb250ZW50Ggtmb3JtY29udGVudCpACgdjb250ZW50FYboxUAaCGNvbnRlbnRzGghsb25nZm9ybRoPbG9uZ2Zvcm1jb250ZW50Ggtmb3JtY29udGVudCocCgRpbnRvFWlvJEAaC2NhbGN1bGF0aW5nGgJpbiowCgZ3ZWVrbHkVAAAAABoLY2FsY3VsYXRpbmcaCmV2ZXJ5IHdlZWsaCHBlciB3ZWVrKh4KC25ld3NsZXR0ZXJzFZjgSj4aCm5ld3NsZXR0ZXIyqgEvZ290bz91cmw9Q0FFU2RBSEVJa1hYTVk0ME1Eb1lieWFfcGpValRTcWdvTVNvVFZuSnJGUkN4LWh2QXpPUXRiTzdtWkh3M2dPZG5DWFV0bHlTejlSLTZ3bGdMb0dOUG5OM1dmMldGbllNSjB3eW1OWTdDWERSMTJkR1MwYjI0S0drcHcwWkxFMXZtalZ1cks4OTRRa0NiRFpsT2JSTXpBeWoyVGNpVmFsMjo_SG93IDxiPlRvIFJlcHVycG9zZSBDb250ZW50PC9iPjogVGhlIENvbXBsZXRlIEd1aWRlIC0gQnJhbmRMdW1lQqABMS4gPGI-RGlzdHJpYnV0ZSBDb250ZW50IEFjcm9zcyBQbGF0Zm9ybXM8L2I-IC4uLiBEaWZmZXJlbnQgcGxhdGZvcm1zIHNlcnZlIGRpZmZlcmVudCBhdWRpZW5jZXMuIFJlcHVycG9zaW5nIGFsbG93cyB5b3UgdG8gdGFpbG9yIHlvdXIgY29udGVudCBmb3IgZWFjaCZuYnNwOy4uLlIEYmVzdFIEd2lsbFIDYXJlUgJ0b1ICaW4iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqoBL2dvdG8_dXJsPUNBRVNkQUhFSWtYWE1ZNDBNRG9ZYnlhX3BqVWpUU3Fnb01Tb1RWbkpyRlJDeC1odkF6T1F0Yk83bVpIdzNnT2RuQ1hVdGx5U3o5Ui02d2xnTG9HTlBuTjNXZjJXRm5ZTUowd3ltTlk3Q1hEUjEyZEdTMGIyNEtHa3B3MFpMRTF2bWpWdXJLODk0UWtDYkRabE9iUk16QXlqMlRjaVZhbDISBBoCCAAa_wcSAggAGgAiACoAMgYIAhICdWs6AEIECAEQAEoAWgByAHoAgkDZBwgAEAAYACAAKgoKA2hvdxXqzVdAKjoKAmRvFaTdaz8aA2FyZRoFY291bGQaBGRvZXMaBG1ha2UaBnNob3VsZBoCdG8aBHdpbGwaBWRvdG9wKjMKA3RvcBUA-N8-GgRiZXN0GgdsZWFkaW5nGgR0b3BzGgVkb3RvcBoLdG9wY3JlYXRvcnMqQgoIY3JlYXRvcnMVyNeWPRoHY3JlYXRvchoJZGVzaWduZXJzGghmb3VuZGVycxoGbWFrZXJzGgt0b3BjcmVhdG9ycyo0CglyZXB1cnBvc2UVSs5zQBoLcmVwdXJwb3NpbmcaBXJldXNlGg5pdjtwO3JlcHVycG9zZSo4CgRsb25nFQDovz8aBmxvbmdlchoIbG9uZ2Zvcm0aCHRoZSBmdWxsGg9sb25nZm9ybWNvbnRlbnQqQgoEZm9ybRVfxts_GgZmb3JtYXQaBWZvcm1zGghsb25nZm9ybRoPbG9uZ2Zvcm1jb250ZW50Ggtmb3JtY29udGVudCpACgdjb250ZW50FYboxUAaCGNvbnRlbnRzGghsb25nZm9ybRoPbG9uZ2Zvcm1jb250ZW50Ggtmb3JtY29udGVudCocCgRpbnRvFWlvJEAaC2NhbGN1bGF0aW5nGgJpbiowCgZ3ZWVrbHkVAAAAABoLY2FsY3VsYXRpbmcaCmV2ZXJ5IHdlZWsaCHBlciB3ZWVrKh4KC25ld3NsZXR0ZXJzFZjgSj4aCm5ld3NsZXR0ZXIyqgEvZ290bz91cmw9Q0FFU2RBSEVJa1hYTVk0ME1Eb1lieWFfcGpValRTcWdvTVNvVFZuSnJGUkN4LWh2QXpPUXRiTzdtWkh3M2dPZG5DWFV0bHlTejlSLTZ3bGdMb0dOUG5OM1dmMldGbllNSjB3eW1OWTdDWERSMTJkR1MwYjI0S0drcHcwWkxFMXZtalZ1cks4OTRRa0NiRFpsT2JSTXpBeWoyVGNpVmFsMjo_SG93IDxiPlRvIFJlcHVycG9zZSBDb250ZW50PC9iPjogVGhlIENvbXBsZXRlIEd1aWRlIC0gQnJhbmRMdW1lQqABMS4gPGI-RGlzdHJpYnV0ZSBDb250ZW50IEFjcm9zcyBQbGF0Zm9ybXM8L2I-IC4uLiBEaWZmZXJlbnQgcGxhdGZvcm1zIHNlcnZlIGRpZmZlcmVudCBhdWRpZW5jZXMuIFJlcHVycG9zaW5nIGFsbG93cyB5b3UgdG8gdGFpbG9yIHlvdXIgY29udGVudCBmb3IgZWFjaCZuYnNwOy4uLlIEYmVzdFIEd2lsbFIDYXJlUgJ0b1ICaW4iAhABSABYAGgA",
+        "source": "BrandLume",
+        "read_more_link": "https://www.google.com/goto?url=CAESjQIBxCJF15Rq2EmoX6cKjeo_d_a21LZIr_loNhQ287c_u66q_kk-XybOErJlYb51eI6yvt1fzYARYR9pkIJWn7eYoCFc2WSMM9XBhjR4viMzg7U_pYDgeArl2PUXPjAkm1zf8T32fC2qEUHLbj1tNvZs5RPv8-g2sY-0TvDggxDw-twNogHniqEVpZ9SwyYpPqxhtJ489xbJ0jzmLS0XX__m7-hgrNHtIV2_Xwj7h3480WXXN7ncbazjgIq0c4z--tGS1D7nTSRtbwqk5fRIT5gDqavCe-Oya3D57UXc-a24KkcrCeQpVkclnYKVMJRxWIF2clGNOmuKoSZrU45CoD-mdIR7rKueUtDiToELWA&gsessionid=haX-IOyi4XVwA8s5xw8eu0NQgS9FaauJdkrqHtpYrUejG9AgrYaDig"
+      },
+      {
+        "position": 4,
+        "title": "Repurpose Newsletter Content for Maximum Impact",
+        "link": "https://www.google.com/goto?url=CAEStgEBxCJF17htb_ySOScJYV8K78Or-N0qqrnjP-_7ZKEXp72rt-FAIxQlh8yzSMYU6rtsL_IE8V2A2s8qTwHfrGgCwG_vEpgqH9Y5MljVfML1VLKZHALxxOn3b1rNjfhCJWI4dZtHBgA1CtdsXO0uCgocRWZJpl9W2THm_LCpgvat-tHirp8tPjySksjQ076SVtUq11Tm-4KPaYJOXMZ750P_3vW5ak6l-rDtodwDYaCB9WSyTG0gLg",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStgEBxCJF18StkTyTXgENkAeLmLOBxsKwaz6WtsPhqU3E8QQeppOh6RG92Xz5uQef6JCiqd3MfUM6fpZWlyCZD-N22ShXclqMhyr74DYEqpR9EZFo8vSMvkMhUj6PhAvnGBQvsBWqMOGaRHrhlD9eNKWdmwKyr_6SGYWK--KrK7MFl1R0mLepBabXXO-VhZaYVyg3E3uoEn0zGxGgelIKT2dBpk9X-BqfXsLsfpJdAmg96nS2t_0VBw&ved=2ahUKEwjT0o_R25uYAxXtLlkFHV7BFuIQFnoECEQQAQ&uoh=1",
+        "displayed_link": "https://www.linkedin.com \u203a content-repurposing-guide",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABDUlEQVR4AWP4____gOLB44D6nTcsGIo33QHi_zTGd0B2YTiAPpYjHIHNAf_piQk6wGPW8f_rLz8HYRCbXg5AWI4GQGJ0cwDY12gAJDbcHUA4CkZAIqQUK7Ts_m_SfxBMs5RupswBaACr-P47b_5zlG_5DyzZ_r_-8hNF7vuvP__nn3r0X6JhJ-0ccPrR-_-H7735jw9cf_n5v0D1Nuo5gBxQve06zR0AjoL7b7_-__zjN4bc-ScfaOeA33___k9Yfg4mDw7u_Xdeo6uhnQP6D93FMNxlxjF0ZbRzgMXEQ9iyI90cALIMJoccDXRzAK6CZog6YNQBow6gIx54Bwx4x2RAu2bAysoEZu9o7xgAQrvkxt3WZi0AAAAASUVORK5CYII.png",
+        "snippet": "\u2714\ufe0fSlice long-form content into micro-content. Take a 1500-word article and pull out 5 to 7 strong ideas that each become their own social media post.",
+        "snippet_highlighted_words": [
+          "long",
+          "form content into",
+          "content",
+          "to"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "\u2714\ufe0fSlice long-form content into micro-content. Take a 1500-word article and pull out 5 to 7 strong ideas that each become their own social media post.",
+            "source_info_link": "https://www.google.com/goto?url=CAEStgEBxCJF17htb_ySOScJYV8K78Or-N0qqrnjP-_7ZKEXp72rt-FAIxQlh8yzSMYU6rtsL_IE8V2A2s8qTwHfrGgCwG_vEpgqH9Y5MljVfML1VLKZHALxxOn3b1rNjfhCJWI4dZtHBgA1CtdsXO0uCgocRWZJpl9W2THm_LCpgvat-tHirp8tPjySksjQ076SVtUq11Tm-4KPaYJOXMZ750P_3vW5ak6l-rDtodwDYaCB9WSyTG0gLg",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABDUlEQVR4AWP4____gOLB44D6nTcsGIo33QHi_zTGd0B2YTiAPpYjHIHNAf_piQk6wGPW8f_rLz8HYRCbXg5AWI4GQGJ0cwDY12gAJDbcHUA4CkZAIqQUK7Ts_m_SfxBMs5RupswBaACr-P47b_5zlG_5DyzZ_r_-8hNF7vuvP__nn3r0X6JhJ-0ccPrR-_-H7735jw9cf_n5v0D1Nuo5gBxQve06zR0AjoL7b7_-__zjN4bc-ScfaOeA33___k9Yfg4mDw7u_Xdeo6uhnQP6D93FMNxlxjF0ZbRzgMXEQ9iyI90cALIMJoccDXRzAK6CZog6YNQBow6gIx54Bwx4x2RAu2bAysoEZu9o7xgAQrvkxt3WZi0AAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoQCL2dvdG8_dXJsPUNBRVN0Z0VCeENKRjE3aHRiX3lTT1NjSllWOEs3OE9yLU4wcXFybmpQLV83WktFWHA3MnJ0LUZBSXhRbGg4eXpTTVlVNnJ0c0xfSUU4VjJBMnM4cVR3SGZyR2dDd0dfdkVwZ3FIOVk1TWxqVmZNTDFWTEtaSEFMeHhPbjNiMXJOamZoQ0pXSTRkWnRIQmdBMUN0ZHNYTzB1Q2dvY1JXWkpwbDlXMlRIbV9MQ3BndmF0LXRIaXJwOHRQanlTa3NqUTA3NlNWdFVxMTFUbS00S1BhWUpPWE1aNzUwUF8zdlc1YWs2bC1yRHRvZHdEWWFDQjlXU3lURzBnTGcSBBoCCAAa7ggSABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJAyggIABAAGAAgACoKCgNob3cVwTu5Pyo6CgJkbxWWyXc_GgNhcmUaBWNvdWxkGgRkb2VzGgRtYWtlGgZzaG91bGQaAnRvGgR3aWxsGgVkb3RvcCozCgN0b3AVpVMUQBoEYmVzdBoHbGVhZGluZxoEdG9wcxoFZG90b3AaC3RvcGNyZWF0b3JzKkIKCGNyZWF0b3JzFQAAAAAaB2NyZWF0b3IaCWRlc2lnbmVycxoIZm91bmRlcnMaBm1ha2VycxoLdG9wY3JlYXRvcnMqNAoJcmVwdXJwb3NlFYdNoUAaC3JlcHVycG9zaW5nGgVyZXVzZRoOaXY7cDtyZXB1cnBvc2UqOAoEbG9uZxUMvMw_GgZsb25nZXIaCGxvbmdmb3JtGgh0aGUgZnVsbBoPbG9uZ2Zvcm1jb250ZW50KkIKBGZvcm0VMJHuPxoGZm9ybWF0GgVmb3JtcxoIbG9uZ2Zvcm0aD2xvbmdmb3JtY29udGVudBoLZm9ybWNvbnRlbnQqQAoHY29udGVudBU6CeBAGghjb250ZW50cxoIbG9uZ2Zvcm0aD2xvbmdmb3JtY29udGVudBoLZm9ybWNvbnRlbnQqHAoEaW50bxWZITVAGgtjYWxjdWxhdGluZxoCaW4qMAoGd2Vla2x5FfAiDj8aC2NhbGN1bGF0aW5nGgpldmVyeSB3ZWVrGghwZXIgd2VlayoeCgtuZXdzbGV0dGVycxUn2Kk-GgpuZXdzbGV0dGVyMoQCL2dvdG8_dXJsPUNBRVN0Z0VCeENKRjE3aHRiX3lTT1NjSllWOEs3OE9yLU4wcXFybmpQLV83WktFWHA3MnJ0LUZBSXhRbGg4eXpTTVlVNnJ0c0xfSUU4VjJBMnM4cVR3SGZyR2dDd0dfdkVwZ3FIOVk1TWxqVmZNTDFWTEtaSEFMeHhPbjNiMXJOamZoQ0pXSTRkWnRIQmdBMUN0ZHNYTzB1Q2dvY1JXWkpwbDlXMlRIbV9MQ3BndmF0LXRIaXJwOHRQanlTa3NqUTA3NlNWdFVxMTFUbS00S1BhWUpPWE1aNzUwUF8zdlc1YWs2bC1yRHRvZHdEWWFDQjlXU3lURzBnTGc6QTxiPlJlcHVycG9zZSBOZXdzbGV0dGVyIENvbnRlbnQ8L2I-IGZvciBNYXhpbXVtIEltcGFjdCAtIExpbmtlZEluQrUB4pyU77iPU2xpY2UgPGI-bG9uZzwvYj4tPGI-Zm9ybSBjb250ZW50IGludG88L2I-IG1pY3JvLTxiPmNvbnRlbnQ8L2I-LiBUYWtlIGEgMTUwMC13b3JkIGFydGljbGUgYW5kIHB1bGwgb3V0IDUgPGI-dG88L2I-IDcgc3Ryb25nIGlkZWFzIHRoYXQgZWFjaCBiZWNvbWUgdGhlaXIgb3duIHNvY2lhbCBtZWRpYSBwb3N0LlICdG9SA2FyZVIEd2lsbFICaW5SBGJlc3QiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoQCL2dvdG8_dXJsPUNBRVN0Z0VCeENKRjE3aHRiX3lTT1NjSllWOEs3OE9yLU4wcXFybmpQLV83WktFWHA3MnJ0LUZBSXhRbGg4eXpTTVlVNnJ0c0xfSUU4VjJBMnM4cVR3SGZyR2dDd0dfdkVwZ3FIOVk1TWxqVmZNTDFWTEtaSEFMeHhPbjNiMXJOamZoQ0pXSTRkWnRIQmdBMUN0ZHNYTzB1Q2dvY1JXWkpwbDlXMlRIbV9MQ3BndmF0LXRIaXJwOHRQanlTa3NqUTA3NlNWdFVxMTFUbS00S1BhWUpPWE1aNzUwUF8zdlc1YWs2bC1yRHRvZHdEWWFDQjlXU3lURzBnTGcSBBoCCAAa7ggSABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJAyggIABAAGAAgACoKCgNob3cVwTu5Pyo6CgJkbxWWyXc_GgNhcmUaBWNvdWxkGgRkb2VzGgRtYWtlGgZzaG91bGQaAnRvGgR3aWxsGgVkb3RvcCozCgN0b3AVpVMUQBoEYmVzdBoHbGVhZGluZxoEdG9wcxoFZG90b3AaC3RvcGNyZWF0b3JzKkIKCGNyZWF0b3JzFQAAAAAaB2NyZWF0b3IaCWRlc2lnbmVycxoIZm91bmRlcnMaBm1ha2VycxoLdG9wY3JlYXRvcnMqNAoJcmVwdXJwb3NlFYdNoUAaC3JlcHVycG9zaW5nGgVyZXVzZRoOaXY7cDtyZXB1cnBvc2UqOAoEbG9uZxUMvMw_GgZsb25nZXIaCGxvbmdmb3JtGgh0aGUgZnVsbBoPbG9uZ2Zvcm1jb250ZW50KkIKBGZvcm0VMJHuPxoGZm9ybWF0GgVmb3JtcxoIbG9uZ2Zvcm0aD2xvbmdmb3JtY29udGVudBoLZm9ybWNvbnRlbnQqQAoHY29udGVudBU6CeBAGghjb250ZW50cxoIbG9uZ2Zvcm0aD2xvbmdmb3JtY29udGVudBoLZm9ybWNvbnRlbnQqHAoEaW50bxWZITVAGgtjYWxjdWxhdGluZxoCaW4qMAoGd2Vla2x5FfAiDj8aC2NhbGN1bGF0aW5nGgpldmVyeSB3ZWVrGghwZXIgd2VlayoeCgtuZXdzbGV0dGVycxUn2Kk-GgpuZXdzbGV0dGVyMoQCL2dvdG8_dXJsPUNBRVN0Z0VCeENKRjE3aHRiX3lTT1NjSllWOEs3OE9yLU4wcXFybmpQLV83WktFWHA3MnJ0LUZBSXhRbGg4eXpTTVlVNnJ0c0xfSUU4VjJBMnM4cVR3SGZyR2dDd0dfdkVwZ3FIOVk1TWxqVmZNTDFWTEtaSEFMeHhPbjNiMXJOamZoQ0pXSTRkWnRIQmdBMUN0ZHNYTzB1Q2dvY1JXWkpwbDlXMlRIbV9MQ3BndmF0LXRIaXJwOHRQanlTa3NqUTA3NlNWdFVxMTFUbS00S1BhWUpPWE1aNzUwUF8zdlc1YWs2bC1yRHRvZHdEWWFDQjlXU3lURzBnTGc6QTxiPlJlcHVycG9zZSBOZXdzbGV0dGVyIENvbnRlbnQ8L2I-IGZvciBNYXhpbXVtIEltcGFjdCAtIExpbmtlZEluQrUB4pyU77iPU2xpY2UgPGI-bG9uZzwvYj4tPGI-Zm9ybSBjb250ZW50IGludG88L2I-IG1pY3JvLTxiPmNvbnRlbnQ8L2I-LiBUYWtlIGEgMTUwMC13b3JkIGFydGljbGUgYW5kIHB1bGwgb3V0IDUgPGI-dG88L2I-IDcgc3Ryb25nIGlkZWFzIHRoYXQgZWFjaCBiZWNvbWUgdGhlaXIgb3duIHNvY2lhbCBtZWRpYSBwb3N0LlICdG9SA2FyZVIEd2lsbFICaW5SBGJlc3QiAhABSABYAGgA",
+        "source": "LinkedIn"
+      },
+      {
+        "position": 5,
+        "title": "Content Repurposing System for Creators: Turn One Idea ...",
+        "link": "https://www.google.com/goto?url=CAESgQEBxCJF13v-PIDs0olK9E5CW3j7wHyNqmuh82ILLv1SejBcpzQB4_QCfz9DKxpSOArUO0STWfHeeAwr0azbDFp2QLLScZeZAN2LhBjYeO8byhqxMUHMa5yrRt5MqZrtJ0_6SQoTzxcUdOB53U-jQXVxUeHniD2E2SqEKHSvBv_jOYg",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEBxCJF18uO_smgUEg7VF_B0qa6NUDdl7H391XUBiAoveLDmfzyQ_l71sPDc0s5kJ8BEb-21VUeoxJmybbe3RXOAtl3jYMTFaWuAvBpMhFBIj6KQJ-xAiu8N0Jv07gr1JmIIzs5P6yMfAy4-Yt-QDIWXf8WZcWQlEjKDLM-Wg7YGAk&ved=2ahUKEwjT0o_R25uYAxXtLlkFHV7BFuIQFnoECEIQAQ&uoh=1",
+        "displayed_link": "https://www.zenler.com \u203a blog \u203a content-repurposing-sys...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACQklEQVR4AcVXNbAUQRBtXCNIcEhw53YO9xC7WeoSJMTd3Yl--PMcz3B3S9DoZ9jM4O72-yXnttPBvqqV6ap-87qnx0grtzIM7Bcd2P8Rnn_sc1snn3fEEyp3C7YoHOgTfRM3PsPg84TKLuXvMl9_9E0CZ47CrJ4d2A0SDpEArczcWAWkRphEbALCwH1OD_jfUijgGwkK8CgxJAJCZRr8hyDppksFpAJ7kDyL7_7u3f-bijMQmPk-Av5x9FOIIRCAIXw7f4hrR9FV23rKQJSBDQREc3JnFib-txAKQBB3wRNVwMkZCdOWAJmAp7PU2-4E1CjgN0e-f9KkS80JkAl4lBple1Eu2Pi1zELzl1N1IqWeD6MK0Mqur6HgvuvkyzpksASB24woUd1M9pKfC1zl23ib7UM5SI9-1iY96VX7zDPgcUvYmXh0iSAQwAetzFWdtJvC8a87Uw7gi1U0Y0CjsLjgBGdWfwVkxZGZryxydIYwRxzEUg4QTKjcds7oRX5eIVgEjeCpEEgTd1yHtFVLLdJPFZDm4cMwYjjLcHylXKBAUCi1FhUKkEoABYvC5ed3NY6M0yz1ojumCIwSAcggZ-ZkrRwEYPy5cQcGbwEZHnM2CgcBOjOXZQJ4rOujchA2BGwMUgG8XkxFdUcWgC0RPxIB2Jq1cvdh8xBgD0oF4HDiy0Ghcg1iAcockxxKv0kEYBXFATWWYzkEpEaaBP5jE6DVy7mxCuD0r5ZwiC-neGSXU8_rOa7kvO12wPUcV3Xf63kjNtx8glsDVJkAAAAASUVORK5CYII.png",
+        "date": "8 Sept 2026",
+        "snippet": "Learn how creators can turn one video, blog, podcast, webinar or lesson into social posts, emails, SEO content and community prompts.",
+        "snippet_highlighted_words": [
+          "creators",
+          "into",
+          "content"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Learn how creators can turn one video, blog, podcast, webinar or lesson into social posts, emails, SEO content and community prompts.",
+            "source_info_link": "https://www.google.com/goto?url=CAESgQEBxCJF13v-PIDs0olK9E5CW3j7wHyNqmuh82ILLv1SejBcpzQB4_QCfz9DKxpSOArUO0STWfHeeAwr0azbDFp2QLLScZeZAN2LhBjYeO8byhqxMUHMa5yrRt5MqZrtJ0_6SQoTzxcUdOB53U-jQXVxUeHniD2E2SqEKHSvBv_jOYg",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACQklEQVR4AcVXNbAUQRBtXCNIcEhw53YO9xC7WeoSJMTd3Yl--PMcz3B3S9DoZ9jM4O72-yXnttPBvqqV6ap-87qnx0grtzIM7Bcd2P8Rnn_sc1snn3fEEyp3C7YoHOgTfRM3PsPg84TKLuXvMl9_9E0CZ47CrJ4d2A0SDpEArczcWAWkRphEbALCwH1OD_jfUijgGwkK8CgxJAJCZRr8hyDppksFpAJ7kDyL7_7u3f-bijMQmPk-Av5x9FOIIRCAIXw7f4hrR9FV23rKQJSBDQREc3JnFib-txAKQBB3wRNVwMkZCdOWAJmAp7PU2-4E1CjgN0e-f9KkS80JkAl4lBple1Eu2Pi1zELzl1N1IqWeD6MK0Mqur6HgvuvkyzpksASB24woUd1M9pKfC1zl23ib7UM5SI9-1iY96VX7zDPgcUvYmXh0iSAQwAetzFWdtJvC8a87Uw7gi1U0Y0CjsLjgBGdWfwVkxZGZryxydIYwRxzEUg4QTKjcds7oRX5eIVgEjeCpEEgTd1yHtFVLLdJPFZDm4cMwYjjLcHylXKBAUCi1FhUKkEoABYvC5ed3NY6M0yz1ojumCIwSAcggZ-ZkrRwEYPy5cQcGbwEZHnM2CgcBOjOXZQJ4rOujchA2BGwMUgG8XkxFdUcWgC0RPxIB2Jq1cvdh8xBgD0oF4HDiy0Ghcg1iAcockxxKv0kEYBXFATWWYzkEpEaaBP5jE6DVy7mxCuD0r5ZwiC-neGSXU8_rOa7kvO12wPUcV3Xf63kjNtx8glsDVJkAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCeENKRjEzdi1QSURzMG9sSzlFNUNXM2o3d0h5TnFtdWg4MklMTHYxU2VqQmNwelFCNF9RQ2Z6OURLeHBTT0FyVU8wU1RXZkhlZUF3cjBhemJERnAyUUxMU2NaZVpBTjJMaEJqWWVPOGJ5aHF4TVVITWE1eXJSdDVNcVpydEowXzZTUW9UenhjVWRPQjUzVS1qUVhWeFVlSG5pRDJFMlNxRUtIU3ZCdl9qT1lnEgQaAggAGqEIEgIIABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJA-wcIABAAGAAgACoKCgNob3cVYwAnQCo6CgJkbxUOK-c_GgNhcmUaBWNvdWxkGgRkb2VzGgRtYWtlGgZzaG91bGQaAnRvGgR3aWxsGgVkb3RvcCozCgN0b3AVuEx7PxoEYmVzdBoHbGVhZGluZxoEdG9wcxoFZG90b3AaC3RvcGNyZWF0b3JzKkIKCGNyZWF0b3JzFVP75EAaB2NyZWF0b3IaCWRlc2lnbmVycxoIZm91bmRlcnMaBm1ha2VycxoLdG9wY3JlYXRvcnMqNAoJcmVwdXJwb3NlFQy4JD8aC3JlcHVycG9zaW5nGgVyZXVzZRoOaXY7cDtyZXB1cnBvc2UqOAoEbG9uZxUkSZ8_GgZsb25nZXIaCGxvbmdmb3JtGgh0aGUgZnVsbBoPbG9uZ2Zvcm1jb250ZW50KkIKBGZvcm0VYzXWPxoGZm9ybWF0GgVmb3JtcxoIbG9uZ2Zvcm0aD2xvbmdmb3JtY29udGVudBoLZm9ybWNvbnRlbnQqQAoHY29udGVudBWLoABBGghjb250ZW50cxoIbG9uZ2Zvcm0aD2xvbmdmb3JtY29udGVudBoLZm9ybWNvbnRlbnQqHAoEaW50bxVLINJAGgtjYWxjdWxhdGluZxoCaW4qMAoGd2Vla2x5FcXoST4aC2NhbGN1bGF0aW5nGgpldmVyeSB3ZWVrGghwZXIgd2VlayoeCgtuZXdzbGV0dGVycxUAAAAAGgpuZXdzbGV0dGVyMr0BL2dvdG8_dXJsPUNBRVNnUUVCeENKRjEzdi1QSURzMG9sSzlFNUNXM2o3d0h5TnFtdWg4MklMTHYxU2VqQmNwelFCNF9RQ2Z6OURLeHBTT0FyVU8wU1RXZkhlZUF3cjBhemJERnAyUUxMU2NaZVpBTjJMaEJqWWVPOGJ5aHF4TVVITWE1eXJSdDVNcVpydEowXzZTUW9UenhjVWRPQjUzVS1qUVhWeFVlSG5pRDJFMlNxRUtIU3ZCdl9qT1lnOlQ8Yj5Db250ZW50IFJlcHVycG9zaW5nPC9iPiBTeXN0ZW0gZm9yIDxiPkNyZWF0b3JzPC9iPjogVHVybiBPbmUgSWRlYSA8Yj5JbnRvPC9iPiAuLi5CmgFMZWFybiBob3cgPGI-Y3JlYXRvcnM8L2I-IGNhbiB0dXJuIG9uZSB2aWRlbywgYmxvZywgcG9kY2FzdCwgd2ViaW5hciBvciBsZXNzb24gPGI-aW50bzwvYj4gc29jaWFsIHBvc3RzLCBlbWFpbHMsIFNFTyA8Yj5jb250ZW50PC9iPiBhbmQgY29tbXVuaXR5IHByb21wdHMuUgR3aWxsUgNhcmVSAnRvUgJpblIEYmVzdCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCeENKRjEzdi1QSURzMG9sSzlFNUNXM2o3d0h5TnFtdWg4MklMTHYxU2VqQmNwelFCNF9RQ2Z6OURLeHBTT0FyVU8wU1RXZkhlZUF3cjBhemJERnAyUUxMU2NaZVpBTjJMaEJqWWVPOGJ5aHF4TVVITWE1eXJSdDVNcVpydEowXzZTUW9UenhjVWRPQjUzVS1qUVhWeFVlSG5pRDJFMlNxRUtIU3ZCdl9qT1lnEgQaAggAGqEIEgIIABoAIgAqADIGCAMSAnVrOgBCBAgBEABKAFoAcgB6AIJA-wcIABAAGAAgACoKCgNob3cVYwAnQCo6CgJkbxUOK-c_GgNhcmUaBWNvdWxkGgRkb2VzGgRtYWtlGgZzaG91bGQaAnRvGgR3aWxsGgVkb3RvcCozCgN0b3AVuEx7PxoEYmVzdBoHbGVhZGluZxoEdG9wcxoFZG90b3AaC3RvcGNyZWF0b3JzKkIKCGNyZWF0b3JzFVP75EAaB2NyZWF0b3IaCWRlc2lnbmVycxoIZm91bmRlcnMaBm1ha2VycxoLdG9wY3JlYXRvcnMqNAoJcmVwdXJwb3NlFQy4JD8aC3JlcHVycG9zaW5nGgVyZXVzZRoOaXY7cDtyZXB1cnBvc2UqOAoEbG9uZxUkSZ8_GgZsb25nZXIaCGxvbmdmb3JtGgh0aGUgZnVsbBoPbG9uZ2Zvcm1jb250ZW50KkIKBGZvcm0VYzXWPxoGZm9ybWF0GgVmb3JtcxoIbG9uZ2Zvcm0aD2xvbmdmb3JtY29udGVudBoLZm9ybWNvbnRlbnQqQAoHY29udGVudBWLoABBGghjb250ZW50cxoIbG9uZ2Zvcm0aD2xvbmdmb3JtY29udGVudBoLZm9ybWNvbnRlbnQqHAoEaW50bxVLINJAGgtjYWxjdWxhdGluZxoCaW4qMAoGd2Vla2x5FcXoST4aC2NhbGN1bGF0aW5nGgpldmVyeSB3ZWVrGghwZXIgd2VlayoeCgtuZXdzbGV0dGVycxUAAAAAGgpuZXdzbGV0dGVyMr0BL2dvdG8_dXJsPUNBRVNnUUVCeENKRjEzdi1QSURzMG9sSzlFNUNXM2o3d0h5TnFtdWg4MklMTHYxU2VqQmNwelFCNF9RQ2Z6OURLeHBTT0FyVU8wU1RXZkhlZUF3cjBhemJERnAyUUxMU2NaZVpBTjJMaEJqWWVPOGJ5aHF4TVVITWE1eXJSdDVNcVpydEowXzZTUW9UenhjVWRPQjUzVS1qUVhWeFVlSG5pRDJFMlNxRUtIU3ZCdl9qT1lnOlQ8Yj5Db250ZW50IFJlcHVycG9zaW5nPC9iPiBTeXN0ZW0gZm9yIDxiPkNyZWF0b3JzPC9iPjogVHVybiBPbmUgSWRlYSA8Yj5JbnRvPC9iPiAuLi5CmgFMZWFybiBob3cgPGI-Y3JlYXRvcnM8L2I-IGNhbiB0dXJuIG9uZSB2aWRlbywgYmxvZywgcG9kY2FzdCwgd2ViaW5hciBvciBsZXNzb24gPGI-aW50bzwvYj4gc29jaWFsIHBvc3RzLCBlbWFpbHMsIFNFTyA8Yj5jb250ZW50PC9iPiBhbmQgY29tbXVuaXR5IHByb21wdHMuUgR3aWxsUgNhcmVSAnRvUgJpblIEYmVzdCICEAFIAFgAaAA",
+        "source": "Zenler"
+      },
+      {
+        "position": 6,
+        "title": "Ultimate Guide To Repurposing Content For Newsletters",
+        "link": "https://www.google.com/goto?url=CAEShAEBxCJF19kkzl4ZTRjwIFBM9eQVygLdWPWVCz9I6BQLFxTS7nyEZ7_UOp_hjJ0kxxRMK0qgDAYyF6pL1b7_8vrH-pzDNo5SdVvwcu_GmHdiKEVC03vZGNlLBIob9nglJMwH37rsINGyDaUdMVUZz7nCHNew3dI-rwnrXYW9ahPj-R5C994",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEBxCJF1wcZojTTGVb7OXij1MgA0IXvll8NKWVsDZZvSNMR7MSYJ6n69kUO8uR-l5bgyXUoEAdz733aimPu4z0dxpGA9Rglf0o9s0Qm0vnpfVbys5tElold0Jr-BB8fqhxwQVAn5_S3u_UPvmyv69BUBzdQT4OJenj1VTLNbCFCUZ9JxKY&ved=2ahUKEwjT0o_R25uYAxXtLlkFHV7BFuIQFnoECDwQAQ&uoh=1",
+        "displayed_link": "https://joinbreaker.ai \u203a blog-posts \u203a repurposing-conten...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEVHcEw0RmJcpf8Ph_8ng-08kfLZ6PvD3f7T5vxOm-8ARY8Acep3s_8AV7YAUKUEYciIvP8AZ9sAevgAOHmXxf621Pn-__4gjf8ELGArkf9Bmv-nzv43lv9Mn_9srPwAgP_p8vdhl-CWuOdGhNQldNE6EtUpAAAACnRSTlMAe____v5p_v2GMQrAVQAAARRJREFUKJF10lmWgjAQBdDXAgaMDAmkQG0hDPtfoxUGRZDve15SE3AWoRDCmMejKLLseq1Pp-f9_1YGEXAOf5vnNREOcmzax7FpiR92n83h1spsNsbdm55pmtKZwv6_xmpdOGPc1XKzWgqfLcXOmjqUMmzZGLc9aGGkopYtxb4_quVALVuMnT1IqY56thhbC6hTqaWYLcHGJFkXNDFbgo1Z6tVANDi74HsP1pVpySTOLliZrIlzaUh2zDF--tOChFKDJUony7HMhVuw_GRLZNNkshzzPA2ZQCllyBU6W47R6uLpttBxrE_eVuF9E5LJ9PEnV1VYrDVdy1NZW4Ul51bk5rmyCkEz3cuI31YhOrY_IPIP7QXcYTWoYbHbhgAAAABJRU5ErkJggg.png",
+        "date": "26 Nov 2025",
+        "snippet": "How to Repurpose? Simplify and reformat content into short, actionable snippets, add visuals, and tailor messaging to different audiences.",
+        "snippet_highlighted_words": [
+          "Simplify and reformat content into short, actionable snippets"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "How to Repurpose? Simplify and reformat content into short, actionable snippets, add visuals, and tailor messaging to different audiences.",
+            "source_info_link": "https://www.google.com/goto?url=CAEShAEBxCJF19kkzl4ZTRjwIFBM9eQVygLdWPWVCz9I6BQLFxTS7nyEZ7_UOp_hjJ0kxxRMK0qgDAYyF6pL1b7_8vrH-pzDNo5SdVvwcu_GmHdiKEVC03vZGNlLBIob9nglJMwH37rsINGyDaUdMVUZz7nCHNew3dI-rwnrXYW9ahPj-R5C994",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEVHcEw0RmJcpf8Ph_8ng-08kfLZ6PvD3f7T5vxOm-8ARY8Acep3s_8AV7YAUKUEYciIvP8AZ9sAevgAOHmXxf621Pn-__4gjf8ELGArkf9Bmv-nzv43lv9Mn_9srPwAgP_p8vdhl-CWuOdGhNQldNE6EtUpAAAACnRSTlMAe____v5p_v2GMQrAVQAAARRJREFUKJF10lmWgjAQBdDXAgaMDAmkQG0hDPtfoxUGRZDve15SE3AWoRDCmMejKLLseq1Pp-f9_1YGEXAOf5vnNREOcmzax7FpiR92n83h1spsNsbdm55pmtKZwv6_xmpdOGPc1XKzWgqfLcXOmjqUMmzZGLc9aGGkopYtxb4_quVALVuMnT1IqY56thhbC6hTqaWYLcHGJFkXNDFbgo1Z6tVANDi74HsP1pVpySTOLliZrIlzaUh2zDF--tOChFKDJUony7HMhVuw_GRLZNNkshzzPA2ZQCllyBU6W47R6uLpttBxrE_eVuF9E5LJ9PEnV1VYrDVdy1NZW4Ul51bk5rmyCkEz3cuI31YhOrY_IPIP7QXcYTWoYbHbhgAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsEBL2dvdG8_dXJsPUNBRVNoQUVCeENKRjE5a2t6bDRaVFJqd0lGQk05ZVFWeWdMZFdQV1ZDejlJNkJRTEZ4VFM3bnlFWjdfVU9wX2hqSjBreHhSTUswcWdEQVl5RjZwTDFiN184dnJILXB6RE5vNVNkVnZ3Y3VfR21IZGlLRVZDMDN2WkdObExCSW9iOW5nbEpNd0gzN3JzSU5HeURhVWRNVlVaejduQ0hOZXczZEktcnduclhZVzlhaFBqLVI1Qzk5NBIEGgIIABqLCBICCAAaACIAKgAyBggDEgJ1azoAQgQIARAASgBaAHIAegCCQOUHCAAQABgAIAAqCgoDaG93FfEWDkAqOgoCZG8V1hIKPhoDYXJlGgVjb3VsZBoEZG9lcxoEbWFrZRoGc2hvdWxkGgJ0bxoEd2lsbBoFZG90b3AqMwoDdG9wFfxDPj8aBGJlc3QaB2xlYWRpbmcaBHRvcHMaBWRvdG9wGgt0b3BjcmVhdG9ycypCCghjcmVhdG9ycxVXNMY9GgdjcmVhdG9yGglkZXNpZ25lcnMaCGZvdW5kZXJzGgZtYWtlcnMaC3RvcGNyZWF0b3JzKjQKCXJlcHVycG9zZRVKF3NAGgtyZXB1cnBvc2luZxoFcmV1c2UaDml2O3A7cmVwdXJwb3NlKjgKBGxvbmcVGCM5QBoGbG9uZ2VyGghsb25nZm9ybRoIdGhlIGZ1bGwaD2xvbmdmb3JtY29udGVudCpCCgRmb3JtFZCGI0AaBmZvcm1hdBoFZm9ybXMaCGxvbmdmb3JtGg9sb25nZm9ybWNvbnRlbnQaC2Zvcm1jb250ZW50KkAKB2NvbnRlbnQVEncPQRoIY29udGVudHMaCGxvbmdmb3JtGg9sb25nZm9ybWNvbnRlbnQaC2Zvcm1jb250ZW50KhwKBGludG8V1m6OQBoLY2FsY3VsYXRpbmcaAmluKjAKBndlZWtseRUy5w5AGgtjYWxjdWxhdGluZxoKZXZlcnkgd2VlaxoIcGVyIHdlZWsqHgoLbmV3c2xldHRlcnMVDuTTQBoKbmV3c2xldHRlcjLBAS9nb3RvP3VybD1DQUVTaEFFQnhDSkYxOWtremw0WlRSandJRkJNOWVRVnlnTGRXUFdWQ3o5STZCUUxGeFRTN255RVo3X1VPcF9oakowa3h4Uk1LMHFnREFZeUY2cEwxYjdfOHZySC1wekRObzVTZFZ2d2N1X0dtSGRpS0VWQzAzdlpHTmxMQklvYjluZ2xKTXdIMzdyc0lOR3lEYVVkTVZVWno3bkNITmV3M2RJLXJ3bnJYWVc5YWhQai1SNUM5OTQ6Q1VsdGltYXRlIEd1aWRlIDxiPlRvIFJlcHVycG9zaW5nIENvbnRlbnQ8L2I-IEZvciA8Yj5OZXdzbGV0dGVyczwvYj5CkQFIb3cgdG8gUmVwdXJwb3NlPyA8Yj5TaW1wbGlmeSBhbmQgcmVmb3JtYXQgY29udGVudCBpbnRvIHNob3J0LCBhY3Rpb25hYmxlIHNuaXBwZXRzPC9iPiwgYWRkIHZpc3VhbHMsIGFuZCB0YWlsb3IgbWVzc2FnaW5nIHRvIGRpZmZlcmVudCBhdWRpZW5jZXMuUgJ0b1IDYXJlUgR3aWxsUgJpblIEYmVzdCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsEBL2dvdG8_dXJsPUNBRVNoQUVCeENKRjE5a2t6bDRaVFJqd0lGQk05ZVFWeWdMZFdQV1ZDejlJNkJRTEZ4VFM3bnlFWjdfVU9wX2hqSjBreHhSTUswcWdEQVl5RjZwTDFiN184dnJILXB6RE5vNVNkVnZ3Y3VfR21IZGlLRVZDMDN2WkdObExCSW9iOW5nbEpNd0gzN3JzSU5HeURhVWRNVlVaejduQ0hOZXczZEktcnduclhZVzlhaFBqLVI1Qzk5NBIEGgIIABqLCBICCAAaACIAKgAyBggDEgJ1azoAQgQIARAASgBaAHIAegCCQOUHCAAQABgAIAAqCgoDaG93FfEWDkAqOgoCZG8V1hIKPhoDYXJlGgVjb3VsZBoEZG9lcxoEbWFrZRoGc2hvdWxkGgJ0bxoEd2lsbBoFZG90b3AqMwoDdG9wFfxDPj8aBGJlc3QaB2xlYWRpbmcaBHRvcHMaBWRvdG9wGgt0b3BjcmVhdG9ycypCCghjcmVhdG9ycxVXNMY9GgdjcmVhdG9yGglkZXNpZ25lcnMaCGZvdW5kZXJzGgZtYWtlcnMaC3RvcGNyZWF0b3JzKjQKCXJlcHVycG9zZRVKF3NAGgtyZXB1cnBvc2luZxoFcmV1c2UaDml2O3A7cmVwdXJwb3NlKjgKBGxvbmcVGCM5QBoGbG9uZ2VyGghsb25nZm9ybRoIdGhlIGZ1bGwaD2xvbmdmb3JtY29udGVudCpCCgRmb3JtFZCGI0AaBmZvcm1hdBoFZm9ybXMaCGxvbmdmb3JtGg9sb25nZm9ybWNvbnRlbnQaC2Zvcm1jb250ZW50KkAKB2NvbnRlbnQVEncPQRoIY29udGVudHMaCGxvbmdmb3JtGg9sb25nZm9ybWNvbnRlbnQaC2Zvcm1jb250ZW50KhwKBGludG8V1m6OQBoLY2FsY3VsYXRpbmcaAmluKjAKBndlZWtseRUy5w5AGgtjYWxjdWxhdGluZxoKZXZlcnkgd2VlaxoIcGVyIHdlZWsqHgoLbmV3c2xldHRlcnMVDuTTQBoKbmV3c2xldHRlcjLBAS9nb3RvP3VybD1DQUVTaEFFQnhDSkYxOWtremw0WlRSandJRkJNOWVRVnlnTGRXUFdWQ3o5STZCUUxGeFRTN255RVo3X1VPcF9oakowa3h4Uk1LMHFnREFZeUY2cEwxYjdfOHZySC1wekRObzVTZFZ2d2N1X0dtSGRpS0VWQzAzdlpHTmxMQklvYjluZ2xKTXdIMzdyc0lOR3lEYVVkTVZVWno3bkNITmV3M2RJLXJ3bnJYWVc5YWhQai1SNUM5OTQ6Q1VsdGltYXRlIEd1aWRlIDxiPlRvIFJlcHVycG9zaW5nIENvbnRlbnQ8L2I-IEZvciA8Yj5OZXdzbGV0dGVyczwvYj5CkQFIb3cgdG8gUmVwdXJwb3NlPyA8Yj5TaW1wbGlmeSBhbmQgcmVmb3JtYXQgY29udGVudCBpbnRvIHNob3J0LCBhY3Rpb25hYmxlIHNuaXBwZXRzPC9iPiwgYWRkIHZpc3VhbHMsIGFuZCB0YWlsb3IgbWVzc2FnaW5nIHRvIGRpZmZlcmVudCBhdWRpZW5jZXMuUgJ0b1IDYXJlUgR3aWxsUgJpblIEYmVzdCICEAFIAFgAaAA",
+        "source": "joinbreaker.ai",
+        "read_more_link": "https://www.google.com/goto?url=CAES5wEBxCJF196JWJfvfnI9D95bI7kK2STkUzw5Nxy7Krq-ZkEME4TvbNRL9BVANIr9g89IP1Cdi_qIBCD9GXWVEtSBxCyWu9Vo6wVcQR1OTlFjl3HWuadREbN-NFk_yFccmjg30i03J5kNNekHjGQlcFD-t49cIv6Azpu9v4oS-nw1ms49T7ckOu_DQsUcgfYOehsIL8I2IgHuUQncPmXKyu-NktIJPKmGXCvPjvMhOUbEg84o3r3uvHsCR9xv7HDdyVIEAMU-852HW_vftDZwpM0IVs2GIuPPcX2CxHYh8_A5BvCm6vQKGqs&gsessionid=haX-IOyi4XVwA8s5xw8eu0NQgS9FaauJdkrqHtpYrUejG9AgrYaDig"
+      },
+      {
+        "position": 7,
+        "title": "The Best Content Repurposing Tools (and What They Actually ...",
+        "link": "https://www.google.com/goto?url=CAESnAEBxCJF17OZkpHfaiH0xCwBoPic-obCcO-TVBJymbytg62DEGMWl9Ny8UcIP1isqBFPPzu4ZJ1V-2wE1F6-Hpz1hRS_XmbTkonuf_LOdDI6nAremivj9N94ez8vtehyt2uwROahcqnYkeNoGphCE2PMM8fnwpf7oprQ823sIJEcSvUCZSlYTRqWYOriMnmRd7lP5H52Wwnu-ttjTpQ",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnAEBxCJF11qJk563xSHoURPt_d6CQ_YmGw1Q05Nm6ACp6bfsy-jy90zj8Bnit_sj4qqe_Jv85iMVkqJfT6YFmfTFzqpQ20uK9y1kSCHZM05SB_7HCuuBWtLceiMBpV_dBerYXAwxTW20eCwUI-htH75QDw5-I3gpaFbMTLqcqwuhQnYSJ4nhyDra-HEgGN0G_uZfK0BJC-7vVrhMz0g&ved=2ahUKEwjT0o_R25uYAxXtLlkFHV7BFuIQFnoECEEQAQ&uoh=1",
+        "displayed_link": "12 months ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAgVBMVEX_WAD_VwD_WQD_VgD_VQD_VAD_UwD_TgD_TAD_TQD_SwD_UQD_azn_n4P_UgD_lnj_____UAD_TwD_Xij_fF3_WBX_SgD_ckr_uKj_QwD_KgD_SQD_hWb_9O__7uj_inD_RQD_RAD_RwD_QQD9zcP_PwD_QgD_RgD8gWj9hW7_QAC5EgIpAAABgUlEQVR4ASSJgQ3AQAgCwcPuP3KJj4GcIHmsqUoP5pqeVfItOpsmc2ilO64kih4woq4Su8YBsc33OqQjBG-S3WVNIc9q8yU_F2OCg0AMQlESHZaiKKjoWPf7H1LMYqrvpyX5j4BIxMKtXk1EnD47UA4Xk67WAyuz8oZQnxryZjuwYZt0aQbqYe662w_s9IMpuJWzsMNANajuBB7h4fl7NsM9SIGodOTxNHBsREERICxCTPN5YJaolCSpcL9cb1-ul6xKGgO3xszzfTtwf0g5Echkynz-ymfLSoPeW_Z8_MkqC3hlf_csRjkIBCEM5dsbsKMRpgIr9z-gxY02QCiPrr1wwcfjgpjrbcki-8FXxOsLc-_Ns-xdrBx4HmrHOTDWtlUlRmgWz4mpVzHMpE2mpMy8DOf7UKf30uN5b1NzN0l3ZUdw2ki5l_MpVVy_ciJPGF8oeoW7pEIzkVBkKweS3sFPFQDdHEMbkZ2qDY3mlyCim8URhBhD0qCXoAaM-ur__gFn5T0pqVVSYwAAAABJRU5ErkJggg.png",
+        "snippet": "Repurpose.io is a content repurposing tool that takes a video or podcast episode and turns it into platform-ready clips, then publishes them ...",
+        "snippet_highlighted_words": [
+          "Repurpose.io is a content repurposing tool"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Repurpose.io is a content repurposing tool that takes a video or podcast episode and turns it into platform-ready clips, then publishes them ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESnAEBxCJF17OZkpHfaiH0xCwBoPic-obCcO-TVBJymbytg62DEGMWl9Ny8UcIP1isqBFPPzu4ZJ1V-2wE1F6-Hpz1hRS_XmbTkonuf_LOdDI6nAremivj9N94ez8vtehyt2uwROahcqnYkeNoGphCE2PMM8fnwpf7oprQ823sIJEcSvUCZSlYTRqWYOriMnmRd7lP5H52Wwnu-ttjTpQ",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAgVBMVEX_WAD_VwD_WQD_VgD_VQD_VAD_UwD_TgD_TAD_TQD_SwD_UQD_azn_n4P_UgD_lnj_____UAD_TwD_Xij_fF3_WBX_SgD_ckr_uKj_QwD_KgD_SQD_hWb_9O__7uj_inD_RQD_RAD_RwD_QQD9zcP_PwD_QgD_RgD8gWj9hW7_QAC5EgIpAAABgUlEQVR4ASSJgQ3AQAgCwcPuP3KJj4GcIHmsqUoP5pqeVfItOpsmc2ilO64kih4woq4Su8YBsc33OqQjBG-S3WVNIc9q8yU_F2OCg0AMQlESHZaiKKjoWPf7H1LMYqrvpyX5j4BIxMKtXk1EnD47UA4Xk67WAyuz8oZQnxryZjuwYZt0aQbqYe662w_s9IMpuJWzsMNANajuBB7h4fl7NsM9SIGodOTxNHBsREERICxCTPN5YJaolCSpcL9cb1-ul6xKGgO3xszzfTtwf0g5Echkynz-ymfLSoPeW_Z8_MkqC3hlf_csRjkIBCEM5dsbsKMRpgIr9z-gxY02QCiPrr1wwcfjgpjrbcki-8FXxOsLc-_Ns-xdrBx4HmrHOTDWtlUlRmgWz4mpVzHMpE2mpMy8DOf7UKf30uN5b1NzN0l3ZUdw2ki5l_MpVVy_ciJPGF8oeoW7pEIzkVBkKweS3sFPFQDdHEMbkZ2qDY3mlyCim8URhBhD0qCXoAaM-ur__gFn5T0pqVVSYwAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuEBL2dvdG8_dXJsPUNBRVNuQUVCeENKRjE3T1prcEhmYWlIMHhDd0JvUGljLW9iQ2NPLVRWQkp5bWJ5dGc2MkRFR01XbDlOeThVY0lQMWlzcUJGUFB6dTRaSjFWLTJ3RTFGNi1IcHoxaFJTX1htYlRrb251Zl9MT2RESTZuQXJlbWl2ajlOOTRlejh2dGVoeXQydXdST2FoY3FuWWtlTm9HcGhDRTJQTU04Zm53cGY3b3ByUTgyM3NJSkVjU3ZVQ1pTbFlUUnFXWU9yaU1ubVJkN2xQNUg1Mld3bnUtdHRqVHBREgQaAggAGrYIEgAaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQJIICAAQABgAIAAqCgoDaG93FQmomz8qOgoCZG8VkN9xQBoDYXJlGgVjb3VsZBoEZG9lcxoEbWFrZRoGc2hvdWxkGgJ0bxoEd2lsbBoFZG90b3AqMwoDdG9wFbKC6D0aBGJlc3QaB2xlYWRpbmcaBHRvcHMaBWRvdG9wGgt0b3BjcmVhdG9ycypCCghjcmVhdG9ycxW_bB0_GgdjcmVhdG9yGglkZXNpZ25lcnMaCGZvdW5kZXJzGgZtYWtlcnMaC3RvcGNyZWF0b3JzKjQKCXJlcHVycG9zZRXDPQ4_GgtyZXB1cnBvc2luZxoFcmV1c2UaDml2O3A7cmVwdXJwb3NlKjgKBGxvbmcVQlFnPxoGbG9uZ2VyGghsb25nZm9ybRoIdGhlIGZ1bGwaD2xvbmdmb3JtY29udGVudCpCCgRmb3JtFYH5gD8aBmZvcm1hdBoFZm9ybXMaCGxvbmdmb3JtGg9sb25nZm9ybWNvbnRlbnQaC2Zvcm1jb250ZW50KkAKB2NvbnRlbnQVZe_KQBoIY29udGVudHMaCGxvbmdmb3JtGg9sb25nZm9ybWNvbnRlbnQaC2Zvcm1jb250ZW50KhwKBGludG8V508MQBoLY2FsY3VsYXRpbmcaAmluKjAKBndlZWtseRXlxkg-GgtjYWxjdWxhdGluZxoKZXZlcnkgd2VlaxoIcGVyIHdlZWsqHgoLbmV3c2xldHRlcnMVnB0WPhoKbmV3c2xldHRlcjLhAS9nb3RvP3VybD1DQUVTbkFFQnhDSkYxN09aa3BIZmFpSDB4Q3dCb1BpYy1vYkNjTy1UVkJKeW1ieXRnNjJERUdNV2w5Tnk4VWNJUDFpc3FCRlBQenU0WkoxVi0yd0UxRjYtSHB6MWhSU19YbWJUa29udWZfTE9kREk2bkFyZW1pdmo5Tjk0ZXo4dnRlaHl0MnV3Uk9haGNxbllrZU5vR3BoQ0UyUE1NOGZud3BmN29wclE4MjNzSUpFY1N2VUNaU2xZVFJxV1lPcmlNbm1SZDdsUDVINTJXd251LXR0alRwUTpFVGhlIDxiPkJlc3QgQ29udGVudCBSZXB1cnBvc2luZzwvYj4gVG9vbHMgKGFuZCBXaGF0IFRoZXkgQWN0dWFsbHkgLi4uQpwBPGI-UmVwdXJwb3NlLmlvIGlzIGEgY29udGVudCByZXB1cnBvc2luZyB0b29sPC9iPiB0aGF0IHRha2VzIGEgdmlkZW8gb3IgcG9kY2FzdCBlcGlzb2RlIGFuZCB0dXJucyBpdCBpbnRvIHBsYXRmb3JtLXJlYWR5IGNsaXBzLCB0aGVuIHB1Ymxpc2hlcyB0aGVtJm5ic3A7Li4uUgRiZXN0UgR3aWxsUgNhcmVSAnRvUgJpbiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuEBL2dvdG8_dXJsPUNBRVNuQUVCeENKRjE3T1prcEhmYWlIMHhDd0JvUGljLW9iQ2NPLVRWQkp5bWJ5dGc2MkRFR01XbDlOeThVY0lQMWlzcUJGUFB6dTRaSjFWLTJ3RTFGNi1IcHoxaFJTX1htYlRrb251Zl9MT2RESTZuQXJlbWl2ajlOOTRlejh2dGVoeXQydXdST2FoY3FuWWtlTm9HcGhDRTJQTU04Zm53cGY3b3ByUTgyM3NJSkVjU3ZVQ1pTbFlUUnFXWU9yaU1ubVJkN2xQNUg1Mld3bnUtdHRqVHBREgQaAggAGrYIEgAaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQJIICAAQABgAIAAqCgoDaG93FQmomz8qOgoCZG8VkN9xQBoDYXJlGgVjb3VsZBoEZG9lcxoEbWFrZRoGc2hvdWxkGgJ0bxoEd2lsbBoFZG90b3AqMwoDdG9wFbKC6D0aBGJlc3QaB2xlYWRpbmcaBHRvcHMaBWRvdG9wGgt0b3BjcmVhdG9ycypCCghjcmVhdG9ycxW_bB0_GgdjcmVhdG9yGglkZXNpZ25lcnMaCGZvdW5kZXJzGgZtYWtlcnMaC3RvcGNyZWF0b3JzKjQKCXJlcHVycG9zZRXDPQ4_GgtyZXB1cnBvc2luZxoFcmV1c2UaDml2O3A7cmVwdXJwb3NlKjgKBGxvbmcVQlFnPxoGbG9uZ2VyGghsb25nZm9ybRoIdGhlIGZ1bGwaD2xvbmdmb3JtY29udGVudCpCCgRmb3JtFYH5gD8aBmZvcm1hdBoFZm9ybXMaCGxvbmdmb3JtGg9sb25nZm9ybWNvbnRlbnQaC2Zvcm1jb250ZW50KkAKB2NvbnRlbnQVZe_KQBoIY29udGVudHMaCGxvbmdmb3JtGg9sb25nZm9ybWNvbnRlbnQaC2Zvcm1jb250ZW50KhwKBGludG8V508MQBoLY2FsY3VsYXRpbmcaAmluKjAKBndlZWtseRXlxkg-GgtjYWxjdWxhdGluZxoKZXZlcnkgd2VlaxoIcGVyIHdlZWsqHgoLbmV3c2xldHRlcnMVnB0WPhoKbmV3c2xldHRlcjLhAS9nb3RvP3VybD1DQUVTbkFFQnhDSkYxN09aa3BIZmFpSDB4Q3dCb1BpYy1vYkNjTy1UVkJKeW1ieXRnNjJERUdNV2w5Tnk4VWNJUDFpc3FCRlBQenU0WkoxVi0yd0UxRjYtSHB6MWhSU19YbWJUa29udWZfTE9kREk2bkFyZW1pdmo5Tjk0ZXo4dnRlaHl0MnV3Uk9haGNxbllrZU5vR3BoQ0UyUE1NOGZud3BmN29wclE4MjNzSUpFY1N2VUNaU2xZVFJxV1lPcmlNbm1SZDdsUDVINTJXd251LXR0alRwUTpFVGhlIDxiPkJlc3QgQ29udGVudCBSZXB1cnBvc2luZzwvYj4gVG9vbHMgKGFuZCBXaGF0IFRoZXkgQWN0dWFsbHkgLi4uQpwBPGI-UmVwdXJwb3NlLmlvIGlzIGEgY29udGVudCByZXB1cnBvc2luZyB0b29sPC9iPiB0aGF0IHRha2VzIGEgdmlkZW8gb3IgcG9kY2FzdCBlcGlzb2RlIGFuZCB0dXJucyBpdCBpbnRvIHBsYXRmb3JtLXJlYWR5IGNsaXBzLCB0aGVuIHB1Ymxpc2hlcyB0aGVtJm5ic3A7Li4uUgRiZXN0UgR3aWxsUgNhcmVSAnRvUgJpbiICEAFIAFgAaAA",
+        "source": "Substack \u00b7 The Irreplaceable Marketer",
+        "read_more_link": "https://www.google.com/goto?url=CAES_QEBxCJF188TcQeEqvOlYyujuRDr4hdSHl3SMAOIkXzpmHdurXDkvMplgZQwczO5di5K3GvVGfYlqpgINIGczwh18girx_92ws_Nw9qdiy69Hsoh3pa4ogDWLtXLHAoZJMgLk99qC7IVb7_WLtbtoMq8QBYPSHIa1kJMMwoxA652dCaLbzFpAubrx3ygQPvxr_zZ9GjNTW3U39p8u36kH6i13HwWBuoQw7ADNeSsyHvysXoT4VJoYuRHgYhRkACp-dxUwp5mn7HJTXnjdmR7rNqNdsj_yzK0nena2fH3xc0IrtfO5JO0FMCu_L3_NbuVxLB1nSX-foxZjEwI9sav&gsessionid=haX-IOyi4XVwA8s5xw8eu0NQgS9FaauJdkrqHtpYrUejG9AgrYaDig"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "Repurposing newsletter content just got super easy",
+        "link": "https://www.google.com/goto?url=CAESpgEBxCJF11-HuokFbKBivU0UCwEbqLAZaRvJzULOFuBn7lFSMG5rfj-YUPdnKBByLFbkW_r-fan0w8xQBNlI_qJ0041zlHw5tvuvkXZCFaDFgvP8Ce684yayzXTkqW_lS46MWSPWdKkuQvmLW8fl5gHlo-LXqcY8LAuKsGBklDvInjfYaaRKcSDJQhyhJwObCFwY3PyA4hgcM_SsJkY7za414KqZT-yu&gsessionid=haX-IOyi4XVwA8s5xw8eu0NQgS9FaauJdkrqHtpYrUejG9AgrYaDig",
+        "date": "1 year ago",
+        "extensions": [
+          "r/Newsletters",
+          "10+ comments"
+        ],
+        "source": "Reddit",
+        "answers": [
+          {
+            "link": "https://www.google.com/goto?url=CAESpgEBxCJF11-HuokFbKBivU0UCwEbqLAZaRvJzULOFuBn7lFSMG5rfj-YUPdnKBByLFbkW_r-fan0w8xQBNlI_qJ0041zlHw5tvuvkXZCFaDFgvP8Ce684yayzXTkqW_lS46MWSPWdKkuQvmLW8fl5gHlo-LXqcY8LAuKsGBklDvInjfYaaRKcSDJQhyhJwObCFwY3PyA4hgcM_SsJkY7za414KqZT-yu&gsessionid=haX-IOyi4XVwA8s5xw8eu0NQgS9FaauJdkrqHtpYrUejG9AgrYaDig"
+          }
+        ]
+      },
+      {
+        "title": "How are people repurposing their content for social media?",
+        "link": "https://www.google.com/goto?url=CAESoAEBxCJF18NueeJlPU2WfvbCBQdx8k7ndMnS-jGwVj7kH_zudhOTEh6Rb0fQ9Mx3RQDXbFikC6SdUBN3FESuOEosGJtGZnsnbrClqDQOp1thXdUwv71gLJjzLCwZCxfKtA0b9f_L5uSZlDpuL5JZUielNOyTn8O3ihg7vMZfuraXvMoXdD_2-kjexTazZSZN1yqEwK00CZRqBxHIdnMgIViH&gsessionid=haX-IOyi4XVwA8s5xw8eu0NQgS9FaauJdkrqHtpYrUejG9AgrYaDig",
+        "date": "1 year ago",
+        "extensions": [
+          "r/Newsletters",
+          "10+ comments"
+        ],
+        "source": "Reddit",
+        "answers": [
+          {
+            "link": "https://www.google.com/goto?url=CAESqAEBxCJF1wuJ3DcOdQC65uc7ZZHIxcCGw3yn_mfmwk0hVqlfL8JBpqmI6tQkFsvlYyrOKU80AGDDkhHOFDBSOjMq6E8-7Bv9qdEXwGGG6RDxRca-rOsoaQRKqxqMq3KxhpXidCurC0ilK3UWRRvxyP37cBiKM-9IKRfIdI5wuB5AwEcmFSbWU2r3Xy9qpCTx4pFPtZVgbOUTGe1upawO09jON4Ed2LeP7Xk&gsessionid=haX-IOyi4XVwA8s5xw8eu0NQgS9FaauJdkrqHtpYrUejG9AgrYaDig",
+            "extensions": [
+              "Top answer",
+              "2 votes",
+              "a year ago"
+            ]
+          },
+          {
+            "link": "https://www.google.com/goto?url=CAESqAEBxCJF12m_Rw25gibTRAhYPBCUSym4RmAkYutAjx3EKhSWWBZYc_ZeStJ5fN0oOGHbHZg-GMnPJQF0ftvsBvliNmCN0WUpWdjc7_XmQCBbTVUWEpL1uDl41coRadRW0x70AidLPf3jHok8dMybjVlYEYQDhbSLl2-NwgAQzi9lsh3yObTdt7pbwcDScrHKLwdC5IZiFaPiu3vzei1sTKm0a1AF-WoD0cc&gsessionid=haX-IOyi4XVwA8s5xw8eu0NQgS9FaauJdkrqHtpYrUejG9AgrYaDig",
+            "extensions": [
+              "2 votes",
+              "a year ago"
+            ]
+          },
+          {
+            "link": "https://www.google.com/goto?url=CAESqAEBxCJF14sFQIAJTude7Xzv1awtlJiyie860Et6lMFPHKsBLNTTC7lQSfI9AUxKB-DhJ-bHNQbvFG3VvPVIutYrZgK9yQ9sNNymzkT2qBN-PHvFuuvwMeGjpIyRPEP9LmuIJPmErs5P90n8wGe69IegNpi3ESkxX76BOD5Wfc8yEW3h7wceaXATLYJHbnkGpPsuCk5PVAUuhW1gXVIpGq2E7vsbO35rCgY&gsessionid=haX-IOyi4XVwA8s5xw8eu0NQgS9FaauJdkrqHtpYrUejG9AgrYaDig",
+            "extensions": [
+              "a year ago"
+            ]
+          }
+        ]
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=How+do+top+creators+repurpose+long+form+content+into+weekly+newsletters?&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDjWT0MfyovuJmpV4ot-N-NPx-BkzA:1795355287226&ei=l_ICa5OrDe3d5NoP3oLbkA4&start=10&sa=N&sstk=AYl2yk8cvRQart3-EgizJFJoYWHh0Z8z_ofhcV7iUfc1H0Rt1NR1OtooC_t-kDeu5xyxy1IdUQ9MwnnnGp80BABp1F-H-Plr7sdvIA&ved=2ahUKEwjT0o_R25uYAxXtLlkFHV7BFuIQ8NMDegQIOxAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=How+do+top+creators+repurpose+long+form+content+into+weekly+newsletters?&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDjWT0MfyovuJmpV4ot-N-NPx-BkzA:1795355287226&ei=l_ICa5OrDe3d5NoP3oLbkA4&start=10&sa=N&sstk=AYl2yk8cvRQart3-EgizJFJoYWHh0Z8z_ofhcV7iUfc1H0Rt1NR1OtooC_t-kDeu5xyxy1IdUQ9MwnnnGp80BABp1F-H-Plr7sdvIA&ved=2ahUKEwjT0o_R25uYAxXtLlkFHV7BFuIQ8tMDegQIOxAE",
+        "3": "https://www.google.com/search?q=How+do+top+creators+repurpose+long+form+content+into+weekly+newsletters?&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDjWT0MfyovuJmpV4ot-N-NPx-BkzA:1795355287226&ei=l_ICa5OrDe3d5NoP3oLbkA4&start=20&sa=N&sstk=AYl2yk8cvRQart3-EgizJFJoYWHh0Z8z_ofhcV7iUfc1H0Rt1NR1OtooC_t-kDeu5xyxy1IdUQ9MwnnnGp80BABp1F-H-Plr7sdvIA&ved=2ahUKEwjT0o_R25uYAxXtLlkFHV7BFuIQ8tMDegQIOxAG",
+        "4": "https://www.google.com/search?q=How+do+top+creators+repurpose+long+form+content+into+weekly+newsletters?&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDjWT0MfyovuJmpV4ot-N-NPx-BkzA:1795355287226&ei=l_ICa5OrDe3d5NoP3oLbkA4&start=30&sa=N&sstk=AYl2yk8cvRQart3-EgizJFJoYWHh0Z8z_ofhcV7iUfc1H0Rt1NR1OtooC_t-kDeu5xyxy1IdUQ9MwnnnGp80BABp1F-H-Plr7sdvIA&ved=2ahUKEwjT0o_R25uYAxXtLlkFHV7BFuIQ8tMDegQIOxAI",
+        "5": "https://www.google.com/search?q=How+do+top+creators+repurpose+long+form+content+into+weekly+newsletters?&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDjWT0MfyovuJmpV4ot-N-NPx-BkzA:1795355287226&ei=l_ICa5OrDe3d5NoP3oLbkA4&start=40&sa=N&sstk=AYl2yk8cvRQart3-EgizJFJoYWHh0Z8z_ofhcV7iUfc1H0Rt1NR1OtooC_t-kDeu5xyxy1IdUQ9MwnnnGp80BABp1F-H-Plr7sdvIA&ved=2ahUKEwjT0o_R25uYAxXtLlkFHV7BFuIQ8tMDegQIOxAK",
+        "6": "https://www.google.com/search?q=How+do+top+creators+repurpose+long+form+content+into+weekly+newsletters?&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDjWT0MfyovuJmpV4ot-N-NPx-BkzA:1795355287226&ei=l_ICa5OrDe3d5NoP3oLbkA4&start=50&sa=N&sstk=AYl2yk8cvRQart3-EgizJFJoYWHh0Z8z_ofhcV7iUfc1H0Rt1NR1OtooC_t-kDeu5xyxy1IdUQ9MwnnnGp80BABp1F-H-Plr7sdvIA&ved=2ahUKEwjT0o_R25uYAxXtLlkFHV7BFuIQ8tMDegQIOxAM",
+        "7": "https://www.google.com/search?q=How+do+top+creators+repurpose+long+form+content+into+weekly+newsletters?&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDjWT0MfyovuJmpV4ot-N-NPx-BkzA:1795355287226&ei=l_ICa5OrDe3d5NoP3oLbkA4&start=60&sa=N&sstk=AYl2yk8cvRQart3-EgizJFJoYWHh0Z8z_ofhcV7iUfc1H0Rt1NR1OtooC_t-kDeu5xyxy1IdUQ9MwnnnGp80BABp1F-H-Plr7sdvIA&ved=2ahUKEwjT0o_R25uYAxXtLlkFHV7BFuIQ8tMDegQIOxAO",
+        "8": "https://www.google.com/search?q=How+do+top+creators+repurpose+long+form+content+into+weekly+newsletters?&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDjWT0MfyovuJmpV4ot-N-NPx-BkzA:1795355287226&ei=l_ICa5OrDe3d5NoP3oLbkA4&start=70&sa=N&sstk=AYl2yk8cvRQart3-EgizJFJoYWHh0Z8z_ofhcV7iUfc1H0Rt1NR1OtooC_t-kDeu5xyxy1IdUQ9MwnnnGp80BABp1F-H-Plr7sdvIA&ved=2ahUKEwjT0o_R25uYAxXtLlkFHV7BFuIQ8tMDegQIOxAQ",
+        "9": "https://www.google.com/search?q=How+do+top+creators+repurpose+long+form+content+into+weekly+newsletters?&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDjWT0MfyovuJmpV4ot-N-NPx-BkzA:1795355287226&ei=l_ICa5OrDe3d5NoP3oLbkA4&start=80&sa=N&sstk=AYl2yk8cvRQart3-EgizJFJoYWHh0Z8z_ofhcV7iUfc1H0Rt1NR1OtooC_t-kDeu5xyxy1IdUQ9MwnnnGp80BABp1F-H-Plr7sdvIA&ved=2ahUKEwjT0o_R25uYAxXtLlkFHV7BFuIQ8tMDegQIOxAS",
+        "10": "https://www.google.com/search?q=How+do+top+creators+repurpose+long+form+content+into+weekly+newsletters?&sca_esv=c653c500caaf7fef&hl=en&gl=uk&sxsrf=AKL5yDjWT0MfyovuJmpV4ot-N-NPx-BkzA:1795355287226&ei=l_ICa5OrDe3d5NoP3oLbkA4&start=90&sa=N&sstk=AYl2yk8cvRQart3-EgizJFJoYWHh0Z8z_ofhcV7iUfc1H0Rt1NR1OtooC_t-kDeu5xyxy1IdUQ9MwnnnGp80BABp1F-H-Plr7sdvIA&ved=2ahUKEwjT0o_R25uYAxXtLlkFHV7BFuIQ8tMDegQIOxAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+do+top+creators+repurpose+long+form+content+into+weekly+newsletters%3F&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+do+top+creators+repurpose+long+form+content+into+weekly+newsletters%3F&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+do+top+creators+repurpose+long+form+content+into+weekly+newsletters%3F&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+do+top+creators+repurpose+long+form+content+into+weekly+newsletters%3F&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+do+top+creators+repurpose+long+form+content+into+weekly+newsletters%3F&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+do+top+creators+repurpose+long+form+content+into+weekly+newsletters%3F&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+do+top+creators+repurpose+long+form+content+into+weekly+newsletters%3F&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+do+top+creators+repurpose+long+form+content+into+weekly+newsletters%3F&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+do+top+creators+repurpose+long+form+content+into+weekly+newsletters%3F&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+do+top+creators+repurpose+long+form+content+into+weekly+newsletters%3F&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+do+top+creators+repurpose+long+form+content+into+weekly+newsletters%3F&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

@@ -1,0 +1,487 @@
+{
+  "measurement_id": "1acfcf39dc72",
+  "question_id": "Q020",
+  "timestamp_utc": "2026-11-22T13:51:54.125854+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "Best auto caption generator for Instagram Reels with dynamic fonts",
+  "market": "US",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [
+    "Submagic"
+  ],
+  "position": null,
+  "citations": [
+    "https://www.canva.com/features/auto-caption/",
+    "https://autocaption.io/",
+    "https://www.google.com/goto?url=CAESowEBxCJF10_0IeCnFEg9y5jk7rptM4_feStc1jc5R9cZSQWoJixlSmmmf_DAgs0dp8BPLw1TbSVsskHuQlGQw98wPKtPicvDigUEL8UaB2yR3U6Vk8bsLiL2CtOUOf8roNY9fMvhMXQn6-i_Y41u4gph0-w7iJQgKqm0GEFnu9HKeyDcTUoaNYFBSOzscMlGFIjlksGYCqR6xJj9EYLH3W6r6Mpd",
+    "https://www.google.com/goto?url=CAESfgHEIkXXXh91rSpqKpEgMhA-2XgcFuW2OgfBRh4YopDQgguVKkeW7MLyqXJCWEzfefMUf8Mqi95ONlEJ1FEZ9kb78Quo3wHBQCXfh0ew1Ra6waMYzy2q3K8RaeeujZH3Xtca-HhfRAgE_qjYqaVnfQ-UWvaevx9hyMmFavz-hA",
+    "https://www.google.com/goto?url=CAESaAHEIkXX-XSVQ4cyNnLYtC4FhPKv8cQvVz6v4BjfaH7W2YRDQpVBuh_rbyGHEn3SNwT7v7tIvnSeUh8sIGEuy9VC3qJUVDm52ROTR4ZiQshgAs5gCrOCS0FvlHkaDsTG5FWRCdlwBQAu&gsessionid=qrKtczkx8k5fHe-cWUEHT5HF8UnorbRtBYYzlrCicBIzuT7uAl4v0A",
+    "https://www.google.com/goto?url=CAEShwEBxCJF10bbfr9GbW21FGxOaPZ2c9htfELI7jR0NgTci7IodjBi73pqaM0QkituVjow7lSvn9I7kAtTCHY-a_c9la8TRvuVKw4vFsoZ8Mp6ctJAE6zne-B5bG1m48rI0OFPa2-3OZzlHOVUla5NkkN0BVjMufVPRXaMhXyFAKXNtz9uXMNhyok",
+    "https://www.google.com/goto?url=CAESWAHEIkXXifqyC8p95TqYceUDufeDUUQHNXYasbUOr6qzcIQWj3dZ3NBZVele5R_nQ7ST0saweMXcOUy0P5adLY__37Hy1HEGRQonjhoQX9-_rfQA6tgI1QQ",
+    "https://www.google.com/goto?url=CAEScQHEIkXXAKWUc9650lUhxrsjFoBktAWjlemIDEJ-hnZllU9KcXP4rmNnyBas29X9LnJJ1Ze4PWYR92V1X2ImNeihBcaeEboP4keUDgQpH7l6UiRtdAiEldwb67sYZsDjNhVvtLP9olVwCoOCLYolV5QJ"
+  ],
+  "raw_text_summary": "Generate auto captions with AI Generate auto captions. Click \u201cCaptions\u201d under \u201cDynamic Text\u201d in the Text section, select your video, and click \u201cGenerate captions.\u201d Download your design. AutoCaption \u2014 Add Captions to Your Videos in Seconds AutoCaption automatically generates stylish captions, animated emojis, and ready-to-post videos for TikTok, Reels, and Shorts. What is the best option for A.I auto captioning for reels? I have a client that wants animated captioning on his videos. \u201cSubmagic\u201d looks like a great option, except they only offer annual plans\u2026no ... Instagram Reels Caption Generator - Free AI Tool Generate captions for Instagram Reels instantly with our free AI tool. syncing captions to match your speech. full control over styling, timing, and formatting. Top 3 Best FREE AI Captions & Subtitles Generator Top 3 Best FREE AI Captions & Subtitles Generator | 1 Click Auto Caption In Any Language Dynamic Subtitles - Animated Captions AI Create dynamic captions with automatic word highlighting and text effects. Create viral-style captions where words pop as the presenter speaks. AI Caption Generator with 50+ Animated Styles Reels, YouTube Shorts, and every platform. Choose from 50+ animated caption presets, customize colors, fonts, and positioning, TikTok, Instagram, YouTube, ... Best Auto Caption Generators for Short-Form Video (2026) The best auto caption generator for you depends on five things: accuracy on your specific audio, word-level timing, style control, ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f241412f43a8e66062b5",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/uQx9FBHMPXpHaAjr3yfGzdTxeXD7btlesbI34fpvMOI/6b02f241412f43a8e66062b5.json",
+      "markdown_endpoint": "https://serpapi.com/searches/uQx9FBHMPXpHaAjr3yfGzdTxeXD7btlesbI34fpvMOI/6b02f241412f43a8e66062b5.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/uQx9FBHMPXpHaAjr3yfGzdTxeXD7btlesbI34fpvMOI/6b02f241412f43a8e66062b5.json_with_pixel_position",
+      "created_at": "2026-11-22 13:46:41 UTC",
+      "processed_at": "2026-11-22 13:46:41 UTC",
+      "google_url": "https://www.google.com/search?q=Best+auto+caption+generator+for+Instagram+Reels+with+dynamic+fonts&oq=Best+auto+caption+generator+for+Instagram+Reels+with+dynamic+fonts&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/uQx9FBHMPXpHaAjr3yfGzdTxeXD7btlesbI34fpvMOI/6b02f241412f43a8e66062b5.html",
+      "total_time_taken": 14.86
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "Best auto caption generator for Instagram Reels with dynamic fonts",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "Best auto caption generator for Instagram Reels with dynamic fonts",
+      "total_results": 133,
+      "time_taken_displayed": 0.27,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "Free caption tools worth trying before you pay for one",
+        "link": "https://www.google.com/goto?url=CAESZwHEIkXXydT3uuAginpT3hoLCugNc6R_Ryr-TcoG68xYmd69IZqodRBiS3ca6RTuTduaHgZ-qgYjerBAIjiXjnoG4vOEJt18XMQEmQSCEPZKXf71HOn3_Uz8HVXtBkvRTlC3anRJAZw&gsessionid=qrKtczkx8k5fHe-cWUEHT5HF8UnorbRtBYYzlrCicBIzuT7uAl4v0A",
+        "thumbnail": "https://serpapi.com/searches/6b02f241412f43a8e66062b5/images/LSsRlKIYPvkOJvd38jDOcZC3fe-eAkq9FPgIt5rOYdQ.webp",
+        "channel": "Animaker",
+        "duration": "1:02",
+        "platform": "YouTube",
+        "date": "Jul 26, 2026",
+        "snippet": "Try Instagram, VMaker, Capwing, or Animaker for free AI-generated captions with customizable styles, easy editing, and multi-platform use.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTonSnrasS1XARdVpxfM48FsuaaBp-7VpAP4w"
+      },
+      {
+        "position": 2,
+        "title": "How to Make Dynamic Subtitles for Social Media (in Seconds)",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXGfjFnuI4jSGlJAhNmF9dsjWdruGqm6eq1q4OKuphhQLn_BL1LthYN1J_87lRUqO9c0uTaGKhYDKdrkQoibVMTBLTN-EHE85VDk4UrAComyHlI4pl1Y-lrjqWnmPSK1rPcivo&gsessionid=qrKtczkx8k5fHe-cWUEHT5HF8UnorbRtBYYzlrCicBIzuT7uAl4v0A",
+        "thumbnail": "https://serpapi.com/searches/6b02f241412f43a8e66062b5/images/HFeo29kjwVK8wOJzbhOE0i5uuGx7fe2jZcZKEHhEXgQ.webp",
+        "channel": "VEED STUDIO",
+        "duration": "1:52",
+        "platform": "YouTube",
+        "date": "May 22, 2026",
+        "snippet": "Generate dynamic subtitles in seconds with V's auto-subtitle feature, then customize their style, size, position, and add effects.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSnoQhLnZw5a2wYA8e7G6EZpYAW0IgyLoBTDQ"
+      },
+      {
+        "position": 3,
+        "title": "How to auto-generate subtitles using AI.  If you want to grow ...",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXO3Smp7dvBrqoiorQBAygcXGaYfUIR2SuFmqVpzRQl8HANOGFKrX1iSKrxAuHoW3hQUpBhJjFtMoi5Y8-j2k5D4CR59ySQu7bBaAq3lGL-10tn5smDk9R4ryZ1iVCFEbiUr5Z&gsessionid=qrKtczkx8k5fHe-cWUEHT5HF8UnorbRtBYYzlrCicBIzuT7uAl4v0A",
+        "thumbnail": "https://serpapi.com/searches/6b02f241412f43a8e66062b5/images/j_PcoQSLCJ5YEUjvIzH51I4xWtZZ1Wjz-rpLu12BJxA.webp",
+        "channel": "Anurag Yadav",
+        "duration": "0:24",
+        "platform": "Instagram",
+        "date": "Jul 29, 2026"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "How to auto generate captions for reels?",
+        "type": "ai_overview",
+        "page_token": "8fZGAHicHZNLcqNIGIQXc5b2xnYbCmEbRzgmwFA8LEpWUQ9UGwWoQA8KkCUQSLu5y5xqFnOWpnuR-e3yj_gj859_1b6p_vvr_13XHc9vT0_DMPzctu1WFT83bf2Una_N5qls1b78u1CnzfvH2XZj39OlLvv0xo7FwcE5QAnzhIMOkUcg7ONDZBSBaNHBMQjAQFTmjKjYINqgbZjgsT-yOcNfCKqMGZE-p_hK_CgSt2gX-2aXedWsUFZIQWViV7nClc-UQ4FBtCdVOEpoGcigowzwdVPrzYqiMjs4Nwq6PlehHmuvgHi7GYIwIiliOYNa7h9XmypyF76olrp1WTCYYB1ds2o3IAJ5DqCDfPhZkC1AwKS8gWLJYZcQtE-CY5QBNhfsaKBqDOd8fE6URTMQXlcEnhhBMx6wb8qPB3mQgJIdzf2zmZNoEfPxICu5pMDqiRI9BowTLvfSXd1WuvhIwdjwJvqYc1OR4EjjwDYkkylWeEGoPsRUF0mDapTKPfYFTqa_bpQDVje1zF2nJSo0Mq2jOROXjLBdVnff3DM5AjtXGPIb6yISzLnEKcRJKsvYZXjJR4pvqI8DgaWnPydEsdgXaUZZmWgYoMBZxSxqYledMiI_WQCTmAu8gNYBkeoa1_KMYLTP4GpYEDaXgQL5jYmEyiaByMfEu2FPNznbNYSbYc6H2QKqIbs5iqXRflXTAetWmTfInU631AsN5IQpg1a0BF5HgI42MO5i6EAabA0EtG7JaPZhiAPVXruFj33M2OXu-z1oh_uuvc_6ybZFU5yyrrjfZMdu3zbn-7I93Z-KQp1_GPCu_t1eO5yZQ7S0uW1ntjPYoe3YYuvYnxM_J84nzlvH3obeYHvOdZK29drEt4wwwJfQh7r0X7cCsF6k0U76dLsCcJC-uuRNvBW1dQ2DSAk-3r6sKW8x5RUTy4nlxOXdn0W9r8u6e6szqR7Wk7dvhXxY7-Xbn6GtyTr8yB4XdXxMHrUv72t8eakfbbrWH9bj-VS-2cHXS1_OZsdLP8T-XK_8S-_tSvHiaS6b8e55-cOw9RfLNEwT6M-aZf4CzkhKLQ",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=8fZGAHicHZNLcqNIGIQXc5b2xnYbCmEbRzgmwFA8LEpWUQ9UGwWoQA8KkCUQSLu5y5xqFnOWpnuR-e3yj_gj859_1b6p_vvr_13XHc9vT0_DMPzctu1WFT83bf2Una_N5qls1b78u1CnzfvH2XZj39OlLvv0xo7FwcE5QAnzhIMOkUcg7ONDZBSBaNHBMQjAQFTmjKjYINqgbZjgsT-yOcNfCKqMGZE-p_hK_CgSt2gX-2aXedWsUFZIQWViV7nClc-UQ4FBtCdVOEpoGcigowzwdVPrzYqiMjs4Nwq6PlehHmuvgHi7GYIwIiliOYNa7h9XmypyF76olrp1WTCYYB1ds2o3IAJ5DqCDfPhZkC1AwKS8gWLJYZcQtE-CY5QBNhfsaKBqDOd8fE6URTMQXlcEnhhBMx6wb8qPB3mQgJIdzf2zmZNoEfPxICu5pMDqiRI9BowTLvfSXd1WuvhIwdjwJvqYc1OR4EjjwDYkkylWeEGoPsRUF0mDapTKPfYFTqa_bpQDVje1zF2nJSo0Mq2jOROXjLBdVnff3DM5AjtXGPIb6yISzLnEKcRJKsvYZXjJR4pvqI8DgaWnPydEsdgXaUZZmWgYoMBZxSxqYledMiI_WQCTmAu8gNYBkeoa1_KMYLTP4GpYEDaXgQL5jYmEyiaByMfEu2FPNznbNYSbYc6H2QKqIbs5iqXRflXTAetWmTfInU631AsN5IQpg1a0BF5HgI42MO5i6EAabA0EtG7JaPZhiAPVXruFj33M2OXu-z1oh_uuvc_6ybZFU5yyrrjfZMdu3zbn-7I93Z-KQp1_GPCu_t1eO5yZQ7S0uW1ntjPYoe3YYuvYnxM_J84nzlvH3obeYHvOdZK29drEt4wwwJfQh7r0X7cCsF6k0U76dLsCcJC-uuRNvBW1dQ2DSAk-3r6sKW8x5RUTy4nlxOXdn0W9r8u6e6szqR7Wk7dvhXxY7-Xbn6GtyTr8yB4XdXxMHrUv72t8eakfbbrWH9bj-VS-2cHXS1_OZsdLP8T-XK_8S-_tSvHiaS6b8e55-cOw9RfLNEwT6M-aZf4CzkhKLQ",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFFtVnJSRmRtUTJoSU1EbFhhM2M1TmxjM09FbGpNV3AzWVVKNVVVbzROVzh4UmpWNGFtSldVemN5V0VSdE4xcFZUSEZHUmpadWNsZElTbGgyU2tvMFRHcFhkWEExVGtaVVJuaGpZa3QxUkZNdGNVWmhRemxxYlY5U1p4SVhWRjlKUTJFdFQyMU5jRk10TUZCRlVIZzNOMjB0UVZVYUlrRklUakJGTjBocGRGZGZabEoyYUdwNFEwZHpYMVJoUVdocllWaDFkVE5xUzJjIiwiZmN2IjoiMyIsImVpIjoiVF9JQ2EtT21NcFMtMFBFUHg3N20tQVUiLCJxYyI6IkNrSmlaWE4wSUdGMWRHOGdZMkZ3ZEdsdmJpQm5aVzVsY21GMGIzSWdabTl5SUdsdWMzUmhaM0poYlNCeVpXVnNjeUIzYVhSb0lHUjVibUZ0YVdNZ1ptOXVkSE1RQUgzaXZ2ay0iLCJxdWVzdGlvbiI6IkhvdyB0byBhdXRvIGdlbmVyYXRlIGNhcHRpb25zIGZvciByZWVscz8iLCJsayI6IkdpZG9iM2NnZEc4Z1lYVjBieUJuWlc1bGNtRjBaU0JqWVhCMGFXOXVjeUJtYjNJZ2NtVmxiSE0iLCJicyI6ImM0MlBzUW9DTVJCRXNkM0tPcUlzTm1waGN6OXc3VjFqSTJLOVh0Wkx3Q1NTckloX3I1NUVDeVBZVEROdmhobll3YklKVjVTQWRIbEl6NTRqQ1dOSFo3SEJKenlHaUpINWxPcHFwUmJtUHhZMnNONGJFclFKeFRBZU9Na1FjaVMyeTRIY0VHSmRUZFhrRFgzN3NDMzB0VDRKOVpGY3FXLXVYcEQ5RFVFTnMtZDNIYkJGMGhyMXpaUDd6RXZEcXZ5NDRJOUhkdyIsImlkIjoiZmNfVF9JQ2EtT21NcFMtMFBFUHg3N20tQVVfMSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFFtVnJSRmRtUTJoSU1EbFhhM2M1TmxjM09FbGpNV3AzWVVKNVVVbzROVzh4UmpWNGFtSldVemN5V0VSdE4xcFZUSEZHUmpadWNsZElTbGgyU2tvMFRHcFhkWEExVGtaVVJuaGpZa3QxUkZNdGNVWmhRemxxYlY5U1p4SVhWRjlKUTJFdFQyMU5jRk10TUZCRlVIZzNOMjB0UVZVYUlrRklUakJGTjBocGRGZGZabEoyYUdwNFEwZHpYMVJoUVdocllWaDFkVE5xUzJjIiwiZmN2IjoiMyIsImVpIjoiVF9JQ2EtT21NcFMtMFBFUHg3N20tQVUiLCJxYyI6IkNrSmlaWE4wSUdGMWRHOGdZMkZ3ZEdsdmJpQm5aVzVsY21GMGIzSWdabTl5SUdsdWMzUmhaM0poYlNCeVpXVnNjeUIzYVhSb0lHUjVibUZ0YVdNZ1ptOXVkSE1RQUgzaXZ2ay0iLCJxdWVzdGlvbiI6IkhvdyB0byBhdXRvIGdlbmVyYXRlIGNhcHRpb25zIGZvciByZWVscz8iLCJsayI6IkdpZG9iM2NnZEc4Z1lYVjBieUJuWlc1bGNtRjBaU0JqWVhCMGFXOXVjeUJtYjNJZ2NtVmxiSE0iLCJicyI6ImM0MlBzUW9DTVJCRXNkM0tPcUlzTm1waGN6OXc3VjFqSTJLOVh0Wkx3Q1NTckloX3I1NUVDeVBZVEROdmhobll3YklKVjVTQWRIbEl6NTRqQ1dOSFo3SEJKenlHaUpINWxPcHFwUmJtUHhZMnNONGJFclFKeFRBZU9Na1FjaVMyeTRIY0VHSmRUZFhrRFgzN3NDMzB0VDRKOVpGY3FXLXVYcEQ5RFVFTnMtZDNIYkJGMGhyMXpaUDd6RXZEcXZ5NDRJOUhkdyIsImlkIjoiZmNfVF9JQ2EtT21NcFMtMFBFUHg3N20tQVVfMSJ9"
+      },
+      {
+        "question": "What is the best automatic caption generator?",
+        "type": "ai_overview",
+        "page_token": "bmIqm3icHVNNc6M4ED3sb5lcnEyEMM44VaktFCMMMbIRSGAuLoEw2BYfY5NguO1_2Z80p_k1y87h9auuet1d1d3vn3_Vqb78_utX2XXt7fX5ue_770XTFCr_njXVs7gNdfZ8bNTp-Heurtnb-9VcebalBVx-xvDe5pzTFOI5txJEzq4VYvzpnV09XycNOSM9hBQmF2MeKk8PQQ8ynkSefecbTncEK8F1V9swOoS26yajW3q20QnrMs_V0mHwYtCVWiUruWARTih0T-HFuUu81Mlo3sWaDlml1XuWVMmIgA-7z1Q5mgd-wNBS86nmIzgrlK4sTcK7QYARSosSihESFkbBpKT2Hm6jeyQjyoPaTUREj2lVjCleary6GRkvNwFg961VgGB0mz3kc8mSHdeKIWJWT86XgWJ3JCNH4Zm32UVeRYy1vW5q2ZkojjHZYg8KTA3Kbn1aYRoCl5EzXW-txGY4WexHGeR251O8DFicQaK3g5j24TFHY9wy_FBqSewCCnFENQTkyAZSE-FhWYeTRqzKo6fKmNTtPY26ka3xF6sMg1_KaprTEKBFrG47qtqjFyonUVhL12QeXHiQ4Ms8gDTikTMEgB6nG37EcLmY7hpkU38f4q0Pl1dmte_CboMsLqPs7GlCNdAP8VfEHCDrcrGPyS4MUU8BMWisfhJAA8Lm_Tbad6klOeFyzNbKTzn6sErJYqBW-0DbpUzr2QB6ZnE_X2V6GmiI02aT2y2mtmtkFwvk1e3h51tUim52us26Mp-l-a2bic-uqUR3ymaZaLtTU8-KvM6vomuu33T8UP3_raYzN3rXNyPTFCbqTcdEZlIg82Pij4k3E28aZBaO1ZsWGiaAwuo4LEv5jtpsQEDYrNhXfJzyUsb0K40wEJFX7CHupa2-0hOqk8hQWYVBqjsHaFrmfOqzmPBjwtOEhz8-ejscq-61ElI9HqbYvOby8XCSr3_sdQgPzrt42lZeGzyBnbW7v7xUTyY7wMfD_XY9vprr3cvn8aVauO8ojipgaD64ZSg7-18MrD3amN-mn3tZGrphQG0Blov_AN-NRNU",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=bmIqm3icHVNNc6M4ED3sb5lcnEyEMM44VaktFCMMMbIRSGAuLoEw2BYfY5NguO1_2Z80p_k1y87h9auuet1d1d3vn3_Vqb78_utX2XXt7fX5ue_770XTFCr_njXVs7gNdfZ8bNTp-Heurtnb-9VcebalBVx-xvDe5pzTFOI5txJEzq4VYvzpnV09XycNOSM9hBQmF2MeKk8PQQ8ynkSefecbTncEK8F1V9swOoS26yajW3q20QnrMs_V0mHwYtCVWiUruWARTih0T-HFuUu81Mlo3sWaDlml1XuWVMmIgA-7z1Q5mgd-wNBS86nmIzgrlK4sTcK7QYARSosSihESFkbBpKT2Hm6jeyQjyoPaTUREj2lVjCleary6GRkvNwFg961VgGB0mz3kc8mSHdeKIWJWT86XgWJ3JCNH4Zm32UVeRYy1vW5q2ZkojjHZYg8KTA3Kbn1aYRoCl5EzXW-txGY4WexHGeR251O8DFicQaK3g5j24TFHY9wy_FBqSewCCnFENQTkyAZSE-FhWYeTRqzKo6fKmNTtPY26ka3xF6sMg1_KaprTEKBFrG47qtqjFyonUVhL12QeXHiQ4Ms8gDTikTMEgB6nG37EcLmY7hpkU38f4q0Pl1dmte_CboMsLqPs7GlCNdAP8VfEHCDrcrGPyS4MUU8BMWisfhJAA8Lm_Tbad6klOeFyzNbKTzn6sErJYqBW-0DbpUzr2QB6ZnE_X2V6GmiI02aT2y2mtmtkFwvk1e3h51tUim52us26Mp-l-a2bic-uqUR3ymaZaLtTU8-KvM6vomuu33T8UP3_raYzN3rXNyPTFCbqTcdEZlIg82Pij4k3E28aZBaO1ZsWGiaAwuo4LEv5jtpsQEDYrNhXfJzyUsb0K40wEJFX7CHupa2-0hOqk8hQWYVBqjsHaFrmfOqzmPBjwtOEhz8-ejscq-61ElI9HqbYvOby8XCSr3_sdQgPzrt42lZeGzyBnbW7v7xUTyY7wMfD_XY9vprr3cvn8aVauO8ojipgaD64ZSg7-18MrD3amN-mn3tZGrphQG0Blov_AN-NRNU",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFFtVnJSRmRtUTJoSU1EbFhhM2M1TmxjM09FbGpNV3AzWVVKNVVVbzROVzh4UmpWNGFtSldVemN5V0VSdE4xcFZUSEZHUmpadWNsZElTbGgyU2tvMFRHcFhkWEExVGtaVVJuaGpZa3QxUkZNdGNVWmhRemxxYlY5U1p4SVhWRjlKUTJFdFQyMU5jRk10TUZCRlVIZzNOMjB0UVZVYUlrRklUakJGTjBocGRGZGZabEoyYUdwNFEwZHpYMVJoUVdocllWaDFkVE5xUzJjIiwiZmN2IjoiMyIsImVpIjoiVF9JQ2EtT21NcFMtMFBFUHg3N20tQVUiLCJxYyI6IkNrSmlaWE4wSUdGMWRHOGdZMkZ3ZEdsdmJpQm5aVzVsY21GMGIzSWdabTl5SUdsdWMzUmhaM0poYlNCeVpXVnNjeUIzYVhSb0lHUjVibUZ0YVdNZ1ptOXVkSE1RQUgzaXZ2ay0iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgYXV0b21hdGljIGNhcHRpb24gZ2VuZXJhdG9yPyIsImxrIjoiR2h0aVpYTjBJR0YxZEc4Z1kyRndkR2x2YmlCblpXNWxjbUYwYjNJIiwiYnMiOiJjNDJQc1FvQ01SQkVzZDNLT3FJc05tcGhjejl3N1YxakkySzlYdFpMd0NTU3JJaF9yNTVFQ3lQWVRETnZoaG5Zd2JJSlY1U0FkSGxJejU0akNXTkhaN0hCSnp5R2lKSDVsT3BxcFJibVB4WTJzTjRiRXJRSnhUQWVPTWtRY2lTMnk0SGNFR0pkVGRYa0RYMzdzQzMwdFQ0SjlaRmNxVy11WHBEOURVRU5zLWQzSGJCRjBocjF6WlA3ekV2RHF2eTQ0STlIZHciLCJpZCI6ImZjX1RfSUNhLU9tTXBTLTBQRVB4NzdtLUFVXzEifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFFtVnJSRmRtUTJoSU1EbFhhM2M1TmxjM09FbGpNV3AzWVVKNVVVbzROVzh4UmpWNGFtSldVemN5V0VSdE4xcFZUSEZHUmpadWNsZElTbGgyU2tvMFRHcFhkWEExVGtaVVJuaGpZa3QxUkZNdGNVWmhRemxxYlY5U1p4SVhWRjlKUTJFdFQyMU5jRk10TUZCRlVIZzNOMjB0UVZVYUlrRklUakJGTjBocGRGZGZabEoyYUdwNFEwZHpYMVJoUVdocllWaDFkVE5xUzJjIiwiZmN2IjoiMyIsImVpIjoiVF9JQ2EtT21NcFMtMFBFUHg3N20tQVUiLCJxYyI6IkNrSmlaWE4wSUdGMWRHOGdZMkZ3ZEdsdmJpQm5aVzVsY21GMGIzSWdabTl5SUdsdWMzUmhaM0poYlNCeVpXVnNjeUIzYVhSb0lHUjVibUZ0YVdNZ1ptOXVkSE1RQUgzaXZ2ay0iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgYXV0b21hdGljIGNhcHRpb24gZ2VuZXJhdG9yPyIsImxrIjoiR2h0aVpYTjBJR0YxZEc4Z1kyRndkR2x2YmlCblpXNWxjbUYwYjNJIiwiYnMiOiJjNDJQc1FvQ01SQkVzZDNLT3FJc05tcGhjejl3N1YxakkySzlYdFpMd0NTU3JJaF9yNTVFQ3lQWVRETnZoaG5Zd2JJSlY1U0FkSGxJejU0akNXTkhaN0hCSnp5R2lKSDVsT3BxcFJibVB4WTJzTjRiRXJRSnhUQWVPTWtRY2lTMnk0SGNFR0pkVGRYa0RYMzdzQzMwdFQ0SjlaRmNxVy11WHBEOURVRU5zLWQzSGJCRjBocjF6WlA3ekV2RHF2eTQ0STlIZHciLCJpZCI6ImZjX1RfSUNhLU9tTXBTLTBQRVB4NzdtLUFVXzEifQ%3D%3D"
+      },
+      {
+        "question": "What is the best Instagram caption generator?",
+        "type": "ai_overview",
+        "page_token": "4D0TNXicHZPLkqJIFIYX8yzdG6u6kkS0rYiKCVBAsgQF8wK5MYBEEJJLKxbKbt5lnmoi5l2G6cV3vvgX56zO_9ff8tJU__zxb9H33e397W0Yhh952-Yy-5G29Vt8ezbp27mVl_OfmbymH-trunFtU9lRcQ-h6LLQCxIYDNTkhlciE1vW3S2Rmm1565WGimEAeaXNsXRVDAaQUs5c-0F3NDh4loypipQdCZ7YRoiPqHBtrY_Nap7JlUNgpQUbueEbsSDM4gFEF1w5D2GtVE81mNgGz7RWmoh4Tlwa447190Q6igt-QmyK9bTzeSylkZQGc2G3DUEXRqBgpOaqoHQdQALoVn7tTXoUUrZHIsuMyruoHxcMV-MeG1A03ZOzG6C257tVBHDlqXHYSRHKqxiRwir_EdFiHcFqOErUYFs6x63V8ZD6scL3bsWNPfWUUAk0n1mLpKYmtsVCyNU9AsjmuFJZaNk7lvdJ0zFaWlrKtMPRTAG3IjXDvhoRDWalrmXMizLbKrINJbTOFVqiuzfmj3AUByrRFzERyoi4JqA3RYjsVC22ZBO0IVAYGWkY1M7cpWjt12AMRveZWsE-rVBJyIO6xFKP2-CK7e6R0BWmQDbCNBV3a6m4Cb4CQjd703O5RCCE3V4o3shV9MvbBFww4dAmOBNiPlwcQVwPfcasjjGqHctIcaU_Yc5J6R18jMJjTVEAgeoHTkitFfKh2WOoeKnl9q5lWGSbqx4EvU9JvFa6L0qUG7d9JQSCf__1wYq4n11us77IZkl262dOc-vj_BrXszTu-kvbzPKsya5x316_qdb3-v-31Z25NiBfZ7oe68agO7qh89zQPyd_Tt5N3rWGnjvmoJvGcwLkZk9hUYi10aVPA8Q2yaOajlNGSeOBiIlnxEAeQWsQtvxKLkbDmSbT2gKJ6pygburz6c5i4ufE68T334X6OJ3r_r2OhXw5TbN9z8TL6SLef_fshE_OOn7d1253fAUH8_BYLutXnZzUl9Pjdj2_69vD8n5eLMUeNUXHQbW6uJf1gnZlkAN-xYr-TdWV5UpTNQ0qC7Ba_gfTZkjJ",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=4D0TNXicHZPLkqJIFIYX8yzdG6u6kkS0rYiKCVBAsgQF8wK5MYBEEJJLKxbKbt5lnmoi5l2G6cV3vvgX56zO_9ff8tJU__zxb9H33e397W0Yhh952-Yy-5G29Vt8ezbp27mVl_OfmbymH-trunFtU9lRcQ-h6LLQCxIYDNTkhlciE1vW3S2Rmm1565WGimEAeaXNsXRVDAaQUs5c-0F3NDh4loypipQdCZ7YRoiPqHBtrY_Nap7JlUNgpQUbueEbsSDM4gFEF1w5D2GtVE81mNgGz7RWmoh4Tlwa447190Q6igt-QmyK9bTzeSylkZQGc2G3DUEXRqBgpOaqoHQdQALoVn7tTXoUUrZHIsuMyruoHxcMV-MeG1A03ZOzG6C257tVBHDlqXHYSRHKqxiRwir_EdFiHcFqOErUYFs6x63V8ZD6scL3bsWNPfWUUAk0n1mLpKYmtsVCyNU9AsjmuFJZaNk7lvdJ0zFaWlrKtMPRTAG3IjXDvhoRDWalrmXMizLbKrINJbTOFVqiuzfmj3AUByrRFzERyoi4JqA3RYjsVC22ZBO0IVAYGWkY1M7cpWjt12AMRveZWsE-rVBJyIO6xFKP2-CK7e6R0BWmQDbCNBV3a6m4Cb4CQjd703O5RCCE3V4o3shV9MvbBFww4dAmOBNiPlwcQVwPfcasjjGqHctIcaU_Yc5J6R18jMJjTVEAgeoHTkitFfKh2WOoeKnl9q5lWGSbqx4EvU9JvFa6L0qUG7d9JQSCf__1wYq4n11us77IZkl262dOc-vj_BrXszTu-kvbzPKsya5x316_qdb3-v-31Z25NiBfZ7oe68agO7qh89zQPyd_Tt5N3rWGnjvmoJvGcwLkZk9hUYi10aVPA8Q2yaOajlNGSeOBiIlnxEAeQWsQtvxKLkbDmSbT2gKJ6pygburz6c5i4ufE68T334X6OJ3r_r2OhXw5TbN9z8TL6SLef_fshE_OOn7d1253fAUH8_BYLutXnZzUl9Pjdj2_69vD8n5eLMUeNUXHQbW6uJf1gnZlkAN-xYr-TdWV5UpTNQ0qC7Ba_gfTZkjJ",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFFtVnJSRmRtUTJoSU1EbFhhM2M1TmxjM09FbGpNV3AzWVVKNVVVbzROVzh4UmpWNGFtSldVemN5V0VSdE4xcFZUSEZHUmpadWNsZElTbGgyU2tvMFRHcFhkWEExVGtaVVJuaGpZa3QxUkZNdGNVWmhRemxxYlY5U1p4SVhWRjlKUTJFdFQyMU5jRk10TUZCRlVIZzNOMjB0UVZVYUlrRklUakJGTjBocGRGZGZabEoyYUdwNFEwZHpYMVJoUVdocllWaDFkVE5xUzJjIiwiZmN2IjoiMyIsImVpIjoiVF9JQ2EtT21NcFMtMFBFUHg3N20tQVUiLCJxYyI6IkNrSmlaWE4wSUdGMWRHOGdZMkZ3ZEdsdmJpQm5aVzVsY21GMGIzSWdabTl5SUdsdWMzUmhaM0poYlNCeVpXVnNjeUIzYVhSb0lHUjVibUZ0YVdNZ1ptOXVkSE1RQUgzaXZ2ay0iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgSW5zdGFncmFtIGNhcHRpb24gZ2VuZXJhdG9yPyIsImxrIjoiR2lCaVpYTjBJR2x1YzNSaFozSmhiU0JqWVhCMGFXOXVJR2RsYm1WeVlYUnZjZyIsImJzIjoiYzQyUHNRb0NNUkJFc2QzS09xSXNObXBoY3o5dzdWMWpJMks5WHRaTHdDU1NySWhfcjU1RUN5UFlURE52aGhuWXdiSUpWNVNBZEhsSXo1NGpDV05IWjdIQkp6eUdpSkg1bE9wcXBSYm1QeFkyc040YkVyUUp4VEFlT01rUWNpUzJ5NEhjRUdKZFRkWGtEWDM3c0MzMHRUNEo5WkZjcVctdVhwRDlEVUVOcy1kM0hiQkYwaHIxelpQN3pFdkRxdnk0NEk5SGR3IiwiaWQiOiJmY19UX0lDYS1PbU1wUy0wUEVQeDc3bS1BVV8xIn0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFFtVnJSRmRtUTJoSU1EbFhhM2M1TmxjM09FbGpNV3AzWVVKNVVVbzROVzh4UmpWNGFtSldVemN5V0VSdE4xcFZUSEZHUmpadWNsZElTbGgyU2tvMFRHcFhkWEExVGtaVVJuaGpZa3QxUkZNdGNVWmhRemxxYlY5U1p4SVhWRjlKUTJFdFQyMU5jRk10TUZCRlVIZzNOMjB0UVZVYUlrRklUakJGTjBocGRGZGZabEoyYUdwNFEwZHpYMVJoUVdocllWaDFkVE5xUzJjIiwiZmN2IjoiMyIsImVpIjoiVF9JQ2EtT21NcFMtMFBFUHg3N20tQVUiLCJxYyI6IkNrSmlaWE4wSUdGMWRHOGdZMkZ3ZEdsdmJpQm5aVzVsY21GMGIzSWdabTl5SUdsdWMzUmhaM0poYlNCeVpXVnNjeUIzYVhSb0lHUjVibUZ0YVdNZ1ptOXVkSE1RQUgzaXZ2ay0iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgSW5zdGFncmFtIGNhcHRpb24gZ2VuZXJhdG9yPyIsImxrIjoiR2lCaVpYTjBJR2x1YzNSaFozSmhiU0JqWVhCMGFXOXVJR2RsYm1WeVlYUnZjZyIsImJzIjoiYzQyUHNRb0NNUkJFc2QzS09xSXNObXBoY3o5dzdWMWpJMks5WHRaTHdDU1NySWhfcjU1RUN5UFlURE52aGhuWXdiSUpWNVNBZEhsSXo1NGpDV05IWjdIQkp6eUdpSkg1bE9wcXBSYm1QeFkyc040YkVyUUp4VEFlT01rUWNpUzJ5NEhjRUdKZFRkWGtEWDM3c0MzMHRUNEo5WkZjcVctdVhwRDlEVUVOcy1kM0hiQkYwaHIxelpQN3pFdkRxdnk0NEk5SGR3IiwiaWQiOiJmY19UX0lDYS1PbU1wUy0wUEVQeDc3bS1BVV8xIn0%3D"
+      },
+      {
+        "question": "How do I add dynamic captions?",
+        "type": "ai_overview",
+        "page_token": "KAe0e3icHVNLkqM4EF3MWbo2ruqS-NiNIyomoIwwlJGNQBJm4wCEsY0At00Vht3cZS7Q1-nTDNOLly8X-YnMl_nPv_LcVL__-nXquut9-fra9_33sm1LWXzP2_o1vQ9N_nps5fn4dyFv-dv7zVz5jg1DJj5j5XEtGCOZgjRmJxa-eHaE0Kd_8dRinbT4YqmRQpSk0rVI-moEepCzhPvOg20Y2WEkU6Z6cEPJEDmel4zeyXf0LrUrrZCGS5VKJyu5SlZiTjlKiOKdo8p9CGSoeDQf6ZoMeQ2bPU3qZLRAoHSfmXShD34okS01jJAXxZhlDIHM0dc5NeiW63EgLS9jds8gVQvaa7Fyh6ImKGy8JOXkmNXlmCEDsvqu5-y0CQF9bO0ShKPX7hWmCZrsGCwHTu0eX6qBIG_EI7OiC7vmlbilMYJ71YT5BUuGEN4iX0kR0Qm991mNSAQ8ii9kvbUTh6Jkvh9FWDhdQJAR0jhXsHod0mkfPnUhZbYeRAImsQeIgjiBFhAjHXCDUx-JJppi0tXp6MtTjJvrI-PdSNfoi9a6zqpTPfVpMYCcNteOyOvRj6SbSASzNdbCioUJqrRQIZxxdwgBOU4afsSKMZ90DfOpfqCgbaAYN2p3beEYYR6feH7xoc_RI7pUPacoLaYZSHySe2h0oUNBEMufGJAQU63f8n2X2YJhJsZ8LYOMWR_2SdAYyNU-hLuMwp4OoKc2C4pVrmYhtBhpN5zfAV4Ri3CJkjp_-vm2bvuZaGfuLBViJoYmrc_5LE-v3blt7t9U9FT_f56mq-m9F5jcNFPT6k3XtMyktMyPiT8m3ky8aS2zdO3etK1hAijtInQM1XXIl2tX5Z6TavL1Saou5X65V1AvHPmVNf5BMW1Tm3LmE35MeJnw9OdJ3g7HulvWqZDPh8m2y0I8H85i-ed3DtHBfU9ftrV_DV_Azt49Fov6xaQH7fnwuN-OS3O9W3weF_Xce7diXgMdBuCeW_kl-KJg7ZPW_DYd1MLQVV1X4BwY8_8ADXo3_g",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=KAe0e3icHVNLkqM4EF3MWbo2ruqS-NiNIyomoIwwlJGNQBJm4wCEsY0At00Vht3cZS7Q1-nTDNOLly8X-YnMl_nPv_LcVL__-nXquut9-fra9_33sm1LWXzP2_o1vQ9N_nps5fn4dyFv-dv7zVz5jg1DJj5j5XEtGCOZgjRmJxa-eHaE0Kd_8dRinbT4YqmRQpSk0rVI-moEepCzhPvOg20Y2WEkU6Z6cEPJEDmel4zeyXf0LrUrrZCGS5VKJyu5SlZiTjlKiOKdo8p9CGSoeDQf6ZoMeQ2bPU3qZLRAoHSfmXShD34okS01jJAXxZhlDIHM0dc5NeiW63EgLS9jds8gVQvaa7Fyh6ImKGy8JOXkmNXlmCEDsvqu5-y0CQF9bO0ShKPX7hWmCZrsGCwHTu0eX6qBIG_EI7OiC7vmlbilMYJ71YT5BUuGEN4iX0kR0Qm991mNSAQ8ii9kvbUTh6Jkvh9FWDhdQJAR0jhXsHod0mkfPnUhZbYeRAImsQeIgjiBFhAjHXCDUx-JJppi0tXp6MtTjJvrI-PdSNfoi9a6zqpTPfVpMYCcNteOyOvRj6SbSASzNdbCioUJqrRQIZxxdwgBOU4afsSKMZ90DfOpfqCgbaAYN2p3beEYYR6feH7xoc_RI7pUPacoLaYZSHySe2h0oUNBEMufGJAQU63f8n2X2YJhJsZ8LYOMWR_2SdAYyNU-hLuMwp4OoKc2C4pVrmYhtBhpN5zfAV4Ri3CJkjp_-vm2bvuZaGfuLBViJoYmrc_5LE-v3blt7t9U9FT_f56mq-m9F5jcNFPT6k3XtMyktMyPiT8m3ky8aS2zdO3etK1hAijtInQM1XXIl2tX5Z6TavL1Saou5X65V1AvHPmVNf5BMW1Tm3LmE35MeJnw9OdJ3g7HulvWqZDPh8m2y0I8H85i-ed3DtHBfU9ftrV_DV_Azt49Fov6xaQH7fnwuN-OS3O9W3weF_Xce7diXgMdBuCeW_kl-KJg7ZPW_DYd1MLQVV1X4BwY8_8ADXo3_g",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFFtVnJSRmRtUTJoSU1EbFhhM2M1TmxjM09FbGpNV3AzWVVKNVVVbzROVzh4UmpWNGFtSldVemN5V0VSdE4xcFZUSEZHUmpadWNsZElTbGgyU2tvMFRHcFhkWEExVGtaVVJuaGpZa3QxUkZNdGNVWmhRemxxYlY5U1p4SVhWRjlKUTJFdFQyMU5jRk10TUZCRlVIZzNOMjB0UVZVYUlrRklUakJGTjBocGRGZGZabEoyYUdwNFEwZHpYMVJoUVdocllWaDFkVE5xUzJjIiwiZmN2IjoiMyIsImVpIjoiVF9JQ2EtT21NcFMtMFBFUHg3N20tQVUiLCJxYyI6IkNrSmlaWE4wSUdGMWRHOGdZMkZ3ZEdsdmJpQm5aVzVsY21GMGIzSWdabTl5SUdsdWMzUmhaM0poYlNCeVpXVnNjeUIzYVhSb0lHUjVibUZ0YVdNZ1ptOXVkSE1RQUgzaXZ2ay0iLCJxdWVzdGlvbiI6IkhvdyBkbyBJIGFkZCBkeW5hbWljIGNhcHRpb25zPyIsImxrIjoiR2h0b2IzY2dkRzhnWVdSa0lHUjVibUZ0YVdNZ1kyRndkR2x2Ym5NIiwiYnMiOiJjNDJQc1FvQ01SQkVzZDNLT3FJc05tcGhjejl3N1YxakkySzlYdFpMd0NTU3JJaF9yNTVFQ3lQWVRETnZoaG5Zd2JJSlY1U0FkSGxJejU0akNXTkhaN0hCSnp5R2lKSDVsT3BxcFJibVB4WTJzTjRiRXJRSnhUQWVPTWtRY2lTMnk0SGNFR0pkVGRYa0RYMzdzQzMwdFQ0SjlaRmNxVy11WHBEOURVRU5zLWQzSGJCRjBocjF6WlA3ekV2RHF2eTQ0STlIZHciLCJpZCI6ImZjX1RfSUNhLU9tTXBTLTBQRVB4NzdtLUFVXzEifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaFFtVnJSRmRtUTJoSU1EbFhhM2M1TmxjM09FbGpNV3AzWVVKNVVVbzROVzh4UmpWNGFtSldVemN5V0VSdE4xcFZUSEZHUmpadWNsZElTbGgyU2tvMFRHcFhkWEExVGtaVVJuaGpZa3QxUkZNdGNVWmhRemxxYlY5U1p4SVhWRjlKUTJFdFQyMU5jRk10TUZCRlVIZzNOMjB0UVZVYUlrRklUakJGTjBocGRGZGZabEoyYUdwNFEwZHpYMVJoUVdocllWaDFkVE5xUzJjIiwiZmN2IjoiMyIsImVpIjoiVF9JQ2EtT21NcFMtMFBFUHg3N20tQVUiLCJxYyI6IkNrSmlaWE4wSUdGMWRHOGdZMkZ3ZEdsdmJpQm5aVzVsY21GMGIzSWdabTl5SUdsdWMzUmhaM0poYlNCeVpXVnNjeUIzYVhSb0lHUjVibUZ0YVdNZ1ptOXVkSE1RQUgzaXZ2ay0iLCJxdWVzdGlvbiI6IkhvdyBkbyBJIGFkZCBkeW5hbWljIGNhcHRpb25zPyIsImxrIjoiR2h0b2IzY2dkRzhnWVdSa0lHUjVibUZ0YVdNZ1kyRndkR2x2Ym5NIiwiYnMiOiJjNDJQc1FvQ01SQkVzZDNLT3FJc05tcGhjejl3N1YxakkySzlYdFpMd0NTU3JJaF9yNTVFQ3lQWVRETnZoaG5Zd2JJSlY1U0FkSGxJejU0akNXTkhaN0hCSnp5R2lKSDVsT3BxcFJibVB4WTJzTjRiRXJRSnhUQWVPTWtRY2lTMnk0SGNFR0pkVGRYa0RYMzdzQzMwdFQ0SjlaRmNxVy11WHBEOURVRU5zLWQzSGJCRjBocjF6WlA3ekV2RHF2eTQ0STlIZHciLCJpZCI6ImZjX1RfSUNhLU9tTXBTLTBQRVB4NzdtLUFVXzEifQ%3D%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "zOBtSXiczVZdbupGFJb63G3ULwQwEAJEsq7GZnCMITAQbgIvyH-MAdsDHoMhj11Ln7qYLqDL6Ao6NibYBJLcqlJ7JDN_53_ON4dff3Pm3vLPn2d2EKzofbEYhmEBE4Idq2AQt6jRvWcUZ8ShvmF_sx3B8jhKNr5hzU3BsH3iWsk6WRWIzmFH2FBuvxUqnEEFnrPmwtNUkbR8z-2uhnm-D_u7Ws3NgxEX6xemukatBTO_W9DitMh-lr9UmmxRoAXLKyjWWvdaZfB9BQplvlwp9IqayxjAf0tdABTMxiUA-CM-EX1VI7IBgEA6l4eHMbXPTDObCpCUw8k1-8NIaSQpidEyUtQDs0V_KbPZ45FrpHzil5Tx6Tlx6zAsz939AiWiUQSZjY_oQhLjvKintXR-donk7Ik4boJmmFL_LpyUgYPoKPoJQeu23wUIoauWjsRUq2PAO-CTOjl6NGq0hwGTEosmZlXOF3WfDaXi3LCNeOLTqPilpwZPHoKSPNL6-rM5U6vQm7Sg1rXdJlqtZrho6IzPIZppmVN7yn-L16Vyqco3KrX6TYw6g77BjqZh5xPKB169mw_4Qqcglo6Yy0Z7niykKOBSMWERH1ORpTcFg3Se4zSccS4zllvJaAORIKY2c4hU2EkzMbg0Wb7qOJ3-k4T0AebOiFUsBCRRMEq2QLba0BjA4SmArKLeRbVRHACcx4zlZKKIR8fD5OQ95gZAYXlQ3lKceRxF9kKILMEoeilUJh5IMR9SbiP_lKQuEYQsPIhPYimSDoHAbAlLKU_YCYy4QoAhWG7aI0mZJ9tREGyGD7UhIvyWldiG9B51MXXZfsu-ePQlgl95WA5eHEF2hpk01iBeqBtel0OvabTyWyg3ZNWZdfIqegwvY4u4-g_0NON_j75jx3OSsr-KvsjSl9CH7I_Q977jQemAPml5BX3DA_ok8VLH6x-5zjree_RJYJ5CX9Lxdkku_g30iZ-jL31dafSdriqDPngNfTLMom-8gMeOdxl9iYET-v5pxxN_vOPFILQOQ7b9bRb4ahuU0cPdojQskVez2u0Oe3XabNX3211Yef68Dc7c4N7VTOdmOjfvxXI72Js3U7ZB7i2TWwuiRYOctglIztBWwZx4OWx5lq8FxM_N2Kd4NNCwr7m5gWU5NBfOAztn7j3NnRuMwQso5zo-EXitBkebVxvtX9Tp-mX8Ha97W_1x2lacsGP74y5cgUHVlANngDq7ledIHmnvLHenmhN7OUK1Wqu7d1BP7zTWqPPS2YcPr2RnSN1KubwW7_Yvlh2-yssJmDwOJ7g6oq9Gg9w95fm6_9IBqg1FwoudIdZR7A8V1i4uDTx50vIxx8KlllDiXN8QWDXcYvCIoj96GhBD0I7LVxys2dhhNaMTEaCHMUBNzD7CLo6jhja16FYw7qoVo8rzhqbNajNrxrk42K-EBs9RzxdKvxu-pQXsHrTgj-VPf4G_AXtOjfg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=zOBtSXiczVZdbupGFJb63G3ULwQwEAJEsq7GZnCMITAQbgIvyH-MAdsDHoMhj11Ln7qYLqDL6Ao6NibYBJLcqlJ7JDN_53_ON4dff3Pm3vLPn2d2EKzofbEYhmEBE4Idq2AQt6jRvWcUZ8ShvmF_sx3B8jhKNr5hzU3BsH3iWsk6WRWIzmFH2FBuvxUqnEEFnrPmwtNUkbR8z-2uhnm-D_u7Ws3NgxEX6xemukatBTO_W9DitMh-lr9UmmxRoAXLKyjWWvdaZfB9BQplvlwp9IqayxjAf0tdABTMxiUA-CM-EX1VI7IBgEA6l4eHMbXPTDObCpCUw8k1-8NIaSQpidEyUtQDs0V_KbPZ45FrpHzil5Tx6Tlx6zAsz939AiWiUQSZjY_oQhLjvKintXR-donk7Ik4boJmmFL_LpyUgYPoKPoJQeu23wUIoauWjsRUq2PAO-CTOjl6NGq0hwGTEosmZlXOF3WfDaXi3LCNeOLTqPilpwZPHoKSPNL6-rM5U6vQm7Sg1rXdJlqtZrho6IzPIZppmVN7yn-L16Vyqco3KrX6TYw6g77BjqZh5xPKB169mw_4Qqcglo6Yy0Z7niykKOBSMWERH1ORpTcFg3Se4zSccS4zllvJaAORIKY2c4hU2EkzMbg0Wb7qOJ3-k4T0AebOiFUsBCRRMEq2QLba0BjA4SmArKLeRbVRHACcx4zlZKKIR8fD5OQ95gZAYXlQ3lKceRxF9kKILMEoeilUJh5IMR9SbiP_lKQuEYQsPIhPYimSDoHAbAlLKU_YCYy4QoAhWG7aI0mZJ9tREGyGD7UhIvyWldiG9B51MXXZfsu-ePQlgl95WA5eHEF2hpk01iBeqBtel0OvabTyWyg3ZNWZdfIqegwvY4u4-g_0NON_j75jx3OSsr-KvsjSl9CH7I_Q977jQemAPml5BX3DA_ok8VLH6x-5zjree_RJYJ5CX9Lxdkku_g30iZ-jL31dafSdriqDPngNfTLMom-8gMeOdxl9iYET-v5pxxN_vOPFILQOQ7b9bRb4ahuU0cPdojQskVez2u0Oe3XabNX3211Yef68Dc7c4N7VTOdmOjfvxXI72Js3U7ZB7i2TWwuiRYOctglIztBWwZx4OWx5lq8FxM_N2Kd4NNCwr7m5gWU5NBfOAztn7j3NnRuMwQso5zo-EXitBkebVxvtX9Tp-mX8Ha97W_1x2lacsGP74y5cgUHVlANngDq7ledIHmnvLHenmhN7OUK1Wqu7d1BP7zTWqPPS2YcPr2RnSN1KubwW7_Yvlh2-yssJmDwOJ7g6oq9Gg9w95fm6_9IBqg1FwoudIdZR7A8V1i4uDTx50vIxx8KlllDiXN8QWDXcYvCIoj96GhBD0I7LVxys2dhhNaMTEaCHMUBNzD7CLo6jhja16FYw7qoVo8rzhqbNajNrxrk42K-EBs9RzxdKvxu-pQXsHrTgj-VPf4G_AXtOjfg"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Generate auto captions with AI",
+        "link": "https://www.canva.com/features/auto-caption/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHEIkXXSqEBTbM0FVgBfE3sCegpL7ghFyIyo3JNyferWIFpvTw4D760PqdD0mbP1XvH-VB6bvX80rWHH-pddMosbD8pXHJv7alIrFL8lu1_8YIZ0FXVLVOJgOz7vsxXcr3-PeiVb4Lc0w&ved=2ahUKEwijioqv25uYAxUUHzQIHUefGV8QFnoECBUQAQ&uoh=1",
+        "displayed_link": "https://www.canva.com \u203a Features",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEUBw8wDv80Gu80Jt88MstARq9EVpNMcm9Uik9cqi9kuxNEzgtuY2ub____w9v1zy9_V5Pc6d95AbOJZsdxSXt9gS-RsOugifOA5Xul4hemUmPJGS-56KeqxuPRUNvRyJvJjKPrWjzNIAAABIklEQVR4AZXPBZbDMBADUIfTNuMw4_1PubKmz8ukcv-T4pgPCYIwjKI4SdIsv_0HoYrpt80YmHn0Yu5B5Fcf77AQxJYsEgNfA1XlvRQpnsUaU4G3IgzDuBCL03h0HpRqUYwvQGdEBheLeBOFVOw96saECM7vRkE4p0gLQ1ERiawIKU2qNs9zWmciDVYTkDsKSK0zMSR2p6jSV1IDIkkCLLLMk1pvEq45zBEQa7Te6Biwuj3F22AyrmXA8TGODqZqVhuMjo1WhHOwxa4g2GbcGCo7qhNkWmeZVxBsMwCMYQvarGu3y-4MBOT10XAqFuvLwRqRgLX1WCordu8PJSKFOZjhGE4loP4PYa7jdNnoRP0Xz-u6PBEJF0N618RfnvB413wBF2gp0D7Hjh8AAAAASUVORK5CYII.png",
+        "snippet": "Generate auto captions. Click \u201cCaptions\u201d under \u201cDynamic Text\u201d in the Text section, select your video, and click \u201cGenerate captions.\u201d Download your design.",
+        "snippet_highlighted_words": [
+          "Generate auto captions"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Generate auto captions. Click \u201cCaptions\u201d under \u201cDynamic Text\u201d in the Text section, select your video, and click \u201cGenerate captions.\u201d Download your design.",
+            "source_info_link": "https://www.canva.com/features/auto-caption/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEUBw8wDv80Gu80Jt88MstARq9EVpNMcm9Uik9cqi9kuxNEzgtuY2ub____w9v1zy9_V5Pc6d95AbOJZsdxSXt9gS-RsOugifOA5Xul4hemUmPJGS-56KeqxuPRUNvRyJvJjKPrWjzNIAAABIklEQVR4AZXPBZbDMBADUIfTNuMw4_1PubKmz8ukcv-T4pgPCYIwjKI4SdIsv_0HoYrpt80YmHn0Yu5B5Fcf77AQxJYsEgNfA1XlvRQpnsUaU4G3IgzDuBCL03h0HpRqUYwvQGdEBheLeBOFVOw96saECM7vRkE4p0gLQ1ERiawIKU2qNs9zWmciDVYTkDsKSK0zMSR2p6jSV1IDIkkCLLLMk1pvEq45zBEQa7Te6Biwuj3F22AyrmXA8TGODqZqVhuMjo1WhHOwxa4g2GbcGCo7qhNkWmeZVxBsMwCMYQvarGu3y-4MBOT10XAqFuvLwRqRgLX1WCordu8PJSKFOZjhGE4loP4PYa7jdNnoRP0Xz-u6PBEJF0N618RfnvB413wBF2gp0D7Hjh8AAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhFSWtYWDc2aHlhNjhGN0lPT0FoR19mZUhWamd5YzFTM1A3MmNyd1NhdnVTMzVURGJEZEVnYTJsOTRpbUp5eWdtSTBXWGk3VzJJdi1MMS1IMFB6UzlCUW90TTNTeWlGRGlnZWF0bFlIbE51ZGVETzRfLTRWSExwU2pwOWlYWF9pMWJ5SHo4Wl9LTllBEgQaAggAGooHEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA5AYIABAAGAAgACouCgRiZXN0FaeKTj8aBmJldHRlchoEY29vbBoEZ29vZBoDdG9wGghiZXN0YXV0bypRCgRhdXRvFeoUxkAaCWF1dG9tYXRlZBoJYXV0b21hdGljGgthdXRvbW9iaWxlcxoKYXV0b21vdGl2ZRoIYmVzdGF1dG8aC2F1dG9jYXB0aW9uKlQKB2NhcHRpb24V0aenQBoKY2FwdGlvbmluZxoIY2FwdGlvbnMaCHN1YnRpdGxlGglzdWJ0aXRsZXMaC2F1dG9jYXB0aW9uGgxpdjtwO2NhcHRpb24qJQoJZ2VuZXJhdG9yFRrGgkAaB2NyZWF0b3IaCmdlbmVyYXRvcnMqCgoDZm9yFQAAAAAqKwoJaW5zdGFncmFtFaRlJj0aAmlnGgVpbnN0YRoOaW5zdGFncmFtcmVlbHMqHAoFcmVlbHMVAAAAABoOaW5zdGFncmFtcmVlbHMqCwoEd2l0aBUAAAAAKhsKB2R5bmFtaWMVsv87PxoLZHluYW1pY2FsbHkqSwoFZm9udHMVFQnePRoEZm9udBoEdGV4dBoIdHlwZWZhY2UaCXR5cGVmYWNlcxoKaXY7cDtmb250cxoEdHlwZRoKdHlwb2dyYXBoeTKcAS9nb3RvP3VybD1DQUVTYVFIRUlrWFg3Nmh5YTY4RjdJT09BaEdfZmVIVmpneWMxUzNQNzJjcndTYXZ1UzM1VERiRGRFZ2EybDk0aW1KeXlnbUkwV1hpN1cySXYtTDEtSDBQelM5QlFvdE0zU3lpRkRpZ2VhdGxZSGxOdWRlRE80Xy00VkhMcFNqcDlpWFhfaTFieUh6OFpfS05ZQTotR2VuZXJhdGUgPGI-YXV0byBjYXB0aW9uczwvYj4gd2l0aCBBSSAtIENhbnZhQq0BPGI-R2VuZXJhdGUgYXV0byBjYXB0aW9uczwvYj4uIENsaWNrIOKAnENhcHRpb25z4oCdIHVuZGVyIOKAnER5bmFtaWMgVGV4dOKAnSBpbiB0aGUgVGV4dCBzZWN0aW9uLCBzZWxlY3QgeW91ciB2aWRlbywgYW5kIGNsaWNrIOKAnEdlbmVyYXRlIGNhcHRpb25zLuKAnSBEb3dubG9hZCB5b3VyIGRlc2lnbi5KA2ZvckoEd2l0aFIDdG9wIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhFSWtYWDc2aHlhNjhGN0lPT0FoR19mZUhWamd5YzFTM1A3MmNyd1NhdnVTMzVURGJEZEVnYTJsOTRpbUp5eWdtSTBXWGk3VzJJdi1MMS1IMFB6UzlCUW90TTNTeWlGRGlnZWF0bFlIbE51ZGVETzRfLTRWSExwU2pwOWlYWF9pMWJ5SHo4Wl9LTllBEgQaAggAGooHEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA5AYIABAAGAAgACouCgRiZXN0FaeKTj8aBmJldHRlchoEY29vbBoEZ29vZBoDdG9wGghiZXN0YXV0bypRCgRhdXRvFeoUxkAaCWF1dG9tYXRlZBoJYXV0b21hdGljGgthdXRvbW9iaWxlcxoKYXV0b21vdGl2ZRoIYmVzdGF1dG8aC2F1dG9jYXB0aW9uKlQKB2NhcHRpb24V0aenQBoKY2FwdGlvbmluZxoIY2FwdGlvbnMaCHN1YnRpdGxlGglzdWJ0aXRsZXMaC2F1dG9jYXB0aW9uGgxpdjtwO2NhcHRpb24qJQoJZ2VuZXJhdG9yFRrGgkAaB2NyZWF0b3IaCmdlbmVyYXRvcnMqCgoDZm9yFQAAAAAqKwoJaW5zdGFncmFtFaRlJj0aAmlnGgVpbnN0YRoOaW5zdGFncmFtcmVlbHMqHAoFcmVlbHMVAAAAABoOaW5zdGFncmFtcmVlbHMqCwoEd2l0aBUAAAAAKhsKB2R5bmFtaWMVsv87PxoLZHluYW1pY2FsbHkqSwoFZm9udHMVFQnePRoEZm9udBoEdGV4dBoIdHlwZWZhY2UaCXR5cGVmYWNlcxoKaXY7cDtmb250cxoEdHlwZRoKdHlwb2dyYXBoeTKcAS9nb3RvP3VybD1DQUVTYVFIRUlrWFg3Nmh5YTY4RjdJT09BaEdfZmVIVmpneWMxUzNQNzJjcndTYXZ1UzM1VERiRGRFZ2EybDk0aW1KeXlnbUkwV1hpN1cySXYtTDEtSDBQelM5QlFvdE0zU3lpRkRpZ2VhdGxZSGxOdWRlRE80Xy00VkhMcFNqcDlpWFhfaTFieUh6OFpfS05ZQTotR2VuZXJhdGUgPGI-YXV0byBjYXB0aW9uczwvYj4gd2l0aCBBSSAtIENhbnZhQq0BPGI-R2VuZXJhdGUgYXV0byBjYXB0aW9uczwvYj4uIENsaWNrIOKAnENhcHRpb25z4oCdIHVuZGVyIOKAnER5bmFtaWMgVGV4dOKAnSBpbiB0aGUgVGV4dCBzZWN0aW9uLCBzZWxlY3QgeW91ciB2aWRlbywgYW5kIGNsaWNrIOKAnEdlbmVyYXRlIGNhcHRpb25zLuKAnSBEb3dubG9hZCB5b3VyIGRlc2lnbi5KA2ZvckoEd2l0aFIDdG9wIgIQAUgAWABoAA",
+        "source": "Canva",
+        "read_more_link": "https://www.google.com/goto?url=CAESpQEBxCJF16JbHUFn-h8YfTGjwAvNyMDsUskRr1UFE7vlzh9kyrGbWDgh9ezsfBM5HASUDIl8vkgRLv-ERhdXI_eCbNVW1xUoc93_3TT1QJOumBsr3N4_J6Ptm5WYdXdopaJoBHKasj6tVl6YDfgbiywwWVRisnaix09T5AvyPrjRBL8cezgSXsYx4Rx9f2cXYvOM6cyvmdLzAFOzfoLrLGOxJE2tyEg&gsessionid=qrKtczkx8k5fHe-cWUEHT5HF8UnorbRtBYYzlrCicBIzuT7uAl4v0A"
+      },
+      {
+        "position": 2,
+        "title": "AutoCaption \u2014 Add Captions to Your Videos in Seconds",
+        "link": "https://autocaption.io/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVAHEIkXXfnffXMfiVzlPk1ehJX3lVmRexHoxnzlUeOn3K-Y58ABRie8hlr8Yol4eQlBkQr5bmjRDsx9PYBc0B7evKTortbPBiDYURwcrhVTYZTto0g&ved=2ahUKEwijioqv25uYAxUUHzQIHUefGV8QFnoECBYQAQ&uoh=1",
+        "displayed_link": "https://autocaption.io",
+        "favicon": "https://serpapi.com/searches/6b02f241412f43a8e66062b5/images/ETB9BEsPpW3v0Iqq9ZHZjhSQz_2H9kifS6G9ToRQvh0.png",
+        "snippet": "AutoCaption automatically generates stylish captions, animated emojis, and ready-to-post videos for TikTok, Reels, and Shorts.",
+        "snippet_highlighted_words": [
+          "AutoCaption",
+          "captions",
+          "Reels"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "AutoCaption automatically generates stylish captions, animated emojis, and ready-to-post videos for TikTok, Reels, and Shorts.",
+            "source_info_link": "https://autocaption.io/",
+            "icon": "https://serpapi.com/searches/6b02f241412f43a8e66062b5/images/ETB9BEsPpW3v0Iqq9ZHZjvPy99NXpuCrsqm2HYKoYxzGQJVOzbVz4JmOpcLiAXQG.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoABL2dvdG8_dXJsPUNBRVNWQUhFSWtYWEhqSzRQdXBBUkcwYlJ3SC03Rm4tUUo4cmNOTzVIV0NzSnhDVDVKU1pvVkVrd09VS3ExazhxRENqdm9HUkk0LWlpWW5iUUI4ZzMwOXVTbzRSQS1UcXY0eTBLSWVBbmk0YXBIVnJObTcyU3cSBBoCCAAa6wYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDFBggAEAAYACAAKi4KBGJlc3QVh6u3PhoGYmV0dGVyGgRjb29sGgRnb29kGgN0b3AaCGJlc3RhdXRvKlEKBGF1dG8VutcFQRoJYXV0b21hdGVkGglhdXRvbWF0aWMaC2F1dG9tb2JpbGVzGgphdXRvbW90aXZlGghiZXN0YXV0bxoLYXV0b2NhcHRpb24qVAoHY2FwdGlvbhVrPg5BGgpjYXB0aW9uaW5nGghjYXB0aW9ucxoIc3VidGl0bGUaCXN1YnRpdGxlcxoLYXV0b2NhcHRpb24aDGl2O3A7Y2FwdGlvbiolCglnZW5lcmF0b3IV8Th7PxoHY3JlYXRvchoKZ2VuZXJhdG9ycyoKCgNmb3IVAAAAACorCglpbnN0YWdyYW0VhUI1PhoCaWcaBWluc3RhGg5pbnN0YWdyYW1yZWVscyocCgVyZWVscxVU67E_Gg5pbnN0YWdyYW1yZWVscyoLCgR3aXRoFQAAAAAqGwoHZHluYW1pYxWpAoQ-GgtkeW5hbWljYWxseSpLCgVmb250cxWTX2I_GgRmb250GgR0ZXh0Ggh0eXBlZmFjZRoJdHlwZWZhY2VzGgppdjtwO2ZvbnRzGgR0eXBlGgp0eXBvZ3JhcGh5MoABL2dvdG8_dXJsPUNBRVNWQUhFSWtYWEhqSzRQdXBBUkcwYlJ3SC03Rm4tUUo4cmNOTzVIV0NzSnhDVDVKU1pvVkVrd09VS3ExazhxRENqdm9HUkk0LWlpWW5iUUI4ZzMwOXVTbzRSQS1UcXY0eTBLSWVBbmk0YXBIVnJObTcyU3c6RDxiPkF1dG9DYXB0aW9uPC9iPiDigJQgQWRkIDxiPkNhcHRpb25zPC9iPiB0byBZb3VyIFZpZGVvcyBpbiBTZWNvbmRzQpMBPGI-QXV0b0NhcHRpb248L2I-IGF1dG9tYXRpY2FsbHkgZ2VuZXJhdGVzIHN0eWxpc2ggPGI-Y2FwdGlvbnM8L2I-LCBhbmltYXRlZCBlbW9qaXMsIGFuZCByZWFkeS10by1wb3N0IHZpZGVvcyBmb3IgVGlrVG9rLCA8Yj5SZWVsczwvYj4sIGFuZCBTaG9ydHMuSgR3aXRoSgNmb3JSA3RvcCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoABL2dvdG8_dXJsPUNBRVNWQUhFSWtYWEhqSzRQdXBBUkcwYlJ3SC03Rm4tUUo4cmNOTzVIV0NzSnhDVDVKU1pvVkVrd09VS3ExazhxRENqdm9HUkk0LWlpWW5iUUI4ZzMwOXVTbzRSQS1UcXY0eTBLSWVBbmk0YXBIVnJObTcyU3cSBBoCCAAa6wYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDFBggAEAAYACAAKi4KBGJlc3QVh6u3PhoGYmV0dGVyGgRjb29sGgRnb29kGgN0b3AaCGJlc3RhdXRvKlEKBGF1dG8VutcFQRoJYXV0b21hdGVkGglhdXRvbWF0aWMaC2F1dG9tb2JpbGVzGgphdXRvbW90aXZlGghiZXN0YXV0bxoLYXV0b2NhcHRpb24qVAoHY2FwdGlvbhVrPg5BGgpjYXB0aW9uaW5nGghjYXB0aW9ucxoIc3VidGl0bGUaCXN1YnRpdGxlcxoLYXV0b2NhcHRpb24aDGl2O3A7Y2FwdGlvbiolCglnZW5lcmF0b3IV8Th7PxoHY3JlYXRvchoKZ2VuZXJhdG9ycyoKCgNmb3IVAAAAACorCglpbnN0YWdyYW0VhUI1PhoCaWcaBWluc3RhGg5pbnN0YWdyYW1yZWVscyocCgVyZWVscxVU67E_Gg5pbnN0YWdyYW1yZWVscyoLCgR3aXRoFQAAAAAqGwoHZHluYW1pYxWpAoQ-GgtkeW5hbWljYWxseSpLCgVmb250cxWTX2I_GgRmb250GgR0ZXh0Ggh0eXBlZmFjZRoJdHlwZWZhY2VzGgppdjtwO2ZvbnRzGgR0eXBlGgp0eXBvZ3JhcGh5MoABL2dvdG8_dXJsPUNBRVNWQUhFSWtYWEhqSzRQdXBBUkcwYlJ3SC03Rm4tUUo4cmNOTzVIV0NzSnhDVDVKU1pvVkVrd09VS3ExazhxRENqdm9HUkk0LWlpWW5iUUI4ZzMwOXVTbzRSQS1UcXY0eTBLSWVBbmk0YXBIVnJObTcyU3c6RDxiPkF1dG9DYXB0aW9uPC9iPiDigJQgQWRkIDxiPkNhcHRpb25zPC9iPiB0byBZb3VyIFZpZGVvcyBpbiBTZWNvbmRzQpMBPGI-QXV0b0NhcHRpb248L2I-IGF1dG9tYXRpY2FsbHkgZ2VuZXJhdGVzIHN0eWxpc2ggPGI-Y2FwdGlvbnM8L2I-LCBhbmltYXRlZCBlbW9qaXMsIGFuZCByZWFkeS10by1wb3N0IHZpZGVvcyBmb3IgVGlrVG9rLCA8Yj5SZWVsczwvYj4sIGFuZCBTaG9ydHMuSgR3aXRoSgNmb3JSA3RvcCICEAFIAFgAaAA",
+        "source": "AutoCaption"
+      },
+      {
+        "position": 3,
+        "title": "What is the best option for A.I auto captioning for reels?",
+        "link": "https://www.google.com/goto?url=CAESowEBxCJF10_0IeCnFEg9y5jk7rptM4_feStc1jc5R9cZSQWoJixlSmmmf_DAgs0dp8BPLw1TbSVsskHuQlGQw98wPKtPicvDigUEL8UaB2yR3U6Vk8bsLiL2CtOUOf8roNY9fMvhMXQn6-i_Y41u4gph0-w7iJQgKqm0GEFnu9HKeyDcTUoaNYFBSOzscMlGFIjlksGYCqR6xJj9EYLH3W6r6Mpd",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESowEBxCJF10wHiURa_CofBk-S_EJVvRl4fz_wGmH-c8MxmWdjxpke3Bn0i_7C1jkPJzF1Zh9IFCzUGN5YnHU7g3sL9vbjI18Asc6-FwPGGwqfYlpQJjzXGUZCtfT8Of0Nr2ZpmnK5VTyJnrsb23PYMR1qEtl_PS2iLjhREAj1VcHKbEEzc679gDUCGmCjPtj53Gk6y6SSPoNHuyLQbqhSt952-Xzv&ved=2ahUKEwijioqv25uYAxUUHzQIHUefGV8QFnoECCgQAQ&uoh=1",
+        "displayed_link": "50+ comments",
+        "date": "2 years ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+        "snippet": "I have a client that wants animated captioning on his videos. \u201cSubmagic\u201d looks like a great option, except they only offer annual plans\u2026no ...",
+        "sitelinks": {
+          "list": [
+            {
+              "title": "What is the Best AI caption generator? : r/automation",
+              "link": "https://www.google.com/goto?url=CAESmAEBxCJF1-py7mBIf1Mp8fbxeSJfmqlNRkU4hxWOIlkA0Wd5pVKkFlH2wwBWH0WtS4rz2DDeWUE-0Af3R5dLmdDpY7ZhRHwrwyfSqyJjX1gtQhjlvdHs7ZE8msD2SfjE3zr5nClmNve7S9N4-fhTjnXvuOp0cWyyE8e4uLlrWe5sQBo85QiKjSbftXxX0LGEaD9dz4O1cPNU4Q&gsessionid=qrKtczkx8k5fHe-cWUEHT5HF8UnorbRtBYYzlrCicBIzuT7uAl4v0A",
+              "answer_count": 47,
+              "date": "Nov 25, 2025"
+            },
+            {
+              "title": "Best auto caption generator? : r/VideoEditing",
+              "link": "https://www.google.com/goto?url=CAESjwEBxCJF1408-9tAMsv8j7tjP0a_UJOJzW39SDHjmBqq4dXM5Q0M0mM-rX9iYjvgMb_ZW-XRVixzheMjD6f6odd-vyE2yx0Emr-3c9gK1pPS5rpPqiGnOsjM96dM6dXvPBW6zZf84R2KMXutpK-HWUc0rzdBBHtxBVWpOgOueV6_5nF0WgLgJBnGlhObqt_T1g&gsessionid=qrKtczkx8k5fHe-cWUEHT5HF8UnorbRtBYYzlrCicBIzuT7uAl4v0A",
+              "answer_count": 22,
+              "date": "Mar 16, 2022"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "I have a client that wants animated captioning on his videos. \u201cSubmagic\u201d looks like a great option, except they only offer annual plans\u2026no ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESowEBxCJF10_0IeCnFEg9y5jk7rptM4_feStc1jc5R9cZSQWoJixlSmmmf_DAgs0dp8BPLw1TbSVsskHuQlGQw98wPKtPicvDigUEL8UaB2yR3U6Vk8bsLiL2CtOUOf8roNY9fMvhMXQn6-i_Y41u4gph0-w7iJQgKqm0GEFnu9HKeyDcTUoaNYFBSOzscMlGFIjlksGYCqR6xJj9EYLH3W6r6Mpd",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuoBL2dvdG8_dXJsPUNBRVNvd0VCeENKRjEwXzBJZUNuRkVnOXk1ams3cnB0TTRfZmVTdGMxamM1UjljWlNRV29KaXhsU21tbWZfREFnczBkcDhCUEx3MVRiU1Zzc2tIdVFsR1F3OTh3UEt0UGljdkRpZ1VFTDhVYUIyeVIzVTZWazhic0xpTDJDdE9VT2Y4cm9OWTlmTXZoTVhRbjYtaV9ZNDF1NGdwaDAtdzdpSlFnS3FtMEdFRm51OUhLZXlEY1RVb2FOWUZCU096c2NNbEdGSWpsa3NHWUNxUjZ4Smo5RVlMSDNXNnI2TXBkEgQaAggAGvQHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNAHCAAQABgAIAAqLgoEYmVzdBVmKJFAGgZiZXR0ZXIaBGNvb2waBGdvb2QaA3RvcBoIYmVzdGF1dG8qUQoEYXV0bxXPzZBAGglhdXRvbWF0ZWQaCWF1dG9tYXRpYxoLYXV0b21vYmlsZXMaCmF1dG9tb3RpdmUaCGJlc3RhdXRvGgthdXRvY2FwdGlvbipUCgdjYXB0aW9uFbfykT8aCmNhcHRpb25pbmcaCGNhcHRpb25zGghzdWJ0aXRsZRoJc3VidGl0bGVzGgthdXRvY2FwdGlvbhoMaXY7cDtjYXB0aW9uKiUKCWdlbmVyYXRvchVZXKc_GgdjcmVhdG9yGgpnZW5lcmF0b3JzKgoKA2ZvchUAAAAAKisKCWluc3RhZ3JhbRUHVLY-GgJpZxoFaW5zdGEaDmluc3RhZ3JhbXJlZWxzKhwKBXJlZWxzFaRrakAaDmluc3RhZ3JhbXJlZWxzKgsKBHdpdGgVAAAAACobCgdkeW5hbWljFQAAAAAaC2R5bmFtaWNhbGx5KksKBWZvbnRzFQAAAAAaBGZvbnQaBHRleHQaCHR5cGVmYWNlGgl0eXBlZmFjZXMaCml2O3A7Zm9udHMaBHR5cGUaCnR5cG9ncmFwaHky6gEvZ290bz91cmw9Q0FFU293RUJ4Q0pGMTBfMEllQ25GRWc5eTVqazdycHRNNF9mZVN0YzFqYzVSOWNaU1FXb0ppeGxTbW1tZl9EQWdzMGRwOEJQTHcxVGJTVnNza0h1UWxHUXc5OHdQS3RQaWN2RGlnVUVMOFVhQjJ5UjNVNlZrOGJzTGlMMkN0T1VPZjhyb05ZOWZNdmhNWFFuNi1pX1k0MXU0Z3BoMC13N2lKUWdLcW0wR0VGbnU5SEtleURjVFVvYU5ZRkJTT3pzY01sR0ZJamxrc0dZQ3FSNnhKajlFWUxIM1c2cjZNcGQ6WFdoYXQgaXMgdGhlIDxiPmJlc3Q8L2I-IG9wdGlvbiBmb3IgQS5JIDxiPmF1dG8gY2FwdGlvbmluZzwvYj4gZm9yIDxiPnJlZWxzPC9iPj8gLSBSZWRkaXRCoAFJIGhhdmUgYSBjbGllbnQgdGhhdCB3YW50cyBhbmltYXRlZCBjYXB0aW9uaW5nIG9uIGhpcyB2aWRlb3MuIDxiPuKAnFN1YjwvYj5tYWdpY-KAnSBsb29rcyBsaWtlIGEgZ3JlYXQgb3B0aW9uLCBleGNlcHQgdGhleSBvbmx5IG9mZmVyIGFubnVhbCBwbGFuc-KApm5vJm5ic3A7Li4uSgNmb3JKBHdpdGhSA3RvcCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuoBL2dvdG8_dXJsPUNBRVNvd0VCeENKRjEwXzBJZUNuRkVnOXk1ams3cnB0TTRfZmVTdGMxamM1UjljWlNRV29KaXhsU21tbWZfREFnczBkcDhCUEx3MVRiU1Zzc2tIdVFsR1F3OTh3UEt0UGljdkRpZ1VFTDhVYUIyeVIzVTZWazhic0xpTDJDdE9VT2Y4cm9OWTlmTXZoTVhRbjYtaV9ZNDF1NGdwaDAtdzdpSlFnS3FtMEdFRm51OUhLZXlEY1RVb2FOWUZCU096c2NNbEdGSWpsa3NHWUNxUjZ4Smo5RVlMSDNXNnI2TXBkEgQaAggAGvQHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNAHCAAQABgAIAAqLgoEYmVzdBVmKJFAGgZiZXR0ZXIaBGNvb2waBGdvb2QaA3RvcBoIYmVzdGF1dG8qUQoEYXV0bxXPzZBAGglhdXRvbWF0ZWQaCWF1dG9tYXRpYxoLYXV0b21vYmlsZXMaCmF1dG9tb3RpdmUaCGJlc3RhdXRvGgthdXRvY2FwdGlvbipUCgdjYXB0aW9uFbfykT8aCmNhcHRpb25pbmcaCGNhcHRpb25zGghzdWJ0aXRsZRoJc3VidGl0bGVzGgthdXRvY2FwdGlvbhoMaXY7cDtjYXB0aW9uKiUKCWdlbmVyYXRvchVZXKc_GgdjcmVhdG9yGgpnZW5lcmF0b3JzKgoKA2ZvchUAAAAAKisKCWluc3RhZ3JhbRUHVLY-GgJpZxoFaW5zdGEaDmluc3RhZ3JhbXJlZWxzKhwKBXJlZWxzFaRrakAaDmluc3RhZ3JhbXJlZWxzKgsKBHdpdGgVAAAAACobCgdkeW5hbWljFQAAAAAaC2R5bmFtaWNhbGx5KksKBWZvbnRzFQAAAAAaBGZvbnQaBHRleHQaCHR5cGVmYWNlGgl0eXBlZmFjZXMaCml2O3A7Zm9udHMaBHR5cGUaCnR5cG9ncmFwaHky6gEvZ290bz91cmw9Q0FFU293RUJ4Q0pGMTBfMEllQ25GRWc5eTVqazdycHRNNF9mZVN0YzFqYzVSOWNaU1FXb0ppeGxTbW1tZl9EQWdzMGRwOEJQTHcxVGJTVnNza0h1UWxHUXc5OHdQS3RQaWN2RGlnVUVMOFVhQjJ5UjNVNlZrOGJzTGlMMkN0T1VPZjhyb05ZOWZNdmhNWFFuNi1pX1k0MXU0Z3BoMC13N2lKUWdLcW0wR0VGbnU5SEtleURjVFVvYU5ZRkJTT3pzY01sR0ZJamxrc0dZQ3FSNnhKajlFWUxIM1c2cjZNcGQ6WFdoYXQgaXMgdGhlIDxiPmJlc3Q8L2I-IG9wdGlvbiBmb3IgQS5JIDxiPmF1dG8gY2FwdGlvbmluZzwvYj4gZm9yIDxiPnJlZWxzPC9iPj8gLSBSZWRkaXRCoAFJIGhhdmUgYSBjbGllbnQgdGhhdCB3YW50cyBhbmltYXRlZCBjYXB0aW9uaW5nIG9uIGhpcyB2aWRlb3MuIDxiPuKAnFN1YjwvYj5tYWdpY-KAnSBsb29rcyBsaWtlIGEgZ3JlYXQgb3B0aW9uLCBleGNlcHQgdGhleSBvbmx5IG9mZmVyIGFubnVhbCBwbGFuc-KApm5vJm5ic3A7Li4uSgNmb3JKBHdpdGhSA3RvcCICEAFIAFgAaAA",
+        "source": "Reddit \u00b7 r/VideoEditing"
+      },
+      {
+        "position": 4,
+        "title": "Instagram Reels Caption Generator - Free AI Tool",
+        "link": "https://www.google.com/goto?url=CAESfgHEIkXXXh91rSpqKpEgMhA-2XgcFuW2OgfBRh4YopDQgguVKkeW7MLyqXJCWEzfefMUf8Mqi95ONlEJ1FEZ9kb78Quo3wHBQCXfh0ew1Ra6waMYzy2q3K8RaeeujZH3Xtca-HhfRAgE_qjYqaVnfQ-UWvaevx9hyMmFavz-hA",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHEIkXXVjcmbZuTE8Yf1em8AvZllatITzzkYRH6VBpTILn6ZtGw-vyb16puqjfRID2x7ZZnqobqiafA9JzGeuwOhWNwiTh-XSCfeibXW9iZ5OCOV8-rGIh_mlg08krB9yiBhpqZ-0S_SCoHyU7ssWgwBbRfAxdqJMNI_jChzQ&ved=2ahUKEwijioqv25uYAxUUHzQIHUefGV8QFnoECBQQAQ&uoh=1",
+        "displayed_link": "https://www.choppity.com \u203a tools \u203a instagram-reels-cap...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcExxL_9xL_9xL_9xL_9xL_9xL_9tJf9qHf9jBP95Pv-2nf_VyP-bdv9nE__Itv-IV_-RZv_r5P_____i2f9cAP-niP_49f_-SyO1AAAAB3RSTlMAJa7y_69kPKWwjAAAAQ1JREFUeAF9kwUChDAMBJFwqZHSbuX_P71wrgxSmboMwzBOM30xL-OgnOgPJ61HfxmH5b-chvm_nIdHlI3hj9hNsnU-hFU0JrLGsPFTSspAKfDV-QLkjKcUj5CsVI8MhMbVIPFNckOzzIbcXsZq7d7lXtMiWuItiMUqzu-1k7nV5ARHWgtku68FV9xVGt8tSc9YbQ7WsmKkR3OVsQhxkxxrAOJ24SGDSmLjwTm0jgv93mzMKpUO-Fo3eHLuPlpuMLRjG4Cock_eJBl4IcXE7rx6oVfpse6DFA1rTWj8kIqNKC2ltGUgJvg3SZIKHhTz2qzCYg1fMUJPecDxMZn-y-X4aB4damVcfl2HSeudAfEjGBYFvIZXAAAAAElFTkSuQmCC.png",
+        "snippet": "Generate captions for Instagram Reels instantly with our free AI tool. syncing captions to match your speech. full control over styling, timing, and formatting.",
+        "snippet_highlighted_words": [
+          "Generate captions for Instagram Reels instantly with our free AI tool"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Generate captions for Instagram Reels instantly with our free AI tool. syncing captions to match your speech. full control over styling, timing, and formatting.",
+            "source_info_link": "https://www.google.com/goto?url=CAESfgHEIkXXXh91rSpqKpEgMhA-2XgcFuW2OgfBRh4YopDQgguVKkeW7MLyqXJCWEzfefMUf8Mqi95ONlEJ1FEZ9kb78Quo3wHBQCXfh0ew1Ra6waMYzy2q3K8RaeeujZH3Xtca-HhfRAgE_qjYqaVnfQ-UWvaevx9hyMmFavz-hA",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcExxL_9xL_9xL_9xL_9xL_9xL_9tJf9qHf9jBP95Pv-2nf_VyP-bdv9nE__Itv-IV_-RZv_r5P_____i2f9cAP-niP_49f_-SyO1AAAAB3RSTlMAJa7y_69kPKWwjAAAAQ1JREFUeAF9kwUChDAMBJFwqZHSbuX_P71wrgxSmboMwzBOM30xL-OgnOgPJ61HfxmH5b-chvm_nIdHlI3hj9hNsnU-hFU0JrLGsPFTSspAKfDV-QLkjKcUj5CsVI8MhMbVIPFNckOzzIbcXsZq7d7lXtMiWuItiMUqzu-1k7nV5ARHWgtku68FV9xVGt8tSc9YbQ7WsmKkR3OVsQhxkxxrAOJ24SGDSmLjwTm0jgv93mzMKpUO-Fo3eHLuPlpuMLRjG4Cock_eJBl4IcXE7rx6oVfpse6DFA1rTWj8kIqNKC2ltGUgJvg3SZIKHhTz2qzCYg1fMUJPecDxMZn-y-X4aB4damVcfl2HSeudAfEjGBYFvIZXAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrgBL2dvdG8_dXJsPUNBRVNmZ0hFSWtYWFhoOTFyU3BxS3BFZ01oQS0yWGdjRnVXMk9nZkJSaDRZb3BEUWdndVZLa2VXN01MeXFYSkNXRXpmZWZNVWY4TXFpOTVPTmxFSjFGRVo5a2I3OFF1bzN3SEJRQ1hmaDBldzFSYTZ3YU1ZenkycTNLOFJhZWV1alpIM1h0Y2EtSGhmUkFnRV9xallxYVZuZlEtVVd2YWV2eDloeU1tRmF2ei1oQRIEGgIIABq1BxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQI8HCAAQABgAIAAqLgoEYmVzdBUISW49GgZiZXR0ZXIaBGNvb2waBGdvb2QaA3RvcBoIYmVzdGF1dG8qUQoEYXV0bxXRc4U_GglhdXRvbWF0ZWQaCWF1dG9tYXRpYxoLYXV0b21vYmlsZXMaCmF1dG9tb3RpdmUaCGJlc3RhdXRvGgthdXRvY2FwdGlvbipUCgdjYXB0aW9uFbR7nEAaCmNhcHRpb25pbmcaCGNhcHRpb25zGghzdWJ0aXRsZRoJc3VidGl0bGVzGgthdXRvY2FwdGlvbhoMaXY7cDtjYXB0aW9uKiUKCWdlbmVyYXRvchXAOKVAGgdjcmVhdG9yGgpnZW5lcmF0b3JzKgoKA2ZvchUAAAAAKisKCWluc3RhZ3JhbRU8EaFAGgJpZxoFaW5zdGEaDmluc3RhZ3JhbXJlZWxzKhwKBXJlZWxzFe4IpkAaDmluc3RhZ3JhbXJlZWxzKgsKBHdpdGgVAAAAACobCgdkeW5hbWljFQAAAAAaC2R5bmFtaWNhbGx5KksKBWZvbnRzFQAAAAAaBGZvbnQaBHRleHQaCHR5cGVmYWNlGgl0eXBlZmFjZXMaCml2O3A7Zm9udHMaBHR5cGUaCnR5cG9ncmFwaHkyuAEvZ290bz91cmw9Q0FFU2ZnSEVJa1hYWGg5MXJTcHFLcEVnTWhBLTJYZ2NGdVcyT2dmQlJoNFlvcERRZ2d1VktrZVc3TUx5cVhKQ1dFemZlZk1VZjhNcWk5NU9ObEVKMUZFWjlrYjc4UXVvM3dIQlFDWGZoMGV3MVJhNndhTVl6eTJxM0s4UmFlZXVqWkgzWHRjYS1IaGZSQWdFX3FqWXFhVm5mUS1VV3ZhZXZ4OWh5TW1GYXZ6LWhBOkJGcmVlIDxiPkluc3RhZ3JhbSBSZWVscyBDYXB0aW9uIEdlbmVyYXRvcjwvYj4gLSBBZGQgTm93IHwgQ2hvcHBpdHlCpwE8Yj5HZW5lcmF0ZSBjYXB0aW9ucyBmb3IgSW5zdGFncmFtIFJlZWxzIGluc3RhbnRseSB3aXRoIG91ciBmcmVlIEFJIHRvb2w8L2I-LiBzeW5jaW5nIGNhcHRpb25zIHRvIG1hdGNoIHlvdXIgc3BlZWNoLiBmdWxsIGNvbnRyb2wgb3ZlciBzdHlsaW5nLCB0aW1pbmcsIGFuZCBmb3JtYXR0aW5nLkoDZm9ySgR3aXRoUgN0b3AiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrgBL2dvdG8_dXJsPUNBRVNmZ0hFSWtYWFhoOTFyU3BxS3BFZ01oQS0yWGdjRnVXMk9nZkJSaDRZb3BEUWdndVZLa2VXN01MeXFYSkNXRXpmZWZNVWY4TXFpOTVPTmxFSjFGRVo5a2I3OFF1bzN3SEJRQ1hmaDBldzFSYTZ3YU1ZenkycTNLOFJhZWV1alpIM1h0Y2EtSGhmUkFnRV9xallxYVZuZlEtVVd2YWV2eDloeU1tRmF2ei1oQRIEGgIIABq1BxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQI8HCAAQABgAIAAqLgoEYmVzdBUISW49GgZiZXR0ZXIaBGNvb2waBGdvb2QaA3RvcBoIYmVzdGF1dG8qUQoEYXV0bxXRc4U_GglhdXRvbWF0ZWQaCWF1dG9tYXRpYxoLYXV0b21vYmlsZXMaCmF1dG9tb3RpdmUaCGJlc3RhdXRvGgthdXRvY2FwdGlvbipUCgdjYXB0aW9uFbR7nEAaCmNhcHRpb25pbmcaCGNhcHRpb25zGghzdWJ0aXRsZRoJc3VidGl0bGVzGgthdXRvY2FwdGlvbhoMaXY7cDtjYXB0aW9uKiUKCWdlbmVyYXRvchXAOKVAGgdjcmVhdG9yGgpnZW5lcmF0b3JzKgoKA2ZvchUAAAAAKisKCWluc3RhZ3JhbRU8EaFAGgJpZxoFaW5zdGEaDmluc3RhZ3JhbXJlZWxzKhwKBXJlZWxzFe4IpkAaDmluc3RhZ3JhbXJlZWxzKgsKBHdpdGgVAAAAACobCgdkeW5hbWljFQAAAAAaC2R5bmFtaWNhbGx5KksKBWZvbnRzFQAAAAAaBGZvbnQaBHRleHQaCHR5cGVmYWNlGgl0eXBlZmFjZXMaCml2O3A7Zm9udHMaBHR5cGUaCnR5cG9ncmFwaHkyuAEvZ290bz91cmw9Q0FFU2ZnSEVJa1hYWGg5MXJTcHFLcEVnTWhBLTJYZ2NGdVcyT2dmQlJoNFlvcERRZ2d1VktrZVc3TUx5cVhKQ1dFemZlZk1VZjhNcWk5NU9ObEVKMUZFWjlrYjc4UXVvM3dIQlFDWGZoMGV3MVJhNndhTVl6eTJxM0s4UmFlZXVqWkgzWHRjYS1IaGZSQWdFX3FqWXFhVm5mUS1VV3ZhZXZ4OWh5TW1GYXZ6LWhBOkJGcmVlIDxiPkluc3RhZ3JhbSBSZWVscyBDYXB0aW9uIEdlbmVyYXRvcjwvYj4gLSBBZGQgTm93IHwgQ2hvcHBpdHlCpwE8Yj5HZW5lcmF0ZSBjYXB0aW9ucyBmb3IgSW5zdGFncmFtIFJlZWxzIGluc3RhbnRseSB3aXRoIG91ciBmcmVlIEFJIHRvb2w8L2I-LiBzeW5jaW5nIGNhcHRpb25zIHRvIG1hdGNoIHlvdXIgc3BlZWNoLiBmdWxsIGNvbnRyb2wgb3ZlciBzdHlsaW5nLCB0aW1pbmcsIGFuZCBmb3JtYXR0aW5nLkoDZm9ySgR3aXRoUgN0b3AiAhABSABYAGgA",
+        "source": "Choppity"
+      },
+      {
+        "position": 5,
+        "title": "Top 3 Best FREE AI Captions & Subtitles Generator",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXX-XSVQ4cyNnLYtC4FhPKv8cQvVz6v4BjfaH7W2YRDQpVBuh_rbyGHEn3SNwT7v7tIvnSeUh8sIGEuy9VC3qJUVDm52ROTR4ZiQshgAs5gCrOCS0FvlHkaDsTG5FWRCdlwBQAu&gsessionid=qrKtczkx8k5fHe-cWUEHT5HF8UnorbRtBYYzlrCicBIzuT7uAl4v0A",
+        "displayed_link": "17.5K+ views",
+        "date": "2 years ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f241412f43a8e66062b5/images/ETB9BEsPpW3v0Iqq9ZHZjisTvcd4syi9TON4ogrc_YM.webp",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "Top 3 Best FREE AI Captions & Subtitles Generator | 1 Click Auto Caption In Any Language",
+        "duration": "7:04",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "intro",
+            "link": "https://www.google.com/goto?url=CAESbAHEIkXXERJgqlX2nhSol19PqkW8haI0O1RnQE3EQlDL-Aw0l4deO3-LhLJECTbofz915dlK4_0lIYpDw7AZrfecdo6ohkz0HoSsDpxWPPWy33VQpKXihAPwtd3Eyva_YU-gEH6zGbYQ7BXX_A&gsessionid=qrKtczkx8k5fHe-cWUEHT5HF8UnorbRtBYYzlrCicBIzuT7uAl4v0A"
+          },
+          {
+            "time": "00:47",
+            "title": "Number 1",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXXHXTPG1xP5trscwixAaVXbjsOVY9L8VJKylSzMo1Nikcv6WES_Hv9CFHIKv9qCM6UOwe2MnBxmfW4cOGEyAS1QOf0NvpEHArUfUm-q7KmlFd8r3VVFhg1FVGU962tC9E6NlXfxMdm5gg&gsessionid=qrKtczkx8k5fHe-cWUEHT5HF8UnorbRtBYYzlrCicBIzuT7uAl4v0A"
+          },
+          {
+            "time": "03:45",
+            "title": "Number 2",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXX_BjjTK_dO7lFpD8g8bg6o0XmwuwX9rVTT_hP3_mNoZAB3pCGmzZxNnx5Qt7ktiWz87FeJngzsKjWFB1TS920Qwran6Pnr9dgsbgeImBDGfJ7l6WuPn1NJne13TgSlAs3M66T0v9Woq32&gsessionid=qrKtczkx8k5fHe-cWUEHT5HF8UnorbRtBYYzlrCicBIzuT7uAl4v0A"
+          },
+          {
+            "time": "05:12",
+            "title": "Number 3",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXOCqJdYGImGJsscdxB2DKyKIe8Tg2Vgb92p5nJPxnk2Qvw8GfBfZKeGy5HNz9vnuQBMZ60ailOuo-iyngCoJGnXaWUOeAPz9HLIbKpoLOS9i_docWiS3jlCKPK1U8Hw70fvo1jalAbJhP&gsessionid=qrKtczkx8k5fHe-cWUEHT5HF8UnorbRtBYYzlrCicBIzuT7uAl4v0A"
+          },
+          {
+            "time": "06:02",
+            "title": "outro",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXjH4x1nmGdYt0IDbZMQXllmkoZ4iZVu-EHy7dNZaFkytYo4wUagTbbyVq8v3TXyCZEcVyE52AZBVCV1ONOZpimdXo1dvUZem5cPHezw4aXOHqt_2lLLGyRDpDw-wYs52Ri7mCCuTHTeec&gsessionid=qrKtczkx8k5fHe-cWUEHT5HF8UnorbRtBYYzlrCicBIzuT7uAl4v0A"
+          }
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Top 3 Best FREE AI Captions & Subtitles Generator | 1 Click Auto Caption In Any Language",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWC1YU1ZRNGN5Tm5MWXRDNEZoUEt2OGNRdlZ6NnY0QmpmYUg3VzJZUkRRcFZCdWhfcmJ5R0hFbjNTTndUN3Y3dEl2blNlVWg4c0lHRXV5OVZDM3FKVVZEbTUyUk9UUjRaaVFzaGdBczVnQ3JPQ1MwRnZsSGthRHNURzVGV1JDZGx3QlFBdRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWC1YU1ZRNGN5Tm5MWXRDNEZoUEt2OGNRdlZ6NnY0QmpmYUg3VzJZUkRRcFZCdWhfcmJ5R0hFbjNTTndUN3Y3dEl2blNlVWg4c0lHRXV5OVZDM3FKVVZEbTUyUk9UUjRaaVFzaGdBczVnQ3JPQ1MwRnZsSGthRHNURzVGV1JDZGx3QlFBdRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "source": "YouTube \u00b7 Shafin Tech"
+      },
+      {
+        "position": 6,
+        "title": "Dynamic Subtitles - Animated Captions AI",
+        "link": "https://www.google.com/goto?url=CAEShwEBxCJF10bbfr9GbW21FGxOaPZ2c9htfELI7jR0NgTci7IodjBi73pqaM0QkituVjow7lSvn9I7kAtTCHY-a_c9la8TRvuVKw4vFsoZ8Mp6ctJAE6zne-B5bG1m48rI0OFPa2-3OZzlHOVUla5NkkN0BVjMufVPRXaMhXyFAKXNtz9uXMNhyok",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShwEBxCJF14M6OHUnMzWwTz1Lb2-rgxi6RvcsnumaIUcbiU9FRoUjTxlZBtVAv1-l88lFY4-7ltMIVlOZNYXolC5TqxHwaSJlaPJffmfGroiK9fysk2v7IQCx02UHdZixsmPImBNGDACODEr1v0U2z9TTstVKI4diURNOQkyMrDh-XtYbhZfzqFQ&ved=2ahUKEwijioqv25uYAxUUHzQIHUefGV8QFnoECBgQAQ&uoh=1",
+        "displayed_link": "https://www.veed.io \u203a ... \u203a Auto Subtitle Generator Online",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACF0lEQVR4AcVXNWwdQRD9lVP_3eMwMzPWYWZOyjBTGWZO2kDfhLkMm3qZuTMzjHfMcE93ss_ald7HgTeo21iXM0gIcSwej_9RqFCfKUqwTbatPh9lXwqdRwgxWCEVG4gcKeyzM3LgfKBJtGSC065AmnAkpuryVxcB5fs3EyjXSKA8xh90oheBG3kuPSfPF4t2GYEGWQbpX891gwlse2BBA8c-OoEEjn1yoP72B3YwgdEzJT1r9DfwpM6loWMldD5ktKTHtf4ZfNbk0ZjZMpgA4-QPHMWKsyYksPKcCfVOfvfLHiCwZA-u46VEXIZLSZj44t1GeAKGJehmAW7GcfN6p3LsHMlp9pW_VeSSacvwBBhbbuNm3HLH6iW_9S6W33yrUz40gRFTJD1tAOOU45KUnbL8-Wqmf8bYxqjpMoAAHCkbRjVrVWdNZ63GPcNjGbyIABZux1198FXnTB98jYku3Gb2nYA0BF3L9k_t_VKXLE-Q5Qq6X-LCzWeYYVcxwMZruLmW7jdp2QGcpQ1XcfOFJjBsguANiOoL--RpvUfDJ8n-E2Acfuug1QzJsQ7rRkJg3kbc5QhzNxjREeA5v5LuhnZ-JcPhBo6OAGP1JTM0AZYVImICliN53ulxNXb8qMqjAy9ttPcxAZ3Q_VBaqv-xnO9qOi8m7VezFE1Xs4Sul9MUPZfTzpPAKeG6DERjttn8pXCkJfK20wyWcxHqVWHJ7gAAAABJRU5ErkJggg.png",
+        "snippet": "Create dynamic captions with automatic word highlighting and text effects. Create viral-style captions where words pop as the presenter speaks.",
+        "snippet_highlighted_words": [
+          "Create dynamic captions with automatic word highlighting and text effects"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.6,
+              "reviews": 2139
+            },
+            "extensions": [
+              "4.6(2,139)",
+              "Free"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Create dynamic captions with automatic word highlighting and text effects. Create viral-style captions where words pop as the presenter speaks.",
+            "source_info_link": "https://www.google.com/goto?url=CAEShwEBxCJF10bbfr9GbW21FGxOaPZ2c9htfELI7jR0NgTci7IodjBi73pqaM0QkituVjow7lSvn9I7kAtTCHY-a_c9la8TRvuVKw4vFsoZ8Mp6ctJAE6zne-B5bG1m48rI0OFPa2-3OZzlHOVUla5NkkN0BVjMufVPRXaMhXyFAKXNtz9uXMNhyok",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACF0lEQVR4AcVXNWwdQRD9lVP_3eMwMzPWYWZOyjBTGWZO2kDfhLkMm3qZuTMzjHfMcE93ss_ald7HgTeo21iXM0gIcSwej_9RqFCfKUqwTbatPh9lXwqdRwgxWCEVG4gcKeyzM3LgfKBJtGSC065AmnAkpuryVxcB5fs3EyjXSKA8xh90oheBG3kuPSfPF4t2GYEGWQbpX891gwlse2BBA8c-OoEEjn1yoP72B3YwgdEzJT1r9DfwpM6loWMldD5ktKTHtf4ZfNbk0ZjZMpgA4-QPHMWKsyYksPKcCfVOfvfLHiCwZA-u46VEXIZLSZj44t1GeAKGJehmAW7GcfN6p3LsHMlp9pW_VeSSacvwBBhbbuNm3HLH6iW_9S6W33yrUz40gRFTJD1tAOOU45KUnbL8-Wqmf8bYxqjpMoAAHCkbRjVrVWdNZ63GPcNjGbyIABZux1198FXnTB98jYku3Gb2nYA0BF3L9k_t_VKXLE-Q5Qq6X-LCzWeYYVcxwMZruLmW7jdp2QGcpQ1XcfOFJjBsguANiOoL--RpvUfDJ8n-E2Acfuug1QzJsQ7rRkJg3kbc5QhzNxjREeA5v5LuhnZ-JcPhBo6OAGP1JTM0AZYVImICliN53ulxNXb8qMqjAy9ttPcxAZ3Q_VBaqv-xnO9qOi8m7VezFE1Xs4Sul9MUPZfTzpPAKeG6DERjttn8pXCkJfK20wyWcxHqVWHJ7gAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsUBL2dvdG8_dXJsPUNBRVNod0VCeENKRjEwYmJmcjlHYlcyMUZHeE9hUFoyYzlodGZFTEk3alIwTmdUY2k3SW9kakJpNzNwcWFNMFFraXR1VmpvdzdsU3ZuOUk3a0F0VENIWS1hX2M5bGE4VFJ2dVZLdzR2RnNvWjhNcDZjdEpBRTZ6bmUtQjViRzFtNDhySTBPRlBhMi0zT1p6bEhPVlVsYTVOa2tOMEJWak11ZlZQUlhhTWhYeUZBS1hOdHo5dVhNTmh5b2sSBBoCCAAarAcSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCGBwgAEAAYACAAKi4KBGJlc3QVHFIZPhoGYmV0dGVyGgRjb29sGgRnb29kGgN0b3AaCGJlc3RhdXRvKlEKBGF1dG8VGJwHQBoJYXV0b21hdGVkGglhdXRvbWF0aWMaC2F1dG9tb2JpbGVzGgphdXRvbW90aXZlGghiZXN0YXV0bxoLYXV0b2NhcHRpb24qVAoHY2FwdGlvbhUn5LE_GgpjYXB0aW9uaW5nGghjYXB0aW9ucxoIc3VidGl0bGUaCXN1YnRpdGxlcxoLYXV0b2NhcHRpb24aDGl2O3A7Y2FwdGlvbiolCglnZW5lcmF0b3IVcJ9gQBoHY3JlYXRvchoKZ2VuZXJhdG9ycyoKCgNmb3IVAAAAACorCglpbnN0YWdyYW0VOD3SPhoCaWcaBWluc3RhGg5pbnN0YWdyYW1yZWVscyocCgVyZWVscxUAAAAAGg5pbnN0YWdyYW1yZWVscyoLCgR3aXRoFQAAAAAqGwoHZHluYW1pYxWf3aBAGgtkeW5hbWljYWxseSpLCgVmb250cxUAAAAAGgRmb250GgR0ZXh0Ggh0eXBlZmFjZRoJdHlwZWZhY2VzGgppdjtwO2ZvbnRzGgR0eXBlGgp0eXBvZ3JhcGh5MsUBL2dvdG8_dXJsPUNBRVNod0VCeENKRjEwYmJmcjlHYlcyMUZHeE9hUFoyYzlodGZFTEk3alIwTmdUY2k3SW9kakJpNzNwcWFNMFFraXR1VmpvdzdsU3ZuOUk3a0F0VENIWS1hX2M5bGE4VFJ2dVZLdzR2RnNvWjhNcDZjdEpBRTZ6bmUtQjViRzFtNDhySTBPRlBhMi0zT1p6bEhPVlVsYTVOa2tOMEJWak11ZlZQUlhhTWhYeUZBS1hOdHo5dVhNTmh5b2s6PTxiPkR5bmFtaWMgU3VidGl0bGVzPC9iPiAtIEFuaW1hdGVkIDxiPkNhcHRpb25zPC9iPiBBSSAtIFZFRURClgE8Yj5DcmVhdGUgZHluYW1pYyBjYXB0aW9ucyB3aXRoIGF1dG9tYXRpYyB3b3JkIGhpZ2hsaWdodGluZyBhbmQgdGV4dCBlZmZlY3RzPC9iPi4gQ3JlYXRlIHZpcmFsLXN0eWxlIGNhcHRpb25zIHdoZXJlIHdvcmRzIHBvcCBhcyB0aGUgcHJlc2VudGVyIHNwZWFrcy5KBHdpdGhKA2ZvclIDdG9wIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsUBL2dvdG8_dXJsPUNBRVNod0VCeENKRjEwYmJmcjlHYlcyMUZHeE9hUFoyYzlodGZFTEk3alIwTmdUY2k3SW9kakJpNzNwcWFNMFFraXR1VmpvdzdsU3ZuOUk3a0F0VENIWS1hX2M5bGE4VFJ2dVZLdzR2RnNvWjhNcDZjdEpBRTZ6bmUtQjViRzFtNDhySTBPRlBhMi0zT1p6bEhPVlVsYTVOa2tOMEJWak11ZlZQUlhhTWhYeUZBS1hOdHo5dVhNTmh5b2sSBBoCCAAarAcSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCGBwgAEAAYACAAKi4KBGJlc3QVHFIZPhoGYmV0dGVyGgRjb29sGgRnb29kGgN0b3AaCGJlc3RhdXRvKlEKBGF1dG8VGJwHQBoJYXV0b21hdGVkGglhdXRvbWF0aWMaC2F1dG9tb2JpbGVzGgphdXRvbW90aXZlGghiZXN0YXV0bxoLYXV0b2NhcHRpb24qVAoHY2FwdGlvbhUn5LE_GgpjYXB0aW9uaW5nGghjYXB0aW9ucxoIc3VidGl0bGUaCXN1YnRpdGxlcxoLYXV0b2NhcHRpb24aDGl2O3A7Y2FwdGlvbiolCglnZW5lcmF0b3IVcJ9gQBoHY3JlYXRvchoKZ2VuZXJhdG9ycyoKCgNmb3IVAAAAACorCglpbnN0YWdyYW0VOD3SPhoCaWcaBWluc3RhGg5pbnN0YWdyYW1yZWVscyocCgVyZWVscxUAAAAAGg5pbnN0YWdyYW1yZWVscyoLCgR3aXRoFQAAAAAqGwoHZHluYW1pYxWf3aBAGgtkeW5hbWljYWxseSpLCgVmb250cxUAAAAAGgRmb250GgR0ZXh0Ggh0eXBlZmFjZRoJdHlwZWZhY2VzGgppdjtwO2ZvbnRzGgR0eXBlGgp0eXBvZ3JhcGh5MsUBL2dvdG8_dXJsPUNBRVNod0VCeENKRjEwYmJmcjlHYlcyMUZHeE9hUFoyYzlodGZFTEk3alIwTmdUY2k3SW9kakJpNzNwcWFNMFFraXR1VmpvdzdsU3ZuOUk3a0F0VENIWS1hX2M5bGE4VFJ2dVZLdzR2RnNvWjhNcDZjdEpBRTZ6bmUtQjViRzFtNDhySTBPRlBhMi0zT1p6bEhPVlVsYTVOa2tOMEJWak11ZlZQUlhhTWhYeUZBS1hOdHo5dVhNTmh5b2s6PTxiPkR5bmFtaWMgU3VidGl0bGVzPC9iPiAtIEFuaW1hdGVkIDxiPkNhcHRpb25zPC9iPiBBSSAtIFZFRURClgE8Yj5DcmVhdGUgZHluYW1pYyBjYXB0aW9ucyB3aXRoIGF1dG9tYXRpYyB3b3JkIGhpZ2hsaWdodGluZyBhbmQgdGV4dCBlZmZlY3RzPC9iPi4gQ3JlYXRlIHZpcmFsLXN0eWxlIGNhcHRpb25zIHdoZXJlIHdvcmRzIHBvcCBhcyB0aGUgcHJlc2VudGVyIHNwZWFrcy5KBHdpdGhKA2ZvclIDdG9wIgIQAUgAWABoAA",
+        "source": "VEED"
+      },
+      {
+        "position": 7,
+        "title": "AI Caption Generator with 50+ Animated Styles",
+        "link": "https://www.google.com/goto?url=CAESWAHEIkXXifqyC8p95TqYceUDufeDUUQHNXYasbUOr6qzcIQWj3dZ3NBZVele5R_nQ7ST0saweMXcOUy0P5adLY__37Hy1HEGRQonjhoQX9-_rfQA6tgI1QQ",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHEIkXXYD0Dm5YOATm0dxqTKORX9e4_NGFOecSzMcMCAbqPF_aHEg7AlUGO72_yJIc97fqOq-cICUKzgYrkuBMm-gFM6NaqabZgU9OCNhS3yNUUdfb_c3o&ved=2ahUKEwijioqv25uYAxUUHzQIHUefGV8QFnoECEoQAQ&uoh=1",
+        "displayed_link": "https://reap.video \u203a captions",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAABoUlEQVR4Ae2VA2wgQBREp9HZtm3btm0HZ9u2XQe1bTeobdu2Jqlt92ey3rfej-x6sDZoA0JjU1PPmRpBXvqombG7n3_dQIcpy5PIUODuXQCXbz5JSk6pFdQyLBRykoOU5AZrqmLAWPQcj65LgA3_xDXqCIoewHSM3okJJzHwrMDMW_qmTrWCMmT20csfnCbGnCMR026j37VVh755-4fXCkojYtuJD8Rh2kPMeQqG3W5cfy7Dja45NNfMLd37L32G4bdBLjXxIQbdEZU2rRU010ghl8RcNKfMkqpBxYV4pRiWt3FPv2vlcrkVY9a9qyqUqgCq8-3B7pEDqwn995NEhqVrA9WFFVbj52Lcnont48ZUZ_kf3-SqaHmqo5Hvhe62-2G4H1Jb8Ho2jnRAVQ-Kjx33buQqtyQrwi_p_brI0wi_gFwuJ8sdyL1SVYYe2Z8rZjMl72RfQsZVEin4HIb74w0cpnqX38PZpv2a-f12bvxzejZZBcqdKTehJs-U3XKnVlQsSTcQqdXXVwLHHaiD_5QnkCV8lkSGWRF-bY6vJUJzAD0zDiQ1htjPAAAAAElFTkSuQmCC.png",
+        "snippet": "Reels, YouTube Shorts, and every platform. Choose from 50+ animated caption presets, customize colors, fonts, and positioning, TikTok, Instagram, YouTube, ...",
+        "snippet_highlighted_words": [
+          "Choose from 50+ animated caption presets"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Reels, YouTube Shorts, and every platform. Choose from 50+ animated caption presets, customize colors, fonts, and positioning, TikTok, Instagram, YouTube, ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESWAHEIkXXifqyC8p95TqYceUDufeDUUQHNXYasbUOr6qzcIQWj3dZ3NBZVele5R_nQ7ST0saweMXcOUy0P5adLY__37Hy1HEGRQonjhoQX9-_rfQA6tgI1QQ",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAABoUlEQVR4Ae2VA2wgQBREp9HZtm3btm0HZ9u2XQe1bTeobdu2Jqlt92ey3rfej-x6sDZoA0JjU1PPmRpBXvqombG7n3_dQIcpy5PIUODuXQCXbz5JSk6pFdQyLBRykoOU5AZrqmLAWPQcj65LgA3_xDXqCIoewHSM3okJJzHwrMDMW_qmTrWCMmT20csfnCbGnCMR026j37VVh755-4fXCkojYtuJD8Rh2kPMeQqG3W5cfy7Dja45NNfMLd37L32G4bdBLjXxIQbdEZU2rRU010ghl8RcNKfMkqpBxYV4pRiWt3FPv2vlcrkVY9a9qyqUqgCq8-3B7pEDqwn995NEhqVrA9WFFVbj52Lcnont48ZUZ_kf3-SqaHmqo5Hvhe62-2G4H1Jb8Ho2jnRAVQ-Kjx33buQqtyQrwi_p_brI0wi_gFwuJ8sdyL1SVYYe2Z8rZjMl72RfQsZVEin4HIb74w0cpnqX38PZpv2a-f12bvxzejZZBcqdKTehJs-U3XKnVlQsSTcQqdXXVwLHHaiD_5QnkCV8lkSGWRF-bY6vJUJzAD0zDiQ1htjPAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoUBL2dvdG8_dXJsPUNBRVNXQUhFSWtYWGlmcXlDOHA5NVRxWWNlVUR1ZmVEVVVRSE5YWWFzYlVPcjZxemNJUVdqM2RaM05CWlZlbGU1Ul9uUTdTVDBzYXdlTVhjT1V5MFA1YWRMWV9fMzdIeTFIRUdSUW9uamhvUVg5LV9yZlFBNnRnSTFRURIEGgIIABr-BhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNgGCAAQABgAIAAqLgoEYmVzdBUAAAAAGgZiZXR0ZXIaBGNvb2waBGdvb2QaA3RvcBoIYmVzdGF1dG8qUQoEYXV0bxVgNOw_GglhdXRvbWF0ZWQaCWF1dG9tYXRpYxoLYXV0b21vYmlsZXMaCmF1dG9tb3RpdmUaCGJlc3RhdXRvGgthdXRvY2FwdGlvbipUCgdjYXB0aW9uFS9mrEAaCmNhcHRpb25pbmcaCGNhcHRpb25zGghzdWJ0aXRsZRoJc3VidGl0bGVzGgthdXRvY2FwdGlvbhoMaXY7cDtjYXB0aW9uKiUKCWdlbmVyYXRvchU9zmBAGgdjcmVhdG9yGgpnZW5lcmF0b3JzKgoKA2ZvchUAAAAAKisKCWluc3RhZ3JhbRUcD4E_GgJpZxoFaW5zdGEaDmluc3RhZ3JhbXJlZWxzKhwKBXJlZWxzFbym6D8aDmluc3RhZ3JhbXJlZWxzKgsKBHdpdGgVAAAAACobCgdkeW5hbWljFRIDjz4aC2R5bmFtaWNhbGx5KksKBWZvbnRzFTF49D4aBGZvbnQaBHRleHQaCHR5cGVmYWNlGgl0eXBlZmFjZXMaCml2O3A7Zm9udHMaBHR5cGUaCnR5cG9ncmFwaHkyhQEvZ290bz91cmw9Q0FFU1dBSEVJa1hYaWZxeUM4cDk1VHFZY2VVRHVmZURVVVFITlhZYXNiVU9yNnF6Y0lRV2ozZFozTkJaVmVsZTVSX25RN1NUMHNhd2VNWGNPVXkwUDVhZExZX18zN0h5MUhFR1JRb25qaG9RWDktX3JmUUE2dGdJMVFROjtBSSA8Yj5DYXB0aW9uIEdlbmVyYXRvcjwvYj4gd2l0aCA1MCsgQW5pbWF0ZWQgU3R5bGVzIC0gUmVhcEKqAVJlZWxzLCBZb3VUdWJlIFNob3J0cywgYW5kIGV2ZXJ5IHBsYXRmb3JtLiA8Yj5DaG9vc2UgZnJvbSA1MCsgYW5pbWF0ZWQgY2FwdGlvbiBwcmVzZXRzPC9iPiwgY3VzdG9taXplIGNvbG9ycywgZm9udHMsIGFuZCBwb3NpdGlvbmluZywgVGlrVG9rLCBJbnN0YWdyYW0sIFlvdVR1YmUsJm5ic3A7Li4uSgR3aXRoSgNmb3JSA3RvcCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoUBL2dvdG8_dXJsPUNBRVNXQUhFSWtYWGlmcXlDOHA5NVRxWWNlVUR1ZmVEVVVRSE5YWWFzYlVPcjZxemNJUVdqM2RaM05CWlZlbGU1Ul9uUTdTVDBzYXdlTVhjT1V5MFA1YWRMWV9fMzdIeTFIRUdSUW9uamhvUVg5LV9yZlFBNnRnSTFRURIEGgIIABr-BhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNgGCAAQABgAIAAqLgoEYmVzdBUAAAAAGgZiZXR0ZXIaBGNvb2waBGdvb2QaA3RvcBoIYmVzdGF1dG8qUQoEYXV0bxVgNOw_GglhdXRvbWF0ZWQaCWF1dG9tYXRpYxoLYXV0b21vYmlsZXMaCmF1dG9tb3RpdmUaCGJlc3RhdXRvGgthdXRvY2FwdGlvbipUCgdjYXB0aW9uFS9mrEAaCmNhcHRpb25pbmcaCGNhcHRpb25zGghzdWJ0aXRsZRoJc3VidGl0bGVzGgthdXRvY2FwdGlvbhoMaXY7cDtjYXB0aW9uKiUKCWdlbmVyYXRvchU9zmBAGgdjcmVhdG9yGgpnZW5lcmF0b3JzKgoKA2ZvchUAAAAAKisKCWluc3RhZ3JhbRUcD4E_GgJpZxoFaW5zdGEaDmluc3RhZ3JhbXJlZWxzKhwKBXJlZWxzFbym6D8aDmluc3RhZ3JhbXJlZWxzKgsKBHdpdGgVAAAAACobCgdkeW5hbWljFRIDjz4aC2R5bmFtaWNhbGx5KksKBWZvbnRzFTF49D4aBGZvbnQaBHRleHQaCHR5cGVmYWNlGgl0eXBlZmFjZXMaCml2O3A7Zm9udHMaBHR5cGUaCnR5cG9ncmFwaHkyhQEvZ290bz91cmw9Q0FFU1dBSEVJa1hYaWZxeUM4cDk1VHFZY2VVRHVmZURVVVFITlhZYXNiVU9yNnF6Y0lRV2ozZFozTkJaVmVsZTVSX25RN1NUMHNhd2VNWGNPVXkwUDVhZExZX18zN0h5MUhFR1JRb25qaG9RWDktX3JmUUE2dGdJMVFROjtBSSA8Yj5DYXB0aW9uIEdlbmVyYXRvcjwvYj4gd2l0aCA1MCsgQW5pbWF0ZWQgU3R5bGVzIC0gUmVhcEKqAVJlZWxzLCBZb3VUdWJlIFNob3J0cywgYW5kIGV2ZXJ5IHBsYXRmb3JtLiA8Yj5DaG9vc2UgZnJvbSA1MCsgYW5pbWF0ZWQgY2FwdGlvbiBwcmVzZXRzPC9iPiwgY3VzdG9taXplIGNvbG9ycywgZm9udHMsIGFuZCBwb3NpdGlvbmluZywgVGlrVG9rLCBJbnN0YWdyYW0sIFlvdVR1YmUsJm5ic3A7Li4uSgR3aXRoSgNmb3JSA3RvcCICEAFIAFgAaAA",
+        "source": "reap: AI Video Editor"
+      },
+      {
+        "position": 8,
+        "title": "Best Auto Caption Generators for Short-Form Video (2026)",
+        "link": "https://www.google.com/goto?url=CAEScQHEIkXXAKWUc9650lUhxrsjFoBktAWjlemIDEJ-hnZllU9KcXP4rmNnyBas29X9LnJJ1Ze4PWYR92V1X2ImNeihBcaeEboP4keUDgQpH7l6UiRtdAiEldwb67sYZsDjNhVvtLP9olVwCoOCLYolV5QJ",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHEIkXXcZqnlkEUsgDVsfnM1OP5E0pjqeyN9eFwV9HyNlTQYg0rDrXg0O9d1JMim96tgq3vrBus8moICOBtaLHEsC16ot-Krupxt8DkgaHrUQatB1Fl-2JPG6fOFJbyN3o27fBfwIyhthTBDOpvdyUz&ved=2ahUKEwijioqv25uYAxUUHzQIHUefGV8QFnoECEsQAQ&uoh=1",
+        "displayed_link": "https://recapo.ai \u203a Subtitles & Captions",
+        "favicon": "https://serpapi.com/searches/6b02f241412f43a8e66062b5/images/ETB9BEsPpW3v0Iqq9ZHZjnZ2tF5YERxujl84i6F1B3Q.png",
+        "date": "Jul 6, 2026",
+        "snippet": "The best auto caption generator for you depends on five things: accuracy on your specific audio, word-level timing, style control, ...",
+        "snippet_highlighted_words": [
+          "accuracy on your specific audio"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The best auto caption generator for you depends on five things: accuracy on your specific audio, word-level timing, style control, ...",
+            "source_info_link": "https://www.google.com/goto?url=CAEScQHEIkXXAKWUc9650lUhxrsjFoBktAWjlemIDEJ-hnZllU9KcXP4rmNnyBas29X9LnJJ1Ze4PWYR92V1X2ImNeihBcaeEboP4keUDgQpH7l6UiRtdAiEldwb67sYZsDjNhVvtLP9olVwCoOCLYolV5QJ",
+            "icon": "https://serpapi.com/searches/6b02f241412f43a8e66062b5/images/ETB9BEsPpW3v0Iqq9ZHZjjghFiwcMmx4qo-CCV2EQRok58QElm1D5g60mswuSagv.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqYBL2dvdG8_dXJsPUNBRVNjUUhFSWtYWEFLV1VjOTY1MGxVaHhyc2pGb0JrdEFXamxlbUlERUotaG5abGxVOUtjWFA0cm1ObnlCYXMyOVg5TG5KSjFaZTRQV1lSOTJWMVgySW1OZWloQmNhZUVib1A0a2VVRGdRcEg3bDZVaVJ0ZEFpRWxkd2I2N3NZWnNEak5oVnZ0TFA5b2xWd0NvT0NMWW9sVjVRShIEGgIIABqLBxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOUGCAAQABgAIAAqLgoEYmVzdBXwuaJAGgZiZXR0ZXIaBGNvb2waBGdvb2QaA3RvcBoIYmVzdGF1dG8qUQoEYXV0bxV8lLdAGglhdXRvbWF0ZWQaCWF1dG9tYXRpYxoLYXV0b21vYmlsZXMaCmF1dG9tb3RpdmUaCGJlc3RhdXRvGgthdXRvY2FwdGlvbipUCgdjYXB0aW9uFcBTz0AaCmNhcHRpb25pbmcaCGNhcHRpb25zGghzdWJ0aXRsZRoJc3VidGl0bGVzGgthdXRvY2FwdGlvbhoMaXY7cDtjYXB0aW9uKiUKCWdlbmVyYXRvchXCvRlAGgdjcmVhdG9yGgpnZW5lcmF0b3JzKgoKA2ZvchUAAAAAKisKCWluc3RhZ3JhbRVAMbY-GgJpZxoFaW5zdGEaDmluc3RhZ3JhbXJlZWxzKhwKBXJlZWxzFTbwgD8aDmluc3RhZ3JhbXJlZWxzKgsKBHdpdGgVAAAAACobCgdkeW5hbWljFQAAAAAaC2R5bmFtaWNhbGx5KksKBWZvbnRzFQAAAAAaBGZvbnQaBHRleHQaCHR5cGVmYWNlGgl0eXBlZmFjZXMaCml2O3A7Zm9udHMaBHR5cGUaCnR5cG9ncmFwaHkypgEvZ290bz91cmw9Q0FFU2NRSEVJa1hYQUtXVWM5NjUwbFVoeHJzakZvQmt0QVdqbGVtSURFSi1oblpsbFU5S2NYUDRybU5ueUJhczI5WDlMbkpKMVplNFBXWVI5MlYxWDJJbU5laWhCY2FlRWJvUDRrZVVEZ1FwSDdsNlVpUnRkQWlFbGR3YjY3c1lac0RqTmhWdnRMUDlvbFZ3Q29PQ0xZb2xWNVFKOj88Yj5CZXN0IEF1dG8gQ2FwdGlvbiBHZW5lcmF0b3JzPC9iPiBmb3IgU2hvcnQtRm9ybSBWaWRlbyAoMjAyNilCkgFUaGUgYmVzdCBhdXRvIGNhcHRpb24gZ2VuZXJhdG9yIGZvciB5b3UgZGVwZW5kcyBvbiBmaXZlIHRoaW5nczogPGI-YWNjdXJhY3kgb24geW91ciBzcGVjaWZpYyBhdWRpbzwvYj4sIHdvcmQtbGV2ZWwgdGltaW5nLCBzdHlsZSBjb250cm9sLCZuYnNwOy4uLkoDZm9ySgR3aXRoUgN0b3AiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqYBL2dvdG8_dXJsPUNBRVNjUUhFSWtYWEFLV1VjOTY1MGxVaHhyc2pGb0JrdEFXamxlbUlERUotaG5abGxVOUtjWFA0cm1ObnlCYXMyOVg5TG5KSjFaZTRQV1lSOTJWMVgySW1OZWloQmNhZUVib1A0a2VVRGdRcEg3bDZVaVJ0ZEFpRWxkd2I2N3NZWnNEak5oVnZ0TFA5b2xWd0NvT0NMWW9sVjVRShIEGgIIABqLBxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOUGCAAQABgAIAAqLgoEYmVzdBXwuaJAGgZiZXR0ZXIaBGNvb2waBGdvb2QaA3RvcBoIYmVzdGF1dG8qUQoEYXV0bxV8lLdAGglhdXRvbWF0ZWQaCWF1dG9tYXRpYxoLYXV0b21vYmlsZXMaCmF1dG9tb3RpdmUaCGJlc3RhdXRvGgthdXRvY2FwdGlvbipUCgdjYXB0aW9uFcBTz0AaCmNhcHRpb25pbmcaCGNhcHRpb25zGghzdWJ0aXRsZRoJc3VidGl0bGVzGgthdXRvY2FwdGlvbhoMaXY7cDtjYXB0aW9uKiUKCWdlbmVyYXRvchXCvRlAGgdjcmVhdG9yGgpnZW5lcmF0b3JzKgoKA2ZvchUAAAAAKisKCWluc3RhZ3JhbRVAMbY-GgJpZxoFaW5zdGEaDmluc3RhZ3JhbXJlZWxzKhwKBXJlZWxzFTbwgD8aDmluc3RhZ3JhbXJlZWxzKgsKBHdpdGgVAAAAACobCgdkeW5hbWljFQAAAAAaC2R5bmFtaWNhbGx5KksKBWZvbnRzFQAAAAAaBGZvbnQaBHRleHQaCHR5cGVmYWNlGgl0eXBlZmFjZXMaCml2O3A7Zm9udHMaBHR5cGUaCnR5cG9ncmFwaHkypgEvZ290bz91cmw9Q0FFU2NRSEVJa1hYQUtXVWM5NjUwbFVoeHJzakZvQmt0QVdqbGVtSURFSi1oblpsbFU5S2NYUDRybU5ueUJhczI5WDlMbkpKMVplNFBXWVI5MlYxWDJJbU5laWhCY2FlRWJvUDRrZVVEZ1FwSDdsNlVpUnRkQWlFbGR3YjY3c1lac0RqTmhWdnRMUDlvbFZ3Q29PQ0xZb2xWNVFKOj88Yj5CZXN0IEF1dG8gQ2FwdGlvbiBHZW5lcmF0b3JzPC9iPiBmb3IgU2hvcnQtRm9ybSBWaWRlbyAoMjAyNilCkgFUaGUgYmVzdCBhdXRvIGNhcHRpb24gZ2VuZXJhdG9yIGZvciB5b3UgZGVwZW5kcyBvbiBmaXZlIHRoaW5nczogPGI-YWNjdXJhY3kgb24geW91ciBzcGVjaWZpYyBhdWRpbzwvYj4sIHdvcmQtbGV2ZWwgdGltaW5nLCBzdHlsZSBjb250cm9sLCZuYnNwOy4uLkoDZm9ySgR3aXRoUgN0b3AiAhABSABYAGgA",
+        "source": "Recapo.ai",
+        "read_more_link": "https://www.google.com/goto?url=CAESxgEBxCJF1wAwiU8p9uCoiP3YEacPAGn__FmC251traQcvENKAZ-lcJkJcbV8_89_KIvOCfFiENYQqzXx84GSauik7-NGgQUNjxcs_OPlkqVoXFxDmVzaMxDBPehcDGpnnAMyvKt8Dc1QnbG9HSQFrYqVh38eFdeKmyT8qygWW8RHogsdBqPmKtvoGBL5FOfBKAZLR3ysjHGBNhSxmUXtRVQJCEufyIlX3RJPxvdG-3jYPsF83R1rRwut5iEcjYfPkNft4SqsT2A&gsessionid=qrKtczkx8k5fHe-cWUEHT5HF8UnorbRtBYYzlrCicBIzuT7uAl4v0A"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "Best auto caption generator for instagram reels with dynamic fonts free",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDg0AesfoDT8pcqomCgfBZOXM4EX6Q:1795355215836&q=Best+auto+caption+generator+for+instagram+reels+with+dynamic+fonts+free&sa=X&ved=2ahUKEwijioqv25uYAxUUHzQIHUefGV8Q1QJ6BAhDEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+auto+caption+generator+for+instagram+reels+with+dynamic+fonts+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Best auto caption generator for instagram reels with dynamic fonts download",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDg0AesfoDT8pcqomCgfBZOXM4EX6Q:1795355215836&q=Best+auto+caption+generator+for+instagram+reels+with+dynamic+fonts+download&sa=X&ved=2ahUKEwijioqv25uYAxUUHzQIHUefGV8Q1QJ6BAhJEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+auto+caption+generator+for+instagram+reels+with+dynamic+fonts+download"
+      },
+      {
+        "block_position": 1,
+        "query": "Caption generator from video",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDg0AesfoDT8pcqomCgfBZOXM4EX6Q:1795355215836&q=Caption+generator+from+video&sa=X&ved=2ahUKEwijioqv25uYAxUUHzQIHUefGV8Q1QJ6BAhIEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Caption+generator+from+video"
+      },
+      {
+        "block_position": 1,
+        "query": "Caption generator from photo",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDg0AesfoDT8pcqomCgfBZOXM4EX6Q:1795355215836&q=Caption+generator+from+photo&sa=X&ved=2ahUKEwijioqv25uYAxUUHzQIHUefGV8Q1QJ6BAhHEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Caption+generator+from+photo"
+      },
+      {
+        "block_position": 1,
+        "query": "Auto caption AI",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDg0AesfoDT8pcqomCgfBZOXM4EX6Q:1795355215836&q=Auto+caption+AI&sa=X&ved=2ahUKEwijioqv25uYAxUUHzQIHUefGV8Q1QJ6BAhCEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Auto+caption+AI"
+      },
+      {
+        "block_position": 1,
+        "query": "Text to caption generator",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDg0AesfoDT8pcqomCgfBZOXM4EX6Q:1795355215836&q=Text+to+caption+generator&sa=X&ved=2ahUKEwijioqv25uYAxUUHzQIHUefGV8Q1QJ6BAhGEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Text+to+caption+generator"
+      },
+      {
+        "block_position": 1,
+        "query": "Free AI caption generator",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDg0AesfoDT8pcqomCgfBZOXM4EX6Q:1795355215836&q=Free+AI+caption+generator&sa=X&ved=2ahUKEwijioqv25uYAxUUHzQIHUefGV8Q1QJ6BAhEEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Free+AI+caption+generator"
+      },
+      {
+        "block_position": 1,
+        "query": "Auto captions generator",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDg0AesfoDT8pcqomCgfBZOXM4EX6Q:1795355215836&q=Auto+captions+generator&sa=X&ved=2ahUKEwijioqv25uYAxUUHzQIHUefGV8Q1QJ6BAhFEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Auto+captions+generator"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=Best+auto+caption+generator+for+Instagram+Reels+with+dynamic+fonts&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDg0AesfoDT8pcqomCgfBZOXM4EX6Q:1795355215836&ei=T_ICa-OmMpS-0PEPx77m-AU&start=10&sa=N&sstk=AYl2yk9GQwCPpoASUIRIef7a698U34gTSDbNe-Tjc5KWLYURDVNtvhvpb4sgncg7okEUR7D2EniT4nCKlpnsltmBFQgKs37W2gCQAg&ved=2ahUKEwijioqv25uYAxUUHzQIHUefGV8Q8NMDegQIQBAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=Best+auto+caption+generator+for+Instagram+Reels+with+dynamic+fonts&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDg0AesfoDT8pcqomCgfBZOXM4EX6Q:1795355215836&ei=T_ICa-OmMpS-0PEPx77m-AU&start=10&sa=N&sstk=AYl2yk9GQwCPpoASUIRIef7a698U34gTSDbNe-Tjc5KWLYURDVNtvhvpb4sgncg7okEUR7D2EniT4nCKlpnsltmBFQgKs37W2gCQAg&ved=2ahUKEwijioqv25uYAxUUHzQIHUefGV8Q8tMDegQIQBAE",
+        "3": "https://www.google.com/search?q=Best+auto+caption+generator+for+Instagram+Reels+with+dynamic+fonts&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDg0AesfoDT8pcqomCgfBZOXM4EX6Q:1795355215836&ei=T_ICa-OmMpS-0PEPx77m-AU&start=20&sa=N&sstk=AYl2yk9GQwCPpoASUIRIef7a698U34gTSDbNe-Tjc5KWLYURDVNtvhvpb4sgncg7okEUR7D2EniT4nCKlpnsltmBFQgKs37W2gCQAg&ved=2ahUKEwijioqv25uYAxUUHzQIHUefGV8Q8tMDegQIQBAG",
+        "4": "https://www.google.com/search?q=Best+auto+caption+generator+for+Instagram+Reels+with+dynamic+fonts&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDg0AesfoDT8pcqomCgfBZOXM4EX6Q:1795355215836&ei=T_ICa-OmMpS-0PEPx77m-AU&start=30&sa=N&sstk=AYl2yk9GQwCPpoASUIRIef7a698U34gTSDbNe-Tjc5KWLYURDVNtvhvpb4sgncg7okEUR7D2EniT4nCKlpnsltmBFQgKs37W2gCQAg&ved=2ahUKEwijioqv25uYAxUUHzQIHUefGV8Q8tMDegQIQBAI",
+        "5": "https://www.google.com/search?q=Best+auto+caption+generator+for+Instagram+Reels+with+dynamic+fonts&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDg0AesfoDT8pcqomCgfBZOXM4EX6Q:1795355215836&ei=T_ICa-OmMpS-0PEPx77m-AU&start=40&sa=N&sstk=AYl2yk9GQwCPpoASUIRIef7a698U34gTSDbNe-Tjc5KWLYURDVNtvhvpb4sgncg7okEUR7D2EniT4nCKlpnsltmBFQgKs37W2gCQAg&ved=2ahUKEwijioqv25uYAxUUHzQIHUefGV8Q8tMDegQIQBAK",
+        "6": "https://www.google.com/search?q=Best+auto+caption+generator+for+Instagram+Reels+with+dynamic+fonts&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDg0AesfoDT8pcqomCgfBZOXM4EX6Q:1795355215836&ei=T_ICa-OmMpS-0PEPx77m-AU&start=50&sa=N&sstk=AYl2yk9GQwCPpoASUIRIef7a698U34gTSDbNe-Tjc5KWLYURDVNtvhvpb4sgncg7okEUR7D2EniT4nCKlpnsltmBFQgKs37W2gCQAg&ved=2ahUKEwijioqv25uYAxUUHzQIHUefGV8Q8tMDegQIQBAM",
+        "7": "https://www.google.com/search?q=Best+auto+caption+generator+for+Instagram+Reels+with+dynamic+fonts&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDg0AesfoDT8pcqomCgfBZOXM4EX6Q:1795355215836&ei=T_ICa-OmMpS-0PEPx77m-AU&start=60&sa=N&sstk=AYl2yk9GQwCPpoASUIRIef7a698U34gTSDbNe-Tjc5KWLYURDVNtvhvpb4sgncg7okEUR7D2EniT4nCKlpnsltmBFQgKs37W2gCQAg&ved=2ahUKEwijioqv25uYAxUUHzQIHUefGV8Q8tMDegQIQBAO",
+        "8": "https://www.google.com/search?q=Best+auto+caption+generator+for+Instagram+Reels+with+dynamic+fonts&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDg0AesfoDT8pcqomCgfBZOXM4EX6Q:1795355215836&ei=T_ICa-OmMpS-0PEPx77m-AU&start=70&sa=N&sstk=AYl2yk9GQwCPpoASUIRIef7a698U34gTSDbNe-Tjc5KWLYURDVNtvhvpb4sgncg7okEUR7D2EniT4nCKlpnsltmBFQgKs37W2gCQAg&ved=2ahUKEwijioqv25uYAxUUHzQIHUefGV8Q8tMDegQIQBAQ",
+        "9": "https://www.google.com/search?q=Best+auto+caption+generator+for+Instagram+Reels+with+dynamic+fonts&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDg0AesfoDT8pcqomCgfBZOXM4EX6Q:1795355215836&ei=T_ICa-OmMpS-0PEPx77m-AU&start=80&sa=N&sstk=AYl2yk9GQwCPpoASUIRIef7a698U34gTSDbNe-Tjc5KWLYURDVNtvhvpb4sgncg7okEUR7D2EniT4nCKlpnsltmBFQgKs37W2gCQAg&ved=2ahUKEwijioqv25uYAxUUHzQIHUefGV8Q8tMDegQIQBAS",
+        "10": "https://www.google.com/search?q=Best+auto+caption+generator+for+Instagram+Reels+with+dynamic+fonts&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDg0AesfoDT8pcqomCgfBZOXM4EX6Q:1795355215836&ei=T_ICa-OmMpS-0PEPx77m-AU&start=90&sa=N&sstk=AYl2yk9GQwCPpoASUIRIef7a698U34gTSDbNe-Tjc5KWLYURDVNtvhvpb4sgncg7okEUR7D2EniT4nCKlpnsltmBFQgKs37W2gCQAg&ved=2ahUKEwijioqv25uYAxUUHzQIHUefGV8Q8tMDegQIQBAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+auto+caption+generator+for+Instagram+Reels+with+dynamic+fonts&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+auto+caption+generator+for+Instagram+Reels+with+dynamic+fonts&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+auto+caption+generator+for+Instagram+Reels+with+dynamic+fonts&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+auto+caption+generator+for+Instagram+Reels+with+dynamic+fonts&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+auto+caption+generator+for+Instagram+Reels+with+dynamic+fonts&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+auto+caption+generator+for+Instagram+Reels+with+dynamic+fonts&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+auto+caption+generator+for+Instagram+Reels+with+dynamic+fonts&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+auto+caption+generator+for+Instagram+Reels+with+dynamic+fonts&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+auto+caption+generator+for+Instagram+Reels+with+dynamic+fonts&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+auto+caption+generator+for+Instagram+Reels+with+dynamic+fonts&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+auto+caption+generator+for+Instagram+Reels+with+dynamic+fonts&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

@@ -1,0 +1,561 @@
+{
+  "measurement_id": "be73cf49123d",
+  "question_id": "Q021",
+  "timestamp_utc": "2026-11-22T13:46:59.588141+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "How do creators produce 3 shorts a day without hiring editors?",
+  "market": "US",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [
+    "Riverside"
+  ],
+  "position": null,
+  "citations": [
+    "https://www.reddit.com/r/SmallYoutubers/comments/1l7g7tr/how_can_youtubers_upload_each_3_days_long_well/",
+    "https://www.youtube.com/watch?v=5_X_Q79B5R4",
+    "https://www.google.com/goto?url=CAESmQEBxCJF12OUiLwF_IgrQBsnGWq6rvgHLRtdiQFAtXN1ZaKJiEs-QtoCWH3N_VjugcpK6EO5KO1ePDxesoUtHFm5ciOy4mdbv6QCWpr5tDQu7DNvo0Rdb24UscvlTQdLjc0vT8gppgGva60KZ9gBj5hKL-xQctkGZFHZVW5FKbU6gBznfiY-lf3IusF86WJ-XCdomWI_Y0LmMY8",
+    "https://www.google.com/goto?url=CAESbgHEIkXXSITQMoFEjgANT2RDrcOQxW5F6VTPFGFq35eoDkiROqsAue2rEKe3rUbo3ylVGf3fiKrOI6KLlr1BaJ1lG9EIf1TsSo447kH-rHHo6NwR-GeSdXy8rpDAPdLoK-eo7coErhSRnHK6qJL2&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w",
+    "https://support.google.com/youtube/answer/10059070?hl=en",
+    "https://www.google.com/goto?url=CAESaAHEIkXXNW5TYqcjw4MHucCc1ZbCRXIQj8av_O94n5Rhebu0gV_yIqq13qZRrFEtWU5QymJATboEbgonWXnFH-1QUvxlM1aORw50yuU7V9B0-qTa5kE9eqc052rkMuZb0B6Hcxlp3CJn&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w",
+    "https://www.google.com/goto?url=CAEScAHEIkXXEcG8H4BXfODJzkTtW4aYRLfqiTZGAIWNvDhzVBtNhd9R5HrgV72y0c3gNr3wUPgQXBAMRE6seJxMZiz03npLGNWw38MbS4V32oOxmkvTyqMN9MIADihy6j5RsC43I0z6Nu1lSxesKOyR9s8"
+  ],
+  "raw_text_summary": "How can youtubers upload each 3 days long well edited ... I would understand that she may be outsourcing, but i notice for small youtubers as well that do crime stories, they upload alot in such short time Any ... how many yt shorts should you post per day? how many yt shorts should you post per day? How to beat the NEW Shorts Jail \u2026 how many youtube shorts should you post per day? (full guide) I want to start YouTube shorts. Should I post 2-3 times a ... I want to start YouTube shorts. Should I post 2-3 times a week or daily? How To Make YouTube Shorts - The Complete Guide! Here's everything you need to know, including how to create YouTube Shorts, the ideal YouTube Shorts length and some great YouTube Shorts ideas. Get started creating YouTube Shorts YouTube's Shorts creation tools makes it easy to create short-form videos that are up to 3 minutes long with our multi-segment camera. Changes to Shorts views ... I Posted Shorts Every Day for 3 Months - Here's What Happened This video also shows how I use Riverside's AI features (like Magic Clips and text-based editing) to cut down my short-form workflow from two ... How Many YouTube Shorts Per Day? We Analyzed Top ... Dedicate 2 hours per week to creating 5-7 Shorts in one session, then schedule them across the week using YouTube Studio. AI video tools can ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02f25194c42ba7a0231ea2",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/JvbaMqxCaD6uRGZytQ0RiZJffVksa0rPsdOvGjfJ2kk/6b02f25194c42ba7a0231ea2.json",
+      "markdown_endpoint": "https://serpapi.com/searches/JvbaMqxCaD6uRGZytQ0RiZJffVksa0rPsdOvGjfJ2kk/6b02f25194c42ba7a0231ea2.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/JvbaMqxCaD6uRGZytQ0RiZJffVksa0rPsdOvGjfJ2kk/6b02f25194c42ba7a0231ea2.json_with_pixel_position",
+      "created_at": "2026-11-22 13:46:57 UTC",
+      "processed_at": "2026-11-22 13:46:57 UTC",
+      "google_url": "https://www.google.com/search?q=How+do+creators+produce+3+shorts+a+day+without+hiring+editors%3F&oq=How+do+creators+produce+3+shorts+a+day+without+hiring+editors%3F&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/JvbaMqxCaD6uRGZytQ0RiZJffVksa0rPsdOvGjfJ2kk/6b02f25194c42ba7a0231ea2.html",
+      "total_time_taken": 1.0
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "How do creators produce 3 shorts a day without hiring editors?",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "How do creators produce 3 shorts a day without hiring editors?",
+      "total_results": 145,
+      "time_taken_displayed": 0.23,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "My AI Video Editing Workflow: How I Make 4 Shorts Without ...",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXzNIus3XBaW4oXiaaIYChKG8BdHi-xD0PzhepuHPJyRr6ZLMqsvqrtoPONEYBCWb8xeFH4EuZ8cirghQLGcHo7QGYoFzaot1kR4OXIDCEtlxW_gv9J-0Ep2e5IzDNspUOggHH&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w",
+        "thumbnail": "https://serpapi.com/searches/6b02f25194c42ba7a0231ea2/images/oqb32ExktcVVpDN9ON5nruOBdlaJPRYLh9x_gU0xAcg.jpg",
+        "channel": "Patricia Kelikani",
+        "duration": "8:34",
+        "platform": "YouTube",
+        "date": "Aug 6, 2026",
+        "snippet": "Learn to use AI tools like Descript, Claude, and Captions.ai to create four shorts from one video without manual editing.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRWFnLCUufWYntMrBZ7qt1TN-WH49dB_bkPCw"
+      },
+      {
+        "position": 2,
+        "title": "Posting 3 Shorts a Day (The Experiment)",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXUz05NN6uLSPa_5VQl5mhIL_A3XHi8WwNKurZW_Gv7ReYaZ-s-l20tZdR4Glr9Qb-MeltPmV5e4K6u8P3Z3O8uYy44-WxHIx5CheLZhjDnau40NBKYS8x69YmGvPyZxXJRolR&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w",
+        "thumbnail": "https://serpapi.com/searches/6b02f25194c42ba7a0231ea2/images/f_66bvz3evDvOofotgnPWfENz-S4PhiFoSsJlTaEN_c.jpg",
+        "channel": "Will Thompson",
+        "duration": "5:29",
+        "platform": "YouTube",
+        "date": "Jan 6, 2026",
+        "snippet": "Posting three YouTube Shorts daily can boost views and subscribers, offering a new strategy for channel growth in 2026."
+      },
+      {
+        "position": 3,
+        "title": "how i post 10+ shorts a day without editing any of them (step by ...",
+        "link": "https://www.google.com/goto?url=CAESbgHEIkXXx0T8wTL977hM1RxHmwv5n56To8B995RAasaIPoRlV1e2Qxq1IDlPCxzuffuV8m0pEeOqKWDBYOKa_F7pctksUV6cThDySUeISkjtL2chfjA5HPJbauLjIjLKHlrhuGO1mYE8t2nfVUj_&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w",
+        "thumbnail": "https://serpapi.com/searches/6b02f25194c42ba7a0231ea2/images/7FW6chct6K8rjFdQcjb007v_OuZJ3CGzIs3kgEgZjXg.jpg",
+        "channel": "moneyboymax",
+        "duration": "16:08",
+        "platform": "YouTube",
+        "date": "Jul 28, 2026",
+        "snippet": "Outsource YouTube Shorts editing by creating SOPs. Only outsource once monetized and focus on managing the vision, not busy work."
+      },
+      {
+        "position": 4,
+        "title": "Copy This System To Make 30 Shorts In 1 Day With AI",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXUSn1vthBLKQjMjfRz4b3oi26TAe3rKQkkHZCmvTIjc3ln-Rh0ELRyRLcgTXBoKdrYN13ud_RHON1KGjnnaLlNoMUMNQWtO2daglvU-tjSR2ztdZ7jTRrxVnX2wfozmrI3fWp&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w",
+        "thumbnail": "https://serpapi.com/searches/6b02f25194c42ba7a0231ea2/images/kgZC6VWKyUwl-qzTgJNyNJLc9TPRYISLabeI43411MA.jpg",
+        "channel": "Collin Michael",
+        "duration": "10:18",
+        "platform": "YouTube",
+        "date": "Dec 17, 2025",
+        "snippet": "Create 30+ YouTube Shorts in one day using AI by answering FAQs, filming with Riverside, and using its AI editor."
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "How many views on YouTube Shorts do you need to make $2000 a month?",
+        "type": "ai_overview",
+        "page_token": "JgKL7XicHdFNctowAEDhaQ-TZcAW0IYZplNAInhqOxKSZWuTkSWDgmTsBk38s8xZuuoiR8kBeoyeoJlu3_J7r7_c08X--fRmvG-vy8mk67rbU9OcXHWrmnoir8NFTZR0rpTKLhdfFsG3o1rBpttsrt0aMwILpx0_r1PFcI8D_VCxCNNcbMhoFhydRgaSn3p6dyxAtqUXQhJoUGazkIJoKFGERY2CIozCbGvalM0jycWogFgzKHbV5Xug4PxwAPt5ktuh3PnLISdYIYPxtAjKMwJ5SO7l1IgiTB5EIGZxaBrqshfNeiZrMgrKwngabBjbg5TuR-nQtuCt0Wfd_sjRjFC0Zbz3yiVCTKNC1P7KdpnBVg0fLSaujRSwntu-O6Cklg76FApcQV_wcwII9E6ck06z2QCNzrR124JmrWQk1lx3GiEs6-Se8TtS9s0TZiaNIQPE4aCkHwZ1C2Vm53FtOLUZ0QHZU_vV63DuML45qpcVuPn_YfV4rP2yfW5Ov9VzJX2lH6V_t5__4n98lJ4J",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=JgKL7XicHdFNctowAEDhaQ-TZcAW0IYZplNAInhqOxKSZWuTkSWDgmTsBk38s8xZuuoiR8kBeoyeoJlu3_J7r7_c08X--fRmvG-vy8mk67rbU9OcXHWrmnoir8NFTZR0rpTKLhdfFsG3o1rBpttsrt0aMwILpx0_r1PFcI8D_VCxCNNcbMhoFhydRgaSn3p6dyxAtqUXQhJoUGazkIJoKFGERY2CIozCbGvalM0jycWogFgzKHbV5Xug4PxwAPt5ktuh3PnLISdYIYPxtAjKMwJ5SO7l1IgiTB5EIGZxaBrqshfNeiZrMgrKwngabBjbg5TuR-nQtuCt0Wfd_sjRjFC0Zbz3yiVCTKNC1P7KdpnBVg0fLSaujRSwntu-O6Cklg76FApcQV_wcwII9E6ck06z2QCNzrR124JmrWQk1lx3GiEs6-Se8TtS9s0TZiaNIQPE4aCkHwZ1C2Vm53FtOLUZ0QHZU_vV63DuML45qpcVuPn_YfV4rP2yfW5Ov9VzJX2lH6V_t5__4n98lJ4J",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGJXdHRRa1JaTFd4MFZIUnllalpRVlV4TU9FTlZXSEp0ZFZWemJFTjJVVmgwTUVsbGVsVnlZbkV6TUZaRlRERktXSEp4Yms5cmVXVnFjbVZFYkdWeGQwZEZWSEJLVEhKSFVFVmhSbkpTWld4S2NIQmlXV2N3YXpoSlVSSVhWWFpKUTJFMWFXbEVUSFZuY0hSUlVHcGpSMUZ2VVc4YUlrRklUakJGTjBneFdrSXpRbXhCUXpSclRFeHRVVUV6ZEhabWJqYzRhRkpJVkVFIiwiZmN2IjoiMyIsImVpIjoiVXZJQ2E1aWlETHVncHRRUGpjR1FvUW8iLCJxYyI6IkNqMW9iM2NnWkc4Z1kzSmxZWFJ2Y25NZ2NISnZaSFZqWlNBeklITm9iM0owY3lCaElHUmhlU0IzYVhSb2IzVjBJR2hwY21sdVp5QmxaR2wwYjNKekVBQjlqTmY2UGciLCJxdWVzdGlvbiI6IkhvdyBtYW55IHZpZXdzIG9uIFlvdVR1YmUgU2hvcnRzIGRvIHlvdSBuZWVkIHRvIG1ha2UgJDIwMDAgYSBtb250aD8iLCJsayI6ImN4WEt3UW1BTUF3RjBEMDhfWU1EQkVkd2swb0RFV2stbU5UUzdkWHI0eTI3Y2FBVm4zaE9IUUU2Sm52MlF4SEdPd09WdjhCVks1TGZ2UlRySmlJb2FQUzBGdyIsImJzIjoiYzQyUVRXc0NNUmlFOFpxVDU2M0NISVRXazJtOHJJV3lvRDNvdVVyeG1EWXZKbFR6aWttNjdHX29uMjQ4RkQ4V3dmUE1QTXlNLU8ySTJaeHI3TFJ2OE9Pb0RtQ1BOYWRsLWlTOFd6N0VBTU5vT01FVEdVVE8zbV9DUUVrcG9iRmpIMjJsM29xcGJXRnlLQjR4NFU2TWVCVzltZlpZSU8yM3JBM0dfdzAwakc0cTFTOGV2ckx1VG5vNDA4VktQSDFZSGVFQ29pV1VjcVFrRG1sTGNENjNNc1FnNDZMem0wb05pOGY2d290YlhsR0x5ZFZGZWNuaWFzZnpjVWZydWtxOUZLVnRoZDJOOE9WaDNjNGYiLCJpZCI6ImZjX1V2SUNhNWlpREx1Z3B0UVBqY0dRb1FvXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGJXdHRRa1JaTFd4MFZIUnllalpRVlV4TU9FTlZXSEp0ZFZWemJFTjJVVmgwTUVsbGVsVnlZbkV6TUZaRlRERktXSEp4Yms5cmVXVnFjbVZFYkdWeGQwZEZWSEJLVEhKSFVFVmhSbkpTWld4S2NIQmlXV2N3YXpoSlVSSVhWWFpKUTJFMWFXbEVUSFZuY0hSUlVHcGpSMUZ2VVc4YUlrRklUakJGTjBneFdrSXpRbXhCUXpSclRFeHRVVUV6ZEhabWJqYzRhRkpJVkVFIiwiZmN2IjoiMyIsImVpIjoiVXZJQ2E1aWlETHVncHRRUGpjR1FvUW8iLCJxYyI6IkNqMW9iM2NnWkc4Z1kzSmxZWFJ2Y25NZ2NISnZaSFZqWlNBeklITm9iM0owY3lCaElHUmhlU0IzYVhSb2IzVjBJR2hwY21sdVp5QmxaR2wwYjNKekVBQjlqTmY2UGciLCJxdWVzdGlvbiI6IkhvdyBtYW55IHZpZXdzIG9uIFlvdVR1YmUgU2hvcnRzIGRvIHlvdSBuZWVkIHRvIG1ha2UgJDIwMDAgYSBtb250aD8iLCJsayI6ImN4WEt3UW1BTUF3RjBEMDhfWU1EQkVkd2swb0RFV2stbU5UUzdkWHI0eTI3Y2FBVm4zaE9IUUU2Sm52MlF4SEdPd09WdjhCVks1TGZ2UlRySmlJb2FQUzBGdyIsImJzIjoiYzQyUVRXc0NNUmlFOFpxVDU2M0NISVRXazJtOHJJV3lvRDNvdVVyeG1EWXZKbFR6aWttNjdHX29uMjQ4RkQ4V3dmUE1QTXlNLU8ySTJaeHI3TFJ2OE9Pb0RtQ1BOYWRsLWlTOFd6N0VBTU5vT01FVEdVVE8zbV9DUUVrcG9iRmpIMjJsM29xcGJXRnlLQjR4NFU2TWVCVzltZlpZSU8yM3JBM0dfdzAwakc0cTFTOGV2ckx1VG5vNDA4VktQSDFZSGVFQ29pV1VjcVFrRG1sTGNENjNNc1FnNDZMem0wb05pOGY2d290YlhsR0x5ZFZGZWNuaWFzZnpjVWZydWtxOUZLVnRoZDJOOE9WaDNjNGYiLCJpZCI6ImZjX1V2SUNhNWlpREx1Z3B0UVBqY0dRb1FvXzUifQ%3D%3D"
+      },
+      {
+        "question": "Can I upload 3 Shorts a day?",
+        "type": "ai_overview",
+        "page_token": "ZbVPAHicHdBdTsIwAADg6GF8hP0ARhJiMlkn09WsW1voC9m6waDtOqGh1UfP4pOH8QAewxOY-B3h-_iUh178XK07Y4bzfDy21o72Wu9lO-JajavzW8_HvJKyrriYz25n_v2OL-KzjR60jXKM4o1s5KZktBXkqU2Y4wQ80yNUhYo94ksI_TjgyWDLvrmwEtiaZEGRpEPjTUNO0hhhqOswojVIE4aRxwlz2RGgF7L3sqM0FMC0FQ7BoHvKhQNsKS1Wdzv2yE4V6UxGWcl71GEKCY-d4mRYvlD3WgijYdlMaI_WSPBwg7t36KcALqVs8KoAPgkKDDtI5YBi57Mw8jCJXjdeg2ofXJJDGhXxxKKyWbVqqp8x0oh2IVWZy1U-weFQZgE2ReBWXJDwZscvi_Dmf2yx3SkzH056_8VPbWXaZluZb3H9m_8B-d6AsA",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ZbVPAHicHdBdTsIwAADg6GF8hP0ARhJiMlkn09WsW1voC9m6waDtOqGh1UfP4pOH8QAewxOY-B3h-_iUh178XK07Y4bzfDy21o72Wu9lO-JajavzW8_HvJKyrriYz25n_v2OL-KzjR60jXKM4o1s5KZktBXkqU2Y4wQ80yNUhYo94ksI_TjgyWDLvrmwEtiaZEGRpEPjTUNO0hhhqOswojVIE4aRxwlz2RGgF7L3sqM0FMC0FQ7BoHvKhQNsKS1Wdzv2yE4V6UxGWcl71GEKCY-d4mRYvlD3WgijYdlMaI_WSPBwg7t36KcALqVs8KoAPgkKDDtI5YBi57Mw8jCJXjdeg2ofXJJDGhXxxKKyWbVqqp8x0oh2IVWZy1U-weFQZgE2ReBWXJDwZscvi_Dmf2yx3SkzH056_8VPbWXaZluZb3H9m_8B-d6AsA",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGJXdHRRa1JaTFd4MFZIUnllalpRVlV4TU9FTlZXSEp0ZFZWemJFTjJVVmgwTUVsbGVsVnlZbkV6TUZaRlRERktXSEp4Yms5cmVXVnFjbVZFYkdWeGQwZEZWSEJLVEhKSFVFVmhSbkpTWld4S2NIQmlXV2N3YXpoSlVSSVhWWFpKUTJFMWFXbEVUSFZuY0hSUlVHcGpSMUZ2VVc4YUlrRklUakJGTjBneFdrSXpRbXhCUXpSclRFeHRVVUV6ZEhabWJqYzRhRkpJVkVFIiwiZmN2IjoiMyIsImVpIjoiVXZJQ2E1aWlETHVncHRRUGpjR1FvUW8iLCJxYyI6IkNqMW9iM2NnWkc4Z1kzSmxZWFJ2Y25NZ2NISnZaSFZqWlNBeklITm9iM0owY3lCaElHUmhlU0IzYVhSb2IzVjBJR2hwY21sdVp5QmxaR2wwYjNKekVBQjlqTmY2UGciLCJxdWVzdGlvbiI6IkNhbiBJIHVwbG9hZCAzIFNob3J0cyBhIGRheT8iLCJsayI6IkdodGpZVzRnYVNCMWNHeHZZV1FnTXlCemFHOXlkSE1nWVNCa1lYayIsImJzIjoiYzQyUVRXc0NNUmlFOFpxVDU2M0NISVRXazJtOHJJV3lvRDNvdVVyeG1EWXZKbFR6aWttNjdHX29uMjQ4RkQ4V3dmUE1QTXlNLU8ySTJaeHI3TFJ2OE9Pb0RtQ1BOYWRsLWlTOFd6N0VBTU5vT01FVEdVVE8zbV9DUUVrcG9iRmpIMjJsM29xcGJXRnlLQjR4NFU2TWVCVzltZlpZSU8yM3JBM0dfdzAwakc0cTFTOGV2ckx1VG5vNDA4VktQSDFZSGVFQ29pV1VjcVFrRG1sTGNENjNNc1FnNDZMem0wb05pOGY2d290YlhsR0x5ZFZGZWNuaWFzZnpjVWZydWtxOUZLVnRoZDJOOE9WaDNjNGYiLCJpZCI6ImZjX1V2SUNhNWlpREx1Z3B0UVBqY0dRb1FvXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGJXdHRRa1JaTFd4MFZIUnllalpRVlV4TU9FTlZXSEp0ZFZWemJFTjJVVmgwTUVsbGVsVnlZbkV6TUZaRlRERktXSEp4Yms5cmVXVnFjbVZFYkdWeGQwZEZWSEJLVEhKSFVFVmhSbkpTWld4S2NIQmlXV2N3YXpoSlVSSVhWWFpKUTJFMWFXbEVUSFZuY0hSUlVHcGpSMUZ2VVc4YUlrRklUakJGTjBneFdrSXpRbXhCUXpSclRFeHRVVUV6ZEhabWJqYzRhRkpJVkVFIiwiZmN2IjoiMyIsImVpIjoiVXZJQ2E1aWlETHVncHRRUGpjR1FvUW8iLCJxYyI6IkNqMW9iM2NnWkc4Z1kzSmxZWFJ2Y25NZ2NISnZaSFZqWlNBeklITm9iM0owY3lCaElHUmhlU0IzYVhSb2IzVjBJR2hwY21sdVp5QmxaR2wwYjNKekVBQjlqTmY2UGciLCJxdWVzdGlvbiI6IkNhbiBJIHVwbG9hZCAzIFNob3J0cyBhIGRheT8iLCJsayI6IkdodGpZVzRnYVNCMWNHeHZZV1FnTXlCemFHOXlkSE1nWVNCa1lYayIsImJzIjoiYzQyUVRXc0NNUmlFOFpxVDU2M0NISVRXazJtOHJJV3lvRDNvdVVyeG1EWXZKbFR6aWttNjdHX29uMjQ4RkQ4V3dmUE1QTXlNLU8ySTJaeHI3TFJ2OE9Pb0RtQ1BOYWRsLWlTOFd6N0VBTU5vT01FVEdVVE8zbV9DUUVrcG9iRmpIMjJsM29xcGJXRnlLQjR4NFU2TWVCVzltZlpZSU8yM3JBM0dfdzAwakc0cTFTOGV2ckx1VG5vNDA4VktQSDFZSGVFQ29pV1VjcVFrRG1sTGNENjNNc1FnNDZMem0wb05pOGY2d290YlhsR0x5ZFZGZWNuaWFzZnpjVWZydWtxOUZLVnRoZDJOOE9WaDNjNGYiLCJpZCI6ImZjX1V2SUNhNWlpREx1Z3B0UVBqY0dRb1FvXzUifQ%3D%3D"
+      },
+      {
+        "question": "What is the 80/20 rule in video editing?",
+        "type": "ai_overview",
+        "page_token": "DdH4tnicHdBLTuMwGABgDYdhSfMoRVSqkDKNpwWSYtevZIMcO61J_jSe4jYtyznLrDgMB-AYnIDR7L_V9-cvvOzazx9H6717nY5GwzBcbft-C_WV7ruRej3v9EgrgErpdjq5mYR3Gz1LD8vk5-9lghlJCzBQyKRggiAZEa_BHekc8aKzC9yUe8FtU7bBWFB7rsUpqjhp1sJOZIhKGaNMxe5pTe1OyD420TWvO0gIgoKm8KAazleUnHiwjGQAj__sQb5ZXAbDuJa5y8Q1FzRhq9S4FS9x1hmgzI9ZaEQlLM4F2IqFNk_5oKPCq8g-mDhnJeKsFPhcNMTJ4PZs5tZXgWOY508KWZJaw00L84JypxjJjDCDQQirLl8wcUuqU_-CmV1lKYtJl68VmDUH0mCaOBx4lnMUlw0sdJiEOLj_hfHlRh9n8eX_z9nzpvNTt--373pfK1-bZ-U_2osv_A10aIry",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=DdH4tnicHdBLTuMwGABgDYdhSfMoRVSqkDKNpwWSYtevZIMcO61J_jSe4jYtyznLrDgMB-AYnIDR7L_V9-cvvOzazx9H6717nY5GwzBcbft-C_WV7ruRej3v9EgrgErpdjq5mYR3Gz1LD8vk5-9lghlJCzBQyKRggiAZEa_BHekc8aKzC9yUe8FtU7bBWFB7rsUpqjhp1sJOZIhKGaNMxe5pTe1OyD420TWvO0gIgoKm8KAazleUnHiwjGQAj__sQb5ZXAbDuJa5y8Q1FzRhq9S4FS9x1hmgzI9ZaEQlLM4F2IqFNk_5oKPCq8g-mDhnJeKsFPhcNMTJ4PZs5tZXgWOY508KWZJaw00L84JypxjJjDCDQQirLl8wcUuqU_-CmV1lKYtJl68VmDUH0mCaOBx4lnMUlw0sdJiEOLj_hfHlRh9n8eX_z9nzpvNTt--373pfK1-bZ-U_2osv_A10aIry",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGJXdHRRa1JaTFd4MFZIUnllalpRVlV4TU9FTlZXSEp0ZFZWemJFTjJVVmgwTUVsbGVsVnlZbkV6TUZaRlRERktXSEp4Yms5cmVXVnFjbVZFYkdWeGQwZEZWSEJLVEhKSFVFVmhSbkpTWld4S2NIQmlXV2N3YXpoSlVSSVhWWFpKUTJFMWFXbEVUSFZuY0hSUlVHcGpSMUZ2VVc4YUlrRklUakJGTjBneFdrSXpRbXhCUXpSclRFeHRVVUV6ZEhabWJqYzRhRkpJVkVFIiwiZmN2IjoiMyIsImVpIjoiVXZJQ2E1aWlETHVncHRRUGpjR1FvUW8iLCJxYyI6IkNqMW9iM2NnWkc4Z1kzSmxZWFJ2Y25NZ2NISnZaSFZqWlNBeklITm9iM0owY3lCaElHUmhlU0IzYVhSb2IzVjBJR2hwY21sdVp5QmxaR2wwYjNKekVBQjlqTmY2UGciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDgwLzIwIHJ1bGUgaW4gdmlkZW8gZWRpdGluZz8iLCJsayI6IkdpZDNhR0YwSUdseklIUm9aU0E0TUNBeU1DQnlkV3hsSUdsdUlIWnBaR1Z2SUdWa2FYUnBibWMiLCJicyI6ImM0MlFUV3NDTVJpRThacVQ1NjNDSElUV2sybThySVd5b0Qzb3VVcnhtRFl2SmxUemlrbTY3R19vbjI0OEZEOFd3ZlBNUE15TS1PMkkyWnhyN0xSdjhPT29EbUNQTmFkbC1pUzhXejdFQU1Ob09NRVRHVVRPM21fQ1FFa3BvYkZqSDIybDNvcXBiV0Z5S0I0eDRVNk1lQlc5bWZaWUlPMjNyQTNHX3cwMGpHNHExUzhldnJMdVRubzQwOFZLUEgxWUhlRUNvaVdVY3FRa0RtbExjRDYzTXNRZzQ2THptMG9OaThmNndvdGJYbEdMeWRWRmVjbmlhc2Z6Y1VmcnVrcTlGS1Z0aGQyTjhPVmgzYzRmIiwiaWQiOiJmY19VdklDYTVpaURMdWdwdFFQamNHUW9Rb181In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGJXdHRRa1JaTFd4MFZIUnllalpRVlV4TU9FTlZXSEp0ZFZWemJFTjJVVmgwTUVsbGVsVnlZbkV6TUZaRlRERktXSEp4Yms5cmVXVnFjbVZFYkdWeGQwZEZWSEJLVEhKSFVFVmhSbkpTWld4S2NIQmlXV2N3YXpoSlVSSVhWWFpKUTJFMWFXbEVUSFZuY0hSUlVHcGpSMUZ2VVc4YUlrRklUakJGTjBneFdrSXpRbXhCUXpSclRFeHRVVUV6ZEhabWJqYzRhRkpJVkVFIiwiZmN2IjoiMyIsImVpIjoiVXZJQ2E1aWlETHVncHRRUGpjR1FvUW8iLCJxYyI6IkNqMW9iM2NnWkc4Z1kzSmxZWFJ2Y25NZ2NISnZaSFZqWlNBeklITm9iM0owY3lCaElHUmhlU0IzYVhSb2IzVjBJR2hwY21sdVp5QmxaR2wwYjNKekVBQjlqTmY2UGciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDgwLzIwIHJ1bGUgaW4gdmlkZW8gZWRpdGluZz8iLCJsayI6IkdpZDNhR0YwSUdseklIUm9aU0E0TUNBeU1DQnlkV3hsSUdsdUlIWnBaR1Z2SUdWa2FYUnBibWMiLCJicyI6ImM0MlFUV3NDTVJpRThacVQ1NjNDSElUV2sybThySVd5b0Qzb3VVcnhtRFl2SmxUemlrbTY3R19vbjI0OEZEOFd3ZlBNUE15TS1PMkkyWnhyN0xSdjhPT29EbUNQTmFkbC1pUzhXejdFQU1Ob09NRVRHVVRPM21fQ1FFa3BvYkZqSDIybDNvcXBiV0Z5S0I0eDRVNk1lQlc5bWZaWUlPMjNyQTNHX3cwMGpHNHExUzhldnJMdVRubzQwOFZLUEgxWUhlRUNvaVdVY3FRa0RtbExjRDYzTXNRZzQ2THptMG9OaThmNndvdGJYbEdMeWRWRmVjbmlhc2Z6Y1VmcnVrcTlGS1Z0aGQyTjhPVmgzYzRmIiwiaWQiOiJmY19VdklDYTVpaURMdWdwdFFQamNHUW9Rb181In0%3D"
+      },
+      {
+        "question": "How many views do I need to make $1000 on YouTube Shorts?",
+        "type": "ai_overview",
+        "page_token": "QlqdhnicHdBRbpswAABQbYfpZwMmZkqkqBItDkXCqT1sg38qY5OQYAeaskD53BF2hn31MDvAjrETTO0Nnt7P3_Z4bv9--dUMQ_-6XizGcbw9dN3B1re6cwv1-nbWC62srZRu1-G30L_b60181dH9RUeE0bi0xgoBewymrGayq2x0VMBPTJBSiQwQrt9h3jDsjYAA_FKjNKWITsbDOTmnGUu0z4FlPMEQn7jdiSalnAVK8LRGDRW8Vyxvl7KFZX6ygZyjAZ8sKz3K6tYsZVFC5WBYeZPVcT8Lh1KOIqiK_onOiMlYLpW_SoyLPZ7bkDgeMo9PxRw9Er-c2JY_8UA-kpO9Grd6kSCGObBbup3SStAJgyHPEJtVcYB5gaK4Mdy09qHMP2A0M8KMBiGiHE6YWNFq6o6ENbssZgEFw_a7j2luOWeuwVSMbyqGAUPRj7KVMPOkIORmr6-b4ObzevO8d8O6v3SHd32p1VCbZzX8ab_-I_8BO_aSiw",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=QlqdhnicHdBRbpswAABQbYfpZwMmZkqkqBItDkXCqT1sg38qY5OQYAeaskD53BF2hn31MDvAjrETTO0Nnt7P3_Z4bv9--dUMQ_-6XizGcbw9dN3B1re6cwv1-nbWC62srZRu1-G30L_b60181dH9RUeE0bi0xgoBewymrGayq2x0VMBPTJBSiQwQrt9h3jDsjYAA_FKjNKWITsbDOTmnGUu0z4FlPMEQn7jdiSalnAVK8LRGDRW8Vyxvl7KFZX6ygZyjAZ8sKz3K6tYsZVFC5WBYeZPVcT8Lh1KOIqiK_onOiMlYLpW_SoyLPZ7bkDgeMo9PxRw9Er-c2JY_8UA-kpO9Grd6kSCGObBbup3SStAJgyHPEJtVcYB5gaK4Mdy09qHMP2A0M8KMBiGiHE6YWNFq6o6ENbssZgEFw_a7j2luOWeuwVSMbyqGAUPRj7KVMPOkIORmr6-b4ObzevO8d8O6v3SHd32p1VCbZzX8ab_-I_8BO_aSiw",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGJXdHRRa1JaTFd4MFZIUnllalpRVlV4TU9FTlZXSEp0ZFZWemJFTjJVVmgwTUVsbGVsVnlZbkV6TUZaRlRERktXSEp4Yms5cmVXVnFjbVZFYkdWeGQwZEZWSEJLVEhKSFVFVmhSbkpTWld4S2NIQmlXV2N3YXpoSlVSSVhWWFpKUTJFMWFXbEVUSFZuY0hSUlVHcGpSMUZ2VVc4YUlrRklUakJGTjBneFdrSXpRbXhCUXpSclRFeHRVVUV6ZEhabWJqYzRhRkpJVkVFIiwiZmN2IjoiMyIsImVpIjoiVXZJQ2E1aWlETHVncHRRUGpjR1FvUW8iLCJxYyI6IkNqMW9iM2NnWkc4Z1kzSmxZWFJ2Y25NZ2NISnZaSFZqWlNBeklITm9iM0owY3lCaElHUmhlU0IzYVhSb2IzVjBJR2hwY21sdVp5QmxaR2wwYjNKekVBQjlqTmY2UGciLCJxdWVzdGlvbiI6IkhvdyBtYW55IHZpZXdzIGRvIEkgbmVlZCB0byBtYWtlICQxMDAwIG9uIFlvdVR1YmUgU2hvcnRzPyIsImxrIjoiR2pob2IzY2diV0Z1ZVNCMmFXVjNjeUJrYnlCcElHNWxaV1FnZEc4Z2JXRnJaU0FrTVRBd01DQnZiaUI1YjNWMGRXSmxJSE5vYjNKMGN3IiwiYnMiOiJjNDJRVFdzQ01SaUU4WnFUNTYzQ0hJVFdrMm04cklXeW9EM291VXJ4bURZdkpsVHppa202N0dfb24yNDhGRDhXd2ZQTVBNeU0tTzJJMlp4cjdMUnY4T09vRG1DUE5hZGwtaVM4V3o3RUFNTm9PTUVUR1VUTzNtX0NRRWtwb2JGakgyMmwzb3FwYldGeUtCNHg0VTZNZUJXOW1mWllJTzIzckEzR193MDBqRzRxMVM4ZXZyTHVUbm80MDhWS1BIMVlIZUVDb2lXVWNxUWtEbWxMY0Q2M01zUWc0Nkx6bTBvTmk4ZjZ3b3RiWGxHTHlkVkZlY25pYXNmemNVZnJ1a3E5RktWdGhkMk44T1ZoM2M0ZiIsImlkIjoiZmNfVXZJQ2E1aWlETHVncHRRUGpjR1FvUW9fNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaGJXdHRRa1JaTFd4MFZIUnllalpRVlV4TU9FTlZXSEp0ZFZWemJFTjJVVmgwTUVsbGVsVnlZbkV6TUZaRlRERktXSEp4Yms5cmVXVnFjbVZFYkdWeGQwZEZWSEJLVEhKSFVFVmhSbkpTWld4S2NIQmlXV2N3YXpoSlVSSVhWWFpKUTJFMWFXbEVUSFZuY0hSUlVHcGpSMUZ2VVc4YUlrRklUakJGTjBneFdrSXpRbXhCUXpSclRFeHRVVUV6ZEhabWJqYzRhRkpJVkVFIiwiZmN2IjoiMyIsImVpIjoiVXZJQ2E1aWlETHVncHRRUGpjR1FvUW8iLCJxYyI6IkNqMW9iM2NnWkc4Z1kzSmxZWFJ2Y25NZ2NISnZaSFZqWlNBeklITm9iM0owY3lCaElHUmhlU0IzYVhSb2IzVjBJR2hwY21sdVp5QmxaR2wwYjNKekVBQjlqTmY2UGciLCJxdWVzdGlvbiI6IkhvdyBtYW55IHZpZXdzIGRvIEkgbmVlZCB0byBtYWtlICQxMDAwIG9uIFlvdVR1YmUgU2hvcnRzPyIsImxrIjoiR2pob2IzY2diV0Z1ZVNCMmFXVjNjeUJrYnlCcElHNWxaV1FnZEc4Z2JXRnJaU0FrTVRBd01DQnZiaUI1YjNWMGRXSmxJSE5vYjNKMGN3IiwiYnMiOiJjNDJRVFdzQ01SaUU4WnFUNTYzQ0hJVFdrMm04cklXeW9EM291VXJ4bURZdkpsVHppa202N0dfb24yNDhGRDhXd2ZQTVBNeU0tTzJJMlp4cjdMUnY4T09vRG1DUE5hZGwtaVM4V3o3RUFNTm9PTUVUR1VUTzNtX0NRRWtwb2JGakgyMmwzb3FwYldGeUtCNHg0VTZNZUJXOW1mWllJTzIzckEzR193MDBqRzRxMVM4ZXZyTHVUbm80MDhWS1BIMVlIZUVDb2lXVWNxUWtEbWxMY0Q2M01zUWc0Nkx6bTBvTmk4ZjZ3b3RiWGxHTHlkVkZlY25pYXNmemNVZnJ1a3E5RktWdGhkMk44T1ZoM2M0ZiIsImlkIjoiZmNfVXZJQ2E1aWlETHVncHRRUGpjR1FvUW9fNSJ9"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "cTDMNXiczVbdcuo2EJ7pdV-jviEB8xcgM56MZAQxEEDhcAi98RjbyL8ILINDL_ssverDnAc4j9EnqGxMYhNIcjqdaXfGrL3aP6320_L7H569cr___GSF4ZrdlkpRFBUJpcQzizr1Sxrbr_TSknos0K07RreBbkq6FVDfLNKFcBDYRioSLE8yVwLxpC0T9jupKuhMEgXTlqY7Rdbqtt0ebMk6xGNH72KKqZD4l9SFxkyHh392WEkt8R_3l2qbfxRZ0VwVFXOzWHUq4OsaFCtipVoclTSfK4D_lhAECuHcBYC8pwfxZz1ii3sF8qk9OvCM_AHEMRUgK4eVS_EnsdPYUoZJxvwZgaUzdrv8bXjUmiof5CXncpqlaR2Ye5ruJyg1jXeQE7xHZ4qY1KX_-i2frp2jbn4FztugHWXcv9lOJsDBdBr_RKBTGz8AjPHFSEfirvtzIHrggz45ZjRt9SYht4Ilg_AuF0uLgLNyydYtPXkJWNz88peWSLuDUdepqBBvtO0I77oADUNzHCE0qIGSvuB6HtUM01AtVbxLvsuVSqVZbTUqVwnqdPYCO5aFXUCZGK6aD9ehWBwUYfmIufxuT4uFFQWcayYCybEUeXpx8Jitc1KGE003F7mTcgtAirnb3CLuo0FWicOlzevVJFZG6dVCfgdzJ5R0LE0dTFMRyHcbngM0ORcnptFZt_E-kqj5YN30RYHHvonSlbeYewQKTsqbljh3OUJ-Q0BeYBzfFH1uHsok0VVqcX7HE8MIKQgg8mqWIRmd2Q6QM5lwOxRrRYAg4G4VJCt2KgZJEEIOkSAmL26SGPJb1CX0wOUd6-zSpwh95mI5ZHEE2Qlmcli72bCG6271Z383qQZrtQ5616C7dEYtcB5b1F_8wEzT__foO048L237i-iLI30Kfdh6D33nJt4BfbJ7AX2TA_rOT7zxUetk4r1FnwzsDPrSifec1uLfQB_8GH3Z48qi7_WocuhDl9DXRXn0zR10nHjn0ZcGeEXfP5148McnXgJC88Dy42_rkItjsIN7886sMmPYx62GusPjYNXzxsqcoejDMbj0w1tfM7wr1TZuYaUX7o0rlQvorWkIG-meRgWDFvTA1EIasMI6oMZWNwvVArNoELKCVjC0fSGyQ4tuw4JlB_aKFEzDjrXvBN8LqCRqtSc2hD34gAaDaFa9Hz7eNBrXvvtlKw7xoLpQnOHyZoh6M7YMA5Va3nTqbve-s0H3k_o-bIoD1sd7cdF0FvVg2Bw0HFJTg8lkGEHy9Xpv7Czt14nT8ctzvS5Xie3ukOPZ5c0MPjtac1-RST94WrAkGyb1bVGdj3-LViAS_ECX-PnXCBji-K-dBmAEeknDwscN5wPeJQsKAb6fA9wm_KH8qASma6rJdpJ-U6_qdVHUNW3ZWJpLwSfhfi21RIGtAqn8Z1I3Xnkt_Ob-9Bf-G-YpiHI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=cTDMNXiczVbdcuo2EJ7pdV-jviEB8xcgM56MZAQxEEDhcAi98RjbyL8ILINDL_ssverDnAc4j9EnqGxMYhNIcjqdaXfGrL3aP6320_L7H569cr___GSF4ZrdlkpRFBUJpcQzizr1Sxrbr_TSknos0K07RreBbkq6FVDfLNKFcBDYRioSLE8yVwLxpC0T9jupKuhMEgXTlqY7Rdbqtt0ebMk6xGNH72KKqZD4l9SFxkyHh392WEkt8R_3l2qbfxRZ0VwVFXOzWHUq4OsaFCtipVoclTSfK4D_lhAECuHcBYC8pwfxZz1ii3sF8qk9OvCM_AHEMRUgK4eVS_EnsdPYUoZJxvwZgaUzdrv8bXjUmiof5CXncpqlaR2Ye5ruJyg1jXeQE7xHZ4qY1KX_-i2frp2jbn4FztugHWXcv9lOJsDBdBr_RKBTGz8AjPHFSEfirvtzIHrggz45ZjRt9SYht4Ilg_AuF0uLgLNyydYtPXkJWNz88peWSLuDUdepqBBvtO0I77oADUNzHCE0qIGSvuB6HtUM01AtVbxLvsuVSqVZbTUqVwnqdPYCO5aFXUCZGK6aD9ehWBwUYfmIufxuT4uFFQWcayYCybEUeXpx8Jitc1KGE003F7mTcgtAirnb3CLuo0FWicOlzevVJFZG6dVCfgdzJ5R0LE0dTFMRyHcbngM0ORcnptFZt_E-kqj5YN30RYHHvonSlbeYewQKTsqbljh3OUJ-Q0BeYBzfFH1uHsok0VVqcX7HE8MIKQgg8mqWIRmd2Q6QM5lwOxRrRYAg4G4VJCt2KgZJEEIOkSAmL26SGPJb1CX0wOUd6-zSpwh95mI5ZHEE2Qlmcli72bCG6271Z383qQZrtQ5616C7dEYtcB5b1F_8wEzT__foO048L237i-iLI30Kfdh6D33nJt4BfbJ7AX2TA_rOT7zxUetk4r1FnwzsDPrSifec1uLfQB_8GH3Z48qi7_WocuhDl9DXRXn0zR10nHjn0ZcGeEXfP5148McnXgJC88Dy42_rkItjsIN7886sMmPYx62GusPjYNXzxsqcoejDMbj0w1tfM7wr1TZuYaUX7o0rlQvorWkIG-meRgWDFvTA1EIasMI6oMZWNwvVArNoELKCVjC0fSGyQ4tuw4JlB_aKFEzDjrXvBN8LqCRqtSc2hD34gAaDaFa9Hz7eNBrXvvtlKw7xoLpQnOHyZoh6M7YMA5Va3nTqbve-s0H3k_o-bIoD1sd7cdF0FvVg2Bw0HFJTg8lkGEHy9Xpv7Czt14nT8ctzvS5Xie3ukOPZ5c0MPjtac1-RST94WrAkGyb1bVGdj3-LViAS_ECX-PnXCBji-K-dBmAEeknDwscN5wPeJQsKAb6fA9wm_KH8qASma6rJdpJ-U6_qdVHUNW3ZWJpLwSfhfi21RIGtAqn8Z1I3Xnkt_Ob-9Bf-G-YpiHI"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "How can youtubers upload each 3 days long well edited ...",
+        "link": "https://www.reddit.com/r/SmallYoutubers/comments/1l7g7tr/how_can_youtubers_upload_each_3_days_long_well/",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpQEBxCJF16rwZcBKucbzmCbXOplY3A7PcoqrmDOMyGqsZxtcp6qqyLYaOGS_yLsEqcr93B2PmbJq5wfRiTjRhcGrqDLygCcp-pKYgcX0AYVL1hjs6ydb4x8AsrnC0lYMNJ3hWZokOhSJcOFbINFH86-n_TG1l5a86aKJmAC-Ib-JmECntjTIH12P6pVkI4j_kS9-u8F8cZaZtdTVfBm3wtMMhvxEmtY&ved=2ahUKEwiYk5uw25uYAxU7kIkEHY0gJKQQFnoECCwQAQ&uoh=1",
+        "displayed_link": "60+ comments",
+        "date": "1 year ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+        "snippet": "I would understand that she may be outsourcing, but i notice for small youtubers as well that do crime stories, they upload alot in such short time Any ...",
+        "sitelinks": {
+          "list": [
+            {
+              "title": "Where and how many YouTube shorts to post? : r ...",
+              "link": "https://www.google.com/goto?url=CAESmgEBxCJF16ddKWRpQvvUO98yGaA5yGNpdOVLJyTsbK_ebWrwEDFcKPSPSX-d6pzlrLRumkUNphKHorLep7k7fGv0xGr58SSE6nT8WNfHsF2fpM5gkO4XfkHrxjuESAoEQQMmQc1gvY3DRMnG71kr212lLacP8kjgVgLBjryuxL-mWiiEr1tZOcrvwl20fJJ3pSAOfASwsTdsnOU1&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w",
+              "answer_count": 144,
+              "date": "Aug 11, 2021"
+            },
+            {
+              "title": "How do people make so many videos every day ...",
+              "link": "https://www.google.com/goto?url=CAESnAEBxCJF18ppZp2csgXbbuyB2Z8w6l853Gsp6NFhrdTOyollSiy7BtOROHHYQpKn12cEPcIVAAVh7Cl_4rxqntp59JKIl5AW27o8ld5MCkKawZ1V3ehQFzBXleo3Y96KG2vONDKefmSuRxVv_zyP5BZ5T-cFosotziX4Kq14hw6KGRDHIIS5cz7588HxECDSlh4YSkFXGogOqK2Xhz8&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w",
+              "answer_count": 14,
+              "date": "Sep 21, 2018"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "They don't. Youtubers who upload that frequently at that high quality have full teams or full-time editors, or both.",
+            "source_info_link": "https://www.reddit.com/r/SmallYoutubers/comments/1l7g7tr/how_can_youtubers_upload_each_3_days_long_well/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cu0BL2dvdG8_dXJsPUNBRVNwUUVCeENKRjF4c05rS0dFeExoUnk5NEIzTndkOVJPeXNacjRNeFdPNmlqdEh0NXNESURqNjRQZ0FTTTRZQ0RQVi1DbTVabEk1MFRKX0JJQzRqYUlOaWNMSmFkMTcxc3JCUnJURVZ6MWRKLWZ4c1NWcVVQdTR0X0lZQ1EtWnN5cmsyRWRwUHZXVEpPeGpKOHFzYS1mREc5UWJWTWJuQkppaUhfRWhPZkU0aWNabU0xbVpzS1o2b2RtVE0yYzZvSndkS0ZLVE5UYU4xOWdoeVpHb2gzVi13Q1hPMEtZaU1REgQaAggAGsIHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJ4HCAAQABgAIAAqCgoDaG93FUh9WEAqDwoCZG8VfwfMPxoEZG9lcyotCghjcmVhdG9ycxVOoC0_GgdjcmVhdG9yGghmb3VuZGVycxoJcHJvZHVjZXJzKm4KB3Byb2R1Y2UV_zqLPhoFY2F1c2UaBmNyZWF0ZRoIZ2VuZXJhdGUaBG1ha2UaC21hbnVmYWN0dXJlGghwcm9kdWNlZBoIcHJvZHVjZXMaCXByb2R1Y2luZxoHcHJvZHVjdBoKcHJvZHVjdGlvbioaCgEzFVcESEAaBDMuMDAaAzNyZBoFdGhyZWUqFAoGc2hvcnRzFT-2LD8aBXNob3J0KggKAWEVAAAAACoKCgNkYXkVV3abPyoXCgd3aXRob3V0FSUGxj8aAm5vGgNub3QqaQoGaGlyaW5nFbog9D0aB2NhcmVlcnMaCmVtcGxveW1lbnQaBGhpcmUaBWhpcmVkGgVoaXJlcxoDam9iGgRqb2JzGghvcGVuaW5ncxoKcmVjcnVpdGluZxoHdmFjYW5jeRoHZWRpdGluZypNCgdlZGl0b3JzFYVKdz8aB2VkaXRpbmcaBmVkaXRvchoJZWRpdG9yaWFsGgpwdWJsaXNoZXJzGgd3cml0ZXJzGgxpdjtwO2VkaXRvcnMy7QEvZ290bz91cmw9Q0FFU3BRRUJ4Q0pGMXhzTmtLR0V4TGhSeTk0QjNOd2Q5Uk95c1pyNE14V082aWp0SHQ1c0RJRGo2NFBnQVNNNFlDRFBWLUNtNVpsSTUwVEpfQklDNGphSU5pY0xKYWQxNzFzckJSclRFVnoxZEotZnhzU1ZxVVB1NHRfSVlDUS1ac3lyazJFZHBQdldUSk94ako4cXNhLWZERzlRYlZNYm5CSmlpSF9FaE9mRTRpY1ptTTFtWnNLWjZvZG1UTTJjNm9Kd2RLRktUTlRhTjE5Z2h5WkdvaDNWLXdDWE8wS1lpTVE6QEhvdyBjYW4geW91dHViZXJzIHVwbG9hZCBlYWNoIDxiPjM8L2I-IGRheXMgbG9uZyB3ZWxsIGVkaXRlZCAuLi5CfzxiPlRoZXkgZG9uJiMzOTt0PC9iPi4gWW91dHViZXJzIHdobyB1cGxvYWQgdGhhdCBmcmVxdWVudGx5IGF0IHRoYXQgaGlnaCBxdWFsaXR5IGhhdmUgZnVsbCB0ZWFtcyBvciBmdWxsLXRpbWUgZWRpdG9ycywgb3IgYm90aC5KAWFSA25vdFICbm8iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cu0BL2dvdG8_dXJsPUNBRVNwUUVCeENKRjF4c05rS0dFeExoUnk5NEIzTndkOVJPeXNacjRNeFdPNmlqdEh0NXNESURqNjRQZ0FTTTRZQ0RQVi1DbTVabEk1MFRKX0JJQzRqYUlOaWNMSmFkMTcxc3JCUnJURVZ6MWRKLWZ4c1NWcVVQdTR0X0lZQ1EtWnN5cmsyRWRwUHZXVEpPeGpKOHFzYS1mREc5UWJWTWJuQkppaUhfRWhPZkU0aWNabU0xbVpzS1o2b2RtVE0yYzZvSndkS0ZLVE5UYU4xOWdoeVpHb2gzVi13Q1hPMEtZaU1REgQaAggAGsIHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJ4HCAAQABgAIAAqCgoDaG93FUh9WEAqDwoCZG8VfwfMPxoEZG9lcyotCghjcmVhdG9ycxVOoC0_GgdjcmVhdG9yGghmb3VuZGVycxoJcHJvZHVjZXJzKm4KB3Byb2R1Y2UV_zqLPhoFY2F1c2UaBmNyZWF0ZRoIZ2VuZXJhdGUaBG1ha2UaC21hbnVmYWN0dXJlGghwcm9kdWNlZBoIcHJvZHVjZXMaCXByb2R1Y2luZxoHcHJvZHVjdBoKcHJvZHVjdGlvbioaCgEzFVcESEAaBDMuMDAaAzNyZBoFdGhyZWUqFAoGc2hvcnRzFT-2LD8aBXNob3J0KggKAWEVAAAAACoKCgNkYXkVV3abPyoXCgd3aXRob3V0FSUGxj8aAm5vGgNub3QqaQoGaGlyaW5nFbog9D0aB2NhcmVlcnMaCmVtcGxveW1lbnQaBGhpcmUaBWhpcmVkGgVoaXJlcxoDam9iGgRqb2JzGghvcGVuaW5ncxoKcmVjcnVpdGluZxoHdmFjYW5jeRoHZWRpdGluZypNCgdlZGl0b3JzFYVKdz8aB2VkaXRpbmcaBmVkaXRvchoJZWRpdG9yaWFsGgpwdWJsaXNoZXJzGgd3cml0ZXJzGgxpdjtwO2VkaXRvcnMy7QEvZ290bz91cmw9Q0FFU3BRRUJ4Q0pGMXhzTmtLR0V4TGhSeTk0QjNOd2Q5Uk95c1pyNE14V082aWp0SHQ1c0RJRGo2NFBnQVNNNFlDRFBWLUNtNVpsSTUwVEpfQklDNGphSU5pY0xKYWQxNzFzckJSclRFVnoxZEotZnhzU1ZxVVB1NHRfSVlDUS1ac3lyazJFZHBQdldUSk94ako4cXNhLWZERzlRYlZNYm5CSmlpSF9FaE9mRTRpY1ptTTFtWnNLWjZvZG1UTTJjNm9Kd2RLRktUTlRhTjE5Z2h5WkdvaDNWLXdDWE8wS1lpTVE6QEhvdyBjYW4geW91dHViZXJzIHVwbG9hZCBlYWNoIDxiPjM8L2I-IGRheXMgbG9uZyB3ZWxsIGVkaXRlZCAuLi5CfzxiPlRoZXkgZG9uJiMzOTt0PC9iPi4gWW91dHViZXJzIHdobyB1cGxvYWQgdGhhdCBmcmVxdWVudGx5IGF0IHRoYXQgaGlnaCBxdWFsaXR5IGhhdmUgZnVsbCB0ZWFtcyBvciBmdWxsLXRpbWUgZWRpdG9ycywgb3IgYm90aC5KAWFSA25vdFICbm8iAhABSABYAGgA",
+        "source": "Reddit \u00b7 r/SmallYoutubers"
+      },
+      {
+        "position": 2,
+        "title": "how many yt shorts should you post per day?",
+        "link": "https://www.youtube.com/watch?v=5_X_Q79B5R4",
+        "displayed_link": "373.9K+ views",
+        "date": "1 year ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f25194c42ba7a0231ea2/images/9xi9mQsQbJCeWJWuZR0s9yPoQIrdHxNtrt-3Uh4GBDc.jpg",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "how many yt shorts should you post per day? How to beat the NEW Shorts Jail \u2026 how many youtube shorts should you post per day? (full guide)",
+        "duration": "2:51",
+        "about_this_result": {
+          "source": {
+            "description": "how many yt shorts should you post per day? How to beat the NEW Shorts Jail \u2026 how many youtube shorts should you post per day? (full guide)",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWEFEek02LUV6T3JIRVdTeTYyQXA5QlN3OS0tbDB1bmQybnd5QWtkLWxHdFdsc2FiSXFXem1DOVlwRWRuMHNXcWJLRk9qSHVaS1pETDg0d2dtd0d5M2l2WUNJU3dyZ04zSm1YNkJITWd0dVVDRmxCNWZodHdrYzJGc1gzVW1pa3IwNUJrSxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWEFEek02LUV6T3JIRVdTeTYyQXA5QlN3OS0tbDB1bmQybnd5QWtkLWxHdFdsc2FiSXFXem1DOVlwRWRuMHNXcWJLRk9qSHVaS1pETDg0d2dtd0d5M2l2WUNJU3dyZ04zSm1YNkJITWd0dVVDRmxCNWZodHdrYzJGc1gzVW1pa3IwNUJrSxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQN48IFw5D9pV0yrmjP3OfsxjfhNijOFAaAYA",
+        "source": "YouTube \u00b7 Money Mind Unfiltered"
+      },
+      {
+        "position": 3,
+        "title": "I want to start YouTube shorts. Should I post 2-3 times a ...",
+        "link": "https://www.google.com/goto?url=CAESmQEBxCJF12OUiLwF_IgrQBsnGWq6rvgHLRtdiQFAtXN1ZaKJiEs-QtoCWH3N_VjugcpK6EO5KO1ePDxesoUtHFm5ciOy4mdbv6QCWpr5tDQu7DNvo0Rdb24UscvlTQdLjc0vT8gppgGva60KZ9gBj5hKL-xQctkGZFHZVW5FKbU6gBznfiY-lf3IusF86WJ-XCdomWI_Y0LmMY8",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEBxCJF1xCpZVsJHVuoDpAXGDIXL5P6PbxVjuXCmAsZX_vz_tHz6cd_VweL11vRI28IYxceD5OaJg9fgzWElXknl7iDRWYkaYdahL_Jhu8HnyoQhVZ5L43_V05MzoCpMa3bX2wUOAZH6kBLgMOyB32J69U2JQ3QHeCLgBr9Ffe0kvCaAjreGRrvzmH71pMX3tgkVVHrjKJ2Xo0&ved=2ahUKEwiYk5uw25uYAxU7kIkEHY0gJKQQFnoECE4QAQ&uoh=1",
+        "displayed_link": "40+ answers",
+        "date": "5 years ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png",
+        "snippet": "I want to start YouTube shorts. Should I post 2-3 times a week or daily?",
+        "about_this_result": {
+          "source": {
+            "description": "Is it okay to post 3-4 shorts a day on YouTube? How do I make YouTube shorts without showing a face? Can YouTube shorts be square?",
+            "source_info_link": "https://www.google.com/goto?url=CAESmQEBxCJF12OUiLwF_IgrQBsnGWq6rvgHLRtdiQFAtXN1ZaKJiEs-QtoCWH3N_VjugcpK6EO5KO1ePDxesoUtHFm5ciOy4mdbv6QCWpr5tDQu7DNvo0Rdb24UscvlTQdLjc0vT8gppgGva60KZ9gBj5hKL-xQctkGZFHZVW5FKbU6gBznfiY-lf3IusF86WJ-XCdomWI_Y0LmMY8",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEy4Kia5Kie5Kie5Kia5Kie5Kye5Kya5Kia5Kya5Kye5Kye5Kia5Kie5Kye4KybpLYg9AAAAEHRSTlMADBsoY5-1xoDS-f_mdeg3NaD4rAAAALBJREFUeAFjIAIwKhsJIHjMrullIQZwuc7Vu3fvmgGTFwfygPxCqOTs3WCwUwAiuXv3ntirp3fvhkh37d7XyMAg8Xr3CrCxs3cfAdF-u3eCDGdZvbsBxOXYvcsBSInu3iMANvH07kAgpbZ7K8SG6N1JQNJ8914I9_buYjQummI0o9AsgjjjCcwZEEfugToS1QuJKB7cPR_mfaiHP8ADBwyS4EFXDgKN8IA1BgEBAuEPAM0eYq2VgXsvAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCeENKRjEyT1VpTHdGX0lnclFCc25HV3E2cnZnSExSdGRpUUZBdFhOMVphS0ppRXMtUXRvQ1dIM05fVmp1Z2NwSzZFTzVLTzFlUER4ZXNvVXRIRm01Y2lPeTRtZGJ2NlFDV3ByNXREUXU3RE52bzBSZGIyNFVzY3ZsVFFkTGpjMHZUOGdwcGdHdmE2MEtaOWdCajVoS0wteFFjdGtHWkZIWlZXNUZLYlU2Z0J6bmZpWS1sZjNJdXNGODZXSi1YQ2RvbVdJX1kwTG1NWTgSBBoCCAAa8AcSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAzAcIABAAGAAgACoKCgNob3cVHebDPyoPCgJkbxU8orA_GgRkb2VzKi0KCGNyZWF0b3JzFVLqgD4aB2NyZWF0b3IaCGZvdW5kZXJzGglwcm9kdWNlcnMqbgoHcHJvZHVjZRUAAAAAGgVjYXVzZRoGY3JlYXRlGghnZW5lcmF0ZRoEbWFrZRoLbWFudWZhY3R1cmUaCHByb2R1Y2VkGghwcm9kdWNlcxoJcHJvZHVjaW5nGgdwcm9kdWN0Ggpwcm9kdWN0aW9uKhoKATMVzY9kQBoEMy4wMBoDM3JkGgV0aHJlZSoUCgZzaG9ydHMVtq-jQBoFc2hvcnQqCAoBYRUAAAAAKgoKA2RheRVAaco_KhcKB3dpdGhvdXQV0BxiPxoCbm8aA25vdCppCgZoaXJpbmcVAAAAABoHY2FyZWVycxoKZW1wbG95bWVudBoEaGlyZRoFaGlyZWQaBWhpcmVzGgNqb2IaBGpvYnMaCG9wZW5pbmdzGgpyZWNydWl0aW5nGgd2YWNhbmN5GgdlZGl0aW5nKk0KB2VkaXRvcnMVAAAAABoHZWRpdGluZxoGZWRpdG9yGgllZGl0b3JpYWwaCnB1Ymxpc2hlcnMaB3dyaXRlcnMaDGl2O3A7ZWRpdG9yczLdAS9nb3RvP3VybD1DQUVTbVFFQnhDSkYxMk9VaUx3Rl9JZ3JRQnNuR1dxNnJ2Z0hMUnRkaVFGQXRYTjFaYUtKaUVzLVF0b0NXSDNOX1ZqdWdjcEs2RU81S08xZVBEeGVzb1V0SEZtNWNpT3k0bWRidjZRQ1dwcjV0RFF1N0ROdm8wUmRiMjRVc2N2bFRRZExqYzB2VDhncHBnR3ZhNjBLWjlnQmo1aEtMLXhRY3RrR1pGSFpWVzVGS2JVNmdCem5maVktbGYzSXVzRjg2V0otWENkb21XSV9ZMExtTVk4OlBJIHdhbnQgdG8gc3RhcnQgWW91VHViZSA8Yj5zaG9ydHM8L2I-LiBTaG91bGQgSSBwb3N0IDItPGI-MzwvYj4gdGltZXMgYSB3ZWVrIC4uLkKsAUlzIGl0IG9rYXkgdG8gcG9zdCA8Yj4zPC9iPi00IDxiPnNob3J0cyBhIGRheTwvYj4gb24gWW91VHViZT8gPGI-SG93IGRvPC9iPiBJIDxiPm1ha2U8L2I-IFlvdVR1YmUgPGI-c2hvcnRzIHdpdGhvdXQ8L2I-IHNob3dpbmcgYSBmYWNlPyBDYW4gWW91VHViZSA8Yj5zaG9ydHM8L2I-IGJlIHNxdWFyZT9KAWFSAm5vUgNub3QiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCeENKRjEyT1VpTHdGX0lnclFCc25HV3E2cnZnSExSdGRpUUZBdFhOMVphS0ppRXMtUXRvQ1dIM05fVmp1Z2NwSzZFTzVLTzFlUER4ZXNvVXRIRm01Y2lPeTRtZGJ2NlFDV3ByNXREUXU3RE52bzBSZGIyNFVzY3ZsVFFkTGpjMHZUOGdwcGdHdmE2MEtaOWdCajVoS0wteFFjdGtHWkZIWlZXNUZLYlU2Z0J6bmZpWS1sZjNJdXNGODZXSi1YQ2RvbVdJX1kwTG1NWTgSBBoCCAAa8AcSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAzAcIABAAGAAgACoKCgNob3cVHebDPyoPCgJkbxU8orA_GgRkb2VzKi0KCGNyZWF0b3JzFVLqgD4aB2NyZWF0b3IaCGZvdW5kZXJzGglwcm9kdWNlcnMqbgoHcHJvZHVjZRUAAAAAGgVjYXVzZRoGY3JlYXRlGghnZW5lcmF0ZRoEbWFrZRoLbWFudWZhY3R1cmUaCHByb2R1Y2VkGghwcm9kdWNlcxoJcHJvZHVjaW5nGgdwcm9kdWN0Ggpwcm9kdWN0aW9uKhoKATMVzY9kQBoEMy4wMBoDM3JkGgV0aHJlZSoUCgZzaG9ydHMVtq-jQBoFc2hvcnQqCAoBYRUAAAAAKgoKA2RheRVAaco_KhcKB3dpdGhvdXQV0BxiPxoCbm8aA25vdCppCgZoaXJpbmcVAAAAABoHY2FyZWVycxoKZW1wbG95bWVudBoEaGlyZRoFaGlyZWQaBWhpcmVzGgNqb2IaBGpvYnMaCG9wZW5pbmdzGgpyZWNydWl0aW5nGgd2YWNhbmN5GgdlZGl0aW5nKk0KB2VkaXRvcnMVAAAAABoHZWRpdGluZxoGZWRpdG9yGgllZGl0b3JpYWwaCnB1Ymxpc2hlcnMaB3dyaXRlcnMaDGl2O3A7ZWRpdG9yczLdAS9nb3RvP3VybD1DQUVTbVFFQnhDSkYxMk9VaUx3Rl9JZ3JRQnNuR1dxNnJ2Z0hMUnRkaVFGQXRYTjFaYUtKaUVzLVF0b0NXSDNOX1ZqdWdjcEs2RU81S08xZVBEeGVzb1V0SEZtNWNpT3k0bWRidjZRQ1dwcjV0RFF1N0ROdm8wUmRiMjRVc2N2bFRRZExqYzB2VDhncHBnR3ZhNjBLWjlnQmo1aEtMLXhRY3RrR1pGSFpWVzVGS2JVNmdCem5maVktbGYzSXVzRjg2V0otWENkb21XSV9ZMExtTVk4OlBJIHdhbnQgdG8gc3RhcnQgWW91VHViZSA8Yj5zaG9ydHM8L2I-LiBTaG91bGQgSSBwb3N0IDItPGI-MzwvYj4gdGltZXMgYSB3ZWVrIC4uLkKsAUlzIGl0IG9rYXkgdG8gcG9zdCA8Yj4zPC9iPi00IDxiPnNob3J0cyBhIGRheTwvYj4gb24gWW91VHViZT8gPGI-SG93IGRvPC9iPiBJIDxiPm1ha2U8L2I-IFlvdVR1YmUgPGI-c2hvcnRzIHdpdGhvdXQ8L2I-IHNob3dpbmcgYSBmYWNlPyBDYW4gWW91VHViZSA8Yj5zaG9ydHM8L2I-IGJlIHNxdWFyZT9KAWFSAm5vUgNub3QiAhABSABYAGgA",
+        "source": "Quora"
+      },
+      {
+        "position": 4,
+        "title": "How To Make YouTube Shorts - The Complete Guide!",
+        "link": "https://www.google.com/goto?url=CAESbgHEIkXXSITQMoFEjgANT2RDrcOQxW5F6VTPFGFq35eoDkiROqsAue2rEKe3rUbo3ylVGf3fiKrOI6KLlr1BaJ1lG9EIf1TsSo447kH-rHHo6NwR-GeSdXy8rpDAPdLoK-eo7coErhSRnHK6qJL2&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w",
+        "displayed_link": "96.1K+ views",
+        "date": "2 years ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f25194c42ba7a0231ea2/images/9xi9mQsQbJCeWJWuZR0s9zgBCXqSJT_F6CllzeShQI0.jpg",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "Here's everything you need to know, including how to create YouTube Shorts, the ideal YouTube Shorts length and some great YouTube Shorts ideas.",
+        "duration": "18:21",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "How To Make YouTube Shorts - The Complete Guide (2024!)",
+            "link": "https://www.google.com/goto?url=CAEScgHEIkXXREJ3XDvUxQZStNxhY835v642fZpirV8qdDseEK8errNqsk_s7Hw48D4Gz6OiHHG-X5-KZ8bmbVmFtwlYMC0UfmnZZvvrVDc2R18DpswKmmFIxNIMQ_-QliCAfmVRC7ZgAWYUC75mLrtIfmBd5Q&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w"
+          },
+          {
+            "time": "00:35",
+            "title": "How To Find YouTube Shorts on Mobile",
+            "link": "https://www.google.com/goto?url=CAEScwHEIkXXkv45HmHQy-Gh28rQSNtgG53vi2CpZdK8AdX3KaVMtGIp-nUbge0Eez69X6iSg5gZd1CTXZRHXoiOqJrLXv2o5cy_WJ7oS-RJxtGu9oJVlmdcWEityx8X0uJI_51-EkPX5zKDZb4oshGJG3jfmvI&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w"
+          },
+          {
+            "time": "00:54",
+            "title": "How To Find YouTube Shorts on Desktop",
+            "link": "https://www.google.com/goto?url=CAEScwHEIkXX6sHMGuKQtRkmrh3TCdb-1zkEv5J1fqINFyRd893wViqHqdsXQO7H5d1xV6zh3CgL56YQtnxE3X4IqYBbc5c3m6bderoQD0SKstb6cYnq4QTr6ai1917q-X8ckyBqiVFkKA9i-vyBZimRYZfMDLo&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w"
+          },
+          {
+            "time": "01:10",
+            "title": "YouTube Shorts Mobile Overview & Interface",
+            "link": "https://www.google.com/goto?url=CAEScwHEIkXXMR6rVnaaKUM8oNDbu14QsWLJPSKCQyytCm3kL8di9Yz_pbS7kR8oY4CePj7e8CeFeASn2BfHphlzPE0s33Q5mWaqHJtp6ECWgb1XJ2Wvqxe9u4Z5JUGOM5MGQoDICatQ_wrDWd2OCLC-4X6Ch18&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w"
+          },
+          {
+            "time": "05:45",
+            "title": "How To Record YouTube Shorts on Mobile",
+            "link": "https://www.google.com/goto?url=CAESdAHEIkXXicSsViBUOj8W23qoKZWUQsbWrVtkE03O0iX5HO517oBppLdsnGrbFtMRj4T8pXEZ3xUynrwAAPqhvyQXgRJdcI_wa3_XCzTjXZHLUteqHBs71bqXzSDs7EwV-McNLMGoR28UjxtFNQrB-K-TXMUA&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w"
+          },
+          {
+            "time": "05:59",
+            "title": "How To Use Green Screen Effect",
+            "link": "https://www.google.com/goto?url=CAESdAHEIkXXdk1RHVDk9ItZCtUfREq3Xx9X13zIv7_QrJA6aPcDJvJzjPIAShjSQL31d5opYJR0TXTHJuWrqeMI6UNb4zD3HCbKYLNu_Jpy9tECOJqvlKH-8aiWGE917oL7TeONXg7Wh9Ayuoi-vUsWqqupm1tX&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w"
+          },
+          {
+            "time": "06:49",
+            "title": "YouTube Shorts Filming Tip #1",
+            "link": "https://www.google.com/goto?url=CAESdAHEIkXXKU_nKXquRbxP9WUt0sEUtk-YEf6sFz3gNkEhPb3qSJouaVajcIHSCOnB3Sa3k9NroD3svBW3vZ40eW_No7ey1FqcfCJaR0-Zwf67Rk3trzbU7NQHoS6xv1RdOwHUD16vyioDGKkT_1gcMJEmfBVp&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w"
+          },
+          {
+            "time": "07:19",
+            "title": "YouTube Shorts Filming Tip #2",
+            "link": "https://www.google.com/goto?url=CAESdAHEIkXXfwI4GSCtCrXBjrBZn-M5_wDPdmiEY8dMHcQCrfi_OThZSJPHC_agVY2AqcTofJftJlyC26bwuThIFtn2Xx9YIULHeDDI-kbnix3c5C_FRtAjPX_qDb7Ybzj9S63BrO-QyQenUESBcpPdlgZpEu5r&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w"
+          },
+          {
+            "time": "08:00",
+            "title": "Additional Features While Filming YouTube Shorts",
+            "link": "https://www.google.com/goto?url=CAESdAHEIkXXXgo8v6TPGDsKlCeGLnarW5W8wKjCqixMnQG50l1-5UJe0Awb_ewmNURPbHpuuY-V7L5XQMy5jRTs3VyamYgWQoWzlDMiHmFNmB7OON3hm6meZjMvMnc36tCUnJdAsOZpvg7Ru8wO5pN4GwNLYFTx&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w"
+          },
+          {
+            "time": "08:55",
+            "title": "How To Use Align Feature In YouTube",
+            "link": "https://www.google.com/goto?url=CAESdAHEIkXXtztvCl5Vf7RRejOv8ybUOc0VAnKLEhqEwQzQS3Id37bfgsNFw_9NC8WtLICXOYEO149abOY4VEccjp3JxJ7R7IhbH6SN66KzyQ-DPwdCN1KOCDoAQkJKWfLO5DpHpopg59uUV2ULYh2xN3Y9VEoM&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w"
+          },
+          {
+            "time": "09:46",
+            "title": "How To Add Music To YouTube Shorts",
+            "link": "https://www.google.com/goto?url=CAESdAHEIkXXoLmvYufPmWqlUGl4lZPhlHSsY7fWcLrvAUOzhV-LZc6-zMHgKDYc93y2ooqzhSMY8XARzxe7VivMAjMHksBP-LlThIflHedr8Uhd5HwTrcDlkD60I4WyJkTjc1rIH6wjrW0A1wBXiOdeh6sEMBEB&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w"
+          },
+          {
+            "time": "13:30",
+            "title": "How To Upload YouTube Shorts on Mobile & Upload Settings",
+            "link": "https://www.google.com/goto?url=CAESdAHEIkXXWTv6z2QSuohNf9v4hcO4NTLSo06LR_S-6TDGeoHYSeBMu_t-L9ENJo7cEEGFDIjoV03RV51ZtDiIMweVPCON-Y0xp7C7UhsP1wX23_RYUyTFyplr8f1cqCiYnd87tjE2Wx37vIT_Lv89O5s87QQ1&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w"
+          },
+          {
+            "time": "14:34",
+            "title": "How To Link Related Video in YouTube Shorts",
+            "link": "https://www.google.com/goto?url=CAESdAHEIkXX69vrxMe7fFLxLxgEQHlftJN9e9T78Do-Bf784vCjuMpZ5I0ycKSCp46OOZ0mF0jVVBZIHP1a-23ShX06qYgnbK6fhac5XE9q9rh6JdDGD-mYi3zhNraOM4f6vOk48o9AwCd-w6iBYlRpH5eIlRwd&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w"
+          },
+          {
+            "time": "15:09",
+            "title": "Why You Should Allow Remixing of Your YouTube Shorts",
+            "link": "https://www.google.com/goto?url=CAESdAHEIkXXUMBvJ8J2m8DFztAG4bxeNAyQ85I9_pVqxmTYPwr3OutXuDk2zeuXDzya-z3_KuLLGquUhDUekGaS-t53eUAnbOpFnemg18GpqwIkTGfFPV63_f5mOZSuhe0AedubOlGFKNXuWlWidwDVIpCvup2v&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w"
+          },
+          {
+            "time": "16:15",
+            "title": "How To Upload YouTube Shorts on Desktop & Upload Settings",
+            "link": "https://www.google.com/goto?url=CAESdAHEIkXXmlXTfgZ2F7GCcwNgf28nCZC-Km-x--OiyVWtKrJ2bu6qBxMNwlR6rU8CKhL7s7SBwRg9U9KSFD_n0Ii_42u-qzSBox5pEevkEHZFUVrQV3iwIzmt5rkZEYgW2H-rFgyPyFh4of8XMoQtZ3E7dbJH&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w"
+          },
+          {
+            "time": "17:05",
+            "title": "Create Better Quality YouTube Shorts",
+            "link": "https://www.google.com/goto?url=CAESdQHEIkXXiryvnKAHFG5U6HC54PCUWUoYsHDX4hv6pe8-GKPcK95q4e6zg-SAf2qR7xIRjFqorBGe-NGRboIYObpKsht9DXTrMmT5a7dUVsyyw3r3hCLhgI53I6F8e32pvUlX65oPJhzv9s_Ek8G8WG8bsUZDtg&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w"
+          },
+          {
+            "time": "17:16",
+            "title": "How To Check Your YouTube Shorts Analytics",
+            "link": "https://www.google.com/goto?url=CAESdQHEIkXX5dfDJEPLU2-_FNT6mQcPnsiu9_iDm5Pmj8QOrw2S4FXH89GOw8oRZoIKXwE15FA42zGi9fKCI32oxeGpmV86FYWD7w3HXPB0-0RIXJSuVa92ZIT9eITAYU0ZF8HrotNz6MRycjxk5WLCsJrIyFTsNw&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w"
+          },
+          {
+            "time": "17:30",
+            "title": "Where To Find Your Revenue Details",
+            "link": "https://www.google.com/goto?url=CAESdQHEIkXX8DjmziVvz2Q-TzMUYAZZ-Sbo9ZDtt1aN0PgAZOAnWuIkBv2zJLDL_5SY8obkWmWW8NEXo0Qg2pYNPSVGxvpcbAlkbT9J50d9PiChCSfkXCE9Mwc7UuUAn-2_6-drSUuvzTdQb91RP3t3uE5jJlE4yg&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w"
+          }
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Here's everything you need to know, including how to create YouTube Shorts, the ideal YouTube Shorts length and some great YouTube Shorts ideas.",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hFSWtYWFNJVFFNb0ZFamdBTlQyUkRyY09ReFc1RjZWVFBGR0ZxMzVlb0RraVJPcXNBdWUyckVLZTNyVWJvM3lsVkdmM2ZpS3JPSTZLTGxyMUJhSjFsRzlFSWYxVHNTbzQ0N2tILXJISG82TndSLUdlU2RYeThycERBUGRMb0stZW83Y29FcmhTUm5ISzZxSkwyEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hFSWtYWFNJVFFNb0ZFamdBTlQyUkRyY09ReFc1RjZWVFBGR0ZxMzVlb0RraVJPcXNBdWUyckVLZTNyVWJvM3lsVkdmM2ZpS3JPSTZLTGxyMUJhSjFsRzlFSWYxVHNTbzQ0N2tILXJISG82TndSLUdlU2RYeThycERBUGRMb0stZW83Y29FcmhTUm5ISzZxSkwyEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "source": "YouTube \u00b7 Justin Brown - Primal Video"
+      },
+      {
+        "position": 5,
+        "title": "Get started creating YouTube Shorts",
+        "link": "https://support.google.com/youtube/answer/10059070?hl=en",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://support.google.com/youtube/answer/10059070%3Fhl%3Den&ved=2ahUKEwiYk5uw25uYAxU7kIkEHY0gJKQQFnoECEYQAQ",
+        "displayed_link": "https://support.google.com \u203a youtube \u203a answer",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAB70lEQVR4AZWSQ2AgQQAE52zbtm3b_JyNz9m2bRuxbdu284ntZDvp2HjU7qhrKFacXFsKOq1uJK1dOgHrlz2QVq7zxfIVeVi2OIVltrEvc-vSRuUzZeEXXbpzEDbOApYvqghFazYgb81WgKItGzqX5MrCVwf9w5GxwJ5JoKSygGGSu367TQUBYkQjKLe5jW9dgDMji9g1JQRrlu3B8sXDCcvcBikfJiLFtvk46LUGKHjRB7gy7Dc7KnPv7rUm1bULOLe-Izm0BCiR7xjNxoYg8lya2cO1DShJsWp1sfKAifchW8DXyky4j59T7uWuF3nOTeIpINxOZUHBQKkmKKogkFzbzmmAgPws3AKXn-jYtMoW-GjGPsw-W8KE-9LRifcln3IruCMyHBvdYdjDvhGc7JvWeYijH2bGlwgKz4D7ZljZpjHBXauWv2oK934T8LT3m1AMeh4Ninq_Deld-JC0bcXtj1ZNcMWyJXZZdMN80wlBA4xX7OtqtHUkaa59ZU0LuV_Wrf6qo8NXB_R7FQluqfQpP7IS3Y9btPvH8DTTiehptIGgo-Gu3Lb6RyTSSu0BWip8AiXtv1vJc_ZSAVlp3r37ErNBdygoCZcXtNG8WiSQ-_2mJEyqPFcuuYP-oVcdDPe4l0hYZlsr1ZczKz_pfOcR3y8E3ot2AAAAAElFTkSuQmCC.png",
+        "snippet": "YouTube's Shorts creation tools makes it easy to create short-form videos that are up to 3 minutes long with our multi-segment camera. Changes to Shorts views ...",
+        "snippet_highlighted_words": [
+          "YouTube's Shorts creation tools"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "YouTube's Shorts creation tools makes it easy to create short-form videos that are up to 3 minutes long with our multi-segment camera. Changes to Shorts views ...",
+            "source_info_link": "https://support.google.com/youtube/answer/10059070?hl=en",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAB70lEQVR4AZWSQ2AgQQAE52zbtm3b_JyNz9m2bRuxbdu284ntZDvp2HjU7qhrKFacXFsKOq1uJK1dOgHrlz2QVq7zxfIVeVi2OIVltrEvc-vSRuUzZeEXXbpzEDbOApYvqghFazYgb81WgKItGzqX5MrCVwf9w5GxwJ5JoKSygGGSu367TQUBYkQjKLe5jW9dgDMji9g1JQRrlu3B8sXDCcvcBikfJiLFtvk46LUGKHjRB7gy7Dc7KnPv7rUm1bULOLe-Izm0BCiR7xjNxoYg8lya2cO1DShJsWp1sfKAifchW8DXyky4j59T7uWuF3nOTeIpINxOZUHBQKkmKKogkFzbzmmAgPws3AKXn-jYtMoW-GjGPsw-W8KE-9LRifcln3IruCMyHBvdYdjDvhGc7JvWeYijH2bGlwgKz4D7ZljZpjHBXauWv2oK934T8LT3m1AMeh4Ninq_Deld-JC0bcXtj1ZNcMWyJXZZdMN80wlBA4xX7OtqtHUkaa59ZU0LuV_Wrf6qo8NXB_R7FQluqfQpP7IS3Y9btPvH8DTTiehptIGgo-Gu3Lb6RyTSSu0BWip8AiXtv1vJc_ZSAVlp3r37ErNBdygoCZcXtNG8WiSQ-_2mJEyqPFcuuYP-oVcdDPe4l0hYZlsr1ZczKz_pfOcR3y8E3ot2AAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CjhodHRwczovL3N1cHBvcnQuZ29vZ2xlLmNvbS95b3V0dWJlL2Fuc3dlci8xMDA1OTA3MD9obD1lbhIEGgIIABq6BhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJQGCAAQABgAIAAqCgoDaG93FSM_BUAqDwoCZG8VMm-NPxoEZG9lcyotCghjcmVhdG9ycxWPYY4_GgdjcmVhdG9yGghmb3VuZGVycxoJcHJvZHVjZXJzKm4KB3Byb2R1Y2UVAAAAABoFY2F1c2UaBmNyZWF0ZRoIZ2VuZXJhdGUaBG1ha2UaC21hbnVmYWN0dXJlGghwcm9kdWNlZBoIcHJvZHVjZXMaCXByb2R1Y2luZxoHcHJvZHVjdBoKcHJvZHVjdGlvbioaCgEzFXDblT8aBDMuMDAaAzNyZBoFdGhyZWUqFAoGc2hvcnRzFWd6pEAaBXNob3J0KggKAWEVAAAAACoKCgNkYXkVAAAAACoXCgd3aXRob3V0FQAAAAAaAm5vGgNub3QqaQoGaGlyaW5nFQAAAAAaB2NhcmVlcnMaCmVtcGxveW1lbnQaBGhpcmUaBWhpcmVkGgVoaXJlcxoDam9iGgRqb2JzGghvcGVuaW5ncxoKcmVjcnVpdGluZxoHdmFjYW5jeRoHZWRpdGluZypNCgdlZGl0b3JzFQAAAAAaB2VkaXRpbmcaBmVkaXRvchoJZWRpdG9yaWFsGgpwdWJsaXNoZXJzGgd3cml0ZXJzGgxpdjtwO2VkaXRvcnMyOGh0dHBzOi8vc3VwcG9ydC5nb29nbGUuY29tL3lvdXR1YmUvYW5zd2VyLzEwMDU5MDcwP2hsPWVuOjhHZXQgc3RhcnRlZCBjcmVhdGluZyBZb3VUdWJlIDxiPlNob3J0czwvYj4gLSBHb29nbGUgSGVscEKyATxiPllvdVR1YmUmIzM5O3MgU2hvcnRzIGNyZWF0aW9uIHRvb2xzPC9iPiBtYWtlcyBpdCBlYXN5IHRvIGNyZWF0ZSBzaG9ydC1mb3JtIHZpZGVvcyB0aGF0IGFyZSB1cCB0byAzIG1pbnV0ZXMgbG9uZyB3aXRoIG91ciBtdWx0aS1zZWdtZW50IGNhbWVyYS4gQ2hhbmdlcyB0byBTaG9ydHMgdmlld3MmbmJzcDsuLi5KAWFSAm5vUgNub3QiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CjhodHRwczovL3N1cHBvcnQuZ29vZ2xlLmNvbS95b3V0dWJlL2Fuc3dlci8xMDA1OTA3MD9obD1lbhIEGgIIABq6BhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJQGCAAQABgAIAAqCgoDaG93FSM_BUAqDwoCZG8VMm-NPxoEZG9lcyotCghjcmVhdG9ycxWPYY4_GgdjcmVhdG9yGghmb3VuZGVycxoJcHJvZHVjZXJzKm4KB3Byb2R1Y2UVAAAAABoFY2F1c2UaBmNyZWF0ZRoIZ2VuZXJhdGUaBG1ha2UaC21hbnVmYWN0dXJlGghwcm9kdWNlZBoIcHJvZHVjZXMaCXByb2R1Y2luZxoHcHJvZHVjdBoKcHJvZHVjdGlvbioaCgEzFXDblT8aBDMuMDAaAzNyZBoFdGhyZWUqFAoGc2hvcnRzFWd6pEAaBXNob3J0KggKAWEVAAAAACoKCgNkYXkVAAAAACoXCgd3aXRob3V0FQAAAAAaAm5vGgNub3QqaQoGaGlyaW5nFQAAAAAaB2NhcmVlcnMaCmVtcGxveW1lbnQaBGhpcmUaBWhpcmVkGgVoaXJlcxoDam9iGgRqb2JzGghvcGVuaW5ncxoKcmVjcnVpdGluZxoHdmFjYW5jeRoHZWRpdGluZypNCgdlZGl0b3JzFQAAAAAaB2VkaXRpbmcaBmVkaXRvchoJZWRpdG9yaWFsGgpwdWJsaXNoZXJzGgd3cml0ZXJzGgxpdjtwO2VkaXRvcnMyOGh0dHBzOi8vc3VwcG9ydC5nb29nbGUuY29tL3lvdXR1YmUvYW5zd2VyLzEwMDU5MDcwP2hsPWVuOjhHZXQgc3RhcnRlZCBjcmVhdGluZyBZb3VUdWJlIDxiPlNob3J0czwvYj4gLSBHb29nbGUgSGVscEKyATxiPllvdVR1YmUmIzM5O3MgU2hvcnRzIGNyZWF0aW9uIHRvb2xzPC9iPiBtYWtlcyBpdCBlYXN5IHRvIGNyZWF0ZSBzaG9ydC1mb3JtIHZpZGVvcyB0aGF0IGFyZSB1cCB0byAzIG1pbnV0ZXMgbG9uZyB3aXRoIG91ciBtdWx0aS1zZWdtZW50IGNhbWVyYS4gQ2hhbmdlcyB0byBTaG9ydHMgdmlld3MmbmJzcDsuLi5KAWFSAm5vUgNub3QiAhABSABYAGgA",
+        "source": "Google Help",
+        "read_more_link": "https://support.google.com/youtube/answer/10059070?hl=en#:~:text=YouTube's%20Shorts%20creation%20tools%20makes,Changes%20to%20Shorts%20views%20count"
+      },
+      {
+        "position": 6,
+        "title": "I Posted Shorts Every Day for 3 Months - Here's What Happened",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXNW5TYqcjw4MHucCc1ZbCRXIQj8av_O94n5Rhebu0gV_yIqq13qZRrFEtWU5QymJATboEbgonWXnFH-1QUvxlM1aORw50yuU7V9B0-qTa5kE9eqc052rkMuZb0B6Hcxlp3CJn&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w",
+        "displayed_link": "2.4K+ views",
+        "date": "1 year ago",
+        "thumbnail": "https://serpapi.com/searches/6b02f25194c42ba7a0231ea2/images/9xi9mQsQbJCeWJWuZR0s92IGGhMYnZ55akXYlfmFGtQ.jpg",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "This video also shows how I use Riverside's AI features (like Magic Clips and text-based editing) to cut down my short-form workflow from two ...",
+        "duration": "12:09",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "Intro",
+            "link": "https://www.google.com/goto?url=CAESbAHEIkXXuxPTtI4KdWICQ9r-HBoF6onKiR5xr7rgHckageomtQ6CuM4NrtVgc86M-dTARaiOXcbeTGFxPRm8C9yOUPu9B0RgkgbKkI9pLhspTLN_3v-Q7COsIas-6d7oru9ifVAhzRLZGiCHFw&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w"
+          },
+          {
+            "time": "00:19",
+            "title": "Background",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXXtjcqQo45UHpooPlskRrJCqPrQNDuk-ME7KUY8KSjrrO0KpoAcX9z3d-6qthkZ2isIlZJrsNBITlNZ-syQQOzommpJzN4uMLrvo_FvOUmSW6JkfUQnJ-3MHTTkffkRXAnFJjtD26ZW90&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w"
+          },
+          {
+            "time": "01:05",
+            "title": "The Experiment",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXXeXESB6dCZRFowai4DT1P5qkA66WeybSrvThooW8YO852_tS932eFmDBJcersgXfK52lRKTN496y49NHg-GimLpamBQDNIMbpUb9s2P87iUwegyIIOUAKK5p_-DQiTgXCavp9fOaiuJo&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w"
+          },
+          {
+            "time": "02:14",
+            "title": "My Practical Workflow",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXX7HlhRQuv2czbkSQOVDivX9oGQAf_0e3D9G0fBQ6MGr4zL-rfLYyS9tqfvXiv42Vhlt6CRkI5uUCeAZ5MpZFdTbpb2NXvSOCeLzYTI8GI8TX-6eYpAy_abaI7FVBi1SH0LjFl2TPtuj1f&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w"
+          },
+          {
+            "time": "05:31",
+            "title": "My Analytics",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXfQNc42ZG4NzzTv97G4bkr1kNuyJvJ11bI4WHuTT3VL3IOIKbnQG_4ukNu0rNLbUUdISzBmHPW1eRd8PJwF93VSmEfHgpTrc6CX-GbA3OM_4buG5ZEy58br6XV1mXf-qPvi_eScipD7dA&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w"
+          },
+          {
+            "time": "08:37",
+            "title": "My 4 Takeaways",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXG2kzrznq_xXhoFD6H3WmsiV69M4Gj3M3iJN_bKwS93TEu60lMbqZbPJtJxv0L8JnTO39DL6kE5veyw5ck_1ovx6XHstI9AJ-ZV0MoiXhQANext2YaTjvOLqQsWNySRIEWw2TNBFCAP6r&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w"
+          }
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "This video also shows how I use Riverside's AI features (like Magic Clips and text-based editing) to cut down my short-form workflow from two ...",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWE5XNVRZcWNqdzRNSHVjQ2MxWmJDUlhJUWo4YXZfTzk0bjVSaGVidTBnVl95SXFxMTNxWlJyRkV0V1U1UXltSkFUYm9FYmdvbldYbkZILTFRVXZ4bE0xYU9SdzUweXVVN1Y5QjAtcVRhNWtFOWVxYzA1MnJrTXVaYjBCNkhjeGxwM0NKbhIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWE5XNVRZcWNqdzRNSHVjQ2MxWmJDUlhJUWo4YXZfTzk0bjVSaGVidTBnVl95SXFxMTNxWlJyRkV0V1U1UXltSkFUYm9FYmdvbldYbkZILTFRVXZ4bE0xYU9SdzUweXVVN1Y5QjAtcVRhNWtFOWVxYzA1MnJrTXVaYjBCNkhjeGxwM0NKbhIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT8WhroSnhYcBr-1CBHSSbwRpw_SRHw8mxH7Q",
+        "source": "YouTube \u00b7 Nick Kendall"
+      },
+      {
+        "position": 7,
+        "title": "How Many YouTube Shorts Per Day? We Analyzed Top ...",
+        "link": "https://www.google.com/goto?url=CAEScAHEIkXXEcG8H4BXfODJzkTtW4aYRLfqiTZGAIWNvDhzVBtNhd9R5HrgV72y0c3gNr3wUPgQXBAMRE6seJxMZiz03npLGNWw38MbS4V32oOxmkvTyqMN9MIADihy6j5RsC43I0z6Nu1lSxesKOyR9s8",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHEIkXXaMawrRTOS-_2UEuDemfVLC9UqxMN8sKdsy5TfAGjP57d9_XYTwLC_14t0ATVsqs6FJSJRnuIdUxxvWoGTt10mtFhL_XSibThm7JuQJbOK-xlWnVCKHFMYkF_qpW3fhhjz-WcedGuuTqYOG8&ved=2ahUKEwiYk5uw25uYAxU7kIkEHY0gJKQQFnoECEgQAQ&uoh=1",
+        "displayed_link": "https://flowshorts.app \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAWlBMVEX____w6v6xkvmYbveLXPb59_-UaPbMuPuQY_amgvinhPi6nfrt5f77-v-2mPmujfni1v3p3_7e0f2SZvb18P-ZcPfVxPzYyPzp4P749f_FrfqcdPfBqPqqiPhLUdSWAAAAq0lEQVR4Ac3ShwqDMBhF4ZP01r1H66jv_5qVIQ0YEaHQfswfDmjg8h-MvcnrZg2re6BDwR0IpShOPOJICoFUMnhlUgpYiQOS3YK8KHIIywrqMtxuJ2ikCgIVUKjdbifo-r4D2z7g2drtdgK_q8EwAsYAY517gknzGkkZzHodBZk0rIEmT0D9-cTA6uuvsJLL7oJIckW7oFkSx9Jc-IdUyo4Hcz6589Gez_733onWCyoseRXLAAAAAElFTkSuQmCC.png",
+        "date": "Feb 24, 2026",
+        "snippet": "Dedicate 2 hours per week to creating 5-7 Shorts in one session, then schedule them across the week using YouTube Studio. AI video tools can ...",
+        "snippet_highlighted_words": [
+          "Shorts"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Dedicate 2 hours per week to creating 5-7 Shorts in one session, then schedule them across the week using YouTube Studio. AI video tools can ...",
+            "source_info_link": "https://www.google.com/goto?url=CAEScAHEIkXXEcG8H4BXfODJzkTtW4aYRLfqiTZGAIWNvDhzVBtNhd9R5HrgV72y0c3gNr3wUPgQXBAMRE6seJxMZiz03npLGNWw38MbS4V32oOxmkvTyqMN9MIADihy6j5RsC43I0z6Nu1lSxesKOyR9s8",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAWlBMVEX____w6v6xkvmYbveLXPb59_-UaPbMuPuQY_amgvinhPi6nfrt5f77-v-2mPmujfni1v3p3_7e0f2SZvb18P-ZcPfVxPzYyPzp4P749f_FrfqcdPfBqPqqiPhLUdSWAAAAq0lEQVR4Ac3ShwqDMBhF4ZP01r1H66jv_5qVIQ0YEaHQfswfDmjg8h-MvcnrZg2re6BDwR0IpShOPOJICoFUMnhlUgpYiQOS3YK8KHIIywrqMtxuJ2ikCgIVUKjdbifo-r4D2z7g2drtdgK_q8EwAsYAY517gknzGkkZzHodBZk0rIEmT0D9-cTA6uuvsJLL7oJIckW7oFkSx9Jc-IdUyo4Hcz6589Gez_733onWCyoseRXLAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUBL2dvdG8_dXJsPUNBRVNjQUhFSWtYWEVjRzhINEJYZk9ESnprVHRXNGFZUkxmcWlUWkdBSVdOdkRoelZCdE5oZDlSNUhyZ1Y3MnkwYzNnTnIzd1VQZ1FYQkFNUkU2c2VKeE1aaXowM25wTEdOV3czOE1iUzRWMzJvT3hta3ZUeXFNTjlNSUFEaWh5Nmo1UnNDNDNJMHo2TnUxbFN4ZXNLT3lSOXM4EgQaAggAGp0HEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPkGCAAQABgAIAAqCgoDaG93FV6tl0AqDwoCZG8VLRiPPhoEZG9lcyotCghjcmVhdG9ycxWiHFVAGgdjcmVhdG9yGghmb3VuZGVycxoJcHJvZHVjZXJzKm4KB3Byb2R1Y2UVX5RAPxoFY2F1c2UaBmNyZWF0ZRoIZ2VuZXJhdGUaBG1ha2UaC21hbnVmYWN0dXJlGghwcm9kdWNlZBoIcHJvZHVjZXMaCXByb2R1Y2luZxoHcHJvZHVjdBoKcHJvZHVjdGlvbioaCgEzFe9cYkAaBDMuMDAaAzNyZBoFdGhyZWUqFAoGc2hvcnRzFT_30UAaBXNob3J0KggKAWEVAAAAACoKCgNkYXkV0B-8QCoXCgd3aXRob3V0FceqwD8aAm5vGgNub3QqaQoGaGlyaW5nFQAAAAAaB2NhcmVlcnMaCmVtcGxveW1lbnQaBGhpcmUaBWhpcmVkGgVoaXJlcxoDam9iGgRqb2JzGghvcGVuaW5ncxoKcmVjcnVpdGluZxoHdmFjYW5jeRoHZWRpdGluZypNCgdlZGl0b3JzFQAAAAAaB2VkaXRpbmcaBmVkaXRvchoJZWRpdG9yaWFsGgpwdWJsaXNoZXJzGgd3cml0ZXJzGgxpdjtwO2VkaXRvcnMypQEvZ290bz91cmw9Q0FFU2NBSEVJa1hYRWNHOEg0QlhmT0RKemtUdFc0YVlSTGZxaVRaR0FJV052RGh6VkJ0TmhkOVI1SHJnVjcyeTBjM2dOcjN3VVBnUVhCQU1SRTZzZUp4TVppejAzbnBMR05XdzM4TWJTNFYzMm9PeG1rdlR5cU1OOU1JQURpaHk2ajVSc0M0M0kwejZOdTFsU3hlc0tPeVI5czg6RUhvdyBNYW55IFlvdVR1YmUgPGI-U2hvcnRzPC9iPiBTaG91bGQgWW91IFBvc3QgUGVyIDxiPkRheTwvYj4_ICgyMDI2KUKcAURlZGljYXRlIDIgaG91cnMgcGVyIHdlZWsgdG8gY3JlYXRpbmcgNS03IDxiPlNob3J0czwvYj4gaW4gb25lIHNlc3Npb24sIHRoZW4gc2NoZWR1bGUgdGhlbSBhY3Jvc3MgdGhlIHdlZWsgdXNpbmcgWW91VHViZSBTdHVkaW8uIEFJIHZpZGVvIHRvb2xzIGNhbiZuYnNwOy4uLkoBYVIDbm90UgJubyICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUBL2dvdG8_dXJsPUNBRVNjQUhFSWtYWEVjRzhINEJYZk9ESnprVHRXNGFZUkxmcWlUWkdBSVdOdkRoelZCdE5oZDlSNUhyZ1Y3MnkwYzNnTnIzd1VQZ1FYQkFNUkU2c2VKeE1aaXowM25wTEdOV3czOE1iUzRWMzJvT3hta3ZUeXFNTjlNSUFEaWh5Nmo1UnNDNDNJMHo2TnUxbFN4ZXNLT3lSOXM4EgQaAggAGp0HEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPkGCAAQABgAIAAqCgoDaG93FV6tl0AqDwoCZG8VLRiPPhoEZG9lcyotCghjcmVhdG9ycxWiHFVAGgdjcmVhdG9yGghmb3VuZGVycxoJcHJvZHVjZXJzKm4KB3Byb2R1Y2UVX5RAPxoFY2F1c2UaBmNyZWF0ZRoIZ2VuZXJhdGUaBG1ha2UaC21hbnVmYWN0dXJlGghwcm9kdWNlZBoIcHJvZHVjZXMaCXByb2R1Y2luZxoHcHJvZHVjdBoKcHJvZHVjdGlvbioaCgEzFe9cYkAaBDMuMDAaAzNyZBoFdGhyZWUqFAoGc2hvcnRzFT_30UAaBXNob3J0KggKAWEVAAAAACoKCgNkYXkV0B-8QCoXCgd3aXRob3V0FceqwD8aAm5vGgNub3QqaQoGaGlyaW5nFQAAAAAaB2NhcmVlcnMaCmVtcGxveW1lbnQaBGhpcmUaBWhpcmVkGgVoaXJlcxoDam9iGgRqb2JzGghvcGVuaW5ncxoKcmVjcnVpdGluZxoHdmFjYW5jeRoHZWRpdGluZypNCgdlZGl0b3JzFQAAAAAaB2VkaXRpbmcaBmVkaXRvchoJZWRpdG9yaWFsGgpwdWJsaXNoZXJzGgd3cml0ZXJzGgxpdjtwO2VkaXRvcnMypQEvZ290bz91cmw9Q0FFU2NBSEVJa1hYRWNHOEg0QlhmT0RKemtUdFc0YVlSTGZxaVRaR0FJV052RGh6VkJ0TmhkOVI1SHJnVjcyeTBjM2dOcjN3VVBnUVhCQU1SRTZzZUp4TVppejAzbnBMR05XdzM4TWJTNFYzMm9PeG1rdlR5cU1OOU1JQURpaHk2ajVSc0M0M0kwejZOdTFsU3hlc0tPeVI5czg6RUhvdyBNYW55IFlvdVR1YmUgPGI-U2hvcnRzPC9iPiBTaG91bGQgWW91IFBvc3QgUGVyIDxiPkRheTwvYj4_ICgyMDI2KUKcAURlZGljYXRlIDIgaG91cnMgcGVyIHdlZWsgdG8gY3JlYXRpbmcgNS03IDxiPlNob3J0czwvYj4gaW4gb25lIHNlc3Npb24sIHRoZW4gc2NoZWR1bGUgdGhlbSBhY3Jvc3MgdGhlIHdlZWsgdXNpbmcgWW91VHViZSBTdHVkaW8uIEFJIHZpZGVvIHRvb2xzIGNhbiZuYnNwOy4uLkoBYVIDbm90UgJubyICEAFIAFgAaAA",
+        "source": "FlowShorts",
+        "read_more_link": "https://www.google.com/goto?url=CAESyQEBxCJF1x1y60XSFfti2AVO8nNmuQoBEru2mqLD7r1H57joLiTchlC_jdcujpOj25NPg7VCOnzoxW7IbYSwIy-QLBI-gATWd5p2jzuKYWmm0QK0-8mfmCWKuBy2zuGow1rtXpfSit-itXfWbZNYXhAMNOM2FXj-Ym--k1k_-0rIlbI1ZMjj08e7Bm1VvHBkvY-rxlfcga_-mOZSzRvLNppXUnRxAx148TLKcjkXViBDaOVtqKNOwXTNrABNATwSy2M8HWFJ8Yf3gDs&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "How many shorts can I upload on YouTube per day",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDik9GVCuvepxcdNH1BJSM8tDeOXMQ:1795355218209&q=How+many+shorts+can+I+upload+on+YouTube+per+day&sa=X&ved=2ahUKEwiYk5uw25uYAxU7kIkEHY0gJKQQ1QJ6BAg_EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+many+shorts+can+I+upload+on+YouTube+per+day"
+      },
+      {
+        "block_position": 1,
+        "query": "How many YouTube shorts should I post a day to go viral",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDik9GVCuvepxcdNH1BJSM8tDeOXMQ:1795355218209&q=How+many+YouTube+shorts+should+I+post+a+day+to+go+viral&sa=X&ved=2ahUKEwiYk5uw25uYAxU7kIkEHY0gJKQQ1QJ6BAhHEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+many+YouTube+shorts+should+I+post+a+day+to+go+viral"
+      },
+      {
+        "block_position": 1,
+        "query": "Can I upload 10 shorts on YouTube per day",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDik9GVCuvepxcdNH1BJSM8tDeOXMQ:1795355218209&q=Can+I+upload+10+shorts+on+YouTube+per+day&sa=X&ved=2ahUKEwiYk5uw25uYAxU7kIkEHY0gJKQQ1QJ6BAhDEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Can+I+upload+10+shorts+on+YouTube+per+day"
+      },
+      {
+        "block_position": 1,
+        "query": "How many shorts should I post a day on TikTok",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDik9GVCuvepxcdNH1BJSM8tDeOXMQ:1795355218209&q=How+many+shorts+should+I+post+a+day+on+TikTok&sa=X&ved=2ahUKEwiYk5uw25uYAxU7kIkEHY0gJKQQ1QJ6BAhFEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+many+shorts+should+I+post+a+day+on+TikTok"
+      },
+      {
+        "block_position": 1,
+        "query": "How many shorts should I post a day to get monetized",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDik9GVCuvepxcdNH1BJSM8tDeOXMQ:1795355218209&q=How+many+shorts+should+I+post+a+day+to+get+monetized&sa=X&ved=2ahUKEwiYk5uw25uYAxU7kIkEHY0gJKQQ1QJ6BAhEEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+many+shorts+should+I+post+a+day+to+get+monetized"
+      },
+      {
+        "block_position": 1,
+        "query": "Can I post 3 Shorts a day on YouTube",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDik9GVCuvepxcdNH1BJSM8tDeOXMQ:1795355218209&q=Can+I+post+3+Shorts+a+day+on+YouTube&sa=X&ved=2ahUKEwiYk5uw25uYAxU7kIkEHY0gJKQQ1QJ6BAhBEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Can+I+post+3+Shorts+a+day+on+YouTube"
+      },
+      {
+        "block_position": 1,
+        "query": "Is posting 3 shorts a day too much",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDik9GVCuvepxcdNH1BJSM8tDeOXMQ:1795355218209&q=Is+posting+3+shorts+a+day+too+much&sa=X&ved=2ahUKEwiYk5uw25uYAxU7kIkEHY0gJKQQ1QJ6BAg-EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Is+posting+3+shorts+a+day+too+much"
+      },
+      {
+        "block_position": 1,
+        "query": "How many shorts should i post a day reddit",
+        "link": "https://www.google.com/search?sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDik9GVCuvepxcdNH1BJSM8tDeOXMQ:1795355218209&q=How+many+shorts+should+i+post+a+day+reddit&sa=X&ved=2ahUKEwiYk5uw25uYAxU7kIkEHY0gJKQQ1QJ6BAg9EAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+many+shorts+should+i+post+a+day+reddit"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "We started posting 3 YouTube Shorts a day from long-form videos",
+        "link": "https://www.google.com/goto?url=CAESpQEBxCJF11e2wbiKmnpP4HCyWU7BqjhYqdSAnxmxIWY4AMy1uSjU917ALSSWuQO0vNPie77C7uMi_Ua4i4nJgtx9cucEPnn44Bw77gZZ4XVlIQljqCNn9AAzVSYt4cCOaMMSe-a04Bf5y0kK47VKtJfZElArWT2yYatUCZsildEWv0qET9F9zIX3XUK-dyTYUACtJGi-jKXUwjVCvo7NwDO-iBgecF0&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w",
+        "date": "8 months ago",
+        "extensions": [
+          "r/SmallYoutubers",
+          "50+ comments"
+        ],
+        "source": "Reddit",
+        "answers": [
+          {
+            "link": "https://www.google.com/goto?url=CAESpQEBxCJF11e2wbiKmnpP4HCyWU7BqjhYqdSAnxmxIWY4AMy1uSjU917ALSSWuQO0vNPie77C7uMi_Ua4i4nJgtx9cucEPnn44Bw77gZZ4XVlIQljqCNn9AAzVSYt4cCOaMMSe-a04Bf5y0kK47VKtJfZElArWT2yYatUCZsildEWv0qET9F9zIX3XUK-dyTYUACtJGi-jKXUwjVCvo7NwDO-iBgecF0&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w"
+          }
+        ]
+      },
+      {
+        "title": "Is it okay to post 3-4 shorts a day on YouTube?",
+        "link": "https://www.google.com/goto?url=CAESgQEBxCJF13mLJz6PR2lEdYK5Fsx_sSTIEpxhAXainrD6IyflgBKixZY5QPDta0nbdQnln1Iyq_4rRIJoTokmpHE9S7EUlLd3E5aIvEhP3KajcqWDUPMcV-aPSyUVlJWLi8jZelpJ2eLU3gUQhoP20NsZ2XroWGezSgKCn-D3NLwtHMY&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w",
+        "date": "2 years ago",
+        "extensions": [
+          "30+ answers"
+        ],
+        "source": "Quora",
+        "answers": [
+          {
+            "link": "https://www.google.com/goto?url=CAESmgEBxCJF1yTfsw89Ihbta4fr4QzFVq9jOLFRCpr-TRtWoR1LiOg0yLJm7tiGiRWgqU3SCAiFitWwqb4PSLHn56WsBMqE4y0RCYg2GYqpRIxcWaYLEGQgkadal7aPwhdnAhxQ2z0vGeCzoFUy68do9muxvUs9_iEaCmxM8m5JirYlDzzIX_b3cdSzd1zsXFwxJaVaONagzV2AJHEm&gsessionid=WPXQCT2QGs5Geb3whhg0vTCqeLKsCCSVuK25ZSSDilmHLBZcoTJb2w",
+            "extensions": [
+              "Top answer",
+              "2 years ago"
+            ]
+          }
+        ]
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=How+do+creators+produce+3+shorts+a+day+without+hiring+editors?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDik9GVCuvepxcdNH1BJSM8tDeOXMQ:1795355218209&ei=UvICa5iiDLugptQPjcGQoQo&start=10&sa=N&sstk=AYl2yk9vfrso6kud3YUm2hdrY_KhmiN4rmIcq7lIzyiGxGZf7GEzsAAhaccN7Kdb_0OhA7MCxj2I24fRtdA0A8fp_KIowaiuh4ZSJg&ved=2ahUKEwiYk5uw25uYAxU7kIkEHY0gJKQQ8NMDegQINxAM",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=How+do+creators+produce+3+shorts+a+day+without+hiring+editors?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDik9GVCuvepxcdNH1BJSM8tDeOXMQ:1795355218209&ei=UvICa5iiDLugptQPjcGQoQo&start=10&sa=N&sstk=AYl2yk9vfrso6kud3YUm2hdrY_KhmiN4rmIcq7lIzyiGxGZf7GEzsAAhaccN7Kdb_0OhA7MCxj2I24fRtdA0A8fp_KIowaiuh4ZSJg&ved=2ahUKEwiYk5uw25uYAxU7kIkEHY0gJKQQ8tMDegQINxAE",
+        "3": "https://www.google.com/search?q=How+do+creators+produce+3+shorts+a+day+without+hiring+editors?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDik9GVCuvepxcdNH1BJSM8tDeOXMQ:1795355218209&ei=UvICa5iiDLugptQPjcGQoQo&start=20&sa=N&sstk=AYl2yk9vfrso6kud3YUm2hdrY_KhmiN4rmIcq7lIzyiGxGZf7GEzsAAhaccN7Kdb_0OhA7MCxj2I24fRtdA0A8fp_KIowaiuh4ZSJg&ved=2ahUKEwiYk5uw25uYAxU7kIkEHY0gJKQQ8tMDegQINxAG",
+        "4": "https://www.google.com/search?q=How+do+creators+produce+3+shorts+a+day+without+hiring+editors?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDik9GVCuvepxcdNH1BJSM8tDeOXMQ:1795355218209&ei=UvICa5iiDLugptQPjcGQoQo&start=30&sa=N&sstk=AYl2yk9vfrso6kud3YUm2hdrY_KhmiN4rmIcq7lIzyiGxGZf7GEzsAAhaccN7Kdb_0OhA7MCxj2I24fRtdA0A8fp_KIowaiuh4ZSJg&ved=2ahUKEwiYk5uw25uYAxU7kIkEHY0gJKQQ8tMDegQINxAI",
+        "5": "https://www.google.com/search?q=How+do+creators+produce+3+shorts+a+day+without+hiring+editors?&sca_esv=c653c500caaf7fef&hl=en&gl=us&sxsrf=AKL5yDik9GVCuvepxcdNH1BJSM8tDeOXMQ:1795355218209&ei=UvICa5iiDLugptQPjcGQoQo&start=40&sa=N&sstk=AYl2yk9vfrso6kud3YUm2hdrY_KhmiN4rmIcq7lIzyiGxGZf7GEzsAAhaccN7Kdb_0OhA7MCxj2I24fRtdA0A8fp_KIowaiuh4ZSJg&ved=2ahUKEwiYk5uw25uYAxU7kIkEHY0gJKQQ8tMDegQINxAK"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+do+creators+produce+3+shorts+a+day+without+hiring+editors%3F&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+do+creators+produce+3+shorts+a+day+without+hiring+editors%3F&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+do+creators+produce+3+shorts+a+day+without+hiring+editors%3F&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+do+creators+produce+3+shorts+a+day+without+hiring+editors%3F&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+do+creators+produce+3+shorts+a+day+without+hiring+editors%3F&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+do+creators+produce+3+shorts+a+day+without+hiring+editors%3F&start=40"
+      }
+    }
+  },
+  "error_details": null
+}

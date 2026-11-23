@@ -1,0 +1,534 @@
+{
+  "measurement_id": "2bbb138be1bb",
+  "question_id": "Q002",
+  "timestamp_utc": "2026-11-23T08:57:25.528568+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "What is the best AI tool to create shorts from long videos?",
+  "market": "US",
+  "collection_method": "DAY_2_AUTOMATED_API",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://www.reddit.com/r/PartneredYoutube/comments/1ffr8bu/what_are_the_best_ai_tools_to_create_short_videos/",
+    "https://www.opus.pro/tools/youtube-shorts-maker",
+    "https://www.vmaker.com/tools/long-video-to-short-video-ai",
+    "https://invideo.io/make/ai-youtube-shorts-generator/",
+    "https://www.canva.com/features/ai-shorts-maker/",
+    "https://www.facebook.com/groups/BuzzsproutCommunity/posts/8554026277950444/",
+    "https://www.adobe.com/express/feature/ai/video/convert/long-to-short"
+  ],
+  "raw_text_summary": "What are the best AI tools to create short videos for ... Hey guys! I spent weeks researching for the best AI tools to create content media, I even create a directory to help to navigate this crowded world. ... YouTube Shorts Maker - Create Shorts Free with AI OpusClip turns long videos into vertical YouTube Shorts with AI by picking the strongest moments, reframing them to 9:16 and adding captions. Free Long Video to Short Video AI Converter Turn long-form videos into ready-to-post shorts with Vmaker AI. Upload a podcast, webinar, or interview and get Shorts, Reels, and TikToks in minutes. AI YouTube Shorts Generator: Create Shorts Turn an idea into a YouTube Short with invideo. Create scenes, narration and captions, then adjust the opening, pacing and ending on the timeline. AI YouTube Shorts Maker Free AI Shorts Maker. Create engaging, high-quality short-form videos in just a few seconds with Canva's AI YouTube Shorts maker. What is the best AI online tool for making YouTube shorts ... Hi everyone, does anyone have a favorite AI online tool that you use to make YouTube shorts from your video recording? I have tried both Opus and ... AI long to short video converter. - Adobe Express Our Clip Maker uses AI to pick out the best moments from your long videos and turns them into short, shareable clips. It adds dynamic subtitles and adjusts ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b03fff3b779dc08325ed447",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/Eb8f4eq22QLzrnXxX-US-eswIsI7p1-3XdFaX5X88XI/6b03fff3b779dc08325ed447.json",
+      "markdown_endpoint": "https://serpapi.com/searches/Eb8f4eq22QLzrnXxX-US-eswIsI7p1-3XdFaX5X88XI/6b03fff3b779dc08325ed447.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/Eb8f4eq22QLzrnXxX-US-eswIsI7p1-3XdFaX5X88XI/6b03fff3b779dc08325ed447.json_with_pixel_position",
+      "created_at": "2026-11-23 08:57:23 UTC",
+      "processed_at": "2026-11-23 08:57:23 UTC",
+      "google_url": "https://www.google.com/search?q=What+is+the+best+AI+tool+to+create+shorts+from+long+videos%3F&oq=What+is+the+best+AI+tool+to+create+shorts+from+long+videos%3F&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/Eb8f4eq22QLzrnXxX-US-eswIsI7p1-3XdFaX5X88XI/6b03fff3b779dc08325ed447.html",
+      "total_time_taken": 0.61
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "What is the best AI tool to create shorts from long videos?",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "What is the best AI tool to create shorts from long videos?",
+      "total_results": 117,
+      "time_taken_displayed": 0.2,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "The 4 Best AI Shorts Maker for 2026 (Honest Look!)",
+        "link": "https://www.youtube.com/watch?v=xzdpeHVuB8U",
+        "thumbnail": "https://serpapi.com/searches/6b03fff3b779dc08325ed447/images/aP1nDg3Ut_fRf2PXhvubu5E8Y-nLyui5xt6qe0ijcJo.jpg",
+        "channel": "Tom Blake",
+        "duration": "13:10",
+        "platform": "YouTube",
+        "date": "Jun 30, 2026",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTeDIsSbYNR5oNjptdMbB-SobJHAASRdBUbcQ",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "Getting Started",
+            "link": "https://www.youtube.com/watch?v=xzdpeHVuB8U&t=0"
+          },
+          {
+            "time": "00:44",
+            "title": "My Number One Pick",
+            "link": "https://www.youtube.com/watch?v=xzdpeHVuB8U&t=44"
+          },
+          {
+            "time": "05:01",
+            "title": "Option 2",
+            "link": "https://www.youtube.com/watch?v=xzdpeHVuB8U&t=301"
+          },
+          {
+            "time": "06:55",
+            "title": "Option 3",
+            "link": "https://www.youtube.com/watch?v=xzdpeHVuB8U&t=415"
+          },
+          {
+            "time": "09:06",
+            "title": "Option 4",
+            "link": "https://www.youtube.com/watch?v=xzdpeHVuB8U&t=546"
+          },
+          {
+            "time": "11:07",
+            "title": "Tips For Making Content",
+            "link": "https://www.youtube.com/watch?v=xzdpeHVuB8U&t=667"
+          },
+          {
+            "time": "12:35",
+            "title": "Next Steps",
+            "link": "https://www.youtube.com/watch?v=xzdpeHVuB8U&t=755"
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "title": "6 AI Tools for Taking 1 Long-Form Video to Make Viral Shorts",
+        "link": "https://www.youtube.com/shorts/M5aCpVauJn8",
+        "thumbnail": "https://serpapi.com/searches/6b03fff3b779dc08325ed447/images/XkIfQk9UcU6iiqATplWP2bfK2gOr6X7bBAGPYrksezQ.jpg",
+        "channel": "Enrico Incarnati",
+        "duration": "1:01",
+        "platform": "YouTube",
+        "date": "Apr 30, 2026",
+        "snippet": "Video.ai, GetMunch.com, Opus.pro, Riverside.fm, Clap.app, and TubeBuddy are AI tools to create viral short-form videos from long-form content.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTZlTLbo9qh_5-RSD-tKszLvyn-LH490eL4og"
+      },
+      {
+        "position": 3,
+        "title": "Make YouTube Shorts With AI in 20 Minutes",
+        "link": "https://www.youtube.com/watch?v=gVpZToZx5js",
+        "thumbnail": "https://serpapi.com/searches/6b03fff3b779dc08325ed447/images/SoQCMcMnB1q46gRZbEj57MkLnavIbd-tin4eLep9n78.jpg",
+        "channel": "Diego Galvao",
+        "duration": "8:55",
+        "platform": "YouTube",
+        "date": "3 days ago",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTovBiuvZkYZVQ-_ClephtH0UWyyxRRkwMK2g"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "How to make Shorts from long video AI?",
+        "type": "ai_overview",
+        "page_token": "B-2w0XicHdBRbpswGABgVbtLHxsCSbZEiqZRDA0KZBD_P-CXytgkTnGAUi-QPPYsfdphdoBdYwfYpH1H-N4_9Kmpf99dlDHd22oyGYbh4di2R109iPY84W_XRkwE17rkol4tPi-mXw9iTX5s3MfXjZtASgotdYbkyh35lNzAojR1S-061AKD1B-4NcwAln1hoRdpqXJrvqX2EinGL7HNFuC5edGEGk7WuLfQKhqXRC_yAjrs4SZrQHnNGtkyhxXcVqPAzpU5cnFLAyBfZruAddQLXWqbs_QwRz9mu8BEVaM0hWQaw3Iss26Gts6Tpou2KOsqZ_U2V98RNgNCyPaEOTz_NtIgttKgc4gSc_AUKSiDGNJIZmaQvp8wJ7JL26R8bE8JqF1EwEk1bsoAfSAhzYLpXPi6L6fdo_RVHWXsiQLu2XB_EJe1c___c_18OJtV17fHn6KvuKnkMze_6k9___wD9eSKGg",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=B-2w0XicHdBRbpswGABgVbtLHxsCSbZEiqZRDA0KZBD_P-CXytgkTnGAUi-QPPYsfdphdoBdYwfYpH1H-N4_9Kmpf99dlDHd22oyGYbh4di2R109iPY84W_XRkwE17rkol4tPi-mXw9iTX5s3MfXjZtASgotdYbkyh35lNzAojR1S-061AKD1B-4NcwAln1hoRdpqXJrvqX2EinGL7HNFuC5edGEGk7WuLfQKhqXRC_yAjrs4SZrQHnNGtkyhxXcVqPAzpU5cnFLAyBfZruAddQLXWqbs_QwRz9mu8BEVaM0hWQaw3Iss26Gts6Tpou2KOsqZ_U2V98RNgNCyPaEOTz_NtIgttKgc4gSc_AUKSiDGNJIZmaQvp8wJ7JL26R8bE8JqF1EwEk1bsoAfSAhzYLpXPi6L6fdo_RVHWXsiQLu2XB_EJe1c___c_18OJtV17fHn6KvuKnkMze_6k9___wD9eSKGg",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaE4zRkVUVkpxYzA5UU5YZHhjbEZxUjNwWVMyY3phSGhRVFhSc2NXRk5TMEV6Y0hKb1lqa3dlV0V6Vm1wbk0zRktaMHh0VVZKM1pWbzBla3RLUWxsMlJWVmZjMHRNU0UxVlkwcEtYMmgzVm1KeWRuTTNhREZhUmkxaVFSSVhPVkE0UkdFMlZEVkVUSFZyY0hSUlVHZHpObTlyVVdzYUlrRklUakJGTjBWNFMxUmtWVzkwUkVsbGIzcDJZMUZJY2tjNFIyODFRVEJ2Ym1jIiwiZmN2IjoiMyIsImVpIjoiOVA4RGE2VDVETHVrcHRRUGdzNm9rUWsiLCJxYyI6IkNqcDNhR0YwSUdseklIUm9aU0JpWlhOMElHRnBJSFJ2YjJ3Z2RHOGdZM0psWVhSbElITm9iM0owY3lCbWNtOXRJR3h2Ym1jZ2RtbGtaVzl6RUFCOVNSd0NQdyIsInF1ZXN0aW9uIjoiSG93IHRvIG1ha2UgU2hvcnRzIGZyb20gbG9uZyB2aWRlbyBBST8iLCJsayI6IkdpVm9iM2NnZEc4Z2JXRnJaU0J6YUc5eWRITWdabkp2YlNCc2IyNW5JSFpwWkdWdklHRnAiLCJicyI6ImMyMlBQUXZDTUJSRmNjM2szT25oSjJqUjJEOVF4TVhpSkJaRW5OS2FtcUR0Z3lheDlOLWJ0RlFGLS1CdDUzRHZKVWN5MjJNRkdpRm5EdzRuZ2FWV2tKV1l3eE9MTzd6a2pTTnNvekNZZTFQeFE2cC1ra2x5SmN1emtLbXdGa2dGQ1ZjYU1peWRKaTEzUVJPYnBJc0tBOTliVkEzT1pCOWVvOUVPYl9NSUkydlhOemRXeUxIZ3RYTTJQcVhVdlMzQkt3Vll3Q1gtQkt3OFhfd3J0TG12VU9zdTRrREdPMVpBQkVaeHQ2RmJ6RnFnSFJvR0UyLVVXa3cybU8zZWl3MEhidyIsImlkIjoiZmNfOVA4RGE2VDVETHVrcHRRUGdzNm9rUWtfNyJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaE4zRkVUVkpxYzA5UU5YZHhjbEZxUjNwWVMyY3phSGhRVFhSc2NXRk5TMEV6Y0hKb1lqa3dlV0V6Vm1wbk0zRktaMHh0VVZKM1pWbzBla3RLUWxsMlJWVmZjMHRNU0UxVlkwcEtYMmgzVm1KeWRuTTNhREZhUmkxaVFSSVhPVkE0UkdFMlZEVkVUSFZyY0hSUlVHZHpObTlyVVdzYUlrRklUakJGTjBWNFMxUmtWVzkwUkVsbGIzcDJZMUZJY2tjNFIyODFRVEJ2Ym1jIiwiZmN2IjoiMyIsImVpIjoiOVA4RGE2VDVETHVrcHRRUGdzNm9rUWsiLCJxYyI6IkNqcDNhR0YwSUdseklIUm9aU0JpWlhOMElHRnBJSFJ2YjJ3Z2RHOGdZM0psWVhSbElITm9iM0owY3lCbWNtOXRJR3h2Ym1jZ2RtbGtaVzl6RUFCOVNSd0NQdyIsInF1ZXN0aW9uIjoiSG93IHRvIG1ha2UgU2hvcnRzIGZyb20gbG9uZyB2aWRlbyBBST8iLCJsayI6IkdpVm9iM2NnZEc4Z2JXRnJaU0J6YUc5eWRITWdabkp2YlNCc2IyNW5JSFpwWkdWdklHRnAiLCJicyI6ImMyMlBQUXZDTUJSRmNjM2szT25oSjJqUjJEOVF4TVhpSkJaRW5OS2FtcUR0Z3lheDlOLWJ0RlFGLS1CdDUzRHZKVWN5MjJNRkdpRm5EdzRuZ2FWV2tKV1l3eE9MTzd6a2pTTnNvekNZZTFQeFE2cC1ra2x5SmN1emtLbXdGa2dGQ1ZjYU1peWRKaTEzUVJPYnBJc0tBOTliVkEzT1pCOWVvOUVPYl9NSUkydlhOemRXeUxIZ3RYTTJQcVhVdlMzQkt3Vll3Q1gtQkt3OFhfd3J0TG12VU9zdTRrREdPMVpBQkVaeHQ2RmJ6RnFnSFJvR0UyLVVXa3cybU8zZWl3MEhidyIsImlkIjoiZmNfOVA4RGE2VDVETHVrcHRRUGdzNm9rUWtfNyJ9"
+      },
+      {
+        "question": "Which AI is best for making YouTube Shorts?",
+        "type": "ai_overview",
+        "page_token": "uLeYSXicHdBRbpswAIBhTbtLHxscSKdFiipR7BYmnNlgA36pjJ3gYBPSxC0tjzvLnnqYHWDX2AG2ahf49en_8dMdjvb3pxfj_emyXiymabruxrFzu2s1Dgt5eTuqhZLOtVLZ9c2XG3C7Vxv4nMZ3T2lMGIWN064ZRNpCnudzHGM2AdljrjhyNYgjFgBYWjQK2AGcxFUbfI1lrw09ilQwNBSlLljo3hrWgTxhq6LHTcPSaMtxVM7isoX-qQ50IgbR57U764cs5QOuOTphAbNmyzPO-ywigWM8sCsesuijIXVpSLukzx-OoggdyufMa3T6XlkjeYnvCbBAQeOIdd_aXq9IKIaq1vflA6XQqBVLDGxKwTCjua78pBEiIsyX7dJT-ToeCDPbHLKQWmpo0oGKoTs9-LmeYURcdmwTc6CJo9R6R8jVXr1swqv_PzeP-8GvT-exe1fnnfQ7_Sj9L_v5759_g4yKNg",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=uLeYSXicHdBRbpswAIBhTbtLHxscSKdFiipR7BYmnNlgA36pjJ3gYBPSxC0tjzvLnnqYHWDX2AG2ahf49en_8dMdjvb3pxfj_emyXiymabruxrFzu2s1Dgt5eTuqhZLOtVLZ9c2XG3C7Vxv4nMZ3T2lMGIWN064ZRNpCnudzHGM2AdljrjhyNYgjFgBYWjQK2AGcxFUbfI1lrw09ilQwNBSlLljo3hrWgTxhq6LHTcPSaMtxVM7isoX-qQ50IgbR57U764cs5QOuOTphAbNmyzPO-ywigWM8sCsesuijIXVpSLukzx-OoggdyufMa3T6XlkjeYnvCbBAQeOIdd_aXq9IKIaq1vflA6XQqBVLDGxKwTCjua78pBEiIsyX7dJT-ToeCDPbHLKQWmpo0oGKoTs9-LmeYURcdmwTc6CJo9R6R8jVXr1swqv_PzeP-8GvT-exe1fnnfQ7_Sj9L_v5759_g4yKNg",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaE4zRkVUVkpxYzA5UU5YZHhjbEZxUjNwWVMyY3phSGhRVFhSc2NXRk5TMEV6Y0hKb1lqa3dlV0V6Vm1wbk0zRktaMHh0VVZKM1pWbzBla3RLUWxsMlJWVmZjMHRNU0UxVlkwcEtYMmgzVm1KeWRuTTNhREZhUmkxaVFSSVhPVkE0UkdFMlZEVkVUSFZyY0hSUlVHZHpObTlyVVdzYUlrRklUakJGTjBWNFMxUmtWVzkwUkVsbGIzcDJZMUZJY2tjNFIyODFRVEJ2Ym1jIiwiZmN2IjoiMyIsImVpIjoiOVA4RGE2VDVETHVrcHRRUGdzNm9rUWsiLCJxYyI6IkNqcDNhR0YwSUdseklIUm9aU0JpWlhOMElHRnBJSFJ2YjJ3Z2RHOGdZM0psWVhSbElITm9iM0owY3lCbWNtOXRJR3h2Ym1jZ2RtbGtaVzl6RUFCOVNSd0NQdyIsInF1ZXN0aW9uIjoiV2hpY2ggQUkgaXMgYmVzdCBmb3IgbWFraW5nIFlvdVR1YmUgU2hvcnRzPyIsImxrIjoiR2lwM2FHbGphQ0JoYVNCcGN5QmlaWE4wSUdadmNpQnRZV3RwYm1jZ2VXOTFkSFZpWlNCemFHOXlkSE0iLCJicyI6ImMyMlBQUXZDTUJSRmNjM2szT25oSjJqUjJEOVF4TVhpSkJaRW5OS2FtcUR0Z3lheDlOLWJ0RlFGLS1CdDUzRHZKVWN5MjJNRkdpRm5EdzRuZ2FWV2tKV1l3eE9MTzd6a2pTTnNvekNZZTFQeFE2cC1ra2x5SmN1emtLbXdGa2dGQ1ZjYU1peWRKaTEzUVJPYnBJc0tBOTliVkEzT1pCOWVvOUVPYl9NSUkydlhOemRXeUxIZ3RYTTJQcVhVdlMzQkt3Vll3Q1gtQkt3OFhfd3J0TG12VU9zdTRrREdPMVpBQkVaeHQ2RmJ6RnFnSFJvR0UyLVVXa3cybU8zZWl3MEhidyIsImlkIjoiZmNfOVA4RGE2VDVETHVrcHRRUGdzNm9rUWtfNyJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaE4zRkVUVkpxYzA5UU5YZHhjbEZxUjNwWVMyY3phSGhRVFhSc2NXRk5TMEV6Y0hKb1lqa3dlV0V6Vm1wbk0zRktaMHh0VVZKM1pWbzBla3RLUWxsMlJWVmZjMHRNU0UxVlkwcEtYMmgzVm1KeWRuTTNhREZhUmkxaVFSSVhPVkE0UkdFMlZEVkVUSFZyY0hSUlVHZHpObTlyVVdzYUlrRklUakJGTjBWNFMxUmtWVzkwUkVsbGIzcDJZMUZJY2tjNFIyODFRVEJ2Ym1jIiwiZmN2IjoiMyIsImVpIjoiOVA4RGE2VDVETHVrcHRRUGdzNm9rUWsiLCJxYyI6IkNqcDNhR0YwSUdseklIUm9aU0JpWlhOMElHRnBJSFJ2YjJ3Z2RHOGdZM0psWVhSbElITm9iM0owY3lCbWNtOXRJR3h2Ym1jZ2RtbGtaVzl6RUFCOVNSd0NQdyIsInF1ZXN0aW9uIjoiV2hpY2ggQUkgaXMgYmVzdCBmb3IgbWFraW5nIFlvdVR1YmUgU2hvcnRzPyIsImxrIjoiR2lwM2FHbGphQ0JoYVNCcGN5QmlaWE4wSUdadmNpQnRZV3RwYm1jZ2VXOTFkSFZpWlNCemFHOXlkSE0iLCJicyI6ImMyMlBQUXZDTUJSRmNjM2szT25oSjJqUjJEOVF4TVhpSkJaRW5OS2FtcUR0Z3lheDlOLWJ0RlFGLS1CdDUzRHZKVWN5MjJNRkdpRm5EdzRuZ2FWV2tKV1l3eE9MTzd6a2pTTnNvekNZZTFQeFE2cC1ra2x5SmN1emtLbXdGa2dGQ1ZjYU1peWRKaTEzUVJPYnBJc0tBOTliVkEzT1pCOWVvOUVPYl9NSUkydlhOemRXeUxIZ3RYTTJQcVhVdlMzQkt3Vll3Q1gtQkt3OFhfd3J0TG12VU9zdTRrREdPMVpBQkVaeHQ2RmJ6RnFnSFJvR0UyLVVXa3cybU8zZWl3MEhidyIsImlkIjoiZmNfOVA4RGE2VDVETHVrcHRRUGdzNm9rUWtfNyJ9"
+      },
+      {
+        "question": "How much money is 1,000,000 views on YT Shorts?",
+        "type": "ai_overview",
+        "page_token": "64PJ2HicHdBfbpswHABgTbtLHxv-iG6JFE2imCRM0Nmxfwa_VI7thIADrPUK5bFn6VMPswPsGjtAO-3pe_9eXu25a_98eqqdGx5Xi8U4jtenvj9Zc636y0I-PndqoaS1B6na1c2XG__bUa3Rr118-3MXY0ZQZbWtmtgzmyFXnkViO8iqqeO8ISmF7Aw2LQ5lvFFz9iwaG-HLdGtgWZQBKXkbVdjXE7mIqLLK49vBF6lg0OZOlnVEGMGyK2bY-1CVytHO7mgQNTTUyT4YesM00EYQ4DAK-3UCXtcHm3nSG0AlKQake7lJtwZFCDNx5lxTDWIsZjbl_6Sb6buxNuLp0qdhPVFPTzSwIapVxJIaVVSwgpFcczfqNMUizIND4Iic-jNm9V2OWEiC5Qx-NpIEYD9DSbk33yV2S33tcAc_TGMzPV4d1dM6vPr_ub4_XtxqeOhPb-rBSGf0vXS_28_vfz8AUz2Lvg",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=64PJ2HicHdBfbpswHABgTbtLHxv-iG6JFE2imCRM0Nmxfwa_VI7thIADrPUK5bFn6VMPswPsGjtAO-3pe_9eXu25a_98eqqdGx5Xi8U4jtenvj9Zc636y0I-PndqoaS1B6na1c2XG__bUa3Rr118-3MXY0ZQZbWtmtgzmyFXnkViO8iqqeO8ISmF7Aw2LQ5lvFFz9iwaG-HLdGtgWZQBKXkbVdjXE7mIqLLK49vBF6lg0OZOlnVEGMGyK2bY-1CVytHO7mgQNTTUyT4YesM00EYQ4DAK-3UCXtcHm3nSG0AlKQake7lJtwZFCDNx5lxTDWIsZjbl_6Sb6buxNuLp0qdhPVFPTzSwIapVxJIaVVSwgpFcczfqNMUizIND4Iic-jNm9V2OWEiC5Qx-NpIEYD9DSbk33yV2S33tcAc_TGMzPV4d1dM6vPr_ub4_XtxqeOhPb-rBSGf0vXS_28_vfz8AUz2Lvg",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaE4zRkVUVkpxYzA5UU5YZHhjbEZxUjNwWVMyY3phSGhRVFhSc2NXRk5TMEV6Y0hKb1lqa3dlV0V6Vm1wbk0zRktaMHh0VVZKM1pWbzBla3RLUWxsMlJWVmZjMHRNU0UxVlkwcEtYMmgzVm1KeWRuTTNhREZhUmkxaVFSSVhPVkE0UkdFMlZEVkVUSFZyY0hSUlVHZHpObTlyVVdzYUlrRklUakJGTjBWNFMxUmtWVzkwUkVsbGIzcDJZMUZJY2tjNFIyODFRVEJ2Ym1jIiwiZmN2IjoiMyIsImVpIjoiOVA4RGE2VDVETHVrcHRRUGdzNm9rUWsiLCJxYyI6IkNqcDNhR0YwSUdseklIUm9aU0JpWlhOMElHRnBJSFJ2YjJ3Z2RHOGdZM0psWVhSbElITm9iM0owY3lCbWNtOXRJR3h2Ym1jZ2RtbGtaVzl6RUFCOVNSd0NQdyIsInF1ZXN0aW9uIjoiSG93IG11Y2ggbW9uZXkgaXMgMSwwMDAsMDAwIHZpZXdzIG9uIFlUIFNob3J0cz8iLCJsayI6ImM1UFN5Y2d2VjhndFRjNVF5TTNQUzYxVXlDeFdNRFFBQTRXeXpOVHlZb1g4UElYS0VvWGlqUHlpa21JQSIsImJzIjoiYzIyUFBRdkNNQlJGY2MzazNPbmhKMmpSMkQ5UXhNWGlKQlpFbk5LYW1xRHRneWF4OU4tYnRGUUYtLUJ0NTNEdkpVY3kyMk1GR2lGbkR3NG5nYVZXa0pXWXd4T0xPN3pralNOc296Q1llMVB4UTZwLWtrbHlKY3V6a0ttd0ZrZ0ZDVmNhTWl5ZEppMTNRUk9icElzS0E5OWJWQTNPWkI5ZW85RU9iX01JSTJ2WE56ZFd5TEhndFhNMlBxWFV2UzNCS3dWWXdDWC1CS3c4WF93cnRMbXZVT3N1NGtER08xWkFCRVp4dDZGYnpGcWdIUm9HRTItVVdrdzJtTzNlaXcwSGJ3IiwiaWQiOiJmY185UDhEYTZUNURMdWtwdFFQZ3M2b2tRa183In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaE4zRkVUVkpxYzA5UU5YZHhjbEZxUjNwWVMyY3phSGhRVFhSc2NXRk5TMEV6Y0hKb1lqa3dlV0V6Vm1wbk0zRktaMHh0VVZKM1pWbzBla3RLUWxsMlJWVmZjMHRNU0UxVlkwcEtYMmgzVm1KeWRuTTNhREZhUmkxaVFSSVhPVkE0UkdFMlZEVkVUSFZyY0hSUlVHZHpObTlyVVdzYUlrRklUakJGTjBWNFMxUmtWVzkwUkVsbGIzcDJZMUZJY2tjNFIyODFRVEJ2Ym1jIiwiZmN2IjoiMyIsImVpIjoiOVA4RGE2VDVETHVrcHRRUGdzNm9rUWsiLCJxYyI6IkNqcDNhR0YwSUdseklIUm9aU0JpWlhOMElHRnBJSFJ2YjJ3Z2RHOGdZM0psWVhSbElITm9iM0owY3lCbWNtOXRJR3h2Ym1jZ2RtbGtaVzl6RUFCOVNSd0NQdyIsInF1ZXN0aW9uIjoiSG93IG11Y2ggbW9uZXkgaXMgMSwwMDAsMDAwIHZpZXdzIG9uIFlUIFNob3J0cz8iLCJsayI6ImM1UFN5Y2d2VjhndFRjNVF5TTNQUzYxVXlDeFdNRFFBQTRXeXpOVHlZb1g4UElYS0VvWGlqUHlpa21JQSIsImJzIjoiYzIyUFBRdkNNQlJGY2MzazNPbmhKMmpSMkQ5UXhNWGlKQlpFbk5LYW1xRHRneWF4OU4tYnRGUUYtLUJ0NTNEdkpVY3kyMk1GR2lGbkR3NG5nYVZXa0pXWXd4T0xPN3pralNOc296Q1llMVB4UTZwLWtrbHlKY3V6a0ttd0ZrZ0ZDVmNhTWl5ZEppMTNRUk9icElzS0E5OWJWQTNPWkI5ZW85RU9iX01JSTJ2WE56ZFd5TEhndFhNMlBxWFV2UzNCS3dWWXdDWC1CS3c4WF93cnRMbXZVT3N1NGtER08xWkFCRVp4dDZGYnpGcWdIUm9HRTItVVdrdzJtTzNlaXcwSGJ3IiwiaWQiOiJmY185UDhEYTZUNURMdWtwdFFQZ3M2b2tRa183In0%3D"
+      },
+      {
+        "question": "Can I use AI to make a short video?",
+        "type": "ai_overview",
+        "page_token": "6nMdsHicHdBLTsJAAADQGO_CEvoRTEiIcaQtNLQwX9puyDADDDDtFBgpsvQsrjyMB_AaHkCJ-7d67x96W-2_787K2vrU73SapmlvjNnoVVuYssNPb5XoCK71kot9v_fYc5_WYhC8jsHLYQwgRUGupc5LFePSDVG2sTxCKaTQxwyZInJc6Si7ZEwnc2u4F1jI2ARnzw0iwE2INNih_oTomrqyy329E1FobnyLndSjtE6TuTsjOsVkrwJEFZaVuLJRaFEUeyRQOd_JrmSgx8LQJ1H3xKr8whzEilFMsYNiwUAhaX2YUAnkNT2zqriQaPwwjRReZqmLKlAVXj3CXmp5FiekjP1AiS4dqiAnBU0pSuTcNjIMYeEn3tKziF_MFlI1TQLqo1LOci9Ucijt_PZAd2wCs_rENABTAi98B5uiaa3FeeC3_j8Hi3Vp-_XRbD7FccXtSi64_drf__78Af8Wiqw",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=6nMdsHicHdBLTsJAAADQGO_CEvoRTEiIcaQtNLQwX9puyDADDDDtFBgpsvQsrjyMB_AaHkCJ-7d67x96W-2_787K2vrU73SapmlvjNnoVVuYssNPb5XoCK71kot9v_fYc5_WYhC8jsHLYQwgRUGupc5LFePSDVG2sTxCKaTQxwyZInJc6Si7ZEwnc2u4F1jI2ARnzw0iwE2INNih_oTomrqyy329E1FobnyLndSjtE6TuTsjOsVkrwJEFZaVuLJRaFEUeyRQOd_JrmSgx8LQJ1H3xKr8whzEilFMsYNiwUAhaX2YUAnkNT2zqriQaPwwjRReZqmLKlAVXj3CXmp5FiekjP1AiS4dqiAnBU0pSuTcNjIMYeEn3tKziF_MFlI1TQLqo1LOci9Ucijt_PZAd2wCs_rENABTAi98B5uiaa3FeeC3_j8Hi3Vp-_XRbD7FccXtSi64_drf__78Af8Wiqw",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaE4zRkVUVkpxYzA5UU5YZHhjbEZxUjNwWVMyY3phSGhRVFhSc2NXRk5TMEV6Y0hKb1lqa3dlV0V6Vm1wbk0zRktaMHh0VVZKM1pWbzBla3RLUWxsMlJWVmZjMHRNU0UxVlkwcEtYMmgzVm1KeWRuTTNhREZhUmkxaVFSSVhPVkE0UkdFMlZEVkVUSFZyY0hSUlVHZHpObTlyVVdzYUlrRklUakJGTjBWNFMxUmtWVzkwUkVsbGIzcDJZMUZJY2tjNFIyODFRVEJ2Ym1jIiwiZmN2IjoiMyIsImVpIjoiOVA4RGE2VDVETHVrcHRRUGdzNm9rUWsiLCJxYyI6IkNqcDNhR0YwSUdseklIUm9aU0JpWlhOMElHRnBJSFJ2YjJ3Z2RHOGdZM0psWVhSbElITm9iM0owY3lCbWNtOXRJR3h2Ym1jZ2RtbGtaVzl6RUFCOVNSd0NQdyIsInF1ZXN0aW9uIjoiQ2FuIEkgdXNlIEFJIHRvIG1ha2UgYSBzaG9ydCB2aWRlbz8iLCJsayI6IkdpSmpZVzRnYVNCMWMyVWdZV2tnZEc4Z2JXRnJaU0JoSUhOb2IzSjBJSFpwWkdWdiIsImJzIjoiYzIyUFBRdkNNQlJGY2MzazNPbmhKMmpSMkQ5UXhNWGlKQlpFbk5LYW1xRHRneWF4OU4tYnRGUUYtLUJ0NTNEdkpVY3kyMk1GR2lGbkR3NG5nYVZXa0pXWXd4T0xPN3pralNOc296Q1llMVB4UTZwLWtrbHlKY3V6a0ttd0ZrZ0ZDVmNhTWl5ZEppMTNRUk9icElzS0E5OWJWQTNPWkI5ZW85RU9iX01JSTJ2WE56ZFd5TEhndFhNMlBxWFV2UzNCS3dWWXdDWC1CS3c4WF93cnRMbXZVT3N1NGtER08xWkFCRVp4dDZGYnpGcWdIUm9HRTItVVdrdzJtTzNlaXcwSGJ3IiwiaWQiOiJmY185UDhEYTZUNURMdWtwdFFQZ3M2b2tRa183In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaE4zRkVUVkpxYzA5UU5YZHhjbEZxUjNwWVMyY3phSGhRVFhSc2NXRk5TMEV6Y0hKb1lqa3dlV0V6Vm1wbk0zRktaMHh0VVZKM1pWbzBla3RLUWxsMlJWVmZjMHRNU0UxVlkwcEtYMmgzVm1KeWRuTTNhREZhUmkxaVFSSVhPVkE0UkdFMlZEVkVUSFZyY0hSUlVHZHpObTlyVVdzYUlrRklUakJGTjBWNFMxUmtWVzkwUkVsbGIzcDJZMUZJY2tjNFIyODFRVEJ2Ym1jIiwiZmN2IjoiMyIsImVpIjoiOVA4RGE2VDVETHVrcHRRUGdzNm9rUWsiLCJxYyI6IkNqcDNhR0YwSUdseklIUm9aU0JpWlhOMElHRnBJSFJ2YjJ3Z2RHOGdZM0psWVhSbElITm9iM0owY3lCbWNtOXRJR3h2Ym1jZ2RtbGtaVzl6RUFCOVNSd0NQdyIsInF1ZXN0aW9uIjoiQ2FuIEkgdXNlIEFJIHRvIG1ha2UgYSBzaG9ydCB2aWRlbz8iLCJsayI6IkdpSmpZVzRnYVNCMWMyVWdZV2tnZEc4Z2JXRnJaU0JoSUhOb2IzSjBJSFpwWkdWdiIsImJzIjoiYzIyUFBRdkNNQlJGY2MzazNPbmhKMmpSMkQ5UXhNWGlKQlpFbk5LYW1xRHRneWF4OU4tYnRGUUYtLUJ0NTNEdkpVY3kyMk1GR2lGbkR3NG5nYVZXa0pXWXd4T0xPN3pralNOc296Q1llMVB4UTZwLWtrbHlKY3V6a0ttd0ZrZ0ZDVmNhTWl5ZEppMTNRUk9icElzS0E5OWJWQTNPWkI5ZW85RU9iX01JSTJ2WE56ZFd5TEhndFhNMlBxWFV2UzNCS3dWWXdDWC1CS3c4WF93cnRMbXZVT3N1NGtER08xWkFCRVp4dDZGYnpGcWdIUm9HRTItVVdrdzJtTzNlaXcwSGJ3IiwiaWQiOiJmY185UDhEYTZUNURMdWtwdFFQZ3M2b2tRa183In0%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "WmmhNXiczVbdcuo2EL7obV-jvuEcbMxvMuPJSEYQAyEY8kduGP8IGWyjYBkczmWfpVd9mD5AX6MP0Mo2EJtjTpLetDuDZGlXu6vd_bT8-pu3WLl__jxxwvCFXYpiFEVlQinxcNmivmiw3coS59RjgeVcEU_ZMIHRTWDhha1YTkB9vF_vV2VqCo6n4JWw2ypVwWKKJOCFcjFqtY3GXb092LgvoT4irEFd3RUS_crMNBhecvOvSybORD64v1TbfFFmZbwqr6qVh-32FhsTVpYluVq-FQ2fC4D_mCDQCJ9cAMgPxfSPKtS5HgTU0_MIJXNm_wbENjWgainnnP1JrDQ-qcJ4Geu5BXOYMocHqXvtHb8QQJkVAxl3oJaa-BQdb3J_unGeCq6opb7Bwxqd8oroRsuJqESF11FGPSo4M80ppak7owhrwPHJe8GLVesRrPfBm6c_IpU2VM8EEVBFm_Aql0Qz4FNFXFiOlXwELC5-9e5Cop0e3cyatRqZVC3ZfA3CYePxrimRjjYkomVyOY8aNrZnzky6StYVuVKXLqrN1pcEdRY7wo5lYTdEUXu6ZruxOi0Pyo8HyOWjc5o2XdMKA09gGt7v6uSoYAf6eQ7MjDG5Ocud_ewASHWuNsfU-2iQFeJoafNwtUi2hNDRH7UQcgW3SCCH0vQf64RkvlPrU4AmJ3aOdFuotrAuYALyROPhoUujqMGj62-0iN8OAo513M0ykxuie85DCeQeMEplx1GcroMqoml6_liGUJrXk-yit-vFXmlcChL-LILezX0PQb45Ph6CcP_QqE6yQ442UCHoUs7g-6ehWyBYSNpH3pXUiwPGTiCThVq3B_oRqz_ByjC0PYP6M9h8paraQRNSDC3qm59oadb_Hnz7fuftc3cWfLGlD4FPJ8XgO9fvkJqCT3X3Vzsq29MkBV9xvxsdpPL9rgB8CKIM-NJ-BxfxqBX1u8-DT30ffLl4ZcD31u9y4NPOgS_tdxnwqT3e75J0nAVf2u8O4Pu3_U79fL9LMIjTKd_8Nktyvgm2ptsl23UbmGnfbp_Z027dueHRvFj67zfBuR9e-obtfZkt7Eso98Kd_WXGN-gltoW18ugYYWnBSqGDSyZmYQlopZBSjw8lK8BGiEvMoUHISnP-97fk0RUpbRc2puxK8L2AKpJRV5_mYOxMnY46rH1ru3UZyx3N8Fpr0Knr7ugayM6IkAe3idtzR15H-mAj1eer9hxsntDFuttG3sv6yWg1t9Px5KaxM011GszXO7uzbFyjuU4RmUfte4tE10EXyKQbrr9GdteTp-R5ODCt583AbyXeMOWrI5GXRX-zqEeCH1gKz3CNgKEOHgEwAIxAj5dQH8Dxms8DnkGTQqBfTzkQCP9RXrACs4wZZlulXpNrkixbRqVZw5UmFnwS7l6UWkVgq0Cp_J7Gx54Z4R_uT3__9Q8KGYau",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=WmmhNXiczVbdcuo2EL7obV-jvuEcbMxvMuPJSEYQAyEY8kduGP8IGWyjYBkczmWfpVd9mD5AX6MP0Mo2EJtjTpLetDuDZGlXu6vd_bT8-pu3WLl__jxxwvCFXYpiFEVlQinxcNmivmiw3coS59RjgeVcEU_ZMIHRTWDhha1YTkB9vF_vV2VqCo6n4JWw2ypVwWKKJOCFcjFqtY3GXb092LgvoT4irEFd3RUS_crMNBhecvOvSybORD64v1TbfFFmZbwqr6qVh-32FhsTVpYluVq-FQ2fC4D_mCDQCJ9cAMgPxfSPKtS5HgTU0_MIJXNm_wbENjWgainnnP1JrDQ-qcJ4Geu5BXOYMocHqXvtHb8QQJkVAxl3oJaa-BQdb3J_unGeCq6opb7Bwxqd8oroRsuJqESF11FGPSo4M80ppak7owhrwPHJe8GLVesRrPfBm6c_IpU2VM8EEVBFm_Aql0Qz4FNFXFiOlXwELC5-9e5Cop0e3cyatRqZVC3ZfA3CYePxrimRjjYkomVyOY8aNrZnzky6StYVuVKXLqrN1pcEdRY7wo5lYTdEUXu6ZruxOi0Pyo8HyOWjc5o2XdMKA09gGt7v6uSoYAf6eQ7MjDG5Ocud_ewASHWuNsfU-2iQFeJoafNwtUi2hNDRH7UQcgW3SCCH0vQf64RkvlPrU4AmJ3aOdFuotrAuYALyROPhoUujqMGj62-0iN8OAo513M0ykxuie85DCeQeMEplx1GcroMqoml6_liGUJrXk-yit-vFXmlcChL-LILezX0PQb45Ph6CcP_QqE6yQ442UCHoUs7g-6ehWyBYSNpH3pXUiwPGTiCThVq3B_oRqz_ByjC0PYP6M9h8paraQRNSDC3qm59oadb_Hnz7fuftc3cWfLGlD4FPJ8XgO9fvkJqCT3X3Vzsq29MkBV9xvxsdpPL9rgB8CKIM-NJ-BxfxqBX1u8-DT30ffLl4ZcD31u9y4NPOgS_tdxnwqT3e75J0nAVf2u8O4Pu3_U79fL9LMIjTKd_8Nktyvgm2ptsl23UbmGnfbp_Z027dueHRvFj67zfBuR9e-obtfZkt7Eso98Kd_WXGN-gltoW18ugYYWnBSqGDSyZmYQlopZBSjw8lK8BGiEvMoUHISnP-97fk0RUpbRc2puxK8L2AKpJRV5_mYOxMnY46rH1ru3UZyx3N8Fpr0Knr7ugayM6IkAe3idtzR15H-mAj1eer9hxsntDFuttG3sv6yWg1t9Px5KaxM011GszXO7uzbFyjuU4RmUfte4tE10EXyKQbrr9GdteTp-R5ODCt583AbyXeMOWrI5GXRX-zqEeCH1gKz3CNgKEOHgEwAIxAj5dQH8Dxms8DnkGTQqBfTzkQCP9RXrACs4wZZlulXpNrkixbRqVZw5UmFnwS7l6UWkVgq0Cp_J7Gx54Z4R_uT3__9Q8KGYau"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "What are the best AI tools to create short videos for ...",
+        "link": "https://www.reddit.com/r/PartneredYoutube/comments/1ffr8bu/what_are_the_best_ai_tools_to_create_short_videos/",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.reddit.com/r/PartneredYoutube/comments/1ffr8bu/what_are_the_best_ai_tools_to_create_short_videos/&usg=AOvVaw1_K9nkKqynQRNfpsB2Q7ia",
+        "displayed_link": "160+ comments",
+        "date": "2 years ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+        "snippet": "Hey guys! I spent weeks researching for the best AI tools to create content media, I even create a directory to help to navigate this crowded world. ...",
+        "sitelinks": {
+          "list": [
+            {
+              "title": "AI Video Tool to Cut-up Long Videos into Shorts ...",
+              "link": "https://www.reddit.com/r/NewTubers/comments/1kcv90k/ai_video_tool_to_cutup_long_videos_into_shorts/",
+              "answer_count": 92,
+              "date": "May 2, 2025"
+            },
+            {
+              "title": "Is there an AI Tool To Generate a Short from MY ...",
+              "link": "https://www.reddit.com/r/SmallYTChannel/comments/1h0idrq/is_there_an_ai_tool_to_generate_a_short_from_my/",
+              "answer_count": 29,
+              "date": "Nov 26, 2024"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "OpusClip and Runway are solid for clipping and shot generation, but they still need a human eye. What's worked best for me lately is using AI ...",
+            "source_info_link": "https://www.reddit.com/r/PartneredYoutube/comments/1ffr8bu/what_are_the_best_ai_tools_to_create_short_videos/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cm1odHRwczovL3d3dy5yZWRkaXQuY29tL3IvUGFydG5lcmVkWW91dHViZS9jb21tZW50cy8xZmZyOGJ1L3doYXRfYXJlX3RoZV9iZXN0X2FpX3Rvb2xzX3RvX2NyZWF0ZV9zaG9ydF92aWRlb3MvEgQaAggAGq4HEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAiAcIABAAGAAgACo5CgR3aGF0FePNt0AaBGdvb2QaB3JhdGluZ3MaD3JlY29tbWVuZGF0aW9ucxoFd2hhdHMaBXdoaWNoKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqTAoEYmVzdBXuwclAGgZiZXR0ZXIaBGdvb2QaB3JhdGluZ3MaD3JlY29tbWVuZGF0aW9ucxoDdG9wGgZiZXN0YWkaCmJlc3RhaXRvb2wqPgoCYWkVEUrwQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaBmJlc3RhaRoKYmVzdGFpdG9vbBoGYWl0b29sKjwKBHRvb2wVgzLXPxoLYXBwbGljYXRpb24aB2NyZWF0b3IaBXRvb2xzGgpiZXN0YWl0b29sGgZhaXRvb2wqCQoCdG8VAAAAACpiCgZjcmVhdGUVchS0QBoIYnVpbGQgYW4aCGNyZWF0aW5nGgdjcmVhdG9yGgZkZXNpZ24aB2RldmVsb3AaDGZvciBjcmVhdGluZxoIZ2VuZXJhdGUaBG1ha2UaB3Byb2R1Y2UqFAoGc2hvcnRzFbPr6D8aBXNob3J0KgsKBGZyb20VAAAAACovCgRsb25nFUb-jj8aBWxhcmdlGgdsZW5ndGh5GgZsb25nZXIaCmxvbmd2aWRlb3MqIAoGdmlkZW9zFec_z0AaBXZpZGVvGgpsb25ndmlkZW9zMm1odHRwczovL3d3dy5yZWRkaXQuY29tL3IvUGFydG5lcmVkWW91dHViZS9jb21tZW50cy8xZmZyOGJ1L3doYXRfYXJlX3RoZV9iZXN0X2FpX3Rvb2xzX3RvX2NyZWF0ZV9zaG9ydF92aWRlb3MvOklXaGF0IGFyZSB0aGUgPGI-YmVzdCBBSSB0b29scyB0byBjcmVhdGUgc2hvcnQgdmlkZW9zPC9iPiBmb3IgZmFjZWxlc3MgLi4uQqEBPGI-T3B1c0NsaXAgYW5kIFJ1bndheTwvYj4gYXJlIHNvbGlkIGZvciBjbGlwcGluZyBhbmQgc2hvdCBnZW5lcmF0aW9uLCBidXQgdGhleSBzdGlsbCBuZWVkIGEgaHVtYW4gZXllLiBXaGF0JiMzOTtzIHdvcmtlZCBiZXN0IGZvciBtZSBsYXRlbHkgaXMgdXNpbmcgQUkmbmJzcDsuLi5KBGZyb21KA3RoZUoCaXNKAnRvUgN0b3BSBXZpZGVvIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cm1odHRwczovL3d3dy5yZWRkaXQuY29tL3IvUGFydG5lcmVkWW91dHViZS9jb21tZW50cy8xZmZyOGJ1L3doYXRfYXJlX3RoZV9iZXN0X2FpX3Rvb2xzX3RvX2NyZWF0ZV9zaG9ydF92aWRlb3MvEgQaAggAGq4HEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAiAcIABAAGAAgACo5CgR3aGF0FePNt0AaBGdvb2QaB3JhdGluZ3MaD3JlY29tbWVuZGF0aW9ucxoFd2hhdHMaBXdoaWNoKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqTAoEYmVzdBXuwclAGgZiZXR0ZXIaBGdvb2QaB3JhdGluZ3MaD3JlY29tbWVuZGF0aW9ucxoDdG9wGgZiZXN0YWkaCmJlc3RhaXRvb2wqPgoCYWkVEUrwQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaBmJlc3RhaRoKYmVzdGFpdG9vbBoGYWl0b29sKjwKBHRvb2wVgzLXPxoLYXBwbGljYXRpb24aB2NyZWF0b3IaBXRvb2xzGgpiZXN0YWl0b29sGgZhaXRvb2wqCQoCdG8VAAAAACpiCgZjcmVhdGUVchS0QBoIYnVpbGQgYW4aCGNyZWF0aW5nGgdjcmVhdG9yGgZkZXNpZ24aB2RldmVsb3AaDGZvciBjcmVhdGluZxoIZ2VuZXJhdGUaBG1ha2UaB3Byb2R1Y2UqFAoGc2hvcnRzFbPr6D8aBXNob3J0KgsKBGZyb20VAAAAACovCgRsb25nFUb-jj8aBWxhcmdlGgdsZW5ndGh5GgZsb25nZXIaCmxvbmd2aWRlb3MqIAoGdmlkZW9zFec_z0AaBXZpZGVvGgpsb25ndmlkZW9zMm1odHRwczovL3d3dy5yZWRkaXQuY29tL3IvUGFydG5lcmVkWW91dHViZS9jb21tZW50cy8xZmZyOGJ1L3doYXRfYXJlX3RoZV9iZXN0X2FpX3Rvb2xzX3RvX2NyZWF0ZV9zaG9ydF92aWRlb3MvOklXaGF0IGFyZSB0aGUgPGI-YmVzdCBBSSB0b29scyB0byBjcmVhdGUgc2hvcnQgdmlkZW9zPC9iPiBmb3IgZmFjZWxlc3MgLi4uQqEBPGI-T3B1c0NsaXAgYW5kIFJ1bndheTwvYj4gYXJlIHNvbGlkIGZvciBjbGlwcGluZyBhbmQgc2hvdCBnZW5lcmF0aW9uLCBidXQgdGhleSBzdGlsbCBuZWVkIGEgaHVtYW4gZXllLiBXaGF0JiMzOTtzIHdvcmtlZCBiZXN0IGZvciBtZSBsYXRlbHkgaXMgdXNpbmcgQUkmbmJzcDsuLi5KBGZyb21KA3RoZUoCaXNKAnRvUgN0b3BSBXZpZGVvIgIQAUgAWABoAA",
+        "source": "Reddit \u00b7 r/PartneredYoutube"
+      },
+      {
+        "position": 2,
+        "title": "YouTube Shorts Maker - Create Shorts Free with AI",
+        "link": "https://www.opus.pro/tools/youtube-shorts-maker",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.opus.pro/tools/youtube-shorts-maker&usg=AOvVaw0kmQOr1ihZCaKsZ7eeJCJL",
+        "displayed_link": "https://www.opus.pro \u203a tools \u203a youtube-shorts-maker",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAV1BMVEUOEBULDRMAAABubnClpaa_v8AAAAj___81Njj09PT7-_u4uLmPj5CYmJlhYWNQUVNLS0339_cuLzLCwsOfn6Ctra6enp94eXp-f4COjo9paWuCg4RTVFaiNnBOAAAAxklEQVR4AbWSVw7DMAxDW2Z6r-72_ueslC3Av2Gm_UDR63K6rph0raOm7bq2qeAe7bCoRS8ZRjVsUiOEb-RObaw1mv_G_pjHPgfvnIdl7yF3ygsxsSnFMOXuRmraOCyKjl6bFQ3lgX2dYS8ot8GhqvHUnYFMH28OddFRVUc-0D8BZ-l_g4XgbRjuDLsafDCUZSV8lk4MSMDXPBUrprJBuQgSZl4-ty2fhMHJhZdl5ZbJeb4qm413132epXx_pXJMsKgHGJ2tPwf1DT7eKooXAAAAAElFTkSuQmCC.png",
+        "snippet": "OpusClip turns long videos into vertical YouTube Shorts with AI by picking the strongest moments, reframing them to 9:16 and adding captions.",
+        "snippet_highlighted_words": [
+          "OpusClip"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "OpusClip turns long videos into vertical YouTube Shorts with AI by picking the strongest moments, reframing them to 9:16 and adding captions.",
+            "source_info_link": "https://www.opus.pro/tools/youtube-shorts-maker",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAV1BMVEUOEBULDRMAAABubnClpaa_v8AAAAj___81Njj09PT7-_u4uLmPj5CYmJlhYWNQUVNLS0339_cuLzLCwsOfn6Ctra6enp94eXp-f4COjo9paWuCg4RTVFaiNnBOAAAAxklEQVR4AbWSVw7DMAxDW2Z6r-72_ueslC3Av2Gm_UDR63K6rph0raOm7bq2qeAe7bCoRS8ZRjVsUiOEb-RObaw1mv_G_pjHPgfvnIdl7yF3ygsxsSnFMOXuRmraOCyKjl6bFQ3lgX2dYS8ot8GhqvHUnYFMH28OddFRVUc-0D8BZ-l_g4XgbRjuDLsafDCUZSV8lk4MSMDXPBUrprJBuQgSZl4-ty2fhMHJhZdl5ZbJeb4qm413132epXx_pXJMsKgHGJ2tPwf1DT7eKooXAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ci9odHRwczovL3d3dy5vcHVzLnByby90b29scy95b3V0dWJlLXNob3J0cy1tYWtlchIEGgIIABrrBhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMUGCAAQABgAIAAqOQoEd2hhdBXF35o_GgRnb29kGgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMaBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKkwKBGJlc3QVRRBSPhoGYmV0dGVyGgRnb29kGgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMaA3RvcBoGYmVzdGFpGgpiZXN0YWl0b29sKj4KAmFpFYQDo0AaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgZiZXN0YWkaCmJlc3RhaXRvb2waBmFpdG9vbCo8CgR0b29sFVHKOT8aC2FwcGxpY2F0aW9uGgdjcmVhdG9yGgV0b29scxoKYmVzdGFpdG9vbBoGYWl0b29sKgkKAnRvFQAAAAAqYgoGY3JlYXRlFbwPXUAaCGJ1aWxkIGFuGghjcmVhdGluZxoHY3JlYXRvchoGZGVzaWduGgdkZXZlbG9wGgxmb3IgY3JlYXRpbmcaCGdlbmVyYXRlGgRtYWtlGgdwcm9kdWNlKhQKBnNob3J0cxXAhrpAGgVzaG9ydCoLCgRmcm9tFQAAAAAqLwoEbG9uZxX5Ff0_GgVsYXJnZRoHbGVuZ3RoeRoGbG9uZ2VyGgpsb25ndmlkZW9zKiAKBnZpZGVvcxWPmvg_GgV2aWRlbxoKbG9uZ3ZpZGVvczIvaHR0cHM6Ly93d3cub3B1cy5wcm8vdG9vbHMveW91dHViZS1zaG9ydHMtbWFrZXI6UVlvdVR1YmUgPGI-U2hvcnRzPC9iPiBNYWtlciAtIDxiPkNyZWF0ZSBTaG9ydHM8L2I-IEZyZWUgd2l0aCA8Yj5BSTwvYj4gLSBPcHVzQ2xpcEKUATxiPk9wdXNDbGlwPC9iPiB0dXJucyBsb25nIHZpZGVvcyBpbnRvIHZlcnRpY2FsIFlvdVR1YmUgU2hvcnRzIHdpdGggQUkgYnkgcGlja2luZyB0aGUgc3Ryb25nZXN0IG1vbWVudHMsIHJlZnJhbWluZyB0aGVtIHRvIDk6MTYgYW5kIGFkZGluZyBjYXB0aW9ucy5KAnRvSgJpc0oDdGhlSgRmcm9tUgN0b3BSBXZpZGVvIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ci9odHRwczovL3d3dy5vcHVzLnByby90b29scy95b3V0dWJlLXNob3J0cy1tYWtlchIEGgIIABrrBhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMUGCAAQABgAIAAqOQoEd2hhdBXF35o_GgRnb29kGgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMaBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKkwKBGJlc3QVRRBSPhoGYmV0dGVyGgRnb29kGgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMaA3RvcBoGYmVzdGFpGgpiZXN0YWl0b29sKj4KAmFpFYQDo0AaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgZiZXN0YWkaCmJlc3RhaXRvb2waBmFpdG9vbCo8CgR0b29sFVHKOT8aC2FwcGxpY2F0aW9uGgdjcmVhdG9yGgV0b29scxoKYmVzdGFpdG9vbBoGYWl0b29sKgkKAnRvFQAAAAAqYgoGY3JlYXRlFbwPXUAaCGJ1aWxkIGFuGghjcmVhdGluZxoHY3JlYXRvchoGZGVzaWduGgdkZXZlbG9wGgxmb3IgY3JlYXRpbmcaCGdlbmVyYXRlGgRtYWtlGgdwcm9kdWNlKhQKBnNob3J0cxXAhrpAGgVzaG9ydCoLCgRmcm9tFQAAAAAqLwoEbG9uZxX5Ff0_GgVsYXJnZRoHbGVuZ3RoeRoGbG9uZ2VyGgpsb25ndmlkZW9zKiAKBnZpZGVvcxWPmvg_GgV2aWRlbxoKbG9uZ3ZpZGVvczIvaHR0cHM6Ly93d3cub3B1cy5wcm8vdG9vbHMveW91dHViZS1zaG9ydHMtbWFrZXI6UVlvdVR1YmUgPGI-U2hvcnRzPC9iPiBNYWtlciAtIDxiPkNyZWF0ZSBTaG9ydHM8L2I-IEZyZWUgd2l0aCA8Yj5BSTwvYj4gLSBPcHVzQ2xpcEKUATxiPk9wdXNDbGlwPC9iPiB0dXJucyBsb25nIHZpZGVvcyBpbnRvIHZlcnRpY2FsIFlvdVR1YmUgU2hvcnRzIHdpdGggQUkgYnkgcGlja2luZyB0aGUgc3Ryb25nZXN0IG1vbWVudHMsIHJlZnJhbWluZyB0aGVtIHRvIDk6MTYgYW5kIGFkZGluZyBjYXB0aW9ucy5KAnRvSgJpc0oDdGhlSgRmcm9tUgN0b3BSBXZpZGVvIgIQAUgAWABoAA",
+        "source": "Opus Clip",
+        "read_more_link": "https://www.opus.pro/tools/youtube-shorts-maker#:~:text=OpusClip%20turns%20long%20videos%20into,to%209%3A16%20and%20adding%20captions."
+      },
+      {
+        "position": 3,
+        "title": "Free Long Video to Short Video AI Converter",
+        "link": "https://www.vmaker.com/tools/long-video-to-short-video-ai",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.vmaker.com/tools/long-video-to-short-video-ai&usg=AOvVaw1ohIbW8gHPYWjuYVLNzSKC",
+        "displayed_link": "https://www.vmaker.com \u203a Tools",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAVFBMVEVHcExh1rYKtOQNteNHzMQ6xc06xc0Tt-Bb07otwdJj1rX___8YutxU0bwOteIivtdf1bdEy8JOzsU_yckrwtA2xc3s-fkEutad3-XJ7u9w1NW26OuxpBlcAAAAC3RSTlMA5uZxgE0rhH2Amhq4Z40AAADLSURBVCiRtdLbDsIgDIDhqWwTQZAWGJvv_56WjUNd4qV_uPsgoYRh-HPTvSeEGBmNl9feMwcATnR7nMgxZHYQYsPxdAopWfGyk6sRhVBxyratkVoT7tTxTsc2VXoTeFoMXVSpKPgtec8QQKm1YMKovLcVBThQrUS7vO3ozmg5IjIMUVmt54qIPjbEBdLCMYQ2SlqsJtO3gjKPBu_9EbYMWhszdaS72yVXyFzr00qamZCqZMzI8ESmXofQ_rYDu5jr1_-ZpZxbt2n4cx9Tmxkbl-3EugAAAABJRU5ErkJggg.png",
+        "snippet": "Turn long-form videos into ready-to-post shorts with Vmaker AI. Upload a podcast, webinar, or interview and get Shorts, Reels, and TikToks in minutes.",
+        "snippet_highlighted_words": [
+          "Vmaker AI"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.7,
+              "reviews": 103
+            },
+            "extensions": [
+              "4.7(103)",
+              "Free"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Turn long-form videos into ready-to-post shorts with Vmaker AI. Upload a podcast, webinar, or interview and get Shorts, Reels, and TikToks in minutes.",
+            "source_info_link": "https://www.vmaker.com/tools/long-video-to-short-video-ai",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAVFBMVEVHcExh1rYKtOQNteNHzMQ6xc06xc0Tt-Bb07otwdJj1rX___8YutxU0bwOteIivtdf1bdEy8JOzsU_yckrwtA2xc3s-fkEutad3-XJ7u9w1NW26OuxpBlcAAAAC3RSTlMA5uZxgE0rhH2Amhq4Z40AAADLSURBVCiRtdLbDsIgDIDhqWwTQZAWGJvv_56WjUNd4qV_uPsgoYRh-HPTvSeEGBmNl9feMwcATnR7nMgxZHYQYsPxdAopWfGyk6sRhVBxyratkVoT7tTxTsc2VXoTeFoMXVSpKPgtec8QQKm1YMKovLcVBThQrUS7vO3ozmg5IjIMUVmt54qIPjbEBdLCMYQ2SlqsJtO3gjKPBu_9EbYMWhszdaS72yVXyFzr00qamZCqZMzI8ESmXofQ_rYDu5jr1_-ZpZxbt2n4cx9Tmxkbl-3EugAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CjlodHRwczovL3d3dy52bWFrZXIuY29tL3Rvb2xzL2xvbmctdmlkZW8tdG8tc2hvcnQtdmlkZW8tYWkSBBoCCAAa-QYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDTBggAEAAYACAAKjkKBHdoYXQVjsn-PxoEZ29vZBoHcmF0aW5ncxoPcmVjb21tZW5kYXRpb25zGgV3aGF0cxoFd2hpY2gqCQoCaXMVAAAAACoKCgN0aGUVAAAAACpMCgRiZXN0FZxYmz8aBmJldHRlchoEZ29vZBoHcmF0aW5ncxoPcmVjb21tZW5kYXRpb25zGgN0b3AaBmJlc3RhaRoKYmVzdGFpdG9vbCo-CgJhaRXiXBRBGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoGYmVzdGFpGgpiZXN0YWl0b29sGgZhaXRvb2wqPAoEdG9vbBWu9iw_GgthcHBsaWNhdGlvbhoHY3JlYXRvchoFdG9vbHMaCmJlc3RhaXRvb2waBmFpdG9vbCoJCgJ0bxUAAAAAKmIKBmNyZWF0ZRVWvwlAGghidWlsZCBhbhoIY3JlYXRpbmcaB2NyZWF0b3IaBmRlc2lnbhoHZGV2ZWxvcBoMZm9yIGNyZWF0aW5nGghnZW5lcmF0ZRoEbWFrZRoHcHJvZHVjZSoUCgZzaG9ydHMVC8OLQBoFc2hvcnQqCwoEZnJvbRUAAAAAKi8KBGxvbmcV2w30QBoFbGFyZ2UaB2xlbmd0aHkaBmxvbmdlchoKbG9uZ3ZpZGVvcyogCgZ2aWRlb3MVWfmfQBoFdmlkZW8aCmxvbmd2aWRlb3MyOWh0dHBzOi8vd3d3LnZtYWtlci5jb20vdG9vbHMvbG9uZy12aWRlby10by1zaG9ydC12aWRlby1haTpMRnJlZSA8Yj5Mb25nIFZpZGVvPC9iPiB0byA8Yj5TaG9ydCBWaWRlbyBBSTwvYj4gQ29udmVydGVyIC0gVm1ha2VyIDxiPkFJPC9iPkKdAVR1cm4gbG9uZy1mb3JtIHZpZGVvcyBpbnRvIHJlYWR5LXRvLXBvc3Qgc2hvcnRzIHdpdGggPGI-Vm1ha2VyIEFJPC9iPi4gVXBsb2FkIGEgcG9kY2FzdCwgd2ViaW5hciwgb3IgaW50ZXJ2aWV3IGFuZCBnZXQgU2hvcnRzLCBSZWVscywgYW5kIFRpa1Rva3MgaW4gbWludXRlcy5KA3RoZUoCaXNKAnRvSgRmcm9tUgV2aWRlb1IDdG9wIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CjlodHRwczovL3d3dy52bWFrZXIuY29tL3Rvb2xzL2xvbmctdmlkZW8tdG8tc2hvcnQtdmlkZW8tYWkSBBoCCAAa-QYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDTBggAEAAYACAAKjkKBHdoYXQVjsn-PxoEZ29vZBoHcmF0aW5ncxoPcmVjb21tZW5kYXRpb25zGgV3aGF0cxoFd2hpY2gqCQoCaXMVAAAAACoKCgN0aGUVAAAAACpMCgRiZXN0FZxYmz8aBmJldHRlchoEZ29vZBoHcmF0aW5ncxoPcmVjb21tZW5kYXRpb25zGgN0b3AaBmJlc3RhaRoKYmVzdGFpdG9vbCo-CgJhaRXiXBRBGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoGYmVzdGFpGgpiZXN0YWl0b29sGgZhaXRvb2wqPAoEdG9vbBWu9iw_GgthcHBsaWNhdGlvbhoHY3JlYXRvchoFdG9vbHMaCmJlc3RhaXRvb2waBmFpdG9vbCoJCgJ0bxUAAAAAKmIKBmNyZWF0ZRVWvwlAGghidWlsZCBhbhoIY3JlYXRpbmcaB2NyZWF0b3IaBmRlc2lnbhoHZGV2ZWxvcBoMZm9yIGNyZWF0aW5nGghnZW5lcmF0ZRoEbWFrZRoHcHJvZHVjZSoUCgZzaG9ydHMVC8OLQBoFc2hvcnQqCwoEZnJvbRUAAAAAKi8KBGxvbmcV2w30QBoFbGFyZ2UaB2xlbmd0aHkaBmxvbmdlchoKbG9uZ3ZpZGVvcyogCgZ2aWRlb3MVWfmfQBoFdmlkZW8aCmxvbmd2aWRlb3MyOWh0dHBzOi8vd3d3LnZtYWtlci5jb20vdG9vbHMvbG9uZy12aWRlby10by1zaG9ydC12aWRlby1haTpMRnJlZSA8Yj5Mb25nIFZpZGVvPC9iPiB0byA8Yj5TaG9ydCBWaWRlbyBBSTwvYj4gQ29udmVydGVyIC0gVm1ha2VyIDxiPkFJPC9iPkKdAVR1cm4gbG9uZy1mb3JtIHZpZGVvcyBpbnRvIHJlYWR5LXRvLXBvc3Qgc2hvcnRzIHdpdGggPGI-Vm1ha2VyIEFJPC9iPi4gVXBsb2FkIGEgcG9kY2FzdCwgd2ViaW5hciwgb3IgaW50ZXJ2aWV3IGFuZCBnZXQgU2hvcnRzLCBSZWVscywgYW5kIFRpa1Rva3MgaW4gbWludXRlcy5KA3RoZUoCaXNKAnRvSgRmcm9tUgV2aWRlb1IDdG9wIgIQAUgAWABoAA",
+        "source": "Vmaker AI"
+      },
+      {
+        "position": 4,
+        "title": "AI YouTube Shorts Generator: Create Shorts",
+        "link": "https://invideo.io/make/ai-youtube-shorts-generator/",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://invideo.io/make/ai-youtube-shorts-generator/&usg=AOvVaw0oDPONSjAbkJlvl9lCk2j-",
+        "displayed_link": "https://invideo.io \u203a make \u203a ai-youtube-shorts-generator",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEz-4y3-4y3-4y3_5y3_6y7awyiIeh5AOhcNDhQmJBVtYhvFsCYAARJXTxnw1isUFBT_8S-hkCG2oySrLYkZAAAAA3RSTlMAS9kW9DhgAAAA4ElEQVR4AXzPBZbDMAwE0IDGPMb7n7XcGnZbhfOfaNv24_w3jv1m59fYt-M7Htv5IyYU3EP-RShtrPPhziuKJ621ZEyyohhma3POlnnNhGamMcx0kRFLJjN1KZoGJVBJR7n_yFQiihVnoUbH5L2zY6YfkKTNufccUALzM6x93qg7qhuSucc4ECoZfdd5FZypNL6NNsm0pyS-ieZlHSvfJQOAORP6jRDU2DBlvlpaB6kkm3S8aeYd2QSRr0U7JkeSFfciZOiZTw61pnsCmg7vnl0hch2UAaHxJk28iRpvdgAARvgT6OvERBEAAAAASUVORK5CYII.png",
+        "snippet": "Turn an idea into a YouTube Short with invideo. Create scenes, narration and captions, then adjust the opening, pacing and ending on the timeline.",
+        "snippet_highlighted_words": [
+          "invideo"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Turn an idea into a YouTube Short with invideo. Create scenes, narration and captions, then adjust the opening, pacing and ending on the timeline.",
+            "source_info_link": "https://invideo.io/make/ai-youtube-shorts-generator/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEVHcEz-4y3-4y3-4y3_5y3_6y7awyiIeh5AOhcNDhQmJBVtYhvFsCYAARJXTxnw1isUFBT_8S-hkCG2oySrLYkZAAAAA3RSTlMAS9kW9DhgAAAA4ElEQVR4AXzPBZbDMAwE0IDGPMb7n7XcGnZbhfOfaNv24_w3jv1m59fYt-M7Htv5IyYU3EP-RShtrPPhziuKJ621ZEyyohhma3POlnnNhGamMcx0kRFLJjN1KZoGJVBJR7n_yFQiihVnoUbH5L2zY6YfkKTNufccUALzM6x93qg7qhuSucc4ECoZfdd5FZypNL6NNsm0pyS-ieZlHSvfJQOAORP6jRDU2DBlvlpaB6kkm3S8aeYd2QSRr0U7JkeSFfciZOiZTw61pnsCmg7vnl0hch2UAaHxJk28iRpvdgAARvgT6OvERBEAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CjRodHRwczovL2ludmlkZW8uaW8vbWFrZS9haS15b3V0dWJlLXNob3J0cy1nZW5lcmF0b3IvEgQaAggAGu0GEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAxwYIABAAGAAgACo5CgR3aGF0FSEfyj8aBGdvb2QaB3JhdGluZ3MaD3JlY29tbWVuZGF0aW9ucxoFd2hhdHMaBXdoaWNoKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqTAoEYmVzdBWz7ZE_GgZiZXR0ZXIaBGdvb2QaB3JhdGluZ3MaD3JlY29tbWVuZGF0aW9ucxoDdG9wGgZiZXN0YWkaCmJlc3RhaXRvb2wqPgoCYWkVDznaQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaBmJlc3RhaRoKYmVzdGFpdG9vbBoGYWl0b29sKjwKBHRvb2wVKVkbPxoLYXBwbGljYXRpb24aB2NyZWF0b3IaBXRvb2xzGgpiZXN0YWl0b29sGgZhaXRvb2wqCQoCdG8VAAAAACpiCgZjcmVhdGUVHPuPQBoIYnVpbGQgYW4aCGNyZWF0aW5nGgdjcmVhdG9yGgZkZXNpZ24aB2RldmVsb3AaDGZvciBjcmVhdGluZxoIZ2VuZXJhdGUaBG1ha2UaB3Byb2R1Y2UqFAoGc2hvcnRzFask4kAaBXNob3J0KgsKBGZyb20VAAAAACovCgRsb25nFTGMQz8aBWxhcmdlGgdsZW5ndGh5GgZsb25nZXIaCmxvbmd2aWRlb3MqIAoGdmlkZW9zFQxV1T8aBXZpZGVvGgpsb25ndmlkZW9zMjRodHRwczovL2ludmlkZW8uaW8vbWFrZS9haS15b3V0dWJlLXNob3J0cy1nZW5lcmF0b3IvOkk8Yj5BSTwvYj4gWW91VHViZSA8Yj5TaG9ydHM8L2I-IEdlbmVyYXRvcjogPGI-Q3JlYXRlIFNob3J0czwvYj4gfCBpbnZpZGVvQpkBVHVybiBhbiBpZGVhIGludG8gYSBZb3VUdWJlIFNob3J0IHdpdGggPGI-aW52aWRlbzwvYj4uIENyZWF0ZSBzY2VuZXMsIG5hcnJhdGlvbiBhbmQgY2FwdGlvbnMsIHRoZW4gYWRqdXN0IHRoZSBvcGVuaW5nLCBwYWNpbmcgYW5kIGVuZGluZyBvbiB0aGUgdGltZWxpbmUuSgRmcm9tSgJ0b0oCaXNKA3RoZVIFdmlkZW9SA3RvcCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CjRodHRwczovL2ludmlkZW8uaW8vbWFrZS9haS15b3V0dWJlLXNob3J0cy1nZW5lcmF0b3IvEgQaAggAGu0GEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAxwYIABAAGAAgACo5CgR3aGF0FSEfyj8aBGdvb2QaB3JhdGluZ3MaD3JlY29tbWVuZGF0aW9ucxoFd2hhdHMaBXdoaWNoKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqTAoEYmVzdBWz7ZE_GgZiZXR0ZXIaBGdvb2QaB3JhdGluZ3MaD3JlY29tbWVuZGF0aW9ucxoDdG9wGgZiZXN0YWkaCmJlc3RhaXRvb2wqPgoCYWkVDznaQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaBmJlc3RhaRoKYmVzdGFpdG9vbBoGYWl0b29sKjwKBHRvb2wVKVkbPxoLYXBwbGljYXRpb24aB2NyZWF0b3IaBXRvb2xzGgpiZXN0YWl0b29sGgZhaXRvb2wqCQoCdG8VAAAAACpiCgZjcmVhdGUVHPuPQBoIYnVpbGQgYW4aCGNyZWF0aW5nGgdjcmVhdG9yGgZkZXNpZ24aB2RldmVsb3AaDGZvciBjcmVhdGluZxoIZ2VuZXJhdGUaBG1ha2UaB3Byb2R1Y2UqFAoGc2hvcnRzFask4kAaBXNob3J0KgsKBGZyb20VAAAAACovCgRsb25nFTGMQz8aBWxhcmdlGgdsZW5ndGh5GgZsb25nZXIaCmxvbmd2aWRlb3MqIAoGdmlkZW9zFQxV1T8aBXZpZGVvGgpsb25ndmlkZW9zMjRodHRwczovL2ludmlkZW8uaW8vbWFrZS9haS15b3V0dWJlLXNob3J0cy1nZW5lcmF0b3IvOkk8Yj5BSTwvYj4gWW91VHViZSA8Yj5TaG9ydHM8L2I-IEdlbmVyYXRvcjogPGI-Q3JlYXRlIFNob3J0czwvYj4gfCBpbnZpZGVvQpkBVHVybiBhbiBpZGVhIGludG8gYSBZb3VUdWJlIFNob3J0IHdpdGggPGI-aW52aWRlbzwvYj4uIENyZWF0ZSBzY2VuZXMsIG5hcnJhdGlvbiBhbmQgY2FwdGlvbnMsIHRoZW4gYWRqdXN0IHRoZSBvcGVuaW5nLCBwYWNpbmcgYW5kIGVuZGluZyBvbiB0aGUgdGltZWxpbmUuSgRmcm9tSgJ0b0oCaXNKA3RoZVIFdmlkZW9SA3RvcCICEAFIAFgAaAA",
+        "source": "invideo AI"
+      },
+      {
+        "position": 5,
+        "title": "AI YouTube Shorts Maker",
+        "link": "https://www.canva.com/features/ai-shorts-maker/",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.canva.com/features/ai-shorts-maker/&usg=AOvVaw0lsae-EjFhTKjN3N_Si5Y6",
+        "displayed_link": "https://www.canva.com \u203a Video Editor",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEUBw8wDv80Gu80Jt88MstARq9EVpNMcm9Uik9cqi9kuxNEzgtuY2ub____w9v1zy9_V5Pc6d95AbOJZsdxSXt9gS-RsOugifOA5Xul4hemUmPJGS-56KeqxuPRUNvRyJvJjKPrWjzNIAAABIklEQVR4AZXPBZbDMBADUIfTNuMw4_1PubKmz8ukcv-T4pgPCYIwjKI4SdIsv_0HoYrpt80YmHn0Yu5B5Fcf77AQxJYsEgNfA1XlvRQpnsUaU4G3IgzDuBCL03h0HpRqUYwvQGdEBheLeBOFVOw96saECM7vRkE4p0gLQ1ERiawIKU2qNs9zWmciDVYTkDsKSK0zMSR2p6jSV1IDIkkCLLLMk1pvEq45zBEQa7Te6Biwuj3F22AyrmXA8TGODqZqVhuMjo1WhHOwxa4g2GbcGCo7qhNkWmeZVxBsMwCMYQvarGu3y-4MBOT10XAqFuvLwRqRgLX1WCordu8PJSKFOZjhGE4loP4PYa7jdNnoRP0Xz-u6PBEJF0N618RfnvB413wBF2gp0D7Hjh8AAAAASUVORK5CYII.png",
+        "snippet": "Free AI Shorts Maker. Create engaging, high-quality short-form videos in just a few seconds with Canva's AI YouTube Shorts maker.",
+        "snippet_highlighted_words": [
+          "Free AI Shorts Maker"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Free AI Shorts Maker. Create engaging, high-quality short-form videos in just a few seconds with Canva's AI YouTube Shorts maker.",
+            "source_info_link": "https://www.canva.com/features/ai-shorts-maker/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEUBw8wDv80Gu80Jt88MstARq9EVpNMcm9Uik9cqi9kuxNEzgtuY2ub____w9v1zy9_V5Pc6d95AbOJZsdxSXt9gS-RsOugifOA5Xul4hemUmPJGS-56KeqxuPRUNvRyJvJjKPrWjzNIAAABIklEQVR4AZXPBZbDMBADUIfTNuMw4_1PubKmz8ukcv-T4pgPCYIwjKI4SdIsv_0HoYrpt80YmHn0Yu5B5Fcf77AQxJYsEgNfA1XlvRQpnsUaU4G3IgzDuBCL03h0HpRqUYwvQGdEBheLeBOFVOw96saECM7vRkE4p0gLQ1ERiawIKU2qNs9zWmciDVYTkDsKSK0zMSR2p6jSV1IDIkkCLLLMk1pvEq45zBEQa7Te6Biwuj3F22AyrmXA8TGODqZqVhuMjo1WhHOwxa4g2GbcGCo7qhNkWmeZVxBsMwCMYQvarGu3y-4MBOT10XAqFuvLwRqRgLX1WCordu8PJSKFOZjhGE4loP4PYa7jdNnoRP0Xz-u6PBEJF0N618RfnvB413wBF2gp0D7Hjh8AAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ci9odHRwczovL3d3dy5jYW52YS5jb20vZmVhdHVyZXMvYWktc2hvcnRzLW1ha2VyLxIEGgIIABq_BhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJkGCAAQABgAIAAqOQoEd2hhdBX1Y9o_GgRnb29kGgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMaBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKkwKBGJlc3QVIIKlPxoGYmV0dGVyGgRnb29kGgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMaA3RvcBoGYmVzdGFpGgpiZXN0YWl0b29sKj4KAmFpFchu4EAaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgZiZXN0YWkaCmJlc3RhaXRvb2waBmFpdG9vbCo8CgR0b29sFT-n3T8aC2FwcGxpY2F0aW9uGgdjcmVhdG9yGgV0b29scxoKYmVzdGFpdG9vbBoGYWl0b29sKgkKAnRvFQAAAAAqYgoGY3JlYXRlFZacEUAaCGJ1aWxkIGFuGghjcmVhdGluZxoHY3JlYXRvchoGZGVzaWduGgdkZXZlbG9wGgxmb3IgY3JlYXRpbmcaCGdlbmVyYXRlGgRtYWtlGgdwcm9kdWNlKhQKBnNob3J0cxUMwstAGgVzaG9ydCoLCgRmcm9tFQAAAAAqLwoEbG9uZxUScEA_GgVsYXJnZRoHbGVuZ3RoeRoGbG9uZ2VyGgpsb25ndmlkZW9zKiAKBnZpZGVvcxXEZTVAGgV2aWRlbxoKbG9uZ3ZpZGVvczIvaHR0cHM6Ly93d3cuY2FudmEuY29tL2ZlYXR1cmVzL2FpLXNob3J0cy1tYWtlci86LTxiPkFJPC9iPiBZb3VUdWJlIDxiPlNob3J0czwvYj4gTWFrZXIgLSBDYW52YUKMATxiPkZyZWUgQUkgU2hvcnRzIE1ha2VyPC9iPi4gQ3JlYXRlIGVuZ2FnaW5nLCBoaWdoLXF1YWxpdHkgc2hvcnQtZm9ybSB2aWRlb3MgaW4ganVzdCBhIGZldyBzZWNvbmRzIHdpdGggQ2FudmEmIzM5O3MgQUkgWW91VHViZSBTaG9ydHMgbWFrZXIuSgRmcm9tSgJ0b0oCaXNKA3RoZVIDdG9wUgV2aWRlbyICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ci9odHRwczovL3d3dy5jYW52YS5jb20vZmVhdHVyZXMvYWktc2hvcnRzLW1ha2VyLxIEGgIIABq_BhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJkGCAAQABgAIAAqOQoEd2hhdBX1Y9o_GgRnb29kGgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMaBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKkwKBGJlc3QVIIKlPxoGYmV0dGVyGgRnb29kGgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMaA3RvcBoGYmVzdGFpGgpiZXN0YWl0b29sKj4KAmFpFchu4EAaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgZiZXN0YWkaCmJlc3RhaXRvb2waBmFpdG9vbCo8CgR0b29sFT-n3T8aC2FwcGxpY2F0aW9uGgdjcmVhdG9yGgV0b29scxoKYmVzdGFpdG9vbBoGYWl0b29sKgkKAnRvFQAAAAAqYgoGY3JlYXRlFZacEUAaCGJ1aWxkIGFuGghjcmVhdGluZxoHY3JlYXRvchoGZGVzaWduGgdkZXZlbG9wGgxmb3IgY3JlYXRpbmcaCGdlbmVyYXRlGgRtYWtlGgdwcm9kdWNlKhQKBnNob3J0cxUMwstAGgVzaG9ydCoLCgRmcm9tFQAAAAAqLwoEbG9uZxUScEA_GgVsYXJnZRoHbGVuZ3RoeRoGbG9uZ2VyGgpsb25ndmlkZW9zKiAKBnZpZGVvcxXEZTVAGgV2aWRlbxoKbG9uZ3ZpZGVvczIvaHR0cHM6Ly93d3cuY2FudmEuY29tL2ZlYXR1cmVzL2FpLXNob3J0cy1tYWtlci86LTxiPkFJPC9iPiBZb3VUdWJlIDxiPlNob3J0czwvYj4gTWFrZXIgLSBDYW52YUKMATxiPkZyZWUgQUkgU2hvcnRzIE1ha2VyPC9iPi4gQ3JlYXRlIGVuZ2FnaW5nLCBoaWdoLXF1YWxpdHkgc2hvcnQtZm9ybSB2aWRlb3MgaW4ganVzdCBhIGZldyBzZWNvbmRzIHdpdGggQ2FudmEmIzM5O3MgQUkgWW91VHViZSBTaG9ydHMgbWFrZXIuSgRmcm9tSgJ0b0oCaXNKA3RoZVIDdG9wUgV2aWRlbyICEAFIAFgAaAA",
+        "source": "Canva",
+        "read_more_link": "https://www.canva.com/features/ai-shorts-maker/#:~:text=Free%20AI%20Shorts%20Maker,Canva's%20AI%20YouTube%20Shorts%20maker."
+      },
+      {
+        "position": 6,
+        "title": "What is the best AI online tool for making YouTube shorts ...",
+        "link": "https://www.facebook.com/groups/BuzzsproutCommunity/posts/8554026277950444/",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.facebook.com/groups/BuzzsproutCommunity/posts/8554026277950444/&usg=AOvVaw0o4-u1MkVBTaef1P7wCApd",
+        "displayed_link": "20+ comments",
+        "date": "2 years ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+        "snippet": "Hi everyone, does anyone have a favorite AI online tool that you use to make YouTube shorts from your video recording? I have tried both Opus and ...",
+        "about_this_result": {
+          "source": {
+            "description": "Gling AI Tool and InVideo are recommended for editing YouTube shorts, offering features like automated video creation and AI-powered metadata.",
+            "source_info_link": "https://www.facebook.com/groups/BuzzsproutCommunity/posts/8554026277950444/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CktodHRwczovL3d3dy5mYWNlYm9vay5jb20vZ3JvdXBzL0J1enpzcHJvdXRDb21tdW5pdHkvcG9zdHMvODU1NDAyNjI3Nzk1MDQ0NC8SBBoCCAAajAcSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA6AYIABAAGAAgACo5CgR3aGF0FQKPqEAaBGdvb2QaB3JhdGluZ3MaD3JlY29tbWVuZGF0aW9ucxoFd2hhdHMaBXdoaWNoKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqTAoEYmVzdBXEvLRAGgZiZXR0ZXIaBGdvb2QaB3JhdGluZ3MaD3JlY29tbWVuZGF0aW9ucxoDdG9wGgZiZXN0YWkaCmJlc3RhaXRvb2wqPgoCYWkVpnbmQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaBmJlc3RhaRoKYmVzdGFpdG9vbBoGYWl0b29sKjwKBHRvb2wVjsqmQBoLYXBwbGljYXRpb24aB2NyZWF0b3IaBXRvb2xzGgpiZXN0YWl0b29sGgZhaXRvb2wqCQoCdG8VAAAAACpiCgZjcmVhdGUVUh5dPhoIYnVpbGQgYW4aCGNyZWF0aW5nGgdjcmVhdG9yGgZkZXNpZ24aB2RldmVsb3AaDGZvciBjcmVhdGluZxoIZ2VuZXJhdGUaBG1ha2UaB3Byb2R1Y2UqFAoGc2hvcnRzFV46uEAaBXNob3J0KgsKBGZyb20VAAAAACovCgRsb25nFXkIBEAaBWxhcmdlGgdsZW5ndGh5GgZsb25nZXIaCmxvbmd2aWRlb3MqIAoGdmlkZW9zFdpAFUAaBXZpZGVvGgpsb25ndmlkZW9zMktodHRwczovL3d3dy5mYWNlYm9vay5jb20vZ3JvdXBzL0J1enpzcHJvdXRDb21tdW5pdHkvcG9zdHMvODU1NDAyNjI3Nzk1MDQ0NC86VzxiPldoYXQgaXMgdGhlIGJlc3QgQUk8L2I-IG9ubGluZSA8Yj50b29sPC9iPiBmb3IgbWFraW5nIFlvdVR1YmUgPGI-c2hvcnRzPC9iPiBmcm9tIC4uLkKVATxiPkdsaW5nIEFJIFRvb2w8L2I-IGFuZCBJblZpZGVvIGFyZSByZWNvbW1lbmRlZCBmb3IgZWRpdGluZyBZb3VUdWJlIHNob3J0cywgb2ZmZXJpbmcgZmVhdHVyZXMgbGlrZSBhdXRvbWF0ZWQgdmlkZW8gY3JlYXRpb24gYW5kIEFJLXBvd2VyZWQgbWV0YWRhdGEuSgN0aGVKAmlzSgJ0b0oEZnJvbVIFdmlkZW9SA3RvcCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CktodHRwczovL3d3dy5mYWNlYm9vay5jb20vZ3JvdXBzL0J1enpzcHJvdXRDb21tdW5pdHkvcG9zdHMvODU1NDAyNjI3Nzk1MDQ0NC8SBBoCCAAajAcSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA6AYIABAAGAAgACo5CgR3aGF0FQKPqEAaBGdvb2QaB3JhdGluZ3MaD3JlY29tbWVuZGF0aW9ucxoFd2hhdHMaBXdoaWNoKgkKAmlzFQAAAAAqCgoDdGhlFQAAAAAqTAoEYmVzdBXEvLRAGgZiZXR0ZXIaBGdvb2QaB3JhdGluZ3MaD3JlY29tbWVuZGF0aW9ucxoDdG9wGgZiZXN0YWkaCmJlc3RhaXRvb2wqPgoCYWkVpnbmQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaBmJlc3RhaRoKYmVzdGFpdG9vbBoGYWl0b29sKjwKBHRvb2wVjsqmQBoLYXBwbGljYXRpb24aB2NyZWF0b3IaBXRvb2xzGgpiZXN0YWl0b29sGgZhaXRvb2wqCQoCdG8VAAAAACpiCgZjcmVhdGUVUh5dPhoIYnVpbGQgYW4aCGNyZWF0aW5nGgdjcmVhdG9yGgZkZXNpZ24aB2RldmVsb3AaDGZvciBjcmVhdGluZxoIZ2VuZXJhdGUaBG1ha2UaB3Byb2R1Y2UqFAoGc2hvcnRzFV46uEAaBXNob3J0KgsKBGZyb20VAAAAACovCgRsb25nFXkIBEAaBWxhcmdlGgdsZW5ndGh5GgZsb25nZXIaCmxvbmd2aWRlb3MqIAoGdmlkZW9zFdpAFUAaBXZpZGVvGgpsb25ndmlkZW9zMktodHRwczovL3d3dy5mYWNlYm9vay5jb20vZ3JvdXBzL0J1enpzcHJvdXRDb21tdW5pdHkvcG9zdHMvODU1NDAyNjI3Nzk1MDQ0NC86VzxiPldoYXQgaXMgdGhlIGJlc3QgQUk8L2I-IG9ubGluZSA8Yj50b29sPC9iPiBmb3IgbWFraW5nIFlvdVR1YmUgPGI-c2hvcnRzPC9iPiBmcm9tIC4uLkKVATxiPkdsaW5nIEFJIFRvb2w8L2I-IGFuZCBJblZpZGVvIGFyZSByZWNvbW1lbmRlZCBmb3IgZWRpdGluZyBZb3VUdWJlIHNob3J0cywgb2ZmZXJpbmcgZmVhdHVyZXMgbGlrZSBhdXRvbWF0ZWQgdmlkZW8gY3JlYXRpb24gYW5kIEFJLXBvd2VyZWQgbWV0YWRhdGEuSgN0aGVKAmlzSgJ0b0oEZnJvbVIFdmlkZW9SA3RvcCICEAFIAFgAaAA",
+        "source": "Facebook \u00b7 Buzzsprout Podcast Community"
+      },
+      {
+        "position": 7,
+        "title": "AI long to short video converter. - Adobe Express",
+        "link": "https://www.adobe.com/express/feature/ai/video/convert/long-to-short",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.adobe.com/express/feature/ai/video/convert/long-to-short&usg=AOvVaw3eJVG-_FjGcRquMWQRmbvX",
+        "displayed_link": "https://www.adobe.com \u203a feature \u203a ai \u203a video \u203a convert",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzrEADrEADrEADrEADrAADrEAD____wbWr2qaf-9fX729r5x8btLijvS0byfntEd2TgAAAABXRSTlMATsufzEBRSFAAAACvSURBVCiRjZOLDoMwCEVRd0uf-v9_O6BzWxWNJyY1PeVKGiSi6RUc5omExVPKInVXLoSJ3MxPMl27EB5LGL7EykKEL6vK6svARoAjkbpMrszM8nB2JKJW1aGlnyyy3_REOUk029ZsbjhKbWeDLekktVH0AD5IbFYhFEsYpe7lnJOdKoPs12qJlr_iX9ZdRmupDjLurGi6YPjml_5-vFsHmq_dfD-at0MtY-0m6-_wBr8IEuMazHj1AAAAAElFTkSuQmCC.png",
+        "snippet": "Our Clip Maker uses AI to pick out the best moments from your long videos and turns them into short, shareable clips. It adds dynamic subtitles and adjusts ...",
+        "snippet_highlighted_words": [
+          "AI",
+          "best",
+          "long videos",
+          "short"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Our Clip Maker uses AI to pick out the best moments from your long videos and turns them into short, shareable clips. It adds dynamic subtitles and adjusts ...",
+            "source_info_link": "https://www.adobe.com/express/feature/ai/video/convert/long-to-short",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzrEADrEADrEADrEADrAADrEAD____wbWr2qaf-9fX729r5x8btLijvS0byfntEd2TgAAAABXRSTlMATsufzEBRSFAAAACvSURBVCiRjZOLDoMwCEVRd0uf-v9_O6BzWxWNJyY1PeVKGiSi6RUc5omExVPKInVXLoSJ3MxPMl27EB5LGL7EykKEL6vK6svARoAjkbpMrszM8nB2JKJW1aGlnyyy3_REOUk029ZsbjhKbWeDLekktVH0AD5IbFYhFEsYpe7lnJOdKoPs12qJlr_iX9ZdRmupDjLurGi6YPjml_5-vFsHmq_dfD-at0MtY-0m6-_wBr8IEuMazHj1AAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CkRodHRwczovL3d3dy5hZG9iZS5jb20vZXhwcmVzcy9mZWF0dXJlL2FpL3ZpZGVvL2NvbnZlcnQvbG9uZy10by1zaG9ydBIEGgIIABqaBxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPQGCAAQABgAIAAqOQoEd2hhdBU1T6A_GgRnb29kGgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMaBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKkwKBGJlc3QVXYQKPxoGYmV0dGVyGgRnb29kGgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMaA3RvcBoGYmVzdGFpGgpiZXN0YWl0b29sKj4KAmFpFZOB50AaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgZiZXN0YWkaCmJlc3RhaXRvb2waBmFpdG9vbCo8CgR0b29sFQAAAAAaC2FwcGxpY2F0aW9uGgdjcmVhdG9yGgV0b29scxoKYmVzdGFpdG9vbBoGYWl0b29sKgkKAnRvFQAAAAAqYgoGY3JlYXRlFUXbKkAaCGJ1aWxkIGFuGghjcmVhdGluZxoHY3JlYXRvchoGZGVzaWduGgdkZXZlbG9wGgxmb3IgY3JlYXRpbmcaCGdlbmVyYXRlGgRtYWtlGgdwcm9kdWNlKhQKBnNob3J0cxXjTSs-GgVzaG9ydCoLCgRmcm9tFQAAAAAqLwoEbG9uZxXZ79JAGgVsYXJnZRoHbGVuZ3RoeRoGbG9uZ2VyGgpsb25ndmlkZW9zKiAKBnZpZGVvcxXYnYVAGgV2aWRlbxoKbG9uZ3ZpZGVvczJEaHR0cHM6Ly93d3cuYWRvYmUuY29tL2V4cHJlc3MvZmVhdHVyZS9haS92aWRlby9jb252ZXJ0L2xvbmctdG8tc2hvcnQ6PzxiPkFJIGxvbmc8L2I-IHRvIDxiPnNob3J0IHZpZGVvPC9iPiBjb252ZXJ0ZXIuIC0gQWRvYmUgRXhwcmVzc0LAAU91ciBDbGlwIE1ha2VyIHVzZXMgPGI-QUk8L2I-IHRvIHBpY2sgb3V0IHRoZSA8Yj5iZXN0PC9iPiBtb21lbnRzIGZyb20geW91ciA8Yj5sb25nIHZpZGVvczwvYj4gYW5kIHR1cm5zIHRoZW0gaW50byA8Yj5zaG9ydDwvYj4sIHNoYXJlYWJsZSBjbGlwcy4gSXQgYWRkcyBkeW5hbWljIHN1YnRpdGxlcyBhbmQgYWRqdXN0cyZuYnNwOy4uLkoCdG9KAmlzSgN0aGVKBGZyb21SBXZpZGVvUgN0b3AiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CkRodHRwczovL3d3dy5hZG9iZS5jb20vZXhwcmVzcy9mZWF0dXJlL2FpL3ZpZGVvL2NvbnZlcnQvbG9uZy10by1zaG9ydBIEGgIIABqaBxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPQGCAAQABgAIAAqOQoEd2hhdBU1T6A_GgRnb29kGgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMaBXdoYXRzGgV3aGljaCoJCgJpcxUAAAAAKgoKA3RoZRUAAAAAKkwKBGJlc3QVXYQKPxoGYmV0dGVyGgRnb29kGgdyYXRpbmdzGg9yZWNvbW1lbmRhdGlvbnMaA3RvcBoGYmVzdGFpGgpiZXN0YWl0b29sKj4KAmFpFZOB50AaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgZiZXN0YWkaCmJlc3RhaXRvb2waBmFpdG9vbCo8CgR0b29sFQAAAAAaC2FwcGxpY2F0aW9uGgdjcmVhdG9yGgV0b29scxoKYmVzdGFpdG9vbBoGYWl0b29sKgkKAnRvFQAAAAAqYgoGY3JlYXRlFUXbKkAaCGJ1aWxkIGFuGghjcmVhdGluZxoHY3JlYXRvchoGZGVzaWduGgdkZXZlbG9wGgxmb3IgY3JlYXRpbmcaCGdlbmVyYXRlGgRtYWtlGgdwcm9kdWNlKhQKBnNob3J0cxXjTSs-GgVzaG9ydCoLCgRmcm9tFQAAAAAqLwoEbG9uZxXZ79JAGgVsYXJnZRoHbGVuZ3RoeRoGbG9uZ2VyGgpsb25ndmlkZW9zKiAKBnZpZGVvcxXYnYVAGgV2aWRlbxoKbG9uZ3ZpZGVvczJEaHR0cHM6Ly93d3cuYWRvYmUuY29tL2V4cHJlc3MvZmVhdHVyZS9haS92aWRlby9jb252ZXJ0L2xvbmctdG8tc2hvcnQ6PzxiPkFJIGxvbmc8L2I-IHRvIDxiPnNob3J0IHZpZGVvPC9iPiBjb252ZXJ0ZXIuIC0gQWRvYmUgRXhwcmVzc0LAAU91ciBDbGlwIE1ha2VyIHVzZXMgPGI-QUk8L2I-IHRvIHBpY2sgb3V0IHRoZSA8Yj5iZXN0PC9iPiBtb21lbnRzIGZyb20geW91ciA8Yj5sb25nIHZpZGVvczwvYj4gYW5kIHR1cm5zIHRoZW0gaW50byA8Yj5zaG9ydDwvYj4sIHNoYXJlYWJsZSBjbGlwcy4gSXQgYWRkcyBkeW5hbWljIHN1YnRpdGxlcyBhbmQgYWRqdXN0cyZuYnNwOy4uLkoCdG9KAmlzSgN0aGVKBGZyb21SBXZpZGVvUgN0b3AiAhABSABYAGgA",
+        "source": "Adobe",
+        "read_more_link": "https://www.adobe.com/express/feature/ai/video/convert/long-to-short#:~:text=Our%20Clip%20Maker%20uses%20AI,Reels%2C%20TikTok%20or%20YouTube%20Shorts."
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "What is the best ai tool to create shorts from long videos free",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDj3VKWgFOCXlgnt5g2Vd8P09pGqKQ:1795424244218&q=What+is+the+best+ai+tool+to+create+shorts+from+long+videos+free&sa=X&ved=2ahUKEwikw7DC3J2YAxU7kokEHQInKpIQ1QJ6BAhEEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+the+best+ai+tool+to+create+shorts+from+long+videos+free"
+      },
+      {
+        "block_position": 1,
+        "query": "YouTube Shorts maker free AI",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDj3VKWgFOCXlgnt5g2Vd8P09pGqKQ:1795424244218&q=YouTube+Shorts+maker+free+AI&sa=X&ved=2ahUKEwikw7DC3J2YAxU7kokEHQInKpIQ1QJ6BAhOEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=YouTube+Shorts+maker+free+AI"
+      },
+      {
+        "block_position": 1,
+        "query": "AI Shorts video generator free",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDj3VKWgFOCXlgnt5g2Vd8P09pGqKQ:1795424244218&q=AI+Shorts+video+generator+free&sa=X&ved=2ahUKEwikw7DC3J2YAxU7kokEHQInKpIQ1QJ6BAhNEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AI+Shorts+video+generator+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Long video to short video AI free",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDj3VKWgFOCXlgnt5g2Vd8P09pGqKQ:1795424244218&q=Long+video+to+short+video+AI+free&sa=X&ved=2ahUKEwikw7DC3J2YAxU7kokEHQInKpIQ1QJ6BAhMEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Long+video+to+short+video+AI+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Best free AI short video generator",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDj3VKWgFOCXlgnt5g2Vd8P09pGqKQ:1795424244218&q=Best+free+AI+short+video+generator&sa=X&ved=2ahUKEwikw7DC3J2YAxU7kokEHQInKpIQ1QJ6BAhLEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+free+AI+short+video+generator"
+      },
+      {
+        "block_position": 1,
+        "query": "Best AI Shorts generator",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDj3VKWgFOCXlgnt5g2Vd8P09pGqKQ:1795424244218&q=Best+AI+Shorts+generator&sa=X&ved=2ahUKEwikw7DC3J2YAxU7kokEHQInKpIQ1QJ6BAhHEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+AI+Shorts+generator"
+      },
+      {
+        "block_position": 1,
+        "query": "AI Shorts maker free",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDj3VKWgFOCXlgnt5g2Vd8P09pGqKQ:1795424244218&q=AI+Shorts+maker+free&sa=X&ved=2ahUKEwikw7DC3J2YAxU7kokEHQInKpIQ1QJ6BAhGEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AI+Shorts+maker+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Long video to short video AI free without watermark",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDj3VKWgFOCXlgnt5g2Vd8P09pGqKQ:1795424244218&q=Long+video+to+short+video+AI+free+without+watermark&sa=X&ved=2ahUKEwikw7DC3J2YAxU7kokEHQInKpIQ1QJ6BAhFEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Long+video+to+short+video+AI+free+without+watermark"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "AI Video Tool to Cut-up Long Videos into Shorts?",
+        "link": "https://www.reddit.com/r/NewTubers/comments/1kcv90k/ai_video_tool_to_cutup_long_videos_into_shorts/",
+        "date": "1 year ago",
+        "extensions": [
+          "r/NewTubers",
+          "90+ comments"
+        ],
+        "source": "Reddit",
+        "answers": [
+          {
+            "link": "https://www.reddit.com/r/NewTubers/comments/1kcv90k/ai_video_tool_to_cutup_long_videos_into_shorts/"
+          }
+        ]
+      },
+      {
+        "title": "What are the best AI tools for video shorts in 2026?",
+        "link": "https://www.quora.com/What-are-the-best-AI-tools-for-video-shorts-in-2026",
+        "date": "6 months ago",
+        "extensions": [
+          "30+ answers"
+        ],
+        "source": "Quora",
+        "answers": [
+          {
+            "link": "https://www.quora.com/What-are-the-best-AI-tools-for-video-shorts-in-2026"
+          }
+        ]
+      },
+      {
+        "title": "What is the best AI tool to create short videos fast?",
+        "link": "https://www.quora.com/What-is-the-best-AI-tool-to-create-short-videos-fast",
+        "date": "1 year ago",
+        "extensions": [
+          "40+ answers"
+        ],
+        "source": "Quora",
+        "answers": [
+          {
+            "link": "https://www.quora.com/What-is-the-best-AI-tool-to-create-short-videos-fast?top_ans=1477743894402060",
+            "extensions": [
+              "Top answer",
+              "10 months ago"
+            ]
+          },
+          {
+            "link": "https://www.quora.com/What-is-the-best-AI-tool-to-create-short-videos-fast?top_ans=1477743912320567",
+            "extensions": [
+              "4 months ago"
+            ]
+          },
+          {
+            "link": "https://www.quora.com/What-is-the-best-AI-tool-to-create-short-videos-fast?top_ans=1477743891024792",
+            "extensions": [
+              "a year ago"
+            ]
+          }
+        ]
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=What+is+the+best+AI+tool+to+create+shorts+from+long+videos?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDj3VKWgFOCXlgnt5g2Vd8P09pGqKQ:1795424244218&ei=9P8Da6T5DLukptQPgs6okQk&start=10&sa=N&sstk=AYl2yk-3BYaa0nwG_dQ-hq-lSIe8DAfkK0nJzne1zxA9lnVEEtXYti8ujZOiajDhhzlVkD_CInlojAAqG5_j6fuHN8h6xTyUHj_Ztw&ved=2ahUKEwikw7DC3J2YAxU7kokEHQInKpIQ8NMDegQIPxAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=What+is+the+best+AI+tool+to+create+shorts+from+long+videos?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDj3VKWgFOCXlgnt5g2Vd8P09pGqKQ:1795424244218&ei=9P8Da6T5DLukptQPgs6okQk&start=10&sa=N&sstk=AYl2yk-3BYaa0nwG_dQ-hq-lSIe8DAfkK0nJzne1zxA9lnVEEtXYti8ujZOiajDhhzlVkD_CInlojAAqG5_j6fuHN8h6xTyUHj_Ztw&ved=2ahUKEwikw7DC3J2YAxU7kokEHQInKpIQ8tMDegQIPxAE",
+        "3": "https://www.google.com/search?q=What+is+the+best+AI+tool+to+create+shorts+from+long+videos?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDj3VKWgFOCXlgnt5g2Vd8P09pGqKQ:1795424244218&ei=9P8Da6T5DLukptQPgs6okQk&start=20&sa=N&sstk=AYl2yk-3BYaa0nwG_dQ-hq-lSIe8DAfkK0nJzne1zxA9lnVEEtXYti8ujZOiajDhhzlVkD_CInlojAAqG5_j6fuHN8h6xTyUHj_Ztw&ved=2ahUKEwikw7DC3J2YAxU7kokEHQInKpIQ8tMDegQIPxAG",
+        "4": "https://www.google.com/search?q=What+is+the+best+AI+tool+to+create+shorts+from+long+videos?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDj3VKWgFOCXlgnt5g2Vd8P09pGqKQ:1795424244218&ei=9P8Da6T5DLukptQPgs6okQk&start=30&sa=N&sstk=AYl2yk-3BYaa0nwG_dQ-hq-lSIe8DAfkK0nJzne1zxA9lnVEEtXYti8ujZOiajDhhzlVkD_CInlojAAqG5_j6fuHN8h6xTyUHj_Ztw&ved=2ahUKEwikw7DC3J2YAxU7kokEHQInKpIQ8tMDegQIPxAI",
+        "5": "https://www.google.com/search?q=What+is+the+best+AI+tool+to+create+shorts+from+long+videos?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDj3VKWgFOCXlgnt5g2Vd8P09pGqKQ:1795424244218&ei=9P8Da6T5DLukptQPgs6okQk&start=40&sa=N&sstk=AYl2yk-3BYaa0nwG_dQ-hq-lSIe8DAfkK0nJzne1zxA9lnVEEtXYti8ujZOiajDhhzlVkD_CInlojAAqG5_j6fuHN8h6xTyUHj_Ztw&ved=2ahUKEwikw7DC3J2YAxU7kokEHQInKpIQ8tMDegQIPxAK",
+        "6": "https://www.google.com/search?q=What+is+the+best+AI+tool+to+create+shorts+from+long+videos?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDj3VKWgFOCXlgnt5g2Vd8P09pGqKQ:1795424244218&ei=9P8Da6T5DLukptQPgs6okQk&start=50&sa=N&sstk=AYl2yk-3BYaa0nwG_dQ-hq-lSIe8DAfkK0nJzne1zxA9lnVEEtXYti8ujZOiajDhhzlVkD_CInlojAAqG5_j6fuHN8h6xTyUHj_Ztw&ved=2ahUKEwikw7DC3J2YAxU7kokEHQInKpIQ8tMDegQIPxAM",
+        "7": "https://www.google.com/search?q=What+is+the+best+AI+tool+to+create+shorts+from+long+videos?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDj3VKWgFOCXlgnt5g2Vd8P09pGqKQ:1795424244218&ei=9P8Da6T5DLukptQPgs6okQk&start=60&sa=N&sstk=AYl2yk-3BYaa0nwG_dQ-hq-lSIe8DAfkK0nJzne1zxA9lnVEEtXYti8ujZOiajDhhzlVkD_CInlojAAqG5_j6fuHN8h6xTyUHj_Ztw&ved=2ahUKEwikw7DC3J2YAxU7kokEHQInKpIQ8tMDegQIPxAO",
+        "8": "https://www.google.com/search?q=What+is+the+best+AI+tool+to+create+shorts+from+long+videos?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDj3VKWgFOCXlgnt5g2Vd8P09pGqKQ:1795424244218&ei=9P8Da6T5DLukptQPgs6okQk&start=70&sa=N&sstk=AYl2yk-3BYaa0nwG_dQ-hq-lSIe8DAfkK0nJzne1zxA9lnVEEtXYti8ujZOiajDhhzlVkD_CInlojAAqG5_j6fuHN8h6xTyUHj_Ztw&ved=2ahUKEwikw7DC3J2YAxU7kokEHQInKpIQ8tMDegQIPxAQ",
+        "9": "https://www.google.com/search?q=What+is+the+best+AI+tool+to+create+shorts+from+long+videos?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDj3VKWgFOCXlgnt5g2Vd8P09pGqKQ:1795424244218&ei=9P8Da6T5DLukptQPgs6okQk&start=80&sa=N&sstk=AYl2yk-3BYaa0nwG_dQ-hq-lSIe8DAfkK0nJzne1zxA9lnVEEtXYti8ujZOiajDhhzlVkD_CInlojAAqG5_j6fuHN8h6xTyUHj_Ztw&ved=2ahUKEwikw7DC3J2YAxU7kokEHQInKpIQ8tMDegQIPxAS",
+        "10": "https://www.google.com/search?q=What+is+the+best+AI+tool+to+create+shorts+from+long+videos?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDj3VKWgFOCXlgnt5g2Vd8P09pGqKQ:1795424244218&ei=9P8Da6T5DLukptQPgs6okQk&start=90&sa=N&sstk=AYl2yk-3BYaa0nwG_dQ-hq-lSIe8DAfkK0nJzne1zxA9lnVEEtXYti8ujZOiajDhhzlVkD_CInlojAAqG5_j6fuHN8h6xTyUHj_Ztw&ved=2ahUKEwikw7DC3J2YAxU7kokEHQInKpIQ8tMDegQIPxAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+the+best+AI+tool+to+create+shorts+from+long+videos%3F&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+the+best+AI+tool+to+create+shorts+from+long+videos%3F&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+the+best+AI+tool+to+create+shorts+from+long+videos%3F&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+the+best+AI+tool+to+create+shorts+from+long+videos%3F&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+the+best+AI+tool+to+create+shorts+from+long+videos%3F&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+the+best+AI+tool+to+create+shorts+from+long+videos%3F&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+the+best+AI+tool+to+create+shorts+from+long+videos%3F&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+the+best+AI+tool+to+create+shorts+from+long+videos%3F&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+the+best+AI+tool+to+create+shorts+from+long+videos%3F&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+the+best+AI+tool+to+create+shorts+from+long+videos%3F&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+is+the+best+AI+tool+to+create+shorts+from+long+videos%3F&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

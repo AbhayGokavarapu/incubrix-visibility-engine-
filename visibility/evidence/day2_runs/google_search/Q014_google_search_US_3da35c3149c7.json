@@ -1,0 +1,641 @@
+{
+  "measurement_id": "3da35c3149c7",
+  "question_id": "Q014",
+  "timestamp_utc": "2026-11-23T09:00:19.692622+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "How to dub English YouTube videos into Spanish and Hindi using AI?",
+  "market": "US",
+  "collection_method": "DAY_2_AUTOMATED_API",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://support.google.com/youtube/answer/15569972?hl=en",
+    "https://www.canva.com/features/ai-dubbing/",
+    "https://elevenlabs.io/dubbing-studio",
+    "https://aidubbing.io/",
+    "https://www.heygen.com/translate",
+    "https://www.instagram.com/reel/DccxauZlaRp/"
+  ],
+  "raw_text_summary": "Use automatic dubbing - Android phone & tablet - YouTube ... Sign in to YouTube Studio on your computer. \u00b7 Click Content , then select the video you want to manage dubbing for. \u00b7 Click Languages . \u00b7 In the \u201cLanguage\u201d column, ... AI Dubbing: Dub videos into any language for free Click Apps on the side panel and look for EasyDubbing. Select the video you want to dub, then pick your target language and the number of speakers in your video ... AI Dubbing Studio: Localize Content in 90+ Languages Localize content across 90+ languages with our AI dubbing studio. Bring your content to global audiences with help from bilingual dubbing experts. AI Dubbing - Free Online Video Dubbing Tool (No Sign-Up) Our AI Dubbing tool instantly translates your video into up to 170+ languages with natural, human-like voices. Choose from multiple dubbing engines\u2014from fully ... AI Video Translator : Translate Videos into 175+ Languages Translate videos into 175+ languages and dialects instantly with AI. No voice actors or dubbing needed. Fast, accurate, and easy to use. How to Translate Your YouTube Videos into Any Language ... Instead of hiring expensive dubbing studios or voice actors, you can use advanced AI video translation tools like **HeyGen** to dub your videos ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b0400a125c657b1019e5c40",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/UHSyl1Gw4JKv3tXD1jyoezNVxMiuXwcBUPlC6y-0pxY/6b0400a125c657b1019e5c40.json",
+      "markdown_endpoint": "https://serpapi.com/searches/UHSyl1Gw4JKv3tXD1jyoezNVxMiuXwcBUPlC6y-0pxY/6b0400a125c657b1019e5c40.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/UHSyl1Gw4JKv3tXD1jyoezNVxMiuXwcBUPlC6y-0pxY/6b0400a125c657b1019e5c40.json_with_pixel_position",
+      "created_at": "2026-11-23 09:00:17 UTC",
+      "processed_at": "2026-11-23 09:00:17 UTC",
+      "google_url": "https://www.google.com/search?q=How+to+dub+English+YouTube+videos+into+Spanish+and+Hindi+using+AI%3F&oq=How+to+dub+English+YouTube+videos+into+Spanish+and+Hindi+using+AI%3F&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/UHSyl1Gw4JKv3tXD1jyoezNVxMiuXwcBUPlC6y-0pxY/6b0400a125c657b1019e5c40.html",
+      "total_time_taken": 0.78
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "How to dub English YouTube videos into Spanish and Hindi using AI?",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "How to dub English YouTube videos into Spanish and Hindi using AI?",
+      "total_results": 149,
+      "time_taken_displayed": 0.3,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "How to Translate Videos Into Any Language with Synthesia AI",
+        "link": "https://www.youtube.com/watch?v=7lKUFcvSz5A",
+        "thumbnail": "https://serpapi.com/searches/6b0400a125c657b1019e5c40/images/-lkP0UKb3fPN1u6SB7YlrY4RGEKrV2qyZBrToR-hceY.webp",
+        "channel": "AI Master",
+        "duration": "12:09",
+        "platform": "YouTube",
+        "date": "Aug 29, 2026",
+        "snippet": "Translate videos into 130+ languages with Synthesia AI. It preserves your voice and adapts lip movement for natural-sounding dubs.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTnitwH4mihkc-v7RaFHlcV-TIQX7AwvQCbiA"
+      },
+      {
+        "position": 2,
+        "title": "How to Dub Videos into 29 Languages Automatically (with ...",
+        "link": "https://www.youtube.com/watch?v=RKzp4OfCgBA",
+        "thumbnail": "https://serpapi.com/searches/6b0400a125c657b1019e5c40/images/d5hRyqhlTtI9SqFonRqfyK3S7l7N2LmqawdXBrjt6os.webp",
+        "channel": "ElevenLabs",
+        "duration": "5:51",
+        "platform": "YouTube",
+        "date": "Aug 21, 2025",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQBtDv032b7X77ekVtilOSi-yaVQxlTmpaUfg",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "AI Dubbing",
+            "link": "https://www.youtube.com/watch?v=RKzp4OfCgBA&t=0"
+          },
+          {
+            "time": "00:09",
+            "title": "Why subtitles and manual translation fall short",
+            "link": "https://www.youtube.com/watch?v=RKzp4OfCgBA&t=9"
+          },
+          {
+            "time": "00:24",
+            "title": "How to dub into 29 languages automatically with ElevenLabs",
+            "link": "https://www.youtube.com/watch?v=RKzp4OfCgBA&t=24"
+          },
+          {
+            "time": "01:12",
+            "title": "Setting up your dubbing project",
+            "link": "https://www.youtube.com/watch?v=RKzp4OfCgBA&t=72"
+          },
+          {
+            "time": "02:25",
+            "title": "Voice cloning for multiple speakers",
+            "link": "https://www.youtube.com/watch?v=RKzp4OfCgBA&t=145"
+          },
+          {
+            "time": "03:36",
+            "title": "Previewing dubbed languages (French, Spanish, Hindi)",
+            "link": "https://www.youtube.com/watch?v=RKzp4OfCgBA&t=216"
+          },
+          {
+            "time": "04:12",
+            "title": "Uploading dubbed audio tracks to YouTube",
+            "link": "https://www.youtube.com/watch?v=RKzp4OfCgBA&t=252"
+          },
+          {
+            "time": "05:27",
+            "title": "How to manage multiple languages across your content",
+            "link": "https://www.youtube.com/watch?v=RKzp4OfCgBA&t=327"
+          },
+          {
+            "time": "05:35",
+            "title": "Final thoughts & how to get started",
+            "link": "https://www.youtube.com/watch?v=RKzp4OfCgBA&t=335"
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "title": "How To Dub Any Video Into Over 40 Languages Using Your ...",
+        "link": "https://www.youtube.com/watch?v=dZTDXqkyG64&vl=en",
+        "thumbnail": "https://serpapi.com/searches/6b0400a125c657b1019e5c40/images/Xh9n84kaVWkgXyKfjE3s0U818ECaM8pjPO0hxfzYoNA.webp",
+        "channel": "Kapwing",
+        "duration": "9:20",
+        "platform": "YouTube",
+        "date": "Aug 14, 2026",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQnJ8dRFT3F1px-EhrWGcdChj5GAz1PDkYHMQ",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "Intro: Dub any video into 40+ languages",
+            "link": "https://www.youtube.com/watch?v=dZTDXqkyG64&vl=en&t=0"
+          },
+          {
+            "time": "00:30",
+            "title": "Who this is for (podcasters, marketers, creators)",
+            "link": "https://www.youtube.com/watch?v=dZTDXqkyG64&vl=en&t=30"
+          },
+          {
+            "time": "01:00",
+            "title": "Step 1: Upload your video to Kapwing",
+            "link": "https://www.youtube.com/watch?v=dZTDXqkyG64&vl=en&t=60"
+          },
+          {
+            "time": "01:20",
+            "title": "Choosing your dub language (40+ options)",
+            "link": "https://www.youtube.com/watch?v=dZTDXqkyG64&vl=en&t=80"
+          },
+          {
+            "time": "01:50",
+            "title": "Reviewing your transcript first",
+            "link": "https://www.youtube.com/watch?v=dZTDXqkyG64&vl=en&t=110"
+          },
+          {
+            "time": "02:20",
+            "title": "Setting up translation rules for brand names",
+            "link": "https://www.youtube.com/watch?v=dZTDXqkyG64&vl=en&t=140"
+          },
+          {
+            "time": "02:50",
+            "title": "Stock voices vs. cloning your own voice",
+            "link": "https://www.youtube.com/watch?v=dZTDXqkyG64&vl=en&t=170"
+          },
+          {
+            "time": "03:30",
+            "title": "Advanced settings: timing, pronunciation, search & replace",
+            "link": "https://www.youtube.com/watch?v=dZTDXqkyG64&vl=en&t=210"
+          },
+          {
+            "time": "04:40",
+            "title": "Playing back the Spanish dub result",
+            "link": "https://www.youtube.com/watch?v=dZTDXqkyG64&vl=en&t=280"
+          },
+          {
+            "time": "05:10",
+            "title": "Multi-speaker detection for podcasts",
+            "link": "https://www.youtube.com/watch?v=dZTDXqkyG64&vl=en&t=310"
+          },
+          {
+            "time": "05:50",
+            "title": "Automatic lip-sync feature",
+            "link": "https://www.youtube.com/watch?v=dZTDXqkyG64&vl=en&t=350"
+          },
+          {
+            "time": "06:20",
+            "title": "Auto-generated translated captions",
+            "link": "https://www.youtube.com/watch?v=dZTDXqkyG64&vl=en&t=380"
+          },
+          {
+            "time": "06:50",
+            "title": "Demo: Spanish, French & Mandarin dubs",
+            "link": "https://www.youtube.com/watch?v=dZTDXqkyG64&vl=en&t=410"
+          },
+          {
+            "time": "07:40",
+            "title": "How to try Kapwing for free",
+            "link": "https://www.youtube.com/watch?v=dZTDXqkyG64&vl=en&t=460"
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "title": "Enable AI Dubbing on YouTube \u2013 Translate Videos ...",
+        "link": "https://www.youtube.com/watch?v=NO8H8UkM0GU&vl=en",
+        "thumbnail": "https://serpapi.com/searches/6b0400a125c657b1019e5c40/images/_Z3Jyd4KkLVuVPZF3RENC6f9B4l-6GL4cT4GmOy7XLM.webp",
+        "channel": "Should You Play It?",
+        "duration": "2:23",
+        "platform": "YouTube",
+        "date": "Oct 4, 2025",
+        "snippet": "Enable AI dubbing on YouTube through the Languages section or Advanced Settings. Eligibility requires YouTube Partner Program status.",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTen3umblqmTe9ASoW_YPRsLBAfsnwfyVeYBQ"
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "How to dub a video in another language in AI?",
+        "type": "ai_overview",
+        "page_token": "JpkLC3icHdBdbpswAADgTdpZ-tjYocu0SNEkWrtJVEA22MS8VMQm_BlDEi8uftxNJu1ph-kBeppJ-47w_fqjW9N_fL411k7X9WLhnLuvx7HW1b0ch0V5nY1cyFLrYyn79erbCv44yQ36uQsfz7uQMIqEVjo3_Ck3xU4sR5h2NE3YlEQQf2WAOMXrh8JTLPpYR9sG0G04Rpy-CB_a5KCTfFBcPWFTMHs-PsKVCOKJHXpXodozHA5pvvPKq0OZAi89AgJQyFmjebb3RTB1R4-WElhTZfuXCofnwu-xhOota-E18szKLr5GgWLHQLfs-WEWM_CVoZcioMtocDZG_Fx1tVVbYlOsKcljgxp1KwDGIpNzgvZdNFinMCbKUEFmSNXb2BLWJBFiAR2IY4POD8vvq_gZoozjjOQTIpAnGW_aKuuBcncnedsEd_8_N6-nwa6ny1j_lZeqtJV6Le17_-XT738e3YvZ",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=JpkLC3icHdBdbpswAADgTdpZ-tjYocu0SNEkWrtJVEA22MS8VMQm_BlDEi8uftxNJu1ph-kBeppJ-47w_fqjW9N_fL411k7X9WLhnLuvx7HW1b0ch0V5nY1cyFLrYyn79erbCv44yQ36uQsfz7uQMIqEVjo3_Ck3xU4sR5h2NE3YlEQQf2WAOMXrh8JTLPpYR9sG0G04Rpy-CB_a5KCTfFBcPWFTMHs-PsKVCOKJHXpXodozHA5pvvPKq0OZAi89AgJQyFmjebb3RTB1R4-WElhTZfuXCofnwu-xhOota-E18szKLr5GgWLHQLfs-WEWM_CVoZcioMtocDZG_Fx1tVVbYlOsKcljgxp1KwDGIpNzgvZdNFinMCbKUEFmSNXb2BLWJBFiAR2IY4POD8vvq_gZoozjjOQTIpAnGW_aKuuBcncnedsEd_8_N6-nwa6ny1j_lZeqtJV6Le17_-XT738e3YvZ",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVdHcFJRbFJyVlMxaFVWZ3lVMlJYVTFSVllXZGpYMjlWTlVWdlgwbzNheTEwUnpkTE5uQk5VSGhSV1RCSloxQlJZMUkxVW5CV1pWcFdhR3BSYjBZNVdYVnJaM0ptU0RWQk9XVm5ORFp4WDB4d2RrZGpZMmgwYVMxaWR4SVhiMmRCUldFM01qaENZekpyY0hSUlVIWjBXRU10VVhjYUlrRklUakJGTjBjelJrbFJVVVJvU210blgwaHFZVWROTVZvNFdrUkVSRzE2U0ZFIiwiZmN2IjoiMyIsImVpIjoib2dBRWE3MjhCYzJrcHRRUHZ0WEMtUXciLCJxYyI6ImMtTnl6TWd2VnlqSlYwZ3BUVkpJelV2UHlTek9VS2pNTHkwcFRVcFZLTXRNU2MwdlZzak1BOG9YRnlUbWdlUVM4MUlVTWpMelVqSVZTb3N6ODlJVkVqTUZHR29uVHRTMEJ3QSIsInF1ZXN0aW9uIjoiSG93IHRvIGR1YiBhIHZpZGVvIGluIGFub3RoZXIgbGFuZ3VhZ2UgaW4gQUk/IiwibGsiOiJHaWxvYjNjZ2RHOGdaSFZpSUdFZ2RtbGtaVzhnYVc0Z1lXNXZkR2hsY2lCc1lXNW5kV0ZuWlNCaGFRIiwiYnMiOiJjNDJRTVlfQ01BeEdkV3VtbXpzWm1BN0UwZ0V4VVoxT1NIU0dCWW5GYlVOcnFXZWpKZ0hCcjZjSkxZV05MWXEtNS1fWjZxRG1HN21BRlNoY0JnaG5LclFBTVNDTHJYUUROWExwc05ULTd6ZE40bG4wVTMwR0lLbFVqVk1EZTNFN2wybHdocmhzaF9Sd1FFMFNUNklSR2JpS3MwTUs2VDJsYm1ybFJYTmtTQ0d2MmhJTmJSLWdLMGpnMk1nX3JMbXN5VlFlM0o2UV9WTzRiMF9pWmJUb3pEdjhCZFVEYWdhMFUxSjdOZjBMdmM3b3p0ODJ5S1pHMjA1NTdoZE13NFc4SllYMFk0X1hkTDluU0g5XzNRRSIsImlkIjoiZmNfb2dBRWE3MjhCYzJrcHRRUHZ0WEMtUXdfMSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVdHcFJRbFJyVlMxaFVWZ3lVMlJYVTFSVllXZGpYMjlWTlVWdlgwbzNheTEwUnpkTE5uQk5VSGhSV1RCSloxQlJZMUkxVW5CV1pWcFdhR3BSYjBZNVdYVnJaM0ptU0RWQk9XVm5ORFp4WDB4d2RrZGpZMmgwYVMxaWR4SVhiMmRCUldFM01qaENZekpyY0hSUlVIWjBXRU10VVhjYUlrRklUakJGTjBjelJrbFJVVVJvU210blgwaHFZVWROTVZvNFdrUkVSRzE2U0ZFIiwiZmN2IjoiMyIsImVpIjoib2dBRWE3MjhCYzJrcHRRUHZ0WEMtUXciLCJxYyI6ImMtTnl6TWd2VnlqSlYwZ3BUVkpJelV2UHlTek9VS2pNTHkwcFRVcFZLTXRNU2MwdlZzak1BOG9YRnlUbWdlUVM4MUlVTWpMelVqSVZTb3N6ODlJVkVqTUZHR29uVHRTMEJ3QSIsInF1ZXN0aW9uIjoiSG93IHRvIGR1YiBhIHZpZGVvIGluIGFub3RoZXIgbGFuZ3VhZ2UgaW4gQUk%2FIiwibGsiOiJHaWxvYjNjZ2RHOGdaSFZpSUdFZ2RtbGtaVzhnYVc0Z1lXNXZkR2hsY2lCc1lXNW5kV0ZuWlNCaGFRIiwiYnMiOiJjNDJRTVlfQ01BeEdkV3VtbXpzWm1BN0UwZ0V4VVoxT1NIU0dCWW5GYlVOcnFXZWpKZ0hCcjZjSkxZV05MWXEtNS1fWjZxRG1HN21BRlNoY0JnaG5LclFBTVNDTHJYUUROWExwc05ULTd6ZE40bG4wVTMwR0lLbFVqVk1EZTNFN2wybHdocmhzaF9Sd1FFMFNUNklSR2JpS3MwTUs2VDJsYm1ybFJYTmtTQ0d2MmhJTmJSLWdLMGpnMk1nX3JMbXN5VlFlM0o2UV9WTzRiMF9pWmJUb3pEdjhCZFVEYWdhMFUxSjdOZjBMdmM3b3p0ODJ5S1pHMjA1NTdoZE13NFc4SllYMFk0X1hkTDluU0g5XzNRRSIsImlkIjoiZmNfb2dBRWE3MjhCYzJrcHRRUHZ0WEMtUXdfMSJ9"
+      },
+      {
+        "question": "Is YouTube using AI to dub videos?",
+        "type": "ai_overview",
+        "page_token": "kkfDXHicHdBNTuMwGADQQZqzsKRxQjNqpQqpxYZWjUtMPifOBrl2UpM4P9OahrDkJkizmsPMAeY0IG7w9N7_2Oe2_n9xNs71p_lkMgzD1aHrDra4Ul0zkaexVRMlrd1LVc_DXyG6KdUCv6yXq9_rZQwMC6ttClM_J_UQ-bMTrZgA0GXcmhcGZsOA3e3B9EliPOn1OG9QmFpj2O1mW6R83Kd9SXG-zGv8WqQzf5sdkPQGpBpEYEShzCyLanDaI-7xDrs0s2V6S1ECOoDA9gC04vcQxL5witCQ-z3l2AjZTB8Eioekonlxb7ZJbVO1Qh4QJvLAcDV6AQMuvmwRbXWSV2a1zagTzWyJjT7nHiEiUeMOb6qocYMmJNYtE_GImH7tnmMwuwhDwDzdxqg_7vjsVFjr9hmP5NtGSKSmHK_9LKiv9XBZqvMiuPz-XDyVjZv3x-7wVx0L6Qr9JN2_-uePj0-KkYmm",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=kkfDXHicHdBNTuMwGADQQZqzsKRxQjNqpQqpxYZWjUtMPifOBrl2UpM4P9OahrDkJkizmsPMAeY0IG7w9N7_2Oe2_n9xNs71p_lkMgzD1aHrDra4Ul0zkaexVRMlrd1LVc_DXyG6KdUCv6yXq9_rZQwMC6ttClM_J_UQ-bMTrZgA0GXcmhcGZsOA3e3B9EliPOn1OG9QmFpj2O1mW6R83Kd9SXG-zGv8WqQzf5sdkPQGpBpEYEShzCyLanDaI-7xDrs0s2V6S1ECOoDA9gC04vcQxL5witCQ-z3l2AjZTB8Eioekonlxb7ZJbVO1Qh4QJvLAcDV6AQMuvmwRbXWSV2a1zagTzWyJjT7nHiEiUeMOb6qocYMmJNYtE_GImH7tnmMwuwhDwDzdxqg_7vjsVFjr9hmP5NtGSKSmHK_9LKiv9XBZqvMiuPz-XDyVjZv3x-7wVx0L6Qr9JN2_-uePj0-KkYmm",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVdHcFJRbFJyVlMxaFVWZ3lVMlJYVTFSVllXZGpYMjlWTlVWdlgwbzNheTEwUnpkTE5uQk5VSGhSV1RCSloxQlJZMUkxVW5CV1pWcFdhR3BSYjBZNVdYVnJaM0ptU0RWQk9XVm5ORFp4WDB4d2RrZGpZMmgwYVMxaWR4SVhiMmRCUldFM01qaENZekpyY0hSUlVIWjBXRU10VVhjYUlrRklUakJGTjBjelJrbFJVVVJvU210blgwaHFZVWROTVZvNFdrUkVSRzE2U0ZFIiwiZmN2IjoiMyIsImVpIjoib2dBRWE3MjhCYzJrcHRRUHZ0WEMtUXciLCJxYyI6ImMtTnl6TWd2VnlqSlYwZ3BUVkpJelV2UHlTek9VS2pNTHkwcFRVcFZLTXRNU2MwdlZzak1BOG9YRnlUbWdlUVM4MUlVTWpMelVqSVZTb3N6ODlJVkVqTUZHR29uVHRTMEJ3QSIsInF1ZXN0aW9uIjoiSXMgWW91VHViZSB1c2luZyBBSSB0byBkdWIgdmlkZW9zPyIsImxrIjoiR2lGcGN5QjViM1YwZFdKbElIVnphVzVuSUdGcElIUnZJR1IxWWlCMmFXUmxiM00iLCJicyI6ImM0MlFNWV9DTUF4R2RXdW1tenNabUE3RTBnRXhVWjFPU0hTR0JZbkZiVU5ycVdlakpnSEJyNmNKTFlXTkxZcS01LV9aNnFEbUc3bUFGU2hjQmdobktyUUFNU0NMclhRRE5YTHBzTlQtN3pkTjRsbjBVMzBHSUtsVWpWTURlM0U3bDJsd2hyaHNoX1J3UUUwU1Q2SVJHYmlLczBNSzZUMmxibXJsUlhOa1NDR3YyaElOYlItZ0swamcyTWdfckxtc3lWUWUzSjZRX1ZPNGIwX2laYlRvekR2OEJkVURhZ2EwVTFKN05mMEx2YzdvenQ4MnlLWkcyMDU1N2hkTXc0VzhKWVgwWTRfWGRMOW5TSDlfM1FFIiwiaWQiOiJmY19vZ0FFYTcyOEJjMmtwdFFQdnRYQy1Rd18xIn0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVdHcFJRbFJyVlMxaFVWZ3lVMlJYVTFSVllXZGpYMjlWTlVWdlgwbzNheTEwUnpkTE5uQk5VSGhSV1RCSloxQlJZMUkxVW5CV1pWcFdhR3BSYjBZNVdYVnJaM0ptU0RWQk9XVm5ORFp4WDB4d2RrZGpZMmgwYVMxaWR4SVhiMmRCUldFM01qaENZekpyY0hSUlVIWjBXRU10VVhjYUlrRklUakJGTjBjelJrbFJVVVJvU210blgwaHFZVWROTVZvNFdrUkVSRzE2U0ZFIiwiZmN2IjoiMyIsImVpIjoib2dBRWE3MjhCYzJrcHRRUHZ0WEMtUXciLCJxYyI6ImMtTnl6TWd2VnlqSlYwZ3BUVkpJelV2UHlTek9VS2pNTHkwcFRVcFZLTXRNU2MwdlZzak1BOG9YRnlUbWdlUVM4MUlVTWpMelVqSVZTb3N6ODlJVkVqTUZHR29uVHRTMEJ3QSIsInF1ZXN0aW9uIjoiSXMgWW91VHViZSB1c2luZyBBSSB0byBkdWIgdmlkZW9zPyIsImxrIjoiR2lGcGN5QjViM1YwZFdKbElIVnphVzVuSUdGcElIUnZJR1IxWWlCMmFXUmxiM00iLCJicyI6ImM0MlFNWV9DTUF4R2RXdW1tenNabUE3RTBnRXhVWjFPU0hTR0JZbkZiVU5ycVdlakpnSEJyNmNKTFlXTkxZcS01LV9aNnFEbUc3bUFGU2hjQmdobktyUUFNU0NMclhRRE5YTHBzTlQtN3pkTjRsbjBVMzBHSUtsVWpWTURlM0U3bDJsd2hyaHNoX1J3UUUwU1Q2SVJHYmlLczBNSzZUMmxibXJsUlhOa1NDR3YyaElOYlItZ0swamcyTWdfckxtc3lWUWUzSjZRX1ZPNGIwX2laYlRvekR2OEJkVURhZ2EwVTFKN05mMEx2YzdvenQ4MnlLWkcyMDU1N2hkTXc0VzhKWVgwWTRfWGRMOW5TSDlfM1FFIiwiaWQiOiJmY19vZ0FFYTcyOEJjMmtwdFFQdnRYQy1Rd18xIn0%3D"
+      },
+      {
+        "question": "How can I change the audio from English to Spanish on YouTube?",
+        "type": "ai_overview",
+        "page_token": "U67khHicHdBfbpswHADgVdpZ-tgASTMlUlSJFZOyxRRjm9ovlfEvQLD5s8YJTR93k0l72mF6gJ1m1W7w6fv52x568_fq3Dg3Htez2TRNN_Uw1HZ_o4dupo6XXs-0srZU2qyXX5b-XaU30ekh_PrjIcwYiYQFW5jjHBfAuVcvoMf4yV8paOUjDQADDW8lSpbpNlSkw48UJRlGhKdIfsNzOOk4C8qAxNDZg6LZgrAkgK18wkhcWOA53PL7vBtcWUTzPB6_8wJXO1P7ksNQFjZitvZyK5eMco8YaHSwOu0ROUK_e6OBM7LFSV7It5QnQtNoKuNVTvhqEkXj8s6Gacz9jKNKsPHDzGNpgEQNnKWHkKD6kkZJu-vcBAhl0BORXXwCr8MhY026i9iHyea8G5Ewiwm36F75IeVsfFUIS-WBoB7awnRd6fNmfv3_c_NcdW49vgz1H_2yV24Pz8q9m8-ffv0DD1eJzg",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=U67khHicHdBfbpswHADgVdpZ-tgASTMlUlSJFZOyxRRjm9ovlfEvQLD5s8YJTR93k0l72mF6gJ1m1W7w6fv52x568_fq3Dg3Htez2TRNN_Uw1HZ_o4dupo6XXs-0srZU2qyXX5b-XaU30ekh_PrjIcwYiYQFW5jjHBfAuVcvoMf4yV8paOUjDQADDW8lSpbpNlSkw48UJRlGhKdIfsNzOOk4C8qAxNDZg6LZgrAkgK18wkhcWOA53PL7vBtcWUTzPB6_8wJXO1P7ksNQFjZitvZyK5eMco8YaHSwOu0ROUK_e6OBM7LFSV7It5QnQtNoKuNVTvhqEkXj8s6Gacz9jKNKsPHDzGNpgEQNnKWHkKD6kkZJu-vcBAhl0BORXXwCr8MhY026i9iHyea8G5Ewiwm36F75IeVsfFUIS-WBoB7awnRd6fNmfv3_c_NcdW49vgz1H_2yV24Pz8q9m8-ffv0DD1eJzg",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVdHcFJRbFJyVlMxaFVWZ3lVMlJYVTFSVllXZGpYMjlWTlVWdlgwbzNheTEwUnpkTE5uQk5VSGhSV1RCSloxQlJZMUkxVW5CV1pWcFdhR3BSYjBZNVdYVnJaM0ptU0RWQk9XVm5ORFp4WDB4d2RrZGpZMmgwYVMxaWR4SVhiMmRCUldFM01qaENZekpyY0hSUlVIWjBXRU10VVhjYUlrRklUakJGTjBjelJrbFJVVVJvU210blgwaHFZVWROTVZvNFdrUkVSRzE2U0ZFIiwiZmN2IjoiMyIsImVpIjoib2dBRWE3MjhCYzJrcHRRUHZ0WEMtUXciLCJxYyI6ImMtTnl6TWd2VnlqSlYwZ3BUVkpJelV2UHlTek9VS2pNTHkwcFRVcFZLTXRNU2MwdlZzak1BOG9YRnlUbWdlUVM4MUlVTWpMelVqSVZTb3N6ODlJVkVqTUZHR29uVHRTMEJ3QSIsInF1ZXN0aW9uIjoiSG93IGNhbiBJIGNoYW5nZSB0aGUgYXVkaW8gZnJvbSBFbmdsaXNoIHRvIFNwYW5pc2ggb24gWW91VHViZT8iLCJsayI6ImM1TXl5OGd2VnlqSlYwak9TTXhMVDFWSUxFM0p6RmRJSzhyUFZVak5TOF9KTE00QVNSWVhKT2FCbVBsNUNwWDVwU1dsU2FrQSIsImJzIjoiYzQyUU1ZX0NNQXhHZFd1bW16c1ptQTdFMGdFeFVaMU9TSFNHQlluRmJVTnJxV2VqSmdIQnI2Y0pMWVdOTFlxLTUtX1o2cURtRzdtQUZTaGNCZ2huS3JRQU1TQ0xyWFFETlhMcHNOVC03emRONGxuMFUzMEdJS2xValZNRGUzRTdsMmx3aHJoc2hfUndRRTBTVDZJUkdiaUtzME1LNlQybGJtcmxSWE5rU0NHdjJoSU5iUi1nSzBqZzJNZ19yTG1zeVZRZTNKNlFfVk80YjBfaVpiVG96RHY4QmRVRGFnYTBVMUo3TmYwTHZjN296dDgyeUtaRzIwNTU3aGRNdzRXOEpZWDBZNF9YZEw5blNIOV8zUUUiLCJpZCI6ImZjX29nQUVhNzI4QmMya3B0UVB2dFhDLVF3XzEifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVdHcFJRbFJyVlMxaFVWZ3lVMlJYVTFSVllXZGpYMjlWTlVWdlgwbzNheTEwUnpkTE5uQk5VSGhSV1RCSloxQlJZMUkxVW5CV1pWcFdhR3BSYjBZNVdYVnJaM0ptU0RWQk9XVm5ORFp4WDB4d2RrZGpZMmgwYVMxaWR4SVhiMmRCUldFM01qaENZekpyY0hSUlVIWjBXRU10VVhjYUlrRklUakJGTjBjelJrbFJVVVJvU210blgwaHFZVWROTVZvNFdrUkVSRzE2U0ZFIiwiZmN2IjoiMyIsImVpIjoib2dBRWE3MjhCYzJrcHRRUHZ0WEMtUXciLCJxYyI6ImMtTnl6TWd2VnlqSlYwZ3BUVkpJelV2UHlTek9VS2pNTHkwcFRVcFZLTXRNU2MwdlZzak1BOG9YRnlUbWdlUVM4MUlVTWpMelVqSVZTb3N6ODlJVkVqTUZHR29uVHRTMEJ3QSIsInF1ZXN0aW9uIjoiSG93IGNhbiBJIGNoYW5nZSB0aGUgYXVkaW8gZnJvbSBFbmdsaXNoIHRvIFNwYW5pc2ggb24gWW91VHViZT8iLCJsayI6ImM1TXl5OGd2VnlqSlYwak9TTXhMVDFWSUxFM0p6RmRJSzhyUFZVak5TOF9KTE00QVNSWVhKT2FCbVBsNUNwWDVwU1dsU2FrQSIsImJzIjoiYzQyUU1ZX0NNQXhHZFd1bW16c1ptQTdFMGdFeFVaMU9TSFNHQlluRmJVTnJxV2VqSmdIQnI2Y0pMWVdOTFlxLTUtX1o2cURtRzdtQUZTaGNCZ2huS3JRQU1TQ0xyWFFETlhMcHNOVC03emRONGxuMFUzMEdJS2xValZNRGUzRTdsMmx3aHJoc2hfUndRRTBTVDZJUkdiaUtzME1LNlQybGJtcmxSWE5rU0NHdjJoSU5iUi1nSzBqZzJNZ19yTG1zeVZRZTNKNlFfVk80YjBfaVpiVG96RHY4QmRVRGFnYTBVMUo3TmYwTHZjN296dDgyeUtaRzIwNTU3aGRNdzRXOEpZWDBZNF9YZEw5blNIOV8zUUUiLCJpZCI6ImZjX29nQUVhNzI4QmMya3B0UVB2dFhDLVF3XzEifQ%3D%3D"
+      },
+      {
+        "question": "Can I use AI to translate a YouTube video?",
+        "type": "ai_overview",
+        "page_token": "PArPNnicHdDNToMwAABgTXwWj47C5s-SxQTXKigslLaMXkxp2RiUH7dubBx9ExNPPowP4NNovH7H7_1Tb5rq5_xQGNPtpqNR3_dX67Zd6_xKtvVI7E6NHEmhdSZkNb2-uQb3KzmDe899ePPciGKYaqWT6hbIxKS88WumOy95cntMzWRp3fV8cAlPJvPYxrtscDccFlHAlJ_DFHAblSHSWtWs4ZURMb1b0kaV2eADUmEcALeKl9yWjl6wkuGc4vYlQS-K6YcAjp1srgIGjwcGd2Nc-n_uziXwrKxkNHXYltSqDge2jQlKGDRNutQBYeGRwnAvLAiELcckCT0eAxbYxSoamJUC5sBCHbiFUErkaQH9MqhNrxCKVIPT6ASwOrabiBaLAFInhhNBNapJyf3wsXvG9DihoOhI5dP8kdqJVpT3lyt5mDmX_5-z11Vtpt22XX_JbS5Mrl6F-a4uzj5-AdWnicM",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=PArPNnicHdDNToMwAABgTXwWj47C5s-SxQTXKigslLaMXkxp2RiUH7dubBx9ExNPPowP4NNovH7H7_1Tb5rq5_xQGNPtpqNR3_dX67Zd6_xKtvVI7E6NHEmhdSZkNb2-uQb3KzmDe899ePPciGKYaqWT6hbIxKS88WumOy95cntMzWRp3fV8cAlPJvPYxrtscDccFlHAlJ_DFHAblSHSWtWs4ZURMb1b0kaV2eADUmEcALeKl9yWjl6wkuGc4vYlQS-K6YcAjp1srgIGjwcGd2Nc-n_uziXwrKxkNHXYltSqDge2jQlKGDRNutQBYeGRwnAvLAiELcckCT0eAxbYxSoamJUC5sBCHbiFUErkaQH9MqhNrxCKVIPT6ASwOrabiBaLAFInhhNBNapJyf3wsXvG9DihoOhI5dP8kdqJVpT3lyt5mDmX_5-z11Vtpt22XX_JbS5Mrl6F-a4uzj5-AdWnicM",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVdHcFJRbFJyVlMxaFVWZ3lVMlJYVTFSVllXZGpYMjlWTlVWdlgwbzNheTEwUnpkTE5uQk5VSGhSV1RCSloxQlJZMUkxVW5CV1pWcFdhR3BSYjBZNVdYVnJaM0ptU0RWQk9XVm5ORFp4WDB4d2RrZGpZMmgwYVMxaWR4SVhiMmRCUldFM01qaENZekpyY0hSUlVIWjBXRU10VVhjYUlrRklUakJGTjBjelJrbFJVVVJvU210blgwaHFZVWROTVZvNFdrUkVSRzE2U0ZFIiwiZmN2IjoiMyIsImVpIjoib2dBRWE3MjhCYzJrcHRRUHZ0WEMtUXciLCJxYyI6ImMtTnl6TWd2VnlqSlYwZ3BUVkpJelV2UHlTek9VS2pNTHkwcFRVcFZLTXRNU2MwdlZzak1BOG9YRnlUbWdlUVM4MUlVTWpMelVqSVZTb3N6ODlJVkVqTUZHR29uVHRTMEJ3QSIsInF1ZXN0aW9uIjoiQ2FuIEkgdXNlIEFJIHRvIHRyYW5zbGF0ZSBhIFlvdVR1YmUgdmlkZW8/IiwibGsiOiJHaWxqWVc0Z2FTQjFjMlVnWVdrZ2RHOGdkSEpoYm5Oc1lYUmxJR0VnZVc5MWRIVmlaU0IyYVdSbGJ3IiwiYnMiOiJjNDJRTVlfQ01BeEdkV3VtbXpzWm1BN0UwZ0V4VVoxT1NIU0dCWW5GYlVOcnFXZWpKZ0hCcjZjSkxZV05MWXEtNS1fWjZxRG1HN21BRlNoY0JnaG5LclFBTVNDTHJYUUROWExwc05ULTd6ZE40bG4wVTMwR0lLbFVqVk1EZTNFN2wybHdocmhzaF9Sd1FFMFNUNklSR2JpS3MwTUs2VDJsYm1ybFJYTmtTQ0d2MmhJTmJSLWdLMGpnMk1nX3JMbXN5VlFlM0o2UV9WTzRiMF9pWmJUb3pEdjhCZFVEYWdhMFUxSjdOZjBMdmM3b3p0ODJ5S1pHMjA1NTdoZE13NFc4SllYMFk0X1hkTDluU0g5XzNRRSIsImlkIjoiZmNfb2dBRWE3MjhCYzJrcHRRUHZ0WEMtUXdfMSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVdHcFJRbFJyVlMxaFVWZ3lVMlJYVTFSVllXZGpYMjlWTlVWdlgwbzNheTEwUnpkTE5uQk5VSGhSV1RCSloxQlJZMUkxVW5CV1pWcFdhR3BSYjBZNVdYVnJaM0ptU0RWQk9XVm5ORFp4WDB4d2RrZGpZMmgwYVMxaWR4SVhiMmRCUldFM01qaENZekpyY0hSUlVIWjBXRU10VVhjYUlrRklUakJGTjBjelJrbFJVVVJvU210blgwaHFZVWROTVZvNFdrUkVSRzE2U0ZFIiwiZmN2IjoiMyIsImVpIjoib2dBRWE3MjhCYzJrcHRRUHZ0WEMtUXciLCJxYyI6ImMtTnl6TWd2VnlqSlYwZ3BUVkpJelV2UHlTek9VS2pNTHkwcFRVcFZLTXRNU2MwdlZzak1BOG9YRnlUbWdlUVM4MUlVTWpMelVqSVZTb3N6ODlJVkVqTUZHR29uVHRTMEJ3QSIsInF1ZXN0aW9uIjoiQ2FuIEkgdXNlIEFJIHRvIHRyYW5zbGF0ZSBhIFlvdVR1YmUgdmlkZW8%2FIiwibGsiOiJHaWxqWVc0Z2FTQjFjMlVnWVdrZ2RHOGdkSEpoYm5Oc1lYUmxJR0VnZVc5MWRIVmlaU0IyYVdSbGJ3IiwiYnMiOiJjNDJRTVlfQ01BeEdkV3VtbXpzWm1BN0UwZ0V4VVoxT1NIU0dCWW5GYlVOcnFXZWpKZ0hCcjZjSkxZV05MWXEtNS1fWjZxRG1HN21BRlNoY0JnaG5LclFBTVNDTHJYUUROWExwc05ULTd6ZE40bG4wVTMwR0lLbFVqVk1EZTNFN2wybHdocmhzaF9Sd1FFMFNUNklSR2JpS3MwTUs2VDJsYm1ybFJYTmtTQ0d2MmhJTmJSLWdLMGpnMk1nX3JMbXN5VlFlM0o2UV9WTzRiMF9pWmJUb3pEdjhCZFVEYWdhMFUxSjdOZjBMdmM3b3p0ODJ5S1pHMjA1NTdoZE13NFc4SllYMFk0X1hkTDluU0g5XzNRRSIsImlkIjoiZmNfb2dBRWE3MjhCYzJrcHRRUHZ0WEMtUXdfMSJ9"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "B0D1JHiczVXNcuo2FO6iy75G2ZAANgSSzHgykixABAgOIblkwxjbyAZjEWQwZtk36UxXfZg-QJ-mwgZic81N0k17ZkCWzr90vnN--8N1vNnfv5i27y_4bbEYBEGBMkZdq2CweVHnoWcUJ8zlS8O-o66y4jnOVkvDckzFsJdsbu33-12BjXO2q1heLlwr5ZzBlVLOchRGAdZr8jU05NnC13pr_xu61IJcZF8ZjXVuTYX7zZQXR0XxN_u1rIpNgRcsr-CVpef1-sHS-7wgl-Ry4aGoz4UA-G8JQ0CoWGcA0B_JQe2zFjVhBwN0qo9xtCbOO2DnkwBEYs45__2d0Z0mglHE4vcAJjBmdg9SA_JBXBjgxI6DRDiQxC6-RMdMBqcH5ykjRRLHBg97fMrLog5JiSCKYDNImMenCtp7frEqi8PpBRYB9px-dHk701oAr-7Be6Q_IsSqyB2DAKCiSUWVl4rjpVikomPYRvSx5LviR083JVYfTHvPqq9O51rp5rVWaU_LE1eCr2RZCYrGWMi5TDctc2SPSnfRXpJl-bp8UytfRKgz-BF2PAm7Lg7U4RsPH9Gw0C68HCCXvp3TZ9MIybx4CunhKk9yPWqC-zTn9KpmKc_1_WoDyDShnGJq97idFBJoUcV1XdNkCb1roEzIZWQRQQ7Hz380QNPGhPchwP0sPzt6yDSbWRcwAnlk8dDo9rfYig7T0s6ud1BwrONGkonEFuGB4OEIcs8WBlR80sdg91x7U4QSoqXVEoTjdyXpc_ye3i4HIqQgFW0RtDqDluiPEDyCA2wg3DcaZL8XSWQr0V5OqgeD9vetofHdyRkin-krcRQHjJ1AJgm1Zi2whvQG08l2djmGlXWp5zWqkuEN5CAbWmw-_sJIM_7v4DvMO3dfZWfBt_P0KfBpNBt85-YdRjH40GyfWtLYjvox-LLnXe8glZ53GeDDECfAF8876ERLK2PefR18jY_Bl7qvBPje510KfOQc-OJ5lwAfah3mXTb4jvPuAL5_O-_Q1-ddhEErXtLDbzWlZ4dgsxqu9S4JSXfBZq9jq62i681zZ6s6N-DDITiZ-7dz3XQvRo55C-WWH5oXI3HAbi0z96Y0WZD3Wd5cjfPYo67D7fyQrZ5WYyu_dkyL8bzjCX5_oXs7nu6Z-abjmU5-xR2P5gG5y83dJVNKelV9M542W97g316G0_Z0UOEtMmmy6uVI7aiBUzdXT-po7QwfkelItWFn2tluMaqTRqU51m3J77y2rPKIOBhxRDuXPgxtVe_qADXsaa9mhlofTnR1sdHqV7qER5LHtfrGkANMm5Uw3MoNUSHhoj16eyq7TaJFcXFlGmyrQaW8AXWWmy8NRTx5ZQa6GngBQAcwAC1RU_cAPr6JtS2edMwg0JpDgQwqfkwUS44b-sjia-WqIldKsmzoUq1iSTUrN6d-uFAqUo57S0X601haui_eQff_mv380-__AKIuihA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=B0D1JHiczVXNcuo2FO6iy75G2ZAANgSSzHgykixABAgOIblkwxjbyAZjEWQwZtk36UxXfZg-QJ-mwgZic81N0k17ZkCWzr90vnN--8N1vNnfv5i27y_4bbEYBEGBMkZdq2CweVHnoWcUJ8zlS8O-o66y4jnOVkvDckzFsJdsbu33-12BjXO2q1heLlwr5ZzBlVLOchRGAdZr8jU05NnC13pr_xu61IJcZF8ZjXVuTYX7zZQXR0XxN_u1rIpNgRcsr-CVpef1-sHS-7wgl-Ry4aGoz4UA-G8JQ0CoWGcA0B_JQe2zFjVhBwN0qo9xtCbOO2DnkwBEYs45__2d0Z0mglHE4vcAJjBmdg9SA_JBXBjgxI6DRDiQxC6-RMdMBqcH5ykjRRLHBg97fMrLog5JiSCKYDNImMenCtp7frEqi8PpBRYB9px-dHk701oAr-7Be6Q_IsSqyB2DAKCiSUWVl4rjpVikomPYRvSx5LviR083JVYfTHvPqq9O51rp5rVWaU_LE1eCr2RZCYrGWMi5TDctc2SPSnfRXpJl-bp8UytfRKgz-BF2PAm7Lg7U4RsPH9Gw0C68HCCXvp3TZ9MIybx4CunhKk9yPWqC-zTn9KpmKc_1_WoDyDShnGJq97idFBJoUcV1XdNkCb1roEzIZWQRQQ7Hz380QNPGhPchwP0sPzt6yDSbWRcwAnlk8dDo9rfYig7T0s6ud1BwrONGkonEFuGB4OEIcs8WBlR80sdg91x7U4QSoqXVEoTjdyXpc_ye3i4HIqQgFW0RtDqDluiPEDyCA2wg3DcaZL8XSWQr0V5OqgeD9vetofHdyRkin-krcRQHjJ1AJgm1Zi2whvQG08l2djmGlXWp5zWqkuEN5CAbWmw-_sJIM_7v4DvMO3dfZWfBt_P0KfBpNBt85-YdRjH40GyfWtLYjvox-LLnXe8glZ53GeDDECfAF8876ERLK2PefR18jY_Bl7qvBPje510KfOQc-OJ5lwAfah3mXTb4jvPuAL5_O-_Q1-ddhEErXtLDbzWlZ4dgsxqu9S4JSXfBZq9jq62i681zZ6s6N-DDITiZ-7dz3XQvRo55C-WWH5oXI3HAbi0z96Y0WZD3Wd5cjfPYo67D7fyQrZ5WYyu_dkyL8bzjCX5_oXs7nu6Z-abjmU5-xR2P5gG5y83dJVNKelV9M542W97g316G0_Z0UOEtMmmy6uVI7aiBUzdXT-po7QwfkelItWFn2tluMaqTRqU51m3J77y2rPKIOBhxRDuXPgxtVe_qADXsaa9mhlofTnR1sdHqV7qER5LHtfrGkANMm5Uw3MoNUSHhoj16eyq7TaJFcXFlGmyrQaW8AXWWmy8NRTx5ZQa6GngBQAcwAC1RU_cAPr6JtS2edMwg0JpDgQwqfkwUS44b-sjia-WqIldKsmzoUq1iSTUrN6d-uFAqUo57S0X601haui_eQff_mv380-__AKIuihA"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Use automatic dubbing - Android phone & tablet - YouTube ...",
+        "link": "https://support.google.com/youtube/answer/15569972?hl=en",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://support.google.com/youtube/answer/15569972?hl=en&usg=AOvVaw0iSOdgjRELy6rv2DqKJRu0",
+        "displayed_link": "https://support.google.com \u203a youtube \u203a answer",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAB70lEQVR4AZWSQ2AgQQAE52zbtm3b_JyNz9m2bRuxbdu284ntZDvp2HjU7qhrKFacXFsKOq1uJK1dOgHrlz2QVq7zxfIVeVi2OIVltrEvc-vSRuUzZeEXXbpzEDbOApYvqghFazYgb81WgKItGzqX5MrCVwf9w5GxwJ5JoKSygGGSu367TQUBYkQjKLe5jW9dgDMji9g1JQRrlu3B8sXDCcvcBikfJiLFtvk46LUGKHjRB7gy7Dc7KnPv7rUm1bULOLe-Izm0BCiR7xjNxoYg8lya2cO1DShJsWp1sfKAifchW8DXyky4j59T7uWuF3nOTeIpINxOZUHBQKkmKKogkFzbzmmAgPws3AKXn-jYtMoW-GjGPsw-W8KE-9LRifcln3IruCMyHBvdYdjDvhGc7JvWeYijH2bGlwgKz4D7ZljZpjHBXauWv2oK934T8LT3m1AMeh4Ninq_Deld-JC0bcXtj1ZNcMWyJXZZdMN80wlBA4xX7OtqtHUkaa59ZU0LuV_Wrf6qo8NXB_R7FQluqfQpP7IS3Y9btPvH8DTTiehptIGgo-Gu3Lb6RyTSSu0BWip8AiXtv1vJc_ZSAVlp3r37ErNBdygoCZcXtNG8WiSQ-_2mJEyqPFcuuYP-oVcdDPe4l0hYZlsr1ZczKz_pfOcR3y8E3ot2AAAAAElFTkSuQmCC.png",
+        "snippet": "Sign in to YouTube Studio on your computer. \u00b7 Click Content , then select the video you want to manage dubbing for. \u00b7 Click Languages . \u00b7 In the \u201cLanguage\u201d column, ...",
+        "snippet_highlighted_words": [
+          "Sign in to YouTube Studio on your computer"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Sign in to YouTube Studio on your computer. \u00b7 Click Content , then select the video you want to manage dubbing for. \u00b7 Click Languages . \u00b7 In the \u201cLanguage\u201d column, ...",
+            "source_info_link": "https://support.google.com/youtube/answer/15569972?hl=en",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAB70lEQVR4AZWSQ2AgQQAE52zbtm3b_JyNz9m2bRuxbdu284ntZDvp2HjU7qhrKFacXFsKOq1uJK1dOgHrlz2QVq7zxfIVeVi2OIVltrEvc-vSRuUzZeEXXbpzEDbOApYvqghFazYgb81WgKItGzqX5MrCVwf9w5GxwJ5JoKSygGGSu367TQUBYkQjKLe5jW9dgDMji9g1JQRrlu3B8sXDCcvcBikfJiLFtvk46LUGKHjRB7gy7Dc7KnPv7rUm1bULOLe-Izm0BCiR7xjNxoYg8lya2cO1DShJsWp1sfKAifchW8DXyky4j59T7uWuF3nOTeIpINxOZUHBQKkmKKogkFzbzmmAgPws3AKXn-jYtMoW-GjGPsw-W8KE-9LRifcln3IruCMyHBvdYdjDvhGc7JvWeYijH2bGlwgKz4D7ZljZpjHBXauWv2oK934T8LT3m1AMeh4Ninq_Deld-JC0bcXtj1ZNcMWyJXZZdMN80wlBA4xX7OtqtHUkaa59ZU0LuV_Wrf6qo8NXB_R7FQluqfQpP7IS3Y9btPvH8DTTiehptIGgo-Gu3Lb6RyTSSu0BWip8AiXtv1vJc_ZSAVlp3r37ErNBdygoCZcXtNG8WiSQ-_2mJEyqPFcuuYP-oVcdDPe4l0hYZlsr1ZczKz_pfOcR3y8E3ot2AAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CjhodHRwczovL3N1cHBvcnQuZ29vZ2xlLmNvbS95b3V0dWJlL2Fuc3dlci8xNTU2OTk3Mj9obD1lbhIEGgIIABqaBhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPQFCAAQABgAIAAqCgoDaG93FQlPhz4qCQoCdG8VAAAAACodCgNkdWIVQM_cPxoHZHViYmluZxoIaXY7cDtkdWIqEwoHZW5nbGlzaBXbWUw_GgNlbmcqJwoHeW91dHViZRW5bI9AGgh5b3UgdHViZRoNeW91dHViZXZpZGVvcyoxCgZ2aWRlb3MVzTAWQBoCb24aBXZpZGVvGgh2aWRlbyB0bxoNeW91dHViZXZpZGVvcyorCgRpbnRvFQAAAAAaBGZyb20aAmluGgZpbnNpZGUaAm9uGgh2aWRlbyB0byoOCgdzcGFuaXNoFQMlBD4qCgoDYW5kFQAAAAAqDAoFaGluZGkVPtDWPSorCgV1c2luZxUAAAAAGgN1c2UaBHVzZXMaA3ZpYRoEd2l0aBoHdXNpbmdhaSorCgJhaRUAAAAAGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoHdXNpbmdhaTI4aHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20veW91dHViZS9hbnN3ZXIvMTU1Njk5NzI_aGw9ZW46VjxiPlVzZTwvYj4gYXV0b21hdGljIDxiPmR1YmJpbmc8L2I-IC0gQW5kcm9pZCBwaG9uZSAmYW1wOyB0YWJsZXQgLSA8Yj5Zb3VUdWJlPC9iPiBIZWxwQswBPGI-U2lnbiBpbiB0byBZb3VUdWJlIFN0dWRpbyBvbiB5b3VyIGNvbXB1dGVyPC9iPi4gJm1pZGRvdDsgQ2xpY2sgQ29udGVudCAsIHRoZW4gc2VsZWN0IHRoZSB2aWRlbyB5b3Ugd2FudCB0byBtYW5hZ2UgZHViYmluZyBmb3IuICZtaWRkb3Q7IENsaWNrIExhbmd1YWdlcyAuICZtaWRkb3Q7IEluIHRoZSDigJxMYW5ndWFnZeKAnSBjb2x1bW4sJm5ic3A7Li4uSgJ0b0oDYW5kUgN1c2VSCHZpZGVvIHRvUgJvblIFdmlkZW9SAmluUgR3aXRoUgRmcm9tIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CjhodHRwczovL3N1cHBvcnQuZ29vZ2xlLmNvbS95b3V0dWJlL2Fuc3dlci8xNTU2OTk3Mj9obD1lbhIEGgIIABqaBhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPQFCAAQABgAIAAqCgoDaG93FQlPhz4qCQoCdG8VAAAAACodCgNkdWIVQM_cPxoHZHViYmluZxoIaXY7cDtkdWIqEwoHZW5nbGlzaBXbWUw_GgNlbmcqJwoHeW91dHViZRW5bI9AGgh5b3UgdHViZRoNeW91dHViZXZpZGVvcyoxCgZ2aWRlb3MVzTAWQBoCb24aBXZpZGVvGgh2aWRlbyB0bxoNeW91dHViZXZpZGVvcyorCgRpbnRvFQAAAAAaBGZyb20aAmluGgZpbnNpZGUaAm9uGgh2aWRlbyB0byoOCgdzcGFuaXNoFQMlBD4qCgoDYW5kFQAAAAAqDAoFaGluZGkVPtDWPSorCgV1c2luZxUAAAAAGgN1c2UaBHVzZXMaA3ZpYRoEd2l0aBoHdXNpbmdhaSorCgJhaRUAAAAAGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoHdXNpbmdhaTI4aHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20veW91dHViZS9hbnN3ZXIvMTU1Njk5NzI_aGw9ZW46VjxiPlVzZTwvYj4gYXV0b21hdGljIDxiPmR1YmJpbmc8L2I-IC0gQW5kcm9pZCBwaG9uZSAmYW1wOyB0YWJsZXQgLSA8Yj5Zb3VUdWJlPC9iPiBIZWxwQswBPGI-U2lnbiBpbiB0byBZb3VUdWJlIFN0dWRpbyBvbiB5b3VyIGNvbXB1dGVyPC9iPi4gJm1pZGRvdDsgQ2xpY2sgQ29udGVudCAsIHRoZW4gc2VsZWN0IHRoZSB2aWRlbyB5b3Ugd2FudCB0byBtYW5hZ2UgZHViYmluZyBmb3IuICZtaWRkb3Q7IENsaWNrIExhbmd1YWdlcyAuICZtaWRkb3Q7IEluIHRoZSDigJxMYW5ndWFnZeKAnSBjb2x1bW4sJm5ic3A7Li4uSgJ0b0oDYW5kUgN1c2VSCHZpZGVvIHRvUgJvblIFdmlkZW9SAmluUgR3aXRoUgRmcm9tIgIQAUgAWABoAA",
+        "source": "Google Help",
+        "read_more_link": "https://support.google.com/youtube/answer/15569972?hl=en#:~:text=Sign%20in%20to%20YouTube%20Studio,on%20your%20computer.&text=Click%20Content,want%20to%20manage%20dubbing%20for.&text=Click%20Languages,.&text=In%20the%20%E2%80%9CLanguage%E2%80%9D%20column%2C%20click,on%20the%20relevant%20language."
+      },
+      {
+        "position": 2,
+        "title": "AI Dubbing: Dub videos into any language for free",
+        "link": "https://www.canva.com/features/ai-dubbing/",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.canva.com/features/ai-dubbing/&usg=AOvVaw35cE7SylYeCSUrRDhXQpdB",
+        "displayed_link": "https://www.canva.com \u203a Video Editor",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEUBw8wDv80Gu80Jt88MstARq9EVpNMcm9Uik9cqi9kuxNEzgtuY2ub____w9v1zy9_V5Pc6d95AbOJZsdxSXt9gS-RsOugifOA5Xul4hemUmPJGS-56KeqxuPRUNvRyJvJjKPrWjzNIAAABIklEQVR4AZXPBZbDMBADUIfTNuMw4_1PubKmz8ukcv-T4pgPCYIwjKI4SdIsv_0HoYrpt80YmHn0Yu5B5Fcf77AQxJYsEgNfA1XlvRQpnsUaU4G3IgzDuBCL03h0HpRqUYwvQGdEBheLeBOFVOw96saECM7vRkE4p0gLQ1ERiawIKU2qNs9zWmciDVYTkDsKSK0zMSR2p6jSV1IDIkkCLLLMk1pvEq45zBEQa7Te6Biwuj3F22AyrmXA8TGODqZqVhuMjo1WhHOwxa4g2GbcGCo7qhNkWmeZVxBsMwCMYQvarGu3y-4MBOT10XAqFuvLwRqRgLX1WCordu8PJSKFOZjhGE4loP4PYa7jdNnoRP0Xz-u6PBEJF0N618RfnvB413wBF2gp0D7Hjh8AAAAASUVORK5CYII.png",
+        "snippet": "Click Apps on the side panel and look for EasyDubbing. Select the video you want to dub, then pick your target language and the number of speakers in your video ...",
+        "snippet_highlighted_words": [
+          "Select the video you want to dub"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Click Apps on the side panel and look for EasyDubbing. Select the video you want to dub, then pick your target language and the number of speakers in your video ...",
+            "source_info_link": "https://www.canva.com/features/ai-dubbing/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEUBw8wDv80Gu80Jt88MstARq9EVpNMcm9Uik9cqi9kuxNEzgtuY2ub____w9v1zy9_V5Pc6d95AbOJZsdxSXt9gS-RsOugifOA5Xul4hemUmPJGS-56KeqxuPRUNvRyJvJjKPrWjzNIAAABIklEQVR4AZXPBZbDMBADUIfTNuMw4_1PubKmz8ukcv-T4pgPCYIwjKI4SdIsv_0HoYrpt80YmHn0Yu5B5Fcf77AQxJYsEgNfA1XlvRQpnsUaU4G3IgzDuBCL03h0HpRqUYwvQGdEBheLeBOFVOw96saECM7vRkE4p0gLQ1ERiawIKU2qNs9zWmciDVYTkDsKSK0zMSR2p6jSV1IDIkkCLLLMk1pvEq45zBEQa7Te6Biwuj3F22AyrmXA8TGODqZqVhuMjo1WhHOwxa4g2GbcGCo7qhNkWmeZVxBsMwCMYQvarGu3y-4MBOT10XAqFuvLwRqRgLX1WCordu8PJSKFOZjhGE4loP4PYa7jdNnoRP0Xz-u6PBEJF0N618RfnvB413wBF2gp0D7Hjh8AAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CipodHRwczovL3d3dy5jYW52YS5jb20vZmVhdHVyZXMvYWktZHViYmluZy8SBBoCCAAa4QUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC7BQgAEAAYACAAKgoKA2hvdxWYlVE_KgkKAnRvFQAAAAAqHQoDZHViFRDto0AaB2R1YmJpbmcaCGl2O3A7ZHViKhMKB2VuZ2xpc2gVO_0rPhoDZW5nKicKB3lvdXR1YmUV1RfBPhoIeW91IHR1YmUaDXlvdXR1YmV2aWRlb3MqMQoGdmlkZW9zFZqFpUAaAm9uGgV2aWRlbxoIdmlkZW8gdG8aDXlvdXR1YmV2aWRlb3MqKwoEaW50bxUqun9AGgRmcm9tGgJpbhoGaW5zaWRlGgJvbhoIdmlkZW8gdG8qDgoHc3BhbmlzaBUMvKI9KgoKA2FuZBUAAAAAKgwKBWhpbmRpFQy8oj0qKwoFdXNpbmcV5TKKPxoDdXNlGgR1c2VzGgN2aWEaBHdpdGgaB3VzaW5nYWkqKwoCYWkVI5jkQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaB3VzaW5nYWkyKmh0dHBzOi8vd3d3LmNhbnZhLmNvbS9mZWF0dXJlcy9haS1kdWJiaW5nLzpHPGI-QUkgRHViYmluZzwvYj46IDxiPkR1YiB2aWRlb3MgaW50bzwvYj4gYW55IGxhbmd1YWdlIGZvciBmcmVlIC0gQ2FudmFCsAFDbGljayBBcHBzIG9uIHRoZSBzaWRlIHBhbmVsIGFuZCBsb29rIGZvciBFYXN5RHViYmluZy4gPGI-U2VsZWN0IHRoZSB2aWRlbyB5b3Ugd2FudCB0byBkdWI8L2I-LCB0aGVuIHBpY2sgeW91ciB0YXJnZXQgbGFuZ3VhZ2UgYW5kIHRoZSBudW1iZXIgb2Ygc3BlYWtlcnMgaW4geW91ciB2aWRlbyZuYnNwOy4uLkoDYW5kSgJ0b1IEd2l0aFIIdmlkZW8gdG9SAm9uUgV2aWRlb1IDdXNlUgJpblIEZnJvbSICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CipodHRwczovL3d3dy5jYW52YS5jb20vZmVhdHVyZXMvYWktZHViYmluZy8SBBoCCAAa4QUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC7BQgAEAAYACAAKgoKA2hvdxWYlVE_KgkKAnRvFQAAAAAqHQoDZHViFRDto0AaB2R1YmJpbmcaCGl2O3A7ZHViKhMKB2VuZ2xpc2gVO_0rPhoDZW5nKicKB3lvdXR1YmUV1RfBPhoIeW91IHR1YmUaDXlvdXR1YmV2aWRlb3MqMQoGdmlkZW9zFZqFpUAaAm9uGgV2aWRlbxoIdmlkZW8gdG8aDXlvdXR1YmV2aWRlb3MqKwoEaW50bxUqun9AGgRmcm9tGgJpbhoGaW5zaWRlGgJvbhoIdmlkZW8gdG8qDgoHc3BhbmlzaBUMvKI9KgoKA2FuZBUAAAAAKgwKBWhpbmRpFQy8oj0qKwoFdXNpbmcV5TKKPxoDdXNlGgR1c2VzGgN2aWEaBHdpdGgaB3VzaW5nYWkqKwoCYWkVI5jkQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaB3VzaW5nYWkyKmh0dHBzOi8vd3d3LmNhbnZhLmNvbS9mZWF0dXJlcy9haS1kdWJiaW5nLzpHPGI-QUkgRHViYmluZzwvYj46IDxiPkR1YiB2aWRlb3MgaW50bzwvYj4gYW55IGxhbmd1YWdlIGZvciBmcmVlIC0gQ2FudmFCsAFDbGljayBBcHBzIG9uIHRoZSBzaWRlIHBhbmVsIGFuZCBsb29rIGZvciBFYXN5RHViYmluZy4gPGI-U2VsZWN0IHRoZSB2aWRlbyB5b3Ugd2FudCB0byBkdWI8L2I-LCB0aGVuIHBpY2sgeW91ciB0YXJnZXQgbGFuZ3VhZ2UgYW5kIHRoZSBudW1iZXIgb2Ygc3BlYWtlcnMgaW4geW91ciB2aWRlbyZuYnNwOy4uLkoDYW5kSgJ0b1IEd2l0aFIIdmlkZW8gdG9SAm9uUgV2aWRlb1IDdXNlUgJpblIEZnJvbSICEAFIAFgAaAA",
+        "source": "Canva",
+        "read_more_link": "https://www.canva.com/features/ai-dubbing/#:~:text=Click%20Apps%20on%20the%20side,of%20speakers%20in%20your%20video."
+      },
+      {
+        "position": 3,
+        "title": "AI Dubbing Studio: Localize Content in 90+ Languages",
+        "link": "https://elevenlabs.io/dubbing-studio",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://elevenlabs.io/dubbing-studio&usg=AOvVaw2qjaoPBWKRxIf_i3VGUZPl",
+        "displayed_link": "https://elevenlabs.io \u203a ElevenCreative",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAFVBMVEX___-VlZUGBgZKSkqQkJAAAAA7Ozty6ML-AAAAHElEQVR4AWMYUCBkwKyIxHVNYAsZVFyEIwcSAADWIQrDIppSoAAAAABJRU5ErkJggg.png",
+        "snippet": "Localize content across 90+ languages with our AI dubbing studio. Bring your content to global audiences with help from bilingual dubbing experts.",
+        "snippet_highlighted_words": [
+          "Localize content across 90+ languages"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.7,
+              "reviews": 297926
+            },
+            "extensions": [
+              "4.7(297,926)",
+              "Free",
+              "Multimedia"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Localize content across 90+ languages with our AI dubbing studio. Bring your content to global audiences with help from bilingual dubbing experts.",
+            "source_info_link": "https://elevenlabs.io/dubbing-studio",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAFVBMVEX___-VlZUGBgZKSkqQkJAAAAA7Ozty6ML-AAAAHElEQVR4AWMYUCBkwKyIxHVNYAsZVFyEIwcSAADWIQrDIppSoAAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CiRodHRwczovL2VsZXZlbmxhYnMuaW8vZHViYmluZy1zdHVkaW8SBBoCCAAavwUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCZBQgAEAAYACAAKgoKA2hvdxW0_L89KgkKAnRvFQAAAAAqHQoDZHViFcAqFj8aB2R1YmJpbmcaCGl2O3A7ZHViKhMKB2VuZ2xpc2gV_wIwPxoDZW5nKicKB3lvdXR1YmUVAjqUOxoIeW91IHR1YmUaDXlvdXR1YmV2aWRlb3MqMQoGdmlkZW9zFQAAAAAaAm9uGgV2aWRlbxoIdmlkZW8gdG8aDXlvdXR1YmV2aWRlb3MqKwoEaW50bxVfSxE_GgRmcm9tGgJpbhoGaW5zaWRlGgJvbhoIdmlkZW8gdG8qDgoHc3BhbmlzaBUjVdU-KgoKA2FuZBUAAAAAKgwKBWhpbmRpFZjqvT4qKwoFdXNpbmcVAAAAABoDdXNlGgR1c2VzGgN2aWEaBHdpdGgaB3VzaW5nYWkqKwoCYWkVgtdwQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaB3VzaW5nYWkyJGh0dHBzOi8vZWxldmVubGFicy5pby9kdWJiaW5nLXN0dWRpbzpCPGI-QUkgRHViYmluZzwvYj4gU3R1ZGlvOiBMb2NhbGl6ZSBDb250ZW50IDxiPmluPC9iPiA5MCsgTGFuZ3VhZ2VzQpkBPGI-TG9jYWxpemUgY29udGVudCBhY3Jvc3MgOTArIGxhbmd1YWdlczwvYj4gd2l0aCBvdXIgQUkgZHViYmluZyBzdHVkaW8uIEJyaW5nIHlvdXIgY29udGVudCB0byBnbG9iYWwgYXVkaWVuY2VzIHdpdGggaGVscCBmcm9tIGJpbGluZ3VhbCBkdWJiaW5nIGV4cGVydHMuSgJ0b0oDYW5kUgRmcm9tUgh2aWRlbyB0b1ICb25SBXZpZGVvUgR3aXRoUgJpblIDdXNlIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CiRodHRwczovL2VsZXZlbmxhYnMuaW8vZHViYmluZy1zdHVkaW8SBBoCCAAavwUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCZBQgAEAAYACAAKgoKA2hvdxW0_L89KgkKAnRvFQAAAAAqHQoDZHViFcAqFj8aB2R1YmJpbmcaCGl2O3A7ZHViKhMKB2VuZ2xpc2gV_wIwPxoDZW5nKicKB3lvdXR1YmUVAjqUOxoIeW91IHR1YmUaDXlvdXR1YmV2aWRlb3MqMQoGdmlkZW9zFQAAAAAaAm9uGgV2aWRlbxoIdmlkZW8gdG8aDXlvdXR1YmV2aWRlb3MqKwoEaW50bxVfSxE_GgRmcm9tGgJpbhoGaW5zaWRlGgJvbhoIdmlkZW8gdG8qDgoHc3BhbmlzaBUjVdU-KgoKA2FuZBUAAAAAKgwKBWhpbmRpFZjqvT4qKwoFdXNpbmcVAAAAABoDdXNlGgR1c2VzGgN2aWEaBHdpdGgaB3VzaW5nYWkqKwoCYWkVgtdwQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaB3VzaW5nYWkyJGh0dHBzOi8vZWxldmVubGFicy5pby9kdWJiaW5nLXN0dWRpbzpCPGI-QUkgRHViYmluZzwvYj4gU3R1ZGlvOiBMb2NhbGl6ZSBDb250ZW50IDxiPmluPC9iPiA5MCsgTGFuZ3VhZ2VzQpkBPGI-TG9jYWxpemUgY29udGVudCBhY3Jvc3MgOTArIGxhbmd1YWdlczwvYj4gd2l0aCBvdXIgQUkgZHViYmluZyBzdHVkaW8uIEJyaW5nIHlvdXIgY29udGVudCB0byBnbG9iYWwgYXVkaWVuY2VzIHdpdGggaGVscCBmcm9tIGJpbGluZ3VhbCBkdWJiaW5nIGV4cGVydHMuSgJ0b0oDYW5kUgRmcm9tUgh2aWRlbyB0b1ICb25SBXZpZGVvUgR3aXRoUgJpblIDdXNlIgIQAUgAWABoAA",
+        "source": "ElevenLabs"
+      },
+      {
+        "position": 4,
+        "title": "AI Dubbing - Free Online Video Dubbing Tool (No Sign-Up)",
+        "link": "https://aidubbing.io/",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://aidubbing.io/&usg=AOvVaw3ptrz5J2VottKSYuZNATLq",
+        "displayed_link": "https://aidubbing.io",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAbCAMAAAAqGX2oAAAAHlBMVEVHcExvTuNtTORsTOVvTt9xUtx_Y813WdaagqNqS-rFyr7WAAAACXRSTlMAjLjeYEAQJAc90o-pAAAAzklEQVQokXVTWxLEIAgzvCr3v_Bqt6ygXT46lfBIMtpaCSF2hrY_If4E91ecfMV1wt1L2I5bxZ33At9DKs6RX0Re-U368Z_Fhj7K03AKoHLEsYDqwLVCD2GoRz5ZK5JK2c1VEFGq4EJJlxHIDJ6N8jPsTtqSgGzHipn9SUwwAeAzHegwwK7eOt3UscHo4949W2V-uHb33GEY5AvrfeBozwVyECL1dFOacWjQy0znsOYxM6YzwvL76jR8nR7KpqEk9T10zLJmw1Dl-Z7enssHaigPh1g9q_gAAAAASUVORK5CYII.png",
+        "snippet": "Our AI Dubbing tool instantly translates your video into up to 170+ languages with natural, human-like voices. Choose from multiple dubbing engines\u2014from fully ...",
+        "snippet_highlighted_words": [
+          "instantly translates your video into up to 170+ languages"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Our AI Dubbing tool instantly translates your video into up to 170+ languages with natural, human-like voices. Choose from multiple dubbing engines\u2014from fully ...",
+            "source_info_link": "https://aidubbing.io/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAbCAMAAAAqGX2oAAAAHlBMVEVHcExvTuNtTORsTOVvTt9xUtx_Y813WdaagqNqS-rFyr7WAAAACXRSTlMAjLjeYEAQJAc90o-pAAAAzklEQVQokXVTWxLEIAgzvCr3v_Bqt6ygXT46lfBIMtpaCSF2hrY_If4E91ecfMV1wt1L2I5bxZ33At9DKs6RX0Re-U368Z_Fhj7K03AKoHLEsYDqwLVCD2GoRz5ZK5JK2c1VEFGq4EJJlxHIDJ6N8jPsTtqSgGzHipn9SUwwAeAzHegwwK7eOt3UscHo4949W2V-uHb33GEY5AvrfeBozwVyECL1dFOacWjQy0znsOYxM6YzwvL76jR8nR7KpqEk9T10zLJmw1Dl-Z7enssHaigPh1g9q_gAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=ChVodHRwczovL2FpZHViYmluZy5pby8SBBoCCAAaywUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkClBQgAEAAYACAAKgoKA2hvdxVFoGE_KgkKAnRvFQAAAAAqHQoDZHViFW_Cmz8aB2R1YmJpbmcaCGl2O3A7ZHViKhMKB2VuZ2xpc2gVM91ZQBoDZW5nKicKB3lvdXR1YmUVnP6SPxoIeW91IHR1YmUaDXlvdXR1YmV2aWRlb3MqMQoGdmlkZW9zFeXpJEAaAm9uGgV2aWRlbxoIdmlkZW8gdG8aDXlvdXR1YmV2aWRlb3MqKwoEaW50bxUvv6U_GgRmcm9tGgJpbhoGaW5zaWRlGgJvbhoIdmlkZW8gdG8qDgoHc3BhbmlzaBWVTQdAKgoKA2FuZBUAAAAAKgwKBWhpbmRpFVFWoz8qKwoFdXNpbmcVAAAAABoDdXNlGgR1c2VzGgN2aWEaBHdpdGgaB3VzaW5nYWkqKwoCYWkVmd_TQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaB3VzaW5nYWkyFWh0dHBzOi8vYWlkdWJiaW5nLmlvLzpGPGI-QUkgRHViYmluZzwvYj4gLSBGcmVlIE9ubGluZSA8Yj5WaWRlbyBEdWJiaW5nPC9iPiBUb29sIChObyBTaWduLVVwKUKwAU91ciBBSSBEdWJiaW5nIHRvb2wgPGI-aW5zdGFudGx5IHRyYW5zbGF0ZXMgeW91ciB2aWRlbyBpbnRvIHVwIHRvIDE3MCsgbGFuZ3VhZ2VzPC9iPiB3aXRoIG5hdHVyYWwsIGh1bWFuLWxpa2Ugdm9pY2VzLiBDaG9vc2UgZnJvbSBtdWx0aXBsZSBkdWJiaW5nIGVuZ2luZXPigJRmcm9tIGZ1bGx5Jm5ic3A7Li4uSgNhbmRKAnRvUgJpblIIdmlkZW8gdG9SAm9uUgV2aWRlb1IDdXNlUgR3aXRoUgRmcm9tIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=ChVodHRwczovL2FpZHViYmluZy5pby8SBBoCCAAaywUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkClBQgAEAAYACAAKgoKA2hvdxVFoGE_KgkKAnRvFQAAAAAqHQoDZHViFW_Cmz8aB2R1YmJpbmcaCGl2O3A7ZHViKhMKB2VuZ2xpc2gVM91ZQBoDZW5nKicKB3lvdXR1YmUVnP6SPxoIeW91IHR1YmUaDXlvdXR1YmV2aWRlb3MqMQoGdmlkZW9zFeXpJEAaAm9uGgV2aWRlbxoIdmlkZW8gdG8aDXlvdXR1YmV2aWRlb3MqKwoEaW50bxUvv6U_GgRmcm9tGgJpbhoGaW5zaWRlGgJvbhoIdmlkZW8gdG8qDgoHc3BhbmlzaBWVTQdAKgoKA2FuZBUAAAAAKgwKBWhpbmRpFVFWoz8qKwoFdXNpbmcVAAAAABoDdXNlGgR1c2VzGgN2aWEaBHdpdGgaB3VzaW5nYWkqKwoCYWkVmd_TQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaB3VzaW5nYWkyFWh0dHBzOi8vYWlkdWJiaW5nLmlvLzpGPGI-QUkgRHViYmluZzwvYj4gLSBGcmVlIE9ubGluZSA8Yj5WaWRlbyBEdWJiaW5nPC9iPiBUb29sIChObyBTaWduLVVwKUKwAU91ciBBSSBEdWJiaW5nIHRvb2wgPGI-aW5zdGFudGx5IHRyYW5zbGF0ZXMgeW91ciB2aWRlbyBpbnRvIHVwIHRvIDE3MCsgbGFuZ3VhZ2VzPC9iPiB3aXRoIG5hdHVyYWwsIGh1bWFuLWxpa2Ugdm9pY2VzLiBDaG9vc2UgZnJvbSBtdWx0aXBsZSBkdWJiaW5nIGVuZ2luZXPigJRmcm9tIGZ1bGx5Jm5ic3A7Li4uSgNhbmRKAnRvUgJpblIIdmlkZW8gdG9SAm9uUgV2aWRlb1IDdXNlUgR3aXRoUgRmcm9tIgIQAUgAWABoAA",
+        "source": "AI Dubbing",
+        "read_more_link": "https://aidubbing.io/#:~:text=Our%20AI%20Dubbing%20tool%20instantly,preserves%20the%20original%20speaker's%20voice."
+      },
+      {
+        "position": 5,
+        "title": "AI Video Translator : Translate Videos into 175+ Languages",
+        "link": "https://www.heygen.com/translate",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.heygen.com/translate&usg=AOvVaw3wqFSSt9fuHqxMRcT-Czqm",
+        "displayed_link": "https://www.heygen.com \u203a translate",
+        "favicon": "https://serpapi.com/searches/6b0400a125c657b1019e5c40/images/xJu8IEmzvj0twoDtNL-98GoBIpdSUhsEuvRsnbM8xb8.png",
+        "snippet": "Translate videos into 175+ languages and dialects instantly with AI. No voice actors or dubbing needed. Fast, accurate, and easy to use.",
+        "snippet_highlighted_words": [
+          "instantly with AI"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Translate videos into 175+ languages and dialects instantly with AI. No voice actors or dubbing needed. Fast, accurate, and easy to use.",
+            "source_info_link": "https://www.heygen.com/translate",
+            "icon": "https://serpapi.com/searches/6b0400a125c657b1019e5c40/images/xJu8IEmzvj0twoDtNL-98MTAZqeDg9SfN4hgm6gX3aZcmJY2Lfa8OQfyNsfXh5mb.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CiBodHRwczovL3d3dy5oZXlnZW4uY29tL3RyYW5zbGF0ZRIEGgIIABq3BRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJEFCAAQABgAIAAqCgoDaG93FRysWj8qCQoCdG8VAAAAACodCgNkdWIVAAAAABoHZHViYmluZxoIaXY7cDtkdWIqEwoHZW5nbGlzaBU76B5AGgNlbmcqJwoHeW91dHViZRWugfg_Ggh5b3UgdHViZRoNeW91dHViZXZpZGVvcyoxCgZ2aWRlb3MVIwqZQBoCb24aBXZpZGVvGgh2aWRlbyB0bxoNeW91dHViZXZpZGVvcyorCgRpbnRvFU5jekAaBGZyb20aAmluGgZpbnNpZGUaAm9uGgh2aWRlbyB0byoOCgdzcGFuaXNoFXKaeT8qCgoDYW5kFQAAAAAqDAoFaGluZGkVxQIaPyorCgV1c2luZxUe4qU_GgN1c2UaBHVzZXMaA3ZpYRoEd2l0aBoHdXNpbmdhaSorCgJhaRWG8a9AGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoHdXNpbmdhaTIgaHR0cHM6Ly93d3cuaGV5Z2VuLmNvbS90cmFuc2xhdGU6SDxiPkFJIFZpZGVvPC9iPiBUcmFuc2xhdG9yIDogVHJhbnNsYXRlIDxiPlZpZGVvcyBpbnRvPC9iPiAxNzUrIExhbmd1YWdlc0KPAVRyYW5zbGF0ZSB2aWRlb3MgaW50byAxNzUrIGxhbmd1YWdlcyBhbmQgZGlhbGVjdHMgPGI-aW5zdGFudGx5IHdpdGggQUk8L2I-LiBObyB2b2ljZSBhY3RvcnMgb3IgZHViYmluZyBuZWVkZWQuIEZhc3QsIGFjY3VyYXRlLCBhbmQgZWFzeSB0byB1c2UuSgNhbmRKAnRvUgR3aXRoUgh2aWRlbyB0b1ICb25SBXZpZGVvUgJpblIDdXNlUgRmcm9tIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CiBodHRwczovL3d3dy5oZXlnZW4uY29tL3RyYW5zbGF0ZRIEGgIIABq3BRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJEFCAAQABgAIAAqCgoDaG93FRysWj8qCQoCdG8VAAAAACodCgNkdWIVAAAAABoHZHViYmluZxoIaXY7cDtkdWIqEwoHZW5nbGlzaBU76B5AGgNlbmcqJwoHeW91dHViZRWugfg_Ggh5b3UgdHViZRoNeW91dHViZXZpZGVvcyoxCgZ2aWRlb3MVIwqZQBoCb24aBXZpZGVvGgh2aWRlbyB0bxoNeW91dHViZXZpZGVvcyorCgRpbnRvFU5jekAaBGZyb20aAmluGgZpbnNpZGUaAm9uGgh2aWRlbyB0byoOCgdzcGFuaXNoFXKaeT8qCgoDYW5kFQAAAAAqDAoFaGluZGkVxQIaPyorCgV1c2luZxUe4qU_GgN1c2UaBHVzZXMaA3ZpYRoEd2l0aBoHdXNpbmdhaSorCgJhaRWG8a9AGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoHdXNpbmdhaTIgaHR0cHM6Ly93d3cuaGV5Z2VuLmNvbS90cmFuc2xhdGU6SDxiPkFJIFZpZGVvPC9iPiBUcmFuc2xhdG9yIDogVHJhbnNsYXRlIDxiPlZpZGVvcyBpbnRvPC9iPiAxNzUrIExhbmd1YWdlc0KPAVRyYW5zbGF0ZSB2aWRlb3MgaW50byAxNzUrIGxhbmd1YWdlcyBhbmQgZGlhbGVjdHMgPGI-aW5zdGFudGx5IHdpdGggQUk8L2I-LiBObyB2b2ljZSBhY3RvcnMgb3IgZHViYmluZyBuZWVkZWQuIEZhc3QsIGFjY3VyYXRlLCBhbmQgZWFzeSB0byB1c2UuSgNhbmRKAnRvUgR3aXRoUgh2aWRlbyB0b1ICb25SBXZpZGVvUgJpblIDdXNlUgRmcm9tIgIQAUgAWABoAA",
+        "source": "HeyGen"
+      },
+      {
+        "position": 6,
+        "title": "How to Translate Your YouTube Videos into Any Language ...",
+        "link": "https://www.instagram.com/reel/DccxauZlaRp/",
+        "displayed_link": "2 likes",
+        "date": "3 months ago",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf8NbhJI0c5KAnotnq65eZBLV6VeYdqCv33xtRyKOD09y79T_HZqKjEg&s",
+        "favicon": "https://serpapi.com/searches/6b0400a125c657b1019e5c40/images/xJu8IEmzvj0twoDtNL-98FGIMdVF0H4U-yD2BlSnfew.png",
+        "snippet": "Instead of hiring expensive dubbing studios or voice actors, you can use advanced AI video translation tools like **HeyGen** to dub your videos ...",
+        "duration": "1:54",
+        "about_this_result": {
+          "source": {
+            "description": "Instead of hiring expensive dubbing studios or voice actors, you can use advanced AI video translation tools like **HeyGen** to dub your videos ...",
+            "icon": "https://serpapi.com/searches/6b0400a125c657b1019e5c40/images/xJu8IEmzvj0twoDtNL-98Mv0R7rrfCzM7Lhk-L8P91hMjXRl2kRYaqy3SGVgOhPY.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CitodHRwczovL3d3dy5pbnN0YWdyYW0uY29tL3JlZWwvRGNjeGF1WmxhUnAvEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CitodHRwczovL3d3dy5pbnN0YWdyYW0uY29tL3JlZWwvRGNjeGF1WmxhUnAvEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "source": "Instagram \u00b7 tweaklibrary"
+      }
+    ],
+    "perspectives": [
+      {
+        "author": "Facebook",
+        "thumbnails": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlfuAuAZGOEMn5VBEvQHDx6r612Nf6cXtnAcoALg7ac19uEx3uGqKvhDaTE7Ai4BVQVdYn6nlJVT28pOejub97jhE4xdWy1ix_i_MCc9OeB75BKA&s"
+        ],
+        "title": "How ai can translate your video speech into other languages",
+        "link": "https://www.facebook.com/61595031316544/posts/did-you-know-ai-can-make-you-speak-different-languages-in-your-videosimagine-rec/122117703093501043/",
+        "date": "2 weeks ago"
+      },
+      {
+        "author": "Sanky",
+        "source": "YouTube",
+        "duration": "6:32",
+        "extensions": [
+          "22.3K+ views "
+        ],
+        "thumbnails": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5888O7SnhJT5cekCyLtNfQomMQ9pDTVy4kbLNZYeJK7ImMcIxbsybXSBcJ5iGidkg0A9v0yJHp5-AImjcClPbdhl8BQY_3A&s"
+        ],
+        "title": "I Translated My Video Into 2 Languages\u2014and It Still Sounds Like Me using OrcaDub",
+        "link": "https://www.youtube.com/watch?v=YY_fks5exJ0",
+        "date": "Sep 1, 2026",
+        "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS6rAszb-rqo1FThmWYWXyGCXTGwekfIwEzJA"
+      },
+      {
+        "author": "rehan33",
+        "source": "Facebook",
+        "thumbnails": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1oXqpvvaMkWX9-D3Sjfwfae-G6YDtzLnV529oQpZyFZp_VBuhUazvAcaDC6v_rj4n3u5vvBEDiy1ATNAR7EPPxuYhQWJkjrmI41k9vPOZyMOsTg&s"
+        ],
+        "title": "Is there any website like YouTube that auto dubs the video in many languages ?",
+        "link": "https://www.facebook.com/rehan33/posts/is-there-any-website-like-youtube-that-auto-dubs-the-video-in-many-languages-/10246670182467904/",
+        "date": "Sep 13, 2026"
+      },
+      {
+        "author": "dr_nagal",
+        "source": "Instagram",
+        "duration": "0:47",
+        "extensions": [
+          "140+ likes "
+        ],
+        "thumbnails": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh7S9vhD4ZSl5HArgT1XJjf3-fcetQPXpmuRzVvRqrKEQBxIfxUCAj-ysyizahnUW5UdJPb8XdtWIl3fexNyPMnyaMLUcWIzk1hU-elSF5IxW1_48&s=10"
+        ],
+        "title": "Translate Videos into Any Language What if your videos could speak Spanish, Japanese, and more without recording them again? I tried NOIZ Studio, an AI tool that helps dub your videos into different languages while preserving your voice's unique feel! One video, multiple languages, and a whole new audience! \ud83d\udcccSave this reel and follow for more AI discoveries! [NOIZ Studio, AI Video Dubbing, AI Voice Translation, Free AI Tools, AI Dubbing Tool, Multilingual Videos, AI Voice Cloning, Video Translation AI, AI Video Translator, AI Tools 2026, AI Tech Hacks] #NOIZStudio #AIVideoDubbing #AITools #AITranslation #VoiceCloning",
+        "link": "https://www.instagram.com/reel/DfHHcTfvSYu/",
+        "date": "3 weeks ago"
+      },
+      {
+        "author": "tazkr.tv",
+        "source": "Instagram",
+        "duration": "0:50",
+        "extensions": [
+          "530+ likes "
+        ],
+        "thumbnails": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW7BGLcR95VBm_9DFZx-e_6Hfj_Ihyod3aZ59rwJZWoa6VLp_tTRw6gY5W_7-Prgbv6WQrBBlgihIczitCmLcASiFyy1iyxgYXBrz8LA8rzDwo7pg&s=10"
+        ],
+        "title": "Turn ONE video into multiple languages with AI! With NOIZ Studio, you can dub your videos into different languages in just a few clicks! \ud83d\ude80 I tested it by transforming my English video into Japanese \ud83c\uddef\ud83c\uddf5 and the result is incredible! Reach a global audience without recording everything again. Comment \u201cDUB\u201d and I\u2019ll DM you the link to try NOIZ Studio! #NOIZAI #AIDubbing #AITranslation #AITools #ContentCreator Paid partnership with NOIZ AI",
+        "link": "https://www.instagram.com/reel/DfH8wX5OaO5/",
+        "date": "3 weeks ago"
+      },
+      {
+        "author": "Facebook",
+        "duration": "1:10",
+        "thumbnails": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlOLsV2rGr-ydpCrftqGwranDWHw2fyJKCM8U2GgtOJM1hMUsE0RkfPh5ER9RefIRqc3shkw_zJv-IjKLmUKxHmXgED0PGpr23ExdF4Rx_IkZEwkc&s=10"
+        ],
+        "title": "18 reactions | How to Translate Your Videos Into Different Languages with Meta AI | Benson Mwangi",
+        "link": "https://www.facebook.com/61574283059484/videos/how-to-translate-videos-into-different-languages/1569135781180258/",
+        "date": "Sep 2, 2026"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "How to dub english youtube videos into spanish and hindi using ai free",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDjkzwvEPhParQ88BO_NbEsZ7izaKQ:1795424418097&q=How+to+dub+english+youtube+videos+into+spanish+and+hindi+using+ai+free&sa=X&ved=2ahUKEwi9laWV3Z2YAxVNkokEHb6qMM8Q1QJ6BAhNEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+dub+english+youtube+videos+into+spanish+and+hindi+using+ai+free"
+      },
+      {
+        "block_position": 1,
+        "query": "How to dub english youtube videos into spanish and hindi using ai android",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDjkzwvEPhParQ88BO_NbEsZ7izaKQ:1795424418097&q=How+to+dub+english+youtube+videos+into+spanish+and+hindi+using+ai+android&sa=X&ved=2ahUKEwi9laWV3Z2YAxVNkokEHb6qMM8Q1QJ6BAhWEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+dub+english+youtube+videos+into+spanish+and+hindi+using+ai+android"
+      },
+      {
+        "block_position": 1,
+        "query": "Video dubbing online free",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDjkzwvEPhParQ88BO_NbEsZ7izaKQ:1795424418097&q=Video+dubbing+online+free&sa=X&ved=2ahUKEwi9laWV3Z2YAxVNkokEHb6qMM8Q1QJ6BAhTEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Video+dubbing+online+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Free AI video dubbing Speechify",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDjkzwvEPhParQ88BO_NbEsZ7izaKQ:1795424418097&q=Free+AI+video+dubbing+Speechify&sa=X&ved=2ahUKEwi9laWV3Z2YAxVNkokEHb6qMM8Q1QJ6BAhVEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Free+AI+video+dubbing+Speechify"
+      },
+      {
+        "block_position": 1,
+        "query": "English to Hindi video dubbing free",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDjkzwvEPhParQ88BO_NbEsZ7izaKQ:1795424418097&q=English+to+Hindi+video+dubbing+free&sa=X&ved=2ahUKEwi9laWV3Z2YAxVNkokEHb6qMM8Q1QJ6BAhUEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=English+to+Hindi+video+dubbing+free"
+      },
+      {
+        "block_position": 1,
+        "query": "YouTube video dubbing AI free",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDjkzwvEPhParQ88BO_NbEsZ7izaKQ:1795424418097&q=YouTube+video+dubbing+AI+free&sa=X&ved=2ahUKEwi9laWV3Z2YAxVNkokEHb6qMM8Q1QJ6BAhQEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=YouTube+video+dubbing+AI+free"
+      },
+      {
+        "block_position": 1,
+        "query": "AI video dubbing free",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDjkzwvEPhParQ88BO_NbEsZ7izaKQ:1795424418097&q=AI+video+dubbing+free&sa=X&ved=2ahUKEwi9laWV3Z2YAxVNkokEHb6qMM8Q1QJ6BAhPEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AI+video+dubbing+free"
+      },
+      {
+        "block_position": 1,
+        "query": "AI video dubbing free unlimited",
+        "link": "https://www.google.com/search?sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDjkzwvEPhParQ88BO_NbEsZ7izaKQ:1795424418097&q=AI+video+dubbing+free+unlimited&sa=X&ved=2ahUKEwi9laWV3Z2YAxVNkokEHb6qMM8Q1QJ6BAhOEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AI+video+dubbing+free+unlimited"
+      }
+    ],
+    "discussions_and_forums": [
+      {
+        "title": "Anyone tried AI tools for translating and dubbing videos with TTS?",
+        "link": "https://www.reddit.com/r/TextToSpeech/comments/1perksv/anyone_tried_ai_tools_for_translating_and_dubbing/",
+        "date": "11 months ago",
+        "extensions": [
+          "r/TextToSpeech",
+          "60+ comments"
+        ],
+        "source": "Reddit",
+        "answers": [
+          {
+            "link": "https://www.reddit.com/r/TextToSpeech/comments/1perksv/anyone_tried_ai_tools_for_translating_and_dubbing/nsg0ooe/",
+            "extensions": [
+              "Top answer",
+              "3 votes",
+              "11 months ago"
+            ]
+          },
+          {
+            "link": "https://www.reddit.com/r/TextToSpeech/comments/1perksv/anyone_tried_ai_tools_for_translating_and_dubbing/nseiqt0/",
+            "extensions": [
+              "2 votes",
+              "11 months ago"
+            ]
+          },
+          {
+            "link": "https://www.reddit.com/r/TextToSpeech/comments/1perksv/anyone_tried_ai_tools_for_translating_and_dubbing/nsewi27/",
+            "extensions": [
+              "2 votes",
+              "11 months ago"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "AI transalting/dubbing English YouTube videos into Spanish",
+        "link": "https://www.reddit.com/r/Spanish/comments/16i4u55/ai_transaltingdubbing_english_youtube_videos_into/",
+        "date": "3 years ago",
+        "extensions": [
+          "r/Spanish",
+          "4 comments"
+        ],
+        "source": "Reddit",
+        "answers": [
+          {
+            "link": "https://www.reddit.com/r/Spanish/comments/16i4u55/ai_transaltingdubbing_english_youtube_videos_into/"
+          }
+        ]
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=How+to+dub+English+YouTube+videos+into+Spanish+and+Hindi+using+AI?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDjkzwvEPhParQ88BO_NbEsZ7izaKQ:1795424418097&ei=ogAEa728Bc2kptQPvtXC-Qw&start=10&sa=N&sstk=AYl2yk-i9uBOXf72Nd69UztQ_oxg2-s7GItl4sf-OAg9TtI0OP9WYkRNWwQPI1gi4dSyxMnejnbrUDNlbwzS-xlgU-S0Q_YQmCg9ng&ved=2ahUKEwi9laWV3Z2YAxVNkokEHb6qMM8Q8NMDegQIShAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=How+to+dub+English+YouTube+videos+into+Spanish+and+Hindi+using+AI?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDjkzwvEPhParQ88BO_NbEsZ7izaKQ:1795424418097&ei=ogAEa728Bc2kptQPvtXC-Qw&start=10&sa=N&sstk=AYl2yk-i9uBOXf72Nd69UztQ_oxg2-s7GItl4sf-OAg9TtI0OP9WYkRNWwQPI1gi4dSyxMnejnbrUDNlbwzS-xlgU-S0Q_YQmCg9ng&ved=2ahUKEwi9laWV3Z2YAxVNkokEHb6qMM8Q8tMDegQIShAE",
+        "3": "https://www.google.com/search?q=How+to+dub+English+YouTube+videos+into+Spanish+and+Hindi+using+AI?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDjkzwvEPhParQ88BO_NbEsZ7izaKQ:1795424418097&ei=ogAEa728Bc2kptQPvtXC-Qw&start=20&sa=N&sstk=AYl2yk-i9uBOXf72Nd69UztQ_oxg2-s7GItl4sf-OAg9TtI0OP9WYkRNWwQPI1gi4dSyxMnejnbrUDNlbwzS-xlgU-S0Q_YQmCg9ng&ved=2ahUKEwi9laWV3Z2YAxVNkokEHb6qMM8Q8tMDegQIShAG",
+        "4": "https://www.google.com/search?q=How+to+dub+English+YouTube+videos+into+Spanish+and+Hindi+using+AI?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDjkzwvEPhParQ88BO_NbEsZ7izaKQ:1795424418097&ei=ogAEa728Bc2kptQPvtXC-Qw&start=30&sa=N&sstk=AYl2yk-i9uBOXf72Nd69UztQ_oxg2-s7GItl4sf-OAg9TtI0OP9WYkRNWwQPI1gi4dSyxMnejnbrUDNlbwzS-xlgU-S0Q_YQmCg9ng&ved=2ahUKEwi9laWV3Z2YAxVNkokEHb6qMM8Q8tMDegQIShAI",
+        "5": "https://www.google.com/search?q=How+to+dub+English+YouTube+videos+into+Spanish+and+Hindi+using+AI?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDjkzwvEPhParQ88BO_NbEsZ7izaKQ:1795424418097&ei=ogAEa728Bc2kptQPvtXC-Qw&start=40&sa=N&sstk=AYl2yk-i9uBOXf72Nd69UztQ_oxg2-s7GItl4sf-OAg9TtI0OP9WYkRNWwQPI1gi4dSyxMnejnbrUDNlbwzS-xlgU-S0Q_YQmCg9ng&ved=2ahUKEwi9laWV3Z2YAxVNkokEHb6qMM8Q8tMDegQIShAK",
+        "6": "https://www.google.com/search?q=How+to+dub+English+YouTube+videos+into+Spanish+and+Hindi+using+AI?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDjkzwvEPhParQ88BO_NbEsZ7izaKQ:1795424418097&ei=ogAEa728Bc2kptQPvtXC-Qw&start=50&sa=N&sstk=AYl2yk-i9uBOXf72Nd69UztQ_oxg2-s7GItl4sf-OAg9TtI0OP9WYkRNWwQPI1gi4dSyxMnejnbrUDNlbwzS-xlgU-S0Q_YQmCg9ng&ved=2ahUKEwi9laWV3Z2YAxVNkokEHb6qMM8Q8tMDegQIShAM",
+        "7": "https://www.google.com/search?q=How+to+dub+English+YouTube+videos+into+Spanish+and+Hindi+using+AI?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDjkzwvEPhParQ88BO_NbEsZ7izaKQ:1795424418097&ei=ogAEa728Bc2kptQPvtXC-Qw&start=60&sa=N&sstk=AYl2yk-i9uBOXf72Nd69UztQ_oxg2-s7GItl4sf-OAg9TtI0OP9WYkRNWwQPI1gi4dSyxMnejnbrUDNlbwzS-xlgU-S0Q_YQmCg9ng&ved=2ahUKEwi9laWV3Z2YAxVNkokEHb6qMM8Q8tMDegQIShAO",
+        "8": "https://www.google.com/search?q=How+to+dub+English+YouTube+videos+into+Spanish+and+Hindi+using+AI?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDjkzwvEPhParQ88BO_NbEsZ7izaKQ:1795424418097&ei=ogAEa728Bc2kptQPvtXC-Qw&start=70&sa=N&sstk=AYl2yk-i9uBOXf72Nd69UztQ_oxg2-s7GItl4sf-OAg9TtI0OP9WYkRNWwQPI1gi4dSyxMnejnbrUDNlbwzS-xlgU-S0Q_YQmCg9ng&ved=2ahUKEwi9laWV3Z2YAxVNkokEHb6qMM8Q8tMDegQIShAQ",
+        "9": "https://www.google.com/search?q=How+to+dub+English+YouTube+videos+into+Spanish+and+Hindi+using+AI?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDjkzwvEPhParQ88BO_NbEsZ7izaKQ:1795424418097&ei=ogAEa728Bc2kptQPvtXC-Qw&start=80&sa=N&sstk=AYl2yk-i9uBOXf72Nd69UztQ_oxg2-s7GItl4sf-OAg9TtI0OP9WYkRNWwQPI1gi4dSyxMnejnbrUDNlbwzS-xlgU-S0Q_YQmCg9ng&ved=2ahUKEwi9laWV3Z2YAxVNkokEHb6qMM8Q8tMDegQIShAS",
+        "10": "https://www.google.com/search?q=How+to+dub+English+YouTube+videos+into+Spanish+and+Hindi+using+AI?&sca_esv=5424022ca174e17e&gl=us&hl=en&sxsrf=AKL5yDjkzwvEPhParQ88BO_NbEsZ7izaKQ:1795424418097&ei=ogAEa728Bc2kptQPvtXC-Qw&start=90&sa=N&sstk=AYl2yk-i9uBOXf72Nd69UztQ_oxg2-s7GItl4sf-OAg9TtI0OP9WYkRNWwQPI1gi4dSyxMnejnbrUDNlbwzS-xlgU-S0Q_YQmCg9ng&ved=2ahUKEwi9laWV3Z2YAxVNkokEHb6qMM8Q8tMDegQIShAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+dub+English+YouTube+videos+into+Spanish+and+Hindi+using+AI%3F&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+dub+English+YouTube+videos+into+Spanish+and+Hindi+using+AI%3F&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+dub+English+YouTube+videos+into+Spanish+and+Hindi+using+AI%3F&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+dub+English+YouTube+videos+into+Spanish+and+Hindi+using+AI%3F&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+dub+English+YouTube+videos+into+Spanish+and+Hindi+using+AI%3F&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+dub+English+YouTube+videos+into+Spanish+and+Hindi+using+AI%3F&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+dub+English+YouTube+videos+into+Spanish+and+Hindi+using+AI%3F&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+dub+English+YouTube+videos+into+Spanish+and+Hindi+using+AI%3F&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+dub+English+YouTube+videos+into+Spanish+and+Hindi+using+AI%3F&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+dub+English+YouTube+videos+into+Spanish+and+Hindi+using+AI%3F&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+dub+English+YouTube+videos+into+Spanish+and+Hindi+using+AI%3F&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

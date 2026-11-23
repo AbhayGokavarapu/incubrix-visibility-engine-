@@ -1,0 +1,416 @@
+{
+  "measurement_id": "8e1d98c515c1",
+  "question_id": "Q019",
+  "timestamp_utc": "2026-11-23T09:01:20.639600+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "How to auto-detect speaker faces and crop vertical video?",
+  "market": "US",
+  "collection_method": "DAY_2_AUTOMATED_API",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [],
+  "position": null,
+  "citations": [
+    "https://joyspace.ai/speaker-highlight-method-automated-framing",
+    "https://openclip.app/guides/multi-speaker-detection-guide",
+    "https://www.ffmpeg-micro.com/blog/ffmpeg-can-t-auto-reframe-video-to-vertical-do-this-instead",
+    "https://www.youtube.com/watch?v=uX1MvTiGYJc",
+    "https://github.com/algometrix/vertical_video_convertor",
+    "https://www.facebook.com/groups/descriptusers/posts/798608559091750/",
+    "https://www.heyeddie.ai/learn/eddie/how-to-make-vertical-clips-from-a-podcast-or-interview",
+    "https://www.choppity.com/features/automated-tracking/",
+    "https://www.facebook.com/descriptapp/videos/how-to-fit-two-speakers-from-landscape-into-a-vertical-clip-switch-to-portrait-f/1380810233728649/"
+  ],
+  "raw_text_summary": "How to Auto-Crop Multi-Person Podcasts with AI Speaker ... Automatically crop and frame multi-person podcast videos with AI active speaker detection. Complete guide to automated video framing for ... Multi-Speaker Detection Guide AI detects and tracks every face in your video, even as speakers enter and exit the frame. Dynamic Active Speaker Cropping. The crop ... FFmpeg Can't Auto Reframe Video to Vertical. Do This ... Quick answer: FFmpeg has no built-in way to auto reframe video vertical, because FFmpeg has no subject detection. crop=ih*9/16:ih gives you a ... How to Automatically Crop Clips with 2 or More Speakers ( ... Share your videos with friends, family, and the world. Automatically convert horizontal videos into vertical short ... The face is detected per frame and the crop follows the speaker, so no manual keyframing is needed. Does it work without a GPU? Yes. Install the [cpu] extra and ... Hello guys. I'm using one a single camera set up, filming in ... I'm using one a single camera set up, filming in 4k, two speakers in shot. Is there a way to auto crop in on the speaker? Then switch back ... How to Make Vertical Clips for Social from a Podcast or ... Nothing here tracks a face. There is no subject detection and no auto-reframe. The model can look at real frames from your footage and choose a ... Automated Tracking | Smart AI Subject Tracking for Short- ... Keep speakers perfectly centered with AI motion tracking. Choppity follows faces and movement automatically to create smooth, professional clips. How to fit two speakers from landscape into a vertical clip The process involves switching to the \"portrait\" format, copying the top layer of the \"landscape\" recording, and then using the \"copy\" function ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b0400de9d99f45ca975541a",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/egvK8Rjihvs8ZyJU8G-mEpXZ8jHbYaUIvgk-PlHJnyY/6b0400de9d99f45ca975541a.json",
+      "markdown_endpoint": "https://serpapi.com/searches/egvK8Rjihvs8ZyJU8G-mEpXZ8jHbYaUIvgk-PlHJnyY/6b0400de9d99f45ca975541a.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/egvK8Rjihvs8ZyJU8G-mEpXZ8jHbYaUIvgk-PlHJnyY/6b0400de9d99f45ca975541a.json_with_pixel_position",
+      "created_at": "2026-11-23 09:01:18 UTC",
+      "processed_at": "2026-11-23 09:01:18 UTC",
+      "google_url": "https://www.google.com/search?q=How+to+auto-detect+speaker+faces+and+crop+vertical+video%3F&oq=How+to+auto-detect+speaker+faces+and+crop+vertical+video%3F&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/egvK8Rjihvs8ZyJU8G-mEpXZ8jHbYaUIvgk-PlHJnyY/6b0400de9d99f45ca975541a.html",
+      "total_time_taken": 0.86
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "How to auto-detect speaker faces and crop vertical video?",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "How to auto-detect speaker faces and crop vertical video?",
+      "total_results": 125,
+      "time_taken_displayed": 0.2,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+      {
+        "question": "How to vertically crop a video?",
+        "type": "ai_overview",
+        "page_token": "hGNEt3icHdBLUsIwAABQnfEsLKHhpzDDOAIJBW1qU5O03TBpwrehhRJN6dKzuPIwHsCFZ9Fx-5bv_UPv8uz7OtoaczwPWy1rbXNTFBu9asri0BLnSy5bUmidCpkN-7d9cL-WI3i240lhxwElMNZKc026bI8rBdVrQtEZZz1CAMJsSiIvR4k_VZWPaIUh2oVZj8Vg8fTnPoXVI50Ak0I0Ew7rioiVqwNxSR0b5nhW0sEx3YE-5tomaDFJ3cWeATWP9fHk0W0lOmguM5WFszsH18kkqKHhkFCPEldGCQk5vQTOIKG5snHOHHFgc6-NT8ItQlTjTkDZ1ueFCdpknk6Zn4KHHuegFACx2W4xDmHXkhflEleFuE2eQ76lsdZMUM9JM8aDSD-Jmuioo_LGWr6NOo3_sdFyfTDDY1lsPmW5EmallsJ8ZTdXP78nWn9i",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=hGNEt3icHdBLUsIwAABQnfEsLKHhpzDDOAIJBW1qU5O03TBpwrehhRJN6dKzuPIwHsCFZ9Fx-5bv_UPv8uz7OtoaczwPWy1rbXNTFBu9asri0BLnSy5bUmidCpkN-7d9cL-WI3i240lhxwElMNZKc026bI8rBdVrQtEZZz1CAMJsSiIvR4k_VZWPaIUh2oVZj8Vg8fTnPoXVI50Ak0I0Ew7rioiVqwNxSR0b5nhW0sEx3YE-5tomaDFJ3cWeATWP9fHk0W0lOmguM5WFszsH18kkqKHhkFCPEldGCQk5vQTOIKG5snHOHHFgc6-NT8ItQlTjTkDZ1ueFCdpknk6Zn4KHHuegFACx2W4xDmHXkhflEleFuE2eQ76lsdZMUM9JM8aDSD-Jmuioo_LGWr6NOo3_sdFyfTDDY1lsPmW5EmallsJ8ZTdXP78nWn9i",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVlXMXphMDF6YVU5SVZrdFBZemd0ZGtZNFdYSTFiV1paU0VKcFZreHZSemxWUkVoc05ubGZNSGQxWlVsSFYwODBWV2w1YjNkVlZVdEdRMlo1VWxsVVppMXdhR0ZhT1dNeE4yTnBXakV4T1RGT1dFSjJlRWRrZW5KM1VSSVhNM2RCUldFNWFpMURaRWhzTlU1dlVEbFpiV3RyVVZVYUlrRklUakJGTjBnMmIwUk5SakUxWjNGMlEwbE9URzlYYmpSTmNEZFJSbGhDYzBFIiwiZmN2IjoiMyIsImVpIjoiM3dBRWE5ai1DZEhsNU5vUDlZbWtrUVUiLCJxYyI6IkNqaG9iM2NnZEc4Z1lYVjBieUJrWlhSbFkzUWdjM0JsWVd0bGNpQm1ZV05sY3lCaGJtUWdZM0p2Y0NCMlpYSjBhV05oYkNCMmFXUmxieEFBZlEzc0F6OCIsInF1ZXN0aW9uIjoiSG93IHRvIHZlcnRpY2FsbHkgY3JvcCBhIHZpZGVvPyIsImxrIjoiR2g1b2IzY2dkRzhnZG1WeWRHbGpZV3hzZVNCamNtOXdJR0VnZG1sa1pXOCIsImJzIjoiYzQyT3ZRckNRQkNFc2QzSy1nb2RmenNSOGdJcGJMVHlHWTdMeGp0TXN1SFlSUEwyR2p3Ukc3VmFHTDc1WnVsQTg2UGNvSUtlb3dabnEycUFpOUxDb2c4RlM1N0J6UHhYaEU2MFRKSVVsOVl4cEZOSS1mYXN6TUxfb3VoTW02U3E3WlZmTVVLRFZxSkdHeFMxRkp4blc3UDJmNERFbEkzQ1FqQklod3ZyZU9Oei13R3JaemlKRGNlUFhfZG1sLXpfTmFhVE93IiwiaWQiOiJmY18zd0FFYTlqLUNkSGw1Tm9QOVlta2tRVV81In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVlXMXphMDF6YVU5SVZrdFBZemd0ZGtZNFdYSTFiV1paU0VKcFZreHZSemxWUkVoc05ubGZNSGQxWlVsSFYwODBWV2w1YjNkVlZVdEdRMlo1VWxsVVppMXdhR0ZhT1dNeE4yTnBXakV4T1RGT1dFSjJlRWRrZW5KM1VSSVhNM2RCUldFNWFpMURaRWhzTlU1dlVEbFpiV3RyVVZVYUlrRklUakJGTjBnMmIwUk5SakUxWjNGMlEwbE9URzlYYmpSTmNEZFJSbGhDYzBFIiwiZmN2IjoiMyIsImVpIjoiM3dBRWE5ai1DZEhsNU5vUDlZbWtrUVUiLCJxYyI6IkNqaG9iM2NnZEc4Z1lYVjBieUJrWlhSbFkzUWdjM0JsWVd0bGNpQm1ZV05sY3lCaGJtUWdZM0p2Y0NCMlpYSjBhV05oYkNCMmFXUmxieEFBZlEzc0F6OCIsInF1ZXN0aW9uIjoiSG93IHRvIHZlcnRpY2FsbHkgY3JvcCBhIHZpZGVvPyIsImxrIjoiR2g1b2IzY2dkRzhnZG1WeWRHbGpZV3hzZVNCamNtOXdJR0VnZG1sa1pXOCIsImJzIjoiYzQyT3ZRckNRQkNFc2QzSy1nb2RmenNSOGdJcGJMVHlHWTdMeGp0TXN1SFlSUEwyR2p3Ukc3VmFHTDc1WnVsQTg2UGNvSUtlb3dabnEycUFpOUxDb2c4RlM1N0J6UHhYaEU2MFRKSVVsOVl4cEZOSS1mYXN6TUxfb3VoTW02U3E3WlZmTVVLRFZxSkdHeFMxRkp4blc3UDJmNERFbEkzQ1FqQklod3ZyZU9Oei13R3JaemlKRGNlUFhfZG1sLXpfTmFhVE93IiwiaWQiOiJmY18zd0FFYTlqLUNkSGw1Tm9QOVlta2tRVV81In0%3D"
+      },
+      {
+        "question": "How to crop a face out of a video?",
+        "type": "ai_overview",
+        "page_token": "S7HHYnicHdBfToMwHABgTTyLj47CmG7JYsQVJhklLeuPPy-mtIxtlMEGkblHz-KTh_EAPngWE78jfB-feneofq6Tbd-33Ww0GobhrmyaUhd3sqlHons_yJEUWudCVrPJ_QQ9buQcd4Pz3AwO5QynWum0QrvsQoDt2VjhB7MAOCQGjMHzW26xdW74IPhZpOA7wgz6cJ15IXcFqRhL684SSK3lwqGASzPWW4cgpnNLmtKCd9ihSVoDVZU-Qk08wHbAjalL6-mY7LduERMbFspVlkR8wS90768yM0CrGNvEVJlYKhYl7Bgs3Y5otSkOfhZ6OHIvxKIctmHc9NRkL_kCwhw92XGMTgK54O18J8Ljga3VssC-nRu6UiZFCpVGoOk54m1CjSmouA8Tq3VuN_Jtbt3-j81fN3U_a09N-SVPhegL9Sr67-rm6vcPYch8bw",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=S7HHYnicHdBfToMwHABgTTyLj47CmG7JYsQVJhklLeuPPy-mtIxtlMEGkblHz-KTh_EAPngWE78jfB-feneofq6Tbd-33Ww0GobhrmyaUhd3sqlHons_yJEUWudCVrPJ_QQ9buQcd4Pz3AwO5QynWum0QrvsQoDt2VjhB7MAOCQGjMHzW26xdW74IPhZpOA7wgz6cJ15IXcFqRhL684SSK3lwqGASzPWW4cgpnNLmtKCd9ihSVoDVZU-Qk08wHbAjalL6-mY7LduERMbFspVlkR8wS90768yM0CrGNvEVJlYKhYl7Bgs3Y5otSkOfhZ6OHIvxKIctmHc9NRkL_kCwhw92XGMTgK54O18J8Ljga3VssC-nRu6UiZFCpVGoOk54m1CjSmouA8Tq3VuN_Jtbt3-j81fN3U_a09N-SVPhegL9Sr67-rm6vcPYch8bw",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVlXMXphMDF6YVU5SVZrdFBZemd0ZGtZNFdYSTFiV1paU0VKcFZreHZSemxWUkVoc05ubGZNSGQxWlVsSFYwODBWV2w1YjNkVlZVdEdRMlo1VWxsVVppMXdhR0ZhT1dNeE4yTnBXakV4T1RGT1dFSjJlRWRrZW5KM1VSSVhNM2RCUldFNWFpMURaRWhzTlU1dlVEbFpiV3RyVVZVYUlrRklUakJGTjBnMmIwUk5SakUxWjNGMlEwbE9URzlYYmpSTmNEZFJSbGhDYzBFIiwiZmN2IjoiMyIsImVpIjoiM3dBRWE5ai1DZEhsNU5vUDlZbWtrUVUiLCJxYyI6IkNqaG9iM2NnZEc4Z1lYVjBieUJrWlhSbFkzUWdjM0JsWVd0bGNpQm1ZV05sY3lCaGJtUWdZM0p2Y0NCMlpYSjBhV05oYkNCMmFXUmxieEFBZlEzc0F6OCIsInF1ZXN0aW9uIjoiSG93IHRvIGNyb3AgYSBmYWNlIG91dCBvZiBhIHZpZGVvPyIsImxrIjoiR2lGb2IzY2dkRzhnWTNKdmNDQmhJR1poWTJVZ2IzVjBJRzltSUdFZ2RtbGtaVzgiLCJicyI6ImM0Mk92UXJDUUJDRXNkM0stZ29kZnpzUjhnSXBiTFR5R1k3THhqdE1zdUhZUlBMMkdqd1JHN1ZhR0w3NVp1bEE4NlBjb0lLZW93Wm5xMnFBaTlMQ29nOEZTNTdCelB4WGhFNjBUSklVbDlZeHBGTkktZmFzek1MX291aE1tNlNxN1pWZk1VS0RWcUpHR3hTMUZKeG5XN1AyZjRERWxJM0NRakJJaHd2cmVPTnotd0dyWnppSkRjZVBYX2RtbC16X05hYVRPdyIsImlkIjoiZmNfM3dBRWE5ai1DZEhsNU5vUDlZbWtrUVVfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVlXMXphMDF6YVU5SVZrdFBZemd0ZGtZNFdYSTFiV1paU0VKcFZreHZSemxWUkVoc05ubGZNSGQxWlVsSFYwODBWV2w1YjNkVlZVdEdRMlo1VWxsVVppMXdhR0ZhT1dNeE4yTnBXakV4T1RGT1dFSjJlRWRrZW5KM1VSSVhNM2RCUldFNWFpMURaRWhzTlU1dlVEbFpiV3RyVVZVYUlrRklUakJGTjBnMmIwUk5SakUxWjNGMlEwbE9URzlYYmpSTmNEZFJSbGhDYzBFIiwiZmN2IjoiMyIsImVpIjoiM3dBRWE5ai1DZEhsNU5vUDlZbWtrUVUiLCJxYyI6IkNqaG9iM2NnZEc4Z1lYVjBieUJrWlhSbFkzUWdjM0JsWVd0bGNpQm1ZV05sY3lCaGJtUWdZM0p2Y0NCMlpYSjBhV05oYkNCMmFXUmxieEFBZlEzc0F6OCIsInF1ZXN0aW9uIjoiSG93IHRvIGNyb3AgYSBmYWNlIG91dCBvZiBhIHZpZGVvPyIsImxrIjoiR2lGb2IzY2dkRzhnWTNKdmNDQmhJR1poWTJVZ2IzVjBJRzltSUdFZ2RtbGtaVzgiLCJicyI6ImM0Mk92UXJDUUJDRXNkM0stZ29kZnpzUjhnSXBiTFR5R1k3THhqdE1zdUhZUlBMMkdqd1JHN1ZhR0w3NVp1bEE4NlBjb0lLZW93Wm5xMnFBaTlMQ29nOEZTNTdCelB4WGhFNjBUSklVbDlZeHBGTkktZmFzek1MX291aE1tNlNxN1pWZk1VS0RWcUpHR3hTMUZKeG5XN1AyZjRERWxJM0NRakJJaHd2cmVPTnotd0dyWnppSkRjZVBYX2RtbC16X05hYVRPdyIsImlkIjoiZmNfM3dBRWE5ai1DZEhsNU5vUDlZbWtrUVVfNSJ9"
+      },
+      {
+        "question": "How to make a video in portrait mode?",
+        "type": "ai_overview",
+        "page_token": "QJ-573icHdBLbuIwAADQqTRn6bLECcMIJFQ1JQmBOpGN43w2yLEDJnE-gGkIy55lVnOYHqCLnqVVT_Ck9_ZPHZrq4-5Vat2dZ6NR3_cP-7bdq-KBt_WInYeGjzhTKme8mk3-TsDjjs-di28_H30bRdhJlVBxDAfWqDJN8Dk3ViF1RENKewyTzoCJPOWxarMGl2nUnbMS-7lxDYiiABvBmN_kHxxNKY18gCwXQbeTrMSEWqudMCUMiI0yT1iBQU1KbSsBUx_XSrObmOB49cI8rbIEXRnIBuwGN5K4ZuiBY7SgExjT0yZWB5jQtTC6Hi_3Y1baPqzGgBjdIl6u7HCZIQKeBqHEOgfqWpTCciS_CcN1U6KOL1FQbbwekHqKQvrtmhpT3B5QJEPoRNZmIS686i5xpc3Aok7awIF4WPJlpgvqNkGtJEL3O_46t-5_PufbXa1n3and_-engulCbJl-r37_-vwCeqOJ-g",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=QJ-573icHdBLbuIwAADQqTRn6bLECcMIJFQ1JQmBOpGN43w2yLEDJnE-gGkIy55lVnOYHqCLnqVVT_Ck9_ZPHZrq4-5Vat2dZ6NR3_cP-7bdq-KBt_WInYeGjzhTKme8mk3-TsDjjs-di28_H30bRdhJlVBxDAfWqDJN8Dk3ViF1RENKewyTzoCJPOWxarMGl2nUnbMS-7lxDYiiABvBmN_kHxxNKY18gCwXQbeTrMSEWqudMCUMiI0yT1iBQU1KbSsBUx_XSrObmOB49cI8rbIEXRnIBuwGN5K4ZuiBY7SgExjT0yZWB5jQtTC6Hi_3Y1baPqzGgBjdIl6u7HCZIQKeBqHEOgfqWpTCciS_CcN1U6KOL1FQbbwekHqKQvrtmhpT3B5QJEPoRNZmIS686i5xpc3Aok7awIF4WPJlpgvqNkGtJEL3O_46t-5_PufbXa1n3and_-engulCbJl-r37_-vwCeqOJ-g",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVlXMXphMDF6YVU5SVZrdFBZemd0ZGtZNFdYSTFiV1paU0VKcFZreHZSemxWUkVoc05ubGZNSGQxWlVsSFYwODBWV2w1YjNkVlZVdEdRMlo1VWxsVVppMXdhR0ZhT1dNeE4yTnBXakV4T1RGT1dFSjJlRWRrZW5KM1VSSVhNM2RCUldFNWFpMURaRWhzTlU1dlVEbFpiV3RyVVZVYUlrRklUakJGTjBnMmIwUk5SakUxWjNGMlEwbE9URzlYYmpSTmNEZFJSbGhDYzBFIiwiZmN2IjoiMyIsImVpIjoiM3dBRWE5ai1DZEhsNU5vUDlZbWtrUVUiLCJxYyI6IkNqaG9iM2NnZEc4Z1lYVjBieUJrWlhSbFkzUWdjM0JsWVd0bGNpQm1ZV05sY3lCaGJtUWdZM0p2Y0NCMlpYSjBhV05oYkNCMmFXUmxieEFBZlEzc0F6OCIsInF1ZXN0aW9uIjoiSG93IHRvIG1ha2UgYSB2aWRlbyBpbiBwb3J0cmFpdCBtb2RlPyIsImxrIjoiR2lSb2IzY2dkRzhnYldGclpTQmhJSFpwWkdWdklHbHVJSEJ2Y25SeVlXbDBJRzF2WkdVIiwiYnMiOiJjNDJPdlFyQ1FCQ0VzZDNLLWdvZGZ6c1I4Z0lwYkxUeUdZN0x4anRNc3VIWVJQTDJHandSRzdWYUdMNzVadWxBODZQY29JS2Vvd1pucTJxQWk5TENvZzhGUzU3QnpQeFhoRTYwVEpJVWw5WXhwRk5JLWZhc3pNTF9vdWhNbTZTcTdaVmZNVUtEVnFKR0d4UzFGSnhuVzdQMmY0REVsSTNDUWpCSWh3dnJlT056LXdHclp6aUpEY2VQWF9kbWwtel9OYWFUT3ciLCJpZCI6ImZjXzN3QUVhOWotQ2RIbDVOb1A5WW1ra1FVXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVlXMXphMDF6YVU5SVZrdFBZemd0ZGtZNFdYSTFiV1paU0VKcFZreHZSemxWUkVoc05ubGZNSGQxWlVsSFYwODBWV2w1YjNkVlZVdEdRMlo1VWxsVVppMXdhR0ZhT1dNeE4yTnBXakV4T1RGT1dFSjJlRWRrZW5KM1VSSVhNM2RCUldFNWFpMURaRWhzTlU1dlVEbFpiV3RyVVZVYUlrRklUakJGTjBnMmIwUk5SakUxWjNGMlEwbE9URzlYYmpSTmNEZFJSbGhDYzBFIiwiZmN2IjoiMyIsImVpIjoiM3dBRWE5ai1DZEhsNU5vUDlZbWtrUVUiLCJxYyI6IkNqaG9iM2NnZEc4Z1lYVjBieUJrWlhSbFkzUWdjM0JsWVd0bGNpQm1ZV05sY3lCaGJtUWdZM0p2Y0NCMlpYSjBhV05oYkNCMmFXUmxieEFBZlEzc0F6OCIsInF1ZXN0aW9uIjoiSG93IHRvIG1ha2UgYSB2aWRlbyBpbiBwb3J0cmFpdCBtb2RlPyIsImxrIjoiR2lSb2IzY2dkRzhnYldGclpTQmhJSFpwWkdWdklHbHVJSEJ2Y25SeVlXbDBJRzF2WkdVIiwiYnMiOiJjNDJPdlFyQ1FCQ0VzZDNLLWdvZGZ6c1I4Z0lwYkxUeUdZN0x4anRNc3VIWVJQTDJHandSRzdWYUdMNzVadWxBODZQY29JS2Vvd1pucTJxQWk5TENvZzhGUzU3QnpQeFhoRTYwVEpJVWw5WXhwRk5JLWZhc3pNTF9vdWhNbTZTcTdaVmZNVUtEVnFKR0d4UzFGSnhuVzdQMmY0REVsSTNDUWpCSWh3dnJlT056LXdHclp6aUpEY2VQWF9kbWwtel9OYWFUT3ciLCJpZCI6ImZjXzN3QUVhOWotQ2RIbDVOb1A5WW1ra1FVXzUifQ%3D%3D"
+      },
+      {
+        "question": "How do you get your face in the corner of a video?",
+        "type": "ai_overview",
+        "page_token": "I1op5HicHdDNbpswAADgTuqz9NjYoUlLpGgSDc7PginGGPClMjaEyjYkjVNSjnuWnfYwe4Ad9izT9gDf5fv-w7x1-veXj9a543kxmQzDcH_o-4Op72VvJ-L82cmJFMZUQurF_HEOvzZyGV62wfNpGyQZCUujTKlhSAvGhceC0rJrCf1IgGtK7C6pjH_KLB8q8zQK7UMMri9xrj5ljtpi6oJ0JIZbH-xpyyRTMUXZSCjfppDRlPkPYo0uvDvuOQCeBI7UKx5U-awpbUspwg94Q3Yym8WlNU1SBBc5GsdQNCTWpyXFl1yHsxTqa1ygWbbCmxTioso5VBYXChgTbfi0zlGXd_-8OldF4IWtHBVAqKTmtM-wTtcDpNZPYmacmDrCSP-WZG0chZlHAClk3vIIqrlaJ7Bau29E41E-QyNW_CS6XZ8ld438WHp3_z-Xr411i-N7f_gp32vhavUq3C99e_PnL350ibE",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=I1op5HicHdDNbpswAADgTuqz9NjYoUlLpGgSDc7PginGGPClMjaEyjYkjVNSjnuWnfYwe4Ad9izT9gDf5fv-w7x1-veXj9a543kxmQzDcH_o-4Op72VvJ-L82cmJFMZUQurF_HEOvzZyGV62wfNpGyQZCUujTKlhSAvGhceC0rJrCf1IgGtK7C6pjH_KLB8q8zQK7UMMri9xrj5ljtpi6oJ0JIZbH-xpyyRTMUXZSCjfppDRlPkPYo0uvDvuOQCeBI7UKx5U-awpbUspwg94Q3Yym8WlNU1SBBc5GsdQNCTWpyXFl1yHsxTqa1ygWbbCmxTioso5VBYXChgTbfi0zlGXd_-8OldF4IWtHBVAqKTmtM-wTtcDpNZPYmacmDrCSP-WZG0chZlHAClk3vIIqrlaJ7Bau29E41E-QyNW_CS6XZ8ld438WHp3_z-Xr411i-N7f_gp32vhavUq3C99e_PnL350ibE",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVlXMXphMDF6YVU5SVZrdFBZemd0ZGtZNFdYSTFiV1paU0VKcFZreHZSemxWUkVoc05ubGZNSGQxWlVsSFYwODBWV2w1YjNkVlZVdEdRMlo1VWxsVVppMXdhR0ZhT1dNeE4yTnBXakV4T1RGT1dFSjJlRWRrZW5KM1VSSVhNM2RCUldFNWFpMURaRWhzTlU1dlVEbFpiV3RyVVZVYUlrRklUakJGTjBnMmIwUk5SakUxWjNGMlEwbE9URzlYYmpSTmNEZFJSbGhDYzBFIiwiZmN2IjoiMyIsImVpIjoiM3dBRWE5ai1DZEhsNU5vUDlZbWtrUVUiLCJxYyI6IkNqaG9iM2NnZEc4Z1lYVjBieUJrWlhSbFkzUWdjM0JsWVd0bGNpQm1ZV05sY3lCaGJtUWdZM0p2Y0NCMlpYSjBhV05oYkNCMmFXUmxieEFBZlEzc0F6OCIsInF1ZXN0aW9uIjoiSG93IGRvIHlvdSBnZXQgeW91ciBmYWNlIGluIHRoZSBjb3JuZXIgb2YgYSB2aWRlbz8iLCJsayI6IkdpMW9iM2NnZEc4Z1oyVjBJSGx2ZFhJZ1ptRmpaU0JwYmlCMGFHVWdZMjl5Ym1WeUlHOW1JR0VnZG1sa1pXOCIsImJzIjoiYzQyT3ZRckNRQkNFc2QzSy1nb2RmenNSOGdJcGJMVHlHWTdMeGp0TXN1SFlSUEwyR2p3Ukc3VmFHTDc1WnVsQTg2UGNvSUtlb3dabnEycUFpOUxDb2c4RlM1N0J6UHhYaEU2MFRKSVVsOVl4cEZOSS1mYXN6TUxfb3VoTW02U3E3WlZmTVVLRFZxSkdHeFMxRkp4blc3UDJmNERFbEkzQ1FqQklod3ZyZU9Oei13R3JaemlKRGNlUFhfZG1sLXpfTmFhVE93IiwiaWQiOiJmY18zd0FFYTlqLUNkSGw1Tm9QOVlta2tRVV81In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaVlXMXphMDF6YVU5SVZrdFBZemd0ZGtZNFdYSTFiV1paU0VKcFZreHZSemxWUkVoc05ubGZNSGQxWlVsSFYwODBWV2w1YjNkVlZVdEdRMlo1VWxsVVppMXdhR0ZhT1dNeE4yTnBXakV4T1RGT1dFSjJlRWRrZW5KM1VSSVhNM2RCUldFNWFpMURaRWhzTlU1dlVEbFpiV3RyVVZVYUlrRklUakJGTjBnMmIwUk5SakUxWjNGMlEwbE9URzlYYmpSTmNEZFJSbGhDYzBFIiwiZmN2IjoiMyIsImVpIjoiM3dBRWE5ai1DZEhsNU5vUDlZbWtrUVUiLCJxYyI6IkNqaG9iM2NnZEc4Z1lYVjBieUJrWlhSbFkzUWdjM0JsWVd0bGNpQm1ZV05sY3lCaGJtUWdZM0p2Y0NCMlpYSjBhV05oYkNCMmFXUmxieEFBZlEzc0F6OCIsInF1ZXN0aW9uIjoiSG93IGRvIHlvdSBnZXQgeW91ciBmYWNlIGluIHRoZSBjb3JuZXIgb2YgYSB2aWRlbz8iLCJsayI6IkdpMW9iM2NnZEc4Z1oyVjBJSGx2ZFhJZ1ptRmpaU0JwYmlCMGFHVWdZMjl5Ym1WeUlHOW1JR0VnZG1sa1pXOCIsImJzIjoiYzQyT3ZRckNRQkNFc2QzSy1nb2RmenNSOGdJcGJMVHlHWTdMeGp0TXN1SFlSUEwyR2p3Ukc3VmFHTDc1WnVsQTg2UGNvSUtlb3dabnEycUFpOUxDb2c4RlM1N0J6UHhYaEU2MFRKSVVsOVl4cEZOSS1mYXN6TUxfb3VoTW02U3E3WlZmTVVLRFZxSkdHeFMxRkp4blc3UDJmNERFbEkzQ1FqQklod3ZyZU9Oei13R3JaemlKRGNlUFhfZG1sLXpfTmFhVE93IiwiaWQiOiJmY18zd0FFYTlqLUNkSGw1Tm9QOVlta2tRVV81In0%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "Dd1S6HiczVXPcvI2EO-hx75GfSEB2_zPjCcjOyKYAMEkhJILY8vCNrYRsQyGHvssPfVh-gA99Fkq20BsPvMl6aXdGZClXf12tdqf9rffPWfl_vWTZofhmt5UKlEUlS1CLA-XEfErOt2vUGVBPBog-5aSTYCwY0rIDoiPOduT8IpLVw9rZWJwlidtKLffSlUOUYnnsCNVIwD19vJaMbtefUhG7ZnvutqES_CluaFTvGTud0tamVfYn_tz9Y5NyrSMV-VVVXjZbh-x_kTLIi9Wy48V3WcG4D8WGagWG1wArO-aaZ8F1BgOBMr5fgiTMbM-ALFPFShqqrnk_ykGjXcqcjyNcR7BQk6Vw6PVRP0gLghgZkZBJhxZTV18SU4nmZwvXJaCI6ppbPJxDs91RTJQcyaKpcjdKAMPC_bMcqAkDWcUYRXYvvVR8mJoLZLrD-A90u-JQhqKZ4AIKBXTYlXOV4yADULFQTZKPgIaF7_y3OZJp0c282atZj1VkWjsgnDYmD43eaujDq0KMpidR3QTm3N7zt8mc0EUxRbfFPirhHWInmhHs7Qbwuhu9kb3Y2VW7penR8rls3N-bZqqFibektP0flMnJ4AxeMhrzlPl5jx3DqMNZKIx2JxSe4D9rBFjyx1LV8vKltD7DqWQcgWnSCgH0-s_AVh5MOZ9BuBTkZ9YHgthC-tCTkieIB4fukMWE-uzVDrx22GBUx3fZ5XJCeGE6WBCuRcMU9txFF_XAUq1VFXLb8sITO_17Hbh-_HiqFRmJVvsWQS9waQHZbY4Pm2S5cNDo9jvMIkPWEi6VNP_9mm4LzAsFPUz70oaxZFjZ5TJUg3OEb94CDsLWavWBkIb2rNha7rQxlsbFFOL-MYXWhr635Pv0O-8Q5VdJF_s6VPk06xi8l3qd1BJyae4h6NlwWJ5SslX3O9GR6t8vysgH5Rhhnxpv5OddCjod18nn_Ix-XL5ypDvvd_lyKdeIl_a7zLkU3rHfneRfGm_O5Lv3_Y75ev9LuEgTod889ssrYtNEGovq4E3XJjt5RZicXTdc-tzWtc2I1f7sAku_PDG103vau6YN7LYC_fm1ZwtkBtscm9Sl0SlkJT0TUiuTRxiFJboGusuDkoLHWFa0ldmCQVkXdriIHSQ7pW2jonJLed7AZF4vdHttrxmuBkIURePQGdx_RoEnd5u-KLt-rg9NoVqs2fuTWGyRNCYaq-wujIau14drav3FA2mvwhmKzKMTaOrLkMbB53lr7tuS-k3xw0H0LZd4_3JOprtvOeh45hhU21MXTzbmf0WVpert1ege76XREMlfdvuyNXn-1k44PwASex-a3sw1sAUAB3IEeixAnoA8viNjX12fwaRgdadMRpY7EdYuXIU6XNMt1K9JtZ4UUS60KxhoYk53wr3a6nNc3QVSMIfKMB6yJKuh3-6P_7w9z9_t4Mj",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Dd1S6HiczVXPcvI2EO-hx75GfSEB2_zPjCcjOyKYAMEkhJILY8vCNrYRsQyGHvssPfVh-gA99Fkq20BsPvMl6aXdGZClXf12tdqf9rffPWfl_vWTZofhmt5UKlEUlS1CLA-XEfErOt2vUGVBPBog-5aSTYCwY0rIDoiPOduT8IpLVw9rZWJwlidtKLffSlUOUYnnsCNVIwD19vJaMbtefUhG7ZnvutqES_CluaFTvGTud0tamVfYn_tz9Y5NyrSMV-VVVXjZbh-x_kTLIi9Wy48V3WcG4D8WGagWG1wArO-aaZ8F1BgOBMr5fgiTMbM-ALFPFShqqrnk_ykGjXcqcjyNcR7BQk6Vw6PVRP0gLghgZkZBJhxZTV18SU4nmZwvXJaCI6ppbPJxDs91RTJQcyaKpcjdKAMPC_bMcqAkDWcUYRXYvvVR8mJoLZLrD-A90u-JQhqKZ4AIKBXTYlXOV4yADULFQTZKPgIaF7_y3OZJp0c282atZj1VkWjsgnDYmD43eaujDq0KMpidR3QTm3N7zt8mc0EUxRbfFPirhHWInmhHs7Qbwuhu9kb3Y2VW7penR8rls3N-bZqqFibektP0flMnJ4AxeMhrzlPl5jx3DqMNZKIx2JxSe4D9rBFjyx1LV8vKltD7DqWQcgWnSCgH0-s_AVh5MOZ9BuBTkZ9YHgthC-tCTkieIB4fukMWE-uzVDrx22GBUx3fZ5XJCeGE6WBCuRcMU9txFF_XAUq1VFXLb8sITO_17Hbh-_HiqFRmJVvsWQS9waQHZbY4Pm2S5cNDo9jvMIkPWEi6VNP_9mm4LzAsFPUz70oaxZFjZ5TJUg3OEb94CDsLWavWBkIb2rNha7rQxlsbFFOL-MYXWhr635Pv0O-8Q5VdJF_s6VPk06xi8l3qd1BJyae4h6NlwWJ5SslX3O9GR6t8vysgH5Rhhnxpv5OddCjod18nn_Ix-XL5ypDvvd_lyKdeIl_a7zLkU3rHfneRfGm_O5Lv3_Y75ev9LuEgTod889ssrYtNEGovq4E3XJjt5RZicXTdc-tzWtc2I1f7sAku_PDG103vau6YN7LYC_fm1ZwtkBtscm9Sl0SlkJT0TUiuTRxiFJboGusuDkoLHWFa0ldmCQVkXdriIHSQ7pW2jonJLed7AZF4vdHttrxmuBkIURePQGdx_RoEnd5u-KLt-rg9NoVqs2fuTWGyRNCYaq-wujIau14drav3FA2mvwhmKzKMTaOrLkMbB53lr7tuS-k3xw0H0LZd4_3JOprtvOeh45hhU21MXTzbmf0WVpert1ege76XREMlfdvuyNXn-1k44PwASex-a3sw1sAUAB3IEeixAnoA8viNjX12fwaRgdadMRpY7EdYuXIU6XNMt1K9JtZ4UUS60KxhoYk53wr3a6nNc3QVSMIfKMB6yJKuh3-6P_7w9z9_t4Mj"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "How to Auto-Crop Multi-Person Podcasts with AI Speaker ...",
+        "link": "https://joyspace.ai/speaker-highlight-method-automated-framing",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://joyspace.ai/speaker-highlight-method-automated-framing&usg=AOvVaw19gTFfpeH0zUyPLdJmdZpd",
+        "displayed_link": "https://joyspace.ai \u203a speaker-highlight-method-automate...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAmElEQVR4AWMYboAdn-RUFB53oKOjB4L73w5F8sT__3ciYbwT_9-Io-jd_B_GyvsPAlNRJRHG3Pn_3RFDJ8LOQCBhhENyCRD7LUGRRHhSGkjd-a-ORXIeiIj8DnRUJ4h1ZCqSZPH_3SCN0m_-R0Ls38rAcO0NRE596_9n8SBG_Gao_f-vPYOoA5sDtRoWYkZ1dQinqTOMAAAAM5s-QcJNAfIAAAAASUVORK5CYII.png",
+        "date": "Dec 1, 2025",
+        "snippet": "Automatically crop and frame multi-person podcast videos with AI active speaker detection. Complete guide to automated video framing for ...",
+        "snippet_highlighted_words": [
+          "Automatically crop and frame multi-person podcast videos"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Automatically crop and frame multi-person podcast videos with AI active speaker detection. Complete guide to automated video framing for ...",
+            "source_info_link": "https://joyspace.ai/speaker-highlight-method-automated-framing",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAmElEQVR4AWMYboAdn-RUFB53oKOjB4L73w5F8sT__3ciYbwT_9-Io-jd_B_GyvsPAlNRJRHG3Pn_3RFDJ8LOQCBhhENyCRD7LUGRRHhSGkjd-a-ORXIeiIj8DnRUJ4h1ZCqSZPH_3SCN0m_-R0Ls38rAcO0NRE596_9n8SBG_Gao_f-vPYOoA5sDtRoWYkZ1dQinqTOMAAAAM5s-QcJNAfIAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cj5odHRwczovL2pveXNwYWNlLmFpL3NwZWFrZXItaGlnaGxpZ2h0LW1ldGhvZC1hdXRvbWF0ZWQtZnJhbWluZxIEGgIIABqsBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCIBggAEAAYACAAKgoKA2hvdxVQLJ5AKgkKAnRvFQAAAAAqSgoEYXV0bxXm2oVAGglhdXRvbWF0aWMaDWF1dG9tYXRpY2FsbHkaC2F1dG9tb2JpbGVzGgphdXRvbW90aXZlGgphdXRvZGV0ZWN0KpcBCgZkZXRlY3QVgQtBPxoFY2hlY2saCGRldGVjdGVkGglkZXRlY3RpbmcaCWRldGVjdGlvbhoHZGV0ZWN0cxoJZGV0ZXJtaW5lGghkaXNjb3ZlchoJZGlzY292ZXJ5GgRmaW5kGglyZWNvZ25pemUaBXNlbnNlGgdzZW5zaW5nGgphdXRvZGV0ZWN0GgtpdjtwO2RldGVjdComCgdzcGVha2VyFerIyEAaCHNwZWFrZXJzGgxpdjtwO3NwZWFrZXIqEgoFZmFjZXMVob6cPxoEZmFjZSoKCgNhbmQVAAAAAConCgRjcm9wFSzqmkAaCGNyb3BwaW5nGgVjcm9wcxoJaXY7cDtjcm9wKi0KCHZlcnRpY2FsFZ4bvD8aDXZlcnRpY2FsdmlkZW8aDWl2O3A7dmVydGljYWwqLAoFdmlkZW8VfvhPQBoHZm9vdGFnZRoGdmlkZW9zGg12ZXJ0aWNhbHZpZGVvMj5odHRwczovL2pveXNwYWNlLmFpL3NwZWFrZXItaGlnaGxpZ2h0LW1ldGhvZC1hdXRvbWF0ZWQtZnJhbWluZzpPPGI-SG93IHRvIEF1dG88L2I-LTxiPkNyb3A8L2I-IE11bHRpLVBlcnNvbiBQb2RjYXN0cyB3aXRoIEFJIDxiPlNwZWFrZXI8L2I-IC4uLkKYATxiPkF1dG9tYXRpY2FsbHkgY3JvcCBhbmQgZnJhbWUgbXVsdGktcGVyc29uIHBvZGNhc3QgdmlkZW9zPC9iPiB3aXRoIEFJIGFjdGl2ZSBzcGVha2VyIGRldGVjdGlvbi4gQ29tcGxldGUgZ3VpZGUgdG8gYXV0b21hdGVkIHZpZGVvIGZyYW1pbmcgZm9yJm5ic3A7Li4uSgNhbmRKAnRvIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cj5odHRwczovL2pveXNwYWNlLmFpL3NwZWFrZXItaGlnaGxpZ2h0LW1ldGhvZC1hdXRvbWF0ZWQtZnJhbWluZxIEGgIIABqsBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCIBggAEAAYACAAKgoKA2hvdxVQLJ5AKgkKAnRvFQAAAAAqSgoEYXV0bxXm2oVAGglhdXRvbWF0aWMaDWF1dG9tYXRpY2FsbHkaC2F1dG9tb2JpbGVzGgphdXRvbW90aXZlGgphdXRvZGV0ZWN0KpcBCgZkZXRlY3QVgQtBPxoFY2hlY2saCGRldGVjdGVkGglkZXRlY3RpbmcaCWRldGVjdGlvbhoHZGV0ZWN0cxoJZGV0ZXJtaW5lGghkaXNjb3ZlchoJZGlzY292ZXJ5GgRmaW5kGglyZWNvZ25pemUaBXNlbnNlGgdzZW5zaW5nGgphdXRvZGV0ZWN0GgtpdjtwO2RldGVjdComCgdzcGVha2VyFerIyEAaCHNwZWFrZXJzGgxpdjtwO3NwZWFrZXIqEgoFZmFjZXMVob6cPxoEZmFjZSoKCgNhbmQVAAAAAConCgRjcm9wFSzqmkAaCGNyb3BwaW5nGgVjcm9wcxoJaXY7cDtjcm9wKi0KCHZlcnRpY2FsFZ4bvD8aDXZlcnRpY2FsdmlkZW8aDWl2O3A7dmVydGljYWwqLAoFdmlkZW8VfvhPQBoHZm9vdGFnZRoGdmlkZW9zGg12ZXJ0aWNhbHZpZGVvMj5odHRwczovL2pveXNwYWNlLmFpL3NwZWFrZXItaGlnaGxpZ2h0LW1ldGhvZC1hdXRvbWF0ZWQtZnJhbWluZzpPPGI-SG93IHRvIEF1dG88L2I-LTxiPkNyb3A8L2I-IE11bHRpLVBlcnNvbiBQb2RjYXN0cyB3aXRoIEFJIDxiPlNwZWFrZXI8L2I-IC4uLkKYATxiPkF1dG9tYXRpY2FsbHkgY3JvcCBhbmQgZnJhbWUgbXVsdGktcGVyc29uIHBvZGNhc3QgdmlkZW9zPC9iPiB3aXRoIEFJIGFjdGl2ZSBzcGVha2VyIGRldGVjdGlvbi4gQ29tcGxldGUgZ3VpZGUgdG8gYXV0b21hdGVkIHZpZGVvIGZyYW1pbmcgZm9yJm5ic3A7Li4uSgNhbmRKAnRvIgIQAUgAWABoAA",
+        "source": "joyspace.ai"
+      },
+      {
+        "position": 2,
+        "title": "Multi-Speaker Detection Guide",
+        "link": "https://openclip.app/guides/multi-speaker-detection-guide",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://openclip.app/guides/multi-speaker-detection-guide&usg=AOvVaw32Z-mS9t_hK4RJJLP6svzY",
+        "displayed_link": "https://openclip.app \u203a Guides",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAgklEQVR4AWP4jwfQQ3JXdPQuHJI3rBiAwPYGFsmvmQxQkPcVXXIWAxKYhSL5Q5EBBWj9QJIsY0ADlUiS-uiS-piSR1-U4ZS0BbIeWOGQ9AezufFJCpJiLMJBlTAH4fUKvkAowxN8ij-IC3iI5jxElGGLbFuQlNUNXMkkEj2Z0D_dAgDQ8hueXy0oUQAAAABJRU5ErkJggg.png",
+        "date": "5 days ago",
+        "snippet": "AI detects and tracks every face in your video, even as speakers enter and exit the frame. Dynamic Active Speaker Cropping. The crop ...",
+        "snippet_highlighted_words": [
+          "AI detects and tracks every face in your video"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "AI detects and tracks every face in your video, even as speakers enter and exit the frame. Dynamic Active Speaker Cropping. The crop ...",
+            "source_info_link": "https://openclip.app/guides/multi-speaker-detection-guide",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAgklEQVR4AWP4jwfQQ3JXdPQuHJI3rBiAwPYGFsmvmQxQkPcVXXIWAxKYhSL5Q5EBBWj9QJIsY0ADlUiS-uiS-piSR1-U4ZS0BbIeWOGQ9AezufFJCpJiLMJBlTAH4fUKvkAowxN8ij-IC3iI5jxElGGLbFuQlNUNXMkkEj2Z0D_dAgDQ8hueXy0oUQAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CjlodHRwczovL29wZW5jbGlwLmFwcC9ndWlkZXMvbXVsdGktc3BlYWtlci1kZXRlY3Rpb24tZ3VpZGUSBBoCCAAahQYSABoAIgIIASoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDfBQgAEAAYACAAKgoKA2hvdxWINuk_KgkKAnRvFQAAAAAqSgoEYXV0bxUAAAAAGglhdXRvbWF0aWMaDWF1dG9tYXRpY2FsbHkaC2F1dG9tb2JpbGVzGgphdXRvbW90aXZlGgphdXRvZGV0ZWN0KpcBCgZkZXRlY3QVe3CRPxoFY2hlY2saCGRldGVjdGVkGglkZXRlY3RpbmcaCWRldGVjdGlvbhoHZGV0ZWN0cxoJZGV0ZXJtaW5lGghkaXNjb3ZlchoJZGlzY292ZXJ5GgRmaW5kGglyZWNvZ25pemUaBXNlbnNlGgdzZW5zaW5nGgphdXRvZGV0ZWN0GgtpdjtwO2RldGVjdComCgdzcGVha2VyFcOS4UAaCHNwZWFrZXJzGgxpdjtwO3NwZWFrZXIqEgoFZmFjZXMVsl33PxoEZmFjZSoKCgNhbmQVAAAAAConCgRjcm9wFeYmlz8aCGNyb3BwaW5nGgVjcm9wcxoJaXY7cDtjcm9wKi0KCHZlcnRpY2FsFVQG6D4aDXZlcnRpY2FsdmlkZW8aDWl2O3A7dmVydGljYWwqLAoFdmlkZW8VQf-IQBoHZm9vdGFnZRoGdmlkZW9zGg12ZXJ0aWNhbHZpZGVvMjlodHRwczovL29wZW5jbGlwLmFwcC9ndWlkZXMvbXVsdGktc3BlYWtlci1kZXRlY3Rpb24tZ3VpZGU6L011bHRpLTxiPlNwZWFrZXIgRGV0ZWN0aW9uPC9iPiBHdWlkZSAtIE9wZW5DbGlwQpQBPGI-QUkgZGV0ZWN0cyBhbmQgdHJhY2tzIGV2ZXJ5IGZhY2UgaW4geW91ciB2aWRlbzwvYj4sIGV2ZW4gYXMgc3BlYWtlcnMgZW50ZXIgYW5kIGV4aXQgdGhlIGZyYW1lLiBEeW5hbWljIEFjdGl2ZSBTcGVha2VyIENyb3BwaW5nLiBUaGUgY3JvcCZuYnNwOy4uLkoCdG9KA2FuZCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CjlodHRwczovL29wZW5jbGlwLmFwcC9ndWlkZXMvbXVsdGktc3BlYWtlci1kZXRlY3Rpb24tZ3VpZGUSBBoCCAAahQYSABoAIgIIASoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDfBQgAEAAYACAAKgoKA2hvdxWINuk_KgkKAnRvFQAAAAAqSgoEYXV0bxUAAAAAGglhdXRvbWF0aWMaDWF1dG9tYXRpY2FsbHkaC2F1dG9tb2JpbGVzGgphdXRvbW90aXZlGgphdXRvZGV0ZWN0KpcBCgZkZXRlY3QVe3CRPxoFY2hlY2saCGRldGVjdGVkGglkZXRlY3RpbmcaCWRldGVjdGlvbhoHZGV0ZWN0cxoJZGV0ZXJtaW5lGghkaXNjb3ZlchoJZGlzY292ZXJ5GgRmaW5kGglyZWNvZ25pemUaBXNlbnNlGgdzZW5zaW5nGgphdXRvZGV0ZWN0GgtpdjtwO2RldGVjdComCgdzcGVha2VyFcOS4UAaCHNwZWFrZXJzGgxpdjtwO3NwZWFrZXIqEgoFZmFjZXMVsl33PxoEZmFjZSoKCgNhbmQVAAAAAConCgRjcm9wFeYmlz8aCGNyb3BwaW5nGgVjcm9wcxoJaXY7cDtjcm9wKi0KCHZlcnRpY2FsFVQG6D4aDXZlcnRpY2FsdmlkZW8aDWl2O3A7dmVydGljYWwqLAoFdmlkZW8VQf-IQBoHZm9vdGFnZRoGdmlkZW9zGg12ZXJ0aWNhbHZpZGVvMjlodHRwczovL29wZW5jbGlwLmFwcC9ndWlkZXMvbXVsdGktc3BlYWtlci1kZXRlY3Rpb24tZ3VpZGU6L011bHRpLTxiPlNwZWFrZXIgRGV0ZWN0aW9uPC9iPiBHdWlkZSAtIE9wZW5DbGlwQpQBPGI-QUkgZGV0ZWN0cyBhbmQgdHJhY2tzIGV2ZXJ5IGZhY2UgaW4geW91ciB2aWRlbzwvYj4sIGV2ZW4gYXMgc3BlYWtlcnMgZW50ZXIgYW5kIGV4aXQgdGhlIGZyYW1lLiBEeW5hbWljIEFjdGl2ZSBTcGVha2VyIENyb3BwaW5nLiBUaGUgY3JvcCZuYnNwOy4uLkoCdG9KA2FuZCICEAFIAFgAaAA",
+        "source": "OpenClip App",
+        "read_more_link": "https://openclip.app/guides/multi-speaker-detection-guide#:~:text=AI%20detects%20and%20tracks%20every,speaking%20centered%20in%20the%20frame."
+      },
+      {
+        "position": 3,
+        "title": "FFmpeg Can't Auto Reframe Video to Vertical. Do This ...",
+        "link": "https://www.ffmpeg-micro.com/blog/ffmpeg-can-t-auto-reframe-video-to-vertical-do-this-instead",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.ffmpeg-micro.com/blog/ffmpeg-can-t-auto-reframe-video-to-vertical-do-this-instead&usg=AOvVaw3EberR_JfxJI4E2z40XhxT",
+        "displayed_link": "https://www.ffmpeg-micro.com \u203a blog \u203a ffmpeg-can-t-...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAwFBMVEVHcEy34_hpvfZ42_pVzvtX2fx04vu97_v___3X8fpKtPgysfsxt_w3vv09xf1ByP1Dzf1G0_1L2f2a6_guqvoro_lnuO8lnvglmfgdr__EmZ3ujm6Lss8lx_9Rp_Ujlff_a1X_eFFklvAhkfYAgvJIj_EgjvUQd_D_XVQchPMfivX-TlNEhu8ZffIMce_8PVOhZqHtKlgNa-3KR30MZOteTb4GVOebtvHT2_jJ1PaswfLY4fnm7Pzu8_zs8vz0-P0LVncJAAAAQHRSTlMASoynsLCwXwQd_v__________Q____P_________1________________________________________gJMofZyUOgAAAUtJREFUeAGkz0VixEAMBEAtMzOaPWaK-f8Pi0Zy6Jy-lhD-lV5_MOwyoozH48FkKmk2XyyXy9VqtV5vNtvtbrfbcw6I8-MC88OoHc-gfzodfzH3Mo_hfDlJPrJiKzMVwPl6Yb7dH8_XmiYjbzF7eCtX5ouqaY8zMjXTfNANg9lUUbU7M96GDJZtG4qiXBXhqMzr13qFQQbL9Twbu23hOx0_V93jELgusSd8H1n6_bZYEEMQhsRuFMfMye3rcQhESOxGaSw5ERf6Gx0xEsRhlqJ-5KZyuXwxBBkqssjTNC2EaytXflyilWeR5Cgvi0y4dLnCPAc9zzPJUZZHIuTLO35DVebIFLmb2SbuQx2gEtP0H7bfAE2jlzJcEVGFKVP1AOqmadq2-pMW8zlrG2AisrG2wAKsrW1sgUnIzgY7YIekTE57COBEojgYKAMAH3dS46DISewAAAAASUVORK5CYII.png",
+        "date": "Sep 15, 2026",
+        "snippet": "Quick answer: FFmpeg has no built-in way to auto reframe video vertical, because FFmpeg has no subject detection. crop=ih*9/16:ih gives you a ...",
+        "snippet_highlighted_words": [
+          "FFmpeg has no built-in way to auto reframe video vertical"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Quick answer: FFmpeg has no built-in way to auto reframe video vertical, because FFmpeg has no subject detection. crop=ih*9/16:ih gives you a ...",
+            "source_info_link": "https://www.ffmpeg-micro.com/blog/ffmpeg-can-t-auto-reframe-video-to-vertical-do-this-instead",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAwFBMVEVHcEy34_hpvfZ42_pVzvtX2fx04vu97_v___3X8fpKtPgysfsxt_w3vv09xf1ByP1Dzf1G0_1L2f2a6_guqvoro_lnuO8lnvglmfgdr__EmZ3ujm6Lss8lx_9Rp_Ujlff_a1X_eFFklvAhkfYAgvJIj_EgjvUQd_D_XVQchPMfivX-TlNEhu8ZffIMce_8PVOhZqHtKlgNa-3KR30MZOteTb4GVOebtvHT2_jJ1PaswfLY4fnm7Pzu8_zs8vz0-P0LVncJAAAAQHRSTlMASoynsLCwXwQd_v__________Q____P_________1________________________________________gJMofZyUOgAAAUtJREFUeAGkz0VixEAMBEAtMzOaPWaK-f8Pi0Zy6Jy-lhD-lV5_MOwyoozH48FkKmk2XyyXy9VqtV5vNtvtbrfbcw6I8-MC88OoHc-gfzodfzH3Mo_hfDlJPrJiKzMVwPl6Yb7dH8_XmiYjbzF7eCtX5ouqaY8zMjXTfNANg9lUUbU7M96GDJZtG4qiXBXhqMzr13qFQQbL9Twbu23hOx0_V93jELgusSd8H1n6_bZYEEMQhsRuFMfMye3rcQhESOxGaSw5ERf6Gx0xEsRhlqJ-5KZyuXwxBBkqssjTNC2EaytXflyilWeR5Cgvi0y4dLnCPAc9zzPJUZZHIuTLO35DVebIFLmb2SbuQx2gEtP0H7bfAE2jlzJcEVGFKVP1AOqmadq2-pMW8zlrG2AisrG2wAKsrW1sgUnIzgY7YIekTE57COBEojgYKAMAH3dS46DISewAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cl1odHRwczovL3d3dy5mZm1wZWctbWljcm8uY29tL2Jsb2cvZmZtcGVnLWNhbi10LWF1dG8tcmVmcmFtZS12aWRlby10by12ZXJ0aWNhbC1kby10aGlzLWluc3RlYWQSBBoCCAAa1gYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAsgYIABAAGAAgACoKCgNob3cV3svrPioJCgJ0bxUAAAAAKkoKBGF1dG8VGDOaQBoJYXV0b21hdGljGg1hdXRvbWF0aWNhbGx5GgthdXRvbW9iaWxlcxoKYXV0b21vdGl2ZRoKYXV0b2RldGVjdCqXAQoGZGV0ZWN0FWuIAT8aBWNoZWNrGghkZXRlY3RlZBoJZGV0ZWN0aW5nGglkZXRlY3Rpb24aB2RldGVjdHMaCWRldGVybWluZRoIZGlzY292ZXIaCWRpc2NvdmVyeRoEZmluZBoJcmVjb2duaXplGgVzZW5zZRoHc2Vuc2luZxoKYXV0b2RldGVjdBoLaXY7cDtkZXRlY3QqJgoHc3BlYWtlchUuUPk_GghzcGVha2VycxoMaXY7cDtzcGVha2VyKhIKBWZhY2VzFdp5DT4aBGZhY2UqCgoDYW5kFQAAAAAqJwoEY3JvcBWIvZZAGghjcm9wcGluZxoFY3JvcHMaCWl2O3A7Y3JvcCotCgh2ZXJ0aWNhbBXq0K9AGg12ZXJ0aWNhbHZpZGVvGg1pdjtwO3ZlcnRpY2FsKiwKBXZpZGVvFc0vv0AaB2Zvb3RhZ2UaBnZpZGVvcxoNdmVydGljYWx2aWRlbzJdaHR0cHM6Ly93d3cuZmZtcGVnLW1pY3JvLmNvbS9ibG9nL2ZmbXBlZy1jYW4tdC1hdXRvLXJlZnJhbWUtdmlkZW8tdG8tdmVydGljYWwtZG8tdGhpcy1pbnN0ZWFkOlVGRm1wZWcgQ2FuJiMzOTt0IDxiPkF1dG88L2I-IFJlZnJhbWUgPGI-VmlkZW88L2I-IHRvIDxiPlZlcnRpY2FsPC9iPi4gRG8gVGhpcyBJbnN0ZWFkQp0BUXVpY2sgYW5zd2VyOiA8Yj5GRm1wZWcgaGFzIG5vIGJ1aWx0LWluIHdheSB0byBhdXRvIHJlZnJhbWUgdmlkZW8gdmVydGljYWw8L2I-LCBiZWNhdXNlIEZGbXBlZyBoYXMgbm8gc3ViamVjdCBkZXRlY3Rpb24uIGNyb3A9aWgqOS8xNjppaCBnaXZlcyB5b3UgYSZuYnNwOy4uLkoCdG9KA2FuZCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cl1odHRwczovL3d3dy5mZm1wZWctbWljcm8uY29tL2Jsb2cvZmZtcGVnLWNhbi10LWF1dG8tcmVmcmFtZS12aWRlby10by12ZXJ0aWNhbC1kby10aGlzLWluc3RlYWQSBBoCCAAa1gYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAsgYIABAAGAAgACoKCgNob3cV3svrPioJCgJ0bxUAAAAAKkoKBGF1dG8VGDOaQBoJYXV0b21hdGljGg1hdXRvbWF0aWNhbGx5GgthdXRvbW9iaWxlcxoKYXV0b21vdGl2ZRoKYXV0b2RldGVjdCqXAQoGZGV0ZWN0FWuIAT8aBWNoZWNrGghkZXRlY3RlZBoJZGV0ZWN0aW5nGglkZXRlY3Rpb24aB2RldGVjdHMaCWRldGVybWluZRoIZGlzY292ZXIaCWRpc2NvdmVyeRoEZmluZBoJcmVjb2duaXplGgVzZW5zZRoHc2Vuc2luZxoKYXV0b2RldGVjdBoLaXY7cDtkZXRlY3QqJgoHc3BlYWtlchUuUPk_GghzcGVha2VycxoMaXY7cDtzcGVha2VyKhIKBWZhY2VzFdp5DT4aBGZhY2UqCgoDYW5kFQAAAAAqJwoEY3JvcBWIvZZAGghjcm9wcGluZxoFY3JvcHMaCWl2O3A7Y3JvcCotCgh2ZXJ0aWNhbBXq0K9AGg12ZXJ0aWNhbHZpZGVvGg1pdjtwO3ZlcnRpY2FsKiwKBXZpZGVvFc0vv0AaB2Zvb3RhZ2UaBnZpZGVvcxoNdmVydGljYWx2aWRlbzJdaHR0cHM6Ly93d3cuZmZtcGVnLW1pY3JvLmNvbS9ibG9nL2ZmbXBlZy1jYW4tdC1hdXRvLXJlZnJhbWUtdmlkZW8tdG8tdmVydGljYWwtZG8tdGhpcy1pbnN0ZWFkOlVGRm1wZWcgQ2FuJiMzOTt0IDxiPkF1dG88L2I-IFJlZnJhbWUgPGI-VmlkZW88L2I-IHRvIDxiPlZlcnRpY2FsPC9iPi4gRG8gVGhpcyBJbnN0ZWFkQp0BUXVpY2sgYW5zd2VyOiA8Yj5GRm1wZWcgaGFzIG5vIGJ1aWx0LWluIHdheSB0byBhdXRvIHJlZnJhbWUgdmlkZW8gdmVydGljYWw8L2I-LCBiZWNhdXNlIEZGbXBlZyBoYXMgbm8gc3ViamVjdCBkZXRlY3Rpb24uIGNyb3A9aWgqOS8xNjppaCBnaXZlcyB5b3UgYSZuYnNwOy4uLkoCdG9KA2FuZCICEAFIAFgAaAA",
+        "source": "FFmpeg Micro",
+        "read_more_link": "https://www.ffmpeg-micro.com/blog/ffmpeg-can-t-auto-reframe-video-to-vertical-do-this-instead#:~:text=Quick%20answer%3A%20FFmpeg%20has%20no,speaker%20drifts%20out%20of%20it."
+      },
+      {
+        "position": 4,
+        "title": "How to Automatically Crop Clips with 2 or More Speakers ( ...",
+        "link": "https://www.youtube.com/watch?v=uX1MvTiGYJc",
+        "displayed_link": "1.2K+ views",
+        "date": "2 years ago",
+        "thumbnail": "https://serpapi.com/searches/6b0400de9d99f45ca975541a/images/2UXhknEJi5Ih1ZMXSugCKWcMxJyy9lsh-ORLKlnYwS0.webp",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "Share your videos with friends, family, and the world.",
+        "duration": "3:19",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "Example of AI generated social media clips with auto cropping",
+            "link": "https://www.youtube.com/watch?v=uX1MvTiGYJc&t=0"
+          },
+          {
+            "time": "00:22",
+            "title": "Step 1: Get your video into one single layer",
+            "link": "https://www.youtube.com/watch?v=uX1MvTiGYJc&t=22"
+          },
+          {
+            "time": "00:49",
+            "title": "Step 2: Upload video to Kapwing's Repurpose content tool",
+            "link": "https://www.youtube.com/watch?v=uX1MvTiGYJc&t=49"
+          },
+          {
+            "time": "01:31",
+            "title": "Step 3: Make edits to the generated clips if needed (adjust speaker selection, adjust crop, subtitles)",
+            "link": "https://www.youtube.com/watch?v=uX1MvTiGYJc&t=91"
+          },
+          {
+            "time": "02:57",
+            "title": "What is Kapwing?",
+            "link": "https://www.youtube.com/watch?v=uX1MvTiGYJc&t=177"
+          }
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Share your videos with friends, family, and the world.",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CitodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PXVYMU12VGlHWUpjEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CitodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PXVYMU12VGlHWUpjEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "source": "YouTube \u00b7 Kapwing"
+      },
+      {
+        "position": 5,
+        "title": "Automatically convert horizontal videos into vertical short ...",
+        "link": "https://github.com/algometrix/vertical_video_convertor",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://github.com/algometrix/vertical_video_convertor&usg=AOvVaw3Hma0Kfln9G-TFUgpqmNMV",
+        "displayed_link": "https://github.com \u203a algometrix \u203a vertical_video_convertor",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEX____4-Pi3ubtvcnZNUVU-Q0cpLjLr6-x3en0sMTYkKS59gIORk5aUl5n8_Pzw8PFTV1tbX2Pc3d5DSEzn5-g3PECLjpFKTlKFh4qxs7XCxMUuMze_wcLh4uPV1tZzd3o_Q0jOz9CmqKpjZ2qfoaTxAyfNAAABPUlEQVR4AW3TBYKDMBQE0AltAgzuzur9z7ibH5oKfWjc4UEFl6s2Rl8vgcJZGMX04iTEM5UaPomzHA-KkidVAa_WfKNpffMd32oKCHUlWfb27Q19ZSMVrNHGTMDckMtQLqSegdXGpvi3Sf93W9UudRby2WzsEgL4oMvwoqY1AsrQNfFipbXkCGh1BV6oT1pfRwvfOJlo9ZA5NAonStbmB1pawBuDTAgkX4MzV_eC2H3e0C7lk1aBEzd-7SpigJOZVoXx-J5UxzADil-8-KZYoRaK5y2WZxSdgm0j-dakzkIc2kzT6W3IcFnDTzdt4sKbWMqkpNl229IMsfMmg6UaMsJXmv4qCMXDoI4mO5oADwyFDnGoO3KI0jSHQ6E3eJum5TP4Y-EVyUOGXHZjgWd7ZEwOJzZRjbPQt7mF8P4AzsYZpmkFLF4AAAAASUVORK5CYII.png",
+        "snippet": "The face is detected per frame and the crop follows the speaker, so no manual keyframing is needed. Does it work without a GPU? Yes. Install the [cpu] extra and ...",
+        "snippet_highlighted_words": [
+          "face",
+          "detected",
+          "crop",
+          "speaker"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "The face is detected per frame and the crop follows the speaker, so no manual keyframing is needed. Does it work without a GPU? Yes. Install the [cpu] extra and ...",
+            "source_info_link": "https://github.com/algometrix/vertical_video_convertor",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAb1BMVEX____4-Pi3ubtvcnZNUVU-Q0cpLjLr6-x3en0sMTYkKS59gIORk5aUl5n8_Pzw8PFTV1tbX2Pc3d5DSEzn5-g3PECLjpFKTlKFh4qxs7XCxMUuMze_wcLh4uPV1tZzd3o_Q0jOz9CmqKpjZ2qfoaTxAyfNAAABPUlEQVR4AW3TBYKDMBQE0AltAgzuzur9z7ibH5oKfWjc4UEFl6s2Rl8vgcJZGMX04iTEM5UaPomzHA-KkidVAa_WfKNpffMd32oKCHUlWfb27Q19ZSMVrNHGTMDckMtQLqSegdXGpvi3Sf93W9UudRby2WzsEgL4oMvwoqY1AsrQNfFipbXkCGh1BV6oT1pfRwvfOJlo9ZA5NAonStbmB1pawBuDTAgkX4MzV_eC2H3e0C7lk1aBEzd-7SpigJOZVoXx-J5UxzADil-8-KZYoRaK5y2WZxSdgm0j-dakzkIc2kzT6W3IcFnDTzdt4sKbWMqkpNl229IMsfMmg6UaMsJXmv4qCMXDoI4mO5oADwyFDnGoO3KI0jSHQ6E3eJum5TP4Y-EVyUOGXHZjgWd7ZEwOJzZRjbPQt7mF8P4AzsYZpmkFLF4AAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CjZodHRwczovL2dpdGh1Yi5jb20vYWxnb21ldHJpeC92ZXJ0aWNhbF92aWRlb19jb252ZXJ0b3ISBBoCCAAa2QYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAtQYIABAAGAAgACoKCgNob3cVvl-rPioJCgJ0bxUAAAAAKkoKBGF1dG8V9AMHPxoJYXV0b21hdGljGg1hdXRvbWF0aWNhbGx5GgthdXRvbW9iaWxlcxoKYXV0b21vdGl2ZRoKYXV0b2RldGVjdCqXAQoGZGV0ZWN0FQAAAAAaBWNoZWNrGghkZXRlY3RlZBoJZGV0ZWN0aW5nGglkZXRlY3Rpb24aB2RldGVjdHMaCWRldGVybWluZRoIZGlzY292ZXIaCWRpc2NvdmVyeRoEZmluZBoJcmVjb2duaXplGgVzZW5zZRoHc2Vuc2luZxoKYXV0b2RldGVjdBoLaXY7cDtkZXRlY3QqJgoHc3BlYWtlchWXweU-GghzcGVha2VycxoMaXY7cDtzcGVha2VyKhIKBWZhY2VzFREoPD8aBGZhY2UqCgoDYW5kFQAAAAAqJwoEY3JvcBV2AEZAGghjcm9wcGluZxoFY3JvcHMaCWl2O3A7Y3JvcCotCgh2ZXJ0aWNhbBUy2WxAGg12ZXJ0aWNhbHZpZGVvGg1pdjtwO3ZlcnRpY2FsKiwKBXZpZGVvFdYTOUAaB2Zvb3RhZ2UaBnZpZGVvcxoNdmVydGljYWx2aWRlbzI2aHR0cHM6Ly9naXRodWIuY29tL2FsZ29tZXRyaXgvdmVydGljYWxfdmlkZW9fY29udmVydG9yOlc8Yj5BdXRvbWF0aWNhbGx5PC9iPiBjb252ZXJ0IGhvcml6b250YWwgPGI-dmlkZW9zPC9iPiBpbnRvIDxiPnZlcnRpY2FsPC9iPiAuLi4gLSBHaXRIdWJCxQFUaGUgPGI-ZmFjZTwvYj4gaXMgPGI-ZGV0ZWN0ZWQ8L2I-IHBlciBmcmFtZSBhbmQgdGhlIDxiPmNyb3A8L2I-IGZvbGxvd3MgdGhlIDxiPnNwZWFrZXI8L2I-LCBzbyBubyBtYW51YWwga2V5ZnJhbWluZyBpcyBuZWVkZWQuIERvZXMgaXQgd29yayB3aXRob3V0IGEgR1BVPyBZZXMuIEluc3RhbGwgdGhlIFtjcHVdIGV4dHJhIGFuZCZuYnNwOy4uLkoDYW5kSgJ0byICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CjZodHRwczovL2dpdGh1Yi5jb20vYWxnb21ldHJpeC92ZXJ0aWNhbF92aWRlb19jb252ZXJ0b3ISBBoCCAAa2QYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAtQYIABAAGAAgACoKCgNob3cVvl-rPioJCgJ0bxUAAAAAKkoKBGF1dG8V9AMHPxoJYXV0b21hdGljGg1hdXRvbWF0aWNhbGx5GgthdXRvbW9iaWxlcxoKYXV0b21vdGl2ZRoKYXV0b2RldGVjdCqXAQoGZGV0ZWN0FQAAAAAaBWNoZWNrGghkZXRlY3RlZBoJZGV0ZWN0aW5nGglkZXRlY3Rpb24aB2RldGVjdHMaCWRldGVybWluZRoIZGlzY292ZXIaCWRpc2NvdmVyeRoEZmluZBoJcmVjb2duaXplGgVzZW5zZRoHc2Vuc2luZxoKYXV0b2RldGVjdBoLaXY7cDtkZXRlY3QqJgoHc3BlYWtlchWXweU-GghzcGVha2VycxoMaXY7cDtzcGVha2VyKhIKBWZhY2VzFREoPD8aBGZhY2UqCgoDYW5kFQAAAAAqJwoEY3JvcBV2AEZAGghjcm9wcGluZxoFY3JvcHMaCWl2O3A7Y3JvcCotCgh2ZXJ0aWNhbBUy2WxAGg12ZXJ0aWNhbHZpZGVvGg1pdjtwO3ZlcnRpY2FsKiwKBXZpZGVvFdYTOUAaB2Zvb3RhZ2UaBnZpZGVvcxoNdmVydGljYWx2aWRlbzI2aHR0cHM6Ly9naXRodWIuY29tL2FsZ29tZXRyaXgvdmVydGljYWxfdmlkZW9fY29udmVydG9yOlc8Yj5BdXRvbWF0aWNhbGx5PC9iPiBjb252ZXJ0IGhvcml6b250YWwgPGI-dmlkZW9zPC9iPiBpbnRvIDxiPnZlcnRpY2FsPC9iPiAuLi4gLSBHaXRIdWJCxQFUaGUgPGI-ZmFjZTwvYj4gaXMgPGI-ZGV0ZWN0ZWQ8L2I-IHBlciBmcmFtZSBhbmQgdGhlIDxiPmNyb3A8L2I-IGZvbGxvd3MgdGhlIDxiPnNwZWFrZXI8L2I-LCBzbyBubyBtYW51YWwga2V5ZnJhbWluZyBpcyBuZWVkZWQuIERvZXMgaXQgd29yayB3aXRob3V0IGEgR1BVPyBZZXMuIEluc3RhbGwgdGhlIFtjcHVdIGV4dHJhIGFuZCZuYnNwOy4uLkoDYW5kSgJ0byICEAFIAFgAaAA",
+        "source": "GitHub",
+        "read_more_link": "https://github.com/algometrix/vertical_video_convertor#:~:text=The%20face%20is%20detected%20per,extra%20and%20pass%20%2D%2Dcpu%20."
+      },
+      {
+        "position": 6,
+        "title": "Hello guys. I'm using one a single camera set up, filming in ...",
+        "link": "https://www.facebook.com/groups/descriptusers/posts/798608559091750/",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.facebook.com/groups/descriptusers/posts/798608559091750/&usg=AOvVaw0YZboZnrtaZldGvu54Aa6E",
+        "displayed_link": "3 comments",
+        "date": "2 years ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+        "snippet": "I'm using one a single camera set up, filming in 4k, two speakers in shot. Is there a way to auto crop in on the speaker? Then switch back ...",
+        "snippet_highlighted_words": [
+          "Is there a way to auto crop in on the speaker"
+        ],
+        "sitelinks": {
+          "list": [
+            {
+              "title": "How to keep an object centered in a video while cropping from ...",
+              "link": "https://www.facebook.com/groups/FCPXUsers/posts/7060396030738507/",
+              "date": "Mar 4, 2024"
+            },
+            {
+              "title": "How to capture vertical and horizontal video views ... - Facebook",
+              "link": "https://www.facebook.com/groups/ecammlive/posts/4031568667054471/",
+              "date": "Apr 11, 2025"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "I'm using one a single camera set up, filming in 4k, two speakers in shot. Is there a way to auto crop in on the speaker? Then switch back ...",
+            "source_info_link": "https://www.facebook.com/groups/descriptusers/posts/798608559091750/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CkRodHRwczovL3d3dy5mYWNlYm9vay5jb20vZ3JvdXBzL2Rlc2NyaXB0dXNlcnMvcG9zdHMvNzk4NjA4NTU5MDkxNzUwLxIEGgIIABqwBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCMBggAEAAYACAAKgoKA2hvdxXYYFo_KgkKAnRvFQAAAAAqSgoEYXV0bxX7Wbo_GglhdXRvbWF0aWMaDWF1dG9tYXRpY2FsbHkaC2F1dG9tb2JpbGVzGgphdXRvbW90aXZlGgphdXRvZGV0ZWN0KpcBCgZkZXRlY3QVAAAAABoFY2hlY2saCGRldGVjdGVkGglkZXRlY3RpbmcaCWRldGVjdGlvbhoHZGV0ZWN0cxoJZGV0ZXJtaW5lGghkaXNjb3ZlchoJZGlzY292ZXJ5GgRmaW5kGglyZWNvZ25pemUaBXNlbnNlGgdzZW5zaW5nGgphdXRvZGV0ZWN0GgtpdjtwO2RldGVjdComCgdzcGVha2VyFS9e3j8aCHNwZWFrZXJzGgxpdjtwO3NwZWFrZXIqEgoFZmFjZXMVAAAAABoEZmFjZSoKCgNhbmQVAAAAAConCgRjcm9wFQdBtj8aCGNyb3BwaW5nGgVjcm9wcxoJaXY7cDtjcm9wKi0KCHZlcnRpY2FsFZ_W_D0aDXZlcnRpY2FsdmlkZW8aDWl2O3A7dmVydGljYWwqLAoFdmlkZW8V7PuhPxoHZm9vdGFnZRoGdmlkZW9zGg12ZXJ0aWNhbHZpZGVvMkRodHRwczovL3d3dy5mYWNlYm9vay5jb20vZ3JvdXBzL2Rlc2NyaXB0dXNlcnMvcG9zdHMvNzk4NjA4NTU5MDkxNzUwLzpHSGVsbG8gZ3V5cy4gSSYjMzk7bSB1c2luZyBvbmUgYSBzaW5nbGUgY2FtZXJhIHNldCB1cCwgZmlsbWluZyBpbiA0ayAuLi5CngFJJiMzOTttIHVzaW5nIG9uZSBhIHNpbmdsZSBjYW1lcmEgc2V0IHVwLCBmaWxtaW5nIGluIDRrLCB0d28gc3BlYWtlcnMgaW4gc2hvdC4gPGI-SXMgdGhlcmUgYSB3YXkgdG8gYXV0byBjcm9wIGluIG9uIHRoZSBzcGVha2VyPC9iPj8gVGhlbiBzd2l0Y2ggYmFjayZuYnNwOy4uLkoCdG9KA2FuZCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CkRodHRwczovL3d3dy5mYWNlYm9vay5jb20vZ3JvdXBzL2Rlc2NyaXB0dXNlcnMvcG9zdHMvNzk4NjA4NTU5MDkxNzUwLxIEGgIIABqwBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCMBggAEAAYACAAKgoKA2hvdxXYYFo_KgkKAnRvFQAAAAAqSgoEYXV0bxX7Wbo_GglhdXRvbWF0aWMaDWF1dG9tYXRpY2FsbHkaC2F1dG9tb2JpbGVzGgphdXRvbW90aXZlGgphdXRvZGV0ZWN0KpcBCgZkZXRlY3QVAAAAABoFY2hlY2saCGRldGVjdGVkGglkZXRlY3RpbmcaCWRldGVjdGlvbhoHZGV0ZWN0cxoJZGV0ZXJtaW5lGghkaXNjb3ZlchoJZGlzY292ZXJ5GgRmaW5kGglyZWNvZ25pemUaBXNlbnNlGgdzZW5zaW5nGgphdXRvZGV0ZWN0GgtpdjtwO2RldGVjdComCgdzcGVha2VyFS9e3j8aCHNwZWFrZXJzGgxpdjtwO3NwZWFrZXIqEgoFZmFjZXMVAAAAABoEZmFjZSoKCgNhbmQVAAAAAConCgRjcm9wFQdBtj8aCGNyb3BwaW5nGgVjcm9wcxoJaXY7cDtjcm9wKi0KCHZlcnRpY2FsFZ_W_D0aDXZlcnRpY2FsdmlkZW8aDWl2O3A7dmVydGljYWwqLAoFdmlkZW8V7PuhPxoHZm9vdGFnZRoGdmlkZW9zGg12ZXJ0aWNhbHZpZGVvMkRodHRwczovL3d3dy5mYWNlYm9vay5jb20vZ3JvdXBzL2Rlc2NyaXB0dXNlcnMvcG9zdHMvNzk4NjA4NTU5MDkxNzUwLzpHSGVsbG8gZ3V5cy4gSSYjMzk7bSB1c2luZyBvbmUgYSBzaW5nbGUgY2FtZXJhIHNldCB1cCwgZmlsbWluZyBpbiA0ayAuLi5CngFJJiMzOTttIHVzaW5nIG9uZSBhIHNpbmdsZSBjYW1lcmEgc2V0IHVwLCBmaWxtaW5nIGluIDRrLCB0d28gc3BlYWtlcnMgaW4gc2hvdC4gPGI-SXMgdGhlcmUgYSB3YXkgdG8gYXV0byBjcm9wIGluIG9uIHRoZSBzcGVha2VyPC9iPj8gVGhlbiBzd2l0Y2ggYmFjayZuYnNwOy4uLkoCdG9KA2FuZCICEAFIAFgAaAA",
+        "source": "Facebook \u00b7 Descript Users",
+        "read_more_link": "https://www.facebook.com/groups/descriptusers/posts/798608559091750/#:~:text=I'm%20using%20one%20a%20single,out%20to%20the%20wide%20shot%3F"
+      },
+      {
+        "position": 7,
+        "title": "How to Make Vertical Clips for Social from a Podcast or ...",
+        "link": "https://www.heyeddie.ai/learn/eddie/how-to-make-vertical-clips-from-a-podcast-or-interview",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.heyeddie.ai/learn/eddie/how-to-make-vertical-clips-from-a-podcast-or-interview&usg=AOvVaw3xwaZPt4OxRdI7X9OUjKy_",
+        "displayed_link": "https://www.heyeddie.ai \u203a Learn \u203a Eddie",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAolBMVEVHcEx0z5gvqqiF0I1U06y_yGQ7vq0-w69EyrC1yWsjmqUyr6pZ0qiM0Ih5zJNZyaMuqanKx120ymxq05_Gx183uKw6va0jmaVp05_OxlrRxVfRxledzXynzHVd1ag_ybGdzXyH0Ita16pp1aBN1rI3uKxFzrJ90pN005nTxVYlnaaRz4S3yWmpy3Swym6_yGTHx14uq6kxsKoqpKgglaQrpag4UUgjAAAAIHRSTlMAPiC5uiQ1_URWnLXPyxOScy7a5AzuxONij3nl6cLuDfSLmC0AAAEGSURBVCiRddHreoIwDAbgFGmhAjqOOk8TBEFFQLfd_62t7QOjLfr9fZ-kSQowxjDgTear6-_jGS8XU_r4uXIrCstaTspGO5_dqX0PluembESuy_MsW0u4Uuqy7FRJG0ysQuOkwuw-B2blOPGcWwyEEwKXWeoBopRGDB3RE1ze88CwTG8e7O5NHfRoWWDy90LwmDEMmrr9fHfNflaHkCQx-8x49gjvfYHJ0ybDDif2Xno7HimuW4FxYRPN7hS3nUDHYqhaQ3G37W9gIM1qGm2iYSZbs5ZKAyPNOhm_NLv48q6hYt1FOcS6KkvJtLOFsqmFAAvZfNB192_4xQfQgNt284JEsF70BxYANyOSN_wOAAAAAElFTkSuQmCC.png",
+        "date": "Jul 26, 2026",
+        "snippet": "Nothing here tracks a face. There is no subject detection and no auto-reframe. The model can look at real frames from your footage and choose a ...",
+        "snippet_highlighted_words": [
+          "There is no subject detection and no auto-reframe"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Nothing here tracks a face. There is no subject detection and no auto-reframe. The model can look at real frames from your footage and choose a ...",
+            "source_info_link": "https://www.heyeddie.ai/learn/eddie/how-to-make-vertical-clips-from-a-podcast-or-interview",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAolBMVEVHcEx0z5gvqqiF0I1U06y_yGQ7vq0-w69EyrC1yWsjmqUyr6pZ0qiM0Ih5zJNZyaMuqanKx120ymxq05_Gx183uKw6va0jmaVp05_OxlrRxVfRxledzXynzHVd1ag_ybGdzXyH0Ita16pp1aBN1rI3uKxFzrJ90pN005nTxVYlnaaRz4S3yWmpy3Swym6_yGTHx14uq6kxsKoqpKgglaQrpag4UUgjAAAAIHRSTlMAPiC5uiQ1_URWnLXPyxOScy7a5AzuxONij3nl6cLuDfSLmC0AAAEGSURBVCiRddHreoIwDAbgFGmhAjqOOk8TBEFFQLfd_62t7QOjLfr9fZ-kSQowxjDgTear6-_jGS8XU_r4uXIrCstaTspGO5_dqX0PluembESuy_MsW0u4Uuqy7FRJG0ysQuOkwuw-B2blOPGcWwyEEwKXWeoBopRGDB3RE1ze88CwTG8e7O5NHfRoWWDy90LwmDEMmrr9fHfNflaHkCQx-8x49gjvfYHJ0ybDDif2Xno7HimuW4FxYRPN7hS3nUDHYqhaQ3G37W9gIM1qGm2iYSZbs5ZKAyPNOhm_NLv48q6hYt1FOcS6KkvJtLOFsqmFAAvZfNB192_4xQfQgNt284JEsF70BxYANyOSN_wOAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=ClpodHRwczovL3d3dy5oZXllZGRpZS5haS9sZWFybi9lZGRpZS9ob3ctdG8tbWFrZS12ZXJ0aWNhbC1jbGlwcy1mcm9tLWEtcG9kY2FzdC1vci1pbnRlcnZpZXcSBBoCCAAayAYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJApAYIABAAGAAgACoKCgNob3cVU0hNQCoJCgJ0bxUAAAAAKkoKBGF1dG8VYGdvPhoJYXV0b21hdGljGg1hdXRvbWF0aWNhbGx5GgthdXRvbW9iaWxlcxoKYXV0b21vdGl2ZRoKYXV0b2RldGVjdCqXAQoGZGV0ZWN0FQAAAAAaBWNoZWNrGghkZXRlY3RlZBoJZGV0ZWN0aW5nGglkZXRlY3Rpb24aB2RldGVjdHMaCWRldGVybWluZRoIZGlzY292ZXIaCWRpc2NvdmVyeRoEZmluZBoJcmVjb2duaXplGgVzZW5zZRoHc2Vuc2luZxoKYXV0b2RldGVjdBoLaXY7cDtkZXRlY3QqJgoHc3BlYWtlchWAgFY9GghzcGVha2VycxoMaXY7cDtzcGVha2VyKhIKBWZhY2VzFQAAAAAaBGZhY2UqCgoDYW5kFQAAAAAqJwoEY3JvcBXT11o_Gghjcm9wcGluZxoFY3JvcHMaCWl2O3A7Y3JvcCotCgh2ZXJ0aWNhbBWDrWJAGg12ZXJ0aWNhbHZpZGVvGg1pdjtwO3ZlcnRpY2FsKiwKBXZpZGVvFUpiFT8aB2Zvb3RhZ2UaBnZpZGVvcxoNdmVydGljYWx2aWRlbzJaaHR0cHM6Ly93d3cuaGV5ZWRkaWUuYWkvbGVhcm4vZWRkaWUvaG93LXRvLW1ha2UtdmVydGljYWwtY2xpcHMtZnJvbS1hLXBvZGNhc3Qtb3ItaW50ZXJ2aWV3OkhIb3cgdG8gTWFrZSA8Yj5WZXJ0aWNhbDwvYj4gQ2xpcHMgZm9yIFNvY2lhbCBmcm9tIGEgUG9kY2FzdCBvciBJbnRlcnZpZXdCnwFOb3RoaW5nIGhlcmUgdHJhY2tzIGEgZmFjZS4gPGI-VGhlcmUgaXMgbm8gc3ViamVjdCBkZXRlY3Rpb24gYW5kIG5vIGF1dG8tcmVmcmFtZTwvYj4uIFRoZSBtb2RlbCBjYW4gbG9vayBhdCByZWFsIGZyYW1lcyBmcm9tIHlvdXIgZm9vdGFnZSBhbmQgY2hvb3NlIGEmbmJzcDsuLi5KAnRvSgNhbmQiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=ClpodHRwczovL3d3dy5oZXllZGRpZS5haS9sZWFybi9lZGRpZS9ob3ctdG8tbWFrZS12ZXJ0aWNhbC1jbGlwcy1mcm9tLWEtcG9kY2FzdC1vci1pbnRlcnZpZXcSBBoCCAAayAYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJApAYIABAAGAAgACoKCgNob3cVU0hNQCoJCgJ0bxUAAAAAKkoKBGF1dG8VYGdvPhoJYXV0b21hdGljGg1hdXRvbWF0aWNhbGx5GgthdXRvbW9iaWxlcxoKYXV0b21vdGl2ZRoKYXV0b2RldGVjdCqXAQoGZGV0ZWN0FQAAAAAaBWNoZWNrGghkZXRlY3RlZBoJZGV0ZWN0aW5nGglkZXRlY3Rpb24aB2RldGVjdHMaCWRldGVybWluZRoIZGlzY292ZXIaCWRpc2NvdmVyeRoEZmluZBoJcmVjb2duaXplGgVzZW5zZRoHc2Vuc2luZxoKYXV0b2RldGVjdBoLaXY7cDtkZXRlY3QqJgoHc3BlYWtlchWAgFY9GghzcGVha2VycxoMaXY7cDtzcGVha2VyKhIKBWZhY2VzFQAAAAAaBGZhY2UqCgoDYW5kFQAAAAAqJwoEY3JvcBXT11o_Gghjcm9wcGluZxoFY3JvcHMaCWl2O3A7Y3JvcCotCgh2ZXJ0aWNhbBWDrWJAGg12ZXJ0aWNhbHZpZGVvGg1pdjtwO3ZlcnRpY2FsKiwKBXZpZGVvFUpiFT8aB2Zvb3RhZ2UaBnZpZGVvcxoNdmVydGljYWx2aWRlbzJaaHR0cHM6Ly93d3cuaGV5ZWRkaWUuYWkvbGVhcm4vZWRkaWUvaG93LXRvLW1ha2UtdmVydGljYWwtY2xpcHMtZnJvbS1hLXBvZGNhc3Qtb3ItaW50ZXJ2aWV3OkhIb3cgdG8gTWFrZSA8Yj5WZXJ0aWNhbDwvYj4gQ2xpcHMgZm9yIFNvY2lhbCBmcm9tIGEgUG9kY2FzdCBvciBJbnRlcnZpZXdCnwFOb3RoaW5nIGhlcmUgdHJhY2tzIGEgZmFjZS4gPGI-VGhlcmUgaXMgbm8gc3ViamVjdCBkZXRlY3Rpb24gYW5kIG5vIGF1dG8tcmVmcmFtZTwvYj4uIFRoZSBtb2RlbCBjYW4gbG9vayBhdCByZWFsIGZyYW1lcyBmcm9tIHlvdXIgZm9vdGFnZSBhbmQgY2hvb3NlIGEmbmJzcDsuLi5KAnRvSgNhbmQiAhABSABYAGgA",
+        "source": "Eddie AI",
+        "read_more_link": "https://www.heyeddie.ai/learn/eddie/how-to-make-vertical-clips-from-a-podcast-or-interview#:~:text=Nothing%20here%20tracks%20a%20face.,your%20footage%20and%20choose%20a"
+      },
+      {
+        "position": 8,
+        "title": "Automated Tracking | Smart AI Subject Tracking for Short- ...",
+        "link": "https://www.choppity.com/features/automated-tracking/",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.choppity.com/features/automated-tracking/&usg=AOvVaw3_d9nbBpCQ3AZvBrn8EGhf",
+        "displayed_link": "https://www.choppity.com \u203a AI Clipper",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcExxL_9xL_9xL_9xL_9xL_9xL_9tJf9qHf9jBP95Pv-2nf_VyP-bdv9nE__Itv-IV_-RZv_r5P_____i2f9cAP-niP_49f_-SyO1AAAAB3RSTlMAJa7y_69kPKWwjAAAAQ1JREFUeAF9kwUChDAMBJFwqZHSbuX_P71wrgxSmboMwzBOM30xL-OgnOgPJ61HfxmH5b-chvm_nIdHlI3hj9hNsnU-hFU0JrLGsPFTSspAKfDV-QLkjKcUj5CsVI8MhMbVIPFNckOzzIbcXsZq7d7lXtMiWuItiMUqzu-1k7nV5ARHWgtku68FV9xVGt8tSc9YbQ7WsmKkR3OVsQhxkxxrAOJ24SGDSmLjwTm0jgv93mzMKpUO-Fo3eHLuPlpuMLRjG4Cock_eJBl4IcXE7rx6oVfpse6DFA1rTWj8kIqNKC2ltGUgJvg3SZIKHhTz2qzCYg1fMUJPecDxMZn-y-X4aB4damVcfl2HSeudAfEjGBYFvIZXAAAAAElFTkSuQmCC.png",
+        "snippet": "Keep speakers perfectly centered with AI motion tracking. Choppity follows faces and movement automatically to create smooth, professional clips.",
+        "snippet_highlighted_words": [
+          "Choppity follows faces and movement automatically"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Keep speakers perfectly centered with AI motion tracking. Choppity follows faces and movement automatically to create smooth, professional clips.",
+            "source_info_link": "https://www.choppity.com/features/automated-tracking/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAASFBMVEVHcExxL_9xL_9xL_9xL_9xL_9xL_9tJf9qHf9jBP95Pv-2nf_VyP-bdv9nE__Itv-IV_-RZv_r5P_____i2f9cAP-niP_49f_-SyO1AAAAB3RSTlMAJa7y_69kPKWwjAAAAQ1JREFUeAF9kwUChDAMBJFwqZHSbuX_P71wrgxSmboMwzBOM30xL-OgnOgPJ61HfxmH5b-chvm_nIdHlI3hj9hNsnU-hFU0JrLGsPFTSspAKfDV-QLkjKcUj5CsVI8MhMbVIPFNckOzzIbcXsZq7d7lXtMiWuItiMUqzu-1k7nV5ARHWgtku68FV9xVGt8tSc9YbQ7WsmKkR3OVsQhxkxxrAOJ24SGDSmLjwTm0jgv93mzMKpUO-Fo3eHLuPlpuMLRjG4Cock_eJBl4IcXE7rx6oVfpse6DFA1rTWj8kIqNKC2ltGUgJvg3SZIKHhTz2qzCYg1fMUJPecDxMZn-y-X4aB4damVcfl2HSeudAfEjGBYFvIZXAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CjVodHRwczovL3d3dy5jaG9wcGl0eS5jb20vZmVhdHVyZXMvYXV0b21hdGVkLXRyYWNraW5nLxIEGgIIABqXBhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPEFCAAQABgAIAAqCgoDaG93FbasET8qCQoCdG8VAAAAACpKCgRhdXRvFVsYmT8aCWF1dG9tYXRpYxoNYXV0b21hdGljYWxseRoLYXV0b21vYmlsZXMaCmF1dG9tb3RpdmUaCmF1dG9kZXRlY3QqlwEKBmRldGVjdBWut5M_GgVjaGVjaxoIZGV0ZWN0ZWQaCWRldGVjdGluZxoJZGV0ZWN0aW9uGgdkZXRlY3RzGglkZXRlcm1pbmUaCGRpc2NvdmVyGglkaXNjb3ZlcnkaBGZpbmQaCXJlY29nbml6ZRoFc2Vuc2UaB3NlbnNpbmcaCmF1dG9kZXRlY3QaC2l2O3A7ZGV0ZWN0KiYKB3NwZWFrZXIVw9qSPxoIc3BlYWtlcnMaDGl2O3A7c3BlYWtlcioSCgVmYWNlcxXtDAk_GgRmYWNlKgoKA2FuZBUAAAAAKicKBGNyb3AVxWiSPxoIY3JvcHBpbmcaBWNyb3BzGglpdjtwO2Nyb3AqLQoIdmVydGljYWwVYaMzPxoNdmVydGljYWx2aWRlbxoNaXY7cDt2ZXJ0aWNhbCosCgV2aWRlbxWEACtAGgdmb290YWdlGgZ2aWRlb3MaDXZlcnRpY2FsdmlkZW8yNWh0dHBzOi8vd3d3LmNob3BwaXR5LmNvbS9mZWF0dXJlcy9hdXRvbWF0ZWQtdHJhY2tpbmcvOkFTbWFydCBBSSBTdWJqZWN0IFRyYWNraW5nIGZvciBTaG9ydC1Gb3JtIDxiPlZpZGVvczwvYj4gLSBDaG9wcGl0eUKYAUtlZXAgc3BlYWtlcnMgcGVyZmVjdGx5IGNlbnRlcmVkIHdpdGggQUkgbW90aW9uIHRyYWNraW5nLiA8Yj5DaG9wcGl0eSBmb2xsb3dzIGZhY2VzIGFuZCBtb3ZlbWVudCBhdXRvbWF0aWNhbGx5PC9iPiB0byBjcmVhdGUgc21vb3RoLCBwcm9mZXNzaW9uYWwgY2xpcHMuSgJ0b0oDYW5kIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CjVodHRwczovL3d3dy5jaG9wcGl0eS5jb20vZmVhdHVyZXMvYXV0b21hdGVkLXRyYWNraW5nLxIEGgIIABqXBhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPEFCAAQABgAIAAqCgoDaG93FbasET8qCQoCdG8VAAAAACpKCgRhdXRvFVsYmT8aCWF1dG9tYXRpYxoNYXV0b21hdGljYWxseRoLYXV0b21vYmlsZXMaCmF1dG9tb3RpdmUaCmF1dG9kZXRlY3QqlwEKBmRldGVjdBWut5M_GgVjaGVjaxoIZGV0ZWN0ZWQaCWRldGVjdGluZxoJZGV0ZWN0aW9uGgdkZXRlY3RzGglkZXRlcm1pbmUaCGRpc2NvdmVyGglkaXNjb3ZlcnkaBGZpbmQaCXJlY29nbml6ZRoFc2Vuc2UaB3NlbnNpbmcaCmF1dG9kZXRlY3QaC2l2O3A7ZGV0ZWN0KiYKB3NwZWFrZXIVw9qSPxoIc3BlYWtlcnMaDGl2O3A7c3BlYWtlcioSCgVmYWNlcxXtDAk_GgRmYWNlKgoKA2FuZBUAAAAAKicKBGNyb3AVxWiSPxoIY3JvcHBpbmcaBWNyb3BzGglpdjtwO2Nyb3AqLQoIdmVydGljYWwVYaMzPxoNdmVydGljYWx2aWRlbxoNaXY7cDt2ZXJ0aWNhbCosCgV2aWRlbxWEACtAGgdmb290YWdlGgZ2aWRlb3MaDXZlcnRpY2FsdmlkZW8yNWh0dHBzOi8vd3d3LmNob3BwaXR5LmNvbS9mZWF0dXJlcy9hdXRvbWF0ZWQtdHJhY2tpbmcvOkFTbWFydCBBSSBTdWJqZWN0IFRyYWNraW5nIGZvciBTaG9ydC1Gb3JtIDxiPlZpZGVvczwvYj4gLSBDaG9wcGl0eUKYAUtlZXAgc3BlYWtlcnMgcGVyZmVjdGx5IGNlbnRlcmVkIHdpdGggQUkgbW90aW9uIHRyYWNraW5nLiA8Yj5DaG9wcGl0eSBmb2xsb3dzIGZhY2VzIGFuZCBtb3ZlbWVudCBhdXRvbWF0aWNhbGx5PC9iPiB0byBjcmVhdGUgc21vb3RoLCBwcm9mZXNzaW9uYWwgY2xpcHMuSgJ0b0oDYW5kIgIQAUgAWABoAA",
+        "source": "Choppity"
+      },
+      {
+        "position": 9,
+        "title": "How to fit two speakers from landscape into a vertical clip",
+        "link": "https://www.facebook.com/descriptapp/videos/how-to-fit-two-speakers-from-landscape-into-a-vertical-clip-switch-to-portrait-f/1380810233728649/",
+        "displayed_link": "2 reactions",
+        "date": "10 months ago",
+        "thumbnail": "https://serpapi.com/searches/6b0400de9d99f45ca975541a/images/2UXhknEJi5Ih1ZMXSugCKX0pDsxKcm68-Rn-PVqqMRU.webp",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+        "snippet": "The process involves switching to the \"portrait\" format, copying the top layer of the \"landscape\" recording, and then using the \"copy\" function ...",
+        "duration": "1:09",
+        "about_this_result": {
+          "source": {
+            "description": "The process involves switching to the \"portrait\" format, copying the top layer of the \"landscape\" recording, and then using the \"copy\" function ...",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co4BaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2Rlc2NyaXB0YXBwL3ZpZGVvcy9ob3ctdG8tZml0LXR3by1zcGVha2Vycy1mcm9tLWxhbmRzY2FwZS1pbnRvLWEtdmVydGljYWwtY2xpcC1zd2l0Y2gtdG8tcG9ydHJhaXQtZi8xMzgwODEwMjMzNzI4NjQ5LxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co4BaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2Rlc2NyaXB0YXBwL3ZpZGVvcy9ob3ctdG8tZml0LXR3by1zcGVha2Vycy1mcm9tLWxhbmRzY2FwZS1pbnRvLWEtdmVydGljYWwtY2xpcC1zd2l0Y2gtdG8tcG9ydHJhaXQtZi8xMzgwODEwMjMzNzI4NjQ5LxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+        "source": "Facebook \u00b7 Descript"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=How+to+auto-detect+speaker+faces+and+crop+vertical+video?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgF2AzGG0mORgXOhh45GeZG2Wfnqw:1795424479170&ei=3wAEa9j-CdHl5NoP9YmkkQU&start=10&sa=N&sstk=AYl2yk9GH3e5F7ENw1TWENfZGy-pJ8GoBAEr_Cxks9gfbulIP9sARet0t2dUBiVWOLs84Mw99E9YRql0WwfMMJDErsbwHNWor2Bwbg&ved=2ahUKEwiY6rSy3Z2YAxXRMlkFHfUEKVIQ8NMDegQIRhAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=How+to+auto-detect+speaker+faces+and+crop+vertical+video?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgF2AzGG0mORgXOhh45GeZG2Wfnqw:1795424479170&ei=3wAEa9j-CdHl5NoP9YmkkQU&start=10&sa=N&sstk=AYl2yk9GH3e5F7ENw1TWENfZGy-pJ8GoBAEr_Cxks9gfbulIP9sARet0t2dUBiVWOLs84Mw99E9YRql0WwfMMJDErsbwHNWor2Bwbg&ved=2ahUKEwiY6rSy3Z2YAxXRMlkFHfUEKVIQ8tMDegQIRhAE",
+        "3": "https://www.google.com/search?q=How+to+auto-detect+speaker+faces+and+crop+vertical+video?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgF2AzGG0mORgXOhh45GeZG2Wfnqw:1795424479170&ei=3wAEa9j-CdHl5NoP9YmkkQU&start=20&sa=N&sstk=AYl2yk9GH3e5F7ENw1TWENfZGy-pJ8GoBAEr_Cxks9gfbulIP9sARet0t2dUBiVWOLs84Mw99E9YRql0WwfMMJDErsbwHNWor2Bwbg&ved=2ahUKEwiY6rSy3Z2YAxXRMlkFHfUEKVIQ8tMDegQIRhAG",
+        "4": "https://www.google.com/search?q=How+to+auto-detect+speaker+faces+and+crop+vertical+video?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgF2AzGG0mORgXOhh45GeZG2Wfnqw:1795424479170&ei=3wAEa9j-CdHl5NoP9YmkkQU&start=30&sa=N&sstk=AYl2yk9GH3e5F7ENw1TWENfZGy-pJ8GoBAEr_Cxks9gfbulIP9sARet0t2dUBiVWOLs84Mw99E9YRql0WwfMMJDErsbwHNWor2Bwbg&ved=2ahUKEwiY6rSy3Z2YAxXRMlkFHfUEKVIQ8tMDegQIRhAI",
+        "5": "https://www.google.com/search?q=How+to+auto-detect+speaker+faces+and+crop+vertical+video?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgF2AzGG0mORgXOhh45GeZG2Wfnqw:1795424479170&ei=3wAEa9j-CdHl5NoP9YmkkQU&start=40&sa=N&sstk=AYl2yk9GH3e5F7ENw1TWENfZGy-pJ8GoBAEr_Cxks9gfbulIP9sARet0t2dUBiVWOLs84Mw99E9YRql0WwfMMJDErsbwHNWor2Bwbg&ved=2ahUKEwiY6rSy3Z2YAxXRMlkFHfUEKVIQ8tMDegQIRhAK",
+        "6": "https://www.google.com/search?q=How+to+auto-detect+speaker+faces+and+crop+vertical+video?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgF2AzGG0mORgXOhh45GeZG2Wfnqw:1795424479170&ei=3wAEa9j-CdHl5NoP9YmkkQU&start=50&sa=N&sstk=AYl2yk9GH3e5F7ENw1TWENfZGy-pJ8GoBAEr_Cxks9gfbulIP9sARet0t2dUBiVWOLs84Mw99E9YRql0WwfMMJDErsbwHNWor2Bwbg&ved=2ahUKEwiY6rSy3Z2YAxXRMlkFHfUEKVIQ8tMDegQIRhAM",
+        "7": "https://www.google.com/search?q=How+to+auto-detect+speaker+faces+and+crop+vertical+video?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgF2AzGG0mORgXOhh45GeZG2Wfnqw:1795424479170&ei=3wAEa9j-CdHl5NoP9YmkkQU&start=60&sa=N&sstk=AYl2yk9GH3e5F7ENw1TWENfZGy-pJ8GoBAEr_Cxks9gfbulIP9sARet0t2dUBiVWOLs84Mw99E9YRql0WwfMMJDErsbwHNWor2Bwbg&ved=2ahUKEwiY6rSy3Z2YAxXRMlkFHfUEKVIQ8tMDegQIRhAO",
+        "8": "https://www.google.com/search?q=How+to+auto-detect+speaker+faces+and+crop+vertical+video?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgF2AzGG0mORgXOhh45GeZG2Wfnqw:1795424479170&ei=3wAEa9j-CdHl5NoP9YmkkQU&start=70&sa=N&sstk=AYl2yk9GH3e5F7ENw1TWENfZGy-pJ8GoBAEr_Cxks9gfbulIP9sARet0t2dUBiVWOLs84Mw99E9YRql0WwfMMJDErsbwHNWor2Bwbg&ved=2ahUKEwiY6rSy3Z2YAxXRMlkFHfUEKVIQ8tMDegQIRhAQ",
+        "9": "https://www.google.com/search?q=How+to+auto-detect+speaker+faces+and+crop+vertical+video?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgF2AzGG0mORgXOhh45GeZG2Wfnqw:1795424479170&ei=3wAEa9j-CdHl5NoP9YmkkQU&start=80&sa=N&sstk=AYl2yk9GH3e5F7ENw1TWENfZGy-pJ8GoBAEr_Cxks9gfbulIP9sARet0t2dUBiVWOLs84Mw99E9YRql0WwfMMJDErsbwHNWor2Bwbg&ved=2ahUKEwiY6rSy3Z2YAxXRMlkFHfUEKVIQ8tMDegQIRhAS",
+        "10": "https://www.google.com/search?q=How+to+auto-detect+speaker+faces+and+crop+vertical+video?&sca_esv=5424022ca174e17e&hl=en&gl=us&sxsrf=AKL5yDgF2AzGG0mORgXOhh45GeZG2Wfnqw:1795424479170&ei=3wAEa9j-CdHl5NoP9YmkkQU&start=90&sa=N&sstk=AYl2yk9GH3e5F7ENw1TWENfZGy-pJ8GoBAEr_Cxks9gfbulIP9sARet0t2dUBiVWOLs84Mw99E9YRql0WwfMMJDErsbwHNWor2Bwbg&ved=2ahUKEwiY6rSy3Z2YAxXRMlkFHfUEKVIQ8tMDegQIRhAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+auto-detect+speaker+faces+and+crop+vertical+video%3F&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+auto-detect+speaker+faces+and+crop+vertical+video%3F&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+auto-detect+speaker+faces+and+crop+vertical+video%3F&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+auto-detect+speaker+faces+and+crop+vertical+video%3F&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+auto-detect+speaker+faces+and+crop+vertical+video%3F&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+auto-detect+speaker+faces+and+crop+vertical+video%3F&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+auto-detect+speaker+faces+and+crop+vertical+video%3F&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+auto-detect+speaker+faces+and+crop+vertical+video%3F&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+auto-detect+speaker+faces+and+crop+vertical+video%3F&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+auto-detect+speaker+faces+and+crop+vertical+video%3F&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+to+auto-detect+speaker+faces+and+crop+vertical+video%3F&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

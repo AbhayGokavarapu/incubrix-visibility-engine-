@@ -1,0 +1,503 @@
+{
+  "measurement_id": "8990b2de9cc5",
+  "question_id": "Q026",
+  "timestamp_utc": "2026-11-22T11:34:49.798816+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "How to turn a 1-hour Zoom recording into 5 LinkedIn video clips?",
+  "market": "UK",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [
+    "Descript"
+  ],
+  "position": null,
+  "citations": [
+    "https://info.parmonic.com/blog/a-better-way-to-turn-zoom-recordings-into-linkedin-videos",
+    "https://www.google.com/goto?url=CAESaAHEIkXXsj6xXdYtKHCGSRbGF9OsbhyapCIk9YgyVHA8EcJc3yU3_V6to32chyKZqHyWgfIlTWZ-d2eozh87uUVzCNkL8oyEbOVIAwrfr-FJFpTFA_EFTA6EUALIbLCZqhcxi9DqspFA",
+    "https://www.google.com/goto?url=CAEShgEBxCJF1wqPNuh--0J005GBZRLcWTT6gKerMRORmnsur4tINSeR42Qz_EQJq20fibiAWTV_Zwhn-otRy0WKZhHu-puLxsMVqdacOXs1t6uAOoV2qvW3PGqFjvfnXMCiH7_kr0JjEyxD4t22kR80XNf_4dXi7IQc1S263RAqL9ekDIFevRTsBA",
+    "https://www.google.com/goto?url=CAEScwHEIkXXGncdAhq-QCpLvOzge9Ulx032QKBCS7W2CAe3vshOmBV_JP6Ahesvz06S9lQ157vt40ZkkhFa_f_OVoKKdeqKyBRw4vkhF_bSUedBKrbMJphg-dWoD5-KhfaqPMSvff2xb4BXqd9Aam030v9zwNo",
+    "https://www.google.com/goto?url=CAESjgEBxCJF1_TWhRIm9pw4FI9QLe1wy2_vIHCUcy3lkUK_mbOIqCjdYEFrzkloJ03xoGb1o2MTskQP0_mCsRC4vRbbxn6gpDKML4SbayDeK9a0J9FrSC7hStEv3_2cKeetGfApDgD9NDNahmCR0fn3CWPShf5HxLak1V1e7bNgcUnxFoiw2gVXUqWB630mUfdb",
+    "https://www.google.com/goto?url=CAESYQHEIkXXv47y60MYG1aSTzLkTi4z6jv1f5IYlmHuDPASjg7mAM_bwammG_Np8acPLgYWxJ-HVUQSsa-xCu6qCL6RfcNj8O_YZWM93en_CsyVPjzB5CcRbF_v2qX1K96oGgk",
+    "https://www.google.com/goto?url=CAESdAHEIkXXNm8dcHyt_uiliYaFlV3MiGH6t1ut10Ka-kkC_qDGIo2bnUKh0k_NBobYRm_NzasFm1TCfVUBuBjMU8vxX9nNQACoKvN66XE3bl0JIJSfhazYiihWBlaZsWTinq_0jpqV7llu_rAkdeuY2nrpPrWj",
+    "https://www.google.com/goto?url=CAESpQEBxCJF16SH4hdxQ5PV7UrSTRzdTTiBSQaplrbdSutPlv_9EsNWj0M3RE2XZBFiDhbWJRL_nTiKws9y7uIupo_dkEIjrrl4ZCo8r4ghgttIELXnkI-JTvQrJkh0wKfL_gKluAIRq9uJnejej1hUzkzLWT-85Ajj9CQXY8rRrEOcLgke1GOqgfBFgJrfOB1w4bSiqmK71Fb_gTw4gYKvdHjIKq9Ri1s"
+  ],
+  "raw_text_summary": "A Better Way to Turn Zoom Recordings into LinkedIn videos Learn how to record your videos in Zoom with the right settings and then use a tool like Parmonic to create effective and compelling social ... LinkedIn Video Size, Specs & Dimensions (2026 Guide) How to Turn Existing Recordings Into LinkedIn Clips With Reap. The most useful source material often already exists: a webinar answer, a ... Getting started with Zoom Clips (Optional) In the Record new clip window, adjust recording settings as needed. As you adjust settings, the clip preview will change based on your choices. Turn Zoom Recordings Into Clips with AI Clip Zoom recordings automatically. AI finds key moments in meetings, webinars, and coaching calls, reframes speakers to 9:16, ... How to Optimise LinkedIn Video for Better Engagement Learn how to optimise LinkedIn video for better engagement, from choosing the right format to creating videos that make an impact. Learn more. Edit Zoom Recording with the tl;dv Video Trimmer Edit Zoom video recordings in seconds \u00b7 Select part of the call's transcript to instantly create a clip \u00b7 Share your Zoom call snippets in seconds with a simple ... Turn Zoom Recording to Clips - AI Tool Turn Zoom recordings into clips quickly using our free AI tool. Get professional results in minutes. Try it now. Turn One Video Into Multiple Pieces of Content (Without ... Record one helpful video \u00b7 Upload it into Descript \u00b7 Clean up the audio with AI \u00b7 Remove filler words and mistakes \u00b7 Create multiple short clips ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b02d356c346edf4b1002b14",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/gL7HYfqIUCqKrkdmjc4kv74_LKOXJVB8VM057DVD_E0/6b02d356c346edf4b1002b14.json",
+      "markdown_endpoint": "https://serpapi.com/searches/gL7HYfqIUCqKrkdmjc4kv74_LKOXJVB8VM057DVD_E0/6b02d356c346edf4b1002b14.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/gL7HYfqIUCqKrkdmjc4kv74_LKOXJVB8VM057DVD_E0/6b02d356c346edf4b1002b14.json_with_pixel_position",
+      "created_at": "2026-11-22 11:34:46 UTC",
+      "processed_at": "2026-11-22 11:34:46 UTC",
+      "google_url": "https://www.google.com/search?q=How+to+turn+a+1-hour+Zoom+recording+into+5+LinkedIn+video+clips%3F&oq=How+to+turn+a+1-hour+Zoom+recording+into+5+LinkedIn+video+clips%3F&hl=en&gl=uk&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/gL7HYfqIUCqKrkdmjc4kv74_LKOXJVB8VM057DVD_E0/6b02d356c346edf4b1002b14.html",
+      "total_time_taken": 1.99
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "How to turn a 1-hour Zoom recording into 5 LinkedIn video clips?",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "uk",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "How to turn a 1-hour Zoom recording into 5 LinkedIn video clips?",
+      "total_results": 14600000,
+      "time_taken_displayed": 0.24,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+      {
+        "position": 1,
+        "title": "Convert #Zoom Temp Recordings to Video & Audio Files in ...",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXR47zN6dG95VZvNhxcbnpxXpiRqxzlWwleo-ku5taIKt6XSMjMWAK2EB_6RPq7_JBCsLd-Ke0KmxDAoE6HbnzC8YJYwdA4cXU2pjwtJRJC6-8TwEZfCzdwnHSzro-mlM0Y543&gsessionid=wPZ4VvuoCSCRSZfhMdKgvTEGcSv7oqWGqAeVs2zvPtO8f_rfJcAS8A",
+        "thumbnail": "https://serpapi.com/searches/6b02d356c346edf4b1002b14/images/fs_GaWDwknJA6h_6pf_vsLJi6Ebgs_aM0LVvRHD-hlM.webp",
+        "channel": "Social Media Tips and Tricks for Humans",
+        "duration": "3:48",
+        "platform": "YouTube",
+        "date": "21 Aug 2024",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSnFXueTZpV7tdOSIehnqT7F2sRCrLekLz8EQ"
+      },
+      {
+        "position": 2,
+        "title": "Zoom Meeting to YouTube in 1 Hour: Rapid Editing with TimeBolt",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXX6Pp6cpafgmIvUBjLhz2v1SXXm2xnwbNB7yJkiydwdj0i1c09XHtn6V2TvdsB3HWuRk5jX85Ef7y8k7dLeLUvW4I9m49tzECyd8fazYMHgR4qFh06eALj1A2G-pOdxQiCj-Ph&gsessionid=wPZ4VvuoCSCRSZfhMdKgvTEGcSv7oqWGqAeVs2zvPtO8f_rfJcAS8A",
+        "thumbnail": "https://serpapi.com/searches/6b02d356c346edf4b1002b14/images/bR8hKBiRbqnw38gKg8PqnRlS3SGtm_1EUNFBQaZGXxU.webp",
+        "channel": "TimeBolt - Keep It Real",
+        "duration": "18:57",
+        "platform": "YouTube",
+        "date": "19 Jan 2025",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS67hIFLl-XP-2IZ3ilYS6z9HgWW-PeVZQJOA",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "Introduction",
+            "link": "https://www.google.com/goto?url=CAESbAHEIkXXff7CAitCD8M5lmeaifJ9g9Vrk_ewtalX4xbkar0kkWY1wF-laJe_qNBsX733dPWLKnKMpnIHx-OLoqU_ak-WbJW8xArKILhpfsoiyP8I2F_hPjQ3RNqIuQeNsfCiYx_WUaZGaQfrYw&gsessionid=wPZ4VvuoCSCRSZfhMdKgvTEGcSv7oqWGqAeVs2zvPtO8f_rfJcAS8A"
+          },
+          {
+            "time": "01:44",
+            "title": "Recording Constant Frame Rate",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXUeDPPS3BW_2mpwQRecYNkoMR_QjYbnTFauFH67WmQCyPEhnX7UeD6powN9DLsyRp1sbBukGel2WFoMKGfgczvV8RrIfPqyhLDoPyAXgmDsDF3ouBAZYDth1Rf7r-N_Jxi0KXsNI1Rf65&gsessionid=wPZ4VvuoCSCRSZfhMdKgvTEGcSv7oqWGqAeVs2zvPtO8f_rfJcAS8A"
+          },
+          {
+            "time": "02:49",
+            "title": "Run Automations",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXKU9QZ7r7NUcc-U7h1MaYSvQDWi2Pf5NK-d8NRihQTtoU0G6loY5JJEwf04T96x0QiB6MqrLzBlQFy2cBbk0aTsGmK2lCDDgbXTas1TsOV1xsHYlT-0Rffqj-Ei0jV-v-EoDE78Py1KLp&gsessionid=wPZ4VvuoCSCRSZfhMdKgvTEGcSv7oqWGqAeVs2zvPtO8f_rfJcAS8A"
+          },
+          {
+            "time": "05:14",
+            "title": "Finetune",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXyftacu1lYRiaYm4DYZQmRwAIoinmCAjpt0evqfquiF1vmVqCJt7XwEub-Or8bndx47lDpiYpUItt1HIzXKrly8Y3_9wSztvryCX285lP-TgYCbyFmSTkUOmnsxWb2BL0VjAVyxJ8Vi0x&gsessionid=wPZ4VvuoCSCRSZfhMdKgvTEGcSv7oqWGqAeVs2zvPtO8f_rfJcAS8A"
+          },
+          {
+            "time": "08:05",
+            "title": "Enhance",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXgmGr2qgwNQ1HZoHi8vawLk26USjLjSqlyhvZaruipEdgHUsp-C2XqgCPShuLRJAnJxTidMiEZaGCG8W9EixDwhPHmEc-FjHvb-KdNbFu_6dBy3iD23iXgcc_lGcxH_Cae74CLWRZUuvJ&gsessionid=wPZ4VvuoCSCRSZfhMdKgvTEGcSv7oqWGqAeVs2zvPtO8f_rfJcAS8A"
+          },
+          {
+            "time": "10:41",
+            "title": "Export",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXeLa6PTSmJOxXPkBQnxC8riMdPv7yvwip8BQSGTQ_nQ4bolt8Zkix0ufG1T_1772lD3OlTW6m-6guWVr1_7VExatRLjyGt2cpVO9YhH99ad65OUergZUl4gDvYgvx4iUMxHQ_r_CJr8_E&gsessionid=wPZ4VvuoCSCRSZfhMdKgvTEGcSv7oqWGqAeVs2zvPtO8f_rfJcAS8A"
+          },
+          {
+            "time": "16:10",
+            "title": "Bonus CapCut Workflow for YouTube Shorts",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXX4ItDFVO0doFwLqOcO1glgf6EjNpn_CA8y0nC1-LercbdpHDHWv5D2C5PvM2IDxqvYmcR3ar24F5lOat6eByoF92I9_ZVSV-DoGkJHyV4Sz-TWWJaa_gLN6XCxUdNvKH1lgPNehjmP5W8&gsessionid=wPZ4VvuoCSCRSZfhMdKgvTEGcSv7oqWGqAeVs2zvPtO8f_rfJcAS8A"
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "title": "How I Edit Short Form Content Using Zoom Recordings",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXX7_FDlnhEznqXZhjfRfDRb49FQ3AW7GEhRcmx63rtjdWeN_Ws8xIG5pjqcjT6UnbBF5GRWFJtZ6WS3aJ4hKek_0Tmo-ViPpIPEBF8TdBbye8SafgGA-tbl9WOB315Wawp4ZTm&gsessionid=wPZ4VvuoCSCRSZfhMdKgvTEGcSv7oqWGqAeVs2zvPtO8f_rfJcAS8A",
+        "thumbnail": "https://serpapi.com/searches/6b02d356c346edf4b1002b14/images/PnXsBO8_Gwkb2EBB1wMksjuJ7zAHRO59Z6NRjGJ3L7U.webp",
+        "channel": "Junius Ong",
+        "duration": "7:12",
+        "platform": "YouTube",
+        "date": "23 Jun 2023",
+        "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRfsEkEa5IWdWsE1D8_qrIo68gNReKPuog4pQ",
+        "key_moments": [
+          {
+            "time": "00:51",
+            "title": "Change the Ratio",
+            "link": "https://www.google.com/goto?url=CAESbQHEIkXXUpDuayIOYvMnipGDE9LS9XgWMUkO5wB6BdVbC0HvCzeSRUyHMxW3v-iWCply2DSk8OgArBRYrRSdUG4n_7a9nYl6O5PdP3xvv29FQRU-XNOYeuud5KRilRRvGzTlTIBHm4nt_n8EFnc&gsessionid=wPZ4VvuoCSCRSZfhMdKgvTEGcSv7oqWGqAeVs2zvPtO8f_rfJcAS8A"
+          },
+          {
+            "time": "01:49",
+            "title": "Embellish the Videos",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXtcVhCGJKHunwZCM34YofNG31b714vK1wxfLeyaLAdCvxP0kicm9HdxlZvWoZO4xl4VXql2O1scSDgYlJmzpS6DbF-GSNXKXNDMAqNYXViz7sNAai_Ebc0CgZlCNT1uqM9E0wL9VIZJs3&gsessionid=wPZ4VvuoCSCRSZfhMdKgvTEGcSv7oqWGqAeVs2zvPtO8f_rfJcAS8A"
+          },
+          {
+            "time": "05:17",
+            "title": "Add Captions",
+            "link": "https://www.google.com/goto?url=CAESbgHEIkXXqQyujj6TQPP1-MGkwDlMURu7UgOD90hpQiJc4jaGf-ynJztcuo3BUcXU0lTeguodmu2MXu0GPykFPDD0pwvIXadso1YQ43fch4kEiYDz_ihbQvG4gz0KtehrQFma_DfXykr3XA3FKwXw&gsessionid=wPZ4VvuoCSCRSZfhMdKgvTEGcSv7oqWGqAeVs2zvPtO8f_rfJcAS8A"
+          }
+        ]
+      }
+    ],
+    "related_questions": [
+      {
+        "question": "How to convert Zoom recording into video?",
+        "type": "ai_overview",
+        "page_token": "tuRYYHicHdDPUuIwHMDxWR_GozR0cUdmmB2RVEDampL8mubitEkhkvQPEGjx6LPsyYfx4m2fZp09fo-f7_sf-1qbvz_O2rn2OB4Muq672TbN1pY3sqkG-fFSy4HMrS1yaca3v27R742c4NNi-rBfTAlLcGaVTW3wXBj8U-yU4Z7aC38JyVtC1hCxyNcrNY8ywZZxyBdDoLoWnkbh3HJZC597o-fVGp3TSjQKwSx-1E_0jXRlaqsYppcYqwdBjRenbvXdmdrdjwpPpLRS-2y4RJCSPq2tA1_3YoiaHMSssC2jnqUhTfTadF3JUEPY8aICG4mqDyUNosLcZYCCvIDoABiNBGw9gaIn7rc11opTg2YZhRMxILgfORoEpOSB-3Ylsm9eCdNxiJmf7BRNsHZ0rjfgiYM0d6cU913B2y6ptVlTCBi53sjzxL_-_3PysqncuD002w95KHNXqpfcfZqrL_gH6wOLdA",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=tuRYYHicHdDPUuIwHMDxWR_GozR0cUdmmB2RVEDampL8mubitEkhkvQPEGjx6LPsyYfx4m2fZp09fo-f7_sf-1qbvz_O2rn2OB4Muq672TbN1pY3sqkG-fFSy4HMrS1yaca3v27R742c4NNi-rBfTAlLcGaVTW3wXBj8U-yU4Z7aC38JyVtC1hCxyNcrNY8ywZZxyBdDoLoWnkbh3HJZC597o-fVGp3TSjQKwSx-1E_0jXRlaqsYppcYqwdBjRenbvXdmdrdjwpPpLRS-2y4RJCSPq2tA1_3YoiaHMSssC2jnqUhTfTadF3JUEPY8aICG4mqDyUNosLcZYCCvIDoABiNBGw9gaIn7rc11opTg2YZhRMxILgfORoEpOSB-3Ylsm9eCdNxiJmf7BRNsHZ0rjfgiYM0d6cU913B2y6ptVlTCBi53sjzxL_-_3PysqncuD002w95KHNXqpfcfZqrL_gH6wOLdA",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaU0xbDJiMWxwVVhoMGFHaE5ZVGxZY0dkR2VVNUNkVFprVVVOSFkzaDNkbUpOU0c1T2Mya3lVMVpzTWkxRFRFeE5SM0kxY0hsSVJsTnlWekl6V0dJeVdrbDVZbk5FTUhSUlIzSnNWVlJtVnpGMk1tZFdWMmx0YVRCblp4SVhWMDVOUTJFMWJrSkZXVjl6YlV4UlVIbHhiVWMwVVhNYUlrRklUakJGTjBaSVFrWktlbWQxZEVocE9FSjJXVjh3Y2pGRVRqazJUSEpzVFVFIiwiZmN2IjoiMyIsImVpIjoiV05NQ2E1bkJFWV9zbUxRUHlxbUc0UXMiLCJxYyI6IkNqOW9iM2NnZEc4Z2RIVnliaUJoSURFZ2FHOTFjaUI2YjI5dElISmxZMjl5WkdsdVp5QnBiblJ2SURVZ2JHbHVhMlZrYVc0Z2RtbGtaVzhnWTJ4cGNITVFBSDBORHhBXyIsInF1ZXN0aW9uIjoiSG93IHRvIGNvbnZlcnQgWm9vbSByZWNvcmRpbmcgaW50byB2aWRlbz8iLCJsayI6IkdpaG9iM2NnZEc4Z1kyOXVkbVZ5ZENCNmIyOXRJSEpsWTI5eVpHbHVaeUJwYm5SdklIWnBaR1Z2IiwiYnMiOiJjNFhRdnd1Q1VCQUhjRnJmMU94MFk2bEJTTHRyUW50UU5KZ2VlZVM3aS1kVDA3OC0wNUNFZnF6M19SeDg3OVJlTGJkU2d4VkloQ3MwRmc0aUdnd21ZbExpQ3hCM1dVVXBTaGk0emlLYjR2WWJWaWZsUndYWURBMUNERHEta3k3MWtFR09mTEVaQ01PTy1JcHB4R0d3Y2p6NjdfUGVFNnRYNzFRZ2duTnppNHQtRnpacjBNU2x4ZUdNbkRUWnNYZUg2VE51UjZ5T3ludnJYY2ZOODl3aUUyT1J1OEgwTzJIZ095Nzk0TlBfekdjUCIsImlkIjoiZmNfV05NQ2E1bkJFWV9zbUxRUHlxbUc0UXNfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaU0xbDJiMWxwVVhoMGFHaE5ZVGxZY0dkR2VVNUNkVFprVVVOSFkzaDNkbUpOU0c1T2Mya3lVMVpzTWkxRFRFeE5SM0kxY0hsSVJsTnlWekl6V0dJeVdrbDVZbk5FTUhSUlIzSnNWVlJtVnpGMk1tZFdWMmx0YVRCblp4SVhWMDVOUTJFMWJrSkZXVjl6YlV4UlVIbHhiVWMwVVhNYUlrRklUakJGTjBaSVFrWktlbWQxZEVocE9FSjJXVjh3Y2pGRVRqazJUSEpzVFVFIiwiZmN2IjoiMyIsImVpIjoiV05NQ2E1bkJFWV9zbUxRUHlxbUc0UXMiLCJxYyI6IkNqOW9iM2NnZEc4Z2RIVnliaUJoSURFZ2FHOTFjaUI2YjI5dElISmxZMjl5WkdsdVp5QnBiblJ2SURVZ2JHbHVhMlZrYVc0Z2RtbGtaVzhnWTJ4cGNITVFBSDBORHhBXyIsInF1ZXN0aW9uIjoiSG93IHRvIGNvbnZlcnQgWm9vbSByZWNvcmRpbmcgaW50byB2aWRlbz8iLCJsayI6IkdpaG9iM2NnZEc4Z1kyOXVkbVZ5ZENCNmIyOXRJSEpsWTI5eVpHbHVaeUJwYm5SdklIWnBaR1Z2IiwiYnMiOiJjNFhRdnd1Q1VCQUhjRnJmMU94MFk2bEJTTHRyUW50UU5KZ2VlZVM3aS1kVDA3OC0wNUNFZnF6M19SeDg3OVJlTGJkU2d4VkloQ3MwRmc0aUdnd21ZbExpQ3hCM1dVVXBTaGk0emlLYjR2WWJWaWZsUndYWURBMUNERHEta3k3MWtFR09mTEVaQ01PTy1JcHB4R0d3Y2p6NjdfUGVFNnRYNzFRZ2duTnppNHQtRnpacjBNU2x4ZUdNbkRUWnNYZUg2VE51UjZ5T3ludnJYY2ZOODl3aUUyT1J1OEgwTzJIZ095Nzk0TlBfekdjUCIsImlkIjoiZmNfV05NQ2E1bkJFWV9zbUxRUHlxbUc0UXNfNSJ9"
+      },
+      {
+        "question": "Is there a maximum video length on LinkedIn?",
+        "type": "ai_overview",
+        "page_token": "_9Hcc3icHdBLUsIwAADQ0cOwBNpSBGYYRyBprSRM0yb9bJg06Ydp-lEqlS49iysP48adp9Fx_Xbv_UOd6vLnJiy6rj2vJpO-78d50-QqHYummvDztRYTwZVKuChX87u5dp-JNTj3m23Tb1xKQKSkCihkoU6eo6CbeRpBvlW8oV1hEdCRRF-Yaek8Mrs1U7vdhQZ-TYL8GlX0Km16ZUCFKJDdPoDgAJbIrYtZUJq12GrlPixMWRPuMuxTbXnxBsdBFbawUn6oF4SUJuD1Q08r4kRTFZMpyw5gNki46P-8pawdXD1GEi5hUi2VO5VPsZUPUrke1OTBp7jAgbklTGVC1xBlG1MEmo0hHKyTs_HArCe-hBiQKQrxRVAt9nxiIEoMXBXcrYHhGXLOS9MYZeKyNkb_Y-tjVnWr9qXJP8VLyrtUHnn3Vd5-s1-jVX30",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=_9Hcc3icHdBLUsIwAADQ0cOwBNpSBGYYRyBprSRM0yb9bJg06Ydp-lEqlS49iysP48adp9Fx_Xbv_UOd6vLnJiy6rj2vJpO-78d50-QqHYummvDztRYTwZVKuChX87u5dp-JNTj3m23Tb1xKQKSkCihkoU6eo6CbeRpBvlW8oV1hEdCRRF-Yaek8Mrs1U7vdhQZ-TYL8GlX0Km16ZUCFKJDdPoDgAJbIrYtZUJq12GrlPixMWRPuMuxTbXnxBsdBFbawUn6oF4SUJuD1Q08r4kRTFZMpyw5gNki46P-8pawdXD1GEi5hUi2VO5VPsZUPUrke1OTBp7jAgbklTGVC1xBlG1MEmo0hHKyTs_HArCe-hBiQKQrxRVAt9nxiIEoMXBXcrYHhGXLOS9MYZeKyNkb_Y-tjVnWr9qXJP8VLyrtUHnn3Vd5-s1-jVX30",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaU0xbDJiMWxwVVhoMGFHaE5ZVGxZY0dkR2VVNUNkVFprVVVOSFkzaDNkbUpOU0c1T2Mya3lVMVpzTWkxRFRFeE5SM0kxY0hsSVJsTnlWekl6V0dJeVdrbDVZbk5FTUhSUlIzSnNWVlJtVnpGMk1tZFdWMmx0YVRCblp4SVhWMDVOUTJFMWJrSkZXVjl6YlV4UlVIbHhiVWMwVVhNYUlrRklUakJGTjBaSVFrWktlbWQxZEVocE9FSjJXVjh3Y2pGRVRqazJUSEpzVFVFIiwiZmN2IjoiMyIsImVpIjoiV05NQ2E1bkJFWV9zbUxRUHlxbUc0UXMiLCJxYyI6IkNqOW9iM2NnZEc4Z2RIVnliaUJoSURFZ2FHOTFjaUI2YjI5dElISmxZMjl5WkdsdVp5QnBiblJ2SURVZ2JHbHVhMlZrYVc0Z2RtbGtaVzhnWTJ4cGNITVFBSDBORHhBXyIsInF1ZXN0aW9uIjoiSXMgdGhlcmUgYSBtYXhpbXVtIHZpZGVvIGxlbmd0aCBvbiBMaW5rZWRJbj8iLCJsayI6IkdpdHBjeUIwYUdWeVpTQmhJRzFoZUdsdGRXMGdkbWxrWlc4Z2JHVnVaM1JvSUc5dUlHeHBibXRsWkdsdSIsImJzIjoiYzRYUXZ3dUNVQkFIY0ZyZjFPeDBZNmxCU0x0clFudFFOSmdlZWVTN2ktZFQwNzgtMDVDRWZxejNfUng4NzlSZUxiZFNneFZJaENzMEZnNGlHZ3dtWWxMaUN4QjNXVVVwU2hpNHppS2I0dlliVmlmbFJ3WFlEQTFDRERxLWt5NzFrRUdPZkxFWkNNT08tSXBweEdHd2NqejY3X1BlRTZ0WDcxUWdnbk56aTR0LUZ6WnIwTVNseGVHTW5EVFpzWGVINlROdVI2eU95bnZyWGNmTjg5d2lFMk9SdThIME8ySGdPeTc5NE5QX3pHY1AiLCJpZCI6ImZjX1dOTUNhNW5CRVlfc21MUVB5cW1HNFFzXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaU0xbDJiMWxwVVhoMGFHaE5ZVGxZY0dkR2VVNUNkVFprVVVOSFkzaDNkbUpOU0c1T2Mya3lVMVpzTWkxRFRFeE5SM0kxY0hsSVJsTnlWekl6V0dJeVdrbDVZbk5FTUhSUlIzSnNWVlJtVnpGMk1tZFdWMmx0YVRCblp4SVhWMDVOUTJFMWJrSkZXVjl6YlV4UlVIbHhiVWMwVVhNYUlrRklUakJGTjBaSVFrWktlbWQxZEVocE9FSjJXVjh3Y2pGRVRqazJUSEpzVFVFIiwiZmN2IjoiMyIsImVpIjoiV05NQ2E1bkJFWV9zbUxRUHlxbUc0UXMiLCJxYyI6IkNqOW9iM2NnZEc4Z2RIVnliaUJoSURFZ2FHOTFjaUI2YjI5dElISmxZMjl5WkdsdVp5QnBiblJ2SURVZ2JHbHVhMlZrYVc0Z2RtbGtaVzhnWTJ4cGNITVFBSDBORHhBXyIsInF1ZXN0aW9uIjoiSXMgdGhlcmUgYSBtYXhpbXVtIHZpZGVvIGxlbmd0aCBvbiBMaW5rZWRJbj8iLCJsayI6IkdpdHBjeUIwYUdWeVpTQmhJRzFoZUdsdGRXMGdkbWxrWlc4Z2JHVnVaM1JvSUc5dUlHeHBibXRsWkdsdSIsImJzIjoiYzRYUXZ3dUNVQkFIY0ZyZjFPeDBZNmxCU0x0clFudFFOSmdlZWVTN2ktZFQwNzgtMDVDRWZxejNfUng4NzlSZUxiZFNneFZJaENzMEZnNGlHZ3dtWWxMaUN4QjNXVVVwU2hpNHppS2I0dlliVmlmbFJ3WFlEQTFDRERxLWt5NzFrRUdPZkxFWkNNT08tSXBweEdHd2NqejY3X1BlRTZ0WDcxUWdnbk56aTR0LUZ6WnIwTVNseGVHTW5EVFpzWGVINlROdVI2eU95bnZyWGNmTjg5d2lFMk9SdThIME8ySGdPeTc5NE5QX3pHY1AiLCJpZCI6ImZjX1dOTUNhNW5CRVlfc21MUVB5cW1HNFFzXzUifQ%3D%3D"
+      },
+      {
+        "question": "How do I bypass the 40 minute Zoom limit?",
+        "type": "ai_overview",
+        "page_token": "HZZya3icHdDPbpswHABgrQ_TYwNx022RomopdgiViXD9B3OpwJAQ_MOkrWlSjnuWnfYwu-y2p6m07xG-n7_g6Oy_L--t96e35Wx2Pp9vDsNwgObGDP2sfPtwZmZKgKo0dnn39S6835sVHrfrh5ftOhMMa6hBue0kHIkEyKAE5htnPBXs9kl-Q9xBrnsc7nKGWSenrGeJiIkWCEYZg8vDH7c8TxZFHwZM-DUNUp-H7QsnraYk2deWlRXaTorbi-xSZGI9FfiS1mJBhJPAVDpw9f1RqFaJOSxSRcYCYVSFRGddrVkHNA3kpcJgVdRGu01Bmw5GDaneRYXjPPkwPDmWeBErQec8ODHc1jm3YaS5HDMrixylnhOSNTnxbGLMXIZjJtodxQI9bULgrlY0Jmuq5FRIMU97wpoNPFZzixpRHEV2vTfvK3T9_3P1vO_98vQ6HH6b16b0Tf1c-j_26q_8BLAWigM",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=HZZya3icHdDPbpswHABgrQ_TYwNx022RomopdgiViXD9B3OpwJAQ_MOkrWlSjnuWnfYwu-y2p6m07xG-n7_g6Oy_L--t96e35Wx2Pp9vDsNwgObGDP2sfPtwZmZKgKo0dnn39S6835sVHrfrh5ftOhMMa6hBue0kHIkEyKAE5htnPBXs9kl-Q9xBrnsc7nKGWSenrGeJiIkWCEYZg8vDH7c8TxZFHwZM-DUNUp-H7QsnraYk2deWlRXaTorbi-xSZGI9FfiS1mJBhJPAVDpw9f1RqFaJOSxSRcYCYVSFRGddrVkHNA3kpcJgVdRGu01Bmw5GDaneRYXjPPkwPDmWeBErQec8ODHc1jm3YaS5HDMrixylnhOSNTnxbGLMXIZjJtodxQI9bULgrlY0Jmuq5FRIMU97wpoNPFZzixpRHEV2vTfvK3T9_3P1vO_98vQ6HH6b16b0Tf1c-j_26q_8BLAWigM",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaU0xbDJiMWxwVVhoMGFHaE5ZVGxZY0dkR2VVNUNkVFprVVVOSFkzaDNkbUpOU0c1T2Mya3lVMVpzTWkxRFRFeE5SM0kxY0hsSVJsTnlWekl6V0dJeVdrbDVZbk5FTUhSUlIzSnNWVlJtVnpGMk1tZFdWMmx0YVRCblp4SVhWMDVOUTJFMWJrSkZXVjl6YlV4UlVIbHhiVWMwVVhNYUlrRklUakJGTjBaSVFrWktlbWQxZEVocE9FSjJXVjh3Y2pGRVRqazJUSEpzVFVFIiwiZmN2IjoiMyIsImVpIjoiV05NQ2E1bkJFWV9zbUxRUHlxbUc0UXMiLCJxYyI6IkNqOW9iM2NnZEc4Z2RIVnliaUJoSURFZ2FHOTFjaUI2YjI5dElISmxZMjl5WkdsdVp5QnBiblJ2SURVZ2JHbHVhMlZrYVc0Z2RtbGtaVzhnWTJ4cGNITVFBSDBORHhBXyIsInF1ZXN0aW9uIjoiSG93IGRvIEkgYnlwYXNzIHRoZSA0MCBtaW51dGUgWm9vbSBsaW1pdD8iLCJsayI6IkdpaG9iM2NnWkc4Z2FTQmllWEJoYzNNZ2RHaGxJRFF3SUcxcGJuVjBaU0I2YjI5dElHeHBiV2wwIiwiYnMiOiJjNFhRdnd1Q1VCQUhjRnJmMU94MFk2bEJTTHRyUW50UU5KZ2VlZVM3aS1kVDA3OC0wNUNFZnF6M19SeDg3OVJlTGJkU2d4VkloQ3MwRmc0aUdnd21ZbExpQ3hCM1dVVXBTaGk0emlLYjR2WWJWaWZsUndYWURBMUNERHEta3k3MWtFR09mTEVaQ01PTy1JcHB4R0d3Y2p6NjdfUGVFNnRYNzFRZ2duTnppNHQtRnpacjBNU2x4ZUdNbkRUWnNYZUg2VE51UjZ5T3ludnJYY2ZOODl3aUUyT1J1OEgwTzJIZ095Nzk0TlBfekdjUCIsImlkIjoiZmNfV05NQ2E1bkJFWV9zbUxRUHlxbUc0UXNfNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaU0xbDJiMWxwVVhoMGFHaE5ZVGxZY0dkR2VVNUNkVFprVVVOSFkzaDNkbUpOU0c1T2Mya3lVMVpzTWkxRFRFeE5SM0kxY0hsSVJsTnlWekl6V0dJeVdrbDVZbk5FTUhSUlIzSnNWVlJtVnpGMk1tZFdWMmx0YVRCblp4SVhWMDVOUTJFMWJrSkZXVjl6YlV4UlVIbHhiVWMwVVhNYUlrRklUakJGTjBaSVFrWktlbWQxZEVocE9FSjJXVjh3Y2pGRVRqazJUSEpzVFVFIiwiZmN2IjoiMyIsImVpIjoiV05NQ2E1bkJFWV9zbUxRUHlxbUc0UXMiLCJxYyI6IkNqOW9iM2NnZEc4Z2RIVnliaUJoSURFZ2FHOTFjaUI2YjI5dElISmxZMjl5WkdsdVp5QnBiblJ2SURVZ2JHbHVhMlZrYVc0Z2RtbGtaVzhnWTJ4cGNITVFBSDBORHhBXyIsInF1ZXN0aW9uIjoiSG93IGRvIEkgYnlwYXNzIHRoZSA0MCBtaW51dGUgWm9vbSBsaW1pdD8iLCJsayI6IkdpaG9iM2NnWkc4Z2FTQmllWEJoYzNNZ2RHaGxJRFF3SUcxcGJuVjBaU0I2YjI5dElHeHBiV2wwIiwiYnMiOiJjNFhRdnd1Q1VCQUhjRnJmMU94MFk2bEJTTHRyUW50UU5KZ2VlZVM3aS1kVDA3OC0wNUNFZnF6M19SeDg3OVJlTGJkU2d4VkloQ3MwRmc0aUdnd21ZbExpQ3hCM1dVVXBTaGk0emlLYjR2WWJWaWZsUndYWURBMUNERHEta3k3MWtFR09mTEVaQ01PTy1JcHB4R0d3Y2p6NjdfUGVFNnRYNzFRZ2duTnppNHQtRnpacjBNU2x4ZUdNbkRUWnNYZUg2VE51UjZ5T3ludnJYY2ZOODl3aUUyT1J1OEgwTzJIZ095Nzk0TlBfekdjUCIsImlkIjoiZmNfV05NQ2E1bkJFWV9zbUxRUHlxbUc0UXNfNSJ9"
+      },
+      {
+        "question": "Is there a way to shorten a Zoom recording?",
+        "type": "ai_overview",
+        "page_token": "16R_hXicHdDNTsIwAADg6MN4BMrEHxJihLQjw1W2de3oxXTtRqXdT8a0sqPP4smH8eLNp9H4At_he_-wz7X5Oct037fH-XjsnBvtm2Zvi5FsqrE4nmo5lsLaXEgzv7q-AnelXMCjW64at4zSGO6ssiydrQUEKffQIffNlFY3A53SkyK2kwC_5JPbVZw1jq21oYyaBNm3EOok90PAaxvI6XHgPsgKv93y4c8EmuSTdlC0BdJQEJ4AjFL-gCs9w2Z_SeoQEBi4qOoTsY43jPBNaO89xXT8SHQcedAVNSqjSdBxhrfkAIEwapeygGPbekUtEwTUI0mxxmy2iqkt5RSEKV3OJANrjNDgPwfLBF66mCgkIRxYpgitdRBm2I-RPAlw25EMehJwVKRtfVHK14V38T-2eCqrft52zf5TdoXoC_Uk-i9z_k1_AT2Pf2U",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=16R_hXicHdDNTsIwAADg6MN4BMrEHxJihLQjw1W2de3oxXTtRqXdT8a0sqPP4smH8eLNp9H4At_he_-wz7X5Oct037fH-XjsnBvtm2Zvi5FsqrE4nmo5lsLaXEgzv7q-AnelXMCjW64at4zSGO6ssiydrQUEKffQIffNlFY3A53SkyK2kwC_5JPbVZw1jq21oYyaBNm3EOok90PAaxvI6XHgPsgKv93y4c8EmuSTdlC0BdJQEJ4AjFL-gCs9w2Z_SeoQEBi4qOoTsY43jPBNaO89xXT8SHQcedAVNSqjSdBxhrfkAIEwapeygGPbekUtEwTUI0mxxmy2iqkt5RSEKV3OJANrjNDgPwfLBF66mCgkIRxYpgitdRBm2I-RPAlw25EMehJwVKRtfVHK14V38T-2eCqrft52zf5TdoXoC_Uk-i9z_k1_AT2Pf2U",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaU0xbDJiMWxwVVhoMGFHaE5ZVGxZY0dkR2VVNUNkVFprVVVOSFkzaDNkbUpOU0c1T2Mya3lVMVpzTWkxRFRFeE5SM0kxY0hsSVJsTnlWekl6V0dJeVdrbDVZbk5FTUhSUlIzSnNWVlJtVnpGMk1tZFdWMmx0YVRCblp4SVhWMDVOUTJFMWJrSkZXVjl6YlV4UlVIbHhiVWMwVVhNYUlrRklUakJGTjBaSVFrWktlbWQxZEVocE9FSjJXVjh3Y2pGRVRqazJUSEpzVFVFIiwiZmN2IjoiMyIsImVpIjoiV05NQ2E1bkJFWV9zbUxRUHlxbUc0UXMiLCJxYyI6IkNqOW9iM2NnZEc4Z2RIVnliaUJoSURFZ2FHOTFjaUI2YjI5dElISmxZMjl5WkdsdVp5QnBiblJ2SURVZ2JHbHVhMlZrYVc0Z2RtbGtaVzhnWTJ4cGNITVFBSDBORHhBXyIsInF1ZXN0aW9uIjoiSXMgdGhlcmUgYSB3YXkgdG8gc2hvcnRlbiBhIFpvb20gcmVjb3JkaW5nPyIsImxrIjoiR2lwcGN5QjBhR1Z5WlNCaElIZGhlU0IwYnlCemFHOXlkR1Z1SUdFZ2VtOXZiU0J5WldOdmNtUnBibWMiLCJicyI6ImM0WFF2d3VDVUJBSGNGcmYxT3gwWTZsQlNMdHJRbnRRTkpnZWVlUzdpLWRUMDc4LTA1Q0VmcXozX1J4ODc5UmVMYmRTZ3hWSWhDczBGZzRpR2d3bVlsTGlDeEIzV1VVcFNoaTR6aUtiNHZZYlZpZmxSd1hZREExQ0REcS1reTcxa0VHT2ZMRVpDTU9PLUlwcHhHR3djano2N19QZUU2dFg3MVFnZ25Oemk0dC1GelpyME1TbHhlR01uRFRac1hlSDZUTnVSNnlPeW52clhjZk44OXdpRTJPUnU4SDBPMkhnT3k3OTROUF96R2NQIiwiaWQiOiJmY19XTk1DYTVuQkVZX3NtTFFQeXFtRzRRc181In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaU0xbDJiMWxwVVhoMGFHaE5ZVGxZY0dkR2VVNUNkVFprVVVOSFkzaDNkbUpOU0c1T2Mya3lVMVpzTWkxRFRFeE5SM0kxY0hsSVJsTnlWekl6V0dJeVdrbDVZbk5FTUhSUlIzSnNWVlJtVnpGMk1tZFdWMmx0YVRCblp4SVhWMDVOUTJFMWJrSkZXVjl6YlV4UlVIbHhiVWMwVVhNYUlrRklUakJGTjBaSVFrWktlbWQxZEVocE9FSjJXVjh3Y2pGRVRqazJUSEpzVFVFIiwiZmN2IjoiMyIsImVpIjoiV05NQ2E1bkJFWV9zbUxRUHlxbUc0UXMiLCJxYyI6IkNqOW9iM2NnZEc4Z2RIVnliaUJoSURFZ2FHOTFjaUI2YjI5dElISmxZMjl5WkdsdVp5QnBiblJ2SURVZ2JHbHVhMlZrYVc0Z2RtbGtaVzhnWTJ4cGNITVFBSDBORHhBXyIsInF1ZXN0aW9uIjoiSXMgdGhlcmUgYSB3YXkgdG8gc2hvcnRlbiBhIFpvb20gcmVjb3JkaW5nPyIsImxrIjoiR2lwcGN5QjBhR1Z5WlNCaElIZGhlU0IwYnlCemFHOXlkR1Z1SUdFZ2VtOXZiU0J5WldOdmNtUnBibWMiLCJicyI6ImM0WFF2d3VDVUJBSGNGcmYxT3gwWTZsQlNMdHJRbnRRTkpnZWVlUzdpLWRUMDc4LTA1Q0VmcXozX1J4ODc5UmVMYmRTZ3hWSWhDczBGZzRpR2d3bVlsTGlDeEIzV1VVcFNoaTR6aUtiNHZZYlZpZmxSd1hZREExQ0REcS1reTcxa0VHT2ZMRVpDTU9PLUlwcHhHR3djano2N19QZUU2dFg3MVFnZ25Oemk0dC1GelpyME1TbHhlR01uRFRac1hlSDZUTnVSNnlPeW52clhjZk44OXdpRTJPUnU4SDBPMkhnT3k3OTROUF96R2NQIiwiaWQiOiJmY19XTk1DYTVuQkVZX3NtTFFQeXFtRzRRc181In0%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "cnA3VniczVbJcvJGEK7KOa8RXfhBYjPCVSrXSAwgsxjZYBsuKm2MhJYBSSDj4_8sOeVhcsktT5PRApYweMkl6SqpNTO9TU9_6vn5u2N59t-_emYYroNrmo6iqIIwRo5R0bBLK8He0-gldgJfM29MhzM8Cjnc1qYCvPU1w9I5zfSxa2TjbFTBKrXfcXVKCziGMizuaTwSlKbHw7kcuENpst-4vYYUUIl9TlaVwFgR9y-rgJZp8rJ_q3fIoBJUDE_u8ZVuywKOMax6TbtSY2r1yh2tuEQG_LcEeSAiwm0A0EdyvPRVi5JJrALhVB-mPDc_ArFPEQhiunLJ_0NsNNYU-CRi8tyB5Wpi98j3-CA1Ez-Ji-iD3nH0lIWVMvs03M9IOKrGOyjY-ojOJDHJy6Bgubh2jnrFFX7eAZ0oZ_7ddnIOUtVZ_IpAtzEZAUmSLno6EDE9mAPGAZ_UySGiWfv2ISRaPK0jUuUMrfqEVWlLM7Xkww_i4hembQb35cemXXtW-uh1JjlsfyNrVY-FT5L0jGhNJXIOVnRDl02ZodexOnOTTFdrtRpbb7dqPxL8acERgEEegD4OmNBjR-WQqQwrfPUAveKmT3MmiSI4V1OIR4eMFOlo4D6f7iQbJ-btguduxk3AixLQiqcuDeAwL0RQ0yFpY1H-FN40hA-gd7oPIEKAMwOzbAoUi06aA_gAjqWdX4IEhOfJTL0WnfUy6IndxIkYF19iBb2H3j0geYjTm6W48I_kBQHxJMFS_MMYEPVQSGXFRhyfmJWnBCHZHjxmqRCOkG6kCwok5CIhejCWigCCwN6KUBCtbDqNHqG0NngJHbOS-BDegw-kOxVA1zy79CWCX_m_pFEcsHYKnRzkILt8fC6joTCFcms6VR9dRZmBfcN-fYnOYwu76ve6m_a_B-Ch9zlZ5V8EYOzpSwCUzI8A-L73QSEFoGBfAOBDCkCBP9f7Jgepk973HoACsHIAjHsf0XhJLZ7pfd8HIP85APPHlQfg21EVAAgvAbAHiwCcr-Ch950HYObgDYD_tvfx3-99CQ6NlBUb4XaFLjbEXq89L_fZ56U66A98a_pijap7yR6j8dcb4tINr11Fd37Iln7N127Dvf5DJhP42tCpDdfHUSnEpXDreyWlVC2b5PJbWmDslnyCdV-3PFSyPCLRLA3J_drQRa-0s3QDlzTHWgc3lOv4mGOUZmM9Wsir_kNLEFpDqHfQou-NImeMg5ZZuypvu1DW6_xyttEWA6X1Wp29gO70aj2cvY78vd2DDLOzqtJtdzvYTRa-gnXT6its-37s7NyFjEfsUJ1qzcnz3WNoNZxNC4zLzK16NWZqLG5MWsuI3zvdJJqAW-oDlw_Z3WLBUq6vcaQQGgiMpfi2pwA-ArdJ5fL3G8KHpFxUzAOpPwdSB5EHkzOjAk2RjYDc_HVj2WqrSqOtsvWrtkK5KNyvuTZDBZ7PVf_QfEMJyREo4Z_2L389_gNqiYsL",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=cnA3VniczVbJcvJGEK7KOa8RXfhBYjPCVSrXSAwgsxjZYBsuKm2MhJYBSSDj4_8sOeVhcsktT5PRApYweMkl6SqpNTO9TU9_6vn5u2N59t-_emYYroNrmo6iqIIwRo5R0bBLK8He0-gldgJfM29MhzM8Cjnc1qYCvPU1w9I5zfSxa2TjbFTBKrXfcXVKCziGMizuaTwSlKbHw7kcuENpst-4vYYUUIl9TlaVwFgR9y-rgJZp8rJ_q3fIoBJUDE_u8ZVuywKOMax6TbtSY2r1yh2tuEQG_LcEeSAiwm0A0EdyvPRVi5JJrALhVB-mPDc_ArFPEQhiunLJ_0NsNNYU-CRi8tyB5Wpi98j3-CA1Ez-Ji-iD3nH0lIWVMvs03M9IOKrGOyjY-ojOJDHJy6Bgubh2jnrFFX7eAZ0oZ_7ddnIOUtVZ_IpAtzEZAUmSLno6EDE9mAPGAZ_UySGiWfv2ISRaPK0jUuUMrfqEVWlLM7Xkww_i4hembQb35cemXXtW-uh1JjlsfyNrVY-FT5L0jGhNJXIOVnRDl02ZodexOnOTTFdrtRpbb7dqPxL8acERgEEegD4OmNBjR-WQqQwrfPUAveKmT3MmiSI4V1OIR4eMFOlo4D6f7iQbJ-btguduxk3AixLQiqcuDeAwL0RQ0yFpY1H-FN40hA-gd7oPIEKAMwOzbAoUi06aA_gAjqWdX4IEhOfJTL0WnfUy6IndxIkYF19iBb2H3j0geYjTm6W48I_kBQHxJMFS_MMYEPVQSGXFRhyfmJWnBCHZHjxmqRCOkG6kCwok5CIhejCWigCCwN6KUBCtbDqNHqG0NngJHbOS-BDegw-kOxVA1zy79CWCX_m_pFEcsHYKnRzkILt8fC6joTCFcms6VR9dRZmBfcN-fYnOYwu76ve6m_a_B-Ch9zlZ5V8EYOzpSwCUzI8A-L73QSEFoGBfAOBDCkCBP9f7Jgepk973HoACsHIAjHsf0XhJLZ7pfd8HIP85APPHlQfg21EVAAgvAbAHiwCcr-Ch950HYObgDYD_tvfx3-99CQ6NlBUb4XaFLjbEXq89L_fZ56U66A98a_pijap7yR6j8dcb4tINr11Fd37Iln7N127Dvf5DJhP42tCpDdfHUSnEpXDreyWlVC2b5PJbWmDslnyCdV-3PFSyPCLRLA3J_drQRa-0s3QDlzTHWgc3lOv4mGOUZmM9Wsir_kNLEFpDqHfQou-NImeMg5ZZuypvu1DW6_xyttEWA6X1Wp29gO70aj2cvY78vd2DDLOzqtJtdzvYTRa-gnXT6its-37s7NyFjEfsUJ1qzcnz3WNoNZxNC4zLzK16NWZqLG5MWsuI3zvdJJqAW-oDlw_Z3WLBUq6vcaQQGgiMpfi2pwA-ArdJ5fL3G8KHpFxUzAOpPwdSB5EHkzOjAk2RjYDc_HVj2WqrSqOtsvWrtkK5KNyvuTZDBZ7PVf_QfEMJyREo4Z_2L389_gNqiYsL"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "A Better Way to Turn Zoom Recordings into LinkedIn videos",
+        "link": "https://info.parmonic.com/blog/a-better-way-to-turn-zoom-recordings-into-linkedin-videos",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlQEBxCJF1x6pDdhyRuF-kN0CoiBweIHvN_I9ZOtcmeFycLPdYrqaNAlb31uQyaOjp62_VxXFsKbkVvSl-wHLLaCyJJ7slZIqvfAzNb3i-4dPG2yTniR9r43YjW61_2KBtP2hOj9LYtgBO7_VmaZIwW-nIar5cCTayzDTlwMvwm0F-es9V-X7DWiWCqE2m-oiobUDL2rqUQ&ved=2ahUKEwiZzffqvZuYAxUPNoYAHcqUIbwQFnoECBcQAQ&uoh=1",
+        "displayed_link": "https://info.parmonic.com \u203a blog \u203a a-better-way-to-turn...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAbCAMAAABY1h8eAAAAJFBMVEWpmfypmfypmfypmf0hGzuvnv8RCyidjusxKVFXToZDO2tzZ645b9QtAAAAA3RSTlP58-44QPGAAAAAeklEQVQokcWSSQ7AIAgAcQOX__-3aGhTQc5OPJBMQCBADC4RILnATVl-aEm5vrRRtMT8gfUg26LOqGiJ8uPgXCulWOGQPJmOUso27smUzbUzsx8cVmYZB6XZfZSZ2dugwxIw7cvbJXmLJ0RfJiLj7p7JWfJZA4T1NOEBZgcJ1pW9PiQAAAAASUVORK5CYII.png",
+        "date": "3 Dec 2025",
+        "snippet": "Learn how to record your videos in Zoom with the right settings and then use a tool like Parmonic to create effective and compelling social ...",
+        "snippet_highlighted_words": [
+          "Learn how to record your videos in Zoom with the right settings"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Learn how to record your videos in Zoom with the right settings and then use a tool like Parmonic to create effective and compelling social ...",
+            "source_info_link": "https://info.parmonic.com/blog/a-better-way-to-turn-zoom-recordings-into-linkedin-videos",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAbCAMAAABY1h8eAAAAJFBMVEWpmfypmfypmfypmf0hGzuvnv8RCyidjusxKVFXToZDO2tzZ645b9QtAAAAA3RSTlP58-44QPGAAAAAeklEQVQokcWSSQ7AIAgAcQOX__-3aGhTQc5OPJBMQCBADC4RILnATVl-aEm5vrRRtMT8gfUg26LOqGiJ8uPgXCulWOGQPJmOUso27smUzbUzsx8cVmYZB6XZfZSZ2dugwxIw7cvbJXmLJ0RfJiLj7p7JWfJZA4T1NOEBZgcJ1pW9PiQAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtgBL2dvdG8_dXJsPUNBRVNsUUVCeENKRjE4dDRsb0taSGNGUnFQTjRQckVTalZzdG9Makh4VVpiRDczbGlQU0E4YUo1QmxsbHFMRXA0WURQTFhTVFZpaEJ6ZDJ0Ti1IWVN3SXVyU2NZLTEtRktMYndXanJpSmppNVpaazFlbjMyc2diSXVLZWw2ajkyX0I1eHhMOFo4c3ZmVUtWbFNzU1pMUk4zQy1yQ3J4YlE5cGl5VnEwR21ibEcxWGpESndpc2dIc3drcUVDZmd4Nlhaa1lJSGtnRTJMZHhREgQaAggAGt4HEgAaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQLoHCAAQABgAIAAqCgoDaG93FQ42Kj8qCQoCdG8VAAAAACpwCgR0dXJuFWkVoUAaCGFjdGl2YXRlGgdjb252ZXJ0Ggpjb252ZXJ0aW5nGgtkbyB5b3UgbWFrZRoGZW5hYmxlGgRtYWtlGgZyb3RhdGUaBnN3aXRjaBoJdHJhbnNmb3JtGgd0dXJuaW5nGgV0dXJucyoICgFhFQAAAAAqHAoBMRW-AoI_GgJhMRoHdGhlIG9uZRoFMWhvdXIqIwoEaG91chUAAAAAGgRob3JhGgVob3VycxoCaHIaBTFob3VyKgsKBHpvb20VNDrrQCo-CglyZWNvcmRpbmcVMoJbQBoGcmVjb3JkGghyZWNvcmRlZBoKcmVjb3JkaW5ncxoOaXY7cDtyZWNvcmRpbmcqHQoEaW50bxVh-bFAGgJieRoCaW4aAm9uGgRvbnRvKg4KATUVAAAAABoEZml2ZSoeCghsaW5rZWRpbhWaF-NAGg1saW5rZWRpbnZpZGVvKi8KBXZpZGVvFRxsdkAaBnZpZGVvcxoNbGlua2VkaW52aWRlbxoKdmlkZW9jbGlwcyo2CgVjbGlwcxVnVWI_GgRjbGlwGgVmaWxlcxoHZm9vdGFnZRoGdmVkaW9zGgp2aWRlb2NsaXBzMtgBL2dvdG8_dXJsPUNBRVNsUUVCeENKRjE4dDRsb0taSGNGUnFQTjRQckVTalZzdG9Makh4VVpiRDczbGlQU0E4YUo1QmxsbHFMRXA0WURQTFhTVFZpaEJ6ZDJ0Ti1IWVN3SXVyU2NZLTEtRktMYndXanJpSmppNVpaazFlbjMyc2diSXVLZWw2ajkyX0I1eHhMOFo4c3ZmVUtWbFNzU1pMUk4zQy1yQ3J4YlE5cGl5VnEwR21ibEcxWGpESndpc2dIc3drcUVDZmd4Nlhaa1lJSGtnRTJMZHhROkBBIEJldHRlciBXYXkgdG8gPGI-VHVybiBab29tIFJlY29yZGluZ3MgaW50byBMaW5rZWRJbiB2aWRlb3M8L2I-QpsBPGI-TGVhcm4gaG93IHRvIHJlY29yZCB5b3VyIHZpZGVvcyBpbiBab29tIHdpdGggdGhlIHJpZ2h0IHNldHRpbmdzPC9iPiBhbmQgdGhlbiB1c2UgYSB0b29sIGxpa2UgUGFybW9uaWMgdG8gY3JlYXRlIGVmZmVjdGl2ZSBhbmQgY29tcGVsbGluZyBzb2NpYWwmbmJzcDsuLi5KAWFKAnRvUgJvblICaW5SB3RoZSBvbmVSAmJ5IgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtgBL2dvdG8_dXJsPUNBRVNsUUVCeENKRjE4dDRsb0taSGNGUnFQTjRQckVTalZzdG9Makh4VVpiRDczbGlQU0E4YUo1QmxsbHFMRXA0WURQTFhTVFZpaEJ6ZDJ0Ti1IWVN3SXVyU2NZLTEtRktMYndXanJpSmppNVpaazFlbjMyc2diSXVLZWw2ajkyX0I1eHhMOFo4c3ZmVUtWbFNzU1pMUk4zQy1yQ3J4YlE5cGl5VnEwR21ibEcxWGpESndpc2dIc3drcUVDZmd4Nlhaa1lJSGtnRTJMZHhREgQaAggAGt4HEgAaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQLoHCAAQABgAIAAqCgoDaG93FQ42Kj8qCQoCdG8VAAAAACpwCgR0dXJuFWkVoUAaCGFjdGl2YXRlGgdjb252ZXJ0Ggpjb252ZXJ0aW5nGgtkbyB5b3UgbWFrZRoGZW5hYmxlGgRtYWtlGgZyb3RhdGUaBnN3aXRjaBoJdHJhbnNmb3JtGgd0dXJuaW5nGgV0dXJucyoICgFhFQAAAAAqHAoBMRW-AoI_GgJhMRoHdGhlIG9uZRoFMWhvdXIqIwoEaG91chUAAAAAGgRob3JhGgVob3VycxoCaHIaBTFob3VyKgsKBHpvb20VNDrrQCo-CglyZWNvcmRpbmcVMoJbQBoGcmVjb3JkGghyZWNvcmRlZBoKcmVjb3JkaW5ncxoOaXY7cDtyZWNvcmRpbmcqHQoEaW50bxVh-bFAGgJieRoCaW4aAm9uGgRvbnRvKg4KATUVAAAAABoEZml2ZSoeCghsaW5rZWRpbhWaF-NAGg1saW5rZWRpbnZpZGVvKi8KBXZpZGVvFRxsdkAaBnZpZGVvcxoNbGlua2VkaW52aWRlbxoKdmlkZW9jbGlwcyo2CgVjbGlwcxVnVWI_GgRjbGlwGgVmaWxlcxoHZm9vdGFnZRoGdmVkaW9zGgp2aWRlb2NsaXBzMtgBL2dvdG8_dXJsPUNBRVNsUUVCeENKRjE4dDRsb0taSGNGUnFQTjRQckVTalZzdG9Makh4VVpiRDczbGlQU0E4YUo1QmxsbHFMRXA0WURQTFhTVFZpaEJ6ZDJ0Ti1IWVN3SXVyU2NZLTEtRktMYndXanJpSmppNVpaazFlbjMyc2diSXVLZWw2ajkyX0I1eHhMOFo4c3ZmVUtWbFNzU1pMUk4zQy1yQ3J4YlE5cGl5VnEwR21ibEcxWGpESndpc2dIc3drcUVDZmd4Nlhaa1lJSGtnRTJMZHhROkBBIEJldHRlciBXYXkgdG8gPGI-VHVybiBab29tIFJlY29yZGluZ3MgaW50byBMaW5rZWRJbiB2aWRlb3M8L2I-QpsBPGI-TGVhcm4gaG93IHRvIHJlY29yZCB5b3VyIHZpZGVvcyBpbiBab29tIHdpdGggdGhlIHJpZ2h0IHNldHRpbmdzPC9iPiBhbmQgdGhlbiB1c2UgYSB0b29sIGxpa2UgUGFybW9uaWMgdG8gY3JlYXRlIGVmZmVjdGl2ZSBhbmQgY29tcGVsbGluZyBzb2NpYWwmbmJzcDsuLi5KAWFKAnRvUgJvblICaW5SB3RoZSBvbmVSAmJ5IgIQAUgAWABoAA",
+        "source": "Parmonic"
+      },
+      {
+        "position": 2,
+        "title": "LinkedIn Video Size, Specs & Dimensions (2026 Guide)",
+        "link": "https://www.google.com/goto?url=CAESaAHEIkXXsj6xXdYtKHCGSRbGF9OsbhyapCIk9YgyVHA8EcJc3yU3_V6to32chyKZqHyWgfIlTWZ-d2eozh87uUVzCNkL8oyEbOVIAwrfr-FJFpTFA_EFTA6EUALIbLCZqhcxi9DqspFA",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaAHEIkXXdsaxCs0p892lDnB-OBVyUSE8CZVTuoNAKZFczCxGL92pMigdN59pYj5AMtRoX381khUnH-oM4AEGN0Tb5OxBcu6Uwc6uNzbsu_Vn90gDaGL_aMu-0DzwWWJGsPD2sVJXcle0&ved=2ahUKEwiZzffqvZuYAxUPNoYAHcqUIbwQFnoECBIQAQ&uoh=1",
+        "displayed_link": "https://reap.video \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAABoUlEQVR4Ae2VA2wgQBREp9HZtm3btm0HZ9u2XQe1bTeobdu2Jqlt92ey3rfej-x6sDZoA0JjU1PPmRpBXvqombG7n3_dQIcpy5PIUODuXQCXbz5JSk6pFdQyLBRykoOU5AZrqmLAWPQcj65LgA3_xDXqCIoewHSM3okJJzHwrMDMW_qmTrWCMmT20csfnCbGnCMR026j37VVh755-4fXCkojYtuJD8Rh2kPMeQqG3W5cfy7Dja45NNfMLd37L32G4bdBLjXxIQbdEZU2rRU010ghl8RcNKfMkqpBxYV4pRiWt3FPv2vlcrkVY9a9qyqUqgCq8-3B7pEDqwn995NEhqVrA9WFFVbj52Lcnont48ZUZ_kf3-SqaHmqo5Hvhe62-2G4H1Jb8Ho2jnRAVQ-Kjx33buQqtyQrwi_p_brI0wi_gFwuJ8sdyL1SVYYe2Z8rZjMl72RfQsZVEin4HIb74w0cpnqX38PZpv2a-f12bvxzejZZBcqdKTehJs-U3XKnVlQsSTcQqdXXVwLHHaiD_5QnkCV8lkSGWRF-bY6vJUJzAD0zDiQ1htjPAAAAAElFTkSuQmCC.png",
+        "date": "15 Oct 2026",
+        "snippet": "How to Turn Existing Recordings Into LinkedIn Clips With Reap. The most useful source material often already exists: a webinar answer, a ...",
+        "snippet_highlighted_words": [
+          "How to Turn Existing Recordings Into LinkedIn Clips With Reap"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "How to Turn Existing Recordings Into LinkedIn Clips With Reap. The most useful source material often already exists: a webinar answer, a ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESaAHEIkXXsj6xXdYtKHCGSRbGF9OsbhyapCIk9YgyVHA8EcJc3yU3_V6to32chyKZqHyWgfIlTWZ-d2eozh87uUVzCNkL8oyEbOVIAwrfr-FJFpTFA_EFTA6EUALIbLCZqhcxi9DqspFA",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAABoUlEQVR4Ae2VA2wgQBREp9HZtm3btm0HZ9u2XQe1bTeobdu2Jqlt92ey3rfej-x6sDZoA0JjU1PPmRpBXvqombG7n3_dQIcpy5PIUODuXQCXbz5JSk6pFdQyLBRykoOU5AZrqmLAWPQcj65LgA3_xDXqCIoewHSM3okJJzHwrMDMW_qmTrWCMmT20csfnCbGnCMR026j37VVh755-4fXCkojYtuJD8Rh2kPMeQqG3W5cfy7Dja45NNfMLd37L32G4bdBLjXxIQbdEZU2rRU010ghl8RcNKfMkqpBxYV4pRiWt3FPv2vlcrkVY9a9qyqUqgCq8-3B7pEDqwn995NEhqVrA9WFFVbj52Lcnont48ZUZ_kf3-SqaHmqo5Hvhe62-2G4H1Jb8Ho2jnRAVQ-Kjx33buQqtyQrwi_p_brI0wi_gFwuJ8sdyL1SVYYe2Z8rZjMl72RfQsZVEin4HIb74w0cpnqX38PZpv2a-f12bvxzejZZBcqdKTehJs-U3XKnVlQsSTcQqdXXVwLHHaiD_5QnkCV8lkSGWRF-bY6vJUJzAD0zDiQ1htjPAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWHNqNnhYZFl0S0hDR1NSYkdGOU9zYmh5YXBDSWs5WWd5VkhBOEVjSmMzeVUzX1Y2dG8zMmNoeUtacUh5V2dmSWxUV1otZDJlb3poODd1VVZ6Q05rTDhveUViT1ZJQXdyZnItRkpGcFRGQV9FRlRBNkVVQUxJYkxDWnFoY3hpOURxc3BGQRIEGgIIABqjBxIAGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkD_BggAEAAYACAAKgoKA2hvdxVoZQ1AKgkKAnRvFQAAAAAqcAoEdHVybhUyaf0_GghhY3RpdmF0ZRoHY29udmVydBoKY29udmVydGluZxoLZG8geW91IG1ha2UaBmVuYWJsZRoEbWFrZRoGcm90YXRlGgZzd2l0Y2gaCXRyYW5zZm9ybRoHdHVybmluZxoFdHVybnMqCAoBYRUAAAAAKhwKATEVtKRXPxoCYTEaB3RoZSBvbmUaBTFob3VyKiMKBGhvdXIVAAAAABoEaG9yYRoFaG91cnMaAmhyGgUxaG91cioLCgR6b29tFZarhj8qPgoJcmVjb3JkaW5nFbDaFEAaBnJlY29yZBoIcmVjb3JkZWQaCnJlY29yZGluZ3MaDml2O3A7cmVjb3JkaW5nKh0KBGludG8V5WM4QBoCYnkaAmluGgJvbhoEb250byoOCgE1FaADPT8aBGZpdmUqHgoIbGlua2VkaW4V6-XcQBoNbGlua2VkaW52aWRlbyovCgV2aWRlbxWmTPBAGgZ2aWRlb3MaDWxpbmtlZGludmlkZW8aCnZpZGVvY2xpcHMqNgoFY2xpcHMVZ35ZQBoEY2xpcBoFZmlsZXMaB2Zvb3RhZ2UaBnZlZGlvcxoKdmlkZW9jbGlwczKaAS9nb3RvP3VybD1DQUVTYUFIRUlrWFhzajZ4WGRZdEtIQ0dTUmJHRjlPc2JoeWFwQ0lrOVlneVZIQThFY0pjM3lVM19WNnRvMzJjaHlLWnFIeVdnZklsVFdaLWQyZW96aDg3dVVWekNOa0w4b3lFYk9WSUF3cmZyLUZKRnBURkFfRUZUQTZFVUFMSWJMQ1pxaGN4aTlEcXNwRkE6RjxiPkxpbmtlZEluIFZpZGVvPC9iPiBTaXplLCBTcGVjcyAmYW1wOyBEaW1lbnNpb25zICgyMDI2IEd1aWRlKSAtIFJlYXBCmAE8Yj5Ib3cgdG8gVHVybiBFeGlzdGluZyBSZWNvcmRpbmdzIEludG8gTGlua2VkSW4gQ2xpcHMgV2l0aCBSZWFwPC9iPi4gVGhlIG1vc3QgdXNlZnVsIHNvdXJjZSBtYXRlcmlhbCBvZnRlbiBhbHJlYWR5IGV4aXN0czogYSB3ZWJpbmFyIGFuc3dlciwgYSZuYnNwOy4uLkoBYUoCdG9SAmJ5Ugd0aGUgb25lUgJpblICb24iAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWHNqNnhYZFl0S0hDR1NSYkdGOU9zYmh5YXBDSWs5WWd5VkhBOEVjSmMzeVUzX1Y2dG8zMmNoeUtacUh5V2dmSWxUV1otZDJlb3poODd1VVZ6Q05rTDhveUViT1ZJQXdyZnItRkpGcFRGQV9FRlRBNkVVQUxJYkxDWnFoY3hpOURxc3BGQRIEGgIIABqjBxIAGgAiACoAMgYIAxICdWs6AEIECAEQAEoAWgByAHoAgkD_BggAEAAYACAAKgoKA2hvdxVoZQ1AKgkKAnRvFQAAAAAqcAoEdHVybhUyaf0_GghhY3RpdmF0ZRoHY29udmVydBoKY29udmVydGluZxoLZG8geW91IG1ha2UaBmVuYWJsZRoEbWFrZRoGcm90YXRlGgZzd2l0Y2gaCXRyYW5zZm9ybRoHdHVybmluZxoFdHVybnMqCAoBYRUAAAAAKhwKATEVtKRXPxoCYTEaB3RoZSBvbmUaBTFob3VyKiMKBGhvdXIVAAAAABoEaG9yYRoFaG91cnMaAmhyGgUxaG91cioLCgR6b29tFZarhj8qPgoJcmVjb3JkaW5nFbDaFEAaBnJlY29yZBoIcmVjb3JkZWQaCnJlY29yZGluZ3MaDml2O3A7cmVjb3JkaW5nKh0KBGludG8V5WM4QBoCYnkaAmluGgJvbhoEb250byoOCgE1FaADPT8aBGZpdmUqHgoIbGlua2VkaW4V6-XcQBoNbGlua2VkaW52aWRlbyovCgV2aWRlbxWmTPBAGgZ2aWRlb3MaDWxpbmtlZGludmlkZW8aCnZpZGVvY2xpcHMqNgoFY2xpcHMVZ35ZQBoEY2xpcBoFZmlsZXMaB2Zvb3RhZ2UaBnZlZGlvcxoKdmlkZW9jbGlwczKaAS9nb3RvP3VybD1DQUVTYUFIRUlrWFhzajZ4WGRZdEtIQ0dTUmJHRjlPc2JoeWFwQ0lrOVlneVZIQThFY0pjM3lVM19WNnRvMzJjaHlLWnFIeVdnZklsVFdaLWQyZW96aDg3dVVWekNOa0w4b3lFYk9WSUF3cmZyLUZKRnBURkFfRUZUQTZFVUFMSWJMQ1pxaGN4aTlEcXNwRkE6RjxiPkxpbmtlZEluIFZpZGVvPC9iPiBTaXplLCBTcGVjcyAmYW1wOyBEaW1lbnNpb25zICgyMDI2IEd1aWRlKSAtIFJlYXBCmAE8Yj5Ib3cgdG8gVHVybiBFeGlzdGluZyBSZWNvcmRpbmdzIEludG8gTGlua2VkSW4gQ2xpcHMgV2l0aCBSZWFwPC9iPi4gVGhlIG1vc3QgdXNlZnVsIHNvdXJjZSBtYXRlcmlhbCBvZnRlbiBhbHJlYWR5IGV4aXN0czogYSB3ZWJpbmFyIGFuc3dlciwgYSZuYnNwOy4uLkoBYUoCdG9SAmJ5Ugd0aGUgb25lUgJpblICb24iAhABSABYAGgA",
+        "source": "reap: AI Video Editor",
+        "read_more_link": "https://www.google.com/goto?url=CAESuwEBxCJF10ErhmPF4a8mbHQn_dxgFsTyzoUkQgCPweIxfURaYmUHCaVmyPpvunP51LjCuDOarDQ3qJJczsnMj3hAfh4-ALEEVnAV_IWndxaCKAoyKwCUmLMxPC0iFe2MQ_weIDNKyp3b6Xi9FYcufzjrK_0Y60gBOzBTfS0iofxE4T7hiupv-yrS_2gDuVpH759NvYGRT0KFzabUmChaFaa1FdNXGhmpVEJGzSX__4XZvPsPG6tk-Zu4wpyx&gsessionid=wPZ4VvuoCSCRSZfhMdKgvTEGcSv7oqWGqAeVs2zvPtO8f_rfJcAS8A"
+      },
+      {
+        "position": 3,
+        "title": "Getting started with Zoom Clips",
+        "link": "https://www.google.com/goto?url=CAEShgEBxCJF1wqPNuh--0J005GBZRLcWTT6gKerMRORmnsur4tINSeR42Qz_EQJq20fibiAWTV_Zwhn-otRy0WKZhHu-puLxsMVqdacOXs1t6uAOoV2qvW3PGqFjvfnXMCiH7_kr0JjEyxD4t22kR80XNf_4dXi7IQc1S263RAqL9ekDIFevRTsBA",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShgEBxCJF17G_Sfd2_1-Cp0RQdn28Ql24B0nRPmwAUNyJq8iZSZ1ooGZAlIUzle4Oz_xg6mTDOhxh9QDCgsZ56uXInL1ugzQrHOCZo0e-RrnyRSoBY10HsgdKBoxnZntZvx9sCXlwNDAu916bsVBxCfeKr7wg0pvL7xoSe9Ja00hAYTwj1l5JJQ&ved=2ahUKEwiZzffqvZuYAxUPNoYAHcqUIbwQFnoECBMQAQ&uoh=1",
+        "displayed_link": "https://support.zoom.com \u203a article",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAmVBMVEVHcEwiZOFDh_Ize_UzevU4fvQ8gvNGifFIi_BLje8_hPIibvkjcPksdfc3e_YKUd8davsKUN8TZPwIWvwNX_4JT9sJT90JV_IAVPsIVOstZvNqjPeIo_aTrPkKUNz___9ah_16nP6mu_4JTNMJUuX4-v8ATfEARug1cvUIUN87aeMITdcASdsISs9phubL1vcUY_0IStAISMdHSXmGAAAAMXRSTlMABmCbwuD__7iSEbP___9g_5T___8Rs__________D_____-D_____-v_____0___gWBOUnQAAAV9JREFUeAFtzwWWwjAUQNGPO_U2qbv7_hc3P2nJGeTh3Cisbba7_eF4PJ4O58t2A_-73u6Px-P5fKKyzlcQSbJ8vwvmvn2Zoqqq4Jde1nmarqOuLCbzuYamoS78tvYV0URk_L42dgbYWJYlWH7jDUiIxCIYZ11Flu987S0olNoO70l0Iruuqj889854Bz6lVrAUkijAYv4dF99Dkqap7Xku_vXUgyzyAv6WqffHAVJWXthB4ORuEOV5HESExEEo30uoqipNi5oZokOIF4Sahogngwa1ZVZQgYRwlKFruPVFwWfS_IV4KUiaJg2CwcUzFYi5QE0fwW8mnMgb3IBSWrK1nwx9UKZpqvulmqaU5rZtWcS2NU0BaWK1PHZwZGqxNE2CzTwzbbCqetcNgCmUcyrYBABjnt8mCzYAk-afLAFPmXlcBSuwJgkVLIHIMN_ZNOB_G0nxk26eu8RXpA0s_QGvukmcazKpqQAAAABJRU5ErkJggg.png",
+        "snippet": "(Optional) In the Record new clip window, adjust recording settings as needed. As you adjust settings, the clip preview will change based on your choices.",
+        "snippet_highlighted_words": [
+          "In",
+          "Record",
+          "clip",
+          "recording",
+          "clip",
+          "on"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "(Optional) In the Record new clip window, adjust recording settings as needed. As you adjust settings, the clip preview will change based on your choices.",
+            "source_info_link": "https://www.google.com/goto?url=CAEShgEBxCJF1wqPNuh--0J005GBZRLcWTT6gKerMRORmnsur4tINSeR42Qz_EQJq20fibiAWTV_Zwhn-otRy0WKZhHu-puLxsMVqdacOXs1t6uAOoV2qvW3PGqFjvfnXMCiH7_kr0JjEyxD4t22kR80XNf_4dXi7IQc1S263RAqL9ekDIFevRTsBA",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAmVBMVEVHcEwiZOFDh_Ize_UzevU4fvQ8gvNGifFIi_BLje8_hPIibvkjcPksdfc3e_YKUd8davsKUN8TZPwIWvwNX_4JT9sJT90JV_IAVPsIVOstZvNqjPeIo_aTrPkKUNz___9ah_16nP6mu_4JTNMJUuX4-v8ATfEARug1cvUIUN87aeMITdcASdsISs9phubL1vcUY_0IStAISMdHSXmGAAAAMXRSTlMABmCbwuD__7iSEbP___9g_5T___8Rs__________D_____-D_____-v_____0___gWBOUnQAAAV9JREFUeAFtzwWWwjAUQNGPO_U2qbv7_hc3P2nJGeTh3Cisbba7_eF4PJ4O58t2A_-73u6Px-P5fKKyzlcQSbJ8vwvmvn2Zoqqq4Jde1nmarqOuLCbzuYamoS78tvYV0URk_L42dgbYWJYlWH7jDUiIxCIYZ11Flu987S0olNoO70l0Iruuqj889854Bz6lVrAUkijAYv4dF99Dkqap7Xku_vXUgyzyAv6WqffHAVJWXthB4ORuEOV5HESExEEo30uoqipNi5oZokOIF4Sahogngwa1ZVZQgYRwlKFruPVFwWfS_IV4KUiaJg2CwcUzFYi5QE0fwW8mnMgb3IBSWrK1nwx9UKZpqvulmqaU5rZtWcS2NU0BaWK1PHZwZGqxNE2CzTwzbbCqetcNgCmUcyrYBABjnt8mCzYAk-afLAFPmXlcBSuwJgkVLIHIMN_ZNOB_G0nxk26eu8RXpA0s_QGvukmcazKpqQAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCeENKRjF3cVBOdWgtLTBKMDA1R0JaUkxjV1RUNmdLZXJNUk9SbW5zdXI0dElOU2VSNDJRel9FUUpxMjBmaWJpQVdUVl9ad2huLW90UnkwV0taaEh1LXB1THhzTVZxZGFjT1hzMXQ2dUFPb1YycXZXM1BHcUZqdmZuWE1DaUg3X2tyMEpqRXl4RDR0MjJrUjgwWE5mXzRkWGk3SVFjMVMyNjNSQXFMOWVrRElGZXZSVHNCQRIEGgIIABrbBxICCAEaACIAKgAyBggDEgJ1azoAQgQIARAASgBaAHIAegCCQLUHCAAQABgAIAAqCgoDaG93FRt-IEAqCQoCdG8VAAAAACpwCgR0dXJuFQAAAAAaCGFjdGl2YXRlGgdjb252ZXJ0Ggpjb252ZXJ0aW5nGgtkbyB5b3UgbWFrZRoGZW5hYmxlGgRtYWtlGgZyb3RhdGUaBnN3aXRjaBoJdHJhbnNmb3JtGgd0dXJuaW5nGgV0dXJucyoICgFhFQAAAAAqHAoBMRWPYhw-GgJhMRoHdGhlIG9uZRoFMWhvdXIqIwoEaG91chUAAAAAGgRob3JhGgVob3VycxoCaHIaBTFob3VyKgsKBHpvb20VJ7ThQCo-CglyZWNvcmRpbmcV7THwPxoGcmVjb3JkGghyZWNvcmRlZBoKcmVjb3JkaW5ncxoOaXY7cDtyZWNvcmRpbmcqHQoEaW50bxUAAAAAGgJieRoCaW4aAm9uGgRvbnRvKg4KATUVipsjPxoEZml2ZSoeCghsaW5rZWRpbhUAAAAAGg1saW5rZWRpbnZpZGVvKi8KBXZpZGVvFXhqYEAaBnZpZGVvcxoNbGlua2VkaW52aWRlbxoKdmlkZW9jbGlwcyo2CgVjbGlwcxXnJ91AGgRjbGlwGgVmaWxlcxoHZm9vdGFnZRoGdmVkaW9zGgp2aWRlb2NsaXBzMsQBL2dvdG8_dXJsPUNBRVNoZ0VCeENKRjF3cVBOdWgtLTBKMDA1R0JaUkxjV1RUNmdLZXJNUk9SbW5zdXI0dElOU2VSNDJRel9FUUpxMjBmaWJpQVdUVl9ad2huLW90UnkwV0taaEh1LXB1THhzTVZxZGFjT1hzMXQ2dUFPb1YycXZXM1BHcUZqdmZuWE1DaUg3X2tyMEpqRXl4RDR0MjJrUjgwWE5mXzRkWGk3SVFjMVMyNjNSQXFMOWVrRElGZXZSVHNCQTomR2V0dGluZyBzdGFydGVkIHdpdGggPGI-Wm9vbSBDbGlwczwvYj5CxAEoT3B0aW9uYWwpIDxiPkluPC9iPiB0aGUgPGI-UmVjb3JkPC9iPiBuZXcgPGI-Y2xpcDwvYj4gd2luZG93LCBhZGp1c3QgPGI-cmVjb3JkaW5nPC9iPiBzZXR0aW5ncyBhcyBuZWVkZWQuIEFzIHlvdSBhZGp1c3Qgc2V0dGluZ3MsIHRoZSA8Yj5jbGlwPC9iPiBwcmV2aWV3IHdpbGwgY2hhbmdlIGJhc2VkIDxiPm9uPC9iPiB5b3VyIGNob2ljZXMuSgJ0b0oBYVICb25SAmJ5Ugd0aGUgb25lUgJpbiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCeENKRjF3cVBOdWgtLTBKMDA1R0JaUkxjV1RUNmdLZXJNUk9SbW5zdXI0dElOU2VSNDJRel9FUUpxMjBmaWJpQVdUVl9ad2huLW90UnkwV0taaEh1LXB1THhzTVZxZGFjT1hzMXQ2dUFPb1YycXZXM1BHcUZqdmZuWE1DaUg3X2tyMEpqRXl4RDR0MjJrUjgwWE5mXzRkWGk3SVFjMVMyNjNSQXFMOWVrRElGZXZSVHNCQRIEGgIIABrbBxICCAEaACIAKgAyBggDEgJ1azoAQgQIARAASgBaAHIAegCCQLUHCAAQABgAIAAqCgoDaG93FRt-IEAqCQoCdG8VAAAAACpwCgR0dXJuFQAAAAAaCGFjdGl2YXRlGgdjb252ZXJ0Ggpjb252ZXJ0aW5nGgtkbyB5b3UgbWFrZRoGZW5hYmxlGgRtYWtlGgZyb3RhdGUaBnN3aXRjaBoJdHJhbnNmb3JtGgd0dXJuaW5nGgV0dXJucyoICgFhFQAAAAAqHAoBMRWPYhw-GgJhMRoHdGhlIG9uZRoFMWhvdXIqIwoEaG91chUAAAAAGgRob3JhGgVob3VycxoCaHIaBTFob3VyKgsKBHpvb20VJ7ThQCo-CglyZWNvcmRpbmcV7THwPxoGcmVjb3JkGghyZWNvcmRlZBoKcmVjb3JkaW5ncxoOaXY7cDtyZWNvcmRpbmcqHQoEaW50bxUAAAAAGgJieRoCaW4aAm9uGgRvbnRvKg4KATUVipsjPxoEZml2ZSoeCghsaW5rZWRpbhUAAAAAGg1saW5rZWRpbnZpZGVvKi8KBXZpZGVvFXhqYEAaBnZpZGVvcxoNbGlua2VkaW52aWRlbxoKdmlkZW9jbGlwcyo2CgVjbGlwcxXnJ91AGgRjbGlwGgVmaWxlcxoHZm9vdGFnZRoGdmVkaW9zGgp2aWRlb2NsaXBzMsQBL2dvdG8_dXJsPUNBRVNoZ0VCeENKRjF3cVBOdWgtLTBKMDA1R0JaUkxjV1RUNmdLZXJNUk9SbW5zdXI0dElOU2VSNDJRel9FUUpxMjBmaWJpQVdUVl9ad2huLW90UnkwV0taaEh1LXB1THhzTVZxZGFjT1hzMXQ2dUFPb1YycXZXM1BHcUZqdmZuWE1DaUg3X2tyMEpqRXl4RDR0MjJrUjgwWE5mXzRkWGk3SVFjMVMyNjNSQXFMOWVrRElGZXZSVHNCQTomR2V0dGluZyBzdGFydGVkIHdpdGggPGI-Wm9vbSBDbGlwczwvYj5CxAEoT3B0aW9uYWwpIDxiPkluPC9iPiB0aGUgPGI-UmVjb3JkPC9iPiBuZXcgPGI-Y2xpcDwvYj4gd2luZG93LCBhZGp1c3QgPGI-cmVjb3JkaW5nPC9iPiBzZXR0aW5ncyBhcyBuZWVkZWQuIEFzIHlvdSBhZGp1c3Qgc2V0dGluZ3MsIHRoZSA8Yj5jbGlwPC9iPiBwcmV2aWV3IHdpbGwgY2hhbmdlIGJhc2VkIDxiPm9uPC9iPiB5b3VyIGNob2ljZXMuSgJ0b0oBYVICb25SAmJ5Ugd0aGUgb25lUgJpbiICEAFIAFgAaAA",
+        "source": "Zoom",
+        "read_more_link": "https://www.google.com/goto?url=CAES2gEBxCJF10L4krJco7YYx9OVzwV-rNdk9MuAX8tN0MT_KXZnZDefI_vF7aHIGesykR6vIjIJv8ndV1OLLvYQOeok4dtkPUvDe0fhZE3pAmp7qfas6UEuOHyBWhbyzvfPHDIbXSBZmpQr9jz0ndY9X6qcZjKqXxN439pyb0qO5G_9_l-ykOtwuibepKliXFvFmvaFwl3CyLndeypTaCdxejnvTaLrelsS4NMGYt5oIa7j8x60leNfQY3IdaA3EiaEbTX0X2uYnTJ1fRAG4090xQzFwNYCYzrtOl5NAA&gsessionid=wPZ4VvuoCSCRSZfhMdKgvTEGcSv7oqWGqAeVs2zvPtO8f_rfJcAS8A"
+      },
+      {
+        "position": 4,
+        "title": "Turn Zoom Recordings Into Clips with AI",
+        "link": "https://www.google.com/goto?url=CAEScwHEIkXXGncdAhq-QCpLvOzge9Ulx032QKBCS7W2CAe3vshOmBV_JP6Ahesvz06S9lQ157vt40ZkkhFa_f_OVoKKdeqKyBRw4vkhF_bSUedBKrbMJphg-dWoD5-KhfaqPMSvff2xb4BXqd9Aam030v9zwNo",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHEIkXXW_ipXN4NrBGu_If1UI9lpNJilxR3vti4M1bJDs34XKM4xK9RnEHjENHioZ5wAANJiFzyPaFnG_Tj35l-FTUWWPRuKLEhQn3ODbVgUJkzxBrYao8m6QXoaQ7Cf1EM95Db8UCJLL-DI1mcyohyKg0&ved=2ahUKEwiZzffqvZuYAxUPNoYAHcqUIbwQFnoECBEQAQ&uoh=1",
+        "displayed_link": "https://openclip.app \u203a Use Cases",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAgklEQVR4AWP4jwfQQ3JXdPQuHJI3rBiAwPYGFsmvmQxQkPcVXXIWAxKYhSL5Q5EBBWj9QJIsY0ADlUiS-uiS-piSR1-U4ZS0BbIeWOGQ9AezufFJCpJiLMJBlTAH4fUKvkAowxN8ij-IC3iI5jxElGGLbFuQlNUNXMkkEj2Z0D_dAgDQ8hueXy0oUQAAAABJRU5ErkJggg.png",
+        "date": "4 days ago",
+        "snippet": "Clip Zoom recordings automatically. AI finds key moments in meetings, webinars, and coaching calls, reframes speakers to 9:16, ...",
+        "snippet_highlighted_words": [
+          "Clip Zoom recordings automatically"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Clip Zoom recordings automatically. AI finds key moments in meetings, webinars, and coaching calls, reframes speakers to 9:16, ...",
+            "source_info_link": "https://www.google.com/goto?url=CAEScwHEIkXXGncdAhq-QCpLvOzge9Ulx032QKBCS7W2CAe3vshOmBV_JP6Ahesvz06S9lQ157vt40ZkkhFa_f_OVoKKdeqKyBRw4vkhF_bSUedBKrbMJphg-dWoD5-KhfaqPMSvff2xb4BXqd9Aam030v9zwNo",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAgklEQVR4AWP4jwfQQ3JXdPQuHJI3rBiAwPYGFsmvmQxQkPcVXXIWAxKYhSL5Q5EBBWj9QJIsY0ADlUiS-uiS-piSR1-U4ZS0BbIeWOGQ9AezufFJCpJiLMJBlTAH4fUKvkAowxN8ij-IC3iI5jxElGGLbFuQlNUNXMkkEj2Z0D_dAgDQ8hueXy0oUQAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqkBL2dvdG8_dXJsPUNBRVNjd0hFSWtYWEduY2RBaHEtUUNwTHZPemdlOVVseDAzMlFLQkNTN1cyQ0FlM3ZzaE9tQlZfSlA2QWhlc3Z6MDZTOWxRMTU3dnQ0MFpra2hGYV9mX09Wb0tLZGVxS3lCUnc0dmtoRl9iU1VlZEJLcmJNSnBoZy1kV29ENS1LaGZhcVBNU3ZmZjJ4YjRCWHFkOUFhbTAzMHY5endObxIEGgIIABqdBxIAGgAiAggBKgAyBggDEgJ1azoAQgQIARAASgBaAHIAegCCQPcGCAAQABgAIAAqCgoDaG93FamCIj4qCQoCdG8VAAAAACpwCgR0dXJuFdSSnkAaCGFjdGl2YXRlGgdjb252ZXJ0Ggpjb252ZXJ0aW5nGgtkbyB5b3UgbWFrZRoGZW5hYmxlGgRtYWtlGgZyb3RhdGUaBnN3aXRjaBoJdHJhbnNmb3JtGgd0dXJuaW5nGgV0dXJucyoICgFhFQAAAAAqHAoBMRXQqEs-GgJhMRoHdGhlIG9uZRoFMWhvdXIqIwoEaG91chWejMI_GgRob3JhGgVob3VycxoCaHIaBTFob3VyKgsKBHpvb20VtBvyQCo-CglyZWNvcmRpbmcV6wSUQBoGcmVjb3JkGghyZWNvcmRlZBoKcmVjb3JkaW5ncxoOaXY7cDtyZWNvcmRpbmcqHQoEaW50bxXe2MpAGgJieRoCaW4aAm9uGgRvbnRvKg4KATUV_Am4PhoEZml2ZSoeCghsaW5rZWRpbhUSYNw-Gg1saW5rZWRpbnZpZGVvKi8KBXZpZGVvFcmRfEAaBnZpZGVvcxoNbGlua2VkaW52aWRlbxoKdmlkZW9jbGlwcyo2CgVjbGlwcxXSDORAGgRjbGlwGgVmaWxlcxoHZm9vdGFnZRoGdmVkaW9zGgp2aWRlb2NsaXBzMqkBL2dvdG8_dXJsPUNBRVNjd0hFSWtYWEduY2RBaHEtUUNwTHZPemdlOVVseDAzMlFLQkNTN1cyQ0FlM3ZzaE9tQlZfSlA2QWhlc3Z6MDZTOWxRMTU3dnQ0MFpra2hGYV9mX09Wb0tLZGVxS3lCUnc0dmtoRl9iU1VlZEJLcmJNSnBoZy1kV29ENS1LaGZhcVBNU3ZmZjJ4YjRCWHFkOUFhbTAzMHY5endObzo5PGI-VHVybiBab29tIFJlY29yZGluZ3MgSW50byBDbGlwczwvYj4gd2l0aCBBSSAtIE9wZW5DbGlwQo4BPGI-Q2xpcCBab29tIHJlY29yZGluZ3MgYXV0b21hdGljYWxseTwvYj4uIEFJIGZpbmRzIGtleSBtb21lbnRzIGluIG1lZXRpbmdzLCB3ZWJpbmFycywgYW5kIGNvYWNoaW5nIGNhbGxzLCByZWZyYW1lcyBzcGVha2VycyB0byA5OjE2LCZuYnNwOy4uLkoBYUoCdG9SAm9uUgJpblIHdGhlIG9uZVICYnkiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqkBL2dvdG8_dXJsPUNBRVNjd0hFSWtYWEduY2RBaHEtUUNwTHZPemdlOVVseDAzMlFLQkNTN1cyQ0FlM3ZzaE9tQlZfSlA2QWhlc3Z6MDZTOWxRMTU3dnQ0MFpra2hGYV9mX09Wb0tLZGVxS3lCUnc0dmtoRl9iU1VlZEJLcmJNSnBoZy1kV29ENS1LaGZhcVBNU3ZmZjJ4YjRCWHFkOUFhbTAzMHY5endObxIEGgIIABqdBxIAGgAiAggBKgAyBggDEgJ1azoAQgQIARAASgBaAHIAegCCQPcGCAAQABgAIAAqCgoDaG93FamCIj4qCQoCdG8VAAAAACpwCgR0dXJuFdSSnkAaCGFjdGl2YXRlGgdjb252ZXJ0Ggpjb252ZXJ0aW5nGgtkbyB5b3UgbWFrZRoGZW5hYmxlGgRtYWtlGgZyb3RhdGUaBnN3aXRjaBoJdHJhbnNmb3JtGgd0dXJuaW5nGgV0dXJucyoICgFhFQAAAAAqHAoBMRXQqEs-GgJhMRoHdGhlIG9uZRoFMWhvdXIqIwoEaG91chWejMI_GgRob3JhGgVob3VycxoCaHIaBTFob3VyKgsKBHpvb20VtBvyQCo-CglyZWNvcmRpbmcV6wSUQBoGcmVjb3JkGghyZWNvcmRlZBoKcmVjb3JkaW5ncxoOaXY7cDtyZWNvcmRpbmcqHQoEaW50bxXe2MpAGgJieRoCaW4aAm9uGgRvbnRvKg4KATUV_Am4PhoEZml2ZSoeCghsaW5rZWRpbhUSYNw-Gg1saW5rZWRpbnZpZGVvKi8KBXZpZGVvFcmRfEAaBnZpZGVvcxoNbGlua2VkaW52aWRlbxoKdmlkZW9jbGlwcyo2CgVjbGlwcxXSDORAGgRjbGlwGgVmaWxlcxoHZm9vdGFnZRoGdmVkaW9zGgp2aWRlb2NsaXBzMqkBL2dvdG8_dXJsPUNBRVNjd0hFSWtYWEduY2RBaHEtUUNwTHZPemdlOVVseDAzMlFLQkNTN1cyQ0FlM3ZzaE9tQlZfSlA2QWhlc3Z6MDZTOWxRMTU3dnQ0MFpra2hGYV9mX09Wb0tLZGVxS3lCUnc0dmtoRl9iU1VlZEJLcmJNSnBoZy1kV29ENS1LaGZhcVBNU3ZmZjJ4YjRCWHFkOUFhbTAzMHY5endObzo5PGI-VHVybiBab29tIFJlY29yZGluZ3MgSW50byBDbGlwczwvYj4gd2l0aCBBSSAtIE9wZW5DbGlwQo4BPGI-Q2xpcCBab29tIHJlY29yZGluZ3MgYXV0b21hdGljYWxseTwvYj4uIEFJIGZpbmRzIGtleSBtb21lbnRzIGluIG1lZXRpbmdzLCB3ZWJpbmFycywgYW5kIGNvYWNoaW5nIGNhbGxzLCByZWZyYW1lcyBzcGVha2VycyB0byA5OjE2LCZuYnNwOy4uLkoBYUoCdG9SAm9uUgJpblIHdGhlIG9uZVICYnkiAhABSABYAGgA",
+        "source": "OpenClip App"
+      },
+      {
+        "position": 5,
+        "title": "How to Optimise LinkedIn Video for Better Engagement",
+        "link": "https://www.google.com/goto?url=CAESjgEBxCJF1_TWhRIm9pw4FI9QLe1wy2_vIHCUcy3lkUK_mbOIqCjdYEFrzkloJ03xoGb1o2MTskQP0_mCsRC4vRbbxn6gpDKML4SbayDeK9a0J9FrSC7hStEv3_2cKeetGfApDgD9NDNahmCR0fn3CWPShf5HxLak1V1e7bNgcUnxFoiw2gVXUqWB630mUfdb",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjgEBxCJF1wL6cAAUx2UaUD7jYvmLaUjYqhu1hNLzL77-gj7UGFgYcj4hbA0khzm4U33Jb4B6T5GgeXWuzeCIwDDpEOV0czyVbSi0VXLYT2jPgnRIJ71OEbCsRteodb0b--Oc_AKBaENdMdetaeKq3NYV5ad8rFaZH0DWYj6do_XbkY4Osa_hOqUrenImm_Wi&ved=2ahUKEwiZzffqvZuYAxUPNoYAHcqUIbwQFnoECBUQAQ&uoh=1",
+        "displayed_link": "https://reelsinmotion.co.uk \u203a Blog",
+        "favicon": "https://serpapi.com/searches/6b02d356c346edf4b1002b14/images/qnfq1TKA0rT2x-0rAGCQ-udLXUFFJmtH92bgu7t5kaY.jpg",
+        "snippet": "Learn how to optimise LinkedIn video for better engagement, from choosing the right format to creating videos that make an impact. Learn more.",
+        "snippet_highlighted_words": [
+          "Learn how to optimise LinkedIn video for better engagement"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Learn how to optimise LinkedIn video for better engagement, from choosing the right format to creating videos that make an impact. Learn more.",
+            "source_info_link": "https://www.google.com/goto?url=CAESjgEBxCJF1_TWhRIm9pw4FI9QLe1wy2_vIHCUcy3lkUK_mbOIqCjdYEFrzkloJ03xoGb1o2MTskQP0_mCsRC4vRbbxn6gpDKML4SbayDeK9a0J9FrSC7hStEv3_2cKeetGfApDgD9NDNahmCR0fn3CWPShf5HxLak1V1e7bNgcUnxFoiw2gVXUqWB630mUfdb",
+            "icon": "https://serpapi.com/searches/6b02d356c346edf4b1002b14/images/qnfq1TKA0rT2x-0rAGCQ-mNJCYsYf23twfl3XSyWJv1BOyH_fNjU_10SseLqUA3F.jpg"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCeENKRjFfVFdoUkltOXB3NEZJOVFMZTF3eTJfdklIQ1VjeTNsa1VLX21iT0lxQ2pkWUVGcnprbG9KMDN4b0diMW8yTVRza1FQMF9tQ3NSQzR2UmJieG42Z3BES01MNFNiYXlEZUs5YTBKOUZyU0M3aFN0RXYzXzJjS2VldEdmQXBEZ0Q5TkROYWhtQ1IwZm4zQ1dQU2hmNUh4TGFrMVYxZTdiTmdjVW54Rm9pdzJnVlhVcVdCNjMwbVVmZGISBBoCCAAayQcSABoAIgAqADIGCAESAnVrOgBCBAgBEABKAFoAcgB6AIJApQcIABAAGAAgACoKCgNob3cVxa0sQCoJCgJ0bxUAAAAAKnAKBHR1cm4Vq-l_PhoIYWN0aXZhdGUaB2NvbnZlcnQaCmNvbnZlcnRpbmcaC2RvIHlvdSBtYWtlGgZlbmFibGUaBG1ha2UaBnJvdGF0ZRoGc3dpdGNoGgl0cmFuc2Zvcm0aB3R1cm5pbmcaBXR1cm5zKggKAWEVAAAAACocCgExFdBZaz8aAmExGgd0aGUgb25lGgUxaG91ciojCgRob3VyFeWNlz4aBGhvcmEaBWhvdXJzGgJochoFMWhvdXIqCwoEem9vbRUAAAAAKj4KCXJlY29yZGluZxWsrgQ-GgZyZWNvcmQaCHJlY29yZGVkGgpyZWNvcmRpbmdzGg5pdjtwO3JlY29yZGluZyodCgRpbnRvFbHZGj8aAmJ5GgJpbhoCb24aBG9udG8qDgoBNRVyfaM-GgRmaXZlKh4KCGxpbmtlZGluFdM8mkAaDWxpbmtlZGludmlkZW8qLwoFdmlkZW8VfKmVQBoGdmlkZW9zGg1saW5rZWRpbnZpZGVvGgp2aWRlb2NsaXBzKjYKBWNsaXBzFcocPz4aBGNsaXAaBWZpbGVzGgdmb290YWdlGgZ2ZWRpb3MaCnZpZGVvY2xpcHMyzgEvZ290bz91cmw9Q0FFU2pnRUJ4Q0pGMV9UV2hSSW05cHc0Rkk5UUxlMXd5Ml92SUhDVWN5M2xrVUtfbWJPSXFDamRZRUZyemtsb0owM3hvR2IxbzJNVHNrUVAwX21Dc1JDNHZSYmJ4bjZncERLTUw0U2JheURlSzlhMEo5RnJTQzdoU3RFdjNfMmNLZWV0R2ZBcERnRDlORE5haG1DUjBmbjNDV1BTaGY1SHhMYWsxVjFlN2JOZ2NVbnhGb2l3MmdWWFVxV0I2MzBtVWZkYjo7SG93IHRvIE9wdGltaXNlIDxiPkxpbmtlZEluIFZpZGVvPC9iPiBmb3IgQmV0dGVyIEVuZ2FnZW1lbnRClQE8Yj5MZWFybiBob3cgdG8gb3B0aW1pc2UgTGlua2VkSW4gdmlkZW8gZm9yIGJldHRlciBlbmdhZ2VtZW50PC9iPiwgZnJvbSBjaG9vc2luZyB0aGUgcmlnaHQgZm9ybWF0IHRvIGNyZWF0aW5nIHZpZGVvcyB0aGF0IG1ha2UgYW4gaW1wYWN0LiBMZWFybiBtb3JlLkoCdG9KAWFSAm9uUgJpblIHdGhlIG9uZVICYnkiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCeENKRjFfVFdoUkltOXB3NEZJOVFMZTF3eTJfdklIQ1VjeTNsa1VLX21iT0lxQ2pkWUVGcnprbG9KMDN4b0diMW8yTVRza1FQMF9tQ3NSQzR2UmJieG42Z3BES01MNFNiYXlEZUs5YTBKOUZyU0M3aFN0RXYzXzJjS2VldEdmQXBEZ0Q5TkROYWhtQ1IwZm4zQ1dQU2hmNUh4TGFrMVYxZTdiTmdjVW54Rm9pdzJnVlhVcVdCNjMwbVVmZGISBBoCCAAayQcSABoAIgAqADIGCAESAnVrOgBCBAgBEABKAFoAcgB6AIJApQcIABAAGAAgACoKCgNob3cVxa0sQCoJCgJ0bxUAAAAAKnAKBHR1cm4Vq-l_PhoIYWN0aXZhdGUaB2NvbnZlcnQaCmNvbnZlcnRpbmcaC2RvIHlvdSBtYWtlGgZlbmFibGUaBG1ha2UaBnJvdGF0ZRoGc3dpdGNoGgl0cmFuc2Zvcm0aB3R1cm5pbmcaBXR1cm5zKggKAWEVAAAAACocCgExFdBZaz8aAmExGgd0aGUgb25lGgUxaG91ciojCgRob3VyFeWNlz4aBGhvcmEaBWhvdXJzGgJochoFMWhvdXIqCwoEem9vbRUAAAAAKj4KCXJlY29yZGluZxWsrgQ-GgZyZWNvcmQaCHJlY29yZGVkGgpyZWNvcmRpbmdzGg5pdjtwO3JlY29yZGluZyodCgRpbnRvFbHZGj8aAmJ5GgJpbhoCb24aBG9udG8qDgoBNRVyfaM-GgRmaXZlKh4KCGxpbmtlZGluFdM8mkAaDWxpbmtlZGludmlkZW8qLwoFdmlkZW8VfKmVQBoGdmlkZW9zGg1saW5rZWRpbnZpZGVvGgp2aWRlb2NsaXBzKjYKBWNsaXBzFcocPz4aBGNsaXAaBWZpbGVzGgdmb290YWdlGgZ2ZWRpb3MaCnZpZGVvY2xpcHMyzgEvZ290bz91cmw9Q0FFU2pnRUJ4Q0pGMV9UV2hSSW05cHc0Rkk5UUxlMXd5Ml92SUhDVWN5M2xrVUtfbWJPSXFDamRZRUZyemtsb0owM3hvR2IxbzJNVHNrUVAwX21Dc1JDNHZSYmJ4bjZncERLTUw0U2JheURlSzlhMEo5RnJTQzdoU3RFdjNfMmNLZWV0R2ZBcERnRDlORE5haG1DUjBmbjNDV1BTaGY1SHhMYWsxVjFlN2JOZ2NVbnhGb2l3MmdWWFVxV0I2MzBtVWZkYjo7SG93IHRvIE9wdGltaXNlIDxiPkxpbmtlZEluIFZpZGVvPC9iPiBmb3IgQmV0dGVyIEVuZ2FnZW1lbnRClQE8Yj5MZWFybiBob3cgdG8gb3B0aW1pc2UgTGlua2VkSW4gdmlkZW8gZm9yIGJldHRlciBlbmdhZ2VtZW50PC9iPiwgZnJvbSBjaG9vc2luZyB0aGUgcmlnaHQgZm9ybWF0IHRvIGNyZWF0aW5nIHZpZGVvcyB0aGF0IG1ha2UgYW4gaW1wYWN0LiBMZWFybiBtb3JlLkoCdG9KAWFSAm9uUgJpblIHdGhlIG9uZVICYnkiAhABSABYAGgA",
+        "source": "Reels in Motion"
+      },
+      {
+        "position": 6,
+        "title": "Edit Zoom Recording with the tl;dv Video Trimmer",
+        "link": "https://www.google.com/goto?url=CAESYQHEIkXXv47y60MYG1aSTzLkTi4z6jv1f5IYlmHuDPASjg7mAM_bwammG_Np8acPLgYWxJ-HVUQSsa-xCu6qCL6RfcNj8O_YZWM93en_CsyVPjzB5CcRbF_v2qX1K96oGgk",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHEIkXXVTxgsPdOoB7YDh5Ky9OcDoAP1TzhP97FuzwsuePFdyiPWR8C7pgCb9xJp_0VEcm4jL4rcFGuZSrt1GCBo4rlYzefo77Zv0g7JwbDcL941rpSDrAkNwHJZrC-Wrg&ved=2ahUKEwiZzffqvZuYAxUPNoYAHcqUIbwQFnoECBAQAQ&uoh=1",
+        "displayed_link": "https://tldv.io \u203a edit-zoom-recording",
+        "favicon": "https://serpapi.com/searches/6b02d356c346edf4b1002b14/images/qnfq1TKA0rT2x-0rAGCQ-s-CQ_jxncmaNuuhHCuAh4Y.jpg",
+        "snippet": "Edit Zoom video recordings in seconds \u00b7 Select part of the call's transcript to instantly create a clip \u00b7 Share your Zoom call snippets in seconds with a simple ...",
+        "snippet_highlighted_words": [
+          "instantly create a clip"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Edit Zoom video recordings in seconds \u00b7 Select part of the call's transcript to instantly create a clip \u00b7 Share your Zoom call snippets in seconds with a simple ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESYQHEIkXXv47y60MYG1aSTzLkTi4z6jv1f5IYlmHuDPASjg7mAM_bwammG_Np8acPLgYWxJ-HVUQSsa-xCu6qCL6RfcNj8O_YZWM93en_CsyVPjzB5CcRbF_v2qX1K96oGgk",
+            "icon": "https://serpapi.com/searches/6b02d356c346edf4b1002b14/images/qnfq1TKA0rT2x-0rAGCQ-mqvtJeDnmBfesrKLuZRHmmQDzwsxrlCcmdkZ5rNhcXF.jpg"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpEBL2dvdG8_dXJsPUNBRVNZUUhFSWtYWHY0N3k2ME1ZRzFhU1R6TGtUaTR6Nmp2MWY1SVlsbUh1RFBBU2pnN21BTV9id2FtbUdfTnA4YWNQTGdZV3hKLUhWVVFTc2EteEN1NnFDTDZSZmNOajhPX1laV005M2VuX0NzeVZQanpCNUNjUmJGX3YycVgxSzk2b0dnaxIEGgIIABq-BxICCAAaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQJgHCAAQABgAIAAqCgoDaG93FcDG5j4qCQoCdG8VAAAAACpwCgR0dXJuFRDJiD0aCGFjdGl2YXRlGgdjb252ZXJ0Ggpjb252ZXJ0aW5nGgtkbyB5b3UgbWFrZRoGZW5hYmxlGgRtYWtlGgZyb3RhdGUaBnN3aXRjaBoJdHJhbnNmb3JtGgd0dXJuaW5nGgV0dXJucyoICgFhFQAAAAAqHAoBMRX_DjQ_GgJhMRoHdGhlIG9uZRoFMWhvdXIqIwoEaG91chV2zFE_GgRob3JhGgVob3VycxoCaHIaBTFob3VyKgsKBHpvb20VG3B0QCo-CglyZWNvcmRpbmcVNcbNPxoGcmVjb3JkGghyZWNvcmRlZBoKcmVjb3JkaW5ncxoOaXY7cDtyZWNvcmRpbmcqHQoEaW50bxV0jIY_GgJieRoCaW4aAm9uGgRvbnRvKg4KATUVAAAAABoEZml2ZSoeCghsaW5rZWRpbhXBNPk9Gg1saW5rZWRpbnZpZGVvKi8KBXZpZGVvFcSMGUAaBnZpZGVvcxoNbGlua2VkaW52aWRlbxoKdmlkZW9jbGlwcyo2CgVjbGlwcxW19lc_GgRjbGlwGgVmaWxlcxoHZm9vdGFnZRoGdmVkaW9zGgp2aWRlb2NsaXBzMpEBL2dvdG8_dXJsPUNBRVNZUUhFSWtYWHY0N3k2ME1ZRzFhU1R6TGtUaTR6Nmp2MWY1SVlsbUh1RFBBU2pnN21BTV9id2FtbUdfTnA4YWNQTGdZV3hKLUhWVVFTc2EteEN1NnFDTDZSZmNOajhPX1laV005M2VuX0NzeVZQanpCNUNjUmJGX3YycVgxSzk2b0dnazo-RWRpdCA8Yj5ab29tIFJlY29yZGluZzwvYj4gd2l0aCB0aGUgdGw7ZHYgPGI-VmlkZW88L2I-IFRyaW1tZXJCwgFFZGl0IFpvb20gdmlkZW8gcmVjb3JkaW5ncyBpbiBzZWNvbmRzICZtaWRkb3Q7IFNlbGVjdCBwYXJ0IG9mIHRoZSBjYWxsJiMzOTtzIHRyYW5zY3JpcHQgdG8gPGI-aW5zdGFudGx5IGNyZWF0ZSBhIGNsaXA8L2I-ICZtaWRkb3Q7IFNoYXJlIHlvdXIgWm9vbSBjYWxsIHNuaXBwZXRzIGluIHNlY29uZHMgd2l0aCBhIHNpbXBsZSZuYnNwOy4uLkoCdG9KAWFSAm9uUgJpblIHdGhlIG9uZVICYnkiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpEBL2dvdG8_dXJsPUNBRVNZUUhFSWtYWHY0N3k2ME1ZRzFhU1R6TGtUaTR6Nmp2MWY1SVlsbUh1RFBBU2pnN21BTV9id2FtbUdfTnA4YWNQTGdZV3hKLUhWVVFTc2EteEN1NnFDTDZSZmNOajhPX1laV005M2VuX0NzeVZQanpCNUNjUmJGX3YycVgxSzk2b0dnaxIEGgIIABq-BxICCAAaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQJgHCAAQABgAIAAqCgoDaG93FcDG5j4qCQoCdG8VAAAAACpwCgR0dXJuFRDJiD0aCGFjdGl2YXRlGgdjb252ZXJ0Ggpjb252ZXJ0aW5nGgtkbyB5b3UgbWFrZRoGZW5hYmxlGgRtYWtlGgZyb3RhdGUaBnN3aXRjaBoJdHJhbnNmb3JtGgd0dXJuaW5nGgV0dXJucyoICgFhFQAAAAAqHAoBMRX_DjQ_GgJhMRoHdGhlIG9uZRoFMWhvdXIqIwoEaG91chV2zFE_GgRob3JhGgVob3VycxoCaHIaBTFob3VyKgsKBHpvb20VG3B0QCo-CglyZWNvcmRpbmcVNcbNPxoGcmVjb3JkGghyZWNvcmRlZBoKcmVjb3JkaW5ncxoOaXY7cDtyZWNvcmRpbmcqHQoEaW50bxV0jIY_GgJieRoCaW4aAm9uGgRvbnRvKg4KATUVAAAAABoEZml2ZSoeCghsaW5rZWRpbhXBNPk9Gg1saW5rZWRpbnZpZGVvKi8KBXZpZGVvFcSMGUAaBnZpZGVvcxoNbGlua2VkaW52aWRlbxoKdmlkZW9jbGlwcyo2CgVjbGlwcxW19lc_GgRjbGlwGgVmaWxlcxoHZm9vdGFnZRoGdmVkaW9zGgp2aWRlb2NsaXBzMpEBL2dvdG8_dXJsPUNBRVNZUUhFSWtYWHY0N3k2ME1ZRzFhU1R6TGtUaTR6Nmp2MWY1SVlsbUh1RFBBU2pnN21BTV9id2FtbUdfTnA4YWNQTGdZV3hKLUhWVVFTc2EteEN1NnFDTDZSZmNOajhPX1laV005M2VuX0NzeVZQanpCNUNjUmJGX3YycVgxSzk2b0dnazo-RWRpdCA8Yj5ab29tIFJlY29yZGluZzwvYj4gd2l0aCB0aGUgdGw7ZHYgPGI-VmlkZW88L2I-IFRyaW1tZXJCwgFFZGl0IFpvb20gdmlkZW8gcmVjb3JkaW5ncyBpbiBzZWNvbmRzICZtaWRkb3Q7IFNlbGVjdCBwYXJ0IG9mIHRoZSBjYWxsJiMzOTtzIHRyYW5zY3JpcHQgdG8gPGI-aW5zdGFudGx5IGNyZWF0ZSBhIGNsaXA8L2I-ICZtaWRkb3Q7IFNoYXJlIHlvdXIgWm9vbSBjYWxsIHNuaXBwZXRzIGluIHNlY29uZHMgd2l0aCBhIHNpbXBsZSZuYnNwOy4uLkoCdG9KAWFSAm9uUgJpblIHdGhlIG9uZVICYnkiAhABSABYAGgA",
+        "source": "tl;dv",
+        "read_more_link": "https://www.google.com/goto?url=CAESsAIBxCJF17Rx4YLTNt2U-K4owW-nYyDASemgY1yuxFSqha0GC7wuemH69l8Npbe6Fffcy6geJHkF2EJhoVD3DY7dQ0M-lcAMCgTqOzx0JpZVL3Qr4dUovIu5hYhwErRMDb1PDzHddA68TtALbrPtIQJ0swY_6oRagEgY0nU5ChSkeTZ4nZShAX0_gU6BuMrqtX2Uzi0pFbfCJXNByavuLbkoY84ZC8_TXetpd4umBfCmD7BdjkUkwtaF85oTmnTKH4M8Ml31nR4JFS0gWkIDgO20WnGbIQkn0XIxz6JIELUmYuR69VMhX6KoecdMy6PNOgNjRx7Maj8RZ79ZyBR20AwGXd4tEx5wSqvVUYG_YVl6S9Boz7phI1VSRk3Vkm9ZTQBtIm5B72DTvdmtj8RSyhC9&gsessionid=wPZ4VvuoCSCRSZfhMdKgvTEGcSv7oqWGqAeVs2zvPtO8f_rfJcAS8A"
+      },
+      {
+        "position": 7,
+        "title": "Turn Zoom Recording to Clips - AI Tool",
+        "link": "https://www.google.com/goto?url=CAESdAHEIkXXNm8dcHyt_uiliYaFlV3MiGH6t1ut10Ka-kkC_qDGIo2bnUKh0k_NBobYRm_NzasFm1TCfVUBuBjMU8vxX9nNQACoKvN66XE3bl0JIJSfhazYiihWBlaZsWTinq_0jpqV7llu_rAkdeuY2nrpPrWj",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHEIkXXFtiNyd8bZiQcH1Rnh9bNjkXvtv0EdZdwIuRNFlWzn63LB_tDpJ3OYKj8wmxn_w_PyVWhUU9fdwhr-t7-GzY3JXqH49t59DzHALQtx3MmCIyumPteyWwXhnCsUySM3vUo6gQbqQFFmg5TbJKKGS4z&ved=2ahUKEwiZzffqvZuYAxUPNoYAHcqUIbwQFnoECFgQAQ&uoh=1",
+        "displayed_link": "https://www.opus.pro \u203a tools \u203a turn-zoom-recording-to-...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAV1BMVEUOEBULDRMAAABubnClpaa_v8AAAAj___81Njj09PT7-_u4uLmPj5CYmJlhYWNQUVNLS0339_cuLzLCwsOfn6Ctra6enp94eXp-f4COjo9paWuCg4RTVFaiNnBOAAAAxklEQVR4AbWSVw7DMAxDW2Z6r-72_ueslC3Av2Gm_UDR63K6rph0raOm7bq2qeAe7bCoRS8ZRjVsUiOEb-RObaw1mv_G_pjHPgfvnIdl7yF3ygsxsSnFMOXuRmraOCyKjl6bFQ3lgX2dYS8ot8GhqvHUnYFMH28OddFRVUc-0D8BZ-l_g4XgbRjuDLsafDCUZSV8lk4MSMDXPBUrprJBuQgSZl4-ty2fhMHJhZdl5ZbJeb4qm413132epXx_pXJMsKgHGJ2tPwf1DT7eKooXAAAAAElFTkSuQmCC.png",
+        "snippet": "Turn Zoom recordings into clips quickly using our free AI tool. Get professional results in minutes. Try it now.",
+        "snippet_highlighted_words": [
+          "Get professional results in minutes"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Turn Zoom recordings into clips quickly using our free AI tool. Get professional results in minutes. Try it now.",
+            "source_info_link": "https://www.google.com/goto?url=CAESdAHEIkXXNm8dcHyt_uiliYaFlV3MiGH6t1ut10Ka-kkC_qDGIo2bnUKh0k_NBobYRm_NzasFm1TCfVUBuBjMU8vxX9nNQACoKvN66XE3bl0JIJSfhazYiihWBlaZsWTinq_0jpqV7llu_rAkdeuY2nrpPrWj",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAV1BMVEUOEBULDRMAAABubnClpaa_v8AAAAj___81Njj09PT7-_u4uLmPj5CYmJlhYWNQUVNLS0339_cuLzLCwsOfn6Ctra6enp94eXp-f4COjo9paWuCg4RTVFaiNnBOAAAAxklEQVR4AbWSVw7DMAxDW2Z6r-72_ueslC3Av2Gm_UDR63K6rph0raOm7bq2qeAe7bCoRS8ZRjVsUiOEb-RObaw1mv_G_pjHPgfvnIdl7yF3ygsxsSnFMOXuRmraOCyKjl6bFQ3lgX2dYS8ot8GhqvHUnYFMH28OddFRVUc-0D8BZ-l_g4XgbRjuDLsafDCUZSV8lk4MSMDXPBUrprJBuQgSZl4-ty2fhMHJhZdl5ZbJeb4qm413132epXx_pXJMsKgHGJ2tPwf1DT7eKooXAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqoBL2dvdG8_dXJsPUNBRVNkQUhFSWtYWE5tOGRjSHl0X3VpbGlZYUZsVjNNaUdINnQxdXQxMEthLWtrQ19xREdJbzJiblVLaDBrX05Cb2JZUm1fTnphc0ZtMVRDZlZVQnVCak1VOHZ4WDluTlFBQ29Ldk42NlhFM2JsMEpJSlNmaGF6WWlpaFdCbGFac1dUaW5xXzBqcHFWN2xsdV9yQWtkZXVZMm5ycFByV2oSBBoCCAAajAcSAggAGgAiACoAMgYIAhICdWs6AEIECAEQAEoAWgByAHoAgkDmBggAEAAYACAAKgoKA2hvdxX_cBJAKgkKAnRvFQAAAAAqcAoEdHVybhVRJcVAGghhY3RpdmF0ZRoHY29udmVydBoKY29udmVydGluZxoLZG8geW91IG1ha2UaBmVuYWJsZRoEbWFrZRoGcm90YXRlGgZzd2l0Y2gaCXRyYW5zZm9ybRoHdHVybmluZxoFdHVybnMqCAoBYRUAAAAAKhwKATEVRyUwQBoCYTEaB3RoZSBvbmUaBTFob3VyKiMKBGhvdXIVAAAAABoEaG9yYRoFaG91cnMaAmhyGgUxaG91cioLCgR6b29tFb92z0AqPgoJcmVjb3JkaW5nFQgcsUAaBnJlY29yZBoIcmVjb3JkZWQaCnJlY29yZGluZ3MaDml2O3A7cmVjb3JkaW5nKh0KBGludG8VWX9HQBoCYnkaAmluGgJvbhoEb250byoOCgE1FZqxkD4aBGZpdmUqHgoIbGlua2VkaW4Vw3OIPhoNbGlua2VkaW52aWRlbyovCgV2aWRlbxWnKI1AGgZ2aWRlb3MaDWxpbmtlZGludmlkZW8aCnZpZGVvY2xpcHMqNgoFY2xpcHMVrjPTQBoEY2xpcBoFZmlsZXMaB2Zvb3RhZ2UaBnZlZGlvcxoKdmlkZW9jbGlwczKqAS9nb3RvP3VybD1DQUVTZEFIRUlrWFhObThkY0h5dF91aWxpWWFGbFYzTWlHSDZ0MXV0MTBLYS1ra0NfcURHSW8yYm5VS2gwa19OQm9iWVJtX056YXNGbTFUQ2ZWVUJ1QmpNVTh2eFg5bk5RQUNvS3ZONjZYRTNibDBKSUpTZmhhellpaWhXQmxhWnNXVGlucV8wanBxVjdsbHVfckFrZGV1WTJucnBQcldqOj88Yj5UdXJuIFpvb20gUmVjb3JkaW5nPC9iPiB0byA8Yj5DbGlwczwvYj4gLSBBSSBUb29sIC0gT3B1c0NsaXBCd1R1cm4gWm9vbSByZWNvcmRpbmdzIGludG8gY2xpcHMgcXVpY2tseSB1c2luZyBvdXIgZnJlZSBBSSB0b29sLiA8Yj5HZXQgcHJvZmVzc2lvbmFsIHJlc3VsdHMgaW4gbWludXRlczwvYj4uIFRyeSBpdCBub3cuSgFhSgJ0b1ICYnlSB3RoZSBvbmVSAmluUgJvbiICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqoBL2dvdG8_dXJsPUNBRVNkQUhFSWtYWE5tOGRjSHl0X3VpbGlZYUZsVjNNaUdINnQxdXQxMEthLWtrQ19xREdJbzJiblVLaDBrX05Cb2JZUm1fTnphc0ZtMVRDZlZVQnVCak1VOHZ4WDluTlFBQ29Ldk42NlhFM2JsMEpJSlNmaGF6WWlpaFdCbGFac1dUaW5xXzBqcHFWN2xsdV9yQWtkZXVZMm5ycFByV2oSBBoCCAAajAcSAggAGgAiACoAMgYIAhICdWs6AEIECAEQAEoAWgByAHoAgkDmBggAEAAYACAAKgoKA2hvdxX_cBJAKgkKAnRvFQAAAAAqcAoEdHVybhVRJcVAGghhY3RpdmF0ZRoHY29udmVydBoKY29udmVydGluZxoLZG8geW91IG1ha2UaBmVuYWJsZRoEbWFrZRoGcm90YXRlGgZzd2l0Y2gaCXRyYW5zZm9ybRoHdHVybmluZxoFdHVybnMqCAoBYRUAAAAAKhwKATEVRyUwQBoCYTEaB3RoZSBvbmUaBTFob3VyKiMKBGhvdXIVAAAAABoEaG9yYRoFaG91cnMaAmhyGgUxaG91cioLCgR6b29tFb92z0AqPgoJcmVjb3JkaW5nFQgcsUAaBnJlY29yZBoIcmVjb3JkZWQaCnJlY29yZGluZ3MaDml2O3A7cmVjb3JkaW5nKh0KBGludG8VWX9HQBoCYnkaAmluGgJvbhoEb250byoOCgE1FZqxkD4aBGZpdmUqHgoIbGlua2VkaW4Vw3OIPhoNbGlua2VkaW52aWRlbyovCgV2aWRlbxWnKI1AGgZ2aWRlb3MaDWxpbmtlZGludmlkZW8aCnZpZGVvY2xpcHMqNgoFY2xpcHMVrjPTQBoEY2xpcBoFZmlsZXMaB2Zvb3RhZ2UaBnZlZGlvcxoKdmlkZW9jbGlwczKqAS9nb3RvP3VybD1DQUVTZEFIRUlrWFhObThkY0h5dF91aWxpWWFGbFYzTWlHSDZ0MXV0MTBLYS1ra0NfcURHSW8yYm5VS2gwa19OQm9iWVJtX056YXNGbTFUQ2ZWVUJ1QmpNVTh2eFg5bk5RQUNvS3ZONjZYRTNibDBKSUpTZmhhellpaWhXQmxhWnNXVGlucV8wanBxVjdsbHVfckFrZGV1WTJucnBQcldqOj88Yj5UdXJuIFpvb20gUmVjb3JkaW5nPC9iPiB0byA8Yj5DbGlwczwvYj4gLSBBSSBUb29sIC0gT3B1c0NsaXBCd1R1cm4gWm9vbSByZWNvcmRpbmdzIGludG8gY2xpcHMgcXVpY2tseSB1c2luZyBvdXIgZnJlZSBBSSB0b29sLiA8Yj5HZXQgcHJvZmVzc2lvbmFsIHJlc3VsdHMgaW4gbWludXRlczwvYj4uIFRyeSBpdCBub3cuSgFhSgJ0b1ICYnlSB3RoZSBvbmVSAmluUgJvbiICEAFIAFgAaAA",
+        "source": "OpusClip"
+      },
+      {
+        "position": 8,
+        "title": "Turn One Video Into Multiple Pieces of Content (Without ...",
+        "link": "https://www.google.com/goto?url=CAESpQEBxCJF16SH4hdxQ5PV7UrSTRzdTTiBSQaplrbdSutPlv_9EsNWj0M3RE2XZBFiDhbWJRL_nTiKws9y7uIupo_dkEIjrrl4ZCo8r4ghgttIELXnkI-JTvQrJkh0wKfL_gKluAIRq9uJnejej1hUzkzLWT-85Ajj9CQXY8rRrEOcLgke1GOqgfBFgJrfOB1w4bSiqmK71Fb_gTw4gYKvdHjIKq9Ri1s",
+        "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpQEBxCJF19T_6-rU5RKleyVyelhsXmmjFGt0VNL1A66mlN1Z0Wt-hOqkCmnpjaaqs-hjXHL30hD4FHoh0pwnoPc9PYwHdKxfo3dwVeE7sTLP-zr_pBhLB5FlXBfNeR1uc4a-adiY1PzHg4iUJSFB3BSMP43xf1jb6GcJ2xB5EeTXBlaUo5hmUDXnPnlQ133ZmRW4joq8UQHIv6VCd0izv3ttZx5Yg9w&ved=2ahUKEwiZzffqvZuYAxUPNoYAHcqUIbwQFnoECFsQAQ&uoh=1",
+        "displayed_link": "4 reactions",
+        "date": "8 months ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAm0lEQVR4AWP4__8_RRhMyLfs3sNQvOk_KRikB24ATNB2yhEQJtoQuAEwzVAAYtPVAMJe4Cjf8l-0bsd_RkIGQAGc_ej9t_-TDt_7_-vPXzD_6Yfv_-2nHSXWAAT49P33_z9__4HZl559JM2Aqm3XwXyXGcfA_H___pFmgFj9DjCfp3IrTIgkA5ADbbAbQA6mKDPp9x7YBTOAIgwAVba5DGceMlQAAAAASUVORK5CYII.png",
+        "snippet": "Record one helpful video \u00b7 Upload it into Descript \u00b7 Clean up the audio with AI \u00b7 Remove filler words and mistakes \u00b7 Create multiple short clips ...",
+        "snippet_highlighted_words": [
+          "Record one helpful video"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Record one helpful video \u00b7 Upload it into Descript \u00b7 Clean up the audio with AI \u00b7 Remove filler words and mistakes \u00b7 Create multiple short clips ...",
+            "source_info_link": "https://www.google.com/goto?url=CAESpQEBxCJF16SH4hdxQ5PV7UrSTRzdTTiBSQaplrbdSutPlv_9EsNWj0M3RE2XZBFiDhbWJRL_nTiKws9y7uIupo_dkEIjrrl4ZCo8r4ghgttIELXnkI-JTvQrJkh0wKfL_gKluAIRq9uJnejej1hUzkzLWT-85Ajj9CQXY8rRrEOcLgke1GOqgfBFgJrfOB1w4bSiqmK71Fb_gTw4gYKvdHjIKq9Ri1s",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAm0lEQVR4AWP4__8_RRhMyLfs3sNQvOk_KRikB24ATNB2yhEQJtoQuAEwzVAAYtPVAMJe4Cjf8l-0bsd_RkIGQAGc_ej9t_-TDt_7_-vPXzD_6Yfv_-2nHSXWAAT49P33_z9__4HZl559JM2Aqm3XwXyXGcfA_H___pFmgFj9DjCfp3IrTIgkA5ADbbAbQA6mKDPp9x7YBTOAIgwAVba5DGceMlQAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "GB"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cu0BL2dvdG8_dXJsPUNBRVNwUUVCeENKRjE2U0g0aGR4UTVQVjdVclNUUnpkVFRpQlNRYXBscmJkU3V0UGx2XzlFc05XajBNM1JFMlhaQkZpRGhiV0pSTF9uVGlLd3M5eTd1SXVwb19ka0VJanJybDRaQ284cjRnaGd0dElFTFhua0ktSlR2UXJKa2gwd0tmTF9nS2x1QUlScTl1Sm5lamVqMWhVemt6TFdULTg1QWpqOUNRWFk4clJyRU9jTGdrZTFHT3FnZkJGZ0pyZk9CMXc0YlNpcW1LNzFGYl9nVHc0Z1lLdmRIaklLcTlSaTFzEgQaAggAGp0IEgAaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQPkHCAAQABgAIAAqCgoDaG93FcMThD8qCQoCdG8VAAAAACpwCgR0dXJuFVzpbkAaCGFjdGl2YXRlGgdjb252ZXJ0Ggpjb252ZXJ0aW5nGgtkbyB5b3UgbWFrZRoGZW5hYmxlGgRtYWtlGgZyb3RhdGUaBnN3aXRjaBoJdHJhbnNmb3JtGgd0dXJuaW5nGgV0dXJucyoICgFhFQAAAAAqHAoBMRXXjyg_GgJhMRoHdGhlIG9uZRoFMWhvdXIqIwoEaG91chVmBgA-GgRob3JhGgVob3VycxoCaHIaBTFob3VyKgsKBHpvb20VAAAAACo-CglyZWNvcmRpbmcV6dR9PhoGcmVjb3JkGghyZWNvcmRlZBoKcmVjb3JkaW5ncxoOaXY7cDtyZWNvcmRpbmcqHQoEaW50bxUriXtAGgJieRoCaW4aAm9uGgRvbnRvKg4KATUV8YURPxoEZml2ZSoeCghsaW5rZWRpbhXrzrRAGg1saW5rZWRpbnZpZGVvKi8KBXZpZGVvFVAgukAaBnZpZGVvcxoNbGlua2VkaW52aWRlbxoKdmlkZW9jbGlwcyo2CgVjbGlwcxXG8KQ_GgRjbGlwGgVmaWxlcxoHZm9vdGFnZRoGdmVkaW9zGgp2aWRlb2NsaXBzMu0BL2dvdG8_dXJsPUNBRVNwUUVCeENKRjE2U0g0aGR4UTVQVjdVclNUUnpkVFRpQlNRYXBscmJkU3V0UGx2XzlFc05XajBNM1JFMlhaQkZpRGhiV0pSTF9uVGlLd3M5eTd1SXVwb19ka0VJanJybDRaQ284cjRnaGd0dElFTFhua0ktSlR2UXJKa2gwd0tmTF9nS2x1QUlScTl1Sm5lamVqMWhVemt6TFdULTg1QWpqOUNRWFk4clJyRU9jTGdrZTFHT3FnZkJGZ0pyZk9CMXc0YlNpcW1LNzFGYl9nVHc0Z1lLdmRIaklLcTlSaTFzOkk8Yj5UdXJuPC9iPiBPbmUgPGI-VmlkZW8gSW50bzwvYj4gTXVsdGlwbGUgUGllY2VzIG9mIENvbnRlbnQgKFdpdGhvdXQgLi4uQrwBPGI-UmVjb3JkIG9uZSBoZWxwZnVsIHZpZGVvPC9iPiAmbWlkZG90OyBVcGxvYWQgaXQgaW50byBEZXNjcmlwdCAmbWlkZG90OyBDbGVhbiB1cCB0aGUgYXVkaW8gd2l0aCBBSSAmbWlkZG90OyBSZW1vdmUgZmlsbGVyIHdvcmRzIGFuZCBtaXN0YWtlcyAmbWlkZG90OyBDcmVhdGUgbXVsdGlwbGUgc2hvcnQgY2xpcHMmbmJzcDsuLi5KAWFKAnRvUgJpblIHdGhlIG9uZVICYnlSAm9uIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cu0BL2dvdG8_dXJsPUNBRVNwUUVCeENKRjE2U0g0aGR4UTVQVjdVclNUUnpkVFRpQlNRYXBscmJkU3V0UGx2XzlFc05XajBNM1JFMlhaQkZpRGhiV0pSTF9uVGlLd3M5eTd1SXVwb19ka0VJanJybDRaQ284cjRnaGd0dElFTFhua0ktSlR2UXJKa2gwd0tmTF9nS2x1QUlScTl1Sm5lamVqMWhVemt6TFdULTg1QWpqOUNRWFk4clJyRU9jTGdrZTFHT3FnZkJGZ0pyZk9CMXc0YlNpcW1LNzFGYl9nVHc0Z1lLdmRIaklLcTlSaTFzEgQaAggAGp0IEgAaACIAKgAyBggCEgJ1azoAQgQIARAASgBaAHIAegCCQPkHCAAQABgAIAAqCgoDaG93FcMThD8qCQoCdG8VAAAAACpwCgR0dXJuFVzpbkAaCGFjdGl2YXRlGgdjb252ZXJ0Ggpjb252ZXJ0aW5nGgtkbyB5b3UgbWFrZRoGZW5hYmxlGgRtYWtlGgZyb3RhdGUaBnN3aXRjaBoJdHJhbnNmb3JtGgd0dXJuaW5nGgV0dXJucyoICgFhFQAAAAAqHAoBMRXXjyg_GgJhMRoHdGhlIG9uZRoFMWhvdXIqIwoEaG91chVmBgA-GgRob3JhGgVob3VycxoCaHIaBTFob3VyKgsKBHpvb20VAAAAACo-CglyZWNvcmRpbmcV6dR9PhoGcmVjb3JkGghyZWNvcmRlZBoKcmVjb3JkaW5ncxoOaXY7cDtyZWNvcmRpbmcqHQoEaW50bxUriXtAGgJieRoCaW4aAm9uGgRvbnRvKg4KATUV8YURPxoEZml2ZSoeCghsaW5rZWRpbhXrzrRAGg1saW5rZWRpbnZpZGVvKi8KBXZpZGVvFVAgukAaBnZpZGVvcxoNbGlua2VkaW52aWRlbxoKdmlkZW9jbGlwcyo2CgVjbGlwcxXG8KQ_GgRjbGlwGgVmaWxlcxoHZm9vdGFnZRoGdmVkaW9zGgp2aWRlb2NsaXBzMu0BL2dvdG8_dXJsPUNBRVNwUUVCeENKRjE2U0g0aGR4UTVQVjdVclNUUnpkVFRpQlNRYXBscmJkU3V0UGx2XzlFc05XajBNM1JFMlhaQkZpRGhiV0pSTF9uVGlLd3M5eTd1SXVwb19ka0VJanJybDRaQ284cjRnaGd0dElFTFhua0ktSlR2UXJKa2gwd0tmTF9nS2x1QUlScTl1Sm5lamVqMWhVemt6TFdULTg1QWpqOUNRWFk4clJyRU9jTGdrZTFHT3FnZkJGZ0pyZk9CMXc0YlNpcW1LNzFGYl9nVHc0Z1lLdmRIaklLcTlSaTFzOkk8Yj5UdXJuPC9iPiBPbmUgPGI-VmlkZW8gSW50bzwvYj4gTXVsdGlwbGUgUGllY2VzIG9mIENvbnRlbnQgKFdpdGhvdXQgLi4uQrwBPGI-UmVjb3JkIG9uZSBoZWxwZnVsIHZpZGVvPC9iPiAmbWlkZG90OyBVcGxvYWQgaXQgaW50byBEZXNjcmlwdCAmbWlkZG90OyBDbGVhbiB1cCB0aGUgYXVkaW8gd2l0aCBBSSAmbWlkZG90OyBSZW1vdmUgZmlsbGVyIHdvcmRzIGFuZCBtaXN0YWtlcyAmbWlkZG90OyBDcmVhdGUgbXVsdGlwbGUgc2hvcnQgY2xpcHMmbmJzcDsuLi5KAWFKAnRvUgJpblIHdGhlIG9uZVICYnlSAm9uIgIQAUgAWABoAA",
+        "source": "LinkedIn \u00b7 Katie Lance",
+        "read_more_link": "https://www.google.com/goto?url=CAES7QIBxCJF1wSbvH9jiPROIcz-0a58y6qz5Y0YyE2CglIGu-d1vLTrEbdnsOVpWi99F_Vn1-mvf5UGWDIRcDycsEKoHrzYxhmDfpqup13pRbPITI-1IkNuAaOSIeruLGUCcutPjZjrMIc23jnB6oLikkDDYfjcWzkP0qptYrFMERo3pOi9uGNGnIrRorYSbfm9O0UUCZUGz9Yj54wJ95pcFWpPXeTaCcvMlRG8Dp59G-VdCzYN9W57RsgWSiSSJVtK78vAd7jc7-zNlC6yAdl7q8t6Fetc6ygrHwlrw-fvZ1TjVWZl4iR-8TgsKDUpyFKq1SKOIpdvEkH_U4FZewc5imgyaYm2HUVQQKV_AkX3Da3BzMaohfAvVCw4oH-JlY9iUqXA9AoAuYi8A2Y_fgmYPaUZZXvXr2Ii3CaXxsiXKAnKDh8nrzwu0HZEjWi8uGNv1xIfavT_2KTyHNAlAzQZ6njTiuIUndBi0sSVC3ELUw&gsessionid=wPZ4VvuoCSCRSZfhMdKgvTEGcSv7oqWGqAeVs2zvPtO8f_rfJcAS8A"
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "How to trim a Zoom recording saved on My computer",
+        "link": "https://www.google.com/search?sca_esv=3def79ba49b8369a&hl=en&gl=uk&sxsrf=AKL5yDiCAeECqntv6Xk_o_FGa-5I45wrQQ:1795347288294&q=How+to+trim+a+Zoom+recording+saved+on+My+computer&sa=X&ved=2ahUKEwiZzffqvZuYAxUPNoYAHcqUIbwQ1QJ6BAhQEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+trim+a+Zoom+recording+saved+on+My+computer"
+      },
+      {
+        "block_position": 1,
+        "query": "How to edit Zoom recording on computer for free",
+        "link": "https://www.google.com/search?sca_esv=3def79ba49b8369a&hl=en&gl=uk&sxsrf=AKL5yDiCAeECqntv6Xk_o_FGa-5I45wrQQ:1795347288294&q=How+to+edit+Zoom+recording+on+computer+for+free&sa=X&ved=2ahUKEwiZzffqvZuYAxUPNoYAHcqUIbwQ1QJ6BAhXEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+edit+Zoom+recording+on+computer+for+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Zoom Clips",
+        "link": "https://www.google.com/search?sca_esv=3def79ba49b8369a&hl=en&gl=uk&sxsrf=AKL5yDiCAeECqntv6Xk_o_FGa-5I45wrQQ:1795347288294&q=Zoom+Clips&sa=X&ved=2ahUKEwiZzffqvZuYAxUPNoYAHcqUIbwQ1QJ6BAhWEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Zoom+Clips"
+      },
+      {
+        "block_position": 1,
+        "query": "How to use Zoom Clips",
+        "link": "https://www.google.com/search?sca_esv=3def79ba49b8369a&hl=en&gl=uk&sxsrf=AKL5yDiCAeECqntv6Xk_o_FGa-5I45wrQQ:1795347288294&q=How+to+use+Zoom+Clips&sa=X&ved=2ahUKEwiZzffqvZuYAxUPNoYAHcqUIbwQ1QJ6BAhTEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+use+Zoom+Clips"
+      },
+      {
+        "block_position": 1,
+        "query": "Trim Zoom recording",
+        "link": "https://www.google.com/search?sca_esv=3def79ba49b8369a&hl=en&gl=uk&sxsrf=AKL5yDiCAeECqntv6Xk_o_FGa-5I45wrQQ:1795347288294&q=Trim+Zoom+recording&sa=X&ved=2ahUKEwiZzffqvZuYAxUPNoYAHcqUIbwQ1QJ6BAhUEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Trim+Zoom+recording"
+      },
+      {
+        "block_position": 1,
+        "query": "Edit Zoom recording before sharing",
+        "link": "https://www.google.com/search?sca_esv=3def79ba49b8369a&hl=en&gl=uk&sxsrf=AKL5yDiCAeECqntv6Xk_o_FGa-5I45wrQQ:1795347288294&q=Edit+Zoom+recording+before+sharing&sa=X&ved=2ahUKEwiZzffqvZuYAxUPNoYAHcqUIbwQ1QJ6BAhREAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Edit+Zoom+recording+before+sharing"
+      },
+      {
+        "block_position": 1,
+        "query": "Zoom Clips download",
+        "link": "https://www.google.com/search?sca_esv=3def79ba49b8369a&hl=en&gl=uk&sxsrf=AKL5yDiCAeECqntv6Xk_o_FGa-5I45wrQQ:1795347288294&q=Zoom+Clips+download&sa=X&ved=2ahUKEwiZzffqvZuYAxUPNoYAHcqUIbwQ1QJ6BAhVEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Zoom+Clips+download"
+      },
+      {
+        "block_position": 1,
+        "query": "Is Zoom Clips free",
+        "link": "https://www.google.com/search?sca_esv=3def79ba49b8369a&hl=en&gl=uk&sxsrf=AKL5yDiCAeECqntv6Xk_o_FGa-5I45wrQQ:1795347288294&q=Is+Zoom+Clips+free&sa=X&ved=2ahUKEwiZzffqvZuYAxUPNoYAHcqUIbwQ1QJ6BAhSEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=Is+Zoom+Clips+free"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=How+to+turn+a+1-hour+Zoom+recording+into+5+LinkedIn+video+clips?&sca_esv=3def79ba49b8369a&hl=en&gl=uk&sxsrf=AKL5yDiCAeECqntv6Xk_o_FGa-5I45wrQQ:1795347288294&ei=WNMCa5nBEY_smLQPyqmG4Qs&start=10&sa=N&sstk=AYl2yk8QsHG9Nz8tXSKc-kH-YMmkVdy1PqnZnx2adRbsiRWNu0x8TjrZmssGgHKg1CCSR6k-_Lo12UzP2bk7OIF_CicLWbbgUFBy9g&ved=2ahUKEwiZzffqvZuYAxUPNoYAHcqUIbwQ8NMDegQIThAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=How+to+turn+a+1-hour+Zoom+recording+into+5+LinkedIn+video+clips?&sca_esv=3def79ba49b8369a&hl=en&gl=uk&sxsrf=AKL5yDiCAeECqntv6Xk_o_FGa-5I45wrQQ:1795347288294&ei=WNMCa5nBEY_smLQPyqmG4Qs&start=10&sa=N&sstk=AYl2yk8QsHG9Nz8tXSKc-kH-YMmkVdy1PqnZnx2adRbsiRWNu0x8TjrZmssGgHKg1CCSR6k-_Lo12UzP2bk7OIF_CicLWbbgUFBy9g&ved=2ahUKEwiZzffqvZuYAxUPNoYAHcqUIbwQ8tMDegQIThAE",
+        "3": "https://www.google.com/search?q=How+to+turn+a+1-hour+Zoom+recording+into+5+LinkedIn+video+clips?&sca_esv=3def79ba49b8369a&hl=en&gl=uk&sxsrf=AKL5yDiCAeECqntv6Xk_o_FGa-5I45wrQQ:1795347288294&ei=WNMCa5nBEY_smLQPyqmG4Qs&start=20&sa=N&sstk=AYl2yk8QsHG9Nz8tXSKc-kH-YMmkVdy1PqnZnx2adRbsiRWNu0x8TjrZmssGgHKg1CCSR6k-_Lo12UzP2bk7OIF_CicLWbbgUFBy9g&ved=2ahUKEwiZzffqvZuYAxUPNoYAHcqUIbwQ8tMDegQIThAG",
+        "4": "https://www.google.com/search?q=How+to+turn+a+1-hour+Zoom+recording+into+5+LinkedIn+video+clips?&sca_esv=3def79ba49b8369a&hl=en&gl=uk&sxsrf=AKL5yDiCAeECqntv6Xk_o_FGa-5I45wrQQ:1795347288294&ei=WNMCa5nBEY_smLQPyqmG4Qs&start=30&sa=N&sstk=AYl2yk8QsHG9Nz8tXSKc-kH-YMmkVdy1PqnZnx2adRbsiRWNu0x8TjrZmssGgHKg1CCSR6k-_Lo12UzP2bk7OIF_CicLWbbgUFBy9g&ved=2ahUKEwiZzffqvZuYAxUPNoYAHcqUIbwQ8tMDegQIThAI",
+        "5": "https://www.google.com/search?q=How+to+turn+a+1-hour+Zoom+recording+into+5+LinkedIn+video+clips?&sca_esv=3def79ba49b8369a&hl=en&gl=uk&sxsrf=AKL5yDiCAeECqntv6Xk_o_FGa-5I45wrQQ:1795347288294&ei=WNMCa5nBEY_smLQPyqmG4Qs&start=40&sa=N&sstk=AYl2yk8QsHG9Nz8tXSKc-kH-YMmkVdy1PqnZnx2adRbsiRWNu0x8TjrZmssGgHKg1CCSR6k-_Lo12UzP2bk7OIF_CicLWbbgUFBy9g&ved=2ahUKEwiZzffqvZuYAxUPNoYAHcqUIbwQ8tMDegQIThAK",
+        "6": "https://www.google.com/search?q=How+to+turn+a+1-hour+Zoom+recording+into+5+LinkedIn+video+clips?&sca_esv=3def79ba49b8369a&hl=en&gl=uk&sxsrf=AKL5yDiCAeECqntv6Xk_o_FGa-5I45wrQQ:1795347288294&ei=WNMCa5nBEY_smLQPyqmG4Qs&start=50&sa=N&sstk=AYl2yk8QsHG9Nz8tXSKc-kH-YMmkVdy1PqnZnx2adRbsiRWNu0x8TjrZmssGgHKg1CCSR6k-_Lo12UzP2bk7OIF_CicLWbbgUFBy9g&ved=2ahUKEwiZzffqvZuYAxUPNoYAHcqUIbwQ8tMDegQIThAM",
+        "7": "https://www.google.com/search?q=How+to+turn+a+1-hour+Zoom+recording+into+5+LinkedIn+video+clips?&sca_esv=3def79ba49b8369a&hl=en&gl=uk&sxsrf=AKL5yDiCAeECqntv6Xk_o_FGa-5I45wrQQ:1795347288294&ei=WNMCa5nBEY_smLQPyqmG4Qs&start=60&sa=N&sstk=AYl2yk8QsHG9Nz8tXSKc-kH-YMmkVdy1PqnZnx2adRbsiRWNu0x8TjrZmssGgHKg1CCSR6k-_Lo12UzP2bk7OIF_CicLWbbgUFBy9g&ved=2ahUKEwiZzffqvZuYAxUPNoYAHcqUIbwQ8tMDegQIThAO",
+        "8": "https://www.google.com/search?q=How+to+turn+a+1-hour+Zoom+recording+into+5+LinkedIn+video+clips?&sca_esv=3def79ba49b8369a&hl=en&gl=uk&sxsrf=AKL5yDiCAeECqntv6Xk_o_FGa-5I45wrQQ:1795347288294&ei=WNMCa5nBEY_smLQPyqmG4Qs&start=70&sa=N&sstk=AYl2yk8QsHG9Nz8tXSKc-kH-YMmkVdy1PqnZnx2adRbsiRWNu0x8TjrZmssGgHKg1CCSR6k-_Lo12UzP2bk7OIF_CicLWbbgUFBy9g&ved=2ahUKEwiZzffqvZuYAxUPNoYAHcqUIbwQ8tMDegQIThAQ",
+        "9": "https://www.google.com/search?q=How+to+turn+a+1-hour+Zoom+recording+into+5+LinkedIn+video+clips?&sca_esv=3def79ba49b8369a&hl=en&gl=uk&sxsrf=AKL5yDiCAeECqntv6Xk_o_FGa-5I45wrQQ:1795347288294&ei=WNMCa5nBEY_smLQPyqmG4Qs&start=80&sa=N&sstk=AYl2yk8QsHG9Nz8tXSKc-kH-YMmkVdy1PqnZnx2adRbsiRWNu0x8TjrZmssGgHKg1CCSR6k-_Lo12UzP2bk7OIF_CicLWbbgUFBy9g&ved=2ahUKEwiZzffqvZuYAxUPNoYAHcqUIbwQ8tMDegQIThAS",
+        "10": "https://www.google.com/search?q=How+to+turn+a+1-hour+Zoom+recording+into+5+LinkedIn+video+clips?&sca_esv=3def79ba49b8369a&hl=en&gl=uk&sxsrf=AKL5yDiCAeECqntv6Xk_o_FGa-5I45wrQQ:1795347288294&ei=WNMCa5nBEY_smLQPyqmG4Qs&start=90&sa=N&sstk=AYl2yk8QsHG9Nz8tXSKc-kH-YMmkVdy1PqnZnx2adRbsiRWNu0x8TjrZmssGgHKg1CCSR6k-_Lo12UzP2bk7OIF_CicLWbbgUFBy9g&ved=2ahUKEwiZzffqvZuYAxUPNoYAHcqUIbwQ8tMDegQIThAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+turn+a+1-hour+Zoom+recording+into+5+LinkedIn+video+clips%3F&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+turn+a+1-hour+Zoom+recording+into+5+LinkedIn+video+clips%3F&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+turn+a+1-hour+Zoom+recording+into+5+LinkedIn+video+clips%3F&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+turn+a+1-hour+Zoom+recording+into+5+LinkedIn+video+clips%3F&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+turn+a+1-hour+Zoom+recording+into+5+LinkedIn+video+clips%3F&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+turn+a+1-hour+Zoom+recording+into+5+LinkedIn+video+clips%3F&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+turn+a+1-hour+Zoom+recording+into+5+LinkedIn+video+clips%3F&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+turn+a+1-hour+Zoom+recording+into+5+LinkedIn+video+clips%3F&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+turn+a+1-hour+Zoom+recording+into+5+LinkedIn+video+clips%3F&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+turn+a+1-hour+Zoom+recording+into+5+LinkedIn+video+clips%3F&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=uk&google_domain=google.com&hl=en&q=How+to+turn+a+1-hour+Zoom+recording+into+5+LinkedIn+video+clips%3F&start=90"
+      }
+    }
+  },
+  "error_details": null
+}
