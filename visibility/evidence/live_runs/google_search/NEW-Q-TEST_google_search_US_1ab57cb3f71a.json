@@ -1,0 +1,561 @@
+{
+  "measurement_id": "1ab57cb3f71a",
+  "question_id": "NEW-Q-TEST",
+  "timestamp_utc": "2026-11-23T13:43:32.053573+00:00",
+  "provider_name": "Google Search",
+  "model_identifier": "serpapi-google-engine",
+  "question": "What are the best automated AI video clipping tools for Twitch streamers in 2026?",
+  "market": "US",
+  "collection_method": "API_AUTOMATED",
+  "execution_status": "SUCCESS",
+  "incubrix_mentioned": false,
+  "competitors_mentioned": [
+    "Opus Clip"
+  ],
+  "position": null,
+  "citations": [
+    "https://eklipse.gg/",
+    "https://www.reddit.com/r/TwitchStreaming/comments/1slmxh4/what_is_the_best_ai_clippertool/",
+    "https://www.vmaker.com/tools/ai-twitch-clip-maker",
+    "https://www.youtube.com/watch?v=oLg-TMlKUKA",
+    "https://streamgen.cc/blog/ai-clip-maker/",
+    "https://presenc.ai/research/best-ai-tools-for-twitch-streamers-2026",
+    "https://nexusclips.com/twitch/free-automatic-twitch-clips",
+    "https://makeaivideo.ai/blog/best-twitch-clip-makers-2026",
+    "https://viddyflow.com/blog/best-ai-tools-for-twitch-streamers/"
+  ],
+  "raw_text_summary": "Eklipse: AI Clip Maker for Streamers \u2013 Streams to Shorts Eklipse turns your Twitch, YouTube and Kick streams into vertical clips with captions, then schedules them to TikTok, Reels and Shorts. No editing needed. What is the best AI clipper/tool? : r/TwitchStreaming klypse.app opus.pro and vizard.ai are the best ones, tools like opus clip and streamladder are pretty popular right now. FrostyTools is great. Free AI Twitch Clip Maker for Viral Stream Clips Vmaker AI's free Twitch clip maker turns long streams and VODs into viral vertical clips for TikTok, YouTube Shorts, and Reels. Try it for free. I Let an AI Run My Twitch Clips for 7 Days\u2026 Here's What ... I explored how various AI tools managed video editing, clipping, and uploading, Best AI Video Editing Tools in 2026 (Don't Choose Wrong) 10 AI Clip Maker Tools for Streamers in 2026 Compare 10 AI clip maker tools for streamers, including features, pricing notes, strengths, limitations, and practical recommendations. Best AI Tools for Twitch Streamers (2026) OBS Studio with NVIDIA RTX AI plugins is the most capable free option for streamers who have compatible hardware, providing AI background removal and auto- ... Free Automatic Clip Maker for Twitch Nexus Clips is your ultimate solution for generating automatic Twitch clips for free. AI automatically identifies and extracts the clips from your streams, ... Best Twitch Clip Maker (2026): 14 AI Tools Ranked The best twitch clip maker for 2026, ranked. 14 AI tools tested on VOD auto-detection, vertical crop, captions, and cost for streamers. AI Tools for Streamers: The Best Picks for Twitch in 2026 AI clip and highlight generators: turn your VODs into highlight videos and vertical shorts (ViddyFlow, OpusClip, Eklipse). AI chat moderation: ...",
+  "raw_payload": {
+    "search_metadata": {
+      "id": "6b044301f5b69876b1277df1",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/bzWmwJ0hG4MvcpX_fV7YRjm0wJJ-o08MROoy70oxCWg/6b044301f5b69876b1277df1.json",
+      "markdown_endpoint": "https://serpapi.com/searches/bzWmwJ0hG4MvcpX_fV7YRjm0wJJ-o08MROoy70oxCWg/6b044301f5b69876b1277df1.md",
+      "pixel_position_endpoint": "https://serpapi.com/searches/bzWmwJ0hG4MvcpX_fV7YRjm0wJJ-o08MROoy70oxCWg/6b044301f5b69876b1277df1.json_with_pixel_position",
+      "created_at": "2026-11-23 13:43:29 UTC",
+      "processed_at": "2026-11-23 13:43:29 UTC",
+      "google_url": "https://www.google.com/search?q=What+are+the+best+automated+AI+video+clipping+tools+for+Twitch+streamers+in+2026%3F&oq=What+are+the+best+automated+AI+video+clipping+tools+for+Twitch+streamers+in+2026%3F&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/bzWmwJ0hG4MvcpX_fV7YRjm0wJJ-o08MROoy70oxCWg/6b044301f5b69876b1277df1.html",
+      "total_time_taken": 0.86
+    },
+    "search_parameters": {
+      "engine": "google",
+      "q": "What are the best automated AI video clipping tools for Twitch streamers in 2026?",
+      "google_domain": "google.com",
+      "hl": "en",
+      "gl": "us",
+      "device": "desktop"
+    },
+    "search_information": {
+      "query_displayed": "What are the best automated AI video clipping tools for Twitch streamers in 2026?",
+      "total_results": 128,
+      "time_taken_displayed": 0.23,
+      "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+      {
+        "question": "What is the best AI clip generator for Twitch?",
+        "type": "ai_overview",
+        "page_token": "ysbMXHicHdBfbtowHABgVdpZ-lhiu-1WJDQtkJRGkNaOf86fl8qxA4E4JBAXBx53lj31MD3ATjNp3xG-33_M7tD8vTnX1vbDdDJxzt1tu25rqjvVtRM5XA5qoqQxpVTN9PH7I_q5UbPg48WfH198CizIjTapaMai6VGyjJ_5DtkyRYMi2wfeUrSCYsEzNqyyCHT4lCbilyewdtWyXsTP432Mx4GZGmtSh0krjmUTQREUuQabJV7vUhNeeMvi4hoDa-M49oRUwu8oYg72US6yImPXKKmaIljj8FVf_fuVYBnD_T5d9meKLU1S60oMGEiEy71_SYAd15wd1ng8FYiOJYEHhgqTYfEGqCdBrX3poTDnZhQNW1VZjnj7REsijiK1PmfdjkL9ug6AMF67GKKhnHtWiuhDwrhQixAg_OHUUhEdRAHQ2406z8jt_8_Z-6a10_7UbT_VqZK20u_SfjXf5jf_AH4MiK4",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ysbMXHicHdBfbtowHABgVdpZ-lhiu-1WJDQtkJRGkNaOf86fl8qxA4E4JBAXBx53lj31MD3ATjNp3xG-33_M7tD8vTnX1vbDdDJxzt1tu25rqjvVtRM5XA5qoqQxpVTN9PH7I_q5UbPg48WfH198CizIjTapaMai6VGyjJ_5DtkyRYMi2wfeUrSCYsEzNqyyCHT4lCbilyewdtWyXsTP432Mx4GZGmtSh0krjmUTQREUuQabJV7vUhNeeMvi4hoDa-M49oRUwu8oYg72US6yImPXKKmaIljj8FVf_fuVYBnD_T5d9meKLU1S60oMGEiEy71_SYAd15wd1ng8FYiOJYEHhgqTYfEGqCdBrX3poTDnZhQNW1VZjnj7REsijiK1PmfdjkL9ug6AMF67GKKhnHtWiuhDwrhQixAg_OHUUhEdRAHQ2406z8jt_8_Z-6a10_7UbT_VqZK20u_SfjXf5jf_AH4MiK4",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWNFUmxhM2hNTW14S2QxUlJlbkJLUlVKbE1WWnpZUzE0TkdaemNXaFhhVFEyYWpKNGRYUlBRbWRyWVZoUWFrVXphR3N6YWw5bGRIcFhSVmQ1UnpOaU5GSXdTVk52ZFc5aGNXeFZiRGRxV1dkcGIzZDZOVVZSTUVWdlp4SVhRV3ROUldFNWNWWkVTM2wyTlU1dlVHOTFhbFZyUVUwYUlrRklUakJGTjBWUkxUZEZlRE0xZVU4NGVWUTFlRlJTYUUxeWNXNURWVlJuY25jIiwiZmN2IjoiMyIsImVpIjoiQWtNRWE5cVZES3l2NU5vUG91alVrQU0iLCJxYyI6ImN3M0hRUTVBTUJBRlVHc3JpUXY4STRpRnBUaUNLd3lHVHRKMm1uYXdjbUduNE8xZVBkLU9ESlFaNWhnTGx6LW5hU0RqRFNTNFpHUEY2aVVsaVFkTTFSZnNtbUczMk9wUUxETUZ6Z1VTMFhmOTBGVFAxTDdqQnciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgQUkgY2xpcCBnZW5lcmF0b3IgZm9yIFR3aXRjaD8iLCJsayI6IkdpRmlaWE4wSUdGcElHTnNhWEFnWjJWdVpYSmhkRzl5SUdadmNpQjBkMmwwWTJnIiwiYnMiOiJjNDNOTVF2Q01CQUZZRnh2Y282b0o0cWJndjBEUlRwMTZhUTRPTVY2YlFKdFVwTFQ2ci0zQm5ReGc4Tk45NzMzNEFqYms1S00yaU1yd2d0NXhuMk9aYU03ck1tUWsyd2RWc01kZXMybFNwT2xXQVFsZFV4eFVGREFKbGJMMWphQnZaT2ROalhlOVpXc1Q1T3BtSHhhSTM4NHctNm43MnU4cmJpWGprTFNzeVBaa2hzNjEyTDFENFFNNXJuSGdoNDNqOWxnUGZiV3NRcExyVFgwVEJNVXMySGFCRkxHeUhqMEFnIiwiaWQiOiJmY19Ba01FYTlxVkRLeXY1Tm9Qb3VqVWtBTV81In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWNFUmxhM2hNTW14S2QxUlJlbkJLUlVKbE1WWnpZUzE0TkdaemNXaFhhVFEyYWpKNGRYUlBRbWRyWVZoUWFrVXphR3N6YWw5bGRIcFhSVmQ1UnpOaU5GSXdTVk52ZFc5aGNXeFZiRGRxV1dkcGIzZDZOVVZSTUVWdlp4SVhRV3ROUldFNWNWWkVTM2wyTlU1dlVHOTFhbFZyUVUwYUlrRklUakJGTjBWUkxUZEZlRE0xZVU4NGVWUTFlRlJTYUUxeWNXNURWVlJuY25jIiwiZmN2IjoiMyIsImVpIjoiQWtNRWE5cVZES3l2NU5vUG91alVrQU0iLCJxYyI6ImN3M0hRUTVBTUJBRlVHc3JpUXY4STRpRnBUaUNLd3lHVHRKMm1uYXdjbUduNE8xZVBkLU9ESlFaNWhnTGx6LW5hU0RqRFNTNFpHUEY2aVVsaVFkTTFSZnNtbUczMk9wUUxETUZ6Z1VTMFhmOTBGVFAxTDdqQnciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgQUkgY2xpcCBnZW5lcmF0b3IgZm9yIFR3aXRjaD8iLCJsayI6IkdpRmlaWE4wSUdGcElHTnNhWEFnWjJWdVpYSmhkRzl5SUdadmNpQjBkMmwwWTJnIiwiYnMiOiJjNDNOTVF2Q01CQUZZRnh2Y282b0o0cWJndjBEUlRwMTZhUTRPTVY2YlFKdFVwTFQ2ci0zQm5ReGc4Tk45NzMzNEFqYms1S00yaU1yd2d0NXhuMk9aYU03ck1tUWsyd2RWc01kZXMybFNwT2xXQVFsZFV4eFVGREFKbGJMMWphQnZaT2ROalhlOVpXc1Q1T3BtSHhhSTM4NHctNm43MnU4cmJpWGprTFNzeVBaa2hzNjEyTDFENFFNNXJuSGdoNDNqOWxnUGZiV3NRcExyVFgwVEJNVXMySGFCRkxHeUhqMEFnIiwiaWQiOiJmY19Ba01FYTlxVkRLeXY1Tm9Qb3VqVWtBTV81In0%3D"
+      },
+      {
+        "question": "What is the best AI tool for clipping videos?",
+        "type": "ai_overview",
+        "page_token": "iz9UhnicHdBJbsIwFABQIfUsLCFmaoWEKgE2oxPh2N8kG-TEgRA7AxCRwrJn6aqH6QF6mkp9R3ifX_ZcmN_WPq3r6jbudpum6ZzK8mSTTlzmXXV7FHE3VtZGKjbj0esIvR_jCb4101nZTHeC4cBqK0FvGU8vLgKPLUMqLMMir2aRRL5cpn3hkG2YwUXnu9qTeq56VT-WjEY-YtoBG5m6BGwXHneFW7BRsoBZwOmQYYu4qeY-aMEcHVDnrZGGfoQ9sldi7QcZyUM8LOkzGNBnWLqEOmIJGwl2Az02cvPBMzQodA0UW6Fl0GdGFSuk-cknDrlyAam3J5Lheqgz8CI0vWtZgXKIuzivpz4eNIxrQjOSJYVFDNY3f4kfVDIWFatmC8Ez5KnlGRTtY3yf9Nv_Y5PDMa_H1bU8fcfXRNWJPqj6x7zMWn_kFH7j",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=iz9UhnicHdBJbsIwFABQIfUsLCFmaoWEKgE2oxPh2N8kG-TEgRA7AxCRwrJn6aqH6QF6mkp9R3ifX_ZcmN_WPq3r6jbudpum6ZzK8mSTTlzmXXV7FHE3VtZGKjbj0esIvR_jCb4101nZTHeC4cBqK0FvGU8vLgKPLUMqLMMir2aRRL5cpn3hkG2YwUXnu9qTeq56VT-WjEY-YtoBG5m6BGwXHneFW7BRsoBZwOmQYYu4qeY-aMEcHVDnrZGGfoQ9sldi7QcZyUM8LOkzGNBnWLqEOmIJGwl2Az02cvPBMzQodA0UW6Fl0GdGFSuk-cknDrlyAam3J5Lheqgz8CI0vWtZgXKIuzivpz4eNIxrQjOSJYVFDNY3f4kfVDIWFatmC8Ez5KnlGRTtY3yf9Nv_Y5PDMa_H1bU8fcfXRNWJPqj6x7zMWn_kFH7j",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWNFUmxhM2hNTW14S2QxUlJlbkJLUlVKbE1WWnpZUzE0TkdaemNXaFhhVFEyYWpKNGRYUlBRbWRyWVZoUWFrVXphR3N6YWw5bGRIcFhSVmQ1UnpOaU5GSXdTVk52ZFc5aGNXeFZiRGRxV1dkcGIzZDZOVVZSTUVWdlp4SVhRV3ROUldFNWNWWkVTM2wyTlU1dlVHOTFhbFZyUVUwYUlrRklUakJGTjBWUkxUZEZlRE0xZVU4NGVWUTFlRlJTYUUxeWNXNURWVlJuY25jIiwiZmN2IjoiMyIsImVpIjoiQWtNRWE5cVZES3l2NU5vUG91alVrQU0iLCJxYyI6ImN3M0hRUTVBTUJBRlVHc3JpUXY4STRpRnBUaUNLd3lHVHRKMm1uYXdjbUduNE8xZVBkLU9ESlFaNWhnTGx6LW5hU0RqRFNTNFpHUEY2aVVsaVFkTTFSZnNtbUczMk9wUUxETUZ6Z1VTMFhmOTBGVFAxTDdqQnciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgQUkgdG9vbCBmb3IgY2xpcHBpbmcgdmlkZW9zPyIsImxrIjoiR2h0aVpYTjBJR0ZwSUdadmNpQmpiR2x3Y0dsdVp5QjJhV1JsYjNNIiwiYnMiOiJjNDNOTVF2Q01CQUZZRnh2Y282b0o0cWJndjBEUlRwMTZhUTRPTVY2YlFKdFVwTFQ2ci0zQm5ReGc4Tk45NzMzNEFqYms1S00yaU1yd2d0NXhuMk9aYU03ck1tUWsyd2RWc01kZXMybFNwT2xXQVFsZFV4eFVGREFKbGJMMWphQnZaT2ROalhlOVpXc1Q1T3BtSHhhSTM4NHctNm43MnU4cmJpWGprTFNzeVBaa2hzNjEyTDFENFFNNXJuSGdoNDNqOWxnUGZiV3NRcExyVFgwVEJNVXMySGFCRkxHeUhqMEFnIiwiaWQiOiJmY19Ba01FYTlxVkRLeXY1Tm9Qb3VqVWtBTV81In0=",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWNFUmxhM2hNTW14S2QxUlJlbkJLUlVKbE1WWnpZUzE0TkdaemNXaFhhVFEyYWpKNGRYUlBRbWRyWVZoUWFrVXphR3N6YWw5bGRIcFhSVmQ1UnpOaU5GSXdTVk52ZFc5aGNXeFZiRGRxV1dkcGIzZDZOVVZSTUVWdlp4SVhRV3ROUldFNWNWWkVTM2wyTlU1dlVHOTFhbFZyUVUwYUlrRklUakJGTjBWUkxUZEZlRE0xZVU4NGVWUTFlRlJTYUUxeWNXNURWVlJuY25jIiwiZmN2IjoiMyIsImVpIjoiQWtNRWE5cVZES3l2NU5vUG91alVrQU0iLCJxYyI6ImN3M0hRUTVBTUJBRlVHc3JpUXY4STRpRnBUaUNLd3lHVHRKMm1uYXdjbUduNE8xZVBkLU9ESlFaNWhnTGx6LW5hU0RqRFNTNFpHUEY2aVVsaVFkTTFSZnNtbUczMk9wUUxETUZ6Z1VTMFhmOTBGVFAxTDdqQnciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgQUkgdG9vbCBmb3IgY2xpcHBpbmcgdmlkZW9zPyIsImxrIjoiR2h0aVpYTjBJR0ZwSUdadmNpQmpiR2x3Y0dsdVp5QjJhV1JsYjNNIiwiYnMiOiJjNDNOTVF2Q01CQUZZRnh2Y282b0o0cWJndjBEUlRwMTZhUTRPTVY2YlFKdFVwTFQ2ci0zQm5ReGc4Tk45NzMzNEFqYms1S00yaU1yd2d0NXhuMk9aYU03ck1tUWsyd2RWc01kZXMybFNwT2xXQVFsZFV4eFVGREFKbGJMMWphQnZaT2ROalhlOVpXc1Q1T3BtSHhhSTM4NHctNm43MnU4cmJpWGprTFNzeVBaa2hzNjEyTDFENFFNNXJuSGdoNDNqOWxnUGZiV3NRcExyVFgwVEJNVXMySGFCRkxHeUhqMEFnIiwiaWQiOiJmY19Ba01FYTlxVkRLeXY1Tm9Qb3VqVWtBTV81In0%3D"
+      },
+      {
+        "question": "What is the best clipping software for streamers?",
+        "type": "ai_overview",
+        "page_token": "8GZ46nicHdDPbtowHABgVdqz9FicpDAFCU0LOBDWBPyr7fy5VIkdMNiQQE0Tcuyz7LSH2QPsaTbt9p2_z5_mcNZ_Hj6Ute37dDTquu5p3zR7Uz-J5jQq3-9nMRKlMVUp9HTydeJ824kZvkXB_BIFhAHOjTQ5lfdq6W9z13eTAQ-wSJrYK8Yklbt66dzYYLYxShLm8XmGkss_30S6XhWrggrkHys36iQzWLo9FphfIDQYsNy-Lv2Wes2z0OBUOpnThbY8U5MyLX7k2qINVU65CDjhwVWY9cAQuQu3V7DQrmD2QPl3r2LjV7ksGjkoiJ02qqnqijCgceoTifqsctsIEGw2K_1MUxgDhjNWMiiRE-bU9FzDS53lDj35pPL4hac2oNAcCFObGDMPdLgmDDsQRig_hgVJ_RfC-qvMiiM1KowpRIw87sTHzHv8_zl7253stL02-1_iWpe2lm-l_a2_zB_-Ah0lhzc",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=8GZ46nicHdDPbtowHABgVdqz9FicpDAFCU0LOBDWBPyr7fy5VIkdMNiQQE0Tcuyz7LSH2QPsaTbt9p2_z5_mcNZ_Hj6Ute37dDTquu5p3zR7Uz-J5jQq3-9nMRKlMVUp9HTydeJ824kZvkXB_BIFhAHOjTQ5lfdq6W9z13eTAQ-wSJrYK8Yklbt66dzYYLYxShLm8XmGkss_30S6XhWrggrkHys36iQzWLo9FphfIDQYsNy-Lv2Wes2z0OBUOpnThbY8U5MyLX7k2qINVU65CDjhwVWY9cAQuQu3V7DQrmD2QPl3r2LjV7ksGjkoiJ02qqnqijCgceoTifqsctsIEGw2K_1MUxgDhjNWMiiRE-bU9FzDS53lDj35pPL4hac2oNAcCFObGDMPdLgmDDsQRig_hgVJ_RfC-qvMiiM1KowpRIw87sTHzHv8_zl7253stL02-1_iWpe2lm-l_a2_zB_-Ah0lhzc",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWNFUmxhM2hNTW14S2QxUlJlbkJLUlVKbE1WWnpZUzE0TkdaemNXaFhhVFEyYWpKNGRYUlBRbWRyWVZoUWFrVXphR3N6YWw5bGRIcFhSVmQ1UnpOaU5GSXdTVk52ZFc5aGNXeFZiRGRxV1dkcGIzZDZOVVZSTUVWdlp4SVhRV3ROUldFNWNWWkVTM2wyTlU1dlVHOTFhbFZyUVUwYUlrRklUakJGTjBWUkxUZEZlRE0xZVU4NGVWUTFlRlJTYUUxeWNXNURWVlJuY25jIiwiZmN2IjoiMyIsImVpIjoiQWtNRWE5cVZES3l2NU5vUG91alVrQU0iLCJxYyI6ImN3M0hRUTVBTUJBRlVHc3JpUXY4STRpRnBUaUNLd3lHVHRKMm1uYXdjbUduNE8xZVBkLU9ESlFaNWhnTGx6LW5hU0RqRFNTNFpHUEY2aVVsaVFkTTFSZnNtbUczMk9wUUxETUZ6Z1VTMFhmOTBGVFAxTDdqQnciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgY2xpcHBpbmcgc29mdHdhcmUgZm9yIHN0cmVhbWVycz8iLCJsayI6IkdpUmlaWE4wSUdOc2FYQndhVzVuSUhOdlpuUjNZWEpsSUdadmNpQnpkSEpsWVcxbGNuTSIsImJzIjoiYzQzTk1RdkNNQkFGWUZ4dmNvNm9KNHFiZ3YwRFJUcDE2YVE0T01WNmJRSnRVcExUNnItM0JuUXhnOE5OOTczMzRBamJrNUtNMmlNcndndDV4bjJPWmFNN3JNbVFrMndkVnNNZGVzMmxTcE9sV0FRbGRVeHhVRkRBSmxiTDFqYUJ2Wk9kTmpYZTlaV3NUNU9wbUh4YUkzODR3LTZuNzJ1OHJiaVhqa0xTc3lQWmtoczYxMkwxRDRRTTVybkhnaDQzajlsZ1BmYldzUXBMclRYMFRCTVVzMkhhQkZMR3lIajBBZyIsImlkIjoiZmNfQWtNRWE5cVZES3l2NU5vUG91alVrQU1fNSJ9",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWNFUmxhM2hNTW14S2QxUlJlbkJLUlVKbE1WWnpZUzE0TkdaemNXaFhhVFEyYWpKNGRYUlBRbWRyWVZoUWFrVXphR3N6YWw5bGRIcFhSVmQ1UnpOaU5GSXdTVk52ZFc5aGNXeFZiRGRxV1dkcGIzZDZOVVZSTUVWdlp4SVhRV3ROUldFNWNWWkVTM2wyTlU1dlVHOTFhbFZyUVUwYUlrRklUakJGTjBWUkxUZEZlRE0xZVU4NGVWUTFlRlJTYUUxeWNXNURWVlJuY25jIiwiZmN2IjoiMyIsImVpIjoiQWtNRWE5cVZES3l2NU5vUG91alVrQU0iLCJxYyI6ImN3M0hRUTVBTUJBRlVHc3JpUXY4STRpRnBUaUNLd3lHVHRKMm1uYXdjbUduNE8xZVBkLU9ESlFaNWhnTGx6LW5hU0RqRFNTNFpHUEY2aVVsaVFkTTFSZnNtbUczMk9wUUxETUZ6Z1VTMFhmOTBGVFAxTDdqQnciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgY2xpcHBpbmcgc29mdHdhcmUgZm9yIHN0cmVhbWVycz8iLCJsayI6IkdpUmlaWE4wSUdOc2FYQndhVzVuSUhOdlpuUjNZWEpsSUdadmNpQnpkSEpsWVcxbGNuTSIsImJzIjoiYzQzTk1RdkNNQkFGWUZ4dmNvNm9KNHFiZ3YwRFJUcDE2YVE0T01WNmJRSnRVcExUNnItM0JuUXhnOE5OOTczMzRBamJrNUtNMmlNcndndDV4bjJPWmFNN3JNbVFrMndkVnNNZGVzMmxTcE9sV0FRbGRVeHhVRkRBSmxiTDFqYUJ2Wk9kTmpYZTlaV3NUNU9wbUh4YUkzODR3LTZuNzJ1OHJiaVhqa0xTc3lQWmtoczYxMkwxRDRRTTVybkhnaDQzajlsZ1BmYldzUXBMclRYMFRCTVVzMkhhQkZMR3lIajBBZyIsImlkIjoiZmNfQWtNRWE5cVZES3l2NU5vUG91alVrQU1fNSJ9"
+      },
+      {
+        "question": "Is Nexus Clips worth the money?",
+        "type": "ai_overview",
+        "page_token": "EPLkRnicHdBdbpswAABgVdpZ-thgqDolUlSVxORnAWTjH-ClMjbBCTaE1g0kjzvLnnaYHWCnmbTvCN_PX-bUtX8frtq5y-diNhvH8anp-8bUT7K3M_F56-RMCmMqIdvFy_cX8HqUS_i1C1fDLkQUw8Iow88QKO6BjKsfdK3PfDMPkQ8KxE3PrefxdrqJdZIquC-V7wZEsI1z7KWbpIu3hcvu6oDvxR2BN1cYOSXnNxezklHe3jDVmgSxzxkbOFRtyVWPc3xV2-RLUnUQgTmxVo0FC6MqZyWJ8JCt9bOiUYZAPGE631LbTJl1XQb1inKd1XCyKafP1eYCK6t3eLvv6jz2RND45Iwx1CoUHogKYibW4kOdF4DYOaoCNjDuQoL7E6I6jSENMEm6DCAvy5Oe-vsUdfsTZlF0ICYhUVLG_mVTjo9HeV0Gj_8_l-9H6xaXj775LT9q4Wr1Ltyf9tvq4R83L4mV",
+        "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=EPLkRnicHdBdbpswAABgVdpZ-thgqDolUlSVxORnAWTjH-ClMjbBCTaE1g0kjzvLnnaYHWCnmbTvCN_PX-bUtX8frtq5y-diNhvH8anp-8bUT7K3M_F56-RMCmMqIdvFy_cX8HqUS_i1C1fDLkQUw8Iow88QKO6BjKsfdK3PfDMPkQ8KxE3PrefxdrqJdZIquC-V7wZEsI1z7KWbpIu3hcvu6oDvxR2BN1cYOSXnNxezklHe3jDVmgSxzxkbOFRtyVWPc3xV2-RLUnUQgTmxVo0FC6MqZyWJ8JCt9bOiUYZAPGE631LbTJl1XQb1inKd1XCyKafP1eYCK6t3eLvv6jz2RND45Iwx1CoUHogKYibW4kOdF4DYOaoCNjDuQoL7E6I6jSENMEm6DCAvy5Oe-vsUdfsTZlF0ICYhUVLG_mVTjo9HeV0Gj_8_l-9H6xaXj775LT9q4Wr1Ltyf9tvq4R83L4mV",
+        "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWNFUmxhM2hNTW14S2QxUlJlbkJLUlVKbE1WWnpZUzE0TkdaemNXaFhhVFEyYWpKNGRYUlBRbWRyWVZoUWFrVXphR3N6YWw5bGRIcFhSVmQ1UnpOaU5GSXdTVk52ZFc5aGNXeFZiRGRxV1dkcGIzZDZOVVZSTUVWdlp4SVhRV3ROUldFNWNWWkVTM2wyTlU1dlVHOTFhbFZyUVUwYUlrRklUakJGTjBWUkxUZEZlRE0xZVU4NGVWUTFlRlJTYUUxeWNXNURWVlJuY25jIiwiZmN2IjoiMyIsImVpIjoiQWtNRWE5cVZES3l2NU5vUG91alVrQU0iLCJxYyI6ImN3M0hRUTVBTUJBRlVHc3JpUXY4STRpRnBUaUNLd3lHVHRKMm1uYXdjbUduNE8xZVBkLU9ESlFaNWhnTGx6LW5hU0RqRFNTNFpHUEY2aVVsaVFkTTFSZnNtbUczMk9wUUxETUZ6Z1VTMFhmOTBGVFAxTDdqQnciLCJxdWVzdGlvbiI6IklzIE5leHVzIENsaXBzIHdvcnRoIHRoZSBtb25leT8iLCJsayI6IkdoNXBjeUJ1WlhoMWN5QmpiR2x3Y3lCM2IzSjBhQ0IwYUdVZ2JXOXVaWGsiLCJicyI6ImM0M05NUXZDTUJBRllGeHZjbzZvSjRxYmd2MERSVHAxNmFRNE9NVjZiUUp0VXBMVDZyLTNCblF4ZzhOTjk3MzM0QWpiazVLTTJpTXJ3Z3Q1eG4yT1phTTdyTW1RazJ3ZFZzTWRlczJsU3BPbFdBUWxkVXh4VUZEQUpsYkwxamFCdlpPZE5qWGU5WldzVDVPcG1IeGFJMzg0dy02bjcydThyYmlYamtMU3N5UFpraHM2MTJMMUQ0UU01cm5IZ2g0M2o5bGdQZmJXc1FwTHJUWDBUQk1VczJIYUJGTEd5SGowQWciLCJpZCI6ImZjX0FrTUVhOXFWREt5djVOb1BvdWpVa0FNXzUifQ==",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaWNFUmxhM2hNTW14S2QxUlJlbkJLUlVKbE1WWnpZUzE0TkdaemNXaFhhVFEyYWpKNGRYUlBRbWRyWVZoUWFrVXphR3N6YWw5bGRIcFhSVmQ1UnpOaU5GSXdTVk52ZFc5aGNXeFZiRGRxV1dkcGIzZDZOVVZSTUVWdlp4SVhRV3ROUldFNWNWWkVTM2wyTlU1dlVHOTFhbFZyUVUwYUlrRklUakJGTjBWUkxUZEZlRE0xZVU4NGVWUTFlRlJTYUUxeWNXNURWVlJuY25jIiwiZmN2IjoiMyIsImVpIjoiQWtNRWE5cVZES3l2NU5vUG91alVrQU0iLCJxYyI6ImN3M0hRUTVBTUJBRlVHc3JpUXY4STRpRnBUaUNLd3lHVHRKMm1uYXdjbUduNE8xZVBkLU9ESlFaNWhnTGx6LW5hU0RqRFNTNFpHUEY2aVVsaVFkTTFSZnNtbUczMk9wUUxETUZ6Z1VTMFhmOTBGVFAxTDdqQnciLCJxdWVzdGlvbiI6IklzIE5leHVzIENsaXBzIHdvcnRoIHRoZSBtb25leT8iLCJsayI6IkdoNXBjeUJ1WlhoMWN5QmpiR2x3Y3lCM2IzSjBhQ0IwYUdVZ2JXOXVaWGsiLCJicyI6ImM0M05NUXZDTUJBRllGeHZjbzZvSjRxYmd2MERSVHAxNmFRNE9NVjZiUUp0VXBMVDZyLTNCblF4ZzhOTjk3MzM0QWpiazVLTTJpTXJ3Z3Q1eG4yT1phTTdyTW1RazJ3ZFZzTWRlczJsU3BPbFdBUWxkVXh4VUZEQUpsYkwxamFCdlpPZE5qWGU5WldzVDVPcG1IeGFJMzg0dy02bjcydThyYmlYamtMU3N5UFpraHM2MTJMMUQ0UU01cm5IZ2g0M2o5bGdQZmJXc1FwTHJUWDBUQk1VczJIYUJGTEd5SGowQWciLCJpZCI6ImZjX0FrTUVhOXFWREt5djVOb1BvdWpVa0FNXzUifQ%3D%3D"
+      }
+    ],
+    "ai_overview": {
+      "page_token": "ZQpy63iczVbNkqJIEI6N2OO-xnJhxh9s_zqC6KjCUpFuBX_bvhgIWCAgLYUyepxn2dM-zD7APs0WoDY4ON29l92MgKIqszKzMvOr5PsfjrWx__7NNoPgldwXi2EYFrDnYccoaJ5bVMlhoxVXnkN8zXwg3s7XDF4zfc81Ct6SMR3e2DDY4XeESZiWfmIzhz1fYTTClxjD4oH9hNTmdtqSDvtq35O93Xpigycm1s8vliox1tT8tzUpLor0Zf9eadFJgRSMTeG5KdfVejvk5EaBK3GVwqCoulQA_LeEIBAxHW0A8M_koPJRjQrVg4BwvR-heEytP4HIpggEMeHcsj-KlEY7BRh7TJ8BWMGE2T9LTcR3_EIApWYEpNyBYmLiU3Q5yeR64TblHFFMfIPnObrm5dGTmBERsAC7YUo9ut6gAEFJ7wBe4o4cGiIwXfxe8CLVSgirEnjz9GckeDXBWYIQCEUd0yovFZc-HcpFSzO1-MMnUfEL42bJ65BjebpdqS_2pkuGg9JeqQ4rgTGt2wQUtSWVczxVN_SFuSg9xPMyx3H1eql-9yVGnUYusCNp2B0Ph7vn7XjdFe3CY2F2hlw2OtdpU0QxN_AY4lMor896_hgCKcuBV_m2M5bbp9EE0FOo2gxTkdBjWoiipdUCrQZOq3zbIeRCLucUMeRQkv6LApxVRq3PARrl2YlokKs2ty5gDPJY4_miS2IixtJXobSiuwODSx130sz4hGhCeSiG3NRAANNPPAyBBC-qsCgq2W0pQkler7KL3o4XeSVSKYjptQh6T5MevR8hTWyySQEQni4awXxTE9tIXS_X-sHjj1dD54eVGyR-5F5JvDhj7AoyaaghGTyDVp_bzqdu29ZbHWKPV123350rOB9anrv8REvT_u_gO_c751RlN8EXWfoQ-BScD75b_Q4JCfgE-3S0tLKIRgn48vudfJbK9rsc8CGIUuBL-h20oreY1-8-D77O--DLxCsFvrd-lwGfeAt8Ub_LgE_onftdPvgu_e4Mvn_b74TP97sYg0YyZJvfbo1vNsGu8HVRG5R3I-5FgWplu1LkgSmTY8Pi3m-CKze4d1Xd-bKw9HvI9YKD_mVBF7x7Q2e2_MxUA1b1DTYwDXZpEDrZBZ6rBobOApHdW7rhsZpjvb5aG8wGHv1TZleez45DK9BMlgS-obqGT1hrw1Kg1x4Y1_E9vqTWuIb8jVhEfdnNJSuQD0MD9bgxLkuTg6YfdaturcYqnImNuqQ7vVYTjNbhtN1uP1a7i4E8VuaNZ3OO7tTDahp-bXUMOKkNGxspaJh4X-nOdDxVuuXtYSf5x0CY7Vujbu15uThW9-5L70VQ2m31bjR4VWJ_CN_QNsv-RpIDYjOur_E083cY9BUwA0AFMAQ9WloSgMMtHR9pZpceLd7unAIE08ejZcMQTV0YhP72l7VKdaU2S-VyVW3oVcbFweGVb5YYsvH58p8ajQmN30IN_rJ_FX75B_5LjDw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ZQpy63iczVbNkqJIEI6N2OO-xnJhxh9s_zqC6KjCUpFuBX_bvhgIWCAgLYUyepxn2dM-zD7APs0WoDY4ON29l92MgKIqszKzMvOr5PsfjrWx__7NNoPgldwXi2EYFrDnYccoaJ5bVMlhoxVXnkN8zXwg3s7XDF4zfc81Ct6SMR3e2DDY4XeESZiWfmIzhz1fYTTClxjD4oH9hNTmdtqSDvtq35O93Xpigycm1s8vliox1tT8tzUpLor0Zf9eadFJgRSMTeG5KdfVejvk5EaBK3GVwqCoulQA_LeEIBAxHW0A8M_koPJRjQrVg4BwvR-heEytP4HIpggEMeHcsj-KlEY7BRh7TJ8BWMGE2T9LTcR3_EIApWYEpNyBYmLiU3Q5yeR64TblHFFMfIPnObrm5dGTmBERsAC7YUo9ut6gAEFJ7wBe4o4cGiIwXfxe8CLVSgirEnjz9GckeDXBWYIQCEUd0yovFZc-HcpFSzO1-MMnUfEL42bJ65BjebpdqS_2pkuGg9JeqQ4rgTGt2wQUtSWVczxVN_SFuSg9xPMyx3H1eql-9yVGnUYusCNp2B0Ph7vn7XjdFe3CY2F2hlw2OtdpU0QxN_AY4lMor896_hgCKcuBV_m2M5bbp9EE0FOo2gxTkdBjWoiipdUCrQZOq3zbIeRCLucUMeRQkv6LApxVRq3PARrl2YlokKs2ty5gDPJY4_miS2IixtJXobSiuwODSx130sz4hGhCeSiG3NRAANNPPAyBBC-qsCgq2W0pQkler7KL3o4XeSVSKYjptQh6T5MevR8hTWyySQEQni4awXxTE9tIXS_X-sHjj1dD54eVGyR-5F5JvDhj7AoyaaghGTyDVp_bzqdu29ZbHWKPV123350rOB9anrv8REvT_u_gO_c751RlN8EXWfoQ-BScD75b_Q4JCfgE-3S0tLKIRgn48vudfJbK9rsc8CGIUuBL-h20oreY1-8-D77O--DLxCsFvrd-lwGfeAt8Ub_LgE_onftdPvgu_e4Mvn_b74TP97sYg0YyZJvfbo1vNsGu8HVRG5R3I-5FgWplu1LkgSmTY8Pi3m-CKze4d1Xd-bKw9HvI9YKD_mVBF7x7Q2e2_MxUA1b1DTYwDXZpEDrZBZ6rBobOApHdW7rhsZpjvb5aG8wGHv1TZleez45DK9BMlgS-obqGT1hrw1Kg1x4Y1_E9vqTWuIb8jVhEfdnNJSuQD0MD9bgxLkuTg6YfdaturcYqnImNuqQ7vVYTjNbhtN1uP1a7i4E8VuaNZ3OO7tTDahp-bXUMOKkNGxspaJh4X-nOdDxVuuXtYSf5x0CY7Vujbu15uThW9-5L70VQ2m31bjR4VWJ_CN_QNsv-RpIDYjOur_E083cY9BUwA0AFMAQ9WloSgMMtHR9pZpceLd7unAIE08ejZcMQTV0YhP72l7VKdaU2S-VyVW3oVcbFweGVb5YYsvH58p8ajQmN30IN_rJ_FX75B_5LjDw"
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "title": "Eklipse: AI Clip Maker for Streamers \u2013 Streams to Shorts",
+        "link": "https://eklipse.gg/",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://eklipse.gg/&usg=AOvVaw1uG-qWhdDz04m17Ry9HA6L",
+        "displayed_link": "https://eklipse.gg",
+        "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRkWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3NzY3Nzc3NzctNy83Nzc3Nzg3Nzc3NzI4Nzc3Nzc3NzU3NTc3N__AABEIABwAHAMBEQACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAAFBgMEBwL_xAAmEAABAwMDBAIDAAAAAAAAAAACAQMEAAUREiExBiJBUWFxI4HB_8QAGwEAAgMAAwAAAAAAAAAAAAAAAwQCBQYAAQf_xAAqEQABAwEFBgcAAAAAAAAAAAABAAIDEQQSIVFxIjEyocHwBRMUQWGBsf_aAAwDAQACEQMRAD8AjfujzoaVVafg8DijfeovRmwxtNVNaOnrpeRJ6HGyyi4V5wkEc_a8_qrvz4LNQPOOSStviEMOy445Li4WyZbRFZTKgBqQgaLkS0rhcLT8U8cvAd3VUM9obJwlCHD76444pAnFWCbwKqnONqII21Wn9aE_3uzyJ9yi2xpCbs0OO3pxsJKvGPZKu2V4TK_dHZbSyGJ0pxkcT3oOe7TPstQa10h43E96JTJiVdm5xRHcwrc0bwi4ZIIt52QU3wqonHnHNWT5WQXbw2nUH386IL357ylh17vWhvkxQiUctwsy5jbMiU1FZVe95xdkT-r6SmZZrjC5oqckcymi0KZ1T09CtDkduQkpqM2LLLYO_lLKaSJF8YEufgvis4LNaHy3yKE4nLP96JSjiarPr71Uw5bCtVkgDb4BkhPZNTccVONRL4-N-E8bU6GEP82V153IKXvUpMdk9670J82KjVEFdP3T18qdVC66fuhPeV1VUJDpe6SkeVEoebhauaSc41UV_9k.jpg",
+        "snippet": "Eklipse turns your Twitch, YouTube and Kick streams into vertical clips with captions, then schedules them to TikTok, Reels and Shorts. No editing needed.",
+        "snippet_highlighted_words": [
+          "Eklipse"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Eklipse turns your Twitch, YouTube and Kick streams into vertical clips with captions, then schedules them to TikTok, Reels and Shorts. No editing needed.",
+            "source_info_link": "https://eklipse.gg/",
+            "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRkWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3NzY3Nzc3NzctNy83Nzc3Nzg3Nzc3NzI4Nzc3Nzc3NzU3NTc3N__AABEIABwAHAMBEQACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAAFBgMEBwL_xAAmEAABAwMDBAIDAAAAAAAAAAACAQMEAAUREiExBiJBUWFxI4HB_8QAGwEAAgMAAwAAAAAAAAAAAAAAAwQCBQYAAQf_xAAqEQABAwEFBgcAAAAAAAAAAAABAAIDEQQSIVFxIjEyocHwBRMUQWGBsf_aAAwDAQACEQMRAD8AjfujzoaVVafg8DijfeovRmwxtNVNaOnrpeRJ6HGyyi4V5wkEc_a8_qrvz4LNQPOOSStviEMOy445Li4WyZbRFZTKgBqQgaLkS0rhcLT8U8cvAd3VUM9obJwlCHD76444pAnFWCbwKqnONqII21Wn9aE_3uzyJ9yi2xpCbs0OO3pxsJKvGPZKu2V4TK_dHZbSyGJ0pxkcT3oOe7TPstQa10h43E96JTJiVdm5xRHcwrc0bwi4ZIIt52QU3wqonHnHNWT5WQXbw2nUH386IL357ylh17vWhvkxQiUctwsy5jbMiU1FZVe95xdkT-r6SmZZrjC5oqckcymi0KZ1T09CtDkduQkpqM2LLLYO_lLKaSJF8YEufgvis4LNaHy3yKE4nLP96JSjiarPr71Uw5bCtVkgDb4BkhPZNTccVONRL4-N-E8bU6GEP82V153IKXvUpMdk9670J82KjVEFdP3T18qdVC66fuhPeV1VUJDpe6SkeVEoebhauaSc41UV_9k.jpg"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=ChNodHRwczovL2VrbGlwc2UuZ2cvEgQaAggAGogHEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA4gYIABAAGAAgACosCgR3aGF0FZ6QvT8aBWdyZWF0GgZ0b3AgMTAaCXRvcCByYXRlZBoFd2hhdHMqCgoDYXJlFQAAAAAqCgoDdGhlFQAAAAAqPgoEYmVzdBVqbZg_GgdiZXN0ZXN0GgVncmVhdBoJc29tZSBnb29kGgN0b3AaBnRvcCAxMBoJdG9wIHJhdGVkKl0KCWF1dG9tYXRlZBUAAAAAGgRhdXRvGghhdXRvbWF0ZRoJYXV0b21hdGljGgphdXRvbWF0aW5nGgphdXRvbWF0aW9uGg5pdjtwO2F1dG9tYXRlZBoIc29mdHdhcmUqKwoCYWkVkxCBQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaB2FpdmlkZW8qHQoFdmlkZW8VzUICPxoGdmlkZW9zGgdhaXZpZGVvKj4KCGNsaXBwaW5nFUwQZz8aBGNsaXAaBWNsaXBzGgdjdXR0aW5nGgh0cmltbWluZxoNaXY7cDtjbGlwcGluZyodCgV0b29scxWCamo-GgllcXVpcG1lbnQaBHRvb2wqCgoDZm9yFQAAAAAqKwoGdHdpdGNoFVC05D8aD3R3aXRjaHN0cmVhbWVycxoLaXY7cDt0d2l0Y2gqOwoJc3RyZWFtZXJzFRC5bEAaCHN0cmVhbWVyGg90d2l0Y2hzdHJlYW1lcnMaDml2O3A7c3RyZWFtZXJzKgkKAmluFQAAAAAqJAoEMjAyNhUGpgQ-GgxnbTtkYXRlOzIwMjYaCWl2O247MjAyNjITaHR0cHM6Ly9la2xpcHNlLmdnLzpIRWtsaXBzZTogPGI-QUkgQ2xpcDwvYj4gTWFrZXIgZm9yIDxiPlN0cmVhbWVyczwvYj4g4oCTIFN0cmVhbXMgdG8gU2hvcnRzQqEBPGI-RWtsaXBzZTwvYj4gdHVybnMgeW91ciBUd2l0Y2gsIFlvdVR1YmUgYW5kIEtpY2sgc3RyZWFtcyBpbnRvIHZlcnRpY2FsIGNsaXBzIHdpdGggY2FwdGlvbnMsIHRoZW4gc2NoZWR1bGVzIHRoZW0gdG8gVGlrVG9rLCBSZWVscyBhbmQgU2hvcnRzLiBObyBlZGl0aW5nIG5lZWRlZC5KA2ZvckoDYXJlSgN0aGVKAmluUgZ0b3AgMTBSA3RvcCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=ChNodHRwczovL2VrbGlwc2UuZ2cvEgQaAggAGogHEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA4gYIABAAGAAgACosCgR3aGF0FZ6QvT8aBWdyZWF0GgZ0b3AgMTAaCXRvcCByYXRlZBoFd2hhdHMqCgoDYXJlFQAAAAAqCgoDdGhlFQAAAAAqPgoEYmVzdBVqbZg_GgdiZXN0ZXN0GgVncmVhdBoJc29tZSBnb29kGgN0b3AaBnRvcCAxMBoJdG9wIHJhdGVkKl0KCWF1dG9tYXRlZBUAAAAAGgRhdXRvGghhdXRvbWF0ZRoJYXV0b21hdGljGgphdXRvbWF0aW5nGgphdXRvbWF0aW9uGg5pdjtwO2F1dG9tYXRlZBoIc29mdHdhcmUqKwoCYWkVkxCBQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaB2FpdmlkZW8qHQoFdmlkZW8VzUICPxoGdmlkZW9zGgdhaXZpZGVvKj4KCGNsaXBwaW5nFUwQZz8aBGNsaXAaBWNsaXBzGgdjdXR0aW5nGgh0cmltbWluZxoNaXY7cDtjbGlwcGluZyodCgV0b29scxWCamo-GgllcXVpcG1lbnQaBHRvb2wqCgoDZm9yFQAAAAAqKwoGdHdpdGNoFVC05D8aD3R3aXRjaHN0cmVhbWVycxoLaXY7cDt0d2l0Y2gqOwoJc3RyZWFtZXJzFRC5bEAaCHN0cmVhbWVyGg90d2l0Y2hzdHJlYW1lcnMaDml2O3A7c3RyZWFtZXJzKgkKAmluFQAAAAAqJAoEMjAyNhUGpgQ-GgxnbTtkYXRlOzIwMjYaCWl2O247MjAyNjITaHR0cHM6Ly9la2xpcHNlLmdnLzpIRWtsaXBzZTogPGI-QUkgQ2xpcDwvYj4gTWFrZXIgZm9yIDxiPlN0cmVhbWVyczwvYj4g4oCTIFN0cmVhbXMgdG8gU2hvcnRzQqEBPGI-RWtsaXBzZTwvYj4gdHVybnMgeW91ciBUd2l0Y2gsIFlvdVR1YmUgYW5kIEtpY2sgc3RyZWFtcyBpbnRvIHZlcnRpY2FsIGNsaXBzIHdpdGggY2FwdGlvbnMsIHRoZW4gc2NoZWR1bGVzIHRoZW0gdG8gVGlrVG9rLCBSZWVscyBhbmQgU2hvcnRzLiBObyBlZGl0aW5nIG5lZWRlZC5KA2ZvckoDYXJlSgN0aGVKAmluUgZ0b3AgMTBSA3RvcCICEAFIAFgAaAA",
+        "source": "Eklipse"
+      },
+      {
+        "position": 2,
+        "title": "What is the best AI clipper/tool? : r/TwitchStreaming",
+        "link": "https://www.reddit.com/r/TwitchStreaming/comments/1slmxh4/what_is_the_best_ai_clippertool/",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.reddit.com/r/TwitchStreaming/comments/1slmxh4/what_is_the_best_ai_clippertool/&usg=AOvVaw1vtgKCFNE9TubGrpyRGMks",
+        "displayed_link": "50+ comments",
+        "date": "7 months ago",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+        "snippet": "klypse.app opus.pro and vizard.ai are the best ones, tools like opus clip and streamladder are pretty popular right now. FrostyTools is great.",
+        "snippet_highlighted_words": [
+          "klypse.app opus.pro and vizard.ai"
+        ],
+        "sitelinks": {
+          "list": [
+            {
+              "title": "AI Clipping For Streams? : r/Twitch - Reddit",
+              "link": "https://www.reddit.com/r/Twitch/comments/1kerott/ai_clipping_for_streams/",
+              "answer_count": 23,
+              "date": "May 4, 2025"
+            },
+            {
+              "title": "Which AI clip generator works best for long Twitch or ...",
+              "link": "https://www.reddit.com/r/SmallStreamers/comments/1uzug5y/which_ai_clip_generator_works_best_for_long/",
+              "answer_count": 12,
+              "date": "Jul 18, 2026"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "klypse.app opus.pro and vizard.ai are the best ones, tools like opus clip and streamladder are pretty popular right now. FrostyTools is great.",
+            "source_info_link": "https://www.reddit.com/r/TwitchStreaming/comments/1slmxh4/what_is_the_best_ai_clippertool/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=ClpodHRwczovL3d3dy5yZWRkaXQuY29tL3IvVHdpdGNoU3RyZWFtaW5nL2NvbW1lbnRzLzFzbG14aDQvd2hhdF9pc190aGVfYmVzdF9haV9jbGlwcGVydG9vbC8SBBoCCAAazAcSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAqAcIABAAGAAgACosCgR3aGF0FazjZ0AaBWdyZWF0GgZ0b3AgMTAaCXRvcCByYXRlZBoFd2hhdHMqCgoDYXJlFQAAAAAqCgoDdGhlFQAAAAAqPgoEYmVzdBU4F5NAGgdiZXN0ZXN0GgVncmVhdBoJc29tZSBnb29kGgN0b3AaBnRvcCAxMBoJdG9wIHJhdGVkKl0KCWF1dG9tYXRlZBUAAAAAGgRhdXRvGghhdXRvbWF0ZRoJYXV0b21hdGljGgphdXRvbWF0aW5nGgphdXRvbWF0aW9uGg5pdjtwO2F1dG9tYXRlZBoIc29mdHdhcmUqKwoCYWkVlklzQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaB2FpdmlkZW8qHQoFdmlkZW8VK4nOPRoGdmlkZW9zGgdhaXZpZGVvKj4KCGNsaXBwaW5nFcBaXj4aBGNsaXAaBWNsaXBzGgdjdXR0aW5nGgh0cmltbWluZxoNaXY7cDtjbGlwcGluZyodCgV0b29scxXfnoA-GgllcXVpcG1lbnQaBHRvb2wqCgoDZm9yFQAAAAAqKwoGdHdpdGNoFd8LsT4aD3R3aXRjaHN0cmVhbWVycxoLaXY7cDt0d2l0Y2gqOwoJc3RyZWFtZXJzFQAAAAAaCHN0cmVhbWVyGg90d2l0Y2hzdHJlYW1lcnMaDml2O3A7c3RyZWFtZXJzKgkKAmluFQAAAAAqJAoEMjAyNhVBEQQ-GgxnbTtkYXRlOzIwMjYaCWl2O247MjAyNjJaaHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL1R3aXRjaFN0cmVhbWluZy9jb21tZW50cy8xc2xteGg0L3doYXRfaXNfdGhlX2Jlc3RfYWlfY2xpcHBlcnRvb2wvOlNXaGF0IGlzIHRoZSA8Yj5iZXN0IEFJPC9iPiBjbGlwcGVyLzxiPnRvb2w8L2I-PyA6IHIvPGI-VHdpdGNoU3RyZWFtaW5nPC9iPiAtIFJlZGRpdEKVATxiPmtseXBzZS5hcHAgb3B1cy5wcm8gYW5kIHZpemFyZC5haTwvYj4gYXJlIHRoZSBiZXN0IG9uZXMsIHRvb2xzIGxpa2Ugb3B1cyBjbGlwIGFuZCBzdHJlYW1sYWRkZXIgYXJlIHByZXR0eSBwb3B1bGFyIHJpZ2h0IG5vdy4gRnJvc3R5VG9vbHMgaXMgZ3JlYXQuSgJpbkoDZm9ySgNhcmVKA3RoZVIDdG9wUgZ0b3AgMTAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=ClpodHRwczovL3d3dy5yZWRkaXQuY29tL3IvVHdpdGNoU3RyZWFtaW5nL2NvbW1lbnRzLzFzbG14aDQvd2hhdF9pc190aGVfYmVzdF9haV9jbGlwcGVydG9vbC8SBBoCCAAazAcSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAqAcIABAAGAAgACosCgR3aGF0FazjZ0AaBWdyZWF0GgZ0b3AgMTAaCXRvcCByYXRlZBoFd2hhdHMqCgoDYXJlFQAAAAAqCgoDdGhlFQAAAAAqPgoEYmVzdBU4F5NAGgdiZXN0ZXN0GgVncmVhdBoJc29tZSBnb29kGgN0b3AaBnRvcCAxMBoJdG9wIHJhdGVkKl0KCWF1dG9tYXRlZBUAAAAAGgRhdXRvGghhdXRvbWF0ZRoJYXV0b21hdGljGgphdXRvbWF0aW5nGgphdXRvbWF0aW9uGg5pdjtwO2F1dG9tYXRlZBoIc29mdHdhcmUqKwoCYWkVlklzQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaB2FpdmlkZW8qHQoFdmlkZW8VK4nOPRoGdmlkZW9zGgdhaXZpZGVvKj4KCGNsaXBwaW5nFcBaXj4aBGNsaXAaBWNsaXBzGgdjdXR0aW5nGgh0cmltbWluZxoNaXY7cDtjbGlwcGluZyodCgV0b29scxXfnoA-GgllcXVpcG1lbnQaBHRvb2wqCgoDZm9yFQAAAAAqKwoGdHdpdGNoFd8LsT4aD3R3aXRjaHN0cmVhbWVycxoLaXY7cDt0d2l0Y2gqOwoJc3RyZWFtZXJzFQAAAAAaCHN0cmVhbWVyGg90d2l0Y2hzdHJlYW1lcnMaDml2O3A7c3RyZWFtZXJzKgkKAmluFQAAAAAqJAoEMjAyNhVBEQQ-GgxnbTtkYXRlOzIwMjYaCWl2O247MjAyNjJaaHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL1R3aXRjaFN0cmVhbWluZy9jb21tZW50cy8xc2xteGg0L3doYXRfaXNfdGhlX2Jlc3RfYWlfY2xpcHBlcnRvb2wvOlNXaGF0IGlzIHRoZSA8Yj5iZXN0IEFJPC9iPiBjbGlwcGVyLzxiPnRvb2w8L2I-PyA6IHIvPGI-VHdpdGNoU3RyZWFtaW5nPC9iPiAtIFJlZGRpdEKVATxiPmtseXBzZS5hcHAgb3B1cy5wcm8gYW5kIHZpemFyZC5haTwvYj4gYXJlIHRoZSBiZXN0IG9uZXMsIHRvb2xzIGxpa2Ugb3B1cyBjbGlwIGFuZCBzdHJlYW1sYWRkZXIgYXJlIHByZXR0eSBwb3B1bGFyIHJpZ2h0IG5vdy4gRnJvc3R5VG9vbHMgaXMgZ3JlYXQuSgJpbkoDZm9ySgNhcmVKA3RoZVIDdG9wUgZ0b3AgMTAiAhABSABYAGgA",
+        "source": "Reddit \u00b7 r/TwitchStreaming"
+      },
+      {
+        "position": 3,
+        "title": "Free AI Twitch Clip Maker for Viral Stream Clips",
+        "link": "https://www.vmaker.com/tools/ai-twitch-clip-maker",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://www.vmaker.com/tools/ai-twitch-clip-maker&usg=AOvVaw1yWlMIvw6r3ifTNHQ24Lz9",
+        "displayed_link": "https://www.vmaker.com \u203a Tools",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAVFBMVEVHcExh1rYKtOQNteNHzMQ6xc06xc0Tt-Bb07otwdJj1rX___8YutxU0bwOteIivtdf1bdEy8JOzsU_yckrwtA2xc3s-fkEutad3-XJ7u9w1NW26OuxpBlcAAAAC3RSTlMA5uZxgE0rhH2Amhq4Z40AAADLSURBVCiRtdLbDsIgDIDhqWwTQZAWGJvv_56WjUNd4qV_uPsgoYRh-HPTvSeEGBmNl9feMwcATnR7nMgxZHYQYsPxdAopWfGyk6sRhVBxyratkVoT7tTxTsc2VXoTeFoMXVSpKPgtec8QQKm1YMKovLcVBThQrUS7vO3ozmg5IjIMUVmt54qIPjbEBdLCMYQ2SlqsJtO3gjKPBu_9EbYMWhszdaS72yVXyFzr00qamZCqZMzI8ESmXofQ_rYDu5jr1_-ZpZxbt2n4cx9Tmxkbl-3EugAAAABJRU5ErkJggg.png",
+        "snippet": "Vmaker AI's free Twitch clip maker turns long streams and VODs into viral vertical clips for TikTok, YouTube Shorts, and Reels. Try it for free.",
+        "snippet_highlighted_words": [
+          "Vmaker AI's free Twitch clip maker"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.7,
+              "reviews": 103
+            },
+            "extensions": [
+              "4.7(103)",
+              "Free",
+              "Multimedia"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Vmaker AI's free Twitch clip maker turns long streams and VODs into viral vertical clips for TikTok, YouTube Shorts, and Reels. Try it for free.",
+            "source_info_link": "https://www.vmaker.com/tools/ai-twitch-clip-maker",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAVFBMVEVHcExh1rYKtOQNteNHzMQ6xc06xc0Tt-Bb07otwdJj1rX___8YutxU0bwOteIivtdf1bdEy8JOzsU_yckrwtA2xc3s-fkEutad3-XJ7u9w1NW26OuxpBlcAAAAC3RSTlMA5uZxgE0rhH2Amhq4Z40AAADLSURBVCiRtdLbDsIgDIDhqWwTQZAWGJvv_56WjUNd4qV_uPsgoYRh-HPTvSeEGBmNl9feMwcATnR7nMgxZHYQYsPxdAopWfGyk6sRhVBxyratkVoT7tTxTsc2VXoTeFoMXVSpKPgtec8QQKm1YMKovLcVBThQrUS7vO3ozmg5IjIMUVmt54qIPjbEBdLCMYQ2SlqsJtO3gjKPBu_9EbYMWhszdaS72yVXyFzr00qamZCqZMzI8ESmXofQ_rYDu5jr1_-ZpZxbt2n4cx9Tmxkbl-3EugAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CjFodHRwczovL3d3dy52bWFrZXIuY29tL3Rvb2xzL2FpLXR3aXRjaC1jbGlwLW1ha2VyEgQaAggAGqkHEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAgwcIABAAGAAgACosCgR3aGF0FTD_nD8aBWdyZWF0GgZ0b3AgMTAaCXRvcCByYXRlZBoFd2hhdHMqCgoDYXJlFQAAAAAqCgoDdGhlFQAAAAAqPgoEYmVzdBVP9bM-GgdiZXN0ZXN0GgVncmVhdBoJc29tZSBnb29kGgN0b3AaBnRvcCAxMBoJdG9wIHJhdGVkKl0KCWF1dG9tYXRlZBUAAAAAGgRhdXRvGghhdXRvbWF0ZRoJYXV0b21hdGljGgphdXRvbWF0aW5nGgphdXRvbWF0aW9uGg5pdjtwO2F1dG9tYXRlZBoIc29mdHdhcmUqKwoCYWkV_JP6QBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaB2FpdmlkZW8qHQoFdmlkZW8VVR-0QBoGdmlkZW9zGgdhaXZpZGVvKj4KCGNsaXBwaW5nFQAAAAAaBGNsaXAaBWNsaXBzGgdjdXR0aW5nGgh0cmltbWluZxoNaXY7cDtjbGlwcGluZyodCgV0b29scxXLbPk_GgllcXVpcG1lbnQaBHRvb2wqCgoDZm9yFQAAAAAqKwoGdHdpdGNoFWX4zUAaD3R3aXRjaHN0cmVhbWVycxoLaXY7cDt0d2l0Y2gqOwoJc3RyZWFtZXJzFRIkjz8aCHN0cmVhbWVyGg90d2l0Y2hzdHJlYW1lcnMaDml2O3A7c3RyZWFtZXJzKgkKAmluFQAAAAAqJAoEMjAyNhVzad46GgxnbTtkYXRlOzIwMjYaCWl2O247MjAyNjIxaHR0cHM6Ly93d3cudm1ha2VyLmNvbS90b29scy9haS10d2l0Y2gtY2xpcC1tYWtlcjpRRnJlZSA8Yj5BSSBUd2l0Y2ggQ2xpcDwvYj4gTWFrZXIgZm9yIFZpcmFsIFN0cmVhbSA8Yj5DbGlwczwvYj4gLSBWbWFrZXIgPGI-QUk8L2I-QpsBPGI-Vm1ha2VyIEFJJiMzOTtzIGZyZWUgVHdpdGNoIGNsaXAgbWFrZXI8L2I-IHR1cm5zIGxvbmcgc3RyZWFtcyBhbmQgVk9EcyBpbnRvIHZpcmFsIHZlcnRpY2FsIGNsaXBzIGZvciBUaWtUb2ssIFlvdVR1YmUgU2hvcnRzLCBhbmQgUmVlbHMuIFRyeSBpdCBmb3IgZnJlZS5KAmluSgN0aGVKA2FyZUoDZm9yUgN0b3BSBnRvcCAxMCICEAFIAFgAaAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CjFodHRwczovL3d3dy52bWFrZXIuY29tL3Rvb2xzL2FpLXR3aXRjaC1jbGlwLW1ha2VyEgQaAggAGqkHEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAgwcIABAAGAAgACosCgR3aGF0FTD_nD8aBWdyZWF0GgZ0b3AgMTAaCXRvcCByYXRlZBoFd2hhdHMqCgoDYXJlFQAAAAAqCgoDdGhlFQAAAAAqPgoEYmVzdBVP9bM-GgdiZXN0ZXN0GgVncmVhdBoJc29tZSBnb29kGgN0b3AaBnRvcCAxMBoJdG9wIHJhdGVkKl0KCWF1dG9tYXRlZBUAAAAAGgRhdXRvGghhdXRvbWF0ZRoJYXV0b21hdGljGgphdXRvbWF0aW5nGgphdXRvbWF0aW9uGg5pdjtwO2F1dG9tYXRlZBoIc29mdHdhcmUqKwoCYWkV_JP6QBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaB2FpdmlkZW8qHQoFdmlkZW8VVR-0QBoGdmlkZW9zGgdhaXZpZGVvKj4KCGNsaXBwaW5nFQAAAAAaBGNsaXAaBWNsaXBzGgdjdXR0aW5nGgh0cmltbWluZxoNaXY7cDtjbGlwcGluZyodCgV0b29scxXLbPk_GgllcXVpcG1lbnQaBHRvb2wqCgoDZm9yFQAAAAAqKwoGdHdpdGNoFWX4zUAaD3R3aXRjaHN0cmVhbWVycxoLaXY7cDt0d2l0Y2gqOwoJc3RyZWFtZXJzFRIkjz8aCHN0cmVhbWVyGg90d2l0Y2hzdHJlYW1lcnMaDml2O3A7c3RyZWFtZXJzKgkKAmluFQAAAAAqJAoEMjAyNhVzad46GgxnbTtkYXRlOzIwMjYaCWl2O247MjAyNjIxaHR0cHM6Ly93d3cudm1ha2VyLmNvbS90b29scy9haS10d2l0Y2gtY2xpcC1tYWtlcjpRRnJlZSA8Yj5BSSBUd2l0Y2ggQ2xpcDwvYj4gTWFrZXIgZm9yIFZpcmFsIFN0cmVhbSA8Yj5DbGlwczwvYj4gLSBWbWFrZXIgPGI-QUk8L2I-QpsBPGI-Vm1ha2VyIEFJJiMzOTtzIGZyZWUgVHdpdGNoIGNsaXAgbWFrZXI8L2I-IHR1cm5zIGxvbmcgc3RyZWFtcyBhbmQgVk9EcyBpbnRvIHZpcmFsIHZlcnRpY2FsIGNsaXBzIGZvciBUaWtUb2ssIFlvdVR1YmUgU2hvcnRzLCBhbmQgUmVlbHMuIFRyeSBpdCBmb3IgZnJlZS5KAmluSgN0aGVKA2FyZUoDZm9yUgN0b3BSBnRvcCAxMCICEAFIAFgAaAA",
+        "source": "Vmaker AI"
+      },
+      {
+        "position": 4,
+        "title": "I Let an AI Run My Twitch Clips for 7 Days\u2026 Here's What ...",
+        "link": "https://www.youtube.com/watch?v=oLg-TMlKUKA",
+        "displayed_link": "2.2K+ views",
+        "date": "1 year ago",
+        "thumbnail": "https://serpapi.com/searches/6b044301f5b69876b1277df1/images/8Mt91tdkMYUun0KiesOjJ-Mu3xVlTymRKLcMdddT154.webp",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "snippet": "I explored how various AI tools managed video editing, clipping, and uploading, Best AI Video Editing Tools in 2026 (Don't Choose Wrong)",
+        "duration": "7:28",
+        "key_moments": [
+          {
+            "time": "00:00",
+            "title": "I Let an AI Run My Twitch Clips for 7 Days...",
+            "link": "https://www.youtube.com/watch?v=oLg-TMlKUKA&t=0"
+          },
+          {
+            "time": "00:23",
+            "title": "What Tool Did I Use? (The Secret Weapon)",
+            "link": "https://www.youtube.com/watch?v=oLg-TMlKUKA&t=23"
+          },
+          {
+            "time": "01:00",
+            "title": "The First Clip It Made Was... Actually Good?",
+            "link": "https://www.youtube.com/watch?v=oLg-TMlKUKA&t=60"
+          },
+          {
+            "time": "01:25",
+            "title": "It Just Kept Clipping... and I Did Nothing!",
+            "link": "https://www.youtube.com/watch?v=oLg-TMlKUKA&t=85"
+          },
+          {
+            "time": "01:57",
+            "title": "I Could've Tweaked the Clips\u2026 But Didn\u2019t!",
+            "link": "https://www.youtube.com/watch?v=oLg-TMlKUKA&t=117"
+          },
+          {
+            "time": "02:30",
+            "title": "AI-Generated Captions & Hashtags? Surprisingly Fire",
+            "link": "https://www.youtube.com/watch?v=oLg-TMlKUKA&t=150"
+          },
+          {
+            "time": "03:05",
+            "title": "Did AI Actually Grow My Channel? (Real Stats)",
+            "link": "https://www.youtube.com/watch?v=oLg-TMlKUKA&t=185"
+          },
+          {
+            "time": "04:35",
+            "title": "Yep, Some Clips Totally Flopped",
+            "link": "https://www.youtube.com/watch?v=oLg-TMlKUKA&t=275"
+          },
+          {
+            "time": "05:11",
+            "title": "Would I Recommend This to Other Streamers?",
+            "link": "https://www.youtube.com/watch?v=oLg-TMlKUKA&t=311"
+          },
+          {
+            "time": "06:08",
+            "title": "Why AI Tools Are the Future of Content Creation!",
+            "link": "https://www.youtube.com/watch?v=oLg-TMlKUKA&t=368"
+          },
+          {
+            "time": "07:00",
+            "title": "BONUS: Free Twitch Overlay Pack for You!",
+            "link": "https://www.youtube.com/watch?v=oLg-TMlKUKA&t=420"
+          }
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "I explored how various AI tools managed video editing, clipping, and uploading, Best AI Video Editing Tools in 2026 (Don't Choose Wrong)",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+          }
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CitodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PW9MZy1UTWxLVUtBEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CitodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PW9MZy1UTWxLVUtBEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+        "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRVzNYRZjAUeKPGJJyi3IK3c79qjKV-q7U4Rw",
+        "source": "YouTube \u00b7 Cal's Creation"
+      },
+      {
+        "position": 5,
+        "title": "10 AI Clip Maker Tools for Streamers in 2026",
+        "link": "https://streamgen.cc/blog/ai-clip-maker/",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://streamgen.cc/blog/ai-clip-maker/&usg=AOvVaw2OkXbh7sunPg1iTF5sPeqH",
+        "displayed_link": "https://streamgen.cc \u203a blog \u203a ai-clip-maker",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA7klEQVR4AbXSIYyDMBiG4c8np2dwJzEozPnaiXmDT2ZOzp6qrkLjE4KdwKFQGERdXZOZSsR3aS9NWnab2l5BxUPa_knBJ70Mb_b2ALsavuN4jyPK3pCbbiH22OHKmBA5rtDpYVOGXyr8omQ4UJ5TdHBhawADyUGkOIe18NjoZZXHe5xL-D6Aa76t_VsnVaPdz3kWjOnPeocsq5WxQmWotT7hcOkNfRNSlIgVmqTNUAxxSlxImhx7vzV8_uShSvH7x39NKzsXLtelOINJLfJRTtXGmITOkQ3k4ki3KBwMd8i5QagZ_39DztrtPe827xdy556nWiegdAAAAABJRU5ErkJggg.png",
+        "date": "Oct 1, 2026",
+        "snippet": "Compare 10 AI clip maker tools for streamers, including features, pricing notes, strengths, limitations, and practical recommendations.",
+        "snippet_highlighted_words": [
+          "10 AI clip maker tools for streamers"
+        ],
+        "rich_snippet": {
+          "top": {
+            "detected_extensions": {
+              "rating": 4.9,
+              "reviews": 152
+            },
+            "extensions": [
+              "4.9(152)",
+              "Free",
+              "Entertainment"
+            ]
+          }
+        },
+        "about_this_result": {
+          "source": {
+            "description": "Compare 10 AI clip maker tools for streamers, including features, pricing notes, strengths, limitations, and practical recommendations.",
+            "source_info_link": "https://streamgen.cc/blog/ai-clip-maker/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA7klEQVR4AbXSIYyDMBiG4c8np2dwJzEozPnaiXmDT2ZOzp6qrkLjE4KdwKFQGERdXZOZSsR3aS9NWnab2l5BxUPa_knBJ70Mb_b2ALsavuN4jyPK3pCbbiH22OHKmBA5rtDpYVOGXyr8omQ4UJ5TdHBhawADyUGkOIe18NjoZZXHe5xL-D6Aa76t_VsnVaPdz3kWjOnPeocsq5WxQmWotT7hcOkNfRNSlIgVmqTNUAxxSlxImhx7vzV8_uShSvH7x39NKzsXLtelOINJLfJRTtXGmITOkQ3k4ki3KBwMd8i5QagZ_39DztrtPe827xdy556nWiegdAAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CihodHRwczovL3N0cmVhbWdlbi5jYy9ibG9nL2FpLWNsaXAtbWFrZXIvEgQaAggAGo8HEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA6QYIABAAGAAgACosCgR3aGF0FT1zUz4aBWdyZWF0GgZ0b3AgMTAaCXRvcCByYXRlZBoFd2hhdHMqCgoDYXJlFQAAAAAqCgoDdGhlFQAAAAAqPgoEYmVzdBXw6dU_GgdiZXN0ZXN0GgVncmVhdBoJc29tZSBnb29kGgN0b3AaBnRvcCAxMBoJdG9wIHJhdGVkKl0KCWF1dG9tYXRlZBUYtQE_GgRhdXRvGghhdXRvbWF0ZRoJYXV0b21hdGljGgphdXRvbWF0aW5nGgphdXRvbWF0aW9uGg5pdjtwO2F1dG9tYXRlZBoIc29mdHdhcmUqKwoCYWkVEKnkQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaB2FpdmlkZW8qHQoFdmlkZW8V-00GQBoGdmlkZW9zGgdhaXZpZGVvKj4KCGNsaXBwaW5nFeZEE0AaBGNsaXAaBWNsaXBzGgdjdXR0aW5nGgh0cmltbWluZxoNaXY7cDtjbGlwcGluZyodCgV0b29scxXO9p1AGgllcXVpcG1lbnQaBHRvb2wqCgoDZm9yFQAAAAAqKwoGdHdpdGNoFUbqJ0AaD3R3aXRjaHN0cmVhbWVycxoLaXY7cDt0d2l0Y2gqOwoJc3RyZWFtZXJzFcLupkAaCHN0cmVhbWVyGg90d2l0Y2hzdHJlYW1lcnMaDml2O3A7c3RyZWFtZXJzKgkKAmluFQAAAAAqJAoEMjAyNhXsHphAGgxnbTtkYXRlOzIwMjYaCWl2O247MjAyNjIoaHR0cHM6Ly9zdHJlYW1nZW4uY2MvYmxvZy9haS1jbGlwLW1ha2VyLzpNMTAgPGI-QUkgQ2xpcDwvYj4gTWFrZXIgPGI-VG9vbHM8L2I-IGZvciA8Yj5TdHJlYW1lcnMgaW4gMjAyNjwvYj4gLSBTdHJlYW1HZW5CjgFDb21wYXJlIDxiPjEwIEFJIGNsaXAgbWFrZXIgdG9vbHMgZm9yIHN0cmVhbWVyczwvYj4sIGluY2x1ZGluZyBmZWF0dXJlcywgcHJpY2luZyBub3Rlcywgc3RyZW5ndGhzLCBsaW1pdGF0aW9ucywgYW5kIHByYWN0aWNhbCByZWNvbW1lbmRhdGlvbnMuSgN0aGVKA2FyZUoDZm9ySgJpblIDdG9wUgZ0b3AgMTAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CihodHRwczovL3N0cmVhbWdlbi5jYy9ibG9nL2FpLWNsaXAtbWFrZXIvEgQaAggAGo8HEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA6QYIABAAGAAgACosCgR3aGF0FT1zUz4aBWdyZWF0GgZ0b3AgMTAaCXRvcCByYXRlZBoFd2hhdHMqCgoDYXJlFQAAAAAqCgoDdGhlFQAAAAAqPgoEYmVzdBXw6dU_GgdiZXN0ZXN0GgVncmVhdBoJc29tZSBnb29kGgN0b3AaBnRvcCAxMBoJdG9wIHJhdGVkKl0KCWF1dG9tYXRlZBUYtQE_GgRhdXRvGghhdXRvbWF0ZRoJYXV0b21hdGljGgphdXRvbWF0aW5nGgphdXRvbWF0aW9uGg5pdjtwO2F1dG9tYXRlZBoIc29mdHdhcmUqKwoCYWkVEKnkQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaB2FpdmlkZW8qHQoFdmlkZW8V-00GQBoGdmlkZW9zGgdhaXZpZGVvKj4KCGNsaXBwaW5nFeZEE0AaBGNsaXAaBWNsaXBzGgdjdXR0aW5nGgh0cmltbWluZxoNaXY7cDtjbGlwcGluZyodCgV0b29scxXO9p1AGgllcXVpcG1lbnQaBHRvb2wqCgoDZm9yFQAAAAAqKwoGdHdpdGNoFUbqJ0AaD3R3aXRjaHN0cmVhbWVycxoLaXY7cDt0d2l0Y2gqOwoJc3RyZWFtZXJzFcLupkAaCHN0cmVhbWVyGg90d2l0Y2hzdHJlYW1lcnMaDml2O3A7c3RyZWFtZXJzKgkKAmluFQAAAAAqJAoEMjAyNhXsHphAGgxnbTtkYXRlOzIwMjYaCWl2O247MjAyNjIoaHR0cHM6Ly9zdHJlYW1nZW4uY2MvYmxvZy9haS1jbGlwLW1ha2VyLzpNMTAgPGI-QUkgQ2xpcDwvYj4gTWFrZXIgPGI-VG9vbHM8L2I-IGZvciA8Yj5TdHJlYW1lcnMgaW4gMjAyNjwvYj4gLSBTdHJlYW1HZW5CjgFDb21wYXJlIDxiPjEwIEFJIGNsaXAgbWFrZXIgdG9vbHMgZm9yIHN0cmVhbWVyczwvYj4sIGluY2x1ZGluZyBmZWF0dXJlcywgcHJpY2luZyBub3Rlcywgc3RyZW5ndGhzLCBsaW1pdGF0aW9ucywgYW5kIHByYWN0aWNhbCByZWNvbW1lbmRhdGlvbnMuSgN0aGVKA2FyZUoDZm9ySgJpblIDdG9wUgZ0b3AgMTAiAhABSABYAGgA",
+        "source": "StreamGen"
+      },
+      {
+        "position": 6,
+        "title": "Best AI Tools for Twitch Streamers (2026)",
+        "link": "https://presenc.ai/research/best-ai-tools-for-twitch-streamers-2026",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://presenc.ai/research/best-ai-tools-for-twitch-streamers-2026&usg=AOvVaw3GFqHjeRsIXtDJKs6B-k78",
+        "displayed_link": "https://presenc.ai \u203a research \u203a best-ai-tools-for-twitch-str...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAA0UlEQVR4AWJwL_ABtFvHJhCDYBiGR8gQlpnCBVwhG1hbB1zCPdzCPhu4g5X3FQry8xPO45RALB5IgvIi0ZCpVvB5wX3fBRiwcBYWNGwjghIuyJAaAcRXQQxU4BsOxE0wQiaunqAmk8OMYJodpJMlbAz1j6AEV5F36ch1IPeV6d6ldRV0xUSEox1fdZ1DEj4g3QQVN-9RwRXUkEcE6Q41hW-2P1WfG4bsCQpyiBUIxgEREuPsD_7-aUtge4O-sMODnFcHA0SGGRHcSlQxxPpNHO4Dj5JB7lQGPbMAAAAASUVORK5CYII.png",
+        "snippet": "OBS Studio with NVIDIA RTX AI plugins is the most capable free option for streamers who have compatible hardware, providing AI background removal and auto- ...",
+        "snippet_highlighted_words": [
+          "OBS Studio with NVIDIA RTX AI plugins"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "OBS Studio with NVIDIA RTX AI plugins is the most capable free option for streamers who have compatible hardware, providing AI background removal and auto- ...",
+            "source_info_link": "https://presenc.ai/research/best-ai-tools-for-twitch-streamers-2026",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAA0UlEQVR4AWJwL_ABtFvHJhCDYBiGR8gQlpnCBVwhG1hbB1zCPdzCPhu4g5X3FQry8xPO45RALB5IgvIi0ZCpVvB5wX3fBRiwcBYWNGwjghIuyJAaAcRXQQxU4BsOxE0wQiaunqAmk8OMYJodpJMlbAz1j6AEV5F36ch1IPeV6d6ldRV0xUSEox1fdZ1DEj4g3QQVN-9RwRXUkEcE6Q41hW-2P1WfG4bsCQpyiBUIxgEREuPsD_7-aUtge4O-sMODnFcHA0SGGRHcSlQxxPpNHO4Dj5JB7lQGPbMAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CkNodHRwczovL3ByZXNlbmMuYWkvcmVzZWFyY2gvYmVzdC1haS10b29scy1mb3ItdHdpdGNoLXN0cmVhbWVycy0yMDI2EgQaAggAGrEHEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAiwcIABAAGAAgACosCgR3aGF0FWzjvz8aBWdyZWF0GgZ0b3AgMTAaCXRvcCByYXRlZBoFd2hhdHMqCgoDYXJlFQAAAAAqCgoDdGhlFQAAAAAqPgoEYmVzdBUPVeRAGgdiZXN0ZXN0GgVncmVhdBoJc29tZSBnb29kGgN0b3AaBnRvcCAxMBoJdG9wIHJhdGVkKl0KCWF1dG9tYXRlZBUBALU_GgRhdXRvGghhdXRvbWF0ZRoJYXV0b21hdGljGgphdXRvbWF0aW5nGgphdXRvbWF0aW9uGg5pdjtwO2F1dG9tYXRlZBoIc29mdHdhcmUqKwoCYWkV3sMfQRoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaB2FpdmlkZW8qHQoFdmlkZW8VbAjbPRoGdmlkZW9zGgdhaXZpZGVvKj4KCGNsaXBwaW5nFb6Lqz8aBGNsaXAaBWNsaXBzGgdjdXR0aW5nGgh0cmltbWluZxoNaXY7cDtjbGlwcGluZyodCgV0b29scxVh1ftAGgllcXVpcG1lbnQaBHRvb2wqCgoDZm9yFQAAAAAqKwoGdHdpdGNoFVwuB0EaD3R3aXRjaHN0cmVhbWVycxoLaXY7cDt0d2l0Y2gqOwoJc3RyZWFtZXJzFSrM-UAaCHN0cmVhbWVyGg90d2l0Y2hzdHJlYW1lcnMaDml2O3A7c3RyZWFtZXJzKgkKAmluFQAAAAAqJAoEMjAyNhV7r-pAGgxnbTtkYXRlOzIwMjYaCWl2O247MjAyNjJDaHR0cHM6Ly9wcmVzZW5jLmFpL3Jlc2VhcmNoL2Jlc3QtYWktdG9vbHMtZm9yLXR3aXRjaC1zdHJlYW1lcnMtMjAyNjo3PGI-QmVzdCBBSSBUb29scyBmb3IgVHdpdGNoIFN0cmVhbWVyczwvYj4gKDxiPjIwMjY8L2I-KUKrATxiPk9CUyBTdHVkaW8gd2l0aCBOVklESUEgUlRYIEFJIHBsdWdpbnM8L2I-IGlzIHRoZSBtb3N0IGNhcGFibGUgZnJlZSBvcHRpb24gZm9yIHN0cmVhbWVycyB3aG8gaGF2ZSBjb21wYXRpYmxlIGhhcmR3YXJlLCBwcm92aWRpbmcgQUkgYmFja2dyb3VuZCByZW1vdmFsIGFuZCBhdXRvLSZuYnNwOy4uLkoDdGhlSgNhcmVKA2ZvckoCaW5SBnRvcCAxMFIDdG9wIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CkNodHRwczovL3ByZXNlbmMuYWkvcmVzZWFyY2gvYmVzdC1haS10b29scy1mb3ItdHdpdGNoLXN0cmVhbWVycy0yMDI2EgQaAggAGrEHEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAiwcIABAAGAAgACosCgR3aGF0FWzjvz8aBWdyZWF0GgZ0b3AgMTAaCXRvcCByYXRlZBoFd2hhdHMqCgoDYXJlFQAAAAAqCgoDdGhlFQAAAAAqPgoEYmVzdBUPVeRAGgdiZXN0ZXN0GgVncmVhdBoJc29tZSBnb29kGgN0b3AaBnRvcCAxMBoJdG9wIHJhdGVkKl0KCWF1dG9tYXRlZBUBALU_GgRhdXRvGghhdXRvbWF0ZRoJYXV0b21hdGljGgphdXRvbWF0aW5nGgphdXRvbWF0aW9uGg5pdjtwO2F1dG9tYXRlZBoIc29mdHdhcmUqKwoCYWkV3sMfQRoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaB2FpdmlkZW8qHQoFdmlkZW8VbAjbPRoGdmlkZW9zGgdhaXZpZGVvKj4KCGNsaXBwaW5nFb6Lqz8aBGNsaXAaBWNsaXBzGgdjdXR0aW5nGgh0cmltbWluZxoNaXY7cDtjbGlwcGluZyodCgV0b29scxVh1ftAGgllcXVpcG1lbnQaBHRvb2wqCgoDZm9yFQAAAAAqKwoGdHdpdGNoFVwuB0EaD3R3aXRjaHN0cmVhbWVycxoLaXY7cDt0d2l0Y2gqOwoJc3RyZWFtZXJzFSrM-UAaCHN0cmVhbWVyGg90d2l0Y2hzdHJlYW1lcnMaDml2O3A7c3RyZWFtZXJzKgkKAmluFQAAAAAqJAoEMjAyNhV7r-pAGgxnbTtkYXRlOzIwMjYaCWl2O247MjAyNjJDaHR0cHM6Ly9wcmVzZW5jLmFpL3Jlc2VhcmNoL2Jlc3QtYWktdG9vbHMtZm9yLXR3aXRjaC1zdHJlYW1lcnMtMjAyNjo3PGI-QmVzdCBBSSBUb29scyBmb3IgVHdpdGNoIFN0cmVhbWVyczwvYj4gKDxiPjIwMjY8L2I-KUKrATxiPk9CUyBTdHVkaW8gd2l0aCBOVklESUEgUlRYIEFJIHBsdWdpbnM8L2I-IGlzIHRoZSBtb3N0IGNhcGFibGUgZnJlZSBvcHRpb24gZm9yIHN0cmVhbWVycyB3aG8gaGF2ZSBjb21wYXRpYmxlIGhhcmR3YXJlLCBwcm92aWRpbmcgQUkgYmFja2dyb3VuZCByZW1vdmFsIGFuZCBhdXRvLSZuYnNwOy4uLkoDdGhlSgNhcmVKA2ZvckoCaW5SBnRvcCAxMFIDdG9wIgIQAUgAWABoAA",
+        "source": "Presenc AI",
+        "read_more_link": "https://presenc.ai/research/best-ai-tools-for-twitch-streamers-2026#:~:text=How%20does%20Opus%20Clip%20work"
+      },
+      {
+        "position": 7,
+        "title": "Free Automatic Clip Maker for Twitch",
+        "link": "https://nexusclips.com/twitch/free-automatic-twitch-clips",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://nexusclips.com/twitch/free-automatic-twitch-clips&usg=AOvVaw3U95Vcj1CZRBBEBzEYRg6A",
+        "displayed_link": "https://nexusclips.com \u203a twitch \u203a free-automatic-twitch-...",
+        "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0oIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjsBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3LzUvNzc3Ny83NTc3Nzc3NTc3Nzg3Nzg3Kzc3NzI3NzctLTQ3OP_AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAAABAUHBgL_xAAqEAACAQMCAwcFAAAAAAAAAAABAgMABBEFEgYxsSEiMkGRodETFCNRYf_EABkBAAIDAQAAAAAAAAAAAAAAAAAEAQMFBv_EACQRAAIBBAAFBQAAAAAAAAAAAAABAgMEERIhMUFxkQUyYaHR_9oADAMBAAIRAxEAPwDcGZUUs5CqBkk8hUpNvCBLJJPENmt6LaSOeMFtoldAE65HpUzjKHuXAfXp9V0900_jr-fZ5g4l064u_t4mkOW2iTb3SevtSyuIOWCZ-mV4Q3l46lmrzPF7544rdppslIu9t_Z8verKScpax6ko4-7Y3SySy9rOcmn7iMY0tTbspapYE-HrBrnWYlUfjjP1HP8AB8nArlYR3r4XJD99cKnbtvm-Bola5ygjrNrLd2LRQ-LcDjOM1fbVI06mZEMjxaNdvavvUI48KEjLVbd1ozjrEftrqNPCkNaFp1xbRypNGsSu2WbOWYeQ7OQ5-tY1CjOLe3BPz2LLy5p1GnF5x47lynTNCgAoAKACgD__2Q.jpg",
+        "snippet": "Nexus Clips is your ultimate solution for generating automatic Twitch clips for free. AI automatically identifies and extracts the clips from your streams, ...",
+        "snippet_highlighted_words": [
+          "Nexus Clips"
+        ],
+        "about_this_result": {
+          "source": {
+            "description": "Nexus Clips is your ultimate solution for generating automatic Twitch clips for free. AI automatically identifies and extracts the clips from your streams, ...",
+            "source_info_link": "https://nexusclips.com/twitch/free-automatic-twitch-clips",
+            "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0oIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjsBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3LzUvNzc3Ny83NTc3Nzc3NTc3Nzg3Nzg3Kzc3NzI3NzctLTQ3OP_AABEIABwAHAMBEQACEQEDEQH_xAAZAAADAQEBAAAAAAAAAAAAAAAABAUHBgL_xAAqEAACAQMCAwcFAAAAAAAAAAABAgMABBEFEgYxsSEiMkGRodETFCNRYf_EABkBAAIDAQAAAAAAAAAAAAAAAAAEAQMFBv_EACQRAAIBBAAFBQAAAAAAAAAAAAABAgMEERIhMUFxkQUyYaHR_9oADAMBAAIRAxEAPwDcGZUUs5CqBkk8hUpNvCBLJJPENmt6LaSOeMFtoldAE65HpUzjKHuXAfXp9V0900_jr-fZ5g4l064u_t4mkOW2iTb3SevtSyuIOWCZ-mV4Q3l46lmrzPF7544rdppslIu9t_Z8verKScpax6ko4-7Y3SySy9rOcmn7iMY0tTbspapYE-HrBrnWYlUfjjP1HP8AB8nArlYR3r4XJD99cKnbtvm-Bola5ygjrNrLd2LRQ-LcDjOM1fbVI06mZEMjxaNdvavvUI48KEjLVbd1ozjrEftrqNPCkNaFp1xbRypNGsSu2WbOWYeQ7OQ5-tY1CjOLe3BPz2LLy5p1GnF5x47lynTNCgAoAKACgD__2Q.jpg"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CjlodHRwczovL25leHVzY2xpcHMuY29tL3R3aXRjaC9mcmVlLWF1dG9tYXRpYy10d2l0Y2gtY2xpcHMSBBoCCAAarwcSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCJBwgAEAAYACAAKiwKBHdoYXQVuwOjPhoFZ3JlYXQaBnRvcCAxMBoJdG9wIHJhdGVkGgV3aGF0cyoKCgNhcmUVAAAAACoKCgN0aGUVAAAAACo-CgRiZXN0FVHg5j8aB2Jlc3Rlc3QaBWdyZWF0Gglzb21lIGdvb2QaA3RvcBoGdG9wIDEwGgl0b3AgcmF0ZWQqXQoJYXV0b21hdGVkFQAAAAAaBGF1dG8aCGF1dG9tYXRlGglhdXRvbWF0aWMaCmF1dG9tYXRpbmcaCmF1dG9tYXRpb24aDml2O3A7YXV0b21hdGVkGghzb2Z0d2FyZSorCgJhaRXkwO8_GhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoHYWl2aWRlbyodCgV2aWRlbxWPTApAGgZ2aWRlb3MaB2FpdmlkZW8qPgoIY2xpcHBpbmcVAAAAABoEY2xpcBoFY2xpcHMaB2N1dHRpbmcaCHRyaW1taW5nGg1pdjtwO2NsaXBwaW5nKh0KBXRvb2xzFbQ8Xz4aCWVxdWlwbWVudBoEdG9vbCoKCgNmb3IVAAAAACorCgZ0d2l0Y2gVHgfQQBoPdHdpdGNoc3RyZWFtZXJzGgtpdjtwO3R3aXRjaCo7CglzdHJlYW1lcnMVAAAAABoIc3RyZWFtZXIaD3R3aXRjaHN0cmVhbWVycxoOaXY7cDtzdHJlYW1lcnMqCQoCaW4VAAAAACokCgQyMDI2FXd9cj0aDGdtO2RhdGU7MjAyNhoJaXY7bjsyMDI2MjlodHRwczovL25leHVzY2xpcHMuY29tL3R3aXRjaC9mcmVlLWF1dG9tYXRpYy10d2l0Y2gtY2xpcHM6P0ZyZWUgPGI-QXV0b21hdGljIENsaXA8L2I-IE1ha2VyIGZvciA8Yj5Ud2l0Y2g8L2I-IHwgTmV4dXNDbGlwc0KrATxiPk5leHVzIENsaXBzPC9iPiBpcyB5b3VyIHVsdGltYXRlIHNvbHV0aW9uIGZvciBnZW5lcmF0aW5nIGF1dG9tYXRpYyBUd2l0Y2ggY2xpcHMgZm9yIGZyZWUuIEFJIGF1dG9tYXRpY2FsbHkgaWRlbnRpZmllcyBhbmQgZXh0cmFjdHMgdGhlIGNsaXBzIGZyb20geW91ciBzdHJlYW1zLCZuYnNwOy4uLkoCaW5KA3RoZUoDYXJlSgNmb3JSBnRvcCAxMFIDdG9wIgIQAUgAWABoAA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CjlodHRwczovL25leHVzY2xpcHMuY29tL3R3aXRjaC9mcmVlLWF1dG9tYXRpYy10d2l0Y2gtY2xpcHMSBBoCCAAarwcSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCJBwgAEAAYACAAKiwKBHdoYXQVuwOjPhoFZ3JlYXQaBnRvcCAxMBoJdG9wIHJhdGVkGgV3aGF0cyoKCgNhcmUVAAAAACoKCgN0aGUVAAAAACo-CgRiZXN0FVHg5j8aB2Jlc3Rlc3QaBWdyZWF0Gglzb21lIGdvb2QaA3RvcBoGdG9wIDEwGgl0b3AgcmF0ZWQqXQoJYXV0b21hdGVkFQAAAAAaBGF1dG8aCGF1dG9tYXRlGglhdXRvbWF0aWMaCmF1dG9tYXRpbmcaCmF1dG9tYXRpb24aDml2O3A7YXV0b21hdGVkGghzb2Z0d2FyZSorCgJhaRXkwO8_GhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoHYWl2aWRlbyodCgV2aWRlbxWPTApAGgZ2aWRlb3MaB2FpdmlkZW8qPgoIY2xpcHBpbmcVAAAAABoEY2xpcBoFY2xpcHMaB2N1dHRpbmcaCHRyaW1taW5nGg1pdjtwO2NsaXBwaW5nKh0KBXRvb2xzFbQ8Xz4aCWVxdWlwbWVudBoEdG9vbCoKCgNmb3IVAAAAACorCgZ0d2l0Y2gVHgfQQBoPdHdpdGNoc3RyZWFtZXJzGgtpdjtwO3R3aXRjaCo7CglzdHJlYW1lcnMVAAAAABoIc3RyZWFtZXIaD3R3aXRjaHN0cmVhbWVycxoOaXY7cDtzdHJlYW1lcnMqCQoCaW4VAAAAACokCgQyMDI2FXd9cj0aDGdtO2RhdGU7MjAyNhoJaXY7bjsyMDI2MjlodHRwczovL25leHVzY2xpcHMuY29tL3R3aXRjaC9mcmVlLWF1dG9tYXRpYy10d2l0Y2gtY2xpcHM6P0ZyZWUgPGI-QXV0b21hdGljIENsaXA8L2I-IE1ha2VyIGZvciA8Yj5Ud2l0Y2g8L2I-IHwgTmV4dXNDbGlwc0KrATxiPk5leHVzIENsaXBzPC9iPiBpcyB5b3VyIHVsdGltYXRlIHNvbHV0aW9uIGZvciBnZW5lcmF0aW5nIGF1dG9tYXRpYyBUd2l0Y2ggY2xpcHMgZm9yIGZyZWUuIEFJIGF1dG9tYXRpY2FsbHkgaWRlbnRpZmllcyBhbmQgZXh0cmFjdHMgdGhlIGNsaXBzIGZyb20geW91ciBzdHJlYW1zLCZuYnNwOy4uLkoCaW5KA3RoZUoDYXJlSgNmb3JSBnRvcCAxMFIDdG9wIgIQAUgAWABoAA",
+        "source": "Nexus Clips"
+      },
+      {
+        "position": 8,
+        "title": "Best Twitch Clip Maker (2026): 14 AI Tools Ranked",
+        "link": "https://makeaivideo.ai/blog/best-twitch-clip-makers-2026",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://makeaivideo.ai/blog/best-twitch-clip-makers-2026&usg=AOvVaw2dPHDZ16E8L894arfbNEOl",
+        "displayed_link": "https://makeaivideo.ai \u203a Blog",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAS1BMVEVUcP9PbP9Mav9Kaf9BYv9ziP-ns_9FZf94jP-5wv_x8_____9HZ_-VpP-0vv9-kf_m6f86Xv-uuf_4-f_c4P_Z3v_Byf-Dlf9vhf8rf3ZBAAAAZElEQVR4AdXQNQIAIQwEQDQ5d-H_H8U6LD3bDsRYz-GiKVJpwLrJYZzmGZaqrdsconml5n6c8vJ4V9ri_SCTgV9V2Dd7ZJEvmRX954iRN8NppMvSA9GrUEcgzldhZQBZO4J1Gwd9cgVgt7doUwAAAABJRU5ErkJggg.png",
+        "date": "Sep 7, 2026",
+        "snippet": "The best twitch clip maker for 2026, ranked. 14 AI tools tested on VOD auto-detection, vertical crop, captions, and cost for streamers.",
+        "snippet_highlighted_words": [
+          "14 AI tools"
+        ],
+        "sitelinks": {
+          "inline": [
+            {
+              "title": "The Other Nine Tools Worth...",
+              "link": "https://makeaivideo.ai/blog/best-twitch-clip-makers-2026#:~:text=The%20other%20nine%20tools%20worth%20knowing%20about,-The%20tools%20in%20this%20next"
+            },
+            {
+              "title": "Which Clip Maker Should You...",
+              "link": "https://makeaivideo.ai/blog/best-twitch-clip-makers-2026#:~:text=Which%20clip%20maker%20should%20you%20actually%20pick,-The%20honest%20short%20answer%20depends"
+            },
+            {
+              "title": "Twitch Clip Maker Faqs",
+              "link": "https://makeaivideo.ai/blog/best-twitch-clip-makers-2026#:~:text=Twitch%20clip%20maker%20FAQs,-What%20is%20the%20best%20twitch"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "The best twitch clip maker for 2026, ranked. 14 AI tools tested on VOD auto-detection, vertical crop, captions, and cost for streamers.",
+            "source_info_link": "https://makeaivideo.ai/blog/best-twitch-clip-makers-2026",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAS1BMVEVUcP9PbP9Mav9Kaf9BYv9ziP-ns_9FZf94jP-5wv_x8_____9HZ_-VpP-0vv9-kf_m6f86Xv-uuf_4-f_c4P_Z3v_Byf-Dlf9vhf8rf3ZBAAAAZElEQVR4AdXQNQIAIQwEQDQ5d-H_H8U6LD3bDsRYz-GiKVJpwLrJYZzmGZaqrdsconml5n6c8vJ4V9ri_SCTgV9V2Dd7ZJEvmRX954iRN8NppMvSA9GrUEcgzldhZQBZO4J1Gwd9cgVgt7doUwAAAABJRU5ErkJggg.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CjhodHRwczovL21ha2VhaXZpZGVvLmFpL2Jsb2cvYmVzdC10d2l0Y2gtY2xpcC1tYWtlcnMtMjAyNhIEGgIIABqaBxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHICCAF6AIJA8gYIABAAGAAgACosCgR3aGF0FYXl7z8aBWdyZWF0GgZ0b3AgMTAaCXRvcCByYXRlZBoFd2hhdHMqCgoDYXJlFQAAAAAqCgoDdGhlFQAAAAAqPgoEYmVzdBWyzZlAGgdiZXN0ZXN0GgVncmVhdBoJc29tZSBnb29kGgN0b3AaBnRvcCAxMBoJdG9wIHJhdGVkKl0KCWF1dG9tYXRlZBUAAAAAGgRhdXRvGghhdXRvbWF0ZRoJYXV0b21hdGljGgphdXRvbWF0aW5nGgphdXRvbWF0aW9uGg5pdjtwO2F1dG9tYXRlZBoIc29mdHdhcmUqKwoCYWkVGwZCQRoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaB2FpdmlkZW8qHQoFdmlkZW8VhGIQQRoGdmlkZW9zGgdhaXZpZGVvKj4KCGNsaXBwaW5nFVp0mj8aBGNsaXAaBWNsaXBzGgdjdXR0aW5nGgh0cmltbWluZxoNaXY7cDtjbGlwcGluZyodCgV0b29scxXRL59AGgllcXVpcG1lbnQaBHRvb2wqCgoDZm9yFQAAAAAqKwoGdHdpdGNoFQnRlkAaD3R3aXRjaHN0cmVhbWVycxoLaXY7cDt0d2l0Y2gqOwoJc3RyZWFtZXJzFbLrEUAaCHN0cmVhbWVyGg90d2l0Y2hzdHJlYW1lcnMaDml2O3A7c3RyZWFtZXJzKgkKAmluFQAAAAAqJAoEMjAyNhViKG5AGgxnbTtkYXRlOzIwMjYaCWl2O247MjAyNjI4aHR0cHM6Ly9tYWtlYWl2aWRlby5haS9ibG9nL2Jlc3QtdHdpdGNoLWNsaXAtbWFrZXJzLTIwMjY6RjxiPkJlc3QgVHdpdGNoIENsaXA8L2I-IE1ha2VyICg8Yj4yMDI2PC9iPik6IDE0IDxiPkFJIFRvb2xzPC9iPiBSYW5rZWRCjgFUaGUgYmVzdCB0d2l0Y2ggY2xpcCBtYWtlciBmb3IgMjAyNiwgcmFua2VkLiA8Yj4xNCBBSSB0b29sczwvYj4gdGVzdGVkIG9uIFZPRCBhdXRvLWRldGVjdGlvbiwgdmVydGljYWwgY3JvcCwgY2FwdGlvbnMsIGFuZCBjb3N0IGZvciBzdHJlYW1lcnMuSgJpbkoDdGhlSgNhcmVKA2ZvclIDdG9wUgZ0b3AgMTAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CjhodHRwczovL21ha2VhaXZpZGVvLmFpL2Jsb2cvYmVzdC10d2l0Y2gtY2xpcC1tYWtlcnMtMjAyNhIEGgIIABqaBxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHICCAF6AIJA8gYIABAAGAAgACosCgR3aGF0FYXl7z8aBWdyZWF0GgZ0b3AgMTAaCXRvcCByYXRlZBoFd2hhdHMqCgoDYXJlFQAAAAAqCgoDdGhlFQAAAAAqPgoEYmVzdBWyzZlAGgdiZXN0ZXN0GgVncmVhdBoJc29tZSBnb29kGgN0b3AaBnRvcCAxMBoJdG9wIHJhdGVkKl0KCWF1dG9tYXRlZBUAAAAAGgRhdXRvGghhdXRvbWF0ZRoJYXV0b21hdGljGgphdXRvbWF0aW5nGgphdXRvbWF0aW9uGg5pdjtwO2F1dG9tYXRlZBoIc29mdHdhcmUqKwoCYWkVGwZCQRoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaB2FpdmlkZW8qHQoFdmlkZW8VhGIQQRoGdmlkZW9zGgdhaXZpZGVvKj4KCGNsaXBwaW5nFVp0mj8aBGNsaXAaBWNsaXBzGgdjdXR0aW5nGgh0cmltbWluZxoNaXY7cDtjbGlwcGluZyodCgV0b29scxXRL59AGgllcXVpcG1lbnQaBHRvb2wqCgoDZm9yFQAAAAAqKwoGdHdpdGNoFQnRlkAaD3R3aXRjaHN0cmVhbWVycxoLaXY7cDt0d2l0Y2gqOwoJc3RyZWFtZXJzFbLrEUAaCHN0cmVhbWVyGg90d2l0Y2hzdHJlYW1lcnMaDml2O3A7c3RyZWFtZXJzKgkKAmluFQAAAAAqJAoEMjAyNhViKG5AGgxnbTtkYXRlOzIwMjYaCWl2O247MjAyNjI4aHR0cHM6Ly9tYWtlYWl2aWRlby5haS9ibG9nL2Jlc3QtdHdpdGNoLWNsaXAtbWFrZXJzLTIwMjY6RjxiPkJlc3QgVHdpdGNoIENsaXA8L2I-IE1ha2VyICg8Yj4yMDI2PC9iPik6IDE0IDxiPkFJIFRvb2xzPC9iPiBSYW5rZWRCjgFUaGUgYmVzdCB0d2l0Y2ggY2xpcCBtYWtlciBmb3IgMjAyNiwgcmFua2VkLiA8Yj4xNCBBSSB0b29sczwvYj4gdGVzdGVkIG9uIFZPRCBhdXRvLWRldGVjdGlvbiwgdmVydGljYWwgY3JvcCwgY2FwdGlvbnMsIGFuZCBjb3N0IGZvciBzdHJlYW1lcnMuSgJpbkoDdGhlSgNhcmVKA2ZvclIDdG9wUgZ0b3AgMTAiAhABSABYAGgA",
+        "source": "makeaivideo.ai",
+        "read_more_link": "https://makeaivideo.ai/blog/best-twitch-clip-makers-2026#:~:text=The%20best%20twitch%20clip%20maker,captions%2C%20and%20cost%20for%20streamers."
+      },
+      {
+        "position": 9,
+        "title": "AI Tools for Streamers: The Best Picks for Twitch in 2026",
+        "link": "https://viddyflow.com/blog/best-ai-tools-for-twitch-streamers/",
+        "redirect_link": "https://www.google.com/url?sa=t&url=https://viddyflow.com/blog/best-ai-tools-for-twitch-streamers/&usg=AOvVaw2q6a8WmvqZxh4V7XbDovnM",
+        "displayed_link": "https://viddyflow.com \u203a blog \u203a best-ai-tools-for-twitch-...",
+        "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAACQklEQVR4Ae2UA3RgMRBFU9u2bdu2bbdr27Zt27Zt27btdzpr15yP-I6SMMEykFpoVYQKCPBy8zP8fztVgIsJMCbA8_n_X1CwVOW0TRXdxEVkGPt5DXokNdWUnVwkFXRkzB1EFZXRw_tlGurQ9HtLGT9rYDVpVNiFet4Tv-discecjT7rbpv23W-24Iblmvuue5-6LD-gEpnCCsV-2lxJryBwf-8-uD1sDo1Mu5Dk05W4-Dv2nRSw9b5R4w3G7TZp1l9mPe4YcZNvvE2_-SL1yRuHhx_59Ux_B6U2N0s27Nfd52i3uqeAgxqYSTYCBygqErZ1dBoMBReaHI49w8tGr_69-7CRcTJAZUU1G5nsAdTVLQ9c88S2gTPv2HTer9lqlvbEy3KxbchlhFWiYR_uztP5UpoT8WcoiHbKMXkuK_X1grEg2nxCndgjqQ23oA6c34BLFlmjjRvPRD164trEMTNss-oTGjgi_h7qpJhtJVonMHwGFmtJeaV47qrT9aq2T52QlmfxKmg7IqZ19t6nN-_ky-htlxFrOM77Jyh3IRTRDHaZYRHYDiagklBwKL798dCIbdCEHuQHqVdpvJMiS9uAfP89lE-QwTofxd60SRFcW4smwAEa4r4GdYLCfaSLdoWsf_bXjP8eSlz25TjhjyagMBYvhQ-RBRQB4f16rrhY0c4-KK7mXWEm0HYBE50zFgMK3wlazAuFTAYUL4yldAFNvhcTStnDnkXGvtoLr6GsJNAvgYZwM5L_Idbe_LXQ0pdPwikM97ZzjaIAAAAASUVORK5CYII.png",
+        "date": "Feb 25, 2026",
+        "snippet": "AI clip and highlight generators: turn your VODs into highlight videos and vertical shorts (ViddyFlow, OpusClip, Eklipse). AI chat moderation: ...",
+        "snippet_highlighted_words": [
+          "AI clip and highlight generators"
+        ],
+        "sitelinks": {
+          "inline": [
+            {
+              "title": "Ai Chat Moderation",
+              "link": "https://viddyflow.com/blog/best-ai-tools-for-twitch-streamers/#:~:text=AI%20Chat%20Moderation,-Managing%20Twitch%20chat%20at%20scale"
+            },
+            {
+              "title": "Ai Thumbnail & Graphics...",
+              "link": "https://viddyflow.com/blog/best-ai-tools-for-twitch-streamers/#:~:text=AI%20Thumbnail%20%26%20Graphics%20Generators,-Eye%2Dcatching%20thumbnails%20drive"
+            },
+            {
+              "title": "Ai Video Editors",
+              "link": "https://viddyflow.com/blog/best-ai-tools-for-twitch-streamers/#:~:text=AI%20Video%20Editors,-For%20streamers%20who%20want%20more"
+            }
+          ]
+        },
+        "about_this_result": {
+          "source": {
+            "description": "AI clip and highlight generators: turn your VODs into highlight videos and vertical shorts (ViddyFlow, OpusClip, Eklipse). AI chat moderation: ...",
+            "source_info_link": "https://viddyflow.com/blog/best-ai-tools-for-twitch-streamers/",
+            "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAACQklEQVR4Ae2UA3RgMRBFU9u2bdu2bbdr27Zt27Zt27btdzpr15yP-I6SMMEykFpoVYQKCPBy8zP8fztVgIsJMCbA8_n_X1CwVOW0TRXdxEVkGPt5DXokNdWUnVwkFXRkzB1EFZXRw_tlGurQ9HtLGT9rYDVpVNiFet4Tv-discecjT7rbpv23W-24Iblmvuue5-6LD-gEpnCCsV-2lxJryBwf-8-uD1sDo1Mu5Dk05W4-Dv2nRSw9b5R4w3G7TZp1l9mPe4YcZNvvE2_-SL1yRuHhx_59Ux_B6U2N0s27Nfd52i3uqeAgxqYSTYCBygqErZ1dBoMBReaHI49w8tGr_69-7CRcTJAZUU1G5nsAdTVLQ9c88S2gTPv2HTer9lqlvbEy3KxbchlhFWiYR_uztP5UpoT8WcoiHbKMXkuK_X1grEg2nxCndgjqQ23oA6c34BLFlmjjRvPRD164trEMTNss-oTGjgi_h7qpJhtJVonMHwGFmtJeaV47qrT9aq2T52QlmfxKmg7IqZ19t6nN-_ky-htlxFrOM77Jyh3IRTRDHaZYRHYDiagklBwKL798dCIbdCEHuQHqVdpvJMiS9uAfP89lE-QwTofxd60SRFcW4smwAEa4r4GdYLCfaSLdoWsf_bXjP8eSlz25TjhjyagMBYvhQ-RBRQB4f16rrhY0c4-KK7mXWEm0HYBE50zFgMK3wlazAuFTAYUL4yldAFNvhcTStnDnkXGvtoLr6GsJNAvgYZwM5L_Idbe_LXQ0pdPwikM97ZzjaIAAAAASUVORK5CYII.png"
+          },
+          "languages": [
+            "en"
+          ],
+          "regions": [
+            "US"
+          ]
+        },
+        "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cj5odHRwczovL3ZpZGR5Zmxvdy5jb20vYmxvZy9iZXN0LWFpLXRvb2xzLWZvci10d2l0Y2gtc3RyZWFtZXJzLxIEGgIIABrEBxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAggBegCCQJ4HCAAQABgAIAAqLAoEd2hhdBUe-uE_GgVncmVhdBoGdG9wIDEwGgl0b3AgcmF0ZWQaBXdoYXRzKgoKA2FyZRUAAAAAKgoKA3RoZRUAAAAAKj4KBGJlc3QVStHmQBoHYmVzdGVzdBoFZ3JlYXQaCXNvbWUgZ29vZBoDdG9wGgZ0b3AgMTAaCXRvcCByYXRlZCpdCglhdXRvbWF0ZWQVwRofPxoEYXV0bxoIYXV0b21hdGUaCWF1dG9tYXRpYxoKYXV0b21hdGluZxoKYXV0b21hdGlvbhoOaXY7cDthdXRvbWF0ZWQaCHNvZnR3YXJlKisKAmFpFVz8KEEaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgdhaXZpZGVvKh0KBXZpZGVvFTtlV0AaBnZpZGVvcxoHYWl2aWRlbyo-CghjbGlwcGluZxVWqtM_GgRjbGlwGgVjbGlwcxoHY3V0dGluZxoIdHJpbW1pbmcaDWl2O3A7Y2xpcHBpbmcqHQoFdG9vbHMVZkX5QBoJZXF1aXBtZW50GgR0b29sKgoKA2ZvchUAAAAAKisKBnR3aXRjaBUKggRBGg90d2l0Y2hzdHJlYW1lcnMaC2l2O3A7dHdpdGNoKjsKCXN0cmVhbWVycxU3PARBGghzdHJlYW1lchoPdHdpdGNoc3RyZWFtZXJzGg5pdjtwO3N0cmVhbWVycyoJCgJpbhUAAAAAKiQKBDIwMjYV7ATNQBoMZ207ZGF0ZTsyMDI2GglpdjtuOzIwMjYyPmh0dHBzOi8vdmlkZHlmbG93LmNvbS9ibG9nL2Jlc3QtYWktdG9vbHMtZm9yLXR3aXRjaC1zdHJlYW1lcnMvOlw8Yj5BSSBUb29sczwvYj4gZm9yIDxiPlN0cmVhbWVyczwvYj46IFRoZSA8Yj5CZXN0PC9iPiBQaWNrcyBmb3IgPGI-VHdpdGNoPC9iPiBpbiA8Yj4yMDI2PC9iPkKeATxiPkFJIGNsaXAgYW5kIGhpZ2hsaWdodCBnZW5lcmF0b3JzPC9iPjogdHVybiB5b3VyIFZPRHMgaW50byBoaWdobGlnaHQgdmlkZW9zIGFuZCB2ZXJ0aWNhbCBzaG9ydHMgKFZpZGR5RmxvdywgT3B1c0NsaXAsIEVrbGlwc2UpLiBBSSBjaGF0IG1vZGVyYXRpb246Jm5ic3A7Li4uSgN0aGVKA2FyZUoDZm9ySgJpblIDdG9wUgZ0b3AgMTAiAhABSABYAGgA",
+        "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cj5odHRwczovL3ZpZGR5Zmxvdy5jb20vYmxvZy9iZXN0LWFpLXRvb2xzLWZvci10d2l0Y2gtc3RyZWFtZXJzLxIEGgIIABrEBxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAggBegCCQJ4HCAAQABgAIAAqLAoEd2hhdBUe-uE_GgVncmVhdBoGdG9wIDEwGgl0b3AgcmF0ZWQaBXdoYXRzKgoKA2FyZRUAAAAAKgoKA3RoZRUAAAAAKj4KBGJlc3QVStHmQBoHYmVzdGVzdBoFZ3JlYXQaCXNvbWUgZ29vZBoDdG9wGgZ0b3AgMTAaCXRvcCByYXRlZCpdCglhdXRvbWF0ZWQVwRofPxoEYXV0bxoIYXV0b21hdGUaCWF1dG9tYXRpYxoKYXV0b21hdGluZxoKYXV0b21hdGlvbhoOaXY7cDthdXRvbWF0ZWQaCHNvZnR3YXJlKisKAmFpFVz8KEEaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgdhaXZpZGVvKh0KBXZpZGVvFTtlV0AaBnZpZGVvcxoHYWl2aWRlbyo-CghjbGlwcGluZxVWqtM_GgRjbGlwGgVjbGlwcxoHY3V0dGluZxoIdHJpbW1pbmcaDWl2O3A7Y2xpcHBpbmcqHQoFdG9vbHMVZkX5QBoJZXF1aXBtZW50GgR0b29sKgoKA2ZvchUAAAAAKisKBnR3aXRjaBUKggRBGg90d2l0Y2hzdHJlYW1lcnMaC2l2O3A7dHdpdGNoKjsKCXN0cmVhbWVycxU3PARBGghzdHJlYW1lchoPdHdpdGNoc3RyZWFtZXJzGg5pdjtwO3N0cmVhbWVycyoJCgJpbhUAAAAAKiQKBDIwMjYV7ATNQBoMZ207ZGF0ZTsyMDI2GglpdjtuOzIwMjYyPmh0dHBzOi8vdmlkZHlmbG93LmNvbS9ibG9nL2Jlc3QtYWktdG9vbHMtZm9yLXR3aXRjaC1zdHJlYW1lcnMvOlw8Yj5BSSBUb29sczwvYj4gZm9yIDxiPlN0cmVhbWVyczwvYj46IFRoZSA8Yj5CZXN0PC9iPiBQaWNrcyBmb3IgPGI-VHdpdGNoPC9iPiBpbiA8Yj4yMDI2PC9iPkKeATxiPkFJIGNsaXAgYW5kIGhpZ2hsaWdodCBnZW5lcmF0b3JzPC9iPjogdHVybiB5b3VyIFZPRHMgaW50byBoaWdobGlnaHQgdmlkZW9zIGFuZCB2ZXJ0aWNhbCBzaG9ydHMgKFZpZGR5RmxvdywgT3B1c0NsaXAsIEVrbGlwc2UpLiBBSSBjaGF0IG1vZGVyYXRpb246Jm5ic3A7Li4uSgN0aGVKA2FyZUoDZm9ySgJpblIDdG9wUgZ0b3AgMTAiAhABSABYAGgA",
+        "source": "ViddyFlow",
+        "read_more_link": "https://viddyflow.com/blog/best-ai-tools-for-twitch-streamers/#:~:text=AI%20clip%20and%20highlight%20generators%3A,team%20(Twitch%20AutoMod%2C%20Nightbot%2C%20Fossabot)."
+      }
+    ],
+    "related_searches": [
+      {
+        "block_position": 1,
+        "query": "Twitch AI clip maker free",
+        "link": "https://www.google.com/search?sca_esv=31c35fa90115a8d5&hl=en&gl=us&sxsrf=AKL5yDjXuDguhPHm7Dkw2G-S6Xqj9bMIVA:1795441410208&q=Twitch+AI+clip+maker+free&sa=X&ved=2ahUKEwjanuG7nJ6YAxWsF1kFHSI0FTIQ1QJ6BAhREAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Twitch+AI+clip+maker+free"
+      },
+      {
+        "block_position": 1,
+        "query": "AI stream clipper free",
+        "link": "https://www.google.com/search?sca_esv=31c35fa90115a8d5&hl=en&gl=us&sxsrf=AKL5yDjXuDguhPHm7Dkw2G-S6Xqj9bMIVA:1795441410208&q=AI+stream+clipper+free&sa=X&ved=2ahUKEwjanuG7nJ6YAxWsF1kFHSI0FTIQ1QJ6BAhYEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AI+stream+clipper+free"
+      },
+      {
+        "block_position": 1,
+        "query": "Eklipse AI",
+        "link": "https://www.google.com/search?sca_esv=31c35fa90115a8d5&hl=en&gl=us&sxsrf=AKL5yDjXuDguhPHm7Dkw2G-S6Xqj9bMIVA:1795441410208&q=Eklipse+AI&sa=X&ved=2ahUKEwjanuG7nJ6YAxWsF1kFHSI0FTIQ1QJ6BAhXEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Eklipse+AI"
+      },
+      {
+        "block_position": 1,
+        "query": "Twitch clip maker",
+        "link": "https://www.google.com/search?sca_esv=31c35fa90115a8d5&hl=en&gl=us&sxsrf=AKL5yDjXuDguhPHm7Dkw2G-S6Xqj9bMIVA:1795441410208&q=Twitch+clip+maker&sa=X&ved=2ahUKEwjanuG7nJ6YAxWsF1kFHSI0FTIQ1QJ6BAhSEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Twitch+clip+maker"
+      },
+      {
+        "block_position": 1,
+        "query": "Best AI clipping tool for Twitch",
+        "link": "https://www.google.com/search?sca_esv=31c35fa90115a8d5&hl=en&gl=us&sxsrf=AKL5yDjXuDguhPHm7Dkw2G-S6Xqj9bMIVA:1795441410208&q=Best+AI+clipping+tool+for+Twitch&sa=X&ved=2ahUKEwjanuG7nJ6YAxWsF1kFHSI0FTIQ1QJ6BAhTEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+AI+clipping+tool+for+Twitch"
+      },
+      {
+        "block_position": 1,
+        "query": "Streamer clips AI",
+        "link": "https://www.google.com/search?sca_esv=31c35fa90115a8d5&hl=en&gl=us&sxsrf=AKL5yDjXuDguhPHm7Dkw2G-S6Xqj9bMIVA:1795441410208&q=Streamer+clips+AI&sa=X&ved=2ahUKEwjanuG7nJ6YAxWsF1kFHSI0FTIQ1QJ6BAhUEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Streamer+clips+AI"
+      },
+      {
+        "block_position": 1,
+        "query": "Auto clip maker Twitch",
+        "link": "https://www.google.com/search?sca_esv=31c35fa90115a8d5&hl=en&gl=us&sxsrf=AKL5yDjXuDguhPHm7Dkw2G-S6Xqj9bMIVA:1795441410208&q=Auto+clip+maker+Twitch&sa=X&ved=2ahUKEwjanuG7nJ6YAxWsF1kFHSI0FTIQ1QJ6BAhWEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Auto+clip+maker+Twitch"
+      },
+      {
+        "block_position": 1,
+        "query": "Eklipse GG",
+        "link": "https://www.google.com/search?sca_esv=31c35fa90115a8d5&hl=en&gl=us&sxsrf=AKL5yDjXuDguhPHm7Dkw2G-S6Xqj9bMIVA:1795441410208&q=Eklipse+GG&sa=X&ved=2ahUKEwjanuG7nJ6YAxWsF1kFHSI0FTIQ1QJ6BAhVEAE",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Eklipse+GG"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://www.google.com/search?q=What+are+the+best+automated+AI+video+clipping+tools+for+Twitch+streamers+in+2026?&sca_esv=31c35fa90115a8d5&hl=en&gl=us&sxsrf=AKL5yDjXuDguhPHm7Dkw2G-S6Xqj9bMIVA:1795441410208&ei=AkMEa9qVDKyv5NoPoujUkAM&start=10&sa=N&sstk=AYl2yk-7IvHwA1ZUV0cmxm5N6-d0ZrfIhHR86wZhHPr82LmJyUqV5Q4e3lF9q2U6WYqkAvY9wUqsgktMI7IOOUmqzrVZ_GiEUeIEKg&ved=2ahUKEwjanuG7nJ6YAxWsF1kFHSI0FTIQ8NMDegQIThAW",
+      "other_pages": {
+        "2": "https://www.google.com/search?q=What+are+the+best+automated+AI+video+clipping+tools+for+Twitch+streamers+in+2026?&sca_esv=31c35fa90115a8d5&hl=en&gl=us&sxsrf=AKL5yDjXuDguhPHm7Dkw2G-S6Xqj9bMIVA:1795441410208&ei=AkMEa9qVDKyv5NoPoujUkAM&start=10&sa=N&sstk=AYl2yk-7IvHwA1ZUV0cmxm5N6-d0ZrfIhHR86wZhHPr82LmJyUqV5Q4e3lF9q2U6WYqkAvY9wUqsgktMI7IOOUmqzrVZ_GiEUeIEKg&ved=2ahUKEwjanuG7nJ6YAxWsF1kFHSI0FTIQ8tMDegQIThAE",
+        "3": "https://www.google.com/search?q=What+are+the+best+automated+AI+video+clipping+tools+for+Twitch+streamers+in+2026?&sca_esv=31c35fa90115a8d5&hl=en&gl=us&sxsrf=AKL5yDjXuDguhPHm7Dkw2G-S6Xqj9bMIVA:1795441410208&ei=AkMEa9qVDKyv5NoPoujUkAM&start=20&sa=N&sstk=AYl2yk-7IvHwA1ZUV0cmxm5N6-d0ZrfIhHR86wZhHPr82LmJyUqV5Q4e3lF9q2U6WYqkAvY9wUqsgktMI7IOOUmqzrVZ_GiEUeIEKg&ved=2ahUKEwjanuG7nJ6YAxWsF1kFHSI0FTIQ8tMDegQIThAG",
+        "4": "https://www.google.com/search?q=What+are+the+best+automated+AI+video+clipping+tools+for+Twitch+streamers+in+2026?&sca_esv=31c35fa90115a8d5&hl=en&gl=us&sxsrf=AKL5yDjXuDguhPHm7Dkw2G-S6Xqj9bMIVA:1795441410208&ei=AkMEa9qVDKyv5NoPoujUkAM&start=30&sa=N&sstk=AYl2yk-7IvHwA1ZUV0cmxm5N6-d0ZrfIhHR86wZhHPr82LmJyUqV5Q4e3lF9q2U6WYqkAvY9wUqsgktMI7IOOUmqzrVZ_GiEUeIEKg&ved=2ahUKEwjanuG7nJ6YAxWsF1kFHSI0FTIQ8tMDegQIThAI",
+        "5": "https://www.google.com/search?q=What+are+the+best+automated+AI+video+clipping+tools+for+Twitch+streamers+in+2026?&sca_esv=31c35fa90115a8d5&hl=en&gl=us&sxsrf=AKL5yDjXuDguhPHm7Dkw2G-S6Xqj9bMIVA:1795441410208&ei=AkMEa9qVDKyv5NoPoujUkAM&start=40&sa=N&sstk=AYl2yk-7IvHwA1ZUV0cmxm5N6-d0ZrfIhHR86wZhHPr82LmJyUqV5Q4e3lF9q2U6WYqkAvY9wUqsgktMI7IOOUmqzrVZ_GiEUeIEKg&ved=2ahUKEwjanuG7nJ6YAxWsF1kFHSI0FTIQ8tMDegQIThAK",
+        "6": "https://www.google.com/search?q=What+are+the+best+automated+AI+video+clipping+tools+for+Twitch+streamers+in+2026?&sca_esv=31c35fa90115a8d5&hl=en&gl=us&sxsrf=AKL5yDjXuDguhPHm7Dkw2G-S6Xqj9bMIVA:1795441410208&ei=AkMEa9qVDKyv5NoPoujUkAM&start=50&sa=N&sstk=AYl2yk-7IvHwA1ZUV0cmxm5N6-d0ZrfIhHR86wZhHPr82LmJyUqV5Q4e3lF9q2U6WYqkAvY9wUqsgktMI7IOOUmqzrVZ_GiEUeIEKg&ved=2ahUKEwjanuG7nJ6YAxWsF1kFHSI0FTIQ8tMDegQIThAM",
+        "7": "https://www.google.com/search?q=What+are+the+best+automated+AI+video+clipping+tools+for+Twitch+streamers+in+2026?&sca_esv=31c35fa90115a8d5&hl=en&gl=us&sxsrf=AKL5yDjXuDguhPHm7Dkw2G-S6Xqj9bMIVA:1795441410208&ei=AkMEa9qVDKyv5NoPoujUkAM&start=60&sa=N&sstk=AYl2yk-7IvHwA1ZUV0cmxm5N6-d0ZrfIhHR86wZhHPr82LmJyUqV5Q4e3lF9q2U6WYqkAvY9wUqsgktMI7IOOUmqzrVZ_GiEUeIEKg&ved=2ahUKEwjanuG7nJ6YAxWsF1kFHSI0FTIQ8tMDegQIThAO",
+        "8": "https://www.google.com/search?q=What+are+the+best+automated+AI+video+clipping+tools+for+Twitch+streamers+in+2026?&sca_esv=31c35fa90115a8d5&hl=en&gl=us&sxsrf=AKL5yDjXuDguhPHm7Dkw2G-S6Xqj9bMIVA:1795441410208&ei=AkMEa9qVDKyv5NoPoujUkAM&start=70&sa=N&sstk=AYl2yk-7IvHwA1ZUV0cmxm5N6-d0ZrfIhHR86wZhHPr82LmJyUqV5Q4e3lF9q2U6WYqkAvY9wUqsgktMI7IOOUmqzrVZ_GiEUeIEKg&ved=2ahUKEwjanuG7nJ6YAxWsF1kFHSI0FTIQ8tMDegQIThAQ",
+        "9": "https://www.google.com/search?q=What+are+the+best+automated+AI+video+clipping+tools+for+Twitch+streamers+in+2026?&sca_esv=31c35fa90115a8d5&hl=en&gl=us&sxsrf=AKL5yDjXuDguhPHm7Dkw2G-S6Xqj9bMIVA:1795441410208&ei=AkMEa9qVDKyv5NoPoujUkAM&start=80&sa=N&sstk=AYl2yk-7IvHwA1ZUV0cmxm5N6-d0ZrfIhHR86wZhHPr82LmJyUqV5Q4e3lF9q2U6WYqkAvY9wUqsgktMI7IOOUmqzrVZ_GiEUeIEKg&ved=2ahUKEwjanuG7nJ6YAxWsF1kFHSI0FTIQ8tMDegQIThAS",
+        "10": "https://www.google.com/search?q=What+are+the+best+automated+AI+video+clipping+tools+for+Twitch+streamers+in+2026?&sca_esv=31c35fa90115a8d5&hl=en&gl=us&sxsrf=AKL5yDjXuDguhPHm7Dkw2G-S6Xqj9bMIVA:1795441410208&ei=AkMEa9qVDKyv5NoPoujUkAM&start=90&sa=N&sstk=AYl2yk-7IvHwA1ZUV0cmxm5N6-d0ZrfIhHR86wZhHPr82LmJyUqV5Q4e3lF9q2U6WYqkAvY9wUqsgktMI7IOOUmqzrVZ_GiEUeIEKg&ved=2ahUKEwjanuG7nJ6YAxWsF1kFHSI0FTIQ8tMDegQIThAU"
+      }
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+are+the+best+automated+AI+video+clipping+tools+for+Twitch+streamers+in+2026%3F&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+are+the+best+automated+AI+video+clipping+tools+for+Twitch+streamers+in+2026%3F&start=10",
+      "other_pages": {
+        "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+are+the+best+automated+AI+video+clipping+tools+for+Twitch+streamers+in+2026%3F&start=10",
+        "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+are+the+best+automated+AI+video+clipping+tools+for+Twitch+streamers+in+2026%3F&start=20",
+        "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+are+the+best+automated+AI+video+clipping+tools+for+Twitch+streamers+in+2026%3F&start=30",
+        "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+are+the+best+automated+AI+video+clipping+tools+for+Twitch+streamers+in+2026%3F&start=40",
+        "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+are+the+best+automated+AI+video+clipping+tools+for+Twitch+streamers+in+2026%3F&start=50",
+        "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+are+the+best+automated+AI+video+clipping+tools+for+Twitch+streamers+in+2026%3F&start=60",
+        "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+are+the+best+automated+AI+video+clipping+tools+for+Twitch+streamers+in+2026%3F&start=70",
+        "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+are+the+best+automated+AI+video+clipping+tools+for+Twitch+streamers+in+2026%3F&start=80",
+        "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=What+are+the+best+automated+AI+video+clipping+tools+for+Twitch+streamers+in+2026%3F&start=90"
+      }
+    }
+  },
+  "error_details": null
+}

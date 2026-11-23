@@ -1,5 +1,5 @@
 # IncuBrix Weekly AEO, SEO & GEO Visibility Audit Report
-**Date Generated:** 2026-11-22 13:44:10
+**Date Generated:** 2026-11-23 21:03:09
 **Total Queries Monitored:** 100
 **Unique Validated Queries:** 100
 
